@@ -84,7 +84,7 @@ El inicio del correo de seguimiento debe ser amable y hacer referencia al contac
 
 Evita empezar con "Just checking in" si lo envías muy pronto: suena impaciente. Es más apropiado cuando ya ha pasado el tiempo suficiente.
 
-En el hub [Emails Profesionales en Inglés](/hubs/emails-profesionales-ingles) hay guías completas para cada tipo de correo profesional en inglés.
+En el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) hay guías completas para cada tipo de correo profesional en inglés.
 
 ## El cuerpo: breve y con propósito claro
 

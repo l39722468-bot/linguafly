@@ -145,7 +145,7 @@ Guárdalas y adáptalas:
 2. *Should this issue remain unresolved, I will be compelled to escalate the matter formally.*
 3. *Had we invested at that time, we would now be in a considerably stronger financial position.*
 
-Para dominar todos los aspectos de los condicionales antes de aplicarlos al writing, consulta nuestra [guía de ejercicios de condicionales en inglés](/hubs/ejercicios-condicionales-ingles).
+Para dominar todos los aspectos de los condicionales antes de aplicarlos al writing, consulta nuestra [guía de ejercicios de condicionales en inglés](/blog/temas/ejercicios-condicionales-ingles).
 
 ## Fuentes
 

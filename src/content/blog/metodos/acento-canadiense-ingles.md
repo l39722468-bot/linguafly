@@ -145,7 +145,7 @@ El inglés canadiense tiene mucha presencia del vocabulario de las instituciones
 
 **Pódcasts y radio:** La CBC Radio One tiene programas hablados accesibles online que muestran el espectro del inglés canadiense culto y coloquial.
 
-Para situar el acento canadiense respecto a los demás —americano, británico, australiano— y entender en qué se parece y en qué difiere de cada uno, la guía de [acentos del inglés](/hubs/acentos-ingles-diferencias) da una visión de conjunto práctica.
+Para situar el acento canadiense respecto a los demás —americano, británico, australiano— y entender en qué se parece y en qué difiere de cada uno, la guía de [acentos del inglés](/blog/temas/acentos-ingles-diferencias) da una visión de conjunto práctica.
 
 ---
 

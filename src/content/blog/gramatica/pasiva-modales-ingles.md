@@ -91,7 +91,7 @@ Estos dos expresan que algo es aconsejable o que debería hacerse, pero sin la i
 
 *Ought to be* es sinónimo pero suena más formal y anticuado. En la práctica, *should be* es mucho más frecuente.
 
-Para ver esta estructura en el contexto global de la voz pasiva, échale un vistazo al hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles).
+Para ver esta estructura en el contexto global de la voz pasiva, échale un vistazo al hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles).
 
 ## Can be y could be: capacidad y posibilidad
 

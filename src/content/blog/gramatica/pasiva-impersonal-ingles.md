@@ -89,7 +89,7 @@ Cuando la acción del infinitivo ocurrió **antes** que el verbo de reporte, usa
 - *She is believed to have left the country last month.*
 - *The suspect is said to have escaped through a back exit.*
 
-En el hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles) encontrarás la tabla completa de tiempos con la pasiva y más ejemplos de estructuras avanzadas.
+En el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) encontrarás la tabla completa de tiempos con la pasiva y más ejemplos de estructuras avanzadas.
 
 ## Los verbos que necesitas conocer
 

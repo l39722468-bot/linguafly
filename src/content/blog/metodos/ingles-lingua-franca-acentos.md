@@ -104,7 +104,7 @@ Si estás aprendiendo inglés y tu objetivo principal es la comunicación profes
 
 **La fluidez importa más que la perfección fonética.** Un hablante que se comunica con confianza, que negocia activamente el significado cuando hay ambigüedad, que parafrasea cuando no se entiende y que mantiene el hilo de la conversación es más competente comunicativamente que uno que habla con acento perfecto pero titubea o se bloquea.
 
-**Hay que entrenar la comprensión, no solo la producción.** En el ELF te vas a encontrar con una variedad enorme de acentos. Entrenar el oído para acentos distintos al tuyo —no solo los nativos, también los de otros no nativos— es parte de la competencia comunicativa en un mundo globalizado. La guía sobre [acentos del inglés](/hubs/acentos-ingles-diferencias) cubre los principales acentos nativos; pero también vale la pena exponerse a inglés hablado por personas de India, Alemania, Japón o Nigeria.
+**Hay que entrenar la comprensión, no solo la producción.** En el ELF te vas a encontrar con una variedad enorme de acentos. Entrenar el oído para acentos distintos al tuyo —no solo los nativos, también los de otros no nativos— es parte de la competencia comunicativa en un mundo globalizado. La guía sobre [acentos del inglés](/blog/temas/acentos-ingles-diferencias) cubre los principales acentos nativos; pero también vale la pena exponerse a inglés hablado por personas de India, Alemania, Japón o Nigeria.
 
 **Las estrategias de negociación son habilidades, no defectos.** Pedir aclaración, verificar comprensión, parafrasear cuando algo no llega —estas son estrategias de comunicación sofisticadas, no señales de nivel bajo. Los mejores comunicadores en ELF las usan de forma fluida y sin vergüenza.
 

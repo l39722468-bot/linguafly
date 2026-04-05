@@ -92,7 +92,7 @@ Esta es la parte más importante. Describe lo que ocurrió con precisión:
 
 Usa fechas específicas, números de referencia y datos concretos. Eso da peso a la queja y dificulta que te la rechacen por falta de información.
 
-En el hub [Emails Profesionales en Inglés](/hubs/emails-profesionales-ingles) encontrarás plantillas completas para este y otros tipos de correo.
+En el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) encontrarás plantillas completas para este y otros tipos de correo.
 
 ## Describir el impacto
 

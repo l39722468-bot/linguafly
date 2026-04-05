@@ -37,7 +37,7 @@ El primero es el vocabulario de reconocimiento: palabras que ves en el Reading o
 
 El segundo es el vocabulario de producción: palabras que usas de forma activa en el Writing y el Speaking. Aquí no importa cuántas palabras sabes sino cómo las usas. Usar diez palabras de forma correcta y variada es mejor que intentar usar cien y cometer errores.
 
-Para el contexto completo del examen, la [guía de preparación del IELTS](/hubs/preparar-ielts) tiene el resumen de lo que necesitas en cada parte.
+Para el contexto completo del examen, la [guía de preparación del IELTS](/blog/temas/preparar-ielts) tiene el resumen de lo que necesitas en cada parte.
 
 ---
 

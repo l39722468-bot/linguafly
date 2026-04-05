@@ -35,7 +35,7 @@ El IELTS Listening dura 30 minutos de audio más 10 minutos para transferir las 
 
 La buena noticia es que el Listening tiene una estructura muy fija y predecible. Si sabes qué viene en cada sección y cómo aprovechar los segundos entre una y otra, puedes mejorar tu nota de forma significativa sin que tu nivel de inglés cambie.
 
-Si quieres entender cómo encaja el Listening con el examen completo, la [guía de preparación del IELTS](/hubs/preparar-ielts) tiene el panorama general.
+Si quieres entender cómo encaja el Listening con el examen completo, la [guía de preparación del IELTS](/blog/temas/preparar-ielts) tiene el panorama general.
 
 ---
 

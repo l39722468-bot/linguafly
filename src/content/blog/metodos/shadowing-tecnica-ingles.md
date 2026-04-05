@@ -117,7 +117,7 @@ No necesitas bloques de tiempo enormes. Sesiones de 15-20 minutos son suficiente
 
 Puedes combinar el shadowing con otras técnicas: después de shadowing un fragmento varias veces, intenta repetirlo de memoria sin el audio (que no es lo mismo que memorizar el texto, sino recuperar el patrón sonoro). O usa el mismo fragmento para un ejercicio de transcripción: escúchalo sin texto y escribe lo que oyes, luego compara.
 
-Para quien quiere trabajar la pronunciación de forma sistemática, el hub de [pronunciación en inglés](/hubs/pronunciacion-ingles-guia-completa) organiza los distintos aspectos —ritmo, entonación, sonidos, connected speech— de forma que puedes ver dónde estás y qué tiene más sentido trabajar a continuación.
+Para quien quiere trabajar la pronunciación de forma sistemática, el hub de [pronunciación en inglés](/blog/temas/pronunciacion-ingles-guia-completa) organiza los distintos aspectos —ritmo, entonación, sonidos, connected speech— de forma que puedes ver dónde estás y qué tiene más sentido trabajar a continuación.
 
 ---
 

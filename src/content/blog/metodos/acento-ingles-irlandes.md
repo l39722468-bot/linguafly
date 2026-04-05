@@ -118,7 +118,7 @@ En podcast, *The Tommy Tiernan Show* (disponible en YouTube) combina acento dubl
 
 La estrategia que mejor funciona con el irlandés es prestar atención específica a la entonación: intenta imitar la curva melódica de las frases antes de preocuparte por los sonidos individuales. El ritmo del acento irlandés es tan característico que muchas veces es eso lo que hace difícil entenderlo, no los fonemas.
 
-Para situar el irlandés en el contexto de todos los acentos del inglés, la guía de [acentos del inglés](/hubs/acentos-ingles-diferencias) te da el panorama completo con las características de cada variedad.
+Para situar el irlandés en el contexto de todos los acentos del inglés, la guía de [acentos del inglés](/blog/temas/acentos-ingles-diferencias) te da el panorama completo con las características de cada variedad.
 
 ---
 

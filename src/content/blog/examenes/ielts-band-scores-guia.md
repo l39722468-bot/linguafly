@@ -36,7 +36,7 @@ El IELTS puntúa de 0 a 9 en cada parte del examen (Listening, Reading, Writing,
 
 Lo que mucha gente no sabe cuando empieza a prepararse: la nota que necesitas no es un número abstracto. Depende exactamente de para qué lo presentas y a qué institución o autoridad migratoria lo envías. Saber la diferencia entre Band 6.0 y Band 6.5 puede ser la diferencia entre entrar al programa que quieres o no.
 
-Para el contexto completo del examen, consulta la [guía de preparación del IELTS](/hubs/preparar-ielts).
+Para el contexto completo del examen, consulta la [guía de preparación del IELTS](/blog/temas/preparar-ielts).
 
 ---
 

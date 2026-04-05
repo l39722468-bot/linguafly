@@ -35,7 +35,7 @@ El IELTS Reading Academic tiene tres textos de entre 650 y 900 palabras cada uno
 
 El Reading es la parte del IELTS donde la estrategia importa casi tanto como el nivel de inglés. Un candidato con vocabulario excelente que lee cada texto de principio a fin antes de mirar las preguntas probablemente se quede sin tiempo. Alguien con menos vocabulario pero que sabe cómo moverse por el texto puede rendir mucho mejor.
 
-Antes de entrar en los tipos de pregunta, si quieres ver cómo encaja el Reading con el resto del examen, la [guía completa del IELTS](/hubs/preparar-ielts) te da una visión general.
+Antes de entrar en los tipos de pregunta, si quieres ver cómo encaja el Reading con el resto del examen, la [guía completa del IELTS](/blog/temas/preparar-ielts) te da una visión general.
 
 ---
 

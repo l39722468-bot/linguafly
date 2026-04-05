@@ -150,7 +150,7 @@ Practica con un compañero, grábate en vídeo o contacta con nuestros profesore
 
 [👉 Transforma tu inglés en tu mayor ventaja competitiva. ¡Reserva tu primera clase de prueba!](/cuenta/registro?plan=work)
 
-Descubre más recursos en nuestra [guía completa de entrevistas de trabajo en inglés](/hubs/entrevista-de-trabajo-en-ingles).
+Descubre más recursos en nuestra [guía completa de entrevistas de trabajo en inglés](/blog/temas/entrevista-de-trabajo-en-ingles).
 
 ---
 

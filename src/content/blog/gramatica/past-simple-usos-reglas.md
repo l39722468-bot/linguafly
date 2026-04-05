@@ -37,7 +37,7 @@ El Past Simple es el primer tiempo verbal de pasado que se aprende en inglés, y
 
 Lo que complica el past simple no son sus reglas de uso, sino la formación: los verbos regulares son predecibles, pero los irregulares hay que aprenderlos uno a uno. Y en inglés hay unos cuantos.
 
-Si quieres entender bien cuándo elegir past simple frente a present perfect, la guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) tiene la comparativa completa.
+Si quieres entender bien cuándo elegir past simple frente a present perfect, la guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) tiene la comparativa completa.
 
 ---
 
@@ -193,7 +193,7 @@ BE (was/were) no usa did en negativo ni interrogativo. Funciona como auxiliar de
 
 ## Practica el Past Simple: Próximos Pasos
 
-Ahora que dominas las reglas, el siguiente reto es distinguir cuándo usar past simple y cuándo usar present perfect. Es la confusión más frecuente en niveles B1-B2. La guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) cubre todos los casos con ejemplos comparativos.
+Ahora que dominas las reglas, el siguiente reto es distinguir cuándo usar past simple y cuándo usar present perfect. Es la confusión más frecuente en niveles B1-B2. La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) cubre todos los casos con ejemplos comparativos.
 
 Para practicar la pronunciación del **-ed** final (que cambia entre /t/, /d/ e /ɪd/), te recomendamos hacer los ejercicios en voz alta — es el único modo de interiorizar el patrón.
 

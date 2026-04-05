@@ -156,7 +156,7 @@ Algunas formas concretas de hacerlo:
 
 **Grábate.** Es incómodo, pero funciona. Graba un minuto de tu voz en inglés y compáralo con un nativo diciendo algo similar. Las diferencias en rango tonal suelen ser evidentes incluso al escuchado de forma informal.
 
-Para trabajar la pronunciación en inglés de forma más sistemática —incluyendo ritmo, acento y sonidos individuales además de la entonación— el hub de [pronunciación en inglés](/hubs/pronunciacion-ingles-guia-completa) reúne los recursos de forma organizada.
+Para trabajar la pronunciación en inglés de forma más sistemática —incluyendo ritmo, acento y sonidos individuales además de la entonación— el hub de [pronunciación en inglés](/blog/temas/pronunciacion-ingles-guia-completa) reúne los recursos de forma organizada.
 
 ---
 

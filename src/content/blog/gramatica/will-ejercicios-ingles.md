@@ -181,7 +181,7 @@ Une cada frase con su uso de *will*:
 
 4. **Identifica el tipo de will**: cuando veas *will* en un texto, pregúntate: ¿es futuro, predicción, promesa, ofrecimiento o deducción?
 
-Para continuar con ejercicios de nivel más avanzado, consulta [Will vs Would: Diferencias y Ejemplos](/blog/gramatica/will-would-diferencia) y la guía de [Verbos Modales en Inglés](/hubs/verbos-modales-ingles).
+Para continuar con ejercicios de nivel más avanzado, consulta [Will vs Would: Diferencias y Ejemplos](/blog/gramatica/will-would-diferencia) y la guía de [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles).
 
 ## Fuentes
 

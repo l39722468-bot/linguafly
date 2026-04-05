@@ -171,7 +171,7 @@ Encuentra y corrige los errores en estas frases:
 4. If I **were** you, I wouldn't sign that contract.
 5. If he had **gone** to the interview, he would have got the job.
 
-Para practicar con más ejercicios y consolidar todos los tipos de condicionales, visita nuestra [guía completa de condicionales en inglés](/hubs/ejercicios-condicionales-ingles).
+Para practicar con más ejercicios y consolidar todos los tipos de condicionales, visita nuestra [guía completa de condicionales en inglés](/blog/temas/ejercicios-condicionales-ingles).
 
 ## Fuentes
 

@@ -38,7 +38,7 @@ canonical: 'https://www.focus-on-english.com/blog/gramatica/will-would-diferenci
 
 Poca gente tiene claro desde el principio por qué el inglés tiene tanto *will* como *would*. Si *would* es el pasado de *will*, ¿para qué tener los dos? La respuesta es que en el inglés moderno funcionan casi como herramientas separadas: sí comparten origen, pero sus usos actuales van por caminos distintos.
 
-Si quieres ver cómo encajan estos dos modales en el sistema completo, la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles) te da el contexto general.
+Si quieres ver cómo encajan estos dos modales en el sistema completo, la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles) te da el contexto general.
 
 ---
 

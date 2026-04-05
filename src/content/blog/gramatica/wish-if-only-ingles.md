@@ -144,7 +144,7 @@ En Cambridge B2 First y C1 Advanced, "wish" e "if only" aparecen con regularidad
 - **Writing:** para añadir matiz emocional o expresar arrepentimiento en ensayos.
 - **Speaking:** cuando el examinador pregunta qué cambiarías de tu vida o de una situación.
 
-Para consolidar estas estructuras junto con los condicionales clásicos, revisa nuestra [guía práctica de condicionales en inglés](/hubs/ejercicios-condicionales-ingles).
+Para consolidar estas estructuras junto con los condicionales clásicos, revisa nuestra [guía práctica de condicionales en inglés](/blog/temas/ejercicios-condicionales-ingles).
 
 ## Fuentes
 

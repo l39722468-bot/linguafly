@@ -122,7 +122,7 @@ El Reading del CAE no se mejora haciendo solo ejercicios del formato CAE. La bas
 
 No es necesario entender cada palabra. Es necesario habituarse al ritmo de los textos formales en inglés, a su manera de construir el argumento y de hacer referencia a ideas anteriores.
 
-Para ver cómo se trabajan el resto de partes del examen, el [hub C1 Advanced (CAE)](/hubs/cae-c1-advanced-cambridge) tiene guías específicas para el Listening, el Speaking y el Writing.
+Para ver cómo se trabajan el resto de partes del examen, el [hub C1 Advanced (CAE)](/blog/temas/cae-c1-advanced-cambridge) tiene guías específicas para el Listening, el Speaking y el Writing.
 
 ---
 

@@ -36,7 +36,7 @@ El IELTS tiene dos formatos: Academic y General Training. Si estás preparándot
 
 La confusión entre los dos formatos es más frecuente de lo que parece. Algunos candidatos hacen el Academic cuando necesitaban el General, o viceversa. Antes de inscribirte, confirma exactamente qué formato acepta el programa o la autoridad migratoria a la que te presentas.
 
-Para el panorama completo del examen, incluyendo bandas y requisitos por país, consulta la [guía de preparación del IELTS](/hubs/preparar-ielts).
+Para el panorama completo del examen, incluyendo bandas y requisitos por país, consulta la [guía de preparación del IELTS](/blog/temas/preparar-ielts).
 
 ---
 

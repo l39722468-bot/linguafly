@@ -176,7 +176,7 @@ Si te quedan pocos días para el examen:
 3. **En speaking**, ensaya responder preguntas hipotéticas con second conditional de forma fluida. Grábate y escúchate.
 4. **En writing**, asegúrate de incluir al menos un second conditional y uno first conditional en cada ensayo.
 
-Para repasar todos los condicionales desde la base antes del examen, consulta nuestra [guía completa de condicionales en inglés](/hubs/ejercicios-condicionales-ingles).
+Para repasar todos los condicionales desde la base antes del examen, consulta nuestra [guía completa de condicionales en inglés](/blog/temas/ejercicios-condicionales-ingles).
 
 ## Fuentes
 

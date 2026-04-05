@@ -88,7 +88,7 @@ La elección del saludo depende de si conoces el nombre del destinatario y de qu
 
 La coma después del saludo es estándar en inglés americano. El punto o los dos puntos son menos frecuentes. Deja una línea en blanco antes de empezar el cuerpo.
 
-Si quieres ver más fórmulas de apertura y cierre, en el hub de [Emails Profesionales en Inglés](/hubs/emails-profesionales-ingles) encontrarás recursos para cada tipo de correo.
+Si quieres ver más fórmulas de apertura y cierre, en el hub de [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) encontrarás recursos para cada tipo de correo.
 
 ## La apertura (Opening): no entres a lo bruto
 

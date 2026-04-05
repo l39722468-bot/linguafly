@@ -97,7 +97,7 @@ Esta es la parte que más incomoda a los hispanohablantes, pero es completamente
 - *If we were to extend the contract to [período], could you offer a better rate?*
 - *We're comparing several suppliers at the moment. Your proposal is very competitive, but there's a gap of approximately [cantidad]. Is there room to close that?*
 
-En el hub [Emails Profesionales en Inglés](/hubs/emails-profesionales-ingles) encontrarás más recursos para comunicarte con eficacia en contextos laborales.
+En el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) encontrarás más recursos para comunicarte con eficacia en contextos laborales.
 
 ## Hacer una contraoferta
 

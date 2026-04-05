@@ -40,7 +40,7 @@ Si alguna vez has visto la palabra *shall* en inglés y te has preguntado en qu�
 
 La realidad es que *shall* ha perdido terreno en el inglés cotidiano. Hoy, *will* cubre casi todo. Pero *shall* no ha desaparecido del todo — aparece en contextos específicos que vale la pena conocer.
 
-Para el contexto completo de los auxiliares modales, visita [Verbos Modales en Inglés](/hubs/verbos-modales-ingles).
+Para el contexto completo de los auxiliares modales, visita [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles).
 
 ---
 

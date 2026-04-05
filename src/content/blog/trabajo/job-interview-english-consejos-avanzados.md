@@ -156,7 +156,7 @@ Esta pregunta demuestra confianza, apertura al feedback y te da la oportunidad d
 
 [👉 Prepara tu próxima entrevista internacional con nuestros coaches de inglés profesional especializado](/cuenta/registro?plan=work)
 
-Si aún estás construyendo tu base, empieza por nuestra [guía de entrevistas de trabajo en inglés](/hubs/entrevista-de-trabajo-en-ingles).
+Si aún estás construyendo tu base, empieza por nuestra [guía de entrevistas de trabajo en inglés](/blog/temas/entrevista-de-trabajo-en-ingles).
 
 ---
 

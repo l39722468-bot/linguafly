@@ -50,6 +50,9 @@ const nextConfig = {
       { source: '/blog/Trabajo', destination: '/blog/trabajo', permanent: true },
       { source: '/blog/Trabajo/:slug*', destination: '/blog/trabajo/:slug*', permanent: true },
 
+      // Hubs duplicados: la versión canónica vive en /blog/temas/:slug (FAQ, migas, temas relacionados)
+      { source: '/hubs/:slug', destination: '/blog/temas/:slug', permanent: true },
+
       // Fix: URL rota de apps que apuntaba a página general del blog
       { source: '/blog/temas/aplicaciones-para-aprender-ingles-efectivas', destination: '/aplicaciones-para-aprender-ingles', permanent: true },
 

@@ -238,7 +238,7 @@ No te plantees memorizar estas palabras como una lista. Lo que sí funciona es d
 
 Con el tiempo, los patrones se vuelven automáticos. Cuando veas KN, sabes que la K no suena. Cuando veas -MB al final, la B desaparece. Cuando veas -IGHT, la GH es decorativa.
 
-Si quieres profundizar en la fonética del inglés más allá de las letras mudas, en el apartado de [fonética de Focus English](/hubs/fonetica-inglesa-basica) encontrarás recursos sobre el sistema de sonidos completo, incluyendo cómo funciona el IPA y por qué la relación entre escritura y pronunciación en inglés es tan particular.
+Si quieres profundizar en la fonética del inglés más allá de las letras mudas, en el apartado de [fonética de Focus English](/blog/temas/fonetica-inglesa-basica) encontrarás recursos sobre el sistema de sonidos completo, incluyendo cómo funciona el IPA y por qué la relación entre escritura y pronunciación en inglés es tan particular.
 
 ---
 

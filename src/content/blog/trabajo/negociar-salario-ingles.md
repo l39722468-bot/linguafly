@@ -95,7 +95,7 @@ Cuando la empresa hace una oferta y quieres negociar:
 - *"That works for me. I'm very much looking forward to getting started."*
 - *"I'm happy to accept on those terms. Thank you."*
 
-En el hub [Entrevista de Trabajo en Inglés](/hubs/entrevista-de-trabajo-en-ingles) tienes más recursos para gestionar todo el proceso de selección en inglés.
+En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) tienes más recursos para gestionar todo el proceso de selección en inglés.
 
 ## El paquete completo: más allá del salario base
 

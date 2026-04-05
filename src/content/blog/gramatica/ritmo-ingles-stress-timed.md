@@ -120,7 +120,7 @@ Si en la segunda respuesta pronuncias "it" con vocal plena y énfasis, suena rar
 
 **Lee poesía en inglés.** La poesía inglesa clásica está escrita para seguir el ritmo acentual de la lengua. Leer en voz alta a Shakespeare, Keats o incluso canciones pop bien escritas te puede dar una intuición muy buena del ritmo porque el ritmo está explícito en el metro poético.
 
-Si quieres entender mejor el conjunto de la pronunciación inglesa —desde los sonidos individuales hasta el ritmo y la entonación— el hub de [pronunciación en inglés](/hubs/pronunciacion-ingles-guia-completa) organiza los temas de forma que puedes ir de lo más básico a lo más avanzado.
+Si quieres entender mejor el conjunto de la pronunciación inglesa —desde los sonidos individuales hasta el ritmo y la entonación— el hub de [pronunciación en inglés](/blog/temas/pronunciacion-ingles-guia-completa) organiza los temas de forma que puedes ir de lo más básico a lo más avanzado.
 
 ---
 

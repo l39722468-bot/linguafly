@@ -125,7 +125,7 @@ Sirve para **distanciarse** de la información. Es muy común en el periodismo s
 
 ---
 
-¿Quieres practicar la transformación de frases con estos contenidos? Si te estás preparando para el Cambridge Advanced, en nuestra [guía de preparación CAE](/hubs/cambridge-english-2026) encontrarás todos los recursos que necesitas.
+¿Quieres practicar la transformación de frases con estos contenidos? Si te estás preparando para el Cambridge Advanced, en nuestra [guía de preparación CAE](/blog/temas/cambridge-english-2026) encontrarás todos los recursos que necesitas.
 
 ## Fuentes
 

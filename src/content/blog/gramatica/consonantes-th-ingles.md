@@ -176,7 +176,7 @@ Los diccionarios siempre indican cuál es cuál con la transcripción fonética.
 
 **Shadowing.** Escucha un fragmento de audio nativo —una entrevista, un podcast, un discurso— e intenta repetirlo en voz alta siguiendo al hablante con un retraso de uno o dos segundos. Este método obliga a tu aparato fonatorio a imitar patrones que no produciría de forma espontánea.
 
-Si quieres trabajar estos y otros sonidos difíciles del inglés de forma sistemática, el apartado de fonética de [Focus English](/hubs/fonetica-inglesa-basica) reúne guías y recursos para hispanohablantes que quieren mejorar su pronunciación desde la base.
+Si quieres trabajar estos y otros sonidos difíciles del inglés de forma sistemática, el apartado de fonética de [Focus English](/blog/temas/fonetica-inglesa-basica) reúne guías y recursos para hispanohablantes que quieren mejorar su pronunciación desde la base.
 
 ---
 

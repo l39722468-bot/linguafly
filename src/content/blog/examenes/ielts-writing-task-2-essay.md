@@ -35,7 +35,7 @@ El Task 2 del IELTS Writing Academic pide un ensayo de al menos 250 palabras sob
 
 El problema que tiene mucha gente no es el inglés: es que no entiende qué tipo de ensayo le están pidiendo. El IELTS tiene cuatro o cinco formatos distintos de pregunta, y cada uno requiere una estructura diferente. Responder a una pregunta de "ventajas y desventajas" como si fuera un ensayo de opinión te penaliza en Task Response aunque tu inglés sea impecable.
 
-Para el contexto completo del examen, incluyendo las otras partes, consulta la [guía de preparación del IELTS](/hubs/preparar-ielts).
+Para el contexto completo del examen, incluyendo las otras partes, consulta la [guía de preparación del IELTS](/blog/temas/preparar-ielts).
 
 ---
 

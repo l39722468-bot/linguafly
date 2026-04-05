@@ -129,7 +129,7 @@ Hay varias maneras de aprender vocabulario de nivel C1 y todas comparten una cos
 
 **Usa el vocabulario en el Writing**: el Writing del CAE es tu oportunidad perfecta de demostrar que conoces léxico de nivel C1. Si en los ensayos de práctica te limitas a usar palabras que ya conocías, nunca incorporarás vocabulario nuevo.
 
-Para ver cómo el vocabulario avanzado se aplica en las collocaciones específicas que más valoran los examinadores, el artículo sobre [collocations en inglés C1](/blog/examenes/collocations-ingles-c1) tiene ejemplos detallados. Y para el examen en general, el [hub C1 Advanced (CAE)](/hubs/cae-c1-advanced-cambridge) reúne todos los recursos de preparación.
+Para ver cómo el vocabulario avanzado se aplica en las collocaciones específicas que más valoran los examinadores, el artículo sobre [collocations en inglés C1](/blog/examenes/collocations-ingles-c1) tiene ejemplos detallados. Y para el examen en general, el [hub C1 Advanced (CAE)](/blog/temas/cae-c1-advanced-cambridge) reúne todos los recursos de preparación.
 
 ---
 

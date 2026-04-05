@@ -157,7 +157,7 @@ El método más eficiente: practica transformaciones con las key words que más 
 
 Para ver estas estructuras en el contexto de las transformaciones del examen, el artículo sobre [key word transformations del CAE](/blog/examenes/key-word-transformations-cae) tiene ejemplos resueltos con inversiones y otros patrones avanzados.
 
-El [hub C1 Advanced (CAE)](/hubs/cae-c1-advanced-cambridge) tiene todo lo demás: Reading, Listening, Speaking y vocabulario, organizado para que puedas preparar el examen de manera sistemática.
+El [hub C1 Advanced (CAE)](/blog/temas/cae-c1-advanced-cambridge) tiene todo lo demás: Reading, Listening, Speaking y vocabulario, organizado para que puedas preparar el examen de manera sistemática.
 
 ---
 

@@ -40,7 +40,7 @@ Cuando empiezas a estudiar el futuro en inglés, *will* es lo primero que aparec
 
 Pero *will* no es la única forma de hablar del futuro en inglés, y no vale para todo. Para entender bien cuándo usarlo y cuándo preferir *going to* o el presente continuo, hay que entender qué tipo de relación con el futuro expresa *will*.
 
-Para el contexto completo de los modales, consulta la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles).
+Para el contexto completo de los modales, consulta la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles).
 
 ---
 

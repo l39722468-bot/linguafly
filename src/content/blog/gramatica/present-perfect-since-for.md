@@ -37,7 +37,7 @@ De todos los errores que cometen los hispanohablantes con el present perfect, el
 
 La distinción es clara: **since** dice desde cuándo; **for** dice cuánto tiempo. En español los dos se traducen de forma parecida ("desde" o "desde hace"), lo que genera confusión. En inglés son palabras distintas para ideas distintas.
 
-Para el contexto completo de cómo funciona el present perfect en inglés, la guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) te da todos los usos.
+Para el contexto completo de cómo funciona el present perfect en inglés, la guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) te da todos los usos.
 
 ---
 

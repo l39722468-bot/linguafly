@@ -144,7 +144,7 @@ El oído va por delante de la producción. Antes de intentar pronunciar bien, ne
 
 **No confundas cantidad con calidad.** El error más habitual es creer que una vocal larga es simplemente la vocal corta pronunciada durante más tiempo. No es así: /iː/ y /ɪ/ son fonemas distintos, no solo una versión larga y corta del mismo sonido. Tienen timbres diferentes además de duraciones diferentes.
 
-Para seguir profundizando en la fonética inglesa y entender mejor cómo se organiza el sistema de sonidos del idioma, puedes explorar [los recursos de fonética de Focus English](/hubs/fonetica-inglesa-basica), donde encontrarás contenidos que van desde los fundamentos hasta aspectos más avanzados de la pronunciación.
+Para seguir profundizando en la fonética inglesa y entender mejor cómo se organiza el sistema de sonidos del idioma, puedes explorar [los recursos de fonética de Focus English](/blog/temas/fonetica-inglesa-basica), donde encontrarás contenidos que van desde los fundamentos hasta aspectos más avanzados de la pronunciación.
 
 ---
 

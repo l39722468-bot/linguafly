@@ -164,7 +164,7 @@ Estas estructuras aparecen principalmente en:
 - **Writing Part 2:** en propuestas o informes formales, la inversión condicional y "but for" elevan el nivel de sofisticación.
 - **Reading:** reconocer estas estructuras es imprescindible para entender textos académicos y periodísticos avanzados.
 
-Para consolidar toda la base de los condicionales antes de pasar a estas estructuras avanzadas, revisa nuestra [guía práctica de condicionales en inglés](/hubs/ejercicios-condicionales-ingles).
+Para consolidar toda la base de los condicionales antes de pasar a estas estructuras avanzadas, revisa nuestra [guía práctica de condicionales en inglés](/blog/temas/ejercicios-condicionales-ingles).
 
 ## Fuentes
 

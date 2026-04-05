@@ -40,7 +40,7 @@ faqs:
 
 El verbo **PUT** en inglés significa básicamente "colocar, poner". Pero cuando lo combinas con diferentes partículas, su significado se transforma radicalmente. *Put off* no tiene nada que ver con poner algo; *put up with* tampoco.
 
-Esta guía analiza todos los **phrasal verbs con PUT** más importantes, con su lógica, significado y ejemplos en contexto real. Imprescindible para niveles B1, B2 y C1. Para el contexto general de cómo funcionan los phrasal verbs, la [guía de phrasal verbs](/hubs/phrasal-verbs) te da la estructura base.
+Esta guía analiza todos los **phrasal verbs con PUT** más importantes, con su lógica, significado y ejemplos en contexto real. Imprescindible para niveles B1, B2 y C1. Para el contexto general de cómo funcionan los phrasal verbs, la [guía de phrasal verbs](/blog/temas/phrasal-verbs) te da la estructura base.
 
 ---
 

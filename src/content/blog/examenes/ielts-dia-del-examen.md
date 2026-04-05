@@ -33,7 +33,7 @@ canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-dia-del-examen'
 
 Meses de preparación pueden verse afectados por algo tan sencillo como llegar al centro equivocado, llevar el documento de identidad caducado o no saber que el Speaking puede ser en una sala diferente a la del resto del examen. El día del IELTS tiene sus propias reglas logísticas, y conocerlas de antemano te quita un peso de encima.
 
-Esta guía no es sobre estrategias de examen —para eso están los artículos específicos de cada sección en la [guía completa del IELTS](/hubs/preparar-ielts)— sino sobre todo lo que pasa antes, durante y después del examen desde el punto de vista práctico.
+Esta guía no es sobre estrategias de examen —para eso están los artículos específicos de cada sección en la [guía completa del IELTS](/blog/temas/preparar-ielts)— sino sobre todo lo que pasa antes, durante y después del examen desde el punto de vista práctico.
 
 ---
 

@@ -146,7 +146,7 @@ No hace falta dedicar horas al día. Con 15-20 minutos de práctica enfocada, 4-
 
 Repite el ciclo con el siguiente fonema. Este enfoque secuencial es más eficaz que intentar trabajar todo a la vez.
 
-Para tener un mapa completo de todos los aspectos de la pronunciación —desde los fonemas hasta la entonación pasando por el connected speech— la guía de [pronunciación en inglés](/hubs/pronunciacion-ingles-guia-completa) organiza los recursos de forma que puedas ver el panorama completo y decidir por dónde tiene más sentido empezar.
+Para tener un mapa completo de todos los aspectos de la pronunciación —desde los fonemas hasta la entonación pasando por el connected speech— la guía de [pronunciación en inglés](/blog/temas/pronunciacion-ingles-guia-completa) organiza los recursos de forma que puedas ver el panorama completo y decidir por dónde tiene más sentido empezar.
 
 ---
 

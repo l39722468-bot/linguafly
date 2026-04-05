@@ -42,7 +42,7 @@ La lógica es clara: estás reportando algo dicho en el pasado, así que el verb
 
 Pero esta regla tiene más matices de lo que parece. Hay situaciones donde el backshift no es necesario, es opcional, o donde aplicarlo mecánicamente produciría algo raro o incorrecto.
 
-Para ver el sistema completo del reported speech en inglés, la guía [Reported Speech en Inglés](/hubs/reported-speech) te da el panorama general.
+Para ver el sistema completo del reported speech en inglés, la guía [Reported Speech en Inglés](/blog/temas/reported-speech) te da el panorama general.
 
 ---
 

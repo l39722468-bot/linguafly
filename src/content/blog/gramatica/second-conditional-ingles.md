@@ -152,7 +152,7 @@ En Cambridge y similares, el second conditional aparece en:
 - **Speaking Part 2 y 3:** cuando te preguntan sobre preferencias hipotéticas o qué harías en determinadas situaciones.
 - **Use of English:** transformaciones donde debes pasar de un imperativo o consejo a un second conditional.
 
-Para ver cómo encaja el second conditional dentro del sistema completo de condicionales en inglés, consulta nuestra [guía práctica de condicionales](/hubs/ejercicios-condicionales-ingles).
+Para ver cómo encaja el second conditional dentro del sistema completo de condicionales en inglés, consulta nuestra [guía práctica de condicionales](/blog/temas/ejercicios-condicionales-ingles).
 
 ## Fuentes
 

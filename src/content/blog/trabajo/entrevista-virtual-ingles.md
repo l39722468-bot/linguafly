@@ -107,7 +107,7 @@ Haz esto el día antes y también 15 minutos antes de la llamada:
 - [ ] Silenciar notificaciones del teléfono y del ordenador
 - [ ] Poner un cartel en la puerta si vives con más gente
 
-En el hub [Entrevista de Trabajo en Inglés](/hubs/entrevista-de-trabajo-en-ingles) encontrarás más recursos para preparar todos los aspectos de tu candidatura.
+En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) encontrarás más recursos para preparar todos los aspectos de tu candidatura.
 
 ## Las entrevistas asíncronas: responder en vídeo grabado
 

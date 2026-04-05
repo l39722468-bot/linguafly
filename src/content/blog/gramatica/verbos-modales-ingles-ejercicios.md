@@ -34,7 +34,7 @@ canonical: 'https://www.focus-on-english.com/blog/gramatica/verbos-modales-ingle
 
 Dominar los **verbos modales en inglés** requiere práctica sistemática. En esta guía de ejercicios, trabajaremos desde los usos más básicos hasta las construcciones avanzadas con Modales Perfectos.
 
-Si primero quieres repasar los conceptos teóricos, la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles) tiene todos los usos explicados con ejemplos.
+Si primero quieres repasar los conceptos teóricos, la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles) tiene todos los usos explicados con ejemplos.
 
 ---
 

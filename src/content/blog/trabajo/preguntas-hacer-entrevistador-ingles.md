@@ -109,7 +109,7 @@ Siempre termina con estas si no te lo han explicado:
 
 La última pregunta es especialmente poderosa: te da la oportunidad de corregir cualquier impresión negativa antes de salir de la sala.
 
-En el hub [Entrevista de Trabajo en Inglés](/hubs/entrevista-de-trabajo-en-ingles) encontrarás más recursos para cada fase del proceso de selección.
+En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) encontrarás más recursos para cada fase del proceso de selección.
 
 ## Preguntas que debes evitar
 

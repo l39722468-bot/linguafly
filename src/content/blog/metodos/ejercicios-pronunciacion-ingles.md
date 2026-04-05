@@ -141,7 +141,7 @@ Este ejercicio mejora la comprensión auditiva y la pronunciación al mismo tiem
 
 Luego busca la transcripción real y compara. Las diferencias revelan exactamente qué sonidos no reconoces: esos son los que tienes que trabajar en producción. Si consistentemente fallas en reconocer el schwa en palabras gramaticales, eso te dice que tienes que trabajar las formas débiles. Si no reconoces la /θ/, tienes que trabajar ese fonema específico.
 
-Para estructurar la práctica de pronunciación de forma completa —incluyendo ritmo, connected speech, entonación y sonidos individuales— el hub de [pronunciación en inglés](/hubs/pronunciacion-ingles-guia-completa) organiza los recursos de forma que puedas ver el panorama completo y decidir por dónde empezar.
+Para estructurar la práctica de pronunciación de forma completa —incluyendo ritmo, connected speech, entonación y sonidos individuales— el hub de [pronunciación en inglés](/blog/temas/pronunciacion-ingles-guia-completa) organiza los recursos de forma que puedas ver el panorama completo y decidir por dónde empezar.
 
 ---
 

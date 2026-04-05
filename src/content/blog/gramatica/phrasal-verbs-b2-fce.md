@@ -37,7 +37,7 @@ El B2 First no tiene una lista oficial de phrasal verbs que "entran" en el exame
 
 Lo que más cuesta en el examen no es saber el significado de un phrasal verb, sino usarlo correctamente: saber si es separable o no, qué preposición lleva detrás, o cómo transformar una frase con un verb frase equivalente.
 
-Para repasar los fundamentos de cómo funcionan los phrasal verbs, la [guía de phrasal verbs](/hubs/phrasal-verbs) es un buen complemento a esta lista.
+Para repasar los fundamentos de cómo funcionan los phrasal verbs, la [guía de phrasal verbs](/blog/temas/phrasal-verbs) es un buen complemento a esta lista.
 
 ---
 

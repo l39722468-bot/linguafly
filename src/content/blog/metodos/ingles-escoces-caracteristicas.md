@@ -121,7 +121,7 @@ Para el Glaswegian marcado, la serie *Still Game* (BBC Scotland, en YouTube con 
 
 Para el Scots en sí, Robert Burns es la referencia literaria, aunque el Scots contemporáneo del noreste (*Doric*) tiene también mucha presencia en redes y en el humor escocés online.
 
-Para situar el Scottish English en el panorama completo de variedades del inglés, la guía de [acentos del inglés](/hubs/acentos-ingles-diferencias) organiza los diferentes sistemas con sus rasgos principales.
+Para situar el Scottish English en el panorama completo de variedades del inglés, la guía de [acentos del inglés](/blog/temas/acentos-ingles-diferencias) organiza los diferentes sistemas con sus rasgos principales.
 
 ---
 

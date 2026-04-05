@@ -36,7 +36,7 @@ excerpt: >
 
 Dominar el **Reported Speech** (o estilo indirecto) es uno de los mayores hitos en el aprendizaje del inglés. No basta con conocer las reglas teóricas sobre el cambio de tiempos verbales; la clave reside en la automatización de esas reglas a través de la práctica constante.
 
-Si quieres repasar las reglas antes de practicar, la guía [Reported Speech en Inglés](/hubs/reported-speech) te da el marco completo. En este artículo nos centramos en la práctica con ejercicios concretos.
+Si quieres repasar las reglas antes de practicar, la guía [Reported Speech en Inglés](/blog/temas/reported-speech) te da el marco completo. En este artículo nos centramos en la práctica con ejercicios concretos.
 
 ## 1. ¿Por qué practicar con ejercicios en PDF?
 

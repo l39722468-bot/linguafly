@@ -183,7 +183,7 @@ Las reglas te dan una base, pero el acento en inglés se aprende principalmente 
 
 **Escuchar grupos de palabras relacionadas.** Si aprendes *photograph*, aprende también *photography* y *photographic* en la misma sesión. Escucha cómo el acento se desplaza al cambiar de una a otra. Así interiorizas el sistema, no solo palabras sueltas.
 
-Si quieres seguir trabajando la pronunciación de forma sistemática, en [Focus English](/hubs/fonetica-inglesa-basica) encontrarás recursos sobre fonética que complementan el trabajo con el acento de palabra, incluyendo guías sobre los diptongos y las vocales reducidas que tan directamente se relacionan con el ritmo del inglés.
+Si quieres seguir trabajando la pronunciación de forma sistemática, en [Focus English](/blog/temas/fonetica-inglesa-basica) encontrarás recursos sobre fonética que complementan el trabajo con el acento de palabra, incluyendo guías sobre los diptongos y las vocales reducidas que tan directamente se relacionan con el ritmo del inglés.
 
 ---
 

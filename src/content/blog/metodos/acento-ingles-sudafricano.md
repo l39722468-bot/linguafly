@@ -137,7 +137,7 @@ Para familiarizarte con el South African English hay varias rutas.
 
 **Medios:** La SABC (South African Broadcasting Corporation) tiene contenido online. El periódico *Daily Maverick* publica pódcasts y vídeos que son una buena muestra del inglés de los medios sudafricanos.
 
-Para poner el acento sudafricano en perspectiva junto con otros acentos del inglés, la guía de [acentos del inglés](/hubs/acentos-ingles-diferencias) ofrece una visión de conjunto con las diferencias más relevantes entre variedades.
+Para poner el acento sudafricano en perspectiva junto con otros acentos del inglés, la guía de [acentos del inglés](/blog/temas/acentos-ingles-diferencias) ofrece una visión de conjunto con las diferencias más relevantes entre variedades.
 
 ---
 

@@ -36,7 +36,7 @@ El present perfect continuous es uno de esos tiempos verbales que en español si
 
 Saber cuándo usarlo en lugar del present perfect simple es una de las marcas de un inglés intermedio-avanzado. No es que uno sea correcto y el otro incorrecto; es que cada uno enfatiza algo distinto.
 
-Para el contexto general de los tiempos de pasado en inglés, la guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) te da la base.
+Para el contexto general de los tiempos de pasado en inglés, la guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) te da la base.
 
 ---
 

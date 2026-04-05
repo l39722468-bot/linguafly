@@ -87,7 +87,7 @@ La pasiva es la voz por defecto en libros de historia y enciclopedias. *"Rome wa
 **En noticias y reportajes:**
 *"Two men were detained near the border."* Es el registro estándar del periodismo formal en inglés.
 
-El hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles) tiene una tabla completa con todos los tiempos verbales en pasiva si necesitas un repaso global.
+El hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) tiene una tabla completa con todos los tiempos verbales en pasiva si necesitas un repaso global.
 
 ## Past Continuous Pasiva: acción en curso en el pasado
 

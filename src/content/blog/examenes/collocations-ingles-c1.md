@@ -139,7 +139,7 @@ En el Listening, los hablantes usan collocations de manera natural y rápida. Tu
 
 **Practica la Parte 1 del Use of English**: esta parte está diseñada específicamente para evaluar collocations. Cada ejercicio que haces te enseña tres combinaciones incorrectas y una correcta, que es una forma muy eficiente de aprender.
 
-Para complementar con el vocabulario más amplio que necesitas para el CAE, el artículo sobre [vocabulario C1 avanzado](/blog/examenes/vocabulario-c1-avanzado) tiene sinónimos y expresiones organizadas por categorías. Y para el examen en conjunto, el [hub C1 Advanced (CAE)](/hubs/cae-c1-advanced-cambridge) tiene todos los recursos de preparación.
+Para complementar con el vocabulario más amplio que necesitas para el CAE, el artículo sobre [vocabulario C1 avanzado](/blog/examenes/vocabulario-c1-avanzado) tiene sinónimos y expresiones organizadas por categorías. Y para el examen en conjunto, el [hub C1 Advanced (CAE)](/blog/temas/cae-c1-advanced-cambridge) tiene todos los recursos de preparación.
 
 ---
 

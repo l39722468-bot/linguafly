@@ -100,7 +100,7 @@ La estructura básica:
 > Kind regards,
 > Roberto Méndez
 
-Puedes consultar el hub [Emails Profesionales en Inglés](/hubs/emails-profesionales-ingles) para más recursos de comunicación laboral en inglés.
+Puedes consultar el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) para más recursos de comunicación laboral en inglés.
 
 ## Confirmar asistencia a una reunión
 

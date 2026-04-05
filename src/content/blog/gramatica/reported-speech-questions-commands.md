@@ -37,7 +37,7 @@ excerpt: >
 
 Reportar afirmaciones en inglés ya es desafiante, pero reportar **preguntas, órdenes y peticiones** requiere cambios estructurales adicionales que suelen confundir a los estudiantes.
 
-En este artículo, desglosaremos paso a paso cómo transformar oraciones interrogativas e imperativas al estilo indirecto. Para el sistema completo del reported speech, la guía [Reported Speech en Inglés](/hubs/reported-speech) te da el contexto general antes de entrar en estos casos específicos.
+En este artículo, desglosaremos paso a paso cómo transformar oraciones interrogativas e imperativas al estilo indirecto. Para el sistema completo del reported speech, la guía [Reported Speech en Inglés](/blog/temas/reported-speech) te da el contexto general antes de entrar en estos casos específicos.
 
 ## 1. Reported Questions (Preguntas Indirectas)
 

@@ -40,7 +40,7 @@ De todos los verbos modales del inglés, **should** y **would** son dos de los q
 
 No los relaciona ninguna lógica gramatical especial: no son pasado y presente de lo mismo, ni sinónimos, ni variaciones de registro. Simplemente son dos herramientas diferentes que conviene tener bien separadas en la cabeza.
 
-Para un panorama completo de todos los modales en inglés, la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles) te ayuda a ver el sistema completo.
+Para un panorama completo de todos los modales en inglés, la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles) te ayuda a ver el sistema completo.
 
 ---
 

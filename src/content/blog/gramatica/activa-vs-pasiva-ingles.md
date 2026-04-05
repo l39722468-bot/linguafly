@@ -120,7 +120,7 @@ Si el foco del mensaje es lo que fue afectado, la pasiva lo pone en primer plano
 - *The entire archive was destroyed in the fire.* (El archivo importa más que el fuego.)
 - *Three hospitals were built in the region last year.*
 
-El hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles) cubre en detalle todos los tiempos y variantes de la pasiva si quieres profundizar en su formación.
+El hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) cubre en detalle todos los tiempos y variantes de la pasiva si quieres profundizar en su formación.
 
 ## Tabla comparativa rápida
 

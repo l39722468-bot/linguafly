@@ -35,7 +35,7 @@ canonical: 'https://www.focus-on-english.com/blog/gramatica/verbos-modales-ingle
 
 Si ya conoces **can**, **must** y **should**, es hora de profundizar en los aspectos que realmente separan a un hablante de nivel B2 de uno de nivel C1. Los **verbos modales avanzados** en inglés incluyen matices sutiles de probabilidad, crítica, especulación y distanciamiento formal que son imprescindibles en la comunicación profesional y en exámenes de nivel.
 
-Si quieres repasar los fundamentos antes de entrar en los matices avanzados, la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles) cubre todos los usos desde el principio.
+Si quieres repasar los fundamentos antes de entrar en los matices avanzados, la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles) cubre todos los usos desde el principio.
 
 ---
 
@@ -161,7 +161,7 @@ Reescribe estas frases usando los modales indicados:
 
 Los **verbos modales avanzados** son el corazón de la gramática inglesa de alto nivel. La clave no está solo en conocer las reglas, sino en internalizar los matices: cuándo usar *might* en lugar de *may*, por qué *needn't have* y *didn't need to* no son equivalentes, y cómo el **would** de distanciamiento eleva tu inglés escrito. Practica estos patrones en contextos reales y verás cómo tu nivel avanza de forma natural.
 
-¿Preparas el Cambridge Advanced? En nuestra [guía de preparación CAE](/hubs/cambridge-english-2026) encontrarás estructura del examen, estrategias y recursos específicos para cada parte.
+¿Preparas el Cambridge Advanced? En nuestra [guía de preparación CAE](/blog/temas/cambridge-english-2026) encontrarás estructura del examen, estrategias y recursos específicos para cada parte.
 
 ## Fuentes
 

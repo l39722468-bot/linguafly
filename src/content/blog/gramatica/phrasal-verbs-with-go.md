@@ -36,7 +36,7 @@ GO es el verbo de movimiento por excelencia, pero cuando se combina con partícu
 
 Esa diversidad es lo que hace a los phrasal verbs con GO tan útiles y, al mismo tiempo, tan difíciles de dominar sin ejemplos en contexto.
 
-Si quieres una introducción general a los phrasal verbs, la [guía de phrasal verbs](/hubs/phrasal-verbs) te da los fundamentos que necesitas antes de profundizar en verbos específicos.
+Si quieres una introducción general a los phrasal verbs, la [guía de phrasal verbs](/blog/temas/phrasal-verbs) te da los fundamentos que necesitas antes de profundizar en verbos específicos.
 
 ---
 

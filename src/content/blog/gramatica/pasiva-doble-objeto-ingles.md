@@ -82,7 +82,7 @@ Cuando transformas esta oración a pasiva, puedes usar cualquiera de los dos obj
 
 Ambas son gramaticalmente correctas. La diferencia está en el énfasis y el registro.
 
-Puedes ver esta estructura en el contexto completo de la pasiva avanzada en el hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles).
+Puedes ver esta estructura en el contexto completo de la pasiva avanzada en el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles).
 
 ## Ejemplos con los verbos más frecuentes
 

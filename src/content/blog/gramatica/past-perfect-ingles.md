@@ -51,7 +51,7 @@ El past perfect resuelve un problema concreto: cuando estás hablando del pasado
 
 En español funciona igual con el pluscuamperfecto — "había salido", "habían terminado", "no habías comido" — así que la idea no debería ser extraña. Lo que puede costar es saber cuándo el inglés lo exige y cuándo puede omitirse.
 
-Para entender cómo encaja el past perfect con el past simple y el present perfect, la guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) te da la perspectiva completa de los tiempos de pasado en inglés. Si quieres repasar primero los usos del present perfect por separado, el artículo [Present Perfect: usos principales](/blog/gramatica/present-perfect-usos-principales) es el punto de partida ideal.
+Para entender cómo encaja el past perfect con el past simple y el present perfect, la guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) te da la perspectiva completa de los tiempos de pasado en inglés. Si quieres repasar primero los usos del present perfect por separado, el artículo [Present Perfect: usos principales](/blog/gramatica/present-perfect-usos-principales) es el punto de partida ideal.
 
 ---
 

@@ -72,7 +72,7 @@ Cuando alguien lleva años escribiendo emails en inglés, lo que diferencia sus 
 - *Following our meeting on [fecha], I wanted to...*
 - *As we discussed during our call on Thursday...*
 
-El hub [Emails Profesionales en Inglés](/hubs/emails-profesionales-ingles) tiene guías específicas para cada tipo de correo con estructuras completas.
+El hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) tiene guías específicas para cada tipo de correo con estructuras completas.
 
 ## Expresar el propósito: ir al grano con elegancia
 

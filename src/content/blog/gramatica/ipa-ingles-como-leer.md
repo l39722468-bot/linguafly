@@ -183,7 +183,7 @@ Fíjate en lo que ha pasado: *comfortable* tiene cuatro sílabas en la escritura
 
 ---
 
-Entender el IPA no requiere ser lingüista ni tener formación especial. Con unas horas de práctica puedes leer transcripciones con fluidez suficiente para que te sean útiles a diario. Si quieres ver cómo encaja esto en el sistema fonético del inglés completo, en [Focus English](/hubs/fonetica-inglesa-basica) encontrarás recursos que abordan la fonética desde distintos ángulos y te ayudarán a conectar todas estas piezas.
+Entender el IPA no requiere ser lingüista ni tener formación especial. Con unas horas de práctica puedes leer transcripciones con fluidez suficiente para que te sean útiles a diario. Si quieres ver cómo encaja esto en el sistema fonético del inglés completo, en [Focus English](/blog/temas/fonetica-inglesa-basica) encontrarás recursos que abordan la fonética desde distintos ángulos y te ayudarán a conectar todas estas piezas.
 
 ---
 

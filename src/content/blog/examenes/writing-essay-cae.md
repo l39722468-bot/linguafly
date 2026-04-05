@@ -151,7 +151,7 @@ Escribe un essay de práctica cada semana, cronometrado (45 minutos máximo). De
 
 Busca temas típicos del CAE: impacto de la tecnología, medio ambiente y responsabilidad individual, educación y trabajo, globalización, redes sociales. Son los que aparecen con más frecuencia.
 
-Para una guía completa del Writing con todos los formatos posibles —report, proposal, review— el artículo sobre [trucos para el Writing del C1 Advanced](/blog/examenes/trucos-writing-c1-advanced) cubre cada uno en detalle. Y para todo lo relacionado con el examen, el [hub C1 Advanced (CAE)](/hubs/cae-c1-advanced-cambridge) tiene los recursos organizados.
+Para una guía completa del Writing con todos los formatos posibles —report, proposal, review— el artículo sobre [trucos para el Writing del C1 Advanced](/blog/examenes/trucos-writing-c1-advanced) cubre cada uno en detalle. Y para todo lo relacionado con el examen, el [hub C1 Advanced (CAE)](/blog/temas/cae-c1-advanced-cambridge) tiene los recursos organizados.
 
 ---
 

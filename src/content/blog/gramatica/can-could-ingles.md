@@ -40,7 +40,7 @@ Antes de entrar en detalles, hay algo que conviene aclarar: **can** y **could** 
 
 Estos dos verbos modales se usan para expresar cosas muy distintas dependiendo del contexto: habilidad, posibilidad, permiso, peticiones, deducciones... Vamos a verlos uno por uno.
 
-Si quieres una visión general de todos los verbos modales en inglés, la guía del hub [Verbos Modales en Inglés](/hubs/verbos-modales-ingles) es el punto de partida ideal.
+Si quieres una visión general de todos los verbos modales en inglés, la guía del hub [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles) es el punto de partida ideal.
 
 ---
 

@@ -95,7 +95,7 @@ Reenviar un email sin explicar por qué lo haces o qué se espera del destinatar
 **7. Emails demasiado largos**
 Si tu email necesita más de tres o cuatro párrafos para explicar algo, probablemente ese tema merece una llamada. Los emails muy largos pocas veces se leen completos, especialmente si llegan en un día muy ocupado.
 
-Puedes encontrar más recursos sobre comunicación profesional en inglés en el hub [Emails Profesionales en Inglés](/hubs/emails-profesionales-ingles).
+Puedes encontrar más recursos sobre comunicación profesional en inglés en el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles).
 
 ## Cuándo NO mandar un email
 

@@ -38,9 +38,8 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
     || `Aprende ${originalKeyword} con nuestras guías gratuitas en español. Recursos prácticos, ejercicios resueltos y consejos de expertos para hispanohablantes. Mejora tu inglés hoy.`;
 
   const ogImage = "https://www.focus-on-english.com/blog/og-image.jpg";
-  const canonicalUrl = hubContent
-    ? `https://www.focus-on-english.com/hubs/${keyword}`
-    : `https://www.focus-on-english.com/blog/temas/${keyword}`;
+  /** Siempre la URL del hub temático en el blog: es la versión canónica (FAQ, migas Blog › Temas, enlaces internos). */
+  const canonicalUrl = `https://www.focus-on-english.com/blog/temas/${keyword}`;
 
   const pageKeywords = [
     originalKeyword,

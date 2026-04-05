@@ -90,7 +90,7 @@ Esta es probablemente la estructura pasiva más frecuente en noticias en inglés
 - *The building was destroyed in the attack.*
 - *Six workers were injured when the scaffolding collapsed.*
 
-En el hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles) encontrarás todos los tiempos con ejemplos.
+En el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) encontrarás todos los tiempos con ejemplos.
 
 **Pasiva impersonal — para información no confirmada:**
 

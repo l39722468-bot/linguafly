@@ -173,7 +173,7 @@ Si te preguntas por qué el inglés tiene tantas irregularidades entre ortograf�
 
 El resultado es una ortografía que refleja varios momentos históricos distintos a la vez, lo que explica por qué palabras como *knight* (/naɪt/ en inglés moderno) se escriben con letras que en algún momento sí se pronunciaban.
 
-Para quien quiera entender cómo encajan todos estos aspectos fonéticos —terminaciones, sonidos, ritmo y connected speech— la guía de [pronunciación en inglés](/hubs/pronunciacion-ingles-guia-completa) lo organiza de forma que puedas ver el panorama completo y saber por dónde empezar.
+Para quien quiera entender cómo encajan todos estos aspectos fonéticos —terminaciones, sonidos, ritmo y connected speech— la guía de [pronunciación en inglés](/blog/temas/pronunciacion-ingles-guia-completa) lo organiza de forma que puedas ver el panorama completo y saber por dónde empezar.
 
 ---
 

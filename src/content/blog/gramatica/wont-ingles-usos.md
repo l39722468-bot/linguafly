@@ -179,7 +179,7 @@ En discursos, declaraciones formales o momentos de confrontación, la forma no c
 
 ---
 
-Para ver el contraste entre won't y wouldn't, consulta [Will vs Would en Inglés](/blog/gramatica/will-would-diferencia). Y para el contexto completo de los verbos modales, visita la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles).
+Para ver el contraste entre won't y wouldn't, consulta [Will vs Would en Inglés](/blog/gramatica/will-would-diferencia). Y para el contexto completo de los verbos modales, visita la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles).
 
 ## Fuentes
 

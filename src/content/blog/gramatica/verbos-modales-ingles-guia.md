@@ -37,7 +37,7 @@ Los **verbos modales** son piezas angulares de la fluidez en inglés. A menudo l
 
 En esta guía exhaustiva, no solo repasaremos el **esquema de verbos modales en inglés**, sino que profundizaremos en los **Modales Perfectos** y las estructuras avanzadas para niveles B2 y C1.
 
-Para una visión completa del sistema modal, la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles) te muestra todos los usos agrupados.
+Para una visión completa del sistema modal, la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles) te muestra todos los usos agrupados.
 
 ---
 

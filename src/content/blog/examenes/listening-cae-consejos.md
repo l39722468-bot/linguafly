@@ -113,7 +113,7 @@ La clave no es entender el cien por cien. Es escuchar lo suficiente para que tu 
 
 Para los ejercicios específicos del formato CAE, busca los *Cambridge English Practice Tests* o los libros de preparación de Cambridge: son los únicos materiales que replican exactamente las condiciones del examen.
 
-Si quieres completar tu preparación con el resto del examen, el [hub C1 Advanced (CAE)](/hubs/cae-c1-advanced-cambridge) tiene recursos para cada una de las cuatro partes.
+Si quieres completar tu preparación con el resto del examen, el [hub C1 Advanced (CAE)](/blog/temas/cae-c1-advanced-cambridge) tiene recursos para cada una de las cuatro partes.
 
 ---
 

@@ -35,7 +35,7 @@ Cuando te inscribes al IELTS, una de las primeras decisiones que tienes que toma
 
 Pero la elección importa más de lo que parece, porque aunque el examen sea el mismo en contenido y criterios, la experiencia práctica es bastante diferente. Y para algunos candidatos, esa diferencia puede valer medio punto de banda.
 
-Antes de entrar en las diferencias, recuerda que la [guía completa del IELTS](/hubs/preparar-ielts) tiene todo lo que necesitas sobre el examen en general.
+Antes de entrar en las diferencias, recuerda que la [guía completa del IELTS](/blog/temas/preparar-ielts) tiene todo lo que necesitas sobre el examen en general.
 
 ---
 

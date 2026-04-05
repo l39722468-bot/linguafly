@@ -107,7 +107,7 @@ Es el acento que usan los asistentes de voz (Siri, Alexa, Google) y los sistemas
 
 Es el acento que esperan en la mayoría de los contextos profesionales internacionales cuando se dice "inglés americano".
 
-Dicho esto, una vez que tienes sólida la base del GA, vale la pena exponer el oído a otros acentos americanos. El Sur, Nueva York, Boston y las variedades del oeste tienen sus especificidades que pueden resultar confusas si solo has entrenado con el Medio Oeste. Para un panorama completo de todos los acentos del inglés, tanto americanos como de otros países, la guía de [acentos del inglés](/hubs/acentos-ingles-diferencias) te da el mapa completo.
+Dicho esto, una vez que tienes sólida la base del GA, vale la pena exponer el oído a otros acentos americanos. El Sur, Nueva York, Boston y las variedades del oeste tienen sus especificidades que pueden resultar confusas si solo has entrenado con el Medio Oeste. Para un panorama completo de todos los acentos del inglés, tanto americanos como de otros países, la guía de [acentos del inglés](/blog/temas/acentos-ingles-diferencias) te da el mapa completo.
 
 ---
 

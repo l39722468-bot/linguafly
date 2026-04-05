@@ -231,7 +231,7 @@ Los recursos gratuitos son extraordinarios para empezar y para mantener el hábi
 - Tu objetivo es leer y entender, no hablar
 - Tienes tiempo y paciencia para construir tu propio camino
 
-Si decides que ha llegado el momento de invertir, consulta nuestra [guía completa del hub curso de inglés](/hubs/curso-ingles) para encontrar la opción que mejor se adapta a tu nivel y objetivos.
+Si decides que ha llegado el momento de invertir, consulta nuestra [guía completa del hub curso de inglés](/blog/temas/curso-ingles) para encontrar la opción que mejor se adapta a tu nivel y objetivos.
 
 ---
 

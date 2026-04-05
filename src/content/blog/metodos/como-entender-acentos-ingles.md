@@ -113,7 +113,7 @@ Para cada acento hay contenido específico que explica sus rasgos: qué hace con
 
 Por ejemplo, saber que en el Cockney la /θ/ se convierte en /f/ (th-fronting) hace que cuando escuchas *"fink"* tu cerebro pueda deducir que es *"think"* en vez de buscar una palabra con /f/ que no existe. Esa capa de conocimiento explícito actúa como atajos de comprensión.
 
-La guía de [acentos del inglés](/hubs/acentos-ingles-diferencias) cubre los acentos más relevantes con sus rasgos fonéticos específicos: americano, británico, australiano, escocés, irlandés, cockney, canadiense, sudafricano. Usarla como referencia mientras entrenas la escucha activa es una forma eficiente de combinar teoría y práctica.
+La guía de [acentos del inglés](/blog/temas/acentos-ingles-diferencias) cubre los acentos más relevantes con sus rasgos fonéticos específicos: americano, británico, australiano, escocés, irlandés, cockney, canadiense, sudafricano. Usarla como referencia mientras entrenas la escucha activa es una forma eficiente de combinar teoría y práctica.
 
 ---
 

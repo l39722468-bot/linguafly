@@ -82,7 +82,7 @@ La sección de metodología (*Methods* o *Methodology*) es donde la pasiva tiene
 - *Statistical significance was determined at p < 0.05.*
 - *Thematic analysis was applied to the qualitative data.*
 
-En el hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles) tienes la guía completa de formación y usos de la pasiva con todos los tiempos verbales.
+En el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) tienes la guía completa de formación y usos de la pasiva con todos los tiempos verbales.
 
 ## Estructuras pasivas para resultados y conclusiones
 

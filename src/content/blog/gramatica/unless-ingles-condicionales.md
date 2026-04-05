@@ -149,7 +149,7 @@ Las conjunciones condicionales son un clásico en el **Use of English** de Cambr
 
 Cuando el ejercicio te pide transformar *"If you don't..."* en otra estructura manteniendo el mismo significado, la respuesta suele ser "unless". Y cuando ves "provided that" u "only if", el examinador está comprobando que conoces registros más formales.
 
-Para practicar estos usos dentro del contexto completo de los condicionales, visita nuestra [guía de ejercicios de condicionales en inglés](/hubs/ejercicios-condicionales-ingles).
+Para practicar estos usos dentro del contexto completo de los condicionales, visita nuestra [guía de ejercicios de condicionales en inglés](/blog/temas/ejercicios-condicionales-ingles).
 
 ## Fuentes
 

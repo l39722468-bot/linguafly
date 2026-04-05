@@ -162,7 +162,7 @@ Algunas fuentes concretas:
 - YouTube: busca entrevistas de futbolistas o músicos de la región cuyo acento quieres trabajar
 - Series de televisión situadas en regiones concretas: *Vera* (Geordie), *Waterloo Road* (distintas regiones), *Still Game* (Glasgow)
 
-Para un panorama completo de los acentos del inglés más allá del Reino Unido, la guía de [acentos del inglés](/hubs/acentos-ingles-diferencias) organiza los diferentes acentos con sus características principales.
+Para un panorama completo de los acentos del inglés más allá del Reino Unido, la guía de [acentos del inglés](/blog/temas/acentos-ingles-diferencias) organiza los diferentes acentos con sus características principales.
 
 ---
 

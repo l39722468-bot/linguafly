@@ -37,7 +37,7 @@ La mayoría de los errores que cometen los hablantes de español con los tiempos
 
 Conocer estos errores de antemano te ahorra meses de fossilización — eso es cuando un error se repite tanto que se convierte en un hábito difícil de corregir.
 
-La guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) te da la base completa para entender estos tiempos antes de revisar estos errores.
+La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) te da la base completa para entender estos tiempos antes de revisar estos errores.
 
 ---
 

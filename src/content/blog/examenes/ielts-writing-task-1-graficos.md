@@ -35,7 +35,7 @@ El Task 1 del IELTS Writing Academic te pide que describes un gráfico, tabla, m
 
 Lo que muchos candidatos no entienden hasta que ya han hecho el examen: el Task 1 no evalúa si entiendes de economía o demografía. Evalúa si puedes comunicar información visual en inglés escrito de forma clara y organizada. Eso se puede aprender, y tiene trucos muy concretos.
 
-Si quieres el panorama completo del examen antes de entrar en los detalles, la [guía completa de preparación del IELTS](/hubs/preparar-ielts) es un buen punto de partida.
+Si quieres el panorama completo del examen antes de entrar en los detalles, la [guía completa de preparación del IELTS](/blog/temas/preparar-ielts) es un buen punto de partida.
 
 ---
 

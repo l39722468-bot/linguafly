@@ -38,7 +38,7 @@ Cuando lo que importa es *cuándo*, usas past simple. Cuando lo que importa es q
 
 Hay cuatro situaciones concretas donde el present perfect aparece de forma natural. Reconocerlas cambia todo.
 
-Para ver cómo encaja el present perfect dentro del panorama general de los tiempos de pasado en inglés, la guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) te da la visión completa.
+Para ver cómo encaja el present perfect dentro del panorama general de los tiempos de pasado en inglés, la guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) te da la visión completa.
 
 ---
 

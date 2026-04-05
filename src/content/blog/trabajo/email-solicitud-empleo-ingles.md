@@ -97,7 +97,7 @@ Tiene que responder a tres preguntas en dos o tres frases: quién eres, qué qui
 
 La diferencia es enorme: el segundo muestra que conoces la empresa y da una razón concreta de interés.
 
-Puedes consultar el hub [Emails Profesionales en Inglés](/hubs/emails-profesionales-ingles) para más recursos sobre comunicación laboral en inglés.
+Puedes consultar el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) para más recursos sobre comunicación laboral en inglés.
 
 ## El segundo párrafo: lo que aportas
 

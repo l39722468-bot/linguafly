@@ -36,7 +36,7 @@ canonical: 'https://www.focus-on-english.com/blog/gramatica/present-perfect-ever
 
 Estas preguntas con **ever** son de las más naturales en conversación inglesa. Y **never** es la respuesta negativa más expresiva que existe en inglés para hablar de experiencias que nunca han ocurrido. Las dos palabras forman parte del vocabulario básico del present perfect y, una vez que las tienes, muchas conversaciones en inglés se vuelven más fáciles.
 
-Para entender el contexto más amplio de por qué estas palabras van con present perfect, la guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) explica la lógica completa.
+Para entender el contexto más amplio de por qué estas palabras van con present perfect, la guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) explica la lógica completa.
 
 ---
 

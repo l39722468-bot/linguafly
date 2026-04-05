@@ -37,7 +37,7 @@ Los verbos irregulares son uno de esos aspectos del inglés que no tienen atajo 
 
 La buena noticia es que los más importantes se aprenden solos con el uso. Si llevas un tiempo estudiando inglés, ya sabes que *go* hace *went*, que *see* hace *saw*, que *have* hace *had*. Lo que ayuda es organizarlos por patrones: muchos verbos comparten el mismo tipo de cambio, lo que hace que aprender uno te ayude con los que siguen el mismo patrón.
 
-Para ver cómo se usan en contexto con el past simple y el present perfect, la guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) muestra los dos tiempos con ejemplos reales.
+Para ver cómo se usan en contexto con el past simple y el present perfect, la guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) muestra los dos tiempos con ejemplos reales.
 
 ---
 

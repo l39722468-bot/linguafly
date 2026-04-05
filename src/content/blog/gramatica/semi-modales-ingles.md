@@ -40,7 +40,7 @@ Los modales puros del inglés — *can, must, will, should, may, might, would, s
 
 Ahí entran los **semi-modales**: verbos que expresan el mismo tipo de ideas (posibilidad, obligación, habilidad, hábito) pero que se comportan como verbos normales — con tercera persona en -s, con pasado en -ed, con infinitivo, en todos los tiempos.
 
-Para ver cómo encajan dentro del sistema modal completo, la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles) te da la visión general.
+Para ver cómo encajan dentro del sistema modal completo, la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles) te da la visión general.
 
 ---
 

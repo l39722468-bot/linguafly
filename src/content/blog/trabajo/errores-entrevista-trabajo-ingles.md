@@ -90,7 +90,7 @@ Las entrevistas en inglés tienen una capa extra de dificultad: además de prese
 
 **No enviar un thank you email.** Después de la entrevista, enviar un correo breve de agradecimiento en las siguientes 24 horas es una práctica estándar en muchos países de habla inglesa. No es obligatorio en todos los sectores, pero siempre suma.
 
-En el hub [Entrevista de Trabajo en Inglés](/hubs/entrevista-de-trabajo-en-ingles) encontrarás recursos para trabajar cada aspecto del proceso.
+En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) encontrarás recursos para trabajar cada aspecto del proceso.
 
 ## Errores en entrevistas virtuales
 

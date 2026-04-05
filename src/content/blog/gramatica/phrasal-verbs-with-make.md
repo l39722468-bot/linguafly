@@ -36,7 +36,7 @@ MAKE es uno de los verbos más básicos del inglés —todo el mundo aprende *ma
 
 La clave para no perderse es prestar atención al contexto y a qué viene después de la partícula. Con la práctica, el significado correcto empieza a activarse de forma automática.
 
-Si quieres entender mejor la lógica general de los phrasal verbs, la [guía completa de phrasal verbs](/hubs/phrasal-verbs) te da los patrones que se repiten.
+Si quieres entender mejor la lógica general de los phrasal verbs, la [guía completa de phrasal verbs](/blog/temas/phrasal-verbs) te da los patrones que se repiten.
 
 ---
 

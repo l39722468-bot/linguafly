@@ -36,7 +36,7 @@ TAKE es uno de esos verbos que los estudiantes de inglés aprenden pronto en su 
 
 Entender ese hilo conductor ayuda a recordar mejor las combinaciones y a deducir significados en contexto cuando te encuentras con una combinación desconocida.
 
-Para más contexto sobre cómo funcionan los phrasal verbs en general, la [guía completa de phrasal verbs](/hubs/phrasal-verbs) es un buen punto de partida.
+Para más contexto sobre cómo funcionan los phrasal verbs en general, la [guía completa de phrasal verbs](/blog/temas/phrasal-verbs) es un buen punto de partida.
 
 ---
 

@@ -116,7 +116,7 @@ El sistema vocálico descrito arriba corresponde al General American, la varieda
 
 Si escuchas mucho inglés americano y te resulta inconsistente, puede ser que estés expuesto a distintas variedades sin saberlo. Esto es normal y no debe preocuparte: los nativos también navegan esta variación constantemente.
 
-Para entender mejor las diferencias entre variedades del inglés, el hub sobre [acentos del inglés](/hubs/acentos-ingles-diferencias) ofrece una panorámica completa.
+Para entender mejor las diferencias entre variedades del inglés, el hub sobre [acentos del inglés](/blog/temas/acentos-ingles-diferencias) ofrece una panorámica completa.
 
 ---
 

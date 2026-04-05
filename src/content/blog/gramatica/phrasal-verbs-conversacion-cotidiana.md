@@ -37,7 +37,7 @@ Si miras una serie americana o británica con subtítulos en inglés, verás alg
 
 No hace falta aprenderlos todos a la vez. Lo que sí conviene es empezar a reconocerlos y usarlos en la conversación, especialmente los que aparecen una y otra vez en el inglés cotidiano.
 
-Si quieres entender la lógica de los phrasal verbs antes de ver estos ejemplos en contexto, la [guía de phrasal verbs](/hubs/phrasal-verbs) te da la estructura que necesitas.
+Si quieres entender la lógica de los phrasal verbs antes de ver estos ejemplos en contexto, la [guía de phrasal verbs](/blog/temas/phrasal-verbs) te da la estructura que necesitas.
 
 ---
 

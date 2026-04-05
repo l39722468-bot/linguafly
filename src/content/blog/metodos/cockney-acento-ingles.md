@@ -134,7 +134,7 @@ El Cockney no existe en el vacío: forma parte de un continuo de acentos del sur
 
 **El Multicultural London English (MLE)** es el acento de los jóvenes de Londres, especialmente de barrios con comunidades de origen jamaicano, bangladesí, somalí y otras. Conserva muchos rasgos del Cockney pero añade influencias del patois jamaicano y de otras lenguas. Términos como *"mandem"* (grupo de amigos), *"peng"* (atractivo, bueno), *"bare"* (mucho, muy) son marcas del MLE que ya han pasado al inglés general informal de toda Gran Bretaña.
 
-Para entender cómo el Cockney encaja en el conjunto de acentos del inglés —tanto británicos como de otros países— la guía de [acentos del inglés](/hubs/acentos-ingles-diferencias) ofrece una visión de conjunto útil.
+Para entender cómo el Cockney encaja en el conjunto de acentos del inglés —tanto británicos como de otros países— la guía de [acentos del inglés](/blog/temas/acentos-ingles-diferencias) ofrece una visión de conjunto útil.
 
 ---
 

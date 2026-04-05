@@ -157,7 +157,7 @@ Algunas estrategias que ayudan:
 
 **Fíjate en las palabras gramaticales.** Cuando escuches algo y no lo entiendas, pregúntate si es posible que haya una palabra gramatical reducida que no has reconocido. "Gonna", "wanna", "gotta", "kinda", "sorta" son reducciones tan frecuentes que casi tienen estatus propio.
 
-Si quieres un recorrido más completo por todos los aspectos de la pronunciación en inglés, la guía de [pronunciación en inglés](/hubs/pronunciacion-ingles-guia-completa) es un buen punto de partida para organizar lo que ya sabes y lo que todavía tienes que trabajar.
+Si quieres un recorrido más completo por todos los aspectos de la pronunciación en inglés, la guía de [pronunciación en inglés](/blog/temas/pronunciacion-ingles-guia-completa) es un buen punto de partida para organizar lo que ya sabes y lo que todavía tienes que trabajar.
 
 ---
 

@@ -155,7 +155,7 @@ La diferencia entre un candidato que consigue el puesto y uno que no lo consigue
 
 [👉 Prepara tu próxima entrevista con nuestros coaches de inglés profesional. ¡Primeras clases con descuento!](/cuenta/registro?plan=work)
 
-Para una visión completa del tema, consulta nuestra [guía de entrevistas de trabajo en inglés](/hubs/entrevista-de-trabajo-en-ingles).
+Para una visión completa del tema, consulta nuestra [guía de entrevistas de trabajo en inglés](/blog/temas/entrevista-de-trabajo-en-ingles).
 
 ---
 

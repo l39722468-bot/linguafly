@@ -157,7 +157,7 @@ Memoriza estas y tendrás el 80% de los usos conversacionales cubiertos:
 - *Even if...* (Incluso si...).
 - *As if!* (¡Como si fuera así! → ironía o incredulidad).
 
-Para profundizar en la gramática completa de todos los tipos de condicionales, consulta nuestra [guía de ejercicios de condicionales en inglés](/hubs/ejercicios-condicionales-ingles).
+Para profundizar en la gramática completa de todos los tipos de condicionales, consulta nuestra [guía de ejercicios de condicionales en inglés](/blog/temas/ejercicios-condicionales-ingles).
 
 ## Fuentes
 

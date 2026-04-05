@@ -175,7 +175,7 @@ Conocer estos términos y usarlos correctamente cuando sea relevante muestra que
 - *"I'm very interested in this role and I believe my background aligns well with what you're looking for."*
 - *"I'd love the opportunity to contribute to [proyecto/equipo específico] that you mentioned."*
 
-Puedes encontrar más recursos en el hub [Entrevista de Trabajo en Inglés](/hubs/entrevista-de-trabajo-en-ingles) para prepararte de forma completa.
+Puedes encontrar más recursos en el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) para prepararte de forma completa.
 
 ## Las palabras que debes evitar
 

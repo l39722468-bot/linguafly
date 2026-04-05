@@ -116,7 +116,7 @@ La estructura sigue siendo válida, solo cambian los escenarios:
 - *"I'm very comfortable asking for feedback and iterating."*
 - *"I don't need a lot of hand-holding once I understand what's expected."*
 
-En el hub [Entrevista de Trabajo en Inglés](/hubs/entrevista-de-trabajo-en-ingles) encontrarás más recursos para cada fase del proceso, incluyendo cómo preparar tu CV y cómo gestionar el seguimiento después de la entrevista.
+En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) encontrarás más recursos para cada fase del proceso, incluyendo cómo preparar tu CV y cómo gestionar el seguimiento después de la entrevista.
 
 ## Lo que no debes hacer
 

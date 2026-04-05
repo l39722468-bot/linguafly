@@ -36,7 +36,7 @@ Tres palabras pequeñas que generan mucha confusión: **just**, **already** y **
 
 Una vez que tienes claro qué dice cada una y dónde va, el present perfect empieza a encajar de forma mucho más natural.
 
-Para el panorama completo de cómo funciona el present perfect en inglés, la guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) te da los fundamentos.
+Para el panorama completo de cómo funciona el present perfect en inglés, la guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) te da los fundamentos.
 
 ---
 

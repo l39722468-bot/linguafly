@@ -40,7 +40,7 @@ Los modales perfectos son la estructura que te permite hablar del pasado con tod
 
 La estructura siempre es la misma: **modal + have + participio pasado**.
 
-Si quieres ver cómo encajan en el sistema general de verbos modales, la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles) te da el contexto completo.
+Si quieres ver cómo encajan en el sistema general de verbos modales, la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles) te da el contexto completo.
 
 ---
 

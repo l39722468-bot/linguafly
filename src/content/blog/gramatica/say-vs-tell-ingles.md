@@ -40,7 +40,7 @@ Si alguna vez has escrito *"She said me that..."* en inglés, ya sabes de qué v
 
 Los dos verbos significan algo parecido a "decir" en español, pero funcionan de forma diferente en cuanto a la estructura que llevan. Una vez que entiendes esa diferencia, ya no vuelves a confundirlos.
 
-Para ver cómo encajan en el sistema completo del reported speech, la guía [Reported Speech en Inglés](/hubs/reported-speech) te muestra todos los usos con contexto.
+Para ver cómo encajan en el sistema completo del reported speech, la guía [Reported Speech en Inglés](/blog/temas/reported-speech) te muestra todos los usos con contexto.
 
 ---
 

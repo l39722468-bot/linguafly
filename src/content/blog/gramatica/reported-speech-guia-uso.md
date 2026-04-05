@@ -40,7 +40,7 @@ El **Reported Speech** (o estilo indirecto) es una de las herramientas más pote
 
 Ya sea que estés redactando un informe profesional, narrando una noticia o simplemente contando un chisme a un amigo, dominar esta estructura es vital para sonar natural y preciso. En esta guía desglosaremos todo lo que necesitas saber, desde las reglas básicas de **Backshift** hasta los matices de los verbos comunicativos.
 
-Para una visión completa del sistema, la guía [Reported Speech en Inglés](/hubs/reported-speech) te muestra todos los usos en perspectiva.
+Para una visión completa del sistema, la guía [Reported Speech en Inglés](/blog/temas/reported-speech) te muestra todos los usos en perspectiva.
 
 ---
 

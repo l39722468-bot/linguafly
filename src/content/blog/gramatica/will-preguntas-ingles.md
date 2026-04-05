@@ -177,7 +177,7 @@ En inglés americano es más común *Should I...?* o *Do you want me to...?*
 | Petición | Will + you + inf | *Will you help me?* |
 | Indirecta | ...when/if + suj + will | *Do you know when he will arrive?* |
 
-Para el contexto completo de los auxiliares modales, consulta la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles).
+Para el contexto completo de los auxiliares modales, consulta la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles).
 
 ## Fuentes
 

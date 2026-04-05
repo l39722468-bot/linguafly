@@ -109,7 +109,7 @@ Una disculpa sin propuesta de solución es solo ruido. Indica qué vas a hacer:
 - *We will [acción] by [fecha] to resolve this issue.*
 - *As a gesture of goodwill, we would like to offer you [compensación].*
 
-En el hub [Emails Profesionales en Inglés](/hubs/emails-profesionales-ingles) encontrarás más plantillas para gestionar situaciones difíciles en inglés.
+En el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) encontrarás más plantillas para gestionar situaciones difíciles en inglés.
 
 ## Garantizar que no vuelva a ocurrir
 

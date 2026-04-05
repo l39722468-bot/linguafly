@@ -36,7 +36,7 @@ Si tuvieras que elegir un solo verbo para dominar todos sus phrasal verbs primer
 
 La buena noticia es que GET tiene cierta lógica interna. Muchas de sus combinaciones tienen que ver con movimiento (físico o metafórico), cambio de estado o logro de algo. Una vez que ves esos patrones, los phrasal verbs con GET dejan de parecer aleatorios.
 
-Para un panorama completo de cómo funcionan los phrasal verbs en general, la [guía de phrasal verbs](/hubs/phrasal-verbs) te da la base que necesitas.
+Para un panorama completo de cómo funcionan los phrasal verbs en general, la [guía de phrasal verbs](/blog/temas/phrasal-verbs) te da la base que necesitas.
 
 ---
 

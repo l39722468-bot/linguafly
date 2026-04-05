@@ -115,7 +115,7 @@ La decisión depende de factores prácticos más que de preferencias estéticas:
 
 3. **Consistencia por encima de "calidad"**: mezclar sistemáticamente elementos del britáNico y el americano (pronunciar /r/ postvocálica en algunas palabras pero no en otras, usar /æ/ unas veces y /ɑː/ otras) suena más extraño que cualquiera de las dos variedades con acento. Si eliges una referencia, sé consistente.
 
-Para una visión más amplia de la diversidad de acentos del inglés (australiano, irlandés, escocés, etc.), el hub de [acentos del inglés](/hubs/acentos-ingles-diferencias) es el punto de partida.
+Para una visión más amplia de la diversidad de acentos del inglés (australiano, irlandés, escocés, etc.), el hub de [acentos del inglés](/blog/temas/acentos-ingles-diferencias) es el punto de partida.
 
 ---
 

@@ -278,7 +278,7 @@ Algunos cursos tienen contratos anuales con penalización por baja. Revisa siemp
 
 Si todavía no has probado a estudiar inglés de forma estructurada, considera empezar con recursos gratuitos durante uno o dos meses. Esto te permitirá confirmar que realmente te comprometes antes de invertir dinero, y llegar a la plataforma de pago con una base mínima que hará el avance más rápido.
 
-Puedes consultar nuestra guía de los [mejores recursos gratuitos para aprender inglés](/blog/metodos/curso-ingles-gratis) para organizar esos primeros pasos sin coste. Y si ya tienes claro que quieres un método completo con todos los niveles cubiertos, visita nuestro [hub de cursos de inglés](/hubs/curso-ingles) donde encontrarás recursos por nivel, formato y objetivo.
+Puedes consultar nuestra guía de los [mejores recursos gratuitos para aprender inglés](/blog/metodos/curso-ingles-gratis) para organizar esos primeros pasos sin coste. Y si ya tienes claro que quieres un método completo con todos los niveles cubiertos, visita nuestro [hub de cursos de inglés](/blog/temas/curso-ingles) donde encontrarás recursos por nivel, formato y objetivo.
 
 ---
 

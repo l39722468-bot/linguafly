@@ -40,7 +40,7 @@ De todos los verbos modales en inglés, **may** y **might** son probablemente lo
 
 Pero hay matices. Y hay un uso de *may* que *might* no comparte: el permiso formal. Y en las formas perfectas, los dos tienen usos bien diferenciados.
 
-Si quieres ver cómo encajan en el sistema completo de verbos modales, la guía [Verbos Modales en Inglés](/hubs/verbos-modales-ingles) te da una visión global.
+Si quieres ver cómo encajan en el sistema completo de verbos modales, la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles) te da una visión global.
 
 ---
 

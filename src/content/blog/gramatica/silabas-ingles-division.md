@@ -168,7 +168,7 @@ Cuando ves la transcripción de una palabra en el diccionario, los puntos que se
 
 Desarrollar el hábito de mirar esos puntos cuando aprendes una palabra nueva cambia la forma en que la memorizas. No solo aprendes "cómo suena", sino cómo está construida, lo que hace mucho más fácil recordarla y pronunciarla incluso cuando estás hablando rápido.
 
-Si quieres seguir trabajando la fonética del inglés desde sus fundamentos, en [Focus English](/hubs/fonetica-inglesa-basica) encontrarás recursos sobre el sistema de sonidos, el IPA y otros aspectos de la pronunciación que conectan directamente con lo que hemos visto aquí.
+Si quieres seguir trabajando la fonética del inglés desde sus fundamentos, en [Focus English](/blog/temas/fonetica-inglesa-basica) encontrarás recursos sobre el sistema de sonidos, el IPA y otros aspectos de la pronunciación que conectan directamente con lo que hemos visto aquí.
 
 ---
 

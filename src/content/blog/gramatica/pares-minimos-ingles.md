@@ -185,7 +185,7 @@ Además de listas como esta, hay herramientas específicas para el entrenamiento
 - **Forvo**: pronunciaciones grabadas por hablantes nativos reales, no síntesis de voz.
 - **Sounds: The Pronunciation App**: de Macmillan, incluye ejercicios de pares mínimos interactivos.
 
-Para entender mejor el sistema fonológico completo del inglés y ver cómo encajan los diptongos y el acento de sílaba con los contrastes que acabas de ver, puedes explorar todos los recursos de fonética en [Focus English](/hubs/fonetica-inglesa-basica).
+Para entender mejor el sistema fonológico completo del inglés y ver cómo encajan los diptongos y el acento de sílaba con los contrastes que acabas de ver, puedes explorar todos los recursos de fonética en [Focus English](/blog/temas/fonetica-inglesa-basica).
 
 ---
 

@@ -138,7 +138,7 @@ Si el resultado no fue positivo (en preguntas sobre fracasos), añade siempre lo
 
 *By the end of the 60 days, we had closed two of the three proposals and increased our average contract value with two existing clients. We recovered about 70% of the lost revenue, and the experience actually helped us build stronger client relationships overall (Result)."*
 
-En el hub [Entrevista de Trabajo en Inglés](/hubs/entrevista-de-trabajo-en-ingles) encontrarás más recursos para prepararte de forma completa.
+En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) encontrarás más recursos para prepararte de forma completa.
 
 ## Los errores más frecuentes con STAR
 

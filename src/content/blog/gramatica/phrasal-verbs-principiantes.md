@@ -41,7 +41,7 @@ Si acabas de empezar a estudiar inglés o llevas poco tiempo, es muy probable qu
 
 La buena noticia: no necesitas entender la lógica de todos para empezar a usarlos. Hay un grupo de **phrasal verbs básicos** cuyo significado es transparente o muy frecuente en la vida diaria. Domínalos primero y tendrás una base sólida sobre la que construir.
 
-Cuando hayas asimilado los básicos, en la [guía de phrasal verbs](/hubs/phrasal-verbs) encontrarás el camino completo hacia los niveles intermedios y avanzados.
+Cuando hayas asimilado los básicos, en la [guía de phrasal verbs](/blog/temas/phrasal-verbs) encontrarás el camino completo hacia los niveles intermedios y avanzados.
 
 ---
 

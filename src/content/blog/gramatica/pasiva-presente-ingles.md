@@ -75,7 +75,7 @@ Puedes añadir *by + agente* si quieres especificar quién realiza la acción:
 Pero en la práctica, se omite mucho:
 - *The report is written every Monday.* (Damos por sabido quién lo escribe.)
 
-Si quieres profundizar en todos los tiempos de la pasiva, el hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles) cubre desde las estructuras básicas hasta la pasiva impersonal y la causativa.
+Si quieres profundizar en todos los tiempos de la pasiva, el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) cubre desde las estructuras básicas hasta la pasiva impersonal y la causativa.
 
 ## Present Continuous Pasiva: lo que está pasando ahora
 

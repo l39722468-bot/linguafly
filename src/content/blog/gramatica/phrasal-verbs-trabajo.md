@@ -40,7 +40,7 @@ faqs:
 
 En el entorno laboral en inglés, los **phrasal verbs de trabajo** son omnipresentes. Aparecen en emails, reuniones, llamadas de teléfono, presentaciones y negociaciones. Conocerlos no es un extra opcional: es una **necesidad real** si quieres comunicarte de forma fluida y profesional en inglés.
 
-Este artículo recopila los **60 phrasal verbs más usados en contextos profesionales**, organizados por situación para que los puedas aplicar desde el primer día. Si buscas una visión más amplia con los patrones generales, la [guía completa de phrasal verbs](/hubs/phrasal-verbs) es el complemento ideal.
+Este artículo recopila los **60 phrasal verbs más usados en contextos profesionales**, organizados por situación para que los puedas aplicar desde el primer día. Si buscas una visión más amplia con los patrones generales, la [guía completa de phrasal verbs](/blog/temas/phrasal-verbs) es el complemento ideal.
 
 ---
 

@@ -101,7 +101,7 @@ La pasiva requiere siempre **to be + participio**. A veces el *be* desaparece, e
 
 El auxiliar *be* es imprescindible. Sin él, la construcción no funciona.
 
-En el hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles) tienes la tabla completa con todos los tiempos para que no pierdas ningún auxiliar.
+En el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) tienes la tabla completa con todos los tiempos para que no pierdas ningún auxiliar.
 
 ## Error 4: Confundir "by" y "with"
 

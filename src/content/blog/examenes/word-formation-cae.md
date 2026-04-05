@@ -150,7 +150,7 @@ Para preparar el word formation de manera efectiva, la técnica de las **familia
 
 Aprende 5-10 familias de palabras por semana, centra cada semana en un grupo de sufijos y practica identificando la categoría gramatical que pide el hueco antes de pensar en la transformación.
 
-Para practicar en contexto con el resto de partes del Use of English, el artículo sobre [ejercicios de Use of English C1](/blog/examenes/use-of-english-c1-ejercicios) tiene estrategias específicas para cada parte. Y el [hub CAE](/hubs/cae-c1-advanced-cambridge) tiene todos los recursos del examen organizados.
+Para practicar en contexto con el resto de partes del Use of English, el artículo sobre [ejercicios de Use of English C1](/blog/examenes/use-of-english-c1-ejercicios) tiene estrategias específicas para cada parte. Y el [hub CAE](/blog/temas/cae-c1-advanced-cambridge) tiene todos los recursos del examen organizados.
 
 ---
 

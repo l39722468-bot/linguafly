@@ -87,13 +87,13 @@ Las sesiones de examen se distribuyen a lo largo del año, con concentraciones h
 
 El B2 First es un punto de llegada para muchos estudiantes, pero también es el punto de partida para el **C1 Advanced (CAE)**: el examen que abre las puertas a universidades angloparlantes y puestos de alto nivel.
 
-Si ya tienes el FCE o tu nivel es claramente B2, la [guía completa del C1 Advanced (CAE)](/hubs/cae-c1-advanced-cambridge) tiene todo lo que necesitas para dar ese siguiente paso.
+Si ya tienes el FCE o tu nivel es claramente B2, la [guía completa del C1 Advanced (CAE)](/blog/temas/cae-c1-advanced-cambridge) tiene todo lo que necesitas para dar ese siguiente paso.
 
 ---
 
 ## 📚 Más recursos para el FCE
 
-- [Guía completa del C1 Advanced (CAE)](/hubs/cae-c1-advanced-cambridge)
+- [Guía completa del C1 Advanced (CAE)](/blog/temas/cae-c1-advanced-cambridge)
 - [Precios de los exámenes Cambridge en 2026](/blog/examenes/precios-examenes-cambridge)
 - [Comparativa: IELTS vs TOEFL vs Cambridge](/blog/examenes/mejores-certificados-ingles-2026)
 - [Phrasal verbs esenciales para el Use of English](/blog/gramatica/phrasal-verbs-guia-b2)

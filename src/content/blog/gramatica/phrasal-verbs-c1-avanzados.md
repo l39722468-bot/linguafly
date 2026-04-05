@@ -37,7 +37,7 @@ En B2, los phrasal verbs son sobre todo un reto de vocabulario: ¿sabes lo que s
 
 Este nivel también introduce phrasal verbs que aparecen sobre todo en textos escritos: artículos académicos, informes, correos formales, editoriales. Son combinaciones que raramente escucharás en conversación cotidiana, pero que son moneda corriente en el inglés profesional real.
 
-Para revisar la base de los phrasal verbs antes de entrar en el nivel avanzado, la [guía de phrasal verbs](/hubs/phrasal-verbs) es el punto de partida.
+Para revisar la base de los phrasal verbs antes de entrar en el nivel avanzado, la [guía de phrasal verbs](/blog/temas/phrasal-verbs) es el punto de partida.
 
 ---
 

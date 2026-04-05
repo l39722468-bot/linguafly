@@ -40,7 +40,7 @@ El reported speech no es solo cambiar el tiempo verbal. Cuando reportas lo que a
 
 Imagina que alguien te dijo ayer: *"I'll finish this today."* Si lo repites hoy, no puedes decir *"She said she would finish this today"* — porque "today" ya no es ese día. Tendrías que decir *"She said she would finish it that day."*
 
-Para ver el sistema completo del reported speech, la guía [Reported Speech en Inglés](/hubs/reported-speech) cubre todas las reglas en conjunto.
+Para ver el sistema completo del reported speech, la guía [Reported Speech en Inglés](/blog/temas/reported-speech) cubre todas las reglas en conjunto.
 
 ---
 

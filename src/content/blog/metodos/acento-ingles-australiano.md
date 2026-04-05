@@ -163,7 +163,7 @@ Algunas recomendaciones concretas:
 
 **Ejercicio específico:** Escucha una frase y escríbela. Luego comprueba el texto. Si te equivocaste en alguna palabra, intenta identificar cuál fue el cambio vocálico que te confundió. Poco a poco el oído empieza a hacer la traducción automática.
 
-Para una visión de conjunto de todos los acentos del inglés —no solo el australiano sino también el americano, el británico y otros— la guía de [acentos del inglés](/hubs/acentos-ingles-diferencias) organiza los distintos sistemas con sus características principales.
+Para una visión de conjunto de todos los acentos del inglés —no solo el australiano sino también el americano, el británico y otros— la guía de [acentos del inglés](/blog/temas/acentos-ingles-diferencias) organiza los distintos sistemas con sus características principales.
 
 ---
 

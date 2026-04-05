@@ -135,7 +135,7 @@ Empieza con palabras simples donde el schwa es la primera sílaba: *about* /əˈ
 
 Después pasa a frases cortas enfocándote en las palabras gramaticales: *"I want to go"* → /aɪ.wɒnt.tə.ɡəʊ/. La "to" entre verbos casi siempre se reduce a /tə/.
 
-Para tener una visión completa de todos los aspectos de la pronunciación que merece la pena trabajar —ritmo, entonación, formas débiles, sonidos específicos— el hub de [pronunciación en inglés](/hubs/pronunciacion-ingles-guia-completa) te da una estructura clara para organizar la práctica.
+Para tener una visión completa de todos los aspectos de la pronunciación que merece la pena trabajar —ritmo, entonación, formas débiles, sonidos específicos— el hub de [pronunciación en inglés](/blog/temas/pronunciacion-ingles-guia-completa) te da una estructura clara para organizar la práctica.
 
 ---
 

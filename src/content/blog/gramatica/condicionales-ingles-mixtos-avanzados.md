@@ -177,7 +177,7 @@ En el **Part 4 de Use of English** de Cambridge C1 Advanced, los Mixed Condition
 
 Los **Mixed Conditionals** son una de las estructuras que más distinguen a un hablante avanzado de uno intermedio. Con práctica sistemática, estos patrones se vuelven automáticos y enriquecen enormemente tu inglés escrito y oral.
 
-Si estás preparando el Cambridge Advanced, echa un vistazo a nuestra [guía completa de preparación CAE](/hubs/cambridge-english-2026).
+Si estás preparando el Cambridge Advanced, echa un vistazo a nuestra [guía completa de preparación CAE](/blog/temas/cambridge-english-2026).
 
 ## Fuentes
 

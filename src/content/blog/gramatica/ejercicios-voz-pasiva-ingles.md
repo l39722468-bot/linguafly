@@ -95,7 +95,7 @@ Completa con la forma pasiva correcta del verbo entre paréntesis:
 6. *has been made* (present perfect; con "for over a century")
 7. *is being questioned* (present continuous)
 
-El hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles) tiene la tabla de tiempos si necesitas repasar alguna forma.
+El hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) tiene la tabla de tiempos si necesitas repasar alguna forma.
 
 ## Bloque 3: Corrección de errores (B1-B2)
 

@@ -169,7 +169,7 @@ La R no se aprende de un día para otro. Requiere que el músculo de la lengua d
 
 **Usa el [shadowing](/blog/metodos/shadowing-tecnica-ingles)** con hablantes del acento que estés aprendiendo. Intenta imitar el patrón global de cada frase, incluyendo la R, sin pararte a analizar fonema por fonema. Tu boca irá encontrando la posición por imitación.
 
-Para tener una visión de conjunto de todos los sonidos del inglés y cómo encajan, la guía de [pronunciación en inglés](/hubs/pronunciacion-ingles-guia-completa) te da un mapa completo desde donde organizar la práctica.
+Para tener una visión de conjunto de todos los sonidos del inglés y cómo encajan, la guía de [pronunciación en inglés](/blog/temas/pronunciacion-ingles-guia-completa) te da un mapa completo desde donde organizar la práctica.
 
 ---
 

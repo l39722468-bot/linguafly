@@ -180,7 +180,7 @@ O estas con "ou":
 - *you* /juː/ — vocal larga /uː/
 - *enough* /ɪˈnʌf/ — vocal corta /ʌ/
 
-No hay salida: la única forma de saber cómo suena cada palabra es haberla escuchado o consultar la transcripción fonética. Si quieres reforzar los fundamentos del sistema vocálico del inglés, en el apartado de [fonética de Focus English](/hubs/fonetica-inglesa-basica) encontrarás recursos que trabajan estos sonidos desde distintos ángulos, incluyendo las vocales cortas y largas que sirven de base para entender los diptongos.
+No hay salida: la única forma de saber cómo suena cada palabra es haberla escuchado o consultar la transcripción fonética. Si quieres reforzar los fundamentos del sistema vocálico del inglés, en el apartado de [fonética de Focus English](/blog/temas/fonetica-inglesa-basica) encontrarás recursos que trabajan estos sonidos desde distintos ángulos, incluyendo las vocales cortas y largas que sirven de base para entender los diptongos.
 
 ---
 

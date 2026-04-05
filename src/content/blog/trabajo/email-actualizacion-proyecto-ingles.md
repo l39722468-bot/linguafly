@@ -110,7 +110,7 @@ Para indicar el estado general de forma rápida (muy usado en reports ejecutivos
 - *We are **slightly behind** on [área] but expect to recover by [fecha].*
 - *The timeline is **at risk** due to [causa]. We are assessing options and will provide an update by [fecha].*
 
-Puedes consultar más recursos en el hub [Emails Profesionales en Inglés](/hubs/emails-profesionales-ingles).
+Puedes consultar más recursos en el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles).
 
 ## Ejemplo completo: update semanal
 

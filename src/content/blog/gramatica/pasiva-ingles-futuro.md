@@ -81,7 +81,7 @@ Se usa cuando hay una intención o plan establecido de antemano, igual que en la
 
 En la práctica, especialmente en inglés formal y escrito, *will be* es más frecuente en pasiva. *Going to be* suena ligeramente más coloquial.
 
-El hub [Voz Pasiva en Inglés](/hubs/voz-pasiva-ingles) tiene la tabla completa con todos los tiempos verbales en pasiva, incluido el futuro.
+El hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) tiene la tabla completa con todos los tiempos verbales en pasiva, incluido el futuro.
 
 ## Present Continuous como futuro: is being + participio
 

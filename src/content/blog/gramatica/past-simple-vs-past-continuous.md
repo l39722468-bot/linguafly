@@ -37,7 +37,7 @@ Cuando narras algo que ocurrió en el pasado en inglés, raramente usas solo el 
 
 Entender cómo funciona esta combinación mejora tanto la comprensión de textos como la capacidad de expresarse de forma natural en inglés.
 
-Para el contexto de todos los tiempos de pasado en inglés, la guía [Present Perfect vs Past Simple](/hubs/present-perfect-vs-past-simple) te da la visión de conjunto.
+Para el contexto de todos los tiempos de pasado en inglés, la guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-simple) te da la visión de conjunto.
 
 ---
 
