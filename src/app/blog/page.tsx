@@ -1,5 +1,7 @@
+import { Suspense } from "react";
 import { Navigation } from "@/components/sections/Navigation";
 import { CourseLaunchBanner } from "@/components/CourseLaunchBanner";
+import { BlogSearchExplorer } from "@/components/blog/BlogSearchExplorer";
 import Link from "next/link";
 import Image from "next/image";
 import { Metadata } from "next";
@@ -92,6 +94,30 @@ export default function BlogPage() {
       color: "from-violet-600 to-purple-700"
     }
   };
+
+  const categoryFilterLabels: Record<string, string> = {
+    trabajo: "Trabajo y negocios",
+    viajes: "Viajes",
+    examenes: "Exámenes",
+    metodos: "Métodos de aprendizaje",
+    seo: "Niveles y cursos",
+    "material-estudio": "Material de estudio",
+    gramatica: "Gramática",
+    vocabulario: "Vocabulario",
+    habilidades: "Habilidades (speaking, listening…)",
+  };
+
+  const searchCategoryOptions = Array.from(
+    new Set(articles.map((a) => a.category.toLowerCase()))
+  )
+    .sort()
+    .map((slug) => ({
+      slug,
+      label:
+        categoryFilterLabels[slug] ||
+        categoryMetadata[slug]?.name?.split(":")[0]?.trim() ||
+        slug.charAt(0).toUpperCase() + slug.slice(1).replace(/-/g, " "),
+    }));
 
   const categories = Array.from(new Set(articles.map(a => a.category))).map(rawCatSlug => {
     const catSlug = rawCatSlug.toLowerCase();
@@ -201,6 +227,23 @@ export default function BlogPage() {
             </div>
           </section>
         )}
+
+        <section className="px-4 sm:px-6 lg:px-8 pt-4 pb-0">
+          <div className="max-w-7xl mx-auto">
+            <Suspense
+              fallback={
+                <div className="mb-14 rounded-3xl border border-slate-200/80 bg-white p-8 text-center text-slate-500">
+                  Cargando buscador…
+                </div>
+              }
+            >
+              <BlogSearchExplorer
+                categories={searchCategoryOptions}
+                articleCount={articles.length}
+              />
+            </Suspense>
+          </div>
+        </section>
 
         {/* Categories Section */}
         <section className="py-12 px-4 sm:px-6 lg:px-8">

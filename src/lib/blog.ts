@@ -200,6 +200,142 @@ function parseHubFile(filePath: string, slug: string): HubContent {
   };
 }
 
+/** Texto normalizado para búsquedas (minúsculas, sin acentos). */
+export function normalizeForSearch(text: string): string {
+  return text
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "");
+}
+
+export interface BlogSearchHit {
+  slug: string;
+  title: string;
+  excerpt: string;
+  date: string;
+  readTime: string;
+  category: string;
+  image?: string;
+  alt?: string;
+}
+
+function toSearchHit(article: BlogPost): BlogSearchHit {
+  return {
+    slug: article.slug,
+    title: article.title,
+    excerpt: article.excerpt,
+    date: article.date,
+    readTime: article.readTime,
+    category: article.category,
+    image: article.image,
+    alt: article.alt,
+  };
+}
+
+export type BlogSearchMatchMode = "any" | "all";
+
+/**
+ * Busca artículos por palabras clave en título, resumen, descripción, keywords y parte del contenido.
+ * - `match: "any"` (por defecto): **OR** — basta con que coincida un término; más coincidencias suben en el ranking.
+ * - `match: "all"`: **Y** — deben aparecer todos los términos.
+ * Sin consulta (o solo espacios): lista por fecha dentro del filtro de categoría (si aplica).
+ */
+export function searchBlogPosts(
+  query: string,
+  options: {
+    category?: string;
+    limit?: number;
+    offset?: number;
+    match?: BlogSearchMatchMode;
+  } = {}
+): { hits: BlogSearchHit[]; total: number } {
+  const limit = Math.min(Math.max(options.limit ?? 24, 1), 100);
+  const offset = Math.max(options.offset ?? 0, 0);
+  const matchMode: BlogSearchMatchMode = options.match === "all" ? "all" : "any";
+
+  let pool = getBlogArticles();
+
+  if (options.category && options.category !== "all") {
+    const nc = normalizeCategory(options.category);
+    pool = pool.filter((a) => normalizeCategory(a.category) === nc);
+  }
+
+  const raw = query.trim();
+  const tokens = raw
+    ? raw
+        .split(/\s+/)
+        .map((t) => normalizeForSearch(t))
+        .filter((t) => t.length >= 2)
+    : [];
+
+  if (raw.length > 0 && tokens.length === 0) {
+    return { hits: [], total: 0 };
+  }
+
+  if (tokens.length === 0) {
+    const total = pool.length;
+    const slice = pool.slice(offset, offset + limit);
+    return { hits: slice.map(toSearchHit), total };
+  }
+
+  type Scored = { article: BlogPost; score: number; matchedTerms: number };
+
+  const scored: Scored[] = [];
+
+  for (const article of pool) {
+    const titleN = normalizeForSearch(article.title);
+    const excerptN = normalizeForSearch(article.excerpt);
+    const descN = normalizeForSearch(article.description || "");
+    const keywordsN = (article.keywords || []).map((k) => normalizeForSearch(k)).join(" ");
+    const contentSample = normalizeForSearch(article.content.slice(0, 12000));
+
+    const haystack = `${titleN} ${excerptN} ${descN} ${keywordsN} ${contentSample}`;
+
+    if (matchMode === "all") {
+      if (!tokens.every((t) => haystack.includes(t))) {
+        continue;
+      }
+      let score = 0;
+      for (const t of tokens) {
+        if (titleN.includes(t)) score += 12;
+        else if (keywordsN.includes(t)) score += 8;
+        else if (excerptN.includes(t) || descN.includes(t)) score += 4;
+        else score += 1;
+      }
+      scored.push({ article, score, matchedTerms: tokens.length });
+      continue;
+    }
+
+    let score = 0;
+    let matchedTerms = 0;
+    for (const t of tokens) {
+      if (!haystack.includes(t)) continue;
+      matchedTerms += 1;
+      if (titleN.includes(t)) score += 12;
+      else if (keywordsN.includes(t)) score += 8;
+      else if (excerptN.includes(t) || descN.includes(t)) score += 4;
+      else score += 1;
+    }
+
+    if (matchedTerms === 0) continue;
+
+    scored.push({ article, score, matchedTerms });
+  }
+
+  scored.sort((a, b) => {
+    if (matchMode === "any" && b.matchedTerms !== a.matchedTerms) {
+      return b.matchedTerms - a.matchedTerms;
+    }
+    if (b.score !== a.score) return b.score - a.score;
+    return new Date(b.article.date).getTime() - new Date(a.article.date).getTime();
+  });
+
+  const total = scored.length;
+  const slice = scored.slice(offset, offset + limit).map((s) => toSearchHit(s.article));
+
+  return { hits: slice, total };
+}
+
 export function getAllKeywords(): string[] {
   const allArticles = getBlogArticles();
   const keywords = new Set<string>();

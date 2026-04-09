@@ -15,6 +15,11 @@ import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import { Twitter, Award } from "lucide-react";
 
+/** Evita `/_next/image` para URLs absolutas: mejora compatibilidad con rastreadores (p. ej. GSC) y CDN externos. */
+function isRemoteImageSrc(src: string): boolean {
+  return /^https?:\/\//i.test(src);
+}
+
 export async function generateStaticParams() {
   const articles = getBlogArticles();
   return articles.map(article => ({
@@ -197,18 +202,24 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     li: ({ node, ...props }: any) => <li className="pl-2" {...props} />,
     strong: ({ node, ...props }: any) => <strong className="font-bold text-slate-900" {...props} />,
     a: ({ node, ...props }: any) => <a className="text-coral-600 font-bold hover:underline" {...props} />,
-    img: ({ node, ...props }: any) => (
-      <div className="my-10">
-        <Image 
-          src={props.src}
-          alt={props.alt || ""}
-          width={1200}
-          height={675}
-          className="rounded-2xl shadow-lg w-full object-cover aspect-video" 
-        />
-        {props.alt && <p className="text-center text-sm text-slate-500 mt-3 italic">{props.alt}</p>}
-      </div>
-    ),
+    img: ({ node, ...props }: any) => {
+      const src = typeof props.src === "string" ? props.src : "";
+      return (
+        <div className="my-10">
+          <Image
+            src={src || "/blog/og-image.jpg"}
+            alt={props.alt || ""}
+            width={1200}
+            height={675}
+            unoptimized={isRemoteImageSrc(src)}
+            className="rounded-2xl shadow-lg w-full object-cover aspect-video"
+          />
+          {props.alt && (
+            <p className="text-center text-sm text-slate-500 mt-3 italic">{props.alt}</p>
+          )}
+        </div>
+      );
+    },
     table: ({ node, ...props }: any) => (
       <div className="overflow-x-auto my-8 border border-slate-100 rounded-2xl shadow-sm">
         <table className="min-w-full divide-y divide-slate-100" {...props} />
@@ -239,6 +250,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const relatedArticles = getRelatedArticles(slug, article.category);
   const clusterArticles = getRelatedByKeywords(slug, article.keywords || [], 3);
   const mainKeyword = article.keywords?.[0];
+  const heroImageSrc = article.image || "/blog/og-image.jpg";
 
     return (
       <>
@@ -270,10 +282,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                   <div className="relative w-full overflow-hidden bg-slate-200">
                     <div className="aspect-video relative">
                       <Image
-                        src={article.image || "/blog/og-image.jpg"}
+                        src={heroImageSrc}
                         alt={article.alt || article.title}
                         fill
                         priority
+                        unoptimized={isRemoteImageSrc(heroImageSrc)}
                         className="object-cover transition-opacity duration-500"
                         sizes="(max-width: 768px) 100vw, (max-width: 1200px) 66vw"
                       />
@@ -330,6 +343,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                                 src={article.authorData.image} 
                                 alt={article.authorData.name} 
                                 fill 
+                                unoptimized={isRemoteImageSrc(article.authorData.image)}
                                 className="object-cover"
                               />
                             </div>
@@ -386,6 +400,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                                 src={article.authorData.image} 
                                 alt={article.authorData.name} 
                                 fill 
+                                unoptimized={isRemoteImageSrc(article.authorData.image)}
                                 className="object-cover"
                               />
                             </div>
@@ -481,6 +496,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                               src={rel.image || "/blog/og-image.jpg"} 
                               alt={rel.alt || rel.title} 
                               fill
+                              unoptimized={isRemoteImageSrc(rel.image || "")}
                               className="object-cover"
                             />
                           </div>

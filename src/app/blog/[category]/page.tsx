@@ -1,4 +1,6 @@
+import { Suspense } from "react";
 import { Navigation } from "@/components/sections/Navigation";
+import { BlogSearchExplorer } from "@/components/blog/BlogSearchExplorer";
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -164,6 +166,27 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
                 </div>
               </div>
             </div>
+          </div>
+        </section>
+
+        <section className="px-4 sm:px-6 lg:px-8 pt-4 pb-2">
+          <div className="max-w-7xl mx-auto">
+            <Suspense
+              fallback={
+                <div className="mb-10 rounded-3xl border border-slate-200/80 bg-white p-8 text-center text-slate-500">
+                  Cargando buscador…
+                </div>
+              }
+            >
+              <BlogSearchExplorer
+                categories={[]}
+                articleCount={articles.length}
+                forcedCategory={category}
+                forcedCategoryLabel={
+                  meta.name.split(":")[0]?.trim() || meta.name
+                }
+              />
+            </Suspense>
           </div>
         </section>
 
