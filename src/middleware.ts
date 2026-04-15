@@ -44,6 +44,30 @@ function isPublicSEORoute(pathname: string) {
 
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
+  const isStaticAsset = pathname.includes('.') || pathname.startsWith('/_next/');
+  const isApiOrWebhook = pathname.startsWith('/api/');
+  const isProductRoute =
+    pathname.startsWith('/curso-') ||
+    pathname.startsWith('/curso/') ||
+    pathname.startsWith('/cursos') ||
+    pathname.startsWith('/planes') ||
+    pathname.startsWith('/success') ||
+    pathname.startsWith('/mi-panel') ||
+    pathname.startsWith('/dashboard') ||
+    pathname.startsWith('/profile') ||
+    pathname.startsWith('/aula') ||
+    pathname.startsWith('/cuenta/login') ||
+    pathname.startsWith('/cuenta/login-admin') ||
+    pathname.startsWith('/cuenta/registro') ||
+    pathname.startsWith('/cuenta/recuperar') ||
+    pathname.startsWith('/reset-password');
+
+  if (isProductRoute && !isStaticAsset && !isApiOrWebhook) {
+    const blogUrl = request.nextUrl.clone();
+    blogUrl.pathname = '/blog';
+    blogUrl.searchParams.delete('next');
+    return NextResponse.redirect(blogUrl, 307);
+  }
 
   if (pathname === "/blog") {
     const category = request.nextUrl.searchParams.get("category");

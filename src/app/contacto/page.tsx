@@ -4,8 +4,8 @@ import dynamic from "next/dynamic";
 const ContactPage = dynamic(() => import("./ContactoClient"));
 
 export const metadata: Metadata = {
-  title: "Contacto: Habla con un Asesor de Focus English para tu Curso",
-  description: "¿Tienes dudas? Contacta con nuestro equipo para recibir orientación sobre nuestros cursos de inglés online. Estamos aquí para ayudarte a lograr tus objetivos.",
+  title: "Contacto: Consultas sobre Contenido de Inglés",
+  description: "¿Tienes dudas sobre una guía o artículo? Contacta con el equipo de Focus English para consultas editoriales sobre aprendizaje del inglés.",
 };
 
 export default function Page() {

@@ -64,8 +64,8 @@ export default function BlogPage() {
       color: "from-amber-600 to-orange-600"
     },
     seo: {
-      name: "Cursos y Guías de Inglés por Niveles: Formación Completa",
-      description: "Aprende con nuestras guías completas por niveles y cursos especializados para profesionales y viajeros.",
+      name: "Consultas Frecuentes de Inglés: Guías por Nivel y Contexto",
+      description: "Resuelve dudas habituales con guías por nivel, ejemplos y recomendaciones prácticas.",
       icon: "🎓",
       color: "from-blue-600 to-indigo-600"
     },
@@ -100,7 +100,7 @@ export default function BlogPage() {
     viajes: "Viajes",
     examenes: "Exámenes",
     metodos: "Métodos de aprendizaje",
-    seo: "Niveles y cursos",
+    seo: "Consultas por nivel",
     "material-estudio": "Material de estudio",
     gramatica: "Gramática",
     vocabulario: "Vocabulario",

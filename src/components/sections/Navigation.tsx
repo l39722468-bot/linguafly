@@ -1,38 +1,21 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { useState, useEffect } from "react";
 import { useTheme } from "next-themes";
 // SVG inline para reducir bundle (evitar lucide-react ~50kB en nav)
 const SunIcon = () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>;
 const MoonIcon = () => <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>;
-const LogOutIcon = () => <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M9 21H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h4"/><polyline points="16 17 21 12 16 7"/><line x1="21" y1="12" x2="9" y2="12"/></svg>;
-import { getUser, signOut } from "@/lib/auth-helpers";
 
 export function Navigation() {
-  const router = useRouter();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const { theme, setTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
 
-  // Evitar error de hidratación y verificar auth
+  // Evitar error de hidratación
   useEffect(() => {
     setMounted(true);
-    async function checkAuth() {
-      const { user } = await getUser();
-      setIsLoggedIn(!!user);
-    }
-    checkAuth();
   }, []);
-
-  const handleLogout = async () => {
-    await signOut();
-    setIsLoggedIn(false);
-    router.push("/cuenta/login");
-    router.refresh();
-  };
 
   return (
     <nav className="sticky top-0 z-[9998] bg-white/95 backdrop-blur-lg border-b-2 border-[#FFE8D9] shadow-sm dark:bg-slate-950/95 dark:border-slate-800 transition-colors">
@@ -48,22 +31,17 @@ export function Navigation() {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-6">
-            <Link href="/planes" className="text-sm font-bold text-[#FF6B6B] hover:text-[#FF8E53] transition-colors flex items-center gap-1">
-              <span className="text-lg">💎</span> Planes
-            </Link>
-            
-            <Link href={isLoggedIn ? "/mi-panel" : "/planes"} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors flex items-center gap-1 dark:text-slate-200 dark:hover:text-[#FF6B6B]">
-              <span className="text-lg">📚</span> Cursos
-            </Link>
-            
             <Link href="/blog" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors dark:text-slate-200 dark:hover:text-[#FF6B6B]">
               Blog
             </Link>
             <Link href="/frases-en-ingles" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors dark:text-slate-200 dark:hover:text-[#FF6B6B]">
               Frases
             </Link>
-            <Link href="/test-nivel" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors dark:text-slate-200 dark:hover:text-[#FF6B6B]">
-              Test de Nivel
+            <Link href="/aprender-ingles" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors dark:text-slate-200 dark:hover:text-[#FF6B6B]">
+              Guías
+            </Link>
+            <Link href="/blog/gramatica" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors dark:text-slate-200 dark:hover:text-[#FF6B6B]">
+              Gramática
             </Link>
 
             {/* Dark Mode Toggle */}
@@ -74,31 +52,6 @@ export function Navigation() {
             >
               {mounted && (theme === 'dark' ? <SunIcon /> : <MoonIcon />)}
             </button>
-
-            <Link 
-              href={isLoggedIn ? "/mi-panel" : "/cuenta/login"}
-              className="px-4 py-2 rounded-xl text-sm font-bold text-gray-700 hover:text-[#FF6B6B] border border-transparent hover:border-[#FF6B6B]/20 hover:bg-[#FF6B6B]/5 transition-all dark:text-slate-200 dark:hover:text-[#FF6B6B]"
-            >
-              {isLoggedIn ? 'Mi Panel' : 'Iniciar Sesión'}
-            </Link>
-            
-            {isLoggedIn && (
-              <button
-                onClick={handleLogout}
-                className="flex items-center gap-2 px-4 py-2 rounded-xl text-sm font-bold text-red-500 hover:bg-red-50 transition-all dark:hover:bg-red-950/20"
-              >
-                <LogOutIcon />
-                <span>Cerrar Sesión</span>
-              </button>
-            )}
-            {!isLoggedIn && (
-              <Link 
-                href="/cuenta/registro"
-                className="px-6 py-2.5 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-white font-black text-sm hover:shadow-coral-lg transition-all transform hover:scale-105"
-              >
-                Empezar Ahora
-              </Link>
-            )}
           </div>
 
           {/* Mobile menu button */}
@@ -132,27 +85,11 @@ export function Navigation() {
           <div className="md:hidden py-4 border-t border-slate-200 dark:border-slate-800">
             <div className="flex flex-col gap-4">
               <Link 
-                href="/planes" 
+                href="/blog" 
                 className="text-sm font-bold text-coral-600 hover:text-coral-700 transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
               >
-                💎 Planes y Precios
-              </Link>
-              
-              <Link 
-                href={isLoggedIn ? "/mi-panel" : "/planes"}
-                className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors pl-4 block dark:text-slate-300"
-                onClick={() => setMobileMenuOpen(false)}
-              >
-                📚 Cursos
-              </Link>
-              
-              <Link 
-                href="/blog" 
-                className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors dark:text-slate-300"
-                onClick={() => setMobileMenuOpen(false)}
-              >
-                Blog
+                📰 Blog
               </Link>
               <Link 
                 href="/frases-en-ingles" 
@@ -162,41 +99,19 @@ export function Navigation() {
                 Frases
               </Link>
               <Link 
-                href="/test-nivel" 
+                href="/aprender-ingles" 
                 className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors dark:text-slate-300"
                 onClick={() => setMobileMenuOpen(false)}
               >
-                Test de Nivel
+                Guías
               </Link>
               <Link 
-                href={isLoggedIn ? "/mi-panel" : "/cuenta/login"} 
-                className="flex items-center gap-2 px-4 py-3 rounded-xl text-sm font-bold text-slate-700 hover:text-coral-600 hover:bg-coral-50 transition-all dark:text-slate-300 dark:hover:bg-slate-800"
+                href="/blog/gramatica" 
+                className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors dark:text-slate-300"
                 onClick={() => setMobileMenuOpen(false)}
               >
-                <span>🔑</span> {isLoggedIn ? 'Mi Panel' : 'Iniciar Sesión'}
+                Gramática
               </Link>
-
-              {isLoggedIn && (
-                <button
-                  onClick={() => {
-                    setMobileMenuOpen(false);
-                    handleLogout();
-                  }}
-                  className="flex items-center gap-2 px-4 py-3 rounded-xl text-sm font-bold text-red-500 hover:bg-red-50 transition-all dark:text-red-400 dark:hover:bg-red-950/20 text-left w-full"
-                >
-                  <LogOutIcon />
-                  <span>Cerrar Sesión</span>
-                </button>
-              )}
-              {!isLoggedIn && (
-                <Link 
-                  href="/cuenta/registro"
-                  className="px-4 py-2 rounded-lg bg-gradient-to-r from-coral-600 to-peach-600 text-white font-black text-sm text-center"
-                  onClick={() => setMobileMenuOpen(false)}
-                >
-                  Empezar Ahora
-                </Link>
-              )}
             </div>
           </div>
         )}

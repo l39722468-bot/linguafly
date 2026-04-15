@@ -54,19 +54,19 @@ export default async function PhraseCategoryPage({ params }: Props) {
 
   const recommendations: Record<string, { title: string, href: string, description: string }> = {
     viajes: {
-      title: "Curso de Inglés para Viajar",
+      title: "Guía de Inglés para Viajar",
       href: "/blog/viajes/ingles-para-viajar",
-      description: "Domina todas las situaciones de tu próximo viaje con nuestro curso especializado."
+      description: "Resuelve las situaciones más comunes de viaje con expresiones útiles y ejemplos reales."
     },
     gramatica: {
-      title: "Inglés A1: Desde Cero",
+      title: "Guía de Inglés Desde Cero",
       href: "/blog/metodos/ingles-a1",
-      description: "Aprende las bases del inglés de forma estructurada y divertida."
+      description: "Refuerza las bases del inglés con una ruta de estudio clara y progresiva."
     },
     default: {
-      title: "Plan de Estudios Personalizado",
-      href: "/planes",
-      description: "Lleva tu inglés al siguiente nivel con un plan diseñado para tus objetivos."
+      title: "Explorar más guías del blog",
+      href: "/blog",
+      description: "Amplía vocabulario y expresiones con más contenido práctico por temas."
     }
   };
 

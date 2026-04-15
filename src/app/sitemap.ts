@@ -36,12 +36,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.95,
     },
     {
-      url: `${baseUrl}/planes`,
-      lastModified: SITE_LAUNCH_DATE,
-      changeFrequency: "monthly",
-      priority: 0.9,
-    },
-    {
       url: `${baseUrl}/aplicaciones-para-aprender-ingles`,
       lastModified: SITE_LAUNCH_DATE,
       changeFrequency: "monthly",
@@ -63,25 +57,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       url: `${baseUrl}/blog`,
       lastModified: mostRecentArticleDate,
       changeFrequency: "daily",
-      priority: 0.8,
+      priority: 0.98,
     },
     {
       url: `${baseUrl}/contacto`,
       lastModified: SITE_LAUNCH_DATE,
       changeFrequency: "yearly",
       priority: 0.6,
-    },
-    {
-      url: `${baseUrl}/privacidad`,
-      lastModified: LEGAL_DATE,
-      changeFrequency: "yearly" as const,
-      priority: 0.3,
-    },
-    {
-      url: `${baseUrl}/terminos`,
-      lastModified: LEGAL_DATE,
-      changeFrequency: "yearly" as const,
-      priority: 0.3,
     },
   ];
 

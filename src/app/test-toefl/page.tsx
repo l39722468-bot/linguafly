@@ -4,7 +4,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Test de Nivel TOEFL iBT Online: Evalúa tu Inglés Académico Gratis",
-  description: "Evalúa tu nivel de inglés académico y descubre qué curso preparatorio de TOEFL iBT es el adecuado para ti. Test de 30 preguntas críticas de nivel B1 a C1.",
+  description: "Evalúa tu nivel de inglés académico con este test de 30 preguntas críticas de nivel B1 a C1 y recibe una recomendación de estudio.",
   keywords: ["test toefl", "toefl ibt test nivel", "preparacion toefl", "focus english toefl", "nivel ingles academico"],
 };
 
@@ -40,7 +40,7 @@ export default function ToeflTestPage() {
                 </div>
                 <div className="flex items-center gap-2">
                   <span className="text-orange-600">✓</span>
-                  <span>Recomendación de curso</span>
+                  <span>Recomendación de estudio</span>
                 </div>
               </div>
             </div>
@@ -61,11 +61,11 @@ export default function ToeflTestPage() {
                   El TOEFL iBT mide tu capacidad para utilizar y comprender el inglés a nivel universitario. Evalúa cómo combinas tus habilidades de lectura, audición, habla y escritura para realizar tareas académicas.
                 </p>
                 <p className="text-slate-600">
-                  Nuestros cursos de 36 semanas están diseñados para llevarte desde tu nivel actual hasta la maestría necesaria para obtener puntuaciones competitivas (80-110+).
+                  Esta guía de preparación está diseñada para ayudarte a estructurar tu estudio desde tu nivel actual hasta una puntuación competitiva (80-110+).
                 </p>
               </div>
               <div className="bg-gradient-to-br from-orange-500 to-red-600 rounded-3xl p-8 text-white shadow-xl">
-                <h3 className="text-xl font-bold mb-4">Estructura del Curso</h3>
+                <h3 className="text-xl font-bold mb-4">Estructura de Preparación</h3>
                 <ul className="space-y-3">
                   <li className="flex items-center gap-3">
                     <span className="bg-white/20 p-1 rounded">✓</span>
