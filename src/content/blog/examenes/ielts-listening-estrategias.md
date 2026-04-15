@@ -1,5 +1,5 @@
 ---
-title: 'IELTS Listening: Estrategias por Sección y Errores que te Cuestan Puntos'
+title: 'IELTS Listening: Estrategias'
 date: '2026-02-17'
 updatedDate: '2026-02-17'
 author: sara-mendez

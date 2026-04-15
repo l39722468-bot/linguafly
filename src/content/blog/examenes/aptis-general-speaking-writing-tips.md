@@ -1,5 +1,5 @@
 ---
-title: 'Aptis General: Consejos para el Speaking y Writing y Cómo Subir tu Puntuación'
+title: 'Aptis General: Consejos'
 date: '2026-03-04'
 updatedDate: '2026-03-10'
 author: david-torres

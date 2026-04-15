@@ -4,7 +4,7 @@ date: '2026-02-07'
 updatedDate: '2026-03-07'
 author: david-torres
 alt: "Estudiante preparando su examen de nivel B1 de inglés"
-title: 'Preparación Examen B1 Inglés: Guía Completa PET, Aptis y Linguaskill'
+title: 'Preparación Examen B1 Inglés'
 description: >-
   Descubre cómo aprobar el examen B1 de inglés en 2026. Guía detallada para
   Cambridge PET, Aptis y Linguaskill con estrategias de estudio, recursos

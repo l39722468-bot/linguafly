@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario de Ropa en Inglés: 150+ Prendas, Accesorios y Frases para Ir de Compras'
+title: 'Vocabulario de Ropa en Inglés: 150+'
 description: >-
   Domina el vocabulario de ropa en inglés, calzado y accesorios. Incluye verbos,
   adjetivos de estilo y lista imprimible para niveles A1-C1.

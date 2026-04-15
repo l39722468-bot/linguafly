@@ -1,5 +1,5 @@
 ---
-title: 'Apps para Aprender Inglés sin Internet: Las Mejores Opciones Offline en 2026'
+title: 'Apps para Aprender Inglés'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: sara-mendez

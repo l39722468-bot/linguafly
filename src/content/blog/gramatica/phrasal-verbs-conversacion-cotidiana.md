@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs en Conversación: Los Más Usados en el Inglés Cotidiano'
+title: 'Phrasal Verbs en Conversación'
 date: '2026-02-24'
 updatedDate: '2026-02-24'
 author: sara-mendez

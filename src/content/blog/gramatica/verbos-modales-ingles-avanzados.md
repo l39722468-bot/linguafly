@@ -1,5 +1,5 @@
 ---
-title: 'Verbos Modales en Inglés Avanzados: Matices, Modales Perfectos y Estilo C1'
+title: 'Verbos Modales en Inglés Avanzados'
 description: >-
   Guía avanzada de verbos modales en inglés para niveles C1 y C2. Aprende los
   matices de posibilidad, deducción, crítica y arrepentimiento con Modales

@@ -1,5 +1,5 @@
 ---
-title: "Speaking CAE: Cómo Brillar en las Cuatro Partes del Examen Oral"
+title: 'Speaking CAE: Cómo Brillar'
 description: "Guía completa del Speaking del C1 Advanced: qué evalúan los examinadores en cada fase, qué estructuras usar y cómo gestionar los nervios para dar tu mejor versión."
 readTime: 8 min
 excerpt: "En el Speaking del CAE no te evalúan si tu inglés es perfecto, sino si puedes comunicarte con fluidez, precisión y naturalidad. Aquí tienes lo que necesitas saber para cada fase."

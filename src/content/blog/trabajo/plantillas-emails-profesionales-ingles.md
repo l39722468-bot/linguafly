@@ -1,5 +1,5 @@
 ---
-title: '20 Plantillas de Emails Profesionales en Inglés para Cada Situación'
+title: '20 Plantillas de Emails Profesionales'
 date: '2026-02-15'
 updatedDate: '2026-03-10'
 author: sara-mendez

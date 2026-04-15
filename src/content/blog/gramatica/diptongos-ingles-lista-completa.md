@@ -1,5 +1,5 @@
 ---
-title: 'Diptongos en Inglés: Guía Completa con Pronunciación y Ejemplos'
+title: 'Diptongos en Inglés'
 description: >-
   Aprende todos los diptongos del inglés con sus símbolos IPA, ejemplos prácticos
   y comparativas con el español. Incluye los diptongos más comunes y los que

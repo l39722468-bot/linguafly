@@ -1,5 +1,5 @@
 ---
-title: 'Reported Speech: Guía Completa del Estilo Indirecto en Inglés'
+title: 'Reported Speech'
 description: >-
   Aprende a dominar el Reported Speech en inglés. Incluye reglas de backshift,
   cambios en pronombres y expresiones de tiempo, ejemplos prácticos y FAQs para

@@ -1,5 +1,5 @@
 ---
-title: 'Curso de Inglés para Viajar: Pasaporte a la Fluidez'
+title: 'Curso de Inglés para Viajar'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
 author: sara-mendez

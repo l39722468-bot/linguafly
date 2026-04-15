@@ -1,5 +1,5 @@
 ---
-title: 'Los Errores con los Tiempos de Pasado en Inglés que Cometen los Hispanohablantes'
+title: 'Los Errores con los Tiempos de Pasado'
 date: '2026-03-03'
 updatedDate: '2026-03-03'
 author: david-torres

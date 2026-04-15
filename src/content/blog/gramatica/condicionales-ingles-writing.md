@@ -1,5 +1,5 @@
 ---
-title: 'Condicionales en Inglés para Writing: Cómo Usarlos en Ensayos y Emails'
+title: 'Condicionales en Inglés para Writing'
 description: >-
   Aprende a usar los condicionales en inglés para mejorar tus textos escritos.
   Ejemplos para ensayos, emails formales, informes y propuestas. Nivel B1-C1.

@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Indio: Por Qué Suena Diferente y Cómo Entenderlo en el Trabajo'
+title: 'Inglés Indio: Por Qué Suena Diferente'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

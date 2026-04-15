@@ -1,4 +1,9 @@
-# Guía de Becas y Solicitudes en Inglés: Cómo Conseguir tu Oportunidad Internacional
+---
+title: 'Becas y solicitudes en inglés (guía)'
+description: "Guía para becas y solicitudes en inglés: documentos, personal statement y cartas de recomendación."
+---
+
+# Becas y solicitudes en inglés (guía)
 
 Conseguir una beca para estudiar en el extranjero es el sueño de miles de estudiantes cada año. Sin embargo, el proceso de selección suele ser ferozmente competitivo. En este escenario, la calidad de tus documentos y tu dominio de las **solicitudes en inglés** (applications) son los factores que determinarán si pasas a la siguiente ronda o si tu perfil es descartado.
 

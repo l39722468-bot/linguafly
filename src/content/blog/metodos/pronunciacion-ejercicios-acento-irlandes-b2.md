@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios de Pronunciación para Acercarte al Acento Irlandés (Sin Caricatura)'
+title: 'Ejercicios de Pronunciación'
 description: >-
   Rutina de pronunciación para estudiantes B2+: /r/ postvocálica, vocales del sistema irlandés,
   ritmo y entonación. Incluye minimal pairs, frases modelo y advertencias sobre respeto y registro.

@@ -1,5 +1,5 @@
 ---
-title: 'DELE vs Cambridge vs IELTS vs APTIS 2026: Qué Certificado de Inglés Elegir'
+title: 'DELE vs Cambridge vs IELTS vs APTIS 2026'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 author: david-torres

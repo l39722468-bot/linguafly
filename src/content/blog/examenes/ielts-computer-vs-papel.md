@@ -1,5 +1,5 @@
 ---
-title: 'IELTS por Ordenador vs en Papel: Diferencias, Ventajas y Cuál Elegir'
+title: 'IELTS por Ordenador vs en Papel'
 date: '2026-03-01'
 updatedDate: '2026-03-01'
 author: sara-mendez

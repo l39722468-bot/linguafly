@@ -1,11 +1,11 @@
 ---
-title: 'Pronunciación en Inglés: Ritmo, Connected Speech y Entonación Natural'
+title: 'Pronunciación inglés: ritmo y acento'
 description: >-
   Aprende a sonar natural en inglés dominando el ritmo stress-timed, el
   connected speech, la entonación y las herramientas de IA para practicar en 2026.
 ---
 
-# Guía Completa de Pronunciación en Inglés: Suena Natural en 2026
+# Pronunciación inglés: ritmo y acento
 
 
 En esta guía de **Focus English**, no solo te enseñaremos a colocar la lengua; te daremos las estrategias psicológicas y tecnológicas para transformar tu forma de hablar.

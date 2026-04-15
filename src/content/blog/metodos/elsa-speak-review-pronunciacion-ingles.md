@@ -1,5 +1,5 @@
 ---
-title: 'ELSA Speak Review 2026: ¿La Mejor App para Mejorar la Pronunciación en Inglés?'
+title: 'ELSA Speak Review 2026: ¿La Mejor App'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: sara-mendez

@@ -1,5 +1,5 @@
 ---
-title: 'Diptongos en Inglés: Los 8 Sonidos que Dan Musicalidad al Idioma'
+title: 'Diptongos en Inglés: Los 8 Sonidos'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

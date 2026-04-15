@@ -1,5 +1,5 @@
 ---
-title: 'Will para Ofrecimientos y Peticiones en Inglés: Guía Práctica'
+title: 'Will para Ofrecimientos y Peticiones'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 author: sara-mendez

@@ -1,9 +1,9 @@
 ---
-title: "Aprender Inglés con ChatGPT: Una Herramienta de Apoyo para tu Práctica 2026"
+title: 'Inglés con ChatGPT: guía práctica'
 description: "Saca el máximo partido a ChatGPT como apoyo para tu estudio de inglés. Los mejores prompts, trucos y métodos para complementar tus ejercicios."
 ---
 
-# Aprender Inglés con ChatGPT: Una Herramienta de Apoyo para tu Práctica
+# Inglés con ChatGPT: guía práctica
 
 En 2026, ChatGPT se ha consolidado como una herramienta de apoyo versátil para los estudiantes de idiomas. No es un sustituto del aprendizaje estructurado, sino un sistema complementario capaz de ayudarte a resolver dudas y practicar aspectos específicos del inglés. En esta guía de **Focus English**, te enseñaremos cómo utilizar esta herramienta como un recurso adicional para potenciar tu estudio.
 

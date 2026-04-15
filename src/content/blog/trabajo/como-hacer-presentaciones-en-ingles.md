@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Hacer Presentaciones en Inglés que Impacten: Guía Práctica'
+title: 'Cómo Hacer Presentaciones en Inglés'
 date: '2026-02-28'
 updatedDate: '2026-03-10'
 author: sara-mendez

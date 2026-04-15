@@ -1,5 +1,5 @@
 ---
-title: 'Mejores Apps para aprender Inglés en el Trabajo: Guía Completa 2026'
+title: 'Mejores Apps para aprender Inglés'
 description: >-
   Si necesitas el inglés para tu carrera profesional, no todas las apps valen.
   Analizamos las mejores opciones para dominar el Business English y escalar en

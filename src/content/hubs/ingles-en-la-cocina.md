@@ -1,4 +1,9 @@
-# Guía de Inglés en la Cocina: Cocina como un Chef Internacional
+---
+title: 'Inglés en la cocina: guía'
+description: "Vocabulario y frases de inglés para cocina, recetas y gastronomía en contexto internacional."
+---
+
+# Inglés en la cocina: guía
 
 La cocina es un lenguaje universal, pero si quieres seguir las recetas de Gordon Ramsay, ver programas como MasterChef en versión original o simplemente entender qué dice la etiqueta de un producto en un supermercado extranjero, necesitas dominar el **inglés en la cocina** (cooking and gastronomy).
 

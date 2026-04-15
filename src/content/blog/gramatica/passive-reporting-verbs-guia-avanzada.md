@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 author: david-torres
-title: 'Passive Reporting Verbs: Estructuras Avanzadas (C1-C2)'
+title: 'Passive Reporting Verbs: Estructuras'
 description: >-
   Guía detallada sobre la voz pasiva con verbos de reporte. Aprende estructuras
   como 'It is said that' y 'He is said to be'. Ideal para niveles Advanced y

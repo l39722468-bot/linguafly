@@ -1,5 +1,5 @@
 ---
-title: "Key Word Transformations CAE: Domina la Parte Más Difícil del Use of English"
+title: 'Key Word Transformations CAE: Domina'
 description: "Guía completa de las Key Word Transformations del C1 Advanced: los patrones más frecuentes, estructuras gramaticales clave y errores habituales para maximizar tu puntuación en la Parte 4."
 readTime: 9 min
 excerpt: "Las Key Word Transformations son la parte del CAE que más candidatos suspenden y más nota discrimina. Conocer los patrones que usa Cambridge te permite resolverlas con mucha más seguridad."

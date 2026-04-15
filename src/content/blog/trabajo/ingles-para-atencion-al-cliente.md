@@ -3,7 +3,7 @@ category: trabajo
 date: '2026-02-07'
 updatedDate: '2026-03-10'
 author: sara-mendez
-title: 'Inglés para Atención al Cliente 2026: 50+ Frases para Teléfono, Chat y Email'
+title: 'Inglés para Atención al Cliente 2026: 50+'
 description: >-
   Domina el inglés para soporte y atención al cliente internacional. Aprende
   frases clave para gestionar llamadas, resolver problemas y ofrecer un servicio

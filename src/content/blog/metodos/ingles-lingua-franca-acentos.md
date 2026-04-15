@@ -1,5 +1,5 @@
 ---
-title: 'El Inglés como Lingua Franca: Cuando el Inglés No Es de Nadie (y de Todos)'
+title: 'El Inglés como Lingua Franca: Cuando'
 description: >-
   Qué es el English as a Lingua Franca (ELF), cómo suena cuando dos no nativos
   se hablan en inglés, por qué los acentos nativos no son el estándar ideal y

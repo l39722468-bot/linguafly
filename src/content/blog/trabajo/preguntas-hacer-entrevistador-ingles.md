@@ -1,5 +1,5 @@
 ---
-title: 'Preguntas para Hacer al Entrevistador en Inglés: Las que Realmente Funcionan'
+title: 'Preguntas para Hacer al Entrevistador'
 description: >-
   Las mejores preguntas para hacer al entrevistador en una entrevista en inglés.
   Qué preguntar, qué evitar y cómo mostrar interés genuino sin parecer

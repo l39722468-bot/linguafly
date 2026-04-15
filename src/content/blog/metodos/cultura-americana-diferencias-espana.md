@@ -1,5 +1,5 @@
 ---
-title: 'Cultura Americana vs Española: Diferencias que Todo Hispanohablante Debe Conocer'
+title: 'Cultura Americana vs Española'
 description: >-
   Descubre las principales diferencias culturales entre Estados Unidos y España.
   Guía práctica de etiqueta, costumbres y valores americanos para hispanohablantes

@@ -3,7 +3,7 @@ category: trabajo
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: sara-mendez
-title: 'Email y chat de soporte en inglés: plantillas mentales y estructura B2'
+title: 'Email y chat de soporte en inglés'
 description: >-
   Cómo escribir en inglés para atención al cliente: claridad, asunto, adjuntos,
   seguimiento y tono profesional en chat y correo.

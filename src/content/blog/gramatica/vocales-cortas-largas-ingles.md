@@ -1,5 +1,5 @@
 ---
-title: 'Vocales Cortas y Largas en Inglés: La Diferencia que Cambia el Significado'
+title: 'Vocales Cortas y Largas en Inglés'
 description: >-
   Aprende a distinguir y pronunciar las vocales cortas y largas del inglés con
   ejemplos IPA, comparativas con el español y ejercicios prácticos.

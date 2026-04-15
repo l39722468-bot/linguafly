@@ -1,5 +1,5 @@
 ---
-title: 'Becas y Solicitudes en Inglés: Cómo Conseguir Financiación para Estudiar en el Extranjero'
+title: 'Becas y Solicitudes en Inglés: Cómo'
 date: '2026-03-04'
 updatedDate: '2026-03-10'
 author: david-torres

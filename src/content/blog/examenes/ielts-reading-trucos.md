@@ -1,5 +1,5 @@
 ---
-title: 'IELTS Reading: Trucos para True/False/Not Given, Matching y Gestión del Tiempo'
+title: 'IELTS Reading: Trucos'
 date: '2026-02-14'
 updatedDate: '2026-02-14'
 author: david-torres

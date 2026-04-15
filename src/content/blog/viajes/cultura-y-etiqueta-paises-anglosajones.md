@@ -1,5 +1,5 @@
 ---
-title: 'Cultura y Etiqueta: Guía Maestra para tus Viajes por Países Anglosajones'
+title: 'Cultura y Etiqueta: Guía Maestra'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
 author: sara-mendez

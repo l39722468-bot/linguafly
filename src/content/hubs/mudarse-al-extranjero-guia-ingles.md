@@ -1,9 +1,9 @@
 ---
-title: "Guía de Inglés para Mudarse al Extranjero en 2026"
+title: 'Guía de Inglés para Mudarse al Extranjero'
 description: "Todo lo que necesitas saber para vivir en un país de habla inglesa. Vocabulario de alquileres, bancos, trámites y vida social."
 ---
 
-# Mudarse al Extranjero: Tu Guía de Supervivencia Lingüística en 2026
+# Guía de Inglés para Mudarse al Extranjero
 
 Mudarse a un país de habla inglesa es una de las decisiones más valientes y gratificantes que puedes tomar. Sin embargo, una vez que la emoción inicial disminuye, te enfrentas a la realidad: alquilar un piso, abrir una cuenta bancaria, entender un contrato de trabajo y hacer nuevos amigos. En 2026, aunque la tecnología nos ayuda, la fluidez y el conocimiento del vocabulario específico siguen siendo las llaves que abren las puertas de tu nueva vida.
 

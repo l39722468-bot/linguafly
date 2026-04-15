@@ -1,5 +1,5 @@
 ---
-title: 'Have Something Done en Inglés: La Causativa Explicada de Verdad'
+title: 'Have Something Done en Inglés'
 description: >-
   Aprende a usar "have something done" y "get something done" en inglés con
   ejemplos reales de servicios, reparaciones y situaciones cotidianas. Incluye

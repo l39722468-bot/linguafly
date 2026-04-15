@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios de Condicionales en Inglés B1-B2: Práctica con Soluciones'
+title: 'Ejercicios de Condicionales en Inglés'
 readTime: 6 min
 excerpt: >-
   Practica los cuatro tipos de condicionales en inglés con ejercicios resueltos.

@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs para el B2 (FCE): Lista de los Más Importantes con Ejemplos'
+title: 'Phrasal Verbs para el B2 (FCE): Lista'
 date: '2026-02-18'
 updatedDate: '2026-02-18'
 author: sara-mendez

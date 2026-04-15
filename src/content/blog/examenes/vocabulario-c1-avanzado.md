@@ -1,5 +1,5 @@
 ---
-title: "Vocabulario C1 Advanced: Las Palabras que Marcan la Diferencia en el CAE"
+title: 'Vocabulario C1 Advanced: Las Palabras'
 description: "Aprende el vocabulario de nivel C1 que buscan los examinadores de Cambridge: sinónimos avanzados, expresiones idiomáticas, nominalización y los patrones léxicos más frecuentes en el CAE."
 readTime: 9 min
 excerpt: "El vocabulario del CAE no es una lista de palabras raras que hay que memorizar. Es aprender a elegir la palabra precisa en el momento exacto. Aquí tienes los patrones que más aparecen."

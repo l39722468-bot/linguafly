@@ -1,5 +1,5 @@
 ---
-title: 'IELTS Speaking: Cómo Preparar las 3 Partes y Subir tu Banda'
+title: 'IELTS Speaking: Cómo Preparar las 3'
 date: '2026-02-11'
 updatedDate: '2026-02-11'
 author: sara-mendez

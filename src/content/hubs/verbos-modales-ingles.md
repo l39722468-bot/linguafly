@@ -1,9 +1,9 @@
 ---
-title: "Verbos Modales en Inglés: Guía Completa de Uso y Ejemplos"
+title: 'Verbos Modales en Inglés'
 description: "Aprende a usar correctamente los verbos modales en inglés (can, could, must, should, may, might). Guía detallada con reglas, diferencias y ejercicios prácticos."
 ---
 
-# Verbos Modales en Inglés: La Guía Definitiva para Dominar su Uso
+# Verbos Modales en Inglés
 
 Los **verbos modales** (modal verbs) son una categoría especial de verbos en inglés que se utilizan para expresar modalidad, es decir, capacidad, posibilidad, permiso, obligación o consejo. A diferencia de los verbos ordinarios, los modales no cambian su forma (no añaden -s en tercera persona) y siempre van seguidos de un verbo en infinitivo sin "to" (excepto *ought to*).
 

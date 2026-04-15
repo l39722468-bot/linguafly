@@ -1,5 +1,5 @@
 ---
-title: 'Los 10 Errores de Pronunciación en Inglés Más Comunes para Hispanohablantes'
+title: 'Los 10 Errores de Pronunciación'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

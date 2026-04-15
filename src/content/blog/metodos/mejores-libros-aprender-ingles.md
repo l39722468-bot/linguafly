@@ -1,5 +1,5 @@
 ---
-title: 'Los Mejores Libros para Aprender Inglés: Guía por Nivel y Objetivo 2026'
+title: 'Los Mejores Libros para Aprender'
 date: '2026-02-16'
 updatedDate: '2026-03-10'
 author: sara-mendez

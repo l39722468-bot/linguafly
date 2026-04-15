@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Pronunciar "-ed" y "-s" en Inglés: Las Terminaciones que Nadie Explica Bien'
+title: 'Cómo Pronunciar "-ed" y "-s"'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

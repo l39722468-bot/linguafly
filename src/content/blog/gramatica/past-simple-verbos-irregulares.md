@@ -1,5 +1,5 @@
 ---
-title: 'Verbos Irregulares en Inglés: Lista Completa para el Past Simple'
+title: 'Verbos Irregulares en Inglés: Lista'
 date: '2026-02-19'
 updatedDate: '2026-03-20'
 author: david-torres

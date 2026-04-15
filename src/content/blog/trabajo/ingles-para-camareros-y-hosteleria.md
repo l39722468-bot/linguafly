@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Camareros y Hostelería: Guía Completa de Vocabulario y Frases 2026'
+title: 'Inglés para Camareros y Hostelería'
 date: '2026-03-10'
 updatedDate: '2026-03-10'
 author: sara-mendez

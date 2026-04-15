@@ -1,5 +1,5 @@
 ---
-title: 'Slang Americano 2026: 70 Expresiones Coloquiales para Sonar como un Nativo de EE.UU.'
+title: 'Slang Americano 2026: 70 Expresiones'
 description: >-
   Guía actualizada de slang americano 2026. Aprende las expresiones coloquiales
   más usadas en Estados Unidos, desde el habla callejera hasta el lenguaje de

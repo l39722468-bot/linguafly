@@ -1,5 +1,5 @@
 ---
-title: ¿Cuánto se tarda en aprender inglés realmente? La Guía Definitiva
+title: '¿Cuánto se tarda en aprender inglés'
 description: >-
   ¿Cuántas horas necesitas para pasar de A1 a B2? Datos reales del FSI,
   tablas por nivel y plan de estudio semanal para hispanohablantes.

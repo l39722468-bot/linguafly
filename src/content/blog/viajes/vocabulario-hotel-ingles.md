@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Hoteles: Vocabulario y Frases para Check-in, Problemas y Servicios'
+title: 'Inglés para Hoteles: Vocabulario'
 description: >-
   Guía completa de inglés para hoteles. Aprende a hacer el check-in y check-out,
   pedir servicios, resolver problemas y comunicarte con el personal del hotel en

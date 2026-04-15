@@ -3,7 +3,7 @@ category: examenes
 date: '2026-02-07'
 updatedDate: '2026-03-21'
 author: focus-english-team
-title: 'Certificados de Inglés 2026: Guía Estratégica para Elegir con Éxito'
+title: 'Certificados de Inglés 2026'
 description: >-
   ¿IELTS, TOEFL o Cambridge? Analizamos las mejores certificaciones de inglés 
   para 2026, sus novedades digitales y cuál se adapta mejor a tus metas 

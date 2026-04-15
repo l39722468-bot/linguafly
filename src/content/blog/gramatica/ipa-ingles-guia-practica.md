@@ -1,5 +1,5 @@
 ---
-title: 'IPA para Inglés: Cómo Usarlo en el Día a Día sin Volverte Loco'
+title: 'IPA para Inglés: Cómo Usarlo'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

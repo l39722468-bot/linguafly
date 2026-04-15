@@ -1,5 +1,5 @@
 ---
-title: 'Follow-Up Email en Inglés: Cómo Hacer Seguimiento Sin Molestar'
+title: 'Follow-Up Email en Inglés: Cómo Hacer'
 description: >-
   Aprende a escribir follow-up emails profesionales en inglés. Cuándo enviarlos,
   qué decir, cómo no parecer insistente y ejemplos para cada situación laboral.

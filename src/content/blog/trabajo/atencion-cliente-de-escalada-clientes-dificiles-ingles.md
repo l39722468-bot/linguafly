@@ -3,7 +3,7 @@ category: trabajo
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: sara-mendez
-title: 'Clientes difíciles en inglés: de-escalada, límites y frases para B2'
+title: 'Clientes difíciles en inglés'
 description: >-
   Guía de inglés para soporte: calmar conflictos, marcar límites ante insultos,
   escalar con claridad y documentar sin perder control emocional.

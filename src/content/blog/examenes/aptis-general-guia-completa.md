@@ -1,5 +1,5 @@
 ---
-title: 'Aptis General 2026: Guía Completa del Examen, Niveles y Cómo Sacar el B2 o C1'
+title: 'Aptis General 2026'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 author: david-torres

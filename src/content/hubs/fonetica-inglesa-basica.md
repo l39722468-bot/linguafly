@@ -1,11 +1,11 @@
 ---
-title: 'Fonética Inglesa: Guía Práctica del Cuadro Fonético y los Sonidos Clave'
+title: 'Fonética Inglesa: Guía Práctica del Cuadro'
 description: >-
   Domina el cuadro fonético del inglés: vocales puras, diptongos, consonantes
   exclusivas y cómo usar el IPA en tu día a día para pronunciar con precisión.
 ---
 
-# Fonética Inglesa Básica: Decodificando los Sonidos del Inglés
+# Fonética Inglesa: Guía Práctica del Cuadro
 
 ¿Alguna vez has abierto un diccionario y has visto unos símbolos extraños al lado de la palabra? Esos símbolos son el **Alfabeto Fonético Internacional (API o IPA)**. En 2026, entender estos símbolos es como tener el código fuente de la pronunciación. Ya no tienes que adivinar cómo se dice una palabra; el IPA te lo dice exactamente.
 

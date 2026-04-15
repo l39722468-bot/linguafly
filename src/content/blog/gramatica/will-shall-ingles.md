@@ -1,5 +1,5 @@
 ---
-title: 'Will vs Shall en Inglés: Cuándo Se Usa Cada Uno'
+title: 'Will vs Shall en Inglés: Cuándo Se'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 author: sara-mendez

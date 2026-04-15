@@ -1,9 +1,9 @@
 ---
-title: "B2 First (FCE) 2026: Guía Completa de Preparación para el Examen de Cambridge"
+title: 'B2 First FCE 2026: guía preparación'
 description: "Todo lo que necesitas para preparar el B2 First (FCE) de Cambridge en 2026: estructura del examen, estrategias para cada parte, fechas y recursos para llegar el día del examen con confianza."
 ---
 
-# B2 First (FCE) 2026: La Guía que Necesitas Antes de Presentarte
+# B2 First FCE 2026: guía preparación
 
 El **B2 First**, que muchos siguen llamando FCE (*First Certificate in English*), es el certificado de Cambridge más demandado en España. Es el nivel que piden la mayoría de universidades para convalidar idiomas, muchas empresas para puestos con proyección internacional y varias administraciones públicas en sus oposiciones.
 

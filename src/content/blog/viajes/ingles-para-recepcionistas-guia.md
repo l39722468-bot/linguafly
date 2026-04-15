@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Recepcionistas 2026: Guía Definitiva para una Atención de 5 Estrellas'
+title: 'Inglés para Recepcionistas 2026'
 date: '2026-02-06'
 updatedDate: '2026-03-10'
 author: sara-mendez

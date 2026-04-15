@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Preparar una Entrevista de Trabajo en Inglés: Guía Paso a Paso'
+title: 'Cómo Preparar una Entrevista'
 date: '2026-02-18'
 updatedDate: '2026-03-10'
 author: sara-mendez

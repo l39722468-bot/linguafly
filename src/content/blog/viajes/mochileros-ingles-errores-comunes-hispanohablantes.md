@@ -3,7 +3,7 @@ category: viajes
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: david-torres
-title: 'Errores típicos del español al hablar inglés de mochilero (y cómo corregirlos)'
+title: 'Errores típicos del español al hablar'
 description: >-
   Correcciones prácticas para hispanohablantes: falsos amigos, calcos, registro
   y pronunciación en situaciones de viaje real (hostels, transporte, calle).

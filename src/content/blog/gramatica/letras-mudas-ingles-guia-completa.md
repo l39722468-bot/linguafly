@@ -1,5 +1,5 @@
 ---
-title: 'Letras Mudas en Inglés: La Guía Completa con Patrones y Excepciones'
+title: 'Letras Mudas en Inglés'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

@@ -1,4 +1,9 @@
-# Guía de Inglés para el Deporte: Entrena tu Cuerpo y tu Idioma
+---
+title: 'Inglés para deporte y fitness'
+description: "Inglés para deporte: gimnasio, competición, retransmisiones y vocabulario fitness internacional."
+---
+
+# Inglés para deporte y fitness
 
 El deporte es una pasión global y, posiblemente, el sector donde el inglés tiene una presencia más dominante. Desde el vocabulario del gimnasio hasta las retransmisiones de la Premier League o la NBA, el **inglés para el deporte** (sports and fitness) es esencial para cualquier aficionado o profesional que quiera seguir la actualidad internacional o entrenar en un entorno multicultural.
 

@@ -1,5 +1,5 @@
 ---
-title: "Inversiones en Inglés C1: Domina las Estructuras Inversas del CAE"
+title: 'Inversiones en Inglés C1: Domina'
 description: "Guía completa de las inversiones en inglés de nivel C1: tipos de inversión, cuándo usarlas, ejemplos prácticos y cómo aplicarlas en el Writing y las Key Word Transformations del CAE."
 readTime: 8 min
 excerpt: "Las inversiones son uno de los sellos del inglés avanzado. En el CAE aparecen en el Writing, en el Speaking y casi siempre en las Key Word Transformations. Aprende a usarlas con confianza."

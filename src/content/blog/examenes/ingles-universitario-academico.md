@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Universitario y Académico: Guía Completa para Estudiantes 2026'
+title: 'Inglés Universitario y Académico'
 date: '2026-02-28'
 updatedDate: '2026-03-10'
 author: david-torres

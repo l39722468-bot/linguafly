@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Aprender Inglés con ChatGPT: Guía Práctica 2026'
+title: 'Cómo Aprender Inglés con ChatGPT'
 date: '2026-02-18'
 updatedDate: '2026-03-10'
 author: sara-mendez

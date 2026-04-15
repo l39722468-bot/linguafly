@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario y Expresiones del Inglés Irlandés: Qué Oirás en la Calle y en el Pub'
+title: 'Vocabulario y Expresiones del Inglés'
 description: >-
   Léxico y pragmática del Hiberno-English para viajeros: expresiones cotidianas, registro,
   falsos amigos y cómo relacionar lo que oyes con el acento. Incluye ejemplos en contexto y advertencias culturales.

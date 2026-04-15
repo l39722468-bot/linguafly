@@ -1,9 +1,9 @@
 ---
-title: "C1 Advanced (CAE): Guía Completa para Aprobar el Examen de Cambridge"
+title: 'C1 Advanced (CAE): guía examen'
 description: "Todo lo que necesitas para preparar el C1 Advanced de Cambridge: estructura del examen, estrategias para cada parte, vocabulario avanzado y recursos para llegar al Grade A."
 ---
 
-# C1 Advanced (CAE): Lo Que Nadie te Cuenta Antes de Presentarte
+# C1 Advanced (CAE): guía examen
 
 El **C1 Advanced**, más conocido como **CAE** (*Cambridge Advanced English*), es el examen que separa a los estudiantes que saben inglés de los que lo dominan. No es una cuestión de memorizar listas de palabras, sino de entender cómo funciona el idioma a un nivel que te permite comunicarte con la misma naturalidad que un nativo culto.
 

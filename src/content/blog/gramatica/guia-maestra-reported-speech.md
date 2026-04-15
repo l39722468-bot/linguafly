@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 author: david-torres
-title: 'Guia Maestra de Reported Speech y Reporting Verbs: De B2 a C2'
+title: 'Guia Maestra de Reported Speech'
 description: >-
   Domina el Reported Speech y los Reporting Verbs con nuestra guía completa para
   niveles B2, C1 y C2. Aprende reglas, estructuras y prepárate para tus exámenes

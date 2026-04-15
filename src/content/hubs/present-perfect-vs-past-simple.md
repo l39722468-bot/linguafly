@@ -1,9 +1,9 @@
 ---
-title: "Present Perfect vs Past Simple: Guía para no confundirlos"
+title: 'Present Perfect vs Past Simple (guía)'
 description: "Aprende la diferencia entre el Present Perfect y el Past Simple en inglés. Reglas de uso, palabras clave y ejemplos prácticos para dominar estos tiempos verbales."
 ---
 
-# Present Perfect vs Past Simple: Cómo Dominar el Tiempo en Inglés
+# Present Perfect vs Past Simple (guía)
 
 Uno de los mayores quebraderos de cabeza para los estudiantes de inglés es decidir cuándo usar el **Present Perfect** y cuándo el **Past Simple**. En español, a menudo usamos estos tiempos de forma intercambiable dependiendo de la región, pero en inglés, la diferencia es clara y fundamental para una comunicación precisa.
 

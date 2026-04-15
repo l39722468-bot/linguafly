@@ -1,5 +1,5 @@
 ---
-title: 'El Acento Irlandés: Guía para Entender el Inglés de Irlanda'
+title: 'El Acento Irlandés: Guía para Entender'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

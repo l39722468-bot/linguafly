@@ -1,5 +1,5 @@
 ---
-title: 'Cómo se Pronuncian las Terminaciones en Inglés: -ed, -s, -es y Más'
+title: 'Cómo se Pronuncian las Terminaciones'
 description: >-
   Descubre las reglas de pronunciación de las terminaciones más comunes en
   inglés: -ed del pasado, la -s/-es del plural y la tercera persona, y otras

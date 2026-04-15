@@ -1,10 +1,10 @@
 ---
-title: 'Preparar el IELTS: Guía Completa por Partes, Niveles y Estrategias'
+title: 'Preparar el IELTS'
 description: >-
   Todo lo que necesitas para preparar el IELTS: estrategias de Writing, Speaking, Reading y Listening, vocabulario académico, bandas de puntuación y planes de estudio según tu nivel.
 ---
 
-# Preparar el IELTS: Tu Centro de Recursos
+# Preparar el IELTS
 
 El IELTS no es un examen que se aprueba memorizando listas de vocabulario o haciendo cientos de tests de prueba sin criterio. Es un examen de habilidades reales, y prepararlo bien significa entender qué evalúa cada parte, qué errores penalizan más y cómo demostrar tu nivel de forma consistente bajo presión.
 

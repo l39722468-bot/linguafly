@@ -1,5 +1,5 @@
 ---
-title: 'Vocales del Inglés Americano: Por Qué Son tan Difíciles (y Cómo Dominarlas)'
+title: 'Vocales del Inglés Americano: Por Qué'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

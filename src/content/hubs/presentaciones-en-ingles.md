@@ -1,9 +1,9 @@
 ---
-title: "Presentaciones en Inglés: Guía de Vocabulario y Estructura"
+title: 'Presentaciones en Inglés: Guía'
 description: "Aprende a realizar presentaciones en inglés impactantes. Estructura, conectores, frases clave para gráficos y consejos para hablar en público con confianza."
 ---
 
-# Presentaciones en Inglés: Cómo Cautivar a tu Audiencia Internacional
+# Presentaciones en Inglés: Guía
 
 Hacer una **presentación en inglés** es uno de los momentos de mayor presión para cualquier profesional. No solo debes dominar el tema técnico, sino que debes ser capaz de mantener la atención de la audiencia, manejar interrupciones y responder preguntas complejas en un idioma extranjero.
 

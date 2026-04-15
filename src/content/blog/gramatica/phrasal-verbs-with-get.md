@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs con GET: Lista Completa con Significados y Ejemplos Reales'
+title: 'Phrasal Verbs con GET: Lista Completa'
 date: '2026-02-06'
 updatedDate: '2026-02-06'
 author: sara-mendez

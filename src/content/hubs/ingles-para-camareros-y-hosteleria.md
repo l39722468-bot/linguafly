@@ -1,9 +1,9 @@
 ---
-title: "Inglés para Camareros y Hostelería: Guía Técnica y Frases"
+title: 'Inglés para Camareros y Hostelería: Guía'
 description: "Domina el inglés para hostelería. Vocabulario para camareros, recepción, atención al cliente y gestión de reservas. ¡Mejora tu servicio internacional!"
 ---
 
-# Inglés para Camareros y Hostelería: Excelencia en el Servicio al Cliente Internacional
+# Inglés para Camareros y Hostelería: Guía
 
 El sector de la hostelería es uno de los más internacionales del mundo. Si trabajas como camarero, recepcionista o gerente de un establecimiento, hablar inglés no es solo un extra; es una herramienta de trabajo fundamental para ofrecer un servicio de calidad y evitar malentendidos que puedan arruinar la experiencia del cliente.
 

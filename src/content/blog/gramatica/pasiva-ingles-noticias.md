@@ -1,5 +1,5 @@
 ---
-title: 'Voz Pasiva en Inglés para Leer Noticias: Estructuras Clave'
+title: 'Voz Pasiva en Inglés para Leer'
 description: >-
   Aprende a reconocer y entender la voz pasiva en noticias en inglés. Estructuras
   más frecuentes en periodismo, titulares pasivos y cómo mejorar tu comprensión

@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios de Voz Pasiva en Inglés con Soluciones: Práctica Real'
+title: 'Ejercicios de Voz Pasiva en Inglés'
 description: >-
   Practica la voz pasiva en inglés con ejercicios variados y soluciones
   detalladas. Transformación, relleno de huecos, corrección de errores y

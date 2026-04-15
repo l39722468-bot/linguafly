@@ -1,5 +1,5 @@
 ---
-title: 'Las Mejores Apps para Aprender Inglés Gratis en 2026'
+title: 'Las Mejores Apps para Aprender Inglés'
 date: '2026-02-12'
 updatedDate: '2026-03-10'
 author: sara-mendez

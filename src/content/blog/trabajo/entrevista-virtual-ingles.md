@@ -1,5 +1,5 @@
 ---
-title: 'Entrevista Virtual en Inglés: Cómo Prepararte para una Videollamada Profesional'
+title: 'Entrevista Virtual en Inglés: Cómo'
 description: >-
   Guía completa para entrevistas de trabajo en inglés por videollamada. Setup
   técnico, lenguaje corporal en cámara, vocabulario específico y cómo gestionar

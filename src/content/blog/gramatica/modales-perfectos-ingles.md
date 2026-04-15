@@ -1,5 +1,5 @@
 ---
-title: 'Modales Perfectos en Inglés: Especular, Deducir y Hablar del Pasado'
+title: 'Modales Perfectos en Inglés'
 date: '2026-02-19'
 updatedDate: '2026-02-19'
 author: david-torres

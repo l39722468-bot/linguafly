@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Ir de Compras: Frases y Vocabulario Esencial 2026'
+title: 'Inglés para Ir de Compras: Frases'
 date: '2026-02-20'
 updatedDate: '2026-03-10'
 author: sara-mendez

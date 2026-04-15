@@ -1,5 +1,5 @@
 ---
-title: 'Frases de Emergencia en Inglés: Guía de Supervivencia para Viajeros'
+title: 'Frases de Emergencia en Inglés'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
 author: sara-mendez

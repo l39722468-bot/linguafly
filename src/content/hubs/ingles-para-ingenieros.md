@@ -1,9 +1,9 @@
 ---
-title: "Inglés para Ingenieros: Guía Técnica y Profesional"
+title: 'Inglés para Ingenieros: Guía Técnica'
 description: "Domina el inglés técnico para ingeniería. Vocabulario esencial, comunicación en proyectos internacionales y consejos para ingenieros de todas las especialidades."
 ---
 
-# Inglés para Ingenieros: Excelencia Técnica en un Mundo Globalizado
+# Inglés para Ingenieros: Guía Técnica
 
 En el ámbito de la ingeniería, el inglés no es simplemente un idioma adicional; es la **lengua franca** de la innovación, la investigación y la colaboración técnica. Ya seas ingeniero civil, de software, industrial o de cualquier otra rama, tu capacidad para leer manuales, redactar informes técnicos y comunicarte con equipos internacionales determinará el alcance de tu éxito profesional.
 

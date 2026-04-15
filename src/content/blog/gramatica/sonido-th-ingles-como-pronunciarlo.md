@@ -1,5 +1,5 @@
 ---
-title: 'El Sonido TH en Inglés: Cómo Pronunciar /θ/ y /ð/ sin Morir en el Intento'
+title: 'El Sonido TH en Inglés: Cómo'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

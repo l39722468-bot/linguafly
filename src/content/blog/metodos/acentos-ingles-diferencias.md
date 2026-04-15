@@ -1,5 +1,5 @@
 ---
-title: 'Acentos del Inglés: Guía de las Principales Diferencias por País y Región'
+title: 'Acentos del Inglés'
 date: '2026-03-06'
 updatedDate: '2026-03-10'
 author: sara-mendez

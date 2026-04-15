@@ -1,5 +1,5 @@
 ---
-title: 'El Schwa en Inglés: Por Qué /ə/ es el Sonido que Más Te Falta Dominar'
+title: 'El Schwa en Inglés: Por Qué /ə/ es'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

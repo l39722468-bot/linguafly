@@ -1,5 +1,5 @@
 ---
-title: 'Wish e If Only en Inglés: Deseos, Arrepentimientos y Quejas'
+title: 'Wish e If Only en Inglés: Deseos'
 description: >-
   Aprende a usar wish e if only en inglés para expresar deseos sobre el
   presente, el pasado y el futuro. Diferencias entre wish + past simple,

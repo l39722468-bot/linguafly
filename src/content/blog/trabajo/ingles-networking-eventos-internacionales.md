@@ -1,5 +1,5 @@
 ---
-title: 'Networking en Inglés: Guía para Conectar con Éxito en Eventos Internacionales'
+title: 'Networking en Inglés'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
 author: sara-mendez

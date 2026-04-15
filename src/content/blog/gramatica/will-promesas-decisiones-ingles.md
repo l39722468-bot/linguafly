@@ -1,5 +1,5 @@
 ---
-title: 'Will para Promesas y Decisiones Espontáneas en Inglés'
+title: 'Will para Promesas y Decisiones'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 author: sara-mendez

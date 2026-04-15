@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs de Trabajo: 60 Verbos Esenciales para el Inglés Profesional'
+title: 'Phrasal Verbs de Trabajo: 60 Verbos'
 description: >-
   Domina los phrasal verbs más usados en el trabajo en inglés. 60 verbos
   frasales de negocios con ejemplos reales para reuniones, emails y el día a día

@@ -1,5 +1,5 @@
 ---
-title: 'Condicionales Mixtos en Inglés: Guía Completa para Nivel C1 y C2'
+title: 'Condicionales Mixtos en Inglés'
 description: >-
   Domina los Mixed Conditionals en inglés. Guía completa con ejemplos, ejercicios
   y diferencias entre Tipo A y Tipo B. Imprescindible para Cambridge C1 Advanced

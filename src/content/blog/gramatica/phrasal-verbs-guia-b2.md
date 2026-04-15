@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs B2: Lista Definitiva y Guía de Uso'
+title: 'Phrasal Verbs B2: Lista Definitiva'
 description: >-
   Domina los phrasal verbs de nivel B2 para el First Certificate (FCE). Incluye
   lista completa de más de 150 phrasal verbs, ejemplos y trucos de memorización.

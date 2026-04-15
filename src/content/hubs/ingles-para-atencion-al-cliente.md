@@ -1,9 +1,9 @@
 ---
-title: "Inglés para Atención al Cliente: Guía de Excelencia y Soporte"
+title: 'Inglés para Atención al Cliente: Guía'
 description: "Aprende inglés para customer service. Frases clave para soporte telefónico, resolución de quejas, atención por chat y fórmulas de cortesía profesional."
 ---
 
-# Inglés para Atención al Cliente: Cómo Ofrecer un Servicio de 5 Estrellas
+# Inglés para Atención al Cliente: Guía
 
 En la economía global, la **atención al cliente en inglés** (Customer Service) es el punto de contacto más crítico entre una marca y sus usuarios. Ya sea que trabajes en un call center, en la recepción de un hotel, en soporte técnico o en ventas, tu capacidad para entender las necesidades del cliente y resolver sus problemas con cortesía y eficacia definirá la imagen de tu empresa.
 

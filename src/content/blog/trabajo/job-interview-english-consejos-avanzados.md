@@ -1,5 +1,5 @@
 ---
-title: 'Job Interview English: Técnicas Avanzadas para Candidatos con Nivel B2-C1'
+title: 'Job Interview English: Técnicas'
 date: '2026-02-25'
 updatedDate: '2026-03-10'
 author: sara-mendez

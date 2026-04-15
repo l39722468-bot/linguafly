@@ -1,5 +1,5 @@
 ---
-title: "Use of English C1: Ejercicios y Estrategias para Cada Parte del CAE"
+title: 'Use of English C1: Ejercicios'
 description: "Guía práctica del Use of English C1 Advanced: cómo abordar el open cloze, word formation, multiple choice cloze y las key word transformations con ejemplos reales."
 readTime: 8 min
 excerpt: "El Use of English del CAE es donde se gana o se pierde el examen. Aprende a leer cada parte de manera diferente y evita los errores que cometen la mayoría de candidatos."

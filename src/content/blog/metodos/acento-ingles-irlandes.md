@@ -1,5 +1,5 @@
 ---
-title: 'El Acento Irlandés: Por Qué el Inglés de Irlanda Suena Diferente a Todo lo Demás'
+title: 'El Acento Irlandés: Por Qué el Inglés'
 description: >-
   Guía completa del inglés irlandés: características fonéticas del acento irlandés,
   diferencias entre Dublin, Cork y Galway, vocabulario propio y cómo entenderlo

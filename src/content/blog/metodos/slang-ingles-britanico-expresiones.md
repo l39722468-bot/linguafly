@@ -1,5 +1,5 @@
 ---
-title: 'Slang Inglés Británico: 60 Expresiones para Sonar como un Local en el Reino Unido'
+title: 'Slang Inglés Británico: 60'
 description: >-
   Guía completa de slang inglés británico. Aprende las expresiones más usadas en
   el Reino Unido, desde el cockney londinense hasta el inglés informal del norte

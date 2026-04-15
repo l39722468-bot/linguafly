@@ -1,5 +1,5 @@
 ---
-title: 'Inglés de Nueva Zelanda: Características, Maorí y Cómo Entenderlo'
+title: 'Inglés de Nueva Zelanda'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

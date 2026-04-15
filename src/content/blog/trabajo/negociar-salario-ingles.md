@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Negociar el Salario en Inglés: Frases y Estrategia para No Dejarlo Pasar'
+title: 'Cómo Negociar el Salario en Inglés'
 description: >-
   Aprende a negociar tu salario en inglés con confianza. Cuándo y cómo
   plantear la negociación, qué frases usar, cómo responder a la pregunta

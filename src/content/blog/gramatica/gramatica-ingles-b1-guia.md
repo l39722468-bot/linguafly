@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-03-07'
 author: david-torres
-title: 'Gramática Inglés B1: Guía Completa de Temas, Reglas y Ejercicios'
+title: 'Gramática Inglés B1'
 description: >-
   Domina la gramática del nivel B1 de inglés. Tiempos verbales, condicionales,
   voz pasiva y más. La guía definitiva para preparar tu certificado oficial de

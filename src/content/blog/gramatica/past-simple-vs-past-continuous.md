@@ -1,5 +1,5 @@
 ---
-title: 'Past Simple vs Past Continuous: Diferencia y Cuándo Usar Cada Uno'
+title: 'Past Simple vs Past Continuous'
 date: '2026-02-25'
 updatedDate: '2026-02-25'
 author: david-torres

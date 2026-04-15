@@ -1,5 +1,5 @@
 ---
-title: 'Ever y Never en Inglés: Uso con el Present Perfect y Diferencias'
+title: 'Ever y Never en Inglés: Uso'
 date: '2026-02-16'
 updatedDate: '2026-02-16'
 author: sara-mendez

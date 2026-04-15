@@ -173,6 +173,24 @@ npm start
 NEXT_PUBLIC_SITE_URL=https://focusenglish.com
 ```
 
+#### IndexNow (Bing)
+```env
+INDEXNOW_KEY=tu_clave_indexnow
+INDEXNOW_SUBMIT_TOKEN=token_interno_para_api
+```
+
+Endpoints disponibles:
+- `GET /indexnow-key.txt` → devuelve la clave para validación de Bing.
+- `POST /api/indexnow/submit` → envía URLs a IndexNow (protegido con token).
+
+Ejemplo de envío manual:
+```bash
+curl -X POST "https://www.focus-on-english.com/api/indexnow/submit" \
+  -H "Authorization: Bearer TU_INDEXNOW_SUBMIT_TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"urls":["https://www.focus-on-english.com/blog/metodos/curso-ingles-online"]}'
+```
+
 #### HubSpot CRM (Requerido para formulario de signup)
 ```env
 # Obtén tu Access Token desde tu Private App en HubSpot

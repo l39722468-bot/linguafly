@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Real Estate e Inmobiliaria: Vocabulario y Frases Profesionales 2026'
+title: 'Inglés para Real Estate'
 date: '2026-03-12'
 updatedDate: '2026-03-10'
 author: sara-mendez

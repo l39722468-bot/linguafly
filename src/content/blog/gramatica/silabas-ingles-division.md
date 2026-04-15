@@ -1,5 +1,5 @@
 ---
-title: 'Sílabas en Inglés: Cómo Dividirlas y Por Qué Importa para Pronunciar Bien'
+title: 'Sílabas en Inglés: Cómo Dividirlas'
 description: >-
   Aprende a dividir palabras en sílabas en inglés con las reglas principales.
   Descubre cómo afecta la división silábica al acento tónico, la pronunciación

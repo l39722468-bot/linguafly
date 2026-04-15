@@ -1,5 +1,5 @@
 ---
-title: 'Acentos Regionales del Inglés Británico: Más Allá del RP'
+title: 'Acentos Regionales del Inglés'
 description: >-
   Guía completa de los acentos regionales del inglés británico: Cockney, Scouse,
   Geordie, Yorkshire, West Midlands y más. Características fonéticas, vocabulario

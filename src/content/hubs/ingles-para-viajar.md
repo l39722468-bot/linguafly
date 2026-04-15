@@ -1,9 +1,9 @@
 ---
-title: "Inglés para Viajar: Guía de Supervivencia y Frases Útiles"
+title: 'Inglés para Viajar: Guía de Supervivencia'
 description: "Domina el inglés para viajar con nuestra guía completa. Frases para el aeropuerto, hoteles, restaurantes, transporte y emergencias. ¡Viaja con confianza!"
 ---
 
-# Inglés para Viajar: Tu Pasaporte hacia una Experiencia Sin Fronteras
+# Inglés para Viajar: Guía de Supervivencia
 
 Viajar es una de las experiencias más enriquecedoras de la vida, pero la barrera del idioma puede transformar un sueño en una situación estresante. Dominar el **inglés para viajar** no significa ser bilingüe; se trata de tener las herramientas necesarias para comunicarte de forma efectiva en las situaciones más comunes: desde el mostrador de facturación hasta pedir recomendaciones a un local.
 

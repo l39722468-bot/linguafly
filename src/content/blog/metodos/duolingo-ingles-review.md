@@ -1,5 +1,5 @@
 ---
-title: 'Duolingo para Aprender Inglés: Review Honesto 2026 (Ventajas, Límites y Alternativas)'
+title: 'Duolingo para Aprender Inglés: Review'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: sara-mendez

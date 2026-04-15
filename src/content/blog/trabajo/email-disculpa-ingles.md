@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Disculparse por Email en Inglés: Apology Emails Profesionales'
+title: 'Cómo Disculparse por Email en Inglés'
 description: >-
   Aprende a redactar emails de disculpa en inglés de forma profesional. Cuándo
   y cómo pedir perdón, qué nivel de formalidad usar y ejemplos para distintas

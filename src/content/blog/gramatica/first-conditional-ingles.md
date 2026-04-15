@@ -1,5 +1,5 @@
 ---
-title: 'First Conditional en Inglés: Usos Reales y Cómo Sonar Natural'
+title: 'First Conditional en Inglés: Usos'
 description: >-
   Domina el first conditional en inglés con ejemplos de conversación real,
   variaciones con can, may y might, y ejercicios para niveles A2-B2.

@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs para Principiantes: Lista Básica A1-A2 con Ejemplos'
+title: 'Phrasal Verbs para Principiantes'
 description: >-
   Aprende los phrasal verbs más básicos en inglés para principiantes. Lista A1-A2
   con significados, ejemplos en español e inglés y ejercicios fáciles.

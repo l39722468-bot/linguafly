@@ -3,7 +3,7 @@ category: viajes
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: sara-mendez
-title: 'Inglés para mochileros en hostels y transporte público: frases que sí usarás'
+title: 'Inglés para mochileros en hostels'
 description: >-
   Guía práctica de inglés para mochileros: reservas en hostels, literas, consignas,
   metro, bus nocturno y vocabulario real para moverte sin estrés en inglés.

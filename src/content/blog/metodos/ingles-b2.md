@@ -3,7 +3,7 @@ category: metodos
 date: '2026-02-07'
 updatedDate: '2026-03-10'
 author: sara-mendez
-title: 'Curso de Inglés B2: Prepárate para el Nivel Intermedio Alto'
+title: 'Curso de Inglés B2: Prepárate'
 description: >-
   Alcanza la fluidez necesaria para trabajar y estudiar en el extranjero con
   nuestro curso B2. Prepárate para el First Certificate (FCE) y mejora tu perfil

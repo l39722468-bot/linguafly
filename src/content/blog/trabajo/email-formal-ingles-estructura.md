@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Estructurar un Email Formal en Inglés: Guía Paso a Paso'
+title: 'Cómo Estructurar un Email Formal'
 description: >-
   Aprende la estructura correcta de un email formal en inglés. Asunto, saludo,
   cuerpo y cierre con ejemplos reales y fórmulas para cada parte del correo.

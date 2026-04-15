@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: david-torres
-title: 'Ejercicios de “b” muda en inglés: dictado, lectura y contraste con /b/ real'
+title: 'Ejercicios de “b” muda en inglés'
 description: >-
   Batería de práctica para automatizar palabras con b escrita y no pronunciada,
   contrastándolas con sonidos /b/ reales para evitar confusión.

@@ -1,5 +1,5 @@
 ---
-title: 'BBC Learning English: Guía Completa 2026 para Aprender Inglés Gratis'
+title: 'BBC Learning English'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: sara-mendez

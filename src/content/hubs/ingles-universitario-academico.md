@@ -1,4 +1,9 @@
-# Guía de Inglés Universitario y Académico: Triunfa en el Campus Internacional
+---
+title: 'Inglés académico universitario'
+description: "Academic English para grado, máster y doctorado: clases, ensayos, investigación y campus internacional."
+---
+
+# Inglés académico universitario
 
 La vida universitaria en un país de habla inglesa o en programas internacionales es una experiencia transformadora, pero también un desafío lingüístico de primer nivel. El **inglés universitario** no es solo hablar bien el idioma; es dominar el "Academic English", un registro específico que requiere precisión, pensamiento crítico y un vocabulario especializado para la investigación y el debate.
 

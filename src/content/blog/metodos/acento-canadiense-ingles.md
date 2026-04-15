@@ -1,5 +1,5 @@
 ---
-title: 'El Acento Canadiense: Por Qué "About" Suena a "Aboot" (Y Por Qué No Es Tan Simple)'
+title: 'El Acento Canadiense: Por Qué "About"'
 description: >-
   Guía completa del Canadian English: el Canadian Raising, las diferencias con
   el acento americano, el inglés de Quebec, el vocabulario propio y las claves

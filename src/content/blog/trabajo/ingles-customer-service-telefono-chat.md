@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Customer Service: Atención por Teléfono, Chat y Email'
+title: 'Inglés para Customer Service'
 date: '2026-03-05'
 updatedDate: '2026-03-10'
 author: sara-mendez

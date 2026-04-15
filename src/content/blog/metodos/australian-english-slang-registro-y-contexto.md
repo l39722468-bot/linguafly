@@ -3,7 +3,7 @@ category: metodos
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: sara-mendez
-title: 'Australian slang: registro, contexto y cómo no sonar fuera de lugar'
+title: 'Australian slang: registro, contexto'
 description: >-
   Guía sensata sobre coloquialismos australianos: cuándo usar, qué evitar en
   contextos profesionales y cómo combinar comprensión auditiva con producción prudente.

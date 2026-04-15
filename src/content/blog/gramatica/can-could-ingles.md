@@ -1,5 +1,5 @@
 ---
-title: 'Can y Could en Inglés: Todos los Usos con Ejemplos Reales'
+title: 'Can y Could en Inglés: Todos los Usos'
 date: '2026-02-04'
 updatedDate: '2026-02-04'
 author: sara-mendez

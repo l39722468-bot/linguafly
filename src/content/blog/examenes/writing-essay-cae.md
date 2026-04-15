@@ -1,5 +1,5 @@
 ---
-title: "Cómo Escribir el Essay del CAE: Estructura, Conectores y Vocabulario"
+title: 'Cómo Escribir el Essay del CAE'
 description: "Aprende a escribir el ensayo obligatorio del C1 Advanced paso a paso: estructura ideal, conectores de nivel C1, cómo argumentar con matices y los errores que más penalizan."
 readTime: 8 min
 excerpt: "El essay del CAE es el único texto obligatorio del Writing. Aquí tienes la estructura que funciona, el vocabulario que buscan los examinadores y los errores que bajan la nota aunque tengas un nivel alto."

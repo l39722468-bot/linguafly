@@ -1,9 +1,9 @@
 ---
-title: "Emails Profesionales en Inglés: Guía Completa y Plantillas"
+title: 'Emails Profesionales en Inglés'
 description: "Aprende a escribir correos electrónicos profesionales en inglés. Fórmulas de saludo, despedida, frases clave para cada situación y consejos de netiqueta."
 ---
 
-# Emails Profesionales en Inglés: Cómo Comunicarte con Eficacia y Profesionalidad
+# Emails Profesionales en Inglés
 
 En el mundo laboral globalizado de hoy, la capacidad de escribir **emails profesionales en inglés** es una competencia básica. Un correo bien redactado no solo transmite información, sino que construye tu reputación profesional y facilita la colaboración internacional.
 

@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 author: david-torres
-title: 'Reported Speech Ejercicios PDF: Practica y Descarga'
+title: 'Reported Speech Ejercicios PDF'
 description: >-
   Descarga los mejores ejercicios de Reported Speech en PDF. Hojas de trabajo
   para niveles B1, B2, C1 y C2 con soluciones incluidas para practicar el estilo

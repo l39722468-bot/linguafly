@@ -1,5 +1,5 @@
 ---
-title: 'Zero Conditional en Inglés: Cuándo Usarlo y Cómo No Confundirlo'
+title: 'Zero Conditional en Inglés: Cuándo'
 description: >-
   Aprende el zero conditional en inglés con ejemplos reales, ejercicios y trucos
   para diferenciarlo del first conditional. Ideal para niveles A2-B1.

@@ -1,12 +1,12 @@
 ---
-title: 'Inglés Moderno e Internet: Guía de Comunicación Digital 2026'
+title: 'Inglés Moderno e Internet: Guía'
 description: >-
   Descubre cómo internet ha transformado el inglés. Aprende acrónimos, etiqueta
   digital y cómo comunicarte de forma efectiva en la era de la IA y las redes
   sociales.
 ---
 
-# Inglés Moderno e Internet: La Revolución del Idioma en 2026
+# Inglés Moderno e Internet: Guía
 
 Internet no solo ha cambiado cómo nos comunicamos; ha cambiado el idioma inglés desde sus cimientos. En 2026, la distinción entre "inglés formal" e "inglés de internet" es cada vez más borrosa. Los acrónimos que antes eran solo para chats se usan ahora en correos electrónicos corporativos, y la estructura de las frases se ha vuelto más dinámica y visual.
 

@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: david-torres
-title: 'La “b” muda en inglés: fundamentos, -mb-, -bt- y pronunciación para hispanohablantes'
+title: 'La “b” muda en inglés: fundamentos'
 description: >-
   Guía clara sobre la b no pronunciada en inglés: patrones mb y bt, ejemplos
   frecuentes y errores al leer en voz alta desde el español.

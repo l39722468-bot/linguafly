@@ -1,5 +1,5 @@
 ---
-title: 'Past Perfect en Inglés: Cuándo Usarlo y por Qué lo Necesitas'
+title: 'Past Perfect en Inglés: Cuándo Usarlo'
 date: '2026-02-28'
 updatedDate: '2026-03-20'
 author: sara-mendez

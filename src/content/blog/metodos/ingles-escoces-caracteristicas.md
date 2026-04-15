@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Escocés: Características, Variantes y Por Qué Es Diferente al Británico'
+title: 'Inglés Escocés: Características'
 description: >-
   Guía completa del Scottish English: características fonéticas, diferencias entre
   Glasgow y Edimburgo, vocabulario del Scots, y estrategias para entender el inglés

@@ -1,5 +1,5 @@
 ---
-title: 'Netiqueta en Emails en Inglés: Lo Que No Te Enseñan en el Libro de Texto'
+title: 'Netiqueta en Emails en Inglés: Lo'
 description: >-
   Las reglas no escritas de los emails profesionales en inglés. Qué hacer y
   qué evitar, cómo no sonar rudo sin querer y los errores de netiqueta que

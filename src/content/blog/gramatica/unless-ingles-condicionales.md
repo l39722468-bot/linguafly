@@ -1,5 +1,5 @@
 ---
-title: 'Unless en Inglés: Cómo Usarlo y Diferenciarlo de "If Not"'
+title: 'Unless en Inglés: Cómo Usarlo'
 description: >-
   Aprende a usar unless, provided that, as long as y only if en inglés.
   Diferencias con "if not", ejemplos reales y ejercicios para niveles B1-B2.

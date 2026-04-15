@@ -1,5 +1,5 @@
 ---
-title: 'Cockney: El Acento del East End de Londres que Nadie Te Enseñó'
+title: 'Cockney: El Acento del East End'
 description: >-
   Guía completa del acento Cockney: glotal stop, th-fronting, cambios vocálicos,
   rhyming slang y vocabulario propio. Todo lo que necesitas para entender el inglés

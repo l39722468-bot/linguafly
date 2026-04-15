@@ -1,9 +1,9 @@
 ---
-title: "Ejercicios de Condicionales en Inglés: Guía Completa y Práctica"
+title: 'Ejercicios de Condicionales en Inglés'
 description: "Domina todos los tipos de condicionales en inglés con explicaciones detalladas, ejemplos reales y ejercicios prácticos para mejorar tu fluidez y gramática."
 ---
 
-# Ejercicios de Condicionales en Inglés: Guía Definitiva para Dominar el "If"
+# Ejercicios de Condicionales en Inglés
 
 Los condicionales en inglés son una de las estructuras gramaticales más importantes y, a menudo, una de las que más retos presenta a los estudiantes. Sin embargo, dominarlos es fundamental para alcanzar una fluidez real, ya que nos permiten hablar sobre posibilidades, hipótesis, arrepentimientos y situaciones imaginarias.
 

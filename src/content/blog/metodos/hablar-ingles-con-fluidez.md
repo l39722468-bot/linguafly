@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Hablar Inglés con Fluidez: 10 Técnicas que Funcionan de Verdad'
+title: 'Cómo Hablar Inglés con Fluidez: 10'
 description: >-
   Descubre cómo hablar inglés con fluidez con técnicas probadas. Desde el
   shadowing hasta la práctica con IA, aprende a superar el miedo a hablar y

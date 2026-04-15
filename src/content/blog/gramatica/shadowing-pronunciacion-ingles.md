@@ -1,5 +1,5 @@
 ---
-title: 'Shadowing para Mejorar la Pronunciación en Inglés: La Técnica que Usan los Políglotas'
+title: 'Shadowing para Mejorar'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

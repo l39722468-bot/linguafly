@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Entender los Acentos del Inglés: Estrategias que Funcionan de Verdad'
+title: 'Cómo Entender los Acentos del Inglés'
 description: >-
   Guía práctica para mejorar la comprensión de diferentes acentos del inglés:
   por qué el cerebro falla con acentos nuevos, cómo entrenar el oído de forma

@@ -1,5 +1,5 @@
 ---
-title: 'Examen de Inglés de la EOI 2026: Niveles, Estructura y Cómo Prepararlo'
+title: 'Examen de Inglés de la EOI 2026: Niveles'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 author: david-torres

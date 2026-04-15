@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario para Entrevistas de Trabajo en Inglés: Las Palabras que Marcan la Diferencia'
+title: 'Vocabulario para Entrevistas'
 description: >-
   Vocabulario esencial para entrevistas de trabajo en inglés. Action verbs,
   palabras para describir tus habilidades, términos de empresa y frases para

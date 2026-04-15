@@ -1,5 +1,5 @@
 ---
-title: 'Cambridge C2 Proficiency (CPE) 2026: Guía de Preparación para el Nivel Más Alto'
+title: 'Cambridge C2 Proficiency (CPE) 2026'
 date: '2026-03-01'
 updatedDate: '2026-03-10'
 author: david-torres

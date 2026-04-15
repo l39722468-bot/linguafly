@@ -3,7 +3,7 @@ category: trabajo
 date: '2026-02-07'
 updatedDate: '2026-03-07'
 author: sara-mendez
-title: 'Inglés para el Trabajo: Cómo Destacar en un Entorno Global'
+title: 'Inglés para el Trabajo: Cómo Destacar'
 description: >-
   Domina el inglés de negocios y proyecta una imagen profesional sólida. 
   Aprende a liderar reuniones, negociar con éxito y comunicar tus ideas 

@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Superar el Bloqueo Mental en Inglés y Hablar con Fluidez'
+title: 'Cómo Superar el Bloqueo Mental'
 description: >-
   ¿Te quedas en blanco cuando hablas inglés? Aprende a superar el bloqueo
   mental, el miedo a hablar y la parálisis del perfeccionismo con técnicas

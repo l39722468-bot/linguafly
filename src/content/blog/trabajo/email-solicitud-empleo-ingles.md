@@ -1,5 +1,5 @@
 ---
-title: 'Email de Solicitud de Empleo en Inglés: Cover Letter y Primeros Contactos'
+title: 'Email de Solicitud de Empleo'
 description: >-
   Aprende a escribir un email de solicitud de empleo en inglés que destaque.
   Estructura del cover email, frases clave, cómo adjuntar el CV y errores

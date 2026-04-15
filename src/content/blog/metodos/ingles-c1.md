@@ -3,7 +3,7 @@ category: metodos
 date: '2026-02-07'
 updatedDate: '2026-03-21'
 author: sara-mendez
-title: 'Nivel C1 de Inglés: Qué Significa, Cómo Alcanzarlo y Qué Exámenes lo Certifican'
+title: 'Nivel C1 de Inglés: Qué Significa'
 description: >-
   El C1 es el nivel que piden multinacionales, universidades y la función
   pública. Te explicamos qué estructuras domina un C1, cuánto tiempo se tarda

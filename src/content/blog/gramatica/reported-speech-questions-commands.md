@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 author: david-torres
-title: 'Reported Speech: Preguntas, Órdenes y Peticiones'
+title: 'Reported Speech: Preguntas, Órdenes'
 description: >-
   Guía completa sobre cómo reportar preguntas (interrogativas) y órdenes
   (imperativos) en inglés. Aprende a usar 'if/whether', 'ask' y estructuras de

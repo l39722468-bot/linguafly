@@ -1,5 +1,5 @@
 ---
-title: 'Present Perfect Continuous: Cuándo Usarlo y en Qué Se Diferencia del Simple'
+title: 'Present Perfect Continuous: Cuándo'
 date: '2026-02-22'
 updatedDate: '2026-03-20'
 author: sara-mendez

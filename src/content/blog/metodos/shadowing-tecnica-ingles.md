@@ -1,5 +1,5 @@
 ---
-title: 'Shadowing en Inglés: La Técnica que Cambia Cómo Suenas'
+title: 'Shadowing en Inglés: La Técnica'
 description: >-
   Aprende a usar el shadowing para mejorar tu pronunciación en inglés de forma
   rápida y efectiva. Guía paso a paso con tipos de shadowing, materiales

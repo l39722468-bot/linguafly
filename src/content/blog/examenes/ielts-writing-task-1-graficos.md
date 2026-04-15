@@ -1,5 +1,5 @@
 ---
-title: 'IELTS Writing Task 1: Cómo Describir Gráficos y Diagramas para Conseguir Band 7+'
+title: 'IELTS Writing Task 1: Cómo Describir'
 date: '2026-02-05'
 updatedDate: '2026-02-05'
 author: sara-mendez

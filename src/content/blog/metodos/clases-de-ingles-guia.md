@@ -1,5 +1,5 @@
 ---
-title: 'Clases de Inglés 2026: Academia, Particular, Online o IA — Cuál Elegir'
+title: 'Clases de Inglés 2026: Academia, Particular'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
 author: sara-mendez

@@ -1,5 +1,5 @@
 ---
-title: 'Expresiones con Will en Inglés: Frases Hechas y Usos Avanzados'
+title: 'Expresiones con Will en Inglés'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 author: sara-mendez

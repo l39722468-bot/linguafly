@@ -1,5 +1,5 @@
 ---
-title: 'General American: El Acento del Inglés Americano Estándar'
+title: 'General American: El Acento'
 description: >-
   Guía completa del General American, el acento del inglés americano considerado
   estándar. Características fonéticas, diferencias con otros acentos americanos,

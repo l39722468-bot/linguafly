@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Entrenar el Oído para Entender Cualquier Acento del Inglés'
+title: 'Cómo Entrenar el Oído para Entender'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

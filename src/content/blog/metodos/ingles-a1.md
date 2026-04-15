@@ -3,7 +3,7 @@ category: metodos
 date: '2026-02-07'
 updatedDate: '2026-03-10'
 author: focus-english-team
-title: 'Inglés A1: Guía para Empezar desde Cero con Éxito'
+title: 'Inglés A1: Guía para Empezar desde Cero'
 description: >-
   ¿Quieres aprender inglés pero no sabes por dónde empezar? 
   Nuestra guía de nivel A1 te da las herramientas esenciales para 

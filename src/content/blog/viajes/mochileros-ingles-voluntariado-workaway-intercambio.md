@@ -3,7 +3,7 @@ category: viajes
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: sara-mendez
-title: 'Inglés para mochileros en voluntariados y work exchange: entrevistas, tareas y límites'
+title: 'Inglés para mochileros'
 description: >-
   Cómo preparar tu inglés para Workaway, Worldpackers y proyectos locales:
   presentación de habilidades, horarios, seguridad y comunicación profesional informal.

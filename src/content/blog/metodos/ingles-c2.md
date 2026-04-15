@@ -3,7 +3,7 @@ category: metodos
 date: '2026-03-02'
 updatedDate: '2026-03-21'
 author: sara-mendez
-title: 'Nivel C2 de Inglés: Qué Es, Cuánto Cuesta el CPE y Cómo Llegar desde C1'
+title: 'Nivel C2 de Inglés: Qué Es, Cuánto'
 description: >-
   El C2 (Proficiency) es la cumbre del MCER. Te explicamos qué lo diferencia
   del C1, cuántas horas necesitas (200-300h), qué mide el CPE de Cambridge

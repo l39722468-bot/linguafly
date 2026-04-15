@@ -1,5 +1,5 @@
 ---
-title: 'Word Stress en Inglés: La Regla que Nadie te Enseñó y que Cambia Todo'
+title: 'Word Stress en Inglés: La Regla'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

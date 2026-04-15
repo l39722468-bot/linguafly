@@ -1,5 +1,5 @@
 ---
-title: 'Voz Pasiva en Futuro en Inglés: Will Be, Going To Be y Más'
+title: 'Voz Pasiva en Futuro en Inglés: Will'
 description: >-
   Aprende a formar y usar la voz pasiva en futuro en inglés con will be, be
   going to be y otros tiempos. Ejemplos reales, usos formales y ejercicios.

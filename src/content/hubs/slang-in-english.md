@@ -1,11 +1,11 @@
 ---
-title: 'Slang in English: Guía de Jerga y Expresiones Modernas 2026'
+title: 'Slang in English: Guía de Jerga'
 description: >-
   Domina el slang más actual del inglés. Desde términos de redes sociales hasta
   expresiones de la calle. Suena como un nativo en cualquier conversación.
 ---
 
-# Slang in English: Habla como un Nativo en 2026
+# Slang in English: Guía de Jerga
 
 El inglés que aprendes en los libros de texto y el inglés que escuchas en las calles de Londres, Nueva York o Sidney son, a menudo, dos idiomas diferentes. El **slang** (jerga) es el alma vibrante del idioma; cambia constantemente, se alimenta de la cultura pop, las redes sociales y la música, y define quién es parte del grupo y quién no.
 

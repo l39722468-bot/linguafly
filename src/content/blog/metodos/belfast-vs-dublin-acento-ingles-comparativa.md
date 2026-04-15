@@ -1,5 +1,5 @@
 ---
-title: 'Belfast vs Dublín: Comparativa del Inglés y el Acento (Ulster vs Hiberno-English)'
+title: 'Belfast vs Dublín: Comparativa'
 description: >-
   Diferencias entre el inglés de Irlanda del Norte y el de la República: historia lingüística,
   rasgos fonéticos orientativos, léxico y consejos prácticos para viajeros y profesionales sin caer en generalizaciones.

@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Ligar y Citas: Frases y Expresiones para Conocer Gente en Inglés'
+title: 'Inglés para Ligar y Citas: Frases'
 date: '2026-03-08'
 updatedDate: '2026-03-10'
 author: sara-mendez

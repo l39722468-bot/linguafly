@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs con PUT: Lista Completa con Significados y Ejemplos'
+title: 'Phrasal Verbs con PUT: Lista Completa'
 description: >-
   Domina todos los phrasal verbs con PUT en inglés. Guía completa con más de
   30 combinaciones esenciales: put off, put up, put on, put down y muchos más

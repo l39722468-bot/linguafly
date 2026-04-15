@@ -1,5 +1,5 @@
 ---
-title: 'El Inglés del Sur de Estados Unidos: Características del Southern American English'
+title: 'El Inglés del Sur de Estados Unidos'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

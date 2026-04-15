@@ -1,5 +1,5 @@
 ---
-title: 'Consonantes Difíciles del Inglés para Hispanohablantes: /v/, /w/, /ŋ/ y Más'
+title: 'Consonantes Difíciles del Inglés'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

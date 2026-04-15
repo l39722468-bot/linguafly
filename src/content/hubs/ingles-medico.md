@@ -1,9 +1,9 @@
 ---
-title: "Inglés Médico: Guía de Terminología y Comunicación Clínica"
+title: 'Inglés Médico: Guía de Terminología'
 description: "Domina el inglés médico para profesionales de la salud. Vocabulario clínico, comunicación con pacientes y términos esenciales para medicina y enfermería."
 ---
 
-# Inglés Médico: Comunicación Vital en el Entorno Sanitario
+# Inglés Médico: Guía de Terminología
 
 En el mundo de la salud, la precisión en la comunicación puede salvar vidas. El **inglés médico** (Medical English) es una especialidad fundamental para médicos, enfermeros, investigadores y personal sanitario que trabaja en entornos internacionales, participa en congresos o consulta literatura científica de vanguardia.
 

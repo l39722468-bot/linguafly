@@ -1,5 +1,5 @@
 ---
-title: 'Preparar el B1 de Cambridge por tu Cuenta en 2026: Plan de Estudio Completo'
+title: 'Preparar el B1 de Cambridge'
 description: >-
   Guía completa para aprobar el examen B1 de Cambridge estudiando solo.
   Recursos, consejos para el Speaking y cómo organizar tu plan de estudio.

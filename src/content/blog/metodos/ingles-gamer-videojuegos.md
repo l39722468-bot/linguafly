@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Gamer: Vocabulario y Expresiones para Videojuegos y Gaming Online'
+title: 'Inglés Gamer: Vocabulario'
 description: >-
   Guía completa de inglés para gamers. Aprende el vocabulario, slang y
   expresiones más usadas en videojuegos online, Twitch, Discord y la comunidad

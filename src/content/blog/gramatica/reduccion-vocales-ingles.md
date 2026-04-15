@@ -1,5 +1,5 @@
 ---
-title: 'Reducción Vocálica en Inglés: El Secreto Detrás del Acento Nativo'
+title: 'Reducción Vocálica en Inglés'
 description: >-
   Descubre cómo funciona la reducción vocálica en inglés y por qué las vocales
   no acentuadas se convierten en schwa /ə/. Con ejemplos, tablas y consejos

@@ -1,5 +1,5 @@
 ---
-title: 'Voz Pasiva en Inglés Académico: Cómo Escribir Como un Experto'
+title: 'Voz Pasiva en Inglés Académico: Cómo'
 description: >-
   Aprende a usar la voz pasiva correctamente en textos académicos en inglés.
   Estructuras clave, ejemplos de papers y ensayos, y los errores que hay que evitar.

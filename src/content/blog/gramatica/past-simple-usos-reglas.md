@@ -1,5 +1,5 @@
 ---
-title: 'Past Simple en Inglés: Cuándo Usarlo y Cómo Formarlo Correctamente'
+title: 'Past Simple en Inglés: Cuándo Usarlo'
 date: '2026-02-07'
 updatedDate: '2026-03-21'
 author: david-torres

@@ -1,9 +1,9 @@
 ---
-title: "Cultura Anglosajona: Guía de Etiqueta y Protocolo Social 2026"
+title: 'Cultura Anglosajona: Guía de Etiqueta'
 description: "Entiende las normas sociales, la etiqueta y los códigos culturales de los países de habla inglesa. Evita choques culturales y triunfa socialmente."
 ---
 
-# Cultura Anglosajona: Más allá de las Palabras
+# Cultura Anglosajona: Guía de Etiqueta
 
 Hablar inglés es solo el 50% de la comunicación. El otro 50% es entender el contexto cultural en el que se habla. Muchos estudiantes de inglés se frustran porque, a pesar de tener un buen nivel gramatical, sienten que no conectan con los nativos o que sus interacciones son algo "frías" o, por el contrario, demasiado "bruscas". La clave suele estar en la **Cultura Anglosajona**.
 

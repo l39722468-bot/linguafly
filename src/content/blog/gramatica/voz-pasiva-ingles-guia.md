@@ -1,5 +1,5 @@
 ---
-title: 'La Voz Pasiva en Inglés: Guía Completa, Tiempos y Uso Académico'
+title: 'La Voz Pasiva en Inglés'
 readTime: 6 min
 excerpt: >-
   ¿Te cuesta entender cuándo y cómo usar la voz pasiva en inglés? En esta guía

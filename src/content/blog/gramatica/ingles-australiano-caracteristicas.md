@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Australiano: Por Qué Suena Tan Diferente y Cómo Aprender a Entenderlo'
+title: 'Inglés Australiano: Por Qué Suena Tan'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

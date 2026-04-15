@@ -1,5 +1,5 @@
 ---
-title: 'Aptis Advanced C1: Guía Completa para Obtener tu Certificado C1 en 2026'
+title: 'Aptis Advanced C1'
 date: '2026-03-03'
 updatedDate: '2026-03-10'
 author: david-torres

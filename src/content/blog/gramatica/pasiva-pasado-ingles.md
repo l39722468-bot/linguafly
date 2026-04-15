@@ -1,5 +1,5 @@
 ---
-title: 'Voz Pasiva en Pasado en Inglés: Was/Were y Had Been'
+title: 'Voz Pasiva en Pasado en Inglés'
 description: >-
   Domina la voz pasiva en pasado simple y pasado perfecto en inglés. Ejemplos
   reales, errores comunes y ejercicios para consolidar was/were + participio.

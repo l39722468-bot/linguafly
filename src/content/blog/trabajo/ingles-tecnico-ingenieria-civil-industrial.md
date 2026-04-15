@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Técnico para Ingeniería Civil e Industrial: Vocabulario y Comunicación'
+title: 'Inglés Técnico para Ingeniería Civil'
 date: '2026-03-04'
 updatedDate: '2026-03-10'
 author: sara-mendez

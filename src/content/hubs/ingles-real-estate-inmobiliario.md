@@ -1,4 +1,9 @@
-# Inglés para Real Estate: Guía de Vocabulario y Negociación Inmobiliaria
+---
+title: 'Inglés inmobiliario (Real Estate)'
+description: "Vocabulario y negociación en inglés para agentes, inversores y compraventa internacional."
+---
+
+# Inglés inmobiliario (Real Estate)
 
 El sector inmobiliario se ha globalizado de forma exponencial en la última década. Ya seas un agente inmobiliario que atiende a clientes extranjeros, un inversor buscando oportunidades fuera de tus fronteras o un comprador mudándote a otro país, el **inglés para real estate** es la herramienta que garantiza una transacción segura y exitosa.
 

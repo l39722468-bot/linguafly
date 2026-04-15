@@ -1,4 +1,9 @@
-# Guía Erasmus y Estudios en el Extranjero: Vive la Experiencia de tu Vida en Inglés
+---
+title: 'Erasmus y estudios en el extranjero'
+description: "Preparación en inglés para Erasmus y año en el extranjero: documentos, integración y vida académica."
+---
+
+# Erasmus y estudios en el extranjero
 
 Irse de **Erasmus** o estudiar un año en el extranjero es mucho más que un trámite académico; es una inmersión cultural, una prueba de madurez y la mejor academia de idiomas del mundo. Si tu destino es un país de habla inglesa o un programa internacional donde el inglés es la lengua vehicular, prepárate para vivir una experiencia que cambiará tu forma de ver el mundo.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Escribir un Email de Queja en Inglés: Guía con Ejemplos'
+title: 'Cómo Escribir un Email de Queja'
 description: >-
   Aprende a redactar emails de queja y reclamación en inglés de forma profesional
   y efectiva. Estructura, tono correcto, frases clave y ejemplos completos.

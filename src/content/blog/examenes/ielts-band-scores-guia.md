@@ -1,5 +1,5 @@
 ---
-title: 'Bandas del IELTS Explicadas: Qué Significa Cada Puntuación y Cómo Subir la Tuya'
+title: 'Bandas del IELTS Explicadas: Qué'
 date: '2026-02-23'
 updatedDate: '2026-02-23'
 author: sara-mendez

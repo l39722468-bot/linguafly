@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Canadiense: Las Diferencias con el Americano que Nadie Te Cuenta'
+title: 'Inglés Canadiense: Las Diferencias'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

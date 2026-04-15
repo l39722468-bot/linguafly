@@ -1,5 +1,5 @@
 ---
-title: 'Preguntas Difíciles en Entrevistas de Trabajo en Inglés y Cómo Responderlas'
+title: 'Preguntas Difíciles en Entrevistas'
 date: '2026-02-22'
 updatedDate: '2026-03-10'
 author: sara-mendez

@@ -1,5 +1,5 @@
 ---
-title: 'Costumbres Británicas: Lo Que Nadie Te Enseña en las Clases de Inglés'
+title: 'Costumbres Británicas: Lo Que Nadie'
 description: >-
   Guía completa de costumbres y cultura británica para hispanohablantes. Desde
   el queuing hasta el humor inglés, descubre qué esperar cuando interactúas con

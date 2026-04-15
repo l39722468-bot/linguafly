@@ -1,5 +1,5 @@
 ---
-title: 'Entonación en Inglés: Cómo los Patrones de Melodía Cambian el Significado'
+title: 'Entonación en Inglés: Cómo'
 description: >-
   Aprende los patrones de entonación del inglés y cómo afectan al significado,
   la actitud y la naturalidad. Entonación descendente, ascendente y sus usos

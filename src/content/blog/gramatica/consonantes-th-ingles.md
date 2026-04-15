@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Pronunciar la TH en Inglés: Los Dos Sonidos que Bloquean a los Hispanohablantes'
+title: 'Cómo Pronunciar la TH en Inglés'
 description: >-
   Guía práctica para pronunciar correctamente la TH en inglés, tanto la sorda
   /θ/ como la sonora /ð/. Ejercicios, ejemplos y errores más comunes.

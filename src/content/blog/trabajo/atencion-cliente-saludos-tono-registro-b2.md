@@ -3,7 +3,7 @@ category: trabajo
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: sara-mendez
-title: 'Saludos, tono y registro en atención al cliente en inglés (B1-B2)'
+title: 'Saludos, tono y registro en atención'
 description: >-
   Cómo abrir y cerrar interacciones, modular formalidad y sonar profesional sin
   rígido: frases modelo para chat, email y mostrador en inglés de servicio.

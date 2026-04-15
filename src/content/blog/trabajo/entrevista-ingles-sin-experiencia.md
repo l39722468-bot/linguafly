@@ -1,5 +1,5 @@
 ---
-title: 'Entrevista de Trabajo en Inglés sin Experiencia: Cómo Destacar cuando Empiezas'
+title: 'Entrevista de Trabajo en Inglés'
 description: >-
   Cómo afrontar una entrevista de trabajo en inglés cuando tienes poca o
   ninguna experiencia laboral. Qué ejemplos usar, cómo hablar de tus

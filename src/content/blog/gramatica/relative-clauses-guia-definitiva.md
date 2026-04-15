@@ -1,5 +1,5 @@
 ---
-title: 'Relative Clauses en Inglés: Guía Defining y Non-Defining'
+title: 'Relative Clauses en Inglés'
 description: >-
   Aprende a usar Who, Which, That, Whose y Whom. Diferencias entre defining y
   non-defining relative clauses con ejemplos y lista imprimible.

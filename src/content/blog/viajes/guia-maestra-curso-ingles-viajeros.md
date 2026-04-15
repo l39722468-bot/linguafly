@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Viajar: Tu Pasaporte a Experiencias Auténticas'
+title: 'Inglés para Viajar: Tu Pasaporte'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
 author: sara-mendez

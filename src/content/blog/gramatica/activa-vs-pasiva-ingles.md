@@ -1,5 +1,5 @@
 ---
-title: 'Voz Activa vs Voz Pasiva en Inglés: Cuándo Usar Cada Una'
+title: 'Voz Activa vs Voz Pasiva en Inglés'
 description: >-
   Aprende a elegir entre voz activa y pasiva en inglés según el contexto.
   Diferencias clave, ejemplos prácticos y cuándo cada una es la opción correcta.

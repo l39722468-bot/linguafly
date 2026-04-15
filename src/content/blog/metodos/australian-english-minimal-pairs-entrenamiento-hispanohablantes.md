@@ -3,7 +3,7 @@ category: metodos
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: david-torres
-title: 'Minimal pairs y discriminación auditiva en Australian English (guía práctica)'
+title: 'Minimal pairs y discriminación'
 description: >-
   Entrena el oído con pares mínimos y contrastes útiles para hispanohablantes
   que escuchan inglés australiano: método, ejemplos y progresión.

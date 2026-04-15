@@ -1,5 +1,5 @@
 ---
-title: '60 Frases para Emails Profesionales en Inglés que Suenan de Verdad'
+title: '60 Frases para Emails Profesionales'
 description: >-
   Colección de frases reales para emails profesionales en inglés organizadas por
   situación. Aperturas, peticiones, disculpas, confirmaciones, cierres y más.

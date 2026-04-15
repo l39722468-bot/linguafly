@@ -3,7 +3,7 @@ category: viajes
 date: '2026-02-07'
 updatedDate: '2026-03-10'
 author: sara-mendez
-title: 'Emergencias en Inglés: Frases de Auxilio y Seguridad'
+title: 'Emergencias en Inglés: Frases'
 description: >-
   Guía de supervivencia para emergencias en inglés. Aprende frases clave de
   auxilio, cómo pedir ayuda médica y consejos de seguridad esenciales para tus

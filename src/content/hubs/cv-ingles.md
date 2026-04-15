@@ -1,11 +1,11 @@
 ---
-title: 'CV en Inglés: Guía y Ejemplos para el Mercado Internacional 2026'
+title: 'CV en Inglés: Guía y Ejemplos'
 description: >-
   Aprende cómo hacer un CV en inglés ganador. Diferencias entre CV y Resume,
   optimización para ATS (IA) y ejemplos prácticos de cada sección.
 ---
 
-# CV en Inglés: Tu Puerta al Mundo Profesional en 2026
+# CV en Inglés: Guía y Ejemplos
 
 
 En esta guía de **Focus English**, te enseñamos a transformar tu trayectoria en un documento que atraiga la atención de los reclutadores internacionales.

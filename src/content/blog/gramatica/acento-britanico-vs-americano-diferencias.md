@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Británico vs Americano: Las Diferencias de Pronunciación que Más Importan'
+title: 'Inglés Británico vs Americano'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

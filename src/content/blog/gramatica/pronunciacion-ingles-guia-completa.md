@@ -1,5 +1,5 @@
 ---
-title: 'Pronunciación en Inglés: Guía Completa Paso a Paso'
+title: 'Pronunciación en Inglés'
 description: >-
   Aprende la pronunciación en inglés desde cero con esta guía completa. Fonemas,
   acento, entonación y los errores más comunes de los hispanohablantes.

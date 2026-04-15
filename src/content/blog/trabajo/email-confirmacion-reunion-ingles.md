@@ -1,5 +1,5 @@
 ---
-title: 'Emails para Reuniones en Inglés: Convoca, Confirma y Cancela'
+title: 'Emails para Reuniones en Inglés'
 description: >-
   Aprende a gestionar reuniones por email en inglés. Cómo convocar una meeting,
   confirmar asistencia, proponer cambios de horario y cancelar con cortesía

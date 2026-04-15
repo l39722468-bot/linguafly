@@ -1,9 +1,9 @@
 ---
-title: "Reported Speech en Inglés: Guía Completa de Estilo Indirecto"
+title: 'Reported Speech en Inglés'
 description: "Domina el Reported Speech o estilo indirecto en inglés. Aprende las reglas de cambios verbales, pronombres, expresiones de tiempo y verbos de reporte con ejemplos prácticos."
 ---
 
-# Reported Speech en Inglés: Domina el Estilo Indirecto Paso a Paso
+# Reported Speech en Inglés
 
 El **Reported Speech**, también conocido como estilo indirecto, es una de las estructuras más desafiantes pero esenciales del inglés. Se utiliza cuando queremos contar lo que otra persona ha dicho sin repetir sus palabras exactas. Es fundamental para la comunicación diaria, el periodismo y los entornos profesionales.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Preparar el IELTS desde Cero (o desde B2) para 2026: Plan Completo'
+title: 'Cómo Preparar el IELTS desde Cero (o'
 date: '2026-03-05'
 updatedDate: '2026-03-21'
 author: david-torres

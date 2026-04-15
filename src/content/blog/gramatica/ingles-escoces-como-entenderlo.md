@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Escocés: Por Qué Suena Tan Diferente y Cómo Entenderlo'
+title: 'Inglés Escocés: Por Qué Suena Tan'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

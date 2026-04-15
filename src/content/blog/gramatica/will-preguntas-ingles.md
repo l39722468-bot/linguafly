@@ -1,5 +1,5 @@
 ---
-title: 'Preguntas con Will en Inglés: Cómo Formarlas y Cuándo Usarlas'
+title: 'Preguntas con Will en Inglés: Cómo'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 author: sara-mendez

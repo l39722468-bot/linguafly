@@ -1,5 +1,5 @@
 ---
-title: 'Entonación en Inglés: Los Patrones que Hacen que Suenes Natural (o No)'
+title: 'Entonación en Inglés: Los Patrones'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

@@ -1,5 +1,5 @@
 ---
-title: 'Condicionales en Inglés en Conversación: Cómo Usarlos de Forma Natural'
+title: 'Condicionales en Inglés'
 description: >-
   Aprende a usar los condicionales en inglés de forma natural en conversaciones
   reales. Frases habituales, situaciones del día a día y cómo sonar menos

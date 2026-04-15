@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Marketing: Vocabulario, Términos y Frases Esenciales en 2026'
+title: 'Inglés para Marketing: Vocabulario'
 date: '2026-02-18'
 updatedDate: '2026-03-10'
 author: sara-mendez

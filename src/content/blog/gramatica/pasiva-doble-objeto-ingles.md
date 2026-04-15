@@ -1,5 +1,5 @@
 ---
-title: 'Pasiva con Doble Objeto en Inglés: Give, Send, Show y Más'
+title: 'Pasiva con Doble Objeto en Inglés'
 description: >-
   Aprende a formar la voz pasiva con verbos que tienen dos objetos en inglés.
   Diferencia entre pasiva de objeto directo e indirecto con give, send, show,

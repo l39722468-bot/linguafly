@@ -1,5 +1,5 @@
 ---
-title: 'Second Conditional en Inglés: Hipótesis, Consejos y Uso Real'
+title: 'Second Conditional en Inglés'
 description: >-
   Aprende el segundo condicional en inglés con ejemplos cotidianos y
   profesionales. Cuándo usar "were" en lugar de "was" y cómo dar consejos

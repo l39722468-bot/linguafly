@@ -1,5 +1,5 @@
 ---
-title: 'La R en Inglés: Por Qué No Funciona Como en Español'
+title: 'La R en Inglés: Por Qué No Funciona'
 description: >-
   Aprende cómo se pronuncia la R en inglés americano y británico, por qué es
   tan diferente a la española y cómo entrenarla para sonar más natural. Con

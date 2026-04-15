@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Combinar Apps para Aprender Inglés: Rutina por Nivel 2026'
+title: 'Cómo Combinar Apps para Aprender'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: sara-mendez

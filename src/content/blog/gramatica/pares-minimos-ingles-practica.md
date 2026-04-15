@@ -1,5 +1,5 @@
 ---
-title: 'Pares Mínimos en Inglés: La Técnica Más Efectiva para Afinar el Oído'
+title: 'Pares Mínimos en Inglés: La Técnica'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

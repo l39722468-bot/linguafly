@@ -3,7 +3,7 @@ category: metodos
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: sara-mendez
-title: 'Listening de inglés australiano: podcasts, series y rutina de entrenamiento'
+title: 'Listening de inglés australiano'
 description: >-
   Cómo diseñar una rutina de comprensión auditiva con acento australiano:
   materiales, niveles, subtítulos y progresión semana a semana.

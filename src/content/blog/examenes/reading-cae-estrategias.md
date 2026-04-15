@@ -1,5 +1,5 @@
 ---
-title: "Reading CAE: Cómo Abordar Cada Parte del Examen sin Perder el Tiempo"
+title: 'Reading CAE: Cómo Abordar Cada Parte'
 description: "Estrategias específicas para las partes 5, 6, 7 y 8 del Reading and Use of English del C1 Advanced. Aprende a gestionar el tiempo y a localizar la información clave en textos complejos."
 readTime: 8 min
 excerpt: "En el Reading del CAE el tiempo es el enemigo principal. Con la estrategia correcta para cada parte, puedes terminar con margen y obtener una puntuación que marque la diferencia."

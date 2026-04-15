@@ -1,5 +1,5 @@
 ---
-title: 'Curso de Inglés Gratis: Los Mejores Recursos para Aprender sin Pagar'
+title: 'Curso de Inglés Gratis: Los Mejores'
 date: '2026-03-20'
 updatedDate: '2026-03-20'
 author: sara-mendez

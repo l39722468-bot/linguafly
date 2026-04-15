@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Entrenar el Oído para el Acento Irlandés: Plan de Listening de 4 Semanas'
+title: 'Cómo Entrenar el Oído para el Acento'
 description: >-
   Plan práctico para mejorar la comprensión auditiva del inglés irlandés: podcasts, series,
   documentales y rutina semanal. Incluye criterios de progreso y errores habituales al escuchar Hiberno-English.

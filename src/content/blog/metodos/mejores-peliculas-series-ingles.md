@@ -1,5 +1,5 @@
 ---
-title: 'Las Mejores Películas y Series para Aprender Inglés en 2026'
+title: 'Las Mejores Películas y Series'
 date: '2026-02-14'
 updatedDate: '2026-03-10'
 author: sara-mendez

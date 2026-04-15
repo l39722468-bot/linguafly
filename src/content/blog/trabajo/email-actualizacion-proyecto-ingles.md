@@ -1,5 +1,5 @@
 ---
-title: 'Emails de Actualización de Proyecto en Inglés: Progress Updates que Funcionan'
+title: 'Emails de Actualización de Proyecto'
 description: >-
   Aprende a escribir progress updates y status reports por email en inglés.
   Estructura, frases clave y ejemplos para informar sobre el avance de un

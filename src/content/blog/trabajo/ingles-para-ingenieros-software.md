@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Ingenieros de Software: Guía de Comunicación Técnica en Equipos Globales'
+title: 'Inglés para Ingenieros de Software'
 date: '2026-03-03'
 updatedDate: '2026-03-10'
 author: sara-mendez

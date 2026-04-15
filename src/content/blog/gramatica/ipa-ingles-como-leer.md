@@ -1,5 +1,5 @@
 ---
-title: 'IPA en Inglés: Cómo Leer el Alfabeto Fonético Internacional sin Morir en el Intento'
+title: 'IPA en Inglés: Cómo Leer el Alfabeto'
 description: >-
   Guía práctica para entender y usar el IPA en inglés. Aprende qué significa
   cada símbolo, cómo leer las transcripciones de los diccionarios y por qué

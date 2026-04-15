@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Hacer un CV en Inglés: Guía Completa con Plantillas 2026'
+title: 'Cómo Hacer un CV en Inglés'
 date: '2026-02-10'
 updatedDate: '2026-03-10'
 author: sara-mendez

@@ -3,7 +3,7 @@ category: viajes
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: sara-mendez
-title: 'Inglés para mochileros en naturaleza: senderismo, seguridad y vocabulario outdoor'
+title: 'Inglés para mochileros en naturaleza'
 description: >-
   Vocabulario y frases en inglés para mochileros en montaña, senderos, clima,
   equipo, rescate y convivencia en refugios o rutas multiculturales.

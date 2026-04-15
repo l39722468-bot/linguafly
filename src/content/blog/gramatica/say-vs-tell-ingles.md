@@ -1,5 +1,5 @@
 ---
-title: 'Say vs Tell en Inglés: La Diferencia que Todo el Mundo Confunde'
+title: 'Say vs Tell en Inglés: La Diferencia'
 date: '2026-02-07'
 updatedDate: '2026-02-07'
 author: david-torres

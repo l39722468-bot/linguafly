@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-03-10'
 updatedDate: '2026-03-10'
 author: david-torres
-title: 'Gramática Inglesa: Guía Completa de A1 a C2 (Todos los Temas)'
+title: 'Gramática Inglesa'
 description: >-
   Guía maestra de gramática inglesa: tiempos verbales, phrasal verbs, condicionales,
   voz pasiva, reported speech, verbos modales y más. Organizada por nivel A1-C2

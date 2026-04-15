@@ -3,7 +3,7 @@ category: examenes
 date: '2026-03-02'
 updatedDate: '2026-03-21'
 author: david-torres
-title: 'Reported Speech Cambridge Exams: Guía de Rephrasing (B2-C2)'
+title: 'Reported Speech Cambridge Exams'
 description: >-
   Aprende a resolver ejercicios de Reported Speech en los exámenes de Cambridge
   First (B2), Advanced (C1) y Proficiency (C2). Guía de Key Word Transformation.

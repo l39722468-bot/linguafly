@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs con GO: Lista Completa con Significados y Ejemplos'
+title: 'Phrasal Verbs con GO: Lista Completa'
 date: '2026-02-15'
 updatedDate: '2026-02-15'
 author: david-torres

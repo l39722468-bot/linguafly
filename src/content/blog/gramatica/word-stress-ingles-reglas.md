@@ -1,5 +1,5 @@
 ---
-title: 'El Acento de Palabra en Inglés: Reglas para Saber Qué Sílaba Pronunciar Más Fuerte'
+title: 'El Acento de Palabra en Inglés'
 description: >-
   Aprende las reglas del acento léxico en inglés (word stress): cuándo acentuar
   la primera sílaba, cuándo la última y cómo los sufijos cambian el acento.

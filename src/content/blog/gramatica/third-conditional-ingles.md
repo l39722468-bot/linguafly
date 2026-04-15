@@ -1,5 +1,5 @@
 ---
-title: 'Third Conditional en Inglés: Arrepentimientos y Pasado Irreal'
+title: 'Third Conditional en Inglés'
 description: >-
   Aprende el tercer condicional en inglés con ejemplos reales. Cómo expresar
   arrepentimientos, situaciones pasadas que no ocurrieron y errores frecuentes

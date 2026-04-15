@@ -1,5 +1,5 @@
 ---
-title: 'Anki para Aprender Inglés: Guía Completa 2026'
+title: 'Anki para Aprender Inglés'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: sara-mendez

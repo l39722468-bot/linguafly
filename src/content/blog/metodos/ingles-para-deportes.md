@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Deportes: Vocabulario y Frases Esenciales por Disciplina'
+title: 'Inglés para Deportes: Vocabulario'
 date: '2026-02-22'
 updatedDate: '2026-03-10'
 author: sara-mendez

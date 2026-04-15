@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario de Negocios en Inglés 2026: 100+ Términos para Reuniones, Emails y Negociaciones'
+title: 'Vocabulario de Negocios en Inglés 2026: 100+'
 description: >-
   Mejora tu carrera con el mejor vocabulario de negocios en inglés. Frases para
   reuniones, emails, negociaciones y lista imprimible de términos esenciales.

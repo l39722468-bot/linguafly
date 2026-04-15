@@ -1,5 +1,5 @@
 ---
-title: 'Inglés en el Trabajo en Irlanda: Reuniones, Remoto y el Acento que Oirás en la Oficina'
+title: 'Inglés en el Trabajo en Irlanda'
 description: >-
   Guía para profesionales que trabajan con equipos en Irlanda: dinámica de reuniones, correo
   electrónico, turn-taking con acento irlandés y cómo pedir aclaraciones sin romper el ritmo profesional.

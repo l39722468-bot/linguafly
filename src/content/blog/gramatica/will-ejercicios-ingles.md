@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios de Will en Inglés con Soluciones: Practica Todos los Usos'
+title: 'Ejercicios de Will en Inglés'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 author: sara-mendez

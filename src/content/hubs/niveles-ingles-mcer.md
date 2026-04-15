@@ -1,9 +1,9 @@
 ---
-title: "Niveles de Inglés MCER: Guía Completa de A1 a C2"
+title: 'Niveles de Inglés MCER'
 description: "Entiende el Marco Común Europeo de Referencia para las lenguas (MCER). Guía detallada sobre qué significa cada nivel de inglés y cómo avanzar de nivel."
 ---
 
-# Niveles de Inglés MCER: La Guía Definitiva para Entender tu Progreso
+# Niveles de Inglés MCER
 
 Cuando decides aprender un idioma, la primera pregunta que suele surgir es: "¿Qué nivel de inglés tengo?". Para responder a esto de forma objetiva y estandarizada, se utiliza el **Marco Común Europeo de Referencia para las lenguas (MCER)** o CEFR en inglés. Este sistema permite que empresas, universidades y gobiernos de todo el mundo entiendan exactamente qué eres capaz de hacer con el idioma.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Expresiones de Tiempo en Reported Speech: Cómo Cambiarlas Correctamente'
+title: 'Expresiones de Tiempo en Reported'
 date: '2026-02-10'
 updatedDate: '2026-02-10'
 author: sara-mendez

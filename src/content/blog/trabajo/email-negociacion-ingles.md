@@ -1,5 +1,5 @@
 ---
-title: 'Emails de Negociación en Inglés: Cómo Proponer, Contraoferta y Cerrar'
+title: 'Emails de Negociación en Inglés: Cómo'
 description: >-
   Aprende a negociar por email en inglés de forma profesional. Frases para
   hacer propuestas, contrarrestar ofertas, pedir descuentos y cerrar acuerdos

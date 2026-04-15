@@ -1,5 +1,5 @@
 ---
-title: 'Inglés A1 vs A2: Diferencias Clave y Cómo pasar de nivel'
+title: 'Inglés A1 vs A2: Diferencias Clave'
 description: >-
   ¿Estás en el nivel A1 o ya has saltado al A2? Analizamos las diferencias
   reales entre el nivel principiante y el elemental según el MCER.

@@ -1,5 +1,5 @@
 ---
-title: 'Mudarse al Extranjero: Guía de Inglés Esencial para Expatriados 2026'
+title: 'Mudarse al Extranjero: Guía de Inglés'
 date: '2026-02-24'
 updatedDate: '2026-03-10'
 author: sara-mendez

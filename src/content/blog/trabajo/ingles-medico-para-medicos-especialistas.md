@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Médico para Médicos y Especialistas: Comunicación Clínica Avanzada'
+title: 'Inglés Médico para Médicos'
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 author: sara-mendez

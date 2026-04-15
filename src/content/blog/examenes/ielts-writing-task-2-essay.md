@@ -1,5 +1,5 @@
 ---
-title: 'IELTS Writing Task 2: Estructura del Ensayo y Estrategias para Band 7'
+title: 'IELTS Writing Task 2: Estructura'
 date: '2026-02-08'
 updatedDate: '2026-02-08'
 author: david-torres

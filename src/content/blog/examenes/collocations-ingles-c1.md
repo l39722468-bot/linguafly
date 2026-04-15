@@ -1,5 +1,5 @@
 ---
-title: "Collocations en Inglés C1: Las Combinaciones que Buscan los Examinadores del CAE"
+title: 'Collocations en Inglés C1'
 description: "Guía práctica de collocations de nivel C1 para el CAE: las combinaciones verbo-sustantivo, adjetivo-sustantivo y adverbio-adjetivo más frecuentes en el examen y cómo aprenderlas eficazmente."
 readTime: 8 min
 excerpt: "Las collocations son las combinaciones de palabras que los hablantes nativos usan de manera automática. En el CAE, elegir la combinación incorrecta delata un nivel inferior aunque tu gramática sea perfecta."

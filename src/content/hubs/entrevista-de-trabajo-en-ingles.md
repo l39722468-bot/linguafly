@@ -1,9 +1,9 @@
 ---
-title: "Entrevista de Trabajo en Inglés: Guía Maestra para el Éxito"
+title: 'Entrevista de Trabajo en Inglés: Guía'
 description: "Prepárate para tu entrevista de trabajo en inglés. Aprende a responder las preguntas más comunes, utiliza la técnica STAR y domina el vocabulario profesional."
 ---
 
-# Entrevista de Trabajo en Inglés: Cómo Brillar y Conseguir el Puesto
+# Entrevista de Trabajo en Inglés: Guía
 
 Enfrentarse a una **entrevista de trabajo en inglés** es uno de los mayores retos para cualquier profesional que busca expandir su carrera en el mercado internacional. No se trata solo de demostrar tus habilidades técnicas, sino de proyectar confianza, fluidez y una comunicación efectiva en un idioma que no es el tuya.
 

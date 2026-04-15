@@ -1,5 +1,5 @@
 ---
-title: 'El Día del Examen IELTS: Qué Esperar, Qué Llevar y Cómo Llegar en tu Mejor Forma'
+title: 'El Día del Examen IELTS: Qué Esperar'
 date: '2026-03-04'
 updatedDate: '2026-03-04'
 author: david-torres

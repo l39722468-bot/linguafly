@@ -1,5 +1,5 @@
 ---
-title: 'La Técnica STAR en Inglés: Cómo Responder Preguntas de Comportamiento'
+title: 'La Técnica STAR en Inglés: Cómo'
 description: >-
   Aprende a usar la técnica STAR en entrevistas de trabajo en inglés. Ejemplos
   reales para responder preguntas de comportamiento como "Tell me about a time

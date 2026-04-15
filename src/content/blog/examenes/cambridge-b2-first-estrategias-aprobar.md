@@ -1,5 +1,5 @@
 ---
-title: 'Cambridge B2 First (FCE) 2026: Cómo Aprobar Cada Parte — Reading, Writing, Listening y Speaking'
+title: 'Cambridge B2 First (FCE) 2026: Cómo Aprobar'
 date: '2026-03-02'
 updatedDate: '2026-03-21'
 author: david-torres

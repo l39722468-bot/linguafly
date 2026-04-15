@@ -1,5 +1,5 @@
 ---
-title: 'Apps vs. Cursos de Inglés: Cuál elegir para llegar al C1 en 2026'
+title: 'Apps vs. Cursos de Inglés: Cuál'
 description: >-
   Comparamos las aplicaciones para aprender inglés con los cursos tradicionales
   en 2026. ¿Qué es más efectivo para la fluidez, el nivel avanzado y el éxito

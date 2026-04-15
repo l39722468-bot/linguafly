@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario de Inglés Médico para Enfermería: Guía Esencial'
+title: 'Vocabulario de Inglés Médico'
 date: '2026-03-01'
 updatedDate: '2026-03-10'
 author: sara-mendez

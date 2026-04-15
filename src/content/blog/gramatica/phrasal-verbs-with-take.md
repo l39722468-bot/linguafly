@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs con TAKE: Guía Completa con Significados y Ejemplos'
+title: 'Phrasal Verbs con TAKE'
 date: '2026-02-12'
 updatedDate: '2026-02-12'
 author: sara-mendez

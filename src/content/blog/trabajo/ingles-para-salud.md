@@ -3,7 +3,7 @@ category: trabajo
 date: '2026-02-07'
 updatedDate: '2026-03-10'
 author: sara-mendez
-title: 'Curso de Inglés para el Sector Salud: Médico, Enfermería y Especialidades'
+title: 'Curso de Inglés para el Sector Salud'
 description: >-
   Especialízate en inglés médico y de enfermería. Domina el vocabulario clínico,
   la atención al paciente, redacción de informes y comunicación profesional

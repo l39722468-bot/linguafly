@@ -1,5 +1,5 @@
 ---
-title: 'IELTS General Training: Guía Completa para Inmigración y Trabajo en el Extranjero'
+title: 'IELTS General Training'
 date: '2026-02-26'
 updatedDate: '2026-02-26'
 author: david-torres

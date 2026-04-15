@@ -1,4 +1,9 @@
-# Guía Maestra de Inglés Jurídico: Domina el Legal English con Precisión
+---
+title: 'Inglés jurídico (Legal English)'
+description: "Legal English: registro, precisión y vocabulario para abogados, estudiantes de derecho y traducción."
+---
+
+# Inglés jurídico (Legal English)
 
 El **inglés jurídico** o *Legal English* es, posiblemente, una de las ramas más exigentes y especializadas del idioma. No se trata simplemente de conocer palabras técnicas; se trata de comprender un sistema de pensamiento, una tradición legal (el *Common Law*) y una precisión lingüística donde una sola coma puede cambiar el destino de un contrato millonario o la libertad de un individuo.
 

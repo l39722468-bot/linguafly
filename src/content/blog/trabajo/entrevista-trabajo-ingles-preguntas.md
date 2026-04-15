@@ -1,5 +1,5 @@
 ---
-title: 'Preguntas de Entrevista de Trabajo en Inglés: Las 30 Más Frecuentes con Respuestas'
+title: 'Preguntas de Entrevista de Trabajo'
 date: '2026-02-12'
 updatedDate: '2026-03-10'
 author: sara-mendez

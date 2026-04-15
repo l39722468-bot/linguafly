@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Mejorar tu Acento en Inglés: Lo que Funciona y lo que No'
+title: 'Cómo Mejorar tu Acento en Inglés: Lo'
 description: >-
   Guía práctica para mejorar tu acento en inglés de forma efectiva. Descubre
   qué aspectos trabajar primero, qué técnicas dan resultados reales y cómo

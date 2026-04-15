@@ -1,9 +1,9 @@
 ---
-title: "Inglés Americano vs Británico: Diferencias Clave"
+title: 'Inglés Americano vs Británico: Diferencias'
 description: "Descubre las principales diferencias entre el inglés americano (US) y el británico (UK). Ortografía, vocabulario, pronunciación y expresiones."
 ---
 
-# Inglés Americano vs Británico: ¿Cuál Deberías Aprender?
+# Inglés Americano vs Británico: Diferencias
 
 "Inglaterra y Estados Unidos son dos países separados por un mismo idioma". Esta famosa frase de George Bernard Shaw resume perfectamente la curiosa relación entre el **inglés británico (UK)** y el **inglés americano (US)**. Aunque ambos son perfectamente inteligibles entre sí, las diferencias en vocabulario, ortografía y pronunciación pueden causar confusión a los estudiantes.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Aptis A2 2026: Estructura del Examen, Puntuación Mínima y Cómo Aprobarlo en 4 Semanas'
+title: 'Aptis A2 2026: Estructura del Examen'
 date: '2026-02-06'
 updatedDate: '2026-03-21'
 author: david-torres

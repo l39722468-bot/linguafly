@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: david-torres
-title: 'Excepciones y trampas ortográficas con la “b” en inglés (muda o no)'
+title: 'Excepciones y trampas ortográficas'
 description: >-
   Lista razonada de casos que confunden: palabras con b que sí se pronuncian,
   palabras con b muda y consejos para no equivocarte al escribir en exámenes.

@@ -1,5 +1,5 @@
 ---
-title: 'Fonética Inglesa Básica: Guía para Principiantes'
+title: 'Fonética Inglesa Básica'
 description: >-
   Introducción a la fonética inglesa básica. Aprende los símbolos IPA
   esenciales, los 44 fonemas del inglés y cómo leer la transcripción fonética.

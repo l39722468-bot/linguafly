@@ -1,5 +1,5 @@
 ---
-title: 'Will vs Would en Inglés: Cuándo Usar Cada Uno y Por Qué No Son lo Mismo'
+title: 'Will vs Would en Inglés: Cuándo Usar'
 date: '2026-02-16'
 updatedDate: '2026-03-20'
 author: sara-mendez

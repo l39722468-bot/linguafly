@@ -1,5 +1,5 @@
 ---
-title: 'Lingopie Review 2026: Aprende Inglés con Series y Películas de Verdad'
+title: 'Lingopie Review 2026: Aprende Inglés'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: sara-mendez

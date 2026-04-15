@@ -3,7 +3,7 @@ category: metodos
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: david-torres
-title: 'Australian English: vocales, fonética y comparativa con RP y General American'
+title: 'Australian English: vocales, fonética'
 description: >-
   Guía para hispanohablantes: sistema vocalico del inglés australiano, diferencias
   con británico y americano, y cómo practicar sin confundir “acento” con “errores”.

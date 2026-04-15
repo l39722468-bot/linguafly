@@ -1,5 +1,5 @@
 ---
-title: 'Niveles de Inglés MCER: Guía Completa de A1 a C2 (2026)'
+title: 'Niveles de Inglés MCER'
 description: >-
   Todo lo que necesitas saber sobre los niveles de inglés MCER. Qué puedes hacer
   en cada nivel, cómo saber tu nivel actual y cuánto tiempo necesitas para subir

@@ -1,5 +1,5 @@
 ---
-title: 'Errores Comunes con los Condicionales en Inglés y Cómo Evitarlos'
+title: 'Errores Comunes con los Condicionales'
 description: >-
   Los 10 errores más frecuentes con los condicionales en inglés que cometen
   los hispanohablantes, con explicaciones claras y las correcciones que

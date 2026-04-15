@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs C1 Avanzados: Los Más Usados en Registro Formal y Profesional'
+title: 'Phrasal Verbs C1 Avanzados: Los Más'
 date: '2026-02-21'
 updatedDate: '2026-02-21'
 author: david-torres

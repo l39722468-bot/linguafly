@@ -1,5 +1,5 @@
 ---
-title: 'Errores en Entrevistas de Trabajo en Inglés: Lo que Hace que Pierdas el Puesto'
+title: 'Errores en Entrevistas de Trabajo'
 description: >-
   Los errores más frecuentes en entrevistas de trabajo en inglés y cómo
   evitarlos. Desde problemas de idioma hasta errores de estrategia y

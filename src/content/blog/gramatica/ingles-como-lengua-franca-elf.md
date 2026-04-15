@@ -1,5 +1,5 @@
 ---
-title: 'Inglés como Lengua Franca (ELF): Por Qué el Inglés "Perfecto" No Es Siempre el Objetivo'
+title: 'Inglés como Lengua Franca (ELF)'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

@@ -1,5 +1,5 @@
 ---
-title: 'Pasiva con Verbos Modales en Inglés: Must, Should, Can y Más'
+title: 'Pasiva con Verbos Modales en Inglés'
 description: >-
   Aprende a combinar verbos modales con la voz pasiva en inglés. Reglas, ejemplos
   reales y ejercicios con must be, should be, can be, might be y could be.

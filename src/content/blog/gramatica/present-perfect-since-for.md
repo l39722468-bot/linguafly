@@ -1,5 +1,5 @@
 ---
-title: 'Since vs For en Inglés: Cuándo Usar Cada Uno con el Present Perfect'
+title: 'Since vs For en Inglés: Cuándo Usar'
 date: '2026-02-10'
 updatedDate: '2026-02-10'
 author: sara-mendez

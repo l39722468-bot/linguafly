@@ -1,5 +1,5 @@
 ---
-title: 'Guía Erasmus y Estudios en el Extranjero: Todo lo que Necesitas Saber en Inglés'
+title: 'Guía Erasmus y Estudios'
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 author: sara-mendez

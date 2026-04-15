@@ -3,7 +3,7 @@ category: metodos
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: david-torres
-title: 'Australian English: schwa, ritmo y consonantes que cambian el “feeling”'
+title: 'Australian English: schwa, ritmo'
 description: >-
   Guía práctica sobre reduced vowels, ritmo silábico y fenómenos consonánticos
   frecuentes en el inglés australiano, con ejercicios para hispanohablantes.

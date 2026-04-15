@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: david-torres
-title: 'Doubt, debt, subtle y el misterio de la “b” escrita: pronunciación y memoria'
+title: 'Doubt, debt, subtle y el misterio'
 description: >-
   Explicación práctica para hispanohablantes: por qué algunas palabras tienen “b”
   y no se oyen, cómo aprenderlas sin confundirlas al escribir y cómo pronunciarlas.

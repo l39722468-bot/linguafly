@@ -1,5 +1,5 @@
 ---
-title: 'Just, Already y Yet en Inglés: Uso con el Present Perfect'
+title: 'Just, Already y Yet en Inglés: Uso'
 date: '2026-02-13'
 updatedDate: '2026-02-13'
 author: david-torres

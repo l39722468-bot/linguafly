@@ -1,5 +1,5 @@
 ---
-title: 'El Ritmo del Inglés: Por Qué no Funciona Como el Español'
+title: 'El Ritmo del Inglés: Por Qué no'
 description: >-
   El inglés es un idioma stress-timed: su ritmo se organiza de forma radicalmente
   distinta al español. Entender esto cambia cómo escuchas y cómo hablas. Guía

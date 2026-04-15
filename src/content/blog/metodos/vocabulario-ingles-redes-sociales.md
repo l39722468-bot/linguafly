@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario Inglés para Redes Sociales: Guía Completa de Términos Digitales'
+title: 'Vocabulario Inglés para Redes'
 description: >-
   Aprende todo el vocabulario inglés de redes sociales y plataformas digitales.
   Desde los términos básicos de Instagram y TikTok hasta el lenguaje de creadores

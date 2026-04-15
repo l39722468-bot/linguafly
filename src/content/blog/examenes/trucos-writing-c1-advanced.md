@@ -1,5 +1,5 @@
 ---
-title: Trucos para Aprobar el Writing del C1 Advanced (CAE)
+title: 'Trucos para Aprobar el Writing del C1'
 description: >-
   Domina el Writing del C1 Advanced con estos 5 consejos clave. Aprende a usar
   conectores avanzados, estructuras complejas y a impresionar a los examinadores

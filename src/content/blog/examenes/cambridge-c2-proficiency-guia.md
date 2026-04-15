@@ -4,7 +4,7 @@ date: '2026-02-07'
 updatedDate: '2026-03-10'
 author: david-torres
 alt: "Estudiante de nivel C2 Proficiency logrando la maestría del idioma"
-title: 'Examen C2 Proficiency (CPE) 2026: Guía para Alcanzar el Nivel Máximo de Inglés'
+title: 'Examen C2 Proficiency (CPE) 2026'
 description: >-
   Guía de preparación para el examen C2 Proficiency (CPE) de Cambridge. Domina
   el inglés al más alto nivel académico y profesional con nuestros trucos y

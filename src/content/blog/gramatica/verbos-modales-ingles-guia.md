@@ -1,5 +1,5 @@
 ---
-title: 'Verbos Modales en Inglés: Guía y Esquema de Uso'
+title: 'Verbos Modales en Inglés'
 description: >-
   Domina Can, Could, Must, Should, May y los Modales Perfectos. Incluye esquema
   de verbos modales en inglés pdf-friendly y ejemplos académicos.

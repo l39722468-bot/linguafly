@@ -1,5 +1,5 @@
 ---
-title: 'El Schwa en Inglés: El Sonido que Nadie te Enseña pero Cambia Todo'
+title: 'El Schwa en Inglés: El Sonido'
 description: >-
   Descubre el schwa /ə/, el sonido más frecuente del inglés. Aprende dónde
   aparece, cómo pronunciarlo y por qué dominarlo transforma tu pronunciación.

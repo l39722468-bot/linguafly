@@ -1,5 +1,5 @@
 ---
-title: 'Apps de Inglés Gratis vs. de Pago 2026: ¿Vale la Pena Pagar?'
+title: 'Apps de Inglés Gratis vs. de Pago 2026'
 description: >-
   Duolingo gratis llega hasta B1 pero no más. Babbel mejora el speaking,
   Busuu tiene correcciones reales. ¿Cuándo compensa pagar? Te damos el

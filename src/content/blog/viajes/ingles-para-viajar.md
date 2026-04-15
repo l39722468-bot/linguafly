@@ -3,7 +3,7 @@ category: viajes
 date: '2026-02-07'
 updatedDate: '2026-03-07'
 author: sara-mendez
-title: 'Inglés para Viajar: La Guía de Supervivencia Definitiva en 2026'
+title: 'Inglés para Viajar'
 description: >-
   Domina el inglés para tus viajes. Frases esenciales para aeropuertos, hoteles,
   restaurantes y emergencias. Viaja con total confianza por el mundo con Focus

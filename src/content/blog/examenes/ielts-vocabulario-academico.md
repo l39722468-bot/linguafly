@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario Académico para el IELTS: Listas por Tema y Cómo Aprenderlo de Verdad'
+title: 'Vocabulario Académico para el IELTS'
 date: '2026-02-20'
 updatedDate: '2026-02-20'
 author: david-torres

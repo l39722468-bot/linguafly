@@ -1,5 +1,5 @@
 ---
-title: 'Will vs Going To en Inglés: La Diferencia Real con Ejemplos'
+title: 'Will vs Going To en Inglés'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 author: sara-mendez

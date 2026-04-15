@@ -1,9 +1,9 @@
 ---
-title: "Aptis General B1: Guía Completa de Preparación"
+title: 'Aptis General B1'
 description: "Todo lo que necesitas saber sobre el examen Aptis General para obtener tu certificado B1. Estructura del examen, consejos por partes y cómo prepararte online."
 ---
 
-# Aptis General B1: La Guía Definitiva para Certificar tu Inglés de Forma Rápida
+# Aptis General B1
 
 Si necesitas certificar tu nivel de inglés de manera rápida, económica y con resultados en tiempo récord, el **Aptis General** del British Council es, sin duda, tu mejor opción en 2026. Este examen se ha convertido en el favorito de universitarios, profesores y opositores en España gracias a su formato moderno y su sistema de corrección flexible.
 

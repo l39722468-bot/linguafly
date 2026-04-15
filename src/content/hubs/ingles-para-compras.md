@@ -1,4 +1,9 @@
-# Guía de Inglés para Compras: Domina el Shopping de la A a la Z
+---
+title: 'Inglés para compras y shopping'
+description: "Frases y vocabulario de inglés para tiendas, tallas, devoluciones y compras en el extranjero."
+---
+
+# Inglés para compras y shopping
 
 Ir de compras es una de las actividades más comunes y necesarias cuando viajamos o vivimos en un país extranjero. Aunque parezca sencillo, el **inglés para compras** (shopping) abarca una gran variedad de situaciones: desde pedir una talla diferente en una tienda de ropa hasta entender las ofertas del supermercado o tramitar una devolución.
 

@@ -1,4 +1,9 @@
-# Guía Completa de Inglés para Marketing: Domina el Lenguaje del Crecimiento Global
+---
+title: 'Inglés para marketing (guía)'
+description: "Inglés para marketing digital, contenido, SEO y comunicación en equipos internacionales."
+---
+
+# Inglés para marketing (guía)
 
 En un mundo hiperconectado, el **inglés para marketing** no es simplemente una habilidad adicional; es el sistema operativo sobre el que corre la industria global. Ya sea que trabajes en SEO, contenido, redes sociales o estrategia de marca, el 90% de la terminología técnica, las herramientas más avanzadas y las tendencias emergentes nacen en inglés.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Los Mejores Canales de YouTube para Aprender Inglés Gratis en 2026'
+title: 'Los Mejores Canales de YouTube'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: sara-mendez

@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs con MAKE: Lista con Significados, Ejemplos y Errores a Evitar'
+title: 'Phrasal Verbs con MAKE: Lista'
 date: '2026-02-09'
 updatedDate: '2026-02-09'
 author: david-torres

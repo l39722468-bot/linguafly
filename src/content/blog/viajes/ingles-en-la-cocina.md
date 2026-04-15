@@ -1,5 +1,5 @@
 ---
-title: 'Inglés en la Cocina: Vocabulario y Técnicas Culinarias en Inglés'
+title: 'Inglés en la Cocina: Vocabulario'
 date: '2026-02-26'
 updatedDate: '2026-03-10'
 author: sara-mendez

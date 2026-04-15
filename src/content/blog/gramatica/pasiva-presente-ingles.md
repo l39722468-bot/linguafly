@@ -1,5 +1,5 @@
 ---
-title: 'Voz Pasiva en Presente en Inglés: Estructura y Usos Reales'
+title: 'Voz Pasiva en Presente en Inglés'
 description: >-
   Aprende a formar y usar la voz pasiva en presente en inglés con ejemplos
   cotidianos. Cubre present simple y present continuous en pasiva con ejercicios.

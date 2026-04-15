@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios de Pronunciación en Inglés que Realmente Funcionan'
+title: 'Ejercicios de Pronunciación en Inglés'
 description: >-
   Descubre los ejercicios de pronunciación en inglés más efectivos para mejorar
   sonidos, ritmo, entonación y fluidez. Técnicas prácticas con ejemplos para

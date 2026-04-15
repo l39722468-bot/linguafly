@@ -3,7 +3,7 @@ category: viajes
 date: '2026-04-03'
 updatedDate: '2026-04-03'
 author: sara-mendez
-title: 'Inglés para mochileros en aeropuertos, fronteras y aduanas: guía de supervivencia'
+title: 'Inglés para mochileros en aeropuertos'
 description: >-
   Frases y vocabulario en inglés para mochileros: control de pasaportes, aduanas,
   declaraciones, vuelos con escala y situaciones frecuentes sin pánico.

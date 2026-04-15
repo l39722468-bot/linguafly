@@ -1,11 +1,11 @@
 ---
-title: 'Inglés para Ligar y Citas: Guía Completa de Supervivencia Romántica'
+title: 'Inglés para Ligar y Citas'
 description: >-
   Aprende el vocabulario y las frases esenciales para ligar en inglés. Desde
   apps de citas hasta la primera cena, domina el lenguaje del amor en 2026.
 ---
 
-# Inglés para Ligar y Citas: Domina el Arte de la Seducción en 2026
+# Inglés para Ligar y Citas
 
 Ligar en tu propio idioma ya puede ser un desafío, pero hacerlo en inglés añade una capa extra de complejidad (y emoción). En un mundo cada vez más globalizado, es muy probable que tu próxima gran historia de amor empiece con un "Hello". Ya sea que estés usando apps de citas en Londres, tomando un café en Nueva York o conociendo a alguien en un viaje, tener confianza en tu **inglés para ligar** es fundamental.
 

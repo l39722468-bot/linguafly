@@ -1,9 +1,9 @@
 ---
-title: "Phrasal Verbs en Inglés: Guía Completa con Listas y Ejemplos"
+title: 'Phrasal Verbs en Inglés'
 description: "Todo lo que necesitas saber sobre los phrasal verbs en inglés. Qué son, cómo funcionan, listas por nivel y contexto, y cómo aprenderlos de forma efectiva."
 ---
 
-# Phrasal Verbs en Inglés: La Guía Definitiva
+# Phrasal Verbs en Inglés
 
 Los **phrasal verbs** son, sin duda, uno de los mayores retos para cualquier estudiante de inglés. Son esas combinaciones de verbo + partícula (preposición o adverbio) que parecen no tener lógica... hasta que descubres sus patrones. Esta guía centraliza todo lo que necesitas saber sobre los **verbos frasales del inglés**, desde los más básicos hasta los de nivel avanzado.
 

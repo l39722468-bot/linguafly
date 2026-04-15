@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Leer la Transcripción Fonética en Inglés: Guía Práctica del IPA'
+title: 'Cómo Leer la Transcripción Fonética'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

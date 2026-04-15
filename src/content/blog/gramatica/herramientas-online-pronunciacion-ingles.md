@@ -1,5 +1,5 @@
 ---
-title: 'Las Mejores Herramientas Online para Mejorar tu Pronunciación en Inglés'
+title: 'Las Mejores Herramientas Online'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

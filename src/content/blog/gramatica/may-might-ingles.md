@@ -1,5 +1,5 @@
 ---
-title: 'May y Might en Inglés: Cómo Expresar Posibilidad e Incertidumbre'
+title: 'May y Might en Inglés: Cómo Expresar'
 date: '2026-02-10'
 updatedDate: '2026-02-10'
 author: sara-mendez

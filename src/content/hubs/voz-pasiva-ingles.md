@@ -1,9 +1,9 @@
 ---
-title: "La Voz Pasiva en Inglés: Guía Completa y Avanzada"
+title: 'La Voz Pasiva en Inglés'
 description: "Domina la voz pasiva en inglés. Aprende cuándo usarla, cómo transformar frases de activa a pasiva, estructuras impersonales y el uso de 'have something done'."
 ---
 
-# La Voz Pasiva en Inglés: Domina la Estructura de la Objetividad
+# La Voz Pasiva en Inglés
 
 La **voz pasiva** (Passive Voice) es una estructura fundamental en inglés, especialmente en contextos académicos, periodísticos y profesionales. A diferencia de la voz activa, donde el foco está en quién realiza la acción, en la voz pasiva lo más importante es la **acción en sí misma** o el **objeto** que la recibe.
 
