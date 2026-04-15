@@ -2,6 +2,7 @@ import type { MetadataRoute } from "next";
 import { getBlogArticles, getAllKeywords, slugify, normalizeCategory } from "@/lib/blog";
 import { authors } from "@/lib/authors";
 import { phraseService } from "@/lib/phrases";
+import { VOCAB_SECTORS } from "@/lib/vocabulario/sectors";
 
 const baseUrl = "https://www.focus-on-english.com";
 
@@ -34,6 +35,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: FRASES_DATE,
       changeFrequency: "weekly",
       priority: 0.95,
+    },
+    {
+      url: `${baseUrl}/vocabulario`,
+      lastModified: mostRecentArticleDate,
+      changeFrequency: "weekly",
+      priority: 0.92,
+    },
+    {
+      url: `${baseUrl}/ingles-para-viajar`,
+      lastModified: mostRecentArticleDate,
+      changeFrequency: "weekly",
+      priority: 0.93,
     },
     {
       url: `${baseUrl}/aplicaciones-para-aprender-ingles`,
@@ -146,6 +159,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: FRASES_DATE,
       changeFrequency: "weekly" as const,
       priority: 0.85,
+    }))
+  );
+
+  urls.push(
+    ...VOCAB_SECTORS.map((s) => ({
+      url: `${baseUrl}/vocabulario/${s.slug}`,
+      lastModified: mostRecentArticleDate,
+      changeFrequency: "weekly" as const,
+      priority: 0.88,
     }))
   );
 

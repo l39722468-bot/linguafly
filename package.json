@@ -44,7 +44,8 @@
     "validate-c2-structure": "node scripts/validate-c2-structure.mjs",
     "validate-weeks": "node scripts/validate-week.mjs src/content/weeks/*.json",
     "audit-seo": "node scripts/audit-blog-seo.mjs",
-    "audit:ui-es-cloudflare": "node scripts/audit-spanish-ui-cloudflare.mjs"
+    "audit:ui-es-cloudflare": "node scripts/audit-spanish-ui-cloudflare.mjs",
+    "generate:vocabulario": "python3 scripts/generate-public-vocabulario.py"
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.11",

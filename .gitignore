@@ -49,3 +49,6 @@ ADMIN_CREDENTIALS.md
 
 # Generated audit reports
 /reports/
+
+# Fuentes descargables para scripts/generate-public-vocabulario.py (Apertium, CMUdict, lista 10k)
+/scripts/data/

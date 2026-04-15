@@ -21,6 +21,27 @@ export function HomeBelowFold({ latestArticles }: HomeBelowFoldProps) {
             <h2 className="text-4xl sm:text-5xl font-black text-slate-900 mb-4">Explora por tipo de consulta</h2>
             <p className="text-xl text-slate-600 max-w-2xl mx-auto">Encuentra contenido según la duda que quieres resolver</p>
           </div>
+
+          <Link
+            href="/ingles-para-viajar"
+            className="block mb-10 rounded-3xl border-2 border-orange-200 bg-gradient-to-r from-orange-50 to-amber-50 p-6 sm:p-8 hover:border-orange-300 hover:shadow-lg transition-all group"
+          >
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+              <div className="text-left">
+                <p className="text-sm font-bold uppercase tracking-wide text-orange-700 mb-1">Para viajeros</p>
+                <p className="text-xl sm:text-2xl font-black text-slate-900 group-hover:text-orange-800 transition-colors">
+                  ✈️ Inglés para viajar: guía, frases, vocabulario con audio y blog
+                </p>
+                <p className="text-slate-600 mt-2 text-sm sm:text-base max-w-2xl">
+                  Todo lo esencial en una sola página: situaciones reales, listas temáticas y artículos de la categoría viajes.
+                </p>
+              </div>
+              <span className="shrink-0 inline-flex items-center justify-center rounded-2xl bg-orange-600 text-white font-black px-6 py-4 group-hover:bg-orange-700 transition-colors">
+                Ir al hub →
+              </span>
+            </div>
+          </Link>
+
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {[
               { href: "/blog/gramatica", title: "Gramática", desc: "Tiempos verbales, estructuras y reglas clave.", icon: "📚" },
@@ -48,7 +69,8 @@ export function HomeBelowFold({ latestArticles }: HomeBelowFoldProps) {
               <p className="text-lg text-slate-600">Últimas guías para tu aprendizaje del inglés</p>
               <div className="mt-4 flex flex-wrap gap-3">
                 <Link href="/blog/trabajo" className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-coral-50 text-coral-800 text-sm font-bold hover:bg-coral-100 transition-colors">💼 Trabajo</Link>
-                <Link href="/blog/viajes" className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-orange-50 text-orange-800 text-sm font-bold hover:bg-orange-100 transition-colors">✈️ Viajes</Link>
+                <Link href="/ingles-para-viajar" className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-orange-50 text-orange-800 text-sm font-bold hover:bg-orange-100 transition-colors border border-orange-200">✈️ Hub viajeros</Link>
+                <Link href="/blog/viajes" className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-orange-50/70 text-orange-900 text-sm font-bold hover:bg-orange-100 transition-colors">📰 Blog viajes</Link>
                 <Link href="/blog/examenes" className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-amber-50 text-amber-800 text-sm font-bold hover:bg-amber-100 transition-colors">📝 Exámenes</Link>
                 <Link href="/blog/metodos" className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-coral-50 text-coral-800 text-sm font-bold hover:bg-coral-100 transition-colors">🎯 Métodos</Link>
                 <Link href="/blog/gramatica" className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-blue-50 text-blue-700 text-sm font-bold hover:bg-blue-100 transition-colors">📚 Gramática</Link>

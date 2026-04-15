@@ -43,6 +43,9 @@ export function Navigation() {
             <Link href="/blog/gramatica" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors dark:text-slate-200 dark:hover:text-[#FF6B6B]">
               Gramática
             </Link>
+            <Link href="/vocabulario" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors dark:text-slate-200 dark:hover:text-[#FF6B6B]">
+              Vocabulario
+            </Link>
 
             {/* Dark Mode Toggle */}
             <button
@@ -111,6 +114,13 @@ export function Navigation() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Gramática
+              </Link>
+              <Link 
+                href="/vocabulario" 
+                className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors dark:text-slate-300"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Vocabulario
               </Link>
             </div>
           </div>

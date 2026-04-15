@@ -144,9 +144,13 @@ export default function SEOHubPage() {
                   <Briefcase className="w-4 h-4" />
                   Inglés para el trabajo
                 </Link>
-                <Link href="/blog/viajes" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-orange-50 text-orange-700 text-sm font-bold hover:bg-orange-100 transition-colors">
+                <Link href="/ingles-para-viajar" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-orange-50 text-orange-700 text-sm font-bold hover:bg-orange-100 transition-colors border-2 border-orange-200">
                   <Plane className="w-4 h-4" />
-                  Inglés para viajar
+                  Hub: inglés para viajar
+                </Link>
+                <Link href="/blog/viajes" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-orange-50/80 text-orange-800 text-sm font-bold hover:bg-orange-100 transition-colors">
+                  <Plane className="w-4 h-4" />
+                  Blog categoría viajes
                 </Link>
                 <Link href="/blog/examenes" className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-amber-50 text-amber-700 text-sm font-bold hover:bg-amber-100 transition-colors">
                   <GraduationCap className="w-4 h-4" />

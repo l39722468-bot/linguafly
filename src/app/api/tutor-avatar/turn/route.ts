@@ -1,10 +1,10 @@
 import { NextRequest, NextResponse } from 'next/server';
 import {
-  CF_DEEPGRAM_AURA_2_EN,
   CF_LLAMA_3_2_11B_VISION_INSTRUCT,
   CF_LLAMA_3_3_70B_INSTRUCT_FP8_FAST,
   CF_WHISPER_LARGE_V3_TURBO,
 } from '@/lib/ai/cloudflare-workers-ai-models';
+import { synthesizeAura2English } from '@/lib/ai/cloudflare-tts';
 
 export const maxDuration = 60;
 
@@ -133,23 +133,8 @@ async function chatWithLlama(
 
 async function textToSpeech(text: string, gender: string, accountId: string, apiToken: string): Promise<Buffer> {
   const speaker = gender === 'female' ? 'luna' : 'orion';
-  const res = await fetch(
-    `https://api.cloudflare.com/client/v4/accounts/${accountId}/ai/run/${CF_DEEPGRAM_AURA_2_EN}`,
-    {
-      method: 'POST',
-      headers: {
-        Authorization: `Bearer ${apiToken}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ text, speaker }),
-    }
-  );
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`TTS failed: ${err}`);
-  }
-  const arrayBuffer = await res.arrayBuffer();
-  return Buffer.from(arrayBuffer);
+  const { body } = await synthesizeAura2English(text, accountId, apiToken, speaker);
+  return Buffer.from(body);
 }
 
 export async function POST(request: NextRequest) {

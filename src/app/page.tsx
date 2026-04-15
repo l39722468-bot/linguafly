@@ -112,6 +112,16 @@ export default function HomePage() {
                 <span className="font-black text-gray-900">Gramática, frases y vocabulario</span>
               </div>
             </div>
+
+            <p className="text-center mt-10">
+              <Link
+                href="/ingles-para-viajar"
+                className="inline-flex items-center gap-2 text-base sm:text-lg font-black text-orange-800 bg-orange-50 hover:bg-orange-100 border-2 border-orange-200 px-5 py-3 rounded-2xl transition-colors"
+              >
+                <span aria-hidden>✈️</span>
+                ¿Vas a viajar? Hub: inglés práctico para aeropuerto, hotel y más
+              </Link>
+            </p>
           </div>
         </section>
 
