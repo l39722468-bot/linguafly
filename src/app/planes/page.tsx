@@ -92,7 +92,7 @@ export default function PlanesPage() {
                       <span className="text-slate-600 font-semibold">/ mes</span>
                     </div>
                     <p className="text-sm text-coral-600 font-bold">
-                      Incluye exámenes, especialización por sector e inglés para viajes
+                      Acceso completo con material didáctico y seguimiento de progreso
                     </p>
                   </div>
 

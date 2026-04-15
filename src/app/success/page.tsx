@@ -39,7 +39,7 @@ function SuccessContent() {
           </li>
           <li className="flex items-start gap-3">
             <span className="text-amber-600 mt-1">🎓</span>
-            <span>Ya puedes acceder a tus <strong>Cursos</strong> y empezar a aprender inmediatamente.</span>
+            <span>El siguiente paso obligatorio es completar tu <strong>test de nivel</strong>.</span>
           </li>
           <li className="flex items-start gap-3">
             <span className="text-amber-600 mt-1">📚</span>
@@ -59,7 +59,7 @@ function SuccessContent() {
           href="/onboarding"
           className="inline-flex items-center justify-center bg-amber-600 text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-amber-700 transition-colors"
         >
-          Empezar mi ruta personalizada
+          Empezar test de nivel
         </Link>
         <Link
           href="/"

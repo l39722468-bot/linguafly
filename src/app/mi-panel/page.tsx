@@ -3,6 +3,7 @@ import { redirect } from 'next/navigation';
 import { createClient } from '@/lib/supabase/server';
 import { Navigation } from '@/components/sections/Navigation';
 import LearningGoalSelector from '@/components/panel/LearningGoalSelector';
+import WorldMapPanel from '@/components/panel/WorldMapPanel';
 import { resolveEntitlements } from '@/lib/access/entitlements';
 import { getUserProfileByAuthId } from '@/lib/access/user-profile';
 
@@ -196,6 +197,10 @@ export default async function MiPanelPage({
       ? 'Ruta: Inglés profesional'
       : 'Ruta: General y exámenes oficiales';
 
+  if (entitlements.isPaid && !hasPlacementCompleted) {
+    redirect('/test-nivel?source=post-pago&next=/mi-panel');
+  }
+
   return (
     <>
       <Navigation />
@@ -238,7 +243,7 @@ export default async function MiPanelPage({
           )}
 
           <section className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
-            <Link href={hasPlacementCompleted ? "/curso-a1/outline" : "/test-nivel?source=panel&next=/mi-panel"} className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
+            <Link href={hasPlacementCompleted ? (recommendedOfficialCourses[0]?.href || "/curso-a1/outline") : "/test-nivel?source=panel&next=/mi-panel"} className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
               <div className="text-lg font-black text-slate-900">Mis cursos</div>
               <div className="text-sm text-slate-600 mt-1">
                 {hasPlacementCompleted
@@ -436,6 +441,8 @@ export default async function MiPanelPage({
               </div>
             </section>
           )}
+
+          {hasPlacementCompleted && entitlements.isPaid && <WorldMapPanel />}
 
           <section className="grid grid-cols-1 lg:grid-cols-3 gap-4">
             <div className="lg:col-span-1 bg-white border border-slate-200 rounded-2xl p-5">

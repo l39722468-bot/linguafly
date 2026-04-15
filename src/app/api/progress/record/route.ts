@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@/lib/supabase/server';
+import { completeWorldExercise } from '@/lib/world-progress';
 
 type ProgressRecordBody = {
   courseId: string; // e.g. 'ingles-a1'
@@ -34,6 +35,25 @@ export async function POST(request: NextRequest) {
 
     if (!courseId || !Number.isFinite(unitId) || !lessonKey || !exerciseId || !exerciseType) {
       return NextResponse.json({ error: 'Missing required fields' }, { status: 400 });
+    }
+
+    const { data: mappedWorldExercise } = await supabase
+      .from('world_exercises')
+      .select('id')
+      .eq('id', exerciseId)
+      .maybeSingle();
+
+    if (mappedWorldExercise) {
+      const { data: unlockState } = await supabase
+        .from('user_exercise_progress')
+        .select('status')
+        .eq('user_id', user.id)
+        .eq('exercise_id', exerciseId)
+        .maybeSingle();
+      if (unlockState?.status === 'locked') {
+        return NextResponse.json({ error: 'Ejercicio bloqueado' }, { status: 403 });
+      }
+      await completeWorldExercise(supabase, user.id, exerciseId, isCorrect ? 100 : 0);
     }
 
     // 1) Raw event

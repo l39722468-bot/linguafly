@@ -27,8 +27,6 @@ export const SUBSCRIPTION_PLANS: Record<string, SubscriptionPlan> = {
     popular: true,
     features: [
       'Acceso completo a los cursos (niveles A1 a C2)',
-      'Preparación para exámenes oficiales',
-      'Cursos especializados por sector y viajes',
       'Material didáctico y ejercicios interactivos',
       'Seguimiento de progreso',
       'Cancela cuando quieras',

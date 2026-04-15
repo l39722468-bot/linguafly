@@ -114,6 +114,11 @@ export default function RootLayout({
         {/* Schema.org structured data */}
         <OrganizationSchema />
         <WebsiteSchema />
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1198438843650445"
+          crossOrigin="anonymous"
+        />
         
         {/* Anti-piracy protection */}
         <meta name="robots" content="max-image-preview:large" />

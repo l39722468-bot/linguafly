@@ -122,7 +122,7 @@ export async function middleware(request: NextRequest) {
     if (user) {
     const { data } = await supabase
       .from("user_profiles")
-      .select("subscription_status, role")
+      .select("subscription_status, role, placement_completed, language_level, learning_goals")
       .eq("user_id", user.id)
       .single();
     profile = data;
@@ -233,6 +233,11 @@ export async function middleware(request: NextRequest) {
     const isToeflExempt = pathname.startsWith("/curso/toefl-");
     const isOutlineOnly = pathname === "/curso-a1/outline" || pathname === "/curso-a2/outline" || pathname === "/curso-b1/outline" || pathname === "/curso-b2/outline";
     const isStudentPanel = pathname.startsWith("/mi-panel");
+    const goals = Array.isArray((profile as any)?.learning_goals) ? ((profile as any).learning_goals as string[]) : [];
+    const hasPlacementCompleted =
+      Boolean((profile as any)?.placement_completed) ||
+      Boolean((profile as any)?.language_level) ||
+      goals.includes('placement_completed');
 
     // Admin: si el usuario autenticado no es admin, enviarlo al login de admin (no al de alumno)
     if (isAdminArea && !isAdmin) {
@@ -248,6 +253,23 @@ export async function middleware(request: NextRequest) {
       url.pathname = "/planes";
       url.searchParams.set("reason", "premium_required");
       url.searchParams.set("next", pathname);
+      return NextResponse.redirect(url, 303);
+    }
+
+    const needsPlacement =
+      isPaid &&
+      !isAdmin &&
+      !hasPlacementCompleted &&
+      !pathname.startsWith('/test-nivel') &&
+      !pathname.startsWith('/onboarding') &&
+      !pathname.startsWith('/success') &&
+      !pathname.startsWith('/mi-panel');
+
+    if (needsPlacement) {
+      const url = request.nextUrl.clone();
+      url.pathname = '/test-nivel';
+      url.searchParams.set('source', 'post-pago');
+      url.searchParams.set('next', '/mi-panel');
       return NextResponse.redirect(url, 303);
     }
   }
