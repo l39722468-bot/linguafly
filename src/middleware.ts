@@ -26,6 +26,15 @@ function isBlogRoute(pathname: string) {
   return pathname === "/blog" || pathname.startsWith("/blog/");
 }
 
+function normalizeBlogCategorySlug(category: string): string {
+  return category
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\s+/g, "-")
+    .replace(/[^\w-]/g, "");
+}
+
 function isPublicSEORoute(pathname: string) {
   return (
     pathname.startsWith("/frases-en-ingles/") ||
@@ -36,17 +45,15 @@ function isPublicSEORoute(pathname: string) {
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
 
-  if (pathname === "/blog/Trabajo" || pathname.startsWith("/blog/Trabajo/")) {
-    const url = request.nextUrl.clone();
-    url.pathname = pathname.replace("/blog/Trabajo", "/blog/trabajo");
-    return NextResponse.redirect(url, { status: 301 });
-  }
-
   if (pathname === "/blog") {
     const category = request.nextUrl.searchParams.get("category");
     if (category) {
+      const normalizedCategory = normalizeBlogCategorySlug(category);
+      if (!normalizedCategory) {
+        return NextResponse.next({ request });
+      }
       const url = request.nextUrl.clone();
-      url.pathname = `/blog/${category}`;
+      url.pathname = `/blog/${normalizedCategory}`;
       url.search = "";
       return NextResponse.redirect(url, { status: 301 });
     }
