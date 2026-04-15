@@ -23,9 +23,6 @@ export async function GET(request: NextRequest) {
         hasWebhookSecret: !!process.env.STRIPE_WEBHOOK_SECRET,
         priceVars: {
           basicMonthly: process.env.STRIPE_PRICE_BASIC_MONTHLY || 'NOT_SET',
-          basicYearly: process.env.STRIPE_PRICE_BASIC_YEARLY || 'NOT_SET',
-          premiumMonthly: process.env.STRIPE_PRICE_PREMIUM_MONTHLY || 'NOT_SET',
-          premiumYearly: process.env.STRIPE_PRICE_PREMIUM_YEARLY || 'NOT_SET',
         }
       }
     };

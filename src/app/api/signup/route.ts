@@ -34,11 +34,7 @@ async function createHubSpotContact(data: SignupFormData) {
 
   // Mapear cursos a formato legible
   const courseMap: { [key: string]: string } = {
-    'premium-monthly': 'Plan Premium Mensual',
-    'premium-yearly': 'Plan Premium Anual',
-    'basic-monthly': 'Plan Básico Mensual',
-    'basic-yearly': 'Plan Básico Anual',
-    'travel-pilot': 'Piloto: Inglés para Viajes',
+    'basic-monthly': 'Suscripción mensual',
     'trabajo': 'Inglés para Trabajar',
     'viajes': 'Inglés para Viajar',
     'examenes': 'Preparar Exámenes'

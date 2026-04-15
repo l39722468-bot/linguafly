@@ -32,8 +32,6 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    const isPilot = planId === 'travel-pilot';
-
     // Obtener Price ID de Stripe (si está configurado)
     const stripePriceId = getStripePriceId(planId);
     
@@ -68,11 +66,9 @@ export async function POST(request: NextRequest) {
                 description: `Plan ${plan.name} - ${plan.features[0]}`,
               },
               unit_amount: plan.price,
-              ...(isPilot ? {} : {
-                recurring: {
-                  interval: plan.interval,
-                },
-              }),
+              recurring: {
+                interval: plan.interval,
+              },
             },
             quantity: 1,
           },
@@ -82,7 +78,7 @@ export async function POST(request: NextRequest) {
     const session = await stripe.checkout.sessions.create({
       payment_method_types: ['card'],
       line_items: lineItems,
-      mode: isPilot ? 'payment' : 'subscription',
+      mode: 'subscription',
       success_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/success?session_id={CHECKOUT_SESSION_ID}`,
       cancel_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/planes`,
       customer_email: email,
@@ -103,14 +99,12 @@ export async function POST(request: NextRequest) {
       // subscription_data: {
       //   trial_period_days: 7,
       // },
-      ...(isPilot ? {} : {
-        subscription_data: {
-          metadata: {
-            planId,
-            email,
-          }
+      subscription_data: {
+        metadata: {
+          planId,
+          email,
         }
-      })
+      }
     });
 
     return NextResponse.json({ 

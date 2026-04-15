@@ -1,5 +1,4 @@
-// Configuración de planes de suscripción mensual
-// Sistema de suscripción de Focus English
+// Suscripción mensual única — Focus English
 
 export interface SubscriptionPlan {
   id: string;
@@ -19,88 +18,20 @@ export interface SubscriptionPlan {
 }
 
 export const SUBSCRIPTION_PLANS: Record<string, SubscriptionPlan> = {
-  // Plan Básico Mensual
   'basic-monthly': {
     id: 'basic-monthly',
-    name: 'Básico Mensual',
-    price: 1499, // €14.99
+    name: 'Suscripción mensual',
+    price: 99, // €0,99
     currency: 'eur',
     interval: 'month',
-    features: [
-      'Cursos de preparación para exámenes oficiales',
-      'Todos los niveles A1 a C2',
-      'Material didáctico completo',
-      'Ejercicios interactivos',
-      'Seguimiento de progreso',
-      'Soporte por email',
-      'Certificado al finalizar cada nivel',
-    ],
-    limitations: [
-      'Solo cursos de exámenes oficiales',
-      'No incluye cursos especializados por sector',
-      'No incluye curso de viajes',
-    ],
-    color: {
-      border: 'border-orange-200',
-      bg: 'bg-orange-50',
-      text: 'text-orange-600',
-      gradient: 'from-orange-500 to-peach-500',
-    },
-  },
-
-  // Plan Básico Anual (ahorro de ~11%)
-  'basic-yearly': {
-    id: 'basic-yearly',
-    name: 'Básico Anual',
-    price: 15999, // €159.99
-    currency: 'eur',
-    interval: 'year',
     popular: true,
     features: [
-      'Cursos de preparación para exámenes oficiales',
-      'Todos los niveles A1 a C2',
-      'Material didáctico completo',
-      'Ejercicios interactivos',
+      'Acceso completo a los cursos (niveles A1 a C2)',
+      'Preparación para exámenes oficiales',
+      'Cursos especializados por sector y viajes',
+      'Material didáctico y ejercicios interactivos',
       'Seguimiento de progreso',
-      'Soporte por email',
-      'Certificado al finalizar cada nivel',
-      '✨ Ahorra €19.89 al año (11% descuento)',
-    ],
-    limitations: [
-      'Solo cursos de exámenes oficiales',
-      'No incluye cursos especializados por sector',
-      'No incluye curso de viajes',
-    ],
-    color: {
-      border: 'border-orange-200',
-      bg: 'bg-orange-50',
-      text: 'text-orange-600',
-      gradient: 'from-orange-500 to-peach-500',
-    },
-  },
-  
-  // Plan Premium Mensual
-  'premium-monthly': {
-    id: 'premium-monthly',
-    name: 'Premium Mensual',
-    price: 2999, // €29.99
-    currency: 'eur',
-    interval: 'month',
-    features: [
-      'Todo lo incluido en el plan Básico',
-      'Cursos genéricos de preparación para exámenes oficiales',
-      'Cursos especializados por sector laboral',
-      'Curso de inglés para viajes',
-      'Todos los niveles A1 a C2',
-      'Sesiones ilimitadas',
-      'Clases en vivo semanales con profesores',
-      'Seguimiento personalizado',
-      'Corrección de ejercicios en 24h',
-      'Material descargable en PDF',
-      'Acceso a contenido exclusivo',
-      'Simulacros de exámenes oficiales',
-      'Comunidad privada de estudiantes',
-      'Prioridad en soporte técnico',
+      'Cancela cuando quieras',
     ],
     limitations: [],
     color: {
@@ -108,60 +39,6 @@ export const SUBSCRIPTION_PLANS: Record<string, SubscriptionPlan> = {
       bg: 'bg-coral-50',
       text: 'text-coral-600',
       gradient: 'from-coral-600 to-peach-600',
-    },
-  },
-
-  // Plan Premium Anual (ahorro de ~17%)
-  'premium-yearly': {
-    id: 'premium-yearly',
-    name: 'Premium Anual',
-    price: 29999, // €299.99
-    currency: 'eur',
-    interval: 'year',
-    features: [
-      'Todo lo incluido en el plan Básico',
-      'Cursos genéricos de preparación para exámenes oficiales',
-      'Cursos especializados por sector laboral',
-      'Curso de inglés para viajes',
-      'Todos los niveles A1 a C2',
-      'Sesiones ilimitadas',
-      'Clases en vivo semanales con profesores',
-      'Seguimiento personalizado',
-      'Corrección de ejercicios en 24h',
-      'Material descargable en PDF',
-      'Acceso a contenido exclusivo',
-      'Simulacros de exámenes oficiales',
-      'Comunidad privada de estudiantes',
-      'Prioridad en soporte técnico',
-      '✨ Ahorra €59.89 al año (17% descuento)',
-    ],
-    limitations: [],
-    color: {
-      border: 'border-coral-200',
-      bg: 'bg-coral-50',
-      text: 'text-coral-600',
-      gradient: 'from-coral-600 to-peach-600',
-    },
-  },
-
-  // Plan Piloto (Pago único)
-  'travel-pilot': {
-    id: 'travel-pilot',
-    name: 'Piloto: Inglés para Viajes',
-    price: 999, // €9.99
-    currency: 'eur',
-    interval: 'month', // No usado realmente para pago único pero mantenemos consistencia
-    features: [
-      'Acceso completo a la unidad "Llegada al aeropuerto"',
-      'Vídeos interactivos con hotspots',
-      'Evaluación de pronunciación con IA',
-      'Acceso de por vida a esta unidad',
-    ],
-    color: {
-      border: 'border-blue-200',
-      bg: 'bg-blue-50',
-      text: 'text-blue-600',
-      gradient: 'from-blue-500 to-indigo-600',
     },
   },
 };
@@ -176,7 +53,6 @@ export const LEGACY_COURSE_PRICES: Record<string, number> = {
   'C2': 54900, // €549.00
 };
 
-// Utilidad para formatear precios
 export function formatPrice(priceInCents: number, currency: string = 'EUR'): string {
   const price = priceInCents / 100;
   return new Intl.NumberFormat('es-ES', {
@@ -185,12 +61,10 @@ export function formatPrice(priceInCents: number, currency: string = 'EUR'): str
   }).format(price);
 }
 
-// Utilidad para obtener un plan por ID
 export function getPlanById(planId: string): SubscriptionPlan | null {
   return SUBSCRIPTION_PLANS[planId] || null;
 }
 
-// Utilidad para obtener todos los planes como array
 export function getAllPlans(): SubscriptionPlan[] {
   return Object.values(SUBSCRIPTION_PLANS);
 }

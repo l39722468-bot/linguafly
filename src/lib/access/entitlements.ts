@@ -15,10 +15,8 @@ export type UserEntitlements = {
 
 export function getPlanTier(plan: string | null | undefined, isPaid: boolean): PlanTier {
   if (!isPaid) return "free";
-  const normalized = String(plan || "").toLowerCase();
-  if (normalized.includes("premium")) return "premium";
-  if (normalized.includes("basic")) return "basic";
-  return "free";
+  // Suscripción mensual única: mismo acceso completo (antiguo «premium»)
+  return "premium";
 }
 
 export function resolveEntitlements(params: {

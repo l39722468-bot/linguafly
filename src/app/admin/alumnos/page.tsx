@@ -161,9 +161,6 @@ export default function AdminAlumnosPage() {
           <select value={newPlan} onChange={(e) => setNewPlan(e.target.value)} className="rounded-lg border border-slate-300 px-3 py-2 text-sm">
             <option value="free">free</option>
             <option value="basic-monthly">basic-monthly</option>
-            <option value="basic-yearly">basic-yearly</option>
-            <option value="premium-monthly">premium-monthly</option>
-            <option value="premium-yearly">premium-yearly</option>
           </select>
           <div className="flex gap-2">
             <select value={newStatus} onChange={(e) => setNewStatus(e.target.value)} className="rounded-lg border border-slate-300 px-3 py-2 text-sm flex-1">

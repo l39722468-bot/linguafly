@@ -8,9 +8,9 @@
 
 import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
-import { useState, FormEvent, useEffect } from "react";
+import { useState, FormEvent, useEffect, useMemo } from "react";
 import { loadStripe } from '@stripe/stripe-js';
-import { getAllPlans, formatPrice, type SubscriptionPlan } from "@/lib/subscription-plans";
+import { getAllPlans, formatPrice } from "@/lib/subscription-plans";
 import { getUser } from "@/lib/auth-helpers";
 import { supabase } from "@/lib/supabase-client";
 
@@ -29,9 +29,8 @@ const getStripe = async () => {
 let stripePromise: Promise<any> | null = null;
 
 export default function SignupPage() {
-  // No mostrar el plan piloto de viajes en el flujo de registro.
-  const plans = getAllPlans().filter((plan) => plan.id !== 'travel-pilot');
-  const [selectedPlan, setSelectedPlan] = useState<string>("");
+  const plans = useMemo(() => getAllPlans(), []);
+  const [selectedPlan, setSelectedPlan] = useState<string>('basic-monthly');
   const [formData, setFormData] = useState({
     firstName: "",
     lastName: "",
@@ -65,8 +64,10 @@ export default function SignupPage() {
 
     const params = new URLSearchParams(window.location.search);
     const planParam = params.get('plan');
-    if (planParam && plans.some(p => p.id === planParam)) {
+    if (planParam && plans.some((p) => p.id === planParam)) {
       setSelectedPlan(planParam);
+    } else {
+      setSelectedPlan('basic-monthly');
     }
 
     loadUserData();
@@ -86,14 +87,6 @@ export default function SignupPage() {
   const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     
-    if (!selectedPlan) {
-      setSubmitStatus({
-        type: "error",
-        message: "Por favor, selecciona un plan antes de continuar."
-      });
-      return;
-    }
-
     setIsSubmitting(true);
     setSubmitStatus({ type: null, message: "" });
 
@@ -191,7 +184,7 @@ export default function SignupPage() {
             </h1>
             
             <p className="text-xl text-slate-600 mb-8 max-w-2xl mx-auto">
-              Selecciona tu plan, completa tus datos y realiza el pago seguro para acceder inmediatamente a todos los cursos.
+              Suscripción mensual a {formatPrice(plans[0]?.price ?? 99)}: completa tus datos y paga de forma segura para acceder a todo el contenido.
             </p>
 
             <div className="flex justify-center gap-4">
@@ -209,31 +202,28 @@ export default function SignupPage() {
         <section className="py-16 bg-white">
           <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-3xl font-black text-slate-900 mb-4 text-center">
-              1. Selecciona Tu Plan
+              1. Tu suscripción
             </h2>
             <p className="text-center text-slate-600 mb-12">
-              Suscripción mensual sin permanencia · Cancela cuando quieras
+              Un único plan mensual · Sin permanencia · Cancela cuando quieras
             </p>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <div className="grid grid-cols-1 md:grid-cols-1 gap-8 max-w-xl mx-auto">
               {plans.map((plan) => (
                 <button
                   key={plan.id}
+                  type="button"
                   onClick={() => setSelectedPlan(plan.id)}
                   className={`relative text-left bg-white rounded-2xl p-8 border-2 transition-all hover:shadow-xl ${
                     selectedPlan === plan.id
                       ? `${plan.color.border} shadow-xl ring-4 ring-coral-100`
                       : 'border-slate-200 hover:border-slate-300'
-                  } ${plan.popular ? 'md:scale-105' : ''}`}
+                  }`}
                 >
-                  {plan.popular && (
-                    <div className="absolute top-0 right-0 bg-gradient-to-r from-coral-500 to-peach-500 text-white px-4 py-1 rounded-bl-lg rounded-tr-lg font-bold text-sm">
-                      ⭐ Más Popular
-                    </div>
-                  )}
-                  
-                  <div className={`inline-flex items-center justify-center w-16 h-16 rounded-xl bg-gradient-to-br ${plan.color.gradient} text-white font-black text-3xl mb-4 ${plan.popular ? 'mt-6' : ''}`}>
-                    {plan.id === 'premium' ? '👑' : '📺'}
+                  <div
+                    className={`inline-flex items-center justify-center w-16 h-16 rounded-xl bg-gradient-to-br ${plan.color.gradient} text-white font-black text-3xl mb-4`}
+                  >
+                    📚
                   </div>
                   
                   <h3 className="text-2xl font-black text-slate-900 mb-2">
@@ -274,7 +264,7 @@ export default function SignupPage() {
 
             <div className="mt-8 text-center">
               <Link href="/planes" className="text-coral-600 font-bold hover:underline">
-                Ver comparación completa de planes →
+                Ver condiciones y preguntas frecuentes →
               </Link>
             </div>
           </div>
