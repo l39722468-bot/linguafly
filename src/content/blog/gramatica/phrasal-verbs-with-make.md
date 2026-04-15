@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Aprende los phrasal verbs con MAKE más importantes en inglés: make up, make out, make up for, make do with y más de 20 combinaciones esenciales con ejemplos claros.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona aprendiendo phrasal verbs con MAKE en un cuaderno
 readTime: 7 min
 keywords:

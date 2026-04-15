@@ -8,8 +8,6 @@ description: >-
   programación, comunicación en standups y code reviews, escritura de
   documentación técnica y reuniones ágiles en inglés.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Ingeniero de software trabajando en código con un equipo internacional remoto en inglés
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-para-ingenieros-software

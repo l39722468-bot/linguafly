@@ -9,7 +9,6 @@ excerpt: >-
   Los pares mínimos son dos palabras que solo se diferencian en un sonido. Practicarlos es la forma más directa de entrenar tanto la percepción como la producción de los fonemas que más te cuestan. Aquí tienes más de 80 pares organizados por sonido.
 category: gramatica
 readTime: 10 min
-image: 'https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona escuchando con auriculares y practicando pronunciación
 keywords:
   - pares minimos ingles

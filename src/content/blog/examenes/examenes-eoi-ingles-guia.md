@@ -22,7 +22,6 @@ keywords:
   - EOI c1 ingles
   - preparar examen EOI ingles
   - matricula EOI ingles
-image: 'https://images.pexels.com/photos/256455/pexels-photo-256455.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: 'Estudiante preparando el examen de inglés de la Escuela Oficial de Idiomas'
 canonical: 'https://www.focus-on-english.com/blog/examenes/examenes-eoi-ingles-guia'
 faqs:

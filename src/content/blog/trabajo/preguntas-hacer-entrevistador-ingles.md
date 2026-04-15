@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-17'
 updatedDate: '2026-03-12'
-image: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Candidata haciendo preguntas al entrevistador en entrevista de trabajo en inglés
 category: trabajo
 faqs:

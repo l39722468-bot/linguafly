@@ -14,7 +14,6 @@ keywords:
   - dictado inglés b1 b2
   - silent b practice
   - letras mudas ejercicios
-image: 'https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg'
 alt: Cuaderno y lápiz sobre mesa de estudio
 excerpt: >-
   Rutina de estudio de 30 minutos: lectura en voz alta, dictado guiado y pares

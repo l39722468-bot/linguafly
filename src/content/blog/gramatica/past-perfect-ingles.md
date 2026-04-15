@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Past Perfect en inglés: cuándo usarlo y por qué lo necesitas. Aprende a expresar lo que ocurrió antes de otro evento pasado con ejemplos prácticos y ejercicios para B2-C1.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Línea de tiempo mostrando el Past Perfect en relación al Past Simple
 readTime: 9 min
 keywords:

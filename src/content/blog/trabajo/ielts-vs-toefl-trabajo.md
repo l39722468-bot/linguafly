@@ -21,7 +21,6 @@ date: '2026-02-05'
 updatedDate: '2026-03-10'
 category: trabajo
 author: sara-mendez
-image: 'https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg'
 faqs:
   - question: ¿Qué examen es más reconocido por las empresas?
     answer: >-

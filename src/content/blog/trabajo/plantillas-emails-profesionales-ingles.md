@@ -8,8 +8,6 @@ description: >-
   utilizadas. Desde solicitudes de reunión hasta seguimiento de proyectos y
   gestión de reclamaciones.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/1591062/pexels-photo-1591062.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona escribiendo un email profesional en inglés en su portátil
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/plantillas-emails-profesionales-ingles

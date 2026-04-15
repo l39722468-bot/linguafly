@@ -14,7 +14,6 @@ keywords:
 author: david-torres
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-image: "https://images.pexels.com/photos/7092461/pexels-photo-7092461.jpeg?auto=compress&cs=tinysrgb&w=1200"
 category: examenes
 faqs:
   - question: "¿Cuánto dura el Speaking del CAE?"

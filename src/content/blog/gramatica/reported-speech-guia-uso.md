@@ -21,7 +21,6 @@ keywords:
 author: david-torres
 date: '2026-03-02'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg'
 category: gramatica
 canonical: 'https://www.focus-on-english.com/blog/gramatica/reported-speech-guia-uso'
 faqs:
@@ -33,7 +32,6 @@ faqs:
     answer: 'Al reportar algo, el "aquí y ahora" del hablante original suele ser "allí y entonces" para nosotros. Por eso, debemos ajustar los adverbios de tiempo y lugar.'
   - question: '¿Preguntas en Reported Speech?'
     answer: 'Transformar preguntas es donde la mayoría de los estudiantes comete errores. La regla clave es: la pregunta deja de serlo. Esto significa que: 1.  El orden de las palabras vuelve a ser el de una afirmación (Sujeto + Verbo). 2.  No se usan los auxiliares do, does o did.'
-
 ---
 
 El **Reported Speech** (o estilo indirecto) es una de las herramientas más potentes y, a la vez, desafiantes de la gramática inglesa. Se utiliza fundamentalmente cuando queremos transmitir lo que otra persona ha dicho, pero sin repetir sus palabras exactas (lo que se conoce como *Direct Speech*).

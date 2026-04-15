@@ -19,7 +19,6 @@ canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-emergencias-viaj
 related_routes:
   - ingles-para-viajar-guia
   - ingles-hoteles-guia
-image: 'https://images.pexels.com/photos/2582937/pexels-photo-2582937.jpeg'
 alt: Emergencias médicas durante un viaje
 faqs:
   - question: '¿Emergencias en Inglés?'

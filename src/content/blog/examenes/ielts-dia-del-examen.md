@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Guía práctica para el día del examen IELTS: documentación necesaria, qué pasa en cada parte, errores de logística que cuestan puntos y cómo gestionar los nervios el día D.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Reloj de pulsera y bolígrafo sobre un escritorio el día del examen
 readTime: 6 min
 keywords:

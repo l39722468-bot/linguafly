@@ -22,7 +22,6 @@ keywords:
 author: david-torres
 date: '2026-03-06'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3807571/pexels-photo-3807571.jpeg'
 alt: 'Phrasal verbs con PUT en inglés: put off, put up, put on explicados'
 category: gramatica
 canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-with-put'
@@ -35,7 +34,6 @@ faqs:
     answer: 'Significado: Hacer que alguien pierda interés o entusiasmo. - The long queue put me off going to the concert. (La cola larga me quitó las ganas de ir al concierto.) - His attitude really puts me off. (Su actitud me echa para atrás.) - Don''t let the price put you off—it''s worth it. (No dejes que el...'
   - question: '¿Distraer a alguien?'
     answer: 'Significado: Interrumpir la concentración de alguien. - Stop talking—you''re putting me off. (Deja de hablar, me estás distrayendo.) - The noise put him off during the exam. (El ruido lo distrajo durante el examen.)'
-
 ---
 
 El verbo **PUT** en inglés significa básicamente "colocar, poner". Pero cuando lo combinas con diferentes partículas, su significado se transforma radicalmente. *Put off* no tiene nada que ver con poner algo; *put up with* tampoco.

@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-07'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/6476808/pexels-photo-6476808.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Tableta mostrando una web de noticias en inglés con voz pasiva en titulares
 category: gramatica
 faqs:

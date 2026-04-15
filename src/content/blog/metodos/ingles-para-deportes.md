@@ -9,8 +9,6 @@ excerpt: >-
   Aprende el vocabulario en inglés de los deportes más populares: fútbol, baloncesto, tenis, atletismo y más. Frases para ver, hablar y comentar deportes en inglés con naturalidad.
 category: metodos
 readTime: 14 min
-image: >-
-  https://images.pexels.com/photos/46798/the-ball-stadion-football-the-pitch-46798.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Estadio de fútbol con el césped visto desde las gradas
 keywords:
   - ingles para deportes

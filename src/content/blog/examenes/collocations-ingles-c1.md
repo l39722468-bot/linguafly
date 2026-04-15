@@ -14,7 +14,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-21'
 updatedDate: '2026-03-21'
-image: "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=1200"
 category: examenes
 faqs:
   - question: "¿Qué es exactamente una collocation en inglés?"

@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-08'
 updatedDate: '2026-02-08'
-image: 'https://images.pexels.com/photos/3756766/pexels-photo-3756766.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Cuántas vocales tiene el inglés en total?'

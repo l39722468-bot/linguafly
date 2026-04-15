@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Domina los phrasal verbs con GO: go on, go off, go through, go out, go ahead y más de 25 combinaciones esenciales con ejemplos claros y contexto real.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Flechas de señalización que representan phrasal verbs con GO en inglés
 readTime: 8 min
 keywords:

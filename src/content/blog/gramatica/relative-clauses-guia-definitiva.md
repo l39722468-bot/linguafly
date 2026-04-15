@@ -16,7 +16,6 @@ keywords:
 author: david-torres
 date: '2026-03-02'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Defining vs Non-Defining Relative Clauses: cuál es mejor?'

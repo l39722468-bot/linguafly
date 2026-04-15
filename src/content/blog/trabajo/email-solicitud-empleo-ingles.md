@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-21'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona enviando email de solicitud de empleo en inglés con su CV adjunto
 category: trabajo
 faqs:

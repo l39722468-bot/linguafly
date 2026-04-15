@@ -19,7 +19,6 @@ date: '2026-02-05'
 updatedDate: '2026-03-10'
 category: examenes
 author: david-torres
-image: 'https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg'
 faqs:
   - question: ¿Qué tipos de textos pueden caer en el C1 Writing?
     answer: >-

@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Todo sobre el IELTS General Training: diferencias con el Academic, cómo funciona el Reading y el Writing GT, qué países y visas lo aceptan, y plan de preparación según tu objetivo.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Pasaporte y documentos de viaje para inmigración con IELTS General Training
 readTime: 7 min
 keywords:

@@ -8,8 +8,6 @@ description: >-
   comunicación. Storytelling profesional, manejo de silencios, lenguaje corporal
   y estrategias de negociación para candidatos B2-C1.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Profesional senior en una entrevista de trabajo internacional hablando en inglés
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/job-interview-english-consejos-avanzados

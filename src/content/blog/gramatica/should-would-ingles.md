@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Guía completa de should y would en inglés: consejos, expectativas, condicionales, peticiones corteses y mucho más. Con ejemplos reales y comparativas para evitar los errores más frecuentes.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona estudiando should y would en inglés con ejemplos y tablas
 readTime: 7 min
 keywords:

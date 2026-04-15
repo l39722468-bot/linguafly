@@ -19,7 +19,6 @@ keywords:
 author: david-torres
 date: '2026-03-06'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/4778621/pexels-photo-4778621.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Estudiante preparando el examen B2 con ejercicios de condicionales en inglés
 category: gramatica
 faqs:

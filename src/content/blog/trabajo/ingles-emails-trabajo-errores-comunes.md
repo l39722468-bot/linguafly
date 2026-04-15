@@ -8,8 +8,6 @@ description: >-
   inglés y cómo corregirlos. Guía práctica con ejemplos reales y alternativas
   mejoradas.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Profesional revisando y corrigiendo un email en inglés en su ordenador
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-emails-trabajo-errores-comunes

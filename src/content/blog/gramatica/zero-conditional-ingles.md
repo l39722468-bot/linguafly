@@ -18,7 +18,6 @@ keywords:
 author: david-torres
 date: '2026-02-04'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/1370298/pexels-photo-1370298.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Estudiante anotando reglas del zero conditional en inglés en su cuaderno
 category: gramatica
 faqs:

@@ -21,7 +21,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-20'
 updatedDate: '2026-02-20'
-image: 'https://images.pexels.com/photos/5905710/pexels-photo-5905710.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Para qué nivel de inglés son útiles los pares mínimos?'

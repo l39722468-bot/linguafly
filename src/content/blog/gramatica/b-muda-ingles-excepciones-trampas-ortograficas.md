@@ -14,7 +14,6 @@ keywords:
   - silent b lista
   - spelling inglés b2
   - trampas inglés pronunciación
-image: 'https://images.pexels.com/photos/159752/book-open-book-reading-159752.jpeg'
 alt: Libro abierto sobre mesa
 excerpt: >-
   Evita trampas comunes: confundir *debit* y *debt*, olvidar la b en *doubt* o

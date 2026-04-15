@@ -12,8 +12,6 @@ excerpt: >-
   12 semanas, las estrategias clave para cada parte del examen y las bandas
   necesarias para emigrar o estudiar en el extranjero en 2026.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/5905445/pexels-photo-5905445.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Candidato preparando el IELTS con materiales de estudio y práctica de speaking
 canonical: >-
   https://www.focus-on-english.com/blog/examenes/preparar-ielts-desde-b2

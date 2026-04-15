@@ -17,7 +17,6 @@ keywords:
 author: focus-english-team
 date: '2026-03-29'
 updatedDate: '2026-03-29'
-image: 'https://images.pexels.com/photos/3434696/pexels-photo-3434696.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Calle con ambiente urbano evocando viaje por Irlanda
 category: viajes
 faqs:

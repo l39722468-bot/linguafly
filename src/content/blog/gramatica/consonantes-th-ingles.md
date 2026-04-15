@@ -20,7 +20,6 @@ keywords:
 author: david-torres
 date: '2026-02-11'
 updatedDate: '2026-02-11'
-image: 'https://images.pexels.com/photos/1036622/pexels-photo-1036622.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Es la TH inglesa igual que la Z española del centro de España?'

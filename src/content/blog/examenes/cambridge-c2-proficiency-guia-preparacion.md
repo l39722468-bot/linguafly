@@ -8,8 +8,6 @@ description: >-
   Estructura del examen, partes más difíciles, estrategias de estudio y
   recursos para alcanzar el nivel máximo de inglés certificado.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Estudiante avanzado preparando el Cambridge C2 Proficiency con materiales de estudio
 canonical: >-
   https://www.focus-on-english.com/blog/examenes/cambridge-c2-proficiency-guia-preparacion

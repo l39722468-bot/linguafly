@@ -16,7 +16,6 @@ keywords:
   - report structure b2
   - reported speech
 canonical: 'https://www.focus-on-english.com/blog/examenes/reported-speech-cambridge-exams'
-image: 'https://images.pexels.com/photos/3184311/pexels-photo-3184311.jpeg'
 alt: Personas hablando representando el reported speech
 faqs:
   - question: '¿Cómo se evalúa el Reported Speech en los exámenes Cambridge?'

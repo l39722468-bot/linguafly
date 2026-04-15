@@ -9,7 +9,6 @@ excerpt: >-
   El Alfabeto Fonético Internacional no es solo para lingüistas. Saber usar el IPA en tu rutina de estudio puede ahorrarte años de pronunciación incorrecta. Aquí te explico qué aprender primero, qué herramientas usar y cómo integrarlo en tu estudio sin que sea un dolor de cabeza.
 category: gramatica
 readTime: 8 min
-image: 'https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Cuadro fonético internacional del inglés en papel
 keywords:
   - IPA ingles guia practica

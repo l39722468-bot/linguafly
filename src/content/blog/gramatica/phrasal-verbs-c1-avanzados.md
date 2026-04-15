@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Phrasal verbs de nivel C1 para el CAE y el uso profesional: formas avanzadas en registro formal, escritura académica y conversación de alto nivel con ejemplos en contexto.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/3184306/pexels-photo-3184306.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Profesional revisando documentos con phrasal verbs avanzados en inglés
 readTime: 8 min
 keywords:

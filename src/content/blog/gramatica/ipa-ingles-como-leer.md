@@ -21,7 +21,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-26'
 updatedDate: '2026-02-26'
-image: 'https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿El IPA del inglés americano y el británico es el mismo?'

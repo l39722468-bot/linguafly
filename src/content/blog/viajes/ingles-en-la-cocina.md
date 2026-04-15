@@ -9,8 +9,6 @@ excerpt: >-
   Aprende el vocabulario culinario en inglés: utensilios, técnicas de cocina, ingredientes y cómo leer recetas en inglés. Ideal para trabajar en hostelería o simplemente cocinar con recetas anglosajonas.
 category: viajes
 readTime: 13 min
-image: >-
-  https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Cocina profesional con utensilios y alimentos preparados
 keywords:
   - ingles en la cocina

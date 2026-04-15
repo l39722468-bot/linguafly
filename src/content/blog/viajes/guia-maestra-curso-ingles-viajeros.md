@@ -11,8 +11,6 @@ excerpt: >-
   experiencias inolvidables, seguras y conectadas con la cultura local.
 category: viajes
 readTime: 12 min
-image: >-
-  https://images.pexels.com/photos/1051075/pexels-photo-1051075.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: >-
   Persona caminando por una calle pintoresca de una ciudad europea con una
   maleta

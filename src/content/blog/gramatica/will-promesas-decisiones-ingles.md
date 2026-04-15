@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Will para promesas y decisiones espontáneas en inglés: cómo funciona, cuándo usarlo y en qué se diferencia de going to. Ejemplos reales y ejercicios incluidos.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/3824771/pexels-photo-3824771.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona haciendo una promesa en inglés usando will
 readTime: 7 min
 keywords:

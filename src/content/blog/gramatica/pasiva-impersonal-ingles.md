@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-11'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Pantalla de televisión con noticias en inglés usando pasiva impersonal
 category: gramatica
 faqs:

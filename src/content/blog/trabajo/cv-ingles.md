@@ -9,8 +9,6 @@ excerpt: >-
   errores que debes evitar.
 category: trabajo
 readTime: 18 min
-image: >-
-  https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona revisando un currículum vitae impreso sobre un escritorio
 keywords:
   - cv ingles

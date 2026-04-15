@@ -9,7 +9,6 @@ excerpt: >-
   ¿Estudias inglés en el metro, en un avión o en zonas sin cobertura? Descubre qué apps funcionan sin internet, cuáles tienen modo offline real y cuáles te engañan, cómo configurarlas para aprovechar al máximo el modo sin conexión, y las mejores opciones para aprender inglés sin gastar datos.
 category: metodos
 readTime: 11 min
-image: 'https://images.pexels.com/photos/4348403/pexels-photo-4348403.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona estudiando inglés en el móvil dentro de un avión sin conexión a internet
 keywords:
   - apps inglés sin internet

@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-19'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3783471/pexels-photo-3783471.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona mirando hacia fuera expresando deseos con wish e if only en inglés
 category: gramatica
 faqs:

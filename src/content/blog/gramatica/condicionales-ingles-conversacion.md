@@ -19,7 +19,6 @@ keywords:
 author: david-torres
 date: '2026-02-22'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3153198/pexels-photo-3153198.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Dos personas conversando en inglés usando condicionales de forma natural
 category: gramatica
 faqs:

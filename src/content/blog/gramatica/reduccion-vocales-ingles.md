@@ -21,7 +21,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-16'
 updatedDate: '2026-02-16'
-image: 'https://images.pexels.com/photos/4145153/pexels-photo-4145153.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Tengo que usar el schwa para que me entiendan bien?'

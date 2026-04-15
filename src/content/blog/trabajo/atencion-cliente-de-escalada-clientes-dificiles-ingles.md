@@ -14,7 +14,6 @@ keywords:
   - inglés customer service conflictos
   - de-escalation inglés
   - inglés call center difícil
-image: 'https://images.pexels.com/photos/3771097/pexels-photo-3771097.jpeg'
 alt: Persona en atención telefónica con auriculares
 excerpt: >-
   Frases y marcos mentales para gestionar ira, amenazas y presión en inglés:

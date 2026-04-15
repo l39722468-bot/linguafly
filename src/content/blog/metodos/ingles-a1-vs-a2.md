@@ -18,7 +18,6 @@ date: '2024-02-03'
 updatedDate: '2026-03-10'
 category: metodos
 author: sara-mendez
-image: 'https://images.pexels.com/photos/5905711/pexels-photo-5905711.jpeg'
 faqs:
   - question: '¿Cuál es la diferencia real entre A1 y A2?'
     answer: >-

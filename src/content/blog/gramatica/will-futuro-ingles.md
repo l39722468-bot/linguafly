@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Will para el futuro en inglés: predicciones, expectativas y hechos futuros. Aprende cuándo usar will y cuándo preferir going to o el Present Continuous para hablar del futuro.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Estudiante aprendiendo el futuro con will en inglés
 readTime: 8 min
 keywords:

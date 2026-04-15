@@ -11,8 +11,6 @@ excerpt: >-
   etiqueta internacional.
 category: viajes
 readTime: 15 min
-image: >-
-  https://images.pexels.com/photos/1450340/pexels-photo-1450340.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: >-
   Vista icónica del Big Ben y el Parlamento en Londres representando la cultura
   británica

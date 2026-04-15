@@ -14,7 +14,6 @@ keywords:
   - debt inglés
   - subtle inglés
   - ortografía inglés b
-image: 'https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg'
 alt: Libros apilados en librería
 excerpt: >-
   Guía didáctica sobre palabras con b histórica: trucos de memoria, errores al

@@ -11,8 +11,6 @@ excerpt: >-
   tranquilidad.
 category: viajes
 readTime: 15 min
-image: >-
-  https://images.pexels.com/photos/263402/pexels-photo-263402.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: >-
   Primer plano de equipamiento médico representando seguridad y salud en el
   viaje

@@ -9,7 +9,6 @@ excerpt: >-
   El inglés de Nueva Zelanda es uno de los más jóvenes del mundo y uno de los más llamativos fonéticamente. La "i" que suena como "u", el "fish and chips" que se escucha como "fush and chups" y la influencia del maorí hacen de este acento un caso fascinante.
 category: gramatica
 readTime: 6 min
-image: 'https://images.pexels.com/photos/3889827/pexels-photo-3889827.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Paisaje de Nueva Zelanda con el cielo estrellado representando la diversidad del inglés
 keywords:
   - ingles nueva zelanda caracteristicas

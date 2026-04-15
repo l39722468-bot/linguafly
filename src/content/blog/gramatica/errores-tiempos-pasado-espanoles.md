@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Los errores más frecuentes con el past simple, present perfect y past continuous que cometen los hablantes de español, con explicaciones claras y cómo corregirlos.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/3807571/pexels-photo-3807571.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona corrigiendo errores gramaticales en tiempos de pasado en inglés
 readTime: 7 min
 keywords:

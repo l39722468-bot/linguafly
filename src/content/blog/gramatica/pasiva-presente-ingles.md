@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-05'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Estudiante practicando la voz pasiva en presente en inglés con ejemplos escritos
 category: gramatica
 faqs:

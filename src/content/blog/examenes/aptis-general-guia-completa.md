@@ -22,7 +22,6 @@ keywords:
   - preparar aptis general
   - aptis general precio 2026
   - aptis british council
-image: 'https://images.pexels.com/photos/4145356/pexels-photo-4145356.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: 'Estudiante realizando un examen de inglés por ordenador para el Aptis General'
 canonical: 'https://www.focus-on-english.com/blog/examenes/aptis-general-guia-completa'
 faqs:

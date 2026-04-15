@@ -14,7 +14,6 @@ keywords:
   - coloquialismo australiano
   - registro inglés informal
   - inglés australia trabajo
-image: 'https://images.pexels.com/photos/3392939/pexels-photo-3392939.jpeg'
 alt: Café urbano en Australia ambiente casual
 excerpt: >-
   Aprende a entender slang australiano sin convertirte en caricatura: matices

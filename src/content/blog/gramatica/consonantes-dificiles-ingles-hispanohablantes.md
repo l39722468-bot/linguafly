@@ -9,7 +9,6 @@ excerpt: >-
   El español y el inglés comparten muchas consonantes, pero hay varias que simplemente no existen en español. La /v/, la /w/, la /ŋ/ nasal, la /ʒ/, la /r/ retrofleja... estas son las que realmente marcan la diferencia entre un acento fuerte y uno neutralizado.
 category: gramatica
 readTime: 9 min
-image: 'https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Diagrama de articulación de consonantes del inglés
 keywords:
   - consonantes dificiles ingles

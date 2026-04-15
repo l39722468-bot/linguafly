@@ -14,7 +14,6 @@ keywords:
 author: david-torres
 date: '2026-03-23'
 updatedDate: '2026-03-23'
-image: "https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=1200"
 category: examenes
 faqs:
   - question: "¿Qué es una inversión en inglés y cuándo se usa?"

@@ -9,7 +9,6 @@ excerpt: >-
   Para muchos hispanohablantes, el inglés canadiense suena prácticamente idéntico al americano. Pero hay diferencias sistemáticas en las vocales, en el vocabulario y en algunos patrones de entonación que lo hacen inconfundible una vez que sabes escucharlas.
 category: gramatica
 readTime: 6 min
-image: 'https://images.pexels.com/photos/1534560/pexels-photo-1534560.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Paisaje canadiense nevado evocando el inglés de Canadá
 keywords:
   - ingles canadiense diferencias americano

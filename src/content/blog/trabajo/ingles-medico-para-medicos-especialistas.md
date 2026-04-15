@@ -8,8 +8,6 @@ description: >-
   historias clínicas, comunicación en congresos, publicaciones científicas y
   gestión de consultas con pacientes internacionales.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/4167541/pexels-photo-4167541.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Médico especialista revisando literatura médica científica en inglés
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-medico-para-medicos-especialistas

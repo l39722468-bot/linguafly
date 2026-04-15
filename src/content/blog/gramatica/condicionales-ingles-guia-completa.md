@@ -16,7 +16,6 @@ description: >-
   Condicionales en inglés: guía completa de los cuatro tipos (Zero, First, Second y Third Conditional) con ejemplos, diferencias y ejercicios. Esencial para B1-C1.
 date: '2026-03-02'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/5905714/pexels-photo-5905714.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Qué es zero conditional y cómo se usa?'

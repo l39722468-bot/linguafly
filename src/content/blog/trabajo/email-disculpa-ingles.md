@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-15'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/5717456/pexels-photo-5717456.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona escribiendo un email de disculpa profesional en inglés en su ordenador
 category: trabajo
 faqs:

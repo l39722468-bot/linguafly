@@ -3,7 +3,6 @@ category: examenes
 date: '2026-02-07'
 updatedDate: '2026-03-07'
 author: david-torres
-image: "https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg?auto=compress&cs=tinysrgb&w=1200"
 alt: "Estudiante preparando su examen de nivel B1 de inglés"
 title: 'Preparación Examen B1 Inglés: Guía Completa PET, Aptis y Linguaskill'
 description: >-

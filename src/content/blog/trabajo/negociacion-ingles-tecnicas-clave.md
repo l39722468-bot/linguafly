@@ -9,8 +9,6 @@ excerpt: >-
   con nuestra guía completa.
 category: trabajo
 readTime: 14 min
-image: >-
-  https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Dos profesionales estrechando la mano tras una exitosa negociación comercial
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/negociacion-ingles-tecnicas-clave

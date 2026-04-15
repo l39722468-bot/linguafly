@@ -37,7 +37,6 @@ related_routes:
   - ingles-b1
   - ingles-b2
   - ingles-para-viajar
-image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg'
 alt: Profesionales colaborando en una reunión internacional en inglés
 faqs:
   - question: ¿Cómo puedo mejorar mi inglés si mi trabajo es 100% remoto?

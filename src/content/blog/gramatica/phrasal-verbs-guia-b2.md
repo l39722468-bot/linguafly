@@ -21,7 +21,6 @@ keywords:
 author: david-torres
 date: '2026-03-02'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/5699456/pexels-photo-5699456.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: 'Lista definitiva de phrasal verbs B2 para el First Certificate FCE'
 category: gramatica
 canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-guia-b2'
@@ -34,7 +33,6 @@ faqs:
     answer: 'Agrupar los verbos por contexto (trabajo, salud, relaciones) ayuda a crear conexiones neuronales más fuertes.'
   - question: '¿� Material de Estudio?'
     answer: 'Aquí tienes la lista más completa para tu nivel B2. Te recomendamos copiar este material o imprimirlo para tus sesiones de estudio.'
-
 ---
 
 Los **phrasal verbs** son el "talón de Aquiles" de muchos estudiantes que preparan el nivel B2. Sin embargo, en el nivel **Intermedio-Alto (B2 First)**, dejar de usarlos no es una opción si quieres sonar natural y aprobar el *Use of English* del First Certificate (FCE).

@@ -22,7 +22,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-10'
 updatedDate: '2026-02-10'
-image: 'https://images.pexels.com/photos/256395/pexels-photo-256395.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Si el ritmo es tan importante, debería centrarse en él antes que en los sonidos?'

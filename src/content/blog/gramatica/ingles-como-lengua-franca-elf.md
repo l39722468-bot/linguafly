@@ -9,7 +9,6 @@ excerpt: >-
   En la mayoría de las conversaciones en inglés del mundo, ninguno de los participantes es nativo. Este es el inglés como lengua franca: una realidad que cambia qué errores importan, qué pronunciación es funcional y qué significa "hablar bien" en el siglo XXI.
 category: gramatica
 readTime: 7 min
-image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Reunión internacional de personas de distintos países comunicándose en inglés
 keywords:
   - ingles como lengua franca ELF

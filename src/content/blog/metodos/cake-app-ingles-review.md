@@ -9,7 +9,6 @@ excerpt: >-
   Cake es la app que te enseña inglés con vídeos cortos de contenido real. Analizamos cómo funciona su sistema de aprendizaje, qué ofrece gratis y qué es de pago, cómo practicar speaking con ella, para quién es ideal y cómo compararla con otras apps similares.
 category: metodos
 readTime: 11 min
-image: 'https://images.pexels.com/photos/5935794/pexels-photo-5935794.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona joven usando el móvil para aprender inglés con vídeos cortos en la app Cake
 keywords:
   - Cake app inglés

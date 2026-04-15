@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Guía completa para el IELTS Speaking: qué evalúan en cada parte, cómo preparar el monólogo del Part 2, errores que bajan la nota y estrategias reales para subir de Band 6 a Band 7.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/7516347/pexels-photo-7516347.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona hablando con un examinador en una sala de examen
 readTime: 7 min
 keywords:

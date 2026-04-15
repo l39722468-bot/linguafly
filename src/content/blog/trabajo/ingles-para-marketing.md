@@ -9,8 +9,6 @@ excerpt: >-
   fluidez en reuniones y reportes internacionales.
 category: trabajo
 readTime: 16 min
-image: >-
-  https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Equipo de marketing revisando gráficas y métricas en una pantalla grande de oficina
 keywords:
   - ingles para marketing

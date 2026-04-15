@@ -27,7 +27,6 @@ keywords:
   - reported speech ingles
   - verbos modales ingles
 readTime: 18 min
-image: 'https://images.pexels.com/photos/1765033/pexels-photo-1765033.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: 'Guía completa de gramática inglesa de A1 a C2'
 canonical: 'https://www.focus-on-english.com/blog/gramatica/gramatica-inglesa-guia'
 faqs:

@@ -14,7 +14,6 @@ keywords:
   - discriminación auditiva inglés
   - pares mínimos pronunciación
   - listening entrenamiento B2
-image: 'https://images.pexels.com/photos/3783471/pexels-photo-3783471.jpeg'
 alt: Estudiante con auriculares tomando apuntes
 excerpt: >-
   Cómo usar minimal pairs sin convertir el estudio en suplicio: criterios,

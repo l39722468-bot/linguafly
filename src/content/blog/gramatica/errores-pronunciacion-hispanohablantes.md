@@ -9,7 +9,6 @@ excerpt: >-
   Hay errores de pronunciación que casi todos los hispanohablantes cometemos en inglés. No por descuido, sino porque el sistema fonológico del español no prepara el oído ni la boca para ciertos sonidos. Aquí tienes los 10 más frecuentes y cómo corregirlos.
 category: gramatica
 readTime: 9 min
-image: 'https://images.pexels.com/photos/7516363/pexels-photo-7516363.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Hispanohablante practicando pronunciación inglesa con un profesor
 keywords:
   - errores pronunciacion ingles hispanohablantes

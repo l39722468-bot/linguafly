@@ -11,8 +11,6 @@ excerpt: >-
   reales antes de despegar.
 category: viajes
 readTime: 12 min
-image: >-
-  https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: >-
   Persona sentada en una roca mirando un mapa con el mar de fondo durante un
   viaje

@@ -18,7 +18,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-07'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona estudiando el first conditional en inglés con ejemplos de conversación
 category: gramatica
 faqs:

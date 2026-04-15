@@ -9,7 +9,6 @@ excerpt: >-
   Entender a un escocés, un australiano o un hablante de inglés de la India requiere un entrenamiento específico del oído, diferente al que se necesita para mejorar el vocabulario o la gramática. Aquí está la metodología que funciona.
 category: gramatica
 readTime: 8 min
-image: 'https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona con auriculares entrenando la comprensión auditiva del inglés
 keywords:
   - como entender acentos ingles

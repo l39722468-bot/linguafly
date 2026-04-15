@@ -24,7 +24,6 @@ related_routes:
   - ingles-a2
   - ingles-b1
   - frases-ingles-emergencias-viajes
-image: 'https://images.pexels.com/photos/1051075/pexels-photo-1051075.jpeg'
 alt: Pareja viajando y comunicándose en inglés
 faqs:
   - question: ¿Qué nivel de inglés necesito para viajar?

@@ -9,7 +9,6 @@ excerpt: >-
   ¿Realmente funciona Duolingo para aprender inglés? Analizamos sin filtros qué ofrece, hasta qué nivel es útil, sus limitaciones reales y cómo combinarlo con otras herramientas para sacarle el máximo partido.
 category: metodos
 readTime: 12 min
-image: 'https://images.pexels.com/photos/6238120/pexels-photo-6238120.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona usando el móvil con la app Duolingo para aprender inglés mientras toma café
 keywords:
   - duolingo inglés review

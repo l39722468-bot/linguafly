@@ -19,7 +19,6 @@ keywords:
 author: david-torres
 date: '2026-03-04'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg'
 category: metodos
 faqs:
   - question: '¿Qué es realmente la fluidez?'

@@ -21,7 +21,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-14'
 updatedDate: '2026-02-14'
-image: 'https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Los diptongos del inglés son iguales a los del español?'

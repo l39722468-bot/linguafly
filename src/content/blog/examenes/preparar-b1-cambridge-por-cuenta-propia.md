@@ -18,7 +18,6 @@ date: '2025-02-05'
 updatedDate: '2026-03-21'
 category: examenes
 author: david-torres
-image: 'https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg'
 canonical: >-
   https://www.focus-on-english.com/blog/examenes/preparar-b1-cambridge-por-cuenta-propia
 faqs:
@@ -30,7 +29,6 @@ faqs:
     answer: 'La mayoría de los candidatos prefiere el examen computer-based porque los resultados llegan en 2-3 semanas (frente a 6-9 semanas del papel) y es más sencillo editar los textos en el Writing. El precio suele ser idéntico en ambas modalidades.'
   - question: '¿Cómo puedo mejorar el Writing del B1 rápidamente?'
     answer: 'La clave es usar conectores (however, furthermore, despite) y variedad de tiempos verbales. No te limites al presente; incorpora el Past Perfect o el Present Perfect para demostrar dominio del nivel. Escribe un email o una historia corta al día durante la fase de preparación y revisa los criterios de corrección de Cambridge.'
-
 ---
 
 ## Preparar el B1 de Cambridge por tu cuenta: Guía Completa

@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Guía de estrategias para el IELTS Listening: cómo aprovechar el tiempo entre secciones, qué errores cuestan más puntos, cómo detectar cambios y correcciones en el audio, y cómo practicar de forma eficiente.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/3756042/pexels-photo-3756042.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona con auriculares escuchando audio para el IELTS Listening
 readTime: 6 min
 keywords:

@@ -19,7 +19,6 @@ keywords:
 author: david-torres
 date: '2026-02-14'
 updatedDate: '2026-03-12'
-image: 'https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Profesional negociando salario en inglés en reunión de trabajo con documentos
 category: trabajo
 faqs:

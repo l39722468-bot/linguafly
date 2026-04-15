@@ -21,7 +21,6 @@ keywords:
 author: david-torres
 date: '2026-03-01'
 updatedDate: '2026-03-01'
-image: 'https://images.pexels.com/photos/1370296/pexels-photo-1370296.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿El inglés cuenta las sílabas de la misma forma que el español?'

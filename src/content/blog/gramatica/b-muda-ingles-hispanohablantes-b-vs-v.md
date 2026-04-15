@@ -14,7 +14,6 @@ keywords:
   - pronunciación inglés b v
   - letras mudas inglés
   - fonética inglés español
-image: 'https://images.pexels.com/photos/267586/pexels-photo-267586.jpeg'
 alt: Profesor explicando en pizarra
 excerpt: >-
   Estrategias para separar tres mundos: b/v del español, /b/ y /v/ del inglés,

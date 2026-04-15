@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Los phrasal verbs más usados en conversación cotidiana en inglés: los que aparecen en series, podcasts y entre nativos. Con ejemplos reales y diferencias de registro.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Dos personas conversando en inglés usando phrasal verbs cotidianos
 readTime: 8 min
 keywords:

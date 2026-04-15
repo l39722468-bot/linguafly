@@ -14,7 +14,6 @@ keywords:
   - inglés voluntariado
   - work exchange inglés
   - inglés hostel trabajo
-image: 'https://images.pexels.com/photos/6646917/pexels-photo-6646917.jpeg'
 alt: Personas colaborando en proyecto comunitario al aire libre
 excerpt: >-
   Frases y estrategias en inglés para acuerdos de voluntariado: expectativas,

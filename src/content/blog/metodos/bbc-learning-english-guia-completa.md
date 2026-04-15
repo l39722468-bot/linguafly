@@ -9,7 +9,6 @@ excerpt: >-
   Descubre todo lo que ofrece BBC Learning English: sus secciones, niveles recomendados, cómo estructurar una rutina diaria y cómo usarla sin conexión a internet. La plataforma gratuita más completa que muchos estudiantes no aprovechan del todo.
 category: metodos
 readTime: 13 min
-image: 'https://images.pexels.com/photos/5428836/pexels-photo-5428836.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona estudiando inglés con auriculares frente a una pantalla con contenido educativo de la BBC
 keywords:
   - BBC Learning English

@@ -8,8 +8,6 @@ description: >-
   Conectores, frases de transición, cómo abrir y cerrar con impacto, y vocabulario
   clave para cada momento de tu presentación.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Profesional haciendo una presentación en inglés ante un grupo internacional
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/como-hacer-presentaciones-en-ingles

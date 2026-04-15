@@ -11,8 +11,6 @@ excerpt: >-
   opción ideal para tu carrera.
 category: metodos
 readTime: 15 min
-image: >-
-  https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Estudiantes colaborando en una clase de inglés moderna
 keywords:
   - clases de ingles

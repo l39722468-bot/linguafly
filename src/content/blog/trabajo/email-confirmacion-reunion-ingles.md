@@ -19,7 +19,6 @@ keywords:
 author: david-torres
 date: '2026-02-24'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Calendario de reuniones en inglés en pantalla de ordenador para gestión profesional
 category: trabajo
 faqs:

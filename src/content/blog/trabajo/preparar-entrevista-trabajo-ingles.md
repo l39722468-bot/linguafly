@@ -8,8 +8,6 @@ description: >-
   de preparación, vocabulario clave, técnica STAR y simulacros de práctica para
   superar cualquier proceso de selección.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Candidato preparándose para una entrevista de trabajo en inglés con un reclutador
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/preparar-entrevista-trabajo-ingles

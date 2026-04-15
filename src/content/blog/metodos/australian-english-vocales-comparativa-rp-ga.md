@@ -14,7 +14,6 @@ keywords:
   - fonética inglesa comparativa
   - inglés australiano pronunciación
   - diferencias RP GA australian
-image: 'https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg'
 alt: Mapa y brújula sobre superficie de madera viajera
 excerpt: >-
   Introducción práctica a la fonética del inglés australiano: vocales, ejemplos

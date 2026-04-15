@@ -9,8 +9,6 @@ excerpt: >-
   Aprende el inglés que necesitas para ir de compras en países angloparlantes: preguntar precios, tu talla, cambios y devoluciones, regatear y mucho más. Incluye diálogos reales.
 category: viajes
 readTime: 12 min
-image: >-
-  https://images.pexels.com/photos/5632399/pexels-photo-5632399.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona con bolsas de compras en una calle comercial de Londres
 keywords:
   - ingles para compras

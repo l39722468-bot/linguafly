@@ -9,8 +9,6 @@ excerpt: >-
   Descubre los mejores libros para aprender inglés en 2026 según tu nivel y objetivo: gramática, vocabulario, conversación y preparación para exámenes. Incluye libros de lectura graduada.
 category: metodos
 readTime: 16 min
-image: >-
-  https://images.pexels.com/photos/256450/pexels-photo-256450.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Pila de libros en inglés sobre una mesa de madera
 keywords:
   - mejores libros aprender ingles

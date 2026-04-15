@@ -14,7 +14,6 @@ keywords:
   - inglés call center
   - inglés telefono trabajo
   - hold inglés frases
-image: 'https://images.pexels.com/photos/8867434/pexels-photo-8867434.jpeg'
 alt: Auriculares de call center sobre teclado
 excerpt: >-
   Guía de inglés telefónico para soporte: claridad, ritmo, confirmación de

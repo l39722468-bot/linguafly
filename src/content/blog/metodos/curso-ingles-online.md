@@ -7,7 +7,6 @@ excerpt: 'Comparativa de los mejores cursos de inglés online en 2026: Focus Eng
 description: 'Guía de los mejores cursos de inglés online de pago en 2026. Comparativa de plataformas, precios, metodología y a quién le conviene cada uno. Con tabla comparativa y recomendaciones por perfil.'
 category: metodos
 readTime: 10 min
-image: 'https://images.pexels.com/photos/4145153/pexels-photo-4145153.jpeg'
 alt: 'Persona haciendo un curso de inglés online desde casa'
 keywords:
   - curso ingles

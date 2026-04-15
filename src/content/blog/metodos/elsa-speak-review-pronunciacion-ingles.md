@@ -9,7 +9,6 @@ excerpt: >-
   Analizamos ELSA Speak sin filtros: cómo funciona su IA para corregir la pronunciación inglesa, qué fonemas trabaja, cuánto cuesta la versión premium y si realmente merece la pena para hispanohablantes.
 category: metodos
 readTime: 11 min
-image: 'https://images.pexels.com/photos/7516363/pexels-photo-7516363.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona practicando pronunciación en inglés con el móvil usando una app de inteligencia artificial
 keywords:
   - elsa speak review

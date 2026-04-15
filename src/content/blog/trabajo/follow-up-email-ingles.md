@@ -18,7 +18,6 @@ keywords:
 author: david-torres
 date: '2026-02-12'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/7176026/pexels-photo-7176026.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona revisando correos electrónicos en busca de respuesta, follow-up email en inglés
 category: trabajo
 faqs:

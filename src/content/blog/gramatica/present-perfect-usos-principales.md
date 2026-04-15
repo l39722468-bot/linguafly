@@ -6,7 +6,6 @@ author: sara-mendez
 description: >-
   Los 4 usos del Present Perfect en inglés que necesitas dominar: resultados, experiencias, noticias recientes y continuidad. Guía con ejemplos claros para hispanohablantes.
 category: gramatica
-image: 'https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Estudiante aprendiendo los usos del Present Perfect en inglés
 readTime: 6 min
 keywords:

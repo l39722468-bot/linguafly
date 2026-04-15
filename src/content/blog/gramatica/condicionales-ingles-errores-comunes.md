@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-25'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/4145153/pexels-photo-4145153.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Lista de errores comunes con los condicionales en inglés marcados en rojo
 category: gramatica
 faqs:

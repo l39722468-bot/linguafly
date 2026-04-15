@@ -202,24 +202,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     li: ({ node, ...props }: any) => <li className="pl-2" {...props} />,
     strong: ({ node, ...props }: any) => <strong className="font-bold text-slate-900" {...props} />,
     a: ({ node, ...props }: any) => <a className="text-coral-600 font-bold hover:underline" {...props} />,
-    img: ({ node, ...props }: any) => {
-      const src = typeof props.src === "string" ? props.src : "";
-      return (
-        <div className="my-10">
-          <Image
-            src={src || "/blog/og-image.jpg"}
-            alt={props.alt || ""}
-            width={1200}
-            height={675}
-            unoptimized={isRemoteImageSrc(src)}
-            className="rounded-2xl shadow-lg w-full object-cover aspect-video"
-          />
-          {props.alt && (
-            <p className="text-center text-sm text-slate-500 mt-3 italic">{props.alt}</p>
-          )}
-        </div>
-      );
-    },
+    img: () => null,
     table: ({ node, ...props }: any) => (
       <div className="overflow-x-auto my-8 border border-slate-100 rounded-2xl shadow-sm">
         <table className="min-w-full divide-y divide-slate-100" {...props} />
@@ -250,8 +233,6 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const relatedArticles = getRelatedArticles(slug, article.category);
   const clusterArticles = getRelatedByKeywords(slug, article.keywords || [], 3);
   const mainKeyword = article.keywords?.[0];
-  const heroImageSrc = article.image || "/blog/og-image.jpg";
-
     return (
       <>
         {/* SEO Schemas */}
@@ -278,29 +259,13 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
               {/* Main Content */}
               <article className="lg:col-span-8">
                 <div className="bg-white rounded-[2rem] shadow-sm border border-slate-100 overflow-hidden">
-                  {/* Hero Image */}
-                  <div className="relative w-full overflow-hidden bg-slate-200">
-                    <div className="aspect-video relative">
-                      <Image
-                        src={heroImageSrc}
-                        alt={article.alt || article.title}
-                        fill
-                        priority
-                        unoptimized={isRemoteImageSrc(heroImageSrc)}
-                        className="object-cover transition-opacity duration-500"
-                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 66vw"
-                      />
-                      <div className="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent" />
-                    </div>
-                    <div className="absolute top-6 left-6 z-20">
+                  {/* Content Header */}
+                  <div className="p-8 lg:p-12 border-b border-slate-50">
+                    <div className="mb-6">
                       <span className={`px-4 py-2 rounded-full text-sm font-bold border shadow-md backdrop-blur-md ${categoryColor}`}>
                         {categoryLabel}
                       </span>
                     </div>
-                  </div>
-
-                  {/* Content Header */}
-                  <div className="p-8 lg:p-12 border-b border-slate-50">
                     <div className="flex flex-wrap items-center gap-4 text-sm text-slate-500 mb-6">
                       <time dateTime={article.date} className="flex items-center gap-1.5">
                         <span className="w-1 h-1 rounded-full bg-slate-300" />
@@ -491,15 +456,6 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                           href={`/blog/${rel.category}/${rel.slug}`}
                           className="group bg-white rounded-3xl border border-slate-100 overflow-hidden hover:shadow-xl transition-all hover:-translate-y-1"
                         >
-                          <div className="relative aspect-video bg-slate-100">
-                            <Image 
-                              src={rel.image || "/blog/og-image.jpg"} 
-                              alt={rel.alt || rel.title} 
-                              fill
-                              unoptimized={isRemoteImageSrc(rel.image || "")}
-                              className="object-cover"
-                            />
-                          </div>
                           <div className="p-6">
                             <span className="text-xs font-bold text-coral-600 uppercase tracking-wider mb-2 block">{rel.category}</span>
                             <h3 className="font-display text-xl font-bold text-slate-900 group-hover:text-coral-600 transition-colors line-clamp-2">

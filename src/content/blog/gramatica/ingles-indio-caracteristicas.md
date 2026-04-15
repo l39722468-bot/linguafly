@@ -9,7 +9,6 @@ excerpt: >-
   El inglés indio es la tercera variedad de inglés más hablada del mundo. En entornos de tecnología, medicina y negocios internacionales, entender el Indian English no es opcional: es una habilidad profesional. Aquí están sus características clave.
 category: gramatica
 readTime: 7 min
-image: 'https://images.pexels.com/photos/1049622/pexels-photo-1049622.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Ciudad india moderna representando el inglés de India en contexto profesional
 keywords:
   - ingles indio como entenderlo

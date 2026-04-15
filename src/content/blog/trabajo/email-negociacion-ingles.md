@@ -19,7 +19,6 @@ keywords:
 author: david-torres
 date: '2026-02-18'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Dos personas en reunión de negocios con ordenador revisando emails de negociación en inglés
 category: trabajo
 faqs:

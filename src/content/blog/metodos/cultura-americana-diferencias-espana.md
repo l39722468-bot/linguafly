@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-05'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3075993/pexels-photo-3075993.jpeg'
 category: metodos
 faqs:
   - question: '¿La Directness Americana vs la Indirectness Latina: cuál es mejor?'

@@ -14,7 +14,6 @@ keywords:
 author: david-torres
 date: '2026-03-07'
 updatedDate: '2026-03-07'
-image: "https://images.pexels.com/photos/159711/books-bookstore-book-reading-159711.jpeg?auto=compress&cs=tinysrgb&w=1200"
 category: examenes
 faqs:
   - question: "¿Cuántos textos hay en el Reading del CAE?"

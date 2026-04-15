@@ -17,7 +17,6 @@ keywords:
 author: david-torres
 date: '2026-03-29'
 updatedDate: '2026-03-29'
-image: 'https://images.pexels.com/photos/5239868/pexels-photo-5239868.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Estudiante practicando pronunciación frente al ordenador
 category: metodos
 faqs:

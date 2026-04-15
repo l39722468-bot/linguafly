@@ -20,7 +20,6 @@ date: '2026-02-03'
 updatedDate: '2026-03-21'
 category: metodos
 author: sara-mendez
-image: 'https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg'
 alt: 'Persona usando una app de inglés en su móvil para aprender vocabulario'
 canonical: 'https://www.focus-on-english.com/blog/metodos/mejor-app-aprender-ingles'
 faqs:

@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Will para expresar probabilidad y certeza en inglés: cómo usarlo para hablar de lo que es probable o casi seguro. Diferencias con must, should y otros modales de deducción.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/5905918/pexels-photo-5905918.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona reflexionando sobre probabilidades en inglés
 readTime: 8 min
 keywords:

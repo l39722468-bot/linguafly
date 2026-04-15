@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Aprende la diferencia entre since y for en inglés con el present perfect. Reglas claras, ejemplos reales y los errores más típicos de los hablantes de español.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/1370296/pexels-photo-1370296.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Línea de tiempo mostrando la diferencia entre since y for en inglés
 readTime: 6 min
 keywords:

@@ -21,7 +21,6 @@ keywords:
 author: david-torres
 date: '2026-02-07'
 updatedDate: '2026-02-07'
-image: 'https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Es verdad que el inglés tiene menos variación tonal que otros idiomas?'

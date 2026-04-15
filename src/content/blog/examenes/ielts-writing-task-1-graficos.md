@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Guía práctica para el IELTS Writing Task 1: estructura de respuesta, vocabulario para describir tendencias, errores más comunes y ejemplos de respuestas Band 6.5 y 7.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Gráficos y estadísticas en papel para el IELTS Writing Task 1
 readTime: 7 min
 keywords:

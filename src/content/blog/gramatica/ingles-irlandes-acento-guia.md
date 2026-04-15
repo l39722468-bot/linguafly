@@ -9,7 +9,6 @@ excerpt: >-
   El acento irlandés es uno de los más queridos del mundo angloparlante y también uno de los que más cuesta entender al principio. Su musicalidad viene de siglos de coexistencia con el gaélico irlandés. Estas son las claves para sintonizar con él.
 category: gramatica
 readTime: 7 min
-image: 'https://images.pexels.com/photos/1885632/pexels-photo-1885632.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Paisaje irlandés evocando la musicalidad del inglés de Irlanda
 keywords:
   - acento irlandes ingles

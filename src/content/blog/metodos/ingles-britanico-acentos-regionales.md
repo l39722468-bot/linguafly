@@ -21,7 +21,6 @@ keywords:
 author: david-torres
 date: '2026-02-03'
 updatedDate: '2026-02-03'
-image: 'https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿Cuál es el acento del inglés británico más difícil de entender para hispanohablantes?'

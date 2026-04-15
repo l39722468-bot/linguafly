@@ -21,7 +21,6 @@ keywords:
 author: david-torres
 date: '2026-02-17'
 updatedDate: '2026-02-17'
-image: 'https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Por qué el acento en inglés es tan importante para que te entiendan?'

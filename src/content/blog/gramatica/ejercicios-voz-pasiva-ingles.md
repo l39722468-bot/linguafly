@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-10'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/4144179/pexels-photo-4144179.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Estudiante completando ejercicios de gramática inglesa en papel con bolígrafo
 category: gramatica
 faqs:

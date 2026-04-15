@@ -8,8 +8,6 @@ description: >-
   clínicos esenciales, comunicación con pacientes internacionales y frases para
   situaciones de urgencia.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Enfermera hablando en inglés con un paciente internacional en un hospital
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/vocabulario-ingles-medico-enfermeria

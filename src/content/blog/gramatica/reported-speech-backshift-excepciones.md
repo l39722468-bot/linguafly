@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   El backshift es la regla principal del reported speech, pero tiene excepciones importantes. Aprende cuándo no hace falta cambiar el tiempo verbal y evita los errores más frecuentes.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Estudiante aprendiendo las excepciones del backshift en reported speech inglés
 readTime: 7 min
 keywords:

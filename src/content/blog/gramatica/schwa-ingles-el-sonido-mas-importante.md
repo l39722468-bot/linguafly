@@ -9,7 +9,6 @@ excerpt: >-
   El schwa /ə/ aparece en casi la mitad de las sílabas del inglés hablado. Si no lo usas, sonarás artificial por mucho vocabulario que tengas. Aquí te explico exactamente cómo producirlo y dónde aplicarlo.
 category: gramatica
 readTime: 9 min
-image: 'https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Símbolos fonéticos escritos en una pizarra
 keywords:
   - schwa ingles

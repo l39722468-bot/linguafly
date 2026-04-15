@@ -9,8 +9,6 @@ excerpt: >-
   Todo el inglés que necesitas para mudarte a un país angloparlante: buscar piso, abrir una cuenta bancaria, trámites administrativos, sanidad y vida diaria. Guía práctica para expatriados.
 category: viajes
 readTime: 18 min
-image: >-
-  https://images.pexels.com/photos/1370704/pexels-photo-1370704.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Cajas de mudanza en un apartamento vacío con luz natural
 keywords:
   - mudarse al extranjero guia ingles

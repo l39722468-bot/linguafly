@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-04'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3850595/pexels-photo-3850595.jpeg'
 category: metodos
 faqs:
   - question: '¿Comentarios y Reacciones en Inglés?'

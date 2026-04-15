@@ -9,7 +9,6 @@ excerpt: >-
   ¿Por qué "car" suena tan diferente en Londres y en Nueva York? ¿Por qué "water" en inglés americano parece tener una "d" en el medio? Las diferencias entre el inglés británico y americano son más sistemáticas de lo que parecen. Aquí están las más importantes.
 category: gramatica
 readTime: 8 min
-image: 'https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Banderas de Reino Unido y Estados Unidos simbolizando diferencias de pronunciación
 keywords:
   - ingles britanico vs americano pronunciacion

@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Aprende a usar just, already y yet correctamente con el present perfect en inglés. Posición en la frase, diferencias de significado y los errores más frecuentes con ejemplos claros.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Pizarra con ejemplos de just, already y yet con el present perfect
 readTime: 6 min
 keywords:

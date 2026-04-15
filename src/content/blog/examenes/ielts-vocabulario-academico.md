@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   El vocabulario académico que necesitas para el IELTS: Academic Word List, colocaciones frecuentes por tema, palabras que confunden a los candidatos y métodos de aprendizaje que realmente funcionan.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Libreta con vocabulario en inglés para preparar el IELTS
 readTime: 7 min
 keywords:

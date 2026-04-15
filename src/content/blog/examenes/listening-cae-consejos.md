@@ -14,7 +14,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-09'
 updatedDate: '2026-03-09'
-image: "https://images.pexels.com/photos/3769021/pexels-photo-3769021.jpeg?auto=compress&cs=tinysrgb&w=1200"
 category: examenes
 faqs:
   - question: "¿Cuánto dura el Listening del CAE?"

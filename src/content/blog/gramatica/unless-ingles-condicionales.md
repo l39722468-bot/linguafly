@@ -18,7 +18,6 @@ keywords:
 author: david-torres
 date: '2026-02-16'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/590493/pexels-photo-590493.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Pizarra con ejemplos de unless y conjunciones condicionales en inglés
 category: gramatica
 faqs:

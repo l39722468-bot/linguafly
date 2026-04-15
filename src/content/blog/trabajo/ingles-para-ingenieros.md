@@ -22,7 +22,6 @@ canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-para-ingenieros
 related_routes:
   - ingles-para-trabajo
   - ingles-b2
-image: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg'
 alt: Ingenieros colaborando en un proyecto global
 faqs:
   - question: '¿Curso de Inglés para Ingenieros?'

@@ -9,8 +9,6 @@ excerpt: >-
   Guía completa para solicitar becas y financiación en inglés: cómo escribir un Personal Statement, carta de motivación, referencias y todo lo que necesitas para conseguir una beca internacional.
 category: examenes
 readTime: 16 min
-image: >-
-  https://images.pexels.com/photos/4778664/pexels-photo-4778664.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona escribiendo una solicitud de beca frente a un ordenador portátil
 keywords:
   - becas solicitudes ingles

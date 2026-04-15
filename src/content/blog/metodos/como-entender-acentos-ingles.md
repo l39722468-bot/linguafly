@@ -20,7 +20,6 @@ keywords:
 author: david-torres
 date: '2026-02-27'
 updatedDate: '2026-02-27'
-image: 'https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿Cuánto tiempo lleva acostumbrarse a un acento nuevo?'

@@ -9,7 +9,6 @@ excerpt: >-
   En inglés, poner el acento en la sílaba incorrecta puede hacer que los nativos no te entiendan aunque la palabra sea correcta. El word stress no es un detalle de pronunciación avanzada: es la base de todo lo demás.
 category: gramatica
 readTime: 10 min
-image: 'https://images.pexels.com/photos/256431/pexels-photo-256431.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Palabras en inglés con marcas de acento tónico
 keywords:
   - word stress ingles

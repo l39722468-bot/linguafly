@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Aprende a usar ever y never correctamente con el present perfect en inglés. Cuándo van en preguntas, en negativas y cuáles son los errores más comunes con ejemplos claros.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/4145354/pexels-photo-4145354.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona haciendo una pregunta con ever en inglés usando present perfect
 readTime: 6 min
 keywords:

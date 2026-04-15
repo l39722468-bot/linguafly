@@ -21,7 +21,6 @@ keywords:
 author: david-torres
 date: '2026-03-05'
 updatedDate: '2026-03-21'
-image: 'https://images.pexels.com/photos/1036622/pexels-photo-1036622.jpeg'
 alt: Persona practicando pronunciación en inglés frente a un espejo
 category: gramatica
 faqs:

@@ -14,7 +14,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-13'
 updatedDate: '2026-03-13'
-image: "https://images.pexels.com/photos/4145153/pexels-photo-4145153.jpeg?auto=compress&cs=tinysrgb&w=1200"
 category: examenes
 faqs:
   - question: "¿Cuántas palabras necesito conocer para el C1 Advanced?"

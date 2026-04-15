@@ -41,7 +41,6 @@ faqs:
       Con 30 minutos al día de práctica enfocada, en menos de dos meses notarás 
       cómo entiendes frases que antes te parecían imposibles y cómo puedes 
       formular tus propias oraciones básicas.
-image: 'https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg'
 alt: Persona motivada empezando su camino con el inglés desde cero
 excerpt: >
   Cómo empezar a aprender inglés desde cero con el nivel A1. Qué temas cubrir primero, cuánto tiempo necesitas y los errores más comunes al empezar.

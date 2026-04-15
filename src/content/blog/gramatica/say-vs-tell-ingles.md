@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   La diferencia entre say y tell en inglés es una de las más frecuentes en reported speech. Aprende cuándo usar cada uno, qué estructuras llevan, y los errores más comunes de hispanohablantes.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona aprendiendo la diferencia entre say y tell en inglés
 readTime: 6 min
 keywords:

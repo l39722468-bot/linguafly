@@ -9,8 +9,6 @@ excerpt: >-
   Todo sobre el inglés académico universitario: cómo escribir ensayos, participar en seminarios, leer artículos científicos y comunicarte con profesores. Guía esencial para estudiantes hispanohablantes.
 category: examenes
 readTime: 17 min
-image: >-
-  https://images.pexels.com/photos/1438081/pexels-photo-1438081.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Estudiante universitario tomando apuntes en una biblioteca con libros en inglés
 keywords:
   - ingles universitario academico

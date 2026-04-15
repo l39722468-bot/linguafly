@@ -14,7 +14,6 @@ keywords:
   - podcasts australia inglés
   - comprensión auditiva acento
   - series inglés australia
-image: 'https://images.pexels.com/photos/164745/pexels-photo-164745.jpeg'
 alt: Auriculares sobre mesa
 excerpt: >-
   Guía práctica para acostumbrar el oído al inglés de Australia sin frustración:

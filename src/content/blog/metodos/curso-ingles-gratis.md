@@ -7,7 +7,6 @@ excerpt: 'Descubre los mejores cursos de inglés gratuitos online en 2026: BBC L
 description: 'Guía completa de los mejores cursos de inglés 100% gratuitos online: recursos del British Council, BBC Learning English, Duolingo y el plan gratuito de Focus English. Incluye plan de estudio por niveles.'
 category: metodos
 readTime: 9 min
-image: 'https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg'
 alt: 'Persona estudiando inglés gratis desde casa con el ordenador'
 keywords:
   - curso ingles

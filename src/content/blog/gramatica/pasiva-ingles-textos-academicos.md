@@ -18,7 +18,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-23'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Investigadora escribiendo un paper académico en inglés con estructuras pasivas
 category: gramatica
 faqs:

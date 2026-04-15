@@ -9,8 +9,6 @@ excerpt: >-
   usando inglés profesional.
 category: trabajo
 readTime: 20 min
-image: >-
-  https://images.pexels.com/photos/265087/pexels-photo-265087.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: >-
   Primer plano de la aplicación LinkedIn en un smartphone sostenido por una
   persona

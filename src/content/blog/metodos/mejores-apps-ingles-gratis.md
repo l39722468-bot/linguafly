@@ -9,8 +9,6 @@ excerpt: >-
   Descubre las mejores apps gratuitas para aprender inglés en 2026: Duolingo, Anki, BBC Learning English y más. Analizamos qué nivel necesitas y cuál te conviene más.
 category: metodos
 readTime: 14 min
-image: >-
-  https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Smartphone con aplicaciones de idiomas en la pantalla
 keywords:
   - mejores apps ingles gratis

@@ -17,7 +17,6 @@ keywords:
   - reporting passive voice
 canonical: >-
   https://www.focus-on-english.com/blog/gramatica/passive-reporting-verbs-guia-avanzada
-image: 'https://images.pexels.com/photos/3184311/pexels-photo-3184311.jpeg'
 alt: Estructuras avanzadas de verbos de reporte
 faqs:
   - question: '¿Passive Reporting Verbs?'

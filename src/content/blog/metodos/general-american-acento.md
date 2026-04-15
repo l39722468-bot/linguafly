@@ -21,7 +21,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-06'
 updatedDate: '2026-02-06'
-image: 'https://images.pexels.com/photos/1550337/pexels-photo-1550337.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿El General American es el acento más fácil de entender para hispanohablantes?'

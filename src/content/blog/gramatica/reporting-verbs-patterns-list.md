@@ -16,7 +16,6 @@ keywords:
   - verbos del reported speech
   - reporting verbs and structures
 canonical: 'https://www.focus-on-english.com/blog/gramatica/reporting-verbs-patterns-list'
-image: 'https://images.pexels.com/photos/3184311/pexels-photo-3184311.jpeg'
 alt: Lista de patrones de verbos de reporte
 faqs:
   - question: '¿Reporting Verbs Patterns?'

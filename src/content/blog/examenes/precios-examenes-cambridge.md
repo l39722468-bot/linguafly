@@ -26,7 +26,6 @@ canonical: 'https://www.focus-on-english.com/blog/examenes/precios-examenes-camb
 related_routes:
   - certificaciones-ingles
   - preparacion-examen-b1-cambridge
-image: 'https://images.pexels.com/photos/4386339/pexels-photo-4386339.jpeg'
 alt: Calculadora y dinero representando los precios de exámenes
 faqs:
   - question: '¿Cuánto cuesta el examen B2 First (FCE) en 2026?'
@@ -37,7 +36,6 @@ faqs:
     answer: 'Además de la tasa principal, pueden sumarse: recargo por matrícula fuera de plazo (30€-60€), revisión de nota (25€-120€, reembolsable si la nota cambia), duplicado de certificado en caso de pérdida (~60€) y envío del título a domicilio (~10€-15€).'
   - question: '¿Son los exámenes Cambridge más caros que el IELTS o el TOEFL?'
     answer: 'Los precios son similares: IELTS y TOEFL cuestan entre 235€ y 250€, igual que el FCE o el CAE. La ventaja de Cambridge es que su certificado no caduca nunca, mientras que el IELTS y el TOEFL caducan a los 2 años. A largo plazo, Cambridge resulta la inversión más rentable.'
-
 ---
 
 ## Precios Exámenes Cambridge 2026: Guía Completa de Tasas e Inversión

@@ -8,8 +8,6 @@ description: >-
   Organizadas por situación: bienvenida, resolución de problemas, quejas,
   devoluciones y fidelización.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Equipo de atención al cliente internacional usando frases en inglés para gestionar consultas
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones

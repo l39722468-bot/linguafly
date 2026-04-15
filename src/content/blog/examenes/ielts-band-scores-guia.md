@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Guía completa sobre las bandas del IELTS: qué evalúa cada nivel, qué nota necesitas para emigrar, estudiar en el extranjero o trabajar, y estrategias específicas para subir de band según tu punto de partida.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/6238297/pexels-photo-6238297.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Escala de puntuación del IELTS con números del 0 al 9
 readTime: 6 min
 keywords:

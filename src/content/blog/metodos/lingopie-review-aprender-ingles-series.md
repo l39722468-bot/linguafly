@@ -9,7 +9,6 @@ excerpt: >-
   Lingopie te permite aprender inglés viendo series y películas reales con subtítulos interactivos. Analizamos qué contenido en inglés tiene, cómo funciona su sistema de vocabulario, la versión gratis vs pago y las mejores alternativas gratuitas como Language Reactor.
 category: metodos
 readTime: 12 min
-image: 'https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona viendo una serie en inglés en el sofá con subtítulos en la pantalla del televisor
 keywords:
   - Lingopie review

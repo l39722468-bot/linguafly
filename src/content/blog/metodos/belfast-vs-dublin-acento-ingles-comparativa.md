@@ -17,7 +17,6 @@ keywords:
 author: david-torres
 date: '2026-03-29'
 updatedDate: '2026-03-29'
-image: 'https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Costa y cielo nublado evocando islas británicas
 category: metodos
 faqs:

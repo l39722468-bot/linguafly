@@ -9,8 +9,6 @@ excerpt: >-
   Guía completa para estudiantes Erasmus y de intercambio: vocabulario en inglés para la universidad, la vida en residencia, el campus y cómo sacar el máximo partido a tu experiencia académica en el extranjero.
 category: metodos
 readTime: 16 min
-image: >-
-  https://images.pexels.com/photos/267885/pexels-photo-267885.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Campus universitario europeo con estudiantes caminando entre edificios históricos
 keywords:
   - guia erasmus estudios extranjero

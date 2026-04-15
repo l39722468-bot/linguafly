@@ -20,7 +20,6 @@ date: '2026-03-02'
 updatedDate: '2026-03-10'
 category: metodos
 author: sara-mendez
-image: 'https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg'
 canonical: 'https://www.focus-on-english.com/blog/metodos/apps-vs-cursos-ingles'
 faqs:
   - question: '¿Qué es mejor para llegar a C1: app o curso?'
@@ -46,7 +45,6 @@ faqs:
       Si tienes poco tiempo, la combinación app + sesiones guiadas suele dar
       mejor retorno que usar solo una de las dos. La app mantiene el hábito;
       el curso acelera la corrección de errores que más frenan tu progreso.
-
 ---
 
 ## Apps vs. Cursos de Inglés: ¿Qué elegir para llegar a C1 en 2026?

@@ -21,7 +21,6 @@ keywords:
 author: david-torres
 date: '2026-02-21'
 updatedDate: '2026-02-21'
-image: 'https://images.pexels.com/photos/259447/pexels-photo-259447.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿El inglés sudafricano es difícil de entender?'

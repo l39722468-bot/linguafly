@@ -9,7 +9,6 @@ excerpt: >-
   Desde apps con IA que analizan tu voz hasta diccionarios fonéticos y plataformas de conversación, en 2026 hay más herramientas que nunca para mejorar la pronunciación en inglés. Te presento las que realmente funcionan, con honestidad sobre sus límites.
 category: gramatica
 readTime: 9 min
-image: 'https://images.pexels.com/photos/3761509/pexels-photo-3761509.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Teléfono con app de pronunciación inglés y formas de onda
 keywords:
   - herramientas pronunciacion ingles

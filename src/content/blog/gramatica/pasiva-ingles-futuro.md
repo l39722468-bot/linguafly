@@ -18,7 +18,6 @@ keywords:
 author: david-torres
 date: '2026-03-04'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3183132/pexels-photo-3183132.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Calendario con anotaciones en inglés, ilustrando la pasiva en futuro
 category: gramatica
 faqs:

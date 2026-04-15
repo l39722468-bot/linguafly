@@ -8,8 +8,6 @@ description: >-
   obtener tu certificado C1. Diferencias con el General, estructura, estrategias
   y plan de preparación actualizado para 2026.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Candidato preparando el examen Aptis Advanced C1 del British Council en 2026
 canonical: >-
   https://www.focus-on-english.com/blog/examenes/aptis-advanced-c1-guia

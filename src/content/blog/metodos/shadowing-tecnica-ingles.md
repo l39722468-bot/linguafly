@@ -21,7 +21,6 @@ keywords:
 author: david-torres
 date: '2026-02-13'
 updatedDate: '2026-02-13'
-image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿Cuánto tiempo al día hay que hacer shadowing para ver resultados?'

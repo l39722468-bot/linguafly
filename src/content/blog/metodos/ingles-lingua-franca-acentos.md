@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-02'
 updatedDate: '2026-03-02'
-image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿El ELF es una variedad "incorrecta" del inglés?'

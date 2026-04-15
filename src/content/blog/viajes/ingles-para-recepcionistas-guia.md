@@ -11,8 +11,6 @@ excerpt: >-
   profesionalidad.
 category: viajes
 readTime: 15 min
-image: >-
-  https://images.pexels.com/photos/70441/pexels-photo-70441.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Recepcionista de hotel profesional atendiendo una llamada y sonriendo
 keywords:
   - inglés para recepcionistas

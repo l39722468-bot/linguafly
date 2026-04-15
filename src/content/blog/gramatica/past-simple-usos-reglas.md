@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Guía completa del Past Simple en inglés: cuándo usarlo, cómo formarlo con verbos regulares e irregulares, marcadores de tiempo y los errores más comunes de los hablantes de español.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/5212703/pexels-photo-5212703.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Cuaderno con conjugaciones del Past Simple en inglés
 readTime: 7 min
 keywords:

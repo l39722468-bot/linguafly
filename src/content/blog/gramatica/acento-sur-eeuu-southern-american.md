@@ -9,7 +9,6 @@ excerpt: >-
   El inglés del sur de Estados Unidos es una de las variedades regionales más reconocibles y más malentendidas del inglés americano. Desde el "Southern Vowel Shift" hasta las expresiones propias de Dixie, aquí están las claves para entenderlo.
 category: gramatica
 readTime: 7 min
-image: 'https://images.pexels.com/photos/2480947/pexels-photo-2480947.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Ciudad del sur de Estados Unidos representando el inglés sureño americano
 keywords:
   - ingles sur estados unidos

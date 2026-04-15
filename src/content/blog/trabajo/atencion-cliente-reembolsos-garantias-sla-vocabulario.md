@@ -14,7 +14,6 @@ keywords:
   - refund inglés vocabulario
   - warranty inglés
   - SLA inglés customer service
-image: 'https://images.pexels.com/photos/4386431/pexels-photo-4386431.jpeg'
 alt: Documentos y calculadora sobre mesa de oficina
 excerpt: >-
   Guía léxica B2+ para gestionar políticas comerciales en inglés: qué decir,

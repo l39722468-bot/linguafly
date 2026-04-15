@@ -17,7 +17,6 @@ keywords:
 author: david-torres
 date: '2026-03-04'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/4145153/pexels-photo-4145153.jpeg'
 category: gramatica
 faqs:
   - question: '¿Bloque 1 — Ejercicios de Nivel A2/B1?'

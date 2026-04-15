@@ -19,7 +19,6 @@ keywords:
 author: david-torres
 date: '2026-02-20'
 updatedDate: '2026-03-12'
-image: 'https://images.pexels.com/photos/5717456/pexels-photo-5717456.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Candidato preocupado revisando errores comunes en entrevistas de trabajo en inglés
 category: trabajo
 faqs:

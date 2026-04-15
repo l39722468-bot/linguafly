@@ -20,7 +20,6 @@ keywords:
 author: david-torres
 date: '2026-02-05'
 updatedDate: '2026-02-05'
-image: 'https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿El español tiene el sonido schwa?'

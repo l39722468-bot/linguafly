@@ -17,7 +17,6 @@ description: >-
   Ejercicios de condicionales en inglés B1-B2 con soluciones: practica los cuatro tipos con correcciones detalladas. Perfecto para preparar B2 First, C1 Advanced y exámenes oficiales.
 date: '2026-03-04'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/8197543/pexels-photo-8197543.jpeg'
 category: gramatica
 faqs:
   - question: '¿Bloque 1 — Zero Conditional?'

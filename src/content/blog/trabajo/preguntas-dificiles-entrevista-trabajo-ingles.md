@@ -8,8 +8,6 @@ description: >-
   entrevista de trabajo en inglés. Ejemplos de respuestas modelo, estrategias
   y vocabulario profesional.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/3760093/pexels-photo-3760093.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Candidato respondiendo preguntas difíciles en una entrevista de trabajo en inglés
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/preguntas-dificiles-entrevista-trabajo-ingles

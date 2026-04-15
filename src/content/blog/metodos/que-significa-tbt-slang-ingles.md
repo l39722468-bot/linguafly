@@ -22,7 +22,6 @@ date: '2024-02-04'
 updatedDate: '2026-03-10'
 category: metodos
 author: sara-mendez
-image: 'https://images.pexels.com/photos/5077067/pexels-photo-5077067.jpeg'
 faqs:
   - question: ¿Qué significa exactamente TBT?
     answer: >-

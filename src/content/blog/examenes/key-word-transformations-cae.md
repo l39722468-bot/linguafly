@@ -14,7 +14,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-17'
 updatedDate: '2026-03-17'
-image: "https://images.pexels.com/photos/5428836/pexels-photo-5428836.jpeg?auto=compress&cs=tinysrgb&w=1200"
 category: examenes
 faqs:
   - question: "¿Cuántas palabras puedo usar en las Key Word Transformations del CAE?"

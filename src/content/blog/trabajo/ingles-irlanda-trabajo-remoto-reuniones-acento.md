@@ -17,7 +17,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-29'
 updatedDate: '2026-03-29'
-image: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Reunión de trabajo moderna con personas y portátiles
 category: trabajo
 faqs:

@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-13'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3808803/pexels-photo-3808803.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona reflexionando sobre el pasado usando el third conditional en inglés
 category: gramatica
 faqs:

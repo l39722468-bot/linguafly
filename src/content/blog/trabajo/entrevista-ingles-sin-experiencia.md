@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-23'
 updatedDate: '2026-03-12'
-image: 'https://images.pexels.com/photos/3760067/pexels-photo-3760067.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Joven candidata en entrevista de trabajo en inglés para su primer empleo
 category: trabajo
 faqs:

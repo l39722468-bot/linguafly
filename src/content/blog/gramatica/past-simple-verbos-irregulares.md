@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Verbos irregulares en inglés para el Past Simple: lista completa con patrones y ejercicios. Aprende a identificar grupos de irregulares para memorizarlos de forma más eficaz.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Lista de verbos irregulares en inglés organizados en una tabla
 readTime: 8 min
 keywords:

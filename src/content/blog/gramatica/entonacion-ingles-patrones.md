@@ -9,7 +9,6 @@ excerpt: >-
   La entonación es lo que diferencia una pregunta de una afirmación, un insulto de un cumplido, una orden de una sugerencia. En inglés, los patrones melódicos son específicos y aprenderlos transforma cómo te perciben los nativos, aunque tu gramática sea perfecta.
 category: gramatica
 readTime: 8 min
-image: 'https://images.pexels.com/photos/7516363/pexels-photo-7516363.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Onda sonora de la entonación del inglés hablado
 keywords:
   - entonacion ingles

@@ -9,7 +9,6 @@ excerpt: >-
   Los diptongos son esas vocales que se "deslizan" y dan al inglés parte de su sonido característico. Hay 8 en el inglés estándar y muchos hispanohablantes los pronuncian sin darse cuenta de que son dos sonidos en uno. Aquí los vemos todos con ejemplos y ejercicios.
 category: gramatica
 readTime: 8 min
-image: 'https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Notas fonéticas con símbolos de diptongos del inglés
 keywords:
   - diptongos ingles

@@ -30,7 +30,6 @@ canonical: 'https://www.focus-on-english.com/blog/gramatica/gramatica-ingles-b1-
 related_routes:
   - cursos-online-ingles-b1
   - ingles-b1
-image: 'https://images.pexels.com/photos/4144924/pexels-photo-4144924.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Libro de gramática inglesa nivel B1
 faqs:
   - question: ¿Qué temas de gramática son esenciales para el B1?

@@ -83,7 +83,7 @@ export function getBlogArticles(): BlogPost[] {
       description: data.description || data.excerpt,
       category: normalizeCategory(data.category || "General"),
       readTime: data.readTime || "5 min",
-      image: data.image,
+      image: undefined,
       alt: data.alt,
       keywords: data.keywords || [],
       faqs: data.faqs || [],
@@ -227,7 +227,7 @@ function toSearchHit(article: BlogPost): BlogSearchHit {
     date: article.date,
     readTime: article.readTime,
     category: article.category,
-    image: article.image,
+    image: undefined,
     alt: article.alt,
   };
 }

@@ -18,7 +18,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-29'
 updatedDate: '2026-03-29'
-image: 'https://images.pexels.com/photos/3783475/pexels-photo-3783475.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona con auriculares escuchando contenido en inglés
 category: habilidades
 faqs:

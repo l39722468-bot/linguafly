@@ -9,8 +9,6 @@ excerpt: >-
   Aprende el inglés para ligar, hacer planes con alguien que te gusta y tener conversaciones de citas. Desde el flirteo casual hasta las aplicaciones de citas, vocabulario auténtico y frases naturales.
 category: metodos
 readTime: 13 min
-image: >-
-  https://images.pexels.com/photos/1415132/pexels-photo-1415132.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Pareja joven conversando en una cafetería con ambiente íntimo
 keywords:
   - ingles para ligar y citas

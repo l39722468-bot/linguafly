@@ -22,7 +22,6 @@ keywords:
 author: david-torres
 date: '2026-03-06'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3184338/pexels-photo-3184338.jpeg'
 alt: 'Profesionales en reunión usando phrasal verbs de negocios en inglés'
 category: gramatica
 canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-trabajo'
@@ -35,7 +34,6 @@ faqs:
     answer: 'Algunas combinaciones son tan habituales que funcionan casi como expresiones fijas:'
   - question: '¿Son los phrasal verbs adecuados en una entrevista de trabajo en inglés?'
     answer: 'Sí, con moderación. Usar phrasal verbs correctamente en una entrevista demuestra fluidez y naturalidad. Phrasal verbs como take on challenges, come up with solutions o follow up on tasks son perfectamente apropiados y suenan muy profesionales.'
-
 ---
 
 En el entorno laboral en inglés, los **phrasal verbs de trabajo** son omnipresentes. Aparecen en emails, reuniones, llamadas de teléfono, presentaciones y negociaciones. Conocerlos no es un extra opcional: es una **necesidad real** si quieres comunicarte de forma fluida y profesional en inglés.

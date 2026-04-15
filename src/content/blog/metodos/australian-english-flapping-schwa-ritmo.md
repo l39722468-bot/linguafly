@@ -14,7 +14,6 @@ keywords:
   - ritmo inglés australiano
   - pronunciación australiana
   - entonación inglés
-image: 'https://images.pexels.com/photos/164821/pexels-photo-164821.jpeg'
 alt: Ondas de sonido abstractas
 excerpt: >-
   Cómo escuchar y producir patrones más naturales en inglés australiano:

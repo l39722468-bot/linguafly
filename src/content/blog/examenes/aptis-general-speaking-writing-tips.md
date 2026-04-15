@@ -8,8 +8,6 @@ description: >-
   General. Errores más frecuentes, ejemplos de respuestas B1-B2 y estrategias
   para maximizar tu puntuación en cada parte.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Candidato practicando el speaking del Aptis General para mejorar su puntuación
 canonical: >-
   https://www.focus-on-english.com/blog/examenes/aptis-general-speaking-writing-tips

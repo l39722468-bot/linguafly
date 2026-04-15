@@ -14,7 +14,6 @@ keywords:
   - inglés aeropuerto
   - aduanas inglés
   - inglés frontera
-image: 'https://images.pexels.com/photos/46148/aircraft-jet-landing-cloud-46148.jpeg'
 alt: Avión aterrizando vista desde ventanilla
 excerpt: >-
   Domina el inglés que necesitas en aeropuertos y controles fronterizos: colas,

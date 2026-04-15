@@ -18,7 +18,6 @@ keywords:
   - reported speech
 canonical: >-
   https://www.focus-on-english.com/blog/gramatica/reported-speech-questions-commands
-image: 'https://images.pexels.com/photos/3184311/pexels-photo-3184311.jpeg'
 alt: Preguntas y órdenes en estilo indirecto
 faqs:
   - question: '¿Qué es reported speech y cómo se usa?'

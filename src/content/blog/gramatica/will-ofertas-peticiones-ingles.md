@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Will para ofrecimientos y peticiones en inglés: estructuras, ejemplos y diferencias con otros auxiliares. Guía práctica para hablar de forma natural en situaciones cotidianas.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/3790778/pexels-photo-3790778.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Dos personas hablando en inglés, uno haciendo un ofrecimiento
 readTime: 7 min
 keywords:

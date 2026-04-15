@@ -14,7 +14,6 @@ keywords:
 author: david-torres
 date: '2026-03-19'
 updatedDate: '2026-03-19'
-image: "https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1200"
 category: examenes
 faqs:
   - question: "¿Cuántos puntos del enunciado tengo que tratar en el essay del CAE?"

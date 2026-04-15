@@ -14,7 +14,6 @@ keywords:
   - inglés senderismo
   - inglés naturaleza
   - trekking inglés vocabulario
-image: 'https://images.pexels.com/photos/1365425/pexels-photo-1365425.jpeg'
 alt: Sendero de montaña con bosque
 excerpt: >-
   Guía práctica de inglés outdoor para mochileros: trail, weather, gear, señales

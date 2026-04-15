@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-17'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/5212345/pexels-photo-5212345.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Pizarra con estructuras de verbos modales en pasiva en inglés
 category: gramatica
 faqs:

@@ -23,7 +23,6 @@ related_routes:
   - ingles-c1
   - trucos-writing-c1-advanced
   - mejores-certificados-ingles-2026
-image: 'https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg'
 alt: Persona con dominio total del inglés nivel C2 leyendo literatura en inglés
 faqs:
   - question: '¿Qué significa realmente tener un Nivel C2?'

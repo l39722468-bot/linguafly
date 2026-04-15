@@ -18,7 +18,6 @@ keywords:
 author: david-torres
 date: '2026-02-06'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Lista de frases profesionales en inglés para emails en pantalla de ordenador
 category: trabajo
 faqs:

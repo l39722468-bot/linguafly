@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Guía completa sobre can y could en inglés: habilidad, posibilidad, permiso y peticiones. Con ejemplos reales, errores frecuentes y cómo elegir entre los dos.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/4778611/pexels-photo-4778611.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona aprendiendo can y could en inglés con ejemplos
 readTime: 7 min
 keywords:

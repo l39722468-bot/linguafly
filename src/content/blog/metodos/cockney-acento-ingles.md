@@ -20,7 +20,6 @@ keywords:
 author: david-torres
 date: '2026-02-15'
 updatedDate: '2026-02-15'
-image: 'https://images.pexels.com/photos/672532/pexels-photo-672532.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿El Cockney y el Estuary English son lo mismo?'

@@ -3,7 +3,6 @@ category: examenes
 date: '2026-02-07'
 updatedDate: '2026-03-21'
 author: david-torres
-image: "https://images.pexels.com/photos/1454360/pexels-photo-1454360.jpeg?auto=compress&cs=tinysrgb&w=1200"
 alt: "Estudiante de nivel avanzado preparando su examen C1 Advanced"
 title: 'Guía C1 Advanced (CAE): Estrategias para Aprobar el Examen de Cambridge'
 description: >-

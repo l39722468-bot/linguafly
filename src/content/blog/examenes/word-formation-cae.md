@@ -14,7 +14,6 @@ keywords:
 author: david-torres
 date: '2026-03-15'
 updatedDate: '2026-03-15'
-image: "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=1200"
 category: examenes
 faqs:
   - question: "¿Qué categorías gramaticales aparecen en el word formation del CAE?"

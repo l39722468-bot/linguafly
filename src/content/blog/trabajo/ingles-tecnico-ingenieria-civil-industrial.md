@@ -8,8 +8,6 @@ description: >-
   construcción, gestión de proyectos, safety regulations y comunicación con
   equipos y clientes internacionales.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/1078884/pexels-photo-1078884.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Ingenieros civiles revisando planos de construcción en un proyecto internacional
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-tecnico-ingenieria-civil-industrial

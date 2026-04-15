@@ -14,7 +14,6 @@ keywords:
   - preparación idiomas viaje
   - inglés hostel
   - transporte público inglés
-image: 'https://images.pexels.com/photos/1051075/pexels-photo-1051075.jpeg'
 alt: Mochilero en estación de tren con mochila
 excerpt: >-
   Domina el inglés que necesitas en hostels (check-in, habitaciones compartidas,

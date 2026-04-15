@@ -17,7 +17,6 @@ keywords:
 author: david-torres
 date: '2026-03-02'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg'
 category: gramatica
 faqs:
   - question: '¿La Pasiva Impersonal (Impersonal Passive)?'

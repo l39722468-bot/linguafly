@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Estrategias probadas para el IELTS Reading: cómo distinguir False de Not Given, técnicas de skimming y scanning, tipos de pregunta y cómo distribuir los 60 minutos sin quedarte sin tiempo.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/4195342/pexels-photo-4195342.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona leyendo textos académicos para preparar el IELTS Reading
 readTime: 7 min
 keywords:

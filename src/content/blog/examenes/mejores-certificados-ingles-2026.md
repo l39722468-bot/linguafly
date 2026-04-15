@@ -27,7 +27,6 @@ canonical: 'https://www.focus-on-english.com/blog/examenes/mejores-certificados-
 related_routes:
   - cambridge-c1-advanced-guia
   - ielts-vs-toefl-diferencias-cual-elegir
-image: 'https://images.pexels.com/photos/5905709/pexels-photo-5905709.jpeg'
 alt: Estudiante revisando opciones de certificados de inglés oficiales
 faqs:
   - question: '¿Cuál es la diferencia principal entre Cambridge, IELTS y TOEFL en 2026?'
@@ -38,7 +37,6 @@ faqs:
     answer: 'La mayoría de empresas españolas e internacionales aceptan Cambridge (B2 o C1), IELTS o TOEFL. Para puestos públicos o administrativos en España suele pedirse específicamente Cambridge o EOI. Para empresas tecnológicas o multinacionales, cualquiera de los tres es válido. El Duolingo English Test gana aceptación pero aún no está tan extendido en el mercado laboral español.'
   - question: '¿Cuánto tiempo tardan en llegar los resultados de cada examen?'
     answer: 'Cambridge Digital: menos de una semana. IELTS on Computer: 3-5 días. TOEFL iBT: 4-8 días. Duolingo English Test: 2 días. LanguageCert: 3 días. El examen Cambridge en papel puede tardar hasta 6-8 semanas, por lo que el formato digital es claramente más recomendable en 2026.'
-
 ---
 
 ## Tu Título de Inglés en 2026: Más que un Papel, una Estrategia

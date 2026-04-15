@@ -6,8 +6,6 @@ author: david-torres
 description: >-
   Aprende la diferencia entre Past Simple y Past Continuous en inglés: cuándo usar cada uno, cómo combinarlos para contar historias y los errores más frecuentes con ejemplos claros.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Línea de tiempo mostrando la diferencia entre past simple y past continuous
 readTime: 7 min
 keywords:

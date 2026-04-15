@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-11'
 updatedDate: '2026-03-12'
-image: 'https://images.pexels.com/photos/4226122/pexels-photo-4226122.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona en entrevista de trabajo virtual en inglés por videollamada con portátil
 category: trabajo
 faqs:

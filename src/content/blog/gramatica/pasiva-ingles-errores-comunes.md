@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-01'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/4144294/pexels-photo-4144294.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Cuaderno con errores de gramática corregidos en rojo, voz pasiva en inglés
 category: gramatica
 faqs:

@@ -14,7 +14,6 @@ keywords:
   - pronunciación inglés b
   - mb inglés silent b
   - silent letters inglés
-image: 'https://images.pexels.com/photos/159581/letters-typewriter-vintage-old-159581.jpeg'
 alt: Letras de máquina de escribir antigua
 excerpt: >-
   Aprende a leer correctamente palabras como climb, thumb y debt: reglas

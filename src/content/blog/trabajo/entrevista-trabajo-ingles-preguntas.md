@@ -9,8 +9,6 @@ excerpt: >-
   forma convincente y profesional.
 category: trabajo
 readTime: 20 min
-image: >-
-  https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Dos personas sentadas frente a frente en una entrevista de trabajo profesional
 keywords:
   - entrevista trabajo ingles

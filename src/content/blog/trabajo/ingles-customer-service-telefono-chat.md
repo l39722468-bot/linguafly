@@ -8,8 +8,6 @@ description: >-
   en vivo y email. Frases para cada situación, gestión de reclamaciones y
   técnicas para superar las barreras del idioma.
 category: trabajo
-image: >-
-  https://images.pexels.com/photos/5699527/pexels-photo-5699527.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Agente de atención al cliente hablando en inglés por teléfono con un cliente internacional
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-customer-service-telefono-chat

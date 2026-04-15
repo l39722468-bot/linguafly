@@ -21,7 +21,6 @@ canonical: >-
 related_routes:
   - ingles-para-viajar-guia
   - ingles-para-trabajo
-image: 'https://images.pexels.com/photos/1051075/pexels-photo-1051075.jpeg'
 alt: Nómada digital trabajando con su portátil viajando
 faqs:
   - question: '¿Inglés para Nómadas Digitales?'

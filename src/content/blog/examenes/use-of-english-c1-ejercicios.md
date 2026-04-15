@@ -14,7 +14,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-05'
 updatedDate: '2026-03-05'
-image: "https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg?auto=compress&cs=tinysrgb&w=1200"
 category: examenes
 faqs:
   - question: "¿Cuánto tiempo tengo para el Reading and Use of English del CAE?"

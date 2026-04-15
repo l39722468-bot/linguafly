@@ -9,7 +9,6 @@ excerpt: >-
   La "-ed" del pasado y la "-s" del plural en inglés no siempre suenan igual. Hay reglas claras que determinan si se pronuncian /t/, /d/ o /ɪd/ en el caso de "-ed", y /s/, /z/ o /ɪz/ en el caso de "-s". Aprenderlas elimina uno de los errores más frecuentes en el inglés hablado.
 category: gramatica
 readTime: 7 min
-image: 'https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Pizarra con ejemplos de terminaciones en inglés -ed y -s
 keywords:
   - pronunciar ed ingles

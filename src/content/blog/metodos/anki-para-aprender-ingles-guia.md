@@ -9,7 +9,6 @@ excerpt: >-
   Aprende a usar Anki para memorizar vocabulario en inglés de forma definitiva. Guía paso a paso: instalación, configuración, creación de tarjetas, mejores mazos y cómo funciona el sistema de repetición espaciada.
 category: metodos
 readTime: 12 min
-image: 'https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Tarjetas de vocabulario en inglés sobre una mesa de estudio
 keywords:
   - anki para aprender inglés

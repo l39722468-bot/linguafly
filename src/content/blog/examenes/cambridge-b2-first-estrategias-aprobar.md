@@ -8,8 +8,6 @@ description: >-
   & Use of English, Writing con plantillas, Listening sin perder el hilo y
   Speaking con criterios reales de puntuación. Plan de 8 semanas incluido.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/4145153/pexels-photo-4145153.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Estudiante estudiando para el Cambridge B2 First con libros y apuntes
 canonical: >-
   https://www.focus-on-english.com/blog/examenes/cambridge-b2-first-estrategias-aprobar

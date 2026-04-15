@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   En reported speech, las expresiones de tiempo y lugar cambian junto con el verbo. Aprende cuáles cambian, cómo y cuándo no es necesario cambiarlas, con ejemplos reales y tabla completa.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/4778611/pexels-photo-4778611.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Tabla de expresiones de tiempo en reported speech inglés
 readTime: 6 min
 keywords:

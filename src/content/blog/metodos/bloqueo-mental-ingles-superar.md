@@ -20,7 +20,6 @@ keywords:
 author: david-torres
 date: '2026-03-05'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/3807571/pexels-photo-3807571.jpeg'
 category: metodos
 faqs:
   - question: 'Por Qué Nos Bloqueamos al Hablar Inglés?'

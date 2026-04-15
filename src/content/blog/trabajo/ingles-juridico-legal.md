@@ -9,8 +9,6 @@ excerpt: >-
   abogados, asesores y profesionales del derecho.
 category: trabajo
 readTime: 18 min
-image: >-
-  https://images.pexels.com/photos/5669602/pexels-photo-5669602.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Documentos legales y mazo de juez sobre un escritorio de abogado
 keywords:
   - ingles juridico legal

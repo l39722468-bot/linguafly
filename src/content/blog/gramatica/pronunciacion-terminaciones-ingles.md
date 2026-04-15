@@ -21,7 +21,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-28'
 updatedDate: '2026-02-28'
-image: 'https://images.pexels.com/photos/4348401/pexels-photo-4348401.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Por qué la -ed del pasado a veces suena como /t/ y otras veces como /d/?'

@@ -9,7 +9,6 @@ excerpt: >-
   El TH es el sonido que más avergüenza a los hispanohablantes en inglés. No es tan difícil como parece si entiendes bien la diferencia entre el /θ/ sordo y el /ð/ sonoro y practicas con los ejercicios correctos.
 category: gramatica
 readTime: 8 min
-image: 'https://images.pexels.com/photos/4144923/pexels-photo-4144923.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona practicando pronunciación frente a un espejo
 keywords:
   - sonido th ingles

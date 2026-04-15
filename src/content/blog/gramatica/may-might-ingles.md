@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Aprende a usar may y might en inglés para hablar de posibilidad, probabilidad e incertidumbre. Con ejemplos reales, comparativas y los errores más comunes.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/5238645/pexels-photo-5238645.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona expresando incertidumbre aprendiendo may y might en inglés
 readTime: 6 min
 keywords:

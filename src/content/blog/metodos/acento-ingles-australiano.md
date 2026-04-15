@@ -21,7 +21,6 @@ keywords:
 author: david-torres
 date: '2026-02-09'
 updatedDate: '2026-02-09'
-image: 'https://images.pexels.com/photos/995765/pexels-photo-995765.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿Por qué el inglés australiano suena tan diferente al inglés americano o británico?'

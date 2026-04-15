@@ -22,7 +22,6 @@ date: '2026-03-02'
 updatedDate: '2026-03-10'
 category: trabajo
 author: sara-mendez
-image: 'https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg'
 canonical: 'https://www.focus-on-english.com/blog/trabajo/mejores-apps-ingles-trabajo'
 faqs:
   - question: '¿El desafío del inglés en el entorno laboral moderno?'
@@ -33,7 +32,6 @@ faqs:
     answer: 'Aunque no es una app de idiomas dedicada, su sección de comunicación en inglés es insuperable para entender la cultura corporativa anglosajona. Te enseña no solo qué decir, sino cómo decirlo según el liderazgo que quieras proyectar.'
   - question: '¿Grammarly Business?'
     answer: 'Es la herramienta definitiva para la comunicación escrita. A diferencia de un corrector simple, Grammarly analiza el "engagement", la claridad y el tono. Te avisará si un correo suena demasiado agresivo o si estás usando muletillas que restan autoridad a tu mensaje.'
-
 ---
 
 ## El desafío del inglés en el entorno laboral moderno

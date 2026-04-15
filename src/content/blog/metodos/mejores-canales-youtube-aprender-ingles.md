@@ -9,7 +9,6 @@ excerpt: >-
   Guía completa con los mejores canales de YouTube para aprender inglés gratis en 2026: organizados por nivel (A1 a C2) y por objetivo (pronunciación, gramática, slang, conversación, exámenes). Con rutina diaria incluida.
 category: metodos
 readTime: 13 min
-image: 'https://images.pexels.com/photos/1591060/pexels-photo-1591060.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona viendo vídeos educativos de inglés en YouTube en su portátil
 keywords:
   - mejores canales youtube aprender inglés

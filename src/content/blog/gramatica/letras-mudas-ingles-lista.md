@@ -22,7 +22,6 @@ keywords:
 author: david-torres
 date: '2026-02-23'
 updatedDate: '2026-02-23'
-image: 'https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: gramatica
 faqs:
   - question: '¿Por qué el inglés tiene tantas letras mudas?'

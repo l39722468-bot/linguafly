@@ -19,7 +19,6 @@ keywords:
 author: david-torres
 date: '2026-02-10'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/4144179/pexels-photo-4144179.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona imaginando posibilidades y usando el second conditional en inglés
 category: gramatica
 faqs:

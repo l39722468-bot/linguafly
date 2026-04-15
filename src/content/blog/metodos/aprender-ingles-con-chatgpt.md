@@ -9,8 +9,6 @@ excerpt: >-
   Descubre cómo usar ChatGPT para aprender inglés de forma efectiva: conversación, corrección de errores, vocabulario, gramática y escritura. Incluye prompts listos para usar.
 category: metodos
 readTime: 13 min
-image: >-
-  https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona usando ChatGPT en un laptop para practicar inglés
 keywords:
   - aprender ingles con chatgpt

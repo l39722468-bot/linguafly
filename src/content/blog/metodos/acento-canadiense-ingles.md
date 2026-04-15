@@ -21,7 +21,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-24'
 updatedDate: '2026-02-24'
-image: 'https://images.pexels.com/photos/1519088/pexels-photo-1519088.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿El acento canadiense es básicamente igual al americano?'

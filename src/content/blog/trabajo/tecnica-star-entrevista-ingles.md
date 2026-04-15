@@ -19,7 +19,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-05'
 updatedDate: '2026-03-12'
-image: 'https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Candidato respondiendo preguntas de comportamiento en entrevista de trabajo en inglés
 category: trabajo
 faqs:

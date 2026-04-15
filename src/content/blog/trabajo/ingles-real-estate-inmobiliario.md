@@ -7,8 +7,6 @@ excerpt: >-
   Guía completa de inglés para el sector inmobiliario: vocabulario de compraventa, alquiler, contratos, negociación de propiedades y terminología técnica para agentes y compradores internacionales.
 category: trabajo
 readTime: 17 min
-image: >-
-  https://images.pexels.com/photos/1546168/pexels-photo-1546168.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Agente inmobiliario mostrando una propiedad moderna a clientes internacionales
 keywords:
   - ingles real estate inmobiliario

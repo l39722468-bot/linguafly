@@ -9,7 +9,6 @@ excerpt: >-
   El inglés americano tiene hasta 15 vocales distintas en algunas variedades. El español tiene 5. Esa diferencia explica buena parte de los problemas de pronunciación que tienen los hispanohablantes. Aquí te cuento cuáles son las más problemáticas y cómo trabajarlas.
 category: gramatica
 readTime: 8 min
-image: 'https://images.pexels.com/photos/6238048/pexels-photo-6238048.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Diagrama de las vocales del inglés americano
 keywords:
   - vocales ingles americano

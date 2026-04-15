@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Present Perfect Continuous en inglés: cuándo usarlo y en qué se diferencia del Present Perfect Simple. Guía con ejemplos claros, errores frecuentes y ejercicios resueltos.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/5212703/pexels-photo-5212703.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona estudiando la diferencia entre present perfect simple y continuous
 readTime: 6 min
 keywords:

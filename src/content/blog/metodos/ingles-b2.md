@@ -37,7 +37,6 @@ faqs:
       Incluimos módulos específicos para cada parte del examen: Reading & Use of
       English, Writing, Listening y Speaking, con estrategias para maximizar tu
       puntuación.
-image: 'https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg'
 alt: Aprendiendo inglés nivel intermedio-alto B2
 excerpt: >
   Qué significa tener nivel B2, qué puedes hacer con él y cómo conseguirlo. Con plan de estudio, exámenes recomendados y tiempo medio de preparación.

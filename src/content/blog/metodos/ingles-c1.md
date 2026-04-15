@@ -47,7 +47,6 @@ faqs:
       El Cambridge C1 Advanced (CAE) es el más conocido. También certifican C1:
       IELTS con una banda de 7.0-7.5, TOEFL con 95-110 puntos, APTIS C y la
       EOI Nivel C1. Todos son ampliamente reconocidos en empresas y universidades.
-image: 'https://images.pexels.com/photos/4050291/pexels-photo-4050291.jpeg'
 alt: Persona estudiando inglés avanzado nivel C1 con libros y ordenador
 excerpt: >
   Todo sobre el nivel C1 de inglés: qué significa, qué exámenes lo certifican y cómo prepararte para el CAE. Con plan de estudio para nivel B2+.

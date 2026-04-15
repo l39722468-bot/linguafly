@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-05'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg'
 category: metodos
 faqs:
   - question: '¿Frases Completas para Sonarte Natural?'

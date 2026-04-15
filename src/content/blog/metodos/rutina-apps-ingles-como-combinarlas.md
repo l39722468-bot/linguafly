@@ -9,7 +9,6 @@ excerpt: >-
   Aprende a combinar las mejores apps de inglés de forma inteligente según tu nivel. Rutinas semanales para A1, B1 y C1, tabla de apps por habilidad y cómo medir tu progreso real. Deja de saltar de app en app sin resultados.
 category: metodos
 readTime: 11 min
-image: 'https://images.pexels.com/photos/4145153/pexels-photo-4145153.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona organizando su rutina de estudio de inglés con varias apps en el móvil y una agenda
 keywords:
   - cómo combinar apps para aprender inglés

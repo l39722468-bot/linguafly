@@ -22,7 +22,6 @@ canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-para-atencion-a
 related_routes:
   - ingles-para-trabajo
   - ingles-b1
-image: 'https://images.pexels.com/photos/8867431/pexels-photo-8867431.jpeg'
 alt: Profesional de atención al cliente hablando inglés
 faqs:
   - question: '¿Curso de Inglés para Atención al Cliente?'

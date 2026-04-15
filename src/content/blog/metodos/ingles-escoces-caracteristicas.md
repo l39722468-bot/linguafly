@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-18'
 updatedDate: '2026-02-18'
-image: 'https://images.pexels.com/photos/1134166/pexels-photo-1134166.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿El Scots es un dialecto del inglés o una lengua diferente?'

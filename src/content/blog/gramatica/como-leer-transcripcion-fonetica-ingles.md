@@ -9,7 +9,6 @@ excerpt: >-
   Abres el Cambridge Dictionary y ves /ˈkʌmftəbl/ para "comfortable". ¿Qué significa eso exactamente? Esta guía te enseña a descifrar la transcripción fonética del inglés de forma práctica, sin memorizar tablas interminables.
 category: gramatica
 readTime: 8 min
-image: 'https://images.pexels.com/photos/207662/pexels-photo-207662.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Diccionario inglés con transcripción fonética IPA visible
 keywords:
   - como leer transcripcion fonetica ingles

@@ -14,7 +14,6 @@ keywords:
   - errores inglés viaje
   - inglés mochilero hispanohablantes
   - falsos amigos inglés
-image: 'https://images.pexels.com/photos/346885/pexels-photo-346885.jpeg'
 alt: Mochila de viaje sobre banco en estación
 excerpt: >-
   Guía de corrección para inglés de viaje: qué evitar, qué decir en su lugar y

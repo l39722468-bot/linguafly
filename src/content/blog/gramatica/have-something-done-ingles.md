@@ -19,7 +19,6 @@ keywords:
 author: david-torres
 date: '2026-02-14'
 updatedDate: '2026-03-20'
-image: 'https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona en peluqueria, ejemplo de have something done en ingles
 category: gramatica
 faqs:

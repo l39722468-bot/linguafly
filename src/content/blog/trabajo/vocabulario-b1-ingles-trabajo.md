@@ -16,7 +16,6 @@ keywords:
 canonical: 'https://www.focus-on-english.com/blog/trabajo/vocabulario-b1-ingles-trabajo'
 related_routes:
   - ingles-b1
-image: 'https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg'
 alt: Vocabulario de trabajo para nivel B1
 faqs:
   - question: '¿Cuántas palabras necesito saber para el nivel B1 de inglés?'

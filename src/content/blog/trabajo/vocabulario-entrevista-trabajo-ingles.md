@@ -20,7 +20,6 @@ keywords:
 author: david-torres
 date: '2026-02-08'
 updatedDate: '2026-03-12'
-image: 'https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Candidato estudiando vocabulario para entrevista de trabajo en inglés en su portátil
 category: trabajo
 faqs:

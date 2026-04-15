@@ -9,7 +9,6 @@ excerpt: >-
   El inglés de Escocia tiene características fonéticas únicas que lo distinguen del inglés estándar de forma muy marcada. Desde la pronunciación de la /r/ hasta el sistema vocálico propio, entender el acento escocés requiere conocer sus reglas particulares.
 category: gramatica
 readTime: 7 min
-image: 'https://images.pexels.com/photos/3109168/pexels-photo-3109168.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Paisaje de las Highlands escocesas evocando el inglés escocés
 keywords:
   - ingles escoces como entenderlo

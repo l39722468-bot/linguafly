@@ -9,7 +9,6 @@ excerpt: >-
   El inglés australiano es no rótico como el británico, pero tiene un sistema de vocales único que lo hace inconfundible. Si te ha costado entender a los australianos, aquí están las claves fonéticas que necesitas para sintonizar tu oído con ese acento.
 category: gramatica
 readTime: 7 min
-image: 'https://images.pexels.com/photos/3617457/pexels-photo-3617457.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Mapa de Australia con símbolos lingüísticos representando el inglés australiano
 keywords:
   - ingles australiano como entenderlo

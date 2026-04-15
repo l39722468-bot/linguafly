@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Comparativa completa entre el IELTS Computer-Delivered y el IELTS en papel: diferencias en cada sección, ventajas e inconvenientes de cada formato, y cuál conviene según tu perfil.
 category: examenes
-image: >-
-  https://images.pexels.com/photos/1181243/pexels-photo-1181243.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Ordenador portátil y cuaderno sobre una mesa, representando los dos formatos del IELTS
 readTime: 6 min
 keywords:

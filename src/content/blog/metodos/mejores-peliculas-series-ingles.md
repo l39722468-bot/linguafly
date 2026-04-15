@@ -9,8 +9,6 @@ excerpt: >-
   Descubre qué películas y series en inglés son mejores para aprender según tu nivel. Guía práctica con recomendaciones para A2, B1, B2 y C1, y cómo sacarles el máximo partido.
 category: metodos
 readTime: 15 min
-image: >-
-  https://images.pexels.com/photos/7991579/pexels-photo-7991579.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona viendo una serie en versión original con subtítulos en inglés
 keywords:
   - mejores peliculas series ingles

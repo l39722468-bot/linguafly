@@ -9,8 +9,6 @@ excerpt: >-
   valiosas en inglés.
 category: trabajo
 readTime: 12 min
-image: >-
-  https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: >-
   Grupo de profesionales haciendo networking en un evento internacional
   corporativo

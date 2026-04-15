@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-03-05'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/442576/pexels-photo-442576.jpeg'
 category: metodos
 faqs:
   - question: '¿Expresiones de Chat y Comunicación en Partida?'

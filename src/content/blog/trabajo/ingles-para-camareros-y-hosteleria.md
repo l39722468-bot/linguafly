@@ -7,8 +7,6 @@ excerpt: >-
   Todo el inglés que necesitas para trabajar en hostelería en países angloparlantes: atender mesas, tomar pedidos, gestionar quejas, hablar de la carta y trabajar en cocina. Ideal para conseguir trabajo en UK, Irlanda o Australia.
 category: trabajo
 readTime: 16 min
-image: >-
-  https://images.pexels.com/photos/1267320/pexels-photo-1267320.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Camarero con delantal negro atendiendo clientes en un restaurante moderno
 keywords:
   - ingles para camareros y hosteleria

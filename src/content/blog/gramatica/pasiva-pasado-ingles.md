@@ -18,7 +18,6 @@ keywords:
 author: david-torres
 date: '2026-02-08'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/4065906/pexels-photo-4065906.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Libro de historia abierto con ejemplos de voz pasiva en inglés en pasado
 category: gramatica
 faqs:

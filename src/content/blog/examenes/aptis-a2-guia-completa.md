@@ -13,8 +13,6 @@ excerpt: >-
   completa, la puntuación mínima y los mejores consejos para el día del examen.
 category: examenes
 readTime: 12 min
-image: >-
-  https://images.pexels.com/photos/3769999/pexels-photo-3769999.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Estudiante sonriente celebrando sus resultados académicos
 keywords:
   - aptis a2

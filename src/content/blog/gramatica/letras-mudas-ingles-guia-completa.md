@@ -9,7 +9,6 @@ excerpt: >-
   "Knife", "Wednesday", "psychology", "island"... el inglés está lleno de letras que se escriben pero no se pronuncian. No es aleatório: hay patrones históricos y reglas que explican la mayoría de los casos. Aquí los tienes todos.
 category: gramatica
 readTime: 9 min
-image: 'https://images.pexels.com/photos/207662/pexels-photo-207662.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Diccionario de inglés abierto con palabras resaltadas
 keywords:
   - letras mudas ingles

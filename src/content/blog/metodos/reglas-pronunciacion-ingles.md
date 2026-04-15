@@ -20,7 +20,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-06'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/1036622/pexels-photo-1036622.jpeg'
 category: metodos
 faqs:
   - question: '¿Vocales Cortas vs. Vocales Largas (Magic E): cuál es mejor?'

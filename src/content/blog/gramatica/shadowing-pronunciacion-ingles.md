@@ -9,7 +9,6 @@ excerpt: >-
   El shadowing es repetir lo que escuchas casi al mismo tiempo que lo escuchas, imitando no solo las palabras sino el ritmo, la entonación y la velocidad. Los políglotas lo usan. Los actores de doblaje lo usan. Funciona. Aquí te explico cómo hacerlo bien.
 category: gramatica
 readTime: 8 min
-image: 'https://images.pexels.com/photos/3394650/pexels-photo-3394650.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona practicando pronunciación con auriculares y transcripción
 keywords:
   - shadowing ingles

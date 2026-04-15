@@ -19,7 +19,6 @@ date: '2026-03-02'
 updatedDate: '2026-03-21'
 category: metodos
 author: sara-mendez
-image: 'https://images.pexels.com/photos/4050315/pexels-photo-4050315.jpeg'
 canonical: 'https://www.focus-on-english.com/blog/metodos/apps-ingles-gratuitas-vs-pago'
 faqs:
   - question: '¿Qué conviene más: apps gratis o de pago?'
@@ -43,7 +42,6 @@ faqs:
       Las versiones gratis priorizan retención y frecuencia; las de pago
       suelen incluir más profundidad curricular, menos fricción y mejores
       funciones de seguimiento, lo que facilita avanzar en menos tiempo.
-
 ---
 
 ## Apps para Aprender Inglés Gratis vs. de Pago: ¿Vale la pena invertir en 2026?

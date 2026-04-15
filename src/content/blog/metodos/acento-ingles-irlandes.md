@@ -21,7 +21,6 @@ keywords:
 author: sara-mendez
 date: '2026-02-12'
 updatedDate: '2026-02-12'
-image: 'https://images.pexels.com/photos/2416461/pexels-photo-2416461.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿El acento irlandés es difícil de entender para hispanohablantes?'

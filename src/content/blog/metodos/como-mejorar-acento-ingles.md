@@ -22,7 +22,6 @@ keywords:
 author: david-torres
 date: '2026-02-25'
 updatedDate: '2026-02-25'
-image: 'https://images.pexels.com/photos/3769981/pexels-photo-3769981.jpeg?auto=compress&cs=tinysrgb&w=1200'
 category: metodos
 faqs:
   - question: '¿Es posible eliminar completamente el acento extranjero en inglés?'

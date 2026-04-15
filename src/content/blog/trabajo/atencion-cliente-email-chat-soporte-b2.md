@@ -14,7 +14,6 @@ keywords:
   - email soporte inglés
   - chat customer service inglés
   - inglés profesional servicio
-image: 'https://images.pexels.com/photos/7688336/pexels-photo-7688336.jpeg'
 alt: Persona escribiendo en portátil
 excerpt: >-
   Guía práctica para mensajes de soporte: estructura, conectores, evitar

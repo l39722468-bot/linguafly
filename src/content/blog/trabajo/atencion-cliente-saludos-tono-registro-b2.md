@@ -14,7 +14,6 @@ keywords:
   - inglés servicio al cliente
   - customer service inglés frases
   - registro formal inglés
-image: 'https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg'
 alt: Profesionales en oficina de atención
 excerpt: >-
   Guía práctica de inglés para soporte: opening lines, empatía, límites y

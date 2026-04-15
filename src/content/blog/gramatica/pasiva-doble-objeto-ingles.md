@@ -20,7 +20,6 @@ keywords:
 author: david-torres
 date: '2026-02-26'
 updatedDate: '2026-03-10'
-image: 'https://images.pexels.com/photos/7516347/pexels-photo-7516347.jpeg?auto=compress&cs=tinysrgb&w=1200'
 alt: Persona entregando un paquete, ilustrando verbos de doble objeto en pasiva inglés
 category: gramatica
 faqs:

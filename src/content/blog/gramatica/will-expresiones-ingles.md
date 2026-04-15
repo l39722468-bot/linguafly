@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Expresiones fijas y frases idiomáticas con will en inglés: usos avanzados que van más allá de las reglas básicas. Aprende a hablar como un nativo con estas construcciones reales.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/4778611/pexels-photo-4778611.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Persona aprendiendo expresiones con will en inglés
 readTime: 8 min
 keywords:

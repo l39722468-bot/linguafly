@@ -6,8 +6,6 @@ author: sara-mendez
 description: >-
   Lista definitiva de phrasal verbs para el examen B2 First (FCE): los más frecuentes en Use of English y Writing con significados, ejemplos y diferencias entre formas similares.
 category: gramatica
-image: >-
-  https://images.pexels.com/photos/267669/pexels-photo-267669.jpeg?auto=compress&cs=tinysrgb&w=1200
 alt: Cuaderno con lista de phrasal verbs para el FCE B2
 readTime: 9 min
 keywords:
