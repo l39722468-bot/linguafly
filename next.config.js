@@ -207,11 +207,6 @@ const nextConfig = {
         destination: '/blog/trabajo/ingles-para-salud',
         statusCode: 301,
       },
-      {
-        source: '/curso-ingles-para-ingenieros',
-        destination: '/blog/trabajo/ingles-para-ingenieros',
-        statusCode: 301,
-      },
 
       {
         source: '/blog/vocabulario',
@@ -705,6 +700,15 @@ const nextConfig = {
         source: '/logo.png',
         destination: '/',
         statusCode: 301,
+      },
+    ];
+  },
+  async rewrites() {
+    return [
+      // Evita bucles de redirección con reglas legacy externas para esta URL.
+      {
+        source: '/curso-ingles-para-ingenieros',
+        destination: '/blog/trabajo/ingles-para-ingenieros',
       },
     ];
   },
