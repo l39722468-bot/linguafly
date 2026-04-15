@@ -749,6 +749,8 @@ const nextConfig = {
         "https://ep1.adtrafficquality.google",
         "https://ep2.adtrafficquality.google",
         "https://partner.googleadservices.com",
+        // Funding Choices (mensajes de consentimiento / AdSense)
+        "https://fundingchoicesmessages.google.com",
       ].join(' '),
       [
         "connect-src 'self'",
@@ -768,6 +770,7 @@ const nextConfig = {
         "https://www.google.com",
         "https://ep1.adtrafficquality.google",
         "https://ep2.adtrafficquality.google",
+        "https://fundingchoicesmessages.google.com",
       ].join(' '),
       [
         "img-src 'self' data: blob:",
@@ -795,6 +798,7 @@ const nextConfig = {
         // SODAR (AdSense) iframes en ep*.adtrafficquality.google
         "https://ep1.adtrafficquality.google",
         "https://ep2.adtrafficquality.google",
+        "https://fundingchoicesmessages.google.com",
       ].join(' '),
       "media-src 'self' blob:",
       [
