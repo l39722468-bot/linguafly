@@ -792,6 +792,9 @@ const nextConfig = {
         "https://tpc.googlesyndication.com",
         "https://pagead2.googlesyndication.com",
         "https://www.google.com",
+        // SODAR (AdSense) iframes en ep*.adtrafficquality.google
+        "https://ep1.adtrafficquality.google",
+        "https://ep2.adtrafficquality.google",
       ].join(' '),
       "media-src 'self' blob:",
       [
