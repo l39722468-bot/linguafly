@@ -1,2 +1,3 @@
+google.com, pub-1198438843650445, DIRECT, f08c47fec0942fa0
 # ads.txt - Authorized Digital Sellers
 # https://www.focus-on-english.com
