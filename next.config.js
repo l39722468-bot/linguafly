@@ -47,8 +47,6 @@ const nextConfig = {
       // 348 impresiones perdidas en top 10 con CTR 0% por URLs encoded (%C3%A1) visibles en SERPs
       // Versión Unicode (á literal) - el percent-encoded ya está cubierto más abajo en este archivo
       { source: '/blog/Gram\u00E1tica/:slug*', destination: '/blog/gramatica/:slug*', permanent: true },
-      { source: '/blog/Trabajo', destination: '/blog/trabajo', permanent: true },
-      { source: '/blog/Trabajo/:slug*', destination: '/blog/trabajo/:slug*', permanent: true },
 
       // Hubs duplicados: la versión canónica vive en /blog/temas/:slug (FAQ, migas, temas relacionados)
       { source: '/hubs/:slug', destination: '/blog/temas/:slug', permanent: true },
