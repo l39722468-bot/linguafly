@@ -741,11 +741,14 @@ const nextConfig = {
         "https://www.googletagmanager.com",
         "https://www.google-analytics.com",
         "https://js.stripe.com",
-        // Google AdSense (pagead / tags)
+        // Google AdSense (pagead / tags / SODAR calidad de tráfico)
         "https://pagead2.googlesyndication.com",
         "https://www.googletagservices.com",
         "https://www.google.com",
         "https://www.gstatic.com",
+        "https://ep1.adtrafficquality.google",
+        "https://ep2.adtrafficquality.google",
+        "https://partner.googleadservices.com",
       ].join(' '),
       [
         "connect-src 'self'",
@@ -791,7 +794,11 @@ const nextConfig = {
         "https://www.google.com",
       ].join(' '),
       "media-src 'self' blob:",
-      "worker-src 'self' blob:",
+      [
+        "worker-src 'self' blob:",
+        "https://www.google.com",
+        "https://pagead2.googlesyndication.com",
+      ].join(' '),
       "upgrade-insecure-requests",
     ].join('; ');
 
