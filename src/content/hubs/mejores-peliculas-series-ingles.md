@@ -94,3 +94,18 @@ Es normal. La frustración es parte del aprendizaje. Si un episodio es muy difí
 El cine y las series son portales mágicos a la fluidez. En **Focus English**, integramos estas recomendaciones en nuestra metodología porque sabemos que la lengua está viva y late en las historias que nos contamos. Así que, prepara tus auriculares, elige tu serie favorita y deja que el inglés deje de ser un estudio para convertirse en una experiencia.
 
 ¡Enjoy the show!
+
+---
+
+## 📚 Profundiza más
+
+### Ocio con método
+- [Mejores películas y series para aprender inglés](/blog/metodos/mejores-peliculas-series-ingles)
+- [Lingopie review: inglés con series](/blog/metodos/lingopie-review-aprender-ingles-series)
+- [Mejores canales de YouTube](/blog/metodos/mejores-canales-youtube-aprender-ingles)
+- [BBC Learning English: guía](/blog/metodos/bbc-learning-english-guia-completa)
+
+### Listening y comprensión
+- [Cómo entender acentos del inglés](/blog/metodos/como-entender-acentos-ingles)
+- [Shadowing: imita nativos](/blog/metodos/shadowing-tecnica-ingles)
+- [Listening IELTS: estrategias por sección](/blog/examenes/ielts-listening-estrategias)

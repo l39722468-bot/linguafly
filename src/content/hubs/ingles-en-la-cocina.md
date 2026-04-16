@@ -118,3 +118,16 @@ El **inglés en la cocina** te abre las puertas a una gastronomía global. Cocin
 ---
 
 *¿Quieres seguir mejorando tu inglés cotidiano? No te pierdas nuestras guías sobre Inglés para Compras e Inglés para Deportes.*
+
+---
+
+## 📚 Profundiza más
+
+### Temas afines
+- [Inglés en la cocina: guía completa](/blog/viajes/ingles-en-la-cocina)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Inglés para deporte y fitness](/blog/metodos/ingles-para-deportes)
+
+### Turismo y hostelería
+- [Inglés para camareros y hostelería](/blog/trabajo/ingles-para-camareros-y-hosteleria)
+- [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)

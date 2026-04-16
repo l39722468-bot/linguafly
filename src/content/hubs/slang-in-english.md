@@ -101,3 +101,18 @@ Usar slang puede ser un campo minado si no conoces el contexto. Sigue estas regl
 El inglés es un organismo vivo y el slang es su latido. Dominar estas expresiones te permite conectar con las personas a un nivel emocional y cultural mucho más profundo. En **Focus English**, te ayudamos a navegar por estas aguas para que tu inglés sea tan auténtico como tú.
 
 ¡No te quedes atrás y empieza a usar el inglés del mañana hoy mismo!
+
+---
+
+## 📚 Profundiza más
+
+### Slang por variedad
+- [Slang británico: expresiones](/blog/metodos/slang-ingles-britanico-expresiones)
+- [Slang americano: expresiones coloquiales](/blog/metodos/slang-americano-expresiones-coloquiales)
+- [Slang australiano: registro y contexto](/blog/metodos/australian-english-slang-registro-y-contexto)
+- [Qué significa TBT y slang de internet](/blog/metodos/que-significa-tbt-slang-ingles)
+
+### Vocabulario informal
+- [Vocabulario coloquial de Irlanda](/blog/viajes/vocabulario-coloquial-irlanda-acento-contexto)
+- [Phrasal verbs en conversación cotidiana](/blog/gramatica/phrasal-verbs-conversacion-cotidiana)
+- [Inglés moderno en internet](/blog/metodos/vocabulario-ingles-redes-sociales)

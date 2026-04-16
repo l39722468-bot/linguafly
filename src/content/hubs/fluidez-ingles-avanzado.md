@@ -88,3 +88,22 @@ Muchísimo. Leer en voz alta entrena los músculos de la cara y la lengua para a
 Alcanzar la **fluidez en inglés avanzado** es un viaje emocionante que cambia no solo cómo hablas, sino cómo ves el mundo. En **Focus English**, te proporcionamos el mapa y las herramientas para que ese viaje sea lo más directo y gratificante posible.
 
 No te detengas ahora que estás tan cerca de la cima. ¡La fluidez real está a solo un paso de consistencia y estrategia!
+
+---
+
+## 📚 Profundiza más
+
+### Técnica de habla
+- [Hablar inglés con fluidez](/blog/metodos/hablar-ingles-con-fluidez)
+- [Shadowing: técnica para fluidez y pronunciación](/blog/metodos/shadowing-tecnica-ingles)
+- [Cómo mejorar el acento en inglés](/blog/metodos/como-mejorar-acento-ingles)
+
+### Avanzado y C1/C2
+- [Inglés C1: dominio avanzado](/blog/metodos/ingles-c1)
+- [Inglés C2: excelencia y matices](/blog/metodos/ingles-c2)
+- [Vocabulario C1 avanzado](/blog/examenes/vocabulario-c1-avanzado)
+- [Phrasal verbs avanzados (C1)](/blog/gramatica/phrasal-verbs-c1-avanzados)
+
+### Listening auténtico
+- [Cómo entender acentos del inglés](/blog/metodos/como-entender-acentos-ingles)
+- [BBC Learning English: guía](/blog/metodos/bbc-learning-english-guia-completa)

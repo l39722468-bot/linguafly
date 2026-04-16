@@ -113,3 +113,28 @@ Aprender inglés para tus viajes no solo te ayuda a pedir un café; te permite c
 En **Focus English**, hemos diseñado cursos específicos para viajeros que se centran en la **fluidez oral** y la **comprensión auditiva**. No te enseñamos listas de verbos interminables, sino cómo sobrevivir y disfrutar de tu próxima aventura.
 
 **¿Tu próximo destino?** Prepárate con nuestros recursos sobre "frases básicas inglés viaje" o consulta nuestra "guía inglés viajeros" para planes de estudio personalizados. ¡Buen viaje! (Safe travels!).
+
+---
+
+## 📚 Profundiza más
+
+### Guías esenciales del viajero
+- [Inglés para viajar: fundamentos](/blog/viajes/ingles-para-viajar)
+- [Curso de inglés para viajar](/blog/viajes/curso-de-ingles-para-viajar)
+- [Guía maestra: curso de inglés para viajeros](/blog/viajes/guia-maestra-curso-ingles-viajeros)
+
+### Situaciones clave
+- [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
+- [Inglés en la cocina y restaurantes](/blog/viajes/ingles-en-la-cocina)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Frases de emergencias para viajeros](/blog/viajes/frases-ingles-emergencias-viajes)
+- [Inglés para emergencias en el viaje](/blog/viajes/ingles-emergencias-viaje)
+
+### Mochilero y nómada digital
+- [Nómadas digitales y mochileros](/blog/viajes/ingles-nomadas-digitales-mochileros)
+- [Hostels y transporte público](/blog/viajes/mochileros-ingles-hostels-transporte-publico)
+- [Fronteras, aeropuertos y aduanas](/blog/viajes/mochileros-ingles-fronteras-aeropuertos-aduanas)
+
+### Cultura
+- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
+- [Costumbres británicas: guía del viajero](/blog/metodos/costumbres-britanicas-guia-viajero)

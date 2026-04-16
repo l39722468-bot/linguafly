@@ -110,3 +110,21 @@ La universidad es el lugar para cuestionar, aprender y crecer. Dominar el idioma
 ---
 
 *¿Estás preparando tu salida al extranjero? Consulta nuestras guías sobre Becas en Inglés y la Experiencia Erasmus para no perderte ningún detalle.*
+
+---
+
+## 📚 Profundiza más
+
+### Inglés académico
+- [Inglés universitario y académico](/blog/examenes/ingles-universitario-academico)
+- [Guía Erasmus: estudios en el extranjero](/blog/metodos/guia-erasmus-estudios-extranjero)
+- [Becas y solicitudes en inglés](/blog/examenes/becas-solicitudes-ingles)
+
+### IELTS y TOEFL para universidad
+- [Vocabulario académico para IELTS](/blog/examenes/ielts-vocabulario-academico)
+- [IELTS Writing Task 2: el ensayo](/blog/examenes/ielts-writing-task-2-essay)
+- [IELTS vs TOEFL: diferencias](/blog/examenes/ielts-vs-toefl-diferencias-cual-elegir)
+
+### Gramática y estilo formal
+- [Pasiva impersonal en inglés](/blog/gramatica/pasiva-impersonal-ingles)
+- [Pronunciación en inglés: guía](/blog/gramatica/pronunciacion-ingles-guia-completa)

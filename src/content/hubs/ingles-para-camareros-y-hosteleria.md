@@ -104,3 +104,19 @@ En un mundo hiperconectado, las reseñas en portales como TripAdvisor o Google M
 En **Focus English**, colaboramos con hoteles y restaurantes para formar a sus equipos en el uso de un inglés práctico, profesional y orientado a resultados. No se trata de gramática abstracta, sino de situaciones reales de sala y barra.
 
 **¿Quieres mejorar tu perfil profesional?** Explora nuestros recursos sobre "frases camarero inglés" o "vocabulario restaurante inglés" y prepárate para destacar en el sector turístico internacional.
+
+---
+
+## 📚 Profundiza más
+
+### Guía principal
+- [Inglés para camareros y hostelería](/blog/trabajo/ingles-para-camareros-y-hosteleria)
+
+### Recepción y atención al cliente
+- [Inglés para recepcionistas](/blog/viajes/ingles-para-recepcionistas-guia)
+- [Frases de atención al cliente por situación](/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones)
+- [Teléfono y call center: frases clave](/blog/trabajo/atencion-cliente-telefono-call-center-frases)
+
+### Vocabulario práctico
+- [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
+- [Inglés en la cocina: vocabulario](/blog/viajes/ingles-en-la-cocina)

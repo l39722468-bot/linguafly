@@ -105,3 +105,23 @@ En nuestro portal, cubrimos ambas variantes para que seas un ciudadano del mundo
 El inglés americano y el británico son las dos caras de una misma moneda. Conocer sus diferencias no solo te evitará confusiones (como pedir *pants* en Londres y que piensen que hablas de tu ropa interior), sino que te dará una visión mucho más rica y global de la lengua inglesa.
 
 En **Focus English**, celebramos la diversidad del idioma. Nuestros profesores provienen de diversos países angloparlantes, asegurando que nuestros alumnos desarrollen un oído capaz de entender cualquier acento y un vocabulario versátil para cualquier situación.
+
+---
+
+## 📚 Profundiza más
+
+### Diferencias y acentos
+- [Inglés americano vs británico: guía](/blog/metodos/ingles-americano-vs-britanico)
+- [Acento británico vs americano: diferencias](/blog/gramatica/acento-britanico-vs-americano-diferencias)
+- [Pronunciación de vocales del inglés americano](/blog/gramatica/pronunciacion-vocales-ingles-americano)
+- [General American: el acento estándar](/blog/metodos/general-american-acento)
+
+### Otros acentos del inglés
+- [Acentos regionales del inglés británico](/blog/metodos/ingles-britanico-acentos-regionales)
+- [Cockney: acento del East End](/blog/metodos/cockney-acento-ingles)
+- [Diferencias entre acentos del inglés](/blog/metodos/acentos-ingles-diferencias)
+
+### Slang y cultura
+- [Slang americano: expresiones coloquiales](/blog/metodos/slang-americano-expresiones-coloquiales)
+- [Slang inglés británico](/blog/metodos/slang-ingles-britanico-expresiones)
+- [Costumbres británicas: guía viajero](/blog/metodos/costumbres-britanicas-guia-viajero)

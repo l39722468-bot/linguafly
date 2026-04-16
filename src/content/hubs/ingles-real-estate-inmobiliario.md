@@ -124,3 +124,20 @@ La clave del éxito inmobiliario es la comunicación clara y la transparencia. C
 ---
 
 *¿Quieres seguir profesionalizando tu perfil? Explora nuestras guías sobre Inglés para Negocios e Inglés para Atención al Cliente.*
+
+---
+
+## 📚 Profundiza más
+
+### Guía sectorial
+- [Inglés para el sector inmobiliario (real estate)](/blog/trabajo/ingles-real-estate-inmobiliario)
+
+### Atención al cliente internacional
+- [Inglés para atención al cliente](/blog/trabajo/ingles-para-atencion-al-cliente)
+- [Frases de atención al cliente por situación](/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones)
+- [Email y chat de soporte (B2)](/blog/trabajo/atencion-cliente-email-chat-soporte-b2)
+
+### Negociación y negocios
+- [Negociación en inglés: técnicas clave](/blog/trabajo/negociacion-ingles-tecnicas-clave)
+- [Negociar salario en inglés](/blog/trabajo/negociar-salario-ingles)
+- [Vocabulario de negocios profesional](/blog/trabajo/vocabulario-negocios-ingles-profesional)

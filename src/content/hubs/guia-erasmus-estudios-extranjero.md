@@ -95,3 +95,20 @@ Disfruta cada segundo, viaja todo lo que puedas y vuelve a casa con una maleta l
 ---
 
 *¿Quieres mejorar tu perfil académico antes de irte? No te pierdas nuestra Guía de Inglés Universitario y cómo solicitar Becas Internacionales.*
+
+---
+
+## 📚 Profundiza más
+
+### Erasmus y estudios en el extranjero
+- [Guía Erasmus y estudios en el extranjero](/blog/metodos/guia-erasmus-estudios-extranjero)
+- [Inglés universitario y académico](/blog/examenes/ingles-universitario-academico)
+- [Becas y solicitudes en inglés](/blog/examenes/becas-solicitudes-ingles)
+
+### Exámenes oficiales
+- [Bandas del IELTS: qué significan](/blog/examenes/ielts-band-scores-guia)
+- [IELTS vs TOEFL: diferencias](/blog/examenes/ielts-vs-toefl-diferencias-cual-elegir)
+
+### Vivir fuera
+- [Mudarse al extranjero: guía en inglés](/blog/viajes/mudarse-al-extranjero-guia-ingles)
+- [Inglés para nómadas digitales](/blog/viajes/ingles-nomadas-digitales-mochileros)

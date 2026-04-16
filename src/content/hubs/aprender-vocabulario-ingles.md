@@ -100,3 +100,19 @@ En nuestro portal, hemos clasificado el vocabulario para que te sea fácil encon
 Cuantas más palabras conozcas, más libre serás para expresar quién eres en otro idioma. No te agobies intentando aprenderlo todo a la vez. Elige 5 palabras al día, úsalas en una frase y verás cómo, en un año, habrás transformado completamente tu nivel de inglés.
 
 En **Focus English**, creemos que el vocabulario debe ser útil y relevante. Por eso, nuestros cursos se basan en situaciones de la vida real, asegurando que cada palabra que aprendas tenga un lugar en tu próxima conversación, ya sea en una reunión de negocios o en un viaje por el mundo.
+
+---
+
+## 📚 Profundiza más
+
+### Métodos y técnica
+- [Anki para aprender inglés: guía](/blog/metodos/anki-para-aprender-ingles-guia)
+- [Shadowing: técnica de habla](/blog/metodos/shadowing-tecnica-ingles)
+- [Cuánto se tarda en aprender inglés](/blog/metodos/cuanto-se-tarda-en-aprender-ingles)
+
+### Vocabulario por contexto
+- [Vocabulario B1 de inglés para el trabajo](/blog/trabajo/vocabulario-b1-ingles-trabajo)
+- [Vocabulario C1 avanzado](/blog/examenes/vocabulario-c1-avanzado)
+- [Vocabulario académico para IELTS](/blog/examenes/ielts-vocabulario-academico)
+- [Vocabulario de ropa en inglés](/blog/metodos/vocabulario-ropa-ingles)
+- [Vocabulario de redes sociales en inglés](/blog/metodos/vocabulario-ingles-redes-sociales)

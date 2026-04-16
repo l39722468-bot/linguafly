@@ -110,3 +110,20 @@ La clave es la paciencia y la exposición constante. Empieza analizando cláusul
 ---
 
 *¿Te interesa el mundo de los negocios internacionales? No te pierdas nuestra guía sobre Inglés para Negocios y cómo preparar un CV en inglés para despachos internacionales.*
+
+---
+
+## 📚 Profundiza más
+
+### Inglés jurídico
+- [Inglés jurídico y legal: guía](/blog/trabajo/ingles-juridico-legal)
+
+### Perfil profesional
+- [CV en inglés: guía completa](/blog/trabajo/cv-ingles)
+- [LinkedIn en inglés](/blog/trabajo/linkedin-ingles-guia)
+- [Preparar una entrevista en inglés](/blog/trabajo/preparar-entrevista-trabajo-ingles)
+
+### Negocios y emails formales
+- [Vocabulario de negocios profesional](/blog/trabajo/vocabulario-negocios-ingles-profesional)
+- [Email formal: estructura](/blog/trabajo/email-formal-ingles-estructura)
+- [Netiqueta en emails de inglés](/blog/trabajo/netiqueta-email-ingles)

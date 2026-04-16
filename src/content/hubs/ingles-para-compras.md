@@ -120,3 +120,17 @@ El **inglés para compras** es una herramienta práctica que usarás casi a diar
 ---
 
 *¿Quieres seguir mejorando tu inglés cotidiano? No te pierdas nuestras guías sobre Inglés en la Cocina e Inglés para Deportes.*
+
+---
+
+## 📚 Profundiza más
+
+### Compras y vida cotidiana
+- [Inglés para compras: guía](/blog/viajes/ingles-para-compras)
+- [Vocabulario de ropa en inglés](/blog/metodos/vocabulario-ropa-ingles)
+- [Inglés en la cocina](/blog/viajes/ingles-en-la-cocina)
+
+### Viaje y servicios
+- [Inglés para viajar: fundamentos](/blog/viajes/ingles-para-viajar)
+- [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
+- [Inglés para deporte y fitness](/blog/metodos/ingles-para-deportes)

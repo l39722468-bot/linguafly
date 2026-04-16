@@ -102,3 +102,21 @@ Esta es la parte que más asusta, pero existen frases para ganar tiempo y respon
 Hacer presentaciones en inglés es una de las formas más rápidas de ganar visibilidad y autoridad en una empresa internacional. Con la estructura adecuada y el vocabulario de impacto que hemos visto, dejarás de sobrevivir a las presentaciones para empezar a disfrutarlas.
 
 En **Focus English**, ofrecemos talleres específicos de "Presentations Skills" donde trabajamos la oratoria, la pronunciación y el diseño de mensajes persuasivos. Sigue explorando nuestros hubs sobre "vocabulario presentaciones profesionales" y "hablar en público inglés" para seguir perfeccionando tu técnica.
+
+---
+
+## 📚 Profundiza más
+
+### Comunicación profesional
+- [Cómo hacer presentaciones en inglés](/blog/trabajo/como-hacer-presentaciones-en-ingles)
+- [Networking en inglés para eventos internacionales](/blog/trabajo/ingles-networking-eventos-internacionales)
+- [Vocabulario de negocios en inglés](/blog/trabajo/vocabulario-negocios-ingles-profesional)
+
+### Emails profesionales
+- [Emails profesionales: plantillas](/blog/trabajo/plantillas-emails-profesionales-ingles)
+- [Email formal: estructura](/blog/trabajo/email-formal-ingles-estructura)
+- [Email de actualización de proyecto](/blog/trabajo/email-actualizacion-proyecto-ingles)
+
+### Pronunciación y fluidez
+- [Pronunciación en inglés: guía completa](/blog/gramatica/pronunciacion-ingles-guia-completa)
+- [Hablar inglés con fluidez](/blog/metodos/hablar-ingles-con-fluidez)

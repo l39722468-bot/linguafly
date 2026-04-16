@@ -95,3 +95,17 @@ Internet cambia más rápido de lo que los diccionarios pueden imprimir.
 El inglés de internet es democrático, rápido y extremadamente creativo. No tengas miedo de experimentar con él. En **Focus English**, te enseñamos no solo el inglés de los clásicos, sino el inglés que está construyendo el futuro digital.
 
 ¡Nos vemos en los comentarios!
+
+---
+
+## 📚 Profundiza más
+
+### Vocabulario y slang digital
+- [Vocabulario de redes sociales en inglés](/blog/metodos/vocabulario-ingles-redes-sociales)
+- [Qué significa TBT y slang de internet](/blog/metodos/que-significa-tbt-slang-ingles)
+- [Inglés gamer y videojuegos](/blog/metodos/ingles-gamer-videojuegos)
+
+### Ocio digital
+- [Mejores películas y series para aprender inglés](/blog/metodos/mejores-peliculas-series-ingles)
+- [Lingopie: aprender inglés con series](/blog/metodos/lingopie-review-aprender-ingles-series)
+- [Mejores canales de YouTube para aprender inglés](/blog/metodos/mejores-canales-youtube-aprender-ingles)

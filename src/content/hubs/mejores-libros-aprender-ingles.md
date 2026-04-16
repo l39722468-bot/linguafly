@@ -102,3 +102,18 @@ Ciérralo. El aprendizaje de idiomas requiere dopamina. Si un libro no te intere
 
 
 ¡Abre tu próximo libro hoy y deja que el inglés fluya!
+
+---
+
+## 📚 Profundiza más
+
+### Aprender con contenidos
+- [Mejores libros para aprender inglés](/blog/metodos/mejores-libros-aprender-ingles)
+- [Mejores películas y series](/blog/metodos/mejores-peliculas-series-ingles)
+- [Mejores canales de YouTube](/blog/metodos/mejores-canales-youtube-aprender-ingles)
+- [BBC Learning English: guía](/blog/metodos/bbc-learning-english-guia-completa)
+
+### Hábito y método
+- [Anki para aprender inglés](/blog/metodos/anki-para-aprender-ingles-guia)
+- [Cuánto se tarda en aprender inglés](/blog/metodos/cuanto-se-tarda-en-aprender-ingles)
+- [Rutina con apps: cómo combinarlas](/blog/metodos/rutina-apps-ingles-como-combinarlas)

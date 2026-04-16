@@ -117,3 +117,21 @@ Empieza hoy mismo a cambiar el idioma de tus herramientas, a leer blogs especial
 ---
 
 *¿Buscas más recursos para potenciar tu carrera? Explora nuestros artículos sobre inglés de negocios y preparación de entrevistas para destacar en cualquier proceso de selección internacional.*
+
+---
+
+## 📚 Profundiza más
+
+### Marketing y empresa
+- [Inglés para marketing: guía](/blog/trabajo/ingles-para-marketing)
+- [Vocabulario de negocios profesional](/blog/trabajo/vocabulario-negocios-ingles-profesional)
+- [Vocabulario de redes sociales en inglés](/blog/metodos/vocabulario-ingles-redes-sociales)
+
+### Presentaciones y comunicación
+- [Cómo hacer presentaciones en inglés](/blog/trabajo/como-hacer-presentaciones-en-ingles)
+- [Plantillas de emails profesionales](/blog/trabajo/plantillas-emails-profesionales-ingles)
+- [Email de actualización de proyecto](/blog/trabajo/email-actualizacion-proyecto-ingles)
+
+### Talento y carrera
+- [CV en inglés](/blog/trabajo/cv-ingles)
+- [Preparar entrevista de trabajo](/blog/trabajo/preparar-entrevista-trabajo-ingles)

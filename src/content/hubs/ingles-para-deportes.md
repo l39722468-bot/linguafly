@@ -117,3 +117,16 @@ El **inglés para el deporte** te permite conectar con una comunidad global de p
 ---
 
 *¿Quieres seguir mejorando tu inglés cotidiano? No te pierdas nuestras guías sobre Inglés para Compras e Inglés en la Cocina.*
+
+---
+
+## 📚 Profundiza más
+
+### Temas afines
+- [Inglés para deporte y fitness](/blog/metodos/ingles-para-deportes)
+- [Inglés en la cocina: vocabulario y frases](/blog/viajes/ingles-en-la-cocina)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+
+### Expresiones y cultura
+- [Slang americano: expresiones coloquiales](/blog/metodos/slang-americano-expresiones-coloquiales)
+- [Slang inglés británico](/blog/metodos/slang-ingles-britanico-expresiones)

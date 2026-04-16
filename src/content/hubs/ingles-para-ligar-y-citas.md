@@ -140,3 +140,18 @@ Usa frases más cortas, evita el argot muy local y apóyate en fotos de tu móvi
 Ligar en inglés es una aventura que va más allá del lenguaje; es una inmersión en otra forma de sentir y expresar el afecto. En **Focus English**, creemos que aprender un idioma es abrir una puerta a nuevas conexiones humanas. No busques la perfección gramatical, busca la conexión auténtica. 
 
 ¡El amor no entiende de gramática, pero una buena frase en el momento justo ayuda mucho! ¡Ánimo y a disfrutar de la experiencia!
+
+---
+
+## 📚 Profundiza más
+
+### Conversación real
+- [Inglés para ligar y citas](/blog/metodos/ingles-para-ligar-y-citas)
+- [Phrasal verbs para la conversación cotidiana](/blog/gramatica/phrasal-verbs-conversacion-cotidiana)
+- [Slang americano: expresiones coloquiales](/blog/metodos/slang-americano-expresiones-coloquiales)
+- [Slang británico: expresiones](/blog/metodos/slang-ingles-britanico-expresiones)
+
+### Pronunciación y fluidez
+- [Shadowing: técnica para fluidez](/blog/metodos/shadowing-tecnica-ingles)
+- [Cómo mejorar el acento](/blog/metodos/como-mejorar-acento-ingles)
+- [Hablar inglés con fluidez](/blog/metodos/hablar-ingles-con-fluidez)

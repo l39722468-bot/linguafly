@@ -102,3 +102,21 @@ Tu CV y tu LinkedIn deben ser gemelos, pero no clones. El CV es para el puesto e
 Hacer un CV en inglés es el primer paso para internacionalizar tu carrera. En **Focus English**, te ayudamos no solo con el idioma, sino con la estrategia para que tu perfil destaque en un mercado competitivo. Un CV bien hecho no solo cuenta tu pasado; proyecta tu futuro.
 
 ¡Es hora de actualizar tu futuro profesional!
+
+---
+
+## 📚 Profundiza más
+
+### CV y perfil profesional
+- [CV en inglés: guía completa](/blog/trabajo/cv-ingles)
+- [LinkedIn en inglés: guía](/blog/trabajo/linkedin-ingles-guia)
+
+### Entrevistas de trabajo
+- [Preparar una entrevista de trabajo en inglés](/blog/trabajo/preparar-entrevista-trabajo-ingles)
+- [Preguntas de entrevista de trabajo en inglés](/blog/trabajo/entrevista-trabajo-ingles-preguntas)
+- [Técnica STAR para la entrevista](/blog/trabajo/tecnica-star-entrevista-ingles)
+- [Entrevistas virtuales en inglés](/blog/trabajo/entrevista-virtual-ingles)
+
+### Emails y comunicación
+- [Email de solicitud de empleo](/blog/trabajo/email-solicitud-empleo-ingles)
+- [Follow-up email en inglés](/blog/trabajo/follow-up-email-ingles)

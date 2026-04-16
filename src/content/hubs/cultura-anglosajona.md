@@ -81,3 +81,22 @@ Adaptarse a otra cultura no significa cambiar quién eres. Significa ampliar tu 
 La cultura es el sistema operativo del idioma. En **Focus English**, no solo te enseñamos a hablar; te enseñamos a navegar por el mundo con la confianza de quien entiende las reglas del juego. Entender la cultura anglosajona te hará un comunicador más empático, profesional y exitoso.
 
 Welcome to the global community!
+
+---
+
+## 📚 Profundiza más
+
+### Cultura y etiqueta
+- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
+- [Costumbres británicas: guía del viajero](/blog/metodos/costumbres-britanicas-guia-viajero)
+- [Cultura americana: diferencias con España](/blog/metodos/cultura-americana-diferencias-espana)
+
+### Acentos y variedades
+- [Inglés americano vs británico](/blog/metodos/ingles-americano-vs-britanico)
+- [Acentos del inglés: diferencias](/blog/metodos/acentos-ingles-diferencias)
+- [Acento irlandés: guía](/blog/metodos/acento-ingles-irlandes)
+
+### Slang por país
+- [Slang británico: expresiones](/blog/metodos/slang-ingles-britanico-expresiones)
+- [Slang americano: expresiones coloquiales](/blog/metodos/slang-americano-expresiones-coloquiales)
+- [Slang australiano: registro y contexto](/blog/metodos/australian-english-slang-registro-y-contexto)

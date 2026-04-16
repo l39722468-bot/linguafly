@@ -73,3 +73,16 @@ No. ChatGPT es una herramienta de consulta, no un programa pedagógico. Un apren
 El uso de ChatGPT como apoyo es un gran complemento para el estudiante moderno. En **Focus English**, integramos el uso de la tecnología con una metodología de ejercicios probada para asegurar que alcances tus objetivos.
 
 ¡Utiliza todas las herramientas a tu disposición para practicar cada día más y mejor!
+
+---
+
+## 📚 Profundiza más
+
+### IA y herramientas
+- [Aprender inglés con ChatGPT: guía práctica](/blog/metodos/aprender-ingles-con-chatgpt)
+- [Rutina con apps: cómo combinarlas](/blog/metodos/rutina-apps-ingles-como-combinarlas)
+- [Apps vs cursos tradicionales](/blog/metodos/apps-vs-cursos-ingles)
+
+### Vocabulario y repetición espaciada
+- [Anki para aprender inglés: guía completa](/blog/metodos/anki-para-aprender-ingles-guia)
+- [Shadowing: técnica de habla](/blog/metodos/shadowing-tecnica-ingles)
