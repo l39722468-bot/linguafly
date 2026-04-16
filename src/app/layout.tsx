@@ -96,16 +96,16 @@ export default function RootLayout({
   return (
     <html lang="es" className={`scroll-smooth ${nunito.variable} ${jakarta.variable}`} suppressHydrationWarning>
       <head>
-        {/* Monetag: primero en <head> como indica la guía de instalación */}
+        {/* Monetag zona 10886579: snippet exacto del panel (Onclick / verificación) */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(s){s.dataset.zone='10886579',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`,
+          }}
+        />
+        {/* Monetag: tag principal sitio */}
         <script
           src="https://quge5.com/88/tag.min.js"
           data-zone="230407"
-          async
-          data-cfasync="false"
-        />
-        <script
-          src="https://al5sm.com/tag.min.js"
-          data-zone="10886579"
           async
           data-cfasync="false"
         />
