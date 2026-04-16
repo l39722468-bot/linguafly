@@ -793,7 +793,7 @@ const nextConfig = {
         "https://ep1.adtrafficquality.google",
         "https://ep2.adtrafficquality.google",
         "https://fundingchoicesmessages.google.com",
-        // Monetag
+        // Monetag (tags principales + trackers/beacons secundarios)
         "https://quge5.com",
         "https://al5sm.com",
         "https://nap5k.com",
@@ -807,6 +807,9 @@ const nextConfig = {
         "https://bobapsoabauns.com",
         "https://my.rtmark.net",
         "https://fleraprt.com",
+        "https://255md.com",
+        "https://jhnwr.com",
+        "https://ldrws.com",
         "https://*.fleraprt.com",
         "https://*.p0p.com",
         "https://*.6p0p.com",
@@ -818,6 +821,9 @@ const nextConfig = {
         "https://*.dawac.com",
         "https://*.bobapsoabauns.com",
         "https://*.rtmark.net",
+        "https://*.255md.com",
+        "https://*.jhnwr.com",
+        "https://*.ldrws.com",
       ].join(' '),
       [
         "img-src 'self' data: blob:",
