@@ -98,7 +98,7 @@ Usar slang puede ser un campo minado si no conoces el contexto. Sigue estas regl
 
 ## Conclusión
 
-El inglés es un organismo vivo y el slang es su latido. Dominar estas expresiones te permite conectar con las personas a un nivel emocional y cultural mucho más profundo. En **Focus English**, te ayudamos a navegar por estas aguas para que tu inglés sea tan auténtico como tú.
+El inglés es un organismo vivo y el slang es su latido. Dominar estas expresiones te permite conectar con las personas a un nivel emocional y cultural mucho más profundo. Úsalo con criterio: elige el registro adecuado según el contexto (una entrevista de trabajo no es TikTok) y asegúrate de entender bien los matices antes de lanzarte a usarlo.
 
 ¡No te quedes atrás y empieza a usar el inglés del mañana hoy mismo!
 

@@ -78,7 +78,7 @@ El IELTS es la opción preferida por los departamentos de inmigración. Para el 
 *   **AI Writing Checkers:** Usa herramientas para obtener feedback instantáneo de tus ensayos.
 *   **Simulacros Online:** Tanto IELTS como TOEFL ofrecen ahora versiones de práctica gratuitas en sus webs oficiales.
 
-En nuestro blog Focus English, puedes encontrar comparativas más profundas como "diferencias ielts toefl" o "ielts vs toefl para trabajar" para ver casos específicos.
+En los enlaces del final tienes comparativas más detalladas (diferencias IELTS vs TOEFL, cuál elegir para trabajar, cuál piden las universidades) para casos específicos.
 
 ---
 
@@ -91,11 +91,9 @@ En nuestro blog Focus English, puedes encontrar comparativas más profundas como
 
 ## Conclusión: Tu Futuro Empieza con un Título
 
-Elegir entre IELTS y TOEFL es una decisión estratégica. Ambos son exámenes de alto nivel que requieren meses de preparación. Mi consejo es que hagas un examen de prueba de cada uno y veas con cuál te sientes más cómodo.
+Elegir entre IELTS y TOEFL es una decisión estratégica. Ambos son exámenes de alto nivel que requieren meses de preparación. El mejor consejo práctico: **haz un examen de prueba gratuito de cada uno** (los dos organismos ofrecen *sample tests* oficiales en sus webs) y mira con cuál te sientes más cómodo.
 
-En **Focus English**, ofrecemos programas de mentoría específicos para ambos exámenes. Analizamos tus puntos débiles y te damos las herramientas necesarias para que alcances la puntuación que necesitas a la primera.
-
-**¿Ya te has decidido?** Explora nuestro hub sobre "mejor examen ingles trabajo" o consulta nuestra "guía inglés viajeros" si tu objetivo es más personal que académico.
+A partir de ahí, diagnostica tus puntos débiles (timing, vocabulario, comprensión de acentos, *writing task 2*…) y diseña un plan de estudio de 3 a 6 meses. En los enlaces de abajo tienes guías específicas por sección, comparativas y recursos gratuitos para prepararte.
 
 ---
 

@@ -99,7 +99,7 @@ Tu CV y tu LinkedIn deben ser gemelos, pero no clones. El CV es para el puesto e
 
 ## Conclusión
 
-Hacer un CV en inglés es el primer paso para internacionalizar tu carrera. En **Focus English**, te ayudamos no solo con el idioma, sino con la estrategia para que tu perfil destaque en un mercado competitivo. Un CV bien hecho no solo cuenta tu pasado; proyecta tu futuro.
+Hacer un CV en inglés es el primer paso para internacionalizar tu carrera. La clave no está solo en traducir, sino en **adaptar la estructura, el tono y las palabras clave** al estilo anglosajón (logros cuantificados, verbos de acción, sección de *skills*). Un CV bien hecho no solo cuenta tu pasado: proyecta tu futuro.
 
 ¡Es hora de actualizar tu futuro profesional!
 

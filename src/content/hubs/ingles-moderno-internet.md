@@ -92,7 +92,7 @@ Internet cambia más rápido de lo que los diccionarios pueden imprimir.
 
 ## Conclusión
 
-El inglés de internet es democrático, rápido y extremadamente creativo. No tengas miedo de experimentar con él. En **Focus English**, te enseñamos no solo el inglés de los clásicos, sino el inglés que está construyendo el futuro digital.
+El inglés de internet es democrático, rápido y extremadamente creativo. No tengas miedo de experimentar con él, pero no olvides que convive con el inglés de los clásicos (gramática sólida, vocabulario académico, registros formales): ambos son necesarios según el contexto en el que te muevas.
 
 ¡Nos vemos en los comentarios!
 

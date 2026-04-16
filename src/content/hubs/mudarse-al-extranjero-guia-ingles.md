@@ -130,8 +130,8 @@ Hacer amigos es vital para tu salud mental.
 
 No todo será perfecto. Sentirás nostalgia (*homesickness*) y un cansancio mental extremo por hablar otro idioma todo el día (*language fatigue*).
 
-**Consejos de Focus English:**
-1. **Establece rutinas:** Encuentra "tu" cafetería o "tu" parque. Sentirse dueño de un espacio pequeño ayuda a sentirte dueño de la ciudad.
+**Consejos prácticos para sobrellevarlo:**
+1. **Establece rutinas:** encuentra "tu" cafetería o "tu" parque. Sentirse dueño de un espacio pequeño ayuda a sentirte dueño de la ciudad.
 2. **Busca grupos de intereses:** No busques solo "españoles en Londres". Busca "fotógrafos en Londres" o "corredores en Londres". Compartir un hobby facilita mucho la comunicación.
 3. **Acepta tus errores:** Vas a decir cosas mal. Te vas a equivocar de autobús. Es parte del proceso. Ríete de ello.
 
@@ -150,7 +150,7 @@ Escucha la radio local de tu ciudad. Los locutores suelen tener un acento están
 
 ## Conclusión
 
-Mudarse al extranjero es un acto de reinvención. En **Focus English**, sabemos que el idioma es la herramienta más importante de tu maleta. No te desesperes si los primeros días son duros; cada conversación difícil te está acercando a la fluidez total. El mundo es enorme y ahora tienes las palabras para recorrerlo.
+Mudarse al extranjero es un acto de reinvención, y el idioma es la herramienta más importante de tu maleta. No te desesperes si los primeros días son duros: cada conversación difícil, cada malentendido en la panadería o en el banco, te está acercando a la fluidez real. El mundo es enorme y ahora tienes las palabras para recorrerlo.
 
 ¡Mucho éxito en tu nueva etapa! Your future starts now.
 

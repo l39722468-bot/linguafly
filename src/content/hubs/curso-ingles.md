@@ -95,16 +95,12 @@ Si tu prioridad es **comparar plataformas concreta a concreta** y ver cómo enca
 
 ---
 
-## Empieza tu Curso de Inglés con Focus English
+## Cómo elegir tu próximo paso
 
-En **Focus English** combinamos lo mejor de ambos mundos: la flexibilidad y accesibilidad de los cursos online con el rigor metodológico y el seguimiento personalizado de una academia de calidad.
+Tu próximo curso debería encajar con **tu nivel actual** y **tu objetivo real**: un examen concreto (Cambridge, IELTS, Aptis), una necesidad profesional o simplemente dejar de estancarte en B1. Antes de contratar nada, responde a estas tres preguntas:
 
-- Cursos para todos los niveles (A1 a C2)
-- Clases en directo con profesores nativos y bilingües
-- Plan de estudio adaptado a tu ritmo y objetivos
-- Materiales exclusivos y práctica conversacional real
-- Seguimiento continuo de tu progreso
+1. **¿Qué nivel tengo hoy?** Si no lo sabes con certeza, un test diagnóstico (la mayoría de plataformas lo incluye gratis) es el primer paso.
+2. **¿Cuál es mi objetivo en los próximos 6 meses?** Aprobar un examen, entrevistas de trabajo, vivir en el extranjero, mejorar la fluidez… no es lo mismo.
+3. **¿Cuántas horas reales a la semana puedo dedicar?** Tres horas bien distribuidas baten a seis horas mal planificadas.
 
-**¿No sabes qué nivel tienes?** Haz nuestro test de nivel gratuito y empieza desde el punto exacto que te corresponde.
-
-[→ Ver todos los cursos de Focus English](https://www.focus-on-english.com/cursos)
+Con esas tres respuestas, la comparativa de plataformas y los recursos gratuitos enlazados arriba te sirven para decidir de forma informada, sin dejarte llevar por la publicidad de cada web.

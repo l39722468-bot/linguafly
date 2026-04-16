@@ -101,18 +101,21 @@ El inglés puede sonar rudo si se traduce directamente del español. Usa estos "
 
 ---
 
-## 8. Recursos en Focus English para Customer Service
+## 8. Áreas clave para profundizar
 
-En **Focus English**, preparamos a equipos enteros para dar el salto al mercado internacional:
-*   **Inglés para Soporte Técnico:** Vocabulario específico de IT.
-*   **Frases Atención al Cliente Inglés:** Guías rápidas para copiar y pegar en chats.
-*   **Atención Telefónica Inglés:** Simulacros de llamadas para ganar fluidez y confianza.
+Dentro de *customer service*, hay tres bloques que conviene dominar por separado, porque cada uno tiene vocabulario y convenciones propias:
+
+*   **Inglés para soporte técnico:** terminología de IT (bugs, tickets, releases, *root cause*) y cómo explicar soluciones paso a paso.
+*   **Frases de atención al cliente por escrito:** expresiones estandarizadas para email, chat y redes sociales, con el tono adecuado.
+*   **Atención telefónica:** fórmulas de apertura y cierre, *hold the line*, gestión de reclamaciones en directo y alfabeto fonético NATO para deletrear.
+
+En los enlaces del final tienes guías específicas para cada canal y tipo de situación.
 
 ## Conclusión: El Servicio como Diferenciador
 
 Un cliente bien atendido en su idioma es un cliente fiel. El dominio del inglés en la atención al cliente no es solo una cuestión de palabras; es una cuestión de confianza, respeto y eficiencia.
 
-Sigue explorando nuestros hubs de "inglés profesional" y "atención al cliente internacional" para convertirte en el profesional de soporte que todas las empresas buscan. En **Focus English**, te damos las palabras para que tú des el mejor servicio.
+En los enlaces del final tienes guías por canal (teléfono, email, chat), por tipo de situación (quejas, devoluciones, soporte técnico) y por nivel (B1-B2-C1), para que puedas ir ampliando tu vocabulario poco a poco y en el orden que necesites.
 
 ---
 

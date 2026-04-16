@@ -87,7 +87,7 @@ En 2026 estamos viendo la aparición de acentos "transatlánticos" o "globales" 
 
 ## Conclusión
 
-Tu acento es tu identidad y tu historia. No intentes borrarlo por completo; intenta que sea **claro y funcional**. En **Focus English**, celebramos la diversidad del inglés y te damos las herramientas para que navegues por todos sus acentos con confianza.
+Tu acento es tu identidad y tu historia. No intentes borrarlo por completo; intenta que sea **claro y funcional**. En un mundo donde el inglés se habla de más formas distintas cada año, lo importante no es sonar como alguien de Londres o de Nueva York, sino entender bien cualquier acento y que te entiendan a ti.
 
 The world is speaking English. Are you ready to listen?
 

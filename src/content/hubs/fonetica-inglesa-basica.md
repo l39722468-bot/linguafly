@@ -99,7 +99,7 @@ Ignorar el acento tónico es el error número uno que dificulta que los nativos 
 
 ## Conclusión
 
-La fonética no es aburrida; es liberadora. Te da el poder de pronunciar cualquier palabra del diccionario correctamente a la primera. En **Focus English**, creemos que entender los fundamentos del sonido te da una ventaja competitiva enorme en tu aprendizaje.
+La fonética no es aburrida: es **liberadora**. Te da el poder de pronunciar cualquier palabra del diccionario correctamente a la primera, sin depender de que alguien te la diga en voz alta. Entender los fundamentos del sonido —vocales, consonantes, *schwa*, acento tónico, entonación— es una de las inversiones con mejor retorno en todo el aprendizaje del inglés.
 
 ¡Atrévete a explorar los sonidos del inglés!
 

@@ -101,7 +101,7 @@ Esta es la parte que más asusta, pero existen frases para ganar tiempo y respon
 
 Hacer presentaciones en inglés es una de las formas más rápidas de ganar visibilidad y autoridad en una empresa internacional. Con la estructura adecuada y el vocabulario de impacto que hemos visto, dejarás de sobrevivir a las presentaciones para empezar a disfrutarlas.
 
-En **Focus English**, ofrecemos talleres específicos de "Presentations Skills" donde trabajamos la oratoria, la pronunciación y el diseño de mensajes persuasivos. Sigue explorando nuestros hubs sobre "vocabulario presentaciones profesionales" y "hablar en público inglés" para seguir perfeccionando tu técnica.
+Para perfeccionar tu técnica, trabaja tres frentes en paralelo: **oratoria** (estructura y voz), **pronunciación** (claridad y ritmo) y **diseño de mensajes persuasivos** (cómo ordenar ideas, abrir, cerrar y responder al *Q&A*). En los enlaces del final tienes guías específicas de vocabulario, *storytelling* profesional y gestión de preguntas difíciles en inglés.
 
 ---
 

@@ -115,7 +115,7 @@ Para demostrar tu nivel MCER, existen varios exámenes:
 
 Entender los niveles del MCER te ayuda a establecer metas realistas. No intentes llegar al C1 en tres meses si estás en un A2. Celebra cada pequeño avance: entender una canción, pedir en un restaurante o escribir un email profesional sin ayuda.
 
-En **Focus English**, todos nuestros cursos están alineados con el MCER. Utilizamos evaluaciones continuas para que siempre sepas en qué punto te encuentras y qué necesitas para seguir subiendo. Sigue explorando nuestros hubs sobre "como pasar de nivel ingles" y "niveles ingles mcer" para planificar tu éxito.
+Cuando elijas un curso, un examen o un material de estudio, fíjate siempre en **a qué nivel del MCER está dirigido**: un libro "avanzado" puede significar B2 en una editorial y C1 en otra. Usar el marco como brújula te evita perder tiempo con materiales que no te corresponden. En los enlaces de abajo tienes guías específicas por nivel (A1 a C2) y por cómo dar el salto al siguiente peldaño.
 
 ---
 

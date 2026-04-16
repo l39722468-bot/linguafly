@@ -110,9 +110,7 @@ Esperamos que no las necesites, pero debes conocerlas.
 
 Aprender inglés para tus viajes no solo te ayuda a pedir un café; te permite conectar con personas de todo el mundo. Te da la libertad de salirte de las rutas turísticas convencionales y vivir experiencias auténticas.
 
-En **Focus English**, hemos diseñado cursos específicos para viajeros que se centran en la **fluidez oral** y la **comprensión auditiva**. No te enseñamos listas de verbos interminables, sino cómo sobrevivir y disfrutar de tu próxima aventura.
-
-**¿Tu próximo destino?** Prepárate con nuestros recursos sobre "frases básicas inglés viaje" o consulta nuestra "guía inglés viajeros" para planes de estudio personalizados. ¡Buen viaje! (Safe travels!).
+Para viajar, lo útil es priorizar **fluidez oral y comprensión auditiva** frente a listas interminables de verbos irregulares: bloques funcionales (aeropuerto, hotel, transporte, restaurantes, emergencias), frases completas que puedas reutilizar y práctica con acentos variados. En los enlaces del final tienes guías específicas para cada situación. ¡Safe travels!
 
 ---
 

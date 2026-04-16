@@ -91,11 +91,9 @@ El certificado en sí no tiene fecha de caducidad, pero muchas instituciones (co
 
 ## Conclusión: Tu Certificado B1 está a un paso
 
-Aptis General es la herramienta perfecta para quienes necesitan resultados prácticos sin complicaciones. Su enfoque en el inglés real y su sistema multinivel hacen que sea un examen muy justo y accesible para todos los niveles.
+Aptis General es la opción más práctica para quienes necesitan un certificado oficial sin complicaciones. Su enfoque en el inglés real y su sistema multinivel lo convierten en un examen justo y accesible para todos los niveles.
 
-En **Focus English**, hemos ayudado a cientos de opositores y estudiantes a conseguir su nivel B1 en tiempo récord. Nuestra metodología se centra en la **técnica de examen** para que sepas exactamente qué responder en cada segundo de la prueba.
-
-**¿Listo para examinarte?** No olvides revisar nuestro hub sobre "certificacion rapida ingles" o consulta nuestra "guía inglés viajeros" si quieres un enfoque más práctico del idioma.
+Si tu objetivo es acreditar un **B1** (por oposiciones, convalidaciones o admisión universitaria), dedica el tiempo previo a **dos cosas**: (1) conocer al detalle el formato de cada prueba, y (2) practicar cronometrado en condiciones reales. En los enlaces del final tienes guías específicas de cada parte (*Speaking*, *Writing*, *Listening*, *Reading*, gramática y vocabulario) y de las variantes Aptis A2 y Aptis Advanced C1.
 
 ---
 

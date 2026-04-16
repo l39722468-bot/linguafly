@@ -45,7 +45,7 @@ Transformar un mensaje directo en uno más diplomático es más sencillo con eje
 No te limites a las reglas básicas; usa la tecnología para entender el "por qué".
 
 ### Comparación de Estructuras
-Prueba a preguntar: *"¿Qué diferencia hay entre usar el Present Perfect y el Past Simple en este ejemplo? Dame situaciones claras para cada uno."* La respuesta te servirá como refuerzo a tus ejercicios de gramática en Focus English.
+Prueba a preguntar: *"¿Qué diferencia hay entre usar el Present Perfect y el Past Simple en este ejemplo? Dame situaciones claras para cada uno."* La respuesta te servirá como refuerzo a tus ejercicios de gramática habituales.
 
 ## 3. Expansión de Vocabulario Técnico
 
@@ -63,14 +63,14 @@ Usa la herramienta para generar guiones o ejemplos de diálogos que luego puedas
 ## FAQ: Preguntas Frecuentes
 
 ### ¿Es fiable la información de ChatGPT?
-Aunque es muy avanzado, puede cometer errores. Úsalo siempre como un complemento y contrasta la información importante con los recursos oficiales de Focus English.
+Aunque es muy avanzado, puede cometer errores (sobre todo con matices gramaticales o colocaciones). Úsalo siempre como complemento y contrasta la información relevante con fuentes de referencia como diccionarios (Cambridge, Oxford), gramáticas académicas o guías didácticas.
 
 ### ¿Sustituye a un curso de inglés?
-No. ChatGPT es una herramienta de consulta, no un programa pedagógico. Un aprendizaje sólido requiere la estructura, el seguimiento y la variedad de ejercicios que ofrece una plataforma como Focus English.
+No. ChatGPT es una herramienta de consulta y práctica libre, no un programa pedagógico estructurado. Un aprendizaje sólido requiere secuencia, progresión por niveles, feedback humano y variedad de ejercicios. Piensa en ChatGPT como un "compañero de estudio" disponible 24/7, no como el profesor.
 
 ## Conclusión: La Tecnología al Servicio de tu Progreso
 
-El uso de ChatGPT como apoyo es un gran complemento para el estudiante moderno. En **Focus English**, integramos el uso de la tecnología con una metodología de ejercicios probada para asegurar que alcances tus objetivos.
+ChatGPT es un complemento excelente para el estudiante moderno: te permite practicar a cualquier hora, pedir explicaciones alternativas y generar ejercicios a medida. Combínalo con un plan de estudio claro, materiales fiables y práctica oral con personas reales, y habrás construido una rutina difícil de superar.
 
 ¡Utiliza todas las herramientas a tu disposición para practicar cada día más y mejor!
 

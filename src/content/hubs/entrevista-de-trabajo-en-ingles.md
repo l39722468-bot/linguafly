@@ -96,11 +96,9 @@ Después de la entrevista, envía un **Thank You Note** (por email) en las prime
 
 ## Conclusión: Tu Carrera No Tiene Fronteras
 
-Dominar una entrevista de trabajo en inglés es una habilidad que se entrena. No se trata de tener una gramática perfecta, sino de ser capaz de comunicar tu valor de forma clara y profesional.
+Dominar una entrevista de trabajo en inglés es una habilidad que se entrena. No se trata de tener una gramática perfecta, sino de ser capaz de comunicar tu valor de forma clara y profesional: estructurar tus respuestas con la técnica STAR, preparar el vocabulario clave de tu sector y anticipar las preguntas más difíciles.
 
-En **Focus English**, te damos los recursos y el vocabulario para que puedas comunicar tu valor con claridad y confianza, independientemente de tu nivel actual.
-
-**¿Listo para el siguiente paso?** Explora nuestros cursos y recursos para completar tu preparación.
+En los enlaces de abajo tienes guías específicas para cada fase del proceso: desde la preparación inicial y las preguntas más frecuentes hasta cómo negociar el salario o salir airoso de una entrevista virtual.
 
 ---
 

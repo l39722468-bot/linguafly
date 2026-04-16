@@ -93,18 +93,20 @@ No hay uno mejor que otro. Depende de tus objetivos:
 
 ---
 
-## 7. Recursos en Focus English
+## 7. Dónde se nota la diferencia (y dónde no)
 
-En nuestro portal, cubrimos ambas variantes para que seas un ciudadano del mundo:
-*   **Diferencias IELTS TOEFL:** El primero usa más inglés británico y el segundo americano.
-*   **Inglés para Viajar:** Consejos útiles independientemente de si vas a Londres o Miami.
-*   **Vocabulario Ropa Inglés:** Aprende a distinguir entre *jumper* y *sweater*.
+Estas son las áreas donde conocer la variante es más útil:
+
+*   **Exámenes oficiales:** IELTS se apoya más en inglés británico, TOEFL en americano; ambos aceptan cualquier variante siempre que seas consistente.
+*   **Viajes:** el vocabulario del día a día (*lift/elevator*, *flat/apartment*) cambia más que la gramática.
+*   **Ropa y compras:** *jumper/sweater*, *trainers/sneakers*, *trousers/pants*… son las típicas confusiones de turista.
+*   **Trabajo internacional:** en empresas globales se suele usar *International English*, una versión neutra; no te obsesiones con elegir bando.
 
 ## Conclusión: Un Solo Idioma, Muchas Voces
 
 El inglés americano y el británico son las dos caras de una misma moneda. Conocer sus diferencias no solo te evitará confusiones (como pedir *pants* en Londres y que piensen que hablas de tu ropa interior), sino que te dará una visión mucho más rica y global de la lengua inglesa.
 
-En **Focus English**, celebramos la diversidad del idioma. Nuestros profesores provienen de diversos países angloparlantes, asegurando que nuestros alumnos desarrollen un oído capaz de entender cualquier acento y un vocabulario versátil para cualquier situación.
+La mejor estrategia es **elegir una variante como base** (por afinidad con el examen, el destino o tu exposición actual) y exponerte también a la otra sin miedo a "contaminarte": entender ambas es lo que realmente te convierte en un hablante global.
 
 ---
 

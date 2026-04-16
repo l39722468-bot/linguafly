@@ -106,18 +106,22 @@ Si vas a publicar o presentar un caso, debes dominar estructuras como:
 
 ---
 
-## 8. Recursos en Focus English para el Sector Salud
+## 8. Cómo seguir practicando inglés médico
 
-En **Focus English**, entendemos las necesidades específicas de los profesionales de la salud. Contamos con recursos adaptados:
-*   **Inglés Médico Online:** Cursos enfocados en la práctica diaria en hospitales.
-*   **Vocabulario Sanitario:** Listas de términos para enfermería, fisioterapia y medicina.
-*   **Atención al Paciente Inglés:** Cómo comunicar noticias difíciles y dar instrucciones de tratamiento con claridad.
+El inglés médico se consolida con **exposición constante a contenido real** más que con listas aisladas de vocabulario. Algunas vías útiles:
+
+*   **Casos clínicos en inglés** (*case reports*) de revistas como *The Lancet*, *BMJ* o *NEJM*.
+*   **Podcasts especializados** (*Bedside Rounds*, *NEJM This Week*) para entrenar oído con terminología técnica y acento nativo.
+*   **Diccionarios médicos bilingües** (Navarro, *Dorland's*) para dudas puntuales.
+*   **Simulación oral**: practica anamnesis y explicación de tratamientos en voz alta o con un colega.
+
+En los enlaces del final tienes guías específicas para enfermería, medicina especialista, atención al paciente y comunicación de noticias difíciles.
 
 ## Conclusión: Precisión que Genera Confianza
 
 Dominar el inglés médico te abre las puertas a una comunidad internacional de conocimiento y te permite ofrecer una atención de excelencia a pacientes de cualquier nacionalidad. No se trata solo de palabras técnicas, sino de construir un puente de confianza en momentos de vulnerabilidad.
 
-Sigue profundizando en nuestra plataforma con recursos sobre "terminología médica inglés" y "vocabularios específicos de salud". En el sector sanitario, tu conocimiento es tu mayor activo, y el inglés es la herramienta para compartirlo con el mundo.
+En el sector sanitario, tu conocimiento es tu mayor activo, y el inglés es la herramienta para compartirlo con el mundo.
 
 ---
 

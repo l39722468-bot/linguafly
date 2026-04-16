@@ -62,7 +62,7 @@ Si prefieres un lenguaje más pausado y formal, los documentales son tu mejor op
 
 ## 5. La Técnica del "Visionado Activo" (Active Watching)
 
-En **Focus English**, no queremos que seas un espectador pasivo. Queremos que tu cerebro esté "encendido". Usa este método de 4 pasos:
+El error más común es ver series en inglés de forma pasiva: con el cerebro "apagado", apenas absorbes nada. La clave es el **visionado activo**, un método de 4 pasos:
 
 1. **Pre-visionado:** Lee un resumen corto del episodio en inglés (en IMDb o Wikipedia). Esto crea "anclajes mentales" para que tu cerebro sepa qué esperar.
 2. **Visionado con "Shadowing":** Elige una frase que te guste y repítela imitando la entonación exacta del actor. Hazlo tres veces. Siente cómo se mueve tu lengua.
@@ -91,7 +91,7 @@ Es normal. La frustración es parte del aprendizaje. Si un episodio es muy difí
 
 ## Conclusión
 
-El cine y las series son portales mágicos a la fluidez. En **Focus English**, integramos estas recomendaciones en nuestra metodología porque sabemos que la lengua está viva y late en las historias que nos contamos. Así que, prepara tus auriculares, elige tu serie favorita y deja que el inglés deje de ser un estudio para convertirse en una experiencia.
+El cine y las series son portales directos a la fluidez: la lengua está viva y late en las historias que nos contamos, con sus acentos, registros y matices culturales. Prepara tus auriculares, elige una serie que te enganche y deja que el inglés pase de ser un estudio a convertirse en una experiencia cotidiana.
 
 ¡Enjoy the show!
 

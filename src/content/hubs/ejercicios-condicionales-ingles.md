@@ -91,10 +91,10 @@ No basta con conocer la teoría; necesitas integrar estas estructuras en tu prod
 
 Dominar los condicionales en inglés es un viaje que requiere paciencia y mucha práctica. Desde las verdades universales del condicional cero hasta los complejos arrepentimientos del tercer condicional, cada estructura te da una herramienta nueva para expresarte con precisión.
 
-En Focus English, creemos en el aprendizaje contextualizado. No se trata de memorizar tablas, sino de entender la intención detrás de cada "If". Sigue explorando nuestros recursos y utiliza los ejercicios prácticos para consolidar este conocimiento.
+La clave no es memorizar tablas, sino entender la **intención** detrás de cada *If*: ¿hablo de una verdad general, de algo probable, de una hipótesis irreal o de un pasado que no ocurrió? Una vez clara esa distinción, las fórmulas gramaticales dejan de ser una lista y empiezan a tener sentido.
 
 ---
-*Nota: Esta guía es solo el comienzo. Asegúrate de revisar nuestros artículos específicos sobre cada tipo de condicional para profundizar en sus excepciones y usos avanzados.*
+*Nota: esta guía es solo un punto de entrada. En los enlaces del final tienes artículos específicos para cada tipo de condicional, con ejercicios y casos avanzados.*
 
 ## 📚 Profundiza más
 

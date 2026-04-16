@@ -94,18 +94,21 @@ Los ingenieros trabajan bajo marcos regulatorios globales como **ISO** (Internat
 
 ---
 
-## 7. Recursos en Focus English para Ingenieros
+## 7. Áreas clave para profundizar
 
-Entendemos que el tiempo de un ingeniero es valioso. Por eso, hemos diseñado recursos directos al grano:
-*   **Vocabulario Ingeniería Inglés:** Listas descargables de términos técnicos.
-*   **Presentaciones en Inglés:** Cómo exponer datos y resultados técnicos con impacto.
-*   **Inglés para Proyectos:** Frases clave para metodologías Agile y Waterfall.
+Como ingeniero, el tiempo es limitado, así que merece la pena concentrarse en tres frentes:
+
+*   **Vocabulario técnico de tu rama:** listas de términos específicos (civil, mecánica, eléctrica, software), no inglés "genérico".
+*   **Presentaciones en inglés:** cómo exponer datos, KPIs y resultados técnicos con claridad y soltura ante audiencias no expertas o internacionales.
+*   **Inglés para gestión de proyectos:** frases clave de metodologías *Agile*, *Scrum* y *Waterfall*, reuniones de *stand-up*, informes de estado y *retrospectives*.
+
+En los enlaces del final tienes guías específicas para cada uno de estos bloques.
 
 ## Conclusión: Tu Carrera Sin Límites
 
 El dominio del inglés técnico es lo que separa a un ingeniero local de uno global. Te permite acceder a las últimas tecnologías, trabajar en las empresas más innovadoras del mundo y liderar proyectos que cambian la realidad.
 
-En **Focus English**, ofrecemos programas de **English for Engineering** diseñados por profesionales que entienden tu lenguaje. No perdemos el tiempo con gramática irrelevante; nos enfocamos en que seas capaz de defender tus ideas técnicas en cualquier mesa de reuniones del mundo. Sigue explorando nuestro hub de "inglés técnico" y lleva tu carrera al siguiente nivel.
+La clave para un ingeniero es centrarse en **inglés aplicado**, no en gramática abstracta: ser capaz de defender tus ideas técnicas, liderar una reunión de diseño o escribir una documentación clara. En los enlaces del final tienes guías específicas por rama (software, civil, industrial) y por situación (*stand-ups*, *code reviews*, informes técnicos).
 
 ---
 

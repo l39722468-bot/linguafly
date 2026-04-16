@@ -114,14 +114,14 @@ Aunque uses una app, ten un cuaderno físico (o una nota en el móvil). Cuando u
 
 ---
 
-## ¿Cómo combinar Apps con Focus English?
+## Cómo combinar apps con contenido teórico
 
-Las aplicaciones son excelentes para la **práctica mecánica**, pero a menudo fallan al explicar el "porqué" profundo de las estructuras.
+Las aplicaciones son excelentes para la **práctica mecánica** (vocabulario, drilling, oído), pero suelen fallar al explicar el "porqué" profundo de las estructuras.
 
-- **Usa las Apps para:** Vocabulario, entrenamiento del oído y práctica diaria rápida.
-- **Usa los Hubs de Focus English para:** Entender los **Condicionales**, la **Voz Pasiva** o prepararte para **Exámenes Oficiales**. 
+- **Usa las apps para:** vocabulario, entrenamiento del oído y práctica diaria rápida.
+- **Usa guías y artículos largos para:** entender **condicionales**, la **voz pasiva**, *reported speech* o prepararte para **exámenes oficiales**.
 
-Cuando encuentres algo en Duolingo o Cake que no entiendas, ven a Focus English, busca el tema en nuestros hubs y asienta el conocimiento teórico. Esta combinación de "Práctica App + Teoría Focus" es la forma más rápida de alcanzar la fluidez en 2026.
+Cuando encuentres algo en Duolingo, Cake o Anki que no entiendas, busca una explicación teórica clara (un hub temático, un artículo de gramática, un vídeo de YouTube especializado) y consolida el concepto. Esta combinación de **práctica diaria en la app + teoría puntual** es la forma más rápida de avanzar en 2026.
 
 ---
 
@@ -157,4 +157,4 @@ Hemos analizado en detalle cada herramienta y método para que puedas sacarle el
 
 En 2026, la barrera del dinero ha desaparecido. Lo único que separa a un estudiante exitoso de uno que abandona es la **disciplina**. Las **apps gratuitas para aprender inglés** son herramientas de grado profesional que, bien utilizadas, pueden cambiar tu carrera y tu vida.
 
-Elige tus herramientas hoy, establece tu objetivo y recuerda que en **Focus English** siempre tendremos el contenido de calidad que necesitas para complementar tu aprendizaje digital. ¡Let's get started!
+Elige tus herramientas hoy, establece un objetivo claro y reserva cada semana un hueco fijo para estudiar. La constancia, no la app, es lo que marca la diferencia. *Let's get started!*

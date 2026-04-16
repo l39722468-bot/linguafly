@@ -104,7 +104,7 @@ Si has llegado aquí buscando "voz pasiva avanzada ingles" o "examples of passiv
 
 La voz pasiva no es solo una regla gramatical para aprobar exámenes; es una forma de ver el mundo y de comunicar prioridades. Dominarla te permitirá escribir correos electrónicos más profesionales, entender textos técnicos y mejorar tu fluidez académica.
 
-En **Focus English** encontrarás recursos y cursos para dominar el inglés con la precisión que exige el mercado global.
+En los enlaces del final tienes guías específicas por tiempo verbal (presente, pasado, futuro, *present perfect*) y usos avanzados como la pasiva con modales, *causative have* o la pasiva impersonal tipo *It is said that…*.
 
 ## 📚 Profundiza más
 

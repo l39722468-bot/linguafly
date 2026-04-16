@@ -78,7 +78,7 @@ Adaptarse a otra cultura no significa cambiar quién eres. Significa ampliar tu 
 
 ## Conclusión
 
-La cultura es el sistema operativo del idioma. En **Focus English**, no solo te enseñamos a hablar; te enseñamos a navegar por el mundo con la confianza de quien entiende las reglas del juego. Entender la cultura anglosajona te hará un comunicador más empático, profesional y exitoso.
+La cultura es el sistema operativo del idioma: puedes dominar la gramática y aun así sonar fuera de lugar si desconoces las reglas del juego social. Entender la cultura anglosajona —sus códigos, su humor, su sentido del *small talk*, sus formas de cortesía— te hará un comunicador más empático, profesional y natural.
 
 Welcome to the global community!
 

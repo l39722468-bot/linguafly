@@ -88,18 +88,22 @@ Cuidado con las palabras que se parecen al español pero significan algo distint
 
 ---
 
-## 7. Recursos en Focus English
+## 7. Cómo organizar tu vocabulario por objetivos
 
-En nuestro portal, hemos clasificado el vocabulario para que te sea fácil encontrar lo que necesitas:
-*   **Vocabulario Inglés B1:** Listas enfocadas a superar el examen intermedio.
-*   **Business English Vocabulary:** Términos para finanzas, marketing y recursos humanos.
-*   **Vocabulario Ropa Inglés:** Ideal para tus viajes y compras.
+En lugar de estudiar listas genéricas, organiza el vocabulario **por bloques funcionales**:
+
+*   **Vocabulario por nivel** (A2, B1, B2, C1): ideal si preparas un examen oficial o quieres consolidar un peldaño del MCER.
+*   **Business English:** finanzas, marketing, recursos humanos, reuniones, negociación.
+*   **Vocabulario por situación:** viajar, ropa y compras, hotel, aeropuerto, restaurante.
+*   **Vocabulario por rama profesional:** medicina, ingeniería, atención al cliente, educación, tecnología.
+
+En los enlaces del final tienes guías específicas para cada uno de estos bloques.
 
 ## Conclusión: El Vocabulario es Libertad
 
-Cuantas más palabras conozcas, más libre serás para expresar quién eres en otro idioma. No te agobies intentando aprenderlo todo a la vez. Elige 5 palabras al día, úsalas en una frase y verás cómo, en un año, habrás transformado completamente tu nivel de inglés.
+Cuantas más palabras conozcas, más libre serás para expresar quién eres en otro idioma. No te agobies intentando aprenderlo todo a la vez: elige 5 palabras al día, úsalas en una frase real y verás cómo, en un año, habrás transformado tu nivel.
 
-En **Focus English**, creemos que el vocabulario debe ser útil y relevante. Por eso, nuestros cursos se basan en situaciones de la vida real, asegurando que cada palabra que aprendas tenga un lugar en tu próxima conversación, ya sea en una reunión de negocios o en un viaje por el mundo.
+Lo importante no es el tamaño de la lista, sino que **cada palabra que aprendas tenga un lugar** en tu próxima conversación, email o lectura. El vocabulario que no usas, lo olvidas.
 
 ---
 

@@ -101,9 +101,7 @@ Esta es la parte más difícil del trabajo. La clave es la diplomacia.
 
 En un mundo hiperconectado, las reseñas en portales como TripAdvisor o Google Maps dependen en gran medida del servicio recibido. Un camarero que se comunica con fluidez en inglés puede transformar una comida ordinaria en una experiencia de 5 estrellas, lo que se traduce en mejores propinas y mayor fidelidad de los clientes.
 
-En **Focus English**, colaboramos con hoteles y restaurantes para formar a sus equipos en el uso de un inglés práctico, profesional y orientado a resultados. No se trata de gramática abstracta, sino de situaciones reales de sala y barra.
-
-**¿Quieres mejorar tu perfil profesional?** Explora nuestros recursos sobre "frases camarero inglés" o "vocabulario restaurante inglés" y prepárate para destacar en el sector turístico internacional.
+Para formarse en este sector, lo útil no es la gramática abstracta sino **situaciones reales de sala y barra**: saludar y acomodar a un cliente, tomar pedidos, explicar alérgenos, gestionar una queja o cobrar correctamente. En los enlaces del final tienes guías específicas con frases listas para usar y vocabulario de restaurante, bar, hotel y recepción.
 
 ---
 

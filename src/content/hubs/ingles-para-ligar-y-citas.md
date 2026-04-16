@@ -107,7 +107,7 @@ Si la cosa va bien, llegará el momento de hablar en serio.
 
 ---
 
-## 7. Consejos de Focus English para Ligar con Éxito
+## 7. Consejos prácticos para ligar con éxito en inglés
 
 1. **Usa el idioma a tu favor:** Si cometes un error, ríete de ello. *"Sorry, my English is a bit rusty when I'm nervous!"* es una frase encantadora que rompe la tensión.
 2. **Body Language (Lenguaje Corporal):** El 70% de la comunicación no es verbal. Mantén contacto visual y sonríe. Eso se entiende en cualquier idioma.
@@ -137,7 +137,7 @@ Usa frases más cortas, evita el argot muy local y apóyate en fotos de tu móvi
 
 ## Conclusión
 
-Ligar en inglés es una aventura que va más allá del lenguaje; es una inmersión en otra forma de sentir y expresar el afecto. En **Focus English**, creemos que aprender un idioma es abrir una puerta a nuevas conexiones humanas. No busques la perfección gramatical, busca la conexión auténtica. 
+Ligar en inglés es una aventura que va más allá del lenguaje: es una inmersión en otra forma de sentir y expresar el afecto. Aprender un idioma es abrir una puerta a nuevas conexiones humanas, así que no busques la perfección gramatical, busca la **conexión auténtica**.
 
 ¡El amor no entiende de gramática, pero una buena frase en el momento justo ayuda mucho! ¡Ánimo y a disfrutar de la experiencia!
 

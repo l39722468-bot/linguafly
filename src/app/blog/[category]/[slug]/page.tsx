@@ -8,7 +8,7 @@ import { BlogEnhancements } from "@/components/blog/BlogEnhancements";
 import { TableOfContents } from "@/components/blog/TableOfContents";
 import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
 import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
-import { getBlogArticles, getArticleBySlug, getRelatedArticles, getRelatedByKeywords, normalizeCategory, slugify } from "@/lib/blog";
+import { getBlogArticles, getArticleBySlug, getRelatedArticles, getRelatedByKeywords, getArticlesByCategory, normalizeCategory, slugify } from "@/lib/blog";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import ReactMarkdown from 'react-markdown';
@@ -233,6 +233,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const relatedArticles = getRelatedArticles(slug, article.category);
   const clusterArticles = getRelatedByKeywords(slug, article.keywords || [], 3);
   const mainKeyword = article.keywords?.[0];
+
+  /** Artículos de la misma categoría para la navegación de la sidebar (sin CTAs comerciales). */
+  const sidebarCategoryArticles = getArticlesByCategory(article.category)
+    .filter((a) => a.slug !== slug)
+    .slice(0, 5);
     return (
       <>
         {/* SEO Schemas */}
@@ -473,70 +478,44 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
               <aside className="lg:col-span-4 space-y-8">
                 <div className="sticky top-32">
                   <TableOfContents />
-                  <div className="bg-slate-900 rounded-3xl p-8 text-white relative overflow-hidden">
-                    <div className="relative z-10">
-                      {normalizedCategory === 'examenes' ? (
-                        <>
-                          <h3 className="font-display text-2xl font-bold mb-4">¿Preparas un examen oficial?</h3>
-                          <p className="text-slate-400 mb-6">Practica Speaking con IA, corrige tu Writing y simula exámenes reales de Cambridge, IELTS y TOEFL.</p>
-                          <Link
-                            href="/cuenta/registro?plan=cambridge"
-                            className="block w-full bg-coral-600 text-white text-center py-4 rounded-xl font-bold hover:bg-coral-700 transition-all"
-                          >
-                            Empezar preparación
-                          </Link>
-                        </>
-                      ) : normalizedCategory === 'trabajo' ? (
-                        <>
-                          <h3 className="font-display text-2xl font-bold mb-4">¿Inglés para tu carrera?</h3>
-                          <p className="text-slate-400 mb-6">Domina el inglés profesional con nuestro plan especializado para entrevistas, reuniones y emails.</p>
-                          <Link
-                            href="/cuenta/registro?plan=professional"
-                            className="block w-full bg-coral-600 text-white text-center py-4 rounded-xl font-bold hover:bg-coral-700 transition-all"
-                          >
-                            Comenzar ahora
-                          </Link>
-                        </>
-                      ) : normalizedCategory === 'gramatica' ? (
-                        <>
-                          <h3 className="font-display text-2xl font-bold mb-4">¿Preparas Cambridge o B2?</h3>
-                          <p className="text-slate-400 mb-6">Practica gramática avanzada con ejercicios adaptados a tu nivel y corrección instantánea con IA.</p>
-                          <Link
-                            href="/cuenta/registro?plan=grammar"
-                            className="block w-full bg-coral-600 text-white text-center py-4 rounded-xl font-bold hover:bg-coral-700 transition-all"
-                          >
-                            Practicar gramática gratis
-                          </Link>
-                        </>
-                      ) : normalizedCategory === 'viajes' ? (
-                        <>
-                          <h3 className="font-display text-2xl font-bold mb-4">¿Viajas pronto?</h3>
-                          <p className="text-slate-400 mb-6">Prepárate para tu próximo destino con nuestro curso acelerado de inglés para viajeros.</p>
-                          <Link
-                            href="/cuenta/registro?plan=survival"
-                            className="block w-full bg-coral-600 text-white text-center py-4 rounded-xl font-bold hover:bg-coral-700 transition-all"
-                          >
-                            Comenzar ahora
-                          </Link>
-                        </>
-                      ) : (
-                        <>
-                          <h3 className="font-display text-2xl font-bold mb-4">¿Quieres mejorar tu inglés?</h3>
-                          <p className="text-slate-400 mb-6">Accede a nuestros cursos personalizados con IA y alcanza el nivel que necesitas.</p>
-                          <Link
-                            href="/cuenta/registro"
-                            className="block w-full bg-coral-600 text-white text-center py-4 rounded-xl font-bold hover:bg-coral-700 transition-all"
-                          >
-                            Probar gratis 7 días
-                          </Link>
-                        </>
-                      )}
-                    </div>
-                    <div className="absolute -bottom-10 -right-10 w-40 h-40 bg-coral-600/20 rounded-full blur-3xl" />
-                    <div className="absolute -top-10 -left-10 w-40 h-40 bg-blue-600/10 rounded-full blur-3xl" />
-                  </div>
 
-                  {/* Blog Enhancements (Social proof, stats, etc) */}
+                  {/* Tarjeta informativa: más contenido gratuito de la misma categoría */}
+                  {sidebarCategoryArticles.length > 0 && (
+                    <nav
+                      aria-label={`Más artículos sobre ${categoryLabel}`}
+                      className="bg-white border border-slate-200 rounded-3xl p-6 shadow-sm"
+                    >
+                      <p className="text-xs font-bold uppercase tracking-wider text-indigo-600 mb-2">
+                        Sigue aprendiendo
+                      </p>
+                      <h3 className="font-display text-xl font-black text-slate-900 mb-4">
+                        Más sobre {categoryLabel}
+                      </h3>
+                      <ul className="space-y-3">
+                        {sidebarCategoryArticles.map((rel) => (
+                          <li key={rel.slug}>
+                            <Link
+                              href={`/blog/${normalizeCategory(rel.category)}/${rel.slug}`}
+                              className="group flex items-start gap-2 text-sm text-slate-700 hover:text-indigo-700 transition-colors"
+                            >
+                              <span className="mt-1 flex-shrink-0 text-indigo-500 group-hover:translate-x-0.5 transition-transform">
+                                →
+                              </span>
+                              <span className="leading-snug">{rel.title}</span>
+                            </Link>
+                          </li>
+                        ))}
+                      </ul>
+                      <Link
+                        href={`/blog/${normalizedCategory}`}
+                        className="mt-5 inline-flex items-center gap-1 text-sm font-semibold text-indigo-600 hover:text-indigo-800 hover:underline"
+                      >
+                        Ver todo en {categoryLabel}
+                        <span aria-hidden>›</span>
+                      </Link>
+                    </nav>
+                  )}
+
                   <div className="mt-8">
                     <BlogEnhancements />
                   </div>
