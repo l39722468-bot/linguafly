@@ -756,6 +756,8 @@ const nextConfig = {
         "https://5gvci.com",
         "https://p0p.com",
         "https://6p0p.com",
+        "https://*.p0p.com",
+        "https://*.6p0p.com",
       ].join(' '),
       [
         "connect-src 'self'",
@@ -781,6 +783,8 @@ const nextConfig = {
         "https://5gvci.com",
         "https://p0p.com",
         "https://6p0p.com",
+        "https://*.p0p.com",
+        "https://*.6p0p.com",
       ].join(' '),
       [
         "img-src 'self' data: blob:",
@@ -796,6 +800,8 @@ const nextConfig = {
         // Monetag
         "https://p0p.com",
         "https://6p0p.com",
+        "https://*.p0p.com",
+        "https://*.6p0p.com",
       ].join(' '),
       "style-src 'self' 'unsafe-inline'",
       "font-src 'self' data: https://fonts.gstatic.com",
@@ -815,6 +821,8 @@ const nextConfig = {
         // Monetag
         "https://p0p.com",
         "https://6p0p.com",
+        "https://*.p0p.com",
+        "https://*.6p0p.com",
       ].join(' '),
       "media-src 'self' blob:",
       [
@@ -822,6 +830,11 @@ const nextConfig = {
         "https://www.google.com",
         "https://pagead2.googlesyndication.com",
         "https://5gvci.com",
+        // Monetag (runtime dinámico)
+        "https://p0p.com",
+        "https://6p0p.com",
+        "https://*.p0p.com",
+        "https://*.6p0p.com",
       ].join(' '),
       "upgrade-insecure-requests",
     ].join('; ');
