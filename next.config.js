@@ -731,6 +731,32 @@ const nextConfig = {
   // Cabeceras de seguridad y compresión
   async headers() {
     const supabaseHost = (process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://nprqtjljoekoirlrjxlh.supabase.co').replace(/^https?:\/\//, '');
+    const monetagHosts = [
+      "https://quge5.com",
+      "https://5gvci.com",
+      "https://p0p.com",
+      "https://6p0p.com",
+      "https://6opo.com",
+      "https://auqot.com",
+      "https://jmosl.com",
+      "https://094kk.com",
+      "https://tzegilo.com",
+      "https://zdzhk.com",
+      "https://dawac.com",
+      "https://bobapsoabauns.com",
+      "https://my.rtmark.net",
+      "https://*.p0p.com",
+      "https://*.6p0p.com",
+      "https://*.6opo.com",
+      "https://*.auqot.com",
+      "https://*.jmosl.com",
+      "https://*.094kk.com",
+      "https://*.tzegilo.com",
+      "https://*.zdzhk.com",
+      "https://*.dawac.com",
+      "https://*.bobapsoabauns.com",
+      "https://*.rtmark.net",
+    ];
     const csp = [
       "default-src 'self'",
       [
@@ -760,12 +786,14 @@ const nextConfig = {
         "https://auqot.com",
         "https://jmosl.com",
         "https://094kk.com",
+        "https://tzegilo.com",
         "https://*.p0p.com",
         "https://*.6p0p.com",
         "https://*.6opo.com",
         "https://*.auqot.com",
         "https://*.jmosl.com",
         "https://*.094kk.com",
+        "https://*.tzegilo.com",
       ].join(' '),
       [
         "connect-src 'self'",
@@ -795,6 +823,9 @@ const nextConfig = {
         "https://auqot.com",
         "https://jmosl.com",
         "https://094kk.com",
+        "https://zdzhk.com",
+        "https://dawac.com",
+        "https://bobapsoabauns.com",
         "https://my.rtmark.net",
         "https://*.p0p.com",
         "https://*.6p0p.com",
@@ -802,6 +833,9 @@ const nextConfig = {
         "https://*.auqot.com",
         "https://*.jmosl.com",
         "https://*.094kk.com",
+        "https://*.zdzhk.com",
+        "https://*.dawac.com",
+        "https://*.bobapsoabauns.com",
         "https://*.rtmark.net",
       ].join(' '),
       [
@@ -819,9 +853,11 @@ const nextConfig = {
         "https://p0p.com",
         "https://6p0p.com",
         "https://6opo.com",
+        "https://bobapsoabauns.com",
         "https://*.p0p.com",
         "https://*.6p0p.com",
         "https://*.6opo.com",
+        "https://*.bobapsoabauns.com",
       ].join(' '),
       "style-src 'self' 'unsafe-inline'",
       "font-src 'self' data: https://fonts.gstatic.com",
@@ -862,6 +898,9 @@ const nextConfig = {
       ].join(' '),
       "upgrade-insecure-requests",
     ].join('; ');
+    const cspStrict = monetagHosts
+      .reduce((acc, host) => acc.replaceAll(` ${host}`, ''), csp)
+      .replace(" 'wasm-unsafe-eval'", "");
 
     return [
       // Recursos estáticos (CSS, JS chunks): caché 1 año
@@ -875,7 +914,7 @@ const nextConfig = {
         ],
       },
       {
-        source: '/(.*)',
+        source: '/((?!monetag).*)',
         headers: [
           {
             key: 'X-Content-Type-Options',
@@ -893,6 +932,16 @@ const nextConfig = {
             key: 'Referrer-Policy',
             value: 'strict-origin-when-cross-origin',
           },
+          {
+            key: 'Content-Security-Policy',
+            value: cspStrict,
+          },
+        ],
+      },
+      // Ruta aislada para monetización con CSP más amplia
+      {
+        source: '/monetag/:path*',
+        headers: [
           {
             key: 'Content-Security-Policy',
             value: csp,
