@@ -13,6 +13,16 @@ export default function robots(): MetadataRoute.Robots {
         userAgent: "AdsBot-Google",
         allow: ["/"],
       },
+      // Explícito para evitar falsos positivos en validadores de AdSense / GTM
+      // (el bloque * sigue aplicando a otros bots; Googlebot no queda “solo” en *).
+      {
+        userAgent: "Googlebot",
+        allow: ["/", "/ads.txt"],
+      },
+      {
+        userAgent: "Google-InspectionTool",
+        allow: ["/", "/ads.txt"],
+      },
       {
         userAgent: "*",
         allow: ["/"],
