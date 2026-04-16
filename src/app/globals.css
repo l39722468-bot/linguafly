@@ -2,6 +2,19 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Modo sin imágenes: oculta recursos visuales globalmente */
+img,
+picture,
+source,
+svg,
+image {
+  display: none !important;
+}
+
+* {
+  background-image: none !important;
+}
+
 @layer base {
   :root {
     --color-primary: 255 107 107;
