@@ -72,14 +72,14 @@ export default function SEOHubPage() {
                   Guía Maestra para <span className="text-coral-600 text-shadow-sm">Aprender Inglés</span>
                 </h1>
                 <p className="text-xl text-slate-600 leading-relaxed mb-10 max-w-xl">
-                  Todo lo que necesitas para dominar el idioma más importante del mundo. Estrategias, herramientas y certificados explicados por expertos.
+                  Todo lo que necesitas para mejorar tu inglés con recursos editoriales: guías, frases, vocabulario y estrategias prácticas.
                 </p>
                 <div className="flex flex-wrap gap-4">
-                  <Link href="/cuenta/registro" className="bg-coral-600 text-white px-8 py-5 rounded-2xl font-black text-lg hover:bg-coral-700 transition-all hover:scale-105 shadow-xl shadow-coral-200">
-                    Empezar Curso Gratis
+                  <Link href="/blog" className="bg-coral-600 text-white px-8 py-5 rounded-2xl font-black text-lg hover:bg-coral-700 transition-all hover:scale-105 shadow-xl shadow-coral-200">
+                    Explorar Blog
                   </Link>
-                  <Link href="/test-nivel" className="bg-white text-slate-900 border-2 border-slate-200 px-8 py-5 rounded-2xl font-black text-lg hover:border-coral-600 hover:text-coral-600 transition-all">
-                    Test de Nivel
+                  <Link href="/frases-en-ingles" className="bg-white text-slate-900 border-2 border-slate-200 px-8 py-5 rounded-2xl font-black text-lg hover:border-coral-600 hover:text-coral-600 transition-all">
+                    Ver Frases
                   </Link>
                 </div>
               </div>
@@ -203,14 +203,14 @@ export default function SEOHubPage() {
       <section className="bg-slate-900 py-24">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <Star className="w-12 h-12 text-coral-500 mx-auto mb-8" />
-          <h2 className="text-4xl lg:text-5xl font-black text-white mb-6">¿Listo para hablar inglés de verdad?</h2>
-          <p className="text-slate-400 text-xl mb-12">No pierdas más tiempo. Nuestro método basado en IA te garantiza resultados.</p>
+          <h2 className="text-4xl lg:text-5xl font-black text-white mb-6">¿Qué tema quieres reforzar hoy?</h2>
+          <p className="text-slate-400 text-xl mb-12">Accede a guías claras y artículos prácticos para resolver dudas reales de inglés.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Link href="/cuenta/registro" className="bg-coral-600 text-white px-10 py-5 rounded-2xl font-black text-xl hover:bg-coral-700 transition-all hover:scale-105 shadow-2xl shadow-coral-900/40">
-              Registrarse Ahora
+            <Link href="/blog" className="bg-coral-600 text-white px-10 py-5 rounded-2xl font-black text-xl hover:bg-coral-700 transition-all hover:scale-105 shadow-2xl shadow-coral-900/40">
+              Ir al Blog
             </Link>
-            <Link href="/planes" className="bg-transparent border-2 border-white/20 text-white px-10 py-5 rounded-2xl font-black text-xl hover:bg-white/10 transition-all">
-              Ver Membresías
+            <Link href="/frases-en-ingles" className="bg-transparent border-2 border-white/20 text-white px-10 py-5 rounded-2xl font-black text-xl hover:bg-white/10 transition-all">
+              Ver Frases
             </Link>
           </div>
         </div>

@@ -11,10 +11,6 @@ const Footer = dynamic(() => import("@/components/sections/Footer").then((m) => 
   loading: () => <footer className="h-64 bg-slate-900" aria-hidden="true" />,
 });
 
-const CourseLaunchBanner = dynamic(() => import("@/components/CourseLaunchBanner").then((m) => ({ default: m.CourseLaunchBanner })), {
-  loading: () => <div className="h-24 bg-gradient-to-r from-coral-50 to-peach-50" aria-hidden="true" />,
-});
-
 export const metadata: Metadata = {
   title: "Blog para Aprender Inglés: Guías, Frases y Consultas",
   description: "Blog de contenido de calidad para resolver dudas de inglés: gramática, vocabulario, frases útiles, métodos de estudio y recursos prácticos.",
@@ -126,7 +122,6 @@ export default function HomePage() {
         </section>
 
         <Suspense fallback={null}>
-          <CourseLaunchBanner />
           <HomeBelowFold latestArticles={latestArticles} />
         </Suspense>
       </main>
