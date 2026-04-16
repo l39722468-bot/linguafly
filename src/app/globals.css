@@ -2,17 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Modo sin imágenes: oculta recursos visuales globalmente */
-img,
-picture,
-source,
-svg,
-image {
+/* Ocultar solo fotos externas (mantener logos e iconos locales) */
+img[src*="images.pexels.com"],
+img[src*="pexels.com"],
+img[src*="%2F%2Fimages.pexels.com"],
+img[src*="%2F%2Fpexels.com"],
+source[srcset*="images.pexels.com"],
+source[srcset*="pexels.com"] {
   display: none !important;
-}
-
-* {
-  background-image: none !important;
 }
 
 @layer base {
