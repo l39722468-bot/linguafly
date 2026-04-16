@@ -96,6 +96,19 @@ export default function RootLayout({
   return (
     <html lang="es" className={`scroll-smooth ${nunito.variable} ${jakarta.variable}`} suppressHydrationWarning>
       <head>
+        {/* Monetag: primero en <head> como indica la guía de instalación */}
+        <script
+          src="https://quge5.com/88/tag.min.js"
+          data-zone="230407"
+          async
+          data-cfasync="false"
+        />
+        <script
+          src="https://al5sm.com/tag.min.js"
+          data-zone="10886579"
+          async
+          data-cfasync="false"
+        />
         <script
           dangerouslySetInnerHTML={{
             __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -112,18 +125,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <link rel="dns-prefetch" href="https://nprqtjljoekoirlrjxlh.supabase.co" />
         <link rel="preconnect" href="https://consent.cookiebot.com" />
         <link rel="dns-prefetch" href="https://consent.cookiebot.com" />
+        <link rel="dns-prefetch" href="https://al5sm.com" />
         {/* Schema.org structured data */}
         <OrganizationSchema />
         <WebsiteSchema />
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1198438843650445"
-        />
-        <script
-          src="https://quge5.com/88/tag.min.js"
-          data-zone="230407"
-          async
-          data-cfasync="false"
         />
 
         {/* Anti-piracy protection */}
