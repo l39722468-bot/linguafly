@@ -102,6 +102,12 @@ export default function RootLayout({
             __html: `(function(s){s.dataset.zone='10886579',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`,
           }}
         />
+        {/* Monetag zona 10886732: snippet exacto del panel */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(s){s.dataset.zone='10886732',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`,
+          }}
+        />
         {/* Monetag: tag principal sitio */}
         <script
           src="https://quge5.com/88/tag.min.js"
@@ -126,6 +132,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <link rel="preconnect" href="https://consent.cookiebot.com" />
         <link rel="dns-prefetch" href="https://consent.cookiebot.com" />
         <link rel="dns-prefetch" href="https://al5sm.com" />
+        <link rel="dns-prefetch" href="https://nap5k.com" />
         {/* Schema.org structured data */}
         <OrganizationSchema />
         <WebsiteSchema />
