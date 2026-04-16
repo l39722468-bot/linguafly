@@ -5,7 +5,6 @@ import GoogleAnalytics from "@/components/GoogleAnalytics";
 import Cookiebot from "@/components/Cookiebot";
 import { Analytics } from "@vercel/analytics/next";
 import { Nunito, Plus_Jakarta_Sans } from "next/font/google";
-import { ThemeProvider } from "@/components/theme-provider";
 
 // Fuentes mínimas: 3 pesos total para LCP <2.5s
 const nunito = Nunito({
@@ -120,13 +119,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1198438843650445"
         />
-        
+        <script
+          src="https://quge5.com/88/tag.min.js"
+          data-zone="230407"
+          async
+          data-cfasync="false"
+        />
+
         {/* Anti-piracy protection */}
         <meta name="robots" content="max-image-preview:large" />
         
 
       </head>
-      <body className="antialiased bg-white text-slate-900 font-sans dark:bg-slate-950 dark:text-slate-50" suppressHydrationWarning>
+      <body className="antialiased bg-white text-slate-900 font-sans" suppressHydrationWarning>
         <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-PR2H3P77"
@@ -135,34 +140,27 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             style={{ display: "none", visibility: "hidden" }}
           />
         </noscript>
-        <ThemeProvider
-          attribute="class"
-          defaultTheme="light"
-          enableSystem
-          disableTransitionOnChange
+        {children}
+        {/* Scripts deferidos: no bloquean first paint */}
+        <Cookiebot />
+        <GoogleAnalytics />
+        <Analytics />
+        {/* Copyright watermark - contraste 4.5:1 (WCAG AA) */}
+        <div
+          style={{
+            position: 'fixed',
+            bottom: '10px',
+            right: '10px',
+            fontSize: '10px',
+            color: 'rgba(0,0,0,0.55)',
+            pointerEvents: 'none',
+            zIndex: 9999,
+            userSelect: 'none'
+          }}
+          aria-hidden="true"
         >
-          {children}
-          {/* Scripts deferidos: no bloquean first paint */}
-          <Cookiebot />
-          <GoogleAnalytics />
-          <Analytics />
-          {/* Copyright watermark - contraste 4.5:1 (WCAG AA) */}
-          <div
-            style={{
-              position: 'fixed',
-              bottom: '10px',
-              right: '10px',
-              fontSize: '10px',
-              color: 'rgba(0,0,0,0.55)',
-              pointerEvents: 'none',
-              zIndex: 9999,
-              userSelect: 'none'
-            }}
-            aria-hidden="true"
-          >
-            © 2026 Focus English
-          </div>
-        </ThemeProvider>
+          © 2026 Focus English
+        </div>
       </body>
     </html>
   );

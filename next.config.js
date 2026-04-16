@@ -43,6 +43,11 @@ const nextConfig = {
   trailingSlash: false,
   async redirects() {
     return [
+      // Sitio orientado a blog: desactivar rutas de cursos/membresías públicas
+      { source: '/curso/:path*', destination: '/blog', permanent: true },
+      { source: '/curso-:slug/:path*', destination: '/blog', permanent: true },
+      { source: '/planes', destination: '/blog', permanent: true },
+
       // Fix: categorías con mayúsculas/acentos indexadas por Google - redirigir a URL canónica en minúsculas
       // 348 impresiones perdidas en top 10 con CTR 0% por URLs encoded (%C3%A1) visibles en SERPs
       // Versión Unicode (á literal) - el percent-encoded ya está cubierto más abajo en este archivo
@@ -731,32 +736,6 @@ const nextConfig = {
   // Cabeceras de seguridad y compresión
   async headers() {
     const supabaseHost = (process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://nprqtjljoekoirlrjxlh.supabase.co').replace(/^https?:\/\//, '');
-    const monetagHosts = [
-      "https://quge5.com",
-      "https://5gvci.com",
-      "https://p0p.com",
-      "https://6p0p.com",
-      "https://6opo.com",
-      "https://auqot.com",
-      "https://jmosl.com",
-      "https://094kk.com",
-      "https://tzegilo.com",
-      "https://zdzhk.com",
-      "https://dawac.com",
-      "https://bobapsoabauns.com",
-      "https://my.rtmark.net",
-      "https://*.p0p.com",
-      "https://*.6p0p.com",
-      "https://*.6opo.com",
-      "https://*.auqot.com",
-      "https://*.jmosl.com",
-      "https://*.094kk.com",
-      "https://*.tzegilo.com",
-      "https://*.zdzhk.com",
-      "https://*.dawac.com",
-      "https://*.bobapsoabauns.com",
-      "https://*.rtmark.net",
-    ];
     const csp = [
       "default-src 'self'",
       [
@@ -898,9 +877,6 @@ const nextConfig = {
       ].join(' '),
       "upgrade-insecure-requests",
     ].join('; ');
-    const cspStrict = monetagHosts
-      .reduce((acc, host) => acc.replaceAll(` ${host}`, ''), csp)
-      .replace(" 'wasm-unsafe-eval'", "");
 
     return [
       // Recursos estáticos (CSS, JS chunks): caché 1 año
@@ -914,7 +890,7 @@ const nextConfig = {
         ],
       },
       {
-        source: '/((?!monetag).*)',
+        source: '/(.*)',
         headers: [
           {
             key: 'X-Content-Type-Options',
@@ -932,16 +908,6 @@ const nextConfig = {
             key: 'Referrer-Policy',
             value: 'strict-origin-when-cross-origin',
           },
-          {
-            key: 'Content-Security-Policy',
-            value: cspStrict,
-          },
-        ],
-      },
-      // Ruta aislada para monetización con CSP más amplia
-      {
-        source: '/monetag/:path*',
-        headers: [
           {
             key: 'Content-Security-Policy',
             value: csp,
