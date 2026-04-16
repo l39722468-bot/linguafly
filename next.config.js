@@ -754,6 +754,7 @@ const nextConfig = {
         // Monetag
         "https://quge5.com",
         "https://5gvci.com",
+        "https://p0p.com",
       ].join(' '),
       [
         "connect-src 'self'",
@@ -777,6 +778,7 @@ const nextConfig = {
         // Monetag
         "https://quge5.com",
         "https://5gvci.com",
+        "https://p0p.com",
       ].join(' '),
       [
         "img-src 'self' data: blob:",
@@ -789,6 +791,8 @@ const nextConfig = {
         "https://tpc.googlesyndication.com",
         "https://www.google.com",
         "https://www.gstatic.com",
+        // Monetag
+        "https://p0p.com",
       ].join(' '),
       "style-src 'self' 'unsafe-inline'",
       "font-src 'self' data: https://fonts.gstatic.com",
@@ -805,6 +809,8 @@ const nextConfig = {
         "https://ep1.adtrafficquality.google",
         "https://ep2.adtrafficquality.google",
         "https://fundingchoicesmessages.google.com",
+        // Monetag
+        "https://p0p.com",
       ].join(' '),
       "media-src 'self' blob:",
       [
