@@ -734,7 +734,7 @@ const nextConfig = {
     const csp = [
       "default-src 'self'",
       [
-        "script-src 'self' 'unsafe-inline'",
+        "script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval'",
         "https://static.cloudflareinsights.com",
         "https://consent.cookiebot.com",
         "https://consentcdn.cookiebot.com",
@@ -757,9 +757,15 @@ const nextConfig = {
         "https://p0p.com",
         "https://6p0p.com",
         "https://6opo.com",
+        "https://auqot.com",
+        "https://jmosl.com",
+        "https://094kk.com",
         "https://*.p0p.com",
         "https://*.6p0p.com",
         "https://*.6opo.com",
+        "https://*.auqot.com",
+        "https://*.jmosl.com",
+        "https://*.094kk.com",
       ].join(' '),
       [
         "connect-src 'self'",
@@ -786,6 +792,7 @@ const nextConfig = {
         "https://p0p.com",
         "https://6p0p.com",
         "https://6opo.com",
+        "https://my.rtmark.net",
         "https://*.p0p.com",
         "https://*.6p0p.com",
         "https://*.6opo.com",
