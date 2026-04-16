@@ -1,5 +1,5 @@
 ---
-title: 'Condicionales en Inglés: Guía Zero, 1st'
+title: 'Condicionales en Inglés: Zero, 1st, 2nd y 3rd'
 readTime: 14 min
 excerpt: >-
   ¿Te lían los condicionales? Aprende cuándo usar Zero, First, Second y Third

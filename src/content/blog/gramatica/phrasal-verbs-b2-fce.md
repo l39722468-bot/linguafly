@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs para el B2 (FCE): Lista'
+title: 'Phrasal Verbs para el B2 (FCE): Lista Completa'
 date: '2026-02-18'
 updatedDate: '2026-02-18'
 author: sara-mendez

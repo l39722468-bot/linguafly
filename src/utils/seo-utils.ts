@@ -35,23 +35,15 @@ export function suggestInternalLinks(content: string): KeywordLink[] {
 }
 
 /**
- * Optimizes titles by ensuring they include the current year and target keywords.
+ * Devuelve el título tal cual lo escribe el editor en el frontmatter.
+ *
+ * Histórico: antes añadía `(YEAR)` automáticamente a cualquier título sin año,
+ * pero eso ensuciaba artículos evergreen (gramática, vocabulario) y consumía
+ * caracteres del presupuesto visual de Google (~60 ch). Ahora el año se
+ * incluye explícitamente en el frontmatter cuando tiene sentido (rankings,
+ * comparativas, cursos online, tendencias).
  */
 export function optimizeSEOTitle(title: string): string {
-  if (!title || typeof title !== 'string') return title || "Focus English";
-  
-  const currentYear = new Date().getFullYear().toString();
-  let optimizedTitle = title;
-
-  if (!optimizedTitle.includes(currentYear)) {
-    if (optimizedTitle.includes("Guía ") || optimizedTitle.endsWith("Guía")) {
-      optimizedTitle = optimizedTitle.replace("Guía", `Guía ${currentYear}`);
-    } else if (optimizedTitle.includes("Guías")) {
-      optimizedTitle = optimizedTitle.replace("Guías", `Guías ${currentYear}`);
-    } else {
-      optimizedTitle = `${optimizedTitle} (${currentYear})`;
-    }
-  }
-
-  return optimizedTitle;
+  if (!title || typeof title !== "string") return title || "Focus English";
+  return title;
 }

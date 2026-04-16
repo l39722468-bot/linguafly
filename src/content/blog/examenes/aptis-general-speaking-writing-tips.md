@@ -1,5 +1,5 @@
 ---
-title: 'Aptis General: Consejos'
+title: 'Aptis General: Consejos de Speaking y Writing'
 date: '2026-03-04'
 updatedDate: '2026-03-10'
 author: david-torres

@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Escocés: Por Qué Suena Tan'
+title: 'Inglés Escocés: Por Qué Suena Tan Distinto'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

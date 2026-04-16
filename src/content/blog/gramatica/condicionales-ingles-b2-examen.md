@@ -1,5 +1,5 @@
 ---
-title: 'Condicionales en Inglés'
+title: 'Condicionales en Inglés para el Examen B2'
 description: >-
   Prepara los condicionales para el Cambridge B2 First, APTIS y IELTS.
   Ejercicios de transformación, open cloze y speaking con los patrones que

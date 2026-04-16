@@ -1,5 +1,5 @@
 ---
-title: 'Letras Mudas en Inglés: Lista'
+title: 'Letras Mudas en Inglés: Lista y Reglas'
 description: >-
   Descubre todas las letras mudas del inglés organizadas por letra: la K, la W,
   la B, la GH y más. Con ejemplos, patrones y trucos para no caer en las trampas

@@ -1,5 +1,5 @@
 ---
-title: 'Cómo estudiar inglés sin tiempo: 5'
+title: 'Cómo estudiar inglés sin tiempo: 5 ideas prácticas'
 description: >-
   Aprende inglés incluso con una agenda apretada. Descubre cómo aprovechar los
   'tiempos muertos' para mejorar tu nivel sin sacrificar tu descanso.

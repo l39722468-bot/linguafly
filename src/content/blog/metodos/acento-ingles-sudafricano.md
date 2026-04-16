@@ -1,5 +1,5 @@
 ---
-title: 'El Acento Sudafricano en Inglés: Más'
+title: 'El Acento Sudafricano en Inglés: Guía Clara'
 description: >-
   Guía completa del South African English: el desplazamiento vocálico, las
   diferencias entre Cape Town y Johannesburg, el inglés negro sudafricano,

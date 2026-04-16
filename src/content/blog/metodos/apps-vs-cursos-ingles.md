@@ -1,5 +1,5 @@
 ---
-title: 'Apps vs. Cursos de Inglés: Cuál'
+title: 'Apps vs. Cursos de Inglés: Cuál Elegir'
 description: >-
   Comparamos las aplicaciones para aprender inglés con los cursos tradicionales
   en 2026. ¿Qué es más efectivo para la fluidez, el nivel avanzado y el éxito

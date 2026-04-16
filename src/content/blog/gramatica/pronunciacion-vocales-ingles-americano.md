@@ -1,5 +1,5 @@
 ---
-title: 'Vocales del Inglés Americano: Por Qué'
+title: 'Vocales del Inglés Americano: Pronunciación Clara'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 author: david-torres

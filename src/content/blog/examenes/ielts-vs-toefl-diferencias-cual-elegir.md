@@ -1,5 +1,5 @@
 ---
-title: 'IELTS vs TOEFL: Diferencias y Cuál'
+title: 'IELTS vs TOEFL: Diferencias y Cuál Elegir'
 description: >-
   Comparamos los dos exámenes de inglés más importantes del mundo. Descubre cuál
   es más fácil, cuál aceptan en tu destino y cómo prepararte con éxito.

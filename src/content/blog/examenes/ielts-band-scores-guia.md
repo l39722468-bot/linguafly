@@ -1,5 +1,5 @@
 ---
-title: 'Bandas del IELTS Explicadas: Qué'
+title: 'Bandas del IELTS Explicadas: Qué Significan'
 date: '2026-02-23'
 updatedDate: '2026-02-23'
 author: sara-mendez

@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   metadataBase: new URL('https://www.focus-on-english.com'),
   title: {
     default: "Blog para Aprender Inglés | Focus English",
-    template: "%s | Focus English"
+    template: "%s"
   },
   description: "Blog de contenido de calidad para aprender inglés: consultas de gramática, vocabulario, frases, habilidades y métodos de estudio.",
   keywords: [

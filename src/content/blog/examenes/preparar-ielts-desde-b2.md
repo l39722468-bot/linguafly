@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Preparar el IELTS desde Cero (o'
+title: 'Cómo Preparar el IELTS desde B2 en 3 Meses'
 date: '2026-03-05'
 updatedDate: '2026-03-21'
 author: david-torres

@@ -1,5 +1,5 @@
 ---
-title: 'Pasiva Impersonal en Inglés: It Is'
+title: 'Pasiva Impersonal en Inglés: It Is Said That'
 description: >-
   Aprende a usar la pasiva impersonal en inglés con verbos como say, believe,
   think y report. Dos estructuras equivalentes, ejemplos reales y cuándo usarlas.

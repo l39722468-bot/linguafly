@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios de Condicionales en Inglés'
+title: 'Ejercicios de Condicionales en Inglés C1'
 description: >-
   Ejercicios avanzados de condicionales en inglés para nivel C1. Aprende la
   inversión condicional, condicionales mixtos y estructuras formales que

@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs con MAKE: Lista'
+title: 'Phrasal Verbs con MAKE: Lista Completa'
 date: '2026-02-09'
 updatedDate: '2026-02-09'
 author: david-torres
