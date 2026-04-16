@@ -751,6 +751,9 @@ const nextConfig = {
         "https://partner.googleadservices.com",
         // Funding Choices (mensajes de consentimiento / AdSense)
         "https://fundingchoicesmessages.google.com",
+        // Monetag
+        "https://quge5.com",
+        "https://5gvci.com",
       ].join(' '),
       [
         "connect-src 'self'",
@@ -771,6 +774,9 @@ const nextConfig = {
         "https://ep1.adtrafficquality.google",
         "https://ep2.adtrafficquality.google",
         "https://fundingchoicesmessages.google.com",
+        // Monetag
+        "https://quge5.com",
+        "https://5gvci.com",
       ].join(' '),
       [
         "img-src 'self' data: blob:",
@@ -805,6 +811,7 @@ const nextConfig = {
         "worker-src 'self' blob:",
         "https://www.google.com",
         "https://pagead2.googlesyndication.com",
+        "https://5gvci.com",
       ].join(' '),
       "upgrade-insecure-requests",
     ].join('; ');
