@@ -756,7 +756,7 @@ const nextConfig = {
         "https://partner.googleadservices.com",
         // Funding Choices (mensajes de consentimiento / AdSense)
         "https://fundingchoicesmessages.google.com",
-        // Monetag
+        // Monetag (sin auqot.com, jmosl.com, 094kk.com: bloqueados en CSP)
         "https://quge5.com",
         "https://5gvci.com",
         "https://p0p.com",
