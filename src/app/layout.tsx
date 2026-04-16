@@ -120,6 +120,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1198438843650445"
         />
+        <script
+          src="https://quge5.com/88/tag.min.js"
+          data-zone="230407"
+          async
+          data-cfasync="false"
+        />
         
         {/* Anti-piracy protection */}
         <meta name="robots" content="max-image-preview:large" />
