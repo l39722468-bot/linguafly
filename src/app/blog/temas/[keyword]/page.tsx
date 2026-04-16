@@ -2,7 +2,7 @@ import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { redirect } from "next/navigation";
-import { getArticlesByKeyword, getAllKeywords, slugify, getHubContent, normalizeCategory } from "@/lib/blog";
+import { getArticlesByKeyword, getAllKeywords, slugify, getHubContent, normalizeCategory, getArticleBySlug } from "@/lib/blog";
 import { Metadata } from "next";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
@@ -38,8 +38,18 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
     || `Aprende ${originalKeyword} con nuestras guías gratuitas en español. Recursos prácticos, ejercicios resueltos y consejos de expertos para hispanohablantes. Mejora tu inglés hoy.`;
 
   const ogImage = "https://www.focus-on-english.com/blog/og-image.jpg";
-  /** Siempre la URL del hub temático en el blog: es la versión canónica (FAQ, migas Blog › Temas, enlaces internos). */
-  const canonicalUrl = `https://www.focus-on-english.com/blog/temas/${keyword}`;
+
+  /**
+   * Si existe un artículo con el mismo slug que este hub (duplicado hub/blog),
+   * delegamos la canónica al artículo (suele tener más contenido que el hub)
+   * y marcamos el hub como noindex para evitar canibalización.
+   * El hub sigue sirviendo como página de navegación interna (follow: true).
+   */
+  const duplicateArticle = getArticleBySlug(keyword);
+  const hasDuplicateArticle = !!duplicateArticle;
+  const canonicalUrl = hasDuplicateArticle
+    ? `https://www.focus-on-english.com/blog/${normalizeCategory(duplicateArticle.category)}/${duplicateArticle.slug}`
+    : `https://www.focus-on-english.com/blog/temas/${keyword}`;
 
   const pageKeywords = [
     originalKeyword,
@@ -54,7 +64,7 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
       canonical: canonicalUrl,
     },
     robots: {
-      index: isThinPage ? false : true,
+      index: isThinPage || hasDuplicateArticle ? false : true,
       follow: true,
     },
     openGraph: {
@@ -189,7 +199,25 @@ export default async function KeywordHubPage({ params }: { params: Promise<{ key
           <section className="py-16 px-4 sm:px-6 lg:px-8 bg-white border-b border-slate-200">
             <div className="max-w-4xl mx-auto">
               <div className="prose prose-lg prose-slate max-w-none prose-headings:font-display prose-headings:font-black prose-headings:text-slate-900 prose-a:text-indigo-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-slate-900 prose-img:rounded-3xl">
-                <ReactMarkdown remarkPlugins={[remarkGfm]}>
+                <ReactMarkdown
+                  remarkPlugins={[remarkGfm]}
+                  components={{
+                    a: ({ href, children, ...props }) => {
+                      if (href && (href.startsWith("/") || href.startsWith("#"))) {
+                        return (
+                          <Link href={href} {...(props as React.AnchorHTMLAttributes<HTMLAnchorElement>)}>
+                            {children}
+                          </Link>
+                        );
+                      }
+                      return (
+                        <a href={href} rel="noopener noreferrer" target="_blank" {...props}>
+                          {children}
+                        </a>
+                      );
+                    },
+                  }}
+                >
                   {hubContent.content}
                 </ReactMarkdown>
               </div>

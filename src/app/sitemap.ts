@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getBlogArticles, getAllKeywords, slugify, normalizeCategory } from "@/lib/blog";
+import { getBlogArticles, getAllKeywords, slugify, normalizeCategory, getArticleBySlug, getHubContent } from "@/lib/blog";
 import { authors } from "@/lib/authors";
 import { phraseService } from "@/lib/phrases";
 import { VOCAB_SECTORS } from "@/lib/vocabulario/sectors";
@@ -115,9 +115,20 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         );
         return { keyword, keywordArticles };
       })
-      .filter(({ keywordArticles }) => keywordArticles.length >= 3)
+      .filter(({ keyword, keywordArticles }) => {
+        // Excluir hubs con artículo duplicado (mismo slug): el hub es noindex
+        // con canonical al artículo, así que no debe entrar en el sitemap.
+        const duplicate = getArticleBySlug(slugify(keyword));
+        if (duplicate) return false;
+        // Incluir si hay ≥3 artículos matching keyword (hub clásico) o
+        // si existe archivo de hub propio con contenido indexable.
+        if (keywordArticles.length >= 3) return true;
+        return !!getHubContent(slugify(keyword));
+      })
       .map(({ keyword, keywordArticles }) => {
-        const latestDate = new Date(keywordArticles[0].date);
+        const latestDate = keywordArticles.length > 0
+          ? new Date(keywordArticles[0].date)
+          : mostRecentArticleDate;
         return {
           url: `${baseUrl}/blog/temas/${slugify(keyword)}`,
           lastModified: latestDate,
