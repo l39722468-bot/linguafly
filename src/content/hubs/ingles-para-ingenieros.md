@@ -106,3 +106,17 @@ Entendemos que el tiempo de un ingeniero es valioso. Por eso, hemos diseñado re
 El dominio del inglés técnico es lo que separa a un ingeniero local de uno global. Te permite acceder a las últimas tecnologías, trabajar en las empresas más innovadoras del mundo y liderar proyectos que cambian la realidad.
 
 En **Focus English**, ofrecemos programas de **English for Engineering** diseñados por profesionales que entienden tu lenguaje. No perdemos el tiempo con gramática irrelevante; nos enfocamos en que seas capaz de defender tus ideas técnicas en cualquier mesa de reuniones del mundo. Sigue explorando nuestro hub de "inglés técnico" y lleva tu carrera al siguiente nivel.
+
+---
+
+## 📚 Profundiza más
+
+### Guías por especialidad
+- [Inglés para ingenieros: guía general](/blog/trabajo/ingles-para-ingenieros)
+- [Inglés para ingenieros de software](/blog/trabajo/ingles-para-ingenieros-software)
+- [Inglés técnico para ingeniería civil e industrial](/blog/trabajo/ingles-tecnico-ingenieria-civil-industrial)
+
+### Comunicación profesional
+- [Cómo hacer presentaciones en inglés](/blog/trabajo/como-hacer-presentaciones-en-ingles)
+- [Emails profesionales en inglés: plantillas](/blog/trabajo/plantillas-emails-profesionales-ingles)
+- [Networking en inglés para eventos internacionales](/blog/trabajo/ingles-networking-eventos-internacionales)

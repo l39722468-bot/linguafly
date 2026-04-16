@@ -113,3 +113,21 @@ En **Focus English**, preparamos a equipos enteros para dar el salto al mercado 
 Un cliente bien atendido en su idioma es un cliente fiel. El dominio del inglés en la atención al cliente no es solo una cuestión de palabras; es una cuestión de confianza, respeto y eficiencia.
 
 Sigue explorando nuestros hubs de "inglés profesional" y "atención al cliente internacional" para convertirte en el profesional de soporte que todas las empresas buscan. En **Focus English**, te damos las palabras para que tú des el mejor servicio.
+
+---
+
+## 📚 Profundiza más
+
+### Fundamentos
+- [Inglés para atención al cliente: guía general](/blog/trabajo/ingles-para-atencion-al-cliente)
+- [Frases de inglés para atención al cliente por situación](/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones)
+
+### Canal y tono
+- [Teléfono y call center: frases clave](/blog/trabajo/atencion-cliente-telefono-call-center-frases)
+- [Email y chat de soporte (B2)](/blog/trabajo/atencion-cliente-email-chat-soporte-b2)
+- [Saludos, tono y registro (B2)](/blog/trabajo/atencion-cliente-saludos-tono-registro-b2)
+
+### Situaciones avanzadas
+- [Escalado y clientes difíciles](/blog/trabajo/atencion-cliente-de-escalada-clientes-dificiles-ingles)
+- [Reembolsos, garantías y SLA: vocabulario](/blog/trabajo/atencion-cliente-reembolsos-garantias-sla-vocabulario)
+- [Inglés de customer service para teléfono y chat](/blog/trabajo/ingles-customer-service-telefono-chat)

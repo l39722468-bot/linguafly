@@ -96,3 +96,18 @@ Aptis General es la herramienta perfecta para quienes necesitan resultados prác
 En **Focus English**, hemos ayudado a cientos de opositores y estudiantes a conseguir su nivel B1 en tiempo récord. Nuestra metodología se centra en la **técnica de examen** para que sepas exactamente qué responder en cada segundo de la prueba.
 
 **¿Listo para examinarte?** No olvides revisar nuestro hub sobre "certificacion rapida ingles" o consulta nuestra "guía inglés viajeros" si quieres un enfoque más práctico del idioma.
+
+---
+
+## 📚 Profundiza más
+
+### Aptis por nivel
+- [Aptis A2: guía completa](/blog/examenes/aptis-a2-guia-completa)
+- [Aptis General: guía completa](/blog/examenes/aptis-general-guia-completa)
+- [Aptis Advanced C1: guía completa](/blog/examenes/aptis-advanced-c1-guia)
+
+### Destrezas del examen
+- [Aptis General: consejos Speaking y Writing](/blog/examenes/aptis-general-speaking-writing-tips)
+
+### Elegir examen
+- [DELE, Cambridge, IELTS y Aptis comparados](/blog/examenes/dele-vs-cambridge-vs-ielts-vs-aptis)

@@ -96,3 +96,26 @@ Elegir entre IELTS y TOEFL es una decisión estratégica. Ambos son exámenes de
 En **Focus English**, ofrecemos programas de mentoría específicos para ambos exámenes. Analizamos tus puntos débiles y te damos las herramientas necesarias para que alcances la puntuación que necesitas a la primera.
 
 **¿Ya te has decidido?** Explora nuestro hub sobre "mejor examen ingles trabajo" o consulta nuestra "guía inglés viajeros" si tu objetivo es más personal que académico.
+
+---
+
+## 📚 Profundiza más
+
+### Comparativas y decisión
+- [IELTS vs TOEFL: diferencias y cuál elegir](/blog/examenes/ielts-vs-toefl-diferencias-cual-elegir)
+- [IELTS vs TOEFL para trabajar](/blog/trabajo/ielts-vs-toefl-trabajo)
+- [DELE, Cambridge, IELTS y Aptis comparados](/blog/examenes/dele-vs-cambridge-vs-ielts-vs-aptis)
+
+### Preparación IELTS por destreza
+- [IELTS Writing Task 1: describir gráficos](/blog/examenes/ielts-writing-task-1-graficos)
+- [IELTS Writing Task 2: el ensayo](/blog/examenes/ielts-writing-task-2-essay)
+- [IELTS Speaking: estrategias para las 3 partes](/blog/examenes/ielts-speaking-estrategias)
+- [IELTS Reading: trucos True/False/Not Given](/blog/examenes/ielts-reading-trucos)
+- [IELTS Listening: estrategias por sección](/blog/examenes/ielts-listening-estrategias)
+
+### Banda, formato y logística
+- [Bandas del IELTS: qué significan y cómo subir](/blog/examenes/ielts-band-scores-guia)
+- [IELTS por ordenador vs papel](/blog/examenes/ielts-computer-vs-papel)
+- [IELTS General Training: guía para inmigración](/blog/examenes/ielts-general-training-guia)
+- [Vocabulario académico para el IELTS](/blog/examenes/ielts-vocabulario-academico)
+- [El día del examen IELTS](/blog/examenes/ielts-dia-del-examen)

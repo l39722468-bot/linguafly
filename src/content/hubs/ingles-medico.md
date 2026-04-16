@@ -118,3 +118,14 @@ En **Focus English**, entendemos las necesidades específicas de los profesional
 Dominar el inglés médico te abre las puertas a una comunidad internacional de conocimiento y te permite ofrecer una atención de excelencia a pacientes de cualquier nacionalidad. No se trata solo de palabras técnicas, sino de construir un puente de confianza en momentos de vulnerabilidad.
 
 Sigue profundizando en nuestra plataforma con recursos sobre "terminología médica inglés" y "vocabularios específicos de salud". En el sector sanitario, tu conocimiento es tu mayor activo, y el inglés es la herramienta para compartirlo con el mundo.
+
+---
+
+## 📚 Profundiza más
+
+### Vocabulario clínico
+- [Vocabulario de inglés médico: enfermería y hospital](/blog/trabajo/vocabulario-ingles-medico-enfermeria)
+- [Inglés médico para médicos especialistas](/blog/trabajo/ingles-medico-para-medicos-especialistas)
+
+### Práctica profesional
+- [Inglés para el sector salud](/blog/trabajo/ingles-para-salud)

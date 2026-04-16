@@ -116,3 +116,21 @@ Para demostrar tu nivel MCER, existen varios exámenes:
 Entender los niveles del MCER te ayuda a establecer metas realistas. No intentes llegar al C1 en tres meses si estás en un A2. Celebra cada pequeño avance: entender una canción, pedir en un restaurante o escribir un email profesional sin ayuda.
 
 En **Focus English**, todos nuestros cursos están alineados con el MCER. Utilizamos evaluaciones continuas para que siempre sepas en qué punto te encuentras y qué necesitas para seguir subiendo. Sigue explorando nuestros hubs sobre "como pasar de nivel ingles" y "niveles ingles mcer" para planificar tu éxito.
+
+---
+
+## 📚 Profundiza más
+
+### Guía del marco
+- [Niveles de inglés MCER: guía completa](/blog/metodos/niveles-ingles-mcer-guia-completa)
+
+### Por nivel
+- [Inglés A1: por dónde empezar](/blog/metodos/ingles-a1)
+- [Inglés A1 vs A2: qué te diferencia](/blog/metodos/ingles-a1-vs-a2)
+- [Inglés A2: afianzar las bases](/blog/metodos/ingles-a2)
+- [Inglés B2: el salto al nivel intermedio alto](/blog/metodos/ingles-b2)
+- [Inglés C1: dominio avanzado](/blog/metodos/ingles-c1)
+- [Inglés C2: excelencia y matices](/blog/metodos/ingles-c2)
+
+### Variedades del idioma
+- [Inglés americano vs británico: diferencias clave](/blog/metodos/ingles-americano-vs-britanico)

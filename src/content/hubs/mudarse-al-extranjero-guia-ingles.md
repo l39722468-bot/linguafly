@@ -153,3 +153,23 @@ Escucha la radio local de tu ciudad. Los locutores suelen tener un acento están
 Mudarse al extranjero es un acto de reinvención. En **Focus English**, sabemos que el idioma es la herramienta más importante de tu maleta. No te desesperes si los primeros días son duros; cada conversación difícil te está acercando a la fluidez total. El mundo es enorme y ahora tienes las palabras para recorrerlo.
 
 ¡Mucho éxito en tu nueva etapa! Your future starts now.
+
+---
+
+## 📚 Profundiza más
+
+### Llegar y gestionar el día a día
+- [Inglés para viajar: fundamentos](/blog/viajes/ingles-para-viajar)
+- [Inglés para emergencias en el viaje](/blog/viajes/ingles-emergencias-viaje)
+- [Frases de emergencias para viajeros](/blog/viajes/frases-ingles-emergencias-viajes)
+
+### Vivir de mochilero o nómada
+- [Nómadas digitales y mochileros](/blog/viajes/ingles-nomadas-digitales-mochileros)
+- [Hostels y transporte público](/blog/viajes/mochileros-ingles-hostels-transporte-publico)
+- [Fronteras, aeropuertos y aduanas](/blog/viajes/mochileros-ingles-fronteras-aeropuertos-aduanas)
+- [Voluntariado, Workaway e intercambio](/blog/viajes/mochileros-ingles-voluntariado-workaway-intercambio)
+- [Naturaleza, senderismo y seguridad](/blog/viajes/mochileros-ingles-naturaleza-senderismo-seguridad)
+- [Errores comunes de hispanohablantes](/blog/viajes/mochileros-ingles-errores-comunes-hispanohablantes)
+
+### Cultura y contexto
+- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
