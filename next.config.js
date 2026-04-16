@@ -756,8 +756,7 @@ const nextConfig = {
         "https://partner.googleadservices.com",
         // Funding Choices (mensajes de consentimiento / AdSense)
         "https://fundingchoicesmessages.google.com",
-        // Monetag (sin auqot.com, jmosl.com, 094kk.com: bloqueados en CSP)
-        "https://quge5.com",
+        // Monetag (sin auqot.com, jmosl.com, 094kk.com, quge5.com: retirados)
         "https://5gvci.com",
         "https://p0p.com",
         "https://6p0p.com",
@@ -794,7 +793,6 @@ const nextConfig = {
         "https://ep2.adtrafficquality.google",
         "https://fundingchoicesmessages.google.com",
         // Monetag (tags principales + trackers/beacons secundarios)
-        "https://quge5.com",
         "https://al5sm.com",
         "https://nap5k.com",
         "https://n6wxm.com",

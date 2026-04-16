@@ -114,13 +114,6 @@ export default function RootLayout({
             __html: `(function(s){s.dataset.zone='10886746',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`,
           }}
         />
-        {/* Monetag: tag principal sitio */}
-        <script
-          src="https://quge5.com/88/tag.min.js"
-          data-zone="230407"
-          async
-          data-cfasync="false"
-        />
         <script
           dangerouslySetInnerHTML={{
             __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
