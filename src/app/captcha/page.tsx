@@ -5,6 +5,7 @@ import { useSearchParams } from "next/navigation";
 import { Suspense } from "react";
 
 const SITE_KEY = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY || "1x00000000000000000000AA";
+const SCRIPT_LOAD_TIMEOUT = 8000;
 
 function CaptchaForm() {
   const searchParams = useSearchParams();
@@ -13,6 +14,7 @@ function CaptchaForm() {
   const [status, setStatus] = useState<"loading" | "ready" | "verifying" | "success" | "error">("loading");
   const [errorMsg, setErrorMsg] = useState("");
   const widgetRendered = useRef(false);
+  const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   const handleToken = useCallback(
     async (token: string) => {
@@ -28,7 +30,7 @@ function CaptchaForm() {
           setStatus("success");
           setTimeout(() => {
             window.location.href = redirectTo;
-          }, 500);
+          }, 400);
         } else {
           const data = await res.json().catch(() => ({}));
           setErrorMsg(data.error || "Verificación fallida. Inténtalo de nuevo.");
@@ -42,39 +44,94 @@ function CaptchaForm() {
     [redirectTo]
   );
 
+  const renderWidget = useCallback(() => {
+    if (!containerRef.current || widgetRendered.current) return;
+    const turnstile = (window as any).turnstile;
+    if (!turnstile?.render) return;
+
+    if (timeoutRef.current) {
+      clearTimeout(timeoutRef.current);
+      timeoutRef.current = null;
+    }
+
+    widgetRendered.current = true;
+    setStatus("ready");
+
+    turnstile.render(containerRef.current, {
+      sitekey: SITE_KEY,
+      callback: handleToken,
+      "error-callback": () => {
+        setErrorMsg("El desafío falló. Pulsa el botón para reintentar.");
+        setStatus("error");
+      },
+      "expired-callback": () => {
+        setErrorMsg("La verificación ha expirado. Pulsa el botón para reintentar.");
+        setStatus("error");
+      },
+      theme: "light",
+      language: "es",
+    });
+  }, [handleToken]);
+
   useEffect(() => {
     if (widgetRendered.current) return;
 
-    const renderWidget = () => {
-      if (!containerRef.current || widgetRendered.current) return;
-      const turnstile = (window as any).turnstile;
-      if (!turnstile) return;
+    timeoutRef.current = setTimeout(() => {
+      if (!widgetRendered.current) {
+        setErrorMsg("No se pudo cargar la verificación. Puede ser un bloqueador de anuncios o un problema de red.");
+        setStatus("error");
+      }
+    }, SCRIPT_LOAD_TIMEOUT);
 
-      widgetRendered.current = true;
-      setStatus("ready");
-
-      turnstile.render(containerRef.current, {
-        sitekey: SITE_KEY,
-        callback: handleToken,
-        "error-callback": () => {
-          setErrorMsg("El desafío falló. Recarga la página.");
-          setStatus("error");
-        },
-        theme: "light",
-        language: "es",
-      });
-    };
-
-    if ((window as any).turnstile) {
+    if ((window as any).turnstile?.render) {
       renderWidget();
     } else {
-      const script = document.createElement("script");
-      script.src = "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit";
-      script.async = true;
-      script.onload = renderWidget;
-      document.head.appendChild(script);
+      const existingScript = document.querySelector(
+        'script[src*="challenges.cloudflare.com/turnstile"]'
+      );
+      if (!existingScript) {
+        const script = document.createElement("script");
+        script.src =
+          "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit&onload=onTurnstileLoad";
+        script.async = true;
+        script.onerror = () => {
+          setErrorMsg("No se pudo cargar el script de verificación. Desactiva el bloqueador de anuncios e inténtalo de nuevo.");
+          setStatus("error");
+        };
+        (window as any).onTurnstileLoad = renderWidget;
+        document.head.appendChild(script);
+      } else {
+        const checkInterval = setInterval(() => {
+          if ((window as any).turnstile?.render) {
+            clearInterval(checkInterval);
+            renderWidget();
+          }
+        }, 200);
+        setTimeout(() => clearInterval(checkInterval), SCRIPT_LOAD_TIMEOUT);
+      }
     }
-  }, [handleToken]);
+
+    return () => {
+      if (timeoutRef.current) clearTimeout(timeoutRef.current);
+    };
+  }, [renderWidget]);
+
+  const handleRetry = () => {
+    widgetRendered.current = false;
+    setStatus("loading");
+    setErrorMsg("");
+
+    if (containerRef.current) {
+      containerRef.current.innerHTML = "";
+    }
+
+    const turnstile = (window as any).turnstile;
+    if (turnstile?.render) {
+      renderWidget();
+    } else {
+      window.location.reload();
+    }
+  };
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 flex items-center justify-center p-4">
@@ -119,10 +176,10 @@ function CaptchaForm() {
         )}
 
         {status === "error" && (
-          <div className="space-y-3">
+          <div className="space-y-4">
             <p className="text-red-600 text-sm font-medium">{errorMsg}</p>
             <button
-              onClick={() => window.location.reload()}
+              onClick={handleRetry}
               className="px-6 py-2.5 bg-coral-600 text-white rounded-xl font-bold text-sm hover:bg-coral-700 transition-colors cursor-pointer"
               type="button"
             >

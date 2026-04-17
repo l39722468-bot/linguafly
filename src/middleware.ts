@@ -50,14 +50,30 @@ function requiresCaptcha(request: NextRequest): boolean {
 
   if (
     pathname === CAPTCHA_PATH ||
-    pathname.startsWith("/api/captcha") ||
+    pathname.startsWith("/api/") ||
     pathname.startsWith("/_next/") ||
     pathname.includes(".") ||
-    pathname.startsWith("/api/webhooks") ||
     pathname === "/robots.txt" ||
     pathname === "/sitemap.xml" ||
     pathname === "/icon.svg" ||
     pathname === "/indexnow-key.txt"
+  ) {
+    return false;
+  }
+
+  const ua = (request.headers.get("user-agent") || "").toLowerCase();
+  if (
+    ua.includes("googlebot") ||
+    ua.includes("bingbot") ||
+    ua.includes("yandexbot") ||
+    ua.includes("duckduckbot") ||
+    ua.includes("slurp") ||
+    ua.includes("facebookexternalhit") ||
+    ua.includes("twitterbot") ||
+    ua.includes("linkedinbot") ||
+    ua.includes("telegrambot") ||
+    ua.includes("whatsapp") ||
+    ua.includes("applebot")
   ) {
     return false;
   }
