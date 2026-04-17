@@ -48,7 +48,7 @@ Una **entrevista de trabajo en inglés** no es solo una prueba de idioma; es una
 
 En **Focus English** hemos acompañado a cientos de profesionales en este proceso. Esta guía concentra lo mejor de nuestra metodología en un plan de preparación concreto y accionable.
 
-Complementa esta guía con nuestros artículos sobre **[frases para entrevistas de trabajo en inglés](/blog/trabajo/entrevista-trabajo-ingles-frases)** y **[preguntas frecuentes en entrevistas en inglés](/blog/trabajo/entrevista-trabajo-ingles-preguntas)**.
+Complementa esta guía con nuestros artículos sobre **[vocabulario para entrevistas de trabajo en inglés](/blog/trabajo/vocabulario-entrevista-trabajo-ingles)** y **[preguntas frecuentes en entrevistas en inglés](/blog/trabajo/entrevista-trabajo-ingles-preguntas)**.
 
 ---
 

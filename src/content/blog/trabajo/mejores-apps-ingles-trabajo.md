@@ -45,7 +45,7 @@ El inglés profesional requiere precisión, un tono adecuado (formalidad vs. cer
 Antes de elegir, es fundamental entender que no todas las [aplicaciones para aprender inglés](/blog/metodos/mejor-app-aprender-ingles) están diseñadas para el mismo objetivo. Para que una herramienta sea realmente efectiva en tu carrera, debe cumplir con estos tres pilares:
 
 1.  **Simulación de escenarios reales**: No basta con completar huecos. Debes poder practicar situaciones como la gestión de conflictos, presentaciones de ventas o el "small talk" antes de una reunión importante.
-2.  **Enfoque en la redacción formal**: En el trabajo, el 70% de la comunicación suele ser escrita. Necesitas herramientas que te enseñen la estructura de los [emails profesionales en inglés](/blog/trabajo/emails-profesionales-ingles) y los tecnicismos de los informes.
+2.  **Enfoque en la redacción formal**: En el trabajo, el 70% de la comunicación suele ser escrita. Necesitas herramientas que te enseñen la estructura de los [emails profesionales en inglés](/blog/trabajo/plantillas-emails-profesionales-ingles) y los tecnicismos de los informes.
 
 ## Ranking de las mejores opciones en 2026
 

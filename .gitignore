@@ -49,6 +49,8 @@ ADMIN_CREDENTIALS.md
 
 # Generated audit reports
 /reports/
+/audit-seo-report.json
+/audit-seo-report.md
 
 # Fuentes descargables para scripts/generate-public-vocabulario.py (Apertium, CMUdict, lista 10k)
 /scripts/data/

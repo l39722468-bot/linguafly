@@ -56,7 +56,7 @@ Como recepcionista, eres mucho más que un empleado; eres el "corazón" del hote
 ## El "Efecto Halo" en la Recepción
 La primera impresión en hotelería es crítica. Un recepcionista que saluda con seguridad, utiliza los términos correctos y muestra empatía crea un "efecto halo" que hace que el huésped sea más tolerante con pequeños errores posteriores. Por ello, dominar el vocabulario específico es tu mejor herramienta de trabajo.
 
-Para una formación integral, te recomendamos explorar nuestro [Curso de Inglés para Hostelería](/blog/trabajo/ingles-para-hosteleria).
+Para una formación integral, te recomendamos explorar nuestro [Inglés para camareros y hostelería](/blog/trabajo/ingles-para-camareros-y-hosteleria).
 
 ---
 
