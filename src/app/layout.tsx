@@ -96,23 +96,12 @@ export default function RootLayout({
   return (
     <html lang="es" className={`scroll-smooth ${nunito.variable} ${jakarta.variable}`} suppressHydrationWarning>
       <head>
-        {/* Monetag zona 10886579: snippet exacto del panel (Onclick / verificación) */}
+        {/* Monetag zona 230407: tag único del panel (quge5.com) */}
         <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(s){s.dataset.zone='10886579',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`,
-          }}
-        />
-        {/* Monetag zona 10886732: snippet exacto del panel */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(s){s.dataset.zone='10886732',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`,
-          }}
-        />
-        {/* Monetag zona 10886746 (Vignette): snippet exacto del panel */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(s){s.dataset.zone='10886746',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))`,
-          }}
+          src="https://quge5.com/88/tag.min.js"
+          data-zone="230407"
+          async
+          data-cfasync="false"
         />
         <script
           dangerouslySetInnerHTML={{
@@ -130,9 +119,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <link rel="dns-prefetch" href="https://nprqtjljoekoirlrjxlh.supabase.co" />
         <link rel="preconnect" href="https://consent.cookiebot.com" />
         <link rel="dns-prefetch" href="https://consent.cookiebot.com" />
-        <link rel="dns-prefetch" href="https://al5sm.com" />
-        <link rel="dns-prefetch" href="https://nap5k.com" />
-        <link rel="dns-prefetch" href="https://n6wxm.com" />
+        <link rel="dns-prefetch" href="https://quge5.com" />
         {/* Schema.org structured data */}
         <OrganizationSchema />
         <WebsiteSchema />
