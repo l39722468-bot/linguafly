@@ -2,7 +2,7 @@
 title: 'Consonantes Difíciles del Inglés'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Consonantes difíciles del inglés para hispanohablantes: /v/, /w/, /ŋ/ y más. Por qué no existen en español y cómo aprenderlas con ejercicios prácticos de pronunciación.
 excerpt: >-

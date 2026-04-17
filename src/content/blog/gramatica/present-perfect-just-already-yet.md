@@ -2,7 +2,7 @@
 title: 'Just, Already y Yet en Inglés: Uso'
 date: '2026-02-13'
 updatedDate: '2026-02-13'
-author: david-torres
+author: focus-english-team
 description: >-
   Aprende a usar just, already y yet correctamente con el present perfect en inglés. Posición en la frase, diferencias de significado y los errores más frecuentes con ejemplos claros.
 category: gramatica

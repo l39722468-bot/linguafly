@@ -18,7 +18,7 @@ keywords:
   - midwest accent inglés
   - inglés americano características
   - aprender acento americano
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-06'
 updatedDate: '2026-02-06'
 category: metodos

@@ -18,7 +18,7 @@ keywords:
   - cómo hacer shadowing inglés
   - ejercicios pronunciación inglés
   - hablar inglés como nativo
-author: david-torres
+author: focus-english-team
 date: '2026-02-13'
 updatedDate: '2026-02-13'
 category: metodos

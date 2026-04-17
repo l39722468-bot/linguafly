@@ -2,7 +2,7 @@
 title: 'Inglés para Ingenieros de Software'
 date: '2026-03-03'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Domina el inglés técnico para desarrollo de software. Vocabulario de
   programación, comunicación en standups y code reviews, escritura de

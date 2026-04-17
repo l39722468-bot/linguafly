@@ -2,7 +2,7 @@
 title: 'Inglés Universitario y Académico'
 date: '2026-02-28'
 updatedDate: '2026-03-10'
-author: david-torres
+author: focus-english-team
 description: >-
   Domina el inglés académico universitario: escritura de ensayos, lectura de artículos científicos, participación en seminarios y comunicación con profesores. Guía completa para hispanohablantes en 2026.
 excerpt: >-

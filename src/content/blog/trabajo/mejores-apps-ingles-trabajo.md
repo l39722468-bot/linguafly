@@ -21,7 +21,7 @@ keywords:
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 category: trabajo
-author: sara-mendez
+author: focus-english-team
 canonical: 'https://www.focus-on-english.com/blog/trabajo/mejores-apps-ingles-trabajo'
 faqs:
   - question: '¿El desafío del inglés en el entorno laboral moderno?'

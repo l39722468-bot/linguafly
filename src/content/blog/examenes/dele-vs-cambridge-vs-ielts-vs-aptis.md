@@ -2,7 +2,7 @@
 title: 'DELE vs Cambridge vs IELTS vs APTIS 2026'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
-author: david-torres
+author: focus-english-team
 category: examenes
 readTime: 11 min
 description: >-

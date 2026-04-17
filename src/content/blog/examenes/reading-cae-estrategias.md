@@ -11,7 +11,7 @@ keywords:
   - gapped text cae
   - reading and use of english c1
   - comprension lectora cae ingles
-author: david-torres
+author: focus-english-team
 date: '2026-03-07'
 updatedDate: '2026-03-07'
 category: examenes

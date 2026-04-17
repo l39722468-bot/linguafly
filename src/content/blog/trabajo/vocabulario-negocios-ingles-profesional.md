@@ -14,7 +14,7 @@ keywords:
   - ingles comercial gratis
   - frases para reuniones en ingles
   - vocabulario empresarial ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-06'
 updatedDate: '2026-03-10'
 category: trabajo

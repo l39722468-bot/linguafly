@@ -2,7 +2,7 @@
 category: viajes
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: sara-mendez
+author: focus-english-team
 title: 'Inglés para mochileros en hostels'
 description: >-
   Guía práctica de inglés para mochileros: reservas en hostels, literas, consignas,

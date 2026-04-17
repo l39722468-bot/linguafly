@@ -2,7 +2,7 @@
 category: metodos
 date: '2026-03-02'
 updatedDate: '2026-03-21'
-author: sara-mendez
+author: focus-english-team
 title: 'Nivel C2 de Inglés: Qué Es, Cuánto'
 description: >-
   El C2 (Proficiency) es la cumbre del MCER. Te explicamos qué lo diferencia

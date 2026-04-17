@@ -11,7 +11,7 @@ keywords:
   - writing c1 advanced trucos
   - essay argumentativo ingles c1
   - writing cambridge c1 como hacerlo
-author: david-torres
+author: focus-english-team
 date: '2026-03-19'
 updatedDate: '2026-03-19'
 category: examenes

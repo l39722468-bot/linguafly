@@ -18,7 +18,7 @@ keywords:
   - inglés británico variedades
   - RP received pronunciation
   - acentos reino unido
-author: david-torres
+author: focus-english-team
 date: '2026-02-03'
 updatedDate: '2026-02-03'
 category: metodos

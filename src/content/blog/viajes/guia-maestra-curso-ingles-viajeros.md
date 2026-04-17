@@ -2,7 +2,7 @@
 title: 'Inglés para Viajar: Tu Pasaporte'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía completa de inglés para viajeros: habla con confianza en aeropuertos, hoteles, restaurantes y excursiones. Transforma tus viajes con el idioma como herramienta de conexión real.
 excerpt: >-

@@ -2,7 +2,7 @@
 title: 'Bandas del IELTS Explicadas: Qué Significan'
 date: '2026-02-23'
 updatedDate: '2026-02-23'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía completa sobre las bandas del IELTS: qué evalúa cada nivel, qué nota necesitas para emigrar, estudiar en el extranjero o trabajar, y estrategias específicas para subir de band según tu punto de partida.
 category: examenes

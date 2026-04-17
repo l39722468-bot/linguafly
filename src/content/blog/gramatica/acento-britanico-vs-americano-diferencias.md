@@ -2,7 +2,7 @@
 title: 'Inglés Británico vs Americano'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Inglés británico vs americano: las diferencias de pronunciación más importantes (RP vs GA, vocales, consonantes, entonación). Guía práctica para hispanohablantes con ejemplos.
 excerpt: >-

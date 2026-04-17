@@ -16,7 +16,7 @@ keywords:
   - cancelar reunión inglés email
   - schedule meeting email ingles
   - meeting request email ingles trabajo
-author: david-torres
+author: focus-english-team
 date: '2026-02-24'
 updatedDate: '2026-03-10'
 alt: Calendario de reuniones en inglés en pantalla de ordenador para gestión profesional

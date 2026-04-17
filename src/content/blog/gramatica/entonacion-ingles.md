@@ -18,7 +18,7 @@ keywords:
   - entonación preguntas inglés
   - intonation inglés
   - pronunciación inglés natural
-author: david-torres
+author: focus-english-team
 date: '2026-02-07'
 updatedDate: '2026-02-07'
 category: gramatica

@@ -21,7 +21,7 @@ keywords:
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 category: gramatica
-author: david-torres
+author: focus-english-team
 faqs:
   - question: ¿Cuál es la diferencia principal entre Present Perfect y Past Simple?
     answer: >-

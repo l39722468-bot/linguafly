@@ -2,7 +2,7 @@
 title: 'Las Mejores Películas y Series'
 date: '2026-02-14'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Las mejores películas y series para aprender inglés según tu nivel: recomendaciones para A2, B1, B2 y C1 con estrategias para sacarles el máximo partido en 2026.
 excerpt: >-

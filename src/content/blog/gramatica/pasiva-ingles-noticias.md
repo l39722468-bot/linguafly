@@ -17,7 +17,7 @@ keywords:
   - leer noticias ingles comprension
   - inglés periodístico pasiva
   - passive voice practice ejercicios
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-07'
 updatedDate: '2026-03-10'
 alt: Tableta mostrando una web de noticias en inglés con voz pasiva en titulares

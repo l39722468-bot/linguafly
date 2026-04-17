@@ -2,7 +2,7 @@
 title: 'Aptis A2 2026: Estructura del Examen'
 date: '2026-02-06'
 updatedDate: '2026-03-21'
-author: david-torres
+author: focus-english-team
 description: >-
   Aptis A2: todo lo que necesitas saber en 2026. Estructura de las 4 partes,
   puntuación mínima para aprobar, precio actualizado y plan de preparación

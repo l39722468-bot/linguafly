@@ -2,7 +2,7 @@
 title: 'Will vs Shall en Inglés: Cuándo Se'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Will vs shall en inglés: cuándo se usa cada uno, por qué shall es más formal y en qué contextos los nativos lo utilizan hoy. Guía práctica con ejemplos reales.
 category: gramatica

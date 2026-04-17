@@ -17,7 +17,7 @@ keywords:
   - como describir habilidades ingles entrevista
   - vocabulario profesional entrevista ingles
   - frases entrevista trabajo ingles
-author: david-torres
+author: focus-english-team
 date: '2026-02-08'
 updatedDate: '2026-03-12'
 alt: Candidato estudiando vocabulario para entrevista de trabajo en inglés en su portátil

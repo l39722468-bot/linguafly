@@ -2,7 +2,7 @@
 title: 'Networking en Inglés'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 excerpt: >-
   ¿Te dan miedo las pausas incómodas en los eventos de networking? Domina el
   'small talk', prepara tu elevator pitch y crea conexiones profesionales

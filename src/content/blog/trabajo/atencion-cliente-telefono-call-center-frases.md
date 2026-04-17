@@ -2,7 +2,7 @@
 category: trabajo
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: sara-mendez
+author: focus-english-team
 title: 'Telefonía y call center en inglés'
 description: >-
   Frases esenciales para atención telefónica en inglés: verificación de datos,

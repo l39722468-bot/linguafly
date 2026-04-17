@@ -17,7 +17,7 @@ keywords:
   - pares minimos vocales ingles
   - short vowels english
   - long vowels english
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-08'
 updatedDate: '2026-02-08'
 category: gramatica

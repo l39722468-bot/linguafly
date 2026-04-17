@@ -2,7 +2,7 @@
 title: 'Job Interview English: Técnicas'
 date: '2026-02-25'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Lleva tus entrevistas en inglés al siguiente nivel con técnicas avanzadas de
   comunicación. Storytelling profesional, manejo de silencios, lenguaje corporal

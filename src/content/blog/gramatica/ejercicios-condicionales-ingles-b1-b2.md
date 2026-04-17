@@ -12,7 +12,7 @@ keywords:
   - second conditional ejercicios
   - third conditional ejercicios
   - gramatica inglesa b2
-author: david-torres
+author: focus-english-team
 description: >-
   Ejercicios de condicionales en inglés B1-B2 con soluciones: practica los cuatro tipos con correcciones detalladas. Perfecto para preparar B2 First, C1 Advanced y exámenes oficiales.
 date: '2026-03-04'

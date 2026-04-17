@@ -2,7 +2,7 @@
 category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-03-10'
-author: david-torres
+author: focus-english-team
 title: 'Guia Maestra de Reported Speech'
 description: >-
   Domina el Reported Speech y los Reporting Verbs con nuestra guía completa para

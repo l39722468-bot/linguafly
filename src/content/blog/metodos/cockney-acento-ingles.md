@@ -17,7 +17,7 @@ keywords:
   - rhyming slang cockney
   - east end londres acento
   - cockney vs estuary english
-author: david-torres
+author: focus-english-team
 date: '2026-02-15'
 updatedDate: '2026-02-15'
 category: metodos

@@ -15,7 +15,7 @@ keywords:
   - if present simple will
   - ejercicios first conditional
   - condicionales ingles b1
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-07'
 updatedDate: '2026-03-10'
 alt: Persona estudiando el first conditional en inglés con ejemplos de conversación

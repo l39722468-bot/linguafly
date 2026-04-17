@@ -11,7 +11,7 @@ keywords:
   - key word transformation ejemplos
   - como hacer key word transformation
   - inversiones cae key word
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-17'
 updatedDate: '2026-03-17'
 category: examenes

@@ -13,7 +13,7 @@ keywords:
   - relative pronouns english
   - uso de who whom whose
   - gramatica b2 c1
-author: david-torres
+author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 category: gramatica

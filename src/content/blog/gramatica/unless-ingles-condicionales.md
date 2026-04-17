@@ -15,7 +15,7 @@ keywords:
   - as long as ingles
   - conjunciones condicionales ingles
   - unless ejemplos ingles
-author: david-torres
+author: focus-english-team
 date: '2026-02-16'
 updatedDate: '2026-03-10'
 alt: Pizarra con ejemplos de unless y conjunciones condicionales en inglés

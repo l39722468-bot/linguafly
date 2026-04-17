@@ -16,7 +16,7 @@ keywords:
   - sorry email ingles profesional
   - correo de disculpa ingles
   - apology letter ingles trabajo
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-15'
 updatedDate: '2026-03-10'
 alt: Persona escribiendo un email de disculpa profesional en inglés en su ordenador

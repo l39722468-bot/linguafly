@@ -16,7 +16,7 @@ keywords:
   - mejorar speaking ingles
   - tecnicas hablar ingles
   - ingles fluido conversacion
-author: david-torres
+author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-03-10'
 category: metodos

@@ -2,7 +2,7 @@
 title: 'Present Perfect Continuous: Cuándo'
 date: '2026-02-22'
 updatedDate: '2026-03-20'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Present Perfect Continuous en inglés: cuándo usarlo y en qué se diferencia del Present Perfect Simple. Guía con ejemplos claros, errores frecuentes y ejercicios resueltos.
 category: gramatica

@@ -2,7 +2,7 @@
 title: 'Los Mejores Libros para Aprender'
 date: '2026-02-16'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Los mejores libros para aprender inglés en 2026 según tu nivel: gramática, vocabulario, conversación y exámenes. Incluye lecturas graduadas recomendadas para cada etapa del aprendizaje.
 excerpt: >-

@@ -2,7 +2,7 @@
 title: 'Inglés para Real Estate'
 date: '2026-03-12'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 excerpt: >-
   Guía completa de inglés para el sector inmobiliario: vocabulario de compraventa, alquiler, contratos, negociación de propiedades y terminología técnica para agentes y compradores internacionales.
 category: trabajo

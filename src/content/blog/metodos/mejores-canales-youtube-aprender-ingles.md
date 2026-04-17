@@ -2,7 +2,7 @@
 title: 'Los Mejores Canales de YouTube'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Los mejores canales de YouTube para aprender inglés gratis en 2026: clasificados por nivel (A1–C2) y objetivo (pronunciación, gramática, conversación, exámenes). Con rutina diaria incluida.
 excerpt: >-

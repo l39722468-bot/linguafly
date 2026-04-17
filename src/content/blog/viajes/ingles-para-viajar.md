@@ -2,7 +2,7 @@
 category: viajes
 date: '2026-02-07'
 updatedDate: '2026-03-07'
-author: sara-mendez
+author: focus-english-team
 title: 'Inglés para Viajar'
 description: >-
   Domina el inglés para tus viajes. Frases esenciales para aeropuertos, hoteles,

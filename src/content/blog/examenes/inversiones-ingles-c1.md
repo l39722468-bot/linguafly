@@ -11,7 +11,7 @@ keywords:
   - not only but also inversion
   - inversiones gramatica inglesa avanzada
   - inversiones uso ingles c1
-author: david-torres
+author: focus-english-team
 date: '2026-03-23'
 updatedDate: '2026-03-23'
 category: examenes

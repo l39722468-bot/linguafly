@@ -18,7 +18,7 @@ keywords:
   - grabarse hablando inglés
   - fonética inglés práctica
   - pronunciación inglés adultos
-author: david-torres
+author: focus-english-team
 date: '2026-02-19'
 updatedDate: '2026-02-19'
 category: metodos

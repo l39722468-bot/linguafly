@@ -2,7 +2,7 @@
 category: gramatica
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: david-torres
+author: focus-english-team
 title: 'Doubt, debt, subtle y el misterio'
 description: >-
   Explicación práctica para hispanohablantes: por qué algunas palabras tienen “b”

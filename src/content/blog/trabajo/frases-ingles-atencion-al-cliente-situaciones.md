@@ -2,7 +2,7 @@
 title: '50 Frases Esenciales de Inglés'
 date: '2026-03-06'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Colección de las 50 frases más utilizadas en atención al cliente en inglés.
   Organizadas por situación: bienvenida, resolución de problemas, quejas,

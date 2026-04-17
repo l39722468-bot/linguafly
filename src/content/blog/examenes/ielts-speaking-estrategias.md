@@ -2,7 +2,7 @@
 title: 'IELTS Speaking: Cómo Preparar las 3'
 date: '2026-02-11'
 updatedDate: '2026-02-11'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía completa para el IELTS Speaking: qué evalúan en cada parte, cómo preparar el monólogo del Part 2, errores que bajan la nota y estrategias reales para subir de Band 6 a Band 7.
 category: examenes

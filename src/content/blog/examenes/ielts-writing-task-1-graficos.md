@@ -2,7 +2,7 @@
 title: 'IELTS Writing Task 1: Cómo Describir'
 date: '2026-02-05'
 updatedDate: '2026-02-05'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía práctica para el IELTS Writing Task 1: estructura de respuesta, vocabulario para describir tendencias, errores más comunes y ejemplos de respuestas Band 6.5 y 7.
 category: examenes

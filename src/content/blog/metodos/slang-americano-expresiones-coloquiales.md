@@ -17,7 +17,7 @@ keywords:
   - ingles informal americano
   - slang gen z
   - expresiones estados unidos
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-10'
 category: metodos

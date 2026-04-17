@@ -15,7 +15,7 @@ keywords:
   - follow up correo ingles
   - no response follow up email ingles
   - email recordatorio ingles trabajo
-author: david-torres
+author: focus-english-team
 date: '2026-02-12'
 updatedDate: '2026-03-10'
 alt: Persona revisando correos electrónicos en busca de respuesta, follow-up email en inglés

@@ -15,7 +15,7 @@ keywords:
   - gramatica inglesa b1
   - ejercicios de gramatica en ingles
   - practicar verbos en ingles online gratis
-author: david-torres
+author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 category: gramatica

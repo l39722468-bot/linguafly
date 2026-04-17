@@ -2,7 +2,7 @@
 title: 'Focus English 2026: blog (no curso de pago)'
 date: '2026-04-15'
 updatedDate: '2026-04-15'
-author: sara-mendez
+author: focus-english-team
 excerpt: 'Focus English es blog y guías gratuitas, no una plataforma con matrícula. Cómo usarlo con IELTS, Cambridge y MCER junto a Preply, academias u otra escuela online.'
 description: 'Qué ofrece el blog Focus English frente a un curso de inglés online: artículos gratuitos, hubs temáticos y enlaces útiles para preparar exámenes oficiales sin confundir editorial con formación de pago.'
 category: metodos

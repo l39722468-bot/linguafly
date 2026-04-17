@@ -2,7 +2,7 @@
 category: examenes
 date: '2026-02-07'
 updatedDate: '2026-03-10'
-author: david-torres
+author: focus-english-team
 alt: "Estudiante de nivel C2 Proficiency logrando la maestría del idioma"
 title: 'Examen C2 Proficiency (CPE) 2026'
 description: >-

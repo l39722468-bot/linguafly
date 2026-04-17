@@ -17,7 +17,7 @@ keywords:
 date: '2025-02-05'
 updatedDate: '2026-03-21'
 category: examenes
-author: david-torres
+author: focus-english-team
 canonical: >-
   https://www.focus-on-english.com/blog/examenes/preparar-b1-cambridge-por-cuenta-propia
 faqs:

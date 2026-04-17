@@ -2,7 +2,7 @@
 title: 'Preguntas con Will en Inglés: Cómo'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Preguntas con will en inglés: cómo formarlas, cuándo usarlas y sus usos más frecuentes en conversación. Guía práctica con ejemplos y los errores más comunes a evitar.
 category: gramatica

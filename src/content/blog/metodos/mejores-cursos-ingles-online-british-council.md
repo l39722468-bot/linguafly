@@ -2,7 +2,7 @@
 title: 'British Council 2026: cursos online e IELTS'
 date: '2026-04-15'
 updatedDate: '2026-04-15'
-author: sara-mendez
+author: focus-english-team
 excerpt: 'Cursos online del British Council: prestigio, recursos gratuitos y vínculo con IELTS. Qué cubre, rangos de precio y cómo matricular el examen en centro autorizado.'
 description: 'Guía sobre cursos de inglés online del British Council: qué esperar, preparación para exámenes oficiales, IELTS y dónde informarte para matrículas y centros.'
 category: metodos

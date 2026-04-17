@@ -2,7 +2,7 @@
 title: 'LinkedIn en Inglés 2026: Cómo Optimizar'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 excerpt: >-
   Transforma tu presencia profesional en 2026. Aprende a redactar un titular de
   impacto, un extracto convincente y a hacer networking efectivo en LinkedIn

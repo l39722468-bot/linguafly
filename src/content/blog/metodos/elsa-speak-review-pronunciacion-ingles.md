@@ -2,7 +2,7 @@
 title: 'ELSA Speak Review 2026: ¿La Mejor App'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: sara-mendez
+author: focus-english-team
 description: >-
   ELSA Speak review 2026: cómo funciona la IA para corregir tu pronunciación inglesa, qué fonemas trabaja, cuánto cuesta y si merece la pena para hispanohablantes que quieren hablar con más claridad.
 excerpt: >-

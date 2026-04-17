@@ -2,7 +2,7 @@
 title: 'Phrasal Verbs en Conversación'
 date: '2026-02-24'
 updatedDate: '2026-02-24'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Los phrasal verbs más usados en conversación cotidiana en inglés: los que aparecen en series, podcasts y entre nativos. Con ejemplos reales y diferencias de registro.
 category: gramatica

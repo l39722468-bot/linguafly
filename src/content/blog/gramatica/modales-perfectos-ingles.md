@@ -2,7 +2,7 @@
 title: 'Modales Perfectos en Inglés'
 date: '2026-02-19'
 updatedDate: '2026-02-19'
-author: david-torres
+author: focus-english-team
 description: >-
   Aprende los modales perfectos en inglés: must have, might have, could have, should have y would have. Cómo usarlos para deducir, especular y hablar de lo que pudo o debió haber pasado.
 category: gramatica

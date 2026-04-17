@@ -2,7 +2,7 @@
 title: 'Cultura y Etiqueta: Guía Maestra'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Más allá del idioma: aprende las normas sociales y de etiqueta en UK, EE.UU., Australia y Canadá. Guía práctica para hispanohablantes que viajan o trabajan en países anglosajones.
 excerpt: >-

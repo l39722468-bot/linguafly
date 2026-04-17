@@ -18,7 +18,7 @@ keywords:
   - entrenamiento auditivo inglés
   - fonética inglés pares
   - pronunciar bien inglés
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-20'
 updatedDate: '2026-02-20'
 category: gramatica

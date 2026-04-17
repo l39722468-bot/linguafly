@@ -18,7 +18,7 @@ keywords:
   - verbos con particulas ingles
   - phrasal verbs ingles
   - phrasal verbs
-author: david-torres
+author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-03-10'
 alt: 'Estudiante principiante aprendiendo phrasal verbs básicos en inglés'

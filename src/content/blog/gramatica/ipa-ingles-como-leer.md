@@ -18,7 +18,7 @@ keywords:
   - fonética inglesa IPA
   - diccionario fonético inglés
   - aprender IPA inglés
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-26'
 updatedDate: '2026-02-26'
 category: gramatica

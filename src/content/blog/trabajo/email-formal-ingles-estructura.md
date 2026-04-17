@@ -15,7 +15,7 @@ keywords:
   - formato correo profesional ingles
   - email ingles estructura
   - email formal ingles ejemplos
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-03'
 updatedDate: '2026-03-10'
 alt: Persona escribiendo un email formal en inglés en su ordenador portátil

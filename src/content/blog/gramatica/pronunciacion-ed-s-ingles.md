@@ -2,7 +2,7 @@
 title: 'Cómo Pronunciar "-ed" y "-s"'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Cómo pronunciar -ed y -s en inglés: las reglas que nadie explica bien. Aprende cuándo suenan /t/, /d/ o /ɪd/ y cuándo -s suena /s/, /z/ o /ɪz/ con ejemplos y ejercicios.
 excerpt: >-

@@ -16,7 +16,7 @@ keywords:
   - ielts condicionales
   - ejercicios condicionales examen b2
   - uso ingles b2 condicionales
-author: david-torres
+author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-03-10'
 alt: Estudiante preparando el examen B2 con ejercicios de condicionales en inglés

@@ -2,7 +2,7 @@
 title: 'Inglés en la Cocina: Vocabulario'
 date: '2026-02-26'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Vocabulario culinario en inglés: utensilios, técnicas de cocina, ingredientes y cómo leer recetas anglosajonas. Imprescindible para trabajar en hostelería o cocinar en inglés.
 excerpt: >-

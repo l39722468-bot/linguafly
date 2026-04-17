@@ -2,7 +2,7 @@
 title: 'Becas y Solicitudes en Inglés: Cómo'
 date: '2026-03-04'
 updatedDate: '2026-03-10'
-author: david-torres
+author: focus-english-team
 description: >-
   Aprende a solicitar becas y financiación universitaria en inglés: Personal Statement, carta de motivación, referencias y todo lo necesario para conseguir una beca internacional en 2026.
 excerpt: >-

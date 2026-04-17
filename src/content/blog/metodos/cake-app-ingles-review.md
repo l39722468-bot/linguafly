@@ -2,7 +2,7 @@
 title: 'Cake App para Aprender Inglés: Review'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Cake App review 2026: aprende inglés con vídeos cortos de contenido real. Analizamos su sistema de aprendizaje, qué es gratis, cómo practicar speaking y para qué perfil de estudiante es ideal.
 excerpt: >-

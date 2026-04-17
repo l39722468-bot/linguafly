@@ -18,7 +18,7 @@ keywords:
   - aprender vocabulario ingles
   - phrasal verbs ingles
   - phrasal verbs
-author: david-torres
+author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 alt: 'Lista definitiva de phrasal verbs B2 para el First Certificate FCE'

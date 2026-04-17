@@ -2,7 +2,7 @@
 title: 'Pares Mínimos en Inglés: La Técnica'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Pares mínimos en inglés: la técnica más efectiva para afinar el oído y mejorar la pronunciación. Lista de pares clave para hispanohablantes con ejercicios de discriminación auditiva.
 excerpt: >-

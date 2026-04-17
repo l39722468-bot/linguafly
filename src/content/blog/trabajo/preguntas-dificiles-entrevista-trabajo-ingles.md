@@ -2,7 +2,7 @@
 title: 'Preguntas Difíciles en Entrevistas'
 date: '2026-02-22'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Aprende a responder con confianza las preguntas más complicadas en una
   entrevista de trabajo en inglés. Ejemplos de respuestas modelo, estrategias

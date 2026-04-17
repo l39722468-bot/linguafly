@@ -17,7 +17,7 @@ keywords:
   - IPA th ingles
   - consonantes inglés hispanohablantes
   - th diferencia
-author: david-torres
+author: focus-english-team
 date: '2026-02-11'
 updatedDate: '2026-02-11'
 category: gramatica

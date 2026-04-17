@@ -17,7 +17,7 @@ keywords:
   - entrenar oído inglés acentos
   - acento difícil inglés estrategias
   - listening inglés acentos regionales
-author: david-torres
+author: focus-english-team
 date: '2026-02-27'
 updatedDate: '2026-02-27'
 category: metodos

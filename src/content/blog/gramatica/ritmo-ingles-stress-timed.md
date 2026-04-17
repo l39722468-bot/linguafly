@@ -19,7 +19,7 @@ keywords:
   - ritmo español vs inglés
   - pronunciación inglés natural
   - hablar inglés fluido
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-10'
 updatedDate: '2026-02-10'
 category: gramatica

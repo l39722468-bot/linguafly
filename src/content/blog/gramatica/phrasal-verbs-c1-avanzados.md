@@ -2,7 +2,7 @@
 title: 'Phrasal Verbs C1 Avanzados: Los Más Usados'
 date: '2026-02-21'
 updatedDate: '2026-02-21'
-author: david-torres
+author: focus-english-team
 description: >-
   Phrasal verbs de nivel C1 para el CAE y el uso profesional: formas avanzadas en registro formal, escritura académica y conversación de alto nivel con ejemplos en contexto.
 category: gramatica

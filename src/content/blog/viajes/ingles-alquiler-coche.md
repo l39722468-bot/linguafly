@@ -18,7 +18,7 @@ keywords:
   - seguros coche alquiler ingles
   - gasolinera ingles
   - conducir extranjero ingles
-author: david-torres
+author: focus-english-team
 date: '2026-04-19'
 updatedDate: '2026-04-19'
 alt: Turista recogiendo llaves de un coche de alquiler en un mostrador de aeropuerto

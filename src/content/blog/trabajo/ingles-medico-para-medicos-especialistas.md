@@ -2,7 +2,7 @@
 title: 'Inglés Médico para Médicos'
 date: '2026-03-02'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía avanzada de inglés médico para médicos y especialistas. Redacción de
   historias clínicas, comunicación en congresos, publicaciones científicas y

@@ -17,7 +17,7 @@ keywords:
   - fonema schwa
   - IPA schwa
   - sílaba átona inglés
-author: david-torres
+author: focus-english-team
 date: '2026-02-05'
 updatedDate: '2026-02-05'
 category: gramatica

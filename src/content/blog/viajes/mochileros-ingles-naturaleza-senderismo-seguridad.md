@@ -2,7 +2,7 @@
 category: viajes
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: sara-mendez
+author: focus-english-team
 title: 'Inglés para mochileros en naturaleza'
 description: >-
   Vocabulario y frases en inglés para mochileros en montaña, senderos, clima,

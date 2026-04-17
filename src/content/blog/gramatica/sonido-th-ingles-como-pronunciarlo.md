@@ -2,7 +2,7 @@
 title: 'El Sonido TH en Inglés: Cómo'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Cómo pronunciar el sonido TH en inglés (/θ/ y /ð/): técnica, posición de la lengua y ejercicios progresivos. El sonido más difícil para hispanohablantes, explicado con claridad.
 excerpt: >-

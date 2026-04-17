@@ -2,7 +2,7 @@
 title: 'Letras Mudas en Inglés'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Letras mudas en inglés: guía completa con patrones y excepciones. Aprende por qué knife, Wednesday o psychology tienen letras silenciosas y cómo reconocerlas para mejorar tu pronunciación.
 excerpt: >-

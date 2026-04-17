@@ -2,7 +2,7 @@
 category: trabajo
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: sara-mendez
+author: focus-english-team
 title: 'Saludos, tono y registro en atención'
 description: >-
   Cómo abrir y cerrar interacciones, modular formalidad y sonar profesional sin

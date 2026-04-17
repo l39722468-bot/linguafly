@@ -2,7 +2,7 @@
 title: '20 Plantillas de Emails Profesionales'
 date: '2026-02-15'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Descarga y adapta las 20 plantillas de emails profesionales en inglés más
   utilizadas. Desde solicitudes de reunión hasta seguimiento de proyectos y

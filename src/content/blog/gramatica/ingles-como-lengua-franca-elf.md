@@ -2,7 +2,7 @@
 title: 'Inglés como Lengua Franca (ELF)'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   El inglés como lengua franca (ELF): por qué el inglés perfecto no siempre es el objetivo y qué implica esto para tu aprendizaje en un mundo globalizado.
 excerpt: >-

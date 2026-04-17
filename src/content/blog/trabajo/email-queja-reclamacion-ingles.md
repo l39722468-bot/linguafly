@@ -15,7 +15,7 @@ keywords:
   - reclamacion ingles correo
   - complaint letter ingles ejemplos
   - email formal queja ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-09'
 updatedDate: '2026-03-10'
 alt: Persona escribiendo un email de reclamación en inglés con expresión seria

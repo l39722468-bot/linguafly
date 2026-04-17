@@ -2,7 +2,7 @@
 title: 'Frases de Emergencia en Inglés'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Las frases de inglés que necesitas en emergencias al viajar: accidentes, robos, problemas médicos y extravíos. Guía de supervivencia para viajeros hispanohablantes.
 excerpt: >-

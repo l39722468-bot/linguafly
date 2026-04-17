@@ -2,7 +2,7 @@
 title: 'BBC Learning English'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: sara-mendez
+author: focus-english-team
 description: >-
   BBC Learning English guía completa 2026: sus mejores secciones, niveles recomendados, rutina diaria y cómo usarla sin internet. La plataforma gratuita más completa para aprender inglés.
 excerpt: >-

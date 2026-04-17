@@ -16,7 +16,7 @@ keywords:
   - frases negociacion ingles trabajo
   - correo negociacion precio ingles
   - business negotiation email english
-author: david-torres
+author: focus-english-team
 date: '2026-02-18'
 updatedDate: '2026-03-10'
 alt: Dos personas en reunión de negocios con ordenador revisando emails de negociación en inglés

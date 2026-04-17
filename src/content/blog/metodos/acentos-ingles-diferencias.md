@@ -2,7 +2,7 @@
 title: 'Acentos del Inglés'
 date: '2026-03-06'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía de acentos del inglés: diferencias entre el británico (RP, Cockney), americano (General American, Southern), australiano, irlandés y más. Con ejemplos de pronunciación para hispanohablantes.
 excerpt: >-

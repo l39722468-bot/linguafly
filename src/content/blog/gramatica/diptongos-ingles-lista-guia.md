@@ -2,7 +2,7 @@
 title: 'Diptongos en Inglés: Los 8 Sonidos'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Los 8 diptongos del inglés: qué son, cómo pronunciarlos y por qué dan al idioma su sonido característico. Guía con lista completa y ejemplos prácticos para hispanohablantes.
 excerpt: >-

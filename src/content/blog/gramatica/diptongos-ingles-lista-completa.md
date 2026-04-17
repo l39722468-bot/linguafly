@@ -18,7 +18,7 @@ keywords:
   - diptongos español inglés diferencias
   - sonidos vocálicos inglés
   - fonética inglés diptongos
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-14'
 updatedDate: '2026-02-14'
 category: gramatica

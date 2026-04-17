@@ -16,7 +16,7 @@ keywords:
   - ejercicios speaking ingles
   - speaking sin academia
   - monologos ingles practica
-author: david-torres
+author: focus-english-team
 date: '2026-04-16'
 updatedDate: '2026-04-16'
 alt: Persona hablando en inglés delante de un espejo con el móvil grabando

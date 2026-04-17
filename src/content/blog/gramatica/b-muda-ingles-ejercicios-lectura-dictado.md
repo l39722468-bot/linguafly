@@ -2,7 +2,7 @@
 category: gramatica
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: david-torres
+author: focus-english-team
 title: 'Ejercicios de “b” muda en inglés'
 description: >-
   Batería de práctica para automatizar palabras con b escrita y no pronunciada,

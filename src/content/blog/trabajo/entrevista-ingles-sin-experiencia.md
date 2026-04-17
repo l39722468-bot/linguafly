@@ -17,7 +17,7 @@ keywords:
   - entrevista primer empleo ingles
   - entry level job interview ingles
   - entrevista ingles recien graduado
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-23'
 updatedDate: '2026-03-12'
 alt: Joven candidata en entrevista de trabajo en inglés para su primer empleo

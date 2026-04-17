@@ -2,7 +2,7 @@
 title: 'IELTS Writing Task 2: Estructura'
 date: '2026-02-08'
 updatedDate: '2026-02-08'
-author: david-torres
+author: focus-english-team
 description: >-
   Aprende a estructurar el ensayo del IELTS Writing Task 2 según el tipo de pregunta: opinión, discusión, problema-solución y ventajas-desventajas. Con ejemplos reales y criterios de evaluación.
 category: examenes

@@ -17,7 +17,7 @@ keywords:
   - costumbres americanas
   - choque cultural america
   - vivir en estados unidos hispanohablante
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-10'
 category: metodos

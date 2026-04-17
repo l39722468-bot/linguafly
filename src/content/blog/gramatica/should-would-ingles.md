@@ -2,7 +2,7 @@
 title: 'Should y Would en Inglés: Usos y Diferencias'
 date: '2026-02-13'
 updatedDate: '2026-02-13'
-author: david-torres
+author: focus-english-team
 description: >-
   Guía completa de should y would en inglés: consejos, expectativas, condicionales, peticiones corteses y mucho más. Con ejemplos reales y comparativas para evitar los errores más frecuentes.
 category: gramatica

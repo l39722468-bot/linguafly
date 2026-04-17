@@ -19,7 +19,7 @@ keywords:
   - acento inglés ejercicios
   - técnicas pronunciación inglés
   - hablar inglés sin acento
-author: david-torres
+author: focus-english-team
 date: '2026-02-25'
 updatedDate: '2026-02-25'
 category: metodos

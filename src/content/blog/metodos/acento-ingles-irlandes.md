@@ -18,7 +18,7 @@ keywords:
   - hiberno english
   - acento irlanda fonética
   - inglés irlanda diferencias
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-12'
 updatedDate: '2026-02-12'
 category: metodos

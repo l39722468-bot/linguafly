@@ -17,7 +17,7 @@ keywords:
   - toefl speaking 26
   - vocabulario toefl speaking
   - toefl independent speaking
-author: david-torres
+author: focus-english-team
 date: '2026-04-18'
 updatedDate: '2026-04-18'
 alt: Candidato grabando respuestas de TOEFL Speaking con auriculares y micrófono

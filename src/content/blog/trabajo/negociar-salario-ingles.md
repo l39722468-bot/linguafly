@@ -16,7 +16,7 @@ keywords:
   - negociacion salarial ingles frases
   - como pedir aumento salario ingles
   - what are your salary expectations ingles
-author: david-torres
+author: focus-english-team
 date: '2026-02-14'
 updatedDate: '2026-03-12'
 alt: Profesional negociando salario en inglés en reunión de trabajo con documentos

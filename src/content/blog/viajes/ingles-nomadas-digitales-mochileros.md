@@ -2,7 +2,7 @@
 category: viajes
 date: '2026-02-07'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 title: 'Inglés para Nómadas Digitales'
 description: >-
   Guía de inglés para nómadas digitales y mochileros. Aprende a trabajar y vivir

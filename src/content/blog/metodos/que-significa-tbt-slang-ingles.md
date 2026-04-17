@@ -21,7 +21,7 @@ keywords:
 date: '2024-02-04'
 updatedDate: '2026-03-10'
 category: metodos
-author: sara-mendez
+author: focus-english-team
 faqs:
   - question: ¿Qué significa exactamente TBT?
     answer: >-

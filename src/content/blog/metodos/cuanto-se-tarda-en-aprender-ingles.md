@@ -19,7 +19,7 @@ keywords:
 date: '2024-02-03'
 updatedDate: '2026-03-10'
 category: metodos
-author: sara-mendez
+author: focus-english-team
 faqs:
   - question: ¿Es posible aprender inglés en 3 meses?
     answer: >-

@@ -2,7 +2,7 @@
 title: 'Ever y Never en Inglés: Uso'
 date: '2026-02-16'
 updatedDate: '2026-02-16'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Aprende a usar ever y never correctamente con el present perfect en inglés. Cuándo van en preguntas, en negativas y cuáles son los errores más comunes con ejemplos claros.
 category: gramatica

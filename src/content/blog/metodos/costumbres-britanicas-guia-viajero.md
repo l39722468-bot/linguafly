@@ -16,7 +16,7 @@ keywords:
   - etiqueta reino unido
   - normas sociales ingles britanico
   - como comportarse en reino unido
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-03-10'
 category: metodos

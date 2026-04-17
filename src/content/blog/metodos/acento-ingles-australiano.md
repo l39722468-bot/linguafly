@@ -18,7 +18,7 @@ keywords:
   - vocabulario australiano
   - australian english fonética
   - cómo entender inglés australiano
-author: david-torres
+author: focus-english-team
 date: '2026-02-09'
 updatedDate: '2026-02-09'
 category: metodos

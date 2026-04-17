@@ -2,7 +2,7 @@
 title: 'Duolingo para Aprender Inglés: Review'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Duolingo para aprender inglés: review honesto 2026. Qué ofrece realmente, hasta qué nivel es útil, sus limitaciones y cómo combinarlo con otras herramientas para obtener resultados reales.
 excerpt: >-

@@ -2,7 +2,7 @@
 title: 'Past Perfect en Inglés: Cuándo Usarlo'
 date: '2026-02-28'
 updatedDate: '2026-03-20'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Past Perfect en inglés: cuándo usarlo y por qué lo necesitas. Aprende a expresar lo que ocurrió antes de otro evento pasado con ejemplos prácticos y ejercicios para B2-C1.
 category: gramatica

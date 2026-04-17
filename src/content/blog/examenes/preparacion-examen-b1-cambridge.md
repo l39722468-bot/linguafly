@@ -2,7 +2,7 @@
 category: examenes
 date: '2026-02-07'
 updatedDate: '2026-03-07'
-author: david-torres
+author: focus-english-team
 alt: "Estudiante preparando su examen de nivel B1 de inglés"
 title: 'Preparación Examen B1 Inglés'
 description: >-

@@ -2,7 +2,7 @@
 title: 'Cómo Hacer un CV en Inglés'
 date: '2026-02-10'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 excerpt: >-
   Aprende a redactar un CV en inglés que supere los filtros ATS y atraiga a
   reclutadores internacionales. Incluye plantillas, vocabulario clave y los

@@ -11,7 +11,7 @@ keywords:
   - collaborative task cae speaking
   - criterios evaluacion speaking cae
   - speaking cambridge c1 avanzado
-author: david-torres
+author: focus-english-team
 date: '2026-03-11'
 updatedDate: '2026-03-11'
 category: examenes

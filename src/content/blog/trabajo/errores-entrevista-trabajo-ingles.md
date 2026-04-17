@@ -16,7 +16,7 @@ keywords:
   - errores comunes entrevista ingles
   - que no decir entrevista trabajo ingles
   - fallos entrevista ingles profesional
-author: david-torres
+author: focus-english-team
 date: '2026-02-20'
 updatedDate: '2026-03-12'
 alt: Candidato preocupado revisando errores comunes en entrevistas de trabajo en inglés

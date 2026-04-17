@@ -15,7 +15,7 @@ keywords:
   - had been pasiva ingles
   - passive voice ejercicios pasado
   - passive voice practice ejercicios
-author: david-torres
+author: focus-english-team
 date: '2026-02-08'
 updatedDate: '2026-03-10'
 alt: Libro de historia abierto con ejemplos de voz pasiva en inglés en pasado

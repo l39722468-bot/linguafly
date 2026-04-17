@@ -2,7 +2,7 @@
 title: 'Expresiones de Tiempo en Reported'
 date: '2026-02-10'
 updatedDate: '2026-02-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   En reported speech, las expresiones de tiempo y lugar cambian junto con el verbo. Aprende cuáles cambian, cómo y cuándo no es necesario cambiarlas, con ejemplos reales y tabla completa.
 category: gramatica

@@ -18,7 +18,7 @@ keywords:
   - cv tech ingles
   - plantilla cv ingles it
   - verbos accion cv ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-04-19'
 updatedDate: '2026-04-19'
 alt: Desarrollador revisando su CV en inglés en un portátil sobre una mesa de oficina

@@ -2,7 +2,7 @@
 title: 'Curso de Inglés Gratis: Los Mejores'
 date: '2026-03-20'
 updatedDate: '2026-03-20'
-author: sara-mendez
+author: focus-english-team
 excerpt: 'Descubre los mejores cursos de inglés gratuitos online en 2026: BBC Learning English, British Council, Duolingo, YouTube educativo y más. Con plan de estudio de 6 meses.'
 description: 'Guía completa de los mejores cursos de inglés 100% gratuitos online: recursos del British Council, BBC Learning English, Duolingo y el plan gratuito de Focus English. Incluye plan de estudio por niveles.'
 category: metodos

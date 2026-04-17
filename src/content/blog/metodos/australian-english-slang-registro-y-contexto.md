@@ -2,7 +2,7 @@
 category: metodos
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: sara-mendez
+author: focus-english-team
 title: 'Australian slang: registro, contexto'
 description: >-
   Guía sensata sobre coloquialismos australianos: cuándo usar, qué evitar en

@@ -2,7 +2,7 @@
 title: 'Guía Erasmus y Estudios'
 date: '2026-03-02'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía Erasmus en inglés: vocabulario para la universidad extranjera, vida en residencia, campus y cómo aprovechar al máximo tu intercambio académico. Todo lo que necesitas saber antes de irte.
 excerpt: >-

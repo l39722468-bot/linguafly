@@ -16,7 +16,7 @@ keywords:
   - condicionales avanzados ingles
   - ejercicios condicionales advanced
   - were it not for ingles
-author: david-torres
+author: focus-english-team
 date: '2026-02-28'
 updatedDate: '2026-03-10'
 alt: Estudiante avanzado trabajando en ejercicios de condicionales C1 en inglés

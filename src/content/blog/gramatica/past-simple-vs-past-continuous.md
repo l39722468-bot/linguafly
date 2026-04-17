@@ -2,7 +2,7 @@
 title: 'Past Simple vs Past Continuous'
 date: '2026-02-25'
 updatedDate: '2026-02-25'
-author: david-torres
+author: focus-english-team
 description: >-
   Aprende la diferencia entre Past Simple y Past Continuous en inglés: cuándo usar cada uno, cómo combinarlos para contar historias y los errores más frecuentes con ejemplos claros.
 category: gramatica

@@ -16,7 +16,7 @@ keywords:
   - voz pasiva ingles cuándo
   - diferencia voz activa pasiva
   - passive voice practice ejercicios
-author: david-torres
+author: focus-english-team
 date: '2026-02-20'
 updatedDate: '2026-03-10'
 alt: Dos columnas comparando voz activa y pasiva en inglés con ejemplos

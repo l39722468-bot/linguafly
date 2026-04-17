@@ -2,7 +2,7 @@
 category: gramatica
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: david-torres
+author: focus-english-team
 title: '“B” muda en inglés y confusión b/v'
 description: >-
   Cómo evitar mezclar el contraste español b/v con la b muda inglesa, y cómo

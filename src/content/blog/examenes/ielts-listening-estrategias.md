@@ -2,7 +2,7 @@
 title: 'IELTS Listening: Estrategias'
 date: '2026-02-17'
 updatedDate: '2026-02-17'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía de estrategias para el IELTS Listening: cómo aprovechar el tiempo entre secciones, qué errores cuestan más puntos, cómo detectar cambios y correcciones en el audio, y cómo practicar de forma eficiente.
 category: examenes

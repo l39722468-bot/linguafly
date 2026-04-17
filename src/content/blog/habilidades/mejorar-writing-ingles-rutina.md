@@ -17,7 +17,7 @@ keywords:
   - corregir writing ingles con ia
   - errores writing hispanohablantes
   - ejercicios writing ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-04-16'
 updatedDate: '2026-04-16'
 alt: Cuaderno abierto y ordenador portátil con un texto en inglés siendo redactado

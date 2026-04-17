@@ -2,7 +2,7 @@
 title: '10 Errores en Emails Profesionales'
 date: '2026-02-20'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Descubre los errores más frecuentes al escribir correos profesionales en
   inglés y cómo corregirlos. Guía práctica con ejemplos reales y alternativas

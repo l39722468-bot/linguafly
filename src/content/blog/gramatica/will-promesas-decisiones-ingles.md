@@ -2,7 +2,7 @@
 title: 'Will para Promesas y Decisiones'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Will para promesas y decisiones espontáneas en inglés: cómo funciona, cuándo usarlo y en qué se diferencia de going to. Ejemplos reales y ejercicios incluidos.
 category: gramatica

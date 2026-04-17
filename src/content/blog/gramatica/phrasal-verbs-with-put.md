@@ -19,7 +19,7 @@ keywords:
   - put up with ingles
   - phrasal verbs ingles
   - phrasal verbs
-author: david-torres
+author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-03-10'
 alt: 'Phrasal verbs con PUT en inglés: put off, put up, put on explicados'

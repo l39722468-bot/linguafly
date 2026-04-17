@@ -17,7 +17,7 @@ keywords:
   - estructura toefl writing
   - toefl writing 25 30
   - ejemplos toefl writing
-author: sara-mendez
+author: focus-english-team
 date: '2026-04-17'
 updatedDate: '2026-04-17'
 alt: Candidato realizando el TOEFL Writing en un ordenador de centro examinador

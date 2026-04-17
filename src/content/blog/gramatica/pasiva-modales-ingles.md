@@ -16,7 +16,7 @@ keywords:
   - modal passive voice
   - modales pasiva ingles ejemplos
   - passive voice practice ejercicios
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-17'
 updatedDate: '2026-03-10'
 alt: Pizarra con estructuras de verbos modales en pasiva en inglés

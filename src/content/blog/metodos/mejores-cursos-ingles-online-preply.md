@@ -2,7 +2,7 @@
 title: 'Preply 2026: tutores para IELTS y Cambridge'
 date: '2026-04-15'
 updatedDate: '2026-04-15'
-author: sara-mendez
+author: focus-english-team
 excerpt: 'Preply: elige tutor por especialidad y precio. Cómo preparar IELTS o Cambridge por horas, clase de prueba y combinación con material oficial sin desperdiciar tiempo.'
 description: 'Guía Preply para quien busca mejores cursos de inglés online con foco en exámenes: IELTS, Cambridge, precios por hora y consejos para no perder tiempo.'
 category: metodos

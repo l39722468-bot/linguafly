@@ -2,7 +2,7 @@
 title: 'Past Simple en Inglés: Cuándo Usarlo'
 date: '2026-02-07'
 updatedDate: '2026-03-21'
-author: david-torres
+author: focus-english-team
 description: >-
   Guía completa del Past Simple en inglés: cuándo usarlo, cómo formarlo con verbos regulares e irregulares, marcadores de tiempo y los errores más comunes de los hablantes de español.
 category: gramatica

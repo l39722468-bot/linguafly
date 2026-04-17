@@ -18,7 +18,7 @@ keywords:
   - vocabulario ielts speaking
   - estructura respuesta ielts
   - ielts speaking abstractas
-author: david-torres
+author: focus-english-team
 date: '2026-04-17'
 updatedDate: '2026-04-17'
 alt: Candidata de IELTS en entrevista oral con examinador tomando notas

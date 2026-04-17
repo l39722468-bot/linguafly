@@ -2,7 +2,7 @@
 title: 'IPA para Inglés: Cómo Usarlo'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Cómo usar el IPA (Alfabeto Fonético Internacional) para aprender inglés en el día a día: guía práctica para leer transcripciones fonéticas y mejorar tu pronunciación.
 excerpt: >-

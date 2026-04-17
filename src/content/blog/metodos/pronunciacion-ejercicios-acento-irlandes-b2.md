@@ -14,7 +14,7 @@ keywords:
   - imitar acento irlandes aprender ingles
   - ritmo entonacion ingles Irlanda
   - pronunciacion B2 ingles variedades
-author: david-torres
+author: focus-english-team
 date: '2026-03-29'
 updatedDate: '2026-03-29'
 alt: Estudiante practicando pronunciación frente al ordenador

@@ -16,7 +16,7 @@ keywords:
   - behavioral interview questions ingles
   - tell me about a time ingles
   - como responder entrevista ingles STAR
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-05'
 updatedDate: '2026-03-12'
 alt: Candidato respondiendo preguntas de comportamiento en entrevista de trabajo en inglés

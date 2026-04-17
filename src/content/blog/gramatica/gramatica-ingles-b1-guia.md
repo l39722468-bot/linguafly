@@ -2,7 +2,7 @@
 category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-03-07'
-author: david-torres
+author: focus-english-team
 title: 'Gramática Inglés B1'
 description: >-
   Domina la gramática del nivel B1 de inglés. Tiempos verbales, condicionales,

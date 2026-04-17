@@ -16,7 +16,7 @@ keywords:
   - wish would ingles
   - wish past perfect ingles
   - deseos en ingles b2
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-19'
 updatedDate: '2026-03-10'
 alt: Persona mirando hacia fuera expresando deseos con wish e if only en inglés

@@ -2,7 +2,7 @@
 category: trabajo
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: sara-mendez
+author: focus-english-team
 title: 'Email y chat de soporte en inglés'
 description: >-
   Cómo escribir en inglés para atención al cliente: claridad, asunto, adjuntos,

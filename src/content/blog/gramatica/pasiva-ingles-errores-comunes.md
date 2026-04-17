@@ -17,7 +17,7 @@ keywords:
   - participio pasado errores ingles
   - passive voice mistakes
   - passive voice practice ejercicios
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-01'
 updatedDate: '2026-03-10'
 alt: Cuaderno con errores de gramática corregidos en rojo, voz pasiva en inglés

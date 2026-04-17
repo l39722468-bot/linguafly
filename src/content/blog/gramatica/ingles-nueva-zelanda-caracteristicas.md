@@ -2,7 +2,7 @@
 title: 'Inglés de Nueva Zelanda'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   El inglés de Nueva Zelanda: sus características fonéticas únicas, influencia del maorí y diferencias con el australiano y británico. Guía práctica para entender el kiwi English.
 excerpt: >-

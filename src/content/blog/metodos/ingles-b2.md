@@ -2,7 +2,7 @@
 category: metodos
 date: '2026-02-07'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 title: 'Curso de Inglés B2: Prepárate'
 description: >-
   Alcanza la fluidez necesaria para trabajar y estudiar en el extranjero con

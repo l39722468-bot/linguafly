@@ -2,7 +2,7 @@
 title: 'Cómo Preparar una Entrevista'
 date: '2026-02-18'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Prepara tu entrevista de trabajo en inglés con esta guía completa. Estrategias
   de preparación, vocabulario clave, técnica STAR y simulacros de práctica para

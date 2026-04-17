@@ -16,7 +16,7 @@ keywords:
   - if had done ingles
   - third conditional ejemplos
   - condicionales pasado ingles b2
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-13'
 updatedDate: '2026-03-10'
 alt: Persona reflexionando sobre el pasado usando el third conditional en inglés

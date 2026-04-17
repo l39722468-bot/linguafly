@@ -2,7 +2,7 @@
 title: 'Ejercicios de Will en Inglés'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Ejercicios de will en inglés con soluciones: practica todos sus usos (futuro, predicciones, promesas, decisiones, ofrecimientos) con correcciones detalladas. Ideal para B1-B2.
 category: gramatica

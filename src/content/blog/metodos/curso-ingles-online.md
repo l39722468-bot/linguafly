@@ -2,7 +2,7 @@
 title: 'Los Mejores Cursos de Inglés Online en 2026'
 date: '2026-03-20'
 updatedDate: '2026-04-15'
-author: sara-mendez
+author: focus-english-team
 excerpt: 'Comparativa 2026: Babbel, Preply, ABA, British Council y Coursera. Más el blog Focus English (gratis) para guías y exámenes. Precios aproximados, niveles y tipos de certificado.'
 description: 'Guía de los mejores cursos de inglés online de pago en 2026, más recursos editoriales gratuitos del blog Focus English. Comparativa de plataformas, precios, metodología y a quién le conviene cada uno.'
 category: metodos

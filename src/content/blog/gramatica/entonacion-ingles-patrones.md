@@ -2,7 +2,7 @@
 title: 'Entonación en Inglés: Los Patrones'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Entonación en inglés: los patrones que te hacen sonar natural. Aprende a distinguir afirmaciones, preguntas, listas y énfasis para comunicarte con más fluidez y confianza.
 excerpt: >-

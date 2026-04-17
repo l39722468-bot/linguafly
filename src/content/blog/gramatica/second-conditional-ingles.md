@@ -16,7 +16,7 @@ keywords:
   - would ingles ejercicios
   - second conditional ejemplos
   - condicionales ingles b1 b2
-author: david-torres
+author: focus-english-team
 date: '2026-02-10'
 updatedDate: '2026-03-10'
 alt: Persona imaginando posibilidades y usando el second conditional en inglés

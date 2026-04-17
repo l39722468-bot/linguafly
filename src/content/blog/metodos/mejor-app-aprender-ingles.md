@@ -20,7 +20,7 @@ keywords:
 date: '2026-02-03'
 updatedDate: '2026-03-21'
 category: metodos
-author: sara-mendez
+author: focus-english-team
 alt: 'Persona usando una app de inglés en su móvil para aprender vocabulario'
 canonical: 'https://www.focus-on-english.com/blog/metodos/mejor-app-aprender-ingles'
 faqs:

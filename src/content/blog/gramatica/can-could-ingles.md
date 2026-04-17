@@ -2,7 +2,7 @@
 title: 'Can y Could en Inglés: Todos los Usos'
 date: '2026-02-04'
 updatedDate: '2026-02-04'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía completa sobre can y could en inglés: habilidad, posibilidad, permiso y peticiones. Con ejemplos reales, errores frecuentes y cómo elegir entre los dos.
 category: gramatica

@@ -2,7 +2,7 @@
 title: 'Preguntas de Entrevista de Trabajo'
 date: '2026-02-12'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 excerpt: >-
   Prepara tu entrevista de trabajo en inglés con las 30 preguntas más comunes
   que hacen los reclutadores internacionales y aprende cómo responderlas de

@@ -2,7 +2,7 @@
 category: examenes
 date: '2026-03-02'
 updatedDate: '2026-03-21'
-author: david-torres
+author: focus-english-team
 title: 'Reported Speech Cambridge Exams'
 description: >-
   Aprende a resolver ejercicios de Reported Speech en los exámenes de Cambridge

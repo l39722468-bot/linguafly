@@ -16,7 +16,7 @@ keywords:
   - project update email english
   - informe avance proyecto ingles
   - email seguimiento proyecto ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-27'
 updatedDate: '2026-03-10'
 alt: Persona escribiendo progress update de proyecto en inglés en reunión de equipo

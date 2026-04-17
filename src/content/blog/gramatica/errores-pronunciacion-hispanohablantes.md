@@ -2,7 +2,7 @@
 title: 'Los 10 Errores de Pronunciación'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Los 10 errores de pronunciación en inglés más comunes para hispanohablantes: por qué los cometemos y cómo corregirlos. Ejercicios prácticos para sonar más natural en inglés.
 excerpt: >-

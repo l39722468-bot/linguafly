@@ -11,7 +11,7 @@ keywords:
   - multiple choice listening cae
   - acentos ingles listening cae
   - preparar listening cambridge c1
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-09'
 updatedDate: '2026-03-09'
 category: examenes

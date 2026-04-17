@@ -2,7 +2,7 @@
 title: 'Inglés para Camareros y Hostelería'
 date: '2026-03-10'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 excerpt: >-
   Todo el inglés que necesitas para trabajar en hostelería en países angloparlantes: atender mesas, tomar pedidos, gestionar quejas, hablar de la carta y trabajar en cocina. Ideal para conseguir trabajo en UK, Irlanda o Australia.
 category: trabajo

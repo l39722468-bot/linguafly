@@ -2,7 +2,7 @@
 category: trabajo
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: david-torres
+author: focus-english-team
 title: 'Reembolsos, garantías y SLA'
 description: >-
   Términos y frases en inglés para soporte: refunds, chargebacks, warranty,

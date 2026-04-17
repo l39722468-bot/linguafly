@@ -2,7 +2,7 @@
 category: viajes
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: david-torres
+author: focus-english-team
 title: 'Errores típicos del español al hablar'
 description: >-
   Correcciones prácticas para hispanohablantes: falsos amigos, calcos, registro

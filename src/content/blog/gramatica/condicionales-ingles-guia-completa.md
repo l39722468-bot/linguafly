@@ -11,7 +11,7 @@ keywords:
   - second conditional
   - third conditional
   - gramatica inglesa
-author: david-torres
+author: focus-english-team
 description: >-
   Condicionales en inglés: guía completa de los cuatro tipos (Zero, First, Second y Third Conditional) con ejemplos, diferencias y ejercicios. Esencial para B1-C1.
 date: '2026-03-02'

@@ -2,7 +2,7 @@
 title: 'Apps para Aprender Inglés'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Las mejores apps para aprender inglés sin internet en 2026: cuáles funcionan offline de verdad, cuáles engañan y cómo configurarlas para estudiar en el metro, avión o sin cobertura.
 excerpt: >-

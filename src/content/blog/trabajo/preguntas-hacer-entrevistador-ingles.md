@@ -17,7 +17,7 @@ keywords:
   - preguntas inteligentes entrevista ingles
   - do you have any questions ingles entrevista
   - preguntas finales entrevista ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-17'
 updatedDate: '2026-03-12'
 alt: Candidata haciendo preguntas al entrevistador en entrevista de trabajo en inglés

@@ -2,7 +2,7 @@
 title: 'Present Perfect en Inglés: Los 4 Usos'
 date: '2026-02-04'
 updatedDate: '2026-03-20'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Los 4 usos del Present Perfect en inglés que necesitas dominar: resultados, experiencias, noticias recientes y continuidad. Guía con ejemplos claros para hispanohablantes.
 category: gramatica

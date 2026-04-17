@@ -16,7 +16,7 @@ keywords:
   - have hair cut ingles
   - pasiva causativa ingles
   - causative have get ingles
-author: david-torres
+author: focus-english-team
 date: '2026-02-14'
 updatedDate: '2026-03-20'
 alt: Persona en peluqueria, ejemplo de have something done en ingles

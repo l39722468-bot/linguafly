@@ -17,7 +17,7 @@ keywords:
   - simbolos IPA ingles
   - 44 fonemas ingles
   - cuadro fonetico ingles
-author: david-torres
+author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-03-10'
 category: gramatica

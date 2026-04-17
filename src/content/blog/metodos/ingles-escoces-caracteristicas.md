@@ -17,7 +17,7 @@ keywords:
   - glasgow accent inglés
   - edinburgh english
   - inglés escocia variantes
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-18'
 updatedDate: '2026-02-18'
 category: metodos

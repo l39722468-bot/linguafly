@@ -20,7 +20,7 @@ keywords:
 date: '2026-02-05'
 updatedDate: '2026-03-10'
 category: trabajo
-author: sara-mendez
+author: focus-english-team
 faqs:
   - question: ¿Qué examen es más reconocido por las empresas?
     answer: >-

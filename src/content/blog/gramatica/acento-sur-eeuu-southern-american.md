@@ -2,7 +2,7 @@
 title: 'El Inglés del Sur de Estados Unidos'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   El inglés del sur de Estados Unidos: características del Southern American English, vocales largas, expresiones propias y cómo entender este acento en series y películas.
 excerpt: >-

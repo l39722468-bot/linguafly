@@ -18,7 +18,7 @@ keywords:
   - cómo pronunciar r inglés
   - fonética inglés r
   - r inglés americano vs británico
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-22'
 updatedDate: '2026-02-22'
 category: gramatica

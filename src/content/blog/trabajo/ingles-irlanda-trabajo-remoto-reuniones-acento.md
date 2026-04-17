@@ -14,7 +14,7 @@ keywords:
   - pedir aclaraciones ingles profesional
   - Hiberno-English trabajo remoto
   - comunicacion intercultural Irlanda oficina
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-29'
 updatedDate: '2026-03-29'
 alt: Reunión de trabajo moderna con personas y portátiles

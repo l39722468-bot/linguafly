@@ -2,7 +2,7 @@
 title: 'Aptis Advanced C1'
 date: '2026-03-03'
 updatedDate: '2026-03-10'
-author: david-torres
+author: focus-english-team
 description: >-
   Todo lo que necesitas saber sobre el Aptis Advanced del British Council para
   obtener tu certificado C1. Diferencias con el General, estructura, estrategias

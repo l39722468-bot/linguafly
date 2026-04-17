@@ -2,7 +2,7 @@
 category: metodos
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: david-torres
+author: focus-english-team
 title: 'Australian English: vocales, fonética'
 description: >-
   Guía para hispanohablantes: sistema vocalico del inglés australiano, diferencias

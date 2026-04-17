@@ -2,7 +2,7 @@
 category: metodos
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: sara-mendez
+author: focus-english-team
 title: 'Listening de inglés australiano'
 description: >-
   Cómo diseñar una rutina de comprensión auditiva con acento australiano:

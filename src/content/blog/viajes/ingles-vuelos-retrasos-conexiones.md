@@ -17,7 +17,7 @@ keywords:
   - ingles problemas aeropuerto
   - frases ingles vuelos
   - ingles turistas
-author: sara-mendez
+author: focus-english-team
 date: '2026-04-18'
 updatedDate: '2026-04-18'
 alt: Viajero en mostrador del aeropuerto gestionando un vuelo retrasado

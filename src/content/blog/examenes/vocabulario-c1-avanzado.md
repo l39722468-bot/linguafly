@@ -11,7 +11,7 @@ keywords:
   - expresiones idiomaticas c1
   - less common lexis cae
   - vocabulario para aprobar cae
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-13'
 updatedDate: '2026-03-13'
 category: examenes

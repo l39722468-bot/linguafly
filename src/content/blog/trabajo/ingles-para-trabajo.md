@@ -2,7 +2,7 @@
 category: trabajo
 date: '2026-02-07'
 updatedDate: '2026-03-07'
-author: sara-mendez
+author: focus-english-team
 title: 'Inglés para el Trabajo: Cómo Destacar'
 description: >-
   Domina el inglés de negocios y proyecta una imagen profesional sólida. 

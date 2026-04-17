@@ -2,7 +2,7 @@
 title: 'Open English 2026: LATAM y exámenes'
 date: '2026-04-15'
 updatedDate: '2026-04-15'
-author: sara-mendez
+author: focus-english-team
 excerpt: 'Open English: clases en vivo y foco hispanohablante. Precios orientativos, límites para IELTS/Cambridge y qué combinar si necesitas certificación oficial.'
 description: 'Review Open English como curso de inglés online: metodología, fortalezas regionales, preparación para exámenes oficiales y enlaces al hub comparativo.'
 category: metodos

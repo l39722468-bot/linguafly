@@ -2,7 +2,7 @@
 title: 'Clases de Inglés 2026: Academia, Particular'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía para elegir las mejores clases de inglés: academias, profesores particulares, clases online e IA. Compara opciones, costes y métodos para encontrar la que realmente funciona para ti.
 excerpt: >-

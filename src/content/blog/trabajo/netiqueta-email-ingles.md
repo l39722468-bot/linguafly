@@ -16,7 +16,7 @@ keywords:
   - email profesional ingles normas
   - como no sonar rudo email ingles
   - email etiquette ingles
-author: david-torres
+author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 alt: Persona revisando normas de etiqueta de email profesional en inglés en su escritorio

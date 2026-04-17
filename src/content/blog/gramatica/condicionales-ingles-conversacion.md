@@ -16,7 +16,7 @@ keywords:
   - condicionales speaking ingles
   - usar condicionales ingles b1 b2
   - ingles oral condicionales
-author: david-torres
+author: focus-english-team
 date: '2026-02-22'
 updatedDate: '2026-03-10'
 alt: Dos personas conversando en inglés usando condicionales de forma natural

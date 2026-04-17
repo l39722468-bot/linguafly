@@ -16,7 +16,7 @@ keywords:
   - job application email ingles
   - correo solicitud trabajo ingles
   - email candidatura ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-21'
 updatedDate: '2026-03-10'
 alt: Persona enviando email de solicitud de empleo en inglés con su CV adjunto

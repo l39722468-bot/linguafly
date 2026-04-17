@@ -2,7 +2,7 @@
 title: 'Lingopie Review 2026: Aprende Inglés'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Lingopie review 2026: aprende inglés con series y películas reales usando subtítulos interactivos. Analizamos contenido, precios y las mejores alternativas gratuitas como Language Reactor.
 excerpt: >-

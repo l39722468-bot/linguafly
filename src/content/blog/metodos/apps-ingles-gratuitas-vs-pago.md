@@ -18,7 +18,7 @@ keywords:
 date: '2026-03-02'
 updatedDate: '2026-03-21'
 category: metodos
-author: sara-mendez
+author: focus-english-team
 canonical: 'https://www.focus-on-english.com/blog/metodos/apps-ingles-gratuitas-vs-pago'
 faqs:
   - question: '¿Qué conviene más: apps gratis o de pago?'

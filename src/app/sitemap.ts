@@ -78,6 +78,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: "yearly",
       priority: 0.6,
     },
+    {
+      url: `${baseUrl}/sobre-nosotros`,
+      lastModified: mostRecentArticleDate,
+      changeFrequency: "monthly",
+      priority: 0.75,
+    },
   ];
 
   const categories = Array.from(new Set(articles.map(a => normalizeCategory(a.category))));
@@ -137,13 +143,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         };
       })
   );
-
-  urls.push({
-    url: `${baseUrl}/blog/autores`,
-    lastModified: mostRecentArticleDate,
-    changeFrequency: "monthly" as const,
-    priority: 0.7,
-  });
 
   urls.push(
     ...Object.keys(authors).map((slug) => {

@@ -2,7 +2,7 @@
 title: 'Cambridge B2 First (FCE) 2026: Cómo Aprobar'
 date: '2026-03-02'
 updatedDate: '2026-03-21'
-author: david-torres
+author: focus-english-team
 description: >-
   Guía de preparación para el FCE 2026: trucos específicos para el Reading
   & Use of English, Writing con plantillas, Listening sin perder el hilo y

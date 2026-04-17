@@ -2,7 +2,7 @@
 title: 'Inglés para Recepcionistas 2026'
 date: '2026-02-06'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Inglés profesional para recepcionistas de hotel: reservas, check-in, reclamaciones y peticiones de huéspedes en inglés. Todo lo que necesitas para dar una atención de 5 estrellas.
 excerpt: >-

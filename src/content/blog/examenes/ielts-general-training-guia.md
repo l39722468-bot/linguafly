@@ -2,7 +2,7 @@
 title: 'IELTS General Training'
 date: '2026-02-26'
 updatedDate: '2026-02-26'
-author: david-torres
+author: focus-english-team
 description: >-
   Todo sobre el IELTS General Training: diferencias con el Academic, cómo funciona el Reading y el Writing GT, qué países y visas lo aceptan, y plan de preparación según tu objetivo.
 category: examenes

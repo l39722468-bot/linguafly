@@ -2,7 +2,7 @@
 title: 'Las Mejores Apps para Aprender Inglés'
 date: '2026-02-12'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Las mejores apps gratuitas para aprender inglés en 2026: Duolingo, Anki, BBC Learning English y más. Comparativa honesta por nivel y objetivo para que elijas la que realmente te funciona.
 excerpt: >-

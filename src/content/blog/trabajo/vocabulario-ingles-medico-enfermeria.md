@@ -2,7 +2,7 @@
 title: 'Vocabulario de Inglés Médico'
 date: '2026-03-01'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía de vocabulario de inglés médico para enfermeras y enfermeros. Términos
   clínicos esenciales, comunicación con pacientes internacionales y frases para

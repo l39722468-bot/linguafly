@@ -2,7 +2,7 @@
 title: 'Cómo Leer la Transcripción Fonética'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Cómo leer la transcripción fonética en inglés: guía práctica del IPA para entender símbolos como /ˈkʌmftəbl/. Aprende a usar el diccionario fonético con total seguridad.
 excerpt: >-

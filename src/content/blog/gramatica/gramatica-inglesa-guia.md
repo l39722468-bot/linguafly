@@ -2,7 +2,7 @@
 category: gramatica
 date: '2026-03-10'
 updatedDate: '2026-03-10'
-author: david-torres
+author: focus-english-team
 title: 'Gramática Inglesa'
 description: >-
   Guía maestra de gramática inglesa: tiempos verbales, phrasal verbs, condicionales,

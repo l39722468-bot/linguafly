@@ -16,7 +16,7 @@ keywords:
   - ejercicios pasiva ingles b2
   - voz pasiva ingles actividades
   - passive voice practice ejercicios
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-10'
 updatedDate: '2026-03-10'
 alt: Estudiante completando ejercicios de gramática inglesa en papel con bolígrafo

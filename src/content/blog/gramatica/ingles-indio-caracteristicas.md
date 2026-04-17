@@ -2,7 +2,7 @@
 title: 'Inglés Indio: Por Qué Suena Diferente'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   El inglés indio: por qué suena diferente y cómo entenderlo en entornos de trabajo, tecnología y negocios. Características fonéticas y vocabulario propio del Indian English.
 excerpt: >-

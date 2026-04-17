@@ -2,7 +2,7 @@
 title: 'Lingoda 2026: grupos en vivo y exámenes'
 date: '2026-04-15'
 updatedDate: '2026-04-15'
-author: sara-mendez
+author: focus-english-team
 excerpt: 'Lingoda: grupos pequeños en vivo, maratones e intensivos. Speaking real frente a apps; qué añadir para IELTS/Cambridge y comparación con Preply 1:1.'
 description: 'Review Lingoda en la serie mejores cursos de inglés online: metodología por niveles, speaking en grupo, maratones y comparativa con tutorías individuales para exámenes.'
 category: metodos

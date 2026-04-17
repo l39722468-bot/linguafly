@@ -2,7 +2,7 @@
 title: 'IELTS Reading: Trucos'
 date: '2026-02-14'
 updatedDate: '2026-02-14'
-author: david-torres
+author: focus-english-team
 description: >-
   Estrategias probadas para el IELTS Reading: cómo distinguir False de Not Given, técnicas de skimming y scanning, tipos de pregunta y cómo distribuir los 60 minutos sin quedarte sin tiempo.
 category: examenes

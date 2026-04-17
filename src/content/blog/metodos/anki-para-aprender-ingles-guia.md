@@ -2,7 +2,7 @@
 title: 'Anki para Aprender Inglés'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía completa de Anki para aprender inglés en 2026: instalación, configuración, creación de tarjetas, mejores mazos gratuitos y cómo aprovechar la repetición espaciada para memorizar vocabulario definitivamente.
 excerpt: >-

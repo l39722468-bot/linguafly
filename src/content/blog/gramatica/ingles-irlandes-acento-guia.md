@@ -2,7 +2,7 @@
 title: 'El Acento Irlandés: Guía para Entender'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   El acento irlandés explicado para hispanohablantes: rasgos fonéticos clave, frases características y cómo entenderlo mejor. Guía práctica con ejemplos de pronunciación del inglés de Irlanda.
 excerpt: >-

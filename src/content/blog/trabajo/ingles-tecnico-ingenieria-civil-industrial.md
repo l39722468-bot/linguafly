@@ -2,7 +2,7 @@
 title: 'Inglés Técnico para Ingeniería Civil'
 date: '2026-03-04'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Guía de inglés técnico para ingenieros civiles e industriales. Vocabulario de
   construcción, gestión de proyectos, safety regulations y comunicación con

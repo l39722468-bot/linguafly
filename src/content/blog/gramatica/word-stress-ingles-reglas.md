@@ -18,7 +18,7 @@ keywords:
   - acento léxico inglés
   - pronunciacion inglés sílabas
   - sufijos acento inglés
-author: david-torres
+author: focus-english-team
 date: '2026-02-17'
 updatedDate: '2026-02-17'
 category: gramatica

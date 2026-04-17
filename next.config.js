@@ -48,6 +48,13 @@ const nextConfig = {
       { source: '/curso-:slug/:path*', destination: '/blog', permanent: true },
       { source: '/planes', destination: '/blog', permanent: true },
 
+      // E-E-A-T: autores ficticios retirados, todo el contenido firmado por el equipo editorial.
+      // /blog/autor/david-torres y /blog/autor/sara-mendez → /sobre-nosotros (con contexto real).
+      // /blog/autores → /sobre-nosotros (solo queda un autor, la página índice pierde sentido).
+      { source: '/blog/autor/david-torres', destination: '/sobre-nosotros', permanent: true },
+      { source: '/blog/autor/sara-mendez', destination: '/sobre-nosotros', permanent: true },
+      { source: '/blog/autores', destination: '/sobre-nosotros', permanent: true },
+
       // Fix: categorías con mayúsculas/acentos indexadas por Google - redirigir a URL canónica en minúsculas
       // 348 impresiones perdidas en top 10 con CTR 0% por URLs encoded (%C3%A1) visibles en SERPs
       // Versión Unicode (á literal) - el percent-encoded ya está cubierto más abajo en este archivo

@@ -18,7 +18,7 @@ keywords:
   - fonética sílabas inglés
   - pronunciar silabas inglés
   - reglas silabas inglés
-author: david-torres
+author: focus-english-team
 date: '2026-03-01'
 updatedDate: '2026-03-01'
 category: gramatica

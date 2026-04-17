@@ -2,7 +2,7 @@
 category: viajes
 date: '2026-04-03'
 updatedDate: '2026-04-03'
-author: sara-mendez
+author: focus-english-team
 title: 'Inglés para mochileros'
 description: >-
   Cómo preparar tu inglés para Workaway, Worldpackers y proyectos locales:

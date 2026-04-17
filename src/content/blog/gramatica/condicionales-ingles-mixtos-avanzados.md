@@ -15,7 +15,7 @@ keywords:
   - mixed conditionals english
   - condicionales avanzados ingles
   - condicionales tipo a tipo b
-author: david-torres
+author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-10'
 category: gramatica

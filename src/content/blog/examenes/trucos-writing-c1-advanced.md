@@ -18,7 +18,7 @@ keywords:
 date: '2026-02-05'
 updatedDate: '2026-03-10'
 category: examenes
-author: david-torres
+author: focus-english-team
 faqs:
   - question: ¿Qué tipos de textos pueden caer en el C1 Writing?
     answer: >-

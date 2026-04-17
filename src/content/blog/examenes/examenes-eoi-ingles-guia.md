@@ -2,7 +2,7 @@
 title: 'Examen de Inglés de la EOI 2026: Niveles'
 date: '2026-03-21'
 updatedDate: '2026-03-21'
-author: david-torres
+author: focus-english-team
 category: examenes
 readTime: 10 min
 description: >-

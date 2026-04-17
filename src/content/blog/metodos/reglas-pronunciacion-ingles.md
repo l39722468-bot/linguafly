@@ -17,7 +17,7 @@ keywords:
   - terminacion ed ingles pronunciacion
   - ejercicios pronunciacion ingles
   - palabras dificiles pronunciar ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-06'
 updatedDate: '2026-03-10'
 category: metodos

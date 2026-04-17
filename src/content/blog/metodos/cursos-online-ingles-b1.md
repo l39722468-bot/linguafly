@@ -2,7 +2,7 @@
 category: metodos
 date: '2026-02-07'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 title: 'Cursos Online de Inglés B1: Consigue'
 description: >-
   Prepara tu examen B1 de inglés con nuestro curso online. Temario completo de

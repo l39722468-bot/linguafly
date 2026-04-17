@@ -2,7 +2,7 @@
 category: metodos
 date: '2026-03-02'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 title: 'Curso de Inglés A2 Online: Domina'
 description: >-
   Sube de nivel con nuestro curso de inglés A2. Mejora tu gramática, amplía tu

@@ -11,7 +11,7 @@ keywords:
   - combinaciones palabras ingles avanzado
   - collocations verbo sustantivo c1
   - aprender collocations ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-21'
 updatedDate: '2026-03-21'
 category: examenes

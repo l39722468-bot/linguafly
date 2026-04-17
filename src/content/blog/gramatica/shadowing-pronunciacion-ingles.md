@@ -2,7 +2,7 @@
 title: 'Shadowing para Mejorar'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Shadowing para mejorar la pronunciación en inglés: la técnica que usan los políglotas para sonar natural. Cómo practicarlo paso a paso y qué audios usar según tu nivel.
 excerpt: >-

@@ -2,7 +2,7 @@
 title: 'Curso de Inglés para Viajar'
 date: '2026-01-30'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Aprende el inglés esencial para viajar: frases para aeropuertos, hoteles, transporte y situaciones cotidianas. El curso práctico que necesitas antes de tu próximo viaje al extranjero.
 excerpt: >-

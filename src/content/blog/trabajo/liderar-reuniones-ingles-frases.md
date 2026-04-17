@@ -17,7 +17,7 @@ keywords:
   - dirigir reunion en ingles
   - cerrar reunion ingles
   - reuniones virtuales ingles
-author: david-torres
+author: focus-english-team
 date: '2026-04-19'
 updatedDate: '2026-04-19'
 alt: Project manager dirigiendo una videollamada de trabajo en inglés con varios participantes

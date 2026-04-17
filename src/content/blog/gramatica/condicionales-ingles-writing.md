@@ -15,7 +15,7 @@ keywords:
   - writing ingles b2 c1
   - gramatica writing cambridge
   - condicionales propuestas ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-03'
 updatedDate: '2026-03-10'
 alt: Persona escribiendo un ensayo en inglés usando condicionales correctamente

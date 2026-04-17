@@ -18,7 +18,7 @@ keywords:
   - fonética inglés schwa
   - sonidos reducidos inglés
   - comprensión auditiva inglés
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-16'
 updatedDate: '2026-02-16'
 category: gramatica

@@ -18,7 +18,7 @@ keywords:
   - diferencias inglés canadiense americano
   - quebec english acento
   - inglés canadá vocabulario
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-24'
 updatedDate: '2026-02-24'
 category: metodos

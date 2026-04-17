@@ -2,7 +2,7 @@
 title: 'Inglés para Customer Service'
 date: '2026-03-05'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Aprende inglés para atención al cliente en todos los canales: teléfono, chat
   en vivo y email. Frases para cada situación, gestión de reclamaciones y

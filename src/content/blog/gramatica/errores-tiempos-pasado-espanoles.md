@@ -2,7 +2,7 @@
 title: 'Los Errores con los Tiempos de Pasado'
 date: '2026-03-03'
 updatedDate: '2026-03-03'
-author: david-torres
+author: focus-english-team
 description: >-
   Los errores más frecuentes con el past simple, present perfect y past continuous que cometen los hablantes de español, con explicaciones claras y cómo corregirlos.
 category: gramatica

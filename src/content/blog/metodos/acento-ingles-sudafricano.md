@@ -18,7 +18,7 @@ keywords:
   - cape town accent inglés
   - johannesburg english acento
   - inglés sudáfrica características
-author: david-torres
+author: focus-english-team
 date: '2026-02-21'
 updatedDate: '2026-02-21'
 category: metodos

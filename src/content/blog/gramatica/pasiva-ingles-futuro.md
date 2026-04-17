@@ -15,7 +15,7 @@ keywords:
   - going to be pasiva ingles
   - futuro pasiva ingles ejemplos
   - future passive voice ejercicios
-author: david-torres
+author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-03-10'
 alt: Calendario con anotaciones en inglés, ilustrando la pasiva en futuro

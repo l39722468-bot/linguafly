@@ -15,7 +15,7 @@ keywords:
   - frases formales ingles email
   - vocabulario email profesional ingles
   - how to write professional email english phrases
-author: david-torres
+author: focus-english-team
 date: '2026-02-06'
 updatedDate: '2026-03-10'
 alt: Lista de frases profesionales en inglés para emails en pantalla de ordenador

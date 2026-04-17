@@ -2,7 +2,7 @@
 title: 'Las Mejores Herramientas Online'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   Las mejores herramientas online para mejorar tu pronunciación en inglés en 2026: apps con IA, diccionarios fonéticos y plataformas de conversación para sonar más natural.
 excerpt: >-

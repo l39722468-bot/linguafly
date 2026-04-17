@@ -17,7 +17,7 @@ keywords:
   - acentos inglés global
   - inteligibilidad inglés
   - inglés para negocios internacionales
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-02'
 category: metodos

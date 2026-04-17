@@ -14,7 +14,7 @@ keywords:
   - diferencias acento Belfast Dublin
   - Hiberno-English vs Northern Ireland English
   - ingles Irlanda comparativa fonetica
-author: david-torres
+author: focus-english-team
 date: '2026-03-29'
 updatedDate: '2026-03-29'
 alt: Costa y cielo nublado evocando islas británicas

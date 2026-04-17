@@ -2,7 +2,7 @@
 title: 'Inglés para Ligar y Citas: Frases'
 date: '2026-03-08'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Inglés para ligar, citas y conocer gente: frases naturales para flirtear, hacer planes y hablar en apps de citas. Vocabulario auténtico que los nativos usan de verdad.
 excerpt: >-

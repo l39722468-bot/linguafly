@@ -15,7 +15,7 @@ keywords:
   - comprension auditiva Hiberno-English
   - series irlandesas ingles subtitulos
   - Irish English listening practice
-author: sara-mendez
+author: focus-english-team
 date: '2026-03-29'
 updatedDate: '2026-03-29'
 alt: Persona con auriculares escuchando contenido en inglés

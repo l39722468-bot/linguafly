@@ -17,7 +17,7 @@ keywords:
   - entrenar oido ingles
   - listening ingles sin subtitulos
   - ejercicios listening ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-04-16'
 updatedDate: '2026-04-16'
 alt: Persona con auriculares escuchando un podcast en inglés

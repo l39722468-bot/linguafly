@@ -15,7 +15,7 @@ keywords:
   - if present simple present simple
   - ejercicios zero conditional
   - condicionales ingles a2 b1
-author: david-torres
+author: focus-english-team
 date: '2026-02-04'
 updatedDate: '2026-03-10'
 alt: Estudiante anotando reglas del zero conditional en inglés en su cuaderno

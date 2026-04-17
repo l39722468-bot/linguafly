@@ -2,7 +2,7 @@
 category: trabajo
 date: '2026-02-07'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 title: 'Inglés para Atención al Cliente 2026: 50+'
 description: >-
   Domina el inglés para soporte y atención al cliente internacional. Aprende

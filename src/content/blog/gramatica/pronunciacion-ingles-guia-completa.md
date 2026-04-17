@@ -18,7 +18,7 @@ keywords:
   - pares minimos ingles
   - connected speech ingles
   - pronunciacion ingles hispanohablantes
-author: david-torres
+author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-21'
 alt: Persona practicando pronunciación en inglés frente a un espejo

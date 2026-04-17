@@ -18,7 +18,7 @@ keywords:
   - fonética terminaciones inglés
   - pronunciación verbos regulares inglés
   - reglas pronunciación inglés
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-28'
 updatedDate: '2026-02-28'
 category: gramatica

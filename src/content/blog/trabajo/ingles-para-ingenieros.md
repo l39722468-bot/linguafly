@@ -2,7 +2,7 @@
 category: trabajo
 date: '2026-02-07'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 title: 'Curso de Inglés para Ingenieros'
 description: >-
   Domina el inglés técnico para ingeniería y destaca en proyectos

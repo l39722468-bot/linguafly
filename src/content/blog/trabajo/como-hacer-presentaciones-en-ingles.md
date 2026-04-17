@@ -2,7 +2,7 @@
 title: 'Cómo Hacer Presentaciones en Inglés'
 date: '2026-02-28'
 updatedDate: '2026-03-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Aprende a estructurar y ejecutar presentaciones en inglés con confianza.
   Conectores, frases de transición, cómo abrir y cerrar con impacto, y vocabulario

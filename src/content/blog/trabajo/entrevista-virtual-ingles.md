@@ -16,7 +16,7 @@ keywords:
   - online interview ingles preparacion
   - entrevista zoom ingles profesional
   - entrevista trabajo videollamada ingles
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-11'
 updatedDate: '2026-03-12'
 alt: Persona en entrevista de trabajo virtual en inglés por videollamada con portátil

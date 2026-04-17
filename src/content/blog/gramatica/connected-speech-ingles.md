@@ -18,7 +18,7 @@ keywords:
   - pronunciación inglés natural
   - inglés coloquial sonidos
   - entender inglés hablado
-author: sara-mendez
+author: focus-english-team
 date: '2026-02-04'
 updatedDate: '2026-02-04'
 category: gramatica

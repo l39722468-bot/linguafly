@@ -2,7 +2,7 @@
 category: examenes
 date: '2026-02-07'
 updatedDate: '2026-03-21'
-author: david-torres
+author: focus-english-team
 alt: "Estudiante de nivel avanzado preparando su examen C1 Advanced"
 title: 'Guía C1 Advanced (CAE): Estrategias'
 description: >-

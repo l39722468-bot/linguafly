@@ -2,7 +2,7 @@
 title: 'El Día del Examen IELTS: Qué Esperar'
 date: '2026-03-04'
 updatedDate: '2026-03-04'
-author: david-torres
+author: focus-english-team
 description: >-
   Guía práctica para el día del examen IELTS: documentación necesaria, qué pasa en cada parte, errores de logística que cuestan puntos y cómo gestionar los nervios el día D.
 category: examenes

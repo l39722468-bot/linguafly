@@ -2,7 +2,7 @@
 title: 'IELTS por Ordenador vs en Papel'
 date: '2026-03-01'
 updatedDate: '2026-03-01'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Comparativa completa entre el IELTS Computer-Delivered y el IELTS en papel: diferencias en cada sección, ventajas e inconvenientes de cada formato, y cuál conviene según tu perfil.
 category: examenes

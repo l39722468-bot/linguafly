@@ -2,7 +2,7 @@
 category: metodos
 date: '2026-02-07'
 updatedDate: '2026-03-21'
-author: sara-mendez
+author: focus-english-team
 title: 'Nivel C1 de Inglés: Qué Significa'
 description: >-
   El C1 es el nivel que piden multinacionales, universidades y la función

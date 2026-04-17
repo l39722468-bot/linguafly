@@ -2,7 +2,7 @@
 title: 'May y Might en Inglés: Cómo Expresar'
 date: '2026-02-10'
 updatedDate: '2026-02-10'
-author: sara-mendez
+author: focus-english-team
 description: >-
   Aprende a usar may y might en inglés para hablar de posibilidad, probabilidad e incertidumbre. Con ejemplos reales, comparativas y los errores más comunes.
 category: gramatica

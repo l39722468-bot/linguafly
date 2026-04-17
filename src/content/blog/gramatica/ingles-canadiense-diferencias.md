@@ -2,7 +2,7 @@
 title: 'Inglés Canadiense: Las Diferencias'
 date: '2026-03-11'
 updatedDate: '2026-03-11'
-author: david-torres
+author: focus-english-team
 description: >-
   El inglés canadiense: las diferencias con el americano que nadie te cuenta (pronunciación, vocabulario, ortografía). Guía práctica para reconocer y entender el Canadian English.
 excerpt: >-

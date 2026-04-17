@@ -2,7 +2,7 @@
 category: trabajo
 date: '2026-03-02'
 updatedDate: '2026-03-21'
-author: sara-mendez
+author: focus-english-team
 title: 'Vocabulario Inglés B1: Trabajo'
 description: >-
   Lista de vocabulario esencial para el nivel B1 de inglés. Aprende las palabras
