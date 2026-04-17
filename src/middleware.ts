@@ -42,10 +42,41 @@ function isPublicSEORoute(pathname: string) {
   );
 }
 
+const CAPTCHA_COOKIE = "captcha_verified";
+const CAPTCHA_PATH = "/captcha";
+
+function requiresCaptcha(request: NextRequest): boolean {
+  const pathname = request.nextUrl.pathname;
+
+  if (
+    pathname === CAPTCHA_PATH ||
+    pathname.startsWith("/api/captcha") ||
+    pathname.startsWith("/_next/") ||
+    pathname.includes(".") ||
+    pathname.startsWith("/api/webhooks") ||
+    pathname === "/robots.txt" ||
+    pathname === "/sitemap.xml" ||
+    pathname === "/icon.svg" ||
+    pathname === "/indexnow-key.txt"
+  ) {
+    return false;
+  }
+
+  const verified = request.cookies.get(CAPTCHA_COOKIE)?.value;
+  return verified !== "1";
+}
+
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const isStaticAsset = pathname.includes('.') || pathname.startsWith('/_next/');
   const isApiOrWebhook = pathname.startsWith('/api/');
+
+  if (requiresCaptcha(request)) {
+    const captchaUrl = request.nextUrl.clone();
+    captchaUrl.pathname = CAPTCHA_PATH;
+    captchaUrl.searchParams.set("next", pathname + (request.nextUrl.search || ""));
+    return NextResponse.redirect(captchaUrl, 302);
+  }
   const isProductRoute =
     pathname.startsWith('/curso-') ||
     pathname.startsWith('/curso/') ||
