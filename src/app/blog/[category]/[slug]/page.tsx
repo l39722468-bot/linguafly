@@ -8,6 +8,7 @@ import { BlogEnhancements } from "@/components/blog/BlogEnhancements";
 import { TableOfContents } from "@/components/blog/TableOfContents";
 import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
 import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
+import { CopyProtection } from "@/components/blog/CopyProtection";
 import { getBlogArticles, getArticleBySlug, getRelatedArticles, getRelatedByKeywords, getArticlesByCategory, normalizeCategory, slugify } from "@/lib/blog";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
@@ -344,6 +345,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                   </div>
 
                   {/* Article Body */}
+                  <CopyProtection>
                   <div className="p-8 lg:p-12 prose prose-slate prose-xl max-w-none article-content">
                     <ReactMarkdown 
                       remarkPlugins={[remarkGfm]}
@@ -414,6 +416,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       </div>
                     )}
                   </div>
+                  </CopyProtection>
 
                   {/* Post Footer */}
                   <div className="p-8 lg:p-12 bg-slate-50/50 border-t border-slate-100">
