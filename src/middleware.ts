@@ -44,8 +44,11 @@ function isPublicSEORoute(pathname: string) {
 
 const CAPTCHA_COOKIE = "captcha_verified";
 const CAPTCHA_PATH = "/captcha";
+const TURNSTILE_ENABLED = !!process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY;
 
 function requiresCaptcha(request: NextRequest): boolean {
+  if (!TURNSTILE_ENABLED) return false;
+
   const pathname = request.nextUrl.pathname;
 
   if (
@@ -63,16 +66,14 @@ function requiresCaptcha(request: NextRequest): boolean {
 
   const ua = (request.headers.get("user-agent") || "").toLowerCase();
   if (
-    ua.includes("googlebot") ||
-    ua.includes("bingbot") ||
-    ua.includes("yandexbot") ||
-    ua.includes("duckduckbot") ||
-    ua.includes("slurp") ||
+    ua.includes("bot") ||
+    ua.includes("crawl") ||
+    ua.includes("spider") ||
     ua.includes("facebookexternalhit") ||
-    ua.includes("twitterbot") ||
-    ua.includes("linkedinbot") ||
-    ua.includes("telegrambot") ||
     ua.includes("whatsapp") ||
+    ua.includes("telegrambot") ||
+    ua.includes("linkedinbot") ||
+    ua.includes("slurp") ||
     ua.includes("applebot")
   ) {
     return false;

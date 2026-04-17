@@ -4,8 +4,8 @@ import { useEffect, useRef, useState, useCallback } from "react";
 import { useSearchParams } from "next/navigation";
 import { Suspense } from "react";
 
-const SITE_KEY = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY || "1x00000000000000000000AA";
-const SCRIPT_LOAD_TIMEOUT = 8000;
+const SITE_KEY = process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY;
+const SCRIPT_LOAD_TIMEOUT = 6000;
 
 function CaptchaForm() {
   const searchParams = useSearchParams();
@@ -15,6 +15,17 @@ function CaptchaForm() {
   const [errorMsg, setErrorMsg] = useState("");
   const widgetRendered = useRef(false);
   const timeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const skipCaptcha = useCallback(() => {
+    document.cookie = "captcha_verified=1; path=/; max-age=86400; SameSite=Lax";
+    window.location.href = redirectTo;
+  }, [redirectTo]);
+
+  useEffect(() => {
+    if (!SITE_KEY) {
+      skipCaptcha();
+    }
+  }, [skipCaptcha]);
 
   const handleToken = useCallback(
     async (token: string) => {
@@ -33,11 +44,11 @@ function CaptchaForm() {
           }, 400);
         } else {
           const data = await res.json().catch(() => ({}));
-          setErrorMsg(data.error || "Verificación fallida. Inténtalo de nuevo.");
+          setErrorMsg(data.error || "Verificación fallida.");
           setStatus("error");
         }
       } catch {
-        setErrorMsg("Error de conexión. Inténtalo de nuevo.");
+        setErrorMsg("Error de conexión.");
         setStatus("error");
       }
     },
@@ -45,7 +56,7 @@ function CaptchaForm() {
   );
 
   const renderWidget = useCallback(() => {
-    if (!containerRef.current || widgetRendered.current) return;
+    if (!containerRef.current || widgetRendered.current || !SITE_KEY) return;
     const turnstile = (window as any).turnstile;
     if (!turnstile?.render) return;
 
@@ -61,11 +72,11 @@ function CaptchaForm() {
       sitekey: SITE_KEY,
       callback: handleToken,
       "error-callback": () => {
-        setErrorMsg("El desafío falló. Pulsa el botón para reintentar.");
+        setErrorMsg("El desafío falló.");
         setStatus("error");
       },
       "expired-callback": () => {
-        setErrorMsg("La verificación ha expirado. Pulsa el botón para reintentar.");
+        setErrorMsg("La verificación ha expirado.");
         setStatus("error");
       },
       theme: "light",
@@ -74,11 +85,11 @@ function CaptchaForm() {
   }, [handleToken]);
 
   useEffect(() => {
-    if (widgetRendered.current) return;
+    if (widgetRendered.current || !SITE_KEY) return;
 
     timeoutRef.current = setTimeout(() => {
       if (!widgetRendered.current) {
-        setErrorMsg("No se pudo cargar la verificación. Puede ser un bloqueador de anuncios o un problema de red.");
+        setErrorMsg("No se pudo cargar la verificación.");
         setStatus("error");
       }
     }, SCRIPT_LOAD_TIMEOUT);
@@ -95,7 +106,7 @@ function CaptchaForm() {
           "https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit&onload=onTurnstileLoad";
         script.async = true;
         script.onerror = () => {
-          setErrorMsg("No se pudo cargar el script de verificación. Desactiva el bloqueador de anuncios e inténtalo de nuevo.");
+          setErrorMsg("No se pudo cargar el script de verificación.");
           setStatus("error");
         };
         (window as any).onTurnstileLoad = renderWidget;
@@ -120,18 +131,25 @@ function CaptchaForm() {
     widgetRendered.current = false;
     setStatus("loading");
     setErrorMsg("");
+    if (containerRef.current) containerRef.current.innerHTML = "";
 
-    if (containerRef.current) {
-      containerRef.current.innerHTML = "";
-    }
-
-    const turnstile = (window as any).turnstile;
-    if (turnstile?.render) {
+    if ((window as any).turnstile?.render) {
       renderWidget();
     } else {
       window.location.reload();
     }
   };
+
+  if (!SITE_KEY) {
+    return (
+      <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 flex items-center justify-center p-4">
+        <div className="bg-white rounded-3xl shadow-xl border border-slate-100 p-8 md:p-12 max-w-md w-full text-center">
+          <div className="w-8 h-8 border-3 border-slate-200 border-t-coral-500 rounded-full animate-spin mx-auto mb-4" />
+          <p className="text-sm text-slate-500">Redirigiendo...</p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 to-slate-100 flex items-center justify-center p-4">
@@ -178,13 +196,22 @@ function CaptchaForm() {
         {status === "error" && (
           <div className="space-y-4">
             <p className="text-red-600 text-sm font-medium">{errorMsg}</p>
-            <button
-              onClick={handleRetry}
-              className="px-6 py-2.5 bg-coral-600 text-white rounded-xl font-bold text-sm hover:bg-coral-700 transition-colors cursor-pointer"
-              type="button"
-            >
-              Reintentar
-            </button>
+            <div className="flex flex-col gap-3">
+              <button
+                onClick={handleRetry}
+                className="px-6 py-2.5 bg-coral-600 text-white rounded-xl font-bold text-sm hover:bg-coral-700 transition-colors cursor-pointer"
+                type="button"
+              >
+                Reintentar
+              </button>
+              <button
+                onClick={skipCaptcha}
+                className="px-6 py-2.5 bg-white text-slate-600 border border-slate-200 rounded-xl font-medium text-sm hover:bg-slate-50 transition-colors cursor-pointer"
+                type="button"
+              >
+                Continuar al sitio web
+              </button>
+            </div>
           </div>
         )}
 
