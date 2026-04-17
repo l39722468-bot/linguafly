@@ -42,58 +42,10 @@ function isPublicSEORoute(pathname: string) {
   );
 }
 
-const CAPTCHA_COOKIE = "captcha_verified";
-const CAPTCHA_PATH = "/captcha";
-const TURNSTILE_ENABLED = !!process.env.NEXT_PUBLIC_TURNSTILE_SITE_KEY;
-
-function requiresCaptcha(request: NextRequest): boolean {
-  if (!TURNSTILE_ENABLED) return false;
-
-  const pathname = request.nextUrl.pathname;
-
-  if (
-    pathname === CAPTCHA_PATH ||
-    pathname.startsWith("/api/") ||
-    pathname.startsWith("/_next/") ||
-    pathname.includes(".") ||
-    pathname === "/robots.txt" ||
-    pathname === "/sitemap.xml" ||
-    pathname === "/icon.svg" ||
-    pathname === "/indexnow-key.txt"
-  ) {
-    return false;
-  }
-
-  const ua = (request.headers.get("user-agent") || "").toLowerCase();
-  if (
-    ua.includes("bot") ||
-    ua.includes("crawl") ||
-    ua.includes("spider") ||
-    ua.includes("facebookexternalhit") ||
-    ua.includes("whatsapp") ||
-    ua.includes("telegrambot") ||
-    ua.includes("linkedinbot") ||
-    ua.includes("slurp") ||
-    ua.includes("applebot")
-  ) {
-    return false;
-  }
-
-  const verified = request.cookies.get(CAPTCHA_COOKIE)?.value;
-  return verified !== "1";
-}
-
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const isStaticAsset = pathname.includes('.') || pathname.startsWith('/_next/');
   const isApiOrWebhook = pathname.startsWith('/api/');
-
-  if (requiresCaptcha(request)) {
-    const captchaUrl = request.nextUrl.clone();
-    captchaUrl.pathname = CAPTCHA_PATH;
-    captchaUrl.searchParams.set("next", pathname + (request.nextUrl.search || ""));
-    return NextResponse.redirect(captchaUrl, 302);
-  }
   const isProductRoute =
     pathname.startsWith('/curso-') ||
     pathname.startsWith('/curso/') ||
