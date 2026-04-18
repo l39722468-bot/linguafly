@@ -49,7 +49,10 @@
     "indexnow:all": "node scripts/indexnow-submit.mjs --all",
     "indexnow:dry": "node scripts/indexnow-submit.mjs --dry-run",
     "audit:ui-es-cloudflare": "node scripts/audit-spanish-ui-cloudflare.mjs",
-    "generate:vocabulario": "python3 scripts/generate-public-vocabulario.py"
+    "generate:vocabulario": "python3 scripts/generate-public-vocabulario.py",
+    "translate:articles": "ts-node scripts/translate-articles.ts",
+    "translate:articles:force": "ts-node scripts/translate-articles.ts --force",
+    "translate:articles:dry": "ts-node scripts/translate-articles.ts --dry-run"
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.11",
