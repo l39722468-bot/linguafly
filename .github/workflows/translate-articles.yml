@@ -45,6 +45,7 @@ jobs:
           npx ts-node scripts/translate-articles.ts $ARGS
 
       - name: Count translated files
+        if: always()
         id: count
         run: |
           COUNT=$(find src/content/blog-pt-br -name '*.md' -o -name '*.mdx' | wc -l)
@@ -52,7 +53,7 @@ jobs:
           echo "📄 Total translated articles: $COUNT"
 
       - name: Commit and push translations
-        if: steps.count.outputs.count != '0'
+        if: always() && steps.count.outputs.count != '0'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

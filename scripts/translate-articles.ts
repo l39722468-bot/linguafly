@@ -326,7 +326,9 @@ async function main(): Promise<void> {
     for (const r of results.filter((r) => r.status === "error")) {
       console.log(`  - ${r.file}: ${r.error}`);
     }
-    process.exit(1);
+    console.warn(
+      "\n⚠ Se encontraron errores de traducción. Se continuará sin fallo para permitir commit de resultados parciales."
+    );
   }
 }
 
