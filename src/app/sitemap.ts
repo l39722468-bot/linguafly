@@ -1,5 +1,6 @@
 import type { MetadataRoute } from "next";
 import { getBlogArticles, getAllKeywords, slugify, normalizeCategory, getArticleBySlug, getHubContent } from "@/lib/blog";
+import { getBlogArticlesPtBr } from "@/lib/blog-pt-br";
 import { authors } from "@/lib/authors";
 import { phraseService } from "@/lib/phrases";
 import { VOCAB_SECTORS } from "@/lib/vocabulario/sectors";
@@ -12,9 +13,13 @@ const FRASES_DATE = new Date("2025-01-01");
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articles = getBlogArticles();
+  const ptBrArticles = getBlogArticlesPtBr();
 
   const mostRecentArticleDate = articles.length > 0
     ? new Date(articles[0].date)
+    : SITE_LAUNCH_DATE;
+  const mostRecentPtBrArticleDate = ptBrArticles.length > 0
+    ? new Date(ptBrArticles[0].date)
     : SITE_LAUNCH_DATE;
 
   const urls: MetadataRoute.Sitemap = [
@@ -73,6 +78,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.98,
     },
     {
+      url: `${baseUrl}/pt-br`,
+      lastModified: mostRecentPtBrArticleDate,
+      changeFrequency: "weekly",
+      priority: 0.94,
+    },
+    {
+      url: `${baseUrl}/pt-br/blog`,
+      lastModified: mostRecentPtBrArticleDate,
+      changeFrequency: "weekly",
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/contacto`,
       lastModified: SITE_LAUNCH_DATE,
       changeFrequency: "yearly",
@@ -109,6 +126,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: new Date(article.updatedDate || article.date),
       changeFrequency: "monthly" as const,
       priority: 0.7,
+    }))
+  );
+
+  urls.push(
+    ...ptBrArticles.map((article) => ({
+      url: `${baseUrl}/pt-br/blog/${article.slug}`,
+      lastModified: new Date(article.updatedDate || article.date),
+      changeFrequency: "monthly" as const,
+      priority: 0.65,
     }))
   );
 

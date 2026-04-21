@@ -2,16 +2,39 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import { usePathname } from "next/navigation";
 
 export function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const pathname = usePathname();
+  const isPtBr = pathname?.startsWith("/pt-br") ?? false;
+  const pathParts = pathname?.split("/").filter(Boolean) ?? [];
+  const extractedBlogSlug = pathParts[0] === "blog" && pathParts.length >= 3
+    ? pathParts[pathParts.length - 1]
+    : null;
+
+  const languageLinks = isPtBr
+    ? {
+        es: pathname === "/pt-br/blog" || pathname?.startsWith("/pt-br/blog/")
+          ? "/blog"
+          : pathname?.replace(/^\/pt-br/, "") || "/",
+        pt: pathname || "/pt-br",
+      }
+    : {
+        es: pathname || "/",
+        pt: pathname === "/blog"
+          ? "/pt-br/blog"
+          : extractedBlogSlug
+            ? `/pt-br/blog/${extractedBlogSlug}`
+            : "/pt-br",
+      };
 
   return (
     <nav className="sticky top-0 z-[9998] bg-white/95 backdrop-blur-lg border-b-2 border-[#FFE8D9] shadow-sm transition-colors">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 group">
+          <Link href={isPtBr ? "/pt-br" : "/"} className="flex items-center gap-2 group">
             <div className="w-10 h-10 rounded-2xl bg-gradient-to-br from-[#FF6B6B] to-[#FF8E53] flex items-center justify-center text-white font-black text-xl shadow-coral transform group-hover:scale-110 transition-transform">
               F
             </div>
@@ -35,6 +58,20 @@ export function Navigation() {
             <Link href="/vocabulario" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Vocabulario
             </Link>
+            <div className="flex items-center rounded-full border border-slate-200 bg-white p-1">
+              <Link
+                href={languageLinks.es}
+                className={`px-3 py-1 text-xs font-bold rounded-full transition-colors ${!isPtBr ? "bg-coral-100 text-coral-700" : "text-slate-600 hover:text-coral-600"}`}
+              >
+                ES
+              </Link>
+              <Link
+                href={languageLinks.pt}
+                className={`px-3 py-1 text-xs font-bold rounded-full transition-colors ${isPtBr ? "bg-coral-100 text-coral-700" : "text-slate-600 hover:text-coral-600"}`}
+              >
+                PT
+              </Link>
+            </div>
           </div>
 
           {/* Mobile menu button */}
@@ -95,6 +132,25 @@ export function Navigation() {
               >
                 Vocabulario
               </Link>
+              <div className="pt-2 border-t border-slate-200">
+                <p className="text-xs font-bold text-slate-500 mb-2">Idioma</p>
+                <div className="flex gap-2">
+                  <Link
+                    href={languageLinks.es}
+                    className={`px-3 py-1 text-xs font-bold rounded-full transition-colors ${!isPtBr ? "bg-coral-100 text-coral-700" : "bg-slate-100 text-slate-700"}`}
+                    onClick={() => setMobileMenuOpen(false)}
+                  >
+                    Español
+                  </Link>
+                  <Link
+                    href={languageLinks.pt}
+                    className={`px-3 py-1 text-xs font-bold rounded-full transition-colors ${isPtBr ? "bg-coral-100 text-coral-700" : "bg-slate-100 text-slate-700"}`}
+                    onClick={() => setMobileMenuOpen(false)}
+                  >
+                    Português
+                  </Link>
+                </div>
+              </div>
             </div>
           </div>
         )}
