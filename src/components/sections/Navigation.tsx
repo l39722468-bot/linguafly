@@ -28,6 +28,15 @@ export function Navigation() {
             ? `/pt-br/blog/${extractedBlogSlug}`
             : "/pt-br",
       };
+  const spanishNavLinks = {
+    phrases: "/frases-en-ingles",
+    guides: "/aprender-ingles",
+    grammar: "/blog/gramatica",
+    vocabulary: "/vocabulario",
+  };
+  const navLinks = isPtBr
+    ? { ...spanishNavLinks, blog: "/pt-br/blog" }
+    : { ...spanishNavLinks, blog: "/blog" };
 
   return (
     <nav className="sticky top-0 z-[9998] bg-white/95 backdrop-blur-lg border-b-2 border-[#FFE8D9] shadow-sm transition-colors">
@@ -43,19 +52,19 @@ export function Navigation() {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-6">
-            <Link href="/blog" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
+            <Link href={navLinks.blog} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Blog
             </Link>
-            <Link href="/frases-en-ingles" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
+            <Link href={navLinks.phrases} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Frases
             </Link>
-            <Link href="/aprender-ingles" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
+            <Link href={navLinks.guides} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Guías
             </Link>
-            <Link href="/blog/gramatica" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
+            <Link href={navLinks.grammar} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Gramática
             </Link>
-            <Link href="/vocabulario" className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
+            <Link href={navLinks.vocabulary} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Vocabulario
             </Link>
             <div className="flex items-center rounded-full border border-slate-200 bg-white p-1">
@@ -98,35 +107,35 @@ export function Navigation() {
           <div className="md:hidden py-4 border-t border-slate-200">
             <div className="flex flex-col gap-4">
               <Link 
-                href="/blog" 
+                href={navLinks.blog} 
                 className="text-sm font-bold text-coral-600 hover:text-coral-700 transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 📰 Blog
               </Link>
               <Link 
-                href="/frases-en-ingles" 
+                href={navLinks.phrases} 
                 className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Frases
               </Link>
               <Link 
-                href="/aprender-ingles" 
+                href={navLinks.guides} 
                 className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Guías
               </Link>
               <Link 
-                href="/blog/gramatica" 
+                href={navLinks.grammar} 
                 className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Gramática
               </Link>
               <Link 
-                href="/vocabulario" 
+                href={navLinks.vocabulary} 
                 className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
               >

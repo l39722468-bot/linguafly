@@ -1,5 +1,5 @@
 import React from "react";
-import { render, screen } from "@testing-library/react";
+import { fireEvent, render, screen } from "@testing-library/react";
 import "@testing-library/jest-dom";
 import { Navigation } from "@/components/sections/Navigation";
 
@@ -10,7 +10,7 @@ jest.mock("next/navigation", () => ({
 }));
 
 jest.mock("next/link", () => {
-  return ({
+  const MockNextLink = ({
     children,
     href,
     className,
@@ -23,6 +23,9 @@ jest.mock("next/link", () => {
       {children}
     </a>
   );
+
+  MockNextLink.displayName = "MockNextLink";
+  return MockNextLink;
 });
 
 describe("Navigation language switcher", () => {
@@ -51,6 +54,36 @@ describe("Navigation language switcher", () => {
     expect(screen.getByRole("link", { name: "PT" })).toHaveAttribute(
       "href",
       "/pt-br/blog/aptis-a2-guia-completa"
+    );
+  });
+
+  it("uses PT-BR blog link inside Portuguese pages", () => {
+    mockUsePathname.mockReturnValue("/pt-br");
+    render(<Navigation />);
+
+    const desktopBlogLinks = screen.getAllByRole("link", { name: "Blog" });
+    expect(desktopBlogLinks).toHaveLength(1);
+    expect(desktopBlogLinks[0]).toHaveAttribute("href", "/pt-br/blog");
+
+    fireEvent.click(screen.getByRole("button", { name: "Abrir menú" }));
+    expect(screen.getByRole("link", { name: "📰 Blog" })).toHaveAttribute(
+      "href",
+      "/pt-br/blog"
+    );
+  });
+
+  it("uses Spanish blog link on non-PT pages", () => {
+    mockUsePathname.mockReturnValue("/");
+    render(<Navigation />);
+
+    const desktopBlogLinks = screen.getAllByRole("link", { name: "Blog" });
+    expect(desktopBlogLinks).toHaveLength(1);
+    expect(desktopBlogLinks[0]).toHaveAttribute("href", "/blog");
+
+    fireEvent.click(screen.getByRole("button", { name: "Abrir menú" }));
+    expect(screen.getByRole("link", { name: "📰 Blog" })).toHaveAttribute(
+      "href",
+      "/blog"
     );
   });
 
