@@ -48,6 +48,9 @@ const nextConfig = {
       { source: '/curso-:slug/:path*', destination: '/blog', permanent: true },
       { source: '/planes', destination: '/blog', permanent: true },
 
+      // PT-BR: artículos antes publicados con categoría en la URL
+      { source: '/pt-br/blog/:category/:slug', destination: '/pt-br/blog/:slug', permanent: true },
+
       // E-E-A-T: autores ficticios retirados, todo el contenido firmado por el equipo editorial.
       // /blog/autor/david-torres y /blog/autor/sara-mendez → /sobre-nosotros (con contexto real).
       // /blog/autores → /sobre-nosotros (solo queda un autor, la página índice pierde sentido).
