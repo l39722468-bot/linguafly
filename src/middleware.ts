@@ -66,7 +66,7 @@ export async function middleware(request: NextRequest) {
     const blogUrl = request.nextUrl.clone();
     blogUrl.pathname = '/blog';
     blogUrl.searchParams.delete('next');
-    return NextResponse.redirect(blogUrl, 307);
+    return NextResponse.redirect(blogUrl, 301);
   }
 
   if (pathname === "/blog") {

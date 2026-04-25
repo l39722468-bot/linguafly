@@ -50,31 +50,15 @@ node scripts/indexnow-submit.mjs \
 3. Ejecuta `npm run indexnow:all` una sola vez para empujar los 327 artículos + hubs.
 4. En adelante usa `npm run indexnow` tras cada deploy a main.
 
-## Integración CI (opcional, recomendado)
+## Integración CI (activa)
 
-Para automatizarlo tras cada push a main, añadir `.github/workflows/indexnow.yml`:
+El repositorio ya incluye `.github/workflows/indexnow.yml` para automatizar el envío tras cada `push` a `main` cuando cambian artículos:
 
-```yaml
-name: IndexNow
-on:
-  push:
-    branches: [main]
-    paths:
-      - "src/content/blog/**/*.md"
-jobs:
-  ping:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 2
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-      - run: node scripts/indexnow-submit.mjs --since=HEAD~1
-```
+- Trigger: `push` en `main` con cambios en `src/content/blog/**/*.md`.
+- Modo por defecto: envía URLs cambiadas desde `github.event.before` hasta `HEAD`.
+- Fallback: si no hay `before` SHA válido (casos especiales), envía sitemap completo (`--all`).
 
-Esto se dispara solo cuando tocas `.md`, detecta lo cambiado entre los 2 últimos commits y lo envía.
+También puedes ejecutarlo manualmente con `workflow_dispatch`.
 
 ## Qué NO hace IndexNow
 

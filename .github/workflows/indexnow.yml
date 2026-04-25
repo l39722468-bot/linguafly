@@ -1,0 +1,39 @@
+name: IndexNow
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "src/content/blog/**/*.md"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: ".node-version"
+
+      - name: Submit changed URLs to IndexNow
+        env:
+          BEFORE_SHA: ${{ github.event.before }}
+        run: |
+          if [ -z "$BEFORE_SHA" ] || [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ]; then
+            echo "No before SHA disponible; enviando sitemap completo."
+            node scripts/indexnow-submit.mjs --all
+          else
+            echo "Enviando URLs cambiadas desde $BEFORE_SHA"
+            node scripts/indexnow-submit.mjs --since="$BEFORE_SHA"
+          fi
