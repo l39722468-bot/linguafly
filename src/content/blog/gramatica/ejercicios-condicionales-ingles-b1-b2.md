@@ -189,6 +189,12 @@ En el **Part 4 de Use of English** (Key Word Transformation), los condicionales 
 
 Con práctica constante de estos **ejercicios de condicionales en inglés**, estarás preparado para cualquier prueba Cambridge y para expresar hipótesis con precisión en inglés real.
 
+## 📥 Descargables PDF por nivel
+
+- [**A2-B1 · Zero y First Conditional (PDF)**](/docs/ejercicios-condicionales-a2-b1.pdf)
+- [**B1-B2 · First, Second y Third Conditional (PDF)**](/docs/ejercicios-condicionales-b1-b2.pdf)
+- [**C1-C2 · Mixed Conditionals e Inversión (PDF)**](/docs/ejercicios-condicionales-c1-c2.pdf)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/
