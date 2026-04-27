@@ -96,6 +96,7 @@ export default function RootLayout({
   return (
     <html lang="es" className={`scroll-smooth ${nunito.variable} ${jakarta.variable}`} suppressHydrationWarning>
       <head>
+        <Cookiebot />
         {/* Monetag zona 230407: tag único del panel (quge5.com) */}
         <script
           src="https://quge5.com/88/tag.min.js"
@@ -144,7 +145,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </noscript>
         {children}
         {/* Scripts deferidos: no bloquean first paint */}
-        <Cookiebot />
         <GoogleAnalytics />
         <Analytics />
         {/* Copyright watermark - contraste 4.5:1 (WCAG AA) */}
