@@ -51,7 +51,7 @@ export function Footer() {
 
         <div className="border-t border-slate-800 pt-8 text-center">
           <p className="text-sm text-slate-400">
-            © 2026 Focus English. Todos los derechos reservados. | <Link href="/privacidad" className="hover:text-white transition-colors">Privacidad</Link> | <Link href="/terminos" className="hover:text-white transition-colors">Términos</Link> | Hecho con 💜 en España
+            © 2026 Focus English. Todos los derechos reservados. | <Link href="/privacidad" className="hover:text-white transition-colors">Privacidad</Link> | <Link href="/cookies" className="hover:text-white transition-colors">Cookies</Link> | <Link href="/terminos" className="hover:text-white transition-colors">Términos</Link> | Hecho con 💜 en España
           </p>
         </div>
       </div>

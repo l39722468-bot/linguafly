@@ -127,8 +127,12 @@ export default function PrivacidadPage() {
             <p className="mb-4">
               Utilizamos cookies y tecnologías similares. Puede gestionar sus preferencias
               mediante el banner de cookies (Cookiebot u otra herramienta configurada en el
-              sitio) y obtener más detalle en la declaración de cookies que se muestra desde
-              dicho gestor.
+              sitio) y obtener más detalle en la{" "}
+              <a href="/cookies" className="text-peach-600 font-medium">
+                Política de Cookies
+              </a>
+              , donde se muestra la declaración actualizada y la información sobre las
+              cookies de Google Analytics.
             </p>
 
             <h2 className="text-2xl font-bold mt-10 mb-4">7. Sus derechos</h2>
