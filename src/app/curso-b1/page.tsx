@@ -18,7 +18,7 @@ async function B1PreviewContent() {
         <div className="max-w-md text-center">
           <p className="text-lg font-semibold text-slate-800 mb-2">Error al cargar el curso</p>
           <p className="text-slate-600 mb-4">No se pudieron cargar los datos. Intenta recargar la página.</p>
-          <a href="/curso-b1" className="text-emerald-600 font-bold hover:underline">Recargar</a>
+          <Link href="/curso-b1" className="text-emerald-600 font-bold hover:underline">Recargar</Link>
         </div>
       </div>
     );
@@ -44,10 +44,10 @@ async function B1PreviewContent() {
               </Link>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 mb-4 tracking-tight">
-              English B1 Course Preview
+              Free English B1 Course
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto font-medium">
-              Explore all {courseMetadata.totalUnits} units of our comprehensive B1 English course.
+              Access all {courseMetadata.totalUnits} units of our B1 English course for free.
               Each unit is designed to advance your English skills to the intermediate level.
             </p>
           </div>
@@ -137,7 +137,7 @@ function LoadingState() {
     <div className="min-h-screen flex items-center justify-center bg-slate-50">
       <div className="text-center">
         <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-emerald-500 mx-auto mb-4"></div>
-        <p className="text-slate-600 font-medium">Loading B1 course units...</p>
+        <p className="text-slate-600 font-medium">Loading free B1 course...</p>
       </div>
     </div>
   );

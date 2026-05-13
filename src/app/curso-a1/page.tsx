@@ -19,7 +19,7 @@ async function A1PreviewContent() {
         <div className="max-w-md text-center">
           <p className="text-lg font-semibold text-slate-800 mb-2">Error al cargar el curso</p>
           <p className="text-slate-600 mb-4">No se pudieron cargar los datos. Intenta recargar la página.</p>
-          <a href="/curso-a1" className="text-blue-600 font-bold hover:underline">Recargar</a>
+          <Link href="/curso-a1" className="text-blue-600 font-bold hover:underline">Recargar</Link>
         </div>
       </div>
     );
@@ -43,10 +43,10 @@ async function A1PreviewContent() {
               </Link>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 mb-4 tracking-tight">
-              Vista previa del curso A1
+              Curso de inglés A1 gratis
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto font-medium">
-              Explora las {courseMetadata.totalUnits} unidades del curso A1 y empieza desde cero con una ruta clara de progreso.
+              Accede gratis a las {courseMetadata.totalUnits} unidades del curso A1 y empieza desde cero con una ruta clara de progreso.
             </p>
           </div>
 

@@ -1,5 +1,6 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { createServerClient } from "@supabase/ssr";
+import { isFreeCourseRoute, isLegacyCourseRedirectRoute } from "@/lib/routes/course-access";
 
 const PUBLIC_ROUTES = new Set([
   "/",
@@ -46,23 +47,9 @@ export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const isStaticAsset = pathname.includes('.') || pathname.startsWith('/_next/');
   const isApiOrWebhook = pathname.startsWith('/api/');
-  const isProductRoute =
-    pathname.startsWith('/curso-') ||
-    pathname.startsWith('/curso/') ||
-    pathname.startsWith('/cursos') ||
-    pathname.startsWith('/planes') ||
-    pathname.startsWith('/success') ||
-    pathname.startsWith('/mi-panel') ||
-    pathname.startsWith('/dashboard') ||
-    pathname.startsWith('/profile') ||
-    pathname.startsWith('/aula') ||
-    pathname.startsWith('/cuenta/login') ||
-    pathname.startsWith('/cuenta/login-admin') ||
-    pathname.startsWith('/cuenta/registro') ||
-    pathname.startsWith('/cuenta/recuperar') ||
-    pathname.startsWith('/reset-password');
+  const shouldRedirectLegacyCourseRoute = isLegacyCourseRedirectRoute(pathname);
 
-  if (isProductRoute && !isStaticAsset && !isApiOrWebhook) {
+  if (shouldRedirectLegacyCourseRoute && !isStaticAsset && !isApiOrWebhook) {
     const blogUrl = request.nextUrl.clone();
     blogUrl.pathname = '/blog';
     blogUrl.searchParams.delete('next');
@@ -92,17 +79,14 @@ export async function middleware(request: NextRequest) {
   const isPublicRoute =
     PUBLIC_ROUTES.has(pathname) ||
     isBlogRoute(pathname) ||
-    isPublicSEORoute(pathname);
+    isPublicSEORoute(pathname) ||
+    isFreeCourseRoute(pathname);
   if (!supabaseUrl || !supabaseKey) {
     if (isPublicRoute || pathname.startsWith("/misiones")) {
       return response;
     }
     // Para rutas protegidas sin Supabase, redirigir a login
     if (
-      pathname.startsWith("/curso-a1") ||
-      pathname.startsWith("/curso-a2") ||
-      pathname.startsWith("/curso-b1") ||
-      pathname.startsWith("/curso-b2") ||
       pathname.startsWith("/admin") ||
       pathname.startsWith("/misiones") ||
       pathname.startsWith("/onboarding")
@@ -155,10 +139,6 @@ export async function middleware(request: NextRequest) {
     console.error("[Middleware] Auth error:", err);
     if (isPublicRoute) return response;
     if (
-      pathname.startsWith("/curso-a1") ||
-      pathname.startsWith("/curso-a2") ||
-      pathname.startsWith("/curso-b1") ||
-      pathname.startsWith("/curso-b2") ||
       pathname.startsWith("/admin") ||
       pathname.startsWith("/misiones") ||
       pathname.startsWith("/onboarding")
@@ -230,12 +210,8 @@ export async function middleware(request: NextRequest) {
     return response;
   }
 
-  // Protección para la zona /curso-a1, /curso-a2, /curso-b1, /curso-b2, /admin y /misiones
+  // Protección para áreas privadas del panel, soporte y administración
   const isProtectedArea = 
-    pathname.startsWith("/curso-a1") ||
-    pathname.startsWith("/curso-a2") ||
-    pathname.startsWith("/curso-b1") ||
-    pathname.startsWith("/curso-b2") ||
     pathname.startsWith("/admin") ||
     pathname.startsWith("/misiones") ||
     pathname.startsWith("/onboarding") ||
