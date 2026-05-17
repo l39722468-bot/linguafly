@@ -16,6 +16,15 @@ export function stripBilingualMarkup(text: string): string {
     .trim();
 }
 
+/** Extrae el texto en español: `[[en|es]]` → es; `[[word]]` → word. */
+export function stripBilingualMarkupEs(text: string): string {
+  if (!text || typeof text !== 'string') return '';
+  return text
+    .replace(/\[\[([^\]|]+)\|([^\]]*)\]\]/g, '$2')
+    .replace(/\[\[([^\]]+)\]\]/g, '$1')
+    .trim();
+}
+
 export function getSolutionText(interaction: PremiumInteraction): string {
   if (!interaction) return "";
 
@@ -54,14 +63,15 @@ export function getSolutionText(interaction: PremiumInteraction): string {
           (opt.text && String(opt.text) === String(correctAnswer)) ||
           (String(opt) === String(correctAnswer))
         );
-        return correctOption ? `${prefix}${typeof correctOption === 'string' ? correctOption : correctOption.text}` : String(correctAnswer);
+        const rawText = correctOption ? (typeof correctOption === 'string' ? correctOption : correctOption.text) : String(correctAnswer);
+        return `${prefix}${stripBilingualMarkup(rawText)}`;
       }
-      return String(correctAnswer || "");
+      return stripBilingualMarkup(String(correctAnswer || ""));
 
     case 'reorder_words':
       if (Array.isArray(interaction.correct_answer) && interaction.options) {
         const solution = interaction.correct_answer
-          .map(id => interaction.options?.find(opt => opt.id === id)?.text)
+          .map(id => stripBilingualMarkup(interaction.options?.find(opt => opt.id === id)?.text || ''))
           .filter(Boolean)
           .join(" ");
         return `${prefix}${solution}`;

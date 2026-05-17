@@ -14,7 +14,7 @@ import {
   Sparkles
 } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { getSolutionText, isLikelyEnglish, getEncouragingMessage } from "@/lib/premium-utils";
+import { getSolutionText, isLikelyEnglish, getEncouragingMessage, stripBilingualMarkup, stripBilingualMarkupEs } from "@/lib/premium-utils";
 
 interface Props {
   block: any;
@@ -104,7 +104,7 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
       const texts: string[] = [];
       if (!item) return texts;
 
-      if (item.stimulus_en) texts.push(item.stimulus_en);
+      if (item.stimulus_en) texts.push(stripBilingualMarkup(item.stimulus_en));
       if (item.prompt_en) texts.push(item.prompt_en);
       if (item.text) texts.push(item.text);
       
@@ -457,7 +457,7 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
       case 'reorder_words':
         return (
           <div className="w-full max-w-2xl mx-auto space-y-12">
-            <h2 className="text-3xl font-black text-slate-800 text-center">{interaction.prompt_es}</h2>
+            <h2 className="text-3xl font-black text-slate-800 text-center">{stripBilingualMarkupEs(interaction.prompt_es)}</h2>
             <div className="min-h-[140px] border-b-4 border-slate-100 py-6 flex flex-wrap gap-3 items-center justify-center bg-slate-50/50 rounded-3xl px-6">
               {selectedWords.map((word) => (
                 <motion.button
@@ -467,7 +467,7 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
                   disabled={!!feedback}
                   className="p-4 px-6 bg-white border-2 border-slate-200 border-b-4 rounded-2xl font-bold text-xl text-slate-700 shadow-sm active:translate-y-0.5"
                 >
-                  {word.text}
+                  {stripBilingualMarkup(word.text)}
                 </motion.button>
               ))}
             </div>
@@ -484,7 +484,7 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
                       isSelected ? 'bg-slate-100 border-transparent text-transparent opacity-30 cursor-default' : 'bg-white border-slate-200 text-slate-700 hover:bg-slate-50 active:translate-y-0.5 shadow-sm'
                     }`}
                   >
-                    {opt.text}
+                    {stripBilingualMarkup(opt.text)}
                   </motion.button>
                 );
               })}
@@ -495,7 +495,7 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
       case 'matching':
         return (
           <div className="w-full max-w-3xl mx-auto space-y-8">
-            <h2 className="text-3xl font-black text-slate-800 text-center">{interaction.prompt_es}</h2>
+            <h2 className="text-3xl font-black text-slate-800 text-center">{stripBilingualMarkupEs(interaction.prompt_es)}</h2>
             <div className="grid grid-cols-2 gap-8 md:gap-16">
               <div className="space-y-4">
                 {interaction.pairs.map((p: any) => (
@@ -515,7 +515,7 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
                       'bg-white border-slate-200 text-slate-700 hover:bg-slate-50'
                     }`}
                   >
-                    {p.left}
+                    {stripBilingualMarkup(p.left)}
                   </button>
                 ))}
               </div>
@@ -537,7 +537,7 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
                       'bg-white border-slate-200 text-slate-700 hover:bg-slate-50'
                     }`}
                   >
-                    {p.text}
+                    {stripBilingualMarkup(p.text)}
                   </button>
                 ))}
               </div>
@@ -550,11 +550,11 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
       case 'role_play':
         return (
           <div className="w-full max-w-2xl mx-auto space-y-8">
-            <h2 className="text-2xl font-black text-slate-800 text-center">{interaction.prompt_es}</h2>
+            <h2 className="text-2xl font-black text-slate-800 text-center">{stripBilingualMarkupEs(interaction.prompt_es)}</h2>
             {interaction.stimulus_en && (
                <div className="bg-slate-50 p-8 rounded-3xl border-2 border-slate-100 text-center mb-8 max-h-[40vh] overflow-y-auto">
                   <p className="text-2xl font-bold text-slate-700 leading-relaxed whitespace-pre-line">
-                    {interaction.stimulus_en}
+                    {stripBilingualMarkup(interaction.stimulus_en)}
                   </p>
                </div>
             )}
@@ -571,7 +571,7 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
                   }`}
                 >
                   <span className="flex items-center justify-between">
-                    {opt.text}
+                    {stripBilingualMarkup(opt.text)}
                     {feedback && opt.id === interaction.correct_answer && <CheckCircle2 className="w-6 h-6" />}
                   </span>
                 </button>
@@ -587,12 +587,12 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
         return (
           <div className="w-full max-w-2xl mx-auto space-y-8">
             <h2 className="text-2xl font-black text-slate-800 text-center">
-              {isSolutionInPrompt ? "Completa el espacio:" : interaction.prompt_es}
+              {isSolutionInPrompt ? "Completa el espacio:" : stripBilingualMarkupEs(interaction.prompt_es)}
             </h2>
             <div className="bg-slate-50 p-10 rounded-[3rem] border-4 border-slate-200 shadow-inner">
                {hasBlank ? (
                  <div className="text-2xl font-bold text-slate-700 flex flex-wrap justify-center items-center gap-x-4 gap-y-8 max-h-[40vh] overflow-y-auto p-4">
-                   {(interaction.stimulus_en || "").split('___').map((part: string, i: number, arr: any[]) => (
+                   {stripBilingualMarkup(interaction.stimulus_en || "").split('___').map((part: string, i: number, arr: any[]) => (
                      <React.Fragment key={i}>
                        <span>{part}</span>
                        {i < arr.length - 1 && (
@@ -622,7 +622,7 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
                ) : (
                  <div className="space-y-12">
                    <div className="p-8 bg-white rounded-3xl border-2 border-slate-100 shadow-sm text-2xl font-bold text-slate-800 text-center max-h-[30vh] overflow-y-auto">
-                     {interaction.stimulus_en}
+                     {stripBilingualMarkup(interaction.stimulus_en)}
                    </div>
                    <input 
                      type="text" 
@@ -649,14 +649,14 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
         
         return (
           <div className="w-full max-w-4xl mx-auto space-y-12">
-            <h2 className="text-3xl font-black text-slate-800 text-center">{interaction.prompt_es}</h2>
+            <h2 className="text-3xl font-black text-slate-800 text-center">{stripBilingualMarkupEs(interaction.prompt_es)}</h2>
             <div className="flex flex-wrap gap-4 justify-center p-8 bg-slate-50/50 rounded-3xl border-4 border-dashed border-slate-100 min-h-[120px]">
               {remainingItems.length === 0 ? (
                 <p className="text-slate-400 font-black text-xl flex items-center gap-2"><CheckCircle2 /> ¡Todo listo!</p>
               ) : (
                 remainingItems.map((item: any, idx: number) => {
                   const id = typeof item === 'string' ? item : item.id;
-                  const text = typeof item === 'string' ? item : item.text;
+                  const text = stripBilingualMarkup(typeof item === 'string' ? item : item.text);
                   return (
                     <button
                       key={`${id}-${idx}`}
@@ -694,7 +694,8 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
                   <div className="flex flex-wrap gap-3">
                     {Object.entries(categorizedItems).filter(([_, catId]) => catId === cat.id).map(([itemId], idx) => {
                       const originalItem = allItems.find((i: any) => (typeof i === 'string' ? i : i.id) === itemId);
-                      const text = typeof originalItem === 'string' ? originalItem : originalItem?.text || itemId;
+                      const rawText = typeof originalItem === 'string' ? originalItem : originalItem?.text || itemId;
+                      const text = stripBilingualMarkup(rawText);
                       
                       return (
                         <button
@@ -724,11 +725,11 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
         return (
           <div className="w-full max-w-xl mx-auto space-y-12">
             <div className="space-y-6 text-center">
-              <h2 className="text-2xl font-black text-slate-800 leading-tight">{interaction.prompt_es}</h2>
+              <h2 className="text-2xl font-black text-slate-800 leading-tight">{stripBilingualMarkupEs(interaction.prompt_es)}</h2>
               {interaction.stimulus_en && (
                 <div className="bg-slate-50 p-8 rounded-3xl border-2 border-slate-100 max-h-[40vh] overflow-y-auto">
                   <p className="text-2xl font-bold text-slate-700 leading-relaxed">
-                    {interaction.stimulus_en}
+                    {stripBilingualMarkup(interaction.stimulus_en)}
                   </p>
                 </div>
               )}
@@ -776,7 +777,7 @@ export default function FocusedPremiumSession({ block, onComplete, onExit }: Pro
         return (
           <div className="w-full max-w-2xl mx-auto space-y-12">
              <div className="space-y-4">
-                <h2 className="text-2xl font-black text-slate-800 text-center">{interaction.prompt_es}</h2>
+                <h2 className="text-2xl font-black text-slate-800 text-center">{stripBilingualMarkupEs(interaction.prompt_es)}</h2>
                 {interaction.example && (
                    <p className="text-center text-slate-400 font-bold text-lg italic">
                      Ejemplo: &quot;{interaction.example}&quot;
