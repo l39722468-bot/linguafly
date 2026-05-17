@@ -29,8 +29,6 @@ interface ExerciseRendererProps {
   onComplete: (result?: { success: boolean; score: number }) => void;
 }
 
-const AUTO_ADVANCE_MS = 1400;
-
 function resolvePublicAudioUrl(url?: string | null): string {
   if (!url) return '';
   return url.startsWith('/') ? url : `/${url}`;
@@ -93,7 +91,6 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
   } | null>(null);
 
   const [exerciseCompleted, setExerciseCompleted] = useState(false);
-  const autoAdvanceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   /** Si alguna pregunta del bloque fue incorrecta, el callback final debe marcar fallo (p. ej. curso A1). */
   const hadAnyIncorrectRef = useRef(false);
 
@@ -135,20 +132,11 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
     setShowReadingText(true);
     setCurrentQuestionIdx(0);
     setExerciseCompleted(false);
-    if (autoAdvanceRef.current) clearTimeout(autoAdvanceRef.current);
     hadAnyIncorrectRef.current = false;
 
     const timer = setTimeout(() => setIsAnimating(false), 300);
     return () => clearTimeout(timer);
   }, [exercise.id]);
-
-  useEffect(() => {
-    if (!submitted || !evaluation?.isCorrect || exerciseCompleted) return;
-    autoAdvanceRef.current = setTimeout(() => {
-      handleNextQuestion();
-    }, AUTO_ADVANCE_MS);
-    return () => { if (autoAdvanceRef.current) clearTimeout(autoAdvanceRef.current); };
-  }, [submitted, evaluation?.isCorrect, exerciseCompleted]);
 
   const stripTags = (s: string) => s.replace(/\[\[(.*?)\|(.*?)\]\]/g, '$1');
 
