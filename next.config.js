@@ -43,9 +43,8 @@ const nextConfig = {
   trailingSlash: false,
   async redirects() {
     return [
-      // Sitio orientado a blog: desactivar rutas de cursos/membresías públicas
+      // Legacy: solo /curso/* (sin guión) se redirige al blog
       { source: '/curso/:path*', destination: '/blog', permanent: true },
-      { source: '/curso-:slug/:path*', destination: '/blog', permanent: true },
       { source: '/planes', destination: '/blog', permanent: true },
 
       // PT-BR: artículos antes publicados con categoría en la URL
