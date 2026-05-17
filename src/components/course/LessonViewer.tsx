@@ -37,6 +37,7 @@ import GapFillRenderer from '@/components/course/renderers/GapFillRenderer';
 import MatchingRenderer from '@/components/course/renderers/MatchingRenderer';
 import MiscRenderer from '@/components/course/renderers/MiscRenderer';
 import TheorySlideViewer from '@/components/course/TheorySlideViewer';
+import { stripBilingualMarkupEs } from '@/lib/premium-utils';
 import type { 
   Lesson, 
   Exercise, 
@@ -62,6 +63,11 @@ interface LessonViewerProps {
 }
 
 export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) {
+  const toSpanishText = (text: unknown): string => {
+    if (typeof text !== 'string') return '';
+    return stripBilingualMarkupEs(text);
+  };
+
   // Detect lesson level from lesson ID (e.g., "a1-m1-l1" -> "A1", "b2-m1-l1" -> "B2", or "administracion-b1-..." -> "B1")
   const getLevel = () => {
     const parts = lesson.id.split('-');
@@ -2121,18 +2127,18 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                             <div className="flex-1 space-y-2">
                               {item.hasError ? (
                                 <>
-                                  <p className="font-semibold text-red-700">Error: {item.errorWord}</p>
+                                  <p className="font-semibold text-red-700">Error: {toSpanishText(item.errorWord)}</p>
                                   {item.correction && (
                                     <p className="text-sm">
-                                      <span className="font-semibold">Correction:</span> {item.correction}
+                                      <span className="font-semibold">Corrección:</span> {toSpanishText(item.correction)}
                                     </p>
                                   )}
                                   {item.explanation && (
-                                    <p className="text-sm text-slate-700">💡 {item.explanation}</p>
+                                    <p className="text-sm text-slate-700">💡 {toSpanishText(item.explanation)}</p>
                                   )}
                                 </>
                               ) : (
-                                <p className="font-semibold text-green-700">This sentence is correct!</p>
+                                <p className="font-semibold text-green-700">¡Esta oración es correcta!</p>
                               )}
                             </div>
                           </div>
