@@ -752,6 +752,7 @@ const nextConfig = {
         "https://static.cloudflareinsights.com",
         "https://consent.cookiebot.com",
         "https://consentcdn.cookiebot.com",
+        "https://challenges.cloudflare.com",
         "https://www.googletagmanager.com",
         "https://www.google-analytics.com",
         "https://js.stripe.com",
@@ -784,6 +785,7 @@ const nextConfig = {
         `wss://${supabaseHost}`,
         "https://consentcdn.cookiebot.com",
         "https://consent.cookiebot.com",
+        "https://challenges.cloudflare.com",
         "https://www.google-analytics.com",
         "https://www.googletagmanager.com",
         "https://vitals.vercel-insights.com",
@@ -852,6 +854,7 @@ const nextConfig = {
       [
         "frame-src",
         "https://consentcdn.cookiebot.com",
+        "https://challenges.cloudflare.com",
         "https://js.stripe.com",
         "https://hooks.stripe.com",
         "https://googleads.g.doubleclick.net",
