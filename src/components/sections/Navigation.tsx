@@ -3,6 +3,15 @@
 import Link from "next/link";
 import { useState } from "react";
 
+const COURSE_LINKS = [
+  { label: "A1", href: "/curso-a1" },
+  { label: "A2", href: "/curso-a2" },
+  { label: "B1", href: "/curso-b1" },
+  { label: "B2", href: "/curso-b2" },
+  { label: "C1", href: "/curso-c1" },
+  { label: "C2", href: "/curso-c2" },
+] as const;
+
 export function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const spanishNavLinks = {
@@ -27,6 +36,17 @@ export function Navigation() {
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-6">
+            <div className="hidden lg:flex items-center gap-2">
+              {COURSE_LINKS.map((course) => (
+                <Link
+                  key={course.label}
+                  href={course.href}
+                  className="px-3 py-1.5 rounded-full border border-[#FFD9C2] bg-[#FFF4ED] text-xs font-black text-[#FF6B6B] hover:bg-[#FFE8D9] transition-colors"
+                >
+                  {course.label}
+                </Link>
+              ))}
+            </div>
             <Link href={navLinks.blog} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Blog
             </Link>
@@ -67,6 +87,18 @@ export function Navigation() {
         {mobileMenuOpen && (
           <div className="md:hidden py-4 border-t border-slate-200">
             <div className="flex flex-col gap-4">
+              <div className="flex flex-wrap gap-2">
+                {COURSE_LINKS.map((course) => (
+                  <Link
+                    key={course.label}
+                    href={course.href}
+                    className="px-3 py-1.5 rounded-full border border-[#FFD9C2] bg-[#FFF4ED] text-xs font-black text-[#FF6B6B] hover:bg-[#FFE8D9] transition-colors"
+                    onClick={() => setMobileMenuOpen(false)}
+                  >
+                    {course.label}
+                  </Link>
+                ))}
+              </div>
               <Link 
                 href={navLinks.blog} 
                 className="text-sm font-bold text-coral-600 hover:text-coral-700 transition-colors"

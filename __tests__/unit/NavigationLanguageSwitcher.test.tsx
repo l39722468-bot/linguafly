@@ -23,6 +23,17 @@ jest.mock("next/link", () => {
 });
 
 describe("Navigation", () => {
+  it("renders course buttons with expected links", () => {
+    render(<Navigation />);
+
+    expect(screen.getAllByRole("link", { name: "A1" })[0]).toHaveAttribute("href", "/curso-a1");
+    expect(screen.getAllByRole("link", { name: "A2" })[0]).toHaveAttribute("href", "/curso-a2");
+    expect(screen.getAllByRole("link", { name: "B1" })[0]).toHaveAttribute("href", "/curso-b1");
+    expect(screen.getAllByRole("link", { name: "B2" })[0]).toHaveAttribute("href", "/curso-b2");
+    expect(screen.getAllByRole("link", { name: "C1" })[0]).toHaveAttribute("href", "/curso-c1");
+    expect(screen.getAllByRole("link", { name: "C2" })[0]).toHaveAttribute("href", "/curso-c2");
+  });
+
   it("uses Spanish blog link on desktop", () => {
     render(<Navigation />);
 
@@ -35,6 +46,12 @@ describe("Navigation", () => {
     render(<Navigation />);
 
     fireEvent.click(screen.getByRole("button", { name: "Abrir menú" }));
+    expect(screen.getAllByRole("link", { name: "A1" })[1]).toHaveAttribute("href", "/curso-a1");
+    expect(screen.getAllByRole("link", { name: "A2" })[1]).toHaveAttribute("href", "/curso-a2");
+    expect(screen.getAllByRole("link", { name: "B1" })[1]).toHaveAttribute("href", "/curso-b1");
+    expect(screen.getAllByRole("link", { name: "B2" })[1]).toHaveAttribute("href", "/curso-b2");
+    expect(screen.getAllByRole("link", { name: "C1" })[1]).toHaveAttribute("href", "/curso-c1");
+    expect(screen.getAllByRole("link", { name: "C2" })[1]).toHaveAttribute("href", "/curso-c2");
     expect(screen.getByRole("link", { name: "📰 Blog" })).toHaveAttribute(
       "href",
       "/blog"
