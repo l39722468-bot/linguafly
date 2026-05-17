@@ -21,6 +21,7 @@ import { useGamification } from '@/lib/hooks/use-gamification';
 import SpeakButton from './SpeakButton';
 import { applyC1QuestionBilingual } from '@/lib/course/c1/c1-question-bilingual';
 import { isRecepcionistaExerciseId } from '@/lib/recepcionista-exercise-ids';
+import { stripBilingualMarkupEs } from '@/lib/premium-utils';
 
 interface ExerciseRendererProps {
   exercise: Exercise;
@@ -185,6 +186,10 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
     .trim()
     .replace(/\s*[\/\\]\s*/g, ' / ')
     .replace(/\s+/g, ' ');
+  const toSpanishText = (text: unknown): string => {
+    if (typeof text !== 'string') return '';
+    return stripBilingualMarkupEs(text).trim();
+  };
 
   const checkMultipleChoiceCorrect = (q: any, selectedIdx: number) => {
     const correctAnswer = q.correctAnswer ?? q.answer;
@@ -257,7 +262,7 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
         score: correct ? 100 : 0,
         feedback: correct
           ? '[[Excellent! Correct answer.|¡Excelente! Respuesta correcta.]]'
-          : `[[Incorrect. The correct answer was:|Respuesta incorrecta. La respuesta correcta era:]] **${stripTags(String(displayCorrectAnswer))}**`,
+          : `[[Incorrect. The correct answer was:|Respuesta incorrecta. La respuesta correcta era:]] **${toSpanishText(String(displayCorrectAnswer))}**`,
       });
 
       if (correct) setShowConfetti(true);
@@ -570,16 +575,16 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
                       {evaluation.isCorrect ? 'Respuesta correcta' : 'Respuesta incorrecta'}
                     </div>
                     <div className={`text-sm mt-0.5 leading-snug ${evaluation.isCorrect ? 'text-green-600' : 'text-red-500'}`}>
-                      <Markdown content={evaluation.feedback} vocabulary={vocabulary} expandWordPairs={expandWordPairs} />
+                      <Markdown content={toSpanishText(evaluation.feedback)} vocabulary={vocabulary} expandWordPairs={expandWordPairs} />
                     </div>
                   </div>
                 </div>
 
                 {(() => {
                   const hasRichExplanation = q.explanation && (q.explanation.length > 20 || q.explanation.includes('[['));
-                  const explanationText = hasRichExplanation
+                  const explanationText = toSpanishText(hasRichExplanation
                     ? q.explanation
-                    : buildFallbackExplanation(q, exercise);
+                    : buildFallbackExplanation(q, exercise));
                   return explanationText ? (
                     <div className="bg-slate-50 rounded-2xl px-4 py-3 mb-3 border border-slate-100">
                       <p className="text-sm font-medium text-slate-500 mb-1">

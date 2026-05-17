@@ -1,5 +1,5 @@
 import React from 'react';
-import { render, screen, waitFor } from '@testing-library/react';
+import { fireEvent, render, screen, waitFor } from '@testing-library/react';
 import '@testing-library/jest-dom';
 import ExerciseRenderer from '@/components/ExerciseRenderer';
 import type { Exercise } from '@/lib/exercise-generator';
@@ -72,6 +72,11 @@ jest.mock('@/components/course/Markdown', () => {
 
 jest.mock('@/components/course/exercises/TranslatedText', () => ({
   TranslatedText: ({ text }: { text: string }) => <span>{text}</span>,
+  TRANSLATION_TOOLTIP_SPACING: {
+    blockWithTranslations: '',
+    blockBelow: '',
+    betweenOptions: '',
+  },
 }));
 
 describe('ExerciseRenderer - Audio Integration', () => {
@@ -211,9 +216,13 @@ describe('ExerciseRenderer - Audio Integration', () => {
       topicName: 'Greetings',
       content: {
         title: '[[Hello|Hola]]',
-        question: 'What does [[hello|hola]] mean?',
-        options: ['Greeting', 'Goodbye', 'Thanks', 'Sorry'],
-        correctAnswer: 0,
+        questions: [
+          {
+            question: 'What does [[hello|hola]] mean?',
+            options: ['Greeting', 'Goodbye', 'Thanks', 'Sorry'],
+            correctAnswer: 0,
+          },
+        ],
       },
     };
 
@@ -227,6 +236,38 @@ describe('ExerciseRenderer - Audio Integration', () => {
       // Verify exercise structure is rendered
       expect(screen.getByText('Greeting')).toBeInTheDocument();
       expect(screen.getByText('Goodbye')).toBeInTheDocument();
+    });
+  });
+
+  it('should render bilingual feedback in Spanish when answer is incorrect', async () => {
+    const exercise: Exercise = {
+      id: 'ex-7',
+      type: 'fill-blank',
+      level: 'A1',
+      topic: 'building',
+      topicName: 'Building',
+      content: {
+        title: 'Test feedback',
+        questions: [
+          {
+            question: 'Where is reception?',
+            correctAnswer: '[[first floor|primer piso]]',
+            type: 'fill-blank',
+          },
+        ],
+      },
+    };
+
+    render(<ExerciseRenderer exercise={exercise} onComplete={mockOnComplete} />);
+
+    const input = screen.getByPlaceholderText('Escribe aquí tu respuesta…');
+    fireEvent.change(input, { target: { value: 'wrong answer' } });
+    fireEvent.click(screen.getByTestId('confirm-button'));
+
+    await waitFor(() => {
+      expect(screen.getByText(/Respuesta incorrecta\. La respuesta correcta era:/)).toBeInTheDocument();
+      expect(screen.getByText(/primer piso/)).toBeInTheDocument();
+      expect(screen.queryByText(/Incorrect\. The correct answer was:/)).not.toBeInTheDocument();
     });
   });
 });
