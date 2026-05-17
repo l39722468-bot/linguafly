@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { CheckCircle, XCircle, ArrowRight, Sparkles, Zap, Trophy, Loader2 } from 'lucide-react';
 import EnhancedFeedback from './course/EnhancedFeedback';
 import type { MultipleChoiceEvaluationResponse, TextAnswerEvaluationResponse } from '@/lib/exercise-types';
+import { stripBilingualMarkupEs } from '@/lib/premium-utils';
 
 interface Question {
   id: string;
@@ -31,6 +32,11 @@ export default function SingleQuestionExercise({
   exerciseType,
   level
 }: SingleQuestionProps) {
+  const toSpanishText = (text: unknown): string => {
+    if (typeof text !== 'string') return '';
+    return stripBilingualMarkupEs(text);
+  };
+
   const [userAnswer, setUserAnswer] = useState<any>(null);
   const [submitted, setSubmitted] = useState(false);
   const [isCorrect, setIsCorrect] = useState(false);
@@ -352,7 +358,7 @@ export default function SingleQuestionExercise({
                 
                 {question.explanation && (
                   <p className="text-gray-700 leading-relaxed">
-                    <span className="font-semibold">Explicación:</span> {question.explanation}
+                    <span className="font-semibold">Explicación:</span> {toSpanishText(question.explanation)}
                   </p>
                 )}
                 

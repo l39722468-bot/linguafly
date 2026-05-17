@@ -1,6 +1,7 @@
 'use client';
 
 import React from 'react';
+import { stripBilingualMarkupEs } from '@/lib/premium-utils';
 import { 
   TextAnswerEvaluationResponse, 
   WritingEvaluationResponse, 
@@ -18,7 +19,7 @@ interface EnhancedFeedbackProps {
 export default function EnhancedFeedback({ type, evaluation, userAnswer, correctAnswer, loading }: EnhancedFeedbackProps) {
   const toSpanishText = (text: unknown): string => {
     if (typeof text !== 'string') return '';
-    return text;
+    return stripBilingualMarkupEs(text);
   };
 
   const analysisLabel: Record<string, string> = {

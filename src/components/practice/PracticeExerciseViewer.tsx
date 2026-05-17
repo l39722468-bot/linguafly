@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import { stripBilingualMarkupEs } from '@/lib/premium-utils';
 
 interface Question {
   id: string;
@@ -47,6 +48,11 @@ export default function PracticeExerciseViewer({
   showNextButton = false,
   onNextExercise
 }: PracticeExerciseViewerProps) {
+  const toSpanishText = (text: unknown): string => {
+    if (typeof text !== 'string') return '';
+    return stripBilingualMarkupEs(text);
+  };
+
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [answer, setAnswer] = useState('');
   const [showFeedback, setShowFeedback] = useState(false);
@@ -388,7 +394,7 @@ export default function PracticeExerciseViewer({
                     )}
                     {currentQuestion.explanation && (
                       <p className="text-gray-700 text-sm mt-2">
-                        <strong>Explicación:</strong> {currentQuestion.explanation}
+                        <strong>Explicación:</strong> {toSpanishText(currentQuestion.explanation)}
                       </p>
                     )}
                   </div>

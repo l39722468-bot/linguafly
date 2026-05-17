@@ -652,7 +652,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
           evaluations[gap.id] = {
             isCorrect: false,
             score: 0,
-            feedback: 'No answer provided',
+            feedback: 'No se proporcionó respuesta',
             detailedExplanation: gap.explanation || ''
           } as any;
           continue;
@@ -705,8 +705,8 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
             evaluations[gap.id] = {
               isCorrect,
               score: isCorrect ? 100 : 0,
-              feedback: isCorrect ? '✓ Correct!' : '✗ Incorrect',
-              detailedExplanation: gap.explanation || (isCorrect ? 'Your answer is correct.' : `The correct answer is: ${gap.correctAnswer}`)
+              feedback: isCorrect ? '✓ ¡Correcto!' : '✗ Respuesta incorrecta',
+              detailedExplanation: gap.explanation || (isCorrect ? 'Tu respuesta es correcta.' : `La respuesta correcta es: ${gap.correctAnswer}`)
             } as any;
           }
         } catch (error) {
@@ -728,8 +728,8 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
           evaluations[gap.id] = {
             isCorrect,
             score: isCorrect ? 100 : 0,
-            feedback: isCorrect ? '✓ Correct!' : '✗ Incorrect',
-            detailedExplanation: gap.explanation || (isCorrect ? 'Your answer is correct.' : `The correct answer is: ${gap.correctAnswer}`)
+            feedback: isCorrect ? '✓ ¡Correcto!' : '✗ Respuesta incorrecta',
+            detailedExplanation: gap.explanation || (isCorrect ? 'Tu respuesta es correcta.' : `La respuesta correcta es: ${gap.correctAnswer}`)
           } as any;
         }
       }
@@ -765,7 +765,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
           evaluations[itemId] = {
             isCorrect: false,
             score: 0,
-            feedback: 'No answer provided',
+            feedback: 'No se proporcionó respuesta',
             detailedExplanation: item.explanation || ''
           } as any;
           continue;
@@ -779,7 +779,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
           evaluations[itemId] = {
             isCorrect,
             score: isCorrect ? 100 : 0,
-            feedback: isCorrect ? '✓ Correct!' : '✗ Incorrect',
+            feedback: isCorrect ? '✓ ¡Correcto!' : '✗ Respuesta incorrecta',
             detailedExplanation: item.explanation || ''
           } as any;
         } else {
@@ -801,8 +801,8 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
           evaluations[itemId] = {
             isCorrect,
             score: isCorrect ? 100 : 0,
-            feedback: isCorrect ? '✓ Correct!' : '✗ Incorrect',
-            detailedExplanation: item.explanation || (isCorrect ? 'Correct!' : `Correct answer: ${correctAnswer}`)
+            feedback: isCorrect ? '✓ ¡Correcto!' : '✗ Respuesta incorrecta',
+            detailedExplanation: item.explanation || (isCorrect ? '¡Correcto!' : `La respuesta correcta es: ${correctAnswer}`)
           } as any;
         }
       }
@@ -831,7 +831,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
           evaluations[itemId] = {
             isCorrect: false,
             score: 0,
-            feedback: 'No answer provided',
+            feedback: 'No se proporcionó respuesta',
             detailedExplanation: ''
           } as any;
           continue;
@@ -931,7 +931,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
           evaluations[gapId] = {
             isCorrect: false,
             score: 0,
-            feedback: 'No answer provided',
+            feedback: 'No se proporcionó respuesta',
             detailedExplanation: gap.explanation || ''
           } as any;
           continue;
@@ -953,7 +953,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
         evaluations[gapId] = {
           isCorrect,
           score: isCorrect ? 100 : 0,
-          feedback: isCorrect ? '✓ Correct!' : '✗ Incorrect',
+          feedback: isCorrect ? '✓ ¡Correcto!' : '✗ Respuesta incorrecta',
           detailedExplanation: gap.explanation || ''
         } as any;
       }
@@ -1023,7 +1023,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
           evaluations[q.id] = {
             isCorrect: false,
             score: 0,
-            feedback: 'No answer provided'
+            feedback: 'No se proporcionó respuesta'
           } as TextAnswerEvaluationResponse;
           continue;
         }
@@ -1034,7 +1034,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
           evaluations[q.id] = {
             isCorrect,
             score: isCorrect ? 100 : 0,
-            feedback: isCorrect ? '✓ Correct!' : '✗ Incorrect',
+            feedback: isCorrect ? '✓ ¡Correcto!' : '✗ Respuesta incorrecta',
             detailedExplanation: q.explanation || ''
           } as MultipleChoiceEvaluationResponse;
         } else {
@@ -1576,7 +1576,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                           )}
                           {question.explanation && (
                             <p className="text-sm text-slate-700">
-                              <span className="font-semibold">Explicación:</span> {question.explanation}
+                              <span className="font-semibold">Explicación:</span> {toSpanishText(question.explanation)}
                             </p>
                           )}
                         </div>
@@ -1834,7 +1834,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                             </div>
                             {!isCorrect && (
                               <div>
-                                <span className="text-slate-600">Correct answer:</span>{' '}
+                                <span className="text-slate-600">Respuesta correcta:</span>{' '}
                                 <span className="text-green-700 font-semibold">
                                   {gap.correctAnswer}
                                 </span>
@@ -1847,12 +1847,12 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                             )}
                             {gap.explanation && (
                               <div className="mt-2 text-slate-700">
-                                💡 <span className="italic">{gap.explanation}</span>
+                                💡 <span className="italic">{toSpanishText(gap.explanation)}</span>
                               </div>
                             )}
                             {evaluation && evaluation.detailedExplanation && (
                               <div className="mt-2 bg-white/50 rounded p-2 text-slate-700">
-                                <strong>AI Feedback:</strong> {evaluation.detailedExplanation}
+                                <strong>Retroalimentación:</strong> {toSpanishText(evaluation.detailedExplanation)}
                               </div>
                             )}
                           </div>
@@ -2003,7 +2003,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                             </div>
                             {!isCorrect && (
                               <div>
-                                <span className="text-sm text-slate-600">Correct answer:</span>{' '}
+                                <span className="text-sm text-slate-600">Respuesta correcta:</span>{' '}
                                 <span className="font-semibold text-green-700">
                                   {sentence.correctCompletion}
                                 </span>
@@ -2011,12 +2011,12 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                             )}
                             {sentence.explanation && (
                               <div className="text-sm text-slate-700 mt-2">
-                                💡 <span className="italic">{sentence.explanation}</span>
+                                💡 <span className="italic">{toSpanishText(sentence.explanation)}</span>
                               </div>
                             )}
                             {evaluation && evaluation.detailedExplanation && (
                               <div className="mt-2 bg-white/50 rounded p-2 text-sm text-slate-700">
-                                <strong>AI Feedback:</strong> {evaluation.detailedExplanation}
+                                <strong>Retroalimentación:</strong> {toSpanishText(evaluation.detailedExplanation)}
                               </div>
                             )}
                           </div>
@@ -2335,12 +2335,12 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                               </div>
                               {item.explanation && (
                                 <p className="text-sm text-slate-700 mt-2">
-                                  💡 {item.explanation}
+                                  💡 {toSpanishText(item.explanation)}
                                 </p>
                               )}
                               {evaluation?.detailedExplanation && (
                                 <div className="mt-2 bg-white/50 rounded p-2 text-sm text-slate-700">
-                                  <strong>AI Feedback:</strong> {evaluation.detailedExplanation}
+                                  <strong>Retroalimentación:</strong> {toSpanishText(evaluation.detailedExplanation)}
                                 </div>
                               )}
                             </div>
@@ -2435,7 +2435,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
 
                     {showFeedback && item.explanation && (
                       <div className="mt-4 p-3 bg-blue-50 rounded-lg border border-blue-200">
-                        <p className="text-sm text-slate-700">💡 {item.explanation}</p>
+                        <p className="text-sm text-slate-700">💡 {toSpanishText(item.explanation)}</p>
                       </div>
                     )}
                   </div>
@@ -2540,7 +2540,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                             </p>
                           )}
                           {ex.explanation && (
-                            <p className="text-sm text-slate-700">💡 {ex.explanation}</p>
+                            <p className="text-sm text-slate-700">💡 {toSpanishText(ex.explanation)}</p>
                           )}
                         </div>
                       )}
@@ -2661,7 +2661,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                               </p>
                             )}
                             {item.explanation && (
-                              <p className="text-sm text-slate-700">💡 {item.explanation}</p>
+                              <p className="text-sm text-slate-700">💡 {toSpanishText(item.explanation)}</p>
                             )}
                           </div>
                         )}
@@ -2769,7 +2769,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                             </p>
                           )}
                           {ex.explanation && (
-                            <p className="text-sm text-slate-700">💡 {ex.explanation}</p>
+                            <p className="text-sm text-slate-700">💡 {toSpanishText(ex.explanation)}</p>
                           )}
                         </div>
                       )}
@@ -2890,7 +2890,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                               </p>
                             )}
                             {item.explanation && (
-                              <p className="text-sm text-slate-700">💡 {item.explanation}</p>
+                              <p className="text-sm text-slate-700">💡 {toSpanishText(item.explanation)}</p>
                             )}
                           </div>
                         )}
@@ -2963,17 +2963,17 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                               (item.acceptableAnswers && item.acceptableAnswers.some((a: string) => 
                                 a.toLowerCase().trim() === (answers[`gap-${idx}`] || '').toLowerCase().trim()
                               ))
-                                ? '✓ Correct!'
-                                : '✗ Incorrect'}
+                                ? '✓ ¡Correcto!'
+                                : '✗ Incorrecto'}
                             </p>
                             <p className="text-sm">
-                              <strong>Correct answer:</strong> {item.correctAnswer}
+                              <strong>Respuesta correcta:</strong> {item.correctAnswer}
                               {item.acceptableAnswers && item.acceptableAnswers.length > 0 && (
                                 <span> (also acceptable: {item.acceptableAnswers.join(', ')})</span>
                               )}
                             </p>
                             {item.explanation && (
-                              <p className="text-sm mt-1 text-slate-700">💡 {item.explanation}</p>
+                              <p className="text-sm mt-1 text-slate-700">💡 {toSpanishText(item.explanation)}</p>
                             )}
                           </div>
                         )}
@@ -3077,14 +3077,14 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                           <strong>Your answer:</strong> {userAnswer || '(no answer)'}
                         </p>
                         <p className="text-sm">
-                          <strong>Correct answer:</strong> {correctAnswer}
+                          <strong>Respuesta correcta:</strong> {correctAnswer}
                           {acceptableAnswers.length > 0 && (
                             <span className="text-slate-600"> (also: {acceptableAnswers.join(', ')})</span>
                           )}
                         </p>
                         {gap.explanation && (
                           <p className="text-sm mt-1 text-slate-700">
-                            💡 <strong>Explanation:</strong> {gap.explanation}
+                            💡 <strong>Explicación:</strong> {toSpanishText(gap.explanation)}
                           </p>
                         )}
                         {gap.category && (
@@ -3275,7 +3275,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
                               </p>
                             )}
                             {t.explanation && (
-                              <p className="text-sm text-slate-700">💡 {t.explanation}</p>
+                              <p className="text-sm text-slate-700">💡 {toSpanishText(t.explanation)}</p>
                             )}
                           </div>
                         )}
@@ -3463,7 +3463,7 @@ export default function LessonViewer({ lesson, onComplete }: LessonViewerProps) 
 
                         {showFeedback && q.explanation && (
                           <div className="mt-3 p-3 bg-blue-50 rounded-lg">
-                            <p className="text-sm text-slate-700">💡 {q.explanation}</p>
+                            <p className="text-sm text-slate-700">💡 {toSpanishText(q.explanation)}</p>
                           </div>
                         )}
                       </div>
