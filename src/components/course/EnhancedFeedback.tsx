@@ -16,6 +16,18 @@ interface EnhancedFeedbackProps {
 }
 
 export default function EnhancedFeedback({ type, evaluation, userAnswer, correctAnswer, loading }: EnhancedFeedbackProps) {
+  const toSpanishText = (text: unknown): string => {
+    if (typeof text !== 'string') return '';
+    return text;
+  };
+
+  const analysisLabel: Record<string, string> = {
+    semanticMatch: 'Coincidencia semántica',
+    grammaticalAccuracy: 'Precisión gramatical',
+    vocabularyLevel: 'Nivel de vocabulario',
+    completeness: 'Completitud'
+  };
+
   if (loading) {
     return (
       <div className="mt-4 p-4 sm:p-6 bg-orange-50 border-2 border-orange-200 rounded-lg animate-pulse">
@@ -64,24 +76,24 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
 
         {/* Your Answer */}
         <div className="mb-4 p-4 bg-white rounded-lg border border-slate-200">
-          <p className="text-sm font-semibold text-slate-700 mb-1">Your Answer:</p>
-          <p className="text-slate-800 italic">"{userAnswer}"</p>
+          <p className="text-sm font-semibold text-slate-700 mb-1">Tu respuesta:</p>
+          <p className="text-slate-800 italic">&quot;{userAnswer}&quot;</p>
         </div>
 
         {/* Main Feedback */}
         <div className="mb-4 p-4 bg-white rounded-lg border border-slate-200">
-          <p className="text-sm font-semibold text-slate-700 mb-2">📝 Feedback:</p>
-          <p className="text-slate-800">{textEval.feedback}</p>
+          <p className="text-sm font-semibold text-slate-700 mb-2">📝 Retroalimentación:</p>
+          <p className="text-slate-800">{toSpanishText(textEval.feedback)}</p>
         </div>
 
         {/* Detailed Analysis Bars */}
         <div className="mb-4 space-y-2">
-          <p className="text-sm font-semibold text-slate-700 mb-3">📊 Detailed Analysis:</p>
+          <p className="text-sm font-semibold text-slate-700 mb-3">📊 Análisis detallado:</p>
           
           {Object.entries(textEval.detailedAnalysis).map(([key, value]) => (
             <div key={key} className="flex items-center gap-3">
               <div className="w-32 text-sm font-medium text-slate-700 capitalize">
-                {key.replace(/([A-Z])/g, ' $1').trim()}:
+                {(analysisLabel[key] || key.replace(/([A-Z])/g, ' $1').trim())}:
               </div>
               <div className="flex-1 bg-slate-200 rounded-full h-4 overflow-hidden">
                 <div 
@@ -101,7 +113,7 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
         {/* Concepts Covered */}
         {textEval.conceptsCovered.length > 0 && (
           <div className="mb-4 p-4 bg-amber-50 rounded-lg border border-amber-200">
-            <p className="text-sm font-semibold text-amber-900 mb-2">✓ Concepts You Covered:</p>
+            <p className="text-sm font-semibold text-amber-900 mb-2">✓ Conceptos que cubriste:</p>
             <div className="flex flex-wrap gap-2">
               {textEval.conceptsCovered.map((concept, i) => (
                 <span key={i} className="px-3 py-1 bg-amber-100 text-amber-800 rounded-full text-sm">
@@ -115,7 +127,7 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
         {/* Missing Concepts */}
         {textEval.missingConcepts.length > 0 && (
           <div className="mb-4 p-4 bg-orange-50 rounded-lg border border-orange-200">
-            <p className="text-sm font-semibold text-orange-900 mb-2">⚠️ Missing Concepts:</p>
+            <p className="text-sm font-semibold text-orange-900 mb-2">⚠️ Conceptos faltantes:</p>
             <div className="flex flex-wrap gap-2">
               {textEval.missingConcepts.map((concept, i) => (
                 <span key={i} className="px-3 py-1 bg-orange-100 text-orange-800 rounded-full text-sm">
@@ -129,13 +141,13 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
         {/* Grammar Errors */}
         {textEval.grammarErrors.length > 0 && (
           <div className="mb-4 p-4 bg-red-50 rounded-lg border border-red-200">
-            <p className="text-sm font-semibold text-red-900 mb-3">📝 Grammar Improvements:</p>
+            <p className="text-sm font-semibold text-red-900 mb-3">📝 Mejoras gramaticales:</p>
             <div className="space-y-3">
               {textEval.grammarErrors.slice(0, 5).map((error, i) => (
                 <div key={i} className="bg-white p-3 rounded border border-red-200">
-                  <p className="text-sm text-red-800"><span className="font-semibold">Error:</span> {error.error}</p>
-                  <p className="text-sm text-amber-800"><span className="font-semibold">Correction:</span> {error.correction}</p>
-                  <p className="text-xs text-slate-600 mt-1">{error.explanation}</p>
+                  <p className="text-sm text-red-800"><span className="font-semibold">Error:</span> {toSpanishText(error.error)}</p>
+                  <p className="text-sm text-amber-800"><span className="font-semibold">Corrección:</span> {toSpanishText(error.correction)}</p>
+                  <p className="text-xs text-slate-600 mt-1">{toSpanishText(error.explanation)}</p>
                 </div>
               ))}
             </div>
@@ -145,12 +157,12 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
         {/* Suggestions */}
         {textEval.suggestions.length > 0 && (
           <div className="p-4 bg-orange-50 rounded-lg border border-orange-200">
-            <p className="text-sm font-semibold text-coral-900 mb-2">💡 Suggestions for Improvement:</p>
+            <p className="text-sm font-semibold text-coral-900 mb-2">💡 Sugerencias de mejora:</p>
             <ul className="space-y-1">
               {textEval.suggestions.map((suggestion, i) => (
                 <li key={i} className="text-sm text-coral-800 flex items-start gap-2">
                   <span className="text-orange-500 mt-0.5">•</span>
-                  <span>{suggestion}</span>
+                  <span>{toSpanishText(suggestion)}</span>
                 </li>
               ))}
             </ul>
@@ -160,7 +172,7 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
         {/* Vocabulary Feedback */}
         {textEval.vocabularyFeedback.appropriateWords.length > 0 && (
           <div className="mt-4 p-4 bg-peach-50 rounded-lg border border-peach-200">
-            <p className="text-sm font-semibold text-peach-900 mb-2">⭐ Great Vocabulary Used:</p>
+            <p className="text-sm font-semibold text-peach-900 mb-2">⭐ Buen vocabulario usado:</p>
             <div className="flex flex-wrap gap-2">
               {textEval.vocabularyFeedback.appropriateWords.map((word, i) => (
                 <span key={i} className="px-3 py-1 bg-peach-100 text-peach-800 rounded-full text-sm font-medium">
@@ -197,10 +209,10 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
 
         {/* Word Count */}
         <div className={`mb-4 p-4 rounded-lg ${
-          writingEval.wordCountFeedback.includes('Good') ? 'bg-amber-100' : 'bg-yellow-100'
+          writingEval.wordCountFeedback.toLowerCase().includes('good') ? 'bg-amber-100' : 'bg-yellow-100'
         }`}>
-          <p className="text-sm font-semibold mb-1">📏 Word Count:</p>
-          <p className="text-sm">{writingEval.wordCountFeedback}</p>
+          <p className="text-sm font-semibold mb-1">📏 Conteo de palabras:</p>
+          <p className="text-sm">{toSpanishText(writingEval.wordCountFeedback)}</p>
         </div>
 
         {/* Score Breakdown */}
@@ -218,12 +230,12 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
         {/* Strengths */}
         {writingEval.strengths.length > 0 && (
           <div className="mb-4 p-4 bg-amber-50 rounded-lg border border-amber-200">
-            <p className="text-sm font-semibold text-amber-900 mb-2">✓ Strengths:</p>
+            <p className="text-sm font-semibold text-amber-900 mb-2">✓ Fortalezas:</p>
             <ul className="space-y-1">
               {writingEval.strengths.map((strength, i) => (
                 <li key={i} className="text-sm text-amber-800 flex items-start gap-2">
                   <span className="text-amber-500 mt-0.5">✓</span>
-                  <span>{strength}</span>
+                  <span>{toSpanishText(strength)}</span>
                 </li>
               ))}
             </ul>
@@ -233,12 +245,12 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
         {/* Weaknesses */}
         {writingEval.weaknesses.length > 0 && (
           <div className="mb-4 p-4 bg-orange-50 rounded-lg border border-orange-200">
-            <p className="text-sm font-semibold text-orange-900 mb-2">⚠️ Areas for Improvement:</p>
+            <p className="text-sm font-semibold text-orange-900 mb-2">⚠️ Áreas de mejora:</p>
             <ul className="space-y-1">
               {writingEval.weaknesses.map((weakness, i) => (
                 <li key={i} className="text-sm text-orange-800 flex items-start gap-2">
                   <span className="text-orange-500 mt-0.5">→</span>
-                  <span>{weakness}</span>
+                  <span>{toSpanishText(weakness)}</span>
                 </li>
               ))}
             </ul>
@@ -249,7 +261,7 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
         {writingEval.grammarErrors.length > 0 && (
           <details className="mb-4">
             <summary className="cursor-pointer font-semibold text-red-700 hover:text-red-800 mb-2">
-              📝 Grammar Corrections ({writingEval.grammarErrors.length})
+              📝 Correcciones gramaticales ({writingEval.grammarErrors.length})
             </summary>
             <div className="space-y-3 mt-3">
               {writingEval.grammarErrors.map((error, i) => (
@@ -257,7 +269,7 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
                   <p className="text-xs text-slate-500 mb-1">{error.category.toUpperCase()}</p>
                   <p className="text-sm text-red-800 mb-1"><span className="font-semibold">❌</span> {error.sentence}</p>
                   <p className="text-sm text-amber-800 mb-1"><span className="font-semibold">✓</span> {error.correction}</p>
-                  <p className="text-xs text-slate-600">{error.explanation}</p>
+                  <p className="text-xs text-slate-600">{toSpanishText(error.explanation)}</p>
                 </div>
               ))}
             </div>
@@ -267,12 +279,12 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
         {/* Recommendations */}
         {writingEval.recommendations.length > 0 && (
           <div className="p-4 bg-orange-50 rounded-lg border border-orange-200">
-            <p className="text-sm font-semibold text-coral-900 mb-2">💡 Recommendations:</p>
+            <p className="text-sm font-semibold text-coral-900 mb-2">💡 Recomendaciones:</p>
             <ul className="space-y-1">
               {writingEval.recommendations.map((rec, i) => (
                 <li key={i} className="text-sm text-coral-800 flex items-start gap-2">
                   <span className="text-orange-500 mt-0.5">•</span>
-                  <span>{rec}</span>
+                  <span>{toSpanishText(rec)}</span>
                 </li>
               ))}
             </ul>
@@ -294,32 +306,32 @@ export default function EnhancedFeedback({ type, evaluation, userAnswer, correct
           <span className="text-2xl">{mcEval.isCorrect ? '✓' : '✗'}</span>
           <div className="flex-1">
             <p className="font-semibold">
-              {mcEval.isCorrect ? 'Correct!' : 'Not quite right'}
-              {mcEval.possibleTypo && ' (typo detected, credit given)'}
+              {mcEval.isCorrect ? '¡Correcto!' : 'No del todo correcto'}
+              {mcEval.possibleTypo && ' (error tipográfico detectado, se otorga crédito)'}
             </p>
           </div>
           {mcEval.confidence && (
             <span className="text-xs text-slate-500">
-              {mcEval.confidence}% confidence
+              {mcEval.confidence}% de confianza
             </span>
           )}
         </div>
 
         {mcEval.explanation && (
           <div className="mb-3 p-3 bg-white rounded border border-slate-200">
-            <p className="text-sm"><span className="font-semibold">Explanation:</span> {mcEval.explanation}</p>
+            <p className="text-sm"><span className="font-semibold">Explicación:</span> {toSpanishText(mcEval.explanation)}</p>
           </div>
         )}
 
         {mcEval.whyWrong && (
           <div className="mb-3 p-3 bg-red-100 rounded border border-red-200">
-            <p className="text-sm text-red-900"><span className="font-semibold">Why it's wrong:</span> {mcEval.whyWrong}</p>
+            <p className="text-sm text-red-900"><span className="font-semibold">Por qué está mal:</span> {toSpanishText(mcEval.whyWrong)}</p>
           </div>
         )}
 
         {correctAnswer && !mcEval.isCorrect && (
           <div className="p-3 bg-amber-100 rounded border border-amber-200">
-            <p className="text-sm text-amber-900"><span className="font-semibold">Correct answer:</span> {correctAnswer}</p>
+            <p className="text-sm text-amber-900"><span className="font-semibold">Respuesta correcta:</span> {correctAnswer}</p>
           </div>
         )}
       </div>
