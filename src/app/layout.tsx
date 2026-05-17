@@ -3,6 +3,7 @@ import "./globals.css";
 import { OrganizationSchema, WebsiteSchema } from "./schema";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import Cookiebot from "@/components/Cookiebot";
+import UspapiLocator from "@/components/UspapiLocator";
 import { Analytics } from "@vercel/analytics/next";
 import { Nunito, Plus_Jakarta_Sans } from "next/font/google";
 
@@ -96,6 +97,7 @@ export default function RootLayout({
   return (
     <html lang="es" className={`scroll-smooth ${nunito.variable} ${jakarta.variable}`} suppressHydrationWarning>
       <head>
+        <UspapiLocator />
         <Cookiebot />
         {/* Monetag zona 230407: tag único del panel (quge5.com) */}
         <script
