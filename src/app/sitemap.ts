@@ -2,6 +2,19 @@ import type { MetadataRoute } from "next";
 import { getBlogArticles, getAllKeywords, slugify, normalizeCategory, getArticleBySlug, getHubContent } from "@/lib/blog";
 import { authors } from "@/lib/authors";
 import { phraseService } from "@/lib/phrases";
+import { CAMARERO_A1_COURSE } from "@/lib/course/camarero-a1";
+import { CAMARERO_A2_COURSE } from "@/lib/course/camarero-a2";
+import { CAMARERO_B1_COURSE } from "@/lib/course/camarero-b1";
+import { CAMARERO_B2_COURSE } from "@/lib/course/camarero-b2";
+import { LOGISTICA_A1_COURSE } from "@/lib/course/logistica-a1";
+import { LOGISTICA_A2_COURSE } from "@/lib/course/logistica-a2";
+import { LOGISTICA_B1_COURSE } from "@/lib/course/logistica-b1";
+import { LOGISTICA_B2_COURSE } from "@/lib/course/logistica-b2";
+import { RECEPCIONISTA_A1_COURSE } from "@/lib/course/recepcionista-a1";
+import { RECEPCIONISTA_A2_COURSE } from "@/lib/course/recepcionista-a2";
+import { RECEPCIONISTA_B1_COURSE } from "@/lib/course/recepcionista-b1";
+import { RECEPCIONISTA_B2_COURSE } from "@/lib/course/recepcionista-b2";
+import { premiumCourseServerService } from "@/lib/services/premium-course-service.server";
 import { VOCAB_SECTORS } from "@/lib/vocabulario/sectors";
 
 const baseUrl = "https://www.focus-on-english.com";
@@ -9,6 +22,16 @@ const baseUrl = "https://www.focus-on-english.com";
 const SITE_LAUNCH_DATE = new Date("2024-09-01");
 const LEGAL_DATE = new Date("2024-09-01");
 const FRASES_DATE = new Date("2025-01-01");
+const COURSE_DATE = new Date("2024-09-01");
+
+type CourseUnit = { unitId?: string; id?: string | number };
+
+function resolveUnitSlug(unit: CourseUnit): string | null {
+  if (unit.unitId) return unit.unitId;
+  if (typeof unit.id === "number") return `unit-${unit.id}`;
+  if (typeof unit.id === "string") return unit.id;
+  return null;
+}
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const articles = getBlogArticles();
@@ -179,6 +202,92 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.88,
     }))
   );
+
+  const [
+    a1Course,
+    a2Course,
+    b1Course,
+    b2Course,
+    c1Course,
+    c2Course,
+  ] = await Promise.all([
+    premiumCourseServerService.getA1UnitsWithMetadata(),
+    premiumCourseServerService.getA2UnitsWithMetadata(),
+    premiumCourseServerService.getB1UnitsWithMetadata(),
+    premiumCourseServerService.getB2UnitsWithMetadata(),
+    premiumCourseServerService.getC1UnitsWithMetadata(),
+    premiumCourseServerService.getC2UnitsWithMetadata(),
+  ]);
+
+  const addCourseUrls = (
+    coursePath: string,
+    units: CourseUnit[],
+    extras: string[] = []
+  ) => {
+    urls.push({
+      url: `${baseUrl}${coursePath}`,
+      lastModified: COURSE_DATE,
+      changeFrequency: "weekly" as const,
+      priority: 0.9,
+    });
+
+    extras.forEach((extra) => {
+      urls.push({
+        url: `${baseUrl}${coursePath}/${extra}`,
+        lastModified: COURSE_DATE,
+        changeFrequency: "weekly" as const,
+        priority: 0.7,
+      });
+    });
+
+    units
+      .map(resolveUnitSlug)
+      .filter((slug): slug is string => Boolean(slug))
+      .forEach((slug) => {
+        urls.push({
+          url: `${baseUrl}${coursePath}/${slug}`,
+          lastModified: COURSE_DATE,
+          changeFrequency: "monthly" as const,
+          priority: 0.75,
+        });
+      });
+  };
+
+  const generalCourses = [
+    {
+      path: "/curso-a1",
+      units: a1Course.units,
+      extras: ["sesion-diaria", "practica-inteligente", "repaso", "tipografia", "test-final"],
+    },
+    { path: "/curso-a2", units: a2Course.units, extras: ["outline", "test-final"] },
+    { path: "/curso-b1", units: b1Course.units, extras: ["outline", "test-final"] },
+    { path: "/curso-b2", units: b2Course.units, extras: ["outline", "test-final"] },
+    { path: "/curso-c1", units: c1Course.units, extras: ["test-final"] },
+    { path: "/curso-c2", units: c2Course.units, extras: ["test-final"] },
+  ];
+
+  generalCourses.forEach((course) => {
+    addCourseUrls(course.path, course.units, course.extras);
+  });
+
+  const professionalCourses = [
+    { path: "/curso-camarero-a1", units: CAMARERO_A1_COURSE.units },
+    { path: "/curso-camarero-a2", units: CAMARERO_A2_COURSE.units },
+    { path: "/curso-camarero-b1", units: CAMARERO_B1_COURSE.units },
+    { path: "/curso-camarero-b2", units: CAMARERO_B2_COURSE.units },
+    { path: "/curso-logistica-a1", units: LOGISTICA_A1_COURSE.units },
+    { path: "/curso-logistica-a2", units: LOGISTICA_A2_COURSE.units },
+    { path: "/curso-logistica-b1", units: LOGISTICA_B1_COURSE.units },
+    { path: "/curso-logistica-b2", units: LOGISTICA_B2_COURSE.units },
+    { path: "/curso-recepcionista-a1", units: RECEPCIONISTA_A1_COURSE.units },
+    { path: "/curso-recepcionista-a2", units: RECEPCIONISTA_A2_COURSE.units },
+    { path: "/curso-recepcionista-b1", units: RECEPCIONISTA_B1_COURSE.units },
+    { path: "/curso-recepcionista-b2", units: RECEPCIONISTA_B2_COURSE.units },
+  ];
+
+  professionalCourses.forEach((course) => {
+    addCourseUrls(course.path, course.units);
+  });
 
   return urls;
 }

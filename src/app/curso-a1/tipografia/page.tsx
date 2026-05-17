@@ -5,7 +5,6 @@ import { ArrowLeft, Type, Palette, AlignLeft, BookOpen, Zap, MessageSquare, Awar
 export const metadata: Metadata = {
   title: 'Estructura Tipográfica — Curso A1 | Focus English',
   description: 'Sistema tipográfico completo del Curso de Inglés A1. Guía de referencia para diseñadores y desarrolladores.',
-  robots: { index: false, follow: false },
 };
 
 const COURSE_COLORS = [
