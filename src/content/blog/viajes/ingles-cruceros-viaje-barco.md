@@ -207,7 +207,7 @@ Un crucero es una experiencia completa: transporte, alojamiento, gastronomía y 
 - [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar)
 - [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
 - [Inglés para restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
-- [Inglés para emergencias en viajes](/blog/viajes/ingles-emergencias-viaje)
+- [Inglés para emergencias en viajes](/blog/viajes/frases-ingles-emergencias-viajes)
 
 ## Fuentes
 

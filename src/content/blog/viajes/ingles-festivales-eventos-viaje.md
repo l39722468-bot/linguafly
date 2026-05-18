@@ -201,7 +201,7 @@ Un festival o evento en el extranjero es una experiencia que recordarás toda la
 ## Guías relacionadas
 
 - [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar)
-- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
+- [Cultura y etiqueta en países anglosajones](/blog/temas/cultura-anglosajona)
 - [Inglés para restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
 - [Inglés para playas y deportes acuáticos](/blog/viajes/ingles-playas-deportes-acuaticos)
 

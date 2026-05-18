@@ -230,7 +230,7 @@ Los mercados son la mejor escuela de vida de cualquier viaje. Aquí no hay menú
 
 - [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar)
 - [Inglés para compras en el extranjero](/blog/viajes/ingles-para-compras)
-- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
+- [Cultura y etiqueta en países anglosajones](/blog/temas/cultura-anglosajona)
 - [Inglés para restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
 
 ## Fuentes

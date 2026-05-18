@@ -278,7 +278,7 @@ Si cuando llegas a casa decides reclamar por escrito, esta plantilla en inglés 
 
 ## Vocabulario de urgencia
 
-Si el problema es más serio (te pierdes, hay una emergencia médica, no encuentras a alguien), también conviene tener a mano [frases de inglés para emergencias en viajes](/blog/viajes/frases-ingles-emergencias-viajes) y la guía general de [inglés para emergencias en viaje](/blog/viajes/ingles-emergencias-viaje).
+Si el problema es más serio (te pierdes, hay una emergencia médica, no encuentras a alguien), también conviene tener a mano [frases de inglés para emergencias en viajes](/blog/viajes/frases-ingles-emergencias-viajes) y la guía general de [inglés para emergencias en viaje](/blog/viajes/frases-ingles-emergencias-viajes).
 
 ---
 
@@ -296,12 +296,12 @@ Si el problema es más serio (te pierdes, hay una emergencia médica, no encuent
 
 ### Viajes y aeropuertos
 - [Frases de inglés para emergencias en viajes](/blog/viajes/frases-ingles-emergencias-viajes)
-- [Inglés para emergencias en viaje](/blog/viajes/ingles-emergencias-viaje)
+- [Inglés para emergencias en viaje](/blog/viajes/frases-ingles-emergencias-viajes)
 - [Inglés para mochileros: fronteras, aeropuertos y aduanas](/blog/viajes/mochileros-ingles-fronteras-aeropuertos-aduanas)
 - [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
 
 ### Cultura anglosajona en viaje
-- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
+- [Cultura y etiqueta en países anglosajones](/blog/temas/cultura-anglosajona)
 - [Inglés para compras](/blog/temas/ingles-para-compras)
 - [Inglés para viajar: guía general](/blog/temas/ingles-para-viajar)
 

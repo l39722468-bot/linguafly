@@ -235,7 +235,7 @@ Comer y beber en el extranjero es mucho más que alimentarse: es una puerta a la
 - [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar)
 - [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
 - [Inglés en la cocina y restaurantes](/blog/viajes/ingles-en-la-cocina)
-- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
+- [Cultura y etiqueta en países anglosajones](/blog/temas/cultura-anglosajona)
 - [Inglés para compras en el extranjero](/blog/viajes/ingles-para-compras)
 
 ## Fuentes

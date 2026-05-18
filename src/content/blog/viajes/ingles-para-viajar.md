@@ -147,14 +147,14 @@ Viajar con inglés es como viajar con un seguro de confianza. No se trata de no 
 ## Guías de inglés para viajeros
 
 - [Curso de inglés para viajar: temario completo](/blog/viajes/curso-de-ingles-para-viajar)
-- [Guía maestra de inglés para viajeros](/blog/viajes/guia-maestra-curso-ingles-viajeros)
+- [Guía maestra de inglés para viajeros](/blog/viajes/curso-de-ingles-para-viajar)
 - [Frases en inglés para emergencias en viajes](/blog/viajes/frases-ingles-emergencias-viajes)
-- [Inglés en emergencias de viaje: qué decir](/blog/viajes/ingles-emergencias-viaje)
+- [Inglés en emergencias de viaje: qué decir](/blog/viajes/frases-ingles-emergencias-viajes)
 - [Inglés para compras en el extranjero](/blog/viajes/ingles-para-compras)
 - [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
 - [Inglés en la cocina y restaurantes](/blog/viajes/ingles-en-la-cocina)
-- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
-- [Inglés para nómadas digitales y mochileros](/blog/viajes/ingles-nomadas-digitales-mochileros)
+- [Cultura y etiqueta en países anglosajones](/blog/temas/cultura-anglosajona)
+- [Inglés para nómadas digitales y mochileros](/blog/temas/ingles-para-viajar)
 - [Mudarse al extranjero: guía de inglés práctico](/blog/viajes/mudarse-al-extranjero-guia-ingles)
 - [Inglés para recepcionistas: guía profesional](/blog/viajes/ingles-para-recepcionistas-guia)
 

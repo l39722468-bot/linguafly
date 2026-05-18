@@ -287,7 +287,7 @@ Si todo va bien, te mandan el **final receipt** por email en 24-48 horas. Guarda
 - [Inglés en vuelos: retrasos, conexiones y problemas](/blog/viajes/ingles-vuelos-retrasos-conexiones)
 - [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
 - [Frases de inglés para emergencias en viajes](/blog/viajes/frases-ingles-emergencias-viajes)
-- [Inglés para emergencias en viaje](/blog/viajes/ingles-emergencias-viaje)
+- [Inglés para emergencias en viaje](/blog/viajes/frases-ingles-emergencias-viajes)
 
 ### Diferencias US / UK
 - [Inglés americano vs británico: diferencias clave](/blog/temas/ingles-americano-vs-britanico)
@@ -295,4 +295,4 @@ Si todo va bien, te mandan el **final receipt** por email en 24-48 horas. Guarda
 ### Otros escenarios útiles
 - [Inglés para compras](/blog/temas/ingles-para-compras)
 - [Inglés para viajar: guía general](/blog/temas/ingles-para-viajar)
-- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
+- [Cultura y etiqueta en países anglosajones](/blog/temas/cultura-anglosajona)

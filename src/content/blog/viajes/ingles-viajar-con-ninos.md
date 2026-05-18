@@ -228,7 +228,7 @@ Viajar con niños es caótico, impredecible y absolutamente maravilloso. El ingl
 ## Guías relacionadas
 
 - [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar)
-- [Inglés para emergencias en viajes](/blog/viajes/ingles-emergencias-viaje)
+- [Inglés para emergencias en viajes](/blog/viajes/frases-ingles-emergencias-viajes)
 - [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
 - [Inglés para restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
 

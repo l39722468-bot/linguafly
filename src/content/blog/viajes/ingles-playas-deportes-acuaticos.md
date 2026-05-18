@@ -192,7 +192,7 @@ La playa y el agua son sinónimos de libertad y diversión en vacaciones. Pero e
 ## Guías relacionadas
 
 - [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar)
-- [Inglés para emergencias en viajes](/blog/viajes/ingles-emergencias-viaje)
+- [Inglés para emergencias en viajes](/blog/viajes/frases-ingles-emergencias-viajes)
 - [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
 - [Inglés para restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
 

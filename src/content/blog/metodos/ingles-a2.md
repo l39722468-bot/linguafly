@@ -69,7 +69,7 @@ Para moverte con soltura en una ciudad de habla inglesa, debes ser capaz de eleg
 En el nivel A2, es vital poder comunicar cómo te sientes físicamente, especialmente si estás de viaje o trabajando en el extranjero.
 *   **Parts of the Body**: Vocabulario esencial desde la cabeza hasta los pies.
 *   **Describing Symptoms**: Aprende a decir *"I have a headache"*, *"I feel dizzy"* o *"I've got a sore throat"*.
-*   **At the Doctor**: Simulaciones de conversaciones con un médico o farmacéutico para pedir medicamentos básicos o explicar una emergencia leve. Consulta nuestra **[guía de inglés para emergencias](/blog/viajes/ingles-emergencias-viaje)**.
+*   **At the Doctor**: Simulaciones de conversaciones con un médico o farmacéutico para pedir medicamentos básicos o explicar una emergencia leve. Consulta nuestra **[guía de inglés para emergencias](/blog/viajes/frases-ingles-emergencias-viajes)**.
 
 ## 5. Rutinas y Phrasal Verbs Esenciales
 

@@ -193,7 +193,7 @@ El alojamiento alternativo te acerca a la vida real de cada destino. Ya sea un A
 - [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar)
 - [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
 - [Mochileros: hostels y transporte público](/blog/viajes/mochileros-ingles-hostels-transporte-publico)
-- [Inglés para nómadas digitales y mochileros](/blog/viajes/ingles-nomadas-digitales-mochileros)
+- [Inglés para nómadas digitales y mochileros](/blog/temas/ingles-para-viajar)
 
 ## Fuentes
 

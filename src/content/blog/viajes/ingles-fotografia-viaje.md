@@ -204,8 +204,8 @@ La fotografía de viaje es más que apretar un botón: es comunicación visual. 
 
 - [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar)
 - [Inglés para museos y turismo cultural](/blog/viajes/ingles-museos-turismo-cultural)
-- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
-- [Inglés para nómadas digitales y mochileros](/blog/viajes/ingles-nomadas-digitales-mochileros)
+- [Cultura y etiqueta en países anglosajones](/blog/temas/cultura-anglosajona)
+- [Inglés para nómadas digitales y mochileros](/blog/temas/ingles-para-viajar)
 
 ## Fuentes
 

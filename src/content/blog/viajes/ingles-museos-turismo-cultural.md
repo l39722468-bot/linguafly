@@ -205,9 +205,9 @@ El turismo cultural te conecta con la historia y el arte de formas que ninguna o
 ## Guías relacionadas
 
 - [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar)
-- [Cultura y etiqueta en países anglosajones](/blog/viajes/cultura-y-etiqueta-paises-anglosajones)
+- [Cultura y etiqueta en países anglosajones](/blog/temas/cultura-anglosajona)
 - [Inglés para compras en el extranjero](/blog/viajes/ingles-para-compras)
-- [Guía maestra de inglés para viajeros](/blog/viajes/guia-maestra-curso-ingles-viajeros)
+- [Guía maestra de inglés para viajeros](/blog/viajes/curso-de-ingles-para-viajar)
 
 ## Fuentes
 
