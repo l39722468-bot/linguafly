@@ -14,7 +14,7 @@ import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { Twitter, Award } from "lucide-react";
+import { Twitter } from "lucide-react";
 
 /** Evita `/_next/image` para URLs absolutas: mejora compatibilidad con rastreadores (p. ej. GSC) y CDN externos. */
 function isRemoteImageSrc(src: string): boolean {
@@ -386,8 +386,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                                 </h3>
                               </Link>
                               <div className="inline-flex items-center justify-center gap-1.5 px-3 py-1 rounded-full bg-white text-coral-600 text-xs font-bold border border-coral-100 shadow-sm self-center md:self-auto">
-                                <Award className="w-3.5 h-3.5" />
-                                Experto Verificado
+                                Equipo editorial
                               </div>
                             </div>
                             
@@ -433,20 +432,20 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                     </div>
                     
                     <div className="bg-white p-8 rounded-2xl border border-slate-100 shadow-sm">
-                      <h3 className="font-display text-xl font-bold text-slate-900 mb-4">¿Te ha gustado esta guía?</h3>
-                      <p className="text-slate-600 mb-6">En Focus English ayudamos a profesionales y viajeros a dominar el inglés con IA en tiempo récord.</p>
+                      <h3 className="font-display text-xl font-bold text-slate-900 mb-4">Sigue practicando gratis</h3>
+                      <p className="text-slate-600 mb-6">Tenemos cursos gratuitos para practicar los distintos niveles de inglés, desde A1 hasta C2.</p>
                       <div className="flex flex-col sm:flex-row gap-4">
                         <Link 
-                          href="/cuenta/registro"
+                          href="/curso-a1"
                           className="inline-flex items-center justify-center bg-coral-600 text-white px-8 py-4 rounded-xl font-bold hover:bg-coral-700 transition-all hover:scale-[1.02] active:scale-[0.98]"
                         >
-                          Probar Gratis 7 días
+                          Ver cursos gratuitos
                         </Link>
                         <Link 
-                          href="/"
+                          href="/blog"
                           className="inline-flex items-center justify-center bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-xl font-bold hover:border-coral-200 hover:bg-coral-50/30 transition-all"
                         >
-                          Nuestra Metodología
+                          Seguir leyendo en el blog
                         </Link>
                       </div>
                     </div>
