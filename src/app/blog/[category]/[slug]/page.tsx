@@ -9,7 +9,7 @@ import { TableOfContents } from "@/components/blog/TableOfContents";
 import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
 import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
 import { CopyProtection } from "@/components/blog/CopyProtection";
-import { getBlogArticles, getArticleBySlug, getRelatedArticles, getRelatedByKeywords, getArticlesByCategory, normalizeCategory, slugify } from "@/lib/blog";
+import { getBlogArticles, getArticleBySlug, getRelatedArticles, getRelatedByKeywords, getArticlesByCategory, normalizeCategory, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import ReactMarkdown from 'react-markdown';
@@ -202,7 +202,19 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     ol: ({ node, ...props }: any) => <ol className="list-decimal ml-6 mb-6 space-y-2 text-slate-700" {...props} />,
     li: ({ node, ...props }: any) => <li className="pl-2" {...props} />,
     strong: ({ node, ...props }: any) => <strong className="font-bold text-slate-900" {...props} />,
-    a: ({ node, ...props }: any) => <a className="text-coral-600 font-bold hover:underline" {...props} />,
+    a: ({ node, href, ...props }: any) => {
+      const className = "text-coral-600 font-bold hover:underline";
+
+      if (typeof href === "string" && (href.startsWith("/") || href.startsWith("#"))) {
+        const resolvedHref = href.startsWith("/")
+          ? resolveTopicHref(href)
+          : href;
+
+        return <Link href={resolvedHref} className={className} {...props} />;
+      }
+
+      return <a href={href} className={className} rel="noopener noreferrer" target="_blank" {...props} />;
+    },
     img: () => null,
     table: ({ node, ...props }: any) => (
       <div className="overflow-x-auto my-8 border border-slate-100 rounded-2xl shadow-sm">
@@ -423,7 +435,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       {article.keywords?.filter(Boolean).map((keyword, i) => (
                         <Link 
                           key={i} 
-                          href={`/blog/temas/${slugify(keyword)}`}
+                          href={getCanonicalTopicPath(keyword)}
                           className="px-3 py-1 bg-white border border-slate-200 rounded-lg text-xs font-medium text-slate-600 hover:border-coral-300 hover:text-coral-600 transition-all hover:shadow-sm"
                         >
                           #{keyword?.toString().replace(/\s+/g, '')}

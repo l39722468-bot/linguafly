@@ -2,7 +2,7 @@ import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { redirect } from "next/navigation";
-import { getArticlesByKeyword, getAllKeywords, slugify, getHubContent, normalizeCategory, getDuplicateArticleForHub } from "@/lib/blog";
+import { getArticlesByKeyword, getAllKeywords, slugify, getHubContent, normalizeCategory, getDuplicateArticleForHub, getArticlePath, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
 import { Metadata } from "next";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
@@ -11,9 +11,11 @@ import { JsonLd } from "@/components/seo/JsonLd";
 
 export async function generateStaticParams() {
   const keywords = getAllKeywords();
-  return keywords.map(keyword => ({
-    keyword: slugify(keyword),
-  }));
+  return keywords
+    .filter((keyword) => !getDuplicateArticleForHub(keyword))
+    .map(keyword => ({
+      keyword: slugify(keyword),
+    }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ keyword: string }> }): Promise<Metadata> {
@@ -64,7 +66,7 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
       canonical: canonicalUrl,
     },
     robots: {
-      index: isThinPage || hasDuplicateArticle ? false : true,
+      index: isThinPage ? false : true,
       follow: true,
     },
     openGraph: {
@@ -92,6 +94,11 @@ export default async function KeywordHubPage({ params }: { params: Promise<{ key
   let hubContent = getHubContent(originalKeyword);
   if (!hubContent && originalKeyword !== keyword) {
     hubContent = getHubContent(keyword);
+  }
+
+  const duplicateArticle = getDuplicateArticleForHub(keyword);
+  if (duplicateArticle) {
+    redirect(getArticlePath(duplicateArticle));
   }
 
   if (articles.length === 0 && !hubContent) {
@@ -204,8 +211,11 @@ export default async function KeywordHubPage({ params }: { params: Promise<{ key
                   components={{
                     a: ({ href, children, ...props }) => {
                       if (href && (href.startsWith("/") || href.startsWith("#"))) {
+                        const resolvedHref = href.startsWith("/")
+                          ? resolveTopicHref(href)
+                          : href;
                         return (
-                          <Link href={href} {...(props as React.AnchorHTMLAttributes<HTMLAnchorElement>)}>
+                          <Link href={resolvedHref} {...(props as React.AnchorHTMLAttributes<HTMLAnchorElement>)}>
                             {children}
                           </Link>
                         );
@@ -360,7 +370,7 @@ export default async function KeywordHubPage({ params }: { params: Promise<{ key
                 {relatedKeywords.map((k) => (
                   <Link
                     key={k}
-                    href={`/blog/temas/${slugify(k)}`}
+                    href={getCanonicalTopicPath(k)}
                     className="px-4 py-2 bg-white rounded-full border border-slate-200 text-slate-700 text-sm font-semibold hover:border-indigo-300 hover:text-indigo-600 transition-colors capitalize"
                   >
                     {k}

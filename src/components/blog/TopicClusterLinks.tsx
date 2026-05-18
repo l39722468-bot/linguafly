@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { BlogPost, slugify } from "@/lib/blog";
+import { BlogPost, getCanonicalTopicPath } from "@/lib/blog";
 import { Layers, ArrowRight, Bookmark, LayoutGrid } from "lucide-react";
 
 interface TopicClusterLinksProps {
@@ -86,7 +86,7 @@ export function TopicClusterLinks({ articles, mainKeyword }: TopicClusterLinksPr
             <p className="text-indigo-600/80 text-sm">Explora nuestra biblioteca completa de recursos especializados.</p>
           </div>
           <Link 
-            href={`/blog/temas/${slugify(mainKeyword)}`}
+            href={getCanonicalTopicPath(mainKeyword)}
             className="inline-flex items-center gap-2 bg-white text-indigo-600 px-8 py-3 rounded-xl font-bold text-sm border-2 border-indigo-100 hover:border-indigo-600 transition-all shadow-sm"
           >
             <span>Ver todo sobre {mainKeyword}</span>

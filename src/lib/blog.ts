@@ -118,6 +118,27 @@ export function getDuplicateArticleForHub(keywordOrSlug: string): BlogPost | nul
   return getArticleBySlug(hubSlug);
 }
 
+export function getArticlePath(article: Pick<BlogPost, "category" | "slug">): string {
+  return `/blog/${normalizeCategory(article.category)}/${article.slug}`;
+}
+
+export function getCanonicalTopicPath(keywordOrSlug: string): string {
+  const duplicateArticle = getDuplicateArticleForHub(keywordOrSlug);
+  if (duplicateArticle) {
+    return getArticlePath(duplicateArticle);
+  }
+
+  return `/blog/temas/${slugify(keywordOrSlug)}`;
+}
+
+export function resolveTopicHref(href: string): string {
+  const match = href.match(/^\/blog\/temas\/([^?#]+)(\?[^#]*)?(#.*)?$/);
+  if (!match) return href;
+
+  const [, keywordOrSlug, search = "", hash = ""] = match;
+  return `${getCanonicalTopicPath(keywordOrSlug)}${search}${hash}`;
+}
+
 export function getArticlesByCategory(category: string): BlogPost[] {
   const normalizedSearch = normalizeCategory(category);
   return getBlogArticles().filter(article => normalizeCategory(article.category) === normalizedSearch);
