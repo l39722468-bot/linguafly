@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-tecnico-ingenieria-civil-industrial
 readTime: 5 min
 keywords:
-  - ingles para ingenieros
-  - ingles ingenieria civil
-  - ingles ingenieria industrial
-  - vocabulario construccion ingles
-  - technical english civil engineering
-  - safety english ingenieros
+  - 'Inglés Técnico para Ingeniería Civil'
+  - 'ingles ingenieria civil'
 faqs:
   - question: ¿Cuáles son las normas técnicas internacionales más importantes que debo conocer en inglés?
     answer: >-

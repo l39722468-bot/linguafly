@@ -9,12 +9,8 @@ category: gramatica
 alt: Pizarra con ejemplos de just, already y yet con el present perfect
 readTime: 6 min
 keywords:
-  - just already yet ingles
-  - just already yet present perfect
-  - already yet diferencia ingles
-  - just already yet posicion frase
-  - present perfect just already yet ejemplos
-  - ya todavia ingles
+  - 'Just, Already y Yet en Inglés: Uso'
+  - 'just already yet ingles'
 excerpt: >-
   Just, already y yet son tres de los adverbios más frecuentes con el present perfect. Cada uno tiene su posición fija en la frase y su propio matiz. Aquí los tienes claros con ejemplos y los errores que más se cometen.
 faqs:

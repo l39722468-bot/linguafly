@@ -9,13 +9,8 @@ excerpt: >-
   en pasiva aparecen constantemente en inglés formal y en exámenes. Aquí tienes
   la guía que necesitas.
 keywords:
-  - pasiva verbos modales ingles
-  - must be pasiva ingles
-  - should be ingles pasiva
-  - can be pasiva ingles
-  - modal passive voice
-  - modales pasiva ingles ejemplos
-  - passive voice practice ejercicios
+  - 'Pasiva con Verbos Modales en Inglés'
+  - 'pasiva verbos modales ingles'
 author: focus-english-team
 date: '2026-02-17'
 updatedDate: '2026-03-10'

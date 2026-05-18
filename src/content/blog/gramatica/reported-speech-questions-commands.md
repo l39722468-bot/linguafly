@@ -10,12 +10,8 @@ description: >-
   infinitivo.
 readTime: 4 min
 keywords:
-  - reported speech questions exercises pdf
-  - reported speech commands exercises pdf
-  - reported questions exercises pdf
-  - reported speech commands and requests
-  - reported questions
-  - reported speech
+  - 'Reported Speech: Preguntas, Órdenes'
+  - 'reported speech'
 canonical: >-
   https://www.focus-on-english.com/blog/gramatica/reported-speech-questions-commands
 alt: Preguntas y órdenes en estilo indirecto

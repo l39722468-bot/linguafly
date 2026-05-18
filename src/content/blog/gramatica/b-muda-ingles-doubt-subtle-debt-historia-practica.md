@@ -9,11 +9,8 @@ description: >-
   y no se oyen, cómo aprenderlas sin confundirlas al escribir y cómo pronunciarlas.
 readTime: 22 min
 keywords:
-  - b muda ingles
-  - doubt pronunciación
-  - debt inglés
-  - subtle inglés
-  - ortografía inglés b
+  - 'Doubt, debt, subtle y el misterio'
+  - 'doubt pronunciación'
 alt: Libros apilados en librería
 excerpt: >-
   Guía didáctica sobre palabras con b histórica: trucos de memoria, errores al

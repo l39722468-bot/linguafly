@@ -10,12 +10,8 @@ excerpt: >-
   Te decimos exactamente qué tipos aparecen, cómo se formulan las preguntas
   y qué errores penalizan más en Cambridge First, APTIS y IELTS.
 keywords:
-  - condicionales ingles b2 examen
-  - cambridge b2 first condicionales
-  - aptis condicionales ingles
-  - ielts condicionales
-  - ejercicios condicionales examen b2
-  - uso ingles b2 condicionales
+  - 'Condicionales en Inglés para el Examen B2'
+  - 'condicionales ingles b2 examen'
 author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-03-10'

@@ -9,12 +9,8 @@ category: gramatica
 alt: Persona haciendo una pregunta con ever en inglés usando present perfect
 readTime: 6 min
 keywords:
-  - ever never ingles
-  - ever never present perfect
-  - have you ever ingles
-  - ever never diferencia
-  - present perfect ever never ejemplos
-  - alguna vez nunca ingles
+  - 'Ever y Never en Inglés: Uso'
+  - 'ever never ingles'
 excerpt: >-
   "Have you ever...?" es una de las preguntas más usadas en inglés. Ever y never van casi siempre con el present perfect y son fáciles de dominar una vez que entiendes qué parte de la experiencia de vida describen.
 faqs:

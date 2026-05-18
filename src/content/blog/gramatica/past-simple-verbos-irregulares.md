@@ -9,13 +9,8 @@ category: gramatica
 alt: Lista de verbos irregulares en inglés organizados en una tabla
 readTime: 8 min
 keywords:
-  - verbos irregulares ingles
-  - past simple verbos irregulares
-  - lista verbos irregulares ingles
-  - verbos irregulares participio ingles
-  - irregular verbs ingles
-  - verbos irregulares mas usados ingles
-  - aprender verbos irregulares ingles
+  - 'Verbos Irregulares en Inglés: Lista Completa'
+  - 'lista verbos irregulares ingles'
 excerpt: >-
   Los verbos irregulares son uno de los retos clásicos del inglés. No siguen reglas, pero tienen patrones que los hacen más fáciles de aprender en grupos. Aquí tienes los más frecuentes organizados para que no tengas que memorizarlos uno a uno.
 faqs:

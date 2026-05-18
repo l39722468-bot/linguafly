@@ -10,16 +10,8 @@ category: viajes
 readTime: 10 min
 alt: Grupo de viajeros practicando surf en una playa tropical
 keywords:
-  - ingles para la playa
-  - vocabulario playa ingles
-  - deportes acuaticos ingles
-  - ingles surf viaje
-  - vocabulario buceo ingles
-  - snorkel en ingles
-  - seguridad playa ingles
-  - alquilar tabla surf ingles
-  - ingles piscina hotel
-  - vocabulario costa ingles
+  - 'Inglés para Playas y Deportes Acuáticos'
+  - 'deportes acuaticos ingles'
 canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-playas-deportes-acuaticos'
 faqs:
   - question: ¿Cómo pregunto por las condiciones del mar en inglés?

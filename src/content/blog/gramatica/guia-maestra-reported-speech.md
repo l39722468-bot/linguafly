@@ -10,13 +10,8 @@ description: >-
   de Cambridge.
 readTime: 5 min
 keywords:
-  - reported speech estructura
-  - reporting verbs en ingles
-  - reported speech teoria
-  - reported speech verbos
-  - reported speech que es
-  - introductory verbs in reported speech
-  - reported speech
+  - 'Guia Maestra de Reported Speech'
+  - 'reported speech'
 canonical: 'https://www.focus-on-english.com/blog/gramatica/guia-maestra-reported-speech'
 alt: Guía maestra sobre estilo indirecto en inglés
 faqs:

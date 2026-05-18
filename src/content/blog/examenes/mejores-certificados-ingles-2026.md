@@ -14,15 +14,8 @@ excerpt: >-
   IELTS, Cambridge, TOEFL, Duolingo: te explicamos qué acepta cada institución,
   cuánto tardan los resultados y cuál te conviene según tu objetivo real.
 keywords:
-  - mejores certificados de inglés 2026
-  - certificaciones de inglés oficiales
-  - IELTS vs TOEFL 2026
-  - Cambridge English 2026
-  - títulos de inglés para currículum
-  - examen de inglés online
-  - validez certificados ingles
-  - Duolingo English Test 2026
-  - LanguageCert vs Cambridge
+  - 'Certificados de Inglés'
+  - 'mejores certificados de inglés 2026'
 canonical: 'https://www.focus-on-english.com/blog/examenes/mejores-certificados-ingles-2026'
 related_routes:
   - cambridge-c1-advanced-guia

@@ -9,11 +9,8 @@ category: examenes
 alt: Persona con auriculares escuchando audio para el IELTS Listening
 readTime: 6 min
 keywords:
-  - ielts listening
-  - ielts listening estrategias
-  - ielts listening secciones
-  - ielts listening trucos
-  - como mejorar listening ielts
+  - 'IELTS Listening: Estrategias'
+  - 'ielts listening'
 excerpt: >-
   El IELTS Listening se escucha una sola vez. No hay repetición. Eso cambia completamente cómo tienes que prepararlo: no es cuestión de entender inglés, es cuestión de saber exactamente qué buscar antes de que el audio empiece.
 faqs:

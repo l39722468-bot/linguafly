@@ -11,12 +11,8 @@ category: trabajo
 readTime: 16 min
 alt: Equipo de marketing revisando gráficas y métricas en una pantalla grande de oficina
 keywords:
-  - ingles para marketing
-  - vocabulario marketing ingles
-  - terminos marketing ingles
-  - marketing digital ingles
-  - ingles profesional marketing
-  - frases marketing ingles
+  - 'Inglés para Marketing: Vocabulario'
+  - 'ingles para marketing'
 faqs:
   - question: ¿Por qué el inglés es tan importante en el sector del marketing?
     answer: >-

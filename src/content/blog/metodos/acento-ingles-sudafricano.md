@@ -11,13 +11,8 @@ excerpt: >-
   una lógica interna clara que hace que, una vez que la entiendes, el acento
   encaje de golpe.
 keywords:
-  - acento inglés sudafricano
-  - south african english fonética
-  - inglés sudáfrica pronunciación
-  - afrikaans influencia inglés
-  - cape town accent inglés
-  - johannesburg english acento
-  - inglés sudáfrica características
+  - 'El Acento Sudafricano en Inglés: Guía Clara'
+  - 'acento inglés sudafricano'
 author: focus-english-team
 date: '2026-02-21'
 updatedDate: '2026-02-21'

@@ -14,14 +14,8 @@ excerpt: >-
   la tasa principal hay recargos que muy pocos anticipan. Aquí tienes los
   precios reales, los gastos extra y cómo compararlos con IELTS y TOEFL.
 keywords:
-  - precios examenes cambridge
-  - precio certificacion cambridge
-  - tasas cambridge 2026
-  - cuanto cuesta el examen first
-  - tasas fce 2026
-  - precios b2 first
-  - precios c1 advanced
-  - comparativa precios examenes ingles
+  - 'Precios Exámenes Cambridge: FCE, CAE'
+  - 'precios examenes cambridge'
 canonical: 'https://www.focus-on-english.com/blog/examenes/precios-examenes-cambridge'
 related_routes:
   - certificaciones-ingles

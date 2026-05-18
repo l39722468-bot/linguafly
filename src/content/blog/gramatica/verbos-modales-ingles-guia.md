@@ -8,13 +8,8 @@ excerpt: >-
   Aprende a usar Can, Could, Must, Should y May. Incluye esquema de verbos
   modales en inglés y ejemplos prácticos para niveles A1 a C1.
 keywords:
-  - verbos modales ingles
-  - verbos modales ingles pdf
-  - verbos modales ingles esquema
-  - verbos modales en ingles pdf
-  - gramatica inglesa b1
-  - ejercicios de gramatica en ingles
-  - practicar verbos en ingles online gratis
+  - 'Verbos Modales en Inglés'
+  - 'verbos modales ingles pdf'
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'

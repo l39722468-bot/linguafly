@@ -9,13 +9,8 @@ category: gramatica
 alt: Profesional revisando documentos con phrasal verbs avanzados en inglés
 readTime: 8 min
 keywords:
-  - phrasal verbs c1
-  - phrasal verbs avanzados
-  - phrasal verbs cae cambridge
-  - phrasal verbs nivel c1 ingles
-  - phrasal verbs registro formal
-  - phrasal verbs profesionales ingles
-  - verbos frasales avanzados
+  - 'Phrasal Verbs C1 Avanzados: Los Más Usados'
+  - 'phrasal verbs avanzados'
 excerpt: >-
   A partir de C1, los phrasal verbs que importan son los que aparecen en contextos formales, académicos y profesionales. No son los más comunes, pero marcan la diferencia entre un inglés competente y uno realmente sofisticado.
 faqs:

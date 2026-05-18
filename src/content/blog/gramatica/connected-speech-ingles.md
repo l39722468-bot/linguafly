@@ -10,14 +10,8 @@ excerpt: >-
   que aprendí", el connected speech tiene mucho que ver. Aquí explico exactamente
   qué ocurre cuando los nativos hablan a velocidad normal.
 keywords:
-  - connected speech inglés
-  - habla conectada inglés
-  - linking inglés
-  - elision inglés
-  - assimilation inglés
-  - pronunciación inglés natural
-  - inglés coloquial sonidos
-  - entender inglés hablado
+  - 'Connected Speech en Inglés: Por Qué No Entiendes'
+  - 'connected speech inglés'
 author: focus-english-team
 date: '2026-02-04'
 updatedDate: '2026-02-04'

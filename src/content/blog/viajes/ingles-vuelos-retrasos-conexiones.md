@@ -10,13 +10,8 @@ excerpt: >-
   bueno saberlo" a "lo necesito ya". Esta guía reúne el vocabulario y las frases
   exactas para cada situación, incluida la reclamación de compensación.
 keywords:
-  - ingles aeropuerto
-  - vuelo retrasado ingles
-  - conexion perdida ingles
-  - ingles reclamar vuelo
-  - ingles problemas aeropuerto
-  - frases ingles vuelos
-  - ingles turistas
+  - 'Inglés en Vuelos: Retrasos, Conexiones y Problemas'
+  - 'ingles problemas aeropuerto'
 author: focus-english-team
 date: '2026-04-18'
 updatedDate: '2026-04-18'

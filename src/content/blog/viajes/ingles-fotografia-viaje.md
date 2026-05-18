@@ -10,16 +10,8 @@ category: viajes
 readTime: 9 min
 alt: Fotógrafo viajero capturando un atardecer desde un mirador
 keywords:
-  - ingles fotografia viaje
-  - pedir foto ingles
-  - vocabulario camara ingles
-  - permisos foto ingles
-  - ingles drone viaje
-  - vocabulario fotografia ingles
-  - ingles para fotografos
-  - pedir que te hagan foto ingles
-  - selfie en ingles
-  - ingles redes sociales viaje
+  - 'Inglés para Fotografía de Viaje'
+  - 'ingles fotografia viaje'
 canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-fotografia-viaje'
 faqs:
   - question: ¿Cómo pido a alguien que me haga una foto en inglés?

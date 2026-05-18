@@ -10,11 +10,8 @@ description: >-
   Proficiency.
 readTime: 5 min
 keywords:
-  - passive reporting verbs
-  - passive of reporting verbs
-  - reporting verbs passive voice
-  - passive reporting structures
-  - reporting passive voice
+  - 'Passive Reporting Verbs: Estructuras'
+  - 'passive of reporting verbs'
 canonical: >-
   https://www.focus-on-english.com/blog/gramatica/passive-reporting-verbs-guia-avanzada
 alt: Estructuras avanzadas de verbos de reporte

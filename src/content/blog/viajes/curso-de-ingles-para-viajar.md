@@ -15,11 +15,8 @@ alt: >-
   Persona sentada en una roca mirando un mapa con el mar de fondo durante un
   viaje
 keywords:
-  - curso de ingles para viajar
-  - aprender ingles para viajar
-  - ingles para turistas
-  - frases en ingles para viajar
-  - mejor curso de ingles para viajar
+  - 'Curso de Inglés para Viajar'
+  - 'mejor curso de ingles para viajar'
 faqs:
   - question: ¿Qué nivel de inglés necesito para viajar?
     answer: >-

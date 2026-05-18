@@ -9,13 +9,8 @@ excerpt: >-
   Guía académica con verbos de acción, descripción de estilos y material de
   práctica.
 keywords:
-  - prendas de ropa en ingles
-  - clothes in english
-  - vocabulario ropa ingles
-  - nombres de ropa en ingles
-  - verbos para ropa ingles
-  - vocabulario ropa ingles pdf
-  - aprender vocabulario ingles
+  - 'Vocabulario de Ropa en Inglés: 150+'
+  - 'vocabulario ropa ingles'
 date: '2026-02-06'
 updatedDate: '2026-03-10'
 category: metodos

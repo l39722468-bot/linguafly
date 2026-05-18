@@ -10,14 +10,8 @@ description: >-
   reuniones de equipo.
 readTime: 5 min
 keywords:
-  - inglés para ingenieros
-  - inglés técnico
-  - vocabulario ingeniería inglés
-  - technical english
-  - inglés para proyectos
-  - technical english for engineers
-  - inglés para soporte
-  - soporte técnico inglés
+  - 'Curso de Inglés para Ingenieros'
+  - 'inglés para ingenieros'
 canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-para-ingenieros'
 related_routes:
   - ingles-para-trabajo

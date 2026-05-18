@@ -10,12 +10,8 @@ description: >-
   desde B2 (200-300h) y qué exámenes lo certifican: CAE, IELTS 7.0 o APTIS C.
 readTime: 9 min
 keywords:
-  - curso ingles c1
-  - nivel c1 ingles que es
-  - como llegar a c1 ingles
-  - diferencia b2 y c1 ingles
-  - focus english c1
-  - curso ingles
+  - 'Nivel C1 de Inglés: Qué Significa'
+  - 'nivel c1 ingles que es'
 canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-c1'
 related_routes:
   - ingles-b2

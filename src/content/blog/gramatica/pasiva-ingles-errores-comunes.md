@@ -10,13 +10,8 @@ excerpt: >-
   mal formados, verbos que no admiten pasiva, el "by" mal puesto... Aquí están
   los más frecuentes y cómo corregirlos de una vez.
 keywords:
-  - errores pasiva ingles
-  - passive voice errores comunes
-  - voz pasiva ingles fallos
-  - errores verbos intransitivos pasiva
-  - participio pasado errores ingles
-  - passive voice mistakes
-  - passive voice practice ejercicios
+  - 'Errores Comunes con la Voz Pasiva'
+  - 'errores pasiva ingles'
 author: focus-english-team
 date: '2026-03-01'
 updatedDate: '2026-03-10'

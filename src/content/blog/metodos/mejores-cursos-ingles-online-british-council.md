@@ -9,11 +9,8 @@ category: metodos
 readTime: 8 min
 alt: 'Logo British Council y estudiante con ordenador'
 keywords:
-  - curso de ingles
-  - mejores cursos de ingles online
-  - british council ingles online
-  - curso ingles online ielts
-  - preparacion ielts british council
+  - 'British Council: cursos online e IELTS'
+  - 'british council ingles online'
 faqs:
   - question: '¿El British Council es solo para IELTS?'
     answer: >-

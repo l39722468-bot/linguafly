@@ -10,14 +10,8 @@ excerpt: >-
   como si fueras su sombra. Es una de las técnicas más efectivas para mejorar
   la pronunciación, el ritmo y la fluidez en inglés. Así se hace bien.
 keywords:
-  - shadowing inglés
-  - técnica shadowing inglés
-  - mejorar pronunciación inglés
-  - imitar nativos inglés
-  - shadowing pronunciación
-  - cómo hacer shadowing inglés
-  - ejercicios pronunciación inglés
-  - hablar inglés como nativo
+  - 'Shadowing en Inglés: La Técnica'
+  - 'técnica shadowing inglés'
 author: focus-english-team
 date: '2026-02-13'
 updatedDate: '2026-02-13'

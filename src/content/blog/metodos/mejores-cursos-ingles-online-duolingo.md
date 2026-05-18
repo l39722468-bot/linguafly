@@ -9,11 +9,8 @@ category: metodos
 readTime: 8 min
 alt: 'App Duolingo en pantalla de móvil'
 keywords:
-  - curso de ingles
-  - mejores cursos de ingles online
-  - duolingo ingles examen
-  - app ingles vs curso online
-  - preparacion ielts seria
+  - 'Duolingo: insuficiente para IELTS solo'
+  - 'duolingo ingles examen'
 faqs:
   - question: '¿Duolingo English Test sustituye a IELTS o TOEFL?'
     answer: >-

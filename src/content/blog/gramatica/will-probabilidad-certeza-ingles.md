@@ -9,13 +9,8 @@ category: gramatica
 alt: Persona reflexionando sobre probabilidades en inglés
 readTime: 8 min
 keywords:
-  - will probabilidad ingles
-  - will certeza ingles
-  - will ingles usos
-  - expresar probabilidad ingles
-  - will predicciones ingles
-  - modales probabilidad ingles
-  - will must should probabilidad ingles
+  - 'Will para Expresar Probabilidad'
+  - 'will probabilidad ingles'
 excerpt: >-
   Will no solo habla del futuro: también expresa certeza y probabilidad alta sobre algo. Aprende cómo funciona y cómo se compara con must, should y might para graduar la seguridad con la que hablas en inglés.
 faqs:

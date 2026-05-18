@@ -9,12 +9,8 @@ category: examenes
 alt: Escala de puntuación del IELTS con números del 0 al 9
 readTime: 6 min
 keywords:
-  - bandas ielts
-  - ielts band scores
-  - ielts puntuacion
-  - que nota necesito ielts
-  - ielts overall band score
-  - como sacar band 7 ielts
+  - 'Bandas del IELTS Explicadas: Qué Significan'
+  - 'bandas ielts'
 excerpt: >-
   El sistema de bandas del IELTS va del 0 al 9 en incrementos de 0,5. Entender qué significa cada nivel y qué diferencia hay entre un 6.0 y un 6.5 te ayuda a saber exactamente en qué trabajar.
 faqs:

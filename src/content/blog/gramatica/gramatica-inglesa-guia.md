@@ -13,19 +13,8 @@ excerpt: >-
   A1 a C2. Elige tu nivel y profundiza en cada estructura con nuestras guías
   especializadas.
 keywords:
-  - gramatica inglesa
-  - gramatica ingles completa
-  - temas gramatica ingles
-  - gramatica ingles por niveles
-  - aprender gramatica ingles
-  - gramatica ingles a1 a c2
-  - estructuras gramaticales ingles
-  - tiempos verbales ingles
-  - phrasal verbs ingles
-  - condicionales ingles
-  - voz pasiva ingles
-  - reported speech ingles
-  - verbos modales ingles
+  - 'Gramática Inglesa'
+  - 'gramatica ingles por niveles'
 readTime: 18 min
 alt: 'Guía completa de gramática inglesa de A1 a C2'
 canonical: 'https://www.focus-on-english.com/blog/gramatica/gramatica-inglesa-guia'

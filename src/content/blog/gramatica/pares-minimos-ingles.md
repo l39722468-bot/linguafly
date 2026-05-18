@@ -10,14 +10,8 @@ excerpt: >-
   sonido. Trabajar con ellos es uno de los métodos más efectivos para afinar
   la percepción auditiva y corregir errores de pronunciación en inglés.
 keywords:
-  - pares minimos ingles
-  - minimal pairs inglés
-  - ejercicios pronunciacion ingles
-  - pares fonemas inglés
-  - distinguir sonidos inglés
-  - entrenamiento auditivo inglés
-  - fonética inglés pares
-  - pronunciar bien inglés
+  - 'Pares Mínimos en Inglés: Ejercicio y Lista'
+  - 'pares minimos ingles'
 author: focus-english-team
 date: '2026-02-20'
 updatedDate: '2026-02-20'

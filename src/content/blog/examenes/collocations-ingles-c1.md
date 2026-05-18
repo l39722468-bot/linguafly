@@ -4,13 +4,8 @@ description: "Guía práctica de collocations de nivel C1 para el CAE: las combi
 readTime: 8 min
 excerpt: "Las collocations son las combinaciones de palabras que los hablantes nativos usan de manera automática. En el CAE, elegir la combinación incorrecta delata un nivel inferior aunque tu gramática sea perfecta."
 keywords:
-  - collocations ingles c1
-  - collocations cae cambridge
-  - colocaciones ingles nivel c1
-  - collocations para el cae
-  - combinaciones palabras ingles avanzado
-  - collocations verbo sustantivo c1
-  - aprender collocations ingles
+  - 'Collocations en Inglés C1'
+  - 'aprender collocations ingles'
 author: focus-english-team
 date: '2026-03-21'
 updatedDate: '2026-03-21'

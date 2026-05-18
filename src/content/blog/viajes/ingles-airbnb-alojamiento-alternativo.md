@@ -10,16 +10,8 @@ category: viajes
 readTime: 10 min
 alt: Viajero haciendo check-in en un apartamento Airbnb moderno
 keywords:
-  - ingles para airbnb
-  - vocabulario airbnb ingles
-  - comunicarse anfitrion ingles
-  - check in airbnb ingles
-  - ingles alojamiento alternativo
-  - ingles hostal viaje
-  - resena airbnb ingles
-  - ingles apartamento turistico
-  - problemas alojamiento ingles
-  - ingles booking viaje
+  - 'Inglés para Airbnb y Alojamiento Alternativo'
+  - 'ingles para airbnb'
 canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-airbnb-alojamiento-alternativo'
 faqs:
   - question: ¿Cómo me comunico con mi anfitrión de Airbnb en inglés?

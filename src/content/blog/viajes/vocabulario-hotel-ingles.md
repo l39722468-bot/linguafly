@@ -10,13 +10,8 @@ excerpt: >-
   tiene un problema? ¿Cómo pides más toallas? Esta guía te da todas las frases
   que necesitas para hoteles en cualquier país anglófono.
 keywords:
-  - ingles para viajar
-  - ingles para hoteles
-  - frases hotel ingles
-  - vocabulario hotel ingles
-  - check-in ingles
-  - como hablar hotel ingles
-  - ingles viajes alojamiento
+  - 'Inglés para Hoteles: Vocabulario'
+  - 'ingles para hoteles'
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-03-10'

@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/examenes/aptis-general-speaking-writing-tips
 readTime: 7 min
 keywords:
-  - aptis general b1
-  - aptis speaking consejos
-  - aptis writing tips
-  - como mejorar aptis general
-  - aptis general trucos puntuacion
-  - aptis b1 b2 estrategias
+  - 'Aptis General: Consejos de Speaking y Writing'
+  - 'aptis speaking consejos'
 faqs:
   - question: ¿Cuántas palabras debo escribir en el Writing del Aptis General?
     answer: >-

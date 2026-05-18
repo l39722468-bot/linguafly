@@ -5,12 +5,8 @@ excerpt: >-
   ¿Te lían los condicionales? Aprende cuándo usar Zero, First, Second y Third
   Conditional con esta guía académica paso a paso y más de 50 ejemplos.
 keywords:
-  - condicionales en ingles
-  - zero conditional
-  - first conditional
-  - second conditional
-  - third conditional
-  - gramatica inglesa
+  - 'Condicionales en Inglés: Zero, 1st, 2nd y 3rd'
+  - 'condicionales en ingles'
 author: focus-english-team
 description: >-
   Condicionales en inglés: guía completa de los cuatro tipos (Zero, First, Second y Third Conditional) con ejemplos, diferencias y ejercicios. Esencial para B1-C1.

@@ -4,13 +4,8 @@ description: "Guía completa de las inversiones en inglés de nivel C1: tipos de
 readTime: 8 min
 excerpt: "Las inversiones son uno de los sellos del inglés avanzado. En el CAE aparecen en el Writing, en el Speaking y casi siempre en las Key Word Transformations. Aprende a usarlas con confianza."
 keywords:
-  - inversiones ingles c1
-  - inversion structures english c1
-  - inversiones cae cambridge
-  - no sooner had ingles
-  - not only but also inversion
-  - inversiones gramatica inglesa avanzada
-  - inversiones uso ingles c1
+  - 'Inversiones en Inglés C1: Domina'
+  - 'inversiones ingles c1'
 author: focus-english-team
 date: '2026-03-23'
 updatedDate: '2026-03-23'

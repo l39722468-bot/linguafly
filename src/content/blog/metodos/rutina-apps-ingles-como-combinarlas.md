@@ -11,15 +11,8 @@ category: metodos
 readTime: 11 min
 alt: Persona organizando su rutina de estudio de inglés con varias apps en el móvil y una agenda
 keywords:
-  - cómo combinar apps para aprender inglés
-  - rutina apps inglés
-  - apps inglés por nivel
-  - mejor rutina para aprender inglés
-  - combinar duolingo anki
-  - apps inglés diarias
-  - plan de estudio inglés apps
-  - rutina inglés principiante
-  - rutina inglés avanzado
+  - 'Cómo Combinar Apps para Aprender'
+  - 'cómo combinar apps para aprender inglés'
 faqs:
   - question: '¿Cuántas apps de inglés debo usar a la vez?'
     answer: >-

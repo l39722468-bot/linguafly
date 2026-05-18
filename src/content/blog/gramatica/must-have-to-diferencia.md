@@ -9,13 +9,8 @@ category: gramatica
 alt: Estudiante aprendiendo la diferencia entre must y have to en inglés
 readTime: 12 min
 keywords:
-  - must have to diferencia ingles
-  - must vs have to
-  - verbos modales obligacion ingles
-  - mustn't don't have to
-  - must ingles usos
-  - have to ingles
-  - obligacion ingles
+  - 'Must vs Have To: La Diferencia'
+  - 'must have to diferencia ingles'
 excerpt: >-
   La diferencia entre must y have to no es solo de forma — cambia quién impone la obligación. Y en negativo, la diferencia es todavía más importante: mustn't y don't have to significan cosas completamente distintas.
 faqs:

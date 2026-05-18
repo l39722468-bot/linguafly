@@ -9,13 +9,8 @@ excerpt: >-
   FSI. Con 1 hora diaria, son unos 2 años. Pero hay factores que lo aceleran
   mucho: te damos el desglose por nivel y el plan de estudio más eficiente.
 keywords:
-  - cuanto se tarda en aprender ingles
-  - tiempo para aprender ingles
-  - niveles ingles mcer
-  - aprender ingles rapido
-  - horas para aprender ingles
-  - ingles b2 tiempo
-  - aprender ingles en 6 meses
+  - '¿Cuánto se tarda en aprender inglés'
+  - 'aprender ingles en 6 meses'
 date: '2024-02-03'
 updatedDate: '2026-03-10'
 category: metodos

@@ -11,13 +11,8 @@ category: gramatica
 readTime: 7 min
 alt: Ciudad india moderna representando el inglés de India en contexto profesional
 keywords:
-  - ingles indio como entenderlo
-  - Indian English caracteristicas
-  - acento indio ingles
-  - pronunciacion ingles india
-  - como entender ingles indio trabajo
-  - Indian English fonética
-  - ingles como segunda lengua india
+  - 'Inglés Indio: Por Qué Suena Diferente'
+  - 'acento indio ingles'
 faqs:
   - question: ¿Hay un único "inglés indio" o son muchos acentos diferentes?
     answer: >-

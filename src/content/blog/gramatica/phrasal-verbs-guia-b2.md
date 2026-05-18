@@ -9,15 +9,8 @@ excerpt: >-
   los verbos más usados y trucos para memorizarlos sin esfuerzo con nuestra
   lista completa.
 keywords:
-  - phrasal verbs b2
-  - lista phrasal verbs
-  - phrasal verbs with take
-  - phrasal verbs mas usados
-  - gramatica b2
-  - ejercicios de verbos en ingles
-  - aprender vocabulario ingles
-  - phrasal verbs ingles
-  - phrasal verbs
+  - 'Phrasal Verbs B2: Lista Definitiva'
+  - 'lista phrasal verbs'
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'

@@ -9,14 +9,8 @@ excerpt: >-
   completo el significado de una palabra. Aquí tienes la guía práctica para
   dominar las vocales cortas y largas sin confundirte.
 keywords:
-  - vocales cortas inglés
-  - vocales largas inglés
-  - vocales inglés IPA
-  - diferencia vocal corta larga
-  - pronunciacion vocales ingles
-  - pares minimos vocales ingles
-  - short vowels english
-  - long vowels english
+  - 'Vocales Cortas y Largas en Inglés'
+  - 'vocales cortas inglés'
 author: focus-english-team
 date: '2026-02-08'
 updatedDate: '2026-02-08'

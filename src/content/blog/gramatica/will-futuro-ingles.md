@@ -9,13 +9,8 @@ category: gramatica
 alt: Estudiante aprendiendo el futuro con will en inglés
 readTime: 8 min
 keywords:
-  - will futuro ingles
-  - will ingles usos
-  - futuro ingles will
-  - predicciones ingles will
-  - como usar will ingles
-  - will shall futuro ingles
-  - will para predicciones ingles
+  - 'Will para el Futuro en Inglés'
+  - 'will futuro ingles'
 excerpt: >-
   Will es el principal auxiliar para expresar el futuro en inglés: predicciones, expectativas, hechos futuros y decisiones en el momento. Aprende cuándo usarlo y cuándo preferir going to.
 faqs:

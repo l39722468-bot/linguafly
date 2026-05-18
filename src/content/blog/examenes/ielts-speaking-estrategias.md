@@ -9,11 +9,8 @@ category: examenes
 alt: Persona hablando con un examinador en una sala de examen
 readTime: 7 min
 keywords:
-  - ielts speaking
-  - ielts speaking part 2
-  - ielts speaking estrategias
-  - como mejorar speaking ielts
-  - ielts band 7 speaking
+  - 'IELTS Speaking: Cómo Preparar las 3'
+  - 'ielts speaking'
 excerpt: >-
   El IELTS Speaking es cara a cara con un examinador humano: 11-14 minutos donde cada pausa larga, cada muletilla repetida y cada frase incompleta cuenta. Pero también tiene una estructura muy predecible que puedes preparar.
 faqs:

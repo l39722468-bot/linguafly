@@ -10,12 +10,8 @@ excerpt: >-
   cancelar con poca antelación o reorganizar horarios con gente de tres países.
   Aquí tienes las fórmulas que funcionan.
 keywords:
-  - email reunión ingles profesional
-  - meeting invitation email ingles
-  - confirmar reunión inglés email
-  - cancelar reunión inglés email
-  - schedule meeting email ingles
-  - meeting request email ingles trabajo
+  - 'Emails para Reuniones en Inglés'
+  - 'meeting request email ingles trabajo'
 author: focus-english-team
 date: '2026-02-24'
 updatedDate: '2026-03-10'

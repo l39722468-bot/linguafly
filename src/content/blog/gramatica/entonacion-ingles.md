@@ -10,14 +10,8 @@ excerpt: >-
   suba o baje la voz al final. La entonación no es solo musicalidad: es
   gramática, actitud y significado. Aquí tienes los patrones clave.
 keywords:
-  - entonación inglés
-  - patrones entonación inglés
-  - melodía inglés
-  - entonación descendente inglés
-  - entonación ascendente inglés
-  - entonación preguntas inglés
-  - intonation inglés
-  - pronunciación inglés natural
+  - 'Entonación en Inglés: Cómo'
+  - 'entonación inglés'
 author: focus-english-team
 date: '2026-02-07'
 updatedDate: '2026-02-07'

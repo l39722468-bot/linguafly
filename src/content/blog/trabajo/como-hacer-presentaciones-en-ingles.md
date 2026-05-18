@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/como-hacer-presentaciones-en-ingles
 readTime: 5 min
 keywords:
-  - presentaciones en ingles
-  - como hacer una presentacion en ingles
-  - frases para presentaciones ingles
-  - vocabulario presentaciones ingles
-  - conectores presentacion ingles
-  - hablar en publico ingles
+  - 'Cómo Hacer Presentaciones en Inglés'
+  - 'presentaciones en ingles'
 faqs:
   - question: ¿Cómo empiezo una presentación en inglés si estoy muy nervioso?
     answer: >-

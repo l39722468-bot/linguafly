@@ -4,13 +4,8 @@ description: "Guía práctica del Use of English C1 Advanced: cómo abordar el o
 readTime: 8 min
 excerpt: "El Use of English del CAE es donde se gana o se pierde el examen. Aprende a leer cada parte de manera diferente y evita los errores que cometen la mayoría de candidatos."
 keywords:
-  - use of english c1 ejercicios
-  - use of english c1 tips
-  - cae reading use of english
-  - open cloze c1 advanced
-  - multiple choice cloze c1
-  - word formation cae parte 3
-  - key word transformation c1
+  - 'Use of English C1: Ejercicios'
+  - 'cae reading use of english'
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-05'

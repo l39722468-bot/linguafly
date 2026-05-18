@@ -9,12 +9,8 @@ excerpt: >-
   tan suave que no surte efecto. Aquí tienes la fórmula para que sea firme,
   profesional y conseguir lo que buscas.
 keywords:
-  - email queja ingles profesional
-  - complaint email ingles
-  - como escribir queja en ingles
-  - reclamacion ingles correo
-  - complaint letter ingles ejemplos
-  - email formal queja ingles
+  - 'Cómo Escribir un Email de Queja'
+  - 'como escribir queja en ingles'
 author: focus-english-team
 date: '2026-02-09'
 updatedDate: '2026-03-10'

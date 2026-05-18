@@ -10,14 +10,8 @@ excerpt: >-
   entiendan, aunque todas las demás consonantes y vocales sean perfectas. Aquí
   tienes las reglas principales para acertar con el acento de palabra.
 keywords:
-  - word stress inglés
-  - acento palabra inglés
-  - sílaba tónica inglés
-  - reglas acento inglés
-  - stress ingles palabras
-  - acento léxico inglés
-  - pronunciacion inglés sílabas
-  - sufijos acento inglés
+  - 'El Acento de Palabra en Inglés'
+  - 'acento palabra inglés'
 author: focus-english-team
 date: '2026-02-17'
 updatedDate: '2026-02-17'

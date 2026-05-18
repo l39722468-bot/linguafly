@@ -11,12 +11,8 @@ excerpt: >-
   las preguntas que muestran que has investigado, que tienes criterio y que
   tomas la decisión de forma profesional.
 keywords:
-  - preguntas para hacer al entrevistador ingles
-  - questions to ask interviewer english
-  - que preguntar entrevista trabajo ingles
-  - preguntas inteligentes entrevista ingles
-  - do you have any questions ingles entrevista
-  - preguntas finales entrevista ingles
+  - 'Preguntas para Hacer al Entrevistador'
+  - 'preguntas para hacer al entrevistador ingles'
 author: focus-english-team
 date: '2026-02-17'
 updatedDate: '2026-03-12'

@@ -10,13 +10,8 @@ excerpt: >-
   malentendidos, mejorará tus relaciones y te hará sentir como en casa en EE.UU.
   Guía de choques culturales y cómo superarlos.
 keywords:
-  - cultura anglosajona
-  - cultura americana
-  - diferencias culturales eeuu espana
-  - etiqueta estados unidos
-  - costumbres americanas
-  - choque cultural america
-  - vivir en estados unidos hispanohablante
+  - 'Cultura Americana vs Española'
+  - 'cultura americana'
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-10'

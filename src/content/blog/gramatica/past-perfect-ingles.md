@@ -9,15 +9,8 @@ category: gramatica
 alt: Línea de tiempo mostrando el Past Perfect en relación al Past Simple
 readTime: 9 min
 keywords:
-  - past perfect ingles
-  - had participio ingles
-  - past perfect ejemplos
-  - cuando usar past perfect
-  - past perfect vs past simple
-  - pluscuamperfecto ingles
-  - past perfect cuándo se usa
-  - past perfect continuous
-  - participios irregulares ingles
+  - 'Past Perfect en Inglés: Cuándo Usarlo'
+  - 'past perfect ingles'
 excerpt: >-
   El Past Perfect (had + participio) expresa algo que ocurrió antes que otra cosa en el pasado. Es el tiempo que aclara el orden de los eventos cuando dos cosas pasaron en momentos distintos del pasado.
 faqs:

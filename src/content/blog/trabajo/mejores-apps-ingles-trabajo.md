@@ -10,14 +10,8 @@ excerpt: >-
   profesional. Desde reuniones hasta redacción de emails, te ayudamos a elegir
   la herramienta adecuada para tu sector.
 keywords:
-  - apps ingles trabajo
-  - business english apps
-  - aprender ingles profesional
-  - focus english para empresas
-  - ingles para negocios app
-  - herramientas ingles corporativo
-  - estudiar ingles oficina
-  - mejor app ingles negocios
+  - 'Mejores Apps para aprender Inglés'
+  - 'apps ingles trabajo'
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 category: trabajo

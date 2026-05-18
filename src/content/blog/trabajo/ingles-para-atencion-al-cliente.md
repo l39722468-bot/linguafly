@@ -10,14 +10,8 @@ description: >-
   excelente.
 readTime: 6 min
 keywords:
-  - inglés para atención al cliente
-  - inglés para soporte
-  - customer service english
-  - frases atención al cliente inglés
-  - soporte técnico inglés
-  - atención al cliente inglés
-  - reclamaciones en ingles
-  - atención telefónica ingles
+  - 'Inglés para Atención al Cliente: 50+'
+  - 'inglés para atención al cliente'
 canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-para-atencion-al-cliente'
 related_routes:
   - ingles-para-trabajo

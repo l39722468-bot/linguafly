@@ -10,13 +10,8 @@ excerpt: >-
   o Glasgow son cosas muy diferentes. Descubre el slang británico más usado y
   sorprende a cualquier inglés.
 keywords:
-  - slang in english
-  - slang ingles britanico
-  - expresiones britanicas ingles
-  - british slang
-  - ingles coloquial britanico
-  - vocabulario informal ingles
-  - expresiones tipicas reino unido
+  - 'Slang Inglés Británico: 60'
+  - 'slang ingles britanico'
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-03-10'

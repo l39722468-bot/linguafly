@@ -10,11 +10,8 @@ description: >-
   Speaking.
 readTime: 5 min
 keywords:
-  - reporting verbs list pdf
-  - reporting verb patterns
-  - reporting verbs c1
-  - verbos del reported speech
-  - reporting verbs and structures
+  - 'Reporting Verbs Patterns: Lista Completa'
+  - 'reporting verbs c1'
 canonical: 'https://www.focus-on-english.com/blog/gramatica/reporting-verbs-patterns-list'
 alt: Lista de patrones de verbos de reporte
 faqs:

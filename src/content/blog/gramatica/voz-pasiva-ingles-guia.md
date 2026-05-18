@@ -7,17 +7,8 @@ excerpt: >-
   estructuras avanzadas como las pasivas impersonales y causativas, con ejemplos
   diseñados para exámenes oficiales.
 keywords:
-  - passive voice examples
-  - the passive voice
-  - examples of passive voice
-  - voz pasiva en ingles
-  - gramatica b1 b2
-  - ejercicios de gramatica en ingles
-  - practicar gramatica ingles
-  - passive voice practice ejercicios
-  - causative have get
-  - impersonal passive english
-  - voz pasiva ingles
+  - 'La Voz Pasiva en Inglés'
+  - 'voz pasiva en ingles'
 date: '2026-03-02'
 updatedDate: '2026-03-21'
 category: gramatica

@@ -11,12 +11,8 @@ category: metodos
 readTime: 15 min
 alt: Persona viendo una serie en versión original con subtítulos en inglés
 keywords:
-  - mejores peliculas series ingles
-  - series para aprender ingles
-  - peliculas para aprender ingles
-  - ver series en ingles
-  - aprender ingles con netflix
-  - series ingles nivel b2
+  - 'Las Mejores Películas y Series'
+  - 'mejores peliculas series ingles'
 faqs:
   - question: ¿Es efectivo aprender inglés viendo series?
     answer: >-

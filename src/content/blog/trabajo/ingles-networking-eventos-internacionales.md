@@ -15,13 +15,8 @@ alt: >-
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-networking-eventos-internacionales
 keywords:
-  - clases de inglés
-  - networking en inglés
-  - small talk inglés
-  - eventos profesionales internacionales
-  - elevator pitch inglés
-  - inglés para negocios
-  - frases networking inglés
+  - 'Networking en Inglés'
+  - 'frases networking inglés'
 faqs:
   - question: ¿De qué puedo hablar en el 'small talk'?
     answer: >-

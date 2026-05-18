@@ -11,13 +11,8 @@ excerpt: >-
   características te da una base sólida para el inglés americano, más allá de
   lo que dicen los libros de texto.
 keywords:
-  - general american acento
-  - inglés americano estándar
-  - acento americano neutro
-  - pronunciación inglés americano
-  - midwest accent inglés
-  - inglés americano características
-  - aprender acento americano
+  - 'General American: El Acento'
+  - 'general american acento'
 author: focus-english-team
 date: '2026-02-06'
 updatedDate: '2026-02-06'

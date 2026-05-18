@@ -10,12 +10,8 @@ excerpt: >-
   ¿Mezclas el segundo y el tercer condicional? Aquí están los errores que
   más cuestan puntos en exámenes y credibilidad en conversación.
 keywords:
-  - errores condicionales ingles
-  - condicionales ingles errores frecuentes
-  - will after if ingles
-  - gramatica inglesa errores
-  - condicionales ingles ejercicios corrección
-  - fallos condicionales b1 b2
+  - 'Errores Comunes con los Condicionales'
+  - 'errores condicionales ingles'
 author: focus-english-team
 date: '2026-02-25'
 updatedDate: '2026-03-10'

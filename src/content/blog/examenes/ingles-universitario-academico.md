@@ -11,12 +11,8 @@ category: examenes
 readTime: 17 min
 alt: Estudiante universitario tomando apuntes en una biblioteca con libros en inglés
 keywords:
-  - ingles universitario academico
-  - ingles academico escritura
-  - ensayo universitario ingles
-  - ingles para estudiantes universitarios
-  - academic english
-  - escribir en ingles universidad
+  - 'Inglés Universitario y Académico'
+  - 'ingles universitario academico'
 faqs:
   - question: ¿Qué nivel de inglés se necesita para estudiar en una universidad anglofona?
     answer: >-

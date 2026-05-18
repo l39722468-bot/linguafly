@@ -11,13 +11,8 @@ category: gramatica
 readTime: 8 min
 alt: Persona practicando pronunciación frente a un espejo
 keywords:
-  - sonido th ingles
-  - como pronunciar th en ingles
-  - th sorda ingles
-  - th sonora ingles
-  - theta ingles pronunciacion
-  - diferencia think this pronunciacion
-  - fonema th hispanohablantes
+  - 'El Sonido TH en Inglés: Cómo'
+  - 'sonido th ingles'
 faqs:
   - question: ¿Cuál es la diferencia entre el TH de "think" y el de "this"?
     answer: >-

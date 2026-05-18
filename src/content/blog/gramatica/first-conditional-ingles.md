@@ -9,12 +9,8 @@ excerpt: >-
   Aprende a usarlo para negociar, hacer advertencias y expresar condiciones
   con matices reales.
 keywords:
-  - first conditional ingles
-  - primer condicional ingles
-  - first conditional ejemplos
-  - if present simple will
-  - ejercicios first conditional
-  - condicionales ingles b1
+  - 'First Conditional en Inglés: Usos Reales'
+  - 'first conditional ingles'
 author: focus-english-team
 date: '2026-02-07'
 updatedDate: '2026-03-10'

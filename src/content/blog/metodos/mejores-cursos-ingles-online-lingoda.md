@@ -9,11 +9,8 @@ category: metodos
 readTime: 8 min
 alt: 'Clase grupal de inglés online'
 keywords:
-  - curso de ingles
-  - mejores cursos de ingles online
-  - lingoda opinion
-  - clases ingles online grupo
-  - curso ingles intensivo online
+  - 'Lingoda: grupos en vivo y exámenes'
+  - 'lingoda opinion'
 faqs:
   - question: '¿Lingoda prepara específicamente para IELTS o Cambridge?'
     answer: >-

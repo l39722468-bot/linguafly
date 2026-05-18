@@ -4,13 +4,8 @@ description: "Guía completa del Listening del C1 Advanced (CAE): cómo preparar
 readTime: 7 min
 excerpt: "El Listening del CAE sorprende a muchos candidatos porque los audios son más rápidos y complejos de lo que esperaban. Con la preparación adecuada, puede convertirse en una de tus partes más fuertes."
 keywords:
-  - listening cae consejos
-  - listening c1 advanced trucos
-  - como preparar listening cae
-  - sentence completion cae listening
-  - multiple choice listening cae
-  - acentos ingles listening cae
-  - preparar listening cambridge c1
+  - 'Listening C1 Advanced: Estrategias'
+  - 'listening c1 advanced trucos'
 author: focus-english-team
 date: '2026-03-09'
 updatedDate: '2026-03-09'

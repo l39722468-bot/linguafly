@@ -9,13 +9,8 @@ category: gramatica
 alt: Estudiante aprendiendo los semi-modales en inglés como used to y be able to
 readTime: 7 min
 keywords:
-  - semi-modales ingles
-  - used to ingles
-  - be able to ingles
-  - need to ingles
-  - had better ingles
-  - be supposed to ingles
-  - verbos modales ingles
+  - 'Semi-modales en Inglés: Used To, Need y Dare'
+  - 'semi-modales ingles'
 excerpt: >-
   Los semi-modales son verbos que se comportan como modales en significado pero se conjugan como verbos normales. Son imprescindibles porque cubren huecos que los modales puros no pueden llenar: pasado, futuro, infinitivo...
 faqs:

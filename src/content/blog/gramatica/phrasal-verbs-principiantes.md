@@ -9,15 +9,8 @@ excerpt: >-
   más usados en inglés con ejemplos sencillos, traducciones y ejercicios para
   nivel A1 y A2.
 keywords:
-  - phrasal verbs para principiantes
-  - phrasal verbs basicos
-  - phrasal verbs nivel a2
-  - verbos frasales faciles ingles
-  - phrasal verbs cotidianos
-  - como aprender phrasal verbs
-  - verbos con particulas ingles
-  - phrasal verbs ingles
-  - phrasal verbs
+  - 'Phrasal Verbs para Principiantes'
+  - 'phrasal verbs'
 author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-03-10'

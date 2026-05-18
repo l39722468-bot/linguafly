@@ -10,12 +10,8 @@ excerpt: >-
   que acepten menos de lo que merecen. Aquí tienes las frases exactas y la
   estrategia para negociar sin tensión y con más posibilidades de éxito.
 keywords:
-  - negociar salario ingles
-  - salary negotiation english
-  - salary expectations ingles como responder
-  - negociacion salarial ingles frases
-  - como pedir aumento salario ingles
-  - what are your salary expectations ingles
+  - 'Cómo Negociar el Salario en Inglés'
+  - 'negociar salario ingles'
 author: focus-english-team
 date: '2026-02-14'
 updatedDate: '2026-03-12'

@@ -9,11 +9,8 @@ excerpt: >-
   reuniones, presentaciones y networking internacional con nuestra guía
   completa.
 keywords:
-  - vocabulario de negocios en ingles
-  - business english phrases
-  - ingles comercial gratis
-  - frases para reuniones en ingles
-  - vocabulario empresarial ingles
+  - 'Vocabulario de Negocios en Inglés: 100+'
+  - 'vocabulario de negocios en ingles'
 author: focus-english-team
 date: '2026-02-06'
 updatedDate: '2026-03-10'

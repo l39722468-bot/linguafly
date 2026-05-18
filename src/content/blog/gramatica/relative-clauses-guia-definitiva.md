@@ -8,11 +8,8 @@ excerpt: >-
   Domina las oraciones de relativo en inglés. Aprende cuándo usar comas, cuándo
   omitir el pronombre y descarga nuestra guía de referencia rápida.
 keywords:
-  - relative clauses examples
-  - defining and non defining relative clauses
-  - relative pronouns english
-  - uso de who whom whose
-  - gramatica b2 c1
+  - 'Relative Clauses en Inglés'
+  - 'defining and non defining relative clauses'
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'

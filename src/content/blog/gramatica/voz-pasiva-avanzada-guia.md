@@ -9,11 +9,8 @@ excerpt: >-
   los exámenes C1 Advanced y C2 Proficiency: 'it is said that', 'have something
   done' y más.
 keywords:
-  - voz pasiva avanzada ingles
-  - impersonal passive examples
-  - have something done grammar
-  - it is said that passive
-  - voz pasiva ingles
+  - 'Voz Pasiva Avanzada: Estructuras'
+  - 'voz pasiva avanzada ingles'
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'

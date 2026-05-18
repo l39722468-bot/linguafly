@@ -8,11 +8,8 @@ excerpt: >-
   Descubre cómo aprender inglés sin tiempo con el micro-learning. 5 estrategias
   prácticas para integrar el inglés en tu rutina diaria y avanzar rápido.
 keywords:
-  - aprender ingles sin tiempo
-  - micro-learning ingles
-  - estudiar ingles rapido
-  - como aprender ingles gratis
-  - mejorar ingles
+  - 'Cómo estudiar inglés sin tiempo: 5 ideas prácticas'
+  - 'aprender ingles sin tiempo'
 date: '2024-02-03'
 updatedDate: '2026-03-10'
 category: metodos

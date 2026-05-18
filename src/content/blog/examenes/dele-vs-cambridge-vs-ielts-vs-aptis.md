@@ -14,14 +14,8 @@ excerpt: >-
   Te explicamos cuál elegir según tu objetivo: oposición, trabajo, estudio en
   el extranjero o habilitación docente. Precios y reconocimiento en 2026.
 keywords:
-  - que certificado de ingles elegir
-  - cambridge vs ielts cual es mejor
-  - aptis vs cambridge
-  - certificados de ingles comparativa 2026
-  - mejor certificacion ingles espana
-  - dele ingles vs cambridge
-  - eoi vs cambridge ingles
-  - certificado ingles oposiciones
+  - 'DELE vs Cambridge vs IELTS vs APTIS'
+  - 'aptis vs cambridge'
 alt: 'Diplomas y certificados de inglés comparados sobre una mesa de trabajo'
 canonical: 'https://www.focus-on-english.com/blog/examenes/dele-vs-cambridge-vs-ielts-vs-aptis'
 faqs:

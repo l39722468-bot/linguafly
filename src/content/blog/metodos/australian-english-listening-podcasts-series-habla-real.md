@@ -9,11 +9,8 @@ description: >-
   materiales, niveles, subtítulos y progresión semana a semana.
 readTime: 22 min
 keywords:
-  - australian english fonética
-  - listening inglés australiano
-  - podcasts australia inglés
-  - comprensión auditiva acento
-  - series inglés australia
+  - 'Listening de inglés australiano'
+  - 'listening inglés australiano'
 alt: Auriculares sobre mesa
 excerpt: >-
   Guía práctica para acostumbrar el oído al inglés de Australia sin frustración:

@@ -9,12 +9,8 @@ excerpt: >-
   hacer un seguimiento en inglés de forma profesional puede marcar la diferencia
   entre cerrar un trato y que el correo muera en la bandeja de entrada.
 keywords:
-  - follow up email ingles
-  - email seguimiento ingles profesional
-  - como hacer seguimiento por email ingles
-  - follow up correo ingles
-  - no response follow up email ingles
-  - email recordatorio ingles trabajo
+  - 'Follow-Up Email en Inglés: Cómo Hacer'
+  - 'follow up email ingles'
 author: focus-english-team
 date: '2026-02-12'
 updatedDate: '2026-03-10'

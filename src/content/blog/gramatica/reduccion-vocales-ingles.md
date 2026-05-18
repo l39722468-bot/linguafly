@@ -10,14 +10,8 @@ excerpt: >-
   se reducen, casi siempre al schwa /ə/. Entender esto transforma cómo escuchas
   y cómo hablas. Aquí tienes todo lo que necesitas saber.
 keywords:
-  - reducción vocálica inglés
-  - schwa inglés
-  - vocales no acentuadas inglés
-  - formas débiles inglés
-  - pronunciación natural inglés
-  - fonética inglés schwa
-  - sonidos reducidos inglés
-  - comprensión auditiva inglés
+  - 'Reducción Vocálica en Inglés'
+  - 'reducción vocálica inglés'
 author: focus-english-team
 date: '2026-02-16'
 updatedDate: '2026-02-16'

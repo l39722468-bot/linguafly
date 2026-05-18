@@ -11,13 +11,8 @@ category: gramatica
 readTime: 8 min
 alt: Persona con auriculares entrenando la comprensión auditiva del inglés
 keywords:
-  - como entender acentos ingles
-  - entrenar oido diferentes acentos inglés
-  - comprension auditiva acentos ingles
-  - por que no entiendo acentos ingles
-  - listening acentos variados ingles
-  - acostumbrarse acentos inglés
-  - mejorar listening acentos regionales ingles
+  - 'Cómo Entrenar el Oído para Entender'
+  - 'como entender acentos ingles'
 faqs:
   - question: ¿Por qué entiendo bien el inglés americano pero no el australiano o el escocés?
     answer: >-

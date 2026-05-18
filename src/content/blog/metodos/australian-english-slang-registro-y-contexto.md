@@ -9,11 +9,8 @@ description: >-
   contextos profesionales y cómo combinar comprensión auditiva con producción prudente.
 readTime: 22 min
 keywords:
-  - australian english fonética
-  - australian slang inglés
-  - coloquialismo australiano
-  - registro inglés informal
-  - inglés australia trabajo
+  - 'Australian slang: registro, contexto'
+  - 'australian slang inglés'
 alt: Café urbano en Australia ambiente casual
 excerpt: >-
   Aprende a entender slang australiano sin convertirte en caricatura: matices

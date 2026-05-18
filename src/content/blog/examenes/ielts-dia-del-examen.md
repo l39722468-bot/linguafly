@@ -9,11 +9,8 @@ category: examenes
 alt: Reloj de pulsera y bolígrafo sobre un escritorio el día del examen
 readTime: 6 min
 keywords:
-  - dia del examen ielts
-  - que llevar al ielts
-  - como es el dia del ielts
-  - nervios examen ielts
-  - preparacion dia examen ingles
+  - 'El Día del Examen IELTS: Qué Esperar'
+  - 'dia del examen ielts'
 excerpt: >-
   Llevar meses preparándote para el IELTS y cometer un error de logística el día del examen es más frecuente de lo que parece. Esta guía cubre todo lo que necesitas saber para que nada te sorprenda.
 faqs:

@@ -14,24 +14,8 @@ excerpt: >-
   negociación o una presentación internacional. Aquí tienes el vocabulario,
   las frases y las estrategias que realmente usa un profesional en entornos globales.
 keywords:
-  - inglés para el trabajo
-  - inglés profesional
-  - inglés de negocios
-  - entrevista de trabajo en inglés
-  - vocabulario empresarial inglés
-  - business english
-  - método star inglés
-  - preparar entrevista inglés
-  - job interview english
-  - cv en inglés ejemplos
-  - trabajo remoto inglés
-  - business english course
-  - aprender inglés para negocios
-  - inglés para ejecutivos
-  - networking en inglés
-  - presentaciones en inglés
-  - negociación en inglés
-  - reuniones en inglés
+  - 'Inglés para el Trabajo: Cómo Destacar'
+  - 'inglés para el trabajo'
 canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-para-trabajo'
 related_routes:
   - ingles-b1

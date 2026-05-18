@@ -10,13 +10,8 @@ excerpt: >-
   tres motivos por los que te pierdes: velocidad, conexión de sonidos y falta de
   exposición ordenada.
 keywords:
-  - mejorar listening ingles
-  - tecnicas listening ingles
-  - como entender ingles rapido
-  - comprension auditiva ingles
-  - entrenar oido ingles
-  - listening ingles sin subtitulos
-  - ejercicios listening ingles
+  - 'Cómo Mejorar el Listening en Inglés: 7 Técnicas'
+  - 'mejorar listening ingles'
 author: focus-english-team
 date: '2026-04-16'
 updatedDate: '2026-04-16'

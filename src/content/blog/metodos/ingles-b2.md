@@ -10,12 +10,8 @@ description: >-
   profesional.
 readTime: 5 min
 keywords:
-  - curso inglés b2
-  - nivel b2 ingles que es
-  - fluidez inglés avanzado
-  - como llegar al nivel b2 ingles
-  - diferencia b1 y b2 ingles
-  - curso ingles
+  - 'Curso de Inglés B2: Prepárate'
+  - 'curso inglés b2'
 canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-b2'
 related_routes:
   - ingles-b1

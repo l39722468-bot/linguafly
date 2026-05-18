@@ -9,11 +9,8 @@ category: examenes
 alt: Persona escribiendo un ensayo en papel para el examen IELTS
 readTime: 8 min
 keywords:
-  - ielts writing task 2
-  - ielts essay estructura
-  - ielts opinion essay
-  - ielts writing band 7
-  - como escribir ensayo ielts
+  - 'IELTS Writing Task 2: Estructura'
+  - 'ielts writing task 2'
 excerpt: >-
   El Task 2 vale el doble que el Task 1 y es donde se ganan o se pierden las bandas que necesitas. Entender qué tipo de pregunta te está haciendo y cómo estructurar la respuesta marca toda la diferencia.
 faqs:

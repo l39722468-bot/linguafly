@@ -9,13 +9,8 @@ category: gramatica
 alt: Dos personas hablando en inglés, uno haciendo un ofrecimiento
 readTime: 7 min
 keywords:
-  - will ofrecimientos ingles
-  - will peticiones ingles
-  - will ingles usos
-  - como ofrecer ayuda en ingles
-  - will para pedir algo ingles
-  - will you ingles peticion
-  - ofrecer ayuda ingles will
+  - 'Will para Ofrecimientos y Peticiones'
+  - 'will ofrecimientos ingles'
 excerpt: >-
   Will en inglés sirve para hacer ofrecimientos espontáneos y peticiones directas. Aprende las estructuras más usadas, cómo sonar natural y la diferencia entre will y would en estos contextos.
 faqs:

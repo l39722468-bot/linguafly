@@ -9,12 +9,8 @@ category: trabajo
 readTime: 17 min
 alt: Agente inmobiliario mostrando una propiedad moderna a clientes internacionales
 keywords:
-  - ingles real estate inmobiliario
-  - vocabulario inmobiliario ingles
-  - ingles sector inmobiliario
-  - real estate ingles
-  - ingles para agentes inmobiliarios
-  - compraventa inmobiliaria ingles
+  - 'Inglés para Real Estate'
+  - 'real estate ingles'
 faqs:
   - question: ¿Cuál es la diferencia entre "Real Estate" y "Property"?
     answer: >-

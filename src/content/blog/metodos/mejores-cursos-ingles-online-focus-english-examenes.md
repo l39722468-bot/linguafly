@@ -9,11 +9,8 @@ category: metodos
 readTime: 9 min
 alt: 'Persona leyendo artículos de inglés en el portátil'
 keywords:
-  - curso de ingles
-  - mejores cursos de ingles online
-  - blog ingles examenes
-  - recursos gratis preparacion ielts
-  - guias cambridge ingles
+  - 'Focus English: blog (no curso de pago)'
+  - 'curso de ingles'
 faqs:
   - question: '¿Focus English vende un curso de inglés online?'
     answer: >-

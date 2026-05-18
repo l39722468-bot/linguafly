@@ -15,10 +15,8 @@ category: examenes
 readTime: 12 min
 alt: Estudiante sonriente celebrando sus resultados académicos
 keywords:
-  - aptis a2
-  - examen aptis
-  - puntuacion aptis
-  - british council aptis
+  - 'Aptis A2: Estructura del Examen'
+  - 'aptis a2'
 faqs:
   - question: ¿Qué diferencia hay entre Aptis General y Aptis A2?
     answer: >-

@@ -17,13 +17,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/examenes/preparar-ielts-desde-b2
 readTime: 6 min
 keywords:
-  - preparar ielts 2026
-  - como preparar ielts desde cero
-  - ielts guia preparacion
-  - plan estudio ielts 12 semanas
-  - ielts plan de estudio
-  - guia completa ielts 2026
-  - ielts desde b2
+  - 'Cómo Preparar el IELTS desde B2 en 3 Meses'
+  - 'ielts desde b2'
 faqs:
   - question: ¿Cuántas veces puedo presentarme al IELTS?
     answer: >-

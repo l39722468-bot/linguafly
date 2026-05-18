@@ -8,11 +8,8 @@ excerpt: >-
   ¿Vas a estudiar fuera o necesitas un visado? Te ayudamos a decidir entre IELTS
   y TOEFL analizando sus formatos, costes y niveles de dificultad.
 keywords:
-  - ielts vs toefl diferencias
-  - cual es mas facil ielts o toefl
-  - examen de ingles para estados unidos
-  - ielts para reino unido
-  - certificaciones oficiales ingles
+  - 'IELTS vs TOEFL: Diferencias y Cuál Elegir'
+  - 'ielts vs toefl diferencias'
 date: '2025-02-05'
 updatedDate: '2026-03-10'
 category: examenes

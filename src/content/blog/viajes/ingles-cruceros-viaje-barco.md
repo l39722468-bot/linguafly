@@ -10,16 +10,8 @@ category: viajes
 readTime: 11 min
 alt: Gran crucero atracado en un puerto mediterráneo con viajeros embarcando
 keywords:
-  - ingles para cruceros
-  - vocabulario crucero ingles
-  - ingles viaje en barco
-  - embarque crucero ingles
-  - excursiones puerto ingles
-  - camarote crucero ingles
-  - ingles a bordo barco
-  - vocabulario maritimo viajeros
-  - ingles buffet crucero
-  - seguridad crucero ingles
+  - 'Inglés para Cruceros y Viajes en Barco'
+  - 'ingles para cruceros'
 canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-cruceros-viaje-barco'
 faqs:
   - question: ¿Necesito buen nivel de inglés para un crucero?

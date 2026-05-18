@@ -10,11 +10,8 @@ excerpt: >-
   Analizamos qué diferencia real hay entre apps gratuitas y de suscripción
   para cada nivel de inglés, con datos reales de progresión.
 keywords:
-  - duolingo gratis vs premium vale la pena
-  - aplicaciones ingles de pago
-  - focus english vs duolingo
-  - mejor inversion aprender ingles
-  - duolingo plus merece la pena
+  - 'Apps de Inglés Gratis vs. de Pago'
+  - 'aplicaciones ingles de pago'
 date: '2026-03-02'
 updatedDate: '2026-03-21'
 category: metodos

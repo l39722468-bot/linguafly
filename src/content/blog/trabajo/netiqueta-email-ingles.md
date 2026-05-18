@@ -10,12 +10,8 @@ excerpt: >-
   sin saberlo. La netiqueta del email profesional en inglés tiene sus propias
   reglas, y no siempre son obvias para los hablantes no nativos.
 keywords:
-  - netiqueta email ingles profesional
-  - email etiqueta profesional ingles
-  - buenas practicas email ingles trabajo
-  - email profesional ingles normas
-  - como no sonar rudo email ingles
-  - email etiquette ingles
+  - 'Netiqueta en Emails en Inglés: Lo'
+  - 'netiqueta email ingles profesional'
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'

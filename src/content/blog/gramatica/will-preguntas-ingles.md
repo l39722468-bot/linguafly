@@ -9,13 +9,8 @@ category: gramatica
 alt: Estudiante practicando preguntas con will en inglés
 readTime: 7 min
 keywords:
-  - preguntas con will ingles
-  - will preguntas ingles
-  - will ingles usos
-  - como hacer preguntas futuro ingles
-  - will interrogativo ingles
-  - will questions ingles ejemplos
-  - will tag questions ingles
+  - 'Preguntas con Will en Inglés: Cómo'
+  - 'preguntas con will ingles'
 excerpt: >-
   Hacer preguntas con will en inglés es más sencillo de lo que parece: solo inviertes el sujeto y el auxiliar. Aprende la estructura, los tipos de preguntas y cómo sonar natural en inglés.
 faqs:

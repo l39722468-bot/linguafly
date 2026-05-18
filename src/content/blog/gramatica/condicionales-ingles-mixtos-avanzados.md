@@ -10,11 +10,8 @@ excerpt: >-
   Aprende cuándo y cómo usarlos con esta guía avanzada llena de ejemplos reales
   y ejercicios resueltos.
 keywords:
-  - ejercicios condicionales ingles
-  - condicionales mixtos ingles
-  - mixed conditionals english
-  - condicionales avanzados ingles
-  - condicionales tipo a tipo b
+  - 'Condicionales Mixtos en Inglés'
+  - 'condicionales mixtos ingles'
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-10'

@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/vocabulario-ingles-medico-enfermeria
 readTime: 5 min
 keywords:
-  - ingles medico
-  - vocabulario ingles medico enfermeria
-  - ingles para enfermeras
-  - medical english enfermeria
-  - frases ingles hospital
-  - terminologia medica ingles
+  - 'Vocabulario de Inglés Médico'
+  - 'vocabulario ingles medico enfermeria'
 faqs:
   - question: ¿Qué nivel de inglés necesita una enfermera para trabajar en el extranjero?
     answer: >-

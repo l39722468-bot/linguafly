@@ -9,11 +9,8 @@ description: >-
   que escuchan inglés australiano: método, ejemplos y progresión.
 readTime: 22 min
 keywords:
-  - australian english fonética
-  - minimal pairs inglés
-  - discriminación auditiva inglés
-  - pares mínimos pronunciación
-  - listening entrenamiento B2
+  - 'Minimal pairs y discriminación'
+  - 'minimal pairs inglés'
 alt: Estudiante con auriculares tomando apuntes
 excerpt: >-
   Cómo usar minimal pairs sin convertir el estudio en suplicio: criterios,

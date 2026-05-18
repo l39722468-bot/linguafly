@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-emails-trabajo-errores-comunes
 readTime: 5 min
 keywords:
-  - emails profesionales ingles
-  - errores emails ingles trabajo
-  - como mejorar emails ingles
-  - correos formales ingles errores
-  - netiqueta ingles profesional
-  - ingles escrito trabajo
+  - '10 Errores en Emails Profesionales'
+  - 'errores emails ingles trabajo'
 faqs:
   - question: ¿Es correcto usar "Dear All" para dirigirse a un grupo?
     answer: >-

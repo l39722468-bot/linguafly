@@ -10,12 +10,8 @@ excerpt: >-
   usarlos sin que suene a ejercicio de clase. Aquí te damos las frases,
   situaciones y trucos para que fluyan en conversación real.
 keywords:
-  - condicionales ingles conversacion
-  - hablar ingles condicionales
-  - frases condicionales ingles
-  - condicionales speaking ingles
-  - usar condicionales ingles b1 b2
-  - ingles oral condicionales
+  - 'Condicionales en Inglés en Conversación Real'
+  - 'condicionales ingles conversacion'
 author: focus-english-team
 date: '2026-02-22'
 updatedDate: '2026-03-10'

@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/preguntas-dificiles-entrevista-trabajo-ingles
 readTime: 6 min
 keywords:
-  - entrevista de trabajo en ingles
-  - preguntas dificiles entrevista ingles
-  - respuestas entrevista trabajo ingles
-  - entrevista laboral ingles ejemplos
-  - weaknesses interview english
-  - como responder tell me about yourself
+  - 'Preguntas Difíciles en Entrevistas'
+  - 'preguntas dificiles entrevista ingles'
 faqs:
   - question: ¿Cómo respondo a "Tell me about yourself" en inglés sin irme por las ramas?
     answer: >-

@@ -11,13 +11,8 @@ excerpt: >-
   su entonación característica y su vocabulario propio lo hacen inconfundible,
   y entenderlo es más fácil de lo que parece.
 keywords:
-  - acento australiano inglés
-  - inglés australiano características
-  - aussie english pronunciación
-  - acento australiano broad general cultivated
-  - vocabulario australiano
-  - australian english fonética
-  - cómo entender inglés australiano
+  - 'El Acento Australiano'
+  - 'acento australiano broad general cultivated'
 author: focus-english-team
 date: '2026-02-09'
 updatedDate: '2026-02-09'

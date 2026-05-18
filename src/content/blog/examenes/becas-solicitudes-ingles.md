@@ -11,12 +11,8 @@ category: examenes
 readTime: 16 min
 alt: Persona escribiendo una solicitud de beca frente a un ordenador portátil
 keywords:
-  - becas solicitudes ingles
-  - personal statement ingles
-  - solicitar beca ingles
-  - carta motivacion ingles universidad
-  - scholarship application english
-  - como pedir beca universidad extranjera
+  - 'Becas y Solicitudes en Inglés: Cómo'
+  - 'becas solicitudes ingles'
 faqs:
   - question: ¿Qué es un Personal Statement y cómo se diferencia de una carta de motivación?
     answer: >-

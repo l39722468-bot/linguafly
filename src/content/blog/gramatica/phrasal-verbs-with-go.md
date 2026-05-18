@@ -9,12 +9,8 @@ category: gramatica
 alt: Flechas de señalización que representan phrasal verbs con GO en inglés
 readTime: 8 min
 keywords:
-  - phrasal verbs con go
-  - phrasal verbs with go
-  - go on go off go through ingles
-  - go out go ahead significado
-  - verbos frasales con go
-  - go phrasal verbs lista completa
+  - 'Phrasal Verbs con GO: Lista Completa'
+  - 'go phrasal verbs lista completa'
 excerpt: >-
   GO parece simple, pero sus combinaciones con partículas cubren situaciones muy distintas: desde go off (explotar o sonar una alarma) hasta go through (pasar por algo difícil). Aquí tienes las más importantes con ejemplos reales.
 faqs:

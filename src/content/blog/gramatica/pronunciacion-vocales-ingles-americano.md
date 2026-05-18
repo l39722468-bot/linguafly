@@ -11,13 +11,8 @@ category: gramatica
 readTime: 8 min
 alt: Diagrama de las vocales del inglés americano
 keywords:
-  - vocales ingles americano
-  - vocales dificiles ingles hispanohablantes
-  - como pronunciar vocales ingles
-  - diferencia vocales español ingles
-  - vocal TRAP ingles
-  - vocal STRUT ingles
-  - sistema vocalico ingles
+  - 'Vocales del Inglés Americano: Pronunciación Clara'
+  - 'vocales ingles americano'
 faqs:
   - question: ¿Cuántas vocales tiene el inglés americano?
     answer: >-

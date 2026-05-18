@@ -9,14 +9,8 @@ category: metodos
 readTime: 9 min
 alt: 'Persona estudiando inglés gratis desde casa con el ordenador'
 keywords:
-  - curso ingles
-  - curso inglés gratis
-  - aprender inglés gratis online
-  - curso inglés gratuito
-  - inglés gratis desde cero
-  - recursos gratuitos ingles
-  - bbc learning english
-  - british council ingles gratis
+  - 'Curso de Inglés Gratis: Los Mejores'
+  - 'curso inglés gratis'
 faqs:
   - question: '¿Se puede aprender inglés de cero de forma totalmente gratuita?'
     answer: >-

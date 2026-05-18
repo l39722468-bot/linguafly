@@ -11,12 +11,8 @@ category: metodos
 readTime: 16 min
 alt: Pila de libros en inglés sobre una mesa de madera
 keywords:
-  - mejores libros aprender ingles
-  - libros para aprender ingles
-  - libros de ingles nivel b2
-  - graded readers ingles
-  - libros gramatica ingles
-  - lecturas graduadas ingles
+  - 'Los Mejores Libros para Aprender'
+  - 'mejores libros aprender ingles'
 faqs:
   - question: ¿Es mejor estudiar con libros físicos o digitales para aprender inglés?
     answer: >-

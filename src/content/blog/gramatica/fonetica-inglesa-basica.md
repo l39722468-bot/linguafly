@@ -9,14 +9,8 @@ excerpt: >-
   guía de fonética inglesa básica te explica los 44 fonemas del inglés con
   ejemplos claros para hispanohablantes.
 keywords:
-  - fonetica inglesa basica
-  - fonetica inglesa
-  - IPA ingles
-  - alfabeto fonetico internacional ingles
-  - transcripcion fonetica ingles
-  - simbolos IPA ingles
-  - 44 fonemas ingles
-  - cuadro fonetico ingles
+  - 'Fonética Inglesa Básica'
+  - 'fonetica inglesa'
 author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-03-10'

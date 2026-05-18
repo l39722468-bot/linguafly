@@ -9,11 +9,8 @@ description: >-
   con británico y americano, y cómo practicar sin confundir “acento” con “errores”.
 readTime: 22 min
 keywords:
-  - australian english fonética
-  - acento australiano inglés
-  - fonética inglesa comparativa
-  - inglés australiano pronunciación
-  - diferencias RP GA australian
+  - 'Australian English: vocales, fonética'
+  - 'australian english fonética'
 alt: Mapa y brújula sobre superficie de madera viajera
 excerpt: >-
   Introducción práctica a la fonética del inglés australiano: vocales, ejemplos

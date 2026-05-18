@@ -11,13 +11,8 @@ category: gramatica
 readTime: 9 min
 alt: Símbolos fonéticos escritos en una pizarra
 keywords:
-  - schwa ingles
-  - sonido schwa
-  - schwa pronunciacion
-  - schwa ejemplos ingles
-  - vocal neutra ingles
-  - como pronunciar schwa
-  - silabas atonas ingles
+  - 'El Schwa en Inglés: Por Qué /ə/ es'
+  - 'schwa ingles'
 faqs:
   - question: ¿Qué es exactamente el schwa?
     answer: >-

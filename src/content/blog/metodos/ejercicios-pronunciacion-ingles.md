@@ -10,14 +10,8 @@ excerpt: >-
   Es práctica con los ejercicios correctos. Aquí tienes los que dan resultados
   de verdad, organizados por lo que quieres mejorar.
 keywords:
-  - ejercicios pronunciación inglés
-  - mejorar pronunciación inglés
-  - práctica pronunciación inglés
-  - pares mínimos inglés ejercicios
-  - trabalenguas inglés
-  - grabarse hablando inglés
-  - fonética inglés práctica
-  - pronunciación inglés adultos
+  - 'Ejercicios de Pronunciación en Inglés'
+  - 'ejercicios pronunciación inglés'
 author: focus-english-team
 date: '2026-02-19'
 updatedDate: '2026-02-19'

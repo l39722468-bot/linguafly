@@ -10,12 +10,8 @@ excerpt: >-
   y las palabras que elijas pueden marcar la diferencia entre un acuerdo y
   un rechazo. Aquí tienes las herramientas para hacerlo bien.
 keywords:
-  - email negociacion ingles profesional
-  - negotiation email ingles
-  - como negociar por email ingles
-  - frases negociacion ingles trabajo
-  - correo negociacion precio ingles
-  - business negotiation email english
+  - 'Emails de Negociación en Inglés: Cómo'
+  - 'como negociar por email ingles'
 author: focus-english-team
 date: '2026-02-18'
 updatedDate: '2026-03-10'

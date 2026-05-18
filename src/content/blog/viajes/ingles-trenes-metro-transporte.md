@@ -10,16 +10,8 @@ category: viajes
 readTime: 10 min
 alt: Viajero consultando un mapa de metro en una estación internacional
 keywords:
-  - ingles para trenes
-  - vocabulario metro ingles
-  - transporte publico ingles viaje
-  - comprar billete tren ingles
-  - ingles estacion de tren
-  - transbordo en ingles
-  - ingles autobus viaje
-  - horarios tren ingles
-  - ingles tranvia
-  - london underground ingles
+  - 'Inglés para Trenes, Metro y Transporte Público'
+  - 'ingles para trenes'
 canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-trenes-metro-transporte'
 faqs:
   - question: ¿Cómo compro un billete de tren en inglés?

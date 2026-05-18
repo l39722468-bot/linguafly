@@ -10,15 +10,8 @@ excerpt: >-
   put up, put on, put down, put through y todas sus combinaciones con ejemplos
   reales y la explicación de su lógica.
 keywords:
-  - phrasal verbs with put
-  - put up put off put on ingles
-  - phrasal verbs put significado
-  - put phrasal verbs lista
-  - verbos frasales con put
-  - put down put through put forward
-  - put up with ingles
-  - phrasal verbs ingles
-  - phrasal verbs
+  - 'Phrasal Verbs con PUT: Lista Completa'
+  - 'put phrasal verbs lista'
 author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-03-10'

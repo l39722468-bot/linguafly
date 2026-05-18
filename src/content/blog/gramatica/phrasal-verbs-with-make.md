@@ -9,12 +9,8 @@ category: gramatica
 alt: Persona aprendiendo phrasal verbs con MAKE en un cuaderno
 readTime: 7 min
 keywords:
-  - phrasal verbs con make
-  - phrasal verbs with make
-  - make up make out make do ingles
-  - make up for significado
-  - verbos frasales con make
-  - make phrasal verbs lista
+  - 'Phrasal Verbs con MAKE: Lista Completa'
+  - 'phrasal verbs con make'
 excerpt: >-
   MAKE es un verbo que ya conoces bien en su forma simple. Pero en cuanto le añades una partícula, el significado cambia completamente. Make up, make out, make up for... cada combinación es casi un verbo nuevo.
 faqs:

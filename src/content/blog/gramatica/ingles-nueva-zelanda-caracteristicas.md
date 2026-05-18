@@ -11,13 +11,8 @@ category: gramatica
 readTime: 6 min
 alt: Paisaje de Nueva Zelanda con el cielo estrellado representando la diversidad del inglés
 keywords:
-  - ingles nueva zelanda caracteristicas
-  - New Zealand English fonética
-  - acento neozelandés como entender
-  - NZE pronunciacion
-  - ingles kiwi caracteristicas
-  - diferencias ingles australiano neozelandés
-  - maori ingles nueva zelanda
+  - 'Inglés de Nueva Zelanda'
+  - 'ingles nueva zelanda caracteristicas'
 faqs:
   - question: ¿El inglés de Nueva Zelanda es igual al australiano?
     answer: >-

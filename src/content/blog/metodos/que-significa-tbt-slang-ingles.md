@@ -10,14 +10,8 @@ excerpt: >-
   origen, el uso y las reglas de los acrónimos y slang más populares de internet
   en inglés.
 keywords:
-  - que significa tbt
-  - tbt significado
-  - slang in english
-  - acronimos redes sociales ingles
-  - ingles moderno internet
-  - que es pov
-  - significado rizz
-  - terminos redes sociales 2026
+  - '¿Qué significa TBT?'
+  - 'tbt significado'
 date: '2024-02-04'
 updatedDate: '2026-03-10'
 category: metodos

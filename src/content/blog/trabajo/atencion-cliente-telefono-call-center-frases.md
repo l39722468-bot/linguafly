@@ -9,11 +9,8 @@ description: >-
   espera en línea, transferencias, señal débil y cierre con resumen.
 readTime: 22 min
 keywords:
-  - atención al cliente inglés
-  - inglés para soporte
-  - inglés call center
-  - inglés telefono trabajo
-  - hold inglés frases
+  - 'Telefonía y call center en inglés'
+  - 'inglés call center'
 alt: Auriculares de call center sobre teclado
 excerpt: >-
   Guía de inglés telefónico para soporte: claridad, ritmo, confirmación de

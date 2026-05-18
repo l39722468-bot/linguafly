@@ -11,12 +11,8 @@ category: metodos
 readTime: 14 min
 alt: Estadio de fútbol con el césped visto desde las gradas
 keywords:
-  - ingles para deportes
-  - vocabulario deportes ingles
-  - frases deportes ingles
-  - ingles futbol
-  - ingles basketball
-  - hablar deportes ingles
+  - 'Inglés para Deportes: Vocabulario'
+  - 'ingles para deportes'
 faqs:
   - question: ¿Cómo se dice "empate" en inglés?
     answer: >-

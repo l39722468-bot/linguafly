@@ -10,13 +10,8 @@ excerpt: >-
   IELTS y TOEFL para profesionales y te ayudamos a elegir el certificado que
   impulsará tu carrera global.
 keywords:
-  - ielts vs toefl para trabajar
-  - examen ingles para visado
-  - ielts o toefl profesional
-  - mejor examen ingles trabajo
-  - clb levels canada
-  - puntos migración australia
-  - ielts toefl carrera profesional
+  - 'IELTS vs TOEFL: Cuál es mejor'
+  - 'ielts o toefl profesional'
 date: '2026-02-05'
 updatedDate: '2026-03-10'
 category: trabajo

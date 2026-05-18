@@ -9,11 +9,8 @@ category: examenes
 alt: Libreta con vocabulario en inglés para preparar el IELTS
 readTime: 7 min
 keywords:
-  - vocabulario ielts
-  - academic word list ielts
-  - vocabulario ingles academico
-  - palabras para el ielts
-  - como aprender vocabulario ielts
+  - 'Vocabulario Académico para el IELTS'
+  - 'vocabulario ielts'
 excerpt: >-
   El vocabulario del IELTS no es el vocabulario del inglés conversacional. Para Band 7 necesitas dominar palabras académicas que rara vez aparecen en series o conversaciones cotidianas.
 faqs:

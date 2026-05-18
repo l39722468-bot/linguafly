@@ -10,13 +10,8 @@ excerpt: >-
   en el inglés estándar y un vocabulario propio que viene de una lengua distinta.
   Entenderlo requiere un mapa específico, y aquí lo tienes.
 keywords:
-  - inglés escocés características
-  - scottish english fonética
-  - acento escocés pronunciación
-  - scots language
-  - glasgow accent inglés
-  - edinburgh english
-  - inglés escocia variantes
+  - 'Inglés Escocés: Características'
+  - 'acento escocés pronunciación'
 author: focus-english-team
 date: '2026-02-18'
 updatedDate: '2026-02-18'

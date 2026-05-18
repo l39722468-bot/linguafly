@@ -9,15 +9,8 @@ excerpt: >-
   guía completa dominarás los sonidos clave, el word stress y la entonación para
   hablar con confianza.
 keywords:
-  - pronunciacion ingles guia completa
-  - pronunciacion en ingles
-  - como mejorar pronunciacion ingles
-  - entonacion ingles
-  - word stress ingles
-  - schwa ingles
-  - pares minimos ingles
-  - connected speech ingles
-  - pronunciacion ingles hispanohablantes
+  - 'Pronunciación en Inglés'
+  - 'pronunciacion ingles guia completa'
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-21'

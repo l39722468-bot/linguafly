@@ -10,14 +10,8 @@ description: >-
   (255€, sin caducidad) y en qué casos realmente merece la pena intentarlo.
 readTime: 9 min
 keywords:
-  - curso ingles c2
-  - ingles proficiency
-  - preparacion cpe cambridge
-  - maestria ingles online
-  - focus english c2
-  - nivel c2 ingles que es
-  - diferencia c1 y c2 ingles
-  - curso ingles
+  - 'Nivel C2 de Inglés: Qué Es, Cuánto'
+  - 'nivel c2 ingles que es'
 canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-c2'
 related_routes:
   - ingles-c1

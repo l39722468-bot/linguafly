@@ -13,13 +13,8 @@ category: viajes
 readTime: 15 min
 alt: Recepcionista de hotel profesional atendiendo una llamada y sonriendo
 keywords:
-  - inglés para recepcionistas
-  - inglés para hoteles
-  - frases recepción inglés
-  - atención al cliente inglés
-  - vocabulario hotelero inglés
-  - check-in inglés hotel
-  - gestión de reclamaciones hotel inglés
+  - 'Inglés para Recepcionistas'
+  - 'inglés para hoteles'
 faqs:
   - question: ¿Cómo pido el pasaporte de forma educada?
     answer: >-

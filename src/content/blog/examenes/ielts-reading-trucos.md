@@ -9,11 +9,8 @@ category: examenes
 alt: Persona leyendo textos académicos para preparar el IELTS Reading
 readTime: 7 min
 keywords:
-  - ielts reading
-  - ielts true false not given
-  - ielts reading estrategias
-  - ielts reading trucos
-  - como mejorar reading ielts
+  - 'IELTS Reading: Trucos'
+  - 'ielts reading'
 excerpt: >-
   60 minutos para leer tres textos largos y responder 40 preguntas. El IELTS Reading no es un test de comprensión lectora al uso: tiene tipos de pregunta que siguen reglas muy específicas, y conocerlas cambia el resultado.
 faqs:

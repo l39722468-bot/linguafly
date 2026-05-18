@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-medico-para-medicos-especialistas
 readTime: 5 min
 keywords:
-  - ingles medico
-  - ingles para medicos
-  - medical english especialistas
-  - ingles cientifico medicina
-  - publicaciones medicas ingles
-  - congresos medicos ingles
+  - 'Inglés Médico para Médicos'
+  - 'ingles para medicos'
 faqs:
   - question: ¿Qué nivel de inglés necesita un médico para publicar en revistas científicas internacionales?
     answer: >-

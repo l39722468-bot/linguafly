@@ -11,13 +11,8 @@ excerpt: >-
   con argumentos. Te explico cómo responder con estructura y qué frases te
   suben de un band 6 a un 7 u 8.
 keywords:
-  - ielts speaking part 3
-  - preguntas ielts speaking 3
-  - ielts speaking band 7
-  - ejemplos respuesta ielts part 3
-  - vocabulario ielts speaking
-  - estructura respuesta ielts
-  - ielts speaking abstractas
+  - 'IELTS Speaking Part 3: Preguntas Típicas y Respuestas'
+  - 'ielts speaking part 3'
 author: focus-english-team
 date: '2026-04-17'
 updatedDate: '2026-04-17'

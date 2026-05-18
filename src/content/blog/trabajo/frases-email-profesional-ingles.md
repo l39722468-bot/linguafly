@@ -9,12 +9,8 @@ excerpt: >-
   usan los nativos. Aquí tienes las más útiles organizadas por situación para
   que las tengas a mano cuando las necesites.
 keywords:
-  - frases email profesional ingles
-  - expresiones correo ingles trabajo
-  - frases utiles email ingles
-  - frases formales ingles email
-  - vocabulario email profesional ingles
-  - how to write professional email english phrases
+  - '60 Frases para Emails Profesionales'
+  - 'frases email profesional ingles'
 author: focus-english-team
 date: '2026-02-06'
 updatedDate: '2026-03-10'

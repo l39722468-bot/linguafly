@@ -9,12 +9,8 @@ excerpt: >-
   explicamos todos sus usos cotidianos, sus trampas más habituales y cómo
   practicarlo de verdad.
 keywords:
-  - zero conditional ingles
-  - condicional cero ingles
-  - zero conditional ejemplos
-  - if present simple present simple
-  - ejercicios zero conditional
-  - condicionales ingles a2 b1
+  - 'Zero Conditional en Inglés: Cuándo'
+  - 'zero conditional ingles'
 author: focus-english-team
 date: '2026-02-04'
 updatedDate: '2026-03-10'

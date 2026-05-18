@@ -11,16 +11,8 @@ category: metodos
 readTime: 11 min
 alt: Persona joven usando el móvil para aprender inglés con vídeos cortos en la app Cake
 keywords:
-  - Cake app inglés
-  - Cake app review
-  - Cake inglés review 2026
-  - aprender inglés con vídeos cortos
-  - Cake app speaking
-  - Cake app gratis vs premium
-  - Cake app niveles
-  - cómo usar Cake para aprender inglés
-  - mejores apps aprender inglés
-  - Cake vs Duolingo
+  - 'Cake App para Aprender Inglés: Review'
+  - 'Cake app inglés'
 faqs:
   - question: '¿Cake app es completamente gratuita?'
     answer: >-

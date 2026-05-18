@@ -11,13 +11,8 @@ excerpt: >-
   internacional va a buscar en 7 segundos. Esta guía te da la estructura y el
   lenguaje exacto.
 keywords:
-  - cv ingles tecnologia
-  - cv ingles it
-  - curriculum ingles desarrollador
-  - cv ingles ingeniero software
-  - cv tech ingles
-  - plantilla cv ingles it
-  - verbos accion cv ingles
+  - 'CV en Inglés para Tecnología e IT: Guía y Plantilla'
+  - 'cv ingles tecnologia'
 author: focus-english-team
 date: '2026-04-19'
 updatedDate: '2026-04-19'

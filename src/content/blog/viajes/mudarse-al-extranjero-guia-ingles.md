@@ -11,12 +11,8 @@ category: viajes
 readTime: 18 min
 alt: Cajas de mudanza en un apartamento vacío con luz natural
 keywords:
-  - mudarse al extranjero guia ingles
-  - ingles para expatriados
-  - vivir en ingles
-  - mudarse a reino unido ingles
-  - mudarse a estados unidos ingles
-  - tramites administrativos ingles
+  - 'Mudarse al Extranjero: Guía de Inglés'
+  - 'mudarse al extranjero guia ingles'
 faqs:
   - question: ¿Qué nivel de inglés necesito para vivir en un país angloparlante?
     answer: >-

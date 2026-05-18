@@ -9,11 +9,8 @@ category: metodos
 readTime: 8 min
 alt: 'Estudiante hispano en clase de inglés online'
 keywords:
-  - curso de ingles
-  - mejores cursos de ingles online
-  - open english opinion
-  - curso ingles online latinoamerica
-  - ingles conversacion online
+  - 'Open English: LATAM y exámenes'
+  - 'open english opinion'
 faqs:
   - question: '¿Open English prepara para IELTS o TOEFL?'
     answer: >-

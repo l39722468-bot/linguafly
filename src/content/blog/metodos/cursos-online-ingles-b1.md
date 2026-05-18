@@ -10,16 +10,8 @@ description: >-
   con IA.
 readTime: 6 min
 keywords:
-  - cursos online ingles b1
-  - preparacion examen b1 ingles
-  - ingles b1 online gratis
-  - título b1 ingles online
-  - ejercicios b1 ingles
-  - gramatica ingles b1
-  - tiempos verbales b1
-  - condicionales ingles b1
-  - ejercicios gramatica b1
-  - curso ingles
+  - 'Cursos Online de Inglés B1: Consigue'
+  - 'cursos online ingles b1'
 canonical: 'https://www.focus-on-english.com/blog/metodos/cursos-online-ingles-b1'
 related_routes:
   - preparacion-examen-b1-cambridge

@@ -10,12 +10,8 @@ excerpt: >-
   Hay una forma correcta de disculparse por email que asume responsabilidad,
   propone solución y mantiene la credibilidad. Aquí la tienes.
 keywords:
-  - email disculpa ingles profesional
-  - apology email ingles
-  - como disculparse email ingles trabajo
-  - sorry email ingles profesional
-  - correo de disculpa ingles
-  - apology letter ingles trabajo
+  - 'Cómo Disculparse por Email en Inglés'
+  - 'como disculparse email ingles trabajo'
 author: focus-english-team
 date: '2026-02-15'
 updatedDate: '2026-03-10'

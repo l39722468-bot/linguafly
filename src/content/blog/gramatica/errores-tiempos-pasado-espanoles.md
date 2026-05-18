@@ -9,13 +9,8 @@ category: gramatica
 alt: Persona corrigiendo errores gramaticales en tiempos de pasado en inglés
 readTime: 7 min
 keywords:
-  - errores present perfect ingles
-  - errores past simple ingles
-  - errores gramatica ingles hispanohablantes
-  - present perfect past simple errores frecuentes
-  - since for errores ingles
-  - tiempos pasado ingles errores
-  - gramatica ingles espanoles
+  - 'Los Errores con los Tiempos de Pasado'
+  - 'tiempos pasado ingles errores'
 excerpt: >-
   Los tiempos de pasado en inglés concentran algunos de los errores más persistentes de los hispanohablantes. No porque sean difíciles, sino porque el español y el inglés funcionan de forma distinta. Aquí tienes los más frecuentes con su solución.
 faqs:

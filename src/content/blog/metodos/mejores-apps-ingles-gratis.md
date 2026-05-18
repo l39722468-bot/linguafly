@@ -11,12 +11,8 @@ category: metodos
 readTime: 14 min
 alt: Smartphone con aplicaciones de idiomas en la pantalla
 keywords:
-  - mejores apps ingles gratis
-  - aplicaciones para aprender ingles
-  - app ingles gratis
-  - duolingo ingles
-  - anki ingles
-  - apps idiomas movil
+  - 'Las Mejores Apps para Aprender Inglés'
+  - 'mejores apps ingles gratis'
 faqs:
   - question: ¿Puedo aprender inglés solo con apps gratuitas?
     answer: >-

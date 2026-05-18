@@ -4,13 +4,8 @@ description: "Aprende el vocabulario de nivel C1 que buscan los examinadores de 
 readTime: 9 min
 excerpt: "El vocabulario del CAE no es una lista de palabras raras que hay que memorizar. Es aprender a elegir la palabra precisa en el momento exacto. Aquí tienes los patrones que más aparecen."
 keywords:
-  - vocabulario c1 advanced
-  - palabras nivel c1 ingles
-  - vocabulario cae cambridge
-  - sinonimos avanzados ingles c1
-  - expresiones idiomaticas c1
-  - less common lexis cae
-  - vocabulario para aprobar cae
+  - 'Vocabulario C1 Advanced: Palabras Clave para el CAE'
+  - 'vocabulario c1 advanced'
 author: focus-english-team
 date: '2026-03-13'
 updatedDate: '2026-03-13'

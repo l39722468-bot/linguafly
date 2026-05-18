@@ -9,11 +9,8 @@ category: metodos
 readTime: 8 min
 alt: 'Tablet con lección de inglés británico'
 keywords:
-  - curso de ingles
-  - mejores cursos de ingles online
-  - aba english opinion
-  - curso ingles britanico online
-  - certificado ingles online
+  - 'ABA English: curso británico y exámenes'
+  - 'aba english opinion'
 faqs:
   - question: '¿El certificado de ABA English vale como Cambridge o IELTS?'
     answer: >-

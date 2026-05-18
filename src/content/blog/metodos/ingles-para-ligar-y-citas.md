@@ -11,12 +11,8 @@ category: metodos
 readTime: 13 min
 alt: Pareja joven conversando en una cafetería con ambiente íntimo
 keywords:
-  - ingles para ligar y citas
-  - frases para ligar en ingles
-  - vocabulario citas ingles
-  - dating en ingles
-  - como ligar en ingles
-  - apps citas ingles vocabulario
+  - 'Inglés para Ligar y Citas: Frases'
+  - 'ingles para ligar y citas'
 faqs:
   - question: ¿Cómo se dice "me gustas" en inglés?
     answer: >-

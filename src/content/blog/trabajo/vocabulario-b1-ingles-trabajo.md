@@ -9,10 +9,8 @@ description: >-
   y expresiones clave para el trabajo, viajar y situaciones sociales.
 readTime: 7 min
 keywords:
-  - vocabulario ingles b1
-  - palabras ingles b1
-  - expresiones ingles b1
-  - vocabulario trabajo ingles b1
+  - 'Vocabulario Inglés B1: Trabajo'
+  - 'vocabulario trabajo ingles b1'
 canonical: 'https://www.focus-on-english.com/blog/trabajo/vocabulario-b1-ingles-trabajo'
 related_routes:
   - ingles-b1

@@ -10,11 +10,8 @@ excerpt: >-
   aprobado raspado a una puntuación excepcional en el examen C1 Advanced de
   Cambridge.
 keywords:
-  - trucos writing c1 advanced
-  - consejos cae writing
-  - conectores ingles c1
-  - como aprobar writing cambridge c1
-  - estructuras avanzadas ingles c1
+  - 'Trucos para Aprobar el Writing del C1'
+  - 'trucos writing c1 advanced'
 date: '2026-02-05'
 updatedDate: '2026-03-10'
 category: examenes

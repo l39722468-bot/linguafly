@@ -10,13 +10,8 @@ excerpt: >-
   en inglés tienes dos opciones de pasiva y ambas son correctas. Te explicamos
   cuándo usar cada una y cuál suena más natural.
 keywords:
-  - pasiva doble objeto ingles
-  - passive voice give send ingles
-  - voz pasiva verbos dos objetos
-  - I was given ingles
-  - pasiva objeto indirecto ingles
-  - double object passive english
-  - passive voice practice ejercicios
+  - 'Pasiva con Doble Objeto en Inglés'
+  - 'pasiva doble objeto ingles'
 author: focus-english-team
 date: '2026-02-26'
 updatedDate: '2026-03-10'

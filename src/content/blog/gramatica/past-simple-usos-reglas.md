@@ -9,13 +9,8 @@ category: gramatica
 alt: Cuaderno con conjugaciones del Past Simple en inglés
 readTime: 7 min
 keywords:
-  - past simple ingles
-  - pasado simple en ingles
-  - cuando usar past simple
-  - past simple reglas
-  - past simple ejemplos
-  - preterito indefinido ingles
-  - past simple verbos regulares irregulares
+  - 'Past Simple en Inglés: Cuándo Usarlo'
+  - 'past simple ingles'
 excerpt: >-
   El Past Simple es el tiempo de pasado más usado en inglés para contar lo que pasó. Sus reglas son claras, aunque los verbos irregulares requieren memorización. Aquí tienes todo lo que necesitas para usarlo sin dudar.
 faqs:

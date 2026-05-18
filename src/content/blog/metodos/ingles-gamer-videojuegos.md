@@ -10,13 +10,8 @@ excerpt: >-
   gamer esencial, las expresiones de chat y cómo comunicarte con tu equipo en
   inglés como un pro.
 keywords:
-  - ingles moderno internet
-  - ingles para gamers
-  - vocabulario gaming ingles
-  - gamer slang ingles
-  - expresiones videojuegos ingles
-  - ingles online gaming
-  - terminologia gamer
+  - 'Inglés Gamer: Vocabulario'
+  - 'vocabulario gaming ingles'
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-10'

@@ -10,15 +10,8 @@ excerpt: >-
   Guía completa con 60 business phrasal verbs para reuniones, negociaciones,
   emails y situaciones de oficina.
 keywords:
-  - phrasal verbs de negocios
-  - phrasal verbs trabajo
-  - business phrasal verbs español
-  - phrasal verbs ingles profesional
-  - phrasal verbs oficina
-  - phrasal verbs reuniones ingles
-  - ingles empresarial phrasal verbs
-  - phrasal verbs ingles
-  - phrasal verbs
+  - 'Phrasal Verbs de Trabajo: 60 Verbos'
+  - 'phrasal verbs trabajo'
 author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-03-10'

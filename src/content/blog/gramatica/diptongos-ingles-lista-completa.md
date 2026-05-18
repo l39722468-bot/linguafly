@@ -10,14 +10,8 @@ excerpt: >-
   vocálicos que se funden en una sola sílaba. Aquí tienes la lista completa con
   explicaciones y ejemplos para que puedas pronunciarlos bien.
 keywords:
-  - diptongos inglés
-  - diptongos ingles lista
-  - diptongos IPA inglés
-  - vocales inglés diptongos
-  - pronunciar diptongos ingles
-  - diptongos español inglés diferencias
-  - sonidos vocálicos inglés
-  - fonética inglés diptongos
+  - 'Diptongos en Inglés'
+  - 'diptongos español inglés diferencias'
 author: focus-english-team
 date: '2026-02-14'
 updatedDate: '2026-02-14'

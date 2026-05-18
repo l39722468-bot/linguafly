@@ -11,12 +11,8 @@ category: viajes
 readTime: 12 min
 alt: Persona con bolsas de compras en una calle comercial de Londres
 keywords:
-  - ingles para compras
-  - frases ingles compras
-  - vocabulario ingles tienda
-  - ingles shopping
-  - como pedir talla ingles
-  - ingles para ir de tiendas
+  - 'Inglés para Ir de Compras: Frases'
+  - 'ingles para compras'
 faqs:
   - question: ¿Cómo pregunto mi talla en inglés en una tienda?
     answer: >-

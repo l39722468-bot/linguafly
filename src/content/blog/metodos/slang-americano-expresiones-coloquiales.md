@@ -10,13 +10,8 @@ excerpt: >-
   muy diferente al que aparece en los libros. Actualiza tu vocabulario con los
   70 slang más usados en EE.UU. en 2026.
 keywords:
-  - slang in english
-  - slang americano
-  - expresiones coloquiales ingles americano
-  - american slang 2026
-  - ingles informal americano
-  - slang gen z
-  - expresiones estados unidos
+  - 'Slang Americano: 70 Expresiones'
+  - 'slang americano'
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-10'

@@ -10,13 +10,8 @@ excerpt: >-
   causas reales y las estrategias más efectivas para superarlo y alcanzar la
   fluidez que buscas.
 keywords:
-  - fluidez ingles avanzado
-  - bloqueo mental ingles
-  - miedo hablar ingles
-  - superar bloqueo ingles
-  - ansiedad hablar ingles
-  - speaking block english
-  - como hablar ingles sin bloquearse
+  - 'Cómo Superar el Bloqueo Mental'
+  - 'bloqueo mental ingles'
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-10'

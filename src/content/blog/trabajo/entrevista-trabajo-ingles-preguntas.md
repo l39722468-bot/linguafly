@@ -11,12 +11,8 @@ category: trabajo
 readTime: 20 min
 alt: Dos personas sentadas frente a frente en una entrevista de trabajo profesional
 keywords:
-  - entrevista trabajo ingles
-  - preguntas entrevista trabajo ingles
-  - job interview preguntas frecuentes
-  - preguntas ingles entrevista
-  - entrevista en ingles ejemplos
-  - preparar entrevista ingles
+  - 'Preguntas de Entrevista de Trabajo'
+  - 'preguntas entrevista trabajo ingles'
 faqs:
   - question: ¿Cómo respondo "Tell me about yourself" en inglés?
     answer: >-

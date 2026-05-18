@@ -9,12 +9,8 @@ category: gramatica
 alt: Persona estudiando la diferencia entre present perfect simple y continuous
 readTime: 6 min
 keywords:
-  - present perfect continuous ingles
-  - present perfect continuous vs simple
-  - have been doing ingles
-  - present perfect continuous ejemplos
-  - cuando usar present perfect continuous
-  - present perfect simple vs continuous diferencia
+  - 'Present Perfect Continuous: Cuándo'
+  - 'cuando usar present perfect continuous'
 excerpt: >-
   El Present Perfect Continuous (have/has been + -ing) expresa acciones que han estado ocurriendo hasta ahora. La diferencia con el simple no siempre es obvia, pero hay patrones claros que te ayudan a elegir.
 faqs:

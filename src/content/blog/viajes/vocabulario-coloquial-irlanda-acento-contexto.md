@@ -7,13 +7,8 @@ readTime: 14 min
 excerpt: >-
   Entender el acento irlandés va de la mano del vocabulario local. Esta guía recoge expresiones que aparecen una y otra vez en conversación real, con matices de registro para que sepas cuándo usarlas y cuándo limitarte a reconocerlas.
 keywords:
-  - acento irlandes ingles
-  - vocabulario ingles Irlanda
-  - expresiones coloquiales irlandesas ingles
-  - Hiberno-English vocabulario viaje
-  - slang Irlanda ingles turismo
-  - craic grand irlandes significado
-  - ingles irlandes frases utiles
+  - 'Vocabulario y Expresiones del Inglés'
+  - 'vocabulario ingles Irlanda'
 author: focus-english-team
 date: '2026-03-29'
 updatedDate: '2026-03-29'

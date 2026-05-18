@@ -11,13 +11,8 @@ category: gramatica
 readTime: 9 min
 alt: Diagrama de articulación de consonantes del inglés
 keywords:
-  - consonantes dificiles ingles
-  - pronunciar v ingles
-  - consonantes ingles que no existen en español
-  - ng ingles pronunciacion
-  - r inglesa como pronunciar
-  - v b ingles diferencia
-  - w ingles pronunciacion
+  - 'Consonantes Difíciles del Inglés'
+  - 'consonantes dificiles ingles'
 faqs:
   - question: ¿Cuáles son las consonantes más difíciles del inglés para hispanohablantes?
     answer: >-

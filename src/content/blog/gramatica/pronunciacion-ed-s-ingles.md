@@ -11,13 +11,8 @@ category: gramatica
 readTime: 7 min
 alt: Pizarra con ejemplos de terminaciones en inglés -ed y -s
 keywords:
-  - pronunciar ed ingles
-  - como pronunciar pasado ingles terminacion ed
-  - pronunciar s plural ingles
-  - terminacion ed ingles reglas
-  - terminacion s ingles pronunciacion
-  - walked talked pronounced
-  - plural ingles pronunciacion
+  - 'Cómo Pronunciar "-ed" y "-s"'
+  - 'como pronunciar pasado ingles terminacion ed'
 faqs:
   - question: ¿Hay que memorizar todas las reglas de la "-ed" y la "-s"?
     answer: >-

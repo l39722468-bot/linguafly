@@ -10,14 +10,8 @@ description: >-
   English.
 readTime: 5 min
 keywords:
-  - inglés para viajar
-  - frases básicas inglés viaje
-  - vocabulario aeropuerto inglés
-  - inglés para hoteles
-  - conversación inglés turismo
-  - guía inglés viajeros
-  - aprender ingles para viajar rapido
-  - ingles para situaciones de viaje
+  - 'Inglés para Viajar'
+  - 'aprender ingles para viajar rapido'
 canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-para-viajar'
 related_routes:
   - ingles-a1

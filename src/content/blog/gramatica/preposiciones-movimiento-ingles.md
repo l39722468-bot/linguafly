@@ -8,13 +8,8 @@ excerpt: >-
   Aprende a usar las preposiciones de movimiento en inglés con precisión. Guía
   académica con ejemplos prácticos, comparativas y lista imprimible.
 keywords:
-  - preposiciones de movimiento en ingles
-  - preposiciones en ingles
-  - gramatica inglesa
-  - to vs into
-  - across vs through
-  - ejercicios de gramatica en ingles
-  - aprender vocabulario ingles
+  - 'Preposiciones de Movimiento en Inglés'
+  - 'preposiciones en ingles'
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'

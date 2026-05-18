@@ -11,14 +11,8 @@ excerpt: >-
   frases suenan comprimidas y otras estiradas, y por qué tu inglés puede sonar
   "raro" incluso cuando pronuncias bien los sonidos.
 keywords:
-  - ritmo inglés
-  - stress-timed inglés
-  - acento inglés ritmo
-  - sílabas acentuadas inglés
-  - isochrony inglés
-  - ritmo español vs inglés
-  - pronunciación inglés natural
-  - hablar inglés fluido
+  - 'El Ritmo del Inglés: Por Qué no'
+  - 'ritmo inglés'
 author: focus-english-team
 date: '2026-02-10'
 updatedDate: '2026-02-10'

@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-para-ingenieros-software
 readTime: 6 min
 keywords:
-  - ingles para ingenieros
-  - ingles para ingenieros de software
-  - technical english software
-  - ingles programacion equipos
-  - code review ingles
-  - standup meeting ingles
+  - 'Inglés para Ingenieros de Software'
+  - 'ingles para ingenieros'
 faqs:
   - question: ¿Qué nivel de inglés necesito para trabajar en una empresa tech internacional?
     answer: >-

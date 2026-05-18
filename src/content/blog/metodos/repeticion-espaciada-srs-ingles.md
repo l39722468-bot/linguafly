@@ -11,15 +11,8 @@ category: metodos
 readTime: 11 min
 alt: Persona estudiando inglés con tarjetas de vocabulario y notas en una mesa
 keywords:
-  - repetición espaciada inglés
-  - SRS inglés
-  - spaced repetition inglés
-  - curva del olvido Ebbinghaus
-  - algoritmo SM-2
-  - memorizar vocabulario inglés
-  - sistema de repetición espaciada
-  - anki repetición espaciada
-  - método SRS aprender inglés
+  - 'Repetición Espaciada para Aprender'
+  - 'repetición espaciada inglés'
 faqs:
   - question: '¿Qué es exactamente la repetición espaciada?'
     answer: >-

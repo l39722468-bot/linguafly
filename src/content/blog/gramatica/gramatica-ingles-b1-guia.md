@@ -10,22 +10,8 @@ description: >-
   Cambridge, Oxford o IELTS.
 readTime: 6 min
 keywords:
-  - gramatica ingles b1
-  - tiempos verbales b1
-  - condicionales ingles b1
-  - ejercicios gramatica b1
-  - gramatica inglesa b1
-  - gramatica inglesa
-  - ejercicios de gramatica en ingles
-  - ejercicios gramatica ingles
-  - clases de gramatica en ingles gratis
-  - letras mudas ingles
-  - fonetica inglesa
-  - practicar verbos en ingles online gratis
-  - practicar gramatica ingles
-  - vocabulario ingles b1
-  - palabras ingles b1
-  - expresiones ingles b1
+  - 'Gramática Inglés B1'
+  - 'clases de gramatica en ingles gratis'
 canonical: 'https://www.focus-on-english.com/blog/gramatica/gramatica-ingles-b1-guia'
 related_routes:
   - cursos-online-ingles-b1

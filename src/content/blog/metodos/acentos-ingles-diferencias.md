@@ -11,12 +11,8 @@ category: metodos
 readTime: 15 min
 alt: Banderas de países de habla inglesa sobre un fondo de un mapa del mundo
 keywords:
-  - acentos ingles diferencias
-  - acentos del ingles
-  - ingles britanico vs americano acentos
-  - tipos acentos ingles
-  - acento ingles australiano
-  - pronunciacion ingles regional
+  - 'Acentos del Inglés'
+  - 'ingles britanico vs americano acentos'
 faqs:
   - question: ¿Cuál es el acento del inglés más fácil de entender para hispanohablantes?
     answer: >-

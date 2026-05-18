@@ -11,13 +11,8 @@ category: gramatica
 readTime: 7 min
 alt: Ciudad del sur de Estados Unidos representando el inglés sureño americano
 keywords:
-  - ingles sur estados unidos
-  - Southern American English caracteristicas
-  - acento sureño americano
-  - Southern Vowel Shift
-  - como entender acento sur EEUU
-  - dialecto americano del sur
-  - inglés Texas Alabama Mississippi
+  - 'El Inglés del Sur de Estados Unidos'
+  - 'ingles sur estados unidos'
 faqs:
   - question: ¿El "Southern accent" es un único acento o hay variedad dentro?
     answer: >-

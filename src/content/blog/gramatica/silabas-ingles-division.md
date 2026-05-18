@@ -10,14 +10,8 @@ excerpt: >-
   escribir correctamente al final de una línea. Cambia cómo pronuncias las
   vocales, dónde cae el acento y cómo entiendes las palabras al escucharlas.
 keywords:
-  - silabas ingles
-  - division silabica ingles
-  - como dividir silabas en ingles
-  - silabas abiertas cerradas ingles
-  - acento tonico silabas ingles
-  - fonética sílabas inglés
-  - pronunciar silabas inglés
-  - reglas silabas inglés
+  - 'Sílabas en Inglés: Cómo Dividirlas'
+  - 'silabas ingles'
 author: focus-english-team
 date: '2026-03-01'
 updatedDate: '2026-03-01'

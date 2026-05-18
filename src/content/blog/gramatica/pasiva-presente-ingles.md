@@ -9,13 +9,8 @@ excerpt: >-
   conversaciones formales. Aquí te explicamos cómo funciona y cuándo usarlo de
   verdad.
 keywords:
-  - voz pasiva presente ingles
-  - passive voice present simple
-  - present continuous pasiva ingles
-  - pasiva presente simple ingles
-  - voz pasiva ingles ejemplos
-  - passive voice ejercicios
-  - passive voice practice ejercicios
+  - 'Voz Pasiva en Presente en Inglés'
+  - 'voz pasiva presente ingles'
 author: focus-english-team
 date: '2026-02-05'
 updatedDate: '2026-03-10'

@@ -9,11 +9,8 @@ description: >-
   escalar con claridad y documentar sin perder control emocional.
 readTime: 22 min
 keywords:
-  - atención al cliente inglés
-  - inglés para soporte
-  - inglés customer service conflictos
-  - de-escalation inglés
-  - inglés call center difícil
+  - 'Clientes difíciles en inglés'
+  - 'de-escalation inglés'
 alt: Persona en atención telefónica con auriculares
 excerpt: >-
   Frases y marcos mentales para gestionar ira, amenazas y presión en inglés:

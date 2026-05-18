@@ -9,12 +9,8 @@ category: gramatica
 alt: Persona tomando notas sobre phrasal verbs con TAKE
 readTime: 7 min
 keywords:
-  - phrasal verbs con take
-  - phrasal verbs with take
-  - take off take on take up ingles
-  - take over take after significado
-  - verbos frasales con take
-  - take phrasal verbs lista
+  - 'Phrasal Verbs con TAKE'
+  - 'take off take on take up ingles'
 excerpt: >-
   TAKE es un verbo de acción con muchísimas combinaciones. Desde take off (despegar o quitarse algo) hasta take after (parecerse a alguien), sus phrasal verbs son imprescindibles para el inglés cotidiano y profesional.
 faqs:

@@ -9,13 +9,8 @@ category: gramatica
 alt: Estudiante aprendiendo las excepciones del backshift en reported speech inglés
 readTime: 7 min
 keywords:
-  - backshift reported speech ingles
-  - excepciones reported speech
-  - cuando no cambiar verbo reported speech
-  - estilo indirecto ingles reglas
-  - reported speech sin backshift
-  - cambio tiempos verbales ingles
-  - reported speech ejemplos
+  - 'Backshift en Reported Speech: Cuándo'
+  - 'cuando no cambiar verbo reported speech'
 excerpt: >-
   El backshift — ese "salto atrás" del tiempo verbal en reported speech — es la regla que todos aprenden primero. Pero tiene excepciones que cambian bastante cómo funciona en la práctica. Hay situaciones donde el cambio de tiempo verbal es opcional o incluso incorrecto.
 faqs:

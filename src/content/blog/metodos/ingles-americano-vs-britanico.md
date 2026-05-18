@@ -9,12 +9,8 @@ excerpt: >-
   pronunciación, vocabulario y ortografía para elegir la variante que mejor se
   adapta a tus objetivos.
 keywords:
-  - ingles americano vs britanico
-  - diferencias ingles americano britanico
-  - ingles britanico
-  - ingles americano
-  - british english vs american english
-  - cual ingles aprender
+  - 'Inglés Americano vs Británico'
+  - 'diferencias ingles americano britanico'
 author: focus-english-team
 date: '2026-03-07'
 updatedDate: '2026-03-10'

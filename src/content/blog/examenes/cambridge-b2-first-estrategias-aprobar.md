@@ -17,12 +17,8 @@ excerpt: >-
   no saben cómo funciona la corrección. Aquí están las estrategias parte por
   parte, los errores más frecuentes y un plan de 8 semanas para llegar preparado.
 keywords:
-  - cambridge english 2026
-  - cambridge b2 first
-  - fce cambridge estrategias
-  - como aprobar b2 first
-  - cambridge fce trucos
-  - preparacion fce 2026
+  - 'Cambridge B2 First (FCE): Cómo Aprobar'
+  - 'como aprobar b2 first'
 faqs:
   - question: ¿Cuántas veces puedo presentarme al Cambridge B2 First si suspendo?
     answer: >-

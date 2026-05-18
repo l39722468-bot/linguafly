@@ -10,12 +10,8 @@ excerpt: >-
   llamada causativa, tiene una lógica muy concreta y aparece constantemente
   en inglés cotidiano y en exámenes Cambridge. Te la explicamos con calma.
 keywords:
-  - have something done ingles
-  - causativa ingles
-  - get something done ingles
-  - have hair cut ingles
-  - pasiva causativa ingles
-  - causative have get ingles
+  - 'Have Something Done en Inglés'
+  - 'have something done ingles'
 author: focus-english-team
 date: '2026-02-14'
 updatedDate: '2026-03-20'

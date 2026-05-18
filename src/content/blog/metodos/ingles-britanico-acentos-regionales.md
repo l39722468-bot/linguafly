@@ -10,14 +10,8 @@ excerpt: >-
   mundo angloparlante. Descubrir estos acentos no es solo curiosidad lingüística:
   es clave para entender el inglés real que se habla fuera de los libros de texto.
 keywords:
-  - acentos inglés británico regionales
-  - acento cockney
-  - acento scouse liverpool
-  - acento geordie newcastle
-  - acento yorkshire
-  - inglés británico variedades
-  - RP received pronunciation
-  - acentos reino unido
+  - 'Acentos Regionales del Inglés'
+  - 'acentos inglés británico regionales'
 author: focus-english-team
 date: '2026-02-03'
 updatedDate: '2026-02-03'

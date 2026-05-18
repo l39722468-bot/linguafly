@@ -10,12 +10,8 @@ excerpt: >-
   a construirlo sin errores, usarlo en conversaciones reales y diferenciarlo
   del segundo condicional.
 keywords:
-  - third conditional ingles
-  - tercer condicional ingles
-  - would have ingles
-  - if had done ingles
-  - third conditional ejemplos
-  - condicionales pasado ingles b2
+  - 'Third Conditional en Inglés'
+  - 'third conditional ingles'
 author: focus-english-team
 date: '2026-02-13'
 updatedDate: '2026-03-10'

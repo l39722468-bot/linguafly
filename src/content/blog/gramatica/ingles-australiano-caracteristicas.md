@@ -11,13 +11,8 @@ category: gramatica
 readTime: 7 min
 alt: Mapa de Australia con símbolos lingüísticos representando el inglés australiano
 keywords:
-  - ingles australiano como entenderlo
-  - acento australiano caracteristicas
-  - pronunciacion ingles australiano
-  - Australian English fonética
-  - diferencias ingles australiano britanico americano
-  - como entender acento australiano
-  - Australian accent explicado
+  - 'Inglés Australiano: Por Qué Suena Tan Distinto'
+  - 'pronunciacion ingles australiano'
 faqs:
   - question: ¿El inglés australiano es más parecido al británico o al americano?
     answer: >-

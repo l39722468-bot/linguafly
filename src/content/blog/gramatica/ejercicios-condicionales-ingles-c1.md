@@ -10,12 +10,8 @@ excerpt: >-
   La inversión condicional, los mixed conditionals y las estructuras formales
   son lo que separa el B2 del C1 en gramática.
 keywords:
-  - condicionales ingles c1
-  - inversión condicional ingles
-  - mixed conditionals ingles
-  - condicionales avanzados ingles
-  - ejercicios condicionales advanced
-  - were it not for ingles
+  - 'Ejercicios de Condicionales en Inglés C1'
+  - 'condicionales ingles c1'
 author: focus-english-team
 date: '2026-02-28'
 updatedDate: '2026-03-10'

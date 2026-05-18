@@ -9,12 +9,8 @@ excerpt: >-
   argumentar, proponer, suavizar y convencer. Te enseñamos cuándo y cómo
   usarlos en cada tipo de texto.
 keywords:
-  - condicionales ingles writing
-  - condicionales ensayo ingles
-  - condicionales email formal ingles
-  - writing ingles b2 c1
-  - gramatica writing cambridge
-  - condicionales propuestas ingles
+  - 'Condicionales en Inglés para Writing'
+  - 'condicionales ingles writing'
 author: focus-english-team
 date: '2026-03-03'
 updatedDate: '2026-03-10'

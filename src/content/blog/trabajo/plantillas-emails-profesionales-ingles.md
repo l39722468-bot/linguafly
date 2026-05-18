@@ -13,13 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/plantillas-emails-profesionales-ingles
 readTime: 5 min
 keywords:
-  - emails profesionales ingles
-  - plantillas email ingles
-  - correos profesionales ingles
-  - email formal ingles ejemplos
-  - como escribir un email en ingles
-  - frases para emails de trabajo ingles
-  - modelos de correo ingles
+  - '20 Plantillas de Emails Profesionales'
+  - 'emails profesionales ingles'
 faqs:
   - question: ¿Cuál es la diferencia entre "Kind regards" y "Best regards"?
     answer: >-

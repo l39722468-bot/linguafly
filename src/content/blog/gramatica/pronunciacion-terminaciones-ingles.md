@@ -10,14 +10,8 @@ excerpt: >-
   del pasado tiene tres pronunciaciones distintas, la -s del plural tiene dos,
   y hay reglas claras para saber cuál usar en cada caso. Aquí están todas.
 keywords:
-  - pronunciación terminaciones inglés
-  - pronunciar -ed inglés
-  - pronunciación plural inglés
-  - terminación -ed pasado inglés
-  - -s -es pronunciación inglés
-  - fonética terminaciones inglés
-  - pronunciación verbos regulares inglés
-  - reglas pronunciación inglés
+  - 'Cómo se Pronuncian las Terminaciones'
+  - 'pronunciación terminaciones inglés'
 author: focus-english-team
 date: '2026-02-28'
 updatedDate: '2026-02-28'

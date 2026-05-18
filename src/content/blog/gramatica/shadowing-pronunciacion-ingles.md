@@ -11,13 +11,8 @@ category: gramatica
 readTime: 8 min
 alt: Persona practicando pronunciación con auriculares y transcripción
 keywords:
-  - shadowing ingles
-  - tecnica shadowing pronunciacion
-  - como mejorar pronunciacion ingles rapidamente
-  - shadowing idiomas
-  - imitar nativos ingles
-  - metodo shadowing Alexander Arguelles
-  - practica pronunciacion natural ingles
+  - 'Shadowing para Mejorar'
+  - 'shadowing idiomas'
 faqs:
   - question: ¿Qué es exactamente el shadowing?
     answer: >-

@@ -9,13 +9,8 @@ category: gramatica
 alt: Persona estudiando los modales perfectos en inglés con ejemplos reales
 readTime: 7 min
 keywords:
-  - modales perfectos ingles
-  - must have could have should have ingles
-  - modal perfect ingles
-  - verbos modales pasado ingles
-  - especular pasado ingles
-  - should have ingles arrepentimiento
-  - could have ingles posibilidad
+  - 'Modales Perfectos en Inglés'
+  - 'modales perfectos ingles'
 excerpt: >-
   Los modales perfectos son la clave para hablar del pasado con matiz. Con ellos puedes deducir lo que ocurrió, criticar lo que no se hizo, expresar arrepentimiento y hablar de posibilidades que no se cumplieron. Son estructura modal + have + participio.
 faqs:

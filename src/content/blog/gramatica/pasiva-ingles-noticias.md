@@ -10,13 +10,8 @@ excerpt: >-
   reconoces bien, pierdes matices importantes. Aquí están las estructuras que
   más aparecen y por qué los periodistas las eligen.
 keywords:
-  - pasiva ingles noticias
-  - passive voice news ingles
-  - voz pasiva ingles periodismo
-  - titulares pasivos ingles
-  - leer noticias ingles comprension
-  - inglés periodístico pasiva
-  - passive voice practice ejercicios
+  - 'Voz Pasiva en Inglés para Leer'
+  - 'voz pasiva ingles periodismo'
 author: focus-english-team
 date: '2026-03-07'
 updatedDate: '2026-03-10'

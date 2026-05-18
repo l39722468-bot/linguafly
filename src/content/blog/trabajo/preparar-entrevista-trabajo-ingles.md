@@ -17,12 +17,8 @@ excerpt: >-
   preparación. Con las respuestas preparadas, el vocabulario adecuado y la
   técnica STAR dominada, la entrevista se convierte en una conversación que puedes controlar.
 keywords:
-  - entrevista de trabajo en ingles
-  - preparar entrevista trabajo ingles
-  - como superar entrevista ingles
-  - entrevista laboral ingles consejos
-  - tecnica star ingles entrevista
-  - vocabulario entrevista trabajo ingles
+  - 'Cómo Preparar una Entrevista'
+  - 'preparar entrevista trabajo ingles'
 faqs:
   - question: ¿Cuánto tiempo antes debo empezar a prepararme para una entrevista en inglés?
     answer: >-

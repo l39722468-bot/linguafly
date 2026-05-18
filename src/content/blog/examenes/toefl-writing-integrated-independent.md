@@ -10,13 +10,8 @@ excerpt: >-
   una lectura con un audio y argumentar en un foro académico. Con la estructura
   adecuada y algo de práctica, un 25/30 es perfectamente alcanzable.
 keywords:
-  - toefl writing
-  - toefl integrated writing
-  - toefl independent writing
-  - toefl writing academic discussion
-  - estructura toefl writing
-  - toefl writing 25 30
-  - ejemplos toefl writing
+  - 'TOEFL Writing: Integrated e Independent Explicados'
+  - 'toefl integrated writing'
 author: focus-english-team
 date: '2026-04-17'
 updatedDate: '2026-04-17'

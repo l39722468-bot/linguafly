@@ -4,13 +4,8 @@ description: "Estrategias específicas para las partes 5, 6, 7 y 8 del Reading a
 readTime: 8 min
 excerpt: "En el Reading del CAE el tiempo es el enemigo principal. Con la estrategia correcta para cada parte, puedes terminar con margen y obtener una puntuación que marque la diferencia."
 keywords:
-  - reading cae estrategias
-  - reading c1 advanced trucos
-  - como hacer reading cae
-  - multiple matching cae
-  - gapped text cae
-  - reading and use of english c1
-  - comprension lectora cae ingles
+  - 'Reading CAE: Cómo Abordar Cada Parte'
+  - 'como hacer reading cae'
 author: focus-english-team
 date: '2026-03-07'
 updatedDate: '2026-03-07'

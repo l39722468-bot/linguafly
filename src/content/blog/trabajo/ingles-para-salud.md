@@ -10,16 +10,8 @@ description: >-
   sanitaria.
 readTime: 5 min
 keywords:
-  - inglés para salud
-  - inglés médico
-  - inglés para enfermería
-  - vocabulario clínico inglés
-  - atención al paciente inglés
-  - inglés médico online
-  - terminología médica inglés
-  - inglés para fisioterapia
-  - medical english vocabulary
-  - comunicación sanitaria inglés
+  - 'Curso de Inglés para el Sector Salud'
+  - 'inglés para salud'
 canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-para-salud'
 related_routes:
   - ingles-para-trabajo

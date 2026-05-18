@@ -9,12 +9,8 @@ excerpt: >-
   casi todos los contextos profesionales. Dominarla es lo que separa un correo
   creíble de uno que suena raro o amateur.
 keywords:
-  - estructura email formal ingles
-  - como escribir email formal ingles
-  - partes email profesional ingles
-  - formato correo profesional ingles
-  - email ingles estructura
-  - email formal ingles ejemplos
+  - 'Cómo Estructurar un Email Formal'
+  - 'como escribir email formal ingles'
 author: focus-english-team
 date: '2026-02-03'
 updatedDate: '2026-03-10'

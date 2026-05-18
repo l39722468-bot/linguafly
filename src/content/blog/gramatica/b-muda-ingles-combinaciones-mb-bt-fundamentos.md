@@ -9,11 +9,8 @@ description: >-
   frecuentes y errores al leer en voz alta desde el español.
 readTime: 22 min
 keywords:
-  - b muda ingles
-  - letras mudas inglés
-  - pronunciación inglés b
-  - mb inglés silent b
-  - silent letters inglés
+  - 'La “b” muda en inglés: fundamentos'
+  - 'b muda ingles'
 alt: Letras de máquina de escribir antigua
 excerpt: >-
   Aprende a leer correctamente palabras como climb, thumb y debt: reglas

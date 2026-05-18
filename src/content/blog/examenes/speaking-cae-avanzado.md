@@ -4,13 +4,8 @@ description: "Guía completa del Speaking del C1 Advanced: qué evalúan los exa
 readTime: 8 min
 excerpt: "En el Speaking del CAE no te evalúan si tu inglés es perfecto, sino si puedes comunicarte con fluidez, precisión y naturalidad. Aquí tienes lo que necesitas saber para cada fase."
 keywords:
-  - speaking cae estrategias
-  - speaking c1 advanced trucos
-  - como preparar speaking cae
-  - long turn cae speaking
-  - collaborative task cae speaking
-  - criterios evaluacion speaking cae
-  - speaking cambridge c1 avanzado
+  - 'Speaking CAE: Cómo Brillar'
+  - 'como preparar speaking cae'
 author: focus-english-team
 date: '2026-03-11'
 updatedDate: '2026-03-11'

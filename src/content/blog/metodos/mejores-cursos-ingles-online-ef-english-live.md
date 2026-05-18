@@ -9,11 +9,8 @@ category: metodos
 readTime: 8 min
 alt: 'Profesor de inglés online en pantalla'
 keywords:
-  - curso de ingles
-  - mejores cursos de ingles online
-  - ef english live opinion
-  - curso ingles online 24 horas
-  - ingles empresas online
+  - 'EF English Live: 24/7 y negocios'
+  - 'ef english live opinion'
 faqs:
   - question: '¿EF English Live es mejor para negocios que para exámenes?'
     answer: >-

@@ -11,12 +11,8 @@ excerpt: >-
   profesionalidad; usar los incorrectos puede hacer que pierdas credibilidad
   aunque tu inglés sea bueno.
 keywords:
-  - vocabulario entrevista trabajo ingles
-  - palabras clave entrevista ingles
-  - action verbs entrevista ingles
-  - como describir habilidades ingles entrevista
-  - vocabulario profesional entrevista ingles
-  - frases entrevista trabajo ingles
+  - 'Vocabulario para Entrevistas'
+  - 'vocabulario profesional entrevista ingles'
 author: focus-english-team
 date: '2026-02-08'
 updatedDate: '2026-03-12'

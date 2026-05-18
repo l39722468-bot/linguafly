@@ -11,13 +11,8 @@ category: gramatica
 readTime: 8 min
 alt: Diccionario inglés con transcripción fonética IPA visible
 keywords:
-  - como leer transcripcion fonetica ingles
-  - IPA ingles diccionario
-  - leer fonemas ingles
-  - transcripcion fonetica diccionario ingles
-  - simbolos IPA mas comunes
-  - alfabeto fonetico internacional ingles practica
-  - descifrar pronunciacion ingles diccionario
+  - 'Cómo Leer la Transcripción Fonética'
+  - 'como leer transcripcion fonetica ingles'
 faqs:
   - question: ¿Qué diccionario es mejor para aprender a leer transcripciones fonéticas?
     answer: >-

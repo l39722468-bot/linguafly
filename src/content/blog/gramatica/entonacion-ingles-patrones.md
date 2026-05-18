@@ -11,13 +11,8 @@ category: gramatica
 readTime: 8 min
 alt: Onda sonora de la entonación del inglés hablado
 keywords:
-  - entonacion ingles
-  - patrones entonacion ingles
-  - entonacion ascendente descendente ingles
-  - como suena natural en ingles
-  - tonos ingles pronunciacion
-  - intonation ingles
-  - prosodia ingles
+  - 'Entonación en Inglés: Los Patrones'
+  - 'patrones entonacion ingles'
 faqs:
   - question: ¿Qué es la entonación?
     answer: >-

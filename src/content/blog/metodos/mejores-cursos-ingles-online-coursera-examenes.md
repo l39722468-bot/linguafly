@@ -9,11 +9,8 @@ category: metodos
 readTime: 8 min
 alt: 'Ordenador con plataforma de cursos online universitarios'
 keywords:
-  - curso de ingles
-  - mejores cursos de ingles online
-  - coursera ielts
-  - curso ielts online
-  - academic english online
+  - 'Coursera: MOOCs IELTS académico'
+  - 'coursera ielts'
 faqs:
   - question: '¿Un MOOC de Coursera sustituye a un examen IELTS?'
     answer: >-

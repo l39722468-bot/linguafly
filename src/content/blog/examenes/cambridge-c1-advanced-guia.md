@@ -15,14 +15,8 @@ excerpt: >-
   que muy pocos candidatos saben demostrar. Aquí tienes las estructuras avanzadas,
   los trucos para el Use of English y el vocabulario que separa el Grade C del Grade A.
 keywords:
-  - preparacion cae cambridge
-  - cae cambridge estructura examen
-  - use of english c1 ejercicios
-  - speaking cae estrategias
-  - inversiones ingles c1
-  - cleft sentences examples
-  - voz pasiva avanzada ingles
-  - use of english c1 tips
+  - 'Guía C1 Advanced (CAE): Estrategias'
+  - 'speaking cae estrategias'
 faqs:
   - question: '¿Qué diferencia al C1 Advanced (CAE) del B2 First en términos de exigencia?'
     answer: 'En el B2, el objetivo principal es la corrección gramatical. En el C1, se espera sofisticación, matices y flexibilidad lingüística. Los examinadores buscan estructuras de énfasis como inversiones, cleft sentences y participle clauses, además de vocabulario preciso e idioms avanzados en lugar de palabras genéricas como "good" o "bad".'

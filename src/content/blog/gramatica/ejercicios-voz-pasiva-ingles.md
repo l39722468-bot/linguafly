@@ -10,12 +10,8 @@ excerpt: >-
   pasiva en inglés organizados por dificultad, con sus soluciones explicadas
   para que entiendas exactamente qué y por qué.
 keywords:
-  - ejercicios voz pasiva ingles soluciones
-  - passive voice ejercicios ingles
-  - practicar pasiva ingles
-  - ejercicios pasiva ingles b2
-  - voz pasiva ingles actividades
-  - passive voice practice ejercicios
+  - 'Ejercicios de Voz Pasiva en Inglés'
+  - 'ejercicios voz pasiva ingles soluciones'
 author: focus-english-team
 date: '2026-03-10'
 updatedDate: '2026-03-10'

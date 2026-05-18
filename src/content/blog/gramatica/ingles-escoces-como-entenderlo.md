@@ -11,13 +11,8 @@ category: gramatica
 readTime: 7 min
 alt: Paisaje de las Highlands escocesas evocando el inglés escocés
 keywords:
-  - ingles escoces como entenderlo
-  - acento escoces caracteristicas
-  - Scottish English pronunciacion
-  - diferencias ingles escoces ingles britanico
-  - Scottish Standard English
-  - como entender acento escocés
-  - ingles escocia rasgos fonéticos
+  - 'Inglés Escocés: Por Qué Suena Tan Distinto'
+  - 'diferencias ingles escoces ingles britanico'
 faqs:
   - question: ¿El escocés y el inglés escocés son lo mismo?
     answer: >-

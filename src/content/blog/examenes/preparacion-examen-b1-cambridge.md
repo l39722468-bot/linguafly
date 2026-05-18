@@ -15,23 +15,8 @@ excerpt: >-
   piden. Tanto si vas al Cambridge PET, al Aptis o al Linguaskill, aquí tienes
   el plan de estudio, los recursos gratuitos y los consejos que marcan la diferencia.
 keywords:
-  - preparacion examen b1 ingles
-  - cambridge pet b1
-  - aptis general b1
-  - examen b1 ingles consejos
-  - preparar b1 cambridge solo
-  - examen pet cambridge guia
-  - recursos gratis b1 ingles
-  - practicar speaking b1 solo
-  - título b1 ingles online
-  - ingles b1 online gratis
-  - ejercicios b1 ingles
-  - examen aptis
-  - puntuacion aptis
-  - preparacion aptis online
-  - precios examenes cambridge
-  - linguaskill cambridge
-  - certificacion rapida ingles
+  - 'Preparación Examen B1 Inglés'
+  - 'examen b1 ingles consejos'
 canonical: 'https://www.focus-on-english.com/blog/examenes/preparacion-examen-b1-cambridge'
 related_routes:
   - certificaciones-ingles

@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/ingles-customer-service-telefono-chat
 readTime: 6 min
 keywords:
-  - ingles para atencion al cliente
-  - customer service ingles telefono
-  - frases atencion cliente ingles chat
-  - inglés soporte cliente
-  - como hablar ingles atencion al cliente
-  - ingles call center
+  - 'Inglés para Customer Service'
+  - 'customer service ingles telefono'
 faqs:
   - question: ¿Cómo mantengo la calma cuando un cliente furioso habla muy rápido en inglés?
     answer: >-

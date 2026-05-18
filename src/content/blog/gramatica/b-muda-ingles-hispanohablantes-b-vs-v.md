@@ -9,11 +9,8 @@ description: >-
   practicar /b/ y /v/ en inglés sin interferencias.
 readTime: 22 min
 keywords:
-  - b muda ingles
-  - b y v en inglés hispanohablantes
-  - pronunciación inglés b v
-  - letras mudas inglés
-  - fonética inglés español
+  - '“B” muda en inglés y confusión b/v'
+  - 'b muda ingles'
 alt: Profesor explicando en pizarra
 excerpt: >-
   Estrategias para separar tres mundos: b/v del español, /b/ y /v/ del inglés,

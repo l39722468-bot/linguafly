@@ -14,14 +14,8 @@ excerpt: >-
   oficial del Ministerio de Educación español. Aquí tienes la estructura
   completa, las fechas habituales y cómo prepararlo sin ir a clases.
 keywords:
-  - examen ingles EOI
-  - EOI ingles nivel b2
-  - escuela oficial de idiomas ingles
-  - EOI certificado ingles
-  - examen eoi b1 ingles
-  - EOI c1 ingles
-  - preparar examen EOI ingles
-  - matricula EOI ingles
+  - 'Examen de Inglés de la EOI: Niveles'
+  - 'examen ingles EOI'
 alt: 'Estudiante preparando el examen de inglés de la Escuela Oficial de Idiomas'
 canonical: 'https://www.focus-on-english.com/blog/examenes/examenes-eoi-ingles-guia'
 faqs:

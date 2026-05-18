@@ -10,14 +10,8 @@ excerpt: >-
   esenciales del backshift, cómo transformar preguntas y órdenes, y accede a
   ejemplos prácticos diseñados para mejorar tu fluidez y precisión gramatical.
 keywords:
-  - reported speech rules
-  - estilo indirecto ingles
-  - reported speech examples
-  - cambios verbales reported speech
-  - gramatica b2 c1
-  - backshift ingles
-  - reporting verbs list
-  - reported speech
+  - 'Reported Speech'
+  - 'cambios verbales reported speech'
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-10'

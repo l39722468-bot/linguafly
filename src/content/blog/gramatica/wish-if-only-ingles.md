@@ -10,12 +10,8 @@ excerpt: >-
   cosas muy distintas. Te explicamos las tres estructuras de wish e if only
   con ejemplos reales y cómo no confundirlas en exámenes.
 keywords:
-  - wish ingles
-  - if only ingles
-  - wish past simple ingles
-  - wish would ingles
-  - wish past perfect ingles
-  - deseos en ingles b2
+  - 'Wish e If Only en Inglés: Deseos'
+  - 'wish ingles'
 author: focus-english-team
 date: '2026-02-19'
 updatedDate: '2026-03-10'

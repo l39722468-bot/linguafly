@@ -11,13 +11,8 @@ excerpt: >-
   la izquierda. Esta guía reúne el vocabulario y las frases que marcan la
   diferencia.
 keywords:
-  - ingles alquilar coche
-  - alquiler coche extranjero ingles
-  - vocabulario alquiler coche ingles
-  - frases rent a car ingles
-  - seguros coche alquiler ingles
-  - gasolinera ingles
-  - conducir extranjero ingles
+  - 'Inglés para Alquilar un Coche en el Extranjero'
+  - 'ingles alquilar coche'
 author: focus-english-team
 date: '2026-04-19'
 updatedDate: '2026-04-19'

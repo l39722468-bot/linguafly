@@ -11,14 +11,8 @@ excerpt: >-
   que otros, y técnicas que aceleran el proceso. Aquí está lo que realmente
   importa.
 keywords:
-  - mejorar acento inglés
-  - reducir acento español inglés
-  - pronunciación natural inglés
-  - sonar nativo inglés
-  - cómo mejorar pronunciación inglés
-  - acento inglés ejercicios
-  - técnicas pronunciación inglés
-  - hablar inglés sin acento
+  - 'Cómo Mejorar tu Acento en Inglés: Lo'
+  - 'mejorar acento inglés'
 author: focus-english-team
 date: '2026-02-25'
 updatedDate: '2026-02-25'

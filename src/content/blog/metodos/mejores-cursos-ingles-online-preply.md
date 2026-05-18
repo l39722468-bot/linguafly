@@ -9,11 +9,8 @@ category: metodos
 readTime: 8 min
 alt: 'Videollamada con tutor de inglés'
 keywords:
-  - curso de ingles
-  - mejores cursos de ingles online
-  - preply ingles examenes
-  - tutor ielts online
-  - preparacion cambridge online
+  - 'Preply: tutores para IELTS y Cambridge'
+  - 'preply ingles examenes'
 faqs:
   - question: '¿Preply es un curso cerrado o elijo yo al profesor?'
     answer: >-

@@ -9,11 +9,8 @@ category: metodos
 readTime: 8 min
 alt: 'Móvil con app de idiomas'
 keywords:
-  - curso de ingles
-  - mejores cursos de ingles online
-  - babbel ingles opinion
-  - curso ingles online b2
-  - preparacion examen ingles online
+  - 'Babbel: ¿válido para IELTS o Cambridge?'
+  - 'babbel ingles opinion'
 faqs:
   - question: '¿Babbel prepara para el B2 First o el IELTS?'
     answer: >-

@@ -9,11 +9,8 @@ description: >-
   seguimiento y tono profesional en chat y correo.
 readTime: 22 min
 keywords:
-  - atención al cliente inglés
-  - inglés para soporte
-  - email soporte inglés
-  - chat customer service inglés
-  - inglés profesional servicio
+  - 'Email y chat de soporte en inglés'
+  - 'email soporte inglés'
 alt: Persona escribiendo en portátil
 excerpt: >-
   Guía práctica para mensajes de soporte: estructura, conectores, evitar

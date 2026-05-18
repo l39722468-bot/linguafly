@@ -4,13 +4,8 @@ description: "Guía completa de las Key Word Transformations del C1 Advanced: lo
 readTime: 9 min
 excerpt: "Las Key Word Transformations son la parte del CAE que más candidatos suspenden y más nota discrimina. Conocer los patrones que usa Cambridge te permite resolverlas con mucha más seguridad."
 keywords:
-  - key word transformations cae
-  - key word transformation c1 advanced
-  - parte 4 use of english cae
-  - transformaciones clave cambridge c1
-  - key word transformation ejemplos
-  - como hacer key word transformation
-  - inversiones cae key word
+  - 'Key Word Transformations CAE: Domina'
+  - 'key word transformations cae'
 author: focus-english-team
 date: '2026-03-17'
 updatedDate: '2026-03-17'

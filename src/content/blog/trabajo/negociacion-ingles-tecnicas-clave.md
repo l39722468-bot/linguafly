@@ -13,13 +13,8 @@ alt: Dos profesionales estrechando la mano tras una exitosa negociación comerci
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/negociacion-ingles-tecnicas-clave
 keywords:
-  - clases de inglés
-  - negociación en inglés
-  - inglés para ejecutivos
-  - cerrar acuerdos inglés
-  - business english negotiation
-  - frases persuasión inglés
-  - softeners inglés negocios
+  - 'Negociación en Inglés: Estrategias'
+  - 'negociación en inglés'
 faqs:
   - question: ¿Cómo puedo sonar firme pero educado en una negociación?
     answer: >-

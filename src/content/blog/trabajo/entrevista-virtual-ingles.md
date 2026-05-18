@@ -10,12 +10,8 @@ excerpt: >-
   tus respuestas importa igual, pero el setup, la cámara y cómo gestionas
   los problemas técnicos también forman parte de la evaluación.
 keywords:
-  - entrevista virtual ingles
-  - video interview ingles trabajo
-  - videollamada entrevista trabajo ingles
-  - online interview ingles preparacion
-  - entrevista zoom ingles profesional
-  - entrevista trabajo videollamada ingles
+  - 'Entrevista Virtual en Inglés: Cómo'
+  - 'entrevista virtual ingles'
 author: focus-english-team
 date: '2026-02-11'
 updatedDate: '2026-03-12'

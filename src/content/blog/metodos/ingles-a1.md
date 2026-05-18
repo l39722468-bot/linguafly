@@ -10,16 +10,8 @@ description: >-
   construir una base sólida y perder el miedo al idioma.
 readTime: 3 min
 keywords:
-  - curso inglés a1
-  - aprender inglés desde cero
-  - inglés para principiantes
-  - nivel a1 inglés
-  - gramática básica inglés
-  - inglés básico online
-  - niveles ingles mcer
-  - aprender ingles rapido
-  - mejorar ingles
-  - curso ingles
+  - 'Inglés A1: Guía para Empezar desde Cero'
+  - 'aprender inglés desde cero'
 canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-a1'
 related_routes:
   - ingles-a2

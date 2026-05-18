@@ -10,12 +10,8 @@ excerpt: >-
   las costumbres británicas que te evitarán malentendidos y te harán conectar con
   los locales de verdad.
 keywords:
-  - cultura anglosajona
-  - costumbres britanicas
-  - cultura britanica guia
-  - etiqueta reino unido
-  - normas sociales ingles britanico
-  - como comportarse en reino unido
+  - 'Costumbres Británicas: Lo Que Nadie'
+  - 'costumbres britanicas'
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-03-10'

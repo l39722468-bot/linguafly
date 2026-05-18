@@ -10,12 +10,8 @@ excerpt: >-
   esencial de Instagram, TikTok, YouTube, Twitter y más para comunicarte como un
   nativo digital.
 keywords:
-  - ingles moderno internet
-  - vocabulario ingles redes sociales
-  - terminos digitales ingles
-  - ingles para redes sociales
-  - social media vocabulary english
-  - terminologia instagram tiktok ingles
+  - 'Vocabulario Inglés para Redes'
+  - 'vocabulario ingles redes sociales'
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-03-10'

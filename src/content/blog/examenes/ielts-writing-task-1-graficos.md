@@ -9,11 +9,8 @@ category: examenes
 alt: Gráficos y estadísticas en papel para el IELTS Writing Task 1
 readTime: 7 min
 keywords:
-  - ielts writing task 1
-  - como describir graficos ielts
-  - ielts writing task 1 vocabulario
-  - ielts academic writing task 1
-  - ielts task 1 graficos diagramas
+  - 'IELTS Writing Task 1: Cómo Describir'
+  - 'ielts writing task 1'
 excerpt: >-
   El Task 1 del IELTS Writing Academic es una carrera contra el reloj: 20 minutos para analizar un gráfico y escribir 150 palabras que convenzan al examinador de que sabes lo que estás mirando.
 faqs:

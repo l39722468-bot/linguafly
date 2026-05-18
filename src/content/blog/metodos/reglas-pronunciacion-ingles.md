@@ -8,15 +8,8 @@ excerpt: >-
   Mejora tu acento y claridad al hablar. Guía académica con las reglas de
   pronunciación fundamentales, ejemplos de nivel Cambridge y lista de práctica.
 keywords:
-  - reglas de pronunciacion en ingles
-  - reglas pronunciacion ingles
-  - como pronunciar ingles
-  - letras mudas ingles
-  - letras mudas en ingles lista
-  - magic e ingles
-  - terminacion ed ingles pronunciacion
-  - ejercicios pronunciacion ingles
-  - palabras dificiles pronunciar ingles
+  - 'Reglas de Pronunciación en Inglés'
+  - 'reglas pronunciacion ingles'
 author: focus-english-team
 date: '2026-02-06'
 updatedDate: '2026-03-10'

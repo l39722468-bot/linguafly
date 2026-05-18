@@ -11,17 +11,8 @@ category: metodos
 readTime: 13 min
 alt: Persona estudiando inglés con auriculares frente a una pantalla con contenido educativo de la BBC
 keywords:
-  - BBC Learning English
-  - BBC Learning English gratis
-  - aprender inglés gratis BBC
-  - BBC Learning English secciones
-  - 6 Minute English
-  - The English We Speak BBC
-  - BBC Learning English niveles
-  - rutina BBC Learning English
-  - BBC Learning English sin internet
-  - aprender inglés podcasts BBC
-  - BBC Learning English 2026
+  - 'BBC Learning English'
+  - 'BBC Learning English sin internet'
 faqs:
   - question: '¿BBC Learning English es completamente gratis?'
     answer: >-

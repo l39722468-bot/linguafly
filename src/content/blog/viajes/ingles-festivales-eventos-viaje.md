@@ -10,16 +10,8 @@ category: viajes
 readTime: 10 min
 alt: Multitud disfrutando de un festival de música al aire libre
 keywords:
-  - ingles para festivales
-  - vocabulario festival musica ingles
-  - ingles eventos deportivos
-  - comprar entradas ingles
-  - ingles conciertos viaje
-  - ingles ferias internacionales
-  - vocabulario evento ingles
-  - ingles recinto festival
-  - ingles conocer gente viaje
-  - ingles celebraciones culturales
+  - 'Inglés para Festivales y Eventos en el Extranjero'
+  - 'ingles para festivales'
 canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-festivales-eventos-viaje'
 faqs:
   - question: ¿Cómo compro entradas para un festival en inglés?

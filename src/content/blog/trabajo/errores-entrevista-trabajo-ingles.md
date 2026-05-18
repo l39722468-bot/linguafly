@@ -10,12 +10,8 @@ excerpt: >-
   cualificación, sino por errores evitables en la entrevista. Aquí tienes
   los más frecuentes y cómo no caer en ellos.
 keywords:
-  - errores entrevista trabajo ingles
-  - mistakes job interview english
-  - como no fallar entrevista ingles
-  - errores comunes entrevista ingles
-  - que no decir entrevista trabajo ingles
-  - fallos entrevista ingles profesional
+  - 'Errores en Entrevistas de Trabajo'
+  - 'errores entrevista trabajo ingles'
 author: focus-english-team
 date: '2026-02-20'
 updatedDate: '2026-03-12'

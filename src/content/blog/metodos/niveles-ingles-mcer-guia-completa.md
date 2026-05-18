@@ -10,13 +10,8 @@ excerpt: >-
   Descubre qué significa cada uno, qué exámenes los certifican y cuántas horas
   necesitas para avanzar.
 keywords:
-  - niveles ingles mcer
-  - niveles de ingles
-  - marco comun europeo ingles
-  - nivel a1 a2 b1 b2 c1 c2 ingles
-  - cefr english levels
-  - cuanto tarda subir nivel ingles
-  - test nivel ingles gratis
+  - 'Niveles de Inglés MCER'
+  - 'niveles de ingles'
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-03-10'

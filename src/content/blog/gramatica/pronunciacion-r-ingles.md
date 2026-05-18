@@ -10,14 +10,8 @@ excerpt: >-
   sonido completamente distinto que se produce de una manera que nunca has
   hecho antes en tu idioma. Aquí te explico exactamente cómo funciona.
 keywords:
-  - pronunciación r inglés
-  - r inglesa pronunciación
-  - r americana inglés
-  - r rótica inglés
-  - diferencia r inglés español
-  - cómo pronunciar r inglés
-  - fonética inglés r
-  - r inglés americano vs británico
+  - 'La R en Inglés: Por Qué No Funciona'
+  - 'pronunciación r inglés'
 author: focus-english-team
 date: '2026-02-22'
 updatedDate: '2026-02-22'

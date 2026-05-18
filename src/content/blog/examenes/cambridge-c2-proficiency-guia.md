@@ -11,11 +11,8 @@ description: >-
   consejos.
 readTime: 4 min
 keywords:
-  - preparacion cpe cambridge
-  - ingles proficiency
-  - cpe cambridge estructura
-  - cambridge proficiency exam consejos
-  - como aprobar c2 proficiency cambridge
+  - 'Examen C2 Proficiency (CPE)'
+  - 'ingles proficiency'
 canonical: 'https://www.focus-on-english.com/blog/examenes/cambridge-c2-proficiency-guia'
 related_routes:
   - certificaciones-ingles

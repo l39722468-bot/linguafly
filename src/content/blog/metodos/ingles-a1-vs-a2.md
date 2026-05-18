@@ -9,11 +9,8 @@ excerpt: >-
   tu nivel, dominar la gramática básica y pasar de nivel principiante a
   elemental.
 keywords:
-  - ingles a1 vs a2
-  - nivel ingles a1
-  - nivel ingles a2
-  - diferencia a1 y a2 ingles
-  - como pasar de nivel ingles
+  - 'Inglés A1 vs A2: Diferencias Clave'
+  - 'ingles a1 vs a2'
 date: '2024-02-03'
 updatedDate: '2026-03-10'
 category: metodos

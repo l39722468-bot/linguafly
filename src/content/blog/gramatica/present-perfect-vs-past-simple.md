@@ -10,14 +10,8 @@ excerpt: >-
   explicamos las reglas de nivel Cambridge, los marcadores temporales y ejemplos
   prácticos para dominarlos.
 keywords:
-  - present perfect and past simple
-  - present perfect tense examples
-  - difference between present perfect and past simple
-  - ejemplos present perfect vs past simple
-  - gramatica inglesa
-  - ejercicios gramatica ingles
-  - clases de gramatica en ingles gratis
-  - present perfect vs past simple
+  - 'Present Perfect vs Past Simple'
+  - 'difference between present perfect and past simple'
 date: '2026-03-02'
 updatedDate: '2026-03-10'
 category: gramatica

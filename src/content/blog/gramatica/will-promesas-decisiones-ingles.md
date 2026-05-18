@@ -9,13 +9,8 @@ category: gramatica
 alt: Persona haciendo una promesa en inglés usando will
 readTime: 7 min
 keywords:
-  - will promesas ingles
-  - will decisiones espontaneas ingles
-  - will ingles usos
-  - como hacer promesas en ingles
-  - will para compromisos ingles
-  - will oferta ingles
-  - will decision en el momento ingles
+  - 'Will para Promesas y Decisiones'
+  - 'will promesas ingles'
 excerpt: >-
   Dos de los usos más importantes de will en inglés son las promesas y las decisiones espontáneas. Aprende cómo funcionan, con ejemplos reales y los errores típicos de hispanohablantes.
 faqs:

@@ -10,12 +10,8 @@ excerpt: >-
   reclutador. Si suena genérico o tiene errores, el CV pasa a la papelera
   sin abrirse. Aquí tienes cómo hacerlo bien.
 keywords:
-  - email solicitud empleo ingles
-  - cover email ingles trabajo
-  - como enviar cv en ingles email
-  - job application email ingles
-  - correo solicitud trabajo ingles
-  - email candidatura ingles
+  - 'Email de Solicitud de Empleo'
+  - 'email solicitud empleo ingles'
 author: focus-english-team
 date: '2026-02-21'
 updatedDate: '2026-03-10'

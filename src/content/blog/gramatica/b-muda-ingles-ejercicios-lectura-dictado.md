@@ -9,11 +9,8 @@ description: >-
   contrastándolas con sonidos /b/ reales para evitar confusión.
 readTime: 22 min
 keywords:
-  - b muda ingles
-  - ejercicios pronunciación inglés
-  - dictado inglés b1 b2
-  - silent b practice
-  - letras mudas ejercicios
+  - 'Ejercicios de “b” muda en inglés'
+  - 'b muda ingles'
 alt: Cuaderno y lápiz sobre mesa de estudio
 excerpt: >-
   Rutina de estudio de 30 minutos: lectura en voz alta, dictado guiado y pares

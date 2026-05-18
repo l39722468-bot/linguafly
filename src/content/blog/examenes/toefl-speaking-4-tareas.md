@@ -10,13 +10,8 @@ excerpt: >-
   tiene su plantilla óptima y su trampa típica. Te explico cómo responder con
   estructura y qué errores te bajan del 26 al 22.
 keywords:
-  - toefl speaking
-  - tareas toefl speaking
-  - estructura toefl speaking
-  - ejemplos toefl speaking
-  - toefl speaking 26
-  - vocabulario toefl speaking
-  - toefl independent speaking
+  - 'TOEFL Speaking: Las 4 Tareas Explicadas con Ejemplos'
+  - 'tareas toefl speaking'
 author: focus-english-team
 date: '2026-04-18'
 updatedDate: '2026-04-18'

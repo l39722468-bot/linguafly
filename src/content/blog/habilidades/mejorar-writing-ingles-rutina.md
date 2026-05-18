@@ -10,13 +10,8 @@ excerpt: >-
   estructura, revisión y rutina. Esta guía te da un método concreto y un plan
   semanal que funciona para cualquier examen o contexto profesional.
 keywords:
-  - mejorar writing ingles
-  - rutina writing ingles
-  - escribir mejor en ingles
-  - writing examen ingles
-  - corregir writing ingles con ia
-  - errores writing hispanohablantes
-  - ejercicios writing ingles
+  - 'Cómo Mejorar el Writing en Inglés: Rutina Real'
+  - 'mejorar writing ingles'
 author: focus-english-team
 date: '2026-04-16'
 updatedDate: '2026-04-16'

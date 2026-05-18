@@ -9,13 +9,8 @@ excerpt: >-
   necesitas un intercambio ni una clase para producir frases en voz alta todos los días.
   Estas ocho técnicas te dan estructura, repetición y feedback sin pagar a nadie.
 keywords:
-  - mejorar speaking ingles
-  - practicar speaking solo
-  - hablar ingles sin partner
-  - como soltarse hablando ingles
-  - ejercicios speaking ingles
-  - speaking sin academia
-  - monologos ingles practica
+  - 'Cómo Practicar Speaking en Inglés Estando Solo'
+  - 'practicar speaking solo'
 author: focus-english-team
 date: '2026-04-16'
 updatedDate: '2026-04-16'

@@ -9,13 +9,8 @@ excerpt: >-
   lo mismo en inglés formal. Te explicamos cuándo aparecen, cómo formarlas y
   por qué los nativos las prefieren en ciertos contextos.
 keywords:
-  - pasiva impersonal ingles
-  - it is said that ingles
-  - reporting passive ingles
-  - it is believed ingles
-  - passive reporting verbs
-  - pasiva impersonal ejemplos
-  - passive voice practice ejercicios
+  - 'Pasiva Impersonal en Inglés: It Is Said That'
+  - 'pasiva impersonal ingles'
 author: focus-english-team
 date: '2026-02-11'
 updatedDate: '2026-03-10'

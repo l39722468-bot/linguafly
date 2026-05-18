@@ -9,11 +9,8 @@ description: >-
   equipo, rescate y convivencia en refugios o rutas multiculturales.
 readTime: 22 min
 keywords:
-  - aprender inglés para mochileros
-  - preparación idiomas viaje
-  - inglés senderismo
-  - inglés naturaleza
-  - trekking inglés vocabulario
+  - 'Inglés para mochileros en naturaleza'
+  - 'inglés naturaleza'
 alt: Sendero de montaña con bosque
 excerpt: >-
   Guía práctica de inglés outdoor para mochileros: trail, weather, gear, señales

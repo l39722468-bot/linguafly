@@ -5,13 +5,8 @@ excerpt: >-
   Practica los cuatro tipos de condicionales en inglés con ejercicios resueltos.
   Perfecto para preparar B1 Preliminary, B2 First o cualquier examen de inglés.
 keywords:
-  - ejercicios condicionales ingles
-  - ejercicios condicionales ingles b1 b2
-  - condicionales en ingles ejercicios resueltos
-  - first conditional ejercicios
-  - second conditional ejercicios
-  - third conditional ejercicios
-  - gramatica inglesa b2
+  - 'Ejercicios de Condicionales en Inglés B1-B2'
+  - 'condicionales en ingles ejercicios resueltos'
 author: focus-english-team
 description: >-
   Ejercicios de condicionales en inglés B1-B2 con soluciones: practica los cuatro tipos con correcciones detalladas. Perfecto para preparar B2 First, C1 Advanced y exámenes oficiales.

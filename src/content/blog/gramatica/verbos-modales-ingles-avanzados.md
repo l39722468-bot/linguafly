@@ -10,11 +10,8 @@ excerpt: >-
   inglés. Modales perfectos, semi-modales y cómo sonar como un hablante nativo en
   contextos C1/C2.
 keywords:
-  - verbos modales ingles
-  - verbos modales ingles avanzados
-  - modales perfectos ingles
-  - modal verbs advanced
-  - would could should might
+  - 'Verbos Modales en Inglés Avanzados'
+  - 'verbos modales ingles avanzados'
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-03-10'

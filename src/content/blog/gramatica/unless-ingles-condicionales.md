@@ -9,12 +9,8 @@ excerpt: >-
   en conversación y en exámenes. Te explicamos cuándo usar cada uno y cómo
   dominar las otras conjunciones condicionales que te darán puntos extras.
 keywords:
-  - unless ingles
-  - unless if not diferencia
-  - provided that ingles
-  - as long as ingles
-  - conjunciones condicionales ingles
-  - unless ejemplos ingles
+  - 'Unless en Inglés: Cómo Usarlo'
+  - 'unless ingles'
 author: focus-english-team
 date: '2026-02-16'
 updatedDate: '2026-03-10'

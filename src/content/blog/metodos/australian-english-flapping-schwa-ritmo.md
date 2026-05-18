@@ -9,11 +9,8 @@ description: >-
   frecuentes en el inglés australiano, con ejercicios para hispanohablantes.
 readTime: 22 min
 keywords:
-  - australian english fonética
-  - schwa inglés australiano
-  - ritmo inglés australiano
-  - pronunciación australiana
-  - entonación inglés
+  - 'Australian English: schwa, ritmo'
+  - 'australian english fonética'
 alt: Ondas de sonido abstractas
 excerpt: >-
   Cómo escuchar y producir patrones más naturales en inglés australiano:

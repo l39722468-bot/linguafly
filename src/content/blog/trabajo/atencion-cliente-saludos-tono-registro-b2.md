@@ -9,11 +9,8 @@ description: >-
   rígido: frases modelo para chat, email y mostrador en inglés de servicio.
 readTime: 22 min
 keywords:
-  - atención al cliente inglés
-  - inglés para soporte
-  - inglés servicio al cliente
-  - customer service inglés frases
-  - registro formal inglés
+  - 'Saludos, tono y registro en atención'
+  - 'registro formal inglés'
 alt: Profesionales en oficina de atención
 excerpt: >-
   Guía práctica de inglés para soporte: opening lines, empatía, límites y

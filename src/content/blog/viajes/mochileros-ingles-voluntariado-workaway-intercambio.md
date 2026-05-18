@@ -9,11 +9,8 @@ description: >-
   presentación de habilidades, horarios, seguridad y comunicación profesional informal.
 readTime: 22 min
 keywords:
-  - aprender inglés para mochileros
-  - preparación idiomas viaje
-  - inglés voluntariado
-  - work exchange inglés
-  - inglés hostel trabajo
+  - 'Inglés para mochileros'
+  - 'aprender inglés para mochileros'
 alt: Personas colaborando en proyecto comunitario al aire libre
 excerpt: >-
   Frases y estrategias en inglés para acuerdos de voluntariado: expectativas,

@@ -9,11 +9,8 @@ description: >-
   replacement, compensation y plazos sin prometer lo indebido.
 readTime: 22 min
 keywords:
-  - atención al cliente inglés
-  - inglés para soporte
-  - refund inglés vocabulario
-  - warranty inglés
-  - SLA inglés customer service
+  - 'Reembolsos, garantías y SLA'
+  - 'SLA inglés customer service'
 alt: Documentos y calculadora sobre mesa de oficina
 excerpt: >-
   Guía léxica B2+ para gestionar políticas comerciales en inglés: qué decir,

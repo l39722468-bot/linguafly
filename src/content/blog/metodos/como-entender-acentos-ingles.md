@@ -10,13 +10,8 @@ excerpt: >-
   que aprendiste es solo uno de los muchos ingleses que existen. Aquí tienes
   el mapa y las herramientas para moverte entre ellos.
 keywords:
-  - cómo entender acentos inglés
-  - comprensión auditiva inglés acentos
-  - entender inglés nativo difícil
-  - variantes inglés comprensión
-  - entrenar oído inglés acentos
-  - acento difícil inglés estrategias
-  - listening inglés acentos regionales
+  - 'Cómo Entender los Acentos del Inglés'
+  - 'cómo entender acentos inglés'
 author: focus-english-team
 date: '2026-02-27'
 updatedDate: '2026-02-27'

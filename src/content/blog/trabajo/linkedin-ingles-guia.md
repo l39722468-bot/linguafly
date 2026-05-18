@@ -13,13 +13,8 @@ alt: >-
   Primer plano de la aplicación LinkedIn en un smartphone sostenido por una
   persona
 keywords:
-  - LinkedIn en inglés
-  - perfil LinkedIn inglés
-  - headline LinkedIn inglés
-  - networking en inglés
-  - career advice
-  - optimizar linkedin inglés
-  - verbos de acción linkedin
+  - 'LinkedIn en Inglés: Cómo Optimizar'
+  - 'optimizar linkedin inglés'
 canonical: 'https://www.focus-on-english.com/blog/trabajo/linkedin-ingles-guia'
 faqs:
   - question: ¿Cómo pongo mi perfil de LinkedIn en dos idiomas?

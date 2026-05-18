@@ -14,14 +14,8 @@ excerpt: >-
   examen certifica de A1 a C1 según tu nivel real. Aquí tienes la estructura
   completa, cuánto cuesta en 2026 y cómo prepararlo para sacar el B2 o C1.
 keywords:
-  - aptis general
-  - aptis general b2
-  - aptis general b1
-  - examen aptis general
-  - aptis general c1
-  - preparar aptis general
-  - aptis general precio 2026
-  - aptis british council
+  - 'Aptis General'
+  - 'aptis general precio 2026'
 alt: 'Estudiante realizando un examen de inglés por ordenador para el Aptis General'
 canonical: 'https://www.focus-on-english.com/blog/examenes/aptis-general-guia-completa'
 faqs:

@@ -10,13 +10,8 @@ excerpt: >-
   que no son nativas en ninguna variedad. Ese inglés tiene sus propias reglas,
   su propia lógica y merece ser entendido en sus propios términos.
 keywords:
-  - inglés lingua franca ELF
-  - english as a lingua franca
-  - inglés internacional acentos
-  - inglés no nativo comunicación
-  - acentos inglés global
-  - inteligibilidad inglés
-  - inglés para negocios internacionales
+  - 'El Inglés como Lingua Franca: Cuando'
+  - 'inglés lingua franca ELF'
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-03-02'

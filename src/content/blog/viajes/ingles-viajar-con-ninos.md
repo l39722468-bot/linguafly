@@ -10,16 +10,8 @@ category: viajes
 readTime: 11 min
 alt: Familia con niños pequeños en un aeropuerto internacional con maletas
 keywords:
-  - ingles viajar con ninos
-  - ingles familia viaje
-  - vocabulario ninos ingles viaje
-  - restaurante ninos ingles
-  - pediatra en ingles viaje
-  - ingles parque tematico
-  - ingles avion con ninos
-  - ingles actividades ninos
-  - ingles familia extranjero
-  - vocabulario bebe ingles viaje
+  - 'Inglés para Viajar con Niños'
+  - 'ingles viajar con ninos'
 canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-viajar-con-ninos'
 faqs:
   - question: ¿Cómo pido un asiento para familias en el avión?

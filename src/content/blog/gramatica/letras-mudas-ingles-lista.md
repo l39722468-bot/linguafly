@@ -11,14 +11,8 @@ excerpt: >-
   los patrones que te ayudarán a anticiparlas sin tener que memorizar cada
   palabra por separado.
 keywords:
-  - letras mudas ingles
-  - silent letters ingles
-  - letras que no se pronuncian ingles
-  - k muda ingles
-  - gh muda ingles
-  - b muda ingles
-  - fonética inglesa letras mudas
-  - palabras con letras mudas
+  - 'Letras Mudas en Inglés: Lista y Reglas'
+  - 'letras mudas ingles'
 author: focus-english-team
 date: '2026-02-23'
 updatedDate: '2026-02-23'

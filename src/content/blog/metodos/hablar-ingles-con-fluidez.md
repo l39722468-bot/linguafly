@@ -10,12 +10,8 @@ excerpt: >-
   técnicas más efectivas para hablar inglés con fluidez y confianza, sin importar
   tu nivel actual.
 keywords:
-  - fluidez ingles avanzado
-  - hablar ingles con fluidez
-  - como hablar ingles fluido
-  - mejorar speaking ingles
-  - tecnicas hablar ingles
-  - ingles fluido conversacion
+  - 'Cómo Hablar Inglés con Fluidez: 10'
+  - 'hablar ingles con fluidez'
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-03-10'

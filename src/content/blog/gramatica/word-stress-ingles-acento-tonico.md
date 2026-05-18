@@ -11,13 +11,8 @@ category: gramatica
 readTime: 10 min
 alt: Palabras en inglés con marcas de acento tónico
 keywords:
-  - word stress ingles
-  - acento tonico ingles
-  - silabas acentuadas ingles
-  - reglas word stress ingles
-  - stress ingles pronunciacion
-  - acento en palabras ingles
-  - pares contrastivos ingles
+  - 'Word Stress en Inglés: La Regla'
+  - 'word stress ingles'
 faqs:
   - question: ¿Qué es el word stress?
     answer: >-

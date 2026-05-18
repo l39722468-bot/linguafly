@@ -9,13 +9,8 @@ category: gramatica
 alt: Cuaderno con lista de phrasal verbs para el FCE B2
 readTime: 9 min
 keywords:
-  - phrasal verbs b2
-  - phrasal verbs fce
-  - phrasal verbs first certificate
-  - phrasal verbs nivel b2 ingles
-  - phrasal verbs examen cambridge b2
-  - verbos frasales b2
-  - phrasal verbs use of english
+  - 'Phrasal Verbs para el B2 (FCE): Lista Completa'
+  - 'phrasal verbs fce'
 excerpt: >-
   El B2 First exige manejar los phrasal verbs con soltura, especialmente en las partes de Use of English y Writing. Esta es la lista de los que aparecen con más frecuencia y los que más confunden.
 faqs:

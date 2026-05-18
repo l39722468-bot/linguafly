@@ -11,13 +11,8 @@ category: gramatica
 readTime: 8 min
 alt: Cuadro fonético internacional del inglés en papel
 keywords:
-  - IPA ingles guia practica
-  - como usar IPA para aprender ingles
-  - alfabeto fonetico internacional ingles
-  - aprender IPA ingles rapido
-  - IPA en el estudio del ingles
-  - fonemas ingles IPA
-  - cuadro fonetico ingles
+  - 'IPA para Inglés: Cómo Usarlo'
+  - 'como usar IPA para aprender ingles'
 faqs:
   - question: ¿Cuánto tiempo lleva aprender el IPA del inglés?
     answer: >-

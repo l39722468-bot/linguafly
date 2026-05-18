@@ -10,14 +10,8 @@ excerpt: >-
   símbolos clave ya puedes leer la pronunciación de cualquier palabra en el
   diccionario. Aquí te explico cómo funciona y cómo usarlo desde el primer día.
 keywords:
-  - IPA inglés
-  - alfabeto fonético internacional inglés
-  - cómo leer IPA inglés
-  - transcripción fonética inglés
-  - símbolos fonéticos inglés
-  - fonética inglesa IPA
-  - diccionario fonético inglés
-  - aprender IPA inglés
+  - 'IPA en Inglés: Cómo Leer el Alfabeto'
+  - 'cómo leer IPA inglés'
 author: focus-english-team
 date: '2026-02-26'
 updatedDate: '2026-02-26'

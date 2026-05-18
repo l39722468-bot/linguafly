@@ -11,14 +11,8 @@ category: metodos
 readTime: 12 min
 alt: Tarjetas de vocabulario en inglés sobre una mesa de estudio
 keywords:
-  - anki para aprender inglés
-  - cómo usar anki inglés
-  - mazos anki inglés
-  - anki vocabulario inglés
-  - anki srs inglés
-  - repetición espaciada anki
-  - anki gratis español
-  - mejores mazos anki inglés gratis
+  - 'Anki para Aprender Inglés'
+  - 'mazos anki inglés'
 faqs:
   - question: '¿Anki es gratis para aprender inglés?'
     answer: >-

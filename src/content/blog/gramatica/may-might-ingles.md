@@ -9,13 +9,8 @@ category: gramatica
 alt: Persona expresando incertidumbre aprendiendo may y might en inglés
 readTime: 6 min
 keywords:
-  - may might ingles diferencia
-  - may might usos ingles
-  - posibilidad ingles may might
-  - verbos modales ingles
-  - might significado ingles
-  - may permiso ingles
-  - incertidumbre ingles
+  - 'May y Might en Inglés: Cómo Expresar'
+  - 'may might ingles diferencia'
 excerpt: >-
   May y might son los dos modales que más se parecen entre sí. Ambos expresan posibilidad, pero hay diferencias de grado, de registro y de uso que vale la pena conocer. Especialmente en los usos de may para permiso y en las formas perfectas.
 faqs:

@@ -9,13 +9,8 @@ category: gramatica
 alt: Estudiante aprendiendo la diferencia entre will y would en inglés
 readTime: 7 min
 keywords:
-  - will would diferencia ingles
-  - will ingles usos
-  - would ingles usos
-  - futuro ingles will would
-  - verbos modales ingles
-  - condicional ingles would
-  - predicciones ingles will
+  - 'Will vs Would en Inglés: Cuándo Usar'
+  - 'will would diferencia ingles'
 excerpt: >-
   Will y would se parecen, pero no son simplemente presente y pasado. Will habla del futuro real; would habla de hipótesis, cortesía y hábitos pasados. Entender la diferencia cambia cómo suenas en inglés.
 faqs:

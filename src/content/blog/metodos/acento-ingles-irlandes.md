@@ -11,13 +11,8 @@ excerpt: >-
   que repita lo que acaba de decir, esta guía te explica por qué y qué puedes
   hacer al respecto.
 keywords:
-  - acento irlandés inglés
-  - irish english características
-  - inglés irlandés pronunciación
-  - acento dublin inglés
-  - hiberno english
-  - acento irlanda fonética
-  - inglés irlanda diferencias
+  - 'El Acento Irlandés: Por Qué el Inglés'
+  - 'acento irlandés inglés'
 author: focus-english-team
 date: '2026-02-12'
 updatedDate: '2026-02-12'

@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/examenes/aptis-advanced-c1-guia
 readTime: 5 min
 keywords:
-  - aptis general b1
-  - aptis advanced c1
-  - aptis british council guia
-  - examen aptis c1
-  - preparar aptis advanced
-  - aptis 2026
+  - 'Aptis Advanced C1'
+  - 'preparar aptis advanced'
 faqs:
   - question: ¿Cuál es la diferencia entre Aptis General y Aptis Advanced?
     answer: >-

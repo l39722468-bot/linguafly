@@ -10,16 +10,8 @@ category: viajes
 readTime: 12 min
 alt: Viajero disfrutando de una cena en un restaurante al aire libre en el extranjero
 keywords:
-  - ingles para restaurantes
-  - pedir en ingles restaurante
-  - vocabulario bar ingles
-  - carta de vinos ingles
-  - propinas en ingles
-  - reservar mesa ingles
-  - ingles para cenar fuera
-  - vocabulario restaurante viaje
-  - pedir cocktail en ingles
-  - ingles camarero restaurante
+  - 'Inglés para Restaurantes y Bares en el Extranjero'
+  - 'ingles para restaurantes'
 canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-restaurantes-bares-viaje'
 faqs:
   - question: ¿Cómo pido una mesa en un restaurante en inglés?

@@ -16,11 +16,8 @@ alt: >-
   viaje
 canonical: 'https://www.focus-on-english.com/blog/viajes/frases-ingles-emergencias-viajes'
 keywords:
-  - frases emergencia viaje ingles
-  - vocabulario médico inglés viaje
-  - robos y pérdidas inglés viajeros
-  - que decir si te roban en el extranjero ingles
-  - como pedir ambulancia en ingles
+  - 'Frases de Emergencia en Inglés'
+  - 'frases emergencia viaje ingles'
 faqs:
   - question: ¿Cómo pido ayuda médica urgente en inglés?
     answer: >-

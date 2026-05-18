@@ -10,12 +10,8 @@ excerpt: >-
   mostramos cómo usarlo para dar consejos, hacer peticiones corteses y
   expresar hipótesis en situaciones reales de trabajo y conversación.
 keywords:
-  - second conditional ingles
-  - segundo condicional ingles
-  - if i were you ingles
-  - would ingles ejercicios
-  - second conditional ejemplos
-  - condicionales ingles b1 b2
+  - 'Second Conditional en Inglés'
+  - 'second conditional ingles'
 author: focus-english-team
 date: '2026-02-10'
 updatedDate: '2026-03-10'

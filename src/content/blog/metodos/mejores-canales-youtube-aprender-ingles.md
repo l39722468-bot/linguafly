@@ -11,15 +11,8 @@ category: metodos
 readTime: 13 min
 alt: Persona viendo vídeos educativos de inglés en YouTube en su portátil
 keywords:
-  - mejores canales youtube aprender inglés
-  - canales youtube inglés gratis
-  - youtube para aprender inglés
-  - canales inglés nivel básico
-  - canales inglés nivel avanzado
-  - english with lucy youtube
-  - aprender inglés youtube gratis
-  - canales pronunciación inglés
-  - gramática inglés youtube
+  - 'Los Mejores Canales de YouTube'
+  - 'mejores canales youtube aprender inglés'
 faqs:
   - question: '¿Se puede aprender inglés viendo YouTube?'
     answer: >-

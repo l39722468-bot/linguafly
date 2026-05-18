@@ -9,12 +9,8 @@ excerpt: >-
   en noticias, comunicados y contextos formales. Aquí tienes todo lo que
   necesitas para usarla bien.
 keywords:
-  - pasiva futuro ingles
-  - will be pasiva ingles
-  - passive voice future ingles
-  - going to be pasiva ingles
-  - futuro pasiva ingles ejemplos
-  - future passive voice ejercicios
+  - 'Voz Pasiva en Futuro en Inglés: Will'
+  - 'pasiva futuro ingles'
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-03-10'

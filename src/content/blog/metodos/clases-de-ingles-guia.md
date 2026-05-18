@@ -13,13 +13,8 @@ category: metodos
 readTime: 15 min
 alt: Estudiantes colaborando en una clase de inglés moderna
 keywords:
-  - clases de ingles
-  - clases de ingles online
-  - aprender ingles rapido
-  - clases de ingles para adultos
-  - mejores clases de ingles
-  - metodos para aprender ingles
-  - curso ingles
+  - 'Clases de Inglés: Academia, Particular'
+  - 'clases de ingles'
 faqs:
   - question: ¿Cuál es la mejor forma de recibir clases de inglés hoy?
     answer: >-

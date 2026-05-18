@@ -10,12 +10,8 @@ excerpt: >-
   en una entrevista en inglés. La técnica STAR te da una estructura clara para
   responderlas con confianza y sin improvisar.
 keywords:
-  - tecnica STAR entrevista ingles
-  - STAR method interview english
-  - preguntas comportamiento entrevista ingles
-  - behavioral interview questions ingles
-  - tell me about a time ingles
-  - como responder entrevista ingles STAR
+  - 'La Técnica STAR en Inglés: Cómo'
+  - 'como responder entrevista ingles STAR'
 author: focus-english-team
 date: '2026-02-05'
 updatedDate: '2026-03-12'

@@ -11,13 +11,8 @@ category: gramatica
 readTime: 10 min
 alt: Persona escuchando con auriculares y practicando pronunciación
 keywords:
-  - pares minimos ingles
-  - minimal pairs ingles
-  - ejercicios pronunciacion ingles
-  - pares minimos fonemas ingles
-  - como entrenar oido ingles
-  - practica pronunciacion ingles
-  - distincion fonemas ingles
+  - 'Pares Mínimos en Inglés: La Técnica'
+  - 'pares minimos ingles'
 faqs:
   - question: ¿Qué son los pares mínimos?
     answer: >-

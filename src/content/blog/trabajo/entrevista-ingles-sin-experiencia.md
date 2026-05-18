@@ -11,12 +11,8 @@ excerpt: >-
   potencial con ejemplos concretos se diferencian de los que solo se disculpan
   por lo que no tienen.
 keywords:
-  - entrevista trabajo ingles sin experiencia
-  - job interview ingles sin experiencia laboral
-  - como hablar de ti mismo ingles entrevista junior
-  - entrevista primer empleo ingles
-  - entry level job interview ingles
-  - entrevista ingles recien graduado
+  - 'Entrevista de Trabajo en Inglés'
+  - 'entrevista trabajo ingles sin experiencia'
 author: focus-english-team
 date: '2026-02-23'
 updatedDate: '2026-03-12'

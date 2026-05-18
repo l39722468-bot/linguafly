@@ -10,13 +10,8 @@ description: >-
   planes.
 readTime: 6 min
 keywords:
-  - curso inglés a2
-  - nivel elemental inglés
-  - mejorar inglés
-  - conversación básica inglés
-  - gramática nivel a2
-  - estudiar inglés elemental
-  - curso ingles
+  - 'Curso de Inglés A2 Online: Domina'
+  - 'curso inglés a2'
 canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-a2'
 related_routes:
   - ingles-a1

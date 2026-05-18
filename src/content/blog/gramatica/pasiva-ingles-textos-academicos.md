@@ -9,12 +9,8 @@ excerpt: >-
   ensayos formales la usan constantemente para dar objetividad. Te mostramos
   cómo hacerlo bien.
 keywords:
-  - pasiva ingles academico
-  - voz pasiva writing ingles
-  - passive voice academic english
-  - pasiva ingles ensayos
-  - academic writing pasiva
-  - inglés académico estructuras pasiva
+  - 'Voz Pasiva en Inglés Académico: Cómo'
+  - 'pasiva ingles academico'
 author: focus-english-team
 date: '2026-02-23'
 updatedDate: '2026-03-10'

@@ -10,12 +10,8 @@ description: >-
   indirecto.
 readTime: 5 min
 keywords:
-  - reporting verbs exercises pdf
-  - reported speech c1 exercises pdf
-  - ejercicios reported speech pdf
-  - reporting verbs exercises with answers pdf
-  - reported speech questions pdf
-  - reported speech
+  - 'Reported Speech Ejercicios PDF'
+  - 'ejercicios reported speech pdf'
 canonical: 'https://www.focus-on-english.com/blog/gramatica/reported-speech-ejercicios-pdf'
 alt: Ejercicios de reported speech en formato PDF
 faqs:

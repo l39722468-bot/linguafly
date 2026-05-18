@@ -4,13 +4,8 @@ description: "Aprende a resolver la formación de palabras del CAE con seguridad
 readTime: 8 min
 excerpt: "La Parte 3 del Use of English no requiere suerte ni intuición: requiere conocer los patrones de formación de palabras en inglés. Una vez que los interiorizas, esta parte pasa de ser temida a ser una de las más seguras."
 keywords:
-  - word formation cae
-  - word formation cambridge c1
-  - formacion de palabras cae ingles
-  - prefijos ingles c1
-  - sufijos ingles c1
-  - parte 3 use of english cae
-  - word formation ejercicios c1
+  - 'Word Formation CAE: Prefijos, Sufijos'
+  - 'word formation cae'
 author: focus-english-team
 date: '2026-03-15'
 updatedDate: '2026-03-15'

@@ -11,13 +11,8 @@ category: gramatica
 readTime: 9 min
 alt: Hispanohablante practicando pronunciación inglesa con un profesor
 keywords:
-  - errores pronunciacion ingles hispanohablantes
-  - errores tipicos pronunciacion ingles
-  - como mejorar pronunciacion ingles español
-  - problemas pronunciacion ingles español
-  - fallos comunes pronunciacion ingles
-  - corregir acento español ingles
-  - interferencia español ingles pronunciacion
+  - 'Los 10 Errores de Pronunciación'
+  - 'errores pronunciacion ingles hispanohablantes'
 faqs:
   - question: ¿Cuánto tiempo lleva corregir los errores de pronunciación más comunes?
     answer: >-

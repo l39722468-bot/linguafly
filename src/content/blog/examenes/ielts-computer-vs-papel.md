@@ -9,11 +9,8 @@ category: examenes
 alt: Ordenador portátil y cuaderno sobre una mesa, representando los dos formatos del IELTS
 readTime: 6 min
 keywords:
-  - ielts computer vs papel
-  - ielts computer delivered
-  - ielts online vs presencial
-  - que formato elegir ielts
-  - ielts diferencias formato
+  - 'IELTS por Ordenador vs en Papel'
+  - 'ielts computer vs papel'
 excerpt: >-
   El IELTS se puede hacer en papel o por ordenador. El examen es el mismo, los criterios son los mismos y la nota tiene el mismo valor. Pero la experiencia es bastante diferente y elegir bien puede afectar a tu resultado.
 faqs:

@@ -11,12 +11,8 @@ category: viajes
 readTime: 13 min
 alt: Cocina profesional con utensilios y alimentos preparados
 keywords:
-  - ingles en la cocina
-  - vocabulario culinario ingles
-  - recetas en ingles vocabulario
-  - ingles cocina profesional
-  - utensilios cocina ingles
-  - tecnicas cocina ingles
+  - 'Inglés en la Cocina: Vocabulario'
+  - 'ingles en la cocina'
 faqs:
   - question: ¿Cómo se convierten las temperaturas del horno en recetas americanas?
     answer: >-

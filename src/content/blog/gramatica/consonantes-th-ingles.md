@@ -9,14 +9,8 @@ excerpt: >-
   existe en español. Si siempre has dicho "d" o "z" donde debería ir TH, aquí
   tienes la explicación y los ejercicios para corregirlo.
 keywords:
-  - pronunciar th ingles
-  - sonido th ingles
-  - th sorda inglés
-  - th sonora inglés
-  - fonema theta inglés
-  - IPA th ingles
-  - consonantes inglés hispanohablantes
-  - th diferencia
+  - 'Cómo Pronunciar la TH en Inglés'
+  - 'pronunciar th ingles'
 author: focus-english-team
 date: '2026-02-11'
 updatedDate: '2026-02-11'

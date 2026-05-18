@@ -10,13 +10,8 @@ excerpt: >-
   más malentendidos. Si alguna vez has visto EastEnders o Snatch y te has perdido
   la mitad de los diálogos, esta guía te explica exactamente qué está pasando.
 keywords:
-  - cockney acento inglés
-  - cockney pronunciación características
-  - glotal stop inglés
-  - th-fronting cockney
-  - rhyming slang cockney
-  - east end londres acento
-  - cockney vs estuary english
+  - 'Cockney: El Acento del East End'
+  - 'east end londres acento'
 author: focus-english-team
 date: '2026-02-15'
 updatedDate: '2026-02-15'

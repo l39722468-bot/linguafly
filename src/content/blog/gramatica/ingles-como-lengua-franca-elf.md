@@ -11,13 +11,8 @@ category: gramatica
 readTime: 7 min
 alt: Reunión internacional de personas de distintos países comunicándose en inglés
 keywords:
-  - ingles como lengua franca ELF
-  - English as lingua franca
-  - ingles no nativo comunicacion
-  - pronunciacion ingles internacional
-  - que pronunciacion ingles aprender
-  - ELF fonologia
-  - ingles mundial pronunciacion
+  - 'Inglés como Lengua Franca (ELF)'
+  - 'ELF fonologia'
 faqs:
   - question: ¿Qué es el inglés como lengua franca (ELF)?
     answer: >-

@@ -9,13 +9,8 @@ category: gramatica
 alt: Estudiante aprendiendo los usos del Present Perfect en inglés
 readTime: 6 min
 keywords:
-  - present perfect usos
-  - cuando usar present perfect ingles
-  - present perfect ejemplos
-  - usos del present perfect
-  - present perfect español
-  - have has participio ingles
-  - present perfect reglas
+  - 'Present Perfect en Inglés: Los 4 Usos'
+  - 'present perfect usos'
 excerpt: >-
   El Present Perfect no es difícil si entiendes qué lógica hay detrás. Son básicamente 4 situaciones distintas, y una vez que las reconoces, la elección entre present perfect y past simple empieza a ser casi automática.
 faqs:

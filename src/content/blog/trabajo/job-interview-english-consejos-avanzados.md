@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/job-interview-english-consejos-avanzados
 readTime: 5 min
 keywords:
-  - job interview english
-  - entrevista trabajo ingles avanzado
-  - tecnicas entrevista ingles b2 c1
-  - storytelling entrevista ingles
-  - negociacion entrevista ingles
-  - ingles entrevista multinacional
+  - 'Job Interview English: Técnicas'
+  - 'job interview english'
 faqs:
   - question: ¿Cuál es la diferencia entre una entrevista competencial y una técnica?
     answer: >-

@@ -9,12 +9,8 @@ category: trabajo
 readTime: 16 min
 alt: Camarero con delantal negro atendiendo clientes en un restaurante moderno
 keywords:
-  - ingles para camareros y hosteleria
-  - ingles hosteleria trabajo
-  - vocabulario hosteleria ingles
-  - trabajar camarero uk ingles
-  - frases camarero ingles
-  - ingles restaurante bar
+  - 'Inglés para Camareros y Hostelería'
+  - 'ingles hosteleria trabajo'
 faqs:
   - question: ¿Qué nivel de inglés necesito para trabajar como camarero en UK o Irlanda?
     answer: >-

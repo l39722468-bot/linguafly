@@ -9,11 +9,8 @@ description: >-
   declaraciones, vuelos con escala y situaciones frecuentes sin pánico.
 readTime: 15 min
 keywords:
-  - aprender inglés para mochileros
-  - preparación idiomas viaje
-  - inglés aeropuerto
-  - aduanas inglés
-  - inglés frontera
+  - 'Inglés para mochileros en aeropuertos'
+  - 'aprender inglés para mochileros'
 alt: Avión aterrizando vista desde ventanilla
 excerpt: >-
   Domina el inglés que necesitas en aeropuertos y controles fronterizos: colas,

@@ -13,12 +13,8 @@ canonical: >-
   https://www.focus-on-english.com/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones
 readTime: 6 min
 keywords:
-  - ingles para atencion al cliente
-  - frases ingles atencion cliente
-  - expresiones customer service ingles
-  - vocabulario soporte ingles
-  - como responder clientes ingles
-  - frases utiles call center ingles
+  - '50 Frases Esenciales de Inglés'
+  - 'frases utiles call center ingles'
 faqs:
   - question: ¿Cómo digo "en este momento no puedo ayudarte con eso" en inglés de forma profesional?
     answer: >-

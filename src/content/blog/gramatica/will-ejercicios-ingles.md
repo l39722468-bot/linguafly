@@ -9,13 +9,8 @@ category: gramatica
 alt: Cuaderno de ejercicios de inglés abierto sobre una mesa
 readTime: 10 min
 keywords:
-  - ejercicios will ingles
-  - will ingles usos
-  - will ejercicios resueltos ingles
-  - practica will ingles
-  - will going to ejercicios ingles
-  - futuro ingles ejercicios resueltos
-  - will would ejercicios ingles
+  - 'Ejercicios de Will en Inglés'
+  - 'will ejercicios resueltos ingles'
 excerpt: >-
   Practica todos los usos de will en inglés con ejercicios resueltos: futuro, predicciones, promesas, decisiones espontáneas, ofrecimientos y la diferencia con going to. Con soluciones comentadas.
 faqs:

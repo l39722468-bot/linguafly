@@ -9,11 +9,8 @@ description: >-
   y pronunciación en situaciones de viaje real (hostels, transporte, calle).
 readTime: 22 min
 keywords:
-  - aprender inglés para mochileros
-  - preparación idiomas viaje
-  - errores inglés viaje
-  - inglés mochilero hispanohablantes
-  - falsos amigos inglés
+  - 'Errores típicos del español al hablar'
+  - 'errores inglés viaje'
 alt: Mochila de viaje sobre banco en estación
 excerpt: >-
   Guía de corrección para inglés de viaje: qué evitar, qué decir en su lugar y

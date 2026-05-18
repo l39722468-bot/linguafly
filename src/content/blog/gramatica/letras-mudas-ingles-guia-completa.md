@@ -11,13 +11,8 @@ category: gramatica
 readTime: 9 min
 alt: Diccionario de inglés abierto con palabras resaltadas
 keywords:
-  - letras mudas ingles
-  - letras mudas en ingles lista
-  - silent letters ingles
-  - palabras con letras mudas ingles
-  - k muda ingles
-  - b muda ingles
-  - pronunciacion palabras dificiles ingles
+  - 'Letras Mudas en Inglés'
+  - 'palabras con letras mudas ingles'
 faqs:
   - question: ¿Por qué el inglés tiene tantas letras mudas?
     answer: >-

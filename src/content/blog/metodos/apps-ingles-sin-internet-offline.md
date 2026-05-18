@@ -11,16 +11,8 @@ category: metodos
 readTime: 11 min
 alt: Persona estudiando inglés en el móvil dentro de un avión sin conexión a internet
 keywords:
-  - apps inglés sin internet
-  - apps aprender inglés offline
-  - estudiar inglés sin conexión
-  - Anki offline inglés
-  - Duolingo sin internet
-  - apps inglés avión
-  - apps inglés metro
-  - aprender inglés sin datos
-  - apps inglés modo offline
-  - mejor app inglés sin wifi
+  - 'Apps para Aprender Inglés'
+  - 'apps aprender inglés offline'
 faqs:
   - question: '¿Qué app para aprender inglés funciona mejor completamente sin internet?'
     answer: >-

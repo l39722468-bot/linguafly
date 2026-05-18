@@ -9,13 +9,8 @@ category: gramatica
 alt: Persona aprendiendo can y could en inglés con ejemplos
 readTime: 7 min
 keywords:
-  - can could ingles
-  - diferencia can could ingles
-  - can could usos
-  - verbos modales ingles
-  - can habilidad posibilidad permiso
-  - could pasado ingles
-  - peticiones en ingles
+  - 'Can y Could en Inglés: Todos los Usos'
+  - 'can could ingles'
 excerpt: >-
   Can y could parecen fáciles al principio, pero tienen más matices de lo que parece. Más allá de "puedo" y "podía", estos dos modales se usan para posibilidad, permiso, peticiones y hasta deducciones negativas.
 faqs:

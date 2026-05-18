@@ -9,13 +9,8 @@ category: gramatica
 alt: Dos personas conversando en inglés usando phrasal verbs cotidianos
 readTime: 8 min
 keywords:
-  - phrasal verbs conversacion
-  - phrasal verbs cotidianos ingles
-  - phrasal verbs mas usados
-  - phrasal verbs hablar ingles
-  - phrasal verbs series ingles
-  - verbos frasales conversacion
-  - phrasal verbs habla nativa
+  - 'Phrasal Verbs en Conversación'
+  - 'phrasal verbs conversacion'
 excerpt: >-
   Si escuchas inglés nativo —series, podcasts, conversaciones reales— verás que ciertos phrasal verbs aparecen constantemente. Esta es la lista de los que más suenan, con ejemplos tal como se usan de verdad.
 faqs:

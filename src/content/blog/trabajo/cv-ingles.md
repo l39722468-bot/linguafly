@@ -11,12 +11,8 @@ category: trabajo
 readTime: 18 min
 alt: Persona revisando un currículum vitae impreso sobre un escritorio
 keywords:
-  - cv ingles
-  - como hacer un cv en ingles
-  - curriculum vitae en ingles
-  - plantilla cv ingles
-  - resume en ingles
-  - cv ingles ejemplos
+  - 'Cómo Hacer un CV en Inglés'
+  - 'cv ingles'
 faqs:
   - question: ¿Cuál es la diferencia entre un CV y un Resume en inglés?
     answer: >-

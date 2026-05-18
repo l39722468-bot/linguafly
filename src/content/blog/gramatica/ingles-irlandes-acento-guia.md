@@ -11,13 +11,8 @@ category: gramatica
 readTime: 7 min
 alt: Paisaje irlandés evocando la musicalidad del inglés de Irlanda
 keywords:
-  - acento irlandes ingles
-  - ingles irlandes como entenderlo
-  - Irish English fonética
-  - pronunciacion ingles irlanda
-  - diferencias ingles irlandes britanico
-  - Hiberno-English caracteristicas
-  - entender irlandes hablando ingles
+  - 'El Acento Irlandés: Guía para Entender'
+  - 'acento irlandes ingles'
 faqs:
   - question: ¿El inglés irlandés es una variedad con reglas propias?
     answer: >-

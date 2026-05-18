@@ -9,12 +9,8 @@ description: >-
   First (B2), Advanced (C1) y Proficiency (C2). Guía de Key Word Transformation.
 readTime: 5 min
 keywords:
-  - reported speech cambridge
-  - report c1 examples pdf
-  - reported speech rephrasing
-  - report b2 examples
-  - report structure b2
-  - reported speech
+  - 'Reported Speech Cambridge Exams'
+  - 'reported speech cambridge'
 canonical: 'https://www.focus-on-english.com/blog/examenes/reported-speech-cambridge-exams'
 alt: Personas hablando representando el reported speech
 faqs:
