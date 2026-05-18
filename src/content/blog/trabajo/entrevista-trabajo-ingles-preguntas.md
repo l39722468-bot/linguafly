@@ -33,8 +33,6 @@ faqs:
       mucho más profesionalismo que hablar rápido y cometer errores. Los
       reclutadores valoran la claridad y la seguridad, no la velocidad.
 canonical: 'https://www.focus-on-english.com/blog/trabajo/entrevista-trabajo-ingles-preguntas'
-description: >
-  Las 30 preguntas más frecuentes en entrevistas de trabajo en inglés con respuestas modelo. Practica Tell me about yourself, strengths, weaknesses y preguntas de comportamiento tipo STAR.
 ---
 
 ## Prepara tu Entrevista de Trabajo en Inglés como un Profesional
