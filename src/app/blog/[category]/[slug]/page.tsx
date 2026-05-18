@@ -433,7 +433,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                     
                     <div className="bg-white p-8 rounded-2xl border border-slate-100 shadow-sm">
                       <h3 className="font-display text-xl font-bold text-slate-900 mb-4">Sigue practicando gratis</h3>
-                      <p className="text-slate-600 mb-6">Tenemos cursos gratuitos para practicar los distintos niveles de inglés, desde A1 hasta C2.</p>
+                      <p className="text-slate-600 mb-6">Tenemos cursos gratuitos para practicar los distintos niveles de inglés, desde A1 hasta C2, y cada mes añadimos contenido nuevo para que sigas practicando.</p>
                       <div className="flex flex-col sm:flex-row gap-4">
                         <Link 
                           href="/curso-a1"
