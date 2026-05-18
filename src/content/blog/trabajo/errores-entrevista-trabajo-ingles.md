@@ -1,5 +1,5 @@
 ---
-title: 'Errores en Entrevistas de Trabajo'
+title: 'Errores más Comunes en una Entrevista de Trabajo en Inglés'
 description: >-
   Los errores más frecuentes en entrevistas de trabajo en inglés y cómo
   evitarlos. Desde problemas de idioma hasta errores de estrategia y
@@ -10,8 +10,8 @@ excerpt: >-
   cualificación, sino por errores evitables en la entrevista. Aquí tienes
   los más frecuentes y cómo no caer en ellos.
 keywords:
-  - 'Errores en Entrevistas de Trabajo'
-  - 'errores entrevista trabajo ingles'
+  - 'errores más comunes entrevista trabajo inglés'
+  - 'qué no hacer en una entrevista de trabajo en inglés'
 author: focus-english-team
 date: '2026-02-20'
 updatedDate: '2026-03-12'

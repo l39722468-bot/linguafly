@@ -1,5 +1,5 @@
 ---
-title: 'Entrevista Virtual en Inglés: Cómo'
+title: 'Entrevista Virtual en Inglés por Videollamada: Guía Completa'
 description: >-
   Guía completa para entrevistas de trabajo en inglés por videollamada. Setup
   técnico, lenguaje corporal en cámara, vocabulario específico y cómo gestionar
@@ -10,8 +10,8 @@ excerpt: >-
   tus respuestas importa igual, pero el setup, la cámara y cómo gestionas
   los problemas técnicos también forman parte de la evaluación.
 keywords:
-  - 'Entrevista Virtual en Inglés: Cómo'
-  - 'entrevista virtual ingles'
+  - 'entrevista virtual inglés videollamada zoom teams'
+  - 'entrevista trabajo online inglés setup cámara'
 author: focus-english-team
 date: '2026-02-11'
 updatedDate: '2026-03-12'

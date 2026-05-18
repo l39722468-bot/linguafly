@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario para Entrevistas'
+title: 'Vocabulario Esencial para Entrevistas de Trabajo en Inglés'
 description: >-
   Vocabulario esencial para entrevistas de trabajo en inglés. Action verbs,
   palabras para describir tus habilidades, términos de empresa y frases para
@@ -11,8 +11,8 @@ excerpt: >-
   profesionalidad; usar los incorrectos puede hacer que pierdas credibilidad
   aunque tu inglés sea bueno.
 keywords:
-  - 'Vocabulario para Entrevistas'
-  - 'vocabulario profesional entrevista ingles'
+  - 'vocabulario esencial entrevista trabajo inglés'
+  - 'palabras clave inglés profesional entrevista laboral'
 author: focus-english-team
 date: '2026-02-08'
 updatedDate: '2026-03-12'

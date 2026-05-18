@@ -1,20 +1,20 @@
 ---
-title: 'Preguntas Difíciles en Entrevistas'
+title: 'Cómo Responder Preguntas Difíciles en una Entrevista en Inglés'
 date: '2026-02-22'
 updatedDate: '2026-03-10'
 author: focus-english-team
 description: >-
-  Aprende a responder con confianza las preguntas más complicadas en una
-  entrevista de trabajo en inglés. Ejemplos de respuestas modelo, estrategias
-  y vocabulario profesional.
+  Aprende a responder con confianza las preguntas más complicadas y comprometidas
+  en una entrevista de trabajo en inglés. Ejemplos de respuestas modelo,
+  estrategias y vocabulario profesional.
 category: trabajo
 alt: Candidato respondiendo preguntas difíciles en una entrevista de trabajo en inglés
 canonical: >-
   https://www.focus-on-english.com/blog/trabajo/preguntas-dificiles-entrevista-trabajo-ingles
 readTime: 6 min
 keywords:
-  - 'Preguntas Difíciles en Entrevistas'
-  - 'preguntas dificiles entrevista ingles'
+  - 'preguntas difíciles entrevista trabajo inglés respuestas'
+  - 'cómo responder preguntas comprometidas entrevista inglés'
 faqs:
   - question: ¿Cómo respondo a "Tell me about yourself" en inglés sin irme por las ramas?
     answer: >-

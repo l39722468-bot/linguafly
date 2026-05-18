@@ -1,12 +1,12 @@
 ---
-title: 'Cómo Preparar una Entrevista'
+title: 'Cómo Preparar una Entrevista de Trabajo en Inglés: Guía Paso a Paso'
 date: '2026-02-18'
 updatedDate: '2026-03-10'
 author: focus-english-team
 description: >-
-  Prepara tu entrevista de trabajo en inglés con esta guía completa. Estrategias
+  Guía paso a paso para preparar tu entrevista de trabajo en inglés. Estrategias
   de preparación, vocabulario clave, técnica STAR y simulacros de práctica para
-  superar cualquier proceso de selección.
+  superar cualquier proceso de selección en inglés.
 category: trabajo
 alt: Candidato preparándose para una entrevista de trabajo en inglés con un reclutador
 canonical: >-
@@ -17,8 +17,8 @@ excerpt: >-
   preparación. Con las respuestas preparadas, el vocabulario adecuado y la
   técnica STAR dominada, la entrevista se convierte en una conversación que puedes controlar.
 keywords:
-  - 'Cómo Preparar una Entrevista'
-  - 'preparar entrevista trabajo ingles'
+  - 'cómo preparar entrevista trabajo inglés paso a paso'
+  - 'guía preparación entrevista inglés estrategia STAR'
 faqs:
   - question: ¿Cuánto tiempo antes debo empezar a prepararme para una entrevista en inglés?
     answer: >-
