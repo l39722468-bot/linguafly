@@ -5,24 +5,6 @@ import GoogleAnalytics from "@/components/GoogleAnalytics";
 import Cookiebot from "@/components/Cookiebot";
 import UspapiLocator from "@/components/UspapiLocator";
 import { Analytics } from "@vercel/analytics/next";
-import { Nunito, Plus_Jakarta_Sans } from "next/font/google";
-
-// Fuentes mínimas: 3 pesos total para LCP <2.5s
-const nunito = Nunito({
-  subsets: ["latin"],
-  weight: ["400", "700"],
-  variable: "--font-nunito",
-  display: "swap",
-  preload: true,
-});
-
-const jakarta = Plus_Jakarta_Sans({
-  subsets: ["latin"],
-  weight: ["700"],
-  variable: "--font-jakarta",
-  display: "swap",
-  preload: true,
-});
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.focus-on-english.com'),
@@ -95,7 +77,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="es" className={`scroll-smooth ${nunito.variable} ${jakarta.variable}`} suppressHydrationWarning>
+    <html lang="es" className="scroll-smooth" suppressHydrationWarning>
       <head>
         <UspapiLocator />
         <Cookiebot />
@@ -118,6 +100,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         {/* Preconnect críticos: imágenes, Supabase (auth), Cookiebot */}
         <link rel="preconnect" href="https://images.pexels.com" />
         <link rel="dns-prefetch" href="https://images.pexels.com" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <link rel="dns-prefetch" href="https://fonts.gstatic.com" />
+        <link
+          rel="stylesheet"
+          href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Plus+Jakarta+Sans:wght@700&display=swap"
+        />
         <link rel="preconnect" href="https://nprqtjljoekoirlrjxlh.supabase.co" />
         <link rel="dns-prefetch" href="https://nprqtjljoekoirlrjxlh.supabase.co" />
         <link rel="preconnect" href="https://consent.cookiebot.com" />
