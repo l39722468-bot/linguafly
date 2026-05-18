@@ -108,6 +108,16 @@ export function getArticleBySlug(slug: string, category?: string): BlogPost | nu
   return articles.find(a => a.slug === slug) || null;
 }
 
+/**
+ * Devuelve el artículo que canibaliza un hub cuando comparten slug.
+ * Normaliza entrada para cubrir variaciones (espacios, mayúsculas, acentos).
+ */
+export function getDuplicateArticleForHub(keywordOrSlug: string): BlogPost | null {
+  const hubSlug = slugify(keywordOrSlug);
+  if (!hubSlug) return null;
+  return getArticleBySlug(hubSlug);
+}
+
 export function getArticlesByCategory(category: string): BlogPost[] {
   const normalizedSearch = normalizeCategory(category);
   return getBlogArticles().filter(article => normalizeCategory(article.category) === normalizedSearch);

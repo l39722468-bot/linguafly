@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getBlogArticles, getAllKeywords, slugify, normalizeCategory, getArticleBySlug, getHubContent } from "@/lib/blog";
+import { getBlogArticles, getAllKeywords, slugify, normalizeCategory, getDuplicateArticleForHub, getHubContent } from "@/lib/blog";
 import { authors } from "@/lib/authors";
 import { phraseService } from "@/lib/phrases";
 import { CAMARERO_A1_COURSE } from "@/lib/course/camarero-a1";
@@ -146,7 +146,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       .filter(({ keyword, keywordArticles }) => {
         // Excluir hubs con artículo duplicado (mismo slug): el hub es noindex
         // con canonical al artículo, así que no debe entrar en el sitemap.
-        const duplicate = getArticleBySlug(slugify(keyword));
+        const duplicate = getDuplicateArticleForHub(keyword);
         if (duplicate) return false;
         // Incluir si hay ≥3 artículos matching keyword (hub clásico) o
         // si existe archivo de hub propio con contenido indexable.

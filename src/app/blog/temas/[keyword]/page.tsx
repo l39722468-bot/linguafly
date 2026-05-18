@@ -2,7 +2,7 @@ import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { redirect } from "next/navigation";
-import { getArticlesByKeyword, getAllKeywords, slugify, getHubContent, normalizeCategory, getArticleBySlug } from "@/lib/blog";
+import { getArticlesByKeyword, getAllKeywords, slugify, getHubContent, normalizeCategory, getDuplicateArticleForHub } from "@/lib/blog";
 import { Metadata } from "next";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
@@ -45,7 +45,7 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
    * y marcamos el hub como noindex para evitar canibalización.
    * El hub sigue sirviendo como página de navegación interna (follow: true).
    */
-  const duplicateArticle = getArticleBySlug(keyword);
+  const duplicateArticle = getDuplicateArticleForHub(keyword);
   const hasDuplicateArticle = !!duplicateArticle;
   const canonicalUrl = hasDuplicateArticle
     ? `https://www.focus-on-english.com/blog/${normalizeCategory(duplicateArticle.category)}/${duplicateArticle.slug}`
