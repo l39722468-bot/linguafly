@@ -229,7 +229,7 @@ Al terminar los tres meses, la mayoría de alumnos con esta rutina aprueban con 
 - [Connected Speech en Inglés: Por Qué No Entiendes](/blog/gramatica/connected-speech-ingles)
 
 ### Gramática y estilo
-- [Reported speech en inglés: guía de uso](/blog/gramatica/reported-speech-guia-uso)
+- [Reported speech en inglés: guía maestra](/blog/gramatica/guia-maestra-reported-speech)
 - [Voz pasiva en inglés: cuándo usarla bien](/blog/temas/voz-pasiva-ingles)
 - [Condicionales en inglés: guía completa](/blog/gramatica/condicionales-ingles-guia-completa)
 

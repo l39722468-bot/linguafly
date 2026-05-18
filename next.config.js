@@ -82,6 +82,7 @@ const nextConfig = {
       { source: '/blog/metodos/relative-clauses-guia-definitiva', destination: '/blog/gramatica/relative-clauses-guia-definitiva', permanent: true },
       { source: '/blog/metodos/reported-speech-ejercicios-pdf', destination: '/blog/gramatica/reported-speech-ejercicios-pdf', permanent: true },
       { source: '/blog/metodos/reported-speech-guia-uso', destination: '/blog/gramatica/reported-speech-guia-uso', permanent: true },
+      { source: '/blog/gramatica/reported-speech-guia-uso', destination: '/blog/gramatica/guia-maestra-reported-speech', permanent: true },
       { source: '/blog/metodos/reported-speech-questions-commands', destination: '/blog/gramatica/reported-speech-questions-commands', permanent: true },
       { source: '/blog/metodos/reporting-verbs-patterns-list', destination: '/blog/gramatica/reporting-verbs-patterns-list', permanent: true },
       { source: '/blog/metodos/verbos-modales-ingles-guia', destination: '/blog/gramatica/verbos-modales-ingles-guia', permanent: true },

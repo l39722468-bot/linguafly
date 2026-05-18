@@ -115,7 +115,7 @@ El B2 exige exactitud gramatical. Las estructuras de este nivel son las más exa
 
 El estilo indirecto es imprescindible en Writing y Use of English del B2.
 
-→ [Reported Speech: Guía Completa del Estilo Indirecto en Inglés](/blog/gramatica/reported-speech-guia-uso)
+→ [Guía Maestra de Reported Speech y Reporting Verbs: De B2 a C2](/blog/gramatica/guia-maestra-reported-speech)
 → [Reported Speech: Preguntas, Órdenes y Peticiones](/blog/gramatica/reported-speech-questions-commands)
 → [Reported Speech Ejercicios PDF: Practica y Descarga](/blog/gramatica/reported-speech-ejercicios-pdf)
 → [Reporting Verbs Patterns: Lista Completa y Guía de Uso](/blog/gramatica/reporting-verbs-patterns-list)

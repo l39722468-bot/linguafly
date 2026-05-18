@@ -119,7 +119,7 @@ Si te piden **Linguaskill** o **Aptis**, el cuello de botella suele ser **veloci
 
 ### Cómo combinar el blog con material gratuito sin dispersarte
 
-Si tu writing falla en **conectores**, estudia una guía del sitio (por ejemplo [reported speech](/blog/gramatica/reported-speech-guia-uso) o [voz pasiva](/blog/gramatica/voz-pasiva-ingles-guia)) **después** de haber visto ese patrón en tus propios errores. Repite el mismo párrafo dos veces en la misma semana: la repetición deliberada vence a leer veinte artículos sin producir.
+Si tu writing falla en **conectores**, estudia una guía del sitio (por ejemplo [reported speech](/blog/gramatica/guia-maestra-reported-speech) o [voz pasiva](/blog/gramatica/voz-pasiva-ingles-guia)) **después** de haber visto ese patrón en tus propios errores. Repite el mismo párrafo dos veces en la misma semana: la repetición deliberada vence a leer veinte artículos sin producir.
 
 ### Presupuesto y tiempo: la variable que nadie nombra
 

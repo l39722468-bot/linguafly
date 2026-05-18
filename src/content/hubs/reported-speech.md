@@ -128,7 +128,6 @@ El Reported Speech es una herramienta que te permite narrar historias, transmiti
 - [Backshift en Reported Speech: Cuándo Cambiar el Verbo y Cuándo No](/blog/gramatica/reported-speech-backshift-excepciones)
 - [Say vs Tell en Inglés: La Diferencia que Todo el Mundo Confunde](/blog/gramatica/say-vs-tell-ingles)
 - [Expresiones de Tiempo en Reported Speech: Cómo Cambiarlas Correctamente](/blog/gramatica/reported-speech-expresiones-tiempo)
-- [Reported Speech: Guía Completa del Estilo Indirecto en Inglés](/blog/gramatica/reported-speech-guia-uso)
 - [Guía Maestra de Reported Speech y Reporting Verbs: De B2 a C2](/blog/gramatica/guia-maestra-reported-speech)
 - [Reported Speech: Preguntas, Órdenes y Peticiones](/blog/gramatica/reported-speech-questions-commands)
 - [Reporting Verbs Patterns: Lista Completa y Guía de Uso](/blog/gramatica/reporting-verbs-patterns-list)
