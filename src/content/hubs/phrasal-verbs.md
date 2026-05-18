@@ -171,6 +171,6 @@ Los phrasal verbs no son un obstáculo insalvable; son una **llave maestra** al 
 - [Phrasal Verbs con TAKE: Guía Completa con Significados y Ejemplos](/blog/gramatica/phrasal-verbs-with-take)
 - [Phrasal Verbs con GO: Lista Completa con Significados y Ejemplos](/blog/gramatica/phrasal-verbs-with-go)
 - [Phrasal Verbs con PUT: Lista Completa con Significados y Ejemplos](/blog/gramatica/phrasal-verbs-with-put)
-- [Phrasal Verbs para el B2 (FCE): Lista de los Más Importantes con Ejemplos](/blog/gramatica/phrasal-verbs-b2-fce)
+- [Phrasal Verbs B2: Lista Definitiva](/blog/gramatica/phrasal-verbs-guia-b2)
 - [Phrasal Verbs C1 Avanzados: Los Más Usados en Registro Formal y Profesional](/blog/gramatica/phrasal-verbs-c1-avanzados)
 - [Phrasal Verbs en Conversación: Los Más Usados en el Inglés Cotidiano](/blog/gramatica/phrasal-verbs-conversacion-cotidiana)

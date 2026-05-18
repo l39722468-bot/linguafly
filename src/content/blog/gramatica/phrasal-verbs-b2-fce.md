@@ -23,7 +23,7 @@ faqs:
   - question: ¿Es mejor evitar los phrasal verbs en el Writing del FCE?
     answer: >-
       Al contrario. Usarlos correctamente demuestra rango léxico, uno de los cuatro criterios de evaluación. Si solo usas vocabulario formal o neutro y evitas las formas coloquiales, probablemente tu puntuación en lexis no será la máxima.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-b2-fce'
+canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-guia-b2'
 ---
 
 El B2 First no tiene una lista oficial de phrasal verbs que "entran" en el examen. Pero si has hecho muchos exámenes de práctica o conoces bien el formato de Use of English, verás que ciertos phrasal verbs aparecen una y otra vez. No es casualidad: Cambridge selecciona formas de alta frecuencia que un hablante de nivel B2 debería manejar con comodidad.

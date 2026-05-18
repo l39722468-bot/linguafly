@@ -77,6 +77,7 @@ const nextConfig = {
       { source: '/blog/metodos/guia-maestra-reported-speech', destination: '/blog/gramatica/guia-maestra-reported-speech', permanent: true },
       { source: '/blog/metodos/passive-reporting-verbs-guia-avanzada', destination: '/blog/gramatica/passive-reporting-verbs-guia-avanzada', permanent: true },
       { source: '/blog/metodos/phrasal-verbs-guia-b2', destination: '/blog/gramatica/phrasal-verbs-guia-b2', permanent: true },
+      { source: '/blog/gramatica/phrasal-verbs-b2-fce', destination: '/blog/gramatica/phrasal-verbs-guia-b2', permanent: true },
       { source: '/blog/metodos/preposiciones-movimiento-ingles', destination: '/blog/gramatica/preposiciones-movimiento-ingles', permanent: true },
       { source: '/blog/metodos/present-perfect-vs-past-simple', destination: '/blog/gramatica/present-perfect-vs-past-simple', permanent: true },
       { source: '/blog/metodos/relative-clauses-guia-definitiva', destination: '/blog/gramatica/relative-clauses-guia-definitiva', permanent: true },
