@@ -65,6 +65,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.92,
     },
     {
+      url: `${baseUrl}/podcasts`,
+      lastModified: mostRecentArticleDate,
+      changeFrequency: "weekly",
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/cursos-por-sector`,
+      lastModified: COURSE_DATE,
+      changeFrequency: "weekly",
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/ingles-para-viajar`,
       lastModified: mostRecentArticleDate,
       changeFrequency: "weekly",

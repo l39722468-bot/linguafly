@@ -19,6 +19,8 @@ export function Navigation() {
     guides: "/aprender-ingles",
     grammar: "/blog/gramatica",
     vocabulary: "/vocabulario",
+    podcasts: "/podcasts",
+    professionalCourses: "/cursos-por-sector",
   };
   const navLinks = { ...spanishNavLinks, blog: "/blog" };
 
@@ -61,6 +63,12 @@ export function Navigation() {
             </Link>
             <Link href={navLinks.vocabulary} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Vocabulario
+            </Link>
+            <Link href={navLinks.podcasts} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
+              Podcasts
+            </Link>
+            <Link href={navLinks.professionalCourses} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
+              Cursos por sector
             </Link>
           </div>
 
@@ -133,6 +141,20 @@ export function Navigation() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Vocabulario
+              </Link>
+              <Link 
+                href={navLinks.podcasts} 
+                className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Podcasts
+              </Link>
+              <Link 
+                href={navLinks.professionalCourses} 
+                className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Cursos por sector
               </Link>
             </div>
           </div>

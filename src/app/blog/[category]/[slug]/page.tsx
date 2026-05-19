@@ -313,12 +313,41 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       )}
                     </div>
 
-                    <h1 className="font-display text-4xl lg:text-5xl font-black text-slate-900 mb-8 leading-[1.1]">
-                      {article.title}
-                    </h1>
+                     <h1 className="font-display text-4xl lg:text-5xl font-black text-slate-900 mb-8 leading-[1.1]">
+                       {article.title}
+                     </h1>
 
-                    <div className="flex items-center justify-between py-6 border-y border-slate-50">
-                      <div className="flex items-center gap-3">
+                     <section className="mb-8 rounded-2xl border border-coral-100 bg-coral-50/70 p-6">
+                       <h2 className="font-display text-2xl font-black text-slate-900 mb-3">
+                         Cursos gratis, podcasts y cursos por sector profesional
+                       </h2>
+                       <p className="text-slate-700 mb-4">
+                         Tenemos cursos gratuitos para practicar de A1 a C2, podcasts para mejorar listening y cursos especializados por sector profesional.
+                       </p>
+                       <div className="flex flex-wrap gap-3">
+                         <Link
+                           href="/curso-a1"
+                           className="inline-flex items-center justify-center rounded-xl bg-coral-600 px-5 py-2.5 text-sm font-bold text-white hover:bg-coral-700 transition-colors"
+                         >
+                           Ver cursos gratis
+                         </Link>
+                         <Link
+                           href="/podcasts"
+                           className="inline-flex items-center justify-center rounded-xl border border-coral-200 bg-white px-5 py-2.5 text-sm font-bold text-coral-700 hover:bg-coral-50 transition-colors"
+                         >
+                           Explorar podcasts
+                         </Link>
+                         <Link
+                           href="/cursos-por-sector"
+                           className="inline-flex items-center justify-center rounded-xl border border-coral-200 bg-white px-5 py-2.5 text-sm font-bold text-coral-700 hover:bg-coral-50 transition-colors"
+                         >
+                           Cursos por sector
+                         </Link>
+                       </div>
+                     </section>
+
+                     <div className="flex items-center justify-between py-6 border-y border-slate-50">
+                       <div className="flex items-center gap-3">
                         {article.authorData ? (
                           <Link href={`/blog/autor/${article.authorData.slug}`} className="flex items-center gap-3 group">
                             <div className="relative w-12 h-12 rounded-2xl overflow-hidden border-2 border-slate-100 group-hover:border-coral-200 transition-all">
@@ -445,7 +474,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                     
                     <div className="bg-white p-8 rounded-2xl border border-slate-100 shadow-sm">
                       <h3 className="font-display text-xl font-bold text-slate-900 mb-4">Sigue practicando gratis</h3>
-                      <p className="text-slate-600 mb-6">Tenemos cursos gratuitos para practicar los distintos niveles de inglés, desde A1 hasta C2, y cada mes añadimos contenido nuevo para que sigas practicando.</p>
+                      <p className="text-slate-600 mb-6">Tenemos cursos gratuitos de A1 a C2, podcasts para practicar listening y cursos especializados por sector profesional.</p>
                       <div className="flex flex-col sm:flex-row gap-4">
                         <Link 
                           href="/curso-a1"
@@ -454,10 +483,16 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                           Ver cursos gratuitos
                         </Link>
                         <Link 
-                          href="/blog"
+                          href="/podcasts"
                           className="inline-flex items-center justify-center bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-xl font-bold hover:border-coral-200 hover:bg-coral-50/30 transition-all"
                         >
-                          Seguir leyendo en el blog
+                          Escuchar podcasts
+                        </Link>
+                        <Link 
+                          href="/cursos-por-sector"
+                          className="inline-flex items-center justify-center bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-xl font-bold hover:border-coral-200 hover:bg-coral-50/30 transition-all"
+                        >
+                          Ver cursos por sector
                         </Link>
                       </div>
                     </div>
