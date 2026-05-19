@@ -1,9 +1,7 @@
-import { notFound, redirect } from "next/navigation";
+import { notFound } from "next/navigation";
 import Link from "next/link";
 import { Navigation } from "@/components/sections/Navigation";
 import { createClient } from "@/lib/supabase/server";
-import { resolveEntitlements } from "@/lib/access/entitlements";
-import { getUserProfileByAuthId } from "@/lib/access/user-profile";
 import { A1_EPISODES } from "@/lib/podcasts/a1-episodes";
 import PodcastPlayer from "@/components/podcasts/PodcastPlayer";
 
@@ -14,37 +12,26 @@ interface Props {
 export default async function PodcastEpisodePage({ params }: Props) {
   const { episodeId } = await params;
 
+  const episode = A1_EPISODES.find((e) => e.id === episodeId);
+  if (!episode) return notFound();
+
   const supabase = await createClient();
   const {
     data: { user },
   } = await supabase.auth.getUser();
-  if (!user) redirect(`/cuenta/login?next=/mi-panel/podcasts/${episodeId}`);
 
-  const profile = await getUserProfileByAuthId<{
-    subscription_status?: string;
-    subscription_plan?: string;
-  }>(supabase, user.id, "subscription_status, subscription_plan");
+  let initialProgress = 0;
 
-  const entitlements = resolveEntitlements({
-    subscriptionStatus: profile?.subscription_status,
-    subscriptionPlan: profile?.subscription_plan,
-  });
+  if (user) {
+    const { data: progressRow } = await supabase
+      .from("podcast_progress")
+      .select("progress_seconds, completed")
+      .eq("user_id", user.id)
+      .eq("episode_id", episodeId)
+      .maybeSingle();
 
-  if (!entitlements.podcasts) {
-    redirect("/planes?reason=podcasts_requires_subscription");
+    initialProgress = progressRow?.progress_seconds ?? 0;
   }
-
-  const episode = A1_EPISODES.find((e) => e.id === episodeId);
-  if (!episode) return notFound();
-
-  const { data: progressRow } = await supabase
-    .from("podcast_progress")
-    .select("progress_seconds, completed")
-    .eq("user_id", user.id)
-    .eq("episode_id", episodeId)
-    .maybeSingle();
-
-  const initialProgress = progressRow?.progress_seconds ?? 0;
 
   return (
     <>

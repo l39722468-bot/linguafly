@@ -210,6 +210,14 @@ export async function middleware(request: NextRequest) {
     return response;
   }
 
+  // Podcasts son públicos: no requieren autenticación ni suscripción
+  if (
+    pathname === "/mi-panel/podcasts" ||
+    pathname.startsWith("/mi-panel/podcasts/")
+  ) {
+    return response;
+  }
+
   // Protección para áreas privadas del panel, soporte y administración
   const isProtectedArea = 
     pathname.startsWith("/admin") ||
