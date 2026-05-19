@@ -62,12 +62,17 @@ export default function PodcastsPage() {
             </p>
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {featuredEpisodes.map((episode) => (
-                <li key={episode.id} className="rounded-2xl border border-slate-200 bg-slate-50 p-5">
-                  <p className="text-xs font-bold uppercase tracking-wider text-coral-700 mb-2">
-                    Nivel {episode.level} · {episode.durationMinutes} min
-                  </p>
-                  <h3 className="font-bold text-slate-900 mb-2">{episode.title}</h3>
-                  <p className="text-sm text-slate-600">{episode.description}</p>
+                <li key={episode.id}>
+                  <Link
+                    href={`/mi-panel/podcasts/${episode.id}`}
+                    className="block rounded-2xl border border-slate-200 bg-slate-50 p-5 hover:border-coral-200 hover:bg-coral-50/30 transition-colors"
+                  >
+                    <p className="text-xs font-bold uppercase tracking-wider text-coral-700 mb-2">
+                      Nivel {episode.level} · {episode.durationMinutes} min
+                    </p>
+                    <h3 className="font-bold text-slate-900 mb-2">{episode.title}</h3>
+                    <p className="text-sm text-slate-600">{episode.description}</p>
+                  </Link>
                 </li>
               ))}
             </ul>
