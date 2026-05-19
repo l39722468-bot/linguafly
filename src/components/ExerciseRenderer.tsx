@@ -73,6 +73,10 @@ function getTypeTheme(type: string) {
   return TYPE_THEMES[type] ?? TYPE_THEMES['default'];
 }
 
+function collapseAdjacentBlankMarkers(text: string): string {
+  return text.replace(/(?:_{3,})(?:\s+_{3,})+/g, '____');
+}
+
 export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: ExerciseRendererProps) {
   const { completeExercise } = useGamification();
   const [userAnswer, setUserAnswer] = useState<any>(null);
@@ -301,7 +305,8 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
 
   const renderCurrentQuestion = (q: any, qIndex: number) => {
     const rawQuestion = String(q.question || q.text || q.prompt || '');
-    const questionForUi = applyC1QuestionBilingual(exercise.id, rawQuestion);
+    const normalizedQuestion = collapseAdjacentBlankMarkers(rawQuestion);
+    const questionForUi = applyC1QuestionBilingual(exercise.id, normalizedQuestion);
     return (
       <div key={qIndex} className="space-y-4">
         {/* Image */}

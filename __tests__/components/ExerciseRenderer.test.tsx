@@ -270,6 +270,33 @@ describe('ExerciseRenderer - Audio Integration', () => {
       expect(screen.queryByText(/Incorrect\. The correct answer was:/)).not.toBeInTheDocument();
     });
   });
+
+  it('should collapse repeated blank markers into a single gap in the question text', async () => {
+    const exercise: Exercise = {
+      id: 'ex-8',
+      type: 'fill-blank',
+      level: 'B1',
+      topic: 'grammar',
+      topicName: 'Grammar',
+      content: {
+        title: 'Single gap question',
+        questions: [
+          {
+            question: 'I ____ ____ ____ ____ to Paris yesterday.',
+            correctAnswer: 'went',
+            type: 'fill-blank',
+          },
+        ],
+      },
+    };
+
+    render(<ExerciseRenderer exercise={exercise} onComplete={mockOnComplete} />);
+
+    await waitFor(() => {
+      expect(screen.getByText('I ____ to Paris yesterday.')).toBeInTheDocument();
+      expect(screen.queryByText('I ____ ____ ____ ____ to Paris yesterday.')).not.toBeInTheDocument();
+    });
+  });
 });
 
 describe('ExerciseRenderer - Question-level Audio', () => {
