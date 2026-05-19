@@ -21,7 +21,7 @@ async function CourseContent() {
         <div className="relative max-w-5xl mx-auto px-6 py-20">
           <div className="inline-flex items-center gap-2 bg-white/20 border border-white/30 text-white px-4 py-2 rounded-full mb-6">
             <Award className="w-4 h-4 text-yellow-200" />
-            <span className="text-xs font-black tracking-widest uppercase">🏨 Recepcionista / Hotel · Nivel A1 · {level_label}</span>
+            <span className="text-xs font-black tracking-widest uppercase">🏨 Recepcionista / Hotel · Nivel A1 · Principiante</span>
           </div>
           <h1 className="text-5xl sm:text-6xl font-black text-white tracking-tighter mb-4">
             Inglés A1<br />
@@ -31,7 +31,7 @@ async function CourseContent() {
             {units.length} unidades con vocabulario profesional, gramática, escucha y práctica oral para el sector de {"recepcionista / hotel"}.
           </p>
           <Link
-            href="/{route}/unit-1"
+            href="/curso-recepcionista-a1/unit-1"
             className="inline-flex items-center gap-2 bg-white text-slate-900 font-black px-6 py-3 rounded-2xl shadow-lg hover:-translate-y-0.5 transition-all"
           >
             <Zap className="w-4 h-4" />
@@ -63,7 +63,7 @@ async function CourseContent() {
           {units.map((unit: any, i: number) => (
             <Link
               key={unit.id}
-              href={`/{route}/${unit.id}`}
+              href={`/curso-recepcionista-a1/${unit.id}`}
               className="flex items-center gap-4 bg-white rounded-2xl border border-slate-100 shadow-sm p-5 hover:border-slate-300 hover:shadow-md transition-all group"
             >
               <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-xl bg-slate-100 text-lg font-black text-slate-600 group-hover:bg-slate-200 transition-colors">
