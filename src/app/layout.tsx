@@ -3,6 +3,7 @@ import "./globals.css";
 import { OrganizationSchema, WebsiteSchema } from "./schema";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import Cookiebot from "@/components/Cookiebot";
+import CookiebotBannerVisibility from "@/components/CookiebotBannerVisibility";
 import UspapiLocator from "@/components/UspapiLocator";
 import { Analytics } from "@vercel/analytics/next";
 
@@ -133,6 +134,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       </head>
       <body className="antialiased bg-white text-slate-900 font-sans" suppressHydrationWarning>
+        <CookiebotBannerVisibility />
         <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-PR2H3P77"
