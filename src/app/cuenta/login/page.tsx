@@ -9,6 +9,7 @@
 import { useState, useEffect } from 'react';
 import { getUser } from '@/lib/auth-helpers';
 import Link from 'next/link';
+import { trackLogin } from '@/lib/analytics';
 
 function SignInForm() {
   const [callbackUrl, setCallbackUrl] = useState('/curso-a1/outline');
@@ -51,6 +52,7 @@ function SignInForm() {
   const handleSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     setError('');
     setLoading(true);
+    trackLogin('email');
     // El form hace POST nativo a /api/auth/login
   };
 

@@ -13,6 +13,7 @@ import { loadStripe } from '@stripe/stripe-js';
 import { getAllPlans, formatPrice } from "@/lib/subscription-plans";
 import { getUser } from "@/lib/auth-helpers";
 import { supabase } from "@/lib/supabase-client";
+import { trackBeginCheckout, trackSignupIntent } from "@/lib/analytics";
 
 // Inicializar Stripe de forma segura
 const getStripe = async () => {
@@ -138,6 +139,11 @@ export default function SignupPage() {
       if (error) {
         throw new Error(error);
       }
+
+      // Eventos GA4: signup_intent + begin_checkout justo antes de redirigir a Stripe
+      const planData = plans.find((p) => p.id === selectedPlan);
+      trackSignupIntent('registro_page');
+      trackBeginCheckout(selectedPlan, planData?.price ?? 0);
 
       // 3. Redirigir a Stripe Checkout
       if (url) {

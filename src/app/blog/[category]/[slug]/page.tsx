@@ -5,6 +5,8 @@ import { notFound } from "next/navigation";
 import { ShareButton } from "./ShareButton";
 import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schemas";
 import { BlogEnhancements } from "@/components/blog/BlogEnhancements";
+import { BlogAnalytics } from "@/components/blog/BlogAnalytics";
+import { BlogCTAButtons } from "@/components/blog/BlogCTAButtons";
 import { TableOfContents } from "@/components/blog/TableOfContents";
 import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
 import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
@@ -259,6 +261,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
         <JsonLd data={faqSchema} />
 
         <Navigation />
+        <BlogAnalytics
+          slug={slug}
+          category={normalizedCategory}
+          readingTimeMin={parseInt(article.readTime) || 5}
+        />
         
         <main className="min-h-screen bg-slate-50 pt-32 pb-20">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -324,26 +331,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                        <p className="text-slate-700 mb-4">
                          Tenemos cursos gratuitos para practicar de A1 a C2, podcasts para mejorar listening y cursos especializados por sector profesional.
                        </p>
-                       <div className="flex flex-wrap gap-3">
-                         <Link
-                           href="/curso-a1"
-                           className="inline-flex items-center justify-center rounded-xl bg-coral-600 px-5 py-2.5 text-sm font-bold text-white hover:bg-coral-700 transition-colors"
-                         >
-                           Ver cursos gratis
-                         </Link>
-                         <Link
-                           href="/podcasts"
-                           className="inline-flex items-center justify-center rounded-xl border border-coral-200 bg-white px-5 py-2.5 text-sm font-bold text-coral-700 hover:bg-coral-50 transition-colors"
-                         >
-                           Explorar podcasts
-                         </Link>
-                         <Link
-                           href="/cursos-por-sector"
-                           className="inline-flex items-center justify-center rounded-xl border border-coral-200 bg-white px-5 py-2.5 text-sm font-bold text-coral-700 hover:bg-coral-50 transition-colors"
-                         >
-                           Cursos por sector
-                         </Link>
-                       </div>
+                       <BlogCTAButtons location="intro" />
                      </section>
 
                      <div className="flex items-center justify-between py-6 border-y border-slate-50">
@@ -475,26 +463,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                     <div className="bg-white p-8 rounded-2xl border border-slate-100 shadow-sm">
                       <h3 className="font-display text-xl font-bold text-slate-900 mb-4">Sigue practicando gratis</h3>
                       <p className="text-slate-600 mb-6">Tenemos cursos gratuitos de A1 a C2, podcasts para practicar listening y cursos especializados por sector profesional.</p>
-                      <div className="flex flex-col sm:flex-row gap-4">
-                        <Link 
-                          href="/curso-a1"
-                          className="inline-flex items-center justify-center bg-coral-600 text-white px-8 py-4 rounded-xl font-bold hover:bg-coral-700 transition-all hover:scale-[1.02] active:scale-[0.98]"
-                        >
-                          Ver cursos gratuitos
-                        </Link>
-                        <Link 
-                          href="/podcasts"
-                          className="inline-flex items-center justify-center bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-xl font-bold hover:border-coral-200 hover:bg-coral-50/30 transition-all"
-                        >
-                          Escuchar podcasts
-                        </Link>
-                        <Link 
-                          href="/cursos-por-sector"
-                          className="inline-flex items-center justify-center bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-xl font-bold hover:border-coral-200 hover:bg-coral-50/30 transition-all"
-                        >
-                          Ver cursos por sector
-                        </Link>
-                      </div>
+                      <BlogCTAButtons location="footer" />
                     </div>
                   </div>
                 </div>
