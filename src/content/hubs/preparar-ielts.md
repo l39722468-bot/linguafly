@@ -76,7 +76,7 @@ El Speaking y el Listening son idénticos en ambos formatos.
 - [IELTS Reading: Trucos para True/False/Not Given y Matching](/blog/examenes/ielts-reading-trucos)
 - [IELTS Listening: Estrategias por Sección](/blog/examenes/ielts-listening-estrategias)
 - [Vocabulario Académico para el IELTS: Listas por Tema](/blog/examenes/ielts-vocabulario-academico)
-- [Bandas del IELTS Explicadas: Qué Significan y Cómo Subir](/blog/examenes/ielts-band-scores-guia)
+- [Preparar IELTS desde B2: plan de estudio](/blog/examenes/preparar-ielts-desde-b2)
 - [IELTS General Training: Guía Específica para Inmigración](/blog/examenes/ielts-general-training-guia)
 - [IELTS por Ordenador vs en Papel: Cuál Elegir](/blog/examenes/ielts-computer-vs-papel)
 - [El Día del Examen IELTS: Qué Esperar y Cómo Llegar en tu Mejor Forma](/blog/examenes/ielts-dia-del-examen)

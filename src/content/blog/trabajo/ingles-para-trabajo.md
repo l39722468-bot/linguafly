@@ -103,7 +103,7 @@ En 2026, lo que importa es la **claridad**. El mundo de los negocios valora la i
 - [Inglés para inmobiliaria (real estate)](/blog/trabajo/ingles-real-estate-inmobiliario)
 - [Inglés para ingenieros](/blog/trabajo/ingles-para-ingenieros)
 - [Inglés para profesionales de la salud](/blog/trabajo/ingles-para-salud)
-- [Inglés para atención al cliente](/blog/trabajo/ingles-para-atencion-al-cliente)
+- [Inglés para customer service](/blog/trabajo/ingles-customer-service-telefono-chat)
 
 ### Recursos y herramientas
 - [Mejores apps para aprender inglés para el trabajo](/blog/trabajo/mejores-apps-ingles-trabajo)

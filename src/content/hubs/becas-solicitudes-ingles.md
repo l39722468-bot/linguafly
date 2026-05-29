@@ -128,7 +128,7 @@ Cree en tu perfil, dedica tiempo a cada palabra y recuerda: cada "no" es solo pr
 - [Inglés universitario y académico](/blog/examenes/ingles-universitario-academico)
 
 ### Exámenes para certificar nivel
-- [IELTS: bandas y qué significan](/blog/examenes/ielts-band-scores-guia)
+- [Preparar IELTS desde B2: plan de estudio](/blog/examenes/preparar-ielts-desde-b2)
 - [IELTS vs TOEFL: diferencias y cuál elegir](/blog/examenes/ielts-vs-toefl-diferencias-cual-elegir)
 - [Vocabulario académico para IELTS](/blog/examenes/ielts-vocabulario-academico)
 

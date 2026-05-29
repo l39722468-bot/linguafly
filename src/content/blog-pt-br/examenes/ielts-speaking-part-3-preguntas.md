@@ -280,7 +280,7 @@ Para praticar com mais profundidade as estratégias desta seção, você pode re
 - [Estratégias para IELTS Speaking (todas as partes)](/blog/examenes/ielts-speaking-estrategias)
 - [IELTS Writing Task 2: ensaio de opinião](/blog/examenes/ielts-writing-task-2-essay)
 - [Vocabulário acadêmico para IELTS](/blog/examenes/ielts-vocabulario-academico)
-- [Bandas IELTS: como se pontua cada nível](/blog/examenes/ielts-band-scores-guia)
+- [Preparar IELTS: guia completa](/blog/temas/preparar-ielts)
 
 ### Habilidades orais
 - [Como Praticar Speaking em Inglês Estando Sozinho](/blog/habilidades/mejorar-speaking-ingles-solo)

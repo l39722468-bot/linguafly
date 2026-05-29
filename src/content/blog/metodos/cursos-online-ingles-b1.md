@@ -84,7 +84,7 @@ Si tu meta final es el nivel B2, el B1 es la base donde debes construir cimiento
 
 ---
 
-Para el mapa completo de niveles de inglés, consulta [Niveles de Inglés MCER: Guía Completa de A1 a C2](/blog/metodos/niveles-ingles-mcer-guia-completa).
+Para el mapa completo de niveles de inglés, consulta el [hub de niveles de inglés MCER](/blog/temas/niveles-ingles-mcer).
 
 ## Fuentes
 

@@ -133,7 +133,7 @@ La clave del éxito inmobiliario es la comunicación clara y la transparencia. C
 - [Inglés para el sector inmobiliario (real estate)](/blog/trabajo/ingles-real-estate-inmobiliario)
 
 ### Atención al cliente internacional
-- [Inglés para atención al cliente](/blog/trabajo/ingles-para-atencion-al-cliente)
+- [Inglés para customer service](/blog/trabajo/ingles-customer-service-telefono-chat)
 - [Frases de atención al cliente por situación](/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones)
 - [Email y chat de soporte (B2)](/blog/trabajo/atencion-cliente-email-chat-soporte-b2)
 

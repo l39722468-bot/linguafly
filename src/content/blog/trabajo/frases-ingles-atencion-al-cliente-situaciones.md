@@ -184,7 +184,7 @@ Conocer las frases es el primer paso. El segundo es usarlas con fluidez y natura
 
 ---
 
-Para el contexto completo del inglés en atención al cliente, consulta [Inglés para Atención al Cliente](/blog/trabajo/ingles-para-atencion-al-cliente).
+Para una guía más completa por canal, consulta [Inglés para Customer Service](/blog/trabajo/ingles-customer-service-telefono-chat).
 
 ## Fuentes
 

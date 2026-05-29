@@ -49,6 +49,7 @@ const nextConfig = {
 
       // PT-BR: artículos antes publicados con categoría en la URL
       { source: '/pt-br/blog/:category/:slug', destination: '/pt-br/blog/:slug', permanent: true },
+      { source: '/pt-br/blog/ielts-band-scores-guia', destination: '/pt-br/blog/preparar-ielts-desde-b2', permanent: true },
 
       // E-E-A-T: autores ficticios retirados, todo el contenido firmado por el equipo editorial.
       // /blog/autor/david-torres y /blog/autor/sara-mendez → /sobre-nosotros (con contexto real).
@@ -118,7 +119,7 @@ const nextConfig = {
       },
       {
         source: '/rutas/ingles-para-atencion-al-cliente',
-        destination: '/blog/trabajo/ingles-para-atencion-al-cliente',
+        destination: '/blog/trabajo/ingles-customer-service-telefono-chat',
         statusCode: 301,
       },
       {
@@ -213,7 +214,7 @@ const nextConfig = {
       },
       {
         source: '/curso-ingles-para-atencion-al-cliente',
-        destination: '/blog/trabajo/ingles-para-atencion-al-cliente',
+        destination: '/blog/trabajo/ingles-customer-service-telefono-chat',
         statusCode: 301,
       },
       {
@@ -430,7 +431,7 @@ const nextConfig = {
       { source: '/blog/seo/ingles-derecho-legal-guia', destination: '/blog/trabajo/ingles-para-trabajo', statusCode: 301 },
       { source: '/blog/seo/ingles-finanzas-economia-guia', destination: '/blog/trabajo/ingles-para-trabajo', statusCode: 301 },
       { source: '/blog/seo/ingles-marketing-ventas-guia', destination: '/blog/trabajo/ingles-para-trabajo', statusCode: 301 },
-      { source: '/blog/seo/ingles-para-atencion-al-cliente', destination: '/blog/trabajo/ingles-para-atencion-al-cliente', statusCode: 301 },
+      { source: '/blog/seo/ingles-para-atencion-al-cliente', destination: '/blog/trabajo/ingles-customer-service-telefono-chat', statusCode: 301 },
       { source: '/blog/seo/ingles-para-hosteleria', destination: '/blog/trabajo/ingles-para-camareros-y-hosteleria', statusCode: 301 },
       { source: '/blog/seo/ingles-para-ingenieros', destination: '/blog/trabajo/ingles-para-ingenieros', statusCode: 301 },
       { source: '/blog/seo/ingles-para-salud', destination: '/blog/trabajo/ingles-para-salud', statusCode: 301 },
@@ -666,6 +667,26 @@ const nextConfig = {
       {
         source: '/blog/trabajo/emails-profesionales-ingles',
         destination: '/blog/trabajo/plantillas-emails-profesionales-ingles',
+        statusCode: 301,
+      },
+      {
+        source: '/blog/trabajo/frases-email-profesional-ingles',
+        destination: '/blog/trabajo/plantillas-emails-profesionales-ingles',
+        statusCode: 301,
+      },
+      {
+        source: '/blog/trabajo/ingles-para-atencion-al-cliente',
+        destination: '/blog/trabajo/ingles-customer-service-telefono-chat',
+        statusCode: 301,
+      },
+      {
+        source: '/blog/examenes/ielts-band-scores-guia',
+        destination: '/blog/temas/preparar-ielts',
+        statusCode: 301,
+      },
+      {
+        source: '/blog/metodos/niveles-ingles-mcer-guia-completa',
+        destination: '/blog/temas/niveles-ingles-mcer',
         statusCode: 301,
       },
       {

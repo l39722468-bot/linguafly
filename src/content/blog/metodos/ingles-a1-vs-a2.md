@@ -100,7 +100,7 @@ Generalmente, es el uso del pasado. El inglés tiene muchos verbos irregulares y
 
 ---
 
-Para el mapa completo de niveles de inglés, consulta [Niveles de Inglés MCER: Guía Completa de A1 a C2](/blog/metodos/niveles-ingles-mcer-guia-completa).
+Para el mapa completo de niveles de inglés, consulta el [hub de niveles de inglés MCER](/blog/temas/niveles-ingles-mcer).
 
 ## Fuentes
 

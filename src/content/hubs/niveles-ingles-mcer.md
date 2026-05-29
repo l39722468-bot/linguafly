@@ -122,7 +122,7 @@ Cuando elijas un curso, un examen o un material de estudio, fíjate siempre en *
 ## 📚 Profundiza más
 
 ### Guía del marco
-- [Niveles de inglés MCER: guía completa](/blog/metodos/niveles-ingles-mcer-guia-completa)
+- [Cursos de inglés por nivel](/cursos-por-nivel)
 
 ### Por nivel
 - [Inglés A1: por dónde empezar](/blog/metodos/ingles-a1)

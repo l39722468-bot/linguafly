@@ -213,7 +213,7 @@ Para una comparativa detallada, consulta **[IELTS vs TOEFL 2026](/blog/examenes/
 - [IELTS Speaking: estrategias para el examen](/blog/examenes/ielts-speaking-estrategias)
 - [IELTS Writing Task 1: cómo describir gráficos](/blog/examenes/ielts-writing-task-1-graficos)
 - [IELTS Writing Task 2: guía del essay](/blog/examenes/ielts-writing-task-2-essay)
-- [IELTS Band Scores: qué significan y cómo subirlos](/blog/examenes/ielts-band-scores-guia)
+- [Preparar IELTS: guía completa](/blog/temas/preparar-ielts)
 - [IELTS en papel vs ordenador: diferencias](/blog/examenes/ielts-computer-vs-papel)
 - [IELTS General Training: todo lo que necesitas saber](/blog/examenes/ielts-general-training-guia)
 - [Vocabulario académico para el IELTS](/blog/examenes/ielts-vocabulario-academico)

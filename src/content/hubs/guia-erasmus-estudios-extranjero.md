@@ -106,7 +106,7 @@ Disfruta cada segundo, viaja todo lo que puedas y vuelve a casa con una maleta l
 - [Becas y solicitudes en inglés](/blog/examenes/becas-solicitudes-ingles)
 
 ### Exámenes oficiales
-- [Bandas del IELTS: qué significan](/blog/examenes/ielts-band-scores-guia)
+- [Preparar IELTS desde B2: plan de estudio](/blog/examenes/preparar-ielts-desde-b2)
 - [IELTS vs TOEFL: diferencias](/blog/examenes/ielts-vs-toefl-diferencias-cual-elegir)
 
 ### Vivir fuera

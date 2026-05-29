@@ -243,7 +243,7 @@ No. Como todos los títulos de Cambridge, el CPE tiene validez indefinida. Algun
 
 ---
 
-Para el mapa completo de niveles, consulta [Niveles de Inglés MCER: Guía Completa de A1 a C2](/blog/metodos/niveles-ingles-mcer-guia-completa). Para el nivel anterior, lee [Nivel C1 de Inglés: Qué Significa y Cómo Alcanzarlo](/blog/metodos/ingles-c1).
+Para el mapa completo de niveles, consulta el [hub de niveles de inglés MCER](/blog/temas/niveles-ingles-mcer). Para el nivel anterior, lee [Nivel C1 de Inglés: Qué Significa y Cómo Alcanzarlo](/blog/metodos/ingles-c1).
 
 ## Fuentes
 

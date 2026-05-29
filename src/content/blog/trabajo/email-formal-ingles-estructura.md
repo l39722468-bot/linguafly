@@ -165,7 +165,7 @@ Este ejemplo sigue la estructura al completo: asunto informativo, saludo apropia
 
 Con la estructura clara, estos artículos te ayudan a dominar cada tipo de email:
 
-- [Frases para emails profesionales en inglés](/blog/trabajo/frases-email-profesional-ingles)
+- [Plantillas de emails profesionales en inglés](/blog/trabajo/plantillas-emails-profesionales-ingles)
 - [Plantillas de emails profesionales en inglés](/blog/trabajo/plantillas-emails-profesionales-ingles)
 - [Errores comunes en emails de trabajo en inglés](/blog/trabajo/ingles-emails-trabajo-errores-comunes)
 - [Netiqueta en emails profesionales en inglés](/blog/trabajo/netiqueta-email-ingles)

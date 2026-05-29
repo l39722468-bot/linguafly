@@ -123,7 +123,7 @@ Escribir un email profesional en inglés no tiene por qué ser una tarea estresa
 ## 📚 Profundiza más
 
 - [Cómo Estructurar un Email Formal en Inglés: Guía Paso a Paso](/blog/trabajo/email-formal-ingles-estructura)
-- [60 Frases para Emails Profesionales en Inglés que Suenan de Verdad](/blog/trabajo/frases-email-profesional-ingles)
+- [Plantillas de Emails Profesionales en Inglés para Cada Situación](/blog/trabajo/plantillas-emails-profesionales-ingles)
 - [Cómo Escribir un Email de Queja en Inglés: Guía con Ejemplos](/blog/trabajo/email-queja-reclamacion-ingles)
 - [Follow-Up Email en Inglés: Cómo Hacer Seguimiento Sin Molestar](/blog/trabajo/follow-up-email-ingles)
 - [Cómo Disculparse por Email en Inglés: Apology Emails Profesionales](/blog/trabajo/email-disculpa-ingles)

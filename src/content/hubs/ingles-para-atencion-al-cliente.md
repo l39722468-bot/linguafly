@@ -122,7 +122,7 @@ En los enlaces del final tienes guías por canal (teléfono, email, chat), por t
 ## 📚 Profundiza más
 
 ### Fundamentos
-- [Inglés para atención al cliente: guía general](/blog/trabajo/ingles-para-atencion-al-cliente)
+- [Inglés para customer service: guía principal](/blog/trabajo/ingles-customer-service-telefono-chat)
 - [Frases de inglés para atención al cliente por situación](/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones)
 
 ### Canal y tono

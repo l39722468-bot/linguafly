@@ -112,7 +112,7 @@ A partir de ahí, diagnostica tus puntos débiles (timing, vocabulario, comprens
 - [IELTS Listening: estrategias por sección](/blog/examenes/ielts-listening-estrategias)
 
 ### Banda, formato y logística
-- [Bandas del IELTS: qué significan y cómo subir](/blog/examenes/ielts-band-scores-guia)
+- [Preparar IELTS desde B2: plan de estudio](/blog/examenes/preparar-ielts-desde-b2)
 - [IELTS por ordenador vs papel](/blog/examenes/ielts-computer-vs-papel)
 - [IELTS General Training: guía para inmigración](/blog/examenes/ielts-general-training-guia)
 - [Vocabulario académico para el IELTS](/blog/examenes/ielts-vocabulario-academico)

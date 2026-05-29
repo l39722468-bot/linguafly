@@ -46,7 +46,7 @@ La **atención al cliente en inglés** exige algo más que conocer el vocabulari
 
 Esta guía cubre los tres canales principales de **customer service** en inglés, con frases específicas y estrategias para cada uno.
 
-Para el vocabulario general de atención al cliente, consulta también nuestra **[guía de inglés para atención al cliente](/blog/trabajo/ingles-para-atencion-al-cliente)**.
+Para ampliar vocabulario y situaciones reales de soporte, consulta también nuestra **[guía de frases para atención al cliente](/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones)**.
 
 ---
 
@@ -198,7 +198,7 @@ En un equipo de customer service internacional, estas métricas son parte del vo
 
 ---
 
-Para el marco completo del inglés en atención al cliente — vocabulario, frases y situaciones — consulta [Inglés para Atención al Cliente](/blog/trabajo/ingles-para-atencion-al-cliente).
+Para ampliar situaciones prácticas de soporte, consulta [Frases en inglés para situaciones de atención al cliente](/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones).
 
 ## Fuentes
 
