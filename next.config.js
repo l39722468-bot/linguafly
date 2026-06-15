@@ -45,7 +45,6 @@ const nextConfig = {
     return [
       // Legacy: solo /curso/* (sin guión) se redirige al blog
       { source: '/curso/:path*', destination: '/blog', permanent: true },
-      { source: '/planes', destination: '/blog', permanent: true },
 
       // PT-BR: artículos antes publicados con categoría en la URL
       { source: '/pt-br/blog/:category/:slug', destination: '/pt-br/blog/:slug', permanent: true },

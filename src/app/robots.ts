@@ -42,7 +42,6 @@ export default function robots(): MetadataRoute.Robots {
           "/planes",
           "/success",
           "/mi-panel/",
-          "/curso/",
           "/demo-course/",
         ],
       },

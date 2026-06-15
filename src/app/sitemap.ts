@@ -16,6 +16,7 @@ import { RECEPCIONISTA_B1_COURSE } from "@/lib/course/recepcionista-b1";
 import { RECEPCIONISTA_B2_COURSE } from "@/lib/course/recepcionista-b2";
 import { premiumCourseServerService } from "@/lib/services/premium-course-service.server";
 import { VOCAB_SECTORS } from "@/lib/vocabulario/sectors";
+import { INDEXABLE_COURSE_LANDING_PATHS } from "@/lib/course-indexing";
 
 const baseUrl = "https://www.focus-on-english.com";
 
@@ -118,6 +119,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: "monthly",
       priority: 0.75,
     },
+    ...INDEXABLE_COURSE_LANDING_PATHS.map((path) => ({
+      url: `${baseUrl}${path}`,
+      lastModified: mostRecentArticleDate,
+      changeFrequency: "weekly" as const,
+      priority: 0.85,
+    })),
   ];
 
   const categories = Array.from(new Set(articles.map(a => normalizeCategory(a.category))));
