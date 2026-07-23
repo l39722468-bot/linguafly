@@ -1,4 +1,5 @@
-// Price ID de Stripe para la suscripción mensual única
+// Price ID de Stripe para la suscripción mensual única (0,99 €/mes).
+// Test: price_1TwW5kJJnTo34HnfBWyoZ8Ky — configurar vía STRIPE_PRICE_BASIC_MONTHLY.
 
 export const STRIPE_PRICE_IDS: Record<string, string> = {
   'basic-monthly': process.env.STRIPE_PRICE_BASIC_MONTHLY || '',
