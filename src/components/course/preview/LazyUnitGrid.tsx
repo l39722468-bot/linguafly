@@ -10,6 +10,7 @@ interface LazyUnitGridProps {
   initialLoadCount?: number;
   loadMoreCount?: number;
   coursePath?: string;
+  hasFullAccess?: boolean;
 }
 
 export function LazyUnitGrid({ 
@@ -17,6 +18,7 @@ export function LazyUnitGrid({
   initialLoadCount = 20,
   loadMoreCount = 20,
   coursePath = '/curso-a1',
+  hasFullAccess = false,
 }: LazyUnitGridProps) {
   const [visibleCount, setVisibleCount] = useState(initialLoadCount);
   const [isLoading, setIsLoading] = useState(false);
@@ -59,7 +61,7 @@ export function LazyUnitGrid({
     <>
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {visibleUnits.map((unit) => (
-          <UnitCard key={unit.unitId} unit={unit} coursePath={coursePath} />
+          <UnitCard key={unit.unitId} unit={unit} coursePath={coursePath} hasFullAccess={hasFullAccess} />
         ))}
       </div>
 

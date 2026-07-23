@@ -33,7 +33,7 @@ export default function PlanesPage() {
               <div className="text-left">
                 <h3 className="text-lg font-bold text-amber-900">Suscripción requerida</h3>
                 <p className="text-amber-700">
-                  Activa tu suscripción mensual para seguir aprendiendo con todo el contenido.
+                  La unidad 1 de cada curso es gratis. Activa la suscripción de 0,99 €/mes para desbloquear el resto.
                 </p>
               </div>
             </div>
@@ -45,7 +45,7 @@ export default function PlanesPage() {
               <span>Suscripción mensual</span>
             </div>
             <h1 className="text-5xl sm:text-6xl font-black text-slate-900 mb-6">
-              Un precio, todo el curso
+              Unidad 1 gratis, todo el curso desde 0,99 €
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto mb-8">
               {plans[0] ? formatPrice(plans[0].price) : formatPrice(99)} al mes · Cancela cuando quieras · Sin permanencia
@@ -92,7 +92,7 @@ export default function PlanesPage() {
                       <span className="text-slate-600 font-semibold">/ mes</span>
                     </div>
                     <p className="text-sm text-coral-600 font-bold">
-                      Acceso completo con material didáctico y seguimiento de progreso
+                      Desbloquea todas las unidades A1–C2 tras la unidad 1 gratuita
                     </p>
                   </div>
 
@@ -151,7 +151,14 @@ export default function PlanesPage() {
               <details className="bg-white rounded-xl p-6 shadow-md border border-slate-200">
                 <summary className="font-bold text-slate-900 cursor-pointer">¿Qué incluye la suscripción?</summary>
                 <p className="mt-4 text-slate-600">
-                  Acceso a los cursos por niveles (A1–C2), preparación para exámenes, rutas por sector e inglés para viajes, con material y ejercicios. Puedes cancelar cuando quieras.
+                  La unidad 1 de cada curso es gratis. Con la suscripción desbloqueas el resto de unidades A1–C2, material y ejercicios. Puedes cancelar cuando quieras.
+                </p>
+              </details>
+
+              <details className="bg-white rounded-xl p-6 shadow-md border border-slate-200">
+                <summary className="font-bold text-slate-900 cursor-pointer">¿Puedo probar sin pagar?</summary>
+                <p className="mt-4 text-slate-600">
+                  Sí. Puedes hacer la unidad 1 de cada nivel (A1–C2) sin suscripción. A partir de la unidad 2 necesitas el plan mensual.
                 </p>
               </details>
 

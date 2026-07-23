@@ -1,6 +1,7 @@
 import { Suspense } from 'react';
 import { A1CourseSelector } from '@/components/course/preview/A1CourseSelector';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
+import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access';
 import { BookOpen, Clock, Award } from 'lucide-react';
 import Link from 'next/link';
 
@@ -8,6 +9,7 @@ export const dynamic = 'force-dynamic';
 
 async function C2PreviewContent() {
   let courseMetadata;
+  const hasFullAccess = await getViewerHasFullCourseAccess();
   try {
     courseMetadata = await premiumCourseServerService.getC2UnitsWithMetadata();
   } catch (err) {
@@ -36,7 +38,7 @@ async function C2PreviewContent() {
               Curso de Inglés C2
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto font-medium">
-              Alcanza la maestría en inglés con las {courseMetadata.totalUnits} unidades del nivel C2.
+              Empieza gratis con la unidad 1. El resto del curso C2 ({courseMetadata.totalUnits} unidades) se desbloquea desde 0,99 €/mes.
               Preparación para Cambridge C2 Proficiency (CPE) y dominio académico avanzado.
             </p>
           </div>
@@ -88,7 +90,7 @@ async function C2PreviewContent() {
           <span className="shrink-0 text-sm font-semibold text-violet-700">Hacer test →</span>
         </Link>
 
-        <A1CourseSelector units={courseMetadata.units} courseId="ingles-c2" />
+        <A1CourseSelector units={courseMetadata.units} courseId="ingles-c2" hasFullAccess={hasFullAccess} />
       </div>
     </div>
   );

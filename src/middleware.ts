@@ -1,6 +1,10 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { createServerClient } from "@supabase/ssr";
-import { isFreeCourseRoute, isLegacyCourseRedirectRoute } from "@/lib/routes/course-access";
+import {
+  isFreeCourseRoute,
+  isLegacyCourseRedirectRoute,
+  isPaidCourseRoute,
+} from "@/lib/routes/course-access";
 
 const PUBLIC_ROUTES = new Set([
   "/",
@@ -82,6 +86,13 @@ export async function middleware(request: NextRequest) {
     isPublicSEORoute(pathname) ||
     isFreeCourseRoute(pathname);
   if (!supabaseUrl || !supabaseKey) {
+    if (isPaidCourseRoute(pathname)) {
+      const url = request.nextUrl.clone();
+      url.pathname = "/planes";
+      url.searchParams.set("reason", "premium_required");
+      url.searchParams.set("next", pathname);
+      return NextResponse.redirect(url, 303);
+    }
     if (isPublicRoute || pathname.startsWith("/misiones")) {
       return response;
     }
@@ -137,6 +148,13 @@ export async function middleware(request: NextRequest) {
     }
   } catch (err) {
     console.error("[Middleware] Auth error:", err);
+    if (isPaidCourseRoute(pathname)) {
+      const url = request.nextUrl.clone();
+      url.pathname = "/planes";
+      url.searchParams.set("reason", "premium_required");
+      url.searchParams.set("next", pathname);
+      return NextResponse.redirect(url, 303);
+    }
     if (isPublicRoute) return response;
     if (
       pathname.startsWith("/admin") ||
@@ -165,15 +183,14 @@ export async function middleware(request: NextRequest) {
   }
 
   // Rutas públicas que NO deben redirigir al dashboard si está logueado (ej. recursos estáticos, webhooks, etc.)
-  // API de cursos: pasar sin auth (la página ya está protegida; la API valida cookies internamente)
-  // RSC requests: Next.js no puede seguir redirects 307 en modo RSC → no redirigir
+  // RSC: no redirigir en prefetch salvo rutas de curso de pago (unidad 2+), que sí deben bloquearse.
   const isRSCRequest = request.headers.get('RSC') === '1' || request.nextUrl.searchParams.has('_rsc');
+  const isPaidCourse = isPaidCourseRoute(pathname);
   if (
     pathname.startsWith("/api/webhooks") ||
-    pathname.startsWith("/api/course/") ||
     pathname.startsWith("/audio/") ||
     pathname.includes('.') || // Archivos estáticos
-    isRSCRequest // React Server Components prefetch
+    (isRSCRequest && !isPaidCourse)
   ) {
     return response;
   }
@@ -201,11 +218,12 @@ export async function middleware(request: NextRequest) {
     // Si NO tiene suscripción, permitimos que entre a /cuenta/registro para pagar
   }
 
-  // Rutas públicas generales
+  // Rutas públicas generales + unidad 1 / landings de curso
   if (
-    PUBLIC_ROUTES.has(pathname) || 
+    PUBLIC_ROUTES.has(pathname) ||
     isBlogRoute(pathname) ||
-    isPublicSEORoute(pathname)
+    isPublicSEORoute(pathname) ||
+    isFreeCourseRoute(pathname)
   ) {
     return response;
   }
@@ -215,6 +233,24 @@ export async function middleware(request: NextRequest) {
     pathname === "/mi-panel/podcasts" ||
     pathname.startsWith("/mi-panel/podcasts/")
   ) {
+    return response;
+  }
+
+  // Cursos A1–C2: unidad 2+ y extras requieren suscripción (0,99 €/mes)
+  if (isPaidCourse) {
+    const isPaid =
+      profile?.subscription_status === "active" ||
+      profile?.subscription_status === "trialing";
+    const isAdmin = profile?.role === "admin";
+
+    if (!isPaid && !isAdmin) {
+      const url = request.nextUrl.clone();
+      url.pathname = "/planes";
+      url.searchParams.set("reason", "premium_required");
+      url.searchParams.set("next", pathname);
+      return NextResponse.redirect(url, 303);
+    }
+
     return response;
   }
 

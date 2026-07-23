@@ -3,12 +3,14 @@ import Link from 'next/link';
 import { A1CourseSelector } from '@/components/course/preview/A1CourseSelector';
 import { UnifiedCourseProgressSidebar } from '@/components/course/UnifiedCourseProgressSidebar';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
+import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access';
 import { BookOpen, Clock, Award } from 'lucide-react';
 
 export const dynamic = 'force-dynamic';
 
 async function A1PreviewContent() {
   let courseMetadata;
+  const hasFullAccess = await getViewerHasFullCourseAccess();
   try {
     courseMetadata = await premiumCourseServerService.getA1UnitsWithMetadata();
   } catch (err) {
@@ -42,10 +44,10 @@ async function A1PreviewContent() {
               </Link>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 mb-4 tracking-tight">
-              Curso de inglés A1 gratis
+              Curso de inglés A1
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto font-medium">
-              Accede gratis a las {courseMetadata.totalUnits} unidades del curso A1 y empieza desde cero con una ruta clara de progreso.
+              Empieza gratis con la unidad 1. El resto del curso A1 ({courseMetadata.totalUnits} unidades) se desbloquea con la suscripción desde 0,99 €/mes.
             </p>
           </div>
 
@@ -96,7 +98,7 @@ async function A1PreviewContent() {
               <span className="shrink-0 text-sm font-semibold text-amber-700">Hacer test →</span>
             </Link>
 
-            <A1CourseSelector units={courseMetadata.units} courseId="ingles-a1" />
+            <A1CourseSelector units={courseMetadata.units} courseId="ingles-a1" hasFullAccess={hasFullAccess} />
           </div>
 
           <aside className="lg:col-span-4">

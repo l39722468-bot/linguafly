@@ -294,9 +294,9 @@ export default async function MiPanelPage({
                   <div className="flex items-center justify-between gap-2">
                     <h3 className="font-black text-slate-900">Cursos oficiales por nivel</h3>
                     <span className={`text-xs font-bold px-2 py-1 rounded ${
-                      blockAccess.officialCourses === 'included' ? 'bg-emerald-100 text-emerald-700' : 'bg-red-100 text-red-700'
+                      blockAccess.officialCourses === 'included' ? 'bg-emerald-100 text-emerald-700' : 'bg-amber-100 text-amber-700'
                     }`}>
-                      {accessLabel(blockAccess.officialCourses)}
+                      {blockAccess.officialCourses === 'included' ? accessLabel(blockAccess.officialCourses) : 'Unidad 1 gratis'}
                     </span>
                   </div>
                   <div className="mt-3 space-y-2">
@@ -307,7 +307,17 @@ export default async function MiPanelPage({
                         </Link>
                       ))
                     ) : (
-                      <p className="text-sm text-slate-600">Activa una suscripción para acceder a cursos oficiales.</p>
+                      <>
+                        <p className="text-sm text-slate-600">
+                          Puedes hacer la unidad 1 de cada curso gratis. El resto se desbloquea desde 0,99 €/mes.
+                        </p>
+                        <Link href="/curso-a1/unit-1" className="block text-sm font-semibold text-coral-700 hover:text-coral-800">
+                          Empezar unidad 1 (A1)
+                        </Link>
+                        <Link href="/planes" className="block text-sm font-semibold text-slate-700 hover:text-coral-700">
+                          Ver suscripción 0,99 €/mes
+                        </Link>
+                      </>
                     )}
                   </div>
                 </div>
