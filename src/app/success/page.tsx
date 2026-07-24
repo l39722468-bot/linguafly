@@ -22,7 +22,7 @@ function SuccessContent() {
       </h1>
       
       <p className="text-xl text-slate-600 mb-8 max-w-2xl mx-auto">
-        Tu inscripción ha sido procesada correctamente. ¡Bienvenido a Focus English!
+        Tu inscripción ha sido procesada correctamente. ¡Bienvenido a Linguafly!
       </p>
 
       <div className="bg-amber-50 border-2 border-amber-200 rounded-xl p-6 mb-8 max-w-xl mx-auto">
