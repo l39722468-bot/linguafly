@@ -2,6 +2,7 @@ import { Suspense } from 'react';
 import { A1CourseSelector } from '@/components/course/preview/A1CourseSelector';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
 import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access';
+import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award } from 'lucide-react';
 import Link from 'next/link';
 
@@ -12,6 +13,7 @@ async function C1PreviewContent() {
   const hasFullAccess = await getViewerHasFullCourseAccess();
   try {
     courseMetadata = await premiumCourseServerService.getC1UnitsWithMetadata();
+    await maybeRedirectSequentialSubscriber('/curso-c1', 'ingles-c1', courseMetadata.totalUnits);
   } catch (err) {
     console.error('[curso-c1] Error loading course metadata:', err);
     return (

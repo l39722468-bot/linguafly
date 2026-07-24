@@ -3,6 +3,7 @@ import { A1CourseSelector } from '@/components/course/preview/A1CourseSelector';
 import { UnifiedCourseProgressSidebar } from '@/components/course/UnifiedCourseProgressSidebar';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
 import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access';
+import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award, FileText } from 'lucide-react';
 import Link from 'next/link';
 
@@ -13,6 +14,7 @@ async function B1PreviewContent() {
   const hasFullAccess = await getViewerHasFullCourseAccess();
   try {
     courseMetadata = await premiumCourseServerService.getB1UnitsWithMetadata();
+    await maybeRedirectSequentialSubscriber('/curso-b1', 'ingles-b1', courseMetadata.totalUnits);
   } catch (err) {
     console.error('[curso-b1] Error loading course metadata:', err);
     return (

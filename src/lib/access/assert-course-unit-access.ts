@@ -4,10 +4,33 @@ import { getUserProfileByAuthId } from "@/lib/access/user-profile";
 import { resolveEntitlements } from "@/lib/access/entitlements";
 import { isFreeUnitId } from "@/lib/access/unit-access";
 import { syncPaidEntitlementFromStripe } from "@/lib/stripe/provision-subscriber";
+import { coursePathToId } from "@/lib/access/course-id-map";
+import { assertSequentialUnitAccess } from "@/lib/access/get-viewer-course-sequential-state";
+import { premiumCourseServerService } from "@/lib/services/premium-course-service.server";
+
+async function getTotalUnitsForCoursePath(coursePath: string): Promise<number> {
+  switch (coursePath) {
+    case "/curso-a1":
+      return (await premiumCourseServerService.getA1UnitsWithMetadata()).totalUnits;
+    case "/curso-a2":
+      return (await premiumCourseServerService.getA2UnitsWithMetadata()).totalUnits;
+    case "/curso-b1":
+      return (await premiumCourseServerService.getB1UnitsWithMetadata()).totalUnits;
+    case "/curso-b2":
+      return (await premiumCourseServerService.getB2UnitsWithMetadata()).totalUnits;
+    case "/curso-c1":
+      return (await premiumCourseServerService.getC1UnitsWithMetadata()).totalUnits;
+    case "/curso-c2":
+      return (await premiumCourseServerService.getC2UnitsWithMetadata()).totalUnits;
+    default:
+      return 60;
+  }
+}
 
 /**
  * Bloquea unidades de pago en Server Components / layouts.
  * La unidad 1 permanece gratuita.
+ * Suscriptores: solo la unidad activa (primera no completada).
  */
 export async function assertCourseUnitAccess(unitId: string, coursePath: string) {
   if (isFreeUnitId(unitId)) return;
@@ -39,7 +62,14 @@ export async function assertCourseUnitAccess(unitId: string, coursePath: string)
           email: user.email,
           userId: user.id,
         });
-        if (sync.synced) return;
+        if (sync.synced) {
+          const courseId = coursePathToId(coursePath);
+          if (courseId) {
+            const totalUnits = await getTotalUnitsForCoursePath(coursePath);
+            await assertSequentialUnitAccess({ unitId, courseId, coursePath, totalUnits });
+          }
+          return;
+        }
 
         profile = await getUserProfileByAuthId<{
           subscription_status?: string;
@@ -53,7 +83,14 @@ export async function assertCourseUnitAccess(unitId: string, coursePath: string)
         });
       }
 
-      if (entitlements.officialCourses) return;
+      if (entitlements.officialCourses) {
+        const courseId = coursePathToId(coursePath);
+        if (courseId) {
+          const totalUnits = await getTotalUnitsForCoursePath(coursePath);
+          await assertSequentialUnitAccess({ unitId, courseId, coursePath, totalUnits });
+        }
+        return;
+      }
     }
   } catch (err) {
     console.error("[assertCourseUnitAccess]", err);

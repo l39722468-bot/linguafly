@@ -7,6 +7,8 @@ import { ArrowLeft, ArrowRight, Home, CheckCircle, Sparkles } from 'lucide-react
 import Link from 'next/link';
 import { trackUnitTimeSpent, trackExerciseCompletion, trackUnitCompletion } from '@/lib/analytics';
 import AIExercisePractice from '@/components/course/AIExercisePractice';
+import { UnitJourneyContinue } from '@/components/course/UnitJourneyContinue';
+import { useCourseMetadata } from '@/hooks/useCourseMetadata';
 import { useSpacedRepetition } from '@/hooks/use-spaced-repetition';
 import {
   buildSixLessonLayout,
@@ -26,6 +28,7 @@ function C1UnitContentInner() {
   const params = useParams();
   const searchParams = useSearchParams();
   const unitId = params.unitId as string;
+  const { totalUnits, coursePath } = useCourseMetadata('ingles-c1');
   const [exercises, setExercises] = useState<any[]>([]);
   const [unitTitle, setUnitTitle] = useState('');
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -170,9 +173,17 @@ function C1UnitContentInner() {
             mainTopic={plainUnitTitle(unitTitle) || 'Advanced English'}
             onExercisesReady={handleAIPracticeReady}
           />
-          <a href="/curso-c1" className="w-full bg-slate-900 text-white py-5 rounded-2xl font-black text-xl hover:bg-slate-800 transition-all shadow-xl flex items-center justify-center gap-3 transform hover:scale-[1.02] active:scale-95">
-            Volver al listado de unidades
-          </a>
+          {totalUnits ? (
+            <UnitJourneyContinue
+              coursePath={coursePath ?? '/curso-c1'}
+              currentUnitId={unitId}
+              totalUnits={totalUnits}
+            />
+          ) : (
+            <a href="/curso-c1" className="w-full bg-slate-900 text-white py-5 rounded-2xl font-black text-xl hover:bg-slate-800 transition-all shadow-xl flex items-center justify-center gap-3 transform hover:scale-[1.02] active:scale-95">
+              Volver al listado de unidades
+            </a>
+          )}
         </div>
       </div>
     );

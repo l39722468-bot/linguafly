@@ -14,6 +14,8 @@ const FEEDBACK_INCORRECT_HEADLINES = ['Casi lo tienes', 'Otra oportunidad', 'Sig
 const FEEDBACK_INCORRECT_SUBTEXTS = ['Cada intento te acerca más. Sigue practicando.', 'Repasa el contenido y vuelve a intentarlo.', 'La constancia es la clave del progreso.'];
 import Link from 'next/link';
 import AIExercisePractice from '@/components/course/AIExercisePractice';
+import { UnitJourneyContinue } from '@/components/course/UnitJourneyContinue';
+import { useCourseMetadata } from '@/hooks/useCourseMetadata';
 import { useSpacedRepetition } from '@/hooks/use-spaced-repetition';
 import {
   buildSixLessonLayout,
@@ -157,6 +159,7 @@ function UnitPreviewContent() {
   }, [exercises.length, showUnitSummary, showLessonComplete]);
 
   const isFinalTest = unitId === 'test-final';
+  const { totalUnits, coursePath } = useCourseMetadata('ingles-a1');
 
   useEffect(() => {
     if (!unitId) return;
@@ -459,12 +462,20 @@ function UnitPreviewContent() {
             onExercisesReady={handleAIPracticeReady}
           />
 
-          <a
-            href="/curso-a1"
-            className="block w-full bg-white/20 border border-white/30 text-white py-4 rounded-2xl font-bold text-base hover:-translate-y-0.5 transition-all text-center"
-          >
-            {isFinalTest ? 'Volver al curso' : 'Continuar al curso'}
-          </a>
+          {!isFinalTest && totalUnits ? (
+            <UnitJourneyContinue
+              coursePath={coursePath ?? '/curso-a1'}
+              currentUnitId={unitId}
+              totalUnits={totalUnits}
+            />
+          ) : (
+            <a
+              href="/curso-a1"
+              className="block w-full bg-white/20 border border-white/30 text-white py-4 rounded-2xl font-bold text-base hover:-translate-y-0.5 transition-all text-center"
+            >
+              {isFinalTest ? 'Volver al curso' : 'Continuar al curso'}
+            </a>
+          )}
         </div>
       </div>
     );

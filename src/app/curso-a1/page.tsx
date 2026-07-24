@@ -4,6 +4,7 @@ import { A1CourseSelector } from '@/components/course/preview/A1CourseSelector';
 import { UnifiedCourseProgressSidebar } from '@/components/course/UnifiedCourseProgressSidebar';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
 import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access';
+import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award } from 'lucide-react';
 
 export const dynamic = 'force-dynamic';
@@ -13,6 +14,7 @@ async function A1PreviewContent() {
   const hasFullAccess = await getViewerHasFullCourseAccess();
   try {
     courseMetadata = await premiumCourseServerService.getA1UnitsWithMetadata();
+    await maybeRedirectSequentialSubscriber('/curso-a1', 'ingles-a1', courseMetadata.totalUnits);
   } catch (err) {
     console.error('[curso-a1] Error loading course metadata:', err);
     return (
