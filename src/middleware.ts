@@ -289,11 +289,12 @@ export async function middleware(request: NextRequest) {
   }
 
   // Protección para áreas privadas del panel, soporte y administración
-  const isProtectedArea = 
+  const isSupportTicket = pathname.startsWith("/support/ticket");
+  const isProtectedArea =
     pathname.startsWith("/admin") ||
     pathname.startsWith("/misiones") ||
     pathname.startsWith("/onboarding") ||
-    pathname.startsWith("/support/ticket") ||
+    isSupportTicket ||
     pathname.startsWith("/mi-panel");
 
   if (isProtectedArea) {
@@ -310,7 +311,8 @@ export async function middleware(request: NextRequest) {
     const isAdminArea = pathname.startsWith("/admin");
     const isToeflExempt = pathname.startsWith("/curso/toefl-");
     const isOutlineOnly = pathname === "/curso-a1/outline" || pathname === "/curso-a2/outline" || pathname === "/curso-b1/outline" || pathname === "/curso-b2/outline";
-    const isStudentPanel = pathname.startsWith("/mi-panel");
+    // Panel alumno y tickets de soporte: accesibles con sesión, sin exigir plan de pago.
+    const isStudentArea = pathname.startsWith("/mi-panel") || isSupportTicket;
     const goals = Array.isArray((profile as any)?.learning_goals) ? ((profile as any).learning_goals as string[]) : [];
     const hasPlacementCompleted =
       Boolean((profile as any)?.placement_completed) ||
@@ -324,7 +326,7 @@ export async function middleware(request: NextRequest) {
       return response;
     }
 
-    if (!isPaid && !isAdmin && !isToeflExempt && !isOutlineOnly && !isStudentPanel) {
+    if (!isPaid && !isAdmin && !isToeflExempt && !isOutlineOnly && !isStudentArea) {
       const url = request.nextUrl.clone();
       url.pathname = "/planes";
       url.searchParams.set("reason", "premium_required");
@@ -339,7 +341,8 @@ export async function middleware(request: NextRequest) {
       !pathname.startsWith('/test-nivel') &&
       !pathname.startsWith('/onboarding') &&
       !pathname.startsWith('/success') &&
-      !pathname.startsWith('/mi-panel');
+      !pathname.startsWith('/mi-panel') &&
+      !isSupportTicket;
 
     if (needsPlacement) {
       const url = request.nextUrl.clone();
