@@ -2,8 +2,10 @@ import Stripe from 'stripe';
 import { NextRequest, NextResponse } from 'next/server';
 import {
   extractCheckoutIdentity,
+  hasActiveStripeSubscription,
   provisionSubscriberFromPayment,
 } from '@/lib/stripe/provision-subscriber';
+import { supabaseAdmin } from '@/lib/supabase/client';
 
 export const runtime = 'nodejs';
 
@@ -14,54 +16,120 @@ const stripe = process.env.STRIPE_SECRET_KEY
   : null;
 
 /**
- * Fallback si el webhook de Stripe falla o aún no llega:
- * la página /success llama aquí con session_id y se provisiona el alumno
- * solo si Stripe confirma que el checkout está pagado.
+ * Alta post-pago:
+ * - { sessionId: "cs_..." } → verifica checkout pagado
+ * - { email: "..." } → verifica suscripción Stripe activa y crea usuario en Supabase
  */
 export async function POST(request: NextRequest) {
   try {
     if (!stripe) {
       return NextResponse.json({ error: 'Stripe no configurado' }, { status: 500 });
     }
-
-    const body = await request.json().catch(() => ({}));
-    const sessionId = typeof body.sessionId === 'string' ? body.sessionId.trim() : '';
-
-    if (!sessionId.startsWith('cs_')) {
-      return NextResponse.json({ error: 'sessionId inválido' }, { status: 400 });
-    }
-
-    const session = await stripe.checkout.sessions.retrieve(sessionId);
-
-    const paid =
-      session.payment_status === 'paid' ||
-      session.status === 'complete' ||
-      session.payment_status === 'no_payment_required';
-
-    if (!paid) {
+    if (!supabaseAdmin) {
       return NextResponse.json(
-        { error: 'El pago aún no está confirmado', payment_status: session.payment_status },
-        { status: 402 }
+        { error: 'SUPABASE_SERVICE_ROLE_KEY ausente (supabaseAdmin=null)' },
+        { status: 500 }
       );
     }
 
-    const identity = extractCheckoutIdentity(session);
-    if (!identity.email) {
-      return NextResponse.json({ error: 'Checkout sin email' }, { status: 400 });
+    const body = await request.json().catch(() => ({}));
+    const sessionId = typeof body.sessionId === 'string' ? body.sessionId.trim() : '';
+    const emailRaw = typeof body.email === 'string' ? body.email.trim().toLowerCase() : '';
+
+    let email = emailRaw;
+    let firstName = '';
+    let lastName = '';
+    let planId = 'basic-monthly';
+    let planName = 'Suscripción mensual';
+    let stripeSessionId: string | undefined;
+    let skipEmailIfAlreadyProvisioned = true;
+
+    if (sessionId) {
+      if (!sessionId.startsWith('cs_')) {
+        return NextResponse.json({ error: 'sessionId inválido' }, { status: 400 });
+      }
+
+      const session = await stripe.checkout.sessions.retrieve(sessionId);
+      const paid =
+        session.payment_status === 'paid' ||
+        session.status === 'complete' ||
+        session.payment_status === 'no_payment_required';
+
+      if (!paid) {
+        return NextResponse.json(
+          { error: 'El pago aún no está confirmado', payment_status: session.payment_status },
+          { status: 402 }
+        );
+      }
+
+      const identity = extractCheckoutIdentity(session);
+      if (!identity.email) {
+        return NextResponse.json({ error: 'Checkout sin email' }, { status: 400 });
+      }
+
+      email = identity.email.toLowerCase();
+      firstName = identity.firstName;
+      lastName = identity.lastName;
+      planId = identity.planId;
+      planName = identity.planName;
+      stripeSessionId = session.id;
+    } else if (email) {
+      const paid = await hasActiveStripeSubscription(stripe, email);
+      if (!paid) {
+        return NextResponse.json(
+          {
+            ok: false,
+            error:
+              'No hay suscripción activa en Stripe para ese email. Revisa email exacto y modo test/live.',
+            email,
+          },
+          { status: 402 }
+        );
+      }
+      // Forzar alta + email de bienvenida si aún no estaba bien provisionado
+      skipEmailIfAlreadyProvisioned = false;
+    } else {
+      return NextResponse.json(
+        { error: 'Indica sessionId (cs_...) o email' },
+        { status: 400 }
+      );
     }
 
     const result = await provisionSubscriberFromPayment({
-      ...identity,
-      stripeSessionId: session.id,
-      // Evita regenerar contraseña / reenviar email si ya estaba provisionado
-      skipEmailIfAlreadyProvisioned: true,
+      email,
+      firstName,
+      lastName,
+      planId,
+      planName,
+      stripeSessionId,
+      skipEmailIfAlreadyProvisioned,
     });
+
+    let authVisible = false;
+    if (result.userId) {
+      const { data } = await supabaseAdmin.auth.admin.getUserById(result.userId);
+      authVisible = !!data?.user?.id;
+    }
+
+    const { count: profileRowsForEmail } = await supabaseAdmin
+      .from('user_profiles')
+      .select('*', { count: 'exact', head: true })
+      .eq('email', email);
 
     if (!result.ok) {
       return NextResponse.json(
         {
           ok: false,
+          email,
           error: result.error || 'No se pudo crear la cuenta',
+          userId: result.userId || null,
+          authVisible,
+          profileRowsForEmail: profileRowsForEmail ?? 0,
+          whereToLook: {
+            auth: 'Supabase → Authentication → Users',
+            profile: 'Table Editor → user_profiles',
+            projectRef: 'nprqtjljoekoirlrjxlh',
+          },
         },
         { status: 500 }
       );
@@ -69,10 +137,18 @@ export async function POST(request: NextRequest) {
 
     return NextResponse.json({
       ok: true,
+      email,
       created: result.created,
       mailSent: result.mailSent,
       passwordReady: result.passwordReady,
-      email: identity.email,
+      userId: result.userId,
+      authVisible,
+      profileRowsForEmail: profileRowsForEmail ?? 0,
+      whereToLook: {
+        auth: 'Supabase → Authentication → Users',
+        profile: 'Table Editor → user_profiles',
+        projectRef: 'nprqtjljoekoirlrjxlh',
+      },
     });
   } catch (error: any) {
     console.error('❌ complete-checkout error:', error?.message || error);
