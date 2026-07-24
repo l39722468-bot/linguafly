@@ -97,13 +97,14 @@ Variables:
 - [x] Cliente TypeScript (`src/lib/mobile/api-client.ts`)
 - [x] Scaffold Expo
 
-### Fase 2 — UI nativa
-- [ ] Pantallas: login, selector de curso, reproductor de ejercicios
-- [ ] Implementar tipos de ejercicio prioritarios (multiple-choice, fill-blank, listening)
-- [ ] Integrar `/api/evaluate-speaking` con `expo-av`
+### Fase 2 — UI nativa ✅
+- [x] Login/registro Supabase
+- [x] Reproductor de ejercicios (MC, huecos, lectura, escucha, ordenar frases, writing, speaking)
+- [x] Integración `/api/evaluate-speaking` con `expo-av`
 
 ### Fase 3 — Publicación
-- [ ] EAS Build (Android + iOS)
+- [x] Configuración EAS Build (`eas.json`, perfiles preview/production)
+- [ ] Ejecutar `eas init` + primer build en cuenta Expo
 - [ ] Deep links OAuth (`focusenglish://auth/callback`)
 - [ ] Stripe / suscripciones (web checkout + deep link o IAP)
 

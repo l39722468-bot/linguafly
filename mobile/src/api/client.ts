@@ -18,6 +18,21 @@ export type MobileUnitPayload = {
   exercises: unknown[];
 };
 
+export type MobileMeResponse = {
+  user: { id: string; email?: string };
+  profile: {
+    role?: string;
+    subscriptionStatus?: string | null;
+    subscriptionPlan?: string | null;
+    languageLevel?: string | null;
+  };
+  entitlements: {
+    isPaid: boolean;
+    officialCourses: boolean;
+    tier: string;
+  };
+};
+
 export type MobileRecordProgressBody = {
   courseId: string;
   unitId: number;
@@ -60,6 +75,10 @@ export class FocusEnglishApi {
     return this.request<MobileUnitPayload>(
       `/api/mobile/v1/course/${courseId}/units/${encodeURIComponent(unitId)}`
     );
+  }
+
+  getMe() {
+    return this.request<MobileMeResponse>('/api/mobile/v1/me');
   }
 
   recordProgress(body: MobileRecordProgressBody) {

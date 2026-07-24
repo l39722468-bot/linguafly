@@ -20,6 +20,13 @@ export type ExerciseContent = {
   transcript?: string;
   audioUrl?: string;
   passage?: string;
+  prompt?: string;
+  targetText?: string;
+  expectedResponse?: string;
+  correctSentence?: string;
+  words?: string[];
+  minWords?: number;
+  maxWords?: number;
 };
 
 export type CourseExercise = {

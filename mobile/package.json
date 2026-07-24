@@ -7,19 +7,26 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "eas:init": "eas init",
+    "eas:build:android": "eas build --platform android --profile preview",
+    "eas:build:android:prod": "eas build --platform android --profile production",
+    "eas:build:ios": "eas build --platform ios --profile production",
+    "eas:build:all": "eas build --platform all --profile production"
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "2.1.2",
     "@supabase/supabase-js": "^2.49.1",
     "expo": "~52.0.0",
     "expo-av": "~15.0.2",
+    "expo-file-system": "~18.0.12",
     "expo-status-bar": "~2.0.0",
     "react": "18.3.1",
     "react-native": "0.76.5"
   },
   "devDependencies": {
     "@types/react": "~18.3.12",
+    "eas-cli": "^14.0.0",
     "typescript": "^5.7.2"
   }
 }

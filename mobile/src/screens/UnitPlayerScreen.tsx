@@ -25,9 +25,10 @@ const api = new FocusEnglishApi(getAccessToken);
 
 type Props = {
   onExit: () => void;
+  guestUnit1?: boolean;
 };
 
-export function UnitPlayerScreen({ onExit }: Props) {
+export function UnitPlayerScreen({ onExit, guestUnit1 = false }: Props) {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [unitTitle, setUnitTitle] = useState('');
@@ -49,6 +50,17 @@ export function UnitPlayerScreen({ onExit }: Props) {
     setLoading(true);
     setError(null);
     try {
+      if (guestUnit1) {
+        const unit = await api.getUnit(DEFAULT_COURSE_ID, 'unit-1');
+        setTotalUnits(60);
+        setUnitId('unit-1');
+        setUnitTitle(unit.title);
+        setExercises(unit.exercises as CourseExercise[]);
+        setCurrentIndex(0);
+        setCompleted(false);
+        return;
+      }
+
       const catalog = await api.getCourseCatalog(DEFAULT_COURSE_ID);
       const activeUnitId = `unit-${catalog.sequential.currentUnitNumber}`;
       const unit = await api.getUnit(DEFAULT_COURSE_ID, activeUnitId);
@@ -63,7 +75,7 @@ export function UnitPlayerScreen({ onExit }: Props) {
     } finally {
       setLoading(false);
     }
-  }, []);
+  }, [guestUnit1]);
 
   useEffect(() => {
     loadUnit();

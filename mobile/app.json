@@ -12,16 +12,31 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.focusonenglish.app"
+      "bundleIdentifier": "com.focusonenglish.app",
+      "infoPlist": {
+        "NSMicrophoneUsageDescription": "Necesitamos el micrófono para ejercicios de pronunciación.",
+        "NSSpeechRecognitionUsageDescription": "Usamos el audio para evaluar tu pronunciación en inglés."
+      }
     },
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#0f172a"
       },
-      "package": "com.focusonenglish.app"
+      "package": "com.focusonenglish.app",
+      "permissions": [
+        "android.permission.RECORD_AUDIO",
+        "android.permission.MODIFY_AUDIO_SETTINGS"
+      ]
     },
+    "plugins": [
+      [
+        "expo-av",
+        {
+          "microphonePermission": "Permite a Focus English usar el micrófono para ejercicios de speaking."
+        }
+      ]
+    ],
     "extra": {
-      "apiUrl": "http://localhost:5436",
       "eas": {
         "projectId": "replace-with-eas-project-id"
       }

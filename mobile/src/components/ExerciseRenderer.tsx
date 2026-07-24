@@ -14,6 +14,9 @@ import { TrueFalseExercise } from './exercises/TrueFalseExercise';
 import { FillBlankExercise } from './exercises/FillBlankExercise';
 import { ReadingExercise } from './exercises/ReadingExercise';
 import { ListeningExercise } from './exercises/ListeningExercise';
+import { SentenceBuildingExercise } from './exercises/SentenceBuildingExercise';
+import { WritingExercise } from './exercises/WritingExercise';
+import { SpeakingExercise } from './exercises/SpeakingExercise';
 import { FallbackExercise } from './exercises/FallbackExercise';
 import { parseBilingual } from '../utils/bilingual';
 
@@ -22,7 +25,7 @@ type Props = {
   onComplete: (result: ExerciseResult) => void;
 };
 
-const SUPPORTED_TYPES = new Set([
+const QUESTION_TYPES = new Set([
   'multiple-choice',
   'true-false',
   'fill-blank',
@@ -75,7 +78,34 @@ export function ExerciseRenderer({ exercise, onComplete }: Props) {
     finish(checkTextAnswer(question, textAnswer));
   }
 
-  if (!question || !SUPPORTED_TYPES.has(exercise.type)) {
+  if (exercise.type === 'sentence-building' || exercise.type === 'drag-drop' || exercise.type === 'spelling') {
+    return (
+      <SentenceBuildingExercise
+        exercise={exercise}
+        onComplete={(success) => onComplete({ success, score: success ? 100 : 0 })}
+      />
+    );
+  }
+
+  if (exercise.type === 'writing') {
+    return (
+      <WritingExercise
+        exercise={exercise}
+        onComplete={(success) => onComplete({ success, score: success ? 100 : 0 })}
+      />
+    );
+  }
+
+  if (exercise.type === 'pronunciation' || exercise.type === 'speaking-analysis') {
+    return (
+      <SpeakingExercise
+        exercise={exercise}
+        onComplete={(success) => onComplete({ success, score: success ? 100 : 0 })}
+      />
+    );
+  }
+
+  if (!question || !QUESTION_TYPES.has(exercise.type)) {
     return (
       <FallbackExercise
         exercise={exercise}

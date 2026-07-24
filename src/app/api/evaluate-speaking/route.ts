@@ -3,7 +3,7 @@ import {
   CF_LLAMA_3_3_70B_INSTRUCT_FP8_FAST,
   CF_WHISPER_LARGE_V3_TURBO,
 } from '@/lib/ai/cloudflare-workers-ai-models';
-import { createClient } from '@/lib/supabase/server';
+import { getMobileAuth } from '@/lib/api/mobile-auth';
 import { resolveEntitlements } from '@/lib/access/entitlements';
 import { getUserProfileByAuthId } from '@/lib/access/user-profile';
 
@@ -33,10 +33,7 @@ export interface SpeakingEvaluationResponse {
 
 export async function POST(request: NextRequest) {
   try {
-    const supabase = await createClient();
-    const {
-      data: { user },
-    } = await supabase.auth.getUser();
+    const { supabase, user } = await getMobileAuth(request);
     if (!user) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
