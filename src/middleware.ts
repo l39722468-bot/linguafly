@@ -317,13 +317,11 @@ export async function middleware(request: NextRequest) {
       Boolean((profile as any)?.language_level) ||
       goals.includes('placement_completed');
 
-    // Admin: si el usuario autenticado no es admin, enviarlo al login de admin (no al de alumno)
-    if (isAdminArea && !isAdmin) {
-      const url = request.nextUrl.clone();
-      url.pathname = "/cuenta/login-admin";
-      url.searchParams.set("error", "forbidden");
-      url.searchParams.set("next", pathname);
-      return NextResponse.redirect(url, 303);
+    // Admin area: si hay sesión, dejar pasar.
+    // La comprobación real de role=admin se hace en app/admin/layout.tsx (Node + service role),
+    // porque en Edge el perfil a menudo no es legible por RLS.
+    if (isAdminArea) {
+      return response;
     }
 
     if (!isPaid && !isAdmin && !isToeflExempt && !isOutlineOnly && !isStudentPanel) {
