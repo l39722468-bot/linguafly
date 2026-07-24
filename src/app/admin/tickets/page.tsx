@@ -27,12 +27,13 @@ type Section = 'guest' | 'student';
 export default function AdminTicketsPage() {
   const [guestTickets, setGuestTickets] = useState<Ticket[]>([]);
   const [studentTickets, setStudentTickets] = useState<Ticket[]>([]);
-  const [section, setSection] = useState<Section>('guest');
+  const [section, setSection] = useState<Section>('student');
   const [selectedTicketId, setSelectedTicketId] = useState<string | null>(null);
   const [selectedTicket, setSelectedTicket] = useState<Ticket | null>(null);
   const [loading, setLoading] = useState(true);
   const [detailLoading, setDetailLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [warning, setWarning] = useState<string | null>(null);
   const [success, setSuccess] = useState<string | null>(null);
   const [reply, setReply] = useState('');
   const [sending, setSending] = useState(false);
@@ -42,6 +43,7 @@ export default function AdminTicketsPage() {
   async function loadTickets() {
     try {
       setError(null);
+      setWarning(null);
       setLoading(true);
       const res = await fetch('/api/admin/tickets?limit=100');
       const data = await res.json().catch(() => ({}));
@@ -50,11 +52,15 @@ export default function AdminTicketsPage() {
       const student = data?.sections?.student ?? [];
       setGuestTickets(guest);
       setStudentTickets(student);
-      const currentList = section === 'guest' ? guest : student;
-      if (currentList.length > 0) {
+      if (typeof data?.warning === 'string' && data.warning) setWarning(data.warning);
+      // Preferir pestaña con contenido
+      if (student.length > 0) setSection('student');
+      else if (guest.length > 0) setSection('guest');
+      const preferred = student.length > 0 ? student : guest;
+      if (preferred.length > 0) {
         setSelectedTicketId((prev) => {
-          if (prev && currentList.some((t: Ticket) => t.id === prev)) return prev;
-          return currentList[0].id;
+          if (prev && preferred.some((t: Ticket) => t.id === prev)) return prev;
+          return preferred[0].id;
         });
       } else {
         setSelectedTicketId(null);
@@ -162,6 +168,11 @@ export default function AdminTicketsPage() {
       {error && (
         <div className="bg-red-50 border border-red-200 text-red-700 rounded-xl px-4 py-3 text-sm font-medium">
           {error}
+        </div>
+      )}
+      {warning && (
+        <div className="bg-amber-50 border border-amber-200 text-amber-900 rounded-xl px-4 py-3 text-sm font-medium">
+          {warning}
         </div>
       )}
       {success && (

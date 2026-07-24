@@ -103,17 +103,30 @@ export async function createHubSpotTicket(params: {
   pipeline?: string;
   stage?: string;
 }) {
-  const { subject, content, pipeline = '0', stage = '4498894073' } = params;
-  
+  const { subject, content, pipeline, stage } = params;
+
+  const properties: Record<string, string> = {
+    subject,
+    content,
+  };
+  if (pipeline) properties.hs_pipeline = pipeline;
+  if (stage) properties.hs_pipeline_stage = stage;
+
   const ticketResult = await hubspotRequest('/crm/v3/objects/tickets', 'POST', {
-    properties: {
-      subject,
-      content,
-      hs_pipeline: pipeline,
-      hs_pipeline_stage: stage,
-    },
+    properties,
   });
-  return ticketResult?.id;
+
+  if (ticketResult?.id) return ticketResult.id;
+
+  // Reintento sin pipeline/stage (evita fallos por IDs de pipeline obsoletos).
+  if (pipeline || stage) {
+    const retry = await hubspotRequest('/crm/v3/objects/tickets', 'POST', {
+      properties: { subject, content },
+    });
+    return retry?.id;
+  }
+
+  return null;
 }
 
 /**

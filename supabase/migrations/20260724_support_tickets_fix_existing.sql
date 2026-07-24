@@ -22,6 +22,16 @@ ALTER TABLE public.support_tickets ADD COLUMN IF NOT EXISTS hubspot_ticket_id TE
 ALTER TABLE public.support_tickets ADD COLUMN IF NOT EXISTS created_at TIMESTAMPTZ DEFAULT NOW();
 ALTER TABLE public.support_tickets ADD COLUMN IF NOT EXISTS updated_at TIMESTAMPTZ DEFAULT NOW();
 
+-- Esquemas antiguos a veces tenían user_id NOT NULL (rompe tickets guest y alumnos mal enlazados)
+DO $$
+BEGIN
+  BEGIN
+    ALTER TABLE public.support_tickets ALTER COLUMN user_id DROP NOT NULL;
+  EXCEPTION WHEN others THEN
+    RAISE NOTICE 'DROP NOT NULL user_id: %', SQLERRM;
+  END;
+END $$;
+
 -- Defaults / backfill mínimos para filas antiguas
 UPDATE public.support_tickets SET source = 'guest' WHERE source IS NULL;
 UPDATE public.support_tickets SET email = COALESCE(email, 'unknown@linguafly.app') WHERE email IS NULL;

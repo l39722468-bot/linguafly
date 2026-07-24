@@ -297,7 +297,11 @@ export async function sendWelcomeEmail({
 }
 
 function getAdminNotifyEmail(): string {
-  return process.env.ADMIN_EMAIL || process.env.TICKETS_ADMIN_EMAIL || 'hola@updates.linguafly.app';
+  return (
+    process.env.ADMIN_EMAIL ||
+    process.env.TICKETS_ADMIN_EMAIL ||
+    'admin@linguafly.app'
+  );
 }
 
 export async function sendTicketReceivedEmail({
