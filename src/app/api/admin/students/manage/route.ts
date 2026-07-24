@@ -1,8 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { createClient as createSupabaseJsClient } from '@supabase/supabase-js';
 import { supabaseAdmin } from '@/lib/supabase/client';
 import { ensureAdmin } from '@/lib/admin/ensure-admin';
 import { generateTempPassword } from '@/lib/auth/temp-password';
+import { resolveAuthUserId, verifyPasswordWithRetry } from '@/lib/auth/find-auth-user';
 import { sendAdminTempPasswordEmail, sendWelcomeEmail } from '@/lib/email-service';
 
 type CreateStudentBody = {
@@ -55,74 +55,6 @@ function normalizeCoursePath(courseId: string, unitId: number): string {
   };
   const base = map[courseId] ?? '/curso-a1';
   return `${base}/unit-${unitId}`;
-}
-
-async function findAuthUserIdByEmail(email: string): Promise<string | null> {
-  if (!supabaseAdmin) return null;
-  const normalized = email.trim().toLowerCase();
-
-  // Preferir listado paginado frente a getUserByEmail (no siempre disponible / estable).
-  let page = 1;
-  const perPage = 200;
-  while (page <= 10) {
-    const { data, error } = await supabaseAdmin.auth.admin.listUsers({ page, perPage });
-    if (error) {
-      console.error('[admin/students/manage] listUsers:', error.message);
-      return null;
-    }
-    const match = (data.users ?? []).find((u) => u.email?.toLowerCase() === normalized);
-    if (match) return match.id;
-    if ((data.users ?? []).length < perPage) break;
-    page += 1;
-  }
-  return null;
-}
-
-async function resolveAuthUserId(userId: string, emailHint?: string | null): Promise<{
-  userId: string;
-  email: string | null;
-} | null> {
-  if (!supabaseAdmin) return null;
-
-  const { data: byId, error: byIdErr } = await supabaseAdmin.auth.admin.getUserById(userId);
-  if (!byIdErr && byId?.user) {
-    return { userId: byId.user.id, email: byId.user.email ?? null };
-  }
-
-  let email = (emailHint ?? '').trim().toLowerCase() || null;
-  if (!email) {
-    const { data: profile } = await supabaseAdmin
-      .from('user_profiles')
-      .select('email')
-      .eq('user_id', userId)
-      .maybeSingle();
-    email = profile?.email?.trim().toLowerCase() || null;
-  }
-
-  if (!email) return null;
-
-  const foundId = await findAuthUserIdByEmail(email);
-  if (!foundId) return null;
-  return { userId: foundId, email };
-}
-
-async function verifyPasswordWorks(email: string, password: string): Promise<boolean> {
-  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
-  const anonKey = process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY;
-  if (!supabaseUrl || !anonKey) return true; // no bloquear si faltan vars en entorno raro
-
-  const client = createSupabaseJsClient(supabaseUrl, anonKey, {
-    auth: { persistSession: false, autoRefreshToken: false },
-  });
-
-  const { data, error } = await client.auth.signInWithPassword({ email, password });
-  if (error || !data.session) {
-    console.error('[admin/students/manage] verify login failed:', error?.message);
-    return false;
-  }
-
-  await client.auth.signOut().catch(() => undefined);
-  return true;
 }
 
 export async function POST(request: NextRequest) {
@@ -234,7 +166,7 @@ export async function POST(request: NextRequest) {
         );
       }
 
-      const loginOk = await verifyPasswordWorks(email, tempPassword);
+      const loginOk = await verifyPasswordWithRetry(email, tempPassword);
       if (!loginOk) {
         return NextResponse.json(
           {
@@ -331,25 +263,20 @@ export async function POST(request: NextRequest) {
         })
         .eq('id', resolved.userId);
 
-      const loginOk = await verifyPasswordWorks(email, tempPassword);
-      if (!loginOk) {
-        return NextResponse.json(
-          {
-            error:
-              'Auth aceptó el cambio pero el login de prueba falló. Vuelve a intentar o revisa la política de contraseñas.',
-            userId: resolved.userId,
-            email,
-            loginVerified: false,
-          },
-          { status: 500 }
-        );
-      }
-
+      const loginOk = await verifyPasswordWithRetry(email, tempPassword);
       const mailSent = await sendAdminTempPasswordEmail({
         email,
         name: profileName || 'Estudiante',
         tempPassword,
       });
+
+      if (!loginOk) {
+        console.warn(
+          '[admin/students/manage] password updated but login verification pending',
+          resolved.userId,
+          email
+        );
+      }
 
       return NextResponse.json({
         ok: true,
@@ -357,7 +284,10 @@ export async function POST(request: NextRequest) {
         email,
         mailSent,
         tempPassword,
-        loginVerified: true,
+        loginVerified: loginOk,
+        warning: loginOk
+          ? undefined
+          : 'Contraseña actualizada en Auth. Si el alumno no puede entrar de inmediato, espera unos segundos e inténtalo de nuevo.',
         planName,
       });
     }

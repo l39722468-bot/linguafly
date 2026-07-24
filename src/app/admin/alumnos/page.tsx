@@ -112,8 +112,12 @@ export default function AdminAlumnosPage() {
       }
       alert(
         data?.mailSent
-          ? 'Contraseña reseteada y enviada por email. Copia también la mostrada en pantalla.'
-          : 'Contraseña reseteada. Copia la nueva contraseña mostrada.'
+          ? data?.loginVerified === false
+            ? `Contraseña reseteada y enviada por email. ${data?.warning ?? 'La verificación de login tardó; copia la contraseña mostrada.'}`
+            : 'Contraseña reseteada y enviada por email. Copia también la mostrada en pantalla.'
+          : data?.loginVerified === false
+            ? `Contraseña reseteada. ${data?.warning ?? 'Copia la nueva contraseña mostrada.'}`
+            : 'Contraseña reseteada. Copia la nueva contraseña mostrada.'
       );
     } catch (e) {
       setError(e instanceof Error ? e.message : 'Error desconocido');
