@@ -1,65 +1,77 @@
 import { createClient } from '@/lib/supabase/server';
 import { NextRequest, NextResponse } from 'next/server';
+import { supabaseAdmin } from '@/lib/supabase/client';
+import {
+  aggregateLessonProgressByUnit,
+  mapA1ProgressRows,
+  mergeUnitProgress,
+  summarizeUnitProgress,
+} from '@/lib/progress/aggregate';
 
 export async function GET(request: NextRequest) {
   try {
     const supabase = await createClient();
-    const { data: { user } } = await supabase.auth.getUser();
+    const {
+      data: { user },
+    } = await supabase.auth.getUser();
 
     if (!user) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
-    const unitId = request.nextUrl.searchParams.get('unitId');
+    const unitIdParam = request.nextUrl.searchParams.get('unitId');
+    const reader = supabaseAdmin ?? supabase;
 
-    if (unitId) {
-      // Get specific unit progress
-      const { data, error } = await supabase
-        .from('a1_progress')
-        .select('*')
-        .eq('user_id', user.id)
-        .eq('unit_id', parseInt(unitId))
-        .single();
+    const { data: lessonRows, error: lessonErr } = await reader
+      .from('user_lesson_progress')
+      .select(
+        'unit_id, exercises_completed, exercises_total, attempts, correct_count, accuracy_percent, last_activity_at, status'
+      )
+      .eq('user_id', user.id)
+      .eq('course_id', 'ingles-a1');
 
-      if (error && error.code !== 'PGRST116') {
-        // PGRST116 = no rows returned (unit not started)
-        console.error('Database error:', error);
-        return NextResponse.json({ error: 'Failed to fetch progress' }, { status: 500 });
-      }
+    if (lessonErr) {
+      console.warn('[a1/progress] lesson progress:', lessonErr.message);
+    }
 
+    const { data: a1Rows, error: a1Err } = await reader
+      .from('a1_progress')
+      .select(
+        'unit_id, exercises_completed, exercises_total, accuracy_percentage, status, last_activity'
+      )
+      .eq('user_id', user.id);
+
+    if (a1Err) {
+      console.warn('[a1/progress] a1_progress:', a1Err.message);
+    }
+
+    const unified = aggregateLessonProgressByUnit(lessonRows ?? []);
+    const legacy = mapA1ProgressRows(a1Rows ?? []);
+    const progress = mergeUnitProgress(unified, legacy);
+    const summary = summarizeUnitProgress(progress);
+
+    if (unitIdParam) {
+      const unitId = parseInt(unitIdParam, 10);
+      const row = progress.find((u) => u.unit_id === unitId);
       return NextResponse.json({
-        progress: data || {
-          unit_id: parseInt(unitId),
+        progress: row || {
+          unit_id: unitId,
           status: 'not_started',
           exercises_completed: 0,
           exercises_total: 0,
           accuracy_percentage: 0,
         },
       });
-    } else {
-      // Get all units progress
-      const { data, error } = await supabase
-        .from('a1_progress')
-        .select('*')
-        .eq('user_id', user.id)
-        .order('unit_id', { ascending: true });
-
-      if (error) {
-        console.error('Database error:', error);
-        return NextResponse.json({ error: 'Failed to fetch progress' }, { status: 500 });
-      }
-
-      return NextResponse.json({
-        progress: data || [],
-        summary: {
-          totalUnitsStarted: data?.length || 0,
-          totalUnitsCompleted: data?.filter(u => u.status === 'completed').length || 0,
-          averageAccuracy: data && data.length > 0
-            ? (data.reduce((sum, u) => sum + (u.accuracy_percentage || 0), 0) / data.length).toFixed(2)
-            : 0,
-        },
-      });
     }
+
+    return NextResponse.json({
+      progress,
+      summary: {
+        totalUnitsStarted: summary.totalUnitsStarted,
+        totalUnitsCompleted: summary.totalUnitsCompleted,
+        averageAccuracy: summary.averageAccuracy,
+      },
+    });
   } catch (error) {
     console.error('API error:', error);
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });

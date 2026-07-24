@@ -66,6 +66,10 @@ export default function AdminA1Analytics({
   const [progressData, setProgressData] = useState<ProgressData[]>([]);
   const [summary, setSummary] = useState<Summary | null>(null);
   const [courseIdUsed, setCourseIdUsed] = useState<string>('ingles-a1');
+  const [availableCourses, setAvailableCourses] = useState<string[]>(['ingles-a1']);
+  const [selectedCourseId, setSelectedCourseId] = useState<string>('ingles-a1');
+  const [progressSource, setProgressSource] = useState<string | null>(null);
+  const [progressError, setProgressError] = useState<string | null>(null);
   const [loading, setLoading] = useState(true);
   const [studentsError, setStudentsError] = useState<string | null>(null);
   const [studentLoading, setStudentLoading] = useState(false);
@@ -118,7 +122,7 @@ export default function AdminA1Analytics({
         loadSRSStats();
       }
     }
-  }, [selectedStudent]);
+  }, [selectedStudent, selectedCourseId]);
 
   useEffect(() => {
     if (activeTab === 'srs' && selectedStudent && !srsStats) {
@@ -129,15 +133,26 @@ export default function AdminA1Analytics({
   async function loadStudentProgress() {
     if (!selectedStudent) return;
     setStudentLoading(true);
+    setProgressError(null);
     try {
-      const response = await fetch(`/api/admin/progress/${selectedStudent}`);
-      if (!response.ok) throw new Error('Failed to fetch progress');
-      const data = await response.json();
+      const qs = selectedCourseId
+        ? `?courseId=${encodeURIComponent(selectedCourseId)}`
+        : '';
+      const response = await fetch(`/api/admin/progress/${selectedStudent}${qs}`);
+      const data = await response.json().catch(() => ({}));
+      if (!response.ok) throw new Error(data?.error ?? 'Failed to fetch progress');
       setProgressData(data.progress || []);
       setSummary(data.summary);
-      setCourseIdUsed(data.courseId || 'ingles-a1');
+      setCourseIdUsed(data.courseId || selectedCourseId || 'ingles-a1');
+      setProgressSource(data.source || null);
+      if (Array.isArray(data.availableCourses) && data.availableCourses.length > 0) {
+        setAvailableCourses(data.availableCourses);
+      }
     } catch (error) {
       console.error('Error loading progress:', error);
+      setProgressError(error instanceof Error ? error.message : 'Error al cargar progreso');
+      setProgressData([]);
+      setSummary(null);
     } finally {
       setStudentLoading(false);
     }
@@ -242,7 +257,7 @@ export default function AdminA1Analytics({
               <BarChart3 className="w-6 h-6 text-emerald-600" />
             </div>
             <div>
-              <p className="text-sm font-bold text-slate-500 uppercase">Con progreso A1</p>
+              <p className="text-sm font-bold text-slate-500 uppercase">Con progreso guardado</p>
               <p className="text-2xl font-black text-slate-800">{globalSummary.withProgress}</p>
             </div>
           </div>
@@ -283,20 +298,44 @@ export default function AdminA1Analytics({
           )}
         </div>
         
-        <select
-          value={selectedStudent || ''}
-          onChange={(e) => {
-            setSelectedStudent(e.target.value);
-            setSrsStats(null);
-          }}
-          className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:border-coral-500 focus:ring-2 focus:ring-coral-100 outline-none transition"
-        >
-          {students.map(student => (
-            <option key={student.id} value={student.id}>
-              {student.name} ({student.email})
-            </option>
-          ))}
-        </select>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
+          <select
+            value={selectedStudent || ''}
+            onChange={(e) => {
+              setSelectedStudent(e.target.value);
+              setSrsStats(null);
+              setSelectedCourseId('ingles-a1');
+            }}
+            className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:border-coral-500 focus:ring-2 focus:ring-coral-100 outline-none transition"
+          >
+            {students.map(student => (
+              <option key={student.id} value={student.id}>
+                {student.name} ({student.email})
+              </option>
+            ))}
+          </select>
+          <select
+            value={selectedCourseId}
+            onChange={(e) => setSelectedCourseId(e.target.value)}
+            className="w-full px-4 py-3 rounded-lg border border-slate-300 focus:border-coral-500 focus:ring-2 focus:ring-coral-100 outline-none transition"
+          >
+            {Array.from(new Set(['ingles-a1', ...availableCourses])).map((cid) => (
+              <option key={cid} value={cid}>
+                Curso: {cid}
+              </option>
+            ))}
+          </select>
+        </div>
+        {progressSource && (
+          <p className="mt-2 text-xs text-slate-500">
+            Fuente de datos: {progressSource === 'merged' ? 'progreso unificado + legado A1' : progressSource}
+          </p>
+        )}
+        {progressError && (
+          <div className="mt-3 text-sm font-medium text-red-700 bg-red-50 border border-red-200 rounded-xl px-4 py-3">
+            {progressError}
+          </div>
+        )}
 
         {students.length > 0 && (
           <div className="mt-4">

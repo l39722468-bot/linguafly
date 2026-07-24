@@ -5,6 +5,12 @@ export type AdminCheck =
   | { ok: true; userId: string; email: string | null }
   | { ok: false; status: 401 | 403 | 500; message: string };
 
+<<<<<<< HEAD
+=======
+/**
+ * Valida sesión + role=admin usando service role (evita falsos Forbidden por RLS).
+ */
+>>>>>>> b0b82b713 (fix(progress): sincronizar progreso alumno con panel admin)
 export async function ensureAdmin(): Promise<AdminCheck> {
   const supabase = await createClient();
   const {
@@ -33,7 +39,14 @@ export async function ensureAdmin(): Promise<AdminCheck> {
       .select('role')
       .ilike('email', user.email)
       .limit(5);
+<<<<<<< HEAD
     if ((byEmail || []).some((r) => r.role === 'admin')) role = 'admin';
+=======
+
+    if ((byEmail || []).some((r) => r.role === 'admin')) {
+      role = 'admin';
+    }
+>>>>>>> b0b82b713 (fix(progress): sincronizar progreso alumno con panel admin)
   }
 
   if (role !== 'admin' && user.email?.toLowerCase() === 'admin@linguafly.app') {

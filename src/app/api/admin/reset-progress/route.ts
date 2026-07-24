@@ -65,7 +65,7 @@ export async function POST(request: NextRequest) {
 
     // Resetear según el tipo
     if (resetType === 'full' || resetType === 'progress-only') {
-      // 1. Resetear progreso de lecciones
+      // 1. Resetear progreso de lecciones unificado
       try {
         const { error: lessonsError } = await supabase
           .from('user_lesson_progress')
@@ -79,6 +79,32 @@ export async function POST(request: NextRequest) {
         }
       } catch (e) {
         results.errors.push(`Lessons exception: ${e}`);
+      }
+
+      // 1b. Eventos de ejercicios unificados
+      try {
+        const { error: eventsError } = await supabase
+          .from('user_exercise_events')
+          .delete()
+          .eq('user_id', userId);
+        if (eventsError) results.errors.push(`Events: ${eventsError.message}`);
+      } catch (e) {
+        results.errors.push(`Events exception: ${e}`);
+      }
+
+      // 1c. Legado A1
+      try {
+        const { error: a1ProgErr } = await supabase.from('a1_progress').delete().eq('user_id', userId);
+        if (a1ProgErr) results.errors.push(`A1 progress: ${a1ProgErr.message}`);
+        const { error: a1ResErr } = await supabase
+          .from('a1_exercise_results')
+          .delete()
+          .eq('user_id', userId);
+        if (a1ResErr) results.errors.push(`A1 results: ${a1ResErr.message}`);
+        const { error: a1SrsErr } = await supabase.from('a1_srs_cards').delete().eq('user_id', userId);
+        if (a1SrsErr) results.errors.push(`A1 SRS: ${a1SrsErr.message}`);
+      } catch (e) {
+        results.errors.push(`A1 exception: ${e}`);
       }
 
       // 2. Resetear progreso de ejercicios

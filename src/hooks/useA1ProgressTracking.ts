@@ -13,15 +13,21 @@ interface RecordExerciseParams {
 
 export function useA1ProgressTracking() {
   const { user } = useAuth();
-  const isRecordingRef = useRef(false);
+  // Evitar perder registros concurrentes: bloquear por exerciseId, no globalmente
+  const inFlightRef = useRef<Set<string>>(new Set());
 
   const recordExercise = useCallback(
     async (params: RecordExerciseParams) => {
-      if (!user || isRecordingRef.current) {
+      if (!user) return;
+
+      const key = `${params.unitId}:${params.exerciseId}:${Date.now()}`;
+      // Dedup solo si el mismo exerciseId ya está en vuelo (mismo instante)
+      const dedupeKey = `${params.unitId}:${params.exerciseId}`;
+      if (inFlightRef.current.has(dedupeKey)) {
         return;
       }
 
-      isRecordingRef.current = true;
+      inFlightRef.current.add(dedupeKey);
 
       try {
         const response = await fetch('/api/a1/record-exercise', {
@@ -36,12 +42,15 @@ export function useA1ProgressTracking() {
         }
 
         const data = await response.json();
-        console.log('Exercise recorded:', data);
+        if (data?.unifiedError) {
+          console.warn('Exercise recorded in A1 but unified sync failed:', data.unifiedError);
+        }
         return data;
       } catch (error) {
         console.error('Error recording exercise:', error);
       } finally {
-        isRecordingRef.current = false;
+        inFlightRef.current.delete(dedupeKey);
+        void key;
       }
     },
     [user]
