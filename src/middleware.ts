@@ -9,6 +9,7 @@ import {
 const PUBLIC_ROUTES = new Set([
   "/",
   "/contacto",
+  "/support/ticket",
   "/planes",
   "/cuenta/login",
   "/cuenta/login-admin",
@@ -288,13 +289,12 @@ export async function middleware(request: NextRequest) {
     return NextResponse.redirect(url, 303);
   }
 
-  // Protección para áreas privadas del panel, soporte y administración
-  const isSupportTicket = pathname.startsWith("/support/ticket");
+  // Protección para áreas privadas del panel y administración
+  // /support/ticket es público (guest + alumno) vía PUBLIC_ROUTES.
   const isProtectedArea =
     pathname.startsWith("/admin") ||
     pathname.startsWith("/misiones") ||
     pathname.startsWith("/onboarding") ||
-    isSupportTicket ||
     pathname.startsWith("/mi-panel");
 
   if (isProtectedArea) {
@@ -311,8 +311,8 @@ export async function middleware(request: NextRequest) {
     const isAdminArea = pathname.startsWith("/admin");
     const isToeflExempt = pathname.startsWith("/curso/toefl-");
     const isOutlineOnly = pathname === "/curso-a1/outline" || pathname === "/curso-a2/outline" || pathname === "/curso-b1/outline" || pathname === "/curso-b2/outline";
-    // Panel alumno y tickets de soporte: accesibles con sesión, sin exigir plan de pago.
-    const isStudentArea = pathname.startsWith("/mi-panel") || isSupportTicket;
+    // Panel alumno: accesible con sesión, sin exigir plan de pago.
+    const isStudentArea = pathname.startsWith("/mi-panel");
     const goals = Array.isArray((profile as any)?.learning_goals) ? ((profile as any).learning_goals as string[]) : [];
     const hasPlacementCompleted =
       Boolean((profile as any)?.placement_completed) ||
@@ -341,8 +341,7 @@ export async function middleware(request: NextRequest) {
       !pathname.startsWith('/test-nivel') &&
       !pathname.startsWith('/onboarding') &&
       !pathname.startsWith('/success') &&
-      !pathname.startsWith('/mi-panel') &&
-      !isSupportTicket;
+      !pathname.startsWith('/mi-panel');
 
     if (needsPlacement) {
       const url = request.nextUrl.clone();

@@ -296,8 +296,172 @@ export async function sendWelcomeEmail({
   }
 }
 
+function getAdminNotifyEmail(): string {
+  return process.env.ADMIN_EMAIL || process.env.TICKETS_ADMIN_EMAIL || 'hola@updates.linguafly.app';
+}
+
+export async function sendTicketReceivedEmail({
+  email,
+  name,
+  subject,
+  source,
+}: {
+  email: string;
+  name: string;
+  subject: string;
+  source: 'guest' | 'student';
+}): Promise<boolean> {
+  if (!resend) {
+    console.warn('Resend not configured, skipping ticket received email');
+    return process.env.NODE_ENV === 'development';
+  }
+
+  try {
+    const siteUrl = getPublicSiteUrl();
+    const { data, error } = await resend.emails.send({
+      from: getFromAddress(),
+      to: [email],
+      subject: `Hemos recibido tu consulta - ${BRAND_NAME}`,
+      html: `
+        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">
+          <div style="background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 100%); color: white; padding: 28px; border-radius: 10px 10px 0 0; text-align: center;">
+            <h1 style="margin: 0; font-size: 26px;">${BRAND_NAME}</h1>
+            <p style="margin: 8px 0 0;">Consulta recibida</p>
+          </div>
+          <div style="background: #fff; border: 1px solid #e5e7eb; border-top: none; padding: 28px;">
+            <p>Hola ${name},</p>
+            <p>Hemos recibido tu consulta <strong>«${subject}»</strong>${
+              source === 'student' ? ' (cuenta de alumno)' : ''
+            }.</p>
+            <p>Nuestro equipo te responderá por email a través del sistema de tickets.</p>
+            <p style="margin-top: 24px;"><a href="${siteUrl}/contacto" style="color: #2563eb;">${siteUrl}</a></p>
+          </div>
+        </div>
+      `,
+    });
+    if (error) {
+      console.error('❌ ticket received email:', error);
+      return false;
+    }
+    console.log('✅ ticket received email:', data?.id);
+    return true;
+  } catch (e) {
+    console.error('❌ sendTicketReceivedEmail', e);
+    return false;
+  }
+}
+
+export async function sendTicketAdminNotifyEmail({
+  email,
+  name,
+  subject,
+  message,
+  source,
+  ticketId,
+}: {
+  email: string;
+  name: string;
+  subject: string;
+  message: string;
+  source: 'guest' | 'student';
+  ticketId: string;
+}): Promise<boolean> {
+  if (!resend) return process.env.NODE_ENV === 'development';
+
+  try {
+    const siteUrl = getPublicSiteUrl();
+    const adminTo = getAdminNotifyEmail();
+    const label = source === 'student' ? 'Alumno' : 'Visitante (sin cuenta)';
+    const { data, error } = await resend.emails.send({
+      from: getFromAddress(),
+      to: [adminTo],
+      subject: `[Ticket ${label}] ${subject}`,
+      html: `
+        <div style="font-family: sans-serif; padding: 20px;">
+          <h2>Nuevo ticket (${label})</h2>
+          <p><strong>ID:</strong> ${ticketId}</p>
+          <p><strong>Nombre:</strong> ${name}</p>
+          <p><strong>Email:</strong> ${email}</p>
+          <p><strong>Asunto:</strong> ${subject}</p>
+          <div style="background:#f4f4f4;padding:12px;border-radius:8px;white-space:pre-wrap;">${message.replace(/</g, '&lt;')}</div>
+          <p style="margin-top:16px;"><a href="${siteUrl}/admin/tickets">Abrir panel de tickets</a></p>
+        </div>
+      `,
+    });
+    if (error) {
+      console.error('❌ ticket admin notify:', error);
+      return false;
+    }
+    console.log('✅ ticket admin notify:', data?.id);
+    return true;
+  } catch (e) {
+    console.error('❌ sendTicketAdminNotifyEmail', e);
+    return false;
+  }
+}
+
+export async function sendTicketReplyEmail({
+  email,
+  name,
+  subject,
+  reply,
+  source,
+}: {
+  email: string;
+  name: string;
+  subject: string;
+  reply: string;
+  source: 'guest' | 'student';
+}): Promise<boolean> {
+  if (!resend) {
+    console.warn('Resend not configured, skipping ticket reply email');
+    return process.env.NODE_ENV === 'development';
+  }
+
+  try {
+    const siteUrl = getPublicSiteUrl();
+    const loginHint =
+      source === 'student'
+        ? `<p>También puedes revisar tu panel: <a href="${siteUrl}/mi-panel">${siteUrl}/mi-panel</a></p>`
+        : `<p>Si quieres crear una cuenta de alumno: <a href="${siteUrl}/cuenta/registro">${siteUrl}/cuenta/registro</a></p>`;
+
+    const { data, error } = await resend.emails.send({
+      from: getFromAddress(),
+      to: [email],
+      subject: `Respuesta a tu consulta: ${subject} - ${BRAND_NAME}`,
+      html: `
+        <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px;">
+          <div style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; padding: 28px; border-radius: 10px 10px 0 0; text-align: center;">
+            <h1 style="margin: 0; font-size: 26px;">${BRAND_NAME}</h1>
+            <p style="margin: 8px 0 0;">Respuesta a tu ticket</p>
+          </div>
+          <div style="background: #fff; border: 1px solid #e5e7eb; border-top: none; padding: 28px;">
+            <p>Hola ${name},</p>
+            <p>Hemos respondido a tu consulta <strong>«${subject}»</strong>:</p>
+            <div style="background:#f9fafb;border:1px solid #e5e7eb;border-radius:8px;padding:16px;white-space:pre-wrap;margin:16px 0;">${reply.replace(/</g, '&lt;')}</div>
+            <p>Si necesitas más ayuda, responde a este correo o envía una nueva consulta.</p>
+            ${loginHint}
+          </div>
+        </div>
+      `,
+    });
+    if (error) {
+      console.error('❌ ticket reply email:', error);
+      return false;
+    }
+    console.log('✅ ticket reply email:', data?.id);
+    return true;
+  } catch (e) {
+    console.error('❌ sendTicketReplyEmail', e);
+    return false;
+  }
+}
+
 export default {
   sendWelcomeEmail,
   sendPasswordResetEmail,
   sendPasswordChangedEmail,
+  sendTicketReceivedEmail,
+  sendTicketAdminNotifyEmail,
+  sendTicketReplyEmail,
 };
