@@ -36,7 +36,9 @@
           "microphonePermission": "Permite a Focus English usar el micrófono para ejercicios de speaking."
         }
       ],
-      "expo-apple-authentication"
+      "expo-apple-authentication",
+      "expo-asset",
+      "expo-font"
     ],
     "extra": {
       "eas": {
