@@ -2,6 +2,7 @@ import crypto from 'crypto';
 import Stripe from 'stripe';
 import { supabaseAdmin } from '@/lib/supabase/client';
 import { sendWelcomeEmail } from '@/lib/email-service';
+import { generateTempPassword } from '@/lib/auth/temp-password';
 
 /** Valores permitidos por el CHECK de user_profiles.subscription_plan */
 export function mapSubscriptionPlanToAllowedValue(
@@ -249,7 +250,7 @@ export async function provisionSubscriberFromPayment(
     }
   }
 
-  const generatedPassword = crypto.randomBytes(12).toString('hex') + '!';
+  const generatedPassword = generateTempPassword();
   let userId: string | undefined;
   let passwordReady = false;
   let created = false;

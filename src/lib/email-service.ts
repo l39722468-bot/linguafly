@@ -163,6 +163,76 @@ export async function sendPasswordChangedEmail(
 }
 
 /**
+ * Enviar nueva contraseña temporal generada desde el panel admin.
+ */
+export async function sendAdminTempPasswordEmail({
+  email,
+  name,
+  tempPassword,
+}: {
+  email: string;
+  name: string;
+  tempPassword: string;
+}): Promise<boolean> {
+  if (!resend) {
+    console.warn('Resend not configured, skipping admin temp password email');
+    return process.env.NODE_ENV === 'development';
+  }
+
+  try {
+    const siteUrl = getPublicSiteUrl();
+    const loginUrl = `${siteUrl}/cuenta/login`;
+
+    const { data, error } = await resend.emails.send({
+      from: getFromAddress(),
+      to: [email],
+      subject: `Nueva contraseña temporal - ${BRAND_NAME}`,
+      html: `
+        <!DOCTYPE html>
+        <html>
+          <head><meta charset="utf-8"></head>
+          <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px;">
+            <div style="background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 100%); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0;">
+              <h1 style="margin: 0; font-size: 28px;">${BRAND_NAME}</h1>
+              <p style="margin: 10px 0 0 0; opacity: 0.9;">Contraseña restablecida por administración</p>
+            </div>
+            <div style="background: #f9fafb; padding: 30px; border: 1px solid #e5e7eb; border-top: none;">
+              <h2 style="color: #1f2937; margin-top: 0;">Hola ${name},</h2>
+              <p style="font-size: 16px; color: #4b5563;">
+                Se ha generado una <strong>contraseña temporal</strong> para tu cuenta. Úsala para iniciar sesión y cámbiala cuando puedas.
+              </p>
+              <div style="background: white; padding: 15px; border-radius: 8px; margin: 20px 0; border: 1px solid #e5e7eb;">
+                <p style="margin: 0; font-size: 14px; color: #6b7280;">Email</p>
+                <p style="margin: 0 0 10px 0; font-size: 16px; font-weight: 600; color: #1f2937;">${email}</p>
+                <p style="margin: 0; font-size: 14px; color: #6b7280;">Contraseña temporal</p>
+                <p style="margin: 0; font-size: 18px; font-family: monospace; font-weight: bold; color: #ff7e5f;">${tempPassword}</p>
+              </div>
+              <p style="text-align: center; margin: 24px 0;">
+                <a href="${loginUrl}" style="display: inline-block; background: #ff7e5f; color: white; padding: 12px 28px; text-decoration: none; border-radius: 6px; font-weight: 600;">Iniciar sesión</a>
+              </p>
+            </div>
+            <div style="background: #f3f4f6; padding: 20px; text-align: center; font-size: 12px; color: #6b7280; border-radius: 0 0 10px 10px; border: 1px solid #e5e7eb; border-top: none;">
+              © ${new Date().getFullYear()} ${BRAND_NAME}
+            </div>
+          </body>
+        </html>
+      `,
+    });
+
+    if (error) {
+      console.error('❌ Error enviando email de password admin:', error);
+      return false;
+    }
+
+    console.log('✅ Email de password admin enviado:', data?.id);
+    return true;
+  } catch (error) {
+    console.error('❌ Error en sendAdminTempPasswordEmail:', error);
+    return false;
+  }
+}
+
+/**
  * Enviar email de bienvenida tras suscripción exitosa
  */
 export async function sendWelcomeEmail({
@@ -463,6 +533,7 @@ export async function sendTicketReplyEmail({
 
 export default {
   sendWelcomeEmail,
+  sendAdminTempPasswordEmail,
   sendPasswordResetEmail,
   sendPasswordChangedEmail,
   sendTicketReceivedEmail,

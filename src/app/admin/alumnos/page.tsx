@@ -80,22 +80,41 @@ export default function AdminAlumnosPage() {
     }
   }
 
-  async function handleResetPassword(userId: string) {
+  async function handleResetPassword(student: Student) {
+    if (!student.id) {
+      setError('Este alumno no tiene userId válido.');
+      return;
+    }
+    const ok = window.confirm(
+      `¿Resetear la contraseña de ${student.email || student.name}?\nSe generará una nueva contraseña temporal.`
+    );
+    if (!ok) return;
+
     try {
-      setBusyUserId(userId);
+      setBusyUserId(student.id);
       setError(null);
       const res = await fetch('/api/admin/students/manage', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ action: 'reset-password', userId }),
+        body: JSON.stringify({
+          action: 'reset-password',
+          userId: student.id,
+          email: student.email,
+        }),
       });
       const data = await res.json().catch(() => ({}));
       if (!res.ok) throw new Error(data?.error ?? 'No se pudo resetear contraseña');
       if (data?.tempPassword) {
-        const student = students.find((s) => s.id === userId);
-        setLastCredentials({ email: student?.email, password: data.tempPassword });
+        setLastCredentials({
+          email: data.email || student.email,
+          password: data.tempPassword,
+        });
       }
-      alert(data?.mailSent ? 'Contraseña reseteada y enviada por email.' : 'Contraseña reseteada. Copia la nueva contraseña mostrada.');
+      alert(
+        data?.mailSent
+          ? 'Contraseña reseteada y enviada por email. Copia también la mostrada en pantalla.'
+          : 'Contraseña reseteada. Copia la nueva contraseña mostrada.'
+      );
     } catch (e) {
       setError(e instanceof Error ? e.message : 'Error desconocido');
     } finally {
@@ -230,7 +249,7 @@ export default function AdminAlumnosPage() {
                           Ver progreso
                         </Link>
                         <button
-                          onClick={() => handleResetPassword(s.id)}
+                          onClick={() => handleResetPassword(s)}
                           disabled={busyUserId === s.id}
                           className="inline-flex items-center px-3 py-2 rounded-lg bg-orange-100 text-orange-800 hover:bg-orange-200 transition disabled:opacity-60"
                         >
