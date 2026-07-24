@@ -21,7 +21,7 @@ export const SUBSCRIPTION_PLANS: Record<string, SubscriptionPlan> = {
   'basic-monthly': {
     id: 'basic-monthly',
     name: 'Suscripción mensual',
-    price: 99, // €0,99
+    price: 599, // €5,99
     currency: 'eur',
     interval: 'month',
     popular: true,

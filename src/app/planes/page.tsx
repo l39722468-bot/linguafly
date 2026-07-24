@@ -33,7 +33,7 @@ export default function PlanesPage() {
               <div className="text-left">
                 <h3 className="text-lg font-bold text-amber-900">Suscripción requerida</h3>
                 <p className="text-amber-700">
-                  La unidad 1 de cada curso es gratis. Activa la suscripción de 0,99 €/mes para desbloquear el resto.
+                  La unidad 1 de cada curso es gratis. Activa la suscripción de 5,99 €/mes para desbloquear el resto.
                 </p>
               </div>
             </div>
@@ -45,10 +45,10 @@ export default function PlanesPage() {
               <span>Suscripción mensual</span>
             </div>
             <h1 className="text-5xl sm:text-6xl font-black text-slate-900 mb-6">
-              Unidad 1 gratis, todo el curso desde 0,99 €
+              Unidad 1 gratis, todo el curso desde 5,99 €
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto mb-8">
-              {plans[0] ? formatPrice(plans[0].price) : formatPrice(99)} al mes · Cancela cuando quieras · Sin permanencia
+              {plans[0] ? formatPrice(plans[0].price) : formatPrice(599)} al mes · Cancela cuando quieras · Sin permanencia
             </p>
 
             <div className="flex items-center justify-center gap-4 text-sm text-slate-600 flex-wrap">

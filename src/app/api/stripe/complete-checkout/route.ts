@@ -43,6 +43,7 @@ export async function POST(request: NextRequest) {
     let planName = 'Suscripción mensual';
     let stripeSessionId: string | undefined;
     let skipEmailIfAlreadyProvisioned = true;
+    let forcePasswordReset = false;
 
     if (sessionId) {
       if (!sessionId.startsWith('cs_')) {
@@ -74,6 +75,15 @@ export async function POST(request: NextRequest) {
       planName = identity.planName;
       stripeSessionId = session.id;
     } else if (email) {
+      // Ruta por email solo para admin (evita que cualquiera fuerce reset de contraseña).
+      const { ensureAdmin } = await import('@/lib/admin/ensure-admin');
+      const adminCheck = await ensureAdmin();
+      if (!adminCheck.ok) {
+        return NextResponse.json(
+          { error: 'Para reparar por email necesitas sesión de administrador.' },
+          { status: 403 }
+        );
+      }
       const paid = await hasActiveStripeSubscription(stripe, email);
       if (!paid) {
         return NextResponse.json(
@@ -86,8 +96,8 @@ export async function POST(request: NextRequest) {
           { status: 402 }
         );
       }
-      // Forzar alta + email de bienvenida si aún no estaba bien provisionado
       skipEmailIfAlreadyProvisioned = false;
+      forcePasswordReset = true;
     } else {
       return NextResponse.json(
         { error: 'Indica sessionId (cs_...) o email' },
@@ -103,6 +113,7 @@ export async function POST(request: NextRequest) {
       planName,
       stripeSessionId,
       skipEmailIfAlreadyProvisioned,
+      forcePasswordReset,
     });
 
     let authVisible = false;

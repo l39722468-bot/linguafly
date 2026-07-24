@@ -19,7 +19,10 @@ function validatePasswordLocal(password: string, confirmPassword: string): strin
     return 'La contraseña no puede superar 72 caracteres.';
   }
   if (/[^\x20-\x7E]/.test(password)) {
-    return 'Usa solo letras, números y símbolos normales (sin acentos ni emojis). Ejemplo: MiClave2026!';
+    return 'Usa solo letras, números y símbolos del teclado (sin acentos ni emojis).';
+  }
+  if (!/[A-Z]/.test(password) || !/[a-z]/.test(password) || !/[0-9]/.test(password) || !/[!@#$%*]/.test(password)) {
+    return 'Incluye mayúscula, minúscula, número y un símbolo (!@#$*).';
   }
   if (password !== confirmPassword) {
     return 'Las contraseñas no coinciden.';

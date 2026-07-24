@@ -3,9 +3,7 @@ import { NextRequest, NextResponse } from 'next/server';
 import { getPlanById } from '@/lib/subscription-plans';
 import { getStripePriceId } from '@/lib/stripe-config';
 
-
-// Inicializar Stripe solo si la clave está disponible (evita errores en build time)
-const stripe = process.env.STRIPE_SECRET_KEY 
+const stripe = process.env.STRIPE_SECRET_KEY
   ? new Stripe(process.env.STRIPE_SECRET_KEY, {
       apiVersion: '2026-01-28.clover' as any,
     })
@@ -13,75 +11,49 @@ const stripe = process.env.STRIPE_SECRET_KEY
 
 export async function POST(request: NextRequest) {
   try {
-    // Verificar que Stripe esté inicializado
     if (!stripe) {
       return NextResponse.json(
-        { error: 'Stripe no está configurado. Por favor, contacta al administrador.' },
+        { error: 'Stripe no est? configurado. Por favor, contacta al administrador.' },
         { status: 500 }
       );
     }
 
     const { planId, email, firstName, lastName, phone, currentLevel } = await request.json();
 
-    // Validar que el plan existe
     const plan = getPlanById(planId);
     if (!plan) {
-      return NextResponse.json(
-        { error: 'Plan de suscripción inválido' },
-        { status: 400 }
-      );
+      return NextResponse.json({ error: 'Plan de suscripci?n inv?lido' }, { status: 400 });
     }
 
-    // Obtener Price ID de Stripe (si está configurado)
     const stripePriceId = getStripePriceId(planId);
-    
-    // Validar el Price ID si está configurado
     let validatedPriceId = stripePriceId;
     if (stripePriceId) {
       try {
         const price = await stripe.prices.retrieve(stripePriceId);
-        if (!price.active) {
-          validatedPriceId = null;
-        }
-      } catch (error: any) {
+        if (!price.active) validatedPriceId = null;
+      } catch {
         validatedPriceId = null;
       }
     }
-    
-    // Crear line_items dependiendo si hay Price ID válido o no
-    const lineItems = validatedPriceId
-      ? [
-          {
-            price: validatedPriceId, // Usar Price ID validado
-            quantity: 1,
-          },
-        ]
-      : [
-          {
-            // Fallback: crear precio dinámicamente si no hay Price ID configurado
-            price_data: {
-              currency: plan.currency,
-              product_data: {
-                name: `Linguafly - ${plan.name}`,
-                description: `Plan ${plan.name} - ${plan.features[0]}`,
-              },
-              unit_amount: plan.price,
-              recurring: {
-                interval: plan.interval,
-              },
-            },
-            quantity: 1,
-          },
-        ];
 
-    // Crear sesión de checkout en Stripe para suscripción.
-    // No pasar payment_method_types: Managed Payments (activo por defecto en la cuenta)
-    // lo gestiona y rechaza ese parámetro.
+    if (!validatedPriceId) {
+      console.error('[checkout] Stripe Price ID inv?lido o inactivo:', stripePriceId);
+      return NextResponse.json(
+        {
+          error:
+            'El precio de suscripci?n no est? configurado correctamente. Contacta soporte o revisa STRIPE_PRICE_BASIC_MONTHLY.',
+        },
+        { status: 500 }
+      );
+    }
+
+    const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || 'https://linguafly.app').replace(/\/$/, '');
+
     const session = await stripe.checkout.sessions.create({
-      line_items: lineItems,
+      line_items: [{ price: validatedPriceId, quantity: 1 }],
       mode: 'subscription',
-      success_url: `${(process.env.NEXT_PUBLIC_SITE_URL || 'https://linguafly.app').replace(/\/$/, '')}/success?session_id={CHECKOUT_SESSION_ID}&next=/onboarding`,
-      cancel_url: `${(process.env.NEXT_PUBLIC_SITE_URL || 'https://linguafly.app').replace(/\/$/, '')}/planes`,
+      success_url: `${siteUrl}/success?session_id={CHECKOUT_SESSION_ID}&next=/onboarding`,
+      cancel_url: `${siteUrl}/planes`,
       customer_email: email,
       metadata: {
         planId,
@@ -98,18 +70,18 @@ export async function POST(request: NextRequest) {
         metadata: {
           planId,
           email,
-        }
-      }
+        },
+      },
     });
 
-    return NextResponse.json({ 
+    return NextResponse.json({
       sessionId: session.id,
-      url: session.url 
+      url: session.url,
     });
   } catch (error: any) {
     console.error('Error creating checkout session:', error);
     return NextResponse.json(
-      { error: error.message || 'Error al crear sesión de pago' },
+      { error: error.message || 'Error al crear sesi?n de pago' },
       { status: 500 }
     );
   }

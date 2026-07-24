@@ -1,22 +1,12 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@supabase/supabase-js';
 import { supabaseAdmin } from '@/lib/supabase/client';
+import { validatePasswordPolicy } from '@/lib/auth/temp-password';
 
 export const runtime = 'nodejs';
 
 function validatePassword(password: string): string | null {
-  if (typeof password !== 'string' || password.length < 8) {
-    return 'La contraseña debe tener al menos 8 caracteres.';
-  }
-  if (password.length > 72) {
-    return 'La contraseña no puede superar 72 caracteres.';
-  }
-  // Gestores de contraseñas a veces pegan caracteres invisibles / no ASCII
-  // y Auth responde con mensajes confusos (“alfanuméricos o símbolos”).
-  if (/[^\x20-\x7E]/.test(password)) {
-    return 'Usa solo letras, números y símbolos del teclado (sin acentos ni emojis). Ejemplo: MiClave2026!';
-  }
-  return null;
+  return validatePasswordPolicy(password);
 }
 
 function mapAuthError(message: string): string {

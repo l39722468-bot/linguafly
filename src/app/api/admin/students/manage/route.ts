@@ -166,6 +166,14 @@ export async function POST(request: NextRequest) {
 
       const userId = created.user.id;
 
+      const rollbackAuthUser = async () => {
+        try {
+          await supabaseAdmin!.auth.admin.deleteUser(userId);
+        } catch (e) {
+          console.error('[admin/students/manage] rollback deleteUser failed', e);
+        }
+      };
+
       const usersRes = await supabaseAdmin.from('users').upsert({
         id: userId,
         email,
@@ -179,6 +187,7 @@ export async function POST(request: NextRequest) {
         updated_at: new Date().toISOString(),
       });
       if (usersRes.error) {
+        await rollbackAuthUser();
         return NextResponse.json({ error: `Failed saving users: ${usersRes.error.message}` }, { status: 400 });
       }
 
@@ -196,6 +205,7 @@ export async function POST(request: NextRequest) {
             : null,
       });
       if (profileRes.error) {
+        await rollbackAuthUser();
         return NextResponse.json(
           { error: `Failed saving user_profiles: ${profileRes.error.message}` },
           { status: 400 }
@@ -231,7 +241,6 @@ export async function POST(request: NextRequest) {
             error:
               'Usuario creado pero la contraseña no pasó la verificación de login. Revisa la política de Auth.',
             userId,
-            tempPassword,
           },
           { status: 500 }
         );
@@ -330,7 +339,6 @@ export async function POST(request: NextRequest) {
               'Auth aceptó el cambio pero el login de prueba falló. Vuelve a intentar o revisa la política de contraseñas.',
             userId: resolved.userId,
             email,
-            tempPassword,
             loginVerified: false,
           },
           { status: 500 }

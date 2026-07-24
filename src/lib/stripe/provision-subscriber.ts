@@ -62,7 +62,7 @@ export async function findAuthUserIdByEmail(email: string): Promise<string | und
     }
   }
 
-  for (let page = 1; page <= 5; page++) {
+  for (let page = 1; page <= 20; page++) {
     const { data, error } = await supabaseAdmin.auth.admin.listUsers({ page, perPage: 200 });
     if (error) break;
     const match = data?.users?.find((u) => u.email?.toLowerCase() === normalized);
@@ -77,7 +77,8 @@ async function ensureUserWithPassword(
   email: string,
   password: string,
   firstName: string,
-  lastName: string
+  lastName: string,
+  options?: { forcePasswordReset?: boolean }
 ): Promise<{ userId?: string; passwordReady: boolean; created: boolean; authError?: string }> {
   if (!supabaseAdmin) {
     console.error('❌ SUPABASE_SERVICE_ROLE_KEY no configurada (supabaseAdmin=null)');
@@ -90,6 +91,7 @@ async function ensureUserWithPassword(
 
   const displayName = `${firstName} ${lastName}`.trim() || 'Estudiante';
   const normalizedEmail = email.toLowerCase().trim();
+  const forcePasswordReset = Boolean(options?.forcePasswordReset);
 
   const { data: authData, error: authError } = await supabaseAdmin.auth.admin.createUser({
     email: normalizedEmail,
@@ -117,7 +119,6 @@ async function ensureUserWithPassword(
   if (!alreadyExists) {
     console.error('❌ Auth createUser error:', errMsg, authError);
 
-    // Error típico: trigger/constraint en public.users (password_hash NOT NULL, name NOT NULL…)
     if (msg.includes('database error') || msg.includes('password_hash') || msg.includes('null value')) {
       return {
         passwordReady: false,
@@ -132,13 +133,26 @@ async function ensureUserWithPassword(
     return { passwordReady: false, created: false, authError: errMsg };
   }
 
-  console.log('ℹ️ Usuario ya existía; buscando ID y actualizando contraseña...');
+  console.log('ℹ️ Usuario ya existía; buscando ID…');
   const userId = await findAuthUserIdByEmail(normalizedEmail);
   if (!userId) {
     const notFound =
       'createUser dice que el email ya existe, pero no aparece en Auth/admin ni en tablas. Revisa el proyecto Supabase.';
     console.error('❌', notFound, normalizedEmail);
     return { passwordReady: false, created: false, authError: notFound };
+  }
+
+  // No regenerar contraseña en reintentos de webhook/success (evita invalidar la clave ya enviada).
+  if (!forcePasswordReset) {
+    await supabaseAdmin.auth.admin.updateUserById(userId, {
+      email_confirm: true,
+      user_metadata: {
+        full_name: displayName,
+        first_name: firstName,
+        last_name: lastName,
+      },
+    });
+    return { userId, passwordReady: true, created: false };
   }
 
   const { error: updErr } = await supabaseAdmin.auth.admin.updateUserById(userId, {
@@ -163,6 +177,8 @@ export type ProvisionInput = {
   languageLevel?: string;
   /** Si true, no reenvía email si el usuario ya existía con suscripción activa */
   skipEmailIfAlreadyProvisioned?: boolean;
+  /** Solo admin/repair debe forzar regenerar contraseña de un usuario existente */
+  forcePasswordReset?: boolean;
   stripeSessionId?: string;
 };
 
@@ -213,39 +229,30 @@ export async function provisionSubscriberFromPayment(
   const dbPlan = mapSubscriptionPlanToAllowedValue(planId);
   const nowIso = new Date().toISOString();
 
-  // Si ya hay perfil activo, no regenerar contraseña (evita invalidar acceso)
-  if (input.skipEmailIfAlreadyProvisioned) {
+  // Por defecto no regeneramos contraseña si el usuario ya existe.
+  if (input.skipEmailIfAlreadyProvisioned !== false) {
     const existingId = await findAuthUserIdByEmail(email);
-    if (existingId) {
-      const { data: profile } = await supabaseAdmin
-        .from('user_profiles')
-        .select('subscription_status')
-        .eq('user_id', existingId)
-        .maybeSingle();
+    if (existingId && !input.forcePasswordReset) {
+      await supabaseAdmin.from('user_profiles').upsert(
+        {
+          user_id: existingId,
+          email,
+          name: displayName,
+          role: 'user',
+          subscription_status: 'active',
+          subscription_plan: dbPlan,
+          subscription_start_date: nowIso,
+        },
+        { onConflict: 'user_id' }
+      );
 
-      if (profile?.subscription_status === 'active') {
-        // Asegura datos de perfil actualizados sin tocar la contraseña
-        await supabaseAdmin.from('user_profiles').upsert(
-          {
-            user_id: existingId,
-            email,
-            name: displayName,
-            role: 'user',
-            subscription_status: 'active',
-            subscription_plan: dbPlan,
-            subscription_start_date: nowIso,
-          },
-          { onConflict: 'user_id' }
-        );
-
-        return {
-          ok: true,
-          userId: existingId,
-          passwordReady: true,
-          created: false,
-          mailSent: false,
-        };
-      }
+      return {
+        ok: true,
+        userId: existingId,
+        passwordReady: true,
+        created: false,
+        mailSent: false,
+      };
     }
   }
 
@@ -256,7 +263,9 @@ export async function provisionSubscriberFromPayment(
   let authError: string | undefined;
 
   try {
-    const ensured = await ensureUserWithPassword(email, generatedPassword, firstName, lastName);
+    const ensured = await ensureUserWithPassword(email, generatedPassword, firstName, lastName, {
+      forcePasswordReset: Boolean(input.forcePasswordReset),
+    });
     userId = ensured.userId;
     passwordReady = ensured.passwordReady;
     created = ensured.created;

@@ -309,13 +309,13 @@ export default async function MiPanelPage({
                     ) : (
                       <>
                         <p className="text-sm text-slate-600">
-                          Puedes hacer la unidad 1 de cada curso gratis. El resto se desbloquea desde 0,99 €/mes.
+                          Puedes hacer la unidad 1 de cada curso gratis. El resto se desbloquea desde 5,99 €/mes.
                         </p>
                         <Link href="/curso-a1/unit-1" className="block text-sm font-semibold text-coral-700 hover:text-coral-800">
                           Empezar unidad 1 (A1)
                         </Link>
                         <Link href="/planes" className="block text-sm font-semibold text-slate-700 hover:text-coral-700">
-                          Ver suscripción 0,99 €/mes
+                          Ver suscripción 5,99 €/mes
                         </Link>
                       </>
                     )}

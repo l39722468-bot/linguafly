@@ -61,7 +61,7 @@ export function getProductRouteRedirect(pathname: string): string | null {
 export const COURSE_FUNNEL_CTA = {
   label: 'Empieza gratis la unidad 1',
   href: '/curso-a1/unit-1',
-  description: 'Unidad 1 gratis en cada nivel · resto desde 0,99 €/mes',
+  description: 'Unidad 1 gratis en cada nivel · resto desde 5,99 €/mes',
 } as const;
 
 export const TEST_FUNNEL_CTA = {

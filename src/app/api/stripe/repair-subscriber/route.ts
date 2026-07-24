@@ -90,6 +90,13 @@ export async function POST(request: NextRequest) {
       );
     }
 
+    // Solo admin puede reparar por email/session (evita abuso público).
+    const { ensureAdmin } = await import('@/lib/admin/ensure-admin');
+    const adminCheck = await ensureAdmin();
+    if (!adminCheck.ok) {
+      return NextResponse.json({ error: adminCheck.message }, { status: adminCheck.status });
+    }
+
     const result = await provisionSubscriberFromPayment({
       email,
       firstName,
@@ -98,6 +105,7 @@ export async function POST(request: NextRequest) {
       planName,
       stripeSessionId,
       skipEmailIfAlreadyProvisioned: false,
+      forcePasswordReset: true,
     });
 
     // Verificación inmediata en Auth

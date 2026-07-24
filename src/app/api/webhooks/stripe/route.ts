@@ -26,6 +26,8 @@ async function provisionFromCheckoutSession(session: Stripe.Checkout.Session) {
   const result = await provisionSubscriberFromPayment({
     ...identity,
     stripeSessionId: session.id,
+    skipEmailIfAlreadyProvisioned: true,
+    forcePasswordReset: false,
   });
 
   if (!result.ok) {
