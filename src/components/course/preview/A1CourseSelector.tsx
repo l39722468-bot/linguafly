@@ -14,6 +14,8 @@ interface A1CourseSelectorProps {
   units: UnitMetadata[];
   /** e.g. "ingles-a2" → links go to /curso-a2. Default "ingles-a1" → /curso-a1 */
   courseId?: string;
+  /** Acceso completo a unidades 2+ (suscripción activa o admin). */
+  hasFullAccess?: boolean;
 }
 
 const AVAILABLE_TOPICS = [
@@ -34,10 +36,11 @@ function getCoursePath(courseId?: string): string {
   if (courseId === 'ingles-b1') return '/curso-b1';
   if (courseId === 'ingles-b2') return '/curso-b2';
   if (courseId === 'ingles-c1') return '/curso-c1';
+  if (courseId === 'ingles-c2') return '/curso-c2';
   return '/curso-a1';
 }
 
-export function A1CourseSelector({ units, courseId }: A1CourseSelectorProps) {
+export function A1CourseSelector({ units, courseId, hasFullAccess = false }: A1CourseSelectorProps) {
   const coursePath = getCoursePath(courseId);
   const [searchQuery, setSearchQuery] = useState('');
   const [selectedTopics, setSelectedTopics] = useState<string[]>([]);
@@ -343,7 +346,7 @@ export function A1CourseSelector({ units, courseId }: A1CourseSelectorProps) {
       {/* Units Grid or Module View */}
       {filteredUnits.length > 0 ? (
         viewMode === 'grid' ? (
-          <LazyUnitGrid units={filteredUnits} coursePath={coursePath} />
+          <LazyUnitGrid units={filteredUnits} coursePath={coursePath} hasFullAccess={hasFullAccess} />
         ) : (
           <div className="flex flex-col gap-6">
             {modules.map((module) => (
@@ -352,6 +355,7 @@ export function A1CourseSelector({ units, courseId }: A1CourseSelectorProps) {
                 module={module}
                 isInitiallyExpanded={modules.length === 1}
                 coursePath={coursePath}
+                hasFullAccess={hasFullAccess}
               />
             ))}
           </div>

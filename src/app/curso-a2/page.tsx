@@ -2,6 +2,7 @@ import { Suspense } from 'react';
 import { A1CourseSelector } from '@/components/course/preview/A1CourseSelector';
 import { UnifiedCourseProgressSidebar } from '@/components/course/UnifiedCourseProgressSidebar';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
+import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access';
 import { BookOpen, Clock, Award, FileText } from 'lucide-react';
 import Link from 'next/link';
 
@@ -9,6 +10,7 @@ export const dynamic = 'force-dynamic';
 
 async function A2PreviewContent() {
   let courseMetadata;
+  const hasFullAccess = await getViewerHasFullCourseAccess();
   try {
     courseMetadata = await premiumCourseServerService.getA2UnitsWithMetadata();
   } catch (err) {
@@ -44,11 +46,10 @@ async function A2PreviewContent() {
               </Link>
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 mb-4 tracking-tight">
-              Free English A2 Course
+              English A2 Course
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto font-medium">
-              Access all {courseMetadata.totalUnits} units of our A2 English course for free.
-              Each unit is designed to advance your English skills to the elementary level.
+              Start free with Unit 1. Unlock the remaining A2 units ({courseMetadata.totalUnits} total) with a subscription from €0.99/month.
             </p>
           </div>
 
@@ -112,7 +113,7 @@ async function A2PreviewContent() {
               <span className="shrink-0 text-sm font-semibold text-amber-700">Hacer test →</span>
             </Link>
 
-            <A1CourseSelector units={courseMetadata.units} courseId="ingles-a2" />
+            <A1CourseSelector units={courseMetadata.units} courseId="ingles-a2" hasFullAccess={hasFullAccess} />
           </div>
 
           <aside className="lg:col-span-4">

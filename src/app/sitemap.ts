@@ -259,9 +259,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       });
     });
 
+    // Freemium: indexar solo la unidad 1 (el resto requiere suscripción)
     units
       .map(resolveUnitSlug)
       .filter((slug): slug is string => Boolean(slug))
+      .filter((slug) => /^unit-?1$/i.test(slug) || slug === "1")
       .forEach((slug) => {
         urls.push({
           url: `${baseUrl}${coursePath}/${slug}`,

@@ -17,11 +17,11 @@ export function BlogCTAButtons({ location }: BlogCTAButtonsProps) {
     return (
       <div className="flex flex-wrap gap-3">
         <Link
-          href="/curso-a1"
-          onClick={() => trackCTAClick('Ver cursos gratis', `blog_cta_${location}`)}
+          href="/curso-a1/unit-1"
+          onClick={() => trackCTAClick('Empezar unidad 1 gratis', `blog_cta_${location}`)}
           className="inline-flex items-center justify-center rounded-xl bg-coral-600 px-5 py-2.5 text-sm font-bold text-white hover:bg-coral-700 transition-colors"
         >
-          Ver cursos gratis
+          Empezar unidad 1 gratis
         </Link>
         <Link
           href="/podcasts"
@@ -45,11 +45,11 @@ export function BlogCTAButtons({ location }: BlogCTAButtonsProps) {
   return (
     <div className="flex flex-col sm:flex-row gap-4">
       <Link
-        href="/curso-a1"
-        onClick={() => trackCTAClick('Ver cursos gratuitos', `blog_cta_${location}`)}
+        href="/curso-a1/unit-1"
+        onClick={() => trackCTAClick('Empezar unidad 1 gratis', `blog_cta_${location}`)}
         className="inline-flex items-center justify-center bg-coral-600 text-white px-8 py-4 rounded-xl font-bold hover:bg-coral-700 transition-all hover:scale-[1.02] active:scale-[0.98]"
       >
-        Ver cursos gratuitos
+        Empezar unidad 1 gratis
       </Link>
       <Link
         href="/podcasts"

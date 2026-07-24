@@ -1,6 +1,7 @@
 import { Suspense } from 'react';
 import { A1CourseSelector } from '@/components/course/preview/A1CourseSelector';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
+import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access';
 import { BookOpen, Clock, Award } from 'lucide-react';
 import Link from 'next/link';
 
@@ -8,6 +9,7 @@ export const dynamic = 'force-dynamic';
 
 async function C1PreviewContent() {
   let courseMetadata;
+  const hasFullAccess = await getViewerHasFullCourseAccess();
   try {
     courseMetadata = await premiumCourseServerService.getC1UnitsWithMetadata();
   } catch (err) {
@@ -36,7 +38,7 @@ async function C1PreviewContent() {
               Curso de Inglés C1
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto font-medium">
-              Domina el inglés avanzado con las {courseMetadata.totalUnits} unidades del nivel C1.
+              Empieza gratis con la unidad 1. El resto del curso C1 ({courseMetadata.totalUnits} unidades) se desbloquea desde 0,99 €/mes.
               Preparación para Cambridge C1 Advanced (CAE) y IELTS 7.0+.
             </p>
             <p className="text-sm text-slate-500 max-w-2xl mx-auto mt-4 leading-relaxed">
@@ -94,7 +96,7 @@ async function C1PreviewContent() {
           <span className="shrink-0 text-sm font-semibold text-amber-700">Hacer test →</span>
         </Link>
 
-        <A1CourseSelector units={courseMetadata.units} courseId="ingles-c1" />
+        <A1CourseSelector units={courseMetadata.units} courseId="ingles-c1" hasFullAccess={hasFullAccess} />
       </div>
     </div>
   );

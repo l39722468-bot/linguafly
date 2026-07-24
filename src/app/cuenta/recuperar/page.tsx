@@ -4,14 +4,22 @@
 // PÁGINA: SOLICITAR RECUPERACIÓN DE CONTRASEÑA
 // ============================================
 
-import { useState } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import Link from 'next/link';
+import { useSearchParams } from 'next/navigation';
 
-export default function ForgotPasswordPage() {
+function ForgotPasswordForm() {
+  const searchParams = useSearchParams();
   const [email, setEmail] = useState('');
   const [loading, setLoading] = useState(false);
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
+
+  useEffect(() => {
+    if (searchParams.get('error') === 'link_invalid') {
+      setError('El enlace de recuperación no es válido o ha caducado. Solicita uno nuevo.');
+    }
+  }, [searchParams]);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
@@ -94,7 +102,6 @@ export default function ForgotPasswordPage() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-cream-50 via-white to-coral-50 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-md w-full space-y-8 bg-white p-8 rounded-2xl shadow-xl">
-        {/* Header */}
         <div className="text-center">
           <div className="text-6xl mb-4">🔐</div>
           <h2 className="text-3xl font-bold text-gray-900">
@@ -105,14 +112,12 @@ export default function ForgotPasswordPage() {
           </p>
         </div>
 
-        {/* Error Message */}
         {error && (
           <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg text-sm">
             {error}
           </div>
         )}
 
-        {/* Form */}
         <form onSubmit={handleSubmit} className="space-y-6">
           <div>
             <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
@@ -120,49 +125,27 @@ export default function ForgotPasswordPage() {
             </label>
             <input
               id="email"
+              name="email"
               type="email"
+              autoComplete="email"
+              required
               value={email}
               onChange={(e) => setEmail(e.target.value)}
-              required
               className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-coral-500 focus:border-transparent"
               placeholder="tu@email.com"
               disabled={loading}
             />
-            <p className="mt-2 text-xs text-gray-500">
-              Ingresa el email que usaste para registrarte
-            </p>
           </div>
 
           <button
             type="submit"
-            disabled={loading}
+            disabled={loading || !email}
             className="w-full bg-coral-600 text-white py-3 px-4 rounded-lg hover:bg-coral-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed font-medium"
           >
-            {loading ? (
-              <span className="flex items-center justify-center gap-2">
-                <span className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
-                Enviando...
-              </span>
-            ) : (
-              'Enviar instrucciones'
-            )}
+            {loading ? 'Enviando…' : 'Enviar enlace de recuperación'}
           </button>
         </form>
 
-        {/* Info Box */}
-        <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
-          <h3 className="font-semibold text-gray-900 mb-2 text-sm">
-            📧 ¿Qué pasará después?
-          </h3>
-          <ol className="text-xs text-gray-600 space-y-1 list-decimal list-inside">
-            <li>Recibirás un email con un enlace de recuperación</li>
-            <li>Haz clic en el enlace (válido por 1 hora)</li>
-            <li>Ingresa tu nueva contraseña</li>
-            <li>¡Listo! Ya puedes iniciar sesión</li>
-          </ol>
-        </div>
-
-        {/* Back to Login */}
         <div className="text-center">
           <Link
             href="/cuenta/login"
@@ -171,17 +154,21 @@ export default function ForgotPasswordPage() {
             ← Volver al login
           </Link>
         </div>
-
-        {/* Help */}
-        <div className="text-center pt-4 border-t border-gray-200">
-          <p className="text-xs text-gray-500">
-            ¿Tienes problemas?{' '}
-            <a href="mailto:soporte@focus-on-english.com" className="text-coral-600 hover:text-coral-500">
-              Contacta a soporte
-            </a>
-          </p>
-        </div>
       </div>
     </div>
+  );
+}
+
+export default function ForgotPasswordPage() {
+  return (
+    <Suspense
+      fallback={
+        <div className="min-h-screen flex items-center justify-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-coral-600" />
+        </div>
+      }
+    >
+      <ForgotPasswordForm />
+    </Suspense>
   );
 }

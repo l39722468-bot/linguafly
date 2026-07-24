@@ -70,10 +70,22 @@ export function Navigation() {
             <Link href={navLinks.professionalCourses} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Cursos por sector
             </Link>
+            <Link
+              href="/cuenta/login"
+              className="ml-2 px-4 py-2 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-sm font-black text-white shadow-sm hover:shadow-md hover:scale-[1.02] transition-all"
+            >
+              Iniciar sesión
+            </Link>
           </div>
 
           {/* Mobile menu button */}
           <div className="flex items-center gap-2 md:hidden">
+            <Link
+              href="/cuenta/login"
+              className="px-3 py-1.5 rounded-lg bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-xs font-black text-white"
+            >
+              Entrar
+            </Link>
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               className="p-2 rounded-lg hover:bg-slate-100"
@@ -155,6 +167,13 @@ export function Navigation() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 Cursos por sector
+              </Link>
+              <Link
+                href="/cuenta/login"
+                className="mt-2 inline-flex items-center justify-center px-4 py-3 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-sm font-black text-white text-center"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Iniciar sesión
               </Link>
             </div>
           </div>

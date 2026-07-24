@@ -26,7 +26,7 @@ export const SUBSCRIPTION_PLANS: Record<string, SubscriptionPlan> = {
     interval: 'month',
     popular: true,
     features: [
-      'Acceso completo a los cursos (niveles A1 a C2)',
+      'Unidad 1 de cada curso gratis; acceso completo A1–C2 con la suscripción',
       'Material didáctico y ejercicios interactivos',
       'Seguimiento de progreso',
       'Cancela cuando quieras',

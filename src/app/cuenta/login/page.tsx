@@ -173,7 +173,7 @@ function SignInForm() {
 
                   <Link
                     href="/cuenta/recuperar"
-                    className="font-semibold text-coral-600 hover:text-coral-700 transition-colors"
+                    className="font-semibold text-coral-600 hover:text-coral-700 transition-colors underline underline-offset-2"
                   >
                     ¿Olvidaste tu contraseña?
                   </Link>
@@ -193,9 +193,21 @@ function SignInForm() {
                       Iniciando sesión...
                     </span>
                   ) : (
-                    'Acceder a mis Cursos'
+                    'Iniciar sesión'
                   )}
                 </button>
+
+                <div className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-center">
+                  <p className="text-sm text-amber-900 mb-2">
+                    ¿Primera vez o no recuerdas la contraseña?
+                  </p>
+                  <Link
+                    href="/cuenta/recuperar"
+                    className="inline-flex items-center justify-center w-full sm:w-auto px-4 py-2.5 rounded-lg border-2 border-coral-300 bg-white text-coral-700 font-bold text-sm hover:bg-coral-50 transition-colors"
+                  >
+                    Recuperar / crear contraseña
+                  </Link>
+                </div>
               </form>
             </>
           )}

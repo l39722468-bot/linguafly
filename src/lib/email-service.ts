@@ -5,15 +5,46 @@
 
 import { Resend } from 'resend';
 
-// Solo inicializar Resend si la API key está disponible
-const resend = process.env.RESEND_API_KEY 
+const BRAND_NAME = 'Linguafly';
+const DEFAULT_SITE_URL = 'https://linguafly.app';
+// Requiere dominio verificado en Resend (p. ej. updates.linguafly.app).
+const DEFAULT_FROM = 'Linguafly <hola@updates.linguafly.app>';
+
+const resend = process.env.RESEND_API_KEY
   ? new Resend(process.env.RESEND_API_KEY)
   : null;
 
 if (!process.env.RESEND_API_KEY) {
   console.error('❌ RESEND_API_KEY no encontrada en las variables de entorno');
 } else {
-  console.log('📡 Resend configurado con API Key (primeros 5 caracteres):', process.env.RESEND_API_KEY.substring(0, 5) + '...');
+  console.log(
+    '📡 Resend configurado con API Key (primeros 5 caracteres):',
+    process.env.RESEND_API_KEY.substring(0, 5) + '...'
+  );
+}
+
+function getPublicSiteUrl(): string {
+  const candidates = [
+    process.env.EMAIL_SITE_URL,
+    process.env.NEXT_PUBLIC_SITE_URL,
+    process.env.NEXTAUTH_URL,
+    DEFAULT_SITE_URL,
+  ];
+
+  for (const raw of candidates) {
+    if (!raw) continue;
+    const cleaned = raw.trim().replace(/\/$/, '');
+    if (!cleaned) continue;
+    // Evitar enlaces al dominio antiguo (provocan 404 / redirect rotos)
+    if (/focus-on-english\.com/i.test(cleaned)) continue;
+    if (/^https?:\/\//i.test(cleaned)) return cleaned;
+  }
+
+  return DEFAULT_SITE_URL;
+}
+
+function getFromAddress(): string {
+  return process.env.EMAIL_FROM || process.env.RESEND_FROM || DEFAULT_FROM;
 }
 
 /**
@@ -24,126 +55,38 @@ export async function sendPasswordResetEmail(
   resetToken: string,
   userName: string
 ): Promise<boolean> {
-  // Si Resend no está configurado, simular éxito en desarrollo
   if (!resend) {
     console.warn('Resend not configured, skipping email send');
     return process.env.NODE_ENV === 'development';
   }
 
   try {
-    const resetUrl = `${process.env.NEXTAUTH_URL}/cuenta/resetear?token=${resetToken}`;
+    const siteUrl = getPublicSiteUrl();
+    const resetUrl = `${siteUrl}/cuenta/resetear?token=${resetToken}`;
 
     const { data, error } = await resend.emails.send({
-      from: 'Focus English <hola@updates.focus-on-english.com>',
+      from: getFromAddress(),
       to: [email],
-      subject: 'Recupera tu contraseña - Focus English',
+      subject: `Recupera tu contraseña - ${BRAND_NAME}`,
       html: `
         <!DOCTYPE html>
         <html>
-          <head>
-            <meta charset="utf-8">
-            <style>
-              body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-                line-height: 1.6;
-                color: #333;
-                max-width: 600px;
-                margin: 0 auto;
-                padding: 20px;
-              }
-              .header {
-                background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-                color: white;
-                padding: 30px;
-                text-align: center;
-                border-radius: 10px 10px 0 0;
-              }
-              .content {
-                background: #f9fafb;
-                padding: 30px;
-                border: 1px solid #e5e7eb;
-                border-top: none;
-              }
-              .button {
-                display: inline-block;
-                background: #2563eb;
-                color: white;
-                padding: 12px 30px;
-                text-decoration: none;
-                border-radius: 6px;
-                font-weight: 600;
-                margin: 20px 0;
-              }
-              .footer {
-                background: #f3f4f6;
-                padding: 20px;
-                text-align: center;
-                font-size: 12px;
-                color: #6b7280;
-                border-radius: 0 0 10px 10px;
-                border: 1px solid #e5e7eb;
-                border-top: none;
-              }
-              .warning {
-                background: #fef3c7;
-                border-left: 4px solid #f59e0b;
-                padding: 15px;
-                margin: 20px 0;
-                border-radius: 4px;
-              }
-            </style>
-          </head>
-          <body>
-            <div class="header">
-              <h1 style="margin: 0; font-size: 28px;">🔐 Focus English</h1>
+          <head><meta charset="utf-8"></head>
+          <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px;">
+            <div style="background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 100%); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0;">
+              <h1 style="margin: 0; font-size: 28px;">${BRAND_NAME}</h1>
               <p style="margin: 10px 0 0 0; opacity: 0.9;">Recuperación de contraseña</p>
             </div>
-            
-            <div class="content">
+            <div style="background: #f9fafb; padding: 30px; border: 1px solid #e5e7eb; border-top: none;">
               <h2 style="color: #1f2937; margin-top: 0;">Hola ${userName},</h2>
-              
-              <p style="font-size: 16px; color: #4b5563;">
-                Hemos recibido una solicitud para restablecer tu contraseña de Focus English.
-              </p>
-              
-              <p style="font-size: 16px; color: #4b5563;">
-                Haz clic en el siguiente botón para crear una nueva contraseña:
-              </p>
-              
+              <p style="font-size: 16px; color: #4b5563;">Hemos recibido una solicitud para restablecer tu contraseña de ${BRAND_NAME}.</p>
               <div style="text-align: center; margin: 30px 0;">
-                <a href="${resetUrl}" class="button">
-                  Restablecer Contraseña
-                </a>
+                <a href="${resetUrl}" style="display: inline-block; background: #ff7e5f; color: white; padding: 12px 30px; text-decoration: none; border-radius: 6px; font-weight: 600;">Restablecer contraseña</a>
               </div>
-              
-              <p style="font-size: 14px; color: #6b7280;">
-                O copia y pega este enlace en tu navegador:
-              </p>
-              <p style="font-size: 12px; color: #2563eb; word-break: break-all; background: white; padding: 10px; border-radius: 4px;">
-                ${resetUrl}
-              </p>
-              
-              <div class="warning">
-                <strong>⚠️ Importante:</strong>
-                <ul style="margin: 10px 0; padding-left: 20px;">
-                  <li>Este enlace expirará en <strong>1 hora</strong></li>
-                  <li>Solo puedes usarlo una vez</li>
-                  <li>Si no solicitaste este cambio, ignora este email</li>
-                </ul>
-              </div>
-              
-              <p style="font-size: 14px; color: #6b7280; margin-top: 30px;">
-                ¿Tienes problemas? Contáctanos en <a href="mailto:soporte@focus-on-english.com" style="color: #2563eb;">soporte@focus-on-english.com</a>
-              </p>
+              <p style="font-size: 12px; color: #2563eb; word-break: break-all;">${resetUrl}</p>
             </div>
-            
-            <div class="footer">
-              <p style="margin: 0 0 10px 0;">
-                © ${new Date().getFullYear()} Focus English. Todos los derechos reservados.
-              </p>
-              <p style="margin: 0;">
-                Este email fue enviado a ${email}
-              </p>
+            <div style="background: #f3f4f6; padding: 20px; text-align: center; font-size: 12px; color: #6b7280; border-radius: 0 0 10px 10px; border: 1px solid #e5e7eb; border-top: none;">
+              © ${new Date().getFullYear()} ${BRAND_NAME}
             </div>
           </body>
         </html>
@@ -170,112 +113,36 @@ export async function sendPasswordChangedEmail(
   email: string,
   userName: string
 ): Promise<boolean> {
-  // Si Resend no está configurado, simular éxito en desarrollo
   if (!resend) {
     console.warn('Resend not configured, skipping email send');
     return process.env.NODE_ENV === 'development';
   }
 
   try {
+    const loginUrl = `${getPublicSiteUrl()}/cuenta/login`;
+
     const { data, error } = await resend.emails.send({
-      from: 'Focus English <hola@updates.focus-on-english.com>',
+      from: getFromAddress(),
       to: [email],
-      subject: '✅ Tu contraseña ha sido actualizada - Focus English',
+      subject: `Tu contraseña ha sido actualizada - ${BRAND_NAME}`,
       html: `
         <!DOCTYPE html>
         <html>
-          <head>
-            <meta charset="utf-8">
-            <style>
-              body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-                line-height: 1.6;
-                color: #333;
-                max-width: 600px;
-                margin: 0 auto;
-                padding: 20px;
-              }
-              .header {
-                background: linear-gradient(135deg, #10b981 0%, #059669 100%);
-                color: white;
-                padding: 30px;
-                text-align: center;
-                border-radius: 10px 10px 0 0;
-              }
-              .content {
-                background: #f9fafb;
-                padding: 30px;
-                border: 1px solid #e5e7eb;
-                border-top: none;
-              }
-              .alert {
-                background: #fee2e2;
-                border-left: 4px solid #ef4444;
-                padding: 15px;
-                margin: 20px 0;
-                border-radius: 4px;
-              }
-              .footer {
-                background: #f3f4f6;
-                padding: 20px;
-                text-align: center;
-                font-size: 12px;
-                color: #6b7280;
-                border-radius: 0 0 10px 10px;
-                border: 1px solid #e5e7eb;
-                border-top: none;
-              }
-            </style>
-          </head>
-          <body>
-            <div class="header">
-              <h1 style="margin: 0; font-size: 28px;">✅ Focus English</h1>
+          <head><meta charset="utf-8"></head>
+          <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px;">
+            <div style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white; padding: 30px; text-align: center; border-radius: 10px 10px 0 0;">
+              <h1 style="margin: 0; font-size: 28px;">${BRAND_NAME}</h1>
               <p style="margin: 10px 0 0 0; opacity: 0.9;">Contraseña actualizada</p>
             </div>
-            
-            <div class="content">
+            <div style="background: #f9fafb; padding: 30px; border: 1px solid #e5e7eb; border-top: none;">
               <h2 style="color: #1f2937; margin-top: 0;">Hola ${userName},</h2>
-              
-              <p style="font-size: 16px; color: #4b5563;">
-                Tu contraseña ha sido actualizada correctamente.
-              </p>
-              
-              <p style="font-size: 16px; color: #4b5563;">
-                Ya puedes iniciar sesión con tu nueva contraseña en:
-              </p>
-              
+              <p style="font-size: 16px; color: #4b5563;">Tu contraseña ha sido actualizada correctamente.</p>
               <p style="text-align: center; margin: 20px 0;">
-                <a href="${process.env.NEXTAUTH_URL}/cuenta/login" style="display: inline-block; background: #10b981; color: white; padding: 12px 30px; text-decoration: none; border-radius: 6px; font-weight: 600;">
-                  Iniciar Sesión
-                </a>
+                <a href="${loginUrl}" style="display: inline-block; background: #10b981; color: white; padding: 12px 30px; text-decoration: none; border-radius: 6px; font-weight: 600;">Iniciar sesión</a>
               </p>
-              
-              <div class="alert">
-                <strong>🔒 ¿No fuiste tú?</strong>
-                <p style="margin: 10px 0 0 0;">
-                  Si no realizaste este cambio, tu cuenta puede estar comprometida. 
-                  Contacta inmediatamente a nuestro equipo de soporte en 
-                  <a href="mailto:soporte@focus-on-english.com" style="color: #ef4444;">soporte@focus-on-english.com</a>
-                </p>
-              </div>
-              
-              <p style="font-size: 14px; color: #6b7280; margin-top: 30px;">
-                <strong>Consejos de seguridad:</strong>
-              </p>
-              <ul style="font-size: 14px; color: #6b7280;">
-                <li>No compartas tu contraseña con nadie</li>
-                <li>Usa una contraseña única y fuerte</li>
-                <li>Actualiza tu contraseña regularmente</li>
-              </ul>
             </div>
-            
-            <div class="footer">
-              <p style="margin: 0 0 10px 0;">
-                © ${new Date().getFullYear()} Focus English. Todos los derechos reservados.
-              </p>
-              <p style="margin: 0;">
-                Este email fue enviado a ${email}
-              </p>
+            <div style="background: #f3f4f6; padding: 20px; text-align: center; font-size: 12px; color: #6b7280; border-radius: 0 0 10px 10px; border: 1px solid #e5e7eb; border-top: none;">
+              © ${new Date().getFullYear()} ${BRAND_NAME}
             </div>
           </body>
         </html>
@@ -302,141 +169,114 @@ export async function sendWelcomeEmail({
   email,
   name,
   planName,
-  tempPassword
+  tempPassword,
 }: {
-  email: string,
-  name: string,
-  planName: string,
-  tempPassword?: string
+  email: string;
+  name: string;
+  planName: string;
+  tempPassword?: string;
 }): Promise<boolean> {
-  // Si Resend no está configurado, simular éxito en desarrollo
   if (!resend) {
     console.warn('Resend not configured, skipping welcome email');
     return process.env.NODE_ENV === 'development';
   }
 
   try {
-    const loginUrl = `${process.env.NEXTAUTH_URL || process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/cuenta/login`;
+    const siteUrl = getPublicSiteUrl();
+    const loginUrl = `${siteUrl}/cuenta/login`;
+    const recoverUrl = `${siteUrl}/cuenta/recuperar`;
+    const panelUrl = `${siteUrl}/mi-panel`;
+    const fromAddress = getFromAddress();
+
+    if (!tempPassword) {
+      console.warn(
+        '⚠️ sendWelcomeEmail: sin contraseña temporal; el alumno no podrá iniciar sesión con claves nuevas'
+      );
+    }
 
     const { data, error } = await resend.emails.send({
-      from: 'Focus English <hola@updates.focus-on-english.com>', // Usar subdominio verificado
+      from: fromAddress,
       to: [email],
-      subject: '🚀 ¡Bienvenido a Focus English! Tu acceso está listo',
+      subject: `Tu acceso a ${BRAND_NAME} está listo`,
       html: `
         <!DOCTYPE html>
         <html>
-          <head>
-            <meta charset="utf-8">
-            <style>
-              body {
-                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-                line-height: 1.6;
-                color: #333;
-                max-width: 600px;
-                margin: 0 auto;
-                padding: 20px;
-              }
-              .header {
-                background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 100%);
-                color: white;
-                padding: 40px 30px;
-                text-align: center;
-                border-radius: 10px 10px 0 0;
-              }
-              .content {
-                background: #ffffff;
-                padding: 30px;
-                border: 1px solid #e5e7eb;
-                border-top: none;
-              }
-              .button {
-                display: inline-block;
-                background: #ff7e5f !important;
-                color: white !important;
-                padding: 14px 35px;
-                text-decoration: none;
-                border-radius: 8px;
-                font-weight: 700;
-                margin: 25px 0;
-              }
-              .plan-box {
-                background: #fff7ed;
-                border: 2px solid #ffedd5;
-                padding: 20px;
-                border-radius: 12px;
-                margin: 20px 0;
-                text-align: center;
-              }
-              .password-box {
-                background: #f3f4f6;
-                border: 1px dashed #d1d5db;
-                padding: 15px;
-                border-radius: 8px;
-                margin: 20px 0;
-                text-align: center;
-              }
-              .footer {
-                background: #f9fafb;
-                padding: 20px;
-                text-align: center;
-                font-size: 12px;
-                color: #6b7280;
-                border-radius: 0 0 10px 10px;
-                border: 1px solid #e5e7eb;
-                border-top: none;
-              }
-            </style>
-          </head>
-          <body>
-            <div class="header">
-              <h1 style="margin: 0; font-size: 32px;">🎓 Focus English</h1>
-              <p style="margin: 10px 0 0 0; font-size: 18px; opacity: 0.9;">¡Tu viaje hacia la fluidez comienza hoy!</p>
+          <head><meta charset="utf-8"></head>
+          <body style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; line-height: 1.6; color: #333; max-width: 600px; margin: 0 auto; padding: 20px;">
+            <div style="background: linear-gradient(135deg, #ff7e5f 0%, #feb47b 100%); color: white; padding: 40px 30px; text-align: center; border-radius: 10px 10px 0 0;">
+              <h1 style="margin: 0; font-size: 32px;">${BRAND_NAME}</h1>
+              <p style="margin: 10px 0 0 0; font-size: 18px; opacity: 0.9;">Tu suscripción ya está activa</p>
             </div>
             
-            <div class="content">
+            <div style="background: #ffffff; padding: 30px; border: 1px solid #e5e7eb; border-top: none;">
               <h2 style="color: #1f2937; margin-top: 0;">¡Hola ${name}!</h2>
               
               <p style="font-size: 16px; color: #4b5563;">
-                ¡Es un placer tenerte con nosotros! Tu suscripción se ha completado correctamente y ya tienes acceso total a nuestra plataforma.
+                Tu pago se ha confirmado. Ya puedes entrar al <strong>panel del alumno</strong> y acceder al resto de unidades de los cursos A1–C2.
               </p>
               
-              <div class="plan-box">
-                <p style="margin: 0; color: #9a3412; font-size: 14px; font-weight: 600; text-transform: uppercase;">Plan Activo</p>
+              <div style="background: #fff7ed; border: 2px solid #ffedd5; padding: 20px; border-radius: 12px; margin: 20px 0; text-align: center;">
+                <p style="margin: 0; color: #9a3412; font-size: 14px; font-weight: 600; text-transform: uppercase;">Plan activo</p>
                 <h3 style="margin: 5px 0; color: #c2410c; font-size: 24px; font-weight: 800;">${planName}</h3>
               </div>
 
-              ${tempPassword ? `
-              <div class="password-box">
-                <p style="margin: 0; color: #4b5563; font-size: 14px;">Tus credenciales de acceso temporal:</p>
-                <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border: 1px solid #e5e7eb; text-align: left;">
-                  <p style="margin: 0; font-size: 14px; color: #6b7280;">Email:</p>
+              ${
+                tempPassword
+                  ? `
+              <div style="background: #f3f4f6; border: 1px dashed #d1d5db; padding: 15px; border-radius: 8px; margin: 20px 0;">
+                <p style="margin: 0; color: #4b5563; font-size: 14px; font-weight: 600; text-align: center;">Tus claves de acceso</p>
+                <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border: 1px solid #e5e7eb;">
+                  <p style="margin: 0; font-size: 14px; color: #6b7280;">Email</p>
                   <p style="margin: 0 0 10px 0; font-size: 16px; font-weight: 600; color: #1f2937;">${email}</p>
-                  <p style="margin: 0; font-size: 14px; color: #6b7280;">Contraseña:</p>
+                  <p style="margin: 0; font-size: 14px; color: #6b7280;">Contraseña temporal</p>
                   <p style="margin: 0; font-size: 18px; font-family: monospace; font-weight: bold; color: #ff7e5f;">${tempPassword}</p>
                 </div>
-                <p style="margin: 10px 0 0 0; color: #6b7280; font-size: 12px;">(Te recomendamos cambiarla en tu perfil una vez accedas)</p>
+                <p style="margin: 10px 0 0 0; color: #6b7280; font-size: 12px; text-align: center;">
+                  Entra con el botón «Iniciar sesión» de la web. Si no funciona, usa «¿Olvidaste tu contraseña?» o
+                  <a href="${recoverUrl}" style="color: #2563eb;"> recupera tu acceso aquí</a>.
+                </p>
               </div>
-              ` : `
-              <p style="font-size: 16px; color: #4b5563;">
-                Puedes acceder con tu cuenta habitual: <strong>${email}</strong>
-              </p>
-              `}
+              `
+                  : `
+              <div style="background: #fef3c7; border-left: 4px solid #f59e0b; padding: 15px; margin: 20px 0; border-radius: 4px;">
+                <p style="margin: 0 0 10px 0; font-size: 15px; color: #92400e;">
+                  Tu cuenta está activa con el email <strong>${email}</strong>.
+                  Para crear o recuperar tu contraseña:
+                </p>
+                <ol style="margin: 0; padding-left: 18px; font-size: 14px; color: #92400e; text-align: left;">
+                  <li>Entra en <a href="${loginUrl}" style="color: #c2410c; font-weight: 700;">Iniciar sesión</a></li>
+                  <li>Pulsa <strong>«¿Olvidaste tu contraseña?»</strong></li>
+                  <li>O ve directo a <a href="${recoverUrl}" style="color: #c2410c; font-weight: 700;">recuperar contraseña</a></li>
+                </ol>
+              </div>
+              `
+              }
+
+              <p style="font-size: 15px; color: #4b5563;">Con tu suscripción puedes:</p>
+              <ul style="font-size: 15px; color: #4b5563; padding-left: 20px;">
+                <li>Entrar al panel del alumno</li>
+                <li>Abrir todas las unidades de los cursos (no solo la unidad 1)</li>
+                <li>Continuar desde donde lo dejaste</li>
+              </ul>
               
-              <div style="text-align: center;">
-                <a href="${loginUrl}" class="button">
-                  Acceder a mi Dashboard
-                </a>
+              <div style="text-align: center; margin: 28px 0;">
+                <a href="${loginUrl}" style="display: inline-block; background: #ff7e5f; color: white !important; padding: 14px 28px; text-decoration: none; border-radius: 8px; font-weight: 700; margin: 6px;">Iniciar sesión</a>
+                <a href="${recoverUrl}" style="display: inline-block; background: #ffffff; color: #c2410c !important; padding: 14px 28px; text-decoration: none; border-radius: 8px; font-weight: 700; margin: 6px; border: 2px solid #fed7aa;">¿Olvidaste tu contraseña?</a>
               </div>
+              <p style="font-size: 12px; color: #6b7280; word-break: break-all; text-align: center;">
+                Si el botón no funciona, copia este enlace:<br/>
+                <a href="${loginUrl}" style="color: #2563eb;">${loginUrl}</a>
+              </p>
               
               <p style="font-size: 14px; color: #6b7280; margin-top: 30px;">
-                Si tienes cualquier duda, simplemente responde a este correo o escríbenos a soporte@focus-on-english.com.
+                Si tienes dudas, responde a este correo.
               </p>
             </div>
             
-            <div class="footer">
-              <p style="margin: 0 0 10px 0;">
-                © ${new Date().getFullYear()} Focus English. Todos los derechos reservados.
-              </p>
+            <div style="background: #f9fafb; padding: 20px; text-align: center; font-size: 12px; color: #6b7280; border-radius: 0 0 10px 10px; border: 1px solid #e5e7eb; border-top: none;">
+              <p style="margin: 0 0 10px 0;">© ${new Date().getFullYear()} ${BRAND_NAME}. Todos los derechos reservados.</p>
+              <p style="margin: 0;">Este email se envió a ${email}</p>
+              <p style="margin: 8px 0 0 0;"><a href="${panelUrl}" style="color: #6b7280;">${panelUrl}</a></p>
             </div>
           </body>
         </html>
@@ -448,7 +288,7 @@ export async function sendWelcomeEmail({
       return false;
     }
 
-    console.log('✅ Email de bienvenida enviado con éxito:', data?.id);
+    console.log('✅ Email de bienvenida enviado con éxito:', data?.id, '| siteUrl:', siteUrl);
     return true;
   } catch (error) {
     console.error('❌ Error en sendWelcomeEmail:', error);

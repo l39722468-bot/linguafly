@@ -1,11 +1,12 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createServerClient } from '@supabase/ssr';
 import { cookies } from 'next/headers';
+import { syncPaidEntitlementFromStripe } from '@/lib/stripe/provision-subscriber';
 
 export async function POST(request: NextRequest) {
   try {
     const formData = await request.formData();
-    const email = formData.get('email') as string;
+    const email = (formData.get('email') as string)?.trim() || '';
     const password = formData.get('password') as string;
     // Student login should always land on "Mi Panel".
     const callbackUrl = '/mi-panel';
@@ -58,30 +59,45 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Asegurar perfil existe
+    // Sincronizar pago Stripe → user_profiles.subscription_status = active
+    // (si no, las unidades 2+ siguen bloqueadas aunque el login funcione)
     try {
-      const { data: profile } = await supabase
-        .from('user_profiles')
-        .select('subscription_status')
-        .eq('user_id', data.user.id)
-        .single();
+      const sync = await syncPaidEntitlementFromStripe({
+        email: data.user.email || email,
+        userId: data.user.id,
+        name:
+          data.user.user_metadata?.full_name ||
+          data.user.user_metadata?.name ||
+          '',
+      });
 
-      if (!profile) {
-        await supabase.from('user_profiles').insert({
-          user_id: data.user.id,
-          email: data.user.email,
-          name: data.user.user_metadata?.full_name || data.user.user_metadata?.name || '',
-          subscription_status: 'inactive',
-          subscription_plan: 'free',
-        });
+      if (!sync.synced) {
+        // Si no hay pago Stripe, asegurar que exista un perfil mínimo
+        const { data: profile } = await supabase
+          .from('user_profiles')
+          .select('subscription_status')
+          .eq('user_id', data.user.id)
+          .maybeSingle();
+
+        if (!profile) {
+          await supabase.from('user_profiles').insert({
+            user_id: data.user.id,
+            email: data.user.email,
+            name:
+              data.user.user_metadata?.full_name ||
+              data.user.user_metadata?.name ||
+              '',
+            subscription_status: 'inactive',
+            subscription_plan: 'free',
+          });
+        }
       }
-    } catch {
-      // Continuar
+    } catch (syncErr) {
+      console.error('[auth/login] sync subscription:', syncErr);
     }
 
     const url = new URL(callbackUrl, request.url);
     const response = NextResponse.redirect(url, 303);
-    // Asegurar que las cookies de sesión se envían en el redirect (fix: contenido no cargaba)
     cookiesToSet.forEach(({ name, value, options }) => {
       response.cookies.set(name, value, options ?? {});
     });

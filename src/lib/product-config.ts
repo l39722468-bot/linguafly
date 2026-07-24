@@ -1,7 +1,7 @@
 /**
- * Estrategia de producto: blog + cursos gratuitos públicos.
+ * Estrategia de producto: blog + freemium de cursos (unidad 1 gratis, resto con suscripción).
  *
- * Variables de entorno (legacy, ya no bloquean rutas de curso):
+ * Variables de entorno (legacy):
  * - NEXT_PUBLIC_BLOG_ONLY_MODE
  * - NEXT_PUBLIC_COURSE_PILOT_ENABLED
  */
@@ -50,7 +50,7 @@ export function isNonPilotCourseRoute(_pathname: string): boolean {
 
 /**
  * Rutas de cuenta/panel que redirigen al blog en modo editorial puro.
- * Los cursos son siempre públicos.
+ * Las landings y la unidad 1 de cada curso siguen siendo públicas.
  */
 export function getProductRouteRedirect(pathname: string): string | null {
   if (isPublicCoursePath(pathname)) return null;
@@ -59,9 +59,9 @@ export function getProductRouteRedirect(pathname: string): string | null {
 }
 
 export const COURSE_FUNNEL_CTA = {
-  label: 'Cursos de inglés gratis',
-  href: '/curso-a1',
-  description: 'Ruta estructurada por niveles MCER, desde A1 hasta C2',
+  label: 'Empieza gratis la unidad 1',
+  href: '/curso-a1/unit-1',
+  description: 'Unidad 1 gratis en cada nivel · resto desde 0,99 €/mes',
 } as const;
 
 export const TEST_FUNNEL_CTA = {

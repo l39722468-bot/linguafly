@@ -1,7 +1,9 @@
-// Price ID de Stripe para la suscripción mensual única
+// Price ID de Stripe para la suscripción mensual única (0,99 €/mes).
+// Actual: price_1Twf4TB3QrXJzLjOKBDJuXiE — override con STRIPE_PRICE_BASIC_MONTHLY.
 
 export const STRIPE_PRICE_IDS: Record<string, string> = {
-  'basic-monthly': process.env.STRIPE_PRICE_BASIC_MONTHLY || '',
+  'basic-monthly':
+    process.env.STRIPE_PRICE_BASIC_MONTHLY || 'price_1Twf4TB3QrXJzLjOKBDJuXiE',
 };
 
 /**
