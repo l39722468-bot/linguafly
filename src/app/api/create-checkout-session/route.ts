@@ -74,9 +74,10 @@ export async function POST(request: NextRequest) {
           },
         ];
 
-    // Crear sesión de checkout en Stripe para suscripción
+    // Crear sesión de checkout en Stripe para suscripción.
+    // No pasar payment_method_types: Managed Payments (activo por defecto en la cuenta)
+    // lo gestiona y rechaza ese parámetro.
     const session = await stripe.checkout.sessions.create({
-      payment_method_types: ['card'],
       line_items: lineItems,
       mode: 'subscription',
       success_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/success?session_id={CHECKOUT_SESSION_ID}&next=/onboarding`,
@@ -91,14 +92,8 @@ export async function POST(request: NextRequest) {
         email,
         currentLevel: (currentLevel || '').toUpperCase(),
       },
-      // Configurar el formulario de billing
       billing_address_collection: 'required',
-      // Permitir códigos promocionales
       allow_promotion_codes: true,
-      // Configurar período de prueba si es necesario (opcional)
-      // subscription_data: {
-      //   trial_period_days: 7,
-      // },
       subscription_data: {
         metadata: {
           planId,
