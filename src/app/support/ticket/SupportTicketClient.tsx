@@ -12,6 +12,23 @@ const CATEGORIES = [
 
 type CategoryId = (typeof CATEGORIES)[number]["id"];
 
+type TicketRow = {
+  id: string;
+  subject: string;
+  message?: string;
+  status: string;
+  created_at: string;
+  category?: string;
+  admin_reply?: string | null;
+  replied_at?: string | null;
+};
+
+const STATUS_LABEL: Record<string, string> = {
+  open: "Abierto",
+  answered: "Respondido",
+  closed: "Cerrado",
+};
+
 export default function SupportTicketClient() {
   const [category, setCategory] = useState<CategoryId>("cursos");
   const [message, setMessage] = useState("");
@@ -20,30 +37,38 @@ export default function SupportTicketClient() {
   const [submitting, setSubmitting] = useState(false);
   const [ticketId, setTicketId] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
-  const [myTickets, setMyTickets] = useState<
-    Array<{ id: string; subject: string; status: string; created_at: string }>
-  >([]);
+  const [myTickets, setMyTickets] = useState<TicketRow[]>([]);
+  const [ticketsLoaded, setTicketsLoaded] = useState(false);
+
+  async function loadMyTickets() {
+    try {
+      const res = await fetch("/api/support/ticket");
+      if (res.status === 401) {
+        setIsLoggedIn(false);
+        setMyTickets([]);
+        setTicketsLoaded(true);
+        return;
+      }
+      if (!res.ok) {
+        setIsLoggedIn(false);
+        setMyTickets([]);
+        setTicketsLoaded(true);
+        return;
+      }
+      setIsLoggedIn(true);
+      const data = await res.json();
+      const rows = Array.isArray(data.tickets) ? (data.tickets as TicketRow[]) : [];
+      setMyTickets(rows.filter((t) => t?.id && t?.created_at));
+    } catch {
+      setIsLoggedIn(false);
+      setMyTickets([]);
+    } finally {
+      setTicketsLoaded(true);
+    }
+  }
 
   useEffect(() => {
-    async function checkSession() {
-      try {
-        const res = await fetch("/api/support/ticket");
-        if (res.status === 401) {
-          setIsLoggedIn(false);
-          return;
-        }
-        if (res.ok) {
-          setIsLoggedIn(true);
-          const data = await res.json();
-          setMyTickets(data.tickets ?? []);
-        } else {
-          setIsLoggedIn(false);
-        }
-      } catch {
-        setIsLoggedIn(false);
-      }
-    }
-    checkSession();
+    loadMyTickets();
   }, []);
 
   async function submitTicket() {
@@ -84,11 +109,7 @@ export default function SupportTicketClient() {
       setTicketId(data?.ticketId ?? null);
       setMessage("");
       if (isLoggedIn) {
-        const listRes = await fetch("/api/support/ticket");
-        if (listRes.ok) {
-          const listData = await listRes.json();
-          setMyTickets(listData.tickets ?? []);
-        }
+        await loadMyTickets();
       }
     } catch {
       setError("Error al enviar el ticket.");
@@ -176,24 +197,41 @@ export default function SupportTicketClient() {
         </button>
       </div>
 
-      {isLoggedIn && myTickets.length > 0 && (
+      {isLoggedIn && ticketsLoaded && myTickets.length > 0 && (
         <div className="mt-8">
           <h2 className="text-base font-black text-slate-900">Tus consultas</h2>
+          <p className="mt-1 text-xs text-slate-500">Solo tickets enviados desde tu cuenta.</p>
           <div className="mt-3 space-y-2">
-            {myTickets.map((t) => (
-              <div
-                key={t.id}
-                className="rounded-xl border border-slate-200 bg-white px-4 py-3 flex items-center justify-between gap-3"
-              >
-                <div>
-                  <div className="font-semibold text-slate-800">{t.subject}</div>
-                  <div className="text-xs text-slate-500">
-                    {new Date(t.created_at).toLocaleString("es-ES")}
+            {myTickets.map((t) => {
+              const preview = (t.message || t.subject || "").trim();
+              const statusLabel = STATUS_LABEL[t.status] || t.status;
+              return (
+                <div key={t.id} className="rounded-xl border border-slate-200 bg-white px-4 py-3">
+                  <div className="flex items-start justify-between gap-3">
+                    <div className="min-w-0">
+                      <div className="text-xs font-bold uppercase tracking-wide text-slate-500">
+                        {t.subject || t.category || "Consulta"}
+                      </div>
+                      <div className="mt-1 text-sm font-semibold text-slate-800 whitespace-pre-wrap break-words">
+                        {preview.length > 220 ? `${preview.slice(0, 220)}…` : preview}
+                      </div>
+                      <div className="mt-1 text-xs text-slate-500">
+                        {new Date(t.created_at).toLocaleString("es-ES")}
+                      </div>
+                      {t.admin_reply && (
+                        <div className="mt-2 rounded-lg bg-slate-50 border border-slate-100 px-3 py-2 text-xs text-slate-700">
+                          <span className="font-bold">Respuesta: </span>
+                          {t.admin_reply}
+                        </div>
+                      )}
+                    </div>
+                    <span className="shrink-0 text-xs font-bold uppercase text-slate-600">
+                      {statusLabel}
+                    </span>
                   </div>
                 </div>
-                <span className="text-xs font-bold uppercase text-slate-600">{t.status}</span>
-              </div>
-            ))}
+              );
+            })}
           </div>
         </div>
       )}

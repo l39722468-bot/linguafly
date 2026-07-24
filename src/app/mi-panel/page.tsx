@@ -242,7 +242,7 @@ export default async function MiPanelPage({
             </section>
           )}
 
-          <section className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+          <section className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-5 gap-4">
             <Link href={hasPlacementCompleted ? (recommendedOfficialCourses[0]?.href || "/curso-a1/outline") : "/test-nivel?source=panel&next=/mi-panel"} className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
               <div className="text-lg font-black text-slate-900">Mis cursos</div>
               <div className="text-sm text-slate-600 mt-1">
@@ -250,6 +250,10 @@ export default async function MiPanelPage({
                   ? 'Entrar al contenido y continuar clases.'
                   : 'Completa el test para desbloquear cursos por nivel.'}
               </div>
+            </Link>
+            <Link href="/mi-panel/cuenta" className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
+              <div className="text-lg font-black text-slate-900">Configuración</div>
+              <div className="text-sm text-slate-600 mt-1">Datos, facturación y cancelar suscripción.</div>
             </Link>
             <Link href="/support/ticket" className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
               <div className="text-lg font-black text-slate-900">Soporte y tickets</div>
@@ -469,16 +473,16 @@ export default async function MiPanelPage({
                 </p>
               </div>
               <Link
-                href="/planes"
+                href="/mi-panel/cuenta"
                 className="inline-flex mt-4 px-4 py-2 rounded-lg bg-slate-900 text-white text-sm font-semibold hover:bg-slate-800 transition"
               >
-                Gestionar plan
+                Configuración de cuenta
               </Link>
               <Link
-                href="/api/stripe/customer-portal"
+                href="/planes"
                 className="inline-flex mt-2 px-4 py-2 rounded-lg border border-slate-300 text-slate-700 text-sm font-semibold hover:bg-slate-100 transition"
               >
-                Gestionar en Stripe
+                Ver planes
               </Link>
             </div>
 

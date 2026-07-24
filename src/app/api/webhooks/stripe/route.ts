@@ -108,6 +108,83 @@ async function provisionFromSubscription(subscription: Stripe.Subscription) {
   );
 }
 
+async function markSubscriptionCancelled(subscription: Stripe.Subscription) {
+  if (!stripe) return;
+
+  const { supabaseAdmin } = await import('@/lib/supabase/client');
+  if (!supabaseAdmin) {
+    console.error('❌ supabaseAdmin no disponible para cancelación');
+    return;
+  }
+
+  const customerId =
+    typeof subscription.customer === 'string'
+      ? subscription.customer
+      : subscription.customer?.id;
+  if (!customerId) return;
+
+  const customer = await stripe.customers.retrieve(customerId);
+  if (customer.deleted || !('email' in customer) || !customer.email) {
+    console.error('❌ Cancelación sin email de customer:', subscription.id);
+    return;
+  }
+
+  const email = customer.email.trim().toLowerCase();
+  const nowIso = new Date().toISOString();
+  const ended =
+    subscription.status === 'canceled' ||
+    subscription.status === 'unpaid' ||
+    subscription.status === 'incomplete_expired';
+
+  // Si solo programó cancelación al final del periodo, mantiene acceso (active)
+  const payload: Record<string, unknown> = {
+    subscription_status: ended ? 'cancelled' : 'active',
+    updated_at: nowIso,
+  };
+  if (ended) {
+    payload.subscription_end_date = nowIso;
+  }
+
+  const { data: byEmail } = await supabaseAdmin
+    .from('user_profiles')
+    .select('id,user_id,email')
+    .ilike('email', email)
+    .limit(1)
+    .maybeSingle();
+
+  if (!byEmail) {
+    console.warn('⚠️ No profile for cancelled subscription email:', email);
+    return;
+  }
+
+  const update = byEmail.user_id
+    ? await supabaseAdmin.from('user_profiles').update(payload).eq('user_id', byEmail.user_id)
+    : await supabaseAdmin.from('user_profiles').update(payload).eq('id', byEmail.id);
+
+  if (update.error) {
+    console.error('❌ Error marcando cancelación:', update.error.message);
+  } else {
+    console.log('✅ Suscripción actualizada en perfil', {
+      email,
+      status: payload.subscription_status,
+      cancelAtPeriodEnd: subscription.cancel_at_period_end,
+      subscriptionId: subscription.id,
+    });
+  }
+
+  try {
+    await syncHubSpotContact({
+      email,
+      properties: {
+        subscription_status: String(payload.subscription_status),
+        lifecyclestage: 'customer',
+      },
+    });
+  } catch (e) {
+    console.warn('HubSpot cancel sync skipped', e);
+  }
+}
+
 export async function POST(request: NextRequest) {
   console.log('🚀 Webhook POST request received at /api/webhooks/stripe');
 
@@ -142,7 +219,20 @@ export async function POST(request: NextRequest) {
       event.type === 'customer.subscription.created' ||
       event.type === 'customer.subscription.updated'
     ) {
-      await provisionFromSubscription(event.data.object as Stripe.Subscription);
+      const subscription = event.data.object as Stripe.Subscription;
+      if (
+        subscription.status === 'canceled' ||
+        subscription.status === 'unpaid' ||
+        subscription.cancel_at_period_end
+      ) {
+        await markSubscriptionCancelled(subscription);
+      } else {
+        await provisionFromSubscription(subscription);
+      }
+    }
+
+    if (event.type === 'customer.subscription.deleted') {
+      await markSubscriptionCancelled(event.data.object as Stripe.Subscription);
     }
 
     return NextResponse.json({ received: true });
