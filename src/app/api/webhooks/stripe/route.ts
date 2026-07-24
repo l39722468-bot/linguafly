@@ -15,6 +15,15 @@ const stripe = process.env.STRIPE_SECRET_KEY
     })
   : null;
 
+/** Valores permitidos por el CHECK de user_profiles.subscription_plan */
+function mapSubscriptionPlanToAllowedValue(input: string): 'free' | 'basic' | 'premium' {
+  const v = (input ?? '').trim().toLowerCase();
+  if (!v || v === 'free') return 'free';
+  if (v.startsWith('basic')) return 'basic'; // basic-monthly → basic
+  if (v.startsWith('premium')) return 'premium';
+  return 'premium';
+}
+
 async function findAuthUserIdByEmail(email: string): Promise<string | undefined> {
   if (!supabaseAdmin) return undefined;
 
@@ -205,25 +214,48 @@ export async function POST(request: NextRequest) {
 
       if (userId && supabaseAdmin) {
         console.log('🔄 Updating user data for:', userId);
-        const upserts = await Promise.allSettled([
-          supabaseAdmin.from('users').upsert({
-            id: userId,
+        const languageLevel = (session.metadata?.currentLevel || 'A1').toUpperCase();
+        const dbPlan = mapSubscriptionPlanToAllowedValue(planId);
+        const nowIso = new Date().toISOString();
+
+        // Importante: public.users exige password_hash NOT NULL.
+        // user_profiles.subscription_plan solo admite free|basic|premium|enterprise
+        // (NO "basic-monthly").
+        const usersRes = await supabaseAdmin.from('users').upsert({
+          id: userId,
+          email: customerEmail,
+          name: displayName,
+          password_hash: 'managed-by-supabase-auth',
+          email_verified: nowIso,
+          language_level: languageLevel,
+          image: null,
+          updated_at: nowIso,
+        });
+        if (usersRes.error) {
+          console.error('❌ users upsert error:', usersRes.error.message);
+        } else {
+          console.log('✅ users row saved');
+        }
+
+        const profileRes = await supabaseAdmin.from('user_profiles').upsert(
+          {
+            user_id: userId,
             email: customerEmail,
             name: displayName,
-            language_level: session.metadata?.currentLevel?.toUpperCase() || 'A1',
-            updated_at: new Date().toISOString(),
-          }),
-          supabaseAdmin.from('user_profiles').upsert(
-            {
-              user_id: userId,
-              email: customerEmail,
-              name: displayName,
-              subscription_status: 'active',
-              subscription_plan: planId,
-              subscription_start_date: new Date().toISOString(),
-            },
-            { onConflict: 'user_id' }
-          ),
+            role: 'user',
+            subscription_status: 'active',
+            subscription_plan: dbPlan,
+            subscription_start_date: nowIso,
+          },
+          { onConflict: 'user_id' }
+        );
+        if (profileRes.error) {
+          console.error('❌ user_profiles upsert error:', profileRes.error.message);
+        } else {
+          console.log('✅ user_profiles row saved', { dbPlan });
+        }
+
+        const extras = await Promise.allSettled([
           supabaseAdmin.from('user_stats').upsert({ user_id: userId, level: 1 }),
           supabaseAdmin
             .from('user_xp')
@@ -232,14 +264,17 @@ export async function POST(request: NextRequest) {
             .from('user_streaks')
             .upsert({ user_id: userId, current_streak: 0, longest_streak: 0 }),
         ]);
-
-        upserts.forEach((result, index) => {
+        extras.forEach((result, index) => {
           if (result.status === 'rejected') {
-            console.error(`❌ Upsert #${index} rejected:`, result.reason);
+            console.error(`❌ Extra upsert #${index} rejected:`, result.reason);
           } else if (result.value?.error) {
-            console.error(`❌ Upsert #${index} error:`, result.value.error.message);
+            console.error(`❌ Extra upsert #${index} error:`, result.value.error.message);
           }
         });
+      } else if (!userId) {
+        console.error(
+          '❌ No userId tras el pago: no se pudo crear/encontrar usuario en Supabase Auth. Revisa SUPABASE_SERVICE_ROLE_KEY.'
+        );
       }
 
       // Siempre enviar email; incluir contraseña solo si quedó aplicada en Auth
