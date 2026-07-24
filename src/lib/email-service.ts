@@ -7,7 +7,8 @@ import { Resend } from 'resend';
 
 const BRAND_NAME = 'Linguafly';
 const DEFAULT_SITE_URL = 'https://linguafly.app';
-const DEFAULT_FROM = 'Linguafly <hola@updates.focus-on-english.com>';
+// Requiere dominio verificado en Resend (p. ej. updates.linguafly.app).
+const DEFAULT_FROM = 'Linguafly <hola@updates.linguafly.app>';
 
 const resend = process.env.RESEND_API_KEY
   ? new Resend(process.env.RESEND_API_KEY)
