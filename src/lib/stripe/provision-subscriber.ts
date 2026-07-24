@@ -78,16 +78,21 @@ async function ensureUserWithPassword(
   password: string,
   firstName: string,
   lastName: string
-): Promise<{ userId?: string; passwordReady: boolean; created: boolean }> {
+): Promise<{ userId?: string; passwordReady: boolean; created: boolean; authError?: string }> {
   if (!supabaseAdmin) {
     console.error('❌ SUPABASE_SERVICE_ROLE_KEY no configurada (supabaseAdmin=null)');
-    return { passwordReady: false, created: false };
+    return {
+      passwordReady: false,
+      created: false,
+      authError: 'SUPABASE_SERVICE_ROLE_KEY ausente (supabaseAdmin=null)',
+    };
   }
 
   const displayName = `${firstName} ${lastName}`.trim() || 'Estudiante';
+  const normalizedEmail = email.toLowerCase().trim();
 
   const { data: authData, error: authError } = await supabaseAdmin.auth.admin.createUser({
-    email,
+    email: normalizedEmail,
     password,
     email_confirm: true,
     user_metadata: {
@@ -101,7 +106,8 @@ async function ensureUserWithPassword(
     return { userId: authData.user.id, passwordReady: true, created: true };
   }
 
-  const msg = (authError?.message || '').toLowerCase();
+  const errMsg = authError?.message || 'createUser failed';
+  const msg = errMsg.toLowerCase();
   const alreadyExists =
     msg.includes('already') ||
     msg.includes('registered') ||
@@ -109,15 +115,30 @@ async function ensureUserWithPassword(
     authError?.status === 422;
 
   if (!alreadyExists) {
-    console.error('❌ Auth createUser error:', authError?.message, authError);
-    return { passwordReady: false, created: false };
+    console.error('❌ Auth createUser error:', errMsg, authError);
+
+    // Error típico: trigger/constraint en public.users (password_hash NOT NULL, name NOT NULL…)
+    if (msg.includes('database error') || msg.includes('password_hash') || msg.includes('null value')) {
+      return {
+        passwordReady: false,
+        created: false,
+        authError:
+          `${errMsg}. Suele ser un trigger/constraint en public.users. Ejecuta en Supabase SQL: ` +
+          `ALTER TABLE public.users ALTER COLUMN password_hash SET DEFAULT 'managed-by-supabase-auth'; ` +
+          `ALTER TABLE public.users ALTER COLUMN name SET DEFAULT '';`,
+      };
+    }
+
+    return { passwordReady: false, created: false, authError: errMsg };
   }
 
   console.log('ℹ️ Usuario ya existía; buscando ID y actualizando contraseña...');
-  const userId = await findAuthUserIdByEmail(email);
+  const userId = await findAuthUserIdByEmail(normalizedEmail);
   if (!userId) {
-    console.error('❌ No se encontró el usuario existente por email:', email);
-    return { passwordReady: false, created: false };
+    const notFound =
+      'createUser dice que el email ya existe, pero no aparece en Auth/admin ni en tablas. Revisa el proyecto Supabase.';
+    console.error('❌', notFound, normalizedEmail);
+    return { passwordReady: false, created: false, authError: notFound };
   }
 
   const { error: updErr } = await supabaseAdmin.auth.admin.updateUserById(userId, {
@@ -127,7 +148,7 @@ async function ensureUserWithPassword(
 
   if (updErr) {
     console.error('❌ Error actualizando contraseña:', updErr.message);
-    return { userId, passwordReady: false, created: false };
+    return { userId, passwordReady: false, created: false, authError: updErr.message };
   }
 
   return { userId, passwordReady: true, created: false };
@@ -232,12 +253,14 @@ export async function provisionSubscriberFromPayment(
   let userId: string | undefined;
   let passwordReady = false;
   let created = false;
+  let authError: string | undefined;
 
   try {
     const ensured = await ensureUserWithPassword(email, generatedPassword, firstName, lastName);
     userId = ensured.userId;
     passwordReady = ensured.passwordReady;
     created = ensured.created;
+    authError = ensured.authError;
   } catch (err: unknown) {
     const message = err instanceof Error ? err.message : String(err);
     console.error('❌ ensureUserWithPassword error:', message);
@@ -257,7 +280,8 @@ export async function provisionSubscriberFromPayment(
       created: false,
       mailSent: false,
       error:
-        'No se pudo crear/encontrar usuario en Supabase Auth. Revisa que SUPABASE_SERVICE_ROLE_KEY sea del mismo proyecto que NEXT_PUBLIC_SUPABASE_URL.',
+        authError ||
+        'No se pudo crear/encontrar usuario en Supabase Auth. Revisa SUPABASE_SERVICE_ROLE_KEY y el proyecto nprqtjljoekoirlrjxlh.',
     };
   }
 
