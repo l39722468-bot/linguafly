@@ -316,12 +316,22 @@ export async function sendWelcomeEmail({
   }
 
   try {
-    const loginUrl = `${process.env.NEXTAUTH_URL || process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/cuenta/login`;
+    const siteUrl = (
+      process.env.NEXT_PUBLIC_SITE_URL ||
+      process.env.NEXTAUTH_URL ||
+      'https://linguafly.app'
+    ).replace(/\/$/, '');
+    const loginUrl = `${siteUrl}/cuenta/login`;
+    const panelUrl = `${siteUrl}/mi-panel`;
+    const fromAddress =
+      process.env.EMAIL_FROM ||
+      process.env.RESEND_FROM ||
+      'Focus English <hola@updates.focus-on-english.com>';
 
     const { data, error } = await resend.emails.send({
-      from: 'Focus English <hola@updates.focus-on-english.com>', // Usar subdominio verificado
+      from: fromAddress,
       to: [email],
-      subject: '🚀 ¡Bienvenido a Focus English! Tu acceso está listo',
+      subject: 'Tu acceso a Focus English está listo',
       html: `
         <!DOCTYPE html>
         <html>
@@ -357,7 +367,17 @@ export async function sendWelcomeEmail({
                 text-decoration: none;
                 border-radius: 8px;
                 font-weight: 700;
-                margin: 25px 0;
+                margin: 10px 8px;
+              }
+              .button-secondary {
+                display: inline-block;
+                background: #1f2937 !important;
+                color: white !important;
+                padding: 14px 35px;
+                text-decoration: none;
+                border-radius: 8px;
+                font-weight: 700;
+                margin: 10px 8px;
               }
               .plan-box {
                 background: #fff7ed;
@@ -389,47 +409,55 @@ export async function sendWelcomeEmail({
           </head>
           <body>
             <div class="header">
-              <h1 style="margin: 0; font-size: 32px;">🎓 Focus English</h1>
-              <p style="margin: 10px 0 0 0; font-size: 18px; opacity: 0.9;">¡Tu viaje hacia la fluidez comienza hoy!</p>
+              <h1 style="margin: 0; font-size: 32px;">Focus English</h1>
+              <p style="margin: 10px 0 0 0; font-size: 18px; opacity: 0.9;">Tu suscripción ya está activa</p>
             </div>
             
             <div class="content">
               <h2 style="color: #1f2937; margin-top: 0;">¡Hola ${name}!</h2>
               
               <p style="font-size: 16px; color: #4b5563;">
-                ¡Es un placer tenerte con nosotros! Tu suscripción se ha completado correctamente y ya tienes acceso total a nuestra plataforma.
+                Tu pago se ha confirmado. Ya puedes entrar al <strong>panel del alumno</strong> y desbloquear el resto de unidades de los cursos A1–C2.
               </p>
               
               <div class="plan-box">
-                <p style="margin: 0; color: #9a3412; font-size: 14px; font-weight: 600; text-transform: uppercase;">Plan Activo</p>
+                <p style="margin: 0; color: #9a3412; font-size: 14px; font-weight: 600; text-transform: uppercase;">Plan activo</p>
                 <h3 style="margin: 5px 0; color: #c2410c; font-size: 24px; font-weight: 800;">${planName}</h3>
               </div>
 
               ${tempPassword ? `
               <div class="password-box">
-                <p style="margin: 0; color: #4b5563; font-size: 14px;">Tus credenciales de acceso temporal:</p>
+                <p style="margin: 0; color: #4b5563; font-size: 14px; font-weight: 600;">Tus claves de acceso</p>
                 <div style="background: white; padding: 15px; border-radius: 6px; margin: 10px 0; border: 1px solid #e5e7eb; text-align: left;">
-                  <p style="margin: 0; font-size: 14px; color: #6b7280;">Email:</p>
+                  <p style="margin: 0; font-size: 14px; color: #6b7280;">Email</p>
                   <p style="margin: 0 0 10px 0; font-size: 16px; font-weight: 600; color: #1f2937;">${email}</p>
-                  <p style="margin: 0; font-size: 14px; color: #6b7280;">Contraseña:</p>
+                  <p style="margin: 0; font-size: 14px; color: #6b7280;">Contraseña temporal</p>
                   <p style="margin: 0; font-size: 18px; font-family: monospace; font-weight: bold; color: #ff7e5f;">${tempPassword}</p>
                 </div>
-                <p style="margin: 10px 0 0 0; color: #6b7280; font-size: 12px;">(Te recomendamos cambiarla en tu perfil una vez accedas)</p>
+                <p style="margin: 10px 0 0 0; color: #6b7280; font-size: 12px;">Te recomendamos cambiarla al entrar en tu cuenta.</p>
               </div>
               ` : `
               <p style="font-size: 16px; color: #4b5563;">
-                Puedes acceder con tu cuenta habitual: <strong>${email}</strong>
+                Accede con tu email: <strong>${email}</strong>. Si no recuerdas la contraseña, usa «Recuperar contraseña» en la página de login.
               </p>
               `}
+
+              <p style="font-size: 15px; color: #4b5563;">
+                Con tu suscripción puedes:
+              </p>
+              <ul style="font-size: 15px; color: #4b5563; padding-left: 20px;">
+                <li>Entrar al panel del alumno</li>
+                <li>Abrir todas las unidades de los cursos (no solo la unidad 1)</li>
+                <li>Continuar desde donde lo dejaste</li>
+              </ul>
               
               <div style="text-align: center;">
-                <a href="${loginUrl}" class="button">
-                  Acceder a mi Dashboard
-                </a>
+                <a href="${loginUrl}" class="button">Iniciar sesión</a>
+                <a href="${panelUrl}" class="button-secondary">Ir a mi panel</a>
               </div>
               
               <p style="font-size: 14px; color: #6b7280; margin-top: 30px;">
-                Si tienes cualquier duda, simplemente responde a este correo o escríbenos a soporte@focus-on-english.com.
+                Si tienes dudas, responde a este correo o escríbenos a soporte@focus-on-english.com.
               </p>
             </div>
             
@@ -437,6 +465,7 @@ export async function sendWelcomeEmail({
               <p style="margin: 0 0 10px 0;">
                 © ${new Date().getFullYear()} Focus English. Todos los derechos reservados.
               </p>
+              <p style="margin: 0;">Este email se envió a ${email}</p>
             </div>
           </body>
         </html>
