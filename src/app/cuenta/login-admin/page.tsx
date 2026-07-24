@@ -18,8 +18,11 @@ function SignInForm() {
     const params = new URLSearchParams(window.location.search);
     const err = params.get('error');
     if (err === 'auth' || err === 'missing') setError('Email o contraseña incorrectos');
-    else if (err === 'forbidden') setError('No tienes permisos de administrador');
-    else if (err === 'server') setError('Error al iniciar sesión. Intenta nuevamente.');
+    else if (err === 'forbidden') {
+      setError(
+        'Tu sesión no tiene permisos de administrador (o el perfil no es legible). Cierra sesión e inicia de nuevo.'
+      );
+    } else if (err === 'server') setError('Error al iniciar sesión. Intenta nuevamente.');
 
     let next = params.get('next') || params.get('callbackUrl') || '/admin';
     if (next.startsWith('http')) {
@@ -45,8 +48,6 @@ function SignInForm() {
     checkUser();
   }, []);
 
-  // Importante: NO deshabilitar inputs de email/password,
-  // porque si se deshabilitan antes del POST nativo, el backend recibe "missing".
   const handleSubmit = () => {
     setError('');
     setLoading(true);
@@ -55,7 +56,12 @@ function SignInForm() {
   const handleLogout = async () => {
     const { supabase } = await import('@/lib/supabase-client');
     await supabase.auth.signOut();
-    window.location.reload();
+    window.location.href = '/cuenta/login-admin';
+  };
+
+  const goAdmin = () => {
+    // Navegación completa para que el middleware lea bien las cookies
+    window.location.href = callbackUrl || '/admin';
   };
 
   return (
@@ -75,18 +81,32 @@ function SignInForm() {
             <p className="text-slate-600">Gestiona alumnos y progreso desde el panel.</p>
           </div>
 
+          {error && (
+            <div className="mb-6 bg-red-50 border-2 border-red-200 text-red-700 px-4 py-3 rounded-xl text-sm font-medium">
+              ⚠️ {error}
+            </div>
+          )}
+
           {isAlreadyLoggedIn ? (
             <div className="space-y-4">
               <div className="text-center text-sm text-slate-600">
                 Sesión activa como <span className="font-semibold">{email}</span>
               </div>
               <button
-                onClick={() => window.location.replace(callbackUrl)}
+                type="button"
+                onClick={goAdmin}
                 className="w-full bg-gradient-to-r from-slate-900 to-coral-500 text-white font-bold py-4 px-6 rounded-xl hover:shadow-xl hover:scale-[1.02] transition-all"
               >
                 Ir al Panel Admin
               </button>
+              <a
+                href="/admin"
+                className="w-full inline-flex items-center justify-center bg-white border-2 border-slate-200 text-slate-800 font-bold py-3 px-6 rounded-xl hover:bg-slate-50 transition-all"
+              >
+                Abrir /admin
+              </a>
               <button
+                type="button"
                 onClick={handleLogout}
                 className="w-full bg-slate-100 text-slate-700 font-bold py-4 px-6 rounded-xl hover:bg-slate-200 transition-all"
               >
@@ -95,12 +115,6 @@ function SignInForm() {
             </div>
           ) : (
             <>
-              {error && (
-                <div className="mb-6 bg-red-50 border-2 border-red-200 text-red-700 px-4 py-3 rounded-xl text-sm font-medium">
-                  ⚠️ {error}
-                </div>
-              )}
-
               <form
                 action="/api/auth/login-admin"
                 method="POST"
@@ -165,7 +179,7 @@ function SignInForm() {
           )}
 
           <div className="text-center mt-6 text-white/80 text-sm">
-            © 2026 Focus English. Todos los derechos reservados.
+            © 2026 Linguafly. Todos los derechos reservados.
           </div>
         </div>
       </div>
@@ -176,4 +190,3 @@ function SignInForm() {
 export default function LoginAdminPage() {
   return <SignInForm />;
 }
-
