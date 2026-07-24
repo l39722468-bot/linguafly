@@ -1,35 +1,107 @@
 'use client';
 
 // ============================================
-// PÁGINA: RESETEAR CONTRASEÑA
+// PÁGINA: RESETEAR CONTRASEÑA (flujo Supabase Auth)
+// El email de recuperación llega con ?code= (vía /auth/callback)
+// o con #access_token&type=recovery en la URL.
 // ============================================
 
 import { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
+import { supabase } from '@/lib/supabase-client';
 
 function ResetPasswordForm() {
   const router = useRouter();
   const searchParams = useSearchParams();
-  const token = searchParams.get('token');
 
   const [password, setPassword] = useState('');
   const [confirmPassword, setConfirmPassword] = useState('');
   const [loading, setLoading] = useState(false);
+  const [checkingSession, setCheckingSession] = useState(true);
+  const [sessionReady, setSessionReady] = useState(false);
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
 
   useEffect(() => {
-    if (!token) {
-      setError('Token inválido o faltante');
+    let cancelled = false;
+
+    async function prepareRecoverySession() {
+      setCheckingSession(true);
+      setError('');
+
+      try {
+        // 1) PKCE: ?code=... (si no pasó por /auth/callback)
+        const code = searchParams.get('code');
+        if (code) {
+          const { error: exchangeError } = await supabase.auth.exchangeCodeForSession(code);
+          if (exchangeError) {
+            console.error('exchangeCodeForSession:', exchangeError.message);
+          }
+        }
+
+        // 2) Hash implícito: #access_token=...&type=recovery
+        if (typeof window !== 'undefined' && window.location.hash.includes('access_token')) {
+          const hash = new URLSearchParams(window.location.hash.replace(/^#/, ''));
+          const access_token = hash.get('access_token');
+          const refresh_token = hash.get('refresh_token');
+          const type = hash.get('type');
+
+          if (access_token && refresh_token && (type === 'recovery' || !type)) {
+            const { error: setErr } = await supabase.auth.setSession({
+              access_token,
+              refresh_token,
+            });
+            if (setErr) {
+              console.error('setSession:', setErr.message);
+            } else {
+              // Limpia el hash de la barra de dirección
+              window.history.replaceState({}, '', window.location.pathname);
+            }
+          }
+        }
+
+        const { data } = await supabase.auth.getSession();
+        if (cancelled) return;
+
+        if (data.session) {
+          setSessionReady(true);
+        } else {
+          setSessionReady(false);
+          setError(
+            'El enlace de recuperación no es válido o ha caducado. Solicita uno nuevo.'
+          );
+        }
+      } catch (err: any) {
+        if (!cancelled) {
+          setSessionReady(false);
+          setError(err?.message || 'No se pudo validar el enlace de recuperación.');
+        }
+      } finally {
+        if (!cancelled) setCheckingSession(false);
+      }
     }
-  }, [token]);
+
+    const { data: sub } = supabase.auth.onAuthStateChange((event) => {
+      if (event === 'PASSWORD_RECOVERY' || event === 'SIGNED_IN') {
+        setSessionReady(true);
+        setCheckingSession(false);
+        setError('');
+      }
+    });
+
+    prepareRecoverySession();
+
+    return () => {
+      cancelled = true;
+      sub.subscription.unsubscribe();
+    };
+  }, [searchParams]);
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     setError('');
 
-    // Validaciones
     if (password.length < 8) {
       setError('La contraseña debe tener al menos 8 caracteres');
       return;
@@ -43,26 +115,16 @@ function ResetPasswordForm() {
     setLoading(true);
 
     try {
-      const response = await fetch('/api/auth/reset-password', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({ token, password }),
-      });
+      const { error: updateError } = await supabase.auth.updateUser({ password });
 
-      const data = await response.json();
-
-      if (!response.ok) {
-        throw new Error(data.error || 'Error al resetear contraseña');
+      if (updateError) {
+        throw new Error(updateError.message || 'Error al actualizar contraseña');
       }
 
       setSuccess(true);
-
-      // Redirigir a login después de 3 segundos
       setTimeout(() => {
         router.push('/cuenta/login?passwordReset=true');
-      }, 3000);
+      }, 2500);
     } catch (err: any) {
       setError(err.message || 'Error al actualizar contraseña');
     } finally {
@@ -70,17 +132,27 @@ function ResetPasswordForm() {
     }
   };
 
-  if (!token) {
+  if (checkingSession) {
+    return (
+      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-orange-50 via-white to-peach-50 py-12 px-4">
+        <div className="text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-coral-600 mx-auto" />
+          <p className="mt-4 text-gray-600">Validando enlace de recuperación…</p>
+        </div>
+      </div>
+    );
+  }
+
+  if (!sessionReady) {
     return (
       <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-orange-50 via-white to-peach-50 py-12 px-4 sm:px-6 lg:px-8">
         <div className="max-w-md w-full space-y-8 bg-white p-8 rounded-2xl shadow-xl">
           <div className="text-center">
             <div className="text-6xl mb-4">❌</div>
-            <h2 className="text-3xl font-bold text-gray-900">
-              Token Inválido
-            </h2>
+            <h2 className="text-3xl font-bold text-gray-900">Enlace inválido</h2>
             <p className="mt-4 text-gray-600">
-              El enlace de recuperación es inválido o está mal formado.
+              {error ||
+                'El enlace de recuperación es inválido o ha caducado.'}
             </p>
           </div>
           <Link
@@ -88,6 +160,12 @@ function ResetPasswordForm() {
             className="w-full block text-center bg-coral-600 text-white py-3 px-4 rounded-lg hover:bg-coral-700 transition-colors font-medium"
           >
             Solicitar nuevo enlace
+          </Link>
+          <Link
+            href="/cuenta/login"
+            className="w-full block text-center text-sm text-gray-600 hover:text-gray-900"
+          >
+            Volver al login
           </Link>
         </div>
       </div>
@@ -101,22 +179,13 @@ function ResetPasswordForm() {
           <div className="text-center">
             <div className="text-6xl mb-4">✅</div>
             <h2 className="text-3xl font-bold text-gray-900">
-              ¡Contraseña Actualizada!
+              ¡Contraseña actualizada!
             </h2>
             <p className="mt-4 text-gray-600">
-              Tu contraseña ha sido actualizada correctamente.
-            </p>
-            <p className="mt-2 text-sm text-gray-500">
-              Redirigiendo al login...
-            </p>
-          </div>
-
-          <div className="bg-amber-50 border border-amber-200 rounded-lg p-4">
-            <p className="text-sm text-amber-800">
               Ya puedes iniciar sesión con tu nueva contraseña.
             </p>
+            <p className="mt-2 text-sm text-gray-500">Redirigiendo al login…</p>
           </div>
-
           <Link
             href="/cuenta/login"
             className="w-full block text-center bg-coral-600 text-white py-3 px-4 rounded-lg hover:bg-coral-700 transition-colors font-medium"
@@ -131,25 +200,20 @@ function ResetPasswordForm() {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-orange-50 via-white to-peach-50 py-12 px-4 sm:px-6 lg:px-8">
       <div className="max-w-md w-full space-y-8 bg-white p-8 rounded-2xl shadow-xl">
-        {/* Header */}
         <div className="text-center">
           <div className="text-6xl mb-4">🔑</div>
-          <h2 className="text-3xl font-bold text-gray-900">
-            Nueva Contraseña
-          </h2>
+          <h2 className="text-3xl font-bold text-gray-900">Nueva contraseña</h2>
           <p className="mt-2 text-sm text-gray-600">
-            Ingresa tu nueva contraseña
+            Elige una contraseña nueva para tu cuenta de Linguafly
           </p>
         </div>
 
-        {/* Error Message */}
         {error && (
           <div className="bg-red-50 border border-red-200 text-red-700 px-4 py-3 rounded-lg text-sm">
             {error}
           </div>
         )}
 
-        {/* Form */}
         <form onSubmit={handleSubmit} className="space-y-6">
           <div>
             <label htmlFor="password" className="block text-sm font-medium text-gray-700 mb-2">
@@ -161,6 +225,7 @@ function ResetPasswordForm() {
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               required
+              autoComplete="new-password"
               className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-transparent"
               placeholder="Mínimo 8 caracteres"
               disabled={loading}
@@ -168,7 +233,10 @@ function ResetPasswordForm() {
           </div>
 
           <div>
-            <label htmlFor="confirmPassword" className="block text-sm font-medium text-gray-700 mb-2">
+            <label
+              htmlFor="confirmPassword"
+              className="block text-sm font-medium text-gray-700 mb-2"
+            >
               Confirmar nueva contraseña
             </label>
             <input
@@ -177,23 +245,25 @@ function ResetPasswordForm() {
               value={confirmPassword}
               onChange={(e) => setConfirmPassword(e.target.value)}
               required
+              autoComplete="new-password"
               className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-transparent"
               placeholder="Repite tu nueva contraseña"
               disabled={loading}
             />
           </div>
 
-          {/* Password Requirements */}
           <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
-            <h3 className="font-semibold text-gray-900 mb-2 text-sm">
-              📋 Requisitos de contraseña:
-            </h3>
             <ul className="text-xs text-gray-600 space-y-1">
               <li className={password.length >= 8 ? 'text-amber-600' : ''}>
                 {password.length >= 8 ? '✓' : '○'} Mínimo 8 caracteres
               </li>
-              <li className={password === confirmPassword && password ? 'text-amber-600' : ''}>
-                {password === confirmPassword && password ? '✓' : '○'} Las contraseñas coinciden
+              <li
+                className={
+                  password === confirmPassword && password ? 'text-amber-600' : ''
+                }
+              >
+                {password === confirmPassword && password ? '✓' : '○'} Las
+                contraseñas coinciden
               </li>
             </ul>
           </div>
@@ -203,39 +273,9 @@ function ResetPasswordForm() {
             disabled={loading || !password || !confirmPassword}
             className="w-full bg-coral-600 text-white py-3 px-4 rounded-lg hover:bg-coral-700 transition-colors disabled:opacity-50 disabled:cursor-not-allowed font-medium"
           >
-            {loading ? (
-              <span className="flex items-center justify-center gap-2">
-                <span className="animate-spin rounded-full h-4 w-4 border-b-2 border-white"></span>
-                Actualizando...
-              </span>
-            ) : (
-              'Actualizar Contraseña'
-            )}
+            {loading ? 'Actualizando…' : 'Actualizar contraseña'}
           </button>
         </form>
-
-        {/* Security Tips */}
-        <div className="bg-orange-50 border border-orange-200 rounded-lg p-4">
-          <h3 className="font-semibold text-coral-900 mb-2 text-sm">
-            🔒 Consejos de seguridad:
-          </h3>
-          <ul className="text-xs text-coral-800 space-y-1">
-            <li>• Usa una contraseña única y fuerte</li>
-            <li>• No uses información personal (nombres, fechas)</li>
-            <li>• Combina letras, números y símbolos</li>
-            <li>• No compartas tu contraseña con nadie</li>
-          </ul>
-        </div>
-
-        {/* Help */}
-        <div className="text-center pt-4 border-t border-gray-200">
-          <p className="text-xs text-gray-500">
-            ¿Tienes problemas?{' '}
-            <a href="mailto:soporte@focus-on-english.com" className="text-coral-600 hover:text-orange-500">
-              Contacta a soporte
-            </a>
-          </p>
-        </div>
       </div>
     </div>
   );
@@ -243,14 +283,16 @@ function ResetPasswordForm() {
 
 export default function ResetPasswordPage() {
   return (
-    <Suspense fallback={
-      <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-orange-50 via-white to-peach-50">
-        <div className="text-center">
-          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-coral-600 mx-auto"></div>
-          <p className="mt-4 text-gray-600">Cargando...</p>
+    <Suspense
+      fallback={
+        <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-orange-50 via-white to-peach-50">
+          <div className="text-center">
+            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-coral-600 mx-auto" />
+            <p className="mt-4 text-gray-600">Cargando...</p>
+          </div>
         </div>
-      </div>
-    }>
+      }
+    >
       <ResetPasswordForm />
     </Suspense>
   );

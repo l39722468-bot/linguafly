@@ -95,7 +95,7 @@ export async function POST(request: NextRequest) {
       auth: { autoRefreshToken: false, persistSession: false },
     });
 
-    const redirectTo = `${getPublicSiteUrl()}/cuenta/resetear`;
+    const redirectTo = `${getPublicSiteUrl()}/auth/callback?next=${encodeURIComponent('/cuenta/resetear')}`;
 
     const { error } = await supabase.auth.resetPasswordForEmail(email, {
       redirectTo,

@@ -14,6 +14,8 @@ const PUBLIC_ROUTES = new Set([
   "/cuenta/login-admin",
   "/cuenta/registro",
   "/cuenta/recuperar",
+  "/cuenta/resetear",
+  "/auth/callback",
   "/reset-password",
   "/success",
   "/generador-b2",
