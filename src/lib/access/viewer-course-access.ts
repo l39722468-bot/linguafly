@@ -30,22 +30,7 @@ export async function getViewerHasFullCourseAccess(): Promise<boolean> {
         email: user.email,
         userId: user.id,
       });
-      if (sync.synced) {
-        profile = await getUserProfileByAuthId<{
-          subscription_status?: string;
-          subscription_plan?: string;
-          role?: string;
-        }>(supabase, user.id, "subscription_status, subscription_plan, role");
-
-        // Tras sync con service role, el cliente user puede no ver el row aún (RLS/caché).
-        // Si sync OK, concedemos acceso.
-        if (!profile) return true;
-
-        entitlements = resolveEntitlements({
-          subscriptionStatus: profile?.subscription_status,
-          subscriptionPlan: profile?.subscription_plan,
-        });
-      }
+      if (sync.synced) return true;
     }
 
     return entitlements.officialCourses;

@@ -442,8 +442,22 @@ export async function syncPaidEntitlementFromStripe(params: {
   );
 
   if (error) {
-    console.error('❌ syncPaidEntitlementFromStripe upsert:', error.message);
-    return { synced: false, userId, reason: error.message };
+    console.warn('⚠️ upsert user_profiles falló, intento update:', error.message);
+    const { error: updErr } = await supabaseAdmin
+      .from('user_profiles')
+      .update({
+        email,
+        name: displayName,
+        subscription_status: 'active',
+        subscription_plan: 'basic',
+        subscription_start_date: nowIso,
+      })
+      .eq('user_id', userId);
+
+    if (updErr) {
+      console.error('❌ syncPaidEntitlementFromStripe update:', updErr.message);
+      return { synced: false, userId, reason: updErr.message };
+    }
   }
 
   console.log('✅ Suscripción sincronizada desde Stripe → active', { email, userId });
