@@ -184,6 +184,7 @@ export async function sendWelcomeEmail({
   try {
     const siteUrl = getPublicSiteUrl();
     const loginUrl = `${siteUrl}/cuenta/login`;
+    const recoverUrl = `${siteUrl}/cuenta/recuperar`;
     const panelUrl = `${siteUrl}/mi-panel`;
     const fromAddress = getFromAddress();
 
@@ -230,15 +231,23 @@ export async function sendWelcomeEmail({
                   <p style="margin: 0; font-size: 14px; color: #6b7280;">Contraseña temporal</p>
                   <p style="margin: 0; font-size: 18px; font-family: monospace; font-weight: bold; color: #ff7e5f;">${tempPassword}</p>
                 </div>
-                <p style="margin: 10px 0 0 0; color: #6b7280; font-size: 12px; text-align: center;">Te recomendamos cambiarla al entrar en tu cuenta.</p>
+                <p style="margin: 10px 0 0 0; color: #6b7280; font-size: 12px; text-align: center;">
+                  Entra con el botón «Iniciar sesión» de la web. Si no funciona, usa «¿Olvidaste tu contraseña?» o
+                  <a href="${recoverUrl}" style="color: #2563eb;"> recupera tu acceso aquí</a>.
+                </p>
               </div>
               `
                   : `
               <div style="background: #fef3c7; border-left: 4px solid #f59e0b; padding: 15px; margin: 20px 0; border-radius: 4px;">
-                <p style="margin: 0; font-size: 15px; color: #92400e;">
+                <p style="margin: 0 0 10px 0; font-size: 15px; color: #92400e;">
                   Tu cuenta está activa con el email <strong>${email}</strong>.
-                  Si no tienes contraseña, usa «Recuperar contraseña» en la página de acceso.
+                  Para crear o recuperar tu contraseña:
                 </p>
+                <ol style="margin: 0; padding-left: 18px; font-size: 14px; color: #92400e; text-align: left;">
+                  <li>Entra en <a href="${loginUrl}" style="color: #c2410c; font-weight: 700;">Iniciar sesión</a></li>
+                  <li>Pulsa <strong>«¿Olvidaste tu contraseña?»</strong></li>
+                  <li>O ve directo a <a href="${recoverUrl}" style="color: #c2410c; font-weight: 700;">recuperar contraseña</a></li>
+                </ol>
               </div>
               `
               }
@@ -252,6 +261,7 @@ export async function sendWelcomeEmail({
               
               <div style="text-align: center; margin: 28px 0;">
                 <a href="${loginUrl}" style="display: inline-block; background: #ff7e5f; color: white !important; padding: 14px 28px; text-decoration: none; border-radius: 8px; font-weight: 700; margin: 6px;">Iniciar sesión</a>
+                <a href="${recoverUrl}" style="display: inline-block; background: #ffffff; color: #c2410c !important; padding: 14px 28px; text-decoration: none; border-radius: 8px; font-weight: 700; margin: 6px; border: 2px solid #fed7aa;">¿Olvidaste tu contraseña?</a>
               </div>
               <p style="font-size: 12px; color: #6b7280; word-break: break-all; text-align: center;">
                 Si el botón no funciona, copia este enlace:<br/>
