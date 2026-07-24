@@ -2,14 +2,42 @@
 
 // ============================================
 // PÁGINA: RESETEAR CONTRASEÑA (flujo Supabase Auth)
-// El email de recuperación llega con ?code= (vía /auth/callback)
-// o con #access_token&type=recovery en la URL.
 // ============================================
 
 import { useState, useEffect, Suspense } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { supabase } from '@/lib/supabase-client';
+
+const ALLOWED_SYMBOLS = `!@#$%^&*()_+-=[]{};':"|<>?,./\`~`;
+
+function validatePasswordLocal(password: string, confirmPassword: string): string | null {
+  if (password.length < 8) {
+    return 'La contraseña debe tener al menos 8 caracteres.';
+  }
+  if (password.length > 72) {
+    return 'La contraseña no puede superar 72 caracteres.';
+  }
+  if (/[^\x20-\x7E]/.test(password)) {
+    return 'Usa solo letras, números y símbolos normales (sin acentos ni emojis). Ejemplo: MiClave2026!';
+  }
+  if (!/[a-z]/.test(password)) {
+    return 'Incluye al menos una letra minúscula (a-z).';
+  }
+  if (!/[A-Z]/.test(password)) {
+    return 'Incluye al menos una letra mayúscula (A-Z).';
+  }
+  if (!/[0-9]/.test(password)) {
+    return 'Incluye al menos un número (0-9).';
+  }
+  if (![...ALLOWED_SYMBOLS].some((s) => password.includes(s))) {
+    return 'Incluye al menos un símbolo, por ejemplo: ! @ # $ %';
+  }
+  if (password !== confirmPassword) {
+    return 'Las contraseñas no coinciden.';
+  }
+  return null;
+}
 
 function ResetPasswordForm() {
   const router = useRouter();
@@ -20,6 +48,7 @@ function ResetPasswordForm() {
   const [loading, setLoading] = useState(false);
   const [checkingSession, setCheckingSession] = useState(true);
   const [sessionReady, setSessionReady] = useState(false);
+  const [accessToken, setAccessToken] = useState<string | null>(null);
   const [success, setSuccess] = useState(false);
   const [error, setError] = useState('');
 
@@ -31,7 +60,6 @@ function ResetPasswordForm() {
       setError('');
 
       try {
-        // 1) PKCE: ?code=... (si no pasó por /auth/callback)
         const code = searchParams.get('code');
         if (code) {
           const { error: exchangeError } = await supabase.auth.exchangeCodeForSession(code);
@@ -40,7 +68,6 @@ function ResetPasswordForm() {
           }
         }
 
-        // 2) Hash implícito: #access_token=...&type=recovery
         if (typeof window !== 'undefined' && window.location.hash.includes('access_token')) {
           const hash = new URLSearchParams(window.location.hash.replace(/^#/, ''));
           const access_token = hash.get('access_token');
@@ -55,23 +82,34 @@ function ResetPasswordForm() {
             if (setErr) {
               console.error('setSession:', setErr.message);
             } else {
-              // Limpia el hash de la barra de dirección
               window.history.replaceState({}, '', window.location.pathname);
             }
           }
         }
 
-        const { data } = await supabase.auth.getSession();
+        const { data, error: userErr } = await supabase.auth.getUser();
         if (cancelled) return;
 
-        if (data.session) {
-          setSessionReady(true);
-        } else {
+        if (userErr || !data.user) {
           setSessionReady(false);
           setError(
             'El enlace de recuperación no es válido o ha caducado. Solicita uno nuevo.'
           );
+          return;
         }
+
+        const { data: sessionData } = await supabase.auth.getSession();
+        const token = sessionData.session?.access_token || null;
+        if (!token) {
+          setSessionReady(false);
+          setError(
+            'No se pudo abrir la sesión de recuperación. Solicita un enlace nuevo.'
+          );
+          return;
+        }
+
+        setAccessToken(token);
+        setSessionReady(true);
       } catch (err: any) {
         if (!cancelled) {
           setSessionReady(false);
@@ -82,11 +120,16 @@ function ResetPasswordForm() {
       }
     }
 
-    const { data: sub } = supabase.auth.onAuthStateChange((event) => {
-      if (event === 'PASSWORD_RECOVERY' || event === 'SIGNED_IN') {
-        setSessionReady(true);
-        setCheckingSession(false);
-        setError('');
+    const { data: sub } = supabase.auth.onAuthStateChange(async (event) => {
+      if (event === 'PASSWORD_RECOVERY' || event === 'SIGNED_IN' || event === 'TOKEN_REFRESHED') {
+        const { data: sessionData } = await supabase.auth.getSession();
+        const token = sessionData.session?.access_token || null;
+        if (token) {
+          setAccessToken(token);
+          setSessionReady(true);
+          setCheckingSession(false);
+          setError('');
+        }
       }
     });
 
@@ -102,23 +145,33 @@ function ResetPasswordForm() {
     e.preventDefault();
     setError('');
 
-    if (password.length < 8) {
-      setError('La contraseña debe tener al menos 8 caracteres');
+    const localError = validatePasswordLocal(password, confirmPassword);
+    if (localError) {
+      setError(localError);
       return;
     }
 
-    if (password !== confirmPassword) {
-      setError('Las contraseñas no coinciden');
+    if (!accessToken) {
+      setError('Sesión de recuperación no válida. Solicita un enlace nuevo.');
       return;
     }
 
     setLoading(true);
 
     try {
-      const { error: updateError } = await supabase.auth.updateUser({ password });
+      const response = await fetch('/api/auth/update-password', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${accessToken}`,
+        },
+        body: JSON.stringify({ password }),
+      });
 
-      if (updateError) {
-        throw new Error(updateError.message || 'Error al actualizar contraseña');
+      const data = await response.json().catch(() => ({}));
+
+      if (!response.ok) {
+        throw new Error(data.error || 'Error al actualizar contraseña');
       }
 
       setSuccess(true);
@@ -131,6 +184,13 @@ function ResetPasswordForm() {
       setLoading(false);
     }
   };
+
+  const hasLower = /[a-z]/.test(password);
+  const hasUpper = /[A-Z]/.test(password);
+  const hasDigit = /[0-9]/.test(password);
+  const hasSymbol = [...ALLOWED_SYMBOLS].some((s) => password.includes(s));
+  const hasLength = password.length >= 8;
+  const matches = password.length > 0 && password === confirmPassword;
 
   if (checkingSession) {
     return (
@@ -151,8 +211,7 @@ function ResetPasswordForm() {
             <div className="text-6xl mb-4">❌</div>
             <h2 className="text-3xl font-bold text-gray-900">Enlace inválido</h2>
             <p className="mt-4 text-gray-600">
-              {error ||
-                'El enlace de recuperación es inválido o ha caducado.'}
+              {error || 'El enlace de recuperación es inválido o ha caducado.'}
             </p>
           </div>
           <Link
@@ -160,12 +219,6 @@ function ResetPasswordForm() {
             className="w-full block text-center bg-coral-600 text-white py-3 px-4 rounded-lg hover:bg-coral-700 transition-colors font-medium"
           >
             Solicitar nuevo enlace
-          </Link>
-          <Link
-            href="/cuenta/login"
-            className="w-full block text-center text-sm text-gray-600 hover:text-gray-900"
-          >
-            Volver al login
           </Link>
         </div>
       </div>
@@ -184,7 +237,6 @@ function ResetPasswordForm() {
             <p className="mt-4 text-gray-600">
               Ya puedes iniciar sesión con tu nueva contraseña.
             </p>
-            <p className="mt-2 text-sm text-gray-500">Redirigiendo al login…</p>
           </div>
           <Link
             href="/cuenta/login"
@@ -204,7 +256,7 @@ function ResetPasswordForm() {
           <div className="text-6xl mb-4">🔑</div>
           <h2 className="text-3xl font-bold text-gray-900">Nueva contraseña</h2>
           <p className="mt-2 text-sm text-gray-600">
-            Elige una contraseña nueva para tu cuenta de Linguafly
+            Ejemplo válido: <code className="bg-gray-100 px-1 rounded">MiClave2026!</code>
           </p>
         </div>
 
@@ -214,20 +266,22 @@ function ResetPasswordForm() {
           </div>
         )}
 
-        <form onSubmit={handleSubmit} className="space-y-6">
+        <form onSubmit={handleSubmit} className="space-y-6" autoComplete="off">
           <div>
             <label htmlFor="password" className="block text-sm font-medium text-gray-700 mb-2">
               Nueva contraseña
             </label>
             <input
               id="password"
+              name="new-password"
               type="password"
               value={password}
               onChange={(e) => setPassword(e.target.value)}
               required
               autoComplete="new-password"
+              spellCheck={false}
               className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-transparent"
-              placeholder="Mínimo 8 caracteres"
+              placeholder="MiClave2026!"
               disabled={loading}
             />
           </div>
@@ -241,11 +295,13 @@ function ResetPasswordForm() {
             </label>
             <input
               id="confirmPassword"
+              name="confirm-password"
               type="password"
               value={confirmPassword}
               onChange={(e) => setConfirmPassword(e.target.value)}
               required
               autoComplete="new-password"
+              spellCheck={false}
               className="w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-orange-500 focus:border-transparent"
               placeholder="Repite tu nueva contraseña"
               disabled={loading}
@@ -253,17 +309,25 @@ function ResetPasswordForm() {
           </div>
 
           <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
+            <p className="font-semibold text-gray-900 mb-2 text-sm">Debe incluir:</p>
             <ul className="text-xs text-gray-600 space-y-1">
-              <li className={password.length >= 8 ? 'text-amber-600' : ''}>
-                {password.length >= 8 ? '✓' : '○'} Mínimo 8 caracteres
+              <li className={hasLength ? 'text-emerald-600' : ''}>
+                {hasLength ? '✓' : '○'} Mínimo 8 caracteres
               </li>
-              <li
-                className={
-                  password === confirmPassword && password ? 'text-amber-600' : ''
-                }
-              >
-                {password === confirmPassword && password ? '✓' : '○'} Las
-                contraseñas coinciden
+              <li className={hasLower ? 'text-emerald-600' : ''}>
+                {hasLower ? '✓' : '○'} Una minúscula (a-z)
+              </li>
+              <li className={hasUpper ? 'text-emerald-600' : ''}>
+                {hasUpper ? '✓' : '○'} Una mayúscula (A-Z)
+              </li>
+              <li className={hasDigit ? 'text-emerald-600' : ''}>
+                {hasDigit ? '✓' : '○'} Un número (0-9)
+              </li>
+              <li className={hasSymbol ? 'text-emerald-600' : ''}>
+                {hasSymbol ? '✓' : '○'} Un símbolo (! @ # $ %)
+              </li>
+              <li className={matches ? 'text-emerald-600' : ''}>
+                {matches ? '✓' : '○'} Las dos coinciden
               </li>
             </ul>
           </div>
