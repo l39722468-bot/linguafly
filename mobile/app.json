@@ -13,6 +13,7 @@
     "ios": {
       "supportsTablet": true,
       "bundleIdentifier": "com.focusonenglish.app",
+      "usesAppleSignIn": true,
       "infoPlist": {
         "NSMicrophoneUsageDescription": "Necesitamos el micrófono para ejercicios de pronunciación.",
         "NSSpeechRecognitionUsageDescription": "Usamos el audio para evaluar tu pronunciación en inglés."
@@ -34,7 +35,8 @@
         {
           "microphonePermission": "Permite a Focus English usar el micrófono para ejercicios de speaking."
         }
-      ]
+      ],
+      "expo-apple-authentication"
     ],
     "extra": {
       "eas": {

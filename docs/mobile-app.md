@@ -89,6 +89,17 @@ Variables:
 - `EXPO_PUBLIC_SUPABASE_URL`
 - `EXPO_PUBLIC_SUPABASE_ANON_KEY`
 
+### OAuth (Google / Apple)
+
+La app usa Supabase Auth con redirect `focusenglish://auth/callback`. En el dashboard de Supabase:
+
+1. Habilitar proveedores **Google** y **Apple** en Authentication → Providers.
+2. Añadir redirect URLs en Authentication → URL Configuration:
+   - `focusenglish://auth/callback`
+   - URLs `exp://...` de Expo Go si pruebas en desarrollo.
+
+En iOS, Apple Sign In usa el flujo nativo (`expo-apple-authentication`); en Android, Apple abre el navegador OAuth.
+
 ## Roadmap recomendado
 
 ### Fase 1 — MVP (actual)
@@ -98,14 +109,14 @@ Variables:
 - [x] Scaffold Expo
 
 ### Fase 2 — UI nativa ✅
-- [x] Login/registro Supabase
+- [x] Login/registro Supabase (email + Google + Apple)
 - [x] Reproductor de ejercicios (MC, huecos, lectura, escucha, ordenar frases, writing, speaking)
 - [x] Integración `/api/evaluate-speaking` con `expo-av`
 
 ### Fase 3 — Publicación
 - [x] Configuración EAS Build (`eas.json`, perfiles preview/production)
+- [x] Login social Google/Apple (`mobile/src/lib/oauth.ts`, redirect `focusenglish://auth/callback`)
 - [ ] Ejecutar `eas init` + primer build en cuenta Expo
-- [ ] Deep links OAuth (`focusenglish://auth/callback`)
 - [ ] Stripe / suscripciones (web checkout + deep link o IAP)
 
 ## Archivos clave en el repo

@@ -11,6 +11,7 @@ import {
   TextInput,
 } from 'react-native';
 import { useAuth } from '../context/AuthContext';
+import { SocialLoginButtons } from '../components/SocialLoginButtons';
 import { colors, shared } from '../theme';
 
 type Props = {
@@ -111,6 +112,8 @@ export function RegisterScreen({ onGoLogin, onSuccess }: Props) {
           <Pressable onPress={onGoLogin} style={styles.linkBtn}>
             <Text style={styles.linkText}>Ya tengo cuenta</Text>
           </Pressable>
+
+          <SocialLoginButtons onSuccess={onSuccess} disabled={loading} />
         </ScrollView>
       </KeyboardAvoidingView>
     </SafeAreaView>

@@ -12,6 +12,7 @@ import {
   View,
 } from 'react-native';
 import { useAuth } from '../context/AuthContext';
+import { SocialLoginButtons } from '../components/SocialLoginButtons';
 import { colors, shared } from '../theme';
 
 type Props = {
@@ -92,6 +93,8 @@ export function LoginScreen({ onGoRegister, onSuccess, onGuest }: Props) {
             <Pressable onPress={onGoRegister} style={styles.linkBtn}>
               <Text style={styles.linkText}>¿No tienes cuenta? Regístrate</Text>
             </Pressable>
+
+            <SocialLoginButtons onSuccess={onSuccess} disabled={loading} />
 
             {onGuest ? (
               <Pressable onPress={onGuest} style={styles.guestBtn}>

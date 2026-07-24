@@ -19,7 +19,22 @@ En dispositivo físico, cambia `EXPO_PUBLIC_API_URL` por la IP de tu máquina (e
 ## Login
 
 - Email/contraseña con Supabase (misma cuenta que la web)
+- **Google** y **Apple** (botones en login y registro)
 - Opción «Probar unidad 1 gratis sin cuenta» en la pantalla de login
+
+### Configurar Google / Apple (Supabase Dashboard)
+
+1. **Authentication → Providers**: activa Google y Apple.
+2. **Authentication → URL Configuration → Redirect URLs**, añade:
+   - `focusenglish://auth/callback` (build nativo / EAS)
+   - `exp://127.0.0.1:8081/--/auth/callback` (Expo Go en simulador)
+   - `exp://TU_IP:8081/--/auth/callback` (Expo Go en dispositivo físico)
+3. **Google Cloud Console**: crea credenciales OAuth (tipo *Web application*) con el redirect de Supabase (`https://<proyecto>.supabase.co/auth/v1/callback`).
+4. **Apple Developer**: configura Sign in with Apple y pega el *Services ID* en Supabase.
+
+Para ver la URL exacta que usa tu entorno de desarrollo, arranca la app y revisa la consola o llama a `getOAuthRedirectUri()` desde `src/lib/oauth.ts`.
+
+> **Nota:** Google/Apple con flujo OAuth en navegador funciona bien en builds nativos. En Expo Go puede requerir añadir la URL `exp://...` de tu sesión a Supabase.
 
 ## Ejercicios soportados
 
@@ -33,6 +48,8 @@ En dispositivo físico, cambia `EXPO_PUBLIC_API_URL` por la IP de tu máquina (e
 | drag-drop, matching, word-search… | ⏭️ Saltar |
 
 ## EAS Build (Android / iOS)
+
+**¿Qué es EAS Build?** Es el servicio en la nube de Expo que compila tu app y genera el archivo instalable (APK/AAB en Android, IPA en iOS). **No lo necesitas para desarrollar**: con `npm start` y Expo Go puedes probar la app en tu móvil. Solo hace falta EAS cuando quieras publicar en Google Play o App Store, o instalar un APK sin Expo Go.
 
 ### 1. Instalar EAS CLI e iniciar proyecto
 
