@@ -5,6 +5,7 @@ import {
   findAuthUserIdByEmail,
   hasActiveStripeSubscription,
   provisionSubscriberFromPayment,
+  syncPaidEntitlementFromStripe,
 } from '@/lib/stripe/provision-subscriber';
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || '';
@@ -89,6 +90,13 @@ export async function POST(request: NextRequest) {
     if (!authUserId) {
       // No existe en Auth y no hay pago activo → respuesta genérica
       return genericOk;
+    }
+
+    // Usuario Auth existe: activar suscripción si Stripe confirma el pago
+    try {
+      await syncPaidEntitlementFromStripe({ email, userId: authUserId });
+    } catch (err: any) {
+      console.warn('⚠️ syncPaidEntitlementFromStripe:', err?.message || err);
     }
 
     const supabase = createClient(supabaseUrl, supabaseAnonKey, {

@@ -245,15 +245,21 @@ export async function middleware(request: NextRequest) {
       profile?.subscription_status === "trialing";
     const isAdmin = profile?.role === "admin";
 
-    if (!isPaid && !isAdmin) {
-      const url = request.nextUrl.clone();
-      url.pathname = "/planes";
-      url.searchParams.set("reason", "premium_required");
-      url.searchParams.set("next", pathname);
-      return NextResponse.redirect(url, 303);
+    if (isPaid || isAdmin) {
+      return response;
     }
 
-    return response;
+    // Logueado pero perfil aún no "active": dejar pasar al layout,
+    // que sincroniza el pago de Stripe → desbloquea unidades.
+    if (user) {
+      return response;
+    }
+
+    const url = request.nextUrl.clone();
+    url.pathname = "/planes";
+    url.searchParams.set("reason", "premium_required");
+    url.searchParams.set("next", pathname);
+    return NextResponse.redirect(url, 303);
   }
 
   // Protección para áreas privadas del panel, soporte y administración

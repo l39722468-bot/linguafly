@@ -1,6 +1,7 @@
 import { createClient } from "@/lib/supabase/server";
 import { getUserProfileByAuthId } from "@/lib/access/user-profile";
 import { resolveEntitlements } from "@/lib/access/entitlements";
+import { syncPaidEntitlementFromStripe } from "@/lib/stripe/provision-subscriber";
 
 /** Indica si el visitante actual tiene acceso completo a los cursos A1–C2. */
 export async function getViewerHasFullCourseAccess(): Promise<boolean> {
@@ -11,7 +12,7 @@ export async function getViewerHasFullCourseAccess(): Promise<boolean> {
     } = await supabase.auth.getUser();
     if (!user) return false;
 
-    const profile = await getUserProfileByAuthId<{
+    let profile = await getUserProfileByAuthId<{
       subscription_status?: string;
       subscription_plan?: string;
       role?: string;
@@ -19,10 +20,35 @@ export async function getViewerHasFullCourseAccess(): Promise<boolean> {
 
     if (profile?.role === "admin") return true;
 
-    return resolveEntitlements({
+    let entitlements = resolveEntitlements({
       subscriptionStatus: profile?.subscription_status,
       subscriptionPlan: profile?.subscription_plan,
-    }).officialCourses;
+    });
+
+    if (!entitlements.officialCourses && user.email) {
+      const sync = await syncPaidEntitlementFromStripe({
+        email: user.email,
+        userId: user.id,
+      });
+      if (sync.synced) {
+        profile = await getUserProfileByAuthId<{
+          subscription_status?: string;
+          subscription_plan?: string;
+          role?: string;
+        }>(supabase, user.id, "subscription_status, subscription_plan, role");
+
+        // Tras sync con service role, el cliente user puede no ver el row aún (RLS/caché).
+        // Si sync OK, concedemos acceso.
+        if (!profile) return true;
+
+        entitlements = resolveEntitlements({
+          subscriptionStatus: profile?.subscription_status,
+          subscriptionPlan: profile?.subscription_plan,
+        });
+      }
+    }
+
+    return entitlements.officialCourses;
   } catch {
     return false;
   }

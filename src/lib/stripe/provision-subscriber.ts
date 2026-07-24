@@ -1,5 +1,5 @@
 import crypto from 'crypto';
-import type Stripe from 'stripe';
+import Stripe from 'stripe';
 import { supabaseAdmin } from '@/lib/supabase/client';
 import { sendWelcomeEmail } from '@/lib/email-service';
 
@@ -372,23 +372,80 @@ export async function hasActiveStripeSubscription(
   email: string
 ): Promise<boolean> {
   const normalized = email.toLowerCase().trim();
-  const customers = await stripe.customers.list({ email: normalized, limit: 10 });
+  const candidates = Array.from(new Set([normalized, email.trim()].filter(Boolean)));
 
-  for (const customer of customers.data) {
-    const subs = await stripe.subscriptions.list({
-      customer: customer.id,
-      status: 'active',
-      limit: 1,
-    });
-    if (subs.data.length > 0) return true;
+  for (const candidate of candidates) {
+    const customers = await stripe.customers.list({ email: candidate, limit: 10 });
 
-    const trialing = await stripe.subscriptions.list({
-      customer: customer.id,
-      status: 'trialing',
-      limit: 1,
-    });
-    if (trialing.data.length > 0) return true;
+    for (const customer of customers.data) {
+      for (const status of ['active', 'trialing'] as const) {
+        const subs = await stripe.subscriptions.list({
+          customer: customer.id,
+          status,
+          limit: 1,
+        });
+        if (subs.data.length > 0) return true;
+      }
+    }
   }
 
   return false;
+}
+
+/**
+ * Si el email tiene suscripción Stripe activa, marca user_profiles como active.
+ * Corrige alumnos que pudieron entrar (Auth) sin el flag de pago.
+ */
+export async function syncPaidEntitlementFromStripe(params: {
+  email: string;
+  userId?: string;
+  name?: string;
+}): Promise<{ synced: boolean; userId?: string; reason?: string }> {
+  if (!supabaseAdmin) {
+    return { synced: false, reason: 'supabaseAdmin=null' };
+  }
+  if (!process.env.STRIPE_SECRET_KEY) {
+    return { synced: false, reason: 'STRIPE_SECRET_KEY missing' };
+  }
+
+  const email = params.email.toLowerCase().trim();
+  if (!email) return { synced: false, reason: 'email vacío' };
+
+  const stripe = new Stripe(process.env.STRIPE_SECRET_KEY, {
+    apiVersion: '2026-01-28.clover' as any,
+  });
+
+  const paid = await hasActiveStripeSubscription(stripe, email);
+  if (!paid) {
+    return { synced: false, userId: params.userId, reason: 'sin suscripción Stripe activa' };
+  }
+
+  const userId = params.userId || (await findAuthUserIdByEmail(email));
+  if (!userId) {
+    return { synced: false, reason: 'usuario Auth no encontrado' };
+  }
+
+  const nowIso = new Date().toISOString();
+  const displayName = (params.name || '').trim() || email.split('@')[0] || 'Estudiante';
+
+  const { error } = await supabaseAdmin.from('user_profiles').upsert(
+    {
+      user_id: userId,
+      email,
+      name: displayName,
+      role: 'user',
+      subscription_status: 'active',
+      subscription_plan: 'basic',
+      subscription_start_date: nowIso,
+    },
+    { onConflict: 'user_id' }
+  );
+
+  if (error) {
+    console.error('❌ syncPaidEntitlementFromStripe upsert:', error.message);
+    return { synced: false, userId, reason: error.message };
+  }
+
+  console.log('✅ Suscripción sincronizada desde Stripe → active', { email, userId });
+  return { synced: true, userId };
 }
