@@ -92,7 +92,7 @@ export async function POST(request: NextRequest) {
   }
 }
 
-/** Listar tickets propios del alumno autenticado */
+/** Listar tickets propios del alumno autenticado (solo filas reales en DB) */
 export async function GET() {
   try {
     const supabase = await createClient();
@@ -104,10 +104,17 @@ export async function GET() {
       return NextResponse.json({ error: 'Service role not configured' }, { status: 500 });
     }
 
+    const email = (user.email || '').trim().toLowerCase();
+    // PostgREST: comillas para emails con @ y caracteres especiales
+    const emailFilter = email ? `email.eq."${email.replace(/"/g, '')}"` : null;
+    const orFilter = emailFilter
+      ? `user_id.eq.${user.id},${emailFilter}`
+      : `user_id.eq.${user.id}`;
+
     const { data, error } = await supabaseAdmin
       .from('support_tickets')
-      .select('id,subject,status,created_at,replied_at,category,source')
-      .or(`user_id.eq.${user.id},email.eq.${user.email}`)
+      .select('id,subject,message,status,created_at,replied_at,category,source,admin_reply')
+      .or(orFilter)
       .order('created_at', { ascending: false })
       .limit(50);
 
@@ -115,7 +122,10 @@ export async function GET() {
       return NextResponse.json({ error: error.message }, { status: 500 });
     }
 
-    return NextResponse.json({ tickets: data ?? [] });
+    // Solo tickets persistidos (UUID reales de la tabla), sin inventar entradas
+    const tickets = (data ?? []).filter((t) => Boolean(t?.id) && Boolean(t?.created_at));
+
+    return NextResponse.json({ tickets });
   } catch (e) {
     console.error('[support/ticket] GET error', e);
     return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
