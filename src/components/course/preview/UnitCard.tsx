@@ -137,7 +137,7 @@ export function UnitCard({ unit, coursePath = '/curso-a1', hasFullAccess = false
             {isLocked ? (
               <span className="inline-flex items-center gap-1 rounded-lg bg-slate-900/35 backdrop-blur-sm border border-white/30 px-2 py-1 text-[10px] font-black uppercase tracking-widest text-white">
                 <Lock className="w-3 h-3" />
-                0,99 €/mes
+                Suscripción
               </span>
             ) : unit.unitNumber === 1 ? (
               <span className="inline-flex items-center rounded-lg bg-emerald-500/90 border border-white/30 px-2 py-1 text-[10px] font-black uppercase tracking-widest text-white">
@@ -199,14 +199,14 @@ export function UnitCard({ unit, coursePath = '/curso-a1', hasFullAccess = false
           className={`flex items-center justify-center gap-2 px-4 py-3 rounded-2xl font-bold text-sm border-2 transition-all duration-200 ${theme.chip} group-hover:bg-gradient-to-r group-hover:${theme.gradient} group-hover:text-white group-hover:border-transparent focus:outline-none focus:ring-2 focus:ring-offset-2`}
           aria-label={
             isLocked
-              ? `Desbloquear ${bilingualTitleEnglishPrimary(unit.title)} desde 0,99 euros al mes`
+              ? `Desbloquear ${bilingualTitleEnglishPrimary(unit.title)} con la suscripción`
               : `Practicar ${bilingualTitleEnglishPrimary(unit.title)}`
           }
         >
           {isLocked ? (
             <>
               <Lock className="w-4 h-4" />
-              <span>Desde 0,99 €/mes</span>
+              <span>Desbloquear</span>
             </>
           ) : (
             <>
