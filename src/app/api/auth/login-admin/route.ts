@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { createServerClient } from '@supabase/ssr';
 import { cookies } from 'next/headers';
+import { supabaseAdmin } from '@/lib/supabase/client';
 
 export async function POST(request: NextRequest) {
   try {
@@ -79,24 +80,25 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Validar rol admin
-    try {
+    // Validar rol admin (service role evita fallos de RLS)
+    let role: string | null = null;
+    if (supabaseAdmin) {
+      const { data: profile } = await supabaseAdmin
+        .from('user_profiles')
+        .select('role')
+        .eq('user_id', data.user.id)
+        .maybeSingle();
+      role = profile?.role ?? null;
+    } else {
       const { data: profile } = await supabase
         .from('user_profiles')
         .select('role')
         .eq('user_id', data.user.id)
-        .single();
+        .maybeSingle();
+      role = profile?.role ?? null;
+    }
 
-      if (!profile || profile.role !== 'admin') {
-        return NextResponse.redirect(
-          new URL(
-            `/cuenta/login-admin?error=forbidden&next=${encodeURIComponent(callbackUrl)}`,
-            request.url
-          ),
-          303
-        );
-      }
-    } catch {
+    if (role !== 'admin') {
       return NextResponse.redirect(
         new URL(
           `/cuenta/login-admin?error=forbidden&next=${encodeURIComponent(callbackUrl)}`,
@@ -109,7 +111,6 @@ export async function POST(request: NextRequest) {
     const url = new URL(callbackUrl, request.url);
     const response = NextResponse.redirect(url, 303);
 
-    // Asegurar que las cookies de sesión se envían en el redirect
     cookiesToSet.forEach(({ name, value, options }) => {
       response.cookies.set(name, value, options ?? {});
     });
@@ -120,4 +121,3 @@ export async function POST(request: NextRequest) {
     return NextResponse.redirect(new URL('/cuenta/login-admin?error=server', request.url), 303);
   }
 }
-
