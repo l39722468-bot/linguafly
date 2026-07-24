@@ -8,11 +8,19 @@ export const runtime = 'nodejs';
 function projectRefFromUrl(url?: string | null): string | null {
   if (!url) return null;
   try {
-    const host = new URL(url).hostname; // xxx.supabase.co
+    const host = new URL(url).hostname;
     return host.split('.')[0] || null;
   } catch {
     return null;
   }
+}
+
+function maskEmail(email?: string | null): string {
+  if (!email) return '(sin email)';
+  const [user, domain] = email.split('@');
+  if (!domain) return '***';
+  const visible = user.slice(0, 2);
+  return `${visible}***@${domain}`;
 }
 
 export async function GET(request: NextRequest) {
@@ -23,17 +31,39 @@ export async function GET(request: NextRequest) {
 
     let supabaseAdminOk: boolean | null = null;
     let supabaseAdminError: string | null = null;
+    let authUsersListed = 0;
+    let authUsersSample: Array<{ id: string; email: string; created_at?: string }> = [];
+    let profilesCount: number | null = null;
+    let usersTableCount: number | null = null;
 
     if (supabaseAdmin) {
       try {
-        // Prueba mínima de Auth Admin (no crea usuarios)
-        const { error } = await supabaseAdmin.auth.admin.listUsers({ page: 1, perPage: 1 });
+        const { data, error } = await supabaseAdmin.auth.admin.listUsers({
+          page: 1,
+          perPage: 5,
+        });
         if (error) {
           supabaseAdminOk = false;
           supabaseAdminError = error.message;
         } else {
           supabaseAdminOk = true;
+          authUsersListed = data?.users?.length || 0;
+          authUsersSample = (data?.users || []).map((u) => ({
+            id: String(u.id).slice(0, 8),
+            email: maskEmail(u.email),
+            created_at: u.created_at,
+          }));
         }
+
+        const profiles = await supabaseAdmin
+          .from('user_profiles')
+          .select('*', { count: 'exact', head: true });
+        profilesCount = profiles.count ?? null;
+
+        const users = await supabaseAdmin
+          .from('users')
+          .select('*', { count: 'exact', head: true });
+        usersTableCount = users.count ?? null;
       } catch (err: any) {
         supabaseAdminOk = false;
         supabaseAdminError = err?.message || String(err);
@@ -41,15 +71,20 @@ export async function GET(request: NextRequest) {
     } else {
       supabaseAdminOk = false;
       supabaseAdminError = serviceRoleConfigured
-        ? 'supabaseAdmin=null pese a tener SERVICE_ROLE_KEY (¿falta NEXT_PUBLIC_SUPABASE_URL?)'
+        ? 'supabaseAdmin=null pese a tener SERVICE_ROLE_KEY'
         : 'Falta SUPABASE_SERVICE_ROLE_KEY';
     }
+
+    const site = (process.env.NEXT_PUBLIC_SITE_URL || 'https://linguafly.app').replace(
+      /\/$/,
+      ''
+    );
 
     const diagnostics = {
       timestamp: new Date().toISOString(),
       environment: process.env.NODE_ENV,
       note:
-        'Stripe NO se conecta solo a Supabase. El alta ocurre en /api/webhooks/stripe o en /api/stripe/complete-checkout tras un pago válido.',
+        'Stripe NO se conecta solo a Supabase. Alta: webhook, /api/stripe/complete-checkout o /api/stripe/repair-subscriber.',
       plans: plans.map((plan) => ({
         id: plan.id,
         name: plan.name,
@@ -76,12 +111,18 @@ export async function GET(request: NextRequest) {
         clientReady: !!supabaseAdmin,
         authAdminOk: supabaseAdminOk,
         error: supabaseAdminError,
+        authUsersSampleSize: authUsersListed,
+        authUsersSample,
+        userProfilesCount: profilesCount,
+        publicUsersCount: usersTableCount,
       },
-      webhookExpectedUrl: `${(process.env.NEXT_PUBLIC_SITE_URL || 'https://linguafly.app').replace(/\/$/, '')}/api/webhooks/stripe`,
+      webhookExpectedUrl: `${site}/api/webhooks/stripe`,
+      repairUrl: `${site}/api/stripe/repair-subscriber`,
       tips: [
-        'En Stripe Dashboard → Webhooks: evento checkout.session.completed apuntando a webhookExpectedUrl',
-        'SUPABASE_SERVICE_ROLE_KEY debe ser del MISMO proyecto que NEXT_PUBLIC_SUPABASE_URL',
-        'El PR con el alta post-pago debe estar desplegado en producción (merge a main)',
+        'Webhook: checkout.session.completed + customer.subscription.created/updated',
+        'Si Auth sigue vacío tras un pago, POST a /api/stripe/repair-subscriber con {"email":"..."} o {"sessionId":"cs_..."}',
+        'Si createUser falla por password_hash: ejecuta supabase/migrations/20260724_fix_users_password_hash_default.sql',
+        'Mira Authentication → Users en el proyecto nprqtjljoekoirlrjxlh (no otro proyecto)',
       ],
     };
 
