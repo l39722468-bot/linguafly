@@ -1,8 +1,9 @@
 import Stripe from 'stripe';
 import { NextRequest, NextResponse } from 'next/server';
-import { supabaseAdmin } from '@/lib/supabase/client';
-import { sendWelcomeEmail } from '@/lib/email-service';
-import crypto from 'crypto';
+import {
+  extractCheckoutIdentity,
+  provisionSubscriberFromPayment,
+} from '@/lib/stripe/provision-subscriber';
 import {
   syncHubSpotContact,
   createHubSpotTicket,
@@ -14,137 +15,6 @@ const stripe = process.env.STRIPE_SECRET_KEY
       apiVersion: '2026-01-28.clover' as any,
     })
   : null;
-
-/** Valores permitidos por el CHECK de user_profiles.subscription_plan */
-function mapSubscriptionPlanToAllowedValue(input: string): 'free' | 'basic' | 'premium' {
-  const v = (input ?? '').trim().toLowerCase();
-  if (!v || v === 'free') return 'free';
-  if (v.startsWith('basic')) return 'basic'; // basic-monthly → basic
-  if (v.startsWith('premium')) return 'premium';
-  return 'premium';
-}
-
-async function findAuthUserIdByEmail(email: string): Promise<string | undefined> {
-  if (!supabaseAdmin) return undefined;
-
-  const normalized = email.toLowerCase().trim();
-
-  // 1) Tablas de app
-  const { data: userRow } = await supabaseAdmin
-    .from('users')
-    .select('id')
-    .ilike('email', normalized)
-    .maybeSingle();
-  if (userRow?.id) return userRow.id;
-
-  const { data: profileRow } = await supabaseAdmin
-    .from('user_profiles')
-    .select('user_id')
-    .ilike('email', normalized)
-    .maybeSingle();
-  if (profileRow?.user_id) return profileRow.user_id;
-
-  // 2) Auth Admin API filtrando por email (más fiable que listar 1000 usuarios)
-  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
-  const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
-  if (supabaseUrl && serviceKey) {
-    try {
-      const res = await fetch(
-        `${supabaseUrl}/auth/v1/admin/users?email=${encodeURIComponent(normalized)}`,
-        {
-          headers: {
-            Authorization: `Bearer ${serviceKey}`,
-            apikey: serviceKey,
-          },
-          cache: 'no-store',
-        }
-      );
-      if (res.ok) {
-        const json = await res.json();
-        const users = Array.isArray(json?.users) ? json.users : Array.isArray(json) ? json : [];
-        const match = users.find(
-          (u: any) => String(u?.email || '').toLowerCase() === normalized
-        );
-        if (match?.id) return match.id;
-      } else {
-        console.warn('⚠️ Auth admin users?email lookup failed:', res.status);
-      }
-    } catch (err: any) {
-      console.warn('⚠️ Auth admin email lookup error:', err?.message || err);
-    }
-  }
-
-  // 3) Fallback paginado
-  for (let page = 1; page <= 5; page++) {
-    const { data, error } = await supabaseAdmin.auth.admin.listUsers({ page, perPage: 200 });
-    if (error) break;
-    const match = data?.users?.find((u) => u.email?.toLowerCase() === normalized);
-    if (match?.id) return match.id;
-    if (!data?.users?.length || data.users.length < 200) break;
-  }
-
-  return undefined;
-}
-
-async function ensureUserWithPassword(
-  email: string,
-  password: string,
-  firstName: string,
-  lastName: string
-): Promise<{ userId?: string; passwordReady: boolean }> {
-  if (!supabaseAdmin) {
-    console.error('❌ SUPABASE_SERVICE_ROLE_KEY no configurada');
-    return { passwordReady: false };
-  }
-
-  const displayName = `${firstName} ${lastName}`.trim() || 'Estudiante';
-
-  const { data: authData, error: authError } = await supabaseAdmin.auth.admin.createUser({
-    email,
-    password,
-    email_confirm: true,
-    user_metadata: {
-      full_name: displayName,
-      first_name: firstName,
-      last_name: lastName,
-    },
-  });
-
-  if (!authError && authData.user?.id) {
-    return { userId: authData.user.id, passwordReady: true };
-  }
-
-  const msg = (authError?.message || '').toLowerCase();
-  const alreadyExists =
-    msg.includes('already') ||
-    msg.includes('registered') ||
-    msg.includes('exists') ||
-    authError?.status === 422;
-
-  if (!alreadyExists) {
-    console.error('❌ Auth createUser error:', authError?.message);
-    return { passwordReady: false };
-  }
-
-  console.log('ℹ️ Usuario ya existía; buscando ID y actualizando contraseña...');
-  const userId = await findAuthUserIdByEmail(email);
-  if (!userId) {
-    console.error('❌ No se encontró el usuario existente por email:', email);
-    return { passwordReady: false };
-  }
-
-  const { error: updErr } = await supabaseAdmin.auth.admin.updateUserById(userId, {
-    password,
-    email_confirm: true,
-  });
-
-  if (updErr) {
-    console.error('❌ Error actualizando contraseña:', updErr.message);
-    return { userId, passwordReady: false };
-  }
-
-  return { userId, passwordReady: true };
-}
 
 export async function POST(request: NextRequest) {
   console.log('🚀 Webhook POST request received at /api/webhooks/stripe');
@@ -176,131 +46,36 @@ export async function POST(request: NextRequest) {
       const session = event.data.object as Stripe.Checkout.Session;
       console.log('💰 Processing Checkout Session:', session.id);
 
-      const customerEmail =
-        session.customer_details?.email || session.customer_email || session.metadata?.email;
-      const firstName =
-        session.metadata?.firstName ||
-        (session.customer_details?.name || '').split(' ')[0] ||
-        '';
-      const lastName =
-        session.metadata?.lastName ||
-        (session.customer_details?.name || '').split(' ').slice(1).join(' ') ||
-        '';
-      const planName = session.metadata?.planName || 'Suscripción mensual';
-      const planId = session.metadata?.planId || 'basic-monthly';
-      const displayName = `${firstName} ${lastName}`.trim() || 'Estudiante';
+      const identity = extractCheckoutIdentity(session);
 
-      if (!customerEmail) {
+      if (!identity.email) {
         console.error('❌ No email found for session:', session.id);
         return NextResponse.json({ received: true });
       }
 
-      const generatedPassword = crypto.randomBytes(12).toString('hex') + '!';
-      let userId: string | undefined;
-      let passwordReady = false;
+      const result = await provisionSubscriberFromPayment({
+        ...identity,
+        stripeSessionId: session.id,
+      });
 
-      try {
-        const ensured = await ensureUserWithPassword(
-          customerEmail,
-          generatedPassword,
-          firstName,
-          lastName
-        );
-        userId = ensured.userId;
-        passwordReady = ensured.passwordReady;
-      } catch (err: any) {
-        console.error('❌ ensureUserWithPassword error:', err?.message || err);
-      }
-
-      if (userId && supabaseAdmin) {
-        console.log('🔄 Updating user data for:', userId);
-        const languageLevel = (session.metadata?.currentLevel || 'A1').toUpperCase();
-        const dbPlan = mapSubscriptionPlanToAllowedValue(planId);
-        const nowIso = new Date().toISOString();
-
-        // Importante: public.users exige password_hash NOT NULL.
-        // user_profiles.subscription_plan solo admite free|basic|premium|enterprise
-        // (NO "basic-monthly").
-        const usersRes = await supabaseAdmin.from('users').upsert({
-          id: userId,
-          email: customerEmail,
-          name: displayName,
-          password_hash: 'managed-by-supabase-auth',
-          email_verified: nowIso,
-          language_level: languageLevel,
-          image: null,
-          updated_at: nowIso,
+      if (!result.ok) {
+        console.error('❌ Provision failed after checkout:', result.error);
+      } else {
+        console.log('✅ Provision OK', {
+          userId: result.userId,
+          created: result.created,
+          passwordReady: result.passwordReady,
+          mailSent: result.mailSent,
         });
-        if (usersRes.error) {
-          console.error('❌ users upsert error:', usersRes.error.message);
-        } else {
-          console.log('✅ users row saved');
-        }
-
-        const profileRes = await supabaseAdmin.from('user_profiles').upsert(
-          {
-            user_id: userId,
-            email: customerEmail,
-            name: displayName,
-            role: 'user',
-            subscription_status: 'active',
-            subscription_plan: dbPlan,
-            subscription_start_date: nowIso,
-          },
-          { onConflict: 'user_id' }
-        );
-        if (profileRes.error) {
-          console.error('❌ user_profiles upsert error:', profileRes.error.message);
-        } else {
-          console.log('✅ user_profiles row saved', { dbPlan });
-        }
-
-        const extras = await Promise.allSettled([
-          supabaseAdmin.from('user_stats').upsert({ user_id: userId, level: 1 }),
-          supabaseAdmin
-            .from('user_xp')
-            .upsert({ user_id: userId, total_xp: 0, level: 1, xp_to_next_level: 100 }),
-          supabaseAdmin
-            .from('user_streaks')
-            .upsert({ user_id: userId, current_streak: 0, longest_streak: 0 }),
-        ]);
-        extras.forEach((result, index) => {
-          if (result.status === 'rejected') {
-            console.error(`❌ Extra upsert #${index} rejected:`, result.reason);
-          } else if (result.value?.error) {
-            console.error(`❌ Extra upsert #${index} error:`, result.value.error.message);
-          }
-        });
-      } else if (!userId) {
-        console.error(
-          '❌ No userId tras el pago: no se pudo crear/encontrar usuario en Supabase Auth. Revisa SUPABASE_SERVICE_ROLE_KEY.'
-        );
-      }
-
-      // Siempre enviar email; incluir contraseña solo si quedó aplicada en Auth
-      try {
-        const mailSent = await sendWelcomeEmail({
-          email: customerEmail,
-          name: firstName || 'Estudiante',
-          planName,
-          tempPassword: passwordReady ? generatedPassword : undefined,
-        });
-        console.log(
-          mailSent
-            ? `✅ Welcome email sent to: ${customerEmail} (passwordReady=${passwordReady})`
-            : `⚠️ Welcome email NOT sent to: ${customerEmail}`
-        );
-      } catch (mailErr: any) {
-        console.error('❌ Welcome email exception:', mailErr?.message || mailErr);
       }
 
       try {
         const contactId = await syncHubSpotContact({
-          email: customerEmail,
-          firstName,
-          lastName,
+          email: identity.email,
+          firstName: identity.firstName,
+          lastName: identity.lastName,
           extraProperties: {
-            subscription_plan: planId,
+            subscription_plan: identity.planId,
             subscription_status: 'active',
             lifecyclestage: 'customer',
           },
@@ -308,11 +83,12 @@ export async function POST(request: NextRequest) {
 
         if (contactId) {
           const ticketId = await createHubSpotTicket({
-            subject: `Nueva Suscripción: ${planName}`,
-            content: `El usuario ha completado el pago para el plan: ${planName}.
+            subject: `Nueva Suscripción: ${identity.planName}`,
+            content: `El usuario ha completado el pago para el plan: ${identity.planName}.
 ID de Sesión: ${session.id}
-Email: ${customerEmail}
-Nombre: ${displayName}`,
+Email: ${identity.email}
+Nombre: ${`${identity.firstName} ${identity.lastName}`.trim()}
+Provision: ok=${result.ok} userId=${result.userId || 'n/a'}`,
           });
 
           if (ticketId) {
