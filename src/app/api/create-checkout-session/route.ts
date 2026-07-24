@@ -62,7 +62,7 @@ export async function POST(request: NextRequest) {
             price_data: {
               currency: plan.currency,
               product_data: {
-                name: `Focus English - ${plan.name}`,
+                name: `Linguafly - ${plan.name}`,
                 description: `Plan ${plan.name} - ${plan.features[0]}`,
               },
               unit_amount: plan.price,
@@ -80,8 +80,8 @@ export async function POST(request: NextRequest) {
     const session = await stripe.checkout.sessions.create({
       line_items: lineItems,
       mode: 'subscription',
-      success_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/success?session_id={CHECKOUT_SESSION_ID}&next=/onboarding`,
-      cancel_url: `${process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'}/planes`,
+      success_url: `${(process.env.NEXT_PUBLIC_SITE_URL || 'https://linguafly.app').replace(/\/$/, '')}/success?session_id={CHECKOUT_SESSION_ID}&next=/onboarding`,
+      cancel_url: `${(process.env.NEXT_PUBLIC_SITE_URL || 'https://linguafly.app').replace(/\/$/, '')}/planes`,
       customer_email: email,
       metadata: {
         planId,

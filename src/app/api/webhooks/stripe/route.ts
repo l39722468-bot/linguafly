@@ -15,26 +15,126 @@ const stripe = process.env.STRIPE_SECRET_KEY
     })
   : null;
 
-async function findUserIdByEmail(email: string): Promise<string | undefined> {
+async function findAuthUserIdByEmail(email: string): Promise<string | undefined> {
   if (!supabaseAdmin) return undefined;
 
-  const { data: userData } = await supabaseAdmin
+  const normalized = email.toLowerCase().trim();
+
+  // 1) Tablas de app
+  const { data: userRow } = await supabaseAdmin
     .from('users')
     .select('id')
-    .eq('email', email)
+    .ilike('email', normalized)
     .maybeSingle();
-  if (userData?.id) return userData.id;
+  if (userRow?.id) return userRow.id;
 
-  const { data: profileData } = await supabaseAdmin
+  const { data: profileRow } = await supabaseAdmin
     .from('user_profiles')
     .select('user_id')
-    .eq('email', email)
+    .ilike('email', normalized)
     .maybeSingle();
-  if (profileData?.user_id) return profileData.user_id;
+  if (profileRow?.user_id) return profileRow.user_id;
 
-  // Fallback: buscar en Auth (paginado básico)
-  const { data } = await supabaseAdmin.auth.admin.listUsers({ perPage: 1000 });
-  return data?.users?.find((u) => u.email?.toLowerCase() === email.toLowerCase())?.id;
+  // 2) Auth Admin API filtrando por email (más fiable que listar 1000 usuarios)
+  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+  const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
+  if (supabaseUrl && serviceKey) {
+    try {
+      const res = await fetch(
+        `${supabaseUrl}/auth/v1/admin/users?email=${encodeURIComponent(normalized)}`,
+        {
+          headers: {
+            Authorization: `Bearer ${serviceKey}`,
+            apikey: serviceKey,
+          },
+          cache: 'no-store',
+        }
+      );
+      if (res.ok) {
+        const json = await res.json();
+        const users = Array.isArray(json?.users) ? json.users : Array.isArray(json) ? json : [];
+        const match = users.find(
+          (u: any) => String(u?.email || '').toLowerCase() === normalized
+        );
+        if (match?.id) return match.id;
+      } else {
+        console.warn('⚠️ Auth admin users?email lookup failed:', res.status);
+      }
+    } catch (err: any) {
+      console.warn('⚠️ Auth admin email lookup error:', err?.message || err);
+    }
+  }
+
+  // 3) Fallback paginado
+  for (let page = 1; page <= 5; page++) {
+    const { data, error } = await supabaseAdmin.auth.admin.listUsers({ page, perPage: 200 });
+    if (error) break;
+    const match = data?.users?.find((u) => u.email?.toLowerCase() === normalized);
+    if (match?.id) return match.id;
+    if (!data?.users?.length || data.users.length < 200) break;
+  }
+
+  return undefined;
+}
+
+async function ensureUserWithPassword(
+  email: string,
+  password: string,
+  firstName: string,
+  lastName: string
+): Promise<{ userId?: string; passwordReady: boolean }> {
+  if (!supabaseAdmin) {
+    console.error('❌ SUPABASE_SERVICE_ROLE_KEY no configurada');
+    return { passwordReady: false };
+  }
+
+  const displayName = `${firstName} ${lastName}`.trim() || 'Estudiante';
+
+  const { data: authData, error: authError } = await supabaseAdmin.auth.admin.createUser({
+    email,
+    password,
+    email_confirm: true,
+    user_metadata: {
+      full_name: displayName,
+      first_name: firstName,
+      last_name: lastName,
+    },
+  });
+
+  if (!authError && authData.user?.id) {
+    return { userId: authData.user.id, passwordReady: true };
+  }
+
+  const msg = (authError?.message || '').toLowerCase();
+  const alreadyExists =
+    msg.includes('already') ||
+    msg.includes('registered') ||
+    msg.includes('exists') ||
+    authError?.status === 422;
+
+  if (!alreadyExists) {
+    console.error('❌ Auth createUser error:', authError?.message);
+    return { passwordReady: false };
+  }
+
+  console.log('ℹ️ Usuario ya existía; buscando ID y actualizando contraseña...');
+  const userId = await findAuthUserIdByEmail(email);
+  if (!userId) {
+    console.error('❌ No se encontró el usuario existente por email:', email);
+    return { passwordReady: false };
+  }
+
+  const { error: updErr } = await supabaseAdmin.auth.admin.updateUserById(userId, {
+    password,
+    email_confirm: true,
+  });
+
+  if (updErr) {
+    console.error('❌ Error actualizando contraseña:', updErr.message);
+    return { userId, passwordReady: false };
+  }
+
+  return { userId, passwordReady: true };
 }
 
 export async function POST(request: NextRequest) {
@@ -88,121 +188,78 @@ export async function POST(request: NextRequest) {
 
       const generatedPassword = crypto.randomBytes(12).toString('hex') + '!';
       let userId: string | undefined;
-      let credentialsReady = false;
+      let passwordReady = false;
 
-      if (!supabaseAdmin) {
-        console.error(
-          '❌ SUPABASE_SERVICE_ROLE_KEY no configurada: no se puede crear usuario ni enviar claves'
+      try {
+        const ensured = await ensureUserWithPassword(
+          customerEmail,
+          generatedPassword,
+          firstName,
+          lastName
         );
-      } else {
-        try {
-          const { data: authData, error: authError } = await supabaseAdmin.auth.admin.createUser({
-            email: customerEmail,
-            password: generatedPassword,
-            email_confirm: true,
-            user_metadata: {
-              full_name: displayName,
-              first_name: firstName,
-              last_name: lastName,
-            },
-          });
-
-          if (authError) {
-            const errorMsg = authError.message.toLowerCase();
-            if (
-              errorMsg.includes('already') ||
-              errorMsg.includes('registered') ||
-              authError.status === 422
-            ) {
-              console.log('ℹ️ User already exists, updating password...');
-              userId = await findUserIdByEmail(customerEmail);
-              if (userId) {
-                const { error: updErr } = await supabaseAdmin.auth.admin.updateUserById(userId, {
-                  password: generatedPassword,
-                });
-                if (updErr) {
-                  console.error('❌ Error updating password:', updErr.message);
-                } else {
-                  credentialsReady = true;
-                  console.log('✅ Password updated for existing user:', userId);
-                }
-              } else {
-                console.error('❌ Existing user not found by email:', customerEmail);
-              }
-            } else {
-              console.error('❌ Auth Error:', authError.message);
-            }
-          } else if (authData.user) {
-            userId = authData.user.id;
-            credentialsReady = true;
-            console.log('✅ User created:', userId);
-          }
-
-          if (userId) {
-            console.log('🔄 Updating user data for:', userId);
-
-            // Upserts independientes: un fallo no debe impedir el email
-            const upserts = await Promise.allSettled([
-              supabaseAdmin.from('users').upsert({
-                id: userId,
-                email: customerEmail,
-                name: displayName,
-                language_level: session.metadata?.currentLevel?.toUpperCase() || 'A1',
-                updated_at: new Date().toISOString(),
-              }),
-              supabaseAdmin.from('user_profiles').upsert(
-                {
-                  user_id: userId,
-                  email: customerEmail,
-                  name: displayName,
-                  subscription_status: 'active',
-                  subscription_plan: planId,
-                  subscription_start_date: new Date().toISOString(),
-                },
-                { onConflict: 'user_id' }
-              ),
-              supabaseAdmin.from('user_stats').upsert({ user_id: userId, level: 1 }),
-              supabaseAdmin
-                .from('user_xp')
-                .upsert({ user_id: userId, total_xp: 0, level: 1, xp_to_next_level: 100 }),
-              supabaseAdmin
-                .from('user_streaks')
-                .upsert({ user_id: userId, current_streak: 0, longest_streak: 0 }),
-            ]);
-
-            upserts.forEach((result, index) => {
-              if (result.status === 'rejected') {
-                console.error(`❌ Upsert #${index} rejected:`, result.reason);
-              } else if (result.value?.error) {
-                console.error(`❌ Upsert #${index} error:`, result.value.error.message);
-              }
-            });
-          }
-        } catch (err: any) {
-          console.error('❌ Supabase error:', err.message);
-        }
+        userId = ensured.userId;
+        passwordReady = ensured.passwordReady;
+      } catch (err: any) {
+        console.error('❌ ensureUserWithPassword error:', err?.message || err);
       }
 
-      // El correo de bienvenida se intenta SIEMPRE tras el pago
+      if (userId && supabaseAdmin) {
+        console.log('🔄 Updating user data for:', userId);
+        const upserts = await Promise.allSettled([
+          supabaseAdmin.from('users').upsert({
+            id: userId,
+            email: customerEmail,
+            name: displayName,
+            language_level: session.metadata?.currentLevel?.toUpperCase() || 'A1',
+            updated_at: new Date().toISOString(),
+          }),
+          supabaseAdmin.from('user_profiles').upsert(
+            {
+              user_id: userId,
+              email: customerEmail,
+              name: displayName,
+              subscription_status: 'active',
+              subscription_plan: planId,
+              subscription_start_date: new Date().toISOString(),
+            },
+            { onConflict: 'user_id' }
+          ),
+          supabaseAdmin.from('user_stats').upsert({ user_id: userId, level: 1 }),
+          supabaseAdmin
+            .from('user_xp')
+            .upsert({ user_id: userId, total_xp: 0, level: 1, xp_to_next_level: 100 }),
+          supabaseAdmin
+            .from('user_streaks')
+            .upsert({ user_id: userId, current_streak: 0, longest_streak: 0 }),
+        ]);
+
+        upserts.forEach((result, index) => {
+          if (result.status === 'rejected') {
+            console.error(`❌ Upsert #${index} rejected:`, result.reason);
+          } else if (result.value?.error) {
+            console.error(`❌ Upsert #${index} error:`, result.value.error.message);
+          }
+        });
+      }
+
+      // Siempre enviar email; incluir contraseña solo si quedó aplicada en Auth
       try {
         const mailSent = await sendWelcomeEmail({
           email: customerEmail,
           name: firstName || 'Estudiante',
           planName,
-          tempPassword: credentialsReady ? generatedPassword : undefined,
+          tempPassword: passwordReady ? generatedPassword : undefined,
         });
         console.log(
           mailSent
-            ? `✅ Welcome email sent to: ${customerEmail}`
+            ? `✅ Welcome email sent to: ${customerEmail} (passwordReady=${passwordReady})`
             : `⚠️ Welcome email NOT sent to: ${customerEmail}`
         );
       } catch (mailErr: any) {
         console.error('❌ Welcome email exception:', mailErr?.message || mailErr);
       }
 
-      // HubSpot (no bloquea el email)
       try {
-        console.warn(`Syncing subscription to HubSpot for: ${customerEmail}`);
         const contactId = await syncHubSpotContact({
           email: customerEmail,
           firstName,
@@ -225,7 +282,6 @@ Nombre: ${displayName}`,
 
           if (ticketId) {
             await associateTicketWithContact(ticketId, contactId);
-            console.log(`✅ HubSpot ticket ${ticketId} created for subscription`);
           }
         }
       } catch (err: any) {
