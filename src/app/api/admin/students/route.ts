@@ -111,9 +111,20 @@ export async function GET() {
       });
     }
 
-    const byId = new Map<string, StudentRow>(profileStudents.map((s) => [s.id, s]));
+    const authIdByEmail = new Map<string, string>();
+    for (const u of authUsers) {
+      const email = (u.email ?? '').trim().toLowerCase();
+      if (email) authIdByEmail.set(email, u.id);
+    }
+
+    const normalizedProfileStudents: StudentRow[] = profileStudents.map((s) => {
+      const authId = s.email ? authIdByEmail.get(s.email) : undefined;
+      return authId && authId !== s.id ? { ...s, id: authId } : s;
+    });
+
+    const byId = new Map<string, StudentRow>(normalizedProfileStudents.map((s) => [s.id, s]));
     const byEmail = new Map<string, StudentRow>();
-    for (const s of profileStudents) {
+    for (const s of normalizedProfileStudents) {
       if (s.email) byEmail.set(s.email, s);
     }
 
@@ -145,7 +156,7 @@ export async function GET() {
 
     return NextResponse.json({
       students: merged,
-      counts: { total: merged.length, fromProfiles: profileStudents.length },
+      counts: { total: merged.length, fromProfiles: normalizedProfileStudents.length },
     });
   } catch (error) {
     console.error('[admin/students] API error:', error);

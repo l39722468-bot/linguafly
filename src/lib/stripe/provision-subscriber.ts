@@ -2,6 +2,9 @@ import Stripe from 'stripe';
 import { supabaseAdmin } from '@/lib/supabase/client';
 import { sendWelcomeEmail } from '@/lib/email-service';
 import { generateTempPassword } from '@/lib/auth/temp-password';
+import { findAuthUserIdByEmail } from '@/lib/auth/find-auth-user';
+
+export { findAuthUserIdByEmail };
 
 /** Valores permitidos por el CHECK de user_profiles.subscription_plan */
 export function mapSubscriptionPlanToAllowedValue(
@@ -12,65 +15,6 @@ export function mapSubscriptionPlanToAllowedValue(
   if (v.startsWith('basic')) return 'basic';
   if (v.startsWith('premium')) return 'premium';
   return 'premium';
-}
-
-export async function findAuthUserIdByEmail(email: string): Promise<string | undefined> {
-  if (!supabaseAdmin) return undefined;
-
-  const normalized = email.toLowerCase().trim();
-
-  const { data: userRow } = await supabaseAdmin
-    .from('users')
-    .select('id')
-    .ilike('email', normalized)
-    .maybeSingle();
-  if (userRow?.id) return userRow.id;
-
-  const { data: profileRow } = await supabaseAdmin
-    .from('user_profiles')
-    .select('user_id')
-    .ilike('email', normalized)
-    .maybeSingle();
-  if (profileRow?.user_id) return profileRow.user_id;
-
-  const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
-  const serviceKey = process.env.SUPABASE_SERVICE_ROLE_KEY;
-  if (supabaseUrl && serviceKey) {
-    try {
-      const res = await fetch(
-        `${supabaseUrl}/auth/v1/admin/users?email=${encodeURIComponent(normalized)}`,
-        {
-          headers: {
-            Authorization: `Bearer ${serviceKey}`,
-            apikey: serviceKey,
-          },
-          cache: 'no-store',
-        }
-      );
-      if (res.ok) {
-        const json = await res.json();
-        const users = Array.isArray(json?.users) ? json.users : Array.isArray(json) ? json : [];
-        const match = users.find(
-          (u: { email?: string; id?: string }) =>
-            String(u?.email || '').toLowerCase() === normalized
-        );
-        if (match?.id) return match.id;
-      }
-    } catch (err: unknown) {
-      const message = err instanceof Error ? err.message : String(err);
-      console.warn('⚠️ Auth admin email lookup error:', message);
-    }
-  }
-
-  for (let page = 1; page <= 20; page++) {
-    const { data, error } = await supabaseAdmin.auth.admin.listUsers({ page, perPage: 200 });
-    if (error) break;
-    const match = data?.users?.find((u) => u.email?.toLowerCase() === normalized);
-    if (match?.id) return match.id;
-    if (!data?.users?.length || data.users.length < 200) break;
-  }
-
-  return undefined;
 }
 
 async function ensureUserWithPassword(
