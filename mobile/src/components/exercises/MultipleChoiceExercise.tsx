@@ -1,7 +1,7 @@
 import { Pressable, StyleSheet, Text, View } from 'react-native';
-import { parseBilingual, optionLabel } from '../utils/bilingual';
-import type { ExerciseQuestion } from '../types/exercise';
-import { shared } from '../theme';
+import { parseBilingual, optionLabel } from '../../utils/bilingual';
+import type { ExerciseQuestion } from '../../types/exercise';
+import { shared } from '../../theme';
 
 type Props = {
   question: ExerciseQuestion;
