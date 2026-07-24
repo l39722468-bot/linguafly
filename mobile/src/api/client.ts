@@ -18,6 +18,16 @@ export type MobileUnitPayload = {
   exercises: unknown[];
 };
 
+export type MobileRecordProgressBody = {
+  courseId: string;
+  unitId: number;
+  lessonKey: string;
+  exerciseId: string;
+  exerciseType: string;
+  isCorrect: boolean;
+  expectedExercisesTotal?: number;
+};
+
 export class FocusEnglishApi {
   constructor(
     private readonly getAccessToken: () => Promise<string | null>
@@ -50,5 +60,12 @@ export class FocusEnglishApi {
     return this.request<MobileUnitPayload>(
       `/api/mobile/v1/course/${courseId}/units/${encodeURIComponent(unitId)}`
     );
+  }
+
+  recordProgress(body: MobileRecordProgressBody) {
+    return this.request<{ ok: boolean }>('/api/mobile/v1/progress/record', {
+      method: 'POST',
+      body: JSON.stringify(body),
+    });
   }
 }

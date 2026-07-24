@@ -1,50 +1,52 @@
-# Focus English — App móvil (Expo)
+# App móvil — React Native (Expo)
 
-Scaffold inicial para Android e iOS. Consume la API móvil del backend Next.js.
-
-## Requisitos
-
-- Node.js 20+
-- Expo Go (desarrollo) o EAS Build (producción)
-
-## Configuración
+## Inicio rápido
 
 ```bash
+# Terminal 1 — backend
+cd ..
+npm run dev
+
+# Terminal 2 — app
 cd mobile
-npm install
 cp .env.example .env
-```
-
-Edita `.env`:
-
-```env
-EXPO_PUBLIC_API_URL=https://tu-backend.com
-EXPO_PUBLIC_SUPABASE_URL=...
-EXPO_PUBLIC_SUPABASE_ANON_KEY=...
-```
-
-## Desarrollo
-
-```bash
+npm install
 npm start
 ```
 
-- Pulsa `a` para Android emulator
-- Pulsa `i` para iOS simulator (macOS)
+## Pantallas
 
-Asegúrate de que el backend Next.js está corriendo (`npm run dev` en la raíz).
+- **Inicio** — botón «Empezar a aprender»
+- **Reproductor de unidad** — ejercicios secuenciales con barra de progreso
+- **Completado** — avance automático a la siguiente unidad
+
+## Tipos de ejercicio soportados
+
+| Tipo | Estado |
+|------|--------|
+| `multiple-choice` | ✅ |
+| `true-false` | ✅ |
+| `fill-blank` | ✅ |
+| `reading` / `reading-comprehension` | ✅ |
+| `listening` / `listening-comprehension` | ✅ (audio remoto o transcripción) |
+| Otros (writing, speaking, drag-drop…) | ⏭️ Saltar por ahora |
 
 ## Estructura
 
 ```
-mobile/
-  App.tsx              # Pantalla demo (carga unidad activa vía API)
-  src/
-    api/client.ts      # Cliente HTTP
-    config.ts          # Variables de entorno
-    supabase.ts        # Auth Supabase
+mobile/src/
+  api/client.ts           # Cliente HTTP
+  components/
+    ExerciseRenderer.tsx  # Dispatcher de ejercicios
+    exercises/            # UI por tipo
+  screens/
+    UnitPlayerScreen.tsx  # Sesión de unidad completa
+  utils/
+    bilingual.ts          # Marcadores [[en|es]]
+    exercise-eval.ts      # Corrección local
+    lesson-progress.ts    # Claves de progreso
 ```
 
-## Documentación completa
+## Documentación API
 
-Ver `../docs/mobile-app.md` en la raíz del repositorio.
+Ver `../docs/mobile-app.md`

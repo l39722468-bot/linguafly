@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import {
   ActivityIndicator,
   Pressable,
@@ -10,27 +10,39 @@ import {
 } from 'react-native';
 import { FocusEnglishApi } from './src/api/client';
 import { DEFAULT_COURSE_ID } from './src/config';
+import { UnitPlayerScreen } from './src/screens/UnitPlayerScreen';
 import { getAccessToken } from './src/supabase';
+import { colors, shared } from './src/theme';
 
 const api = new FocusEnglishApi(getAccessToken);
 
-export default function App() {
-  const [loading, setLoading] = useState(true);
-  const [error, setError] = useState<string | null>(null);
-  const [title, setTitle] = useState('Focus English');
-  const [subtitle, setSubtitle] = useState('Preparando tu lección…');
-  const [exerciseCount, setExerciseCount] = useState(0);
+type Screen = 'home' | 'player';
 
-  async function loadCurrentUnit() {
+export default function App() {
+  const [screen, setScreen] = useState<Screen>('home');
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [preview, setPreview] = useState<{
+    title: string;
+    unitNumber: number;
+    totalUnits: number;
+    exerciseCount: number;
+  } | null>(null);
+
+  async function prepareSession() {
     setLoading(true);
     setError(null);
     try {
       const catalog = await api.getCourseCatalog(DEFAULT_COURSE_ID);
       const unitId = `unit-${catalog.sequential.currentUnitNumber}`;
       const unit = await api.getUnit(DEFAULT_COURSE_ID, unitId);
-      setTitle(unit.title);
-      setSubtitle(`Unidad ${catalog.sequential.currentUnitNumber} · ${catalog.totalUnits} en total`);
-      setExerciseCount(unit.exerciseCount);
+      setPreview({
+        title: unit.title,
+        unitNumber: catalog.sequential.currentUnitNumber,
+        totalUnits: catalog.totalUnits,
+        exerciseCount: unit.exerciseCount,
+      });
+      setScreen('player');
     } catch (err) {
       setError(err instanceof Error ? err.message : 'Error al cargar el curso');
     } finally {
@@ -38,67 +50,71 @@ export default function App() {
     }
   }
 
-  useEffect(() => {
-    loadCurrentUnit();
-  }, []);
+  if (screen === 'player') {
+    return <UnitPlayerScreen onExit={() => setScreen('home')} />;
+  }
 
   return (
     <SafeAreaView style={styles.safe}>
       <ScrollView contentContainerStyle={styles.container}>
-        <Text style={styles.brand}>Focus English</Text>
-        <Text style={styles.heading}>{title}</Text>
-        <Text style={styles.subtitle}>{subtitle}</Text>
+        <Text style={styles.brand}>FOCUS ENGLISH</Text>
+        <Text style={styles.heading}>Tu curso de inglés</Text>
+        <Text style={styles.subtitle}>
+          Aprende unidad a unidad con ejercicios interactivos en tu móvil.
+        </Text>
 
-        {loading ? (
-          <ActivityIndicator size="large" color="#FF6B6B" style={styles.loader} />
-        ) : error ? (
+        {preview ? (
           <View style={styles.card}>
-            <Text style={styles.error}>{error}</Text>
-            <Pressable style={styles.button} onPress={loadCurrentUnit}>
-              <Text style={styles.buttonText}>Reintentar</Text>
-            </Pressable>
-          </View>
-        ) : (
-          <View style={styles.card}>
-            <Text style={styles.cardTitle}>API móvil conectada</Text>
-            <Text style={styles.cardBody}>
-              {exerciseCount} ejercicios listos para el reproductor nativo.
-            </Text>
-            <Text style={styles.hint}>
-              Siguiente paso: implementar pantallas de ejercicios en React Native.
+            <Text style={styles.cardLabel}>Última sesión</Text>
+            <Text style={styles.cardTitle}>{preview.title}</Text>
+            <Text style={styles.cardMeta}>
+              Unidad {preview.unitNumber} · {preview.exerciseCount} ejercicios
             </Text>
           </View>
-        )}
+        ) : null}
+
+        {error ? <Text style={styles.error}>{error}</Text> : null}
+
+        <Pressable
+          style={[shared.primaryButton, loading && shared.disabledButton]}
+          disabled={loading}
+          onPress={prepareSession}
+        >
+          {loading ? (
+            <ActivityIndicator color="#fff" />
+          ) : (
+            <Text style={shared.primaryButtonText}>Empezar a aprender</Text>
+          )}
+        </Pressable>
+
+        <View style={styles.features}>
+          <Text style={styles.feature}>✓ Opción múltiple y completar huecos</Text>
+          <Text style={styles.feature}>✓ Lectura y escucha</Text>
+          <Text style={styles.feature}>✓ Progreso sincronizado con la web</Text>
+        </View>
       </ScrollView>
     </SafeAreaView>
   );
 }
 
 const styles = StyleSheet.create({
-  safe: { flex: 1, backgroundColor: '#f8fafc' },
-  container: { padding: 24, gap: 12 },
-  brand: { color: '#FF6B6B', fontWeight: '800', fontSize: 14, letterSpacing: 1 },
-  heading: { fontSize: 28, fontWeight: '900', color: '#0f172a' },
-  subtitle: { fontSize: 16, color: '#64748b', marginBottom: 12 },
-  loader: { marginTop: 24 },
+  safe: { flex: 1, backgroundColor: colors.bg },
+  container: { padding: 24, gap: 16 },
+  brand: { color: colors.primary, fontWeight: '800', fontSize: 13, letterSpacing: 2 },
+  heading: { fontSize: 32, fontWeight: '900', color: colors.text },
+  subtitle: { fontSize: 16, color: colors.muted, lineHeight: 24, marginBottom: 8 },
   card: {
     backgroundColor: '#fff',
     borderRadius: 20,
-    padding: 20,
+    padding: 18,
     borderWidth: 1,
-    borderColor: '#e2e8f0',
-    gap: 10,
+    borderColor: colors.border,
+    gap: 4,
   },
-  cardTitle: { fontSize: 18, fontWeight: '800', color: '#0f172a' },
-  cardBody: { fontSize: 15, color: '#334155', lineHeight: 22 },
-  hint: { fontSize: 13, color: '#94a3b8' },
-  error: { color: '#dc2626', fontSize: 15 },
-  button: {
-    marginTop: 8,
-    backgroundColor: '#0f172a',
-    borderRadius: 14,
-    paddingVertical: 14,
-    alignItems: 'center',
-  },
-  buttonText: { color: '#fff', fontWeight: '800' },
+  cardLabel: { fontSize: 12, fontWeight: '800', color: colors.muted, textTransform: 'uppercase' },
+  cardTitle: { fontSize: 18, fontWeight: '800', color: colors.text },
+  cardMeta: { fontSize: 14, color: colors.muted },
+  error: { color: colors.error, fontSize: 14 },
+  features: { marginTop: 8, gap: 8 },
+  feature: { fontSize: 14, color: '#334155' },
 });
