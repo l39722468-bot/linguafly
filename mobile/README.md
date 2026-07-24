@@ -1,4 +1,6 @@
-# App móvil — React Native (Expo)
+# App móvil — React Native (Expo SDK 54)
+
+> Compatible con **Expo Go** actual (SDK 54). Si Expo Go pide otra versión de SDK, ejecuta `git pull` y `npm install` en `mobile/`.
 
 ## Inicio rápido
 
