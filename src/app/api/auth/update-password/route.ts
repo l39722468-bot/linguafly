@@ -4,9 +4,6 @@ import { supabaseAdmin } from '@/lib/supabase/client';
 
 export const runtime = 'nodejs';
 
-/** Símbolos que acepta Supabase Auth en la política de “symbols”. */
-const ALLOWED_SYMBOLS = `!@#$%^&*()_+-=[]{};':"|<>?,./\`~`;
-
 function validatePassword(password: string): string | null {
   if (typeof password !== 'string' || password.length < 8) {
     return 'La contraseña debe tener al menos 8 caracteres.';
@@ -14,22 +11,10 @@ function validatePassword(password: string): string | null {
   if (password.length > 72) {
     return 'La contraseña no puede superar 72 caracteres.';
   }
-  // Evita caracteres “invisibles” o no ASCII que a veces pegan los gestores
-  // y provocan rechazos confusos en Auth.
+  // Gestores de contraseñas a veces pegan caracteres invisibles / no ASCII
+  // y Auth responde con mensajes confusos (“alfanuméricos o símbolos”).
   if (/[^\x20-\x7E]/.test(password)) {
-    return 'Usa solo letras, números y símbolos del teclado (sin acentos ni emojis).';
-  }
-  if (!/[a-z]/.test(password)) {
-    return 'Incluye al menos una letra minúscula (a-z).';
-  }
-  if (!/[A-Z]/.test(password)) {
-    return 'Incluye al menos una letra mayúscula (A-Z).';
-  }
-  if (!/[0-9]/.test(password)) {
-    return 'Incluye al menos un número (0-9).';
-  }
-  if (![...ALLOWED_SYMBOLS].some((s) => password.includes(s))) {
-    return `Incluye al menos un símbolo, por ejemplo: ! @ # $ %`;
+    return 'Usa solo letras, números y símbolos del teclado (sin acentos ni emojis). Ejemplo: MiClave2026!';
   }
   return null;
 }

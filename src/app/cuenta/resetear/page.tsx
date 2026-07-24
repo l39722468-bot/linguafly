@@ -21,18 +21,6 @@ function validatePasswordLocal(password: string, confirmPassword: string): strin
   if (/[^\x20-\x7E]/.test(password)) {
     return 'Usa solo letras, números y símbolos normales (sin acentos ni emojis). Ejemplo: MiClave2026!';
   }
-  if (!/[a-z]/.test(password)) {
-    return 'Incluye al menos una letra minúscula (a-z).';
-  }
-  if (!/[A-Z]/.test(password)) {
-    return 'Incluye al menos una letra mayúscula (A-Z).';
-  }
-  if (!/[0-9]/.test(password)) {
-    return 'Incluye al menos un número (0-9).';
-  }
-  if (![...ALLOWED_SYMBOLS].some((s) => password.includes(s))) {
-    return 'Incluye al menos un símbolo, por ejemplo: ! @ # $ %';
-  }
   if (password !== confirmPassword) {
     return 'Las contraseñas no coinciden.';
   }
