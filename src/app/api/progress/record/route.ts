@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { createClient } from '@/lib/supabase/server';
+import { getMobileAuth } from '@/lib/api/mobile-auth';
 import { supabaseAdmin } from '@/lib/supabase/client';
 import { completeWorldExercise } from '@/lib/world-progress';
 
@@ -16,10 +16,7 @@ type ProgressRecordBody = {
 
 export async function POST(request: NextRequest) {
   try {
-    const supabase = await createClient();
-    const {
-      data: { user },
-    } = await supabase.auth.getUser();
+    const { supabase, user } = await getMobileAuth(request);
     if (!user) return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
 
     const body = (await request.json().catch(() => ({}))) as Partial<ProgressRecordBody>;

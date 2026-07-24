@@ -1,4 +1,4 @@
-import { createClient } from '@/lib/supabase/server';
+import { getMobileAuth } from '@/lib/api/mobile-auth';
 import { NextRequest, NextResponse } from 'next/server';
 import { supabaseAdmin } from '@/lib/supabase/client';
 import { defaultLessonKey } from '@/lib/progress/aggregate';
@@ -25,10 +25,7 @@ function normalizeUnitId(unitId: number | string): number {
 
 export async function POST(request: NextRequest) {
   try {
-    const supabase = await createClient();
-    const {
-      data: { user },
-    } = await supabase.auth.getUser();
+    const { supabase, user } = await getMobileAuth(request);
 
     if (!user) {
       return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });

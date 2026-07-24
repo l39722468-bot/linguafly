@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Focus English",
+    "slug": "focus-english",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "focusenglish",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0f172a"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.focusonenglish.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0f172a"
+      },
+      "package": "com.focusonenglish.app"
+    },
+    "extra": {
+      "apiUrl": "http://localhost:5436",
+      "eas": {
+        "projectId": "replace-with-eas-project-id"
+      }
+    }
+  }
+}
