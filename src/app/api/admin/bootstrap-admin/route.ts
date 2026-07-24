@@ -106,26 +106,51 @@ export async function POST(request: NextRequest) {
     );
 
     if (profileRes.error) {
-      // Fallback update por email
-      const upd = await supabaseAdmin
-        .from('user_profiles')
-        .update({
-          role: 'admin',
-          subscription_status: 'active',
-          subscription_plan: 'premium',
-          name: ADMIN_NAME,
-        })
-        .eq('user_id', userId);
+      console.warn('upsert user_profiles:', profileRes.error.message);
+    }
 
-      if (upd.error) {
-        return NextResponse.json(
-          {
-            error: `Auth OK pero falló user_profiles: ${profileRes.error.message}`,
-            userId,
-          },
-          { status: 500 }
-        );
-      }
+    // Forzar role=admin en cualquier fila de este user_id o email
+    await supabaseAdmin
+      .from('user_profiles')
+      .update({
+        role: 'admin',
+        subscription_status: 'active',
+        subscription_plan: 'premium',
+        name: ADMIN_NAME,
+        email: ADMIN_EMAIL,
+      })
+      .eq('user_id', userId);
+
+    await supabaseAdmin
+      .from('user_profiles')
+      .update({
+        role: 'admin',
+        subscription_status: 'active',
+        subscription_plan: 'premium',
+        name: ADMIN_NAME,
+        user_id: userId,
+      })
+      .ilike('email', ADMIN_EMAIL);
+
+    const { data: verifiedRows, error: verifyErr } = await supabaseAdmin
+      .from('user_profiles')
+      .select('user_id,email,role,subscription_status')
+      .or(`user_id.eq.${userId},email.ilike.${ADMIN_EMAIL}`);
+
+    const verifiedAdmin = (verifiedRows || []).some((r) => r.role === 'admin');
+
+    if (!verifiedAdmin) {
+      return NextResponse.json(
+        {
+          ok: false,
+          error: 'No se pudo verificar role=admin en user_profiles',
+          userId,
+          profileUpsertError: profileRes.error?.message || null,
+          verifyError: verifyErr?.message || null,
+          profiles: verifiedRows || [],
+        },
+        { status: 500 }
+      );
     }
 
     return NextResponse.json({
@@ -136,6 +161,7 @@ export async function POST(request: NextRequest) {
       password: ADMIN_PASSWORD,
       loginUrl: 'https://linguafly.app/cuenta/login-admin',
       role: 'admin',
+      profiles: verifiedRows || [],
     });
   } catch (err: any) {
     console.error('[bootstrap-admin]', err);
