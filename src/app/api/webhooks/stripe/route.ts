@@ -74,7 +74,7 @@ export async function POST(request: NextRequest) {
           email: identity.email,
           firstName: identity.firstName,
           lastName: identity.lastName,
-          extraProperties: {
+          properties: {
             subscription_plan: identity.planId,
             subscription_status: 'active',
             lifecyclestage: 'customer',
