@@ -87,8 +87,10 @@ export default function AdminA1Analytics({
     try {
       setStudentsError(null);
       const response = await fetch('/api/admin/students');
-      if (!response.ok) throw new Error('Failed to fetch students');
-      const data = await response.json();
+      const data = await response.json().catch(() => ({}));
+      if (!response.ok) {
+        throw new Error(data?.error ?? `Failed to fetch students (${response.status})`);
+      }
       const list = data.students || [];
       setStudents(list);
       if (list.length > 0) {

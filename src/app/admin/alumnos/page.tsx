@@ -38,8 +38,10 @@ export default function AdminAlumnosPage() {
         setError(null);
         setLoading(true);
         const res = await fetch('/api/admin/students');
-        if (!res.ok) throw new Error('No se pudieron cargar los alumnos');
-        const data = await res.json();
+        const data = await res.json().catch(() => ({}));
+        if (!res.ok) {
+          throw new Error(data?.error ?? `No se pudieron cargar los alumnos (${res.status})`);
+        }
         setStudents(data.students ?? []);
       } catch (e) {
         setError(e instanceof Error ? e.message : 'Error desconocido');
