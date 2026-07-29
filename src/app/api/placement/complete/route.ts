@@ -32,12 +32,12 @@ export async function POST(request: NextRequest) {
 
     const { data: byIdProfile } = await supabase
       .from("user_profiles")
-      .select("learning_goals")
+      .select("learning_goals, language_level, last_seen_path")
       .eq("id", user.id)
       .maybeSingle();
     const { data: byUserIdProfile } = await supabase
       .from("user_profiles")
-      .select("learning_goals")
+      .select("learning_goals, language_level, last_seen_path")
       .eq("user_id", user.id)
       .maybeSingle();
     const profile = byIdProfile ?? byUserIdProfile;
@@ -47,9 +47,14 @@ export async function POST(request: NextRequest) {
       : [];
 
     const mergedGoals = Array.from(new Set([...existingGoals, "placement_completed"]));
+    const hasAdminAssignment = Boolean(profile?.last_seen_path?.trim());
+    const existingLevel = normalizeLevel(
+      typeof profile?.language_level === "string" ? profile.language_level : undefined
+    );
 
     const payload = {
-      language_level: level,
+      language_level: hasAdminAssignment && existingLevel ? existingLevel : level,
+      placement_completed: true,
       learning_goals: mergedGoals,
       updated_at: new Date().toISOString(),
     };
@@ -88,7 +93,10 @@ export async function POST(request: NextRequest) {
 
     const { error: userError } = await supabase
       .from("users")
-      .update({ language_level: level, updated_at: new Date().toISOString() })
+      .update({
+        language_level: hasAdminAssignment && existingLevel ? existingLevel : level,
+        updated_at: new Date().toISOString(),
+      })
       .eq("id", user.id);
 
     if (userError) {

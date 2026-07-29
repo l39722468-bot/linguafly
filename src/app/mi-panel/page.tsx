@@ -6,6 +6,7 @@ import LearningGoalSelector from '@/components/panel/LearningGoalSelector';
 import WorldMapPanel from '@/components/panel/WorldMapPanel';
 import { resolveEntitlements } from '@/lib/access/entitlements';
 import { getUserProfileByAuthId } from '@/lib/access/user-profile';
+import { parseLastSeenPath } from '@/lib/access/parse-last-seen-path';
 
 export const dynamic = 'force-dynamic';
 
@@ -80,15 +81,24 @@ export default async function MiPanelPage({
 
   if (shouldPersistFromQuery && levelFromQuery) {
     const nowIso = new Date().toISOString();
-    const currentProfile = await getUserProfileByAuthId<any>(supabase, user.id, 'id,user_id,learning_goals');
+    const currentProfile = await getUserProfileByAuthId<any>(
+      supabase,
+      user.id,
+      'id,user_id,learning_goals,language_level,last_seen_path'
+    );
 
     const currentGoals = Array.isArray(currentProfile?.learning_goals)
       ? (currentProfile.learning_goals as string[])
       : [];
     const mergedGoals = Array.from(new Set([...currentGoals, 'placement_completed']));
+    const hasAdminAssignment = Boolean(currentProfile?.last_seen_path?.trim());
+    const existingLevel = normalizeLevel(currentProfile?.language_level as string | undefined);
+    const resolvedLevel =
+      hasAdminAssignment && existingLevel ? existingLevel : levelFromQuery;
     const basePayload = {
       user_id: user.id,
-      language_level: levelFromQuery,
+      language_level: resolvedLevel,
+      placement_completed: true,
       learning_goals: mergedGoals,
       updated_at: nowIso,
     };
@@ -110,11 +120,16 @@ export default async function MiPanelPage({
     // No bloqueamos render del panel si esta tabla no existe para este usuario.
     await supabase
       .from('users')
-      .update({ language_level: levelFromQuery, updated_at: nowIso })
+      .update({ language_level: resolvedLevel, updated_at: nowIso })
       .eq('id', user.id);
   }
 
   const profile = await getUserProfileByAuthId<any>(supabase, user.id, '*');
+  const assignedCourse = parseLastSeenPath(profile?.last_seen_path as string | undefined);
+
+  if (shouldPersistFromQuery && assignedCourse) {
+    redirect(assignedCourse.coursePath + '/' + assignedCourse.unitSlug);
+  }
 
   const { data: lessonProgress } = await supabase
     .from('user_lesson_progress')
@@ -180,6 +195,9 @@ export default async function MiPanelPage({
     shouldPersistFromQuery;
   const selectedGoal = (learningGoals.find((goal) => goal === 'travel' || goal === 'professional' || goal === 'general') ?? 'general') as Goal;
   const recommendedOfficialCourses = OFFICIAL_COURSE_BY_LEVEL[languageLevel] ?? OFFICIAL_COURSE_BY_LEVEL.A1;
+  const primaryCourseHref = assignedCourse
+    ? `${assignedCourse.coursePath}/${assignedCourse.unitSlug}`
+    : (recommendedOfficialCourses[0]?.href || '/curso-a1/outline');
 
   const blockAccess = {
     officialCourses: (entitlements.officialCourses ? 'included' : 'blocked') as AccessState,
@@ -243,7 +261,7 @@ export default async function MiPanelPage({
           )}
 
           <section className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-5 gap-4">
-            <Link href={hasPlacementCompleted ? (recommendedOfficialCourses[0]?.href || "/curso-a1/outline") : "/test-nivel?source=panel&next=/mi-panel"} className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
+            <Link href={hasPlacementCompleted ? primaryCourseHref : "/test-nivel?source=panel&next=/mi-panel"} className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
               <div className="text-lg font-black text-slate-900">Mis cursos</div>
               <div className="text-sm text-slate-600 mt-1">
                 {hasPlacementCompleted

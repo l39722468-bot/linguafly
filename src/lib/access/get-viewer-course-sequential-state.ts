@@ -3,6 +3,7 @@ import { getUserProfileByAuthId } from "@/lib/access/user-profile";
 import { resolveEntitlements } from "@/lib/access/entitlements";
 import { syncPaidEntitlementFromStripe } from "@/lib/stripe/provision-subscriber";
 import { aggregateLessonProgressByUnit, mapA1ProgressRows, mergeUnitProgress } from "@/lib/progress/aggregate";
+import { parseLastSeenPath } from "@/lib/access/parse-last-seen-path";
 import {
   getCurrentUnitNumber,
   parseUnitNumber,
@@ -93,6 +94,27 @@ export async function assertSequentialUnitAccess(params: {
 
   const state = await getViewerCourseSequentialState(courseId, totalUnits);
   if (!state.sequentialMode) return;
+
+  const supabase = await createClient();
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+
+  if (user) {
+    const profile = await getUserProfileByAuthId<{ last_seen_path?: string }>(
+      supabase,
+      user.id,
+      "last_seen_path"
+    );
+    const assigned = parseLastSeenPath(profile?.last_seen_path);
+    if (
+      assigned &&
+      assigned.coursePath === coursePath &&
+      assigned.unitNumber === unitNumber
+    ) {
+      return;
+    }
+  }
 
   if (!canAccessUnitInSequentialMode(unitNumber, state.currentUnitNumber)) {
     const { redirect } = await import("next/navigation");

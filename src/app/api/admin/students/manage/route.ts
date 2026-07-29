@@ -57,6 +57,41 @@ function normalizeCoursePath(courseId: string, unitId: number): string {
   return `${base}/unit-${unitId}`;
 }
 
+const ADMIN_UNLOCK_LESSON_KEY = '__admin_unlocked__';
+
+async function seedUnitsCompletedBeforeAssignment(params: {
+  userId: string;
+  courseId: string;
+  unitId: number;
+}) {
+  const { userId, courseId, unitId } = params;
+  if (unitId <= 1) return;
+
+  const now = new Date().toISOString();
+  const rows = Array.from({ length: unitId - 1 }, (_, index) => {
+    const completedUnitId = index + 1;
+    return {
+      user_id: userId,
+      course_id: courseId,
+      unit_id: completedUnitId,
+      lesson_key: ADMIN_UNLOCK_LESSON_KEY,
+      status: 'completed',
+      exercises_completed: 1,
+      exercises_total: 1,
+      attempts: 0,
+      correct_count: 0,
+      accuracy_percent: 100,
+      started_at: now,
+      completed_at: now,
+      last_activity_at: now,
+    };
+  });
+
+  await supabaseAdmin!.from('user_lesson_progress').upsert(rows, {
+    onConflict: 'user_id,course_id,unit_id,lesson_key',
+  });
+}
+
 export async function POST(request: NextRequest) {
   try {
     if (!supabaseAdmin) {
@@ -129,6 +164,7 @@ export async function POST(request: NextRequest) {
         name: name || email,
         role: 'user',
         language_level: languageLevel,
+        learning_goals: ['placement_completed'],
         subscription_status: subscriptionStatus,
         subscription_plan: subscriptionPlan,
         subscription_start_date:
@@ -311,6 +347,8 @@ export async function POST(request: NextRequest) {
           last_seen_at: new Date().toISOString(),
         })
         .eq('user_id', userId);
+
+      await seedUnitsCompletedBeforeAssignment({ userId, courseId, unitId });
 
       if (lessonKey) {
         await supabaseAdmin.from('user_lesson_progress').upsert(
