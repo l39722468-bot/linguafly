@@ -217,6 +217,33 @@ source[srcset*="pexels.com"] {
   body {
     print-color-adjust: exact;
     -webkit-print-color-adjust: exact;
+    background: white !important;
+  }
+
+  body > nav,
+  body > header,
+  body > footer {
+    display: none !important;
+  }
+
+  #blog-article-print {
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  #blog-article-print .article-content {
+    font-size: 11pt !important;
+    line-height: 1.5 !important;
+  }
+
+  #blog-article-print h1,
+  #blog-article-print h2,
+  #blog-article-print h3 {
+    page-break-after: avoid;
+  }
+
+  #blog-article-print details {
+    page-break-inside: avoid;
   }
 
   /* Turbopack: clases custom (parser falla con print\:variant) */

@@ -14,9 +14,12 @@ keywords:
   - 'condicionales ingles c1'
 author: focus-english-team
 date: '2026-02-28'
-updatedDate: '2026-03-10'
+updatedDate: '2026-07-30'
 alt: Estudiante avanzado trabajando en ejercicios de condicionales C1 en inglés
 category: gramatica
+downloadPdf: true
+pdfFileName: 'ejercicios-condicionales-ingles-c1'
+pdfDownloadLabel: 'Descargar ejercicios en PDF'
 faqs:
   - question: ¿Qué es la inversión condicional en inglés?
     answer: >-
@@ -161,11 +164,11 @@ Estas estructuras aparecen principalmente en:
 
 Para consolidar toda la base de los condicionales antes de pasar a estas estructuras avanzadas, revisa nuestra [guía práctica de condicionales en inglés](/blog/temas/ejercicios-condicionales-ingles).
 
-## 📥 Descargables PDF por nivel
+## Ejercicios por nivel
 
-- [**A2-B1 · Zero y First Conditional (PDF)**](/docs/ejercicios-condicionales-a2-b1.pdf)
-- [**B1-B2 · First, Second y Third Conditional (PDF)**](/docs/ejercicios-condicionales-b1-b2.pdf)
-- [**C1-C2 · Mixed Conditionals e Inversión (PDF)**](/docs/ejercicios-condicionales-c1-c2.pdf)
+- [A2-B1 · Zero y First Conditional](/blog/gramatica/ejercicios-condicionales-a2-b1)
+- [B1-B2 · Second y Third Conditional](/blog/gramatica/ejercicios-condicionales-b1-b2)
+- [C1-C2 · Mixed Conditionals e Inversión](/blog/gramatica/ejercicios-condicionales-c1-c2)
 
 ## Fuentes
 

@@ -25,6 +25,9 @@ export interface BlogPost {
   faqs?: { question: string, answer: string }[];
   featured?: boolean;
   canonical?: string;
+  downloadPdf?: boolean;
+  pdfFileName?: string;
+  pdfDownloadLabel?: string;
   content: string;
 }
 
@@ -89,6 +92,9 @@ export function getBlogArticles(): BlogPost[] {
       faqs: data.faqs || [],
       featured: data.featured || false,
       canonical: data.canonical,
+      downloadPdf: data.downloadPdf === true,
+      pdfFileName: data.pdfFileName,
+      pdfDownloadLabel: data.pdfDownloadLabel,
       updatedDate: data.updatedDate || data.updated_date || undefined,
       content,
     } as BlogPost;

@@ -11,8 +11,11 @@ author: focus-english-team
 description: >-
   Ejercicios de condicionales en inglés B1-B2 con soluciones: practica los cuatro tipos con correcciones detalladas. Perfecto para preparar B2 First, C1 Advanced y exámenes oficiales.
 date: '2026-03-04'
-updatedDate: '2026-03-10'
+updatedDate: '2026-07-30'
 category: gramatica
+downloadPdf: true
+pdfFileName: 'ejercicios-condicionales-ingles-b1-b2'
+pdfDownloadLabel: 'Descargar ejercicios en PDF'
 faqs:
   - question: '¿Bloque 1 — Zero Conditional?'
     answer: 'El Zero Conditional expresa verdades universales o hechos que siempre ocurren. Estructura: If + present simple, present simple'
@@ -184,11 +187,11 @@ En el **Part 4 de Use of English** (Key Word Transformation), los condicionales 
 
 Con práctica constante de estos **ejercicios de condicionales en inglés**, estarás preparado para cualquier prueba Cambridge y para expresar hipótesis con precisión en inglés real.
 
-## 📥 Descargables PDF por nivel
+## Ejercicios por nivel
 
-- [**A2-B1 · Zero y First Conditional (PDF)**](/docs/ejercicios-condicionales-a2-b1.pdf)
-- [**B1-B2 · First, Second y Third Conditional (PDF)**](/docs/ejercicios-condicionales-b1-b2.pdf)
-- [**C1-C2 · Mixed Conditionals e Inversión (PDF)**](/docs/ejercicios-condicionales-c1-c2.pdf)
+- [A2-B1 · Zero y First Conditional](/blog/gramatica/ejercicios-condicionales-a2-b1)
+- [B1-B2 · Second y Third Conditional](/blog/gramatica/ejercicios-condicionales-b1-b2)
+- [C1-C2 · Mixed Conditionals e Inversión](/blog/gramatica/ejercicios-condicionales-c1-c2)
 
 ## Fuentes
 

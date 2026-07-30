@@ -331,15 +331,15 @@ El Second Conditional con "If I were you...":
 
 ---
 
-## 📥 Descargables PDF de ejercicios por nivel
+## Ejercicios por nivel
 
-Si quieres practicar en papel o estudiar sin conexión, aquí tienes hojas de ejercicios de condicionales listas para descargar:
+Practica condicionales con ejercicios resueltos en el artículo y descárgalos en PDF desde cada página:
 
-- [**A2-B1 · Zero y First Conditional (PDF)**](/docs/ejercicios-condicionales-a2-b1.pdf)
-- [**B1-B2 · First, Second y Third Conditional (PDF)**](/docs/ejercicios-condicionales-b1-b2.pdf)
-- [**C1-C2 · Mixed Conditionals e Inversión (PDF)**](/docs/ejercicios-condicionales-c1-c2.pdf)
+- [A2-B1 · Zero y First Conditional](/blog/gramatica/ejercicios-condicionales-a2-b1)
+- [B1-B2 · Second y Third Conditional](/blog/gramatica/ejercicios-condicionales-b1-b2)
+- [C1-C2 · Mixed Conditionals e Inversión](/blog/gramatica/ejercicios-condicionales-c1-c2)
 
-Incluyen ejercicios + soluciones para que puedas corregirte al finalizar.
+Cada artículo incluye ejercicios con soluciones y un botón para descargar el mismo contenido en PDF.
 
 ---
 

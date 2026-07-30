@@ -1,89 +1,261 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-07-30'
 author: focus-english-team
 title: 'Reported Speech Ejercicios PDF'
 description: >-
-  Descarga los mejores ejercicios de Reported Speech en PDF. Hojas de trabajo
-  para niveles B1, B2, C1 y C2 con soluciones incluidas para practicar el estilo
-  indirecto.
-readTime: 5 min
+  Ejercicios de Reported Speech con soluciones para niveles B1, B2, C1 y C2.
+  Practica el estilo indirecto en el artículo y descarga el mismo contenido en PDF.
+readTime: 12 min
 keywords:
   - 'Reported Speech Ejercicios PDF'
   - 'ejercicios reported speech pdf'
-canonical: 'https://www.focus-on-english.com/blog/gramatica/reported-speech-ejercicios-pdf'
+  - 'reporting verbs exercises pdf'
+  - 'reported speech c1 exercises pdf'
+canonical: 'https://www.linguafly.app/blog/gramatica/reported-speech-ejercicios-pdf'
 alt: Ejercicios de reported speech en formato PDF
+downloadPdf: true
+pdfFileName: 'reported-speech-ejercicios-b1-c2'
+pdfDownloadLabel: 'Descargar ejercicios en PDF'
 faqs:
   - question: '¿Qué es reported speech ejercicios pdf y cómo se usa?'
-    answer: 'Dominar el Reported Speech (o estilo indirecto) es uno de los mayores hitos en el aprendizaje del inglés. No basta con conocer las reglas teóricas sobre el cambio de tiempos verbales; la clave reside en la automatización de esas reglas a través de la práctica constante. En el estilo indirecto en...'
+    answer: 'Dominar el Reported Speech (o estilo indirecto) es uno de los mayores hitos en el aprendizaje del inglés. No basta con conocer las reglas teóricas sobre el cambio de tiempos verbales; la clave reside en la automatización de esas reglas a través de la práctica constante.'
   - question: '¿Por qué practicar con ejercicios en PDF?'
-    answer: 'Hoy en día tenemos multitud de aplicaciones y herramientas interactivas, pero el formato PDF sigue siendo el preferido por estudiantes y profesores por varias razones:'
-  - question: '¿Nivel Intermedio (B1 - B2 First)?'
-    answer: 'En este nivel, el objetivo es consolidar el backshift (el salto atrás de los tiempos verbales) y los cambios en las referencias temporales y de lugar.'
-  - question: '¿Nivel Avanzado y Maestría (C1 - C2 Proficiency)?'
-    answer: 'Aquí la dificultad aumenta significativamente. Ya no se trata solo de cambiar el verbo, sino de elegir el reporting verb más preciso y la estructura gramatical que le sigue.'
+    answer: 'El formato PDF sigue siendo el preferido por estudiantes y profesores: permite imprimir, escribir a mano y practicar sin distracciones. En este artículo tienes todos los ejercicios en pantalla y puedes descargarlos en PDF con el botón superior.'
+  - question: '¿Qué practico en nivel B1-B2?'
+    answer: 'En B1-B2 consolidas el backshift, los cambios de pronombres y adverbios de tiempo, y las estructuras básicas con said, told y asked.'
+  - question: '¿Qué practico en nivel C1-C2?'
+    answer: 'En C1-C2 trabajas reporting verbs avanzados, estructuras con gerundio e infinitivo, voz pasiva con verbos de reporte y transformaciones de examen.'
 excerpt: >
-  Ejercicios de Reported Speech para niveles B1, B2, C1 y C2 con soluciones detalladas. Practica transformaciones, preguntas y órdenes en estilo indirecto.
+  Ejercicios de Reported Speech para niveles B1, B2, C1 y C2 con soluciones detalladas. Practica en el artículo y descarga el mismo contenido en PDF.
 ---
-
-## Reported Speech Ejercicios PDF: Practica y Descarga
 
 Dominar el **Reported Speech** (o estilo indirecto) es uno de los mayores hitos en el aprendizaje del inglés. No basta con conocer las reglas teóricas sobre el cambio de tiempos verbales; la clave reside en la automatización de esas reglas a través de la práctica constante.
 
-Si quieres repasar las reglas antes de practicar, la guía [Reported Speech en Inglés](/blog/temas/reported-speech) te da el marco completo. En este artículo nos centramos en la práctica con ejercicios concretos.
+Si quieres repasar las reglas antes de practicar, la guía [Reported Speech en Inglés](/blog/temas/reported-speech) te da el marco completo. En este artículo nos centramos en la práctica con ejercicios concretos y soluciones.
 
-## 1. ¿Por qué practicar con ejercicios en PDF?
+---
 
-Hoy en día tenemos multitud de aplicaciones y herramientas interactivas, pero el formato PDF sigue siendo el preferido por estudiantes y profesores por varias razones:
-*   **Concentración**: Al imprimir un ejercicio, eliminas las distracciones del móvil o el ordenador, permitiendo un enfoque profundo en las estructuras gramaticales.
-*   **Escritura manual**: Escribir las oraciones a mano ayuda a fijar las estructuras del Reported Speech en la memoria a largo plazo de forma mucho más efectiva que teclear.
-*   **Simulación de examen**: La mayoría de los exámenes internacionales de certificación aún se realizan en papel o requieren una producción escrita manual similar.
-*   **Portabilidad**: Puedes estudiar y practicar tus **reporting verbs exercises PDF** en cualquier lugar, sin depender de la conexión a internet.
+## Bloque 1 — Backshift y afirmaciones (B1-B2)
 
-## 2. Ejercicios por Niveles: Encuentra tu Reto
+El **backshift** es el cambio de tiempo verbal al pasar de estilo directo a indirecto.
 
-Hemos diseñado nuestros materiales para que se adapten a tu nivel actual, permitiéndote progresar de forma escalonada y segura. Nuestra guía completa cubre desde el nivel intermedio hasta el más avanzado (C2 Proficiency).
+### Ejercicio 1: Transforma al estilo indirecto
 
-### Nivel Intermedio (B1 - B2 First)
-En este nivel, el objetivo es consolidar el **backshift** (el salto atrás de los tiempos verbales) y los cambios en las referencias temporales y de lugar.
-*   **¿Qué practicarás en este PDF?**
-    *   Cambios de *Present Simple* a *Past Simple* y de *Present Continuous* a *Past Continuous*.
-    *   Transformación de *Will* a *Would* y de *Can* a *Could*.
-    *   El uso correcto de *said* vs *told* (recordando que *told* siempre necesita un objeto directo: *He told me*).
-    *   Cambios de adverbios: *now* -> *then*, *today* -> *that day*, *yesterday* -> *the day before*.
+1. "I work in Madrid," she said.
+2. "We are studying for the exam," they said.
+3. "I will call you tomorrow," he said.
+4. "I can speak three languages," she said.
+5. "I have finished the report," he said.
 
-### Nivel Avanzado y Maestría (C1 - C2 Proficiency)
-Aquí la dificultad aumenta significativamente. Ya no se trata solo de cambiar el verbo, sino de elegir el **reporting verb** más preciso y la estructura gramatical que le sigue.
-*   **¿Qué practicarás en este PDF?**
-    *   Estructuras con gerundio (*"He suggested going to the park"*).
-    *   Estructuras con infinitivo (*"They offered to help us with the move"*).
-    *   Voz pasiva con verbos de reporte (*"It is claimed that..."* / *"He is thought to be..."*).
-    *   Reporte de condicionales y verbos modales complejos (*might, could, should*).
-    *   Matices de significado en niveles de Maestría (C2).
+**Soluciones:**
+1. She said (that) she worked in Madrid.
+2. They said (that) they were studying for the exam.
+3. He said (that) he would call me the next day.
+4. She said (that) she could speak three languages.
+5. He said (that) he had finished the report.
 
-- [**Descargar Guía de Reported Speech y Ejercicios B1-C2 (PDF)**](https://nprqtjljoekoirlrjxlh.supabase.co/storage/v1/object/sign/blog/speech.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9kMWI1ZDVjZC0wZTgzLTQyMGUtOWI0NC1lZGQwZTMyOWY2NTMiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJibG9nL3NwZWVjaC5wZGYiLCJpYXQiOjE3NzA2NTM1NDcsImV4cCI6MTc3MTI1ODM0N30.Kbd_9AevqrmmSgZgxiD-gFRzdImD_TJ1EbSNCxgj4hQ)
+---
 
-## 3. Reported Speech en Contextos Académicos y Legales
+### Ejercicio 2: Cambia pronombres y expresiones de tiempo
 
-En los niveles superiores, el estilo indirecto se utiliza para reportar investigaciones, testimonios y declaraciones oficiales con una precisión quirúrgica.
-*   **Academic Reporting**: Aprende a citar a otros autores de manera formal: *"Smith (2024) argued that the data was inconsistent"*.
-*   **Legal Statements**: En el ámbito jurídico, el reporte exacto de lo dicho es vital: *"The witness stated that he had seen the suspect at the scene"*.
-*   **Formal Journalism**: El uso de la pasiva impersonal para reportar noticias: *"It has been reported that the negotiations have reached an impasse"*.
+1. "I saw her yesterday," he said.
+2. "We will travel here next week," they said.
+3. "My car is parked outside," she said.
+4. "I bought this phone last month," he said.
 
-## 4. Consejos para aprovechar al máximo tu práctica
+**Soluciones:**
+1. He said (that) he had seen her the day before.
+2. They said (that) they would travel there the following week.
+3. She said (that) her car was parked outside.
+4. He said (that) he had bought that phone the month before.
 
-Para que estos ejercicios de Reported Speech realmente surtan efecto, te recomendamos seguir este método de estudio:
-1.  **Revisa la teoría primero**: No intentes hacer los ejercicios sin tener claros los patrones verbales. Puedes consultar nuestra **[Guía Maestra de Reporting Verbs](/blog/gramatica/reporting-verbs-patterns-list)**.
-2.  **No mires las soluciones hasta el final**: Es tentador comprobar cada frase, pero es mejor completar una sección entera para detectar patrones de error.
-3.  **Analiza tus errores**: Si fallas en una estructura de "suggest", vuelve a la teoría y escribe cinco ejemplos propios usando ese verbo para fijar el conocimiento.
-4.  **Practica en voz alta**: Una vez escrita la oración reportada, léela en voz alta. Esto mejorará tu fluidez y te ayudará a "oír" la gramática correcta de forma natural.
+---
+
+### Ejercicio 3: Said vs Told
+
+Completa con **said** o **told** (y el complemento si hace falta):
+
+1. She _______ me that she was tired.
+2. He _______ that he didn't like the film.
+3. They _______ us to wait outside.
+4. The teacher _______ the students that the test was on Friday.
+5. She _______ that she would arrive late.
+
+**Soluciones:**
+1. told
+2. said
+3. told
+4. told
+5. said
+
+**Nota:** *Told* siempre lleva objeto (*told me / told them*). *Said* no lleva objeto directo sin *to*: *He said to me* ✓, pero *He said me* ✗.
+
+---
+
+## Bloque 2 — Preguntas en estilo indirecto (B1-B2)
+
+### Ejercicio 4: Yes/No questions → if/whether
+
+1. "Do you like coffee?" she asked me.
+2. "Are they coming to the party?" he asked.
+3. "Have you finished your homework?" the teacher asked.
+4. "Will you help me?" she asked him.
+
+**Soluciones:**
+1. She asked me if/whether I liked coffee.
+2. He asked if/whether they were coming to the party.
+3. The teacher asked if/whether I had finished my homework.
+4. She asked him if/whether he would help her.
+
+---
+
+### Ejercicio 5: Wh- questions
+
+1. "Where do you live?" he asked.
+2. "What time does the train leave?" she asked.
+3. "Why did you leave early?" they asked me.
+4. "How long have you been waiting?" he asked.
+
+**Soluciones:**
+1. He asked where I lived.
+2. She asked what time the train left.
+3. They asked me why I had left early.
+4. He asked how long I had been waiting.
+
+---
+
+## Bloque 3 — Órdenes y peticiones (B1-B2)
+
+### Ejercicio 6: Reporta órdenes y peticiones
+
+1. "Close the door!" the manager said.
+2. "Don't touch that button," she warned.
+3. "Please help me with this," he asked.
+4. "Finish the report by Friday," she told him.
+5. "Don't be late again," the teacher said.
+
+**Soluciones:**
+1. The manager told us/him/her to close the door.
+2. She warned us/him/her not to touch that button.
+3. He asked us/me to help him with that.
+4. She told him to finish the report by Friday.
+5. The teacher told us/them not to be late again.
+
+---
+
+## Bloque 4 — Reporting verbs avanzados (C1-C2)
+
+### Ejercicio 7: Gerundio o infinitivo
+
+Completa con la forma correcta:
+
+1. She suggested _______ (go) to the cinema.
+2. He denied _______ (steal) the money.
+3. They offered _______ (help) us with the move.
+4. She admitted _______ (make) a mistake.
+5. He promised _______ (call) me back.
+
+**Soluciones:**
+1. going
+2. stealing / having stolen
+3. to help
+4. making / having made
+5. to call
+
+---
+
+### Ejercicio 8: Elige el reporting verb más preciso
+
+1. "The project will be finished on time," the director said confidently.
+   → The director _______ that the project would be finished on time.
+2. "I didn't break the window," the boy said.
+   → The boy _______ breaking the window.
+3. "You should see a doctor," she said.
+   → She _______ me to see a doctor.
+4. "Let's postpone the meeting," he said.
+   → He _______ postponing the meeting.
+5. "The evidence is unreliable," the lawyer said firmly.
+   → The lawyer _______ that the evidence was unreliable.
+
+**Soluciones:**
+1. assured / stated
+2. denied
+3. advised
+4. suggested
+5. argued / maintained
+
+---
+
+## Bloque 5 — Voz pasiva y estructuras de examen (C1-C2)
+
+### Ejercicio 9: Passive reporting structures
+
+Reescribe usando la estructura indicada:
+
+1. People believe that the CEO will resign.
+   → The CEO _______ to resign.
+2. They say that he is the best candidate.
+   → He _______ the best candidate.
+3. Experts think that the policy has failed.
+   → The policy _______.
+4. It is believed that the treaty will be signed soon.
+   → The treaty _______ soon.
+
+**Soluciones:**
+1. is believed to be going to resign / is believed to resign
+2. is said to be
+3. is thought to have failed
+4. is believed to be going to be signed / is believed to be signed
+
+---
+
+### Ejercicio 10: Key Word Transformation (estilo Cambridge)
+
+Usa la palabra en mayúsculas sin cambiar su forma:
+
+1. "I'll definitely help you," she said. → She _______ to help me. (**PROMISED**)
+2. "Don't open the window," he said. → He _______ me not to open the window. (**TOLD**)
+3. "Where did you buy this?" she asked. → She asked where _______ that. (**BOUGHT**)
+4. "I didn't take your pen," he said. → He _______ taking my pen. (**DENIED**)
+5. "Perhaps we should leave now," she said. → She _______ leaving then. (**SUGGESTED**)
+
+**Soluciones:**
+1. promised
+2. told
+3. I had bought
+4. denied
+5. suggested
+
+---
+
+## Resumen de estructuras clave
+
+| Tipo | Estructura | Ejemplo |
+|------|-----------|---------|
+| Afirmación | said/told + (that) + backshift | She said (that) she was tired. |
+| Yes/No question | asked + if/whether + S + V | He asked if I was ready. |
+| Wh- question | asked + wh-word + S + V | She asked where I lived. |
+| Orden | told/ordered + O + (not) to + inf. | He told me to wait. |
+| Gerundio | suggest/deny/admit + -ing | She suggested going home. |
+| Infinitivo | offer/promise/agree + to + inf. | They offered to help. |
+| Pasiva | is said/believed/thought + to + inf. | He is said to be rich. |
+
+---
+
+## Consejos para aprovechar al máximo tu práctica
+
+1. **Revisa la teoría primero**: consulta la [Guía Maestra de Reporting Verbs](/blog/gramatica/reporting-verbs-patterns-list) antes de empezar.
+2. **No mires las soluciones hasta el final**: completa cada bloque entero para detectar patrones de error.
+3. **Analiza tus errores**: si fallas con *suggest*, escribe cinco ejemplos propios.
+4. **Practica en voz alta**: leer las oraciones reportadas mejora la fluidez.
 
 ---
 
 ### ¿Buscas una práctica más dinámica?
 
-Aunque los PDFs son excelentes, a veces necesitas feedback instantáneo para progresar más rápido. Practicar el reported speech con ejercicios interactivos que se adaptan a tu nivel y comparar tus respuestas con explicaciones detalladas acelera mucho el proceso de aprendizaje.
+Aunque estos ejercicios en PDF son excelentes para estudiar offline, a veces necesitas feedback instantáneo. Practicar el reported speech con ejercicios interactivos que se adaptan a tu nivel acelera mucho el proceso de aprendizaje.
 
 ## Fuentes
 
