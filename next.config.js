@@ -26,6 +26,10 @@ const nextConfig = {
     '/curso-a2/outline': ['src/content/cursos/ingles-a2/**/*.json'],
     '/curso-b1': ['src/content/cursos/ingles-b1/**/*.json', 'src/lib/course/b1/**/*.ts'],
     '/curso-b1/outline': ['src/content/cursos/ingles-b1/**/*.json'],
+    '/curso-c1': ['src/lib/course/c1/**/*.ts'],
+    '/curso-c1/outline': ['src/lib/course/c1/**/*.ts'],
+    '/curso-c2': ['src/lib/course/c2/**/*.ts'],
+    '/curso-c2/outline': ['src/lib/course/c2/**/*.ts'],
     // API B1: módulos TypeScript para dynamic import en loader
     '/api/course/b1/[unitId]': ['src/lib/course/b1/**/*.ts'],
   },

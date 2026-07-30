@@ -310,7 +310,13 @@ export async function middleware(request: NextRequest) {
     const isAdmin = profile?.role === "admin";
     const isAdminArea = pathname.startsWith("/admin");
     const isToeflExempt = pathname.startsWith("/curso/toefl-");
-    const isOutlineOnly = pathname === "/curso-a1/outline" || pathname === "/curso-a2/outline" || pathname === "/curso-b1/outline" || pathname === "/curso-b2/outline";
+    const isOutlineOnly =
+      pathname === '/curso-a1/outline' ||
+      pathname === '/curso-a2/outline' ||
+      pathname === '/curso-b1/outline' ||
+      pathname === '/curso-b2/outline' ||
+      pathname === '/curso-c1/outline' ||
+      pathname === '/curso-c2/outline';
     // Panel alumno: accesible con sesión, sin exigir plan de pago.
     const isStudentArea = pathname.startsWith("/mi-panel");
     const goals = Array.isArray((profile as any)?.learning_goals) ? ((profile as any).learning_goals as string[]) : [];

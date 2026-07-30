@@ -1,3 +1,4 @@
+import { redirect } from 'next/navigation';
 import C2UnitContent from './C2UnitContent';
 
 interface Props {
@@ -6,6 +7,10 @@ interface Props {
 
 export default async function C2UnitPage({ params }: Props) {
   const { unitId } = await params;
+
+  if (unitId === 'outline') {
+    redirect('/curso-c2/outline');
+  }
 
   if (unitId === 'test-final') {
     return (

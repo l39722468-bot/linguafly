@@ -33,8 +33,8 @@ const OFFICIAL_COURSE_BY_LEVEL: Record<string, Array<{ label: string; href: stri
   A2: [{ label: 'Curso oficial A2', href: '/curso-a2/outline' }],
   B1: [{ label: 'Curso oficial B1', href: '/curso-b1/outline' }],
   B2: [{ label: 'Curso oficial B2', href: '/curso-b2/outline' }],
-  C1: [{ label: 'Curso oficial C1', href: '/curso-c1' }],
-  C2: [{ label: 'Curso oficial C2', href: '/curso-c2' }],
+  C1: [{ label: 'Curso oficial C1', href: '/curso-c1/outline' }],
+  C2: [{ label: 'Curso oficial C2', href: '/curso-c2/outline' }],
 };
 
 type Goal = 'general' | 'travel' | 'professional';
