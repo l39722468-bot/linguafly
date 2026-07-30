@@ -39,7 +39,7 @@ export const UNIT_26_LESSON_6_WRITING: Exercise[] = [
       instructions: 'Escribe la forma correcta.',
       questions: [
         {
-          question: '[[If|Si]] [[you|tú]] ____ [[come|vienes]] [[to|a]] [[visit|visitar]] [[me|me]], [[I|yo]] [[will make|haré]] [[coffee|café]].',
+          question: '[[If|Si]] [[you|tú]] ____ [[to|a]] [[visit|visitar]] [[me|me]], [[I|yo]] [[will make|haré]] [[coffee|café]].',
           correctAnswer: 'come',
           acceptableAnswers: ['come'],
           explanation: '[[If|Si]] [[clause|oración]]: [[present|presente]] [[simple|simple]] ([[not|no]] [[will|will]]).',
@@ -99,7 +99,7 @@ export const UNIT_26_LESSON_6_WRITING: Exercise[] = [
       instructions: 'Completa la frase.',
       questions: [
         {
-          question: '[[If|Si]] [[you|tú]] ____ [[help|ayuda]], [[call|llama]] [[me|me]] [[and|y]] [[I|yo]] [[will come|vendré]].',
+          question: '[[If|Si]] [[you|tú]] ____, [[call|llama]] [[me|me]] [[and|y]] [[I|yo]] [[will come|vendré]].',
           correctAnswer: 'need',
           acceptableAnswers: ['need'],
           explanation: '[[If you need help|Si necesitas ayuda]] = [[condition|condición]].',

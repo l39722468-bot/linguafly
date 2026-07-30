@@ -23,7 +23,7 @@ export const UNIT_26_LESSON_1_GRAMMAR: Exercise[] = [
       instructions: INSTRUCTIONS_FILL,
       questions: [
         {
-          question: '[[If|Si]] [[it|ello]] ____ [[rains|llueve]], [[I|yo]] [[will|will]] [[stay|quedarme]] [[at|en]] [[home|casa]].',
+          question: '[[If|Si]] [[it|ello]] ____, [[I|yo]] [[will|will]] [[stay|quedarme]] [[at|en]] [[home|casa]].',
           options: ['[[rains|llueve]]', '[[rain|llover]]', '[[will rain|lloverá]]'],
           correctAnswer: 'rains',
           explanation: '[[First Conditional|Primer Condicional]]: [[If|Si]] + [[Present Simple|Presente Simple]], [[will|will]] + [[infinitive|infinitivo]].',
@@ -43,7 +43,7 @@ export const UNIT_26_LESSON_1_GRAMMAR: Exercise[] = [
       instructions: INSTRUCTIONS_FILL,
       questions: [
         {
-          question: '[[If|Si]] [[you|tú]] ____ [[study|estudias]] [[hard|duro]], [[you|tú]] [[will|will]] [[pass|aprobar]] [[the|el]] [[exam|examen]].',
+          question: '[[If|Si]] [[you|tú]] ____ [[hard|duro]], [[you|tú]] [[will|will]] [[pass|aprobar]] [[the|el]] [[exam|examen]].',
           options: ['[[study|estudias]]', '[[studies|estudia]]', '[[will study|estudiarás]]'],
           correctAnswer: 'study',
           explanation: '[[If|Si]] + [[Present Simple|Presente Simple]]: [[you study|tú estudias]].',
@@ -63,7 +63,7 @@ export const UNIT_26_LESSON_1_GRAMMAR: Exercise[] = [
       instructions: INSTRUCTIONS_FILL,
       questions: [
         {
-          question: '[[If|Si]] [[she|ella]] ____ [[comes|viene]] [[to|a]] [[the|la]] [[party|fiesta]], [[I|yo]] [[will|will]] [[be|estar]] [[very|muy]] [[happy|feliz]].',
+          question: '[[If|Si]] [[she|ella]] ____ [[to|a]] [[the|la]] [[party|fiesta]], [[I|yo]] [[will|will]] [[be|estar]] [[very|muy]] [[happy|feliz]].',
           options: ['[[come|viene]]', '[[comes|viene]]', '[[will come|vendrá]]'],
           correctAnswer: 'comes',
           explanation: '[[She|Ella]] + [[comes|viene]] [[(Present Simple|(Presente Simple)]].',
@@ -83,7 +83,7 @@ export const UNIT_26_LESSON_1_GRAMMAR: Exercise[] = [
       instructions: INSTRUCTIONS_FILL,
       questions: [
         {
-          question: '[[If|Si]] [[we|nosotros]] ____ [[miss|perdemos]] [[the|el]] [[bus|autobús]], [[we|nosotros]] [[will|will]] ____ [[be|estar]] [[late|tarde]].',
+          question: '[[If|Si]] [[we|nosotros]] ____ [[the|el]] [[bus|autobús]], [[we|nosotros]] [[will|will]] ____ [[late|tarde]].',
           options: ['[[miss|perdemos]] / [[be|estar]]', '[[misses|pierde]] / [[be|estar]]', '[[will miss|perderemos]] / [[be|estar]]'],
           correctAnswer: 'miss',
           explanation: '[[If|Si]] + [[Present Simple|Presente Simple]]; [[will|will]] + [[infinitive|infinitivo]] [[without|sin]] [[to|to]].',
@@ -103,7 +103,7 @@ export const UNIT_26_LESSON_1_GRAMMAR: Exercise[] = [
       instructions: INSTRUCTIONS_FILL,
       questions: [
         {
-          question: '[[If|Si]] [[it|ello]] ____ [[is|es]] [[sunny|soleado]] [[tomorrow|mañana]], [[they|ellos]] [[will|will]] ____ [[go|ir]] [[to|a]] [[the|la]] [[beach|playa]].',
+          question: '[[If|Si]] [[it|ello]] ____ [[sunny|soleado]] [[tomorrow|mañana]], [[they|ellos]] [[will|will]] ____ [[to|a]] [[the|la]] [[beach|playa]].',
           options: ['[[is|es]] / [[go|ir]]', '[[will be|será]] / [[go|ir]]', '[[is|es]] / [[goes|va]]'],
           correctAnswer: 'is',
           explanation: '[[Condition|Condición]]: [[Present Simple|Presente Simple]], [[result|resultado]]: [[will|will]] + [[infinitive|infinitivo]].',
@@ -219,7 +219,7 @@ export const UNIT_26_LESSON_1_GRAMMAR: Exercise[] = [
       instructions: INSTRUCTIONS_MULTIPLE,
       questions: [
         {
-          question: '[[Complete|Completa]]: "[[If|Si]] [[he|él]] ____ [[doesn\'t hurry|no se da prisa]], [[he|él]] ____ ____ [[miss|perder]] [[the|el]] [[train|tren]]."',
+          question: '[[Complete|Completa]]: "[[If|Si]] [[he|él]] ____, [[he|él]] ____ ____ [[the|el]] [[train|tren]]."',
           options: ['[[doesn\'t hurry|no se da prisa]] / [[will|will]] [[miss|perder]]', '[[won\'t hurry|no se dará prisa]] / [[will|will]] [[miss|perder]]', '[[doesn\'t hurry|no se da prisa]] / [[misses|pierde]]'],
           correctAnswer: 0,
           explanation: '[[If|Si]] + [[Present Simple|Presente Simple]]; [[will|will]] + [[infinitive|infinitivo]].',
