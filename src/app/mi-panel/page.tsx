@@ -24,8 +24,8 @@ const COURSE_LABELS: Record<string, { label: string; href: string }> = {
   'ingles-a2': { label: 'Ingles A2', href: '/curso-a2/outline' },
   'ingles-b1': { label: 'Ingles B1', href: '/curso-b1/outline' },
   'ingles-b2': { label: 'Ingles B2', href: '/curso-b2/outline' },
-  'ingles-c1': { label: 'Ingles C1', href: '/curso-c1' },
-  'ingles-c2': { label: 'Ingles C2', href: '/curso-c2' },
+  'ingles-c1': { label: 'Ingles C1', href: '/curso-c1/outline' },
+  'ingles-c2': { label: 'Ingles C2', href: '/curso-c2/outline' },
 };
 
 const OFFICIAL_COURSE_BY_LEVEL: Record<string, Array<{ label: string; href: string }>> = {
