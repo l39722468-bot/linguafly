@@ -39,12 +39,12 @@ export const C1_THEMATIC_RANGE = { from: 1, to: 58 } as const;
 /** Unidades 59–60: consolidación gramatical y preparación de examen (dentro del bloque 51–60 en la UI). */
 export const C1_CONSOLIDATION_UNITS = [59, 60] as const;
 
-/** Unidades 61–72: Language Lab (sistemas lingüísticos C1). IDs de ítem: `c1-uN-g|v|r|l|w|s…`. */
-export const C1_LANGUAGE_LAB_RANGE = { from: 61, to: 72 } as const;
+/** Unidades 61–73: Language Lab (sistemas lingüísticos C1). IDs de ítem: `c1-uN-g|v|r|l|w|s…`. */
+export const C1_LANGUAGE_LAB_RANGE = { from: 61, to: 73 } as const;
 
 /**
  * Módulos para la vista “Por módulos” del selector de unidades (`groupUnitsIntoModules`).
- * Rangos inclusivos; deben cubrir 1–72 sin solaparse.
+ * Rangos inclusivos; deben cubrir 1–73 sin solaparse.
  */
 export const C1_UI_MODULES: readonly {
   key: string;
@@ -92,8 +92,8 @@ export const C1_UI_MODULES: readonly {
     key: 'language-lab',
     titleEs: 'Language Lab — Sistemas lingüísticos C1',
     descriptionEs:
-      'Unidades 61–72: gramática y léxico de precisión, lectura/listening/writing/speaking en registro académico o formal. Complementa el bloque temático con teoría y uso sistémico.',
-    unitRange: [61, 72],
+      'Unidades 61–73: gramática y léxico de precisión, lectura/listening/writing/speaking en registro académico o formal. Complementa el bloque temático con teoría y uso sistémico.',
+    unitRange: [61, 73],
   },
 ] as const;
 
@@ -113,6 +113,7 @@ export const C1_LANGUAGE_LAB_SYLLABUS: { unitId: number; theoryFocus: string }[]
   { unitId: 70, theoryFocus: 'Cohesión discursiva (conectores, anáfora, consecuencia)' },
   { unitId: 71, theoryFocus: 'Participios, oraciones reducidas, estilo compacto' },
   { unitId: 72, theoryFocus: 'Nominalización y densidad informativa' },
+  { unitId: 73, theoryFocus: 'Condicionales mixtos, inversión (Had/Were/Should), but for y otherwise' },
 ];
 
 export function getLanguageLabUnitIds(): number[] {

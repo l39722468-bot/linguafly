@@ -403,6 +403,10 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
     { courseId: 'b1', unitNumber: 13 }, { courseId: 'b1', unitNumber: 14 }, { courseId: 'b2', unitNumber: 8 },
   ],
   'ejercicios-condicionales-ingles-c1': [{ courseId: 'c1', unitNumber: 65 }, { courseId: 'b2', unitNumber: 8 }],
+  'ejercicios-condicionales-c1-c2': [
+    { courseId: 'c1', unitNumber: 73 },
+    { courseId: 'c2', unitNumber: 61 },
+  ],
   'ejercicios-voz-pasiva-ingles': [{ courseId: 'b1', unitNumber: 16 }, { courseId: 'b1', unitNumber: 17 }],
   'voz-pasiva-ingles-guia': [{ courseId: 'b1', unitNumber: 16 }, { courseId: 'b1', unitNumber: 17 }],
   'guia-maestra-reported-speech': [{ courseId: 'b1', unitNumber: 18 }, { courseId: 'b1', unitNumber: 19 }],

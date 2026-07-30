@@ -70,6 +70,7 @@ import { UNIT_69_EXERCISES } from './unit-69';
 import { UNIT_70_EXERCISES } from './unit-70';
 import { UNIT_71_EXERCISES } from './unit-71';
 import { UNIT_72_EXERCISES } from './unit-72';
+import { UNIT_73_EXERCISES } from './unit-73';
 
 export const C1_COURSE = {
   units: [
@@ -145,5 +146,6 @@ export const C1_COURSE = {
     { id: 70, title: 'C1 Language Lab — Discourse Cohesion', exercises: UNIT_70_EXERCISES },
     { id: 71, title: 'C1 Language Lab — Participle and Reduced Clauses', exercises: UNIT_71_EXERCISES },
     { id: 72, title: 'C1 Language Lab — Nominalisation', exercises: UNIT_72_EXERCISES },
+    { id: 73, title: 'C1 Language Lab — Mixed Conditionals & Inversion', exercises: UNIT_73_EXERCISES },
   ],
 };

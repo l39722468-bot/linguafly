@@ -58,6 +58,7 @@ import { UNIT_57_EXERCISES } from './unit-57';
 import { UNIT_58_EXERCISES } from './unit-58';
 import { UNIT_59_EXERCISES } from './unit-59';
 import { UNIT_60_EXERCISES } from './unit-60';
+import { UNIT_61_EXERCISES } from './unit-61';
 
 export const C2_COURSE = {
   units: [
@@ -121,5 +122,6 @@ export const C2_COURSE = {
     { id: 58, title: 'Research and Writing Skills',                exercises: UNIT_58_EXERCISES },
     { id: 59, title: 'Oral Proficiency and Debate',                exercises: UNIT_59_EXERCISES },
     { id: 60, title: 'Module 10 Review: Proficiency Mastery',      exercises: UNIT_60_EXERCISES },
+    { id: 61, title: 'Advanced Conditionals: Mixed & Inversion',   exercises: UNIT_61_EXERCISES },
   ],
 };

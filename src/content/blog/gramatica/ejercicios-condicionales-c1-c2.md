@@ -110,6 +110,8 @@ Estructuras: **Third + Second / Second + Third / but for / otherwise**
 
 ## Más práctica por nivel
 
+- [Ejercicios interactivos C1 — Mixed e Inversión](/curso-c1/unit-73)
+- [Ejercicios interactivos C2 — Mixed e Inversión avanzada](/curso-c2/unit-61)
 - [Ejercicios A2-B1: Zero y First Conditional](/blog/gramatica/ejercicios-condicionales-a2-b1)
 - [Ejercicios B1-B2: Second y Third Conditional](/blog/gramatica/ejercicios-condicionales-b1-b2)
 
