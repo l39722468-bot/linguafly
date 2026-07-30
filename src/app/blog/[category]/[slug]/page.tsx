@@ -11,6 +11,7 @@ import { TableOfContents } from "@/components/blog/TableOfContents";
 import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
 import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
 import { CopyProtection } from "@/components/blog/CopyProtection";
+import { BlogArticlePdfDownload } from "@/components/blog/BlogArticlePdfDownload";
 import { getBlogArticles, getArticleBySlug, getRelatedArticles, getRelatedByKeywords, getArticlesByCategory, normalizeCategory, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
@@ -267,10 +268,10 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
           readingTimeMin={parseInt(article.readTime) || 5}
         />
         
-        <main className="min-h-screen bg-slate-50 pt-32 pb-20">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <main className="min-h-screen bg-slate-50 pt-32 pb-20 print:min-h-0 print:bg-white print:pt-0 print:pb-0">
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 print:max-w-none print:px-0">
             {/* Breadcrumbs */}
-            <nav className="flex mb-8 text-sm font-medium text-slate-500 overflow-x-auto whitespace-nowrap pb-2">
+            <nav className="flex mb-8 text-sm font-medium text-slate-500 overflow-x-auto whitespace-nowrap pb-2 print-hidden">
               <Link href="/" className="hover:text-coral-600 transition-colors">Inicio</Link>
               <span className="mx-2 text-slate-300">/</span>
               <Link href="/blog" className="hover:text-coral-600 transition-colors">Blog</Link>
@@ -280,18 +281,18 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
               <span className="text-slate-900 truncate">{article.title}</span>
             </nav>
 
-            <div className="grid grid-cols-1 lg:grid-cols-12 gap-12">
+            <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 print:block">
               {/* Main Content */}
-              <article className="lg:col-span-8">
-                <div className="bg-white rounded-[2rem] shadow-sm border border-slate-100 overflow-hidden">
+              <article id="blog-article-print" className="lg:col-span-8 print:w-full">
+                <div className="bg-white rounded-[2rem] shadow-sm border border-slate-100 overflow-hidden print:rounded-none print:border-0 print:shadow-none">
                   {/* Content Header */}
-                  <div className="p-8 lg:p-12 border-b border-slate-50">
-                    <div className="mb-6">
+                  <div className="p-8 lg:p-12 border-b border-slate-50 print:p-0 print:border-0">
+                    <div className="mb-6 print-hidden">
                       <span className={`px-4 py-2 rounded-full text-sm font-bold border shadow-md backdrop-blur-md ${categoryColor}`}>
                         {categoryLabel}
                       </span>
                     </div>
-                    <div className="flex flex-wrap items-center gap-4 text-sm text-slate-500 mb-6">
+                    <div className="flex flex-wrap items-center gap-4 text-sm text-slate-500 mb-6 print-hidden">
                       <time dateTime={article.date} className="flex items-center gap-1.5">
                         <span className="w-1 h-1 rounded-full bg-slate-300" />
                         {new Date(article.date).toLocaleDateString('es-ES', {
@@ -324,7 +325,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                        {article.title}
                      </h1>
 
-                     <section className="mb-8 rounded-2xl border border-coral-100 bg-coral-50/70 p-6">
+                     <section className="mb-8 rounded-2xl border border-coral-100 bg-coral-50/70 p-6 print-hidden">
                        <h2 className="font-display text-2xl font-black text-slate-900 mb-3">
                          Cursos gratis, podcasts y cursos por sector profesional
                        </h2>
@@ -334,7 +335,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                        <BlogCTAButtons location="intro" />
                      </section>
 
-                     <div className="flex items-center justify-between py-6 border-y border-slate-50">
+                     <div className="flex items-center justify-between py-6 border-y border-slate-50 print-hidden">
                        <div className="flex items-center gap-3">
                         {article.authorData ? (
                           <Link href={`/blog/autor/${article.authorData.slug}`} className="flex items-center gap-3 group">
@@ -369,13 +370,22 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                   </div>
 
                   {/* Table of Contents (Mobile) */}
-                  <div className="lg:hidden p-8 bg-slate-50/50">
+                  <div className="lg:hidden p-8 bg-slate-50/50 print-hidden">
                     <TableOfContents />
                   </div>
 
+                  {article.downloadPdf && (
+                    <div className="px-8 lg:px-12 pt-8 print-hidden">
+                      <BlogArticlePdfDownload
+                        label={article.pdfDownloadLabel}
+                        fileName={article.pdfFileName || slug}
+                      />
+                    </div>
+                  )}
+
                   {/* Article Body */}
                   <CopyProtection>
-                  <div className="p-8 lg:p-12 prose prose-slate prose-xl max-w-none article-content">
+                  <div className="p-8 lg:p-12 prose prose-slate prose-xl max-w-none article-content print:p-0">
                     <ReactMarkdown 
                       remarkPlugins={[remarkGfm]}
                       components={MarkdownComponents}
@@ -384,14 +394,18 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                     </ReactMarkdown>
 
                     {/* SEO Interlinking Block */}
-                    <SEOInterlinking category={normalizedCategory} />
+                    <div className="print-hidden">
+                      <SEOInterlinking category={normalizedCategory} />
+                    </div>
                     
                     {/* Dynamic Topic Cluster */}
-                    <TopicClusterLinks articles={clusterArticles} mainKeyword={mainKeyword} />
+                    <div className="print-hidden">
+                      <TopicClusterLinks articles={clusterArticles} mainKeyword={mainKeyword} />
+                    </div>
 
                     {/* Author Bio Section (EEAT) */}
                     {article.authorData && (
-                      <div className="mt-16 p-8 lg:p-10 bg-slate-50 rounded-[2.5rem] border border-slate-100 relative overflow-hidden group">
+                      <div className="mt-16 p-8 lg:p-10 bg-slate-50 rounded-[2.5rem] border border-slate-100 relative overflow-hidden group print-hidden">
                         <div className="absolute top-0 right-0 w-32 h-32 bg-coral-100 rounded-full -mr-16 -mt-16 opacity-20 blur-2xl group-hover:opacity-40 transition-opacity"></div>
                         
                         <div className="flex flex-col md:flex-row gap-8 items-center md:items-start relative z-10">
@@ -447,7 +461,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                   </CopyProtection>
 
                   {/* Post Footer */}
-                  <div className="p-8 lg:p-12 bg-slate-50/50 border-t border-slate-100">
+                  <div className="p-8 lg:p-12 bg-slate-50/50 border-t border-slate-100 print-hidden">
                     <div className="flex flex-wrap gap-2 mb-8">
                       {article.keywords?.filter(Boolean).map((keyword, i) => (
                         <Link 
@@ -470,7 +484,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
                 {/* Related Articles */}
                 {relatedArticles.length > 0 && (
-                  <section className="mt-16">
+                  <section className="mt-16 print-hidden">
                     <h2 className="font-display text-3xl font-black text-slate-900 mb-8">Artículos relacionados</h2>
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
                       {relatedArticles.map((rel, i) => (
@@ -493,7 +507,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
               </article>
 
               {/* Sidebar */}
-              <aside className="lg:col-span-4 space-y-8">
+              <aside className="lg:col-span-4 space-y-8 print-hidden">
                 <div className="sticky top-32">
                   <TableOfContents />
 
