@@ -145,7 +145,7 @@ export async function middleware(request: NextRequest) {
       // Primero intento con el JWT del usuario
       const { data: ownProfile } = await supabase
         .from("user_profiles")
-        .select("subscription_status, role, placement_completed, language_level, learning_goals")
+        .select("subscription_status, role, language_level, learning_goals")
         .eq("user_id", user.id)
         .maybeSingle();
 
@@ -155,7 +155,7 @@ export async function middleware(request: NextRequest) {
       if ((!profile || !profile.role) && process.env.SUPABASE_SERVICE_ROLE_KEY && process.env.NEXT_PUBLIC_SUPABASE_URL) {
         try {
           const res = await fetch(
-            `${process.env.NEXT_PUBLIC_SUPABASE_URL}/rest/v1/user_profiles?user_id=eq.${user.id}&select=subscription_status,role,placement_completed,language_level,learning_goals&limit=1`,
+            `${process.env.NEXT_PUBLIC_SUPABASE_URL}/rest/v1/user_profiles?user_id=eq.${user.id}&select=subscription_status,role,language_level,learning_goals&limit=1`,
             {
               headers: {
                 apikey: process.env.SUPABASE_SERVICE_ROLE_KEY,

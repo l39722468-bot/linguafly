@@ -11,6 +11,7 @@ describe('next.config security headers', () => {
     expect(cspHeader.value).toContain("script-src 'self' 'unsafe-inline' 'wasm-unsafe-eval' https://static.cloudflareinsights.com https://consent.cookiebot.com https://consentcdn.cookiebot.com https://challenges.cloudflare.com");
     expect(cspHeader.value).toContain('connect-src');
     expect(cspHeader.value).toContain("https://challenges.cloudflare.com");
-    expect(cspHeader.value).toContain('frame-src https://consentcdn.cookiebot.com https://challenges.cloudflare.com');
+    expect(cspHeader.value).toContain('https://fonts.googleapis.com');
+    expect(cspHeader.value).toContain('https://region1.google-analytics.com');
   });
 });

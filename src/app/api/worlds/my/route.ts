@@ -31,6 +31,11 @@ export async function GET() {
     });
   } catch (error: any) {
     console.error('[worlds/my] error', error);
-    return NextResponse.json({ error: error.message || 'Internal server error' }, { status: 500 });
+    return NextResponse.json({
+      level: 'A1',
+      worlds: [],
+      nextExerciseId: null,
+      warning: error.message || 'World map unavailable',
+    });
   }
 }

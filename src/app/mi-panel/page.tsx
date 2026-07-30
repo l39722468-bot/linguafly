@@ -7,6 +7,7 @@ import WorldMapPanel from '@/components/panel/WorldMapPanel';
 import { resolveEntitlements } from '@/lib/access/entitlements';
 import { getUserProfileByAuthId } from '@/lib/access/user-profile';
 import { parseLastSeenPath } from '@/lib/access/parse-last-seen-path';
+import { savePlacementResult } from '@/lib/access/save-placement-result';
 
 export const dynamic = 'force-dynamic';
 
@@ -80,48 +81,11 @@ export default async function MiPanelPage({
   const shouldPersistFromQuery = placementFromQuery === '1' && Boolean(levelFromQuery);
 
   if (shouldPersistFromQuery && levelFromQuery) {
-    const nowIso = new Date().toISOString();
-    const currentProfile = await getUserProfileByAuthId<any>(
+    await savePlacementResult({
       supabase,
-      user.id,
-      'id,user_id,learning_goals,language_level,last_seen_path'
-    );
-
-    const currentGoals = Array.isArray(currentProfile?.learning_goals)
-      ? (currentProfile.learning_goals as string[])
-      : [];
-    const mergedGoals = Array.from(new Set([...currentGoals, 'placement_completed']));
-    const hasAdminAssignment = Boolean(currentProfile?.last_seen_path?.trim());
-    const existingLevel = normalizeLevel(currentProfile?.language_level as string | undefined);
-    const resolvedLevel =
-      hasAdminAssignment && existingLevel ? existingLevel : levelFromQuery;
-    const basePayload = {
-      user_id: user.id,
-      language_level: resolvedLevel,
-      placement_completed: true,
-      learning_goals: mergedGoals,
-      updated_at: nowIso,
-    };
-    const { error: upsertByUserIdError } = await supabase
-      .from('user_profiles')
-      .upsert(basePayload, { onConflict: 'user_id' });
-    if (upsertByUserIdError) {
-      await supabase
-        .from('user_profiles')
-        .upsert(
-          {
-            id: user.id,
-            ...basePayload,
-          },
-          { onConflict: 'id' }
-        );
-    }
-
-    // No bloqueamos render del panel si esta tabla no existe para este usuario.
-    await supabase
-      .from('users')
-      .update({ language_level: resolvedLevel, updated_at: nowIso })
-      .eq('id', user.id);
+      userId: user.id,
+      level: levelFromQuery,
+    });
   }
 
   const profile = await getUserProfileByAuthId<any>(supabase, user.id, '*');
