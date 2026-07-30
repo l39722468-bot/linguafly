@@ -5,6 +5,7 @@ import GoogleAnalytics from "@/components/GoogleAnalytics";
 import Cookiebot from "@/components/Cookiebot";
 import CookiebotBannerVisibility from "@/components/CookiebotBannerVisibility";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
+import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
 import UspapiLocator from "@/components/UspapiLocator";
 import { Analytics } from "@vercel/analytics/next";
 
@@ -117,10 +118,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         {/* Schema.org structured data */}
         <OrganizationSchema />
         <WebsiteSchema />
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1198438843650445"
-        />
 
         {/* Anti-piracy protection */}
         <meta name="robots" content="max-image-preview:large" />
@@ -130,6 +127,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <body className="antialiased bg-white text-slate-900 font-sans" suppressHydrationWarning>
         <Cookiebot />
         <CookiebotBannerVisibility />
+        <ConsentGatedAdSense />
         <DeferredMonetagAd />
         <noscript>
           <iframe
