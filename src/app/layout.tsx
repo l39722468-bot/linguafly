@@ -120,7 +120,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1198438843650445"
-          data-cookieconsent="marketing"
         />
 
         {/* Anti-piracy protection */}
