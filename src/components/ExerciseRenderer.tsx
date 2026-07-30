@@ -19,8 +19,11 @@ import { AudioPlayer } from './course/preview/AudioPlayer';
 import { resolveListeningScript } from '@/lib/listening-script';
 import { useGamification } from '@/lib/hooks/use-gamification';
 import SpeakButton from './SpeakButton';
-import { applyC1QuestionBilingual } from '@/lib/course/c1/c1-question-bilingual';
-import { isRecepcionistaExerciseId } from '@/lib/recepcionista-exercise-ids';
+import {
+  applyCourseBilingualText,
+  applyCourseQuestionBilingual,
+  shouldExpandWordPairsForExercise,
+} from '@/lib/course/course-bilingual';
 import { stripBilingualMarkupEs } from '@/lib/premium-utils';
 
 interface ExerciseRendererProps {
@@ -100,7 +103,7 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
 
   const exerciseContent = exercise.content || exercise;
   const questions = exerciseContent.questions || [];
-  const expandWordPairs = isRecepcionistaExerciseId(exercise.id);
+  const expandWordPairs = shouldExpandWordPairsForExercise(exercise.id);
 
   const longFormText =
     (typeof exercise.transcript === 'string' && exercise.transcript) ||
@@ -306,7 +309,7 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
   const renderCurrentQuestion = (q: any, qIndex: number) => {
     const rawQuestion = String(q.question || q.text || q.prompt || '');
     const normalizedQuestion = collapseAdjacentBlankMarkers(rawQuestion);
-    const questionForUi = applyC1QuestionBilingual(exercise.id, normalizedQuestion);
+    const questionForUi = applyCourseQuestionBilingual(exercise.id, normalizedQuestion);
     return (
       <div key={qIndex} className="space-y-4">
         {/* Image */}
@@ -416,7 +419,10 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
                       <span className={`text-base font-medium flex-1 leading-snug text-slate-700 ${
                         showAsCorrect ? '!text-green-800' : showAsIncorrect ? '!text-red-800' : isUserAnswer ? 'text-slate-900' : ''
                       }`}>
-                        <TranslatedText text={typeof option === 'string' ? option : option.text} expandWordPairs={expandWordPairs} />
+                        <TranslatedText
+                          text={applyCourseBilingualText(exercise.id, typeof option === 'string' ? option : option.text)}
+                          expandWordPairs={expandWordPairs}
+                        />
                       </span>
                       <SpeakButton text={typeof option === 'string' ? option : option.text} size="sm" className="opacity-50 hover:opacity-100" />
                     </div>
@@ -500,7 +506,8 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
               {q.startOfAnswer && (
                 <div className="p-3 bg-slate-50 rounded-xl border border-slate-200 text-sm text-slate-600 font-medium">
                   <span className="text-slate-400 text-xs block mb-1">Inicio de la frase:</span>
-                  {q.startOfAnswer}&nbsp;…
+                  <TranslatedText text={applyCourseBilingualText(exercise.id, q.startOfAnswer)} expandWordPairs={expandWordPairs} />
+                  &nbsp;…
                 </div>
               )}
               <div className="space-y-1.5">
@@ -575,9 +582,12 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
 
                 {(() => {
                   const hasRichExplanation = q.explanation && (q.explanation.length > 20 || q.explanation.includes('[['));
-                  const explanationText = toSpanishText(hasRichExplanation
-                    ? q.explanation
-                    : buildFallbackExplanation(q, exercise));
+                  const explanationText = applyCourseBilingualText(
+                    exercise.id,
+                    toSpanishText(hasRichExplanation
+                      ? q.explanation
+                      : buildFallbackExplanation(q, exercise))
+                  );
                   return explanationText ? (
                     <div className="bg-slate-50 rounded-2xl px-4 py-3 mb-3 border border-slate-100">
                       <p className="text-sm font-medium text-slate-500 mb-1">
@@ -716,14 +726,20 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
               </div>
             </div>
             <h2 className={`text-xl md:text-2xl font-semibold text-slate-900 leading-snug border-l-4 pl-4 ${typeTheme.border} rounded-r-sm`}>
-              <TranslatedText text={exerciseContent.title || 'Ejercicio'} expandWordPairs={expandWordPairs} />
+              <TranslatedText
+                text={applyCourseBilingualText(exercise.id, exerciseContent.title || 'Ejercicio')}
+                expandWordPairs={expandWordPairs}
+              />
             </h2>
           </div>
           {exerciseContent.instructions && (
             <div className="mt-1 flex gap-2.5 p-3.5 bg-slate-50 border border-slate-200 rounded-xl">
               <Info size={18} className="text-slate-500 flex-shrink-0 mt-0.5" aria-hidden />
               <div className="text-slate-700 text-base font-normal leading-relaxed">
-                <TranslatedText text={exerciseContent.instructions} expandWordPairs={expandWordPairs} />
+                <TranslatedText
+                  text={applyCourseBilingualText(exercise.id, exerciseContent.instructions)}
+                  expandWordPairs={expandWordPairs}
+                />
               </div>
             </div>
           )}
@@ -753,7 +769,10 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
                   Lee el texto con calma antes de responder
                 </p>
                 <div className="text-slate-800 text-base md:text-lg leading-relaxed font-normal">
-                  <Markdown content={longFormText} expandWordPairs={expandWordPairs} />
+                  <Markdown
+                    content={applyCourseBilingualText(exercise.id, longFormText)}
+                    expandWordPairs={expandWordPairs}
+                  />
                 </div>
               </div>
               {resolvedExerciseAudioUrl && (
@@ -781,7 +800,10 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
                         <div className="rounded-xl bg-sky-50 border border-sky-200 p-4">
                           <p className="text-sm font-semibold text-sky-800 mb-1">Pista (expresiones que puedes usar):</p>
                           <div className="text-slate-700 text-sm leading-relaxed whitespace-pre-line">
-                            <TranslatedText text={exerciseContent.expressionHint} expandWordPairs={expandWordPairs} />
+                            <TranslatedText
+                              text={applyCourseBilingualText(exercise.id, exerciseContent.expressionHint)}
+                              expandWordPairs={expandWordPairs}
+                            />
                           </div>
                         </div>
                       )}
@@ -789,7 +811,10 @@ export default function ExerciseRenderer({ exercise, vocabulary, onComplete }: E
                         <div className="rounded-xl bg-amber-50 border border-amber-200 p-4">
                           <p className="text-sm font-semibold text-amber-800 mb-2">Modelo (guía):</p>
                           <div className="text-slate-800 text-sm md:text-base leading-relaxed whitespace-pre-line">
-                            <TranslatedText text={exerciseContent.modelExample} expandWordPairs={expandWordPairs} />
+                            <TranslatedText
+                              text={applyCourseBilingualText(exercise.id, exerciseContent.modelExample)}
+                              expandWordPairs={expandWordPairs}
+                            />
                           </div>
                         </div>
                       )}
