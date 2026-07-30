@@ -108,6 +108,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.98,
     },
     {
+      url: `${baseUrl}/blog/ejercicios-relacionados`,
+      lastModified: mostRecentArticleDate,
+      changeFrequency: "weekly",
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/contacto`,
       lastModified: SITE_LAUNCH_DATE,
       changeFrequency: "yearly",
