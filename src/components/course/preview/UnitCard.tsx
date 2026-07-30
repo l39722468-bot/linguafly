@@ -8,6 +8,7 @@ import { trackUnitCardClick } from '@/lib/analytics';
 import { bilingualTitleEnglishPrimary, bilingualTitleForSearch } from '@/lib/utils/bilingual-title';
 import { TranslatedText } from '@/components/course/exercises/TranslatedText';
 import { isFreeUnitId } from '@/lib/access/unit-access';
+import { isFreeAccessMode } from '@/lib/product-config';
 
 interface UnitCardProps {
   unit: UnitMetadata;
@@ -107,7 +108,7 @@ function getUnitEmoji(unit: UnitMetadata): string {
 export function UnitCard({ unit, coursePath = '/curso-a1', hasFullAccess = false }: UnitCardProps) {
   const theme = getTheme(unit.unitNumber);
   const emoji = getUnitEmoji(unit);
-  const isLocked = !hasFullAccess && !isFreeUnitId(unit.unitId) && unit.unitNumber !== 1;
+  const isLocked = !isFreeAccessMode() && !hasFullAccess && !isFreeUnitId(unit.unitId) && unit.unitNumber !== 1;
   const unitHref = `${coursePath}/${unit.unitId}`;
   const ctaHref = isLocked
     ? `/planes?reason=premium_required&next=${encodeURIComponent(unitHref)}`

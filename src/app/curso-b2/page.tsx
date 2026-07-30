@@ -53,7 +53,7 @@ async function B2PreviewContent() {
               English B2 Course
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto font-medium">
-              Start free with Unit 1. Unlock the remaining B2 units ({courseMetadata.totalUnits} total) with a subscription from €0.99/month.
+              Curso completo de inglés B2 con {courseMetadata.totalUnits} unidades interactivas. Totalmente gratuito.
             </p>
           </div>
 

@@ -10,6 +10,7 @@ import { parseLastSeenPath } from '@/lib/access/parse-last-seen-path';
 import { savePlacementResult } from '@/lib/access/save-placement-result';
 import { hasPlacementCompleted } from '@/lib/access/has-placement-completed';
 import { supabaseAdmin } from '@/lib/supabase/client';
+import { isFreeAccessMode } from '@/lib/product-config';
 
 export const dynamic = 'force-dynamic';
 
@@ -186,6 +187,7 @@ export default async function MiPanelPage({
     : selectedGoal === 'professional'
       ? 'Ruta: Inglés profesional'
       : 'Ruta: General y exámenes oficiales';
+  const freeAccess = isFreeAccessMode();
 
   if (entitlements.isPaid && !hasPlacementCompletedFlag) {
     redirect('/test-nivel?source=post-pago&next=/mi-panel');
@@ -200,7 +202,9 @@ export default async function MiPanelPage({
             <p className="text-sm text-slate-500">Panel del alumno</p>
             <h1 className="text-3xl font-black text-slate-900 mt-1">Hola, {studentName}</h1>
             <p className="text-slate-600 mt-2">
-              Aqui tienes tu centro de control: cursos, progreso, suscripcion, pagos y soporte.
+              {freeAccess
+                ? 'Aquí tienes tu centro de control: cursos, progreso y soporte.'
+                : 'Aquí tienes tu centro de control: cursos, progreso, suscripción, pagos y soporte.'}
             </p>
             {hasPlacementCompletedFlag && (
               <div className="mt-4">
@@ -232,7 +236,7 @@ export default async function MiPanelPage({
             </section>
           )}
 
-          <section className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-5 gap-4">
+          <section className={`grid grid-cols-1 md:grid-cols-2 gap-4 ${freeAccess ? 'xl:grid-cols-4' : 'xl:grid-cols-5'}`}>
             <Link href={hasPlacementCompletedFlag ? primaryCourseHref : "/test-nivel?source=panel&next=/mi-panel"} className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
               <div className="text-lg font-black text-slate-900">Mis cursos</div>
               <div className="text-sm text-slate-600 mt-1">
@@ -243,16 +247,20 @@ export default async function MiPanelPage({
             </Link>
             <Link href="/mi-panel/cuenta" className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
               <div className="text-lg font-black text-slate-900">Configuración</div>
-              <div className="text-sm text-slate-600 mt-1">Datos, facturación y cancelar suscripción.</div>
+              <div className="text-sm text-slate-600 mt-1">
+                {freeAccess ? 'Datos de tu cuenta y preferencias.' : 'Datos, facturación y cancelar suscripción.'}
+              </div>
             </Link>
             <Link href="/support/ticket" className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
               <div className="text-lg font-black text-slate-900">Soporte y tickets</div>
               <div className="text-sm text-slate-600 mt-1">Enviar dudas y ver estado de tus consultas.</div>
             </Link>
-            <Link href="/planes" className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
-              <div className="text-lg font-black text-slate-900">Suscripcion y pago</div>
-              <div className="text-sm text-slate-600 mt-1">Cambiar plan o revisar tu suscripcion actual.</div>
-            </Link>
+            {!freeAccess && (
+              <Link href="/planes" className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
+                <div className="text-lg font-black text-slate-900">Suscripción y pago</div>
+                <div className="text-sm text-slate-600 mt-1">Cambiar plan o revisar tu suscripción actual.</div>
+              </Link>
+            )}
             <Link href="/test-nivel" className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
               <div className="text-lg font-black text-slate-900">Test de nivel</div>
               <div className="text-sm text-slate-600 mt-1">Repetir test para ajustar tu ruta de aprendizaje.</div>
@@ -280,7 +288,10 @@ export default async function MiPanelPage({
             <section className="bg-white border border-slate-200 rounded-2xl p-5">
               <h2 className="text-xl font-black text-slate-900">{goalTitle}</h2>
               <p className="text-sm text-slate-600 mt-1">
-                Nivel detectado: <span className="font-bold text-slate-900">{languageLevel}</span>. Estas son tus opciones desbloqueadas por plan.
+                Nivel detectado: <span className="font-bold text-slate-900">{languageLevel}</span>.
+                {freeAccess
+                  ? ' Estas son tus opciones de aprendizaje.'
+                  : ' Estas son tus opciones desbloqueadas por plan.'}
               </p>
 
               <div className="mt-4 grid grid-cols-1 md:grid-cols-2 gap-4">
@@ -419,35 +430,37 @@ export default async function MiPanelPage({
 
           {hasPlacementCompletedFlag && entitlements.isPaid && <WorldMapPanel />}
 
-          <section className="grid grid-cols-1 lg:grid-cols-3 gap-4">
-            <div className="lg:col-span-1 bg-white border border-slate-200 rounded-2xl p-5">
-              <h2 className="text-xl font-black text-slate-900">Mi suscripcion</h2>
-              <div className="mt-3 space-y-2 text-sm">
-                <p className="text-slate-600">
-                  Estado: <span className="font-bold text-slate-900">{subscriptionStatus}</span>
-                </p>
-                <p className="text-slate-600">
-                  Plan: <span className="font-bold text-slate-900">{subscriptionPlan}</span>
-                </p>
-                <p className="text-slate-600">
-                  Nivel: <span className="font-bold text-slate-900">{languageLevel}</span>
-                </p>
+          <section className={`grid grid-cols-1 gap-4 ${freeAccess ? '' : 'lg:grid-cols-3'}`}>
+            {!freeAccess && (
+              <div className="lg:col-span-1 bg-white border border-slate-200 rounded-2xl p-5">
+                <h2 className="text-xl font-black text-slate-900">Mi suscripción</h2>
+                <div className="mt-3 space-y-2 text-sm">
+                  <p className="text-slate-600">
+                    Estado: <span className="font-bold text-slate-900">{subscriptionStatus}</span>
+                  </p>
+                  <p className="text-slate-600">
+                    Plan: <span className="font-bold text-slate-900">{subscriptionPlan}</span>
+                  </p>
+                  <p className="text-slate-600">
+                    Nivel: <span className="font-bold text-slate-900">{languageLevel}</span>
+                  </p>
+                </div>
+                <Link
+                  href="/mi-panel/cuenta"
+                  className="inline-flex mt-4 px-4 py-2 rounded-lg bg-slate-900 text-white text-sm font-semibold hover:bg-slate-800 transition"
+                >
+                  Configuración de cuenta
+                </Link>
+                <Link
+                  href="/planes"
+                  className="inline-flex mt-2 px-4 py-2 rounded-lg border border-slate-300 text-slate-700 text-sm font-semibold hover:bg-slate-100 transition"
+                >
+                  Ver planes
+                </Link>
               </div>
-              <Link
-                href="/mi-panel/cuenta"
-                className="inline-flex mt-4 px-4 py-2 rounded-lg bg-slate-900 text-white text-sm font-semibold hover:bg-slate-800 transition"
-              >
-                Configuración de cuenta
-              </Link>
-              <Link
-                href="/planes"
-                className="inline-flex mt-2 px-4 py-2 rounded-lg border border-slate-300 text-slate-700 text-sm font-semibold hover:bg-slate-100 transition"
-              >
-                Ver planes
-              </Link>
-            </div>
+            )}
 
-            <div className="lg:col-span-2 bg-white border border-slate-200 rounded-2xl p-5">
+            <div className={`bg-white border border-slate-200 rounded-2xl p-5 ${freeAccess ? '' : 'lg:col-span-2'}`}>
               <h2 className="text-xl font-black text-slate-900">Mi progreso academico</h2>
               {!hasPlacementCompletedFlag ? (
                 <p className="text-slate-600 mt-3 text-sm">

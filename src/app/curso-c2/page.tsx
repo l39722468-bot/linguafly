@@ -44,7 +44,7 @@ async function C2PreviewContent() {
               Curso de Inglés C2
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto font-medium">
-              Empieza gratis con la unidad 1. El resto del curso C2 ({courseMetadata.totalUnits} unidades) se desbloquea desde 0,99 €/mes.
+              Curso completo de inglés C2 con {courseMetadata.totalUnits} unidades interactivas. Totalmente gratuito.
               Preparación para Cambridge C2 Proficiency (CPE) y dominio académico avanzado.
             </p>
           </div>

@@ -6,7 +6,6 @@ import { ShareButton } from "./ShareButton";
 import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schemas";
 import { BlogEnhancements } from "@/components/blog/BlogEnhancements";
 import { BlogAnalytics } from "@/components/blog/BlogAnalytics";
-import { BlogCTAButtons } from "@/components/blog/BlogCTAButtons";
 import { BlogExerciseMapBanner } from "@/components/blog/BlogExerciseMapBanner";
 import { TableOfContents } from "@/components/blog/TableOfContents";
 import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
@@ -326,17 +325,9 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                        {article.title}
                      </h1>
 
-                     <section className="mb-8 rounded-2xl border border-coral-100 bg-coral-50/70 p-6 print-hidden">
-                       <h2 className="font-display text-2xl font-black text-slate-900 mb-3">
-                         Cursos gratis, podcasts y cursos por sector profesional
-                       </h2>
-                       <p className="text-slate-700 mb-4">
-                         Tenemos cursos gratuitos para practicar de A1 a C2, podcasts para mejorar listening y cursos especializados por sector profesional.
-                       </p>
-                       <BlogCTAButtons location="intro" />
-                     </section>
-
-                     <BlogExerciseMapBanner articleSlug={slug} articleTitle={article.title} />
+                     <div className="print-hidden">
+                       <BlogExerciseMapBanner articleSlug={slug} articleTitle={article.title} />
+                     </div>
 
                      <div className="flex items-center justify-between py-6 border-y border-slate-50 print-hidden">
                        <div className="flex items-center gap-3">
@@ -475,12 +466,6 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                           #{keyword?.toString().replace(/\s+/g, '')}
                         </Link>
                       ))}
-                    </div>
-                    
-                    <div className="bg-white p-8 rounded-2xl border border-slate-100 shadow-sm">
-                      <h3 className="font-display text-xl font-bold text-slate-900 mb-4">Sigue practicando gratis</h3>
-                      <p className="text-slate-600 mb-6">Tenemos cursos gratuitos de A1 a C2, podcasts para practicar listening y cursos especializados por sector profesional.</p>
-                      <BlogCTAButtons location="footer" />
                     </div>
                   </div>
                 </div>

@@ -12,6 +12,7 @@ type Props = {
   subscriptionStartDate: string | null;
   isPaid: boolean;
   billingAlert?: string | null;
+  hideBilling?: boolean;
 };
 
 const STATUS_ES: Record<string, string> = {
@@ -39,6 +40,7 @@ export default function AccountSettingsClient({
   subscriptionStartDate,
   isPaid,
   billingAlert,
+  hideBilling = false,
 }: Props) {
   const [name, setName] = useState(initialName);
   const [saving, setSaving] = useState(false);
@@ -140,6 +142,7 @@ export default function AccountSettingsClient({
         </div>
       </section>
 
+      {!hideBilling && (
       <section className="bg-white border border-slate-200 rounded-2xl p-6">
         <h2 className="text-lg font-black text-slate-900">Facturación</h2>
         <p className="text-sm text-slate-600 mt-1">Estado de tu suscripción y pagos.</p>
@@ -198,6 +201,7 @@ export default function AccountSettingsClient({
           </p>
         )}
       </section>
+      )}
     </div>
   );
 }

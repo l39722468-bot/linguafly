@@ -9,6 +9,7 @@ import {
   parseUnitNumber,
   canAccessUnitInSequentialMode,
 } from "@/lib/access/sequential-unit-access";
+import { isFreeAccessMode } from "@/lib/product-config";
 
 export type ViewerCourseSequentialState = {
   isPaid: boolean;
@@ -71,7 +72,7 @@ export async function getViewerCourseSequentialState(
     return {
       isPaid,
       isAdmin,
-      sequentialMode: isPaid && !isAdmin,
+      sequentialMode: isFreeAccessMode() ? false : isPaid && !isAdmin,
       currentUnitNumber,
       completedUnits,
       totalUnits,

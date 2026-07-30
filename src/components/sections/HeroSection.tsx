@@ -34,17 +34,17 @@ export function HeroSection() {
             </Link>
             
             <Link 
-              href="/planes"
+              href="/aprender-ingles"
               className="inline-flex items-center justify-center px-8 py-4 rounded-xl border-2 border-slate-200 bg-white text-slate-800 font-black text-lg hover:border-coral-200 hover:bg-coral-50 transition-all"
             >
-              Ver Todos los Niveles
+              Ver todos los niveles
             </Link>
           </div>
 
           {/* Bloques de niveles */}
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mt-12">
             <Link 
-              href="/planes"
+              href="/curso-a1"
               className="group p-6 rounded-2xl border-2 border-slate-200 bg-white hover:border-blue-300 hover:shadow-lg transition-all"
             >
               <div className="w-12 h-12 rounded-xl bg-blue-100 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
@@ -55,7 +55,7 @@ export function HeroSection() {
             </Link>
 
             <Link 
-              href="/planes"
+              href="/curso-b1"
               className="group p-6 rounded-2xl border-2 border-slate-200 bg-white hover:border-coral-300 hover:shadow-lg transition-all"
             >
               <div className="w-12 h-12 rounded-xl bg-coral-100 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">
@@ -66,7 +66,7 @@ export function HeroSection() {
             </Link>
 
             <Link 
-              href="/planes"
+              href="/curso-c1"
               className="group p-6 rounded-2xl border-2 border-slate-200 bg-white hover:border-purple-300 hover:shadow-lg transition-all"
             >
               <div className="w-12 h-12 rounded-xl bg-purple-100 flex items-center justify-center mb-4 group-hover:scale-110 transition-transform">

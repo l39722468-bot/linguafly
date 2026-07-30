@@ -6,6 +6,7 @@ import {
   isPaidCourseRoute,
 } from "@/lib/routes/course-access";
 import { hasPlacementCompleted } from "@/lib/access/has-placement-completed";
+import { isFreeAccessMode } from "@/lib/product-config";
 
 const PUBLIC_ROUTES = new Set([
   "/",
@@ -53,6 +54,15 @@ function isPublicSEORoute(pathname: string) {
 
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
+  const freeAccess = isFreeAccessMode();
+
+  if (freeAccess && (pathname === "/planes" || pathname === "/cuenta/registro")) {
+    const url = request.nextUrl.clone();
+    url.pathname = pathname === "/cuenta/registro" ? "/cuenta/login" : "/aprender-ingles";
+    url.search = "";
+    return NextResponse.redirect(url, 303);
+  }
+
   const isStaticAsset = pathname.includes('.') || pathname.startsWith('/_next/');
   const isApiOrWebhook = pathname.startsWith('/api/');
   const shouldRedirectLegacyCourseRoute = isLegacyCourseRedirectRoute(pathname);
@@ -90,7 +100,7 @@ export async function middleware(request: NextRequest) {
     isPublicSEORoute(pathname) ||
     isFreeCourseRoute(pathname);
   if (!supabaseUrl || !supabaseKey) {
-    if (isPaidCourseRoute(pathname)) {
+    if (!freeAccess && isPaidCourseRoute(pathname)) {
       const url = request.nextUrl.clone();
       url.pathname = "/planes";
       url.searchParams.set("reason", "premium_required");
@@ -178,7 +188,7 @@ export async function middleware(request: NextRequest) {
     }
   } catch (err) {
     console.error("[Middleware] Auth error:", err);
-    if (isPaidCourseRoute(pathname)) {
+    if (!freeAccess && isPaidCourseRoute(pathname)) {
       const url = request.nextUrl.clone();
       url.pathname = "/planes";
       url.searchParams.set("reason", "premium_required");
@@ -266,8 +276,8 @@ export async function middleware(request: NextRequest) {
     return response;
   }
 
-  // Cursos A1–C2: unidad 2+ y extras requieren suscripción (0,99 €/mes)
-  if (isPaidCourse) {
+  // Cursos A1–C2: unidad 2+ y extras requieren suscripción (salvo modo gratuito)
+  if (!freeAccess && isPaidCourse) {
     const isPaid =
       profile?.subscription_status === "active" ||
       profile?.subscription_status === "trialing";
@@ -337,7 +347,7 @@ export async function middleware(request: NextRequest) {
       return response;
     }
 
-    if (!isPaid && !isAdmin && !isToeflExempt && !isOutlineOnly && !isStudentArea) {
+    if (!freeAccess && !isPaid && !isAdmin && !isToeflExempt && !isOutlineOnly && !isStudentArea) {
       const url = request.nextUrl.clone();
       url.pathname = "/planes";
       url.searchParams.set("reason", "premium_required");

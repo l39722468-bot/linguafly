@@ -44,7 +44,7 @@ async function C1PreviewContent() {
               Curso de Inglés C1
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto font-medium">
-              Empieza gratis con la unidad 1. El resto del curso C1 ({courseMetadata.totalUnits} unidades) se desbloquea desde 0,99 €/mes.
+              Curso completo de inglés C1 con {courseMetadata.totalUnits} unidades interactivas. Totalmente gratuito.
               Preparación para Cambridge C1 Advanced (CAE) y IELTS 7.0+.
             </p>
             <p className="text-sm text-slate-500 max-w-2xl mx-auto mt-4 leading-relaxed">

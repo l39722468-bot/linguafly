@@ -1,3 +1,5 @@
+import { isFreeAccessMode } from "@/lib/product-config";
+
 /** Primera unidad de cada curso general: acceso gratuito. */
 export const FREE_UNIT_SLUG = "unit-1";
 
@@ -26,8 +28,9 @@ export function isFreeCourseContentPath(pathname: string): boolean {
   return FREE_COURSE_CONTENT_RE.test(pathname);
 }
 
-/** Unidades 2+, test final, práctica diaria, etc. requieren suscripción. */
+/** Unidades 2+, test final, práctica diaria, etc. requieren suscripción (salvo modo gratuito). */
 export function requiresSubscriptionForCoursePath(pathname: string): boolean {
+  if (isFreeAccessMode()) return false;
   if (!isGeneralCoursePath(pathname)) return false;
   return !isFreeCourseContentPath(pathname);
 }
@@ -37,6 +40,7 @@ export function canAccessCourseUnit(params: {
   isPaid: boolean;
   isAdmin?: boolean;
 }): boolean {
+  if (isFreeAccessMode()) return true;
   if (params.isAdmin || params.isPaid) return true;
   return isFreeUnitId(params.unitId);
 }

@@ -340,7 +340,7 @@ export function calculateLevel(score: number, totalPoints: number): LevelResult 
         'Clases de conversación avanzada y debate',
         'Preparación para contextos profesionales especializados'
       ],
-      courseUrl: '/planes',
+      courseUrl: '/curso-c2',
       color: 'from-peach-500 to-pink-500',
       gradient: 'bg-gradient-to-br from-peach-500 to-pink-500',
     };
@@ -355,7 +355,7 @@ export function calculateLevel(score: number, totalPoints: number): LevelResult 
         'Inglés para negocios avanzado',
         'Redacción académica y profesional'
       ],
-      courseUrl: '/planes',
+      courseUrl: '/curso-c1',
       color: 'from-orange-500 to-coral-500',
       gradient: 'bg-gradient-to-br from-orange-500 to-coral-500',
     };
@@ -370,7 +370,7 @@ export function calculateLevel(score: number, totalPoints: number): LevelResult 
         'Inglés profesional para tu sector',
         'Conversación avanzada'
       ],
-      courseUrl: '/planes',
+      courseUrl: '/curso-b2',
       color: 'from-amber-500 to-amber-500',
       gradient: 'bg-gradient-to-br from-amber-500 to-amber-500',
     };

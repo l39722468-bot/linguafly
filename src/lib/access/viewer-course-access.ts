@@ -2,9 +2,11 @@ import { createClient } from "@/lib/supabase/server";
 import { getUserProfileByAuthId } from "@/lib/access/user-profile";
 import { resolveEntitlements } from "@/lib/access/entitlements";
 import { syncPaidEntitlementFromStripe } from "@/lib/stripe/provision-subscriber";
+import { isFreeAccessMode } from "@/lib/product-config";
 
 /** Indica si el visitante actual tiene acceso completo a los cursos A1–C2. */
 export async function getViewerHasFullCourseAccess(): Promise<boolean> {
+  if (isFreeAccessMode()) return true;
   try {
     const supabase = await createClient();
     const {

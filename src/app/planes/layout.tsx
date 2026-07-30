@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { redirect } from 'next/navigation';
+import { isFreeAccessMode } from '@/lib/product-config';
 
 export const metadata: Metadata = {
   title: 'Planes de Suscripción de Inglés: Elige tu Curso en Focus English',
@@ -23,5 +25,9 @@ export default function PlanesLayout({
 }: {
   children: React.ReactNode;
 }) {
+  if (isFreeAccessMode()) {
+    redirect('/aprender-ingles');
+  }
+
   return children;
 }

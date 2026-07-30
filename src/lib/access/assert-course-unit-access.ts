@@ -7,6 +7,7 @@ import { syncPaidEntitlementFromStripe } from "@/lib/stripe/provision-subscriber
 import { coursePathToId } from "@/lib/access/course-id-map";
 import { assertSequentialUnitAccess } from "@/lib/access/get-viewer-course-sequential-state";
 import { premiumCourseServerService } from "@/lib/services/premium-course-service.server";
+import { isFreeAccessMode } from "@/lib/product-config";
 
 async function getTotalUnitsForCoursePath(coursePath: string): Promise<number> {
   switch (coursePath) {
@@ -33,6 +34,8 @@ async function getTotalUnitsForCoursePath(coursePath: string): Promise<number> {
  * Suscriptores: solo la unidad activa (primera no completada).
  */
 export async function assertCourseUnitAccess(unitId: string, coursePath: string) {
+  if (isFreeAccessMode()) return;
+
   if (isFreeUnitId(unitId)) return;
 
   const nextPath = `${coursePath}/${unitId}`;

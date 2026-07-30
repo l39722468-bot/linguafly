@@ -1,12 +1,18 @@
 /**
- * Estrategia de producto: blog + freemium de cursos (unidad 1 gratis, resto con suscripción).
+ * Estrategia de producto: blog + cursos (modo gratuito visible por defecto).
  *
  * Variables de entorno (legacy):
  * - NEXT_PUBLIC_BLOG_ONLY_MODE
  * - NEXT_PUBLIC_COURSE_PILOT_ENABLED
+ * - NEXT_PUBLIC_FREE_ACCESS_MODE — si no es "false", la web se presenta 100% gratuita
  */
 
 import { isPublicCoursePath } from '@/lib/course-indexing';
+
+/** Oculta monetización y desbloquea el contenido (sin CTAs de pago ni candados). */
+export function isFreeAccessMode(): boolean {
+  return process.env.NEXT_PUBLIC_FREE_ACCESS_MODE !== 'false';
+}
 
 export type ProductStrategy = 'blog-only' | 'blog-funnel-pilot';
 
@@ -59,9 +65,9 @@ export function getProductRouteRedirect(pathname: string): string | null {
 }
 
 export const COURSE_FUNNEL_CTA = {
-  label: 'Empieza gratis la unidad 1',
+  label: 'Empezar curso A1',
   href: '/curso-a1/unit-1',
-  description: 'Unidad 1 gratis en cada nivel · resto desde 5,99 €/mes',
+  description: 'Cursos interactivos de A1 a C2 · 100% gratuitos',
 } as const;
 
 export const TEST_FUNNEL_CTA = {

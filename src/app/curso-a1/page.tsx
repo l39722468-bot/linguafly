@@ -45,7 +45,7 @@ async function A1PreviewContent() {
               Curso de inglés A1
             </h1>
             <p className="text-xl text-slate-600 max-w-3xl mx-auto font-medium">
-              Empieza gratis con la unidad 1. El resto del curso A1 ({courseMetadata.totalUnits} unidades) se desbloquea con la suscripción desde 0,99 €/mes.
+              Curso completo de inglés A1 con {courseMetadata.totalUnits} unidades interactivas. Totalmente gratuito.
             </p>
           </div>
 

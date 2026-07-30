@@ -4,6 +4,7 @@ import { createClient } from '@/lib/supabase/server';
 import { Navigation } from '@/components/sections/Navigation';
 import { getUserProfileByAuthId } from '@/lib/access/user-profile';
 import { resolveEntitlements } from '@/lib/access/entitlements';
+import { isFreeAccessMode } from '@/lib/product-config';
 import AccountSettingsClient from './AccountSettingsClient';
 
 export const dynamic = 'force-dynamic';
@@ -73,6 +74,7 @@ export default async function MiPanelCuentaPage({
             subscriptionStartDate={subscriptionStartDate}
             isPaid={entitlements.isPaid}
             billingAlert={billingMessage(billingCode)}
+            hideBilling={isFreeAccessMode()}
           />
         </div>
       </main>

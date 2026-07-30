@@ -1,3 +1,5 @@
+import { isFreeAccessMode } from "@/lib/product-config";
+
 export type PlanTier = "free" | "basic" | "premium";
 
 export type UserEntitlements = {
@@ -23,6 +25,21 @@ export function resolveEntitlements(params: {
   subscriptionStatus?: string | null;
   subscriptionPlan?: string | null;
 }): UserEntitlements {
+  if (isFreeAccessMode()) {
+    return {
+      isPaid: true,
+      tier: "premium",
+      officialCourses: true,
+      travelTrack: true,
+      professionalTrack: true,
+      aiSpeakingFull: true,
+      aiSpeakingLimited: false,
+      podcasts: true,
+      readings: true,
+      vocabulary: true,
+    };
+  }
+
   const status = String(params.subscriptionStatus || "").toLowerCase().trim();
   const isPaid =
     status === "active" ||

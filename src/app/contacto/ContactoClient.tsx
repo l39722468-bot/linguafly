@@ -319,28 +319,28 @@ export default function ContactPage() {
               </Link>
 
               <Link
-                href="/planes"
+                href="/aprender-ingles"
                 className="bg-gradient-to-br from-orange-50 to-peach-50 rounded-xl p-6 border border-orange-200 hover:shadow-lg transition-shadow group"
               >
                 <div className="text-3xl mb-3">🎓</div>
                 <h3 className="font-bold text-slate-900 mb-2 group-hover:text-coral-600">
-                  Cursos Especializados
+                  Cursos por nivel
                 </h3>
                 <p className="text-sm text-slate-600">
-                  Programas por sector profesional
+                  Programas A1–C2 y cursos por sector profesional
                 </p>
               </Link>
 
               <Link
-                href="/cuenta/registro"
+                href="/cuenta/login"
                 className="bg-gradient-to-br from-amber-50 to-amber-50 rounded-xl p-6 border border-amber-200 hover:shadow-lg transition-shadow group"
               >
                 <div className="text-3xl mb-3">✍️</div>
                 <h3 className="font-bold text-slate-900 mb-2 group-hover:text-amber-600">
-                  Inscripción
+                  Mi cuenta
                 </h3>
                 <p className="text-sm text-slate-600">
-                  Inscríbete en nuestros cursos
+                  Accede a tus cursos y guarda tu progreso
                 </p>
               </Link>
 
