@@ -176,7 +176,6 @@ export default async function MiPanelPage({
     officialCourses: (entitlements.officialCourses ? 'included' : 'blocked') as AccessState,
     travelTrack: (entitlements.travelTrack ? 'included' : 'blocked') as AccessState,
     professionalTrack: (entitlements.professionalTrack ? 'included' : 'blocked') as AccessState,
-    aiSpeaking: (entitlements.aiSpeakingFull ? 'included' : entitlements.aiSpeakingLimited ? 'limited' : 'blocked') as AccessState,
     podcasts: (entitlements.podcasts ? 'included' : 'blocked') as AccessState,
     readings: (entitlements.readings ? 'included' : 'blocked') as AccessState,
     vocabulary: (entitlements.vocabulary ? 'included' : 'blocked') as AccessState,
@@ -313,35 +312,6 @@ export default async function MiPanelPage({
                           Ver suscripción 5,99 €/mes
                         </Link>
                       </>
-                    )}
-                  </div>
-                </div>
-
-                <div className="border border-slate-200 rounded-xl p-4">
-                  <div className="flex items-center justify-between gap-2">
-                    <h3 className="font-black text-slate-900">Speaking con IA</h3>
-                    <span className={`text-xs font-bold px-2 py-1 rounded ${
-                      blockAccess.aiSpeaking === 'included'
-                        ? 'bg-emerald-100 text-emerald-700'
-                        : blockAccess.aiSpeaking === 'limited'
-                          ? 'bg-amber-100 text-amber-700'
-                          : 'bg-red-100 text-red-700'
-                    }`}>
-                      {accessLabel(blockAccess.aiSpeaking)}
-                    </span>
-                  </div>
-                  <div className="mt-3 space-y-2">
-                    {blockAccess.aiSpeaking !== 'blocked' ? (
-                      <>
-                        <Link href="/tutor-ia" className="block text-sm font-semibold text-coral-700 hover:text-coral-800">
-                          Practicar speaking con IA
-                        </Link>
-                        {blockAccess.aiSpeaking === 'limited' && (
-                          <p className="text-xs text-amber-700">Plan básico: práctica de IA en modalidad limitada.</p>
-                        )}
-                      </>
-                    ) : (
-                      <p className="text-sm text-slate-600">Disponible en planes con suscripción activa.</p>
                     )}
                   </div>
                 </div>
