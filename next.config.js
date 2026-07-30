@@ -94,6 +94,11 @@ const nextConfig = {
       { source: '/blog/metodos/voz-pasiva-avanzada-guia', destination: '/blog/gramatica/voz-pasiva-avanzada-guia', permanent: true },
       { source: '/blog/metodos/voz-pasiva-ingles-guia', destination: '/blog/gramatica/voz-pasiva-ingles-guia', permanent: true },
 
+      // PDFs de condicionales → artículos con ejercicios inline y descarga PDF
+      { source: '/docs/ejercicios-condicionales-a2-b1.pdf', destination: '/blog/gramatica/ejercicios-condicionales-a2-b1', permanent: true },
+      { source: '/docs/ejercicios-condicionales-b1-b2.pdf', destination: '/blog/gramatica/ejercicios-condicionales-b1-b2', permanent: true },
+      { source: '/docs/ejercicios-condicionales-c1-c2.pdf', destination: '/blog/gramatica/ejercicios-condicionales-c1-c2', permanent: true },
+
       // SEO - Redirecciones de Cluster a Blog
       {
         source: '/precios',
