@@ -36,6 +36,7 @@ function SignInForm() {
   }, []);
   const [loading, setLoading] = useState(false);
   const [isAlreadyLoggedIn, setIsAlreadyLoggedIn] = useState(false);
+  const [authChecked, setAuthChecked] = useState(false);
 
   useEffect(() => {
     async function checkUser() {
@@ -44,6 +45,7 @@ function SignInForm() {
         setIsAlreadyLoggedIn(true);
         setEmail(user.email || '');
       }
+      setAuthChecked(true);
     }
     checkUser();
   }, []);
@@ -96,7 +98,14 @@ function SignInForm() {
           </div>
 
           {/* Already logged in view */}
-          {isAlreadyLoggedIn ? (
+          {!authChecked ? (
+            <div className="flex justify-center py-8">
+              <svg className="animate-spin h-8 w-8 text-coral-500" viewBox="0 0 24 24">
+                <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" fill="none" />
+                <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z" />
+              </svg>
+            </div>
+          ) : isAlreadyLoggedIn ? (
             <div className="space-y-4">
               <button
                 onClick={() => window.location.replace(callbackUrl)}
@@ -213,6 +222,7 @@ function SignInForm() {
           )}
 
           {/* Divider */}
+          {authChecked && !isAlreadyLoggedIn && (
           <div className="relative my-8">
             <div className="absolute inset-0 flex items-center">
               <div className="w-full border-t-2 border-slate-200"></div>
@@ -223,8 +233,10 @@ function SignInForm() {
               </span>
             </div>
           </div>
+          )}
 
           {/* Register Link */}
+          {authChecked && !isAlreadyLoggedIn && (
           <div className="text-center">
             <p className="text-slate-600 mb-3">
               ¿Aún no tienes acceso a los cursos?
@@ -237,6 +249,7 @@ function SignInForm() {
               <span className="text-xl group-hover:translate-x-1 transition-transform">→</span>
             </Link>
           </div>
+          )}
         </div>
 
         {/* Footer */}

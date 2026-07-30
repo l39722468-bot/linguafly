@@ -1,7 +1,9 @@
 "use client";
 
 import Link from "next/link";
-import { useState } from "react";
+import { useRouter } from "next/navigation";
+import { useState, useEffect } from "react";
+import { getUser, signOut, onAuthStateChange } from "@/lib/auth-helpers";
 
 const COURSE_LINKS = [
   { label: "A1", href: "/curso-a1" },
@@ -13,7 +15,33 @@ const COURSE_LINKS = [
 ] as const;
 
 export function Navigation() {
+  const router = useRouter();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+
+  useEffect(() => {
+    async function checkAuth() {
+      const { user } = await getUser();
+      setIsLoggedIn(!!user);
+    }
+
+    checkAuth();
+
+    const { data: { subscription } } = onAuthStateChange((user) => {
+      setIsLoggedIn(!!user);
+    });
+
+    return () => subscription.unsubscribe();
+  }, []);
+
+  const handleLogout = async () => {
+    await signOut();
+    setIsLoggedIn(false);
+    setMobileMenuOpen(false);
+    router.push("/cuenta/login");
+    router.refresh();
+  };
+
   const spanishNavLinks = {
     phrases: "/frases-en-ingles",
     guides: "/aprender-ingles",
@@ -70,22 +98,49 @@ export function Navigation() {
             <Link href={navLinks.professionalCourses} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Cursos por sector
             </Link>
-            <Link
-              href="/cuenta/login"
-              className="ml-2 px-4 py-2 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-sm font-black text-white shadow-sm hover:shadow-md hover:scale-[1.02] transition-all"
-            >
-              Iniciar sesión
-            </Link>
+            {isLoggedIn ? (
+              <>
+                <Link
+                  href="/mi-panel"
+                  className="ml-2 px-4 py-2 rounded-xl text-sm font-bold text-gray-700 hover:text-[#FF6B6B] border border-transparent hover:border-[#FF6B6B]/20 hover:bg-[#FF6B6B]/5 transition-all"
+                >
+                  Mi Panel
+                </Link>
+                <button
+                  type="button"
+                  onClick={handleLogout}
+                  className="px-4 py-2 rounded-xl text-sm font-bold text-red-500 hover:bg-red-50 transition-all"
+                >
+                  Cerrar sesión
+                </button>
+              </>
+            ) : (
+              <Link
+                href="/cuenta/login"
+                className="ml-2 px-4 py-2 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-sm font-black text-white shadow-sm hover:shadow-md hover:scale-[1.02] transition-all"
+              >
+                Iniciar sesión
+              </Link>
+            )}
           </div>
 
           {/* Mobile menu button */}
           <div className="flex items-center gap-2 md:hidden">
-            <Link
-              href="/cuenta/login"
-              className="px-3 py-1.5 rounded-lg bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-xs font-black text-white"
-            >
-              Entrar
-            </Link>
+            {isLoggedIn ? (
+              <Link
+                href="/mi-panel"
+                className="px-3 py-1.5 rounded-lg bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-xs font-black text-white"
+              >
+                Mi Panel
+              </Link>
+            ) : (
+              <Link
+                href="/cuenta/login"
+                className="px-3 py-1.5 rounded-lg bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-xs font-black text-white"
+              >
+                Entrar
+              </Link>
+            )}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               className="p-2 rounded-lg hover:bg-slate-100"
@@ -168,13 +223,23 @@ export function Navigation() {
               >
                 Cursos por sector
               </Link>
-              <Link
-                href="/cuenta/login"
-                className="mt-2 inline-flex items-center justify-center px-4 py-3 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-sm font-black text-white text-center"
-                onClick={() => setMobileMenuOpen(false)}
-              >
-                Iniciar sesión
-              </Link>
+              {isLoggedIn ? (
+                <button
+                  type="button"
+                  onClick={handleLogout}
+                  className="mt-2 inline-flex items-center justify-center px-4 py-3 rounded-xl border-2 border-red-200 bg-red-50 text-sm font-black text-red-600 text-center"
+                >
+                  Cerrar sesión
+                </button>
+              ) : (
+                <Link
+                  href="/cuenta/login"
+                  className="mt-2 inline-flex items-center justify-center px-4 py-3 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-sm font-black text-white text-center"
+                  onClick={() => setMobileMenuOpen(false)}
+                >
+                  Iniciar sesión
+                </Link>
+              )}
             </div>
           </div>
         )}
