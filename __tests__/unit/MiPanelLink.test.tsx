@@ -36,4 +36,11 @@ describe('MiPanelLink', () => {
     const link = screen.getByRole('link', { name: /mi panel/i });
     expect(link).toHaveAttribute('href', '/mi-panel');
   });
+
+  it('renders outline variant on course index pages', () => {
+    render(<MiPanelLink variant="outline" />);
+
+    const link = screen.getByRole('link', { name: /volver a mi panel/i });
+    expect(link).toHaveAttribute('href', '/mi-panel');
+  });
 });
