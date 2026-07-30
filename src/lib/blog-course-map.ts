@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import { appendArticleReturnParam } from './blog-article-return';
 import { getBlogArticles, normalizeCategory, type BlogPost } from './blog';
 
 export interface CourseUnitRef {
@@ -566,7 +567,10 @@ export function buildBlogCourseRelations(articles?: BlogPost[]): BlogCourseRelat
           courseLabel: getCourseLabel(unit.courseId),
           unitNumber: unit.unitNumber,
           unitTitle: getUnitTitle(unit.courseId, unit.unitNumber),
-          unitUrl: getCourseUnitUrl(unit.courseId, unit.unitNumber),
+          unitUrl: appendArticleReturnParam(
+            getCourseUnitUrl(unit.courseId, unit.unitNumber),
+            articleUrl,
+          ),
         };
         const key = relationKey(relation);
         if (!seen.has(key)) {

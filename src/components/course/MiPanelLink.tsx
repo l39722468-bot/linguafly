@@ -1,5 +1,11 @@
+'use client';
+
 import Link from 'next/link';
-import { LayoutDashboard } from 'lucide-react';
+import { Suspense } from 'react';
+import { useSearchParams } from 'next/navigation';
+import { ArrowLeft, LayoutDashboard } from 'lucide-react';
+import { useUser } from '@/hooks/useAuth';
+import { getArticleReturnPath } from '@/lib/blog-article-return';
 
 type MiPanelLinkProps = {
   variant?: 'hero' | 'nav' | 'outline';
@@ -15,19 +21,51 @@ const variantClasses: Record<NonNullable<MiPanelLinkProps['variant']>, string> =
     'inline-flex items-center gap-2 px-4 py-2 rounded-xl border border-slate-200 bg-white text-sm font-bold text-slate-700 hover:bg-slate-50 transition-colors print-hidden',
 };
 
-const variantLabels: Record<NonNullable<MiPanelLinkProps['variant']>, string> = {
+const panelLabels: Record<NonNullable<MiPanelLinkProps['variant']>, string> = {
   hero: 'Ir a mi panel',
   nav: 'Mi panel',
   outline: 'Volver a mi panel',
 };
 
-export function MiPanelLink({ variant = 'hero', className = '' }: MiPanelLinkProps) {
-  const label = variantLabels[variant];
+function MiPanelLinkInner({ variant = 'hero', className = '' }: MiPanelLinkProps) {
+  const searchParams = useSearchParams();
+  const { isAuthenticated, isLoading } = useUser();
+  const articleReturnPath = getArticleReturnPath(searchParams);
+
+  if (isLoading) {
+    return null;
+  }
+
+  if (!isAuthenticated && articleReturnPath) {
+    return (
+      <Link
+        href={articleReturnPath}
+        className={`${variantClasses[variant]} ${className}`.trim()}
+      >
+        <ArrowLeft className="w-4 h-4" aria-hidden="true" />
+        <span>Volver al artículo</span>
+      </Link>
+    );
+  }
+
+  if (!isAuthenticated) {
+    return null;
+  }
+
+  const label = panelLabels[variant];
 
   return (
     <Link href="/mi-panel" className={`${variantClasses[variant]} ${className}`.trim()}>
-      <LayoutDashboard className={variant === 'nav' ? 'w-4 h-4' : 'w-4 h-4'} aria-hidden="true" />
+      <LayoutDashboard className="w-4 h-4" aria-hidden="true" />
       <span>{label}</span>
     </Link>
+  );
+}
+
+export function MiPanelLink(props: MiPanelLinkProps) {
+  return (
+    <Suspense fallback={null}>
+      <MiPanelLinkInner {...props} />
+    </Suspense>
   );
 }
