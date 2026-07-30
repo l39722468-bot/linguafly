@@ -7,6 +7,7 @@ import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema } fr
 import { BlogEnhancements } from "@/components/blog/BlogEnhancements";
 import { BlogAnalytics } from "@/components/blog/BlogAnalytics";
 import { BlogCTAButtons } from "@/components/blog/BlogCTAButtons";
+import { BlogExerciseMapBanner } from "@/components/blog/BlogExerciseMapBanner";
 import { TableOfContents } from "@/components/blog/TableOfContents";
 import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
 import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
@@ -334,6 +335,8 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                        </p>
                        <BlogCTAButtons location="intro" />
                      </section>
+
+                     <BlogExerciseMapBanner articleSlug={slug} articleTitle={article.title} />
 
                      <div className="flex items-center justify-between py-6 border-y border-slate-50 print-hidden">
                        <div className="flex items-center gap-3">
