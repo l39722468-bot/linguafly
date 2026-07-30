@@ -1,14 +1,23 @@
-const COOKIEBOT_ID = process.env.NEXT_PUBLIC_COOKIEBOT_ID || '474b1dce-7229-40d3-88c2-a2323b9a57f9';
+'use client';
+
+import { useEffect } from 'react';
+import { COOKIEBOT_ID, shouldLoadCookiebot } from '@/lib/cookiebot-config';
 
 export default function Cookiebot() {
-  return (
-    <script
-      id="Cookiebot"
-      src="https://consent.cookiebot.com/uc.js"
-      data-cbid={COOKIEBOT_ID}
-      data-blockingmode="auto"
-      type="text/javascript"
-      async
-    />
-  );
+  useEffect(() => {
+    if (!shouldLoadCookiebot(window.location.hostname)) return;
+    if (document.getElementById('Cookiebot')) return;
+
+    const script = document.createElement('script');
+    script.id = 'Cookiebot';
+    script.src = 'https://consent.cookiebot.com/uc.js';
+    script.setAttribute('data-cbid', COOKIEBOT_ID);
+    // Manual evita que Cookiebot bloquee los scripts internos de Next.js (RSC bootstrap).
+    script.setAttribute('data-blockingmode', 'manual');
+    script.type = 'text/javascript';
+    script.async = true;
+    document.head.appendChild(script);
+  }, []);
+
+  return null;
 }

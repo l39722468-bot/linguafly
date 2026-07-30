@@ -1,8 +1,6 @@
 import { Navigation } from "@/components/sections/Navigation";
+import CookieDeclaration from "@/components/CookieDeclaration";
 import { Metadata } from "next";
-
-const COOKIEBOT_ID =
-  process.env.NEXT_PUBLIC_COOKIEBOT_ID || "474b1dce-7229-40d3-88c2-a2323b9a57f9";
 
 export const metadata: Metadata = {
   title: "Política de Cookies",
@@ -60,12 +58,7 @@ export default function CookiesPage() {
               cuando están presentes:
             </p>
 
-            <script
-              id="CookieDeclaration"
-              src={`https://consent.cookiebot.com/${COOKIEBOT_ID}/cd.js`}
-              type="text/javascript"
-              async
-            />
+            <CookieDeclaration />
 
             <h2 className="text-2xl font-bold mt-10 mb-4">
               4. Cómo cambiar el consentimiento

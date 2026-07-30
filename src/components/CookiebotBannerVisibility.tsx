@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect } from 'react';
+import { shouldLoadCookiebot } from '@/lib/cookiebot-config';
 
 type CookiebotApi = {
   hasResponse?: boolean;
@@ -15,6 +16,8 @@ declare global {
 
 export default function CookiebotBannerVisibility() {
   useEffect(() => {
+    if (!shouldLoadCookiebot(window.location.hostname)) return;
+
     let cancelled = false;
     let attempts = 0;
 

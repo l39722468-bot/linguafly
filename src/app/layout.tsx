@@ -4,6 +4,7 @@ import { OrganizationSchema, WebsiteSchema } from "./schema";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import Cookiebot from "@/components/Cookiebot";
 import CookiebotBannerVisibility from "@/components/CookiebotBannerVisibility";
+import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import UspapiLocator from "@/components/UspapiLocator";
 import { Analytics } from "@vercel/analytics/next";
 
@@ -87,14 +88,6 @@ export default function RootLayout({
     <html lang="es" className="scroll-smooth" suppressHydrationWarning>
       <head>
         <UspapiLocator />
-        <Cookiebot />
-        {/* Monetag zona 230407: tag único del panel (quge5.com) */}
-        <script
-          src="https://quge5.com/88/tag.min.js"
-          data-zone="230407"
-          async
-          data-cfasync="false"
-        />
         <script
           dangerouslySetInnerHTML={{
             __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -103,6 +96,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
 })(window,document,'script','dataLayer','GTM-PR2H3P77');`,
           }}
+          data-cookieconsent="statistics"
         />
         {/* Preconnect críticos: imágenes, Supabase (auth), Cookiebot */}
         <link rel="preconnect" href="https://images.pexels.com" />
@@ -126,6 +120,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <script
           async
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1198438843650445"
+          data-cookieconsent="marketing"
         />
 
         {/* Anti-piracy protection */}
@@ -134,7 +129,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
       </head>
       <body className="antialiased bg-white text-slate-900 font-sans" suppressHydrationWarning>
+        <Cookiebot />
         <CookiebotBannerVisibility />
+        <DeferredMonetagAd />
         <noscript>
           <iframe
             src="https://www.googletagmanager.com/ns.html?id=GTM-PR2H3P77"
