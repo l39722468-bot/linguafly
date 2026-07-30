@@ -6,6 +6,7 @@ import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access'
 import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award, FileText } from 'lucide-react';
 import Link from 'next/link';
+import { MiPanelLink } from '@/components/course/MiPanelLink';
 
 export const dynamic = 'force-dynamic';
 
@@ -46,6 +47,7 @@ async function A2PreviewContent() {
                 <FileText className="w-4 h-4" />
                 <span>View Course Outline</span>
               </Link>
+              <MiPanelLink />
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 mb-4 tracking-tight">
               English A2 Course

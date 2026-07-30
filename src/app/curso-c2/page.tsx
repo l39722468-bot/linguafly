@@ -5,6 +5,7 @@ import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access'
 import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award } from 'lucide-react';
 import Link from 'next/link';
+import { MiPanelLink } from '@/components/course/MiPanelLink';
 
 export const dynamic = 'force-dynamic';
 
@@ -32,9 +33,12 @@ async function C2PreviewContent() {
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-7xl mx-auto px-4 py-12 md:py-16">
           <div className="text-center mb-8">
-            <div className="inline-flex items-center gap-2 px-4 py-2 bg-violet-50 text-violet-600 rounded-full font-bold text-sm border border-violet-100 mb-4">
-              <Award className="w-4 h-4" />
-              <span>C2 Level · Mastery / Proficiency</span>
+            <div className="flex items-center justify-center gap-3 mb-4">
+              <div className="inline-flex items-center gap-2 px-4 py-2 bg-violet-50 text-violet-600 rounded-full font-bold text-sm border border-violet-100">
+                <Award className="w-4 h-4" />
+                <span>C2 Level · Mastery / Proficiency</span>
+              </div>
+              <MiPanelLink />
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 mb-4 tracking-tight">
               Curso de Inglés C2

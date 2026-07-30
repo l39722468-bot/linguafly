@@ -5,6 +5,7 @@ import { useEffect, useMemo, useState, Suspense } from 'react';
 import ExerciseRenderer from '@/components/ExerciseRenderer';
 import { ArrowLeft, ArrowRight, Home, CheckCircle, Sparkles } from 'lucide-react';
 import Link from 'next/link';
+import { MiPanelLink } from '@/components/course/MiPanelLink';
 import { trackUnitTimeSpent, trackExerciseCompletion, trackUnitCompletion } from '@/lib/analytics';
 import AIExercisePractice from '@/components/course/AIExercisePractice';
 import { UnitJourneyContinue } from '@/components/course/UnitJourneyContinue';
@@ -297,7 +298,8 @@ function UnitPreviewContent() {
           </h1>
         </div>
         
-        <div className="flex gap-2">
+        <div className="flex items-center gap-2">
+          <MiPanelLink variant="nav" />
           <button 
             onClick={() => setCurrentIndex(prev => Math.max(0, prev - 1))}
             disabled={currentIndex === 0}
