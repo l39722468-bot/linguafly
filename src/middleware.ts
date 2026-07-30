@@ -5,6 +5,7 @@ import {
   isLegacyCourseRedirectRoute,
   isPaidCourseRoute,
 } from "@/lib/routes/course-access";
+import { hasPlacementCompleted } from "@/lib/access/has-placement-completed";
 
 const PUBLIC_ROUTES = new Set([
   "/",
@@ -145,7 +146,7 @@ export async function middleware(request: NextRequest) {
       // Primero intento con el JWT del usuario
       const { data: ownProfile } = await supabase
         .from("user_profiles")
-        .select("subscription_status, role, language_level, learning_goals")
+        .select("subscription_status, role, language_level, learning_goals, placement_completed_at")
         .eq("user_id", user.id)
         .maybeSingle();
 
@@ -155,7 +156,7 @@ export async function middleware(request: NextRequest) {
       if ((!profile || !profile.role) && process.env.SUPABASE_SERVICE_ROLE_KEY && process.env.NEXT_PUBLIC_SUPABASE_URL) {
         try {
           const res = await fetch(
-            `${process.env.NEXT_PUBLIC_SUPABASE_URL}/rest/v1/user_profiles?user_id=eq.${user.id}&select=subscription_status,role,language_level,learning_goals&limit=1`,
+            `${process.env.NEXT_PUBLIC_SUPABASE_URL}/rest/v1/user_profiles?user_id=eq.${user.id}&select=subscription_status,role,language_level,learning_goals,placement_completed_at&limit=1`,
             {
               headers: {
                 apikey: process.env.SUPABASE_SERVICE_ROLE_KEY,
@@ -320,10 +321,14 @@ export async function middleware(request: NextRequest) {
     // Panel alumno: accesible con sesión, sin exigir plan de pago.
     const isStudentArea = pathname.startsWith("/mi-panel");
     const goals = Array.isArray((profile as any)?.learning_goals) ? ((profile as any).learning_goals as string[]) : [];
-    const hasPlacementCompleted =
-      Boolean((profile as any)?.placement_completed) ||
-      Boolean((profile as any)?.language_level) ||
-      goals.includes('placement_completed');
+    const hasPlacementCompletedFlag = hasPlacementCompleted(
+      {
+        placement_completed: (profile as any)?.placement_completed,
+        placement_completed_at: (profile as any)?.placement_completed_at,
+        language_level: (profile as any)?.language_level,
+        learning_goals: goals,
+      }
+    );
 
     // Admin area: si hay sesión, dejar pasar.
     // La comprobación real de role=admin se hace en app/admin/layout.tsx (Node + service role),
@@ -343,7 +348,7 @@ export async function middleware(request: NextRequest) {
     const needsPlacement =
       isPaid &&
       !isAdmin &&
-      !hasPlacementCompleted &&
+      !hasPlacementCompletedFlag &&
       !pathname.startsWith('/test-nivel') &&
       !pathname.startsWith('/onboarding') &&
       !pathname.startsWith('/success') &&

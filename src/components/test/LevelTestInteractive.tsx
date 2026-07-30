@@ -25,12 +25,16 @@ export default function LevelTestInteractive({ authUser = null }: LevelTestInter
   const [startTime] = useState(Date.now());
   const [showLeadForm, setShowLeadForm] = useState(false);
   const [leadData, setLeadData] = useState({ firstName: '', email: '' });
+  const [placementSaved, setPlacementSaved] = useState(false);
+  const [placementError, setPlacementError] = useState<string | null>(null);
   const [isSubmitting, setIsSubmitting] = useState(false);
   const isAuthenticated = Boolean(authUser || user);
   const resolvedUserEmail = authUser?.email || user?.email || '';
   const resolvedUserName = authUser?.fullName || (user?.user_metadata?.full_name as string | undefined) || '';
   const finalizeTest = async (leadOverride?: { firstName?: string; email?: string }) => {
     setIsSubmitting(true);
+    setPlacementError(null);
+    setPlacementSaved(false);
 
     let totalScore = 0;
     LEVEL_TEST_QUESTIONS.forEach(question => {
@@ -67,13 +71,20 @@ export default function LevelTestInteractive({ authUser = null }: LevelTestInter
 
     if (isAuthenticated) {
       try {
-        await fetch('/api/placement/complete', {
+        const response = await fetch('/api/placement/complete', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify({ level: levelResult.level }),
         });
+        const data = (await response.json().catch(() => ({}))) as { success?: boolean; error?: string };
+        if (response.ok && data.success) {
+          setPlacementSaved(true);
+        } else {
+          setPlacementError(data.error || 'No se pudo guardar el resultado del test.');
+        }
       } catch (error) {
         console.error('Error saving authenticated placement result:', error);
+        setPlacementError('No se pudo guardar el resultado del test.');
       }
     }
 
@@ -372,12 +383,19 @@ export default function LevelTestInteractive({ authUser = null }: LevelTestInter
 
             {/* CTAs */}
             <div className="flex flex-col sm:flex-row gap-4">
-              {/*
-                Incluimos nivel en query para que el panel pueda persistir
-                en servidor incluso si falla la llamada cliente.
-              */}
+              {placementError && isAuthenticated && (
+                <p className="w-full rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-900">
+                  {placementError} Si continúas, intentaremos guardar tu nivel al entrar al panel.
+                </p>
+              )}
               <Link
-                href={isAuthenticated ? `/mi-panel?placement=1&level=${encodeURIComponent(result.level)}` : result.courseUrl}
+                href={
+                  isAuthenticated
+                    ? placementSaved
+                      ? '/mi-panel'
+                      : `/mi-panel?placement=1&level=${encodeURIComponent(result.level)}`
+                    : result.courseUrl
+                }
                 className="flex-1 bg-gradient-to-r from-coral-600 to-peach-600 text-white px-8 py-4 rounded-xl font-bold text-center hover:from-coral-700 hover:to-peach-700 transition-all shadow-lg hover:shadow-xl"
               >
                 {isAuthenticated ? 'Ir a mi ruta personalizada →' : 'Ver Curso Recomendado →'}

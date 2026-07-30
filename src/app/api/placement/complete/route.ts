@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import { createClient } from "@/lib/supabase/server";
 import { savePlacementResult } from "@/lib/access/save-placement-result";
+import { supabaseAdmin } from "@/lib/supabase/client";
 
 type PlacementPayload = {
   level?: string;
@@ -20,6 +21,7 @@ export async function POST(request: NextRequest) {
     const body = (await request.json()) as PlacementPayload;
     const result = await savePlacementResult({
       supabase,
+      adminSupabase: supabaseAdmin,
       userId: user.id,
       level: body.level ?? "",
     });

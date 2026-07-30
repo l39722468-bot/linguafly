@@ -8,6 +8,8 @@ import { resolveEntitlements } from '@/lib/access/entitlements';
 import { getUserProfileByAuthId } from '@/lib/access/user-profile';
 import { parseLastSeenPath } from '@/lib/access/parse-last-seen-path';
 import { savePlacementResult } from '@/lib/access/save-placement-result';
+import { hasPlacementCompleted } from '@/lib/access/has-placement-completed';
+import { supabaseAdmin } from '@/lib/supabase/client';
 
 export const dynamic = 'force-dynamic';
 
@@ -83,12 +85,18 @@ export default async function MiPanelPage({
   if (shouldPersistFromQuery && levelFromQuery) {
     await savePlacementResult({
       supabase,
+      adminSupabase: supabaseAdmin,
       userId: user.id,
       level: levelFromQuery,
     });
   }
 
   const profile = await getUserProfileByAuthId<any>(supabase, user.id, '*');
+  const { data: userRow } = await supabase
+    .from('users')
+    .select('language_level')
+    .eq('id', user.id)
+    .maybeSingle();
   const assignedCourse = parseLastSeenPath(profile?.last_seen_path as string | undefined);
 
   if (shouldPersistFromQuery && assignedCourse) {
@@ -150,13 +158,14 @@ export default async function MiPanelPage({
     subscriptionStatus,
     subscriptionPlan,
   });
-  const languageLevel = (levelFromQuery ?? ((profile?.language_level as string | undefined) ?? 'A1')).toUpperCase();
+  const languageLevel = (
+    levelFromQuery ??
+    profile?.language_level ??
+    userRow?.language_level ??
+    'A1'
+  ).toUpperCase();
   const learningGoals = Array.isArray(profile?.learning_goals) ? (profile?.learning_goals as string[]) : [];
-  const hasPlacementCompleted =
-    Boolean(profile?.placement_completed) ||
-    learningGoals.includes('placement_completed') ||
-    Boolean(normalizeLevel(profile?.language_level as string | undefined)) ||
-    shouldPersistFromQuery;
+  const hasPlacementCompletedFlag = hasPlacementCompleted(profile, userRow?.language_level);
   const selectedGoal = (learningGoals.find((goal) => goal === 'travel' || goal === 'professional' || goal === 'general') ?? 'general') as Goal;
   const recommendedOfficialCourses = OFFICIAL_COURSE_BY_LEVEL[languageLevel] ?? OFFICIAL_COURSE_BY_LEVEL.A1;
   const primaryCourseHref = assignedCourse
@@ -179,7 +188,7 @@ export default async function MiPanelPage({
       ? 'Ruta: Inglés profesional'
       : 'Ruta: General y exámenes oficiales';
 
-  if (entitlements.isPaid && !hasPlacementCompleted) {
+  if (entitlements.isPaid && !hasPlacementCompletedFlag) {
     redirect('/test-nivel?source=post-pago&next=/mi-panel');
   }
 
@@ -194,7 +203,7 @@ export default async function MiPanelPage({
             <p className="text-slate-600 mt-2">
               Aqui tienes tu centro de control: cursos, progreso, suscripcion, pagos y soporte.
             </p>
-            {hasPlacementCompleted && (
+            {hasPlacementCompletedFlag && (
               <div className="mt-4">
                 <p className="text-xs font-bold uppercase tracking-wide text-slate-500">Objetivo principal</p>
                 <LearningGoalSelector initialGoal={selectedGoal} />
@@ -225,10 +234,10 @@ export default async function MiPanelPage({
           )}
 
           <section className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-5 gap-4">
-            <Link href={hasPlacementCompleted ? primaryCourseHref : "/test-nivel?source=panel&next=/mi-panel"} className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
+            <Link href={hasPlacementCompletedFlag ? primaryCourseHref : "/test-nivel?source=panel&next=/mi-panel"} className="bg-white border border-slate-200 rounded-2xl p-5 hover:shadow-md transition">
               <div className="text-lg font-black text-slate-900">Mis cursos</div>
               <div className="text-sm text-slate-600 mt-1">
-                {hasPlacementCompleted
+                {hasPlacementCompletedFlag
                   ? 'Entrar al contenido y continuar clases.'
                   : 'Completa el test para desbloquear cursos por nivel.'}
               </div>
@@ -251,7 +260,7 @@ export default async function MiPanelPage({
             </Link>
           </section>
 
-          {!hasPlacementCompleted && (
+          {!hasPlacementCompletedFlag && (
             <section className="bg-amber-50 border border-amber-200 rounded-2xl p-6">
               <h2 className="text-xl font-black text-amber-900">Paso obligatorio: test de nivel</h2>
               <p className="text-amber-800 mt-2">
@@ -268,7 +277,7 @@ export default async function MiPanelPage({
             </section>
           )}
 
-          {hasPlacementCompleted && (
+          {hasPlacementCompletedFlag && (
             <section className="bg-white border border-slate-200 rounded-2xl p-5">
               <h2 className="text-xl font-black text-slate-900">{goalTitle}</h2>
               <p className="text-sm text-slate-600 mt-1">
@@ -438,7 +447,7 @@ export default async function MiPanelPage({
             </section>
           )}
 
-          {hasPlacementCompleted && entitlements.isPaid && <WorldMapPanel />}
+          {hasPlacementCompletedFlag && entitlements.isPaid && <WorldMapPanel />}
 
           <section className="grid grid-cols-1 lg:grid-cols-3 gap-4">
             <div className="lg:col-span-1 bg-white border border-slate-200 rounded-2xl p-5">
@@ -470,7 +479,7 @@ export default async function MiPanelPage({
 
             <div className="lg:col-span-2 bg-white border border-slate-200 rounded-2xl p-5">
               <h2 className="text-xl font-black text-slate-900">Mi progreso academico</h2>
-              {!hasPlacementCompleted ? (
+              {!hasPlacementCompletedFlag ? (
                 <p className="text-slate-600 mt-3 text-sm">
                   Completa el test de nivel para activar tu ruta y empezar a registrar progreso.
                 </p>

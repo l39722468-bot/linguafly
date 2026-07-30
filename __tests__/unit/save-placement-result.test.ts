@@ -49,6 +49,7 @@ describe('save-placement-result', () => {
     expect(updates[0].payload).toMatchObject({
       language_level: 'B2',
       learning_goals: ['placement_completed'],
+      placement_completed_at: expect.any(String),
     });
     expect(updates[0].payload).not.toHaveProperty('placement_completed');
   });
