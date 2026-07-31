@@ -8,11 +8,30 @@ import { getUserProfileByAuthId } from "@/lib/access/user-profile";
 import { hasPlacementCompleted } from "@/lib/access/has-placement-completed";
 
 export const metadata: Metadata = {
-  title: "Test de Nivel de Inglés Gratuito (A1-C2): Evalúa tu Nivel Online",
-  description: "Evalúa tu nivel de inglés actual con nuestro test de diagnóstico gratuito. 24 preguntas adaptativas de A1 a C2. Recibe tu nivel CEFR y recomendaciones personalizadas en 15 minutos.",
-  keywords: ["test de nivel inglés", "evaluación inglés gratis", "diagnóstico inglés online", "nivel CEFR", "test Cambridge gratuito", "evaluar nivel inglés"],
+  title: "Test de Nivel de Inglés Online Gratis | Test English A1-C2",
+  description:
+    "Haz tu test de nivel inglés online gratis y descubre tu nivel de inglés en 15 minutos. Test inglés y test English con 24 preguntas CEFR (A1-C2). Resultados inmediatos sin registro.",
+  keywords: [
+    "test ingles",
+    "test English",
+    "nivel de ingles online",
+    "test de nivel ingles online",
+    "nivel de ingles",
+    "test de nivel ingles",
+    "test de nivel inglés gratis",
+    "evaluación inglés online",
+    "nivel CEFR",
+  ],
   alternates: {
-    canonical: 'https://www.focus-on-english.com/test-nivel',
+    canonical: "https://www.focus-on-english.com/test-nivel",
+  },
+  openGraph: {
+    title: "Test de Nivel de Inglés Online Gratis | Test English A1-C2",
+    description:
+      "Test de nivel inglés online gratuito. Evalúa tu nivel de inglés con 24 preguntas CEFR y recibe tu resultado al instante.",
+    url: "https://www.focus-on-english.com/test-nivel",
+    type: "website",
+    locale: "es_ES",
   },
 };
 
@@ -64,11 +83,13 @@ export default async function DiagnosticoPage({
               </div>
               
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black text-slate-900 mb-6">
-                Descubre Tu Nivel de Inglés
+                Test de Nivel de Inglés Online Gratis
               </h1>
               
               <p className="text-xl text-slate-600 mb-4 max-w-3xl mx-auto">
-                Test completo de 24 preguntas basado en el Marco Común Europeo (CEFR)
+                Haz tu <strong>test inglés</strong> o <strong>test English</strong> y conoce tu{" "}
+                <strong>nivel de inglés</strong> con un <strong>test de nivel inglés online</strong>{" "}
+                basado en el Marco Común Europeo (CEFR)
               </p>
               
               <div className="flex flex-wrap items-center justify-center gap-6 text-sm text-slate-600">
@@ -100,7 +121,7 @@ export default async function DiagnosticoPage({
         <section className="py-16 bg-white">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <h2 className="text-3xl font-black text-slate-900 mb-12 text-center">
-              ¿Por qué hacer nuestro test de nivel?
+              ¿Por qué hacer nuestro test de nivel inglés online?
             </h2>
             
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -162,7 +183,7 @@ export default async function DiagnosticoPage({
               Niveles del Marco Común Europeo (CEFR)
             </h2>
             <p className="text-center text-slate-600 mb-12 max-w-2xl mx-auto">
-              El CEFR es el estándar internacional reconocido por universidades, empresas y gobiernos en todo el mundo.
+              Tu <strong>nivel de inglés online</strong> se mide con el estándar internacional reconocido por universidades, empresas y gobiernos en todo el mundo.
             </p>
 
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -273,7 +294,7 @@ export default async function DiagnosticoPage({
                   <span className="text-coral-600 group-open:rotate-180 transition-transform">▼</span>
                 </summary>
                 <p className="text-slate-700 mt-4">
-                  Sí, el test de nivel es completamente gratuito y no requiere registro. Puedes hacerlo cuantas veces quieras.
+                  Sí, el <strong>test de nivel inglés</strong> es completamente gratuito y no requiere registro. Puedes hacer tu <strong>test inglés</strong> cuantas veces quieras.
                 </p>
               </details>
 
@@ -320,6 +341,26 @@ export default async function DiagnosticoPage({
           </div>
         </section>
       </main>
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "WebPage",
+            name: "Test de Nivel de Inglés Online Gratis",
+            description:
+              "Test de nivel inglés online gratuito. Evalúa tu nivel de inglés con 24 preguntas CEFR de A1 a C2.",
+            url: "https://www.focus-on-english.com/test-nivel",
+            inLanguage: "es",
+            about: {
+              "@type": "Thing",
+              name: "Test de nivel de inglés",
+              alternateName: ["test inglés", "test English", "nivel de inglés online"],
+            },
+          }),
+        }}
+      />
 
       {/* Footer */}
       <footer className="bg-slate-900 text-white py-12">

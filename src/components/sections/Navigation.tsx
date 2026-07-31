@@ -52,7 +52,7 @@ export function Navigation() {
     professionalCourses: "/cursos-por-sector",
     exerciseMap: "/blog/ejercicios-relacionados",
   };
-  const navLinks = { ...spanishNavLinks, blog: "/blog" };
+  const navLinks = { ...spanishNavLinks, blog: "/blog", levelTest: "/test-nivel" };
 
   return (
     <nav className="sticky top-0 z-[9998] bg-white/95 backdrop-blur-lg border-b-2 border-[#FFE8D9] shadow-sm transition-colors">
@@ -79,6 +79,12 @@ export function Navigation() {
                 </Link>
               ))}
             </div>
+            <Link
+              href={navLinks.levelTest}
+              className="px-3 py-1.5 rounded-full border border-[#FF6B6B] bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-xs font-black text-white hover:opacity-90 transition-opacity"
+            >
+              Test de nivel
+            </Link>
             <Link href={navLinks.blog} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Blog
             </Link>
@@ -165,6 +171,13 @@ export function Navigation() {
                   </Link>
                 ))}
               </div>
+              <Link
+                href={navLinks.levelTest}
+                className="inline-flex items-center justify-center px-4 py-3 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-sm font-black text-white text-center"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Test de nivel
+              </Link>
               <Link 
                 href={navLinks.blog} 
                 className="text-sm font-bold text-coral-600 hover:text-coral-700 transition-colors"

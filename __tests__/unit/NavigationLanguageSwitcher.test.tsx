@@ -59,6 +59,16 @@ describe("Navigation", () => {
     expect(screen.getAllByRole("link", { name: "C2" })[0]).toHaveAttribute("href", "/curso-c2");
   });
 
+  it("renders level test link in desktop and mobile navigation", () => {
+    render(<Navigation />);
+
+    const desktopLevelTestLinks = screen.getAllByRole("link", { name: "Test de nivel" });
+    expect(desktopLevelTestLinks[0]).toHaveAttribute("href", "/test-nivel");
+
+    fireEvent.click(screen.getByRole("button", { name: "Abrir menú" }));
+    expect(desktopLevelTestLinks[1]).toHaveAttribute("href", "/test-nivel");
+  });
+
   it("uses Spanish blog link on desktop", () => {
     render(<Navigation />);
 
