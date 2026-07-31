@@ -304,7 +304,7 @@ export default function ContactPage() {
               ¿Buscas algo específico?
             </h2>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               <Link
                 href="/test-nivel"
                 className="bg-gradient-to-br from-coral-50 to-peach-50 rounded-xl p-6 border border-coral-200 hover:shadow-lg transition-shadow group"
@@ -328,19 +328,6 @@ export default function ContactPage() {
                 </h3>
                 <p className="text-sm text-slate-600">
                   Programas A1–C2 y cursos por sector profesional
-                </p>
-              </Link>
-
-              <Link
-                href="/cuenta/login"
-                className="bg-gradient-to-br from-amber-50 to-amber-50 rounded-xl p-6 border border-amber-200 hover:shadow-lg transition-shadow group"
-              >
-                <div className="text-3xl mb-3">✍️</div>
-                <h3 className="font-bold text-slate-900 mb-2 group-hover:text-amber-600">
-                  Mi cuenta
-                </h3>
-                <p className="text-sm text-slate-600">
-                  Accede a tus cursos y guarda tu progreso
                 </p>
               </Link>
 

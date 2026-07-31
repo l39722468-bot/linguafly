@@ -45,10 +45,10 @@ function SuccessContent() {
           );
         } else if (data.created === false) {
           setProvisionMessage(
-            'Tu cuenta ya estaba activa. Entra con Iniciar sesión o recupera tu contraseña.'
+            'Tu cuenta ya estaba activa. Entra en Mi Panel o recupera tu contraseña si la necesitas.'
           );
         } else {
-          setProvisionMessage('Cuenta lista. Ya puedes iniciar sesión.');
+          setProvisionMessage('Cuenta lista. Revisa tu email para acceder.');
         }
       } catch {
         if (!cancelled) {
@@ -107,7 +107,7 @@ function SuccessContent() {
             <span className="text-amber-600 mt-1">1.</span>
             <div>
               <p>
-                Pulsa <strong>Iniciar sesión</strong> (arriba a la derecha) con el email del pago.
+                Entra en <strong>Mi Panel</strong> con el email del pago.
               </p>
               <p className="text-xs text-slate-500 mt-1">
                 Si no tienes contraseña, usa <strong>¿Olvidaste tu contraseña?</strong>
@@ -133,10 +133,10 @@ function SuccessContent() {
 
       <div className="flex flex-col sm:flex-row gap-4 justify-center">
         <Link
-          href="/cuenta/login"
+          href="/mi-panel"
           className="inline-flex items-center justify-center bg-amber-600 text-white px-8 py-4 rounded-lg font-bold text-lg hover:bg-amber-700 transition-colors"
         >
-          Iniciar sesión
+          Ir a Mi Panel
         </Link>
         <Link
           href="/cuenta/recuperar"

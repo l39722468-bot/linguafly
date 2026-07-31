@@ -129,10 +129,7 @@ export default function SupportTicketClient() {
 
       {isLoggedIn === false && (
         <p className="mt-3 text-sm text-slate-600">
-          Sin sesión: indica tu email.{" "}
-          <Link href="/cuenta/login?next=/support/ticket" className="font-bold underline">
-            Iniciar sesión
-          </Link>
+          Sin sesión: indica tu email para que podamos responderte.
         </p>
       )}
 
