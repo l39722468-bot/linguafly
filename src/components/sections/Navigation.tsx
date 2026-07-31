@@ -50,6 +50,7 @@ export function Navigation() {
     vocabulary: "/vocabulario",
     podcasts: "/podcasts",
     professionalCourses: "/cursos-por-sector",
+    exerciseMap: "/blog/ejercicios-relacionados",
   };
   const navLinks = { ...spanishNavLinks, blog: "/blog" };
 
@@ -80,6 +81,9 @@ export function Navigation() {
             </div>
             <Link href={navLinks.blog} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Blog
+            </Link>
+            <Link href={navLinks.exerciseMap} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
+              Artículos y ejercicios
             </Link>
             <Link href={navLinks.phrases} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Frases
@@ -167,6 +171,13 @@ export function Navigation() {
                 onClick={() => setMobileMenuOpen(false)}
               >
                 📰 Blog
+              </Link>
+              <Link 
+                href={navLinks.exerciseMap} 
+                className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
+                onClick={() => setMobileMenuOpen(false)}
+              >
+                Artículos y ejercicios
               </Link>
               <Link 
                 href={navLinks.phrases} 
