@@ -26,7 +26,7 @@ faqs:
   - question: ¿Cuál es la diferencia entre "as you will" y "as you wish"?
     answer: >-
       Son prácticamente sinónimos en sentido — ambos significan "como quieras / como desees". "As you wish" es más común y neutro. "As you will" es más arcaico o literario, con un tono ligeramente más formal o dramático. En inglés moderno cotidiano, "as you wish" es la opción habitual.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/will-expresiones-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/will-expresiones-ingles'
 ---
 
 Una vez que tienes claras las reglas básicas de *will*, el siguiente nivel es conocer las expresiones fijas, los giros idiomáticos y los usos más matizados que aparecen en el inglés real — en conversaciones, series, novelas y el trabajo.

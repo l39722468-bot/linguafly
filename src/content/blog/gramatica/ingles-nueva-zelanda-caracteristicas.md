@@ -23,7 +23,7 @@ faqs:
   - question: ¿Por qué dicen "fush and chups" en lugar de "fish and chips"?
     answer: >-
       Es la consecuencia del New Zealand Vowel Shift: la vocal KIT /ɪ/ se ha centralizado tanto que para oídos externos suena como /ʊ/ o incluso como una /u/ breve. Por eso "fish" suena como "fush" y "chips" como "chups". Esta es quizás la característica más famosa del acento neozelandés a nivel internacional.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ingles-nueva-zelanda-caracteristicas'
+canonical: 'https://linguafly.app/blog/gramatica/ingles-nueva-zelanda-caracteristicas'
 ---
 
 En el extremo sur del mapa del inglés anglófono, Nueva Zelanda tiene una de las variedades más jóvenes y más llamativas de la lengua. Los neozelandeses (o "Kiwis") son conocidos en el mundo angloparlante por un acento que los australianos identifican de inmediato, que los británicos encuentran familiar pero diferente, y que para muchos hispanohablantes suena como una versión "rara" del australiano.

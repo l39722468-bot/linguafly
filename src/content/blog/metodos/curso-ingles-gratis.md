@@ -4,7 +4,7 @@ date: '2026-03-20'
 updatedDate: '2026-03-20'
 author: focus-english-team
 excerpt: 'Descubre los mejores cursos de inglés gratuitos online en 2026: BBC Learning English, British Council, Duolingo, YouTube educativo y más. Con plan de estudio de 6 meses.'
-description: 'Guía completa de los mejores cursos de inglés 100% gratuitos online: recursos del British Council, BBC Learning English, Duolingo y el plan gratuito de Focus English. Incluye plan de estudio por niveles.'
+description: 'Guía completa de los mejores cursos de inglés 100% gratuitos online: recursos del British Council, BBC Learning English, Duolingo y el plan gratuito de Linguafly. Incluye plan de estudio por niveles.'
 category: metodos
 readTime: 9 min
 alt: 'Persona estudiando inglés gratis desde casa con el ordenador'
@@ -24,7 +24,7 @@ faqs:
   - question: '¿Cuánto tiempo debo dedicar al día para aprender inglés gratis?'
     answer: >-
       Para ver progresos reales, se recomienda un mínimo de 30-45 minutos diarios de estudio activo y consistente. La clave no es estudiar muchas horas un día a la semana, sino la constancia diaria. Con 45 minutos al día bien aprovechados puedes alcanzar el nivel B1 en aproximadamente 6-8 meses partiendo desde cero.
-canonical: 'https://www.focus-on-english.com/blog/metodos/curso-ingles-gratis'
+canonical: 'https://linguafly.app/blog/metodos/curso-ingles-gratis'
 ---
 
 # Curso de Inglés Gratis: Los Mejores Recursos para Aprender sin Pagar en 2026

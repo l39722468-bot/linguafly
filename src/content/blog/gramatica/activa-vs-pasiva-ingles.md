@@ -37,7 +37,7 @@ faqs:
       añadir un agente (by + alguien) que haría el texto más claro. Si el agente
       es irrelevante u obvio, la pasiva está bien. Si da información útil, quizás
       la activa sería más directa.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/activa-vs-pasiva-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/activa-vs-pasiva-ingles'
 ---
 
 Hay un error frecuente en la enseñanza del inglés: presentar la voz pasiva como si fuera una complicación que hay que aprender para los exámenes y luego evitar. La realidad es que activa y pasiva no compiten. Son herramientas distintas para situaciones distintas, y saber usar las dos con criterio es lo que marca la diferencia entre un nivel B1 y un B2-C1 real.

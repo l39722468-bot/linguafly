@@ -10,7 +10,7 @@ description: >-
 category: trabajo
 alt: Candidato preparándose para una entrevista de trabajo en inglés con un reclutador
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/preparar-entrevista-trabajo-ingles
+  https://linguafly.app/blog/trabajo/preparar-entrevista-trabajo-ingles
 readTime: 5 min
 excerpt: >-
   Una entrevista en inglés no falla por el nivel de idioma sino por falta de
@@ -42,7 +42,7 @@ faqs:
 
 Una **entrevista de trabajo en inglés** no es solo una prueba de idioma; es una demostración de tus habilidades profesionales, tu conocimiento del sector y tu capacidad para comunicarte con efectividad en un entorno internacional. La buena noticia: el éxito en una entrevista en inglés tiene muy poco de talento innato y mucho de preparación sistemática.
 
-En **Focus English** hemos acompañado a cientos de profesionales en este proceso. Esta guía concentra lo mejor de nuestra metodología en un plan de preparación concreto y accionable.
+En **Linguafly** hemos acompañado a cientos de profesionales en este proceso. Esta guía concentra lo mejor de nuestra metodología en un plan de preparación concreto y accionable.
 
 Complementa esta guía con nuestros artículos sobre **[vocabulario para entrevistas de trabajo en inglés](/blog/trabajo/vocabulario-entrevista-trabajo-ingles)** y **[preguntas frecuentes en entrevistas en inglés](/blog/trabajo/entrevista-trabajo-ingles-preguntas)**.
 

@@ -26,7 +26,7 @@ faqs:
   - question: ¿"Be supposed to" y "should" expresan lo mismo?
     answer: >-
       Se parecen pero no son iguales. "Should" expresa tu opinión sobre lo que es conveniente. "Be supposed to" indica una expectativa o norma que viene de fuera — un acuerdo, un plan, una regla. "The train is supposed to arrive at 9" (eso dice el horario). "The train should arrive on time" (tu predicción/esperanza).
-canonical: 'https://www.focus-on-english.com/blog/gramatica/semi-modales-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/semi-modales-ingles'
 ---
 
 Los modales puros del inglés — *can, must, will, should, may, might, would, shall* — son fantásticos, pero tienen una limitación importante: no se pueden conjugar. No tienen pasado propio (excepto *could*), no van en infinitivo, no forman tiempos compuestos.

@@ -23,7 +23,7 @@ faqs:
   - question: ¿Es posible cambiar tu acento en inglés siendo adulto?
     answer: >-
       Sí, aunque requiere esfuerzo deliberado. Los actores de doblaje y los lingüistas lo hacen habitualmente. La clave es: escucha activa de un acento específico, práctica de los fonemas que difieren, grabarte y comparar con un modelo nativo, y si es posible, coaching de un especialista en pronunciación. Sin embargo, una ligera influencia de tu lengua materna es normal y perfectamente aceptable.
-canonical: 'https://www.focus-on-english.com/blog/metodos/acentos-ingles-diferencias'
+canonical: 'https://linguafly.app/blog/metodos/acentos-ingles-diferencias'
 ---
 
 ## Acentos del Inglés: Una Guía para Entenderlos Todos

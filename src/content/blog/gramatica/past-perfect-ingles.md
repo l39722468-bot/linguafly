@@ -35,7 +35,7 @@ faqs:
   - question: ¿El Past Perfect se usa en inglés americano igual que en inglés británico?
     answer: >-
       Sí, la estructura es idéntica en ambas variedades. La única diferencia es que el inglés americano tiende a usar el past simple en contextos donde el británico preferiría el present perfect o el past perfect, especialmente en el habla informal. En la escritura formal y en exámenes, ambas variedades siguen las mismas reglas.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/past-perfect-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/past-perfect-ingles'
 ---
 
 El past perfect resuelve un problema concreto: cuando estás hablando del pasado y necesitas referirte a algo que ocurrió todavía antes. Es el pasado del pasado.

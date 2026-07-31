@@ -26,7 +26,7 @@ faqs:
   - question: ¿El present continuous también expresa futuro?
     answer: >-
       Sí, el presente continuo en inglés se usa para planes ya organizados, especialmente cuando hay una hora o lugar específico: "I'm meeting John at 3." Es similar a going to, pero implica que el plan ya está más concreto y organizado. Con going to, el plan puede ser menos formal.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/will-going-to-diferencia'
+canonical: 'https://linguafly.app/blog/gramatica/will-going-to-diferencia'
 ---
 
 Uno de los primeros quebraderos de cabeza del futuro en inglés es este: ¿cuándo uso *will* y cuándo *going to*? Ambas formas hablan del futuro, pero no son intercambiables en todos los contextos.

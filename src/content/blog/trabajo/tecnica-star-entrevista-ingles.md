@@ -40,7 +40,7 @@ faqs:
       gestionado. Lo que busca el entrevistador es evidencia de comportamiento,
       no necesariamente experiencia corporativa. "During my final year project"
       o "When I volunteered at..." son perfectamente válidos.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/tecnica-star-entrevista-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/tecnica-star-entrevista-ingles'
 ---
 
 Las preguntas de comportamiento son esas que empiezan con *"Tell me about a time when..."* o *"Give me an example of..."*. Son las favoritas de los entrevistadores porque revelan cómo actúas realmente bajo presión, en equipo o ante un conflicto. Y la técnica STAR es la forma más efectiva de responderlas.

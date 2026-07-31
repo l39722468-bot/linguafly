@@ -23,7 +23,7 @@ faqs:
   - question: ¿El acento importa para la nota?
     answer: >-
       No. El criterio de Pronunciation no evalúa si tienes acento español o latinoamericano. Evalúa si tu pronunciación facilita o dificulta la comprensión, y si usas correctamente el ritmo, el acento de las palabras y la entonación.
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-speaking-estrategias'
+canonical: 'https://linguafly.app/blog/examenes/ielts-speaking-estrategias'
 ---
 
 El IELTS Speaking dura entre 11 y 14 minutos y tiene lugar en una sala con un examinador humano, no una máquina. Eso cambia mucho la dinámica respecto al resto del examen: no hay tiempo para pensar demasiado, no puedes borrar lo que dijiste, y la presión de estar cara a cara con alguien que te está evaluando es real.

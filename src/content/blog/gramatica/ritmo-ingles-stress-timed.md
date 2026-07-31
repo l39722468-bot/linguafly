@@ -26,7 +26,7 @@ faqs:
     answer: 'Más tiempo del que la mayoría espera, porque el ritmo es uno de los aspectos más profundamente automatizados del habla. Has estado usando el ritmo silábico del español durante años y modificarlo requiere mucha exposición y práctica activa. Algunos estudiantes notan cambios significativos en pocas semanas de práctica intensiva con shadowing. Otros tardan meses. La exposición continua a audio auténtico en inglés es el factor que más influye.'
   - question: '¿Todos los dialectos del inglés son stress-timed?'
     answer: 'Sí, todos los dialectos nativos del inglés comparten esta característica básica. Hay variaciones en el grado y en cómo se manifiesta en cada variedad, pero el principio de organización rítmica alrededor del acento es universal en el inglés nativo. Donde puede haber diferencias más marcadas es en el inglés hablado por no nativos cuya lengua materna tiene ritmo silábico (como el español, el francés o el italiano): tienden a transferir su propio patrón rítmico al inglés.'
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ritmo-ingles-stress-timed'
+canonical: 'https://linguafly.app/blog/gramatica/ritmo-ingles-stress-timed'
 ---
 
 Si llevas un tiempo estudiando inglés y tu pronunciación de los sonidos individuales ha mejorado pero todavía te dicen que "suenas extranjero", lo que probablemente está fallando no es un sonido concreto sino el ritmo. El ritmo del inglés funciona de una manera fundamentalmente distinta al del español, y si no lo has trabajado específicamente, casi con seguridad estás hablando inglés con ritmo español.

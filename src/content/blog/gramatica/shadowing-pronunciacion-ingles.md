@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cuánto tiempo al día necesito practicar shadowing para ver resultados?
     answer: >-
       Con 10-15 minutos diarios de shadowing activo (concentrado, no de fondo), la mayoría de los estudiantes notan cambios en el ritmo y la entonación en pocas semanas. La pronunciación de sonidos individuales lleva más tiempo porque implica cambios motores más profundos. Para automatización real en el habla espontánea, son necesarios meses de práctica constante.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/shadowing-pronunciacion-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/shadowing-pronunciacion-ingles'
 ---
 
 Alexander Arguelles, lingüista y políglota con más de 50 idiomas, hizo popular el shadowing en la comunidad de aprendizaje de idiomas a principios de los 2000. Su versión era intensa: caminar al aire libre, auriculares, texto en mano, repitiendo en voz alta mientras avanzaba. La idea de base es que el movimiento físico ayuda a "encarnar" el idioma.

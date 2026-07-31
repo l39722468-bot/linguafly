@@ -25,7 +25,7 @@ faqs:
     answer: 'A veces, sí. Investigadores del ELF han documentado que los hablantes nativos no siempre son los más fáciles de entender en contextos ELF. Usan más modismos, contracciones, reducción de sonidos y referencias culturales específicas que sus interlocutores no nativos no comparten. Un hablante nativo que no ajusta su habla al contexto puede ser más difícil de entender para un interlocutor no nativo que otro hablante no nativo del mismo nivel. La competencia en ELF incluye saber cuándo y cómo adaptar el habla al contexto.'
   - question: '¿Qué acentos son los más fáciles de entender en contextos internacionales?'
     answer: 'Los estudios de inteligibilidad en ELF sugieren que los acentos más fáciles de entender internacionalmente no son los "más correctos" desde el punto de vista de una variedad nativa, sino los que mantienen los rasgos fonéticos que funcionan como marcadores de distinción entre palabras (los llamados Lingua Franca Core de Jenkins). En la práctica, los acentos que tienden a ser más ampliamente comprensibles son aquellos donde las consonantes están claramente articuladas, el acento tónico de las palabras respeta los patrones estándar y la velocidad de habla es moderada. El acento de origen importa menos que la claridad articulatoria y la regularidad de los patrones.'
-canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-lingua-franca-acentos'
+canonical: 'https://linguafly.app/blog/metodos/ingles-lingua-franca-acentos'
 ---
 
 Imagina una reunión de trabajo donde hay un ingeniero de Corea del Sur, una abogada de Brasil, un director de proyectos de Alemania y una consultora de Nigeria. Están hablando en inglés. Ninguno es nativo. Y la reunión funciona.

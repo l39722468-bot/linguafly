@@ -25,7 +25,7 @@ faqs:
     answer: 'El shadowing es una de las mejores técnicas: escucha un fragmento corto de audio nativo (de 5 a 15 segundos) y repítelo en voz alta imitando el ritmo, el tono y las uniones entre palabras, sin preocuparte excesivamente por cada sonido individual. También puedes transcribir lo que escuchas y luego compararlo con el texto real para identificar qué sonidos se funden o desaparecen.'
   - question: '¿Por qué en los audios de los libros de texto se entiende mejor que con un nativo real?'
     answer: 'Los audios de libros de texto están grabados con una pronunciación deliberadamente clara y lenta, sin los fenómenos del connected speech que aparecen en el habla espontánea. Es útil para aprender vocabulario y estructuras, pero crea una expectativa que no se cumple en conversaciones reales. Los nativos no hablan mal: simplemente hablan de forma natural, y eso implica todos los fenómenos que explico en este artículo.'
-canonical: 'https://www.focus-on-english.com/blog/gramatica/connected-speech-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/connected-speech-ingles'
 ---
 
 Hay un momento que casi todo el mundo que aprende inglés ha vivido: llevas tiempo estudiando, entiendes bien cuando escuchas los audios del curso o los vídeos lentos de YouTube, y de repente escuchas a un nativo hablando a velocidad normal y no entiendes prácticamente nada. O al revés: entiendes perfectamente el significado de lo que alguien dice, pero cuando lo lees, la pronunciación que esperabas no se parece nada a lo que has oído.

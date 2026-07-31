@@ -23,7 +23,7 @@ faqs:
   - question: ¿Los nativos del inglés tienen ventaja en contextos ELF?
     answer: >-
       No siempre. Curiosamente, la investigación muestra que los hablantes nativos de inglés a veces tienen más dificultades en contextos ELF que los no nativos con buen nivel. Los nativos tienden a usar más expresiones idiomáticas, acentos marcados, velocidades altas y referencias culturales específicas que dificultan la comprensión de otros no nativos. Los no nativos con buen nivel a menudo ajustan su habla de forma más efectiva para contextos internacionales.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ingles-como-lengua-franca-elf'
+canonical: 'https://linguafly.app/blog/gramatica/ingles-como-lengua-franca-elf'
 ---
 
 Hay una estadística que cambia la forma de pensar sobre el inglés: de los aproximadamente 1.500 millones de personas que hablan inglés en el mundo, solo unos 400 millones lo tienen como lengua materna. El resto —más de mil millones de personas— lo usan como segunda lengua o como lengua franca.

@@ -26,7 +26,7 @@ faqs:
     answer: 'Bastantes, y algunas han pasado al inglés general. "Braai" (barbacoa) es la más conocida internacionalmente. "Veld" (pradera abierta) se usa en ecología. "Apartheid" es, trágicamente, la palabra sudafricana más exportada al mundo. En el habla cotidiana: "lekker" (agradable, bueno), "bru" o "boet" (hermano, amigo), "now-now" (ahora mismo, en un momento), "just now" (en un rato, no necesariamente ahora). Esta última causa confusión constante: para un sudafricano, "I will do it just now" no significa que lo vaya a hacer de inmediato.'
   - question: '¿El inglés sudafricano es no-rótico como el británico?'
     answer: 'Generalmente sí. El South African English estándar es no-rótico: la /r/ al final de sílaba o después de vocal no se pronuncia. "Car" es /kɑː/, "water" es /ˈwɔːtə/. Esto lo acerca al inglés británico en ese aspecto concreto. Sin embargo, en algunas variedades del Black South African English y en hablantes cuya primera lengua tiene /r/ fuerte, puede aparecer cierta roticidad. Los acentos del afrikáans también tienden a la roticidad, y algunos hablantes bilingües afrikáans-inglés transfieren esa /r/ al inglés.'
-canonical: 'https://www.focus-on-english.com/blog/metodos/acento-ingles-sudafricano'
+canonical: 'https://linguafly.app/blog/metodos/acento-ingles-sudafricano'
 ---
 
 Sudáfrica tiene once idiomas oficiales. Once. Y el inglés es solo uno de ellos, aunque es la lengua de los negocios, la administración y los medios de comunicación. Lo que significa que cuando escuchas el inglés de Sudáfrica, estás escuchando un idioma que convive, compite y se mezcla con el zulú, el xhosa, el sotho, el afrikáans y seis más. El resultado es una variedad del inglés con personalidad propia que no suena a ninguna otra cosa en el mundo.

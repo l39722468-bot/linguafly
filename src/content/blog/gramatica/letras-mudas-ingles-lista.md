@@ -27,7 +27,7 @@ faqs:
   - question: '¿En inglés americano y británico hay las mismas letras mudas?'
     answer: 'En general sí, aunque hay algunas diferencias menores. La H inicial de palabras como herb es muda en inglés americano (/ɜːrb/) pero se pronuncia en inglés británico (/hɜːb/). Son excepciones concretas, no un sistema diferente.'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/letras-mudas-ingles-lista'
+canonical: 'https://linguafly.app/blog/gramatica/letras-mudas-ingles-lista'
 ---
 
 Si alguna vez has intentado pronunciar *knight*, *psalm* o *doubt* delante de un hablante nativo y has visto su cara, ya sabes de qué va esto. El inglés tiene una cantidad desconcertante de letras que aparecen en la escritura sin producir ningún sonido. No es un fallo del sistema; es historia acumulada durante siglos. Pero entenderlo no te ayuda a pronunciarlas bien: para eso necesitas saber cuáles son y dónde aparecen.
@@ -231,7 +231,7 @@ No te plantees memorizar estas palabras como una lista. Lo que sí funciona es d
 
 Con el tiempo, los patrones se vuelven automáticos. Cuando veas KN, sabes que la K no suena. Cuando veas -MB al final, la B desaparece. Cuando veas -IGHT, la GH es decorativa.
 
-Si quieres profundizar en la fonética del inglés más allá de las letras mudas, en el apartado de [fonética de Focus English](/blog/temas/fonetica-inglesa-basica) encontrarás recursos sobre el sistema de sonidos completo, incluyendo cómo funciona el IPA y por qué la relación entre escritura y pronunciación en inglés es tan particular.
+Si quieres profundizar en la fonética del inglés más allá de las letras mudas, en el apartado de [fonética de Linguafly](/blog/temas/fonetica-inglesa-basica) encontrarás recursos sobre el sistema de sonidos completo, incluyendo cómo funciona el IPA y por qué la relación entre escritura y pronunciación en inglés es tan particular.
 
 ---
 

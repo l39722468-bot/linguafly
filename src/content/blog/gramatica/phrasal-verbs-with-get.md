@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cuál es la diferencia entre "get on" y "get along"?
     answer: >-
       Son casi sinónimos cuando se refieren a llevarse bien con alguien. "Get on with someone" es más común en inglés británico; "get along with someone" es más habitual en inglés americano. Ambos son correctos y se entienden en los dos lados del Atlántico.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-with-get'
+canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-with-get'
 ---
 
 Si tuvieras que elegir un solo verbo para dominar todos sus phrasal verbs primero, ese verbo sería GET. No porque sea el más fácil, sino porque sus combinaciones aparecen constantemente en el inglés real: en conversaciones, en series, en emails informales, en canciones. Evitarlos porque "son difíciles" significa hablar un inglés artificialmente limitado.

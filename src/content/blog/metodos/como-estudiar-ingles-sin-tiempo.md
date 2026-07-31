@@ -37,7 +37,7 @@ faqs:
       reuniones/mensajes y comprensión auditiva práctica. Mejor poco contenido
       útil que mucho contenido genérico.
 
-canonical: 'https://www.focus-on-english.com/blog/metodos/como-estudiar-ingles-sin-tiempo'
+canonical: 'https://linguafly.app/blog/metodos/como-estudiar-ingles-sin-tiempo'
 ---
 
 ## Cómo Estudiar Inglés si no tienes Tiempo: Guía para Agendas Ocupadas

@@ -38,7 +38,7 @@ faqs:
       mismo correo suena inseguro y puede hacer que el destinatario se sienta
       incómodo. Una disculpa directa y sincera al principio, y quizás una
       referencia breve al final, es el equilibrio correcto.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/email-disculpa-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/email-disculpa-ingles'
 ---
 
 Cometer errores en el trabajo es inevitable. Lo que distingue a un profesional es saber gestionarlos bien, y eso incluye saber pedir disculpas de la manera correcta. En inglés profesional, hay una forma de hacer esto que funciona: directa, responsable y orientada a la solución.

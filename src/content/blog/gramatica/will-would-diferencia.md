@@ -26,7 +26,7 @@ faqs:
   - question: ¿Se puede usar would para hablar del futuro?
     answer: >-
       Sí, en reportaje o discurso indirecto (reported speech). "She said she would call later" (dijo que llamaría). También en condicionales: "If it rains, we would stay in" — aunque aquí es más natural "we'll stay in" si la condición es real. Would para futuro directo (sin condicional ni reporte) no es correcto.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/will-would-diferencia'
+canonical: 'https://linguafly.app/blog/gramatica/will-would-diferencia'
 ---
 
 Poca gente tiene claro desde el principio por qué el inglés tiene tanto *will* como *would*. Si *would* es el pasado de *will*, ¿para qué tener los dos? La respuesta es que en el inglés moderno funcionan casi como herramientas separadas: sí comparten origen, pero sus usos actuales van por caminos distintos.

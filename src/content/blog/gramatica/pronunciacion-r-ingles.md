@@ -25,7 +25,7 @@ faqs:
     answer: 'Sí, hay uno que ayuda a mucha gente: intenta decir la palabra "butter" en inglés americano pensando que la doble T suena como una D suave española. Pero más útil todavía es este: tensa ligeramente la parte media de la lengua hacia arriba y hacia atrás, como si fueras a decir "guerra" en español pero sin llegar a tocar el paladar. El sonido que sale cuando el aire pasa por esa posición es muy similar a la /r/ americana. Practica primero con palabras donde la R va al principio: "red", "run", "right".'
   - question: '¿Es grave pronunciar la R con acento español en inglés?'
     answer: 'Depende del contexto. En muchas situaciones cotidianas, la R española en inglés no impide la comprensión y los hablantes nativos la entienden perfectamente bien. Pero hay pares mínimos donde la R puede causar confusión: "rice" vs "lice", "red" vs "led", "right" vs "light". Y para quienes trabajan en entornos donde la claridad de pronunciación es importante (locución, enseñanza, atención al cliente internacional), vale la pena trabajarla. Para el resto, es una mejora interesante pero no urgente.'
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pronunciacion-r-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/pronunciacion-r-ingles'
 ---
 
 Si llevas tiempo estudiando inglés y ves que tu acento sigue sonando muy español a pesar del esfuerzo, la R puede ser uno de los culpables principales. No porque sea el sonido más complicado del inglés —hay otros candidatos— sino porque es el que más llamativamente delata que vienes del español. Y lo curioso es que casi nadie te lo explica con precisión: simplemente te dicen "la R inglesa es diferente" y te dejan a tu suerte.

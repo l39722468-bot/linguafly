@@ -21,7 +21,7 @@ faqs:
   - question: '¿Qué perfil le saca más partido?'
     answer: >-
       Quien necesita horarios fijos, hablar cada semana y subir de nivel de forma ordenada antes de apuntarse a un examen oficial.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-online-lingoda'
+canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-lingoda'
 ---
 
 # Lingoda 2026: grupos en vivo y exámenes
@@ -100,7 +100,7 @@ Las políticas de grupo suelen penalizar **faltas**: revisa términos antes de v
 ### Alternativas del hub
 
 - [EF English Live](/blog/metodos/mejores-cursos-ingles-online-ef-english-live): otra escala de disponibilidad 24/7.
-- [Blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): material editorial gratuito si quieres profundizar por tu cuenta fuera del grupo; para atención 1:1, [Preply](/blog/metodos/mejores-cursos-ingles-online-preply).
+- [Blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): material editorial gratuito si quieres profundizar por tu cuenta fuera del grupo; para atención 1:1, [Preply](/blog/metodos/mejores-cursos-ingles-online-preply).
 
 ### Conclusión
 

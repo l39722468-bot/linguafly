@@ -21,7 +21,7 @@ faqs:
   - question: '¿Compite con Lingoda o Preply?'
     answer: >-
       EF apuesta por disponibilidad y marca global; Preply gana en personalización 1:1; Lingoda en grupo estructurado. Elige según prioridad: horario vs tutor dedicado.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-online-ef-english-live'
+canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-ef-english-live'
 ---
 
 # EF English Live 2026: 24/7 y negocios

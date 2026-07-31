@@ -12,7 +12,7 @@ alt: Viajero disfrutando de una cena en un restaurante al aire libre en el extra
 keywords:
   - 'Inglés para Restaurantes y Bares en el Extranjero'
   - 'ingles para restaurantes'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-restaurantes-bares-viaje'
+canonical: 'https://linguafly.app/blog/viajes/ingles-restaurantes-bares-viaje'
 faqs:
   - question: ¿Cómo pido una mesa en un restaurante en inglés?
     answer: >-

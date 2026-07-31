@@ -11,7 +11,7 @@ readTime: 5 min
 keywords:
   - 'Reported Speech Cambridge Exams'
   - 'reported speech cambridge'
-canonical: 'https://www.focus-on-english.com/blog/examenes/reported-speech-cambridge-exams'
+canonical: 'https://linguafly.app/blog/examenes/reported-speech-cambridge-exams'
 alt: Personas hablando representando el reported speech
 faqs:
   - question: '¿Cómo se evalúa el Reported Speech en los exámenes Cambridge?'

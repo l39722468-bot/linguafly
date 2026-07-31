@@ -28,7 +28,7 @@ faqs:
     answer: 'Sí, tomar notas es obligatorio si quieres una nota alta. Durante la lectura, apunta los 3 puntos principales. Durante el audio, apunta cómo contradice o matiza cada uno. Tu respuesta se construye directamente desde esas notas.'
   - question: '¿La nueva Academic Discussion reemplazó al viejo Independent Essay?'
     answer: 'Sí. Desde la reforma del TOEFL iBT en 2023, el ensayo independiente de 300 palabras fue sustituido por la Academic Discussion Task: lees un post del profesor, dos respuestas de compañeros y contribuyes a la discusión con tu postura.'
-canonical: 'https://www.focus-on-english.com/blog/examenes/toefl-writing-integrated-independent'
+canonical: 'https://linguafly.app/blog/examenes/toefl-writing-integrated-independent'
 ---
 
 La sección de Writing del TOEFL iBT es **la más corta y la más previsible**, y por eso también la más entrenable. En 35 minutos te piden dos cosas muy distintas: en la primera tarea, **sintetizar** una lectura académica con una charla, comparando ambos contenidos; en la segunda, **argumentar** en un foro académico respondiendo a un profesor y a dos estudiantes.

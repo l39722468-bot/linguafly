@@ -26,7 +26,7 @@ faqs:
   - question: ¿Cuál es la diferencia entre "she said" y "she told me"?
     answer: >-
       El significado es muy similar, pero la estructura cambia. "She said she was coming" — no especifica a quién. "She told me she was coming" — deja claro que te lo dijo a ti. En muchos contextos son intercambiables en significado, pero requieren estructuras gramaticales diferentes.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/say-vs-tell-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/say-vs-tell-ingles'
 ---
 
 Si alguna vez has escrito *"She said me that..."* en inglés, ya sabes de qué va este artículo. Es probablemente el error más frecuente de hispanohablantes con **say** y **tell** — y no es el único.

@@ -28,7 +28,7 @@ faqs:
     answer: 'Usa "hedging" (amortiguadores): "I see your point, but I’m not sure I fully agree" en lugar de "You’re wrong". También "Could we look at this from another angle?" o "That’s one way to approach it - I’d like to suggest an alternative". Desacuerdo directo con "No, that’s wrong" se considera ofensivo en culturas anglosajonas profesionales.'
   - question: '¿Cuánto debe durar un minutes / follow-up email?'
     answer: 'Lo más corto posible manteniendo utilidad. Idealmente: una frase de resumen, 3-6 bullets con decisiones clave, y una tabla de action items con responsable y fecha. Si ocupa más de una pantalla, nadie lo lee. Envía en las primeras 24 horas tras la reunión.'
-canonical: 'https://www.focus-on-english.com/blog/trabajo/liderar-reuniones-ingles-frases'
+canonical: 'https://linguafly.app/blog/trabajo/liderar-reuniones-ingles-frases'
 ---
 
 Liderar una reunión en tu idioma nativo ya cuesta. Hacerlo en inglés, delante de compañeros o clientes internacionales, implica un reto extra: mantener el **control de la conversación**, cortar educadamente, asignar la palabra, reconducir el debate y cerrar con decisiones claras. Si lo haces bien, pasas de ser "el que habla inglés decentemente" a ser "el que conduce las reuniones". Y eso tiene un impacto directo en visibilidad profesional.

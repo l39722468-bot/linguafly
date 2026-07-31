@@ -23,7 +23,7 @@ faqs:
   - question: ¿Los irlandeses tienen acento en gaélico o en inglés?
     answer: >-
       En la mayoría de Irlanda, el inglés es la lengua principal y el gaélico es segunda lengua, aunque con variación enorme por región. En las zonas "Gaeltacht" (principalmente en el oeste y el noroeste), el gaélico es la lengua dominante y el inglés tiene un acento más fuertemente influenciado por él. En las ciudades principales (Dublín, Cork, Galway), el inglés es la lengua cotidiana y el acento varía considerablemente por clase social y zona.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ingles-irlandes-acento-guia'
+canonical: 'https://linguafly.app/blog/gramatica/ingles-irlandes-acento-guia'
 ---
 
 El inglés irlandés tiene algo difícil de definir pero fácil de reconocer: una musicalidad, una velocidad de articulación y una mezcla de características que no encajan del todo en ninguna otra categoría. Colin Farrell, Saoirse Ronan, Cillian Murphy, Brendan Gleeson: si los has visto en entrevistas, sabes de qué hablo.

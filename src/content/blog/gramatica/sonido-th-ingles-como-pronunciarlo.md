@@ -23,7 +23,7 @@ faqs:
   - question: ¿Es grave pronunciar el TH como /s/ o /d/?
     answer: >-
       Depende del contexto. En comunicación informal no suele causar problemas de comprensión, aunque sí delata el acento. Donde sí importa es en palabras que cambian de significado según el sonido: "think" (/θɪŋk/) ≠ "sink" (/sɪŋk/), "then" (/ðen/) ≠ "den" (/den/). En exámenes de pronunciación como el IELTS Speaking, el TH incorrecto puede afectar la nota.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/sonido-th-ingles-como-pronunciarlo'
+canonical: 'https://linguafly.app/blog/gramatica/sonido-th-ingles-como-pronunciarlo'
 ---
 
 Hay sonidos en inglés que suenan difíciles pero no lo son. Y hay sonidos que parecen ridículamente simples pero que resultan ser un quebradero de cabeza durante años. El TH pertenece a esta segunda categoría.

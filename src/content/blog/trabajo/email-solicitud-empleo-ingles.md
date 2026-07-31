@@ -41,7 +41,7 @@ faqs:
       solo es preferible si la empresa lo solicita expresamente (algunos
       sistemas ATS de procesamiento automático funcionan mejor con Word).
       Cuando tengas dudas, PDF.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/email-solicitud-empleo-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/email-solicitud-empleo-ingles'
 ---
 
 El email de solicitud de empleo en inglés tiene un trabajo muy concreto: conseguir que el reclutador abra el CV adjunto. Nada más, nada menos. Todo lo que escribas debe apuntar a ese objetivo.

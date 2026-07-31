@@ -26,7 +26,7 @@ faqs:
   - question: ¿Hay apps para practicar will en inglés?
     answer: >-
       Sí, aunque pocas se especializan en will. Duolingo incluye ejercicios de futuro. Quizlet permite crear tarjetas de vocabulario con frases de will. Para gramática estructurada, plataformas como British Council LearnEnglish o Cambridge English tienen ejercicios específicos de auxiliares. Lo más efectivo es combinar ejercicios escritos con práctica oral.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/will-ejercicios-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/will-ejercicios-ingles'
 ---
 
 La gramática se entiende leyendo, pero se fija practicando. Este artículo reúne ejercicios para todos los usos principales de *will*: futuro, predicciones, decisiones espontáneas, promesas, ofrecimientos y la distinción con *going to*.

@@ -26,7 +26,7 @@ faqs:
   - question: ¿Hay que cambiar también los pronombres?
     answer: >-
       Sí. Los pronombres cambian según la perspectiva del reportaje. "I" → "he/she", "my" → "his/her", "we" → "they", "you" → "I/he/she" dependiendo del contexto. Este cambio es siempre necesario — a diferencia de las expresiones de tiempo, que tienen más flexibilidad.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/reported-speech-expresiones-tiempo'
+canonical: 'https://linguafly.app/blog/gramatica/reported-speech-expresiones-tiempo'
 ---
 
 El reported speech no es solo cambiar el tiempo verbal. Cuando reportas lo que alguien dijo, también tienes que ajustar las referencias temporales y espaciales — porque el "ahora" y el "aquí" de cuando se dijo la frase original ya no son los mismos.

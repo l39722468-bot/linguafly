@@ -16,7 +16,7 @@ excerpt: >-
 keywords:
   - 'Inglés para el Trabajo: Cómo Destacar'
   - 'inglés para el trabajo'
-canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-para-trabajo'
+canonical: 'https://linguafly.app/blog/trabajo/ingles-para-trabajo'
 related_routes:
   - ingles-b1
   - ingles-b2

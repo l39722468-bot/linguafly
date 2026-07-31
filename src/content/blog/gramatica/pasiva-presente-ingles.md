@@ -36,7 +36,7 @@ faqs:
       no pueden usarse en pasiva. Verbos como "arrive", "sleep", "go" o "die"
       no admiten esta construcción. Solo los transitivos (que tienen objeto)
       pueden transformarse.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pasiva-presente-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/pasiva-presente-ingles'
 ---
 
 Si has leído alguna vez un cartel que decía *"English spoken here"* o una noticia que empezaba con *"A new law is expected to..."*, ya has visto la voz pasiva en presente en acción. Esta estructura aparece constantemente en inglés formal, pero también en situaciones cotidianas, y entenderla te va a abrir muchas puertas.

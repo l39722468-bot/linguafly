@@ -25,7 +25,7 @@ faqs:
   - question: '¿El Tono en la Comunicación?'
     answer: 'No escribes igual un contrato legal que un mensaje por Slack. Entender el registro es clave para la atención al cliente internacional.'
 
-canonical: 'https://www.focus-on-english.com/blog/trabajo/vocabulario-negocios-ingles-profesional'
+canonical: 'https://linguafly.app/blog/trabajo/vocabulario-negocios-ingles-profesional'
 ---
 
 En el mundo globalizado de hoy, el inglés no es solo un idioma, es la herramienta de trabajo más potente que puedes tener. Dominar el **vocabulario de negocios en inglés** (Business English) te abrirá puertas a mejores puestos, negociaciones internacionales y una comunicación más fluida con colegas de todo el mundo.
@@ -72,7 +72,7 @@ Si gestionas personas o estás en un proceso de selección, estas frases te ayud
 
 *   **Onboarding**: El proceso de integración de un nuevo empleado. *"Our onboarding process takes three days and covers all company policies."*
 *   **Soft skills**: Habilidades interpersonales (empatía, liderazgo, comunicación). *"We value soft skills just as much as technical expertise."*
-*   **Work-life balance**: Equilibrio entre la vida profesional y personal. *"Focus English promotes a healthy work-life balance through flexible remote work."*
+*   **Work-life balance**: Equilibrio entre la vida profesional y personal. *"Linguafly promotes a healthy work-life balance through flexible remote work."*
 *   **Performance review**: Evaluación periódica del desempeño de un empleado. *"Your annual performance review is scheduled for next Tuesday."*
 
 ## 5. El Tono en la Comunicación: Diplomacia y Registro
@@ -128,7 +128,7 @@ Evita usar demasiados "suavizadores" como *"maybe"*, *"I think"* o *"I'm not sur
 
 ---
 
-¿Quieres practicar estas frases en simulacros de reuniones y entrevistas de trabajo reales? En **Focus English** disponemos de cursos especializados en **Inglés Comercial** con feedback inmediato de nuestra IA. [**Empieza gratis hoy mismo.**](/cuenta/registro)
+¿Quieres practicar estas frases en simulacros de reuniones y entrevistas de trabajo reales? En **Linguafly** disponemos de cursos especializados en **Inglés Comercial** con feedback inmediato de nuestra IA. [**Empieza gratis hoy mismo.**](/cuenta/registro)
 
 ## Fuentes
 

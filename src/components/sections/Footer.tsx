@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { SITE_BRAND_NAME } from "@/lib/site-brand";
 export function Footer() {
   return (
     <footer className="bg-slate-900 text-white py-16 px-4 sm:px-6 lg:px-8 border-t border-slate-800">
@@ -7,9 +8,9 @@ export function Footer() {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center gap-2 mb-6">
               <div className="w-10 h-10 bg-gradient-to-br from-coral-500 to-peach-500 rounded-xl flex items-center justify-center font-black text-white">
-                F
+                L
               </div>
-              <span className="text-xl font-black">Focus English</span>
+              <span className="text-xl font-black">{SITE_BRAND_NAME}</span>
             </div>
             <p className="text-slate-400 text-sm max-w-sm">
               Blog de contenido de calidad para resolver consultas de inglés con explicaciones claras y ejemplos prácticos.
@@ -51,7 +52,7 @@ export function Footer() {
 
         <div className="border-t border-slate-800 pt-8 text-center">
           <p className="text-sm text-slate-400">
-            © 2026 Focus English. Todos los derechos reservados. | <Link href="/privacidad" className="hover:text-white transition-colors">Privacidad</Link> | <Link href="/cookies" className="hover:text-white transition-colors">Cookies</Link> | <Link href="/terminos" className="hover:text-white transition-colors">Términos</Link> | Hecho con 💜 en España
+            © 2026 {SITE_BRAND_NAME}. Todos los derechos reservados. | <Link href="/privacidad" className="hover:text-white transition-colors">Privacidad</Link> | <Link href="/cookies" className="hover:text-white transition-colors">Cookies</Link> | <Link href="/terminos" className="hover:text-white transition-colors">Términos</Link> | Hecho con 💜 en España
           </p>
         </div>
       </div>

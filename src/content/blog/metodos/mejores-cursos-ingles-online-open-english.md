@@ -21,7 +21,7 @@ faqs:
   - question: '¿Cuándo tiene sentido elegirlo?'
     answer: >-
       Si priorizas hablar con relativa flexibilidad y contenido adaptado al contexto latinoamericano antes de dar el salto a un examen costoso en el extranjero.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-online-open-english'
+canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-open-english'
 ---
 
 # Open English 2026: LATAM y exámenes
@@ -49,7 +49,7 @@ Open English puede ayudarte a **ganar confianza oral** y vocabulario útil. Para
 
 - Material oficial del examen.
 - Simulacros cronometrados.
-- Posible tutor especialista ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply)) o institución con foco examen ([British Council](/blog/metodos/mejores-cursos-ingles-online-british-council)); [guías del blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) como apoyo editorial gratuito.
+- Posible tutor especialista ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply)) o institución con foco examen ([British Council](/blog/metodos/mejores-cursos-ingles-online-british-council)); [guías del blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) como apoyo editorial gratuito.
 
 ---
 
@@ -104,7 +104,7 @@ Las promociones agresivas pueden llevar a **renovaciones automáticas** o paquet
 
 - [EF English Live](/blog/metodos/mejores-cursos-ingles-online-ef-english-live): más apuesta global de horarios.
 - [British Council](/blog/metodos/mejores-cursos-ingles-online-british-council): más ecosistema IELTS institucional.
-- [Blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): contenido editorial sobre MCER y exámenes; no es una escuela online ni sustituto de tutor.
+- [Blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): contenido editorial sobre MCER y exámenes; no es una escuela online ni sustituto de tutor.
 
 ### Si tu meta es emigrar o estudiar en otro continente
 

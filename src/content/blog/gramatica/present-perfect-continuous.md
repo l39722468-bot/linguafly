@@ -23,7 +23,7 @@ faqs:
   - question: ¿"I've been waiting" y "I've waited" significan lo mismo?
     answer: >-
       No exactamente. "I've been waiting for an hour" enfatiza la duración de la espera y tiene un matiz de cierta impaciencia o esfuerzo. "I've waited for an hour" enfatiza el resultado o el hecho completado. En la práctica, con "for" y duraciones de tiempo, el continuous es más natural.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/present-perfect-continuous'
+canonical: 'https://linguafly.app/blog/gramatica/present-perfect-continuous'
 ---
 
 El present perfect continuous es uno de esos tiempos verbales que en español simplemente no existen de la misma forma. La estructura *have/has been + -ing* expresa que algo ha estado ocurriendo durante un período que conecta el pasado con el presente — y a menudo con énfasis en el proceso, no en el resultado.

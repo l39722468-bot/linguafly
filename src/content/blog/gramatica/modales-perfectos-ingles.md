@@ -26,7 +26,7 @@ faqs:
   - question: ¿Cómo se pronuncian estas formas en inglés hablado?
     answer: >-
       "Have" se reduce mucho. "Must have" suena como "must-uv", "could have" como "could-uv", "should have" como "should-uv". En inglés informal escrito a veces aparece "must've", "could've", "should've". Nunca se escribe "could of" aunque así suene — es un error frecuente en inglés nativo.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/modales-perfectos-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/modales-perfectos-ingles'
 ---
 
 Los modales perfectos son la estructura que te permite hablar del pasado con toda la precisión y el matiz que ofrece el inglés. Con ellos puedes hacer deducciones sobre lo que ocurrió, expresar arrepentimiento, criticar lo que alguien no hizo, o hablar de posibilidades que existieron pero no se cumplieron.

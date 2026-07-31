@@ -17,7 +17,7 @@ keywords:
   - 'Examen de Inglés de la EOI: Niveles'
   - 'examen ingles EOI'
 alt: 'Estudiante preparando el examen de inglés de la Escuela Oficial de Idiomas'
-canonical: 'https://www.focus-on-english.com/blog/examenes/examenes-eoi-ingles-guia'
+canonical: 'https://linguafly.app/blog/examenes/examenes-eoi-ingles-guia'
 faqs:
   - question: ¿El título de la EOI tiene validez oficial en España?
     answer: >-

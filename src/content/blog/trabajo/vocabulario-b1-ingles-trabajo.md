@@ -11,7 +11,7 @@ readTime: 7 min
 keywords:
   - 'Vocabulario Inglés B1: Trabajo'
   - 'vocabulario trabajo ingles b1'
-canonical: 'https://www.focus-on-english.com/blog/trabajo/vocabulario-b1-ingles-trabajo'
+canonical: 'https://linguafly.app/blog/trabajo/vocabulario-b1-ingles-trabajo'
 related_routes:
   - ingles-b1
 alt: Vocabulario de trabajo para nivel B1
@@ -157,7 +157,7 @@ El vocabulario de nivel B1 es el puente hacia la fluidez. Dominar estos término
 
 ### ¿Quieres ampliar tu vocabulario B1 hoy mismo?
 
-Si estás listo para dar el salto, regístrate en **Focus English**. Nuestra plataforma está diseñada para ayudarte a adquirir este vocabulario de forma natural a través de ejercicios interactivos, audios de nativos y seguimiento personalizado con IA.
+Si estás listo para dar el salto, regístrate en **Linguafly**. Nuestra plataforma está diseñada para ayudarte a adquirir este vocabulario de forma natural a través de ejercicios interactivos, audios de nativos y seguimiento personalizado con IA.
 
 [Ir al Curso Online de Inglés B1](/blog/metodos/cursos-online-ingles-b1)
 

@@ -15,7 +15,7 @@ alt: >-
 keywords:
   - 'LinkedIn en Inglés: Cómo Optimizar'
   - 'optimizar linkedin inglés'
-canonical: 'https://www.focus-on-english.com/blog/trabajo/linkedin-ingles-guia'
+canonical: 'https://linguafly.app/blog/trabajo/linkedin-ingles-guia'
 faqs:
   - question: ¿Cómo pongo mi perfil de LinkedIn en dos idiomas?
     answer: >-

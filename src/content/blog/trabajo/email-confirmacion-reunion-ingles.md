@@ -36,7 +36,7 @@ faqs:
       Sí, es una fórmula completamente estándar en inglés profesional. La
       alternativa más coloquial sería "Here are the details for our upcoming
       meeting." Ambas son correctas; la primera suena ligeramente más formal.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/email-confirmacion-reunion-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/email-confirmacion-reunion-ingles'
 ---
 
 Las reuniones en entornos internacionales se gestionan casi siempre por email antes de que nadie entre a una sala o a un Zoom. Saber cómo convocar, confirmar y cancelar con las fórmulas adecuadas en inglés es una competencia práctica que se nota en el día a día.

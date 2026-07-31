@@ -19,7 +19,7 @@ faqs:
     answer: "Las listas ayudan como punto de partida, pero la manera más eficaz de interiorizar collocations es leer mucho en inglés y tomar nota de las combinaciones en contexto. Una collocation aprendida en una frase real se recuerda mucho mejor que una en una lista."
   - question: "¿Las collocations son iguales en inglés británico y americano?"
     answer: "La mayoría sí, pero hay algunas diferencias. El CAE usa inglés predominantemente británico, así que si tienes dudas entre dos variantes, opta por la británica."
-canonical: 'https://www.focus-on-english.com/blog/examenes/collocations-ingles-c1'
+canonical: 'https://linguafly.app/blog/examenes/collocations-ingles-c1'
 ---
 
 En inglés hay cosas que simplemente "van juntas". No por ninguna regla gramatical, sino por convención: los hablantes nativos aprendieron desde pequeños que se dice *heavy rain* y no *strong rain*, que se *make* una decision pero se *take* una risk, que algo puede ser *deeply committed* pero no *deeply interested* (ahí va *highly* o *deeply interested* dependiendo del adjetivo concreto).

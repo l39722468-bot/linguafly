@@ -1,50 +1,50 @@
 ---
-title: 'Focus English 2026: blog (no curso de pago)'
+title: 'Linguafly 2026: blog (no curso de pago)'
 date: '2026-04-15'
 updatedDate: '2026-04-15'
 author: focus-english-team
-excerpt: 'Focus English es blog y guías gratuitas, no una plataforma con matrícula. Cómo usarlo con IELTS, Cambridge y MCER junto a Preply, academias u otra escuela online.'
-description: 'Qué ofrece el blog Focus English frente a un curso de inglés online: artículos gratuitos, hubs temáticos y enlaces útiles para preparar exámenes oficiales sin confundir editorial con formación de pago.'
+excerpt: 'Linguafly es blog y guías gratuitas, no una plataforma con matrícula. Cómo usarlo con IELTS, Cambridge y MCER junto a Preply, academias u otra escuela online.'
+description: 'Qué ofrece el blog Linguafly frente a un curso de inglés online: artículos gratuitos, hubs temáticos y enlaces útiles para preparar exámenes oficiales sin confundir editorial con formación de pago.'
 category: metodos
 readTime: 9 min
 alt: 'Persona leyendo artículos de inglés en el portátil'
 keywords:
-  - 'Focus English: blog (no curso de pago)'
+  - 'Linguafly: blog (no curso de pago)'
   - 'curso de ingles'
 faqs:
-  - question: '¿Focus English vende un curso de inglés online?'
+  - question: '¿Linguafly vende un curso de inglés online?'
     answer: >-
-      No en el sentido de este hub. Focus English publica un blog con guías, hubs por temas y artículos de gramática, exámenes y métodos. Para clases estructuradas o tutorías necesitas otra plataforma (Preply, academias online, etc.).
+      No en el sentido de este hub. Linguafly publica un blog con guías, hubs por temas y artículos de gramática, exámenes y métodos. Para clases estructuradas o tutorías necesitas otra plataforma (Preply, academias online, etc.).
   - question: '¿Entonces para qué sirve este artículo dentro de “mejores cursos”?'
     answer: >-
       Para situar el propio blog como recurso editorial gratuito que puedes combinar con el curso que elijas. Evita la confusión de tratar el contenido del blog como si fuera matrícula o certificación.
   - question: '¿El blog sustituye a un examen oficial?'
     answer: >-
       No. Ningún artículo sustituye la prueba en un centro autorizado. El blog ayuda a estudiar y a organizar ideas; el certificado lo obtienes presentándote al examen.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes'
+canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes'
 ---
 
-# Focus English 2026: blog (no curso de pago)
+# Linguafly 2026: blog (no curso de pago)
 
-En esta serie sobre **mejores cursos de inglés online** incluimos a **Focus English** con un matiz obligatorio: **aquí el producto principal es contenido editorial** (artículos, hubs temáticos, guías de gramática y exámenes), **no** una plataforma de cursos con precio de suscripción docente como las demás entradas de la lista.
+En esta serie sobre **mejores cursos de inglés online** incluimos a **Linguafly** con un matiz obligatorio: **aquí el producto principal es contenido editorial** (artículos, hubs temáticos, guías de gramática y exámenes), **no** una plataforma de cursos con precio de suscripción docente como las demás entradas de la lista.
 
 Si llegaste buscando “**curso de inglés**” con clases en vivo y profesor asignado, ese modelo **no es lo que describe este sitio como negocio principal**: lo que tienes es un **blog especializado** pensado para hispanohablantes que preparan inglés general o exámenes. El resto de artículos del hub sí analizan **plataformas de formación** (apps, escuelas online, tutores).
 
 ---
 
-## Qué es entonces Focus English en esta comparativa
+## Qué es entonces Linguafly en esta comparativa
 
 - **Blog y guías largas** sobre gramática, vocabulario, pronunciación, trabajo, viajes y **preparación de exámenes** (IELTS, Cambridge, Aptis, etc.).
 - **Hubs por temas** que agrupan lecturas relacionadas (por ejemplo enfoque en un tipo de examen o habilidad).
 - **Herramientas y páginas** del sitio (test de nivel, generadores, etc.) como apoyo, no como sustituto de un programa de estudio con docente.
 
-Lo que **no** debe interpretarse desde este artículo: que Focus English sea un **curso cerrado** con entregas obligatorias, tutorías incluidas en el mismo sentido que Babbel, Preply o una academia online tradicional.
+Lo que **no** debe interpretarse desde este artículo: que Linguafly sea un **curso cerrado** con entregas obligatorias, tutorías incluidas en el mismo sentido que Babbel, Preply o una academia online tradicional.
 
 ---
 
 ## Cómo usar el blog si estás comparando cursos de pago
 
-1. **Antes de pagar** cualquier plataforma, usa el [test de nivel](https://www.focus-on-english.com/test-nivel) y artículos de diagnóstico para **saber por dónde empezar** sin gastar a ciegas.
+1. **Antes de pagar** cualquier plataforma, usa el [test de nivel](https://linguafly.app/test-nivel) y artículos de diagnóstico para **saber por dónde empezar** sin gastar a ciegas.
 2. **Mientras cursas** en otra web, usa las guías del blog como **refuerzo**: reported speech, voz pasiva, writing académico, estrategias de examen —siempre enlazadas desde artículos concretos.
 3. **Después de elegir tutor** (por ejemplo en [Preply](/blog/metodos/mejores-cursos-ingles-online-preply)), lleva a clase **preguntas reales** del examen y usa el blog para **cerrar lagunas gramaticales** que el tutor señale.
 
@@ -91,7 +91,7 @@ Comprueba siempre modalidad y documentación en la web del examinador.
 
 ## Conclusión
 
-**Focus English** encaja en esta colección como **marca editorial y blog de referencia**, no como un ítem más de “plataforma de curso” al uso. Úsalo para **informarte y profundizar**; contrata **curso o tutor** cuando necesites cuenta regresiva, feedback y disciplina externa.
+**Linguafly** encaja en esta colección como **marca editorial y blog de referencia**, no como un ítem más de “plataforma de curso” al uso. Úsalo para **informarte y profundizar**; contrata **curso o tutor** cuando necesites cuenta regresiva, feedback y disciplina externa.
 
 **Siguiente paso:** vuelve al [hub de los 10 mejores cursos de inglés online](/blog/temas/mejores-cursos-de-ingles-online) y elige entre las **plataformas de formación** analizadas; mantén el blog como capa de apoyo gratuito.
 
@@ -127,7 +127,7 @@ Un **curso de pago** compite con tu calendario laboral. Si reservas el examen si
 
 ### Comparación honesta con otras rutas del hub
 
-Si necesitas **solo** conversación con feedback humano barato, [Preply](/blog/metodos/mejores-cursos-ingles-online-preply) encaja. Si buscas **marca institucional** e IELTS, [British Council](/blog/metodos/mejores-cursos-ingles-online-british-council). Si quieres **microaprendizaje diario** antes de invertir en tutor, [Babbel](/blog/metodos/mejores-cursos-ingles-online-babbel) puede ser la capa previa. **Focus English** suma como **capa editorial gratuita** en paralelo a cualquiera de esas opciones —no compite en la misma categoría que una escuela online.
+Si necesitas **solo** conversación con feedback humano barato, [Preply](/blog/metodos/mejores-cursos-ingles-online-preply) encaja. Si buscas **marca institucional** e IELTS, [British Council](/blog/metodos/mejores-cursos-ingles-online-british-council). Si quieres **microaprendizaje diario** antes de invertir en tutor, [Babbel](/blog/metodos/mejores-cursos-ingles-online-babbel) puede ser la capa previa. **Linguafly** suma como **capa editorial gratuita** en paralelo a cualquiera de esas opciones —no compite en la misma categoría que una escuela online.
 
 ### Checklist después de leer una guía del blog
 

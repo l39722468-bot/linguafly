@@ -38,7 +38,7 @@ faqs:
       que no ocurrió en el pasado? Si es ahora: second conditional (if + past
       simple / would). Si es sobre el pasado: third conditional (if + past
       perfect / would have).
-canonical: 'https://www.focus-on-english.com/blog/gramatica/condicionales-ingles-errores-comunes'
+canonical: 'https://linguafly.app/blog/gramatica/condicionales-ingles-errores-comunes'
 ---
 
 Los condicionales son una de las estructuras gramaticales donde más errores sistemáticos cometen los hispanohablantes. No porque sean intrínsecamente difíciles, sino porque la lógica del inglés difiere del español en puntos concretos. Conocer cuáles son esos puntos te ahorra meses de repetir los mismos fallos.

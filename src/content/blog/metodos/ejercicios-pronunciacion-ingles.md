@@ -25,7 +25,7 @@ faqs:
     answer: 'Es una de las herramientas más valiosas y más infrautilizadas. La mayoría de las personas evita grabarse porque escuchar su propia voz les resulta incómodo, pero precisamente esa incomodidad es una señal de que el ejercicio está siendo útil: estás escuchando lo que realmente produces, no lo que crees que produces. No necesitas equipos especiales; el móvil es suficiente. Grábate leyendo el mismo texto antes y después de un periodo de práctica y compara: la diferencia suele ser más grande de lo que esperabas.'
   - question: '¿Qué hago cuando no sé si estoy pronunciando bien o mal?'
     answer: 'La referencia más fiable es la comparación directa con un nativo. Busca la palabra o frase en un diccionario en línea con audio (Cambridge, Merriam-Webster, Forvo) y compara lo que produces tú con lo que escuchas. También puedes usar herramientas de reconocimiento de voz: si Google o Siri entienden lo que dices, tu pronunciación es suficientemente clara. Para retroalimentación más detallada, las apps como ELSA Speak analizan fonema a fonema y señalan exactamente dónde hay diferencias con la pronunciación nativa.'
-canonical: 'https://www.focus-on-english.com/blog/metodos/ejercicios-pronunciacion-ingles'
+canonical: 'https://linguafly.app/blog/metodos/ejercicios-pronunciacion-ingles'
 ---
 
 La pronunciación en inglés mejora con práctica, no con teoría. Puedes saber perfectamente qué es el schwa, cómo funciona la /θ/ o por qué el inglés tiene ritmo stress-timed, y aun así tu boca seguirá produciendo los mismos sonidos de siempre si no la entrenas activamente.

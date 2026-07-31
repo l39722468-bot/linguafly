@@ -17,7 +17,7 @@ keywords:
   - 'gramatica ingles por niveles'
 readTime: 18 min
 alt: 'Guía completa de gramática inglesa de A1 a C2'
-canonical: 'https://www.focus-on-english.com/blog/gramatica/gramatica-inglesa-guia'
+canonical: 'https://linguafly.app/blog/gramatica/gramatica-inglesa-guia'
 faqs:
   - question: '¿Por qué es tan difícil la gramática inglesa para hispanohablantes?'
     answer: 'Los mayores retos son el orden de palabras (SVO estricto), los tiempos perfectos (Present Perfect no existe igual en español), los phrasal verbs (significados no deducibles) y los verbos modales (can, must, should con matices distintos). Con práctica sistemática por niveles, estos obstáculos se superan progresivamente.'

@@ -28,7 +28,7 @@ faqs:
     answer: 'Con rutina de 20-30 minutos diarios cinco días por semana, seis a nueve meses. El cuello de botella no suele ser vocabulario, sino cohesión, párrafos bien construidos y variedad gramatical controlada.'
   - question: '¿Debo escribir siempre en Word/Google Docs?'
     answer: 'Para aprender, mejor a mano o en un editor sin autocorrector. Si el corrector arregla tus errores, los seguirás cometiendo. Una vez corriges consciente, puedes pasar el texto a Docs para revisar puntuación o tipografía, pero el primer borrador conviene que sea tuyo al 100 %.'
-canonical: 'https://www.focus-on-english.com/blog/habilidades/mejorar-writing-ingles-rutina'
+canonical: 'https://linguafly.app/blog/habilidades/mejorar-writing-ingles-rutina'
 ---
 
 De las cuatro habilidades (listening, speaking, reading, writing), el **writing** es el que más recompensa la constancia metódica. A diferencia del speaking, donde la fluidez se entrena con horas y exposición, escribir bien en inglés es mucho más cuestión de **técnica aprendida**: estructura del texto, conectores, registro, revisión. Con una rutina bien montada, se puede pasar de un B1 tosco a un B2 limpio en seis meses. Y de un B2 correcto a un C1 pulido en un año más.

@@ -24,7 +24,7 @@ faqs:
   - question: 'Cómo Usar Correctamente los Hashtags en Inglés?'
     answer: 'Los hashtags tienen sus propias convenciones en inglés:'
 
-canonical: 'https://www.focus-on-english.com/blog/metodos/vocabulario-ingles-redes-sociales'
+canonical: 'https://linguafly.app/blog/metodos/vocabulario-ingles-redes-sociales'
 ---
 
 Las redes sociales se comunican en inglés. Aunque las uses en español, los términos técnicos, las acciones y la cultura digital tienen su origen — y su expresión más natural — en inglés. Dominar el **vocabulario inglés de redes sociales** te abre las puertas a la comunidad global de creadores, marketers y usuarios digitales.

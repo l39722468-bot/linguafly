@@ -23,7 +23,7 @@ faqs:
   - question: ¿En inglés americano se usa "just" con past simple?
     answer: >-
       Sí. En inglés americano es muy común decir "I just finished" (past simple) donde el inglés británico usaría "I've just finished" (present perfect). Ambas formas existen; la variante con present perfect es más formal y más común en el inglés británico y en los exámenes de Cambridge.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/present-perfect-just-already-yet'
+canonical: 'https://linguafly.app/blog/gramatica/present-perfect-just-already-yet'
 ---
 
 Tres palabras pequeñas que generan mucha confusión: **just**, **already** y **yet**. Las tres van casi siempre con el present perfect, las tres se refieren a acciones recientes o esperadas, y las tres tienen una posición específica en la frase que hay que respetar.

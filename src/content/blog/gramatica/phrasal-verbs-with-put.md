@@ -17,7 +17,7 @@ date: '2026-03-06'
 updatedDate: '2026-03-10'
 alt: 'Phrasal verbs con PUT en inglés: put off, put up, put on explicados'
 category: gramatica
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-with-put'
+canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-with-put'
 faqs:
   - question: '¿La Lógica de PUT?'
     answer: 'El significado base de PUT es "colocar algo en un lugar". Esta idea de movimiento y posición influye en muchos de sus phrasal verbs, aunque de forma metafórica:'
@@ -262,7 +262,7 @@ Los **phrasal verbs con PUT** son especialmente complejos porque un mismo verbo 
 
 Empieza por los más frecuentes: *put off*, *put up with*, *put on* y *put down*. Con esos cuatro ya puedes comunicarte en una gran variedad de situaciones. Después, ve añadiendo el resto de forma progresiva.
 
-En **Focus English**, continuamos ampliando el cluster de phrasal verbs para que tengas recursos específicos en cada área del idioma.
+En **Linguafly**, continuamos ampliando el cluster de phrasal verbs para que tengas recursos específicos en cada área del idioma.
 
 ## Fuentes
 

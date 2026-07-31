@@ -12,7 +12,7 @@ readTime: 3 min
 keywords:
   - 'Inglés A1: Guía para Empezar desde Cero'
   - 'aprender inglés desde cero'
-canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-a1'
+canonical: 'https://linguafly.app/blog/metodos/ingles-a1'
 related_routes:
   - ingles-a2
   - aprender-ingles

@@ -19,7 +19,7 @@ faqs:
     answer: "Depende del tipo de error. Los errores ocasionales que no interrumpen la comunicación apenas penalizan. Lo que sí baja la nota es cometer los mismos errores básicos repetidamente o quedarse bloqueado por miedo a equivocarse. La fluidez pesa tanto como la precisión."
   - question: "¿Puedo pedir al examinador que repita una pregunta?"
     answer: "Sí, sin problema. Pedir aclaración de manera natural (*'Could you clarify what you mean by...?'* o *'I'm not sure I've understood the question...'*) no penaliza. Es incluso una muestra de competencia comunicativa."
-canonical: 'https://www.focus-on-english.com/blog/examenes/speaking-cae-avanzado'
+canonical: 'https://linguafly.app/blog/examenes/speaking-cae-avanzado'
 ---
 
 El **Speaking del CAE** dura unos 15 minutos y se divide en cuatro partes. No estás solo: lo haces con otro candidato y os evalúan dos examinadores. Uno conduce la prueba (el interlocutor) y el otro solo observa y puntúa.

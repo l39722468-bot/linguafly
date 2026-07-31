@@ -35,7 +35,7 @@ faqs:
       "Was the report submitted on time?" o "Were the results checked before
       publication?" La estructura es completamente paralela a la pasiva afirmativa
       pero con inversión.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pasiva-pasado-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/pasiva-pasado-ingles'
 ---
 
 Cuando lees que *"The treaty was signed in 1945"* o que *"The suspects were arrested last night"*, estás viendo la voz pasiva en pasado en su hábitat natural. Esta estructura es imprescindible para hablar de historia, narrar hechos y escribir informes, y la buena noticia es que funciona con una lógica muy clara.

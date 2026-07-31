@@ -23,7 +23,7 @@ faqs:
   - question: ¿"Take up" se puede usar para hablar de espacio?
     answer: >-
       Sí. Take up tiene varios significados: empezar a practicar un hobby, ocupar espacio o tiempo, y también continuar algo que se ha interrumpido. "This sofa takes up too much space" es perfectamente correcto.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-with-take'
+canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-with-take'
 ---
 
 TAKE es uno de esos verbos que los estudiantes de inglés aprenden pronto en su forma simple pero que esconde una complejidad enorme cuando empieza a combinarse con partículas. La buena noticia es que muchas de sus combinaciones siguen cierta lógica: tomar algo implica hacerse cargo de ello, llevarlo contigo o quitárselo a alguien.

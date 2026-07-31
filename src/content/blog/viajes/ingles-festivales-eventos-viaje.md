@@ -12,7 +12,7 @@ alt: Multitud disfrutando de un festival de música al aire libre
 keywords:
   - 'Inglés para Festivales y Eventos en el Extranjero'
   - 'ingles para festivales'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-festivales-eventos-viaje'
+canonical: 'https://linguafly.app/blog/viajes/ingles-festivales-eventos-viaje'
 faqs:
   - question: ¿Cómo compro entradas para un festival en inglés?
     answer: >-

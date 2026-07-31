@@ -12,7 +12,7 @@ alt: Viajero haciendo check-in en un apartamento Airbnb moderno
 keywords:
   - 'Inglés para Airbnb y Alojamiento Alternativo'
   - 'ingles para airbnb'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-airbnb-alojamiento-alternativo'
+canonical: 'https://linguafly.app/blog/viajes/ingles-airbnb-alojamiento-alternativo'
 faqs:
   - question: ¿Cómo me comunico con mi anfitrión de Airbnb en inglés?
     answer: >-

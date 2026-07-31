@@ -19,7 +19,7 @@ faqs:
     answer: "La key word suele ser una de estas: ONLY, NEVER, SELDOM, RARELY, HARDLY, BARELY, NO SOONER, NOT UNTIL, UNDER NO CIRCUMSTANCES, LITTLE. Si la key word es una de estas y la frase original no tiene inversión, la transformación casi siempre requiere construir una."
   - question: "¿La inversión cambia el significado de la frase?"
     answer: "No cambia el significado proposicional, pero sí añade énfasis. 'She had never felt so disappointed' y 'Never had she felt so disappointed' significan lo mismo, pero la segunda versión tiene un peso emocional mayor y un registro más formal o literario."
-canonical: 'https://www.focus-on-english.com/blog/examenes/inversiones-ingles-c1'
+canonical: 'https://linguafly.app/blog/examenes/inversiones-ingles-c1'
 ---
 
 Las **inversiones** son una de las estructuras que más claramente marcan la diferencia entre un nivel B2 y un C1 en inglés. En el habla cotidiana son raras —sonarían afectadas—, pero en el inglés escrito formal, en la literatura y en el registro académico son completamente naturales.

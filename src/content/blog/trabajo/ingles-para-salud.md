@@ -12,7 +12,7 @@ readTime: 5 min
 keywords:
   - 'Curso de Inglés para el Sector Salud'
   - 'inglés para salud'
-canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-para-salud'
+canonical: 'https://linguafly.app/blog/trabajo/ingles-para-salud'
 related_routes:
   - ingles-para-trabajo
   - ingles-b2
@@ -112,16 +112,16 @@ Nunca. La seguridad del paciente depende de que comprenda perfectamente su trata
 
 ---
 
-### ¿Por qué elegir el programa de Salud de Focus English?
+### ¿Por qué elegir el programa de Salud de Linguafly?
 
-En **Focus English**, entendemos que en medicina no hay margen para el error. Por eso, nuestro enfoque es práctico y basado en la simulación:
+En **Linguafly**, entendemos que en medicina no hay margen para el error. Por eso, nuestro enfoque es práctico y basado en la simulación:
 
 *   **Simulaciones Clínicas con IA**: Interactúa con un "paciente virtual" que presenta diferentes síntomas y estados emocionales. Aprende a manejar desde una consulta rutinaria hasta una crisis en urgencias.
 *   **Módulos de Ética y Sensibilidad Cultural**: El inglés es la lengua franca, pero los contextos culturales varían. Aprende cómo dar malas noticias o cómo tratar temas sensibles según la cultura del paciente.
 *   **Preparación para Exámenes Oficiales**: Te ayudamos a preparar el **OET (Occupational English Test)**, el examen específico para profesionales de la salud que desean trabajar en el Reino Unido, Australia o EE. UU.
 *   **Glosarios Interactivos**: Acceso a miles de términos con audios de pronunciación real (nada de voces robóticas) para que suenes profesional.
 
-[**Lleva tu carrera sanitaria al siguiente nivel global. Regístrate en Focus English y accede a la mejor formación en inglés médico online.**](/cuenta/registro)
+[**Lleva tu carrera sanitaria al siguiente nivel global. Regístrate en Linguafly y accede a la mejor formación en inglés médico online.**](/cuenta/registro)
 
 ---
 

@@ -23,7 +23,7 @@ faqs:
   - question: ¿Qué versión de ChatGPT es mejor para aprender inglés?
     answer: >-
       GPT-4 (disponible en ChatGPT Plus) es notablemente mejor para el aprendizaje de idiomas: comprende matices, da explicaciones más ricas y comete menos errores. La versión gratuita (GPT-3.5) también es útil para práctica básica, correcciones y vocabulario.
-canonical: 'https://www.focus-on-english.com/blog/metodos/aprender-ingles-con-chatgpt'
+canonical: 'https://linguafly.app/blog/metodos/aprender-ingles-con-chatgpt'
 ---
 
 ## Aprender Inglés con ChatGPT: La Guía Definitiva

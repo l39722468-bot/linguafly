@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cómo puedo mejorar mi inglés académico rápidamente?
     answer: >-
       Lee artículos académicos de tu campo en inglés regularmente, aunque sea 30 minutos al día. Presta atención a cómo los autores estructuran sus argumentos y qué vocabulario usan. Practica escribiendo pequeños textos académicos (incluso con ChatGPT que te puede corregir y explicar) y usa recursos como el Academic Word List de la Universidad de Nottingham, que contiene las 570 palabras más frecuentes en textos académicos.
-canonical: 'https://www.focus-on-english.com/blog/examenes/ingles-universitario-academico'
+canonical: 'https://linguafly.app/blog/examenes/ingles-universitario-academico'
 ---
 
 ## Inglés Universitario y Académico: La Guía que Necesitan los Estudiantes

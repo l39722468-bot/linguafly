@@ -23,7 +23,7 @@ faqs:
   - question: ¿Es mejor aprender palabras con flashcards o con textos completos?
     answer: >-
       Las dos cosas tienen su lugar. Las flashcards son buenas para memorización inicial y repaso. Los textos en contexto son imprescindibles para aprender cómo se usa la palabra, con qué otras palabras combina y qué matiz tiene. Lo ideal es aprender la palabra en flashcard y luego encontrarla en textos reales.
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-vocabulario-academico'
+canonical: 'https://linguafly.app/blog/examenes/ielts-vocabulario-academico'
 ---
 
 Hay dos tipos de vocabulario que necesitas para el IELTS, y funcionan de forma diferente.

@@ -8,9 +8,10 @@ import { Metadata } from "next";
 import { getBlogArticles } from "@/lib/blog";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
+import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 
 export const metadata: Metadata = {
-  title: "Blog de Inglés 2026: Guías Trabajo, Viajes y Exámenes | Focus English",
+  title: `Blog de Inglés 2026: Guías Trabajo, Viajes y Exámenes | ${SITE_BRAND_NAME}`,
   description: "Guías prácticas de inglés para el trabajo, viajes y exámenes oficiales (Cambridge, IELTS, TOEFL). Métodos de estudio, gramática y vocabulario. Contenido actualizado por expertos.",
   keywords: [
     "blog inglés",
@@ -23,15 +24,15 @@ export const metadata: Metadata = {
     "métodos aprender inglés",
   ],
   alternates: {
-    canonical: 'https://www.focus-on-english.com/blog',
+    canonical: getAbsoluteUrl('/blog'),
   },
 };
 
 export default function BlogPage() {
   const articles = getBlogArticles();
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: "Inicio", url: "https://www.focus-on-english.com" },
-    { name: "Blog", url: "https://www.focus-on-english.com/blog" },
+    { name: "Inicio", url: getSiteUrl() },
+    { name: "Blog", url: getAbsoluteUrl("/blog") },
   ]);
   
   // Logic for featured article
@@ -218,7 +219,7 @@ export default function BlogPage() {
                       <div className="text-6xl mb-6 drop-shadow-lg">📚</div>
                       <div className="font-display text-2xl font-black mb-4 drop-shadow-md">Contenido de Calidad</div>
                       <div className="text-white/90 mb-8 max-w-xs mx-auto drop-shadow-sm font-medium">
-                        Aprende con los mejores recursos gratuitos de Focus English
+                        Aprende con los mejores recursos gratuitos de Linguafly
                       </div>
                     </div>
                   </div>

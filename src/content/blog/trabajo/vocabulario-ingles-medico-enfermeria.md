@@ -10,7 +10,7 @@ description: >-
 category: trabajo
 alt: Enfermera hablando en inglés con un paciente internacional en un hospital
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/vocabulario-ingles-medico-enfermeria
+  https://linguafly.app/blog/trabajo/vocabulario-ingles-medico-enfermeria
 readTime: 5 min
 keywords:
   - 'Vocabulario de Inglés Médico'
@@ -166,7 +166,7 @@ Si tu objetivo es trabajar en el Reino Unido, Australia o Nueva Zelanda, el **OE
 - Explicar procedimientos o información de salud
 - Dar instrucciones de alta
 
-**En Focus English**, ofrecemos preparación específica para el OET de enfermería con materiales actualizados y simulacros con feedback de evaluadores certificados.
+**En Linguafly**, ofrecemos preparación específica para el OET de enfermería con materiales actualizados y simulacros con feedback de evaluadores certificados.
 
 [👉 ¿Quieres trabajar como enfermero/a en el extranjero? Prepárate con nosotros para el OET y el IELTS](/cuenta/registro?plan=work)
 

@@ -23,7 +23,7 @@ faqs:
   - question: ¿Por qué a veces parece que los australianos preguntan en cada frase?
     answer: >-
       Esta percepción viene de la "Australian Question Intonation" (AQI) o "High Rising Terminal" (HRT): el uso de entonación ascendente al final de afirmaciones. Aunque no es exclusivo del australiano (también aparece en el inglés neozelandés y en algunos jóvenes americanos y británicos), es especialmente frecuente en el habla australiana informal. No indica necesariamente que estén haciendo una pregunta; puede ser un marcador de conexión o de búsqueda de confirmación del interlocutor.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ingles-australiano-caracteristicas'
+canonical: 'https://linguafly.app/blog/gramatica/ingles-australiano-caracteristicas'
 ---
 
 El australiano Chris Hemsworth, la cantante Kylie Minogue, el director Baz Luhrmann. Si has escuchado hablar a alguno de ellos, habrás notado algo: el inglés australiano tiene una música completamente propia, diferente del británico y del americano. No solo en el vocabulario ("arvo" para afternoon, "brekkie" para breakfast), sino en la pronunciación fundamental.

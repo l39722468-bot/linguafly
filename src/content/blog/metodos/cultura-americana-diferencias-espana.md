@@ -26,7 +26,7 @@ faqs:
   - question: '¿Las Relaciones de Trabajo en EE.UU.?'
     answer: 'La cultura laboral americana tiene características muy específicas:'
 
-canonical: 'https://www.focus-on-english.com/blog/metodos/cultura-americana-diferencias-espana'
+canonical: 'https://linguafly.app/blog/metodos/cultura-americana-diferencias-espana'
 ---
 
 Cuando hispanohablantes se mudan a Estados Unidos o trabajan con americanos, el mayor choque no suele ser el idioma — es la cultura. Los americanos y los españoles o latinoamericanos tienen valores, ritmos y estilos de comunicación muy diferentes. Entender estas diferencias es clave para prosperar en entornos angloamericanos.

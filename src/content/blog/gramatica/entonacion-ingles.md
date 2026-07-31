@@ -25,7 +25,7 @@ faqs:
     answer: 'Sí, especialmente en la entonación de afirmaciones. El inglés británico tiende a usar más variación y una entonación descendente más marcada en afirmaciones. El inglés americano es en general un poco más plano y puede usar entonación ascendente al final de afirmaciones (conocida como uptalk o high rising terminal) en algunos dialectos, especialmente en California. Para el aprendizaje, lo más útil es elegir un modelo de referencia y trabajar con él consistentemente.'
   - question: '¿Cómo sé dónde va el tono nuclear en una frase?'
     answer: 'El tono nuclear —el punto de mayor movimiento tonal en la frase— suele caer sobre la palabra que contiene la información más nueva o más importante para el hablante. En una respuesta a una pregunta, el tono nuclear va sobre la información que responde directamente a esa pregunta. En una afirmación, suele ir sobre el último elemento significativo. Con el tiempo y la exposición lo reconoces de forma intuitiva, pero al principio es útil escuchar con atención dónde los nativos "aterrizan" con la voz.'
-canonical: 'https://www.focus-on-english.com/blog/gramatica/entonacion-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/entonacion-ingles'
 ---
 
 Si alguna vez has tenido la sensación de que tu inglés suena correcto pero algo mecánico, o que no acabas de transmitir la actitud que quieres, es muy probable que la entonación tenga algo que ver. La gramática puede estar perfecta, el vocabulario puede ser el adecuado, y aun así la frase puede sonar brusca, desinteresada o confusa si el movimiento de la voz no acompaña.

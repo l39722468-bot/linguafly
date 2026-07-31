@@ -40,7 +40,7 @@ faqs:
       trabajando activamente muestra madurez y autoconciencia. "I sometimes
       struggle to delegate, but I've been working on it by [acción concreta]"
       es mucho más creíble y positivo que cualquier debilidad falsa.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/errores-entrevista-trabajo-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/errores-entrevista-trabajo-ingles'
 ---
 
 Las entrevistas en inglés tienen una capa extra de dificultad: además de presentarte bien como candidato, tienes que hacerlo en otro idioma. Eso multiplica las posibilidades de cometer errores. Estos son los más frecuentes.

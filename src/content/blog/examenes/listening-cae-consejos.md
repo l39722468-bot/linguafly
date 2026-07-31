@@ -19,7 +19,7 @@ faqs:
     answer: "Sí. De hecho, es muy recomendable, especialmente en la Parte 2 (sentence completion), donde necesitas escribir exactamente la información que escuchas. Usa los márgenes de tu hoja de preguntas."
   - question: "¿Qué hago si me pierdo una pregunta en el Listening?"
     answer: "Pasa a la siguiente inmediatamente. Quedarte atascado en una respuesta hace que pierdas las siguientes también. Recuerda que escucharás el audio dos veces: la segunda escucha es tu oportunidad de completar lo que no captaste."
-canonical: 'https://www.focus-on-english.com/blog/examenes/listening-cae-consejos'
+canonical: 'https://linguafly.app/blog/examenes/listening-cae-consejos'
 ---
 
 El **Listening del CAE** tiene fama de ser impredecible. Un estudiante que lleva meses haciendo ejercicios puede llegar al examen y descubrir que hablan más rápido de lo que esperaba, que el acento es diferente, o que la respuesta a una pregunta estaba en una frase que pasó en un segundo. Eso no es mala suerte: es falta de preparación específica para el formato.

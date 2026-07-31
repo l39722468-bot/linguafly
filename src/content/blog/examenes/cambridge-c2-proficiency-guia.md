@@ -13,7 +13,7 @@ readTime: 4 min
 keywords:
   - 'Examen C2 Proficiency (CPE)'
   - 'ingles proficiency'
-canonical: 'https://www.focus-on-english.com/blog/examenes/cambridge-c2-proficiency-guia'
+canonical: 'https://linguafly.app/blog/examenes/cambridge-c2-proficiency-guia'
 related_routes:
   - certificaciones-ingles
   - ingles-c2

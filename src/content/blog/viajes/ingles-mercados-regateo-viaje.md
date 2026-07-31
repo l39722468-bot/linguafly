@@ -12,7 +12,7 @@ alt: Viajero regateando en un mercado callejero colorido en el extranjero
 keywords:
   - 'Inglés para Mercados y Regateo en el Extranjero'
   - 'ingles para mercados'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-mercados-regateo-viaje'
+canonical: 'https://linguafly.app/blog/viajes/ingles-mercados-regateo-viaje'
 faqs:
   - question: ¿Cómo pregunto el precio de algo en un mercado?
     answer: >-

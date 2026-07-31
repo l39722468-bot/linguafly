@@ -38,7 +38,7 @@ faqs:
       a otra: de "The prize was awarded to him" a "He was awarded the prize."
       Conocer las dos variantes y saber transformarlas es directamente puntuable
       en Use of English.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pasiva-doble-objeto-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/pasiva-doble-objeto-ingles'
 ---
 
 Hay un tipo de oración en inglés que sorprende a muchos estudiantes: aquella donde el verbo tiene no uno sino dos objetos. *"They gave me a book."* ¿Quién recibe la acción en la pasiva? ¿Yo (me) o el libro (a book)? La respuesta es: los dos. Y eso crea dos versiones de la pasiva, ambas válidas y correctas.

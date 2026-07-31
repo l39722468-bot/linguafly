@@ -37,7 +37,7 @@ faqs:
       completed by December." Se usa para acciones que estarán terminadas antes
       de un punto futuro concreto. Es una estructura avanzada, más frecuente
       en textos académicos y contratos.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pasiva-ingles-futuro'
+canonical: 'https://linguafly.app/blog/gramatica/pasiva-ingles-futuro'
 ---
 
 Cuando lees titulares como *"New regulations will be introduced next year"* o comunicados como *"The event will be held on Saturday"*, estás viendo la pasiva en futuro. Es una estructura muy común en anuncios oficiales, comunicados de empresa, noticias y cualquier tipo de texto formal que hable de lo que va a ocurrir.

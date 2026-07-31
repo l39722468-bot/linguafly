@@ -34,7 +34,7 @@ faqs:
       inglés son: Awareness (conocimiento), Consideration (consideración),
       Decision (decisión) y Retention (retención). También se usa el acrónimo
       TOFU (Top of Funnel), MOFU (Middle of Funnel) y BOFU (Bottom of Funnel).
-canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-para-marketing'
+canonical: 'https://linguafly.app/blog/trabajo/ingles-para-marketing'
 description: >
   Vocabulario, términos y frases esenciales del inglés para marketing en 2026. SEO, copywriting, social media, briefings y presentaciones de campaña en entornos profesionales internacionales.
 ---
@@ -233,7 +233,7 @@ Esta guía te da el vocabulario, las expresiones y las frases que necesitas para
 
 ## 🎓 Lleva tu Inglés de Marketing al Nivel Internacional
 
-El vocabulario es el primer paso. Para comunicarte con confianza en reuniones, presentaciones y negociaciones con clientes internacionales, necesitas práctica real. En **Focus English** te ayudamos a desarrollar el inglés profesional específico para tu sector.
+El vocabulario es el primer paso. Para comunicarte con confianza en reuniones, presentaciones y negociaciones con clientes internacionales, necesitas práctica real. En **Linguafly** te ayudamos a desarrollar el inglés profesional específico para tu sector.
 
 [**👉 Empieza tu plan de inglés para marketing y trabaja sin barreras**](/cuenta/registro?plan=work)
 

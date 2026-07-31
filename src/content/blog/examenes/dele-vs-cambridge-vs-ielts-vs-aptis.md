@@ -17,7 +17,7 @@ keywords:
   - 'DELE vs Cambridge vs IELTS vs APTIS'
   - 'aptis vs cambridge'
 alt: 'Diplomas y certificados de inglés comparados sobre una mesa de trabajo'
-canonical: 'https://www.focus-on-english.com/blog/examenes/dele-vs-cambridge-vs-ielts-vs-aptis'
+canonical: 'https://linguafly.app/blog/examenes/dele-vs-cambridge-vs-ielts-vs-aptis'
 faqs:
   - question: ¿Cuál es el certificado de inglés más reconocido internacionalmente?
     answer: >-

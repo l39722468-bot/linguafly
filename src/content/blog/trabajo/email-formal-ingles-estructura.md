@@ -38,7 +38,7 @@ faqs:
       entre 3 y 6 párrafos cortos es lo ideal. Los correos muy largos se leen
       mal, especialmente en móvil. Si el asunto requiere mucho detalle, adjunta
       un documento y resúmelo en el correo.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/email-formal-ingles-estructura'
+canonical: 'https://linguafly.app/blog/trabajo/email-formal-ingles-estructura'
 ---
 
 Hay una diferencia visible entre un email en inglés que suena profesional y uno que no. No siempre es cuestión de vocabulario avanzado: muchas veces es simplemente que la estructura no está bien. El correo no tiene asunto claro, el saludo no corresponde al contexto, o el mensaje termina de golpe sin ninguna fórmula de cierre.

@@ -40,7 +40,7 @@ faqs:
       el autor eligió esa estructura. Luego intenta reescribir algunos párrafos
       en activa y comprueba si el tono cambia. Este ejercicio también mejora
       tu lectura y tu comprensión del registro formal.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ejercicios-voz-pasiva-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/ejercicios-voz-pasiva-ingles'
 ---
 
 Conocer las reglas de la voz pasiva es solo la mitad del trabajo. La otra mitad es practicarla hasta que fluya con naturalidad. Estos ejercicios están organizados por nivel y tipo, con sus soluciones explicadas para que no solo compruebes si has acertado sino que entiendas exactamente por qué.

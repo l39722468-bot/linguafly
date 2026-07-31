@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cómo abro una cuenta bancaria siendo extranjero en UK?
     answer: >-
       La forma más fácil es empezar con un neobanco como Monzo, Revolut o Starling, que no requieren dirección fija en UK para abrirse. Para un banco tradicional necesitas un "proof of address" (factura de servicios o carta oficial a tu nombre) y tu pasaporte. El proceso se llama "opening a bank account" y normalmente puede hacerse en la app o en sucursal.
-canonical: 'https://www.focus-on-english.com/blog/viajes/mudarse-al-extranjero-guia-ingles'
+canonical: 'https://linguafly.app/blog/viajes/mudarse-al-extranjero-guia-ingles'
 ---
 
 ## Mudarse al Extranjero: El Inglés Que Necesitas para Empezar

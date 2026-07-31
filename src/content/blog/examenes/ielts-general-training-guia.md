@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cuánto tiempo tengo que esperar entre exámenes si no consigo la nota?
     answer: >-
       No hay período mínimo obligatorio. Puedes presentarte al IELTS cualquier número de veces y cuando quieras. Dicho esto, es recomendable esperar al menos un mes para prepararte de forma diferente al anterior intento.
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-general-training-guia'
+canonical: 'https://linguafly.app/blog/examenes/ielts-general-training-guia'
 ---
 
 El IELTS tiene dos formatos: Academic y General Training. Si estás preparándote para emigrar a Australia, Canadá, Reino Unido o Nueva Zelanda, o para solicitar una visa de trabajo, casi con seguridad necesitas el General Training. Si tu objetivo es entrar a la universidad, es el Academic.

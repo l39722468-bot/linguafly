@@ -23,7 +23,7 @@ faqs:
   - question: ¿Por qué el word stress incorrecto dificulta tanto la comprensión?
     answer: >-
       Porque el cerebro de un nativo no procesa las palabras letra a letra, sino que busca patrones silábicos conocidos. Si escucha "PHOtography" en lugar de "phoTOgraphy", no reconoce el patrón y tiene que hacer un esfuerzo consciente de decodificación. En conversaciones rápidas, esto puede significar directamente no entender lo que se dice.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/word-stress-ingles-acento-tonico'
+canonical: 'https://linguafly.app/blog/gramatica/word-stress-ingles-acento-tonico'
 ---
 
 Hay un experimento que hago a veces con estudiantes de nivel intermedio-avanzado. Les pido que digan la palabra "photography" en voz alta. La mayoría la dice sin problema. Luego les pido que digan "PHOtography" (acento en la primera sílaba). Y entonces les pregunto: ¿a cuál de las dos reaccionaría un nativo sin parpadear?

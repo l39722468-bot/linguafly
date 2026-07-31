@@ -37,7 +37,7 @@ faqs:
       informes y textos jurídicos. En conversación informal se usaría más
       "People say that..." o "They say that..." aunque "It is said" puede
       aparecer en la lengua oral para dar un tono más solemne o distante.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pasiva-impersonal-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/pasiva-impersonal-ingles'
 ---
 
 Si has leído alguna vez un artículo en inglés y has encontrado frases como *"It is widely believed that the economy will recover"* o *"The suspect is alleged to have fled the country"*, estabas leyendo la pasiva impersonal. Es una estructura muy característica del inglés formal y periodístico, y dominarla marca una diferencia real en tu nivel escrito.

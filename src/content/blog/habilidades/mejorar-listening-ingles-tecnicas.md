@@ -28,7 +28,7 @@ faqs:
     answer: 'En el día a día profesional, exposición regular a al menos tres: americano general, británico RP y un tercer acento (australiano, irlandés o indio) según tu contexto. En exámenes, Cambridge y IELTS mezclan acentos a propósito.'
   - question: '¿Qué hago cuando pierdo el hilo y ya no entiendo nada?'
     answer: 'Lo peor es bloquearte. Respira, salta lo que no entiendas y engánchate a la siguiente idea. En conversación real, pide una reformulación con "Sorry, could you say that again more slowly, please?". No es debilidad: es estrategia.'
-canonical: 'https://www.focus-on-english.com/blog/habilidades/mejorar-listening-ingles-tecnicas'
+canonical: 'https://linguafly.app/blog/habilidades/mejorar-listening-ingles-tecnicas'
 ---
 
 Si ya manejas la gramática, entiendes lo que lees y puedes mantener una conversación lenta, pero te **bloqueas** cuando un nativo habla a velocidad real, no es que tu nivel sea bajo: es que te falta entrenamiento específico de listening. La comprensión auditiva es una habilidad distinta de la lectura, con sus propios obstáculos —conexión de sonidos, *schwa*, vocabulario reducido y fonético, ruido de fondo— y necesita su propio plan.

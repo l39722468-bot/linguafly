@@ -25,7 +25,7 @@ faqs:
     answer: 'Sí, aunque suena algo pesado. El presente y pasado continuo pasivo (is being / was being) son comunes: "The bridge is being repaired." Los tiempos perfectos continuos pasivos (has been being) casi nunca se usan por su complejidad.'
   - question: '¿Cuándo se incluye el agente con "by" en la voz pasiva?'
     answer: 'Solo cuando la información de quién realizó la acción es relevante y aporta valor: "The painting was created by Picasso." Si el agente es obvio o irrelevante, se omite: "The letter was delivered" (no es necesario decir "by the postman").'
-canonical: 'https://www.focus-on-english.com/blog/gramatica/voz-pasiva-ingles-guia'
+canonical: 'https://linguafly.app/blog/gramatica/voz-pasiva-ingles-guia'
 ---
 
 La **voz pasiva (The Passive Voice)** es una de las estructuras que marca la frontera entre un nivel básico y un nivel intermedio-avanzado en inglés. Mientras que en el nivel A2 nos centramos en quién hace qué (Voz Activa), a partir del nivel B1 y especialmente en el B2 (First) y C1 (Advanced), empezamos a dar prioridad a la **acción** o al **objeto** que la recibe.
@@ -138,9 +138,9 @@ Solo usamos **'by + agente'** si la información de quién hizo la acción es re
 
 Dominar la **voz pasiva en inglés** no es solo una cuestión de aprobar un examen; es la clave para comunicarte con precisión en entornos internacionales y profesionales. Al mover el foco de atención hacia lo que realmente importa, tu discurso gana en objetividad y elegancia.
 
-En **Focus English**, no nos limitamos a enseñarte las tablas de verbos. Nuestra plataforma utiliza **IA avanzada** para ayudarte a practicar estas estructuras en contextos reales, desde la redacción de emails corporativos hasta simulacros de entrevistas de trabajo.
+En **Linguafly**, no nos limitamos a enseñarte las tablas de verbos. Nuestra plataforma utiliza **IA avanzada** para ayudarte a practicar estas estructuras en contextos reales, desde la redacción de emails corporativos hasta simulacros de entrevistas de trabajo.
 
-[**¡Únete a Focus English hoy y empieza a hablar con la confianza de un experto!**](/cuenta/registro)
+[**¡Únete a Linguafly hoy y empieza a hablar con la confianza de un experto!**](/cuenta/registro)
 
 ---
 

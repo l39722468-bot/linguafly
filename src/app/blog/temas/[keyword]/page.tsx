@@ -8,6 +8,7 @@ import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { generateBreadcrumbSchema, generateCollectionPageSchema, generateFAQSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
+import { getAbsoluteUrl, getSiteUrl } from "@/lib/site-brand";
 
 export async function generateStaticParams() {
   const keywords = getAllKeywords();
@@ -39,7 +40,7 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
   const pageDescription = hubContent?.description
     || `Aprende ${originalKeyword} con nuestras guías gratuitas en español. Recursos prácticos, ejercicios resueltos y consejos de expertos para hispanohablantes. Mejora tu inglés hoy.`;
 
-  const ogImage = "https://www.focus-on-english.com/blog/og-image.jpg";
+  const ogImage = getAbsoluteUrl('/blog/og-image.jpg');
 
   /**
    * Si existe un artículo con el mismo slug que este hub (duplicado hub/blog),
@@ -50,8 +51,8 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
   const duplicateArticle = getDuplicateArticleForHub(keyword);
   const hasDuplicateArticle = !!duplicateArticle;
   const canonicalUrl = hasDuplicateArticle
-    ? `https://www.focus-on-english.com/blog/${normalizeCategory(duplicateArticle.category)}/${duplicateArticle.slug}`
-    : `https://www.focus-on-english.com/blog/temas/${keyword}`;
+    ? getAbsoluteUrl(`/blog/${normalizeCategory(duplicateArticle.category)}/${duplicateArticle.slug}`)
+    : getAbsoluteUrl(`/blog/temas/${keyword}`);
 
   const pageKeywords = [
     originalKeyword,
@@ -73,7 +74,7 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
       title: pageTitle,
       description: pageDescription,
       type: "website",
-      url: `https://www.focus-on-english.com/blog/temas/${keyword}`,
+      url: getAbsoluteUrl(`/blog/temas/${keyword}`),
       images: [{ url: ogImage, width: 1200, height: 630, alt: pageTitle }],
     },
     twitter: {
@@ -111,19 +112,19 @@ export default async function KeywordHubPage({ params }: { params: Promise<{ key
     || `Aprende ${originalKeyword} con nuestras guías gratuitas en español. Recursos prácticos, ejercicios resueltos y consejos de expertos para hispanohablantes.`;
 
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: "Inicio", url: "https://www.focus-on-english.com" },
-    { name: "Blog", url: "https://www.focus-on-english.com/blog" },
-    { name: "Temas", url: "https://www.focus-on-english.com/blog/temas" },
+    { name: "Inicio", url: getSiteUrl() },
+    { name: "Blog", url: getAbsoluteUrl("/blog") },
+    { name: "Temas", url: getAbsoluteUrl("/blog/temas") },
     { name: originalKeyword },
   ]);
 
   const collectionPageSchema = generateCollectionPageSchema({
     name: displayTitle,
     description: displayDescription,
-    url: `https://www.focus-on-english.com/blog/temas/${keyword}`,
+    url: getAbsoluteUrl(`/blog/temas/${keyword}`),
     articles: articles.slice(0, 10).map((a) => ({
       title: a.title,
-      url: `https://www.focus-on-english.com/blog/${normalizeCategory(a.category)}/${a.slug}`,
+      url: getAbsoluteUrl(`/blog/${normalizeCategory(a.category)}/${a.slug}`),
       datePublished: a.date,
     })),
   });

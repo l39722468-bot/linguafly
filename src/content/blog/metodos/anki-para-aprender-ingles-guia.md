@@ -29,7 +29,7 @@ faqs:
   - question: '¿Anki es mejor que Duolingo para vocabulario en inglés?'
     answer: >-
       Para memorización de vocabulario a largo plazo, Anki es claramente más efectivo que Duolingo. El sistema de repetición espaciada de Anki está respaldado por décadas de investigación científica sobre memoria. Duolingo es mejor para crear el hábito inicial y aprender estructuras básicas, pero si quieres construir un vocabulario sólido y duradero, Anki no tiene rival.
-canonical: 'https://www.focus-on-english.com/blog/metodos/anki-para-aprender-ingles-guia'
+canonical: 'https://linguafly.app/blog/metodos/anki-para-aprender-ingles-guia'
 ---
 
 ## Anki para Aprender Inglés: La Herramienta Más Efectiva para el Vocabulario

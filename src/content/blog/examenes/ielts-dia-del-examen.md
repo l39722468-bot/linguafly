@@ -23,7 +23,7 @@ faqs:
   - question: ¿Puedo salir al baño durante el examen IELTS?
     answer: >-
       Sí, pero pierdes tiempo de examen. El reloj no se para. Para el Listening es prácticamente imposible salir sin perder respuestas. Para el Reading y el Writing, si necesitas salir, un supervisor te acompañará. Planifica bien antes de entrar a la sala.
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-dia-del-examen'
+canonical: 'https://linguafly.app/blog/examenes/ielts-dia-del-examen'
 ---
 
 Meses de preparación pueden verse afectados por algo tan sencillo como llegar al centro equivocado, llevar el documento de identidad caducado o no saber que el Speaking puede ser en una sala diferente a la del resto del examen. El día del IELTS tiene sus propias reglas logísticas, y conocerlas de antemano te quita un peso de encima.

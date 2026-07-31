@@ -10,7 +10,7 @@ description: >-
 category: trabajo
 alt: Profesional senior en una entrevista de trabajo internacional hablando en inglés
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/job-interview-english-consejos-avanzados
+  https://linguafly.app/blog/trabajo/job-interview-english-consejos-avanzados
 readTime: 5 min
 keywords:
   - 'Job Interview English: Técnicas'

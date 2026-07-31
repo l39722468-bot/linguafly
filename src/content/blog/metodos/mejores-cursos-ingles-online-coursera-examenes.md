@@ -21,7 +21,7 @@ faqs:
   - question: '¿edX es equivalente?'
     answer: >-
       Misma lógica: busca cursos de universidades reconocidas con syllabus explícito para IELTS o English for Academic Purposes.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-online-coursera-examenes'
+canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-coursera-examenes'
 ---
 
 # Coursera 2026: MOOCs IELTS académico
@@ -40,7 +40,7 @@ canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-
 
 ## Qué no sustituyen
 
-- **Speaking** bajo presión con examinador: necesitas práctica oral real ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply), [Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda)); el [blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) aporta estrategia y teoría, no sustituye al interlocutor humano.
+- **Speaking** bajo presión con examinador: necesitas práctica oral real ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply), [Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda)); el [blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) aporta estrategia y teoría, no sustituye al interlocutor humano.
 - **Simulacro completo** con timing: combina con material oficial y exámenes de práctica.
 
 ---
@@ -90,7 +90,7 @@ Elige MOOC si necesitas **disciplina de curso universitario**, deadlines y sylla
 
 ### Puente hacia Cambridge
 
-Los exámenes Cambridge valoran **range** y **accuracy** en contextos variados. Un MOOC de academic English ayuda en lectura larga y escritura, pero debes añadir **speaking** con interlocutor humano ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply)) y familiaridad con el formato del paper que vayas a presentar; las [guías del blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) pueden orientar, no sustituyen la práctica oral.
+Los exámenes Cambridge valoran **range** y **accuracy** en contextos variados. Un MOOC de academic English ayuda en lectura larga y escritura, pero debes añadir **speaking** con interlocutor humano ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply)) y familiaridad con el formato del paper que vayas a presentar; las [guías del blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) pueden orientar, no sustituyen la práctica oral.
 
 ### Errores frecuentes al estudiar solo con vídeos
 

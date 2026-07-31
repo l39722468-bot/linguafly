@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cómo se llama el "delantero" en inglés?
     answer: >-
       En fútbol, delantero se dice "forward" o "striker". Hay varios tipos: "centre-forward" (delantero centro), "winger" (extremo) y "second striker" (segundo delantero). Un jugador que marca muchos goles puede ser llamado "top scorer" o "leading goalscorer".
-canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-para-deportes'
+canonical: 'https://linguafly.app/blog/metodos/ingles-para-deportes'
 ---
 
 ## Inglés para Deportes: La Guía Completa

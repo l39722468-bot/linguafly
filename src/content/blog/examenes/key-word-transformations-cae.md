@@ -19,7 +19,7 @@ faqs:
     answer: "Cada transformación vale un máximo de 2 puntos. Si tu respuesta es completamente correcta, obtienes 2 puntos. Si tienes parte de la respuesta correcta (generalmente al menos la mitad de los elementos clave), puedes obtener 1 punto. Si la respuesta es incorrecta, 0 puntos. Por eso merece la pena intentar siempre una respuesta aunque no estés seguro."
   - question: "¿Las Key Word Transformations del CAE son las mismas que las del FCE?"
     answer: "El formato es el mismo, pero el nivel de dificultad es notablemente mayor. En el CAE aparecen estructuras que no suelen estar en el FCE: inversiones formales, condicionales mixtos, estructuras causativas, verbos modales en pasado y paráfrasis con phrasal verbs de registro elevado."
-canonical: 'https://www.focus-on-english.com/blog/examenes/key-word-transformations-cae'
+canonical: 'https://linguafly.app/blog/examenes/key-word-transformations-cae'
 ---
 
 La **Parte 4 del Use of English** es, junto con el Gapped Text del Reading, la que más diferencia marca entre un Grade B y un Grade A en el CAE. Seis transformaciones, cada una con un valor de hasta 2 puntos. Si las dominas, puedes sumar hasta 12 puntos en esta sola parte.

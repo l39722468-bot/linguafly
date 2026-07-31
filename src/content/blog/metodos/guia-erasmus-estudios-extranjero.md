@@ -23,7 +23,7 @@ faqs:
   - question: ¿En qué países de la UE puedo hacer Erasmus en inglés sin que sea el idioma oficial?
     answer: >-
       Muchas universidades de Países Bajos, Suecia, Finlandia, Dinamarca y Alemania ofrecen programas completos en inglés, incluso siendo su idioma oficial diferente. Países Bajos en particular es conocido por tener casi toda su oferta de posgrado en inglés y un nivel de inglés de la población altísimo.
-canonical: 'https://www.focus-on-english.com/blog/metodos/guia-erasmus-estudios-extranjero'
+canonical: 'https://linguafly.app/blog/metodos/guia-erasmus-estudios-extranjero'
 ---
 
 ## Guía Erasmus: El Inglés que Necesitas para Triunfar en el Extranjero

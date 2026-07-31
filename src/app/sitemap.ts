@@ -18,7 +18,9 @@ import { premiumCourseServerService } from "@/lib/services/premium-course-servic
 import { VOCAB_SECTORS } from "@/lib/vocabulario/sectors";
 import { INDEXABLE_COURSE_LANDING_PATHS } from "@/lib/course-indexing";
 
-const baseUrl = "https://www.focus-on-english.com";
+import { getSiteUrl } from "@/lib/site-brand";
+
+const baseUrl = getSiteUrl();
 
 const SITE_LAUNCH_DATE = new Date("2024-09-01");
 const LEGAL_DATE = new Date("2024-09-01");

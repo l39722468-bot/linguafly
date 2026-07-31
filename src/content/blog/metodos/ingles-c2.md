@@ -12,7 +12,7 @@ readTime: 9 min
 keywords:
   - 'Nivel C2 de Inglés: Qué Es, Cuánto'
   - 'nivel c2 ingles que es'
-canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-c2'
+canonical: 'https://linguafly.app/blog/metodos/ingles-c2'
 related_routes:
   - ingles-c1
   - trucos-writing-c1-advanced

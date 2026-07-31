@@ -17,7 +17,7 @@ date: '2026-03-06'
 updatedDate: '2026-03-10'
 alt: 'Profesionales en reunión usando phrasal verbs de negocios en inglés'
 category: gramatica
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-trabajo'
+canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-trabajo'
 faqs:
   - question: '¿Por Qué los Phrasal Verbs son Tan Importantes en el Trabajo?'
     answer: 'En inglés formal escrito (documentos legales, contratos, informes académicos), los nativos pueden preferir verbos formales: investigate en lugar de look into, postpone en lugar de put off. Sin embargo, en el inglés hablado de la oficina —reuniones, llamadas, conversaciones informales entre colegas—...'
@@ -214,7 +214,7 @@ Técnicamente sí, pero sonarás rígido y artificial, especialmente en conversa
 
 Los **phrasal verbs de trabajo** son una inversión con retorno garantizado. Dominar los 60 de esta lista te permitirá desenvolverte con seguridad en reuniones, escribir emails más naturales y ganar confianza en negociaciones. La clave está en practicarlos en contexto real: el siguiente email que escribas en inglés, intenta incluir al menos uno de los que has aprendido hoy.
 
-En **Focus English**, combinamos gramática con uso profesional real. Explora nuestras otras guías de phrasal verbs para seguir construyendo tu vocabulario laboral en inglés.
+En **Linguafly**, combinamos gramática con uso profesional real. Explora nuestras otras guías de phrasal verbs para seguir construyendo tu vocabulario laboral en inglés.
 
 ## Fuentes
 

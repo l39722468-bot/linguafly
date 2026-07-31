@@ -25,7 +25,7 @@ faqs:
   - question: '¿� Lista de Ejemplos para Práctica (Versión Imprimible)?'
     answer: 'Aquí tienes 15 frases de nivel C1 para tu colección:'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/voz-pasiva-avanzada-guia'
+canonical: 'https://linguafly.app/blog/gramatica/voz-pasiva-avanzada-guia'
 ---
 
 Si ya dominas la pasiva básica (*The cake was eaten*), es hora de dar el salto al nivel **Advanced (C1)**. En este nivel, la voz pasiva no solo sirve para cambiar el sujeto, sino para sonar diplomático, objetivo y académicamente sofisticado.

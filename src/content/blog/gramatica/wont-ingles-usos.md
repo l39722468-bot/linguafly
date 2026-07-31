@@ -26,7 +26,7 @@ faqs:
   - question: ¿Cuál es la diferencia entre won't y wouldn't?
     answer: >-
       Won't es la negación de will (futuro, negativas presentes). Wouldn't es la negación de would (condicional, pasado reportado, cortesía). "She won't come" = no vendrá (futuro). "She wouldn't come" = no vendría (condicional) / no quiso venir (pasado).
-canonical: 'https://www.focus-on-english.com/blog/gramatica/wont-ingles-usos'
+canonical: 'https://linguafly.app/blog/gramatica/wont-ingles-usos'
 ---
 
 *Won't* es una de las palabras más cortas del inglés y una de las más útiles. Es la contracción de *will not*, y aparece constantemente: en rechazos, en predicciones negativas, en promesas de no hacer algo, y hasta para describir objetos que no funcionan.

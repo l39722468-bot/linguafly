@@ -23,7 +23,7 @@ faqs:
   - question: ¿El examinador tiene en cuenta si estoy de acuerdo o no con la afirmación del tema?
     answer: >-
       No. No te evalúan por tu posición sino por cómo la argumentas. Puedes defender cualquier postura siempre que sea coherente, esté bien desarrollada y la mantengas de forma consistente a lo largo del ensayo.
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-writing-task-2-essay'
+canonical: 'https://linguafly.app/blog/examenes/ielts-writing-task-2-essay'
 ---
 
 El Task 2 del IELTS Writing Academic pide un ensayo de al menos 250 palabras sobre un tema de actualidad. Vale el doble que el Task 1, así que si solo tienes 40 minutos para preparar el Writing, ponlos aquí.

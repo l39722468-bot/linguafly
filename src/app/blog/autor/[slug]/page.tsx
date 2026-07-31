@@ -8,6 +8,7 @@ import { Metadata } from "next";
 import { Twitter, BookOpen, Award, CheckCircle } from "lucide-react";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
+import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 
 export async function generateStaticParams() {
   return Object.keys(authors).map(slug => ({
@@ -23,19 +24,19 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   const ogImage = author.image?.startsWith("http")
     ? author.image
-    : `https://www.focus-on-english.com${author.image || "/blog/og-image.jpg"}`;
+    : getAbsoluteUrl(author.image || "/blog/og-image.jpg");
 
   return {
-    title: `${author.name} | Experto en Inglés - Focus English`,
+    title: `${author.name} | Experto en Inglés - ${SITE_BRAND_NAME}`,
     description: author.bio,
     alternates: {
-      canonical: `https://www.focus-on-english.com/blog/autor/${slug}`,
+      canonical: getAbsoluteUrl(`/blog/autor/${slug}`),
     },
     openGraph: {
       title: `${author.name} | Experto en Inglés`,
       description: author.bio,
       type: "profile",
-      url: `https://www.focus-on-english.com/blog/autor/${slug}`,
+      url: getAbsoluteUrl(`/blog/autor/${slug}`),
       images: [{ url: ogImage, width: 1200, height: 630, alt: author.name }],
     },
     twitter: {
@@ -56,9 +57,9 @@ export default async function AuthorPage({ params }: { params: Promise<{ slug: s
   const articles = getArticlesByAuthor(slug);
 
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: "Inicio", url: "https://www.focus-on-english.com" },
-    { name: "Blog", url: "https://www.focus-on-english.com/blog" },
-    { name: "Autores", url: "https://www.focus-on-english.com/blog/autores" },
+    { name: "Inicio", url: getSiteUrl() },
+    { name: "Blog", url: getAbsoluteUrl("/blog") },
+    { name: "Autores", url: getAbsoluteUrl("/blog/autores") },
     { name: author.name },
   ]);
 

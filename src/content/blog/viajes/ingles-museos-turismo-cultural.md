@@ -12,7 +12,7 @@ alt: Viajera contemplando una obra de arte en un museo internacional
 keywords:
   - 'Inglés para Museos y Turismo Cultural'
   - 'ingles para museos'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-museos-turismo-cultural'
+canonical: 'https://linguafly.app/blog/viajes/ingles-museos-turismo-cultural'
 faqs:
   - question: ¿Cómo compro entradas para un museo en inglés?
     answer: >-

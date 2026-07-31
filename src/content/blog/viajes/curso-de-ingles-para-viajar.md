@@ -32,7 +32,7 @@ faqs:
       A diferencia del inglés general, un curso para viajar se centra en el
       vocabulario y las situaciones que realmente enfrentarás, ahorrándote
       tiempo y dándote confianza inmediata.
-canonical: 'https://www.focus-on-english.com/blog/viajes/curso-de-ingles-para-viajar'
+canonical: 'https://linguafly.app/blog/viajes/curso-de-ingles-para-viajar'
 ---
 
 ## Prepárate para el viaje de tu vida en 2026

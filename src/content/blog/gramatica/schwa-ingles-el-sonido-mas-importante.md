@@ -26,7 +26,7 @@ faqs:
   - question: ¿Tengo que usar el schwa para que me entiendan?
     answer: >-
       No es imprescindible para ser comprendido, pero sí marca la diferencia entre un inglés que suena fluido y uno que suena forzado. Los nativos que hablan lenguas con schwa lo procesan de forma automática; si pronuncias todas las vocales de forma clara, el oyente tiene que hacer un esfuerzo extra para seguirte.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/schwa-ingles-el-sonido-mas-importante'
+canonical: 'https://linguafly.app/blog/gramatica/schwa-ingles-el-sonido-mas-importante'
 ---
 
 Hay un momento en el aprendizaje del inglés en el que algo hace clic. De repente, entiendes por qué los nativos no dicen "to-DAY" sino "tə-DAY", por qué "banana" tiene tres sílabas pero solo una suena de verdad, y por qué llevas años escuchando mal la mitad de las palabras que creías conocer. Ese momento suele pasar cuando alguien te explica bien el schwa.

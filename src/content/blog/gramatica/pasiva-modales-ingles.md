@@ -36,7 +36,7 @@ faqs:
       be fixed" o "It can be done" son perfectamente naturales en conversación.
       "Must be done" tiene un tono más imperativo y suele reservarse para
       contextos formales o instrucciones escritas.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pasiva-modales-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/pasiva-modales-ingles'
 ---
 
 Si alguna vez has leído las instrucciones de un medicamento, un manual técnico o la política de empresa de alguna organización en inglés, habrás visto frases como *"this must be taken with food"*, *"the form should be submitted before the deadline"* o *"these results can be improved"*. Los modales en pasiva son absolutamente esenciales en inglés formal, y también aparecen constantemente en exámenes como Cambridge B2 y C1.

@@ -23,7 +23,7 @@ faqs:
   - question: ¿Las letras mudas afectan al significado?
     answer: >-
       Generalmente no, porque son mudas: no se pronuncian y por tanto no crean confusión oral. Donde sí importan es en la escritura: omitir una letra muda crea una falta de ortografía. También hay que conocerlas para leer en voz alta sin errar la pronunciación de palabras desconocidas.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/letras-mudas-ingles-guia-completa'
+canonical: 'https://linguafly.app/blog/gramatica/letras-mudas-ingles-guia-completa'
 ---
 
 Hay algo profundamente frustrante en el inglés escrito: la relación entre cómo se escribe y cómo se pronuncia tiene demasiadas excepciones. Y muchas de esas excepciones son letras que están ahí, visibles, pero que no se pronuncian en absoluto.

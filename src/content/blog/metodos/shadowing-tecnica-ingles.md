@@ -25,7 +25,7 @@ faqs:
     answer: 'Eso depende del modelo que hayas elegido como referencia. Lo importante es ser consistente: si mezclas constantemente entre hablantes americanos y británicos, los patrones de ritmo, entonación y pronunciación que adquieres pueden contradecirse entre sí. Elige el acento con el que más contacto vas a tener en tu contexto real (trabajo, viajes, estudios) y trabaja principalmente con ese, aunque escuchar el otro también es valioso para el oído.'
   - question: '¿Puedo hacer shadowing con canciones en inglés?'
     answer: 'Las canciones son útiles pero tienen limitaciones importantes. El ritmo de la música distorsiona el ritmo natural del habla inglesa, que es lo que más necesitas interiorizar. Una canción puede tener sílabas estiradas o comprimidas por razones musicales que no tienen nada que ver con cómo funciona el inglés hablado. Para trabajar pronunciación y ritmo, los podcasts, discursos y conversaciones auténticas son mejores materiales. Las canciones están bien como complemento o para motivarte, no como técnica principal.'
-canonical: 'https://www.focus-on-english.com/blog/metodos/shadowing-tecnica-ingles'
+canonical: 'https://linguafly.app/blog/metodos/shadowing-tecnica-ingles'
 ---
 
 Hay una razón por la que los mejores poliglotas del mundo —los que de verdad consiguen sonar naturales en varios idiomas— casi todos mencionan el shadowing como una de sus herramientas clave. No es una técnica nueva ni revolucionaria: la desarrollaron los intérpretes profesionales en los años 70, y desde entonces la investigación en adquisición de lenguas ha ido confirmando por qué funciona tan bien.

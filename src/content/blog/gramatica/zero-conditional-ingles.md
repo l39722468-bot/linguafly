@@ -35,7 +35,7 @@ faqs:
       it"), recetas ("If the dough is too sticky, add more flour") y hábitos
       personales ("If I skip breakfast, I can't concentrate"). Lo usas más de lo
       que crees.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/zero-conditional-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/zero-conditional-ingles'
 ---
 
 Hay una frase que aparece en todos los libros de gramática inglesa cuando explican el condicional cero: *"If you heat water to 100 degrees, it boils."* Perfecta para ilustrar el concepto, y también perfecta para que te quedes pensando que este condicional solo sirve para hablar de física.

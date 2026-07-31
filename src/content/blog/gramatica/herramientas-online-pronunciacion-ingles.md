@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cuánto tiempo al día debo practicar pronunciación con estas herramientas?
     answer: >-
       15-20 minutos de práctica activa y concentrada son más efectivos que 60 minutos de práctica dispersa. La pronunciación es una habilidad motora que mejora con la repetición espaciada y el descanso entre sesiones. Más de 30-40 minutos seguidos de práctica intensiva produce rendimientos decrecientes.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/herramientas-online-pronunciacion-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/herramientas-online-pronunciacion-ingles'
 ---
 
 Cuando empecé a estudiar inglés, las opciones para trabajar la pronunciación en solitario eran limitadas: un casete con ejercicios, un diccionario con transcripción fonética y la esperanza de que alguien te corrigiera en clase. En 2026, el panorama es completamente diferente.

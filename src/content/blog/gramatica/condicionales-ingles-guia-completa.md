@@ -27,7 +27,7 @@ faqs:
   - question: '¿Por qué se dice "If I were" y no "If I was"?'
     answer: 'En el lenguaje formal y en exámenes Cambridge, se utiliza "were" para todas las personas en el Second Conditional (If he were, If she were). Indica que es una situación puramente hipotética.'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/condicionales-ingles-guia-completa'
+canonical: 'https://linguafly.app/blog/gramatica/condicionales-ingles-guia-completa'
 ---
 
 Los **condicionales en inglés** son estructuras gramaticales que usamos para hablar de situaciones reales o imaginarias y sus consecuencias. Representan entre el 10 y el 15% de los puntos en los exámenes Cambridge B1, B2 First y C1 Advanced, y su dominio marca la diferencia entre un estudiante intermedio y uno avanzado.

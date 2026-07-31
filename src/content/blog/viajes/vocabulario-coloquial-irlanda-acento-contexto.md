@@ -21,7 +21,7 @@ faqs:
     answer: 'No. En Irlanda *craic* (pronunciado a menudo como /kræk/) significa diversión, ambiente, buena compañía o “el rollo” de la noche. No tiene relación con *crack* “grieta” o droga. Ortográficamente verás *craic* (gaélico moderno influido) en contextos irlandeses.'
   - question: '¿Debo tutear en inglés a la gente en hostels?'
     answer: 'El inglés no distingue tú/usted con pronombres, pero el registro sí cambia. En hostels y turismo suele predominar el tono informal. En trámites formales, usa formulaciones estándar (*Could you…*, *I would like…*).'
-canonical: 'https://www.focus-on-english.com/blog/viajes/vocabulario-coloquial-irlanda-acento-contexto'
+canonical: 'https://linguafly.app/blog/viajes/vocabulario-coloquial-irlanda-acento-contexto'
 ---
 
 Has estudiado *airport*, *ticket* y *booking*, pero en Galway alguien te dice que el sitio está *grand* y no sabes si es bueno o enorme. En Cork te ofrecen *a cup of tae* y piensas en té con extra de letras. El **acento** te llega a los oídos, pero el **léxico y la pragmática** son los que convierten el sonido en significado. Esta guía conecta ambas cosas para el viajero hispanohablante que quiere **oir menos “ruido” y más mensaje**.

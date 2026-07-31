@@ -26,7 +26,7 @@ faqs:
   - question: 'Cómo Distinguirlos?'
     answer: 'Busca marcadores temporales para identificar el tipo:'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/condicionales-ingles-mixtos-avanzados'
+canonical: 'https://linguafly.app/blog/gramatica/condicionales-ingles-mixtos-avanzados'
 ---
 
 Si ya dominas el **Zero, First, Second y Third Conditional**, el siguiente paso es entender los **Mixed Conditionals** — estructuras que mezclan tiempos de diferentes condicionales para expresar relaciones más complejas entre el pasado y el presente. Son indispensables en el examen **Cambridge C1 Advanced** y en cualquier comunicación escrita sofisticada.

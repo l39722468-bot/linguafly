@@ -16,7 +16,7 @@ excerpt: >-
 keywords:
   - 'Certificados de Inglés'
   - 'mejores certificados de inglés 2026'
-canonical: 'https://www.focus-on-english.com/blog/examenes/mejores-certificados-ingles-2026'
+canonical: 'https://linguafly.app/blog/examenes/mejores-certificados-ingles-2026'
 related_routes:
   - cambridge-c1-advanced-guia
   - ielts-vs-toefl-diferencias-cual-elegir
@@ -91,9 +91,9 @@ Para no equivocarte, hazte estas tres preguntas antes de pagar las tasas:
 
 ---
 
-## Prepárate para el Éxito con Focus English
+## Prepárate para el Éxito con Linguafly
 
-En **Focus English**, no solo te enseñamos inglés; te entrenamos para vencer al examen. Nuestra plataforma incluye:
+En **Linguafly**, no solo te enseñamos inglés; te entrenamos para vencer al examen. Nuestra plataforma incluye:
 
 - **Simuladores de Examen 2026:** Practica con interfaces idénticas a las de los exámenes reales de Cambridge y TOEFL.
 - **Estrategias de "Test-Taking":** Aprende los trucos específicos de cada sección (Listening, Reading, Writing, Speaking) para maximizar tu puntuación.

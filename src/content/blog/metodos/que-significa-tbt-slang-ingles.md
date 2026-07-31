@@ -41,7 +41,7 @@ faqs:
       No es lo habitual. Para los miércoles se suele usar el hashtag
       #WayBackWednesday o simplemente esperar al jueves para seguir la tradición
       del #TBT.
-canonical: 'https://www.focus-on-english.com/blog/metodos/que-significa-tbt-slang-ingles'
+canonical: 'https://linguafly.app/blog/metodos/que-significa-tbt-slang-ingles'
 ---
 
 ## ¿Qué significa TBT? Guía Completa de Slang, Acrónimos y Redes Sociales

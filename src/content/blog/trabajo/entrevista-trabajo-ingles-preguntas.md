@@ -32,7 +32,7 @@ faqs:
       No. Hablar a un ritmo controlado y articular bien las palabras transmite
       mucho más profesionalismo que hablar rápido y cometer errores. Los
       reclutadores valoran la claridad y la seguridad, no la velocidad.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/entrevista-trabajo-ingles-preguntas'
+canonical: 'https://linguafly.app/blog/trabajo/entrevista-trabajo-ingles-preguntas'
 ---
 
 ## Prepara tu Entrevista de Trabajo en Inglés como un Profesional
@@ -190,7 +190,7 @@ Una entrevista es bidireccional. Siempre prepara 3-5 preguntas:
 
 ## 🎓 Practica tu Entrevista con Nativos
 
-El conocimiento no es suficiente: necesitas práctica real. En **Focus English** realizamos **simulacros de entrevista en inglés** con feedback personalizado por formadores con experiencia en RRHH internacional.
+El conocimiento no es suficiente: necesitas práctica real. En **Linguafly** realizamos **simulacros de entrevista en inglés** con feedback personalizado por formadores con experiencia en RRHH internacional.
 
 [**👉 Reserva tu simulacro de entrevista y llega con confianza al día clave**](/cuenta/registro?plan=work)
 

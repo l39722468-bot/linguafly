@@ -23,7 +23,7 @@ faqs:
   - question: ¿Hay algún truco para memorizar los verbos irregulares?
     answer: >-
       Los patrones de cambio vocálico son el truco más útil. Muchos verbos siguen el mismo patrón (ring/rang/rung, sing/sang/sung, swim/swam/swum). Aprenderlos en grupos por patrón es mucho más eficiente que memorizarlos en una lista alfabética.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/past-simple-verbos-irregulares'
+canonical: 'https://linguafly.app/blog/gramatica/past-simple-verbos-irregulares'
 ---
 
 Los verbos irregulares son uno de esos aspectos del inglés que no tienen atajo fácil: hay que aprenderlos. No siguen ninguna regla de formación como los verbos regulares, y cada uno tiene su propia forma en pasado y en participio.

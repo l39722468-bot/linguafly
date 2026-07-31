@@ -10,7 +10,7 @@ description: >-
 category: trabajo
 alt: Candidato respondiendo preguntas difíciles en una entrevista de trabajo en inglés
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/preguntas-dificiles-entrevista-trabajo-ingles
+  https://linguafly.app/blog/trabajo/preguntas-dificiles-entrevista-trabajo-ingles
 readTime: 6 min
 keywords:
   - 'preguntas difíciles entrevista trabajo inglés respuestas'
@@ -42,7 +42,7 @@ excerpt: >
 
 Existe un conjunto de preguntas que aparecen casi en toda **entrevista de trabajo en inglés** y que generan pavor porque no tienen una respuesta "correcta" única. Son las preguntas trampa, las preguntas de reflexión profunda y las que evalúan tu capacidad de autoconocimiento y comunicación.
 
-La clave no está en memorizar respuestas, sino en entender qué busca el entrevistador con cada pregunta y construir una respuesta auténtica y estratégica. En **Focus English**, entrenamos a nuestros alumnos con simulacros reales para que estas preguntas dejen de ser amenazas y se conviertan en oportunidades.
+La clave no está en memorizar respuestas, sino en entender qué busca el entrevistador con cada pregunta y construir una respuesta auténtica y estratégica. En **Linguafly**, entrenamos a nuestros alumnos con simulacros reales para que estas preguntas dejen de ser amenazas y se conviertan en oportunidades.
 
 ---
 

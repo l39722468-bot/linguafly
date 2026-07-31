@@ -40,7 +40,7 @@ faqs:
       and market rates, I was hoping for something closer to [cifra]. Is
       there flexibility there?" La mayoría de las empresas esperan una
       negociación y reservan margen para ella.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/negociar-salario-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/negociar-salario-ingles'
 ---
 
 La mayoría de los candidatos no negocian. Aceptan la primera oferta porque no saben cómo plantear la conversación sin incomodar o arriesgar la oferta. En realidad, las empresas esperan que haya negociación y suelen dejar margen para ella.

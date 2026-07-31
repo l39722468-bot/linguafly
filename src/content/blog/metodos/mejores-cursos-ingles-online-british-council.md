@@ -21,7 +21,7 @@ faqs:
   - question: '¿Dónde me inscribo al examen IELTS?'
     answer: >-
       En la web oficial del British Council o del proveedor autorizado en tu país, eligiendo fecha, modalidad y centro. Verifica requisitos de documentación con antelación.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-online-british-council'
+canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-british-council'
 ---
 
 # British Council 2026: cursos online e IELTS
@@ -110,7 +110,7 @@ Paga el curso si necesitas **estructura externa** y **feedback humano** y sabes 
 
 ### Comparación rápida con otras rutas del hub
 
-- [Blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): guías en español y hubs temáticos como capa editorial junto a tu curso o tutor; no compite con el British Council como proveedor de exámenes.
+- [Blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): guías en español y hubs temáticos como capa editorial junto a tu curso o tutor; no compite con el British Council como proveedor de exámenes.
 - [Coursera](/blog/metodos/mejores-cursos-ingles-online-coursera-examenes): academic English y cursos tipo MOOC si tu IELTS es Academic y vienes del mundo universitario.
 - [Babbel](/blog/metodos/mejores-cursos-ingles-online-babbel): capa de vocabulario y hábito diario, no sustituto de simulacros IELTS.
 

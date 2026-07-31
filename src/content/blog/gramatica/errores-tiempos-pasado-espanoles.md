@@ -23,7 +23,7 @@ faqs:
   - question: ¿Hay alguna forma rápida de saber cuándo usar present perfect?
     answer: >-
       La pregunta más útil es: ¿tiene esto relevancia para el momento presente? Si la respuesta es sí, o si el tiempo no está cerrado (hoy, esta semana, en mi vida), usa present perfect. Si el momento está cerrado (ayer, el año pasado, cuando era niño), usa past simple.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/errores-tiempos-pasado-espanoles'
+canonical: 'https://linguafly.app/blog/gramatica/errores-tiempos-pasado-espanoles'
 ---
 
 La mayoría de los errores que cometen los hablantes de español con los tiempos de pasado del inglés no vienen de la falta de estudio — vienen de las diferencias estructurales entre los dos idiomas. El español y el inglés organizan el tiempo de forma distinta, y lo que funciona en español a veces es exactamente lo contrario de lo que el inglés necesita.

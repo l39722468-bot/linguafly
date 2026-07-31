@@ -23,7 +23,7 @@ faqs:
   - question: ¿Los escoceses entienden el inglés estándar sin problema?
     answer: >-
       Sí, totalmente. Los escoceses son plenamente bilingües en su variedad y en el inglés estándar. En contextos formales o con interlocutores externos, muchos escoceses moderan su acento de forma natural. La cuestión es más unilateral: los hablantes de inglés estándar que no están expuestos al escocés pueden tener dificultades, especialmente con el Scots o con el Glaswegian más marcado.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ingles-escoces-como-entenderlo'
+canonical: 'https://linguafly.app/blog/gramatica/ingles-escoces-como-entenderlo'
 ---
 
 Ewan McGregor, David Tennant, James McAvoy, Gerard Butler: todos escoceses, todos actores en producciones internacionales, y todos capaces de alternar entre su acento escocés nativo y variantes más neutras. Cuando hablan en modo nativo, hay algo diferente que va más allá del vocabulario: la música del idioma cambia.

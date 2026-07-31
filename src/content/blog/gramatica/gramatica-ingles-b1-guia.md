@@ -12,7 +12,7 @@ readTime: 6 min
 keywords:
   - 'Gramática Inglés B1'
   - 'clases de gramatica en ingles gratis'
-canonical: 'https://www.focus-on-english.com/blog/gramatica/gramatica-ingles-b1-guia'
+canonical: 'https://linguafly.app/blog/gramatica/gramatica-ingles-b1-guia'
 related_routes:
   - cursos-online-ingles-b1
   - ingles-b1
@@ -138,12 +138,12 @@ Además, se espera que empieces a dominar los **[Phrasal Verbs](/blog/gramatica/
 
 La **gramática inglesa** es el esqueleto de tu comunicación. Sin embargo, saber la regla no es lo mismo que saber usarla bajo presión en una conversación real o en un examen oficial.
 
-En **Focus English**, hemos desarrollado una metodología única para que domines estos temas:
+En **Linguafly**, hemos desarrollado una metodología única para que domines estos temas:
 1.  **IA Tutor de Gramática**: Practica escribiendo y recibe feedback instantáneo sobre tus tiempos verbales.
 2.  **Simulacros de Examen B1**: Pon a prueba tus conocimientos con ejercicios reales de Reading y Use of English.
 3.  **Clases de Conversación Enfocadas**: Oblígate a usar el *Second Conditional* o la *Voz Pasiva* en situaciones de rol en vivo.
 
-[**¿Estás listo para dar el salto al nivel B2? Empieza hoy mismo tu curso de inglés B1 con Focus English.**](/cuenta/registro)
+[**¿Estás listo para dar el salto al nivel B2? Empieza hoy mismo tu curso de inglés B1 con Linguafly.**](/cuenta/registro)
 
 ## Fuentes
 

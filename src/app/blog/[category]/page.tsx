@@ -8,6 +8,7 @@ import { getArticlesByCategory, getBlogArticles, normalizeCategory } from "@/lib
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
+import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 
 export async function generateStaticParams() {
   const articles = getBlogArticles();
@@ -85,11 +86,11 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   }
 
   return {
-    title: `${optimizeSEOTitle(meta.name)} | Blog Focus English`,
+    title: `${optimizeSEOTitle(meta.name)} | Blog ${SITE_BRAND_NAME}`,
     description: meta.description,
     keywords: category === 'trabajo' ? ['inglés profesional', 'inglés trabajo', 'business english'] : category === 'viajes' ? ['inglés viajes', 'inglés turismo'] : category === 'examenes' ? ['exámenes inglés', 'Cambridge', 'IELTS', 'TOEFL'] : undefined,
     alternates: {
-      canonical: `https://www.focus-on-english.com/blog/${category}`,
+      canonical: getAbsoluteUrl(`/blog/${category}`),
     },
   };
 }
@@ -113,8 +114,8 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
   }
 
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: "Inicio", url: "https://www.focus-on-english.com" },
-    { name: "Blog", url: "https://www.focus-on-english.com/blog" },
+    { name: "Inicio", url: getSiteUrl() },
+    { name: "Blog", url: getAbsoluteUrl("/blog") },
     { name: meta.name },
   ]);
 

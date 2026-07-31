@@ -37,7 +37,7 @@ faqs:
       las mismas reglas gramaticales, pero "if only" tiene más carga emocional.
       En un examen, puedes usarlos como equivalentes en ejercicios de
       transformación.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/wish-if-only-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/wish-if-only-ingles'
 ---
 
 Hay tres preguntas que los estudiantes de inglés de nivel B1 en adelante se hacen sobre "wish": ¿por qué va seguido de tiempos pasados si hablo del presente?, ¿cuándo uso "would"?, ¿y cuándo uso el past perfect? Son preguntas completamente razonables, y tienen respuestas claras.

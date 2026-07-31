@@ -29,7 +29,7 @@ faqs:
     answer: 'Applicant Tracking Systems: software que filtra CVs antes de que un humano los vea. Rechazan formatos complejos, columnas en dos bloques, gráficos, foto, y falta de keywords concretas. Para superar ATS: formato plano en una columna, PDF exportado de Word/Google Docs (no imagen), keywords literales del job posting, nombres de sección estándar (Experience, Education, Skills).'
   - question: '¿Cómo describo logros técnicos sin revelar información confidencial?'
     answer: 'Usa métricas sintéticas en lugar de datos reales. En lugar de "reduje los costes de AWS un 30 % (de 120.000 $ a 84.000 $)" puedes escribir "Reduced AWS costs by 30 % through reserved instance optimization and rightsizing". Los reclutadores entienden que los porcentajes existen, y evitas problemas de NDA.'
-canonical: 'https://www.focus-on-english.com/blog/trabajo/cv-ingles-tecnologia-it'
+canonical: 'https://linguafly.app/blog/trabajo/cv-ingles-tecnologia-it'
 ---
 
 Un CV técnico en inglés que gusta en Londres, Berlín, Dublín o Amsterdam **no es la traducción literal** del que entregaste en Madrid o Buenos Aires. Cambia el orden de la información, el tipo de logros que resalta, el lenguaje ("verbos de acción"), la forma de medir impacto, y hasta detalles como la foto o la fecha de nacimiento.

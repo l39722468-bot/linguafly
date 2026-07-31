@@ -39,7 +39,7 @@ faqs:
       Usa: 'I am very sorry to hear that. I will look into it immediately and,
       if necessary, I can offer you a room change to a quieter area of the
       hotel.'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-para-recepcionistas-guia'
+canonical: 'https://linguafly.app/blog/viajes/ingles-para-recepcionistas-guia'
 ---
 
 ## Inglés para Recepcionistas: La Guía Definitiva para una Atención de 5 Estrellas

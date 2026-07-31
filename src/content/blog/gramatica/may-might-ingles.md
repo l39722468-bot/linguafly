@@ -26,7 +26,7 @@ faqs:
   - question: ¿Hay diferencia entre might y might well?
     answer: >-
       "Might well" funciona igual que "may well" — añade probabilidad. "He might well call later" (es bastante probable que llame). La diferencia entre "may well" y "might well" es mínima en la práctica; ambos indican una posibilidad con bastante fundamento.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/may-might-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/may-might-ingles'
 ---
 
 De todos los verbos modales en inglés, **may** y **might** son probablemente los más parecidos entre sí. Ambos expresan posibilidad e incertidumbre, y en muchos contextos puedes usar cualquiera de los dos sin que cambie mucho el significado.

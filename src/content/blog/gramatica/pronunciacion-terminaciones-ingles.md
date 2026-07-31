@@ -25,7 +25,7 @@ faqs:
     answer: 'Depende de qué terminación y en qué contexto. Pronunciar la -ed como una sílaba extra cuando no debería serlo (/wɒkt.ɪd/ en vez de /wɒkt/ para "walked") no suele causar confusión de significado, pero sí delata fuertemente el acento extranjero. Más problemático puede ser confundir la -s sorda y sonora en pares como "price" vs "prize" o "race" vs "raise". En cualquier caso, los hablantes nativos compensan bastante bien con el contexto, así que los errores de terminación raramente impiden la comprensión.'
   - question: '¿Las mismas reglas se aplican en inglés americano y en inglés británico?'
     answer: 'Sí, las reglas de pronunciación de -ed y de -s/-es son idénticas en ambas variedades. Las diferencias entre el inglés americano y el británico afectan a otros aspectos (la R, algunas vocales, ciertos préstamos léxicos) pero no a estas terminaciones gramaticales.'
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pronunciacion-terminaciones-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/pronunciacion-terminaciones-ingles'
 ---
 
 Hay un error muy habitual entre quienes aprenden inglés y que suena llamativamente extranjero: pronunciar la terminación -ed del pasado siempre como una sílaba (/ɪd/ o /ed/). Así, "walked" se convierte en "walk-ed" con dos sílabas, "talked" en "talk-ed". Un nativo lo entiende perfectamente, pero el efecto fonético es muy parecido a cuando alguien pronuncia el español con acento muy marcado de otro idioma.

@@ -17,7 +17,7 @@ keywords:
   - 'Aptis General'
   - 'aptis general precio 2026'
 alt: 'Estudiante realizando un examen de inglés por ordenador para el Aptis General'
-canonical: 'https://www.focus-on-english.com/blog/examenes/aptis-general-guia-completa'
+canonical: 'https://linguafly.app/blog/examenes/aptis-general-guia-completa'
 faqs:
   - question: ¿Cuántos niveles certifica el Aptis General?
     answer: >-

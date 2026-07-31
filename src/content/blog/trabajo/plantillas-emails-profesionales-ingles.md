@@ -10,7 +10,7 @@ description: >-
 category: trabajo
 alt: Persona escribiendo un email profesional en inglés en su portátil
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/plantillas-emails-profesionales-ingles
+  https://linguafly.app/blog/trabajo/plantillas-emails-profesionales-ingles
 readTime: 5 min
 keywords:
   - '20 Plantillas de Emails Profesionales'

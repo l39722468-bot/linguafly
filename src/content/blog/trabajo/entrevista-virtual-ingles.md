@@ -38,7 +38,7 @@ faqs:
       cámara suele estar a mejor altura, el audio es mejor y puedes tener
       tus notas abiertas en una segunda ventana o en papel al lado sin que
       se note. El móvil solo como alternativa de emergencia.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/entrevista-virtual-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/entrevista-virtual-ingles'
 ---
 
 Las entrevistas de trabajo en inglés por videollamada ya son la norma en procesos internacionales. Y aunque el contenido de tus respuestas sigue siendo lo principal, hay una capa adicional de factores técnicos y de presentación que pueden marcar la diferencia.

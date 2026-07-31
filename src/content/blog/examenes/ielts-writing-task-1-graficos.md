@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cuánto tiempo debo dedicar al Task 1?
     answer: >-
       20 minutos es el tiempo recomendado, aunque algunos candidatos hacen el Task 2 primero porque vale el doble. Lo importante es no dejarte el Task 1 sin terminar.
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-writing-task-1-graficos'
+canonical: 'https://linguafly.app/blog/examenes/ielts-writing-task-1-graficos'
 ---
 
 El Task 1 del IELTS Writing Academic te pide que describes un gráfico, tabla, mapa o proceso en al menos 150 palabras. Tienes 20 minutos. No es mucho tiempo para leer la pregunta, analizar los datos, estructurar tu respuesta y escribirla con corrección gramatical y vocabulario variado.

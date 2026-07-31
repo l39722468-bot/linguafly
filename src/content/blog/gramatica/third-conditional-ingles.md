@@ -38,7 +38,7 @@ faqs:
       we would have made a terrible mistake") o simplemente reflexión sobre
       cómo algo habría sido diferente sin implicación emocional ("If they had
       built the bridge earlier, the region would have developed faster").
-canonical: 'https://www.focus-on-english.com/blog/gramatica/third-conditional-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/third-conditional-ingles'
 ---
 
 Hay una frase que se escucha mucho en películas y conversaciones en inglés: *"If I had known, I would have done things differently."* Esa frase contiene el tercer condicional en su estado más puro: hablar de algo que no pasó en el pasado y de cómo habría sido diferente si hubiera pasado.

@@ -26,7 +26,7 @@ faqs:
   - question: ¿Se puede usar will para hacer deducciones sobre el presente?
     answer: >-
       Sí, en un uso especial. "That'll be the postman" (escuchas el timbre y deduces quién es) usa will para una deducción sobre el momento presente. En este caso, will expresa una conclusión razonada sobre algo que está ocurriendo ahora, no una predicción estricta del futuro.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/will-probabilidad-certeza-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/will-probabilidad-certeza-ingles'
 ---
 
 Cuando aprendes *will* por primera vez, lo asocias con el futuro. Pero *will* también tiene un papel importante al expresar probabilidad y certeza — incluso sobre situaciones que están ocurriendo en el momento presente.

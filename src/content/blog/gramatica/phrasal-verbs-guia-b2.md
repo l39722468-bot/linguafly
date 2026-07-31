@@ -16,7 +16,7 @@ date: '2026-03-02'
 updatedDate: '2026-03-10'
 alt: 'Lista definitiva de phrasal verbs B2 para el First Certificate FCE'
 category: gramatica
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-guia-b2'
+canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-guia-b2'
 faqs:
   - question: '¿Qué son los Phrasal Verbs y por qué son clave en el B2?'
     answer: 'Un phrasal verb es la combinación de un verbo + una partícula (preposición o adverbio). La clave académica es entender que el significado resultante suele ser idiomático, es decir, no se puede deducir traduciendo las palabras por separado.'

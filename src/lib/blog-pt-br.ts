@@ -46,7 +46,7 @@ export function getBlogArticlesPtBr(): BlogPost[] {
           slug,
           title: data.title || "Sem título",
           date: data.date || new Date().toISOString(),
-          author: data.author || "Focus English",
+          author: data.author || "Linguafly",
           authorData: getAuthor(data.author || "focus-english-team"),
           excerpt: data.excerpt || data.description || "",
           description: data.description || data.excerpt,

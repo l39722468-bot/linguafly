@@ -23,7 +23,7 @@ faqs:
   - question: ¿El inglés indio es difícil de entender para americanos o británicos?
     answer: >-
       Para angloparlantes nativos que no han tenido exposición, las variedades más marcadas del Indian English pueden presentar dificultades. Pero el educated Indian English de los medios y los entornos profesionales es generalmente muy inteligible. Las dificultades suelen venir de la combinación de diferencias rítmicas, entonativas y de algunos fonemas específicos, no de ningún rasgo aislado.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ingles-indio-caracteristicas'
+canonical: 'https://linguafly.app/blog/gramatica/ingles-indio-caracteristicas'
 ---
 
 En el mundo de la tecnología, la atención al cliente internacional, la medicina y la academia, el inglés indio es omnipresente. Las empresas de software, los call centers, los equipos distribuidos globalmente: si trabajas en inglés en cualquier contexto internacional, la probabilidad de que tengas colegas, jefes o clientes que hablen Indian English es muy alta.

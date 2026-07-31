@@ -23,7 +23,7 @@ faqs:
   - question: ¿La /r/ inglesa se puede aprender siendo adulto?
     answer: >-
       Sí, aunque requiere práctica deliberada. El principal obstáculo es que el cerebro adulto tiene muy automatizada la /r/ española (vibrante) y tiende a producirla por defecto. La /r/ inglesa (retrofleja o aproximante) se produce sin vibración y con la lengua curvada hacia atrás, sin tocar el paladar. Muchos adultos la aprenden con práctica consciente en unas semanas o meses.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/consonantes-dificiles-ingles-hispanohablantes'
+canonical: 'https://linguafly.app/blog/gramatica/consonantes-dificiles-ingles-hispanohablantes'
 ---
 
 El inglés y el español comparten la mayor parte de las consonantes: /p/, /b/, /t/, /d/, /k/, /g/, /f/, /s/, /m/, /n/, /l/, /tʃ/... Si eres hispanohablante, ya sabes producir más de la mitad del sistema consonántico del inglés. El problema está en las excepciones: los sonidos que el español no tiene y que el cerebro de un hispanohablante simplemente no ha entrenado nunca.

@@ -40,7 +40,7 @@ faqs:
       puede resultar redundante, pero incluir al menos tu nombre es buena
       práctica. La firma debe tener: nombre completo, cargo, empresa,
       teléfono y, opcionalmente, LinkedIn o web.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/netiqueta-email-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/netiqueta-email-ingles'
 ---
 
 Hay una diferencia entre saber inglés y saber usarlo de forma profesionalmente adecuada. La netiqueta del email es ese territorio donde la gramática correcta no es suficiente: lo que importa es el tono, la estructura y el contexto.

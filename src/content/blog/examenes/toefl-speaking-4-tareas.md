@@ -28,7 +28,7 @@ faqs:
     answer: 'Para las frases de transición sí, y conviene hacerlo. Para el contenido no, porque la IA + evaluador humano detecta respuestas no relacionadas con el prompt y penaliza. Memoriza estructuras, nunca frases completas que te obliguen a forzar el tema.'
   - question: '¿Tomo notas durante las tareas integradas?'
     answer: 'Imprescindible. En Tareas 2, 3 y 4 tienes papel y bolígrafo. Apunta puntos clave en telegrama: 3-4 palabras por idea. Sin notas, es casi imposible reproducir la información con precisión en 60 segundos.'
-canonical: 'https://www.focus-on-english.com/blog/examenes/toefl-speaking-4-tareas'
+canonical: 'https://linguafly.app/blog/examenes/toefl-speaking-4-tareas'
 ---
 
 El TOEFL Speaking es, junto con el Writing, la sección más entrenable del examen. Con 17 minutos, **4 tareas** y plantillas claras para cada una, cualquier candidato con un B2 sólido puede alcanzar un **26/30** si sigue un método. El problema es que muchos estudiantes llegan sin conocer exactamente qué evalúa cada tarea y se quedan atrapados en un 22 que no les abre puertas en universidades competitivas.

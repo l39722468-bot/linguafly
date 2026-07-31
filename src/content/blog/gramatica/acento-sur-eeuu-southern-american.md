@@ -23,7 +23,7 @@ faqs:
   - question: ¿El Country Music habla en inglés sureño?
     answer: >-
       La música country tiene una relación con el Southern English que es parte performance y parte autenticidad. Algunos artistas de country hacen un uso deliberado de rasgos del Southern English como marcador de identidad cultural. Taylor Swift (de Pensilvania) adoptó algunos rasgos sureños en sus primeros años; otros artistas nacidos en el sur hablan naturalmente con esos rasgos. Es un espacio donde la fonología, la identidad y el mercado musical se mezclan de forma compleja.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/acento-sur-eeuu-southern-american'
+canonical: 'https://linguafly.app/blog/gramatica/acento-sur-eeuu-southern-american'
 ---
 
 Matthew McConaughey, Reese Witherspoon, Dolly Parton, Billy Bob Thornton. Si los has escuchado en modo natural (no en papeles que requieren acento neutro), sabes de qué hablo: hay algo en el ritmo, en las vocales y en la música de su habla que los distingue claramente del General American de los noticiarios o las películas de Hollywood de gran presupuesto.

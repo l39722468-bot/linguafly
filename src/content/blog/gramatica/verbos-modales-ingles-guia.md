@@ -24,7 +24,7 @@ faqs:
   - question: '¿En el Pasado (Modales Perfectos)?'
     answer: 'Se forman con Modal + Have + Participio.'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/verbos-modales-ingles-guia'
+canonical: 'https://linguafly.app/blog/gramatica/verbos-modales-ingles-guia'
 ---
 
 Los **verbos modales** son piezas angulares de la fluidez en inglés. A menudo los alumnos dominan el significado básico pero fallan en los matices de cortesía o en las deducciones lógicas.
@@ -130,7 +130,7 @@ Este es el error nº 1. **Mustn't** significa prohibición (*No lo hagas*). **Do
 
 ---
 
-¿Quieres dominar estos matices y sonar como un nativo? En **Focus English** utilizamos tecnología de reconocimiento de voz para ayudarte a pronunciar y usar los modales correctamente. [**Regístrate gratis y empieza ahora.**](/cuenta/registro)
+¿Quieres dominar estos matices y sonar como un nativo? En **Linguafly** utilizamos tecnología de reconocimiento de voz para ayudarte a pronunciar y usar los modales correctamente. [**Regístrate gratis y empieza ahora.**](/cuenta/registro)
 
 ## Fuentes
 

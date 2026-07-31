@@ -32,7 +32,7 @@ faqs:
       No. En el Reino Unido, EE.UU., Canadá y Australia está desaconsejado
       incluir foto, fecha de nacimiento o estado civil para evitar sesgos.
       Hacerlo puede incluso resultar contraproducente.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/cv-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/cv-ingles'
 description: >
   Guía completa para hacer un CV en inglés en 2026: estructura, formato, palabras clave para ATS y errores que debes evitar. Con plantillas y ejemplos reales para diferentes sectores.
 ---
@@ -179,7 +179,7 @@ Technical: [Herramientas relevantes para tu sector]
 
 ## 🎓 Lleva tu Carrera Internacional al Siguiente Nivel
 
-Tu CV en inglés es el primer paso. El siguiente es la entrevista. En **Focus English** te preparamos para ambos con formadores especializados en Business English.
+Tu CV en inglés es el primer paso. El siguiente es la entrevista. En **Linguafly** te preparamos para ambos con formadores especializados en Business English.
 
 [**👉 Descubre nuestro plan de Inglés Profesional y empieza hoy**](/cuenta/registro?plan=work)
 

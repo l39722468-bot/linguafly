@@ -23,7 +23,7 @@ faqs:
   - question: ¿Con qué tipo de libro debo empezar a leer en inglés?
     answer: >-
       Empieza con lecturas graduadas (graded readers) adaptadas a tu nivel. Son versiones simplificadas de clásicos o historias originales escritas con vocabulario controlado. El objetivo es que puedas leer con fluidez sin parar constantemente a buscar palabras. Una buena regla: si en una página hay más de 5 palabras que no conoces, el libro es demasiado difícil para ese momento.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-libros-aprender-ingles'
+canonical: 'https://linguafly.app/blog/metodos/mejores-libros-aprender-ingles'
 ---
 
 ## Los Mejores Libros para Aprender Inglés en 2026

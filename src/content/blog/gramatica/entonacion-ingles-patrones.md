@@ -23,7 +23,7 @@ faqs:
   - question: ¿La entonación incorrecta puede crear malentendidos?
     answer: >-
       Sí, especialmente en cuanto a la actitud percibida. Una afirmación dicha con entonación ascendente puede sonar como una pregunta insegura. Una pregunta dicha con tono plano puede sonar descortés o robótica. En contextos profesionales, una entonación inadecuada puede hacer que pases por arrogante, inseguro o indiferente aunque el contenido de tu mensaje sea correcto.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/entonacion-ingles-patrones'
+canonical: 'https://linguafly.app/blog/gramatica/entonacion-ingles-patrones'
 ---
 
 La entonación es probablemente el aspecto de la pronunciación que menos se enseña y que más impacto tiene en cómo te perciben. Puedes tener un acento perfecto, una gramática impecable, un vocabulario amplio, y aun así sonar extraño, robótico o incluso maleducado si tu melodía al hablar no encaja con los patrones del inglés.

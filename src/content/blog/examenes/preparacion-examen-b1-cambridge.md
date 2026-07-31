@@ -17,7 +17,7 @@ excerpt: >-
 keywords:
   - 'Preparación Examen B1 Inglés'
   - 'examen b1 ingles consejos'
-canonical: 'https://www.focus-on-english.com/blog/examenes/preparacion-examen-b1-cambridge'
+canonical: 'https://linguafly.app/blog/examenes/preparacion-examen-b1-cambridge'
 related_routes:
   - certificaciones-ingles
   - ingles-b1
@@ -78,7 +78,7 @@ Si quieres preparar el examen por tu cuenta, sigue este esquema:
 
 No necesitas comprar libros caros para aprobar. Aquí tienes los mejores **recursos gratis B1 ingles**:
 *   **Cambridge English**: Ofrece actividades online gratuitas en su sección de "Learning English".
-*   **Focus English Blog**: Nuestras guías de **[gramática B1](/blog/gramatica/gramatica-ingles-b1-guia)** y **[vocabulario de trabajo](/blog/trabajo/vocabulario-b1-ingles-trabajo)** están diseñadas para este nivel.
+*   **Linguafly Blog**: Nuestras guías de **[gramática B1](/blog/gramatica/gramatica-ingles-b1-guia)** y **[vocabulario de trabajo](/blog/trabajo/vocabulario-b1-ingles-trabajo)** están diseñadas para este nivel.
 
 ---
 

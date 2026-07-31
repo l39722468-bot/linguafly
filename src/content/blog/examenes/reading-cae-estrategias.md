@@ -19,7 +19,7 @@ faqs:
     answer: "Sí. Especialmente en la Parte 5, las opciones incorrectas suelen contener palabras del texto pero combinadas de manera que no reflejan el significado real del párrafo. Por eso es fundamental releer el contexto antes de elegir."
   - question: "¿Es mejor leer el texto entero o ir directamente a las preguntas?"
     answer: "Depende de la parte. En la Parte 5 conviene hacer una lectura general rápida primero. En la Parte 8 es más eficiente ir directamente a las preguntas y localizar la información. El gapped text (Parte 6) requiere leer el texto base completo antes de mirar los párrafos eliminados."
-canonical: 'https://www.focus-on-english.com/blog/examenes/reading-cae-estrategias'
+canonical: 'https://linguafly.app/blog/examenes/reading-cae-estrategias'
 ---
 
 El **Reading del CAE** cubre las partes 5, 6, 7 y 8 del *Reading and Use of English*. Para cuando llegues a ellas, ya habrás dedicado tiempo al Use of English, así que la gestión de la energía y la atención es tan importante como la técnica. Quien mejor lleva esta parte no es siempre quien lee inglés con más fluidez, sino quien sabe exactamente qué hacer en cada momento.

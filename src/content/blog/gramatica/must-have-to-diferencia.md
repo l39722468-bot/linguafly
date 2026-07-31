@@ -32,7 +32,7 @@ faqs:
   - question: ¿Se usa must igual en inglés británico y americano?
     answer: >-
       Hay diferencias de frecuencia. En inglés americano, "have to" domina claramente en el habla cotidiana y "must" suena más formal o literario. En inglés británico, "must" sigue siendo habitual en registros neutros. Para exámenes Cambridge o IELTS, ambas formas son correctas.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/must-have-to-diferencia'
+canonical: 'https://linguafly.app/blog/gramatica/must-have-to-diferencia'
 ---
 
 Poca gente nota la diferencia entre *must* y *have to* la primera vez que los estudia. Los dos se traducen como "tener que" o "deber" al español, y en muchos casos sí son intercambiables. Pero en otros, la diferencia importa — y en negativo, la diferencia es enorme.

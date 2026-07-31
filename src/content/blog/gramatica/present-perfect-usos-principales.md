@@ -23,7 +23,7 @@ faqs:
   - question: ¿Puedo usar "yesterday" con el present perfect?
     answer: >-
       No. "Yesterday" marca un tiempo pasado cerrado y específico, lo que siempre va con past simple. "I have seen him yesterday" es incorrecto. La forma correcta es "I saw him yesterday". El present perfect necesita un tiempo abierto (today, this week, ever, recently) o ningún marcador de tiempo.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/present-perfect-usos-principales'
+canonical: 'https://linguafly.app/blog/gramatica/present-perfect-usos-principales'
 ---
 
 Si alguna vez has pensado que el present perfect es una regla arbitraria del inglés, la buena noticia es que no lo es. Tiene una lógica clara: conecta el pasado con el presente. La pregunta que siempre debes hacerte es: ¿importa *cuándo* ocurrió esto, o solo importa que ocurrió?

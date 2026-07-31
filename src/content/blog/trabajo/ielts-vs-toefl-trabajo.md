@@ -43,7 +43,7 @@ faqs:
     answer: >-
       Sí, el TOEFL iBT se acortó recientemente a menos de 2 horas. El IELTS
       mantiene su duración tradicional de aproximadamente 2 horas y 45 minutos.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/ielts-vs-toefl-trabajo'
+canonical: 'https://linguafly.app/blog/trabajo/ielts-vs-toefl-trabajo'
 ---
 
 ## IELTS vs TOEFL: La Decisión que Marcará tu Carrera Internacional
@@ -99,12 +99,12 @@ Si eres un directivo, ingeniero o comercial, tu tiempo es oro.
 
 ---
 
-## 6. Estrategia de Preparación con Focus English
+## 6. Estrategia de Preparación con Linguafly
 
-Sea cual sea tu elección, en **Focus English** hemos diseñado una ruta específica para que no pierdas el tiempo:
+Sea cual sea tu elección, en **Linguafly** hemos diseñado una ruta específica para que no pierdas el tiempo:
 2.  **Vocabulario Corporativo**: Te enseñamos el vocabulario que te servirá tanto para aprobar el examen como para destacar en tu primer día de trabajo en el extranjero.
 
-[**👉 ¿IELTS o TOEFL? Deja de dudar y empieza a prepararte con Focus English. Tu carrera global empieza aquí.**](/blog/trabajo/ingles-para-trabajo)
+[**👉 ¿IELTS o TOEFL? Deja de dudar y empieza a prepararte con Linguafly. Tu carrera global empieza aquí.**](/blog/trabajo/ingles-para-trabajo)
 
 ---
 

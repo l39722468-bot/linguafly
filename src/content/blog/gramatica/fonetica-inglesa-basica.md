@@ -25,7 +25,7 @@ faqs:
   - question: '¿Diptongos (Diphthongs)?'
     answer: 'Los diptongos son combinaciones de dos sonidos vocálicos dentro de la misma sílaba. El inglés tiene 8 diptongos.'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/fonetica-inglesa-basica'
+canonical: 'https://linguafly.app/blog/gramatica/fonetica-inglesa-basica'
 ---
 
 La **fonética inglesa** es la ciencia que estudia los sonidos del inglés. Para los hispanohablantes, dominar los conceptos básicos de fonética es una inversión que multiplica la velocidad de aprendizaje: permite leer diccionarios con precisión, entender por qué una palabra suena diferente a como se escribe y desarrollar una pronunciación realmente inteligible.

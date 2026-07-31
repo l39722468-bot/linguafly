@@ -12,7 +12,7 @@ readTime: 5 min
 keywords:
   - 'Curso de Inglés B2: Prepárate'
   - 'curso inglés b2'
-canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-b2'
+canonical: 'https://linguafly.app/blog/metodos/ingles-b2'
 related_routes:
   - ingles-b1
   - ingles-c1

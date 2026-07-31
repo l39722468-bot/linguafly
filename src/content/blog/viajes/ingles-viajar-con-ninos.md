@@ -12,7 +12,7 @@ alt: Familia con niños pequeños en un aeropuerto internacional con maletas
 keywords:
   - 'Inglés para Viajar con Niños'
   - 'ingles viajar con ninos'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-viajar-con-ninos'
+canonical: 'https://linguafly.app/blog/viajes/ingles-viajar-con-ninos'
 faqs:
   - question: ¿Cómo pido un asiento para familias en el avión?
     answer: >-

@@ -23,7 +23,7 @@ faqs:
   - question: ¿Hay phrasal verbs específicos del inglés académico?
     answer: >-
       Sí. La escritura académica usa phrasal verbs como "draw on" (sacar de una fuente), "account for" (explicar), "bear out" (confirmar), "build on" (ampliar), "set out" (exponer) y "bear on" (ser relevante para). Conocerlos mejora tanto la comprensión lectora como la producción escrita.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-c1-avanzados'
+canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-c1-avanzados'
 ---
 
 En B2, los phrasal verbs son sobre todo un reto de vocabulario: ¿sabes lo que significa *give up*, *come across*, *put off*? En C1, el reto es más sutil. Ya no se trata solo de conocer el significado, sino de saber en qué registro encaja cada forma, cuándo un phrasal verb es más preciso que un verbo culto y cuándo es al contrario, y cómo usarlos en estructuras gramaticales más complejas.

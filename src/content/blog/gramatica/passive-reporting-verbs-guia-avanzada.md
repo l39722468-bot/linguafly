@@ -13,7 +13,7 @@ keywords:
   - 'Passive Reporting Verbs: Estructuras'
   - 'passive of reporting verbs'
 canonical: >-
-  https://www.focus-on-english.com/blog/gramatica/passive-reporting-verbs-guia-avanzada
+  https://linguafly.app/blog/gramatica/passive-reporting-verbs-guia-avanzada
 alt: Estructuras avanzadas de verbos de reporte
 faqs:
   - question: '¿Passive Reporting Verbs?'

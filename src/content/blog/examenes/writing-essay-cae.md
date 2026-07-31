@@ -19,7 +19,7 @@ faqs:
     answer: "El essay del CAE es argumentativo, así que sí: debes posicionarte. Pero Cambridge valora que lo hagas con matices. No se trata de ser rotundo; se trata de desarrollar una postura con argumentos bien construidos y de reconocer la complejidad del tema."
   - question: "¿Qué conectores están prohibidos en el essay del CAE?"
     answer: "No hay conectores 'prohibidos', pero usar conectores de nivel B1 o B2 de manera repetitiva baja la puntuación del criterio de vocabulario. Expresiones como 'Firstly...', 'In conclusion...' o 'In my opinion...' son genéricas y señalan un nivel inferior al C1."
-canonical: 'https://www.focus-on-english.com/blog/examenes/writing-essay-cae'
+canonical: 'https://linguafly.app/blog/examenes/writing-essay-cae'
 ---
 
 El **essay del CAE** es el único texto obligatorio del Writing. Siempre es un texto argumentativo sobre un tema de interés general —tecnología, medio ambiente, educación, sociedad— y siempre tienes que elegir dos de los tres puntos que propone el enunciado y discutirlos con criterio.

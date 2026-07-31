@@ -37,7 +37,7 @@ faqs:
       que el destinatario pueda ubicarlo rápidamente. Algo como "Following up
       on my email from Tuesday regarding [tema]" es suficiente. Así evitas
       que piensen que es el primer contacto.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/follow-up-email-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/follow-up-email-ingles'
 ---
 
 Hay una situación que conoce todo profesional que trabaja en inglés: envías un correo importante, pasan los días y no llega respuesta. ¿Vuelves a escribir? ¿Cómo lo haces sin sonar pesado o desesperado? El follow-up email es una habilidad concreta que conviene dominar.

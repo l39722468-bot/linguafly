@@ -25,7 +25,7 @@ faqs:
   - question: '¿Cuánto tiempo lleva dominar la TH?'
     answer: 'La articulación correcta puedes aprenderla en una sesión de práctica consciente de 20-30 minutos. Lo que lleva más tiempo es automatizarla para que salga sola en conversación sin tener que pensar en ella. Eso suele llevar varias semanas de práctica regular, especialmente si llevas años pronunciándola mal.'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/consonantes-th-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/consonantes-th-ingles'
 ---
 
 Hay dos consonantes del inglés que los hispanohablantes pronunciamos mal de forma casi universal. No porque sean difíciles en el sentido técnico —la posición de la lengua es simple— sino porque en español no existen y nunca hemos tenido que producirlas.
@@ -169,7 +169,7 @@ Los diccionarios siempre indican cuál es cuál con la transcripción fonética.
 
 **Shadowing.** Escucha un fragmento de audio nativo —una entrevista, un podcast, un discurso— e intenta repetirlo en voz alta siguiendo al hablante con un retraso de uno o dos segundos. Este método obliga a tu aparato fonatorio a imitar patrones que no produciría de forma espontánea.
 
-Si quieres trabajar estos y otros sonidos difíciles del inglés de forma sistemática, el apartado de fonética de [Focus English](/blog/temas/fonetica-inglesa-basica) reúne guías y recursos para hispanohablantes que quieren mejorar su pronunciación desde la base.
+Si quieres trabajar estos y otros sonidos difíciles del inglés de forma sistemática, el apartado de fonética de [Linguafly](/blog/temas/fonetica-inglesa-basica) reúne guías y recursos para hispanohablantes que quieren mejorar su pronunciación desde la base.
 
 ---
 

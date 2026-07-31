@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cómo aprendo phrasal verbs de forma natural?
     answer: >-
       La forma más efectiva es la exposición en contexto real: series con subtítulos en inglés, podcasts, audiobooks. Cuando escuchas la misma combinación en varias situaciones distintas, el significado y el uso se fijan solos. Los listados ayudan, pero no reemplazan la exposición.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-conversacion-cotidiana'
+canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-conversacion-cotidiana'
 ---
 
 Si miras una serie americana o británica con subtítulos en inglés, verás algo curioso: los personajes raramente dicen *discover*, *tolerate*, *investigate* o *continue*. Dicen *find out*, *put up with*, *look into*, *keep going*. Los phrasal verbs son el vocabulario del inglés hablado real, y evitarlos hace que el inglés suene un poco rígido, un poco de libro de texto.

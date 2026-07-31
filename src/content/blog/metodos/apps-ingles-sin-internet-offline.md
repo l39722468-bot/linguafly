@@ -26,7 +26,7 @@ faqs:
   - question: '¿Es posible aprender inglés bien usando solo apps offline?'
     answer: >-
       Sí, especialmente para vocabulario y listening. Anki es extraordinariamente eficaz para memorizar vocabulario y grammar patterns sin internet. Para el listening, puedes descargar episodios de podcast en inglés (BBC Learning English, podbean, etc.) y escucharlos sin conexión. Donde el modo offline tiene más limitaciones es en el speaking interactivo y en funciones que usan IA en tiempo real (como el reconocimiento de voz de ELSA Speak). Con una combinación de Anki + podcasts descargados + contenido descargado de BBC, puedes tener una rutina offline muy sólida.
-canonical: 'https://www.focus-on-english.com/blog/metodos/apps-ingles-sin-internet-offline'
+canonical: 'https://linguafly.app/blog/metodos/apps-ingles-sin-internet-offline'
 ---
 
 ## Aprender Inglés sin Internet: Más Posible de lo que Crees

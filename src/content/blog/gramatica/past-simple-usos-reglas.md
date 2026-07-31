@@ -23,7 +23,7 @@ faqs:
   - question: ¿"Did" aparece en frases afirmativas?
     answer: >-
       En frases afirmativas normales, no. Pero sí existe un uso enfático: "I DID finish my homework!" (¡Sí que terminé los deberes!) para contradecir o insistir. En ese caso, did sí aparece en afirmativa, y el verbo principal va en infinitivo sin to.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/past-simple-usos-reglas'
+canonical: 'https://linguafly.app/blog/gramatica/past-simple-usos-reglas'
 ---
 
 El Past Simple es el primer tiempo verbal de pasado que se aprende en inglés, y con razón: es el más directo para contar lo que ocurrió. A diferencia del present perfect, que conecta el pasado con el presente, el past simple archiva eventos en un momento concreto del pasado. La acción terminó, y ya.

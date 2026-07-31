@@ -26,7 +26,7 @@ faqs:
   - question: '¿Práctica Oral con IA?'
     answer: 'Una de las barreras más grandes para la fluidez es el miedo a cometer errores delante de otras personas. Las herramientas de IA como ChatGPT o Claude te permiten practicar conversación sin esa presión.'
 
-canonical: 'https://www.focus-on-english.com/blog/metodos/hablar-ingles-con-fluidez'
+canonical: 'https://linguafly.app/blog/metodos/hablar-ingles-con-fluidez'
 ---
 
 Hay una diferencia enorme entre *saber inglés* y *hablar inglés con fluidez*. Muchos estudiantes tienen un nivel B2 certificado pero se quedan en blanco cuando tienen que mantener una conversación real. El problema no es el vocabulario ni la gramática — es la **falta de práctica oral sistemática**.

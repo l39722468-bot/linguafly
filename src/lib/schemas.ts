@@ -5,6 +5,8 @@
  * improving click-through rates and visibility.
  */
 
+import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from './site-brand';
+
 export interface CourseSchemaProps {
   name: string;
   description: string;
@@ -53,8 +55,8 @@ export function generateCourseSchema(props: CourseSchemaProps) {
     "description": props.description,
     "provider": {
       "@type": "Organization",
-      "name": "Focus English",
-      "sameAs": "https://www.focus-on-english.com"
+      "name": SITE_BRAND_NAME,
+      "sameAs": getSiteUrl()
     },
     "offers": {
       "@type": "Offer",
@@ -70,7 +72,7 @@ export function generateCourseSchema(props: CourseSchemaProps) {
       "courseWorkload": "PT12W",
       "instructor": {
         "@type": "Organization",
-        "name": "Focus English"
+        "name": SITE_BRAND_NAME
       }
     },
     "educationalLevel": props.level,
@@ -105,13 +107,13 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
   const authorSchema = props.author ? {
     "@type": "Person",
     "name": props.author.name,
-    "url": `https://www.focus-on-english.com/blog/autor/${props.author.slug}`,
+    "url": getAbsoluteUrl(`/blog/autor/${props.author.slug}`),
     "jobTitle": props.author.role,
     "image": props.author.image
   } : {
     "@type": "Organization",
-    "name": "Focus English",
-    "url": "https://www.focus-on-english.com"
+    "name": SITE_BRAND_NAME,
+    "url": getSiteUrl()
   };
 
   return {
@@ -121,29 +123,29 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
     "description": props.description,
     "image": {
       "@type": "ImageObject",
-      "url": props.image.startsWith('http') ? props.image : `https://www.focus-on-english.com${props.image}`,
+      "url": props.image.startsWith('http') ? props.image : getAbsoluteUrl(props.image),
       "width": 1200,
       "height": 630,
     },
     "author": authorSchema,
     "publisher": {
       "@type": "Organization",
-      "name": "Focus English",
+      "name": SITE_BRAND_NAME,
       "logo": {
         "@type": "ImageObject",
-        "url": "https://www.focus-on-english.com/logo.png"
+        "url": getAbsoluteUrl('/logo.png')
       }
     },
     "datePublished": props.datePublished,
     "dateModified": props.dateModified,
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://www.focus-on-english.com/blog/${props.category}/${props.slug}`
+      "@id": getAbsoluteUrl(`/blog/${props.category}/${props.slug}`)
     },
     "copyrightYear": new Date().getFullYear(),
     "copyrightHolder": {
       "@type": "Organization",
-      "name": "Focus English"
+      "name": SITE_BRAND_NAME
     },
     "wordCount": props.wordCount,
     "articleSection": props.category,
@@ -187,8 +189,8 @@ export function generateCollectionPageSchema(props: {
     "url": props.url,
     "publisher": {
       "@type": "Organization",
-      "name": "Focus English",
-      "url": "https://www.focus-on-english.com"
+      "name": SITE_BRAND_NAME,
+      "url": getSiteUrl()
     },
     "hasPart": props.articles.map((article) => ({
       "@type": "Article",
@@ -241,7 +243,7 @@ export function generateReviewSchema(reviews: Array<{
     "reviewBody": review.text,
     "itemReviewed": {
       "@type": "EducationalOrganization",
-      "name": "Focus English"
+      "name": SITE_BRAND_NAME
     }
   }));
 }
@@ -259,8 +261,8 @@ export function generateAggregateRatingSchema(ratingValue: number, reviewCount: 
     "worstRating": "1",
     "itemReviewed": {
       "@type": "EducationalOrganization",
-      "name": "Focus English",
-      "url": "https://www.focus-on-english.com"
+      "name": SITE_BRAND_NAME,
+      "url": getSiteUrl()
     }
   };
 }

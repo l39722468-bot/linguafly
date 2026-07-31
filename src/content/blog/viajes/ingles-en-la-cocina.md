@@ -23,7 +23,7 @@ faqs:
   - question: ¿Qué diferencia hay entre "bake" y "roast" en inglés?
     answer: >-
       Ambos se refieren a cocinar en el horno, pero "bake" se usa para repostería, pan y pasteles (cosas que cambian de forma durante la cocción), mientras que "roast" se usa para carnes, verduras y aves. "To bake a cake" (hornear un pastel), "to roast a chicken" (asar un pollo).
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-en-la-cocina'
+canonical: 'https://linguafly.app/blog/viajes/ingles-en-la-cocina'
 ---
 
 ## Inglés en la Cocina: Vocabulario Culinario Completo

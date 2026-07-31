@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cuál es la diferencia entre "dating" y "seeing someone" en inglés?
     answer: >-
       "Dating someone" y "seeing someone" significan lo mismo: estás quedando con alguien de forma romántica pero la relación no está formalizada. "We're exclusive" o "we're in a relationship" / "we're boyfriend and girlfriend" indica que es una relación formal. El proceso de pasar de "dating" a "in a relationship" se llama coloquialmente "making it official".
-canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-para-ligar-y-citas'
+canonical: 'https://linguafly.app/blog/metodos/ingles-para-ligar-y-citas'
 ---
 
 ## Inglés para Ligar y Citas: El Vocabulario que Nadie te Enseña

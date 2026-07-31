@@ -24,7 +24,7 @@ faqs:
   - question: '¿Cuándo debo usar ''Whom''?'
     answer: '''Whom'' se usa cuando el pronombre de relativo es el objeto de una preposición en contextos muy formales (The person with whom I was speaking). En el inglés hablado, preferimos poner la preposición al final y usar ''who'' o nada (The person I was speaking with).'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/relative-clauses-guia-definitiva'
+canonical: 'https://linguafly.app/blog/gramatica/relative-clauses-guia-definitiva'
 ---
 
 Las **Relative Clauses** (oraciones de relativo) son fundamentales para unir ideas y dar información adicional sobre personas, cosas o lugares sin tener que empezar una frase nueva. En el nivel académico, su uso correcto es señal de una escritura fluida y madura.
@@ -119,7 +119,7 @@ A veces usamos 'which' después de una coma para comentar todo lo que se ha dich
 
 ---
 
-¿Quieres practicar las oraciones de relativo con ejercicios de 'Sentence Transformation'? En **Focus English** tenemos una sección dedicada a la gramática avanzada para que no falles ni una coma. [**Regístrate gratis ahora.**](/cuenta/registro)
+¿Quieres practicar las oraciones de relativo con ejercicios de 'Sentence Transformation'? En **Linguafly** tenemos una sección dedicada a la gramática avanzada para que no falles ni una coma. [**Regístrate gratis ahora.**](/cuenta/registro)
 
 ## Fuentes
 

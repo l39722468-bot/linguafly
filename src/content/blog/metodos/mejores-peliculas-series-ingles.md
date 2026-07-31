@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cuánto tiempo al día debo ver contenido en inglés para mejorar?
     answer: >-
       Con 30-60 minutos diarios de visionado activo (con paradas, repetición y anotaciones) notarás mejora en pocas semanas. El visionado pasivo de horas sin atención consciente tiene menos impacto. La constancia diaria supera a las maratones ocasionales.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-peliculas-series-ingles'
+canonical: 'https://linguafly.app/blog/metodos/mejores-peliculas-series-ingles'
 ---
 
 ## Películas y Series para Aprender Inglés: La Guía que Necesitas

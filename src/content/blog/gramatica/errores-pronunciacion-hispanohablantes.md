@@ -23,7 +23,7 @@ faqs:
   - question: ¿Debo corregir todos los errores a la vez o uno por uno?
     answer: >-
       Uno por uno, siempre. El sistema fonológico es complejo y tratar de corregirlo todo simultáneamente lleva al bloqueo y a la frustración. La estrategia más efectiva es identificar el error que más afecta a tu comunicación (generalmente el que crea más malentendidos o el que más notas) y trabajarlo específicamente durante unas semanas antes de pasar al siguiente.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/errores-pronunciacion-hispanohablantes'
+canonical: 'https://linguafly.app/blog/gramatica/errores-pronunciacion-hispanohablantes'
 ---
 
 No importa de qué país hispanohablante seas ni cuántos años lleves estudiando inglés: hay ciertos errores de pronunciación que aparecen una y otra vez. No es una cuestión de inteligencia ni de esfuerzo. Es lingüística pura: el español y el inglés tienen sistemas fonológicos suficientemente diferentes como para que la interferencia sea inevitable sin trabajo específico.

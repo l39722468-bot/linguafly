@@ -26,7 +26,7 @@ faqs:
   - question: '¿Se puede exportar el vocabulario de Lingopie a Anki?'
     answer: >-
       Sí. Lingopie permite guardar palabras mientras ves contenido y exportarlas en formato CSV compatible con Anki. El proceso es sencillo: marcar las palabras que no conoces durante el visionado → ir a tu lista de vocabulario guardado → exportar como CSV → importar en Anki. Esto convierte a Lingopie en un generador de mazos personalizados basados en el inglés real que estás consumiendo, que es exactamente el tipo de vocabulario en contexto que mejor se retiene a largo plazo.
-canonical: 'https://www.focus-on-english.com/blog/metodos/lingopie-review-aprender-ingles-series'
+canonical: 'https://linguafly.app/blog/metodos/lingopie-review-aprender-ingles-series'
 ---
 
 ## Lingopie: ¿La Mejor Forma de Aprender Inglés Viendo Series?

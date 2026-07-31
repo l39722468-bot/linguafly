@@ -23,7 +23,7 @@ faqs:
   - question: ¿Debo aprender a hablar con cada acento o solo entenderlos?
     answer: >-
       Para la mayoría de los propósitos, solo entenderlos. Hablar con el acento de cada variedad requeriría un trabajo de producción específico que no tiene sentido para la mayoría de los aprendices. Lo que sí tiene sentido es entrenar la percepción para entender la diversidad de acentos. La producción puede mantenerse en la variedad que hayas elegido como referencia.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/como-entrenar-oido-acentos-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/como-entrenar-oido-acentos-ingles'
 ---
 
 Una escena que se repite: alguien que ha estudiado inglés durante años, con un nivel B2 sólido, que puede ver una serie americana sin subtítulos, se va de viaje a Australia o a Escocia y de repente casi no entiende nada. Vuelve frustrado, convencido de que "su inglés no es suficiente".

@@ -24,7 +24,7 @@ faqs:
   - question: '¿TOEFL (Test of English as a Foreign Language)?'
     answer: 'El TOEFL es desarrollado por ETS (Educational Testing Service), una organización estadounidense. Es el estándar de oro en Estados Unidos y es aceptado por prácticamente todas las universidades del país.'
 
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-vs-toefl-diferencias-cual-elegir'
+canonical: 'https://linguafly.app/blog/examenes/ielts-vs-toefl-diferencias-cual-elegir'
 ---
 
 ## IELTS vs TOEFL: La Guía Definitiva para Elegir tu Examen

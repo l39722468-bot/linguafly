@@ -26,7 +26,7 @@ faqs:
   - question: '¿Cómo afectan los sufijos al acento de la palabra?'
     answer: 'Algunos sufijos atraen el acento hacia ellos mismos o hacia la sílaba que los precede. Por ejemplo, -tion y -sion siempre llevan el acento en la sílaba anterior: na-TION, edu-CA-tion, te-LE-vi-sion. Los sufijos -ic, -ical e -ity también desplazan el acento: PHO-to pero pho-TOG-ra-phy; E-co-no-my pero e-co-NOM-ic.'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/word-stress-ingles-reglas'
+canonical: 'https://linguafly.app/blog/gramatica/word-stress-ingles-reglas'
 ---
 
 Hay un error de pronunciación que pasa muy desapercibido pero que tiene un impacto enorme en cómo te entienden: equivocarse de sílaba. No en un fonema concreto, no en una consonante difícil. En cuál sílaba llevas más fuerte.
@@ -176,7 +176,7 @@ Las reglas te dan una base, pero el acento en inglés se aprende principalmente 
 
 **Escuchar grupos de palabras relacionadas.** Si aprendes *photograph*, aprende también *photography* y *photographic* en la misma sesión. Escucha cómo el acento se desplaza al cambiar de una a otra. Así interiorizas el sistema, no solo palabras sueltas.
 
-Si quieres seguir trabajando la pronunciación de forma sistemática, en [Focus English](/blog/temas/fonetica-inglesa-basica) encontrarás recursos sobre fonética que complementan el trabajo con el acento de palabra, incluyendo guías sobre los diptongos y las vocales reducidas que tan directamente se relacionan con el ritmo del inglés.
+Si quieres seguir trabajando la pronunciación de forma sistemática, en [Linguafly](/blog/temas/fonetica-inglesa-basica) encontrarás recursos sobre fonética que complementan el trabajo con el acento de palabra, incluyendo guías sobre los diptongos y las vocales reducidas que tan directamente se relacionan con el ritmo del inglés.
 
 ---
 

@@ -29,7 +29,7 @@ faqs:
   - question: '¿Duolingo en español tiene el mismo nivel que el inglés?'
     answer: >-
       No exactamente. El curso de inglés para hispanohablantes es uno de los más desarrollados y completos de Duolingo, con cientos de lecciones, historias (Duolingo Stories) y múltiples paths. Sin embargo, la calidad del feedback de pronunciación y las explicaciones gramaticales en profundidad siguen siendo puntos débiles independientemente del idioma objetivo.
-canonical: 'https://www.focus-on-english.com/blog/metodos/duolingo-ingles-review'
+canonical: 'https://linguafly.app/blog/metodos/duolingo-ingles-review'
 ---
 
 ## Duolingo para Aprender Inglés: Lo que Nadie te Cuenta

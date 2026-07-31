@@ -26,7 +26,7 @@ faqs:
   - question: '¿Los pares mínimos ayudan también a mejorar la comprensión auditiva?'
     answer: 'Sí, de forma directa. Cuando entrenas tu oído para distinguir /ʃɪp/ de /ʃiːp/, esos dos patrones se vuelven categorías claras en tu mente. Después, cuando escuchas esas palabras en conversación real y rápida, las reconoces sin esfuerzo. El entrenamiento con pares mínimos mejora tanto la producción como la percepción auditiva.'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pares-minimos-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/pares-minimos-ingles'
 ---
 
 Si llevas tiempo practicando la pronunciación del inglés y sientes que tu progreso se ha estancado, hay una herramienta que probablemente no estás usando todo lo que deberías: los pares mínimos.
@@ -178,7 +178,7 @@ Además de listas como esta, hay herramientas específicas para el entrenamiento
 - **Forvo**: pronunciaciones grabadas por hablantes nativos reales, no síntesis de voz.
 - **Sounds: The Pronunciation App**: de Macmillan, incluye ejercicios de pares mínimos interactivos.
 
-Para entender mejor el sistema fonológico completo del inglés y ver cómo encajan los diptongos y el acento de sílaba con los contrastes que acabas de ver, puedes explorar todos los recursos de fonética en [Focus English](/blog/temas/fonetica-inglesa-basica).
+Para entender mejor el sistema fonológico completo del inglés y ver cómo encajan los diptongos y el acento de sílaba con los contrastes que acabas de ver, puedes explorar todos los recursos de fonética en [Linguafly](/blog/temas/fonetica-inglesa-basica).
 
 ---
 

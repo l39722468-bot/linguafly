@@ -14,7 +14,7 @@ readTime: 15 min
 alt: >-
   Primer plano de equipamiento médico representando seguridad y salud en el
   viaje
-canonical: 'https://www.focus-on-english.com/blog/viajes/frases-ingles-emergencias-viajes'
+canonical: 'https://linguafly.app/blog/viajes/frases-ingles-emergencias-viajes'
 keywords:
   - 'Frases de Emergencia en Inglés'
   - 'frases emergencia viaje ingles'

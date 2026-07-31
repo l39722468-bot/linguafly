@@ -25,7 +25,7 @@ faqs:
   - question: '¿La vocal /ɒ/ vs /ɑː/: cuál es mejor?'
     answer: 'En palabras como hot, stop, lot, box: - Americano: /ɑː/ — hot = /hɑːt/ - Británico: /ɒ/ (redondeada) — hot = /hɒt/'
 
-canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-americano-vs-britanico'
+canonical: 'https://linguafly.app/blog/metodos/ingles-americano-vs-britanico'
 ---
 
 Una de las preguntas más frecuentes entre estudiantes de inglés es: **¿debo aprender inglés americano o inglés británico?** Ambas variedades son mutuamente inteligibles y ampliamente aceptadas en contextos internacionales, pero tienen diferencias importantes que conviene conocer.

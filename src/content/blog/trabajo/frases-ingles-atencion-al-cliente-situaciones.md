@@ -10,7 +10,7 @@ description: >-
 category: trabajo
 alt: Equipo de atención al cliente internacional usando frases en inglés para gestionar consultas
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones
+  https://linguafly.app/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones
 readTime: 6 min
 keywords:
   - '50 Frases Esenciales de Inglés'
@@ -178,7 +178,7 @@ Para estrategias más profundas de comunicación en inglés para customer servic
 
 ## 🚀 Practica con Escenarios Reales
 
-Conocer las frases es el primer paso. El segundo es usarlas con fluidez y naturalidad en situaciones de presión. En **Focus English**, simulamos conversaciones reales de customer service en inglés con role-plays personalizados y feedback inmediato de profesores especializados en comunicación profesional.
+Conocer las frases es el primer paso. El segundo es usarlas con fluidez y naturalidad en situaciones de presión. En **Linguafly**, simulamos conversaciones reales de customer service en inglés con role-plays personalizados y feedback inmediato de profesores especializados en comunicación profesional.
 
 [👉 Habla con confianza con cualquier cliente en inglés. ¡Prueba nuestras clases especializadas!](/cuenta/registro?plan=work)
 

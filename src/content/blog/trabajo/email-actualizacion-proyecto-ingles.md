@@ -40,7 +40,7 @@ faqs:
       (directivos, clientes). Para actualizaciones internas de equipo, puede
       ser suficiente con el estado de las tareas. Para reportes externos o a
       nivel ejecutivo, las métricas hacen el update mucho más creíble y útil.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/email-actualizacion-proyecto-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/email-actualizacion-proyecto-ingles'
 ---
 
 En proyectos internacionales, el progress update regular no es un trámite: es la herramienta que permite a los stakeholders confiar en ti sin necesitar supervisarte. Saber escribirlo bien en inglés marca una diferencia real en cómo te perciben.

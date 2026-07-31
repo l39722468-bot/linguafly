@@ -10,7 +10,7 @@ description: >-
 category: trabajo
 alt: Profesional revisando y corrigiendo un email en inglés en su ordenador
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/ingles-emails-trabajo-errores-comunes
+  https://linguafly.app/blog/trabajo/ingles-emails-trabajo-errores-comunes
 readTime: 5 min
 keywords:
   - '10 Errores en Emails Profesionales'
@@ -172,7 +172,7 @@ La comunicación escrita varía enormemente según la cultura. Aprende en nuestr
 
 ## 🎯 Del Error al Éxito: Practica con Feedback Real
 
-Conocer los errores es el primer paso. El segundo es practicar con corrección real. En **Focus English**, nuestros profesores revisan tus emails reales de trabajo y te dan feedback personalizado para que mejores rápidamente.
+Conocer los errores es el primer paso. El segundo es practicar con corrección real. En **Linguafly**, nuestros profesores revisan tus emails reales de trabajo y te dan feedback personalizado para que mejores rápidamente.
 
 [👉 ¡Escribe emails que proyecten confianza y autoridad! Únete a nuestro programa de inglés profesional](/cuenta/registro?plan=work)
 

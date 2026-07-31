@@ -10,7 +10,7 @@ description: >-
 category: trabajo
 alt: Ingenieros civiles revisando planos de construcción en un proyecto internacional
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/ingles-tecnico-ingenieria-civil-industrial
+  https://linguafly.app/blog/trabajo/ingles-tecnico-ingenieria-civil-industrial
 readTime: 5 min
 keywords:
   - 'Inglés Técnico para Ingeniería Civil'
@@ -199,7 +199,7 @@ Los grandes proyectos internacionales reúnen a profesionales de decenas de paí
 4. **Documenta todo por escrito:** Siempre envía un email de seguimiento tras una conversación importante.
 5. **Respeta las jerarquías:** En muchas culturas (asiática, árabe), criticar a alguien en público delante de sus superiores es gravemente ofensivo.
 
-[👉 Domina el inglés técnico y lidera proyectos internacionales con confianza. Únete a Focus English](/cuenta/registro?plan=work)
+[👉 Domina el inglés técnico y lidera proyectos internacionales con confianza. Únete a Linguafly](/cuenta/registro?plan=work)
 
 ---
 

@@ -29,7 +29,7 @@ faqs:
   - question: '¿Existen alternativas gratuitas a ELSA Speak para mejorar la pronunciación?'
     answer: >-
       Sí. Las principales alternativas gratuitas son: Forvo (pronunciaciones grabadas por nativos de cualquier palabra), YouGlish (busca palabras en vídeos de YouTube para escuchar pronunciación en contexto real), el módulo de pronunciación de BBC Learning English (excelente para fonética británica), y la función de reconocimiento de voz de Google Translate (rudimentaria pero accesible). Ninguna ofrece el nivel de feedback estructurado y personalizado de ELSA, pero combinadas pueden cubrir buena parte de las necesidades básicas de pronunciación de forma completamente gratuita.
-canonical: 'https://www.focus-on-english.com/blog/metodos/elsa-speak-review-pronunciacion-ingles'
+canonical: 'https://linguafly.app/blog/metodos/elsa-speak-review-pronunciacion-ingles'
 ---
 
 ## ELSA Speak: ¿La IA que Por Fin Corrige tu Acento?

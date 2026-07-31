@@ -12,7 +12,7 @@ readTime: 5 min
 keywords:
   - 'Inglés para Viajar'
   - 'aprender ingles para viajar rapido'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-para-viajar'
+canonical: 'https://linguafly.app/blog/viajes/ingles-para-viajar'
 related_routes:
   - ingles-a1
   - ingles-a2

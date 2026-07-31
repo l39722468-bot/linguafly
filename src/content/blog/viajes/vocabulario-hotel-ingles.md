@@ -26,7 +26,7 @@ faqs:
   - question: '¿La habitación tiene un problema?'
     answer: '→ Disculpe, estoy en la habitación 215. Parece que hay un problema con el aire acondicionado / la calefacción.'
 
-canonical: 'https://www.focus-on-english.com/blog/viajes/vocabulario-hotel-ingles'
+canonical: 'https://linguafly.app/blog/viajes/vocabulario-hotel-ingles'
 ---
 
 Has llegado al hotel después de un largo viaje. En la recepción te espera un anglófono. Esta guía te da exactamente las frases y el vocabulario que necesitas para manejar cualquier situación en un hotel inglés — desde el **check-in** hasta resolver un problema con tu habitación.

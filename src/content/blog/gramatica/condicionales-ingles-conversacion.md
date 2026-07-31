@@ -37,7 +37,7 @@ faqs:
       conversación. El third conditional aparece más cuando reflexionas sobre
       el pasado. El zero conditional lo usas constantemente para dar
       instrucciones o hablar de hábitos sin reconocerlo como "condicional".
-canonical: 'https://www.focus-on-english.com/blog/gramatica/condicionales-ingles-conversacion'
+canonical: 'https://linguafly.app/blog/gramatica/condicionales-ingles-conversacion'
 ---
 
 Hay una brecha muy real entre saber construir un condicional y usarlo con naturalidad en una conversación. La teoría la tienes. Lo que necesitas ahora es ver estos patrones en contexto real, escuchar cómo los usan los nativos (muchas veces de forma incompleta o contraída) y practicarlos en situaciones concretas.

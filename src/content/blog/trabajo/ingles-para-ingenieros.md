@@ -12,7 +12,7 @@ readTime: 5 min
 keywords:
   - 'Curso de Inglés para Ingenieros'
   - 'inglés para ingenieros'
-canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-para-ingenieros'
+canonical: 'https://linguafly.app/blog/trabajo/ingles-para-ingenieros'
 related_routes:
   - ingles-para-trabajo
   - ingles-b2
@@ -111,15 +111,15 @@ Si trabajas con empresas de EE. UU. o el Reino Unido, es vital estar familiariza
 
 ---
 
-### ¿Por qué elegir el programa de Ingeniería de Focus English?
+### ¿Por qué elegir el programa de Ingeniería de Linguafly?
 
-En **Focus English**, entendemos que tu tiempo es limitado y tus necesidades muy específicas. Por eso, nuestro enfoque es 100% práctico:
+En **Linguafly**, entendemos que tu tiempo es limitado y tus necesidades muy específicas. Por eso, nuestro enfoque es 100% práctico:
 
 *   **Práctica de Presentaciones Técnicas con IA**: Sube tus diapositivas técnicas y practica tu presentación frente a nuestra IA. Recibirás feedback sobre tu uso de terminología técnica y tu capacidad para explicar gráficos complejos.
 *   **Casos de Estudio de la Industria**: Aprende con materiales reales de empresas líderes en ingeniería civil, renovables y desarrollo de software.
 *   **Simulacros de Entrevistas Técnicas**: Prepárate para las preguntas de "system design" y "coding challenges" con nuestro entrenamiento especializado.
 
-[**Construye tu carrera sin límites geográficos y conviértete en un ingeniero global. Regístrate en Focus English hoy mismo.**](/cuenta/registro)
+[**Construye tu carrera sin límites geográficos y conviértete en un ingeniero global. Regístrate en Linguafly hoy mismo.**](/cuenta/registro)
 
 ---
 

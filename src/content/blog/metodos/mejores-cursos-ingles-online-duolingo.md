@@ -21,7 +21,7 @@ faqs:
   - question: '¿Qué sí hace bien Duolingo?'
     answer: >-
       Constancia diaria, refuerzo léxico básico-intermedio y sensación de progreso. Ideal como capa extra, no como único curso de inglés para metas serias.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-online-duolingo'
+canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-duolingo'
 ---
 
 # Duolingo 2026: insuficiente para IELTS solo
@@ -59,7 +59,7 @@ Es una **prueba distinta** con adopción selectiva por universidades. Si tu obje
 ## Cómo usarlo bien en tu plan
 
 1. Duolingo para **hábito** 10–20 min/día.
-2. **Tutor o escuela** con feedback ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply), [Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda)) para skills de examen, más **guías gratuitas** del [blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) como apoyo teórico.
+2. **Tutor o escuela** con feedback ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply), [Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda)) para skills de examen, más **guías gratuitas** del [blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) como apoyo teórico.
 3. Material oficial del test que vayas a presentar.
 
 ---
@@ -100,7 +100,7 @@ Duolingo a veces refuerza **equivalencias literales** que en examen penalizan: r
 
 - [Babbel](/blog/metodos/mejores-cursos-ingles-online-babbel): más trayectoria pedagógica lineal.
 - [Coursera](/blog/metodos/mejores-cursos-ingles-online-coursera-examenes): más academic English estructurado.
-- [Blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): artículos y hubs para preparar exámenes sin confundir editorial con un curso de pago.
+- [Blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): artículos y hubs para preparar exámenes sin confundir editorial con un curso de pago.
 
 ### Regla final
 

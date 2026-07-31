@@ -12,7 +12,7 @@ readTime: 9 min
 keywords:
   - 'Nivel C1 de Inglés: Qué Significa'
   - 'nivel c1 ingles que es'
-canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-c1'
+canonical: 'https://linguafly.app/blog/metodos/ingles-c1'
 related_routes:
   - ingles-b2
   - ingles-c2

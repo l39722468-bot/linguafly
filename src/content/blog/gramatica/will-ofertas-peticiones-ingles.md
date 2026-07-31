@@ -26,7 +26,7 @@ faqs:
   - question: ¿Cómo pido algo de forma muy educada en inglés?
     answer: >-
       Para peticiones muy educadas, usa "Would you mind + -ing?" o "I was wondering if you could...". Para peticiones neutras: "Could you...?" Para peticiones directas (en tono informal): "Will you...?" o "Can you...?". La elección depende del contexto y de tu relación con la persona.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/will-ofertas-peticiones-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/will-ofertas-peticiones-ingles'
 ---
 
 Uno de los usos más prácticos de *will* en la conversación cotidiana es para hacer ofrecimientos y peticiones. No son situaciones abstractas de gramática — son intercambios que ocurren todos los días en el trabajo, en casa, en tiendas, en reuniones.

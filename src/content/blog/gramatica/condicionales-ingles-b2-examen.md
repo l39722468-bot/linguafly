@@ -38,7 +38,7 @@ faqs:
       (partes 2 y 3). Un candidato que usa variedad de condicionales
       correctamente en speaking puede subir de Band 6 a Band 7 solo por ese
       criterio gramatical.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/condicionales-ingles-b2-examen'
+canonical: 'https://linguafly.app/blog/gramatica/condicionales-ingles-b2-examen'
 ---
 
 Si estás preparando el Cambridge B2 First, el APTIS B2, el IELTS o cualquier certificación de nivel intermedio-alto, los condicionales son uno de los puntos gramaticales que debes tener completamente bajo control. No es opinión: aparecen en casi todas las secciones del examen de una u otra forma.

@@ -39,7 +39,7 @@ faqs:
       "You've actually covered most of what I wanted to ask. But since we
       talked about [tema], I'm curious to know more about [pregunta relacionada]."
       Demuestra que has escuchado activamente.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/preguntas-hacer-entrevistador-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/preguntas-hacer-entrevistador-ingles'
 ---
 
 *"Do you have any questions for us?"* — Esta frase al final de una entrevista es una oportunidad, no un trámite. Los candidatos que responden con preguntas inteligentes dejan una impresión mucho más sólida que los que dicen "no, creo que está todo claro".

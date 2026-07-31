@@ -31,7 +31,7 @@ faqs:
       Sí, son ideales por su flexibilidad. Permiten adaptar el aprendizaje al
       ritmo laboral y personal, eliminando desplazamientos y permitiendo acceso
       a mejores recursos digitales.
-canonical: 'https://www.focus-on-english.com/blog/metodos/clases-de-ingles-guia'
+canonical: 'https://linguafly.app/blog/metodos/clases-de-ingles-guia'
 ---
 
 ## El desafío de elegir las clases de inglés adecuadas

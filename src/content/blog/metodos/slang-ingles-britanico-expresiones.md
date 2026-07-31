@@ -26,7 +26,7 @@ faqs:
   - question: '¿Slang Regional?'
     answer: 'El slang británico varía enormemente según la región:'
 
-canonical: 'https://www.focus-on-english.com/blog/metodos/slang-ingles-britanico-expresiones'
+canonical: 'https://linguafly.app/blog/metodos/slang-ingles-britanico-expresiones'
 ---
 
 Si has aprendido inglés con libros de texto, probablemente te sorprenda la cantidad de expresiones que no entiendes cuando hablas con británicos. El **slang inglés británico** es colorido, variado y a menudo completamente diferente del inglés americano que se enseña en los colegios.

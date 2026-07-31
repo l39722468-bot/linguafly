@@ -21,7 +21,7 @@ faqs:
     answer: 'No es imprescindible, pero ayuda. Si IPA te abruma, usa los ejemplos en ortografía y grabaciones de referencia: lo importante es que puedas comparar tu producción con un modelo auténtico en bucle.'
   - question: '¿Me servirá esto para Cambridge?'
     answer: 'En speaking, Cambridge valora la claridad y la interacción, no que suenes irlandés. Sin embargo, entrenar variedades mejora tu elasticidad articulatoria y suele subir la naturalidad de tu habla si vives o trabajas con irlandeses.'
-canonical: 'https://www.focus-on-english.com/blog/metodos/pronunciacion-ejercicios-acento-irlandes-b2'
+canonical: 'https://linguafly.app/blog/metodos/pronunciacion-ejercicios-acento-irlandes-b2'
 ---
 
 Practicar un acento extranjero puede parecer un juego; en el aula bien planteada es **fonética aplicada**. El objetivo no es confundir a un nativo haciéndole creer que eres de Cork, sino **entender qué hace el cuerpo** cuando un hablante irlandés articula y, si te interesa, acercarte a esos gestos con precisión y respeto.

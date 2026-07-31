@@ -21,7 +21,7 @@ faqs:
   - question: ¿Qué es un "Mortgage" y cómo se habla de hipotecas en inglés?
     answer: >-
       "Mortgage" es la hipoteca (el préstamo para comprar una propiedad). El banco que lo concede es el "lender" o "mortgage provider". Pagas una "monthly mortgage payment" o "mortgage repayment". La parte que pagas al principio se llama "deposit" o "down payment". El tipo de interés puede ser "fixed rate" (fijo) o "variable rate" (variable). "Equity" es la parte del valor que ya posees (valor de la propiedad menos deuda pendiente).
-canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-real-estate-inmobiliario'
+canonical: 'https://linguafly.app/blog/trabajo/ingles-real-estate-inmobiliario'
 description: >
   Inglés profesional para el sector inmobiliario: vocabulario de compraventa, alquiler, contratos y negociación de propiedades. Ideal para agentes que trabajan con clientes internacionales.
 ---

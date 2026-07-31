@@ -24,7 +24,7 @@ faqs:
   - question: '¿� Lista de Práctica de Pronunciación (Versión Imprimible)?'
     answer: 'Aquí tienes 20 palabras "trampa" que todo estudiante de inglés debe dominar:'
 
-canonical: 'https://www.focus-on-english.com/blog/metodos/reglas-pronunciacion-ingles'
+canonical: 'https://linguafly.app/blog/metodos/reglas-pronunciacion-ingles'
 ---
 
 ## Fuentes

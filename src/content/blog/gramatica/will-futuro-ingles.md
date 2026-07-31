@@ -26,7 +26,7 @@ faqs:
   - question: ¿Por qué en español a veces no se traduce will como "voy a"?
     answer: >-
       Porque en español usamos el presente con valor de futuro con mucha frecuencia: "mañana voy", "el lunes empiezo". En inglés eso se expresa con going to o will según el contexto. "Mañana voy al médico" → "I'm going to the doctor tomorrow" (plan) o "I'll go to the doctor tomorrow" (información sin énfasis en el plan).
-canonical: 'https://www.focus-on-english.com/blog/gramatica/will-futuro-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/will-futuro-ingles'
 ---
 
 Cuando empiezas a estudiar el futuro en inglés, *will* es lo primero que aparece. Y con razón: es el auxiliar de futuro por defecto, el que usas cuando quieres decir que algo va a ocurrir sin tener que especificar si es un plan, una intención o una predicción.

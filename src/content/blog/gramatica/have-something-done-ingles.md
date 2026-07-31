@@ -59,7 +59,7 @@ faqs:
       (have/has had), futuro con will (will have), futuro con going to
       (am/is/are going to have). El objeto y el participio siempre mantienen
       el mismo orden.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/have-something-done-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/have-something-done-ingles'
 ---
 
 *"I had my hair cut last week."* Si tradujeras esto literalmente como "Tuve mi pelo cortado", suena raro. Pero en inglés es perfectamente natural y tiene un significado muy concreto: fui a la peluquería y otra persona me cortó el pelo. Eso es exactamente lo que expresa la estructura *have something done*, y una vez que entiendes la lógica, la reconocerás y usarás sin problema.

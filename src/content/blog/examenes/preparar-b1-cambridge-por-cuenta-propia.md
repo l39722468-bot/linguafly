@@ -16,7 +16,7 @@ updatedDate: '2026-03-21'
 category: examenes
 author: focus-english-team
 canonical: >-
-  https://www.focus-on-english.com/blog/examenes/preparar-b1-cambridge-por-cuenta-propia
+  https://linguafly.app/blog/examenes/preparar-b1-cambridge-por-cuenta-propia
 faqs:
   - question: '¿Es posible preparar el B1 de Cambridge sin academia?'
     answer: 'Sí, es totalmente posible. El nivel B1 Preliminary (PET) certifica comunicación cotidiana, y con los materiales adecuados puedes prepararlo solo. Cambridge ofrece exámenes de muestra gratuitos en su web oficial, y plataformas con rutas curriculares específicas para el examen facilitan mucho el autoestudio sin profesor.'
@@ -71,9 +71,9 @@ La organización es la diferencia entre el éxito y el abandono. No intentes apr
 
 ## Conclusión: Tu Certificado B1 está a tu Alcance
 
-Preparar el B1 por tu cuenta requiere compromiso, pero con herramientas como las que ofrecemos en **Focus English**, el camino es mucho más sencillo y efectivo. No solo aprobarás el examen, sino que realmente desarrollarás la capacidad de hablar el idioma en tu día a día profesional y personal.
+Preparar el B1 por tu cuenta requiere compromiso, pero con herramientas como las que ofrecemos en **Linguafly**, el camino es mucho más sencillo y efectivo. No solo aprobarás el examen, sino que realmente desarrollarás la capacidad de hablar el idioma en tu día a día profesional y personal.
 
-[**¿Quieres probar tu nivel B1 hoy mismo? Regístrate en Focus English y realiza tu primer simulacro gratuito.**](/cuenta/registro)
+[**¿Quieres probar tu nivel B1 hoy mismo? Regístrate en Linguafly y realiza tu primer simulacro gratuito.**](/cuenta/registro)
 
 ---
 

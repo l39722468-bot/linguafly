@@ -11,7 +11,7 @@ category: trabajo
 readTime: 14 min
 alt: Dos profesionales estrechando la mano tras una exitosa negociación comercial
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/negociacion-ingles-tecnicas-clave
+  https://linguafly.app/blog/trabajo/negociacion-ingles-tecnicas-clave
 keywords:
   - 'Negociación en Inglés: Estrategias'
   - 'negociación en inglés'

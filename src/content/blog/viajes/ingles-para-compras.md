@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cómo pregunto si hay descuento o rebajas en inglés?
     answer: >-
       Pregunta "Is this on sale?" o "Do you have any discounts on this?". Si hay rebajas generales, podrás ver carteles con "Sale", "Clearance" (últimas unidades rebajadas) o "% off". En mercados puedes intentar regatear con "Is that your best price?" o "Could you do any better on the price?".
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-para-compras'
+canonical: 'https://linguafly.app/blog/viajes/ingles-para-compras'
 ---
 
 ## Inglés para Ir de Compras: Todo lo que Necesitas Saber

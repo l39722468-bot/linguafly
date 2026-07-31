@@ -31,7 +31,7 @@ faqs:
     answer: >-
       Palabras como ever, never, just, already, yet, so far y since suelen ir
       acompañadas de Present Perfect.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/present-perfect-vs-past-simple'
+canonical: 'https://linguafly.app/blog/gramatica/present-perfect-vs-past-simple'
 ---
 
 ## Domina el Present Perfect vs Past Simple (Nivel A1-C1)

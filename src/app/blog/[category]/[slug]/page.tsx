@@ -1,3 +1,4 @@
+import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import Image from "next/image";
@@ -67,7 +68,7 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
       tags: article.keywords,
       images: [
         {
-          url: ogImage.startsWith('http') ? ogImage : `https://www.focus-on-english.com${ogImage}`,
+          url: ogImage.startsWith('http') ? ogImage : getAbsoluteUrl(ogImage),
           width: 1200,
           height: 630,
           alt: seoTitle,
@@ -78,10 +79,10 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
       card: "summary_large_image",
       title: seoTitle,
       description: article.excerpt,
-      images: [ogImage.startsWith('http') ? ogImage : `https://www.focus-on-english.com${ogImage}`],
+      images: [ogImage.startsWith('http') ? ogImage : getAbsoluteUrl(ogImage)],
     },
     alternates: {
-      canonical: article.canonical || `https://www.focus-on-english.com/blog/${normalizeCategory(article.category)}/${slug}`,
+      canonical: article.canonical || getAbsoluteUrl(`/blog/${normalizeCategory(article.category)}/${slug}`),
     },
   };
 }
@@ -131,10 +132,10 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
   // Generate Breadcrumb Schema
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: "Inicio", url: "https://www.focus-on-english.com" },
-    { name: "Blog", url: "https://www.focus-on-english.com/blog" },
-    { name: categoryLabel, url: `https://www.focus-on-english.com/blog/${normalizedCategory}` },
-    { name: article.title, url: `https://www.focus-on-english.com/blog/${normalizedCategory}/${slug}` },
+    { name: "Inicio", url: getSiteUrl() },
+    { name: "Blog", url: getAbsoluteUrl('/blog') },
+    { name: categoryLabel, url: getAbsoluteUrl(`/blog/${normalizedCategory}`) },
+    { name: article.title, url: getAbsoluteUrl(`/blog/${normalizedCategory}/${slug}`) },
   ]);
 
   // Generate FAQ Schema if FAQs exist
@@ -350,11 +351,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                         ) : (
                           <>
                             <div className="w-10 h-10 rounded-full bg-coral-100 flex items-center justify-center text-coral-600">
-                              <span className="font-bold">FT</span>
+                              <span className="font-bold">LF</span>
                             </div>
                             <div>
                               <p className="text-sm font-bold text-slate-900">{article.author}</p>
-                              <p className="text-xs text-slate-500">Focus English Team</p>
+                              <p className="text-xs text-slate-500">Equipo {SITE_BRAND_NAME}</p>
                             </div>
                           </>
                         )}

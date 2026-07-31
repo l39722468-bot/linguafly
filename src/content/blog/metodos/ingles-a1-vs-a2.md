@@ -35,7 +35,7 @@ faqs:
       Prioriza pasado simple, conectores básicos, verbos frecuentes y escucha
       diaria de contenido adaptado al nivel.
 
-canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-a1-vs-a2'
+canonical: 'https://linguafly.app/blog/metodos/ingles-a1-vs-a2'
 ---
 
 ## Inglés A1 vs A2: ¿Cuál es tu Nivel Real y cómo Seguir Progresando?

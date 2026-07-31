@@ -29,7 +29,7 @@ faqs:
     answer: 'No necesitas una opinión sincera: necesitas una opinión defendible. Elige la postura más fácil de argumentar con los recursos que tienes y desarróllala con ejemplos. El examinador evalúa tu inglés, no tu profundidad filosófica.'
   - question: '¿Cuántas palabras debe tener cada respuesta de Part 3?'
     answer: 'Apunta a 60-90 palabras por respuesta (30-45 segundos). Respuestas de 15 palabras penalizan; respuestas de 150 palabras corren el riesgo de agotarse y salirse del tema. La estructura importa más que la longitud.'
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-speaking-part-3-preguntas'
+canonical: 'https://linguafly.app/blog/examenes/ielts-speaking-part-3-preguntas'
 ---
 
 Si has llegado al Part 3 de IELTS Speaking es porque ya has sobrevivido a las preguntas fáciles del Part 1 y al monólogo del Part 2. Pero aquí es donde el examen **se pone serio** y donde la mayoría pierde el medio punto que los separa del 7.0 o del 7.5.

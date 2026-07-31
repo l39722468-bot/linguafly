@@ -41,7 +41,7 @@ faqs:
       finished" = "If it hadn't been for your help, I would never have
       finished". Es una estructura apreciada en Cambridge C1 por su concisión
       y precisión.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ejercicios-condicionales-ingles-c1'
+canonical: 'https://linguafly.app/blog/gramatica/ejercicios-condicionales-ingles-c1'
 ---
 
 Los cuatro condicionales (zero, first, second, third) son la base. Pero si tu objetivo es el C1 Advanced de Cambridge, un IELTS de Band 7 o simplemente poder producir inglés que suene realmente sofisticado, hay un conjunto de estructuras adicionales que debes conocer.

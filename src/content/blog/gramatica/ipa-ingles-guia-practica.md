@@ -23,7 +23,7 @@ faqs:
   - question: ¿El IPA que usa el inglés es el mismo que usan otros idiomas?
     answer: >-
       Los símbolos son los mismos, pero cada idioma usa solo los fonemas que tiene. El IPA del francés, del alemán o del japonés usa algunos símbolos iguales y otros diferentes. Para aprender el IPA del inglés, solo necesitas el subconjunto de inglés, no el sistema completo.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ipa-ingles-guia-practica'
+canonical: 'https://linguafly.app/blog/gramatica/ipa-ingles-guia-practica'
 ---
 
 Hay dos tipos de estudiantes de inglés: los que usan el IPA como herramienta de trabajo y los que lo ignoran por completo. Los primeros aprenden la pronunciación correcta de las palabras desde el primer contacto con ellas. Los segundos acumulan errores que luego son muy difíciles de corregir.

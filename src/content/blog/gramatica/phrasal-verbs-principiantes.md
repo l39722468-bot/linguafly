@@ -16,7 +16,7 @@ date: '2026-03-06'
 updatedDate: '2026-03-10'
 alt: 'Estudiante principiante aprendiendo phrasal verbs básicos en inglés'
 category: gramatica
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-principiantes'
+canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-principiantes'
 faqs:
   - question: '¿Qué es un Phrasal Verb? (Explicación Simple)?'
     answer: 'Un phrasal verb es la combinación de un verbo más una pequeña palabra (llamada "partícula"), que puede ser una preposición (in, on, at) o un adverbio (up, down, out).'
@@ -214,7 +214,7 @@ Depende del phrasal verb. *Carry out*, *look into* o *hand in* son perfectamente
 
 Los phrasal verbs para principiantes no tienen por qué ser un calvario. Empieza con los de tu día a día —levantarte, encender, salir, recoger cosas— y tendrás una base natural sobre la que ir añadiendo los más complejos. La clave está en el **contexto**: aprende cada phrasal verb con su ejemplo y úsalo en frases propias para fijarlo en la memoria.
 
-En **Focus English**, creemos que la gramática se aprende mejor cuando tiene sentido práctico. Sigue explorando nuestras guías de phrasal verbs para ir avanzando nivel a nivel.
+En **Linguafly**, creemos que la gramática se aprende mejor cuando tiene sentido práctico. Sigue explorando nuestras guías de phrasal verbs para ir avanzando nivel a nivel.
 
 ## Fuentes
 

@@ -28,7 +28,7 @@ faqs:
     answer: 'Ve directamente al mostrador de la aerolínea (normalmente hay uno específico de "Connections" o "Rebooking" tras pasar el control). Frase clave: "I missed my connecting flight because the previous one was delayed. Can you rebook me on the next available flight, please?" Si es misma aerolínea o alianza, suele ser gratuito.'
   - question: '¿Cómo reclamo una maleta perdida en inglés?'
     answer: 'En el mostrador de "Baggage Services" / "Lost & Found", pide: "My luggage didn’t arrive on flight [número]. I’d like to file a lost baggage report, please." Recibirás un PIR (Property Irregularity Report) que debes guardar para reclamaciones posteriores.'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-vuelos-retrasos-conexiones'
+canonical: 'https://linguafly.app/blog/viajes/ingles-vuelos-retrasos-conexiones'
 ---
 
 Cuando el vuelo sale puntual, con hacer *check-in* y enseñar el pasaporte te basta. El problema llega cuando **algo falla**: un retraso de 4 horas, una conexión perdida, una maleta que no aparece, una cancelación por huelga. Ahí es donde tener las frases en inglés listas en la cabeza marca la diferencia entre resolverlo en 10 minutos o pasarte la noche en un mostrador frustrada.

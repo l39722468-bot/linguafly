@@ -21,7 +21,7 @@ faqs:
   - question: '¿Es buena relación calidad-precio?'
     answer: >-
       Sí para quien quiere disciplina y lecciones cortas. No esperes conversación intensiva ni feedback profundo de writing sin combinar con otra herramienta.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-online-babbel'
+canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-babbel'
 ---
 
 # Babbel 2026: ¿válido para IELTS o Cambridge?
@@ -61,7 +61,7 @@ Por eso, en una estrategia seria, Babbel puede ser **primer tramo** o **compleme
 ## Cómo combinarlo si quieres un examen oficial
 
 1. Usa Babbel para **base léxica y gramatical**.
-2. Añade un **curso o tutor de examen** (por ejemplo [Preply](/blog/metodos/mejores-cursos-ingles-online-preply) o material oficial) y usa el [blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) como refuerzo gratuito de gramática y estrategia.
+2. Añade un **curso o tutor de examen** (por ejemplo [Preply](/blog/metodos/mejores-cursos-ingles-online-preply) o material oficial) y usa el [blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) como refuerzo gratuito de gramática y estrategia.
 3. Reserva el examen cuando los **mock tests** te sitúen en el rango deseado.
 
 ---
@@ -92,7 +92,7 @@ Una combinación sensata para alguien con presupuesto medio:
 
 1. **Babbel** 4–6 sesiones semanales para vocabulario y estructuras frecuentes.
 2. **Un libro oficial** del examen que vayas a presentar (IELTS Cambridge series, B2/C1 past papers).
-3. **Clases puntuales** con tutor cuando el writing se atasque ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply)) o grupos en vivo si necesitas speaking sostenido ([Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda)); el [blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) complementa con guías, no sustituye al tutor.
+3. **Clases puntuales** con tutor cuando el writing se atasque ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply)) o grupos en vivo si necesitas speaking sostenido ([Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda)); el [blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) complementa con guías, no sustituye al tutor.
 
 El error típico es añadir cinco apps más “por si acaso”. Cada app nueva es coste de atención.
 

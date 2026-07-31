@@ -21,7 +21,7 @@ faqs:
     answer: 'En algunos rasgos históricos y de contacto dialectal puede haber paralelos con variedades del oeste de Escocia, pero no es una identidad simple. La percepción depende del hablante concreto y del registro.'
   - question: '¿Necesito aprender gaélico para viajar?'
     answer: 'No para la mayoría de contextos urbanos y turísticos. El gaélico irlandés y el escocés gaélico tienen presencia simbólica y comunitaria en zonas específicas; el inglés cubre la vida cotidiana. Respetar señalización bilingüe es buena práctica.'
-canonical: 'https://www.focus-on-english.com/blog/metodos/belfast-vs-dublin-acento-ingles-comparativa'
+canonical: 'https://linguafly.app/blog/metodos/belfast-vs-dublin-acento-ingles-comparativa'
 ---
 
 Decir “voy a Irlanda a practicar el acento irlandés” es como decir “voy a la península ibérica a practicar el acento español”: **demasiado ancho**. En la isla de Irlanda conviven historias coloniales, lenguas en contacto y redes urbanas distintas. **Dublín** (República de Irlanda) y **Belfast** (Reino Unido — Irlanda del Norte) son dos centros urbanos cuyo inglés suena a menudo **muy diferente** en la calle, aunque compartan etiquetas comerciales y mucha cultura popular global.

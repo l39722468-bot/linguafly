@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cuánto tiempo lleva dominar el sistema vocálico del inglés?
     answer: >-
       Para reconocer y producir las vocales básicas de forma correcta en palabras aisladas, generalmente bastan semanas de práctica concentrada. Para automatizarlas en el habla fluida, donde la vocal correcta aparece sin pensar en cada palabra, suele llevar meses o más de un año. El proceso se acelera enormemente con pares mínimos y escucha intensiva de input auténtico.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pronunciacion-vocales-ingles-americano'
+canonical: 'https://linguafly.app/blog/gramatica/pronunciacion-vocales-ingles-americano'
 ---
 
 El sistema vocálico del inglés americano es uno de los más complejos entre las lenguas de Europa occidental. No por capricho: es el resultado de siglos de cambios fonológicos, préstamos de otros idiomas y variación dialectal. El inglés americano actual tiene más de 15 vocales distintas. El español tiene 5.

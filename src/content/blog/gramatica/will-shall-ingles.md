@@ -26,7 +26,7 @@ faqs:
   - question: ¿Es correcto usar shall con he/she/they?
     answer: >-
       Históricamente, en inglés clásico, se usaba shall con I y we (futuro simple) y will con he/she/they/you. Esta distinción está prácticamente muerta en el inglés moderno. Hoy, shall solo se usa de forma natural con I y we, y casi exclusivamente en ofrecimientos y sugerencias, o en registros formales.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/will-shall-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/will-shall-ingles'
 ---
 
 Si alguna vez has visto la palabra *shall* en inglés y te has preguntado en qué se diferencia de *will*, no estás solo. Los dos son auxiliares relacionados con el futuro, pero sus usos modernos son bastante distintos.

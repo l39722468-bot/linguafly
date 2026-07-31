@@ -10,7 +10,7 @@ description: >-
 category: trabajo
 alt: Profesional haciendo una presentación en inglés ante un grupo internacional
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/como-hacer-presentaciones-en-ingles
+  https://linguafly.app/blog/trabajo/como-hacer-presentaciones-en-ingles
 readTime: 5 min
 keywords:
   - 'Cómo Hacer Presentaciones en Inglés'
@@ -169,9 +169,9 @@ La sesión de preguntas es donde muchos presentadores pierden los puntos ganados
 **Día 6:** Haz una simulación completa con preguntas del Q&A.
 **Día 7:** Descanso y repaso de los puntos clave solamente.
 
-En **Focus English**, nuestros profesores especializados en inglés de negocios pueden ser tu audiencia de práctica, darte feedback profesional y ayudarte a pulir esa presentación en inglés hasta que se sienta completamente natural.
+En **Linguafly**, nuestros profesores especializados en inglés de negocios pueden ser tu audiencia de práctica, darte feedback profesional y ayudarte a pulir esa presentación en inglés hasta que se sienta completamente natural.
 
-[👉 ¡Haz que tu próxima presentación en inglés sea tu mejor argumento de venta. Comienza con Focus English!](/cuenta/registro?plan=work)
+[👉 ¡Haz que tu próxima presentación en inglés sea tu mejor argumento de venta. Comienza con Linguafly!](/cuenta/registro?plan=work)
 
 ---
 

@@ -12,7 +12,7 @@ alt: Viajero consultando un mapa de metro en una estación internacional
 keywords:
   - 'Inglés para Trenes, Metro y Transporte Público'
   - 'ingles para trenes'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-trenes-metro-transporte'
+canonical: 'https://linguafly.app/blog/viajes/ingles-trenes-metro-transporte'
 faqs:
   - question: ¿Cómo compro un billete de tren en inglés?
     answer: >-

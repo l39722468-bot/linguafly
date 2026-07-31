@@ -29,7 +29,7 @@ faqs:
   - question: '¿Cómo sé si estoy progresando con las apps?'
     answer: >-
       Hay señales claras de progreso: entender podcasts o vídeos que antes te resultaban imposibles, reconocer palabras nuevas en contextos distintos a donde las aprendiste, hablar o escribir con menos esfuerzo consciente, y aumentar el número de tarjetas maduras en Anki. Establece una evaluación mensual: escucha el mismo podcast o haz el mismo test de nivel al inicio y al mes siguiente. La diferencia te sorprenderá.
-canonical: 'https://www.focus-on-english.com/blog/metodos/rutina-apps-ingles-como-combinarlas'
+canonical: 'https://linguafly.app/blog/metodos/rutina-apps-ingles-como-combinarlas'
 ---
 
 ## Cómo Combinar Apps para Aprender Inglés Sin Perder el Tiempo

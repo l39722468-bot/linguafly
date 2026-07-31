@@ -26,7 +26,7 @@ faqs:
   - question: '¿Por qué algunos diccionarios usan barras /.../ y otros corchetes [...]?'
     answer: 'Las barras /.../ indican transcripción fonológica: representan los fonemas del idioma, las unidades de sonido que distinguen significados. Los corchetes [...] indican transcripción fonética más precisa, con variantes que no cambian el significado pero que sí varían según el hablante o el contexto. Para aprender pronunciación, las barras son lo que necesitas; los corchetes son para análisis lingüístico más técnico.'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ipa-ingles-como-leer'
+canonical: 'https://linguafly.app/blog/gramatica/ipa-ingles-como-leer'
 ---
 
 La primera vez que ves una transcripción como /ˈniːðə/ al lado de la palabra *neither* en el diccionario, la reacción normal es cerrar el diccionario. Esos símbolos parecen diseñados para complicar las cosas, pero en realidad son exactamente lo contrario: son la solución al mayor problema del inglés escrito, que es que la ortografía no te dice nada útil sobre la pronunciación.
@@ -176,7 +176,7 @@ Fíjate en lo que ha pasado: *comfortable* tiene cuatro sílabas en la escritura
 
 ---
 
-Entender el IPA no requiere ser lingüista ni tener formación especial. Con unas horas de práctica puedes leer transcripciones con fluidez suficiente para que te sean útiles a diario. Si quieres ver cómo encaja esto en el sistema fonético del inglés completo, en [Focus English](/blog/temas/fonetica-inglesa-basica) encontrarás recursos que abordan la fonética desde distintos ángulos y te ayudarán a conectar todas estas piezas.
+Entender el IPA no requiere ser lingüista ni tener formación especial. Con unas horas de práctica puedes leer transcripciones con fluidez suficiente para que te sean útiles a diario. Si quieres ver cómo encaja esto en el sistema fonético del inglés completo, en [Linguafly](/blog/temas/fonetica-inglesa-basica) encontrarás recursos que abordan la fonética desde distintos ángulos y te ayudarán a conectar todas estas piezas.
 
 ---
 

@@ -36,7 +36,7 @@ faqs:
       Principalmente sí, pero también se usa para situaciones actuales poco
       probables. "If I lived in London, I would cycle to work" habla de ahora,
       no del futuro. La clave es que la condición no es real en este momento.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/second-conditional-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/second-conditional-ingles'
 ---
 
 *"If I won the lottery, I would buy a house."*

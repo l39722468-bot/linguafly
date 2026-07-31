@@ -23,7 +23,7 @@ faqs:
   - question: ¿En qué idioma debo pedir las cartas de referencia?
     answer: >-
       Las cartas de referencia deben estar siempre en el idioma de la solicitud, que normalmente es inglés. Si tu profesor o supervisor no domina el inglés, puedes escribirle un borrador en español y pedirle que lo valide y firme, o puedes ofrecerte a hacer una traducción jurada si la institución lo acepta. La mejor opción siempre es conseguir una carta escrita directamente en inglés.
-canonical: 'https://www.focus-on-english.com/blog/examenes/becas-solicitudes-ingles'
+canonical: 'https://linguafly.app/blog/examenes/becas-solicitudes-ingles'
 ---
 
 ## Becas y Solicitudes en Inglés: Consigue la Financiación que Mereces

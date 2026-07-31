@@ -26,7 +26,7 @@ faqs:
   - question: '¿Cuánto tiempo al día debo usar Cake para progresar?'
     answer: >-
       Con 15-20 minutos diarios de uso constante notarás progreso en vocabulario y expresiones coloquiales en pocas semanas. Cake está diseñada para sesiones cortas y frecuentes: es mejor hacer 3-4 lecciones cada día que intentar hacer 20 lecciones un fin de semana. El sistema de revisión de Cake refuerza el vocabulario aprendido en sesiones anteriores, por lo que la constancia es más importante que la intensidad.
-canonical: 'https://www.focus-on-english.com/blog/metodos/cake-app-ingles-review'
+canonical: 'https://linguafly.app/blog/metodos/cake-app-ingles-review'
 ---
 
 ## Cake App: Aprender Inglés con Vídeos Reales en el Móvil

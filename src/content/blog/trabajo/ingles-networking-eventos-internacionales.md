@@ -13,7 +13,7 @@ alt: >-
   Grupo de profesionales haciendo networking en un evento internacional
   corporativo
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/ingles-networking-eventos-internacionales
+  https://linguafly.app/blog/trabajo/ingles-networking-eventos-internacionales
 keywords:
   - 'Networking en Inglés'
   - 'frases networking inglés'

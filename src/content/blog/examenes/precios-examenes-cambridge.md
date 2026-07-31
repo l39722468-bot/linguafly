@@ -16,7 +16,7 @@ excerpt: >-
 keywords:
   - 'Precios Exámenes Cambridge: FCE, CAE'
   - 'precios examenes cambridge'
-canonical: 'https://www.focus-on-english.com/blog/examenes/precios-examenes-cambridge'
+canonical: 'https://linguafly.app/blog/examenes/precios-examenes-cambridge'
 related_routes:
   - certificaciones-ingles
   - preparacion-examen-b1-cambridge
@@ -89,15 +89,15 @@ Aunque las tasas son oficiales, hay formas de reducir el coste total:
 
 ---
 
-### Asegura tu inversión con Focus English
+### Asegura tu inversión con Linguafly
 
-Un examen de Cambridge de nivel B2 o C1 cuesta más de 200€. No querrás tener que pagarlo dos veces por no ir bien preparado. En **Focus English** te ayudamos a asegurar tu dinero:
+Un examen de Cambridge de nivel B2 o C1 cuesta más de 200€. No querrás tener que pagarlo dos veces por no ir bien preparado. En **Linguafly** te ayudamos a asegurar tu dinero:
 
 *   **IA Predictora de Nota**: Nuestro test de nivel no solo te dice tu nivel actual, sino que predice con un 95% de exactitud qué nota sacarías en el examen real de Cambridge hoy mismo.
 *   **Simulacros de Examen Oficiales**: Practica con el formato exacto del examen (ya sea en papel o digital) y recibe correcciones instantáneas de Use of English y Writing.
 *   **Garantía de Aprobado**: Si completas nuestro plan de estudios y no apruebas tu examen de Cambridge, te devolvemos la última cuota de tu suscripción o te damos acceso gratuito hasta tu próxima convocatoria.
 
-[**No malgastes tu dinero. Prepárate con Focus English y ve al examen de Cambridge con la seguridad de que vas a aprobar.**](/cuenta/registro)
+[**No malgastes tu dinero. Prepárate con Linguafly y ve al examen de Cambridge con la seguridad de que vas a aprobar.**](/cuenta/registro)
 
 ---
 

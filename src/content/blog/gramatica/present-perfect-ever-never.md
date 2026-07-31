@@ -23,7 +23,7 @@ faqs:
   - question: ¿"Have you ever" siempre implica "en toda tu vida"?
     answer: >-
       En su uso más frecuente, sí — se refiere a toda la experiencia de vida de la persona. Pero también puede referirse a un período específico: "Have you ever had problems with this software?" puede referirse a tu experiencia con ese programa, no con toda tu vida.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/present-perfect-ever-never'
+canonical: 'https://linguafly.app/blog/gramatica/present-perfect-ever-never'
 ---
 
 *Have you ever tried Ethiopian food? Have you ever been to a country where you didn't speak the language? Have you ever done something you immediately regretted?*

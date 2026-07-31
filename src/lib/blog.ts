@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 import matter from "gray-matter";
 import { Author, getAuthor } from "./authors";
+import { SITE_BRAND_NAME } from "./site-brand";
 
 const BLOG_DIR = path.join(process.cwd(), "src/content/blog");
 
@@ -80,8 +81,8 @@ export function getBlogArticles(): BlogPost[] {
       slug,
       title: data.title || "Untitled",
       date: data.date || new Date().toISOString(),
-      author: data.author || "Focus English",
-      authorData: getAuthor(data.author || "focus-english-team"),
+      author: data.author || SITE_BRAND_NAME,
+      authorData: getAuthor(data.author || "linguafly-team"),
       excerpt: data.excerpt || data.description || "",
       description: data.description || data.excerpt,
       category: normalizeCategory(data.category || "General"),

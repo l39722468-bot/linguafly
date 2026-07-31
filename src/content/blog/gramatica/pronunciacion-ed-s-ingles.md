@@ -23,7 +23,7 @@ faqs:
   - question: ¿Qué pasa si pronuncio mal la terminación -ed o -s?
     answer: >-
       Rara vez crea malentendidos graves, porque el contexto suele desambiguar. Pero hay casos donde importa: "I walk home" vs "I walked home" depende de si percibes la /t/ final; "She place orders" vs "She places orders" cambia según si hay una sílaba extra. Más importante, pronunciar mal estas terminaciones es uno de los marcadores de acento más frecuentes en hispanohablantes.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pronunciacion-ed-s-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/pronunciacion-ed-s-ingles'
 ---
 
 La "-ed" del pasado regular y la "-s" del plural y tercera persona del singular son de las cosas que primero se aprenden en inglés. Son también de las que más se pronuncian mal durante años, porque nadie explica bien que no siempre suenan igual.

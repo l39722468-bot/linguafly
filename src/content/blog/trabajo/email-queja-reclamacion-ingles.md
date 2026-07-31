@@ -37,7 +37,7 @@ faqs:
       primer email. Si tampoco hay respuesta, escala la queja a un nivel
       superior (manager, departamento de atención al cliente, dirección) y
       menciona que lo estás haciendo. No esperes semanas sin reaccionar.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/email-queja-reclamacion-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/email-queja-reclamacion-ingles'
 ---
 
 Poner una queja en inglés tiene su arte. Si el tono es demasiado suave, el correo se archiva y no pasa nada. Si es demasiado agresivo, la otra parte se pone a la defensiva y la solución tarda más. El punto es encontrar el registro firme y profesional que lleve al destinatario a actuar.

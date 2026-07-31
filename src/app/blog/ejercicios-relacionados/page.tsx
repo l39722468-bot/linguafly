@@ -8,15 +8,16 @@ import {
   getUniqueCourseLabels,
   getArticleSummaries,
 } from '@/lib/blog-course-map';
+import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 import { generateBreadcrumbSchema } from '@/lib/schemas';
 import { JsonLd } from '@/components/seo/JsonLd';
 
 export const metadata: Metadata = {
-  title: 'Cuadro de ejercicios del curso relacionados con el blog | Focus English',
+  title: `Cuadro de ejercicios del curso relacionados con el blog | ${SITE_BRAND_NAME}`,
   description:
     'Consulta la tabla completa que relaciona cada artículo del blog con las unidades interactivas del curso (A1–C2 y cursos por sector). Accede directamente a la unidad para practicar.',
   alternates: {
-    canonical: 'https://www.focus-on-english.com/blog/ejercicios-relacionados',
+    canonical: getAbsoluteUrl('/blog/ejercicios-relacionados'),
   },
 };
 
@@ -32,9 +33,9 @@ export default async function BlogExerciseMapPage({ searchParams }: PageProps) {
   const articleSummaries = getArticleSummaries();
 
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: 'Inicio', url: 'https://www.focus-on-english.com' },
-    { name: 'Blog', url: 'https://www.focus-on-english.com/blog' },
-    { name: 'Ejercicios relacionados', url: 'https://www.focus-on-english.com/blog/ejercicios-relacionados' },
+    { name: 'Inicio', url: getSiteUrl() },
+    { name: 'Blog', url: getAbsoluteUrl("/blog") },
+    { name: 'Ejercicios relacionados', url: getAbsoluteUrl('/blog/ejercicios-relacionados') },
   ]);
 
   return (

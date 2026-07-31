@@ -38,7 +38,7 @@ faqs:
       "The data was analyzed using...", "A questionnaire was designed to measure..."
       Evita frases en activa como "We did this" o "I used this method" a menos
       que el estilo de tu disciplina lo permita explícitamente.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pasiva-ingles-textos-academicos'
+canonical: 'https://linguafly.app/blog/gramatica/pasiva-ingles-textos-academicos'
 ---
 
 Si has intentado leer un artículo científico en inglés o escribir un ensayo académico, habrás notado algo: la voz pasiva está en todas partes. No es casualidad ni es un capricho estilístico. En el inglés académico, la pasiva cumple una función precisa: dar objetividad, centrar el foco en los procesos y resultados, y mantener el tono impersonal que se espera en la escritura científica y formal.

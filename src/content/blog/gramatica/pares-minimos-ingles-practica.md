@@ -23,7 +23,7 @@ faqs:
   - question: ¿Qué es mejor, practicar percepción o producción?
     answer: >-
       Lo ideal es empezar por la percepción: si no puedes distinguir dos sonidos al oírlos, tampoco podrás producirlos correctamente. Primero entrena el oído con ejercicios de identificación. Cuando el oído discrimina bien, pasa a la producción. Muchos estudiantes hacen el error contrario: intentan producir antes de percibir, y el resultado es una producción sin feedback sensorial real.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pares-minimos-ingles-practica'
+canonical: 'https://linguafly.app/blog/gramatica/pares-minimos-ingles-practica'
 ---
 
 La fonética experimental tiene formas muy sofisticadas de estudiar los sonidos: espectrogramas, palatogramas, análisis acústico computerizado. Pero cuando se trata de enseñar la distinción entre fonemas a estudiantes de idiomas, la técnica sigue siendo básicamente la misma desde hace décadas: los pares mínimos.

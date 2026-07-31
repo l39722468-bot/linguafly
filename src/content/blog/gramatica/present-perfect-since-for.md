@@ -23,7 +23,7 @@ faqs:
   - question: ¿"How long" siempre va con present perfect?
     answer: >-
       Cuando pregunta sobre una situación que sigue en el presente, sí: "How long have you lived here?" Pero también puede ir con past simple si la situación ya terminó: "How long did you live there?" (cuando ya no vives allí).
-canonical: 'https://www.focus-on-english.com/blog/gramatica/present-perfect-since-for'
+canonical: 'https://linguafly.app/blog/gramatica/present-perfect-since-for'
 ---
 
 De todos los errores que cometen los hispanohablantes con el present perfect, el de since y for es de los más frecuentes — y también de los más fáciles de corregir una vez que entiendes la lógica.

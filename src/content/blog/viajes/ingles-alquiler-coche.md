@@ -29,7 +29,7 @@ faqs:
     answer: 'Es la franquicia: el máximo que pagas tú si dañas el coche. Puede ir de 800 € a 3.000 € según la categoría y el país. Con una CDW/SCDW reducida o un seguro externo de excess, bajas esa franquicia a cero o a una cifra simbólica.'
   - question: '¿Cómo pregunto en una gasolinera en EE. UU. en inglés?'
     answer: 'En la mayoría de gasolineras tienes que prepagar dentro: "I’d like to pay for pump number five, please. I’m going to put in thirty dollars of regular." En Europa sueles repostar primero y pagar después: "Pump four, please." Confirma el tipo de combustible con "Is this unleaded / diesel?"'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-alquiler-coche'
+canonical: 'https://linguafly.app/blog/viajes/ingles-alquiler-coche'
 ---
 
 Alquilar un coche en otro país parece sencillo hasta que llegas al mostrador. El agente te habla rápido, menciona seis tipos de seguro con siglas, te pregunta por combustible, categoría, extras, y tú necesitas responder **sin dudar** para no acabar pagando el doble de lo previsto. Si además conducen por el otro lado (Reino Unido, Irlanda, Australia), el nivel de concentración sube otro escalón.

@@ -27,7 +27,7 @@ faqs:
   - question: '¿Qué vocabulario es obligatorio para el nivel C1 Advanced?'
     answer: 'Un candidato C1 debe abandonar palabras genéricas y usar sinónimos precisos: en lugar de "good" usa "beneficial", "outstanding" o "superb"; en lugar de "bad" usa "detrimental", "appalling" o "dire". También son esenciales phrasal verbs formales como "account for", "give rise to", "draw on" y "fall short of".'
 
-canonical: 'https://www.focus-on-english.com/blog/examenes/cambridge-c1-advanced-guia'
+canonical: 'https://linguafly.app/blog/examenes/cambridge-c1-advanced-guia'
 ---
 
 El **C1 Advanced (CAE)** de Cambridge es el examen que marca la diferencia entre un usuario competente y un usuario experto. A diferencia del [B2 First](/blog/examenes/cambridge-b2-first-estrategias-aprobar), donde la corrección gramatical es el objetivo principal, en el nivel C1 se espera que demuestres **sofisticación, matices y flexibilidad lingüística**. Es el título que abre las puertas a las mejores universidades del mundo y a puestos de alta dirección en multinacionales.

@@ -26,7 +26,7 @@ faqs:
   - question: ¿Qué pasa con "will" en reported speech?
     answer: >-
       "Will" se convierte en "would" en el backshift estándar. Pero si el evento futuro todavía no ha ocurrido cuando hablas, puedes mantener "will": "She said she will call tomorrow" (y todavía es mañana). "She said she would call" es siempre correcto, pero "will" también funciona si el futuro sigue siendo futuro.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/reported-speech-backshift-excepciones'
+canonical: 'https://linguafly.app/blog/gramatica/reported-speech-backshift-excepciones'
 ---
 
 El **backshift** es probablemente la primera regla que aprendes sobre reported speech: cuando transformas el estilo directo en indirecto, el tiempo verbal retrocede un paso. Present simple → past simple. Will → would. Can → could.

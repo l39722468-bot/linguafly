@@ -10,7 +10,7 @@ description: >-
 category: trabajo
 alt: Médico especialista revisando literatura médica científica en inglés
 canonical: >-
-  https://www.focus-on-english.com/blog/trabajo/ingles-medico-para-medicos-especialistas
+  https://linguafly.app/blog/trabajo/ingles-medico-para-medicos-especialistas
 readTime: 5 min
 keywords:
   - 'Inglés Médico para Médicos'
@@ -178,7 +178,7 @@ En situaciones difíciles, el protocolo SPIKES es el estándar en medicina angl�
 - **Revistas de lectura habitual:** The New England Journal of Medicine, The Lancet, BMJ
 - **Podcasts médicos en inglés:** The BMJ podcast, NEJM This Week, JACC Podcasts
 - **Plataformas de educación médica:** UpToDate, Medscape (ambas en inglés)
-- **Preparación OET/IELTS para médicos:** Clases especializadas en Focus English
+- **Preparación OET/IELTS para médicos:** Clases especializadas en Linguafly
 
 [👉 Comunícate con excelencia en cualquier entorno médico internacional. Programa tu clase de inglés médico](/cuenta/registro?plan=work)
 

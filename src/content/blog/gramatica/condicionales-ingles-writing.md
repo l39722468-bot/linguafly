@@ -38,7 +38,7 @@ faqs:
       to contact us" es muy frecuente al final de emails corporativos formales.
       Es perfectamente natural y añade un toque de sofisticación. La inversión
       con "Had" o "Were" es más adecuada para propuestas escritas o informes.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/condicionales-ingles-writing'
+canonical: 'https://linguafly.app/blog/gramatica/condicionales-ingles-writing'
 ---
 
 En writing, los condicionales hacen más que demostrar conocimiento gramatical. Te permiten argumentar con matices, proponer alternativas, hacer predicciones responsables y formular peticiones sin sonar brusco. Saber cuándo usar cada tipo cambia la calidad percibida de tu texto.

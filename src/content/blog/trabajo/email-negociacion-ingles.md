@@ -41,7 +41,7 @@ faqs:
       creíble. "We're very interested in moving forward. Would there be any
       flexibility on the pricing?" es completamente profesional y no resulta
       agresivo.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/email-negociacion-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/email-negociacion-ingles'
 ---
 
 La negociación por email en inglés requiere un equilibrio preciso: ser claro sin ser agresivo, firme sin ser rígido, y cortés sin parecer débil. La buena noticia es que hay estructuras y frases que funcionan casi siempre.

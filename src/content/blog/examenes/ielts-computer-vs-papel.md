@@ -23,7 +23,7 @@ faqs:
   - question: ¿El IELTS por ordenador es más fácil?
     answer: >-
       No. La dificultad es exactamente la misma. Lo que cambia es el formato de entrega. Para algunas personas el ordenador facilita el Writing porque escriben más rápido. Para otras, la pantalla dificulta la concentración en el Reading. Depende del candidato.
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-computer-vs-papel'
+canonical: 'https://linguafly.app/blog/examenes/ielts-computer-vs-papel'
 ---
 
 Cuando te inscribes al IELTS, una de las primeras decisiones que tienes que tomar es el formato: ¿en papel o por ordenador? Muchos candidatos lo eligen sin pensarlo mucho, basándose en la disponibilidad de fechas o en lo que les dice el centro más cercano.

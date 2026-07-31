@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useRouter } from "next/navigation";
 import { useState, useEffect } from "react";
 import { getUser, signOut, onAuthStateChange } from "@/lib/auth-helpers";
+import { SITE_BRAND_NAME } from "@/lib/site-brand";
 
 const COURSE_LINKS = [
   { label: "A1", href: "/curso-a1" },
@@ -59,9 +60,9 @@ export function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group">
             <div className="w-10 h-10 rounded-2xl bg-gradient-to-br from-[#FF6B6B] to-[#FF8E53] flex items-center justify-center text-white font-black text-xl shadow-coral transform group-hover:scale-110 transition-transform">
-              F
+              L
             </div>
-            <span className="text-xl font-black bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] bg-clip-text text-transparent">Focus English</span>
+            <span className="text-xl font-black bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] bg-clip-text text-transparent">{SITE_BRAND_NAME}</span>
           </Link>
 
           {/* Desktop Navigation */}

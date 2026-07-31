@@ -36,7 +36,7 @@ faqs:
       Sí, la IA puede reducir el tiempo de aprendizaje hasta en un 30% al
       proporcionar feedback instantáneo y personalización absoluta, eliminando
       los tiempos muertos de las clases grupales tradicionales.
-canonical: 'https://www.focus-on-english.com/blog/metodos/cuanto-se-tarda-en-aprender-ingles'
+canonical: 'https://linguafly.app/blog/metodos/cuanto-se-tarda-en-aprender-ingles'
 ---
 
 ## ¿Cuánto se tarda en aprender inglés realmente? La Guía Definitiva

@@ -21,7 +21,7 @@ faqs:
     answer: 'Usa fórmulas normalizadas en entornos tech: “Sorry, I didn’t catch the last part — could you repeat that?” o “Could you spell the name of the tool, please?” Enfoca el problema en ruido de audio o en término técnico, no en la persona.'
   - question: '¿El inglés escrito cambia mucho?'
     answer: 'En correos corporativos suele predominar el estándar internacional. Puedes notar matices léxicos británicos (*holiday*, *autumn*) y expresiones suaves locales en chat informal, pero raramente slang marcado en documentos formales.'
-canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-irlanda-trabajo-remoto-reuniones-acento'
+canonical: 'https://linguafly.app/blog/trabajo/ingles-irlanda-trabajo-remoto-reuniones-acento'
 ---
 
 Irlanda, y en particular el eje de Dublín, concentra sedes europeas de tecnología, finanzas y farmacia. Si tu calendario de Teams o Zoom incluye **stand-ups** con compañeros en Rathmines o Sandyford, notarás algo enseguida: el inglés sigue siendo “inglés”, pero la **melodía, la velocidad y los marcadores de turno** no son idénticos a los de una call totalmente estadounidense. Esta guía te da **protocolos** para mantener autoridad profesional mientras afinas el oído al acento irlandés.

@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cómo se diferencia "go through" de "go over"?
     answer: >-
       Go through implica pasar por algo difícil o revisar algo en detalle (proceso completo). Go over significa revisar algo brevemente, repasarlo por encima. "Let's go over the notes" es un repaso rápido; "let's go through the report" sugiere un análisis más exhaustivo.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-with-go'
+canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-with-go'
 ---
 
 GO es el verbo de movimiento por excelencia, pero cuando se combina con partículas sus significados se multiplican y se alejan bastante del movimiento físico. *Go off* puede ser una alarma que suena, una comida que se estropea o una explosión. *Go through* puede ser pasar por un control de seguridad o atravesar una etapa muy dura de tu vida.

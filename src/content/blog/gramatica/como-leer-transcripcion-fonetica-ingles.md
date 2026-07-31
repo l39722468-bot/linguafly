@@ -23,7 +23,7 @@ faqs:
   - question: ¿Hay diferencia entre la transcripción del inglés americano y el británico?
     answer: >-
       Sí. La diferencia más notable en la transcripción es la /r/: el inglés americano tiene /r/ en posición postvocálica (car, her, more) donde el RP no la marca. También hay diferencias en algunas vocales: el /ɑː/ del RP británico aparece en palabras como "bath" donde el GA usa /æ/.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/como-leer-transcripcion-fonetica-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/como-leer-transcripcion-fonetica-ingles'
 ---
 
 Si alguna vez has intentado aprender la pronunciación correcta de una palabra mirando solo la ortografía, sabes lo frustrante que puede ser. *Thorough*, *choir*, *colonel*, *Wednesday*... el inglés tiene demasiadas trampas. La solución existe y está en cualquier buen diccionario: la transcripción fonética.

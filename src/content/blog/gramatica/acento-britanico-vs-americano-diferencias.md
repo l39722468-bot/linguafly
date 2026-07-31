@@ -23,7 +23,7 @@ faqs:
   - question: ¿Los británicos y los americanos se entienden entre sí?
     answer: >-
       Sí, totalmente. Las diferencias fonológicas son reales pero no impiden la comunicación. Hay diferencias de vocabulario (lift/elevator, flat/apartment, trainers/sneakers) que pueden crear momentos de confusión, pero la inteligibilidad mutua es prácticamente total. Las dificultades suelen venir de acentos regionales muy marcados (escocés, galés, del sur americano profundo) más que del RP o el General American.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/acento-britanico-vs-americano-diferencias'
+canonical: 'https://linguafly.app/blog/gramatica/acento-britanico-vs-americano-diferencias'
 ---
 
 La diferencia entre el inglés británico y el americano es uno de los temas que más interesa a los estudiantes de inglés, y uno de los que más se sobredimensiona. Las diferencias son reales y sistemáticas, pero no son tan abismales como a veces se piensa. Un hablante competente de cualquiera de los dos entiende al otro sin dificultad.

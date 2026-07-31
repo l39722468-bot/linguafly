@@ -21,7 +21,7 @@ faqs:
   - question: '¿Sustituye a un curso de autoestudio con app?'
     answer: >-
       No compiten: la app da rutina; Preply da feedback personalizado. Lo ideal es combinar material estructurado con clases que corrijan tus puntos débiles.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-online-preply'
+canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-preply'
 ---
 
 # Preply 2026: tutores para IELTS y Cambridge
@@ -117,7 +117,7 @@ En ciertos papers de Cambridge interactúas con otro candidato. Puedes pedir al 
 
 ### Cuándo Preply no es la mejor opción
 
-Si necesitas **currículo cerrado**, comunidad y progresión sin gestionar tutores, quizá te irá mejor una escuela online tipo [Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda) o [EF English Live](/blog/metodos/mejores-cursos-ingles-online-ef-english-live). Para **guías gratuitas** en paralelo, el [blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) es recurso editorial, no sustituto de esas plataformas. Preply brilla cuando quieres **quirúrgico**: corregir tres tipos de error que te bajan la nota.
+Si necesitas **currículo cerrado**, comunidad y progresión sin gestionar tutores, quizá te irá mejor una escuela online tipo [Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda) o [EF English Live](/blog/metodos/mejores-cursos-ingles-online-ef-english-live). Para **guías gratuitas** en paralelo, el [blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) es recurso editorial, no sustituto de esas plataformas. Preply brilla cuando quieres **quirúrgico**: corregir tres tipos de error que te bajan la nota.
 
 ### Gestión emocional: el coste oculto
 

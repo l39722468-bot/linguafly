@@ -12,7 +12,7 @@ alt: Gran crucero atracado en un puerto mediterráneo con viajeros embarcando
 keywords:
   - 'Inglés para Cruceros y Viajes en Barco'
   - 'ingles para cruceros'
-canonical: 'https://www.focus-on-english.com/blog/viajes/ingles-cruceros-viaje-barco'
+canonical: 'https://linguafly.app/blog/viajes/ingles-cruceros-viaje-barco'
 faqs:
   - question: ¿Necesito buen nivel de inglés para un crucero?
     answer: >-

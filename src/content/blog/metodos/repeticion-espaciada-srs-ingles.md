@@ -29,7 +29,7 @@ faqs:
   - question: '¿Duolingo usa repetición espaciada?'
     answer: >-
       Duolingo incorpora elementos de repetición espaciada en su sistema de revisión ("práctica"), pero su implementación es mucho más simple e inconsistente que la de Anki. Duolingo prioriza el diseño gamificado sobre la optimización del aprendizaje. Si tu objetivo es retener vocabulario a largo plazo, Anki con SRS real es significativamente más efectivo.
-canonical: 'https://www.focus-on-english.com/blog/metodos/repeticion-espaciada-srs-ingles'
+canonical: 'https://linguafly.app/blog/metodos/repeticion-espaciada-srs-ingles'
 ---
 
 ## Repetición Espaciada para Inglés: El Método Científico de Memorización

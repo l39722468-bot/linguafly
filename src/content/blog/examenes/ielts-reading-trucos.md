@@ -23,7 +23,7 @@ faqs:
   - question: ¿Las respuestas del IELTS Reading van siempre en orden en el texto?
     answer: >-
       En la mayoría de tipos de pregunta, sí. Esto te permite localizar las respuestas de forma progresiva en el texto en lugar de releerlo entero para cada pregunta.
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-reading-trucos'
+canonical: 'https://linguafly.app/blog/examenes/ielts-reading-trucos'
 ---
 
 El IELTS Reading Academic tiene tres textos de entre 650 y 900 palabras cada uno, extraídos de revistas académicas, periódicos de calidad o libros de divulgación. En total, 40 preguntas en 60 minutos. Eso es menos de un minuto y medio por pregunta si los distribuyes de forma lineal, lo cual en la práctica no funciona.

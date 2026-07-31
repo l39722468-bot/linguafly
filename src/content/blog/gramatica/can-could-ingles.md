@@ -26,7 +26,7 @@ faqs:
   - question: ¿Qué diferencia hay entre "can't be" y "couldn't be"?
     answer: >-
       "Can't be" expresa imposibilidad en el presente: "That can't be right — the numbers don't add up." "Couldn't be" puede referirse al pasado o a una situación hipotética: "That couldn't be her — she's abroad this week." También aparece en comparativas: "I couldn't be happier."
-canonical: 'https://www.focus-on-english.com/blog/gramatica/can-could-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/can-could-ingles'
 ---
 
 Antes de entrar en detalles, hay algo que conviene aclarar: **can** y **could** no son simplemente "puedo" y "podía". Si los reduces a esa traducción, te vas a perder la mitad de sus usos — y vas a cometer errores que suenan bastante raros en inglés real.

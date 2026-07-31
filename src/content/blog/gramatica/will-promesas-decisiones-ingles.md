@@ -26,7 +26,7 @@ faqs:
   - question: ¿Se puede prometer algo usando would?
     answer: >-
       Would se usa en promesas en pasado o en reportaje: "She promised she would call" (ella prometió que llamaría). En el momento de la promesa, usas will. Would también aparece en promesas muy formales o en frases condicionales: "I would do anything for you" — pero esto es más una declaración de intención que una promesa concreta.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/will-promesas-decisiones-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/will-promesas-decisiones-ingles'
 ---
 
 De todos los usos de *will*, dos son especialmente frecuentes en la conversación cotidiana: las promesas y las decisiones espontáneas. Los dos comparten la misma lógica: la acción se decide en el momento de hablar, no antes.

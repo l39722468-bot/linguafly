@@ -20,8 +20,8 @@ faqs:
       El contenido suele inclinar el oído y vocabulario hacia el inglés británico; interesa si tu examen o destino académico favorece UK.
   - question: '¿Compite con Babbel o Duolingo?'
     answer: >-
-      Está más cerca de un curso estructurado multimedia que de un juego puro. Para exámenes, valóralo frente a tutorías en Preply o material editorial en el blog Focus English como apoyo, no como sustituto de feedback humano.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-cursos-ingles-online-aba-english'
+      Está más cerca de un curso estructurado multimedia que de un juego puro. Para exámenes, valóralo frente a tutorías en Preply o material editorial en el blog Linguafly como apoyo, no como sustituto de feedback humano.
+canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-aba-english'
 ---
 
 # ABA English 2026: curso británico y exámenes
@@ -45,7 +45,7 @@ Para un **B2 First**, **C1 Advanced** o **IELTS**, necesitas:
 1. Nivel de idioma adecuado (grammar + vocabulario + skills).
 2. Entrenamiento de **examen** (formato, estrategia).
 
-ABA cubre bien el punto 1 si eres constante. Para el punto 2, probablemente necesites **material Cambridge**, **past papers** o **clases específicas** ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply)); el [blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) complementa con guías, no con matrícula de curso.
+ABA cubre bien el punto 1 si eres constante. Para el punto 2, probablemente necesites **material Cambridge**, **past papers** o **clases específicas** ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply)); el [blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) complementa con guías, no con matrícula de curso.
 
 ---
 
@@ -104,7 +104,7 @@ Usa el contenido de ABA como **input**, pero genera **output** nuevo: resume cad
 
 - [Babbel](/blog/metodos/mejores-cursos-ingles-online-babbel): más seco y modular; ABA suele ser más cinematográfico.
 - [British Council](/blog/metodos/mejores-cursos-ingles-online-british-council): más institucional y menos “app de consumo”.
-- [Blog Focus English](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): artículos y recursos gratuitos; para conversación intensa con feedback, [Preply](/blog/metodos/mejores-cursos-ingles-online-preply) o [Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda).
+- [Blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): artículos y recursos gratuitos; para conversación intensa con feedback, [Preply](/blog/metodos/mejores-cursos-ingles-online-preply) o [Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda).
 
 ### Antes de renovar la suscripción anual
 

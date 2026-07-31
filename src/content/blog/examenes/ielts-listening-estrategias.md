@@ -23,7 +23,7 @@ faqs:
   - question: ¿Penalizan los errores de ortografía en el Listening?
     answer: >-
       Sí. Si la respuesta correcta es "psychology" y escribes "psicology", la respuesta se da por incorrecta. Para nombres propios y palabras técnicas, el audio suele deletrearlos. Escúchalo con atención.
-canonical: 'https://www.focus-on-english.com/blog/examenes/ielts-listening-estrategias'
+canonical: 'https://linguafly.app/blog/examenes/ielts-listening-estrategias'
 ---
 
 El IELTS Listening dura 30 minutos de audio más 10 minutos para transferir las respuestas al formulario de respuestas. Se escucha una sola vez. Eso significa que si pierdes el hilo en la sección 2, no hay forma de recuperar las respuestas que te has perdido.

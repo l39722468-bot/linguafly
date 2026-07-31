@@ -39,7 +39,7 @@ faqs:
       con el que se realiza la acción: "The wound was cleaned with antiseptic."
       Un error frecuente es decir "The cake was made by flour" cuando debería
       ser "The cake was made with flour."
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pasiva-ingles-errores-comunes'
+canonical: 'https://linguafly.app/blog/gramatica/pasiva-ingles-errores-comunes'
 ---
 
 La voz pasiva tiene una lógica clara, pero hay una serie de errores que aparecen una y otra vez en los textos de estudiantes de inglés, sin importar el nivel. No son errores de comprensión profunda: son detalles que se escapan y que, una vez identificados, se corrigen de forma definitiva.

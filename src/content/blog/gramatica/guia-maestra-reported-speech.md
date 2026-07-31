@@ -12,7 +12,7 @@ readTime: 5 min
 keywords:
   - 'Guia Maestra de Reported Speech'
   - 'reported speech'
-canonical: 'https://www.focus-on-english.com/blog/gramatica/guia-maestra-reported-speech'
+canonical: 'https://linguafly.app/blog/gramatica/guia-maestra-reported-speech'
 alt: Guía maestra sobre estilo indirecto en inglés
 faqs:
   - question: '¿Guía Maestra de Reported Speech y Reporting Verbs?'

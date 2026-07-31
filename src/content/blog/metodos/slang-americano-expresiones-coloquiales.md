@@ -22,7 +22,7 @@ faqs:
   - question: 'Cómo No Parecer Forzado al Usar Slang?'
     answer: 'El slang solo funciona cuando surge de forma natural. Consejos:'
 
-canonical: 'https://www.focus-on-english.com/blog/metodos/slang-americano-expresiones-coloquiales'
+canonical: 'https://linguafly.app/blog/metodos/slang-americano-expresiones-coloquiales'
 ---
 
 Incluso si tienes un nivel B2 de inglés, es probable que pierdas bastantes conversaciones con americanos jóvenes. El **slang americano** evoluciona constantemente, especialmente con la influencia de las redes sociales, el hip-hop y la cultura de internet.

@@ -42,7 +42,7 @@ faqs:
       ello. Céntrate en lo que sí tienes: formación, habilidades, proyectos,
       motivación genuina por el sector. La honestidad sobre tu nivel de
       experiencia es buena; la inseguridad excesiva no lo es.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/entrevista-ingles-sin-experiencia'
+canonical: 'https://linguafly.app/blog/trabajo/entrevista-ingles-sin-experiencia'
 ---
 
 Una de las situaciones más comunes entre candidatos que hablan inglés como segundo idioma: llegar a una entrevista con un nivel de inglés decente pero sin saber qué contar porque "no tienen experiencia". La buena noticia es que los entrevistadores de perfiles junior no esperan lo mismo que de un candidato sénior. Esperan otra cosa: potencial, actitud y claridad.

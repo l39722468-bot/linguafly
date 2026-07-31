@@ -12,7 +12,7 @@ readTime: 6 min
 keywords:
   - 'Curso de Inglés A2 Online: Domina'
   - 'curso inglés a2'
-canonical: 'https://www.focus-on-english.com/blog/metodos/ingles-a2'
+canonical: 'https://linguafly.app/blog/metodos/ingles-a2'
 related_routes:
   - ingles-a1
   - ingles-b1

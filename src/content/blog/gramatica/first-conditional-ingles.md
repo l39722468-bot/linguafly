@@ -34,7 +34,7 @@ faqs:
       help, I'll be happy to assist"), advertencias ("If you touch that, you'll
       regret it") y negociaciones ("If you lower the price, we'll sign today").
       Son situaciones reales y concretas, no simples hipótesis.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/first-conditional-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/first-conditional-ingles'
 ---
 
 *"If it rains tomorrow, I will stay at home."*

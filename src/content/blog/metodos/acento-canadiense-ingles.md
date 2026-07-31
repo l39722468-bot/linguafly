@@ -26,7 +26,7 @@ faqs:
     answer: '"Eh" es probablemente el marcador discursivo más asociado al inglés canadiense en la cultura popular. Funciona como marcador de confirmación al final de una frase (similar al "¿verdad?" español o al "innit" del Cockney), como invitación a que el interlocutor responda, o como señal de que el hablante quiere mantener el turno de palabra. "Nice day, eh?" = "Buen día, ¿verdad?". "I was late, eh, so I had to run" usa "eh" como marcador discursivo sin buscar confirmación. Todos los hablantes del inglés usan partículas similares, pero en el canadiense la frecuencia y los contextos de uso de "eh" son más amplios que en el americano.'
   - question: '¿El inglés canadiense toma palabras del francés?'
     answer: 'Algunos, especialmente en Quebec y en las regiones con fuerte presencia francoparlante. "Dépanneur" (tienda de conveniencia, abreviado como "dep"), "poutine" (el plato de papas fritas con queso y salsa), "tuque" o "toque" (gorro de lana), "serviette" (servilleta, del francés, en vez del "napkin" americano). En Ontario y el oeste de Canadá, las palabras directamente del francés son menos frecuentes en el habla cotidiana, aunque topónimos, instituciones y referencias culturales en francés están presentes en todo el país.'
-canonical: 'https://www.focus-on-english.com/blog/metodos/acento-canadiense-ingles'
+canonical: 'https://linguafly.app/blog/metodos/acento-canadiense-ingles'
 ---
 
 Si alguna vez has visto *Schitt's Creek*, *Letterkenny* o una entrevista con Justin Trudeau y has pensado "esto suena casi como americano pero hay algo diferente", tienes el oído bien calibrado. El inglés canadiense y el americano comparten mucho territorio fonético, pero tienen diferencias reales que los hacen distinguibles cuando sabes qué escuchar.

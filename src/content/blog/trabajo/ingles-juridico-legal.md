@@ -33,7 +33,7 @@ faqs:
       DEBE hacer algo), mientras que "may" expresa permiso o discrecionalidad
       (la parte PUEDE hacer algo si lo desea). Esta distinción es fundamental en
       la redacción de contratos.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/ingles-juridico-legal'
+canonical: 'https://linguafly.app/blog/trabajo/ingles-juridico-legal'
 description: >
   Vocabulario esencial de inglés jurídico y legal para abogados, asesores y profesionales del derecho. Contratos, cláusulas, terminología procesal y comunicación en despachos internacionales.
 ---
@@ -241,9 +241,9 @@ El sistema jurídico anglosajón tiene conceptos sin equivalente directo en el d
 
 ---
 
-## 🎓 Domina el Inglés Jurídico con Focus English
+## 🎓 Domina el Inglés Jurídico con Linguafly
 
-El Legal English es un campo especializado que requiere formación específica. En **Focus English** disponemos de recursos y formadores con experiencia en inglés jurídico para ayudarte a comunicarte con total precisión en contextos legales internacionales.
+El Legal English es un campo especializado que requiere formación específica. En **Linguafly** disponemos de recursos y formadores con experiencia en inglés jurídico para ayudarte a comunicarte con total precisión en contextos legales internacionales.
 
 [**👉 Accede a nuestros recursos de Business English Especializado**](/cuenta/registro?plan=work)
 

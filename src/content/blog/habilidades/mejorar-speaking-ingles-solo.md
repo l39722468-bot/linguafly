@@ -27,7 +27,7 @@ faqs:
     answer: 'Con matices. ChatGPT te da feedback escrito, no oral. Útil para generar preguntas, corregir estructuras y darte frases modelo. Para pronunciación, necesitas herramientas con reconocimiento de voz (Elsa Speak, Google Pronunciation).'
   - question: '¿Es normal que me dé vergüenza oírme?'
     answer: 'Completamente normal. Todos odiamos cómo sonamos grabados, en cualquier idioma. Pero es la herramienta más eficaz que tienes: la vergüenza se pasa en dos semanas y lo que queda es un diagnóstico brutalmente útil.'
-canonical: 'https://www.focus-on-english.com/blog/habilidades/mejorar-speaking-ingles-solo'
+canonical: 'https://linguafly.app/blog/habilidades/mejorar-speaking-ingles-solo'
 ---
 
 La queja más frecuente de los estudiantes de inglés intermedios no es "no sé gramática" ni "me falta vocabulario": es **"lo entiendo todo pero no hablo"**. Y la respuesta de muchos es buscar un intercambio, pagar clases particulares o apuntarse a una academia. Opciones válidas —pero ninguna necesaria para progresar.

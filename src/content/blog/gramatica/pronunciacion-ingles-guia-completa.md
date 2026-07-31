@@ -26,7 +26,7 @@ faqs:
   - question: '¿Debo aprender el Alfabeto Fonético Internacional (IPA) para mejorar la pronunciación?'
     answer: 'No es obligatorio, pero conocer los símbolos básicos (/ə/, /θ/, /ð/, /æ/, /ɪ/, /iː/) te hace mucho más eficiente al consultar diccionarios y guías de pronunciación. Con unos 10-15 símbolos clave puedes entender cualquier transcripción fonética del diccionario Cambridge o Oxford.'
 
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pronunciacion-ingles-guia-completa'
+canonical: 'https://linguafly.app/blog/gramatica/pronunciacion-ingles-guia-completa'
 ---
 
 La **pronunciación en inglés** es el área que más frustra a los estudiantes hispanohablantes. A diferencia del español, el inglés no es un idioma fonético: la relación entre escritura y sonido es compleja e irregular. Sin embargo, existen patrones y reglas que, una vez interiorizados, transforman radicalmente tu fluidez.

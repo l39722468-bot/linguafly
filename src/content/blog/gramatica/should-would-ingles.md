@@ -26,7 +26,7 @@ faqs:
   - question: ¿"I would like" es más educado que "I want"?
     answer: >-
       Sí, considerablemente. "I want a coffee" suena directo y un poco brusco fuera de un contexto muy informal. "I'd like a coffee" es la forma estándar en la mayoría de situaciones. "I would love..." añade más entusiasmo. En pedidos formales o con desconocidos, usa siempre would like.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/should-would-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/should-would-ingles'
 ---
 
 De todos los verbos modales del inglés, **should** y **would** son dos de los que más aparecen en el inglés cotidiano — y también dos de los que más confusión generan, porque cada uno tiene varios usos bastante distintos entre sí.

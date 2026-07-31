@@ -14,7 +14,7 @@ excerpt: >-
 category: examenes
 alt: Candidato preparando el IELTS con materiales de estudio y práctica de speaking
 canonical: >-
-  https://www.focus-on-english.com/blog/examenes/preparar-ielts-desde-b2
+  https://linguafly.app/blog/examenes/preparar-ielts-desde-b2
 readTime: 6 min
 keywords:
   - 'Cómo Preparar el IELTS desde B2 en 3 Meses'

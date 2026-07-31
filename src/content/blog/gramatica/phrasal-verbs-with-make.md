@@ -23,7 +23,7 @@ faqs:
   - question: ¿Cuál es la diferencia entre "make do" y "make do with"?
     answer: >-
       Son la misma expresión. "Make do" significa apañarse con lo que tienes. "Make do with" especifica con qué: "We'll have to make do with what we have." La versión con "with" es más completa.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/phrasal-verbs-with-make'
+canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-with-make'
 ---
 
 MAKE es uno de los verbos más básicos del inglés —todo el mundo aprende *make a cake*, *make a mistake* en los primeros niveles— pero sus combinaciones con partículas son otra historia. *Make up* puede significar inventar, reconciliarse o maquillarse dependiendo del contexto. *Make out* puede ser distinguir algo visualmente o entender algo auditivamente. Un mismo verbo con múltiples vidas.

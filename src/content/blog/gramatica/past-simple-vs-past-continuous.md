@@ -23,7 +23,7 @@ faqs:
   - question: ¿El Past Continuous existe en español?
     answer: >-
       Sí. El equivalente más cercano en español es el pretérito imperfecto para acciones en progreso: "estaba leyendo", "estaba cocinando". Pero el imperfecto español tiene más usos que el Past Continuous inglés (hábitos del pasado, por ejemplo), así que no son totalmente equivalentes.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/past-simple-vs-past-continuous'
+canonical: 'https://linguafly.app/blog/gramatica/past-simple-vs-past-continuous'
 ---
 
 Cuando narras algo que ocurrió en el pasado en inglés, raramente usas solo el past simple. Los buenos narradores — y los buenos escritores en inglés — combinan el past simple con el past continuous para crear textos más vivos y con más profundidad. El past continuous pinta el escenario; el past simple cuenta lo que pasó.

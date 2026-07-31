@@ -29,7 +29,7 @@ faqs:
   - question: '¿Qué diferencia hay entre BBC Learning English y otros recursos de la BBC?'
     answer: >-
       BBC Learning English (bbc.co.uk/learningenglish) es la plataforma diseñada específicamente para estudiantes de inglés como segunda lengua, con materiales pedagógicos, transcripciones, explicaciones de vocabulario y ejercicios. Es diferente de escuchar o ver la BBC normal (BBC News, BBC Radio, BBC iPlayer), que es contenido para nativos sin adaptación pedagógica. BBC Learning English usa el inglés real de la BBC pero lo adapta, contextualiza y acompaña de apoyo didáctico. El nivel ideal de progresión es: empezar con BBC Learning English → cuando te sientas cómodo, dar el salto a consumir la BBC "normal" sin andadera pedagógica.
-canonical: 'https://www.focus-on-english.com/blog/metodos/bbc-learning-english-guia-completa'
+canonical: 'https://linguafly.app/blog/metodos/bbc-learning-english-guia-completa'
 ---
 
 ## BBC Learning English: El Recurso Gratuito que Muchos Estudiantes Subestiman

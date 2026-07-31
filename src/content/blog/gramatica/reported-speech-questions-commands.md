@@ -13,7 +13,7 @@ keywords:
   - 'Reported Speech: Preguntas, Órdenes'
   - 'reported speech'
 canonical: >-
-  https://www.focus-on-english.com/blog/gramatica/reported-speech-questions-commands
+  https://linguafly.app/blog/gramatica/reported-speech-questions-commands
 alt: Preguntas y órdenes en estilo indirecto
 faqs:
   - question: '¿Qué es reported speech y cómo se usa?'
@@ -125,7 +125,7 @@ El éxito en el **Reported Speech** de preguntas y órdenes radica en la prácti
 [**Volver a la Guía Maestra de Reported Speech**](/blog/gramatica/guia-maestra-reported-speech)
 
 ---
-¿Quieres poner a prueba lo aprendido? En [**Focus English**](/cuenta/registro) tenemos cientos de ejercicios interactivos y PDFs descargables con soluciones para que domines el estilo indirecto de una vez por todas. ¡Únete a nuestra comunidad!
+¿Quieres poner a prueba lo aprendido? En [**Linguafly**](/cuenta/registro) tenemos cientos de ejercicios interactivos y PDFs descargables con soluciones para que domines el estilo indirecto de una vez por todas. ¡Únete a nuestra comunidad!
 
 ## Fuentes
 

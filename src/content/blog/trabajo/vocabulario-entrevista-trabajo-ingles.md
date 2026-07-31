@@ -39,7 +39,7 @@ faqs:
       potentes como "led", "implemented" o "delivered" en distintos contextos
       no suena repetitivo: suena consistente. Evita repetir palabras débiles
       y varía cuando uses las fuertes.
-canonical: 'https://www.focus-on-english.com/blog/trabajo/vocabulario-entrevista-trabajo-ingles'
+canonical: 'https://linguafly.app/blog/trabajo/vocabulario-entrevista-trabajo-ingles'
 ---
 
 El vocabulario en una entrevista en inglés funciona como un filtro. Las palabras que eliges revelan si conoces el entorno profesional anglosajón, si has preparado la entrevista en serio y si eres capaz de comunicarte con precisión. No hace falta un vocabulario extensísimo: hace falta el vocabulario correcto.

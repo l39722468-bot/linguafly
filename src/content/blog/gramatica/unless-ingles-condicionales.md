@@ -37,7 +37,7 @@ faqs:
       es más formal y se usa más en contextos legales, contractuales o escritos
       formales. "As long as" es más neutral y válido tanto en conversación como
       en escritura. Ambas introducen una condición necesaria para que algo ocurra.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/unless-ingles-condicionales'
+canonical: 'https://linguafly.app/blog/gramatica/unless-ingles-condicionales'
 ---
 
 Si llevas tiempo estudiando inglés, conoces "if". Pero hay toda una familia de conjunciones condicionales que te dan más precisión, más naturalidad y, en un examen, más puntuación. La más importante de todas es "unless", pero también hay que conocer "as long as", "provided that", "on condition that" y "only if".

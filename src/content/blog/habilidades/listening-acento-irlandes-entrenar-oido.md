@@ -22,7 +22,7 @@ faqs:
     answer: 'En exámenes tipo Cambridge o Aptis, el examinador no te penaliza por acento en la producción oral, pero en listening los acentos suelen ser variados e incluyen británico e irlandés. Entrenar el irlandés amplía tu tolerancia fonética: te resultará más fácil reconocer palabras con /r/ postvocálica, realizaciones de /th/ distintas y entonaciones con subidas no interrogativas.'
   - question: '¿Cuánto tiempo al día es realista?'
     answer: 'Veinte a treinta minutos diarios de escucha activa (con anotaciones, repeticiones y comprobación) superan dos horas pasivas de fondo. Esta guía está pensada para 25–40 minutos al día en la fase intensiva.'
-canonical: 'https://www.focus-on-english.com/blog/habilidades/listening-acento-irlandes-entrenar-oido'
+canonical: 'https://linguafly.app/blog/habilidades/listening-acento-irlandes-entrenar-oido'
 ---
 
 Si ya dominas series estadounidenses con subtítulos en inglés pero te bloqueas con una entrevista en vídeo desde Dublín, el problema casi nunca es tu “nivel global”: es la **falta de exposición específica** a una variedad con ritmo, vocales y entonación propios. El Hiberno-English —el inglés de Irlanda— combina rasgos que no aparecen con la misma frecuencia en el inglés general de Netflix. Entrenar el oído para esa variedad es un proyecto de **aclimatación fonética**, no de memorizar más palabras.

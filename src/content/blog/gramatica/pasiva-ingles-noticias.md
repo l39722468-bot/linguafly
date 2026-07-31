@@ -39,7 +39,7 @@ faqs:
       vincula con el presente: "A man has been arrested in connection with the
       attack." Esta segunda forma es más frecuente en noticias recientes porque
       implica que hay relevancia actual.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/pasiva-ingles-noticias'
+canonical: 'https://linguafly.app/blog/gramatica/pasiva-ingles-noticias'
 ---
 
 Si lees el *BBC*, el *Guardian*, el *New York Times* o cualquier medio en inglés con cierta regularidad, te habrás dado cuenta de que hay estructuras que se repiten constantemente. La pasiva es una de ellas. No es capricho: el periodismo en inglés tiene razones muy concretas para usar la pasiva, y entenderlas mejora tanto tu comprensión lectora como tu escritura formal.

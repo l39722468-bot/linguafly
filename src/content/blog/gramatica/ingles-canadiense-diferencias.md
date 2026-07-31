@@ -23,7 +23,7 @@ faqs:
   - question: ¿Canadá tiene zonas de habla francesa?
     answer: >-
       Sí. Quebec es la provincia de habla francesa mayoritaria, y hay comunidades francófonas en otras provincias. El inglés de Quebec tiene características propias por el contacto intenso con el francés. En el contexto de este artículo, nos centramos en el inglés canadiense de habla inglesa.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/ingles-canadiense-diferencias'
+canonical: 'https://linguafly.app/blog/gramatica/ingles-canadiense-diferencias'
 ---
 
 Ryan Reynolds, Drake, Jim Carrey, Celine Dion (en inglés): si te dijera que todos tienen un acento canadiense, probablemente no te parecería muy diferente del americano que escuchas todos los días. Y en cierto sentido tendrías razón: el inglés canadiense y el americano son mutuamente muy inteligibles.

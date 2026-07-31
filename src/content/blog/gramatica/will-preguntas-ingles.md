@@ -26,7 +26,7 @@ faqs:
   - question: ¿Puedo usar "will" para preguntar sobre el presente?
     answer: >-
       No directamente. Will siempre tiene orientación futura o de disposición. Si quieres preguntar sobre el presente, usas "is", "do", "can", etc. Sin embargo, en frases como "Will that be all?" (en una tienda), la pregunta es sobre el futuro inmediato o la decisión del interlocutor en ese momento.
-canonical: 'https://www.focus-on-english.com/blog/gramatica/will-preguntas-ingles'
+canonical: 'https://linguafly.app/blog/gramatica/will-preguntas-ingles'
 ---
 
 Cuando aprendes a usar *will* en afirmativo y negativo, el paso natural es aprender a hacer preguntas con él. La buena noticia: la estructura es muy regular y fácil de memorizar.

@@ -26,7 +26,7 @@ faqs:
   - question: '¿Cuáles son los mejores canales para aprender inglés desde cero?'
     answer: >-
       Para empezar desde cero (nivel A1-A2), los canales más recomendados son EnglishClass101, Learn English with TV Series (con subtítulos en inglés), BBC Learning English y Dreaming Spanish (método de inmersión). Son canales con vídeos cortos, explicaciones claras y contenido muy accesible para quien está empezando.
-canonical: 'https://www.focus-on-english.com/blog/metodos/mejores-canales-youtube-aprender-ingles'
+canonical: 'https://linguafly.app/blog/metodos/mejores-canales-youtube-aprender-ingles'
 ---
 
 ## YouTube para Aprender Inglés: El Recurso Gratuito Más Potente que Existe

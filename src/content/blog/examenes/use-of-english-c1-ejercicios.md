@@ -19,7 +19,7 @@ faqs:
     answer: "Varía según la parte. En las key word transformations (Parte 4), cada respuesta vale 0, 1 o 2 puntos, lo que la convierte en la parte con mayor peso relativo. En las demás partes, cada respuesta correcta suele valer 1 punto."
   - question: "¿Puedo practicar el Use of English online gratis?"
     answer: "Cambridge ofrece algunos materiales de muestra en su web oficial. También puedes encontrar ejercicios en plataformas como Flo-Joe o en los libros de práctica oficial de Collins y Macmillan."
-canonical: 'https://www.focus-on-english.com/blog/examenes/use-of-english-c1-ejercicios'
+canonical: 'https://linguafly.app/blog/examenes/use-of-english-c1-ejercicios'
 ---
 
 Si hay una parte del CAE que concentra más ansiedad que cualquier otra, esa es el **Use of English**. No porque sea imposible, sino porque mezcla gramática, vocabulario y lectura en un formato que no te encuentras en ningún otro contexto. Para cuando llegas a él en el examen, llevas ya un buen rato leyendo textos largos, y entonces tienes que activar un modo completamente diferente de procesar el idioma.

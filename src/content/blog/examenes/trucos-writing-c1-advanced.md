@@ -26,7 +26,7 @@ faqs:
     answer: >-
       Para ambas partes, la extensión recomendada es de entre 220 y 260
       palabras.
-canonical: 'https://www.focus-on-english.com/blog/examenes/trucos-writing-c1-advanced'
+canonical: 'https://linguafly.app/blog/examenes/trucos-writing-c1-advanced'
 ---
 
 ## 1. Abandona los Conectores Básicos
