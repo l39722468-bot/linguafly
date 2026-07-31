@@ -39,7 +39,7 @@ export function Navigation() {
     await signOut();
     setIsLoggedIn(false);
     setMobileMenuOpen(false);
-    router.push("/cuenta/login");
+    router.push("/");
     router.refresh();
   };
 
@@ -99,7 +99,7 @@ export function Navigation() {
             <Link href={navLinks.professionalCourses} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Cursos por sector
             </Link>
-            {isLoggedIn ? (
+            {isLoggedIn && (
               <>
                 <Link
                   href="/mi-panel"
@@ -115,31 +115,17 @@ export function Navigation() {
                   Cerrar sesión
                 </button>
               </>
-            ) : (
-              <Link
-                href="/cuenta/login"
-                className="ml-2 px-4 py-2 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-sm font-black text-white shadow-sm hover:shadow-md hover:scale-[1.02] transition-all"
-              >
-                Iniciar sesión
-              </Link>
             )}
           </div>
 
           {/* Mobile menu button */}
           <div className="flex items-center gap-2 md:hidden">
-            {isLoggedIn ? (
+            {isLoggedIn && (
               <Link
                 href="/mi-panel"
                 className="px-3 py-1.5 rounded-lg bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-xs font-black text-white"
               >
                 Mi Panel
-              </Link>
-            ) : (
-              <Link
-                href="/cuenta/login"
-                className="px-3 py-1.5 rounded-lg bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-xs font-black text-white"
-              >
-                Entrar
               </Link>
             )}
             <button
@@ -224,7 +210,7 @@ export function Navigation() {
               >
                 Cursos por sector
               </Link>
-              {isLoggedIn ? (
+              {isLoggedIn && (
                 <button
                   type="button"
                   onClick={handleLogout}
@@ -232,14 +218,6 @@ export function Navigation() {
                 >
                   Cerrar sesión
                 </button>
-              ) : (
-                <Link
-                  href="/cuenta/login"
-                  className="mt-2 inline-flex items-center justify-center px-4 py-3 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-sm font-black text-white text-center"
-                  onClick={() => setMobileMenuOpen(false)}
-                >
-                  Iniciar sesión
-                </Link>
               )}
             </div>
           </div>
