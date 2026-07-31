@@ -47,6 +47,24 @@ const CLIPS_BY_UNIT = {
     german: 'German.',
     'one-to-ten': 'One, two, three, four, five, six, seven, eight, nine, ten.',
   },
+  3: {
+    happy: 'Happy.',
+    sad: 'Sad.',
+    tired: 'Tired.',
+    hungry: 'Hungry.',
+    thirsty: 'Thirsty.',
+    angry: 'Angry.',
+    excited: 'Excited.',
+    fine: "I'm fine, thank you.",
+    'how-are-you': 'How are you?',
+    'i-am-not-tired': 'I am not tired.',
+    'she-isnt-happy': "She isn't happy.",
+    'are-you-hungry': 'Are you hungry?',
+    'is-he-sad': 'Is he sad?',
+    'yes-i-am': 'Yes, I am.',
+    'no-im-not': "No, I'm not.",
+    'they-arent-tired': "They aren't tired.",
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
