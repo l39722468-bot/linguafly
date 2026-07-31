@@ -15,6 +15,23 @@ const COURSE_LINKS = [
   { label: "C2", href: "/curso-c2" },
 ] as const;
 
+const EXERCISE_MAP_LINK_CLASSES =
+  "inline-flex w-[5.75rem] shrink-0 items-center justify-center text-center text-[11px] font-bold leading-[1.25] text-gray-700 hover:text-[#FF6B6B] transition-colors xl:w-[6.25rem] xl:text-xs";
+
+function ExerciseMapLinkLabel({ multiline = false }: { multiline?: boolean }) {
+  if (multiline) {
+    return (
+      <>
+        Cuadro de ejercicios
+        <br />
+        relacionados
+      </>
+    );
+  }
+
+  return <>Cuadro de ejercicios relacionados</>;
+}
+
 export function Navigation() {
   const router = useRouter();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
@@ -56,8 +73,8 @@ export function Navigation() {
 
   return (
     <nav className="sticky top-0 z-[9998] bg-white/95 backdrop-blur-lg border-b-2 border-[#FFE8D9] shadow-sm transition-colors">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center h-16">
+      <div className="max-w-[100rem] mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="flex justify-between items-center min-h-16 py-1">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2 group">
             <div className="w-10 h-10 rounded-2xl bg-gradient-to-br from-[#FF6B6B] to-[#FF8E53] flex items-center justify-center text-white font-black text-xl shadow-coral transform group-hover:scale-110 transition-transform">
@@ -67,7 +84,7 @@ export function Navigation() {
           </Link>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center gap-6">
+          <div className="hidden md:flex items-center gap-3 xl:gap-4">
             <div className="hidden lg:flex items-center gap-2">
               {COURSE_LINKS.map((course) => (
                 <Link
@@ -88,8 +105,8 @@ export function Navigation() {
             <Link href={navLinks.blog} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Blog
             </Link>
-            <Link href={navLinks.exerciseMap} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
-              Artículos y ejercicios
+            <Link href={navLinks.exerciseMap} className={EXERCISE_MAP_LINK_CLASSES}>
+              <ExerciseMapLinkLabel multiline />
             </Link>
             <Link href={navLinks.phrases} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Frases
@@ -190,7 +207,7 @@ export function Navigation() {
                 className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
                 onClick={() => setMobileMenuOpen(false)}
               >
-                Artículos y ejercicios
+                <ExerciseMapLinkLabel />
               </Link>
               <Link 
                 href={navLinks.phrases} 
