@@ -52,7 +52,9 @@
     "generate:vocabulario": "python3 scripts/generate-public-vocabulario.py",
     "translate:articles": "ts-node scripts/translate-articles.ts",
     "translate:articles:force": "ts-node scripts/translate-articles.ts --force",
-    "translate:articles:dry": "ts-node scripts/translate-articles.ts --dry-run"
+    "translate:articles:dry": "ts-node scripts/translate-articles.ts --dry-run",
+    "podcasts:sync-audio-manifest": "node scripts/sync-podcast-audio-manifest.mjs",
+    "podcasts:check-audio-manifest": "node scripts/sync-podcast-audio-manifest.mjs --check"
   },
   "dependencies": {
     "@radix-ui/react-avatar": "^1.1.11",

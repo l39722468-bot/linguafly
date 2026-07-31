@@ -239,4 +239,11 @@ for (const episode of episodes) {
 
 console.log('─'.repeat(50));
 console.log(`✅  Generated: ${generated}  ⏭️  Skipped: ${skipped}  ❌  Errors: ${errors}`);
+
+if (generated > 0) {
+  console.log('\n🔄  Sincronizando manifest de audio disponible...');
+  const { execSync } = await import('child_process');
+  execSync('node scripts/sync-podcast-audio-manifest.mjs', { cwd: ROOT, stdio: 'inherit' });
+}
+
 if (errors > 0) process.exit(1);

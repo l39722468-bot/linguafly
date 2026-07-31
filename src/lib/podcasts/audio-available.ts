@@ -1,4 +1,4 @@
-/** Episodios con MP3 generado en public/audio/podcasts/a1/ */
+/** Auto-generado por scripts/sync-podcast-audio-manifest.mjs — no editar a mano. */
 export const PODCAST_EPISODES_WITH_AUDIO = new Set([
   'a1-gen-02m-001',
   'a1-gen-02m-002',
