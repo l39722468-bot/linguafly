@@ -28,6 +28,25 @@ const CLIPS_BY_UNIT = {
     'what-is-your-name': 'What is your name?',
     'see-you-later': 'See you later.',
   },
+  2: {
+    he: 'He.',
+    she: 'She.',
+    it: 'It.',
+    we: 'We.',
+    they: 'They.',
+    'he-is-from-spain': 'He is from Spain.',
+    'she-is-spanish': 'She is Spanish.',
+    'they-are-from-brazil': 'They are from Brazil.',
+    'we-are-students': 'We are students.',
+    'it-is-a-book': 'It is a book.',
+    spain: 'Spain.',
+    mexico: 'Mexico.',
+    germany: 'Germany.',
+    spanish: 'Spanish.',
+    mexican: 'Mexican.',
+    german: 'German.',
+    'one-to-ten': 'One, two, three, four, five, six, seven, eight, nine, ten.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

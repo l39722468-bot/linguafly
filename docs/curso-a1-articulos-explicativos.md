@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 1 |
-| Artículos dedicados pendientes | 59 |
+| Artículos dedicados publicados | 2 |
+| Artículos dedicados pendientes | 58 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -34,7 +34,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
 | 1 | Greetings and Personal Information | *to be* (I/you), saludos, my/your | ✅ | [Saludos y presentarse A1](/blog/curso-a1/unidad-1-saludos-presentarse) |
-| 2 | Verb 'to be' and Subject Pronouns | *to be* he/she/it/we/they | ❌ | Pendiente |
+| 2 | Verb 'to be' and Subject Pronouns | *to be* he/she/it/we/they, nacionalidades | ✅ | [To be y pronombres A1](/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades) |
 | 3 | Verb 'to be': Negatives and Questions | Negativa e interrogativa *to be* | 🔶 | Solo fonética tangencial |
 | 4 | Essential Vocabulary: Numbers and Objects | a/an, plurales, this/that | 🔶 | Listening/fonética |
 | 5 | Simple Present: Everyday Actions | Present Simple afirmativo | 🔶 | Rutina/apps (no gramática) |
