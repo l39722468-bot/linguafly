@@ -1,0 +1,39 @@
+/** Episodios con MP3 generado en public/audio/podcasts/a1/ */
+export const PODCAST_EPISODES_WITH_AUDIO = new Set([
+  'a1-gen-02m-001',
+  'a1-gen-02m-002',
+  'a1-gen-02m-003',
+  'a1-gen-02m-004',
+  'a1-gen-02m-005',
+  'a1-gen-02m-006',
+  'a1-gen-05m-001',
+  'a1-gen-05m-002',
+  'a1-gen-05m-003',
+  'a1-gen-05m-004',
+  'a1-gen-05m-005',
+  'a1-gen-05m-006',
+  'a1-gen-10m-001',
+  'a1-gen-10m-002',
+  'a1-gen-10m-003',
+  'a1-gen-10m-004',
+  'a1-pro-02m-001',
+  'a1-pro-02m-002',
+  'a1-pro-02m-003',
+  'a1-pro-02m-004',
+  'a1-pro-05m-001',
+  'a1-pro-05m-002',
+  'a1-pro-05m-003',
+  'a1-pro-05m-004',
+  'a1-tra-02m-001',
+  'a1-tra-02m-002',
+  'a1-tra-02m-003',
+  'a1-tra-02m-004',
+  'a1-tra-05m-001',
+  'a1-tra-05m-002',
+  'a1-tra-05m-003',
+  'a1-tra-05m-004',
+])
+
+export function isPodcastAudioAvailable(episodeId: string): boolean {
+  return PODCAST_EPISODES_WITH_AUDIO.has(episodeId)
+}

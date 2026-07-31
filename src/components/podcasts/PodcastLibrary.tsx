@@ -3,6 +3,7 @@
 import { useState } from 'react'
 import Link from 'next/link'
 import type { PodcastEpisode, PodcastTrack, PodcastDuration } from '@/lib/podcasts/types'
+import { isPodcastAudioAvailable } from '@/lib/podcasts/audio-available'
 
 interface PodcastLibraryProps {
   episodes: PodcastEpisode[]
@@ -70,6 +71,7 @@ export default function PodcastLibrary({ episodes, progress }: PodcastLibraryPro
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {filtered.map((ep) => {
           const done = progress[ep.id]?.completed ?? false
+          const hasAudio = isPodcastAudioAvailable(ep.id)
           return (
             <Link
               key={ep.id}
@@ -82,6 +84,11 @@ export default function PodcastLibrary({ episodes, progress }: PodcastLibraryPro
                 </span>
                 <div className="flex items-center gap-1.5 text-xs text-slate-400 shrink-0">
                   <span>{ep.durationMinutes} min</span>
+                  {!hasAudio && (
+                    <span className="text-[10px] font-semibold text-blue-600 bg-blue-50 px-1.5 py-0.5 rounded">
+                      Voz navegador
+                    </span>
+                  )}
                   {done && (
                     <span className="w-4 h-4 bg-emerald-500 rounded-full flex items-center justify-center text-white text-[10px] font-bold">✓</span>
                   )}
