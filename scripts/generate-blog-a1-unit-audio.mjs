@@ -1,0 +1,61 @@
+#!/usr/bin/env node
+/**
+ * Genera audios cortos para artículos del curso A1 (blog).
+ * Requiere: pip install gTTS
+ *
+ * Uso:
+ *   node scripts/generate-blog-a1-unit-audio.mjs --unit 1
+ */
+import { execSync } from 'child_process';
+import fs from 'fs';
+import path from 'path';
+
+const CLIPS_BY_UNIT = {
+  1: {
+    hello: 'Hello.',
+    hi: 'Hi.',
+    'good-morning': 'Good morning.',
+    'good-afternoon': 'Good afternoon.',
+    'good-evening': 'Good evening.',
+    goodbye: 'Goodbye.',
+    bye: 'Bye.',
+    'nice-to-meet-you': 'Nice to meet you.',
+    'my-name-is': 'My name is Ana.',
+    'i-am-from': 'I am from Spain.',
+    'i-am-a-student': 'I am a student.',
+    'how-are-you': 'How are you?',
+    'i-am-fine': 'I am fine, thank you.',
+    'what-is-your-name': 'What is your name?',
+    'see-you-later': 'See you later.',
+  },
+};
+
+const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
+  ?? process.argv[process.argv.indexOf('--unit') + 1];
+const unit = Number(unitArg || '1');
+const clips = CLIPS_BY_UNIT[unit];
+
+if (!clips) {
+  console.error(`No hay clips definidos para la unidad ${unit}`);
+  process.exit(1);
+}
+
+const outDir = path.join(process.cwd(), 'public/audio/blog/curso-a1', `unit-${unit}`);
+fs.mkdirSync(outDir, { recursive: true });
+
+const py = `
+from gtts import gTTS
+import os
+out = ${JSON.stringify(outDir)}
+clips = ${JSON.stringify(clips)}
+for name, text in clips.items():
+    path = os.path.join(out, f"{name}.mp3")
+    if not os.path.exists(path):
+        gTTS(text=text, lang='en', tld='com').save(path)
+        print('created', path)
+    else:
+        print('exists', path)
+`;
+
+execSync(`python3 -c ${JSON.stringify(py)}`, { stdio: 'inherit' });
+console.log(`\n✅ Audios listos en ${outDir}`);

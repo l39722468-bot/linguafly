@@ -1,0 +1,151 @@
+# Curso A1 — Artículos explicativos (seguimiento)
+
+Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
+
+**Última actualización:** 2026-07-31  
+**Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
+
+---
+
+## Resumen
+
+| Métrica | Cifra |
+|---|---|
+| Unidades totales | 60 |
+| Artículos dedicados publicados | 1 |
+| Artículos dedicados pendientes | 59 |
+| Unidades con cobertura tangencial (blog-course-map) | 22 |
+
+---
+
+## Leyenda
+
+| Estado | Significado |
+|---|---|
+| ✅ | Artículo dedicado publicado |
+| 🔶 | Cobertura parcial (artículo genérico o tema cercano) |
+| ❌ | Sin artículo dedicado |
+| ⏭️ | Repaso de módulo (opcional) |
+
+---
+
+## Módulo 1: Basics & Personal Info (U1–10)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 1 | Greetings and Personal Information | *to be* (I/you), saludos, my/your | ✅ | [Saludos y presentarse A1](/blog/curso-a1/unidad-1-saludos-presentarse) |
+| 2 | Verb 'to be' and Subject Pronouns | *to be* he/she/it/we/they | ❌ | Pendiente |
+| 3 | Verb 'to be': Negatives and Questions | Negativa e interrogativa *to be* | 🔶 | Solo fonética tangencial |
+| 4 | Essential Vocabulary: Numbers and Objects | a/an, plurales, this/that | 🔶 | Listening/fonética |
+| 5 | Simple Present: Everyday Actions | Present Simple afirmativo | 🔶 | Rutina/apps (no gramática) |
+| 6 | Family Members & Personal Info | Genitivo sajón, his/her/our/their | ❌ | Pendiente |
+| 7 | Colors & Physical Descriptions | Adjetivos, *have got* | 🔶 | Pronunciación (no tema unidad) |
+| 8 | Numbers 20–100 | *How old/much is…?* | ❌ | Pendiente |
+| 9 | Jobs & Occupations | Profesiones, a/an | ❌ | Pendiente |
+| 10 | Module 1 Review | Repaso módulo 1 | ⏭️ | Pendiente (opcional) |
+
+---
+
+## Módulo 2: Daily Life & Routines (U11–20)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 11 | Telling the Time | *What time is it?*, *at* + hora | ❌ | Pendiente |
+| 12 | Days of the Week | *on* + días, hábitos | ❌ | Pendiente |
+| 13 | Daily Routine | Secuenciadores + Present Simple | 🔶 | Rutina/apps |
+| 14 | Present Simple: I, You, We, They | *don't*, *Do you…?* | 🔶 | Rutina/apps |
+| 15 | Present Simple: He, She, It | *doesn't*, *Does…?* | 🔶 | Rutina/apps |
+| 16 | At the Cafe | *Can I have…?*, *I'd like…* | 🔶 | Hostelería/restaurante |
+| 17 | Breakfast, Lunch & Dinner | Contables/incontables (intro) | 🔶 | Hostelería/restaurante |
+| 18 | Likes & Dislikes | *like + -ing*, *because* | ❌ | Pendiente |
+| 19 | Months & Dates | Meses, ordinales, cumpleaños | ❌ | Pendiente |
+| 20 | Module 2 Review | Repaso módulo 2 | ⏭️ | Pendiente (opcional) |
+
+---
+
+## Módulo 3: My World (U21–30)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 21 | Rooms in a House | Plurales, adjetivos | ❌ | Pendiente |
+| 22 | Furniture & Household Items | Posesivos mine/yours | ❌ | Pendiente |
+| 23 | There is / There are | *There is/are* | ❌ | Pendiente |
+| 24 | Prepositions of Place | Preposiciones de lugar | 🔶 | Preposiciones de movimiento |
+| 25 | My Neighborhood | *the* vs *a/an*, *some/any* | ❌ | Pendiente |
+| 26 | Giving Directions | Imperativos | ❌ | Pendiente |
+| 27 | Pets & Animals | Vocabulario animales | ❌ | Pendiente |
+| 28 | Body Parts | *have/has got* | ❌ | Pendiente |
+| 29 | Clothes | Present Continuous (ropa) | ❌ | Pendiente |
+| 30 | Module 3 Review | Repaso módulo 3 | ⏭️ | Pendiente (opcional) |
+
+---
+
+## Módulo 4: Abilities & Interests (U31–40)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 31 | Can for Ability | *can/can't* | ❌ | Pendiente |
+| 32 | Sports & Hobbies | *play/go/do* | ❌ | Pendiente |
+| 33 | Adverbs of Frequency | Adverbios de frecuencia | ❌ | Pendiente |
+| 34 | Using 'And', 'But', 'Because' | Conectores | ❌ | Pendiente |
+| 35 | Free Time Activities | *go + -ing* | ❌ | Pendiente |
+| 36 | Musical Instruments | *play the* + instrumento | ❌ | Pendiente |
+| 37 | Talent & Skills | *very well*, *quite well* | ❌ | Pendiente |
+| 38 | Asking for Permission | *Can I…?*, *May I…?* | ❌ | Pendiente |
+| 39 | Outdoor Activities | Present Continuous (planes) | ❌ | Pendiente |
+| 40 | Module 4 Review | Repaso módulo 4 | ⏭️ | Pendiente (opcional) |
+
+---
+
+## Módulo 5: Places & Travel (U41–50)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 41 | At the Airport | *must/should* | 🔶 | Viajes (27 artículos) |
+| 42 | Transport | *by* + transporte | 🔶 | Viajes |
+| 43 | Travel Verbs | Horarios, Present Simple | 🔶 | Viajes |
+| 44 | The Weather | *It is…* + clima | 🔶 | Viajes |
+| 45 | Seasons | *in* + estación | ❌ | Pendiente |
+| 46 | At the Hotel | Peticiones en hotel | 🔶 | Viajes + hotel |
+| 47 | Holidays & Vacation | *was/were*, pasado | 🔶 | Viajes |
+| 48 | Sightseeing | Superlativos | 🔶 | Viajes |
+| 49 | Packing a Suitcase | *need to* | 🔶 | Viajes |
+| 50 | Module 5 Review | Repaso módulo 5 | ⏭️ | Pendiente (opcional) |
+
+---
+
+## Módulo 6: Shopping & Food (U51–60)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 51 | At the Supermarket | Plurales irregulares | ❌ | Pendiente |
+| 52 | Countable & Uncountable | Contables/incontables | ❌ | Pendiente |
+| 53 | Some & Any | *some/any* | ❌ | Pendiente |
+| 54 | How Much & How Many | Precios y cantidades | ❌ | Pendiente |
+| 55 | Clothing Store | *too* vs *enough* | ❌ | Pendiente |
+| 56 | At the Restaurant | Pedir en restaurante | 🔶 | Hostelería |
+| 57 | Cooking & Recipes | Verbos de cocina | ❌ | Pendiente |
+| 58 | Health & Illness | *should/shouldn't* | 🔶 | Salud |
+| 59 | Money & Currency | *pay for*, *spend on* | ❌ | Pendiente |
+| 60 | Module 6 Review | Repaso módulo 6 | ⏭️ | Pendiente (opcional) |
+
+---
+
+## Prioridad editorial sugerida
+
+1. **Gramática nuclear A1:** U2–3 (*to be*), U5/U14–15 (Present Simple), U23 (*there is*), U31 (*can*), U52–54 (quantifiers).
+2. **Vocabulario temático:** U6, U11–13, U21–26, U28–29.
+3. **Compras y comida:** U51–57, U59.
+4. **Repasos de módulo:** U10, U20, U30, U40, U50, U60.
+
+---
+
+## Convenciones para nuevos artículos
+
+- **Ruta:** `src/content/blog/curso-a1/unidad-N-slug.md`
+- **Categoría frontmatter:** `curso-a1`
+- **Imágenes:** `public/blog/curso-a1/unit-N/`
+- **Audio:** `public/audio/blog/curso-a1/unit-N/`
+- **Longitud objetivo:** ~2000 palabras
+- **Incluir:** teoría, ejemplos, ejercicios con soluciones, 2–3 esquemas, audios cortos de pronunciación
+- **Actualizar:** este archivo + `src/lib/blog-course-map.ts` (SLUG_OVERRIDES)

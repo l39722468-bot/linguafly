@@ -446,6 +446,10 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'b-muda-ingles-combinaciones-mb-bt-fundamentos': [{ courseId: 'a1', unitNumber: 7 }],
   'b-muda-ingles-excepciones-trampas-ortograficas': [{ courseId: 'a1', unitNumber: 7 }],
   'b-muda-ingles-hispanohablantes-b-vs-v': [{ courseId: 'a1', unitNumber: 7 }],
+  'unidad-1-saludos-presentarse': [
+    { courseId: 'a1', unitNumber: 1 },
+    { courseId: 'a1', unitNumber: 2 },
+  ],
   'letras-mudas-ingles-guia-completa': [{ courseId: 'a1', unitNumber: 7 }],
   'letras-mudas-ingles-lista': [{ courseId: 'a1', unitNumber: 7 }],
   'como-leer-transcripcion-fonetica-ingles': [{ courseId: 'a1', unitNumber: 7 }],

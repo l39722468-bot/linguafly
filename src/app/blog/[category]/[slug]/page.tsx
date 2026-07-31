@@ -18,6 +18,7 @@ import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 import { Twitter } from "lucide-react";
 
 /** Evita `/_next/image` para URLs absolutas: mejora compatibilidad con rastreadores (p. ej. GSC) y CDN externos. */
@@ -219,7 +220,32 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
       return <a href={href} className={className} rel="noopener noreferrer" target="_blank" {...props} />;
     },
-    img: () => null,
+    img: ({ src, alt }: { src?: string; alt?: string }) => {
+      if (!src) return null;
+      return (
+        <figure className="my-10 not-prose">
+          <div className="relative w-full aspect-[16/9] rounded-2xl overflow-hidden border border-slate-100 shadow-sm bg-white">
+            <Image
+              src={src}
+              alt={alt || ''}
+              fill
+              unoptimized={isRemoteImageSrc(src)}
+              className="object-contain p-4"
+            />
+          </div>
+          {alt ? (
+            <figcaption className="text-center text-sm text-slate-500 mt-3">{alt}</figcaption>
+          ) : null}
+        </figure>
+      );
+    },
+    audio: ({ src, title }: { src?: string; title?: string }) => (
+      <div className="my-4 not-prose rounded-2xl border border-slate-100 bg-slate-50/80 p-4">
+        {title ? <p className="text-sm font-bold text-slate-700 mb-2">{title}</p> : null}
+        {/* eslint-disable-next-line jsx-a11y/media-has-caption */}
+        <audio controls preload="none" src={src} className="w-full h-10" />
+      </div>
+    ),
     table: ({ node, ...props }: any) => (
       <div className="overflow-x-auto my-8 border border-slate-100 rounded-2xl shadow-sm">
         <table className="min-w-full divide-y divide-slate-100" {...props} />
@@ -242,6 +268,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     examenes: "bg-amber-100 text-amber-800 border-amber-200",
     aprendizaje: "bg-amber-100 text-amber-800 border-amber-200",
     metodos: "bg-pink-100 text-pink-800 border-pink-200",
+    "curso-a1": "bg-emerald-100 text-emerald-800 border-emerald-200",
     seo: "bg-blue-100 text-blue-800 border-blue-200",
   };
 
@@ -383,6 +410,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                   <div className="p-8 lg:p-12 prose prose-slate prose-xl max-w-none article-content print:p-0">
                     <ReactMarkdown 
                       remarkPlugins={[remarkGfm]}
+                      rehypePlugins={[rehypeRaw]}
                       components={MarkdownComponents}
                     >
                       {article.content}
