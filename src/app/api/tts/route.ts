@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { CF_DEEPGRAM_AURA_1 } from '@/lib/ai/cloudflare-workers-ai-models';
+import { CF_DEEPGRAM_AURA_1, CF_DEEPGRAM_AURA_2_EN } from '@/lib/ai/cloudflare-workers-ai-models';
 
 /** Vercel / hosting: tiempo máximo para generar audio (segundos). */
 export const maxDuration = 60;
@@ -160,13 +160,14 @@ async function callCloudflareTts(
   accountId: string,
   apiToken: string,
   cleanText: string,
-  speaker: string
+  speaker: string,
+  model: string = CF_DEEPGRAM_AURA_1
 ): Promise<Response> {
   const controller = new AbortController();
   const t = setTimeout(() => controller.abort(), CF_TIMEOUT_MS);
   try {
     return await fetch(
-      `https://api.cloudflare.com/client/v4/accounts/${accountId}/ai/run/${CF_DEEPGRAM_AURA_1}`,
+      `https://api.cloudflare.com/client/v4/accounts/${accountId}/ai/run/${model}`,
       {
         method: 'POST',
         headers: {
@@ -252,6 +253,7 @@ export async function POST(request: NextRequest) {
     const cleanText = normalized.text;
     const speaker =
       explicitSpeaker ?? (detectGender(cleanText) === 'female' ? 'luna' : 'orion');
+    const ttsModel = explicitSpeaker ? CF_DEEPGRAM_AURA_2_EN : CF_DEEPGRAM_AURA_1;
 
     let lastStatus = 0;
     let lastBody = '';
@@ -265,7 +267,7 @@ export async function POST(request: NextRequest) {
       try {
         response = workerUrl
           ? await callCustomTtsWorker(workerUrl, cleanText, speaker, workerSecret)
-          : await callCloudflareTts(accountId!, apiToken!, cleanText, speaker);
+          : await callCloudflareTts(accountId!, apiToken!, cleanText, speaker, ttsModel);
       } catch (e: unknown) {
         const name = e instanceof Error ? e.name : '';
         const msg = e instanceof Error ? e.message : String(e);

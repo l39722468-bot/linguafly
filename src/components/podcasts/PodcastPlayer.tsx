@@ -362,7 +362,11 @@ export default function PodcastPlayer({ episode, initialProgress }: PodcastPlaye
 
       <div className="mb-8">
         {tab === 'transcript' ? (
-          <PodcastTranscript turns={episode.transcript} currentTime={currentTime} />
+          <PodcastTranscript
+            turns={episode.transcript}
+            currentTime={currentTime}
+            duration={duration}
+          />
         ) : (
           <PodcastVocabulary items={episode.vocabulary} />
         )}

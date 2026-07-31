@@ -52,10 +52,13 @@ if (!useHttp && !useWorker && !useRest) {
 
 const TTS_URL =
   WORKER_TTS_URL ||
-  `https://api.cloudflare.com/client/v4/accounts/${ACCOUNT_ID}/ai/run/@cf/deepgram/aura-1`;
+  `https://api.cloudflare.com/client/v4/accounts/${ACCOUNT_ID}/ai/run/@cf/deepgram/aura-2-en`;
 const OUT_DIR = path.join(ROOT, 'public', 'audio', 'podcasts', 'a1');
 const TMP_BASE = path.join('/tmp', 'podcast-gen');
 const MAX_RETRIES = 3;
+const PAUSE_SAME_SEC = 0.45;
+const PAUSE_SWITCH_SEC = 0.8;
+const SAMPLE_RATE = 22050;
 
 // Parse CLI args
 const args = process.argv.slice(2);
@@ -112,6 +115,48 @@ console.log(`🎙️   Generating audio for ${episodes.length} episode(s)...\n`)
 
 fs.mkdirSync(OUT_DIR, { recursive: true });
 fs.mkdirSync(TMP_BASE, { recursive: true });
+
+function assertValidMp3(buf, label) {
+  if (!isLikelyMp3(buf) || buf.length < 512) {
+    const preview = buf.slice(0, 120).toString('utf8');
+    throw new Error(`${label}: TTS no devolvió MP3 válido (${buf.length} bytes): ${preview}`);
+  }
+}
+
+function generateSilenceMp3(outPath, seconds) {
+  execSync(
+    `ffmpeg -y -f lavfi -i anullsrc=r=${SAMPLE_RATE}:cl=mono -t ${seconds} -c:a libmp3lame -b:a 48k -ar ${SAMPLE_RATE} "${outPath}"`,
+    { stdio: 'pipe' }
+  );
+}
+
+function concatTurnsWithPauses(turnFiles, transcript, tmpDir, outFile) {
+  const silenceSame = path.join(tmpDir, 'silence-same.mp3');
+  const silenceSwitch = path.join(tmpDir, 'silence-switch.mp3');
+  generateSilenceMp3(silenceSame, PAUSE_SAME_SEC);
+  generateSilenceMp3(silenceSwitch, PAUSE_SWITCH_SEC);
+
+  const concatEntries = [];
+  for (let i = 0; i < turnFiles.length; i++) {
+    concatEntries.push(turnFiles[i]);
+    if (i < turnFiles.length - 1) {
+      const pause =
+        transcript[i].speaker !== transcript[i + 1].speaker ? silenceSwitch : silenceSame;
+      concatEntries.push(pause);
+    }
+  }
+
+  const fileList = path.join(tmpDir, 'filelist.txt');
+  fs.writeFileSync(
+    fileList,
+    concatEntries.map((f) => `file '${f.replace(/'/g, "'\\''")}'`).join('\n')
+  );
+
+  execSync(
+    `ffmpeg -y -f concat -safe 0 -i "${fileList}" -c:a libmp3lame -b:a 64k -ar ${SAMPLE_RATE} -ac 1 "${outFile}"`,
+    { stdio: 'pipe' }
+  );
+}
 
 function isLikelyMp3(buf) {
   if (buf.length < 32) return false;
@@ -212,19 +257,13 @@ for (const episode of episodes) {
       process.stdout.write(`    Turn ${i + 1}/${episode.transcript.length} (${turn.voice})... `);
 
       const audio = await ttsWithRetry(turn.text, turn.voice);
+      assertValidMp3(audio, `turn ${i + 1}`);
       fs.writeFileSync(turnFile, audio);
       turnFiles.push(turnFile);
       process.stdout.write('✓\n');
     }
 
-    // Concatenate with ffmpeg
-    const fileList = path.join(tmpDir, 'filelist.txt');
-    fs.writeFileSync(fileList, turnFiles.map((f) => `file '${f}'`).join('\n'));
-
-    execSync(
-      `ffmpeg -y -f concat -safe 0 -i "${fileList}" -c copy "${outFile}" 2>/dev/null`,
-      { stdio: 'pipe' }
-    );
+    concatTurnsWithPauses(turnFiles, episode.transcript, tmpDir, outFile);
 
     console.log(`    ✅  Saved → ${path.relative(ROOT, outFile)}\n`);
     generated++;
