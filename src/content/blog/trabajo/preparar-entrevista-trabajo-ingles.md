@@ -103,7 +103,7 @@ Saber qué decir no es suficiente; necesitas practicar decirlo en voz alta, en i
 
 **2. Grabaciones en audio y vídeo:** Grábate respondiendo a las preguntas más comunes. Escucha o mira la grabación y evalúa: ¿Estoy siendo claro? ¿Mi velocidad es adecuada? ¿Relleno los silencios con "ummm" o "eeeh"?
 
-**3. Simulacros con un hablante nativo o profesor:** Este es el método más efectivo. En nuestras **[clases de inglés para entrevistas](/cuenta/registro?plan=work)**, simulamos entrevistas reales y te damos feedback inmediato sobre pronunciación, vocabulario y estructura de respuestas.
+**3. Simulacros con un hablante nativo o profesor:** Este es el método más efectivo. En nuestras **[clases de inglés para entrevistas](/cursos-por-sector)**, simulamos entrevistas reales y te damos feedback inmediato sobre pronunciación, vocabulario y estructura de respuestas.
 
 **4. El método "in English only":** Durante los 3-4 días previos a la entrevista, intenta pensar y hablar en inglés tanto como sea posible. Ve series en inglés sin subtítulos, escucha podcasts de tu sector en inglés y practica describir tu día en inglés.
 
@@ -147,7 +147,7 @@ Saber qué decir no es suficiente; necesitas practicar decirlo en voz alta, en i
 
 La diferencia entre un candidato que consigue el puesto y uno que no lo consigue suele ser la preparación. Con el método adecuado y práctica consistente, una entrevista de trabajo en inglés puede convertirse en tu mayor ventaja competitiva.
 
-[👉 Prepara tu próxima entrevista con nuestros coaches de inglés profesional. ¡Primeras clases con descuento!](/cuenta/registro?plan=work)
+[👉 Prepara tu próxima entrevista con nuestros coaches de inglés profesional. ¡Primeras clases con descuento!](/cursos-por-sector)
 
 Para una visión completa del tema, consulta nuestra [guía de entrevistas de trabajo en inglés](/blog/temas/entrevista-de-trabajo-en-ingles).
 

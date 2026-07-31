@@ -50,4 +50,4 @@ En **Focus English**, hemos diseñado un sistema que combina la agilidad de una 
 
 ---
 
-**¿Listo para probar algo diferente?** [Empieza hoy mismo](/cuenta/registro) y descubre por qué Focus English es la evolución de las aplicaciones tradicionales para aprender inglés.
+**¿Listo para probar algo diferente?** [Empieza hoy mismo](/aprender-ingles) y descubre por qué Focus English es la evolución de las aplicaciones tradicionales para aprender inglés.

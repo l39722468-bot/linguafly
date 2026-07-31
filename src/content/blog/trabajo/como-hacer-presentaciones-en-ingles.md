@@ -171,7 +171,7 @@ La sesión de preguntas es donde muchos presentadores pierden los puntos ganados
 
 En **Linguafly**, nuestros profesores especializados en inglés de negocios pueden ser tu audiencia de práctica, darte feedback profesional y ayudarte a pulir esa presentación en inglés hasta que se sienta completamente natural.
 
-[👉 ¡Haz que tu próxima presentación en inglés sea tu mejor argumento de venta. Comienza con Linguafly!](/cuenta/registro?plan=work)
+[👉 ¡Haz que tu próxima presentación en inglés sea tu mejor argumento de venta. Comienza con Linguafly!](/cursos-por-sector)
 
 ---
 

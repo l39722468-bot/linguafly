@@ -168,7 +168,7 @@ Si tu objetivo es trabajar en el Reino Unido, Australia o Nueva Zelanda, el **OE
 
 **En Linguafly**, ofrecemos preparación específica para el OET de enfermería con materiales actualizados y simulacros con feedback de evaluadores certificados.
 
-[👉 ¿Quieres trabajar como enfermero/a en el extranjero? Prepárate con nosotros para el OET y el IELTS](/cuenta/registro?plan=work)
+[👉 ¿Quieres trabajar como enfermero/a en el extranjero? Prepárate con nosotros para el OET y el IELTS](/cursos-por-sector)
 
 ---
 

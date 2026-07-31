@@ -19,7 +19,7 @@ export default function PlanesPage() {
 
   const handleSubscribe = (planId: string) => {
     setIsLoading(planId);
-    window.location.href = `/cuenta/registro?plan=${planId}`;
+    window.location.href = '/aprender-ingles';
   };
 
   return (

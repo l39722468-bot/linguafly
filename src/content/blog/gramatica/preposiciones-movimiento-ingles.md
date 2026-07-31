@@ -116,7 +116,7 @@ En inglés coloquial, a veces verás *Go in the house*. Sin embargo, en un exame
 
 ---
 
-¿Quieres practicar estas preposiciones con situaciones reales? En **Linguafly** disponemos de simuladores interactivos que te retan a dar direcciones y describir trayectos usando estas reglas. [**Regístrate gratis y mejora tu fluidez.**](/cuenta/registro)
+¿Quieres practicar estas preposiciones con situaciones reales? En **Linguafly** disponemos de simuladores interactivos que te retan a dar direcciones y describir trayectos usando estas reglas. [**Regístrate gratis y mejora tu fluidez.**](/aprender-ingles)
 
 ## Fuentes
 

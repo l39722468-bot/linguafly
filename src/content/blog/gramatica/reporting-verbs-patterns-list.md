@@ -107,7 +107,7 @@ El uso de **reporting verbs** variados es una de las formas más rápidas de sub
 [**Volver a la Guía Maestra de Reported Speech**](/blog/gramatica/guia-maestra-reported-speech)
 
 ---
-¿Quieres una lista en PDF con más de 50 reporting verbs y ejercicios de autoevaluación? Regístrate en [**Linguafly**](/cuenta/registro) y accede a nuestro material exclusivo para estudiantes de nivel avanzado. ¡Domina el inglés profesional hoy!
+¿Quieres una lista en PDF con más de 50 reporting verbs y ejercicios de autoevaluación? Regístrate en [**Linguafly**](/aprender-ingles) y accede a nuestro material exclusivo para estudiantes de nivel avanzado. ¡Domina el inglés profesional hoy!
 
 ## Fuentes
 

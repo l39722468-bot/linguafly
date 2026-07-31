@@ -100,7 +100,7 @@ Um exame de Cambridge de nível B2 ou C1 custa mais de 200€. Você não vai qu
 *   **Simulacros de Exame Oficiais**: Pratique com o formato exato do exame (seja em papel ou digital) e receba correções instantâneas de Use of English e Writing.
 *   **Garantia de Aprovação**: Se completar nosso plano de estudos e não aprovar seu exame de Cambridge, devolvemos a última quota de sua assinatura ou damos acesso gratuito até sua próxima convocação.
 
-[**Não desperdice seu dinheiro. Se prepare com Focus English e vá ao exame de Cambridge com a segurança de que vai aprovar.**](/cuenta/registro)
+[**Não desperdice seu dinheiro. Se prepare com Focus English e vá ao exame de Cambridge com a segurança de que vai aprovar.**](/aprender-ingles)
 
 ---
 

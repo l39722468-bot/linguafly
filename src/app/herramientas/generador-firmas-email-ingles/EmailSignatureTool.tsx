@@ -241,7 +241,7 @@ export default function EmailSignatureTool() {
                     Tener una buena firma es solo el principio. Únete a Focus English y domina las reuniones, presentaciones y negociaciones en inglés con nuestro tutor de IA.
                   </p>
                   <Link 
-                    href="/cuenta/registro" 
+                    href="/aprender-ingles" 
                     className="flex items-center justify-between bg-white/10 hover:bg-white/20 p-5 rounded-2xl transition-all border border-white/10 group"
                   >
                     <div className="flex items-center gap-4">

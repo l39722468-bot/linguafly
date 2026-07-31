@@ -171,7 +171,7 @@ Una de las habilidades más valoradas en ingenieros senior es la capacidad de tr
 **✅ Para stakeholders:**
 > *"Right now, when we want to update the payment system, we have to update and redeploy the entire application. This means longer downtimes and more risk. If we restructure the system, each part can be updated independently, reducing downtime from hours to minutes and significantly lowering the risk of each release."*
 
-[👉 Comunícate con confianza en tu equipo tech internacional. ¡Empieza hoy con Linguafly!](/cuenta/registro?plan=work)
+[👉 Comunícate con confianza en tu equipo tech internacional. ¡Empieza hoy con Linguafly!](/cursos-por-sector)
 
 ---
 

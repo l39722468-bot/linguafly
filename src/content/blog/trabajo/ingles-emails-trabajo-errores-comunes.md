@@ -174,7 +174,7 @@ La comunicación escrita varía enormemente según la cultura. Aprende en nuestr
 
 Conocer los errores es el primer paso. El segundo es practicar con corrección real. En **Linguafly**, nuestros profesores revisan tus emails reales de trabajo y te dan feedback personalizado para que mejores rápidamente.
 
-[👉 ¡Escribe emails que proyecten confianza y autoridad! Únete a nuestro programa de inglés profesional](/cuenta/registro?plan=work)
+[👉 ¡Escribe emails que proyecten confianza y autoridad! Únete a nuestro programa de inglés profesional](/cursos-por-sector)
 
 ---
 

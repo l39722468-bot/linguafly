@@ -140,9 +140,9 @@ Ningún artículo puede sustituir la práctica real. Estas son las preguntas má
 7. *"What are your salary expectations?"*
 8. *"Do you have any questions for us?"*
 
-Practica con un compañero, grábate en vídeo o contacta con nuestros profesores especializados en **[inglés para entrevistas de trabajo](/cuenta/registro?plan=work)** para simulacros personalizados con feedback real.
+Practica con un compañero, grábate en vídeo o contacta con nuestros profesores especializados en **[inglés para entrevistas de trabajo](/cursos-por-sector)** para simulacros personalizados con feedback real.
 
-[👉 Transforma tu inglés en tu mayor ventaja competitiva. ¡Reserva tu primera clase de prueba!](/cuenta/registro?plan=work)
+[👉 Transforma tu inglés en tu mayor ventaja competitiva. ¡Reserva tu primera clase de prueba!](/cursos-por-sector)
 
 Descubre más recursos en nuestra [guía completa de entrevistas de trabajo en inglés](/blog/temas/entrevista-de-trabajo-en-ingles).
 

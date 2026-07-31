@@ -181,7 +181,7 @@ Technical: [Herramientas relevantes para tu sector]
 
 Tu CV en inglés es el primer paso. El siguiente es la entrevista. En **Linguafly** te preparamos para ambos con formadores especializados en Business English.
 
-[**👉 Descubre nuestro plan de Inglés Profesional y empieza hoy**](/cuenta/registro?plan=work)
+[**👉 Descubre nuestro plan de Inglés Profesional y empieza hoy**](/cursos-por-sector)
 
 ---
 

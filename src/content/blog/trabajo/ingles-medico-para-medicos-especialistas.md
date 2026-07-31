@@ -180,7 +180,7 @@ En situaciones difíciles, el protocolo SPIKES es el estándar en medicina angl�
 - **Plataformas de educación médica:** UpToDate, Medscape (ambas en inglés)
 - **Preparación OET/IELTS para médicos:** Clases especializadas en Linguafly
 
-[👉 Comunícate con excelencia en cualquier entorno médico internacional. Programa tu clase de inglés médico](/cuenta/registro?plan=work)
+[👉 Comunícate con excelencia en cualquier entorno médico internacional. Programa tu clase de inglés médico](/cursos-por-sector)
 
 ---
 

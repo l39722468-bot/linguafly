@@ -84,7 +84,7 @@ Muchos profesionales se frustran porque, a pesar de usar apps, no ven resultados
 
 Invertir en tu inglés profesional no es un gasto, es una de las inversiones con mayor retorno de inversión (ROI) para tu carrera. En 2026, la tecnología nos permite simular entornos globales desde la palma de nuestra mano. Si buscas una solución integral que combine la teoría con la práctica de voz real, te invitamos a dar el paso definitivo.
 
-[**Lleva tu carrera al siguiente nivel y domina el inglés profesional con Linguafly.**](/cuenta/registro)
+[**Lleva tu carrera al siguiente nivel y domina el inglés profesional con Linguafly.**](/aprender-ingles)
 
 ---
 

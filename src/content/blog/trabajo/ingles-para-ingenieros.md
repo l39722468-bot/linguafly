@@ -119,7 +119,7 @@ En **Linguafly**, entendemos que tu tiempo es limitado y tus necesidades muy esp
 *   **Casos de Estudio de la Industria**: Aprende con materiales reales de empresas líderes en ingeniería civil, renovables y desarrollo de software.
 *   **Simulacros de Entrevistas Técnicas**: Prepárate para las preguntas de "system design" y "coding challenges" con nuestro entrenamiento especializado.
 
-[**Construye tu carrera sin límites geográficos y conviértete en un ingeniero global. Regístrate en Linguafly hoy mismo.**](/cuenta/registro)
+[**Construye tu carrera sin límites geográficos y conviértete en un ingeniero global. Regístrate en Linguafly hoy mismo.**](/aprender-ingles)
 
 ---
 

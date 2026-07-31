@@ -194,7 +194,7 @@ En un equipo de customer service internacional, estas métricas son parte del vo
 | Tasa de retención | Retention Rate |
 | Ticket abierto/cerrado | Open/Closed ticket |
 
-[👉 Domina el inglés para customer service y convierte cada contacto en una oportunidad de fidelización](/cuenta/registro?plan=work)
+[👉 Domina el inglés para customer service y convierte cada contacto en una oportunidad de fidelización](/cursos-por-sector)
 
 ---
 

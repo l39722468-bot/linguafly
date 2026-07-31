@@ -184,7 +184,7 @@ Antes de cada resposta de Speaking:
 - [ ] Vou incluir um exemplo ou uma razão que desenvolva minha ideia?
 - [ ] Vou usar conectivos para estruturar minha resposta?
 
-[👉 Pratique o Writing e Speaking do Aptis com nossos professores especializados e obtenha feedback real](/cuenta/registro?plan=cambridge)
+[👉 Pratique o Writing e Speaking do Aptis com nossos professores especializados e obtenha feedback real](/curso-b2)
 
 ---
 

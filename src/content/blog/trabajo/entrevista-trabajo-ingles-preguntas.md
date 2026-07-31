@@ -192,7 +192,7 @@ Una entrevista es bidireccional. Siempre prepara 3-5 preguntas:
 
 El conocimiento no es suficiente: necesitas práctica real. En **Linguafly** realizamos **simulacros de entrevista en inglés** con feedback personalizado por formadores con experiencia en RRHH internacional.
 
-[**👉 Reserva tu simulacro de entrevista y llega con confianza al día clave**](/cuenta/registro?plan=work)
+[**👉 Reserva tu simulacro de entrevista y llega con confianza al día clave**](/cursos-por-sector)
 
 ---
 

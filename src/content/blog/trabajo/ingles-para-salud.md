@@ -121,7 +121,7 @@ En **Linguafly**, entendemos que en medicina no hay margen para el error. Por es
 *   **Preparación para Exámenes Oficiales**: Te ayudamos a preparar el **OET (Occupational English Test)**, el examen específico para profesionales de la salud que desean trabajar en el Reino Unido, Australia o EE. UU.
 *   **Glosarios Interactivos**: Acceso a miles de términos con audios de pronunciación real (nada de voces robóticas) para que suenes profesional.
 
-[**Lleva tu carrera sanitaria al siguiente nivel global. Regístrate en Linguafly y accede a la mejor formación en inglés médico online.**](/cuenta/registro)
+[**Lleva tu carrera sanitaria al siguiente nivel global. Regístrate en Linguafly y accede a la mejor formación en inglés médico online.**](/aprender-ingles)
 
 ---
 

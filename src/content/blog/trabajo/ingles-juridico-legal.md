@@ -245,7 +245,7 @@ El sistema jurídico anglosajón tiene conceptos sin equivalente directo en el d
 
 El Legal English es un campo especializado que requiere formación específica. En **Linguafly** disponemos de recursos y formadores con experiencia en inglés jurídico para ayudarte a comunicarte con total precisión en contextos legales internacionales.
 
-[**👉 Accede a nuestros recursos de Business English Especializado**](/cuenta/registro?plan=work)
+[**👉 Accede a nuestros recursos de Business English Especializado**](/cursos-por-sector)
 
 ---
 

@@ -119,7 +119,7 @@ A veces usamos 'which' después de una coma para comentar todo lo que se ha dich
 
 ---
 
-¿Quieres practicar las oraciones de relativo con ejercicios de 'Sentence Transformation'? En **Linguafly** tenemos una sección dedicada a la gramática avanzada para que no falles ni una coma. [**Regístrate gratis ahora.**](/cuenta/registro)
+¿Quieres practicar las oraciones de relativo con ejercicios de 'Sentence Transformation'? En **Linguafly** tenemos una sección dedicada a la gramática avanzada para que no falles ni una coma. [**Regístrate gratis ahora.**](/aprender-ingles)
 
 ## Fuentes
 

@@ -128,7 +128,7 @@ export default function SEOAppsPage() {
                   <h3 className="text-3xl font-black mb-6 leading-tight">¿Cansado de &quot;jugar&quot; a aprender?</h3>
                   <p className="text-coral-50 mb-8 text-lg font-medium opacity-90">Únete a Focus English y consigue fluidez real en 90 días con nuestro sistema guiado por IA.</p>
                   <Link 
-                    href="/cuenta/registro"
+                    href="/aprender-ingles"
                     className="block w-full text-center bg-white text-coral-600 px-8 py-5 rounded-2xl font-black text-xl hover:shadow-xl transition-all hover:scale-[1.02] active:scale-95"
                   >
                     Prueba Gratis Ahora

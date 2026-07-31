@@ -130,7 +130,7 @@ Este es el error nº 1. **Mustn't** significa prohibición (*No lo hagas*). **Do
 
 ---
 
-¿Quieres dominar estos matices y sonar como un nativo? En **Linguafly** utilizamos tecnología de reconocimiento de voz para ayudarte a pronunciar y usar los modales correctamente. [**Regístrate gratis y empieza ahora.**](/cuenta/registro)
+¿Quieres dominar estos matices y sonar como un nativo? En **Linguafly** utilizamos tecnología de reconocimiento de voz para ayudarte a pronunciar y usar los modales correctamente. [**Regístrate gratis y empieza ahora.**](/aprender-ingles)
 
 ## Fuentes
 

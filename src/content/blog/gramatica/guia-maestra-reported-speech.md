@@ -127,7 +127,7 @@ Para convertirte en un experto total en esta materia, te recomendamos explorar l
 
 ---
 
-[**Regístrate gratis hoy y empieza a escribir inglés con la confianza de un experto.**](/cuenta/registro)
+[**Regístrate gratis hoy y empieza a escribir inglés con la confianza de un experto.**](/aprender-ingles)
 
 ## Fuentes
 

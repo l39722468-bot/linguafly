@@ -138,7 +138,7 @@ export default function SEOCertificationsPage() {
                   <h3 className="text-3xl font-black mb-6 leading-tight">¿Te preparas para un examen?</h3>
                   <p className="text-blue-50 mb-8 text-lg font-medium opacity-90">Nuestra plataforma incluye simulacros y ejercicios específicos para B2 First, C1 Advanced e IELTS.</p>
                   <Link 
-                    href="/cuenta/registro"
+                    href="/aprender-ingles"
                     className="block w-full text-center bg-coral-500 text-white px-8 py-5 rounded-2xl font-black text-xl hover:bg-coral-600 transition-all hover:scale-[1.02] active:scale-95 shadow-lg shadow-coral-900/20"
                   >
                     Empezar Ahora

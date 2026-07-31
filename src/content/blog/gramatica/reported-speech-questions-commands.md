@@ -125,7 +125,7 @@ El éxito en el **Reported Speech** de preguntas y órdenes radica en la prácti
 [**Volver a la Guía Maestra de Reported Speech**](/blog/gramatica/guia-maestra-reported-speech)
 
 ---
-¿Quieres poner a prueba lo aprendido? En [**Linguafly**](/cuenta/registro) tenemos cientos de ejercicios interactivos y PDFs descargables con soluciones para que domines el estilo indirecto de una vez por todas. ¡Únete a nuestra comunidad!
+¿Quieres poner a prueba lo aprendido? En [**Linguafly**](/aprender-ingles) tenemos cientos de ejercicios interactivos y PDFs descargables con soluciones para que domines el estilo indirecto de una vez por todas. ¡Únete a nuestra comunidad!
 
 ## Fuentes
 

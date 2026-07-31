@@ -143,7 +143,7 @@ En **Linguafly**, hemos desarrollado una metodología única para que domines es
 2.  **Simulacros de Examen B1**: Pon a prueba tus conocimientos con ejercicios reales de Reading y Use of English.
 3.  **Clases de Conversación Enfocadas**: Oblígate a usar el *Second Conditional* o la *Voz Pasiva* en situaciones de rol en vivo.
 
-[**¿Estás listo para dar el salto al nivel B2? Empieza hoy mismo tu curso de inglés B1 con Linguafly.**](/cuenta/registro)
+[**¿Estás listo para dar el salto al nivel B2? Empieza hoy mismo tu curso de inglés B1 con Linguafly.**](/aprender-ingles)
 
 ## Fuentes
 

@@ -235,7 +235,7 @@ Esta guía te da el vocabulario, las expresiones y las frases que necesitas para
 
 El vocabulario es el primer paso. Para comunicarte con confianza en reuniones, presentaciones y negociaciones con clientes internacionales, necesitas práctica real. En **Linguafly** te ayudamos a desarrollar el inglés profesional específico para tu sector.
 
-[**👉 Empieza tu plan de inglés para marketing y trabaja sin barreras**](/cuenta/registro?plan=work)
+[**👉 Empieza tu plan de inglés para marketing y trabaja sin barreras**](/cursos-por-sector)
 
 ---
 

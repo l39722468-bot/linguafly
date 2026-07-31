@@ -62,4 +62,4 @@ Nuestro enfoque se basa en el **Aprendizaje Basado en Escenarios**. No te enseñ
 **¿Estás listo para dominar el inglés de una vez por todas?**  
 No esperes más. Miles de estudiantes ya están transformando su nivel de inglés con nosotros.
 
-[**¡Regístrate en Focus English y descubre tu nivel real!**](/cuenta/registro)
+[**¡Regístrate en Focus English y descubre tu nivel real!**](/aprender-ingles)

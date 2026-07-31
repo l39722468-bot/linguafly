@@ -75,7 +75,7 @@ A organização é a diferença entre o sucesso e o abandono. Não tente aprende
 
 Preparar o B1 por conta própria requer comprometimento, mas com ferramentas como as que oferecemos em **Focus English**, o caminho é muito mais simples e eficaz. Você não apenas aprovará o exame, mas realmente desenvolverá a capacidade de falar a língua em seu dia a dia profissional e pessoal.
 
-[**Você quer testar seu nível B1 hoje mesmo? Registre-se no Focus English e realize seu primeiro simulacro gratuito.**](/cuenta/registro)
+[**Você quer testar seu nível B1 hoje mesmo? Registre-se no Focus English e realize seu primeiro simulacro gratuito.**](/aprender-ingles)
 
 ---
 

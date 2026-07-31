@@ -104,7 +104,7 @@ Em **Focus English**, não ensinamos apenas inglês; treinamos você para vencer
 - **Estratégias de "Test-Taking":** Aprenda os truques específicos de cada seção (Listening, Reading, Writing, Speaking) para maximizar sua pontuação.
 - **Análise de Erros:** Nossa tecnologia identifica seus padrões de falha e propõe exercícios específicos para corrigi-los antes do dia D.
 
-[**Não jogue fora. Garanta seu certificado com o método de preparação mais avançado de 2026.**](/cuenta/registro)
+[**Não jogue fora. Garanta seu certificado com o método de preparação mais avançado de 2026.**](/aprender-ingles)
 
 ---
 

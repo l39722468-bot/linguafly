@@ -128,7 +128,7 @@ Evita usar demasiados "suavizadores" como *"maybe"*, *"I think"* o *"I'm not sur
 
 ---
 
-¿Quieres practicar estas frases en simulacros de reuniones y entrevistas de trabajo reales? En **Linguafly** disponemos de cursos especializados en **Inglés Comercial** con feedback inmediato de nuestra IA. [**Empieza gratis hoy mismo.**](/cuenta/registro)
+¿Quieres practicar estas frases en simulacros de reuniones y entrevistas de trabajo reales? En **Linguafly** disponemos de cursos especializados en **Inglés Comercial** con feedback inmediato de nuestra IA. [**Empieza gratis hoy mismo.**](/aprender-ingles)
 
 ## Fuentes
 

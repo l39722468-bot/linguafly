@@ -73,7 +73,7 @@ La organización es la diferencia entre el éxito y el abandono. No intentes apr
 
 Preparar el B1 por tu cuenta requiere compromiso, pero con herramientas como las que ofrecemos en **Linguafly**, el camino es mucho más sencillo y efectivo. No solo aprobarás el examen, sino que realmente desarrollarás la capacidad de hablar el idioma en tu día a día profesional y personal.
 
-[**¿Quieres probar tu nivel B1 hoy mismo? Regístrate en Linguafly y realiza tu primer simulacro gratuito.**](/cuenta/registro)
+[**¿Quieres probar tu nivel B1 hoy mismo? Regístrate en Linguafly y realiza tu primer simulacro gratuito.**](/aprender-ingles)
 
 ---
 

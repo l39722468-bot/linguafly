@@ -99,7 +99,7 @@ En **Linguafly**, no solo te enseñamos inglés; te entrenamos para vencer al ex
 - **Estrategias de "Test-Taking":** Aprende los trucos específicos de cada sección (Listening, Reading, Writing, Speaking) para maximizar tu puntuación.
 - **Análisis de Errores:** Nuestra tecnología identifica tus patrones de fallo y te propone ejercicios específicos para corregirlos antes del día D.
 
-[**No te la juegues. Asegura tu certificado con el método de preparación más avanzado de 2026.**](/cuenta/registro)
+[**No te la juegues. Asegura tu certificado con el método de preparación más avanzado de 2026.**](/aprender-ingles)
 
 ---
 

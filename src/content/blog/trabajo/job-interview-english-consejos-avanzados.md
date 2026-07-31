@@ -148,7 +148,7 @@ Al final, cuando te pregunten *"Do you have any questions?"*, además de tus pre
 
 Esta pregunta demuestra confianza, apertura al feedback y te da la oportunidad de gestionar objeciones en tiempo real — una habilidad de ventas que los candidatos excepcionales usan a su favor.
 
-[👉 Prepara tu próxima entrevista internacional con nuestros coaches de inglés profesional especializado](/cuenta/registro?plan=work)
+[👉 Prepara tu próxima entrevista internacional con nuestros coaches de inglés profesional especializado](/cursos-por-sector)
 
 Si aún estás construyendo tu base, empieza por nuestra [guía de entrevistas de trabajo en inglés](/blog/temas/entrevista-de-trabajo-en-ingles).
 

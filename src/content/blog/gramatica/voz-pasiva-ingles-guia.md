@@ -140,7 +140,7 @@ Dominar la **voz pasiva en inglés** no es solo una cuestión de aprobar un exam
 
 En **Linguafly**, no nos limitamos a enseñarte las tablas de verbos. Nuestra plataforma utiliza **IA avanzada** para ayudarte a practicar estas estructuras en contextos reales, desde la redacción de emails corporativos hasta simulacros de entrevistas de trabajo.
 
-[**¡Únete a Linguafly hoy y empieza a hablar con la confianza de un experto!**](/cuenta/registro)
+[**¡Únete a Linguafly hoy y empieza a hablar con la confianza de un experto!**](/aprender-ingles)
 
 ---
 
