@@ -84,6 +84,24 @@ const CLIPS_BY_UNIT = {
     book: 'Book.',
     notebook: 'Notebook.',
   },
+  5: {
+    'i-work-every-day': 'I work every day.',
+    'she-works-in-an-office': 'She works in an office.',
+    'he-eats-breakfast': 'He eats breakfast.',
+    'they-play-football': 'They play football.',
+    'we-study-english': 'We study English.',
+    work: 'Work.',
+    study: 'Study.',
+    eat: 'Eat.',
+    drink: 'Drink.',
+    sleep: 'Sleep.',
+    play: 'Play.',
+    'wake-up': 'Wake up.',
+    'get-up': 'Get up.',
+    'go-to-work': 'Go to work.',
+    'every-morning': 'Every morning.',
+    'i-get-up-at-seven': 'I get up at seven.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
