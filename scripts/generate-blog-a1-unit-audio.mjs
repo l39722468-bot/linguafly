@@ -65,6 +65,25 @@ const CLIPS_BY_UNIT = {
     'no-im-not': "No, I'm not.",
     'they-arent-tired': "They aren't tired.",
   },
+  4: {
+    'a-pen': 'A pen.',
+    'an-apple': 'An apple.',
+    'this-is-a-book': 'This is a book.',
+    'that-is-a-chair': 'That is a chair.',
+    'these-are-pens': 'These are pens.',
+    'those-are-books': 'Those are books.',
+    'what-is-this': 'What is this?',
+    'it-is-a-ruler': 'It is a ruler.',
+    'one-to-ten': 'One, two, three, four, five, six, seven, eight, nine, ten.',
+    red: 'Red.',
+    blue: 'Blue.',
+    green: 'Green.',
+    black: 'Black.',
+    pen: 'Pen.',
+    pencil: 'Pencil.',
+    book: 'Book.',
+    notebook: 'Notebook.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
