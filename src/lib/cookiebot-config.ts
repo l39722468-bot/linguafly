@@ -1,3 +1,5 @@
+import { shouldLoadInMobiCmp } from '@/lib/inmobi-cmp-config';
+
 export const COOKIEBOT_ID =
   process.env.NEXT_PUBLIC_COOKIEBOT_ID || '474b1dce-7229-40d3-88c2-a2323b9a57f9';
 
@@ -27,5 +29,6 @@ export function isCookiebotHost(hostname: string): boolean {
 export function shouldLoadCookiebot(hostname?: string): boolean {
   if (process.env.NEXT_PUBLIC_COOKIEBOT_ENABLED === 'false') return false;
   if (!hostname) return false;
+  if (shouldLoadInMobiCmp(hostname)) return false;
   return isCookiebotHost(hostname);
 }

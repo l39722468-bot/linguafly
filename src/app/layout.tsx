@@ -4,6 +4,7 @@ import { OrganizationSchema, WebsiteSchema } from "./schema";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import Cookiebot from "@/components/Cookiebot";
 import CookiebotBannerVisibility from "@/components/CookiebotBannerVisibility";
+import InMobiChoiceConsent from "@/components/InMobiChoiceConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
 import UspapiLocator from "@/components/UspapiLocator";
@@ -88,6 +89,7 @@ export default function RootLayout({
   return (
     <html lang="es" className="scroll-smooth" suppressHydrationWarning>
       <head>
+        <InMobiChoiceConsent />
         <UspapiLocator />
         <script
           dangerouslySetInnerHTML={{
@@ -114,6 +116,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <link rel="dns-prefetch" href="https://nprqtjljoekoirlrjxlh.supabase.co" />
         <link rel="preconnect" href="https://consent.cookiebot.com" />
         <link rel="dns-prefetch" href="https://consent.cookiebot.com" />
+        <link rel="preconnect" href="https://cmp.inmobi.com" />
+        <link rel="dns-prefetch" href="https://cmp.inmobi.com" />
         <link rel="dns-prefetch" href="https://quge5.com" />
         {/* Schema.org structured data */}
         <OrganizationSchema />
