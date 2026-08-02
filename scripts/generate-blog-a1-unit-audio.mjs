@@ -102,6 +102,23 @@ const CLIPS_BY_UNIT = {
     'every-morning': 'Every morning.',
     'i-get-up-at-seven': 'I get up at seven.',
   },
+  6: {
+    mother: 'Mother.',
+    father: 'Father.',
+    brother: 'Brother.',
+    sister: 'Sister.',
+    grandmother: 'Grandmother.',
+    'this-is-my-mother': 'This is my mother.',
+    'his-name-is-robert': 'His name is Robert.',
+    'her-name-is-sarah': 'Her name is Sarah.',
+    'our-family-is-big': 'Our family is big.',
+    'robert-name': "Robert's name is Robert.",
+    'fathers-name': "My father's name.",
+    'i-have-one-brother': 'I have one brother and two sisters.',
+    'do-you-have-brothers': 'Do you have brothers or sisters?',
+    'grandmother-eighty': 'My grandmother is eighty years old.',
+    'her-father-doctor': 'Her father is a doctor.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
