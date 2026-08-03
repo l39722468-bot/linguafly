@@ -470,6 +470,28 @@ const CLIPS_BY_UNIT = {
     'i-sit-on-the-sofa': 'I sit on the sofa.',
     'that-table-is-ours': 'That table is ours.',
   },
+  23: {
+    'there-is-a-book': 'There is a book on the table.',
+    'there-are-two-chairs': 'There are two chairs in the room.',
+    'there-isnt-a-pen': "There isn't a pen in my bag.",
+    'there-arent-any-apples': "There aren't any apples.",
+    'is-there-a-bathroom': 'Is there a bathroom upstairs?',
+    'are-there-any-chairs': 'Are there any chairs?',
+    'yes-there-is': 'Yes, there is.',
+    'no-there-isnt': "No, there isn't.",
+    'yes-there-are': 'Yes, there are.',
+    'no-there-arent': "No, there aren't.",
+    'in-the-bag': 'The book is in the bag.',
+    'on-the-table': 'The cup is on the table.',
+    'under-the-bed': 'The ball is under the bed.',
+    'behind-the-sofa': 'The cat is behind the sofa.',
+    'there-is-a-lamp-on': 'There is a lamp on the table.',
+    'there-are-three-books': 'There are three books under the bed.',
+    'the-bag-is-behind': 'The bag is behind the chair.',
+    'there-isnt-any-milk': "There isn't any milk in the fridge.",
+    'where-is-the-clock': 'Where is the clock? It is on the wall.',
+    'there-is-a-window': 'There is a window in the room.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

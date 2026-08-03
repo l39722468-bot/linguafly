@@ -530,6 +530,10 @@ También puedes grabarte haciendo el tour de muebles y escucharlo al día siguie
 
 En la **Unidad 23** profundizarás en ***There is / There are*** para describir espacios con más precisión.
 
+Guía dedicada:
+
+- [Unidad 23 — There is / There are](/blog/curso-a1/unidad-23-there-is-there-are)
+
 Guías relacionadas:
 
 - [Unidad 21 — Habitaciones de la casa](/blog/curso-a1/unidad-21-habitaciones-casa)
