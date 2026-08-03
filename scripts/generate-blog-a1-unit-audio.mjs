@@ -448,6 +448,28 @@ const CLIPS_BY_UNIT = {
     'the-garden-is-big': 'The garden is big.',
     'i-sleep-in-the-bedroom': 'I sleep in the bedroom.',
   },
+  22: {
+    bed: 'Bed.',
+    sofa: 'Sofa.',
+    table: 'Table.',
+    chair: 'Chair.',
+    fridge: 'Fridge.',
+    wardrobe: 'Wardrobe.',
+    desk: 'Desk.',
+    lamp: 'Lamp.',
+    shelf: 'Shelf.',
+    'this-sofa-is-mine': 'This sofa is mine.',
+    'that-chair-is-yours': 'That chair is yours.',
+    'the-bed-is-his': 'The bed is his.',
+    'this-bag-is-hers': 'This bag is hers.',
+    'is-this-pen-yours': 'Is this pen yours?',
+    'yes-its-mine': "Yes, it's mine.",
+    'whose-is-this': "Whose is this? It's hers.",
+    'there-is-a-bed': 'There is a bed and a wardrobe in the bedroom.',
+    'the-fridge-is-in': 'The fridge is in the kitchen.',
+    'i-sit-on-the-sofa': 'I sit on the sofa.',
+    'that-table-is-ours': 'That table is ours.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

@@ -536,6 +536,10 @@ Escribe 6–8 frases: cuántas habitaciones, cuáles son, y 3 adjetivos.
 
 En la **Unidad 22** llenarás estas habitaciones de **muebles** (*Furniture & Household Items*) y practicarás *mine / yours*.
 
+Guía dedicada:
+
+- [Unidad 22 — Muebles y posesivos: mine, yours](/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours)
+
 Guías relacionadas:
 
 - [Unidad 20 — Repaso Módulo 2](/blog/curso-a1/unidad-20-repaso-modulo-2)
