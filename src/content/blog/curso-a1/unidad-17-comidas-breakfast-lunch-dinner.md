@@ -340,7 +340,9 @@ Rellena con tu rutina real. Si lo escribes y lo dices en voz alta, se queda much
 > What do you have for lunch? — A sandwich and water.  
 > Do you like cheese? — Yes, I do. I love cheese!
 
-Lee la lista dos veces en voz alta. Luego tapa el inglés y traduce desde el español.
+Lee la lista dos veces en voz alta. Luego tapa el inglés y traduce desde el español. Si puedes, grábate y comprueba que usas *have* (no solo *eat*) y que en 3.ª persona aparece la *-s* (*likes / loves / hates*).
+
+Otra idea rápida: escribe tu desayuno de hoy en tres frases (*I have… / I like… / I don't like…*) y compártelas con alguien o déjalas en una nota del móvil.
 
 ---
 
