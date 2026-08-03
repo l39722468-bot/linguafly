@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-7-colores-descripcion
 image: /blog/curso-a1/unit-7/a1-unit7-colors.png
 alt: Tabla de colores básicos en inglés nivel A1 con ejemplos
 related_routes:
+  - unidad-8-numeros-edad-precios
   - unidad-6-familia-posesivos-genitivo
   - unidad-5-present-simple-rutinas
   - ingles-a1
@@ -406,10 +407,13 @@ Escribe 5 frases sobre un amigo, un familiar o un personaje. Usa al menos **un c
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 8** aprenderás **números del 20 al 100**, edades y precios (*How old/much is…?*) para preguntar y decir cifras con confianza.
+En la **Unidad 8** aprendes **números del 20 al 100**, edades y precios (*How old/much is…?*) para preguntar y decir cifras con confianza.
+
+→ [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
 
 Guías relacionadas:
 
+- [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
 - [Unidad 6 — Familia, posesivos y genitivo sajón](/blog/curso-a1/unidad-6-familia-posesivos-genitivo)
 - [Unidad 5 — Present Simple y rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
 - [Unidad 3 — To be negativa y preguntas](/blog/curso-a1/unidad-3-to-be-negativa-preguntas)
