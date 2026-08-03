@@ -541,6 +541,10 @@ Escribe sobre tus hábitos: qué te gusta, qué no haces, y 2 preguntas que har�
 
 En la **Unidad 15** aprenderás la 3.ª persona: ***doesn't*** y ***Does he/she…?***.
 
+Guía dedicada:
+
+- [Unidad 15 — Present Simple: doesn't y Does he/she…?](/blog/curso-a1/unidad-15-present-simple-doesnt-does)
+
 Guías relacionadas:
 
 - [Unidad 13 — Rutina diaria](/blog/curso-a1/unidad-13-rutina-diaria)

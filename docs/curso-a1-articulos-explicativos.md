@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-03 (artículos U1–U14 ≥2000 palabras)  
+**Última actualización:** 2026-08-03 (artículos U1–U15 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 14 |
-| Artículos dedicados pendientes | 46 |
+| Artículos dedicados publicados | 15 |
+| Artículos dedicados pendientes | 45 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -54,7 +54,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 12 | Days of the Week | *on* + días, hábitos | ✅ | [Días de la semana A1](/blog/curso-a1/unidad-12-dias-semana) |
 | 13 | Daily Routine | Secuenciadores + Present Simple | ✅ | [Rutina diaria A1](/blog/curso-a1/unidad-13-rutina-diaria) |
 | 14 | Present Simple: I, You, We, They | *don't*, *Do you…?* | ✅ | [Present Simple: don't y Do you A1](/blog/curso-a1/unidad-14-present-simple-dont-do-you) |
-| 15 | Present Simple: He, She, It | *doesn't*, *Does…?* | 🔶 | Rutina/apps |
+| 15 | Present Simple: He, She, It | *doesn't*, *Does…?* | ✅ | [Present Simple: doesn't y Does A1](/blog/curso-a1/unidad-15-present-simple-doesnt-does) |
 | 16 | At the Cafe | *Can I have…?*, *I'd like…* | 🔶 | Hostelería/restaurante |
 | 17 | Breakfast, Lunch & Dinner | Contables/incontables (intro) | 🔶 | Hostelería/restaurante |
 | 18 | Likes & Dislikes | *like + -ing*, *because* | ❌ | Pendiente |

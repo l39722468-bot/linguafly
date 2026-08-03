@@ -294,6 +294,28 @@ const CLIPS_BY_UNIT = {
     'yes-i-do': 'Yes, I do.',
     'no-i-dont': "No, I don't.",
   },
+  15: {
+    'wakes-up': 'Wakes up.',
+    'writes-reports': 'Writes reports.',
+    barks: 'Barks.',
+    meows: 'Meows.',
+    flies: 'Flies.',
+    swims: 'Swims.',
+    teaches: 'Teaches.',
+    'helps-patients': 'Helps patients.',
+    'he-doesnt-like': "He doesn't like getting up early.",
+    'she-doesnt-study': "She doesn't study English.",
+    'it-doesnt-eat-meat': "It doesn't eat meat.",
+    'the-cow-doesnt-eat': "The cow doesn't eat meat.",
+    'does-he-play': 'Does he play football?',
+    'does-she-cook': 'Does she cook?',
+    'does-the-cat-like': 'Does the cat like milk?',
+    'does-maria-work': 'Does Maria work on Sunday?',
+    'yes-he-does': 'Yes, he does.',
+    'no-she-doesnt': "No, she doesn't.",
+    'yes-it-does': 'Yes, it does.',
+    'she-goes-to-work': 'She goes to work at nine.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
