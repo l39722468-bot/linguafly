@@ -371,7 +371,7 @@ Lee la lista dos veces en voz alta. Luego tapa el inglés y traduce desde el esp
 
 Haz el “triple salto” con un hobby: afirmativa → negativa → pregunta con *Why?*. Ejemplo: *I like swimming.* → *I don't like swimming.* → *Why do you like swimming? Because it's fun.*
 
-Otra rutina de dos minutos: elige tres hobbies reales tuyos y escribe para cada uno *I like …ing because…*. Luego cambia uno a negativa (*I don't like …ing because…*). Así practicas forma y significado a la vez, no solo la lista de verbos. Si estudias con alguien, intercambiad las listas y preguntad *Why?* para forzar la respuesta con *Because*.
+Otra rutina de dos minutos: elige tres hobbies reales tuyos y escribe para cada uno *I like …ing because…*. Luego cambia uno a negativa (*I don't like …ing because…*). Así practicas forma y significado a la vez, no solo la lista de verbos. Si estudias con alguien, intercambiad las listas y preguntad *Why?* para forzar la respuesta con *Because*. Repite el intercambio una segunda vez con hobbies distintos.
 
 ---
 
