@@ -526,6 +526,10 @@ Escribe un mini-diálogo (6–8 líneas) en una cafetería: saludo, pedido con *
 
 En la **Unidad 17** hablarás de **Breakfast, Lunch & Dinner** e introducirás ideas de contables/incontables.
 
+Guía dedicada:
+
+- [Unidad 17 — Comidas: Breakfast, Lunch & Dinner](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner)
+
 Guías relacionadas:
 
 - [Unidad 15 — doesn't y Does he/she…?](/blog/curso-a1/unidad-15-present-simple-doesnt-does)

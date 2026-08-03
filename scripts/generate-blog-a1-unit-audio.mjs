@@ -338,6 +338,28 @@ const CLIPS_BY_UNIT = {
     'anything-else': 'Anything else?',
     'thats-all-thanks': "No, that's all, thanks.",
   },
+  17: {
+    breakfast: 'Breakfast.',
+    lunch: 'Lunch.',
+    dinner: 'Dinner.',
+    apple: 'Apple.',
+    milk: 'Milk.',
+    cheese: 'Cheese.',
+    bread: 'Bread.',
+    eggs: 'Eggs.',
+    vegetables: 'Vegetables.',
+    meat: 'Meat.',
+    'i-like-cheese': 'I like cheese.',
+    'she-loves-pasta': 'She loves pasta.',
+    'he-hates-fish': 'He hates fish.',
+    'they-dont-like-broccoli': "They don't like broccoli.",
+    'do-you-like-milk': 'Do you like milk?',
+    'i-have-breakfast': 'I have breakfast at eight.',
+    'she-has-lunch': 'She has lunch at one.',
+    'we-have-dinner': 'We have dinner at eight.',
+    'i-like-fruit': 'I like fruit for breakfast.',
+    'she-doesnt-like-meat': "She doesn't like meat.",
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
