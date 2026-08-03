@@ -8,7 +8,7 @@ description: >-
   Aprende el verbo to be en negativa (am not, isn't, aren't), preguntas sí/no,
   respuestas cortas y vocabulario de emociones en inglés A1. Guía Unidad 3 con
   ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - verbo to be negativa inglés
   - preguntas con to be inglés

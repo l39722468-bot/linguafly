@@ -8,7 +8,7 @@ description: >-
   Aprende vocabulario de la familia en inglés A1, adjetivos posesivos (my, your,
   his, her, our, their) y el genitivo sajón ('s). Guía Unidad 6 con ejemplos,
   audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - familia en inglés
   - adjetivos posesivos inglés

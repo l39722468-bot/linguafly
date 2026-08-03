@@ -8,7 +8,7 @@ description: >-
   Aprende números del 20 al 100 en inglés A1, How old are you?, How much is…?,
   precios y números de teléfono. Guía Unidad 8 con ejemplos, audios y ejercicios
   prácticos.
-readTime: 13 min
+readTime: 15 min
 keywords:
   - números en inglés 20 a 100
   - how old are you

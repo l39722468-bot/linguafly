@@ -7,7 +7,7 @@ title: 'Rutinas Diarias y la Hora en Inglés (A1): What Time…? y at + Time'
 description: >-
   Aprende rutinas diarias en inglés A1, What time do you…?, at + hora, o'clock y
   half past. Guía Unidad 10 con ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - rutinas diarias en inglés
   - what time do you

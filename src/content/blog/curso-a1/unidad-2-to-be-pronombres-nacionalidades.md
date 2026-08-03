@@ -8,7 +8,7 @@ description: >-
   Aprende los pronombres personales en inglés (he, she, it, we, they), el verbo
   to be con is y are, países, nacionalidades y números del 1 al 10. Guía A1
   Unidad 2 con ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - verbo to be inglés
   - pronombres en inglés A1

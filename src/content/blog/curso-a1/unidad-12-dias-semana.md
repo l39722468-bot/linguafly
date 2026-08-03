@@ -8,7 +8,7 @@ description: >-
   Aprende los días de la semana en inglés A1, la preposición on con días,
   weekend, weekdays y What do you do on…?. Guía Unidad 12 con ejemplos, audios y
   ejercicios.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - días de la semana en inglés
   - on monday on tuesday

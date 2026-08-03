@@ -7,7 +7,7 @@ title: 'Profesiones en Inglés (A1): Jobs, a/an y Where Do You Work?'
 description: >-
   Aprende profesiones en inglés A1, a/an con trabajos, I am a teacher y Where do
   you work?. Guía Unidad 9 con ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - profesiones en inglés
   - jobs and occupations A1

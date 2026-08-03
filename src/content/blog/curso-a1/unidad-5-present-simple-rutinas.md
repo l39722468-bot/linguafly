@@ -8,7 +8,7 @@ description: >-
   Aprende el Present Simple en afirmativa en inglés A1: rutinas diarias, verbos
   work, study, eat, drink, sleep, play y la regla de la 3.ª persona (-s). Guía
   Unidad 5 con ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - present simple inglés
   - presente simple inglés A1

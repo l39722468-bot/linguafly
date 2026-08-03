@@ -8,7 +8,7 @@ description: >-
   Aprende los artículos a y an, plurales regulares, demostrativos this/that/these/those,
   números del 1 al 10, objetos del aula y colores en inglés A1. Guía Unidad 4 con
   ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - artículos a y an inglés
   - this that these those inglés

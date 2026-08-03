@@ -8,7 +8,7 @@ description: >-
   Aprende colores en inglés A1, adjetivos de descripción física (tall, short,
   young, old) y have got para pelo y ojos. Guía Unidad 7 con ejemplos, audios y
   ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - colores en inglés
   - descripciones físicas inglés

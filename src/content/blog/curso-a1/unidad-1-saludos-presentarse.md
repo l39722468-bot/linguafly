@@ -8,7 +8,7 @@ description: >-
   Aprende a saludar y presentarte en inglés nivel A1: Hello, Hi, Good morning,
   My name is…, I am from… y el verbo to be con I y You. Guía con ejemplos,
   audios de pronunciación y ejercicios prácticos para la Unidad 1 del curso A1.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - saludos en inglés
   - presentarse en inglés
