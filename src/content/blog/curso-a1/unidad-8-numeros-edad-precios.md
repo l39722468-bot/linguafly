@@ -22,6 +22,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-8-numeros-edad-precio
 image: /blog/curso-a1/unit-8/a1-unit8-numbers.png
 alt: Tabla de números del 20 al 100 en inglés nivel A1
 related_routes:
+  - unidad-9-profesiones-ocupaciones
   - unidad-7-colores-descripciones-fisicas
   - unidad-6-familia-posesivos-genitivo
   - ingles-a1
@@ -482,10 +483,13 @@ Escribe 6 frases: tu edad, la edad de un familiar, el precio de dos objetos, si 
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 9** aprenderás **profesiones y ocupaciones** (*Jobs & Occupations*) y a usar *a/an* con trabajos (*I am a teacher*).
+En la **Unidad 9** aprendes **profesiones y ocupaciones** (*Jobs & Occupations*) y a usar *a/an* con trabajos (*I am a teacher*).
+
+→ [Unidad 9 — Profesiones y ocupaciones](/blog/curso-a1/unidad-9-profesiones-ocupaciones)
 
 Guías relacionadas:
 
+- [Unidad 9 — Profesiones y ocupaciones](/blog/curso-a1/unidad-9-profesiones-ocupaciones)
 - [Unidad 7 — Colores y descripciones físicas](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)
 - [Unidad 6 — Familia, posesivos y genitivo sajón](/blog/curso-a1/unidad-6-familia-posesivos-genitivo)
 - [Unidad 4 — Artículos y demostrativos](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
