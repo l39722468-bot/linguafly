@@ -635,6 +635,10 @@ Escribe 8–10 frases sobre tu barrio o un mapa inventado. Usa las **cuatro** pr
 
 En la **Unidad 25** describirás tu **barrio** con más detalle y practicarás ***the* vs *a/an*** y ***some/any***.
 
+Guía dedicada:
+
+- [Unidad 25 — My Neighborhood (the / a/an / some/any)](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any)
+
 Guías relacionadas:
 
 - [Unidad 23 — There is / There are](/blog/curso-a1/unidad-23-there-is-there-are)

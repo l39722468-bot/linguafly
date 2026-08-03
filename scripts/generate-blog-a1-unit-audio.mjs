@@ -514,6 +514,28 @@ const CLIPS_BY_UNIT = {
     'ask-directions': 'Excuse me. Where is the bus stop? It is in front of the library.',
     'review-sentence': 'The bank is next to the supermarket. The cinema is opposite the park.',
   },
+  25: {
+    'a-supermarket-near': 'There is a supermarket near my house.',
+    'an-apple-on-table': 'There is an apple on the table.',
+    'go-to-the-park': 'I go to the park every day.',
+    'go-to-the-cinema': 'I want to go to the cinema.',
+    'some-shops': 'There are some shops in my street.',
+    'any-cafes': 'Are there any cafes near here?',
+    'arent-any-pharmacies': "There aren't any pharmacies here.",
+    'some-milk': 'I need some milk from the supermarket.',
+    'any-bread': 'Do you have any bread?',
+    'quiet-neighbourhood': 'My neighbourhood is quiet and nice.',
+    'park-near-house': 'There is a park near my house.',
+    'buy-some-food': 'I buy some food at the supermarket.',
+    'cinema-opposite-park': 'There is a cinema opposite the park.',
+    'library-next-to-school': 'There is a library next to the school.',
+    'isnt-a-pharmacy': "There isn't a pharmacy in my street.",
+    'pharmacy-next-street': 'There is a pharmacy in the next street.',
+    'at-the-pharmacy': 'I buy medicine at the pharmacy.',
+    'like-the-park': 'I like the park because it is quiet.',
+    'watch-films': 'We sometimes watch films at the cinema.',
+    'describe-neighbourhood': 'There is a supermarket in the street. There are some shops near the park.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

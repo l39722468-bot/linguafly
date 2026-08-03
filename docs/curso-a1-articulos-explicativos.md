@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-03 (artículos U1–U24 ≥2000 palabras)  
+**Última actualización:** 2026-08-03 (artículos U1–U25 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 24 |
-| Artículos dedicados pendientes | 36 |
+| Artículos dedicados publicados | 25 |
+| Artículos dedicados pendientes | 35 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -71,7 +71,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 22 | Furniture & Household Items | Posesivos mine/yours | ✅ | [Muebles y mine/yours A1](/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours) |
 | 23 | There is / There are | *There is/are* | ✅ | [There is / There are A1](/blog/curso-a1/unidad-23-there-is-there-are) |
 | 24 | Prepositions of Place | Preposiciones de lugar | ✅ | [Preposiciones de lugar A1](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between) |
-| 25 | My Neighborhood | *the* vs *a/an*, *some/any* | ❌ | Pendiente |
+| 25 | My Neighborhood | *the* vs *a/an*, *some/any* | ✅ | [My Neighborhood A1](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any) |
 | 26 | Giving Directions | Imperativos | ❌ | Pendiente |
 | 27 | Pets & Animals | Vocabulario animales | ❌ | Pendiente |
 | 28 | Body Parts | *have/has got* | ❌ | Pendiente |
