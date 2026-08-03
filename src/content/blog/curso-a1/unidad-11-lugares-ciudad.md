@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-11-lugares-ciudad'
 image: /blog/curso-a1/unit-11/a1-unit11-places.png
 alt: Tabla de lugares en la ciudad en inglés nivel A1
 related_routes:
+  - unidad-12-dias-semana
   - unidad-10-rutinas-diarias-hora
   - unidad-9-profesiones-ocupaciones
   - ingles-a1
@@ -351,10 +352,13 @@ Escribe 5–6 frases sobre tu calle o pueblo. Usa *There is/are*, al menos **dos
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 12** aprenderás los **días de la semana** (*Days of the Week*) y a hablar de hábitos con *on Monday*, *on Tuesday*…
+En la **Unidad 12** aprendes los **días de la semana** (*Days of the Week*) y a hablar de hábitos con *on Monday*, *on Tuesday*…
+
+→ [Unidad 12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana)
 
 Guías relacionadas:
 
+- [Unidad 12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana)
 - [Unidad 10 — Rutinas diarias y la hora](/blog/curso-a1/unidad-10-rutinas-diarias-hora)
 - [Unidad 9 — Profesiones y ocupaciones](/blog/curso-a1/unidad-9-profesiones-ocupaciones)
 - [Unidad 4 — Artículos y demostrativos](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
