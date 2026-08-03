@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-10-rutinas-diarias-ho
 image: /blog/curso-a1/unit-10/a1-unit10-routines.png
 alt: Tabla de rutinas diarias en inglés nivel A1 con horarios
 related_routes:
+  - unidad-11-lugares-ciudad
   - unidad-9-profesiones-ocupaciones
   - unidad-8-numeros-edad-precios
   - unidad-5-present-simple-rutinas
