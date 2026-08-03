@@ -514,6 +514,10 @@ Escribe 6–8 frases: qué tomas en breakfast/lunch/dinner y qué te gusta o no.
 
 En la **Unidad 18** profundizarás en **Likes & Dislikes**: *like + -ing* y *because*.
 
+Guía dedicada:
+
+- [Unidad 18 — Gustos: like + -ing y Why? Because…](/blog/curso-a1/unidad-18-gustos-like-ing-because)
+
 Guías relacionadas:
 
 - [Unidad 16 — Pedir en la cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)

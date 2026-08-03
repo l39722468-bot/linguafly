@@ -360,6 +360,28 @@ const CLIPS_BY_UNIT = {
     'i-like-fruit': 'I like fruit for breakfast.',
     'she-doesnt-like-meat': "She doesn't like meat.",
   },
+  18: {
+    reading: 'Reading.',
+    swimming: 'Swimming.',
+    dancing: 'Dancing.',
+    cooking: 'Cooking.',
+    running: 'Running.',
+    'watching-films': 'Watching films.',
+    'listening-to-music': 'Listening to music.',
+    'playing-football': 'Playing football.',
+    'i-like-reading': 'I like reading.',
+    'she-likes-watching': 'She likes watching films.',
+    'they-dont-like-dancing': "They don't like dancing.",
+    'he-doesnt-like-cooking': "He doesn't like cooking.",
+    'i-like-listening': 'I like listening to music.',
+    'why-do-you-like': 'Why do you like it?',
+    'because-its-fun': "Because it's fun.",
+    'because-its-relaxing': "Because it's relaxing.",
+    'i-like-swimming-because': "I like swimming because it's fun.",
+    'what-kind-of-music': 'What kind of music do you like?',
+    'i-like-pop-and-rock': 'I like pop and rock.',
+    'do-you-like-comedy': 'Do you like comedy films?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-03 (artículos U1–U17 ≥2000 palabras)  
+**Última actualización:** 2026-08-03 (artículos U1–U18 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 17 |
-| Artículos dedicados pendientes | 43 |
+| Artículos dedicados publicados | 18 |
+| Artículos dedicados pendientes | 42 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -57,7 +57,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 15 | Present Simple: He, She, It | *doesn't*, *Does…?* | ✅ | [Present Simple: doesn't y Does A1](/blog/curso-a1/unidad-15-present-simple-doesnt-does) |
 | 16 | At the Cafe | *Can I have…?*, *I'd like…* | ✅ | [Pedir en la cafetería A1](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like) |
 | 17 | Breakfast, Lunch & Dinner | Contables/incontables (intro) | ✅ | [Comidas Breakfast Lunch Dinner A1](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner) |
-| 18 | Likes & Dislikes | *like + -ing*, *because* | ❌ | Pendiente |
+| 18 | Likes & Dislikes | *like + -ing*, *because* | ✅ | [Gustos like + -ing A1](/blog/curso-a1/unidad-18-gustos-like-ing-because) |
 | 19 | Months & Dates | Meses, ordinales, cumpleaños | ❌ | Pendiente |
 | 20 | Module 2 Review | Repaso módulo 2 | ⏭️ | Pendiente (opcional) |
 
