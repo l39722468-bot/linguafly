@@ -120,6 +120,35 @@ Sujeto + am/is/are + color
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-7/the-sky-is-blue.mp3" title="🔊 The sky is blue"></audio>
 
+### Más ejemplos con colores (objetos y naturaleza)
+
+| Inglés | Traducción |
+| :--- | :--- |
+| The grass **is** green. | La hierba es verde. |
+| The sun **is** yellow. | El sol es amarillo. |
+| My bag **is** black. | Mi bolso es negro. |
+| The paper **is** white. | El papel es blanco. |
+| Her eyes **are** brown. | Sus ojos son marrones / castaños. |
+| His favourite colour **is** red. | Su color favorito es el rojo. |
+
+### Pronunciación de colores (A1)
+
+| Color | Tip |
+| :--- | :--- |
+| **red** | /red/ — corta y clara |
+| **blue** | /bluː/ — *u* larga |
+| **green** | /ɡriːn/ — *ee* larga |
+| **yellow** | YE-llow — acento en la primera sílaba |
+| **black** | /blæk/ — no digas «blec» |
+| **white** | /waɪt/ — diptongo como *I* |
+| **brown** | /braʊn/ — como *how* + *n* |
+
+**Práctica rápida:** señala objetos a tu alrededor y di *It is…* + color: *It is blue. It is black. It is white.*
+
+### Colour (UK) vs color (US)
+
+Ambas grafías son correctas. En materiales británicos verás *colour*; en americanos, *color*. La pronunciación es la misma. En el curso usamos a menudo *colour* (*What colour are her eyes?*).
+
 ---
 
 ## 2. Adjetivos de descripción física
@@ -161,6 +190,27 @@ En inglés el adjetivo va **antes** del sustantivo:
 | :--- | :--- | :--- |
 | *to be* + adjetivo | Describir a la persona | She **is tall**. |
 | adjetivo + nombre | Modificar el sustantivo | **long brown** hair |
+
+### Mini-sección: *short* tiene dos usos
+
+| Uso | Ejemplo | Significado |
+| :--- | :--- | :--- |
+| Altura de persona | He is **short**. | Es bajo. |
+| Longitud de pelo | He has **short** hair. | Tiene el pelo corto. |
+
+Contexto: *She is short* ≠ *She has short hair*. La primera habla de la persona; la segunda, del pelo.
+
+### Opuestos esenciales (memoriza en pares)
+
+| Adjetivo | Opuesto | Ejemplo |
+| :--- | :--- | :--- |
+| tall | short | She is tall. / He is short. |
+| young | old | She is young. / He is old. |
+| long | short | long hair / short hair |
+| dark | light / fair | dark hair / fair hair (pelo claro) |
+| beautiful | — | She is beautiful. |
+
+En A1, *old* para personas suele equivaler a «mayor»; evita usarlo de forma descortés en conversación real. Con números es neutro: *She is eighty years old.*
 
 ---
 
@@ -206,6 +256,30 @@ long/short + color + hair
 - **short black hair** ✅
 - ~~brown long hair~~ ❌
 
+### Have vs have got (cuándo usar cada uno)
+
+| Forma | Registro | Ejemplo |
+| :--- | :--- | :--- |
+| **have / has** | neutro, universal | She **has** blue eyes. |
+| **have got / has got** | muy frecuente en británico informal | She **has got** blue eyes. |
+
+En A1 ambas son aceptables. Elige una y sé consistente en el mismo texto. Con *he/she/it*: **has** / **has got** (nunca *have got* con *she*).
+
+### Más ejemplos de pelo y ojos
+
+| Inglés | Traducción |
+| :--- | :--- |
+| I have got short black hair. | Tengo el pelo negro corto. |
+| He has dark brown eyes. | Él tiene ojos marrones oscuros. |
+| She has got long yellow hair. | Ella tiene el pelo rubio/amarillo largo. *(en A1 a veces se usa yellow; más natural: blonde)* |
+| They have blue eyes. | Ellos tienen ojos azules. |
+| My brother has short brown hair. | Mi hermano tiene el pelo castaño corto. |
+
+### Pronunciación: *hair* y *eyes*
+
+- **hair** /heə/ — una sola «unidad» (en inglés no suele decirse *hairs* para el pelo de la cabeza).
+- **eyes** /aɪz/ — plural casi siempre: *blue eyes*, no *a blue eye* (salvo contextos especiales).
+
 ---
 
 ## 4. Describir a una persona completa
@@ -225,6 +299,24 @@ Combina *to be*, adjetivos y *have got*:
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-7/her-eyes-are-green.mp3" title="🔊 Her eyes are green"></audio>
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-7/she-is-very-beautiful.mp3" title="🔊 She is very beautiful"></audio>
+
+### Mini-sección: conectar ideas con *with*
+
+Una forma natural de unir altura y pelo:
+
+- *She is tall **with** long brown hair.*
+- *He is short **with** short black hair.*
+- *My sister is young **with** green eyes.*
+
+Estructura: *Sujeto + is + adjetivo + **with** + descripción de pelo/ojos.*
+
+### Descripción de un hermano (segundo modelo)
+
+> My brother is **short** and **young**. He has **short black hair** and **blue eyes**. He is twenty-two years old. He is a student.
+
+### Descripción de un abuelo (tercer modelo)
+
+> My grandfather is **old**. He has **short white hair** and **brown eyes**. He is eighty years old. He is very kind.
 
 ---
 
@@ -273,6 +365,19 @@ Combina *to be*, adjetivos y *have got*:
 | *Eyes blue* | ***Blue** eyes* | Color + sustantivo |
 | *She is twenty years* | *She is twenty years **old*** | Falta *old* |
 | *A car red* | *A **red** car* | Adjetivo delante |
+
+### Más errores frecuentes en descripciones
+
+| ❌ Incorrecto | ✅ Correcto | Explicación |
+| :--- | :--- | :--- |
+| *She has a long hair* | *She has **long** hair* | *hair* (pelo de la cabeza) es incontable |
+| *He is blue eyes* | *He **has** blue eyes* | ojos → have/has |
+| *Brown long hair* | ***Long brown** hair* | longitud + color |
+| *She has got blue eye* | *She has got blue **eyes*** | plural |
+| *What colour have her eyes?* | ***What colour are** her eyes?* | pregunta fija con *to be* |
+| *He is tall and he is short hair* | *He is tall and he **has** short hair* | no mezclar *to be* con posesión de pelo |
+
+**Checklist:** ¿altura/edad? → *is/are* + adjetivo. ¿pelo/ojos? → *have/has (got)*. ¿adjetivo + nombre? → adjetivo **antes**.
 
 ---
 
@@ -368,6 +473,70 @@ Escribe 5 frases sobre un amigo, un familiar o un personaje. Usa al menos **un c
 
 > My best friend is tall. She has got long brown hair. Her eyes are green. She is young — only twenty years old. She is very beautiful.
 
+### Ejercicio 7 — Completa la descripción
+
+My sister \_\_\_\_ (be) tall. She \_\_\_\_ (have) long brown hair. Her eyes \_\_\_\_ (be) green. She \_\_\_\_ (be) young. She \_\_\_\_ (be) twenty years old.
+
+<details>
+<summary>Ver solución</summary>
+
+My sister **is** tall. She **has** / **has got** long brown hair. Her eyes **are** green. She **is** young. She **is** twenty years old.
+</details>
+
+### Ejercicio 8 — Traduce al inglés
+
+1. Él es bajo y tiene el pelo corto negro.  
+2. ¿De qué color son sus ojos? (ella)  
+3. Mi mejor amigo es alto y joven.  
+4. El coche es amarillo.  
+5. Ella tiene ojos marrones.
+
+<details>
+<summary>Ver solución</summary>
+
+1. He is short and he has (got) short black hair.  
+2. What colour are her eyes?  
+3. My best friend is tall and young.  
+4. The car is yellow.  
+5. She has (got) brown eyes. / Her eyes are brown.
+</details>
+
+### Ejercicio 9 — Ordena y corrige
+
+1. hair / brown / long / She / has  
+2. *He have short hair.* → corrige  
+3. eyes / are / His / blue  
+4. *She is twenty years.* → corrige  
+5. with / tall / She / is / long / hair / black
+
+<details>
+<summary>Ver solución</summary>
+
+1. She has long brown hair.  
+2. He **has** short hair.  
+3. His eyes are blue.  
+4. She is twenty years **old**.  
+5. She is tall with long black hair.
+</details>
+
+### Ejercicio 10 — Empareja pregunta y respuesta
+
+1. What does he look like?  
+2. What colour is her hair?  
+3. Is she tall?  
+4. How old is he?
+
+Opciones: (a) Yes, she is tall. (b) He is thirty years old. (c) He is short with dark hair. (d) It is brown. / She has brown hair.
+
+<details>
+<summary>Ver solución</summary>
+
+1 → (c)  
+2 → (d)  
+3 → (a)  
+4 → (b)
+</details>
+
 ---
 
 ## 9. Diálogo modelo
@@ -390,6 +559,13 @@ Escribe 5 frases sobre un amigo, un familiar o un personaje. Usa al menos **un c
 3. **Memoriza opuestos**: tall/short, young/old, long/short, dark/light.
 4. **Escucha los audios** y repite con la misma entonación.
 5. Haz los ejercicios de la [Unidad 7 del curso A1](/curso-a1/unit-7).
+
+### Plan de práctica de 10 minutos
+
+1. **2 min:** repite los colores en voz alta mirando objetos reales.
+2. **3 min:** describe a 2 personas (amigo + familiar) con *is* + *has (got)*.
+3. **3 min:** practica el orden *long/short + color + hair* con 5 combinaciones.
+4. **2 min:** responde: *What colour are her eyes? What does he look like?*
 
 ---
 

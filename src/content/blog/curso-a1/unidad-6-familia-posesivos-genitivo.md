@@ -116,6 +116,31 @@ Estas son las palabras centrales de la Unidad 6:
 | **close** | unido / cercano | Our family is very close. |
 | **photo** | foto | This is a photo of my family. |
 
+### Formas familiares y formalidad (A1)
+
+En conversación informal oírás formas cortas. En A1, prioriza las formas completas en escritura:
+
+| Formal / neutro | Informal (escucha) | Español |
+| :--- | :--- | :--- |
+| mother | mum (UK) / mom (US) | mamá |
+| father | dad | papá |
+| grandmother | grandma | abuela |
+| grandfather | grandpa | abuelo |
+
+**Consejo:** en exámenes y textos escritos de A1, *mother* y *father* son la opción más segura.
+
+### Pronunciación: palabras largas de familia
+
+| Palabra | Sílabas (aprox.) | Tip |
+| :--- | :--- | :--- |
+| **grandmother** | gran-dmo-ther | acento en *grand* |
+| **grandfather** | gran-dfa-ther | misma lógica |
+| **daughter** | DAUGH-ter (/ˈdɔːtə/) | *gh* no se pronuncia |
+| **uncle** | UN-cle | /ˈʌŋkl/ |
+| **aunt** | UK /ɑːnt/ · US /ænt/ | dos pronunciaciones comunes |
+
+Practica en cadena: *mother → father → brother → sister → grandmother → grandfather*.
+
 ---
 
 ## 2. Adjetivos posesivos
@@ -158,6 +183,27 @@ En la **Unidad 1** ya usaste **my** y **your**. La Unidad 6 amplía el conjunto:
 | :--- | :--- |
 | my, your | his, her, our, their |
 
+### Mini-sección: *his* vs *her* (el error nº 1)
+
+En español, «su» sirve para él y para ella. En inglés **no**:
+
+| Situación | Posesivo | Ejemplo |
+| :--- | :--- | :--- |
+| El dueño es un hombre | **his** | Tom → **His** sister is a doctor. |
+| La dueña es una mujer | **her** | Ana → **Her** brother is tall. |
+| Los dueños son varias personas | **their** | Tom and Ana → **Their** children are young. |
+
+**Truco:** mira primero **quién posee**, no el objeto. *His daughter* (la hija **de él**) / *Her son* (el hijo **de ella**).
+
+### Pronunciación de posesivos
+
+| Posesivo | Tip de sonido |
+| :--- | :--- |
+| **his** | /hɪz/ — la *s* suena /z/ |
+| **her** | /hɜː/ — no digas «jer» |
+| **our** | /aʊə/ o /ɑː/ — similar a *hour* en muchos acentos |
+| **their** | /ðeə/ — igual que *there* / *they're* en sonido |
+
 ---
 
 ## 3. Genitivo sajón ('s)
@@ -199,6 +245,26 @@ Nombre / sustantivo + 's + cosa poseída
 
 Ambas formas son correctas en A1. El adjetivo posesivo es más frecuente en conversación; el genitivo sajón es muy común en preguntas (*What is the father's name?*).
 
+### Más ejemplos con genitivo sajón
+
+| Inglés | Español |
+| :--- | :--- |
+| My **brother's** name is Pablo. | El nombre de mi hermano es Pablo. |
+| **Lisa's** grandmother is eighty. | La abuela de Lisa tiene ochenta años. |
+| The **teacher's** car is red. | El coche del profesor es rojo. |
+| My **uncle's** daughter is ten. | La hija de mi tío tiene diez años. |
+
+### Mini-sección: *'s* de posesión vs *is* contraído
+
+En A1 verás *'s* en dos usos distintos:
+
+| Uso | Ejemplo | Significado |
+| :--- | :--- | :--- |
+| Genitivo (posesión) | Robert**'s** name | el nombre de Robert |
+| Contracción de *is* | Robert**'s** tall | Robert **is** tall |
+
+**Cómo distinguirlos:** si después hay un **sustantivo** (*name, car, sister*), suele ser posesión. Si hay un **adjetivo** (*tall, happy, a doctor*), suele ser *is*.
+
 ---
 
 ## 4. Hablar de tu familia con *have*
@@ -222,6 +288,18 @@ Para decir que **tienes** familiares, usa ***have*** (o ***has*** con he/she/it)
 - **No, I don't have brothers or sisters.**
 - **Yes, she has one daughter.**
 
+### Números con familiares (combinaciones útiles)
+
+| Español | Inglés |
+| :--- | :--- |
+| un hermano | one brother |
+| dos hermanas | two sisters |
+| tres hijos | three children / three sons |
+| un hijo y una hija | one son and one daughter |
+| no tengo hermanos | I don't have brothers or sisters. / I don't have any brothers or sisters. |
+
+**have vs has (repaso Present Simple):** *I/you/we/they **have*** · *he/she/it **has***. Ejemplo: *My sister **has** two children. We **have** a big family.*
+
 ---
 
 ## 5. Datos personales de la familia
@@ -239,6 +317,23 @@ Combina posesivos, *to be* y Present Simple para describir familiares:
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-6/grandmother-eighty.mp3" title="🔊 My grandmother is eighty years old"></audio>
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-6/her-father-doctor.mp3" title="🔊 Her father is a doctor"></audio>
+
+### Frases modelo extra (copia y adapta)
+
+1. *My mother's name is Carmen. She is a teacher.*
+2. *His father's name is Mark. He is a doctor.*
+3. *Their son is ten years old. He is a student.*
+4. *My aunt is tall. Her name is Laura.*
+5. *Our family is small but very close.*
+
+### Combinar Unidad 5 + Unidad 6
+
+Ya sabes Present Simple. Úsalo con la familia:
+
+- *My father **works** in an office.*
+- *Her sister **studies** English.*
+- *Their children **play** football every Saturday.*
+- *My grandmother **drinks** tea every morning.*
 
 ---
 
@@ -283,6 +378,18 @@ Combina posesivos, *to be* y Present Simple para describir familiares:
 | *My family are big* | *My family **is** big* | family = singular |
 | *Robert name* | *Robert**'s** name* | Falta el genitivo sajón |
 | *She have a son* | *She **has** a son* | She → has |
+
+### Más errores frecuentes con posesivos y familia
+
+| ❌ Incorrecto | ✅ Correcto | Explicación |
+| :--- | :--- | :--- |
+| *This is the mother of me* | *This is **my** mother* | Preferimos posesivo, no *of me* |
+| *The name of Robert* (posible, pero raro en A1) | ***Robert's** name* | Genitivo sajón es más natural |
+| *Their is a big family* | ***Their** family is big* / *They have a big family* | *their* + sustantivo |
+| *I have a brother older* | *I have an **older** brother* | Adjetivo antes del nombre |
+| *My fathers name* | *My father**'s** name* | Falta el apóstrofo |
+
+**Checklist:** dueño hombre → *his*; dueña mujer → *her*; posesión con nombre propio → *Name's* + cosa.
 
 ---
 
@@ -378,6 +485,58 @@ Escribe 5 frases sobre tu familia. Usa al menos **tres** posesivos diferentes y 
 
 > This is my mother. Her name is Carmen. I have one brother and one sister. My grandmother is seventy years old. Our family is very close.
 
+### Ejercicio 7 — Completa con *his / her / our / their / 's*
+
+1. Ana is a teacher. \_\_\_\_ students are young.  
+2. Tom has a sister. \_\_\_\_ sister is tall.  
+3. We have a big house. \_\_\_\_ house is in Madrid.  
+4. What is Mark\_\_\_\_ job?  
+5. Lisa and Paul have two children. \_\_\_\_ children are five and eight.
+
+<details>
+<summary>Ver solución</summary>
+
+1. **Her**  
+2. **His**  
+3. **Our**  
+4. Mark**'s**  
+5. **Their**
+</details>
+
+### Ejercicio 8 — Traduce al inglés
+
+1. El coche de mi padre es rojo.  
+2. La hermana de Sarah es doctora.  
+3. Ellos tienen tres hijos.  
+4. El nombre de mi tía es Rosa.  
+5. Nuestra familia es pequeña.
+
+<details>
+<summary>Ver solución</summary>
+
+1. My father's car is red.  
+2. Sarah's sister is a doctor.  
+3. They have three children. / They have three sons.  
+4. My aunt's name is Rosa.  
+5. Our family is small.
+</details>
+
+### Ejercicio 9 — Corrige y explica
+
+1. *His name is Maria.*  
+2. *She have one brother.*  
+3. *My mothers name is Ana.*  
+4. *Our family are close.*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **Her** name is Maria. (Maria = mujer → her)  
+2. She **has** one brother. (she → has)  
+3. My mother**'s** name is Ana. (falta genitivo)  
+4. Our family **is** close. (family = singular)
+</details>
+
 ---
 
 ## 10. Diálogo modelo
@@ -402,6 +561,13 @@ Escribe 5 frases sobre tu familia. Usa al menos **tres** posesivos diferentes y 
 3. **Memoriza el vocabulario en grupos**: padres → hijos → abuelos → tíos.
 4. **Escucha los audios** y repite con la misma entonación.
 5. Haz los ejercicios de la [Unidad 6 del curso A1](/curso-a1/unit-6).
+
+### Plan de práctica de 10 minutos
+
+1. **2 min:** repite *mother, father, brother, sister, grandmother, grandfather*.
+2. **3 min:** señala una foto y di: *This is my… His/Her name is…*
+3. **3 min:** escribe 4 frases mezclando *my/his/her/our* y un genitivo (*my father's…*).
+4. **2 min:** responde en voz alta: *Do you have brothers or sisters?*
 
 ---
 
