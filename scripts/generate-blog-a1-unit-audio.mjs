@@ -210,6 +210,26 @@ const CLIPS_BY_UNIT = {
     'in-the-afternoon': 'In the afternoon.',
     'in-the-evening': 'In the evening.',
   },
+  11: {
+    bank: 'Bank.',
+    supermarket: 'Supermarket.',
+    library: 'Library.',
+    'post-office': 'Post office.',
+    pharmacy: 'Pharmacy.',
+    park: 'Park.',
+    cafe: 'Café.',
+    street: 'Street.',
+    'there-is-a-bank': 'There is a bank near here.',
+    'there-are-two-parks': 'There are two parks in my town.',
+    'where-is-the-post-office': 'Where is the post office?',
+    'is-there-a-pharmacy': 'Is there a pharmacy near here?',
+    'yes-there-is': 'Yes, there is.',
+    'the-bank-is-next-to': 'The bank is next to the library.',
+    'the-park-is-opposite': 'The park is opposite the library.',
+    'the-pharmacy-is-between': 'The pharmacy is between the bank and the post office.',
+    'there-are-two-supermarkets': 'There are two supermarkets in my street.',
+    'where-is-the-library': 'Where is the library? It is next to the supermarket.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
