@@ -102,6 +102,44 @@ const CLIPS_BY_UNIT = {
     'every-morning': 'Every morning.',
     'i-get-up-at-seven': 'I get up at seven.',
   },
+  6: {
+    mother: 'Mother.',
+    father: 'Father.',
+    brother: 'Brother.',
+    sister: 'Sister.',
+    grandmother: 'Grandmother.',
+    'this-is-my-mother': 'This is my mother.',
+    'his-name-is-robert': 'His name is Robert.',
+    'her-name-is-sarah': 'Her name is Sarah.',
+    'our-family-is-big': 'Our family is big.',
+    'robert-name': "Robert's name is Robert.",
+    'fathers-name': "My father's name.",
+    'i-have-one-brother': 'I have one brother and two sisters.',
+    'do-you-have-brothers': 'Do you have brothers or sisters?',
+    'grandmother-eighty': 'My grandmother is eighty years old.',
+    'her-father-doctor': 'Her father is a doctor.',
+  },
+  7: {
+    red: 'Red.',
+    blue: 'Blue.',
+    green: 'Green.',
+    yellow: 'Yellow.',
+    black: 'Black.',
+    brown: 'Brown.',
+    'the-car-is-red': 'The car is red.',
+    'the-sky-is-blue': 'The sky is blue.',
+    'she-is-tall': 'She is tall.',
+    'he-is-short': 'He is short.',
+    'she-is-young': 'She is young.',
+    'she-has-long-brown-hair': 'She has got long brown hair.',
+    'he-has-blue-eyes': 'He has blue eyes.',
+    'they-have-green-eyes': 'They have green eyes.',
+    'she-is-tall-with-long-hair': 'She is tall with long brown hair.',
+    'her-eyes-are-green': 'Her eyes are green.',
+    'she-is-very-beautiful': 'She is very beautiful.',
+    'what-colour-are-her-eyes': 'What colour are her eyes?',
+    'my-brother-is-short': 'My brother is short and young.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
@@ -129,7 +167,8 @@ for name, text in clips.items():
         print('created', path)
     else:
         print('exists', path)
-`;
+`.trimStart();
 
-execSync(`python3 -c ${JSON.stringify(py)}`, { stdio: 'inherit' });
+fs.writeFileSync('/tmp/generate-blog-a1-audio.py', py);
+execSync('python3 /tmp/generate-blog-a1-audio.py', { stdio: 'inherit' });
 console.log(`\n✅ Audios listos en ${outDir}`);

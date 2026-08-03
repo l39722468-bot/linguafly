@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-07-31  
+**Última actualización:** 2026-08-03  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 5 |
-| Artículos dedicados pendientes | 55 |
+| Artículos dedicados publicados | 7 |
+| Artículos dedicados pendientes | 53 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -38,8 +38,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 3 | Verb 'to be': Negatives and Questions | Negativa, preguntas, emociones | ✅ | [To be negativa y preguntas A1](/blog/curso-a1/unidad-3-to-be-negativa-preguntas) |
 | 4 | Essential Vocabulary: Numbers and Objects | a/an, plurales, this/that | ✅ | [Artículos y demostrativos A1](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos) |
 | 5 | Simple Present: Everyday Actions | Present Simple afirmativo, -s 3.ª pers. | ✅ | [Present Simple rutinas A1](/blog/curso-a1/unidad-5-present-simple-rutinas) |
-| 6 | Family Members & Personal Info | Genitivo sajón, his/her/our/their | ❌ | Pendiente |
-| 7 | Colors & Physical Descriptions | Adjetivos, *have got* | 🔶 | Pronunciación (no tema unidad) |
+| 6 | Family Members & Personal Info | Genitivo sajón, his/her/our/their | ✅ | [Familia, posesivos y genitivo A1](/blog/curso-a1/unidad-6-familia-posesivos-genitivo) |
+| 7 | Colors & Physical Descriptions | Adjetivos, *have got* | ✅ | [Colores y descripciones físicas A1](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) |
 | 8 | Numbers 20–100 | *How old/much is…?* | ❌ | Pendiente |
 | 9 | Jobs & Occupations | Profesiones, a/an | ❌ | Pendiente |
 | 10 | Module 1 Review | Repaso módulo 1 | ⏭️ | Pendiente (opcional) |

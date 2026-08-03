@@ -410,7 +410,7 @@ Escribe 5 frases sobre tu rutina. Usa al menos 4 verbos diferentes y una expresi
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 6** aprenderás a hablar de **la familia** con el genitivo sajón (*'s*) y los posesivos *his, her, our, their*.
+En la **[Unidad 6](/blog/curso-a1/unidad-6-familia-posesivos-genitivo)** aprenderás a hablar de **la familia** con el genitivo sajón (*'s*) y los posesivos *his, her, our, their*.
 
 En las **Unidades 13–15** profundizarás en Present Simple con **negativa** (*don't/doesn't*) y **preguntas** (*Do you…? / Does she…?*).
 
