@@ -404,6 +404,28 @@ const CLIPS_BY_UNIT = {
     'i-was-born-in-february': 'I was born in February.',
     'christmas-is-in-december': 'Christmas is in December.',
   },
+  20: {
+    'i-get-up-at-seven': "I get up at seven o'clock.",
+    'she-has-breakfast': 'She has breakfast at eight.',
+    'they-dont-like-cooking': "They don't like cooking.",
+    'he-doesnt-like-reading': "He doesn't like reading.",
+    'what-do-you-do-on-monday': 'What do you do on Monday?',
+    'does-she-like-music': 'Does she like music?',
+    'can-i-have-a-coffee': 'Can I have a coffee, please?',
+    'id-like-a-sandwich': "I'd like a sandwich.",
+    'i-like-swimming-because': "I like swimming because it's fun.",
+    'why-do-you-like-it': 'Why do you like it?',
+    'because-its-relaxing': "Because it's relaxing.",
+    'my-birthday-is-on': 'My birthday is on the tenth of May.',
+    'we-have-dinner-at': 'We have dinner at half past eight.',
+    'on-saturday-i-dont-work': "On Saturday I don't work.",
+    'christmas-is-in-december': 'Christmas is in December.',
+    'first-then-after-that': 'First I wake up. Then I have breakfast. After that I go to work.',
+    'there-is-a-bank': 'There is a bank near here.',
+    'i-have-lunch-at-one': "I have lunch at one o'clock.",
+    'yes-i-do': 'Yes, I do.',
+    'no-she-doesnt': "No, she doesn't.",
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

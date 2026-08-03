@@ -547,6 +547,10 @@ Escribe 6–8 frases: tu cumpleaños (mes y fecha), cuándo naciste, y el cumple
 
 En la **Unidad 20** harás el **Module 2 Review**: repaso de rutinas, Present Simple, cafetería, comidas, gustos y fechas.
 
+Guía dedicada:
+
+- [Unidad 20 — Repaso Módulo 2](/blog/curso-a1/unidad-20-repaso-modulo-2)
+
 Guías relacionadas:
 
 - [Unidad 18 — Gustos: like + -ing](/blog/curso-a1/unidad-18-gustos-like-ing-because)
