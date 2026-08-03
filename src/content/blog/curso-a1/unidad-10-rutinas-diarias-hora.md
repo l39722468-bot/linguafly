@@ -394,10 +394,13 @@ Escribe 6–7 frases sobre tu rutina diaria con horarios. Usa *at*, *o'clock* o 
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 11** aprenderás **lugares de la ciudad** (*Places in Town*) para decir dónde están sitios y orientarte.
+En la **Unidad 11** aprendes **lugares de la ciudad** (*Places in Town*): *There is/are*, *Where is…?* y preposiciones de lugar.
+
+→ [Unidad 11 — Lugares en la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad)
 
 Guías relacionadas:
 
+- [Unidad 11 — Lugares en la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad)
 - [Unidad 9 — Profesiones y ocupaciones](/blog/curso-a1/unidad-9-profesiones-ocupaciones)
 - [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
 - [Unidad 5 — Present Simple y rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
