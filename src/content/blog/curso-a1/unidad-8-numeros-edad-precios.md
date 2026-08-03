@@ -5,15 +5,16 @@ updatedDate: '2026-08-03'
 author: focus-english-team
 title: 'Números 20–100 en Inglés (A1): Edad, Precios y How Much / How Old'
 description: >-
-  Aprende números del 20 al 100 en inglés A1, How old are you?, How much is…? y
-  vocabulario de precios. Guía Unidad 8 con ejemplos, audios y ejercicios
+  Aprende números del 20 al 100 en inglés A1, How old are you?, How much is…?,
+  precios y números de teléfono. Guía Unidad 8 con ejemplos, audios y ejercicios
   prácticos.
-readTime: 12 min
+readTime: 13 min
 keywords:
   - números en inglés 20 a 100
   - how old are you
   - how much is en inglés
   - precios en inglés A1
+  - número de teléfono en inglés
   - inglés A1 unidad 8
   - twenty thirty forty fifty
   - I am twenty-five years old
@@ -39,6 +40,10 @@ faqs:
       How much is…? para un objeto singular: How much is the coffee? How much
       are…? para plural: How much are these shoes? Respuesta: It is three euros.
       / They are fifty euros.
+  - question: ¿Cómo digo mi número de teléfono en inglés?
+    answer: >-
+      What's your phone number? — My phone number is… Di los dígitos uno a uno
+      (six-one-two…). El 0 suele decirse oh (o zero).
   - question: ¿Cuál es la diferencia entre How much y How many?
     answer: >-
       How much pregunta cantidad de incontables o precio (How much is it?). How
@@ -46,17 +51,18 @@ faqs:
       foco es How much para precios.
   - question: ¿Dónde practico la Unidad 8 del curso A1?
     answer: >-
-      En la Unidad 8 del curso A1 de Linguafly practicarás números 20–100, edad
-      y precios con ejercicios de gramática, vocabulario, reading, listening y
-      speaking.
+      En la Unidad 8 del curso A1 de Linguafly practicarás números 20–100, edad,
+      precios y números de teléfono con ejercicios de gramática, vocabulario,
+      reading, listening y speaking.
 excerpt: >-
   Guía de la Unidad 8 del curso A1: números 20–100, How old…?, How much…?,
-  edades, precios y dinero. Con audios, esquemas y ejercicios con soluciones.
+  edades, precios, dinero y números de teléfono. Con audios, esquemas y
+  ejercicios con soluciones.
 ---
 
-Ya sabes describir el aspecto físico de una persona. En la **Unidad 8 del curso A1** (*Numbers 20–100: Prices & Ages*) aprendes a **decir y preguntar edades, precios y números** del 20 al 100.
+Ya sabes describir el aspecto físico de una persona. En la **Unidad 8 del curso A1** (*Numbers 20–100: Prices & Ages*) aprendes a **decir y preguntar edades, precios y números de teléfono** con cifras del 20 al 100.
 
-Esta guía cubre los **números 20–100**, las preguntas ***How old are you?*** y ***How much is…?***, y vocabulario de **precios y dinero** (*euro, cheap, expensive*). Incluye **audios**, **esquemas** y **ejercicios**.
+Esta guía cubre los **números 20–100**, las preguntas ***How old are you?*** y ***How much is…?***, vocabulario de **precios y dinero**, y cómo decir tu **phone number**. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 8 — Números, edad y precios](/curso-a1/unit-8)  
 > **Repaso previo:** [Unidad 7 — Colores y descripciones físicas](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)
@@ -71,6 +77,7 @@ Al terminar esta unidad serás capaz de:
 - Preguntar y decir la **edad** (*How old…?*).
 - Preguntar y decir el **precio** (*How much…?*).
 - Usar palabras de **dinero**: *euro, dollar, cheap, expensive*.
+- Preguntar y decir un **número de teléfono**.
 
 ---
 
@@ -239,13 +246,53 @@ It is / They are + precio.
 
 ---
 
-## 5. Texto modelo (del curso)
+## 5. Números de teléfono
+
+En inglés, los números de teléfono se dicen **dígito a dígito** (no como veinticinco, sino *two-five*):
+
+| Inglés | Español |
+| :--- | :--- |
+| **What's your phone number?** | ¿Cuál es tu número de teléfono? |
+| **My phone number is…** | Mi número de teléfono es… |
+| **phone number** | número de teléfono |
+
+![Esquema de números de teléfono en inglés A1](/blog/curso-a1/unit-8/a1-unit8-phone-numbers.png)
+
+### Cómo decirlo
+
+```
+What's your phone number?
+My phone number is + dígitos uno a uno
+```
+
+| Consejo | Ejemplo |
+| :--- | :--- |
+| Di **cada cifra** por separado | 612 → *six-one-two* |
+| El **0** suele ser ***oh*** (o *zero*) | 601 → *six-oh-one* |
+| Agrupa en pausas cortas | 612 34 56 78 → *six-one-two, three-four, five-six, seven-eight* |
+
+<audio controls preload="none" src="/audio/blog/curso-a1/unit-8/phone-number.mp3" title="🔊 Phone number"></audio>
+
+<audio controls preload="none" src="/audio/blog/curso-a1/unit-8/whats-your-phone-number.mp3" title="🔊 What's your phone number?"></audio>
+
+<audio controls preload="none" src="/audio/blog/curso-a1/unit-8/my-phone-number-is.mp3" title="🔊 My phone number is…"></audio>
+
+<audio controls preload="none" src="/audio/blog/curso-a1/unit-8/zero-oh.mp3" title="🔊 Oh / Zero"></audio>
+
+### Ejemplo completo
+
+> **A:** What's your phone number?  
+> **B:** My phone number is six-one-two, three-four, five-six, seven-eight.
+
+---
+
+## 6. Texto modelo (del curso)
 
 ### En el supermercado
 
 > I am at the supermarket. I need **twenty** apples and ten oranges. The apples are **five euros**. The oranges are **three euros**. I also need a bottle of milk. The milk is **one euro and fifty cents**. The total is **nine euros and fifty cents**. I have **twenty euros**. I am happy.
 
-### Tu plantilla en 6 frases
+### Tu plantilla en 7 frases
 
 1. How old are you? — I am \_\_\_\_ years old.
 2. How old is your \_\_\_\_? — He/She is \_\_\_\_ years old.
@@ -253,10 +300,11 @@ It is / They are + precio.
 4. How much are the \_\_\_\_? — They are \_\_\_\_ euros.
 5. Is this expensive or cheap? — It is \_\_\_\_.
 6. The total is \_\_\_\_ euros.
+7. What's your phone number? — My phone number is \_\_\_\_.
 
 ---
 
-## 6. Preguntas útiles
+## 7. Preguntas útiles
 
 | Pregunta | Respuesta modelo |
 | :--- | :--- |
@@ -266,10 +314,11 @@ It is / They are + precio.
 | How much is this book? | It is thirty euros. |
 | How much are these shoes? | They are fifty euros. |
 | Is this expensive? | Yes, it is expensive. / No, it is cheap. |
+| What's your phone number? | My phone number is six-one-two… |
 
 ---
 
-## 7. Errores típicos de hispanohablantes
+## 8. Errores típicos de hispanohablantes
 
 | ❌ Incorrecto | ✅ Correcto | Explicación |
 | :--- | :--- | :--- |
@@ -279,10 +328,11 @@ It is / They are + precio.
 | *How much is these shoes?* | *How much **are** these shoes?* | Plural → are |
 | *fourty* | ***forty*** | Ortografía sin *u* |
 | *twenty five* (escrito) | ***twenty-five*** | Guion en compuestos |
+| *My number is twenty-five…* (teléfono) | Di **dígito a dígito**: *two-five…* | Teléfono ≠ número cardinal |
 
 ---
 
-## 8. Ejercicios prácticos (con soluciones)
+## 9. Ejercicios prácticos (con soluciones)
 
 ### Ejercicio 1 — Escribe el número en inglés
 
