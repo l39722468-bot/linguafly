@@ -420,15 +420,29 @@ My phone number is + dígitos uno a uno
 
 ### Ejercicio 6 — Mini diálogo tuyo
 
-Escribe 5 frases: tu edad, la edad de un familiar, el precio de dos objetos y si algo es *cheap* o *expensive*.
+Escribe 6 frases: tu edad, la edad de un familiar, el precio de dos objetos, si algo es *cheap* o *expensive*, y tu número de teléfono (inventado).
 
 **Modelo:**
 
-> I am twenty-five years old. My brother is twelve years old. How much is this book? It is thirty euros. These shoes are expensive.
+> I am twenty-five years old. My brother is twelve years old. How much is this book? It is thirty euros. These shoes are expensive. My phone number is six-one-two, three-four, five-six, seven-eight.
+
+### Ejercicio 7 — Número de teléfono
+
+1. Traduce: ¿Cuál es tu número de teléfono?  
+2. Di en inglés el número **601 22 33 44** (dígito a dígito).  
+3. Completa: My \_\_\_\_ number is…
+
+<details>
+<summary>Ver solución</summary>
+
+1. What's your phone number?  
+2. six-oh-one, two-two, three-three, four-four  
+3. **phone**
+</details>
 
 ---
 
-## 9. Diálogo modelo
+## 10. Diálogo modelo
 
 > **Clerk:** Hello! Can I help you?  
 > **Maya:** Yes. How much is this book?  
@@ -436,19 +450,19 @@ Escribe 5 frases: tu edad, la edad de un familiar, el precio de dos objetos y si
 > **Maya:** And how much are these shoes?  
 > **Clerk:** They are fifty euros.  
 > **Maya:** Hmm… the book is cheap. The shoes are expensive.  
-> **Clerk:** The total for the book is thirty euros.  
-> **Maya:** OK. And… how old is this magazine? Is it new?  
-> **Clerk:** Yes! It is new. Only two euros.
+> **Clerk:** The total for the book is thirty euros. What's your phone number for the receipt?  
+> **Maya:** My phone number is six-one-two, three-four, five-six, seven-eight.
 
 ---
 
-## 10. Consejos para practicar
+## 11. Consejos para practicar
 
 1. **Cuenta de 20 en 20** en voz alta: twenty, forty, sixty, eighty, one hundred.
 2. **Practica tu edad** y la de tu familia: *I am… / She is… years old.*
 3. **Lee etiquetas de precios** y di: *How much is this? It is… euros.*
-4. **Escucha los audios** y repite con la misma entonación.
-5. Haz los ejercicios de la [Unidad 8 del curso A1](/curso-a1/unit-8).
+4. **Dicta tu teléfono** dígito a dígito (el 0 = *oh*).
+5. **Escucha los audios** y repite con la misma entonación.
+6. Haz los ejercicios de la [Unidad 8 del curso A1](/curso-a1/unit-8).
 
 ---
 
@@ -462,6 +476,7 @@ Escribe 5 frases: tu edad, la edad de un familiar, el precio de dos objetos y si
 | Precio singular | How much **is**…? → It **is** … euros |
 | Precio plural | How much **are**…? → They **are** … euros |
 | Dinero | cheap / expensive, euro, dollar, pound |
+| Teléfono | What's your phone number? → dígito a dígito (0 = oh) |
 
 ---
 

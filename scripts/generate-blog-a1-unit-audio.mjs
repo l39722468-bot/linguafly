@@ -163,6 +163,10 @@ const CLIPS_BY_UNIT = {
     'the-book-is-forty-five': 'The book is forty-five euros.',
     cheap: 'Cheap.',
     expensive: 'Expensive.',
+    'phone-number': 'Phone number.',
+    'whats-your-phone-number': "What's your phone number?",
+    'my-phone-number-is': 'My phone number is six one two, three four, five six, seven eight.',
+    'zero-oh': 'Oh. Zero.',
   },
 };
 
