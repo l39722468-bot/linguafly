@@ -250,6 +250,28 @@ const CLIPS_BY_UNIT = {
     'i-meet-my-friends': 'What do you do on Fridays? I meet my friends.',
     'on-sunday-i-rest': 'On Sunday I rest at home.',
   },
+  13: {
+    'wake-up': 'Wake up.',
+    'brush-my-teeth': 'Brush my teeth.',
+    'have-a-shower': 'Have a shower.',
+    'get-dressed': 'Get dressed.',
+    'have-breakfast': 'Have breakfast.',
+    'go-to-work': 'Go to work.',
+    'have-lunch': 'Have lunch.',
+    'go-home': 'Go home.',
+    'have-dinner': 'Have dinner.',
+    'go-to-bed': 'Go to bed.',
+    first: 'First.',
+    then: 'Then.',
+    'after-that': 'After that.',
+    'first-i-wake-up': 'First I wake up at seven.',
+    'then-i-brush-my-teeth': 'Then I brush my teeth.',
+    'after-that-i-have-breakfast': 'After that I have breakfast.',
+    'i-go-to-bed-at-ten': "I go to bed at ten o'clock.",
+    'first-then-after-that': 'First I wake up. Then I have breakfast. After that I go to work.',
+    'she-goes-to-bed-at-ten': 'She goes to bed at ten.',
+    'i-have-a-shower-every-morning': 'I have a shower every morning.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-12-dias-semana'
 image: /blog/curso-a1/unit-12/a1-unit12-days.png
 alt: Tabla de los días de la semana en inglés nivel A1
 related_routes:
+  - unidad-13-rutina-diaria
   - unidad-11-lugares-ciudad
   - unidad-10-rutinas-diarias-hora
   - unidad-5-present-simple-rutinas
@@ -563,8 +564,11 @@ Habla durante 60–90 segundos:
 
 En la **Unidad 13** profundizarás en la **rutina diaria** con secuenciadores (*First, Then, After that*) y Present Simple.
 
+→ [Unidad 13 — Rutina diaria](/blog/curso-a1/unidad-13-rutina-diaria)
+
 Guías relacionadas:
 
+- [Unidad 13 — Rutina diaria](/blog/curso-a1/unidad-13-rutina-diaria)
 - [Unidad 11 — Lugares en la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad)
 - [Unidad 10 — Rutinas diarias y la hora](/blog/curso-a1/unidad-10-rutinas-diarias-hora)
 - [Unidad 5 — Present Simple y rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
