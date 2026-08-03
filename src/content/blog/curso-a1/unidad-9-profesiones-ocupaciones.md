@@ -7,7 +7,7 @@ title: 'Profesiones en Inglés (A1): Jobs, a/an y Where Do You Work?'
 description: >-
   Aprende profesiones en inglés A1, a/an con trabajos, I am a teacher y Where do
   you work?. Guía Unidad 9 con ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - profesiones en inglés
   - jobs and occupations A1
@@ -107,6 +107,44 @@ Estas son las profesiones centrales de la Unidad 9:
 
 ![Tabla de profesiones y lugares de trabajo en inglés A1](/blog/curso-a1/unit-9/a1-unit9-jobs.png)
 
+### Más profesiones útiles (A1)
+
+Además de la lista principal, estas palabras aparecen mucho en conversaciones simples:
+
+| Inglés | Español | Lugar típico |
+| :--- | :--- | :--- |
+| **artist** | artista | studio / gallery |
+| **actor** | actor | theatre / film set |
+| **office worker** | oficinista | office |
+| **shop assistant** | dependiente/a | shop |
+| **mechanic** | mecánico/a | garage |
+| **police officer** | policía | police station |
+| **firefighter** | bombero/a | fire station |
+| **dentist** | dentista | dental clinic |
+
+**Ejemplos en contexto:**
+
+- My neighbour is a **mechanic**. He works in a garage.
+- Ana is a **shop assistant**. She works in a clothes shop.
+- Tom is an **artist**. He works at home.
+- My uncle is a **police officer**. He works in the city centre.
+
+### Consejos de pronunciación (profesiones)
+
+Para hispanohablantes, estas palabras suelen dar problemas. Practica en voz alta:
+
+| Palabra | Tip de pronunciación |
+| :--- | :--- |
+| **teacher** | /ˈtiːtʃə/ — la *ea* suena como /iː/ larga; *ch* = /tʃ/ |
+| **doctor** | /ˈdɒktə/ (GB) o /ˈdɑːktər/ (US) — acento en la 1.ª sílaba |
+| **nurse** | /nɜːs/ — la *u* no es /u/; suena más cercana a “ners” |
+| **engineer** | /ˌendʒɪˈnɪə/ — acento en la **última** sílaba: en-gi-**NEER** |
+| **chef** | /ʃef/ — *ch* = /ʃ/ (como en *shampoo*), no /tʃ/ |
+| **waiter** | /ˈweɪtə/ — *ai* = /eɪ/ (como en *day*) |
+| **student** | /ˈstjuːdnt/ (GB) — no digas “estudent” con /e/ inicial |
+
+**Mini-práctica oral:** di tres veces seguidas: *a teacher, a doctor, a nurse, an engineer, a chef*. Luego añade el lugar: *I am a teacher. I work in a school.*
+
 ---
 
 ## 2. *I am a/an* + profesión
@@ -140,6 +178,39 @@ Para decir la profesión usamos ***to be*** + ***a/an*** + trabajo:
 | **a** chef | **an** office worker |
 
 **Regla:** mira el **sonido** de la primera letra, no solo la letra escrita.
+
+### Sonido vs letra escrita (más ejemplos)
+
+Algunos casos confunden porque la letra y el sonido no coinciden:
+
+| Palabra | ¿a o an? | Por qué |
+| :--- | :--- | :--- |
+| **a** university | **a** | Empieza con /j/ (como “you”), sonido consonántico |
+| **an** hour | **an** | La *h* es muda → empieza con sonido vocálico /aʊ/ |
+| **a** European | **a** | Empieza con /j/, no con /e/ |
+| **an** English teacher | **an** | Empieza con /ɪ/ |
+
+En A1, con profesiones, lo más frecuente es:
+
+- **a** teacher / doctor / nurse / chef / waiter / student / driver / pilot
+- **an** engineer / artist / actor / office worker
+
+### Más ejemplos con *to be* + profesión
+
+| Afirmativa | Negativa | Pregunta |
+| :--- | :--- | :--- |
+| I am a student. | I am not a student. / I'm not a student. | Are you a student? |
+| He is a doctor. | He is not a doctor. / He isn't a doctor. | Is he a doctor? |
+| She is an engineer. | She isn't an engineer. | Is she an engineer? |
+| They are teachers. | They aren't teachers. | Are they teachers? |
+
+**Respuestas cortas:**
+
+- Are you a teacher? — **Yes, I am.** / **No, I'm not.**
+- Is she a nurse? — **Yes, she is.** / **No, she isn't.**
+- Is he an engineer? — **Yes, he is.** / **No, he isn't.**
+
+**Importante:** en inglés casi siempre usamos *a/an* con profesiones (*I am a doctor*). En español decimos “Soy médico” sin artículo; no copies esa estructura al inglés.
 
 ---
 
@@ -186,6 +257,41 @@ Sujeto + work/works + in + lugar
 | **university** | universidad |
 | **shop** | tienda |
 
+### *work in* vs *work as*
+
+Dos estructuras muy útiles en A1:
+
+| Estructura | Uso | Ejemplo |
+| :--- | :--- | :--- |
+| **work in** + lugar | decir el sitio | I **work in** a hospital. |
+| **work as** + profesión | decir el trabajo | I **work as** a nurse. |
+| **be a/an** + profesión | identidad laboral | I **am a** nurse. |
+
+Las tres son correctas y se combinan bien:
+
+> I **am a** nurse. I **work as** a nurse in a big hospital. I **work in** the children's ward.
+
+### Más ejemplos de lugar de trabajo
+
+| Profesión | Frase modelo |
+| :--- | :--- |
+| teacher | I work in a **primary school** / **high school**. |
+| doctor | She works in a **hospital** / **clinic**. |
+| chef | He works in an **Italian restaurant**. |
+| driver | He works for a **taxi company**. |
+| pilot | She works for an **airline**. |
+| student | I study at a **university** / **language school**. |
+
+**Nota:** *work **for*** + empresa (*I work for Google*). *work **in*** + tipo de lugar (*I work in an office*). En A1 prioriza *work in* + *a/an* + place.
+
+### Preguntas y respuestas cortas con *work*
+
+| Pregunta | Sí | No |
+| :--- | :--- | :--- |
+| Do you work in a school? | Yes, I **do**. | No, I **don't**. |
+| Does she work in a hospital? | Yes, she **does**. | No, she **doesn't**. |
+| Does he work in an office? | Yes, he **does**. | No, he **doesn't**. |
+
 ---
 
 ## 4. What do you do?
@@ -213,6 +319,35 @@ Sujeto + work/works + in + lugar
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-9/he-is-an-engineer.mp3" title="🔊 He is an engineer. He works in an office"></audio>
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-9/my-brother-is-a-chef.mp3" title="🔊 My brother is a chef. He works in a restaurant"></audio>
+
+### Otras formas de preguntar la profesión
+
+| Pregunta | Nivel / uso | Respuesta típica |
+| :--- | :--- | :--- |
+| **What do you do?** | La más natural en conversación | I'm a teacher. |
+| **What's your job?** | Muy clara y directa | I'm a doctor. |
+| **What does he/she do?** | Hablar de otra persona | She's a nurse. |
+| **Are you a student?** | Confirmar una idea | Yes, I am. / No, I'm a teacher. |
+
+### Mini-diálogos cortos
+
+**Diálogo A — En una fiesta**
+
+> **A:** Hi! What do you do?  
+> **B:** I'm a graphic designer. I work in an office in Barcelona. And you?  
+> **A:** I'm a student. I study English and business.
+
+**Diálogo B — Hablar de la familia**
+
+> **A:** What does your mother do?  
+> **B:** She's a teacher. She works in a primary school.  
+> **A:** And your father?  
+> **B:** He's an engineer. He works in an office.
+
+**Diálogo C — Confirmar**
+
+> **A:** Are you a doctor?  
+> **B:** No, I'm not. I'm a nurse. I work in the same hospital.
 
 ---
 
@@ -256,6 +391,18 @@ Sujeto + work/works + in + lugar
 | *Where does you work?* | *Where **do** you work?* | you → do |
 | *I am work in a school* | *I **work** in a school* | No mezclar am + work |
 | *She is nurse* | *She is **a** nurse* | Hace falta a/an |
+| *What you do?* | *What **do** you do?* | Falta auxiliar *do* |
+| *I work in school* | *I work in **a** school* | Falta *a/an* ante lugar contable |
+| *He is a engineer* | *He is **an** engineer* | Vocal → *an* |
+| *Where she work?* | *Where **does** she work?* | *does* + verbo base (*work*) |
+| *I'm work as a teacher* | *I **work** as a teacher* | No mezclar *am* + *work* |
+
+### Por qué ocurren estos errores
+
+1. **Sin artículo:** en español “Soy profesor”; en inglés *I am **a** teacher*.
+2. **a/an por letra, no por sonido:** *university* lleva *a* porque suena /j/.
+3. **Olvidar la -s:** *he/she* → *works*, no *work*.
+4. **Mezclar *to be* y *work*:** *I am a teacher* **o** *I work as a teacher*, no *I am work*.
 
 ---
 
@@ -353,6 +500,77 @@ Escribe 5 frases sobre profesiones en tu familia (o inventadas). Usa **a/an**, *
 
 > I am a student. My mother is a teacher. She works in a school. My father is a doctor. He works in a hospital.
 
+### Ejercicio 7 — Empareja profesión y lugar
+
+Une cada profesión con el lugar más lógico y escribe una frase completa.
+
+1. nurse → \_\_\_\_  
+2. chef → \_\_\_\_  
+3. teacher → \_\_\_\_  
+4. pilot → \_\_\_\_  
+5. shop assistant → \_\_\_\_  
+
+Lugares: *restaurant / hospital / school / shop / plane*
+
+<details>
+<summary>Ver solución</summary>
+
+1. nurse → hospital — She is a nurse. She works in a hospital.  
+2. chef → restaurant — He is a chef. He works in a restaurant.  
+3. teacher → school — I am a teacher. I work in a school.  
+4. pilot → plane — She is a pilot. She works on a plane. / She flies planes.  
+5. shop assistant → shop — He is a shop assistant. He works in a shop.
+</details>
+
+### Ejercicio 8 — Escribe preguntas
+
+Transforma en pregunta:
+
+1. She works in a hospital. → \_\_\_\_  
+2. You are a student. → \_\_\_\_  
+3. He is an engineer. → \_\_\_\_  
+4. They work in an office. → \_\_\_\_  
+5. Your brother is a chef. → \_\_\_\_ (usa *What does…?*)
+
+<details>
+<summary>Ver solución</summary>
+
+1. Where does she work?  
+2. Are you a student?  
+3. Is he an engineer?  
+4. Do they work in an office? / Where do they work?  
+5. What does your brother do?
+</details>
+
+### Ejercicio 9 — Elige la opción correcta
+
+1. She is (a / an) artist.  
+2. I (am / work) a teacher.  
+3. He (work / works) in an office.  
+4. Where (do / does) your sister work?  
+5. What (do / does) you do?
+
+<details>
+<summary>Ver solución</summary>
+
+1. **an**  
+2. **am**  
+3. **works**  
+4. **does**  
+5. **do**
+</details>
+
+### Ejercicio 10 — Listening / speaking (autoevaluación)
+
+Escucha los audios de esta guía y responde en voz alta:
+
+1. Di tu profesión (real o inventada) con *I am a/an…*
+2. Di dónde trabajas con *I work in…*
+3. Pregunta a un compañero imaginario: *What do you do?* y *Where do you work?*
+4. Describe a dos personas de tu familia con profesión + lugar.
+
+**Checklist:** ¿Usaste *a/an*? ¿Pusiste *-s* con *he/she*? ¿Usaste *do* o *does* correctamente?
+
 ---
 
 ## 9. Diálogo modelo
@@ -375,6 +593,21 @@ Escribe 5 frases sobre profesiones en tu familia (o inventadas). Usa **a/an**, *
 3. **Describe a tu familia**: *My mother is a… She works in…*
 4. **Escucha los audios** y repite con la misma entonación.
 5. Haz los ejercicios de la [Unidad 9 del curso A1](/curso-a1/unit-9).
+6. **Grábate 30 segundos** diciendo: profesión + lugar + una pregunta (*What do you do?*).
+7. **Cambia de persona**: convierte *I am a teacher* en *He is a teacher / She works in a school*.
+8. **Repasa *to be*** si dudas con *am/is/are*: vuelve a la [Unidad 2](/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades).
+9. **Conecta con números**: di la edad y la profesión juntos (*I'm 28. I'm a nurse.*), como en la [Unidad 8](/blog/curso-a1/unidad-8-numeros-edad-precios).
+10. **Habla 2 minutos al día** solo con este tema: trabajos de amigos, vecinos y compañeros de clase.
+
+### Mini-rutina de 10 minutos
+
+| Minuto | Actividad |
+| :--- | :--- |
+| 1–2 | Repite en voz alta 10 profesiones |
+| 3–4 | Practica *a/an* (5 con *a*, 5 con *an*) |
+| 5–6 | Escribe 4 frases: *I am… / She is… / He works… / They are…* |
+| 7–8 | Escucha 2 audios y repite |
+| 9–10 | Diálogo corto: *What do you do? Where do you work?* |
 
 ---
 

@@ -8,7 +8,7 @@ description: >-
   Aprende números del 20 al 100 en inglés A1, How old are you?, How much is…?,
   precios y números de teléfono. Guía Unidad 8 con ejemplos, audios y ejercicios
   prácticos.
-readTime: 13 min
+readTime: 15 min
 keywords:
   - números en inglés 20 a 100
   - how old are you
@@ -140,6 +140,39 @@ Entre 21 y 99, los números compuestos llevan **guion**:
 | *ninty* | **ninety** |
 | *eigthty* | **eighty** |
 
+### Cómo formar cualquier número 21–99
+
+Patrón fijo:
+
+```
+decena + guion + unidad
+twenty / thirty / forty… + - + one…nine
+```
+
+| Decena | +1 | +5 | +9 |
+| :--- | :--- | :--- | :--- |
+| twenty | twenty-one | twenty-five | twenty-nine |
+| thirty | thirty-one | thirty-five | thirty-nine |
+| forty | forty-one | forty-five | forty-nine |
+| fifty | fifty-one | fifty-five | fifty-nine |
+| sixty | sixty-one | sixty-five | sixty-nine |
+| seventy | seventy-one | seventy-five | seventy-nine |
+| eighty | eighty-one | eighty-five | eighty-nine |
+| ninety | ninety-one | ninety-five | ninety-nine |
+
+### Pronunciación de decenas (A1)
+
+| Número | Tip |
+| :--- | :--- |
+| **thirty** | /ˈθɜːti/ — *th* sorda; no digas «tirti» |
+| **forty** | /ˈfɔːti/ — sin *u* en la escritura |
+| **fifty** | FI-fty — acento en la primera sílaba |
+| **seventy** | SE-ven-ty — tres sílabas |
+| **eighty** | EIGH-ty — *gh* muda, suena /eɪ/ |
+| **ninety** | NINE-ty — no *ninty* |
+
+**Práctica:** cuenta 20 → 30 → 40 → 50 → 60 → 70 → 80 → 90 → 100 en voz alta tres veces.
+
 ---
 
 ## 2. Preguntar y decir la edad (*How old…?*)
@@ -182,6 +215,29 @@ En inglés no dices *I have 25 years*. Dices:
 - ✅ **I am twenty-five years old.**
 - ❌ *I have twenty-five years.*
 
+### Más ejemplos de edad (familia y amigos)
+
+| Pregunta | Respuesta |
+| :--- | :--- |
+| How old is your sister? | She is twenty-two years old. |
+| How old is your father? | He is fifty years old. |
+| How old is your grandmother? | She is eighty years old. |
+| How old are they? | They are thirty years old. |
+
+Formas cortas frecuentes en conversación (reconocimiento):
+
+- *I'm twenty-five.* (omite *years old* si el contexto es claro)
+- *She's thirty.*
+
+En escritura A1, preferible: *I am twenty-five years old.*
+
+### Mini-sección: *years old* vs solo el número
+
+| Más completo (recomendado A1) | Más corto (oral) |
+| :--- | :--- |
+| She is forty years old. | She is forty. |
+| How old are you? | — |
+
 ---
 
 ## 3. Preguntar y decir el precio (*How much…?*)
@@ -220,6 +276,26 @@ It is / They are + precio.
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-8/the-book-is-forty-five.mp3" title="🔊 The book is forty-five euros"></audio>
 
+### Más ejemplos de precios (singular y plural)
+
+| Pregunta | Respuesta |
+| :--- | :--- |
+| How much is the sandwich? | It is four euros. |
+| How much is this bag? | It is sixty euros. |
+| How much are these books? | They are twenty euros. |
+| How much are the tickets? | They are thirty-five euros. |
+| How much is a coffee and a cake? | The total is eight euros. |
+
+### Centavos y precios con *and*
+
+| Precio | Inglés |
+| :--- | :--- |
+| 1,50 € | one euro and fifty cents |
+| 2,25 € | two euros and twenty-five cents |
+| 9,99 € | nine euros and ninety-nine cents |
+
+**Tip:** en inglés británico informal a veces oirás *one euro fifty*; en A1, *one euro and fifty cents* es claro y seguro.
+
 ---
 
 ## 4. Vocabulario de precios y dinero
@@ -244,6 +320,19 @@ It is / They are + precio.
 | Pregunta | Respuestas |
 | :--- | :--- |
 | Is this expensive or cheap? | It is expensive. / It is cheap. |
+
+### Frases útiles en una tienda
+
+| Inglés | Español |
+| :--- | :--- |
+| How much is this? | ¿Cuánto cuesta esto? |
+| How much are these? | ¿Cuánto cuestan estos? |
+| It's cheap. | Es barato. |
+| It's expensive. | Es caro. |
+| The total is… | El total es… |
+| I have twenty euros. | Tengo veinte euros. |
+
+**Pronunciación:** *cheap* /tʃiːp/ (como «chip» con *ee* larga); *expensive* /ɪkˈspensɪv/ (acento en *-pen-*).
 
 ---
 
@@ -284,6 +373,16 @@ My phone number is + dígitos uno a uno
 
 > **A:** What's your phone number?  
 > **B:** My phone number is six-one-two, three-four, five-six, seven-eight.
+
+### Más práctica de dígitos
+
+| Número | Cómo decirlo |
+| :--- | :--- |
+| 555 12 34 | five-five-five, one-two, three-four |
+| 700 88 99 | seven-oh-oh, eight-eight, nine-nine |
+| 912 34 56 78 | nine-one-two, three-four, five-six, seven-eight |
+
+**Doble y triple (reconocimiento):** a veces oirás *double five* (55) o *triple nine* (999). En A1 puedes decir cada cifra: *five-five*, *nine-nine-nine*.
 
 ---
 
@@ -330,6 +429,18 @@ My phone number is + dígitos uno a uno
 | *fourty* | ***forty*** | Ortografía sin *u* |
 | *twenty five* (escrito) | ***twenty-five*** | Guion en compuestos |
 | *My number is twenty-five…* (teléfono) | Di **dígito a dígito**: *two-five…* | Teléfono ≠ número cardinal |
+
+### Más errores frecuentes con números y precios
+
+| ❌ Incorrecto | ✅ Correcto | Explicación |
+| :--- | :--- | :--- |
+| *I am twenty five years old* (escrito) | *I am **twenty-five** years old* | Guion en compuestos |
+| *How much cost it?* | ***How much is** it?* | Estructura fija |
+| *The shoes is fifty euros* | *The shoes **are** fifty euros* | Plural → are |
+| *She is years old thirty* | *She is **thirty years old*** | Orden: número + years old |
+| *How old you are?* | ***How old are** you?* | Auxiliar antes del sujeto |
+
+**Checklist:** edad → *am/is/are* + número + *years old*. Precio singular → *How much **is***; plural → *How much **are***. Teléfono → dígito a dígito.
 
 ---
 
@@ -441,6 +552,62 @@ Escribe 6 frases: tu edad, la edad de un familiar, el precio de dos objetos, si 
 3. **phone**
 </details>
 
+### Ejercicio 8 — Escribe el número en inglés
+
+1. 33 → \_\_\_\_  
+2. 47 → \_\_\_\_  
+3. 56 → \_\_\_\_  
+4. 90 → \_\_\_\_  
+5. 99 → \_\_\_\_
+
+<details>
+<summary>Ver solución</summary>
+
+1. **thirty-three**  
+2. **forty-seven**  
+3. **fifty-six**  
+4. **ninety**  
+5. **ninety-nine**
+</details>
+
+### Ejercicio 9 — Traduce al inglés
+
+1. Ella tiene cuarenta y dos años.  
+2. ¿Cuánto cuestan estos libros?  
+3. Cuestan veinticinco euros.  
+4. Este sandwich es barato.  
+5. El total es nueve euros y cincuenta céntimos.
+
+<details>
+<summary>Ver solución</summary>
+
+1. She is forty-two years old.  
+2. How much are these books?  
+3. They are twenty-five euros.  
+4. This sandwich is cheap.  
+5. The total is nine euros and fifty cents.
+</details>
+
+### Ejercicio 10 — Situación: en la cafetería
+
+Completa el diálogo:
+
+> **A:** How much \_\_\_\_ the coffee?  
+> **B:** It \_\_\_\_ three euros.  
+> **A:** And how much \_\_\_\_ these cakes?  
+> **B:** They \_\_\_\_ five euros.  
+> **A:** OK. The total \_\_\_\_ eight euros.
+
+<details>
+<summary>Ver solución</summary>
+
+> **A:** How much **is** the coffee?  
+> **B:** It **is** three euros.  
+> **A:** And how much **are** these cakes?  
+> **B:** They **are** five euros.  
+> **A:** OK. The total **is** eight euros.
+</details>
+
 ---
 
 ## 10. Diálogo modelo
@@ -464,6 +631,13 @@ Escribe 6 frases: tu edad, la edad de un familiar, el precio de dos objetos, si 
 4. **Dicta tu teléfono** dígito a dígito (el 0 = *oh*).
 5. **Escucha los audios** y repite con la misma entonación.
 6. Haz los ejercicios de la [Unidad 8 del curso A1](/curso-a1/unit-8).
+
+### Plan de práctica de 10 minutos
+
+1. **2 min:** di las decenas 20–100 y cinco compuestos (*twenty-five*, *forty-two*…).
+2. **3 min:** pregunta y responde edades de tu familia (*How old is…?*).
+3. **3 min:** mira precios reales o etiquetas y di *How much is/are…? It is / They are…*
+4. **2 min:** dicta un número de teléfono inventado dígito a dígito (0 = *oh*).
 
 ---
 

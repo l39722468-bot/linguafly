@@ -8,7 +8,7 @@ description: >-
   Aprende los artículos a y an, plurales regulares, demostrativos this/that/these/those,
   números del 1 al 10, objetos del aula y colores en inglés A1. Guía Unidad 4 con
   ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - artículos a y an inglés
   - this that these those inglés
@@ -101,6 +101,27 @@ En inglés, los sustantivos contables en singular suelen llevar un artículo ind
 - *It is **a** blue notebook.* → Es un cuaderno azul.
 - *I have **an** orange pencil.* → Tengo un lápiz naranja.
 
+### Mini-sección: más ejemplos *a* vs *an*
+
+Practica con esta lista (di en voz alta):
+
+| *a* + consonante | *an* + vocal |
+| :--- | :--- |
+| a pen | an eraser |
+| a desk | an apple |
+| a chair | an orange |
+| a bag | an umbrella |
+| a notebook | an idea |
+| a university | an hour |
+
+**Recuerda:** *a university* (suena /juː/) y *an hour* (la *h* muda). El oído manda, no solo la ortografía.
+
+### Tips de pronunciación: *a* / *an*
+
+- *a* suena débil: /ə/ (como «e» muy corta), no /ei/ fuerte en habla natural.
+- *an* suena /ən/ delante de vocal.
+- Une artículo + palabra: *a pen* → /əˈpen/, *an apple* → /ənˈæpl/.
+
 ---
 
 ## 2. Plurales regulares en inglés
@@ -123,6 +144,28 @@ Para la mayoría de sustantivos en A1, el plural se forma añadiendo **-s**:
 - *There are three red pens on the desk.* → Hay tres bolígrafos rojos en el escritorio.
 
 **Recuerda:** con plural usas **are**, no *is*: *These **are** pens.*
+
+### Mini-sección: pronunciación de *-s* en plural (A1)
+
+En A1 no necesitas fonética avanzada, pero sí oír tres patrones:
+
+| Final del singular | Sonido de *-s* | Ejemplos |
+| :--- | :--- | :--- |
+| Sonido sordo (*p, t, k, f*) | /s/ | *pens, books, desks* |
+| Sonido sonoro (*b, d, g, l, m, n, vowel*) | /z/ | *bags, chairs, rulers* |
+| *s, sh, ch, x, z* | /ɪz/ (sílaba extra) | *boxes, watches* (más adelante) |
+
+En esta unidad, la mayoría de objetos del aula usan /s/ o /z/. Escucha: *books* (/s/), *bags* (/z/), *chairs* (/z/).
+
+### Más plurales del aula
+
+| Singular | Plural | Frase |
+| :--- | :--- | :--- |
+| pencil | pencils | These are pencils. |
+| notebook | notebooks | Those are notebooks. |
+| eraser | erasers | I have two erasers. |
+| window | windows | The windows are big. |
+| door | doors | Those are the doors. |
 
 ---
 
@@ -167,6 +210,42 @@ Los **demostrativos** indican si algo está **cerca** o **lejos** de ti:
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-4/it-is-a-ruler.mp3" title="🔊 It is a ruler"></audio>
 
+### Mini-sección: cerca vs lejos (práctica física)
+
+Haz esto en tu habitación o clase:
+
+1. Toca un objeto cerca → *This is a…*
+2. Señala un objeto lejos → *That is a…*
+3. Toca dos objetos cerca → *These are…*
+4. Señala dos objetos lejos → *Those are…*
+
+La gestualidad fija la diferencia mucho más rápido que memorizar la tabla sola.
+
+### Tips de pronunciación: demostrativos
+
+| Palabra | Tip | Error frecuente |
+| :--- | :--- | :--- |
+| *this* | /ðɪs/ — *th* sonora corta | Decir «dis» |
+| *that* | /ðæt/ — *th* sonora | Decir «dat» |
+| *these* | /ðiːz/ — vocal larga /iː/ | Confundir con *this* |
+| *those* | /ðəʊz/ | Confundir con *these* |
+
+**Contraste clave:** *this* (corto) vs *these* (largo). Practica: *This is a pen. These are pens.*
+
+### Combinar demostrativos + *a/an* + color
+
+Orden típico en A1:
+
+> **This/That** + **is** + **a/an** + **color** + **objeto**  
+> **These/Those** + **are** + **color** + **objetos**
+
+Ejemplos:
+
+- *This is a blue pen.*
+- *That is an orange bag.*
+- *These are green notebooks.*
+- *Those are black chairs.*
+
 ---
 
 ## 4. Vocabulario: objetos del aula
@@ -200,6 +279,20 @@ Los **demostrativos** indican si algo está **cerca** o **lejos** de ti:
 - *These are my pens. Those are red books.*
 - *There are four pens on the desk.*
 - *The board is white. The chairs are blue.*
+
+### Mini-sección: *There is* / *There are* (introducción A1)
+
+Para decir «hay», en A1 empiezas a ver:
+
+- *There **is** a book on the desk.* → Hay un libro en el escritorio. (singular)
+- *There **are** three pens on the desk.* → Hay tres bolígrafos en el escritorio. (plural)
+
+| | Estructura | Ejemplo |
+| :--- | :--- | :--- |
+| Singular | There is + a/an + objeto | There is a ruler. |
+| Plural | There are + número + objetos | There are five chairs. |
+
+Esto conecta artículos, plurales y números en una sola frase útil para describir el aula.
 
 ---
 
@@ -242,6 +335,25 @@ También puedes describir el color con el verbo *to be*:
 Esta estructura conecta la Unidad 4 con el *to be* que ya dominas: primero nombras el objeto (*a red pen*), luego describes con *to be* (*The pen is red*).
 
 **Orden de palabras:** artículo + color + sustantivo → *a red pen*, *an orange bag*
+
+### Más colores útiles
+
+| Color | Ejemplo singular | Ejemplo plural |
+| :--- | :--- | :--- |
+| **brown** | a brown bag | brown desks |
+| **pink** | a pink eraser | pink pens |
+| **grey / gray** | a grey pencil | grey chairs |
+| **purple** | a purple notebook | purple books |
+
+### Tips de pronunciación: colores
+
+- *red* /red/ — corta y clara
+- *blue* /bluː/ — /uː/ larga
+- *green* /ɡriːn/ — /iː/ larga
+- *orange* /ˈɒrɪndʒ/ — dos sílabas; usa *an orange…*
+- *yellow* /ˈjeləʊ/ — acento en la primera sílaba
+
+Practica bloques: *a red pen, a blue book, a green bag, an orange eraser*.
 
 ---
 
@@ -297,6 +409,9 @@ Practicar contar objetos de tu escritorio cada mañana (pens, books, chairs) ayu
 | *A red pen* vs *A pen red* | *A **red** pen* | Color antes del sustantivo |
 | *Two book* | *Two **books*** | Plural después de número > 1 |
 | *This are a pen* | *This **is** a pen* | *This* es singular → *is* |
+| *An university* | ***A** university* | Empieza con sonido /j/ |
+| *Those is books* | *Those **are** books* | *Those* = plural → *are* |
+| *A orange bag* | ***An** orange bag* | *Orange* empieza por vocal |
 
 ### Mini-tabla de repaso: singular vs plural
 
@@ -306,6 +421,15 @@ Practicar contar objetos de tu escritorio cada mañana (pens, books, chairs) ayu
 | Lejos | That is a book. | Those are books. |
 | Con color | This is a red bag. | Those are blue chairs. |
 | Con número | — | There are five desks. |
+
+### Checklist de autoevaluación (Unidad 4)
+
+- [ ] Sé cuándo usar *a* y *an* (por **sonido**)
+- [ ] Formo plurales con *-s* (*book → books*)
+- [ ] Distingo *this/that* (singular) y *these/those* (plural)
+- [ ] Respondo *What is this?* con *It is a…*
+- [ ] Combino color + objeto (*a blue pen*)
+- [ ] Uso números con plural (*three pens*, no *three pen*)
 
 ---
 
@@ -401,6 +525,66 @@ Escribe 4 frases describiendo objetos que llevas. Usa *this/that*, *a/an*, color
 
 > This is my bag. It is black. I have a blue pen and two green notebooks. Those are my books.
 
+### Ejercicio 7 — Completa con *this/that/these/those* + *is/are*
+
+1. \_\_\_ \_\_\_ a desk. (cerca, singular)  
+2. \_\_\_ \_\_\_ pens. (lejos, plural)  
+3. \_\_\_ \_\_\_ an eraser. (lejos, singular)  
+4. \_\_\_ \_\_\_ my notebooks. (cerca, plural)
+
+<details>
+<summary>Ver solución</summary>
+
+1. **This is** a desk.  
+2. **Those are** pens.  
+3. **That is** an eraser.  
+4. **These are** my notebooks.
+</details>
+
+### Ejercicio 8 — Une número + color + plural
+
+Escribe la frase completa:
+
+1. (3 / red / pen) →  
+2. (1 / blue / bag) →  
+3. (5 / green / book) →  
+4. (2 / black / chair) →
+
+<details>
+<summary>Ver solución</summary>
+
+1. three red pens  
+2. a blue bag / one blue bag  
+3. five green books  
+4. two black chairs
+</details>
+
+### Ejercicio 9 — Corrige y explica
+
+1. *These is a notebooks.*  
+2. *That are red pen.*  
+3. *It is a hour.*  
+4. *What is this? — Is eraser.*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **These are notebooks.** (*These* = plural → *are*; sin *a* delante del plural)  
+2. **That is a red pen.** / **Those are red pens.** (elige singular o plural con coherencia)  
+3. **It is an hour.** (*h* muda → *an*)  
+4. **It is an eraser.** (respuesta con *It is* + *an*)
+</details>
+
+### Ejercicio 10 — Describe el aula (escritura guiada)
+
+Completa con tus datos reales o inventados:
+
+> In my classroom there are \_\_\_ chairs. This is a \_\_\_ desk. Those are \_\_\_ books. What is this? It is \_\_\_.
+
+**Modelo posible:**
+
+> In my classroom there are ten chairs. This is a brown desk. Those are blue books. What is this? It is a yellow pencil.
+
 ---
 
 ## 9. Diálogo modelo
@@ -425,6 +609,9 @@ Escribe 4 frases describiendo objetos que llevas. Usa *this/that*, *a/an*, color
 3. **Cuenta objetos** del 1 al 10 en inglés cada día.
 4. **Asocia color + sustantivo** como bloque: *red pen*, *blue book*.
 5. Haz los ejercicios de la [Unidad 4 del curso A1](/curso-a1/unit-4).
+6. **Juego de 2 minutos:** un compañero señala; tú dices *this/that/these/those* + objeto + color.
+7. **Escritura rápida:** describe tu mesa con 5 frases (*There is… / There are… / This is…*).
+8. **Repaso cruzado:** usa *Is this a pen?* (Unidad 3 + 4) y responde *Yes, it is* / *No, it isn't*.
 
 ---
 

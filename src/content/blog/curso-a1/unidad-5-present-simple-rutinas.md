@@ -8,7 +8,7 @@ description: >-
   Aprende el Present Simple en afirmativa en inglés A1: rutinas diarias, verbos
   work, study, eat, drink, sleep, play y la regla de la 3.ª persona (-s). Guía
   Unidad 5 con ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - present simple inglés
   - presente simple inglés A1
@@ -92,6 +92,18 @@ En A1 nos centramos sobre todo en **rutinas diarias**: lo que haces cada mañana
 | Ella estudia inglés | She **studies** English. |
 | Ellos juegan al fútbol | They **play** football. |
 
+### Más ejemplos de hábitos y hechos
+
+| Tipo | Ejemplo | Traducción |
+| :--- | :--- | :--- |
+| Hábito personal | I **drink** water every morning. | Bebo agua cada mañana. |
+| Rutina familiar | My father **works** from home. | Mi padre trabaja desde casa. |
+| Hecho general | Water **boils** at 100 degrees. | El agua hierve a 100 grados. |
+| Horario fijo | The shop **opens** at nine. | La tienda abre a las nueve. |
+| Día de la semana | We **play** tennis on Sundays. | Jugamos al tenis los domingos. |
+
+**Truco:** si en español usas el presente para algo que «siempre» o «cada día» haces, en inglés casi seguro necesitas Present Simple: *I wake up early every day.*
+
 ---
 
 ## 2. Formación del Present Simple afirmativo
@@ -125,6 +137,16 @@ Sujeto + verbo (+ complemento)
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-5/they-play-football.mp3" title="🔊 They play football"></audio>
 
+### Mini-práctica mental (sin escribir)
+
+Di en voz alta, cambiando solo el sujeto:
+
+1. *I work* → *You work* → *He works* → *She works* → *We work* → *They work*
+2. *I eat* → *She eats* → *They eat* → *He eats*
+3. *I go* → *He goes* → *We go* → *She goes*
+
+Si el sujeto es **he / she / it**, tu cerebro debe «activar» la **-s** automáticamente.
+
 ---
 
 ## 3. La regla de la 3.ª persona: -s, -es, -ies
@@ -151,6 +173,28 @@ Cuando el sujeto es **he, she** o **it**, el verbo cambia. La mayoría añaden *
 | They **play** tennis. | She **plays** tennis. |
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-5/we-study-english.mp3" title="🔊 We study English"></audio>
+
+### Pronunciación de la -s / -es (A1)
+
+La terminación de la 3.ª persona no siempre suena igual:
+
+| Sonido | Cuándo | Ejemplos |
+| :--- | :--- | :--- |
+| **/s/** (sorda) | Después de sonidos sordos (*p, t, k, f*) | works /wɜːks/, eats /iːts/, sleeps |
+| **/z/** (sonora) | Después de sonidos sonoros (*b, d, g, l, m, n, vowel*) | plays /pleɪz/, goes /ɡəʊz/, studies |
+| **/ɪz/** (sílaba extra) | Después de *s, sh, ch, x, z* | watches /ˈwɒtʃɪz/, washes, kisses |
+
+**Consejo:** con *watches* y *goes* practica despacio: *watch → watches* (sílaba extra), *go → goes* (una sílaba, sonido /z/).
+
+### Mini-sección: *do* y *does* (solo reconocimiento)
+
+En afirmativa A1 usas el verbo normal (*She works*). Más adelante, en negativa y preguntas, aparecerán *don't / doesn't* y *Do / Does*. Por ahora, fíjate solo en esto:
+
+- Afirmativa: *She **works** every day.*
+- (Más adelante) Negativa: *She **doesn't work** every day.*
+- (Más adelante) Pregunta: ***Does** she work every day?*
+
+No mezcles todavía: en afirmativa **no** pongas *does* delante del verbo (*❌ She does works*).
 
 ---
 
@@ -196,6 +240,27 @@ Estos son los verbos más importantes de la Unidad 5:
 
 **Ojo:** con *he/she/it*, el phrasal verb también lleva **-s**: *She **gets** up at seven. He **goes** to work.*
 
+### Verbos extra útiles para tu día (A1)
+
+| Verbo | Significado | Ejemplo con 3.ª persona |
+| :--- | :--- | :--- |
+| **watch** | ver / mirar | She **watches** TV in the evening. |
+| **listen** | escuchar | He **listens** to music. |
+| **read** | leer | She **reads** a book before bed. |
+| **cook** | cocinar | He **cooks** dinner every day. |
+| **finish** | terminar | She **finishes** work at five. |
+| **start** | empezar | He **starts** class at nine. |
+
+### Collocations (combinaciones naturales)
+
+Memoriza verbo + complemento juntos, no solo el verbo aislado:
+
+- *eat **breakfast** / eat **lunch** / eat **dinner***
+- *drink **coffee** / drink **water** / drink **tea***
+- *go **to work** / go **to school** / go **home***
+- *play **football** / play **tennis** / play **the guitar***
+- *study **English** / study **maths***
+
 ---
 
 ## 5. Expresiones de tiempo para rutinas
@@ -223,6 +288,18 @@ En A1, lo más seguro es poner la expresión de tiempo **al final** de la frase:
 - *I get up **at seven**.*
 - *She works **every day**.*
 - *They play football **in the evening**.*
+
+### Más expresiones de frecuencia (A1)
+
+| Expresión | Significado | Ejemplo |
+| :--- | :--- | :--- |
+| **every week** | cada semana | We study English every week. |
+| **every night** | cada noche | He sleeps eight hours every night. |
+| **on Saturdays** | los sábados | They play football on Saturdays. |
+| **at night** | por la noche | I read at night. |
+| **in the afternoon** | por la tarde | She works in the afternoon. |
+
+**at vs in:** usa *at* con horas (*at eight*) y *in* con partes del día (*in the morning*, *in the evening*). Excepción frecuente: *at night*.
 
 ---
 
@@ -263,6 +340,13 @@ En A1, lo más seguro es poner la expresión de tiempo **al final** de la frase:
 | *He is eat breakfast* | *He **eats** breakfast* |
 | *They are play football* | *They **play** football* |
 
+### Mini-sección: *go to sleep* vs *sleep*
+
+- *She **goes** to sleep at ten.* → se acuesta / se duerme a esa hora.
+- *She **sleeps** eight hours.* → duerme esa cantidad de horas.
+
+Ambos usan Present Simple; el complemento cambia el significado.
+
 ---
 
 ## 8. Errores típicos de hispanohablantes
@@ -275,6 +359,18 @@ En A1, lo más seguro es poner la expresión de tiempo **al final** de la frase:
 | *I am work* | *I **work*** | Acción = verbo normal, no *to be* |
 | *She plays tennis every day* ✓ | — | Correcto |
 | *Every day I work* ✓ | — | También correcto (énfasis) |
+
+### Más errores frecuentes (y cómo evitarlos)
+
+| ❌ Incorrecto | ✅ Correcto | Por qué falla |
+| :--- | :--- | :--- |
+| *She watchs TV* | *She **watches** TV* | -ch → **-es**, no solo -s |
+| *He studys maths* | *He **studies** maths* | consonante + y → **-ies** |
+| *They works every day* | *They **work** every day* | *they* = forma base |
+| *I goes to school* | *I **go** to school* | *I* nunca lleva -s |
+| *She get up at six* | *She **gets** up at six* | phrasal: -s en el verbo principal |
+
+**Checklist rápida antes de escribir:** ¿El sujeto es he/she/it? → añade -s/-es/-ies. ¿Es I/you/we/they? → forma base.
 
 ---
 
@@ -368,6 +464,52 @@ Escribe 5 frases sobre tu rutina. Usa al menos 4 verbos diferentes y una expresi
 
 > I wake up at seven. I eat breakfast and drink coffee. I go to work at nine. In the evening, I study English. I go to sleep at eleven.
 
+### Ejercicio 7 — Completa la rutina de Alex
+
+Alex \_\_\_\_ (wake up) at 6:30. He \_\_\_\_ (get up) at seven. He \_\_\_\_ (eat) breakfast and \_\_\_\_ (drink) tea. He \_\_\_\_ (go) to work at eight. In the evening, he \_\_\_\_ (play) tennis. He \_\_\_\_ (go) to sleep at eleven.
+
+<details>
+<summary>Ver solución</summary>
+
+Alex **wakes up** at 6:30. He **gets up** at seven. He **eats** breakfast and **drinks** tea. He **goes** to work at eight. In the evening, he **plays** tennis. He **goes** to sleep at eleven.
+</details>
+
+### Ejercicio 8 — Elige -s, -es o -ies
+
+1. She watch\_\_\_ TV every evening.  
+2. He stud\_\_\_ English.  
+3. She go\_\_\_ to the gym.  
+4. He play\_\_\_ football.  
+5. She finish\_\_\_ work at five.
+
+<details>
+<summary>Ver solución</summary>
+
+1. watch**es**  
+2. stud**ies**  
+3. go**es**  
+4. play**s**  
+5. finish**es**
+</details>
+
+### Ejercicio 9 — Traduce y aplica la 3.ª persona
+
+1. Mi madre trabaja en un hospital.  
+2. Él se despierta a las seis.  
+3. Nosotros estudiamos inglés cada semana.  
+4. Ella cocina la cena por la noche.  
+5. Ellos leen un libro los domingos.
+
+<details>
+<summary>Ver solución</summary>
+
+1. My mother works in a hospital.  
+2. He wakes up at six.  
+3. We study English every week.  
+4. She cooks dinner at night. / She cooks dinner in the evening.  
+5. They read a book on Sundays.
+</details>
+
 ---
 
 ## 10. Diálogo modelo
@@ -392,6 +534,13 @@ Escribe 5 frases sobre tu rutina. Usa al menos 4 verbos diferentes y una expresi
 3. **Memoriza los verbos en bloques**: wake up → get up → eat → go to work.
 4. **Escucha los audios** y repite con la misma entonación.
 5. Haz los ejercicios de la [Unidad 5 del curso A1](/curso-a1/unit-5).
+
+### Plan de práctica de 10 minutos
+
+1. **2 min:** repite los audios de *work / study / eat / drink / sleep / play*.
+2. **3 min:** di tu rutina en 5 frases (mirando el reloj o una lista).
+3. **3 min:** describe la rutina de un familiar usando *he/she* + **-s**.
+4. **2 min:** escribe 3 frases y comprueba: ¿falta alguna -s?
 
 ---
 

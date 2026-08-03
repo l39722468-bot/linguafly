@@ -8,7 +8,7 @@ description: >-
   Aprende a saludar y presentarte en inglés nivel A1: Hello, Hi, Good morning,
   My name is…, I am from… y el verbo to be con I y You. Guía con ejemplos,
   audios de pronunciación y ejercicios prácticos para la Unidad 1 del curso A1.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - saludos en inglés
   - presentarse en inglés
@@ -117,6 +117,27 @@ En español decimos «hola» casi siempre. En inglés tienes **varias opciones**
 - *Hi, Maria! How are you?* → «¡Hola, María! ¿Cómo estás?»
 - *Good evening, welcome to the restaurant.* → «Buenas noches, bienvenido al restaurante.»
 
+### Mini-sección: formalidad en saludos reales
+
+Imagina tres situaciones y elige el saludo que encaja:
+
+1. **Primera clase con un profesor nuevo** → *Good morning, Mr. López.* / *Hello, Ms. García.*
+2. **Mensaje a un compañero de trabajo por chat** → *Hi!* o *Hey!* (si ya os conocéis).
+3. **Llegada a un hotel a las 20:00** → *Good evening.* (no *Good night*).
+
+**Regla práctica:** si no sabes el nivel de formalidad, empieza con *Hello* o *Good morning/afternoon/evening*. Nunca suena mal. Reserva *Hey* para amigos cercanos.
+
+### Tips de pronunciación: saludos
+
+| Frase | Tip | Evita |
+| :--- | :--- | :--- |
+| *Hello* | Acentúa la segunda sílaba: he-**LO** | No digas «jelo» con /j/ española |
+| *Hi* | Suena /hai/, como «jai» suave | No alargues demasiado la /a/ |
+| *Good morning* | Une las palabras: *goodˈmorning* | No digas cada sílaba aislada |
+| *Good evening* | *Evening* = /ˈiːvnɪŋ/ (no «evening» con /e/ española) | No confundas con *Good night* |
+
+Practica en voz alta: *Good morning → Good afternoon → Good evening* tres veces seguidas. El ritmo te ayuda a memorizar cuándo usar cada uno.
+
 ---
 
 ## 2. Despedidas en inglés
@@ -144,6 +165,21 @@ Las despedidas cierran la conversación con educación. Estas son las más útil
 > **B:** Bye! See you later.
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-1/nice-to-meet-you.mp3" title="🔊 Nice to meet you"></audio>
+
+### Más despedidas útiles en A1
+
+| Inglés | Español | Cuándo |
+| :--- | :--- | :--- |
+| **See you soon** | Hasta pronto | Cuando esperas volver a verte |
+| **Take care** | Cuídate | Informal y amable |
+| **Have a good weekend** | Que tengas buen fin de semana | Viernes o antes del fin de semana |
+| **Nice talking to you** | Encantado de hablar contigo | Al cerrar una conversación corta |
+
+**Ejemplo ampliado:**
+
+> **A:** Have a nice day!  
+> **B:** Thanks! You too. See you tomorrow.  
+> **A:** Bye!
 
 ---
 
@@ -197,6 +233,29 @@ Traducción: «¡Hola! Me llamo Laura García. Soy de Madrid, España. Tengo 28 
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-1/i-am-fine.mp3" title="🔊 I am fine, thank you"></audio>
 
+### Mini-sección: presentarte en distintos contextos
+
+**En clase (informal):**
+
+> Hi! I'm Diego. I'm from Valencia. I'm a student.
+
+**En una entrevista o reunión (más formal):**
+
+> Good morning. My name is Diego Ruiz. I'm from Valencia, Spain. I'm an engineer.
+
+**En un evento social:**
+
+> Hello! I'm Sofia. Nice to meet you. I'm from Colombia. And you?
+
+Observa el patrón: el contenido es el mismo (nombre + origen), pero cambias el saludo y el nivel de detalle según el contexto.
+
+### Tips de pronunciación: presentación
+
+- *My name is…* → une *name is* (/neɪm ɪz/). No pares entre las dos palabras.
+- *I'm from…* → *from* suele sonar débil (/frəm/), no /from/ fuerte.
+- *Nice to meet you* → acento en *nice* y *meet*; *to* es débil (/tə/).
+- *years old* → *years* suena /jɪəz/ o /jɝz/; no digas «iers» con /r/ española fuerte.
+
 ---
 
 ## 4. El verbo *to be* con I y You
@@ -234,6 +293,20 @@ En la Unidad 1 también aparecen los adjetivos posesivos **my** (mi) y **your** 
 | *My name is Ana García and I have 30 years* | *My name is Ana García. I am 30 years old.* | Misma razón |
 | *I am from of Spain* | *I am from Spain* | *From* ya incluye el sentido de «de» |
 | *I am student* | *I am **a** student* | Las profesiones llevan artículo *a/an* |
+| *You is my friend* | *You **are** my friend* | *You* siempre lleva *are* |
+| *I am fine, thanks you* | *I am fine, **thank you*** | *Thank you* (sin *s* en *thank*) |
+| *What's you name?* | *What's **your** name?* | Posesivo *your*, no *you* |
+
+### Mini-práctica guiada: *I am* vs *I'm*
+
+Ambas formas son correctas. En conversación real, **I'm** es mucho más frecuente. Practica leyendo en voz alta:
+
+1. *I am Ana.* → *I'm Ana.*
+2. *I am from Peru.* → *I'm from Peru.*
+3. *I am a teacher.* → *I'm a teacher.*
+4. *You are my classmate.* → *You're my classmate.*
+
+Cuando escribas un email formal, *I am* también está bien. En speaking A1, prioriza las contracciones.
 
 ---
 
@@ -357,6 +430,61 @@ Escribe 4–5 frases presentándote. Usa al menos: un saludo, tu nombre, tu paí
 
 > Hello! My name is Sofia. I'm from Colombia. I'm 22 years old. I'm a student. Nice to meet you!
 
+### Ejercicio 7 — Elige según la situación
+
+1. Son las 21:00. Entras a una cena. ¿Qué dices?  
+   a) Good night b) Good evening c) Good morning  
+
+2. Te despides de un compañero y le verás mañana.  
+   a) See you tomorrow b) Good night c) Hello  
+
+3. Alguien dice *Nice to meet you.* ¿Qué respondes?  
+   a) I'm fine b) Nice to meet you too c) Goodbye
+
+<details>
+<summary>Ver solución</summary>
+
+1. **b) Good evening** — Al llegar de noche se saluda con *Good evening*.  
+2. **a) See you tomorrow** — Quedáis al día siguiente.  
+3. **b) Nice to meet you too** — Respuesta natural a una presentación.
+</details>
+
+### Ejercicio 8 — Completa el diálogo
+
+> **A:** \_\_\_! What's your name?  
+> **B:** Hi! \_\_\_ name is Marta. Where \_\_\_ you from?  
+> **A:** \_\_\_ from Mexico. Nice to meet you.  
+> **B:** Nice to meet you \_\_\_.
+
+<details>
+<summary>Ver solución</summary>
+
+> **A:** **Hello** / **Hi**! What's your name?  
+> **B:** Hi! **My** name is Marta. Where **are** you from?  
+> **A:** **I'm** / **I am** from Mexico. Nice to meet you.  
+> **B:** Nice to meet you **too**.
+</details>
+
+### Ejercicio 9 — Profesiones con *a/an*
+
+Completa: *I am \_\_\_ …*
+
+1. \_\_\_ doctor  
+2. \_\_\_ engineer  
+3. \_\_\_ artist  
+4. \_\_\_ nurse
+
+<details>
+<summary>Ver solución</summary>
+
+1. **a** doctor  
+2. **an** engineer (empieza con sonido de vocal)  
+3. **an** artist  
+4. **a** nurse  
+
+Regla: *a* + consonante, *an* + vocal. En la Unidad 4 lo profundizarás más.
+</details>
+
 ---
 
 ## 7. Diálogo modelo: primera conversación
@@ -384,6 +512,21 @@ Lee este diálogo en voz alta. Luego practícalo con un amigo o grábate.
 4. **Practica en el curso A1** con ejercicios de listening y speaking que corrigen tu pronunciación.
 5. Repasa esta guía antes y después de hacer la [Unidad 1 del curso](/curso-a1/unit-1).
 6. Cambia una palabra cada día en tu presentación (otra ciudad, otra profesión) para no memorizar una sola frase fija.
+7. **Practica el intercambio completo:** saludo → nombre → origen → *Nice to meet you* → despedida. Cronométrate: 20–30 segundos es ideal.
+8. **Lista de chequeo oral:** ¿Usé *I'm* o *I am*? ¿Puse *a/an* delante de la profesión? ¿Dije *years old* (no *have … years*)?
+9. **Escucha activa:** cuando veas series o vídeos cortos en inglés, anota solo los saludos y despedidas. Verás que *Hi*, *Bye* y *See you* aparecen constantemente.
+
+### Checklist de autoevaluación (Unidad 1)
+
+Antes de pasar a la Unidad 2, marca lo que ya puedes hacer:
+
+- [ ] Saludar según la hora (*Good morning / afternoon / evening*)
+- [ ] Decir tu nombre con *My name is…* o *I'm…*
+- [ ] Decir tu origen con *I am from…*
+- [ ] Decir tu edad con *I am … years old*
+- [ ] Usar *Nice to meet you* y *How are you?*
+- [ ] Distinguir *I am* / *You are* y *my* / *your*
+- [ ] Evitar los errores típicos de edad y artículo (*a student*)
 
 ---
 

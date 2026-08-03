@@ -8,7 +8,7 @@ description: >-
   Aprende los pronombres personales en inglés (he, she, it, we, they), el verbo
   to be con is y are, países, nacionalidades y números del 1 al 10. Guía A1
   Unidad 2 con ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - verbo to be inglés
   - pronombres en inglés A1
@@ -111,6 +111,30 @@ Los **subject pronouns** (pronombres sujeto) sustituyen al nombre de una persona
 
 **Regla importante:** en inglés **siempre** necesitas el pronombre. No puedes decir *Is Carlos* para «Es Carlos»; debes decir *He is Carlos*.
 
+### Mini-sección: sustituir nombres por pronombres
+
+Practica este paso a paso (muy útil en speaking):
+
+1. *Maria is from Spain.* → ***She** is from Spain.*
+2. *Tom is a teacher.* → ***He** is a teacher.*
+3. *The book is blue.* → ***It** is blue.*
+4. *Ana and I are students.* → ***We** are students.*
+5. *Pedro and Luca are friends.* → ***They** are friends.*
+
+**Tip:** si el sujeto es un nombre propio femenino → *she*; masculino → *he*; cosa/animal genérico → *it*; varias personas → *they*; yo + alguien → *we*.
+
+### Tips de pronunciación: pronombres
+
+| Pronombre | Tip | Error frecuente |
+| :--- | :--- | :--- |
+| *he* | /hiː/ (con /h/ aspirada suave) | Omitir la /h/ («i is…») |
+| *she* | /ʃiː/ (como «shi») | Decir «chi» |
+| *it* | /ɪt/ corta | Alargar demasiado |
+| *we* | /wiː/ | Confundir con *you* |
+| *they* | /ðeɪ/ (th sonora) | Decir «dei» con /d/ |
+
+Practica en cadena: *He is… She is… It is… We are… They are…*
+
 ---
 
 ## 2. El verbo *to be*: am, is y are
@@ -152,6 +176,19 @@ En la Unidad 1 viste *I am* y *You are*. Ahora completas la tabla con **is** y *
 - *We are from Italy. We are Italian.* → Nosotros somos de Italia. Somos italianos.
 - *They are students. They are nineteen years old.* → Ellos son estudiantes. Tienen diecinueve años.
 - *It is a cat. It is small.* → Es un gato. Es pequeño.
+
+### Mini-sección: contracciones en contexto
+
+En inglés hablado, las contracciones son la norma:
+
+| Completo | Contraído | Cuándo usar |
+| :--- | :--- | :--- |
+| *He is Mexican* | *He's Mexican* | Conversación, clase |
+| *She is from Italy* | *She's from Italy* | Speaking diario |
+| *They are students* | *They're students* | Hablado y escrito informal |
+| *We are happy* | *We're happy* | Muy frecuente |
+
+**Ejercicio mental rápido:** lee la frase completa y luego di la contraída tres veces. Ejemplo: *He is from Spain → He's from Spain.*
 
 ---
 
@@ -221,6 +258,40 @@ La mayoría de nacionalidades en inglés terminan en **-ish**, **-an**, **-ian**
 - *They are from Argentina. They are Argentine.*
 - *We are friends. We are students.*
 
+### Tips de pronunciación: países y nacionalidades
+
+| Inglés | Tip | Cuidado |
+| :--- | :--- | :--- |
+| *Spain / Spanish* | *Spanish* = /ˈspænɪʃ/ | No digas «espánish» |
+| *Germany / German* | *German* = /ˈdʒɜːrmən/ | La *G* suena /dʒ/ (como «y» suave) |
+| *France / French* | *French* = /frentʃ/ | No digas «fran-che» |
+| *Italy / Italian* | *Italian* = /ɪˈtæliən/ | Acento en *-ta-* |
+| *Japan / Japanese* | *Japanese* = /ˌdʒæpəˈniːz/ | Acento al final |
+| *China / Chinese* | *Chinese* = /tʃaɪˈniːz/ | Acento en *-nese* |
+
+### Mini-sección: *from* + país vs nacionalidad (sin *from*)
+
+Compara estas dos frases correctas:
+
+- *She is **from** Mexico.* → origen geográfico  
+- *She is Mexican.* → nacionalidad (adjetivo)
+
+Incorrecto: *She is from Mexican* / *She is Mexico*.
+
+**Truco de memoria:** si ves *from*, después va el **país**. Si no hay *from*, usa el **adjetivo de nacionalidad**.
+
+### Más países útiles en A1
+
+| País | Nacionalidad | Ejemplo |
+| :--- | :--- | :--- |
+| Portugal | Portuguese | He is Portuguese. |
+| Canada | Canadian | She is Canadian. |
+| Australia | Australian | They are Australian. |
+| India | Indian | He is Indian. |
+| Russia | Russian | She is Russian. |
+
+No hace falta memorizarlos todos el primer día: empieza por tu país, los de tus compañeros de clase y 4–5 más frecuentes.
+
 ---
 
 ## 4. Números del 1 al 10 en inglés
@@ -250,6 +321,15 @@ En la Unidad 2 también trabajas los **números básicos**, muy útiles para dec
 
 **Recuerda:** en inglés se dice *He is 20 years old*, no *He has 20 years*.
 
+### Tips de pronunciación: números 1–10
+
+- *three* → /θriː/ (th sorda; lengua entre los dientes)
+- *five* → /faɪv/ (como «faiv»)
+- *eight* → /eɪt/ (no digas la *g*)
+- *two* → /tuː/ (la *w* no suena como «gu»)
+
+Practica: *He is three. She is five. They are eight.* Cambia el número cada vez.
+
 ---
 
 ## 5. Describir a otra persona: fórmula práctica
@@ -269,6 +349,21 @@ Cuando hablas de un amigo, compañero o familiar, usa esta estructura:
 
 > *Tom and Lisa are from Germany. They are German. They are students. They are twenty years old.*
 
+### Mini-sección: presentar a alguien en clase
+
+Estructura lista para usar:
+
+> This is my friend **[nombre]**. **He/She** is from **[país]**. **He/She** is **[nacionalidad]**. **He/She** is a **[profesión]**.
+
+Ejemplos:
+
+- *This is my friend Pablo. He is from Chile. He is Chilean. He is a doctor.*
+- *This is my classmate Emma. She is from the USA. She is American. She is a student.*
+
+Cuando presentes a **dos** personas a la vez:
+
+> These are my friends Pablo and Emma. **They** are students. **They** are from different countries.
+
 ---
 
 ## 6. Errores típicos de hispanohablantes
@@ -281,6 +376,9 @@ Cuando hablas de un amigo, compañero o familiar, usa esta estructura:
 | *They is from Brazil* | *They are from Brazil* | *They* lleva *are*, no *is* |
 | *He have 20 years* | *He is 20 years old* | La edad va con *to be* |
 | *It is a dog. He is small* | *It is a dog. It is small* | Para animales sin género claro, usa *it* |
+| *We is from Italy* | *We **are** from Italy* | *We* lleva *are* |
+| *She are French* | *She **is** French* | *She* lleva *is* |
+| *He is a Spain* | *He is Spanish* / *He is from Spain* | País ≠ nacionalidad |
 
 ---
 
@@ -378,6 +476,56 @@ Describe a dos amigos (reales o inventados). Para cada uno incluye: nombre, paí
 
 > My friend Luca is from Italy. He is Italian. He is twenty-one years old. My friend Maria is from Spain. She is Spanish. She is nineteen. They are students.
 
+### Ejercicio 7 — Elige *is* o *are*
+
+1. She \_\_\_ from Peru.  
+2. They \_\_\_ Chilean.  
+3. It \_\_\_ a map of Spain.  
+4. We \_\_\_ from Argentina.  
+5. He \_\_\_ Japanese.
+
+<details>
+<summary>Ver solución</summary>
+
+1. **is**  
+2. **are**  
+3. **is**  
+4. **are**  
+5. **is**
+</details>
+
+### Ejercicio 8 — Reescribe con pronombre
+
+1. Maria is from Colombia. → \_\_\_ is from Colombia.  
+2. Tom and I are teachers. → \_\_\_ are teachers.  
+3. The book is interesting. → \_\_\_ is interesting.  
+4. Pedro is Mexican. → \_\_\_ is Mexican.
+
+<details>
+<summary>Ver solución</summary>
+
+1. **She** is from Colombia.  
+2. **We** are teachers.  
+3. **It** is interesting.  
+4. **He** is Mexican.
+</details>
+
+### Ejercicio 9 — País ↔ nacionalidad (completa)
+
+1. He is from France. He is \_\_\_.  
+2. She is German. She is from \_\_\_.  
+3. They are from Japan. They are \_\_\_.  
+4. We are Brazilian. We are from \_\_\_.
+
+<details>
+<summary>Ver solución</summary>
+
+1. **French**  
+2. **Germany**  
+3. **Japanese**  
+4. **Brazil**
+</details>
+
 ---
 
 ## 8. Diálogo modelo
@@ -399,6 +547,9 @@ Describe a dos amigos (reales o inventados). Para cada uno incluye: nombre, paí
 3. **Escucha los audios** y repite en voz alta cada pronombre y frase modelo.
 4. **No omitas he/she/they** aunque en español no los digamos.
 5. Haz los ejercicios de la [Unidad 2 del curso A1](/curso-a1/unit-2) después de leer esta guía.
+6. **Mapa mental:** escribe 8 países en un círculo y la nacionalidad al lado. Repite en voz alta *from + país* y luego solo la nacionalidad.
+7. **Habla de tu familia:** *My mother is from… She is… My father is… They are…*
+8. **Checklist:** ¿Usé *he/she/they*? ¿*is* con he/she/it y *are* con we/they? ¿*from* + país (no nacionalidad)?
 
 ---
 

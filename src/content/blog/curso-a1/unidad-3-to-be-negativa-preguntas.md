@@ -8,7 +8,7 @@ description: >-
   Aprende el verbo to be en negativa (am not, isn't, aren't), preguntas sí/no,
   respuestas cortas y vocabulario de emociones en inglés A1. Guía Unidad 3 con
   ejemplos, audios y ejercicios prácticos.
-readTime: 12 min
+readTime: 15 min
 keywords:
   - verbo to be negativa inglés
   - preguntas con to be inglés
@@ -109,6 +109,27 @@ Para negar con *to be*, añades **not** después del verbo. En inglés hablado s
 
 **Nota:** *Am not* **no** tiene contracción estándar tipo *amn't*. Siempre dices *I'm not*, nunca *I amn't*.
 
+### Mini-sección: dos contracciones con *you/he/she/we/they*
+
+Con *is* y *are* hay **dos formas** negativas frecuentes:
+
+| Forma A | Forma B | Ejemplo |
+| :--- | :--- | :--- |
+| *He's not tired* | *He isn't tired* | Ambas correctas |
+| *She's not happy* | *She isn't happy* | Ambas correctas |
+| *You're not sad* | *You aren't sad* | Ambas correctas |
+| *They're not hungry* | *They aren't hungry* | Ambas correctas |
+
+**Consejo A1:** elige una forma y practícala hasta que sea automática. *Isn't* / *aren't* suelen ser más fáciles de reconocer en listening.
+
+### Tips de pronunciación: negativa
+
+- *isn't* → /ˈɪznt/ (dos sílabas; la *t* final es suave)
+- *aren't* → /ɑːnt/ o /ɑːrnt/ (una sílaba fuerte)
+- *I'm not* → une: /aɪm nɒt/ (no digas *I am not* palabra por palabra en speaking rápido)
+
+Practica el contraste: *She is happy.* / *She isn't happy.* / *Is she happy?*
+
 ---
 
 ## 2. Preguntas sí/no con *to be*
@@ -157,6 +178,33 @@ En inglés **no basta con decir "yes" o "no"** en preguntas con *to be*. Debes r
 
 **Truco:** en la respuesta corta afirmativa, el pronombre de la respuesta **cambia** según quién responde. Si te preguntan *Are you tired?*, respondes *Yes, **I** am* (no *Yes, you are*).
 
+### Mini-sección: entonación de preguntas sí/no
+
+En inglés, las preguntas de sí/no suelen subir al final:
+
+- *Are you tired?* ↗  
+- *Is she happy?* ↗  
+- *Are they from Spain?* ↗  
+
+Las respuestas cortas bajan:
+
+- *Yes, I am.* ↘  
+- *No, she isn't.* ↘  
+
+Grábate haciendo 5 preguntas y 5 respuestas. Compara con los audios de esta unidad.
+
+### Tabla de transformación rápida
+
+Parte de una afirmativa y convierte:
+
+| Afirmativa | Negativa | Pregunta | Respuesta corta |
+| :--- | :--- | :--- | :--- |
+| I am tired. | I'm not tired. | Am I tired? | Yes, you are. / No, you aren't. |
+| She is happy. | She isn't happy. | Is she happy? | Yes, she is. / No, she isn't. |
+| They are hungry. | They aren't hungry. | Are they hungry? | Yes, they are. / No, they aren't. |
+
+Si memorizas este «cuadrado» (afirmativa–negativa–pregunta–respuesta), la Unidad 3 queda dominada.
+
 ---
 
 ## 3. *How are you?* y respuestas habituales
@@ -180,6 +228,20 @@ La pregunta más famosa del inglés A1:
 - *I'm not great, actually. I'm tired.* → No muy bien, la verdad. Estoy cansado.
 - *She is fine. She isn't sad.* → Ella está bien. No está triste.
 - *They are excited! They aren't tired at all.* → ¡Están emocionados! No están cansados para nada.
+
+### Mini-sección: conversación social mínima
+
+En muchos contextos, *How are you?* es cortesía, no una pregunta médica. Respuesta típica:
+
+> **A:** How are you?  
+> **B:** I'm fine, thank you. And you?  
+> **A:** I'm fine too.
+
+Si quieres ser más sincero (con amigos):
+
+> **A:** How are you?  
+> **B:** I'm a little tired, but I'm OK. And you?  
+> **A:** I'm happy today!
 
 ---
 
@@ -229,6 +291,35 @@ Puedes matizar con palabras sencillas:
 - *Are they excited? Yes, they are!* → ¿Están emocionados? ¡Sí!
 - *She isn't hungry, but she is thirsty.* → No tiene hambre, pero tiene sed.
 
+### Tips de pronunciación: emociones
+
+| Palabra | Tip | Evita |
+| :--- | :--- | :--- |
+| *happy* | /ˈhæpi/ — acento en la primera sílaba | No digas «japi» con /j/ |
+| *tired* | /ˈtaɪərd/ — suena casi «táierd» | No digas «tired» como tres sílabas claras |
+| *hungry* | /ˈhʌŋɡri/ | La *u* suena como «a» abierta |
+| *thirsty* | /ˈθɜːrsti/ — *th* sorda | No digas «tirsti» con /t/ |
+| *angry* | /ˈæŋɡri/ | No confundas con *hungry* |
+| *excited* | /ɪkˈsaɪtɪd/ — acento en *-ci-* | No acentúes la primera sílaba |
+
+### Mini-sección: emociones + *because* (nivel A1 suave)
+
+Puedes añadir una razón sencilla:
+
+- *I am happy **because** it is Friday.*
+- *She is tired **because** she is busy.*
+- *They are excited **because** it is a holiday.*
+
+No necesitas gramática compleja: *because* + frase corta con *to be* ya funciona en A1.
+
+### Contrastes útiles para practicar
+
+Di en voz alta estos pares:
+
+1. *I am hungry.* / *I am not hungry.* / *Are you hungry?*
+2. *He is angry.* / *He isn't angry.* / *Is he angry?*
+3. *We are excited.* / *We aren't excited.* / *Are we excited?*
+
 ---
 
 ## 5. Afirmativa, negativa y pregunta: comparación
@@ -258,6 +349,11 @@ Puedes matizar con palabras sencillas:
 | *Is he happy? — Yes, he.* | *Yes, he is.* | Falta el verbo en la respuesta |
 | *How are you? — I am good, and you?* | *I'm good, thanks. And you?* | Aceptable, pero *fine* es más natural en A1 |
 | *He is with hungry* | *He is hungry* | Los estados van sin preposición |
+| *Is you tired?* | ***Are** you tired?* | *You* → *are* |
+| *Are she happy?* | ***Is** she happy?* | *She* → *is* |
+| *Yes, I'm.* (respuesta corta) | *Yes, **I am**.* | En afirmativa corta no contraigas *am* |
+
+**Nota sobre *Yes, I am*:** en respuestas cortas afirmativas, *I am* **no** se contrae a *I'm*. Se dice *Yes, I am* (completo). En negativa sí: *No, I'm not*.
 
 ---
 
@@ -351,6 +447,56 @@ Escribe 4 frases sobre cómo te sientes hoy. Incluye al menos: 1 afirmativa, 1 n
 
 > I am a little tired. I am not sad. I am hungry. Are you fine today?
 
+### Ejercicio 7 — Transforma las tres formas
+
+Parte de: *They are happy.*
+
+1. Negativa →  
+2. Pregunta →  
+3. Respuesta corta negativa →
+
+<details>
+<summary>Ver solución</summary>
+
+1. They aren't happy. / They are not happy.  
+2. Are they happy?  
+3. No, they aren't.
+</details>
+
+### Ejercicio 8 — Empareja pregunta y respuesta
+
+1. Are you thirsty?  
+2. Is he angry?  
+3. Are we late?  
+4. Is it cold?
+
+Opciones: a) No, he isn't. b) Yes, I am. c) Yes, it is. d) No, we aren't.
+
+<details>
+<summary>Ver solución</summary>
+
+1 → **b**  
+2 → **a**  
+3 → **d**  
+4 → **c**
+</details>
+
+### Ejercicio 9 — Traduce y completa
+
+1. Ella no está enfadada. →  
+2. ¿Están ellos emocionados? →  
+3. No, no lo estoy. (*Are you tired?*) →  
+4. Estoy un poco triste. →
+
+<details>
+<summary>Ver solución</summary>
+
+1. She isn't angry. / She is not angry.  
+2. Are they excited?  
+3. No, I'm not.  
+4. I am a little sad. / I'm a little sad.
+</details>
+
 ---
 
 ## 8. Diálogo modelo
@@ -373,6 +519,9 @@ Escribe 4 frases sobre cómo te sientes hoy. Incluye al menos: 1 afirmativa, 1 n
 3. **Escucha los audios** y repite las preguntas con entonación ascendente al final.
 4. **Asocia emociones a situaciones reales** (*Monday morning → tired*, *Friday → happy*).
 5. Haz los ejercicios de la [Unidad 3 del curso A1](/curso-a1/unit-3) después de leer esta guía.
+6. **Rutina de 5 minutos:** elige una emoción del día y di: afirmativa + negativa + pregunta + respuesta corta.
+7. **Listening tip:** cuando oigas *isn't* / *aren't*, repite la frase completa en voz alta inmediatamente.
+8. **Checklist:** ¿*not* va después de *am/is/are*? ¿La pregunta empieza por el verbo? ¿La respuesta corta incluye pronombre + verbo?
 
 ---
 
