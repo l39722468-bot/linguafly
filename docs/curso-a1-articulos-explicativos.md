@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 7 |
-| Artículos dedicados pendientes | 53 |
+| Artículos dedicados publicados | 8 |
+| Artículos dedicados pendientes | 52 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -40,7 +40,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 5 | Simple Present: Everyday Actions | Present Simple afirmativo, -s 3.ª pers. | ✅ | [Present Simple rutinas A1](/blog/curso-a1/unidad-5-present-simple-rutinas) |
 | 6 | Family Members & Personal Info | Genitivo sajón, his/her/our/their | ✅ | [Familia, posesivos y genitivo A1](/blog/curso-a1/unidad-6-familia-posesivos-genitivo) |
 | 7 | Colors & Physical Descriptions | Adjetivos, *have got* | ✅ | [Colores y descripciones físicas A1](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) |
-| 8 | Numbers 20–100 | *How old/much is…?* | ❌ | Pendiente |
+| 8 | Numbers 20–100 | *How old/much is…?* | ✅ | [Números, edad y precios A1](/blog/curso-a1/unidad-8-numeros-edad-precios) |
 | 9 | Jobs & Occupations | Profesiones, a/an | ❌ | Pendiente |
 | 10 | Module 1 Review | Repaso módulo 1 | ⏭️ | Pendiente (opcional) |
 
