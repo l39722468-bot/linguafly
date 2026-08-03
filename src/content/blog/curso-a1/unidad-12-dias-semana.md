@@ -101,6 +101,44 @@ Al terminar esta unidad serás capaz de:
 
 ![Tabla de los días de la semana en inglés A1](/blog/curso-a1/unit-12/a1-unit12-days.png)
 
+### Cómo memorizar el orden
+
+Una cadena útil para practicar en voz alta:
+
+> **Mon**day → **Tues**day → **Wednes**day → **Thurs**day → **Fri**day → **Satur**day → **Sun**day
+
+**Truco de chunks:**
+
+1. *Monday, Tuesday, Wednesday* (inicio de semana)
+2. *Thursday, Friday* (mitad / casi finde)
+3. *Saturday, Sunday* (weekend)
+
+### Consejos de pronunciación (días)
+
+| Día | Tip de pronunciación |
+| :--- | :--- |
+| **Monday** | /ˈmʌndeɪ/ — *Mon* suena /mʌn/ (como “man” corta), no “mon” con /o/ |
+| **Tuesday** | /ˈtjuːzdeɪ/ (GB) o /ˈtuːzdeɪ/ (US) — acento en **Tues** |
+| **Wednesday** | /ˈwenzdeɪ/ — ¡solo **2** sílabas en la práctica! “Wenz-day”, la *d* del medio casi desaparece |
+| **Thursday** | /ˈθɜːzdeɪ/ — *Th* = /θ/ (como en *think*); no /t/ |
+| **Friday** | /ˈfraɪdeɪ/ — *i* = /aɪ/ (como *my*) |
+| **Saturday** | /ˈsætədeɪ/ — 3 sílabas: **Sa**-tur-day |
+| **Sunday** | /ˈsʌndeɪ/ — *Sun* = /sʌn/ (como *sun* = sol) |
+
+**Mini-práctica oral:** di los 7 días dos veces seguidas; luego solo *Wednesday* y *Thursday* cinco veces (son los más difíciles).
+
+### Abreviaturas frecuentes
+
+| Día | Abreviatura |
+| :--- | :--- |
+| Monday | Mon. |
+| Tuesday | Tue. / Tues. |
+| Wednesday | Wed. |
+| Thursday | Thu. / Thur. |
+| Friday | Fri. |
+| Saturday | Sat. |
+| Sunday | Sun. |
+
 ### Reglas importantes
 
 - Los días **siempre van con mayúscula**: *Monday*, no *monday*.
@@ -116,6 +154,12 @@ Al terminar esta unidad serás capaz de:
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-12/weekdays.mp3" title="🔊 Weekdays"></audio>
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-12/weekend.mp3" title="🔊 Weekend"></audio>
+
+**Ejemplos:**
+
+- On **weekdays** I go to work.
+- At / On the **weekend** I rest.
+- Weekdays are busy. The weekend is quiet.
 
 ---
 
@@ -165,6 +209,27 @@ Con los días de la semana usamos ***on***:
 | **at** seven o'clock | (hora → at, no on) |
 | **in** the morning | (parte del día → in) |
 
+### Más ejemplos: *on* + día + rutina
+
+Combina esta unidad con la hora (Unidad 10):
+
+| Día | Frase completa |
+| :--- | :--- |
+| Monday | On Monday I get up at seven o'clock. |
+| Tuesday | On Tuesdays I have English class at six. |
+| Friday | On Friday I finish work at half past three. |
+| Saturday | On Saturday I go shopping in the morning. |
+| Sunday | On Sunday I rest at home. |
+
+### *on the weekend* vs *at the weekend*
+
+| Variedad | Forma habitual |
+| :--- | :--- |
+| Americano (US) | **on** the weekend / **on** weekends |
+| Británico (GB) | **at** the weekend / **at** weekends |
+
+Ambas son correctas. En esta guía usamos sobre todo **on the weekend**, pero acepta *at the weekend* si estudias inglés británico.
+
 ---
 
 ## 3. What do you do on…?
@@ -195,6 +260,35 @@ Para preguntar por hábitos de un día:
 | I **work** on Mondays. | She **works** on Mondays. |
 | I **don't work** on Sunday. | He **doesn't work** on Sunday. |
 | What **do** you do…? | What **does** she do…? |
+
+### Vocabulario de hábitos por día
+
+| Actividad | Español | Ejemplo |
+| :--- | :--- | :--- |
+| **work** | trabajar | I work on Mondays. |
+| **have class** | tener clase | She has class on Tuesdays. |
+| **meet friends** | quedar con amigos | I meet my friends on Fridays. |
+| **go shopping** | ir de compras | We go shopping on Saturday. |
+| **rest** | descansar | I rest on Sunday. |
+| **do sport / exercise** | hacer deporte | He does sport on Wednesdays. |
+| **stay at home** | quedarse en casa | On Sundays I stay at home. |
+| **visit family** | visitar a la familia | They visit family on Sunday. |
+
+### Mini-diálogos
+
+**Diálogo A**
+
+> **A:** What do you do on Mondays?  
+> **B:** I work from nine to five.  
+> **A:** And on the weekend?  
+> **B:** On Saturday I go shopping. On Sunday I rest.
+
+**Diálogo B**
+
+> **A:** Do you have English class on Wednesday?  
+> **B:** No, I don't. I have class on Tuesday and Thursday.  
+> **A:** What do you do on Friday evening?  
+> **B:** I meet my friends.
 
 ---
 
@@ -238,6 +332,19 @@ Para preguntar por hábitos de un día:
 | *I no work on Sunday* | *I **don't** work on Sunday* | Negativa con *don't* |
 | *She work on Mondays* | *She **works** on Mondays* | 3.ª persona: -s |
 | *What you do on Sunday?* | *What **do** you do on Sunday?* | Falta auxiliar *do* |
+| *I work the Monday* | *I work **on** Monday* | Falta *on*; no uses *the* así |
+| *On monday I rest* | *On **Monday** I rest* | Mayúscula obligatoria |
+| *She doesn't works on Sunday* | *She doesn't **work** on Sunday* | Tras *doesn't*: forma base |
+| *from Monday until Friday* | *from Monday **to** Friday* | En A1: *from… to…* |
+
+### Mapa mental de preposiciones de tiempo (A1)
+
+| Usa… | Con… | Ejemplo |
+| :--- | :--- | :--- |
+| **on** | días | on Monday, on Fridays |
+| **at** | horas | at seven o'clock |
+| **in** | partes del día | in the morning |
+| **at** | night / the weekend (GB) | at night / at the weekend |
 
 ---
 
@@ -335,6 +442,69 @@ Escribe 6 frases sobre tu semana. Usa al menos **cuatro días** diferentes y *on
 
 > On Mondays I work. On Tuesdays I have English class. On Friday I meet my friends. On Saturday I go shopping. On Sunday I rest at home. On the weekend I don't work.
 
+### Ejercicio 7 — Completa con el día correcto (en inglés)
+
+1. The day after Monday is \_\_\_\_.  
+2. The day before Friday is \_\_\_\_.  
+3. The first day of the weekend is \_\_\_\_.  
+4. Weekdays end on \_\_\_\_.  
+5. The day between Tuesday and Thursday is \_\_\_\_.
+
+<details>
+<summary>Ver solución</summary>
+
+1. **Tuesday**  
+2. **Thursday**  
+3. **Saturday**  
+4. **Friday**  
+5. **Wednesday**
+</details>
+
+### Ejercicio 8 — Reescribe con *he/she*
+
+1. I work on Mondays. → She \_\_\_\_  
+2. I don't work on Sunday. → He \_\_\_\_  
+3. What do you do on Friday? → What \_\_\_\_ she \_\_\_\_ on Friday?  
+4. I meet my friends on Saturdays. → He \_\_\_\_
+
+<details>
+<summary>Ver solución</summary>
+
+1. She **works** on Mondays.  
+2. He **doesn't work** on Sunday.  
+3. What **does** she **do** on Friday?  
+4. He **meets** his friends on Saturdays.
+</details>
+
+### Ejercicio 9 — Traduce al inglés
+
+1. Los miércoles hago deporte.  
+2. ¿Trabajas el sábado?  
+3. El viernes por la tarde quedo con mis amigos.  
+4. De lunes a viernes me levanto a las siete.  
+5. Ella no trabaja los fines de semana.
+
+<details>
+<summary>Ver solución</summary>
+
+1. On Wednesdays I do sport. / I do sport on Wednesdays.  
+2. Do you work on Saturday?  
+3. On Friday evening I meet my friends.  
+4. From Monday to Friday I get up at seven.  
+5. She doesn't work on the weekend. / She doesn't work at the weekend.
+</details>
+
+### Ejercicio 10 — Speaking: tu semana en 1 minuto
+
+Habla durante 60–90 segundos:
+
+1. Di qué haces de lunes a viernes (*from Monday to Friday…*).
+2. Di dos hábitos con días en plural (*on Tuesdays, on Fridays*).
+3. Di qué haces el fin de semana.
+4. Hazte una pregunta y respóndela: *Do you work on Sunday?*
+
+**Checklist:** mayúsculas en los días · *on* (no *in/at*) · *-s* con *he/she* · *don't/doesn't* en negativas.
+
 ---
 
 ## 8. Diálogo modelo
@@ -358,6 +528,21 @@ Escribe 6 frases sobre tu semana. Usa al menos **cuatro días** diferentes y *on
 3. **Practica *on***: *on Monday*, *on Fridays*, *on the weekend*.
 4. **Escucha los audios** y repite con la misma entonación.
 5. Haz los ejercicios de la [Unidad 12 del curso A1](/curso-a1/unit-12).
+6. **Combina con la hora:** *On Monday I get up at seven o'clock* ([Unidad 10](/blog/curso-a1/unidad-10-rutinas-diarias-hora)).
+7. **Etiqueta tu calendario** del móvil en inglés (Mon, Tue, Wed…).
+8. **Pregunta a tres personas:** *What do you do on Sundays?*
+9. **Repasa Present Simple** en la [Unidad 5](/blog/curso-a1/unidad-5-present-simple-rutinas).
+10. **Graba tu semana** en 1 minuto y corrige mayúsculas y preposiciones.
+
+### Mini-rutina de 10 minutos
+
+| Minuto | Actividad |
+| :--- | :--- |
+| 1–2 | Di los 7 días en orden (×2) |
+| 3–4 | Pronuncia *Wednesday* y *Thursday* con cuidado |
+| 5–6 | Escribe 5 frases *On + day + actividad* |
+| 7–8 | Transforma 3 frases a *he/she* |
+| 9–10 | Escucha 2 audios y describe tu weekend |
 
 ---
 

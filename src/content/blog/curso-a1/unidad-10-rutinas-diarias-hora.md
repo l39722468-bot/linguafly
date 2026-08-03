@@ -101,6 +101,38 @@ Al terminar esta unidad serás capaz de:
 
 ![Tabla de rutinas diarias en inglés A1](/blog/curso-a1/unit-10/a1-unit10-routines.png)
 
+### Más verbos de rutina útiles
+
+| Inglés | Español | Ejemplo |
+| :--- | :--- | :--- |
+| **wake up** | despertarse | I wake up at half past six. |
+| **have a shower** | ducharse | I have a shower at seven. |
+| **get dressed** | vestirse | She gets dressed after breakfast. |
+| **start work** | empezar a trabajar | I start work at nine. |
+| **go home** | ir a casa | He goes home at six. |
+| **watch TV** | ver la tele | We watch TV in the evening. |
+| **do homework** | hacer deberes | She does homework at half past five. |
+
+**Orden típico de la mañana:**
+
+1. I **wake up** at half past six.
+2. I **get up** at seven o'clock.
+3. I **have a shower** and **get dressed**.
+4. I **have breakfast** at half past seven.
+5. I **go to work** at nine o'clock.
+
+### Consejos de pronunciación (rutinas y hora)
+
+| Expresión | Tip |
+| :--- | :--- |
+| **get up** | /ɡet ʌp/ — la *u* de *up* suena /ʌ/ (como “uh”), no /u/ |
+| **breakfast** | /ˈbrekfəst/ — acento en **break**; la segunda sílaba es débil |
+| **o'clock** | /əˈklɒk/ — la *o'* suena /ə/ (schwa), no “oh” fuerte |
+| **half past** | /hɑːf pɑːst/ (GB) — *half* suena “haaf”; no digas “jalp” |
+| **evening** | /ˈiːvnɪŋ/ — empieza con /iː/, no con /e/ |
+
+**Mini-práctica oral:** *I get up at seven o'clock. I have breakfast at half past seven. I go to bed at ten o'clock.*
+
 ### Partes del día
 
 | Inglés | Español | Uso |
@@ -114,6 +146,16 @@ Al terminar esta unidad serás capaz de:
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-10/in-the-afternoon.mp3" title="🔊 In the afternoon"></audio>
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-10/in-the-evening.mp3" title="🔊 In the evening"></audio>
+
+**Regla rápida:** *in* + parte del día; *at* + hora concreta; *at night* (excepción: *at night*, no *in the night*).
+
+| Preposición | Ejemplo |
+| :--- | :--- |
+| **in** the morning | I have breakfast **in** the morning. |
+| **in** the afternoon | I finish work **in** the afternoon. |
+| **in** the evening | I have dinner **in** the evening. |
+| **at** night | I go to bed **at** night. |
+| **at** seven o'clock | I get up **at** seven o'clock. |
 
 ---
 
@@ -145,6 +187,21 @@ at + hora
 | I get up **at** seven o'clock. | Me levanto a las siete en punto. |
 | I have breakfast **at** half past seven. | Desayuno a las siete y media. |
 | I go to bed **at** ten o'clock. | Me acuesto a las diez en punto. |
+
+### Más ejemplos de *half past* y *o'clock*
+
+| Reloj | Di en inglés | En una frase |
+| :--- | :--- | :--- |
+| 6:00 | six o'clock | I get up at **six o'clock**. |
+| 6:30 | half past six | I have a shower at **half past six**. |
+| 8:00 | eight o'clock | She goes to school at **eight o'clock**. |
+| 8:30 | half past eight | He starts work at **half past eight**. |
+| 12:00 | twelve o'clock | We have lunch at **twelve o'clock**. |
+| 12:30 | half past twelve | They finish lunch at **half past twelve**. |
+
+**Recuerda el orden en *half past*:** primero *half past*, después la hora (*half past seven* = 7:30). No digas *seven half past*.
+
+En niveles superiores verás *quarter past* (y cuarto) y *quarter to* (menos cuarto). En esta unidad A1 domina **o'clock** y **half past**.
 
 ---
 
@@ -211,6 +268,21 @@ En 3.ª persona singular el verbo lleva **-s**:
 
 <audio controls preload="none" src="/audio/blog/curso-a1/unit-10/he-has-lunch-at-one.mp3" title="🔊 He has lunch at one o'clock"></audio>
 
+### Ortografía de la -s en 3.ª persona
+
+| Regla | Verbos | Ejemplo |
+| :--- | :--- | :--- |
+| Añade **-s** | get → gets, start → starts | She **gets** up early. |
+| Añade **-es** (tras -o, -sh, -ch, -ss, -x) | go → goes, finish → finishes | He **goes** to work. / She **finishes** work. |
+| **have → has** (irregular) | have → has | He **has** breakfast. |
+| **do → does** (en preguntas/negativas) | do → does | What time **does** she get up? |
+
+### Mini-texto: el día de Sara
+
+> Sara **gets** up at six o'clock. She **has** breakfast at half past six. She **goes** to school at eight. She **has** lunch at one o'clock. In the afternoon she **does** homework. She **has** dinner at eight in the evening. She **goes** to bed at half past ten.
+
+Compara con Mark (sección 5): Mark usa *I get / I have / I go*; Sara usa *She gets / She has / She goes*.
+
 ---
 
 ## 5. Texto modelo (del curso)
@@ -254,6 +326,17 @@ En 3.ª persona singular el verbo lleva **-s**:
 | *What time you get up?* | *What time **do** you get up?* | Falta auxiliar *do* |
 | *half past of seven* | ***half past** seven* | Sin *of* |
 | *I have the breakfast* | *I **have breakfast*** | Sin *the* en comidas habituales |
+| *She go to bed at ten* | *She **goes** to bed at ten* | *go → goes* |
+| *I get up at the seven* | *I get up at seven* | Sin *the* delante de la hora |
+| *What time does she gets up?* | *What time does she **get** up?* | Tras *does*: verbo en forma base |
+| *in half past seven* | ***at** half past seven* | Hora → *at* |
+
+### Truco *at* vs *in*
+
+- **at** + hora: *at seven, at half past nine*
+- **in** + parte del día: *in the morning, in the afternoon, in the evening*
+- **at night** (excepción)
+- Comidas habituales **sin** *the*: *have breakfast / lunch / dinner*
 
 ---
 
@@ -355,6 +438,69 @@ Escribe 6–7 frases sobre tu rutina diaria con horarios. Usa *at*, *o'clock* o 
 
 > I get up at seven o'clock in the morning. I have breakfast at half past seven. I go to work at nine o'clock. I have lunch at one. I finish work at half past five. I have dinner at eight in the evening. I go to bed at ten o'clock.
 
+### Ejercicio 7 — Reescribe en 3.ª persona
+
+Cambia *I* por *She* y ajusta el verbo:
+
+1. I get up at seven. → \_\_\_\_  
+2. I have breakfast at half past seven. → \_\_\_\_  
+3. I go to work at nine. → \_\_\_\_  
+4. I finish work at half past five. → \_\_\_\_  
+5. I go to bed at ten. → \_\_\_\_
+
+<details>
+<summary>Ver solución</summary>
+
+1. She **gets** up at seven.  
+2. She **has** breakfast at half past seven.  
+3. She **goes** to work at nine.  
+4. She **finishes** work at half past five.  
+5. She **goes** to bed at ten.
+</details>
+
+### Ejercicio 8 — Pregunta y respuesta
+
+Escribe la pregunta con *What time…?* para cada respuesta:
+
+1. \_\_\_\_? — I get up at six o'clock.  
+2. \_\_\_\_? — She has lunch at one.  
+3. \_\_\_\_? — He goes to bed at eleven.  
+4. \_\_\_\_? — They finish work at half past five.
+
+<details>
+<summary>Ver solución</summary>
+
+1. What time do you get up?  
+2. What time does she have lunch?  
+3. What time does he go to bed?  
+4. What time do they finish work?
+</details>
+
+### Ejercicio 9 — Completa el párrafo
+
+Completa con *at, in, gets, has, goes*:
+
+> Maria \_\_\_\_ up \_\_\_\_ six o'clock \_\_\_\_ the morning. She \_\_\_\_ breakfast \_\_\_\_ half past six. She \_\_\_\_ to school \_\_\_\_ eight. She \_\_\_\_ lunch \_\_\_\_ one o'clock. \_\_\_\_ the evening she \_\_\_\_ dinner \_\_\_\_ eight. She \_\_\_\_ to bed \_\_\_\_ ten.
+
+<details>
+<summary>Ver solución</summary>
+
+> Maria **gets** up **at** six o'clock **in** the morning. She **has** breakfast **at** half past six. She **goes** to school **at** eight. She **has** lunch **at** one o'clock. **In** the evening she **has** dinner **at** eight. She **goes** to bed **at** ten.
+</details>
+
+### Ejercicio 10 — Speaking: entrevista de rutina
+
+Haz estas 6 preguntas (a un compañero o en voz alta contigo mismo) y responde con horario real:
+
+1. What time do you get up?  
+2. What time do you have breakfast?  
+3. What time do you go to work / school?  
+4. What time do you have lunch?  
+5. What time do you have dinner?  
+6. What time do you go to bed?
+
+**Extra:** describe el día de otra persona usando *he/she* + *-s*.
+
 ---
 
 ## 9. Diálogo modelo
@@ -377,6 +523,21 @@ Escribe 6–7 frases sobre tu rutina diaria con horarios. Usa *at*, *o'clock* o 
 3. **Pregunta a alguien**: *What time do you…?*
 4. **Escucha los audios** y repite con la misma entonación.
 5. Haz los ejercicios de la [Unidad 10 del curso A1](/curso-a1/unit-10).
+6. **Conecta con profesiones** (Unidad 9): *I am a teacher. I go to work at eight o'clock.*
+7. **Cambia I → he/she** cada día durante una semana para fijar la *-s*.
+8. **Repasa Present Simple** en la [Unidad 5](/blog/curso-a1/unidad-5-present-simple-rutinas) si necesitas más práctica de hábitos.
+9. **Di en voz alta** cinco horas al azar del móvil usando solo *o'clock* o *half past*.
+10. **Graba tu rutina** en 45–60 segundos y comprueba *at/in* y la conjugación.
+
+### Mini-rutina de 10 minutos
+
+| Minuto | Actividad |
+| :--- | :--- |
+| 1–2 | Repite 8 verbos de rutina |
+| 3–4 | Di 6 horas: 3 *o'clock* + 3 *half past* |
+| 5–6 | Escribe tu mañana con *at* e *in the morning* |
+| 7–8 | Transforma el texto a *he/she* |
+| 9–10 | Escucha 2 audios y responde *What time…?* |
 
 ---
 
