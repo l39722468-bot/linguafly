@@ -2,7 +2,7 @@
 category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
-author: focus-english-team
+author: linguafly-team
 title: 'Profesiones en Inglés (A1): Jobs, a/an y Where Do You Work?'
 description: >-
   Aprende profesiones en inglés A1, a/an con trabajos, I am a teacher y Where do

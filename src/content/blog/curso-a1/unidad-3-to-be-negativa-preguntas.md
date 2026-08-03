@@ -2,7 +2,7 @@
 category: curso-a1
 date: '2026-07-31'
 updatedDate: '2026-07-31'
-author: focus-english-team
+author: linguafly-team
 title: 'Verbo To Be en Negativa y Preguntas (A1): Guía con Emociones y Ejercicios'
 description: >-
   Aprende el verbo to be en negativa (am not, isn't, aren't), preguntas sí/no,

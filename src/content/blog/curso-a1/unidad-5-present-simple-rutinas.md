@@ -2,7 +2,7 @@
 category: curso-a1
 date: '2026-08-01'
 updatedDate: '2026-08-01'
-author: focus-english-team
+author: linguafly-team
 title: 'Present Simple en Inglés (A1): Rutinas y Acciones Cotidianas con Ejercicios'
 description: >-
   Aprende el Present Simple en afirmativa en inglés A1: rutinas diarias, verbos

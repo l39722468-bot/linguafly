@@ -2,7 +2,7 @@
 category: curso-a1
 date: '2026-07-31'
 updatedDate: '2026-07-31'
-author: focus-english-team
+author: linguafly-team
 title: 'Verbo To Be con He, She, It, We y They (A1): Pronombres y Nacionalidades'
 description: >-
   Aprende los pronombres personales en inglés (he, she, it, we, they), el verbo

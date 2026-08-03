@@ -2,7 +2,7 @@
 category: curso-a1
 date: '2026-07-31'
 updatedDate: '2026-07-31'
-author: focus-english-team
+author: linguafly-team
 title: 'Saludos en Inglés y Cómo Presentarse (A1): Guía Completa con Ejercicios'
 description: >-
   Aprende a saludar y presentarte en inglés nivel A1: Hello, Hi, Good morning,

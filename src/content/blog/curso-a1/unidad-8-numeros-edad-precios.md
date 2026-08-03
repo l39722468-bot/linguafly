@@ -2,7 +2,7 @@
 category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
-author: focus-english-team
+author: linguafly-team
 title: 'Números 20–100 en Inglés (A1): Edad, Precios y How Much / How Old'
 description: >-
   Aprende números del 20 al 100 en inglés A1, How old are you?, How much is…?,
