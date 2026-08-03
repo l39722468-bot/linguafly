@@ -535,6 +535,10 @@ Escribe 6–8 frases: 3 hobbies que te gustan (con *because*), 2 que no, y 1 pre
 
 En la **Unidad 19** trabajarás **Months & Dates**: meses, ordinales y cumpleaños.
 
+Guía dedicada:
+
+- [Unidad 19 — Meses y fechas: When is your birthday?](/blog/curso-a1/unidad-19-meses-fechas-cumpleanos)
+
 Guías relacionadas:
 
 - [Unidad 17 — Comidas: Breakfast, Lunch & Dinner](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner)

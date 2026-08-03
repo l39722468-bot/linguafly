@@ -382,6 +382,28 @@ const CLIPS_BY_UNIT = {
     'i-like-pop-and-rock': 'I like pop and rock.',
     'do-you-like-comedy': 'Do you like comedy films?',
   },
+  19: {
+    january: 'January.',
+    february: 'February.',
+    march: 'March.',
+    april: 'April.',
+    may: 'May.',
+    june: 'June.',
+    july: 'July.',
+    august: 'August.',
+    september: 'September.',
+    october: 'October.',
+    november: 'November.',
+    december: 'December.',
+    first: 'First.',
+    second: 'Second.',
+    third: 'Third.',
+    'when-is-your-birthday': 'When is your birthday?',
+    'my-birthday-is-in-may': 'My birthday is in May.',
+    'on-the-fifth-of-april': 'My birthday is on the fifth of April.',
+    'i-was-born-in-february': 'I was born in February.',
+    'christmas-is-in-december': 'Christmas is in December.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
