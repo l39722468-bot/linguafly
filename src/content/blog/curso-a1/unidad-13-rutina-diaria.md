@@ -504,6 +504,10 @@ Describe tu día completo (mañana, tarde y noche) con secuenciadores y al menos
 
 En la **Unidad 14** trabajarás el Present Simple con ***I, you, we, they*** en negativa y preguntas (*don't*, *Do you…?*).
 
+Guía dedicada:
+
+- [Unidad 14 — Present Simple: don't y Do you…?](/blog/curso-a1/unidad-14-present-simple-dont-do-you)
+
 Guías relacionadas:
 
 - [Unidad 12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana)

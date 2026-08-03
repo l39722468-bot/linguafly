@@ -272,6 +272,28 @@ const CLIPS_BY_UNIT = {
     'she-goes-to-bed-at-ten': 'She goes to bed at ten.',
     'i-have-a-shower-every-morning': 'I have a shower every morning.',
   },
+  14: {
+    'watch-tv': 'Watch TV.',
+    cook: 'Cook.',
+    'play-football': 'Play football.',
+    'do-the-housework': 'Do the housework.',
+    'like-music': 'Like music.',
+    'read-books': 'Read books.',
+    'i-dont-like-coffee': "I don't like coffee.",
+    'i-dont-watch-tv': "I don't watch TV in the morning.",
+    'we-dont-play-football': "We don't play football.",
+    'they-dont-eat-meat': "They don't eat meat.",
+    'we-dont-watch-tv': "We don't watch TV.",
+    'i-dont-like-getting-up': "I don't like getting up early.",
+    'do-you-like-coffee': 'Do you like coffee?',
+    'do-you-cook': 'Do you cook?',
+    'do-you-play-tennis': 'Do you play tennis?',
+    'do-you-like-music': 'Do you like music?',
+    'do-you-read-books': 'Do you read books?',
+    'do-they-do-housework': 'Do they do the housework?',
+    'yes-i-do': 'Yes, I do.',
+    'no-i-dont': "No, I don't.",
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
