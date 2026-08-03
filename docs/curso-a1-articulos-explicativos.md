@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 9 |
-| Artículos dedicados pendientes | 51 |
+| Artículos dedicados publicados | 10 |
+| Artículos dedicados pendientes | 50 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -42,7 +42,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 7 | Colors & Physical Descriptions | Adjetivos, *have got* | ✅ | [Colores y descripciones físicas A1](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) |
 | 8 | Numbers 20–100 | *How old/much is…?* | ✅ | [Números, edad y precios A1](/blog/curso-a1/unidad-8-numeros-edad-precios) |
 | 9 | Jobs & Occupations | Profesiones, a/an | ✅ | [Profesiones y ocupaciones A1](/blog/curso-a1/unidad-9-profesiones-ocupaciones) |
-| 10 | Module 1 Review | Repaso módulo 1 | ⏭️ | Pendiente (opcional) |
+| 10 | Daily Routines & Time | *What time…?*, *at* + hora | ✅ | [Rutinas diarias y la hora A1](/blog/curso-a1/unidad-10-rutinas-diarias-hora) |
 
 ---
 
