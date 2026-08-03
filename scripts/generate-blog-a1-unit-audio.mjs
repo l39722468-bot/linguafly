@@ -230,6 +230,26 @@ const CLIPS_BY_UNIT = {
     'there-are-two-supermarkets': 'There are two supermarkets in my street.',
     'where-is-the-library': 'Where is the library? It is next to the supermarket.',
   },
+  12: {
+    monday: 'Monday.',
+    tuesday: 'Tuesday.',
+    wednesday: 'Wednesday.',
+    thursday: 'Thursday.',
+    friday: 'Friday.',
+    saturday: 'Saturday.',
+    sunday: 'Sunday.',
+    weekend: 'Weekend.',
+    weekdays: 'Weekdays.',
+    'i-work-on-mondays': 'I work on Mondays.',
+    'what-do-you-do-on-sunday': 'What do you do on Sunday?',
+    'on-the-weekend-i-dont-work': "On the weekend I don't work.",
+    'she-has-class-on-tuesdays': 'She has class on Tuesdays.',
+    'i-go-shopping-on-saturday': 'I go shopping on Saturday.',
+    'from-monday-to-friday': 'From Monday to Friday I go to work.',
+    'do-you-work-on-saturday': "Do you work on Saturday? No, I don't.",
+    'i-meet-my-friends': 'What do you do on Fridays? I meet my friends.',
+    'on-sunday-i-rest': 'On Sunday I rest at home.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
