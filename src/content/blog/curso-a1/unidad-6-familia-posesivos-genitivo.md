@@ -2,7 +2,7 @@
 category: curso-a1
 date: '2026-08-02'
 updatedDate: '2026-08-02'
-author: focus-english-team
+author: linguafly-team
 title: 'Familia en Inglés (A1): Posesivos y Genitivo Sajón con Ejercicios'
 description: >-
   Aprende vocabulario de la familia en inglés A1, adjetivos posesivos (my, your,

@@ -168,6 +168,27 @@ const CLIPS_BY_UNIT = {
     'my-phone-number-is': 'My phone number is six one two, three four, five six, seven eight.',
     'zero-oh': 'Oh. Zero.',
   },
+  9: {
+    teacher: 'Teacher.',
+    doctor: 'Doctor.',
+    nurse: 'Nurse.',
+    engineer: 'Engineer.',
+    chef: 'Chef.',
+    waiter: 'Waiter.',
+    student: 'Student.',
+    driver: 'Driver.',
+    'i-am-a-teacher': 'I am a teacher.',
+    'she-is-an-engineer': 'She is an engineer.',
+    'he-is-a-doctor': 'He is a doctor.',
+    'where-do-you-work': 'Where do you work?',
+    'i-work-in-a-school': 'I work in a school.',
+    'he-works-in-an-office': 'He works in an office.',
+    'she-works-in-a-hospital': 'She works in a hospital.',
+    'what-do-you-do': 'What do you do?',
+    'she-is-a-nurse': 'She is a nurse. She works in a hospital.',
+    'he-is-an-engineer': 'He is an engineer. He works in an office.',
+    'my-brother-is-a-chef': 'My brother is a chef. He works in a restaurant.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
