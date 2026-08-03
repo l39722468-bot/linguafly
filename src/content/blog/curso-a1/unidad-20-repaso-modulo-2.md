@@ -492,6 +492,10 @@ Si marcas ❌ en alguno, vuelve a la guía de esa unidad (tabla del mapa) 10 min
 
 Empieza el **Módulo 3 — My World** con la **Unidad 21**: habitaciones de la casa.
 
+Guía dedicada:
+
+- [Unidad 21 — Habitaciones de la casa](/blog/curso-a1/unidad-21-habitaciones-casa)
+
 Guías del Módulo 2 para volver atrás:
 
 - [Unidad 19 — Meses y fechas](/blog/curso-a1/unidad-19-meses-fechas-cumpleanos)

@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-03 (artículos U1–U20 ≥2000 palabras)  
+**Última actualización:** 2026-08-03 (artículos U1–U21 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 20 |
-| Artículos dedicados pendientes | 40 |
+| Artículos dedicados publicados | 21 |
+| Artículos dedicados pendientes | 39 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -67,7 +67,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 21 | Rooms in a House | Plurales, adjetivos | ❌ | Pendiente |
+| 21 | Rooms in a House | Plurales, adjetivos | ✅ | [Habitaciones de la casa A1](/blog/curso-a1/unidad-21-habitaciones-casa) |
 | 22 | Furniture & Household Items | Posesivos mine/yours | ❌ | Pendiente |
 | 23 | There is / There are | *There is/are* | ❌ | Pendiente |
 | 24 | Prepositions of Place | Preposiciones de lugar | 🔶 | Preposiciones de movimiento |

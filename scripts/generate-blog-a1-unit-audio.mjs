@@ -426,6 +426,28 @@ const CLIPS_BY_UNIT = {
     'yes-i-do': 'Yes, I do.',
     'no-she-doesnt': "No, she doesn't.",
   },
+  21: {
+    kitchen: 'Kitchen.',
+    'living-room': 'Living room.',
+    bedroom: 'Bedroom.',
+    bathroom: 'Bathroom.',
+    'dining-room': 'Dining room.',
+    hall: 'Hall.',
+    garden: 'Garden.',
+    balcony: 'Balcony.',
+    garage: 'Garage.',
+    stairs: 'Stairs.',
+    'the-kitchen-is-bright': 'The kitchen is bright and modern.',
+    'the-living-room-is-cozy': 'The living room is very cozy.',
+    'the-bathroom-is-small': 'The bathroom is small but clean.',
+    'we-have-three-bedrooms': 'We have three bedrooms.',
+    'my-house-has-four-rooms': 'My house has four rooms.',
+    'there-are-two-bathrooms': 'There are two bathrooms upstairs.',
+    'how-many-rooms': 'How many rooms does your flat have?',
+    'we-have-a-kitchen': 'We have a kitchen and a living room.',
+    'the-garden-is-big': 'The garden is big.',
+    'i-sleep-in-the-bedroom': 'I sleep in the bedroom.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
