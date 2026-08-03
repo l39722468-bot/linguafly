@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 12 |
-| Artículos dedicados pendientes | 48 |
+| Artículos dedicados publicados | 13 |
+| Artículos dedicados pendientes | 47 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -52,7 +52,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 |---|---|---|---|---|
 | 11 | Places in Town | *There is/are*, *Where is…?* | ✅ | [Lugares en la ciudad A1](/blog/curso-a1/unidad-11-lugares-ciudad) |
 | 12 | Days of the Week | *on* + días, hábitos | ✅ | [Días de la semana A1](/blog/curso-a1/unidad-12-dias-semana) |
-| 13 | Daily Routine | Secuenciadores + Present Simple | 🔶 | Rutina/apps |
+| 13 | Daily Routine | Secuenciadores + Present Simple | ✅ | [Rutina diaria A1](/blog/curso-a1/unidad-13-rutina-diaria) |
 | 14 | Present Simple: I, You, We, They | *don't*, *Do you…?* | 🔶 | Rutina/apps |
 | 15 | Present Simple: He, She, It | *doesn't*, *Does…?* | 🔶 | Rutina/apps |
 | 16 | At the Cafe | *Can I have…?*, *I'd like…* | 🔶 | Hostelería/restaurante |
