@@ -502,6 +502,10 @@ Escribe 5–7 frases sobre un amigo, familiar o mascota: qué hace, qué no hace
 
 En la **Unidad 16** practicarás el inglés de **cafetería**: *Can I have…?*, *I'd like…*.
 
+Guía dedicada:
+
+- [Unidad 16 — Pedir en la cafetería: Can I have e I'd like](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
+
 Guías relacionadas:
 
 - [Unidad 14 — don't y Do you…?](/blog/curso-a1/unidad-14-present-simple-dont-do-you)

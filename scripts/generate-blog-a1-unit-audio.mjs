@@ -316,6 +316,28 @@ const CLIPS_BY_UNIT = {
     'yes-it-does': 'Yes, it does.',
     'she-goes-to-work': 'She goes to work at nine.',
   },
+  16: {
+    coffee: 'Coffee.',
+    tea: 'Tea.',
+    'orange-juice': 'Orange juice.',
+    water: 'Water.',
+    croissant: 'Croissant.',
+    sandwich: 'Sandwich.',
+    cake: 'Cake.',
+    cookie: 'Cookie.',
+    'can-i-have-coffee': 'Can I have a coffee, please?',
+    'can-i-have-tea': 'Can I have a tea, please?',
+    'can-i-have-bill': 'Can I have the bill, please?',
+    'id-like-croissant': "I'd like a croissant, please.",
+    'id-like-tea': "I'd like a tea, please.",
+    'id-like-juice': "I'd like an orange juice.",
+    'would-you-like-drink': 'Would you like something to drink?',
+    'would-you-like-eat': 'Would you like something to eat?',
+    'how-much-is-it': 'How much is it?',
+    'two-euros-fifty': 'Two euros fifty.',
+    'anything-else': 'Anything else?',
+    'thats-all-thanks': "No, that's all, thanks.",
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
