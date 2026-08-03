@@ -189,6 +189,27 @@ const CLIPS_BY_UNIT = {
     'he-is-an-engineer': 'He is an engineer. He works in an office.',
     'my-brother-is-a-chef': 'My brother is a chef. He works in a restaurant.',
   },
+  10: {
+    'get-up': 'Get up.',
+    'have-breakfast': 'Have breakfast.',
+    'go-to-work': 'Go to work.',
+    'have-lunch': 'Have lunch.',
+    'have-dinner': 'Have dinner.',
+    'go-to-bed': 'Go to bed.',
+    'o-clock': "O'clock.",
+    'half-past': 'Half past.',
+    'i-get-up-at-seven': "I get up at seven o'clock.",
+    'i-have-breakfast-half-past': 'I have breakfast at half past seven.',
+    'what-time-do-you-get-up': 'What time do you get up?',
+    'what-time-do-you-go-to-work': 'What time do you go to work?',
+    'i-go-to-work-at-nine': "I go to work at nine o'clock.",
+    'i-go-to-bed-at-ten': "I go to bed at ten o'clock.",
+    'she-gets-up-at-six': "She gets up at six o'clock.",
+    'he-has-lunch-at-one': "He has lunch at one o'clock.",
+    'in-the-morning': 'In the morning.',
+    'in-the-afternoon': 'In the afternoon.',
+    'in-the-evening': 'In the evening.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

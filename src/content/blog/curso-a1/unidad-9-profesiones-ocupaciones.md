@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-9-profesiones-ocupaci
 image: /blog/curso-a1/unit-9/a1-unit9-jobs.png
 alt: Tabla de profesiones y lugares de trabajo en inglés nivel A1
 related_routes:
+  - unidad-10-rutinas-diarias-hora
   - unidad-8-numeros-edad-precios
   - unidad-7-colores-descripciones-fisicas
   - ingles-a1
@@ -391,12 +392,14 @@ Escribe 5 frases sobre profesiones en tu familia (o inventadas). Usa **a/an**, *
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 10** harás el **repaso del Módulo 1**: saludos, *to be*, familia, descripciones, números y profesiones juntos.
+En la **Unidad 10** aprendes **rutinas diarias y la hora** (*What time do you…?*, *at seven o'clock*, *half past*).
+
+→ [Unidad 10 — Rutinas diarias y la hora](/blog/curso-a1/unidad-10-rutinas-diarias-hora)
 
 Guías relacionadas:
 
+- [Unidad 10 — Rutinas diarias y la hora](/blog/curso-a1/unidad-10-rutinas-diarias-hora)
 - [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
-- [Unidad 7 — Colores y descripciones físicas](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)
 - [Unidad 6 — Familia, posesivos y genitivo sajón](/blog/curso-a1/unidad-6-familia-posesivos-genitivo)
 - [Unidad 2 — To be, pronombres y nacionalidades](/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades)
 - [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
