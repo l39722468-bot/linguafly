@@ -522,6 +522,10 @@ Escribe 7–9 frases: qué hay, qué no hay, y 3 ubicaciones con preposiciones d
 
 En la **Unidad 24** ampliarás las **preposiciones de lugar** para describir posiciones con más detalle.
 
+Guía dedicada:
+
+- [Unidad 24 — Preposiciones de lugar (next to, between, in front of, opposite)](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between)
+
 Guías relacionadas:
 
 - [Unidad 22 — Muebles y mine/yours](/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours)

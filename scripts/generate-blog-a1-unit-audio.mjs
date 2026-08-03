@@ -492,6 +492,28 @@ const CLIPS_BY_UNIT = {
     'where-is-the-clock': 'Where is the clock? It is on the wall.',
     'there-is-a-window': 'There is a window in the room.',
   },
+  24: {
+    'next-to-the-bank': 'The shop is next to the bank.',
+    'between-bank-and-supermarket': 'The pharmacy is between the bank and the supermarket.',
+    'in-front-of-the-house': 'There is a tree in front of the house.',
+    'opposite-the-park': 'The cinema is opposite the park.',
+    'there-is-a-cafe-next-to': 'There is a cafe next to the supermarket.',
+    'there-are-two-shops-between': 'There are two shops between the bank and the pharmacy.',
+    'bus-stop-in-front': 'The bus stop is in front of the school.',
+    'flat-next-to-cinema': 'My flat is next to the cinema.',
+    'park-opposite-library': 'There is a park opposite the library.',
+    'bench-in-front-of-tree': 'There is a bench in front of the tree.',
+    'where-is-the-pharmacy': 'Where is the pharmacy? It is next to the bank.',
+    'where-is-the-cinema': 'Where is the cinema? It is opposite the park.',
+    'supermarket-between': 'There is a supermarket between the pharmacy and the library.',
+    'two-cafes-next-to': 'There are two cafes next to the cinema.',
+    'car-in-front-of-house': 'The car is in front of the house.',
+    'library-in-front-of-school': 'The library is in front of the school.',
+    'pharmacy-between-bank': 'The pharmacy is between the bank and the supermarket.',
+    'neighbourhood-nice': 'My neighbourhood is nice. There is a park next to the library.',
+    'ask-directions': 'Excuse me. Where is the bus stop? It is in front of the library.',
+    'review-sentence': 'The bank is next to the supermarket. The cinema is opposite the park.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
