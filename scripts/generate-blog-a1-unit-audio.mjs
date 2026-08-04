@@ -800,6 +800,28 @@ const CLIPS_BY_UNIT = {
     'she-is-creative': 'She is creative — she paints beautifully.',
     'he-works-hard': 'He works hard.',
   },
+  38: {
+    'can-i-use-bathroom': 'Can I use the bathroom?',
+    'may-i-open-door': 'May I open the door?',
+    'can-i-borrow-pen': 'Can I borrow your pen?',
+    'may-i-come-in': 'May I come in?',
+    'yes-you-can': 'Yes, you can.',
+    'no-you-cant': "No, you can't right now.",
+    'can-i-use-phone': 'Can I use the phone?',
+    'may-i-ask-question': 'May I ask a question?',
+    'can-i-sit-here': 'Can I sit here?',
+    'excuse-me-borrow': 'Excuse me — can I borrow your pen?',
+    'of-course': 'Of course. Here you are.',
+    'excuse-me-come-in': 'Excuse me, may I come in?',
+    'can-i-borrow-eraser': 'Can I borrow your eraser?',
+    'can-i-please-computer': 'Can I please use the computer?',
+    'please-and-thank-you': 'Please and thank you.',
+    'in-class-polite': 'In class we use polite phrases.',
+    'at-work-please': 'At work we say please and thank you.',
+    'when-ask-permission': 'When we ask for permission we are polite.',
+    'of-course-short': 'Of course.',
+    'could-i-please': 'Could I please open the window?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

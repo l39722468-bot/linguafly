@@ -568,7 +568,7 @@ Escribe 8–10 frases. Incluye:
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 38** aprenderás a **pedir permiso** con ***Can I…?*** y ***May I…?***.
+Continúa con la [**Unidad 38 — Pedir permiso**](/blog/curso-a1/unidad-38-pedir-permiso): *Can I…?*, *May I…?*, *please*, *of course*.
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre tus skills usando los tres niveles de la escala.
 
