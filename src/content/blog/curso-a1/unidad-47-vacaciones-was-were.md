@@ -560,8 +560,9 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 48** practicas **sightseeing** con **superlativos**: *the biggest museum*, *the most famous square*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 48 — Sightseeing (superlativos)](/blog/curso-a1/unidad-48-sightseeing-superlativos)
 - [Unidad 48 — Sightseeing](/curso-a1/unit-48)
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre tus últimas vacaciones.
