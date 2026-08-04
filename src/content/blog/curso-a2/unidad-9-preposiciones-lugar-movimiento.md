@@ -19,8 +19,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-9-preposiciones-lugar
 image: /blog/curso-a2/unit-9/a2-unit9-prepositions-movement.png
 alt: Esquema into out of through across para inglés A2
 related_routes:
+  - unidad-10-repaso-modulo-1
   - unidad-8-preposiciones-tiempo-at-on-in
-  - unidad-7-adverbios-modo-ly
   - ingles-a2
 faqs:
   - question: ¿Qué significa into?
@@ -449,6 +449,10 @@ La **Unidad 10** es el **repaso del Módulo 1**: Past Simple, comparativos, supe
 ## Siguiente paso en el curso A2
 
 En la **Unidad 10** harás el **Module 1 Review**: integrar Past Simple, comparativos, superlativos, adverbios de modo y preposiciones de tiempo/lugar/movimiento.
+
+Guía blog:
+
+- [Unidad 10 — Repaso Módulo 1](/blog/curso-a2/unidad-10-repaso-modulo-1)
 
 Curso:
 
