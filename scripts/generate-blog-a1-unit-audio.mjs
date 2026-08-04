@@ -536,6 +536,28 @@ const CLIPS_BY_UNIT = {
     'watch-films': 'We sometimes watch films at the cinema.',
     'describe-neighbourhood': 'There is a supermarket in the street. There are some shops near the park.',
   },
+  26: {
+    'turn-left-corner': 'Turn left at the corner.',
+    'go-straight-100': 'Go straight for 100 metres.',
+    'past-the-bank': 'Past the bank and then turn right.',
+    'turn-right-lights': 'Turn right at the traffic lights.',
+    'go-straight-past': 'Go straight past the bank.',
+    'on-the-left': 'The pharmacy is on the left.',
+    'on-the-right': 'The cinema is on the right.',
+    'how-get-library': 'How do I get to the library?',
+    'how-get-cinema': 'How do I get to the cinema?',
+    'go-straight-street': 'Go straight along this street.',
+    'past-supermarket': 'Past the supermarket and the cinema is on the right.',
+    'cant-miss-it': "You can't miss it.",
+    'thanks-welcome': "Thanks! You're welcome.",
+    'cross-the-street': 'Cross the street and the bank is there.',
+    'library-directions': 'Go straight for about 200 metres. Turn left at the corner.',
+    'past-bank-right': 'Past the bank on your right.',
+    'library-left-pharmacy': "It's on the left, next to the pharmacy.",
+    'go-straight-turn-right': 'Go straight and turn right at the bank.',
+    'where-pharmacy': 'Where is the pharmacy?',
+    'full-directions': 'Go straight out of the station. Turn left at the corner. Past the bank. The library is on the left.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

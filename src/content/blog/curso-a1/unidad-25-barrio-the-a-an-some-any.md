@@ -586,6 +586,10 @@ Escribe 8–10 frases. Usa:
 
 En la **Unidad 26** aprenderás a **dar direcciones** con imperativos (*Turn left, Go straight…*).
 
+Guía dedicada:
+
+- [Unidad 26 — Giving Directions (imperativos)](/blog/curso-a1/unidad-26-direcciones-imperativos)
+
 Guías relacionadas:
 
 - [Unidad 24 — Preposiciones de lugar](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between)
