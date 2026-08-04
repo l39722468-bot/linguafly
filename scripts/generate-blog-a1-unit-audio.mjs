@@ -1201,6 +1201,26 @@ const CLIPS_BY_UNIT = {
     'over-there': 'Over there.',
     'try-this': 'Try this.',
   },
+  56: {
+    'would-like-soup': 'I would like the soup please.',
+    'would-like-chicken': 'I would like the chicken please.',
+    'can-i-menu': 'Can I have the menu please?',
+    'can-i-bill': 'Can I have the bill please?',
+    'like-to-order': 'I would like to order a starter.',
+    'like-to-see-menu': 'We would like to see the menu.',
+    'for-dessert': 'For dessert I would like ice cream.',
+    'for-starter': 'For starter I would like soup.',
+    'for-main-fish': 'For main course I would like the fish please.',
+    'water-please': 'Water please.',
+    'no-thank-you': 'No thank you.',
+    'ready-to-order': 'Are you ready to order?',
+    'anything-to-drink': 'Anything to drink?',
+    'of-course': 'Of course.',
+    'reading-dinner': 'We are at a restaurant tonight. The waiter brings the menu. I would like a soup for starter. My friend wants salad. For main course I order chicken and rice. We have water to drink. After dinner we would like dessert. I have ice cream. Then we ask for the bill and pay.',
+    'dialogue-full': 'Are you ready to order? Yes. I would like the soup for starter please. And for main course? I would like the fish please. Anything to drink? Water please. Dessert? No thank you. Can I have the bill please? Of course.',
+    'practice-menu': 'We would like to see the menu.',
+    'practice-chicken': 'I would like the chicken please.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
