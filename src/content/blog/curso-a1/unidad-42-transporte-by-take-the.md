@@ -578,8 +578,9 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 43** practicas **verbos de viaje**: *arrive, depart, visit, stay, explore* con Present Simple de horarios.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 43 — Travel Verbs (horarios)](/blog/curso-a1/unidad-43-verbos-viaje-horarios)
 - [Unidad 43 — Travel Verbs](/curso-a1/unit-43)
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre cómo viaja tu familia (*by* + *take the*).

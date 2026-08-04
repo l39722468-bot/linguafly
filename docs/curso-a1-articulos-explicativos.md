@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U42 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U43 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 42 |
-| Artículos dedicados pendientes | 18 |
+| Artículos dedicados publicados | 43 |
+| Artículos dedicados pendientes | 17 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -103,7 +103,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 |---|---|---|---|---|
 | 41 | At the Airport | *must/should* | ✅ | [At the Airport A1](/blog/curso-a1/unidad-41-aeropuerto-must-should) |
 | 42 | Transport | *by* + transporte | ✅ | [Transport A1](/blog/curso-a1/unidad-42-transporte-by-take-the) |
-| 43 | Travel Verbs | Horarios, Present Simple | 🔶 | Viajes |
+| 43 | Travel Verbs | Horarios, Present Simple | ✅ | [Travel Verbs A1](/blog/curso-a1/unidad-43-verbos-viaje-horarios) |
 | 44 | The Weather | *It is…* + clima | 🔶 | Viajes |
 | 45 | Seasons | *in* + estación | ❌ | Pendiente |
 | 46 | At the Hotel | Peticiones en hotel | 🔶 | Viajes + hotel |
