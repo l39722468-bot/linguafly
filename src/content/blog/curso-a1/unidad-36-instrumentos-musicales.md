@@ -588,7 +588,7 @@ Escribe 8–10 frases. Incluye:
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 37** aprenderás a graduar talento y habilidad con ***very well*** y ***quite well*** (*She plays the piano very well*).
+Continúa con la [**Unidad 37 — Talent & Skills**](/blog/curso-a1/unidad-37-talent-skills): *very well*, *quite well*, *not at all*.
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre instrumentos en tu familia (reales o inventados), siempre con *the*.
 

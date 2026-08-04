@@ -778,6 +778,28 @@ const CLIPS_BY_UNIT = {
     'yes-i-play': 'Yes, I play the guitar.',
     'i-dont-play': "No, I don't play any instruments.",
   },
+  37: {
+    'speak-english-very-well': 'I can speak English very well.',
+    'cooks-quite-well': 'She cooks quite well.',
+    'cant-dance-at-all': "He can't dance at all.",
+    'play-guitar-quite-well': 'I play the guitar quite well.',
+    'dont-sing-well': "They don't sing well.",
+    'can-sing-very-well': 'I can sing very well.',
+    'can-draw-very-well': 'She can draw very well.',
+    'cant-draw-at-all': "I can't draw at all.",
+    'brother-cook-creative': 'My brother can cook very well — he is creative.',
+    'sister-hardworking': 'My sister is hardworking and she speaks English very well.',
+    'good-at-drawing': 'She is good at drawing.',
+    'can-run-very-fast': 'He can run very fast.',
+    'lisa-intro': 'My name is Lisa. I can sing very well and I play the piano quite well.',
+    'different-skills': 'We all have different skills.',
+    'how-well-do-you': 'How well can you cook?',
+    'quite-well-thanks': 'Quite well, thanks.',
+    'not-at-all': 'Not at all.',
+    'very-well': 'Very well.',
+    'she-is-creative': 'She is creative — she paints beautifully.',
+    'he-works-hard': 'He works hard.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
