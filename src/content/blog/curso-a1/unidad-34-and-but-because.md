@@ -604,7 +604,7 @@ Escribe 8–10 frases. Incluye:
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 35** profundizarás en **actividades de tiempo libre** (*Free Time Activities*), muchas con *go + -ing* y vocabulario de ocio.
+Continúa con la [**Unidad 35 — Free Time Activities**](/blog/curso-a1/unidad-35-free-time-activities): *go for a walk*, *go shopping*, *like watching TV*.
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre ti usando *and*, *but* y *because* al menos una vez cada uno.
 

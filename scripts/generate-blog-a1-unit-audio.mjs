@@ -734,6 +734,28 @@ const CLIPS_BY_UNIT = {
     'leo-intro': 'My name is Leo. I like sport and music.',
     'prefer-play-outside': 'I prefer to play outside.',
   },
+  35: {
+    'go-for-a-walk-evening': 'I go for a walk every evening.',
+    'goes-shopping-saturdays': 'She goes shopping on Saturdays.',
+    'go-shopping-weekends': 'We go shopping at weekends.',
+    'go-for-a-walk-park': 'I go for a walk in the park.',
+    'go-for-a-walk-sunday': 'We go for a walk every Sunday.',
+    'like-watching-tv': 'I like watching TV.',
+    'she-likes-watching-tv': 'She likes watching TV.',
+    'likes-watching-tv-night': 'She likes watching TV at night.',
+    'like-playing-video-games': 'He likes playing video games.',
+    'like-watching-and-playing': 'I like watching TV and playing video games.',
+    'enjoy-walking-park': 'We enjoy walking in the park.',
+    'often-watch-films': 'I often watch films at home.',
+    'dont-like-shopping': "I don't like going shopping because it is too busy.",
+    'brother-games-dog': 'My brother likes playing video games and walking the dog.',
+    'sometimes-walk-together': 'At weekends we sometimes go for a walk together in the morning.',
+    'mia-free-time': 'In my free time I like going for a walk in the park and watching TV.',
+    'what-do-you-do': 'What do you do in your free time?',
+    'i-go-for-a-walk': 'In my free time I go for a walk.',
+    'she-goes-for-a-walk': 'She goes for a walk every day.',
+    'likes-going-shopping': 'They like going shopping on Saturdays.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
