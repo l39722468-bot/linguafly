@@ -111,6 +111,16 @@ if (episodes.length === 0) {
   process.exit(1);
 }
 
+// Episodios cortos primero: más MP3 por día con cuota limitada de TTS
+if (!EPISODE_FILTER) {
+  episodes = [...episodes].sort((a, b) => {
+    const byDuration = (a.durationMinutes ?? 99) - (b.durationMinutes ?? 99);
+    if (byDuration !== 0) return byDuration;
+    return (a.transcript?.length ?? 0) - (b.transcript?.length ?? 0);
+  });
+  console.log('📋  Orden: episodios más cortos primero (duración → turnos de diálogo)');
+}
+
 console.log(`🎙️   Generating audio for ${episodes.length} episode(s)...\n`);
 
 fs.mkdirSync(OUT_DIR, { recursive: true });
