@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
-import type { BlogCourseRelation } from '@/lib/blog-course-map';
+import { compareBlogCourseRelations, type BlogCourseRelation } from '@/lib/blog-course-map';
 
 interface BlogCourseMapTableProps {
   relations: BlogCourseRelation[];
@@ -64,12 +64,14 @@ export function BlogCourseMapTable({
   );
 
   const filtered = useMemo(() => {
-    return relations.filter((r) => {
-      if (applied.topicFilter && r.topicId !== applied.topicFilter) return false;
-      if (applied.courseFilter && r.courseLabel !== applied.courseFilter) return false;
-      if (applied.categoryFilter && r.articleCategory !== applied.categoryFilter) return false;
-      return matchesSearch(r, applied.search);
-    });
+    return relations
+      .filter((r) => {
+        if (applied.topicFilter && r.topicId !== applied.topicFilter) return false;
+        if (applied.courseFilter && r.courseLabel !== applied.courseFilter) return false;
+        if (applied.categoryFilter && r.articleCategory !== applied.categoryFilter) return false;
+        return matchesSearch(r, applied.search);
+      })
+      .sort(compareBlogCourseRelations);
   }, [relations, applied]);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
