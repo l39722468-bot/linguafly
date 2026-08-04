@@ -1221,6 +1221,24 @@ const CLIPS_BY_UNIT = {
     'practice-menu': 'We would like to see the menu.',
     'practice-chicken': 'I would like the chicken please.',
   },
+  57: {
+    'first-cut': 'First cut the vegetables.',
+    'then-mix': 'Then mix the ingredients.',
+    'finally-bake': 'Finally bake for twenty minutes.',
+    'first-boil': 'First boil the water.',
+    'then-fry': 'Then fry the onion.',
+    'finally-add-salt': 'Finally add the salt.',
+    'cut-onions': 'First cut the onions with a knife.',
+    'mix-eggs-flour': 'Then mix the eggs and flour.',
+    'boil-water-pasta': 'To make pasta you boil the water.',
+    'bake-bread': 'For bread or cake you bake.',
+    'recipe-steps': 'A recipe is a list of steps.',
+    'fry-pan-boil-pot': 'Fry in a pan. Boil in a pot. Bake in the oven.',
+    'reading-pasta': 'Simple pasta recipe. First boil water in a pot. Then add salt and the pasta. Cook for ten minutes. Cut the tomatoes and the basil. Mix them with oil. Finally add the pasta to the sauce and serve. Easy and delicious.',
+    'dialogue-eggs': 'How to make scrambled eggs. First break the eggs into a bowl. Then add a little milk and salt. Mix well. Then put butter in a pan and fry the mixture for two minutes. Finally serve on a plate with toast. Enjoy.',
+    'practice-sequence': 'First cut the vegetables. Then mix the ingredients. Finally bake for twenty minutes.',
+    'practice-pasta': 'First boil water. Then cook the pasta.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
