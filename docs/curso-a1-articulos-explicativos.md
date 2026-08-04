@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U49 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U50 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 49 |
-| Artículos dedicados pendientes | 11 |
+| Artículos dedicados publicados | 50 |
+| Artículos dedicados pendientes | 10 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -110,7 +110,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 47 | Holidays & Vacation | *was/were*, pasado | ✅ | [Holidays A1](/blog/curso-a1/unidad-47-vacaciones-was-were) |
 | 48 | Sightseeing | Superlativos | ✅ | [Sightseeing A1](/blog/curso-a1/unidad-48-sightseeing-superlativos) |
 | 49 | Packing a Suitcase | *need to* | ✅ | [Packing A1](/blog/curso-a1/unidad-49-maleta-need-to) |
-| 50 | Module 5 Review | Repaso módulo 5 | ⏭️ | Pendiente (opcional) |
+| 50 | Module 5 Review | Repaso módulo 5 | ✅ | [Repaso Módulo 5 A1](/blog/curso-a1/unidad-50-repaso-modulo-5) |
 
 ---
 

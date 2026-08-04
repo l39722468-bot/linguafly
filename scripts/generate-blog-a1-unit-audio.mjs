@@ -1076,6 +1076,28 @@ const CLIPS_BY_UNIT = {
     'dialogue-so-many-shirts': 'Do you need to take so many shirts?',
     'dialogue-forget-passport': "Don't forget your passport and toothbrush.",
   },
+  50: {
+    'must-show-passport': 'You must show your passport at check-in.',
+    'should-go-gate': 'Passengers should go to the gate before boarding.',
+    'take-the-train': 'I take the train to work.',
+    'go-by-bus': 'We go by bus to the airport.',
+    'train-arrives': 'The train arrives at nine.',
+    'it-is-sunny': 'It is sunny today.',
+    'weather-was-rainy': 'The weather was rainy yesterday.',
+    'hot-in-summer': 'It is hot in summer.',
+    'can-i-single-room': 'Can I have a single room, please?',
+    'i-was-beach': 'I was on the beach last week.',
+    'we-were-mountains': 'We were in the mountains last year.',
+    'most-famous-museum': 'I visited the most famous museum.',
+    'need-to-pack': 'I need to pack my suitcase tonight.',
+    'dont-need-so-many': "I don't need to take so many things — only essential items.",
+    'trip-story': "Last month I went on holiday. I took the train to the airport. The weather was sunny. I was at the hotel for one week. I did sightseeing — I visited the most famous museum. I needed to pack my suitcase with clothes and toiletries. I didn't need to take so many things. It was great.",
+    'dialogue-review': "How did you go to the airport? I took the bus. The weather was rainy yesterday. Were you at the hotel last week? Yes. I was there. I visited the most famous museum. I need to pack my suitcase tonight. Don't forget your passport. I won't.",
+    'gate-number-ten': 'You should go to gate number ten.',
+    'train-when-rainy': 'I take the train when it is rainy.',
+    'where-famous-museum': 'Where is the most famous museum?',
+    'do-you-need-pack': 'Do you need to pack today?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

@@ -559,8 +559,9 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 50** harás el **repaso del Módulo 5** (*Places & Travel*): aeropuerto, transporte, verbos de viaje, clima, estaciones, hotel, vacaciones, sightseeing y packing.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 50 — Repaso Módulo 5](/blog/curso-a1/unidad-50-repaso-modulo-5)
 - [Unidad 50 — Module 5 Review](/curso-a1/unit-50)
 
 Antes de pasar de unidad, escribe tu checklist de maleta en 6–8 frases.
