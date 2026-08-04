@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U11 ≥2000 palabras; Módulo 2 iniciado)  
+**Última actualización:** 2026-08-04 (artículos U1–U12 ≥2000 palabras; Módulo 2)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 11 |
-| Artículos dedicados pendientes | 49 |
+| Artículos dedicados publicados | 12 |
+| Artículos dedicados pendientes | 48 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -51,7 +51,7 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
 | 11 | Present Perfect: Introduction | have/has + past participle; been, seen, eaten, gone | ✅ | [Present Perfect intro A2](/blog/curso-a2/unidad-11-present-perfect-introduccion) |
-| 12 | Present Perfect: Ever & Never | ever / never | ❌ | Pendiente |
+| 12 | Present Perfect: Ever & Never | ever / never | ✅ | [Present Perfect ever/never A2](/blog/curso-a2/unidad-12-present-perfect-ever-never) |
 | 13 | Present Perfect: Already & Yet | already / yet | ❌ | Pendiente |
 | 14 | Present Perfect: Just | just | ❌ | Pendiente |
 | 15 | Present Perfect vs Past Simple | contraste | ❌ | Pendiente |

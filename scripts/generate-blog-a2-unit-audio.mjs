@@ -188,6 +188,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-tom': 'Hi! My name is Tom. I have been to Spain twice. I have seen Barcelona and Madrid. I have eaten paella and tapas. They were delicious. Last summer I went to Italy. I have never eaten better pizza! My sister has gone to London today. She will come back next week. I love travelling and trying new food.',
     'practice-four': 'I have been to Paris. She has seen that film. They have eaten lunch. He has gone to the supermarket.',
   },
+  12: {
+    'have-you-ever-japan': 'Have you ever been to Japan?',
+    'have-never-eaten-sushi': 'I have never eaten sushi.',
+    'has-she-ever-tried': 'Has she ever tried Italian food?',
+    'has-never-been-beach': 'He has never been to the beach.',
+    'yes-i-have': 'Yes, I have. I have been to London.',
+    'no-i-havent': 'No, I haven\'t. I have never been there.',
+    'have-you-ever-ridden': 'Have you ever ridden a horse?',
+    'have-never-seen-snow': 'I have never seen snow.',
+    'reading-classmates': 'Have you ever wondered what your friends have or haven\'t done? I asked my classmates some questions. Have you ever flown in a plane? Most of them said Yes, I have. Have you ever eaten sushi? Some said Yes and some said No, I haven\'t. Have you ever been to a concert? Many said Yes. One friend said: I have never been to a concert. I would like to go one day. It was interesting to learn about their experiences.',
+    'dialogue-survey': 'Hi! I am doing a survey about experiences. Can I ask you some questions? Great! Have you ever tried sushi? Yes, I have. I tried it in Tokyo last year. It was amazing. Have you ever ridden a horse? No, I haven\'t. I would like to try one day. Have you ever been to a football match? Yes, I have. Many times! I love football. Thank you for your answers!',
+    'practice-four': 'Have you ever been to Japan? I have never eaten sushi. Yes, I have. No, I haven\'t.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
