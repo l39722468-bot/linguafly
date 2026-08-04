@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U32 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U33 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 32 |
-| Artículos dedicados pendientes | 28 |
+| Artículos dedicados publicados | 33 |
+| Artículos dedicados pendientes | 27 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -86,7 +86,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 |---|---|---|---|---|
 | 31 | Can for Ability | *can/can't* | ✅ | [Can for Ability A1](/blog/curso-a1/unidad-31-can-habilidad) |
 | 32 | Sports & Hobbies | *play/go/do* | ✅ | [Sports & Hobbies A1](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do) |
-| 33 | Adverbs of Frequency | Adverbios de frecuencia | ❌ | Pendiente |
+| 33 | Adverbs of Frequency | Adverbios de frecuencia | ✅ | [Adverbios de frecuencia A1](/blog/curso-a1/unidad-33-adverbios-frecuencia) |
 | 34 | Using 'And', 'But', 'Because' | Conectores | ❌ | Pendiente |
 | 35 | Free Time Activities | *go + -ing* | ❌ | Pendiente |
 | 36 | Musical Instruments | *play the* + instrumento | ❌ | Pendiente |
