@@ -11,7 +11,42 @@ interface BlogCourseMapTableProps {
   highlightSlug?: string;
 }
 
+interface FilterState {
+  search: string;
+  topicFilter: string;
+  courseFilter: string;
+  categoryFilter: string;
+}
+
 const PAGE_SIZE = 50;
+
+const EMPTY_FILTERS: FilterState = {
+  search: '',
+  topicFilter: '',
+  courseFilter: '',
+  categoryFilter: '',
+};
+
+function matchesSearch(relation: BlogCourseRelation, query: string): boolean {
+  const q = query.trim().toLowerCase();
+  if (!q) return true;
+
+  // Buscar unidades: solo el número (p. ej. 12 o U12)
+  const unitOnly = q.replace(/^u\s*/i, '').trim();
+  if (/^\d+$/.test(unitOnly) && relation.unitNumber === Number(unitOnly)) {
+    return true;
+  }
+
+  return (
+    relation.articleTitle.toLowerCase().includes(q) ||
+    relation.articleSlug.toLowerCase().includes(q) ||
+    relation.topicName.toLowerCase().includes(q) ||
+    relation.unitTitle.toLowerCase().includes(q) ||
+    relation.courseLabel.toLowerCase().includes(q) ||
+    `u${relation.unitNumber}`.includes(q) ||
+    String(relation.unitNumber).includes(q)
+  );
+}
 
 export function BlogCourseMapTable({
   relations,
@@ -19,10 +54,8 @@ export function BlogCourseMapTable({
   courseLabels,
   highlightSlug,
 }: BlogCourseMapTableProps) {
-  const [search, setSearch] = useState('');
-  const [topicFilter, setTopicFilter] = useState('');
-  const [courseFilter, setCourseFilter] = useState('');
-  const [categoryFilter, setCategoryFilter] = useState('');
+  const [draft, setDraft] = useState<FilterState>(EMPTY_FILTERS);
+  const [applied, setApplied] = useState<FilterState>(EMPTY_FILTERS);
   const [page, setPage] = useState(1);
 
   const categories = useMemo(
@@ -31,28 +64,20 @@ export function BlogCourseMapTable({
   );
 
   const filtered = useMemo(() => {
-    const q = search.trim().toLowerCase();
     return relations.filter((r) => {
-      if (topicFilter && r.topicId !== topicFilter) return false;
-      if (courseFilter && r.courseLabel !== courseFilter) return false;
-      if (categoryFilter && r.articleCategory !== categoryFilter) return false;
-      if (!q) return true;
-      return (
-        r.articleTitle.toLowerCase().includes(q) ||
-        r.articleSlug.toLowerCase().includes(q) ||
-        r.topicName.toLowerCase().includes(q) ||
-        r.unitTitle.toLowerCase().includes(q) ||
-        r.courseLabel.toLowerCase().includes(q)
-      );
+      if (applied.topicFilter && r.topicId !== applied.topicFilter) return false;
+      if (applied.courseFilter && r.courseLabel !== applied.courseFilter) return false;
+      if (applied.categoryFilter && r.articleCategory !== applied.categoryFilter) return false;
+      return matchesSearch(r, applied.search);
     });
-  }, [relations, search, topicFilter, courseFilter, categoryFilter]);
+  }, [relations, applied]);
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
   const pageItems = filtered.slice((page - 1) * PAGE_SIZE, page * PAGE_SIZE);
 
   useEffect(() => {
     setPage(1);
-  }, [search, topicFilter, courseFilter, categoryFilter]);
+  }, [applied]);
 
   useEffect(() => {
     if (!highlightSlug) return;
@@ -62,6 +87,16 @@ export function BlogCourseMapTable({
     }
   }, [highlightSlug, pageItems]);
 
+  const applyFilters = (next?: FilterState) => {
+    setApplied(next ?? draft);
+  };
+
+  const filtersDirty =
+    draft.search !== applied.search ||
+    draft.topicFilter !== applied.topicFilter ||
+    draft.courseFilter !== applied.courseFilter ||
+    draft.categoryFilter !== applied.categoryFilter;
+
   return (
     <div className="space-y-6">
       {highlightSlug && (
@@ -69,7 +104,14 @@ export function BlogCourseMapTable({
           Has llegado desde un artículo del blog. Las filas de ese artículo aparecen resaltadas.{' '}
           <button
             type="button"
-            onClick={() => setSearch(highlightSlug.replace(/-/g, ' '))}
+            onClick={() => {
+              const next = {
+                ...EMPTY_FILTERS,
+                search: highlightSlug.replace(/-/g, ' '),
+              };
+              setDraft(next);
+              applyFilters(next);
+            }}
             className="font-bold underline hover:text-indigo-700"
           >
             Filtrar solo ese artículo
@@ -77,56 +119,94 @@ export function BlogCourseMapTable({
         </div>
       )}
 
-      <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
-        <label className="block">
-          <span className="text-xs font-bold uppercase tracking-wide text-slate-500 mb-1 block">Buscar</span>
-          <input
-            type="search"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            placeholder="Artículo, tema o unidad..."
-            className="w-full rounded-xl border border-slate-200 px-4 py-2.5 text-sm focus:border-indigo-400 focus:outline-none focus:ring-2 focus:ring-indigo-100"
-          />
-        </label>
-        <label className="block">
-          <span className="text-xs font-bold uppercase tracking-wide text-slate-500 mb-1 block">Tema</span>
-          <select
-            value={topicFilter}
-            onChange={(e) => setTopicFilter(e.target.value)}
-            className="w-full rounded-xl border border-slate-200 px-4 py-2.5 text-sm bg-white focus:border-indigo-400 focus:outline-none"
+      <div className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm space-y-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-4">
+          <label className="block">
+            <span className="text-xs font-bold uppercase tracking-wide text-slate-500 mb-1 block">Buscar</span>
+            <input
+              type="search"
+              value={draft.search}
+              onChange={(e) => setDraft((prev) => ({ ...prev, search: e.target.value }))}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter') {
+                  e.preventDefault();
+                  applyFilters();
+                }
+              }}
+              placeholder="Artículo, tema o nº de unidad..."
+              className="w-full rounded-xl border border-slate-200 px-4 py-2.5 text-sm focus:border-indigo-400 focus:outline-none focus:ring-2 focus:ring-indigo-100"
+            />
+            <p className="mt-1.5 text-xs text-slate-500 leading-snug">
+              Para buscar unidades, pon únicamente el número de unidad.
+            </p>
+          </label>
+          <label className="block">
+            <span className="text-xs font-bold uppercase tracking-wide text-slate-500 mb-1 block">Tema</span>
+            <select
+              value={draft.topicFilter}
+              onChange={(e) => setDraft((prev) => ({ ...prev, topicFilter: e.target.value }))}
+              className="w-full rounded-xl border border-slate-200 px-4 py-2.5 text-sm bg-white focus:border-indigo-400 focus:outline-none"
+            >
+              <option value="">Todos los temas</option>
+              {topics.map((t) => (
+                <option key={t.id} value={t.id}>{t.name}</option>
+              ))}
+            </select>
+          </label>
+          <label className="block">
+            <span className="text-xs font-bold uppercase tracking-wide text-slate-500 mb-1 block">Curso</span>
+            <select
+              value={draft.courseFilter}
+              onChange={(e) => setDraft((prev) => ({ ...prev, courseFilter: e.target.value }))}
+              className="w-full rounded-xl border border-slate-200 px-4 py-2.5 text-sm bg-white focus:border-indigo-400 focus:outline-none"
+            >
+              <option value="">Todos los cursos</option>
+              {courseLabels.map((label) => (
+                <option key={label} value={label}>{label}</option>
+              ))}
+            </select>
+          </label>
+          <label className="block">
+            <span className="text-xs font-bold uppercase tracking-wide text-slate-500 mb-1 block">Categoría blog</span>
+            <select
+              value={draft.categoryFilter}
+              onChange={(e) => setDraft((prev) => ({ ...prev, categoryFilter: e.target.value }))}
+              className="w-full rounded-xl border border-slate-200 px-4 py-2.5 text-sm bg-white focus:border-indigo-400 focus:outline-none"
+            >
+              <option value="">Todas</option>
+              {categories.map((cat) => (
+                <option key={cat} value={cat}>{cat}</option>
+              ))}
+            </select>
+          </label>
+        </div>
+
+        <div className="flex flex-wrap items-center gap-3">
+          <button
+            type="button"
+            onClick={() => applyFilters()}
+            className="inline-flex items-center rounded-xl bg-indigo-600 px-5 py-2.5 text-sm font-bold text-white hover:bg-indigo-700 transition-colors"
           >
-            <option value="">Todos los temas</option>
-            {topics.map((t) => (
-              <option key={t.id} value={t.id}>{t.name}</option>
-            ))}
-          </select>
-        </label>
-        <label className="block">
-          <span className="text-xs font-bold uppercase tracking-wide text-slate-500 mb-1 block">Curso</span>
-          <select
-            value={courseFilter}
-            onChange={(e) => setCourseFilter(e.target.value)}
-            className="w-full rounded-xl border border-slate-200 px-4 py-2.5 text-sm bg-white focus:border-indigo-400 focus:outline-none"
-          >
-            <option value="">Todos los cursos</option>
-            {courseLabels.map((label) => (
-              <option key={label} value={label}>{label}</option>
-            ))}
-          </select>
-        </label>
-        <label className="block">
-          <span className="text-xs font-bold uppercase tracking-wide text-slate-500 mb-1 block">Categoría blog</span>
-          <select
-            value={categoryFilter}
-            onChange={(e) => setCategoryFilter(e.target.value)}
-            className="w-full rounded-xl border border-slate-200 px-4 py-2.5 text-sm bg-white focus:border-indigo-400 focus:outline-none"
-          >
-            <option value="">Todas</option>
-            {categories.map((cat) => (
-              <option key={cat} value={cat}>{cat}</option>
-            ))}
-          </select>
-        </label>
+            Aplicar filtros
+          </button>
+          {(applied.search || applied.topicFilter || applied.courseFilter || applied.categoryFilter) && (
+            <button
+              type="button"
+              onClick={() => {
+                setDraft(EMPTY_FILTERS);
+                applyFilters(EMPTY_FILTERS);
+              }}
+              className="inline-flex items-center rounded-xl border border-slate-200 px-4 py-2.5 text-sm font-semibold text-slate-700 hover:bg-slate-50 transition-colors"
+            >
+              Limpiar
+            </button>
+          )}
+          {filtersDirty && (
+            <span className="text-xs text-amber-700 font-medium">
+              Hay cambios sin aplicar
+            </span>
+          )}
+        </div>
       </div>
 
       <p className="text-sm text-slate-600">

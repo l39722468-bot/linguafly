@@ -93,7 +93,8 @@ export default async function BlogExerciseMapPage({ searchParams }: PageProps) {
             <ol className="list-decimal ml-5 space-y-2 text-slate-700">
               <li>Lee un artículo del blog sobre el tema que te interese.</li>
               <li>Usa el recuadro del artículo o vuelve aquí con el enlace «Ver cuadro de ejercicios relacionados».</li>
-              <li>Filtra por artículo, tema o curso y pulsa «Ir a la unidad» para practicar con ejercicios interactivos.</li>
+              <li>Elige tema, curso o categoría y pulsa «Aplicar filtros». Para buscar unidades, pon únicamente el número de unidad (por ejemplo, <strong>12</strong>).</li>
+              <li>Pulsa «Ir a la unidad» para practicar con ejercicios interactivos.</li>
             </ol>
           </section>
         </div>
