@@ -572,8 +572,9 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 44** hablas del **tiempo atmosférico**: *It is sunny / cloudy / rainy / cold / hot*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 44 — The Weather (It is…)](/blog/curso-a1/unidad-44-tiempo-atmosferico)
 - [Unidad 44 — The Weather](/curso-a1/unit-44)
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases con un viaje completo (salida, llegada, hotel, visita, vuelo).
