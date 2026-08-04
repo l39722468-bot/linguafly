@@ -20,8 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-8-preposiciones-tiemp
 image: /blog/curso-a2/unit-8/a2-unit8-prepositions-time.png
 alt: Esquema at on in para preposiciones de tiempo en inglés A2
 related_routes:
+  - unidad-9-preposiciones-lugar-movimiento
   - unidad-7-adverbios-modo-ly
-  - unidad-6-superlativos-est-the-most
   - ingles-a2
 faqs:
   - question: ¿Cuándo uso at en inglés?
@@ -463,6 +463,10 @@ La **Unidad 9** entra en **preposiciones de lugar y movimiento**: *in, on, at, i
 ## Siguiente paso en el curso A2
 
 En la **Unidad 9** estudiarás **Prepositions of Place & Movement**: posición (*in, on, at, under, behind*) y movimiento (*to, from, into, out of, through, across*).
+
+Guía blog:
+
+- [Unidad 9 — Preposiciones de lugar y movimiento (*into, out of, through, across*)](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento)
 
 Curso:
 

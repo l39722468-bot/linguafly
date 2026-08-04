@@ -143,6 +143,21 @@ const CLIPS_BY_UNIT = {
     'beach-summer': 'We go to the beach in summer.',
     'practice-four': 'I wake up at 6 o\'clock. I work on Monday. I was born in 1990. We meet in the morning.',
   },
+  9: {
+    'went-into-room': 'She went into the room and closed the door.',
+    'ran-out-of': 'He ran out of the building when he heard the fire alarm.',
+    'walked-through-park': 'We walked through the park to get to the other side.',
+    'ran-across-street': 'The cat ran across the street to the other side.',
+    'put-into-bag': 'I put the books into my bag.',
+    'drove-through-tunnel': 'They drove through the tunnel to reach the city.',
+    'got-out-of-car': 'He got out of the car and walked away.',
+    'swam-across-river': 'We swam across the river.',
+    'went-into-shop': 'She went into the shop to buy bread.',
+    'walked-through-forest': 'We walked through the forest to reach the lake.',
+    'reading-adventure': 'Yesterday I had an adventure in the city. First I went into an old bookshop to buy a book. Then I walked through the park to get to the other side. I saw many people running across the bridge. When I came out of the park I crossed the street and went into a cafe. I had coffee and read my new book. It was a great day!',
+    'dialogue-museum': 'Hi! Last weekend I went to the museum. I went into the main entrance and walked through several rooms. First I saw the paintings and then I walked across the courtyard to get to the sculpture section. When I came out of the museum I crossed the street and went into a cafe for coffee. I really enjoyed the day!',
+    'practice-four': 'She went into the room. He ran out of the building. We walked through the park. The cat ran across the street.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
