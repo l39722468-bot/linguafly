@@ -57,7 +57,7 @@ excerpt: >-
 
 Tras el [repaso del Módulo 2](/blog/curso-a1/unidad-20-repaso-modulo-2), empieza el **Módulo 3 — My World**. En la **Unidad 21 del curso A1** (*Rooms in a House*) aprendes a **nombrar y describir** las habitaciones de una casa o piso.
 
-Esta guía cubre el **vocabulario de rooms**, los **plurales** (*rooms, bedrooms*), los **adjetivos** (*bright, cozy, small…*) y frases con ***have / has*** y *There is/are*. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras). Es la base para hablar de muebles (U22) y de *there is/are* con más detalle (U23).
+Esta guía cubre el **vocabulario de rooms**, los **plurales** (*rooms, bedrooms*), los **adjetivos** (*bright, cozy, small…*) y frases con ***have / has*** y *There is/are*. Incluye **audios**, **esquemas** y **ejercicios**. Es la base para hablar de muebles (U22) y de *there is/are* con más detalle (U23).
 
 > **Practica en el curso:** [Unidad 21 — Rooms in a House](/curso-a1/unit-21)  
 > **Repaso útil:** [Unidad 11 — Lugares](/blog/curso-a1/unidad-11-lugares-ciudad) · [Unidad 4 — Plurales](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)

@@ -55,7 +55,7 @@ excerpt: >-
 
 En la [Unidad 14](/blog/curso-a1/unidad-14-present-simple-dont-do-you) aprendiste *don't* y *Do you…?* con **I, you, we, they**. En la **Unidad 15 del curso A1** (*Present Simple: He, She, It*) pasas a la **3.ª persona**: *doesn't* y *Does he/she/it…?*. Es el complemento natural de la unidad anterior.
 
-Esta guía cubre la **negativa**, las **preguntas**, las **respuestas cortas**, la **ortografía** (*goes, watches, studies, has*) y vocabulario de **animales** y **rutinas profesionales**. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+Esta guía cubre la **negativa**, las **preguntas**, las **respuestas cortas**, la **ortografía** (*goes, watches, studies, has*) y vocabulario de **animales** y **rutinas profesionales**. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 15 — Present Simple: He, She, It](/curso-a1/unit-15)  
 > **Repaso previo:** [Unidad 14 — don't y Do you](/blog/curso-a1/unidad-14-present-simple-dont-do-you) · [Unidad 5 — Present Simple](/blog/curso-a1/unidad-5-present-simple-rutinas)

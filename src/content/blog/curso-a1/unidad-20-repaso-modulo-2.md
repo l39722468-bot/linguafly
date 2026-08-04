@@ -56,7 +56,7 @@ excerpt: >-
 
 La **Unidad 20 del curso A1** (*Module 2 Review*) cierra el Módulo 2: **vida diaria y rutinas**. No introduce gramática nueva: **consolida** lo de las unidades 11–19 para que puedas describir un día, pedir en un café, hablar de gustos y situar fechas sin dudar.
 
-Esta guía es un **mapa de repaso** con tablas, checklist, audios y ejercicios (más de 2000 palabras). Úsala para detectar huecos y volver a la unidad concreta si algo falla.
+Esta guía es un **mapa de repaso** con tablas, checklist, audios y ejercicios. Úsala para detectar huecos y volver a la unidad concreta si algo falla.
 
 > **Practica en el curso:** [Unidad 20 — Module 2 Review](/curso-a1/unit-20)  
 > **Última unidad del módulo:** [Unidad 19 — Meses y fechas](/blog/curso-a1/unidad-19-meses-fechas-cumpleanos)

@@ -55,7 +55,7 @@ excerpt: >-
 
 En la [Unidad 17](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner) dijiste qué comida te gusta. En la **Unidad 18 del curso A1** (*Likes & Dislikes*) pasas a las **actividades**: *I like reading*, *She doesn't like cooking*, y das **razones** con *Why? Because…*.
 
-Esta guía cubre ***like / don't like + -ing***, la pregunta ***Why?***, la respuesta ***Because…***, y vocabulario de **hobbies, música y películas**. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras). Es el paso natural después de hablar de comida y de *Do you like…?*.
+Esta guía cubre ***like / don't like + -ing***, la pregunta ***Why?***, la respuesta ***Because…***, y vocabulario de **hobbies, música y películas**. Incluye **audios**, **esquemas** y **ejercicios**. Es el paso natural después de hablar de comida y de *Do you like…?*.
 
 > **Practica en el curso:** [Unidad 18 — Likes & Dislikes](/curso-a1/unit-18)  
 > **Repaso útil:** [Unidad 17 — Comidas](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner) · [Unidad 14 — don't / Do you](/blog/curso-a1/unidad-14-present-simple-dont-do-you)

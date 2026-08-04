@@ -668,6 +668,28 @@ const CLIPS_BY_UNIT = {
     'sister-speak': "No, she can't cook. But she can speak Spanish and English.",
     'not-yet-seventeen': 'Can you drive? No, not yet. I am seventeen next month.',
   },
+  32: {
+    'play-football-saturday': 'I play football every Saturday.',
+    'play-tennis-club': 'They play tennis at the club.',
+    'play-football-friends': 'I play football with my friends.',
+    'play-tennis-football': 'I play tennis and football.',
+    'play-basketball': 'They play basketball at school.',
+    'mum-tennis': 'My mum plays tennis twice a week.',
+    'goes-swimming-mondays': 'She goes swimming on Mondays.',
+    'goes-swimming-weekend': 'She goes swimming every weekend.',
+    'jake-swimming': 'On Sundays I go swimming at the pool.',
+    'go-running': 'I go running in the park.',
+    'do-yoga-morning': 'We do yoga in the morning.',
+    'sister-yoga': 'My sister does yoga every morning.',
+    'do-exercise': 'We do exercise every day.',
+    'likes-painting-reading': 'My sister likes painting and reading.',
+    'likes-painting': 'He likes painting and reading.',
+    'likes-reading-painting': 'She likes reading and painting.',
+    'sister-reading': "She doesn't like football but she likes reading and painting.",
+    'what-do-you-play': 'What sports do you play? I play football and tennis.',
+    'jake-football': 'I play football every Saturday with my team.',
+    'active-family': 'We are an active family.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

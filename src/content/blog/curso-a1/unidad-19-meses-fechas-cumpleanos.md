@@ -54,7 +54,7 @@ excerpt: >-
 
 Tras hablar de hobbies en la [Unidad 18](/blog/curso-a1/unidad-18-gustos-like-ing-because), en la **Unidad 19 del curso A1** (*Months & Dates*) aprendes a situar eventos en el **calendario**: meses, **ordinales**, *in* / *on* y la pregunta clave ***When is your birthday?***.
 
-Esta guía cubre los **12 meses**, los **ordinales 1st–31st**, las preposiciones ***in* (mes)** y ***on* (fecha/día)**, y frases de **cumpleaños** y fiestas. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras). Combina bien con los [días de la semana](/blog/curso-a1/unidad-12-dias-semana) y los [números](/blog/curso-a1/unidad-8-numeros-edad-precios).
+Esta guía cubre los **12 meses**, los **ordinales 1st–31st**, las preposiciones ***in* (mes)** y ***on* (fecha/día)**, y frases de **cumpleaños** y fiestas. Incluye **audios**, **esquemas** y **ejercicios**. Combina bien con los [días de la semana](/blog/curso-a1/unidad-12-dias-semana) y los [números](/blog/curso-a1/unidad-8-numeros-edad-precios).
 
 > **Practica en el curso:** [Unidad 19 — Months & Dates](/curso-a1/unit-19)  
 > **Repaso útil:** [Unidad 12 — Días](/blog/curso-a1/unidad-12-dias-semana) · [Unidad 18 — Gustos](/blog/curso-a1/unidad-18-gustos-like-ing-because)

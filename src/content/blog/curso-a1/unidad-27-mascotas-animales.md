@@ -54,7 +54,7 @@ excerpt: >-
 
 En la [Unidad 26](/blog/curso-a1/unidad-26-direcciones-imperativos) diste direcciones. En la **Unidad 27 del curso A1** (*Pets & Animals*) cambias de tema: **mascotas y animales**, clasificados en ***pets / farm / wild***, y adjetivos como ***dangerous, friendly, cute***.
 
-Repasas descripciones de la [Unidad 7](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) y *like + -ing* de la [Unidad 18](/blog/curso-a1/unidad-18-gustos-like-ing-because). Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+Repasas descripciones de la [Unidad 7](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) y *like + -ing* de la [Unidad 18](/blog/curso-a1/unidad-18-gustos-like-ing-because). Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 27 — Pets & Animals](/curso-a1/unit-27)  
 > **Repaso útil:** [Unidad 7 — Descripciones](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) · [Unidad 18 — Gustos](/blog/curso-a1/unidad-18-gustos-like-ing-because)

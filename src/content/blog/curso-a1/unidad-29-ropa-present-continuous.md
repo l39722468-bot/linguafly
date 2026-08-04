@@ -52,7 +52,7 @@ excerpt: >-
 
 En la [Unidad 28](/blog/curso-a1/unidad-28-partes-cuerpo-have-got) hablaste del cuerpo. En la **Unidad 29 del curso A1** (*Clothes*) describes **qué llevas puesto ahora** con el **Present Continuous**: ***I am wearing…***.
 
-Combina colores de la [Unidad 7](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) y contrasta con el Present Simple de rutinas de la [Unidad 5](/blog/curso-a1/unidad-5-present-simple-rutinas). Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+Combina colores de la [Unidad 7](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) y contrasta con el Present Simple de rutinas de la [Unidad 5](/blog/curso-a1/unidad-5-present-simple-rutinas). Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 29 — Clothes](/curso-a1/unit-29)  
 > **Repaso útil:** [Unidad 28 — Body Parts](/blog/curso-a1/unidad-28-partes-cuerpo-have-got) · [Unidad 7 — Colores](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)

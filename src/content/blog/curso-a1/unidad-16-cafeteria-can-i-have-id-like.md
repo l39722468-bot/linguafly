@@ -55,7 +55,7 @@ excerpt: >-
 
 Tras dominar *doesn't* y *Does he/she…?* en la [Unidad 15](/blog/curso-a1/unidad-15-present-simple-doesnt-does), en la **Unidad 16 del curso A1** (*At the Cafe*) aprendes a **pedir en una cafetería**: *Can I have…?*, *I'd like…* y *Would you like…?*.
 
-Esta guía cubre las **fórmulas de pedido**, el **vocabulario de bebidas y snacks**, **precios**, **la cuenta** y diálogos típicos. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+Esta guía cubre las **fórmulas de pedido**, el **vocabulario de bebidas y snacks**, **precios**, **la cuenta** y diálogos típicos. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 16 — At the Cafe](/curso-a1/unit-16)  
 > **Repaso útil:** [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios) · [Unidad 15 — doesn't](/blog/curso-a1/unidad-15-present-simple-doesnt-does)

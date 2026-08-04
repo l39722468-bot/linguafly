@@ -55,7 +55,7 @@ excerpt: >-
 
 En las [Unidades 21](/blog/curso-a1/unidad-21-habitaciones-casa) y [22](/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours) hablaste de habitaciones y muebles. En la **Unidad 23 del curso A1** (*There is / There are*) aprendes a **decir qué hay** en un sitio, también en **negativa** y **pregunta**, y a situar objetos con ***in, on, under, behind***.
 
-Esta guía profundiza lo que ya viste en [lugares de la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad) y lo aplica a la **casa**. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+Esta guía profundiza lo que ya viste en [lugares de la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad) y lo aplica a la **casa**. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 23 — There is / There are](/curso-a1/unit-23)  
 > **Repaso útil:** [Unidad 22 — Muebles](/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours) · [Unidad 11 — Lugares](/blog/curso-a1/unidad-11-lugares-ciudad)

@@ -54,7 +54,7 @@ excerpt: >-
 
 Ya sabes contar tu día con *First, Then, After that*. En la **Unidad 14 del curso A1** (*Present Simple: I, You, We, They*) aprendes a decir **qué no haces** y a **preguntar hábitos** con *don't* y *Do you…?*.
 
-Esta guía cubre la **negativa**, las **preguntas**, las **respuestas cortas** (*Yes, I do / No, I don't*) y vocabulario de **ocio y tareas domésticas**. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+Esta guía cubre la **negativa**, las **preguntas**, las **respuestas cortas** (*Yes, I do / No, I don't*) y vocabulario de **ocio y tareas domésticas**. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 14 — Present Simple: I, you, we, they](/curso-a1/unit-14)  
 > **Repaso previo:** [Unidad 13 — Rutina diaria](/blog/curso-a1/unidad-13-rutina-diaria) · [Unidad 5 — Present Simple](/blog/curso-a1/unidad-5-present-simple-rutinas)
