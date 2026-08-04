@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U57 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U58 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 57 |
-| Artículos dedicados pendientes | 3 |
+| Artículos dedicados publicados | 58 |
+| Artículos dedicados pendientes | 2 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -125,7 +125,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 55 | Clothing Store | *too* vs *enough* | ✅ | [Too/enough A1](/blog/curso-a1/unidad-55-tienda-ropa-too-enough) |
 | 56 | At the Restaurant | Pedir en restaurante | ✅ | [Restaurante A1](/blog/curso-a1/unidad-56-restaurante-pedidos) |
 | 57 | Cooking & Recipes | Verbos de cocina | ✅ | [Cocina A1](/blog/curso-a1/unidad-57-cocina-recetas) |
-| 58 | Health & Illness | *should/shouldn't* | 🔶 | Salud |
+| 58 | Health & Illness | *should/shouldn't* | ✅ | [Salud A1](/blog/curso-a1/unidad-58-salud-should) |
 | 59 | Money & Currency | *pay for*, *spend on* | ❌ | Pendiente |
 | 60 | Module 6 Review | Repaso módulo 6 | ⏭️ | Pendiente (opcional) |
 

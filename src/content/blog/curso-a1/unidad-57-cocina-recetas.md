@@ -412,8 +412,9 @@ La **Unidad 58** cambia de tema: **Health & Illness** (*should / shouldn't*, *he
 
 En la **Unidad 58** estudiarás **Health & Illness**: *should / shouldn't*, síntomas y farmacia.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 58 — Health & Illness](/blog/curso-a1/unidad-58-salud-should)
 - [Unidad 58 — Health & Illness](/curso-a1/unit-58)
 
 Guías relacionadas:

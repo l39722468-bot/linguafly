@@ -1239,6 +1239,23 @@ const CLIPS_BY_UNIT = {
     'practice-sequence': 'First cut the vegetables. Then mix the ingredients. Finally bake for twenty minutes.',
     'practice-pasta': 'First boil water. Then cook the pasta.',
   },
+  58: {
+    'should-see-doctor': 'You should see a doctor if you have a fever.',
+    'should-take-medicine': 'You should take medicine for a headache.',
+    'should-drink-water': 'You should drink a lot of water when you have a cold.',
+    'shouldnt-go-work': "You shouldn't go to work if you are very ill.",
+    'have-headache': 'I have a headache — my head hurts.',
+    'medicine-pharmacy': 'You need medicine from the pharmacy.',
+    'cold-rest-water': 'When you have a cold you should rest and drink water.',
+    'go-pharmacy': 'He should go to the pharmacy for medicine.',
+    'go-to-pharmacy': 'Go to the pharmacy for medicine.',
+    'shouldnt-when-ill': "You shouldn't go to work when you are ill.",
+    'reading-ill': "I feel ill today. I have a headache and a slight fever. I think I have a cold. I should rest at home and drink a lot of water. I should take some medicine from the pharmacy. I shouldn't go to work today. If the fever gets worse I should see a doctor.",
+    'dialogue-full': "I have a bad headache. You should take some medicine. Where can I get it? At the pharmacy. Or if you have a fever you should see a doctor. I don't have a fever. Just a headache. Then you should rest and drink water. You shouldn't work on the computer all day.",
+    'bad-headache': 'I have a bad headache.',
+    'take-some-medicine': 'You should take some medicine.',
+    'shouldnt-computer': "You shouldn't work on the computer all day.",
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
