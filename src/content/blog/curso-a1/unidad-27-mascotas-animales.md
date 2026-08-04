@@ -582,6 +582,10 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 28** aprenderás **partes del cuerpo** con ***have / has got***.
 
+Guía dedicada:
+
+- [Unidad 28 — Body Parts (have/has got)](/blog/curso-a1/unidad-28-partes-cuerpo-have-got)
+
 Guías relacionadas:
 
 - [Unidad 26 — Giving Directions](/blog/curso-a1/unidad-26-direcciones-imperativos)

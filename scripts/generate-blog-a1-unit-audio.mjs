@@ -580,6 +580,28 @@ const CLIPS_BY_UNIT = {
     'wild-not-home': "Wild animals like lions and tigers are dangerous. We don't have them at home.",
     'dog-loves-play': 'He is very friendly and he loves to play.',
   },
+  28: {
+    'i-have-got-two-arms': 'I have got two arms.',
+    'she-has-got-long-legs': 'She has got long legs.',
+    'this-is-my-hand': 'This is my hand.',
+    'these-are-my-feet': 'These are my feet.',
+    'face-and-eyes': 'I have got a face and two eyes.',
+    'he-has-got-blue-eyes': 'He has got blue eyes.',
+    'we-have-got-two-hands': 'We have got two hands.',
+    'these-are-my-arms': 'These are my arms.',
+    'this-is-my-head': 'This is my head.',
+    'head-and-face': 'I have got a head and a face.',
+    'she-has-got-long-arms': 'She has got long arms.',
+    'this-hand-these-feet': 'This is my hand and these are my feet.',
+    'two-arms-two-legs': 'I have got two arms and two legs.',
+    'beautiful-face': 'She has got a beautiful face.',
+    'wash-my-hands': 'I wash my hands every day.',
+    'my-feet-are-big': 'My feet are big.',
+    'tom-body': 'I have got a head and a face. On my face I have got two eyes, a nose and a mouth.',
+    'sister-tall': 'My sister has got long legs and big blue eyes. She is tall.',
+    'what-on-face': 'What do you have got on your face? I have got two eyes, a nose and a mouth.',
+    'brother-short': 'My brother has got a big head and short legs. He is short.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
