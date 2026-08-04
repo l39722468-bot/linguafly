@@ -453,8 +453,9 @@ La **Unidad 55** te lleva a la tienda de ropa: ***too*** vs ***enough***.
 
 En la **Unidad 55** estudiarás **Clothing Store**: ***too*** vs ***enough*** (*too big / big enough*).
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 55 — Tienda de ropa (too/enough)](/blog/curso-a1/unidad-55-tienda-ropa-too-enough)
 - [Unidad 55 — Clothing Store](/curso-a1/unit-55)
 
 Guías relacionadas:

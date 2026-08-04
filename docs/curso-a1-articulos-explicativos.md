@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U54 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U55 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 54 |
-| Artículos dedicados pendientes | 6 |
+| Artículos dedicados publicados | 55 |
+| Artículos dedicados pendientes | 5 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -122,7 +122,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 52 | Countable & Uncountable | Contables/incontables | ✅ | [Contables A1](/blog/curso-a1/unidad-52-contables-incontables) |
 | 53 | Some & Any | *some/any* | ✅ | [Some & Any A1](/blog/curso-a1/unidad-53-some-any) |
 | 54 | How Much & How Many | Precios y cantidades | ✅ | [How much/many A1](/blog/curso-a1/unidad-54-how-much-how-many) |
-| 55 | Clothing Store | *too* vs *enough* | ❌ | Pendiente |
+| 55 | Clothing Store | *too* vs *enough* | ✅ | [Too/enough A1](/blog/curso-a1/unidad-55-tienda-ropa-too-enough) |
 | 56 | At the Restaurant | Pedir en restaurante | 🔶 | Hostelería |
 | 57 | Cooking & Recipes | Verbos de cocina | ❌ | Pendiente |
 | 58 | Health & Illness | *should/shouldn't* | 🔶 | Salud |

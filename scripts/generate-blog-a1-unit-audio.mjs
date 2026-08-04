@@ -1181,6 +1181,26 @@ const CLIPS_BY_UNIT = {
     'two-pounds': 'Two pounds.',
     'total-five-fifty': 'The total is five pounds fifty.',
   },
+  55: {
+    'too-big': 'This shirt is too big.',
+    'too-small': 'This is too small.',
+    'too-expensive': 'This jacket is too expensive.',
+    'isnt-big-enough': "It isn't big enough.",
+    'long-enough': 'Is it long enough?',
+    'big-enough-now': "It's big enough now.",
+    'size-m': 'Do you have this in size M?',
+    'size-l': 'Do you have this in size L?',
+    'need-size-s': 'I need size S.',
+    'size-xl': 'Do you have it in XL?',
+    'changing-room': 'Where is the changing room?',
+    'on-sale': 'Is it on sale?',
+    'ill-take-it': "I'll take it.",
+    'reading-store': "I am at the clothing store. There is a sale this week. I want a new shirt. Do you have this in size M? The shop assistant says yes. I go to the changing room. The shirt is too big. I need size S. She brings a smaller one. It is big enough now. I buy it. The total is twenty pounds because it's on sale.",
+    'dialogue-full': "Do you have this in size L? Yes, here you are. Where is the changing room? Over there. This is too small. Do you have it in XL? Yes. Try this. It's big enough now. I'll take it. Is it on sale? Yes, twenty pounds.",
+    'practice-too-big': 'This shirt is too big.',
+    'over-there': 'Over there.',
+    'try-this': 'Try this.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
