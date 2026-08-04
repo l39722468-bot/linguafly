@@ -455,8 +455,9 @@ La **Unidad 54** trabaja ***How much & How many*** con precios y cantidades.
 
 En la **Unidad 54** estudiarás ***How much & How many*** (precios y cantidades): *How much is it?* / *How many do you need?*
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 54 — How Much & How Many](/blog/curso-a1/unidad-54-how-much-how-many)
 - [Unidad 54 — How Much & How Many](/curso-a1/unit-54)
 
 Guías relacionadas:

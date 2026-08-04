@@ -1160,6 +1160,27 @@ const CLIPS_BY_UNIT = {
     'arent-any-eggs': "There aren't any eggs left.",
     'bag-of-potatoes': 'I need a bag of potatoes.',
   },
+  54: {
+    'how-much-bread': 'How much is the bread?',
+    'how-many-eggs': 'How many eggs do you need?',
+    'how-much-water': 'How much water do you want?',
+    'how-many-apples': 'How many apples are there?',
+    'how-much-milk': 'How much is the milk?',
+    'one-pound-fifty': "It's one pound fifty.",
+    'how-much-does-bread': 'How much does the bread cost?',
+    'how-much-does-it-cost': 'How much does it cost?',
+    'six-please': 'Six, please.',
+    'how-many-oranges': 'How many oranges do you want?',
+    'how-much-water-have': 'How much water do we have?',
+    'we-have-a-lot': 'We have a lot.',
+    'total-fifteen': 'The total for my shopping is fifteen pounds.',
+    'not-expensive': 'That is not expensive.',
+    'thats-cheap': "That's cheap. Thank you.",
+    'reading-market': 'I am at the market. I want to buy some fruit and vegetables. How much is the bread? It costs two pounds. How many oranges do I need? Maybe six. How much water do we have? We have a lot. The total for my shopping is fifteen pounds. That is not expensive. The milk costs one pound fifty.',
+    'dialogue-full': "How much is the milk? It's one pound fifty. How many eggs do you need? Six, please. How much does the bread cost? Two pounds. The total is five pounds fifty. That's cheap. Thank you.",
+    'two-pounds': 'Two pounds.',
+    'total-five-fifty': 'The total is five pounds fifty.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
