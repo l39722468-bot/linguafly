@@ -579,7 +579,9 @@ Escribe 10–12 frases que incluyan:
 
 Tras el Módulo 3, el curso continúa con el **Módulo 4**. La siguiente unidad es **Can for Ability** (*can/can’t*).
 
-Cuando publiques la guía: [Unidad 31 — Can for Ability](/curso-a1/unit-31).
+Guía dedicada:
+
+- [Unidad 31 — Can for Ability](/blog/curso-a1/unidad-31-can-habilidad)
 
 Guías relacionadas del módulo:
 

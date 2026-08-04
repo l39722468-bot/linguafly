@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U30 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U31 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 30 |
-| Artículos dedicados pendientes | 30 |
+| Artículos dedicados publicados | 31 |
+| Artículos dedicados pendientes | 29 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -84,7 +84,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 31 | Can for Ability | *can/can't* | ❌ | Pendiente |
+| 31 | Can for Ability | *can/can't* | ✅ | [Can for Ability A1](/blog/curso-a1/unidad-31-can-habilidad) |
 | 32 | Sports & Hobbies | *play/go/do* | ❌ | Pendiente |
 | 33 | Adverbs of Frequency | Adverbios de frecuencia | ❌ | Pendiente |
 | 34 | Using 'And', 'But', 'Because' | Conectores | ❌ | Pendiente |

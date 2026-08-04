@@ -646,6 +646,28 @@ const CLIPS_BY_UNIT = {
     'friendly-pet-cat': 'I have got a pet cat. She is very friendly.',
     'directions-park': 'Near my flat there are a park and a supermarket. Go straight and turn left at the corner.',
   },
+  31: {
+    'she-can-speak': 'She can speak three languages.',
+    'i-cant-drive': "I can't drive. I don't have a licence.",
+    'can-you-swim': 'Can you swim?',
+    'penguins-cant-fly': "Penguins can't fly.",
+    'brother-can-cook': 'My brother can cook very well.',
+    'i-can-swim-well': 'I can swim very well.',
+    'can-you-speak-english': 'Can you speak English?',
+    'she-cant-drive': "She can't drive.",
+    'i-can-cook-pasta': 'I can cook pasta.',
+    'yes-i-can': 'Yes, I can.',
+    'no-i-cant': "No, I can't.",
+    'can-you-cook': 'Can you cook? Yes, I can.',
+    'dad-can-drive': 'My dad can drive a bus.',
+    'mum-three-languages': 'My mum can speak three languages: English, Spanish and French.',
+    'lisa-swim': 'I can swim very well because I go to the pool every week.',
+    'brother-pasta': 'My brother can cook. He makes pasta and salad.',
+    'cant-drive-yet': "I can't drive yet because I am only fifteen.",
+    'talented-family': 'We are a talented family.',
+    'sister-speak': "No, she can't cook. But she can speak Spanish and English.",
+    'not-yet-seventeen': 'Can you drive? No, not yet. I am seventeen next month.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
