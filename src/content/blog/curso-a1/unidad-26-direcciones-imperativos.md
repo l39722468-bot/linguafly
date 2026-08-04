@@ -587,6 +587,10 @@ Escribe 5–7 frases para ir de un punto A a un punto B (reales o inventados). U
 
 En la **Unidad 27** aprenderás vocabulario de **mascotas y animales**.
 
+Guía dedicada:
+
+- [Unidad 27 — Pets & Animals](/blog/curso-a1/unidad-27-mascotas-animales)
+
 Guías relacionadas:
 
 - [Unidad 25 — My Neighborhood](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any)

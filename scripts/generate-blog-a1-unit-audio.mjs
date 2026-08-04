@@ -558,6 +558,28 @@ const CLIPS_BY_UNIT = {
     'where-pharmacy': 'Where is the pharmacy?',
     'full-directions': 'Go straight out of the station. Turn left at the corner. Past the bank. The library is on the left.',
   },
+  27: {
+    'lion-dangerous': 'A lion is dangerous.',
+    'dog-friendly': 'My dog is very friendly.',
+    'kitten-cute': 'The kitten is so cute.',
+    'cat-is-a-pet': 'A cat is a pet animal.',
+    'cow-on-farm': 'A cow lives on a farm.',
+    'wild-in-forest': 'A wild animal lives in the forest.',
+    'tigers-dangerous': 'Tigers are dangerous.',
+    'rabbits-cute': 'Rabbits are cute.',
+    'pigs-chickens-farm': 'Pigs and chickens are farm animals.',
+    'elephant-big': 'The elephant is very big.',
+    'hamster-cute-friendly': 'My hamster is cute and friendly.',
+    'snake-dangerous': 'A snake can be dangerous.',
+    'my-pet-dog': 'My pet is a friendly dog.',
+    'lions-wild-dangerous': 'Lions are wild and dangerous.',
+    'two-pets': 'I have two pets. My dog is called Max.',
+    'cat-cute-sofa': 'My cat is small and very cute. She likes sleeping on the sofa.',
+    'farm-animals': "At my grandma's farm there are cows, chickens and a horse.",
+    'horse-big-friendly': 'The horse is big but friendly.',
+    'wild-not-home': "Wild animals like lions and tigers are dangerous. We don't have them at home.",
+    'dog-loves-play': 'He is very friendly and he loves to play.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U26 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U27 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 26 |
-| Artículos dedicados pendientes | 34 |
+| Artículos dedicados publicados | 27 |
+| Artículos dedicados pendientes | 33 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -73,7 +73,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 24 | Prepositions of Place | Preposiciones de lugar | ✅ | [Preposiciones de lugar A1](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between) |
 | 25 | My Neighborhood | *the* vs *a/an*, *some/any* | ✅ | [My Neighborhood A1](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any) |
 | 26 | Giving Directions | Imperativos | ✅ | [Giving Directions A1](/blog/curso-a1/unidad-26-direcciones-imperativos) |
-| 27 | Pets & Animals | Vocabulario animales | ❌ | Pendiente |
+| 27 | Pets & Animals | Vocabulario animales | ✅ | [Pets & Animals A1](/blog/curso-a1/unidad-27-mascotas-animales) |
 | 28 | Body Parts | *have/has got* | ❌ | Pendiente |
 | 29 | Clothes | Present Continuous (ropa) | ❌ | Pendiente |
 | 30 | Module 3 Review | Repaso módulo 3 | ⏭️ | Pendiente (opcional) |
