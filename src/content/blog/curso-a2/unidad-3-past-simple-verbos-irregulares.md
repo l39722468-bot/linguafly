@@ -412,8 +412,9 @@ La **Unidad 4** trabaja **Wh-questions in the Past**: *What did you do?*, *Where
 
 En la **Unidad 4** estudiarás **Wh-questions en Past Simple**: preguntar y responder sobre el pasado (*What/Where/When/Who/Why/How did…?*).
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 4 — Wh-questions en Past Simple](/blog/curso-a2/unidad-4-wh-questions-past-simple)
 - [Unidad 4 — Wh-questions en Past Simple](/curso-a2/unit-4)
 
 Guías relacionadas:
