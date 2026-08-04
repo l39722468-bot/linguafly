@@ -124,6 +124,25 @@ const CLIPS_BY_UNIT = {
     'study-work-drive': 'I study carefully every day. I work hard at my job. I drive slowly in the city. I speak English fluently now. I do everything well!',
     'practice-four': 'She runs quickly. She sings well. He played badly. They work carefully.',
   },
+  8: {
+    'at-seven': 'I get up at 7 o\'clock every morning.',
+    'on-monday': 'I have a meeting on Monday.',
+    'in-august': 'We go on holiday in August.',
+    'at-midnight': 'The film starts at midnight.',
+    'on-fifteenth': 'My birthday is on the 15th of March.',
+    'in-1990': 'I was born in 1990.',
+    'at-noon': 'I have lunch at noon.',
+    'in-the-morning': 'We meet in the morning.',
+    'at-night': 'I sleep at night.',
+    'at-the-weekend': 'At the weekend I relax.',
+    'in-summer': 'We go to the beach in summer.',
+    'reading-tom': 'My name is Tom and I have a busy week. On Monday and Wednesday I go to work at 8 o\'clock in the morning. On Tuesday I have a meeting at noon. On Friday I finish early at 3 pm and I go to the gym. At the weekend I relax. On Saturday morning I sleep until 10 o\'clock. In the afternoon I meet my friends. In summer I go on holiday in August.',
+    'dialogue-typical-day': 'Hi! I want to tell you about my typical day. I wake up at 6 o\'clock in the morning. I have breakfast at 7 am. On weekdays I start work at 9 o\'clock. I have lunch at noon. In the afternoon I have meetings. On Saturday I sleep until 10 o\'clock and I meet my friends in the evening. In December I go on holiday for two weeks.',
+    'breakfast-morning': 'I have breakfast at 8 o\'clock in the morning.',
+    'meeting-friday': 'The meeting is on Friday at 3 pm.',
+    'beach-summer': 'We go to the beach in summer.',
+    'practice-four': 'I wake up at 6 o\'clock. I work on Monday. I was born in 1990. We meet in the morning.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
