@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U36 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U37 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 36 |
-| Artículos dedicados pendientes | 24 |
+| Artículos dedicados publicados | 37 |
+| Artículos dedicados pendientes | 23 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -90,7 +90,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 34 | Using 'And', 'But', 'Because' | Conectores | ✅ | [And, but, because A1](/blog/curso-a1/unidad-34-and-but-because) |
 | 35 | Free Time Activities | *go + -ing* | ✅ | [Free Time Activities A1](/blog/curso-a1/unidad-35-free-time-activities) |
 | 36 | Musical Instruments | *play the* + instrumento | ✅ | [Instrumentos musicales A1](/blog/curso-a1/unidad-36-instrumentos-musicales) |
-| 37 | Talent & Skills | *very well*, *quite well* | ❌ | Pendiente |
+| 37 | Talent & Skills | *very well*, *quite well* | ✅ | [Talent & Skills A1](/blog/curso-a1/unidad-37-talent-skills) |
 | 38 | Asking for Permission | *Can I…?*, *May I…?* | ❌ | Pendiente |
 | 39 | Outdoor Activities | Present Continuous (planes) | ❌ | Pendiente |
 | 40 | Module 4 Review | Repaso módulo 4 | ⏭️ | Pendiente (opcional) |
