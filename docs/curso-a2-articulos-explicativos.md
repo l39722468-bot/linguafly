@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U6 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U7 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 6 |
-| Artículos dedicados pendientes | 54 |
+| Artículos dedicados publicados | 7 |
+| Artículos dedicados pendientes | 53 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -39,7 +39,7 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | 4 | Wh-questions in the Past | What/Where/When/Who/Why/How did…? | ✅ | [Wh-questions Past A2](/blog/curso-a2/unidad-4-wh-questions-past-simple) |
 | 5 | Comparatives | *-er*, more… than, better, as… as | ✅ | [Comparativos A2](/blog/curso-a2/unidad-5-comparativos-er-more-than) |
 | 6 | Superlatives | *-est*, the most, in/of | ✅ | [Superlativos A2](/blog/curso-a2/unidad-6-superlativos-est-the-most) |
-| 7 | Adverbs of Manner | *-ly*; well, fast, hard | ❌ | Pendiente |
+| 7 | Adverbs of Manner | *-ly*; well, badly, fast, hard | ✅ | [Adverbios de modo A2](/blog/curso-a2/unidad-7-adverbios-modo-ly) |
 | 8 | Prepositions of Time | at / on / in | ❌ | Pendiente |
 | 9 | Prepositions of Place & Movement | into, out of, through… | ❌ | Pendiente |
 | 10 | Module 1 Review | Repaso módulo 1 | ⏭️ | Pendiente (opcional) |

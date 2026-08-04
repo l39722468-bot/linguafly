@@ -435,8 +435,9 @@ La **Unidad 7** entra en **adverbios de modo**: *quickly, slowly, well, badly* y
 
 En la **Unidad 7** estudiarás **Adverbs of Manner**: *quickly, slowly, well, badly* y la formación con *-ly*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 7 — Adverbios de modo](/blog/curso-a2/unidad-7-adverbios-modo-ly)
 - [Unidad 7 — Adverbios de modo](/curso-a2/unit-7)
 
 Guías relacionadas:

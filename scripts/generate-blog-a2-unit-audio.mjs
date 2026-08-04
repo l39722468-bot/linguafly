@@ -107,6 +107,23 @@ const CLIPS_BY_UNIT = {
     'city-summary': 'My city has the biggest park in the region. The oldest church is in the centre. The best restaurant serves the most delicious food. I think my city is the most beautiful place in the world!',
     'practice-three': 'The tallest person in my family is my brother. The best restaurant in my town is called La Luna. It is the most peaceful place in the world.',
   },
+  7: {
+    'runs-quickly': 'She runs quickly.',
+    'speaks-slowly': 'He speaks slowly because he is tired.',
+    'work-carefully': 'They work carefully.',
+    'speaks-fluently': 'She speaks English fluently.',
+    'sang-beautifully': 'She sang beautifully at the concert.',
+    'speak-quietly': 'Please speak quietly in the library.',
+    'sings-well': 'She sings well.',
+    'played-badly': 'He played badly in the match.',
+    'works-hard': 'He works hard every day.',
+    'reading-maria': 'My friend Maria speaks English very fluently. She learned quickly because she practises every day. She reads books slowly to understand everything well. Last week she sang beautifully at the concert. The audience clapped loudly. Maria also writes carefully and she never makes mistakes. She drives very carefully too. I think she does everything well!',
+    'dialogue-dance': "Hi! Yesterday I went to a dance class. The teacher moved very quickly and we had to follow him. At first I danced badly because I couldn't remember the steps. But the teacher explained everything slowly and patiently. Then I practised carefully and by the end I danced well! My friend sang beautifully at the karaoke after. We had a great time!",
+    'speak-slowly-learn-quickly': 'I speak English slowly but I am learning quickly. I hope to speak fluently one day.',
+    'homework-drove': 'Yesterday I finished my homework quickly. Then I drove slowly to the shop.',
+    'study-work-drive': 'I study carefully every day. I work hard at my job. I drive slowly in the city. I speak English fluently now. I do everything well!',
+    'practice-four': 'She runs quickly. She sings well. He played badly. They work carefully.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
