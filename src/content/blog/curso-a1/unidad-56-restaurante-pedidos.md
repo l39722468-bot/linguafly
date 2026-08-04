@@ -438,8 +438,9 @@ La **Unidad 57** entra en la cocina: ***First, Then, Finally*** y verbos *cut, m
 
 En la **Unidad 57** estudiarás **Cooking & Recipes**: secuenciadores (*First, Then, Finally*) y verbos de cocina.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 57 — Cooking & Recipes](/blog/curso-a1/unidad-57-cocina-recetas)
 - [Unidad 57 — Cooking & Recipes](/curso-a1/unit-57)
 
 Guías relacionadas:
