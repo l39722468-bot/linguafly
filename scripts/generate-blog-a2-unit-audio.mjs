@@ -175,6 +175,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-last-week': 'Hi! I want to tell you about my last week. On Monday I had a meeting at noon. On Tuesday I went to the cinema and saw a film. It was the most interesting film I have ever seen. On Wednesday I walked through the park and went into a cafe. I speak English fluently now because I practise every day. My brother is taller than me but I am the fastest runner in the family!',
     'practice-mixed': 'I walked to the park yesterday. She went to London last year. What did you do yesterday? My brother is taller than me. She speaks English fluently.',
   },
+  11: {
+    'have-been-paris': 'I have been to Paris.',
+    'has-seen-film': 'She has seen that film.',
+    'have-eaten-lunch': 'They have eaten lunch already.',
+    'has-gone-supermarket': 'He has gone to the supermarket.',
+    'have-been-london': 'We have been to London twice.',
+    'have-been-italy': 'I have been to Italy.',
+    'have-eaten-breakfast': 'I have eaten breakfast.',
+    'has-gone-home': 'He has gone home.',
+    'reading-laura': 'My name is Laura. I have been to many countries. I have seen the Eiffel Tower in Paris and the Colosseum in Rome. I have eaten Italian food and French food. Last year I went to Japan. I have never eaten such amazing sushi! My brother has gone to Australia this month. He will be back in two weeks. I love travelling and having new experiences.',
+    'dialogue-tom': 'Hi! My name is Tom. I have been to Spain twice. I have seen Barcelona and Madrid. I have eaten paella and tapas. They were delicious. Last summer I went to Italy. I have never eaten better pizza! My sister has gone to London today. She will come back next week. I love travelling and trying new food.',
+    'practice-four': 'I have been to Paris. She has seen that film. They have eaten lunch. He has gone to the supermarket.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
