@@ -558,6 +558,10 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 40** harás el **repaso del Módulo 4** (*Abilities & Interests*): *can*, *play/go/do*, frecuencia, conectores, free time, instrumentos, skills y permiso.
 
+Guía dedicada:
+
+- [Unidad 40 — Repaso Módulo 4](/blog/curso-a1/unidad-40-repaso-modulo-4)
+
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases con tus planes outdoor de la próxima semana.
 
 Guías relacionadas:
