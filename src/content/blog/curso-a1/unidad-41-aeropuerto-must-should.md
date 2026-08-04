@@ -567,8 +567,9 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 42** hablas de **transporte**: *by bus / by train / by plane* y *take the bus / take the train*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 42 — Transport (by / take the)](/blog/curso-a1/unidad-42-transporte-by-take-the)
 - [Unidad 42 — Transport](/curso-a1/unit-42)
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases con tu llegada al aeropuerto (*must* + *should* + vocabulario).
