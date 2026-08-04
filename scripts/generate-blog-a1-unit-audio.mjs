@@ -822,6 +822,28 @@ const CLIPS_BY_UNIT = {
     'of-course-short': 'Of course.',
     'could-i-please': 'Could I please open the window?',
   },
+  39: {
+    'im-going-camping': "I'm going camping next week.",
+    'going-hiking-saturday': 'She is going hiking on Saturday.',
+    'going-cycling-tomorrow': 'We are going cycling tomorrow.',
+    'hes-going-fishing': "He's going fishing next weekend.",
+    'going-camping-july': 'They are going camping in July.',
+    'going-hiking-saturday-i': 'I am going hiking on Saturday.',
+    'going-cycling-next-week': 'We are going cycling next week.',
+    'going-fishing-tomorrow': 'They are going fishing tomorrow.',
+    'brother-hiking': 'My brother is going hiking on Saturday.',
+    'sister-cycling': 'My sister is going cycling on Sunday.',
+    'dad-fishing': 'My dad is going fishing tomorrow.',
+    'tent-backpacks': 'We have a tent and backpacks.',
+    'going-mountains': 'Next weekend we are all going to the mountains.',
+    'love-outdoor': 'We love outdoor activities.',
+    'im-going-camping-family': "I'm going camping next week with my family.",
+    'what-are-you-doing': 'What are you doing next weekend?',
+    'im-going-hiking': "I'm going hiking.",
+    'are-you-going-camping': 'Are you going camping next week?',
+    'yes-we-are': 'Yes, we are.',
+    'shes-going-cycling-sunday': 'She is going cycling on Sunday.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
