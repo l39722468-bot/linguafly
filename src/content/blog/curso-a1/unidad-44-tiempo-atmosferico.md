@@ -567,8 +567,9 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 45** hablas de las **estaciones**: *in spring, in summer, in autumn, in winter*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 45 — Seasons (in spring…)](/blog/curso-a1/unidad-45-estaciones-in-spring)
 - [Unidad 45 — Seasons](/curso-a1/unit-45)
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre el tiempo de hoy, ayer y tu estación favorita.

@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U44 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U45 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 44 |
-| Artículos dedicados pendientes | 16 |
+| Artículos dedicados publicados | 45 |
+| Artículos dedicados pendientes | 15 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -105,7 +105,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 42 | Transport | *by* + transporte | ✅ | [Transport A1](/blog/curso-a1/unidad-42-transporte-by-take-the) |
 | 43 | Travel Verbs | Horarios, Present Simple | ✅ | [Travel Verbs A1](/blog/curso-a1/unidad-43-verbos-viaje-horarios) |
 | 44 | The Weather | *It is…* + clima | ✅ | [The Weather A1](/blog/curso-a1/unidad-44-tiempo-atmosferico) |
-| 45 | Seasons | *in* + estación | ❌ | Pendiente |
+| 45 | Seasons | *in* + estación | ✅ | [Seasons A1](/blog/curso-a1/unidad-45-estaciones-in-spring) |
 | 46 | At the Hotel | Peticiones en hotel | 🔶 | Viajes + hotel |
 | 47 | Holidays & Vacation | *was/were*, pasado | 🔶 | Viajes |
 | 48 | Sightseeing | Superlativos | 🔶 | Viajes |
