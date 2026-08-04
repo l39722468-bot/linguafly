@@ -560,8 +560,9 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 46** practicas inglés de **hotel**: *Can I have a room?*, *Is there Wi-Fi?*, peticiones y *there is/are*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 46 — At the Hotel (Can I have…?)](/blog/curso-a1/unidad-46-hotel-can-i-have)
 - [Unidad 46 — At the Hotel](/curso-a1/unit-46)
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre las cuatro estaciones en tu ciudad.
