@@ -581,7 +581,7 @@ Escribe 2 mini-diálogos (4–6 líneas cada uno):
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 39** hablarás de **actividades al aire libre** (*Outdoor Activities*), a menudo con Present Continuous para planes.
+Continúa con la [**Unidad 39 — Outdoor Activities**](/blog/curso-a1/unidad-39-outdoor-activities): *I'm going camping*, *hiking*, *cycling*, *fishing*.
 
 Antes de pasar de unidad, escribe 10 frases de permiso reales (casa, clase, trabajo) con *Can I* y *May I*.
 
