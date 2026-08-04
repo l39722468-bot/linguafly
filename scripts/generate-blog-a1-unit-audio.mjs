@@ -1119,6 +1119,26 @@ const CLIPS_BY_UNIT = {
     'veg-aisle-three': 'The vegetables are in aisle three.',
     'where-fruit-section': 'Where is the fruit section?',
   },
+  52: {
+    'apples-countable': 'Apples and eggs are countable — we say two apples.',
+    'milk-uncountable': 'Milk, water, bread and rice are uncountable.',
+    'how-many-eggs': 'How many eggs do you need?',
+    'how-many-apples': 'How many apples do you want?',
+    'dont-have-much-milk': "I don't have much milk left.",
+    'isnt-much-bread': "There isn't much bread left.",
+    'do-we-have-much-milk': 'Do we have much milk?',
+    'how-much-milk': 'How much milk do we have?',
+    'alot-of-water': 'We have a lot of water in the fridge.',
+    'alot-water-bread': 'We have a lot of water and bread.',
+    'need-milk-bread': 'I need some milk and bread.',
+    'some-rice-alot-bread': 'We say some rice, a lot of bread — not two rices.',
+    'reading-shopping': "I need to buy some food today. We don't have much milk or bread left. I want a lot of water and some rice. For fruit I need many apples and six eggs. We have too much sugar at home so I won't buy any. How many oranges do we need? Maybe four or five.",
+    'dialogue-full': "Do we have much milk? No, we don't have much. How many eggs do we need? Six eggs and a lot of bread. We have some rice but not much water. I'll buy water and many apples. Good. Don't buy too much sugar; we have a lot already.",
+    'too-much-sugar': "Don't buy too much sugar.",
+    'dont-have-much-water': "We don't have much water.",
+    'buy-water-apples': "I'll buy water and many apples.",
+    'alot-sugar-already': 'We have a lot of sugar already.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
