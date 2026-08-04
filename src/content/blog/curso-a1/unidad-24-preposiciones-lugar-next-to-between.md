@@ -55,7 +55,7 @@ excerpt: >-
 
 En la [Unidad 23](/blog/curso-a1/unidad-23-there-is-there-are) aprendiste a decir **qué hay** (*There is / There are*) y a situar objetos con ***in, on, under, behind***. En la **Unidad 24 del curso A1** (*Prepositions of Place*) amplías el mapa: ***next to, between, in front of, opposite*** para describir el **barrio** y dar ubicaciones más precisas.
 
-Esta guía conecta con [lugares de la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad) y con *There is/are*. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+Esta guía conecta con [lugares de la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad) y con *There is/are*. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 24 — Prepositions of Place](/curso-a1/unit-24)  
 > **Repaso útil:** [Unidad 23 — There is / There are](/blog/curso-a1/unidad-23-there-is-there-are) · [Unidad 11 — Lugares](/blog/curso-a1/unidad-11-lugares-ciudad)

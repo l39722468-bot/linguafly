@@ -54,7 +54,7 @@ excerpt: >-
 
 En la [Unidad 27](/blog/curso-a1/unidad-27-mascotas-animales) hablaste de animales. En la **Unidad 28 del curso A1** (*Body Parts*) aprendes a nombrar **partes del cuerpo** y a usar ***have got / has got*** con ***this / these***.
 
-Conecta con descripciones de la [Unidad 7](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) y demostrativos de la [Unidad 4](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos). Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+Conecta con descripciones de la [Unidad 7](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) y demostrativos de la [Unidad 4](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos). Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 28 — Body Parts](/curso-a1/unit-28)  
 > **Repaso útil:** [Unidad 7 — Descripciones](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) · [Unidad 4 — This/that](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)

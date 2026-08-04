@@ -57,7 +57,7 @@ excerpt: >-
 
 La **Unidad 30 del curso A1** (*Module 3 Review*) cierra el Módulo 3: **mi mundo** (casa, barrio, direcciones, animales, cuerpo y ropa). No introduce gramática nueva: **consolida** las unidades 21–29 para que puedas describir tu entorno y a ti mismo sin dudar.
 
-Esta guía es un **mapa de repaso** con tablas, checklist, audios y ejercicios (más de 2000 palabras). Úsala para detectar huecos y volver a la [unidad concreta](/blog/curso-a1) si algo falla.
+Esta guía es un **mapa de repaso** con tablas, checklist, audios y ejercicios. Úsala para detectar huecos y volver a la [unidad concreta](/blog/curso-a1) si algo falla.
 
 > **Practica en el curso:** [Unidad 30 — Module 3 Review](/curso-a1/unit-30)  
 > **Guías del módulo:** [U21](/blog/curso-a1/unidad-21-habitaciones-casa) · [U23](/blog/curso-a1/unidad-23-there-is-there-are) · [U26](/blog/curso-a1/unidad-26-direcciones-imperativos) · [U28](/blog/curso-a1/unidad-28-partes-cuerpo-have-got) · [U29](/blog/curso-a1/unidad-29-ropa-present-continuous)

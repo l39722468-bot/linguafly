@@ -55,7 +55,7 @@ excerpt: >-
 
 Ya sabes los días de la semana y a qué hora haces las cosas. En la **Unidad 13 del curso A1** (*Daily Routine*) aprendes a **contar tu día en orden**: primero te despiertas, luego te lavas los dientes, después desayunas…
 
-Esta guía cubre el **vocabulario de la rutina**, los secuenciadores ***First, Then, After that***, y cómo combinarlos con **Present Simple** y horarios. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras de práctica guiada).
+Esta guía cubre el **vocabulario de la rutina**, los secuenciadores ***First, Then, After that***, y cómo combinarlos con **Present Simple** y horarios. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 13 — Rutina diaria](/curso-a1/unit-13)  
 > **Repaso previo:** [Unidad 12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana) · [Unidad 10 — Rutinas y la hora](/blog/curso-a1/unidad-10-rutinas-diarias-hora)

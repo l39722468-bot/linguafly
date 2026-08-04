@@ -52,7 +52,7 @@ excerpt: >-
 
 En la [Unidad 25](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any) describiste tu barrio. En la **Unidad 26 del curso A1** (*Giving Directions*) aprendes a **indicar el camino** con **imperativos**: ***Turn left, Turn right, Go straight, Past the…***.
 
-Combina lugares de las [Unidades 11](/blog/curso-a1/unidad-11-lugares-ciudad) y [24](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between) (*on the left, next to…*). Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+Combina lugares de las [Unidades 11](/blog/curso-a1/unidad-11-lugares-ciudad) y [24](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between) (*on the left, next to…*). Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 26 — Giving Directions](/curso-a1/unit-26)  
 > **Repaso útil:** [Unidad 25 — Barrio](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any) · [Unidad 24 — Preposiciones](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between)

@@ -53,7 +53,7 @@ excerpt: >-
 
 Tras el [repaso del Módulo 3](/blog/curso-a1/unidad-30-repaso-modulo-3), el **Módulo 4** empieza con la **Unidad 31 del curso A1** (*Can for Ability*): ***can / can't*** para decir **qué sabes hacer**.
 
-No confundas con *Can I have…?* de la [cafetería (U16)](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like): aquí el foco es **habilidad**. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+No confundas con *Can I have…?* de la [cafetería (U16)](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like): aquí el foco es **habilidad**. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 31 — Can for Ability](/curso-a1/unit-31)  
 > **Repaso útil:** [Unidad 30 — Repaso Módulo 3](/blog/curso-a1/unidad-30-repaso-modulo-3) · [Unidad 16 — Can I have…?](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
@@ -593,7 +593,7 @@ Escribe 8–10 frases. Incluye:
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 32** aprenderás **deportes y hobbies** con ***play / go / do***.
+Continúa con la [**Unidad 32 — Deportes y hobbies: play, go, do**](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do): *play football*, *go swimming*, *do yoga*.
 
 Guías relacionadas:
 

@@ -57,7 +57,7 @@ excerpt: >-
 
 En las [Unidades 23](/blog/curso-a1/unidad-23-there-is-there-are) y [24](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between) aprendiste a decir **qué hay** y **dónde está**. En la **Unidad 25 del curso A1** (*My Neighborhood*) unes todo para **describir tu barrio** con precisión: ***the* vs *a/an***, intro de ***some/any***, y vocabulario clave (*park, supermarket, cinema, library, pharmacy*).
 
-Repasas artículos de la [Unidad 4](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos) y lugares de la [Unidad 11](/blog/curso-a1/unidad-11-lugares-ciudad). Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras).
+Repasas artículos de la [Unidad 4](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos) y lugares de la [Unidad 11](/blog/curso-a1/unidad-11-lugares-ciudad). Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 25 — My Neighborhood](/curso-a1/unit-25)  
 > **Repaso útil:** [Unidad 24 — Preposiciones](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between) · [Unidad 23 — There is/are](/blog/curso-a1/unidad-23-there-is-there-are)

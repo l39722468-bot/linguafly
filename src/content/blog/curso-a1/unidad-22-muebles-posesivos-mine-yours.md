@@ -53,7 +53,7 @@ excerpt: >-
 
 En la [Unidad 21](/blog/curso-a1/unidad-21-habitaciones-casa) nombraste las habitaciones. En la **Unidad 22 del curso A1** (*Furniture & Household Items*) las **llenas de muebles** y dices **de quién son** con ***mine, yours, his, hers***.
 
-Esta guía cubre el **vocabulario de furniture**, la diferencia ***my / mine***, la pregunta ***Whose…?*** y frases con *There is… in the…*. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras). Conecta con los posesivos de la [Unidad 6](/blog/curso-a1/unidad-6-familia-posesivos-genitivo) (*my, your, his, her*) y da el paso a los **pronombres** (*mine, yours…*).
+Esta guía cubre el **vocabulario de furniture**, la diferencia ***my / mine***, la pregunta ***Whose…?*** y frases con *There is… in the…*. Incluye **audios**, **esquemas** y **ejercicios**. Conecta con los posesivos de la [Unidad 6](/blog/curso-a1/unidad-6-familia-posesivos-genitivo) (*my, your, his, her*) y da el paso a los **pronombres** (*mine, yours…*).
 
 > **Practica en el curso:** [Unidad 22 — Furniture & Household Items](/curso-a1/unit-22)  
 > **Repaso útil:** [Unidad 21 — Habitaciones](/blog/curso-a1/unidad-21-habitaciones-casa) · [Unidad 6 — Posesivos](/blog/curso-a1/unidad-6-familia-posesivos-genitivo)

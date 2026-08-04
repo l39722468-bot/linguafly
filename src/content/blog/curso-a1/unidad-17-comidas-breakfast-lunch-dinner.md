@@ -56,7 +56,7 @@ excerpt: >-
 
 Tras pedir en la cafetería en la [Unidad 16](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like), en la **Unidad 17 del curso A1** (*Breakfast, Lunch & Dinner*) hablas de **las comidas del día**, de **qué te gusta** (*like / love / hate*) y de una intro a **contables e incontables**.
 
-Esta guía cubre *have breakfast/lunch/dinner*, gustos con comida, vocabulario de **fruta, verdura, carne y lácteos**, y ejemplos claros. Incluye **audios**, **esquemas** y **ejercicios** (más de 2000 palabras). Es el complemento natural de lo que ya sabes pedir en un café.
+Esta guía cubre *have breakfast/lunch/dinner*, gustos con comida, vocabulario de **fruta, verdura, carne y lácteos**, y ejemplos claros. Incluye **audios**, **esquemas** y **ejercicios**. Es el complemento natural de lo que ya sabes pedir en un café.
 
 > **Practica en el curso:** [Unidad 17 — Breakfast, Lunch & Dinner](/curso-a1/unit-17)  
 > **Repaso útil:** [Unidad 16 — Cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like) · [Unidad 14 — don't / Do you](/blog/curso-a1/unidad-14-present-simple-dont-do-you)
