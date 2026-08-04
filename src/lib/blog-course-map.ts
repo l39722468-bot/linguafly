@@ -603,6 +603,11 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
     { courseId: 'a1', unitNumber: 13 },
     { courseId: 'a1', unitNumber: 32 },
   ],
+  'unidad-34-and-but-because': [
+    { courseId: 'a1', unitNumber: 34 },
+    { courseId: 'a1', unitNumber: 18 },
+    { courseId: 'a1', unitNumber: 33 },
+  ],
   'letras-mudas-ingles-guia-completa': [{ courseId: 'a1', unitNumber: 7 }],
   'letras-mudas-ingles-lista': [{ courseId: 'a1', unitNumber: 7 }],
   'como-leer-transcripcion-fonetica-ingles': [{ courseId: 'a1', unitNumber: 7 }],

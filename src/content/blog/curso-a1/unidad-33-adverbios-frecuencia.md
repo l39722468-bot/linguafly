@@ -600,7 +600,7 @@ Escribe 8–10 frases. Incluye:
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 34** aprenderás a unir ideas con ***and, but, because*** para hablar con frases más largas y naturales.
+Continúa con la [**Unidad 34 — And, but, because**](/blog/curso-a1/unidad-34-and-but-because): suma ideas, contraste y razones.
 
 Antes de pasar de unidad, escribe ocho frases reales: una con cada adverbio, más dos con *be*, y léelas en voz alta comprobando la posición.
 
