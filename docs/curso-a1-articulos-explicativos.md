@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U50 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U51 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 50 |
-| Artículos dedicados pendientes | 10 |
+| Artículos dedicados publicados | 51 |
+| Artículos dedicados pendientes | 9 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -118,7 +118,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 51 | At the Supermarket | Plurales irregulares | ❌ | Pendiente |
+| 51 | At the Supermarket | Plurales irregulares | ✅ | [Supermercado A1](/blog/curso-a1/unidad-51-supermercado-plurales) |
 | 52 | Countable & Uncountable | Contables/incontables | ❌ | Pendiente |
 | 53 | Some & Any | *some/any* | ❌ | Pendiente |
 | 54 | How Much & How Many | Precios y cantidades | ❌ | Pendiente |

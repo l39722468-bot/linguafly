@@ -636,8 +636,9 @@ El Módulo 6 empieza en el supermercado (*At the Supermarket*): plurales, frutas
 
 Tras el Módulo 5, el curso continúa con el **Módulo 6** (*Shopping & Food*). La siguiente unidad es **At the Supermarket** (plurales, frutas, verduras, carne, pescado).
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 51 — At the Supermarket (plurales)](/blog/curso-a1/unidad-51-supermercado-plurales)
 - [Unidad 51 — At the Supermarket](/curso-a1/unit-51)
 
 Guías relacionadas del módulo:

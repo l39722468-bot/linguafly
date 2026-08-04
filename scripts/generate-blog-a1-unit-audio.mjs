@@ -1098,6 +1098,27 @@ const CLIPS_BY_UNIT = {
     'where-famous-museum': 'Where is the most famous museum?',
     'do-you-need-pack': 'Do you need to pack today?',
   },
+  51: {
+    'two-tomatoes': 'I need two tomatoes for the salad.',
+    'three-potatoes': 'We have three potatoes in the fridge.',
+    'many-apples': 'There are many apples in the fruit section.',
+    'two-pieces-fish': 'I want two pieces of fish.',
+    'two-fish': 'We say two fish for two pieces of fish.',
+    'fruit-list': 'Fruit equals apples, bananas, oranges.',
+    'vegetables-list': 'Vegetables equals carrots, tomatoes, potatoes.',
+    'meat-list': 'Meat equals chicken, beef, pork.',
+    'fish-list': 'Fish equals salmon, tuna, cod.',
+    'apples-aisle-five': 'The apples are in aisle five.',
+    'where-vegetables': 'Where are the vegetables?',
+    'get-trolley': 'Get a trolley if you have many things.',
+    'dialogue-where-veg': 'Where are the vegetables? In aisle two.',
+    'meat-at-back': 'Meat and fish are at the back.',
+    'reading-saturday': 'I go to the supermarket every Saturday. First I get a trolley. The fruit and vegetables are in aisle one. I buy apples, bananas and tomatoes. The meat and fish are at the back. I need some chicken and two pieces of fish. Then I pay at the checkout.',
+    'dialogue-full': 'Where are the vegetables? In aisle two. And the fruit? Aisle one, next to the entrance. I need some chicken and fish. Meat and fish are at the back. Thank you. Where is the checkout? Over there. Get a trolley if you have many things.',
+    'need-beef-chicken': 'I need some beef and chicken.',
+    'veg-aisle-three': 'The vegetables are in aisle three.',
+    'where-fruit-section': 'Where is the fruit section?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
