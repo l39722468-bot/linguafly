@@ -607,8 +607,9 @@ El Módulo 5 empieza en el aeropuerto (*At the Airport*): *must/should*, *passpo
 
 Tras el Módulo 4, el curso continúa con el **Módulo 5** (*Places & Travel*). La siguiente unidad es **At the Airport** (*must/should*, *passport*, *ticket*, *check-in*).
 
-Guía dedicada (cuando esté publicada) y curso:
+Guía dedicada y curso:
 
+- [Unidad 41 — At the Airport (must/should)](/blog/curso-a1/unidad-41-aeropuerto-must-should)
 - [Unidad 41 — At the Airport](/curso-a1/unit-41)
 
 Guías relacionadas del módulo:
