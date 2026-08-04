@@ -564,8 +564,9 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 47** hablas de **vacaciones en pasado**: *was/were* y verbos regulares (*visited, stayed*).
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 47 — Holidays (was/were)](/blog/curso-a1/unidad-47-vacaciones-was-were)
 - [Unidad 47 — Holidays & Vacation](/curso-a1/unit-47)
 
 Antes de pasar de unidad, escribe un diálogo de check-in de 8–10 líneas.
