@@ -471,8 +471,9 @@ La **Unidad 52** profundiza en **contables e incontables** (*a banana* vs *some 
 
 En la **Unidad 52** estudiarás **Countable & Uncountable** (contables e incontables): *an apple* vs *some milk / some rice*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 52 — Contables e incontables](/blog/curso-a1/unidad-52-contables-incontables)
 - [Unidad 52 — Countable & Uncountable](/curso-a1/unit-52)
 
 Guías relacionadas:
