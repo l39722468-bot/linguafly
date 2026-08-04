@@ -482,6 +482,9 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-8-preposiciones-tiempo-at-on-in': [
     { courseId: 'a2', unitNumber: 8 },
   ],
+  'unidad-9-preposiciones-lugar-movimiento': [
+    { courseId: 'a2', unitNumber: 9 },
+  ],
   'unidad-2-to-be-pronombres-nacionalidades': [
     { courseId: 'a1', unitNumber: 2 },
     { courseId: 'a1', unitNumber: 3 },
