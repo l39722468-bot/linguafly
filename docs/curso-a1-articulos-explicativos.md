@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U59 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U60 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 59 |
-| Artículos dedicados pendientes | 1 |
+| Artículos dedicados publicados | 60 |
+| Artículos dedicados pendientes | 0 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -127,7 +127,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 57 | Cooking & Recipes | Verbos de cocina | ✅ | [Cocina A1](/blog/curso-a1/unidad-57-cocina-recetas) |
 | 58 | Health & Illness | *should/shouldn't* | ✅ | [Salud A1](/blog/curso-a1/unidad-58-salud-should) |
 | 59 | Money & Currency | *pay for*, *spend on* | ✅ | [Dinero A1](/blog/curso-a1/unidad-59-dinero-pay-for-spend-on) |
-| 60 | Module 6 Review | Repaso módulo 6 | ⏭️ | Pendiente (opcional) |
+| 60 | Module 6 Review | Repaso módulo 6 | ✅ | [Repaso Módulo 6 A1](/blog/curso-a1/unidad-60-repaso-modulo-6) |
 
 ---
 

@@ -427,8 +427,9 @@ La **Unidad 60** es el **Module 6 Review**: contables, *some/any*, *much/many*, 
 
 En la **Unidad 60** harás el **repaso del Módulo 6** (*Shopping & Food*): contables/incontables, *some/any*, *much/many*, *too/enough*, *should* y secuencia de recetas.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 60 — Repaso Módulo 6](/blog/curso-a1/unidad-60-repaso-modulo-6)
 - [Unidad 60 — Module 6 Review](/curso-a1/unit-60)
 
 Guías relacionadas:
