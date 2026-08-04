@@ -844,6 +844,28 @@ const CLIPS_BY_UNIT = {
     'yes-we-are': 'Yes, we are.',
     'shes-going-cycling-sunday': 'She is going cycling on Sunday.',
   },
+  40: {
+    'i-can-swim': 'I can swim.',
+    'plays-football': 'She plays football on Saturdays.',
+    'go-cycling': 'They go cycling every weekend.',
+    'does-yoga': 'He does yoga twice a week.',
+    'always-breakfast': 'I always have breakfast at 8.',
+    'tea-but-coffee': "I like tea but I don't like coffee.",
+    'can-play-guitar': 'I can play the guitar quite well.',
+    'always-yoga-because': 'I always do yoga in the morning because I like it.',
+    'im-going-camping': "I'm going camping next week.",
+    'can-i-bathroom': 'Can I use the bathroom?',
+    'tom-intro': "My name is Tom. I can play the guitar quite well and I play football every Saturday. I always do yoga in the morning because I like it. Next week I'm going camping with my friends. Can I use the bathroom? Yes, of course — we use polite phrases every day.",
+    'play-go-do': 'Play football, go swimming, do yoga.',
+    'may-i-question': 'May I ask a question?',
+    'going-hiking-saturday': 'She is going hiking on Saturday.',
+    'sings-very-well': 'She sings very well.',
+    'never-eat-late': 'I never eat late.',
+    'excuse-me-borrow': 'Excuse me — can I borrow your pen?',
+    'we-are-polite': 'We use polite phrases every day.',
+    'love-nature-camping': "I am going camping next weekend because I love nature.",
+    'module4-skills': 'We all have different skills.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
