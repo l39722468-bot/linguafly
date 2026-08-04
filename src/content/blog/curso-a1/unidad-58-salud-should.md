@@ -404,8 +404,9 @@ La **Unidad 59** habla de dinero: ***pay for / spend on***, *cash, credit card, 
 
 En la **Unidad 59** estudiarás **Money & Currency**: *pay for*, *spend on*, *cash*, *credit card*, *change*, *receipt*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 59 — Money & Currency](/blog/curso-a1/unidad-59-dinero-pay-for-spend-on)
 - [Unidad 59 — Money & Currency](/curso-a1/unit-59)
 
 Guías relacionadas:

@@ -1256,6 +1256,24 @@ const CLIPS_BY_UNIT = {
     'take-some-medicine': 'You should take some medicine.',
     'shouldnt-computer': "You shouldn't work on the computer all day.",
   },
+  59: {
+    'paid-for-dinner': 'I paid for the dinner with cash.',
+    'pay-credit-card': 'Can I pay for this with credit card?',
+    'spends-on-clothes': 'She spends a lot of money on clothes.',
+    'spent-on-food': 'We spent too much on food last month.',
+    'paid-for-bill': 'I paid for the bill yesterday.',
+    'spends-on-food': 'She spends a lot of money on food.',
+    'paid-with-cash': 'I paid with cash — no credit card.',
+    'receipt-please': 'Can I have the receipt please?',
+    'your-change': 'Here is your change — five pounds back.',
+    'twenty-pounds': 'That is twenty pounds please.',
+    'prefer-cash': 'I prefer to pay with cash.',
+    'change-and-receipt': 'Here is your change and your receipt.',
+    'reading-shopping': 'When I go shopping I usually take both cash and my credit card. Yesterday I bought a book for ten pounds. I paid for it with cash. The total was ten pounds so I gave a twenty-pound note. The shop assistant gave me my change — ten pounds back — and a receipt. I spend a lot of money on books every month.',
+    'dialogue-full': "That is twenty pounds please. Can I pay for this with credit card? Yes of course. I prefer to pay with cash. Here you are. You gave me thirty pounds. Here is your change — ten pounds — and your receipt. Thank you.",
+    'practice-paid': 'I paid for the dinner with cash.',
+    'practice-receipt': 'Can I have the receipt please?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
