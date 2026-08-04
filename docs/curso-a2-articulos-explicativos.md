@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U9 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U10 ≥2000 palabras; Módulo 1 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 9 |
-| Artículos dedicados pendientes | 51 |
+| Artículos dedicados publicados | 10 |
+| Artículos dedicados pendientes | 50 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -42,7 +42,7 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | 7 | Adverbs of Manner | *-ly*; well, badly, fast, hard | ✅ | [Adverbios de modo A2](/blog/curso-a2/unidad-7-adverbios-modo-ly) |
 | 8 | Prepositions of Time | at / on / in | ✅ | [Preposiciones de tiempo A2](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in) |
 | 9 | Prepositions of Place & Movement | into, out of, through… | ✅ | [Preposiciones de lugar y movimiento A2](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento) |
-| 10 | Module 1 Review | Repaso módulo 1 | ⏭️ | Pendiente (opcional) |
+| 10 | Module 1 Review | Repaso módulo 1 | ✅ | [Repaso Módulo 1 A2](/blog/curso-a2/unidad-10-repaso-modulo-1) |
 
 ---
 

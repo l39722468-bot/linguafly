@@ -158,6 +158,23 @@ const CLIPS_BY_UNIT = {
     'dialogue-museum': 'Hi! Last weekend I went to the museum. I went into the main entrance and walked through several rooms. First I saw the paintings and then I walked across the courtyard to get to the sculpture section. When I came out of the museum I crossed the street and went into a cafe for coffee. I really enjoyed the day!',
     'practice-four': 'She went into the room. He ran out of the building. We walked through the park. The cat ran across the street.',
   },
+  10: {
+    'walked-yesterday': 'I walked to the park yesterday.',
+    'went-london': 'She went to London last year.',
+    'taller-than': 'My brother is taller than me.',
+    'the-tallest': 'She is the tallest girl in the class.',
+    'speaks-fluently': 'She speaks English fluently.',
+    'at-seven': 'I get up at 7 o\'clock every morning.',
+    'went-into-room': 'She went into the room and closed the door.',
+    'what-did-you-do': 'What did you do yesterday?',
+    'got-out-of-car': 'I got out of the car and walked away.',
+    'on-monday': 'I have a meeting on Monday.',
+    'went-cinema': 'I went to the cinema yesterday.',
+    'breakfast-morning': 'I have breakfast at 8 o\'clock in the morning.',
+    'reading-anna': 'My name is Anna and I have a busy life. I get up at 7 o\'clock in the morning on weekdays. Last weekend I went to the museum. I went into the main entrance and walked through several rooms. My sister is the tallest in our family and she speaks English very fluently. She saw a beautiful film last night and said it was the most interesting film she has ever seen. On Saturday morning I walked across the bridge to get to the other side of the river. I really enjoyed the weekend!',
+    'dialogue-last-week': 'Hi! I want to tell you about my last week. On Monday I had a meeting at noon. On Tuesday I went to the cinema and saw a film. It was the most interesting film I have ever seen. On Wednesday I walked through the park and went into a cafe. I speak English fluently now because I practise every day. My brother is taller than me but I am the fastest runner in the family!',
+    'practice-mixed': 'I walked to the park yesterday. She went to London last year. What did you do yesterday? My brother is taller than me. She speaks English fluently.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
