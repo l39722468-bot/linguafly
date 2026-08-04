@@ -563,8 +563,9 @@ Escribe 8–10 frases. Incluye:
 
 En la **Unidad 49** practicas **hacer la maleta**: *need to / don't need to* + ropa y objetos de viaje.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 49 — Packing (need to)](/blog/curso-a1/unidad-49-maleta-need-to)
 - [Unidad 49 — Packing a Suitcase](/curso-a1/unit-49)
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre un día de sightseeing.
