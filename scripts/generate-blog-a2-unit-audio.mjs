@@ -58,6 +58,19 @@ const CLIPS_BY_UNIT = {
     'barcelona-trip': 'Last summer I went to Barcelona. I saw the Sagrada Familia and many beautiful places. I bought some souvenirs for my family. I had a wonderful time!',
     'practice-three': 'I went to the shop yesterday. She bought a new book last week. He made a delicious dinner last night.',
   },
+  4: {
+    'what-did-you-do': 'What did you do yesterday?',
+    'where-did-you-go': 'Where did you go last weekend?',
+    'when-did-she-leave': 'When did she leave?',
+    'who-did-you-see': 'Who did you see at the party?',
+    'why-did-he-leave': 'Why did he leave early?',
+    'how-did-it-go': 'How did the exam go?',
+    'what-did-you-buy': 'What did you buy at the shop?',
+    'sequence-beach': 'First I went to the beach. Then I swam. After that we had lunch. Finally we went home.',
+    'reading-interview': "Last month my friend Carlos had an interview for a new job. I asked him many questions about it. First I asked what he did to prepare. He said he studied the company online. Then I asked where the interview took place. He said it was at the office in Madrid. I asked when it happened. He said last Tuesday at ten o'clock. I asked who he met there. He said he met two managers and the HR director. I asked why he wanted the job. He said because it was interesting and near his home. Finally I asked how it went. He said it went very well and he got the job!",
+    'dialogue-sister': "Hi! Yesterday I had a really strange day. My sister called me in the morning and asked me many questions. First she asked what I did last weekend. I said I went to the beach. Then she asked where I went exactly. I said I went to Valencia. She asked when I left. I said I left on Sunday afternoon. She asked who I went with. I said I went with my friends Ana and Pablo. She asked why I did not tell her before. I said because I forgot! Finally she asked how the trip went. I said it was amazing!",
+    'practice-four': 'What did you do last weekend? Where did you go? Who did you go with? How did the trip go?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
