@@ -20,8 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-10-repaso-modulo-1'
 image: /blog/curso-a2/unit-10/a2-unit10-module1-review.png
 alt: Esquema de repaso del Módulo 1 del curso A2
 related_routes:
+  - unidad-11-present-perfect-introduccion
   - unidad-9-preposiciones-lugar-movimiento
-  - unidad-8-preposiciones-tiempo-at-on-in
   - ingles-a2
 faqs:
   - question: ¿Qué se repasa en la Unidad 10 del curso A2?
@@ -452,6 +452,10 @@ La **Unidad 11** abre el **Módulo 2** con **Present Perfect**: *I have been to�
 ## Siguiente paso en el curso A2
 
 En la **Unidad 11** empezarás **Present Perfect: Introduction**: *have/has + past participle* para experiencias (*I have been to London*).
+
+Guía blog:
+
+- [Unidad 11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
 
 Curso:
 
