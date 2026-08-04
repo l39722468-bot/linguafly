@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículo U1 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U2 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 1 |
-| Artículos dedicados pendientes | 59 |
+| Artículos dedicados publicados | 2 |
+| Artículos dedicados pendientes | 58 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -34,7 +34,7 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
 | 1 | Greetings & Introductions (repaso) | *to be*, Present Simple; hometown, neighbourhood, hobby | ✅ | [Saludos e introducciones A2](/blog/curso-a2/unidad-1-saludos-introducciones-repaso) |
-| 2 | Past Simple: Regular Verbs | *-ed*; yesterday / last week / ago | ❌ | Pendiente |
+| 2 | Past Simple: Regular Verbs | *-ed*; yesterday / last week / ago | ✅ | [Past Simple regulares A2](/blog/curso-a2/unidad-2-past-simple-verbos-regulares) |
 | 3 | Past Simple: Irregular Verbs | went, saw, had, made… | ❌ | Pendiente |
 | 4 | Wh-questions in the Past | What/Where/When did…? | ❌ | Pendiente |
 | 5 | Comparatives | *-er*, more… than | ❌ | Pendiente |

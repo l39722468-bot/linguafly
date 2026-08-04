@@ -454,8 +454,9 @@ La **Unidad 2** entra en el **Past Simple** con verbos regulares (*walked, visit
 
 En la **Unidad 2** estudiarás **Past Simple: Regular Verbs**: afirmativa, negativa y preguntas con *-ed*, y expresiones como *yesterday*, *last week*, *ago*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 2 — Past Simple: verbos regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
 - [Unidad 2 — Past Simple: verbos regulares](/curso-a2/unit-2)
 
 Guías relacionadas:

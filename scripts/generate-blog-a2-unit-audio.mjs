@@ -29,6 +29,20 @@ const CLIPS_BY_UNIT = {
     'what-favourite-hobby': 'What is your favourite hobby?',
     'where-hometown': 'Where is your hometown?',
   },
+  2: {
+    'walked-yesterday': 'I walked to the park yesterday.',
+    'visited-last-week': 'She visited her grandmother last week.',
+    'played-football': 'We played football yesterday.',
+    'finished-ago': 'He finished his homework two hours ago.',
+    'watched-last-night': 'They watched a film last night.',
+    'cleaned-room': 'I cleaned my room yesterday.',
+    'talked-two-hours': 'We talked for two hours.',
+    'reading-busy-week': 'Last week I had a busy week. On Monday I walked to work because my car was broken. On Tuesday I visited my grandmother in the hospital. She was happy to see me. On Wednesday I played football with my friends. We won the match! On Thursday I finished my project at work. My boss was very happy. Yesterday I rested at home and watched a film.',
+    'dialogue-yesterday': 'Hi! I want to tell you about what I did yesterday. In the morning I walked to the shop and picked up some bread. Then I visited my friend Sarah. We played cards and talked for two hours. In the afternoon I cleaned my room and finished my homework. Last night I watched a film on TV. It was very good!',
+    'yesterday-routine': 'Yesterday I walked to work. In the afternoon I visited my friend. In the evening I cooked dinner and watched TV.',
+    'last-weekend': 'Last weekend I walked in the park and played football. On Sunday I visited my grandmother and cooked lunch with her.',
+    'practice-three': 'I walked to the shop yesterday. I visited my friend last week. I finished my homework two hours ago.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
