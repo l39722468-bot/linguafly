@@ -19,8 +19,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-11-present-perfect-in
 image: /blog/curso-a2/unit-11/a2-unit11-present-perfect.png
 alt: Esquema have/has + past participle del Present Perfect A2
 related_routes:
+  - unidad-12-present-perfect-ever-never
   - unidad-10-repaso-modulo-1
-  - unidad-3-past-simple-verbos-irregulares
   - ingles-a2
 faqs:
   - question: ¿Cómo se forma el Present Perfect en A2?
@@ -434,6 +434,10 @@ La **Unidad 12** añade **ever** y **never**: *Have you ever…? / I have never�
 ## Siguiente paso en el curso A2
 
 En la **Unidad 12** estudiarás **Present Perfect: Ever & Never**: preguntas *Have you ever…?* y respuestas *I have never…* / *Yes, I have*.
+
+Guía blog:
+
+- [Unidad 12 — Present Perfect: Ever & Never](/blog/curso-a2/unidad-12-present-perfect-ever-never)
 
 Curso:
 
