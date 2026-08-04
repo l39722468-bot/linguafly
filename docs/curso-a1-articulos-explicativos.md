@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U29 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U30 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 29 |
-| Artículos dedicados pendientes | 31 |
+| Artículos dedicados publicados | 30 |
+| Artículos dedicados pendientes | 30 |
 | Unidades con cobertura tangencial (blog-course-map) | 22 |
 
 ---
@@ -76,7 +76,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 27 | Pets & Animals | Vocabulario animales | ✅ | [Pets & Animals A1](/blog/curso-a1/unidad-27-mascotas-animales) |
 | 28 | Body Parts | *have/has got* | ✅ | [Body Parts A1](/blog/curso-a1/unidad-28-partes-cuerpo-have-got) |
 | 29 | Clothes | Present Continuous (ropa) | ✅ | [Clothes A1](/blog/curso-a1/unidad-29-ropa-present-continuous) |
-| 30 | Module 3 Review | Repaso módulo 3 | ⏭️ | Pendiente (opcional) |
+| 30 | Module 3 Review | Repaso módulo 3 | ✅ | [Repaso Módulo 3 A1](/blog/curso-a1/unidad-30-repaso-modulo-3) |
 
 ---
 

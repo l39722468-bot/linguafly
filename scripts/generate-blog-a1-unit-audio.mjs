@@ -624,6 +624,28 @@ const CLIPS_BY_UNIT = {
     'sister-party': 'My sister is wearing a red dress and white shoes. She is wearing a small hat.',
     'brother-jacket': 'My brother is wearing a jacket and jeans. He is wearing a green shirt under the jacket.',
   },
+  30: {
+    'there-is-a-sofa': 'There is a sofa in the living room.',
+    'there-are-two-chairs': 'There are two chairs in the room.',
+    'this-book-is-mine': 'This book is mine.',
+    'she-has-got-blue-eyes': 'She has got blue eyes.',
+    'he-is-wearing-jacket': 'He is wearing a jacket.',
+    'cat-under-table': 'The cat is under the table.',
+    'turn-left-corner': 'Turn left at the corner.',
+    'this-is-my-hand': 'This is my hand. These are my feet.',
+    'bank-next-to': 'The bank is next to the pharmacy.',
+    'i-am-wearing-red': 'I am wearing a red shirt.',
+    'lamp-on-desk': 'There is a lamp on the desk.',
+    'go-straight-past': 'Go straight past the park.',
+    'long-legs-feet': 'She has got long legs and big feet.',
+    'shirt-and-trousers': 'I am wearing a shirt and trousers.',
+    'supermarket-between': 'The supermarket is between the bank and the library.',
+    'i-have-got-two-arms': 'I have got two arms and two hands.',
+    'she-is-wearing-dress': 'She is wearing a red dress.',
+    'anna-flat': 'I live in a small flat. There is a living room, a kitchen, two bedrooms and a bathroom.',
+    'friendly-pet-cat': 'I have got a pet cat. She is very friendly.',
+    'directions-park': 'Near my flat there are a park and a supermarket. Go straight and turn left at the corner.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

@@ -578,6 +578,10 @@ Escribe 8–10 frases sobre tu ropa de hoy (o de una foto). Usa:
 
 En la **Unidad 30** harás el **repaso del Módulo 3** (casa, barrio, direcciones, animales, cuerpo y ropa).
 
+Guía dedicada:
+
+- [Unidad 30 — Repaso Módulo 3](/blog/curso-a1/unidad-30-repaso-modulo-3)
+
 Guías relacionadas:
 
 - [Unidad 28 — Body Parts](/blog/curso-a1/unidad-28-partes-cuerpo-have-got)
