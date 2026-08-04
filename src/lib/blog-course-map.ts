@@ -836,13 +836,70 @@ function getUnitTitle(courseId: string, unitNumber: number): string {
   return titles.get(`${courseId}:${unitNumber}`) ?? `Unidad ${unitNumber}`;
 }
 
+const DEDICATED_UNIT_TOPIC: TopicDefinition = {
+  id: 'articulo-unidad',
+  name: 'Artículo de la unidad',
+  patterns: [],
+  units: [],
+};
+
 function articleSearchText(article: BlogPost): string {
   return [article.slug, article.title, article.category, ...(article.keywords ?? [])].join(' ').toLowerCase();
+}
+
+function sameUnit(a: CourseUnitRef, b: CourseUnitRef): boolean {
+  return a.courseId === b.courseId && a.unitNumber === b.unitNumber;
+}
+
+/** Artículo dedicado del blog del curso: categoría curso-X + slug unidad-N-… */
+export function getDedicatedUnitFromArticle(article: Pick<BlogPost, 'slug' | 'category'>): CourseUnitRef | null {
+  const category = normalizeCategory(article.category);
+  const catMatch = category.match(/^curso-(a1|a2|b1|b2|c1|c2)$/);
+  const slugMatch = article.slug.match(/^unidad-(\d+)(?:-|$)/);
+  if (!catMatch || !slugMatch) return null;
+  return { courseId: catMatch[1], unitNumber: Number(slugMatch[1]) };
+}
+
+/** Prioridad de relevancia (menor = más arriba). 0 = artículo dedicado de esa unidad/curso. */
+export function getRelationRelevanceRank(relation: Pick<BlogCourseRelation, 'articleSlug' | 'articleCategory' | 'courseId' | 'unitNumber'>): number {
+  const dedicatedCat = relation.articleCategory === `curso-${relation.courseId}`;
+  const dedicatedSlug = new RegExp(`^unidad-${relation.unitNumber}(?:-|$)`).test(relation.articleSlug);
+  if (dedicatedCat && dedicatedSlug) return 0;
+
+  const override = SLUG_OVERRIDES[relation.articleSlug];
+  if (override?.length) {
+    const primary = override[0];
+    if (primary.courseId === relation.courseId && primary.unitNumber === relation.unitNumber) return 1;
+    if (override.some((u) => u.courseId === relation.courseId && u.unitNumber === relation.unitNumber)) return 2;
+  }
+
+  if (dedicatedSlug && relation.articleCategory.startsWith('curso-')) return 3;
+  return 4;
+}
+
+export function compareBlogCourseRelations(a: BlogCourseRelation, b: BlogCourseRelation): number {
+  const rankCmp = getRelationRelevanceRank(a) - getRelationRelevanceRank(b);
+  if (rankCmp !== 0) return rankCmp;
+
+  const courseCmp = a.courseLabel.localeCompare(b.courseLabel, 'es');
+  if (courseCmp !== 0) return courseCmp;
+
+  const unitCmp = a.unitNumber - b.unitNumber;
+  if (unitCmp !== 0) return unitCmp;
+
+  return a.articleTitle.localeCompare(b.articleTitle, 'es');
+}
+
+function mergeUnitsPrimaryFirst(primary: CourseUnitRef | null, units: CourseUnitRef[]): CourseUnitRef[] {
+  if (!primary) return units;
+  const rest = units.filter((u) => !sameUnit(u, primary));
+  return [primary, ...rest];
 }
 
 function matchTopicsForArticle(article: BlogPost): { topic: TopicDefinition; units: CourseUnitRef[] }[] {
   const text = articleSearchText(article);
   const results: { topic: TopicDefinition; units: CourseUnitRef[] }[] = [];
+  const dedicated = getDedicatedUnitFromArticle(article);
 
   for (const topic of TOPICS) {
     const matched = topic.patterns.some((p) => p.test(text));
@@ -853,13 +910,27 @@ function matchTopicsForArticle(article: BlogPost): { topic: TopicDefinition; uni
 
   const override = SLUG_OVERRIDES[article.slug];
   if (override?.length) {
-    const primaryTopic = results[0]?.topic ?? {
+    const units = mergeUnitsPrimaryFirst(dedicated, override);
+    const topic = dedicated ? DEDICATED_UNIT_TOPIC : (results[0]?.topic ?? {
       id: 'relacion-directa',
       name: 'Tema relacionado',
       patterns: [],
       units: [],
-    };
-    return [{ topic: primaryTopic, units: override }];
+    });
+    return [{ topic, units }];
+  }
+
+  if (dedicated) {
+    // El artículo dedicado de la unidad siempre entra, aunque no haya override ni patrón.
+    return [
+      { topic: DEDICATED_UNIT_TOPIC, units: [dedicated] },
+      ...results
+        .map((r) => ({
+          ...r,
+          units: r.units.filter((u) => !sameUnit(u, dedicated)),
+        }))
+        .filter((r) => r.units.length > 0),
+    ];
   }
 
   return results;
@@ -906,13 +977,7 @@ export function buildBlogCourseRelations(articles?: BlogPost[]): BlogCourseRelat
     }
   }
 
-  return relations.sort((a, b) => {
-    const titleCmp = a.articleTitle.localeCompare(b.articleTitle, 'es');
-    if (titleCmp !== 0) return titleCmp;
-    const courseCmp = a.courseLabel.localeCompare(b.courseLabel, 'es');
-    if (courseCmp !== 0) return courseCmp;
-    return a.unitNumber - b.unitNumber;
-  });
+  return relations.sort(compareBlogCourseRelations);
 }
 
 export function getAllBlogCourseRelations(): BlogCourseRelation[] {
@@ -957,6 +1022,7 @@ export function getExerciseMapUrlForArticle(slug?: string): string {
 
 export function getUniqueTopics(): { id: string; name: string }[] {
   const topics = new Map<string, string>();
+  topics.set(DEDICATED_UNIT_TOPIC.id, DEDICATED_UNIT_TOPIC.name);
   for (const topic of TOPICS) {
     topics.set(topic.id, topic.name);
   }
