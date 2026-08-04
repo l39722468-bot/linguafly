@@ -602,6 +602,28 @@ const CLIPS_BY_UNIT = {
     'what-on-face': 'What do you have got on your face? I have got two eyes, a nose and a mouth.',
     'brother-short': 'My brother has got a big head and short legs. He is short.',
   },
+  29: {
+    'i-am-wearing-shirt': 'I am wearing a shirt.',
+    'she-is-wearing-dress': 'She is wearing a dress.',
+    'they-are-wearing-hats': 'They are wearing hats.',
+    'blue-trousers': 'I am wearing blue trousers.',
+    'jacket-and-shoes': 'He is wearing a jacket and shoes.',
+    'we-are-wearing-shirts': 'We are wearing white shirts.',
+    'what-are-you-wearing': 'What are you wearing today?',
+    'shirt-and-skirt': 'She is wearing a shirt and a skirt.',
+    'black-shoes': 'I am wearing black shoes.',
+    'red-shirt': 'I am wearing a red shirt.',
+    'dress-and-shoes': 'She is wearing a dress and shoes.',
+    'trousers-and-jacket': 'He is wearing trousers and a jacket.',
+    'shirt-and-trousers': 'I am wearing a shirt and trousers.',
+    'hat-and-jacket': 'She is wearing a hat and a jacket.',
+    'hat-on-head': 'I am wearing a hat on my head.',
+    'dress-white-shoes': 'She is wearing a dress and white shoes.',
+    'jacket-over-shirt': 'He is wearing a jacket over his shirt.',
+    'today-outfit': 'Today I am wearing a blue shirt and grey trousers. I am wearing black shoes.',
+    'sister-party': 'My sister is wearing a red dress and white shoes. She is wearing a small hat.',
+    'brother-jacket': 'My brother is wearing a jacket and jeans. He is wearing a green shirt under the jacket.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

@@ -616,6 +616,10 @@ Escribe 8–10 frases. Usa:
 
 En la **Unidad 29** aprenderás **ropa** y el **Present Continuous** (*I’m wearing…*).
 
+Guía dedicada:
+
+- [Unidad 29 — Clothes (Present Continuous)](/blog/curso-a1/unidad-29-ropa-present-continuous)
+
 Guías relacionadas:
 
 - [Unidad 27 — Pets & Animals](/blog/curso-a1/unidad-27-mascotas-animales)
