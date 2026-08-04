@@ -43,6 +43,21 @@ const CLIPS_BY_UNIT = {
     'last-weekend': 'Last weekend I walked in the park and played football. On Sunday I visited my grandmother and cooked lunch with her.',
     'practice-three': 'I walked to the shop yesterday. I visited my friend last week. I finished my homework two hours ago.',
   },
+  3: {
+    'went-cinema': 'I went to the cinema yesterday.',
+    'saw-film': 'She saw a film last night.',
+    'had-great-time': 'We had a great time at the party.',
+    'made-cake': 'He made a cake for his birthday.',
+    'wrote-letter': 'I wrote a letter to my friend last week.',
+    'bought-dress': 'She bought a new dress yesterday.',
+    'reading-weekend': 'Last weekend I had a wonderful time. On Saturday morning I went to the market and bought some fresh fruit and vegetables. Then I saw my old friend Tom at the cafe. We had coffee together and talked for hours. In the afternoon I went home and made a delicious cake for my family. My sister wrote a letter to our grandmother and I helped her with it. In the evening we saw a film on TV. It was very good!',
+    'dialogue-london': 'Hi! I want to tell you about my trip last month. I went to London with my family. We had a wonderful time! On the first day we went to the British Museum. I saw many interesting things there. Then we bought some souvenirs from a shop near the museum. My sister wrote postcards to her friends. In the evening we made dinner at our hotel. It was delicious! I really enjoyed the trip.',
+    'went-park': 'Last week I went to the park. I saw many people there.',
+    'bought-shirt': 'Last time I went shopping I bought a new shirt and some books.',
+    'made-pasta': 'Yesterday I made pasta for dinner. I had it with salad.',
+    'barcelona-trip': 'Last summer I went to Barcelona. I saw the Sagrada Familia and many beautiful places. I bought some souvenirs for my family. I had a wonderful time!',
+    'practice-three': 'I went to the shop yesterday. She bought a new book last week. He made a delicious dinner last night.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

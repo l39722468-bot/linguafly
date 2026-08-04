@@ -412,8 +412,9 @@ La **Unidad 3** entra en los **verbos irregulares**: *went, saw, had, made, wrot
 
 En la **Unidad 3** estudiarás **Past Simple: Irregular Verbs**: *went, saw, had, made* y otros frecuentes para relatos del pasado.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 3 — Past Simple: verbos irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)
 - [Unidad 3 — Past Simple: verbos irregulares](/curso-a2/unit-3)
 
 Guías relacionadas:
