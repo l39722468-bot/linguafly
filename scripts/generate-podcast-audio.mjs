@@ -181,6 +181,14 @@ function bufferFromTtsResponse(buf) {
   return out;
 }
 
+function isQuotaExhaustedError(message) {
+  const msg = String(message);
+  return (
+    msg.includes('429') &&
+    (msg.includes('daily free allocation') || msg.includes('"code":4006'))
+  );
+}
+
 async function ttsWithRetry(text, speaker, retries = MAX_RETRIES) {
   for (let attempt = 1; attempt <= retries; attempt++) {
     try {
@@ -223,6 +231,7 @@ async function ttsWithRetry(text, speaker, retries = MAX_RETRIES) {
       const raw = Buffer.from(await res.arrayBuffer());
       return bufferFromTtsResponse(raw);
     } catch (err) {
+      if (isQuotaExhaustedError(err.message)) throw err;
       if (attempt === retries) throw err;
       console.warn(`    ⚠️  Attempt ${attempt} failed: ${err.message}. Retrying...`);
       await new Promise((r) => setTimeout(r, 1000 * attempt));
@@ -233,8 +242,10 @@ async function ttsWithRetry(text, speaker, retries = MAX_RETRIES) {
 let generated = 0;
 let skipped = 0;
 let errors = 0;
+let quotaExhausted = false;
 
 for (const episode of episodes) {
+  if (quotaExhausted) break;
   const outFile = path.join(OUT_DIR, `${episode.id}.mp3`);
 
   if (fs.existsSync(outFile) && !FORCE) {
@@ -268,6 +279,12 @@ for (const episode of episodes) {
     console.log(`    ✅  Saved → ${path.relative(ROOT, outFile)}\n`);
     generated++;
   } catch (err) {
+    if (isQuotaExhaustedError(err.message)) {
+      console.error(`    ⏸️  Cuota diaria agotada: ${err.message.slice(0, 200)}\n`);
+      quotaExhausted = true;
+      errors++;
+      break;
+    }
     console.error(`    ❌  Failed: ${err.message}\n`);
     errors++;
   } finally {
@@ -278,6 +295,9 @@ for (const episode of episodes) {
 
 console.log('─'.repeat(50));
 console.log(`✅  Generated: ${generated}  ⏭️  Skipped: ${skipped}  ❌  Errors: ${errors}`);
+if (quotaExhausted) {
+  console.log('\n⏸️  Cuota diaria de Cloudflare agotada. Vuelve a ejecutar mañana o activa Workers Paid.');
+}
 
 if (generated > 0) {
   console.log('\n🔄  Sincronizando manifest de audio disponible...');
@@ -285,4 +305,4 @@ if (generated > 0) {
   execSync('node scripts/sync-podcast-audio-manifest.mjs', { cwd: ROOT, stdio: 'inherit' });
 }
 
-if (errors > 0) process.exit(1);
+if (errors > 0 && !quotaExhausted) process.exit(1);

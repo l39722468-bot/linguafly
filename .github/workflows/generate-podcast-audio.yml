@@ -20,6 +20,9 @@ on:
     branches: [main]
     paths:
       - ".github/trigger-podcast-audio"
+  schedule:
+    # Continúa generando episodios faltantes cada día a las 06:00 UTC (reset cuota free tier)
+    - cron: "0 6 * * *"
 
 permissions:
   contents: write
