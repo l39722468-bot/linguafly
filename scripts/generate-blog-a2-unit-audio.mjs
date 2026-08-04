@@ -89,6 +89,24 @@ const CLIPS_BY_UNIT = {
     'books-films': 'Reading books is more interesting than watching films for me. Books are better because you use your imagination more.',
     'practice-three': 'My brother is taller than me. This phone is more expensive than that one. She is as tall as her sister.',
   },
+  6: {
+    'highest-mountain': 'Mount Everest is the highest mountain in the world.',
+    'most-intelligent': 'She is the most intelligent student in the class.',
+    'coldest-day': 'This is the coldest day of the year.',
+    'tallest-boy': 'He is the tallest boy in the school.',
+    'most-interesting-book': 'This is the most interesting book I have ever read.',
+    'most-beautiful-film': 'This is the most beautiful film I have ever seen.',
+    'best-film': 'This is the best film I have ever seen.',
+    'best-restaurant': 'The best restaurant in town serves the most delicious food.',
+    'hottest-month': 'July is the hottest month of the year.',
+    'biggest-of-towns': 'The main square is the biggest of all the towns near.',
+    'reading-hometown': "My hometown is small but beautiful. It has the oldest church in the region. The main square is the biggest of all the towns near. In summer, July is the hottest month of the year. My grandmother lives in the tallest building in town. She says it is the most beautiful view she has ever seen. The best restaurant in town serves the most delicious food. I think my hometown is the best place in the world!",
+    'dialogue-park': 'Hi! Today I want to tell you about my favourite place in the city. It is the biggest park in town. It has the tallest trees I have ever seen. In the centre there is a lake with the most beautiful swans. The best time to visit is early in the morning when it is the quietest. My sister says it is the most peaceful place in the world. I agree!',
+    'beautiful-park': 'The most beautiful place in my city is the main park. It has the tallest trees and the best view.',
+    'coldest-hottest': 'The coldest month in my country is January. The hottest is August.',
+    'city-summary': 'My city has the biggest park in the region. The oldest church is in the centre. The best restaurant serves the most delicious food. I think my city is the most beautiful place in the world!',
+    'practice-three': 'The tallest person in my family is my brother. The best restaurant in my town is called La Luna. It is the most peaceful place in the world.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

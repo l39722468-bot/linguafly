@@ -441,8 +441,9 @@ La **Unidad 6** entra en **superlativos**: *the tallest*, *the most beautiful*, 
 
 En la **Unidad 6** estudiarás **Superlatives**: *-est*, *the most*, y el uso de *in* / *of*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 6 — Superlativos](/blog/curso-a2/unidad-6-superlativos-est-the-most)
 - [Unidad 6 — Superlativos](/curso-a2/unit-6)
 
 Guías relacionadas:
