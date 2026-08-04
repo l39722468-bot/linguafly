@@ -756,6 +756,28 @@ const CLIPS_BY_UNIT = {
     'she-goes-for-a-walk': 'She goes for a walk every day.',
     'likes-going-shopping': 'They like going shopping on Saturdays.',
   },
+  36: {
+    'play-the-piano': 'I play the piano.',
+    'plays-the-guitar': 'She plays the guitar.',
+    'plays-the-drums': 'He plays the drums.',
+    'play-the-violin': 'We play the violin.',
+    'play-the-flute': 'They play the flute.',
+    'play-piano-and-guitar': 'I play the piano and the guitar.',
+    'can-play-the-flute': 'My mum can play the flute.',
+    'can-you-play-violin': 'Can you play the violin?',
+    'he-can-play-flute': 'He can play the flute.',
+    'she-can-play-violin': 'She can play the violin.',
+    'brother-drums-band': 'My brother plays the drums in a band.',
+    'sister-plays-violin': 'My sister plays the violin. She is very good.',
+    'sometimes-play-together': 'We sometimes play together at home.',
+    'music-important': 'Music is important in our family.',
+    'noah-intro': 'My name is Noah. I play the piano and the guitar.',
+    'started-when-eight': 'I started when I was eight.',
+    'mum-flute-practice': "My mum can play the flute but she doesn't practice often.",
+    'do-you-play': 'Do you play the piano?',
+    'yes-i-play': 'Yes, I play the guitar.',
+    'i-dont-play': "No, I don't play any instruments.",
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
