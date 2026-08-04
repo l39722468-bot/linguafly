@@ -712,6 +712,28 @@ const CLIPS_BY_UNIT = {
     'never-forget-keys': 'She never forgets her keys.',
     'always-usually-often': 'I always get up early. I usually have breakfast. I often go running.',
   },
+  34: {
+    'like-coffee-and-tea': 'I like coffee and tea.',
+    'like-pizza-and-pasta': 'I like pizza and pasta.',
+    'like-dogs-and-cats': 'I like dogs and cats.',
+    'like-sport-and-music': 'I like sport and music.',
+    'football-but-dont-watch': "I play football but I don't like watching it on TV.",
+    'like-tea-but-not-coffee': "I like tea but I don't like coffee.",
+    'swimming-but-not-running': "I like swimming but I don't like running.",
+    'tall-but-brother-short': 'She is tall but her brother is short.',
+    'stay-home-because-tired': 'I stay at home because I am tired.',
+    'eat-pasta-because-like': 'We eat pasta because we like it.',
+    'like-pizza-because-tasty': 'I like pizza because it is easy to make and tasty.',
+    'tired-because-no-sleep': "I'm tired because I didn't sleep well.",
+    'happy-because-passed': 'We are happy because we passed the exam.',
+    'dont-like-fish-but': "I don't like fish but I eat it sometimes because it's healthy.",
+    'meet-friends-and-cinema': 'At weekends I meet friends and we go to the cinema.',
+    'like-it-because-cheap': "I like it because it's cheap.",
+    'fast-but-dont-like-running': "He is fast but he doesn't like running.",
+    'sad-because-lost-phone': 'She is sad because she lost her phone.',
+    'leo-intro': 'My name is Leo. I like sport and music.',
+    'prefer-play-outside': 'I prefer to play outside.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
