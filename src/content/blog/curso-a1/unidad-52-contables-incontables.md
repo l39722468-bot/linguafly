@@ -477,8 +477,9 @@ La **Unidad 53** trabaja ***some & any*** en afirmativas, negativas y preguntas.
 
 En la **Unidad 53** estudiarás ***some & any***: *I need some milk* / *We don't have any eggs* / *Do you have any rice?*
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 53 — Some & Any](/blog/curso-a1/unidad-53-some-any)
 - [Unidad 53 — Some & Any](/curso-a1/unit-53)
 
 Guías relacionadas:

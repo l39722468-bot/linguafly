@@ -1139,6 +1139,27 @@ const CLIPS_BY_UNIT = {
     'buy-water-apples': "I'll buy water and many apples.",
     'alot-sugar-already': 'We have a lot of sugar already.',
   },
+  53: {
+    'have-some-milk': 'I have some milk in the fridge.',
+    'isnt-any-bread': "There isn't any bread left.",
+    'have-any-eggs': 'Do you have any eggs?',
+    'doesnt-have-any-rice': "She doesn't have any rice.",
+    'need-some-water-apples': 'We need some water and some apples.',
+    'some-rice-in-box': 'I have some rice in a box.',
+    'dont-have-any': "No, I don't have any.",
+    'isnt-any-rice': "There isn't any rice left.",
+    'some-milk-please': 'Some milk, please.',
+    'would-like-some-tea': 'Would you like some tea?',
+    'bottle-of-water': 'I need a bottle of water.',
+    'box-of-cereal': 'There is a box of cereal on the table.',
+    'can-of-cola': 'Buy a can of cola.',
+    'apples-in-bag': 'There are some apples in the bag.',
+    'reading-fridge': "I open the fridge. There is some milk and some water in bottles. There isn't any bread left. In the cupboard I have some rice in a box and some cans of beans. Do we have any fruit? Yes, there are some apples in the bag. I need to buy some bread and some eggs.",
+    'dialogue-full': "Do you have any bread? No, I don't have any. I have some in the bag. Do you need a bottle of water or some milk? Some milk, please. There are some cans of cola in the fridge. Do you want any? No, thanks. I need to buy some eggs and a box of cereal.",
+    'have-any-milk-yes': 'Do we have any milk? Yes, we have some.',
+    'arent-any-eggs': "There aren't any eggs left.",
+    'bag-of-potatoes': 'I need a bag of potatoes.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
