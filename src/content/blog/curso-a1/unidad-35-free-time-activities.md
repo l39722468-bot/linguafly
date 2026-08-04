@@ -590,7 +590,7 @@ Escribe 8–10 frases. Incluye:
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 36** aprenderás **instrumentos musicales** con ***play the*** (*play the guitar, play the piano*).
+Continúa con la [**Unidad 36 — Instrumentos musicales**](/blog/curso-a1/unidad-36-instrumentos-musicales): *play the piano*, *play the guitar*, *play the drums*.
 
 Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre tu free time usando *go for a walk* o *go shopping*, más dos *like + -ing*.
 
