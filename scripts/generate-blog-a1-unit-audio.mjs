@@ -690,6 +690,28 @@ const CLIPS_BY_UNIT = {
     'jake-football': 'I play football every Saturday with my team.',
     'active-family': 'We are an active family.',
   },
+  33: {
+    'always-get-up': 'I always get up at 7 in the morning.',
+    'usually-breakfast': 'I usually have breakfast with my family.',
+    'often-go-running': 'I often go running before work.',
+    'sometimes-meet-friends': 'I sometimes meet friends for lunch.',
+    'never-eat-late': 'I never eat late at night.',
+    'always-relax-weekends': 'At weekends I always relax and read books.',
+    'she-is-never-late': 'She is never late.',
+    'they-are-always-busy': 'They are always busy.',
+    'i-usually-get-up': 'I usually get up at 7.',
+    'we-sometimes-cinema': 'We sometimes go to the cinema.',
+    'he-is-never-late': 'He is never late.',
+    'i-always-have-breakfast': 'I always have breakfast at 8.',
+    'i-often-watch-tv': 'I often watch TV in the evening.',
+    'she-never-eats-meat': 'She never eats meat.',
+    'we-usually-drink-coffee': 'I usually drink coffee in the morning.',
+    'how-often-do-you': 'How often do you go running?',
+    'i-often-go-gym': 'I often go to the gym.',
+    'emma-routine': 'I always get up at 7. I usually have breakfast with my family.',
+    'never-forget-keys': 'She never forgets her keys.',
+    'always-usually-often': 'I always get up early. I usually have breakfast. I often go running.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

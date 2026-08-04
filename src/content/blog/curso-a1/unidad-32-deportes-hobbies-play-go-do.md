@@ -569,7 +569,7 @@ Escribe 8–10 frases. Incluye:
 
 ## Siguiente paso en el curso A1
 
-En la **Unidad 33** aprenderás **adverbios de frecuencia** (*always, usually, sometimes, never…*) para decir *I always play football* o *She sometimes goes swimming*.
+Continúa con la [**Unidad 33 — Adverbios de frecuencia**](/blog/curso-a1/unidad-33-adverbios-frecuencia): *always, usually, often, sometimes, never*.
 
 Antes de pasar de unidad, escribe ocho frases reales sobre tu semana: dos con *play*, dos con *go …ing*, dos con *do*, y dos hobbies con *like + -ing*. Léelas en voz alta y comprueba la *-s* de la tercera persona.
 
