@@ -479,6 +479,9 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-7-adverbios-modo-ly': [
     { courseId: 'a2', unitNumber: 7 },
   ],
+  'unidad-8-preposiciones-tiempo-at-on-in': [
+    { courseId: 'a2', unitNumber: 8 },
+  ],
   'unidad-2-to-be-pronombres-nacionalidades': [
     { courseId: 'a1', unitNumber: 2 },
     { courseId: 'a1', unitNumber: 3 },

@@ -20,8 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-7-adverbios-modo-ly'
 image: /blog/curso-a2/unit-7/a2-unit7-adverbs-manner.png
 alt: Esquema de adverbios de modo con -ly para inglés A2
 related_routes:
+  - unidad-8-preposiciones-tiempo-at-on-in
   - unidad-6-superlativos-est-the-most
-  - unidad-5-comparativos-er-more-than
   - ingles-a2
 faqs:
   - question: ¿Cómo se forman la mayoría de los adverbios de modo?
@@ -428,6 +428,10 @@ La **Unidad 8** entra en **preposiciones de tiempo**: *at, on, in*.
 ## Siguiente paso en el curso A2
 
 En la **Unidad 8** estudiarás **Prepositions of Time**: *at* (hora), *on* (días/fechas), *in* (meses/años/partes del día).
+
+Guía blog:
+
+- [Unidad 8 — Preposiciones de tiempo (*at, on, in*)](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in)
 
 Curso:
 
