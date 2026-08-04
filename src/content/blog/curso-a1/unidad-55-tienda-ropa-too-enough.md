@@ -452,8 +452,9 @@ La **Unidad 56** te lleva al restaurante: pedir comida y bebidas.
 
 En la **Unidad 56** estudiarás **At the Restaurant**: pedir en el restaurante (*I'd like…*, *Can I have…?*, menú).
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 56 — At the Restaurant](/blog/curso-a1/unidad-56-restaurante-pedidos)
 - [Unidad 56 — At the Restaurant](/curso-a1/unit-56)
 
 Guías relacionadas:
