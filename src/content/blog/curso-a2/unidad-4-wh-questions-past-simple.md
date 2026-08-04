@@ -408,8 +408,9 @@ La **Unidad 5** entra en **comparativos**: *bigger than*, *more expensive than*,
 
 En la **Unidad 5** estudiarás **Comparatives**: *-er*, *more… than* y una introducción a *as… as*.
 
-Curso:
+Guía dedicada y curso:
 
+- [Unidad 5 — Comparativos](/blog/curso-a2/unidad-5-comparativos-er-more-than)
 - [Unidad 5 — Comparativos](/curso-a2/unit-5)
 
 Guías relacionadas:

@@ -71,6 +71,24 @@ const CLIPS_BY_UNIT = {
     'dialogue-sister': "Hi! Yesterday I had a really strange day. My sister called me in the morning and asked me many questions. First she asked what I did last weekend. I said I went to the beach. Then she asked where I went exactly. I said I went to Valencia. She asked when I left. I said I left on Sunday afternoon. She asked who I went with. I said I went with my friends Ana and Pablo. She asked why I did not tell her before. I said because I forgot! Finally she asked how the trip went. I said it was amazing!",
     'practice-four': 'What did you do last weekend? Where did you go? Who did you go with? How did the trip go?',
   },
+  5: {
+    'taller-than': 'My brother is taller than me.',
+    'more-interesting': 'This book is more interesting than that one.',
+    'hotter-than': 'Summer is hotter than winter.',
+    'more-expensive': 'My car is more expensive than yours.',
+    'more-interesting-city': 'Our city is more interesting than the village.',
+    'more-difficult': 'This exercise is more difficult than the last.',
+    'better-than': 'This film is better than the other.',
+    'better-camera': 'The new phone has a better camera than the old one.',
+    'worse-than': 'Today the weather is worse than yesterday.',
+    'as-tall-as': 'She is as tall as her sister.',
+    'reading-sisters': "My name is Laura and I have two sisters. My older sister Maria is taller than me and she has longer hair than I do. My younger sister Sofia is shorter than both of us but she is faster than us when we run. Our house is bigger than our grandmother's house but grandmother's garden is more beautiful than ours. I think our city is more interesting than the village where grandmother lives but the village is quieter than the city.",
+    'dialogue-phones': 'Hi! I want to tell you about my two phones. I have an old phone and a new one. The new phone is bigger than the old one but the old one is lighter than the new one. The new phone has a better camera than the old one. The battery is more powerful than before. I think the new phone is more expensive than the old one but it is much more useful than that one. Overall I prefer the new one because it is faster than my old phone.',
+    'city-valencia': 'My city is bigger than Valencia. Valencia is more beautiful than my city.',
+    'summer-winter': 'Summer is hotter than winter. Winter is colder than summer.',
+    'books-films': 'Reading books is more interesting than watching films for me. Books are better because you use your imagination more.',
+    'practice-three': 'My brother is taller than me. This phone is more expensive than that one. She is as tall as her sister.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

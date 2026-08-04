@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U4 ≥2000 palabras)  
+**Última actualización:** 2026-08-04 (artículos U1–U5 ≥2000 palabras)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 4 |
-| Artículos dedicados pendientes | 56 |
+| Artículos dedicados publicados | 5 |
+| Artículos dedicados pendientes | 55 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -37,7 +37,7 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | 2 | Past Simple: Regular Verbs | *-ed*; yesterday / last week / ago | ✅ | [Past Simple regulares A2](/blog/curso-a2/unidad-2-past-simple-verbos-regulares) |
 | 3 | Past Simple: Irregular Verbs | went, saw, had, made, wrote, bought | ✅ | [Past Simple irregulares A2](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares) |
 | 4 | Wh-questions in the Past | What/Where/When/Who/Why/How did…? | ✅ | [Wh-questions Past A2](/blog/curso-a2/unidad-4-wh-questions-past-simple) |
-| 5 | Comparatives | *-er*, more… than | ❌ | Pendiente |
+| 5 | Comparatives | *-er*, more… than, better, as… as | ✅ | [Comparativos A2](/blog/curso-a2/unidad-5-comparativos-er-more-than) |
 | 6 | Superlatives | *-est*, the most | ❌ | Pendiente |
 | 7 | Adverbs of Manner | *-ly*; well, fast, hard | ❌ | Pendiente |
 | 8 | Prepositions of Time | at / on / in | ❌ | Pendiente |
