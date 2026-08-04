@@ -16,6 +16,10 @@ on:
         required: false
         default: ""
         type: string
+  push:
+    branches: [main]
+    paths:
+      - ".github/trigger-podcast-audio"
 
 permissions:
   contents: write
@@ -38,11 +42,13 @@ jobs:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
         run: |
           ARGS=""
-          if [ "${{ inputs.force }}" = "true" ]; then
+          FORCE_INPUT="${{ github.event_name == 'workflow_dispatch' && inputs.force || 'false' }}"
+          EPISODE_INPUT="${{ github.event_name == 'workflow_dispatch' && inputs.episode || '' }}"
+          if [ "$FORCE_INPUT" = "true" ]; then
             ARGS="$ARGS --force"
           fi
-          if [ -n "${{ inputs.episode }}" ]; then
-            ARGS="$ARGS --episode ${{ inputs.episode }}"
+          if [ -n "$EPISODE_INPUT" ]; then
+            ARGS="$ARGS --episode $EPISODE_INPUT"
           fi
           node scripts/generate-podcast-audio.mjs $ARGS
 
