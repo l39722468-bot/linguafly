@@ -19,8 +19,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-12-present-perfect-ev
 image: /blog/curso-a2/unit-12/a2-unit12-ever-never.png
 alt: Esquema Have you ever e I have never del Present Perfect A2
 related_routes:
+  - unidad-13-present-perfect-already-yet
   - unidad-11-present-perfect-introduccion
-  - unidad-10-repaso-modulo-1
   - ingles-a2
 faqs:
   - question: ¿Cuándo uso ever en Present Perfect?
@@ -410,6 +410,10 @@ La **Unidad 13** añade **already** y **yet**: *I have already…* / *I haven't�
 ## Siguiente paso en el curso A2
 
 En la **Unidad 13** estudiarás **Present Perfect: Already & Yet**: *I have already finished* / *I haven't finished yet*.
+
+Guía blog:
+
+- [Unidad 13 — Present Perfect: Already & Yet](/blog/curso-a2/unidad-13-present-perfect-already-yet)
 
 Curso:
 
