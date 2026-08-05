@@ -66,6 +66,18 @@ const categoryMetadata: Record<string, { name: string, description: string, icon
     description: "Mejora tu Speaking, Listening, Reading y Writing con técnicas y ejercicios prácticos.",
     icon: "🗣️",
     color: "from-violet-600 to-purple-700"
+  },
+  "curso-a1": {
+    name: "Curso de Inglés A1: Guías por Unidad",
+    description: "Artículos explicativos del curso A1: gramática, vocabulario y práctica unidad a unidad, con ejemplos y ejercicios.",
+    icon: "📗",
+    color: "from-emerald-600 to-teal-700"
+  },
+  "curso-a2": {
+    name: "Curso de Inglés A2: Guías por Unidad",
+    description: "Artículos explicativos del curso A2: Past Simple, Present Perfect, comparativos, preposiciones y más, unidad a unidad.",
+    icon: "📘",
+    color: "from-sky-600 to-indigo-700"
   }
 };
 
@@ -88,7 +100,18 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   return {
     title: `${optimizeSEOTitle(meta.name)} | Blog ${SITE_BRAND_NAME}`,
     description: meta.description,
-    keywords: category === 'trabajo' ? ['inglés profesional', 'inglés trabajo', 'business english'] : category === 'viajes' ? ['inglés viajes', 'inglés turismo'] : category === 'examenes' ? ['exámenes inglés', 'Cambridge', 'IELTS', 'TOEFL'] : undefined,
+    keywords:
+      category === 'trabajo'
+        ? ['inglés profesional', 'inglés trabajo', 'business english']
+        : category === 'viajes'
+          ? ['inglés viajes', 'inglés turismo']
+          : category === 'examenes'
+            ? ['exámenes inglés', 'Cambridge', 'IELTS', 'TOEFL']
+            : category === 'curso-a2'
+              ? ['curso inglés A2', 'Present Perfect A2', 'Past Simple A2', 'guías curso A2']
+              : category === 'curso-a1'
+                ? ['curso inglés A1', 'guías curso A1', 'inglés principiante']
+                : undefined,
     alternates: {
       canonical: getAbsoluteUrl(`/blog/${category}`),
     },

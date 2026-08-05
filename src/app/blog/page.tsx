@@ -93,6 +93,18 @@ export default function BlogPage() {
       description: "Mejora tu Speaking, Listening, Reading y Writing con técnicas prácticas.",
       icon: "🗣️",
       color: "from-violet-600 to-purple-700"
+    },
+    "curso-a1": {
+      name: "Curso A1: Guías por Unidad",
+      description: "Artículos explicativos del curso A1, unidad a unidad.",
+      icon: "📗",
+      color: "from-emerald-600 to-teal-700"
+    },
+    "curso-a2": {
+      name: "Curso A2: Guías por Unidad",
+      description: "Artículos explicativos del curso A2, unidad a unidad.",
+      icon: "📘",
+      color: "from-sky-600 to-indigo-700"
     }
   };
 
@@ -106,6 +118,8 @@ export default function BlogPage() {
     gramatica: "Gramática",
     vocabulario: "Vocabulario",
     habilidades: "Habilidades (speaking, listening…)",
+    "curso-a1": "Curso A1",
+    "curso-a2": "Curso A2",
   };
 
   const searchCategoryOptions = Array.from(

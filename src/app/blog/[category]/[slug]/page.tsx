@@ -419,6 +419,30 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       {article.content}
                     </ReactMarkdown>
 
+                    {/* FAQs visibles (alineadas con FAQPage schema) */}
+                    {article.faqs && article.faqs.length > 0 && (
+                      <div className="mt-16 border-t border-slate-100 pt-12 not-prose">
+                        <h2 className="font-display text-3xl font-black text-slate-900 mb-8">
+                          Preguntas frecuentes
+                        </h2>
+                        <div className="space-y-8">
+                          {article.faqs.map((faq, index) => (
+                            <div key={index}>
+                              <h3 className="font-bold text-slate-900 text-xl mb-3 flex items-start gap-3">
+                                <span className="text-coral-600" aria-hidden>
+                                  Q.
+                                </span>
+                                {faq.question}
+                              </h3>
+                              <p className="text-slate-600 text-lg leading-relaxed pl-8 border-l-2 border-slate-100">
+                                {faq.answer}
+                              </p>
+                            </div>
+                          ))}
+                        </div>
+                      </div>
+                    )}
+
                     {/* SEO Interlinking Block */}
                     <div className="print-hidden">
                       <SEOInterlinking category={normalizedCategory} />

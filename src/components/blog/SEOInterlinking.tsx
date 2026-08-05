@@ -14,6 +14,8 @@ export function SEOInterlinking({ relatedRoute, category }: SEOInterlinkingProps
     examenes: "mejores-certificados-ingles-2026",
     metodos: "aprender-ingles",
     "material-estudio": "aprender-ingles",
+    "curso-a1": "ingles-a1",
+    "curso-a2": "ingles-a2",
   };
 
   const finalRoute = relatedRoute || (category ? routeMap[category] : "aprender-ingles") || "aprender-ingles";
@@ -29,6 +31,10 @@ export function SEOInterlinking({ relatedRoute, category }: SEOInterlinkingProps
       href = "/blog/gramatica/gramatica-inglesa-guia";
     } else if (finalRoute === "mejores-certificados-ingles-2026") {
       href = "/blog/examenes/mejores-certificados-ingles-2026";
+    } else if (finalRoute === "ingles-a1") {
+      href = "/blog/metodos/ingles-a1";
+    } else if (finalRoute === "ingles-a2") {
+      href = "/blog/metodos/ingles-a2";
     } else {
       const slug = finalRoute.replace(/^ingles-/, "");
       if (slug === "b1") {
@@ -53,9 +59,22 @@ export function SEOInterlinking({ relatedRoute, category }: SEOInterlinkingProps
 
   const routeName = routeNameMap[finalRoute] || "nuestros cursos especializados";
 
+  const courseSeriesHref =
+    category === "curso-a2"
+      ? "/blog/curso-a2"
+      : category === "curso-a1"
+        ? "/blog/curso-a1"
+        : null;
+  const coursePracticeHref =
+    category === "curso-a2"
+      ? "/curso-a2"
+      : category === "curso-a1"
+        ? "/curso-a1"
+        : null;
+
   return (
     <div className="my-12 p-8 bg-gradient-to-br from-slate-50 to-coral-50 rounded-3xl border border-coral-100 shadow-sm">
-      <h3 className="text-xl font-bold text-slate-900 mb-4">🚀 Sigue mejorando tu inglés</h3>
+      <h3 className="text-xl font-bold text-slate-900 mb-4">Sigue mejorando tu inglés</h3>
       <p className="text-slate-700 mb-6 leading-relaxed">
         Si te ha servido esta guía, te recomendamos profundizar con nuestro <strong>{routeName}</strong> o volver a nuestra sección principal para seguir aprendiendo.
       </p>
@@ -66,7 +85,23 @@ export function SEOInterlinking({ relatedRoute, category }: SEOInterlinkingProps
         >
           Ver {routeName}
         </Link>
-        {!isHub && (
+        {courseSeriesHref && (
+          <Link
+            href={courseSeriesHref}
+            className="inline-flex items-center justify-center bg-white border-2 border-slate-200 text-slate-700 px-6 py-3 rounded-xl font-bold hover:border-coral-200 hover:bg-coral-50/30 transition-all"
+          >
+            Todas las guías del curso
+          </Link>
+        )}
+        {coursePracticeHref && (
+          <Link
+            href={coursePracticeHref}
+            className="inline-flex items-center justify-center bg-white border-2 border-slate-200 text-slate-700 px-6 py-3 rounded-xl font-bold hover:border-coral-200 hover:bg-coral-50/30 transition-all"
+          >
+            Practicar en el curso
+          </Link>
+        )}
+        {!isHub && !courseSeriesHref && (
           <Link 
             href="/aprender-ingles"
             className="inline-flex items-center justify-center bg-white border-2 border-slate-200 text-slate-700 px-6 py-3 rounded-xl font-bold hover:border-coral-200 hover:bg-coral-50/30 transition-all"
