@@ -103,6 +103,25 @@ export function getBlogArticles(): BlogPost[] {
 
   // Sort by date descending
   articlesCache = articles.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+  // Prioritize recent course articles (curso-a1, curso-a2) by moving them to the front of the list.
+  // Default window: RECENT_DAYS (14). Adjust as needed.
+  try {
+    const RECENT_DAYS = 14;
+    const priorityCats = new Set(["curso-a1", "curso-a2"]);
+    const now = Date.now();
+    const recentThreshold = now - RECENT_DAYS * 24 * 60 * 60 * 1000;
+
+    const recentPriority = articlesCache.filter(a => priorityCats.has(a.category) && new Date(a.date).getTime() >= recentThreshold);
+    if (recentPriority.length > 0) {
+      const rest = articlesCache.filter(a => !(priorityCats.has(a.category) && new Date(a.date).getTime() >= recentThreshold));
+      articlesCache = [...recentPriority, ...rest];
+    }
+  } catch (err) {
+    // Non-blocking: if anything goes wrong, keep the date-sorted order.
+    console.error('[BlogLib] failed to apply course prioritization:', err);
+  }
+
   return articlesCache;
 }
 
