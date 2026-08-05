@@ -201,6 +201,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-survey': 'Hi! I am doing a survey about experiences. Can I ask you some questions? Great! Have you ever tried sushi? Yes, I have. I tried it in Tokyo last year. It was amazing. Have you ever ridden a horse? No, I haven\'t. I would like to try one day. Have you ever been to a football match? Yes, I have. Many times! I love football. Thank you for your answers!',
     'practice-four': 'Have you ever been to Japan? I have never eaten sushi. Yes, I have. No, I haven\'t.',
   },
+  13: {
+    'have-already-finished': 'I have already finished my homework.',
+    'havent-done-shopping-yet': 'I haven\'t done the shopping yet.',
+    'has-she-cleaned-yet': 'Has she cleaned her room yet?',
+    'has-already-eaten': 'He has already eaten breakfast.',
+    'have-you-washed-yet': 'Have you washed the dishes yet?',
+    'havent-finished-yet': 'I haven\'t finished yet.',
+    'havent-called-yet': 'She hasn\'t called yet.',
+    'have-already-cleaned': 'I have already cleaned my room.',
+    'reading-sofia': 'My name is Sofia. I have many tasks every day. This morning I have already cleaned my room and done the washing. I have already finished my homework too. But I haven\'t paid the electricity bill yet. I must do it today. I also haven\'t called my grandmother yet. She is waiting for my call. I feel good because I have already completed most of my obligations today.',
+    'dialogue-lucas': 'Hi! I am Lucas. I have a busy week. Today I have already done my chores and finished the shopping. I have already cleaned the kitchen too. But I haven\'t sent the emails yet. I must do that before dinner. I also haven\'t called my boss yet. He is waiting for my call. I feel relaxed because I have already completed most of my tasks for today.',
+    'practice-four': 'I have already finished my homework. I haven\'t done the shopping yet. Has she cleaned her room yet? He has already eaten breakfast.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
