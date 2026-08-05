@@ -153,12 +153,20 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   );
 
   urls.push(
-    ...articles.map((article) => ({
-      url: `${baseUrl}/blog/${normalizeCategory(article.category)}/${article.slug}`,
-      lastModified: new Date(article.updatedDate || article.date),
-      changeFrequency: "monthly" as const,
-      priority: 0.7,
-    }))
+    ...articles.map((article) => {
+      const category = normalizeCategory(article.category);
+      const isDedicatedCourseUnit =
+        /^curso-(a1|a2|b1|b2|c1|c2)$/.test(category) &&
+        /^unidad-\d+/.test(article.slug);
+
+      return {
+        url: `${baseUrl}/blog/${category}/${article.slug}`,
+        lastModified: new Date(article.updatedDate || article.date),
+        changeFrequency: "monthly" as const,
+        // Guías dedicadas por unidad: señal de prioridad frente a posts genéricos.
+        priority: isDedicatedCourseUnit ? 0.85 : 0.7,
+      };
+    })
   );
 
   const keywords = getAllKeywords();

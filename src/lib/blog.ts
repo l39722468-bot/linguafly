@@ -87,7 +87,7 @@ export function getBlogArticles(): BlogPost[] {
       description: data.description || data.excerpt,
       category: normalizeCategory(data.category || "General"),
       readTime: data.readTime || "5 min",
-      image: undefined,
+      image: typeof data.image === "string" && data.image.trim() ? data.image.trim() : undefined,
       alt: data.alt,
       keywords: data.keywords || [],
       faqs: data.faqs || [],

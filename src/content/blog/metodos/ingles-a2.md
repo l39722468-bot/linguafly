@@ -95,6 +95,31 @@ El salto del nivel elemental al intermedio requiere constancia y una estrategia 
 2.  **Mes 2**: Domina el futuro (*will* vs *going to*) y las preposiciones de lugar y tiempo (*in, on, at*). Empieza a escribir un diario sencillo de 5 líneas cada noche.
 3.  **Mes 3**: Empieza a familiarizarte con la voz pasiva básica y los verbos modales de posibilidad y permiso (*can, could, may, might*). Intenta ver series cortas con subtítulos en inglés.
 
+## 8. Guías del curso A2 (unidad a unidad)
+
+Si quieres estudiar el A2 con el mismo orden del [curso A2](/curso-a2), estas guías del blog acompañan cada unidad:
+
+**Módulo 1**
+
+- [U1 — Saludos e introducciones](/blog/curso-a2/unidad-1-saludos-introducciones-repaso)
+- [U2 — Past Simple regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
+- [U3 — Past Simple irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)
+- [U4 — Wh-questions en pasado](/blog/curso-a2/unidad-4-wh-questions-past-simple)
+- [U5 — Comparativos](/blog/curso-a2/unidad-5-comparativos-er-more-than)
+- [U6 — Superlativos](/blog/curso-a2/unidad-6-superlativos-est-the-most)
+- [U7 — Adverbios de modo](/blog/curso-a2/unidad-7-adverbios-modo-ly)
+- [U8 — Preposiciones de tiempo](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in)
+- [U9 — Preposiciones de lugar y movimiento](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento)
+- [U10 — Repaso Módulo 1](/blog/curso-a2/unidad-10-repaso-modulo-1)
+
+**Módulo 2 (Present Perfect)**
+
+- [U11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
+- [U12 — Ever & Never](/blog/curso-a2/unidad-12-present-perfect-ever-never)
+- [U13 — Already & Yet](/blog/curso-a2/unidad-13-present-perfect-already-yet)
+
+Índice completo de guías: [Curso A2 en el blog](/blog/curso-a2).
+
 ---
 
 Para el mapa completo de niveles de inglés, consulta el [hub de niveles de inglés MCER](/blog/temas/niveles-ingles-mcer).
