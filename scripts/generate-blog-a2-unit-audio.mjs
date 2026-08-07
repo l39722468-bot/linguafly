@@ -270,6 +270,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-neighbour': 'At first yesterday evening I was watching TV when the doorbell rang. It was my neighbour Mr Jones. He was walking his dog when he saw smoke coming from my kitchen. I was cooking dinner while I was watching TV. Suddenly something burned in the oven. Mr Jones helped me open the windows. Then we checked the kitchen together. Finally everything was okay and I thanked him for his help.',
     'practice-four': 'I was walking when I saw him. While she was cooking, the phone rang. They were having dinner when we arrived. I was watching TV when the doorbell rang.',
   },
+  18: {
+    'lived-for-five-years': 'I have lived in London for five years.',
+    'worked-since-2020': 'I have worked at the same company since 2020.',
+    'known-for-ten-years': 'I have known my best friend Sara for ten years.',
+    'dog-since-christmas': 'I have had my dog Max since last Christmas.',
+    'married-for-five-years': 'I have been married for five years.',
+    'teacher-since-2021': 'I have worked as a teacher since 2021.',
+    'how-long-lived': 'How long have you lived here?',
+    'learning-spanish-six-months': 'I have been learning Spanish for six months.',
+    'loved-travelling-since-child': 'I have loved travelling since I was a child.',
+    'car-since-january': 'I have had my car since last January.',
+    'reading-emma': 'My name is Emma. I have lived in London for five years. I have worked at the same company since 2020. I have known my best friend Sara for ten years. We met when we were at university. I have had my dog Max since last Christmas. He is very friendly. I have been learning Spanish for six months. I have loved travelling since I was a child. I feel good because I have a stable life with good friends.',
+    'dialogue-tom': 'Hi! I am Tom. I have lived in Manchester for three years. I have worked as a teacher since 2021. I have been married for five years. My wife and I met when we were at university. I have had my car since last January. I have been learning guitar for six months. I have loved music since I was a teenager. I feel happy because I have a good job and a wonderful family.',
+    'practice-four': 'I have lived here for five years. I have worked here since 2020. How long have you lived here? I have known her for ten years.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
