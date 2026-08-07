@@ -408,6 +408,12 @@ A2_LINKS: dict[str, list[tuple[str, str]]] = {
         ("gramatica/present-perfect-vs-past-simple", "Present Perfect vs Past Simple"),
         ("gramatica/present-perfect-just-already-yet", "Present Perfect: just / already / yet"),
     ],
+    "unidad-19-how-questions": [
+        ("gramatica/present-perfect-since-for", "Present Perfect: since / for"),
+        ("curso-a2/unidad-18-for-since", "A2 U18 — For & Since"),
+        ("curso-a1/unidad-54-how-much-how-many", "A1 U54 — How much / How many"),
+        ("curso-a1/unidad-33-adverbios-frecuencia", "A1 U33 — Adverbios de frecuencia"),
+    ],
 }
 
 # topic article path -> list of (course unit path, title) reverse links
@@ -440,6 +446,7 @@ REVERSE: dict[str, list[tuple[str, str]]] = {
     ],
     "gramatica/present-perfect-since-for": [
         ("curso-a2/unidad-18-for-since", "A2 U18 — For & Since"),
+        ("curso-a2/unidad-19-how-questions", "A2 U19 — How Questions"),
         ("curso-a2/unidad-11-present-perfect-introduccion", "A2 U11 — Present Perfect: Introducción"),
         ("curso-a2/unidad-15-present-perfect-vs-past-simple", "A2 U15 — Present Perfect vs Past Simple"),
     ],

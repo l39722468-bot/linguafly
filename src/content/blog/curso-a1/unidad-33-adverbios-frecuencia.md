@@ -606,6 +606,7 @@ Guías relacionadas:
 
 - [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
 - [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+- [A2 U19 — How Questions](/blog/curso-a2/unidad-19-how-questions)
 
 ---
 

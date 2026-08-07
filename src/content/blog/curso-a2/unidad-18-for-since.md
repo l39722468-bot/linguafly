@@ -420,6 +420,10 @@ La **Unidad 19** trabaja **How questions**: *How often…? How much…? How long
 
 En la **Unidad 19** estudiarás **How questions**: *How often…? How much…? How long…?*
 
+Guía blog:
+
+- [Unidad 19 — How Questions](/blog/curso-a2/unidad-19-how-questions)
+
 Curso:
 
 - [Unidad 19 — How Questions](/curso-a2/unit-19)

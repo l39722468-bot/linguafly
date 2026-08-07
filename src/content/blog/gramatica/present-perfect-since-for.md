@@ -150,6 +150,7 @@ La pregunta *"How long have you…?"* es la forma natural de preguntar por la du
 Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
 
 - [A2 U18 — For & Since](/blog/curso-a2/unidad-18-for-since)
+- [A2 U19 — How Questions](/blog/curso-a2/unidad-19-how-questions)
 - [A2 U11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
 - [A2 U15 — Present Perfect vs Past Simple](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple)
 

@@ -285,6 +285,22 @@ const CLIPS_BY_UNIT = {
     'dialogue-tom': 'Hi! I am Tom. I have lived in Manchester for three years. I have worked as a teacher since 2021. I have been married for five years. My wife and I met when we were at university. I have had my car since last January. I have been learning guitar for six months. I have loved music since I was a teenager. I feel happy because I have a good job and a wonderful family.',
     'practice-four': 'I have lived here for five years. I have worked here since 2020. How long have you lived here? I have known her for ten years.',
   },
+  19: {
+    'how-long-lived': 'How long have you lived here?',
+    'how-long-study': 'How long do you study every day?',
+    'how-often-exercise': 'How often do you exercise?',
+    'how-often-films': 'How often do you watch films?',
+    'how-much-water': 'How much water do you drink?',
+    'how-much-coffee': 'How much coffee do you drink a day?',
+    'how-many-books': 'How many books have you read this year?',
+    'how-many-languages': 'How many languages do you speak?',
+    'how-long-ago-arrive': 'How long ago did you arrive?',
+    'how-often-running': 'How often do you go running?',
+    'how-long-run': 'How long do you run each time?',
+    'reading-jake': 'My name is Jake. I am a student and I have a busy routine. How often do I exercise? I go to the gym three times a week. How long do I study every day? I study for four hours every day. How much water do I drink? I drink about two litres a day. How many books have I read this year? I have read twelve books. I also watch films twice a week. I feel healthy and productive because I have good habits.',
+    'dialogue-lisa': 'Hi! I am Lisa. People often ask me about my habits. How often do I exercise? I go running four times a week. How long do I run each time? I run for thirty minutes. How much coffee do I drink a day? I drink two cups every morning. How many languages do I speak? I speak three: English, Spanish and French. I have been learning Spanish for two years. I feel energetic because I exercise regularly and drink enough water.',
+    'practice-four': 'How often do you exercise? How long do you study every day? How much water do you drink? How many books have you read this year?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

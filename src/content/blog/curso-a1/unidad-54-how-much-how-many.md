@@ -462,6 +462,7 @@ Guías relacionadas:
 - [Inglés para compras](/blog/viajes/ingles-para-compras)
 - [Inglés en mercados y regateo](/blog/viajes/ingles-mercados-regateo-viaje)
 - [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+- [A2 U19 — How Questions](/blog/curso-a2/unidad-19-how-questions)
 
 ---
 
