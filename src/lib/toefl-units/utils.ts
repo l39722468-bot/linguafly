@@ -22,7 +22,12 @@ export function createToeflUnit(
   
   const interactions: any[] = [];
 
-  exerciseBlocks.forEach((block: any) => {
+  // Speaking eliminado de todos los cursos (incl. TOEFL).
+  const nonSpeakingBlocks = (exerciseBlocks as any[]).filter(
+    (block) => block?.type !== 'speaking' && block?.type !== 'speaking-analysis'
+  );
+
+  nonSpeakingBlocks.forEach((block: any) => {
     // Add block title/explanation as a header interaction if needed
     
     if (block.questions) {
