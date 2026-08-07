@@ -448,6 +448,10 @@ La **Unidad 20** es el **repaso del Módulo 2**: Present Perfect, Past Continuou
 
 En la **Unidad 20** harás el **Repaso del Módulo 2**: Present Perfect, Past Continuous, *for/since* y *How* questions.
 
+Guía blog:
+
+- [Unidad 20 — Repaso Módulo 2](/blog/curso-a2/unidad-20-repaso-modulo-2)
+
 Curso:
 
 - [Unidad 20 — Module 2 Review](/curso-a2/unit-20)

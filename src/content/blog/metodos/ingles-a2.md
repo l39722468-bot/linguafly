@@ -112,7 +112,7 @@ Si quieres estudiar el A2 con el mismo orden del [curso A2](/curso-a2), estas gu
 - [U9 — Preposiciones de lugar y movimiento](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento)
 - [U10 — Repaso Módulo 1](/blog/curso-a2/unidad-10-repaso-modulo-1)
 
-**Módulo 2 (Present Perfect)**
+**Módulo 2 (Present Perfect y pasado en curso)**
 
 - [U11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
 - [U12 — Ever & Never](/blog/curso-a2/unidad-12-present-perfect-ever-never)
@@ -123,6 +123,7 @@ Si quieres estudiar el A2 con el mismo orden del [curso A2](/curso-a2), estas gu
 - [U17 — Past Simple + Past Continuous](/blog/curso-a2/unidad-17-past-simple-past-continuous)
 - [U18 — For & Since](/blog/curso-a2/unidad-18-for-since)
 - [U19 — How Questions](/blog/curso-a2/unidad-19-how-questions)
+- [U20 — Repaso Módulo 2](/blog/curso-a2/unidad-20-repaso-modulo-2)
 
 Índice completo de guías: [Curso A2 en el blog](/blog/curso-a2).
 
