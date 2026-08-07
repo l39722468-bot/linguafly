@@ -8,7 +8,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'C1 Language Lab — Phrasal Verbs in Argument';
 
 export const UNIT_61_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u61-g1',
     type: 'multiple-choice',
     level: 'C1',
@@ -33,7 +33,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u61-g2',
     type: 'fill-blank',
     level: 'C1',
@@ -56,7 +56,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u61-g3',
     type: 'multiple-choice',
     level: 'C1',
@@ -82,7 +82,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u61-v1',
     type: 'multiple-choice',
     level: 'C1',
@@ -103,7 +103,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u61-v2',
     type: 'fill-blank',
     level: 'C1',
@@ -126,7 +126,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u61-v3',
     type: 'multiple-choice',
     level: 'C1',
@@ -152,7 +152,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u61-r1',
     type: 'reading-comprehension',
     level: 'C1',
@@ -178,7 +178,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u61-r2',
     type: 'multiple-choice',
     level: 'C1',
@@ -204,7 +204,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u61-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -229,7 +229,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u61-l1',
     type: 'listening-comprehension',
     level: 'C1',
@@ -255,7 +255,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u61-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -280,7 +280,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u61-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -305,7 +305,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u61-w1',
     type: 'writing',
     level: 'C1',
@@ -330,7 +330,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u61-w2',
     type: 'writing',
     level: 'C1',
@@ -354,7 +354,7 @@ export const UNIT_61_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u61-w3',
     type: 'writing',
     level: 'C1',
@@ -377,79 +377,5 @@ export const UNIT_61_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u61-s1',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion Phrasals|Phrasals en debate]]',
-      instructions: 'Choose the most natural way to continue a formal discussion.',
-      questions: [
-        {
-          question:
-            'In a seminar, you want to return to an earlier point your classmate made. Which is most appropriate at C1?',
-          options: [
-            '[[If I might circle back to the objection you raised concerning regulatory capture, I think it bears on the point we were making about enforcement capacity.|Si me permiten volver a la objeción que planteó sobre captura regulatoria…]]',
-            '[[Anyway let\'s like go back to what you said before about stuff.|Demasiado informal.]]',
-            '[[Please shut up about that and listen to me now.|Inaceptable en contexto académico.]]',
-          ],
-          correctAnswer: 0,
-          explanation:
-            '*Circle back to* + polite framing (*If I might*) fits formal spoken discussion. The other options are informal or rude.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u61-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u61-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

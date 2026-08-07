@@ -9,55 +9,55 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'Fashion, Identity and Society';
 
 export const UNIT_18_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u18-g1', type: 'multiple-choice', level: 'C1', topic: 'advanced-comparatives', difficulty: 'hard',
     content: { title: '[[Grammar|Gramática]]: [[Advanced Comparatives|Comparativos avanzados]]', instructions: 'Choose the correct double comparative structure.',
       questions: [{ question: 'Complete the sentence: _______ sustainability becomes a consumer priority, _______ pressure there is on fashion brands to reform their supply chains.', options: ['[[The more / the greater|Cuanto más / mayor]]', '[[More / more|Más / más]]', '[[The most / the most|El más / el más]]'], correctAnswer: 0, explanation: '"The + comparative... the + comparative" = double comparative structure expressing proportional relationships.' }] },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u18-g2', type: 'fill-blank', level: 'C1', topic: 'advanced-comparatives', difficulty: 'hard',
     content: { title: '[[Grammar|Gramática]]: [[Advanced Comparatives|Comparativos avanzados]]', instructions: 'Complete with the correct comparative structure.',
       questions: [{ question: 'Fashion cycles are getting _______ and _______ — what was considered stylish six months ago is already deemed outdated today.', options: ['[[faster / shorter|más rápidos / más cortos]]', '[[more fast / more short|más rápido / más corto]]', '[[fastest / shortest|el más rápido / el más corto]]'], correctAnswer: 'faster / shorter', acceptableAnswers: ['faster / shorter', 'shorter / faster'], explanation: 'Double comparative with "getting" = progressive change: "getting faster and faster" / "faster and shorter".' }] },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u18-g3', type: 'multiple-choice', level: 'C1', topic: 'advanced-comparatives', difficulty: 'hard',
     content: { title: '[[Grammar|Gramática]]: [[Comparative Structures|Estructuras comparativas]]', instructions: 'Choose the correct comparative form.',
       questions: [{ question: 'Which sentence correctly uses a comparative of inferiority?', options: ['[[The slow fashion movement, while gaining traction, is far less commercially dominant than the fast fashion industry it seeks to challenge.|El movimiento de moda lenta, aunque está ganando terreno, es mucho menos dominante comercialmente que la industria de moda rápida que busca desafiar.]]', '[[The slow fashion movement, while gaining traction, is not as much commercially dominant as the fast fashion industry.|El movimiento de moda lenta, aunque gana terreno, no es tan dominante comercialmente como la industria de moda rápida.]]', '[[The slow fashion movement, while gaining traction, is more commercially dominant less than the fast fashion industry.|El movimiento de moda lenta, aunque gana terreno, es más dominante comercialmente menos que la industria de moda rápida.]]'], correctAnswer: 0, explanation: '"Far less + adjective + than" = emphatic comparative of inferiority. "Not as + adjective + as" also works but "far less" is more emphatic.' }] },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u18-v1', type: 'multiple-choice', level: 'C1', topic: 'fashion-vocabulary', difficulty: 'hard',
     content: { title: '[[Vocabulary|Vocabulario]]: [[Fashion and Society|Moda y sociedad]]', instructions: 'Choose the correct word.',
       questions: [{ question: 'The term _______ refers to the practice of companies making misleading claims about the environmental credentials of their products to appeal to conscious consumers.', options: ['[[greenwashing|lavado verde]]', '[[upcycling|suprareciclaje]]', '[[fast fashion|moda rápida]]'], correctAnswer: 0, explanation: '"Greenwashing" = the practice of making false or misleading environmental claims to improve a brand\'s image.' }] },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u18-v2', type: 'fill-blank', level: 'C1', topic: 'fashion-vocabulary', difficulty: 'hard',
     content: { title: '[[Vocabulary|Vocabulario]]: [[Fashion Industry|Industria de la moda]]', instructions: 'Complete the sentence.',
       questions: [{ question: 'The process of transforming discarded materials into new, higher-quality products — such as turning old denim into designer bags — is known as _______.', options: ['[[upcycling|suprareciclaje]]', '[[recycling|reciclaje]]', '[[repurposing|reutilización]]'], correctAnswer: 'upcycling', acceptableAnswers: ['upcycling'], explanation: '"Upcycling" = converting waste or old materials into new products of higher quality or value.' }] },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u18-v3', type: 'multiple-choice', level: 'C1', topic: 'fashion-vocabulary', difficulty: 'hard',
     content: { title: '[[Vocabulary|Vocabulario]]: [[Fashion and Identity|Moda e identidad]]', instructions: 'Choose the correct word.',
       questions: [{ question: 'Her wardrobe was an act of deliberate _______ — every garment chosen to project a specific professional authority and intellectual credibility in her academic environment.', options: ['[[self-presentation|autopresentación]]', '[[self-expression|autoexpresión]]', '[[self-awareness|autoconciencia]]'], correctAnswer: 0, explanation: '"Self-presentation" = the conscious management of how one appears to others, including through clothing and dress.' }] },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u18-r1', type: 'reading-comprehension', level: 'C1', topic: 'fashion-reading', difficulty: 'hard',
     content: { title: '[[Reading|Lectura]]: [[Fashion and Identity|Moda e identidad]]', instructions: 'Read the extract and answer the question.',
       questions: [{ question: 'Text: "Dress is never merely utilitarian — it is a form of non-verbal communication, a daily act of identity construction. What we wear broadcasts information about our social class, our cultural affiliations, our professional aspirations and our self-perception, often before we have spoken a single word."\n\nWhat does the author argue about clothing?', options: ['[[Clothing is primarily a form of social signalling that communicates class and professional status, which is why dress codes exist in formal contexts.|La ropa es principalmente una forma de señalización social que comunica clase y estatus profesional, razón por la que existen códigos de vestimenta en contextos formales.]]', '[[Clothing communicates multiple layers of identity and self-perception non-verbally, functioning as a form of daily social messaging before speech takes place.|La ropa comunica múltiples capas de identidad y autopercepción de forma no verbal, funcionando como una forma de mensajería social diaria antes de que tenga lugar el habla.]]', '[[The primary function of dress is to reflect our professional aspirations and cultural affiliations, which are more stable aspects of identity than class or self-perception.|La función principal de la vestimenta es reflejar nuestras aspiraciones profesionales y afiliaciones culturales, que son aspectos más estables de la identidad que la clase o la autopercepción.]]'], correctAnswer: 1, explanation: 'The text says dress communicates class, affiliations, aspirations AND self-perception, often before speaking — i.e., multiple layers of identity, non-verbally.' }] },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u18-r2', type: 'multiple-choice', level: 'C1', topic: 'fashion-reading', difficulty: 'hard',
     content: { title: '[[Reading|Lectura]]: [[Sustainable Fashion|Moda sostenible]]', instructions: 'Choose the best answer.',
       questions: [{ question: 'Text: "The tension at the heart of sustainable fashion is that sustainability is itself a luxury. The consumers most likely to buy ethically produced, expensive garments are those who can afford to do so. Those with the least disposable income are, by structural necessity, the most dependent on the cheap, fast fashion the industry seeks to discourage."\n\nWhat paradox does the text identify?', options: ['[[Sustainable fashion companies are hypocritical because they claim to be ethical while charging prices that exclude the majority of consumers.|Las empresas de moda sostenible son hipócritas porque afirman ser éticas mientras cobran precios que excluyen a la mayoría de los consumidores.]]', '[[Sustainable fashion is accessible only to wealthier consumers, meaning that the people most harmed by fast fashion are also the least able to avoid it.|La moda sostenible solo es accesible para los consumidores más ricos, lo que significa que las personas más perjudicadas por la moda rápida son también las menos capaces de evitarla.]]', '[[The sustainable fashion movement has failed to change consumer behaviour because most shoppers prioritise price over environmental considerations when making purchasing decisions.|El movimiento de moda sostenible no ha conseguido cambiar el comportamiento del consumidor porque la mayoría prioriza el precio sobre las consideraciones medioambientales al tomar decisiones de compra.]]'], correctAnswer: 1, explanation: 'The paradox: those who can least afford sustainable fashion are most dependent on cheap fast fashion — sustainability is structurally inaccessible to lower-income consumers.' }] },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u18-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -82,13 +82,13 @@ export const UNIT_18_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u18-l1', type: 'listening-comprehension', level: 'C1', topic: 'fashion-listening', difficulty: 'hard',
     content: { title: '[[Listening|Comprensión auditiva]]: [[Fashion and Ethics|Moda y ética]]', instructions: 'Listen and choose the correct answer.',
       questions: [{ question: 'A fashion journalist says: "Luxury brands have become extraordinarily skilled at selling aspiration rather than product — the bag is almost incidental; what you are really purchasing is a story about who you are, or more precisely, who you aspire to be."\n\nWhat does the journalist argue?', options: ['[[Luxury brands charge excessive prices for bags and accessories that are not significantly different in quality from cheaper alternatives.|Las marcas de lujo cobran precios excesivos por bolsos y accesorios que no son significativamente diferentes en calidad de las alternativas más baratas.]]', '[[Luxury brands sell identity and social aspiration rather than the physical product itself, which is merely the vehicle for a narrative about status.|Las marcas de lujo venden identidad y aspiración social más que el producto físico en sí, que es meramente el vehículo de una narrativa sobre el estatus.]]', '[[The success of luxury brands depends primarily on the exceptional quality of their products rather than on marketing, heritage or celebrity endorsement.|El éxito de las marcas de lujo depende principalmente de la calidad excepcional de sus productos más que del marketing, el patrimonio o el respaldo de celebridades.]]'], correctAnswer: 1, explanation: 'The journalist says the product ("the bag") is "almost incidental" — what is sold is "a story about who you aspire to be" = identity narrative.' }] },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u18-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -113,7 +113,7 @@ export const UNIT_18_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u18-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -138,13 +138,13 @@ export const UNIT_18_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u18-w1', type: 'multiple-choice', level: 'C1', topic: 'opinion-essay', difficulty: 'hard',
     content: { title: '[[Writing|Escritura]]: [[Opinion Essay|Ensayo de opinión]]', instructions: 'Choose the best opening for an opinion essay on fashion and identity.',
       questions: [{ question: 'Essay title: "Fashion is a form of self-expression, not trivial consumerism." Choose the most effective opening paragraph:', options: ['[[To dismiss fashion as mere consumerism is to misunderstand its deeper function: clothing is one of the oldest and most sophisticated systems of human communication, through which individuals negotiate identity, signal belonging and challenge social norms. The question is not whether fashion matters, but why we are so reluctant to take it seriously.|Descartar la moda como mero consumismo es malentender su función más profunda: la ropa es uno de los sistemas de comunicación humana más antiguos y sofisticados, a través del cual los individuos negocian la identidad, señalan la pertenencia y desafían las normas sociales.]]', '[[In this essay I will discuss whether fashion is a form of self-expression or just consumerism. Fashion is a very interesting topic that affects everyone in modern society. I will look at both sides of the argument before reaching a conclusion.|En este ensayo discutiré si la moda es una forma de autoexpresión o simplemente consumismo. La moda es un tema muy interesante que afecta a todos en la sociedad moderna. Examinaré ambos lados del argumento antes de llegar a una conclusión.]]', '[[Fashion has been around for thousands of years and has always been important to people. Today it is a massive global industry worth billions of dollars. Some people think it is trivial but others think it is very important for expressing who you are.|La moda existe desde hace miles de años y siempre ha sido importante para las personas. Hoy es una industria global masiva que vale miles de millones de dólares. Algunas personas piensan que es trivial pero otras creen que es muy importante para expresar quién eres.]]'], correctAnswer: 0, explanation: 'Option A opens with a counter-argument, establishes a sophisticated position immediately and signals the essay\'s direction without announcing "In this essay I will..."' }] },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u18-w2',
     type: 'writing',
     level: 'C1',
@@ -168,7 +168,7 @@ export const UNIT_18_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u18-w3',
     type: 'writing',
     level: 'C1',
@@ -191,67 +191,5 @@ export const UNIT_18_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u18-s1', type: 'multiple-choice', level: 'C1', topic: 'speaking-fashion', difficulty: 'hard',
-    content: { title: '[[Speaking|Expresión oral]]: [[Discussing Fashion|Hablar sobre moda]]', instructions: 'Choose the most appropriate C1 response.',
-      questions: [{ question: 'An interviewer asks: "Is it possible to be interested in fashion while also holding strong ethical values?" Choose the most nuanced response:',
-        options: [
-          '[[Yes, it is absolutely possible. You can like fashion and still have good values. Many sustainable fashion brands exist now and you can choose to buy from them instead of fast fashion companies.|Sí, es absolutamente posible. Puedes gustar de la moda y aún tener buenos valores. Ahora existen muchas marcas de moda sostenible y puedes elegir comprar de ellas en lugar de compañías de moda rápida.]]',
-          '[[The tension is real but not irresolvable. Ethical engagement with fashion doesn\'t demand abstinence — it demands awareness: of supply chains, of consumption patterns, of the gap between the aspiration fashion sells and the human cost at which it is produced. Holding both interests simultaneously is less hypocrisy than it is the uncomfortable condition of being a consumer in a complex world.|La tensión es real pero no irresolvable. El compromiso ético con la moda no exige abstinencia — exige conciencia: de las cadenas de suministro, de los patrones de consumo, de la brecha entre la aspiración que vende la moda y el coste humano al que se produce.]]',
-          '[[No, I don\'t think it\'s really possible to be ethical and interested in fashion at the same time because all fashion causes environmental damage and exploitation. If you have strong ethical values you should not buy new clothes at all.|No, no creo que sea realmente posible ser ético e interesado en la moda al mismo tiempo porque toda la moda causa daño medioambiental y explotación. Si tienes valores éticos fuertes no deberías comprar ropa nueva en absoluto.]]',
-        ],
-        correctAnswer: 1,
-        explanation: 'Option B acknowledges the tension without resolving it simplistically, introduces key concepts ("abstinence", "awareness", "supply chains") and frames the dilemma as a broader condition of modern consumerism.',
-      }] },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u18-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-fashion',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u18-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-fashion',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

@@ -8,5 +8,5 @@ import { UNIT_9_ALL_EXERCISES } from './unit-9-lessons-index';
 
 export const UNIT_TITLE = 'Used to, Be Used to, Get Used to | Habits & Lifestyle';
 
-/** Todos los ejercicios de la Unidad 9 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 9 (5 lecciones). */
 export const UNIT_9_EXERCISES = UNIT_9_ALL_EXERCISES;

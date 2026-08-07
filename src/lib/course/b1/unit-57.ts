@@ -8,5 +8,5 @@ import { UNIT_57_ALL_EXERCISES } from './unit-57-lessons-index';
 
 export const UNIT_TITLE = 'Mixed Grammar Practice | Clothes & Colours';
 
-/** Todos los ejercicios de la Unidad 57 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 57 (5 lecciones). */
 export const UNIT_57_EXERCISES = UNIT_57_ALL_EXERCISES;

@@ -8,7 +8,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'C1 Language Lab — Word Formation and Precision';
 
 export const UNIT_63_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u63-g1',
     type: 'multiple-choice',
     level: 'C1',
@@ -34,7 +34,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u63-g2',
     type: 'fill-blank',
     level: 'C1',
@@ -57,7 +57,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u63-g3',
     type: 'multiple-choice',
     level: 'C1',
@@ -83,7 +83,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u63-v1',
     type: 'multiple-choice',
     level: 'C1',
@@ -109,7 +109,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u63-v2',
     type: 'fill-blank',
     level: 'C1',
@@ -132,7 +132,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u63-v3',
     type: 'multiple-choice',
     level: 'C1',
@@ -157,7 +157,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u63-r1',
     type: 'reading-comprehension',
     level: 'C1',
@@ -183,7 +183,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u63-r2',
     type: 'multiple-choice',
     level: 'C1',
@@ -209,7 +209,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u63-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -234,7 +234,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u63-l1',
     type: 'listening-comprehension',
     level: 'C1',
@@ -260,7 +260,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u63-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -285,7 +285,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u63-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -310,7 +310,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u63-w1',
     type: 'writing',
     level: 'C1',
@@ -335,7 +335,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u63-w2',
     type: 'writing',
     level: 'C1',
@@ -359,7 +359,7 @@ export const UNIT_63_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u63-w3',
     type: 'writing',
     level: 'C1',
@@ -382,79 +382,5 @@ export const UNIT_63_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u63-s1',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Precision in Discussion|Precisión en el debate]]',
-      instructions: 'Choose the most precise way to qualify your claim in a discussion.',
-      questions: [
-        {
-          question:
-            'You are summarising a complex study. Which formulation is most appropriate at C1?',
-          options: [
-            '[[If I may qualify that slightly, the study establishes association rather than causation — a limitation the authors themselves acknowledge in the discussion section.|Si me permite matizar…]]',
-            '[[The study proves everything 100 percent for sure.|Afirmación absoluta inadecuada.]]',
-            '[[I have no idea what the study says but it sounds important.|Evita precisión.]]',
-          ],
-          correctAnswer: 0,
-          explanation:
-            '*Qualify* (verb) = limit or moderate a statement; *association rather than causation* shows terminological precision.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u63-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u63-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

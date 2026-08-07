@@ -8,5 +8,5 @@ import { UNIT_13_ALL_EXERCISES } from './unit-13-lessons-index';
 
 export const UNIT_TITLE = 'First vs Second Conditional & Entertainment';
 
-/** Todos los ejercicios de la Unidad 13 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 13 (5 lecciones). */
 export const UNIT_13_EXERCISES = UNIT_13_ALL_EXERCISES;

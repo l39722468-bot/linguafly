@@ -8,5 +8,5 @@ import { UNIT_43_ALL_EXERCISES } from './unit-43-lessons-index';
 
 export const UNIT_TITLE = 'University Life & Academics';
 
-/** Todos los ejercicios de la Unidad 43 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 43 (5 lecciones). */
 export const UNIT_43_EXERCISES = UNIT_43_ALL_EXERCISES;

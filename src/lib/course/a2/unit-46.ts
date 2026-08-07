@@ -1,6 +1,6 @@
 /**
  * Unidad 46 — Comparing Places: Adjectives (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_46_ALL_EXERCISES } from './unit-46-lessons-index';

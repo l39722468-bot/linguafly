@@ -8,5 +8,5 @@ import { UNIT_39_ALL_EXERCISES } from './unit-39-lessons-index';
 
 export const UNIT_TITLE = 'Clauses of Purpose & Reason | Explaining';
 
-/** Todos los ejercicios de la Unidad 39 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 39 (5 lecciones). */
 export const UNIT_39_EXERCISES = UNIT_39_ALL_EXERCISES;

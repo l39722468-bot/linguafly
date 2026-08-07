@@ -3,8 +3,8 @@
  * Módulo 1 (bloque temático): Persona, sociedad y entorno
  * Grammar: Mixed conditionals
  *
- * Modelo ampliado: 18 ejercicios por lección × 6 lecciones = 108 ítems.
- * Patrón de IDs: c1-u3-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18, s1..s18.
+ * Modelo ampliado: 18 ejercicios por lección × 5 lecciones = 90 ítems.
+ * Patrón de IDs: c1-u3-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18.
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -12,7 +12,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = '[[Science and Technology|Ciencia y tecnología]]';
 
 export const UNIT_3_EXERCISES: Exercise[] = [
-  {
+{
     id: "c1-u3-g1",
     type: 'multiple-choice',
     level: 'C1',
@@ -32,7 +32,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g2",
     type: 'fill-blank',
     level: 'C1',
@@ -53,7 +53,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g3",
     type: 'multiple-choice',
     level: 'C1',
@@ -73,7 +73,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g4",
     type: 'multiple-choice',
     level: 'C1',
@@ -93,7 +93,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g5",
     type: 'fill-blank',
     level: 'C1',
@@ -114,7 +114,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g6",
     type: 'multiple-choice',
     level: 'C1',
@@ -134,7 +134,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g7",
     type: 'fill-blank',
     level: 'C1',
@@ -155,7 +155,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g8",
     type: 'multiple-choice',
     level: 'C1',
@@ -175,7 +175,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g9",
     type: 'multiple-choice',
     level: 'C1',
@@ -195,7 +195,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g10",
     type: 'fill-blank',
     level: 'C1',
@@ -216,7 +216,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g11",
     type: 'multiple-choice',
     level: 'C1',
@@ -236,7 +236,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g12",
     type: 'fill-blank',
     level: 'C1',
@@ -257,7 +257,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g13",
     type: 'multiple-choice',
     level: 'C1',
@@ -277,7 +277,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g14",
     type: 'multiple-choice',
     level: 'C1',
@@ -297,7 +297,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g15",
     type: 'fill-blank',
     level: 'C1',
@@ -318,7 +318,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g16",
     type: 'multiple-choice',
     level: 'C1',
@@ -338,7 +338,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g17",
     type: 'multiple-choice',
     level: 'C1',
@@ -358,7 +358,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-g18",
     type: 'fill-blank',
     level: 'C1',
@@ -379,7 +379,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u3-v1",
     type: 'multiple-choice',
     level: 'C1',
@@ -399,7 +399,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v2",
     type: 'multiple-choice',
     level: 'C1',
@@ -419,7 +419,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v3",
     type: 'multiple-choice',
     level: 'C1',
@@ -439,7 +439,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v4",
     type: 'multiple-choice',
     level: 'C1',
@@ -459,7 +459,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v5",
     type: 'multiple-choice',
     level: 'C1',
@@ -479,7 +479,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v6",
     type: 'multiple-choice',
     level: 'C1',
@@ -499,7 +499,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v7",
     type: 'multiple-choice',
     level: 'C1',
@@ -519,7 +519,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v8",
     type: 'multiple-choice',
     level: 'C1',
@@ -539,7 +539,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v9",
     type: 'multiple-choice',
     level: 'C1',
@@ -559,7 +559,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v10",
     type: 'multiple-choice',
     level: 'C1',
@@ -579,7 +579,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v11",
     type: 'multiple-choice',
     level: 'C1',
@@ -599,7 +599,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v12",
     type: 'multiple-choice',
     level: 'C1',
@@ -619,7 +619,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v13",
     type: 'multiple-choice',
     level: 'C1',
@@ -639,7 +639,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v14",
     type: 'multiple-choice',
     level: 'C1',
@@ -659,7 +659,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v15",
     type: 'multiple-choice',
     level: 'C1',
@@ -679,7 +679,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v16",
     type: 'multiple-choice',
     level: 'C1',
@@ -699,7 +699,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v17",
     type: 'multiple-choice',
     level: 'C1',
@@ -719,7 +719,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-v18",
     type: 'multiple-choice',
     level: 'C1',
@@ -739,7 +739,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u3-r1",
     type: 'reading-comprehension',
     level: 'C1',
@@ -759,7 +759,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r2",
     type: 'reading-comprehension',
     level: 'C1',
@@ -779,7 +779,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r3",
     type: 'reading-comprehension',
     level: 'C1',
@@ -799,7 +799,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r4",
     type: 'reading-comprehension',
     level: 'C1',
@@ -819,7 +819,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r5",
     type: 'reading-comprehension',
     level: 'C1',
@@ -839,7 +839,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r6",
     type: 'reading-comprehension',
     level: 'C1',
@@ -859,7 +859,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r7",
     type: 'reading-comprehension',
     level: 'C1',
@@ -879,7 +879,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r8",
     type: 'reading-comprehension',
     level: 'C1',
@@ -899,7 +899,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r9",
     type: 'reading-comprehension',
     level: 'C1',
@@ -919,7 +919,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r10",
     type: 'reading-comprehension',
     level: 'C1',
@@ -939,7 +939,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r11",
     type: 'reading-comprehension',
     level: 'C1',
@@ -959,7 +959,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r12",
     type: 'reading-comprehension',
     level: 'C1',
@@ -979,7 +979,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r13",
     type: 'reading-comprehension',
     level: 'C1',
@@ -999,7 +999,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r14",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1019,7 +1019,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r15",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1039,7 +1039,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r16",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1059,7 +1059,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r17",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1079,7 +1079,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-r18",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1099,7 +1099,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u3-l1",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1119,7 +1119,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l2",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1139,7 +1139,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l3",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1159,7 +1159,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l4",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1179,7 +1179,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l5",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1199,7 +1199,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l6",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1219,7 +1219,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l7",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1239,7 +1239,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l8",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1259,7 +1259,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l9",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1279,7 +1279,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l10",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1299,7 +1299,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l11",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1319,7 +1319,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l12",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1339,7 +1339,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l13",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1359,7 +1359,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l14",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1379,7 +1379,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l15",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1399,7 +1399,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l16",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1419,7 +1419,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l17",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1439,7 +1439,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-l18",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1459,7 +1459,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u3-w1",
     type: 'writing',
     level: 'C1',
@@ -1479,7 +1479,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w2",
     type: 'writing',
     level: 'C1',
@@ -1499,7 +1499,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w3",
     type: 'writing',
     level: 'C1',
@@ -1519,7 +1519,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w4",
     type: 'writing',
     level: 'C1',
@@ -1539,7 +1539,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w5",
     type: 'writing',
     level: 'C1',
@@ -1559,7 +1559,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w6",
     type: 'writing',
     level: 'C1',
@@ -1579,7 +1579,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w7",
     type: 'writing',
     level: 'C1',
@@ -1599,7 +1599,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w8",
     type: 'writing',
     level: 'C1',
@@ -1619,7 +1619,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w9",
     type: 'writing',
     level: 'C1',
@@ -1639,7 +1639,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w10",
     type: 'writing',
     level: 'C1',
@@ -1659,7 +1659,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w11",
     type: 'writing',
     level: 'C1',
@@ -1679,7 +1679,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w12",
     type: 'writing',
     level: 'C1',
@@ -1699,7 +1699,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w13",
     type: 'writing',
     level: 'C1',
@@ -1719,7 +1719,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w14",
     type: 'writing',
     level: 'C1',
@@ -1739,7 +1739,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w15",
     type: 'writing',
     level: 'C1',
@@ -1759,7 +1759,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w16",
     type: 'writing',
     level: 'C1',
@@ -1779,7 +1779,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w17",
     type: 'writing',
     level: 'C1',
@@ -1799,7 +1799,7 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u3-w18",
     type: 'writing',
     level: 'C1',
@@ -1819,364 +1819,4 @@ export const UNIT_3_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
-    id: "c1-u3-s1",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Concede a point before countering in a debate on climate policy:",
-          options: ["[[While I accept that technological innovation lowers unit costs, I would argue that without carbon pricing, deployment timelines remain incompatible with stated temperature targets.|While I accept… I would argue…]]", "[[You are wrong.|agresivo]]", "[[OK.|corto]]"],
-          correctAnswer: 0,
-          explanation: "Concession + counter.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s2",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Soften a strong claim about AI risk:",
-          options: ["[[It would be premature to claim existential risk is imminent, though capability gains warrant serious governance attention rather than dismissal.|hedging en capas]]", "[[AI will destroy us tomorrow.|absoluto]]", "[[Maybe.|demasiado flojo]]"],
-          correctAnswer: 0,
-          explanation: "Layered hedge.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s3",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Structure a Part 3-style answer on renewable energy trade-offs:",
-          options: ["[[I'd like to approach this from two angles: first, land-use conflicts; second, intermittency and storage constraints.|signposting]]", "[[I don't know.|evasivo]]", "[[Sun good.|telegráfico]]"],
-          correctAnswer: 0,
-          explanation: "Oral architecture.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s4",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Politely disagree with a generalisation that \"all GMOs are unsafe\":",
-          options: ["[[I'm not entirely convinced that the category GMO is scientifically homogeneous; risk assessment is trait- and context-specific.|discrepar con matices]]", "[[That is nonsense.|grosero]]", "[[I agree.|sin posición]]"],
-          correctAnswer: 0,
-          explanation: "Respectful disagreement.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s5",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Buy time before answering a technical question on trial design:",
-          options: ["[[That's a subtle design issue; if I may, I'll separate efficacy from effectiveness before answering.|ganar tiempo]]", "[[No comment.|cerrado]]", "[[Next.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Stalling.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s6",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Emphasise a distinction between correlation and causation orally:",
-          options: ["[[The crucial distinction here is association versus mechanism — observational data can flag patterns but rarely establishes causality alone.|crucial distinction]]", "[[Correlation equals causation.|incorrecto]]", "[[Statistics never help.|nada]]"],
-          correctAnswer: 0,
-          explanation: "Concept clarification.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s7",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Summarise an interlocutor's view before responding on vaccine mandates:",
-          options: ["[[If I understand you, you're saying mandates are never justified. I'd qualify that: compulsion may be proportionate when community risk is high.|reformular]]", "[[You said words.|vago]]", "[[Wrong.|sin reformulación]]"],
-          correctAnswer: 0,
-          explanation: "Active listening.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s8",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Close with a balanced takeaway on nuclear power:",
-          options: ["[[So, pulling this together, low-carbon baseload and waste governance both seem indispensable to any credible portfolio.|cierre equilibrado]]", "[[Whatever.|informal]]", "[[I forgot.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Synthesis.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s9",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Ask for clarification in a lab meeting about \"statistical power\":",
-          options: ["[[Could you clarify whether you mean achieved power from the completed sample or projected power for the planned recruitment target?|precisión conceptual]]", "[[What?|brusco]]", "[[I know stats.|arrogante]]"],
-          correctAnswer: 0,
-          explanation: "Targeted clarification.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s10",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Express partial agreement on geoengineering:",
-          options: ["[[I partly agree: stratospheric aerosol injection might buy time, yet it introduces governance and termination shock risks that merit parallel research.|acuerdo parcial]]", "[[I totally agree and disagree.|incoherente]]", "[[No.|cerrado]]"],
-          correctAnswer: 0,
-          explanation: "Qualified agreement.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s11",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Redirect a hostile question about scientists \"being paid to lie\":",
-          options: ["[[I appreciate the challenge; perhaps we can reframe this as an empirical question about incentive structures and disclosure norms rather than motives.|reencuadre]]", "[[Shut up.|inaceptable]]", "[[I refuse.|sin tacto]]"],
-          correctAnswer: 0,
-          explanation: "Diplomatic redirect.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s12",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Add weight with a formal discourse marker in a science panel:",
-          options: ["[[Moreover, convergent evidence from independent labs strengthens confidence in the anomaly.|Moreover]]", "[[Also stuff.|informal]]", "[[And.|débil]]"],
-          correctAnswer: 0,
-          explanation: "Additive marker.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s13",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Acknowledge limits of your argument orally about a modelling study:",
-          options: ["[[I should stress that my extrapolation rests on stationary climate assumptions that may not hold past mid-century.|límites explícitos]]", "[[My model is perfect.|sin límites]]", "[[Models never err.|falso]]"],
-          correctAnswer: 0,
-          explanation: "Modesty.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s14",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Invite another researcher to contribute:",
-          options: ["[[I'd be interested to hear whether your longitudinal cohort supports or contradicts this hazard ratio.|invitar]]", "[[Talk now or never.|amenaza]]", "[[You have nothing to say.|descortés]]"],
-          correctAnswer: 0,
-          explanation: "Facilitation.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s15",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Respond to a request for examples of confounding:",
-          options: ["[[A concrete example would be healthier users selecting into wearable adoption, biasing apparent health associations.|ejemplo concreto]]", "[[Examples exist.|vago]]", "[[No examples.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Illustration.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s16",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Signal building on prior point about replication:",
-          options: ["[[Building on that, we might ask whether journal incentives reward flashy null-hypothesis rejection over careful replication.|Building on that]]", "[[Unrelated: pizza.|tangente]]", "[[Forget that.|ruptura]]"],
-          correctAnswer: 0,
-          explanation: "Linkage.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s17",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Express empathy after a story of failed experiment:",
-          options: ["[[I can see why that contamination would feel devastating, even if the design was otherwise sound.|empatía matizada]]", "[[Your fault.|dañino]]", "[[Science is easy.|frío]]"],
-          correctAnswer: 0,
-          explanation: "Empathy.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u3-s18",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — science|Discusión — ciencia]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "End with a forward-looking question on biotechnology governance:",
-          options: ["[[Where should democratic deliberation sit in licensing decisions when benefits and risks are unevenly distributed across countries?|pregunta prospectiva]]", "[[The end.|cierre seco]]", "[[Who cares?|descortés]]"],
-          correctAnswer: 0,
-          explanation: "Productive close.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  }
 ];

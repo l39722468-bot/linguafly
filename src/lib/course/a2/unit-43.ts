@@ -1,6 +1,6 @@
 /**
  * Unidad 43 — Present Perfect: Just, Already, Yet (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_43_ALL_EXERCISES } from './unit-43-lessons-index';

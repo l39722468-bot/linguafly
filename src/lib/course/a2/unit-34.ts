@@ -1,6 +1,6 @@
 /**
  * Unidad 34 — Future with 'Will': Offers & Promises (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_34_ALL_EXERCISES } from './unit-34-lessons-index';

@@ -1,6 +1,6 @@
 /**
  * Unidad 30 — Module 3 Review (A2)
- * Carga las lecciones: Lectura, Escucha, Oral, Escrita.
+ * Carga las lecciones: Lectura, Escucha, Escrita.
  */
 
 import { UNIT_30_ALL_EXERCISES } from './unit-30-lessons-index';

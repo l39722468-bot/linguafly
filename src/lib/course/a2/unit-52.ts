@@ -1,6 +1,6 @@
 /**
  * Unidad 52 — Modals: Mustn't & Don't have to (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_52_ALL_EXERCISES } from './unit-52-lessons-index';

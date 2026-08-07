@@ -3,8 +3,8 @@
  * Módulo 1 (bloque temático): Persona, sociedad y entorno
  * Grammar: Fronting, topicalisation, contrast, speculation
  *
- * Modelo ampliado: 18 ejercicios por lección × 6 lecciones = 108 ítems.
- * Patrón de IDs: c1-u8-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18, s1..s18.
+ * Modelo ampliado: 18 ejercicios por lección × 5 lecciones = 90 ítems.
+ * Patrón de IDs: c1-u8-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18.
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -12,7 +12,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = '[[Global Issues|Problemas globales]]';
 
 export const UNIT_8_EXERCISES: Exercise[] = [
-  {
+{
     id: "c1-u8-g1",
     type: 'multiple-choice',
     level: 'C1',
@@ -32,7 +32,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g2",
     type: 'fill-blank',
     level: 'C1',
@@ -53,7 +53,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g3",
     type: 'multiple-choice',
     level: 'C1',
@@ -73,7 +73,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g4",
     type: 'fill-blank',
     level: 'C1',
@@ -94,7 +94,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g5",
     type: 'multiple-choice',
     level: 'C1',
@@ -114,7 +114,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g6",
     type: 'fill-blank',
     level: 'C1',
@@ -135,7 +135,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g7",
     type: 'multiple-choice',
     level: 'C1',
@@ -155,7 +155,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g8",
     type: 'multiple-choice',
     level: 'C1',
@@ -175,7 +175,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g9",
     type: 'multiple-choice',
     level: 'C1',
@@ -195,7 +195,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g10",
     type: 'fill-blank',
     level: 'C1',
@@ -216,7 +216,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g11",
     type: 'multiple-choice',
     level: 'C1',
@@ -236,7 +236,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g12",
     type: 'fill-blank',
     level: 'C1',
@@ -257,7 +257,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g13",
     type: 'multiple-choice',
     level: 'C1',
@@ -277,7 +277,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g14",
     type: 'fill-blank',
     level: 'C1',
@@ -298,7 +298,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g15",
     type: 'multiple-choice',
     level: 'C1',
@@ -318,7 +318,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g16",
     type: 'fill-blank',
     level: 'C1',
@@ -339,7 +339,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g17",
     type: 'multiple-choice',
     level: 'C1',
@@ -359,7 +359,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-g18",
     type: 'fill-blank',
     level: 'C1',
@@ -380,7 +380,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u8-v1",
     type: 'multiple-choice',
     level: 'C1',
@@ -400,7 +400,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v2",
     type: 'multiple-choice',
     level: 'C1',
@@ -420,7 +420,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v3",
     type: 'multiple-choice',
     level: 'C1',
@@ -440,7 +440,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v4",
     type: 'multiple-choice',
     level: 'C1',
@@ -460,7 +460,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v5",
     type: 'multiple-choice',
     level: 'C1',
@@ -480,7 +480,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v6",
     type: 'multiple-choice',
     level: 'C1',
@@ -500,7 +500,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v7",
     type: 'multiple-choice',
     level: 'C1',
@@ -520,7 +520,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v8",
     type: 'multiple-choice',
     level: 'C1',
@@ -540,7 +540,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v9",
     type: 'multiple-choice',
     level: 'C1',
@@ -560,7 +560,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v10",
     type: 'multiple-choice',
     level: 'C1',
@@ -580,7 +580,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v11",
     type: 'multiple-choice',
     level: 'C1',
@@ -600,7 +600,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v12",
     type: 'multiple-choice',
     level: 'C1',
@@ -620,7 +620,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v13",
     type: 'multiple-choice',
     level: 'C1',
@@ -640,7 +640,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v14",
     type: 'multiple-choice',
     level: 'C1',
@@ -660,7 +660,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v15",
     type: 'multiple-choice',
     level: 'C1',
@@ -680,7 +680,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v16",
     type: 'multiple-choice',
     level: 'C1',
@@ -700,7 +700,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v17",
     type: 'multiple-choice',
     level: 'C1',
@@ -720,7 +720,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-v18",
     type: 'multiple-choice',
     level: 'C1',
@@ -740,7 +740,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u8-r1",
     type: 'reading-comprehension',
     level: 'C1',
@@ -760,7 +760,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r2",
     type: 'reading-comprehension',
     level: 'C1',
@@ -780,7 +780,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r3",
     type: 'reading-comprehension',
     level: 'C1',
@@ -800,7 +800,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r4",
     type: 'reading-comprehension',
     level: 'C1',
@@ -820,7 +820,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r5",
     type: 'reading-comprehension',
     level: 'C1',
@@ -840,7 +840,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r6",
     type: 'reading-comprehension',
     level: 'C1',
@@ -860,7 +860,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r7",
     type: 'reading-comprehension',
     level: 'C1',
@@ -880,7 +880,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r8",
     type: 'reading-comprehension',
     level: 'C1',
@@ -900,7 +900,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r9",
     type: 'reading-comprehension',
     level: 'C1',
@@ -920,7 +920,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r10",
     type: 'reading-comprehension',
     level: 'C1',
@@ -940,7 +940,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r11",
     type: 'reading-comprehension',
     level: 'C1',
@@ -960,7 +960,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r12",
     type: 'reading-comprehension',
     level: 'C1',
@@ -980,7 +980,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r13",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1000,7 +1000,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r14",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1020,7 +1020,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r15",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1040,7 +1040,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r16",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1060,7 +1060,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r17",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1080,7 +1080,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-r18",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1100,7 +1100,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u8-l1",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1120,7 +1120,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l2",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1140,7 +1140,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l3",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1160,7 +1160,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l4",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1180,7 +1180,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l5",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1200,7 +1200,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l6",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1220,7 +1220,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l7",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1240,7 +1240,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l8",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1260,7 +1260,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l9",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1280,7 +1280,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l10",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1300,7 +1300,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l11",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1320,7 +1320,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l12",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1340,7 +1340,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l13",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1360,7 +1360,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l14",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1380,7 +1380,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l15",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1400,7 +1400,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l16",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1420,7 +1420,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l17",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1440,7 +1440,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-l18",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1460,7 +1460,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u8-w1",
     type: 'writing',
     level: 'C1',
@@ -1480,7 +1480,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w2",
     type: 'writing',
     level: 'C1',
@@ -1500,7 +1500,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w3",
     type: 'writing',
     level: 'C1',
@@ -1520,7 +1520,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w4",
     type: 'writing',
     level: 'C1',
@@ -1540,7 +1540,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w5",
     type: 'writing',
     level: 'C1',
@@ -1560,7 +1560,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w6",
     type: 'writing',
     level: 'C1',
@@ -1580,7 +1580,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w7",
     type: 'writing',
     level: 'C1',
@@ -1600,7 +1600,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w8",
     type: 'writing',
     level: 'C1',
@@ -1620,7 +1620,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w9",
     type: 'writing',
     level: 'C1',
@@ -1640,7 +1640,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w10",
     type: 'writing',
     level: 'C1',
@@ -1660,7 +1660,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w11",
     type: 'writing',
     level: 'C1',
@@ -1680,7 +1680,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w12",
     type: 'writing',
     level: 'C1',
@@ -1700,7 +1700,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w13",
     type: 'writing',
     level: 'C1',
@@ -1720,7 +1720,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w14",
     type: 'writing',
     level: 'C1',
@@ -1740,7 +1740,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w15",
     type: 'writing',
     level: 'C1',
@@ -1760,7 +1760,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w16",
     type: 'writing',
     level: 'C1',
@@ -1780,7 +1780,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w17",
     type: 'writing',
     level: 'C1',
@@ -1800,7 +1800,7 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u8-w18",
     type: 'writing',
     level: 'C1',
@@ -1820,364 +1820,4 @@ export const UNIT_8_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
-    id: "c1-u8-s1",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Concede merit before countering in a debate on UN Security Council reform:",
-          options: ["[[While I accept that veto politics obstructs swift action, I would argue that incremental working methods can still reduce deadlock on humanitarian mandates.|While I accept… I would argue…]]", "[[The UN is useless.|ad hominem]]", "[[Reform is easy.|vago]]"],
-          correctAnswer: 0,
-          explanation: "Concession.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s2",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Soften a claim that \"sanctions always work\":",
-          options: ["[[It would be reductive to treat sanctions as a single lever; their economic, signalling and humanitarian effects interact in context-specific ways.|hedging en capas]]", "[[Sanctions always win.|absoluto]]", "[[Maybe.|flojo]]"],
-          correctAnswer: 0,
-          explanation: "Nuanced sanctions.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s3",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Structure a Part 3-style answer on whether climate finance is fair:",
-          options: ["[[I'd like to separate historical emissions from present vulnerability: the same country can be a high emitter today yet face acute disaster risk — fairness metrics therefore need multiple dimensions.|signposting]]", "[[Money fixes climate.|superficial]]", "[[No idea.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Oral architecture.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s4",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Politely disagree that \"refugees should stay in the first safe country\":",
-          options: ["[[I'm not entirely convinced the first-safe-country rule captures family ties and labour market realities codified in many resettlement programmes.|matizado]]", "[[That's heartless.|descortés]]", "[[I agree.|sin posición]]"],
-          correctAnswer: 0,
-          explanation: "Qualified disagreement.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s5",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Buy time before answering a technical question on Most Favoured Nation clauses:",
-          options: ["[[If I may, I'll clarify whether you mean MFN under GATT Article I or conditional treatment in a regional pact before answering.|ganar tiempo]]", "[[Google it.|descortés]]", "[[Pass.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Clarify terms.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s6",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Emphasise the difference between recognition of a state and recognition of a government orally:",
-          options: ["[[The key distinction is entityhood versus which administration speaks for it — diplomatic practice treats them separately though they interact.|distinción clave]]", "[[They are identical.|incorrecto]]", "[[Recognition is symbolic only.|falso]]"],
-          correctAnswer: 0,
-          explanation: "Concept clarity.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s7",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Summarise your interlocutor's view before responding on extradition to countries with torture concerns:",
-          options: ["[[If I follow you, you're saying diplomatic assurances are always sufficient. I'd qualify that: credibility depends on monitoring and past compliance.|reformular]]", "[[You spoke.|vago]]", "[[Wrong.|sin escucha]]"],
-          correctAnswer: 0,
-          explanation: "Active listening.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s8",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Close with a balanced takeaway on carbon markets:",
-          options: ["[[So, pulling this together, pricing can steer investment, yet integrity rules determine whether credits represent real mitigation rather than accounting tricks.|síntesis]]", "[[Markets are evil.|binario]]", "[[Whatever.|informal]]"],
-          correctAnswer: 0,
-          explanation: "Balanced close.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s9",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Ask for clarification about \"rules-based order\" in a panel on geopolitics:",
-          options: ["[[Could you clarify whether you mean UN Charter law, WTO rules, or informal alliances — the obligations differ sharply?|precisión]]", "[[Rules what?|brusco]]", "[[Order is fake.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Targeted question.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s10",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Express partial agreement on debt relief for climate-vulnerable states:",
-          options: ["[[I partly agree that relief can unlock fiscal space, yet moral hazard concerns mean conditionality cannot vanish overnight.|acuerdo parcial]]", "[[Cancel everything.|cerrado]]", "[[Never forgive debt.|absoluto]]"],
-          correctAnswer: 0,
-          explanation: "Partial agreement.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s11",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Redirect a hostile question accusing diplomats of \"only caring about elites\":",
-          options: ["[[I hear the frustration; perhaps we can reframe this as how to embed community feedback in negotiating mandates rather than personalising negotiators.|reencuadre]]", "[[Shut up.|inaceptable]]", "[[Diplomats are saints.|falso]]"],
-          correctAnswer: 0,
-          explanation: "Diplomatic redirect.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s12",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Add weight with a formal marker in a panel on humanitarian corridors:",
-          options: ["[[Moreover, pauses in fighting require explicit timelines and monitoring arrangements to prevent collapse mid-convoy.|Moreover]]", "[[Also stuff.|informal]]", "[[And.|débil]]"],
-          correctAnswer: 0,
-          explanation: "Additive marker.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s13",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Acknowledge limits of your argument about a single leaked cable:",
-          options: ["[[I should stress that leaked cables can illuminate incentives but cannot substitute for verified implementation data.|límites]]", "[[Leaks prove all.|sin límites]]", "[[Cables are useless.|falso]]"],
-          correctAnswer: 0,
-          explanation: "Modesty.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s14",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Invite a legal scholar to extend your point on universal jurisdiction:",
-          options: ["[[I'd be interested to hear whether domestic statutes in your jurisdiction still require the suspect to be present before trial.|invitar]]", "[[You judge now.|orden]]", "[[Law is politics only.|descortés]]"],
-          correctAnswer: 0,
-          explanation: "Facilitation.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s15",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Give a concrete example of how sanctions affect medical imports:",
-          options: ["[[A concrete example would be delayed payments for insulin shipments when banks over-comply with broad financial restrictions.|ejemplo]]", "[[Sanctions are abstract.|vago]]", "[[No examples.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Illustration.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s16",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Build on a prior point about peacekeeping resource gaps:",
-          options: ["[[Building on that, we might ask how rapid-deployment stocks interact with host-state consent when spoilers mobilise quickly.|Building on that]]", "[[Unrelated: pizza.|tangente]]", "[[Peacekeepers are lazy.|ruptura]]"],
-          correctAnswer: 0,
-          explanation: "Linkage.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s17",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Show empathy after someone describes intimidation while documenting human rights abuses:",
-          options: ["[[That sounds genuinely frightening — especially if you felt unsafe travelling between field sites.|empatía]]", "[[Toughen up.|dañino]]", "[[Everyone is fine.|frío]]"],
-          correctAnswer: 0,
-          explanation: "Empathy.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u8-s18",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-global",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — global issues|Discusión — problemas globales]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "End with a forward-looking question on AI and battlefield autonomy:",
-          options: ["[[Where should accountability sit when a loitering munition misidentifies a target before a human reviews the feed?|pregunta prospectiva]]", "[[The end.|cierre seco]]", "[[AI is cool.|ingenuo]]"],
-          correctAnswer: 0,
-          explanation: "Productive close.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  }
 ];

@@ -1,6 +1,6 @@
 /**
  * Unidad 60 — Final A2 Review (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_60_ALL_EXERCISES } from './unit-60-lessons-index';

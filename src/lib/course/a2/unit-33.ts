@@ -1,6 +1,6 @@
 /**
  * Unidad 33 — Future with 'Will': Predictions (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_33_ALL_EXERCISES } from './unit-33-lessons-index';

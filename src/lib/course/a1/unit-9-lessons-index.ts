@@ -1,6 +1,5 @@
 /**
- * Índice de las 6 lecciones de la Unidad 9 (A1): Jobs & Occupations.
- * Exporta todo el contenido listo para la web.
+ * Índice de las 5 lecciones de la Unidad 9 (A1).
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -8,7 +7,6 @@ import { UNIT_9_LESSON_1_GRAMMAR } from './unit-9-lesson-1-grammar';
 import { UNIT_9_LESSON_2_VOCABULARY } from './unit-9-lesson-2-vocabulary';
 import { UNIT_9_LESSON_3_READING } from './unit-9-lesson-3-reading';
 import { UNIT_9_LESSON_4_LISTENING } from './unit-9-lesson-4-listening';
-import { UNIT_9_LESSON_5_SPEAKING } from './unit-9-lesson-5-speaking';
 import { UNIT_9_LESSON_6_WRITING } from './unit-9-lesson-6-writing';
 
 export const UNIT_9_LESSONS = {
@@ -16,19 +14,15 @@ export const UNIT_9_LESSONS = {
   vocabulary: UNIT_9_LESSON_2_VOCABULARY,
   reading: UNIT_9_LESSON_3_READING,
   listening: UNIT_9_LESSON_4_LISTENING,
-  speaking: UNIT_9_LESSON_5_SPEAKING,
   writing: UNIT_9_LESSON_6_WRITING,
 } as const;
 
-/** Todas las lecciones en orden: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita */
 export const UNIT_9_ALL_LESSONS: Exercise[][] = [
   UNIT_9_LESSON_1_GRAMMAR,
   UNIT_9_LESSON_2_VOCABULARY,
   UNIT_9_LESSON_3_READING,
   UNIT_9_LESSON_4_LISTENING,
-  UNIT_9_LESSON_5_SPEAKING,
   UNIT_9_LESSON_6_WRITING,
 ];
 
-/** Todos los ejercicios de la Unidad 9 en un solo array (90 ejercicios) */
 export const UNIT_9_ALL_EXERCISES: Exercise[] = UNIT_9_ALL_LESSONS.flat();

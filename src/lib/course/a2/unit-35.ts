@@ -1,6 +1,6 @@
 /**
  * Unidad 35 — Travel Plans & Bookings (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_35_ALL_EXERCISES } from './unit-35-lessons-index';

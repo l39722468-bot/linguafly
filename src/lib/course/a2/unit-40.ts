@@ -1,6 +1,6 @@
 /**
  * Unidad 40 — Module 4 Review (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_40_ALL_EXERCISES } from './unit-40-lessons-index';

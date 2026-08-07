@@ -1,6 +1,6 @@
 /**
  * Unidad 58 — Prepositions of Movement (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_58_ALL_EXERCISES } from './unit-58-lessons-index';

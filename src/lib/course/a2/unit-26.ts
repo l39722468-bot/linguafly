@@ -1,6 +1,6 @@
 /**
  * Unidad 26 — First Conditional (A2)
- * Carga las lecciones: Lectura, Escucha, Oral, Escrita.
+ * Carga las lecciones: Lectura, Escucha, Escrita.
  */
 
 import { UNIT_26_ALL_EXERCISES } from './unit-26-lessons-index';

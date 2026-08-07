@@ -8,7 +8,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'C1 Language Lab — Advanced Conditionals';
 
 export const UNIT_65_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u65-g1',
     type: 'multiple-choice',
     level: 'C1',
@@ -33,7 +33,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u65-g2',
     type: 'fill-blank',
     level: 'C1',
@@ -56,7 +56,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u65-g3',
     type: 'multiple-choice',
     level: 'C1',
@@ -82,7 +82,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u65-v1',
     type: 'multiple-choice',
     level: 'C1',
@@ -108,7 +108,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u65-v2',
     type: 'fill-blank',
     level: 'C1',
@@ -131,7 +131,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u65-v3',
     type: 'multiple-choice',
     level: 'C1',
@@ -157,7 +157,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u65-r1',
     type: 'reading-comprehension',
     level: 'C1',
@@ -183,7 +183,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u65-r2',
     type: 'multiple-choice',
     level: 'C1',
@@ -209,7 +209,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u65-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -234,7 +234,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u65-l1',
     type: 'listening-comprehension',
     level: 'C1',
@@ -260,7 +260,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u65-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -285,7 +285,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u65-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -310,7 +310,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u65-w1',
     type: 'writing',
     level: 'C1',
@@ -335,7 +335,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u65-w2',
     type: 'writing',
     level: 'C1',
@@ -359,7 +359,7 @@ export const UNIT_65_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u65-w3',
     type: 'writing',
     level: 'C1',
@@ -382,78 +382,5 @@ export const UNIT_65_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u65-s1',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Tentative Conditionals|Condicionales tentativos]]',
-      instructions: 'Choose the most diplomatic way to state a condition in negotiation.',
-      questions: [
-        {
-          question: 'You want to signal openness while protecting your position. Which is most appropriate at C1?',
-          options: [
-            '[[We would, of course, be prepared to revisit the timeline — provided there were reciprocal movement on the issues we outlined in yesterday\'s session.|Estaríamos dispuestos a revisar el calendario — siempre que haya reciprocidad…]]',
-            '[[We will never change the timeline under any circumstances.|Cierre total a la negociación.]]',
-            '[[Change the timeline or we walk.|ultimátum demasiado brusco para C1 formal]]',
-          ],
-          correctAnswer: 0,
-          explanation:
-            '*Would be prepared to* + *provided there were* = polite conditional framing suitable for formal negotiation.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u65-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u65-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

@@ -8,5 +8,5 @@ import { UNIT_59_ALL_EXERCISES } from './unit-59-lessons-index';
 
 export const UNIT_TITLE = 'Review: Modal Deduction & Speculation';
 
-/** Todos los ejercicios de la Unidad 59 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 59 (5 lecciones). */
 export const UNIT_59_EXERCISES = UNIT_59_ALL_EXERCISES;

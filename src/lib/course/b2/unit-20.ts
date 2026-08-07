@@ -8,5 +8,5 @@ import { UNIT_20_ALL_EXERCISES } from './unit-20-lessons-index';
 
 export const UNIT_TITLE = 'Repaso 16–19';
 
-/** Todos los ejercicios de la Unidad 20 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 20 (5 lecciones). */
 export const UNIT_20_EXERCISES = UNIT_20_ALL_EXERCISES;

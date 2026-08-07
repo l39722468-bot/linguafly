@@ -8,5 +8,5 @@ import { UNIT_41_ALL_EXERCISES } from './unit-41-lessons-index';
 
 export const UNIT_TITLE = 'Education Systems & Learning';
 
-/** Todos los ejercicios de la Unidad 41 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 41 (5 lecciones). */
 export const UNIT_41_EXERCISES = UNIT_41_ALL_EXERCISES;

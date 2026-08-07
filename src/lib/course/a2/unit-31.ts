@@ -1,6 +1,6 @@
 /**
  * Unidad 31 — Future with 'Going to': Intentions (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_31_ALL_EXERCISES } from './unit-31-lessons-index';

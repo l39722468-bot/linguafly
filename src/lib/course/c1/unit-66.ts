@@ -8,7 +8,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'C1 Language Lab — Mandative Subjunctive';
 
 export const UNIT_66_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u66-g1',
     type: 'multiple-choice',
     level: 'C1',
@@ -33,7 +33,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u66-g2',
     type: 'fill-blank',
     level: 'C1',
@@ -56,7 +56,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u66-g3',
     type: 'multiple-choice',
     level: 'C1',
@@ -81,7 +81,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u66-v1',
     type: 'multiple-choice',
     level: 'C1',
@@ -107,7 +107,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u66-v2',
     type: 'fill-blank',
     level: 'C1',
@@ -130,7 +130,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u66-v3',
     type: 'multiple-choice',
     level: 'C1',
@@ -156,7 +156,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u66-r1',
     type: 'reading-comprehension',
     level: 'C1',
@@ -182,7 +182,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u66-r2',
     type: 'multiple-choice',
     level: 'C1',
@@ -208,7 +208,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u66-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -233,7 +233,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u66-l1',
     type: 'listening-comprehension',
     level: 'C1',
@@ -259,7 +259,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u66-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -284,7 +284,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u66-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -309,7 +309,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u66-w1',
     type: 'writing',
     level: 'C1',
@@ -334,7 +334,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u66-w2',
     type: 'writing',
     level: 'C1',
@@ -358,7 +358,7 @@ export const UNIT_66_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u66-w3',
     type: 'writing',
     level: 'C1',
@@ -381,78 +381,5 @@ export const UNIT_66_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u66-s1',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Formal Proposals|Propuestas formales]]',
-      instructions: 'Choose the most appropriate way to propose a motion in a formal meeting.',
-      questions: [
-        {
-          question: 'You are chairing and want to put a resolution to the vote. Which is most appropriate at C1?',
-          options: [
-            '[[I propose that we adopt the resolution as tabled and that the secretary circulate the amended text to members within five working days.|Propongo que adoptemos la resolución… y que el secretario distribuya…]]',
-            '[[Let\'s just vote now, whatever.|Demasiado informal.]]',
-            '[[I order you all to vote yes.|Imperativo inadecuado en un debate democrático.]]',
-          ],
-          correctAnswer: 0,
-          explanation:
-            '*I propose that we adopt* and *that the secretary circulate* (mandative *circulate*) fit formal procedural English.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u66-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u66-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

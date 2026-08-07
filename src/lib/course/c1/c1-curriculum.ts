@@ -92,7 +92,7 @@ export const C1_UI_MODULES: readonly {
     key: 'language-lab',
     titleEs: 'Language Lab — Sistemas lingüísticos C1',
     descriptionEs:
-      'Unidades 61–73: gramática y léxico de precisión, lectura/listening/writing/speaking en registro académico o formal. Complementa el bloque temático con teoría y uso sistémico.',
+      'Unidades 61–73: gramática y léxico de precisión, lectura/listening/writing en registro académico o formal. Complementa el bloque temático con teoría y uso sistémico.',
     unitRange: [61, 73],
   },
 ] as const;

@@ -8,6 +8,6 @@ import { UNIT_61_ALL_EXERCISES } from './unit-61-lessons-index';
 
 export const UNIT_TITLE = 'Grammar Boost B2+: Modal Deduction & Advanced Conditionals';
 
-/** Todos los ejercicios de la Unidad 61 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 61 (5 lecciones). */
 export const UNIT_61_EXERCISES = UNIT_61_ALL_EXERCISES;
 

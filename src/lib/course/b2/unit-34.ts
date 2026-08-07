@@ -8,5 +8,5 @@ import { UNIT_34_ALL_EXERCISES } from './unit-34-lessons-index';
 
 export const UNIT_TITLE = 'State verbs & Technology';
 
-/** Todos los ejercicios de la Unidad 34 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 34 (5 lecciones). */
 export const UNIT_34_EXERCISES = UNIT_34_ALL_EXERCISES;

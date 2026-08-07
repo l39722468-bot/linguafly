@@ -3,8 +3,8 @@
  * Módulo 1 (bloque temático): Persona, sociedad y entorno
  * Grammar: It-structures; cause/result linkers; advanced modals
  *
- * Modelo ampliado: 18 ejercicios por lección × 6 lecciones = 108 ítems.
- * Patrón de IDs: c1-u6-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18, s1..s18.
+ * Modelo ampliado: 18 ejercicios por lección × 5 lecciones = 90 ítems.
+ * Patrón de IDs: c1-u6-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18.
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -12,7 +12,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = '[[Work and Economy|Trabajo y economía]]';
 
 export const UNIT_6_EXERCISES: Exercise[] = [
-  {
+{
     id: "c1-u6-g1",
     type: 'multiple-choice',
     level: 'C1',
@@ -32,7 +32,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g2",
     type: 'fill-blank',
     level: 'C1',
@@ -53,7 +53,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g3",
     type: 'multiple-choice',
     level: 'C1',
@@ -73,7 +73,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g4",
     type: 'multiple-choice',
     level: 'C1',
@@ -93,7 +93,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g5",
     type: 'fill-blank',
     level: 'C1',
@@ -114,7 +114,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g6",
     type: 'multiple-choice',
     level: 'C1',
@@ -134,7 +134,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g7",
     type: 'fill-blank',
     level: 'C1',
@@ -155,7 +155,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g8",
     type: 'multiple-choice',
     level: 'C1',
@@ -175,7 +175,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g9",
     type: 'fill-blank',
     level: 'C1',
@@ -196,7 +196,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g10",
     type: 'multiple-choice',
     level: 'C1',
@@ -216,7 +216,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g11",
     type: 'multiple-choice',
     level: 'C1',
@@ -236,7 +236,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g12",
     type: 'fill-blank',
     level: 'C1',
@@ -257,7 +257,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g13",
     type: 'fill-blank',
     level: 'C1',
@@ -278,7 +278,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g14",
     type: 'multiple-choice',
     level: 'C1',
@@ -298,7 +298,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g15",
     type: 'fill-blank',
     level: 'C1',
@@ -319,7 +319,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g16",
     type: 'multiple-choice',
     level: 'C1',
@@ -339,7 +339,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g17",
     type: 'fill-blank',
     level: 'C1',
@@ -360,7 +360,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-g18",
     type: 'multiple-choice',
     level: 'C1',
@@ -380,7 +380,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u6-v1",
     type: 'multiple-choice',
     level: 'C1',
@@ -400,7 +400,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v2",
     type: 'multiple-choice',
     level: 'C1',
@@ -420,7 +420,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v3",
     type: 'multiple-choice',
     level: 'C1',
@@ -440,7 +440,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v4",
     type: 'multiple-choice',
     level: 'C1',
@@ -460,7 +460,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v5",
     type: 'multiple-choice',
     level: 'C1',
@@ -480,7 +480,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v6",
     type: 'multiple-choice',
     level: 'C1',
@@ -500,7 +500,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v7",
     type: 'multiple-choice',
     level: 'C1',
@@ -520,7 +520,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v8",
     type: 'multiple-choice',
     level: 'C1',
@@ -540,7 +540,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v9",
     type: 'multiple-choice',
     level: 'C1',
@@ -560,7 +560,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v10",
     type: 'multiple-choice',
     level: 'C1',
@@ -580,7 +580,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v11",
     type: 'multiple-choice',
     level: 'C1',
@@ -600,7 +600,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v12",
     type: 'multiple-choice',
     level: 'C1',
@@ -620,7 +620,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v13",
     type: 'multiple-choice',
     level: 'C1',
@@ -640,7 +640,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v14",
     type: 'multiple-choice',
     level: 'C1',
@@ -660,7 +660,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v15",
     type: 'multiple-choice',
     level: 'C1',
@@ -680,7 +680,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v16",
     type: 'multiple-choice',
     level: 'C1',
@@ -700,7 +700,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v17",
     type: 'multiple-choice',
     level: 'C1',
@@ -720,7 +720,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-v18",
     type: 'multiple-choice',
     level: 'C1',
@@ -740,7 +740,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u6-r1",
     type: 'reading-comprehension',
     level: 'C1',
@@ -760,7 +760,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r2",
     type: 'reading-comprehension',
     level: 'C1',
@@ -780,7 +780,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r3",
     type: 'reading-comprehension',
     level: 'C1',
@@ -800,7 +800,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r4",
     type: 'reading-comprehension',
     level: 'C1',
@@ -820,7 +820,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r5",
     type: 'reading-comprehension',
     level: 'C1',
@@ -840,7 +840,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r6",
     type: 'reading-comprehension',
     level: 'C1',
@@ -860,7 +860,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r7",
     type: 'reading-comprehension',
     level: 'C1',
@@ -880,7 +880,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r8",
     type: 'reading-comprehension',
     level: 'C1',
@@ -900,7 +900,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r9",
     type: 'reading-comprehension',
     level: 'C1',
@@ -920,7 +920,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r10",
     type: 'reading-comprehension',
     level: 'C1',
@@ -940,7 +940,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r11",
     type: 'reading-comprehension',
     level: 'C1',
@@ -960,7 +960,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r12",
     type: 'reading-comprehension',
     level: 'C1',
@@ -980,7 +980,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r13",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1000,7 +1000,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r14",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1020,7 +1020,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r15",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1040,7 +1040,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r16",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1060,7 +1060,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r17",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1080,7 +1080,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-r18",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1100,7 +1100,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u6-l1",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1120,7 +1120,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l2",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1140,7 +1140,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l3",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1160,7 +1160,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l4",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1180,7 +1180,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l5",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1200,7 +1200,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l6",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1220,7 +1220,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l7",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1240,7 +1240,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l8",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1260,7 +1260,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l9",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1280,7 +1280,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l10",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1300,7 +1300,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l11",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1320,7 +1320,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l12",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1340,7 +1340,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l13",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1360,7 +1360,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l14",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1380,7 +1380,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l15",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1400,7 +1400,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l16",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1420,7 +1420,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l17",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1440,7 +1440,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-l18",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1460,7 +1460,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u6-w1",
     type: 'writing',
     level: 'C1',
@@ -1480,7 +1480,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w2",
     type: 'writing',
     level: 'C1',
@@ -1500,7 +1500,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w3",
     type: 'writing',
     level: 'C1',
@@ -1520,7 +1520,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w4",
     type: 'writing',
     level: 'C1',
@@ -1540,7 +1540,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w5",
     type: 'writing',
     level: 'C1',
@@ -1560,7 +1560,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w6",
     type: 'writing',
     level: 'C1',
@@ -1580,7 +1580,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w7",
     type: 'writing',
     level: 'C1',
@@ -1600,7 +1600,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w8",
     type: 'writing',
     level: 'C1',
@@ -1620,7 +1620,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w9",
     type: 'writing',
     level: 'C1',
@@ -1640,7 +1640,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w10",
     type: 'writing',
     level: 'C1',
@@ -1660,7 +1660,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w11",
     type: 'writing',
     level: 'C1',
@@ -1680,7 +1680,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w12",
     type: 'writing',
     level: 'C1',
@@ -1700,7 +1700,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w13",
     type: 'writing',
     level: 'C1',
@@ -1720,7 +1720,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w14",
     type: 'writing',
     level: 'C1',
@@ -1740,7 +1740,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w15",
     type: 'writing',
     level: 'C1',
@@ -1760,7 +1760,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w16",
     type: 'writing',
     level: 'C1',
@@ -1780,7 +1780,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w17",
     type: 'writing',
     level: 'C1',
@@ -1800,7 +1800,7 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u6-w18",
     type: 'writing',
     level: 'C1',
@@ -1820,364 +1820,4 @@ export const UNIT_6_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
-    id: "c1-u6-s1",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Concede a point before countering in a debate on raising the minimum wage:",
-          options: ["[[While I accept that small firms face thin margins, I would argue that poverty wages externalise social costs onto public services.|While I accept… I would argue…]]", "[[Bosses are greedy.|ad hominem]]", "[[OK.|corto]]"],
-          correctAnswer: 0,
-          explanation: "Concession.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s2",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Soften a claim that \"automation will destroy all jobs\":",
-          options: ["[[It would be simplistic to treat technology as a single shock; adoption paths differ sharply across tasks, sectors and bargaining contexts.|hedging en capas]]", "[[Robots will kill us.|apocalíptico]]", "[[Maybe.|flojo]]"],
-          correctAnswer: 0,
-          explanation: "Nuanced automation.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s3",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Structure a Part 3-style answer on whether CEOs deserve their pay:",
-          options: ["[[I'd like to separate market benchmarks from desert: compression at the top may reflect tournament dynamics rather than marginal product alone.|signposting]]", "[[CEOs are bad.|superficial]]", "[[No idea.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Oral architecture.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s4",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Politely disagree that unions \"always harm competitiveness\":",
-          options: ["[[I'm not entirely convinced the evidence is uniform; coordinated wage setting can stabilise demand and reduce poaching externalities in some sectors.|matizado]]", "[[Unions ruin everything.|cerrado]]", "[[I agree.|sin posición]]"],
-          correctAnswer: 0,
-          explanation: "Qualified disagreement.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s5",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Buy time before answering a technical question on yield curves:",
-          options: ["[[If I may, I'll separate inversion as a recession predictor from inversion as a carry-trade artefact before answering.|ganar tiempo]]", "[[Google it.|descortés]]", "[[Pass.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Clarify concepts.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s6",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Emphasise orally the difference between debt and deficit:",
-          options: ["[[The key distinction is stock versus flow — the deficit is an annual flow, while debt is the accumulated stock subject to rollover conditions.|distinción clave]]", "[[They are the same.|incorrecto]]", "[[Debt is monthly.|confuso]]"],
-          correctAnswer: 0,
-          explanation: "Concept clarity.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s7",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Summarise your interlocutor's view before responding on wealth taxes:",
-          options: ["[[If I follow you, you're saying wealth taxes always trigger capital flight. I'd qualify that: design and exemptions matter enormously for behavioural responses.|reformular]]", "[[You spoke.|vago]]", "[[Wrong.|sin escucha]]"],
-          correctAnswer: 0,
-          explanation: "Active listening.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s8",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Close with a balanced takeaway on free trade agreements:",
-          options: ["[[So, pulling this together, aggregate gains can coexist with concentrated losses unless adjustment assistance is credible and timely.|síntesis]]", "[[Trade is good.|binario]]", "[[Whatever.|informal]]"],
-          correctAnswer: 0,
-          explanation: "Balanced close.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s9",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Ask for clarification about \"natural rate of unemployment\":",
-          options: ["[[Could you clarify whether you mean the NAIRU estimate from the central bank's model or a broader structural underemployment concept?|precisión]]", "[[Natural what?|brusco]]", "[[Economics is fake.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Targeted question.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s10",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Express partial agreement on universal basic income:",
-          options: ["[[I partly agree that cash transfers can simplify administration, yet without housing and health anchors, net poverty impacts vary wildly by locality.|acuerdo parcial]]", "[[UBI solves everything.|absoluto]]", "[[UBI is stupid.|cerrado]]"],
-          correctAnswer: 0,
-          explanation: "Partial agreement.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s11",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Redirect a hostile question accusing economists of \"just guessing\":",
-          options: ["[[I appreciate the frustration; perhaps we can reframe this as which assumptions in the model are contested rather than personal guesswork.|reencuadre]]", "[[You're clueless.|escalada]]", "[[Not my problem.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Diplomatic redirect.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s12",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Add weight with a formal marker in a panel on monetary tightening:",
-          options: ["[[Moreover, transmission lags mean labour markets can deteriorate before headline inflation fully responds.|Moreover]]", "[[Also rates stuff.|informal]]", "[[And.|débil]]"],
-          correctAnswer: 0,
-          explanation: "Additive marker.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s13",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Acknowledge limits of your argument about a single country case study:",
-          options: ["[[I should stress that extrapolating from one liberalisation episode to universal prescriptions remains speculative without cross-country controls.|límites]]", "[[One case proves the world.|sin límites]]", "[[Case studies are useless.|falso]]"],
-          correctAnswer: 0,
-          explanation: "Modesty.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s14",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Invite a labour economist to extend your point on monopsony:",
-          options: ["[[I'd be interested to hear whether your local labour-market concentration measures correlate with quit elasticity in the same regions.|invitar]]", "[[You talk now.|orden]]", "[[Labour is simple.|descortés]]"],
-          correctAnswer: 0,
-          explanation: "Facilitation.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s15",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Give a concrete example of an externality in workplace safety:",
-          options: ["[[A concrete example would be under-reporting of injuries when gig platforms classify harm as non-compensable independent-contractor risk.|ejemplo]]", "[[Safety exists.|vago]]", "[[No examples.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Illustration.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s16",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Build on a prior point about greenwashing in finance:",
-          options: ["[[Building on that, we might ask whether fund labels track physical emissions or merely portfolio reshuffling within the same conglomerates.|Building on that]]", "[[Unrelated: pizza.|tangente]]", "[[Forget climate.|ruptura]]"],
-          correctAnswer: 0,
-          explanation: "Linkage.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s17",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Show empathy after someone describes a bankruptcy filing:",
-          options: ["[[I can see how devastating that must feel when employees had trusted repeated reassurances about solvency.|empatía]]", "[[Your fault.|dañino]]", "[[Business is hard.|frío]]"],
-          correctAnswer: 0,
-          explanation: "Empathy.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u6-s18",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-work",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — work & economy|Discusión — trabajo y economía]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "End with a forward-looking question on AI and wage-setting:",
-          options: ["[[Where should collective bargaining sit when algorithmic scheduling effectively sets pace and pay without human line managers?|pregunta prospectiva]]", "[[The end.|cierre seco]]", "[[AI is cool.|ingenuo]]"],
-          correctAnswer: 0,
-          explanation: "Productive close.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  }
 ];

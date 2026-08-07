@@ -1,6 +1,6 @@
 /**
  * Unidad 28 — Have to / Don't have to (A2)
- * Carga las lecciones: Lectura, Escucha, Oral, Escrita.
+ * Carga las lecciones: Lectura, Escucha, Escrita.
  */
 
 import { UNIT_28_ALL_EXERCISES } from './unit-28-lessons-index';
