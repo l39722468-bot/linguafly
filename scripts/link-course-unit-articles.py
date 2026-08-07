@@ -390,6 +390,12 @@ A2_LINKS: dict[str, list[tuple[str, str]]] = {
         ("gramatica/past-simple-usos-reglas", "Past Simple: usos y reglas"),
         ("gramatica/present-perfect-ever-never", "Present Perfect: ever / never"),
     ],
+    "unidad-16-past-continuous": [
+        ("gramatica/past-simple-vs-past-continuous", "Past Simple vs Past Continuous"),
+        ("gramatica/past-simple-usos-reglas", "Past Simple: usos y reglas"),
+        ("gramatica/errores-tiempos-pasado-espanoles", "Errores de tiempos de pasado"),
+        ("gramatica/present-perfect-vs-past-simple", "Present Perfect vs Past Simple"),
+    ],
 }
 
 # topic article path -> list of (course unit path, title) reverse links
@@ -516,6 +522,7 @@ REVERSE: dict[str, list[tuple[str, str]]] = {
         ("curso-a1/unidad-16-cafeteria-can-i-have-id-like", "A1 U16 — Pedir en la cafetería"),
     ],
     "gramatica/past-simple-vs-past-continuous": [
+        ("curso-a2/unidad-16-past-continuous", "A2 U16 — Past Continuous"),
         ("curso-a2/unidad-4-wh-questions-past-simple", "A2 U4 — Wh-questions en Past Simple"),
         ("curso-a2/unidad-2-past-simple-verbos-regulares", "A2 U2 — Past Simple regulares"),
     ],
