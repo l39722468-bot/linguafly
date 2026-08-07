@@ -452,6 +452,10 @@ La **Unidad 17** combina **Past Simple + Past Continuous**: *When I was walking,
 
 En la **Unidad 17** estudiarás **Past Simple + Past Continuous**: *When I was walking, I saw…* / *While she was cooking, the phone rang.*
 
+Guía blog:
+
+- [Unidad 17 — Past Simple + Past Continuous](/blog/curso-a2/unidad-17-past-simple-past-continuous)
+
 Curso:
 
 - [Unidad 17 — Past Simple + Past Continuous](/curso-a2/unit-17)
