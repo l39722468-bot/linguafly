@@ -20,9 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-18-gustos-like-ing-be
 image: /blog/curso-a1/unit-18/a1-unit18-like-ing.png
 alt: Esquema like + -ing en inglés nivel A1
 related_routes:
-  - unidad-17-comidas-breakfast-lunch-dinner
-  - unidad-16-cafeteria-can-i-have-id-like
-  - unidad-14-present-simple-dont-do-you
+  - ingles-para-deportes
+  - ingles-playas-deportes-acuaticos
   - ingles-a1
 faqs:
   - question: ¿Se dice I like read o I like reading?
@@ -541,10 +540,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 17 — Comidas: Breakfast, Lunch & Dinner](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner)
-- [Unidad 16 — Pedir en la cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
-- [Unidad 14 — don't y Do you…?](/blog/curso-a1/unidad-14-present-simple-dont-do-you)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para deportes](/blog/metodos/ingles-para-deportes)
+- [Inglés en playas y deportes acuáticos](/blog/viajes/ingles-playas-deportes-acuaticos)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

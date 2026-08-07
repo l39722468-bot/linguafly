@@ -21,9 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-2-to-be-pronombres-na
 image: /blog/curso-a1/unit-2/a1-unit2-to-be-chart.png
 alt: Tabla del verbo to be en inglés A1 con am, is y are para todos los pronombres
 related_routes:
-  - unidad-1-saludos-presentarse
-  - ingles-a1
   - gramatica-inglesa-guia
+  - ingles-a1
+  - ingles-a1-vs-a2
 faqs:
   - question: ¿Cuándo uso is y cuándo are con el verbo to be?
     answer: >-
@@ -572,9 +572,9 @@ En la **Unidad 3** aprenderás el verbo *to be* en **negativa e interrogativa** 
 
 Guías relacionadas:
 
-- [Unidad 1 — Saludos y presentarse](/blog/curso-a1/unidad-1-saludos-presentarse)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
-- [Gramática Inglesa: Guía por Niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+- [Inglés A1 vs A2](/blog/metodos/ingles-a1-vs-a2)
 
 ---
 

@@ -21,10 +21,10 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-41-aeropuerto-must-sh
 image: /blog/curso-a1/unit-41/a1-unit41-must-should.png
 alt: Esquema must vs should en el aeropuerto para inglés A1
 related_routes:
-  - unidad-40-repaso-modulo-4
-  - unidad-38-pedir-permiso
-  - unidad-31-can-habilidad
-  - ingles-a1
+  - mochileros-ingles-fronteras-aeropuertos-aduanas
+  - ingles-vuelos-retrasos-conexiones
+  - must-have-to-diferencia
+  - should-would-ingles
 faqs:
   - question: ¿Cuál es la diferencia entre must y should en A1?
     answer: >-
@@ -576,10 +576,10 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases con tu llegada al 
 
 Guías relacionadas:
 
-- [Unidad 40 — Repaso Módulo 4](/blog/curso-a1/unidad-40-repaso-modulo-4)
-- [Unidad 38 — Pedir permiso](/blog/curso-a1/unidad-38-pedir-permiso)
-- [Unidad 31 — Can for Ability](/blog/curso-a1/unidad-31-can-habilidad)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés en aeropuertos y aduanas](/blog/viajes/mochileros-ingles-fronteras-aeropuertos-aduanas)
+- [Inglés en vuelos y conexiones](/blog/viajes/ingles-vuelos-retrasos-conexiones)
+- [Must vs have to](/blog/gramatica/must-have-to-diferencia)
+- [Should / Would en inglés](/blog/gramatica/should-would-ingles)
 
 ---
 

@@ -21,9 +21,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-15-present-simple-doe
 image: /blog/curso-a1/unit-15/a1-unit15-doesnt.png
 alt: Esquema de doesn't en Present Simple inglés nivel A1
 related_routes:
-  - unidad-14-present-simple-dont-do-you
-  - unidad-13-rutina-diaria
-  - unidad-5-present-simple-rutinas
+  - gramatica-inglesa-guia
+  - pronunciacion-ed-s-ingles
   - ingles-a1
 faqs:
   - question: ¿Cómo se forma la negativa del Present Simple con he/she/it?
@@ -508,10 +507,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 14 — don't y Do you…?](/blog/curso-a1/unidad-14-present-simple-dont-do-you)
-- [Unidad 13 — Rutina diaria](/blog/curso-a1/unidad-13-rutina-diaria)
-- [Unidad 5 — Present Simple y rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Pronunciación de -ed y -s](/blog/gramatica/pronunciacion-ed-s-ingles)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

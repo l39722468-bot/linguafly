@@ -20,9 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-29-ropa-present-conti
 image: /blog/curso-a1/unit-29/a1-unit29-clothes.png
 alt: Esquema clothes I am wearing Present Continuous en inglés A1
 related_routes:
-  - unidad-28-partes-cuerpo-have-got
-  - unidad-7-colores-descripciones-fisicas
-  - unidad-5-present-simple-rutinas
+  - vocabulario-ropa-ingles
+  - ingles-para-compras
   - ingles-a1
 faqs:
   - question: ¿Cómo se dice “llevo puesto” en inglés A1?
@@ -584,10 +583,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 28 — Body Parts](/blog/curso-a1/unidad-28-partes-cuerpo-have-got)
-- [Unidad 7 — Colores y descripciones](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)
-- [Unidad 5 — Present Simple rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Vocabulario de ropa en inglés](/blog/metodos/vocabulario-ropa-ingles)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

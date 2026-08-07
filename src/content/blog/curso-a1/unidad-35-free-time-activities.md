@@ -20,9 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-35-free-time-activiti
 image: /blog/curso-a1/unit-35/a1-unit35-free-time-patterns.png
 alt: Esquema go for a walk go shopping y like + -ing en inglés A1
 related_routes:
-  - unidad-34-and-but-because
-  - unidad-32-deportes-hobbies-play-go-do
-  - unidad-18-gustos-like-ing-because
+  - ingles-para-deportes
+  - ingles-playas-deportes-acuaticos
   - ingles-a1
 faqs:
   - question: ¿Cómo digo ir de paseo e ir de compras?
@@ -596,10 +595,9 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre tu free time
 
 Guías relacionadas:
 
-- [Unidad 34 — And, but, because](/blog/curso-a1/unidad-34-and-but-because)
-- [Unidad 32 — Deportes y hobbies](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do)
-- [Unidad 18 — Gustos like + -ing](/blog/curso-a1/unidad-18-gustos-like-ing-because)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para deportes](/blog/metodos/ingles-para-deportes)
+- [Inglés en playas y deportes acuáticos](/blog/viajes/ingles-playas-deportes-acuaticos)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

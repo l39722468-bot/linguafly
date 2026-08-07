@@ -20,10 +20,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-49-maleta-need-to'
 image: /blog/curso-a1/unit-49/a1-unit49-need-to.png
 alt: Esquema need to y don't need to para hacer la maleta en inglés A1
 related_routes:
-  - unidad-48-sightseeing-superlativos
-  - unidad-47-vacaciones-was-were
-  - unidad-41-aeropuerto-must-should
-  - ingles-a1
+  - semi-modales-ingles
+  - ingles-para-viajar
+  - ingles-vuelos-retrasos-conexiones
 faqs:
   - question: ¿Qué significa need to en A1?
     answer: >-
@@ -568,10 +567,9 @@ Antes de pasar de unidad, escribe tu checklist de maleta en 6–8 frases.
 
 Guías relacionadas:
 
-- [Unidad 48 — Sightseeing](/blog/curso-a1/unidad-48-sightseeing-superlativos)
-- [Unidad 47 — Holidays](/blog/curso-a1/unidad-47-vacaciones-was-were)
-- [Unidad 41 — At the Airport](/blog/curso-a1/unidad-41-aeropuerto-must-should)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Semi-modales en inglés](/blog/gramatica/semi-modales-ingles)
+- [Inglés para viajar](/blog/viajes/ingles-para-viajar)
+- [Inglés en vuelos y conexiones](/blog/viajes/ingles-vuelos-retrasos-conexiones)
 
 ---
 

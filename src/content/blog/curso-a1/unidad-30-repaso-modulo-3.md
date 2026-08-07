@@ -21,10 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-30-repaso-modulo-3'
 image: /blog/curso-a1/unit-30/a1-unit30-module-map.png
 alt: Mapa de repaso del Módulo 3 del curso A1
 related_routes:
-  - unidad-29-ropa-present-continuous
-  - unidad-28-partes-cuerpo-have-got
-  - unidad-26-direcciones-imperativos
-  - unidad-23-there-is-there-are
+  - preposiciones-movimiento-ingles
+  - vocabulario-ropa-ingles
+  - ingles-para-salud
   - ingles-a1
 faqs:
   - question: ¿Qué repasa la Unidad 30 del curso A1?
@@ -593,6 +592,15 @@ Guías relacionadas del módulo:
 - [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
 
 ---
+
+
+Guías relacionadas:
+
+- [Preposiciones de movimiento](/blog/gramatica/preposiciones-movimiento-ingles)
+- [Vocabulario de ropa en inglés](/blog/metodos/vocabulario-ropa-ingles)
+- [Inglés para salud](/blog/trabajo/ingles-para-salud)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+
 
 ## Fuentes
 

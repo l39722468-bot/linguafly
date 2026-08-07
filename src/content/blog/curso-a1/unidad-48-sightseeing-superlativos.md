@@ -21,10 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-48-sightseeing-superl
 image: /blog/curso-a1/unit-48/a1-unit48-superlatives.png
 alt: Esquema de superlativos básicos para sightseeing en inglés A1
 related_routes:
-  - unidad-47-vacaciones-was-were
-  - unidad-46-hotel-can-i-have
-  - unidad-43-verbos-viaje-horarios
-  - ingles-a1
+  - ingles-museos-turismo-cultural
+  - ingles-para-viajar
+  - unidad-6-superlativos-est-the-most
 faqs:
   - question: ¿Cómo formo superlativos cortos en A1?
     answer: >-
@@ -572,10 +571,9 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre un día de s
 
 Guías relacionadas:
 
-- [Unidad 47 — Holidays](/blog/curso-a1/unidad-47-vacaciones-was-were)
-- [Unidad 46 — At the Hotel](/blog/curso-a1/unidad-46-hotel-can-i-have)
-- [Unidad 43 — Travel Verbs](/blog/curso-a1/unidad-43-verbos-viaje-horarios)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés en museos y turismo cultural](/blog/viajes/ingles-museos-turismo-cultural)
+- [Inglés para viajar](/blog/viajes/ingles-para-viajar)
+- [A2 U6 — Superlativos](/blog/curso-a2/unidad-6-superlativos-est-the-most)
 
 ---
 

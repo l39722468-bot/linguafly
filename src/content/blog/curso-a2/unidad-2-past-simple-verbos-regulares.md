@@ -21,9 +21,10 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-2-past-simple-verbos-
 image: /blog/curso-a2/unit-2/a2-unit2-past-simple-ed.png
 alt: Esquema Past Simple verbos regulares con -ed para inglés A2
 related_routes:
-  - unidad-1-saludos-introducciones-repaso
-  - ingles-a2
-  - ingles-a1-vs-a2
+  - past-simple-usos-reglas
+  - errores-tiempos-pasado-espanoles
+  - pronunciacion-ed-s-ingles
+  - unidad-47-vacaciones-was-were
 faqs:
   - question: ¿Cómo se forma el Past Simple de los verbos regulares?
     answer: >-
@@ -419,10 +420,10 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 1 — Saludos e introducciones (repaso)](/blog/curso-a2/unidad-1-saludos-introducciones-repaso)
-- [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Inglés A1 vs A2](/blog/metodos/ingles-a1-vs-a2)
-- [Índice del curso A2](/curso-a2)
+- [Past Simple: usos y reglas](/blog/gramatica/past-simple-usos-reglas)
+- [Errores de tiempos de pasado](/blog/gramatica/errores-tiempos-pasado-espanoles)
+- [Pronunciación de -ed y -s](/blog/gramatica/pronunciacion-ed-s-ingles)
+- [A1 U47 — Vacaciones: was/were](/blog/curso-a1/unidad-47-vacaciones-was-were)
 
 ---
 

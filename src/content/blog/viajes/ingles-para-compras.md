@@ -200,6 +200,15 @@ En mercados de segunda mano o bazares puedes intentar negociar el precio:
 
 Para prepararte con todo el vocabulario y frases esenciales, consulta [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar).
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U51 — Supermercado](/blog/curso-a1/unidad-51-supermercado-plurales)
+- [A1 U54 — How much / How many](/blog/curso-a1/unidad-54-how-much-how-many)
+- [A1 U55 — Tienda de ropa](/blog/curso-a1/unidad-55-tienda-ropa-too-enough)
+- [A1 U8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

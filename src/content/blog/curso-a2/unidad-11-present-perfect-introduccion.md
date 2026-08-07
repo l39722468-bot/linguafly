@@ -19,9 +19,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-11-present-perfect-in
 image: /blog/curso-a2/unit-11/a2-unit11-present-perfect.png
 alt: Esquema have/has + past participle del Present Perfect A2
 related_routes:
-  - unidad-12-present-perfect-ever-never
-  - unidad-10-repaso-modulo-1
-  - ingles-a2
+  - present-perfect-usos-principales
+  - present-perfect-vs-past-simple
+  - past-simple-verbos-irregulares
 faqs:
   - question: ¿Cómo se forma el Present Perfect en A2?
     answer: >-
@@ -445,10 +445,9 @@ Curso:
 
 Guías relacionadas:
 
-- [Unidad 10 — Repaso Módulo 1](/blog/curso-a2/unidad-10-repaso-modulo-1)
-- [Unidad 3 — Past Simple irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)
-- [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Índice del curso A2](/curso-a2)
+- [Present Perfect: usos principales](/blog/gramatica/present-perfect-usos-principales)
+- [Present Perfect vs Past Simple](/blog/gramatica/present-perfect-vs-past-simple)
+- [Past Simple: verbos irregulares](/blog/gramatica/past-simple-verbos-irregulares)
 
 ---
 

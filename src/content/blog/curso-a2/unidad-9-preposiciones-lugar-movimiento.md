@@ -19,9 +19,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-9-preposiciones-lugar
 image: /blog/curso-a2/unit-9/a2-unit9-prepositions-movement.png
 alt: Esquema into out of through across para inglés A2
 related_routes:
-  - unidad-10-repaso-modulo-1
-  - unidad-8-preposiciones-tiempo-at-on-in
-  - ingles-a2
+  - preposiciones-movimiento-ingles
+  - ingles-para-viajar
+  - unidad-24-preposiciones-lugar-next-to-between
 faqs:
   - question: ¿Qué significa into?
     answer: >-
@@ -460,10 +460,9 @@ Curso:
 
 Guías relacionadas:
 
-- [Unidad 8 — Preposiciones de tiempo](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in)
-- [Unidad 7 — Adverbios de modo](/blog/curso-a2/unidad-7-adverbios-modo-ly)
-- [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Índice del curso A2](/curso-a2)
+- [Preposiciones de movimiento](/blog/gramatica/preposiciones-movimiento-ingles)
+- [Inglés para viajar](/blog/viajes/ingles-para-viajar)
+- [A1 U24 — Preposiciones de lugar](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between)
 
 ---
 

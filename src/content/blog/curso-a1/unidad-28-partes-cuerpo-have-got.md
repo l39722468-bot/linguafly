@@ -21,9 +21,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-28-partes-cuerpo-have
 image: /blog/curso-a1/unit-28/a1-unit28-body-parts.png
 alt: Esquema body parts have got this these en inglés nivel A1
 related_routes:
-  - unidad-27-mascotas-animales
-  - unidad-7-colores-descripciones-fisicas
-  - unidad-4-articulos-plurales-demostrativos
+  - ingles-para-salud
+  - vocabulario-ingles-medico-enfermeria
   - ingles-a1
 faqs:
   - question: ¿Cuándo uso have got y cuándo has got?
@@ -622,10 +621,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 27 — Pets & Animals](/blog/curso-a1/unidad-27-mascotas-animales)
-- [Unidad 7 — Colores y descripciones](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)
-- [Unidad 4 — Artículos y demostrativos](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para salud](/blog/trabajo/ingles-para-salud)
+- [Vocabulario médico y enfermería](/blog/trabajo/vocabulario-ingles-medico-enfermeria)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

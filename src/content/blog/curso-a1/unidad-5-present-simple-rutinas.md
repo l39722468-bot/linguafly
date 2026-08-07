@@ -21,8 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-5-present-simple-ruti
 image: /blog/curso-a1/unit-5/a1-unit5-daily-routine.png
 alt: Línea de tiempo de rutina diaria en inglés nivel A1
 related_routes:
-  - unidad-4-articulos-plurales-demostrativos
-  - unidad-3-to-be-negativa-preguntas
+  - gramatica-inglesa-guia
   - ingles-a1
 faqs:
   - question: ¿Qué es el Present Simple en inglés?
@@ -565,9 +564,8 @@ En las **Unidades 13–15** profundizarás en Present Simple con **negativa** (*
 
 Guías relacionadas:
 
-- [Unidad 4 — Artículos y demostrativos](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
-- [Unidad 3 — To be: negativa y preguntas](/blog/curso-a1/unidad-3-to-be-negativa-preguntas)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

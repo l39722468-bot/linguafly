@@ -211,6 +211,13 @@ El transporte público es el pulso de una ciudad. Dominarlo en inglés te da ind
 - [Inglés para alquiler de coche](/blog/viajes/ingles-alquiler-coche)
 - [Mochileros: hostels y transporte público](/blog/viajes/mochileros-ingles-hostels-transporte-publico)
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U42 — Transporte](/blog/curso-a1/unidad-42-transporte-by-take-the)
+- [A1 U43 — Verbos de viaje](/blog/curso-a1/unidad-43-verbos-viaje-horarios)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

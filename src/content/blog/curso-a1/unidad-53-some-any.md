@@ -20,9 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-53-some-any'
 image: /blog/curso-a1/unit-53/a1-unit53-some-any.png
 alt: Esquema some y any en afirmativas negativas y preguntas A1
 related_routes:
-  - unidad-52-contables-incontables
-  - unidad-51-supermercado-plurales
-  - unidad-17-comidas-breakfast-lunch-dinner
+  - ingles-para-compras
+  - ingles-en-la-cocina
   - ingles-a1
 faqs:
   - question: ¿Cuándo uso some y cuándo any en A1?
@@ -462,10 +461,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 52 — Contables e incontables](/blog/curso-a1/unidad-52-contables-incontables)
-- [Unidad 51 — At the Supermarket](/blog/curso-a1/unidad-51-supermercado-plurales)
-- [Unidad 17 — Breakfast, Lunch & Dinner](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Inglés en la cocina](/blog/viajes/ingles-en-la-cocina)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

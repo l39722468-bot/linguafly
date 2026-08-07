@@ -247,6 +247,13 @@ Ver programas de cocina es una forma excelente de aprender vocabulario culinario
 
 Para prepararte con todo el vocabulario y frases esenciales, consulta [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar).
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U57 — Cocina y recetas](/blog/curso-a1/unidad-57-cocina-recetas)
+- [A1 U17 — Comidas del día](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

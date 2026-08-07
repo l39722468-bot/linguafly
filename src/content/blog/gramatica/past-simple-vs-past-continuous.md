@@ -148,6 +148,13 @@ El past continuous es esencial para crear atmósfera en textos narrativos. Compa
 
 La segunda versión crea un escenario más rico. El past continuous pinta el ambiente; el past simple avanza la acción.
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A2 U4 — Wh-questions en Past Simple](/blog/curso-a2/unidad-4-wh-questions-past-simple)
+- [A2 U2 — Past Simple regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
+
 ## Fuentes
 
 - Cambridge Dictionary (Past continuous and simple): https://dictionary.cambridge.org/grammar/british-grammar/past-continuous-i-was-working

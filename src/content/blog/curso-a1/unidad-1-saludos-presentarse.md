@@ -555,6 +555,14 @@ Mientras tanto, profundiza con estas guías relacionadas:
 
 ---
 
+
+Guías relacionadas:
+
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Fonética inglesa básica](/blog/gramatica/fonetica-inglesa-basica)
+
+
 ## Fuentes
 
 - CEFR/MCER — Nivel A1 (Breakthrough): https://www.coe.int/en/web/common-european-framework-reference-languages

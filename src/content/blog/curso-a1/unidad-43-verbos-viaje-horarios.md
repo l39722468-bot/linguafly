@@ -20,10 +20,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-43-verbos-viaje-horar
 image: /blog/curso-a1/unit-43/a1-unit43-schedules.png
 alt: Esquema Present Simple para horarios de viaje en inglés A1
 related_routes:
-  - unidad-42-transporte-by-take-the
-  - unidad-41-aeropuerto-must-should
-  - unidad-5-present-simple-rutinas
-  - ingles-a1
+  - ingles-para-viajar
+  - ingles-trenes-metro-transporte
+  - curso-de-ingles-para-viajar
 faqs:
   - question: ¿Qué tiempo uso para horarios de tren o avión en A1?
     answer: >-
@@ -581,10 +580,9 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases con un viaje compl
 
 Guías relacionadas:
 
-- [Unidad 42 — Transport](/blog/curso-a1/unidad-42-transporte-by-take-the)
-- [Unidad 41 — At the Airport](/blog/curso-a1/unidad-41-aeropuerto-must-should)
-- [Unidad 5 — Present Simple rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para viajar](/blog/viajes/ingles-para-viajar)
+- [Inglés en trenes y metro](/blog/viajes/ingles-trenes-metro-transporte)
+- [Curso de inglés para viajar](/blog/viajes/curso-de-ingles-para-viajar)
 
 ---
 

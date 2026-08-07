@@ -19,9 +19,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-13-present-perfect-al
 image: /blog/curso-a2/unit-13/a2-unit13-already-yet.png
 alt: Esquema already y yet del Present Perfect A2
 related_routes:
-  - unidad-12-present-perfect-ever-never
-  - unidad-11-present-perfect-introduccion
-  - ingles-a2
+  - present-perfect-just-already-yet
+  - present-perfect-usos-principales
+  - present-perfect-ever-never
 faqs:
   - question: ¿Cuándo uso already con Present Perfect?
     answer: >-
@@ -438,10 +438,9 @@ Curso:
 
 Guías relacionadas:
 
-- [Unidad 12 — Ever & Never](/blog/curso-a2/unidad-12-present-perfect-ever-never)
-- [Unidad 11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
-- [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Índice del curso A2](/curso-a2)
+- [Present Perfect: just / already / yet](/blog/gramatica/present-perfect-just-already-yet)
+- [Present Perfect: usos principales](/blog/gramatica/present-perfect-usos-principales)
+- [Present Perfect: ever / never](/blog/gramatica/present-perfect-ever-never)
 
 ---
 

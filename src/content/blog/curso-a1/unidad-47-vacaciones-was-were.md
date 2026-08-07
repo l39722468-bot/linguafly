@@ -21,10 +21,10 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-47-vacaciones-was-wer
 image: /blog/curso-a1/unit-47/a1-unit47-was-were.png
 alt: Esquema was/were y pasado regular para vacaciones en inglés A1
 related_routes:
-  - unidad-46-hotel-can-i-have
-  - unidad-45-estaciones-in-spring
-  - unidad-44-tiempo-atmosferico
-  - ingles-a1
+  - past-simple-usos-reglas
+  - errores-tiempos-pasado-espanoles
+  - ingles-para-viajar
+  - unidad-2-past-simple-verbos-regulares
 faqs:
   - question: ¿Cuándo uso was y cuándo were?
     answer: >-
@@ -569,10 +569,10 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre tus últimas
 
 Guías relacionadas:
 
-- [Unidad 46 — At the Hotel](/blog/curso-a1/unidad-46-hotel-can-i-have)
-- [Unidad 45 — Seasons](/blog/curso-a1/unidad-45-estaciones-in-spring)
-- [Unidad 44 — The Weather](/blog/curso-a1/unidad-44-tiempo-atmosferico)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Past Simple: usos y reglas](/blog/gramatica/past-simple-usos-reglas)
+- [Errores de tiempos de pasado](/blog/gramatica/errores-tiempos-pasado-espanoles)
+- [Inglés para viajar](/blog/viajes/ingles-para-viajar)
+- [A2 U2 — Past Simple regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
 
 ---
 

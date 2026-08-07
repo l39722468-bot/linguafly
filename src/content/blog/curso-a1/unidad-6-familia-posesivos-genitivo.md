@@ -21,10 +21,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-6-familia-posesivos-g
 image: /blog/curso-a1/unit-6/a1-unit6-family-tree.png
 alt: Árbol genealógico básico en inglés nivel A1 con miembros de la familia
 related_routes:
-  - unidad-7-colores-descripciones-fisicas
-  - unidad-5-present-simple-rutinas
-  - unidad-4-articulos-plurales-demostrativos
   - ingles-a1
+  - gramatica-inglesa-guia
 faqs:
   - question: ¿Cómo se dice madre, padre y hermano en inglés?
     answer: >-
@@ -591,11 +589,8 @@ En la **Unidad 7** aprendes **colores** y **descripciones físicas** (*tall, sho
 
 Guías relacionadas:
 
-- [Unidad 7 — Colores y descripciones físicas](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)
-- [Unidad 5 — Present Simple y rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
-- [Unidad 4 — Artículos y demostrativos](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
-- [Unidad 1 — Saludos y presentarse](/blog/curso-a1/unidad-1-saludos-presentarse)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
 
 ---
 

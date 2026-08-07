@@ -20,9 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-32-deportes-hobbies-p
 image: /blog/curso-a1/unit-32/a1-unit32-play-go-do.png
 alt: Esquema play go do con deportes y hobbies en inglés A1
 related_routes:
-  - unidad-31-can-habilidad
-  - unidad-18-gustos-like-ing-because
-  - unidad-12-dias-semana
+  - ingles-para-deportes
+  - ingles-playas-deportes-acuaticos
   - ingles-a1
 faqs:
   - question: ¿Cuándo uso play, go y do con deportes?
@@ -575,10 +574,9 @@ Antes de pasar de unidad, escribe ocho frases reales sobre tu semana: dos con *p
 
 Guías relacionadas:
 
-- [Unidad 31 — Can for Ability](/blog/curso-a1/unidad-31-can-habilidad)
-- [Unidad 18 — Gustos like + -ing](/blog/curso-a1/unidad-18-gustos-like-ing-because)
-- [Unidad 12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para deportes](/blog/metodos/ingles-para-deportes)
+- [Inglés en playas y deportes acuáticos](/blog/viajes/ingles-playas-deportes-acuaticos)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

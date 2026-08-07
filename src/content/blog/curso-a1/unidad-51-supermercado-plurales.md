@@ -21,10 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-51-supermercado-plura
 image: /blog/curso-a1/unit-51/a1-unit51-plurals.png
 alt: Esquema de plurales regulares e irregulares en el supermercado A1
 related_routes:
-  - unidad-50-repaso-modulo-5
-  - unidad-4-articulos-plurales-demostrativos
-  - unidad-17-comidas-breakfast-lunch-dinner
-  - ingles-a1
+  - ingles-para-compras
+  - ingles-mercados-regateo-viaje
+  - ingles-en-la-cocina
 faqs:
   - question: ¿Qué se aprende en la Unidad 51 del curso A1?
     answer: >-
@@ -478,10 +477,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 50 — Repaso Módulo 5](/blog/curso-a1/unidad-50-repaso-modulo-5)
-- [Unidad 17 — Breakfast, Lunch & Dinner](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner)
-- [Unidad 4 — Artículos y plurales](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Inglés en mercados y regateo](/blog/viajes/ingles-mercados-regateo-viaje)
+- [Inglés en la cocina](/blog/viajes/ingles-en-la-cocina)
 
 ---
 

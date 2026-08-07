@@ -20,10 +20,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-38-pedir-permiso'
 image: /blog/curso-a1/unit-38/a1-unit38-can-may.png
 alt: Esquema Can I y May I para pedir permiso en inglés A1
 related_routes:
-  - unidad-37-talent-skills
-  - unidad-31-can-habilidad
-  - unidad-16-cafeteria-can-i-have-id-like
-  - ingles-a1
+  - can-could-ingles
+  - may-might-ingles
+  - verbos-modales-ingles-guia
 faqs:
   - question: ¿Cuál es la diferencia entre Can I y May I?
     answer: >-
@@ -587,10 +586,9 @@ Antes de pasar de unidad, escribe 10 frases de permiso reales (casa, clase, trab
 
 Guías relacionadas:
 
-- [Unidad 37 — Talent & Skills](/blog/curso-a1/unidad-37-talent-skills)
-- [Unidad 31 — Can for Ability](/blog/curso-a1/unidad-31-can-habilidad)
-- [Unidad 16 — Pedir en la cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Can / Could en inglés](/blog/gramatica/can-could-ingles)
+- [May / Might en inglés](/blog/gramatica/may-might-ingles)
+- [Verbos modales: guía](/blog/gramatica/verbos-modales-ingles-guia)
 
 ---
 

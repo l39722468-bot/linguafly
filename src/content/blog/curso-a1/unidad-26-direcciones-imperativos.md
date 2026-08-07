@@ -20,10 +20,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-26-direcciones-impera
 image: /blog/curso-a1/unit-26/a1-unit26-imperatives.png
 alt: Esquema imperativos Turn left Go straight para direcciones en inglés A1
 related_routes:
-  - unidad-25-barrio-the-a-an-some-any
-  - unidad-24-preposiciones-lugar-next-to-between
-  - unidad-11-lugares-ciudad
-  - ingles-a1
+  - preposiciones-movimiento-ingles
+  - ingles-para-viajar
+  - ingles-trenes-metro-transporte
 faqs:
   - question: ¿Cómo se forma el imperativo para dar direcciones en A1?
     answer: >-
@@ -593,10 +592,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 25 — My Neighborhood](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any)
-- [Unidad 24 — Preposiciones de lugar](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between)
-- [Unidad 11 — Lugares en la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Preposiciones de movimiento](/blog/gramatica/preposiciones-movimiento-ingles)
+- [Inglés para viajar](/blog/viajes/ingles-para-viajar)
+- [Inglés en trenes y metro](/blog/viajes/ingles-trenes-metro-transporte)
 
 ---
 

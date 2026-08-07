@@ -19,9 +19,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-12-present-perfect-ev
 image: /blog/curso-a2/unit-12/a2-unit12-ever-never.png
 alt: Esquema Have you ever e I have never del Present Perfect A2
 related_routes:
-  - unidad-13-present-perfect-already-yet
-  - unidad-11-present-perfect-introduccion
-  - ingles-a2
+  - present-perfect-ever-never
+  - present-perfect-usos-principales
+  - present-perfect-vs-past-simple
 faqs:
   - question: ¿Cuándo uso ever en Present Perfect?
     answer: >-
@@ -421,10 +421,9 @@ Curso:
 
 Guías relacionadas:
 
-- [Unidad 11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
-- [Unidad 10 — Repaso Módulo 1](/blog/curso-a2/unidad-10-repaso-modulo-1)
-- [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Índice del curso A2](/curso-a2)
+- [Present Perfect: ever / never](/blog/gramatica/present-perfect-ever-never)
+- [Present Perfect: usos principales](/blog/gramatica/present-perfect-usos-principales)
+- [Present Perfect vs Past Simple](/blog/gramatica/present-perfect-vs-past-simple)
 
 ---
 

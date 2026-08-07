@@ -21,9 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-14-present-simple-don
 image: /blog/curso-a1/unit-14/a1-unit14-dont.png
 alt: Esquema de don't en Present Simple inglés nivel A1
 related_routes:
-  - unidad-13-rutina-diaria
-  - unidad-12-dias-semana
-  - unidad-5-present-simple-rutinas
+  - gramatica-inglesa-guia
   - ingles-a1
 faqs:
   - question: ¿Cómo se forma la negativa del Present Simple con I/you/we/they?
@@ -547,10 +545,8 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 13 — Rutina diaria](/blog/curso-a1/unidad-13-rutina-diaria)
-- [Unidad 12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana)
-- [Unidad 5 — Present Simple y rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

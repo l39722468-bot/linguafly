@@ -132,6 +132,14 @@ Este es el error nº 1. **Mustn't** significa prohibición (*No lo hagas*). **Do
 
 ¿Quieres dominar estos matices y sonar como un nativo? En **Linguafly** utilizamos tecnología de reconocimiento de voz para ayudarte a pronunciar y usar los modales correctamente. [**Regístrate gratis y empieza ahora.**](/aprender-ingles)
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U31 — Can: habilidad](/blog/curso-a1/unidad-31-can-habilidad)
+- [A1 U38 — Pedir permiso](/blog/curso-a1/unidad-38-pedir-permiso)
+- [A1 U58 — Salud: should](/blog/curso-a1/unidad-58-salud-should)
+
 ## Fuentes
 
 - Cambridge Dictionary (modals): https://dictionary.cambridge.org/grammar/british-grammar/modality-forms

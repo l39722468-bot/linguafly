@@ -283,3 +283,10 @@ Elige **una** situación de las diez y haz cinco minutos de repetición en voz a
 **Aprender inglés para mochileros** en aeropuertos y fronteras no consiste en sonar académico, sino en **gestionar procedimientos** con frases cortas, repetibles y honestas. Cuanto más ensayadas tengas las respuestas básicas (motivo, duración, alojamiento, siguiente vuelo), menos trabajará tu ansiedad y más claro sonarás ante un oficial cansado.
 
 Para seguir ampliando tu **preparación idiomas viaje**, conecta este vocabulario con rutas largas y situaciones reales de calle en nuestro **[hub de inglés para viajar](/blog/temas/ingles-para-viajar)**.
+
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U41 — Aeropuerto: must / should](/blog/curso-a1/unidad-41-aeropuerto-must-should)
+

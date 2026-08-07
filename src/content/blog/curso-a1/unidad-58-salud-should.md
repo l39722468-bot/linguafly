@@ -21,10 +21,10 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-58-salud-should'
 image: /blog/curso-a1/unit-58/a1-unit58-should-shouldnt.png
 alt: Esquema should y shouldn't para consejos de salud A1
 related_routes:
-  - unidad-57-cocina-recetas
-  - unidad-41-aeropuerto-must-should
-  - unidad-28-partes-cuerpo-have-got
-  - ingles-a1
+  - should-would-ingles
+  - ingles-para-salud
+  - vocabulario-ingles-medico-enfermeria
+  - frases-ingles-emergencias-viajes
 faqs:
   - question: ¿Cuándo uso should y shouldn't en A1?
     answer: >-
@@ -411,10 +411,10 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 57 — Cooking & Recipes](/blog/curso-a1/unidad-57-cocina-recetas)
-- [Unidad 41 — At the Airport (must/should)](/blog/curso-a1/unidad-41-aeropuerto-must-should)
-- [Unidad 28 — Body Parts](/blog/curso-a1/unidad-28-partes-cuerpo-have-got)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Should / Would en inglés](/blog/gramatica/should-would-ingles)
+- [Inglés para salud](/blog/trabajo/ingles-para-salud)
+- [Vocabulario médico y enfermería](/blog/trabajo/vocabulario-ingles-medico-enfermeria)
+- [Frases de emergencias en viajes](/blog/viajes/frases-ingles-emergencias-viajes)
 
 ---
 

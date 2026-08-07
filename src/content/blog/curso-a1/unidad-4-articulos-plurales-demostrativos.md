@@ -21,8 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-4-articulos-plurales-
 image: /blog/curso-a1/unit-4/a1-unit4-this-that-these-those.png
 alt: Esquema de demostrativos this that these those en inglés nivel A1
 related_routes:
-  - unidad-3-to-be-negativa-preguntas
-  - unidad-2-to-be-pronombres-nacionalidades
+  - gramatica-inglesa-guia
   - ingles-a1
 faqs:
   - question: ¿Cuándo uso a y cuándo an en inglés?
@@ -635,9 +634,8 @@ En la **Unidad 5** aprenderás el **Present Simple** en afirmativa para hablar d
 
 Guías relacionadas:
 
-- [Unidad 3 — To be: negativa y preguntas](/blog/curso-a1/unidad-3-to-be-negativa-preguntas)
-- [Unidad 2 — Pronombres y nacionalidades](/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

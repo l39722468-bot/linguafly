@@ -23,7 +23,7 @@ related_routes:
   - ingles-a2
   - ingles-a1-vs-a2
   - unidad-1-saludos-presentarse
-  - ingles-a1
+  - gramatica-inglesa-guia
 faqs:
   - question: ¿En qué se diferencia la presentación A2 de la de A1?
     answer: >-
@@ -463,8 +463,8 @@ Guías relacionadas:
 
 - [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
 - [Inglés A1 vs A2](/blog/metodos/ingles-a1-vs-a2)
-- [Unidad 1 A1 — Saludos y presentarse](/blog/curso-a1/unidad-1-saludos-presentarse)
-- [Índice del curso A2](/curso-a2)
+- [A1 U1 — Saludos y presentarse](/blog/curso-a1/unidad-1-saludos-presentarse)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
 
 ---
 

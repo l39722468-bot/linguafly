@@ -21,9 +21,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-54-how-much-how-many'
 image: /blog/curso-a1/unit-54/a1-unit54-how-much-many.png
 alt: Esquema How much y How many para precio y cantidad en A1
 related_routes:
-  - unidad-53-some-any
-  - unidad-52-contables-incontables
-  - unidad-8-numeros-edad-precios
+  - ingles-para-compras
+  - ingles-mercados-regateo-viaje
   - ingles-a1
 faqs:
   - question: ¿Cuándo uso How much y cuándo How many?
@@ -460,10 +459,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 53 — Some & Any](/blog/curso-a1/unidad-53-some-any)
-- [Unidad 52 — Contables e incontables](/blog/curso-a1/unidad-52-contables-incontables)
-- [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Inglés en mercados y regateo](/blog/viajes/ingles-mercados-regateo-viaje)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

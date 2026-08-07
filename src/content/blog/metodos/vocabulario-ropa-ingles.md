@@ -136,6 +136,13 @@ Es un código de vestimenta intermedio. No es un traje formal, pero tampoco son 
 
 Para seguir practicando vocabulario de ropa en contexto, consulta nuestra [guía de inglés para viajar](/blog/viajes/ingles-para-viajar) con situaciones reales de compras en el extranjero.
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U29 — Ropa y Present Continuous](/blog/curso-a1/unidad-29-ropa-present-continuous)
+- [A1 U55 — Tienda de ropa](/blog/curso-a1/unidad-55-tienda-ropa-too-enough)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

@@ -216,6 +216,12 @@ Con este vocabulario de **inglés para hoteles**, tendrás total confianza en cu
 
 Para prepararte con todo el vocabulario y frases esenciales, consulta [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar).
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U46 — Hotel: Can I have…?](/blog/curso-a1/unidad-46-hotel-can-i-have)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

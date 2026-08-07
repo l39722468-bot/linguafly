@@ -20,10 +20,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-52-contables-incontab
 image: /blog/curso-a1/unit-52/a1-unit52-countable-uncountable.png
 alt: Esquema countable vs uncountable con much many a lot of en A1
 related_routes:
-  - unidad-51-supermercado-plurales
-  - unidad-17-comidas-breakfast-lunch-dinner
-  - unidad-4-articulos-plurales-demostrativos
-  - ingles-a1
+  - ingles-para-compras
+  - gramatica-inglesa-guia
+  - ingles-en-la-cocina
 faqs:
   - question: ¿Qué se aprende en la Unidad 52 del curso A1?
     answer: >-
@@ -484,10 +483,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 51 — At the Supermarket](/blog/curso-a1/unidad-51-supermercado-plurales)
-- [Unidad 17 — Breakfast, Lunch & Dinner](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner)
-- [Unidad 4 — Artículos y plurales](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés en la cocina](/blog/viajes/ingles-en-la-cocina)
 
 ---
 

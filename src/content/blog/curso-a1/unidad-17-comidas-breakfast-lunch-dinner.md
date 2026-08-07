@@ -21,9 +21,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-17-comidas-breakfast-
 image: /blog/curso-a1/unit-17/a1-unit17-vocab.png
 alt: Vocabulario de desayuno comida y cena en inglés A1
 related_routes:
-  - unidad-16-cafeteria-can-i-have-id-like
-  - unidad-15-present-simple-doesnt-does
-  - unidad-14-present-simple-dont-do-you
+  - ingles-en-la-cocina
+  - ingles-restaurantes-bares-viaje
   - ingles-a1
 faqs:
   - question: ¿Se dice have breakfast o eat breakfast?
@@ -520,10 +519,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 16 — Pedir en la cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
-- [Unidad 15 — doesn't y Does he/she…?](/blog/curso-a1/unidad-15-present-simple-doesnt-does)
-- [Unidad 14 — don't y Do you…?](/blog/curso-a1/unidad-14-present-simple-dont-do-you)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés en la cocina](/blog/viajes/ingles-en-la-cocina)
+- [Inglés en restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

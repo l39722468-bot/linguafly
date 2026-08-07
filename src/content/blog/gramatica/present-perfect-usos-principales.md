@@ -142,6 +142,14 @@ En conversación, los nativos casi siempre contraen:
 | Acción reciente | *She's just called* | just, recently, lately |
 | Situación continua | *He's worked here for years* | since, for |
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A2 U11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
+- [A2 U12 — Ever & Never](/blog/curso-a2/unidad-12-present-perfect-ever-never)
+- [A2 U13 — Already & Yet](/blog/curso-a2/unidad-13-present-perfect-already-yet)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

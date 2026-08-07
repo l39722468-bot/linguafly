@@ -20,8 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-7-adverbios-modo-ly'
 image: /blog/curso-a2/unit-7/a2-unit7-adverbs-manner.png
 alt: Esquema de adverbios de modo con -ly para inglés A2
 related_routes:
-  - unidad-8-preposiciones-tiempo-at-on-in
-  - unidad-6-superlativos-est-the-most
+  - gramatica-inglesa-guia
   - ingles-a2
 faqs:
   - question: ¿Cómo se forman la mayoría de los adverbios de modo?
@@ -439,10 +438,8 @@ Curso:
 
 Guías relacionadas:
 
-- [Unidad 6 — Superlativos](/blog/curso-a2/unidad-6-superlativos-est-the-most)
-- [Unidad 5 — Comparativos](/blog/curso-a2/unidad-5-comparativos-er-more-than)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
 - [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Índice del curso A2](/curso-a2)
 
 ---
 

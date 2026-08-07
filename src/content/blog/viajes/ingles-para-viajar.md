@@ -158,6 +158,15 @@ Viajar con inglés es como viajar con un seguro de confianza. No se trata de no 
 - [Mudarse al extranjero: guía de inglés práctico](/blog/viajes/mudarse-al-extranjero-guia-ingles)
 - [Inglés para recepcionistas: guía profesional](/blog/viajes/ingles-para-recepcionistas-guia)
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U41 — Aeropuerto](/blog/curso-a1/unidad-41-aeropuerto-must-should)
+- [A1 U42 — Transporte](/blog/curso-a1/unidad-42-transporte-by-take-the)
+- [A1 U46 — Hotel](/blog/curso-a1/unidad-46-hotel-can-i-have)
+- [A1 U50 — Repaso viaje](/blog/curso-a1/unidad-50-repaso-modulo-5)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

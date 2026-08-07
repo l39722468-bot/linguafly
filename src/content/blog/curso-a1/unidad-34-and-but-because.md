@@ -20,9 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-34-and-but-because'
 image: /blog/curso-a1/unit-34/a1-unit34-and-but-because.png
 alt: Esquema and but because para conectar ideas en inglés A1
 related_routes:
-  - unidad-33-adverbios-frecuencia
-  - unidad-18-gustos-like-ing-because
-  - unidad-32-deportes-hobbies-play-go-do
+  - gramatica-inglesa-guia
   - ingles-a1
 faqs:
   - question: ¿Cuándo uso and, but y because?
@@ -610,10 +608,8 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre ti usando *a
 
 Guías relacionadas:
 
-- [Unidad 33 — Adverbios de frecuencia](/blog/curso-a1/unidad-33-adverbios-frecuencia)
-- [Unidad 18 — Gustos like + -ing](/blog/curso-a1/unidad-18-gustos-like-ing-because)
-- [Unidad 32 — Deportes y hobbies](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

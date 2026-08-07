@@ -155,6 +155,14 @@ Imagina que llegas a casa y tu compañero te pregunta varias cosas:
 *"Have you seen the news already? Something big has happened."*
 → *"No, I've just got home. What happened?"*
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A2 U13 — Already & Yet](/blog/curso-a2/unidad-13-present-perfect-already-yet)
+- [A2 U12 — Ever & Never](/blog/curso-a2/unidad-12-present-perfect-ever-never)
+- [A2 U11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
+
 ## Fuentes
 
 - Cambridge Dictionary (just/already/yet): https://dictionary.cambridge.org/grammar/british-grammar/already-still-or-yet

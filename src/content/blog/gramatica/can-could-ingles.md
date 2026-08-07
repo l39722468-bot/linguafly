@@ -202,6 +202,15 @@ Es más suave que **should** — ofreces una posibilidad, no das un consejo.
 
 La clave para dominar **can** y **could** no es memorizar reglas, sino escucharlos en contexto real: series, podcasts, conversaciones. Con el tiempo, empiezas a sentir cuál encaja en cada situación sin tener que pensarlo demasiado.
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U31 — Can: habilidad](/blog/curso-a1/unidad-31-can-habilidad)
+- [A1 U16 — Pedir en la cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
+- [A1 U38 — Pedir permiso](/blog/curso-a1/unidad-38-pedir-permiso)
+- [A1 U46 — Hotel: Can I have…?](/blog/curso-a1/unidad-46-hotel-can-i-have)
+
 ## Fuentes
 
 - Cambridge Dictionary (can/could): https://dictionary.cambridge.org/grammar/british-grammar/can-could
