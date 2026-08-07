@@ -432,6 +432,10 @@ La **Unidad 14** añade **just**: *I have just…* (acabo de…).
 
 En la **Unidad 14** estudiarás **Present Perfect: Just**: *I have just finished* / *She has just arrived*.
 
+Guía blog:
+
+- [Unidad 14 — Present Perfect: Just](/blog/curso-a2/unidad-14-present-perfect-just)
+
 Curso:
 
 - [Unidad 14 — Present Perfect: Just](/curso-a2/unit-14)

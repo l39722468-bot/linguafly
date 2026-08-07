@@ -149,6 +149,7 @@ Si estás siguiendo el curso por unidades, estas guías conectan este tema con l
 - [A2 U11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
 - [A2 U12 — Ever & Never](/blog/curso-a2/unidad-12-present-perfect-ever-never)
 - [A2 U13 — Already & Yet](/blog/curso-a2/unidad-13-present-perfect-already-yet)
+- [A2 U14 — Just](/blog/curso-a2/unidad-14-present-perfect-just)
 
 ## Fuentes
 
