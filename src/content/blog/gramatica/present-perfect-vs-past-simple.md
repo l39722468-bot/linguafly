@@ -133,6 +133,7 @@ Dominar la **difference between present perfect and past simple** requiere prác
 
 Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
 
+- [A2 U15 — Present Perfect vs Past Simple](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple)
 - [A2 U11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
 - [A2 U2 — Past Simple regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
 - [A2 U3 — Past Simple irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)

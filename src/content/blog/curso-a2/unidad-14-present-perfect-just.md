@@ -453,6 +453,10 @@ La **Unidad 15** contrasta **Present Perfect vs Past Simple**: *I have just arri
 
 En la **Unidad 15** estudiarás **Present Perfect vs Past Simple**: cuándo usar cada uno (*ever / just* vs *yesterday / last week*).
 
+Guía blog:
+
+- [Unidad 15 — Present Perfect vs Past Simple](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple)
+
 Curso:
 
 - [Unidad 15 — Present Perfect vs Past Simple](/curso-a2/unit-15)

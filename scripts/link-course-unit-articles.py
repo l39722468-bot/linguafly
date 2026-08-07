@@ -384,6 +384,12 @@ A2_LINKS: dict[str, list[tuple[str, str]]] = {
         ("gramatica/present-perfect-ever-never", "Present Perfect: ever / never"),
         ("gramatica/present-perfect-vs-past-simple", "Present Perfect vs Past Simple"),
     ],
+    "unidad-15-present-perfect-vs-past-simple": [
+        ("gramatica/present-perfect-vs-past-simple", "Present Perfect vs Past Simple"),
+        ("gramatica/present-perfect-usos-principales", "Present Perfect: usos principales"),
+        ("gramatica/past-simple-usos-reglas", "Past Simple: usos y reglas"),
+        ("gramatica/present-perfect-ever-never", "Present Perfect: ever / never"),
+    ],
 }
 
 # topic article path -> list of (course unit path, title) reverse links
@@ -411,6 +417,7 @@ REVERSE: dict[str, list[tuple[str, str]]] = {
         ("curso-a2/unidad-12-present-perfect-ever-never", "A2 U12 — Ever & Never"),
         ("curso-a2/unidad-13-present-perfect-already-yet", "A2 U13 — Already & Yet"),
         ("curso-a2/unidad-14-present-perfect-just", "A2 U14 — Just"),
+        ("curso-a2/unidad-15-present-perfect-vs-past-simple", "A2 U15 — Present Perfect vs Past Simple"),
     ],
     "gramatica/present-perfect-ever-never": [
         ("curso-a2/unidad-12-present-perfect-ever-never", "A2 U12 — Ever & Never"),
@@ -423,6 +430,7 @@ REVERSE: dict[str, list[tuple[str, str]]] = {
         ("curso-a2/unidad-11-present-perfect-introduccion", "A2 U11 — Present Perfect: Introducción"),
     ],
     "gramatica/present-perfect-vs-past-simple": [
+        ("curso-a2/unidad-15-present-perfect-vs-past-simple", "A2 U15 — Present Perfect vs Past Simple"),
         ("curso-a2/unidad-11-present-perfect-introduccion", "A2 U11 — Present Perfect: Introducción"),
         ("curso-a2/unidad-2-past-simple-verbos-regulares", "A2 U2 — Past Simple regulares"),
         ("curso-a2/unidad-3-past-simple-verbos-irregulares", "A2 U3 — Past Simple irregulares"),

@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 14 |
-| Artículos dedicados pendientes | 47 |
+| Artículos dedicados publicados | 15 |
+| Artículos dedicados pendientes | 45 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -54,7 +54,7 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | 12 | Present Perfect: Ever & Never | ever / never | ✅ | [Present Perfect ever/never A2](/blog/curso-a2/unidad-12-present-perfect-ever-never) |
 | 13 | Present Perfect: Already & Yet | already / yet | ✅ | [Present Perfect already/yet A2](/blog/curso-a2/unidad-13-present-perfect-already-yet) |
 | 14 | Present Perfect: Just | just | ✅ | [Present Perfect just A2](/blog/curso-a2/unidad-14-present-perfect-just) |
-| 15 | Present Perfect vs Past Simple | contraste | ❌ | Pendiente |
+| 15 | Present Perfect vs Past Simple | contraste | ✅ | [Present Perfect vs Past Simple A2](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple) |
 | 16–20 | (resto módulo 2) | ver syllabus | ❌ | Pendiente |
 
 Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
