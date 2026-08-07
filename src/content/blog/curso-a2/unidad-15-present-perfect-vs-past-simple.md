@@ -451,6 +451,10 @@ La **Unidad 16** introduce el **Past Continuous**: *I was watching TV when…*
 
 En la **Unidad 16** estudiarás **Past Continuous**: *I was watching TV when…* / *She was working at 8 o'clock*.
 
+Guía blog:
+
+- [Unidad 16 — Past Continuous](/blog/curso-a2/unidad-16-past-continuous)
+
 Curso:
 
 - [Unidad 16 — Past Continuous](/curso-a2/unit-16)

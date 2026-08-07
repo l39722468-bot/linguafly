@@ -242,6 +242,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-nina': 'Hi! I am Nina. I love reading. I have read many books in my life. I have never read a science fiction book but I want to try one. Last month I read a great novel by Jane Austen. It was beautiful. Three weeks ago I finished a mystery book. I really enjoyed it. I have already bought my next book for the holidays. I am excited!',
     'practice-four': 'I have been to many countries. Last year I went to Japan. I have never been to Australia. Two months ago I travelled to Italy.',
   },
+  16: {
+    'was-watching-tv': 'I was watching TV at 8pm.',
+    'was-reading-book': 'She was reading a book last night.',
+    'were-playing-football': 'They were playing football.',
+    'were-cooking-dinner': 'We were cooking dinner.',
+    'wasnt-studying': 'I wasn\'t studying.',
+    'were-you-working': 'Were you working?',
+    'was-she-reading': 'Was she reading?',
+    'was-walking-dog': 'He was walking his dog.',
+    'was-sleeping-sofa': 'The cat was sleeping under the sofa.',
+    'was-running-lake': 'My friend was running around the lake.',
+    'reading-saturday': 'Last Saturday night at 8pm I was watching TV in my living room. My sister was studying in her room. My parents were cooking dinner in the kitchen. Suddenly the doorbell rang. It was our neighbour Mr Brown. He was walking his dog when he saw our lights on. He wanted to ask if we had seen his cat. We were all surprised but we helped him look. At that moment the cat was sleeping under the sofa!',
+    'dialogue-park': 'Yesterday afternoon at 3pm I was reading a book in the park. My friend was running around the lake. Some children were playing football near. Suddenly it started to rain. Everyone was running to find shelter. I was getting wet when a kind woman offered me her umbrella. We waited under a tree until the rain stopped. At that moment the sun was coming out again. I was grateful for her help.',
+    'practice-four': 'I was watching TV at 8pm. She was studying in her room. They were cooking dinner. Was he walking his dog?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
