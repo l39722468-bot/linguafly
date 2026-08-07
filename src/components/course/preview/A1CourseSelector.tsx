@@ -24,7 +24,6 @@ const AVAILABLE_TOPICS = [
   'Reading',
   'Listening',
   'Writing',
-  'Pronunciation',
   'Culture'
 ];
 
