@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
-import { compareBlogCourseRelations, type BlogCourseRelation } from '@/lib/blog-course-map';
+import type { BlogCourseRelation } from '@/lib/blog-course-map';
 
 interface BlogCourseMapTableProps {
   relations: BlogCourseRelation[];
@@ -26,6 +26,15 @@ const EMPTY_FILTERS: FilterState = {
   courseFilter: '',
   categoryFilter: '',
 };
+
+/** Orden estable en cliente (sin importar lógica server/fs de blog-course-map). */
+function compareBlogCourseRelations(a: BlogCourseRelation, b: BlogCourseRelation): number {
+  const courseCmp = a.courseLabel.localeCompare(b.courseLabel, 'es');
+  if (courseCmp !== 0) return courseCmp;
+  const unitCmp = a.unitNumber - b.unitNumber;
+  if (unitCmp !== 0) return unitCmp;
+  return a.articleTitle.localeCompare(b.articleTitle, 'es');
+}
 
 function matchesSearch(relation: BlogCourseRelation, query: string): boolean {
   const q = query.trim().toLowerCase();
