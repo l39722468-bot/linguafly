@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 18 |
-| Artículos dedicados pendientes | 42 |
+| Artículos dedicados publicados | 19 |
+| Artículos dedicados pendientes | 41 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -58,7 +58,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | 16 | Past Continuous | was/were + -ing | ✅ | [Past Continuous A2](/blog/curso-a2/unidad-16-past-continuous) |
 | 17 | Past Simple + Past Continuous | when / while | ✅ | [Past Simple + Past Continuous A2](/blog/curso-a2/unidad-17-past-simple-past-continuous) |
 | 18 | For & Since | for / since + Present Perfect | ✅ | [For & Since A2](/blog/curso-a2/unidad-18-for-since) |
-| 19–20 | (resto módulo 2) | ver syllabus | ❌ | Pendiente |
+| 19 | How Questions | How long / often / much / many | ✅ | [How questions A2](/blog/curso-a2/unidad-19-how-questions) |
+| 20 | Module 2 Review | repaso módulo 2 | ❌ | Pendiente |
 
 Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 
