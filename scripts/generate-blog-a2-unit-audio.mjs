@@ -257,6 +257,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-park': 'Yesterday afternoon at 3pm I was reading a book in the park. My friend was running around the lake. Some children were playing football near. Suddenly it started to rain. Everyone was running to find shelter. I was getting wet when a kind woman offered me her umbrella. We waited under a tree until the rain stopped. At that moment the sun was coming out again. I was grateful for her help.',
     'practice-four': 'I was watching TV at 8pm. She was studying in her room. They were cooking dinner. Was he walking his dog?',
   },
+  17: {
+    'was-walking-when-saw': 'I was walking when I saw him.',
+    'was-reading-when-opened': 'He was reading when the door opened.',
+    'was-watching-when-rang': 'I was watching TV when the doorbell rang.',
+    'while-cooking-phone-rang': 'While she was cooking, the phone rang.',
+    'were-talking-while-walked': 'We were talking while we walked around the lake.',
+    'were-having-dinner-arrived': 'They were having dinner when we arrived.',
+    'was-walking-dog-smoke': 'He was walking his dog when he saw smoke.',
+    'suddenly-started-rain': 'Suddenly it started to rain.',
+    'reading-park': 'At first last Saturday I was walking in the park when I met an old friend. We were talking while we walked around the lake. Then suddenly it started to rain. We were running to find shelter when a woman offered us her umbrella. We waited under a tree until the rain stopped. Finally the sun came out and we continued our walk.',
+    'dialogue-neighbour': 'At first yesterday evening I was watching TV when the doorbell rang. It was my neighbour Mr Jones. He was walking his dog when he saw smoke coming from my kitchen. I was cooking dinner while I was watching TV. Suddenly something burned in the oven. Mr Jones helped me open the windows. Then we checked the kitchen together. Finally everything was okay and I thanked him for his help.',
+    'practice-four': 'I was walking when I saw him. While she was cooking, the phone rang. They were having dinner when we arrived. I was watching TV when the doorbell rang.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

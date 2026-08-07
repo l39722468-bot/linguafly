@@ -152,6 +152,7 @@ La segunda versión crea un escenario más rico. El past continuous pinta el amb
 
 Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
 
+- [A2 U17 — Past Simple + Past Continuous](/blog/curso-a2/unidad-17-past-simple-past-continuous)
 - [A2 U16 — Past Continuous](/blog/curso-a2/unidad-16-past-continuous)
 - [A2 U4 — Wh-questions en Past Simple](/blog/curso-a2/unidad-4-wh-questions-past-simple)
 - [A2 U2 — Past Simple regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
