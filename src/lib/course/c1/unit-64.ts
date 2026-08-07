@@ -8,7 +8,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'C1 Language Lab — Fixed Expressions and Academic Stems';
 
 export const UNIT_64_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u64-g1',
     type: 'multiple-choice',
     level: 'C1',
@@ -33,7 +33,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u64-g2',
     type: 'fill-blank',
     level: 'C1',
@@ -56,7 +56,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u64-g3',
     type: 'multiple-choice',
     level: 'C1',
@@ -81,7 +81,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u64-v1',
     type: 'multiple-choice',
     level: 'C1',
@@ -106,7 +106,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u64-v2',
     type: 'fill-blank',
     level: 'C1',
@@ -133,7 +133,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u64-v3',
     type: 'multiple-choice',
     level: 'C1',
@@ -159,7 +159,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u64-r1',
     type: 'reading-comprehension',
     level: 'C1',
@@ -185,7 +185,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u64-r2',
     type: 'multiple-choice',
     level: 'C1',
@@ -211,7 +211,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u64-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -236,7 +236,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u64-l1',
     type: 'listening-comprehension',
     level: 'C1',
@@ -262,7 +262,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u64-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -287,7 +287,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u64-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -312,7 +312,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u64-w1',
     type: 'writing',
     level: 'C1',
@@ -337,7 +337,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u64-w2',
     type: 'writing',
     level: 'C1',
@@ -361,7 +361,7 @@ export const UNIT_64_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u64-w3',
     type: 'writing',
     level: 'C1',
@@ -384,78 +384,5 @@ export const UNIT_64_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u64-s1',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion Chunks|Chunks en debate]]',
-      instructions: 'Choose the most natural way to concede a point before countering.',
-      questions: [
-        {
-          question: 'In a formal panel, you want to acknowledge a rival point then disagree. Which is most appropriate?',
-          options: [
-            '[[That is a fair point as far as it goes; nevertheless, I would argue that it underestimates the structural constraints facing low-income households.|Es un punto justo en su medida; no obstante…]]',
-            '[[Yeah but you are wrong because I say so.|Informal e inadecuado.]]',
-            '[[I refuse to accept anything you said.|Bloquea el diálogo.]]',
-          ],
-          correctAnswer: 0,
-          explanation:
-            '*A fair point as far as it goes* concedes partially; *nevertheless* introduces the counter.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u64-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u64-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

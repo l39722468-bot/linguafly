@@ -1,9 +1,9 @@
 /**
  * Test final B2 — Evaluación de fin de nivel (Cambridge FCE)
- * 36 ítems ampliados: gramática (8), vocabulario (6), phrasal verbs (4),
- * lectura (6), escucha (6), escritura (4), expresión oral (2).
+ * 34 ítems ampliados: gramática (8), vocabulario (6), phrasal verbs (4),
+ * lectura (6), escucha (6), escritura (4).
  * Criterio aprobado: ≥ 70% aciertos.
- * Evaluación ampliada en expresión escrita, oral y comprensión auditiva y lectora.
+ * Evaluación ampliada en expresión escrita y comprensión auditiva y lectora.
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -14,7 +14,6 @@ const INSTRUCTIONS_VOCAB = 'Elige la palabra o frase correcta.';
 const INSTRUCTIONS_READING = 'Lee el texto y responde.';
 const INSTRUCTIONS_LISTENING = 'Escucha (o lee el texto) y responde.';
 const INSTRUCTIONS_WRITING = 'Escribe tu respuesta (140-190 palabras recomendado para B2).';
-const INSTRUCTIONS_SPEAKING = 'Responde como si estuvieras en un examen oral B2.';
 
 const READING_TEXT = `[[I|Yo]] [[have|he]] [[been|estado]] [[working|trabajando]] [[as|como]] [[a|un]] [[senior|senior]] [[consultant|consultante]] [[for|desde hace]] [[over|más de]] [[fifteen|quince]] [[years|años]]. [[Last|El]] [[quarter|trimestre pasado]] [[I|yo]] [[was|fui]] [[sent|enviado]] [[to|a]] [[attend|asistir]] [[a|una]] [[conference|conferencia]] [[on|sobre]] [[sustainable development|desarrollo sostenible]] [[in|en]] [[Copenhagen|Copenhague]]. [[Having|Habiendo]] [[prepared|preparado]] [[my presentation|mi presentación]] [[thoroughly|a fondo]], [[I|yo]] [[was able to|pude]] [[deliver|pronunciar]] [[it|la]] [[confidently|con confianza]]. [[The|Los]] [[delegates|delegados]] [[who|que]] [[attended|asistieron]] [[were|eran]] [[from|de]] [[all over|de todo]] [[the world|el mundo]], [[and|y]] [[I|yo]] [[managed to|logré]] [[network|hacer contactos]] [[with|con]] [[several|varios]] [[potential|potenciales]] [[clients|clientes]]. [[If|Si]] [[I|yo]] [[had known|hubiera sabido]] [[how|cuán]] [[productive|productiva]] [[it would be|sería]], [[I|yo]] [[would have|habría]] [[applied for|solicitado]] [[funding|financiación]] [[earlier|antes]]. [[I|yo]] [[am looking forward to|espero con ganas]] [[presenting|presentar]] [[at|en]] [[the next|la próxima]] [[summit|cumbre]].`;
 
@@ -572,41 +571,6 @@ export const FINAL_TEST_B2_EXERCISES: Exercise[] = [
       }],
     },
     topicName: 'Writing',
-  },
-  // ─── Expresión oral (2) ─────────────────────────────────────────────────
-  {
-    id: 'b2-final-s1',
-    type: 'writing',
-    level: 'B2',
-    topic: 'Test final B2',
-    difficulty: 'medium',
-    content: {
-      title: TITLE,
-      instructions: INSTRUCTIONS_SPEAKING,
-      questions: [{
-        question: '[[Imagine you are in a B2 Speaking exam.|Imagina que estás en un examen oral B2.]] [[Describe|Describe]] [[your ideal job|tu trabajo ideal]] [[and explain|y explica]] [[why it would suit you|por qué te convendría]]. [[Write your answer as if you were speaking|Escribe tu respuesta como si estuvieras hablando]].',
-        wordCountMin: 50,
-        wordCountMax: 150,
-      }],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'b2-final-s2',
-    type: 'writing',
-    level: 'B2',
-    topic: 'Test final B2',
-    difficulty: 'medium',
-    content: {
-      title: TITLE,
-      instructions: INSTRUCTIONS_SPEAKING,
-      questions: [{
-        question: '[[In a B2 exam, you might be asked:|En un examen B2, podrían preguntarte:]] [["Do you think technology has improved our lives?"|"¿Crees que la tecnología ha mejorado nuestras vidas?"]] [[Give your opinion|Da tu opinión]] [[with reasons and examples|con razones y ejemplos]].',
-        wordCountMin: 50,
-        wordCountMax: 150,
-      }],
-    },
-    topicName: 'Speaking',
   },
 ];
 

@@ -8,5 +8,5 @@ import { UNIT_36_ALL_EXERCISES } from './unit-36-lessons-index';
 
 export const UNIT_TITLE = 'Used to, would & Culture';
 
-/** Todos los ejercicios de la Unidad 36 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 36 (5 lecciones). */
 export const UNIT_36_EXERCISES = UNIT_36_ALL_EXERCISES;

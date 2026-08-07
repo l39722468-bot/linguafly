@@ -1,5 +1,5 @@
 /**
- * Índice de las 6 lecciones de la Unidad 36 (C2).
+ * Índice de las 5 lecciones de la Unidad 36 (C2).
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -8,7 +8,6 @@ import { UNIT_36_LESSON_2_GRAMMAR_CONTEXT } from './unit-36-lesson-2-grammar-con
 import { UNIT_36_LESSON_3_READING } from './unit-36-lesson-3-reading';
 import { UNIT_36_LESSON_4_LISTENING } from './unit-36-lesson-4-listening';
 import { UNIT_36_LESSON_5_WRITING } from './unit-36-lesson-5-writing';
-import { UNIT_36_LESSON_6_SPEAKING } from './unit-36-lesson-6-speaking';
 
 export const UNIT_36_LESSONS = {
   grammar: UNIT_36_LESSON_1_GRAMMAR,
@@ -16,7 +15,6 @@ export const UNIT_36_LESSONS = {
   reading: UNIT_36_LESSON_3_READING,
   listening: UNIT_36_LESSON_4_LISTENING,
   writing: UNIT_36_LESSON_5_WRITING,
-  speaking: UNIT_36_LESSON_6_SPEAKING,
 } as const;
 
 export const UNIT_36_ALL_LESSONS: Exercise[][] = [
@@ -25,7 +23,6 @@ export const UNIT_36_ALL_LESSONS: Exercise[][] = [
   UNIT_36_LESSON_3_READING,
   UNIT_36_LESSON_4_LISTENING,
   UNIT_36_LESSON_5_WRITING,
-  UNIT_36_LESSON_6_SPEAKING,
 ];
 
 export const UNIT_36_ALL_EXERCISES: Exercise[] = UNIT_36_ALL_LESSONS.flat();

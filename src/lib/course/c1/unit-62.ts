@@ -8,7 +8,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'C1 Language Lab — Prepositional Patterns';
 
 export const UNIT_62_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u62-g1',
     type: 'multiple-choice',
     level: 'C1',
@@ -33,7 +33,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u62-g2',
     type: 'fill-blank',
     level: 'C1',
@@ -56,7 +56,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u62-g3',
     type: 'multiple-choice',
     level: 'C1',
@@ -78,7 +78,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u62-v1',
     type: 'multiple-choice',
     level: 'C1',
@@ -99,7 +99,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u62-v2',
     type: 'fill-blank',
     level: 'C1',
@@ -122,7 +122,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u62-v3',
     type: 'multiple-choice',
     level: 'C1',
@@ -144,7 +144,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u62-r1',
     type: 'reading-comprehension',
     level: 'C1',
@@ -170,7 +170,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u62-r2',
     type: 'multiple-choice',
     level: 'C1',
@@ -196,7 +196,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u62-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -221,7 +221,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u62-l1',
     type: 'listening-comprehension',
     level: 'C1',
@@ -247,7 +247,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u62-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -272,7 +272,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u62-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -297,7 +297,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u62-w1',
     type: 'writing',
     level: 'C1',
@@ -322,7 +322,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u62-w2',
     type: 'writing',
     level: 'C1',
@@ -346,7 +346,7 @@ export const UNIT_62_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u62-w3',
     type: 'writing',
     level: 'C1',
@@ -369,79 +369,5 @@ export const UNIT_62_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u62-s1',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Seminar Language|Lenguaje de seminario]]',
-      instructions: 'Choose the most appropriate contribution in a formal seminar.',
-      questions: [
-        {
-          question:
-            'You want to disagree politely while showing you have listened. Which is most appropriate at C1?',
-          options: [
-            '[[I take your point about implementation costs; however, I am not convinced that those costs, significant as they are, outweigh the long-term benefits we have been discussing.|Entiendo su punto sobre los costes de implementación; sin embargo…]]',
-            '[[You are totally wrong about costs and I don\'t care what you think.|Desacuerdo grosero.]]',
-            '[[Costs, whatever, like it doesn\'t matter.|Registro demasiado informal.]]',
-          ],
-          correctAnswer: 0,
-          explanation:
-            '*Take your point about* acknowledges the other speaker; *convinced that* and *outweigh* maintain formal argumentative register.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u62-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u62-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

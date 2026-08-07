@@ -8,5 +8,5 @@ import { UNIT_8_ALL_EXERCISES } from './unit-8-lessons-index';
 
 export const UNIT_TITLE = 'Modal Verbs of Deduction (must, might, can\'t) | Personal Feelings';
 
-/** Todos los ejercicios de la Unidad 8 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 8 (5 lecciones). */
 export const UNIT_8_EXERCISES = UNIT_8_ALL_EXERCISES;

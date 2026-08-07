@@ -3,8 +3,8 @@
  * Module 1: Identity and Society
  * Grammar: Modal verbs — deduction and probability
  *
- * Modelo ampliado: 18 ejercicios por lección × 6 lecciones = 108 ítems.
- * Patrón de IDs: c1-u1-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18, s1..s18.
+ * Modelo ampliado: 18 ejercicios por lección × 5 lecciones = 90 ítems.
+ * Patrón de IDs: c1-u1-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18.
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -12,7 +12,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = '[[Personal Identity and Self-Image|Identidad personal e imagen personal]]';
 
 export const UNIT_1_EXERCISES: Exercise[] = [
-  {
+{
     id: "c1-u1-g1",
     type: 'multiple-choice',
     level: 'C1',
@@ -32,7 +32,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g2",
     type: 'fill-blank',
     level: 'C1',
@@ -53,7 +53,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g3",
     type: 'multiple-choice',
     level: 'C1',
@@ -73,7 +73,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g4",
     type: 'multiple-choice',
     level: 'C1',
@@ -93,7 +93,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g5",
     type: 'multiple-choice',
     level: 'C1',
@@ -113,7 +113,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g6",
     type: 'fill-blank',
     level: 'C1',
@@ -134,7 +134,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g7",
     type: 'multiple-choice',
     level: 'C1',
@@ -154,7 +154,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g8",
     type: 'multiple-choice',
     level: 'C1',
@@ -174,7 +174,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g9",
     type: 'fill-blank',
     level: 'C1',
@@ -195,7 +195,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g10",
     type: 'multiple-choice',
     level: 'C1',
@@ -215,7 +215,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g11",
     type: 'multiple-choice',
     level: 'C1',
@@ -235,7 +235,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g12",
     type: 'fill-blank',
     level: 'C1',
@@ -256,7 +256,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g13",
     type: 'multiple-choice',
     level: 'C1',
@@ -276,7 +276,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g14",
     type: 'multiple-choice',
     level: 'C1',
@@ -296,7 +296,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g15",
     type: 'fill-blank',
     level: 'C1',
@@ -317,7 +317,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g16",
     type: 'multiple-choice',
     level: 'C1',
@@ -337,7 +337,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g17",
     type: 'multiple-choice',
     level: 'C1',
@@ -357,7 +357,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-g18",
     type: 'fill-blank',
     level: 'C1',
@@ -378,7 +378,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u1-v1",
     type: 'multiple-choice',
     level: 'C1',
@@ -398,7 +398,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v2",
     type: 'multiple-choice',
     level: 'C1',
@@ -418,7 +418,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v3",
     type: 'multiple-choice',
     level: 'C1',
@@ -438,7 +438,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v4",
     type: 'multiple-choice',
     level: 'C1',
@@ -458,7 +458,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v5",
     type: 'multiple-choice',
     level: 'C1',
@@ -478,7 +478,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v6",
     type: 'multiple-choice',
     level: 'C1',
@@ -498,7 +498,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v7",
     type: 'multiple-choice',
     level: 'C1',
@@ -518,7 +518,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v8",
     type: 'multiple-choice',
     level: 'C1',
@@ -538,7 +538,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v9",
     type: 'multiple-choice',
     level: 'C1',
@@ -558,7 +558,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v10",
     type: 'multiple-choice',
     level: 'C1',
@@ -578,7 +578,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v11",
     type: 'multiple-choice',
     level: 'C1',
@@ -598,7 +598,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v12",
     type: 'multiple-choice',
     level: 'C1',
@@ -618,7 +618,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v13",
     type: 'multiple-choice',
     level: 'C1',
@@ -638,7 +638,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v14",
     type: 'multiple-choice',
     level: 'C1',
@@ -658,7 +658,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v15",
     type: 'multiple-choice',
     level: 'C1',
@@ -678,7 +678,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v16",
     type: 'multiple-choice',
     level: 'C1',
@@ -698,7 +698,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v17",
     type: 'multiple-choice',
     level: 'C1',
@@ -718,7 +718,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-v18",
     type: 'multiple-choice',
     level: 'C1',
@@ -738,7 +738,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u1-r1",
     type: 'reading-comprehension',
     level: 'C1',
@@ -758,7 +758,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r2",
     type: 'reading-comprehension',
     level: 'C1',
@@ -778,7 +778,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r3",
     type: 'reading-comprehension',
     level: 'C1',
@@ -798,7 +798,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r4",
     type: 'reading-comprehension',
     level: 'C1',
@@ -818,7 +818,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r5",
     type: 'reading-comprehension',
     level: 'C1',
@@ -838,7 +838,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r6",
     type: 'reading-comprehension',
     level: 'C1',
@@ -858,7 +858,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r7",
     type: 'reading-comprehension',
     level: 'C1',
@@ -878,7 +878,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r8",
     type: 'reading-comprehension',
     level: 'C1',
@@ -898,7 +898,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r9",
     type: 'reading-comprehension',
     level: 'C1',
@@ -918,7 +918,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r10",
     type: 'reading-comprehension',
     level: 'C1',
@@ -938,7 +938,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r11",
     type: 'reading-comprehension',
     level: 'C1',
@@ -958,7 +958,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r12",
     type: 'reading-comprehension',
     level: 'C1',
@@ -978,7 +978,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r13",
     type: 'reading-comprehension',
     level: 'C1',
@@ -998,7 +998,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r14",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1018,7 +1018,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r15",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1038,7 +1038,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r16",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1058,7 +1058,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r17",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1078,7 +1078,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-r18",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1098,7 +1098,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u1-l1",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1118,7 +1118,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l2",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1138,7 +1138,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l3",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1158,7 +1158,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l4",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1178,7 +1178,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l5",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1198,7 +1198,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l6",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1218,7 +1218,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l7",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1238,7 +1238,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l8",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1258,7 +1258,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l9",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1278,7 +1278,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l10",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1298,7 +1298,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l11",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1318,7 +1318,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l12",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1338,7 +1338,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l13",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1358,7 +1358,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l14",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1378,7 +1378,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l15",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1398,7 +1398,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l16",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1418,7 +1418,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l17",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1438,7 +1438,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-l18",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1458,7 +1458,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u1-w1",
     type: 'writing',
     level: 'C1',
@@ -1478,7 +1478,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w2",
     type: 'writing',
     level: 'C1',
@@ -1498,7 +1498,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w3",
     type: 'writing',
     level: 'C1',
@@ -1518,7 +1518,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w4",
     type: 'writing',
     level: 'C1',
@@ -1538,7 +1538,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w5",
     type: 'writing',
     level: 'C1',
@@ -1558,7 +1558,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w6",
     type: 'writing',
     level: 'C1',
@@ -1578,7 +1578,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w7",
     type: 'writing',
     level: 'C1',
@@ -1598,7 +1598,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w8",
     type: 'writing',
     level: 'C1',
@@ -1618,7 +1618,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w9",
     type: 'writing',
     level: 'C1',
@@ -1638,7 +1638,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w10",
     type: 'writing',
     level: 'C1',
@@ -1658,7 +1658,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w11",
     type: 'writing',
     level: 'C1',
@@ -1678,7 +1678,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w12",
     type: 'writing',
     level: 'C1',
@@ -1698,7 +1698,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w13",
     type: 'writing',
     level: 'C1',
@@ -1718,7 +1718,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w14",
     type: 'writing',
     level: 'C1',
@@ -1738,7 +1738,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w15",
     type: 'writing',
     level: 'C1',
@@ -1758,7 +1758,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w16",
     type: 'writing',
     level: 'C1',
@@ -1778,7 +1778,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w17",
     type: 'writing',
     level: 'C1',
@@ -1798,7 +1798,7 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u1-w18",
     type: 'writing',
     level: 'C1',
@@ -1818,364 +1818,4 @@ export const UNIT_1_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
-    id: "c1-u1-s1",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Concede a point before countering, in a formal debate:",
-          options: ["[[While I take your point that cultural background is profoundly formative, I would contend that individual agency and peer networks also exert decisive influence.|While I take your point… I would contend…]]", "[[You are totally wrong about everything.|agresivo]]", "[[OK.|demasiado corto]]"],
-          correctAnswer: 0,
-          explanation: "Concession + counter-argument.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s2",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Soften a strong claim in a seminar:",
-          options: ["[[It would be hard to deny that social comparison shapes self-esteem, though it is probably not the sole mechanism.|hedging en capas]]", "[[Social comparison is 100% everything.|absoluto]]", "[[Maybe stuff happens.|demasiado flojo]]"],
-          correctAnswer: 0,
-          explanation: "Layered hedging.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s3",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Structure a Part 3-style oral answer:",
-          options: ["[[I'd like to approach this from two angles: first, how norms constrain expression; second, how individuals negotiate those constraints.|signposting]]", "[[I don't know.|evasivo]]", "[[Norms. People. Bye.|telegráfico]]"],
-          correctAnswer: 0,
-          explanation: "Oral signposting.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s4",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Politely disagree with a generalisation:",
-          options: ["[[I'm not entirely convinced that identity stabilises by early adulthood; longitudinal studies show continued revision well into middle age.|discrepar con respeto]]", "[[That is stupid.|grosero]]", "[[I agree with everything.|sin posición]]"],
-          correctAnswer: 0,
-          explanation: "Respectful disagreement + evidence cue.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s5",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Buy time to think aloud:",
-          options: ["[[That's an interesting question; if I may, I'll think aloud for a moment before giving a fuller answer.|ganar tiempo]]", "[[No comment.|cerrado]]", "[[Next question.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Stalling formula.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s6",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Emphasise a key distinction orally:",
-          options: ["[[The crucial distinction here is between belonging and mere inclusion — you can be present yet not feel accepted.|crucial distinction]]", "[[There is no distinction.|nada]]", "[[Belonging is a word.|vago]]"],
-          correctAnswer: 0,
-          explanation: "Clarifying concept.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s7",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Summarise someone else's view before responding:",
-          options: ["[[If I understand you correctly, you're suggesting that online personas are entirely fabricated. I'd qualify that: curation isn't necessarily fabrication.|reformular]]", "[[You said words.|vago]]", "[[Wrong.|sin reformulación]]"],
-          correctAnswer: 0,
-          explanation: "Active listening move.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s8",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Close a discussion with a balanced takeaway:",
-          options: ["[[So, to pull the threads together, both structure and agency seem indispensable for a rounded account of identity formation.|cierre equilibrado]]", "[[Whatever.|informal]]", "[[I forgot.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Synthesis phrase.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s9",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Ask for clarification in an academic tutorial:",
-          options: ["[[Could you clarify what you mean by 'performative' in this context — are you using it in the Butlerian sense?|precisión conceptual]]", "[[What?|demasiado brusco]]", "[[I know everything.|arrogante]]"],
-          correctAnswer: 0,
-          explanation: "Targeted clarification.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s10",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Express partial agreement:",
-          options: ["[[I partly agree: the narrative lens illuminates meaning-making, yet it may underplay non-verbal aspects of selfhood.|partial agreement]]", "[[I totally agree and disagree.|incoherente]]", "[[No.|cerrado]]"],
-          correctAnswer: 0,
-          explanation: "Qualified agreement.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s11",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Redirect a hostile question:",
-          options: ["[[I appreciate the challenge; perhaps we can reframe it as an empirical question about mechanisms rather than motives.|reencuadre]]", "[[Shut up.|inaceptable]]", "[[I refuse.|sin tacto]]"],
-          correctAnswer: 0,
-          explanation: "Diplomatic reframing.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s12",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Use a discourse marker to add weight:",
-          options: ["[[Moreover, cross-cultural evidence complicates any monocausal story about identity.|Moreover + complica]]", "[[Also stuff.|informal]]", "[[And.|demasiado débil]]"],
-          correctAnswer: 0,
-          explanation: "Formal additive marker.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s13",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Acknowledge limitations of your own argument orally:",
-          options: ["[[I should stress that my view rests largely on WEIRD samples; generalisation should be cautious.|límites explícitos]]", "[[My view is perfect.|sin límites]]", "[[No limitations exist.|falso]]"],
-          correctAnswer: 0,
-          explanation: "Epistemic modesty.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s14",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Invite another speaker to contribute:",
-          options: ["[[I'd be interested to hear whether your fieldwork supports or challenges that pattern.|invitar a contribuir]]", "[[Talk now or never.|amenaza]]", "[[You have nothing to say.|descortés]]"],
-          correctAnswer: 0,
-          explanation: "Inclusive facilitation.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s15",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Respond to a request for examples:",
-          options: ["[[A concrete illustration would be adolescents revising career narratives after gap-year travel.|ejemplo concreto]]", "[[Examples exist.|vago]]", "[[No examples.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Illustration move.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s16",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Signal you are building on prior point:",
-          options: ["[[Building on that point, we might ask how institutions encode which identity claims count as legitimate.|Building on that point]]", "[[Unrelated: cats.|tangente]]", "[[Forget that.|ruptura]]"],
-          correctAnswer: 0,
-          explanation: "Cohesive linkage.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s17",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Express empathy without overclaiming:",
-          options: ["[[I can see why that experience would shake your confidence, even if outwardly everything looked fine.|empatía matizada]]", "[[Your feelings are invalid.|dañino]]", "[[I feel exactly your brain.|extraño]]"],
-          correctAnswer: 0,
-          explanation: "Empathic validation.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u1-s18",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-debate",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — identity|Discusión — identidad]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "End with a forward-looking question (discussion):",
-          options: ["[[Where might digital identity research go next if we take hybrid online-offline lives seriously?|pregunta prospectiva]]", "[[The end.|cierre seco]]", "[[Who cares?|descortés]]"],
-          correctAnswer: 0,
-          explanation: "Productive closing question.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  }
 ];

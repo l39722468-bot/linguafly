@@ -1,5 +1,5 @@
 /**
- * Índice Unidad 45 (A1): Seasons.
+ * Índice de las 5 lecciones de la Unidad 45 (A1).
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -7,18 +7,14 @@ import { UNIT_45_LESSON_1_GRAMMAR } from './unit-45-lesson-1-grammar';
 import { UNIT_45_LESSON_2_VOCABULARY } from './unit-45-lesson-2-vocabulary';
 import { UNIT_45_LESSON_3_READING } from './unit-45-lesson-3-reading';
 import { UNIT_45_LESSON_4_LISTENING } from './unit-45-lesson-4-listening';
-import { UNIT_45_LESSON_5_SPEAKING } from './unit-45-lesson-5-speaking';
 import { UNIT_45_LESSON_6_WRITING } from './unit-45-lesson-6-writing';
-import { UNIT_45_RECAP } from './unit-45-recap';
 
 export const UNIT_45_LESSONS = {
   grammar: UNIT_45_LESSON_1_GRAMMAR,
   vocabulary: UNIT_45_LESSON_2_VOCABULARY,
   reading: UNIT_45_LESSON_3_READING,
   listening: UNIT_45_LESSON_4_LISTENING,
-  speaking: UNIT_45_LESSON_5_SPEAKING,
   writing: UNIT_45_LESSON_6_WRITING,
-  recap: UNIT_45_RECAP,
 } as const;
 
 export const UNIT_45_ALL_LESSONS: Exercise[][] = [
@@ -26,9 +22,7 @@ export const UNIT_45_ALL_LESSONS: Exercise[][] = [
   UNIT_45_LESSON_2_VOCABULARY,
   UNIT_45_LESSON_3_READING,
   UNIT_45_LESSON_4_LISTENING,
-  UNIT_45_LESSON_5_SPEAKING,
   UNIT_45_LESSON_6_WRITING,
-  UNIT_45_RECAP,
 ];
 
 export const UNIT_45_ALL_EXERCISES: Exercise[] = UNIT_45_ALL_LESSONS.flat();

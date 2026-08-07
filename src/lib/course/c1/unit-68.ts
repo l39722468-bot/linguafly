@@ -8,7 +8,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'C1 Language Lab — Clefts and Pseudo-clefts';
 
 export const UNIT_68_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u68-g1',
     type: 'multiple-choice',
     level: 'C1',
@@ -33,7 +33,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u68-g2',
     type: 'fill-blank',
     level: 'C1',
@@ -54,7 +54,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u68-g3',
     type: 'multiple-choice',
     level: 'C1',
@@ -79,7 +79,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u68-v1',
     type: 'multiple-choice',
     level: 'C1',
@@ -104,7 +104,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u68-v2',
     type: 'fill-blank',
     level: 'C1',
@@ -126,7 +126,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u68-v3',
     type: 'multiple-choice',
     level: 'C1',
@@ -151,7 +151,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u68-r1',
     type: 'reading-comprehension',
     level: 'C1',
@@ -177,7 +177,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u68-r2',
     type: 'multiple-choice',
     level: 'C1',
@@ -203,7 +203,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u68-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -228,7 +228,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u68-l1',
     type: 'listening-comprehension',
     level: 'C1',
@@ -254,7 +254,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u68-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -279,7 +279,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u68-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -304,7 +304,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u68-w1',
     type: 'writing',
     level: 'C1',
@@ -329,7 +329,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u68-w2',
     type: 'writing',
     level: 'C1',
@@ -353,7 +353,7 @@ export const UNIT_68_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u68-w3',
     type: 'writing',
     level: 'C1',
@@ -376,78 +376,5 @@ export const UNIT_68_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u68-s1',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Staging information|Presentar información]]',
-      instructions: 'Choose the most natural spoken emphasis.',
-      questions: [
-        {
-          question: 'You need to stress that funding was the real issue. Which sounds most natural?',
-          options: [
-            '[[What held us back wasn\'t lack of ideas — it was funding.|Lo que nos frenó no fue…]]',
-            '[[The real issue funding was what held us back.|orden confuso]]',
-            '[[Held us back wasn\'t ideas lack.|no gramatical]]',
-          ],
-          correctAnswer: 0,
-          explanation:
-            '*What-clause + be + contrast* is idiomatic in spoken argument.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u68-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u68-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

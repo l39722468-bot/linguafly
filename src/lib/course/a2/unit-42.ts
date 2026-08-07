@@ -1,6 +1,6 @@
 /**
  * Unidad 42 — Present Perfect: Ever & Never (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_42_ALL_EXERCISES } from './unit-42-lessons-index';

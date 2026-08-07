@@ -1,6 +1,6 @@
 /**
  * Unidad 50 — Module 5 Review (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_50_ALL_EXERCISES } from './unit-50-lessons-index';

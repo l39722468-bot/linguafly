@@ -1,6 +1,6 @@
 /**
  * Unidad 54 — Modals: Could & May (Permission & Possibility) (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_54_ALL_EXERCISES } from './unit-54-lessons-index';

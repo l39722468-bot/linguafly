@@ -8,5 +8,5 @@ import { UNIT_1_ALL_EXERCISES } from './unit-1-lessons-index';
 
 export const UNIT_TITLE = 'Repaso A2 → B1';
 
-/** Todos los ejercicios de la Unidad 1 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 1 (5 lecciones). */
 export const UNIT_1_EXERCISES = UNIT_1_ALL_EXERCISES;

@@ -8,5 +8,5 @@ import { UNIT_4_ALL_EXERCISES } from './unit-4-lessons-index';
 
 export const UNIT_TITLE = 'Gerund & Object + Infinitive';
 
-/** Todos los ejercicios de la Unidad 4 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 4 (5 lecciones). */
 export const UNIT_4_EXERCISES = UNIT_4_ALL_EXERCISES;

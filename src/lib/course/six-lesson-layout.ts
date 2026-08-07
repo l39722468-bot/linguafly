@@ -1,7 +1,8 @@
 /**
- * Agrupa ejercicios de una unidad en 6 franjas pedagógicas fijas:
- * gramática, vocabulario/contexto, reading, listening, writing, speaking.
- * Detecta por id (C1: -g/-v/-r/-l/-w/-s; resto: -l1- … -l6-), luego topicName y type.
+ * Agrupa ejercicios de una unidad en 5 franjas pedagógicas fijas:
+ * gramática, vocabulario/contexto, reading, listening, writing.
+ * (Speaking eliminado del curriculum.)
+ * Detecta por id (C1: -g/-v/-r/-l/-w; resto: -l1- … -l6-), luego topicName y type.
  */
 
 import type { Exercise } from '@/lib/exercise-generator';
@@ -12,10 +13,12 @@ export const SIX_LESSON_KEYS = [
   'reading',
   'listening',
   'writing',
-  'speaking',
 ] as const;
 
 export type SixLessonKey = (typeof SIX_LESSON_KEYS)[number];
+
+/** Número de lecciones pedagógicas (sin speaking). */
+export const PEDAGOGICAL_LESSON_COUNT = SIX_LESSON_KEYS.length;
 
 /** Etiquetas UI (español), alineadas con el producto: lección 2 incluye gramática en contexto. */
 export const SIX_LESSON_LABEL_ES: Record<SixLessonKey, string> = {
@@ -24,25 +27,23 @@ export const SIX_LESSON_LABEL_ES: Record<SixLessonKey, string> = {
   reading: 'Reading',
   listening: 'Listening',
   writing: 'Writing',
-  speaking: 'Speaking',
 };
 
-/** Etiquetas UI para curso C1: 6 lecciones fijas (ids `c1-uN-g|v|r|l|w|s`…). */
+/** Etiquetas UI para curso C1: 5 lecciones fijas (ids `c1-uN-g|v|r|l|w`…). */
 export const SIX_LESSON_LABEL_ES_C1: Record<SixLessonKey, string> = {
   grammar: 'Gramática',
   vocabulary: 'Vocabulario',
   reading: 'Comprensión lectora',
   listening: 'Listening',
   writing: 'Expresión escrita',
-  speaking: 'Speaking',
 };
 
 export interface SixLessonLayout {
-  /** Ejercicios reordenados por franja (0→5) y, al final, cola no clasificada. */
+  /** Ejercicios reordenados por franja (0→4) y, al final, cola no clasificada. */
   orderedExercises: Exercise[];
-  lessonCounts: [number, number, number, number, number, number];
-  lessonStarts: [number, number, number, number, number, number];
-  /** Ítems que no encajaron en heurística (p. ej. IA); van al final de la franja speaking. */
+  lessonCounts: [number, number, number, number, number];
+  lessonStarts: [number, number, number, number, number];
+  /** Ítems que no encajaron en heurística (p. ej. IA); van al final de writing. */
   tailCount: number;
 }
 
@@ -52,49 +53,65 @@ const SLOT_BY_C1_LETTER: Record<string, number> = {
   r: 2,
   l: 3,
   w: 4,
-  s: 5,
 };
+
+function isSpeakingExercise(ex: Exercise): boolean {
+  const id = (ex.id ?? '').trim();
+  if (/^c1-u\d+-s\d+$/i.test(id)) return true;
+  const tn = (ex.topicName || '').trim().toLowerCase();
+  if (tn === 'speaking') return true;
+  const ty = (ex.type || '').toLowerCase();
+  if (ty.includes('speaking') || ty === 'pronunciation' || ty === 'pronunciation-practice') {
+    return true;
+  }
+  return false;
+}
 
 /** Orden dentro de franja C1: `c1-u3-g12` → 12 (para unidades con >9 ítems por lección). */
 export function getC1LessonItemOrder(id: string | undefined): number | null {
-  const m = (id ?? '').trim().match(/^c1-u\d+-[gvrwls](\d+)$/i);
+  const m = (id ?? '').trim().match(/^c1-u\d+-[gvrwl](\d+)$/i);
   return m ? parseInt(m[1], 10) : null;
 }
 
 function detectLessonSlot(ex: Exercise): number | null {
+  if (isSpeakingExercise(ex)) return null;
+
   const id = (ex.id ?? '').trim();
-  if (/^c1-u\d+-[gvrwls]\d+$/i.test(id)) {
-    const m = id.match(/^c1-u\d+-([gvrwls])\d+$/i);
+  if (/^c1-u\d+-[gvrwl]\d+$/i.test(id)) {
+    const m = id.match(/^c1-u\d+-([gvrwl])\d+$/i);
     if (m) return SLOT_BY_C1_LETTER[m[1].toLowerCase()] ?? null;
   }
-  const mL = id.match(/-l([1-6])-/i);
-  if (mL) {
-    const n = parseInt(mL[1], 10);
-    if (n >= 1 && n <= 6) return n - 1;
-  }
+
   const tn = (ex.topicName || '').trim().toLowerCase();
   if (tn === 'grammar') return 0;
-  if (tn === 'vocabulary') return 1;
+  if (tn === 'vocabulary' || tn === 'grammar_context' || tn === 'grammar context') return 1;
   if (tn === 'reading') return 2;
   if (tn === 'listening') return 3;
   if (tn === 'writing') return 4;
-  if (tn === 'speaking') return 5;
+
+  const mL = id.match(/-l([1-6])-/i);
+  if (mL) {
+    const n = parseInt(mL[1], 10);
+    if (n >= 1 && n <= 4) return n - 1;
+    // A1–B2: l5 era speaking (filtrado), l6 writing. C2: l5 writing, l6 speaking (filtrado).
+    if (n === 5 || n === 6) return 4;
+  }
 
   const ty = (ex.type || '').toLowerCase();
   if (ty.includes('reading')) return 2;
   if (ty.includes('listening')) return 3;
   if (ty === 'writing' || ty.includes('writing')) return 4;
-  if (ty.includes('speaking') || ty === 'pronunciation') return 5;
   return null;
 }
 
 export function buildSixLessonLayout(exercises: Exercise[]): SixLessonLayout {
-  const buckets: Exercise[][] = [[], [], [], [], [], []];
+  const buckets: Exercise[][] = [[], [], [], [], []];
   const tail: Exercise[] = [];
 
   for (const ex of exercises) {
+    if (isSpeakingExercise(ex)) continue;
     const slot = detectLessonSlot(ex);
-    if (slot !== null && slot >= 0 && slot < 6) {
+    if (slot !== null && slot >= 0 && slot < PEDAGOGICAL_LESSON_COUNT) {
       buckets[slot].push(ex);
     } else {
       tail.push(ex);
@@ -102,10 +119,10 @@ export function buildSixLessonLayout(exercises: Exercise[]): SixLessonLayout {
   }
 
   if (tail.length) {
-    buckets[5].push(...tail);
+    buckets[PEDAGOGICAL_LESSON_COUNT - 1].push(...tail);
   }
 
-  for (let i = 0; i < 6; i++) {
+  for (let i = 0; i < PEDAGOGICAL_LESSON_COUNT; i++) {
     buckets[i].sort((a, b) => {
       const oa = getC1LessonItemOrder(a.id);
       const ob = getC1LessonItemOrder(b.id);
@@ -120,12 +137,11 @@ export function buildSixLessonLayout(exercises: Exercise[]): SixLessonLayout {
     number,
     number,
     number,
-    number,
   ];
 
-  const lessonStarts: [number, number, number, number, number, number] = [0, 0, 0, 0, 0, 0];
+  const lessonStarts: [number, number, number, number, number] = [0, 0, 0, 0, 0];
   let acc = 0;
-  for (let i = 0; i < 6; i++) {
+  for (let i = 0; i < PEDAGOGICAL_LESSON_COUNT; i++) {
     lessonStarts[i] = acc;
     acc += lessonCounts[i];
   }
@@ -138,9 +154,9 @@ export function buildSixLessonLayout(exercises: Exercise[]): SixLessonLayout {
   };
 }
 
-/** Índice de franja 0–5 para un índice global en `orderedExercises`. */
+/** Índice de franja 0–4 para un índice global en `orderedExercises`. */
 export function getSixLessonSlotAtGlobalIndex(layout: SixLessonLayout, globalIndex: number): number {
-  for (let k = 0; k < 6; k++) {
+  for (let k = 0; k < PEDAGOGICAL_LESSON_COUNT; k++) {
     const start = layout.lessonStarts[k];
     const count = layout.lessonCounts[k];
     if (globalIndex >= start && globalIndex < start + count) {
@@ -152,7 +168,7 @@ export function getSixLessonSlotAtGlobalIndex(layout: SixLessonLayout, globalInd
 
 export interface SixLessonNavState {
   lessonSlot: number;
-  /** 1–6 para el usuario */
+  /** 1–5 para el usuario */
   lessonNumber: number;
   lessonLabelEs: string;
   exerciseInLesson: number;
@@ -175,7 +191,7 @@ export function getSixLessonNavState(
     lessonLabelEs: labels[SIX_LESSON_KEYS[slot]],
     exerciseInLesson,
     exercisesInThisLesson: Math.max(1, count),
-    totalPedagogicalLessons: 6,
+    totalPedagogicalLessons: PEDAGOGICAL_LESSON_COUNT,
   };
 }
 

@@ -1,6 +1,6 @@
 /**
  * Unidad 25 — Future Contrast (A2)
- * Carga las lecciones: Lectura, Escucha, Oral, Escrita.
+ * Carga las lecciones: Lectura, Escucha, Escrita.
  */
 
 import { UNIT_25_ALL_EXERCISES } from './unit-25-lessons-index';

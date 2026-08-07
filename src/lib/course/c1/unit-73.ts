@@ -8,7 +8,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'C1 Language Lab — Mixed Conditionals & Inversion';
 
 export const UNIT_73_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u73-g1',
     type: 'multiple-choice',
     level: 'C1',
@@ -32,7 +32,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u73-g2',
     type: 'fill-blank',
     level: 'C1',
@@ -53,7 +53,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u73-g3',
     type: 'multiple-choice',
     level: 'C1',
@@ -77,7 +77,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u73-v1',
     type: 'fill-blank',
     level: 'C1',
@@ -98,7 +98,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u73-v2',
     type: 'multiple-choice',
     level: 'C1',
@@ -122,7 +122,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u73-v3',
     type: 'multiple-choice',
     level: 'C1',
@@ -146,7 +146,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u73-r1',
     type: 'reading-comprehension',
     level: 'C1',
@@ -171,7 +171,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u73-r2',
     type: 'multiple-choice',
     level: 'C1',
@@ -196,7 +196,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u73-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -221,7 +221,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u73-l1',
     type: 'listening-comprehension',
     level: 'C1',
@@ -246,7 +246,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u73-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -271,7 +271,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u73-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -296,7 +296,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u73-w1',
     type: 'writing',
     level: 'C1',
@@ -320,7 +320,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u73-w2',
     type: 'writing',
     level: 'C1',
@@ -344,7 +344,7 @@ export const UNIT_73_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u73-w3',
     type: 'writing',
     level: 'C1',
@@ -367,77 +367,5 @@ export const UNIT_73_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u73-s1',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'conditional-inversion',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Formal register|Registro formal]]',
-      instructions: 'Choose the most appropriate spoken response at C1.',
-      questions: [
-        {
-          question: 'In a formal meeting, how do you politely offer help?',
-          options: [
-            '[[Should you require any further details, please let us know.|Should you require]]',
-            '[[If you gonna need details, tell me.|informal]]',
-            '[[You need details, call me.|demasiado directo]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*Should you require* is diplomatic and formal in spoken professional contexts.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u73-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'but-for',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[But for|But for]]',
-      instructions: 'Choose the most natural C1 spoken sentence.',
-      questions: [
-        {
-          question: 'You want to credit someone for preventing failure. Which is best?',
-          options: [
-            '[[But for your intervention, we would have missed the deadline.|But for + would have]]',
-            '[[Because for your intervention, we missed.|incorrecto]]',
-            '[[If not your intervention, we miss deadline.|demasiado informal]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*But for* sounds natural and formal in spoken argument at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u73-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'mixed-conditional',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Hypothetical discussion|Debate hipotético]]',
-      instructions: 'Choose the best response in a discussion.',
-      questions: [
-        {
-          question: 'A colleague says policy was too slow. You agree using a mixed conditional:',
-          options: [
-            '[[Had they acted sooner, we would not be dealing with these shortages now.|Had + would not be … now]]',
-            '[[If they act sooner, we are not dealing with shortages.|tiempos incorrectos]]',
-            '[[They acted sooner, so no shortages.|no es hipotético]]',
-          ],
-          correctAnswer: 0,
-          explanation: 'Mixed conditional with inversion is persuasive and natural at C1 in debate.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

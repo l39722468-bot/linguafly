@@ -23,7 +23,6 @@ const AVAILABLE_TOPICS = [
   'Vocabulary',
   'Reading',
   'Listening',
-  'Speaking',
   'Writing',
   'Pronunciation',
   'Culture'

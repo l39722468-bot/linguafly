@@ -1,6 +1,6 @@
 /**
  * Unidad 27 — Zero Conditional (A2)
- * Carga las lecciones: Lectura, Escucha, Oral, Escrita.
+ * Carga las lecciones: Lectura, Escucha, Escrita.
  */
 
 import { UNIT_27_ALL_EXERCISES } from './unit-27-lessons-index';

@@ -3,8 +3,8 @@
  * Módulo 1 (bloque temático): Persona, sociedad y entorno
  * Grammar: Distancing language; impersonal constructions; advanced clefts
  *
- * Modelo ampliado: 18 ejercicios por lección × 6 lecciones = 108 ítems.
- * Patrón de IDs: c1-u10-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18, s1..s18.
+ * Modelo ampliado: 18 ejercicios por lección × 5 lecciones = 90 ítems.
+ * Patrón de IDs: c1-u10-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18.
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -12,7 +12,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = '[[Philosophy, Ethics and the Future|Filosofía, ética y el futuro]]';
 
 export const UNIT_10_EXERCISES: Exercise[] = [
-  {
+{
     id: "c1-u10-g1",
     type: 'multiple-choice',
     level: 'C1',
@@ -32,7 +32,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g2",
     type: 'fill-blank',
     level: 'C1',
@@ -53,7 +53,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g3",
     type: 'multiple-choice',
     level: 'C1',
@@ -73,7 +73,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g4",
     type: 'fill-blank',
     level: 'C1',
@@ -94,7 +94,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g5",
     type: 'multiple-choice',
     level: 'C1',
@@ -114,7 +114,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g6",
     type: 'fill-blank',
     level: 'C1',
@@ -135,7 +135,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g7",
     type: 'multiple-choice',
     level: 'C1',
@@ -155,7 +155,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g8",
     type: 'fill-blank',
     level: 'C1',
@@ -176,7 +176,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g9",
     type: 'multiple-choice',
     level: 'C1',
@@ -196,7 +196,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g10",
     type: 'fill-blank',
     level: 'C1',
@@ -217,7 +217,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g11",
     type: 'multiple-choice',
     level: 'C1',
@@ -237,7 +237,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g12",
     type: 'fill-blank',
     level: 'C1',
@@ -258,7 +258,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g13",
     type: 'multiple-choice',
     level: 'C1',
@@ -278,7 +278,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g14",
     type: 'fill-blank',
     level: 'C1',
@@ -299,7 +299,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g15",
     type: 'multiple-choice',
     level: 'C1',
@@ -319,7 +319,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g16",
     type: 'fill-blank',
     level: 'C1',
@@ -340,7 +340,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g17",
     type: 'multiple-choice',
     level: 'C1',
@@ -360,7 +360,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-g18",
     type: 'fill-blank',
     level: 'C1',
@@ -381,7 +381,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u10-v1",
     type: 'multiple-choice',
     level: 'C1',
@@ -401,7 +401,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v2",
     type: 'multiple-choice',
     level: 'C1',
@@ -421,7 +421,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v3",
     type: 'multiple-choice',
     level: 'C1',
@@ -441,7 +441,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v4",
     type: 'multiple-choice',
     level: 'C1',
@@ -461,7 +461,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v5",
     type: 'multiple-choice',
     level: 'C1',
@@ -481,7 +481,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v6",
     type: 'multiple-choice',
     level: 'C1',
@@ -501,7 +501,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v7",
     type: 'multiple-choice',
     level: 'C1',
@@ -521,7 +521,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v8",
     type: 'multiple-choice',
     level: 'C1',
@@ -541,7 +541,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v9",
     type: 'multiple-choice',
     level: 'C1',
@@ -561,7 +561,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v10",
     type: 'multiple-choice',
     level: 'C1',
@@ -581,7 +581,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v11",
     type: 'multiple-choice',
     level: 'C1',
@@ -601,7 +601,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v12",
     type: 'multiple-choice',
     level: 'C1',
@@ -621,7 +621,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v13",
     type: 'multiple-choice',
     level: 'C1',
@@ -641,7 +641,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v14",
     type: 'multiple-choice',
     level: 'C1',
@@ -661,7 +661,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v15",
     type: 'multiple-choice',
     level: 'C1',
@@ -681,7 +681,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v16",
     type: 'multiple-choice',
     level: 'C1',
@@ -701,7 +701,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v17",
     type: 'multiple-choice',
     level: 'C1',
@@ -721,7 +721,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-v18",
     type: 'multiple-choice',
     level: 'C1',
@@ -741,7 +741,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u10-r1",
     type: 'reading-comprehension',
     level: 'C1',
@@ -761,7 +761,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r2",
     type: 'reading-comprehension',
     level: 'C1',
@@ -781,7 +781,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r3",
     type: 'reading-comprehension',
     level: 'C1',
@@ -801,7 +801,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r4",
     type: 'reading-comprehension',
     level: 'C1',
@@ -821,7 +821,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r5",
     type: 'reading-comprehension',
     level: 'C1',
@@ -841,7 +841,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r6",
     type: 'reading-comprehension',
     level: 'C1',
@@ -861,7 +861,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r7",
     type: 'reading-comprehension',
     level: 'C1',
@@ -881,7 +881,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r8",
     type: 'reading-comprehension',
     level: 'C1',
@@ -901,7 +901,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r9",
     type: 'reading-comprehension',
     level: 'C1',
@@ -921,7 +921,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r10",
     type: 'reading-comprehension',
     level: 'C1',
@@ -941,7 +941,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r11",
     type: 'reading-comprehension',
     level: 'C1',
@@ -961,7 +961,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r12",
     type: 'reading-comprehension',
     level: 'C1',
@@ -981,7 +981,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r13",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1001,7 +1001,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r14",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1021,7 +1021,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r15",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1041,7 +1041,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r16",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1061,7 +1061,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r17",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1081,7 +1081,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-r18",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1101,7 +1101,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u10-l1",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1121,7 +1121,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l2",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1141,7 +1141,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l3",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1161,7 +1161,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l4",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1181,7 +1181,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l5",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1201,7 +1201,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l6",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1221,7 +1221,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l7",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1241,7 +1241,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l8",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1261,7 +1261,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l9",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1281,7 +1281,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l10",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1301,7 +1301,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l11",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1321,7 +1321,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l12",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1341,7 +1341,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l13",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1361,7 +1361,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l14",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1381,7 +1381,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l15",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1401,7 +1401,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l16",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1421,7 +1421,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l17",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1441,7 +1441,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-l18",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1461,7 +1461,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u10-w1",
     type: 'writing',
     level: 'C1',
@@ -1481,7 +1481,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w2",
     type: 'writing',
     level: 'C1',
@@ -1501,7 +1501,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w3",
     type: 'writing',
     level: 'C1',
@@ -1521,7 +1521,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w4",
     type: 'writing',
     level: 'C1',
@@ -1541,7 +1541,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w5",
     type: 'writing',
     level: 'C1',
@@ -1561,7 +1561,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w6",
     type: 'writing',
     level: 'C1',
@@ -1581,7 +1581,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w7",
     type: 'writing',
     level: 'C1',
@@ -1601,7 +1601,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w8",
     type: 'writing',
     level: 'C1',
@@ -1621,7 +1621,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w9",
     type: 'writing',
     level: 'C1',
@@ -1641,7 +1641,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w10",
     type: 'writing',
     level: 'C1',
@@ -1661,7 +1661,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w11",
     type: 'writing',
     level: 'C1',
@@ -1681,7 +1681,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w12",
     type: 'writing',
     level: 'C1',
@@ -1701,7 +1701,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w13",
     type: 'writing',
     level: 'C1',
@@ -1721,7 +1721,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w14",
     type: 'writing',
     level: 'C1',
@@ -1741,7 +1741,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w15",
     type: 'writing',
     level: 'C1',
@@ -1761,7 +1761,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w16",
     type: 'writing',
     level: 'C1',
@@ -1781,7 +1781,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w17",
     type: 'writing',
     level: 'C1',
@@ -1801,7 +1801,7 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u10-w18",
     type: 'writing',
     level: 'C1',
@@ -1821,364 +1821,4 @@ export const UNIT_10_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
-    id: "c1-u10-s1",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Concede merit before countering in a debate on banning autonomous weapons:",
-          options: ["[[While I accept that humans have escalated atrocities without robots, I would argue that speed and delegation change accountability structures we cannot ignore.|While I accept… I would argue…]]", "[[Robots solve war.|ad hominem]]", "[[Ban is easy.|vago]]"],
-          correctAnswer: 0,
-          explanation: "Concession.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s2",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Soften a claim that \"science fully settles ethics\":",
-          options: ["[[It would be reductive to treat empirical facts as self-interpreting; ought-claims still need normative premises even when the evidence is robust.|hedging en capas]]", "[[Science ends all debate.|absoluto]]", "[[Maybe.|flojo]]"],
-          correctAnswer: 0,
-          explanation: "Nuanced.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s3",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Structure a Part 3-style answer on whether we owe duties to future generations:",
-          options: ["[[I'd like to separate identity puzzles from opportunity costs: even if particular people wouldn't exist otherwise, risky policies can still wrong whoever arrives by shrinking their options — so the case needn't hinge on a single metaphysics.|signposting]]", "[[Future people are imaginary.|superficial]]", "[[No idea.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Architecture.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s4",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Politely disagree that \"empathy alone fixes injustice\":",
-          options: ["[[I'm not entirely convinced affective resonance captures structural incentives; solidarity may require institutions, not only feelings.|matizado]]", "[[That's cruel.|descortés]]", "[[I agree.|sin posición]]"],
-          correctAnswer: 0,
-          explanation: "Disagreement.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s5",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Buy time before answering a technical question on reflective equilibrium:",
-          options: ["[[If I may, I'll clarify whether you mean narrow Rawlsian equilibrium or wide equilibrium across background theories before answering.|ganar tiempo]]", "[[Google it.|descortés]]", "[[Pass.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Clarify.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s6",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Emphasise the difference between *instrumental* and *intrinsic* value orally:",
-          options: ["[[The key distinction is usefulness as a means versus worth for its own sake — money can be instrumental while dignity is often treated as non-fungible.|distinción clave]]", "[[They are identical.|incorrecto]]", "[[Value is always money.|falso]]"],
-          correctAnswer: 0,
-          explanation: "Clarity.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s7",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Summarise your interlocutor's view before responding on moral expertise:",
-          options: ["[[If I follow you, you're saying only voters count. I'd qualify that: democratic legitimacy can still embed expert elicitation with public reasons.|reformular]]", "[[You spoke.|vago]]", "[[Wrong.|sin escucha]]"],
-          correctAnswer: 0,
-          explanation: "Listening.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s8",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Close with a balanced takeaway on effective altruism versus community partiality:",
-          options: ["[[So, pulling this together, impartial metrics can spotlight neglected harms, yet lived obligations to kin and neighbours aren't thereby shown irrational without further argument.|síntesis]]", "[[Altruism is a cult.|binario]]", "[[Whatever.|informal]]"],
-          correctAnswer: 0,
-          explanation: "Close.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s9",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Ask for clarification about \"human dignity\" in a bioethics panel:",
-          options: ["[[Could you clarify whether you mean inviolable side-constraints, a cap on instrumentalisation, or a rhetorical flourish — the policy implications differ sharply?|precisión]]", "[[Dignity what?|brusco]]", "[[Dignity is fake.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Question.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s10",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Express partial agreement on cognitive enhancement for exam performance:",
-          options: ["[[I partly agree fairness concerns matter, yet blanket bans may push use underground without medical oversight — proportionate regulation could be less paternalistic than prohibition.|acuerdo parcial]]", "[[Ban everything.|cerrado]]", "[[Enhance everyone.|absoluto]]"],
-          correctAnswer: 0,
-          explanation: "Partial.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s11",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Redirect a hostile question accusing philosophers of \"useless abstraction\":",
-          options: ["[[I hear the frustration; perhaps we can reframe this as which concrete decisions hinge on clarifying values rather than personalising theorists.|reencuadre]]", "[[Shut up.|inaceptable]]", "[[Philosophers are saints.|falso]]"],
-          correctAnswer: 0,
-          explanation: "Redirect.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s12",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Add weight with a formal marker in a panel on climate duties to non-citizens:",
-          options: ["[[Moreover, borderless pollutants mean harms outrun passport categories, so responsibility narratives need transboundary institutions.|Moreover]]", "[[Also stuff.|informal]]", "[[And.|débil]]"],
-          correctAnswer: 0,
-          explanation: "Marker.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s13",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Acknowledge limits of your argument about a single trolley-problem poll:",
-          options: ["[[I should stress that stylised vignettes illuminate structure but cannot substitute for field evidence on how institutions behave under pressure.|límites]]", "[[Polls prove ethics.|sin límites]]", "[[Thought experiments are useless.|falso]]"],
-          correctAnswer: 0,
-          explanation: "Modesty.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s14",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Invite an ethicist to extend your point on moral uncertainty:",
-          options: ["[[I'd be interested to hear whether your preferred meta-norm still recommends hedging when theory credences are unstable week to week.|invitar]]", "[[You decide now.|orden]]", "[[Meta-ethics is politics only.|descortés]]"],
-          correctAnswer: 0,
-          explanation: "Invite.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s15",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Give a concrete example of moral hazard after a bailout:",
-          options: ["[[A concrete example would be riskier bets next cycle if creditors expect another rescue — incentives shifted even if intentions stayed noble.|ejemplo]]", "[[Bailouts are abstract.|vago]]", "[[No examples.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Example.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s16",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Build on a prior point about epistemic injustice in medicine:",
-          options: ["[[Building on that, we might ask how triage algorithms encode credibility defaults when patient narratives are noisy.|Building on that]]", "[[Unrelated: pizza.|tangente]]", "[[Doctors are lazy.|ruptura]]"],
-          correctAnswer: 0,
-          explanation: "Linkage.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s17",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Show empathy after someone describes whistle-blower retaliation:",
-          options: ["[[That sounds genuinely isolating — especially if legal shields looked strong on paper yet failed in practice.|empatía]]", "[[Toughen up.|dañino]]", "[[Everyone is fine.|frío]]"],
-          correctAnswer: 0,
-          explanation: "Empathy.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u10-s18",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-ethics",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — philosophy & ethics|Discusión — filosofía y ética]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "End with a forward-looking question on synthetic phenomenology:",
-          options: ["[[Where should we draw the line between simulating reports of pain and evidence that anything morally matters inside the system?|pregunta prospectiva]]", "[[The end.|cierre seco]]", "[[AI is cool.|ingenuo]]"],
-          correctAnswer: 0,
-          explanation: "Forward.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  }
 ];

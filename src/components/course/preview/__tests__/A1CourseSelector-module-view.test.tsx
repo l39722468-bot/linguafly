@@ -87,7 +87,7 @@ describe('A1CourseSelector - Module View', () => {
   it('should apply filters in module view', () => {
     const units = createMockUnits(30);
     units[0].topics = ['Grammar', 'Vocabulary'];
-    units[1].topics = ['Listening', 'Speaking'];
+    units[1].topics = ['Listening', 'Writing'];
     units[2].topics = ['Grammar'];
 
     render(<A1CourseSelector units={units} />);

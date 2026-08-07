@@ -8,5 +8,5 @@ import { UNIT_56_ALL_EXERCISES } from './unit-56-lessons-index';
 
 export const UNIT_TITLE = 'Digital Rights & Online Ethics';
 
-/** Todos los ejercicios de la Unidad 56 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 56 (5 lecciones). */
 export const UNIT_56_EXERCISES = UNIT_56_ALL_EXERCISES;

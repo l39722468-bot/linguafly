@@ -8,5 +8,5 @@ import { UNIT_18_ALL_EXERCISES } from './unit-18-lessons-index';
 
 export const UNIT_TITLE = 'So Such Too Enough';
 
-/** Todos los ejercicios de la Unidad 18 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 18 (5 lecciones). */
 export const UNIT_18_EXERCISES = UNIT_18_ALL_EXERCISES;

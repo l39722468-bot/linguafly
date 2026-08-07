@@ -8,6 +8,6 @@ import { UNIT_63_ALL_EXERCISES } from './unit-63-lessons-index';
 
 export const UNIT_TITLE = 'Tenses & Aspect (Exam Contrasts)';
 
-/** Todos los ejercicios de la Unidad 63 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 63 (5 lecciones). */
 export const UNIT_63_EXERCISES = UNIT_63_ALL_EXERCISES;
 

@@ -8,7 +8,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'C1 Language Lab — Inversion and Emphatic Fronting';
 
 export const UNIT_67_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u67-g1',
     type: 'multiple-choice',
     level: 'C1',
@@ -33,7 +33,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u67-g2',
     type: 'fill-blank',
     level: 'C1',
@@ -60,7 +60,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u67-g3',
     type: 'multiple-choice',
     level: 'C1',
@@ -85,7 +85,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u67-v1',
     type: 'multiple-choice',
     level: 'C1',
@@ -110,7 +110,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u67-v2',
     type: 'fill-blank',
     level: 'C1',
@@ -132,7 +132,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u67-v3',
     type: 'multiple-choice',
     level: 'C1',
@@ -157,7 +157,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u67-r1',
     type: 'reading-comprehension',
     level: 'C1',
@@ -183,7 +183,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u67-r2',
     type: 'multiple-choice',
     level: 'C1',
@@ -209,7 +209,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u67-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -234,7 +234,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u67-l1',
     type: 'listening-comprehension',
     level: 'C1',
@@ -260,7 +260,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u67-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -285,7 +285,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u67-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -310,7 +310,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u67-w1',
     type: 'writing',
     level: 'C1',
@@ -335,7 +335,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u67-w2',
     type: 'writing',
     level: 'C1',
@@ -359,7 +359,7 @@ export const UNIT_67_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u67-w3',
     type: 'writing',
     level: 'C1',
@@ -382,78 +382,5 @@ export const UNIT_67_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u67-s1',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Formal emphasis|Énfasis formal]]',
-      instructions: 'Choose the most natural C1 response in a formal debate.',
-      questions: [
-        {
-          question: 'You want to stress that the problem has never been addressed. Which sounds most natural?',
-          options: [
-            '[[Never before has the committee addressed this issue with the seriousness it deserves.|Nunca antes el comité…]]',
-            '[[The committee never before has addressed this issue…|orden poco idiomático]]',
-            '[[Never the committee has addressed this issue…|orden incorrecto]]',
-          ],
-          correctAnswer: 0,
-          explanation:
-            '*Never before has + subject + past participle* is a strong, formal spoken opener.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u67-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u67-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

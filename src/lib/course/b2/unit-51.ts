@@ -8,5 +8,5 @@ import { UNIT_51_ALL_EXERCISES } from './unit-51-lessons-index';
 
 export const UNIT_TITLE = 'Global Economic Crisis';
 
-/** Todos los ejercicios de la Unidad 51 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 51 (5 lecciones). */
 export const UNIT_51_EXERCISES = UNIT_51_ALL_EXERCISES;

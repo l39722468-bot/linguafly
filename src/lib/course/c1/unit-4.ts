@@ -3,8 +3,8 @@
  * Módulo 1 (bloque temático): Persona, sociedad y entorno
  * Grammar: Advanced relative clauses; hedging language
  *
- * Modelo ampliado: 18 ejercicios por lección × 6 lecciones = 108 ítems.
- * Patrón de IDs: c1-u4-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18, s1..s18.
+ * Modelo ampliado: 18 ejercicios por lección × 5 lecciones = 90 ítems.
+ * Patrón de IDs: c1-u4-g1..g18, v1..v18, r1..r18, l1..l18, w1..w18.
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -12,7 +12,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = '[[The Natural World|El mundo natural]]';
 
 export const UNIT_4_EXERCISES: Exercise[] = [
-  {
+{
     id: "c1-u4-g1",
     type: 'multiple-choice',
     level: 'C1',
@@ -32,7 +32,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g2",
     type: 'fill-blank',
     level: 'C1',
@@ -53,7 +53,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g3",
     type: 'multiple-choice',
     level: 'C1',
@@ -73,7 +73,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g4",
     type: 'fill-blank',
     level: 'C1',
@@ -94,7 +94,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g5",
     type: 'multiple-choice',
     level: 'C1',
@@ -114,7 +114,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g6",
     type: 'fill-blank',
     level: 'C1',
@@ -135,7 +135,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g7",
     type: 'multiple-choice',
     level: 'C1',
@@ -155,7 +155,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g8",
     type: 'fill-blank',
     level: 'C1',
@@ -176,7 +176,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g9",
     type: 'multiple-choice',
     level: 'C1',
@@ -196,7 +196,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g10",
     type: 'fill-blank',
     level: 'C1',
@@ -217,7 +217,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g11",
     type: 'multiple-choice',
     level: 'C1',
@@ -237,7 +237,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g12",
     type: 'multiple-choice',
     level: 'C1',
@@ -257,7 +257,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g13",
     type: 'multiple-choice',
     level: 'C1',
@@ -277,7 +277,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g14",
     type: 'multiple-choice',
     level: 'C1',
@@ -297,7 +297,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g15",
     type: 'fill-blank',
     level: 'C1',
@@ -318,7 +318,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g16",
     type: 'multiple-choice',
     level: 'C1',
@@ -338,7 +338,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g17",
     type: 'fill-blank',
     level: 'C1',
@@ -359,7 +359,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-g18",
     type: 'multiple-choice',
     level: 'C1',
@@ -379,7 +379,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Grammar",
   },
-  {
+{
     id: "c1-u4-v1",
     type: 'multiple-choice',
     level: 'C1',
@@ -399,7 +399,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v2",
     type: 'multiple-choice',
     level: 'C1',
@@ -419,7 +419,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v3",
     type: 'multiple-choice',
     level: 'C1',
@@ -439,7 +439,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v4",
     type: 'multiple-choice',
     level: 'C1',
@@ -459,7 +459,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v5",
     type: 'multiple-choice',
     level: 'C1',
@@ -479,7 +479,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v6",
     type: 'multiple-choice',
     level: 'C1',
@@ -499,7 +499,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v7",
     type: 'multiple-choice',
     level: 'C1',
@@ -519,7 +519,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v8",
     type: 'multiple-choice',
     level: 'C1',
@@ -539,7 +539,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v9",
     type: 'multiple-choice',
     level: 'C1',
@@ -559,7 +559,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v10",
     type: 'multiple-choice',
     level: 'C1',
@@ -579,7 +579,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v11",
     type: 'multiple-choice',
     level: 'C1',
@@ -599,7 +599,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v12",
     type: 'multiple-choice',
     level: 'C1',
@@ -619,7 +619,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v13",
     type: 'multiple-choice',
     level: 'C1',
@@ -639,7 +639,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v14",
     type: 'multiple-choice',
     level: 'C1',
@@ -659,7 +659,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v15",
     type: 'multiple-choice',
     level: 'C1',
@@ -679,7 +679,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v16",
     type: 'multiple-choice',
     level: 'C1',
@@ -699,7 +699,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v17",
     type: 'multiple-choice',
     level: 'C1',
@@ -719,7 +719,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-v18",
     type: 'multiple-choice',
     level: 'C1',
@@ -739,7 +739,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Vocabulary",
   },
-  {
+{
     id: "c1-u4-r1",
     type: 'reading-comprehension',
     level: 'C1',
@@ -759,7 +759,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r2",
     type: 'reading-comprehension',
     level: 'C1',
@@ -779,7 +779,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r3",
     type: 'reading-comprehension',
     level: 'C1',
@@ -799,7 +799,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r4",
     type: 'reading-comprehension',
     level: 'C1',
@@ -819,7 +819,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r5",
     type: 'reading-comprehension',
     level: 'C1',
@@ -839,7 +839,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r6",
     type: 'reading-comprehension',
     level: 'C1',
@@ -859,7 +859,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r7",
     type: 'reading-comprehension',
     level: 'C1',
@@ -879,7 +879,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r8",
     type: 'reading-comprehension',
     level: 'C1',
@@ -899,7 +899,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r9",
     type: 'reading-comprehension',
     level: 'C1',
@@ -919,7 +919,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r10",
     type: 'reading-comprehension',
     level: 'C1',
@@ -939,7 +939,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r11",
     type: 'reading-comprehension',
     level: 'C1',
@@ -959,7 +959,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r12",
     type: 'reading-comprehension',
     level: 'C1',
@@ -979,7 +979,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r13",
     type: 'reading-comprehension',
     level: 'C1',
@@ -999,7 +999,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r14",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1019,7 +1019,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r15",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1039,7 +1039,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r16",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1059,7 +1059,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r17",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1079,7 +1079,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-r18",
     type: 'reading-comprehension',
     level: 'C1',
@@ -1099,7 +1099,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Reading",
   },
-  {
+{
     id: "c1-u4-l1",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1119,7 +1119,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l2",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1139,7 +1139,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l3",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1159,7 +1159,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l4",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1179,7 +1179,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l5",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1199,7 +1199,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l6",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1219,7 +1219,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l7",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1239,7 +1239,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l8",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1259,7 +1259,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l9",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1279,7 +1279,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l10",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1299,7 +1299,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l11",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1319,7 +1319,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l12",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1339,7 +1339,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l13",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1359,7 +1359,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l14",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1379,7 +1379,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l15",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1399,7 +1399,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l16",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1419,7 +1419,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l17",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1439,7 +1439,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-l18",
     type: 'listening-comprehension',
     level: 'C1',
@@ -1459,7 +1459,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Listening",
   },
-  {
+{
     id: "c1-u4-w1",
     type: 'writing',
     level: 'C1',
@@ -1479,7 +1479,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w2",
     type: 'writing',
     level: 'C1',
@@ -1499,7 +1499,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w3",
     type: 'writing',
     level: 'C1',
@@ -1519,7 +1519,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w4",
     type: 'writing',
     level: 'C1',
@@ -1539,7 +1539,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w5",
     type: 'writing',
     level: 'C1',
@@ -1559,7 +1559,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w6",
     type: 'writing',
     level: 'C1',
@@ -1579,7 +1579,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w7",
     type: 'writing',
     level: 'C1',
@@ -1599,7 +1599,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w8",
     type: 'writing',
     level: 'C1',
@@ -1619,7 +1619,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w9",
     type: 'writing',
     level: 'C1',
@@ -1639,7 +1639,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w10",
     type: 'writing',
     level: 'C1',
@@ -1659,7 +1659,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w11",
     type: 'writing',
     level: 'C1',
@@ -1679,7 +1679,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w12",
     type: 'writing',
     level: 'C1',
@@ -1699,7 +1699,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w13",
     type: 'writing',
     level: 'C1',
@@ -1719,7 +1719,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w14",
     type: 'writing',
     level: 'C1',
@@ -1739,7 +1739,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w15",
     type: 'writing',
     level: 'C1',
@@ -1759,7 +1759,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w16",
     type: 'writing',
     level: 'C1',
@@ -1779,7 +1779,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w17",
     type: 'writing',
     level: 'C1',
@@ -1799,7 +1799,7 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
+{
     id: "c1-u4-w18",
     type: 'writing',
     level: 'C1',
@@ -1819,364 +1819,4 @@ export const UNIT_4_EXERCISES: Exercise[] = [
     },
     topicName: "Writing",
   },
-  {
-    id: "c1-u4-s1",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Concede merit before countering in a debate on logging old-growth forest:",
-          options: ["[[While I accept that selective harvesting can fund local services, I would argue that fragmenting the last intact cores risks irreversible biodiversity loss.|While I accept… I would argue…]]", "[[You hate jobs.|ad hominem]]", "[[Trees are trees.|vago]]"],
-          correctAnswer: 0,
-          explanation: "Concession.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s2",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Soften an absolute claim that \"nature will heal itself if we just leave it alone\":",
-          options: ["[[It would be naive to assume passive recovery everywhere; legacy contaminants, invasive species and climate velocity can lock systems in degraded states.|hedging en capas]]", "[[Nature never heals.|absoluto opuesto]]", "[[Maybe.|demasiado flojo]]"],
-          correctAnswer: 0,
-          explanation: "Nuanced recovery.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s3",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Structure a Part 3-style answer on wolf reintroduction trade-offs:",
-          options: ["[[I'd like to separate ecological benefits from social acceptability: predation risk, livestock compensation schemes and trust in agencies all shape outcomes.|signposting]]", "[[Wolves are cool.|superficial]]", "[[No idea.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Oral architecture.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s4",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Politely disagree that \"all eco-tourism is greenwashing\":",
-          options: ["[[I'm not entirely convinced the category is homogeneous; certified low-volume operators can channel revenue into enforcement, though greenwashing certainly exists.|matizado]]", "[[You're naive.|descortés]]", "[[Totally agree.|sin posición]]"],
-          correctAnswer: 0,
-          explanation: "Qualified disagreement.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s5",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Buy time before answering a technical question on carrying capacity:",
-          options: ["[[That hinges on how we define K — seasonal resources or year-round biomass — so let me clarify the metric before answering.|ganar tiempo]]", "[[Google it.|descortés]]", "[[Pass.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Clarify metric.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s6",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Emphasise the difference between weather and climate orally:",
-          options: ["[[The key distinction is short-term variability versus long-term statistics — a cold snap doesn't refute a warming trend.|distinción clave]]", "[[They are the same.|incorrecto]]", "[[Climate is tomorrow's weather.|confuso]]"],
-          correctAnswer: 0,
-          explanation: "Concept clarity.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s7",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Summarise your interlocutor's view before responding on agricultural subsidies:",
-          options: ["[[If I follow you, you're saying subsidies always harm biodiversity. I'd nuance that: decoupled payments can sometimes enable set-asides.|reformular]]", "[[You spoke.|vago]]", "[[Wrong.|sin escucha activa]]"],
-          correctAnswer: 0,
-          explanation: "Active listening.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s8",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Close with a balanced takeaway on dams versus free-flowing rivers:",
-          options: ["[[So, pulling this together, storage and flood control carry real benefits, yet sediment starvation and fish migration losses are not marginal externalities.|síntesis]]", "[[Dams bad, rivers good.|binario]]", "[[Whatever.|informal]]"],
-          correctAnswer: 0,
-          explanation: "Balanced close.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s9",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Ask for clarification about \"baseline\" in a carbon-offset discussion:",
-          options: ["[[Could you clarify whether you mean project-specific additionality baselines or national inventory reference levels?|precisión]]", "[[Baseline what?|brusco]]", "[[I know carbon.|arrogante]]"],
-          correctAnswer: 0,
-          explanation: "Targeted question.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s10",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Express partial agreement on hunting as a conservation tool:",
-          options: ["[[I partly agree: well-regulated harvest can fund reserves, yet trophy prioritisation can skew age structure and social licence if transparency fails.|acuerdo parcial]]", "[[Hunting is murder.|cerrado]]", "[[Hunting saves everything.|absoluto]]"],
-          correctAnswer: 0,
-          explanation: "Partial agreement.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s11",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Redirect a hostile question accusing conservationists of hating people:",
-          options: ["[[I hear the frustration; perhaps we can reframe this as how to align livelihood security with intact ecosystems rather than pitting humans against nature.|reencuadre]]", "[[You hate people.|escalada]]", "[[Not my problem.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Diplomatic redirect.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s12",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Add weight with a formal marker in a panel on marine plastics:",
-          options: ["[[Moreover, fragmentation into microplastics prolongs residence time and complicates removal technologies.|Moreover]]", "[[Also plastic bad.|informal]]", "[[And.|débil]]"],
-          correctAnswer: 0,
-          explanation: "Additive marker.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s13",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Acknowledge limits of your argument about a local reforestation project:",
-          options: ["[[I should stress my optimism rests on five-year survival rates we have not yet monitored beyond the pilot plots.|límites]]", "[[Planting always works.|sin límites]]", "[[Trees never die.|falso]]"],
-          correctAnswer: 0,
-          explanation: "Modesty.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s14",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Invite a fisheries scientist to extend your point on bycatch:",
-          options: ["[[I'd be interested to hear whether your observer data support the same spike in incidental catch during El Niño years.|invitar]]", "[[You talk now.|orden]]", "[[You know nothing.|descortés]]"],
-          correctAnswer: 0,
-          explanation: "Facilitation.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s15",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Give a concrete example of ecosystem service monetisation risks:",
-          options: ["[[A concrete risk is pricing pollination such narrowly that wild habitat buffers are stripped once contracts shift to rented hives alone.|ejemplo]]", "[[Money fixes nature.|vago]]", "[[No examples.|evasivo]]"],
-          correctAnswer: 0,
-          explanation: "Illustration.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s16",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Build on a prior point about indigenous-led conservation:",
-          options: ["[[Building on that, co-management statutes only matter if revenue-sharing rules are enforceable on the ground, not just in preambles.|Building on that]]", "[[Different topic: pizza.|tangente]]", "[[Forget Indigenous rights.|ruptura]]"],
-          correctAnswer: 0,
-          explanation: "Linkage.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s17",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "Show empathy after someone describes crop loss to elephants:",
-          options: ["[[I can see how devastating that must feel when insurance gaps leave families absorbing the full shock.|empatía]]", "[[Elephants should die.|dañino]]", "[[Nature is cruel.|frío]]"],
-          correctAnswer: 0,
-          explanation: "Empathy.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  },
-  {
-    id: "c1-u4-s18",
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: "speaking-nature",
-    difficulty: 'hard',
-    content: {
-      title: "[[Speaking|Expresión oral]]: [[Discussion — nature|Discusión — naturaleza]]",
-      instructions: "[[Choose the most appropriate C1-level spoken English.|Elige el inglés oral más adecuado para nivel C1.]]",
-      questions: [
-        {
-          question: "End with a forward-looking question on transboundary water treaties:",
-          options: ["[[Where should arbitration sit when upstream diversions during droughts contradict downstream historic use rights?|pregunta prospectiva]]", "[[The end.|cierre seco]]", "[[Rivers solve politics.|ingenuo]]"],
-          correctAnswer: 0,
-          explanation: "Productive close.",
-        },
-      ],
-    },
-    topicName: "Speaking",
-  }
 ];

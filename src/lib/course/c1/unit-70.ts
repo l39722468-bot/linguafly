@@ -8,7 +8,7 @@ import { Exercise } from '@/lib/exercise-generator';
 export const UNIT_TITLE = 'C1 Language Lab — Discourse Cohesion';
 
 export const UNIT_70_EXERCISES: Exercise[] = [
-  {
+{
     id: 'c1-u70-g1',
     type: 'multiple-choice',
     level: 'C1',
@@ -33,7 +33,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u70-g2',
     type: 'fill-blank',
     level: 'C1',
@@ -55,7 +55,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u70-g3',
     type: 'multiple-choice',
     level: 'C1',
@@ -80,7 +80,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Grammar',
   },
-  {
+{
     id: 'c1-u70-v1',
     type: 'multiple-choice',
     level: 'C1',
@@ -105,7 +105,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u70-v2',
     type: 'fill-blank',
     level: 'C1',
@@ -131,7 +131,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u70-v3',
     type: 'multiple-choice',
     level: 'C1',
@@ -156,7 +156,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Vocabulary',
   },
-  {
+{
     id: 'c1-u70-r1',
     type: 'reading-comprehension',
     level: 'C1',
@@ -182,7 +182,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u70-r2',
     type: 'multiple-choice',
     level: 'C1',
@@ -208,7 +208,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u70-r3',
     type: 'reading-comprehension',
     level: 'C1',
@@ -233,7 +233,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Reading',
   },
-  {
+{
     id: 'c1-u70-l1',
     type: 'listening-comprehension',
     level: 'C1',
@@ -259,7 +259,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u70-l2',
     type: 'listening-comprehension',
     level: 'C1',
@@ -284,7 +284,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u70-l3',
     type: 'listening-comprehension',
     level: 'C1',
@@ -309,7 +309,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Listening',
   },
-  {
+{
     id: 'c1-u70-w1',
     type: 'writing',
     level: 'C1',
@@ -334,7 +334,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u70-w2',
     type: 'writing',
     level: 'C1',
@@ -358,7 +358,7 @@ export const UNIT_70_EXERCISES: Exercise[] = [
     },
     topicName: 'Writing',
   },
-  {
+{
     id: 'c1-u70-w3',
     type: 'writing',
     level: 'C1',
@@ -381,78 +381,5 @@ export const UNIT_70_EXERCISES: Exercise[] = [
       ],
     },
     topicName: 'Writing',
-  },
-  {
-    id: 'c1-u70-s1',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Signposting|Señalización]]',
-      instructions: 'Choose the best oral signpost.',
-      questions: [
-        {
-          question: 'You are presenting two reasons. Which introduction is clearest?',
-          options: [
-            '[[There are two main points I\'d like to make: first, … Second, …|Dos puntos explícitos]]',
-            '[[Stuff and things.|vago]]',
-            '[[I talk random now.|incorrecto]]',
-          ],
-          correctAnswer: 0,
-          explanation:
-            'Explicit numbering and *first/second* aid cohesion in speech.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u70-s2',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
-  },
-  {
-    id: 'c1-u70-s3',
-    type: 'multiple-choice',
-    level: 'C1',
-    topic: 'speaking-language-lab',
-    difficulty: 'hard',
-    content: {
-      title: '[[Speaking|Expresión oral]]: [[Discussion|Discusión]]',
-      instructions: 'Choose the most natural C1 spoken response.',
-      questions: [
-        {
-          question: 'In a discussion, how might you add balance after stating one view?',
-          options: [
-            '[[That said, an alternative reading of the evidence would be that alternative explanations cannot be ruled out without further data.|*That said* + contrapeso formal]]',
-            '[[But I am right.|demasiado directo]]',
-            '[[Whatever.|vago]]',
-          ],
-          correctAnswer: 0,
-          explanation: '*That said* introduces a counterbalance politely at C1.',
-        },
-      ],
-    },
-    topicName: 'Speaking',
   },
 ];

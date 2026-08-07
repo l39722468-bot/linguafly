@@ -1,5 +1,5 @@
 /**
- * Unit 38 lessons index (A1)
+ * Índice de las 5 lecciones de la Unidad 38 (recepcionista-a1).
  */
 
 import { Exercise } from '@/lib/exercise-generator';
@@ -7,7 +7,6 @@ import { UNIT_38_LESSON_1_GRAMMAR } from './unit-38-lesson-1-grammar';
 import { UNIT_38_LESSON_2_VOCABULARY } from './unit-38-lesson-2-vocabulary';
 import { UNIT_38_LESSON_3_READING } from './unit-38-lesson-3-reading';
 import { UNIT_38_LESSON_4_LISTENING } from './unit-38-lesson-4-listening';
-import { UNIT_38_LESSON_5_SPEAKING } from './unit-38-lesson-5-speaking';
 import { UNIT_38_LESSON_6_WRITING } from './unit-38-lesson-6-writing';
 
 export const UNIT_38_LESSONS = {
@@ -15,7 +14,6 @@ export const UNIT_38_LESSONS = {
   vocabulary: UNIT_38_LESSON_2_VOCABULARY,
   reading: UNIT_38_LESSON_3_READING,
   listening: UNIT_38_LESSON_4_LISTENING,
-  speaking: UNIT_38_LESSON_5_SPEAKING,
   writing: UNIT_38_LESSON_6_WRITING,
 } as const;
 
@@ -24,7 +22,6 @@ export const UNIT_38_ALL_LESSONS: Exercise[][] = [
   UNIT_38_LESSON_2_VOCABULARY,
   UNIT_38_LESSON_3_READING,
   UNIT_38_LESSON_4_LISTENING,
-  UNIT_38_LESSON_5_SPEAKING,
   UNIT_38_LESSON_6_WRITING,
 ];
 

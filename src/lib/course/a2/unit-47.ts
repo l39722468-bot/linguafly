@@ -1,6 +1,6 @@
 /**
  * Unidad 47 — Superlatives: The best in the world (A2)
- * Carga las 6 lecciones: Gramática, Vocabulario, Lectura, Escucha, Oral, Escrita.
+ * Carga las 5 lecciones: Gramática, Vocabulario, Lectura, Escucha, Escrita.
  */
 
 import { UNIT_47_ALL_EXERCISES } from './unit-47-lessons-index';

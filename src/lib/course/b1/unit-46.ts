@@ -8,5 +8,5 @@ import { UNIT_46_ALL_EXERCISES } from './unit-46-lessons-index';
 
 export const UNIT_TITLE = 'Had better, it\'s time (Advice)';
 
-/** Todos los ejercicios de la Unidad 46 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 46 (5 lecciones). */
 export const UNIT_46_EXERCISES = UNIT_46_ALL_EXERCISES;

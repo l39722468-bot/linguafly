@@ -8,5 +8,5 @@ import { UNIT_3_ALL_EXERCISES } from './unit-3-lessons-index';
 
 export const UNIT_TITLE = 'Past Perfect';
 
-/** Todos los ejercicios de la Unidad 3 (6 lecciones). */
+/** Todos los ejercicios de la Unidad 3 (5 lecciones). */
 export const UNIT_3_EXERCISES = UNIT_3_ALL_EXERCISES;
