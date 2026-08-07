@@ -402,6 +402,12 @@ A2_LINKS: dict[str, list[tuple[str, str]]] = {
         ("gramatica/errores-tiempos-pasado-espanoles", "Errores de tiempos de pasado"),
         ("curso-a2/unidad-16-past-continuous", "A2 U16 — Past Continuous"),
     ],
+    "unidad-18-for-since": [
+        ("gramatica/present-perfect-since-for", "Present Perfect: since / for"),
+        ("gramatica/present-perfect-usos-principales", "Present Perfect: usos principales"),
+        ("gramatica/present-perfect-vs-past-simple", "Present Perfect vs Past Simple"),
+        ("gramatica/present-perfect-just-already-yet", "Present Perfect: just / already / yet"),
+    ],
 }
 
 # topic article path -> list of (course unit path, title) reverse links
@@ -429,6 +435,12 @@ REVERSE: dict[str, list[tuple[str, str]]] = {
         ("curso-a2/unidad-12-present-perfect-ever-never", "A2 U12 — Ever & Never"),
         ("curso-a2/unidad-13-present-perfect-already-yet", "A2 U13 — Already & Yet"),
         ("curso-a2/unidad-14-present-perfect-just", "A2 U14 — Just"),
+        ("curso-a2/unidad-15-present-perfect-vs-past-simple", "A2 U15 — Present Perfect vs Past Simple"),
+        ("curso-a2/unidad-18-for-since", "A2 U18 — For & Since"),
+    ],
+    "gramatica/present-perfect-since-for": [
+        ("curso-a2/unidad-18-for-since", "A2 U18 — For & Since"),
+        ("curso-a2/unidad-11-present-perfect-introduccion", "A2 U11 — Present Perfect: Introducción"),
         ("curso-a2/unidad-15-present-perfect-vs-past-simple", "A2 U15 — Present Perfect vs Past Simple"),
     ],
     "gramatica/present-perfect-ever-never": [

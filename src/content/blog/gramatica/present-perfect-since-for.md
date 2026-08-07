@@ -145,6 +145,14 @@ La pregunta *"How long have you…?"* es la forma natural de preguntar por la du
 | Ejemplo | since 2018 / since Monday | for five years / for ages |
 | En español | desde (fecha) | desde hace (tiempo) |
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A2 U18 — For & Since](/blog/curso-a2/unidad-18-for-since)
+- [A2 U11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
+- [A2 U15 — Present Perfect vs Past Simple](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

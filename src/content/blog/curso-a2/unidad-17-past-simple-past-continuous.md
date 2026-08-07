@@ -446,6 +446,10 @@ La **Unidad 18** introduce **for & since** con Present Perfect: *I have lived he
 
 En la **Unidad 18** estudiarás **For & Since**: *I have lived here for two years* / *since 2020*.
 
+Guía blog:
+
+- [Unidad 18 — For & Since](/blog/curso-a2/unidad-18-for-since)
+
 Curso:
 
 - [Unidad 18 — For & Since](/curso-a2/unit-18)
