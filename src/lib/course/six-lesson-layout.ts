@@ -82,13 +82,7 @@ function detectLessonSlot(ex: Exercise): number | null {
     if (m) return SLOT_BY_C1_LETTER[m[1].toLowerCase()] ?? null;
   }
 
-  const tn = (ex.topicName || '').trim().toLowerCase();
-  if (tn === 'grammar') return 0;
-  if (tn === 'vocabulary' || tn === 'grammar_context' || tn === 'grammar context') return 1;
-  if (tn === 'reading') return 2;
-  if (tn === 'listening') return 3;
-  if (tn === 'writing') return 4;
-
+  // Preferir ids -lN- (A1–C2) para no mezclar grammar_context (-l2-) con Grammar.
   const mL = id.match(/-l([1-6])-/i);
   if (mL) {
     const n = parseInt(mL[1], 10);
@@ -96,6 +90,13 @@ function detectLessonSlot(ex: Exercise): number | null {
     // A1–B2: l5 era speaking (filtrado), l6 writing. C2: l5 writing, l6 speaking (filtrado).
     if (n === 5 || n === 6) return 4;
   }
+
+  const tn = (ex.topicName || '').trim().toLowerCase();
+  if (tn === 'grammar') return 0;
+  if (tn === 'vocabulary' || tn === 'grammar_context' || tn === 'grammar context') return 1;
+  if (tn === 'reading') return 2;
+  if (tn === 'listening') return 3;
+  if (tn === 'writing') return 4;
 
   const ty = (ex.type || '').toLowerCase();
   if (ty.includes('reading')) return 2;
