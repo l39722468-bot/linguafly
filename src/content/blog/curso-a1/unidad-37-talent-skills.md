@@ -20,9 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-37-talent-skills'
 image: /blog/curso-a1/unit-37/a1-unit37-skill-levels.png
 alt: Escala very well quite well not at all para habilidades en inglés A1
 related_routes:
-  - unidad-36-instrumentos-musicales
-  - unidad-31-can-habilidad
-  - unidad-32-deportes-hobbies-play-go-do
+  - can-could-ingles
+  - verbos-modales-ingles-guia
   - ingles-a1
 faqs:
   - question: ¿Qué diferencia hay entre very well y quite well?
@@ -574,10 +573,9 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre tus skills u
 
 Guías relacionadas:
 
-- [Unidad 36 — Instrumentos musicales](/blog/curso-a1/unidad-36-instrumentos-musicales)
-- [Unidad 31 — Can for Ability](/blog/curso-a1/unidad-31-can-habilidad)
-- [Unidad 32 — Deportes y hobbies](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Can / Could en inglés](/blog/gramatica/can-could-ingles)
+- [Verbos modales: guía](/blog/gramatica/verbos-modales-ingles-guia)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

@@ -209,6 +209,13 @@ El turismo cultural te conecta con la historia y el arte de formas que ninguna o
 - [Inglés para compras en el extranjero](/blog/viajes/ingles-para-compras)
 - [Guía maestra de inglés para viajeros](/blog/viajes/curso-de-ingles-para-viajar)
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U48 — Sightseeing y superlativos](/blog/curso-a1/unidad-48-sightseeing-superlativos)
+- [A2 U6 — Superlativos](/blog/curso-a2/unidad-6-superlativos-est-the-most)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

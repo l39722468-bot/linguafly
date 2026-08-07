@@ -20,9 +20,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-5-comparativos-er-mor
 image: /blog/curso-a2/unit-5/a2-unit5-comparatives.png
 alt: Esquema de comparativos -er y more than para inglés A2
 related_routes:
-  - unidad-4-wh-questions-past-simple
-  - unidad-3-past-simple-verbos-irregulares
-  - ingles-a2
+  - gramatica-inglesa-guia
+  - gramatica-ingles-b1-guia
+  - unidad-48-sightseeing-superlativos
 faqs:
   - question: ¿Cuándo uso -er y cuándo more?
     answer: >-
@@ -448,10 +448,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 4 — Wh-questions en Past Simple](/blog/curso-a2/unidad-4-wh-questions-past-simple)
-- [Unidad 3 — Past Simple: irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)
-- [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Índice del curso A2](/curso-a2)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Gramática inglesa B1](/blog/gramatica/gramatica-ingles-b1-guia)
+- [A1 U48 — Sightseeing y superlativos](/blog/curso-a1/unidad-48-sightseeing-superlativos)
 
 ---
 

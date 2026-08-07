@@ -22,9 +22,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-8-numeros-edad-precio
 image: /blog/curso-a1/unit-8/a1-unit8-numbers.png
 alt: Tabla de números del 20 al 100 en inglés nivel A1
 related_routes:
-  - unidad-9-profesiones-ocupaciones
-  - unidad-7-colores-descripciones-fisicas
-  - unidad-6-familia-posesivos-genitivo
+  - ingles-para-compras
+  - ingles-mercados-regateo-viaje
   - ingles-a1
 faqs:
   - question: ¿Cómo se dicen los números del 20 al 100 en inglés?
@@ -663,11 +662,9 @@ En la **Unidad 9** aprendes **profesiones y ocupaciones** (*Jobs & Occupations*)
 
 Guías relacionadas:
 
-- [Unidad 9 — Profesiones y ocupaciones](/blog/curso-a1/unidad-9-profesiones-ocupaciones)
-- [Unidad 7 — Colores y descripciones físicas](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)
-- [Unidad 6 — Familia, posesivos y genitivo sajón](/blog/curso-a1/unidad-6-familia-posesivos-genitivo)
-- [Unidad 4 — Artículos y demostrativos](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Inglés en mercados y regateo](/blog/viajes/ingles-mercados-regateo-viaje)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

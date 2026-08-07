@@ -190,6 +190,15 @@ Ahora que dominas las reglas, el siguiente reto es distinguir cuándo usar past 
 
 Para practicar la pronunciación del **-ed** final (que cambia entre /t/, /d/ e /ɪd/), te recomendamos hacer los ejercicios en voz alta — es el único modo de interiorizar el patrón.
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A2 U2 — Past Simple regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
+- [A2 U3 — Past Simple irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)
+- [A2 U4 — Wh-questions en Past Simple](/blog/curso-a2/unidad-4-wh-questions-past-simple)
+- [A1 U47 — Vacaciones: was/were](/blog/curso-a1/unidad-47-vacaciones-was-were)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

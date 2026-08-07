@@ -21,10 +21,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-25-barrio-the-a-an-so
 image: /blog/curso-a1/unit-25/a1-unit25-neighborhood.png
 alt: Esquema the a an some any para describir el barrio en inglés A1
 related_routes:
-  - unidad-24-preposiciones-lugar-next-to-between
-  - unidad-23-there-is-there-are
-  - unidad-11-lugares-ciudad
-  - unidad-4-articulos-plurales-demostrativos
+  - gramatica-inglesa-guia
+  - ingles-para-viajar
   - ingles-a1
 faqs:
   - question: ¿Cuándo uso a/an y cuándo the en el barrio?
@@ -592,11 +590,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 24 — Preposiciones de lugar](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between)
-- [Unidad 23 — There is / There are](/blog/curso-a1/unidad-23-there-is-there-are)
-- [Unidad 11 — Lugares en la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad)
-- [Unidad 4 — Artículos y demostrativos](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés para viajar](/blog/viajes/ingles-para-viajar)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

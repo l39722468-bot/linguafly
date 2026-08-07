@@ -20,10 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-27-mascotas-animales'
 image: /blog/curso-a1/unit-27/a1-unit27-pets-farm-wild.png
 alt: Esquema pets farm wild animals en inglés nivel A1
 related_routes:
-  - unidad-26-direcciones-imperativos
-  - unidad-7-colores-descripciones-fisicas
-  - unidad-18-gustos-like-ing-because
   - ingles-a1
+  - gramatica-inglesa-guia
 faqs:
   - question: ¿Qué diferencia hay entre pet, farm y wild animals?
     answer: >-
@@ -588,10 +586,8 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 26 — Giving Directions](/blog/curso-a1/unidad-26-direcciones-imperativos)
-- [Unidad 7 — Colores y descripciones](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)
-- [Unidad 18 — Gustos like + -ing](/blog/curso-a1/unidad-18-gustos-like-ing-because)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
 
 ---
 

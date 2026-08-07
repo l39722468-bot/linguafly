@@ -20,9 +20,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-6-superlativos-est-th
 image: /blog/curso-a2/unit-6/a2-unit6-superlatives.png
 alt: Esquema de superlativos the -est y the most para inglés A2
 related_routes:
-  - unidad-5-comparativos-er-more-than
-  - unidad-4-wh-questions-past-simple
-  - ingles-a2
+  - gramatica-inglesa-guia
+  - ingles-museos-turismo-cultural
+  - unidad-48-sightseeing-superlativos
 faqs:
   - question: ¿Cuál es la diferencia entre comparativo y superlativo?
     answer: >-
@@ -442,10 +442,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 5 — Comparativos](/blog/curso-a2/unidad-5-comparativos-er-more-than)
-- [Unidad 4 — Wh-questions en Past Simple](/blog/curso-a2/unidad-4-wh-questions-past-simple)
-- [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Índice del curso A2](/curso-a2)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés en museos y turismo cultural](/blog/viajes/ingles-museos-turismo-cultural)
+- [A1 U48 — Sightseeing y superlativos](/blog/curso-a1/unidad-48-sightseeing-superlativos)
 
 ---
 

@@ -176,6 +176,13 @@ El participio de **get** es uno de los pocos casos donde hay diferencia entre el
 
 En los exámenes de Cambridge, *got* es la forma estándar. En inglés americano, ambas se usan dependiendo del significado.
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A2 U3 — Past Simple irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)
+- [A2 U2 — Past Simple regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

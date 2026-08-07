@@ -140,6 +140,13 @@ Algunas preguntas y frases con ever/never que son muy frecuentes en conversació
 - *She's never been the kind of person who gives up easily.*
 - *We've never regretted moving here.*
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A2 U12 — Ever & Never](/blog/curso-a2/unidad-12-present-perfect-ever-never)
+- [A2 U11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

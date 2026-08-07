@@ -21,10 +21,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-21-habitaciones-casa'
 image: /blog/curso-a1/unit-21/a1-unit21-rooms.png
 alt: Vocabulario de habitaciones de la casa en inglés A1
 related_routes:
-  - unidad-20-repaso-modulo-2
-  - unidad-11-lugares-ciudad
-  - unidad-4-articulos-plurales-demostrativos
   - ingles-a1
+  - gramatica-inglesa-guia
 faqs:
   - question: ¿Cuáles son las habitaciones básicas en inglés A1?
     answer: >-
@@ -542,10 +540,8 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 20 — Repaso Módulo 2](/blog/curso-a1/unidad-20-repaso-modulo-2)
-- [Unidad 11 — Lugares en la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad)
-- [Unidad 4 — Artículos y plurales](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
 
 ---
 

@@ -168,6 +168,13 @@ Algunas palabras admiten tanto la forma regular (learned) como la irregular (lea
 
 Muy pocas, y casi todas son arcaicas o dialectales. La regla es sorprendentemente sistemática. La única zona de variación significativa es el habla muy rápida, donde las consonantes finales pueden asimilarse al sonido siguiente (por ejemplo, "stopped by" puede sonar como "stopp'd by" con la /d/ asimilándose a la /b/ de "by"). Pero eso es connected speech encima de estas reglas, no una excepción a ellas.
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A2 U2 — Past Simple regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
+- [A1 U15 — Present Simple: doesn't / does](/blog/curso-a1/unidad-15-present-simple-doesnt-does)
+
 ## Fuentes
 
 - Cambridge Dictionary (pronunciation): https://dictionary.cambridge.org/

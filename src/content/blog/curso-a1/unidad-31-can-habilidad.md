@@ -21,9 +21,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-31-can-habilidad'
 image: /blog/curso-a1/unit-31/a1-unit31-can-cant.png
 alt: Esquema can can't para habilidad en inglés nivel A1
 related_routes:
-  - unidad-30-repaso-modulo-3
-  - unidad-16-cafeteria-can-i-have-id-like
-  - unidad-5-present-simple-rutinas
+  - can-could-ingles
+  - verbos-modales-ingles-guia
   - ingles-a1
 faqs:
   - question: ¿Cómo se forma can para habilidad en A1?
@@ -597,10 +596,9 @@ Continúa con la [**Unidad 32 — Deportes y hobbies: play, go, do**](/blog/curs
 
 Guías relacionadas:
 
-- [Unidad 30 — Repaso Módulo 3](/blog/curso-a1/unidad-30-repaso-modulo-3)
-- [Unidad 16 — Pedir en la cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
-- [Unidad 5 — Present Simple rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Can / Could en inglés](/blog/gramatica/can-could-ingles)
+- [Verbos modales: guía](/blog/gramatica/verbos-modales-ingles-guia)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

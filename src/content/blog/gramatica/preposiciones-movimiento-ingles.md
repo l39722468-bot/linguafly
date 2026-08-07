@@ -118,6 +118,14 @@ En inglés coloquial, a veces verás *Go in the house*. Sin embargo, en un exame
 
 ¿Quieres practicar estas preposiciones con situaciones reales? En **Linguafly** disponemos de simuladores interactivos que te retan a dar direcciones y describir trayectos usando estas reglas. [**Regístrate gratis y mejora tu fluidez.**](/aprender-ingles)
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A2 U9 — Preposiciones de lugar y movimiento](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento)
+- [A1 U24 — Preposiciones de lugar](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between)
+- [A1 U26 — Direcciones e imperativos](/blog/curso-a1/unidad-26-direcciones-imperativos)
+
 ## Fuentes
 
 - Cambridge Dictionary (prepositions): https://dictionary.cambridge.org/grammar/british-grammar/prepositions

@@ -20,9 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-55-tienda-ropa-too-en
 image: /blog/curso-a1/unit-55/a1-unit55-too-enough.png
 alt: Esquema too vs enough en la tienda de ropa A1
 related_routes:
-  - unidad-54-how-much-how-many
-  - unidad-29-ropa-present-continuous
-  - unidad-52-contables-incontables
+  - vocabulario-ropa-ingles
+  - ingles-para-compras
   - ingles-a1
 faqs:
   - question: ¿Cuál es la diferencia entre too y enough en A1?
@@ -459,10 +458,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 54 — How Much & How Many](/blog/curso-a1/unidad-54-how-much-how-many)
-- [Unidad 29 — Clothes](/blog/curso-a1/unidad-29-ropa-present-continuous)
-- [Unidad 16 — Cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Vocabulario de ropa en inglés](/blog/metodos/vocabulario-ropa-ingles)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

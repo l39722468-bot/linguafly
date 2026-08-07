@@ -21,10 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-40-repaso-modulo-4'
 image: /blog/curso-a1/unit-40/a1-unit40-module-map.png
 alt: Mapa de repaso del Módulo 4 del curso A1
 related_routes:
-  - unidad-39-outdoor-activities
-  - unidad-31-can-habilidad
-  - unidad-32-deportes-hobbies-play-go-do
-  - unidad-38-pedir-permiso
+  - can-could-ingles
+  - ingles-para-deportes
+  - may-might-ingles
   - ingles-a1
 faqs:
   - question: ¿Qué repasa la Unidad 40 del curso A1?
@@ -623,6 +622,15 @@ Guías relacionadas del módulo:
 - [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
 
 ---
+
+
+Guías relacionadas:
+
+- [Can / Could en inglés](/blog/gramatica/can-could-ingles)
+- [Inglés para deportes](/blog/metodos/ingles-para-deportes)
+- [May / Might en inglés](/blog/gramatica/may-might-ingles)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+
 
 ## Fuentes
 

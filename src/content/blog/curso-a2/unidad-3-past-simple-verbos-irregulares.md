@@ -21,9 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-3-past-simple-verbos-
 image: /blog/curso-a2/unit-3/a2-unit3-irregular-verbs.png
 alt: Tabla de verbos irregulares del Past Simple para inglés A2
 related_routes:
-  - unidad-2-past-simple-verbos-regulares
-  - unidad-1-saludos-introducciones-repaso
-  - ingles-a2
+  - past-simple-verbos-irregulares
+  - past-simple-usos-reglas
+  - errores-tiempos-pasado-espanoles
 faqs:
   - question: ¿Cuáles son los irregulares clave de la Unidad 3 A2?
     answer: >-
@@ -419,10 +419,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 2 — Past Simple: verbos regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
-- [Unidad 1 — Saludos e introducciones](/blog/curso-a2/unidad-1-saludos-introducciones-repaso)
-- [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Índice del curso A2](/curso-a2)
+- [Past Simple: verbos irregulares](/blog/gramatica/past-simple-verbos-irregulares)
+- [Past Simple: usos y reglas](/blog/gramatica/past-simple-usos-reglas)
+- [Errores de tiempos de pasado](/blog/gramatica/errores-tiempos-pasado-espanoles)
 
 ---
 

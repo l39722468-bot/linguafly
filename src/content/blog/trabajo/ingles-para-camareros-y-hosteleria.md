@@ -208,6 +208,13 @@ Para tu CV de hostelería en inglés:
 
 Para el contexto completo del inglés en el mundo laboral, consulta [Inglés para el Trabajo](/blog/trabajo/ingles-para-trabajo).
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U56 — Restaurante: pedidos](/blog/curso-a1/unidad-56-restaurante-pedidos)
+- [A1 U16 — Pedir en la cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

@@ -20,10 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-36-instrumentos-music
 image: /blog/curso-a1/unit-36/a1-unit36-play-the.png
 alt: Esquema play the + instrumento musical en inglés A1
 related_routes:
-  - unidad-35-free-time-activities
-  - unidad-31-can-habilidad
-  - unidad-32-deportes-hobbies-play-go-do
   - ingles-a1
+  - can-could-ingles
 faqs:
   - question: ¿Se dice play piano o play the piano?
     answer: >-
@@ -594,10 +592,8 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre instrumentos
 
 Guías relacionadas:
 
-- [Unidad 35 — Free Time Activities](/blog/curso-a1/unidad-35-free-time-activities)
-- [Unidad 31 — Can for Ability](/blog/curso-a1/unidad-31-can-habilidad)
-- [Unidad 32 — Deportes y hobbies](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+- [Can / Could en inglés](/blog/gramatica/can-could-ingles)
 
 ---
 

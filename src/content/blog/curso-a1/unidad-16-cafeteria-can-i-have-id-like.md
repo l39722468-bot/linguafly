@@ -20,10 +20,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-16-cafeteria-can-i-ha
 image: /blog/curso-a1/unit-16/a1-unit16-can-i-have.png
 alt: Esquema de Can I have en inglés nivel A1 cafetería
 related_routes:
-  - unidad-15-present-simple-doesnt-does
-  - unidad-14-present-simple-dont-do-you
-  - unidad-8-numeros-edad-precios
-  - ingles-a1
+  - can-could-ingles
+  - ingles-restaurantes-bares-viaje
+  - ingles-para-camareros-y-hosteleria
 faqs:
   - question: ¿Cómo pido un café en inglés de forma educada?
     answer: >-
@@ -532,10 +531,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 15 — doesn't y Does he/she…?](/blog/curso-a1/unidad-15-present-simple-doesnt-does)
-- [Unidad 14 — don't y Do you…?](/blog/curso-a1/unidad-14-present-simple-dont-do-you)
-- [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Can / Could en inglés](/blog/gramatica/can-could-ingles)
+- [Inglés en restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
+- [Inglés para camareros y hostelería](/blog/trabajo/ingles-para-camareros-y-hosteleria)
 
 ---
 

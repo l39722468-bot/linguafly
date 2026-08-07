@@ -238,6 +238,14 @@ Comer y beber en el extranjero es mucho más que alimentarse: es una puerta a la
 - [Cultura y etiqueta en países anglosajones](/blog/temas/cultura-anglosajona)
 - [Inglés para compras en el extranjero](/blog/viajes/ingles-para-compras)
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U56 — Restaurante: pedidos](/blog/curso-a1/unidad-56-restaurante-pedidos)
+- [A1 U16 — Pedir en la cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
+- [A1 U17 — Comidas del día](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

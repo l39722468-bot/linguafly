@@ -20,9 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-57-cocina-recetas'
 image: /blog/curso-a1/unit-57/a1-unit57-first-then-finally.png
 alt: Esquema First Then Finally en recetas de cocina A1
 related_routes:
-  - unidad-56-restaurante-pedidos
-  - unidad-17-comidas-breakfast-lunch-dinner
-  - unidad-13-rutina-diaria
+  - ingles-en-la-cocina
+  - ingles-restaurantes-bares-viaje
   - ingles-a1
 faqs:
   - question: ¿Qué se aprende en la Unidad 57 del curso A1?
@@ -419,10 +418,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 56 — At the Restaurant](/blog/curso-a1/unidad-56-restaurante-pedidos)
-- [Unidad 17 — Breakfast, Lunch & Dinner](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner)
-- [Unidad 13 — Rutina diaria](/blog/curso-a1/unidad-13-rutina-diaria)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés en la cocina](/blog/viajes/ingles-en-la-cocina)
+- [Inglés en restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

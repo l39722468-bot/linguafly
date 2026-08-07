@@ -20,9 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-59-dinero-pay-for-spe
 image: /blog/curso-a1/unit-59/a1-unit59-pay-spend.png
 alt: Esquema pay for y spend on para dinero en inglés A1
 related_routes:
-  - unidad-58-salud-should
-  - unidad-54-how-much-how-many
-  - unidad-8-numeros-edad-precios
+  - ingles-para-compras
+  - ingles-mercados-regateo-viaje
   - ingles-a1
 faqs:
   - question: ¿Cuál es la diferencia entre pay for y spend on?
@@ -434,10 +433,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 58 — Health & Illness](/blog/curso-a1/unidad-58-salud-should)
-- [Unidad 54 — How Much & How Many](/blog/curso-a1/unidad-54-how-much-how-many)
-- [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Inglés en mercados y regateo](/blog/viajes/ingles-mercados-regateo-viaje)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

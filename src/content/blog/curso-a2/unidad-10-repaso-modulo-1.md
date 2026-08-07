@@ -20,8 +20,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-10-repaso-modulo-1'
 image: /blog/curso-a2/unit-10/a2-unit10-module1-review.png
 alt: Esquema de repaso del Módulo 1 del curso A2
 related_routes:
-  - unidad-11-present-perfect-introduccion
-  - unidad-9-preposiciones-lugar-movimiento
+  - past-simple-usos-reglas
+  - past-simple-verbos-irregulares
+  - preposiciones-movimiento-ingles
   - ingles-a2
 faqs:
   - question: ¿Qué se repasa en la Unidad 10 del curso A2?
@@ -473,6 +474,15 @@ Guías del Módulo 1 (repaso):
 - [Índice del curso A2](/curso-a2)
 
 ---
+
+
+Guías relacionadas:
+
+- [Past Simple: usos y reglas](/blog/gramatica/past-simple-usos-reglas)
+- [Past Simple: verbos irregulares](/blog/gramatica/past-simple-verbos-irregulares)
+- [Preposiciones de movimiento](/blog/gramatica/preposiciones-movimiento-ingles)
+- [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
+
 
 ## Fuentes
 

@@ -219,6 +219,13 @@ Ver deportes en versión original es una estrategia de inmersión excelente porq
 
 **Recomendación**: Empieza viendo tu deporte favorito en inglés con subtítulos en inglés. En pocas semanas, el vocabulario específico de ese deporte se volverá automático.
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U32 — Deportes y hobbies](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do)
+- [A1 U35 — Free time activities](/blog/curso-a1/unidad-35-free-time-activities)
+
 ## Fuentes
 
 - BBC Sport: https://www.bbc.com/sport

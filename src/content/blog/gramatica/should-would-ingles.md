@@ -200,6 +200,13 @@ Dominar *should* y *would* te permite dar consejos con tacto, hacer peticiones c
 
 Para ver el contexto de *will* — el hermano más directo de *would* — y entender las diferencias en el sistema modal del inglés, consulta [Will para el Futuro en Inglés](/blog/gramatica/will-futuro-ingles) y [Will vs. Would: Diferencias Clave](/blog/gramatica/will-would-diferencia).
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U58 — Salud: should](/blog/curso-a1/unidad-58-salud-should)
+- [A1 U41 — Aeropuerto: must / should](/blog/curso-a1/unidad-41-aeropuerto-must-should)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

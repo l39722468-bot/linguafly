@@ -21,10 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-56-restaurante-pedido
 image: /blog/curso-a1/unit-56/a1-unit56-polite-orders.png
 alt: Esquema de pedidos educados I would like y Can I have en restaurante A1
 related_routes:
-  - unidad-55-tienda-ropa-too-enough
-  - unidad-16-cafeteria-can-i-have-id-like
-  - unidad-17-comidas-breakfast-lunch-dinner
-  - ingles-a1
+  - ingles-restaurantes-bares-viaje
+  - ingles-para-camareros-y-hosteleria
+  - ingles-en-la-cocina
 faqs:
   - question: ¿Cómo pido de forma educada en un restaurante A1?
     answer: >-
@@ -445,10 +444,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 55 — Tienda de ropa](/blog/curso-a1/unidad-55-tienda-ropa-too-enough)
-- [Unidad 16 — Cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
-- [Unidad 17 — Comidas](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés en restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
+- [Inglés para camareros y hostelería](/blog/trabajo/ingles-para-camareros-y-hosteleria)
+- [Inglés en la cocina](/blog/viajes/ingles-en-la-cocina)
 
 ---
 

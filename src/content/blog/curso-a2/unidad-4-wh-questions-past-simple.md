@@ -21,9 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-4-wh-questions-past-s
 image: /blog/curso-a2/unit-4/a2-unit4-wh-questions.png
 alt: Esquema de Wh-questions en Past Simple para inglés A2
 related_routes:
-  - unidad-3-past-simple-verbos-irregulares
-  - unidad-2-past-simple-verbos-regulares
-  - ingles-a2
+  - past-simple-usos-reglas
+  - past-simple-vs-past-continuous
+  - past-simple-verbos-irregulares
 faqs:
   - question: ¿Cómo se forma una Wh-question en Past Simple?
     answer: >-
@@ -415,10 +415,9 @@ Guía dedicada y curso:
 
 Guías relacionadas:
 
-- [Unidad 3 — Past Simple: irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)
-- [Unidad 2 — Past Simple: regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
-- [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Índice del curso A2](/curso-a2)
+- [Past Simple: usos y reglas](/blog/gramatica/past-simple-usos-reglas)
+- [Past Simple vs Past Continuous](/blog/gramatica/past-simple-vs-past-continuous)
+- [Past Simple: verbos irregulares](/blog/gramatica/past-simple-verbos-irregulares)
 
 ---
 

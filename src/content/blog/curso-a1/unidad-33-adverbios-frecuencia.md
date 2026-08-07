@@ -20,9 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-33-adverbios-frecuenc
 image: /blog/curso-a1/unit-33/a1-unit33-frequency-scale.png
 alt: Escala de adverbios de frecuencia always usually often sometimes never en inglés A1
 related_routes:
-  - unidad-32-deportes-hobbies-play-go-do
-  - unidad-13-rutina-diaria
-  - unidad-5-present-simple-rutinas
+  - gramatica-inglesa-guia
   - ingles-a1
 faqs:
   - question: ¿Cuáles son los adverbios de frecuencia en A1?
@@ -606,10 +604,8 @@ Antes de pasar de unidad, escribe ocho frases reales: una con cada adverbio, má
 
 Guías relacionadas:
 
-- [Unidad 32 — Deportes y hobbies](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do)
-- [Unidad 13 — Rutina diaria](/blog/curso-a1/unidad-13-rutina-diaria)
-- [Unidad 5 — Present Simple rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

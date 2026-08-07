@@ -21,9 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-3-to-be-negativa-preg
 image: /blog/curso-a1/unit-3/a1-unit3-to-be-questions.png
 alt: Esquema de preguntas sí/no con el verbo to be en inglés nivel A1
 related_routes:
-  - unidad-2-to-be-pronombres-nacionalidades
-  - unidad-1-saludos-presentarse
+  - gramatica-inglesa-guia
   - ingles-a1
+  - fonetica-inglesa-basica
 faqs:
   - question: ¿Cómo se forma la negativa del verbo to be en inglés?
     answer: >-
@@ -543,9 +543,9 @@ En la **Unidad 4** aprenderás **artículos *a/an***, **plurales regulares** y d
 
 Guías relacionadas:
 
-- [Unidad 2 — Pronombres y nacionalidades](/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades)
-- [Unidad 1 — Saludos y presentarse](/blog/curso-a1/unidad-1-saludos-presentarse)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+- [Fonética inglesa básica](/blog/gramatica/fonetica-inglesa-basica)
 
 ---
 

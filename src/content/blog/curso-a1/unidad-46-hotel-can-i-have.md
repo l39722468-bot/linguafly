@@ -20,10 +20,10 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-46-hotel-can-i-have'
 image: /blog/curso-a1/unit-46/a1-unit46-hotel-requests.png
 alt: Esquema Can I have e Is there en el hotel para inglés A1
 related_routes:
-  - unidad-45-estaciones-in-spring
-  - unidad-38-pedir-permiso
-  - unidad-16-cafeteria-can-i-have-id-like
-  - ingles-a1
+  - vocabulario-hotel-ingles
+  - ingles-airbnb-alojamiento-alternativo
+  - ingles-para-recepcionistas-guia
+  - can-could-ingles
 faqs:
   - question: ¿Cómo pido algo en un hotel en inglés A1?
     answer: >-
@@ -573,10 +573,10 @@ Antes de pasar de unidad, escribe un diálogo de check-in de 8–10 líneas.
 
 Guías relacionadas:
 
-- [Unidad 45 — Seasons](/blog/curso-a1/unidad-45-estaciones-in-spring)
-- [Unidad 38 — Pedir permiso](/blog/curso-a1/unidad-38-pedir-permiso)
-- [Unidad 16 — Cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
+- [Inglés para Airbnb y alojamiento](/blog/viajes/ingles-airbnb-alojamiento-alternativo)
+- [Inglés para recepcionistas](/blog/viajes/ingles-para-recepcionistas-guia)
+- [Can / Could en inglés](/blog/gramatica/can-could-ingles)
 
 ---
 

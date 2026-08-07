@@ -21,9 +21,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-13-rutina-diaria'
 image: /blog/curso-a1/unit-13/a1-unit13-routine.png
 alt: Tabla de acciones de la rutina diaria en inglés nivel A1
 related_routes:
-  - unidad-12-dias-semana
-  - unidad-10-rutinas-diarias-hora
-  - unidad-5-present-simple-rutinas
+  - gramatica-inglesa-guia
+  - phrasal-verbs-principiantes
   - ingles-a1
 faqs:
   - question: ¿Cómo ordeno las acciones de mi día en inglés?
@@ -510,10 +509,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana)
-- [Unidad 10 — Rutinas diarias y la hora](/blog/curso-a1/unidad-10-rutinas-diarias-hora)
-- [Unidad 5 — Present Simple y rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Phrasal verbs para principiantes](/blog/gramatica/phrasal-verbs-principiantes)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

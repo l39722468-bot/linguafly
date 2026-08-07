@@ -21,10 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-39-outdoor-activities
 image: /blog/curso-a1/unit-39/a1-unit39-present-continuous-plans.png
 alt: Esquema Present Continuous para planes outdoor en inglés A1
 related_routes:
-  - unidad-38-pedir-permiso
-  - unidad-29-ropa-present-continuous
-  - unidad-32-deportes-hobbies-play-go-do
-  - ingles-a1
+  - mochileros-ingles-naturaleza-senderismo-seguridad
+  - ingles-playas-deportes-acuaticos
+  - ingles-para-deportes
 faqs:
   - question: ¿Cómo hablo de planes futuros en A1 con outdoor activities?
     answer: >-
@@ -566,10 +565,9 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases con tus planes out
 
 Guías relacionadas:
 
-- [Unidad 38 — Pedir permiso](/blog/curso-a1/unidad-38-pedir-permiso)
-- [Unidad 29 — Ropa y Present Continuous](/blog/curso-a1/unidad-29-ropa-present-continuous)
-- [Unidad 32 — Deportes y hobbies](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para naturaleza y senderismo](/blog/viajes/mochileros-ingles-naturaleza-senderismo-seguridad)
+- [Inglés en playas y deportes acuáticos](/blog/viajes/ingles-playas-deportes-acuaticos)
+- [Inglés para deportes](/blog/metodos/ingles-para-deportes)
 
 ---
 

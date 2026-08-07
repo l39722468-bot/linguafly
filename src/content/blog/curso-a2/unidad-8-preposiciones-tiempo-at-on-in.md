@@ -20,8 +20,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-8-preposiciones-tiemp
 image: /blog/curso-a2/unit-8/a2-unit8-prepositions-time.png
 alt: Esquema at on in para preposiciones de tiempo en inglés A2
 related_routes:
-  - unidad-9-preposiciones-lugar-movimiento
-  - unidad-7-adverbios-modo-ly
+  - gramatica-inglesa-guia
+  - unidad-12-dias-semana
+  - unidad-19-meses-fechas-cumpleanos
   - ingles-a2
 faqs:
   - question: ¿Cuándo uso at en inglés?
@@ -474,10 +475,10 @@ Curso:
 
 Guías relacionadas:
 
-- [Unidad 7 — Adverbios de modo](/blog/curso-a2/unidad-7-adverbios-modo-ly)
-- [Unidad 6 — Superlativos](/blog/curso-a2/unidad-6-superlativos-est-the-most)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [A1 U12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana)
+- [A1 U19 — Meses, fechas y cumpleaños](/blog/curso-a1/unidad-19-meses-fechas-cumpleanos)
 - [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
-- [Índice del curso A2](/curso-a2)
 
 ---
 

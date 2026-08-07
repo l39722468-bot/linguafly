@@ -20,9 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-22-muebles-posesivos-
 image: /blog/curso-a1/unit-22/a1-unit22-furniture.png
 alt: Vocabulario de muebles en inglés nivel A1
 related_routes:
-  - unidad-21-habitaciones-casa
-  - unidad-6-familia-posesivos-genitivo
-  - unidad-20-repaso-modulo-2
+  - gramatica-inglesa-guia
   - ingles-a1
 faqs:
   - question: ¿Cuál es la diferencia entre my y mine?
@@ -536,10 +534,8 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 21 — Habitaciones de la casa](/blog/curso-a1/unidad-21-habitaciones-casa)
-- [Unidad 6 — Familia, posesivos y genitivo](/blog/curso-a1/unidad-6-familia-posesivos-genitivo)
-- [Unidad 20 — Repaso Módulo 2](/blog/curso-a1/unidad-20-repaso-modulo-2)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

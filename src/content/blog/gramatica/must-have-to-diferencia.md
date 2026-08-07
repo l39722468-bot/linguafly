@@ -327,6 +327,12 @@ Con estas seis preguntas tienes cubierta la gran mayoría de situaciones donde *
 
 Si quieres seguir con otros modales que expresan posibilidad e incertidumbre, el artículo sobre [may y might en inglés](/blog/gramatica/may-might-ingles) es el siguiente paso lógico.
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U41 — Aeropuerto: must / should](/blog/curso-a1/unidad-41-aeropuerto-must-should)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

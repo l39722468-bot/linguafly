@@ -130,6 +130,13 @@ En **Linguafly**, entendemos que en medicina no hay margen para el error. Por es
 - [Inglés médico para médicos especialistas](/blog/trabajo/ingles-medico-para-medicos-especialistas)
 - [Vocabulario de inglés médico para enfermería](/blog/trabajo/vocabulario-ingles-medico-enfermeria)
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A1 U58 — Salud: should](/blog/curso-a1/unidad-58-salud-should)
+- [A1 U28 — Partes del cuerpo](/blog/curso-a1/unidad-28-partes-cuerpo-have-got)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

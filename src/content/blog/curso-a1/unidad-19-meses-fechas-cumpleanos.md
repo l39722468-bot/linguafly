@@ -20,9 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-19-meses-fechas-cumpl
 image: /blog/curso-a1/unit-19/a1-unit19-months.png
 alt: Meses del año en inglés nivel A1
 related_routes:
-  - unidad-18-gustos-like-ing-because
-  - unidad-12-dias-semana
-  - unidad-8-numeros-edad-precios
+  - gramatica-inglesa-guia
+  - unidad-8-preposiciones-tiempo-at-on-in
   - ingles-a1
 faqs:
   - question: ¿Se dice in January o on January?
@@ -553,10 +552,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 18 — Gustos: like + -ing](/blog/curso-a1/unidad-18-gustos-like-ing-because)
-- [Unidad 12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana)
-- [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Gramática inglesa: guía por niveles](/blog/gramatica/gramatica-inglesa-guia)
+- [A2 U8 — Preposiciones de tiempo (at/on/in)](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

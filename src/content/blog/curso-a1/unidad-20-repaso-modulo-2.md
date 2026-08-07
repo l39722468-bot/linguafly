@@ -21,10 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-20-repaso-modulo-2'
 image: /blog/curso-a1/unit-20/a1-unit20-module-map.png
 alt: Mapa de repaso del Módulo 2 del curso A1
 related_routes:
-  - unidad-19-meses-fechas-cumpleanos
-  - unidad-18-gustos-like-ing-because
-  - unidad-16-cafeteria-can-i-have-id-like
-  - unidad-14-present-simple-dont-do-you
+  - ingles-restaurantes-bares-viaje
+  - can-could-ingles
+  - ingles-en-la-cocina
   - ingles-a1
 faqs:
   - question: ¿Qué repasa la Unidad 20 del curso A1?
@@ -506,6 +505,15 @@ Guías del Módulo 2 para volver atrás:
 - [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
 
 ---
+
+
+Guías relacionadas:
+
+- [Inglés en restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
+- [Can / Could en inglés](/blog/gramatica/can-could-ingles)
+- [Inglés en la cocina](/blog/viajes/ingles-en-la-cocina)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
+
 
 ## Fuentes
 

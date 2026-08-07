@@ -21,11 +21,10 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-50-repaso-modulo-5'
 image: /blog/curso-a1/unit-50/a1-unit50-module-map.png
 alt: Mapa de repaso del Módulo 5 del curso A1 Places and Travel
 related_routes:
-  - unidad-49-maleta-need-to
-  - unidad-41-aeropuerto-must-should
-  - unidad-47-vacaciones-was-were
-  - unidad-48-sightseeing-superlativos
-  - ingles-a1
+  - ingles-para-viajar
+  - vocabulario-hotel-ingles
+  - ingles-trenes-metro-transporte
+  - past-simple-usos-reglas
 faqs:
   - question: ¿Qué repasa la Unidad 50 del curso A1?
     answer: >-
@@ -653,6 +652,15 @@ Guías relacionadas del módulo:
 - [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
 
 ---
+
+
+Guías relacionadas:
+
+- [Inglés para viajar](/blog/viajes/ingles-para-viajar)
+- [Vocabulario de hotel en inglés](/blog/viajes/vocabulario-hotel-ingles)
+- [Inglés en trenes y metro](/blog/viajes/ingles-trenes-metro-transporte)
+- [Past Simple: usos y reglas](/blog/gramatica/past-simple-usos-reglas)
+
 
 ## Fuentes
 

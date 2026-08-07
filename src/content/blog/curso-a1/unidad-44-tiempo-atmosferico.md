@@ -20,9 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-44-tiempo-atmosferico
 image: /blog/curso-a1/unit-44/a1-unit44-it-is-weather.png
 alt: Esquema It is + tiempo atmosférico en inglés A1
 related_routes:
-  - unidad-43-verbos-viaje-horarios
-  - unidad-42-transporte-by-take-the
-  - unidad-3-to-be-negativa-preguntas
+  - ingles-para-viajar
   - ingles-a1
 faqs:
   - question: ¿Cómo pregunto por el tiempo en inglés A1?
@@ -576,10 +574,8 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre el tiempo de
 
 Guías relacionadas:
 
-- [Unidad 43 — Travel Verbs](/blog/curso-a1/unidad-43-verbos-viaje-horarios)
-- [Unidad 42 — Transport](/blog/curso-a1/unidad-42-transporte-by-take-the)
-- [Unidad 3 — To be negativa y preguntas](/blog/curso-a1/unidad-3-to-be-negativa-preguntas)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés para viajar](/blog/viajes/ingles-para-viajar)
+- [Inglés A1: guía para empezar](/blog/metodos/ingles-a1)
 
 ---
 

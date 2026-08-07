@@ -21,10 +21,9 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-24-preposiciones-luga
 image: /blog/curso-a1/unit-24/a1-unit24-prepositions.png
 alt: Esquema next to between in front of opposite en inglés nivel A1
 related_routes:
-  - unidad-23-there-is-there-are
-  - unidad-11-lugares-ciudad
-  - unidad-21-habitaciones-casa
-  - ingles-a1
+  - preposiciones-movimiento-ingles
+  - ingles-para-viajar
+  - unidad-9-preposiciones-lugar-movimiento
 faqs:
   - question: ¿Qué significa next to en inglés?
     answer: >-
@@ -641,10 +640,9 @@ Guía dedicada:
 
 Guías relacionadas:
 
-- [Unidad 23 — There is / There are](/blog/curso-a1/unidad-23-there-is-there-are)
-- [Unidad 11 — Lugares en la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad)
-- [Unidad 21 — Habitaciones de la casa](/blog/curso-a1/unidad-21-habitaciones-casa)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Preposiciones de movimiento](/blog/gramatica/preposiciones-movimiento-ingles)
+- [Inglés para viajar](/blog/viajes/ingles-para-viajar)
+- [A2 U9 — Preposiciones de lugar y movimiento](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento)
 
 ---
 

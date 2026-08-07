@@ -20,10 +20,10 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-42-transporte-by-take
 image: /blog/curso-a1/unit-42/a1-unit42-by-transport.png
 alt: Esquema by + transporte y take the + transporte en inglés A1
 related_routes:
-  - unidad-41-aeropuerto-must-should
-  - unidad-32-deportes-hobbies-play-go-do
-  - unidad-26-direcciones-imperativos
-  - ingles-a1
+  - ingles-trenes-metro-transporte
+  - mochileros-ingles-hostels-transporte-publico
+  - ingles-alquiler-coche
+  - phrasal-verbs-with-take
 faqs:
   - question: ¿Cómo se dice «en autobús» en inglés A1?
     answer: >-
@@ -587,10 +587,10 @@ Antes de pasar de unidad, escribe un párrafo de 6–8 frases sobre cómo viaja 
 
 Guías relacionadas:
 
-- [Unidad 41 — At the Airport](/blog/curso-a1/unidad-41-aeropuerto-must-should)
-- [Unidad 32 — Sports & Hobbies](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do)
-- [Unidad 26 — Giving Directions](/blog/curso-a1/unidad-26-direcciones-imperativos)
-- [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)
+- [Inglés en trenes y metro](/blog/viajes/ingles-trenes-metro-transporte)
+- [Hostels y transporte público](/blog/viajes/mochileros-ingles-hostels-transporte-publico)
+- [Inglés para alquiler de coche](/blog/viajes/ingles-alquiler-coche)
+- [Phrasal verbs with take](/blog/gramatica/phrasal-verbs-with-take)
 
 ---
 

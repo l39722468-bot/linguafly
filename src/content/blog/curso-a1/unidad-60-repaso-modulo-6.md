@@ -21,11 +21,10 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-60-repaso-modulo-6'
 image: /blog/curso-a1/unit-60/a1-unit60-module-map.png
 alt: Mapa de repaso del Módulo 6 del curso A1 Shopping and Food
 related_routes:
-  - unidad-59-dinero-pay-for-spend-on
-  - unidad-52-contables-incontables
-  - unidad-53-some-any
-  - unidad-58-salud-should
-  - ingles-a1
+  - ingles-para-compras
+  - ingles-restaurantes-bares-viaje
+  - ingles-en-la-cocina
+  - should-would-ingles
 faqs:
   - question: ¿Qué repasa la Unidad 60 del curso A1?
     answer: >-
@@ -629,6 +628,15 @@ Guías relacionadas del módulo:
 - [Unidad 50 — Repaso Módulo 5](/blog/curso-a1/unidad-50-repaso-modulo-5)
 
 ---
+
+
+Guías relacionadas:
+
+- [Inglés para compras](/blog/viajes/ingles-para-compras)
+- [Inglés en restaurantes y bares](/blog/viajes/ingles-restaurantes-bares-viaje)
+- [Inglés en la cocina](/blog/viajes/ingles-en-la-cocina)
+- [Should / Would en inglés](/blog/gramatica/should-would-ingles)
+
 
 ## Fuentes
 

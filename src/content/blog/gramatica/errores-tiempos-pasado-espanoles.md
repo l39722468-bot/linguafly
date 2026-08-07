@@ -165,6 +165,13 @@ La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-si
 | while + acción larga | Past Continuous |
 | before / after (aclarar orden) | Past Perfect (o Past Simple) |
 
+## Practica en el curso Linguafly
+
+Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
+
+- [A2 U2 — Past Simple regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
+- [A2 U3 — Past Simple irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)
+
 ## Fuentes
 
 - Cambridge Dictionary (past tenses): https://dictionary.cambridge.org/grammar/british-grammar/past
