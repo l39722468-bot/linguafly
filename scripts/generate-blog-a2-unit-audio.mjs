@@ -214,6 +214,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-lucas': 'Hi! I am Lucas. I have a busy week. Today I have already done my chores and finished the shopping. I have already cleaned the kitchen too. But I haven\'t sent the emails yet. I must do that before dinner. I also haven\'t called my boss yet. He is waiting for my call. I feel relaxed because I have already completed most of my tasks for today.',
     'practice-four': 'I have already finished my homework. I haven\'t done the shopping yet. Has she cleaned her room yet? He has already eaten breakfast.',
   },
+  14: {
+    'have-just-arrived': 'I have just arrived home from work.',
+    'has-just-finished-exam': 'She has just finished her exam.',
+    'have-just-eaten': 'I have just eaten lunch.',
+    'has-just-left': 'They have just left. You missed them.',
+    'have-just-woken-up': 'I have just woken up.',
+    'have-just-heard': 'We have just heard the news.',
+    'have-just-received': 'I have just received a message from my friend.',
+    'has-just-arrived-airport': 'He has just arrived at the airport.',
+    'reading-emma': 'Hi! I am Emma. I have just arrived home from work. I am tired because it was a long day. I have just received a message from my friend Lisa. She has just finished her exam and wants to meet for coffee tomorrow. I have just heard the news on the radio too. There will be sun tomorrow. I am happy because I have just finished my project at work.',
+    'dialogue-tom': 'Hello! I am Tom. I have just woken up. It is seven o\'clock in the morning. I have just received a call from my brother. He has just arrived at the airport and needs a lift home. I have just had breakfast too. I am ready to go and pick him up. I am excited because I haven\'t seen him for six months.',
+    'practice-four': 'I have just arrived home. She has just finished her exam. They have just left. I have just woken up.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
