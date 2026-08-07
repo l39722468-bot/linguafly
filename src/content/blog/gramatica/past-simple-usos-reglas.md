@@ -197,6 +197,7 @@ Si estás siguiendo el curso por unidades, estas guías conectan este tema con l
 - [A2 U2 — Past Simple regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
 - [A2 U3 — Past Simple irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)
 - [A2 U4 — Wh-questions en Past Simple](/blog/curso-a2/unidad-4-wh-questions-past-simple)
+- [A2 U15 — Present Perfect vs Past Simple](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple)
 - [A1 U47 — Vacaciones: was/were](/blog/curso-a1/unidad-47-vacaciones-was-were)
 
 ## Fuentes

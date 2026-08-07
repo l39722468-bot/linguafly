@@ -118,6 +118,7 @@ Si quieres estudiar el A2 con el mismo orden del [curso A2](/curso-a2), estas gu
 - [U12 — Ever & Never](/blog/curso-a2/unidad-12-present-perfect-ever-never)
 - [U13 — Already & Yet](/blog/curso-a2/unidad-13-present-perfect-already-yet)
 - [U14 — Just](/blog/curso-a2/unidad-14-present-perfect-just)
+- [U15 — Present Perfect vs Past Simple](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple)
 
 Índice completo de guías: [Curso A2 en el blog](/blog/curso-a2).
 

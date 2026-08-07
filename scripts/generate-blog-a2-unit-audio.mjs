@@ -227,6 +227,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-tom': 'Hello! I am Tom. I have just woken up. It is seven o\'clock in the morning. I have just received a call from my brother. He has just arrived at the airport and needs a lift home. I have just had breakfast too. I am ready to go and pick him up. I am excited because I haven\'t seen him for six months.',
     'practice-four': 'I have just arrived home. She has just finished her exam. They have just left. I have just woken up.',
   },
+  15: {
+    'have-been-many-countries': 'I have been to many countries.',
+    'have-never-been-australia': 'I have never been to Australia.',
+    'have-you-ever-japan': 'Have you ever been to Japan?',
+    'went-japan-last-year': 'Last year I went to Japan.',
+    'two-months-ago-italy': 'Two months ago I travelled to Italy.',
+    'ate-pizza-naples': 'I ate pizza in Naples.',
+    'saw-colosseum': 'I saw the Colosseum in Rome.',
+    'have-already-booked': 'I have already booked my next trip to Spain.',
+    'last-month-read-novel': 'Last month I read a great novel by Jane Austen.',
+    'three-weeks-ago-finished': 'Three weeks ago I finished a mystery book.',
+    'reading-jake': 'My name is Jake. I love travelling. I have been to many countries in my life. I have never been to Australia but I want to go one day. Last year I went to Japan. It was amazing. I visited Tokyo and Kyoto. Two months ago I travelled to Italy. I ate pizza in Naples and saw the Colosseum in Rome. I have already booked my next trip to Spain. I am excited!',
+    'dialogue-nina': 'Hi! I am Nina. I love reading. I have read many books in my life. I have never read a science fiction book but I want to try one. Last month I read a great novel by Jane Austen. It was beautiful. Three weeks ago I finished a mystery book. I really enjoyed it. I have already bought my next book for the holidays. I am excited!',
+    'practice-four': 'I have been to many countries. Last year I went to Japan. I have never been to Australia. Two months ago I travelled to Italy.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
