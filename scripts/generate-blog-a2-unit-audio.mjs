@@ -301,6 +301,22 @@ const CLIPS_BY_UNIT = {
     'dialogue-lisa': 'Hi! I am Lisa. People often ask me about my habits. How often do I exercise? I go running four times a week. How long do I run each time? I run for thirty minutes. How much coffee do I drink a day? I drink two cups every morning. How many languages do I speak? I speak three: English, Spanish and French. I have been learning Spanish for two years. I feel energetic because I exercise regularly and drink enough water.',
     'practice-four': 'How often do you exercise? How long do you study every day? How much water do you drink? How many books have you read this year?',
   },
+  20: {
+    'have-been-paris': 'I have been to Paris twice.',
+    'already-finished-course': 'I have already finished my course this year.',
+    'havent-found-job-yet': 'I haven\'t found a new job yet.',
+    'was-walking-when-met': 'I was walking in the park when I met an old friend.',
+    'was-cooking-when-called': 'I was cooking dinner when my sister called.',
+    'lived-for-three-years': 'I have lived in Barcelona for three years.',
+    'worked-since-2021': 'I have worked as a teacher since 2021.',
+    'how-often-gym': 'How often do you go to the gym?',
+    'visited-five-countries': 'I have already visited five countries this year.',
+    'havent-been-japan-yet': 'I haven\'t been to Japan yet.',
+    'swimming-twice-week': 'I go swimming twice a week.',
+    'reading-david': 'My name is David. I have lived in Barcelona for three years. I have worked as a teacher since 2021. Last week I was walking in the park when I met an old friend. We were talking while we walked. How often do I exercise? I go to the gym three times a week. I have already finished my course this year but I haven\'t found a new job yet. I feel good because I have a stable life with good friends.',
+    'dialogue-maria': 'Hi! I am Maria. I have lived in Valencia for four years. I have worked at a hospital since 2020. Yesterday I was cooking dinner when my sister called. We were talking while I was finishing the food. How often do I exercise? I go swimming twice a week. I have already visited five countries this year but I haven\'t been to Japan yet. I feel happy because I have a good job and a wonderful family.',
+    'practice-four': 'I have lived here for three years. I was walking when I met a friend. How often do you go to the gym? I have already finished, but I haven\'t started yet.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
