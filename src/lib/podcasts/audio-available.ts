@@ -39,6 +39,8 @@ export const PODCAST_EPISODES_WITH_AUDIO = new Set([
   'a1-pro-10m-002',
   'a1-pro-10m-003',
   'a1-pro-10m-004',
+  'a1-pro-20m-002',
+  'a1-pro-20m-003',
   'a1-tra-02m-001',
   'a1-tra-02m-002',
   'a1-tra-02m-003',
@@ -49,6 +51,8 @@ export const PODCAST_EPISODES_WITH_AUDIO = new Set([
   'a1-tra-05m-003',
   'a1-tra-05m-004',
   'a1-tra-05m-005',
+  'a1-tra-10m-001',
+  'a1-tra-10m-002',
   'a1-tra-10m-003',
   'a1-tra-10m-004',
 ])
