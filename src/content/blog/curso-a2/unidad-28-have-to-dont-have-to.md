@@ -413,6 +413,10 @@ La **Unidad 29** introduce **Could**: capacidad en pasado y peticiones educadas 
 
 En la **Unidad 29** verás **Could: Past Ability & Polite Requests**.
 
+Guía blog:
+
+- [Unidad 29 — Could](/blog/curso-a2/unidad-29-could-habilidad-peticiones)
+
 Curso:
 
 - [Unidad 29 — Could](/curso-a2/unit-29)

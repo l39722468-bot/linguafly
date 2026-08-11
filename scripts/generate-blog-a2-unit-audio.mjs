@@ -429,6 +429,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-school': 'At school, students have to wear uniform. They have to arrive on time. They don\'t have to bring lunch because the school has a canteen. Students have to do homework every day. They don\'t have to pay for books — the school gives them free. Teachers have to correct exams and help students.',
     'practice-four': 'I have to get up early. I don\'t have to work on Saturdays. Do you have to wear a uniform? She has to study tonight.',
   },
+  29: {
+    'could-swim': 'When I was young, I could swim very well.',
+    'could-you-pass-salt': 'Could you pass the salt, please?',
+    'could-ride-bike': 'I could ride a bike at the age of five.',
+    'couldnt-speak-english': 'I couldn\'t speak English when I was young, but now I can.',
+    'could-play-piano': 'I could play the piano at the age of seven.',
+    'could-you-help': 'Could you help me with this bag?',
+    'could-you-open-window': 'Could you open the window? It\'s hot in here.',
+    'could-run-fast': 'When I was young, I could run very fast.',
+    'couldnt-cook': 'I couldn\'t cook when I lived with my parents.',
+    'could-you-repeat': 'Could you repeat that, please?',
+    'reading-child': 'When I was a child, I could swim very well. I could ride a bike at the age of five. I couldn\'t speak English when I was young, but now I can. Could you pass me the salt, please? Could you help me with this bag? Could you open the window? It is hot in here.',
+    'dialogue-young': 'When I was young, I could run very fast. I could play the piano at the age of seven. I couldn\'t cook when I lived with my parents. Could you turn down the volume, please? Could you repeat that, please? Could you tell me the time? I forgot my watch at home.',
+    'practice-four': 'When I was a child, I could swim. I couldn\'t speak English then. Could you help me, please? Now I can speak English.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
