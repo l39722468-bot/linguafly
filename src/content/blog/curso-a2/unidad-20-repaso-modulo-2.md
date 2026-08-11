@@ -396,6 +396,10 @@ La **Unidad 21** abre el **Módulo 3** con **Going to**: planes e intenciones (*
 
 En la **Unidad 21** empezarás **Going to: Plans & Intentions**: *I'm going to travel next summer*.
 
+Guía blog:
+
+- [Unidad 21 — Going to: planes e intenciones](/blog/curso-a2/unidad-21-going-to-planes-intenciones)
+
 Curso:
 
 - [Unidad 21 — Going to](/curso-a2/unit-21)

@@ -317,6 +317,20 @@ const CLIPS_BY_UNIT = {
     'dialogue-maria': 'Hi! I am Maria. I have lived in Valencia for four years. I have worked at a hospital since 2020. Yesterday I was cooking dinner when my sister called. We were talking while I was finishing the food. How often do I exercise? I go swimming twice a week. I have already visited five countries this year but I haven\'t been to Japan yet. I feel happy because I have a good job and a wonderful family.',
     'practice-four': 'I have lived here for three years. I was walking when I met a friend. How often do you go to the gym? I have already finished, but I haven\'t started yet.',
   },
+  21: {
+    'am-going-to-visit': 'I am going to visit my family next week.',
+    'is-going-to-study': 'She is going to study English next year.',
+    'are-going-to-travel': 'They are going to travel to Spain in August.',
+    'not-going-to-stay': 'We are not going to stay at home tonight.',
+    'are-you-going-to-come': 'Are you going to come?',
+    'what-are-you-going-to-do': 'What are you going to do this weekend?',
+    'he-is-going-to-buy': 'He is going to buy a new car soon.',
+    'parents-are-going-to-move': 'My parents are going to move to a small village.',
+    'look-for-a-job': 'I am going to look for a job.',
+    'reading-emma': 'My name is Emma. I am going to travel to Japan next summer. I am going to visit Tokyo and Kyoto. My brother is going to study at university next year. He is going to study engineering. My parents are going to move to a small village next month. They are going to buy a house there. This weekend I am going to visit my grandmother. She is going to cook my favourite food. I love making plans and thinking about the future!',
+    'dialogue-david': 'Hi! My name is David. I am going to tell you about my plans for next year. I am going to finish university in June. After that I am going to look for a job. I am going to apply for jobs in London and Manchester. My girlfriend is going to travel to Australia in September. She is going to work there for six months. We are going to get married when she comes back. This weekend I am going to visit my parents. They are going to celebrate their anniversary. I am excited about all my plans!',
+    'practice-four': 'What are you going to do this weekend? Are you going to travel next summer? Is your family going to move soon? What are you going to study next year?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

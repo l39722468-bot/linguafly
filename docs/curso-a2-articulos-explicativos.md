@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-05 (artículos U1–U13 ≥2000 palabras; Módulo 2)  
+**Última actualización:** 2026-08-11 (artículos U1–U21; inicio Módulo 3)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 20 |
-| Artículos dedicados pendientes | 40 |
+| Artículos dedicados publicados | 21 |
+| Artículos dedicados pendientes | 39 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -65,7 +65,22 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 
 ---
 
-## Módulos 3–6 (U21–60)
+## Módulo 3: Futuro y planes (U21–30)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 21 | Going to: Plans & Intentions | *am/is/are going to* + infinitivo | ✅ | [Going to planes A2](/blog/curso-a2/unidad-21-going-to-planes-intenciones) |
+| 22 | Going to: Predictions | predicciones con evidencia | ❌ | — |
+| 23 | Will / Won't: Predictions & Promises | *will/won't* | ❌ | — |
+| 24 | Present Continuous for Future | citas / planes fijados | ❌ | — |
+| 25 | Future: Going to vs Will vs Present Continuous | contraste | ❌ | — |
+| 26 | First Conditional | *If* + Present, *will* | ❌ | — |
+| 27 | Zero Conditional | *If* + Present, Present | ❌ | — |
+| 28 | Have to / Don't have to | obligación / ausencia | ❌ | — |
+| 29 | Could: Past Ability & Polite Requests | *could* | ❌ | — |
+| 30 | Module 3 Review | repaso módulo 3 | ⏭️ | — |
+
+## Módulos 4–6 (U31–60)
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
