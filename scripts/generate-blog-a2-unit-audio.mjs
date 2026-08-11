@@ -459,6 +459,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-dentist': 'Tomorrow I will go to the dentist. If I finish early, I will have lunch with a friend. If you don\'t brush your teeth, they get yellow — that is a general fact. I have to wear glasses when I read. I don\'t have to work tomorrow. When I was a child, I could draw well. Could you speak more slowly, please?',
     'practice-four': 'Next week I will travel. If it rains, I will take an umbrella. I have to get up early. Could you help me, please?',
   },
+  31: {
+    'get-up-seven': 'I get up at 7 o\'clock every day.',
+    'look-for-keys': 'I look for my keys every morning.',
+    'wake-up-get-up': 'I wake up at 7 and then I get up.',
+    'turn-on-light': 'Turn on the light, please.',
+    'sit-down-stand-up': 'Please sit down. Now stand up.',
+    'turn-off-lights': 'Turn off the lights before you leave.',
+    'look-for-phone': 'I look for my phone every morning.',
+    'please-sit-down': 'Please sit down.',
+    'reading-morning': 'Every morning I wake up at seven. Then I get up and turn on the light. I look for my keys and my phone. I sit down to have breakfast. After that I stand up, turn off the lights and leave home.',
+    'dialogue-class': 'Good morning! Please sit down. Don\'t stand up yet. First, turn on your computers. If you look for the file on your desk, you will find it. When you finish, turn off the computers. At home I wake up early, get up, turn on the radio and look for my bag before school.',
+    'practice-four': 'I wake up at seven. Then I get up and turn on the light. I look for my keys. Sit down, please.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-11 (artículos U1–U30; Módulo 3 completo)  
+**Última actualización:** 2026-08-11 (artículos U1–U31; inicio Módulo 4)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 30 |
-| Artículos dedicados pendientes | 30 |
+| Artículos dedicados publicados | 31 |
+| Artículos dedicados pendientes | 29 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -84,7 +84,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 31 | Phrasal Verbs: Introduction | *get up*, *look for*, *turn on/off*… | ❌ | — |
+| 31 | Phrasal Verbs: Introduction | *get up*, *look for*, *turn on/off*… | ✅ | [Phrasal verbs A2](/blog/curso-a2/unidad-31-phrasal-verbs-introduccion) |
+| 32 | Phrasal Verbs: Separable | *turn off the TV / turn the TV off* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 

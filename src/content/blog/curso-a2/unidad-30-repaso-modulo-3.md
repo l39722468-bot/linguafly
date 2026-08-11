@@ -419,6 +419,10 @@ Con la Unidad 30 **cierras el Módulo 3**. El **Módulo 4** continúa con más g
 
 En la **Unidad 31** empieza el **Módulo 4** del curso A2.
 
+Guía blog:
+
+- [Unidad 31 — Phrasal verbs: introducción](/blog/curso-a2/unidad-31-phrasal-verbs-introduccion)
+
 Curso:
 
 - [Unidad 31 — Phrasal Verbs: Introduction](/curso-a2/unit-31)
