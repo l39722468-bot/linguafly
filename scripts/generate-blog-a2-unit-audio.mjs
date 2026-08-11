@@ -384,6 +384,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-wedding': 'Hi Anna! I am calling about our plans. Next Saturday I am getting married — it is already arranged! I will send you the invitation tomorrow. I am going to wear a white dress — I have already chosen it. Maybe I will have a party the day after too. I think everything will be perfect!',
     'practice-four': 'I am meeting John tomorrow. I am going to visit the museum. I will call you when I arrive. Look! It is going to rain.',
   },
+  26: {
+    'if-rains-stay-home': 'If it rains, I will stay at home.',
+    'if-study-pass': 'If you study hard, you will pass the exam.',
+    'if-weather-nice': 'If the weather is nice, I will go for a walk in the park.',
+    'if-pass-celebrate': 'If I pass the exam, I will celebrate with my friends.',
+    'if-dont-pass-study': 'If I don\'t pass, I will study harder next time.',
+    'if-finish-homework': 'If you finish your homework early, I will let you go out tonight.',
+    'if-need-help': 'If you need help, just call me and I will come.',
+    'if-miss-bus': 'If we miss the bus, we will be late.',
+    'if-pass-present': 'If you pass the exam, I will buy you a present.',
+    'if-rains-saturday': 'If it rains on Saturday, we will stay at home and play games.',
+    'reading-plans': 'If it rains tomorrow, I will stay at home. I will watch a film and relax. If the weather is nice, I will go for a walk in the park. If you come to visit me, I will make coffee for you. If I pass the exam, I will celebrate with my friends. If I don\'t pass, I will study harder next time.',
+    'dialogue-rules': 'If you finish your homework early, I will let you go out tonight. If it rains on Saturday, we will stay at home and play games. If you pass the exam, I will buy you a present. If the bus is late, I will be late to work. If you need help, just call me and I will come.',
+    'practice-four': 'If it rains tomorrow, I will stay at home. If I pass the exam, I will celebrate. If you need help, I will come. What will you do if it rains?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

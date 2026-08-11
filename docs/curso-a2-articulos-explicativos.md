@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-11 (artículos U1–U25; Módulo 3)  
+**Última actualización:** 2026-08-11 (artículos U1–U26; Módulo 3)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 25 |
-| Artículos dedicados pendientes | 35 |
+| Artículos dedicados publicados | 26 |
+| Artículos dedicados pendientes | 34 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -74,7 +74,7 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 23 | Will / Won't: Predictions & Promises | *will/won't*; promesas, ofertas | ✅ | [Will / Won't A2](/blog/curso-a2/unidad-23-will-wont-predicciones-promesas) |
 | 24 | Present Continuous for Future | citas / planes fijados | ✅ | [Present Continuous futuro A2](/blog/curso-a2/unidad-24-present-continuous-futuro) |
 | 25 | Future: Going to vs Will vs Present Continuous | contraste de futuros | ✅ | [Futuro contraste A2](/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous) |
-| 26 | First Conditional | *If* + Present, *will* | ❌ | — |
+| 26 | First Conditional | *If* + Present, *will* | ✅ | [First Conditional A2](/blog/curso-a2/unidad-26-first-conditional) |
 | 27 | Zero Conditional | *If* + Present, Present | ❌ | — |
 | 28 | Have to / Don't have to | obligación / ausencia | ❌ | — |
 | 29 | Could: Past Ability & Polite Requests | *could* | ❌ | — |

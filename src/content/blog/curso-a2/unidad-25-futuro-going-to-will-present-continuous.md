@@ -424,6 +424,10 @@ La **Unidad 26** introduce el **First Conditional**: *If it rains, I'll stay at 
 
 En la **Unidad 26** verás el **First Conditional**.
 
+Guía blog:
+
+- [Unidad 26 — First Conditional](/blog/curso-a2/unidad-26-first-conditional)
+
 Curso:
 
 - [Unidad 26 — First Conditional](/curso-a2/unit-26)
