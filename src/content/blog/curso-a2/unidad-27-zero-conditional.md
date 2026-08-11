@@ -415,6 +415,10 @@ La **Unidad 28** introduce **Have to / Don't have to**: obligaciones.
 
 En la **Unidad 28** verás **Have to / Don't have to**.
 
+Guía blog:
+
+- [Unidad 28 — Have to / Don't have to](/blog/curso-a2/unidad-28-have-to-dont-have-to)
+
 Curso:
 
 - [Unidad 28 — Have to / Don't have to](/curso-a2/unit-28)

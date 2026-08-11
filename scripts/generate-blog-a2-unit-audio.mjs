@@ -414,6 +414,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-science': 'If you heat water to 100 degrees, it boils. If you put ice in the sun, it melts. If you don\'t water plants, they die. If you eat too much sugar, you get tired. If you drink water every day, you feel better. If you read every day, your vocabulary improves.',
     'practice-four': 'If you heat water, it boils. If you don\'t sleep well, you feel tired. If you read every day, your vocabulary improves. What happens if you freeze water?',
   },
+  28: {
+    'have-to-get-up': 'I have to get up early every day.',
+    'has-to-uniform': 'She has to wear a uniform at work.',
+    'dont-have-to-saturdays': 'I don\'t have to work on Saturdays.',
+    'do-you-have-to': 'Do you have to wear a uniform?',
+    'doesnt-have-to-pay': 'He doesn\'t have to pay the bill today.',
+    'have-to-study': 'I have to study tonight for my exam tomorrow.',
+    'dont-have-to-cook': 'I don\'t have to cook today because my mother is making dinner.',
+    'students-have-to-homework': 'Students have to do homework every day.',
+    'dont-have-to-books': 'They don\'t have to pay for books — the school gives them free.',
+    'teachers-have-to': 'Teachers have to correct exams and help students.',
+    'reading-day': 'I have to get up early every day because I work at 8 o\'clock. I have to wear a uniform at work. I don\'t have to work on Saturdays, so I can rest. I have to pay my bills every month. I don\'t have to cook today because my mother is making dinner. I have to study tonight for my exam tomorrow.',
+    'dialogue-school': 'At school, students have to wear uniform. They have to arrive on time. They don\'t have to bring lunch because the school has a canteen. Students have to do homework every day. They don\'t have to pay for books — the school gives them free. Teachers have to correct exams and help students.',
+    'practice-four': 'I have to get up early. I don\'t have to work on Saturdays. Do you have to wear a uniform? She has to study tonight.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
