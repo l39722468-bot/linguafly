@@ -358,6 +358,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-sarah': 'Hi Sarah! Don\'t worry about the party tomorrow. I will help you with the preparations. I will buy the drinks and I won\'t be late. I promise! Maybe I will bring some music too. I think the party will be great. Everyone will have fun. I won\'t forget the balloons!',
     'practice-four': 'I will help you with that. I won\'t forget. Will you come to the party? I think the exam will be easy.',
   },
+  24: {
+    'am-meeting-john': 'I am meeting John tomorrow at 3 o\'clock.',
+    'is-flying-paris': 'She is flying to Paris next week.',
+    'are-having-dinner': 'They are having dinner with us on Friday.',
+    'what-time-meeting': 'What time are you meeting him?',
+    'are-you-free-saturday': 'Are you free on Saturday?',
+    'dentist-appointment': 'I am having a dentist appointment at 10 in the morning.',
+    'playing-tennis': 'I am playing tennis with my friend at 5 pm.',
+    'flying-barcelona': 'I am flying to Barcelona for a conference.',
+    'reading-tom': 'My name is Tom. This week I am very busy. On Monday I am meeting John at 3 o\'clock. On Tuesday I am having a dentist appointment at 10 in the morning. On Wednesday I am flying to Paris for a meeting. On Thursday I am having dinner with my parents. On Friday I am playing tennis with my friend at 5 pm. I love having a full diary!',
+    'dialogue-lisa': 'Hi Lisa! I am calling to confirm our plans for next week. On Monday I am meeting my boss at 9 o\'clock. On Wednesday I am flying to Barcelona for a conference. On Friday I am having lunch with my sister at 1 pm. Are you free on Saturday? I am going to the cinema and I would like you to come with me.',
+    'practice-four': 'What are you doing tomorrow? What time are you meeting him? Are you free on Saturday? On Monday I am meeting my boss.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

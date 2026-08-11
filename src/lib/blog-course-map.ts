@@ -527,6 +527,9 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-23-will-wont-predicciones-promesas': [
     { courseId: 'a2', unitNumber: 23 },
   ],
+  'unidad-24-present-continuous-futuro': [
+    { courseId: 'a2', unitNumber: 24 },
+  ],
   'unidad-2-to-be-pronombres-nacionalidades': [
     { courseId: 'a1', unitNumber: 2 },
     { courseId: 'a1', unitNumber: 3 },

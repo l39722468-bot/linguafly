@@ -446,6 +446,10 @@ La **Unidad 24** introduce el **Present Continuous for Future**: citas y planes 
 
 En la **Unidad 24** verás **Present Continuous for Future**: agendas y citas.
 
+Guía blog:
+
+- [Unidad 24 — Present Continuous for Future](/blog/curso-a2/unidad-24-present-continuous-futuro)
+
 Curso:
 
 - [Unidad 24 — Present Continuous for Future](/curso-a2/unit-24)
