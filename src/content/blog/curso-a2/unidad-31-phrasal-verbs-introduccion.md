@@ -405,6 +405,10 @@ La **Unidad 32** introduce phrasal verbs **separables**: *turn off the TV / turn
 
 En la **Unidad 32** verás **Phrasal Verbs: Separable**.
 
+Guía blog:
+
+- [Unidad 32 — Phrasal verbs separables](/blog/curso-a2/unidad-32-phrasal-verbs-separables)
+
 Curso:
 
 - [Unidad 32 — Phrasal Verbs: Separable](/curso-a2/unit-32)

@@ -472,6 +472,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-class': 'Good morning! Please sit down. Don\'t stand up yet. First, turn on your computers. If you look for the file on your desk, you will find it. When you finish, turn off the computers. At home I wake up early, get up, turn on the radio and look for my bag before school.',
     'practice-four': 'I wake up at seven. Then I get up and turn on the light. I look for my keys. Sit down, please.',
   },
+  32: {
+    'turn-off-tv': 'Please turn off the TV. Please turn the TV off.',
+    'turn-it-off': 'The TV is on. Please turn it off.',
+    'pick-up-book': 'Pick up the book. Pick the book up.',
+    'put-on-coat': 'Put on your coat. It\'s cold.',
+    'take-off-shoes': 'Take off your shoes, please.',
+    'put-it-on': 'Here\'s your jacket. Put it on.',
+    'put-down-bags': 'Put down your bags here.',
+    'give-it-back': 'Can you give it back, please?',
+    'reading-morning': 'Every morning I wake up and get up. I look for my phone. Then I put on my clothes and pick up my bag. Before I leave, I turn the lights off. If I borrow my sister\'s scarf, I give it back in the evening.',
+    'dialogue-class': 'Please sit down. Take off your headphones and put them down on the desk. Can I put on my jacket? It\'s cold. Yes. And pick up your pencil — it\'s on the floor. When you finish, give the worksheets back.',
+    'practice-four': 'I pick up my keys. I put my coat on. I take my shoes off. I give the book back.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
