@@ -432,6 +432,10 @@ La **Unidad 23** introduce **will / won't** para predicciones generales, promesa
 
 En la **Unidad 23** verás **Will / Won't: Predictions & Promises**.
 
+Guía blog:
+
+- [Unidad 23 — Will / Won't: predicciones y promesas](/blog/curso-a2/unidad-23-will-wont-predicciones-promesas)
+
 Curso:
 
 - [Unidad 23 — Will / Won't](/curso-a2/unit-23)

@@ -344,6 +344,20 @@ const CLIPS_BY_UNIT = {
     'dialogue-picnic': 'Hi! I just checked the weather forecast. I think it is going to be sunny tomorrow. I\'m sure we are going to have a great day for our picnic. But look at those dark clouds over there. I think it is going to rain in the evening. Maybe we should go home early. I\'m sure the film is going to be good tonight. My friend said it is excellent.',
     'practice-four': 'Look at the clouds! What is going to happen? I think it is going to rain. I\'m sure we are going to have a good day. Be careful! That cup is going to fall.',
   },
+  23: {
+    'i-will-help-you': 'I will help you with that.',
+    'wont-forget': 'I won\'t forget your birthday. I promise.',
+    'will-you-come': 'Will you come to the party?',
+    'promise-help-homework': 'I promise I will help you with your homework tomorrow.',
+    'wont-be-late': 'I won\'t be late. I promise!',
+    'exam-will-be-easy': 'I think the exam will be easy next week.',
+    'probably-arrive-late': 'They will probably arrive late.',
+    'party-will-be-great': 'I think the party will be great.',
+    'wont-forget-balloons': 'I won\'t forget the balloons!',
+    'reading-maria': 'Dear Maria, I promise I will help you with your homework tomorrow. Don\'t worry! I will call you at 6 o\'clock. I won\'t forget. Maybe I will bring some cookies too. I think the exam will be easy next week. I will study hard and I won\'t give up. I promise I will be there for you!',
+    'dialogue-sarah': 'Hi Sarah! Don\'t worry about the party tomorrow. I will help you with the preparations. I will buy the drinks and I won\'t be late. I promise! Maybe I will bring some music too. I think the party will be great. Everyone will have fun. I won\'t forget the balloons!',
+    'practice-four': 'I will help you with that. I won\'t forget. Will you come to the party? I think the exam will be easy.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
