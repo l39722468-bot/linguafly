@@ -485,6 +485,17 @@ const CLIPS_BY_UNIT = {
     'dialogue-class': 'Please sit down. Take off your headphones and put them down on the desk. Can I put on my jacket? It\'s cold. Yes. And pick up your pencil — it\'s on the floor. When you finish, give the worksheets back.',
     'practice-four': 'I pick up my keys. I put my coat on. I take my shoes off. I give the book back.',
   },
+  33: {
+    'like-swimming': 'I like swimming.',
+    'want-to-travel': 'I want to travel next year.',
+    'love-cooking': 'She loves cooking Italian food.',
+    'hate-waiting': 'I hate waiting in long queues.',
+    'need-to-study': 'I need to study for the exam.',
+    'would-like-to-order': 'I\'d like to order a coffee, please.',
+    'reading-plans': 'I love reading in the evening. I also like cooking, but I hate washing the dishes. Next year I want to travel to Ireland. First I need to save money. Tonight I\'d like to watch a film at home.',
+    'dialogue-cafe': 'Do you like drinking coffee? Yes, I love it. I\'d like to order a cappuccino. I want to try the tea. Do we need to pay now? No — we can pay later. I hate waiting when it\'s busy, though!',
+    'practice-four': 'I like swimming. I want to travel. I need to study. I\'d like to rest.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

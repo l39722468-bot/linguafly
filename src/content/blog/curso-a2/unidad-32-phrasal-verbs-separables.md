@@ -465,6 +465,10 @@ La **Unidad 33** introduce **gerundios e infinitivos**: *like swimming*, *want t
 
 En la **Unidad 33** verás **Gerunds & Infinitives**.
 
+Guía blog:
+
+- [Unidad 33 — Gerundios e infinitivos](/blog/curso-a2/unidad-33-gerunds-infinitives)
+
 Curso:
 
 - [Unidad 33 — Gerunds & Infinitives](/curso-a2/unit-33)

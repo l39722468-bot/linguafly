@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-11 (artículos U1–U32; Módulo 4 en curso)  
+**Última actualización:** 2026-08-11 (artículos U1–U33; Módulo 4 en curso)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 32 |
-| Artículos dedicados pendientes | 28 |
+| Artículos dedicados publicados | 33 |
+| Artículos dedicados pendientes | 27 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -86,7 +86,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 |---|---|---|---|---|
 | 31 | Phrasal Verbs: Introduction | *get up*, *look for*, *turn on/off*… | ✅ | [Phrasal verbs A2](/blog/curso-a2/unidad-31-phrasal-verbs-introduccion) |
 | 32 | Phrasal Verbs: Separable | *pick up*, *put on*, *take off*… | ✅ | [Phrasal verbs separables A2](/blog/curso-a2/unidad-32-phrasal-verbs-separables) |
-| 33 | Gerunds & Infinitives | *like -ing* / *want to* | ❌ | — |
+| 33 | Gerunds & Infinitives | *like -ing* / *want to* / *would like to* | ✅ | [Gerundios e infinitivos A2](/blog/curso-a2/unidad-33-gerunds-infinitives) |
+| 34 | Subject & Object Questions | *Who called you?* / *Who did you call?* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 

@@ -554,6 +554,9 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-32-phrasal-verbs-separables': [
     { courseId: 'a2', unitNumber: 32 },
   ],
+  'unidad-33-gerunds-infinitives': [
+    { courseId: 'a2', unitNumber: 33 },
+  ],
   'unidad-2-to-be-pronombres-nacionalidades': [
     { courseId: 'a1', unitNumber: 2 },
     { courseId: 'a1', unitNumber: 3 },
