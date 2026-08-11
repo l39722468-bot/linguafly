@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-11 (artículos U1–U21; inicio Módulo 3)  
+**Última actualización:** 2026-08-11 (artículos U1–U22; Módulo 3)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 21 |
-| Artículos dedicados pendientes | 39 |
+| Artículos dedicados publicados | 22 |
+| Artículos dedicados pendientes | 38 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -70,7 +70,7 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
 | 21 | Going to: Plans & Intentions | *am/is/are going to* + infinitivo | ✅ | [Going to planes A2](/blog/curso-a2/unidad-21-going-to-planes-intenciones) |
-| 22 | Going to: Predictions | predicciones con evidencia | ❌ | — |
+| 22 | Going to: Predictions | predicciones con evidencia; *I think / I'm sure* | ✅ | [Going to predicciones A2](/blog/curso-a2/unidad-22-going-to-predicciones) |
 | 23 | Will / Won't: Predictions & Promises | *will/won't* | ❌ | — |
 | 24 | Present Continuous for Future | citas / planes fijados | ❌ | — |
 | 25 | Future: Going to vs Will vs Present Continuous | contraste | ❌ | — |

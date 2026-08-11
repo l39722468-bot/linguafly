@@ -331,6 +331,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-david': 'Hi! My name is David. I am going to tell you about my plans for next year. I am going to finish university in June. After that I am going to look for a job. I am going to apply for jobs in London and Manchester. My girlfriend is going to travel to Australia in September. She is going to work there for six months. We are going to get married when she comes back. This weekend I am going to visit my parents. They are going to celebrate their anniversary. I am excited about all my plans!',
     'practice-four': 'What are you going to do this weekend? Are you going to travel next summer? Is your family going to move soon? What are you going to study next year?',
   },
+  22: {
+    'look-clouds-rain': 'Look at the clouds! It is going to rain.',
+    'cup-going-to-fall': 'Be careful! That cup is going to fall.',
+    'she-going-to-pass': 'She is going to pass the exam. She studies hard.',
+    'i-think-they-win': 'I think they are going to win the match.',
+    'im-sure-get-job': 'I\'m sure he is going to get the job.',
+    'sunny-tomorrow': 'I think it is going to be sunny tomorrow.',
+    'team-going-to-win': 'My team is going to win.',
+    'film-going-to-be-good': 'I\'m sure the film is going to be good tonight.',
+    'reading-weather-day': 'Tomorrow the weather is going to be sunny. I think it is going to be warm and nice. I\'m sure we are going to have a good day at the beach. Look at the clouds! I think it is going to rain in the afternoon. Maybe we should take an umbrella. I\'m sure the match is going to be exciting tonight. My team is going to win!',
+    'dialogue-picnic': 'Hi! I just checked the weather forecast. I think it is going to be sunny tomorrow. I\'m sure we are going to have a great day for our picnic. But look at those dark clouds over there. I think it is going to rain in the evening. Maybe we should go home early. I\'m sure the film is going to be good tonight. My friend said it is excellent.',
+    'practice-four': 'Look at the clouds! What is going to happen? I think it is going to rain. I\'m sure we are going to have a good day. Be careful! That cup is going to fall.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

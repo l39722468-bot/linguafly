@@ -442,9 +442,9 @@ La **Unidad 22** amplía *going to* a **predicciones** con evidencia: *Look at t
 
 En la **Unidad 22** verás **Going to: Predictions**: predicciones basadas en evidencia.
 
-Guía blog (cuando esté publicada):
+Guía blog:
 
-- Unidad 22 — Going to: Predictions
+- [Unidad 22 — Going to: predicciones](/blog/curso-a2/unidad-22-going-to-predicciones)
 
 Curso:
 
