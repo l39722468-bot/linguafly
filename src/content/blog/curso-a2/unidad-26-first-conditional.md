@@ -420,6 +420,10 @@ La **Unidad 27** introduce el **Zero Conditional**: hechos generales (*If you he
 
 En la **Unidad 27** verás el **Zero Conditional**.
 
+Guía blog:
+
+- [Unidad 27 — Zero Conditional](/blog/curso-a2/unidad-27-zero-conditional)
+
 Curso:
 
 - [Unidad 27 — Zero Conditional](/curso-a2/unit-27)

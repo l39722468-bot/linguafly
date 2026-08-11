@@ -399,6 +399,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-rules': 'If you finish your homework early, I will let you go out tonight. If it rains on Saturday, we will stay at home and play games. If you pass the exam, I will buy you a present. If the bus is late, I will be late to work. If you need help, just call me and I will come.',
     'practice-four': 'If it rains tomorrow, I will stay at home. If I pass the exam, I will celebrate. If you need help, I will come. What will you do if it rains?',
   },
+  27: {
+    'heat-water-boils': 'If you heat water, it boils.',
+    'rains-ground-wet': 'If it rains, the ground gets wet.',
+    'mix-red-blue': 'If you mix red and blue, you get purple.',
+    'ice-melts': 'If you put ice in the sun, it melts.',
+    'exercise-healthy': 'If you exercise regularly, you stay healthy.',
+    'dont-eat-hungry': 'If you don\'t eat enough, you feel hungry.',
+    'dont-water-plants': 'If you don\'t water plants, they die.',
+    'freeze-ice': 'If you freeze water, it turns into ice.',
+    'read-vocabulary': 'If you read every day, your vocabulary improves.',
+    'drink-water-better': 'If you drink water every day, you feel better.',
+    'reading-truths': 'If you heat water, it boils. If you freeze water, it turns into ice. If you mix red and blue, you get purple. If you don\'t eat enough, you feel hungry. If you exercise regularly, you stay healthy. If you don\'t sleep well, you feel tired the next day.',
+    'dialogue-science': 'If you heat water to 100 degrees, it boils. If you put ice in the sun, it melts. If you don\'t water plants, they die. If you eat too much sugar, you get tired. If you drink water every day, you feel better. If you read every day, your vocabulary improves.',
+    'practice-four': 'If you heat water, it boils. If you don\'t sleep well, you feel tired. If you read every day, your vocabulary improves. What happens if you freeze water?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

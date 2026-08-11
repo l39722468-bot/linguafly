@@ -536,6 +536,9 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-26-first-conditional': [
     { courseId: 'a2', unitNumber: 26 },
   ],
+  'unidad-27-zero-conditional': [
+    { courseId: 'a2', unitNumber: 27 },
+  ],
   'unidad-2-to-be-pronombres-nacionalidades': [
     { courseId: 'a1', unitNumber: 2 },
     { courseId: 'a1', unitNumber: 3 },
