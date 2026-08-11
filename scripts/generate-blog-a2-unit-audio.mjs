@@ -444,6 +444,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-young': 'When I was young, I could run very fast. I could play the piano at the age of seven. I couldn\'t cook when I lived with my parents. Could you turn down the volume, please? Could you repeat that, please? Could you tell me the time? I forgot my watch at home.',
     'practice-four': 'When I was a child, I could swim. I couldn\'t speak English then. Could you help me, please? Now I can speak English.',
   },
+  30: {
+    'will-travel-london': 'Next week I will travel to London.',
+    'am-going-to-visit': 'I am going to visit my family next week.',
+    'if-rains-umbrella': 'If it rains, I will take an umbrella.',
+    'if-heat-boils': 'If you heat water, it boils.',
+    'have-to-get-up': 'I have to get up early tomorrow because I have a meeting.',
+    'could-speak-languages': 'When I was young, I could speak two languages.',
+    'could-you-pass-water': 'Could you pass me the water, please?',
+    'dont-have-to-friday': 'I don\'t have to work on Friday.',
+    'if-finish-lunch': 'If I finish early, I will have lunch with a friend.',
+    'could-you-slowly': 'Could you speak more slowly, please?',
+    'reading-week': 'Next week I will travel to London. If it rains, I will take an umbrella. If you heat water, it boils — that is a general fact. I have to get up early tomorrow because I have a meeting. I don\'t have to work on Friday. When I was young, I could speak two languages. Could you pass me the water, please?',
+    'dialogue-dentist': 'Tomorrow I will go to the dentist. If I finish early, I will have lunch with a friend. If you don\'t brush your teeth, they get yellow — that is a general fact. I have to wear glasses when I read. I don\'t have to work tomorrow. When I was a child, I could draw well. Could you speak more slowly, please?',
+    'practice-four': 'Next week I will travel. If it rains, I will take an umbrella. I have to get up early. Could you help me, please?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

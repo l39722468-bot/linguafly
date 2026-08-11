@@ -412,6 +412,10 @@ La **Unidad 30** es el **Repaso del Módulo 3**: futuro, condicionales y *have t
 
 En la **Unidad 30** harás el **Repaso del Módulo 3**.
 
+Guía blog:
+
+- [Unidad 30 — Repaso Módulo 3](/blog/curso-a2/unidad-30-repaso-modulo-3)
+
 Curso:
 
 - [Unidad 30 — Module 3 Review](/curso-a2/unit-30)

@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-11 (artículos U1–U29; Módulo 3)  
+**Última actualización:** 2026-08-11 (artículos U1–U30; Módulo 3 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 29 |
-| Artículos dedicados pendientes | 31 |
+| Artículos dedicados publicados | 30 |
+| Artículos dedicados pendientes | 30 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -78,9 +78,17 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 27 | Zero Conditional | *If* + Present, Present | ✅ | [Zero Conditional A2](/blog/curso-a2/unidad-27-zero-conditional) |
 | 28 | Have to / Don't have to | obligación / no necesario | ✅ | [Have to A2](/blog/curso-a2/unidad-28-have-to-dont-have-to) |
 | 29 | Could: Past Ability & Polite Requests | *could* / *Could you…?* | ✅ | [Could A2](/blog/curso-a2/unidad-29-could-habilidad-peticiones) |
-| 30 | Module 3 Review | repaso módulo 3 | ⏭️ | — |
+| 30 | Module 3 Review | repaso módulo 3 | ✅ | [Repaso Módulo 3 A2](/blog/curso-a2/unidad-30-repaso-modulo-3) |
 
-## Módulos 4–6 (U31–60)
+## Módulo 4 (U31–40)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 31 | Phrasal Verbs: Introduction | *get up*, *look for*, *turn on/off*… | ❌ | — |
+
+Pendiente de detalle editorial a medida que se publiquen artículos.
+
+## Módulos 5–6 (U41–60)
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
