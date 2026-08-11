@@ -441,6 +441,10 @@ La **Unidad 25** compara **Going to vs Will vs Present Continuous**.
 
 En la **Unidad 25** verás el contraste completo de futuros.
 
+Guía blog:
+
+- [Unidad 25 — Futuro: going to vs will vs Present Continuous](/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous)
+
 Curso:
 
 - [Unidad 25 — Future: Going to vs Will vs Present Continuous](/curso-a2/unit-25)

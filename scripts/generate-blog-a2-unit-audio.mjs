@@ -371,6 +371,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-lisa': 'Hi Lisa! I am calling to confirm our plans for next week. On Monday I am meeting my boss at 9 o\'clock. On Wednesday I am flying to Barcelona for a conference. On Friday I am having lunch with my sister at 1 pm. Are you free on Saturday? I am going to the cinema and I would like you to come with me.',
     'practice-four': 'What are you doing tomorrow? What time are you meeting him? Are you free on Saturday? On Monday I am meeting my boss.',
   },
+  25: {
+    'going-to-ticket': 'She is going to fly to London next month. She already has the ticket.',
+    'look-going-to-rain': 'Look! The sky is dark. It is going to rain soon.',
+    'are-meeting-fixed': 'We are meeting John at 3 o\'clock tomorrow. It\'s fixed.',
+    'will-call-you': 'When I arrive, I will call you and we will meet.',
+    'am-flying-london': 'Next week I am flying to London — that is already arranged.',
+    'will-send-invitation': 'I will send you the invitation tomorrow.',
+    'going-to-wear-dress': 'I am going to wear a white dress — I have already chosen it.',
+    'think-will-be-perfect': 'I think everything will be perfect!',
+    'reading-london': 'Next week I am flying to London — that is already arranged. When I arrive, I will call you and we will meet. I am going to visit the British Museum — I have already bought the ticket. Maybe I will see a show in the West End too. On Saturday I am having dinner with my cousin — we booked the restaurant last week. I think the trip will be great!',
+    'dialogue-wedding': 'Hi Anna! I am calling about our plans. Next Saturday I am getting married — it is already arranged! I will send you the invitation tomorrow. I am going to wear a white dress — I have already chosen it. Maybe I will have a party the day after too. I think everything will be perfect!',
+    'practice-four': 'I am meeting John tomorrow. I am going to visit the museum. I will call you when I arrive. Look! It is going to rain.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
