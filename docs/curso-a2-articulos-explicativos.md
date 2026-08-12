@@ -108,7 +108,13 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 47 | Health & Body | *have a headache*, *should*, *pharmacy* | ✅ | [Health & Body A2](/blog/curso-a2/unidad-47-health-body) |
 | 48 | Clothes & Fashion | *wear*, *too* vs *enough*, *outfit* | ✅ | [Clothes & Fashion A2](/blog/curso-a2/unidad-48-clothes-fashion) |
 | 49 | People & Relationships | *look like*, *be like*, personalidad | ✅ | [People & Relationships A2](/blog/curso-a2/unidad-49-people-relationships) |
-| 50 | Module 5 Review | repaso Módulo 5 (U41–U49) | ❌ | — |
+| 50 | Module 5 Review | repaso Módulo 5 (U41–U49) | ✅ | [Module 5 Review A2](/blog/curso-a2/unidad-50-module-5-review) |
+
+### Módulo 6 (U51–60)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 51 | Making Suggestions | *Shall we…?*, *Let's…*, *Would you like to…?* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 

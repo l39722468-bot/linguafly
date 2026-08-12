@@ -661,6 +661,17 @@ const CLIPS_BY_UNIT = {
     'dialogue-colleague': 'Have you met the new colleague? Yes. What\'s he like? He\'s hard-working and honest. A bit shy at first. What does he look like? Tall, short hair. He looks like my cousin, actually. How long have you known him? Only for two weeks — but we already get on well.',
     'practice-four': 'She looks like her sister. What\'s he like? I\'ve known her for five years. He\'s more friendly than his brother.',
   },
+  50: {
+    'by-train': 'I go by train.',
+    'book-a-room': 'I\'d like to book a double room.',
+    'whats-the-weather-like': 'What\'s the weather like?',
+    'im-looking-for': 'I\'m looking for a jacket.',
+    'you-should-rest': 'You should rest.',
+    'whats-she-like': 'What\'s she like?',
+    'reading-lisbon': 'Last Friday we took the train to Lisbon and checked in at a small hotel. On Saturday it was sunny, so we went sightseeing. In the evening we watched a film — I prefer comedies to dramas. On Sunday I bought a scarf: How much is it? Twelve euros. Later I had a headache, so my friend said: You should rest. Our neighbour in the hotel was friendly. I\'ve known my travel partner for ten years — we always get on well.',
+    'dialogue-plan': 'What\'s the weather like today? It\'s going to be hot. Put on a hat. Shall we go by bus to the museum? Yes. Then I\'d like to watch a documentary. OK — but first I\'m looking for sunscreen at the pharmacy. Good idea. If you feel sick, you should drink water.',
+    'practice-four': 'I go by train. It\'s going to rain. I\'m looking for a bag. What\'s she like?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
