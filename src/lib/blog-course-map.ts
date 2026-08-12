@@ -881,24 +881,42 @@ function loadAllUnitTitles(): Map<string, string> {
   if (unitTitleCache) return unitTitleCache;
 
   const map = new Map<string, string>();
-  const courseDir = path.join(process.cwd(), 'src/lib/course');
 
-  if (!fs.existsSync(courseDir)) {
-    unitTitleCache = map;
-    return map;
+  // Preferir JSON exportado (assets CF); fallback a .ts en disco (dev/build local).
+  const courseDataDir = path.join(process.cwd(), 'public/course-data');
+  if (fs.existsSync(courseDataDir)) {
+    for (const courseId of fs.readdirSync(courseDataDir)) {
+      const dir = path.join(courseDataDir, courseId);
+      if (!fs.statSync(dir).isDirectory()) continue;
+      for (const file of fs.readdirSync(dir)) {
+        const match = file.match(/^unit-(\d+)\.json$/);
+        if (!match) continue;
+        try {
+          const data = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8')) as { title?: string };
+          if (data.title) map.set(`${courseId}:${match[1]}`, cleanUnitTitle(data.title));
+        } catch {
+          // ignore bad json
+        }
+      }
+    }
   }
 
-  for (const courseId of fs.readdirSync(courseDir)) {
-    const dir = path.join(courseDir, courseId);
-    if (!fs.statSync(dir).isDirectory()) continue;
+  const courseDir = path.join(process.cwd(), 'src/lib/course');
+  if (fs.existsSync(courseDir)) {
+    for (const courseId of fs.readdirSync(courseDir)) {
+      const dir = path.join(courseDir, courseId);
+      if (!fs.statSync(dir).isDirectory()) continue;
 
-    for (const file of fs.readdirSync(dir)) {
-      const match = file.match(/^unit-(\d+)\.ts$/);
-      if (!match) continue;
-      const content = fs.readFileSync(path.join(dir, file), 'utf8');
-      const titleMatch = content.match(/export const UNIT_TITLE\s*=\s*['`](.+?)['`]/);
-      if (titleMatch) {
-        map.set(`${courseId}:${match[1]}`, cleanUnitTitle(titleMatch[1]));
+      for (const file of fs.readdirSync(dir)) {
+        const match = file.match(/^unit-(\d+)\.ts$/);
+        if (!match) continue;
+        const key = `${courseId}:${match[1]}`;
+        if (map.has(key)) continue;
+        const content = fs.readFileSync(path.join(dir, file), 'utf8');
+        const titleMatch = content.match(/export const UNIT_TITLE\s*=\s*['`](.+?)['`]/);
+        if (titleMatch) {
+          map.set(key, cleanUnitTitle(titleMatch[1]));
+        }
       }
     }
   }
