@@ -643,6 +643,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-pharmacy': 'Hello. How can I help you? I have a headache and a sore throat. Do you have a fever? A little. I also feel tired. You should rest and drink water. Take this medicine every eight hours. Thanks. Should I see a doctor? If you feel worse tomorrow, yes.',
     'practice-four': 'I have a headache. I feel sick. You should rest. Go to the pharmacy.',
   },
+  48: {
+    'im-wearing-jeans': 'I\'m wearing jeans.',
+    'put-on-your-coat': 'Put on your coat.',
+    'take-off-your-shoes': 'Take off your shoes.',
+    'too-small': 'This shirt is too small.',
+    'reading-dress-code': 'For the office, wear a smart or formal outfit: a shirt, dark trousers and clean shoes. Avoid casual clothes like old jeans or trainers. If it\'s cold, put on a jacket. Check that everything fits well — not too tight and not too loose. A simple bag and a belt are enough accessories.',
+    'dialogue-outfit': 'What should I wear to the party? Something smart casual. Not too formal. Are these jeans OK? Yes — but that shirt is too bright. Try the blue one. Is this jacket warm enough? Perfect. Put on those black shoes and you\'re ready.',
+    'practice-four': 'I\'m wearing a red jumper. Put on your coat. These shoes are too small. Is this scarf warm enough?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
