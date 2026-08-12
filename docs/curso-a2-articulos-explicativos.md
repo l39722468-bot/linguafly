@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-12 (artículos U1–U34; Módulo 4 en curso)  
+**Última actualización:** 2026-08-12 (artículos U1–U35; Módulo 4 en curso)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 34 |
-| Artículos dedicados pendientes | 26 |
+| Artículos dedicados publicados | 35 |
+| Artículos dedicados pendientes | 25 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -88,7 +88,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 32 | Phrasal Verbs: Separable | *pick up*, *put on*, *take off*… | ✅ | [Phrasal verbs separables A2](/blog/curso-a2/unidad-32-phrasal-verbs-separables) |
 | 33 | Gerunds & Infinitives | *like -ing* / *want to* / *would like to* | ✅ | [Gerundios e infinitivos A2](/blog/curso-a2/unidad-33-gerunds-infinitives) |
 | 34 | Subject & Object Questions | *Who called you?* / *Who did you call?* | ✅ | [Subject & Object Questions A2](/blog/curso-a2/unidad-34-subject-object-questions) |
-| 35 | Some, Any, Much, Many (revisión) | *some/any*, *much/many* | ❌ | — |
+| 35 | Some, Any, Much, Many (revisión) | *some/any*, *much/many*, *a lot of* | ✅ | [Some, any, much, many A2](/blog/curso-a2/unidad-35-some-any-much-many) |
+| 36 | Articles: A/An, The, No Article | *a/an*, *the*, ø | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 

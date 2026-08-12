@@ -463,6 +463,10 @@ La **Unidad 35** revisa **some, any, much, many** (y cantidades A2).
 
 En la **Unidad 35** verás **Some, Any, Much, Many (revisión)**.
 
+Guía blog:
+
+- [Unidad 35 — Some, any, much, many](/blog/curso-a2/unidad-35-some-any-much-many)
+
 Curso:
 
 - [Unidad 35 — Some, Any, Much, Many](/curso-a2/unit-35)

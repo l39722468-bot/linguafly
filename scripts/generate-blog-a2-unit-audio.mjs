@@ -509,6 +509,18 @@ const CLIPS_BY_UNIT = {
     'dialogue-interview': 'Who lives in that flat? My cousin. Who did you visit last weekend? My cousin! What happened there? Nothing special — but what did you eat? Homemade pizza. Who made it? My cousin\'s partner.',
     'practice-four': 'Who called you? Who did you call? What happened? What did you see?',
   },
+  35: {
+    'some-bread': 'I have some bread.',
+    'any-milk': 'Do you have any milk?',
+    'some-tea-offer': 'Would you like some tea?',
+    'how-many-apples': 'How many apples do you need?',
+    'how-much-water': 'How much water do you drink?',
+    'a-lot-of-friends': 'I have a lot of friends.',
+    'a-few-a-little': 'I have a few apples and a little cheese.',
+    'reading-shopping': 'We need some bread and some eggs. We don\'t have any milk. How much cheese do we need? Just a little. How many tomatoes? A few — maybe four. There\'s a lot of rice already, so we don\'t need any more.',
+    'dialogue-shop': 'Do you have any fresh bread? Yes — we have some. How much do you want? Just one loaf. And how many oranges are in a bag? Six. Would you like some apples too? Yes, please — a few.',
+    'practice-four': 'I have some bread. I don\'t have any milk. How many eggs? How much water?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
