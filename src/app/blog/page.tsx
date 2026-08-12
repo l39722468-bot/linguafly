@@ -108,6 +108,12 @@ export default function BlogPage() {
       description: "Artículos explicativos del curso A2, unidad a unidad.",
       icon: "📘",
       color: "from-sky-600 to-indigo-700"
+    },
+    "curso-b1": {
+      name: "Curso B1: Guías por Unidad",
+      description: "Artículos explicativos del curso B1, unidad a unidad.",
+      icon: "📙",
+      color: "from-amber-600 to-orange-700"
     }
   };
 
@@ -123,6 +129,7 @@ export default function BlogPage() {
     habilidades: "Habilidades (speaking, listening…)",
     "curso-a1": "Curso A1",
     "curso-a2": "Curso A2",
+    "curso-b1": "Curso B1",
   };
 
   const searchCategoryOptions = Array.from(

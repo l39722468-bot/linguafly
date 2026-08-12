@@ -134,7 +134,7 @@ function readArticlesFromMarkdown(): BlogPost[] {
 function prioritizeRecentCourseArticles(articles: BlogPost[]): BlogPost[] {
   try {
     const RECENT_DAYS = 14;
-    const priorityCats = new Set(["curso-a1", "curso-a2"]);
+    const priorityCats = new Set(["curso-a1", "curso-a2", "curso-b1"]);
     const now = Date.now();
     const recentThreshold = now - RECENT_DAYS * 24 * 60 * 60 * 1000;
 

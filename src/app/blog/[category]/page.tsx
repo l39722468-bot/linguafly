@@ -81,6 +81,12 @@ const categoryMetadata: Record<string, { name: string, description: string, icon
     description: "Artículos explicativos del curso A2: Past Simple, Present Perfect, comparativos, preposiciones y más, unidad a unidad.",
     icon: "📘",
     color: "from-sky-600 to-indigo-700"
+  },
+  "curso-b1": {
+    name: "Curso de Inglés B1: Guías por Unidad",
+    description: "Artículos explicativos del curso B1: Present Perfect Continuous, Past Perfect, condicionales, pasiva y más, unidad a unidad.",
+    icon: "📙",
+    color: "from-amber-600 to-orange-700"
   }
 };
 
@@ -110,7 +116,9 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
           ? ['inglés viajes', 'inglés turismo']
           : category === 'examenes'
             ? ['exámenes inglés', 'Cambridge', 'IELTS', 'TOEFL']
-            : category === 'curso-a2'
+            : category === 'curso-b1'
+              ? ['curso inglés B1', 'Present Perfect Continuous B1', 'guías curso B1', 'Cambridge PET']
+              : category === 'curso-a2'
               ? ['curso inglés A2', 'Present Perfect A2', 'Past Simple A2', 'guías curso A2']
               : category === 'curso-a1'
                 ? ['curso inglés A1', 'guías curso A1', 'inglés principiante']

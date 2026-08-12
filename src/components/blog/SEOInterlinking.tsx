@@ -16,6 +16,7 @@ export function SEOInterlinking({ relatedRoute, category }: SEOInterlinkingProps
     "material-estudio": "aprender-ingles",
     "curso-a1": "ingles-a1",
     "curso-a2": "ingles-a2",
+    "curso-b1": "ingles-b1",
   };
 
   const finalRoute = relatedRoute || (category ? routeMap[category] : "aprender-ingles") || "aprender-ingles";
@@ -60,13 +61,17 @@ export function SEOInterlinking({ relatedRoute, category }: SEOInterlinkingProps
   const routeName = routeNameMap[finalRoute] || "nuestros cursos especializados";
 
   const courseSeriesHref =
-    category === "curso-a2"
+    category === "curso-b1"
+      ? "/blog/curso-b1"
+      : category === "curso-a2"
       ? "/blog/curso-a2"
       : category === "curso-a1"
         ? "/blog/curso-a1"
         : null;
   const coursePracticeHref =
-    category === "curso-a2"
+    category === "curso-b1"
+      ? "/curso-b1"
+      : category === "curso-a2"
       ? "/curso-a2"
       : category === "curso-a1"
         ? "/curso-a1"
