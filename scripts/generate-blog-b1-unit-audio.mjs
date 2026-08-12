@@ -74,6 +74,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-travel': 'Have you ever been to Paris? Yes — I went last month. Have you booked your flight to Tokyo yet? Yes, I have already booked it. I have just received the photos from Paris too.',
     'practice-four': 'I went to Paris yesterday. She has never been to Japan. I have just finished my homework. Have you ever been to Italy?',
   },
+  5: {
+    'has-been-studying': 'She has been studying for two hours.',
+    'had-finished': 'He had finished his homework before I arrived.',
+    'went-yesterday': 'I went to Paris yesterday.',
+    'have-been-living': 'They have been living in London since January.',
+    'film-had-started': 'By the time we arrived, the film had already started.',
+    'has-never-been': 'She has never been to Japan.',
+    'have-just-finished': 'I have just finished my report.',
+    'train-had-left': 'When she got to the station, the train had already left.',
+    'have-read-three': 'I have read three books this year.',
+    'have-been-crying': 'Your eyes are red. You have been crying.',
+    'reading-laura': 'My name is Laura and I have been working as a teacher for five years. Last year I decided to travel to Japan. I had never been to Asia before that trip. When I arrived at the airport, my flight had already left because I was delayed. I have just booked another trip for next summer. I am very excited and confident this time everything will go well.',
+    'dialogue-review': 'How long have you been working as a teacher? For five years. Had you been to Asia before Japan? No — I had never been there. Have you booked another trip yet? Yes — I have just booked one for next summer.',
+    'practice-four': 'She has been studying for two hours. He had finished before I arrived. I went to Paris yesterday. She has never been to Japan.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
