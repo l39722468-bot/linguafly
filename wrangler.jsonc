@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  // Nombre del Worker en el dashboard de Cloudflare (sin guion).
-  "name": "linguaflyapp",
+  // Debe coincidir con el Worker de Workers Builds (CI). Ahora: linguaflyapp1.
+  "name": "linguaflyapp1",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-08-12",
   "compatibility_flags": [
@@ -16,7 +16,8 @@
   "services": [
     {
       "binding": "WORKER_SELF_REFERENCE",
-      "service": "linguaflyapp"
+      // Self-reference: mismo nombre que "name" arriba.
+      "service": "linguaflyapp1"
     }
   ],
   "images": {

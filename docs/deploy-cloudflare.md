@@ -6,13 +6,13 @@
 **CI principal:** Cloudflare **Workers Builds** (repo GitHub conectado)  
 **CI manual de respaldo:** `.github/workflows/deploy-cloudflare.yml` (`workflow_dispatch`)
 
-Worker name en `wrangler.jsonc`: **`linguaflyapp`** (debe coincidir con el Worker del dashboard; sin guion)
+Worker name en `wrangler.jsonc`: **`linguaflyapp1`** (debe coincidir con el Worker del dashboard / Workers Builds)
 
 ---
 
 ## Checklist del Worker en el Dashboard
 
-En **Workers & Pages → linguaflyapp → Settings → Builds**:
+En **Workers & Pages → linguaflyapp1 → Settings → Builds**:
 
 | Campo | Valor recomendado |
 |---|---|
@@ -76,7 +76,9 @@ En `wrangler.jsonc` ya están:
 - assets `.open-next/assets`
 - binding `IMAGES`
 
-El `"name"` del Worker y el service binding `WORKER_SELF_REFERENCE` deben ser **`linguaflyapp`**.
+El `"name"` del Worker y el service binding `WORKER_SELF_REFERENCE` deben ser **`linguaflyapp1`**.
+
+> Si el dominio `linguafly.app` sigue en un Worker antiguo (`linguaflyapp`), muévelo a **Custom Domains** de `linguaflyapp1` (o reconecta Builds al Worker que tenga el dominio).
 
 ---
 
