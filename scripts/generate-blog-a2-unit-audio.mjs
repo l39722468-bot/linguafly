@@ -731,6 +731,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-lunch': 'What do you do? I work as a designer. I work in an advertising company. Do you have to go to many meetings? Yes — almost every day. And you? I study at university. I have an exam on Monday. Good luck!',
     'practice-four': 'I work as a nurse. I study at university. I have to finish this today. We have a meeting at ten.',
   },
+  58: {
+    'there-is-a-museum': 'There is a museum in the centre.',
+    'there-are-two-parks': 'There are two parks near here.',
+    'located-in': 'The library is located in the city centre.',
+    'tallest-building': 'It\'s the tallest building in the city.',
+    'reading-guide': 'Welcome to Riverton. There is a beautiful main square in the centre. The art museum is located next to the square, and there are two cafés opposite it. The library is the oldest building in town. The football stadium is in the south. The hospital is near the station — easy to find.',
+    'dialogue-tourist': 'Excuse me. Is there a library near here? Yes. It\'s located in Green Street, opposite the museum. And are there any good cafés? There are three in the main square. Perfect. Is the stadium far? No — it\'s the biggest building in the south.',
+    'practice-four': 'There is a museum in the centre. There are two parks near here. The library is located in the city centre. It\'s the tallest building in the city.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

@@ -121,7 +121,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 55 | The Environment | *recycle*, *save*, *should* | ✅ | [The Environment A2](/blog/curso-a2/unidad-55-the-environment) |
 | 56 | Technology & Communication | *email*, *download*, *app*, *WiFi* | ✅ | [Technology & Communication A2](/blog/curso-a2/unidad-56-technology-communication) |
 | 57 | Work & Education | *work as*, *study at*, *deadline* | ✅ | [Work & Education A2](/blog/curso-a2/unidad-57-work-education) |
-| 58 | Places & Buildings | *There is/are*, *located in*, *museum* | ❌ | — |
+| 58 | Places & Buildings | *There is/are*, *located in*, *museum* | ✅ | [Places & Buildings A2](/blog/curso-a2/unidad-58-places-buildings) |
+| 59 | Linking Words | *and*, *but*, *because*, *so*, *although* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
