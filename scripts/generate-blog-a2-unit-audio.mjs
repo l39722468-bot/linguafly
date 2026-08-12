@@ -533,6 +533,17 @@ const CLIPS_BY_UNIT = {
     'dialogue-plans': 'Is there a supermarket near here? Yes — the supermarket opposite the bank. Great. I need an umbrella too. There\'s a shop on High Street. After that, do you want to go to the cinema? Yes. I love films.',
     'practice-four': 'I saw a dog. The dog was small. I like music. I live in Spain.',
   },
+  37: {
+    'i-like-coffee': 'I like coffee.',
+    'id-like-a-coffee': 'I\'d like a coffee, please.',
+    'i-like-swimming': 'I like swimming.',
+    'id-like-to-order': 'I\'d like to order the soup.',
+    'would-you-like-water': 'Would you like some water?',
+    'would-you-like-to-come': 'Would you like to come to my party?',
+    'reading-cafe': 'Ana likes quiet places. Today she would like a hot chocolate. Leo likes strong coffee, but today he\'d like a tea because it\'s late. The waiter asks: Would you like some cake? Ana says yes — she\'d like a piece of cheesecake. Leo doesn\'t like sweet desserts, so he says no, thank you.',
+    'dialogue-ordering': 'Good evening. Would you like a table for two? Yes, please. Are you ready to order? I\'d like the tomato soup, please. I\'d like to have the pasta. Would you like something to drink? Two waters, please. And I\'d like the bill later — not now.',
+    'practice-four': 'I like coffee. I\'d like a coffee, please. Would you like some cake? Do you like spicy food?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
