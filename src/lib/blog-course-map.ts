@@ -570,6 +570,9 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-37-would-like-vs-like': [
     { courseId: 'a2', unitNumber: 37 },
   ],
+  'unidad-38-should-ought-to': [
+    { courseId: 'a2', unitNumber: 38 },
+  ],
   'unidad-2-to-be-pronombres-nacionalidades': [
     { courseId: 'a1', unitNumber: 2 },
     { courseId: 'a1', unitNumber: 3 },

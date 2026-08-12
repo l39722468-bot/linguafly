@@ -544,6 +544,17 @@ const CLIPS_BY_UNIT = {
     'dialogue-ordering': 'Good evening. Would you like a table for two? Yes, please. Are you ready to order? I\'d like the tomato soup, please. I\'d like to have the pasta. Would you like something to drink? Two waters, please. And I\'d like the bill later — not now.',
     'practice-four': 'I like coffee. I\'d like a coffee, please. Would you like some cake? Do you like spicy food?',
   },
+  38: {
+    'you-should-sleep': 'You should sleep more.',
+    'you-ought-to-see': 'You ought to see a doctor.',
+    'you-shouldnt-worry': 'You shouldn\'t worry.',
+    'should-i-call': 'Should I call her?',
+    'you-ought-to-practise': 'You ought to practise every day.',
+    'what-should-i-do': 'What should I do?',
+    'reading-exam': 'Maria has an English exam next week. Her teacher says she should sleep well the night before. She shouldn\'t study all night. She ought to practise listening with short videos. Her friend Tom says: You should arrive early. You shouldn\'t forget your ID. Maria feels nervous, but she knows what to do.',
+    'dialogue-doctor': 'How do you feel? Tired. I work a lot. You should sleep seven or eight hours. You shouldn\'t drink so much coffee. Should I take medicine? Not yet. You ought to rest this weekend and drink water.',
+    'practice-four': 'You should sleep more. You shouldn\'t eat so much sugar. You ought to see a doctor. Should I call my teacher?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
