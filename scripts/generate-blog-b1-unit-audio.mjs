@@ -45,6 +45,20 @@ const CLIPS_BY_UNIT = {
     'dialogue-study': 'How long have you been studying English? For five years. Have you been attending classes this term? Yes — since September. I have also been working on my pronunciation. That\'s great. Have you passed any exams? Yes — I passed two last term.',
     'practice-four': 'She has been studying for two hours. I have been learning English for three years. How long have you been studying here? She has written ten emails today.',
   },
+  3: {
+    'had-finished': 'He had finished his homework before I arrived.',
+    'had-never-been': 'She had never been to Paris before last year.',
+    'film-had-started': 'By the time we arrived, the film had already started.',
+    'had-forgotten-keys': 'I had forgotten my keys at home so I couldn\'t get in.',
+    'train-had-left': 'When she got to the station, the train had already left.',
+    'had-already-eaten': 'I had already eaten when she invited me to dinner.',
+    'had-been-twice': 'She had been to London twice before she moved there.',
+    'had-studied-hard': 'She had studied hard so she passed the exam.',
+    'after-graduated': 'After he had graduated, he found a job.',
+    'reading-japan': 'Last year I had the best trip of my life. Before I left, I had never been to Asia. I had saved money for two years and I had always dreamed of visiting Japan. When I arrived in Tokyo, I couldn\'t believe it because I had never seen such a beautiful city. By the time I left, I had visited many temples and had tried real Japanese food. That trip was a turning point in my life because I had always been afraid of travelling alone. Now I know I can overcome any challenge.',
+    'dialogue-trip': 'Had you been to Asia before that trip? No — I had never been there. How long had you saved money? For two years. By the time you left, what had you done? I had visited many temples and tried real Japanese food.',
+    'practice-four': 'He had finished his homework before I arrived. By the time we arrived, the film had already started. When she got to the station, the train had already left. After he had graduated, he found a job.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
