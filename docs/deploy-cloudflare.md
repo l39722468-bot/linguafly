@@ -21,21 +21,23 @@ En **Workers & Pages → linguafly-app → Settings → Builds**:
 | **Build command** | `npm run cf:build` |
 | **Deploy command** | `npm run cf:deploy` |
 | Non-production deploy | `npm run cf:upload` |
-| Node version | `22` (o ≥ 20.9) |
+| Node version | **`22`** (obligatorio: wrangler 4.x exige ≥22) |
+
+> **Obligatorio Node 22.** Con Node 20.9 el build muere al instante:
+> `ERR_IMPORT_ASSERTION_TYPE_MISSING` al importar `wrangler/package.json`.
+> El builder lee `.nvmrc` / `.node-version` (ambos en `22`) o la variable `NODE_VERSION`.
 
 > **No uses** `npx opennextjs-cloudflare …`  
-> Ese nombre en npm es un paquete stub vacío (“For Security Holding Purposes”) **sin CLI**.  
-> Si el builder no encuentra el binario local, el build falla con  
-> `Failed: error occurred while running build command`.  
-> Usa siempre `npm run cf:*` o, como alternativa oficial, `npx @opennextjs/cloudflare build|deploy`.
+> Ese nombre en npm es un paquete stub vacío. Usa `npm run cf:*` o
+> `npx @opennextjs/cloudflare build|deploy`.
 
 ### Build variables / secrets (panel)
 
 **Obligatorias / recomendadas**
+- `NODE_VERSION` = `22` ← **sin esto (o sin `.node-version` 22) el build falla**
 - `NEXT_PUBLIC_SITE_URL` = `https://linguafly.app`
 - `NODE_OPTIONS` = `--max-old-space-size=6144` (el build es pesado; también va en `cf:build`)
 - `CI` = `true`
-- `NODE_VERSION` = `22` (si el panel lo respeta)
 
 **Si usas estas features en runtime**
 - `OPENAI_API_KEY`
@@ -101,7 +103,7 @@ Reapuntar DNS a Vercel o desactivar el custom domain del Worker.
 4. Si sigue en rojo: abre el build → **View build log** → copia las **últimas 30–40 líneas**.
 
 Causas frecuentes:
-- Comando `npx opennextjs-cloudflare` (stub npm sin ejecutable)
+- **Node 20.x** → `ERR_IMPORT_ASSERTION_TYPE_MISSING` / wrangler exige ≥22 (fijar `NODE_VERSION=22`)
+- Comando `npx opennextjs-cloudflare` (stub npm; preferir `npm run cf:build`)
 - OOM sin `NODE_OPTIONS=--max-old-space-size=6144`
 - Build command = `npm run build` (solo Next, no OpenNext → falla el deploy después)
-- Node < 20.9
