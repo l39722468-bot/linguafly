@@ -1,24 +1,17 @@
 # Deploy Linguafly a Cloudflare Workers (OpenNext)
-# Requiere secrets del repo:
+#
+# Por defecto el deploy en push lo hace Cloudflare Workers Builds
+# (Worker conectado al repo). Este workflow queda solo manual
+# (workflow_dispatch) por si hace falta un redeploy desde GitHub Actions.
+#
+# Secrets opcionales (solo si usas este workflow):
 #   CLOUDFLARE_API_TOKEN
 #   CLOUDFLARE_ACCOUNT_ID
-#
-# Build command produce `.open-next/` y wrangler sube el Worker `linguafly`.
 
 name: Deploy Cloudflare Workers
 
 on:
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths-ignore:
-      - '**.md'
-      - 'docs/**'
-      - 'mobile/**'
-      - 'scripts/**'
-      - '.github/workflows/translate-articles.yml'
-      - '.github/workflows/indexnow.yml'
-      - '.github/workflows/generate-podcast-audio.yml'
 
 concurrency:
   group: cloudflare-deploy-${{ github.ref }}
