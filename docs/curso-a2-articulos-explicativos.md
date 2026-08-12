@@ -92,7 +92,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 36 | Articles: A/An, The, No Article | *a/an*, *the*, ø | ✅ | [Artículos A2](/blog/curso-a2/unidad-36-articles-a-an-the) |
 | 37 | Would like vs Like | *I'd like* vs *I like* | ✅ | [Would like vs Like A2](/blog/curso-a2/unidad-37-would-like-vs-like) |
 | 38 | Should / Ought to | *should*, *shouldn't*, *ought to* | ✅ | [Should / Ought to A2](/blog/curso-a2/unidad-38-should-ought-to) |
-| 39 | Adverbial Phrases | *at the moment*, *once a week*… | ❌ | — |
+| 39 | Adverbial Phrases | *at the moment*, *once a week*… | ✅ | [Adverbial Phrases A2](/blog/curso-a2/unidad-39-adverbial-phrases) |
+| 40 | Module 4 Review | repaso Módulo 4 | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 

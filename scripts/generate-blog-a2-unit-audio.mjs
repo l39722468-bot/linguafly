@@ -555,6 +555,17 @@ const CLIPS_BY_UNIT = {
     'dialogue-doctor': 'How do you feel? Tired. I work a lot. You should sleep seven or eight hours. You shouldn\'t drink so much coffee. Should I take medicine? Not yet. You ought to rest this weekend and drink water.',
     'practice-four': 'You should sleep more. You shouldn\'t eat so much sugar. You ought to see a doctor. Should I call my teacher?',
   },
+  39: {
+    'in-the-morning': 'I study in the morning.',
+    'once-a-week': 'We meet once a week.',
+    'at-the-moment': 'I\'m busy at the moment.',
+    'at-home': 'I stay at home on Sundays.',
+    'every-day': 'I practise every day.',
+    'place-before-time': 'I study at home in the evening.',
+    'reading-week': 'Leo wakes up early in the morning. He has breakfast at home and then goes to class. At the moment, he is preparing for an English exam, so he reviews vocabulary every day. He meets his friends in the park once a week. At weekends, he stays at home in the evening and watches films.',
+    'dialogue-plans': 'Are you free at the weekend? In the morning, yes. In the afternoon, I work. OK. Let\'s meet in the café on Saturday morning. Perfect. I go there once a week anyway. Great. I\'m busy at the moment, but I\'ll message you later at night.',
+    'practice-four': 'I study in the morning. I\'m busy at the moment. We meet once a week. She works at home on Mondays.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
