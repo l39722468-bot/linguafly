@@ -625,6 +625,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-recommend': 'Have you seen that new series? Not yet. Is it good? Yes — I love watching crime dramas. I prefer films, but this series is brilliant. Do you want to watch episode one tonight? Sure!',
     'practice-four': 'I watch films. I listen to music. I like reading. I prefer documentaries.',
   },
+  46: {
+    'can-i-help-you': 'Can I help you?',
+    'im-looking-for': 'I\'m looking for a blue jacket.',
+    'how-much-is-it': 'How much is it?',
+    'its-cheaper': 'This one is cheaper.',
+    'reading-policy': 'Our department store is open every day from ten a.m. to nine p.m. You can pay at the checkout by card or cash. If you need a refund or an exchange, bring your receipt within fourteen days. Clothes must have the label. We\'re happy to help — just ask at customer service.',
+    'dialogue-shop': 'Good morning. Can I help you? Yes. I\'m looking for a jacket. What size? Medium. How much is this one? It\'s fifty-nine euros. That grey one is cheaper — forty-five euros. I\'ll take the grey one, please. Perfect. The checkout is over there.',
+    'practice-four': 'Can I help you? I\'m looking for a bag. How much is it? I\'d like a refund, please.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
