@@ -672,6 +672,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-plan': 'What\'s the weather like today? It\'s going to be hot. Put on a hat. Shall we go by bus to the museum? Yes. Then I\'d like to watch a documentary. OK — but first I\'m looking for sunscreen at the pharmacy. Good idea. If you feel sick, you should drink water.',
     'practice-four': 'I go by train. It\'s going to rain. I\'m looking for a bag. What\'s she like?',
   },
+  51: {
+    'shall-we-go': 'Shall we go to the park?',
+    'lets-have-lunch': 'Let\'s have lunch.',
+    'how-about-meeting': 'How about meeting at six?',
+    'would-you-like-to': 'Would you like to come with us?',
+    'reading-weekend': 'Shall we do something this weekend? Let\'s go to the beach on Saturday if the weather is good. Why don\'t we take the train at nine? How about inviting Lara too? Would you like to bring some sandwiches? If it rains, let\'s stay in and watch a series instead.',
+    'dialogue-plans': 'Shall we go to the cinema tonight? I\'d love to, but I finish work late. How about tomorrow? Good idea. Would you like to meet at seven? Sure. Let\'s have a coffee first. Perfect.',
+    'practice-four': 'Shall we go for a walk? Let\'s have pizza. How about meeting at six? Would you like to come?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

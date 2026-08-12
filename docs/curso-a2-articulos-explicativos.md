@@ -114,7 +114,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 51 | Making Suggestions | *Shall we…?*, *Let's…*, *Would you like to…?* | ❌ | — |
+| 51 | Making Suggestions | *Shall we…?*, *Let's…*, *Would you like to…?* | ✅ | [Making Suggestions A2](/blog/curso-a2/unidad-51-making-suggestions) |
+| 52 | Making Offers & Requests | *Can I…?*, *Could you…?*, *Would you like me to…?* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
