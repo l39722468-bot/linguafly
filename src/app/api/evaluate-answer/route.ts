@@ -8,7 +8,6 @@ function getOpenAI() {
   });
 }
 
-export const runtime = 'edge';
 export const maxDuration = 30;
 
 interface EvaluateRequest {

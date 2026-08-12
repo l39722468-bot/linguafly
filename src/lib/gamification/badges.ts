@@ -1,10 +1,4 @@
 import { Badge, BadgeCategory } from './types';
-import { supabase } from '@/lib/supabase-client';
-import { certificationService } from '@/lib/services/certification-service';
-
-function isMissingTableError(error: any): boolean {
-  return error?.code === 'PGRST205' || error?.code === '42P01';
-}
 
 /**
  * BADGE DEFINITIONS
@@ -307,50 +301,31 @@ export const BADGE_DEFINITIONS: Record<string, Badge> = BADGES.reduce((acc, badg
 }, {} as Record<string, Badge>);
 
 /**
- * Check user progress and award new badges
- * Returns array of newly awarded badges
+ * Check user progress and award new badges (localStorage)
  */
 export async function checkAndAwardBadges(userId: string): Promise<Badge[]> {
-  if (!supabase || !userId || userId === 'anonymous') return [];
+  if (!userId || userId === 'anonymous') return [];
 
   try {
-    // 1. Fetch user's current badges
-    const { data: earnedBadges, error: badgesError } = await supabase
-      .from('user_badges')
-      .select('badge_id')
-      .eq('user_id', userId);
+    const badgesKey = `focus_badges:${userId}`;
+    const earnedRaw = typeof window !== 'undefined' ? localStorage.getItem(badgesKey) : null;
+    const earnedList: string[] = earnedRaw ? JSON.parse(earnedRaw) : [];
+    const earnedBadgeIds = new Set(earnedList);
 
-    if (badgesError) throw badgesError;
-    const earnedBadgeIds = new Set(earnedBadges.map(b => b.badge_id));
-
-    // 2. Fetch user stats for requirement checking
-    // Fetch XP
-    const { data: xpData } = await supabase
-      .from('user_xp')
-      .select('total_xp')
-      .eq('user_id', userId)
-      .single();
-    
-    // Fetch Streaks
-    const { data: streakData } = await supabase
-      .from('user_streaks')
-      .select('current_streak, longest_streak')
-      .eq('user_id', userId)
-      .single();
-
-    // Fetch Completed Interactions count
-    const { count: interactionsCount, error: interactionsError } = await supabase
-      .from('user_interaction_progress')
-      .select('*', { count: 'exact', head: true })
-      .eq('user_id', userId);
-
-    if (interactionsError && !isMissingTableError(interactionsError)) {
-      console.error('Error fetching interaction progress count:', interactionsError);
-    }
+    const xp = typeof window !== 'undefined'
+      ? Number(localStorage.getItem(`focus_xp:${userId}`) || 0)
+      : 0;
+    const streakRaw = typeof window !== 'undefined'
+      ? localStorage.getItem(`focus_streak:${userId}`)
+      : null;
+    const streakData = streakRaw ? JSON.parse(streakRaw) : null;
+    const progressRaw = typeof window !== 'undefined'
+      ? localStorage.getItem(`focus_interaction_progress:${userId}`)
+      : null;
+    const interactionsCount = progressRaw ? (JSON.parse(progressRaw) as string[]).length : 0;
 
     const newlyAwarded: Badge[] = [];
 
-    // 3. Check each badge
     for (const badge of BADGES) {
       if (earnedBadgeIds.has(badge.id)) continue;
 
@@ -359,61 +334,30 @@ export async function checkAndAwardBadges(userId: string): Promise<Badge[]> {
 
       switch (requirement.type) {
         case 'total-xp':
-          isEligible = (xpData?.total_xp || 0) >= requirement.target;
+          isEligible = xp >= requirement.target;
           break;
-        
         case 'streak-days':
           isEligible = (streakData?.longest_streak || 0) >= requirement.target;
           break;
-
         case 'lesson-count':
-          // Approximating lesson count with interaction count (or we could fetch unique lessons)
-          // For now, let's say 1 lesson = 10 interactions on average if we don't have a direct count
-          isEligible = (interactionsCount || 0) >= (requirement.target * 5); 
+          isEligible = interactionsCount >= (requirement.target * 5);
           break;
-
-        case 'specialization-complete':
-          if (requirement.goal) {
-            if (interactionsError && isMissingTableError(interactionsError)) {
-              break;
-            }
-            // Check for each level if any level is complete for this goal
-            const levels = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
-            for (const level of levels) {
-              const status = await certificationService.checkSpecializationCompletion(userId, requirement.goal, level);
-              if (status.isComplete) {
-                isEligible = true;
-                // Issue certificate automatically if specialization is complete
-                await certificationService.issueCertificate(userId, requirement.goal, level);
-                break;
-              }
-            }
-          }
+        default:
           break;
-
-        // Add other cases as needed
       }
 
       if (isEligible) {
-        // Award badge in database
-        const { error: insertError } = await supabase
-          .from('user_badges')
-          .insert({
-            user_id: userId,
-            badge_id: badge.id,
-            earned_at: new Date().toISOString()
-          });
-
-        if (!insertError) {
-          newlyAwarded.push(badge);
-          
-          // Award XP for the badge
-          if (badge.xpReward > 0) {
-            const { awardXP } = await import('./xp');
-            await awardXP(userId, badge.xpReward, 'badge-unlock', badge.id, `Unlocked badge: ${badge.name}`);
-          }
+        earnedList.push(badge.id);
+        newlyAwarded.push(badge);
+        if (badge.xpReward > 0) {
+          const { awardXP } = await import('./xp');
+          await awardXP(userId, badge.xpReward, 'badge-unlock', badge.id, `Unlocked badge: ${badge.name}`);
         }
       }
+    }
+
+    if (typeof window !== 'undefined') {
+      localStorage.setItem(badgesKey, JSON.stringify(earnedList));
     }
 
     return newlyAwarded;

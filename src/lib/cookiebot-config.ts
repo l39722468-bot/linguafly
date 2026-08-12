@@ -4,6 +4,8 @@ export const COOKIEBOT_ID =
   process.env.NEXT_PUBLIC_COOKIEBOT_ID || '474b1dce-7229-40d3-88c2-a2323b9a57f9';
 
 const DEFAULT_AUTHORIZED_HOSTS = [
+  'linguafly.app',
+  'www.linguafly.app',
   'www.focus-on-english.com',
   'focus-on-english.com',
   'localhost',

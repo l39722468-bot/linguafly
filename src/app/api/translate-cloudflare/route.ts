@@ -5,7 +5,6 @@ import {
   extractLlamaResponseText,
 } from '@/lib/ai/cloudflare-workers-llama';
 
-export const runtime = 'edge';
 export const maxDuration = 60;
 
 /**

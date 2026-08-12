@@ -1,11 +1,7 @@
 import { Navigation } from "@/components/sections/Navigation";
 import { CourseLaunchBanner } from "@/components/CourseLaunchBanner";
 import LevelTestInteractive from "@/components/test/LevelTestInteractive";
-import { createClient } from "@/lib/supabase/server";
 import type { Metadata } from "next";
-import { redirect } from "next/navigation";
-import { getUserProfileByAuthId } from "@/lib/access/user-profile";
-import { hasPlacementCompleted } from "@/lib/access/has-placement-completed";
 
 export const metadata: Metadata = {
   title: "Test de Nivel de Inglés Online Gratis | Test English A1-C2",
@@ -35,39 +31,7 @@ export const metadata: Metadata = {
   },
 };
 
-export default async function DiagnosticoPage({
-  searchParams,
-}: {
-  searchParams?: Promise<Record<string, string | string[] | undefined>>;
-}) {
-  const supabase = await createClient();
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
-
-  if (user) {
-    const resolvedSearchParams = (await searchParams) ?? {};
-    const rawSource = resolvedSearchParams.source;
-    const source = Array.isArray(rawSource) ? rawSource[0] : rawSource;
-    const profile = await getUserProfileByAuthId(supabase, user.id, "language_level,learning_goals,placement_completed_at,placement_completed");
-    const { data: userRow } = await supabase
-      .from("users")
-      .select("language_level")
-      .eq("id", user.id)
-      .maybeSingle();
-
-    if (source === "post-pago" && hasPlacementCompleted(profile, userRow?.language_level)) {
-      redirect("/mi-panel");
-    }
-  }
-
-  const authUser = user
-    ? {
-        email: user.email ?? "",
-        fullName: (user.user_metadata?.full_name as string | undefined) ?? "",
-      }
-    : null;
-
+export default async function DiagnosticoPage() {
   return (
     <>
       <Navigation />
@@ -113,7 +77,7 @@ export default async function DiagnosticoPage({
             </div>
 
             {/* Test Component */}
-            <LevelTestInteractive authUser={authUser} />
+            <LevelTestInteractive />
           </div>
         </section>
 

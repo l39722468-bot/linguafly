@@ -3,7 +3,6 @@
 import Link from 'next/link';
 import { motion, useReducedMotion } from 'framer-motion';
 import { BookOpen, Clock, Layers } from 'lucide-react';
-import { supabase } from '@/lib/supabase/client';
 
 interface CourseWelcomeScreenProps {
   courseId: string;
@@ -30,13 +29,6 @@ export default function CourseWelcomeScreen({
   const handleDismiss = () => {
     if (typeof window !== 'undefined') {
       localStorage.setItem(`course_welcome_${courseId}_shown`, 'true');
-    }
-    if (supabase && userId && userId !== 'anonymous') {
-      supabase
-        .from('user_profiles')
-        .update({ onboarding_completed: true })
-        .eq('user_id', userId)
-        .then(() => {});
     }
     onDismiss();
   };

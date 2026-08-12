@@ -1,5 +1,4 @@
 import { Streak, StreakEntry } from './types';
-import { supabase } from '@/lib/supabase-client';
 
 export type StreakData = {
   currentStreak: number;
@@ -56,27 +55,20 @@ export function hasStudiedToday(lastActivityDate: Date): boolean {
 }
 
 /**
- * Update streak with new activity (Database version)
+ * Update streak with new activity (localStorage)
  */
 export async function updateStreak(userId: string): Promise<StreakData | null> {
   try {
     const today = new Date().toISOString().split('T')[0];
-    
-    // 1. Get current streak data
-    const { data: currentData, error: fetchError } = await supabase
-      .from('user_streaks')
-      .select('*')
-      .eq('user_id', userId)
-      .single();
-
-    if (fetchError && fetchError.code !== 'PGRST116') throw fetchError;
+    const key = `focus_streak:${userId || 'guest'}`;
+    const raw = typeof window !== 'undefined' ? localStorage.getItem(key) : null;
+    const currentData = raw ? JSON.parse(raw) : null;
 
     let currentStreak = currentData?.current_streak || 0;
     let longestStreak = currentData?.longest_streak || 0;
     const lastActivity = currentData?.last_activity_date;
 
     if (lastActivity === today) {
-      // Already recorded today, no change to streak count
       return {
         currentStreak,
         longestStreak,
@@ -89,10 +81,8 @@ export async function updateStreak(userId: string): Promise<StreakData | null> {
     const yesterdayStr = yesterday.toISOString().split('T')[0];
 
     if (lastActivity === yesterdayStr) {
-      // Continuous streak
       currentStreak += 1;
     } else {
-      // Streak broken
       currentStreak = 1;
     }
 
@@ -100,18 +90,14 @@ export async function updateStreak(userId: string): Promise<StreakData | null> {
       longestStreak = currentStreak;
     }
 
-    // 2. Update database
-    const { error: updateError } = await supabase
-      .from('user_streaks')
-      .upsert({
-        user_id: userId,
-        current_streak: currentStreak,
-        longest_streak: longestStreak,
-        last_activity_date: today,
-        updated_at: new Date().toISOString()
-      });
-
-    if (updateError) throw updateError;
+    const next = {
+      user_id: userId,
+      current_streak: currentStreak,
+      longest_streak: longestStreak,
+      last_activity_date: today,
+      updated_at: new Date().toISOString()
+    };
+    if (typeof window !== 'undefined') localStorage.setItem(key, JSON.stringify(next));
 
     return {
       currentStreak,

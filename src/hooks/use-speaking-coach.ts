@@ -1,5 +1,4 @@
 import { useState, useCallback, useEffect, useRef } from 'react';
-import { supabase } from '@/lib/supabase-client';
 import { useRealtimeAI } from './use-realtime-ai';
 import { SPEAKING_SCENARIOS, getSpeakingCoachSystemPrompt } from '@/lib/ai/speaking-scenarios';
 import { TUTOR_PROMPTS } from '@/lib/ai/tutor-prompts';
@@ -36,60 +35,30 @@ export function useSpeakingCoach() {
   const [error, setError] = useState<string | null>(null);
   const transcriptCountRef = useRef(0);
 
-  // 1. Create or load session and CONNECT
   const startCoachSession = useCallback(async (scenarioId: string, tutorId: string, level: string) => {
     setState(prev => ({ ...prev, isSaving: true }));
     setError(null);
 
     try {
-      const { data: { user } } = await supabase.auth.getUser();
-      if (!user) throw new Error('User not authenticated');
-
       const scenario = SPEAKING_SCENARIOS.find(s => s.id === scenarioId);
       if (!scenario) throw new Error('Invalid scenario');
 
       const tutorPrompt = TUTOR_PROMPTS[tutorId] || TUTOR_PROMPTS.tutor1;
-
-      // Fetch last session summary for memory
-      const { data: lastSession } = await supabase
-        .from('ai_speaking_sessions')
-        .select('summary')
-        .eq('user_id', user.id)
-        .eq('scenario_id', scenarioId)
-        .order('created_at', { ascending: false })
-        .limit(1)
-        .maybeSingle();
-
-      const memory = lastSession?.summary ? `Memory of previous session: ${lastSession.summary}` : 'No previous sessions for this scenario.';
-
-      // Create new session
-      const { data: session, error: sessionError } = await supabase
-        .from('ai_speaking_sessions')
-        .insert({
-          user_id: user.id,
-          scenario_id: scenarioId,
-          tutor_id: tutorId,
-          level,
-          status: 'in_progress'
-        })
-        .select()
-        .single();
-
-      if (sessionError) throw sessionError;
+      const sessionId = `local-${Date.now()}`;
+      const memory = 'No previous sessions for this scenario.';
 
       setState(prev => ({ 
         ...prev, 
-        currentSessionId: session.id, 
+        currentSessionId: sessionId, 
         isSaving: false,
         turnCount: 0,
         objectivesMet: []
       }));
 
-      // Connect with specific instructions
       const instructions = getSpeakingCoachSystemPrompt(tutorPrompt, scenario, level, memory);
       await connectAI(instructions, (TUTOR_PROMPTS[tutorId] as any)?.voice || 'shimmer');
 
-      return session.id;
+      return sessionId;
     } catch (err: any) {
       console.error('Error starting session:', err);
       setError(err.message);
@@ -98,25 +67,17 @@ export function useSpeakingCoach() {
     }
   }, [connectAI]);
 
-  // 2. Persist messages and handle feedback parsing
   const persistMessage = useCallback(async (role: 'user' | 'assistant', content: string) => {
     if (!state.currentSessionId) return;
 
     try {
-      const { data: { user } } = await supabase.auth.getUser();
-      if (!user) return;
-
       let feedback = null;
-      let cleanContent = content;
 
-      // Parse EVALUATION if present in assistant message
       if (role === 'assistant' && content.includes('EVALUATION_START')) {
         try {
           const match = content.match(/EVALUATION_START([\s\S]*?)EVALUATION_END/);
           if (match) {
             feedback = JSON.parse(match[1]);
-            cleanContent = content.replace(/EVALUATION_START[\s\S]*?EVALUATION_END/, '').trim();
-            
             setState(prev => ({ 
               ...prev, 
               lastFeedback: feedback,
@@ -128,14 +89,6 @@ export function useSpeakingCoach() {
         }
       }
 
-      await supabase.from('ai_speaking_history').insert({
-        session_id: state.currentSessionId,
-        user_id: user.id,
-        role,
-        content: cleanContent,
-        feedback
-      });
-
       if (role === 'user') {
         setState(prev => ({ ...prev, turnCount: prev.turnCount + 1 }));
       }
@@ -144,7 +97,6 @@ export function useSpeakingCoach() {
     }
   }, [state.currentSessionId]);
 
-  // Sync transcript to database
   useEffect(() => {
     const finalMessages = transcript.filter(m => m.isFinal);
     if (finalMessages.length > transcriptCountRef.current) {
@@ -156,24 +108,10 @@ export function useSpeakingCoach() {
     }
   }, [transcript, persistMessage]);
 
-  // 3. Complete session
-  const completeSession = useCallback(async (summary: string) => {
+  const completeSession = useCallback(async (_summary: string) => {
     if (!state.currentSessionId) return;
-
-    try {
-      await supabase
-        .from('ai_speaking_sessions')
-        .update({ 
-          status: 'completed',
-          summary
-        })
-        .eq('id', state.currentSessionId);
-
-      setState(prev => ({ ...prev, currentSessionId: null }));
-      disconnectAI();
-    } catch (err) {
-      console.error('Error completing session:', err);
-    }
+    setState(prev => ({ ...prev, currentSessionId: null }));
+    disconnectAI();
   }, [state.currentSessionId, disconnectAI]);
 
   return {

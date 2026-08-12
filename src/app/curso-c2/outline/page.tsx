@@ -4,7 +4,6 @@ import { CourseOutlineTable } from '@/components/course/preview/CourseOutlineTab
 import { PrintButton } from '@/components/course/preview/PrintButton';
 import { FileText } from 'lucide-react';
 import Link from 'next/link';
-import { MiPanelLink } from '@/components/course/MiPanelLink';
 
 export const dynamic = 'force-dynamic';
 
@@ -39,7 +38,6 @@ async function OutlineContent() {
               >
                 ← Volver al curso C2
               </Link>
-              <MiPanelLink variant="outline" />
             </div>
             <PrintButton />
           </div>

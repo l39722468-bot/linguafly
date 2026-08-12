@@ -1,9 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
-import { useState, useEffect } from "react";
-import { getUser, signOut, onAuthStateChange } from "@/lib/auth-helpers";
+import { useState } from "react";
 import { SITE_BRAND_NAME } from "@/lib/site-brand";
 
 const COURSE_LINKS = [
@@ -33,32 +31,7 @@ function ExerciseMapLinkLabel({ multiline = false }: { multiline?: boolean }) {
 }
 
 export function Navigation() {
-  const router = useRouter();
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const [isLoggedIn, setIsLoggedIn] = useState(false);
-
-  useEffect(() => {
-    async function checkAuth() {
-      const { user } = await getUser();
-      setIsLoggedIn(!!user);
-    }
-
-    checkAuth();
-
-    const { data: { subscription } } = onAuthStateChange((user) => {
-      setIsLoggedIn(!!user);
-    });
-
-    return () => subscription.unsubscribe();
-  }, []);
-
-  const handleLogout = async () => {
-    await signOut();
-    setIsLoggedIn(false);
-    setMobileMenuOpen(false);
-    router.push("/");
-    router.refresh();
-  };
 
   const spanishNavLinks = {
     phrases: "/frases-en-ingles",
@@ -126,35 +99,10 @@ export function Navigation() {
             <Link href={navLinks.professionalCourses} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
               Cursos por sector
             </Link>
-            {isLoggedIn && (
-              <>
-                <Link
-                  href="/mi-panel"
-                  className="ml-2 px-4 py-2 rounded-xl text-sm font-bold text-gray-700 hover:text-[#FF6B6B] border border-transparent hover:border-[#FF6B6B]/20 hover:bg-[#FF6B6B]/5 transition-all"
-                >
-                  Mi Panel
-                </Link>
-                <button
-                  type="button"
-                  onClick={handleLogout}
-                  className="px-4 py-2 rounded-xl text-sm font-bold text-red-500 hover:bg-red-50 transition-all"
-                >
-                  Cerrar sesión
-                </button>
-              </>
-            )}
           </div>
 
           {/* Mobile menu button */}
           <div className="flex items-center gap-2 md:hidden">
-            {isLoggedIn && (
-              <Link
-                href="/mi-panel"
-                className="px-3 py-1.5 rounded-lg bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-xs font-black text-white"
-              >
-                Mi Panel
-              </Link>
-            )}
             <button
               onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
               className="p-2 rounded-lg hover:bg-slate-100"
@@ -251,15 +199,6 @@ export function Navigation() {
               >
                 Cursos por sector
               </Link>
-              {isLoggedIn && (
-                <button
-                  type="button"
-                  onClick={handleLogout}
-                  className="mt-2 inline-flex items-center justify-center px-4 py-3 rounded-xl border-2 border-red-200 bg-red-50 text-sm font-black text-red-600 text-center"
-                >
-                  Cerrar sesión
-                </button>
-              )}
             </div>
           </div>
         )}

@@ -3,9 +3,7 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Trophy, Medal, Crown, TrendingUp, Users } from 'lucide-react';
-import { supabase } from '@/lib/supabase-client';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Tabs, TabsContent, TabsList, TabsTrigger } from '@/components/ui/tabs';
 import { Avatar, AvatarFallback } from '@/components/ui/avatar';
 
 interface LeaderboardEntry {
@@ -20,51 +18,32 @@ interface LeaderboardDisplayProps {
   currentUserId?: string;
 }
 
+/** Local-only leaderboard placeholder (no shared rankings without accounts). */
 export function LeaderboardDisplay({ currentUserId }: LeaderboardDisplayProps) {
   const [leaderboard, setLeaderboard] = useState<LeaderboardEntry[]>([]);
   const [isLoading, setIsLoading] = useState(true);
-  const [timeframe, setTimeframe] = useState<'all' | 'week' | 'month'>('all');
 
   useEffect(() => {
-    loadLeaderboard();
-  }, [timeframe]);
-
-  const loadLeaderboard = async () => {
-    setIsLoading(true);
     try {
-      let query = supabase
-        .from('user_xp')
-        .select(`
-          user_id,
-          total_xp,
-          level,
-          profiles:user_id (
-            username,
-            full_name
-          )
-        `)
-        .order('total_xp', { ascending: false })
-        .limit(100);
-
-      const { data, error } = await query;
-
-      if (error) throw error;
-
-      const leaderboardData: LeaderboardEntry[] = (data || []).map((entry: any, index: number) => ({
-        user_id: entry.user_id,
-        username: entry.profiles?.username || entry.profiles?.full_name || 'Anonymous',
-        total_xp: entry.total_xp,
-        level: entry.level,
-        rank: index + 1,
-      }));
-
-      setLeaderboard(leaderboardData);
-    } catch (error) {
-      console.error('Error loading leaderboard:', error);
+      const xp = Number(localStorage.getItem('focus_xp:guest') || 0);
+      if (xp > 0) {
+        const level = Math.floor(Math.sqrt(xp / 100)) + 1;
+        setLeaderboard([
+          {
+            user_id: currentUserId || 'guest',
+            username: 'Tú',
+            total_xp: xp,
+            level,
+            rank: 1,
+          },
+        ]);
+      } else {
+        setLeaderboard([]);
+      }
     } finally {
       setIsLoading(false);
     }
-  };
+  }, [currentUserId]);
 
   const getRankIcon = (rank: number) => {
     if (rank === 1) return <Crown className="h-5 w-5 text-yellow-500" />;
@@ -80,8 +59,6 @@ export function LeaderboardDisplay({ currentUserId }: LeaderboardDisplayProps) {
     return 'bg-white border-gray-200';
   };
 
-  const currentUserRank = leaderboard.find(entry => entry.user_id === currentUserId);
-
   if (isLoading) {
     return (
       <Card>
@@ -93,7 +70,7 @@ export function LeaderboardDisplay({ currentUserId }: LeaderboardDisplayProps) {
         </CardHeader>
         <CardContent>
           <div className="flex items-center justify-center py-12">
-            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-purple-600" />
+            <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-orange-600" />
           </div>
         </CardContent>
       </Card>
@@ -105,104 +82,63 @@ export function LeaderboardDisplay({ currentUserId }: LeaderboardDisplayProps) {
       <CardHeader>
         <CardTitle className="flex items-center gap-2">
           <Trophy className="h-5 w-5 text-yellow-500" />
-          Leaderboard
+          Tu progreso
         </CardTitle>
       </CardHeader>
       <CardContent className="space-y-4">
-        {/* Current User Rank (if not in top 10) */}
-        {currentUserRank && currentUserRank.rank > 10 && (
-          <div className="p-4 bg-purple-50 border-2 border-purple-300 rounded-lg">
-            <div className="flex items-center justify-between">
-              <div className="flex items-center gap-3">
-                <div className="flex items-center justify-center w-10 h-10 rounded-full bg-purple-600 text-white font-bold">
-                  #{currentUserRank.rank}
-                </div>
-                <div>
-                  <p className="font-semibold text-purple-900">Your Rank</p>
-                  <p className="text-sm text-purple-600">
-                    Level {currentUserRank.level} • {currentUserRank.total_xp.toLocaleString()} XP
-                  </p>
-                </div>
-              </div>
-              <TrendingUp className="h-5 w-5 text-purple-600" />
-            </div>
+        {leaderboard.length === 0 ? (
+          <p className="text-sm text-gray-600 text-center py-8">
+            Completa ejercicios para ver tu XP aquí. Sin cuentas ni ranking global.
+          </p>
+        ) : (
+          <div className="space-y-2">
+            {leaderboard.map((entry, index) => {
+              const icon = getRankIcon(entry.rank);
+              return (
+                <motion.div
+                  key={entry.user_id}
+                  initial={{ opacity: 0, x: -20 }}
+                  animate={{ opacity: 1, x: 0 }}
+                  transition={{ delay: index * 0.05 }}
+                  className={`flex items-center gap-3 p-3 rounded-lg border-2 ${getRankBgColor(entry.rank)}`}
+                >
+                  <div className="flex items-center justify-center w-10 h-10 rounded-full bg-white border-2 border-gray-300 font-bold text-gray-700">
+                    {icon || `#${entry.rank}`}
+                  </div>
+                  <Avatar className="h-10 w-10">
+                    <AvatarFallback className="bg-orange-600 text-white">
+                      {entry.username.substring(0, 2).toUpperCase()}
+                    </AvatarFallback>
+                  </Avatar>
+                  <div className="flex-1 min-w-0">
+                    <p className="font-semibold truncate text-gray-900">{entry.username}</p>
+                    <p className="text-sm text-gray-600">Level {entry.level}</p>
+                  </div>
+                  <div className="text-right">
+                    <p className="font-bold text-gray-900">{entry.total_xp.toLocaleString()}</p>
+                    <p className="text-xs text-gray-600">XP</p>
+                  </div>
+                </motion.div>
+              );
+            })}
           </div>
         )}
 
-        {/* Top Rankings */}
-        <div className="space-y-2">
-          {leaderboard.slice(0, 10).map((entry, index) => {
-            const isCurrentUser = entry.user_id === currentUserId;
-            const icon = getRankIcon(entry.rank);
-
-            return (
-              <motion.div
-                key={entry.user_id}
-                initial={{ opacity: 0, x: -20 }}
-                animate={{ opacity: 1, x: 0 }}
-                transition={{ delay: index * 0.05 }}
-                className={`flex items-center gap-3 p-3 rounded-lg border-2 transition-all ${
-                  getRankBgColor(entry.rank)
-                } ${isCurrentUser ? 'ring-2 ring-purple-500' : ''}`}
-              >
-                {/* Rank */}
-                <div className="flex items-center justify-center w-10 h-10 rounded-full bg-white border-2 border-gray-300 font-bold text-gray-700">
-                  {icon || `#${entry.rank}`}
-                </div>
-
-                {/* Avatar */}
-                <Avatar className="h-10 w-10">
-                  <AvatarFallback className="bg-purple-600 text-white">
-                    {entry.username.substring(0, 2).toUpperCase()}
-                  </AvatarFallback>
-                </Avatar>
-
-                {/* User Info */}
-                <div className="flex-1 min-w-0">
-                  <p className={`font-semibold truncate ${isCurrentUser ? 'text-purple-900' : 'text-gray-900'}`}>
-                    {entry.username}
-                    {isCurrentUser && (
-                      <span className="ml-2 text-xs text-purple-600">(You)</span>
-                    )}
-                  </p>
-                  <p className="text-sm text-gray-600">
-                    Level {entry.level}
-                  </p>
-                </div>
-
-                {/* XP */}
-                <div className="text-right">
-                  <p className="font-bold text-gray-900">
-                    {entry.total_xp.toLocaleString()}
-                  </p>
-                  <p className="text-xs text-gray-600">XP</p>
-                </div>
-              </motion.div>
-            );
-          })}
-        </div>
-
-        {/* Stats Summary */}
         <div className="grid grid-cols-2 gap-4 pt-4 border-t">
           <div className="p-3 bg-blue-50 rounded-lg">
             <div className="flex items-center gap-2 mb-1">
               <Users className="h-4 w-4 text-blue-600" />
-              <p className="text-xs text-blue-600 font-medium">Total Users</p>
+              <p className="text-xs text-blue-600 font-medium">Sesión local</p>
             </div>
-            <p className="text-2xl font-bold text-blue-900">
-              {leaderboard.length}
-            </p>
+            <p className="text-2xl font-bold text-blue-900">{leaderboard.length}</p>
           </div>
-
-          <div className="p-3 bg-purple-50 rounded-lg">
+          <div className="p-3 bg-orange-50 rounded-lg">
             <div className="flex items-center gap-2 mb-1">
-              <TrendingUp className="h-4 w-4 text-purple-600" />
-              <p className="text-xs text-purple-600 font-medium">Avg Level</p>
+              <TrendingUp className="h-4 w-4 text-orange-600" />
+              <p className="text-xs text-orange-600 font-medium">Nivel</p>
             </div>
-            <p className="text-2xl font-bold text-purple-900">
-              {Math.round(
-                leaderboard.reduce((sum, entry) => sum + entry.level, 0) / leaderboard.length
-              )}
+            <p className="text-2xl font-bold text-orange-900">
+              {leaderboard[0]?.level || 1}
             </p>
           </div>
         </div>

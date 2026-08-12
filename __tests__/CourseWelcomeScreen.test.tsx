@@ -12,10 +12,6 @@ jest.mock('framer-motion', () => ({
   useReducedMotion: () => false,
 }));
 
-jest.mock('@/lib/supabase/client', () => ({
-  supabase: null,
-}));
-
 const mockLocalStorage = (() => {
   let store: Record<string, string> = {};
   return {

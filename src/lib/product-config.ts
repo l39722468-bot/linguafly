@@ -1,17 +1,12 @@
 /**
- * Estrategia de producto: blog + cursos (modo gratuito visible por defecto).
- *
- * Variables de entorno (legacy):
- * - NEXT_PUBLIC_BLOG_ONLY_MODE
- * - NEXT_PUBLIC_COURSE_PILOT_ENABLED
- * - NEXT_PUBLIC_FREE_ACCESS_MODE — si no es "false", la web se presenta 100% gratuita
+ * Producto: blog gratuito (sin registro, sin pagos).
  */
 
 import { isPublicCoursePath } from '@/lib/course-indexing';
 
-/** Oculta monetización y desbloquea el contenido (sin CTAs de pago ni candados). */
+/** Siempre true: sin candados ni CTAs de pago. */
 export function isFreeAccessMode(): boolean {
-  return process.env.NEXT_PUBLIC_FREE_ACCESS_MODE !== 'false';
+  return true;
 }
 
 export type ProductStrategy = 'blog-only' | 'blog-funnel-pilot';
@@ -20,13 +15,11 @@ export const PILOT_COURSE_LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'] as const
 export type PilotCourseLevel = (typeof PILOT_COURSE_LEVELS)[number];
 
 export function getProductStrategy(): ProductStrategy {
-  if (process.env.NEXT_PUBLIC_BLOG_ONLY_MODE === 'true') return 'blog-only';
-  if (process.env.NEXT_PUBLIC_COURSE_PILOT_ENABLED === 'false') return 'blog-only';
-  return 'blog-funnel-pilot';
+  return 'blog-only';
 }
 
 export function isBlogOnlyMode(): boolean {
-  return getProductStrategy() === 'blog-only';
+  return true;
 }
 
 export function isCoursePilotEnabled(): boolean {
@@ -39,6 +32,9 @@ const ACCOUNT_ROUTE_PREFIXES = [
   '/profile',
   '/aula',
   '/onboarding',
+  '/cuenta',
+  '/planes',
+  '/admin',
 ] as const;
 
 export function isProductRoute(pathname: string): boolean {
@@ -54,13 +50,9 @@ export function isNonPilotCourseRoute(_pathname: string): boolean {
   return false;
 }
 
-/**
- * Rutas de cuenta/panel que redirigen al blog en modo editorial puro.
- * Las landings y la unidad 1 de cada curso siguen siendo públicas.
- */
+/** Rutas de cuenta/panel → blog. */
 export function getProductRouteRedirect(pathname: string): string | null {
   if (isPublicCoursePath(pathname)) return null;
-  if (!isBlogOnlyMode()) return null;
   return isProductRoute(pathname) ? '/blog' : null;
 }
 
@@ -73,5 +65,5 @@ export const COURSE_FUNNEL_CTA = {
 export const TEST_FUNNEL_CTA = {
   label: 'Test de nivel gratis',
   href: '/test-nivel',
-  description: 'Descubre tu nivel en 5 minutos y recibe una ruta personalizada',
+  description: 'Descubre tu nivel en 5 minutos',
 } as const;

@@ -1,113 +1,45 @@
-import { supabase } from '@/lib/supabase/client';
-import { UnitData, PremiumInteraction, PremiumBlock } from '@/types/premium-course';
+import { UnitData, PremiumInteraction } from '@/types/premium-course';
 import { UserPerformanceRecord } from '../course-engine/adaptive';
 
 export type CourseLevel = 'ingles-a1' | 'ingles-a2' | 'ingles-b1' | 'ingles-b2' | 'ingles-c1' | 'ingles-c2';
 
+const PROGRESS_KEY = 'focus_interaction_progress';
+
+function readLocalProgress(userId: string): string[] {
+  if (typeof window === 'undefined' || !userId || userId === 'anonymous') return [];
+  try {
+    const raw = localStorage.getItem(`${PROGRESS_KEY}:${userId}`);
+    return raw ? (JSON.parse(raw) as string[]) : [];
+  } catch {
+    return [];
+  }
+}
+
+function writeLocalProgress(userId: string, ids: string[]) {
+  if (typeof window === 'undefined' || !userId || userId === 'anonymous') return;
+  localStorage.setItem(`${PROGRESS_KEY}:${userId}`, JSON.stringify(ids));
+}
+
+/** Client progress/SRS — localStorage only (no auth backend). */
 export const premiumCourseService = {
-  /**
-   * Fetches the list of interaction IDs completed by the user.
-   * This is client-safe as it only uses the Supabase client.
-   */
-  async getProgress(userId: string, level: string): Promise<string[]> {
-    if (!supabase || !userId || userId === 'anonymous') return [];
-
-    const { data, error } = await supabase
-      .from('user_interaction_progress')
-      .select('interaction_id')
-      .eq('user_id', userId);
-
-    if (error) {
-      console.error(`Error fetching ${level} progress:`, error);
-      return [];
-    }
-
-    return data.map(item => item.interaction_id);
+  async getProgress(userId: string, _level: string): Promise<string[]> {
+    return readLocalProgress(userId);
   },
 
-  /**
-   * Fetches SRS performance data for a set of interactions.
-   */
-  async getSRSPerformance(userId: string, interactionIds: string[]): Promise<UserPerformanceRecord[]> {
-    if (!supabase || !userId || userId === 'anonymous' || interactionIds.length === 0) return [];
-
-    const { data, error } = await supabase
-      .from('user_srs')
-      .select('*')
-      .eq('user_id', userId)
-      .in('item_id', interactionIds);
-
-    if (error) {
-      console.error(`Error fetching SRS performance:`, error);
-      return [];
-    }
-
-    return data.map(item => ({
-      interaction_id: item.item_id,
-      quality: item.last_quality || 0,
-      last_review_at: new Date(item.last_review_at),
-      next_review_at: new Date(item.next_review_at),
-      iterations: item.iterations
-    }));
+  async getSRSPerformance(_userId: string, _interactionIds: string[]): Promise<UserPerformanceRecord[]> {
+    return [];
   },
 
-  /**
-   * Updates SRS performance for an interaction.
-   */
-  async updateSRS(userId: string, interactionId: string, quality: number): Promise<boolean> {
-    if (!supabase || !userId || userId === 'anonymous') return false;
-
-    const { error } = await supabase.rpc('update_srs_item', {
-      p_user_id: userId,
-      p_item_id: interactionId,
-      p_quality: quality
-    });
-
-    if (error) {
-      console.error(`Error updating SRS for ${interactionId}:`, error);
-      return false;
-    }
-
+  async updateSRS(_userId: string, _interactionId: string, _quality: number): Promise<boolean> {
     return true;
   },
 
-  /**
-   * Updates mastery for concept tags associated with an interaction.
-   */
-  async updateConceptMastery(userId: string, tags: string[], success: boolean): Promise<boolean> {
-    if (!supabase || !userId || userId === 'anonymous' || !tags || tags.length === 0) return false;
-
-    const { error } = await supabase.rpc('update_concept_mastery', {
-      p_user_id: userId,
-      p_concept_tags: tags,
-      p_success: success
-    });
-
-    if (error) {
-      console.error(`Error updating concept mastery for tags ${tags}:`, error);
-      return false;
-    }
-
+  async updateConceptMastery(_userId: string, _tags: string[], _success: boolean): Promise<boolean> {
     return true;
   },
 
-  /**
-   * Fetches user mastery data for all concepts.
-   */
-  async getUserMastery(userId: string): Promise<any[]> {
-    if (!supabase || !userId || userId === 'anonymous') return [];
-
-    const { data, error } = await supabase
-      .from('user_mastery')
-      .select('concept_tag, mastery_score')
-      .eq('user_id', userId);
-
-    if (error) {
-      console.error(`Error fetching user mastery:`, error);
-      return [];
-    }
-
-    return data;
+  async getUserMastery(_userId: string): Promise<any[]> {
+    return [];
   },
 
   async getA1Progress(userId: string): Promise<string[]> {
@@ -134,29 +66,13 @@ export const premiumCourseService = {
     return this.getProgress(userId, 'C2');
   },
 
-  /**
-   * Saves progress for a specific interaction.
-   * This is client-safe as it only uses the Supabase client.
-   */
   async saveInteractionProgress(userId: string, interactionId: string): Promise<boolean> {
-    if (!supabase || !userId || userId === 'anonymous') return false;
-
-    const { error } = await supabase
-      .from('user_interaction_progress')
-      .upsert({
-        user_id: userId,
-        interaction_id: interactionId,
-        completed: true,
-        completed_at: new Date().toISOString()
-      }, {
-        onConflict: 'user_id,interaction_id'
-      });
-
-    if (error) {
-      console.error(`Error saving progress for ${interactionId}:`, error);
-      return false;
+    const current = readLocalProgress(userId);
+    if (!current.includes(interactionId)) {
+      writeLocalProgress(userId, [...current, interactionId]);
     }
-
     return true;
-  }
+  },
 };
+
+export type { UnitData, PremiumInteraction };

@@ -1,12 +1,15 @@
+import { SITE_BRAND_NAME, getAbsoluteUrl, getSiteUrl } from '@/lib/site-brand';
+
 export function OrganizationSchema() {
+  const siteUrl = getSiteUrl();
   const schema = {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
-    "name": "Focus English",
-    "alternateName": "Focus on English",
-    "url": "https://www.focus-on-english.com",
-    "logo": "https://www.focus-on-english.com/logo.png",
-    "description": "Cursos de inglés general para todos los niveles (A1-C2). Programas personalizados de 90 días con metodología probada.",
+    "name": SITE_BRAND_NAME,
+    "alternateName": ["Focus English", "Focus on English"],
+    "url": siteUrl,
+    "logo": getAbsoluteUrl('/logo.png'),
+    "description": "Blog y cursos de inglés gratuitos para todos los niveles (A1-C2).",
     "address": {
       "@type": "PostalAddress",
       "addressCountry": "ES",
@@ -15,7 +18,7 @@ export function OrganizationSchema() {
     "contactPoint": {
       "@type": "ContactPoint",
       "contactType": "Customer Support",
-      "email": "info@focus-on-english.com",
+      "email": "hola@linguafly.app",
       "availableLanguage": ["Spanish", "English"]
     },
     "sameAs": [
@@ -29,17 +32,19 @@ export function OrganizationSchema() {
     },
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
-      "name": "Cursos de Inglés",
+      "name": "Cursos de Inglés gratuitos",
       "itemListElement": [
         {
           "@type": "Offer",
+          "price": "0",
+          "priceCurrency": "EUR",
           "itemOffered": {
             "@type": "Course",
             "name": "Cursos de Inglés General (A1-C2)",
-            "description": "Programas de dominio lingüístico completo desde nivel básico hasta avanzado",
+            "description": "Programas gratuitos desde nivel básico hasta avanzado",
             "provider": {
               "@type": "EducationalOrganization",
-              "name": "Focus English"
+              "name": SITE_BRAND_NAME
             }
           }
         }
@@ -60,8 +65,6 @@ export function CourseSchema({
   description, 
   level, 
   duration = "90 días",
-  price = "6.99",
-  currency = "EUR"
 }: { 
   name: string; 
   description: string; 
@@ -70,6 +73,7 @@ export function CourseSchema({
   price?: string;
   currency?: string;
 }) {
+  const siteUrl = getSiteUrl();
   const schema = {
     "@context": "https://schema.org",
     "@type": "Course",
@@ -77,8 +81,8 @@ export function CourseSchema({
     "description": description,
     "provider": {
       "@type": "EducationalOrganization",
-      "name": "Focus English",
-      "url": "https://www.focus-on-english.com"
+      "name": SITE_BRAND_NAME,
+      "url": siteUrl
     },
     "educationalLevel": level,
     "timeRequired": duration,
@@ -86,6 +90,7 @@ export function CourseSchema({
     "inLanguage": "en",
     "teaches": "Inglés",
     "courseMode": "online",
+    "isAccessibleForFree": true,
     "hasCourseInstance": {
       "@type": "CourseInstance",
       "courseMode": "online",
@@ -93,10 +98,10 @@ export function CourseSchema({
     },
     "offers": {
       "@type": "Offer",
-      "price": price,
-      "priceCurrency": currency,
+      "price": "0",
+      "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock",
-      "url": "https://www.focus-on-english.com/planes"
+      "url": siteUrl
     }
   };
 
@@ -133,13 +138,14 @@ export function ArticleSchema({
   wordCount?: number;
   articleSection?: string;
 }) {
+  const siteUrl = getSiteUrl();
   const resolvedImage = image
-    ? (image.startsWith('http') ? image : `https://www.focus-on-english.com${image}`)
-    : "https://www.focus-on-english.com/og-image.jpg";
+    ? (image.startsWith('http') ? image : getAbsoluteUrl(image))
+    : getAbsoluteUrl('/og-image.jpg');
 
   const authorSchema = author && authorUrl
     ? { "@type": "Person", "name": author, "url": authorUrl }
-    : { "@type": "Organization", "name": author || "Focus English", "url": "https://www.focus-on-english.com" };
+    : { "@type": "Organization", "name": author || SITE_BRAND_NAME, "url": siteUrl };
 
   const schema: Record<string, unknown> = {
     "@context": "https://schema.org",
@@ -147,26 +153,28 @@ export function ArticleSchema({
     "headline": title,
     "description": description,
     "image": resolvedImage,
+    "datePublished": datePublished,
+    "dateModified": dateModified || datePublished,
     "author": authorSchema,
     "publisher": {
       "@type": "Organization",
-      "name": "Focus English",
+      "name": SITE_BRAND_NAME,
       "logo": {
         "@type": "ImageObject",
-        "url": "https://www.focus-on-english.com/logo.png"
+        "url": getAbsoluteUrl('/logo.png')
       }
     },
-    "datePublished": datePublished,
-    "dateModified": dateModified || datePublished,
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": `https://www.focus-on-english.com/blog/${slug}`
+      "@id": getAbsoluteUrl(`/blog/${slug}`)
     },
-    "keywords": keywords.join(", "),
+    "inLanguage": "es",
+    "isAccessibleForFree": true,
   };
 
-  if (wordCount !== undefined) schema["wordCount"] = wordCount;
-  if (articleSection !== undefined) schema["articleSection"] = articleSection;
+  if (keywords.length) schema.keywords = keywords.join(', ');
+  if (wordCount) schema.wordCount = wordCount;
+  if (articleSection) schema.articleSection = articleSection;
 
   return (
     <script
@@ -180,14 +188,14 @@ export function FAQSchema({ questions }: { questions: Array<{ question: string; 
   const schema = {
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    "mainEntity": questions.map(q => ({
+    "mainEntity": questions.map((q) => ({
       "@type": "Question",
       "name": q.question,
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": q.answer
-      }
-    }))
+        "text": q.answer,
+      },
+    })),
   };
 
   return (
@@ -206,8 +214,8 @@ export function BreadcrumbSchema({ items }: { items: Array<{ name: string; url: 
       "@type": "ListItem",
       "position": index + 1,
       "name": item.name,
-      "item": `https://www.focus-on-english.com${item.url}`
-    }))
+      "item": item.url.startsWith('http') ? item.url : getAbsoluteUrl(item.url),
+    })),
   };
 
   return (
@@ -219,16 +227,19 @@ export function BreadcrumbSchema({ items }: { items: Array<{ name: string; url: 
 }
 
 export function WebsiteSchema() {
+  const siteUrl = getSiteUrl();
   const schema = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    "name": "Focus English",
-    "url": "https://www.focus-on-english.com",
+    "name": SITE_BRAND_NAME,
+    "url": siteUrl,
+    "description": "Blog y cursos de inglés gratuitos",
+    "inLanguage": "es",
     "potentialAction": {
       "@type": "SearchAction",
       "target": {
         "@type": "EntryPoint",
-        "urlTemplate": "https://www.focus-on-english.com/blog?q={search_term_string}"
+        "urlTemplate": `${siteUrl}/blog?q={search_term_string}`
       },
       "query-input": "required name=search_term_string"
     }

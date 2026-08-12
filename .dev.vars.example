@@ -1,0 +1,3 @@
+# Copiar a .dev.vars para preview local con Wrangler/OpenNext.
+# Wrangler carga .dev.vars; Next sigue usando .env.local en `next dev`.
+NEXTJS_ENV=development

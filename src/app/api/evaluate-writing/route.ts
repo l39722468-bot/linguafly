@@ -2,7 +2,6 @@ import { NextRequest, NextResponse } from 'next/server';
 import OpenAI from 'openai';
 
 
-export const runtime = 'edge';
 // Lazy initialization to avoid build-time errors when OPENAI_API_KEY is not set
 function getOpenAI() {
   return new OpenAI({

@@ -1,4 +1,4 @@
-const DEFAULT_SITE_URL = "https://www.focus-on-english.com";
+const DEFAULT_SITE_URL = "https://linguafly.app";
 const INDEXNOW_ENDPOINT = "https://api.indexnow.org/indexnow";
 
 type IndexNowSubmission = {

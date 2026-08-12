@@ -47,6 +47,13 @@ const nextConfig = {
   trailingSlash: false,
   async redirects() {
     return [
+      // Auth/paywall removed — send legacy URLs to free content
+      { source: '/planes', destination: '/aprender-ingles', permanent: true },
+      { source: '/planes/:path*', destination: '/aprender-ingles', permanent: true },
+      { source: '/cuenta', destination: '/blog', permanent: true },
+      { source: '/cuenta/:path*', destination: '/blog', permanent: true },
+      { source: '/mi-panel', destination: '/blog', permanent: true },
+      { source: '/mi-panel/:path*', destination: '/blog', permanent: true },
       // Legacy: solo /curso/* (sin guión) se redirige al blog
       { source: '/curso/:path*', destination: '/blog', permanent: true },
 
@@ -102,12 +109,12 @@ const nextConfig = {
       // SEO - Redirecciones de Cluster a Blog
       {
         source: '/precios',
-        destination: '/planes',
+        destination: '/aprender-ingles',
         statusCode: 301,
       },
       {
         source: '/registro',
-        destination: '/cuenta/registro',
+        destination: '/aprender-ingles',
         statusCode: 301,
       },
       {
@@ -458,27 +465,27 @@ const nextConfig = {
       // AUTENTICACIÓN - Unificar rutas duplicadas
       {
         source: '/signin',
-        destination: '/cuenta/login',
+        destination: '/blog',
         statusCode: 301,
       },
       {
         source: '/login',
-        destination: '/cuenta/login',
+        destination: '/blog',
         statusCode: 301,
       },
       {
         source: '/register',
-        destination: '/cuenta/registro',
+        destination: '/aprender-ingles',
         statusCode: 301,
       },
       {
         source: '/signup',
-        destination: '/cuenta/registro',
+        destination: '/aprender-ingles',
         statusCode: 301,
       },
       {
         source: '/forgot-password',
-        destination: '/cuenta/recuperar',
+        destination: '/blog',
         statusCode: 301,
       },
       
@@ -505,7 +512,7 @@ const nextConfig = {
       },
       {
         source: '/curso/ingles-b2',
-        destination: '/planes',
+        destination: '/aprender-ingles',
         statusCode: 301,
       },
 
@@ -775,7 +782,6 @@ const nextConfig = {
   reactStrictMode: true,
   // Cabeceras de seguridad y compresión
   async headers() {
-    const supabaseHost = (process.env.NEXT_PUBLIC_SUPABASE_URL || 'https://nprqtjljoekoirlrjxlh.supabase.co').replace(/^https?:\/\//, '');
     const csp = [
       "default-src 'self'",
       [
@@ -788,7 +794,6 @@ const nextConfig = {
         "https://challenges.cloudflare.com",
         "https://www.googletagmanager.com",
         "https://www.google-analytics.com",
-        "https://js.stripe.com",
         // Google AdSense (pagead / tags / SODAR calidad de tráfico)
         "https://pagead2.googlesyndication.com",
         "https://www.googletagservices.com",
@@ -814,8 +819,6 @@ const nextConfig = {
       ].join(' '),
       [
         "connect-src 'self'",
-        `https://${supabaseHost}`,
-        `wss://${supabaseHost}`,
         "https://consentcdn.cookiebot.com",
         "https://consent.cookiebot.com",
         "https://cmp.inmobi.com",
@@ -825,9 +828,7 @@ const nextConfig = {
         "https://region1.google-analytics.com",
         "https://*.google-analytics.com",
         "https://www.googletagmanager.com",
-        "https://vitals.vercel-insights.com",
         "https://static.cloudflareinsights.com",
-        "https://api.stripe.com",
         // AdSense / anuncios (beacons, bidding, métricas)
         "https://pagead2.googlesyndication.com",
         "https://googleads.g.doubleclick.net",
@@ -894,8 +895,6 @@ const nextConfig = {
         "https://cmp.inmobi.com",
         "https://*.inmobi.com",
         "https://challenges.cloudflare.com",
-        "https://js.stripe.com",
-        "https://hooks.stripe.com",
         "https://googleads.g.doubleclick.net",
         "https://tpc.googlesyndication.com",
         "https://pagead2.googlesyndication.com",
@@ -978,10 +977,18 @@ const nextConfig = {
     emotion: false,
   },
   // Paquetes externos que deben ejecutarse en el servidor
-  serverExternalPackages: ['resend'],
-
   // Webpack: sin alias React - ExerciseRenderer ya no usa framer-motion en ruta crítica
   webpack: (config) => config,
 }
 
-module.exports = withBundleAnalyzer(nextConfig)
+module.exports = withBundleAnalyzer(nextConfig);
+
+// Bindings Cloudflare en `next dev` (OpenNext). Evitar en Jest/CI unit tests.
+if (process.env.NODE_ENV !== 'test' && !process.env.JEST_WORKER_ID) {
+  try {
+    const { initOpenNextCloudflareForDev } = require('@opennextjs/cloudflare');
+    initOpenNextCloudflareForDev();
+  } catch {
+    // Paquete ausente en algunos entornos mínimos.
+  }
+}
