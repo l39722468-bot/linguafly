@@ -55,6 +55,8 @@ export const PODCAST_EPISODES_WITH_AUDIO = new Set([
   'a1-tra-10m-002',
   'a1-tra-10m-003',
   'a1-tra-10m-004',
+  'a1-tra-20m-002',
+  'a1-tra-20m-003',
 ])
 
 export function isPodcastAudioAvailable(episodeId: string): boolean {
