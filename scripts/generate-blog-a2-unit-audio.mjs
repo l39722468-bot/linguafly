@@ -597,6 +597,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-booking': 'City Hotel, good morning. Hi. I\'d like to book a room for next weekend. How many nights? Two. Do you have a single room? Yes. Breakfast included. Eighty euros per night. Perfect. Is there a lift? Yes. And free WiFi.',
     'practice-four': 'I\'d like to book a room. We\'d like to check in, please. Is breakfast included? What time is check-out?',
   },
+  43: {
+    'sightseeing': 'We went sightseeing in Rome.',
+    'guided-tour': 'We took a guided tour of the museum.',
+    'last-year-greece': 'Last year I went to Greece.',
+    'have-you-ever': 'Have you ever been hiking?',
+    'reading-postcard': 'Hi! We\'re in Porto. Yesterday we went sightseeing and took a guided tour of the old town. We haven\'t bought any souvenirs yet, but we have tried the local food — delicious! Tomorrow we want to go to the beach. Have you ever been to Portugal? See you soon!',
+    'dialogue-holidays': 'Have you ever been hiking? Yes, I have. I went hiking in Asturias last year. Nice! Did you buy a souvenir? Just a photo book. What about you? I\'ve never been hiking, but I love the beach. We went to Cadiz in August.',
+    'practice-four': 'We went sightseeing yesterday. Have you ever taken a guided tour? I bought a souvenir last week. She has never been hiking.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
