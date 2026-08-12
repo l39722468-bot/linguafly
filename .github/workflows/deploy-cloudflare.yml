@@ -36,9 +36,9 @@ jobs:
 
       - name: OpenNext build
         env:
-          NODE_OPTIONS: --max-old-space-size=6144
           NEXT_PUBLIC_SITE_URL: https://linguafly.app
-        run: npx opennextjs-cloudflare build
+          CI: true
+        run: npm run cf:build
 
       - name: Deploy Worker
         uses: cloudflare/wrangler-action@v3

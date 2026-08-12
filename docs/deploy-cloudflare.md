@@ -12,21 +12,30 @@ Worker name en `wrangler.jsonc`: **`linguafly-app`** (debe coincidir con el Work
 
 ## Checklist del Worker en el Dashboard
 
-En **Workers & Pages → tu Worker → Settings → Builds**:
+En **Workers & Pages → linguafly-app → Settings → Builds**:
 
 | Campo | Valor recomendado |
 |---|---|
 | Root directory | `/` (raíz del repo) |
 | Branch de producción | `main` |
-| **Build command** | `npx opennextjs-cloudflare build` |
-| **Deploy command** | `npx opennextjs-cloudflare deploy` |
-| Node version | `22` (o la que ofrezca el panel ≥ 20) |
+| **Build command** | `npm run cf:build` |
+| **Deploy command** | `npm run cf:deploy` |
+| Non-production deploy | `npm run cf:upload` |
+| Node version | `22` (o ≥ 20.9) |
+
+> **No uses** `npx opennextjs-cloudflare …`  
+> Ese nombre en npm es un paquete stub vacío (“For Security Holding Purposes”) **sin CLI**.  
+> Si el builder no encuentra el binario local, el build falla con  
+> `Failed: error occurred while running build command`.  
+> Usa siempre `npm run cf:*` o, como alternativa oficial, `npx @opennextjs/cloudflare build|deploy`.
 
 ### Build variables / secrets (panel)
 
-**Obligatoria / recomendada**
+**Obligatorias / recomendadas**
 - `NEXT_PUBLIC_SITE_URL` = `https://linguafly.app`
-- `NODE_OPTIONS` = `--max-old-space-size=6144` (el build es pesado)
+- `NODE_OPTIONS` = `--max-old-space-size=6144` (el build es pesado; también va en `cf:build`)
+- `CI` = `true`
+- `NODE_VERSION` = `22` (si el panel lo respeta)
 
 **Si usas estas features en runtime**
 - `OPENAI_API_KEY`
@@ -51,7 +60,7 @@ En `wrangler.jsonc` ya están:
 - assets `.open-next/assets`
 - binding `IMAGES`
 
-Si el Worker del dashboard tiene **otro name** distinto de `linguafly`, o bien renómbralo o alinea el `"name"` de `wrangler.jsonc` / el service binding `WORKER_SELF_REFERENCE`.
+El `"name"` del Worker y el service binding `WORKER_SELF_REFERENCE` deben ser **`linguafly-app`**.
 
 ---
 
@@ -73,6 +82,7 @@ Si el Worker del dashboard tiene **otro name** distinto de `linguafly`, o bien r
 ```bash
 npm run preview   # build + Workers local
 npm run deploy    # build + deploy (requiere wrangler login)
+npm run cf:build  # solo build OpenNext (mismo que Workers Builds)
 ```
 
 ---
@@ -81,19 +91,17 @@ npm run deploy    # build + deploy (requiere wrangler login)
 
 Reapuntar DNS a Vercel o desactivar el custom domain del Worker.
 
+---
 
 ## Si el build falla (`Failed: error occurred while running build command`)
 
-1. En **Implementaciones**, abre el build rojo → **View build log** / ver registro.
-2. Copia las **últimas 30–40 líneas** (ahí está el error real).
-3. En **Settings → Builds → Variables de compilación**, asegúrate de tener:
-   - `NODE_OPTIONS` = `--max-old-space-size=6144`
-   - `NEXT_PUBLIC_SITE_URL` = `https://linguafly.app`
-   - `CI` = `true`
-4. Comandos recomendados en Builds:
-   - **Build command:** `npm run cf:build`
-   - **Deploy command:** `npm run cf:deploy`
-   - **Non-production deploy:** `npm run cf:upload`
-5. Vuelve a lanzar **Retry deployment**.
+1. **Corrige los comandos** del panel a `npm run cf:build` / `npm run cf:deploy` (tabla de arriba).
+2. Confirma variables: `NODE_OPTIONS`, `NEXT_PUBLIC_SITE_URL`, `CI`.
+3. **Retry deployment**.
+4. Si sigue en rojo: abre el build → **View build log** → copia las **últimas 30–40 líneas**.
 
-Causas frecuentes: falta de memoria en el builder, Node antiguo, o variables `NEXT_PUBLIC_*` ausentes en build.
+Causas frecuentes:
+- Comando `npx opennextjs-cloudflare` (stub npm sin ejecutable)
+- OOM sin `NODE_OPTIONS=--max-old-space-size=6144`
+- Build command = `npm run build` (solo Next, no OpenNext → falla el deploy después)
+- Node < 20.9

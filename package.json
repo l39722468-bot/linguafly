@@ -59,9 +59,9 @@
     "translate:articles:dry": "ts-node scripts/translate-articles.ts --dry-run",
     "podcasts:sync-audio-manifest": "node scripts/sync-podcast-audio-manifest.mjs",
     "podcasts:check-audio-manifest": "node scripts/sync-podcast-audio-manifest.mjs --check",
-    "cf:build": "opennextjs-cloudflare build",
-    "cf:deploy": "opennextjs-cloudflare deploy",
-    "cf:upload": "opennextjs-cloudflare upload"
+    "cf:build": "NODE_OPTIONS=--max-old-space-size=6144 npx --no-install @opennextjs/cloudflare build",
+    "cf:deploy": "npx --no-install @opennextjs/cloudflare deploy",
+    "cf:upload": "npx --no-install @opennextjs/cloudflare upload"
   },
   "dependencies": {
     "@opennextjs/cloudflare": "^1.20.2",
@@ -83,6 +83,7 @@
     "rehype-raw": "^7.0.0",
     "remark-gfm": "^4.0.1",
     "tailwind-merge": "^3.4.0",
+    "wrangler": "^4.121.0",
     "zod": "^4.3.5"
   },
   "devDependencies": {
@@ -108,8 +109,7 @@
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
     "ts-node": "^10.9.2",
-    "typescript": "^5.7.2",
-    "wrangler": "^4.121.0"
+    "typescript": "^5.7.2"
   },
   "engines": {
     "node": ">=20.9.0",
