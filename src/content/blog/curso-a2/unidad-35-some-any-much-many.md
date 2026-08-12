@@ -451,6 +451,10 @@ La **Unidad 36** trabaja **artículos**: *a/an*, *the* y cuando no hay artículo
 
 En la **Unidad 36** verás **Articles: A/An, The, No Article**.
 
+Guía blog:
+
+- [Unidad 36 — Artículos a/an/the](/blog/curso-a2/unidad-36-articles-a-an-the)
+
 Curso:
 
 - [Unidad 36 — Articles](/curso-a2/unit-36)

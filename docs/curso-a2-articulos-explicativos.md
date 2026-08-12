@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-12 (artículos U1–U35; Módulo 4 en curso)  
+**Última actualización:** 2026-08-12 (artículos U1–U36; Módulo 4 en curso)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 35 |
-| Artículos dedicados pendientes | 25 |
+| Artículos dedicados publicados | 36 |
+| Artículos dedicados pendientes | 24 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -89,7 +89,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 33 | Gerunds & Infinitives | *like -ing* / *want to* / *would like to* | ✅ | [Gerundios e infinitivos A2](/blog/curso-a2/unidad-33-gerunds-infinitives) |
 | 34 | Subject & Object Questions | *Who called you?* / *Who did you call?* | ✅ | [Subject & Object Questions A2](/blog/curso-a2/unidad-34-subject-object-questions) |
 | 35 | Some, Any, Much, Many (revisión) | *some/any*, *much/many*, *a lot of* | ✅ | [Some, any, much, many A2](/blog/curso-a2/unidad-35-some-any-much-many) |
-| 36 | Articles: A/An, The, No Article | *a/an*, *the*, ø | ❌ | — |
+| 36 | Articles: A/An, The, No Article | *a/an*, *the*, ø | ✅ | [Artículos A2](/blog/curso-a2/unidad-36-articles-a-an-the) |
+| 37 | Would like vs Like | *I'd like* vs *I like* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 

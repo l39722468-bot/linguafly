@@ -521,6 +521,18 @@ const CLIPS_BY_UNIT = {
     'dialogue-shop': 'Do you have any fresh bread? Yes — we have some. How much do you want? Just one loaf. And how many oranges are in a bag? Six. Would you like some apples too? Yes, please — a few.',
     'practice-four': 'I have some bread. I don\'t have any milk. How many eggs? How much water?',
   },
+  36: {
+    'a-cat-the-cat': 'I saw a cat. The cat was black.',
+    'an-hour': 'Wait an hour, please.',
+    'a-university': 'She studies at a university.',
+    'the-station': 'We went to the station.',
+    'like-music': 'I like music.',
+    'live-in-paris': 'I live in Paris.',
+    'go-to-school': 'She goes to school by bus.',
+    'reading-city': 'I left home at eight. I took a bus to the centre. I sat in a café near the station and ordered an orange juice. I like coffee, but today I wanted juice. Later I met Ana in the park. We listened to music and watched the dogs play.',
+    'dialogue-plans': 'Is there a supermarket near here? Yes — the supermarket opposite the bank. Great. I need an umbrella too. There\'s a shop on High Street. After that, do you want to go to the cinema? Yes. I love films.',
+    'practice-four': 'I saw a dog. The dog was small. I like music. I live in Spain.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
