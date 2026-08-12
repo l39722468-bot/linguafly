@@ -125,4 +125,5 @@ Causas frecuentes:
 - Comando `npx opennextjs-cloudflare` (stub npm; preferir `npm run cf:build`)
 - OOM sin `NODE_OPTIONS=--max-old-space-size=6144`
 - Build command = `npm run build` (solo Next, no OpenNext → falla el deploy después)
-- Nombre Worker distinto (`linguafly-app` vs `linguaflyapp`) — el repo usa **`linguaflyapp`**
+- Nombre Worker distinto al de Workers Builds — el repo usa **`linguaflyapp1`** (name + `WORKER_SELF_REFERENCE`)
+- Binding `WORKER_SELF_REFERENCE` apuntando a otro Worker inexistente → `code: 10143`
