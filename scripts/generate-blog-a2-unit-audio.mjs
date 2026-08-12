@@ -714,6 +714,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-shop': 'We shouldn\'t buy so many plastic bags. You\'re right. We should reuse this one. Do you recycle at home? Yes — paper and bottles. I also try to save water. Good. Pollution is getting worse in the city. Let\'s walk more and use the bus.',
     'practice-four': 'We recycle glass and paper. Save water when you can. You should recycle. Cars pollute the air.',
   },
+  56: {
+    'send-an-email': 'Send me an email.',
+    'download-the-app': 'Download the app.',
+    'turn-on-wifi': 'Turn on the WiFi.',
+    'log-in': 'Log in with your password.',
+    'reading-online': 'Open the website and log in with your email and password. Then download the class app. Turn on WiFi and click the link in your email. If you don\'t receive the message, check your spam folder. Please upload your homework before Friday.',
+    'dialogue-tech': 'I can\'t log in. Did you turn on the WiFi? Yes. I also downloaded the app. Try another password. Or send me a screenshot. OK. Can you look up the help page? Sure — I\'ll send you the link.',
+    'practice-four': 'Send me an email. Download the app. Turn on the WiFi. Log in with your password.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

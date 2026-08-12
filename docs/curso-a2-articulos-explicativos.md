@@ -119,7 +119,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 53 | Expressing Opinions | *I think…*, *In my opinion…*, *I agree* | ✅ | [Expressing Opinions A2](/blog/curso-a2/unidad-53-expressing-opinions) |
 | 54 | Feelings & Emotions | *feel* + adj, *excited*, *worried* | ✅ | [Feelings & Emotions A2](/blog/curso-a2/unidad-54-feelings-emotions) |
 | 55 | The Environment | *recycle*, *save*, *should* | ✅ | [The Environment A2](/blog/curso-a2/unidad-55-the-environment) |
-| 56 | Technology & Communication | *email*, *download*, *app*, *WiFi* | ❌ | — |
+| 56 | Technology & Communication | *email*, *download*, *app*, *WiFi* | ✅ | [Technology & Communication A2](/blog/curso-a2/unidad-56-technology-communication) |
+| 57 | Work & Education | *work as*, *study at*, *deadline* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
