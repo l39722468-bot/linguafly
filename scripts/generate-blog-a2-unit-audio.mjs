@@ -749,6 +749,18 @@ const CLIPS_BY_UNIT = {
     'dialogue-weekend': 'Shall we go out? I\'d like to, but I\'m tired because I worked late. OK — so let\'s stay in and watch a series. Good idea. Although I\'m tired, I don\'t want to sleep yet. Perfect.',
     'practice-four': 'I like tea and coffee. It\'s cheap, but small. I\'m tired because I worked late. It rained, so we stayed in.',
   },
+  60: {
+    'shall-we': 'Shall we meet at six?',
+    'can-i-help': 'Can I help you?',
+    'i-think': 'I think it\'s a great idea.',
+    'i-feel-excited': 'I feel excited about the course.',
+    'you-should-recycle': 'You should recycle.',
+    'work-as': 'I work as a teacher.',
+    'because-so': 'It rained, so we stayed in.',
+    'reading-week': 'This week I felt excited because I finished Module Six. Shall we celebrate? Let\'s meet in the main square — there is a nice café located opposite the library. In my opinion, the course was useful, although some units were hard. I work as a student assistant, so I often have to log in and send emails. I also try to recycle at home. Could you help me print my certificate? That would be great!',
+    'dialogue-after': 'How do you feel now? Proud — and a bit tired. I agree. Shall we go for a coffee? Yes. Would you like me to book a table? Please. Although it\'s late, I\'m hungry, so let\'s eat too. Perfect. I\'ll send you the location.',
+    'practice-four': 'Shall we meet at six? I think it\'s a great idea. You should recycle. It rained, so we stayed in.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

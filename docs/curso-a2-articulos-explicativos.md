@@ -123,7 +123,7 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 57 | Work & Education | *work as*, *study at*, *deadline* | ✅ | [Work & Education A2](/blog/curso-a2/unidad-57-work-education) |
 | 58 | Places & Buildings | *There is/are*, *located in*, *museum* | ✅ | [Places & Buildings A2](/blog/curso-a2/unidad-58-places-buildings) |
 | 59 | Linking Words | *and*, *but*, *because*, *so*, *although* | ✅ | [Linking Words A2](/blog/curso-a2/unidad-59-linking-words) |
-| 60 | Module 6 Review | repaso Módulo 6 (U51–U59) | ❌ | — |
+| 60 | Module 6 Review | repaso Módulo 6 (U51–U59) | ✅ | [Module 6 Review A2](/blog/curso-a2/unidad-60-module-6-review) |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
