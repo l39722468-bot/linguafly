@@ -634,6 +634,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-shop': 'Good morning. Can I help you? Yes. I\'m looking for a jacket. What size? Medium. How much is this one? It\'s fifty-nine euros. That grey one is cheaper — forty-five euros. I\'ll take the grey one, please. Perfect. The checkout is over there.',
     'practice-four': 'Can I help you? I\'m looking for a bag. How much is it? I\'d like a refund, please.',
   },
+  47: {
+    'have-a-headache': 'I have a headache.',
+    'feel-sick': 'I feel sick.',
+    'whats-the-matter': 'What\'s the matter?',
+    'you-should-rest': 'You should rest.',
+    'reading-label': 'This medicine is for a cold or a sore throat. Take one tablet every eight hours with water. Don\'t take more than three tablets a day. If you have a high fever, see a doctor. Keep out of reach of children. If you feel worse, stop and ask at the pharmacy.',
+    'dialogue-pharmacy': 'Hello. How can I help you? I have a headache and a sore throat. Do you have a fever? A little. I also feel tired. You should rest and drink water. Take this medicine every eight hours. Thanks. Should I see a doctor? If you feel worse tomorrow, yes.',
+    'practice-four': 'I have a headache. I feel sick. You should rest. Go to the pharmacy.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

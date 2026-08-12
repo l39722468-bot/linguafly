@@ -105,7 +105,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 44 | The Weather | *It's sunny*, *It's going to rain*, *will* | ✅ | [The Weather A2](/blog/curso-a2/unidad-44-the-weather) |
 | 45 | Entertainment & Media | *watch*, *listen to*, *like* + -ing, *prefer* | ✅ | [Entertainment & Media A2](/blog/curso-a2/unidad-45-entertainment-media) |
 | 46 | Shopping & Services | *Can I help you?*, *I'm looking for…*, *How much…?* | ✅ | [Shopping & Services A2](/blog/curso-a2/unidad-46-shopping-services) |
-| 47 | Health & Body | *have a headache*, *should*, *pharmacy* | ❌ | — |
+| 47 | Health & Body | *have a headache*, *should*, *pharmacy* | ✅ | [Health & Body A2](/blog/curso-a2/unidad-47-health-body) |
+| 48 | Clothes & Fashion | *wear*, *too* vs *enough*, *outfit* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
