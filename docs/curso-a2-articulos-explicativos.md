@@ -90,7 +90,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 34 | Subject & Object Questions | *Who called you?* / *Who did you call?* | ✅ | [Subject & Object Questions A2](/blog/curso-a2/unidad-34-subject-object-questions) |
 | 35 | Some, Any, Much, Many (revisión) | *some/any*, *much/many*, *a lot of* | ✅ | [Some, any, much, many A2](/blog/curso-a2/unidad-35-some-any-much-many) |
 | 36 | Articles: A/An, The, No Article | *a/an*, *the*, ø | ✅ | [Artículos A2](/blog/curso-a2/unidad-36-articles-a-an-the) |
-| 37 | Would like vs Like | *I'd like* vs *I like* | ❌ | — |
+| 37 | Would like vs Like | *I'd like* vs *I like* | ✅ | [Would like vs Like A2](/blog/curso-a2/unidad-37-would-like-vs-like) |
+| 38 | Should / Ought to | *should*, *ought to* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
