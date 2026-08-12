@@ -576,6 +576,16 @@ const CLIPS_BY_UNIT = {
     'dialogue-cafe': 'Would you like a table? Yes, please. I\'d like a tea and some cake. We don\'t have any chocolate cake today. OK. I\'d like apple cake. You should try the sandwich too. Later. I like eating light in the morning.',
     'practice-four': 'I get up at seven. I\'d like a tea, please. You should sleep more. I study at home in the evening.',
   },
+  41: {
+    'by-bus': 'I go by bus.',
+    'take-the-train': 'Take the train to the airport.',
+    'get-to-the-airport': 'How do I get to the airport?',
+    'arrive-at-the-station': 'We arrived at the station at nine.',
+    'platform-three': 'The train is on platform three.',
+    'reading-airport': 'Leo needs to get to the airport. He takes the train from the city station. The journey takes thirty-five minutes. He buys a ticket at the machine. The train leaves from platform four. There is no delay today. He arrives at the airport at eight and looks for the gate. He prefers travelling by train — it\'s faster than going by bus.',
+    'dialogue-station': 'Excuse me, how do I get to the museum? Take the bus number seven and get off at Green Park. How long is the journey? About twenty minutes. A single ticket is two pounds fifty. Which stop? Ask the driver — or check the timetable on the app.',
+    'practice-four': 'I go by train. Take the bus to the centre. How do I get to the airport? We arrived at the hotel at ten.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
