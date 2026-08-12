@@ -100,7 +100,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
 | 41 | Travel & Transport | *by bus*, *take the train*, *get to*, *arrive at* | ✅ | [Travel & Transport A2](/blog/curso-a2/unidad-41-travel-transport) |
-| 42 | Accommodation | *book*, *check in*, *single/double room* | ❌ | — |
+| 42 | Accommodation | *book*, *check in/out*, *single/double room* | ✅ | [Accommodation A2](/blog/curso-a2/unidad-42-accommodation) |
+| 43 | Holiday Activities | *sightseeing*, Past Simple / Present Perfect | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 

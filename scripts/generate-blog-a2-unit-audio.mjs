@@ -586,6 +586,17 @@ const CLIPS_BY_UNIT = {
     'dialogue-station': 'Excuse me, how do I get to the museum? Take the bus number seven and get off at Green Park. How long is the journey? About twenty minutes. A single ticket is two pounds fifty. Which stop? Ask the driver — or check the timetable on the app.',
     'practice-four': 'I go by train. Take the bus to the centre. How do I get to the airport? We arrived at the hotel at ten.',
   },
+  42: {
+    'book-a-room': 'I\'d like to book a room, please.',
+    'check-in': 'We\'d like to check in.',
+    'double-room': 'I\'d like a double room for two nights.',
+    'breakfast-included': 'Is breakfast included?',
+    'is-there-wifi': 'Is there WiFi in the rooms?',
+    'check-out': 'What time is check-out?',
+    'reading-hotel': 'Ana and Leo book a double room at the Blue Hotel. Breakfast is included. They check in at three p.m. The reception gives them a key card for room three oh five. There is free WiFi and room service until eleven p.m. The next morning they have breakfast downstairs. They check out at ten thirty and leave their bags at reception until their train.',
+    'dialogue-booking': 'City Hotel, good morning. Hi. I\'d like to book a room for next weekend. How many nights? Two. Do you have a single room? Yes. Breakfast included. Eighty euros per night. Perfect. Is there a lift? Yes. And free WiFi.',
+    'practice-four': 'I\'d like to book a room. We\'d like to check in, please. Is breakfast included? What time is check-out?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
