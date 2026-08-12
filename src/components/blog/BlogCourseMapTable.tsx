@@ -2,12 +2,14 @@
 
 import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
+import { useSearchParams } from 'next/navigation';
 import type { BlogCourseRelation } from '@/lib/blog-course-map';
 
 interface BlogCourseMapTableProps {
   relations: BlogCourseRelation[];
   topics: { id: string; name: string }[];
   courseLabels: string[];
+  /** Opcional; si falta, se lee `?articulo=` en el cliente (página estática en CF). */
   highlightSlug?: string;
 }
 
@@ -63,6 +65,9 @@ export function BlogCourseMapTable({
   courseLabels,
   highlightSlug,
 }: BlogCourseMapTableProps) {
+  const searchParams = useSearchParams();
+  const resolvedHighlight =
+    highlightSlug || searchParams.get('articulo') || undefined;
   const [draft, setDraft] = useState<FilterState>(EMPTY_FILTERS);
   const [applied, setApplied] = useState<FilterState>(EMPTY_FILTERS);
   const [page, setPage] = useState(1);
@@ -91,12 +96,12 @@ export function BlogCourseMapTable({
   }, [applied]);
 
   useEffect(() => {
-    if (!highlightSlug) return;
-    const el = document.getElementById(`articulo-${highlightSlug}`);
+    if (!resolvedHighlight) return;
+    const el = document.getElementById(`articulo-${resolvedHighlight}`);
     if (el) {
       el.scrollIntoView({ behavior: 'smooth', block: 'center' });
     }
-  }, [highlightSlug, pageItems]);
+  }, [resolvedHighlight, pageItems]);
 
   const applyFilters = (next?: FilterState) => {
     setApplied(next ?? draft);
@@ -110,7 +115,7 @@ export function BlogCourseMapTable({
 
   return (
     <div className="space-y-6">
-      {highlightSlug && (
+      {resolvedHighlight && (
         <div className="rounded-2xl border border-indigo-200 bg-indigo-50 px-5 py-4 text-sm text-indigo-900">
           Has llegado desde un artículo del blog. Las filas de ese artículo aparecen resaltadas.{' '}
           <button
@@ -118,7 +123,7 @@ export function BlogCourseMapTable({
             onClick={() => {
               const next = {
                 ...EMPTY_FILTERS,
-                search: highlightSlug.replace(/-/g, ' '),
+                search: resolvedHighlight.replace(/-/g, ' '),
               };
               setDraft(next);
               applyFilters(next);
@@ -247,7 +252,7 @@ export function BlogCourseMapTable({
               </tr>
             ) : (
               pageItems.map((row) => {
-                const isHighlighted = highlightSlug === row.articleSlug;
+                const isHighlighted = resolvedHighlight === row.articleSlug;
                 return (
                   <tr
                     key={`${row.articleSlug}-${row.courseId}-${row.unitNumber}-${row.topicId}`}

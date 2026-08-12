@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import { Navigation } from '@/components/sections/Navigation';
 import Link from 'next/link';
 import { Metadata } from 'next';
@@ -12,6 +13,9 @@ import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 import { generateBreadcrumbSchema } from '@/lib/schemas';
 import { JsonLd } from '@/components/seo/JsonLd';
 
+/** Estática en build: en Cloudflare Workers no hay fs al runtime para leer el blog. */
+export const dynamic = 'force-static';
+
 export const metadata: Metadata = {
   title: `Cuadro de ejercicios del curso relacionados con el blog | ${SITE_BRAND_NAME}`,
   description:
@@ -21,12 +25,7 @@ export const metadata: Metadata = {
   },
 };
 
-interface PageProps {
-  searchParams: Promise<{ articulo?: string }>;
-}
-
-export default async function BlogExerciseMapPage({ searchParams }: PageProps) {
-  const { articulo } = await searchParams;
+export default function BlogExerciseMapPage() {
   const relations = getAllBlogCourseRelations();
   const topics = getUniqueTopics();
   const courseLabels = getUniqueCourseLabels();
@@ -81,12 +80,13 @@ export default async function BlogExerciseMapPage({ searchParams }: PageProps) {
             </div>
           </div>
 
-          <BlogCourseMapTable
-            relations={relations}
-            topics={topics}
-            courseLabels={courseLabels}
-            highlightSlug={articulo}
-          />
+          <Suspense fallback={<div className="rounded-2xl border border-slate-200 bg-white p-8 text-slate-500">Cargando tabla…</div>}>
+            <BlogCourseMapTable
+              relations={relations}
+              topics={topics}
+              courseLabels={courseLabels}
+            />
+          </Suspense>
 
           <section className="mt-12 rounded-2xl border border-slate-200 bg-white p-6 lg:p-8">
             <h2 className="font-display text-2xl font-black text-slate-900 mb-3">¿Cómo usar este cuadro?</h2>
