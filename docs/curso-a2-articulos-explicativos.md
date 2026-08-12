@@ -107,7 +107,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 46 | Shopping & Services | *Can I help you?*, *I'm looking for…*, *How much…?* | ✅ | [Shopping & Services A2](/blog/curso-a2/unidad-46-shopping-services) |
 | 47 | Health & Body | *have a headache*, *should*, *pharmacy* | ✅ | [Health & Body A2](/blog/curso-a2/unidad-47-health-body) |
 | 48 | Clothes & Fashion | *wear*, *too* vs *enough*, *outfit* | ✅ | [Clothes & Fashion A2](/blog/curso-a2/unidad-48-clothes-fashion) |
-| 49 | People & Relationships | *look like*, *be like*, personalidad | ❌ | — |
+| 49 | People & Relationships | *look like*, *be like*, personalidad | ✅ | [People & Relationships A2](/blog/curso-a2/unidad-49-people-relationships) |
+| 50 | Module 5 Review | repaso Módulo 5 (U41–U49) | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 

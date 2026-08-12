@@ -652,6 +652,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-outfit': 'What should I wear to the party? Something smart casual. Not too formal. Are these jeans OK? Yes — but that shirt is too bright. Try the blue one. Is this jacket warm enough? Perfect. Put on those black shoes and you\'re ready.',
     'practice-four': 'I\'m wearing a red jumper. Put on your coat. These shoes are too small. Is this scarf warm enough?',
   },
+  49: {
+    'looks-like': 'She looks like her sister.',
+    'whats-she-like': 'What\'s she like?',
+    'shes-friendly': 'She\'s friendly and hard-working.',
+    'have-known': 'I\'ve known her for ten years.',
+    'reading-maya': 'Maya is my neighbour. I\'ve known her for three years. She looks like her mother — same smile and dark hair. What\'s she like? She\'s friendly, funny and very kind. We get on well. She\'s a bit quieter than me, but we talk every weekend over coffee.',
+    'dialogue-colleague': 'Have you met the new colleague? Yes. What\'s he like? He\'s hard-working and honest. A bit shy at first. What does he look like? Tall, short hair. He looks like my cousin, actually. How long have you known him? Only for two weeks — but we already get on well.',
+    'practice-four': 'She looks like her sister. What\'s he like? I\'ve known her for five years. He\'s more friendly than his brother.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
