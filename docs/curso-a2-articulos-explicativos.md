@@ -118,7 +118,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 52 | Making Offers & Requests | *Can I…?*, *Could you…?*, *Would you like me to…?* | ✅ | [Offers & Requests A2](/blog/curso-a2/unidad-52-offers-requests) |
 | 53 | Expressing Opinions | *I think…*, *In my opinion…*, *I agree* | ✅ | [Expressing Opinions A2](/blog/curso-a2/unidad-53-expressing-opinions) |
 | 54 | Feelings & Emotions | *feel* + adj, *excited*, *worried* | ✅ | [Feelings & Emotions A2](/blog/curso-a2/unidad-54-feelings-emotions) |
-| 55 | The Environment | *recycle*, *save*, *should* | ❌ | — |
+| 55 | The Environment | *recycle*, *save*, *should* | ✅ | [The Environment A2](/blog/curso-a2/unidad-55-the-environment) |
+| 56 | Technology & Communication | *email*, *download*, *app*, *WiFi* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 

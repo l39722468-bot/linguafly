@@ -706,6 +706,14 @@ const CLIPS_BY_UNIT = {
     'dialogue-exam': 'How do you feel? I\'m relieved — and a bit tired. Were you nervous? Yes. I was also worried about the listening part. You should be proud. You studied a lot. Thanks. I was disappointed last time, so this feels better.',
     'practice-four': 'I feel excited about the trip. I\'m worried about the exam. How do you feel? The film is boring, so I feel bored.',
   },
+  55: {
+    'we-recycle': 'We recycle glass and paper.',
+    'save-water': 'Save water and energy.',
+    'you-should-recycle': 'You should recycle.',
+    'reading-tips': 'Protecting the environment starts at home. You should recycle paper, glass and plastic. Save water when you brush your teeth, and turn off lights to save energy. Don\'t waste food. If you can, walk or take the bus — cars pollute the air. Small actions help every day.',
+    'dialogue-shop': 'We shouldn\'t buy so many plastic bags. You\'re right. We should reuse this one. Do you recycle at home? Yes — paper and bottles. I also try to save water. Good. Pollution is getting worse in the city. Let\'s walk more and use the bus.',
+    'practice-four': 'We recycle glass and paper. Save water when you can. You should recycle. Cars pollute the air.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
