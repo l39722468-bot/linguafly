@@ -5,7 +5,6 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { BookOpen, Video, Mic, CheckCircle2, ArrowRight, ArrowLeft } from 'lucide-react';
 import PilotVideoPlayer from './PilotVideoPlayer';
 import PilotSpeakingExercise from './PilotSpeakingExercise';
-import { updatePilotProgress } from '@/lib/services/pilot-service';
 
 interface PilotLessonPlayerProps {
   unit: any;
@@ -35,11 +34,7 @@ export default function PilotLessonPlayer({ unit, userId, initialProgress }: Pil
     setCompletedLessons(newCompleted);
 
     if (userId !== 'guest-user') {
-      await updatePilotProgress(userId, unit.unitId, {
-        current_lesson_id: currentLesson.lessonId,
-        completed_lessons: newCompleted,
-        scores: lessonScores
-      });
+      /* progress local-only */;
     }
 
     if (isLastLesson) {

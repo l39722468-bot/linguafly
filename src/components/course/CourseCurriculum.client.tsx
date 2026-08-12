@@ -5,7 +5,6 @@ import { useEffect, useState } from "react";
 import { CheckCircle2, Target, Clock, Trophy, List, Map } from "lucide-react";
 import { Module } from "@/lib/exercise-types";
 import { premiumCourseService } from "@/lib/services/premium-course-service";
-import { supabase } from "@/lib/supabase/client";
 import NextActionCard from "@/components/course/NextActionCard";
 import StreakRiskBanner from "@/components/gamification/StreakRiskBanner";
 import CourseWelcomeScreen from "@/components/course/CourseWelcomeScreen";
@@ -52,28 +51,6 @@ export default function CourseCurriculum({
         const now = new Date();
         const reviewCount = srsData.filter(item => new Date(item.next_review_at) <= now).length;
         setSrsReviewCount(reviewCount);
-      }
-
-      if (supabase) {
-        const { data: streakData } = await supabase
-          .from('user_streaks')
-          .select('current_streak, last_activity_date')
-          .eq('user_id', userId)
-          .single();
-
-        if (streakData && streakData.current_streak > 0) {
-          const today = new Date().toISOString().split('T')[0];
-          const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0];
-          if (streakData.last_activity_date === yesterday && streakData.last_activity_date !== today) {
-            const alreadyDismissed =
-              typeof window !== 'undefined' &&
-              sessionStorage.getItem('streak_risk_dismissed') === 'true';
-            if (!alreadyDismissed) {
-              setStreakDays(streakData.current_streak);
-              setShowStreakRisk(true);
-            }
-          }
-        }
       }
 
       setLoading(false);

@@ -2,7 +2,6 @@ import { NextRequest, NextResponse } from 'next/server';
 import { evaluateWithAI } from '@/lib/ai/evaluator';
 import { CEFRLevel } from '@/lib/exercise-types';
 
-export const runtime = 'edge';
 
 export async function POST(request: NextRequest) {
   try {

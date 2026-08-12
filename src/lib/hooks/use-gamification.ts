@@ -1,11 +1,12 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { supabase } from '@/lib/supabase-client';
 import { awardXP, calculateLevel, XP_REWARDS } from '@/lib/gamification/xp';
 import { checkAndAwardBadges } from '@/lib/gamification/badges';
 import { type Badge, type EarnedBadge } from '@/lib/gamification/types';
 import { updateStreak, type StreakData } from '@/lib/gamification/streaks';
+
+const GUEST_ID = 'guest';
 
 export interface UserGamificationData {
   xp: number;
@@ -14,6 +15,19 @@ export interface UserGamificationData {
   badges: EarnedBadge[];
   streak: StreakData;
   isLoading: boolean;
+}
+
+function readLocalBadges(userId: string): EarnedBadge[] {
+  try {
+    const raw = localStorage.getItem(`focus_badges:${userId}`);
+    const ids: string[] = raw ? JSON.parse(raw) : [];
+    return ids.map((badge_id) => ({
+      badge_id,
+      earned_at: new Date().toISOString(),
+    })) as EarnedBadge[];
+  } catch {
+    return [];
+  }
 }
 
 export function useGamification() {
@@ -36,46 +50,21 @@ export function useGamification() {
 
   const loadGamificationData = async () => {
     try {
-      const { data: { user } } = await supabase.auth.getUser();
-      if (!user) {
-        setData(prev => ({ ...prev, isLoading: false }));
-        return;
-      }
-
-      // Load XP data
-      const { data: xpData } = await supabase
-        .from('user_xp')
-        .select('*')
-        .eq('user_id', user.id)
-        .single();
-
-      // Load badges
-      const { data: badgesData } = await supabase
-        .from('user_badges')
-        .select('*')
-        .eq('user_id', user.id);
-
-      // Load streak data
-      const { data: streakData, error: streakError } = await supabase
-        .from('user_streaks')
-        .select('*')
-        .eq('user_id', user.id)
-        .single();
-
-      // Si la tabla de rachas no existe en este entorno, continuamos sin bloquear.
-      const missingStreakTable = streakError?.code === 'PGRST205';
+      const xp = Number(localStorage.getItem(`focus_xp:${GUEST_ID}`) || 0);
+      const levelInfo = calculateLevel(xp);
+      const streakRaw = localStorage.getItem(`focus_streak:${GUEST_ID}`);
+      const streakData = streakRaw ? JSON.parse(streakRaw) : null;
 
       setData({
-        xp: xpData?.total_xp || 0,
-        level: xpData?.level || 1,
-        xpToNextLevel: xpData?.xp_to_next_level || 100,
-        badges: badgesData || [],
+        xp,
+        level: levelInfo.currentLevel,
+        xpToNextLevel: levelInfo.xpToNextLevel,
+        badges: readLocalBadges(GUEST_ID),
         streak: {
-          currentStreak: missingStreakTable ? 0 : (streakData?.current_streak || 0),
-          longestStreak: missingStreakTable ? 0 : (streakData?.longest_streak || 0),
-          lastActivityDate: missingStreakTable
-            ? new Date().toISOString().split('T')[0]
-            : (streakData?.last_activity_date || new Date().toISOString().split('T')[0]),
+          currentStreak: streakData?.current_streak || 0,
+          longestStreak: streakData?.longest_streak || 0,
+          lastActivityDate:
+            streakData?.last_activity_date || new Date().toISOString().split('T')[0],
         },
         isLoading: false,
       });
@@ -87,24 +76,15 @@ export function useGamification() {
 
   const addXP = async (amount: number, source: string, sourceId?: string, description?: string) => {
     try {
-      const { data: { user } } = await supabase.auth.getUser();
-      if (!user) return;
-
-      // Award XP
-      const result = await awardXP(user.id, amount, source, sourceId, description);
-      
+      const result = await awardXP(GUEST_ID, amount, source, sourceId, description);
       if (result) {
-        // Update local state
         setData(prev => ({
           ...prev,
           xp: result.totalXP,
           level: result.level,
           xpToNextLevel: result.xpToNextLevel,
         }));
-
-        // Check for new badges
         await checkBadges();
-        
         return result;
       }
     } catch (error) {
@@ -114,23 +94,12 @@ export function useGamification() {
 
   const checkBadges = async () => {
     try {
-      const { data: { user } } = await supabase.auth.getUser();
-      if (!user) return;
-
-      const newBadges = await checkAndAwardBadges(user.id);
-      
+      const newBadges = await checkAndAwardBadges(GUEST_ID);
       if (newBadges && newBadges.length > 0) {
-        // Reload badges
-        const { data: badgesData } = await supabase
-          .from('user_badges')
-          .select('*')
-          .eq('user_id', user.id);
-
         setData(prev => ({
           ...prev,
-          badges: badgesData || [],
+          badges: readLocalBadges(GUEST_ID),
         }));
-
         return newBadges;
       }
     } catch (error) {
@@ -140,17 +109,12 @@ export function useGamification() {
 
   const recordActivity = async () => {
     try {
-      const { data: { user } } = await supabase.auth.getUser();
-      if (!user) return;
-
-      const streakData = await updateStreak(user.id);
-      
+      const streakData = await updateStreak(GUEST_ID);
       if (streakData) {
         setData(prev => ({
           ...prev,
           streak: streakData,
         }));
-
         return streakData;
       }
     } catch (error) {
@@ -160,20 +124,13 @@ export function useGamification() {
 
   const completeExercise = async (exerciseId: string, score: number, maxScore: number) => {
     try {
-      // Record activity for streak
       await recordActivity();
-
-      // Award XP based on score
       const baseXP = XP_REWARDS['practice-session'] || 20;
       const xpAmount = Math.floor((score / maxScore) * baseXP);
       const bonusXP = score === maxScore ? (XP_REWARDS['perfect-exercise-bonus'] || 10) : 0;
-      
-      await addXP(xpAmount + bonusXP, 'exercise', exerciseId, 
+      await addXP(xpAmount + bonusXP, 'exercise', exerciseId,
         `Completed exercise ${exerciseId} with ${score}/${maxScore} points`);
-
-      // Check for badges
       const newBadges = await checkBadges();
-      
       return { newBadges };
     } catch (error) {
       console.error('Error completing exercise:', error);
@@ -182,20 +139,13 @@ export function useGamification() {
 
   const completeLesson = async (lessonId: string, totalScore: number, maxScore: number) => {
     try {
-      // Record activity for streak
       await recordActivity();
-
-      // Award XP based on lesson completion
       const baseXP = XP_REWARDS['lesson-completion'] || 100;
       const xpAmount = Math.floor((totalScore / maxScore) * baseXP);
       const bonusXP = totalScore === maxScore ? (XP_REWARDS['perfect-score'] || 50) : 0;
-      
-      await addXP(xpAmount + bonusXP, 'lesson', lessonId, 
+      await addXP(xpAmount + bonusXP, 'lesson', lessonId,
         `Completed lesson ${lessonId} with ${totalScore}/${maxScore} points`);
-
-      // Check for badges
       const newBadges = await checkBadges();
-      
       return { newBadges };
     } catch (error) {
       console.error('Error completing lesson:', error);
@@ -205,13 +155,10 @@ export function useGamification() {
   const completeMission = async (missionId: string, score: number) => {
     try {
       await recordActivity();
-
       const baseXP = XP_REWARDS['ai-mission'] || 150;
       const xpAmount = Math.floor((score / 100) * baseXP);
-      
-      await addXP(xpAmount, 'ai-mission', missionId, 
+      await addXP(xpAmount, 'ai-mission', missionId,
         `Misión AI: ${missionId} completada con ${score}/100 puntos`);
-
       const newBadges = await checkBadges();
       return { newBadges };
     } catch (error) {

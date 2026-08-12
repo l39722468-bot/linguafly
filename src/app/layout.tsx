@@ -8,7 +8,6 @@ import InMobiChoiceConsent from "@/components/InMobiChoiceConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
 import UspapiLocator from "@/components/UspapiLocator";
-import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://www.focus-on-english.com'),
@@ -101,7 +100,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           }}
           data-cookieconsent="statistics"
         />
-        {/* Preconnect críticos: imágenes, Supabase (auth), Cookiebot */}
+        {/* Preconnect críticos: imágenes, fonts, Cookiebot */}
         <link rel="preconnect" href="https://images.pexels.com" />
         <link rel="dns-prefetch" href="https://images.pexels.com" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -112,8 +111,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Plus+Jakarta+Sans:wght@700&display=swap"
         />
-        <link rel="preconnect" href="https://nprqtjljoekoirlrjxlh.supabase.co" />
-        <link rel="dns-prefetch" href="https://nprqtjljoekoirlrjxlh.supabase.co" />
         <link rel="preconnect" href="https://consent.cookiebot.com" />
         <link rel="dns-prefetch" href="https://consent.cookiebot.com" />
         <link rel="preconnect" href="https://cmp.inmobi.com" />
@@ -144,7 +141,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         {children}
         {/* Scripts deferidos: no bloquean first paint */}
         <GoogleAnalytics />
-        <Analytics />
         {/* Copyright watermark - contraste 4.5:1 (WCAG AA) */}
         <div
           style={{

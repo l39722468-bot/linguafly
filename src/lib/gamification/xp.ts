@@ -1,5 +1,4 @@
 import { UserLevel, XPEvent, XPSource } from './types';
-import { supabase } from '@/lib/supabase-client';
 
 /**
  * XP REWARDS CONFIGURATION
@@ -109,48 +108,19 @@ export async function awardXP(
   sourceId?: string, 
   description?: string
 ): Promise<{ totalXP: number; level: number; xpToNextLevel: number } | null> {
+  void source; void sourceId; void description;
   try {
-    // 1. Record transaction
-    const { error: txError } = await supabase
-      .from('xp_transactions')
-      .insert({
-        user_id: userId,
-        amount,
-        source,
-        source_id: sourceId,
-        description
-      });
-
-    if (txError) throw txError;
-
-    // 2. Get current XP
-    const { data: currentXPData, error: fetchError } = await supabase
-      .from('user_xp')
-      .select('total_xp')
-      .eq('user_id', userId)
-      .single();
-
-    if (fetchError && fetchError.code !== 'PGRST116') throw fetchError;
-
-    const newTotalXP = (currentXPData?.total_xp || 0) + amount;
-
-    // 3. Update user XP (trigger will handle leveling)
-    const { data: updatedData, error: updateError } = await supabase
-      .from('user_xp')
-      .upsert({
-        user_id: userId,
-        total_xp: newTotalXP,
-        updated_at: new Date().toISOString()
-      })
-      .select()
-      .single();
-
-    if (updateError) throw updateError;
-
+    const key = `focus_xp:${userId || 'guest'}`;
+    const current = typeof window !== 'undefined'
+      ? Number(localStorage.getItem(key) || 0)
+      : 0;
+    const totalXP = current + amount;
+    if (typeof window !== 'undefined') localStorage.setItem(key, String(totalXP));
+    const levelInfo = calculateLevelFromXP(totalXP);
     return {
-      totalXP: updatedData.total_xp,
-      level: updatedData.level,
-      xpToNextLevel: updatedData.xp_to_next_level
+      totalXP,
+      level: levelInfo.currentLevel,
+      xpToNextLevel: levelInfo.xpToNextLevel,
     };
   } catch (error) {
     console.error('Error in awardXP:', error);

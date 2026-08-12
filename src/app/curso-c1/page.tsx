@@ -5,7 +5,6 @@ import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access'
 import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award } from 'lucide-react';
 import Link from 'next/link';
-import { MiPanelLink } from '@/components/course/MiPanelLink';
 
 export const dynamic = 'force-dynamic';
 
@@ -38,7 +37,6 @@ async function C1PreviewContent() {
                 <Award className="w-4 h-4" />
                 <span>C1 Level · Advanced</span>
               </div>
-              <MiPanelLink />
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-black text-slate-900 mb-4 tracking-tight">
               Curso de Inglés C1

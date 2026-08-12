@@ -3,9 +3,6 @@ import {
   CF_LLAMA_3_3_70B_INSTRUCT_FP8_FAST,
   CF_WHISPER_LARGE_V3_TURBO,
 } from '@/lib/ai/cloudflare-workers-ai-models';
-import { getMobileAuth } from '@/lib/api/mobile-auth';
-import { resolveEntitlements } from '@/lib/access/entitlements';
-import { getUserProfileByAuthId } from '@/lib/access/user-profile';
 
 export const maxDuration = 60;
 
@@ -33,29 +30,6 @@ export interface SpeakingEvaluationResponse {
 
 export async function POST(request: NextRequest) {
   try {
-    const { supabase, user } = await getMobileAuth(request);
-    if (!user) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
-    }
-
-    const profile = await getUserProfileByAuthId<{
-      subscription_status?: string;
-      subscription_plan?: string;
-    }>(supabase, user.id, 'subscription_status, subscription_plan');
-
-    const entitlements = resolveEntitlements({
-      subscriptionStatus: profile?.subscription_status,
-      subscriptionPlan: profile?.subscription_plan,
-    });
-
-    // Premium: acceso completo. Basic: acceso limitado (este endpoint). Free/inactive: bloqueado.
-    if (!entitlements.aiSpeakingFull && !entitlements.aiSpeakingLimited) {
-      return NextResponse.json(
-        { error: 'Speaking con IA requiere una suscripción activa.' },
-        { status: 402 }
-      );
-    }
-
     const body: SpeakingEvaluationRequest = await request.json();
 
     const {

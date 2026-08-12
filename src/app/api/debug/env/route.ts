@@ -1,17 +1,11 @@
 // API Route para verificar configuración (SOLO PARA DEBUG)
-// Eliminar en producción
-
 import { NextResponse } from 'next/server';
 
-
-export const runtime = 'edge';
 export async function GET() {
   const config = {
-    supabaseUrl: !!process.env.NEXT_PUBLIC_SUPABASE_URL,
-    supabaseAnonKey: !!process.env.NEXT_PUBLIC_SUPABASE_ANON_KEY,
-    supabaseServiceKey: !!process.env.SUPABASE_SERVICE_ROLE_KEY,
-    nextAuthUrl: !!process.env.NEXTAUTH_URL,
-    nextAuthSecret: !!process.env.NEXTAUTH_SECRET,
+    openai: !!process.env.OPENAI_API_KEY,
+    cloudflareAccount: !!process.env.CLOUDFLARE_ACCOUNT_ID,
+    cloudflareToken: !!process.env.CLOUDFLARE_API_TOKEN,
     nodeEnv: process.env.NODE_ENV,
   };
 

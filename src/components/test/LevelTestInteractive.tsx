@@ -4,7 +4,6 @@ import { useState } from 'react';
 import { LEVEL_TEST_QUESTIONS, calculateLevel, TOTAL_POINTS, type Question, type LevelResult } from '@/lib/level-test-data';
 import { CheckCircle2, XCircle, ArrowRight, ArrowLeft, BarChart3, Clock, Award } from 'lucide-react';
 import Link from 'next/link';
-import { useUser } from '@/hooks/useAuth';
 
 type AuthUserSnapshot = {
   email: string;
@@ -16,7 +15,7 @@ type LevelTestInteractiveProps = {
 };
 
 export default function LevelTestInteractive({ authUser = null }: LevelTestInteractiveProps) {
-  const { user } = useUser();
+  const user = null;
   const [hasStarted, setHasStarted] = useState(false);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [answers, setAnswers] = useState<{ [questionId: string]: number }>({});
@@ -28,9 +27,9 @@ export default function LevelTestInteractive({ authUser = null }: LevelTestInter
   const [placementSaved, setPlacementSaved] = useState(false);
   const [placementError, setPlacementError] = useState<string | null>(null);
   const [isSubmitting, setIsSubmitting] = useState(false);
-  const isAuthenticated = Boolean(authUser || user);
-  const resolvedUserEmail = authUser?.email || user?.email || '';
-  const resolvedUserName = authUser?.fullName || (user?.user_metadata?.full_name as string | undefined) || '';
+  const isAuthenticated = Boolean(authUser);
+  const resolvedUserEmail = authUser?.email || '';
+  const resolvedUserName = authUser?.fullName || '';
   const finalizeTest = async (leadOverride?: { firstName?: string; email?: string }) => {
     setIsSubmitting(true);
     setPlacementError(null);

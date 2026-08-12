@@ -55,11 +55,11 @@ export default function PracticePage() {
           <h1 className="text-2xl font-black text-gray-900 mb-2">¡Ups! Algo salió mal</h1>
           <p className="text-gray-600 mb-8">{error || 'No pudimos cargar la lección en este momento.'}</p>
           <Link 
-            href="/mi-panel"
+            href="/blog"
             className="inline-flex items-center justify-center gap-2 bg-gray-900 text-white px-6 py-3 rounded-2xl font-bold hover:bg-gray-800 transition-all w-full"
           >
             <ArrowLeft className="w-5 h-5" />
-            Volver al panel
+            Volver al blog
           </Link>
         </div>
       </div>

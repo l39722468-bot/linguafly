@@ -1,8 +1,5 @@
 import { NextResponse } from 'next/server';
 import OpenAI from 'openai';
-import { createClient } from '@/lib/supabase/server';
-import { resolveEntitlements } from '@/lib/access/entitlements';
-import { getUserProfileByAuthId } from '@/lib/access/user-profile';
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY || '',
@@ -14,35 +11,6 @@ export async function POST(req: Request) {
   }
 
   try {
-    const supabase = await createClient();
-    const {
-      data: { user },
-    } = await supabase.auth.getUser();
-    if (!user) {
-      return NextResponse.json({ success: false, error: 'Unauthorized' }, { status: 401 });
-    }
-
-    const profile = await getUserProfileByAuthId<{
-      subscription_status?: string;
-      subscription_plan?: string;
-    }>(supabase, user.id, 'subscription_status, subscription_plan');
-
-    const entitlements = resolveEntitlements({
-      subscriptionStatus: profile?.subscription_status,
-      subscriptionPlan: profile?.subscription_plan,
-    });
-
-    if (!entitlements.aiSpeakingFull) {
-      return NextResponse.json(
-        {
-          success: false,
-          error: 'Las pistas del tutor IA requieren plan premium.',
-          upgradeRequired: true,
-        },
-        { status: 402 }
-      );
-    }
-
     const { messages, scenario, level } = await req.json();
 
     const response = await openai.chat.completions.create({

@@ -5,7 +5,6 @@ import { useEffect, useMemo, useState, Suspense } from 'react';
 import ExerciseRenderer from '@/components/ExerciseRenderer';
 import { ArrowLeft, ArrowRight, Home, CheckCircle, Sparkles } from 'lucide-react';
 import Link from 'next/link';
-import { MiPanelLink } from '@/components/course/MiPanelLink';
 import { trackUnitTimeSpent, trackExerciseCompletion, trackUnitCompletion } from '@/lib/analytics';
 import AIExercisePractice from '@/components/course/AIExercisePractice';
 import { UnitJourneyContinue } from '@/components/course/UnitJourneyContinue';
@@ -234,7 +233,6 @@ function C1UnitContentInner() {
           </h1>
         </div>
         <div className="flex items-center gap-2">
-          <MiPanelLink variant="nav" />
           <button onClick={() => setCurrentIndex(prev => Math.max(0, prev - 1))} disabled={currentIndex === 0} className="p-2 bg-slate-100 rounded-xl disabled:opacity-30 hover:bg-slate-200 transition-all">
             <ArrowLeft className="w-5 h-5" />
           </button>

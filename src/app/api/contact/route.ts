@@ -1,12 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { createClient } from '@supabase/supabase-js';
-import { createSupportTicket } from '@/lib/support/tickets';
 
 export const runtime = 'nodejs';
 
-const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL || '';
-const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY || '';
-
+/**
+ * Contact form for the free blog — accepts submissions without a backend CRM/DB.
+ * Messages are logged; wire to email later if needed.
+ */
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
@@ -20,42 +19,18 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Email inválido' }, { status: 400 });
     }
 
-    // Fuente de verdad: support_tickets (guest)
-    const { ticket } = await createSupportTicket({
-      source: 'guest',
-      email,
-      subject,
-      message,
+    console.info('[contact]', {
       firstName,
       lastName,
+      email: String(email).toLowerCase().trim(),
       phone: phone || null,
-      category: 'general',
+      subject,
+      messageLength: String(message).length,
     });
-
-    // Compatibilidad: también guardar en contact_inquiries si la tabla existe
-    if (supabaseUrl && supabaseServiceKey) {
-      try {
-        const supabase = createClient(supabaseUrl, supabaseServiceKey);
-        await supabase.from('contact_inquiries').insert([
-          {
-            first_name: firstName,
-            last_name: lastName,
-            email: email.toLowerCase().trim(),
-            phone: phone || null,
-            subject,
-            message,
-            created_at: new Date().toISOString(),
-          },
-        ]);
-      } catch (e) {
-        console.warn('[contact] contact_inquiries insert skipped', e);
-      }
-    }
 
     return NextResponse.json({
       success: true,
       message: 'Consulta recibida correctamente. Te responderemos en breve.',
-      ticketId: ticket.id,
     });
   } catch (error) {
     console.error('Contact API error:', error);

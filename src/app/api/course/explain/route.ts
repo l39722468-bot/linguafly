@@ -1,6 +1,5 @@
 import { NextResponse } from 'next/server';
 import OpenAI from 'openai';
-import { createClient } from '@/lib/supabase/server';
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY || '',
@@ -19,24 +18,6 @@ export async function POST(req: Request) {
       return NextResponse.json({ error: 'Interaction data with ID is required' }, { status: 400 });
     }
 
-    const supabase = await createClient();
-
-    // 1. Check Cache
-    const { data: cached } = await supabase
-      .from('exercise_explanations_cache')
-      .select('explanation')
-      .eq('exercise_id', id)
-      .single();
-
-    if (cached) {
-      return NextResponse.json({
-        success: true,
-        explanation: cached.explanation,
-        cached: true
-      });
-    }
-
-    // 2. Generate with AI if not in cache
     const systemPrompt = `Eres un tutor de inglés experto para hispanohablantes. 
 Tu tarea es explicar de forma clara, concisa y pedagógica por qué la respuesta correcta a un ejercicio es la que es.
 
@@ -63,12 +44,6 @@ Instrucciones:
     });
 
     const explanation = response.choices[0].message.content?.trim() || 'No se pudo generar una explicación.';
-
-    // 3. Save to Cache (Background)
-    await supabase.from('exercise_explanations_cache').insert({
-      exercise_id: id,
-      explanation: explanation
-    });
 
     return NextResponse.json({
       success: true,

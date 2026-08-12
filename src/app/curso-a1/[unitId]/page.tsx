@@ -13,7 +13,6 @@ const FEEDBACK_CORRECT_HEADLINES = ['¡Correcto!', '¡Muy bien!', '¡Perfecto!',
 const FEEDBACK_INCORRECT_HEADLINES = ['Casi lo tienes', 'Otra oportunidad', 'Sigue intentando', 'Repasa y vuelve'];
 const FEEDBACK_INCORRECT_SUBTEXTS = ['Cada intento te acerca más. Sigue practicando.', 'Repasa el contenido y vuelve a intentarlo.', 'La constancia es la clave del progreso.'];
 import Link from 'next/link';
-import { MiPanelLink } from '@/components/course/MiPanelLink';
 import AIExercisePractice from '@/components/course/AIExercisePractice';
 import { UnitJourneyContinue } from '@/components/course/UnitJourneyContinue';
 import { useCourseMetadata } from '@/hooks/useCourseMetadata';
@@ -547,7 +546,6 @@ function UnitPreviewContent() {
         </div>
 
         <div className="flex items-center gap-2">
-          <MiPanelLink variant="nav" />
           <button
             onClick={() => setCurrentIndex(prev => Math.max(0, prev - 1))}
             disabled={currentIndex === 0}
