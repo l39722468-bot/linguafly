@@ -566,6 +566,16 @@ const CLIPS_BY_UNIT = {
     'dialogue-plans': 'Are you free at the weekend? In the morning, yes. In the afternoon, I work. OK. Let\'s meet in the café on Saturday morning. Perfect. I go there once a week anyway. Great. I\'m busy at the moment, but I\'ll message you later at night.',
     'practice-four': 'I study in the morning. I\'m busy at the moment. We meet once a week. She works at home on Mondays.',
   },
+  40: {
+    'get-up': 'I get up at seven.',
+    'id-like-a-coffee': 'I\'d like a coffee, please.',
+    'who-called-you': 'Who called you? Who did you call?',
+    'a-dog-the-dog': 'I saw a dog. The dog was small.',
+    'you-should-rest': 'You should rest at home in the evening.',
+    'reading-saturday': 'Ana gets up early on Saturdays. She likes running in the park in the morning. At the moment, she is tired, so her friend says: You should rest. You shouldn\'t run today. Ana answers: I\'d like to go anyway — just once. Later she buys some fruit. She doesn\'t need any bread. She sees a café near the station and thinks: I\'d like a tea. She goes there once a week.',
+    'dialogue-cafe': 'Would you like a table? Yes, please. I\'d like a tea and some cake. We don\'t have any chocolate cake today. OK. I\'d like apple cake. You should try the sandwich too. Later. I like eating light in the morning.',
+    'practice-four': 'I get up at seven. I\'d like a tea, please. You should sleep more. I study at home in the evening.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

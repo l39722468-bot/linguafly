@@ -93,11 +93,13 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 37 | Would like vs Like | *I'd like* vs *I like* | ✅ | [Would like vs Like A2](/blog/curso-a2/unidad-37-would-like-vs-like) |
 | 38 | Should / Ought to | *should*, *shouldn't*, *ought to* | ✅ | [Should / Ought to A2](/blog/curso-a2/unidad-38-should-ought-to) |
 | 39 | Adverbial Phrases | *at the moment*, *once a week*… | ✅ | [Adverbial Phrases A2](/blog/curso-a2/unidad-39-adverbial-phrases) |
-| 40 | Module 4 Review | repaso Módulo 4 | ❌ | — |
-
-Pendiente de detalle editorial a medida que se publiquen artículos.
+| 40 | Module 4 Review | repaso Módulo 4 (U31–U39) | ✅ | [Module 4 Review A2](/blog/curso-a2/unidad-40-module-4-review) |
 
 ## Módulos 5–6 (U41–60)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 41 | Travel & Transport | *by bus*, *get to*, *arrive at* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
