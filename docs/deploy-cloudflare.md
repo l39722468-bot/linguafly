@@ -15,8 +15,10 @@
 - [x] Eliminado `@vercel/analytics` (GA/GTM siguen)
 - [x] Eliminados Resend, Stripe, Supabase (deps + rutas de cuenta/pago)
 - [x] Middleware solo SEO/redirects
+- [x] CI `deploy-cloudflare.yml` (push a `main` + workflow_dispatch)
+- [x] Canónicos raíz → `linguafly.app` (layout/schema/robots)
 - [ ] Primer `npm run preview` OK
-- [ ] Secrets en Cloudflare Dashboard
+- [ ] Secrets Cloudflare (`CLOUDFLARE_API_TOKEN` + `CLOUDFLARE_ACCOUNT_ID`)
 - [ ] Deploy preview (`*.workers.dev`)
 - [ ] Cutover DNS `linguafly.app`
 - [ ] Apagar Vercel

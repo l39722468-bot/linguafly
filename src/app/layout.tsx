@@ -8,11 +8,14 @@ import InMobiChoiceConsent from "@/components/InMobiChoiceConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
 import UspapiLocator from "@/components/UspapiLocator";
+import { SITE_BRAND_NAME, getSiteUrl } from "@/lib/site-brand";
+
+const siteUrl = getSiteUrl();
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://www.focus-on-english.com'),
+  metadataBase: new URL(siteUrl),
   title: {
-    default: "Blog para Aprender Inglés | Focus English",
+    default: `Blog para Aprender Inglés | ${SITE_BRAND_NAME}`,
     template: "%s"
   },
   description: "Blog de contenido de calidad para aprender inglés: consultas de gramática, vocabulario, frases, habilidades y métodos de estudio.",
@@ -31,37 +34,35 @@ export const metadata: Metadata = {
     "frases en inglés",
     "métodos para estudiar inglés",
   ],
-  authors: [{ name: "Focus English", url: "https://www.focus-on-english.com" }],
-  creator: "Focus English",
-  publisher: "Focus English",
+  authors: [{ name: SITE_BRAND_NAME, url: siteUrl }],
+  creator: SITE_BRAND_NAME,
+  publisher: SITE_BRAND_NAME,
   formatDetection: {
     email: false,
     address: false,
     telephone: false,
   },
   openGraph: {
-    title: "Blog para Aprender Inglés | Focus English",
+    title: `Blog para Aprender Inglés | ${SITE_BRAND_NAME}`,
     description: "Guías de gramática, vocabulario y frases en inglés para resolver dudas y aprender de forma práctica.",
     type: "website",
     locale: "es_ES",
-    siteName: "Focus English",
-    url: "https://www.focus-on-english.com",
+    siteName: SITE_BRAND_NAME,
+    url: siteUrl,
     images: [
       {
         url: 'https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop',
         width: 1200,
         height: 630,
-        alt: 'Focus English - Aprende inglés para el mundo real',
+        alt: `${SITE_BRAND_NAME} - Aprende inglés para el mundo real`,
       }
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Blog para Aprender Inglés | Focus English",
+    title: `Blog para Aprender Inglés | ${SITE_BRAND_NAME}`,
     description: "Consultas de inglés resueltas con guías claras: gramática, vocabulario, frases y métodos de estudio.",
     images: ['https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop'],
-    site: "@focus_english",
-    creator: "@focus_english",
   },
   robots: {
     index: true,
