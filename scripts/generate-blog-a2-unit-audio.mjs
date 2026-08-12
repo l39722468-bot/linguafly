@@ -740,6 +740,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-tourist': 'Excuse me. Is there a library near here? Yes. It\'s located in Green Street, opposite the museum. And are there any good cafés? There are three in the main square. Perfect. Is the stadium far? No — it\'s the biggest building in the south.',
     'practice-four': 'There is a museum in the centre. There are two parks near here. The library is located in the city centre. It\'s the tallest building in the city.',
   },
+  59: {
+    'because-so': 'It rained, so we stayed in.',
+    'but-contrast': 'I like the city, but it\'s noisy.',
+    'although': 'Although it was late, we went out.',
+    'however': 'It was late. However, we went out.',
+    'reading-paragraph': 'I love my city because there are parks and museums. It\'s busy, but friendly. Although the centre is expensive, I enjoy living there. Last Saturday it rained, so we stayed at home. We watched a film and cooked dinner. The film was long; however, it was excellent.',
+    'dialogue-weekend': 'Shall we go out? I\'d like to, but I\'m tired because I worked late. OK — so let\'s stay in and watch a series. Good idea. Although I\'m tired, I don\'t want to sleep yet. Perfect.',
+    'practice-four': 'I like tea and coffee. It\'s cheap, but small. I\'m tired because I worked late. It rained, so we stayed in.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
