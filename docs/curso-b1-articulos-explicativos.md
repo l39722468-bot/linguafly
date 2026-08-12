@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-12 (artículo U1; Módulo 1 en curso)  
+**Última actualización:** 2026-08-12 (artículos U1–U2; Módulo 1 en curso)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 1 |
-| Artículos dedicados pendientes | 59 |
+| Artículos dedicados publicados | 2 |
+| Artículos dedicados pendientes | 58 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -34,7 +34,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
 | 1 | Repaso A2 → B1 | PP, comparativos, modales, who/which, used to; personal info, feelings | ✅ | [Repaso A2 → B1](/blog/curso-b1/unidad-1-repaso-a2-b1) |
-| 2 | Present Perfect Continuous | have/has been + -ing; for/since; Education | ❌ | — |
+| 2 | Present Perfect Continuous | have/has been + -ing; for/since; Education | ✅ | [Present Perfect Continuous B1](/blog/curso-b1/unidad-2-present-perfect-continuous) |
 | 3 | Past Perfect | had + pp; secuencias | ❌ | — |
 | 4 | Past Simple vs Present Perfect | contraste; time expressions | ❌ | — |
 | 5 | Repaso 1–4 | integración | ❌ | — |

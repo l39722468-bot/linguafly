@@ -30,6 +30,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-feelings': 'How do you feel about moving abroad? At first I felt anxious, but now I feel confident. Are you proud of your degree? Yes — and I\'m satisfied with my new job. That\'s amazing!',
     'practice-four': 'I have lived here for three years. She has never been to Japan. You must wear a seatbelt. I used to play tennis when I was young.',
   },
+  2: {
+    'she-has-been-studying': 'She has been studying for two hours.',
+    'they-have-been-working': 'They have been working on the project all day.',
+    'for-three-years': 'I have been learning English for three years.',
+    'since-2019': 'He has been teaching since 2019.',
+    'has-been-gardening': 'Her hands are dirty. She has been gardening.',
+    'how-long': 'How long have you been studying here?',
+    'have-read-three': 'I have read three books this year.',
+    'have-been-crying': 'Your eyes are red. You have been crying.',
+    'has-written-ten': 'She has written ten emails today.',
+    'it-has-been-raining': 'It has been raining since this morning.',
+    'reading-james': 'My name is James and I have been studying English for five years. I started when I was at secondary school and I have been improving ever since. I am currently doing a degree in Engineering at the university and I have been attending English classes since September. My teacher has been teaching here for ten years and she is very patient. I have been working on my pronunciation for months and I think I am getting better.',
+    'dialogue-study': 'How long have you been studying English? For five years. Have you been attending classes this term? Yes — since September. I have also been working on my pronunciation. That\'s great. Have you passed any exams? Yes — I passed two last term.',
+    'practice-four': 'She has been studying for two hours. I have been learning English for three years. How long have you been studying here? She has written ten emails today.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
