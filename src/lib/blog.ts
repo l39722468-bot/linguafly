@@ -3,6 +3,8 @@ import path from "path";
 import matter from "gray-matter";
 import { Author, getAuthor } from "./authors";
 import { SITE_BRAND_NAME } from "./site-brand";
+// Generado por scripts/export-blog-data.ts (cf:build). Fallback cuando no hay fs (Workers).
+import generatedBlogArticles from "@/generated/blog-articles.json";
 
 const BLOG_DIR = path.join(process.cwd(), "src/content/blog");
 
@@ -60,68 +62,119 @@ export function normalizeCategory(category: string): string {
     .replace(/[^\w-]/g, "");
 }
 
-export function getBlogArticles(): BlogPost[] {
-  if (articlesCache) {
-    return articlesCache;
+type StoredBlogArticle = Omit<BlogPost, "authorData">;
+
+function hydrateStoredArticles(stored: StoredBlogArticle[]): BlogPost[] {
+  return stored.map((a) => ({
+    ...a,
+    authorData: getAuthor(a.author || "linguafly-team"),
+  }));
+}
+
+function readArticlesFromMarkdown(): BlogPost[] {
+  try {
+    if (!fs.existsSync(BLOG_DIR)) return [];
+  } catch {
+    // Cloudflare Workers: fs no disponible / sin filesystem real
+    return [];
   }
 
-  const allFiles = getAllFiles(BLOG_DIR);
-  
-  const articles = allFiles.map((filePath) => {
-    const fileContent = fs.readFileSync(filePath, "utf-8");
-    const { data, content } = matter(fileContent);
-    const slug = path.basename(filePath).replace(/\.mdx?$/, "");
+  let allFiles: string[] = [];
+  try {
+    allFiles = getAllFiles(BLOG_DIR);
+  } catch {
+    return [];
+  }
+  if (allFiles.length === 0) return [];
 
-    if (!data || typeof data !== 'object') {
-      console.error(`[BlogLib] FAILED to parse frontmatter for: ${filePath}`);
-      return null;
-    }
+  try {
+    const articles = allFiles
+      .map((filePath) => {
+        const fileContent = fs.readFileSync(filePath, "utf-8");
+        const { data, content } = matter(fileContent);
+        const slug = path.basename(filePath).replace(/\.mdx?$/, "");
 
-    return {
-      slug,
-      title: data.title || "Untitled",
-      date: data.date || new Date().toISOString(),
-      author: data.author || SITE_BRAND_NAME,
-      authorData: getAuthor(data.author || "linguafly-team"),
-      excerpt: data.excerpt || data.description || "",
-      description: data.description || data.excerpt,
-      category: normalizeCategory(data.category || "General"),
-      readTime: data.readTime || "5 min",
-      image: typeof data.image === "string" && data.image.trim() ? data.image.trim() : undefined,
-      alt: data.alt,
-      keywords: data.keywords || [],
-      faqs: data.faqs || [],
-      featured: data.featured || false,
-      canonical: data.canonical,
-      downloadPdf: data.downloadPdf === true,
-      pdfFileName: data.pdfFileName,
-      pdfDownloadLabel: data.pdfDownloadLabel,
-      updatedDate: data.updatedDate || data.updated_date || undefined,
-      content,
-    } as BlogPost;
-  }).filter((a): a is BlogPost => a !== null);
+        if (!data || typeof data !== "object") {
+          console.error(`[BlogLib] FAILED to parse frontmatter for: ${filePath}`);
+          return null;
+        }
 
-  // Sort by date descending
-  articlesCache = articles.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+        return {
+          slug,
+          title: data.title || "Untitled",
+          date: data.date || new Date().toISOString(),
+          author: data.author || SITE_BRAND_NAME,
+          authorData: getAuthor(data.author || "linguafly-team"),
+          excerpt: data.excerpt || data.description || "",
+          description: data.description || data.excerpt,
+          category: normalizeCategory(data.category || "General"),
+          readTime: data.readTime || "5 min",
+          image: typeof data.image === "string" && data.image.trim() ? data.image.trim() : undefined,
+          alt: data.alt,
+          keywords: data.keywords || [],
+          faqs: data.faqs || [],
+          featured: data.featured || false,
+          canonical: data.canonical,
+          downloadPdf: data.downloadPdf === true,
+          pdfFileName: data.pdfFileName,
+          pdfDownloadLabel: data.pdfDownloadLabel,
+          updatedDate: data.updatedDate || data.updated_date || undefined,
+          content,
+        } as BlogPost;
+      })
+      .filter((a): a is BlogPost => a !== null);
 
-  // Prioritize recent course articles (curso-a1, curso-a2) by moving them to the front of the list.
-  // Default window: RECENT_DAYS (14). Adjust as needed.
+    return articles.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  } catch (err) {
+    console.error("[BlogLib] Error reading markdown blog files:", err);
+    return [];
+  }
+}
+
+function prioritizeRecentCourseArticles(articles: BlogPost[]): BlogPost[] {
   try {
     const RECENT_DAYS = 14;
     const priorityCats = new Set(["curso-a1", "curso-a2"]);
     const now = Date.now();
     const recentThreshold = now - RECENT_DAYS * 24 * 60 * 60 * 1000;
 
-    const recentPriority = articlesCache.filter(a => priorityCats.has(a.category) && new Date(a.date).getTime() >= recentThreshold);
-    if (recentPriority.length > 0) {
-      const rest = articlesCache.filter(a => !(priorityCats.has(a.category) && new Date(a.date).getTime() >= recentThreshold));
-      articlesCache = [...recentPriority, ...rest];
-    }
+    const recentPriority = articles.filter(
+      (a) => priorityCats.has(a.category) && new Date(a.date).getTime() >= recentThreshold
+    );
+    if (recentPriority.length === 0) return articles;
+    const rest = articles.filter(
+      (a) => !(priorityCats.has(a.category) && new Date(a.date).getTime() >= recentThreshold)
+    );
+    return [...recentPriority, ...rest];
   } catch (err) {
-    // Non-blocking: if anything goes wrong, keep the date-sorted order.
-    console.error('[BlogLib] failed to apply course prioritization:', err);
+    console.error("[BlogLib] failed to apply course prioritization:", err);
+    return articles;
+  }
+}
+
+export function getBlogArticles(): BlogPost[] {
+  if (articlesCache !== null) {
+    return articlesCache;
   }
 
+  // 1) Markdown en disco (dev / next build en Node)
+  const fromFs = readArticlesFromMarkdown();
+  if (fromFs.length > 0) {
+    articlesCache = prioritizeRecentCourseArticles(fromFs);
+    return articlesCache;
+  }
+
+  // 2) JSON generado en cf:build — único origen viable en Cloudflare Workers (sin fs)
+  const generated = generatedBlogArticles as StoredBlogArticle[];
+  if (Array.isArray(generated) && generated.length > 0) {
+    articlesCache = prioritizeRecentCourseArticles(hydrateStoredArticles(generated));
+    return articlesCache;
+  }
+
+  console.error(
+    "[BlogLib] No hay artículos: src/content/blog vacío y src/generated/blog-articles.json vacío. Ejecuta: npx tsx scripts/export-blog-data.ts"
+  );
+  articlesCache = [];
   return articlesCache;
 }
 

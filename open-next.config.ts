@@ -1,9 +1,13 @@
 import { defineCloudflareConfig } from "@opennextjs/cloudflare";
+import staticAssetsIncrementalCache from "@opennextjs/cloudflare/overrides/incremental-cache/static-assets-incremental-cache";
 
 /**
- * Config mínima OpenNext → Cloudflare Workers.
- * Más adelante se puede activar incremental cache en R2:
- *   import r2IncrementalCache from "@opennextjs/cloudflare/overrides/incremental-cache/r2-incremental-cache";
- *   export default defineCloudflareConfig({ incrementalCache: r2IncrementalCache });
+ * OpenNext → Cloudflare Workers.
+ *
+ * staticAssetsIncrementalCache: copia el HTML/RSC prerenderizado a ASSETS.
+ * Sin esto, el Worker re-ejecuta las páginas "estáticas" en runtime (sin fs)
+ * y el blog queda vacío aunque next build hubiera generado bien el contenido.
  */
-export default defineCloudflareConfig();
+export default defineCloudflareConfig({
+  incrementalCache: staticAssetsIncrementalCache,
+});

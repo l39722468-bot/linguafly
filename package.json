@@ -59,10 +59,11 @@
     "translate:articles:dry": "ts-node scripts/translate-articles.ts --dry-run",
     "podcasts:sync-audio-manifest": "node scripts/sync-podcast-audio-manifest.mjs",
     "podcasts:check-audio-manifest": "node scripts/sync-podcast-audio-manifest.mjs --check",
-    "cf:build": "node scripts/cf-slim-routes.cjs hide && (npx --no-install tsx scripts/export-course-data.ts && NODE_OPTIONS=--max-old-space-size=6144 npx --no-install @opennextjs/cloudflare build; status=$?; node scripts/cf-slim-routes.cjs restore; exit $status)",
+    "cf:build": "node scripts/cf-slim-routes.cjs hide && (npx --no-install tsx scripts/export-course-data.ts && npx --no-install tsx scripts/export-blog-data.ts && NODE_OPTIONS=--max-old-space-size=6144 npx --no-install @opennextjs/cloudflare build; status=$?; node scripts/cf-slim-routes.cjs restore; exit $status)",
     "cf:deploy": "npx --no-install @opennextjs/cloudflare deploy",
     "cf:upload": "npx --no-install @opennextjs/cloudflare upload",
-    "export:course-data": "npx --no-install tsx scripts/export-course-data.ts"
+    "export:course-data": "npx --no-install tsx scripts/export-course-data.ts",
+    "export:blog-data": "npx --no-install tsx scripts/export-blog-data.ts"
   },
   "dependencies": {
     "@opennextjs/cloudflare": "^1.20.2",

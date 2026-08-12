@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import { appendArticleReturnParam } from './blog-article-return';
 import { getBlogArticles, normalizeCategory, type BlogPost } from './blog';
+import generatedRelations from '@/generated/blog-course-relations.json';
 
 export interface CourseUnitRef {
   courseId: string;
@@ -882,43 +883,47 @@ function loadAllUnitTitles(): Map<string, string> {
 
   const map = new Map<string, string>();
 
-  // Preferir JSON exportado (assets CF); fallback a .ts en disco (dev/build local).
-  const courseDataDir = path.join(process.cwd(), 'public/course-data');
-  if (fs.existsSync(courseDataDir)) {
-    for (const courseId of fs.readdirSync(courseDataDir)) {
-      const dir = path.join(courseDataDir, courseId);
-      if (!fs.statSync(dir).isDirectory()) continue;
-      for (const file of fs.readdirSync(dir)) {
-        const match = file.match(/^unit-(\d+)\.json$/);
-        if (!match) continue;
-        try {
-          const data = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8')) as { title?: string };
-          if (data.title) map.set(`${courseId}:${match[1]}`, cleanUnitTitle(data.title));
-        } catch {
-          // ignore bad json
+  try {
+    // Preferir JSON exportado (assets CF); fallback a .ts en disco (dev/build local).
+    const courseDataDir = path.join(process.cwd(), 'public/course-data');
+    if (fs.existsSync(courseDataDir)) {
+      for (const courseId of fs.readdirSync(courseDataDir)) {
+        const dir = path.join(courseDataDir, courseId);
+        if (!fs.statSync(dir).isDirectory()) continue;
+        for (const file of fs.readdirSync(dir)) {
+          const match = file.match(/^unit-(\d+)\.json$/);
+          if (!match) continue;
+          try {
+            const data = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf8')) as { title?: string };
+            if (data.title) map.set(`${courseId}:${match[1]}`, cleanUnitTitle(data.title));
+          } catch {
+            // ignore bad json
+          }
         }
       }
     }
-  }
 
-  const courseDir = path.join(process.cwd(), 'src/lib/course');
-  if (fs.existsSync(courseDir)) {
-    for (const courseId of fs.readdirSync(courseDir)) {
-      const dir = path.join(courseDir, courseId);
-      if (!fs.statSync(dir).isDirectory()) continue;
+    const courseDir = path.join(process.cwd(), 'src/lib/course');
+    if (fs.existsSync(courseDir)) {
+      for (const courseId of fs.readdirSync(courseDir)) {
+        const dir = path.join(courseDir, courseId);
+        if (!fs.statSync(dir).isDirectory()) continue;
 
-      for (const file of fs.readdirSync(dir)) {
-        const match = file.match(/^unit-(\d+)\.ts$/);
-        if (!match) continue;
-        const key = `${courseId}:${match[1]}`;
-        if (map.has(key)) continue;
-        const content = fs.readFileSync(path.join(dir, file), 'utf8');
-        const titleMatch = content.match(/export const UNIT_TITLE\s*=\s*['`](.+?)['`]/);
-        if (titleMatch) {
-          map.set(key, cleanUnitTitle(titleMatch[1]));
+        for (const file of fs.readdirSync(dir)) {
+          const match = file.match(/^unit-(\d+)\.ts$/);
+          if (!match) continue;
+          const key = `${courseId}:${match[1]}`;
+          if (map.has(key)) continue;
+          const content = fs.readFileSync(path.join(dir, file), 'utf8');
+          const titleMatch = content.match(/export const UNIT_TITLE\s*=\s*['`](.+?)['`]/);
+          if (titleMatch) {
+            map.set(key, cleanUnitTitle(titleMatch[1]));
+          }
         }
       }
     }
+  } catch {
+    // Workers u otros entornos sin fs usable
   }
 
   unitTitleCache = map;
@@ -1083,9 +1088,32 @@ export function buildBlogCourseRelations(articles?: BlogPost[]): BlogCourseRelat
 }
 
 export function getAllBlogCourseRelations(): BlogCourseRelation[] {
-  if (!relationsCache) {
-    relationsCache = buildBlogCourseRelations();
+  if (relationsCache !== null) {
+    return relationsCache;
   }
+
+  // Si hay markdown en disco (dev / build Node), calcular en vivo.
+  try {
+    const blogDir = path.join(process.cwd(), 'src/content/blog');
+    if (fs.existsSync(blogDir)) {
+      const live = buildBlogCourseRelations();
+      if (live.length > 0) {
+        relationsCache = live;
+        return relationsCache;
+      }
+    }
+  } catch {
+    // Workers: fs no usable
+  }
+
+  // Cloudflare Workers: sin fs → JSON de scripts/export-blog-data.ts
+  const generated = generatedRelations as BlogCourseRelation[];
+  if (Array.isArray(generated) && generated.length > 0) {
+    relationsCache = generated;
+    return relationsCache;
+  }
+
+  relationsCache = [];
   return relationsCache;
 }
 

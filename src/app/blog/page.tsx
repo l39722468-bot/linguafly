@@ -10,6 +10,9 @@ import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 
+/** Estática: en Cloudflare Workers no hay fs; el contenido viene del JSON de cf:build. */
+export const dynamic = "force-static";
+
 export const metadata: Metadata = {
   title: `Blog de Inglés 2026: Guías Trabajo, Viajes y Exámenes | ${SITE_BRAND_NAME}`,
   description: "Guías prácticas de inglés para el trabajo, viajes y exámenes oficiales (Cambridge, IELTS, TOEFL). Métodos de estudio, gramática y vocabulario. Contenido actualizado por expertos.",

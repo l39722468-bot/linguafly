@@ -35,6 +35,16 @@ En **Workers & Pages → linguaflyapp → Settings → Builds**:
 > `cf:build` excluye temporalmente cursos sectoriales + demos + APIs pesadas
 > (stubs que redirigen) para caber en el límite. Los cursos A1–C2 y el blog siguen.
 
+### Blog sin filesystem en Workers
+
+Cloudflare Workers **no tienen `fs`** sobre `src/content/blog`. Por eso `cf:build` ejecuta:
+
+1. `scripts/export-course-data.ts` → `public/course-data/`
+2. `scripts/export-blog-data.ts` → `src/generated/blog-articles.json` + relaciones
+3. OpenNext con `staticAssetsIncrementalCache` (sirve HTML prerenderizado desde ASSETS)
+
+Sin el JSON embebido ni esa caché, el blog sale vacío («Próximamente» / 0 relaciones) aunque Next haya visto los markdown en el build.
+
 ### Build variables / secrets (panel)
 
 **Obligatorias / recomendadas**
@@ -89,6 +99,7 @@ El `"name"` del Worker y el service binding `WORKER_SELF_REFERENCE` deben ser **
 npm run preview   # build + Workers local
 npm run deploy    # build + deploy (requiere wrangler login)
 npm run cf:build  # solo build OpenNext (mismo que Workers Builds)
+npm run export:blog-data  # regenera src/generated/blog-*.json
 ```
 
 ---

@@ -10,6 +10,9 @@ import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 
+export const dynamic = "force-static";
+export const dynamicParams = false;
+
 export async function generateStaticParams() {
   const articles = getBlogArticles();
   const categories = Array.from(new Set(articles.map(a => normalizeCategory(a.category))));

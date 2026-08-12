@@ -21,6 +21,10 @@ import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import { Twitter } from "lucide-react";
 
+/** Estática: Workers no tienen fs; artículos se embeben vía src/generated en cf:build. */
+export const dynamic = "force-static";
+export const dynamicParams = false;
+
 /** Evita `/_next/image` para URLs absolutas: mejora compatibilidad con rastreadores (p. ej. GSC) y CDN externos. */
 function isRemoteImageSrc(src: string): boolean {
   return /^https?:\/\//i.test(src);
