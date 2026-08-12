@@ -606,6 +606,16 @@ const CLIPS_BY_UNIT = {
     'dialogue-holidays': 'Have you ever been hiking? Yes, I have. I went hiking in Asturias last year. Nice! Did you buy a souvenir? Just a photo book. What about you? I\'ve never been hiking, but I love the beach. We went to Cadiz in August.',
     'practice-four': 'We went sightseeing yesterday. Have you ever taken a guided tour? I bought a souvenir last week. She has never been hiking.',
   },
+  44: {
+    'its-sunny': 'It\'s sunny today.',
+    'its-raining': 'It\'s raining.',
+    'whats-the-weather-like': 'What\'s the weather like?',
+    'going-to-rain': 'It\'s going to rain.',
+    'it-will-be-sunny': 'Tomorrow it will be sunny.',
+    'reading-forecast': 'Today it\'s cloudy and cool — about fourteen degrees. This afternoon it\'s going to rain, so take an umbrella. Tomorrow it will be sunny and warmer: a high of twenty-one degrees. Perfect for a walk! On Sunday it might be windy, but there won\'t be a storm.',
+    'dialogue-trip': 'What\'s the weather like in Lisbon? Today it\'s sunny. Tomorrow it\'s going to be hotter. Will it rain? I don\'t think so. The forecast says it will be dry all weekend. Great — no umbrella then!',
+    'practice-four': 'It\'s sunny today. It\'s going to rain. Tomorrow it will be cold. What\'s the weather like?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

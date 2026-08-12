@@ -102,7 +102,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 41 | Travel & Transport | *by bus*, *take the train*, *get to*, *arrive at* | ✅ | [Travel & Transport A2](/blog/curso-a2/unidad-41-travel-transport) |
 | 42 | Accommodation | *book*, *check in/out*, *single/double room* | ✅ | [Accommodation A2](/blog/curso-a2/unidad-42-accommodation) |
 | 43 | Holiday Activities | *sightseeing*, Past Simple / Present Perfect | ✅ | [Holiday Activities A2](/blog/curso-a2/unidad-43-holiday-activities) |
-| 44 | The Weather | *It's sunny*, *It's going to rain* | ❌ | — |
+| 44 | The Weather | *It's sunny*, *It's going to rain*, *will* | ✅ | [The Weather A2](/blog/curso-a2/unidad-44-the-weather) |
+| 45 | Entertainment & Media | *film*, *series*, *prefer* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
