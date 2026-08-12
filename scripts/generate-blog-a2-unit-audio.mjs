@@ -689,6 +689,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-help': 'Hi! Those bags look heavy. Can I help you? Yes, please. Thanks! Would you like me to take them upstairs? That would be great. Could you open the door? Of course. Here you are.',
     'practice-four': 'Can I help you? Would you like me to carry that? Could you open the window? Yes, please.',
   },
+  53: {
+    'i-think': 'I think this film is great.',
+    'in-my-opinion': 'In my opinion, it\'s too long.',
+    'i-agree': 'I agree with you.',
+    'i-dont-think-so': 'I don\'t think so.',
+    'reading-forum': 'What do you think of the new series? In my opinion, episode one is slow, but the story is interesting. I think the actors are brilliant. Some people say it\'s boring — I don\'t think so. I agree that it\'s a bit long, but it\'s worth watching.',
+    'dialogue-film': 'What do you think of the film? I think it was exciting. I agree. The ending was amazing. Do you agree that it was too long? I\'m not sure. In my opinion, it was fine. Fair enough!',
+    'practice-four': 'I think this song is catchy. In my opinion, the food is too spicy. I agree with you. I don\'t think so.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]

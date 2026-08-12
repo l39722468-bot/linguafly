@@ -116,7 +116,8 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 |---|---|---|---|---|
 | 51 | Making Suggestions | *Shall we…?*, *Let's…*, *Would you like to…?* | ✅ | [Making Suggestions A2](/blog/curso-a2/unidad-51-making-suggestions) |
 | 52 | Making Offers & Requests | *Can I…?*, *Could you…?*, *Would you like me to…?* | ✅ | [Offers & Requests A2](/blog/curso-a2/unidad-52-offers-requests) |
-| 53 | Expressing Opinions | *I think…*, *In my opinion…*, *I agree* | ❌ | — |
+| 53 | Expressing Opinions | *I think…*, *In my opinion…*, *I agree* | ✅ | [Expressing Opinions A2](/blog/curso-a2/unidad-53-expressing-opinions) |
+| 54 | Feelings & Emotions | *feel* + adj, *excited*, *worried* | ❌ | — |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 
