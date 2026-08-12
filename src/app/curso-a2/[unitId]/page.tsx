@@ -1,5 +1,7 @@
 'use client';
 
+import { loadCourseUnitData, loadCourseFinalTest } from '@/lib/course/load-course-unit-data';
+
 import { useParams, useSearchParams } from 'next/navigation';
 import { useEffect, useMemo, useState, Suspense } from 'react';
 import ExerciseRenderer from '@/components/ExerciseRenderer';
@@ -82,9 +84,9 @@ function UnitPreviewContent() {
     async function loadUnit() {
       try {
         if (isFinalTest) {
-          const testModule = await import('@/lib/course/a2/final-test-a2');
-          const unitExercises = testModule.FINAL_TEST_A2_EXERCISES ?? [];
-          const title = testModule.FINAL_TEST_A2_TITLE ?? 'Test final A2';
+          const finalData = await loadCourseFinalTest('a2');
+          const unitExercises = finalData.exercises ?? [];
+          const title = finalData.title ?? 'Test final A2';
           setUnitTitle(title);
           if (!unitExercises.length) {
             setError('No se encontraron ejercicios del test final');
@@ -100,20 +102,14 @@ function UnitPreviewContent() {
           }
         } else {
           const unitNumber = unitId.replace('unit-', '');
-          let unitModule;
-          try {
-            unitModule = await import(`@/lib/course/a2/unit-${unitNumber}`);
-          } catch (e) {
-            console.warn(`Failed to import with alias, trying relative path for unit-${unitNumber}`);
-            unitModule = await import(`../../../lib/course/a2/unit-${unitNumber}`);
-          }
-          const exportName = `UNIT_${unitNumber.toUpperCase().replace('-', '_')}_EXERCISES`;
-          const unitExercises = unitModule[exportName] || unitModule[`UNIT_${unitNumber}_EXERCISES`] || unitModule.default || unitModule.UNIT_1_EXERCISES;
+          const unitData = await loadCourseUnitData('a2', unitNumber);
+          const unitExercises = unitData.exercises;
+          const title = unitData.title || '';
           if (!unitExercises || !Array.isArray(unitExercises)) {
             setError(`No se encontraron ejercicios en el módulo unit-${unitNumber}`);
             setExercises([]);
           } else {
-            setUnitTitle(unitModule.UNIT_TITLE || unitModule.title || `Unidad ${unitNumber}`);
+            setUnitTitle(unitData.title || `Unidad ${unitNumber}`);
             const ordered = buildSixLessonLayout(unitExercises).orderedExercises;
             setExercises(ordered);
             const indexParam = searchParams.get('index');

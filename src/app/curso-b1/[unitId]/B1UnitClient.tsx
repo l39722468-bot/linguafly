@@ -1,5 +1,7 @@
 'use client';
 
+import { loadCourseUnitData, loadCourseFinalTest } from '@/lib/course/load-course-unit-data';
+
 import { useParams } from 'next/navigation';
 import { useEffect, useMemo, useState, Suspense } from 'react';
 import ExerciseRenderer from '@/components/ExerciseRenderer';
@@ -71,9 +73,9 @@ function B1UnitContent() {
     async function loadUnit() {
       try {
         if (isFinalTest) {
-          const testModule = await import('@/lib/course/b1/final-test-b1');
-          const unitExercises = testModule.FINAL_TEST_B1_EXERCISES ?? [];
-          const title = testModule.FINAL_TEST_B1_TITLE ?? 'Test final B1';
+          const finalData = await loadCourseFinalTest('b1');
+          const unitExercises = finalData.exercises ?? [];
+          const title = finalData.title ?? 'Test final B1';
           setUnitTitle(title);
           if (!unitExercises.length) {
             setError('No se encontraron ejercicios del test final');
@@ -85,19 +87,14 @@ function B1UnitContent() {
           }
         } else {
           const unitNumber = unitId.replace('unit-', '');
-          let unitModule;
-          try {
-            unitModule = await import(`@/lib/course/b1/unit-${unitNumber}`);
-          } catch (e) {
-            unitModule = await import(`../../../lib/course/b1/unit-${unitNumber}`);
-          }
-          const exportName = `UNIT_${unitNumber.toUpperCase().replace('-', '_')}_EXERCISES`;
-          const unitExercises = unitModule[exportName] || unitModule[`UNIT_${unitNumber}_EXERCISES`] || unitModule.default || unitModule.UNIT_1_EXERCISES;
+          const unitData = await loadCourseUnitData('b1', unitNumber);
+          const unitExercises = unitData.exercises;
+          const title = unitData.title || '';
           if (!unitExercises || !Array.isArray(unitExercises)) {
             setError(`No se encontraron ejercicios en unit-${unitNumber}`);
             setExercises([]);
           } else {
-            setUnitTitle(unitModule.UNIT_TITLE || unitModule.title || `Unidad ${unitNumber}`);
+            setUnitTitle(unitData.title || `Unidad ${unitNumber}`);
             setExercises(buildSixLessonLayout(unitExercises).orderedExercises);
             const idx = getIndexFromUrl();
             if (idx !== null && idx < unitExercises.length) setCurrentIndex(idx);

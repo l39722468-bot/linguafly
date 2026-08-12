@@ -1,12 +1,14 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "linguafly-app",
+  // Nombre del Worker en el dashboard de Cloudflare (sin guion).
+  "name": "linguaflyapp",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-08-12",
   "compatibility_flags": [
     "nodejs_compat",
     "global_fetch_strictly_public"
   ],
+  "minify": true,
   "assets": {
     "directory": ".open-next/assets",
     "binding": "ASSETS"
@@ -14,7 +16,7 @@
   "services": [
     {
       "binding": "WORKER_SELF_REFERENCE",
-      "service": "linguafly-app"
+      "service": "linguaflyapp"
     }
   ],
   "images": {

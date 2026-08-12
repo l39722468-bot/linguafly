@@ -1,5 +1,7 @@
 'use client';
 
+import { loadCourseUnitData, loadCourseFinalTest } from '@/lib/course/load-course-unit-data';
+
 import { useParams, useSearchParams } from 'next/navigation';
 import { useEffect, useMemo, useState, Suspense } from 'react';
 import ExerciseRenderer from '@/components/ExerciseRenderer';
@@ -79,19 +81,14 @@ function B2UnitContentInner() {
     async function loadUnit() {
       try {
         const unitNumber = unitId.replace('unit-', '');
-        let unitModule;
-        try {
-          unitModule = await import(`@/lib/course/b2/unit-${unitNumber}`);
-        } catch (e) {
-          unitModule = await import(`../../../lib/course/b2/unit-${unitNumber}`);
-        }
-        const exportName = `UNIT_${unitNumber.toUpperCase().replace('-', '_')}_EXERCISES`;
-        const unitExercises = unitModule[exportName] || unitModule[`UNIT_${unitNumber}_EXERCISES`] || unitModule.default || unitModule.UNIT_1_EXERCISES;
-        if (!unitExercises || !Array.isArray(unitExercises)) {
+        const unitData = await loadCourseUnitData('b2', unitNumber);
+        const unitExercises = unitData.exercises;
+          const title = unitData.title || '';
+          if (!unitExercises || !Array.isArray(unitExercises)) {
           setError(`No se encontraron ejercicios en unit-${unitNumber}`);
           setExercises([]);
         } else {
-          setUnitTitle(unitModule.UNIT_TITLE || unitModule.title || `Unidad ${unitNumber}`);
+          setUnitTitle(unitData.title || `Unidad ${unitNumber}`);
           // Add inferred model audio for B2 pronunciation exercises.
           // The TTS generator writes MP3s to: public/audio/b2-speaking/<exercise.id>.mp3
           const normalizedExercises = unitExercises.map((ex: any) => {

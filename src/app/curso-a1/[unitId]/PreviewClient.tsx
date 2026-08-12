@@ -1,5 +1,7 @@
 'use client';
 
+import { loadCourseUnitData, loadCourseFinalTest } from '@/lib/course/load-course-unit-data';
+
 import { useParams, useSearchParams } from 'next/navigation';
 import { useEffect, useMemo, useState, Suspense } from 'react';
 import ExerciseRenderer from '@/components/ExerciseRenderer';
@@ -38,17 +40,11 @@ function UnitPreviewContent() {
       try {
         const unitNumber = unitId.replace('unit-', '');
         
-        let unitModule;
-        try {
-          unitModule = await import(`@/lib/course/a1/unit-${unitNumber}`);
-        } catch (e) {
-          unitModule = await import(`../../../lib/course/a1/unit-${unitNumber}`);
-        }
+        const unitData = await loadCourseUnitData('a1', unitNumber);
         
-        const exportName = `UNIT_${unitNumber.toUpperCase().replace('-', '_')}_EXERCISES`;
-        const unitExercises = unitModule[exportName] || unitModule[`UNIT_${unitNumber}_EXERCISES`] || unitModule.default || unitModule.UNIT_1_EXERCISES;
-        
-        if (!unitExercises || !Array.isArray(unitExercises)) {
+        const unitExercises = unitData.exercises;
+          const title = unitData.title || '';
+          if (!unitExercises || !Array.isArray(unitExercises)) {
           setError(`No se encontraron ejercicios en el módulo unit-${unitNumber}`);
           setExercises([]);
         } else {

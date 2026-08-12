@@ -6,13 +6,13 @@
 **CI principal:** Cloudflare **Workers Builds** (repo GitHub conectado)  
 **CI manual de respaldo:** `.github/workflows/deploy-cloudflare.yml` (`workflow_dispatch`)
 
-Worker name en `wrangler.jsonc`: **`linguafly-app`** (debe coincidir con el Worker del dashboard)
+Worker name en `wrangler.jsonc`: **`linguaflyapp`** (debe coincidir con el Worker del dashboard; sin guion)
 
 ---
 
 ## Checklist del Worker en el Dashboard
 
-En **Workers & Pages → linguafly-app → Settings → Builds**:
+En **Workers & Pages → linguaflyapp → Settings → Builds**:
 
 | Campo | Valor recomendado |
 |---|---|
@@ -30,6 +30,10 @@ En **Workers & Pages → linguafly-app → Settings → Builds**:
 > **No uses** `npx opennextjs-cloudflare …`  
 > Ese nombre en npm es un paquete stub vacío. Usa `npm run cf:*` o
 > `npx @opennextjs/cloudflare build|deploy`.
+
+> **Límite 64 MiB:** el Worker no puede superar 64 MiB sin comprimir.
+> `cf:build` excluye temporalmente cursos sectoriales + demos + APIs pesadas
+> (stubs que redirigen) para caber en el límite. Los cursos A1–C2 y el blog siguen.
 
 ### Build variables / secrets (panel)
 
@@ -62,7 +66,7 @@ En `wrangler.jsonc` ya están:
 - assets `.open-next/assets`
 - binding `IMAGES`
 
-El `"name"` del Worker y el service binding `WORKER_SELF_REFERENCE` deben ser **`linguafly-app`**.
+El `"name"` del Worker y el service binding `WORKER_SELF_REFERENCE` deben ser **`linguaflyapp`**.
 
 ---
 
@@ -103,7 +107,9 @@ Reapuntar DNS a Vercel o desactivar el custom domain del Worker.
 4. Si sigue en rojo: abre el build → **View build log** → copia las **últimas 30–40 líneas**.
 
 Causas frecuentes:
+- **Worker > 64 MiB** → `code: 10027` (cf:build ya hace slim de rutas pesadas)
 - **Node 20.x** → `ERR_IMPORT_ASSERTION_TYPE_MISSING` / wrangler exige ≥22 (fijar `NODE_VERSION=22`)
 - Comando `npx opennextjs-cloudflare` (stub npm; preferir `npm run cf:build`)
 - OOM sin `NODE_OPTIONS=--max-old-space-size=6144`
 - Build command = `npm run build` (solo Next, no OpenNext → falla el deploy después)
+- Nombre Worker distinto (`linguafly-app` vs `linguaflyapp`) — el repo usa **`linguaflyapp`**

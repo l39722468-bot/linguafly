@@ -1,18 +1,25 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { B1_COURSE } from '@/lib/course/b1';
-import { FINAL_TEST_B1_EXERCISES, FINAL_TEST_B1_TITLE } from '@/lib/course/b1/final-test-b1';
 import { validateExerciseListForApi } from '@/lib/validation/course-exercise-api';
 
+async function readCourseJson(request: NextRequest, rel: string) {
+  const res = await fetch(new URL(`/course-data/${rel}`, request.url));
+  if (!res.ok) {
+    throw new Error(`No se encontró course-data/${rel}`);
+  }
+  return res.json() as Promise<{ title?: string; exercises?: unknown[] }>;
+}
+
 export async function GET(
-  _request: NextRequest,
+  request: NextRequest,
   { params }: { params: Promise<{ unitId: string }> }
 ) {
   try {
     const { unitId } = await params;
 
     if (unitId === 'test-final') {
-      const exercises = Array.isArray(FINAL_TEST_B1_EXERCISES) ? FINAL_TEST_B1_EXERCISES : [];
-      const title = FINAL_TEST_B1_TITLE ?? 'Test final B1';
+      const data = await readCourseJson(request, 'b1/test-final.json');
+      const exercises = Array.isArray(data.exercises) ? data.exercises : [];
+      const title = data.title ?? 'Test final B1';
       const { exercises: validated, validation } = validateExerciseListForApi(exercises);
       return NextResponse.json({ exercises: validated, title, validation });
     }
@@ -23,13 +30,12 @@ export async function GET(
       return NextResponse.json({ error: 'Unidad no encontrada' }, { status: 404 });
     }
 
-    const unit = B1_COURSE.units.find((u) => u.id === unitNum);
-    if (!unit) {
+    const data = await readCourseJson(request, `b1/unit-${unitNum}.json`);
+    const exercises = Array.isArray(data.exercises) ? data.exercises : [];
+    if (!exercises.length) {
       return NextResponse.json({ error: 'Unidad no encontrada' }, { status: 404 });
     }
-
-    const exercises = Array.isArray(unit.exercises) ? unit.exercises : [];
-    const title = unit.title ?? `Unidad ${unitNum}`;
+    const title = data.title ?? `Unidad ${unitNum}`;
     const { exercises: validated, validation } = validateExerciseListForApi(exercises);
     return NextResponse.json({ exercises: validated, title, validation });
   } catch (err) {

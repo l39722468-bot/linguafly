@@ -12,6 +12,9 @@
 # next.js
 /.next/
 /out/
+.open-next
+.cf-slim-backup/
+/public/course-data/
 
 # production
 /build

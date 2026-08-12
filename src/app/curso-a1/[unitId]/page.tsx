@@ -1,5 +1,7 @@
 'use client';
 
+import { loadCourseUnitData, loadCourseFinalTest } from '@/lib/course/load-course-unit-data';
+
 import { useParams, useSearchParams } from 'next/navigation';
 import { useEffect, useMemo, useState, useRef, Suspense } from 'react';
 import ExerciseRenderer from '@/components/ExerciseRenderer';
@@ -166,9 +168,9 @@ function UnitPreviewContent() {
     async function loadUnit() {
       try {
         if (isFinalTest) {
-          const testModule = await import('@/lib/course/a1/final-test-a1');
-          const unitExercises = testModule.FINAL_TEST_A1_EXERCISES ?? [];
-          const title = testModule.FINAL_TEST_A1_TITLE ?? 'Test final A1';
+          const finalData = await loadCourseFinalTest('a1');
+          const unitExercises = finalData.exercises ?? [];
+          const title = finalData.title ?? 'Test final A1';
           setUnitTitle(title);
           if (!unitExercises.length) {
             setError('No se encontraron ejercicios');
@@ -183,15 +185,9 @@ function UnitPreviewContent() {
           }
         } else {
           const unitNumber = unitId.replace('unit-', '');
-          let unitModule;
-          try {
-            unitModule = await import(`@/lib/course/a1/unit-${unitNumber}`);
-          } catch {
-            unitModule = await import(`../../../lib/course/a1/unit-${unitNumber}`);
-          }
-          const exportName = `UNIT_${unitNumber.toUpperCase().replace('-', '_')}_EXERCISES`;
-          const unitExercises = unitModule[exportName] || unitModule[`UNIT_${unitNumber}_EXERCISES`] || unitModule.default || unitModule.UNIT_1_EXERCISES;
-          const title = unitModule.UNIT_TITLE || unitModule.title || '';
+          const unitData = await loadCourseUnitData('a1', unitNumber);
+          const unitExercises = unitData.exercises;
+          const title = unitData.title || '';
           setUnitTitle(title);
           if (!unitExercises || !Array.isArray(unitExercises)) {
             setError('No se encontraron ejercicios');

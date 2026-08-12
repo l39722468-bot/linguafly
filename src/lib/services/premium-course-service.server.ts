@@ -1,9 +1,6 @@
 import { UnitData, PremiumInteraction, PremiumBlock, A1CourseMetadata, UnitMetadata } from '@/types/premium-course';
 import { UserPerformanceRecord } from '../course-engine/adaptive';
-import { extractUnitMetadata, extractUnitMetadataFromLibCourse } from '@/lib/utils/course-metadata';
-import { B2_COURSE } from '@/lib/course/b2';
-import { C1_COURSE } from '@/lib/course/c1';
-import { C2_COURSE } from '@/lib/course/c2';
+import { extractUnitMetadata } from '@/lib/utils/course-metadata';
 import fs from 'fs';
 import path from 'path';
 
@@ -191,39 +188,15 @@ export const premiumCourseServerService = {
   },
 
   async getB2UnitsWithMetadata(): Promise<A1CourseMetadata> {
-    const units: UnitMetadata[] = B2_COURSE.units.map((u) =>
-      extractUnitMetadataFromLibCourse(u.id, u.title, u.exercises)
-    );
-    const totalDuration = units.reduce((sum, u) => sum + u.estimatedDuration, 0);
-    return {
-      totalUnits: units.length,
-      totalDuration,
-      units,
-    };
+    return this.getUnitsWithMetadata('ingles-b2');
   },
 
   async getC1UnitsWithMetadata(): Promise<A1CourseMetadata> {
-    const units: UnitMetadata[] = C1_COURSE.units.map((u) =>
-      extractUnitMetadataFromLibCourse(u.id, u.title, u.exercises)
-    );
-    const totalDuration = units.reduce((sum, u) => sum + u.estimatedDuration, 0);
-    return {
-      totalUnits: units.length,
-      totalDuration,
-      units,
-    };
+    return this.getUnitsWithMetadata('ingles-c1');
   },
 
   async getC2UnitsWithMetadata(): Promise<A1CourseMetadata> {
-    const units: UnitMetadata[] = C2_COURSE.units.map((u) =>
-      extractUnitMetadataFromLibCourse(u.id, u.title, u.exercises)
-    );
-    const totalDuration = units.reduce((sum, u) => sum + u.estimatedDuration, 0);
-    return {
-      totalUnits: units.length,
-      totalDuration,
-      units,
-    };
+    return this.getUnitsWithMetadata('ingles-c2');
   },
 
   async getUnitsWithMetadata(courseId: string): Promise<A1CourseMetadata> {
