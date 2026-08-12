@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "linguafly",
+  "name": "linguafly-app",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-08-12",
   "compatibility_flags": [
@@ -14,7 +14,7 @@
   "services": [
     {
       "binding": "WORKER_SELF_REFERENCE",
-      "service": "linguafly"
+      "service": "linguafly-app"
     }
   ],
   "images": {

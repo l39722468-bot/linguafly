@@ -6,7 +6,7 @@
 **CI principal:** Cloudflare **Workers Builds** (repo GitHub conectado)  
 **CI manual de respaldo:** `.github/workflows/deploy-cloudflare.yml` (`workflow_dispatch`)
 
-Worker name en `wrangler.jsonc`: **`linguafly`**
+Worker name en `wrangler.jsonc`: **`linguafly-app`** (debe coincidir con el Worker del dashboard)
 
 ---
 
