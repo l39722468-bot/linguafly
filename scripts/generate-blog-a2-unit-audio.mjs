@@ -698,6 +698,14 @@ const CLIPS_BY_UNIT = {
     'dialogue-film': 'What do you think of the film? I think it was exciting. I agree. The ending was amazing. Do you agree that it was too long? I\'m not sure. In my opinion, it was fine. Fair enough!',
     'practice-four': 'I think this song is catchy. In my opinion, the food is too spicy. I agree with you. I don\'t think so.',
   },
+  54: {
+    'i-feel-excited': 'I feel excited about the trip.',
+    'im-worried': 'I\'m worried about the exam.',
+    'how-do-you-feel': 'How do you feel today?',
+    'reading-interview': 'Tomorrow I have a job interview. I feel nervous, but also excited. My mum says I should be proud of my CV. Last week I was disappointed about another interview, so I\'m a bit worried. I don\'t want to feel bored waiting all morning — I\'ll take a book. How do I feel right now? Hopeful!',
+    'dialogue-exam': 'How do you feel? I\'m relieved — and a bit tired. Were you nervous? Yes. I was also worried about the listening part. You should be proud. You studied a lot. Thanks. I was disappointed last time, so this feels better.',
+    'practice-four': 'I feel excited about the trip. I\'m worried about the exam. How do you feel? The film is boring, so I feel bored.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
