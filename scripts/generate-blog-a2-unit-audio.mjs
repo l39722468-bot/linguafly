@@ -616,6 +616,15 @@ const CLIPS_BY_UNIT = {
     'dialogue-trip': 'What\'s the weather like in Lisbon? Today it\'s sunny. Tomorrow it\'s going to be hotter. Will it rain? I don\'t think so. The forecast says it will be dry all weekend. Great — no umbrella then!',
     'practice-four': 'It\'s sunny today. It\'s going to rain. Tomorrow it will be cold. What\'s the weather like?',
   },
+  45: {
+    'i-watch-films': 'I watch films at the weekend.',
+    'listen-to-music': 'I listen to music every day.',
+    'i-like-watching': 'I like watching series.',
+    'i-prefer-comedies': 'I prefer comedies to dramas.',
+    'reading-review': 'Last night I watched a documentary about the ocean. It was interesting and a bit sad. I usually prefer comedies, but this film was excellent. My sister likes watching series on her phone. She listens to podcasts too. On Friday we\'re going to a concert.',
+    'dialogue-recommend': 'Have you seen that new series? Not yet. Is it good? Yes — I love watching crime dramas. I prefer films, but this series is brilliant. Do you want to watch episode one tonight? Sure!',
+    'practice-four': 'I watch films. I listen to music. I like reading. I prefer documentaries.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
