@@ -1,23 +1,26 @@
-# Migration to Blog
+# Migración a blog gratuito
 
-## Overview
-This document outlines the changes made during the transformation from a platform to a pure blog.
+## Objetivo
+Linguafly / Focus English como **blog + cursos públicos**, sin cuentas de usuario ni pagos.
 
-## What Was Removed
-- **User Accounts**: All user account functionalities have been removed since the blog does not require user authentication.
-- **E-commerce Features**: Features related to selling products have been deleted.
-- **Messaging Systems**: All messaging and notification systems were removed.
+## Eliminado
+- **Supabase** (auth, perfiles, progreso en servidor, panel)
+- **Stripe** (checkout, webhooks, portal, planes)
+- **Resend** (emails de bienvenida, reset, newsletter, tickets)
+- Rutas: `/cuenta/*`, `/mi-panel/*`, `/admin/*`, `/planes`, `/success`, `/onboarding`, `/auth/*`
+- APIs asociadas (auth, stripe, newsletter, signup, progress, mobile auth, etc.)
 
-## What Was Kept
-- **Content Management System**: The framework for writing and editing posts remains intact.
-- **Themes and Layouts**: Previous themes used for the platform are still available for blog formatting.
-- **Basic Analytics**: Basic analytics to track page views and user engagement are preserved.
+## Conservado
+- Blog (`/blog`)
+- Landings SEO
+- Cursos A1–C2 y por sector como contenido público
+- APIs de contenido/AI que no dependen de auth (evaluate, TTS, translate, blog search…)
+- Analytics (GA/GTM) y CMP
 
-## New Structure
-- **Posts**: The blog now focuses solely on individual posts categorized by tags.
-- **Categories**: Simplified categories for easier navigation.
-- **About Page**: A new static page to describe the blog and its purpose.
-- **Contact Page**: An updated contact page for readers to reach out.
+## Comportamiento
+- `isFreeAccessMode()` / `isBlogOnlyMode()` siempre activos
+- Middleware: solo redirects SEO y rutas de cuenta legacy → `/blog`
+- Acceso a unidades de curso: sin gates
 
-## Conclusion
-The transformation aims to create a cleaner, more focused blogging experience, eliminating unnecessary features while retaining essential functions required for content sharing.
+## Hosting
+Ver `docs/deploy-cloudflare.md` (migración Vercel → Cloudflare Workers / OpenNext).
