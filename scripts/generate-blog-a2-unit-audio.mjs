@@ -723,6 +723,14 @@ const CLIPS_BY_UNIT = {
     'dialogue-tech': 'I can\'t log in. Did you turn on the WiFi? Yes. I also downloaded the app. Try another password. Or send me a screenshot. OK. Can you look up the help page? Sure — I\'ll send you the link.',
     'practice-four': 'Send me an email. Download the app. Turn on the WiFi. Log in with your password.',
   },
+  57: {
+    'work-as': 'I work as a teacher.',
+    'study-at': 'I study at university.',
+    'have-to-deadline': 'I have to finish this before the deadline.',
+    'reading-routines': 'Mia works as a receptionist. She works in a small office and has many meetings. She often has to answer emails before the deadline. Leo studies at university. His favourite subject is biology. He has to take three exams this month. After graduation, he wants to work in a lab.',
+    'dialogue-lunch': 'What do you do? I work as a designer. I work in an advertising company. Do you have to go to many meetings? Yes — almost every day. And you? I study at university. I have an exam on Monday. Good luck!',
+    'practice-four': 'I work as a nurse. I study at university. I have to finish this today. We have a meeting at ten.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
