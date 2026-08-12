@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-12 (artículos U1–U3; Módulo 1 en curso)  
+**Última actualización:** 2026-08-12 (artículos U1–U4; Módulo 1 en curso)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 3 |
-| Artículos dedicados pendientes | 57 |
+| Artículos dedicados publicados | 4 |
+| Artículos dedicados pendientes | 56 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -36,7 +36,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | 1 | Repaso A2 → B1 | PP, comparativos, modales, who/which, used to; personal info, feelings | ✅ | [Repaso A2 → B1](/blog/curso-b1/unidad-1-repaso-a2-b1) |
 | 2 | Present Perfect Continuous | have/has been + -ing; for/since; Education | ✅ | [Present Perfect Continuous B1](/blog/curso-b1/unidad-2-present-perfect-continuous) |
 | 3 | Past Perfect | had + pp; secuencias | ✅ | [Past Perfect B1](/blog/curso-b1/unidad-3-past-perfect) |
-| 4 | Past Simple vs Present Perfect | contraste; time expressions | ❌ | — |
+| 4 | Past Simple vs Present Perfect | contraste; time expressions | ✅ | [Past vs Present Perfect B1](/blog/curso-b1/unidad-4-past-vs-present-perfect) |
 | 5 | Repaso 1–4 | integración | ❌ | — |
 | 6 | Future: will / going to / continuous | contraste futuros; Travel | ❌ | — |
 | 7 | Was/were going to | planes no realizados | ❌ | — |

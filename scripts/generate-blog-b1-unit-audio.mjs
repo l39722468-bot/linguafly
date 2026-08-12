@@ -59,6 +59,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-trip': 'Had you been to Asia before that trip? No — I had never been there. How long had you saved money? For two years. By the time you left, what had you done? I had visited many temples and tried real Japanese food.',
     'practice-four': 'He had finished his homework before I arrived. By the time we arrived, the film had already started. When she got to the station, the train had already left. After he had graduated, he found a job.',
   },
+  4: {
+    'went-yesterday': 'I went to Paris yesterday.',
+    'has-never-been': 'She has never been to Japan.',
+    'visited-last-week': 'They visited London last week.',
+    'have-just-finished': 'I have just finished my homework.',
+    'have-you-ever': 'Have you ever been to Italy?',
+    'has-already-booked': 'She has already booked the hotel.',
+    'have-not-finished-yet': 'They have not finished yet.',
+    'went-last-night': 'I went to the cinema last night.',
+    'has-lived-for': 'He has lived here for five years.',
+    'when-did-you-see': 'When did you see him last?',
+    'reading-travel': 'Last year I visited five countries in Europe. I have never been to Asia yet, but I am planning to go next year. Yesterday I finished reading a book about Japan. I have already booked my flight to Tokyo. I went to Paris last month and I have just received the photos. Have you ever been to Paris?',
+    'dialogue-travel': 'Have you ever been to Paris? Yes — I went last month. Have you booked your flight to Tokyo yet? Yes, I have already booked it. I have just received the photos from Paris too.',
+    'practice-four': 'I went to Paris yesterday. She has never been to Japan. I have just finished my homework. Have you ever been to Italy?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
