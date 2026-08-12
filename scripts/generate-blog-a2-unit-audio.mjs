@@ -681,6 +681,14 @@ const CLIPS_BY_UNIT = {
     'dialogue-plans': 'Shall we go to the cinema tonight? I\'d love to, but I finish work late. How about tomorrow? Good idea. Would you like to meet at seven? Sure. Let\'s have a coffee first. Perfect.',
     'practice-four': 'Shall we go for a walk? Let\'s have pizza. How about meeting at six? Would you like to come?',
   },
+  52: {
+    'can-i-help-you': 'Can I help you?',
+    'would-you-like-me-to': 'Would you like me to carry that?',
+    'could-you-open': 'Could you open the window?',
+    'reading-office': 'Good morning. Can I help you with those boxes? If you want, would you like me to call reception? Later, could you please send me the report by email? And shall I book a meeting room for three? Thanks — that would be great.',
+    'dialogue-help': 'Hi! Those bags look heavy. Can I help you? Yes, please. Thanks! Would you like me to take them upstairs? That would be great. Could you open the door? Of course. Here you are.',
+    'practice-four': 'Can I help you? Would you like me to carry that? Could you open the window? Yes, please.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
