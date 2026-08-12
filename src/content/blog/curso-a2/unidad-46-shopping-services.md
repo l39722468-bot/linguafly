@@ -22,7 +22,7 @@ related_routes:
   - unidad-45-entertainment-media
   - ingles-para-compras
   - ingles-a2
-  - unidad-8-comparativos-superlativos
+  - unidad-5-comparativos-er-more-than
 faqs:
   - question: ¿Se dice How much is it o How much does it cost?
     answer: >-
