@@ -447,6 +447,10 @@ La **Unidad 34** trabaja **Subject & Object Questions** (*Who called you?* / *Wh
 
 En la **Unidad 34** verás **Subject & Object Questions**.
 
+Guía blog:
+
+- [Unidad 34 — Subject & Object Questions](/blog/curso-a2/unidad-34-subject-object-questions)
+
 Curso:
 
 - [Unidad 34 — Subject & Object Questions](/curso-a2/unit-34)

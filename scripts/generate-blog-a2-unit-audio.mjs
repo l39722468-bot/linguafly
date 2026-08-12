@@ -496,6 +496,19 @@ const CLIPS_BY_UNIT = {
     'dialogue-cafe': 'Do you like drinking coffee? Yes, I love it. I\'d like to order a cappuccino. I want to try the tea. Do we need to pay now? No — we can pay later. I hate waiting when it\'s busy, though!',
     'practice-four': 'I like swimming. I want to travel. I need to study. I\'d like to rest.',
   },
+  34: {
+    'who-called-you': 'Who called you?',
+    'who-did-you-call': 'Who did you call?',
+    'who-lives-here': 'Who lives here?',
+    'what-happened': 'What happened yesterday?',
+    'what-did-you-buy': 'What did you buy?',
+    'which-bus': 'Which bus did you take?',
+    'who-wants-coffee': 'Who wants coffee?',
+    'what-does-she-want': 'What does she want?',
+    'reading-message': 'Someone called me yesterday. Who called me? It was Ana. She asked about the party. What did she want? She wanted my address. Who did I tell? I told my brother. What happened later? We went to the café together.',
+    'dialogue-interview': 'Who lives in that flat? My cousin. Who did you visit last weekend? My cousin! What happened there? Nothing special — but what did you eat? Homemade pizza. Who made it? My cousin\'s partner.',
+    'practice-four': 'Who called you? Who did you call? What happened? What did you see?',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
