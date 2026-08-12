@@ -58,7 +58,10 @@
     "translate:articles:force": "ts-node scripts/translate-articles.ts --force",
     "translate:articles:dry": "ts-node scripts/translate-articles.ts --dry-run",
     "podcasts:sync-audio-manifest": "node scripts/sync-podcast-audio-manifest.mjs",
-    "podcasts:check-audio-manifest": "node scripts/sync-podcast-audio-manifest.mjs --check"
+    "podcasts:check-audio-manifest": "node scripts/sync-podcast-audio-manifest.mjs --check",
+    "cf:build": "opennextjs-cloudflare build",
+    "cf:deploy": "opennextjs-cloudflare deploy",
+    "cf:upload": "opennextjs-cloudflare upload"
   },
   "dependencies": {
     "@opennextjs/cloudflare": "^1.20.2",

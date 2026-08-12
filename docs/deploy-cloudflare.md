@@ -80,3 +80,20 @@ npm run deploy    # build + deploy (requiere wrangler login)
 ## Rollback
 
 Reapuntar DNS a Vercel o desactivar el custom domain del Worker.
+
+
+## Si el build falla (`Failed: error occurred while running build command`)
+
+1. En **Implementaciones**, abre el build rojo → **View build log** / ver registro.
+2. Copia las **últimas 30–40 líneas** (ahí está el error real).
+3. En **Settings → Builds → Variables de compilación**, asegúrate de tener:
+   - `NODE_OPTIONS` = `--max-old-space-size=6144`
+   - `NEXT_PUBLIC_SITE_URL` = `https://linguafly.app`
+   - `CI` = `true`
+4. Comandos recomendados en Builds:
+   - **Build command:** `npm run cf:build`
+   - **Deploy command:** `npm run cf:deploy`
+   - **Non-production deploy:** `npm run cf:upload`
+5. Vuelve a lanzar **Retry deployment**.
+
+Causas frecuentes: falta de memoria en el builder, Node antiguo, o variables `NEXT_PUBLIC_*` ausentes en build.
