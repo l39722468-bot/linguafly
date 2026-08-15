@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { OrganizationSchema, WebsiteSchema } from "./schema";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
+import MatomoAnalytics from "@/components/MatomoAnalytics";
 import Cookiebot from "@/components/Cookiebot";
 import CookiebotBannerVisibility from "@/components/CookiebotBannerVisibility";
 import InMobiChoiceConsent from "@/components/InMobiChoiceConsent";
@@ -142,6 +143,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         {children}
         {/* Scripts deferidos: no bloquean first paint */}
         <GoogleAnalytics />
+        <MatomoAnalytics />
         {/* Copyright watermark - contraste 4.5:1 (WCAG AA) */}
         <div
           style={{

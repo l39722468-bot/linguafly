@@ -132,7 +132,7 @@ export default function PrivacidadPage() {
                 Política de Cookies
               </a>
               , donde se muestra la declaración actualizada y la información sobre las
-              cookies de Google Analytics.
+              cookies de Google Analytics y Matomo.
             </p>
 
             <h2 className="text-2xl font-bold mt-10 mb-4">7. Sus derechos</h2>

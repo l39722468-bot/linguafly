@@ -259,5 +259,6 @@ declare global {
       targetId: string,
       config?: Record<string, any>
     ) => void;
+    _paq?: Array<unknown[]>;
   }
 }
