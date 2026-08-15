@@ -794,6 +794,9 @@ const nextConfig = {
         "https://challenges.cloudflare.com",
         "https://www.googletagmanager.com",
         "https://www.google-analytics.com",
+        // Matomo Cloud (linguaflyapp.matomo.cloud)
+        "https://cdn.matomo.cloud",
+        "https://*.matomo.cloud",
         // Google AdSense (pagead / tags / SODAR calidad de tráfico)
         "https://pagead2.googlesyndication.com",
         "https://www.googletagservices.com",
@@ -829,6 +832,9 @@ const nextConfig = {
         "https://*.google-analytics.com",
         "https://www.googletagmanager.com",
         "https://static.cloudflareinsights.com",
+        // Matomo Cloud tracker
+        "https://linguaflyapp.matomo.cloud",
+        "https://*.matomo.cloud",
         // AdSense / anuncios (beacons, bidding, métricas)
         "https://pagead2.googlesyndication.com",
         "https://googleads.g.doubleclick.net",
@@ -870,6 +876,9 @@ const nextConfig = {
         "https://placehold.co",
         "https://www.google-analytics.com",
         "https://www.googletagmanager.com",
+        // Matomo Cloud (pixel / beacon de respaldo)
+        "https://linguaflyapp.matomo.cloud",
+        "https://*.matomo.cloud",
         "https://pagead2.googlesyndication.com",
         "https://googleads.g.doubleclick.net",
         "https://tpc.googlesyndication.com",
