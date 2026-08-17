@@ -60,7 +60,8 @@ Saber **saludar y presentarte en inglés** es lo primero que necesitas para deja
 
 Si acabas de empezar, no te preocupes por la gramática complicada: en A1 solo necesitas unas pocas estructuras que se repiten una y otra vez. Al terminar este artículo sabrás saludar según la hora del día, decir tu nombre, tu ciudad, tu país y tu profesión, y habrás practicado con **ejercicios y audios** que puedes escuchar las veces que quieras.
 
-> **Practica en el curso:** [Unidad 1 — Saludos e información personal](/curso-a1/unit-1)
+> **Practica en el curso:** [Unidad 1 — Saludos e información personal](/curso-a1/unit-1)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 1 A1](/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones)
 
 ---
 
@@ -546,6 +547,10 @@ Antes de pasar a la Unidad 2, marca lo que ya puedes hacer:
 ## Siguiente paso en el curso A1
 
 Cuando domines esta unidad, continúa con la **Unidad 2**, donde ampliarás el verbo *to be* con *he, she, it, we, they* y aprenderás a hablar de **países y nacionalidades**.
+
+Antes, practica con el cuaderno completo:
+
+- [Ejercicios Unidad 1 A1 (con soluciones)](/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones)
 
 Mientras tanto, profundiza con estas guías relacionadas:
 

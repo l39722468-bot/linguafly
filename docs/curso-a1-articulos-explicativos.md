@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-04 (artículos U1–U60 ≥2000 palabras)  
+**Última actualización:** 2026-08-17 (artículos U1–U60; +cuaderno ejercicios U1)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -33,7 +33,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 1 | Greetings and Personal Information | *to be* (I/you), saludos, my/your | ✅ | [Saludos y presentarse A1](/blog/curso-a1/unidad-1-saludos-presentarse) |
+| 1 | Greetings and Personal Information | *to be* (I/you), saludos, my/your | ✅ | [Saludos y presentarse A1](/blog/curso-a1/unidad-1-saludos-presentarse) · [Ejercicios + soluciones](/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones) |
 | 2 | Verb 'to be' and Subject Pronouns | *to be* he/she/it/we/they, nacionalidades | ✅ | [To be y pronombres A1](/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades) |
 | 3 | Verb 'to be': Negatives and Questions | Negativa, preguntas, emociones | ✅ | [To be negativa y preguntas A1](/blog/curso-a1/unidad-3-to-be-negativa-preguntas) |
 | 4 | Essential Vocabulary: Numbers and Objects | a/an, plurales, this/that | ✅ | [Artículos y demostrativos A1](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos) |
