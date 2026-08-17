@@ -35,7 +35,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 |---|---|---|---|---|
 | 1 | Greetings and Personal Information | *to be* (I/you), saludos, my/your | ✅ | [Saludos y presentarse A1](/blog/curso-a1/unidad-1-saludos-presentarse) · [Ejercicios + soluciones](/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones) |
 | 2 | Verb 'to be' and Subject Pronouns | *to be* he/she/it/we/they, nacionalidades | ✅ | [To be y pronombres A1](/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades) · [Ejercicios + soluciones](/blog/curso-a1/unidad-2-to-be-ejercicios-soluciones) |
-| 3 | Verb 'to be': Negatives and Questions | Negativa, preguntas, emociones | ✅ | [To be negativa y preguntas A1](/blog/curso-a1/unidad-3-to-be-negativa-preguntas) |
+| 3 | Verb 'to be': Negatives and Questions | Negativa, preguntas, emociones | ✅ | [To be negativa y preguntas A1](/blog/curso-a1/unidad-3-to-be-negativa-preguntas) · [Ejercicios + soluciones](/blog/curso-a1/unidad-3-to-be-ejercicios-soluciones) |
 | 4 | Essential Vocabulary: Numbers and Objects | a/an, plurales, this/that | ✅ | [Artículos y demostrativos A1](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos) |
 | 5 | Simple Present: Everyday Actions | Present Simple afirmativo, -s 3.ª pers. | ✅ | [Present Simple rutinas A1](/blog/curso-a1/unidad-5-present-simple-rutinas) |
 | 6 | Family Members & Personal Info | Genitivo sajón, his/her/our/their | ✅ | [Familia, posesivos y genitivo A1](/blog/curso-a1/unidad-6-familia-posesivos-genitivo) |

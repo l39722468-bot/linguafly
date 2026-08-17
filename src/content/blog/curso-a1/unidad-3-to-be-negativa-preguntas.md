@@ -24,6 +24,8 @@ related_routes:
   - gramatica-inglesa-guia
   - ingles-a1
   - fonetica-inglesa-basica
+  - unidad-3-to-be-ejercicios-soluciones
+  - unidad-2-to-be-pronombres-nacionalidades
 faqs:
   - question: ¿Cómo se forma la negativa del verbo to be en inglés?
     answer: >-
@@ -58,6 +60,7 @@ En las **Unidades 1 y 2** aprendiste el verbo ***to be*** en afirmativa (*I am*,
 Esta guía explica la **negativa** (*am not*, *isn't*, *aren't*), las **preguntas sí/no**, las **respuestas cortas** (*Yes, I am* / *No, I'm not*) y el vocabulario de **emociones y estados** (*happy*, *sad*, *tired*, *hungry*…). Incluye **audios**, **esquemas** y **ejercicios** para practicar en el mismo artículo.
 
 > **Practica en el curso:** [Unidad 3 — To be: negativa y preguntas](/curso-a1/unit-3)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 3 A1](/blog/curso-a1/unidad-3-to-be-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 2 — Pronombres y nacionalidades](/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades)
 
 ---
@@ -540,6 +543,10 @@ Opciones: a) No, he isn't. b) Yes, I am. c) Yes, it is. d) No, we aren't.
 ## Siguiente paso en el curso A1
 
 En la **Unidad 4** aprenderás **artículos *a/an***, **plurales regulares** y demostrativos (*this/that*, *these/those*) con vocabulario de objetos del aula, números y colores.
+
+Antes, practica con el cuaderno completo:
+
+- [Ejercicios Unidad 3 A1 (con soluciones)](/blog/curso-a1/unidad-3-to-be-ejercicios-soluciones)
 
 Guías relacionadas:
 
