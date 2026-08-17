@@ -23,6 +23,8 @@ alt: Tabla de colores básicos en inglés nivel A1 con ejemplos
 related_routes:
   - ingles-a1
   - gramatica-inglesa-guia
+  - unidad-7-colores-descripciones-ejercicios-soluciones
+  - unidad-6-familia-posesivos-genitivo
 faqs:
   - question: ¿Cuáles son los colores básicos en inglés A1?
     answer: >-
@@ -59,6 +61,7 @@ Ya sabes hablar de tu familia con posesivos y el genitivo sajón. En la **Unidad
 Esta guía cubre los **colores básicos**, los adjetivos ***tall, short, young, old, long, beautiful***, la estructura ***to be + adjetivo***, y ***have / has got*** para pelo y ojos. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 7 — Colores y descripciones físicas](/curso-a1/unit-7)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 7 A1](/blog/curso-a1/unidad-7-colores-descripciones-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 6 — Familia, posesivos y genitivo sajón](/blog/curso-a1/unidad-6-familia-posesivos-genitivo)
 
 ---
@@ -582,6 +585,10 @@ Opciones: (a) Yes, she is tall. (b) He is thirty years old. (c) He is short with
 ## Siguiente paso en el curso A1
 
 En la **Unidad 8** aprendes **números del 20 al 100**, edades y precios (*How old/much is…?*) para preguntar y decir cifras con confianza.
+
+Antes, practica con el cuaderno completo:
+
+- [Ejercicios Unidad 7 A1 (con soluciones)](/blog/curso-a1/unidad-7-colores-descripciones-ejercicios-soluciones)
 
 → [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
 

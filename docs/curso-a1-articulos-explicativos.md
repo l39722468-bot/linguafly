@@ -39,7 +39,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 4 | Essential Vocabulary: Numbers and Objects | a/an, plurales, this/that | ✅ | [Artículos y demostrativos A1](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos) · [Ejercicios + soluciones](/blog/curso-a1/unidad-4-articulos-plurales-ejercicios-soluciones) |
 | 5 | Simple Present: Everyday Actions | Present Simple afirmativo, -s 3.ª pers. | ✅ | [Present Simple rutinas A1](/blog/curso-a1/unidad-5-present-simple-rutinas) · [Ejercicios + soluciones](/blog/curso-a1/unidad-5-present-simple-rutinas-ejercicios-soluciones) |
 | 6 | Family Members & Personal Info | Genitivo sajón, his/her/our/their | ✅ | [Familia, posesivos y genitivo A1](/blog/curso-a1/unidad-6-familia-posesivos-genitivo) · [Ejercicios + soluciones](/blog/curso-a1/unidad-6-familia-posesivos-ejercicios-soluciones) |
-| 7 | Colors & Physical Descriptions | Adjetivos, *have got* | ✅ | [Colores y descripciones físicas A1](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) |
+| 7 | Colors & Physical Descriptions | Adjetivos, *have got* | ✅ | [Colores y descripciones físicas A1](/blog/curso-a1/unidad-7-colores-descripciones-fisicas) · [Ejercicios + soluciones](/blog/curso-a1/unidad-7-colores-descripciones-ejercicios-soluciones) |
 | 8 | Numbers 20–100 | *How old/much is…?* | ✅ | [Números, edad y precios A1](/blog/curso-a1/unidad-8-numeros-edad-precios) |
 | 9 | Jobs & Occupations | Profesiones, a/an | ✅ | [Profesiones y ocupaciones A1](/blog/curso-a1/unidad-9-profesiones-ocupaciones) |
 | 10 | Daily Routines & Time | *What time…?*, *at* + hora | ✅ | [Rutinas diarias y la hora A1](/blog/curso-a1/unidad-10-rutinas-diarias-hora) |
