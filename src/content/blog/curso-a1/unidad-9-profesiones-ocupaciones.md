@@ -22,6 +22,8 @@ alt: Tabla de profesiones y lugares de trabajo en inglés nivel A1
 related_routes:
   - ingles-a1
   - ingles-para-trabajo
+  - unidad-9-profesiones-ejercicios-soluciones
+  - unidad-8-numeros-edad-precios
 faqs:
   - question: ¿Cómo digo mi profesión en inglés?
     answer: >-
@@ -55,6 +57,7 @@ Ya sabes preguntar edad, precios y números de teléfono. En la **Unidad 9 del c
 Esta guía cubre el **vocabulario de trabajos**, la estructura ***I am a/an + profesión***, la pregunta ***Where do you work?*** y ***What do you do?***. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 9 — Profesiones y ocupaciones](/curso-a1/unit-9)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 9 A1](/blog/curso-a1/unidad-9-profesiones-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios)
 
 ---
@@ -624,6 +627,10 @@ Escucha los audios de esta guía y responde en voz alta:
 ## Siguiente paso en el curso A1
 
 En la **Unidad 10** aprendes **rutinas diarias y la hora** (*What time do you…?*, *at seven o'clock*, *half past*).
+
+Antes, practica con el cuaderno completo:
+
+- [Ejercicios Unidad 9 A1 (con soluciones)](/blog/curso-a1/unidad-9-profesiones-ejercicios-soluciones)
 
 → [Unidad 10 — Rutinas diarias y la hora](/blog/curso-a1/unidad-10-rutinas-diarias-hora)
 
