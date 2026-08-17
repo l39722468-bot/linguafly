@@ -22,6 +22,8 @@ alt: Tabla de rutinas diarias en inglés nivel A1 con horarios
 related_routes:
   - gramatica-inglesa-guia
   - ingles-a1
+  - unidad-10-rutinas-hora-ejercicios-soluciones
+  - unidad-9-profesiones-ocupaciones
 faqs:
   - question: ¿Cómo pregunto a qué hora haces algo en inglés?
     answer: >-
@@ -55,6 +57,7 @@ Ya sabes hablar de profesiones y dónde trabajas. En la **Unidad 10 del curso A1
 Esta guía cubre el **vocabulario de rutinas**, ***What time do you…?***, ***at + hora***, ***o'clock*** y ***half past***, y el Present Simple con *he/she*. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 10 — Rutinas diarias y la hora](/curso-a1/unit-10)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 10 A1](/blog/curso-a1/unidad-10-rutinas-hora-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 9 — Profesiones y ocupaciones](/blog/curso-a1/unidad-9-profesiones-ocupaciones)
 
 ---
@@ -553,6 +556,10 @@ Haz estas 6 preguntas (a un compañero o en voz alta contigo mismo) y responde c
 ## Siguiente paso en el curso A1
 
 En la **Unidad 11** aprendes **lugares de la ciudad** (*Places in Town*): *There is/are*, *Where is…?* y preposiciones de lugar.
+
+Antes, practica con el cuaderno completo:
+
+- [Ejercicios Unidad 10 A1 (con soluciones)](/blog/curso-a1/unidad-10-rutinas-hora-ejercicios-soluciones)
 
 → [Unidad 11 — Lugares en la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad)
 
