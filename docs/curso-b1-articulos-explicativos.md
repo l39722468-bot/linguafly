@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-12 (artículos U1–U5; Módulo 1 en curso)  
+**Última actualización:** 2026-08-17 (artículos U1–U6; Módulo 1 en curso)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 5 |
-| Artículos dedicados pendientes | 55 |
+| Artículos dedicados publicados | 6 |
+| Artículos dedicados pendientes | 54 |
 | Unidades con cobertura tangencial (blog-course-map) | — |
 
 ---
@@ -38,7 +38,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | 3 | Past Perfect | had + pp; secuencias | ✅ | [Past Perfect B1](/blog/curso-b1/unidad-3-past-perfect) |
 | 4 | Past Simple vs Present Perfect | contraste; time expressions | ✅ | [Past vs Present Perfect B1](/blog/curso-b1/unidad-4-past-vs-present-perfect) |
 | 5 | Repaso 1–4 | integración | ✅ | [Repaso 1–4 B1](/blog/curso-b1/unidad-5-repaso-1-4) |
-| 6 | Future: will / going to / continuous | contraste futuros; Travel | ❌ | — |
+| 6 | Future: will / going to / continuous | contraste futuros; Travel | ✅ | [Future forms B1](/blog/curso-b1/unidad-6-future-will-going-to) |
 | 7 | Was/were going to | planes no realizados | ❌ | — |
 | 8 | Modal verbs of deduction | must / might / can’t; feelings | ❌ | — |
 | 9 | Used to / be used to / get used to | hábitos y adaptación | ❌ | — |

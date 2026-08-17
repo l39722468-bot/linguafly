@@ -89,6 +89,21 @@ const CLIPS_BY_UNIT = {
     'dialogue-review': 'How long have you been working as a teacher? For five years. Had you been to Asia before Japan? No — I had never been there. Have you booked another trip yet? Yes — I have just booked one for next summer.',
     'practice-four': 'She has been studying for two hours. He had finished before I arrived. I went to Paris yesterday. She has never been to Japan.',
   },
+  6: {
+    'am-going-to-visit': 'I am going to visit my parents next weekend.',
+    'will-rain': 'I think it will rain tomorrow.',
+    'is-meeting': 'She is meeting her boss at three PM.',
+    'will-help': 'Wait, I will help you.',
+    'going-to-rain': 'Look at the clouds! It is going to rain.',
+    'are-flying': 'We are flying to Rome on Friday.',
+    'will-call': 'I promise I will call you when I arrive.',
+    'is-going-to-take': 'He is going to take the train tomorrow.',
+    'flight-departs': 'The flight departs at ten AM.',
+    'are-having-meeting': 'They are having a meeting tomorrow at nine.',
+    'reading-tokyo': 'Next month I am flying to Tokyo for a business trip. I have already booked my flight and hotel. I am meeting my colleagues at the airport at six AM. The plane takes off at eight o\'clock. I think I will enjoy the trip because I love travelling. I am going to visit some temples if I have time.',
+    'dialogue-travel': 'What are you going to do next month? I am flying to Tokyo for work. Are you meeting anyone there? Yes — I am meeting my colleagues at the airport at six. I think I will enjoy the trip. I am going to visit some temples if I have time.',
+    'practice-four': 'I am going to visit my parents next weekend. I think it will rain tomorrow. We are flying to Rome on Friday. Wait, I will help you.',
+  },
 };
 
 const unitArg = process.argv.find((a) => a.startsWith('--unit='))?.split('=')[1]
