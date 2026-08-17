@@ -24,6 +24,8 @@ related_routes:
   - gramatica-inglesa-guia
   - ingles-a1
   - ingles-a1-vs-a2
+  - unidad-2-to-be-ejercicios-soluciones
+  - unidad-1-saludos-presentarse
 faqs:
   - question: ¿Cuándo uso is y cuándo are con el verbo to be?
     answer: >-
@@ -60,6 +62,7 @@ En la **Unidad 1** aprendiste a presentarte con *I am* y *You are*. Ahora, en la
 Esta guía explica los **pronombres personales** (*he, she, it, we, they*), el **verbo *to be*** con *is* y *are*, el vocabulario de países y nacionalidades, y los **números del 1 al 10**. Incluye **audios**, **esquemas** y **ejercicios** para practicar la teoría en el mismo artículo.
 
 > **Practica en el curso:** [Unidad 2 — Países y nacionalidades](/curso-a1/unit-2)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 2 A1](/blog/curso-a1/unidad-2-to-be-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 1 — Saludos y presentarse](/blog/curso-a1/unidad-1-saludos-presentarse)
 
 ---
@@ -569,6 +572,10 @@ Describe a dos amigos (reales o inventados). Para cada uno incluye: nombre, paí
 ## Siguiente paso en el curso A1
 
 En la **Unidad 3** aprenderás el verbo *to be* en **negativa e interrogativa** (*Is he from Spain?*, *She isn't tired*, *Are they happy?*) y vocabulario de **emociones y estados**.
+
+Antes, practica con el cuaderno completo:
+
+- [Ejercicios Unidad 2 A1 (con soluciones)](/blog/curso-a1/unidad-2-to-be-ejercicios-soluciones)
 
 Guías relacionadas:
 
