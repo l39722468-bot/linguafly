@@ -25,6 +25,8 @@ related_routes:
   - ingles-para-compras
   - ingles-mercados-regateo-viaje
   - ingles-a1
+  - unidad-8-numeros-edad-precios-ejercicios-soluciones
+  - unidad-7-colores-descripciones-fisicas
 faqs:
   - question: ¿Cómo se dicen los números del 20 al 100 en inglés?
     answer: >-
@@ -65,6 +67,7 @@ Ya sabes describir el aspecto físico de una persona. En la **Unidad 8 del curso
 Esta guía cubre los **números 20–100**, las preguntas ***How old are you?*** y ***How much is…?***, vocabulario de **precios y dinero**, y cómo decir tu **phone number**. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 8 — Números, edad y precios](/curso-a1/unit-8)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 8 A1](/blog/curso-a1/unidad-8-numeros-edad-precios-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 7 — Colores y descripciones físicas](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)
 
 ---
@@ -657,6 +660,10 @@ Completa el diálogo:
 ## Siguiente paso en el curso A1
 
 En la **Unidad 9** aprendes **profesiones y ocupaciones** (*Jobs & Occupations*) y a usar *a/an* con trabajos (*I am a teacher*).
+
+Antes, practica con el cuaderno completo:
+
+- [Ejercicios Unidad 8 A1 (con soluciones)](/blog/curso-a1/unidad-8-numeros-edad-precios-ejercicios-soluciones)
 
 → [Unidad 9 — Profesiones y ocupaciones](/blog/curso-a1/unidad-9-profesiones-ocupaciones)
 
