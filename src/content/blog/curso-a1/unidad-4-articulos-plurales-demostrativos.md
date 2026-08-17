@@ -23,6 +23,8 @@ alt: Esquema de demostrativos this that these those en inglés nivel A1
 related_routes:
   - gramatica-inglesa-guia
   - ingles-a1
+  - unidad-4-articulos-plurales-ejercicios-soluciones
+  - unidad-3-to-be-negativa-preguntas
 faqs:
   - question: ¿Cuándo uso a y cuándo an en inglés?
     answer: >-
