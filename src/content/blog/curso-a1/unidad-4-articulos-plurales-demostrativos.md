@@ -58,6 +58,7 @@ Después de dominar el verbo ***to be***, la **Unidad 4 del curso A1** (*Essenti
 En esta guía aprenderás los **artículos *a* y *an***, los **plurales regulares** (*book → books*), los **demostrativos** (*this, that, these, those*), los **números del 1 al 10** y vocabulario esencial del aula. Incluye **audios**, **esquemas** y **ejercicios** para practicar la teoría.
 
 > **Practica en el curso:** [Unidad 4 — Números y objetos](/curso-a1/unit-4)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 4 A1](/blog/curso-a1/unidad-4-articulos-plurales-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 3 — To be: negativa y preguntas](/blog/curso-a1/unidad-3-to-be-negativa-preguntas)
 
 ---
@@ -633,6 +634,10 @@ Completa con tus datos reales o inventados:
 ## Siguiente paso en el curso A1
 
 En la **Unidad 5** aprenderás el **Present Simple** en afirmativa para hablar de rutinas y acciones cotidianas (*I work*, *She eats*, *They play*).
+
+Antes, practica con el cuaderno completo:
+
+- [Ejercicios Unidad 4 A1 (con soluciones)](/blog/curso-a1/unidad-4-articulos-plurales-ejercicios-soluciones)
 
 Guías relacionadas:
 
