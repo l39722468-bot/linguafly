@@ -23,6 +23,8 @@ alt: Árbol genealógico básico en inglés nivel A1 con miembros de la familia
 related_routes:
   - ingles-a1
   - gramatica-inglesa-guia
+  - unidad-6-familia-posesivos-ejercicios-soluciones
+  - unidad-5-present-simple-rutinas
 faqs:
   - question: ¿Cómo se dice madre, padre y hermano en inglés?
     answer: >-
@@ -60,6 +62,7 @@ Ya sabes presentarte, describir rutinas y nombrar objetos. En la **Unidad 6 del 
 Esta guía cubre el **vocabulario de la familia**, los posesivos ***my, your, his, her, our, their***, cómo expresar posesión con ***'s***, y frases útiles como *I have two brothers* o *My grandmother is eighty years old*. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 6 — Familia e información personal](/curso-a1/unit-6)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 6 A1](/blog/curso-a1/unidad-6-familia-posesivos-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 5 — Present Simple y rutinas](/blog/curso-a1/unidad-5-present-simple-rutinas)
 
 ---
@@ -584,6 +587,10 @@ Escribe 5 frases sobre tu familia. Usa al menos **tres** posesivos diferentes y 
 ## Siguiente paso en el curso A1
 
 En la **Unidad 7** aprendes **colores** y **descripciones físicas** (*tall, short, blue eyes*) para describir personas con adjetivos.
+
+Antes, practica con el cuaderno completo:
+
+- [Ejercicios Unidad 6 A1 (con soluciones)](/blog/curso-a1/unidad-6-familia-posesivos-ejercicios-soluciones)
 
 → [Unidad 7 — Colores y descripciones físicas](/blog/curso-a1/unidad-7-colores-descripciones-fisicas)
 
