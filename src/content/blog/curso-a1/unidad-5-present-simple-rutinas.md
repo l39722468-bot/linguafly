@@ -23,6 +23,8 @@ alt: Línea de tiempo de rutina diaria en inglés nivel A1
 related_routes:
   - gramatica-inglesa-guia
   - ingles-a1
+  - unidad-5-present-simple-rutinas-ejercicios-soluciones
+  - unidad-4-articulos-plurales-demostrativos
 faqs:
   - question: ¿Qué es el Present Simple en inglés?
     answer: >-
@@ -60,6 +62,7 @@ Hasta ahora has aprendido el verbo ***to be*** (*I am*, *She is*) y a nombrar ob
 Esta guía explica el Present Simple en **afirmativa**, la regla de la **3.ª persona (-s)**, los **verbos de rutina** más útiles y las **expresiones de tiempo** (*every morning*, *at eight*). Incluye **audios**, **esquemas** y **ejercicios** para practicar.
 
 > **Practica en el curso:** [Unidad 5 — Present Simple: acciones cotidianas](/curso-a1/unit-5)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 5 A1](/blog/curso-a1/unidad-5-present-simple-rutinas-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 4 — Artículos y demostrativos](/blog/curso-a1/unidad-4-articulos-plurales-demostrativos)
 
 ---
@@ -561,6 +564,10 @@ Alex **wakes up** at 6:30. He **gets up** at seven. He **eats** breakfast and **
 En la **[Unidad 6](/blog/curso-a1/unidad-6-familia-posesivos-genitivo)** aprenderás a hablar de **la familia** con el genitivo sajón (*'s*) y los posesivos *his, her, our, their*.
 
 En las **Unidades 13–15** profundizarás en Present Simple con **negativa** (*don't/doesn't*) y **preguntas** (*Do you…? / Does she…?*).
+
+Antes, practica con el cuaderno completo:
+
+- [Ejercicios Unidad 5 A1 (con soluciones)](/blog/curso-a1/unidad-5-present-simple-rutinas-ejercicios-soluciones)
 
 Guías relacionadas:
 
