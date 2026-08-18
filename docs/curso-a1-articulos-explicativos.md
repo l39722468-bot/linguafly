@@ -90,7 +90,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 34 | Using 'And', 'But', 'Because' | Conectores | ✅ | [And, but, because A1](/blog/curso-a1/unidad-34-and-but-because) · [Ejercicios + soluciones](/blog/curso-a1/unidad-34-and-but-because-ejercicios-soluciones) |
 | 35 | Free Time Activities | *go + -ing* | ✅ | [Free Time Activities A1](/blog/curso-a1/unidad-35-free-time-activities) · [Ejercicios + soluciones](/blog/curso-a1/unidad-35-free-time-activities-ejercicios-soluciones) |
 | 36 | Musical Instruments | *play the* + instrumento | ✅ | [Instrumentos musicales A1](/blog/curso-a1/unidad-36-instrumentos-musicales) · [Ejercicios + soluciones](/blog/curso-a1/unidad-36-instrumentos-musicales-ejercicios-soluciones) |
-| 37 | Talent & Skills | *very well*, *quite well* | ✅ | [Talent & Skills A1](/blog/curso-a1/unidad-37-talent-skills) |
+| 37 | Talent & Skills | *very well*, *quite well* | ✅ | [Talent & Skills A1](/blog/curso-a1/unidad-37-talent-skills) · [Ejercicios + soluciones](/blog/curso-a1/unidad-37-talent-skills-ejercicios-soluciones) |
 | 38 | Asking for Permission | *Can I…?*, *May I…?* | ✅ | [Pedir permiso A1](/blog/curso-a1/unidad-38-pedir-permiso) |
 | 39 | Outdoor Activities | Present Continuous (planes) | ✅ | [Outdoor Activities A1](/blog/curso-a1/unidad-39-outdoor-activities) |
 | 40 | Module 4 Review | Repaso módulo 4 | ✅ | [Repaso Módulo 4 A1](/blog/curso-a1/unidad-40-repaso-modulo-4) |

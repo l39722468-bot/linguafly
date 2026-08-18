@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-37-talent-skills'
 image: /blog/curso-a1/unit-37/a1-unit37-skill-levels.png
 alt: Escala very well quite well not at all para habilidades en inglés A1
 related_routes:
+  - unidad-37-talent-skills-ejercicios-soluciones
   - can-could-ingles
   - verbos-modales-ingles-guia
   - ingles-a1
@@ -41,8 +42,9 @@ faqs:
       talent, good at, sing, draw, cook.
   - question: ¿Dónde practico la Unidad 37 del curso A1?
     answer: >-
-      En la Unidad 37 del curso A1 de Linguafly practicarás talent & skills en
-      gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 37 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 37 del curso A1: very well, quite well, not at all y
   adjetivos de talento, con audios y ejercicios.
@@ -548,7 +550,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** *How well can you…?* + respuesta corta.  
 3. **Combina** U36: *I play the guitar quite well.*  
 4. Prepárate para la [Unidad 38](/curso-a1/unit-38): *Asking for Permission* (*Can I…? / May I…?*).  
-5. Practica en la [Unidad 37 del curso A1](/curso-a1/unit-37).
+5. Practica en el [cuaderno de ejercicios de la Unidad 37](/blog/curso-a1/unidad-37-talent-skills-ejercicios-soluciones) y en la [Unidad 37 del curso A1](/curso-a1/unit-37).
 
 ---
 
@@ -566,6 +568,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 37 A1 (con soluciones)](/blog/curso-a1/unidad-37-talent-skills-ejercicios-soluciones)
+- [Unidad 37 del curso A1](/curso-a1/unit-37)
 
 Continúa con la [**Unidad 38 — Pedir permiso**](/blog/curso-a1/unidad-38-pedir-permiso): *Can I…?*, *May I…?*, *please*, *of course*.
 
