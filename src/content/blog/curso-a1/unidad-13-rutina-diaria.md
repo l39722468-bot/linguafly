@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-13-rutina-diaria'
 image: /blog/curso-a1/unit-13/a1-unit13-routine.png
 alt: Tabla de acciones de la rutina diaria en inglés nivel A1
 related_routes:
+  - unidad-13-rutina-diaria-ejercicios-soluciones
   - gramatica-inglesa-guia
   - phrasal-verbs-principiantes
   - ingles-a1
@@ -57,6 +58,7 @@ Ya sabes los días de la semana y a qué hora haces las cosas. En la **Unidad 13
 Esta guía cubre el **vocabulario de la rutina**, los secuenciadores ***First, Then, After that***, y cómo combinarlos con **Present Simple** y horarios. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 13 — Rutina diaria](/curso-a1/unit-13)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 13 A1](/blog/curso-a1/unidad-13-rutina-diaria-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana) · [Unidad 10 — Rutinas y la hora](/blog/curso-a1/unidad-10-rutinas-diarias-hora)
 
 ---
@@ -483,7 +485,7 @@ Describe tu día completo (mañana, tarde y noche) con secuenciadores y al menos
 2. **Pega post-its** en el baño: *brush my teeth*, *have a shower*.  
 3. **Cambia un detalle cada día**: *First I wake up at 6:30…*  
 4. **Combina** con [Unidad 10](/blog/curso-a1/unidad-10-rutinas-diarias-hora) (horas) y [Unidad 12](/blog/curso-a1/unidad-12-dias-semana) (días).  
-5. Haz los 90 ejercicios de la [Unidad 13 del curso A1](/curso-a1/unit-13).
+5. Haz los 90 ejercicios de la [Unidad 13 del curso A1](/curso-a1/unit-13) o el [cuaderno con soluciones](/blog/curso-a1/unidad-13-rutina-diaria-ejercicios-soluciones).
 
 ---
 
@@ -502,6 +504,10 @@ Describe tu día completo (mañana, tarde y noche) con secuenciadores y al menos
 ## Siguiente paso en el curso A1
 
 En la **Unidad 14** trabajarás el Present Simple con ***I, you, we, they*** en negativa y preguntas (*don't*, *Do you…?*).
+
+Practica ahora:
+
+- [Ejercicios Unidad 13 A1 (con soluciones)](/blog/curso-a1/unidad-13-rutina-diaria-ejercicios-soluciones)
 
 Guía dedicada:
 
