@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-36-instrumentos-music
 image: /blog/curso-a1/unit-36/a1-unit36-play-the.png
 alt: Esquema play the + instrumento musical en inglés A1
 related_routes:
+  - unidad-36-instrumentos-musicales-ejercicios-soluciones
   - ingles-a1
   - can-could-ingles
 faqs:
@@ -40,8 +41,9 @@ faqs:
       instrument.
   - question: ¿Dónde practico la Unidad 36 del curso A1?
     answer: >-
-      En la Unidad 36 del curso A1 de Linguafly practicarás instrumentos
-      musicales en gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 36 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 36 del curso A1: play the + instrumento (piano, guitar,
   drums, violin, flute), con audios y ejercicios.
@@ -567,7 +569,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** adivina el instrumento (*Do you play the…?*).  
 3. **Combina** U35: *In my free time I play the guitar.*  
 4. Prepárate para la [Unidad 37](/curso-a1/unit-37): *Talent & Skills* (*very well / quite well*).  
-5. Practica en la [Unidad 36 del curso A1](/curso-a1/unit-36).
+5. Practica en el [cuaderno de ejercicios de la Unidad 36](/blog/curso-a1/unidad-36-instrumentos-musicales-ejercicios-soluciones) y en la [Unidad 36 del curso A1](/curso-a1/unit-36).
 
 ---
 
@@ -585,6 +587,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 36 A1 (con soluciones)](/blog/curso-a1/unidad-36-instrumentos-musicales-ejercicios-soluciones)
+- [Unidad 36 del curso A1](/curso-a1/unit-36)
 
 Continúa con la [**Unidad 37 — Talent & Skills**](/blog/curso-a1/unidad-37-talent-skills): *very well*, *quite well*, *not at all*.
 
