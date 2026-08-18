@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-12-dias-semana'
 image: /blog/curso-a1/unit-12/a1-unit12-days.png
 alt: Tabla de los días de la semana en inglés nivel A1
 related_routes:
+  - unidad-12-dias-semana-ejercicios-soluciones
   - gramatica-inglesa-guia
   - unidad-8-preposiciones-tiempo-at-on-in
   - ingles-a1
@@ -57,6 +58,7 @@ Ya sabes hablar de lugares en la ciudad. En la **Unidad 12 del curso A1** (*Days
 Esta guía cubre los **siete días**, la preposición ***on***, ***weekend*** y ***weekdays***, y la pregunta ***What do you do on…?***. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 12 — Días de la semana](/curso-a1/unit-12)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 12 A1](/blog/curso-a1/unidad-12-dias-semana-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 11 — Lugares en la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad)
 
 ---
@@ -526,7 +528,7 @@ Habla durante 60–90 segundos:
 2. **Memoriza los días en orden** en voz alta.
 3. **Practica *on***: *on Monday*, *on Fridays*, *on the weekend*.
 4. **Escucha los audios** y repite con la misma entonación.
-5. Haz los ejercicios de la [Unidad 12 del curso A1](/curso-a1/unit-12).
+5. Haz los ejercicios de la [Unidad 12 del curso A1](/curso-a1/unit-12) o el [cuaderno con soluciones](/blog/curso-a1/unidad-12-dias-semana-ejercicios-soluciones).
 6. **Combina con la hora:** *On Monday I get up at seven o'clock* ([Unidad 10](/blog/curso-a1/unidad-10-rutinas-diarias-hora)).
 7. **Etiqueta tu calendario** del móvil en inglés (Mon, Tue, Wed…).
 8. **Pregunta a tres personas:** *What do you do on Sundays?*
@@ -561,6 +563,10 @@ Habla durante 60–90 segundos:
 ## Siguiente paso en el curso A1
 
 En la **Unidad 13** profundizarás en la **rutina diaria** con secuenciadores (*First, Then, After that*) y Present Simple.
+
+Practica ahora:
+
+- [Ejercicios Unidad 12 A1 (con soluciones)](/blog/curso-a1/unidad-12-dias-semana-ejercicios-soluciones)
 
 → [Unidad 13 — Rutina diaria](/blog/curso-a1/unidad-13-rutina-diaria)
 
