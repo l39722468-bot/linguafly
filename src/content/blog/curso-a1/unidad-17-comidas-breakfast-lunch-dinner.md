@@ -46,8 +46,9 @@ faqs:
       fish, pasta, rice.
   - question: ¿Dónde practico la Unidad 17 del curso A1?
     answer: >-
-      En la Unidad 17 del curso A1 de Linguafly practicarás comidas y gustos con
-      ejercicios de gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 17 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      writing.
 excerpt: >-
   Guía de la Unidad 17 del curso A1: breakfast, lunch y dinner; have breakfast;
   like/love/hate + comida; introducción a contables e incontables. Con audios,
