@@ -525,7 +525,7 @@ Describe tu barrio en voz alta (6–8 frases). Debe incluir:
 2. **Practica *There is/are*** mirando por la ventana.
 3. **Pregunta en voz alta**: *Where is the…? Is there a…?*
 4. **Escucha los audios** y repite con la misma entonación.
-5. Haz los ejercicios de la [Unidad 11 del curso A1](/curso-a1/unit-11).
+5. Haz los ejercicios de la [Unidad 11 del curso A1](/curso-a1/unit-11) o el [cuaderno con soluciones](/blog/curso-a1/unidad-11-lugares-ciudad-ejercicios-soluciones).
 6. **Etiqueta fotos** de Google Maps o de tu móvil: *This is a bank. It is next to…*
 7. **Juego de 60 segundos:** nombra 10 lugares sin repetir.
 8. **Conecta con rutinas** (Unidad 10): *I go to the supermarket at half past five.*
