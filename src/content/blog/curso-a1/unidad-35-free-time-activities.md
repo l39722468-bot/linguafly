@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-35-free-time-activiti
 image: /blog/curso-a1/unit-35/a1-unit35-free-time-patterns.png
 alt: Esquema go for a walk go shopping y like + -ing en inglés A1
 related_routes:
+  - unidad-35-free-time-activities-ejercicios-soluciones
   - ingles-para-deportes
   - ingles-playas-deportes-acuaticos
   - ingles-a1
@@ -42,8 +43,9 @@ faqs:
       films, park, social media, walk the dog.
   - question: ¿Dónde practico la Unidad 35 del curso A1?
     answer: >-
-      En la Unidad 35 del curso A1 de Linguafly practicarás free time activities
-      en gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 35 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 35 del curso A1: tiempo libre con go for a walk, go shopping
   y like + -ing, con audios y ejercicios.
