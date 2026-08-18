@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-38-pedir-permiso'
 image: /blog/curso-a1/unit-38/a1-unit38-can-may.png
 alt: Esquema Can I y May I para pedir permiso en inglés A1
 related_routes:
+  - unidad-38-pedir-permiso-ejercicios-soluciones
   - can-could-ingles
   - may-might-ingles
   - verbos-modales-ingles-guia
@@ -41,8 +42,9 @@ faqs:
       question, bathroom, pen, permission.
   - question: ¿Dónde practico la Unidad 38 del curso A1?
     answer: >-
-      En la Unidad 38 del curso A1 de Linguafly practicarás asking for permission
-      en gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 38 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 38 del curso A1: Can I…? y May I…? para pedir permiso, con
   audios y ejercicios.
@@ -561,7 +563,7 @@ Escribe 2 mini-diálogos (4–6 líneas cada uno):
 2. **Pareja:** uno pide, el otro concede o niega.  
 3. **Combina** U16: *Can I have…?* vs *Can I use…?*  
 4. Prepárate para la [Unidad 39](/curso-a1/unit-39): *Outdoor Activities*.  
-5. Practica en la [Unidad 38 del curso A1](/curso-a1/unit-38).
+5. Practica en el [cuaderno de ejercicios de la Unidad 38](/blog/curso-a1/unidad-38-pedir-permiso-ejercicios-soluciones) y en la [Unidad 38 del curso A1](/curso-a1/unit-38).
 
 ---
 
@@ -579,6 +581,11 @@ Escribe 2 mini-diálogos (4–6 líneas cada uno):
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 38 A1 (con soluciones)](/blog/curso-a1/unidad-38-pedir-permiso-ejercicios-soluciones)
+- [Unidad 38 del curso A1](/curso-a1/unit-38)
 
 Continúa con la [**Unidad 39 — Outdoor Activities**](/blog/curso-a1/unidad-39-outdoor-activities): *I'm going camping*, *hiking*, *cycling*, *fishing*.
 
