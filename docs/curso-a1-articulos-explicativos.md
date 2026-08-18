@@ -67,7 +67,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 21 | Rooms in a House | Plurales, adjetivos | ✅ | [Habitaciones de la casa A1](/blog/curso-a1/unidad-21-habitaciones-casa) |
+| 21 | Rooms in a House | Plurales, adjetivos | ✅ | [Habitaciones de la casa A1](/blog/curso-a1/unidad-21-habitaciones-casa) · [Ejercicios + soluciones](/blog/curso-a1/unidad-21-habitaciones-casa-ejercicios-soluciones) |
 | 22 | Furniture & Household Items | Posesivos mine/yours | ✅ | [Muebles y mine/yours A1](/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours) |
 | 23 | There is / There are | *There is/are* | ✅ | [There is / There are A1](/blog/curso-a1/unidad-23-there-is-there-are) |
 | 24 | Prepositions of Place | Preposiciones de lugar | ✅ | [Preposiciones de lugar A1](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between) |
