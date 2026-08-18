@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-32-deportes-hobbies-p
 image: /blog/curso-a1/unit-32/a1-unit32-play-go-do.png
 alt: Esquema play go do con deportes y hobbies en inglés A1
 related_routes:
+  - unidad-32-deportes-hobbies-play-go-do-ejercicios-soluciones
   - ingles-para-deportes
   - ingles-playas-deportes-acuaticos
   - ingles-a1
@@ -41,8 +42,8 @@ faqs:
       exercise, team, pool, active.
   - question: ¿Dónde practico la Unidad 32 del curso A1?
     answer: >-
-      En la Unidad 32 del curso A1 de Linguafly practicarás play/go/do con
-      deportes y hobbies en gramática, vocabulario, reading, listening y
+      En la Unidad 32 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
       speaking.
 excerpt: >-
   Guía de la Unidad 32 del curso A1: deportes y hobbies con play, go y do, más
@@ -550,7 +551,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** entrevista con 6 preguntas *Do you…?*  
 3. **Combina** U31: *I can swim → I go swimming.*  
 4. Prepárate para la [Unidad 33](/curso-a1/unit-33): *Adverbs of Frequency*.  
-5. Practica en la [Unidad 32 del curso A1](/curso-a1/unit-32).
+5. Practica en el [cuaderno de ejercicios de la Unidad 32](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do-ejercicios-soluciones) y en la [Unidad 32 del curso A1](/curso-a1/unit-32).
 
 ---
 
@@ -569,6 +570,10 @@ Escribe 8–10 frases. Incluye:
 ## Siguiente paso en el curso A1
 
 Continúa con la [**Unidad 33 — Adverbios de frecuencia**](/blog/curso-a1/unidad-33-adverbios-frecuencia): *always, usually, often, sometimes, never*.
+
+Practica ahora:
+
+- [Ejercicios Unidad 32 A1 (con soluciones)](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do-ejercicios-soluciones)
 
 Antes de pasar de unidad, escribe ocho frases reales sobre tu semana: dos con *play*, dos con *go …ing*, dos con *do*, y dos hobbies con *like + -ing*. Léelas en voz alta y comprueba la *-s* de la tercera persona.
 
