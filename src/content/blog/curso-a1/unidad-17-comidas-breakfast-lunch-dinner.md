@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-17-comidas-breakfast-
 image: /blog/curso-a1/unit-17/a1-unit17-vocab.png
 alt: Vocabulario de desayuno comida y cena en inglés A1
 related_routes:
+  - unidad-17-comidas-breakfast-lunch-dinner-ejercicios-soluciones
   - ingles-en-la-cocina
   - ingles-restaurantes-bares-viaje
   - ingles-a1
@@ -492,7 +493,7 @@ Escribe 6–8 frases: qué tomas en breakfast/lunch/dinner y qué te gusta o no.
 2. **Cuenta tu día** alimentario en voz alta cada noche (1 minuto).  
 3. **Combina** con U16: en el café pide lo que *likes*; en casa descríbelo.  
 4. Prepárate para la [Unidad 18](/curso-a1/unit-18): *like + -ing* y *because*.  
-5. Practica en la [Unidad 17 del curso A1](/curso-a1/unit-17).
+5. Practica en la [Unidad 17 del curso A1](/curso-a1/unit-17) o el [cuaderno con soluciones](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner-ejercicios-soluciones).
 
 ---
 
@@ -512,6 +513,10 @@ Escribe 6–8 frases: qué tomas en breakfast/lunch/dinner y qué te gusta o no.
 ## Siguiente paso en el curso A1
 
 En la **Unidad 18** profundizarás en **Likes & Dislikes**: *like + -ing* y *because*.
+
+Practica ahora:
+
+- [Ejercicios Unidad 17 A1 (con soluciones)](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner-ejercicios-soluciones)
 
 Guía dedicada:
 
