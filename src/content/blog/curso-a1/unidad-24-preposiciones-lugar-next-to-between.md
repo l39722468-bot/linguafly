@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-24-preposiciones-luga
 image: /blog/curso-a1/unit-24/a1-unit24-prepositions.png
 alt: Esquema next to between in front of opposite en inglés nivel A1
 related_routes:
+  - unidad-24-preposiciones-lugar-next-to-between-ejercicios-soluciones
   - preposiciones-movimiento-ingles
   - ingles-para-viajar
   - unidad-9-preposiciones-lugar-movimiento
@@ -44,9 +45,9 @@ faqs:
       cinema. There is a bus stop in front of the school.
   - question: ¿Dónde practico la Unidad 24 del curso A1?
     answer: >-
-      En la Unidad 24 del curso A1 de Linguafly practicarás next to, between, in
-      front of y opposite con gramática, vocabulario, reading, listening y
-      speaking.
+      En la Unidad 24 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      writing.
 excerpt: >-
   Guía de la Unidad 24 del curso A1: preposiciones de lugar next to, between, in
   front of y opposite, con There is/are, barrio y ejercicios con audio.
@@ -613,7 +614,7 @@ Escribe 8–10 frases sobre tu barrio o un mapa inventado. Usa las **cuatro** pr
 2. **Explica** el mapa a alguien: *The X is next to / opposite…*  
 3. **Combina** con U23: *There is a lamp on the table. There is a cafe next to the bank.*  
 4. Prepárate para la [Unidad 25](/curso-a1/unit-25): *My Neighborhood* (*the / a/an / some/any*).  
-5. Practica en la [Unidad 24 del curso A1](/curso-a1/unit-24).
+5. Practica en la [Unidad 24 del curso A1](/curso-a1/unit-24) o el [cuaderno con soluciones](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between-ejercicios-soluciones).
 
 ---
 
@@ -633,6 +634,10 @@ Escribe 8–10 frases sobre tu barrio o un mapa inventado. Usa las **cuatro** pr
 ## Siguiente paso en el curso A1
 
 En la **Unidad 25** describirás tu **barrio** con más detalle y practicarás ***the* vs *a/an*** y ***some/any***.
+
+Practica ahora:
+
+- [Ejercicios Unidad 24 A1 (con soluciones)](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between-ejercicios-soluciones)
 
 Guía dedicada:
 
