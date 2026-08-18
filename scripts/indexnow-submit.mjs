@@ -18,9 +18,14 @@ import { readFileSync, existsSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
-const HOST = "www.focus-on-english.com";
-const KEY = "59006008bf0856c11d13c983f0cd516d";
-const KEY_LOCATION = `https://${HOST}/${KEY}.txt`;
+// Host canónico del sitio (debe coincidir con getSiteUrl() / NEXT_PUBLIC_SITE_URL).
+// Antes apuntaba a www.focus-on-english.com (dominio deshabilitado → IndexNow avisaba URLs muertas).
+const HOST = (process.env.INDEXNOW_HOST || process.env.NEXT_PUBLIC_SITE_URL || "https://linguafly.app")
+  .replace(/^https?:\/\//, "")
+  .replace(/\/+$/, "");
+const KEY = process.env.INDEXNOW_KEY || "59006008bf0856c11d13c983f0cd516d";
+const KEY_LOCATION =
+  process.env.INDEXNOW_KEY_LOCATION || `https://${HOST}/${KEY}.txt`;
 const ENDPOINT = "https://api.indexnow.org/indexnow";
 const CHUNK = 10_000;
 
@@ -50,6 +55,29 @@ const categoryFromPath = (relPath) => {
 
 const urlFor = ({ category, slug }) =>
   `https://${HOST}/blog/${category}/${slug}`;
+
+/** Reescribe hosts antiguos / www al host canónico de IndexNow. */
+const normalizeToHost = (rawUrl) => {
+  try {
+    const u = new URL(rawUrl);
+    if (
+      u.hostname === HOST ||
+      u.hostname === `www.${HOST}` ||
+      u.hostname === "www.focus-on-english.com" ||
+      u.hostname === "focus-on-english.com" ||
+      u.hostname === "www.linguafly.app" ||
+      u.hostname === "linguafly.app"
+    ) {
+      u.protocol = "https:";
+      u.hostname = HOST;
+      u.hash = "";
+      return u.toString().replace(/\/+$/, "") || `https://${HOST}`;
+    }
+  } catch {
+    return null;
+  }
+  return null;
+};
 
 const getChangedMdUrls = (sinceRef) => {
   let out = "";
@@ -134,13 +162,15 @@ const main = async () => {
     mode = `git-diff(${SINCE})`;
   }
 
-  urls = [...new Set(urls)].filter(Boolean);
+  urls = [...new Set(urls)]
+    .map((u) => normalizeToHost(u) || (u.startsWith(`https://${HOST}/`) ? u.replace(/\/+$/, "") : null))
+    .filter(Boolean);
   if (urls.length === 0) {
     console.log(`[indexnow] modo=${mode}: no hay URLs que notificar.`);
     return;
   }
 
-  console.log(`[indexnow] modo=${mode} · ${urls.length} URLs:`);
+  console.log(`[indexnow] host=${HOST} · modo=${mode} · ${urls.length} URLs:`);
   for (const u of urls.slice(0, 20)) console.log(`  - ${u}`);
   if (urls.length > 20) console.log(`  … (+${urls.length - 20} más)`);
 

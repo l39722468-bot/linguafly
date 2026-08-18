@@ -16,13 +16,14 @@ function getSiteUrl(): string {
   return (process.env.NEXT_PUBLIC_SITE_URL || DEFAULT_SITE_URL).replace(/\/+$/, "");
 }
 
-function getIndexNowKeyLocation(siteUrl: string): string {
+function getIndexNowKeyLocation(siteUrl: string, key: string): string {
   const customKeyLocation = process.env.INDEXNOW_KEY_LOCATION?.trim();
   if (customKeyLocation) {
     return customKeyLocation;
   }
 
-  return `${siteUrl}/indexnow-key.txt`;
+  // IndexNow expects the key file at /{key}.txt (see public/{key}.txt).
+  return `${siteUrl}/${key}.txt`;
 }
 
 export function getIndexNowKey(): string {
@@ -72,7 +73,7 @@ export async function submitUrlsToIndexNow(
   const payload: IndexNowPayload = {
     host,
     key,
-    keyLocation: getIndexNowKeyLocation(siteUrl),
+    keyLocation: getIndexNowKeyLocation(siteUrl, key),
     urlList,
   };
 

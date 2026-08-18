@@ -6,10 +6,11 @@
  */
 import fs from 'node:fs';
 import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 import { getBlogArticles } from '../src/lib/blog';
 import { buildBlogCourseRelations } from '../src/lib/blog-course-map';
 
-const ROOT = path.join(import.meta.dirname, '..');
+const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_DIR = path.join(ROOT, 'src', 'generated');
 
 type StoredArticle = {
