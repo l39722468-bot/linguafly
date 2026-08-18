@@ -71,7 +71,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 22 | Furniture & Household Items | Posesivos mine/yours | ✅ | [Muebles y mine/yours A1](/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours) · [Ejercicios + soluciones](/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours-ejercicios-soluciones) |
 | 23 | There is / There are | *There is/are* | ✅ | [There is / There are A1](/blog/curso-a1/unidad-23-there-is-there-are) · [Ejercicios + soluciones](/blog/curso-a1/unidad-23-there-is-there-are-ejercicios-soluciones) |
 | 24 | Prepositions of Place | Preposiciones de lugar | ✅ | [Preposiciones de lugar A1](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between) · [Ejercicios + soluciones](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between-ejercicios-soluciones) |
-| 25 | My Neighborhood | *the* vs *a/an*, *some/any* | ✅ | [My Neighborhood A1](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any) |
+| 25 | My Neighborhood | *the* vs *a/an*, *some/any* | ✅ | [My Neighborhood A1](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any) · [Ejercicios + soluciones](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any-ejercicios-soluciones) |
 | 26 | Giving Directions | Imperativos | ✅ | [Giving Directions A1](/blog/curso-a1/unidad-26-direcciones-imperativos) |
 | 27 | Pets & Animals | Vocabulario animales | ✅ | [Pets & Animals A1](/blog/curso-a1/unidad-27-mascotas-animales) |
 | 28 | Body Parts | *have/has got* | ✅ | [Body Parts A1](/blog/curso-a1/unidad-28-partes-cuerpo-have-got) |

@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-25-barrio-the-a-an-so
 image: /blog/curso-a1/unit-25/a1-unit25-neighborhood.png
 alt: Esquema the a an some any para describir el barrio en inglés A1
 related_routes:
+  - unidad-25-barrio-the-a-an-some-any-ejercicios-soluciones
   - gramatica-inglesa-guia
   - ingles-para-viajar
   - ingles-a1
@@ -45,8 +46,8 @@ faqs:
       street, shop, cafe. Combínalo con There is/are y preposiciones de U23–U24.
   - question: ¿Dónde practico la Unidad 25 del curso A1?
     answer: >-
-      En la Unidad 25 del curso A1 de Linguafly practicarás the/a/an, some/any y
-      descripción del barrio con gramática, vocabulario, reading, listening y
+      En la Unidad 25 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
       speaking.
 excerpt: >-
   Guía de la Unidad 25 del curso A1: describe tu barrio con the vs a/an,
@@ -563,7 +564,7 @@ Escribe 8–10 frases. Usa:
 2. **Grabación** de 45 segundos: *My neighbourhood is…*.  
 3. **Combina** U24: *There is a cafe next to the supermarket.*  
 4. Prepárate para la [Unidad 26](/curso-a1/unit-26): *Giving Directions* (imperativos).  
-5. Practica en la [Unidad 25 del curso A1](/curso-a1/unit-25).
+5. Practica en el [cuaderno de ejercicios de la Unidad 25](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any-ejercicios-soluciones) y en la [Unidad 25 del curso A1](/curso-a1/unit-25).
 
 ---
 
@@ -583,6 +584,10 @@ Escribe 8–10 frases. Usa:
 ## Siguiente paso en el curso A1
 
 En la **Unidad 26** aprenderás a **dar direcciones** con imperativos (*Turn left, Go straight…*).
+
+Practica ahora:
+
+- [Ejercicios Unidad 25 A1 (con soluciones)](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any-ejercicios-soluciones)
 
 Guía dedicada:
 
