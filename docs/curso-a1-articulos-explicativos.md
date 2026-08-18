@@ -58,7 +58,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 16 | At the Cafe | *Can I have…?*, *I'd like…* | ✅ | [Pedir en la cafetería A1](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like) · [Ejercicios + soluciones](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like-ejercicios-soluciones) |
 | 17 | Breakfast, Lunch & Dinner | Contables/incontables (intro) | ✅ | [Comidas Breakfast Lunch Dinner A1](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner) · [Ejercicios + soluciones](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner-ejercicios-soluciones) |
 | 18 | Likes & Dislikes | *like + -ing*, *because* | ✅ | [Gustos like + -ing A1](/blog/curso-a1/unidad-18-gustos-like-ing-because) · [Ejercicios + soluciones](/blog/curso-a1/unidad-18-gustos-like-ing-because-ejercicios-soluciones) |
-| 19 | Months & Dates | Meses, ordinales, cumpleaños | ✅ | [Meses y fechas A1](/blog/curso-a1/unidad-19-meses-fechas-cumpleanos) |
+| 19 | Months & Dates | Meses, ordinales, cumpleaños | ✅ | [Meses y fechas A1](/blog/curso-a1/unidad-19-meses-fechas-cumpleanos) · [Ejercicios + soluciones](/blog/curso-a1/unidad-19-meses-fechas-cumpleanos-ejercicios-soluciones) |
 | 20 | Module 2 Review | Repaso módulo 2 | ✅ | [Repaso Módulo 2 A1](/blog/curso-a1/unidad-20-repaso-modulo-2) |
 
 ---

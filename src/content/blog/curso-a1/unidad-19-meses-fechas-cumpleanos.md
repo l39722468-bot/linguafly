@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-19-meses-fechas-cumpl
 image: /blog/curso-a1/unit-19/a1-unit19-months.png
 alt: Meses del año en inglés nivel A1
 related_routes:
+  - unidad-19-meses-fechas-cumpleanos-ejercicios-soluciones
   - gramatica-inglesa-guia
   - unidad-8-preposiciones-tiempo-at-on-in
   - ingles-a1
