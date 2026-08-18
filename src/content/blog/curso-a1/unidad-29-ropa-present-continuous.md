@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-29-ropa-present-conti
 image: /blog/curso-a1/unit-29/a1-unit29-clothes.png
 alt: Esquema clothes I am wearing Present Continuous en inglés A1
 related_routes:
+  - unidad-29-ropa-present-continuous-ejercicios-soluciones
   - vocabulario-ropa-ingles
   - ingles-para-compras
   - ingles-a1
@@ -42,8 +43,9 @@ faqs:
       trousers.
   - question: ¿Dónde practico la Unidad 29 del curso A1?
     answer: >-
-      En la Unidad 29 del curso A1 de Linguafly practicarás ropa y Present
-      Continuous con gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 29 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 29 del curso A1: ropa con Present Continuous (I am
   wearing…), vocabulario shirt, trousers, dress, shoes, hat, jacket.
@@ -556,7 +558,7 @@ Escribe 8–10 frases sobre tu ropa de hoy (o de una foto). Usa:
 2. **Armario:** saca 6 prendas y di *I am wearing…* (imagina).  
 3. **Combina** U7 + U28: *I’m wearing a blue shirt. These are my hands.*  
 4. Prepárate para la [Unidad 30](/curso-a1/unit-30): *Module 3 Review*.  
-5. Practica en la [Unidad 29 del curso A1](/curso-a1/unit-29).
+5. Practica en el [cuaderno de ejercicios de la Unidad 29](/blog/curso-a1/unidad-29-ropa-present-continuous-ejercicios-soluciones) y en la [Unidad 29 del curso A1](/curso-a1/unit-29).
 
 ---
 
@@ -576,6 +578,10 @@ Escribe 8–10 frases sobre tu ropa de hoy (o de una foto). Usa:
 ## Siguiente paso en el curso A1
 
 En la **Unidad 30** harás el **repaso del Módulo 3** (casa, barrio, direcciones, animales, cuerpo y ropa).
+
+Practica ahora:
+
+- [Ejercicios Unidad 29 A1 (con soluciones)](/blog/curso-a1/unidad-29-ropa-present-continuous-ejercicios-soluciones)
 
 Guía dedicada:
 
