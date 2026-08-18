@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-40-repaso-modulo-4'
 image: /blog/curso-a1/unit-40/a1-unit40-module-map.png
 alt: Mapa de repaso del Módulo 4 del curso A1
 related_routes:
+  - unidad-40-repaso-modulo-4-ejercicios-soluciones
   - can-could-ingles
   - ingles-para-deportes
   - may-might-ingles
@@ -46,8 +47,9 @@ faqs:
       para At the Airport (U41).
   - question: ¿Dónde practico la Unidad 40 del curso A1?
     answer: >-
-      En la Unidad 40 del curso A1 de Linguafly harás el repaso del Módulo 4 con
-      ejercicios de gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 40 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 40 del curso A1: repaso del Módulo 4 (habilidades e
   intereses) con checklist, audios, esquemas y ejercicios.
@@ -580,7 +582,7 @@ Escribe 10–12 frases que incluyan:
 2. Si fallas solo en *play/go/do*, vuelve a [U32](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do).  
 3. Si fallas en permiso o cortesía, vuelve a [U38](/blog/curso-a1/unidad-38-pedir-permiso).  
 4. Si fallas en planes futuros, vuelve a [U39](/blog/curso-a1/unidad-39-outdoor-activities).  
-5. Practica en la [Unidad 40 del curso A1](/curso-a1/unit-40).
+5. Practica en el [cuaderno de ejercicios de la Unidad 40](/blog/curso-a1/unidad-40-repaso-modulo-4-ejercicios-soluciones) y en la [Unidad 40 del curso A1](/curso-a1/unit-40).
 
 El Módulo 5 empieza en el aeropuerto (*At the Airport*): *must/should*, *passport*, *check-in*, *gate*. Llevarás contigo *can*, la cortesía y la capacidad de explicar planes.
 
@@ -603,6 +605,11 @@ El Módulo 5 empieza en el aeropuerto (*At the Airport*): *must/should*, *passpo
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 40 A1 (con soluciones)](/blog/curso-a1/unidad-40-repaso-modulo-4-ejercicios-soluciones)
+- [Unidad 40 del curso A1](/curso-a1/unit-40)
 
 Tras el Módulo 4, el curso continúa con el **Módulo 5** (*Places & Travel*). La siguiente unidad es **At the Airport** (*must/should*, *passport*, *ticket*, *check-in*).
 

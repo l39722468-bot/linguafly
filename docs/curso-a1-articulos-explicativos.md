@@ -93,7 +93,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 37 | Talent & Skills | *very well*, *quite well* | ✅ | [Talent & Skills A1](/blog/curso-a1/unidad-37-talent-skills) · [Ejercicios + soluciones](/blog/curso-a1/unidad-37-talent-skills-ejercicios-soluciones) |
 | 38 | Asking for Permission | *Can I…?*, *May I…?* | ✅ | [Pedir permiso A1](/blog/curso-a1/unidad-38-pedir-permiso) · [Ejercicios + soluciones](/blog/curso-a1/unidad-38-pedir-permiso-ejercicios-soluciones) |
 | 39 | Outdoor Activities | Present Continuous (planes) | ✅ | [Outdoor Activities A1](/blog/curso-a1/unidad-39-outdoor-activities) · [Ejercicios + soluciones](/blog/curso-a1/unidad-39-outdoor-activities-ejercicios-soluciones) |
-| 40 | Module 4 Review | Repaso módulo 4 | ✅ | [Repaso Módulo 4 A1](/blog/curso-a1/unidad-40-repaso-modulo-4) |
+| 40 | Module 4 Review | Repaso módulo 4 | ✅ | [Repaso Módulo 4 A1](/blog/curso-a1/unidad-40-repaso-modulo-4) · [Ejercicios + soluciones](/blog/curso-a1/unidad-40-repaso-modulo-4-ejercicios-soluciones) |
 
 ---
 
