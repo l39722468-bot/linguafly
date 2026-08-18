@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-30-repaso-modulo-3'
 image: /blog/curso-a1/unit-30/a1-unit30-module-map.png
 alt: Mapa de repaso del Módulo 3 del curso A1
 related_routes:
+  - unidad-30-repaso-modulo-3-ejercicios-soluciones
   - preposiciones-movimiento-ingles
   - vocabulario-ropa-ingles
   - ingles-para-salud
@@ -46,8 +47,9 @@ faqs:
       wearing…, estás listo para seguir.
   - question: ¿Dónde practico la Unidad 30 del curso A1?
     answer: >-
-      En la Unidad 30 del curso A1 de Linguafly harás el repaso del Módulo 3 con
-      ejercicios de gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 30 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 30 del curso A1: repaso del Módulo 3 (casa, barrio,
   direcciones, animales, cuerpo y ropa) con checklist, audios, esquemas y
@@ -555,7 +557,7 @@ Escribe 10–12 frases que incluyan:
 1. No memorices listas sueltas: **une** casa + barrio + ropa en un solo texto.  
 2. Si fallas solo en preposiciones, vuelve a [U23](/blog/curso-a1/unidad-23-there-is-there-are)–[U24](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between).  
 3. Si fallas en *wearing*, vuelve a [U29](/blog/curso-a1/unidad-29-ropa-present-continuous).  
-4. Practica en la [Unidad 30 del curso A1](/curso-a1/unit-30).
+4. Practica en el [cuaderno de ejercicios de la Unidad 30](/blog/curso-a1/unidad-30-repaso-modulo-3-ejercicios-soluciones) y en la [Unidad 30 del curso A1](/curso-a1/unit-30).
 
 ---
 
@@ -577,6 +579,10 @@ Escribe 10–12 frases que incluyan:
 ## Siguiente paso en el curso A1
 
 Tras el Módulo 3, el curso continúa con el **Módulo 4**. La siguiente unidad es **Can for Ability** (*can/can’t*).
+
+Practica ahora:
+
+- [Ejercicios Unidad 30 A1 (con soluciones)](/blog/curso-a1/unidad-30-repaso-modulo-3-ejercicios-soluciones)
 
 Guía dedicada:
 

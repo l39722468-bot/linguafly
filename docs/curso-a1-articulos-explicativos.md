@@ -76,7 +76,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 27 | Pets & Animals | Vocabulario animales | ✅ | [Pets & Animals A1](/blog/curso-a1/unidad-27-mascotas-animales) · [Ejercicios + soluciones](/blog/curso-a1/unidad-27-mascotas-animales-ejercicios-soluciones) |
 | 28 | Body Parts | *have/has got* | ✅ | [Body Parts A1](/blog/curso-a1/unidad-28-partes-cuerpo-have-got) · [Ejercicios + soluciones](/blog/curso-a1/unidad-28-partes-cuerpo-have-got-ejercicios-soluciones) |
 | 29 | Clothes | Present Continuous (ropa) | ✅ | [Clothes A1](/blog/curso-a1/unidad-29-ropa-present-continuous) · [Ejercicios + soluciones](/blog/curso-a1/unidad-29-ropa-present-continuous-ejercicios-soluciones) |
-| 30 | Module 3 Review | Repaso módulo 3 | ✅ | [Repaso Módulo 3 A1](/blog/curso-a1/unidad-30-repaso-modulo-3) |
+| 30 | Module 3 Review | Repaso módulo 3 | ✅ | [Repaso Módulo 3 A1](/blog/curso-a1/unidad-30-repaso-modulo-3) · [Ejercicios + soluciones](/blog/curso-a1/unidad-30-repaso-modulo-3-ejercicios-soluciones) |
 
 ---
 
