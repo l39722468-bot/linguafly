@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-15-present-simple-doe
 image: /blog/curso-a1/unit-15/a1-unit15-doesnt.png
 alt: Esquema de doesn't en Present Simple inglés nivel A1
 related_routes:
+  - unidad-15-present-simple-doesnt-does-ejercicios-soluciones
   - gramatica-inglesa-guia
   - pronunciacion-ed-s-ingles
   - ingles-a1
@@ -57,6 +58,7 @@ En la [Unidad 14](/blog/curso-a1/unidad-14-present-simple-dont-do-you) aprendist
 Esta guía cubre la **negativa**, las **preguntas**, las **respuestas cortas**, la **ortografía** (*goes, watches, studies, has*) y vocabulario de **animales** y **rutinas profesionales**. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 15 — Present Simple: He, She, It](/curso-a1/unit-15)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 15 A1](/blog/curso-a1/unidad-15-present-simple-doesnt-does-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 14 — don't y Do you](/blog/curso-a1/unidad-14-present-simple-dont-do-you) · [Unidad 5 — Present Simple](/blog/curso-a1/unidad-5-present-simple-rutinas)
 
 ---
@@ -481,7 +483,7 @@ Escribe 5–7 frases sobre un amigo, familiar o mascota: qué hace, qué no hace
 2. **Pregunta sobre mascotas:** *Does your dog bark? Does your cat sleep a lot?*  
 3. **Contrasta U14 y U15:** *I don't…* vs *He doesn't…*; *Do you…?* vs *Does she…?*.  
 4. Repasa la [Unidad 14](/blog/curso-a1/unidad-14-present-simple-dont-do-you) si dudas con *don't/Do*.  
-5. Practica en la [Unidad 15 del curso A1](/curso-a1/unit-15).
+5. Practica en la [Unidad 15 del curso A1](/curso-a1/unit-15) o el [cuaderno con soluciones](/blog/curso-a1/unidad-15-present-simple-doesnt-does-ejercicios-soluciones).
 
 ---
 
@@ -500,6 +502,10 @@ Escribe 5–7 frases sobre un amigo, familiar o mascota: qué hace, qué no hace
 ## Siguiente paso en el curso A1
 
 En la **Unidad 16** practicarás el inglés de **cafetería**: *Can I have…?*, *I'd like…*.
+
+Practica ahora:
+
+- [Ejercicios Unidad 15 A1 (con soluciones)](/blog/curso-a1/unidad-15-present-simple-doesnt-does-ejercicios-soluciones)
 
 Guía dedicada:
 

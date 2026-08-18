@@ -54,7 +54,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 12 | Days of the Week | *on* + días, hábitos | ✅ | [Días de la semana A1](/blog/curso-a1/unidad-12-dias-semana) · [Ejercicios + soluciones](/blog/curso-a1/unidad-12-dias-semana-ejercicios-soluciones) |
 | 13 | Daily Routine | Secuenciadores + Present Simple | ✅ | [Rutina diaria A1](/blog/curso-a1/unidad-13-rutina-diaria) · [Ejercicios + soluciones](/blog/curso-a1/unidad-13-rutina-diaria-ejercicios-soluciones) |
 | 14 | Present Simple: I, You, We, They | *don't*, *Do you…?* | ✅ | [Present Simple: don't y Do you A1](/blog/curso-a1/unidad-14-present-simple-dont-do-you) · [Ejercicios + soluciones](/blog/curso-a1/unidad-14-present-simple-dont-do-you-ejercicios-soluciones) |
-| 15 | Present Simple: He, She, It | *doesn't*, *Does…?* | ✅ | [Present Simple: doesn't y Does A1](/blog/curso-a1/unidad-15-present-simple-doesnt-does) |
+| 15 | Present Simple: He, She, It | *doesn't*, *Does…?* | ✅ | [Present Simple: doesn't y Does A1](/blog/curso-a1/unidad-15-present-simple-doesnt-does) · [Ejercicios + soluciones](/blog/curso-a1/unidad-15-present-simple-doesnt-does-ejercicios-soluciones) |
 | 16 | At the Cafe | *Can I have…?*, *I'd like…* | ✅ | [Pedir en la cafetería A1](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like) |
 | 17 | Breakfast, Lunch & Dinner | Contables/incontables (intro) | ✅ | [Comidas Breakfast Lunch Dinner A1](/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner) |
 | 18 | Likes & Dislikes | *like + -ing*, *because* | ✅ | [Gustos like + -ing A1](/blog/curso-a1/unidad-18-gustos-like-ing-because) |
