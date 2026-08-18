@@ -87,7 +87,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 31 | Can for Ability | *can/can't* | ✅ | [Can for Ability A1](/blog/curso-a1/unidad-31-can-habilidad) · [Ejercicios + soluciones](/blog/curso-a1/unidad-31-can-habilidad-ejercicios-soluciones) |
 | 32 | Sports & Hobbies | *play/go/do* | ✅ | [Sports & Hobbies A1](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do) · [Ejercicios + soluciones](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do-ejercicios-soluciones) |
 | 33 | Adverbs of Frequency | Adverbios de frecuencia | ✅ | [Adverbios de frecuencia A1](/blog/curso-a1/unidad-33-adverbios-frecuencia) · [Ejercicios + soluciones](/blog/curso-a1/unidad-33-adverbios-frecuencia-ejercicios-soluciones) |
-| 34 | Using 'And', 'But', 'Because' | Conectores | ✅ | [And, but, because A1](/blog/curso-a1/unidad-34-and-but-because) |
+| 34 | Using 'And', 'But', 'Because' | Conectores | ✅ | [And, but, because A1](/blog/curso-a1/unidad-34-and-but-because) · [Ejercicios + soluciones](/blog/curso-a1/unidad-34-and-but-because-ejercicios-soluciones) |
 | 35 | Free Time Activities | *go + -ing* | ✅ | [Free Time Activities A1](/blog/curso-a1/unidad-35-free-time-activities) |
 | 36 | Musical Instruments | *play the* + instrumento | ✅ | [Instrumentos musicales A1](/blog/curso-a1/unidad-36-instrumentos-musicales) |
 | 37 | Talent & Skills | *very well*, *quite well* | ✅ | [Talent & Skills A1](/blog/curso-a1/unidad-37-talent-skills) |

@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-34-and-but-because'
 image: /blog/curso-a1/unit-34/a1-unit34-and-but-because.png
 alt: Esquema and but because para conectar ideas en inglés A1
 related_routes:
+  - unidad-34-and-but-because-ejercicios-soluciones
   - gramatica-inglesa-guia
   - ingles-a1
 faqs:
@@ -42,8 +43,9 @@ faqs:
       tasty, sport, music, pizza, fish, cinema.
   - question: ¿Dónde practico la Unidad 34 del curso A1?
     answer: >-
-      En la Unidad 34 del curso A1 de Linguafly practicarás and/but/because en
-      gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 34 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 34 del curso A1: and, but y because para unir ideas, con
   audios y ejercicios.
@@ -584,7 +586,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** *Why do you…?* × 6.  
 3. **Combina** U33: *I often play football but I never watch it on TV.*  
 4. Prepárate para la [Unidad 35](/curso-a1/unit-35): *Free Time Activities*.  
-5. Practica en la [Unidad 34 del curso A1](/curso-a1/unit-34).
+5. Practica en el [cuaderno de ejercicios de la Unidad 34](/blog/curso-a1/unidad-34-and-but-because-ejercicios-soluciones) y en la [Unidad 34 del curso A1](/curso-a1/unit-34).
 
 ---
 
@@ -601,6 +603,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 34 A1 (con soluciones)](/blog/curso-a1/unidad-34-and-but-because-ejercicios-soluciones)
+- [Unidad 34 del curso A1](/curso-a1/unit-34)
 
 Continúa con la [**Unidad 35 — Free Time Activities**](/blog/curso-a1/unidad-35-free-time-activities): *go for a walk*, *go shopping*, *like watching TV*.
 
