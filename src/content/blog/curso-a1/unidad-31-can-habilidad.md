@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-31-can-habilidad'
 image: /blog/curso-a1/unit-31/a1-unit31-can-cant.png
 alt: Esquema can can't para habilidad en inglés nivel A1
 related_routes:
+  - unidad-31-can-habilidad-ejercicios-soluciones
   - can-could-ingles
   - verbos-modales-ingles-guia
   - ingles-a1
@@ -43,8 +44,9 @@ faqs:
       can't drive yet).
   - question: ¿Dónde practico la Unidad 31 del curso A1?
     answer: >-
-      En la Unidad 31 del curso A1 de Linguafly practicarás can/can't con
-      gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 31 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 31 del curso A1: can y can't para habilidades (swim, cook,
   drive, speak), con preguntas, respuestas cortas, audios y ejercicios.
@@ -573,7 +575,7 @@ Escribe 8–10 frases. Incluye:
 2. **Entrevista** a un compañero: 5 × *Can you…?*  
 3. **Combina** U16: *I can cook. Can I have a coffee?* (dos usos).  
 4. Prepárate para la [Unidad 32](/curso-a1/unit-32): *Sports & Hobbies* (*play/go/do*).  
-5. Practica en la [Unidad 31 del curso A1](/curso-a1/unit-31).
+5. Practica en el [cuaderno de ejercicios de la Unidad 31](/blog/curso-a1/unidad-31-can-habilidad-ejercicios-soluciones) y en la [Unidad 31 del curso A1](/curso-a1/unit-31).
 
 ---
 
@@ -593,6 +595,10 @@ Escribe 8–10 frases. Incluye:
 ## Siguiente paso en el curso A1
 
 Continúa con la [**Unidad 32 — Deportes y hobbies: play, go, do**](/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do): *play football*, *go swimming*, *do yoga*.
+
+Practica ahora:
+
+- [Ejercicios Unidad 31 A1 (con soluciones)](/blog/curso-a1/unidad-31-can-habilidad-ejercicios-soluciones)
 
 Guías relacionadas:
 
