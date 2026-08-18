@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-11-lugares-ciudad'
 image: /blog/curso-a1/unit-11/a1-unit11-places.png
 alt: Tabla de lugares en la ciudad en inglés nivel A1
 related_routes:
+  - unidad-11-lugares-ciudad-ejercicios-soluciones
   - preposiciones-movimiento-ingles
   - ingles-para-viajar
   - ingles-a1
@@ -56,6 +57,7 @@ Ya sabes describir tu rutina y decir la hora. En la **Unidad 11 del curso A1** (
 Esta guía cubre el **vocabulario de lugares**, ***There is / There are***, ***Where is…?***, ***Is there a…?*** y las preposiciones ***next to, opposite, between, near***. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 11 — Lugares en la ciudad](/curso-a1/unit-11)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 11 A1](/blog/curso-a1/unidad-11-lugares-ciudad-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 10 — Rutinas diarias y la hora](/blog/curso-a1/unidad-10-rutinas-diarias-hora)
 
 ---
@@ -557,6 +559,10 @@ Describe tu barrio en voz alta (6–8 frases). Debe incluir:
 ## Siguiente paso en el curso A1
 
 En la **Unidad 12** aprendes los **días de la semana** (*Days of the Week*) y a hablar de hábitos con *on Monday*, *on Tuesday*…
+
+Practica ahora:
+
+- [Ejercicios Unidad 11 A1 (con soluciones)](/blog/curso-a1/unidad-11-lugares-ciudad-ejercicios-soluciones)
 
 → [Unidad 12 — Días de la semana](/blog/curso-a1/unidad-12-dias-semana)
 

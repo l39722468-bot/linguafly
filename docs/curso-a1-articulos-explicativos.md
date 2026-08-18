@@ -50,7 +50,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 11 | Places in Town | *There is/are*, *Where is…?* | ✅ | [Lugares en la ciudad A1](/blog/curso-a1/unidad-11-lugares-ciudad) |
+| 11 | Places in Town | *There is/are*, *Where is…?* | ✅ | [Lugares en la ciudad A1](/blog/curso-a1/unidad-11-lugares-ciudad) · [Ejercicios + soluciones](/blog/curso-a1/unidad-11-lugares-ciudad-ejercicios-soluciones) |
 | 12 | Days of the Week | *on* + días, hábitos | ✅ | [Días de la semana A1](/blog/curso-a1/unidad-12-dias-semana) |
 | 13 | Daily Routine | Secuenciadores + Present Simple | ✅ | [Rutina diaria A1](/blog/curso-a1/unidad-13-rutina-diaria) |
 | 14 | Present Simple: I, You, We, They | *don't*, *Do you…?* | ✅ | [Present Simple: don't y Do you A1](/blog/curso-a1/unidad-14-present-simple-dont-do-you) |
