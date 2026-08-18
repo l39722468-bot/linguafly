@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-22-muebles-posesivos-
 image: /blog/curso-a1/unit-22/a1-unit22-furniture.png
 alt: Vocabulario de muebles en inglés nivel A1
 related_routes:
+  - unidad-22-muebles-posesivos-mine-yours-ejercicios-soluciones
   - gramatica-inglesa-guia
   - ingles-a1
 faqs:
@@ -41,8 +42,9 @@ faqs:
       sofa. No digas *This is my* solo ni *This is mine sofa*.
   - question: ¿Dónde practico la Unidad 22 del curso A1?
     answer: >-
-      En la Unidad 22 del curso A1 de Linguafly practicarás muebles y mine/yours
-      con ejercicios de gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 22 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      writing.
 excerpt: >-
   Guía de la Unidad 22 del curso A1: furniture (bed, sofa, fridge…) y pronombres
   posesivos mine, yours, his, hers, con Whose is this?. Audios, esquemas y
@@ -508,7 +510,7 @@ También puedes grabarte haciendo el tour de muebles y escucharlo al día siguie
 2. **Haz fotos** de habitaciones y descríbelas en inglés.  
 3. **Combina** con U21: habitación + mueble + adjetivo (*The bedroom is cozy. The bed is mine.*).  
 4. Prepárate para la [Unidad 23](/curso-a1/unit-23): más *There is / There are*.  
-5. Practica en la [Unidad 22 del curso A1](/curso-a1/unit-22).
+5. Practica en la [Unidad 22 del curso A1](/curso-a1/unit-22) o el [cuaderno con soluciones](/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours-ejercicios-soluciones).
 
 ---
 
@@ -527,6 +529,10 @@ También puedes grabarte haciendo el tour de muebles y escucharlo al día siguie
 ## Siguiente paso en el curso A1
 
 En la **Unidad 23** profundizarás en ***There is / There are*** para describir espacios con más precisión.
+
+Practica ahora:
+
+- [Ejercicios Unidad 22 A1 (con soluciones)](/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours-ejercicios-soluciones)
 
 Guía dedicada:
 
