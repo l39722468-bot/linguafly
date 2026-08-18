@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-21-habitaciones-casa'
 image: /blog/curso-a1/unit-21/a1-unit21-rooms.png
 alt: Vocabulario de habitaciones de la casa en inglés A1
 related_routes:
+  - unidad-21-habitaciones-casa-ejercicios-soluciones
   - ingles-a1
   - gramatica-inglesa-guia
 faqs:
@@ -44,9 +45,9 @@ faqs:
       En A1 ambas sirven: My flat has three rooms. / My house has a garden.
   - question: ¿Dónde practico la Unidad 21 del curso A1?
     answer: >-
-      En la Unidad 21 del curso A1 de Linguafly practicarás habitaciones,
-      plurales y adjetivos con ejercicios de gramática, vocabulario, reading,
-      listening y speaking.
+      En la Unidad 21 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      writing.
 excerpt: >-
   Guía de la Unidad 21 del curso A1: rooms in a house, plurales (rooms,
   bedrooms), adjetivos (bright, cozy, small) y have/has para describir tu casa.
@@ -513,7 +514,7 @@ Escribe 6–8 frases: cuántas habitaciones, cuáles son, y 3 adjetivos.
 2. **Describe** una foto de un piso online en 5 frases.  
 3. **Combina** con U11: *There is a kitchen. There are two bedrooms.*  
 4. Prepárate para la [Unidad 22](/curso-a1/unit-22): muebles (*sofa, table, bed…*).  
-5. Practica en la [Unidad 21 del curso A1](/curso-a1/unit-21).
+5. Practica en la [Unidad 21 del curso A1](/curso-a1/unit-21) o el [cuaderno con soluciones](/blog/curso-a1/unidad-21-habitaciones-casa-ejercicios-soluciones).
 
 ---
 
@@ -533,6 +534,10 @@ Escribe 6–8 frases: cuántas habitaciones, cuáles son, y 3 adjetivos.
 ## Siguiente paso en el curso A1
 
 En la **Unidad 22** llenarás estas habitaciones de **muebles** (*Furniture & Household Items*) y practicarás *mine / yours*.
+
+Practica ahora:
+
+- [Ejercicios Unidad 21 A1 (con soluciones)](/blog/curso-a1/unidad-21-habitaciones-casa-ejercicios-soluciones)
 
 Guía dedicada:
 
