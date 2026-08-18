@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-16-cafeteria-can-i-ha
 image: /blog/curso-a1/unit-16/a1-unit16-can-i-have.png
 alt: Esquema de Can I have en inglés nivel A1 cafetería
 related_routes:
+  - unidad-16-cafeteria-can-i-have-id-like-ejercicios-soluciones
   - can-could-ingles
   - ingles-restaurantes-bares-viaje
   - ingles-para-camareros-y-hosteleria
@@ -57,6 +58,7 @@ Tras dominar *doesn't* y *Does he/she…?* en la [Unidad 15](/blog/curso-a1/unid
 Esta guía cubre las **fórmulas de pedido**, el **vocabulario de bebidas y snacks**, **precios**, **la cuenta** y diálogos típicos. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 16 — At the Cafe](/curso-a1/unit-16)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 16 A1](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like-ejercicios-soluciones)  
 > **Repaso útil:** [Unidad 8 — Números, edad y precios](/blog/curso-a1/unidad-8-numeros-edad-precios) · [Unidad 15 — doesn't](/blog/curso-a1/unidad-15-present-simple-doesnt-does)
 
 ---
@@ -504,7 +506,7 @@ Escribe un mini-diálogo (6–8 líneas) en una cafetería: saludo, pedido con *
 2. **Representa** el diálogo delante del espejo o con un amigo.  
 3. **Combina** con números de la Unidad 8: precios reales (*three euros forty*).  
 4. Prepárate para la [Unidad 17](/curso-a1/unit-17): desayuno, comida y cena.  
-5. Practica en la [Unidad 16 del curso A1](/curso-a1/unit-16).
+5. Practica en la [Unidad 16 del curso A1](/curso-a1/unit-16) o el [cuaderno con soluciones](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like-ejercicios-soluciones).
 
 ---
 
@@ -524,6 +526,10 @@ Escribe un mini-diálogo (6–8 líneas) en una cafetería: saludo, pedido con *
 ## Siguiente paso en el curso A1
 
 En la **Unidad 17** hablarás de **Breakfast, Lunch & Dinner** e introducirás ideas de contables/incontables.
+
+Practica ahora:
+
+- [Ejercicios Unidad 16 A1 (con soluciones)](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like-ejercicios-soluciones)
 
 Guía dedicada:
 
