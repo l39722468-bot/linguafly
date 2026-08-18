@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-18-gustos-like-ing-be
 image: /blog/curso-a1/unit-18/a1-unit18-like-ing.png
 alt: Esquema like + -ing en inglés nivel A1
 related_routes:
+  - unidad-18-gustos-like-ing-because-ejercicios-soluciones
   - ingles-para-deportes
   - ingles-playas-deportes-acuaticos
   - ingles-a1
@@ -43,9 +44,9 @@ faqs:
       action, romance, horror).
   - question: ¿Dónde practico la Unidad 18 del curso A1?
     answer: >-
-      En la Unidad 18 del curso A1 de Linguafly practicarás like + -ing y Why?
-      Because… con ejercicios de gramática, vocabulario, reading, listening y
-      speaking.
+      En la Unidad 18 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      writing.
 excerpt: >-
   Guía de la Unidad 18 del curso A1: likes and dislikes con like + -ing, Why?
   Because…, hobbies, géneros musicales y tipos de películas. Con audios,
@@ -513,7 +514,7 @@ Escribe 6–8 frases: 3 hobbies que te gustan (con *because*), 2 que no, y 1 pre
 2. **Entrevista** a alguien: *Do you like…? Why?*  
 3. **Combina** con U17: comida (*I like cheese*) + hobby (*I like cooking*).  
 4. Prepárate para la [Unidad 19](/curso-a1/unit-19): meses y fechas.  
-5. Practica en la [Unidad 18 del curso A1](/curso-a1/unit-18).
+5. Practica en la [Unidad 18 del curso A1](/curso-a1/unit-18) o el [cuaderno con soluciones](/blog/curso-a1/unidad-18-gustos-like-ing-because-ejercicios-soluciones).
 
 ---
 
@@ -533,6 +534,10 @@ Escribe 6–8 frases: 3 hobbies que te gustan (con *because*), 2 que no, y 1 pre
 ## Siguiente paso en el curso A1
 
 En la **Unidad 19** trabajarás **Months & Dates**: meses, ordinales y cumpleaños.
+
+Practica ahora:
+
+- [Ejercicios Unidad 18 A1 (con soluciones)](/blog/curso-a1/unidad-18-gustos-like-ing-because-ejercicios-soluciones)
 
 Guía dedicada:
 
