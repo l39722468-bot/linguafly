@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-23-there-is-there-are
 image: /blog/curso-a1/unit-23/a1-unit23-there-is-are.png
 alt: Esquema There is There are en inglés nivel A1
 related_routes:
+  - unidad-23-there-is-there-are-ejercicios-soluciones
   - gramatica-inglesa-guia
   - preposiciones-movimiento-ingles
   - ingles-a1
@@ -44,8 +45,9 @@ faqs:
       describe o identifica (It is big. It is my lamp.).
   - question: ¿Dónde practico la Unidad 23 del curso A1?
     answer: >-
-      En la Unidad 23 del curso A1 de Linguafly practicarás There is/are con
-      ejercicios de gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 23 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      writing.
 excerpt: >-
   Guía de la Unidad 23 del curso A1: There is/There are en afirmativa, negativa
   y preguntas, más preposiciones in, on, under, behind. Con audios, esquemas y
@@ -501,7 +503,7 @@ Escribe 7–9 frases: qué hay, qué no hay, y 3 ubicaciones con preposiciones d
 2. **Esconde** un objeto y di dónde está (*under/behind…*).  
 3. **Combina** con U22: *There is a sofa in the living room. The sofa is mine.*  
 4. Prepárate para la [Unidad 24](/curso-a1/unit-24): más preposiciones de lugar.  
-5. Practica en la [Unidad 23 del curso A1](/curso-a1/unit-23).
+5. Practica en la [Unidad 23 del curso A1](/curso-a1/unit-23) o el [cuaderno con soluciones](/blog/curso-a1/unidad-23-there-is-there-are-ejercicios-soluciones).
 
 ---
 
@@ -520,6 +522,10 @@ Escribe 7–9 frases: qué hay, qué no hay, y 3 ubicaciones con preposiciones d
 ## Siguiente paso en el curso A1
 
 En la **Unidad 24** ampliarás las **preposiciones de lugar** para describir posiciones con más detalle.
+
+Practica ahora:
+
+- [Ejercicios Unidad 23 A1 (con soluciones)](/blog/curso-a1/unidad-23-there-is-there-are-ejercicios-soluciones)
 
 Guía dedicada:
 
