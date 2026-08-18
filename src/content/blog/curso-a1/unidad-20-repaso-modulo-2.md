@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-20-repaso-modulo-2'
 image: /blog/curso-a1/unit-20/a1-unit20-module-map.png
 alt: Mapa de repaso del Módulo 2 del curso A1
 related_routes:
+  - unidad-20-repaso-modulo-2-ejercicios-soluciones
   - ingles-restaurantes-bares-viaje
   - can-could-ingles
   - ingles-en-la-cocina
@@ -45,8 +46,9 @@ faqs:
       cafetería, comidas, like + -ing y meses/fechas.
   - question: ¿Dónde practico la Unidad 20 del curso A1?
     answer: >-
-      En la Unidad 20 del curso A1 de Linguafly harás el repaso del Módulo 2 con
-      ejercicios de gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 20 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      writing.
 excerpt: >-
   Guía de la Unidad 20 del curso A1: repaso del Módulo 2 (rutinas, Present
   Simple, cafetería, comidas, gustos y fechas) con checklist, audios, esquemas
@@ -470,7 +472,7 @@ Si marcas ❌ en alguno, vuelve a la guía de esa unidad (tabla del mapa) 10 min
 2. **Habla**: 2 minutos al día describiendo tu día en inglés.  
 3. **Grábate** el diálogo de cafetería + tu cumpleaños.  
 4. Si un error se repite, vuelve a la unidad madre (no solo a este repaso).  
-5. Cuando estés listo, sigue a la [Unidad 21](/curso-a1/unit-21): *Rooms in a House* (Módulo 3).
+5. Cuando estés listo, sigue a la [Unidad 21](/curso-a1/unit-21): *Rooms in a House* (Módulo 3), o practica el [cuaderno con soluciones](/blog/curso-a1/unidad-20-repaso-modulo-2-ejercicios-soluciones).
 
 ---
 
@@ -490,6 +492,10 @@ Si marcas ❌ en alguno, vuelve a la guía de esa unidad (tabla del mapa) 10 min
 ## Siguiente paso en el curso A1
 
 Empieza el **Módulo 3 — My World** con la **Unidad 21**: habitaciones de la casa.
+
+Practica ahora:
+
+- [Ejercicios Unidad 20 A1 (con soluciones)](/blog/curso-a1/unidad-20-repaso-modulo-2-ejercicios-soluciones)
 
 Guía dedicada:
 
