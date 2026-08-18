@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-28-partes-cuerpo-have
 image: /blog/curso-a1/unit-28/a1-unit28-body-parts.png
 alt: Esquema body parts have got this these en inglés nivel A1
 related_routes:
+  - unidad-28-partes-cuerpo-have-got-ejercicios-soluciones
   - ingles-para-salud
   - vocabulario-ingles-medico-enfermeria
   - ingles-a1
@@ -44,8 +45,9 @@ faqs:
       adjetivos como long, short, big, blue y tall.
   - question: ¿Dónde practico la Unidad 28 del curso A1?
     answer: >-
-      En la Unidad 28 del curso A1 de Linguafly practicarás have/has got y partes
-      del cuerpo con gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 28 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 28 del curso A1: partes del cuerpo con have got / has got,
   this/these y vocabulario head, arms, legs, hands, feet, face.
@@ -593,7 +595,7 @@ Escribe 8–10 frases. Usa:
 2. **Dibujo:** etiqueta un cuerpo en inglés.  
 3. **Combina** U7: *She has got long brown hair and blue eyes.*  
 4. Prepárate para la [Unidad 29](/curso-a1/unit-29): *Clothes* (Present Continuous).  
-5. Practica en la [Unidad 28 del curso A1](/curso-a1/unit-28).
+5. Practica en el [cuaderno de ejercicios de la Unidad 28](/blog/curso-a1/unidad-28-partes-cuerpo-have-got-ejercicios-soluciones) y en la [Unidad 28 del curso A1](/curso-a1/unit-28).
 
 ---
 
@@ -614,6 +616,10 @@ Escribe 8–10 frases. Usa:
 ## Siguiente paso en el curso A1
 
 En la **Unidad 29** aprenderás **ropa** y el **Present Continuous** (*I’m wearing…*).
+
+Practica ahora:
+
+- [Ejercicios Unidad 28 A1 (con soluciones)](/blog/curso-a1/unidad-28-partes-cuerpo-have-got-ejercicios-soluciones)
 
 Guía dedicada:
 
