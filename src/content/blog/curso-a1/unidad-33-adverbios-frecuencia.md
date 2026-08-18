@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-33-adverbios-frecuenc
 image: /blog/curso-a1/unit-33/a1-unit33-frequency-scale.png
 alt: Escala de adverbios de frecuencia always usually often sometimes never en inglés A1
 related_routes:
+  - unidad-33-adverbios-frecuencia-ejercicios-soluciones
   - gramatica-inglesa-guia
   - ingles-a1
 faqs:
@@ -39,8 +40,9 @@ faqs:
       running, meet friends, eat late, relax, read books, how often.
   - question: ¿Dónde practico la Unidad 33 del curso A1?
     answer: >-
-      En la Unidad 33 del curso A1 de Linguafly practicarás adverbios de
-      frecuencia en gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 33 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 33 del curso A1: always, usually, often, sometimes, never y
   su posición, con audios y ejercicios.
@@ -579,7 +581,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** 6 × *How often do you…?*  
 3. **Combina** U32: *I often play football / I usually go swimming.*  
 4. Prepárate para la [Unidad 34](/curso-a1/unit-34): *and, but, because*.  
-5. Practica en la [Unidad 33 del curso A1](/curso-a1/unit-33).
+5. Practica en el [cuaderno de ejercicios de la Unidad 33](/blog/curso-a1/unidad-33-adverbios-frecuencia-ejercicios-soluciones) y en la [Unidad 33 del curso A1](/curso-a1/unit-33).
 
 ---
 
@@ -597,6 +599,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 33 A1 (con soluciones)](/blog/curso-a1/unidad-33-adverbios-frecuencia-ejercicios-soluciones)
+- [Unidad 33 del curso A1](/curso-a1/unit-33)
 
 Continúa con la [**Unidad 34 — And, but, because**](/blog/curso-a1/unidad-34-and-but-because): suma ideas, contraste y razones.
 
