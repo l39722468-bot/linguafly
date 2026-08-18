@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-14-present-simple-don
 image: /blog/curso-a1/unit-14/a1-unit14-dont.png
 alt: Esquema de don't en Present Simple inglés nivel A1
 related_routes:
+  - unidad-14-present-simple-dont-do-you-ejercicios-soluciones
   - gramatica-inglesa-guia
   - ingles-a1
 faqs:
@@ -55,6 +56,7 @@ Ya sabes contar tu día con *First, Then, After that*. En la **Unidad 14 del cur
 Esta guía cubre la **negativa**, las **preguntas**, las **respuestas cortas** (*Yes, I do / No, I don't*) y vocabulario de **ocio y tareas domésticas**. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 14 — Present Simple: I, you, we, they](/curso-a1/unit-14)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 14 A1](/blog/curso-a1/unidad-14-present-simple-dont-do-you-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 13 — Rutina diaria](/blog/curso-a1/unidad-13-rutina-diaria) · [Unidad 5 — Present Simple](/blog/curso-a1/unidad-5-present-simple-rutinas)
 
 ---
@@ -519,7 +521,7 @@ Escribe sobre tus hábitos: qué te gusta, qué no haces, y 2 preguntas que har�
 2. **Entrevista** a alguien: *Do you like…? Do you cook…?*  
 3. **Contrasta** afirmativa vs negativa: *I like tea. I don't like coffee.*  
 4. Prepárate para la [Unidad 15](/curso-a1/unit-15): *doesn't / Does he…?*  
-5. Practica en la [Unidad 14 del curso A1](/curso-a1/unit-14).
+5. Practica en la [Unidad 14 del curso A1](/curso-a1/unit-14) o el [cuaderno con soluciones](/blog/curso-a1/unidad-14-present-simple-dont-do-you-ejercicios-soluciones).
 
 ---
 
@@ -538,6 +540,10 @@ Escribe sobre tus hábitos: qué te gusta, qué no haces, y 2 preguntas que har�
 ## Siguiente paso en el curso A1
 
 En la **Unidad 15** aprenderás la 3.ª persona: ***doesn't*** y ***Does he/she…?***.
+
+Practica ahora:
+
+- [Ejercicios Unidad 14 A1 (con soluciones)](/blog/curso-a1/unidad-14-present-simple-dont-do-you-ejercicios-soluciones)
 
 Guía dedicada:
 
