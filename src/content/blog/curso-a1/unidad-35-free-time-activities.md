@@ -572,7 +572,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** entrevista *What do you do…?* + *How often…?*  
 3. **Combina** U32: *I go swimming and I go for a walk.*  
 4. Prepárate para la [Unidad 36](/curso-a1/unit-36): *Musical Instruments* (*play the piano…*).  
-5. Practica en la [Unidad 35 del curso A1](/curso-a1/unit-35).
+5. Practica en el [cuaderno de ejercicios de la Unidad 35](/blog/curso-a1/unidad-35-free-time-activities-ejercicios-soluciones) y en la [Unidad 35 del curso A1](/curso-a1/unit-35).
 
 ---
 
@@ -590,6 +590,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 35 A1 (con soluciones)](/blog/curso-a1/unidad-35-free-time-activities-ejercicios-soluciones)
+- [Unidad 35 del curso A1](/curso-a1/unit-35)
 
 Continúa con la [**Unidad 36 — Instrumentos musicales**](/blog/curso-a1/unidad-36-instrumentos-musicales): *play the piano*, *play the guitar*, *play the drums*.
 
