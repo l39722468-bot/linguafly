@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-39-outdoor-activities
 image: /blog/curso-a1/unit-39/a1-unit39-present-continuous-plans.png
 alt: Esquema Present Continuous para planes outdoor en inglés A1
 related_routes:
+  - unidad-39-outdoor-activities-ejercicios-soluciones
   - mochileros-ingles-naturaleza-senderismo-seguridad
   - ingles-playas-deportes-acuaticos
   - ingles-para-deportes
@@ -43,8 +44,9 @@ faqs:
       every summer; en esta unidad priorizamos going + activity para planes.
   - question: ¿Dónde practico la Unidad 39 del curso A1?
     answer: >-
-      En la Unidad 39 del curso A1 de Linguafly practicarás outdoor activities y
-      planes en gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 39 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 39 del curso A1: actividades al aire libre y Present
   Continuous para planes, con audios y ejercicios.
@@ -536,7 +538,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** planes del finde + preguntas sí/no.  
 3. **Combina** U32: *I go cycling every Sunday* vs *I'm going cycling tomorrow*.  
 4. Prepárate para la [Unidad 40](/curso-a1/unit-40): *Module 4 Review*.  
-5. Practica en la [Unidad 39 del curso A1](/curso-a1/unit-39).
+5. Practica en el [cuaderno de ejercicios de la Unidad 39](/blog/curso-a1/unidad-39-outdoor-activities-ejercicios-soluciones) y en la [Unidad 39 del curso A1](/curso-a1/unit-39).
 
 ---
 
@@ -554,6 +556,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 39 A1 (con soluciones)](/blog/curso-a1/unidad-39-outdoor-activities-ejercicios-soluciones)
+- [Unidad 39 del curso A1](/curso-a1/unit-39)
 
 En la **Unidad 40** harás el **repaso del Módulo 4** (*Abilities & Interests*): *can*, *play/go/do*, frecuencia, conectores, free time, instrumentos, skills y permiso.
 
