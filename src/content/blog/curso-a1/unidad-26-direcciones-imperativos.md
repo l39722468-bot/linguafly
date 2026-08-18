@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-26-direcciones-impera
 image: /blog/curso-a1/unit-26/a1-unit26-imperatives.png
 alt: Esquema imperativos Turn left Go straight para direcciones en inglés A1
 related_routes:
+  - unidad-26-direcciones-imperativos-ejercicios-soluciones
   - preposiciones-movimiento-ingles
   - ingles-para-viajar
   - ingles-trenes-metro-transporte
@@ -42,8 +43,9 @@ faqs:
       final de unas indicaciones claras.
   - question: ¿Dónde practico la Unidad 26 del curso A1?
     answer: >-
-      En la Unidad 26 del curso A1 de Linguafly practicarás imperativos de
-      direcciones con gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 26 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 26 del curso A1: dar direcciones con imperativos Turn left,
   Turn right, Go straight y Past the…, más on the left/right y diálogos.
@@ -564,7 +566,7 @@ Escribe 5–7 frases para ir de un punto A a un punto B (reales o inventados). U
 2. **Pareja:** uno pregunta, el otro da 4 pasos.  
 3. **Combina** U25: *There is a cinema on the right. Go straight past the supermarket.*  
 4. Prepárate para la [Unidad 27](/curso-a1/unit-27): *Pets & Animals*.  
-5. Practica en la [Unidad 26 del curso A1](/curso-a1/unit-26).
+5. Practica en el [cuaderno de ejercicios de la Unidad 26](/blog/curso-a1/unidad-26-direcciones-imperativos-ejercicios-soluciones) y en la [Unidad 26 del curso A1](/curso-a1/unit-26).
 
 ---
 
@@ -585,6 +587,10 @@ Escribe 5–7 frases para ir de un punto A a un punto B (reales o inventados). U
 ## Siguiente paso en el curso A1
 
 En la **Unidad 27** aprenderás vocabulario de **mascotas y animales**.
+
+Practica ahora:
+
+- [Ejercicios Unidad 26 A1 (con soluciones)](/blog/curso-a1/unidad-26-direcciones-imperativos-ejercicios-soluciones)
 
 Guía dedicada:
 
