@@ -43,9 +43,9 @@ faqs:
       Christmas, Valentine's Day, Halloween, New Year.
   - question: ¿Dónde practico la Unidad 19 del curso A1?
     answer: >-
-      En la Unidad 19 del curso A1 de Linguafly practicarás meses, fechas y
-      cumpleaños con ejercicios de gramática, vocabulario, reading, listening y
-      speaking.
+      En la Unidad 19 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      writing.
 excerpt: >-
   Guía de la Unidad 19 del curso A1: meses del año, ordinales, in + mes, on +
   fecha, When is your birthday? y I was born…. Con audios, esquemas y
@@ -526,7 +526,7 @@ Escribe 6–8 frases: tu cumpleaños (mes y fecha), cuándo naciste, y el cumple
 2. **Pregunta** a amigos: *When is your birthday?* y anota respuestas.  
 3. **Combina** con U12: *On Saturday the 5th of April…*  
 4. Prepárate para la [Unidad 20](/curso-a1/unit-20): repaso del Módulo 2.  
-5. Practica en la [Unidad 19 del curso A1](/curso-a1/unit-19).
+5. Practica en la [Unidad 19 del curso A1](/curso-a1/unit-19) o el [cuaderno con soluciones](/blog/curso-a1/unidad-19-meses-fechas-cumpleanos-ejercicios-soluciones).
 
 ---
 
@@ -546,6 +546,10 @@ Escribe 6–8 frases: tu cumpleaños (mes y fecha), cuándo naciste, y el cumple
 ## Siguiente paso en el curso A1
 
 En la **Unidad 20** harás el **Module 2 Review**: repaso de rutinas, Present Simple, cafetería, comidas, gustos y fechas.
+
+Practica ahora:
+
+- [Ejercicios Unidad 19 A1 (con soluciones)](/blog/curso-a1/unidad-19-meses-fechas-cumpleanos-ejercicios-soluciones)
 
 Guía dedicada:
 
