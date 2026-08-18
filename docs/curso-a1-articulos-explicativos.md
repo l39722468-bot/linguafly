@@ -73,7 +73,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 24 | Prepositions of Place | Preposiciones de lugar | ✅ | [Preposiciones de lugar A1](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between) · [Ejercicios + soluciones](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between-ejercicios-soluciones) |
 | 25 | My Neighborhood | *the* vs *a/an*, *some/any* | ✅ | [My Neighborhood A1](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any) · [Ejercicios + soluciones](/blog/curso-a1/unidad-25-barrio-the-a-an-some-any-ejercicios-soluciones) |
 | 26 | Giving Directions | Imperativos | ✅ | [Giving Directions A1](/blog/curso-a1/unidad-26-direcciones-imperativos) · [Ejercicios + soluciones](/blog/curso-a1/unidad-26-direcciones-imperativos-ejercicios-soluciones) |
-| 27 | Pets & Animals | Vocabulario animales | ✅ | [Pets & Animals A1](/blog/curso-a1/unidad-27-mascotas-animales) |
+| 27 | Pets & Animals | Vocabulario animales | ✅ | [Pets & Animals A1](/blog/curso-a1/unidad-27-mascotas-animales) · [Ejercicios + soluciones](/blog/curso-a1/unidad-27-mascotas-animales-ejercicios-soluciones) |
 | 28 | Body Parts | *have/has got* | ✅ | [Body Parts A1](/blog/curso-a1/unidad-28-partes-cuerpo-have-got) |
 | 29 | Clothes | Present Continuous (ropa) | ✅ | [Clothes A1](/blog/curso-a1/unidad-29-ropa-present-continuous) |
 | 30 | Module 3 Review | Repaso módulo 3 | ✅ | [Repaso Módulo 3 A1](/blog/curso-a1/unidad-30-repaso-modulo-3) |
