@@ -27,6 +27,7 @@ export const PODCAST_EPISODES_WITH_AUDIO = new Set([
   'a1-gen-20m-002',
   'a1-gen-20m-003',
   'a1-gen-30m-001',
+  'a1-gen-30m-002',
   'a1-gen-30m-003',
   'a1-pro-02m-001',
   'a1-pro-02m-002',
