@@ -110,7 +110,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 47 | Holidays & Vacation | *was/were*, pasado | ✅ | [Holidays A1](/blog/curso-a1/unidad-47-vacaciones-was-were) · [Ejercicios + soluciones](/blog/curso-a1/unidad-47-vacaciones-was-were-ejercicios-soluciones) |
 | 48 | Sightseeing | Superlativos | ✅ | [Sightseeing A1](/blog/curso-a1/unidad-48-sightseeing-superlativos) · [Ejercicios + soluciones](/blog/curso-a1/unidad-48-sightseeing-superlativos-ejercicios-soluciones) |
 | 49 | Packing a Suitcase | *need to* | ✅ | [Packing A1](/blog/curso-a1/unidad-49-maleta-need-to) · [Ejercicios + soluciones](/blog/curso-a1/unidad-49-maleta-need-to-ejercicios-soluciones) |
-| 50 | Module 5 Review | Repaso módulo 5 | ✅ | [Repaso Módulo 5 A1](/blog/curso-a1/unidad-50-repaso-modulo-5) |
+| 50 | Module 5 Review | Repaso módulo 5 | ✅ | [Repaso Módulo 5 A1](/blog/curso-a1/unidad-50-repaso-modulo-5) · [Ejercicios + soluciones](/blog/curso-a1/unidad-50-repaso-modulo-5-ejercicios-soluciones) |
 
 ---
 

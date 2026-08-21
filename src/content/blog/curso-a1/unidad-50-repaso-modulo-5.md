@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-50-repaso-modulo-5'
 image: /blog/curso-a1/unit-50/a1-unit50-module-map.png
 alt: Mapa de repaso del Módulo 5 del curso A1 Places and Travel
 related_routes:
+  - unidad-50-repaso-modulo-5-ejercicios-soluciones
   - ingles-para-viajar
   - vocabulario-hotel-ingles
   - ingles-trenes-metro-transporte
@@ -48,8 +49,9 @@ faqs:
       Supermarket (U51).
   - question: ¿Dónde practico la Unidad 50 del curso A1?
     answer: >-
-      En la Unidad 50 del curso A1 de Linguafly harás el repaso del Módulo 5 con
-      ejercicios de gramática, vocabulario, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 50 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 50 del curso A1: repaso del Módulo 5 (Places & Travel) con
   checklist, audios, esquemas y ejercicios.
@@ -609,7 +611,7 @@ Escribe 10–12 frases que incluyan:
 3. Si fallas en *was/were*, vuelve a [U47](/blog/curso-a1/unidad-47-vacaciones-was-were).  
 4. Si fallas en superlativos, vuelve a [U48](/blog/curso-a1/unidad-48-sightseeing-superlativos).  
 5. Si fallas en *need to*, vuelve a [U49](/blog/curso-a1/unidad-49-maleta-need-to).  
-6. Practica en la [Unidad 50 del curso A1](/curso-a1/unit-50).
+6. Practica en el [cuaderno de ejercicios de la Unidad 50](/blog/curso-a1/unidad-50-repaso-modulo-5-ejercicios-soluciones) y en la [Unidad 50 del curso A1](/curso-a1/unit-50).
 
 El Módulo 6 empieza en el supermercado (*At the Supermarket*): plurales, frutas, verduras y pasillos. Llevarás contigo el vocabulario de viaje y la capacidad de narrar experiencias en pasado.
 
@@ -632,6 +634,11 @@ El Módulo 6 empieza en el supermercado (*At the Supermarket*): plurales, frutas
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 50 A1 (con soluciones)](/blog/curso-a1/unidad-50-repaso-modulo-5-ejercicios-soluciones)
+- [Unidad 50 del curso A1](/curso-a1/unit-50)
 
 Tras el Módulo 5, el curso continúa con el **Módulo 6** (*Shopping & Food*). La siguiente unidad es **At the Supermarket** (plurales, frutas, verduras, carne, pescado).
 
