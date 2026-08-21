@@ -102,7 +102,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
 | 41 | At the Airport | *must/should* | ✅ | [At the Airport A1](/blog/curso-a1/unidad-41-aeropuerto-must-should) · [Ejercicios + soluciones](/blog/curso-a1/unidad-41-aeropuerto-must-should-ejercicios-soluciones) |
-| 42 | Transport | *by* + transporte | ✅ | [Transport A1](/blog/curso-a1/unidad-42-transporte-by-take-the) |
+| 42 | Transport | *by* + transporte | ✅ | [Transport A1](/blog/curso-a1/unidad-42-transporte-by-take-the) · [Ejercicios + soluciones](/blog/curso-a1/unidad-42-transporte-by-take-the-ejercicios-soluciones) |
 | 43 | Travel Verbs | Horarios, Present Simple | ✅ | [Travel Verbs A1](/blog/curso-a1/unidad-43-verbos-viaje-horarios) |
 | 44 | The Weather | *It is…* + clima | ✅ | [The Weather A1](/blog/curso-a1/unidad-44-tiempo-atmosferico) |
 | 45 | Seasons | *in* + estación | ✅ | [Seasons A1](/blog/curso-a1/unidad-45-estaciones-in-spring) |

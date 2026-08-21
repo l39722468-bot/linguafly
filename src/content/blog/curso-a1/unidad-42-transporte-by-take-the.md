@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-42-transporte-by-take
 image: /blog/curso-a1/unit-42/a1-unit42-by-transport.png
 alt: Esquema by + transporte y take the + transporte en inglés A1
 related_routes:
+  - unidad-42-transporte-by-take-the-ejercicios-soluciones
   - ingles-trenes-metro-transporte
   - mochileros-ingles-hostels-transporte-publico
   - ingles-alquiler-coche
@@ -44,8 +45,9 @@ faqs:
       by plane, by taxi, by bicycle, by car; take the bus, take the train.
   - question: ¿Dónde practico la Unidad 42 del curso A1?
     answer: >-
-      En la Unidad 42 del curso A1 de Linguafly practicarás transporte con by /
-      take the en gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 42 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 42 del curso A1: transporte con by bus/train y take the
   bus/train, con audios y ejercicios.
@@ -557,7 +559,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** pregunta *How do you go to work/school?* y responde con las dos estructuras.  
 3. **Combina** U41: *I went to the airport by taxi. I must show my passport.*  
 4. Prepárate para la [Unidad 43](/curso-a1/unit-43): *Travel Verbs* (*arrive, depart, visit, stay*).  
-5. Practica en la [Unidad 42 del curso A1](/curso-a1/unit-42).
+5. Practica en el [cuaderno de ejercicios de la Unidad 42](/blog/curso-a1/unidad-42-transporte-by-take-the-ejercicios-soluciones) y en la [Unidad 42 del curso A1](/curso-a1/unit-42).
 
 ---
 
@@ -575,6 +577,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 42 A1 (con soluciones)](/blog/curso-a1/unidad-42-transporte-by-take-the-ejercicios-soluciones)
+- [Unidad 42 del curso A1](/curso-a1/unit-42)
 
 En la **Unidad 43** practicas **verbos de viaje**: *arrive, depart, visit, stay, explore* con Present Simple de horarios.
 
