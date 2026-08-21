@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-46-hotel-can-i-have'
 image: /blog/curso-a1/unit-46/a1-unit46-hotel-requests.png
 alt: Esquema Can I have e Is there en el hotel para inglés A1
 related_routes:
+  - unidad-46-hotel-can-i-have-ejercicios-soluciones
   - vocabulario-hotel-ingles
   - ingles-airbnb-alojamiento-alternativo
   - ingles-para-recepcionistas-guia
@@ -43,8 +44,8 @@ faqs:
       Wi-Fi, available, booking.
   - question: ¿Dónde practico la Unidad 46 del curso A1?
     answer: >-
-      En la Unidad 46 del curso A1 de Linguafly practicarás peticiones y
-      vocabulario de hotel en gramática, vocabulario, reading, listening y
+      En la Unidad 46 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
       speaking.
 excerpt: >-
   Guía de la Unidad 46 del curso A1: en el hotel con Can I have…? e Is there…?,
@@ -543,7 +544,7 @@ Escribe 8–10 frases. Incluye:
 2. **Lista de necesidades:** Wi-Fi, room service, restaurant, double room → convierte cada una en *Is there…?* o *Can I have…?*.  
 3. **Combina** U16: misma forma *Can I have…* en café y hotel.  
 4. Prepárate para la [Unidad 47](/curso-a1/unit-47): *Holidays & Vacation* (*was/were*, pasado regular).  
-5. Practica en la [Unidad 46 del curso A1](/curso-a1/unit-46).
+5. Practica en el [cuaderno de ejercicios de la Unidad 46](/blog/curso-a1/unidad-46-hotel-can-i-have-ejercicios-soluciones) y en la [Unidad 46 del curso A1](/curso-a1/unit-46).
 
 ---
 
@@ -561,6 +562,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 46 A1 (con soluciones)](/blog/curso-a1/unidad-46-hotel-can-i-have-ejercicios-soluciones)
+- [Unidad 46 del curso A1](/curso-a1/unit-46)
 
 En la **Unidad 47** hablas de **vacaciones en pasado**: *was/were* y verbos regulares (*visited, stayed*).
 
