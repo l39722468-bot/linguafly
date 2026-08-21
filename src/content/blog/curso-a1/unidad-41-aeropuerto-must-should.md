@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-41-aeropuerto-must-sh
 image: /blog/curso-a1/unit-41/a1-unit41-must-should.png
 alt: Esquema must vs should en el aeropuerto para inglés A1
 related_routes:
+  - unidad-41-aeropuerto-must-should-ejercicios-soluciones
   - mochileros-ingles-fronteras-aeropuertos-aduanas
   - ingles-vuelos-retrasos-conexiones
   - must-have-to-diferencia
@@ -44,8 +45,8 @@ faqs:
       gate embarcas (boarding) al avión.
   - question: ¿Dónde practico la Unidad 41 del curso A1?
     answer: >-
-      En la Unidad 41 del curso A1 de Linguafly practicarás must/should y
-      vocabulario de aeropuerto en gramática, vocabulario, reading, listening y
+      En la Unidad 41 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
       speaking.
 excerpt: >-
   Guía de la Unidad 41 del curso A1: en el aeropuerto con must/should,
@@ -546,7 +547,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** uno pregunta *Where is check-in?* / *What gate?*; el otro responde con *must/should*.  
 3. **Combina** U38: *Excuse me — where is the check-in?* (cortesía + aeropuerto).  
 4. Prepárate para la [Unidad 42](/curso-a1/unit-42): *Transport* (*by bus*, *take the train*).  
-5. Practica en la [Unidad 41 del curso A1](/curso-a1/unit-41).
+5. Practica en el [cuaderno de ejercicios de la Unidad 41](/blog/curso-a1/unidad-41-aeropuerto-must-should-ejercicios-soluciones) y en la [Unidad 41 del curso A1](/curso-a1/unit-41).
 
 ---
 
@@ -564,6 +565,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 41 A1 (con soluciones)](/blog/curso-a1/unidad-41-aeropuerto-must-should-ejercicios-soluciones)
+- [Unidad 41 del curso A1](/curso-a1/unit-41)
 
 En la **Unidad 42** hablas de **transporte**: *by bus / by train / by plane* y *take the bus / take the train*.
 
