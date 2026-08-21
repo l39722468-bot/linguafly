@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-47-vacaciones-was-wer
 image: /blog/curso-a1/unit-47/a1-unit47-was-were.png
 alt: Esquema was/were y pasado regular para vacaciones en inglés A1
 related_routes:
+  - unidad-47-vacaciones-was-were-ejercicios-soluciones
   - past-simple-usos-reglas
   - errores-tiempos-pasado-espanoles
   - ingles-para-viajar
@@ -44,8 +45,8 @@ faqs:
       Spain.
   - question: ¿Dónde practico la Unidad 47 del curso A1?
     answer: >-
-      En la Unidad 47 del curso A1 de Linguafly practicarás was/were y pasado
-      regular de vacaciones en gramática, vocabulario, reading, listening y
+      En la Unidad 47 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
       speaking.
 excerpt: >-
   Guía de la Unidad 47 del curso A1: vacaciones en pasado con was/were y verbos
@@ -539,7 +540,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** uno pregunta *Where were you?* / *Did you visit…?*; el otro responde.  
 3. **Combina** U46: *I stayed at a hotel. The room was clean.*  
 4. Prepárate para la [Unidad 48](/curso-a1/unit-48): *Sightseeing* (superlativos: *the biggest, the most famous*).  
-5. Practica en la [Unidad 47 del curso A1](/curso-a1/unit-47).
+5. Practica en el [cuaderno de ejercicios de la Unidad 47](/blog/curso-a1/unidad-47-vacaciones-was-were-ejercicios-soluciones) y en la [Unidad 47 del curso A1](/curso-a1/unit-47).
 
 ---
 
@@ -557,6 +558,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 47 A1 (con soluciones)](/blog/curso-a1/unidad-47-vacaciones-was-were-ejercicios-soluciones)
+- [Unidad 47 del curso A1](/curso-a1/unit-47)
 
 En la **Unidad 48** practicas **sightseeing** con **superlativos**: *the biggest museum*, *the most famous square*.
 

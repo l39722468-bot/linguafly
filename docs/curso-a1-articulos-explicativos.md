@@ -107,7 +107,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 44 | The Weather | *It is…* + clima | ✅ | [The Weather A1](/blog/curso-a1/unidad-44-tiempo-atmosferico) · [Ejercicios + soluciones](/blog/curso-a1/unidad-44-tiempo-atmosferico-ejercicios-soluciones) |
 | 45 | Seasons | *in* + estación | ✅ | [Seasons A1](/blog/curso-a1/unidad-45-estaciones-in-spring) · [Ejercicios + soluciones](/blog/curso-a1/unidad-45-estaciones-in-spring-ejercicios-soluciones) |
 | 46 | At the Hotel | Peticiones en hotel | ✅ | [At the Hotel A1](/blog/curso-a1/unidad-46-hotel-can-i-have) · [Ejercicios + soluciones](/blog/curso-a1/unidad-46-hotel-can-i-have-ejercicios-soluciones) |
-| 47 | Holidays & Vacation | *was/were*, pasado | ✅ | [Holidays A1](/blog/curso-a1/unidad-47-vacaciones-was-were) |
+| 47 | Holidays & Vacation | *was/were*, pasado | ✅ | [Holidays A1](/blog/curso-a1/unidad-47-vacaciones-was-were) · [Ejercicios + soluciones](/blog/curso-a1/unidad-47-vacaciones-was-were-ejercicios-soluciones) |
 | 48 | Sightseeing | Superlativos | ✅ | [Sightseeing A1](/blog/curso-a1/unidad-48-sightseeing-superlativos) |
 | 49 | Packing a Suitcase | *need to* | ✅ | [Packing A1](/blog/curso-a1/unidad-49-maleta-need-to) |
 | 50 | Module 5 Review | Repaso módulo 5 | ✅ | [Repaso Módulo 5 A1](/blog/curso-a1/unidad-50-repaso-modulo-5) |
