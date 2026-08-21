@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-44-tiempo-atmosferico
 image: /blog/curso-a1/unit-44/a1-unit44-it-is-weather.png
 alt: Esquema It is + tiempo atmosférico en inglés A1
 related_routes:
+  - unidad-44-tiempo-atmosferico-ejercicios-soluciones
   - ingles-para-viajar
   - ingles-a1
 faqs:
@@ -41,8 +42,9 @@ faqs:
       afternoon.
   - question: ¿Dónde practico la Unidad 44 del curso A1?
     answer: >-
-      En la Unidad 44 del curso A1 de Linguafly practicarás el tiempo atmosférico
-      en gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 44 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 44 del curso A1: el tiempo atmosférico con It is sunny /
   rainy y It is raining, con audios y ejercicios.
@@ -544,7 +546,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** pregunta el tiempo de hoy y de ayer.  
 3. **Combina** U43: *I arrive in London at ten. It is cold and rainy.*  
 4. Prepárate para la [Unidad 45](/curso-a1/unit-45): *Seasons* (*in spring / summer / autumn / winter*).  
-5. Practica en la [Unidad 44 del curso A1](/curso-a1/unit-44).
+5. Practica en el [cuaderno de ejercicios de la Unidad 44](/blog/curso-a1/unidad-44-tiempo-atmosferico-ejercicios-soluciones) y en la [Unidad 44 del curso A1](/curso-a1/unit-44).
 
 ---
 
@@ -562,6 +564,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 44 A1 (con soluciones)](/blog/curso-a1/unidad-44-tiempo-atmosferico-ejercicios-soluciones)
+- [Unidad 44 del curso A1](/curso-a1/unit-44)
 
 En la **Unidad 45** hablas de las **estaciones**: *in spring, in summer, in autumn, in winter*.
 
