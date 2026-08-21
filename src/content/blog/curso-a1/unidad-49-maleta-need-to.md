@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-49-maleta-need-to'
 image: /blog/curso-a1/unit-49/a1-unit49-need-to.png
 alt: Esquema need to y don't need to para hacer la maleta en inglés A1
 related_routes:
+  - unidad-49-maleta-need-to-ejercicios-soluciones
   - semi-modales-ingles
   - ingles-para-viajar
   - ingles-vuelos-retrasos-conexiones
@@ -42,8 +43,9 @@ faqs:
       clothes.
   - question: ¿Dónde practico la Unidad 49 del curso A1?
     answer: >-
-      En la Unidad 49 del curso A1 de Linguafly practicarás need to / don't need
-      to y packing en gramática, vocabulario, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 49 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 49 del curso A1: hacer la maleta con need to / don't need
   to, con audios y ejercicios.
@@ -537,7 +539,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** uno sugiere cosas de más; el otro responde *I don't need to…*.  
 3. **Combina** U41: *I need to take my passport. At the airport I must show it.*  
 4. Prepárate para la [Unidad 50](/curso-a1/unit-50): *Module 5 Review* (Places & Travel).  
-5. Practica en la [Unidad 49 del curso A1](/curso-a1/unit-49).
+5. Practica en el [cuaderno de ejercicios de la Unidad 49](/blog/curso-a1/unidad-49-maleta-need-to-ejercicios-soluciones) y en la [Unidad 49 del curso A1](/curso-a1/unit-49).
 
 ---
 
@@ -555,6 +557,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 49 A1 (con soluciones)](/blog/curso-a1/unidad-49-maleta-need-to-ejercicios-soluciones)
+- [Unidad 49 del curso A1](/curso-a1/unit-49)
 
 En la **Unidad 50** harás el **repaso del Módulo 5** (*Places & Travel*): aeropuerto, transporte, verbos de viaje, clima, estaciones, hotel, vacaciones, sightseeing y packing.
 
