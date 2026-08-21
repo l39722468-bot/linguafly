@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-48-sightseeing-superl
 image: /blog/curso-a1/unit-48/a1-unit48-superlatives.png
 alt: Esquema de superlativos básicos para sightseeing en inglés A1
 related_routes:
+  - unidad-48-sightseeing-superlativos-ejercicios-soluciones
   - ingles-museos-turismo-cultural
   - ingles-para-viajar
   - unidad-6-superlativos-est-the-most
@@ -43,8 +44,9 @@ faqs:
       city.
   - question: ¿Dónde practico la Unidad 48 del curso A1?
     answer: >-
-      En la Unidad 48 del curso A1 de Linguafly practicarás superlativos y
-      sightseeing en gramática, vocabulario, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 48 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 48 del curso A1: sightseeing con superlativos básicos (the
   most famous, the oldest), con audios y ejercicios.
@@ -541,7 +543,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** uno pregunta *What is the most famous…?*; el otro responde.  
 3. **Combina** U47: *Last summer we visited the oldest church in town.*  
 4. Prepárate para la [Unidad 49](/curso-a1/unit-49): *Packing a Suitcase* (*need to / don't need to*).  
-5. Practica en la [Unidad 48 del curso A1](/curso-a1/unit-48).
+5. Practica en el [cuaderno de ejercicios de la Unidad 48](/blog/curso-a1/unidad-48-sightseeing-superlativos-ejercicios-soluciones) y en la [Unidad 48 del curso A1](/curso-a1/unit-48).
 
 ---
 
@@ -559,6 +561,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 48 A1 (con soluciones)](/blog/curso-a1/unidad-48-sightseeing-superlativos-ejercicios-soluciones)
+- [Unidad 48 del curso A1](/curso-a1/unit-48)
 
 En la **Unidad 49** practicas **hacer la maleta**: *need to / don't need to* + ropa y objetos de viaje.
 
