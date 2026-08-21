@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-43-verbos-viaje-horar
 image: /blog/curso-a1/unit-43/a1-unit43-schedules.png
 alt: Esquema Present Simple para horarios de viaje en inglés A1
 related_routes:
+  - unidad-43-verbos-viaje-horarios-ejercicios-soluciones
   - ingles-para-viajar
   - ingles-trenes-metro-transporte
   - curso-de-ingles-para-viajar
@@ -42,8 +43,9 @@ faqs:
       visit museums, explore the city.
   - question: ¿Dónde practico la Unidad 43 del curso A1?
     answer: >-
-      En la Unidad 43 del curso A1 de Linguafly practicarás travel verbs y
-      horarios en gramática, vocabulario, reading, listening y speaking.
+      En la Unidad 43 del curso A1 de Linguafly y en el cuaderno de ejercicios
+      con soluciones del blog: gramática, vocabulario, reading, listening y
+      speaking.
 excerpt: >-
   Guía de la Unidad 43 del curso A1: verbos de viaje y Present Simple para
   horarios, con audios y ejercicios.
@@ -550,7 +552,7 @@ Escribe 8–10 frases. Incluye:
 2. **Pareja:** uno pregunta horarios; el otro responde + *stay/visit/explore*.  
 3. **Combina** U42: *I go by train. The train leaves at eight.*  
 4. Prepárate para la [Unidad 44](/curso-a1/unit-44): *The Weather* (*It is sunny / rainy…*).  
-5. Practica en la [Unidad 43 del curso A1](/curso-a1/unit-43).
+5. Practica en el [cuaderno de ejercicios de la Unidad 43](/blog/curso-a1/unidad-43-verbos-viaje-horarios-ejercicios-soluciones) y en la [Unidad 43 del curso A1](/curso-a1/unit-43).
 
 ---
 
@@ -568,6 +570,11 @@ Escribe 8–10 frases. Incluye:
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 43 A1 (con soluciones)](/blog/curso-a1/unidad-43-verbos-viaje-horarios-ejercicios-soluciones)
+- [Unidad 43 del curso A1](/curso-a1/unit-43)
 
 En la **Unidad 44** hablas del **tiempo atmosférico**: *It is sunny / cloudy / rainy / cold / hot*.
 
