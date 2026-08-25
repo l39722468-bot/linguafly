@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-53-some-any'
 image: /blog/curso-a1/unit-53/a1-unit53-some-any.png
 alt: Esquema some y any en afirmativas negativas y preguntas A1
 related_routes:
+  - unidad-53-some-any-ejercicios-soluciones
   - ingles-para-compras
   - ingles-en-la-cocina
   - ingles-a1
@@ -42,8 +43,9 @@ faqs:
       of cola. Patrón: a + contenedor + of + producto.
   - question: ¿Dónde practico la Unidad 53 del curso A1?
     answer: >-
-      En la Unidad 53 del curso A1 de Linguafly practicarás some/any y
-      contenedores en gramática, vocabulario, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 53 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 53 del curso A1: some y any con afirmativas, negativas,
   preguntas y contenedores, con audios y ejercicios.
@@ -431,7 +433,7 @@ Escribe 8–10 frases. Incluye:
 1. Pregunta mental: ¿afirmativa? → *some*. ¿negativa/pregunta? → *any*.  
 2. Si ofreces algo, *some* suena más natural.  
 3. Contenedores ayudan a “contar” incontables: *a bottle of milk*.  
-4. Practica en la [Unidad 53 del curso A1](/curso-a1/unit-53).
+4. Practica en el [cuaderno de ejercicios de la Unidad 53](/blog/curso-a1/unidad-53-some-any-ejercicios-soluciones) y en la [Unidad 53 del curso A1](/curso-a1/unit-53).
 
 La **Unidad 54** trabaja ***How much & How many*** con precios y cantidades.
 
@@ -451,6 +453,11 @@ La **Unidad 54** trabaja ***How much & How many*** con precios y cantidades.
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 53 A1 (con soluciones)](/blog/curso-a1/unidad-53-some-any-ejercicios-soluciones)
+- [Unidad 53 del curso A1](/curso-a1/unit-53)
 
 En la **Unidad 54** estudiarás ***How much & How many*** (precios y cantidades): *How much is it?* / *How many do you need?*
 
