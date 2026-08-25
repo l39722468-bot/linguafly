@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-6-superlativos-est-th
 image: /blog/curso-a2/unit-6/a2-unit6-superlatives.png
 alt: Esquema de superlativos the -est y the most para inglés A2
 related_routes:
+  - unidad-6-superlativos-est-the-most-ejercicios-soluciones
   - gramatica-inglesa-guia
   - ingles-museos-turismo-cultural
   - unidad-48-sightseeing-superlativos
@@ -41,8 +42,9 @@ faqs:
       good → the best. bad → the worst. No uses *the goodest* ni *the baddest*.
   - question: ¿Dónde practico la Unidad 6 del curso A2?
     answer: >-
-      En la Unidad 6 del curso A2 de Linguafly practicarás superlativos en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 6 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 6 del curso A2: superlativos con the … -est, the most, the
   best/worst e in/of, con audios y ejercicios.
@@ -413,7 +415,7 @@ Escribe 8–12 frases. Incluye:
 1. Si en U5 usaste *-er / more*, aquí pasa a *-est / the most* + **the**.  
 2. Memoriza pares: *bigger → the biggest*, *more beautiful → the most beautiful*.  
 3. Practica *in the world / in my city / of the year / of all…*.  
-4. Practica en la [Unidad 6 del curso A2](/curso-a2/unit-6).
+4. Practica en el [cuaderno de ejercicios de la Unidad 6](/blog/curso-a2/unidad-6-superlativos-est-the-most-ejercicios-soluciones) y en la [Unidad 6 del curso A2](/curso-a2/unit-6).
 
 La **Unidad 7** entra en **adverbios de modo**: *quickly, slowly, well, badly* y *-ly*.
 
@@ -439,6 +441,11 @@ Guía dedicada y curso:
 
 - [Unidad 7 — Adverbios de modo](/blog/curso-a2/unidad-7-adverbios-modo-ly)
 - [Unidad 7 — Adverbios de modo](/curso-a2/unit-7)
+
+Practica ahora:
+
+- [Ejercicios Unidad 6 A2 (con soluciones)](/blog/curso-a2/unidad-6-superlativos-est-the-most-ejercicios-soluciones)
+- [Unidad 6 — Superlativos](/curso-a2/unit-6)
 
 Guías relacionadas:
 

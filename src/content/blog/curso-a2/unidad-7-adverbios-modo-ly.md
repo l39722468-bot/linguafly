@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-7-adverbios-modo-ly'
 image: /blog/curso-a2/unit-7/a2-unit7-adverbs-manner.png
 alt: Esquema de adverbios de modo con -ly para inglés A2
 related_routes:
+  - unidad-7-adverbios-modo-ly-ejercicios-soluciones
   - gramatica-inglesa-guia
   - ingles-a2
 faqs:
@@ -42,8 +43,9 @@ faqs:
       She answered the question correctly.
   - question: ¿Dónde practico la Unidad 7 del curso A2?
     answer: >-
-      En la Unidad 7 del curso A2 de Linguafly practicarás adverbios de modo en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 7 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 7 del curso A2: adverbios de modo con -ly, well/badly y
   excepciones fast/hard, con audios y ejercicios.
@@ -406,7 +408,7 @@ Escribe 8–12 frases. Incluye:
 1. Pregunta: ¿describo **la cosa** (adjetivo) o **la acción** (adverbio)?  
 2. Lista de 10: *quick, slow, careful, quiet, easy, beautiful, fluent, loud, patient, happy* → di el adverbio.  
 3. Grábate diciendo: *I study carefully. I speak slowly. I want to speak fluently.*  
-4. Practica en la [Unidad 7 del curso A2](/curso-a2/unit-7).
+4. Practica en el [cuaderno de ejercicios de la Unidad 7](/blog/curso-a2/unidad-7-adverbios-modo-ly-ejercicios-soluciones) y en la [Unidad 7 del curso A2](/curso-a2/unit-7).
 
 La **Unidad 8** entra en **preposiciones de tiempo**: *at, on, in*.
 
@@ -435,6 +437,11 @@ Guía blog:
 Curso:
 
 - [Unidad 8 — Preposiciones de tiempo](/curso-a2/unit-8)
+
+Practica ahora:
+
+- [Ejercicios Unidad 7 A2 (con soluciones)](/blog/curso-a2/unidad-7-adverbios-modo-ly-ejercicios-soluciones)
+- [Unidad 7 — Adverbios de modo](/curso-a2/unit-7)
 
 Guías relacionadas:
 

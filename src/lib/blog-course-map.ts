@@ -495,10 +495,19 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
     { courseId: 'a2', unitNumber: 6 },
     { courseId: 'a2', unitNumber: 5 },
   ],
+  'unidad-6-superlativos-est-the-most-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 6 },
+  ],
   'unidad-7-adverbios-modo-ly': [
     { courseId: 'a2', unitNumber: 7 },
   ],
+  'unidad-7-adverbios-modo-ly-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 7 },
+  ],
   'unidad-8-preposiciones-tiempo-at-on-in': [
+    { courseId: 'a2', unitNumber: 8 },
+  ],
+  'unidad-8-preposiciones-tiempo-at-on-in-ejercicios-soluciones': [
     { courseId: 'a2', unitNumber: 8 },
   ],
   'unidad-9-preposiciones-lugar-movimiento': [

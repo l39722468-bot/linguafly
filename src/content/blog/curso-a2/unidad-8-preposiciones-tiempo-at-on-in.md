@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-8-preposiciones-tiemp
 image: /blog/curso-a2/unit-8/a2-unit8-prepositions-time.png
 alt: Esquema at on in para preposiciones de tiempo en inglés A2
 related_routes:
+  - unidad-8-preposiciones-tiempo-at-on-in-ejercicios-soluciones
   - gramatica-inglesa-guia
   - unidad-12-dias-semana
   - unidad-19-meses-fechas-cumpleanos
@@ -43,8 +44,9 @@ faqs:
       morning, in the afternoon, in the evening (no *at the morning*).
   - question: ¿Dónde practico la Unidad 8 del curso A2?
     answer: >-
-      En la Unidad 8 del curso A2 de Linguafly practicarás at, on e in en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 8 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 8 del curso A2: preposiciones de tiempo at, on e in, con
   audios, esquemas y ejercicios.
@@ -443,7 +445,7 @@ Escribe 8–12 frases. Incluye:
 1. Pregunta siempre: ¿es **hora**, **día** o **periodo**?  
 2. Lista de 12: *7 o'clock, Monday, August, noon, night, morning, 1990, summer, Friday, midnight, weekend, December* → di la preposición.  
 3. Grábate: *I wake up at… On Monday I… In summer I…*  
-4. Practica en la [Unidad 8 del curso A2](/curso-a2/unit-8).
+4. Practica en el [cuaderno de ejercicios de la Unidad 8](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in-ejercicios-soluciones) y en la [Unidad 8 del curso A2](/curso-a2/unit-8).
 
 La **Unidad 9** entra en **preposiciones de lugar y movimiento**: *in, on, at, into, out of, through…*
 
@@ -472,6 +474,11 @@ Guía blog:
 Curso:
 
 - [Unidad 9 — Preposiciones de lugar y movimiento](/curso-a2/unit-9)
+
+Practica ahora:
+
+- [Ejercicios Unidad 8 A2 (con soluciones)](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in-ejercicios-soluciones)
+- [Unidad 8 — Preposiciones de tiempo](/curso-a2/unit-8)
 
 Guías relacionadas:
 
