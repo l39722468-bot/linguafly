@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-58-places-buildings'
 image: /blog/curso-a2/unit-58/a2-unit58-places-buildings.png
 alt: Esquema Places & Buildings A2
 related_routes:
+  - unidad-58-places-buildings-ejercicios-soluciones
   - unidad-57-work-education
   - unidad-6-superlativos-est-the-most
   - unidad-9-preposiciones-lugar-movimiento
@@ -42,8 +43,7 @@ faqs:
       city.
   - question: ¿Dónde practico la Unidad 58 del curso A2?
     answer: >-
-      En la Unidad 58 del curso A2 de Linguafly practicarás descripciones de
-      lugares y edificios.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-58-places-buildings-ejercicios-soluciones) y en la Unidad 58 del curso A2 de Linguafly practicarás lugares, edificios y There is/are.
 excerpt: >-
   Guía de la Unidad 58 del curso A2: describir lugares y edificios con There
   is/are, located in y vocabulario urbano, con audios y ejercicios.
@@ -392,7 +392,7 @@ Describe tu barrio o ciudad. Incluye:
 
 1. Describe tu camino a casa en voz alta (lugares que pasas).  
 2. Lee una city guide en inglés y copia 5 frases útiles.  
-3. Practica en la [Unidad 58 del curso A2](/curso-a2/unit-58).
+3. Practica en el [cuaderno de ejercicios de la Unidad 58](/blog/curso-a2/unidad-58-places-buildings-ejercicios-soluciones) y en la [Unidad 58 del curso A2](/curso-a2/unit-58).
 
 La **Unidad 59** es **Linking Words** (conectores).
 
@@ -418,8 +418,14 @@ Curso:
 
 - [Unidad 59 — Linking Words](/curso-a2/unit-59)
 
+Practica ahora:
+
+- [Ejercicios Unidad 58 A2 (con soluciones)](/blog/curso-a2/unidad-58-places-buildings-ejercicios-soluciones)
+- [Unidad 58 — Places & Buildings](/curso-a2/unit-58)
+
 Guías relacionadas:
 
+- [Ejercicios Unidad 58 A2 (con soluciones)](/blog/curso-a2/unidad-58-places-buildings-ejercicios-soluciones)
 - [U57 — Work & Education](/blog/curso-a2/unidad-57-work-education)
 - [U6 — Superlativos](/blog/curso-a2/unidad-6-superlativos-est-the-most)
 - [U9 — Preposiciones de lugar](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento)

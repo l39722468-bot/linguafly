@@ -762,6 +762,36 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-50-module-5-review-ejercicios-soluciones': [
     { courseId: 'a2', unitNumber: 50 },
   ],
+  'unidad-51-making-suggestions-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 51 },
+  ],
+  'unidad-52-offers-requests-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 52 },
+  ],
+  'unidad-53-expressing-opinions-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 53 },
+  ],
+  'unidad-54-feelings-emotions-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 54 },
+  ],
+  'unidad-55-the-environment-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 55 },
+  ],
+  'unidad-56-technology-communication-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 56 },
+  ],
+  'unidad-57-work-education-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 57 },
+  ],
+  'unidad-58-places-buildings-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 58 },
+  ],
+  'unidad-59-linking-words-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 59 },
+  ],
+  'unidad-60-module-6-review-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 60 },
+  ],
   'unidad-51-making-suggestions': [
     { courseId: 'a2', unitNumber: 51 },
   ],

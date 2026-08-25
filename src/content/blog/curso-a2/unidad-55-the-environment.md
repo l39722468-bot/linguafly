@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-55-the-environment'
 image: /blog/curso-a2/unit-55/a2-unit55-the-environment.png
 alt: Esquema The Environment A2
 related_routes:
+  - unidad-55-the-environment-ejercicios-soluciones
   - unidad-54-feelings-emotions
   - unidad-38-should-ought-to
   - ingles-a2
@@ -41,8 +42,7 @@ faqs:
       Factories pollute the air. / Air pollution is a problem.
   - question: ¿Dónde practico la Unidad 55 del curso A2?
     answer: >-
-      En la Unidad 55 del curso A2 de Linguafly practicarás vocabulario y
-      consejos sobre el medio ambiente.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-55-the-environment-ejercicios-soluciones) y en la Unidad 55 del curso A2 de Linguafly practicarás vocabulario y consejos sobre el medio ambiente.
 excerpt: >-
   Guía de la Unidad 55 del curso A2: hablar del medio ambiente con recycle,
   save, pollution y should, con audios y ejercicios.
@@ -390,7 +390,7 @@ Escribe qué haces (o deberías hacer) por el medio ambiente. Incluye:
 
 1. Lista 5 acciones verdes en voz alta cada día.  
 2. Lee una tip card en inglés (ayuntamiento / ONG) y resume en 3 frases.  
-3. Practica en la [Unidad 55 del curso A2](/curso-a2/unit-55).
+3. Practica en el [cuaderno de ejercicios de la Unidad 55](/blog/curso-a2/unidad-55-the-environment-ejercicios-soluciones) y en la [Unidad 55 del curso A2](/curso-a2/unit-55).
 
 La **Unidad 56** es **Technology & Communication**.
 
@@ -416,8 +416,14 @@ Curso:
 
 - [Unidad 56 — Technology & Communication](/curso-a2/unit-56)
 
+Practica ahora:
+
+- [Ejercicios Unidad 55 A2 (con soluciones)](/blog/curso-a2/unidad-55-the-environment-ejercicios-soluciones)
+- [Unidad 55 — The Environment](/curso-a2/unit-55)
+
 Guías relacionadas:
 
+- [Ejercicios Unidad 55 A2 (con soluciones)](/blog/curso-a2/unidad-55-the-environment-ejercicios-soluciones)
 - [U54 — Feelings & Emotions](/blog/curso-a2/unidad-54-feelings-emotions)
 - [U38 — Should / Ought to](/blog/curso-a2/unidad-38-should-ought-to)
 - [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)

@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-54-feelings-emotions'
 image: /blog/curso-a2/unit-54/a2-unit54-feelings-emotions.png
 alt: Esquema Feelings & Emotions A2
 related_routes:
+  - unidad-54-feelings-emotions-ejercicios-soluciones
   - unidad-53-expressing-opinions
   - unidad-47-health-body
   - ingles-a2
@@ -41,8 +42,7 @@ faqs:
       How do you feel? / How are you feeling? / Are you OK?
   - question: ¿Dónde practico la Unidad 54 del curso A2?
     answer: >-
-      En la Unidad 54 del curso A2 de Linguafly practicarás vocabulario de
-      emociones y cómo te sientes.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-54-feelings-emotions-ejercicios-soluciones) y en la Unidad 54 del curso A2 de Linguafly practicarás vocabulario de emociones y cómo te sientes.
 excerpt: >-
   Guía de la Unidad 54 del curso A2: expresar sentimientos con I feel… / I'm… y
   vocabulario de emociones, con audios y ejercicios.
@@ -383,7 +383,7 @@ Describe un momento reciente. Incluye:
 
 1. Di en voz alta cada mañana: *Today I feel…*  
 2. Etiqueta emociones en series/canciones (*She looks worried*).  
-3. Practica en la [Unidad 54 del curso A2](/curso-a2/unit-54).
+3. Practica en el [cuaderno de ejercicios de la Unidad 54](/blog/curso-a2/unidad-54-feelings-emotions-ejercicios-soluciones) y en la [Unidad 54 del curso A2](/curso-a2/unit-54).
 
 La **Unidad 55** es **The Environment** (medio ambiente).
 
@@ -409,8 +409,14 @@ Curso:
 
 - [Unidad 55 — The Environment](/curso-a2/unit-55)
 
+Practica ahora:
+
+- [Ejercicios Unidad 54 A2 (con soluciones)](/blog/curso-a2/unidad-54-feelings-emotions-ejercicios-soluciones)
+- [Unidad 54 — Feelings & Emotions](/curso-a2/unit-54)
+
 Guías relacionadas:
 
+- [Ejercicios Unidad 54 A2 (con soluciones)](/blog/curso-a2/unidad-54-feelings-emotions-ejercicios-soluciones)
 - [U53 — Expressing Opinions](/blog/curso-a2/unidad-53-expressing-opinions)
 - [U47 — Health & Body](/blog/curso-a2/unidad-47-health-body)
 - [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)

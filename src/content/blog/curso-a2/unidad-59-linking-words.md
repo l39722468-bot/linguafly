@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-59-linking-words'
 image: /blog/curso-a2/unit-59/a2-unit59-linking-words.png
 alt: Esquema Linking Words A2
 related_routes:
+  - unidad-59-linking-words-ejercicios-soluciones
   - unidad-58-places-buildings
   - unidad-53-expressing-opinions
   - ingles-a2
@@ -43,8 +44,7 @@ faqs:
       we left. En conversación, so es más natural.
   - question: ¿Dónde practico la Unidad 59 del curso A2?
     answer: >-
-      En la Unidad 59 del curso A2 de Linguafly practicarás conectores para
-      unir ideas.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-59-linking-words-ejercicios-soluciones) y en la Unidad 59 del curso A2 de Linguafly practicarás conectores para unir ideas.
 excerpt: >-
   Guía de la Unidad 59 del curso A2: enlazar ideas con and, but, because, so y
   although, con audios y ejercicios.
@@ -383,7 +383,7 @@ Escribe sobre tu ciudad, trabajo o fin de semana. Incluye:
 
 1. Reescribe 5 frases tuyas uniendo dos ideas con conectores.  
 2. Marca conectores en un texto corto en inglés.  
-3. Practica en la [Unidad 59 del curso A2](/curso-a2/unit-59).
+3. Practica en el [cuaderno de ejercicios de la Unidad 59](/blog/curso-a2/unidad-59-linking-words-ejercicios-soluciones) y en la [Unidad 59 del curso A2](/curso-a2/unit-59).
 
 La **Unidad 60** es el **Module 6 Review**.
 
@@ -408,8 +408,14 @@ Curso:
 
 - [Unidad 60 — Module 6 Review](/curso-a2/unit-60)
 
+Practica ahora:
+
+- [Ejercicios Unidad 59 A2 (con soluciones)](/blog/curso-a2/unidad-59-linking-words-ejercicios-soluciones)
+- [Unidad 59 — Linking Words](/curso-a2/unit-59)
+
 Guías relacionadas:
 
+- [Ejercicios Unidad 59 A2 (con soluciones)](/blog/curso-a2/unidad-59-linking-words-ejercicios-soluciones)
 - [U58 — Places & Buildings](/blog/curso-a2/unidad-58-places-buildings)
 - [U53 — Expressing Opinions](/blog/curso-a2/unidad-53-expressing-opinions)
 - [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)

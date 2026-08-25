@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-52-offers-requests'
 image: /blog/curso-a2/unit-52/a2-unit52-offers-requests.png
 alt: Esquema Offers & Requests A2
 related_routes:
+  - unidad-52-offers-requests-ejercicios-soluciones
   - unidad-51-making-suggestions
   - unidad-29-could-habilidad-peticiones
   - will-ofertas-peticiones-ingles
@@ -41,8 +42,7 @@ faqs:
       Sí: Would you like me to + verbo base (Would you like me to help?).
   - question: ¿Dónde practico la Unidad 52 del curso A2?
     answer: >-
-      En la Unidad 52 del curso A2 de Linguafly practicarás ofertas y peticiones
-      educadas.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-52-offers-requests-ejercicios-soluciones) y en la Unidad 52 del curso A2 de Linguafly practicarás ofertas y peticiones educadas.
 excerpt: >-
   Guía de la Unidad 52 del curso A2: ofrecer ayuda y pedir cosas con Can I…?,
   Could you…? y Would you like me to…?, con audios y ejercicios.
@@ -390,7 +390,7 @@ Escribe un diálogo con:
 
 1. Practica en voz alta: 3 ofertas + 3 peticiones al día.  
 2. Graba un mini diálogo y comprueba la cortesía.  
-3. Practica en la [Unidad 52 del curso A2](/curso-a2/unit-52).
+3. Practica en el [cuaderno de ejercicios de la Unidad 52](/blog/curso-a2/unidad-52-offers-requests-ejercicios-soluciones) y en la [Unidad 52 del curso A2](/curso-a2/unit-52).
 
 La **Unidad 53** es **Expressing Opinions** (dar opiniones).
 
@@ -416,8 +416,14 @@ Curso:
 
 - [Unidad 53 — Expressing Opinions](/curso-a2/unit-53)
 
+Practica ahora:
+
+- [Ejercicios Unidad 52 A2 (con soluciones)](/blog/curso-a2/unidad-52-offers-requests-ejercicios-soluciones)
+- [Unidad 52 — Offers & Requests](/curso-a2/unit-52)
+
 Guías relacionadas:
 
+- [Ejercicios Unidad 52 A2 (con soluciones)](/blog/curso-a2/unidad-52-offers-requests-ejercicios-soluciones)
 - [U51 — Making Suggestions](/blog/curso-a2/unidad-51-making-suggestions)
 - [U29 — Could: habilidad y peticiones](/blog/curso-a2/unidad-29-could-habilidad-peticiones)
 - [Will: ofertas y peticiones](/blog/gramatica/will-ofertas-peticiones-ingles)

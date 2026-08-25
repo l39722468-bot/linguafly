@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-60-module-6-review'
 image: /blog/curso-a2/unit-60/a2-unit60-module-6-review.png
 alt: Esquema de repaso del Módulo 6 A2
 related_routes:
+  - unidad-60-module-6-review-ejercicios-soluciones
   - unidad-59-linking-words
   - unidad-51-making-suggestions
   - unidad-53-expressing-opinions
@@ -42,8 +43,7 @@ faqs:
       rained, so I stayed home.
   - question: ¿Dónde practico la Unidad 60 del curso A2?
     answer: >-
-      En la Unidad 60 del curso A2 de Linguafly harás el repaso integrado del
-      Módulo 6.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-60-module-6-review-ejercicios-soluciones) y en la Unidad 60 del curso A2 de Linguafly practicarás repaso integrado del Módulo 6.
 excerpt: >-
   Repaso de la Unidad 60 (Módulo 6 A2): sugerencias, ofertas, opiniones,
   emociones, medio ambiente, tecnología, trabajo, lugares y conectores.
@@ -403,7 +403,7 @@ Escribe un texto integrado. Incluye al menos:
 
 1. Reescribe el texto “My A2 week” con tus datos.  
 2. Repasa las guías U51–U59 donde falles más.  
-3. Practica en la [Unidad 60 del curso A2](/curso-a2/unit-60).
+3. Practica en el [cuaderno de ejercicios de la Unidad 60](/blog/curso-a2/unidad-60-module-6-review-ejercicios-soluciones) y en la [Unidad 60 del curso A2](/curso-a2/unit-60).
 
 Con esta unidad cierras el **Módulo 6** y el recorrido editorial A2 U1–U60.
 
@@ -428,7 +428,14 @@ Has completado la serie de artículos del **curso A2**. Puedes:
 - Repasar el [Module 5 Review](/blog/curso-a2/unidad-50-module-5-review)
 - Seguir con la [guía del nivel A2](/blog/metodos/ingles-a2)
 
+Practica ahora:
+
+- [Ejercicios Unidad 60 A2 (con soluciones)](/blog/curso-a2/unidad-60-module-6-review-ejercicios-soluciones)
+- [Unidad 60 — Module 6 Review](/curso-a2/unit-60)
+
 Guías del módulo:
+
+- [Ejercicios Unidad 60 A2 (con soluciones)](/blog/curso-a2/unidad-60-module-6-review-ejercicios-soluciones)
 
 - [U51 — Making Suggestions](/blog/curso-a2/unidad-51-making-suggestions)
 - [U53 — Expressing Opinions](/blog/curso-a2/unidad-53-expressing-opinions)

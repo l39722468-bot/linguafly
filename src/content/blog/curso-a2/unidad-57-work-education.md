@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-57-work-education'
 image: /blog/curso-a2/unit-57/a2-unit57-work-education.png
 alt: Esquema Work & Education A2
 related_routes:
+  - unidad-57-work-education-ejercicios-soluciones
   - unidad-56-technology-communication
   - unidad-28-have-to-dont-have-to
   - entrevista-trabajo-ingles-preguntas
@@ -42,8 +43,7 @@ faqs:
       Job es contable (a job). Work suele ser incontable (I have a lot of work).
   - question: ¿Dónde practico la Unidad 57 del curso A2?
     answer: >-
-      En la Unidad 57 del curso A2 de Linguafly practicarás vocabulario de
-      trabajo y estudios.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-57-work-education-ejercicios-soluciones) y en la Unidad 57 del curso A2 de Linguafly practicarás trabajo, estudios y obligaciones con have to.
 excerpt: >-
   Guía de la Unidad 57 del curso A2: hablar de trabajo y estudios con work as,
   study at y have to, con audios y ejercicios.
@@ -396,7 +396,7 @@ Habla de tu trabajo o estudios. Incluye:
 
 1. Graba 1 minuto sobre tu rutina laboral o de estudio.  
 2. Reescribe tu LinkedIn/CV en inglés con *work as / study at*.  
-3. Practica en la [Unidad 57 del curso A2](/curso-a2/unit-57).
+3. Practica en el [cuaderno de ejercicios de la Unidad 57](/blog/curso-a2/unidad-57-work-education-ejercicios-soluciones) y en la [Unidad 57 del curso A2](/curso-a2/unit-57).
 
 La **Unidad 58** es **Places & Buildings**.
 
@@ -422,8 +422,14 @@ Curso:
 
 - [Unidad 58 — Places & Buildings](/curso-a2/unit-58)
 
+Practica ahora:
+
+- [Ejercicios Unidad 57 A2 (con soluciones)](/blog/curso-a2/unidad-57-work-education-ejercicios-soluciones)
+- [Unidad 57 — Work & Education](/curso-a2/unit-57)
+
 Guías relacionadas:
 
+- [Ejercicios Unidad 57 A2 (con soluciones)](/blog/curso-a2/unidad-57-work-education-ejercicios-soluciones)
 - [U56 — Technology & Communication](/blog/curso-a2/unidad-56-technology-communication)
 - [U28 — Have to](/blog/curso-a2/unidad-28-have-to-dont-have-to)
 - [Entrevista de trabajo](/blog/trabajo/entrevista-trabajo-ingles-preguntas)

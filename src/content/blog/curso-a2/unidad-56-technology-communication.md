@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-56-technology-communi
 image: /blog/curso-a2/unit-56/a2-unit56-technology-communication.png
 alt: Esquema Technology & Communication A2
 related_routes:
+  - unidad-56-technology-communication-ejercicios-soluciones
   - unidad-55-the-environment
   - unidad-31-phrasal-verbs-introduccion
   - email-formal-ingles-estructura
@@ -40,8 +41,7 @@ faqs:
       Send an email to someone / Send someone an email. También email someone.
   - question: ¿Dónde practico la Unidad 56 del curso A2?
     answer: >-
-      En la Unidad 56 del curso A2 de Linguafly practicarás vocabulario y verbos
-      de tecnología y comunicación.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-56-technology-communication-ejercicios-soluciones) y en la Unidad 56 del curso A2 de Linguafly practicarás tecnología y comunicación digital.
 excerpt: >-
   Guía de la Unidad 56 del curso A2: hablar de tecnología e internet con send,
   download, WiFi y phrasal verbs básicos, con audios y ejercicios.
@@ -391,7 +391,7 @@ Describe cómo usas la tecnología. Incluye:
 
 1. Narra en voz alta lo que haces en el móvil (1 minuto).  
 2. Lee un email de instrucciones en inglés y marca los verbos.  
-3. Practica en la [Unidad 56 del curso A2](/curso-a2/unit-56).
+3. Practica en el [cuaderno de ejercicios de la Unidad 56](/blog/curso-a2/unidad-56-technology-communication-ejercicios-soluciones) y en la [Unidad 56 del curso A2](/curso-a2/unit-56).
 
 La **Unidad 57** es **Work & Education**.
 
@@ -417,8 +417,14 @@ Curso:
 
 - [Unidad 57 — Work & Education](/curso-a2/unit-57)
 
+Practica ahora:
+
+- [Ejercicios Unidad 56 A2 (con soluciones)](/blog/curso-a2/unidad-56-technology-communication-ejercicios-soluciones)
+- [Unidad 56 — Technology & Communication](/curso-a2/unit-56)
+
 Guías relacionadas:
 
+- [Ejercicios Unidad 56 A2 (con soluciones)](/blog/curso-a2/unidad-56-technology-communication-ejercicios-soluciones)
 - [U55 — The Environment](/blog/curso-a2/unidad-55-the-environment)
 - [U31 — Phrasal verbs](/blog/curso-a2/unidad-31-phrasal-verbs-introduccion)
 - [Email formal en inglés](/blog/trabajo/email-formal-ingles-estructura)

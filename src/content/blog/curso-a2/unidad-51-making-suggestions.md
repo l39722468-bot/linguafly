@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-51-making-suggestions
 image: /blog/curso-a2/unit-51/a2-unit51-making-suggestions.png
 alt: Esquema Making Suggestions A2
 related_routes:
+  - unidad-51-making-suggestions-ejercicios-soluciones
   - unidad-50-module-5-review
   - unidad-37-would-like-vs-like
   - ingles-a2
@@ -41,8 +42,7 @@ faqs:
       aparece en ofertas (Would you like a drink?).
   - question: ¿Dónde practico la Unidad 51 del curso A2?
     answer: >-
-      En la Unidad 51 del curso A2 de Linguafly practicarás sugerencias y
-      respuestas a planes.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-51-making-suggestions-ejercicios-soluciones) y en la Unidad 51 del curso A2 de Linguafly practicarás sugerencias y respuestas a planes.
 excerpt: >-
   Guía de la Unidad 51 del curso A2: hacer y responder sugerencias con Shall we,
   Let's, Why don't we, How about y Would you like to, con audios y ejercicios.
@@ -386,7 +386,7 @@ Escribe un diálogo entre dos personas. Incluye:
 
 1. Propón 3 planes en voz alta cada día.  
 2. Practica rechazos corteses (*I'd love to, but…*).  
-3. Practica en la [Unidad 51 del curso A2](/curso-a2/unit-51).
+3. Practica en el [cuaderno de ejercicios de la Unidad 51](/blog/curso-a2/unidad-51-making-suggestions-ejercicios-soluciones) y en la [Unidad 51 del curso A2](/curso-a2/unit-51).
 
 La **Unidad 52** es **Making Offers & Requests** (ofertas y peticiones).
 
@@ -412,8 +412,14 @@ Curso:
 
 - [Unidad 52 — Making Offers & Requests](/curso-a2/unit-52)
 
+Practica ahora:
+
+- [Ejercicios Unidad 51 A2 (con soluciones)](/blog/curso-a2/unidad-51-making-suggestions-ejercicios-soluciones)
+- [Unidad 51 — Making Suggestions](/curso-a2/unit-51)
+
 Guías relacionadas:
 
+- [Ejercicios Unidad 51 A2 (con soluciones)](/blog/curso-a2/unidad-51-making-suggestions-ejercicios-soluciones)
 - [U50 — Module 5 Review](/blog/curso-a2/unidad-50-module-5-review)
 - [U37 — Would like vs Like](/blog/curso-a2/unidad-37-would-like-vs-like)
 - [Will / Shall](/blog/gramatica/will-shall-ingles)

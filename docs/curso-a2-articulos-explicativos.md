@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U50)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U60)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -114,16 +114,16 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 51 | Making Suggestions | *Shall we…?*, *Let's…*, *Would you like to…?* | ✅ | [Making Suggestions A2](/blog/curso-a2/unidad-51-making-suggestions) |
-| 52 | Making Offers & Requests | *Can I…?*, *Could you…?*, *Would you like me to…?* | ✅ | [Offers & Requests A2](/blog/curso-a2/unidad-52-offers-requests) |
-| 53 | Expressing Opinions | *I think…*, *In my opinion…*, *I agree* | ✅ | [Expressing Opinions A2](/blog/curso-a2/unidad-53-expressing-opinions) |
-| 54 | Feelings & Emotions | *feel* + adj, *excited*, *worried* | ✅ | [Feelings & Emotions A2](/blog/curso-a2/unidad-54-feelings-emotions) |
-| 55 | The Environment | *recycle*, *save*, *should* | ✅ | [The Environment A2](/blog/curso-a2/unidad-55-the-environment) |
-| 56 | Technology & Communication | *email*, *download*, *app*, *WiFi* | ✅ | [Technology & Communication A2](/blog/curso-a2/unidad-56-technology-communication) |
-| 57 | Work & Education | *work as*, *study at*, *deadline* | ✅ | [Work & Education A2](/blog/curso-a2/unidad-57-work-education) |
-| 58 | Places & Buildings | *There is/are*, *located in*, *museum* | ✅ | [Places & Buildings A2](/blog/curso-a2/unidad-58-places-buildings) |
-| 59 | Linking Words | *and*, *but*, *because*, *so*, *although* | ✅ | [Linking Words A2](/blog/curso-a2/unidad-59-linking-words) |
-| 60 | Module 6 Review | repaso Módulo 6 (U51–U59) | ✅ | [Module 6 Review A2](/blog/curso-a2/unidad-60-module-6-review) |
+| 51 | Making Suggestions | *Shall we…?*, *Let's…*, *Would you like to…?* | ✅ | [Making Suggestions A2](/blog/curso-a2/unidad-51-making-suggestions) · [Ejercicios + soluciones](/blog/curso-a2/unidad-51-making-suggestions-ejercicios-soluciones) |
+| 52 | Making Offers & Requests | *Can I…?*, *Could you…?*, *Would you like me to…?* | ✅ | [Offers & Requests A2](/blog/curso-a2/unidad-52-offers-requests) · [Ejercicios + soluciones](/blog/curso-a2/unidad-52-offers-requests-ejercicios-soluciones) |
+| 53 | Expressing Opinions | *I think…*, *In my opinion…*, *I agree* | ✅ | [Expressing Opinions A2](/blog/curso-a2/unidad-53-expressing-opinions) · [Ejercicios + soluciones](/blog/curso-a2/unidad-53-expressing-opinions-ejercicios-soluciones) |
+| 54 | Feelings & Emotions | *feel* + adj, *excited*, *worried* | ✅ | [Feelings & Emotions A2](/blog/curso-a2/unidad-54-feelings-emotions) · [Ejercicios + soluciones](/blog/curso-a2/unidad-54-feelings-emotions-ejercicios-soluciones) |
+| 55 | The Environment | *recycle*, *save*, *should* | ✅ | [The Environment A2](/blog/curso-a2/unidad-55-the-environment) · [Ejercicios + soluciones](/blog/curso-a2/unidad-55-the-environment-ejercicios-soluciones) |
+| 56 | Technology & Communication | *email*, *download*, *app*, *WiFi* | ✅ | [Technology & Communication A2](/blog/curso-a2/unidad-56-technology-communication) · [Ejercicios + soluciones](/blog/curso-a2/unidad-56-technology-communication-ejercicios-soluciones) |
+| 57 | Work & Education | *work as*, *study at*, *deadline* | ✅ | [Work & Education A2](/blog/curso-a2/unidad-57-work-education) · [Ejercicios + soluciones](/blog/curso-a2/unidad-57-work-education-ejercicios-soluciones) |
+| 58 | Places & Buildings | *There is/are*, *located in*, *museum* | ✅ | [Places & Buildings A2](/blog/curso-a2/unidad-58-places-buildings) · [Ejercicios + soluciones](/blog/curso-a2/unidad-58-places-buildings-ejercicios-soluciones) |
+| 59 | Linking Words | *and*, *but*, *because*, *so*, *although* | ✅ | [Linking Words A2](/blog/curso-a2/unidad-59-linking-words) · [Ejercicios + soluciones](/blog/curso-a2/unidad-59-linking-words-ejercicios-soluciones) |
+| 60 | Module 6 Review | repaso Módulo 6 (U51–U59) | ✅ | [Module 6 Review A2](/blog/curso-a2/unidad-60-module-6-review) · [Ejercicios + soluciones](/blog/curso-a2/unidad-60-module-6-review-ejercicios-soluciones) |
 
 Pendiente de detalle editorial a medida que se publiquen artículos.
 

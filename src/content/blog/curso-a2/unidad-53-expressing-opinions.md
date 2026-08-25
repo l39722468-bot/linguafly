@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-53-expressing-opinion
 image: /blog/curso-a2/unit-53/a2-unit53-expressing-opinions.png
 alt: Esquema Expressing Opinions A2
 related_routes:
+  - unidad-53-expressing-opinions-ejercicios-soluciones
   - unidad-52-offers-requests
   - unidad-45-entertainment-media
   - unidad-51-making-suggestions
@@ -42,8 +43,7 @@ faqs:
       you.
   - question: ¿Dónde practico la Unidad 53 del curso A2?
     answer: >-
-      En la Unidad 53 del curso A2 de Linguafly practicarás opiniones y
-      acuerdo/desacuerdo.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-53-expressing-opinions-ejercicios-soluciones) y en la Unidad 53 del curso A2 de Linguafly practicarás opiniones y acuerdo/desacuerdo.
 excerpt: >-
   Guía de la Unidad 53 del curso A2: expresar opiniones con I think, In my
   opinion e I agree/disagree, con audios y ejercicios.
@@ -389,7 +389,7 @@ Elige una película, canción, comida o viaje. Incluye:
 
 1. Da tu opinión en voz alta sobre 3 cosas cada día.  
 2. Lee comentarios cortos en inglés y marca *I think / I agree*.  
-3. Practica en la [Unidad 53 del curso A2](/curso-a2/unit-53).
+3. Practica en el [cuaderno de ejercicios de la Unidad 53](/blog/curso-a2/unidad-53-expressing-opinions-ejercicios-soluciones) y en la [Unidad 53 del curso A2](/curso-a2/unit-53).
 
 La **Unidad 54** es **Feelings & Emotions** (sentimientos).
 
@@ -415,8 +415,14 @@ Curso:
 
 - [Unidad 54 — Feelings & Emotions](/curso-a2/unit-54)
 
+Practica ahora:
+
+- [Ejercicios Unidad 53 A2 (con soluciones)](/blog/curso-a2/unidad-53-expressing-opinions-ejercicios-soluciones)
+- [Unidad 53 — Expressing Opinions](/curso-a2/unit-53)
+
 Guías relacionadas:
 
+- [Ejercicios Unidad 53 A2 (con soluciones)](/blog/curso-a2/unidad-53-expressing-opinions-ejercicios-soluciones)
 - [U52 — Offers & Requests](/blog/curso-a2/unidad-52-offers-requests)
 - [U45 — Entertainment & Media](/blog/curso-a2/unidad-45-entertainment-media)
 - [U51 — Making Suggestions](/blog/curso-a2/unidad-51-making-suggestions)
