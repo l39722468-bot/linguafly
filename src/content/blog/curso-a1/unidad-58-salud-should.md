@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-58-salud-should'
 image: /blog/curso-a1/unit-58/a1-unit58-should-shouldnt.png
 alt: Esquema should y shouldn't para consejos de salud A1
 related_routes:
+  - unidad-58-salud-should-ejercicios-soluciones
   - should-would-ingles
   - ingles-para-salud
   - vocabulario-ingles-medico-enfermeria

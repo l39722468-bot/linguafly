@@ -125,7 +125,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 55 | Clothing Store | *too* vs *enough* | ✅ | [Too/enough A1](/blog/curso-a1/unidad-55-tienda-ropa-too-enough) · [Ejercicios + soluciones](/blog/curso-a1/unidad-55-tienda-ropa-too-enough-ejercicios-soluciones) |
 | 56 | At the Restaurant | Pedir en restaurante | ✅ | [Restaurante A1](/blog/curso-a1/unidad-56-restaurante-pedidos) · [Ejercicios + soluciones](/blog/curso-a1/unidad-56-restaurante-pedidos-ejercicios-soluciones) |
 | 57 | Cooking & Recipes | Verbos de cocina | ✅ | [Cocina A1](/blog/curso-a1/unidad-57-cocina-recetas) · [Ejercicios + soluciones](/blog/curso-a1/unidad-57-cocina-recetas-ejercicios-soluciones) |
-| 58 | Health & Illness | *should/shouldn't* | ✅ | [Salud A1](/blog/curso-a1/unidad-58-salud-should) |
+| 58 | Health & Illness | *should/shouldn't* | ✅ | [Salud A1](/blog/curso-a1/unidad-58-salud-should) · [Ejercicios + soluciones](/blog/curso-a1/unidad-58-salud-should-ejercicios-soluciones) |
 | 59 | Money & Currency | *pay for*, *spend on* | ✅ | [Dinero A1](/blog/curso-a1/unidad-59-dinero-pay-for-spend-on) |
 | 60 | Module 6 Review | Repaso módulo 6 | ✅ | [Repaso Módulo 6 A1](/blog/curso-a1/unidad-60-repaso-modulo-6) |
 
