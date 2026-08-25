@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-1-saludos-introduccio
 image: /blog/curso-a2/unit-1/a2-unit1-intro-formula.png
 alt: Fórmula de presentación extendida en inglés nivel A2
 related_routes:
+  - unidad-1-saludos-introducciones-repaso-ejercicios-soluciones
   - ingles-a2
   - ingles-a1-vs-a2
   - unidad-1-saludos-presentarse
@@ -44,8 +45,8 @@ faqs:
       lives) dentro de presentaciones reales, no como lista aislada.
   - question: ¿Dónde practico la Unidad 1 del curso A2?
     answer: >-
-      En la Unidad 1 del curso A2 de Linguafly practicarás presentaciones
-      extendidas con gramática, vocabulario, reading, listening, speaking y
+      En el cuaderno de ejercicios con soluciones y en la Unidad 1 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
   Guía de la Unidad 1 del curso A2: presentarte con hometown, neighbourhood,
@@ -432,7 +433,7 @@ Escribe 8–12 frases. Incluye:
 1. No memorices listas: **cuenta tu historia** (nombre → ciudad → barrio → hobby → trabajo).  
 2. Practica en voz alta: la Unidad 1 A2 es sobre **fluidez**, no solo formas.  
 3. Si *to be* aún falla, vuelve un momento a [Saludos A1](/blog/curso-a1/unidad-1-saludos-presentarse).  
-4. Practica en la [Unidad 1 del curso A2](/curso-a2/unit-1).
+4. Practica en el [cuaderno de ejercicios de la Unidad 1](/blog/curso-a2/unidad-1-saludos-introducciones-repaso-ejercicios-soluciones) y en la [Unidad 1 del curso A2](/curso-a2/unit-1).
 
 La **Unidad 2** entra en el **Past Simple** con verbos regulares (*walked, visited, played*) y marcas de tiempo (*yesterday, last week, ago*).
 
@@ -458,6 +459,11 @@ Guía dedicada y curso:
 
 - [Unidad 2 — Past Simple: verbos regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares)
 - [Unidad 2 — Past Simple: verbos regulares](/curso-a2/unit-2)
+
+Practica ahora:
+
+- [Ejercicios Unidad 1 A2 (con soluciones)](/blog/curso-a2/unidad-1-saludos-introducciones-repaso-ejercicios-soluciones)
+- [Unidad 1 — Saludos e introducciones](/curso-a2/unit-1)
 
 Guías relacionadas:
 

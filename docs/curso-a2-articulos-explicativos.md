@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-12 (artículos U1–U36; Módulo 4 en curso)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuaderno ejercicios U1)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -33,7 +33,7 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 1 | Greetings & Introductions (repaso) | *to be*, Present Simple; hometown, neighbourhood, hobby | ✅ | [Saludos e introducciones A2](/blog/curso-a2/unidad-1-saludos-introducciones-repaso) |
+| 1 | Greetings & Introductions (repaso) | *to be*, Present Simple; hometown, neighbourhood, hobby | ✅ | [Saludos e introducciones A2](/blog/curso-a2/unidad-1-saludos-introducciones-repaso) · [Ejercicios + soluciones](/blog/curso-a2/unidad-1-saludos-introducciones-repaso-ejercicios-soluciones) |
 | 2 | Past Simple: Regular Verbs | *-ed*; yesterday / last week / ago | ✅ | [Past Simple regulares A2](/blog/curso-a2/unidad-2-past-simple-verbos-regulares) |
 | 3 | Past Simple: Irregular Verbs | went, saw, had, made, wrote, bought | ✅ | [Past Simple irregulares A2](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares) |
 | 4 | Wh-questions in the Past | What/Where/When/Who/Why/How did…? | ✅ | [Wh-questions Past A2](/blog/curso-a2/unidad-4-wh-questions-past-simple) |
