@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-35-some-any-much-many
 image: /blog/curso-a2/unit-35/a2-unit35-some-any-much-many.png
 alt: Esquema de some any much many A2
 related_routes:
+  - unidad-35-some-any-much-many-ejercicios-soluciones
   - unidad-34-subject-object-questions
   - some-any-much-many
   - contables-e-incontables
@@ -43,8 +44,8 @@ faqs:
       milk). Ambos significan “una pequeña cantidad” (en general positiva).
   - question: ¿Dónde practico la Unidad 35 del curso A2?
     answer: >-
-      En la Unidad 35 del curso A2 de Linguafly practicarás some/any/much/many
-      en gramática, vocabulario, reading, listening, speaking y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-35-some-any-much-many-ejercicios-soluciones) y en la Unidad 35 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 35 del curso A2: some, any, much, many y cantidades (a lot
   of, a few, a little), con audios y ejercicios.
@@ -431,7 +432,7 @@ Escribe una lista de la compra o describe tu nevera. Incluye:
 
 1. Aprende **pares**: *many apples / much water*; *a few / a little*.  
 2. En afirmativas, practica **a lot of** — suena natural.  
-3. Practica en la [Unidad 35 del curso A2](/curso-a2/unit-35).
+3. Practica en el [cuaderno de ejercicios de la Unidad 35](/blog/curso-a2/unidad-35-some-any-much-many-ejercicios-soluciones) y en la [Unidad 35 del curso A2](/curso-a2/unit-35).
 
 La **Unidad 36** trabaja **artículos**: *a/an*, *the* y cuando no hay artículo.
 
@@ -458,6 +459,11 @@ Guía blog:
 Curso:
 
 - [Unidad 36 — Articles](/curso-a2/unit-36)
+
+Practica ahora:
+
+- [Ejercicios Unidad 35 A2 (con soluciones)](/blog/curso-a2/unidad-35-some-any-much-many-ejercicios-soluciones)
+- [Unidad 35 — Some, Any, Much, Many](/curso-a2/unit-35)
 
 Guías relacionadas:
 

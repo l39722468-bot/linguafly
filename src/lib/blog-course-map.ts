@@ -657,6 +657,21 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-35-some-any-much-many': [
     { courseId: 'a2', unitNumber: 35 },
   ],
+  'unidad-31-phrasal-verbs-introduccion-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 31 },
+  ],
+  'unidad-32-phrasal-verbs-separables-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 32 },
+  ],
+  'unidad-33-gerunds-infinitives-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 33 },
+  ],
+  'unidad-34-subject-object-questions-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 34 },
+  ],
+  'unidad-35-some-any-much-many-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 35 },
+  ],
   'unidad-36-articles-a-an-the': [
     { courseId: 'a2', unitNumber: 36 },
   ],

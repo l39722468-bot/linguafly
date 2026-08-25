@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-34-subject-object-que
 image: /blog/curso-a2/unit-34/a2-unit34-subject-object.png
 alt: Esquema de preguntas de sujeto y objeto A2
 related_routes:
+  - unidad-34-subject-object-questions-ejercicios-soluciones
   - unidad-33-gerunds-infinitives
   - preguntas-en-ingles
   - wh-questions
@@ -43,9 +44,8 @@ faqs:
       Which también aparece en ambos contextos.
   - question: ¿Dónde practico la Unidad 34 del curso A2?
     answer: >-
-      En la Unidad 34 del curso A2 de Linguafly practicarás subject y object
-      questions en gramática, vocabulario, reading, listening, speaking y
-      writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-34-subject-object-questions-ejercicios-soluciones) y en la Unidad 34 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 34 del curso A2: preguntas de sujeto (sin do/does/did) y de
   objeto, con audios y ejercicios.
@@ -444,7 +444,7 @@ Escribe un mini cuestionario con:
 
 1. Practica **pares**: *Who saw you?* / *Who did you see?*  
 2. Mira siempre la **respuesta** para elegir la estructura.  
-3. Practica en la [Unidad 34 del curso A2](/curso-a2/unit-34).
+3. Practica en el [cuaderno de ejercicios de la Unidad 34](/blog/curso-a2/unidad-34-subject-object-questions-ejercicios-soluciones) y en la [Unidad 34 del curso A2](/curso-a2/unit-34).
 
 La **Unidad 35** revisa **some, any, much, many** (y cantidades A2).
 
@@ -470,6 +470,11 @@ Guía blog:
 Curso:
 
 - [Unidad 35 — Some, Any, Much, Many](/curso-a2/unit-35)
+
+Practica ahora:
+
+- [Ejercicios Unidad 34 A2 (con soluciones)](/blog/curso-a2/unidad-34-subject-object-questions-ejercicios-soluciones)
+- [Unidad 34 — Subject & Object Questions](/curso-a2/unit-34)
 
 Guías relacionadas:
 

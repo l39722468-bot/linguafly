@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-31-phrasal-verbs-intr
 image: /blog/curso-a2/unit-31/a2-unit31-phrasal-verbs.png
 alt: Esquema de phrasal verbs básicos A2
 related_routes:
+  - unidad-31-phrasal-verbs-introduccion-ejercicios-soluciones
   - unidad-30-repaso-modulo-3
   - phrasal-verbs-conversacion-cotidiana
   - phrasal-verbs-with-get
@@ -42,8 +43,8 @@ faqs:
       levantarse de la cama. Puedes wake up a las 7 y get up a las 7:15.
   - question: ¿Dónde practico la Unidad 31 del curso A2?
     answer: >-
-      En la Unidad 31 del curso A2 de Linguafly practicarás phrasal verbs en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-31-phrasal-verbs-introduccion-ejercicios-soluciones) y en la Unidad 31 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 31 del curso A2: introducción a phrasal verbs (get up, look
   for, turn on/off…), con audios y ejercicios.
@@ -384,7 +385,7 @@ Escribe 8–12 líneas sobre tu mañana:
 
 1. Aprende cada phrasal **como una pieza**.  
 2. Practica en voz alta tu rutina.  
-3. Practica en la [Unidad 31 del curso A2](/curso-a2/unit-31).
+3. Practica en el [cuaderno de ejercicios de la Unidad 31](/blog/curso-a2/unidad-31-phrasal-verbs-introduccion-ejercicios-soluciones) y en la [Unidad 31 del curso A2](/curso-a2/unit-31).
 
 La **Unidad 32** introduce phrasal verbs **separables**: *turn off the TV / turn the TV off*.
 
@@ -412,6 +413,11 @@ Guía blog:
 Curso:
 
 - [Unidad 32 — Phrasal Verbs: Separable](/curso-a2/unit-32)
+
+Practica ahora:
+
+- [Ejercicios Unidad 31 A2 (con soluciones)](/blog/curso-a2/unidad-31-phrasal-verbs-introduccion-ejercicios-soluciones)
+- [Unidad 31 — Phrasal Verbs: Introduction](/curso-a2/unit-31)
 
 Guías relacionadas:
 

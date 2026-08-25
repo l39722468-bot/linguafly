@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-32-phrasal-verbs-sepa
 image: /blog/curso-a2/unit-32/a2-unit32-phrasal-separable.png
 alt: Esquema de phrasal verbs separables A2
 related_routes:
+  - unidad-32-phrasal-verbs-separables-ejercicios-soluciones
   - unidad-31-phrasal-verbs-introduccion
   - phrasal-verbs-conversacion-cotidiana
   - phrasal-verbs-with-get
@@ -43,9 +44,8 @@ faqs:
       esta unidad te centras en los separables con objeto.
   - question: ¿Dónde practico la Unidad 32 del curso A2?
     answer: >-
-      En la Unidad 32 del curso A2 de Linguafly practicarás phrasal verbs
-      separables en gramática, vocabulario, reading, listening, speaking y
-      writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-32-phrasal-verbs-separables-ejercicios-soluciones) y en la Unidad 32 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 32 del curso A2: phrasal verbs separables (pick up, put on,
   take off…), posición del objeto y pronombres, con audios y ejercicios.
@@ -443,7 +443,7 @@ Escribe sobre una mañana o una llegada a casa. Incluye:
 
 1. Practica siempre una versión con **pronombre**: es la que más falla.  
 2. Aprende pares: *put on ↔ take off*, *pick up ↔ put down*.  
-3. Practica en la [Unidad 32 del curso A2](/curso-a2/unit-32).
+3. Practica en el [cuaderno de ejercicios de la Unidad 32](/blog/curso-a2/unidad-32-phrasal-verbs-separables-ejercicios-soluciones) y en la [Unidad 32 del curso A2](/curso-a2/unit-32).
 
 La **Unidad 33** introduce **gerundios e infinitivos**: *like swimming*, *want to go*, *would like to…*.
 
@@ -472,6 +472,11 @@ Guía blog:
 Curso:
 
 - [Unidad 33 — Gerunds & Infinitives](/curso-a2/unit-33)
+
+Practica ahora:
+
+- [Ejercicios Unidad 32 A2 (con soluciones)](/blog/curso-a2/unidad-32-phrasal-verbs-separables-ejercicios-soluciones)
+- [Unidad 32 — Phrasal Verbs: Separable](/curso-a2/unit-32)
 
 Guías relacionadas:
 

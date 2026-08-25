@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-33-gerunds-infinitive
 image: /blog/curso-a2/unit-33/a2-unit33-gerunds-infinitives.png
 alt: Esquema de gerundios e infinitivos A2
 related_routes:
+  - unidad-33-gerunds-infinitives-ejercicios-soluciones
   - unidad-32-phrasal-verbs-separables
   - gerundios-e-infinitivos
   - verbos-seguidos-de-infinitivo-o-gerundio
@@ -42,9 +43,8 @@ faqs:
       rest.
   - question: ¿Dónde practico la Unidad 33 del curso A2?
     answer: >-
-      En la Unidad 33 del curso A2 de Linguafly practicarás gerundios e
-      infinitivos en gramática, vocabulario, reading, listening, speaking y
-      writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-33-gerunds-infinitives-ejercicios-soluciones) y en la Unidad 33 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 33 del curso A2: like/love/hate + -ing y want/need/would
   like + to, con audios y ejercicios.
@@ -427,7 +427,7 @@ Escribe sobre tus gustos y un plan. Incluye:
 
 1. Aprende **verbos en grupos**, no reglas abstractas largas.  
 2. Di en voz alta pares: *I like cooking* / *I'd like to cook tonight*.  
-3. Practica en la [Unidad 33 del curso A2](/curso-a2/unit-33).
+3. Practica en el [cuaderno de ejercicios de la Unidad 33](/blog/curso-a2/unidad-33-gerunds-infinitives-ejercicios-soluciones) y en la [Unidad 33 del curso A2](/curso-a2/unit-33).
 
 La **Unidad 34** trabaja **Subject & Object Questions** (*Who called you?* / *Who did you call?*).
 
@@ -454,6 +454,11 @@ Guía blog:
 Curso:
 
 - [Unidad 34 — Subject & Object Questions](/curso-a2/unit-34)
+
+Practica ahora:
+
+- [Ejercicios Unidad 33 A2 (con soluciones)](/blog/curso-a2/unidad-33-gerunds-infinitives-ejercicios-soluciones)
+- [Unidad 33 — Gerunds & Infinitives](/curso-a2/unit-33)
 
 Guías relacionadas:
 
