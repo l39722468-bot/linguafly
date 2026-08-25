@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-9-preposiciones-lugar
 image: /blog/curso-a2/unit-9/a2-unit9-prepositions-movement.png
 alt: Esquema into out of through across para inglés A2
 related_routes:
+  - unidad-9-preposiciones-lugar-movimiento-ejercicios-soluciones
   - preposiciones-movimiento-ingles
   - ingles-para-viajar
   - unidad-24-preposiciones-lugar-next-to-between
@@ -42,8 +43,8 @@ faqs:
       movimiento claro hacia el interior: She went into the room.
   - question: ¿Dónde practico la Unidad 9 del curso A2?
     answer: >-
-      En la Unidad 9 del curso A2 de Linguafly practicarás into, out of, through
-      y across en gramática, vocabulario, reading, listening, speaking y
+      En el cuaderno de ejercicios con soluciones y en la Unidad 9 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
   Guía de la Unidad 9 del curso A2: preposiciones de lugar y movimiento into,
@@ -428,7 +429,7 @@ Escribe 8–12 frases sobre un día en la ciudad. Incluye:
 1. Pregunta: ¿entro, salgo o cruzo? ¿Cruzo por **dentro** o por una **superficie**?  
 2. Lista: *room, bag, car, park, forest, tunnel, street, bridge, river, cafe* → di la preposición típica.  
 3. Grábate: *I went into… I walked through… I ran across… I came out of…*  
-4. Practica en la [Unidad 9 del curso A2](/curso-a2/unit-9).
+4. Practica en el [cuaderno de ejercicios de la Unidad 9](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento-ejercicios-soluciones) y en la [Unidad 9 del curso A2](/curso-a2/unit-9).
 
 La **Unidad 10** es el **repaso del Módulo 1**: Past Simple, comparativos, superlativos, adverbios y preposiciones.
 
@@ -457,6 +458,11 @@ Guía blog:
 Curso:
 
 - [Unidad 10 — Module 1 Review](/curso-a2/unit-10)
+
+Practica ahora:
+
+- [Ejercicios Unidad 9 A2 (con soluciones)](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento-ejercicios-soluciones)
+- [Unidad 9 — Preposiciones de lugar y movimiento](/curso-a2/unit-9)
 
 Guías relacionadas:
 

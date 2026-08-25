@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-10-repaso-modulo-1'
 image: /blog/curso-a2/unit-10/a2-unit10-module1-review.png
 alt: Esquema de repaso del Módulo 1 del curso A2
 related_routes:
+  - unidad-10-repaso-modulo-1-ejercicios-soluciones
   - past-simple-usos-reglas
   - past-simple-verbos-irregulares
   - preposiciones-movimiento-ingles
@@ -44,8 +45,9 @@ faqs:
       into, out of, through, across.
   - question: ¿Dónde practico la Unidad 10 del curso A2?
     answer: >-
-      En la Unidad 10 del curso A2 de Linguafly harás un repaso integrado en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 10 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 10 del curso A2: repaso del Módulo 1 con Past Simple,
   comparaciones, adverbios y preposiciones, audios y ejercicios.
@@ -429,7 +431,7 @@ Escribe 10–14 frases sobre *last week* / *last weekend*. Debe incluir:
 1. No estudies cada tema aislado: **fuerza la mezcla** (como Anna).  
 2. Lista de “mínimos”: *went, saw, had, taller, the tallest, fluently, at, on, in, into, through, across*.  
 3. Grábate 60 segundos sobre *last weekend*.  
-4. Practica en la [Unidad 10 del curso A2](/curso-a2/unit-10).
+4. Practica en el [cuaderno de ejercicios de la Unidad 10](/blog/curso-a2/unidad-10-repaso-modulo-1-ejercicios-soluciones) y en la [Unidad 10 del curso A2](/curso-a2/unit-10).
 
 La **Unidad 11** abre el **Módulo 2** con **Present Perfect**: *I have been to…*
 
@@ -461,6 +463,11 @@ Guía blog:
 Curso:
 
 - [Unidad 11 — Present Perfect: Introducción](/curso-a2/unit-11)
+
+Practica ahora:
+
+- [Ejercicios Unidad 10 A2 (con soluciones)](/blog/curso-a2/unidad-10-repaso-modulo-1-ejercicios-soluciones)
+- [Unidad 10 — Module 1 Review](/curso-a2/unit-10)
 
 Guías del Módulo 1 (repaso):
 

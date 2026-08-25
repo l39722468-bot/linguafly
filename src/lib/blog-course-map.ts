@@ -513,7 +513,13 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-9-preposiciones-lugar-movimiento': [
     { courseId: 'a2', unitNumber: 9 },
   ],
+  'unidad-9-preposiciones-lugar-movimiento-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 9 },
+  ],
   'unidad-10-repaso-modulo-1': [
+    { courseId: 'a2', unitNumber: 10 },
+  ],
+  'unidad-10-repaso-modulo-1-ejercicios-soluciones': [
     { courseId: 'a2', unitNumber: 10 },
   ],
   'unidad-11-present-perfect-introduccion': [

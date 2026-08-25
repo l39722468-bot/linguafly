@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U8)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U10)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -41,8 +41,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | 6 | Superlatives | *-est*, the most, in/of | ✅ | [Superlativos A2](/blog/curso-a2/unidad-6-superlativos-est-the-most) · [Ejercicios + soluciones](/blog/curso-a2/unidad-6-superlativos-est-the-most-ejercicios-soluciones) |
 | 7 | Adverbs of Manner | *-ly*; well, badly, fast, hard | ✅ | [Adverbios de modo A2](/blog/curso-a2/unidad-7-adverbios-modo-ly) · [Ejercicios + soluciones](/blog/curso-a2/unidad-7-adverbios-modo-ly-ejercicios-soluciones) |
 | 8 | Prepositions of Time | at / on / in | ✅ | [Preposiciones de tiempo A2](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in) · [Ejercicios + soluciones](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in-ejercicios-soluciones) |
-| 9 | Prepositions of Place & Movement | into, out of, through… | ✅ | [Preposiciones de lugar y movimiento A2](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento) |
-| 10 | Module 1 Review | Repaso módulo 1 | ✅ | [Repaso Módulo 1 A2](/blog/curso-a2/unidad-10-repaso-modulo-1) |
+| 9 | Prepositions of Place & Movement | into, out of, through… | ✅ | [Preposiciones de lugar y movimiento A2](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento) · [Ejercicios + soluciones](/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento-ejercicios-soluciones) |
+| 10 | Module 1 Review | Repaso módulo 1 | ✅ | [Repaso Módulo 1 A2](/blog/curso-a2/unidad-10-repaso-modulo-1) · [Ejercicios + soluciones](/blog/curso-a2/unidad-10-repaso-modulo-1-ejercicios-soluciones) |
 
 ---
 
