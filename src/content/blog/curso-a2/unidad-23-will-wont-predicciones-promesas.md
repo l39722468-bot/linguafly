@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-23-will-wont-predicci
 image: /blog/curso-a2/unit-23/a2-unit23-will-wont.png
 alt: Esquema de will y won't para promesas y predicciones A2
 related_routes:
+  - unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones
   - unidad-22-going-to-predicciones
   - unidad-21-going-to-planes-intenciones
   - will-going-to-diferencia
@@ -44,8 +45,8 @@ faqs:
       Yes, I will. / No, I won't.
   - question: ¿Dónde practico la Unidad 23 del curso A2?
     answer: >-
-      En la Unidad 23 del curso A2 de Linguafly practicarás will/won't en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones) y en la Unidad 23 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 23 del curso A2: will y won't para promesas, ofertas y
   predicciones, con audios y ejercicios.
@@ -425,7 +426,7 @@ Escribe 8–12 líneas (carta o mensaje):
 
 1. ¿Prometes, ofreces o predices? → elige **will**.  
 2. ¿Plan ya decidido o evidencia clara? → vuelve a **going to**.  
-3. Practica en la [Unidad 23 del curso A2](/curso-a2/unit-23).
+3. Practica en el [cuaderno de ejercicios de la Unidad 23](/blog/curso-a2/unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones) y en la [Unidad 23 del curso A2](/curso-a2/unit-23).
 
 La **Unidad 24** introduce el **Present Continuous for Future**: citas y planes ya fijados (*I'm meeting John tomorrow*).
 
@@ -453,6 +454,11 @@ Guía blog:
 Curso:
 
 - [Unidad 24 — Present Continuous for Future](/curso-a2/unit-24)
+
+Practica ahora:
+
+- [Ejercicios Unidad 23 A2 (con soluciones)](/blog/curso-a2/unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones)
+- [Unidad 23 — Will / Won't: Predictions & Promises](/curso-a2/unit-23)
 
 Guías relacionadas:
 

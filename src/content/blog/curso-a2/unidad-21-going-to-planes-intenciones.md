@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-21-going-to-planes-in
 image: /blog/curso-a2/unit-21/a2-unit21-going-to.png
 alt: Esquema de going to para planes e intenciones A2
 related_routes:
+  - unidad-21-going-to-planes-intenciones-ejercicios-soluciones
   - will-going-to-diferencia
   - will-futuro-ingles
   - unidad-20-repaso-modulo-2
@@ -42,8 +43,8 @@ faqs:
       going to visiting. Correcto: I am going to visit.
   - question: ¿Dónde practico la Unidad 21 del curso A2?
     answer: >-
-      En la Unidad 21 del curso A2 de Linguafly practicarás going to en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-21-going-to-planes-intenciones-ejercicios-soluciones) y en la Unidad 21 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 21 del curso A2: going to para planes e intenciones,
   afirmativa, negativa e interrogativa, con audios y ejercicios.
@@ -421,7 +422,7 @@ Escribe 8–12 líneas sobre tus planes:
 
 1. Primero decide el **plan** (¿qué? ¿cuándo?).  
 2. Elige *am / is / are* según el sujeto.  
-3. Practica en la [Unidad 21 del curso A2](/curso-a2/unit-21).
+3. Practica en el [cuaderno de ejercicios de la Unidad 21](/blog/curso-a2/unidad-21-going-to-planes-intenciones-ejercicios-soluciones) y en la [Unidad 21 del curso A2](/curso-a2/unit-21).
 
 La **Unidad 22** amplía *going to* a **predicciones** con evidencia: *Look at the clouds! It's going to rain.*
 
@@ -449,6 +450,11 @@ Guía blog:
 Curso:
 
 - [Unidad 22 — Going to: Predictions](/curso-a2/unit-22)
+
+Practica ahora:
+
+- [Ejercicios Unidad 21 A2 (con soluciones)](/blog/curso-a2/unidad-21-going-to-planes-intenciones-ejercicios-soluciones)
+- [Unidad 21 — Going to: Plans & Intentions](/curso-a2/unit-21)
 
 Guías relacionadas:
 

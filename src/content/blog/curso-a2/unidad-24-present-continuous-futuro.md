@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-24-present-continuous
 image: /blog/curso-a2/unit-24/a2-unit24-pc-future.png
 alt: Esquema de Present Continuous para futuro A2
 related_routes:
+  - unidad-24-present-continuous-futuro-ejercicios-soluciones
   - unidad-23-will-wont-predicciones-promesas
   - unidad-21-going-to-planes-intenciones
   - will-going-to-diferencia
@@ -44,9 +45,8 @@ faqs:
       him? Where are you flying to? Are you free on Saturday?
   - question: ¿Dónde practico la Unidad 24 del curso A2?
     answer: >-
-      En la Unidad 24 del curso A2 de Linguafly practicarás Present Continuous
-      for Future en gramática, vocabulario, reading, listening, speaking y
-      writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-24-present-continuous-futuro-ejercicios-soluciones) y en la Unidad 24 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 24 del curso A2: Present Continuous para citas y planes ya
   fijados, con audios y ejercicios.
@@ -421,7 +421,7 @@ Escribe 8–12 líneas sobre **tu** próxima semana:
 
 1. Si está en el **calendario** (día + hora/persona) → Present Continuous.  
 2. Si es promesa u oferta → *will*.  
-3. Practica en la [Unidad 24 del curso A2](/curso-a2/unit-24).
+3. Practica en el [cuaderno de ejercicios de la Unidad 24](/blog/curso-a2/unidad-24-present-continuous-futuro-ejercicios-soluciones) y en la [Unidad 24 del curso A2](/curso-a2/unit-24).
 
 La **Unidad 25** compara **Going to vs Will vs Present Continuous**.
 
@@ -448,6 +448,11 @@ Guía blog:
 Curso:
 
 - [Unidad 25 — Future: Going to vs Will vs Present Continuous](/curso-a2/unit-25)
+
+Practica ahora:
+
+- [Ejercicios Unidad 24 A2 (con soluciones)](/blog/curso-a2/unidad-24-present-continuous-futuro-ejercicios-soluciones)
+- [Unidad 24 — Present Continuous for Future](/curso-a2/unit-24)
 
 Guías relacionadas:
 

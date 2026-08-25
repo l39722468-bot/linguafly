@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-22-going-to-prediccio
 image: /blog/curso-a2/unit-22/a2-unit22-predictions.png
 alt: Esquema de going to para predicciones A2
 related_routes:
+  - unidad-22-going-to-predicciones-ejercicios-soluciones
   - unidad-21-going-to-planes-intenciones
   - will-going-to-diferencia
   - will-futuro-ingles
@@ -43,9 +44,8 @@ faqs:
       It is going to rain. Be careful! That cup is going to fall.
   - question: ¿Dónde practico la Unidad 22 del curso A2?
     answer: >-
-      En la Unidad 22 del curso A2 de Linguafly practicarás predicciones con
-      going to en gramática, vocabulario, reading, listening, speaking y
-      writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-22-going-to-predicciones-ejercicios-soluciones) y en la Unidad 22 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 22 del curso A2: going to para predicciones con evidencia,
   I think / I'm sure, audios y ejercicios.
@@ -411,7 +411,7 @@ Escribe 8–12 líneas:
 
 1. Primero mira la **evidencia** (nubes, estudio, pronóstico…).  
 2. Luego elige *I think* o *I'm sure*.  
-3. Practica en la [Unidad 22 del curso A2](/curso-a2/unit-22).
+3. Practica en el [cuaderno de ejercicios de la Unidad 22](/blog/curso-a2/unidad-22-going-to-predicciones-ejercicios-soluciones) y en la [Unidad 22 del curso A2](/curso-a2/unit-22).
 
 La **Unidad 23** introduce **will / won't** para predicciones generales, promesas y ofertas: *I'll help you.*
 
@@ -439,6 +439,11 @@ Guía blog:
 Curso:
 
 - [Unidad 23 — Will / Won't](/curso-a2/unit-23)
+
+Practica ahora:
+
+- [Ejercicios Unidad 22 A2 (con soluciones)](/blog/curso-a2/unidad-22-going-to-predicciones-ejercicios-soluciones)
+- [Unidad 22 — Going to: Predictions](/curso-a2/unit-22)
 
 Guías relacionadas:
 

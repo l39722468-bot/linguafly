@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-25-futuro-going-to-wi
 image: /blog/curso-a2/unit-25/a2-unit25-three-futures.png
 alt: Esquema de contraste de futuros A2 going to will Present Continuous
 related_routes:
+  - unidad-25-futuro-going-to-will-present-continuous-ejercicios-soluciones
   - unidad-24-present-continuous-futuro
   - unidad-23-will-wont-predicciones-promesas
   - unidad-21-going-to-planes-intenciones
@@ -45,9 +46,8 @@ faqs:
       Going to con evidencia: Look! The sky is dark. It is going to rain soon.
   - question: ¿Dónde practico la Unidad 25 del curso A2?
     answer: >-
-      En la Unidad 25 del curso A2 de Linguafly practicarás el contraste de
-      futuros en gramática, vocabulario, reading, listening, speaking y
-      writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous-ejercicios-soluciones) y en la Unidad 25 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 25 del curso A2: contraste going to vs will vs Present
   Continuous, con audios y ejercicios.
@@ -404,7 +404,7 @@ Escribe 8–12 líneas mezclando las **tres** formas:
 
 1. Pregunta: ¿agenda, evidencia o promesa?  
 2. Luego elige la forma.  
-3. Practica en la [Unidad 25 del curso A2](/curso-a2/unit-25).
+3. Practica en el [cuaderno de ejercicios de la Unidad 25](/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous-ejercicios-soluciones) y en la [Unidad 25 del curso A2](/curso-a2/unit-25).
 
 La **Unidad 26** introduce el **First Conditional**: *If it rains, I'll stay at home.*
 
@@ -431,6 +431,11 @@ Guía blog:
 Curso:
 
 - [Unidad 26 — First Conditional](/curso-a2/unit-26)
+
+Practica ahora:
+
+- [Ejercicios Unidad 25 A2 (con soluciones)](/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous-ejercicios-soluciones)
+- [Unidad 25 — Future: Going to vs Will vs Present Continuous](/curso-a2/unit-25)
 
 Guías relacionadas:
 

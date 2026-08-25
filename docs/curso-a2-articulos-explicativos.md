@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U20)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U25)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -69,11 +69,11 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 21 | Going to: Plans & Intentions | *am/is/are going to* + infinitivo | ✅ | [Going to planes A2](/blog/curso-a2/unidad-21-going-to-planes-intenciones) |
-| 22 | Going to: Predictions | predicciones con evidencia; *I think / I'm sure* | ✅ | [Going to predicciones A2](/blog/curso-a2/unidad-22-going-to-predicciones) |
-| 23 | Will / Won't: Predictions & Promises | *will/won't*; promesas, ofertas | ✅ | [Will / Won't A2](/blog/curso-a2/unidad-23-will-wont-predicciones-promesas) |
-| 24 | Present Continuous for Future | citas / planes fijados | ✅ | [Present Continuous futuro A2](/blog/curso-a2/unidad-24-present-continuous-futuro) |
-| 25 | Future: Going to vs Will vs Present Continuous | contraste de futuros | ✅ | [Futuro contraste A2](/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous) |
+| 21 | Going to: Plans & Intentions | *am/is/are going to* + infinitivo | ✅ | [Going to planes A2](/blog/curso-a2/unidad-21-going-to-planes-intenciones) · [Ejercicios + soluciones](/blog/curso-a2/unidad-21-going-to-planes-intenciones-ejercicios-soluciones) |
+| 22 | Going to: Predictions | predicciones con evidencia; *I think / I'm sure* | ✅ | [Going to predicciones A2](/blog/curso-a2/unidad-22-going-to-predicciones) · [Ejercicios + soluciones](/blog/curso-a2/unidad-22-going-to-predicciones-ejercicios-soluciones) |
+| 23 | Will / Won't: Predictions & Promises | *will/won't*; promesas, ofertas | ✅ | [Will / Won't A2](/blog/curso-a2/unidad-23-will-wont-predicciones-promesas) · [Ejercicios + soluciones](/blog/curso-a2/unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones) |
+| 24 | Present Continuous for Future | citas / planes fijados | ✅ | [Present Continuous futuro A2](/blog/curso-a2/unidad-24-present-continuous-futuro) · [Ejercicios + soluciones](/blog/curso-a2/unidad-24-present-continuous-futuro-ejercicios-soluciones) |
+| 25 | Future: Going to vs Will vs Present Continuous | contraste de futuros | ✅ | [Futuro contraste A2](/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous) · [Ejercicios + soluciones](/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous-ejercicios-soluciones) |
 | 26 | First Conditional | *If* + Present, *will* | ✅ | [First Conditional A2](/blog/curso-a2/unidad-26-first-conditional) |
 | 27 | Zero Conditional | *If* + Present, Present | ✅ | [Zero Conditional A2](/blog/curso-a2/unidad-27-zero-conditional) |
 | 28 | Have to / Don't have to | obligación / no necesario | ✅ | [Have to A2](/blog/curso-a2/unidad-28-have-to-dont-have-to) |

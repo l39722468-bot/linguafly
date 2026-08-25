@@ -597,6 +597,21 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-25-futuro-going-to-will-present-continuous': [
     { courseId: 'a2', unitNumber: 25 },
   ],
+  'unidad-21-going-to-planes-intenciones-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 21 },
+  ],
+  'unidad-22-going-to-predicciones-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 22 },
+  ],
+  'unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 23 },
+  ],
+  'unidad-24-present-continuous-futuro-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 24 },
+  ],
+  'unidad-25-futuro-going-to-will-present-continuous-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 25 },
+  ],
   'unidad-26-first-conditional': [
     { courseId: 'a2', unitNumber: 26 },
   ],
