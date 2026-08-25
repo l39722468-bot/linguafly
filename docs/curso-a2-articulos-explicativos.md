@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U15)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U20)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -55,11 +55,11 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | 13 | Present Perfect: Already & Yet | already / yet | ✅ | [Present Perfect already/yet A2](/blog/curso-a2/unidad-13-present-perfect-already-yet) · [Ejercicios + soluciones](/blog/curso-a2/unidad-13-present-perfect-already-yet-ejercicios-soluciones) |
 | 14 | Present Perfect: Just | just | ✅ | [Present Perfect just A2](/blog/curso-a2/unidad-14-present-perfect-just) · [Ejercicios + soluciones](/blog/curso-a2/unidad-14-present-perfect-just-ejercicios-soluciones) |
 | 15 | Present Perfect vs Past Simple | contraste | ✅ | [Present Perfect vs Past Simple A2](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple) · [Ejercicios + soluciones](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple-ejercicios-soluciones) |
-| 16 | Past Continuous | was/were + -ing | ✅ | [Past Continuous A2](/blog/curso-a2/unidad-16-past-continuous) |
-| 17 | Past Simple + Past Continuous | when / while | ✅ | [Past Simple + Past Continuous A2](/blog/curso-a2/unidad-17-past-simple-past-continuous) |
-| 18 | For & Since | for / since + Present Perfect | ✅ | [For & Since A2](/blog/curso-a2/unidad-18-for-since) |
-| 19 | How Questions | How long / often / much / many | ✅ | [How questions A2](/blog/curso-a2/unidad-19-how-questions) |
-| 20 | Module 2 Review | repaso módulo 2 | ✅ | [Repaso Módulo 2 A2](/blog/curso-a2/unidad-20-repaso-modulo-2) |
+| 16 | Past Continuous | was/were + -ing | ✅ | [Past Continuous A2](/blog/curso-a2/unidad-16-past-continuous) · [Ejercicios + soluciones](/blog/curso-a2/unidad-16-past-continuous-ejercicios-soluciones) |
+| 17 | Past Simple + Past Continuous | when / while | ✅ | [Past Simple + Past Continuous A2](/blog/curso-a2/unidad-17-past-simple-past-continuous) · [Ejercicios + soluciones](/blog/curso-a2/unidad-17-past-simple-past-continuous-ejercicios-soluciones) |
+| 18 | For & Since | for / since + Present Perfect | ✅ | [For & Since A2](/blog/curso-a2/unidad-18-for-since) · [Ejercicios + soluciones](/blog/curso-a2/unidad-18-for-since-ejercicios-soluciones) |
+| 19 | How Questions | How long / often / much / many | ✅ | [How questions A2](/blog/curso-a2/unidad-19-how-questions) · [Ejercicios + soluciones](/blog/curso-a2/unidad-19-how-questions-ejercicios-soluciones) |
+| 20 | Module 2 Review | repaso módulo 2 | ✅ | [Repaso Módulo 2 A2](/blog/curso-a2/unidad-20-repaso-modulo-2) · [Ejercicios + soluciones](/blog/curso-a2/unidad-20-repaso-modulo-2-ejercicios-soluciones) |
 
 Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 

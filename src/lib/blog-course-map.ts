@@ -555,16 +555,31 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-16-past-continuous': [
     { courseId: 'a2', unitNumber: 16 },
   ],
+  'unidad-16-past-continuous-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 16 },
+  ],
   'unidad-17-past-simple-past-continuous': [
+    { courseId: 'a2', unitNumber: 17 },
+  ],
+  'unidad-17-past-simple-past-continuous-ejercicios-soluciones': [
     { courseId: 'a2', unitNumber: 17 },
   ],
   'unidad-18-for-since': [
     { courseId: 'a2', unitNumber: 18 },
   ],
+  'unidad-18-for-since-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 18 },
+  ],
   'unidad-19-how-questions': [
     { courseId: 'a2', unitNumber: 19 },
   ],
+  'unidad-19-how-questions-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 19 },
+  ],
   'unidad-20-repaso-modulo-2': [
+    { courseId: 'a2', unitNumber: 20 },
+  ],
+  'unidad-20-repaso-modulo-2-ejercicios-soluciones': [
     { courseId: 'a2', unitNumber: 20 },
   ],
   'unidad-21-going-to-planes-intenciones': [

@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-17-past-simple-past-c
 image: /blog/curso-a2/unit-17/a2-unit17-ps-pc.png
 alt: Esquema Past Simple y Past Continuous con when y while A2
 related_routes:
+  - unidad-17-past-simple-past-continuous-ejercicios-soluciones
   - past-simple-vs-past-continuous
   - past-simple-usos-reglas
   - errores-tiempos-pasado-espanoles
@@ -44,8 +45,9 @@ faqs:
       was walking… Suddenly it started to rain… Finally the sun came out.
   - question: ¿Dónde practico la Unidad 17 del curso A2?
     answer: >-
-      En la Unidad 17 del curso A2 de Linguafly practicarás when/while y ambos
-      tiempos en gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 17 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 17 del curso A2: Past Simple + Past Continuous con when y
   while, relatos, audios y ejercicios.
@@ -424,7 +426,7 @@ Escribe 8–12 frases con:
 
 1. Plantilla: *I was … when …* / *While … was …, …*  
 2. Conectores: *At first → Then → Suddenly → Finally*.  
-3. Practica en la [Unidad 17 del curso A2](/curso-a2/unit-17).
+3. Practica en el [cuaderno de ejercicios de la Unidad 17](/blog/curso-a2/unidad-17-past-simple-past-continuous-ejercicios-soluciones) y en la [Unidad 17 del curso A2](/curso-a2/unit-17).
 
 La **Unidad 18** introduce **for & since** con Present Perfect: *I have lived here for two years / since 2020*.
 
@@ -453,6 +455,11 @@ Guía blog:
 Curso:
 
 - [Unidad 18 — For & Since](/curso-a2/unit-18)
+
+Practica ahora:
+
+- [Ejercicios Unidad 17 A2 (con soluciones)](/blog/curso-a2/unidad-17-past-simple-past-continuous-ejercicios-soluciones)
+- [Unidad 17 — Past Simple + Past Continuous](/curso-a2/unit-17)
 
 Guías relacionadas:
 

@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-19-how-questions'
 image: /blog/curso-a2/unit-19/a2-unit19-how-questions.png
 alt: Esquema de preguntas How en inglés A2
 related_routes:
+  - unidad-19-how-questions-ejercicios-soluciones
   - present-perfect-since-for
   - unidad-54-how-much-how-many
   - unidad-33-adverbios-frecuencia
@@ -42,8 +43,9 @@ faqs:
       Respuesta típica con ago: Two hours ago. / Three years ago.
   - question: ¿Dónde practico la Unidad 19 del curso A2?
     answer: >-
-      En la Unidad 19 del curso A2 de Linguafly practicarás How questions en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 19 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 19 del curso A2: preguntas How long, How often, How much, How
   many y How long ago, con audios y ejercicios.
@@ -426,7 +428,7 @@ Escribe 8–12 líneas:
 
 1. Primero elige **qué** preguntas (tiempo, frecuencia, cantidad…).  
 2. Luego elige la forma *How…?* correcta.  
-3. Practica en la [Unidad 19 del curso A2](/curso-a2/unit-19).
+3. Practica en el [cuaderno de ejercicios de la Unidad 19](/blog/curso-a2/unidad-19-how-questions-ejercicios-soluciones) y en la [Unidad 19 del curso A2](/curso-a2/unit-19).
 
 La **Unidad 20** es el **repaso del Módulo 2**: Present Perfect, Past Continuous, *for/since* y *How* questions.
 
@@ -455,6 +457,11 @@ Guía blog:
 Curso:
 
 - [Unidad 20 — Module 2 Review](/curso-a2/unit-20)
+
+Practica ahora:
+
+- [Ejercicios Unidad 19 A2 (con soluciones)](/blog/curso-a2/unidad-19-how-questions-ejercicios-soluciones)
+- [Unidad 19 — How questions](/curso-a2/unit-19)
 
 Guías relacionadas:
 

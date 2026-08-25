@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-20-repaso-modulo-2'
 image: /blog/curso-a2/unit-20/a2-unit20-module2-review.png
 alt: Esquema de repaso del Módulo 2 del curso A2
 related_routes:
+  - unidad-20-repaso-modulo-2-ejercicios-soluciones
   - present-perfect-usos-principales
   - present-perfect-vs-past-simple
   - past-simple-vs-past-continuous
@@ -44,8 +45,9 @@ faqs:
       many (contable) y How long ago (pasado + ago).
   - question: ¿Dónde practico la Unidad 20 del curso A2?
     answer: >-
-      En la Unidad 20 del curso A2 de Linguafly harás un repaso integrado en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 20 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 20 del curso A2: repaso del Módulo 2 con Present Perfect,
   Past Continuous, for/since y How questions, audios y ejercicios.
@@ -372,7 +374,7 @@ Escribe 10–14 frases que incluyan:
 1. No estudies cada tema aislado: **fuerza la mezcla** (como David).  
 2. Mínimos: *have been, already, yet, just, was walking when, for, since, How often*.  
 3. Grábate 60–90 segundos sobre tu vida ahora + algo que pasó la semana pasada.  
-4. Practica en la [Unidad 20 del curso A2](/curso-a2/unit-20).
+4. Practica en el [cuaderno de ejercicios de la Unidad 20](/blog/curso-a2/unidad-20-repaso-modulo-2-ejercicios-soluciones) y en la [Unidad 20 del curso A2](/curso-a2/unit-20).
 
 La **Unidad 21** abre el **Módulo 3** con **Going to**: planes e intenciones (*I'm going to…*).
 
@@ -403,6 +405,11 @@ Guía blog:
 Curso:
 
 - [Unidad 21 — Going to](/curso-a2/unit-21)
+
+Practica ahora:
+
+- [Ejercicios Unidad 20 A2 (con soluciones)](/blog/curso-a2/unidad-20-repaso-modulo-2-ejercicios-soluciones)
+- [Unidad 20 — Module 2 Review](/curso-a2/unit-20)
 
 Guías del Módulo 2 (repaso):
 

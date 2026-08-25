@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-16-past-continuous'
 image: /blog/curso-a2/unit-16/a2-unit16-past-continuous.png
 alt: Esquema Past Continuous was/were + -ing A2
 related_routes:
+  - unidad-16-past-continuous-ejercicios-soluciones
   - past-simple-vs-past-continuous
   - past-simple-usos-reglas
   - errores-tiempos-pasado-espanoles
@@ -43,8 +44,9 @@ faqs:
       17 los combinas con when/while.
   - question: ¿Dónde practico la Unidad 16 del curso A2?
     answer: >-
-      En la Unidad 16 del curso A2 de Linguafly practicarás was/were + -ing en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 16 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 16 del curso A2: Past Continuous (was/were + -ing), acciones
   en curso, audios y ejercicios.
@@ -430,7 +432,7 @@ Escribe 8–12 frases sobre un momento del pasado (anoche / el sábado / ayer a 
 
 1. Plantilla: *At 8pm I was… My friend was… They were…*  
 2. Vocabulario rápido: *watch, study, cook, read, play, walk, run, sleep*.  
-3. Practica en la [Unidad 16 del curso A2](/curso-a2/unit-16).
+3. Practica en el [cuaderno de ejercicios de la Unidad 16](/blog/curso-a2/unidad-16-past-continuous-ejercicios-soluciones) y en la [Unidad 16 del curso A2](/curso-a2/unit-16).
 
 La **Unidad 17** combina **Past Simple + Past Continuous**: *When I was walking, I saw…*
 
@@ -459,6 +461,11 @@ Guía blog:
 Curso:
 
 - [Unidad 17 — Past Simple + Past Continuous](/curso-a2/unit-17)
+
+Practica ahora:
+
+- [Ejercicios Unidad 16 A2 (con soluciones)](/blog/curso-a2/unidad-16-past-continuous-ejercicios-soluciones)
+- [Unidad 16 — Past Continuous](/curso-a2/unit-16)
 
 Guías relacionadas:
 

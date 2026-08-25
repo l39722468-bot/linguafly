@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-18-for-since'
 image: /blog/curso-a2/unit-18/a2-unit18-for-since.png
 alt: Esquema for y since con Present Perfect A2
 related_routes:
+  - unidad-18-for-since-ejercicios-soluciones
   - present-perfect-since-for
   - present-perfect-usos-principales
   - present-perfect-vs-past-simple
@@ -43,8 +44,9 @@ faqs:
       years. No mezcles: evita for 2020 y since five years.
   - question: ¿Dónde practico la Unidad 18 del curso A2?
     answer: >-
-      En la Unidad 18 del curso A2 de Linguafly practicarás for/since en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 18 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 18 del curso A2: for y since con Present Perfect, duración y
   punto de inicio, audios y ejercicios.
@@ -398,7 +400,7 @@ Escribe 8–12 frases:
 
 1. Pregunta: **¿Duración o punto?** → *for* / *since*.  
 2. Plantilla: *I have … for …* / *I have … since …*  
-3. Practica en la [Unidad 18 del curso A2](/curso-a2/unit-18).
+3. Practica en el [cuaderno de ejercicios de la Unidad 18](/blog/curso-a2/unidad-18-for-since-ejercicios-soluciones) y en la [Unidad 18 del curso A2](/curso-a2/unit-18).
 
 La **Unidad 19** trabaja **How questions**: *How often…? How much…? How long…?* y más.
 
@@ -427,6 +429,11 @@ Guía blog:
 Curso:
 
 - [Unidad 19 — How Questions](/curso-a2/unit-19)
+
+Practica ahora:
+
+- [Ejercicios Unidad 18 A2 (con soluciones)](/blog/curso-a2/unidad-18-for-since-ejercicios-soluciones)
+- [Unidad 18 — For & Since](/curso-a2/unit-18)
 
 Guías relacionadas:
 
