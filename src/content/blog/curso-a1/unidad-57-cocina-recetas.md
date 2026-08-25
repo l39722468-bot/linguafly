@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-57-cocina-recetas'
 image: /blog/curso-a1/unit-57/a1-unit57-first-then-finally.png
 alt: Esquema First Then Finally en recetas de cocina A1
 related_routes:
+  - unidad-57-cocina-recetas-ejercicios-soluciones
   - ingles-en-la-cocina
   - ingles-restaurantes-bares-viaje
   - ingles-a1
@@ -41,8 +42,9 @@ faqs:
       ingredients. Boil the water.
   - question: ¿Dónde practico la Unidad 57 del curso A1?
     answer: >-
-      En la Unidad 57 del curso A1 de Linguafly practicarás secuenciadores y
-      verbos de cocina en gramática, vocabulario, reading y listening.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 57 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 57 del curso A1: recetas con First, Then, Finally y verbos
   cut, mix, fry, boil, bake, con audios y ejercicios.
@@ -389,7 +391,7 @@ Escribe una receta de 6–10 frases. Incluye:
 1. Empieza siempre con ***First*** y cierra con ***Finally***.  
 2. Un verbo = una acción clara (*Cut the tomatoes*).  
 3. Practica recetas reales de 4–6 pasos.  
-4. Practica en la [Unidad 57 del curso A1](/curso-a1/unit-57).
+4. Practica en el [cuaderno de ejercicios de la Unidad 57](/blog/curso-a1/unidad-57-cocina-recetas-ejercicios-soluciones) y en la [Unidad 57 del curso A1](/curso-a1/unit-57).
 
 La **Unidad 58** cambia de tema: **Health & Illness** (*should / shouldn't*, *headache, fever, cold*).
 
@@ -415,6 +417,11 @@ Guía dedicada y curso:
 
 - [Unidad 58 — Health & Illness](/blog/curso-a1/unidad-58-salud-should)
 - [Unidad 58 — Health & Illness](/curso-a1/unit-58)
+
+Practica ahora:
+
+- [Ejercicios Unidad 57 A1 (con soluciones)](/blog/curso-a1/unidad-57-cocina-recetas-ejercicios-soluciones)
+- [Unidad 57 — Cooking & Recipes](/curso-a1/unit-57)
 
 Guías relacionadas:
 
