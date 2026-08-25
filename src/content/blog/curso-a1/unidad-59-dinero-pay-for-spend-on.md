@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-59-dinero-pay-for-spe
 image: /blog/curso-a1/unit-59/a1-unit59-pay-spend.png
 alt: Esquema pay for y spend on para dinero en inglés A1
 related_routes:
+  - unidad-59-dinero-pay-for-spend-on-ejercicios-soluciones
   - ingles-para-compras
   - ingles-mercados-regateo-viaje
   - ingles-a1
@@ -41,8 +42,9 @@ faqs:
       Can I have the receipt please? / Can I have a receipt please?
   - question: ¿Dónde practico la Unidad 59 del curso A1?
     answer: >-
-      En la Unidad 59 del curso A1 de Linguafly practicarás pay for / spend on y
-      vocabulario de dinero en gramática, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 59 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 59 del curso A1: pay for, spend on, cash, credit card,
   change y receipt, con audios y ejercicios.
@@ -403,7 +405,7 @@ Escribe 8–10 frases sobre una compra. Incluye:
 1. Memoriza el par: ***pay for*** / ***spend on***.  
 2. Practica números de dinero en voz alta (*twenty pounds*).  
 3. En la caja, une: precio → pago → change → receipt.  
-4. Practica en la [Unidad 59 del curso A1](/curso-a1/unit-59).
+4. Practica en el [cuaderno de ejercicios de la Unidad 59](/blog/curso-a1/unidad-59-dinero-pay-for-spend-on-ejercicios-soluciones) y en la [Unidad 59 del curso A1](/curso-a1/unit-59).
 
 La **Unidad 60** es el **Module 6 Review**: contables, *some/any*, *much/many*, *too/enough*, *should* y recetas.
 
@@ -430,6 +432,11 @@ Guía dedicada y curso:
 
 - [Unidad 60 — Repaso Módulo 6](/blog/curso-a1/unidad-60-repaso-modulo-6)
 - [Unidad 60 — Module 6 Review](/curso-a1/unit-60)
+
+Practica ahora:
+
+- [Ejercicios Unidad 59 A1 (con soluciones)](/blog/curso-a1/unidad-59-dinero-pay-for-spend-on-ejercicios-soluciones)
+- [Unidad 59 — Money & Currency](/curso-a1/unit-59)
 
 Guías relacionadas:
 
