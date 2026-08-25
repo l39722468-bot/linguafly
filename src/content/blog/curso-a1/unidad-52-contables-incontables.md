@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-52-contables-incontab
 image: /blog/curso-a1/unit-52/a1-unit52-countable-uncountable.png
 alt: Esquema countable vs uncountable con much many a lot of en A1
 related_routes:
+  - unidad-52-contables-incontables-ejercicios-soluciones
   - ingles-para-compras
   - gramatica-inglesa-guia
   - ingles-en-la-cocina
@@ -42,8 +43,9 @@ faqs:
       incontable: How much milk do we have?
   - question: ¿Dónde practico la Unidad 52 del curso A1?
     answer: >-
-      En la Unidad 52 del curso A1 de Linguafly practicarás much/many/a lot of y
-      vocabulario de comida en gramática, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 52 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 52 del curso A1: contables e incontables con much, many y a
   lot of, con audios y ejercicios.
@@ -453,7 +455,7 @@ Escribe 8–10 frases sobre tu nevera o compra. Incluye:
 1. Si dudas en afirmativa, usa ***a lot of***: funciona casi siempre.  
 2. Pregunta mental: ¿puedo decir *two ___?* → contable → *many*.  
 3. *Some / any* se practican a fondo en la Unidad 53.  
-4. Practica en la [Unidad 52 del curso A1](/curso-a1/unit-52).
+4. Practica en el [cuaderno de ejercicios de la Unidad 52](/blog/curso-a1/unidad-52-contables-incontables-ejercicios-soluciones) y en la [Unidad 52 del curso A1](/curso-a1/unit-52).
 
 La **Unidad 53** trabaja ***some & any*** en afirmativas, negativas y preguntas.
 
@@ -473,6 +475,11 @@ La **Unidad 53** trabaja ***some & any*** en afirmativas, negativas y preguntas.
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 52 A1 (con soluciones)](/blog/curso-a1/unidad-52-contables-incontables-ejercicios-soluciones)
+- [Unidad 52 del curso A1](/curso-a1/unit-52)
 
 En la **Unidad 53** estudiarás ***some & any***: *I need some milk* / *We don't have any eggs* / *Do you have any rice?*
 

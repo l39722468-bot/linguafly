@@ -119,7 +119,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
 | 51 | At the Supermarket | Plurales irregulares | ✅ | [Supermercado A1](/blog/curso-a1/unidad-51-supermercado-plurales) · [Ejercicios + soluciones](/blog/curso-a1/unidad-51-supermercado-plurales-ejercicios-soluciones) |
-| 52 | Countable & Uncountable | Contables/incontables | ✅ | [Contables A1](/blog/curso-a1/unidad-52-contables-incontables) |
+| 52 | Countable & Uncountable | Contables/incontables | ✅ | [Contables A1](/blog/curso-a1/unidad-52-contables-incontables) · [Ejercicios + soluciones](/blog/curso-a1/unidad-52-contables-incontables-ejercicios-soluciones) |
 | 53 | Some & Any | *some/any* | ✅ | [Some & Any A1](/blog/curso-a1/unidad-53-some-any) |
 | 54 | How Much & How Many | Precios y cantidades | ✅ | [How much/many A1](/blog/curso-a1/unidad-54-how-much-how-many) |
 | 55 | Clothing Store | *too* vs *enough* | ✅ | [Too/enough A1](/blog/curso-a1/unidad-55-tienda-ropa-too-enough) |
