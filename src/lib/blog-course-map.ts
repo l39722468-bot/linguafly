@@ -627,6 +627,21 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-30-repaso-modulo-3': [
     { courseId: 'a2', unitNumber: 30 },
   ],
+  'unidad-26-first-conditional-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 26 },
+  ],
+  'unidad-27-zero-conditional-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 27 },
+  ],
+  'unidad-28-have-to-dont-have-to-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 28 },
+  ],
+  'unidad-29-could-habilidad-peticiones-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 29 },
+  ],
+  'unidad-30-repaso-modulo-3-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 30 },
+  ],
   'unidad-31-phrasal-verbs-introduccion': [
     { courseId: 'a2', unitNumber: 31 },
   ],

@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-30-repaso-modulo-3'
 image: /blog/curso-a2/unit-30/a2-unit30-module3-review.png
 alt: Esquema de repaso del Módulo 3 del curso A2
 related_routes:
+  - unidad-30-repaso-modulo-3-ejercicios-soluciones
   - unidad-25-futuro-going-to-will-present-continuous
   - unidad-26-first-conditional
   - unidad-28-have-to-dont-have-to
@@ -44,8 +45,8 @@ faqs:
       pasada o Could you…? para pedir con educación.
   - question: ¿Dónde practico la Unidad 30 del curso A2?
     answer: >-
-      En la Unidad 30 del curso A2 de Linguafly harás un repaso integrado en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-30-repaso-modulo-3-ejercicios-soluciones) y en la Unidad 30 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 30 del curso A2: repaso del Módulo 3 con futuro,
   condicionales, have to y could, audios y ejercicios.
@@ -398,7 +399,7 @@ Escribe 10–14 líneas mezclando el Módulo 3:
 
 1. Primero pregunta **qué quieres decir** (plan, hecho, obligación…).  
 2. Luego elige la forma del cheat sheet.  
-3. Practica en la [Unidad 30 del curso A2](/curso-a2/unit-30).
+3. Practica en el [cuaderno de ejercicios de la Unidad 30](/blog/curso-a2/unidad-30-repaso-modulo-3-ejercicios-soluciones) y en la [Unidad 30 del curso A2](/curso-a2/unit-30).
 
 Con la Unidad 30 **cierras el Módulo 3**. El **Módulo 4** continúa con más gramática y vocabulario A2 (a partir de la Unidad 31).
 
@@ -440,6 +441,11 @@ Guías del Módulo 3 (repaso):
 - [U29 — Could](/blog/curso-a2/unidad-29-could-habilidad-peticiones)
 
 ---
+
+Practica ahora:
+
+- [Ejercicios Unidad 30 A2 (con soluciones)](/blog/curso-a2/unidad-30-repaso-modulo-3-ejercicios-soluciones)
+- [Unidad 30 — Module 3 Review](/curso-a2/unit-30)
 
 ## Fuentes
 

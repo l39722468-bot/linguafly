@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-26-first-conditional'
 image: /blog/curso-a2/unit-26/a2-unit26-first-conditional.png
 alt: Esquema del First Conditional A2
 related_routes:
+  - unidad-26-first-conditional-ejercicios-soluciones
   - unidad-25-futuro-going-to-will-present-continuous
   - unidad-23-will-wont-predicciones-promesas
   - first-conditional-ingles
@@ -43,8 +44,8 @@ faqs:
       will pass. If you need help, I will come.
   - question: ¿Dónde practico la Unidad 26 del curso A2?
     answer: >-
-      En la Unidad 26 del curso A2 de Linguafly practicarás First Conditional en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-26-first-conditional-ejercicios-soluciones) y en la Unidad 26 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 26 del curso A2: First Conditional (If + Present Simple,
   will + infinitivo), con audios y ejercicios.
@@ -400,7 +401,7 @@ Escribe 8–12 líneas con First Conditional:
 
 1. Primero la **condición** (Present Simple).  
 2. Luego el **resultado** (*will*).  
-3. Practica en la [Unidad 26 del curso A2](/curso-a2/unit-26).
+3. Practica en el [cuaderno de ejercicios de la Unidad 26](/blog/curso-a2/unidad-26-first-conditional-ejercicios-soluciones) y en la [Unidad 26 del curso A2](/curso-a2/unit-26).
 
 La **Unidad 27** introduce el **Zero Conditional**: hechos generales (*If you heat water, it boils*).
 
@@ -427,6 +428,11 @@ Guía blog:
 Curso:
 
 - [Unidad 27 — Zero Conditional](/curso-a2/unit-27)
+
+Practica ahora:
+
+- [Ejercicios Unidad 26 A2 (con soluciones)](/blog/curso-a2/unidad-26-first-conditional-ejercicios-soluciones)
+- [Unidad 26 — First Conditional](/curso-a2/unit-26)
 
 Guías relacionadas:
 

@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-29-could-habilidad-pe
 image: /blog/curso-a2/unit-29/a2-unit29-could.png
 alt: Esquema de could para habilidad pasada y peticiones A2
 related_routes:
+  - unidad-29-could-habilidad-peticiones-ejercicios-soluciones
   - unidad-28-have-to-dont-have-to
   - verbos-modales-ingles-guia
   - unidad-27-zero-conditional
@@ -41,8 +42,8 @@ faqs:
       No. Could es igual para todos: I/you/he/she/we/they could + infinitivo.
   - question: ¿Dónde practico la Unidad 29 del curso A2?
     answer: >-
-      En la Unidad 29 del curso A2 de Linguafly practicarás could en gramática,
-      vocabulario, reading, listening, speaking y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-29-could-habilidad-peticiones-ejercicios-soluciones) y en la Unidad 29 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 29 del curso A2: could para habilidad pasada y peticiones
   educadas, con audios y ejercicios.
@@ -392,7 +393,7 @@ Escribe 8–12 líneas:
 
 1. ¿Hablas del **pasado**? → *could / couldn't*.  
 2. ¿**Pides** algo? → *Could you…?*  
-3. Practica en la [Unidad 29 del curso A2](/curso-a2/unit-29).
+3. Practica en el [cuaderno de ejercicios de la Unidad 29](/blog/curso-a2/unidad-29-could-habilidad-peticiones-ejercicios-soluciones) y en la [Unidad 29 del curso A2](/curso-a2/unit-29).
 
 La **Unidad 30** es el **Repaso del Módulo 3**: futuro, condicionales y *have to / could*.
 
@@ -419,6 +420,11 @@ Guía blog:
 Curso:
 
 - [Unidad 30 — Module 3 Review](/curso-a2/unit-30)
+
+Practica ahora:
+
+- [Ejercicios Unidad 29 A2 (con soluciones)](/blog/curso-a2/unidad-29-could-habilidad-peticiones-ejercicios-soluciones)
+- [Unidad 29 — Could: Past Ability & Polite Requests](/curso-a2/unit-29)
 
 Guías relacionadas:
 

@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U25)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U30)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -74,11 +74,11 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 23 | Will / Won't: Predictions & Promises | *will/won't*; promesas, ofertas | ✅ | [Will / Won't A2](/blog/curso-a2/unidad-23-will-wont-predicciones-promesas) · [Ejercicios + soluciones](/blog/curso-a2/unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones) |
 | 24 | Present Continuous for Future | citas / planes fijados | ✅ | [Present Continuous futuro A2](/blog/curso-a2/unidad-24-present-continuous-futuro) · [Ejercicios + soluciones](/blog/curso-a2/unidad-24-present-continuous-futuro-ejercicios-soluciones) |
 | 25 | Future: Going to vs Will vs Present Continuous | contraste de futuros | ✅ | [Futuro contraste A2](/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous) · [Ejercicios + soluciones](/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous-ejercicios-soluciones) |
-| 26 | First Conditional | *If* + Present, *will* | ✅ | [First Conditional A2](/blog/curso-a2/unidad-26-first-conditional) |
-| 27 | Zero Conditional | *If* + Present, Present | ✅ | [Zero Conditional A2](/blog/curso-a2/unidad-27-zero-conditional) |
-| 28 | Have to / Don't have to | obligación / no necesario | ✅ | [Have to A2](/blog/curso-a2/unidad-28-have-to-dont-have-to) |
-| 29 | Could: Past Ability & Polite Requests | *could* / *Could you…?* | ✅ | [Could A2](/blog/curso-a2/unidad-29-could-habilidad-peticiones) |
-| 30 | Module 3 Review | repaso módulo 3 | ✅ | [Repaso Módulo 3 A2](/blog/curso-a2/unidad-30-repaso-modulo-3) |
+| 26 | First Conditional | *If* + Present, *will* | ✅ | [First Conditional A2](/blog/curso-a2/unidad-26-first-conditional) · [Ejercicios + soluciones](/blog/curso-a2/unidad-26-first-conditional-ejercicios-soluciones) |
+| 27 | Zero Conditional | *If* + Present, Present | ✅ | [Zero Conditional A2](/blog/curso-a2/unidad-27-zero-conditional) · [Ejercicios + soluciones](/blog/curso-a2/unidad-27-zero-conditional-ejercicios-soluciones) |
+| 28 | Have to / Don't have to | obligación / no necesario | ✅ | [Have to A2](/blog/curso-a2/unidad-28-have-to-dont-have-to) · [Ejercicios + soluciones](/blog/curso-a2/unidad-28-have-to-dont-have-to-ejercicios-soluciones) |
+| 29 | Could: Past Ability & Polite Requests | *could* / *Could you…?* | ✅ | [Could A2](/blog/curso-a2/unidad-29-could-habilidad-peticiones) · [Ejercicios + soluciones](/blog/curso-a2/unidad-29-could-habilidad-peticiones-ejercicios-soluciones) |
+| 30 | Module 3 Review | repaso módulo 3 | ✅ | [Repaso Módulo 3 A2](/blog/curso-a2/unidad-30-repaso-modulo-3) · [Ejercicios + soluciones](/blog/curso-a2/unidad-30-repaso-modulo-3-ejercicios-soluciones) |
 
 ## Módulo 4 (U31–40)
 

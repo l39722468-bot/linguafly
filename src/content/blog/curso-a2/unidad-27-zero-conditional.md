@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-27-zero-conditional'
 image: /blog/curso-a2/unit-27/a2-unit27-zero-conditional.png
 alt: Esquema del Zero Conditional A2
 related_routes:
+  - unidad-27-zero-conditional-ejercicios-soluciones
   - unidad-26-first-conditional
   - first-conditional-ingles
   - unidad-25-futuro-going-to-will-present-continuous
@@ -42,8 +43,8 @@ faqs:
       principio suele haber coma.
   - question: ¿Dónde practico la Unidad 27 del curso A2?
     answer: >-
-      En la Unidad 27 del curso A2 de Linguafly practicarás Zero Conditional en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-27-zero-conditional-ejercicios-soluciones) y en la Unidad 27 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 27 del curso A2: Zero Conditional (If + Present Simple,
   Present Simple), con audios y ejercicios.
@@ -395,7 +396,7 @@ Escribe 8–12 líneas con Zero Conditional:
 
 1. Pregunta: ¿es **siempre** así? → Zero.  
 2. ¿Es un **plan/resultado futuro posible**? → First.  
-3. Practica en la [Unidad 27 del curso A2](/curso-a2/unit-27).
+3. Practica en el [cuaderno de ejercicios de la Unidad 27](/blog/curso-a2/unidad-27-zero-conditional-ejercicios-soluciones) y en la [Unidad 27 del curso A2](/curso-a2/unit-27).
 
 La **Unidad 28** introduce **Have to / Don't have to**: obligaciones.
 
@@ -422,6 +423,11 @@ Guía blog:
 Curso:
 
 - [Unidad 28 — Have to / Don't have to](/curso-a2/unit-28)
+
+Practica ahora:
+
+- [Ejercicios Unidad 27 A2 (con soluciones)](/blog/curso-a2/unidad-27-zero-conditional-ejercicios-soluciones)
+- [Unidad 27 — Zero Conditional](/curso-a2/unit-27)
 
 Guías relacionadas:
 

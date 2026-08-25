@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-28-have-to-dont-have-
 image: /blog/curso-a2/unit-28/a2-unit28-have-to.png
 alt: Esquema de have to y don't have to A2
 related_routes:
+  - unidad-28-have-to-dont-have-to-ejercicios-soluciones
   - unidad-27-zero-conditional
   - unidad-26-first-conditional
   - verbos-modales-ingles-guia
@@ -42,8 +43,8 @@ faqs:
       doesn't have to.
   - question: ¿Dónde practico la Unidad 28 del curso A2?
     answer: >-
-      En la Unidad 28 del curso A2 de Linguafly practicarás have to / don't have
-      to en gramática, vocabulario, reading, listening, speaking y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-28-have-to-dont-have-to-ejercicios-soluciones) y en la Unidad 28 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 28 del curso A2: have to y don't have to para obligaciones y
   lo opcional, con audios y ejercicios.
@@ -393,7 +394,7 @@ Escribe 8–12 líneas sobre tu trabajo/estudios/casa:
 
 1. ¿Es **necesario**? → *have to / has to*.  
 2. ¿Es **opcional**? → *don't / doesn't have to*.  
-3. Practica en la [Unidad 28 del curso A2](/curso-a2/unit-28).
+3. Practica en el [cuaderno de ejercicios de la Unidad 28](/blog/curso-a2/unidad-28-have-to-dont-have-to-ejercicios-soluciones) y en la [Unidad 28 del curso A2](/curso-a2/unit-28).
 
 La **Unidad 29** introduce **Could**: capacidad en pasado y peticiones educadas (*Could you…?*).
 
@@ -420,6 +421,11 @@ Guía blog:
 Curso:
 
 - [Unidad 29 — Could](/curso-a2/unit-29)
+
+Practica ahora:
+
+- [Ejercicios Unidad 28 A2 (con soluciones)](/blog/curso-a2/unidad-28-have-to-dont-have-to-ejercicios-soluciones)
+- [Unidad 28 — Have to / Don't have to](/curso-a2/unit-28)
 
 Guías relacionadas:
 
