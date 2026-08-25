@@ -43,8 +43,9 @@ faqs:
       I have a headache. También: I have a fever / I have a cold / I feel ill.
   - question: ¿Dónde practico la Unidad 58 del curso A1?
     answer: >-
-      En la Unidad 58 del curso A1 de Linguafly practicarás should/shouldn't y
-      vocabulario de salud en gramática, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 58 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 58 del curso A1: should / shouldn't para consejos de salud,
   con síntomas, farmacia, audios y ejercicios.
@@ -383,7 +384,7 @@ Escribe 8–10 frases. Incluye:
 1. Recuerda: *should* ≠ *must* (consejo vs obligación fuerte).  
 2. Practica *I have a…* con artículo *a*.  
 3. Une síntoma + consejo en una frase.  
-4. Practica en la [Unidad 58 del curso A1](/curso-a1/unit-58).
+4. Practica en el [cuaderno de ejercicios de la Unidad 58](/blog/curso-a1/unidad-58-salud-should-ejercicios-soluciones) y en la [Unidad 58 del curso A1](/curso-a1/unit-58).
 
 La **Unidad 59** habla de dinero: ***pay for / spend on***, *cash, credit card, change, receipt*.
 
@@ -409,6 +410,11 @@ Guía dedicada y curso:
 
 - [Unidad 59 — Money & Currency](/blog/curso-a1/unidad-59-dinero-pay-for-spend-on)
 - [Unidad 59 — Money & Currency](/curso-a1/unit-59)
+
+Practica ahora:
+
+- [Ejercicios Unidad 58 A1 (con soluciones)](/blog/curso-a1/unidad-58-salud-should-ejercicios-soluciones)
+- [Unidad 58 — Health & Illness](/curso-a1/unit-58)
 
 Guías relacionadas:
 
