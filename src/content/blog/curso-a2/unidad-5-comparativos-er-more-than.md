@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-5-comparativos-er-mor
 image: /blog/curso-a2/unit-5/a2-unit5-comparatives.png
 alt: Esquema de comparativos -er y more than para inglés A2
 related_routes:
+  - unidad-5-comparativos-er-more-than-ejercicios-soluciones
   - gramatica-inglesa-guia
   - gramatica-ingles-b1-guia
   - unidad-48-sightseeing-superlativos
@@ -43,8 +44,9 @@ faqs:
       nicer (solo -r si ya termina en -e).
   - question: ¿Dónde practico la Unidad 5 del curso A2?
     answer: >-
-      En la Unidad 5 del curso A2 de Linguafly practicarás comparativos en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 5 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 5 del curso A2: comparativos con -er, more… than, better /
   worse y as… as, con audios y ejercicios.
@@ -419,7 +421,7 @@ Escribe 8–12 frases. Incluye:
 1. Pregunta rápida: ¿1 sílaba? → prueba *-er*. ¿3+ sílabas? → *more*.  
 2. Di en voz alta pares: *big–bigger, hot–hotter, happy–happier*.  
 3. Compara tu ciudad con otra (como en los modelos del curso).  
-4. Practica en la [Unidad 5 del curso A2](/curso-a2/unit-5).
+4. Practica en el [cuaderno de ejercicios de la Unidad 5](/blog/curso-a2/unidad-5-comparativos-er-more-than-ejercicios-soluciones) y en la [Unidad 5 del curso A2](/curso-a2/unit-5).
 
 La **Unidad 6** entra en **superlativos**: *the tallest*, *the most beautiful*, *in / of*.
 
@@ -445,6 +447,11 @@ Guía dedicada y curso:
 
 - [Unidad 6 — Superlativos](/blog/curso-a2/unidad-6-superlativos-est-the-most)
 - [Unidad 6 — Superlativos](/curso-a2/unit-6)
+
+Practica ahora:
+
+- [Ejercicios Unidad 5 A2 (con soluciones)](/blog/curso-a2/unidad-5-comparativos-er-more-than-ejercicios-soluciones)
+- [Unidad 5 — Comparativos](/curso-a2/unit-5)
 
 Guías relacionadas:
 

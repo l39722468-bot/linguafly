@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U3)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U5)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -36,8 +36,8 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 | 1 | Greetings & Introductions (repaso) | *to be*, Present Simple; hometown, neighbourhood, hobby | ✅ | [Saludos e introducciones A2](/blog/curso-a2/unidad-1-saludos-introducciones-repaso) · [Ejercicios + soluciones](/blog/curso-a2/unidad-1-saludos-introducciones-repaso-ejercicios-soluciones) |
 | 2 | Past Simple: Regular Verbs | *-ed*; yesterday / last week / ago | ✅ | [Past Simple regulares A2](/blog/curso-a2/unidad-2-past-simple-verbos-regulares) · [Ejercicios + soluciones](/blog/curso-a2/unidad-2-past-simple-verbos-regulares-ejercicios-soluciones) |
 | 3 | Past Simple: Irregular Verbs | went, saw, had, made, wrote, bought | ✅ | [Past Simple irregulares A2](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares) · [Ejercicios + soluciones](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares-ejercicios-soluciones) |
-| 4 | Wh-questions in the Past | What/Where/When/Who/Why/How did…? | ✅ | [Wh-questions Past A2](/blog/curso-a2/unidad-4-wh-questions-past-simple) |
-| 5 | Comparatives | *-er*, more… than, better, as… as | ✅ | [Comparativos A2](/blog/curso-a2/unidad-5-comparativos-er-more-than) |
+| 4 | Wh-questions in the Past | What/Where/When/Who/Why/How did…? | ✅ | [Wh-questions Past A2](/blog/curso-a2/unidad-4-wh-questions-past-simple) · [Ejercicios + soluciones](/blog/curso-a2/unidad-4-wh-questions-past-simple-ejercicios-soluciones) |
+| 5 | Comparatives | *-er*, more… than, better, as… as | ✅ | [Comparativos A2](/blog/curso-a2/unidad-5-comparativos-er-more-than) · [Ejercicios + soluciones](/blog/curso-a2/unidad-5-comparativos-er-more-than-ejercicios-soluciones) |
 | 6 | Superlatives | *-est*, the most, in/of | ✅ | [Superlativos A2](/blog/curso-a2/unidad-6-superlativos-est-the-most) |
 | 7 | Adverbs of Manner | *-ly*; well, badly, fast, hard | ✅ | [Adverbios de modo A2](/blog/curso-a2/unidad-7-adverbios-modo-ly) |
 | 8 | Prepositions of Time | at / on / in | ✅ | [Preposiciones de tiempo A2](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in) |

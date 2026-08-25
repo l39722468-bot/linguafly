@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-4-wh-questions-past-s
 image: /blog/curso-a2/unit-4/a2-unit4-wh-questions.png
 alt: Esquema de Wh-questions en Past Simple para inglés A2
 related_routes:
+  - unidad-4-wh-questions-past-simple-ejercicios-soluciones
   - past-simple-usos-reglas
   - past-simple-vs-past-continuous
   - past-simple-verbos-irregulares
@@ -43,8 +44,9 @@ faqs:
       do?
   - question: ¿Dónde practico la Unidad 4 del curso A2?
     answer: >-
-      En la Unidad 4 del curso A2 de Linguafly practicarás Wh-questions en
-      pasado con gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 4 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 4 del curso A2: Wh-questions en Past Simple (What/Where/
   When/Who/Why/How did…?) y conectores First, Then, Finally, con audios y
@@ -386,7 +388,7 @@ Escribe 8–12 frases: incluye las 6 Wh-questions (o sus respuestas) sobre tu ú
 1. Memoriza el esqueleto: ***did + sujeto + base*** — el Wh solo cambia el tipo de información.  
 2. Practica en pareja: uno pregunta, otro responde con *went / saw / had* (U3).  
 3. Si fallas el verbo en pasado, vuelve a [U2](/blog/curso-a2/unidad-2-past-simple-verbos-regulares) / [U3](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares).  
-4. Practica en la [Unidad 4 del curso A2](/curso-a2/unit-4).
+4. Practica en el [cuaderno de ejercicios de la Unidad 4](/blog/curso-a2/unidad-4-wh-questions-past-simple-ejercicios-soluciones) y en la [Unidad 4 del curso A2](/curso-a2/unit-4).
 
 La **Unidad 5** entra en **comparativos**: *bigger than*, *more expensive than*, *as… as*.
 
@@ -412,6 +414,11 @@ Guía dedicada y curso:
 
 - [Unidad 5 — Comparativos](/blog/curso-a2/unidad-5-comparativos-er-more-than)
 - [Unidad 5 — Comparativos](/curso-a2/unit-5)
+
+Practica ahora:
+
+- [Ejercicios Unidad 4 A2 (con soluciones)](/blog/curso-a2/unidad-4-wh-questions-past-simple-ejercicios-soluciones)
+- [Unidad 4 — Wh-questions Past Simple](/curso-a2/unit-4)
 
 Guías relacionadas:
 
