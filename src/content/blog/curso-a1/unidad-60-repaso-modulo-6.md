@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-60-repaso-modulo-6'
 image: /blog/curso-a1/unit-60/a1-unit60-module-map.png
 alt: Mapa de repaso del Módulo 6 del curso A1 Shopping and Food
 related_routes:
+  - unidad-60-repaso-modulo-6-ejercicios-soluciones
   - ingles-para-compras
   - ingles-restaurantes-bares-viaje
   - ingles-en-la-cocina
@@ -46,8 +47,9 @@ faqs:
       nivel A1 y mirar hacia A2.
   - question: ¿Dónde practico la Unidad 60 del curso A1?
     answer: >-
-      En la Unidad 60 del curso A1 de Linguafly harás el repaso del Módulo 6 con
-      ejercicios de gramática, vocabulario, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 60 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 60 del curso A1: repaso del Módulo 6 (Shopping & Food) con
   checklist, audios, esquemas y ejercicios.
@@ -583,7 +585,7 @@ Escribe 10–12 frases que incluyan:
 5. Si fallas en recetas, vuelve a [U57](/blog/curso-a1/unidad-57-cocina-recetas).  
 6. Si fallas en *should*, vuelve a [U58](/blog/curso-a1/unidad-58-salud-should).  
 7. Si fallas en *pay for / spend on*, vuelve a [U59](/blog/curso-a1/unidad-59-dinero-pay-for-spend-on).  
-8. Practica en la [Unidad 60 del curso A1](/curso-a1/unit-60).
+8. Practica en el [cuaderno de ejercicios de la Unidad 60](/blog/curso-a1/unidad-60-repaso-modulo-6-ejercicios-soluciones) y en la [Unidad 60 del curso A1](/curso-a1/unit-60).
 
 Con el Módulo 6 cierras el bloque de **compras y comida** del curso A1. Si dominas este repaso, puedes narrar situaciones cotidianas de compra, cocina, restaurante, salud y dinero con estructuras A1 sólidas.
 
@@ -613,6 +615,11 @@ Siguiente orientación:
 - [Índice del curso A1](/curso-a1)  
 - [Inglés A1: Guía para Empezar desde Cero](/blog/metodos/ingles-a1)  
 - [Inglés A1 vs A2](/blog/metodos/ingles-a1-vs-a2)
+
+Practica ahora:
+
+- [Ejercicios Unidad 60 A1 (con soluciones)](/blog/curso-a1/unidad-60-repaso-modulo-6-ejercicios-soluciones)
+- [Unidad 60 — Module 6 Review](/curso-a1/unit-60)
 
 Guías relacionadas del módulo:
 
