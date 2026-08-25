@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-48-clothes-fashion'
 image: /blog/curso-a2/unit-48/a2-unit48-clothes-fashion.png
 alt: Esquema Clothes & Fashion A2
 related_routes:
+  - unidad-48-clothes-fashion-ejercicios-soluciones
   - unidad-47-health-body
   - unidad-46-shopping-services
   - vocabulario-ropa-ingles
@@ -42,7 +43,7 @@ faqs:
       dress shirt). Smart casual está en medio.
   - question: ¿Dónde practico la Unidad 48 del curso A2?
     answer: >-
-      En la Unidad 48 del curso A2 de Linguafly practicarás vocabulario de ropa,
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-48-clothes-fashion-ejercicios-soluciones) y en la Unidad 48 del curso A2 de Linguafly practicarás vocabulario de ropa,
       estilo y too / enough.
 excerpt: >-
   Guía de la Unidad 48 del curso A2: describir ropa y outfits con wear, put on /
@@ -395,7 +396,7 @@ Describe lo que llevas (o un outfit ideal). Incluye:
 
 1. Describe tu ropa en voz alta cada mañana.  
 2. Mira etiquetas: *cotton*, *wool*, *size*, *machine wash*.  
-3. Practica en la [Unidad 48 del curso A2](/curso-a2/unit-48).
+3. Practica en el [cuaderno de ejercicios de la Unidad 48](/blog/curso-a2/unidad-48-clothes-fashion-ejercicios-soluciones) y en la [Unidad 48 del curso A2](/curso-a2/unit-48).
 
 La **Unidad 49** es **People & Relationships** (personas y relaciones).
 
@@ -423,6 +424,7 @@ Curso:
 
 Guías relacionadas:
 
+- [Ejercicios Unidad 48 A2 (con soluciones)](/blog/curso-a2/unidad-48-clothes-fashion-ejercicios-soluciones)
 - [U47 — Health & Body](/blog/curso-a2/unidad-47-health-body)
 - [U46 — Shopping & Services](/blog/curso-a2/unidad-46-shopping-services)
 - [Vocabulario de ropa en inglés](/blog/metodos/vocabulario-ropa-ingles)

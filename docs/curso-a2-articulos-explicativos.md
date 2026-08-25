@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U45)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U50)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -104,11 +104,11 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 43 | Holiday Activities | *sightseeing*, Past Simple / Present Perfect | ✅ | [Holiday Activities A2](/blog/curso-a2/unidad-43-holiday-activities) · [Ejercicios + soluciones](/blog/curso-a2/unidad-43-holiday-activities-ejercicios-soluciones) |
 | 44 | The Weather | *It's sunny*, *It's going to rain*, *will* | ✅ | [The Weather A2](/blog/curso-a2/unidad-44-the-weather) · [Ejercicios + soluciones](/blog/curso-a2/unidad-44-the-weather-ejercicios-soluciones) |
 | 45 | Entertainment & Media | *watch*, *listen to*, *like* + -ing, *prefer* | ✅ | [Entertainment & Media A2](/blog/curso-a2/unidad-45-entertainment-media) · [Ejercicios + soluciones](/blog/curso-a2/unidad-45-entertainment-media-ejercicios-soluciones) |
-| 46 | Shopping & Services | *Can I help you?*, *I'm looking for…*, *How much…?* | ✅ | [Shopping & Services A2](/blog/curso-a2/unidad-46-shopping-services) |
-| 47 | Health & Body | *have a headache*, *should*, *pharmacy* | ✅ | [Health & Body A2](/blog/curso-a2/unidad-47-health-body) |
-| 48 | Clothes & Fashion | *wear*, *too* vs *enough*, *outfit* | ✅ | [Clothes & Fashion A2](/blog/curso-a2/unidad-48-clothes-fashion) |
-| 49 | People & Relationships | *look like*, *be like*, personalidad | ✅ | [People & Relationships A2](/blog/curso-a2/unidad-49-people-relationships) |
-| 50 | Module 5 Review | repaso Módulo 5 (U41–U49) | ✅ | [Module 5 Review A2](/blog/curso-a2/unidad-50-module-5-review) |
+| 46 | Shopping & Services | *Can I help you?*, *I'm looking for…*, *How much…?* | ✅ | [Shopping & Services A2](/blog/curso-a2/unidad-46-shopping-services) · [Ejercicios + soluciones](/blog/curso-a2/unidad-46-shopping-services-ejercicios-soluciones) |
+| 47 | Health & Body | *have a headache*, *should*, *pharmacy* | ✅ | [Health & Body A2](/blog/curso-a2/unidad-47-health-body) · [Ejercicios + soluciones](/blog/curso-a2/unidad-47-health-body-ejercicios-soluciones) |
+| 48 | Clothes & Fashion | *wear*, *too* vs *enough*, *outfit* | ✅ | [Clothes & Fashion A2](/blog/curso-a2/unidad-48-clothes-fashion) · [Ejercicios + soluciones](/blog/curso-a2/unidad-48-clothes-fashion-ejercicios-soluciones) |
+| 49 | People & Relationships | *look like*, *be like*, personalidad | ✅ | [People & Relationships A2](/blog/curso-a2/unidad-49-people-relationships) · [Ejercicios + soluciones](/blog/curso-a2/unidad-49-people-relationships-ejercicios-soluciones) |
+| 50 | Module 5 Review | repaso Módulo 5 (U41–U49) | ✅ | [Module 5 Review A2](/blog/curso-a2/unidad-50-module-5-review) · [Ejercicios + soluciones](/blog/curso-a2/unidad-50-module-5-review-ejercicios-soluciones) |
 
 ### Módulo 6 (U51–60)
 

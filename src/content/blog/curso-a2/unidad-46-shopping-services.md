@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-46-shopping-services'
 image: /blog/curso-a2/unit-46/a2-unit46-shopping-services.png
 alt: Esquema Shopping & Services A2
 related_routes:
+  - unidad-46-shopping-services-ejercicios-soluciones
   - unidad-45-entertainment-media
   - ingles-para-compras
   - ingles-a2
@@ -42,7 +43,7 @@ faqs:
       decir Can I help you? o How can I help you?
   - question: ¿Dónde practico la Unidad 46 del curso A2?
     answer: >-
-      En la Unidad 46 del curso A2 de Linguafly practicarás vocabulario y
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-46-shopping-services-ejercicios-soluciones) y en la Unidad 46 del curso A2 de Linguafly practicarás vocabulario y
       diálogos de compras y servicios.
 excerpt: >-
   Guía de la Unidad 46 del curso A2: hacer compras y devoluciones con Can I help
@@ -399,7 +400,7 @@ Escribe un diálogo en una tienda de ropa. Incluye:
 
 1. Practica el diálogo en voz alta (cliente + dependiente).  
 2. Mira etiquetas de precio en inglés (*on sale*, *reduced*).  
-3. Practica en la [Unidad 46 del curso A2](/curso-a2/unit-46).
+3. Practica en el [cuaderno de ejercicios de la Unidad 46](/blog/curso-a2/unidad-46-shopping-services-ejercicios-soluciones) y en la [Unidad 46 del curso A2](/curso-a2/unit-46).
 
 La **Unidad 47** es **Health & Body** (salud y el cuerpo).
 
@@ -427,6 +428,7 @@ Curso:
 
 Guías relacionadas:
 
+- [Ejercicios Unidad 46 A2 (con soluciones)](/blog/curso-a2/unidad-46-shopping-services-ejercicios-soluciones)
 - [U45 — Entertainment & Media](/blog/curso-a2/unidad-45-entertainment-media)
 - [Inglés para compras](/blog/viajes/ingles-para-compras)
 - [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)

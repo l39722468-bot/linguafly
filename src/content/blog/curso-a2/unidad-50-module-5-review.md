@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-50-module-5-review'
 image: /blog/curso-a2/unit-50/a2-unit50-module-5-review.png
 alt: Esquema de repaso del Módulo 5 A2
 related_routes:
+  - unidad-50-module-5-review-ejercicios-soluciones
   - unidad-49-people-relationships
   - unidad-41-travel-transport
   - unidad-46-shopping-services
@@ -44,7 +45,7 @@ faqs:
       color…).
   - question: ¿Dónde practico la Unidad 50 del curso A2?
     answer: >-
-      En la Unidad 50 del curso A2 de Linguafly harás el repaso integrado del
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-50-module-5-review-ejercicios-soluciones) y en la Unidad 50 del curso A2 de Linguafly harás el repaso integrado del
       Módulo 5.
 excerpt: >-
   Repaso de la Unidad 50 (Módulo 5 A2): viaje, alojamiento, tiempo,
@@ -404,7 +405,7 @@ Escribe sobre un viaje o fin de semana. Incluye al menos:
 
 1. Reescribe el relato de Lisboa con tus datos.  
 2. Repasa las guías U41–U49 donde falles más.  
-3. Practica en la [Unidad 50 del curso A2](/curso-a2/unit-50).
+3. Practica en el [cuaderno de ejercicios de la Unidad 50](/blog/curso-a2/unidad-50-module-5-review-ejercicios-soluciones) y en la [Unidad 50 del curso A2](/curso-a2/unit-50).
 
 La **Unidad 51** abre el Módulo 6: **Making Suggestions**.
 
@@ -432,6 +433,7 @@ Curso:
 
 Guías del módulo:
 
+- [Ejercicios Unidad 50 A2 (con soluciones)](/blog/curso-a2/unidad-50-module-5-review-ejercicios-soluciones)
 - [U41 — Travel & Transport](/blog/curso-a2/unidad-41-travel-transport)
 - [U46 — Shopping & Services](/blog/curso-a2/unidad-46-shopping-services)
 - [U49 — People & Relationships](/blog/curso-a2/unidad-49-people-relationships)

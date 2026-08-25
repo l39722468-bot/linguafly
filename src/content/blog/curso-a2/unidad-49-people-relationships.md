@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-49-people-relationshi
 image: /blog/curso-a2/unit-49/a2-unit49-people-relationships.png
 alt: Esquema People & Relationships A2
 related_routes:
+  - unidad-49-people-relationships-ejercicios-soluciones
   - unidad-48-clothes-fashion
   - unidad-11-present-perfect-introduccion
   - unidad-5-comparativos-er-more-than
@@ -41,7 +42,7 @@ faqs:
       Neighbour es británico; neighbor americano. Ambos se entienden.
   - question: ¿Dónde practico la Unidad 49 del curso A2?
     answer: >-
-      En la Unidad 49 del curso A2 de Linguafly practicarás descripciones de
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-49-people-relationships-ejercicios-soluciones) y en la Unidad 49 del curso A2 de Linguafly practicarás descripciones de
       personas y relaciones.
 excerpt: >-
   Guía de la Unidad 49 del curso A2: describir personas y relaciones con look
@@ -401,7 +402,7 @@ Describe a una persona importante para ti. Incluye:
 
 1. Describe a alguien de tu entorno en voz alta (1 minuto).  
 2. Practica el contraste: *looks like* vs *is like*.  
-3. Practica en la [Unidad 49 del curso A2](/curso-a2/unit-49).
+3. Practica en el [cuaderno de ejercicios de la Unidad 49](/blog/curso-a2/unidad-49-people-relationships-ejercicios-soluciones) y en la [Unidad 49 del curso A2](/curso-a2/unit-49).
 
 La **Unidad 50** es el **Module 5 Review** (repaso del módulo).
 
@@ -429,6 +430,7 @@ Curso:
 
 Guías relacionadas:
 
+- [Ejercicios Unidad 49 A2 (con soluciones)](/blog/curso-a2/unidad-49-people-relationships-ejercicios-soluciones)
 - [U48 — Clothes & Fashion](/blog/curso-a2/unidad-48-clothes-fashion)
 - [U11 — Present Perfect](/blog/curso-a2/unidad-11-present-perfect-introduccion)
 - [U5 — Comparativos](/blog/curso-a2/unidad-5-comparativos-er-more-than)

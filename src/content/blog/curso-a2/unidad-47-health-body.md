@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-47-health-body'
 image: /blog/curso-a2/unit-47/a2-unit47-health-body.png
 alt: Esquema Health & Body A2
 related_routes:
+  - unidad-47-health-body-ejercicios-soluciones
   - unidad-46-shopping-services
   - unidad-38-should-ought-to
   - ingles-para-salud
@@ -43,7 +44,7 @@ faqs:
       formal/británico: She's ill.
   - question: ¿Dónde practico la Unidad 47 del curso A2?
     answer: >-
-      En la Unidad 47 del curso A2 de Linguafly practicarás síntomas, partes del
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-47-health-body-ejercicios-soluciones) y en la Unidad 47 del curso A2 de Linguafly practicarás síntomas, partes del
       cuerpo y consejos con should.
 excerpt: >-
   Guía de la Unidad 47 del curso A2: síntomas, partes del cuerpo y consejos con
@@ -403,7 +404,7 @@ Describe un problema de salud y da consejos. Incluye:
 
 1. Practica en voz alta: síntoma + consejo.  
 2. Lee etiquetas de medicamentos en inglés (dosis / warnings).  
-3. Practica en la [Unidad 47 del curso A2](/curso-a2/unit-47).
+3. Practica en el [cuaderno de ejercicios de la Unidad 47](/blog/curso-a2/unidad-47-health-body-ejercicios-soluciones) y en la [Unidad 47 del curso A2](/curso-a2/unit-47).
 
 La **Unidad 48** es **Clothes & Fashion** (ropa y estilo).
 
@@ -431,6 +432,7 @@ Curso:
 
 Guías relacionadas:
 
+- [Ejercicios Unidad 47 A2 (con soluciones)](/blog/curso-a2/unidad-47-health-body-ejercicios-soluciones)
 - [U46 — Shopping & Services](/blog/curso-a2/unidad-46-shopping-services)
 - [U38 — Should / Ought to](/blog/curso-a2/unidad-38-should-ought-to)
 - [Inglés para salud](/blog/trabajo/ingles-para-salud)
