@@ -481,9 +481,15 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
     { courseId: 'a2', unitNumber: 2 },
     { courseId: 'a2', unitNumber: 3 },
   ],
+  'unidad-4-wh-questions-past-simple-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 4 },
+  ],
   'unidad-5-comparativos-er-more-than': [
     { courseId: 'a2', unitNumber: 5 },
     { courseId: 'a2', unitNumber: 6 },
+  ],
+  'unidad-5-comparativos-er-more-than-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 5 },
   ],
   'unidad-6-superlativos-est-the-most': [
     { courseId: 'a2', unitNumber: 6 },
