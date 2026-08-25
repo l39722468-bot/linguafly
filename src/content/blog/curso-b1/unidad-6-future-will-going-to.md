@@ -20,6 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-6-future-will-going-t
 image: /blog/curso-b1/unit-6/future-forms.png
 alt: Contraste will, going to y present continuous para el futuro B1
 related_routes:
+  - unidad-6-future-will-going-to-ejercicios-soluciones
+  - unidad-5-repaso-1-4-ejercicios-soluciones
   - will-going-to-diferencia
   - unidad-5-repaso-1-4
   - will-ejercicios-ingles
@@ -44,7 +46,7 @@ faqs:
       horario, no es tu plan personal.
   - question: ¿Dónde practico la Unidad 6 del curso B1?
     answer: >-
-      En la Unidad 6 del curso B1 de Linguafly: will / going to / continuous,
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones) y en la Unidad 6 del curso B1 de Linguafly: will / going to / continuous,
       travel & transport, reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 6 del curso B1: will, going to y present continuous para el
@@ -292,7 +294,7 @@ Marca las formas: *am flying* / *am meeting* (arreglos), *takes off* (horario), 
 
 1. Pregunta: ¿opinión / promesa? → **will**. ¿plan decidido / evidencia? → **going to**. ¿cita en la agenda? → **continuous**.  
 2. Practica con tu próximo viaje real.  
-3. Practica en la [Unidad 6 del curso B1](/curso-b1/unit-6).
+3. Practica en el [cuaderno de ejercicios de la Unidad 6](/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones) y en la [Unidad 6 del curso B1](/curso-b1/unit-6).
 
 La **Unidad 7** introduce **was/were going to** (planes que no se realizaron).
 
@@ -315,10 +317,16 @@ En la **Unidad 7** estudiarás **was/were going to**: planes e intenciones del p
 
 Guías y curso:
 
-- [Unidad 7 — Was/were going to](/curso-b1/unit-7)
+- [Ejercicios Unidad 6 B1 (con soluciones)](/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones)
+- [Unidad 7 — Was/were going to](/curso-b1/unit-7) *(próximamente en el blog)*
 - [will vs going to](/blog/gramatica/will-going-to-diferencia)
 - [U5 — Repaso 1–4](/blog/curso-b1/unidad-5-repaso-1-4)
 - [Cursos online de inglés B1](/blog/metodos/cursos-online-ingles-b1)
+
+Practica ahora:
+
+- [Ejercicios Unidad 6 B1 (con soluciones)](/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones)
+- [Unidad 6 — Future forms](/curso-b1/unit-6)
 
 ---
 

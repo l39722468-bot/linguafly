@@ -20,6 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-4-past-vs-present-per
 image: /blog/curso-b1/unit-4/past-vs-pp.png
 alt: Contraste Past Simple vs Present Perfect con expresiones de tiempo
 related_routes:
+  - unidad-4-past-vs-present-perfect-ejercicios-soluciones
+  - unidad-3-past-perfect-ejercicios-soluciones
   - present-perfect-vs-past-simple
   - unidad-3-past-perfect
   - present-perfect-just-already-yet
@@ -46,7 +48,7 @@ faqs:
       Italy?).
   - question: ¿Dónde practico la Unidad 4 del curso B1?
     answer: >-
-      En la Unidad 4 del curso B1 de Linguafly: contraste Past Simple vs Present
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-4-past-vs-present-perfect-ejercicios-soluciones) y en la Unidad 4 del curso B1 de Linguafly: contraste Past Simple vs Present
       Perfect, time expressions, reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 4 del curso B1: contraste Past Simple vs Present Perfect con
@@ -286,7 +288,7 @@ Fíjate: *Have you ever…?* (experiencia) → respuesta con **Past Simple** + f
 
 1. Subraya la **señal de tiempo** antes de conjugar.  
 2. *When* + fecha → Past Simple; *ever/never/just/already/yet* → Present Perfect.  
-3. Practica en la [Unidad 4 del curso B1](/curso-b1/unit-4).  
+3. Practica en el [cuaderno de ejercicios de la Unidad 4](/blog/curso-b1/unidad-4-past-vs-present-perfect-ejercicios-soluciones) y en la [Unidad 4 del curso B1](/curso-b1/unit-4).  
 4. La **Unidad 5** es el **repaso 1–4** (PPC, Past Perfect y este contraste).
 
 ---
@@ -310,11 +312,17 @@ En la **Unidad 5** harás el **Repaso 1–4**: Present Perfect Continuous, Past 
 
 Guías y curso:
 
+- [Ejercicios Unidad 4 B1 (con soluciones)](/blog/curso-b1/unidad-4-past-vs-present-perfect-ejercicios-soluciones)
 - [Unidad 5 — Repaso 1–4](/curso-b1/unit-5)
 - [Present Perfect vs Past Simple](/blog/gramatica/present-perfect-vs-past-simple)
 - [U3 — Past Perfect](/blog/curso-b1/unidad-3-past-perfect)
 - [just / already / yet](/blog/gramatica/present-perfect-just-already-yet)
 - [Cursos online de inglés B1](/blog/metodos/cursos-online-ingles-b1)
+
+Practica ahora:
+
+- [Ejercicios Unidad 4 B1 (con soluciones)](/blog/curso-b1/unidad-4-past-vs-present-perfect-ejercicios-soluciones)
+- [Unidad 4 — Past vs Present Perfect](/curso-b1/unit-4)
 
 ---
 

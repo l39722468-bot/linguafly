@@ -21,6 +21,8 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-1-repaso-a2-b1'
 image: /blog/curso-b1/unit-1/a2-to-b1.png
 alt: Puente visual del repaso A2 hacia el nivel B1
 related_routes:
+  - unidad-1-repaso-a2-b1-ejercicios-soluciones
+  - unidad-60-module-6-review-ejercicios-soluciones
   - cursos-online-ingles-b1
   - gramatica-ingles-b1-guia
   - present-perfect-usos-principales
@@ -48,7 +50,7 @@ faqs:
       which I bought…). En B1 luego verás that y cláusulas no definitorias.
   - question: ¿Dónde practico la Unidad 1 del curso B1?
     answer: >-
-      En la Unidad 1 del curso B1 de Linguafly: gramática, vocabulario, reading,
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-1-repaso-a2-b1-ejercicios-soluciones) y en la Unidad 1 del curso B1 de Linguafly: gramática, vocabulario, reading,
       listening, speaking y writing alineados con este repaso A2 → B1.
 excerpt: >-
   Guía de la Unidad 1 del curso B1: puente A2 → B1 con Present Perfect, modales,
@@ -335,7 +337,7 @@ Une cuatro frases del repaso:
 
 1. Haz el repaso **en voz alta**: B1 pide fluidez, no solo reconocer formas.  
 2. Escribe 6–8 frases sobre ti: dónde has vivido, cómo te sentiste al cambiar de ciudad, qué *used to* hacer.  
-3. Practica en la [Unidad 1 del curso B1](/curso-b1/unit-1).  
+3. Practica en el [cuaderno de ejercicios de la Unidad 1](/blog/curso-b1/unidad-1-repaso-a2-b1-ejercicios-soluciones) y en la [Unidad 1 del curso B1](/curso-b1/unit-1).  
 4. Siguiente: **Present Perfect Continuous** (Unidad 2) con *for/since* y contexto de educación.
 
 ---
@@ -361,11 +363,17 @@ En la **Unidad 2** estudiarás **Present Perfect Continuous**: *have/has been + 
 
 Guías y curso:
 
+- [Ejercicios Unidad 1 B1 (con soluciones)](/blog/curso-b1/unidad-1-repaso-a2-b1-ejercicios-soluciones)
 - [Unidad 2 — Present Perfect Continuous](/curso-b1/unit-2)
 - [Present Perfect Continuous (guía)](/blog/gramatica/present-perfect-continuous)
 - [Cursos online de inglés B1](/blog/metodos/cursos-online-ingles-b1)
 - [Gramática inglesa B1: guía](/blog/gramatica/gramatica-ingles-b1-guia)
 - [A2 U60 — Module 6 Review](/blog/curso-a2/unidad-60-module-6-review)
+
+Practica ahora:
+
+- [Ejercicios Unidad 1 B1 (con soluciones)](/blog/curso-b1/unidad-1-repaso-a2-b1-ejercicios-soluciones)
+- [Unidad 1 — Repaso A2 → B1](/curso-b1/unit-1)
 
 ---
 

@@ -19,10 +19,12 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-3-past-perfect'
 image: /blog/curso-b1/unit-3/past-perfect-formula.png
 alt: Fórmula had + past participle del Past Perfect B1
 related_routes:
+  - unidad-3-past-perfect-ejercicios-soluciones
+  - unidad-2-present-perfect-continuous-ejercicios-soluciones
   - past-perfect-ingles
   - unidad-2-present-perfect-continuous
   - present-perfect-vs-past-simple
-  - cursos-online-ingles-b1
+  - gramatica-ingles-b1-guia
 faqs:
   - question: ¿Cómo se forma el Past Perfect?
     answer: >-
@@ -44,7 +46,7 @@ faqs:
       película ya había empezado cuando llegamos.
   - question: ¿Dónde practico la Unidad 3 del curso B1?
     answer: >-
-      En la Unidad 3 del curso B1 de Linguafly: gramática, vocabulario de past
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-3-past-perfect-ejercicios-soluciones) y en la Unidad 3 del curso B1 de Linguafly: gramática, vocabulario de past
       experiences, reading, listening, speaking y writing con Past Perfect.
 excerpt: >-
   Guía de la Unidad 3 del curso B1: Past Perfect con had + past participle,
@@ -303,7 +305,7 @@ Comprueba: ¿Había estado en Asia antes? ¿Cuánto había ahorrado? ¿Qué hab�
 1. Dibuja dos momentos: primero Past Perfect, después Past Simple.  
 2. Practica con *by the time* y *already*.  
 3. Cuenta un viaje o un examen: qué **habías** hecho antes.  
-4. Practica en la [Unidad 3 del curso B1](/curso-b1/unit-3).
+4. Practica en el [cuaderno de ejercicios de la Unidad 3](/blog/curso-b1/unidad-3-past-perfect-ejercicios-soluciones) y en la [Unidad 3 del curso B1](/curso-b1/unit-3).
 
 La **Unidad 4** contrasta **Past Simple vs Present Perfect** con expresiones de tiempo.
 
@@ -327,11 +329,17 @@ En la **Unidad 4** estudiarás el contraste **Past Simple vs Present Perfect** (
 
 Guías y curso:
 
+- [Ejercicios Unidad 3 B1 (con soluciones)](/blog/curso-b1/unidad-3-past-perfect-ejercicios-soluciones)
 - [Unidad 4 — Past vs Present Perfect](/curso-b1/unit-4)
 - [Past Perfect (guía)](/blog/gramatica/past-perfect-ingles)
 - [U2 — Present Perfect Continuous](/blog/curso-b1/unidad-2-present-perfect-continuous)
 - [Present Perfect vs Past Simple](/blog/gramatica/present-perfect-vs-past-simple)
 - [Cursos online de inglés B1](/blog/metodos/cursos-online-ingles-b1)
+
+Practica ahora:
+
+- [Ejercicios Unidad 3 B1 (con soluciones)](/blog/curso-b1/unidad-3-past-perfect-ejercicios-soluciones)
+- [Unidad 3 — Past Perfect](/curso-b1/unit-3)
 
 ---
 

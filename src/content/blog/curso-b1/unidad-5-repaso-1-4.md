@@ -20,10 +20,13 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-5-repaso-1-4'
 image: /blog/curso-b1/unit-5/review-map.png
 alt: Mapa de repaso de las unidades 1 a 4 del curso B1
 related_routes:
+  - unidad-5-repaso-1-4-ejercicios-soluciones
+  - unidad-4-past-vs-present-perfect-ejercicios-soluciones
   - unidad-2-present-perfect-continuous
   - unidad-3-past-perfect
   - unidad-4-past-vs-present-perfect
   - unidad-1-repaso-a2-b1
+  - gramatica-ingles-b1-guia
 faqs:
   - question: ¿Qué se repasa en la Unidad 5 del curso B1?
     answer: >-
@@ -47,7 +50,7 @@ faqs:
       started / the train had already left (antes de otro pasado).
   - question: ¿Dónde practico la Unidad 5 del curso B1?
     answer: >-
-      En la Unidad 5 del curso B1 de Linguafly: repaso integrado en gramática,
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-5-repaso-1-4-ejercicios-soluciones) y en la Unidad 5 del curso B1 de Linguafly: repaso integrado en gramática,
       vocabulario, reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 5 del curso B1: repaso de Present Perfect Continuous, Past
@@ -272,7 +275,7 @@ Si falla un punto, vuelve a su unidad y luego practícalo en el [curso](/curso-b
 
 1. En cada frase, pregunta: ¿**hasta ahora**, **antes de otro pasado**, o **fecha acabada**?  
 2. Reescribe el texto de Laura marcando cada tiempo.  
-3. Practica en la [Unidad 5 del curso B1](/curso-b1/unit-5).
+3. Practica en el [cuaderno de ejercicios de la Unidad 5](/blog/curso-b1/unidad-5-repaso-1-4-ejercicios-soluciones) y en la [Unidad 5 del curso B1](/curso-b1/unit-5).
 
 La **Unidad 6** abre el bloque de **futuros**: *will* vs *going to* vs present continuous, con vocabulario de travel & transport.
 
@@ -295,11 +298,17 @@ En la **Unidad 6** estudiarás el contraste de futuros: **will / going to / pres
 
 Guías y curso:
 
+- [Ejercicios Unidad 5 B1 (con soluciones)](/blog/curso-b1/unidad-5-repaso-1-4-ejercicios-soluciones)
 - [Unidad 6 — Future forms](/curso-b1/unit-6)
 - [U2 — Present Perfect Continuous](/blog/curso-b1/unidad-2-present-perfect-continuous)
 - [U3 — Past Perfect](/blog/curso-b1/unidad-3-past-perfect)
 - [U4 — Past vs Present Perfect](/blog/curso-b1/unidad-4-past-vs-present-perfect)
 - [Cursos online de inglés B1](/blog/metodos/cursos-online-ingles-b1)
+
+Practica ahora:
+
+- [Ejercicios Unidad 5 B1 (con soluciones)](/blog/curso-b1/unidad-5-repaso-1-4-ejercicios-soluciones)
+- [Unidad 5 — Repaso 1–4](/curso-b1/unit-5)
 
 ---
 

@@ -20,6 +20,8 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-2-present-perfect-con
 image: /blog/curso-b1/unit-2/ppc-formula.png
 alt: Fórmula have/has been + -ing del Present Perfect Continuous B1
 related_routes:
+  - unidad-2-present-perfect-continuous-ejercicios-soluciones
+  - unidad-1-repaso-a2-b1-ejercicios-soluciones
   - present-perfect-continuous
   - present-perfect-usos-principales
   - unidad-1-repaso-a2-b1
@@ -44,7 +46,7 @@ faqs:
       here?
   - question: ¿Dónde practico la Unidad 2 del curso B1?
     answer: >-
-      En la Unidad 2 del curso B1 de Linguafly: gramática, vocabulario de
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-2-present-perfect-continuous-ejercicios-soluciones) y en la Unidad 2 del curso B1 de Linguafly: gramática, vocabulario de
       education, reading, listening, speaking y writing con Present Perfect
       Continuous.
 excerpt: >-
@@ -297,7 +299,7 @@ Comprueba: ¿Cuánto lleva estudiando inglés? ¿Qué estudia en la universidad?
 1. Cuenta tu historia: *I have been studying… for/since…*  
 2. Cuando veas **cantidad** (*three books*, *ten emails*), piensa en **Simple**.  
 3. Cuando veas **manos sucias / ojos rojos / all day**, piensa en **Continuous**.  
-4. Practica en la [Unidad 2 del curso B1](/curso-b1/unit-2).
+4. Practica en el [cuaderno de ejercicios de la Unidad 2](/blog/curso-b1/unidad-2-present-perfect-continuous-ejercicios-soluciones) y en la [Unidad 2 del curso B1](/curso-b1/unit-2).
 
 La **Unidad 3** introduce el **Past Perfect** (*had + past participle*) para secuencias en el pasado.
 
@@ -323,11 +325,17 @@ En la **Unidad 3** estudiarás **Past Perfect**: *had + past participle* para la
 
 Guías y curso:
 
+- [Ejercicios Unidad 2 B1 (con soluciones)](/blog/curso-b1/unidad-2-present-perfect-continuous-ejercicios-soluciones)
 - [Unidad 3 — Past Perfect](/curso-b1/unit-3)
 - [Past Perfect (guía)](/blog/gramatica/past-perfect-ingles)
 - [U1 — Repaso A2 → B1](/blog/curso-b1/unidad-1-repaso-a2-b1)
 - [Present Perfect Continuous (guía)](/blog/gramatica/present-perfect-continuous)
 - [Cursos online de inglés B1](/blog/metodos/cursos-online-ingles-b1)
+
+Practica ahora:
+
+- [Ejercicios Unidad 2 B1 (con soluciones)](/blog/curso-b1/unidad-2-present-perfect-continuous-ejercicios-soluciones)
+- [Unidad 2 — Present Perfect Continuous](/curso-b1/unit-2)
 
 ---
 
