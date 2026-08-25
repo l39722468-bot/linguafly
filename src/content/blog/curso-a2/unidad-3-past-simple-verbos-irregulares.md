@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-3-past-simple-verbos-
 image: /blog/curso-a2/unit-3/a2-unit3-irregular-verbs.png
 alt: Tabla de verbos irregulares del Past Simple para inglés A2
 related_routes:
+  - unidad-3-past-simple-verbos-irregulares-ejercicios-soluciones
   - past-simple-verbos-irregulares
   - past-simple-usos-reglas
   - errores-tiempos-pasado-espanoles
@@ -43,8 +44,9 @@ faqs:
       friend (talked = regular de la U2).
   - question: ¿Dónde practico la Unidad 3 del curso A2?
     answer: >-
-      En la Unidad 3 del curso A2 de Linguafly practicarás estos irregulares en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 3 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 3 del curso A2: Past Simple con verbos irregulares went,
   saw, had, made, wrote y bought, con audios y ejercicios.
@@ -389,7 +391,7 @@ Escribe 8–12 frases. Incluye al menos:
 1. Haz tarjetas: cara A = *go*, cara B = *went*.  
 2. Cada día cuenta un mini-viaje con *went / saw / bought / had*.  
 3. Si aún dudas con *-ed*, vuelve a [U2 regulares](/blog/curso-a2/unidad-2-past-simple-verbos-regulares).  
-4. Practica en la [Unidad 3 del curso A2](/curso-a2/unit-3).
+4. Practica en el [cuaderno de ejercicios de la Unidad 3](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares-ejercicios-soluciones) y en la [Unidad 3 del curso A2](/curso-a2/unit-3).
 
 La **Unidad 4** trabaja **Wh-questions in the Past**: *What did you do?*, *Where did you go?*, *When / Who / Why / How did…?*
 
@@ -416,6 +418,11 @@ Guía dedicada y curso:
 
 - [Unidad 4 — Wh-questions en Past Simple](/blog/curso-a2/unidad-4-wh-questions-past-simple)
 - [Unidad 4 — Wh-questions en Past Simple](/curso-a2/unit-4)
+
+Practica ahora:
+
+- [Ejercicios Unidad 3 A2 (con soluciones)](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares-ejercicios-soluciones)
+- [Unidad 3 — Past Simple: verbos irregulares](/curso-a2/unit-3)
 
 Guías relacionadas:
 

@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-2-past-simple-verbos-
 image: /blog/curso-a2/unit-2/a2-unit2-past-simple-ed.png
 alt: Esquema Past Simple verbos regulares con -ed para inglés A2
 related_routes:
+  - unidad-2-past-simple-verbos-regulares-ejercicios-soluciones
   - past-simple-usos-reglas
   - errores-tiempos-pasado-espanoles
   - pronunciacion-ed-s-ingles
@@ -44,8 +45,9 @@ faqs:
       talked, rested, cooked — con relatos de ayer o la semana pasada.
   - question: ¿Dónde practico la Unidad 2 del curso A2?
     answer: >-
-      En la Unidad 2 del curso A2 de Linguafly practicarás Past Simple regular
-      en gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 2 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 2 del curso A2: Past Simple con verbos regulares (-ed) y
   expresiones yesterday, last week y ago, con audios y ejercicios.
@@ -390,7 +392,7 @@ Escribe 8–12 frases en Past Simple regular. Incluye:
 1. Cuenta **un día real**: morning → afternoon → evening.  
 2. Cada vez que digas *yesterday*, comprueba que el verbo lleva *-ed*.  
 3. Lista de 10 regulares en una hoja y di una frase con cada uno.  
-4. Practica en la [Unidad 2 del curso A2](/curso-a2/unit-2).
+4. Practica en el [cuaderno de ejercicios de la Unidad 2](/blog/curso-a2/unidad-2-past-simple-verbos-regulares-ejercicios-soluciones) y en la [Unidad 2 del curso A2](/curso-a2/unit-2).
 
 La **Unidad 3** entra en los **verbos irregulares**: *went, saw, had, made, wrote, bought…*
 
@@ -417,6 +419,11 @@ Guía dedicada y curso:
 
 - [Unidad 3 — Past Simple: verbos irregulares](/blog/curso-a2/unidad-3-past-simple-verbos-irregulares)
 - [Unidad 3 — Past Simple: verbos irregulares](/curso-a2/unit-3)
+
+Practica ahora:
+
+- [Ejercicios Unidad 2 A2 (con soluciones)](/blog/curso-a2/unidad-2-past-simple-verbos-regulares-ejercicios-soluciones)
+- [Unidad 2 — Past Simple: verbos regulares](/curso-a2/unit-2)
 
 Guías relacionadas:
 

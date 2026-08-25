@@ -465,10 +465,16 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
     { courseId: 'a2', unitNumber: 2 },
     { courseId: 'a2', unitNumber: 3 },
   ],
+  'unidad-2-past-simple-verbos-regulares-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 2 },
+  ],
   'unidad-3-past-simple-verbos-irregulares': [
     { courseId: 'a2', unitNumber: 3 },
     { courseId: 'a2', unitNumber: 2 },
     { courseId: 'a2', unitNumber: 4 },
+  ],
+  'unidad-3-past-simple-verbos-irregulares-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 3 },
   ],
   'unidad-4-wh-questions-past-simple': [
     { courseId: 'a2', unitNumber: 4 },
