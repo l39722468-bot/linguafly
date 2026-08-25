@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-38-should-ought-to'
 image: /blog/curso-a2/unit-38/a2-unit38-should-ought-to.png
 alt: Esquema Should y Ought to A2
 related_routes:
+  - unidad-38-should-ought-to-ejercicios-soluciones
   - unidad-37-would-like-vs-like
   - verbos-modales-ingles-guia
   - ingles-a2
@@ -42,8 +43,8 @@ faqs:
       rest.
   - question: ¿Dónde practico la Unidad 38 del curso A2?
     answer: >-
-      En la Unidad 38 del curso A2 de Linguafly practicarás should y ought to en
-      gramática, vocabulario, reading, listening y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-38-should-ought-to-ejercicios-soluciones) y en la Unidad 38 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening y writing.
 excerpt: >-
   Guía de la Unidad 38 del curso A2: should, shouldn't y ought to para dar
   consejos, con audios y ejercicios.
@@ -418,7 +419,7 @@ Un amigo viene a tu ciudad por primera vez. Escribe **al menos 6 consejos** con:
 
 1. Piensa: ¿estoy **recomendando** o **obligando**?  
 2. En el día a día, prioriza **should** / **shouldn't**.  
-3. Practica en la [Unidad 38 del curso A2](/curso-a2/unit-38).
+3. Practica en el [cuaderno de ejercicios de la Unidad 38](/blog/curso-a2/unidad-38-should-ought-to-ejercicios-soluciones) y en la [Unidad 38 del curso A2](/curso-a2/unit-38).
 
 La **Unidad 39** trabaja **Adverbial Phrases** (tiempo, lugar y frecuencia).
 
@@ -442,6 +443,11 @@ En la **Unidad 39** verás **Adverbial Phrases**.
 Curso:
 
 - [Unidad 39 — Adverbial Phrases](/curso-a2/unit-39)
+
+Practica ahora:
+
+- [Ejercicios Unidad 38 A2 (con soluciones)](/blog/curso-a2/unidad-38-should-ought-to-ejercicios-soluciones)
+- [Unidad 38 — Should / Ought to](/curso-a2/unit-38)
 
 Guías relacionadas:
 

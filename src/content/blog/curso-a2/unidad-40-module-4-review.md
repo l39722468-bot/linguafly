@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-40-module-4-review'
 image: /blog/curso-a2/unit-40/a2-unit40-module-4-review.png
 alt: Esquema de repaso del Módulo 4 A2
 related_routes:
+  - unidad-40-module-4-review-ejercicios-soluciones
   - unidad-39-adverbial-phrases
   - unidad-38-should-ought-to
   - unidad-37-would-like-vs-like
@@ -44,8 +45,8 @@ faqs:
       evening.
   - question: ¿Dónde practico la Unidad 40 del curso A2?
     answer: >-
-      En la Unidad 40 del curso A2 de Linguafly harás el repaso integrado del
-      Módulo 4.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-40-module-4-review-ejercicios-soluciones) y en la Unidad 40 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening y writing.
 excerpt: >-
   Repaso de la Unidad 40 (Módulo 4 A2): phrasal verbs, gerundios, artículos,
   would like, should y adverbial phrases, con ejercicios mixtos.
@@ -404,7 +405,7 @@ Escribe sobre un día típico. Incluye al menos:
 
 1. No memorices todo el mismo día: repasa **2–3 temas** por sesión.  
 2. Habla en voz alta los diálogos del café y del sábado.  
-3. Practica el repaso en la [Unidad 40 del curso A2](/curso-a2/unit-40).
+3. Practica en el [cuaderno de ejercicios de la Unidad 40](/blog/curso-a2/unidad-40-module-4-review-ejercicios-soluciones) y en la [Unidad 40 del curso A2](/curso-a2/unit-40).
 
 El **Módulo 5** empieza con **Travel & Transport** (Unidad 41).
 
@@ -430,6 +431,11 @@ En la **Unidad 41** verás **Travel & Transport**.
 Curso:
 
 - [Unidad 41 — Travel & Transport](/curso-a2/unit-41)
+
+Practica ahora:
+
+- [Ejercicios Unidad 40 A2 (con soluciones)](/blog/curso-a2/unidad-40-module-4-review-ejercicios-soluciones)
+- [Unidad 40 — Module 4 Review](/curso-a2/unit-40)
 
 Guías del módulo:
 

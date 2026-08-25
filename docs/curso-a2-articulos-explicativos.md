@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U35)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U40)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -89,11 +89,11 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 | 33 | Gerunds & Infinitives | *like -ing* / *want to* / *would like to* | ✅ | [Gerundios e infinitivos A2](/blog/curso-a2/unidad-33-gerunds-infinitives) · [Ejercicios + soluciones](/blog/curso-a2/unidad-33-gerunds-infinitives-ejercicios-soluciones) |
 | 34 | Subject & Object Questions | *Who called you?* / *Who did you call?* | ✅ | [Subject & Object Questions A2](/blog/curso-a2/unidad-34-subject-object-questions) · [Ejercicios + soluciones](/blog/curso-a2/unidad-34-subject-object-questions-ejercicios-soluciones) |
 | 35 | Some, Any, Much, Many (revisión) | *some/any*, *much/many*, *a lot of* | ✅ | [Some, any, much, many A2](/blog/curso-a2/unidad-35-some-any-much-many) · [Ejercicios + soluciones](/blog/curso-a2/unidad-35-some-any-much-many-ejercicios-soluciones) |
-| 36 | Articles: A/An, The, No Article | *a/an*, *the*, ø | ✅ | [Artículos A2](/blog/curso-a2/unidad-36-articles-a-an-the) |
-| 37 | Would like vs Like | *I'd like* vs *I like* | ✅ | [Would like vs Like A2](/blog/curso-a2/unidad-37-would-like-vs-like) |
-| 38 | Should / Ought to | *should*, *shouldn't*, *ought to* | ✅ | [Should / Ought to A2](/blog/curso-a2/unidad-38-should-ought-to) |
-| 39 | Adverbial Phrases | *at the moment*, *once a week*… | ✅ | [Adverbial Phrases A2](/blog/curso-a2/unidad-39-adverbial-phrases) |
-| 40 | Module 4 Review | repaso Módulo 4 (U31–U39) | ✅ | [Module 4 Review A2](/blog/curso-a2/unidad-40-module-4-review) |
+| 36 | Articles: A/An, The, No Article | *a/an*, *the*, ø | ✅ | [Artículos A2](/blog/curso-a2/unidad-36-articles-a-an-the) · [Ejercicios + soluciones](/blog/curso-a2/unidad-36-articles-a-an-the-ejercicios-soluciones) |
+| 37 | Would like vs Like | *I'd like* vs *I like* | ✅ | [Would like vs Like A2](/blog/curso-a2/unidad-37-would-like-vs-like) · [Ejercicios + soluciones](/blog/curso-a2/unidad-37-would-like-vs-like-ejercicios-soluciones) |
+| 38 | Should / Ought to | *should*, *shouldn't*, *ought to* | ✅ | [Should / Ought to A2](/blog/curso-a2/unidad-38-should-ought-to) · [Ejercicios + soluciones](/blog/curso-a2/unidad-38-should-ought-to-ejercicios-soluciones) |
+| 39 | Adverbial Phrases | *at the moment*, *once a week*… | ✅ | [Adverbial Phrases A2](/blog/curso-a2/unidad-39-adverbial-phrases) · [Ejercicios + soluciones](/blog/curso-a2/unidad-39-adverbial-phrases-ejercicios-soluciones) |
+| 40 | Module 4 Review | repaso Módulo 4 (U31–U39) | ✅ | [Module 4 Review A2](/blog/curso-a2/unidad-40-module-4-review) · [Ejercicios + soluciones](/blog/curso-a2/unidad-40-module-4-review-ejercicios-soluciones) |
 
 ## Módulos 5–6 (U41–60)
 

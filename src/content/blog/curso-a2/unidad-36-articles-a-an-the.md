@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-36-articles-a-an-the'
 image: /blog/curso-a2/unit-36/a2-unit36-articles.png
 alt: Esquema de artículos a an the A2
 related_routes:
+  - unidad-36-articles-a-an-the-ejercicios-soluciones
   - unidad-35-some-any-much-many
   - articulos-a-an-the
   - contables-e-incontables
@@ -45,8 +46,8 @@ faqs:
       the USA, the Netherlands.
   - question: ¿Dónde practico la Unidad 36 del curso A2?
     answer: >-
-      En la Unidad 36 del curso A2 de Linguafly practicarás artículos en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-36-articles-a-an-the-ejercicios-soluciones) y en la Unidad 36 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening, speaking y writing.
 excerpt: >-
   Guía de la Unidad 36 del curso A2: a/an, the y omisión del artículo, con
   audios y ejercicios.
@@ -409,7 +410,7 @@ Describe un paseo por tu ciudad. Incluye:
 
 1. Pregúntate: ¿es **nuevo**, **conocido** o **general**?  
 2. Lee en voz alta pares: *a cat → the cat*; *music* vs *the music in this film*.  
-3. Practica en la [Unidad 36 del curso A2](/curso-a2/unit-36).
+3. Practica en el [cuaderno de ejercicios de la Unidad 36](/blog/curso-a2/unidad-36-articles-a-an-the-ejercicios-soluciones) y en la [Unidad 36 del curso A2](/curso-a2/unit-36).
 
 La **Unidad 37** profundiza en **Would like vs Like** (deseo educado vs gusto).
 
@@ -432,6 +433,11 @@ En la **Unidad 37** verás **Would like vs Like**.
 Curso:
 
 - [Unidad 37 — Would like vs Like](/curso-a2/unit-37)
+
+Practica ahora:
+
+- [Ejercicios Unidad 36 A2 (con soluciones)](/blog/curso-a2/unidad-36-articles-a-an-the-ejercicios-soluciones)
+- [Unidad 36 — Articles](/curso-a2/unit-36)
 
 Guías relacionadas:
 

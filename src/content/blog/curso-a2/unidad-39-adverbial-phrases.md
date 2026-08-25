@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-39-adverbial-phrases'
 image: /blog/curso-a2/unit-39/a2-unit39-adverbial-phrases.png
 alt: Esquema de frases adverbiales A2
 related_routes:
+  - unidad-39-adverbial-phrases-ejercicios-soluciones
   - unidad-38-should-ought-to
   - unidad-8-preposiciones-tiempo-at-on-in
   - unidad-33-adverbios-frecuencia
@@ -42,8 +43,8 @@ faqs:
       every week = cada semana.
   - question: ¿Dónde practico la Unidad 39 del curso A2?
     answer: >-
-      En la Unidad 39 del curso A2 de Linguafly practicarás frases adverbiales
-      de tiempo, lugar y frecuencia.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-39-adverbial-phrases-ejercicios-soluciones) y en la Unidad 39 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening y writing.
 excerpt: >-
   Guía de la Unidad 39 del curso A2: frases adverbiales de tiempo, lugar y
   frecuencia, con orden de palabras, audios y ejercicios.
@@ -422,7 +423,7 @@ Describe tu semana típica. Incluye al menos:
 
 1. Aprende las frases como **bloques** (*at the moment*, *once a week*).  
 2. Al escribir, revisa el orden: ¿lugar antes que tiempo?  
-3. Practica en la [Unidad 39 del curso A2](/curso-a2/unit-39).
+3. Practica en el [cuaderno de ejercicios de la Unidad 39](/blog/curso-a2/unidad-39-adverbial-phrases-ejercicios-soluciones) y en la [Unidad 39 del curso A2](/curso-a2/unit-39).
 
 La **Unidad 40** es el **repaso del Módulo 4** (phrasal verbs, gerundios, artículos, *would like*, *should*…).
 
@@ -446,6 +447,11 @@ En la **Unidad 40** harás el **Module 4 Review**.
 Curso:
 
 - [Unidad 40 — Module 4 Review](/curso-a2/unit-40)
+
+Practica ahora:
+
+- [Ejercicios Unidad 39 A2 (con soluciones)](/blog/curso-a2/unidad-39-adverbial-phrases-ejercicios-soluciones)
+- [Unidad 39 — Adverbial Phrases](/curso-a2/unit-39)
 
 Guías relacionadas:
 

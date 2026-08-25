@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-37-would-like-vs-like
 image: /blog/curso-a2/unit-37/a2-unit37-would-like-vs-like.png
 alt: Esquema Would like vs Like A2
 related_routes:
+  - unidad-37-would-like-vs-like-ejercicios-soluciones
   - unidad-36-articles-a-an-the
   - unidad-33-gerunds-infinitives
   - unidad-16-cafeteria-can-i-have-id-like
@@ -43,8 +44,8 @@ faqs:
       coffee o I'd like a coffee, please.
   - question: ¿Dónde practico la Unidad 37 del curso A2?
     answer: >-
-      En la Unidad 37 del curso A2 de Linguafly practicarás would like y like en
-      gramática, vocabulario, reading, listening y writing.
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-37-would-like-vs-like-ejercicios-soluciones) y en la Unidad 37 del curso A2 de Linguafly: gramática, vocabulario,
+      reading, listening y writing.
 excerpt: >-
   Guía de la Unidad 37 del curso A2: I like vs I'd like / Would you like…?, con
   audios, diálogos de café y ejercicios.
@@ -422,7 +423,7 @@ Escribe un diálogo en un café entre un cliente y un camarero. Incluye:
 
 1. Traduce mentalmente: ¿es **me gusta** o **querría / me gustaría pedir**?  
 2. En servicios (café, tienda, hotel), prioriza **I'd like** y **Would you like**.  
-3. Practica en la [Unidad 37 del curso A2](/curso-a2/unit-37).
+3. Practica en el [cuaderno de ejercicios de la Unidad 37](/blog/curso-a2/unidad-37-would-like-vs-like-ejercicios-soluciones) y en la [Unidad 37 del curso A2](/curso-a2/unit-37).
 
 La **Unidad 38** trabaja **Should / Ought to** (consejos y recomendaciones).
 
@@ -446,6 +447,11 @@ En la **Unidad 38** verás **Should / Ought to**.
 Curso:
 
 - [Unidad 38 — Should / Ought to](/curso-a2/unit-38)
+
+Practica ahora:
+
+- [Ejercicios Unidad 37 A2 (con soluciones)](/blog/curso-a2/unidad-37-would-like-vs-like-ejercicios-soluciones)
+- [Unidad 37 — Would like vs Like](/curso-a2/unit-37)
 
 Guías relacionadas:
 
