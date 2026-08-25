@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-42-accommodation'
 image: /blog/curso-a2/unit-42/a2-unit42-accommodation.png
 alt: Esquema Accommodation A2 hotel English
 related_routes:
+  - unidad-42-accommodation-ejercicios-soluciones
   - unidad-41-travel-transport
   - ingles-para-viajar
   - unidad-37-would-like-vs-like
@@ -41,7 +42,7 @@ faqs:
       Que el desayuno está incluido en el precio de la habitación.
   - question: ¿Dónde practico la Unidad 42 del curso A2?
     answer: >-
-      En la Unidad 42 del curso A2 de Linguafly practicarás vocabulario y
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-42-accommodation-ejercicios-soluciones) y en la Unidad 42 del curso A2 de Linguafly practicarás vocabulario y
       diálogos de alojamiento.
 excerpt: >-
   Guía de la Unidad 42 del curso A2: book, check in/out, tipos de habitación y
@@ -405,7 +406,7 @@ Escribe un diálogo en recepción. Incluye:
 
 1. Combina con [Would like](/blog/curso-a2/unidad-37-would-like-vs-like): *I'd like to book…*  
 2. Practica el check-in en voz alta (pasaporte + room number).  
-3. Practica en la [Unidad 42 del curso A2](/curso-a2/unit-42).
+3. Practica en el [cuaderno de ejercicios de la Unidad 42](/blog/curso-a2/unidad-42-accommodation-ejercicios-soluciones) y en la [Unidad 42 del curso A2](/curso-a2/unit-42).
 
 La **Unidad 43** es **Holiday Activities** (qué hacer de vacaciones).
 
@@ -430,6 +431,11 @@ En la **Unidad 43** verás **Holiday Activities**.
 Curso:
 
 - [Unidad 43 — Holiday Activities](/curso-a2/unit-43)
+
+Practica ahora:
+
+- [Ejercicios Unidad 42 A2 (con soluciones)](/blog/curso-a2/unidad-42-accommodation-ejercicios-soluciones)
+- [Unidad 42 — Accommodation](/curso-a2/unit-42)
 
 Guías relacionadas:
 

@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-43-holiday-activities
 image: /blog/curso-a2/unit-43/a2-unit43-holiday-activities.png
 alt: Esquema Holiday Activities A2
 related_routes:
+  - unidad-43-holiday-activities-ejercicios-soluciones
   - unidad-42-accommodation
   - unidad-41-travel-transport
   - present-perfect-vs-past-simple
@@ -43,7 +44,7 @@ faqs:
       hiking?
   - question: ¿Dónde practico la Unidad 43 del curso A2?
     answer: >-
-      En la Unidad 43 del curso A2 de Linguafly practicarás actividades de
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-43-holiday-activities-ejercicios-soluciones) y en la Unidad 43 del curso A2 de Linguafly practicarás actividades de
       vacaciones y experiencias de viaje.
 excerpt: >-
   Guía de la Unidad 43 del curso A2: actividades de vacaciones y contraste Past
@@ -394,7 +395,7 @@ Escribe una postal de vacaciones. Incluye:
 
 1. Pregúntate siempre: ¿digo **cuándo** o solo **experiencia**?  
 2. Lista 5 actividades de tus últimas vacaciones en Past Simple.  
-3. Practica en la [Unidad 43 del curso A2](/curso-a2/unit-43).
+3. Practica en el [cuaderno de ejercicios de la Unidad 43](/blog/curso-a2/unidad-43-holiday-activities-ejercicios-soluciones) y en la [Unidad 43 del curso A2](/curso-a2/unit-43).
 
 La **Unidad 44** es **The Weather** (describir el tiempo).
 
@@ -418,6 +419,11 @@ En la **Unidad 44** verás **The Weather**.
 Curso:
 
 - [Unidad 44 — The Weather](/curso-a2/unit-44)
+
+Practica ahora:
+
+- [Ejercicios Unidad 43 A2 (con soluciones)](/blog/curso-a2/unidad-43-holiday-activities-ejercicios-soluciones)
+- [Unidad 43 — Holiday Activities](/curso-a2/unit-43)
 
 Guías relacionadas:
 

@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-41-travel-transport'
 image: /blog/curso-a2/unit-41/a2-unit41-travel-transport.png
 alt: Esquema Travel and Transport A2
 related_routes:
+  - unidad-41-travel-transport-ejercicios-soluciones
   - unidad-40-module-4-review
   - ingles-para-viajar
   - unidad-41-aeropuerto-must-should
@@ -42,7 +43,7 @@ faqs:
       How do I get to + lugar? Por ejemplo: How do I get to the airport?
   - question: ¿Dónde practico la Unidad 41 del curso A2?
     answer: >-
-      En la Unidad 41 del curso A2 de Linguafly practicarás transporte y viajes
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-41-travel-transport-ejercicios-soluciones) y en la Unidad 41 del curso A2 de Linguafly practicarás transporte y viajes
       en gramática, vocabulario, reading, listening y writing.
 excerpt: >-
   Guía de la Unidad 41 del curso A2: by + transporte, take the…, get to / arrive
@@ -400,7 +401,7 @@ Describe cómo vas del centro al aeropuerto (o a otro sitio real). Incluye:
 
 1. Aprende bloques: *get to the airport*, *take the train*, *arrive at the station*.  
 2. Practica preguntar direcciones en voz alta.  
-3. Practica en la [Unidad 41 del curso A2](/curso-a2/unit-41).
+3. Practica en el [cuaderno de ejercicios de la Unidad 41](/blog/curso-a2/unidad-41-travel-transport-ejercicios-soluciones) y en la [Unidad 41 del curso A2](/curso-a2/unit-41).
 
 La **Unidad 42** es **Accommodation** (hotel, reserva, check-in).
 
@@ -425,6 +426,11 @@ En la **Unidad 42** verás **Accommodation**.
 Curso:
 
 - [Unidad 42 — Accommodation](/curso-a2/unit-42)
+
+Practica ahora:
+
+- [Ejercicios Unidad 41 A2 (con soluciones)](/blog/curso-a2/unidad-41-travel-transport-ejercicios-soluciones)
+- [Unidad 41 — Travel & Transport](/curso-a2/unit-41)
 
 Guías relacionadas:
 

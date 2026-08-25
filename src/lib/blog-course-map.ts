@@ -717,6 +717,21 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-45-entertainment-media': [
     { courseId: 'a2', unitNumber: 45 },
   ],
+  'unidad-41-travel-transport-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 41 },
+  ],
+  'unidad-42-accommodation-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 42 },
+  ],
+  'unidad-43-holiday-activities-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 43 },
+  ],
+  'unidad-44-the-weather-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 44 },
+  ],
+  'unidad-45-entertainment-media-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 45 },
+  ],
   'unidad-46-shopping-services': [
     { courseId: 'a2', unitNumber: 46 },
   ],

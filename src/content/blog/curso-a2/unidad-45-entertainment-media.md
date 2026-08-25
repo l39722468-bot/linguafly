@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-45-entertainment-medi
 image: /blog/curso-a2/unit-45/a2-unit45-entertainment-media.png
 alt: Esquema Entertainment & Media A2
 related_routes:
+  - unidad-45-entertainment-media-ejercicios-soluciones
   - unidad-44-the-weather
   - unidad-37-would-like-vs-like
   - ingles-a2
@@ -43,7 +44,7 @@ faqs:
       comedies to dramas.
   - question: ¿Dónde practico la Unidad 45 del curso A2?
     answer: >-
-      En la Unidad 45 del curso A2 de Linguafly practicarás vocabulario y
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-45-entertainment-media-ejercicios-soluciones) y en la Unidad 45 del curso A2 de Linguafly practicarás vocabulario y
       estructuras relacionadas con ocio y medios.
 excerpt: >-
   Guía de la Unidad 45 del curso A2: hablar de películas, series y música con
@@ -393,7 +394,7 @@ Recomienda una película o serie. Incluye:
 
 1. Di en voz alta qué viste / escuchaste ayer.  
 2. Lee una reseña corta en inglés y copia 3 frases útiles.  
-3. Practica en la [Unidad 45 del curso A2](/curso-a2/unit-45).
+3. Practica en el [cuaderno de ejercicios de la Unidad 45](/blog/curso-a2/unidad-45-entertainment-media-ejercicios-soluciones) y en la [Unidad 45 del curso A2](/curso-a2/unit-45).
 
 La **Unidad 46** es **Shopping & Services** (compras y servicios).
 
@@ -418,6 +419,11 @@ En la **Unidad 46** verás **Shopping & Services**.
 Curso:
 
 - [Unidad 46 — Shopping & Services](/curso-a2/unit-46)
+
+Practica ahora:
+
+- [Ejercicios Unidad 45 A2 (con soluciones)](/blog/curso-a2/unidad-45-entertainment-media-ejercicios-soluciones)
+- [Unidad 45 — Entertainment & Media](/curso-a2/unit-45)
 
 Guías relacionadas:
 

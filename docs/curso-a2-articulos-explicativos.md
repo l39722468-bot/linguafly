@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U40)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U45)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -99,11 +99,11 @@ Ver detalle: `docs/que-aprende-por-unidad-a2.md`.
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 41 | Travel & Transport | *by bus*, *take the train*, *get to*, *arrive at* | ✅ | [Travel & Transport A2](/blog/curso-a2/unidad-41-travel-transport) |
-| 42 | Accommodation | *book*, *check in/out*, *single/double room* | ✅ | [Accommodation A2](/blog/curso-a2/unidad-42-accommodation) |
-| 43 | Holiday Activities | *sightseeing*, Past Simple / Present Perfect | ✅ | [Holiday Activities A2](/blog/curso-a2/unidad-43-holiday-activities) |
-| 44 | The Weather | *It's sunny*, *It's going to rain*, *will* | ✅ | [The Weather A2](/blog/curso-a2/unidad-44-the-weather) |
-| 45 | Entertainment & Media | *watch*, *listen to*, *like* + -ing, *prefer* | ✅ | [Entertainment & Media A2](/blog/curso-a2/unidad-45-entertainment-media) |
+| 41 | Travel & Transport | *by bus*, *take the train*, *get to*, *arrive at* | ✅ | [Travel & Transport A2](/blog/curso-a2/unidad-41-travel-transport) · [Ejercicios + soluciones](/blog/curso-a2/unidad-41-travel-transport-ejercicios-soluciones) |
+| 42 | Accommodation | *book*, *check in/out*, *single/double room* | ✅ | [Accommodation A2](/blog/curso-a2/unidad-42-accommodation) · [Ejercicios + soluciones](/blog/curso-a2/unidad-42-accommodation-ejercicios-soluciones) |
+| 43 | Holiday Activities | *sightseeing*, Past Simple / Present Perfect | ✅ | [Holiday Activities A2](/blog/curso-a2/unidad-43-holiday-activities) · [Ejercicios + soluciones](/blog/curso-a2/unidad-43-holiday-activities-ejercicios-soluciones) |
+| 44 | The Weather | *It's sunny*, *It's going to rain*, *will* | ✅ | [The Weather A2](/blog/curso-a2/unidad-44-the-weather) · [Ejercicios + soluciones](/blog/curso-a2/unidad-44-the-weather-ejercicios-soluciones) |
+| 45 | Entertainment & Media | *watch*, *listen to*, *like* + -ing, *prefer* | ✅ | [Entertainment & Media A2](/blog/curso-a2/unidad-45-entertainment-media) · [Ejercicios + soluciones](/blog/curso-a2/unidad-45-entertainment-media-ejercicios-soluciones) |
 | 46 | Shopping & Services | *Can I help you?*, *I'm looking for…*, *How much…?* | ✅ | [Shopping & Services A2](/blog/curso-a2/unidad-46-shopping-services) |
 | 47 | Health & Body | *have a headache*, *should*, *pharmacy* | ✅ | [Health & Body A2](/blog/curso-a2/unidad-47-health-body) |
 | 48 | Clothes & Fashion | *wear*, *too* vs *enough*, *outfit* | ✅ | [Clothes & Fashion A2](/blog/curso-a2/unidad-48-clothes-fashion) |

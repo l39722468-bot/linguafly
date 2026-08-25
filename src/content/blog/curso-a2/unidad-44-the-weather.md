@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-44-the-weather'
 image: /blog/curso-a2/unit-44/a2-unit44-the-weather.png
 alt: Esquema The Weather A2
 related_routes:
+  - unidad-44-the-weather-ejercicios-soluciones
   - unidad-43-holiday-activities
   - unidad-25-futuro-going-to-will-present-continuous
   - ingles-para-viajar
@@ -42,7 +43,7 @@ faqs:
       adjetivo: It's a rainy day.
   - question: ¿Dónde practico la Unidad 44 del curso A2?
     answer: >-
-      En la Unidad 44 del curso A2 de Linguafly practicarás vocabulario y
+      En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-44-the-weather-ejercicios-soluciones) y en la Unidad 44 del curso A2 de Linguafly practicarás vocabulario y
       predicciones del tiempo.
 excerpt: >-
   Guía de la Unidad 44 del curso A2: describir el tiempo y hacer predicciones
@@ -400,7 +401,7 @@ Describe el tiempo en tu ciudad: hoy + mañana + fin de semana. Incluye:
 
 1. Mira el cielo y di una frase en voz alta cada día.  
 2. Lee un forecast en inglés (BBC Weather / app) y resume en 3 frases.  
-3. Practica en la [Unidad 44 del curso A2](/curso-a2/unit-44).
+3. Practica en el [cuaderno de ejercicios de la Unidad 44](/blog/curso-a2/unidad-44-the-weather-ejercicios-soluciones) y en la [Unidad 44 del curso A2](/curso-a2/unit-44).
 
 La **Unidad 45** es **Entertainment & Media** (cine, series, música).
 
@@ -425,6 +426,11 @@ En la **Unidad 45** verás **Entertainment & Media**.
 Curso:
 
 - [Unidad 45 — Entertainment & Media](/curso-a2/unit-45)
+
+Practica ahora:
+
+- [Ejercicios Unidad 44 A2 (con soluciones)](/blog/curso-a2/unidad-44-the-weather-ejercicios-soluciones)
+- [Unidad 44 — The Weather](/curso-a2/unit-44)
 
 Guías relacionadas:
 
