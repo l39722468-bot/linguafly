@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-55-tienda-ropa-too-en
 image: /blog/curso-a1/unit-55/a1-unit55-too-enough.png
 alt: Esquema too vs enough en la tienda de ropa A1
 related_routes:
+  - unidad-55-tienda-ropa-too-enough-ejercicios-soluciones
   - vocabulario-ropa-ingles
   - ingles-para-compras
   - ingles-a1
@@ -42,8 +43,9 @@ faqs:
       It isn't small enough.
   - question: ¿Dónde practico la Unidad 55 del curso A1?
     answer: >-
-      En la Unidad 55 del curso A1 de Linguafly practicarás too/enough y
-      vocabulario de tienda de ropa en gramática, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 55 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 55 del curso A1: too vs enough en la tienda de ropa, con
   tallas, probador y audios.
@@ -428,7 +430,7 @@ Escribe 8–10 frases. Incluye:
 1. Memoriza el orden: ***too ADJ*** / ***ADJ enough***.  
 2. Si no te queda: *too big / too small / doesn't fit*.  
 3. Si te queda: *It's big enough* / *It fits*.  
-4. Practica en la [Unidad 55 del curso A1](/curso-a1/unit-55).
+4. Practica en el [cuaderno de ejercicios de la Unidad 55](/blog/curso-a1/unidad-55-tienda-ropa-too-enough-ejercicios-soluciones) y en la [Unidad 55 del curso A1](/curso-a1/unit-55).
 
 La **Unidad 56** te lleva al restaurante: pedir comida y bebidas.
 
@@ -448,6 +450,11 @@ La **Unidad 56** te lleva al restaurante: pedir comida y bebidas.
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 55 A1 (con soluciones)](/blog/curso-a1/unidad-55-tienda-ropa-too-enough-ejercicios-soluciones)
+- [Unidad 55 del curso A1](/curso-a1/unit-55)
 
 En la **Unidad 56** estudiarás **At the Restaurant**: pedir en el restaurante (*I'd like…*, *Can I have…?*, menú).
 
