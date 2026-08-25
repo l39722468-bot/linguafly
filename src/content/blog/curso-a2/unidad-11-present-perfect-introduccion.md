@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-11-present-perfect-in
 image: /blog/curso-a2/unit-11/a2-unit11-present-perfect.png
 alt: Esquema have/has + past participle del Present Perfect A2
 related_routes:
+  - unidad-11-present-perfect-introduccion-ejercicios-soluciones
   - present-perfect-usos-principales
   - present-perfect-vs-past-simple
   - past-simple-verbos-irregulares
@@ -43,8 +44,8 @@ faqs:
       went to Japan). La comparación completa llega en la Unidad 15.
   - question: ¿Dónde practico la Unidad 11 del curso A2?
     answer: >-
-      En la Unidad 11 del curso A2 de Linguafly practicarás have/has + past
-      participle en gramática, vocabulario, reading, listening, speaking y
+      En el cuaderno de ejercicios con soluciones y en la Unidad 11 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
   Guía de la Unidad 11 del curso A2: introducción al Present Perfect con
@@ -412,7 +413,7 @@ Escribe 8–12 frases. Incluye:
 1. Pregunta: ¿cuento una **experiencia** (been) o digo que alguien **sigue fuera** (gone)?  
 2. Lista de 8: *Paris, Rome, sushi, that film, supermarket, home, Spain, London* → haz una frase Present Perfect.  
 3. Grábate: *I have been to… I have seen… I have eaten…*  
-4. Practica en la [Unidad 11 del curso A2](/curso-a2/unit-11).
+4. Practica en el [cuaderno de ejercicios de la Unidad 11](/blog/curso-a2/unidad-11-present-perfect-introduccion-ejercicios-soluciones) y en la [Unidad 11 del curso A2](/curso-a2/unit-11).
 
 La **Unidad 12** añade **ever** y **never**: *Have you ever…? / I have never…*
 
@@ -442,6 +443,11 @@ Guía blog:
 Curso:
 
 - [Unidad 12 — Present Perfect: Ever & Never](/curso-a2/unit-12)
+
+Practica ahora:
+
+- [Ejercicios Unidad 11 A2 (con soluciones)](/blog/curso-a2/unidad-11-present-perfect-introduccion-ejercicios-soluciones)
+- [Unidad 11 — Present Perfect: Introducción](/curso-a2/unit-11)
 
 Guías relacionadas:
 

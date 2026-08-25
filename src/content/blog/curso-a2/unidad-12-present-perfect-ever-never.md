@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-12-present-perfect-ev
 image: /blog/curso-a2/unit-12/a2-unit12-ever-never.png
 alt: Esquema Have you ever e I have never del Present Perfect A2
 related_routes:
+  - unidad-12-present-perfect-ever-never-ejercicios-soluciones
   - present-perfect-ever-never
   - present-perfect-usos-principales
   - present-perfect-vs-past-simple
@@ -41,8 +42,9 @@ faqs:
       Evita never have been y have been never.
   - question: ¿Dónde practico la Unidad 12 del curso A2?
     answer: >-
-      En la Unidad 12 del curso A2 de Linguafly practicarás ever/never en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 12 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 12 del curso A2: Present Perfect con ever y never,
   respuestas cortas, audios y ejercicios.
@@ -389,7 +391,7 @@ Escribe 8–12 líneas:
 
 1. Plantilla: *Have you ever + past participle…?* → *Yes, I have.* / *No, I haven't. I have never…*  
 2. Lista: *been to Japan, eaten sushi, flown, ridden a horse, been to a concert, seen snow, tried Italian food, been to a football match*.  
-3. Practica en la [Unidad 12 del curso A2](/curso-a2/unit-12).
+3. Practica en el [cuaderno de ejercicios de la Unidad 12](/blog/curso-a2/unidad-12-present-perfect-ever-never-ejercicios-soluciones) y en la [Unidad 12 del curso A2](/curso-a2/unit-12).
 
 La **Unidad 13** añade **already** y **yet**: *I have already…* / *I haven't… yet*.
 
@@ -418,6 +420,11 @@ Guía blog:
 Curso:
 
 - [Unidad 13 — Present Perfect: Already & Yet](/curso-a2/unit-13)
+
+Practica ahora:
+
+- [Ejercicios Unidad 12 A2 (con soluciones)](/blog/curso-a2/unidad-12-present-perfect-ever-never-ejercicios-soluciones)
+- [Unidad 12 — Present Perfect: Ever & Never](/curso-a2/unit-12)
 
 Guías relacionadas:
 

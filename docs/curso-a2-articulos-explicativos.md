@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso A2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U10)  
+**Última actualización:** 2026-08-25 (artículos U1–U60; +cuadernos ejercicios U1–U15)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso.
 
 ---
@@ -50,11 +50,11 @@ Documento de referencia para consultar qué unidades del curso A2 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 11 | Present Perfect: Introduction | have/has + past participle; been, seen, eaten, gone | ✅ | [Present Perfect intro A2](/blog/curso-a2/unidad-11-present-perfect-introduccion) |
-| 12 | Present Perfect: Ever & Never | ever / never | ✅ | [Present Perfect ever/never A2](/blog/curso-a2/unidad-12-present-perfect-ever-never) |
-| 13 | Present Perfect: Already & Yet | already / yet | ✅ | [Present Perfect already/yet A2](/blog/curso-a2/unidad-13-present-perfect-already-yet) |
-| 14 | Present Perfect: Just | just | ✅ | [Present Perfect just A2](/blog/curso-a2/unidad-14-present-perfect-just) |
-| 15 | Present Perfect vs Past Simple | contraste | ✅ | [Present Perfect vs Past Simple A2](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple) |
+| 11 | Present Perfect: Introduction | have/has + past participle; been, seen, eaten, gone | ✅ | [Present Perfect intro A2](/blog/curso-a2/unidad-11-present-perfect-introduccion) · [Ejercicios + soluciones](/blog/curso-a2/unidad-11-present-perfect-introduccion-ejercicios-soluciones) |
+| 12 | Present Perfect: Ever & Never | ever / never | ✅ | [Present Perfect ever/never A2](/blog/curso-a2/unidad-12-present-perfect-ever-never) · [Ejercicios + soluciones](/blog/curso-a2/unidad-12-present-perfect-ever-never-ejercicios-soluciones) |
+| 13 | Present Perfect: Already & Yet | already / yet | ✅ | [Present Perfect already/yet A2](/blog/curso-a2/unidad-13-present-perfect-already-yet) · [Ejercicios + soluciones](/blog/curso-a2/unidad-13-present-perfect-already-yet-ejercicios-soluciones) |
+| 14 | Present Perfect: Just | just | ✅ | [Present Perfect just A2](/blog/curso-a2/unidad-14-present-perfect-just) · [Ejercicios + soluciones](/blog/curso-a2/unidad-14-present-perfect-just-ejercicios-soluciones) |
+| 15 | Present Perfect vs Past Simple | contraste | ✅ | [Present Perfect vs Past Simple A2](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple) · [Ejercicios + soluciones](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple-ejercicios-soluciones) |
 | 16 | Past Continuous | was/were + -ing | ✅ | [Past Continuous A2](/blog/curso-a2/unidad-16-past-continuous) |
 | 17 | Past Simple + Past Continuous | when / while | ✅ | [Past Simple + Past Continuous A2](/blog/curso-a2/unidad-17-past-simple-past-continuous) |
 | 18 | For & Since | for / since + Present Perfect | ✅ | [For & Since A2](/blog/curso-a2/unidad-18-for-since) |

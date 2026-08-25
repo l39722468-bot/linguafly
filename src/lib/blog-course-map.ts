@@ -525,16 +525,31 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-11-present-perfect-introduccion': [
     { courseId: 'a2', unitNumber: 11 },
   ],
+  'unidad-11-present-perfect-introduccion-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 11 },
+  ],
   'unidad-12-present-perfect-ever-never': [
+    { courseId: 'a2', unitNumber: 12 },
+  ],
+  'unidad-12-present-perfect-ever-never-ejercicios-soluciones': [
     { courseId: 'a2', unitNumber: 12 },
   ],
   'unidad-13-present-perfect-already-yet': [
     { courseId: 'a2', unitNumber: 13 },
   ],
+  'unidad-13-present-perfect-already-yet-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 13 },
+  ],
   'unidad-14-present-perfect-just': [
     { courseId: 'a2', unitNumber: 14 },
   ],
+  'unidad-14-present-perfect-just-ejercicios-soluciones': [
+    { courseId: 'a2', unitNumber: 14 },
+  ],
   'unidad-15-present-perfect-vs-past-simple': [
+    { courseId: 'a2', unitNumber: 15 },
+  ],
+  'unidad-15-present-perfect-vs-past-simple-ejercicios-soluciones': [
     { courseId: 'a2', unitNumber: 15 },
   ],
   'unidad-16-past-continuous': [

@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-15-present-perfect-vs
 image: /blog/curso-a2/unit-15/a2-unit15-pp-vs-ps.png
 alt: Esquema Present Perfect vs Past Simple A2
 related_routes:
+  - unidad-15-present-perfect-vs-past-simple-ejercicios-soluciones
   - present-perfect-vs-past-simple
   - present-perfect-usos-principales
   - past-simple-usos-reglas
@@ -43,9 +44,9 @@ faqs:
       just arrived. I have already booked my trip. I haven't finished yet.
   - question: ¿Dónde practico la Unidad 15 del curso A2?
     answer: >-
-      En la Unidad 15 del curso A2 de Linguafly practicarás el contraste Present
-      Perfect vs Past Simple en gramática, vocabulario, reading, listening,
-      speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 15 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 15 del curso A2: Present Perfect vs Past Simple, marcadores
   temporales, audios y ejercicios.
@@ -429,7 +430,7 @@ Escribe 8–12 frases:
 
 1. Pregunta: **¿Hay fecha concreta?** Sí → Past Simple. No / ever-never-already-yet-just → Present Perfect.  
 2. Practica parejas: *I have been to X* / *Last year I went to X*.  
-3. Practica en la [Unidad 15 del curso A2](/curso-a2/unit-15).
+3. Practica en el [cuaderno de ejercicios de la Unidad 15](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple-ejercicios-soluciones) y en la [Unidad 15 del curso A2](/curso-a2/unit-15).
 
 La **Unidad 16** introduce el **Past Continuous**: *I was watching TV when…*
 
@@ -458,6 +459,11 @@ Guía blog:
 Curso:
 
 - [Unidad 16 — Past Continuous](/curso-a2/unit-16)
+
+Practica ahora:
+
+- [Ejercicios Unidad 15 A2 (con soluciones)](/blog/curso-a2/unidad-15-present-perfect-vs-past-simple-ejercicios-soluciones)
+- [Unidad 15 — Present Perfect vs Past Simple](/curso-a2/unit-15)
 
 Guías relacionadas:
 

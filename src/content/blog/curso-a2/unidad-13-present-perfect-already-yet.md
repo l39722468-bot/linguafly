@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-13-present-perfect-al
 image: /blog/curso-a2/unit-13/a2-unit13-already-yet.png
 alt: Esquema already y yet del Present Perfect A2
 related_routes:
+  - unidad-13-present-perfect-already-yet-ejercicios-soluciones
   - present-perfect-just-already-yet
   - present-perfect-usos-principales
   - present-perfect-ever-never
@@ -42,8 +43,9 @@ faqs:
       yet? Evita I haven't yet finished como forma principal del curso.
   - question: ¿Dónde practico la Unidad 13 del curso A2?
     answer: >-
-      En la Unidad 13 del curso A2 de Linguafly practicarás already/yet en
-      gramática, vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 13 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 13 del curso A2: Present Perfect con already y yet, listas
   de tareas, audios y ejercicios.
@@ -410,7 +412,7 @@ Escribe 8–12 frases:
 
 1. Plantilla del día: *I have already… But I haven't… yet.*  
 2. Lista: *homework, shopping, dishes, emails, bill, call, clean, chores*.  
-3. Practica en la [Unidad 13 del curso A2](/curso-a2/unit-13).
+3. Practica en el [cuaderno de ejercicios de la Unidad 13](/blog/curso-a2/unidad-13-present-perfect-already-yet-ejercicios-soluciones) y en la [Unidad 13 del curso A2](/curso-a2/unit-13).
 
 La **Unidad 14** añade **just**: *I have just…* (acabo de…).
 
@@ -439,6 +441,11 @@ Guía blog:
 Curso:
 
 - [Unidad 14 — Present Perfect: Just](/curso-a2/unit-14)
+
+Practica ahora:
+
+- [Ejercicios Unidad 13 A2 (con soluciones)](/blog/curso-a2/unidad-13-present-perfect-already-yet-ejercicios-soluciones)
+- [Unidad 13 — Present Perfect: Already & Yet](/curso-a2/unit-13)
 
 Guías relacionadas:
 

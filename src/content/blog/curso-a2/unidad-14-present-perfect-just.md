@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-14-present-perfect-ju
 image: /blog/curso-a2/unit-14/a2-unit14-just.png
 alt: Esquema just del Present Perfect A2
 related_routes:
+  - unidad-14-present-perfect-just-ejercicios-soluciones
   - present-perfect-just-already-yet
   - present-perfect-usos-principales
   - present-perfect-ever-never
@@ -42,8 +43,9 @@ faqs:
       también habla de un pasado cercano, pero just es más inmediato.
   - question: ¿Dónde practico la Unidad 14 del curso A2?
     answer: >-
-      En la Unidad 14 del curso A2 de Linguafly practicarás just en gramática,
-      vocabulario, reading, listening, speaking y writing.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 14 del curso A2
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 14 del curso A2: Present Perfect con just (acabar de),
   acciones recientes, audios y ejercicios.
@@ -431,7 +433,7 @@ Escribe 8–12 frases:
 
 1. Plantilla: *I have just + past participle (+ because…).*  
 2. Vocabulario rápido: *arrive, leave, finish, receive, hear, wake up, have breakfast*.  
-3. Practica en la [Unidad 14 del curso A2](/curso-a2/unit-14).
+3. Practica en el [cuaderno de ejercicios de la Unidad 14](/blog/curso-a2/unidad-14-present-perfect-just-ejercicios-soluciones) y en la [Unidad 14 del curso A2](/curso-a2/unit-14).
 
 La **Unidad 15** contrasta **Present Perfect vs Past Simple**: *I have just arrived* vs *I arrived yesterday*.
 
@@ -460,6 +462,11 @@ Guía blog:
 Curso:
 
 - [Unidad 15 — Present Perfect vs Past Simple](/curso-a2/unit-15)
+
+Practica ahora:
+
+- [Ejercicios Unidad 14 A2 (con soluciones)](/blog/curso-a2/unidad-14-present-perfect-just-ejercicios-soluciones)
+- [Unidad 14 — Present Perfect: Just](/curso-a2/unit-14)
 
 Guías relacionadas:
 
