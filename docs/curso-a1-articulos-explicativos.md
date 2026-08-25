@@ -123,7 +123,7 @@ Documento de referencia para consultar qué unidades del curso A1 tienen artícu
 | 53 | Some & Any | *some/any* | ✅ | [Some & Any A1](/blog/curso-a1/unidad-53-some-any) · [Ejercicios + soluciones](/blog/curso-a1/unidad-53-some-any-ejercicios-soluciones) |
 | 54 | How Much & How Many | Precios y cantidades | ✅ | [How much/many A1](/blog/curso-a1/unidad-54-how-much-how-many) · [Ejercicios + soluciones](/blog/curso-a1/unidad-54-how-much-how-many-ejercicios-soluciones) |
 | 55 | Clothing Store | *too* vs *enough* | ✅ | [Too/enough A1](/blog/curso-a1/unidad-55-tienda-ropa-too-enough) · [Ejercicios + soluciones](/blog/curso-a1/unidad-55-tienda-ropa-too-enough-ejercicios-soluciones) |
-| 56 | At the Restaurant | Pedir en restaurante | ✅ | [Restaurante A1](/blog/curso-a1/unidad-56-restaurante-pedidos) |
+| 56 | At the Restaurant | Pedir en restaurante | ✅ | [Restaurante A1](/blog/curso-a1/unidad-56-restaurante-pedidos) · [Ejercicios + soluciones](/blog/curso-a1/unidad-56-restaurante-pedidos-ejercicios-soluciones) |
 | 57 | Cooking & Recipes | Verbos de cocina | ✅ | [Cocina A1](/blog/curso-a1/unidad-57-cocina-recetas) |
 | 58 | Health & Illness | *should/shouldn't* | ✅ | [Salud A1](/blog/curso-a1/unidad-58-salud-should) |
 | 59 | Money & Currency | *pay for*, *spend on* | ✅ | [Dinero A1](/blog/curso-a1/unidad-59-dinero-pay-for-spend-on) |

@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-56-restaurante-pedido
 image: /blog/curso-a1/unit-56/a1-unit56-polite-orders.png
 alt: Esquema de pedidos educados I would like y Can I have en restaurante A1
 related_routes:
+  - unidad-56-restaurante-pedidos-ejercicios-soluciones
   - ingles-restaurantes-bares-viaje
   - ingles-para-camareros-y-hosteleria
   - ingles-en-la-cocina
@@ -43,8 +44,9 @@ faqs:
       We would like to see the menu.
   - question: ¿Dónde practico la Unidad 56 del curso A1?
     answer: >-
-      En la Unidad 56 del curso A1 de Linguafly practicarás pedidos educados y
-      vocabulario de restaurante en gramática, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 56 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 56 del curso A1: pedir en el restaurante con I would like,
   menú, platos y la cuenta, con audios y ejercicios.
@@ -414,7 +416,7 @@ Escribe 8–10 frases de una cena. Incluye:
 1. Prioriza ***would like*** sobre *want* en restaurante.  
 2. Memoriza el bloque: *menu → starter → main → dessert → bill*.  
 3. Practica el diálogo completo hasta fluidez.  
-4. Practica en la [Unidad 56 del curso A1](/curso-a1/unit-56).
+4. Practica en el [cuaderno de ejercicios de la Unidad 56](/blog/curso-a1/unidad-56-restaurante-pedidos-ejercicios-soluciones) y en la [Unidad 56 del curso A1](/curso-a1/unit-56).
 
 La **Unidad 57** entra en la cocina: ***First, Then, Finally*** y verbos *cut, mix, fry, boil, bake*.
 
@@ -434,6 +436,11 @@ La **Unidad 57** entra en la cocina: ***First, Then, Finally*** y verbos *cut, m
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 56 A1 (con soluciones)](/blog/curso-a1/unidad-56-restaurante-pedidos-ejercicios-soluciones)
+- [Unidad 56 del curso A1](/curso-a1/unit-56)
 
 En la **Unidad 57** estudiarás **Cooking & Recipes**: secuenciadores (*First, Then, Finally*) y verbos de cocina.
 
