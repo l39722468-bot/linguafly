@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-54-how-much-how-many'
 image: /blog/curso-a1/unit-54/a1-unit54-how-much-many.png
 alt: Esquema How much y How many para precio y cantidad en A1
 related_routes:
+  - unidad-54-how-much-how-many-ejercicios-soluciones
   - ingles-para-compras
   - ingles-mercados-regateo-viaje
   - ingles-a1
@@ -44,8 +45,9 @@ faqs:
       conjunto); en A1 prioriza How much is…? y How many + plural.
   - question: ¿Dónde practico la Unidad 54 del curso A1?
     answer: >-
-      En la Unidad 54 del curso A1 de Linguafly practicarás How much / How many,
-      precios y cantidades en gramática, vocabulario, reading y listening.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 54 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 54 del curso A1: How much y How many para precio y
   cantidad, con audios y ejercicios.
@@ -429,7 +431,7 @@ Escribe 8–10 frases de una compra. Incluye:
 1. Precio → casi siempre ***How much***.  
 2. Contable plural → ***How many***.  
 3. Practica números de precio en voz alta (*one pound fifty*).  
-4. Practica en la [Unidad 54 del curso A1](/curso-a1/unit-54).
+4. Practica en el [cuaderno de ejercicios de la Unidad 54](/blog/curso-a1/unidad-54-how-much-how-many-ejercicios-soluciones) y en la [Unidad 54 del curso A1](/curso-a1/unit-54).
 
 La **Unidad 55** te lleva a la tienda de ropa: ***too*** vs ***enough***.
 
@@ -449,6 +451,11 @@ La **Unidad 55** te lleva a la tienda de ropa: ***too*** vs ***enough***.
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 54 A1 (con soluciones)](/blog/curso-a1/unidad-54-how-much-how-many-ejercicios-soluciones)
+- [Unidad 54 del curso A1](/curso-a1/unit-54)
 
 En la **Unidad 55** estudiarás **Clothing Store**: ***too*** vs ***enough*** (*too big / big enough*).
 
