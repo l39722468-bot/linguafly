@@ -1051,6 +1051,9 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
     { courseId: 'a1', unitNumber: 4 },
     { courseId: 'a1', unitNumber: 17 },
   ],
+  'unidad-51-supermercado-plurales-ejercicios-soluciones': [
+    { courseId: 'a1', unitNumber: 51 },
+  ],
   'unidad-52-contables-incontables': [
     { courseId: 'a1', unitNumber: 52 },
     { courseId: 'a1', unitNumber: 51 },

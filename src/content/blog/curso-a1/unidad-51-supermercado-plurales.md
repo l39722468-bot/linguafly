@@ -21,6 +21,7 @@ canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-51-supermercado-plura
 image: /blog/curso-a1/unit-51/a1-unit51-plurals.png
 alt: Esquema de plurales regulares e irregulares en el supermercado A1
 related_routes:
+  - unidad-51-supermercado-plurales-ejercicios-soluciones
   - ingles-para-compras
   - ingles-mercados-regateo-viaje
   - ingles-en-la-cocina
@@ -44,8 +45,9 @@ faqs:
       Where are the vegetables? — In aisle two.
   - question: ¿Dónde practico la Unidad 51 del curso A1?
     answer: >-
-      En la Unidad 51 del curso A1 de Linguafly practicarás plurales y vocabulario
-      de supermercado en gramática, vocabulario, reading, listening y speaking.
+      En el cuaderno de ejercicios con soluciones y en la Unidad 51 del curso A1
+      de Linguafly: gramática, vocabulario, reading, listening, speaking y
+      writing.
 excerpt: >-
   Guía de la Unidad 51 del curso A1: supermercado con plurales, fruta, verdura,
   carne, pescado y pasillos, con audios y ejercicios.
@@ -447,7 +449,7 @@ Escribe 8–10 frases sobre una compra. Incluye:
 1. Practica plurales **con lista real** de la nevera, no solo con tablas.  
 2. Si confundes *Where is / Where are*, mira el sustantivo: plural → *are*.  
 3. *Some meat / some fish* prepara U52–53 (*countable / uncountable*, *some / any*).  
-4. Practica en la [Unidad 51 del curso A1](/curso-a1/unit-51).
+4. Practica en el [cuaderno de ejercicios de la Unidad 51](/blog/curso-a1/unidad-51-supermercado-plurales-ejercicios-soluciones) y en la [Unidad 51 del curso A1](/curso-a1/unit-51).
 
 La **Unidad 52** profundiza en **contables e incontables** (*a banana* vs *some milk*).
 
@@ -467,6 +469,11 @@ La **Unidad 52** profundiza en **contables e incontables** (*a banana* vs *some 
 ---
 
 ## Siguiente paso en el curso A1
+
+Practica ahora:
+
+- [Ejercicios Unidad 51 A1 (con soluciones)](/blog/curso-a1/unidad-51-supermercado-plurales-ejercicios-soluciones)
+- [Unidad 51 del curso A1](/curso-a1/unit-51)
 
 En la **Unidad 52** estudiarás **Countable & Uncountable** (contables e incontables): *an apple* vs *some milk / some rice*.
 
