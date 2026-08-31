@@ -1,5 +1,5 @@
 import type { MetadataRoute } from "next";
-import { getBlogArticles, getAllKeywords, slugify, normalizeCategory, getDuplicateArticleForHub, getHubContent } from "@/lib/blog";
+import { getBlogArticles, getStaticTemaKeywords, slugify, normalizeCategory } from "@/lib/blog";
 import { authors } from "@/lib/authors";
 import { phraseService } from "@/lib/phrases";
 import { CAMARERO_A1_COURSE } from "@/lib/course/camarero-a1";
@@ -169,24 +169,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     })
   );
 
-  const keywords = getAllKeywords();
+  const temaKeywords = getStaticTemaKeywords();
   urls.push(
-    ...keywords
+    ...temaKeywords
       .map((keyword) => {
         const keywordArticles = articles.filter(a =>
           a.keywords?.some(k => slugify(k) === slugify(keyword))
         );
         return { keyword, keywordArticles };
-      })
-      .filter(({ keyword, keywordArticles }) => {
-        // Excluir hubs con artículo duplicado (mismo slug): el hub es noindex
-        // con canonical al artículo, así que no debe entrar en el sitemap.
-        const duplicate = getDuplicateArticleForHub(keyword);
-        if (duplicate) return false;
-        // Incluir si hay ≥3 artículos matching keyword (hub clásico) o
-        // si existe archivo de hub propio con contenido indexable.
-        if (keywordArticles.length >= 3) return true;
-        return !!getHubContent(slugify(keyword));
       })
       .map(({ keyword, keywordArticles }) => {
         const latestDate = keywordArticles.length > 0

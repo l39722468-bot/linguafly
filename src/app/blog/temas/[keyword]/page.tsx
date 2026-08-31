@@ -2,7 +2,7 @@ import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { redirect } from "next/navigation";
-import { getArticlesByKeyword, getAllKeywords, slugify, getHubContent, normalizeCategory, getDuplicateArticleForHub, getArticlePath, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
+import { getArticlesByKeyword, getAllKeywords, getStaticTemaKeywords, slugify, getHubContent, normalizeCategory, getDuplicateArticleForHub, getArticlePath, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
 import { Metadata } from "next";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
@@ -10,13 +10,17 @@ import { generateBreadcrumbSchema, generateCollectionPageSchema, generateFAQSche
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl } from "@/lib/site-brand";
 
+/**
+ * Solo prerender hubs + keywords con ≥3 artículos.
+ * Generar ~2400 temas thin llenaba el disco del builder CF (ENOSPC en cf:deploy).
+ * dynamicParams=true: el resto puede resolverse on-demand en el Worker.
+ */
+export const dynamicParams = true;
+
 export async function generateStaticParams() {
-  const keywords = getAllKeywords();
-  return keywords
-    .filter((keyword) => !getDuplicateArticleForHub(keyword))
-    .map(keyword => ({
-      keyword: slugify(keyword),
-    }));
+  return getStaticTemaKeywords().map((keyword) => ({
+    keyword: slugify(keyword),
+  }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ keyword: string }> }): Promise<Metadata> {

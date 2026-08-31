@@ -483,3 +483,16 @@ export function getAllKeywords(): string[] {
 
   return Array.from(keywords);
 }
+
+/**
+ * Keywords que merecen página `/blog/temas/[keyword]` prerenderizada.
+ * Criterio alineado con sitemap: hub markdown o ≥3 artículos.
+ * Evita ~2400 rutas thin que hinchan `.open-next` hasta ENOSPC en Workers Builds.
+ */
+export function getStaticTemaKeywords(): string[] {
+  return getAllKeywords().filter((keyword) => {
+    if (getDuplicateArticleForHub(keyword)) return false;
+    if (getHubContent(keyword) || getHubContent(slugify(keyword))) return true;
+    return getArticlesByKeyword(keyword).length >= 3;
+  });
+}

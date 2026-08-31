@@ -122,6 +122,7 @@ Reapuntar DNS a Vercel o desactivar el custom domain del Worker.
 4. Si sigue en rojo: abre el build → **View build log** → copia las **últimas 30–40 líneas**.
 
 Causas frecuentes:
+- **ENOSPC / No space left on device** al hacer `cf:deploy` (populate static assets) → demasiadas rutas SSG en caché (p. ej. miles de `/blog/temas/*` thin). Solo se prerenderizan hubs + keywords con ≥3 artículos. En el panel CF: **Clear build cache** y reintentar.
 - **Worker > 64 MiB** → `code: 10027` (cf:build ya hace slim de rutas pesadas)
 - **Node 20.x** → `ERR_IMPORT_ASSERTION_TYPE_MISSING` / wrangler exige ≥22 (fijar `NODE_VERSION=22`)
 - Comando `npx opennextjs-cloudflare` (stub npm; preferir `npm run cf:build`)
