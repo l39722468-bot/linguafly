@@ -18,14 +18,13 @@ on:
           - changed
           - all
 
-
 permissions:
   contents: read
 
 jobs:
   submit:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -37,18 +36,24 @@ jobs:
         with:
           node-version-file: ".node-version"
 
+      # Cloudflare Workers suele tardar unos minutos tras el push a main.
+      # verify-live evita notificar a Bing URLs que aún dan 404.
       - name: Submit changed URLs to IndexNow
         env:
           BEFORE_SHA: ${{ github.event.before }}
           MODE: ${{ github.event.inputs.mode || 'changed' }}
+          INDEXNOW_VERIFY_ATTEMPTS: "6"
+          INDEXNOW_VERIFY_WAIT_MS: "30000"
         run: |
+          echo "Espera inicial 60s para el deploy de Cloudflare…"
+          sleep 60
           if [ "$MODE" = "all" ]; then
-            echo "Modo manual: enviando sitemap completo."
-            node scripts/indexnow-submit.mjs --all
+            echo "Modo manual: enviando sitemap completo (solo URLs vivas)."
+            node scripts/indexnow-submit.mjs --all --verify-live
           elif [ -z "$BEFORE_SHA" ] || [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ]; then
-            echo "No before SHA disponible; enviando sitemap completo."
-            node scripts/indexnow-submit.mjs --all
+            echo "No before SHA disponible; enviando sitemap completo (solo URLs vivas)."
+            node scripts/indexnow-submit.mjs --all --verify-live
           else
-            echo "Enviando URLs cambiadas desde $BEFORE_SHA (blog + hubs)"
-            node scripts/indexnow-submit.mjs --since="$BEFORE_SHA"
+            echo "Enviando URLs cambiadas desde $BEFORE_SHA (blog + hubs), solo si responden 2xx/3xx"
+            node scripts/indexnow-submit.mjs --since="$BEFORE_SHA" --verify-live
           fi

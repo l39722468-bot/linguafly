@@ -52,6 +52,7 @@
     "indexnow": "node scripts/indexnow-submit.mjs",
     "indexnow:all": "node scripts/indexnow-submit.mjs --all",
     "indexnow:dry": "node scripts/indexnow-submit.mjs --dry-run",
+    "indexnow:verify": "node scripts/indexnow-submit.mjs --verify-live",
     "audit:ui-es-cloudflare": "node scripts/audit-spanish-ui-cloudflare.mjs",
     "generate:vocabulario": "python3 scripts/generate-public-vocabulario.py",
     "translate:articles": "ts-node scripts/translate-articles.ts",
