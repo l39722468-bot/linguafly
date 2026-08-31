@@ -23,6 +23,7 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-14-third-conditional'
 image: /blog/curso-b1/unit-14/third-conditional.png
 alt: 'Third conditional y regrets B1'
 related_routes:
+  - unidad-14-third-conditional-ejercicios-soluciones
   - unidad-12-second-conditional
   - unidad-13-first-vs-second-conditional
   - unidad-15-repaso-11-14
@@ -184,6 +185,7 @@ Third = **pasado cerrado**. Si aún puedes cambiarlo hoy, no es third.
 ## Practica ahora
 
 - [Unidad 14 del curso](/curso-b1/unit-14) · Siguiente: [U15 Repaso 11–14](/curso-b1/unit-15)
+- [Ejercicios U14 (con soluciones)](/blog/curso-b1/unidad-14-third-conditional-ejercicios-soluciones)
 
 Guías: [U13](/blog/curso-b1/unidad-13-first-vs-second-conditional) · [Condicionales B1–B2](/blog/gramatica/ejercicios-condicionales-ingles-b1-b2) · [B1](/blog/metodos/cursos-online-ingles-b1)
 

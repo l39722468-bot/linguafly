@@ -330,7 +330,7 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b1/unidad-10-repaso-6-9).  
 2. Practica en la [Unidad 10 del curso B1](/curso-b1/unit-10).  
-3. Siguiente: [Unidad 11 — First conditional](/curso-b1/unit-11) *(Módulo 2)*.
+3. Siguiente: [Ejercicios U11 — First conditional](/blog/curso-b1/unidad-11-first-conditional-weather-ejercicios-soluciones) *(Módulo 2)*.
 
 Guías relacionadas:
 

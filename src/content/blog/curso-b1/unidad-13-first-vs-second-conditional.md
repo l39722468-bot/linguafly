@@ -23,6 +23,7 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-13-first-vs-second-co
 image: /blog/curso-b1/unit-13/first-vs-second.png
 alt: 'First vs second conditional y entertainment B1'
 related_routes:
+  - unidad-13-first-vs-second-conditional-ejercicios-soluciones
   - unidad-11-first-conditional-weather
   - unidad-12-second-conditional
   - unidad-14-third-conditional
@@ -181,7 +182,8 @@ Si puedes **comprobarlo mañana** (entradas, tiempo, plan real) → **first**. S
 ## Practica ahora
 
 1. Escribe 2 first + 2 second sobre cine/conciertos.  
-2. Practica en la [Unidad 13 del curso B1](/curso-b1/unit-13).
+2. Practica en la [Unidad 13 del curso B1](/curso-b1/unit-13).  
+3. Haz el [cuaderno de ejercicios U13 (con soluciones)](/blog/curso-b1/unidad-13-first-vs-second-conditional-ejercicios-soluciones).
 
 Curso:
 

@@ -856,16 +856,31 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-11-first-conditional-weather': [
     { courseId: 'b1', unitNumber: 11 },
   ],
+  'unidad-11-first-conditional-weather-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 11 },
+  ],
   'unidad-12-second-conditional': [
+    { courseId: 'b1', unitNumber: 12 },
+  ],
+  'unidad-12-second-conditional-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 12 },
   ],
   'unidad-13-first-vs-second-conditional': [
     { courseId: 'b1', unitNumber: 13 },
   ],
+  'unidad-13-first-vs-second-conditional-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 13 },
+  ],
   'unidad-14-third-conditional': [
     { courseId: 'b1', unitNumber: 14 },
   ],
+  'unidad-14-third-conditional-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 14 },
+  ],
   'unidad-15-repaso-11-14': [
+    { courseId: 'b1', unitNumber: 15 },
+  ],
+  'unidad-15-repaso-11-14-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 15 },
   ],
   'unidad-7-was-were-going-to-ejercicios-soluciones': [

@@ -22,6 +22,7 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-11-first-conditional-
 image: /blog/curso-b1/unit-11/first-conditional.png
 alt: 'First conditional y weather B1'
 related_routes:
+  - unidad-11-first-conditional-weather-ejercicios-soluciones
   - unidad-10-repaso-6-9
   - unidad-12-second-conditional
   - ejercicios-condicionales-ingles
@@ -181,7 +182,8 @@ Si el plan es **realista** (el tiempo, un plan de fin de semana), usa **first co
 ## Practica ahora
 
 1. Escribe 4 frases con *if / when / as soon as / until* y weather.  
-2. Practica en la [Unidad 11 del curso B1](/curso-b1/unit-11).
+2. Practica en la [Unidad 11 del curso B1](/curso-b1/unit-11).  
+3. Haz el [cuaderno de ejercicios U11 (con soluciones)](/blog/curso-b1/unidad-11-first-conditional-weather-ejercicios-soluciones).
 
 Curso:
 

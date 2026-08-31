@@ -22,6 +22,7 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-12-second-conditional
 image: /blog/curso-b1/unit-12/second-conditional.png
 alt: 'Second conditional B1'
 related_routes:
+  - unidad-12-second-conditional-ejercicios-soluciones
   - unidad-11-first-conditional-weather
   - unidad-13-first-vs-second-conditional
   - ejercicios-condicionales-ingles
@@ -147,6 +148,7 @@ Second = **no es un plan real**. Si puedes comprobarlo mañana con el tiempo, es
 ## Practica ahora
 
 - [Unidad 12 del curso](/curso-b1/unit-12) · Siguiente: [U13 First vs Second](/curso-b1/unit-13)
+- [Ejercicios U12 (con soluciones)](/blog/curso-b1/unidad-12-second-conditional-ejercicios-soluciones)
 
 Guía teórica siguiente: [U13 — First vs Second](/blog/curso-b1/unidad-13-first-vs-second-conditional)
 

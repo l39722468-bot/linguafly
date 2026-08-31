@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U15; cuadernos ejercicios U1–U10; Módulo 2 teoría U11–U15)  
+**Última actualización:** 2026-08-31 (teoría + cuadernos ejercicios U1–U15; Módulo 2 condicionales completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -14,7 +14,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 15 |
 | Artículos dedicados pendientes | 45 |
-| Cuadernos ejercicios+soluciones | 10 (U1–U10) |
+| Cuadernos ejercicios+soluciones | 15 (U1–U15) |
 
 ---
 
@@ -46,18 +46,17 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 
 ---
 
-## Módulo 2: Condicionales (U11–15) · teoría
+## Módulo 2: Condicionales (U11–15)
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 11 | First Conditional & Weather | if + present, will; when/as soon as/until; weather | ✅ | [First conditional + weather](/blog/curso-b1/unidad-11-first-conditional-weather) |
-| 12 | Second Conditional | if + past, would; hypothetical | ✅ | [Second conditional](/blog/curso-b1/unidad-12-second-conditional) |
-| 13 | First vs Second & Entertainment | contraste; cine/series/conciertos | ✅ | [First vs Second](/blog/curso-b1/unidad-13-first-vs-second-conditional) |
-| 14 | Third Conditional & Regrets | if + past perfect, would have | ✅ | [Third conditional](/blog/curso-b1/unidad-14-third-conditional) |
-| 15 | Repaso 11–14 | integración condicionales | ✅ | [Repaso 11–14](/blog/curso-b1/unidad-15-repaso-11-14) |
+| 11 | First Conditional & Weather | if + present, will; when/as soon as/until; weather | ✅ | [First conditional + weather](/blog/curso-b1/unidad-11-first-conditional-weather) · [Ejercicios](/blog/curso-b1/unidad-11-first-conditional-weather-ejercicios-soluciones) |
+| 12 | Second Conditional | if + past, would; hypothetical | ✅ | [Second conditional](/blog/curso-b1/unidad-12-second-conditional) · [Ejercicios](/blog/curso-b1/unidad-12-second-conditional-ejercicios-soluciones) |
+| 13 | First vs Second & Entertainment | contraste; cine/series/conciertos | ✅ | [First vs Second](/blog/curso-b1/unidad-13-first-vs-second-conditional) · [Ejercicios](/blog/curso-b1/unidad-13-first-vs-second-conditional-ejercicios-soluciones) |
+| 14 | Third Conditional & Regrets | if + past perfect, would have | ✅ | [Third conditional](/blog/curso-b1/unidad-14-third-conditional) · [Ejercicios](/blog/curso-b1/unidad-14-third-conditional-ejercicios-soluciones) |
+| 15 | Repaso 11–14 | integración condicionales | ✅ | [Repaso 11–14](/blog/curso-b1/unidad-15-repaso-11-14) · [Ejercicios](/blog/curso-b1/unidad-15-repaso-11-14-ejercicios-soluciones) |
 
-**Pendiente Módulo 2 (continuación U16–20):** pasiva y reported speech (teoría + cuadernos).  
-**Pendiente U11–U15:** cuadernos de ejercicios con soluciones.
+**Pendiente Módulo 2 (continuación U16–20):** pasiva y reported speech (teoría + cuadernos).
 
 ---
 
