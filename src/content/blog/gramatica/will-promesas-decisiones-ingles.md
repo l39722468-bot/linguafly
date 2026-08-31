@@ -11,9 +11,7 @@ readTime: 7 min
 keywords:
   - Will para Promesas y Decisiones
   - will promesas ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 excerpt: >-
   Dos de los usos más importantes de will en inglés son las promesas y las decisiones espontáneas. Aprende cómo funcionan, con ejemplos reales y los errores típicos de hispanohablantes.
 faqs:

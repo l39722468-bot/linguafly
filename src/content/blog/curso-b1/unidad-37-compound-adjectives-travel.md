@@ -13,9 +13,6 @@ keywords:
   - 20-year-old
   - travel vocabulary
   - inglés B1 unidad 37
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-37-compound-adjectives-travel'
 image: /blog/curso-b1/unit-37/compound-adjectives.png

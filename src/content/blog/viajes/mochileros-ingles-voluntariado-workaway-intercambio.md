@@ -12,7 +12,6 @@ keywords:
   - Inglés para mochileros
   - aprender inglés para mochileros
   - frases en inglés gratis
-  - aprender inglés gratis
   - inglés para viajar gratis
 alt: Personas colaborando en proyecto comunitario al aire libre
 excerpt: >-

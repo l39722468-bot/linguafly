@@ -11,8 +11,6 @@ readTime: 7 min
 keywords:
   - 'IELTS Speaking: Cómo Preparar las 3'
   - ielts speaking
-  - curso de inglés gratis
-  - aprender inglés gratis
   - preparar inglés gratis
 excerpt: >-
   El IELTS Speaking es cara a cara con un examinador humano: 11-14 minutos donde cada pausa larga, cada muletilla repetida y cada frase incompleta cuenta. Pero también tiene una estructura muy predecible que puedes preparar.

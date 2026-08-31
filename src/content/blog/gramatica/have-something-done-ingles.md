@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - Have Something Done en Inglés
   - have something done ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-14'

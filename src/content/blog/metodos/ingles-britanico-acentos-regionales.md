@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - Acentos Regionales del Inglés
   - acentos inglés británico regionales
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-03'
 updatedDate: '2026-08-31'

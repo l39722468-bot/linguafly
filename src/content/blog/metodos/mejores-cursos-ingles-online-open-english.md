@@ -11,9 +11,6 @@ alt: 'Estudiante hispano en clase de inglés online'
 keywords:
   - 'Open English: LATAM y exámenes'
   - open english opinion
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 faqs:
   - question: '¿Open English prepara para IELTS o TOEFL?'
     answer: >-

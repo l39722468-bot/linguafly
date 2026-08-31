@@ -15,9 +15,7 @@ readTime: 5 min
 keywords:
   - 20 Plantillas de Emails Profesionales
   - emails profesionales ingles
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 faqs:
   - question: ¿Cuál es la diferencia entre "Kind regards" y "Best regards"?
     answer: >-

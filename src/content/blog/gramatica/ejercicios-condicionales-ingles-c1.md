@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - Ejercicios de Condicionales en Inglés C1
   - condicionales ingles c1
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

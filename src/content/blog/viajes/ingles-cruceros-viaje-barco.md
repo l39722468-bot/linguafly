@@ -14,7 +14,6 @@ keywords:
   - Inglés para Cruceros y Viajes en Barco
   - ingles para cruceros
   - inglés para viajar gratis
-  - curso de inglés gratis
   - frases en inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-cruceros-viaje-barco'
 faqs:

@@ -11,8 +11,6 @@ readTime: 6 min
 keywords:
   - 'Since vs For en Inglés: Cuándo Usar'
   - for since cuando usar
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 excerpt: >-
   Since y for se usan con el present perfect para hablar de situaciones que empezaron en el pasado y continúan ahora. La diferencia es simple: since indica el punto de inicio, for indica la duración total.

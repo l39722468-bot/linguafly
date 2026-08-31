@@ -11,9 +11,7 @@ readTime: 15 min
 keywords:
   - Inglés para mochileros en aeropuertos
   - aprender inglés para mochileros
-  - aprender inglés gratis
   - inglés para viajar gratis
-  - curso de inglés gratis
 alt: Avión aterrizando vista desde ventanilla
 excerpt: >-
   Domina el inglés que necesitas en aeropuertos y controles fronterizos: colas,

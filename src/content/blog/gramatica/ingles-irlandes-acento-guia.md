@@ -13,8 +13,6 @@ alt: Paisaje irlandés evocando la musicalidad del inglés de Irlanda
 keywords:
   - 'El Acento Irlandés: Guía para Entender'
   - acento irlandes ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿El inglés irlandés es una variedad con reglas propias?

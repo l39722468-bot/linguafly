@@ -15,7 +15,6 @@ readTime: 5 min
 keywords:
   - Aptis Advanced C1
   - preparar aptis advanced
-  - aprender inglés gratis
   - preparar inglés gratis
   - material de inglés gratis
 faqs:

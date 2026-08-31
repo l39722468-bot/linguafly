@@ -16,8 +16,6 @@ keywords:
   - 30 preguntas más comunes entrevista trabajo inglés
   - preguntas frecuentes entrevista inglés respuestas modelo
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 faqs:
   - question: ¿Cómo respondo "Tell me about yourself" en inglés?
     answer: >-

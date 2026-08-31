@@ -15,9 +15,7 @@ alt: Recepcionista de hotel profesional atendiendo una llamada y sonriendo
 keywords:
   - Inglés para Recepcionistas
   - inglés para hoteles
-  - aprender inglés gratis
   - inglés para viajar gratis
-  - curso de inglés gratis
 faqs:
   - question: ¿Cómo pido el pasaporte de forma educada?
     answer: >-

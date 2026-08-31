@@ -13,8 +13,6 @@ alt: Persona estudiando inglés en el móvil dentro de un avión sin conexión a
 keywords:
   - apps inglés sin internet offline
   - aprender inglés sin conexión móvil
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 faqs:
   - question: '¿Qué app para aprender inglés funciona mejor completamente sin internet?'

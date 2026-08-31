@@ -11,8 +11,6 @@ alt: 'Profesor de inglés online en pantalla'
 keywords:
   - 'EF English Live: 24/7 y negocios'
   - ef english live opinion
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 faqs:
   - question: '¿EF English Live es mejor para negocios que para exámenes?'

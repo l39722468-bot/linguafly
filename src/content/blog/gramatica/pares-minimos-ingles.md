@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - 'Pares Mínimos en Inglés: Ejercicio y Lista'
   - pares minimos ingles
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

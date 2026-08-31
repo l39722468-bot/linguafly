@@ -13,9 +13,6 @@ keywords:
   - would rather review
   - phrasal verbs review
   - inglés B1 unidad 50
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-50-repaso-46-49'
 image: /blog/curso-b1/unit-50/review-map.png

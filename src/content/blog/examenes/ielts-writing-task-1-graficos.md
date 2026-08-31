@@ -11,8 +11,6 @@ readTime: 7 min
 keywords:
   - 'IELTS Writing Task 1: Cómo Describir'
   - ielts writing task 1
-  - curso de inglés gratis
-  - aprender inglés gratis
   - preparar inglés gratis
 excerpt: >-
   El Task 1 del IELTS Writing Academic es una carrera contra el reloj: 20 minutos para analizar un gráfico y escribir 150 palabras que convenzan al examinador de que sabes lo que estás mirando.

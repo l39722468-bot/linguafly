@@ -11,8 +11,6 @@ readTime: 6 min
 keywords:
   - 'Say vs Tell en Inglés: La Diferencia'
   - say tell diferencia ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 excerpt: >-
   Say y tell son los dos verbos de reporte más básicos del inglés, y sin embargo uno de los errores más frecuentes de hispanohablantes. La diferencia es clara una vez que la entiendes, y va mucho más allá de "decir" vs "contar".

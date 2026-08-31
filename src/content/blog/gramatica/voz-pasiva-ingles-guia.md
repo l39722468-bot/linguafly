@@ -9,9 +9,7 @@ excerpt: >-
 keywords:
   - La Voz Pasiva en Inglés
   - voz pasiva en ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 date: '2026-03-02'
 updatedDate: '2026-08-31'
 category: gramatica

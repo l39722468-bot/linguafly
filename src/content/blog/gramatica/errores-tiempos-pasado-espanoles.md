@@ -11,9 +11,7 @@ readTime: 7 min
 keywords:
   - Los Errores con los Tiempos de Pasado
   - tiempos pasado ingles errores
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 excerpt: >-
   Los tiempos de pasado en inglés concentran algunos de los errores más persistentes de los hispanohablantes. No porque sean difíciles, sino porque el español y el inglés funcionan de forma distinta. Aquí tienes los más frecuentes con su solución.
 faqs:

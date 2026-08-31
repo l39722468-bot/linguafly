@@ -12,9 +12,7 @@ excerpt: >-
 keywords:
   - técnica STAR entrevista inglés ejemplos frases
   - STAR method entrevista trabajo inglés preguntas comportamiento
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 author: focus-english-team
 date: '2026-02-05'
 updatedDate: '2026-08-31'

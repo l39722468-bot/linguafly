@@ -13,9 +13,7 @@ alt: Pizarra con ejemplos de terminaciones en inglés -ed y -s
 keywords:
   - 'Cómo Pronunciar "-ed" y "-s'
   - como pronunciar pasado ingles terminacion ed
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Hay que memorizar todas las reglas de la "-ed" y la "-s"?
     answer: >-

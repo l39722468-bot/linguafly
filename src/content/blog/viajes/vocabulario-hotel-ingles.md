@@ -12,9 +12,7 @@ excerpt: >-
 keywords:
   - 'Inglés para Hoteles: Vocabulario'
   - ingles para hoteles
-  - curso de inglés gratis
   - frases en inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-08-31'

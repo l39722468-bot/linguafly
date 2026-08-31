@@ -13,8 +13,6 @@ alt: Paisaje de Nueva Zelanda con el cielo estrellado representando la diversida
 keywords:
   - Inglés de Nueva Zelanda
   - ingles nueva zelanda caracteristicas
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿El inglés de Nueva Zelanda es igual al australiano?

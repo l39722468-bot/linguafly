@@ -11,9 +11,7 @@ readTime: 8 min
 keywords:
   - Phrasal Verbs en Conversación
   - phrasal verbs conversacion
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 excerpt: >-
   Si escuchas inglés nativo —series, podcasts, conversaciones reales— verás que ciertos phrasal verbs aparecen constantemente. Esta es la lista de los que más suenan, con ejemplos tal como se usan de verdad.
 faqs:

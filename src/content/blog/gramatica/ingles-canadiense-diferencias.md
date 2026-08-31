@@ -13,8 +13,6 @@ alt: Paisaje canadiense nevado evocando el inglés de Canadá
 keywords:
   - 'Inglés Canadiense: Las Diferencias'
   - ingles canadiense diferencias americano
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿El inglés canadiense es más parecido al americano o al británico?

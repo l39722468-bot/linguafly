@@ -13,8 +13,6 @@ alt: Diccionario de inglés abierto con palabras resaltadas
 keywords:
   - Letras Mudas en Inglés
   - palabras con letras mudas ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿Por qué el inglés tiene tantas letras mudas?

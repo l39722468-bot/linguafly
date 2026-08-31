@@ -11,8 +11,6 @@ readTime: 7 min
 keywords:
   - Will para Ofrecimientos y Peticiones
   - will ofrecimientos ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 excerpt: >-
   Will en inglés sirve para hacer ofrecimientos espontáneos y peticiones directas. Aprende las estructuras más usadas, cómo sonar natural y la diferencia entre will y would en estos contextos.

@@ -13,9 +13,6 @@ keywords:
   - leisure vocabulary B2
   - inglés B2 unidad 4
   - ejercicios inglés B2 gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B2 gratis
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure'
 image: /blog/curso-b2/unit-4/verb-object-inf.png

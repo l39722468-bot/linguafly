@@ -14,9 +14,6 @@ keywords:
   - myself yourself himself
   - personal experiences
   - curso B1 Linguafly
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-29-reflexive-pronouns-ejercicios-soluciones'

@@ -15,9 +15,7 @@ alt: Estudiantes colaborando en una clase de inglés moderna
 keywords:
   - 'Clases de Inglés: Academia, Particular'
   - clases de ingles
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 faqs:
   - question: ¿Cuál es la mejor forma de recibir clases de inglés hoy?
     answer: >-

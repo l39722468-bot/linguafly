@@ -11,7 +11,6 @@ readTime: 22 min
 keywords:
   - Ejercicios de “b” muda en inglés
   - b muda ingles
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 alt: Cuaderno y lápiz sobre mesa de estudio

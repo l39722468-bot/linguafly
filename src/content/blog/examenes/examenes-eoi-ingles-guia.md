@@ -18,7 +18,6 @@ keywords:
   - examen ingles EOI
   - preparar inglés gratis
   - material de inglés gratis
-  - curso de inglés gratis
 alt: 'Estudiante preparando el examen de inglés de la Escuela Oficial de Idiomas'
 canonical: 'https://linguafly.app/blog/examenes/examenes-eoi-ingles-guia'
 faqs:

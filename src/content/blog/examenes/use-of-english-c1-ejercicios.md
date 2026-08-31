@@ -6,7 +6,6 @@ excerpt: "El Use of English del CAE es donde se gana o se pierde el examen. Apre
 keywords:
   - 'Use of English C1: Ejercicios'
   - cae reading use of english
-  - aprender inglés gratis
   - preparar inglés gratis
   - material de inglés gratis
 author: focus-english-team

@@ -13,9 +13,7 @@ alt: Persona practicando pronunciación frente a un espejo
 keywords:
   - 'El Sonido TH en Inglés: Cómo'
   - sonido th ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Cuál es la diferencia entre el TH de "think" y el de "this"?
     answer: >-

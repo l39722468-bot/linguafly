@@ -11,7 +11,6 @@ readTime: 7 min
 keywords:
   - 'Past Simple en Inglés: Cuándo Usarlo'
   - past simple ingles
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 excerpt: >-

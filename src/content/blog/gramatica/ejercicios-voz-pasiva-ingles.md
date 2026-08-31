@@ -12,9 +12,7 @@ excerpt: >-
 keywords:
   - Ejercicios de Voz Pasiva en Inglés
   - ejercicios voz pasiva ingles soluciones
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-10'
 updatedDate: '2026-08-31'

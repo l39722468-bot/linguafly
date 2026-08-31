@@ -13,9 +13,6 @@ keywords:
   - services vocabulary
   - tag questions English
   - inglés B1 unidad 33
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-33-question-tags-services'
 image: /blog/curso-b1/unit-33/question-tags.png

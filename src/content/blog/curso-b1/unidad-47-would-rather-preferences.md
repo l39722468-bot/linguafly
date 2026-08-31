@@ -13,9 +13,6 @@ keywords:
   - preferences vocabulary
   - I'd rather than
   - inglés B1 unidad 47
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-47-would-rather-preferences'
 image: /blog/curso-b1/unit-47/would-rather-sooner.png

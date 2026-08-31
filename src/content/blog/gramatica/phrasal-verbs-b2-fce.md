@@ -11,8 +11,6 @@ readTime: 9 min
 keywords:
   - 'Phrasal Verbs para el B2 (FCE): Lista Completa'
   - phrasal verbs fce
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 excerpt: >-
   El B2 First exige manejar los phrasal verbs con soltura, especialmente en las partes de Use of English y Writing. Esta es la lista de los que aparecen con más frecuencia y los que más confunden.

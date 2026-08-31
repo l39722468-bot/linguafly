@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - 'Shadowing en Inglés: La Técnica'
   - técnica shadowing inglés
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 author: focus-english-team
 date: '2026-02-13'
 updatedDate: '2026-08-31'

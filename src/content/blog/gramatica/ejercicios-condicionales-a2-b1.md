@@ -11,7 +11,6 @@ keywords:
   - ejercicios condicionales a2 b1
   - zero conditional ejercicios
   - first conditional ejercicios
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

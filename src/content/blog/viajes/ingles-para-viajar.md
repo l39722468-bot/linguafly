@@ -13,7 +13,6 @@ keywords:
   - Inglés para Viajar
   - aprender ingles para viajar rapido
   - inglés para viajar gratis
-  - curso de inglés gratis
   - frases en inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-para-viajar'
 related_routes:

@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - apps vs cursos inglés cuál elegir
   - diferencia app curso inglés según objetivo
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 date: '2026-03-02'
 updatedDate: '2026-08-31'

@@ -13,9 +13,6 @@ excerpt: >-
 keywords:
   - qué preguntar al entrevistador en inglés
   - preguntas para hacer en entrevista trabajo inglés ejemplos
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-17'
 updatedDate: '2026-08-31'

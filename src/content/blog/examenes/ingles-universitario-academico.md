@@ -15,7 +15,6 @@ keywords:
   - ingles universitario academico
   - preparar inglés gratis
   - material de inglés gratis
-  - curso de inglés gratis
 faqs:
   - question: ¿Qué nivel de inglés se necesita para estudiar en una universidad anglofona?
     answer: >-

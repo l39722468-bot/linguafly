@@ -12,9 +12,7 @@ readTime: 6 min
 keywords:
   - 'Cursos Online de Inglés B1: Consigue'
   - cursos online ingles b1
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 canonical: 'https://linguafly.app/blog/metodos/cursos-online-ingles-b1'
 related_routes:
   - preparacion-examen-b1-cambridge

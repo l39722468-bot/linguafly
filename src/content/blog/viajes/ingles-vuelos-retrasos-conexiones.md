@@ -12,9 +12,7 @@ excerpt: >-
 keywords:
   - 'Inglés en Vuelos: Retrasos, Conexiones y Problemas'
   - ingles problemas aeropuerto
-  - curso de inglés gratis
   - frases en inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-04-18'
 updatedDate: '2026-08-31'

@@ -15,9 +15,7 @@ readTime: 5 min
 keywords:
   - 10 Errores en Emails Profesionales
   - errores emails ingles trabajo
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 faqs:
   - question: ¿Es correcto usar "Dear All" para dirigirse a un grupo?
     answer: >-

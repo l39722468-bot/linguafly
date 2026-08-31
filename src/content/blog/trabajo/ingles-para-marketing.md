@@ -13,9 +13,7 @@ alt: Equipo de marketing revisando gráficas y métricas en una pantalla grande 
 keywords:
   - 'Inglés para Marketing: Vocabulario'
   - ingles para marketing
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 faqs:
   - question: ¿Por qué el inglés es tan importante en el sector del marketing?
     answer: >-

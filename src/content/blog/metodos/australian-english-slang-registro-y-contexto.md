@@ -11,8 +11,6 @@ readTime: 22 min
 keywords:
   - 'Australian slang: registro, contexto'
   - australian slang inglés
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 alt: Café urbano en Australia ambiente casual
 excerpt: >-

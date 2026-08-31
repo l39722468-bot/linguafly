@@ -13,9 +13,6 @@ keywords:
   - while clause English
   - time vocabulary B1
   - inglés B1 unidad 43
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-43-during-for-while-time'
 image: /blog/curso-b1/unit-43/during-for-while.png

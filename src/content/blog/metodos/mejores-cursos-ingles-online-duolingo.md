@@ -11,8 +11,6 @@ alt: 'App Duolingo en pantalla de móvil'
 keywords:
   - 'Duolingo: insuficiente para IELTS solo'
   - duolingo ingles examen
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 faqs:
   - question: '¿Duolingo English Test sustituye a IELTS o TOEFL?'

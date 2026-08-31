@@ -11,9 +11,7 @@ readTime: 7 min
 keywords:
   - 'Semi-modales en Inglés: Used To, Need y Dare'
   - semi-modales ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 excerpt: >-
   Los semi-modales son verbos que se comportan como modales en significado pero se conjugan como verbos normales. Son imprescindibles porque cubren huecos que los modales puros no pueden llenar: pasado, futuro, infinitivo...
 faqs:

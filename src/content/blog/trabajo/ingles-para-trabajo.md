@@ -16,9 +16,6 @@ excerpt: >-
 keywords:
   - 'Inglés para el Trabajo: Cómo Destacar'
   - inglés para el trabajo
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-trabajo'
 related_routes:
   - ingles-b1

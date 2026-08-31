@@ -11,9 +11,7 @@ readTime: 8 min
 keywords:
   - 'Phrasal Verbs con GET: Lista Completa'
   - get phrasal verbs lista completa
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 excerpt: >-
   GET es probablemente el verbo más productivo del inglés cuando se combina con partículas. Sus combinaciones cubren desde levantarse por la mañana hasta superar una ruptura. Si dominas los phrasal verbs con GET, tienes una buena parte del inglés cotidiano cubierta.
 faqs:

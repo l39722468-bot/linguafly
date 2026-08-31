@@ -12,8 +12,6 @@ readTime: 5 min
 keywords:
   - Curso de Inglés para Ingenieros
   - inglés para ingenieros
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-ingenieros'
 related_routes:

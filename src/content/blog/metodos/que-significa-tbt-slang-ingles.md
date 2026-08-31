@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - ¿Qué significa TBT?
   - tbt significado
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 date: '2024-02-04'
 updatedDate: '2026-08-31'
 category: metodos

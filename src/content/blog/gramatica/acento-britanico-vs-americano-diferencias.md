@@ -13,8 +13,6 @@ alt: Banderas de Reino Unido y Estados Unidos simbolizando diferencias de pronun
 keywords:
   - Inglés Británico vs Americano
   - como suenan diferente ingles britanico americano
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué inglés es más fácil de entender, el británico o el americano?

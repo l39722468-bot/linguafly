@@ -11,9 +11,7 @@ readTime: 22 min
 keywords:
   - 'Australian English: vocales, fonética'
   - australian english fonética
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 alt: Mapa y brújula sobre superficie de madera viajera
 excerpt: >-
   Introducción práctica a la fonética del inglés australiano: vocales, ejemplos

@@ -11,9 +11,6 @@ readTime: 22 min
 keywords:
   - Email y chat de soporte en inglés
   - email soporte inglés
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 alt: Persona escribiendo en portátil
 excerpt: >-
   Guía práctica para mensajes de soporte: estructura, conectores, evitar

@@ -17,8 +17,6 @@ keywords:
   - how are you inglés
   - inglés A1 unidad 3
   - respuestas cortas inglés
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés A1 gratis
 canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-3-to-be-negativa-preguntas'
 image: /blog/curso-a1/unit-3/a1-unit3-to-be-questions.png

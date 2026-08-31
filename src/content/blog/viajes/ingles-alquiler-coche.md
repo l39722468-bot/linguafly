@@ -13,9 +13,7 @@ excerpt: >-
 keywords:
   - Inglés para Alquilar un Coche en el Extranjero
   - ingles alquilar coche
-  - aprender inglés gratis
   - inglés para viajar gratis
-  - curso de inglés gratis
 author: focus-english-team
 date: '2026-04-19'
 updatedDate: '2026-08-31'

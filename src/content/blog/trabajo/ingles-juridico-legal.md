@@ -13,9 +13,6 @@ alt: Documentos legales y mazo de juez sobre un escritorio de abogado
 keywords:
   - 'Inglés Jurídico y Legal: Vocabulario'
   - ingles juridico legal
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Qué diferencia hay entre "law" y "legislation"?
     answer: >-

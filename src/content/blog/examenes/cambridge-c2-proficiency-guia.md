@@ -14,8 +14,6 @@ keywords:
   - Examen C2 Proficiency (CPE)
   - ingles proficiency
   - material de inglés gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
 canonical: 'https://linguafly.app/blog/examenes/cambridge-c2-proficiency-guia'
 related_routes:
   - certificaciones-ingles

@@ -9,9 +9,6 @@ excerpt: >-
 keywords:
   - Ejercicios de Pronunciación
   - ejercicios pronunciacion acento irlandes
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 author: focus-english-team
 date: '2026-03-29'
 updatedDate: '2026-08-31'

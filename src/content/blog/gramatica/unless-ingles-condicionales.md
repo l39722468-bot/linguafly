@@ -11,8 +11,6 @@ excerpt: >-
 keywords:
   - 'Unless en Inglés: Cómo Usarlo'
   - unless ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-16'

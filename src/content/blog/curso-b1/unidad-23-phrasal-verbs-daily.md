@@ -13,9 +13,6 @@ keywords:
   - put on take off
   - look after
   - inglés B1 unidad 23
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-23-phrasal-verbs-daily'
 image: /blog/curso-b1/unit-23/phrasals-1.png

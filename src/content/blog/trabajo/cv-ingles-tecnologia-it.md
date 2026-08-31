@@ -13,8 +13,6 @@ excerpt: >-
 keywords:
   - 'CV en Inglés para Tecnología e IT: Guía y Plantilla'
   - cv ingles tecnologia
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 author: focus-english-team
 date: '2026-04-19'

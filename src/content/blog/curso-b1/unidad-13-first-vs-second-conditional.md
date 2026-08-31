@@ -15,9 +15,6 @@ keywords:
   - condicionales inglés contraste
   - inglés B1 unidad 13
   - real vs hypothetical
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-13-first-vs-second-conditional'
 image: /blog/curso-b1/unit-13/first-vs-second.png

@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - errores más comunes entrevista trabajo inglés
   - qué no hacer en una entrevista de trabajo en inglés
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 author: focus-english-team
 date: '2026-02-20'

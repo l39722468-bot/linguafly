@@ -13,9 +13,7 @@ alt: Diccionario inglés con transcripción fonética IPA visible
 keywords:
   - Cómo Leer la Transcripción Fonética
   - como leer transcripcion fonetica ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Qué diccionario es mejor para aprender a leer transcripciones fonéticas?
     answer: >-

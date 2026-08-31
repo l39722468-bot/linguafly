@@ -13,9 +13,7 @@ alt: Grupo de viajeros practicando surf en una playa tropical
 keywords:
   - Inglés para Playas y Deportes Acuáticos
   - deportes acuaticos ingles
-  - curso de inglés gratis
   - frases en inglés gratis
-  - aprender inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-playas-deportes-acuaticos'
 faqs:
   - question: ¿Cómo pregunto por las condiciones del mar en inglés?

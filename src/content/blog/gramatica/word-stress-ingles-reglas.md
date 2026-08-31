@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - El Acento de Palabra en Inglés
   - acento palabra inglés
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-17'

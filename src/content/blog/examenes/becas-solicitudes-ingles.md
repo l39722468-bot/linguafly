@@ -13,8 +13,6 @@ alt: Persona escribiendo una solicitud de beca frente a un ordenador portátil
 keywords:
   - 'Becas y Solicitudes en Inglés: Cómo'
   - becas solicitudes ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - preparar inglés gratis
 faqs:
   - question: ¿Qué es un Personal Statement y cómo se diferencia de una carta de motivación?

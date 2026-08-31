@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - 'Cómo Liderar Reuniones en Inglés: Frases Clave'
   - liderar reuniones ingles
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-04-19'
 updatedDate: '2026-08-31'

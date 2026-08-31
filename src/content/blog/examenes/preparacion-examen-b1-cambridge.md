@@ -17,8 +17,6 @@ excerpt: >-
 keywords:
   - Preparación Examen B1 Inglés
   - examen b1 ingles consejos
-  - curso de inglés gratis
-  - aprender inglés gratis
   - preparar inglés gratis
 canonical: 'https://linguafly.app/blog/examenes/preparacion-examen-b1-cambridge'
 related_routes:

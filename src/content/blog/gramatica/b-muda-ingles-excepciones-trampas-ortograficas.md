@@ -11,9 +11,7 @@ readTime: 22 min
 keywords:
   - Excepciones y trampas ortográficas
   - ortografía inglés excepciones
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 alt: Libro abierto sobre mesa
 excerpt: >-
   Evita trampas comunes: confundir *debit* y *debt*, olvidar la b en *doubt* o

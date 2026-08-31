@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - 'Entonación en Inglés: Cómo'
   - entonación inglés
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-07'

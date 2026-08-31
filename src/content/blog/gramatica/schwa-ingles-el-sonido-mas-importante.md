@@ -13,8 +13,6 @@ alt: Símbolos fonéticos escritos en una pizarra
 keywords:
   - 'El Schwa en Inglés: Por Qué /ə/ es'
   - schwa ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué es exactamente el schwa?

@@ -13,7 +13,6 @@ alt: Paisaje de las Highlands escocesas evocando el inglés escocés
 keywords:
   - 'Inglés Escocés: Por Qué Suena Tan Distinto'
   - diferencias ingles escoces ingles britanico
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 faqs:

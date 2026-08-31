@@ -12,7 +12,6 @@ readTime: 6 min
 keywords:
   - Gramática Inglés B1
   - clases de gramatica en ingles gratis
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 canonical: 'https://linguafly.app/blog/gramatica/gramatica-ingles-b1-guia'

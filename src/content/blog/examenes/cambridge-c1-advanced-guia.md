@@ -19,7 +19,6 @@ keywords:
   - speaking cae estrategias
   - preparar inglés gratis
   - material de inglés gratis
-  - curso de inglés gratis
 faqs:
   - question: '¿Qué diferencia al C1 Advanced (CAE) del B2 First en términos de exigencia?'
     answer: 'En el B2, el objetivo principal es la corrección gramatical. En el C1, se espera sofisticación, matices y flexibilidad lingüística. Los examinadores buscan estructuras de énfasis como inversiones, cleft sentences y participle clauses, además de vocabulario preciso e idioms avanzados en lugar de palabras genéricas como "good" o "bad".'

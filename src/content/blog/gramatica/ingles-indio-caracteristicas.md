@@ -13,9 +13,7 @@ alt: Ciudad india moderna representando el inglés de India en contexto profesio
 keywords:
   - 'Inglés Indio: Por Qué Suena Diferente'
   - acento indio ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Hay un único "inglés indio" o son muchos acentos diferentes?
     answer: >-

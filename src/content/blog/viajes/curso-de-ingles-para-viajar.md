@@ -18,7 +18,6 @@ keywords:
   - Curso de Inglés para Viajar
   - mejor curso de ingles para viajar
   - inglés para viajar gratis
-  - curso de inglés gratis
   - frases en inglés gratis
 faqs:
   - question: ¿Qué nivel de inglés necesito para viajar?

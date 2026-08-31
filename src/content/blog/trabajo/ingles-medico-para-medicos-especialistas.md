@@ -15,8 +15,6 @@ readTime: 5 min
 keywords:
   - Inglés Médico para Médicos
   - ingles para medicos
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 faqs:
   - question: ¿Qué nivel de inglés necesita un médico para publicar en revistas científicas internacionales?

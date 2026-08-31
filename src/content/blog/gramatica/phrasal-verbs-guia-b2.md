@@ -11,8 +11,6 @@ excerpt: >-
 keywords:
   - 'Phrasal Verbs B2: Lista Definitiva'
   - lista phrasal verbs
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-02'

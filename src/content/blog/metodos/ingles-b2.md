@@ -12,9 +12,6 @@ readTime: 5 min
 keywords:
   - 'Curso de Inglés B2: Prepárate'
   - curso inglés b2
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 canonical: 'https://linguafly.app/blog/metodos/ingles-b2'
 related_routes:
   - ingles-b1

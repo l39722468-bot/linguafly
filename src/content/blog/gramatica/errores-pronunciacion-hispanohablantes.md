@@ -13,7 +13,6 @@ alt: Hispanohablante practicando pronunciación inglesa con un profesor
 keywords:
   - Los 10 Errores de Pronunciación
   - errores pronunciacion ingles hispanohablantes
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 faqs:

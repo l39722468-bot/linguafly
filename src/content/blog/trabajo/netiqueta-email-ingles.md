@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - 'Netiqueta en Emails en Inglés: Lo'
   - netiqueta email ingles profesional
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 author: focus-english-team
 date: '2026-03-02'

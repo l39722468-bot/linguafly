@@ -15,9 +15,6 @@ readTime: 5 min
 keywords:
   - Cómo Hacer Presentaciones en Inglés
   - presentaciones en ingles
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Cómo empiezo una presentación en inglés si estoy muy nervioso?
     answer: >-

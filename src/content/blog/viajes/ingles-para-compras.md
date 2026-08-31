@@ -14,7 +14,6 @@ keywords:
   - 'Inglés para Ir de Compras: Frases'
   - ingles para compras
   - frases en inglés gratis
-  - aprender inglés gratis
   - inglés para viajar gratis
 faqs:
   - question: ¿Cómo pregunto mi talla en inglés en una tienda?

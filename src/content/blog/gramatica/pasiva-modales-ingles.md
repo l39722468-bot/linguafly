@@ -11,8 +11,6 @@ excerpt: >-
 keywords:
   - Pasiva con Verbos Modales en Inglés
   - pasiva verbos modales ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-17'

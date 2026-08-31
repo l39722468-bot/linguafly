@@ -13,8 +13,6 @@ alt: Persona practicando pronunciación en inglés con el móvil usando una app 
 keywords:
   - 'ELSA Speak Review: ¿La Mejor App'
   - elsa speak review
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 faqs:
   - question: '¿ELSA Speak funciona realmente para mejorar la pronunciación en inglés?'

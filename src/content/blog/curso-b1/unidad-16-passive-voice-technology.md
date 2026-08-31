@@ -13,9 +13,6 @@ keywords:
   - is are was were past participle
   - technology vocabulary English
   - inglés B1 unidad 16
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-16-passive-voice-technology'
 image: /blog/curso-b1/unit-16/passive-voice.png

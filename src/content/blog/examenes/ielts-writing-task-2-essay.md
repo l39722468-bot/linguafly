@@ -11,7 +11,6 @@ readTime: 8 min
 keywords:
   - 'IELTS Writing Task 2: Estructura'
   - ielts writing task 2
-  - aprender inglés gratis
   - preparar inglés gratis
   - material de inglés gratis
 excerpt: >-

@@ -12,8 +12,6 @@ keywords:
   - Clientes difíciles en inglés
   - de-escalation inglés
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 alt: Persona en atención telefónica con auriculares
 excerpt: >-
   Frases y marcos mentales para gestionar ira, amenazas y presión en inglés:

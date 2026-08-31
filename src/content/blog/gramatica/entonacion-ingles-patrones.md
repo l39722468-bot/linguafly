@@ -13,8 +13,6 @@ alt: Onda sonora de la entonación del inglés hablado
 keywords:
   - 'Entonación en Inglés: Los Patrones'
   - patrones entonacion ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué es la entonación?

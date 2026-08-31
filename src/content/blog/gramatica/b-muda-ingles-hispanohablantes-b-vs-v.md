@@ -11,8 +11,6 @@ readTime: 22 min
 keywords:
   - “B” muda en inglés y confusión b/v
   - b muda ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 alt: Profesor explicando en pizarra
 excerpt: >-

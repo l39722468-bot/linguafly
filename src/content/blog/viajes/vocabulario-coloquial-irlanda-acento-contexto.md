@@ -10,7 +10,6 @@ keywords:
   - Vocabulario y Expresiones del Inglés
   - vocabulario ingles Irlanda
   - inglés para viajar gratis
-  - curso de inglés gratis
   - frases en inglés gratis
 author: focus-english-team
 date: '2026-03-29'

@@ -11,8 +11,6 @@ alt: 'Persona haciendo un curso de inglés online desde casa'
 keywords:
   - Los Mejores Cursos de Inglés Online en
   - mejores cursos ingles online
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 faqs:
   - question: '¿Cuál es el mejor curso de inglés online en 2026?'

@@ -12,9 +12,7 @@ excerpt: >-
 keywords:
   - mejores apps inglés profesional trabajo
   - apps business english entorno laboral
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 date: '2026-03-02'
 updatedDate: '2026-08-31'
 category: trabajo

@@ -7,8 +7,6 @@ excerpt: >-
 keywords:
   - Ejercicios de Condicionales en Inglés B1-B2
   - condicionales en ingles ejercicios resueltos
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 description: >-

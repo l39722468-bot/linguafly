@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - Verbos Modales en Inglés Avanzados
   - verbos modales ingles avanzados
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

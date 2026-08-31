@@ -13,9 +13,7 @@ alt: Campus universitario europeo con estudiantes caminando entre edificios hist
 keywords:
   - Guía Erasmus y Estudios
   - guia erasmus estudios extranjero
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 faqs:
   - question: ¿Qué nivel de inglés necesito para hacer un Erasmus en un país de habla inglesa?
     answer: >-

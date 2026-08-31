@@ -15,9 +15,7 @@ excerpt: >-
 keywords:
   - Gramática Inglesa
   - gramatica ingles por niveles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 readTime: 18 min
 alt: 'Guía completa de gramática inglesa de A1 a C2'
 canonical: 'https://linguafly.app/blog/gramatica/gramatica-inglesa-guia'

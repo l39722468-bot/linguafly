@@ -13,9 +13,6 @@ excerpt: >-
 keywords:
   - vocabulario esencial entrevista trabajo inglés
   - palabras clave inglés profesional entrevista laboral
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-08'
 updatedDate: '2026-08-31'

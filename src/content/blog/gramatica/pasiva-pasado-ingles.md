@@ -10,7 +10,6 @@ excerpt: >-
 keywords:
   - Voz Pasiva en Pasado en Inglés
   - voz pasiva pasado ingles
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

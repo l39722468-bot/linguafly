@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - Vocabulario Inglés para Redes
   - vocabulario ingles redes sociales
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 author: focus-english-team
 date: '2026-03-04'

@@ -14,7 +14,6 @@ keywords:
   - Inglés para Festivales y Eventos en el Extranjero
   - ingles para festivales
   - frases en inglés gratis
-  - aprender inglés gratis
   - inglés para viajar gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-festivales-eventos-viaje'
 faqs:

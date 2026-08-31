@@ -13,9 +13,6 @@ keywords:
   - education vocabulary B2
   - inglés B2 unidad 3
   - ejercicios inglés B2 gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B2 gratis
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-3-gerund-infinitive-education'
 image: /blog/curso-b2/unit-3/gerund-infinitive.png

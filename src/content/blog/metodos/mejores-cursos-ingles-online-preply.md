@@ -11,8 +11,6 @@ alt: 'Videollamada con tutor de inglés'
 keywords:
   - 'Preply: tutores para IELTS y Cambridge'
   - preply ingles examenes
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 faqs:
   - question: '¿Preply es un curso cerrado o elijo yo al profesor?'

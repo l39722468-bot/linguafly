@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - 'IELTS vs TOEFL: Cuál es mejor'
   - ielts o toefl profesional
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 date: '2026-02-05'
 updatedDate: '2026-08-31'
 category: trabajo

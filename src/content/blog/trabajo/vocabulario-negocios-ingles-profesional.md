@@ -11,9 +11,7 @@ excerpt: >-
 keywords:
   - 'Vocabulario de Negocios en Inglés: 100+'
   - vocabulario de negocios en ingles
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 author: focus-english-team
 date: '2026-02-06'
 updatedDate: '2026-08-31'

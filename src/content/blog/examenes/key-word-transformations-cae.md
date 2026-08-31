@@ -6,8 +6,6 @@ excerpt: "Las Key Word Transformations son la parte del CAE que más candidatos 
 keywords:
   - 'Key Word Transformations CAE: Domina'
   - key word transformations cae
-  - curso de inglés gratis
-  - aprender inglés gratis
   - preparar inglés gratis
 author: focus-english-team
 date: '2026-03-17'

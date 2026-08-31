@@ -13,7 +13,6 @@ excerpt: >-
 keywords:
   - 'IELTS Speaking Part 3: Preguntas Típicas y Respuestas'
   - ielts speaking part 3
-  - aprender inglés gratis
   - preparar inglés gratis
   - material de inglés gratis
 author: focus-english-team

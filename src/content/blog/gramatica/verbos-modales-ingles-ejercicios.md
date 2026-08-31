@@ -10,9 +10,7 @@ excerpt: >-
 keywords:
   - Ejercicios de Verbos Modales
   - verbos modales ingles ejercicios resueltos
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-08-31'

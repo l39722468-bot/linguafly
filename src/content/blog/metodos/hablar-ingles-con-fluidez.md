@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - 'Cómo Hablar Inglés con Fluidez: 10'
   - hablar ingles con fluidez
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-08-31'

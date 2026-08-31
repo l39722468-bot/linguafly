@@ -11,8 +11,6 @@ readTime: 8 min
 keywords:
   - 'Phrasal Verbs con GO: Lista Completa'
   - go phrasal verbs lista completa
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 excerpt: >-
   GO parece simple, pero sus combinaciones con partículas cubren situaciones muy distintas: desde go off (explotar o sonar una alarma) hasta go through (pasar por algo difícil). Aquí tienes las más importantes con ejemplos reales.

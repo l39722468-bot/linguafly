@@ -11,9 +11,7 @@ keywords:
   - ejercicios condicionales b1 b2
   - second conditional ejercicios
   - third conditional ejercicios
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-07-30'
 updatedDate: '2026-08-31'

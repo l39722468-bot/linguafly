@@ -35,9 +35,6 @@ keywords:
 - travel transport vocabulary
 - inglés B1 unidad 6
 - am going to
-- curso de inglés gratis
-- aprender inglés gratis
-- curso de inglés online gratis
 - curso inglés B1 gratis
 readTime: 16 min
 related_routes:

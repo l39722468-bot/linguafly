@@ -11,7 +11,6 @@ readTime: 7 min
 keywords:
   - 'Backshift en Reported Speech: Cuándo'
   - cuando no cambiar verbo reported speech
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 excerpt: >-

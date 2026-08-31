@@ -26,9 +26,6 @@ keywords:
 - repaso B1 unidades 1-4
 - review 1-4 ejercicios
 - curso B1 Linguafly
-- curso de inglés gratis
-- aprender inglés gratis
-- curso de inglés online gratis
 - curso inglés B1 gratis
 readTime: 25 min
 related_routes:

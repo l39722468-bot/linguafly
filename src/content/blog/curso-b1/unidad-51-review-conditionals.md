@@ -12,9 +12,6 @@ keywords:
   - first second third conditional
   - time clauses English
   - inglés B1 unidad 51
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-51-review-conditionals'
 image: /blog/curso-b1/unit-51/conditionals-map.png

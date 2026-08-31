@@ -12,9 +12,6 @@ keywords:
   - ropa colores inglés B1
   - práctica gramatical mixta
   - inglés B1 unidad 57
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours'
 image: /blog/curso-b1/unit-57/mixed-grammar-map.png

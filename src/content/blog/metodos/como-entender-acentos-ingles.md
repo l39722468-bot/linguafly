@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - Cómo Entender los Acentos del Inglés
   - cómo entender acentos inglés
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-27'
 updatedDate: '2026-08-31'

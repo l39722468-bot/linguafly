@@ -11,9 +11,7 @@ readTime: 7 min
 keywords:
   - Modales Perfectos en Inglés
   - modales perfectos ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 excerpt: >-
   Los modales perfectos son la clave para hablar del pasado con matiz. Con ellos puedes deducir lo que ocurrió, criticar lo que no se hizo, expresar arrepentimiento y hablar de posibilidades que no se cumplieron. Son estructura modal + have + participio.
 faqs:

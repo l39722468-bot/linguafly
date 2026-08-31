@@ -10,8 +10,6 @@ excerpt: >-
 keywords:
   - Preposiciones de Movimiento en Inglés
   - preposiciones en ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-02'

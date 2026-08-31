@@ -11,9 +11,7 @@ readTime: 8 min
 keywords:
   - 'Verbos Irregulares en Inglés: Lista Completa'
   - lista verbos irregulares ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 excerpt: >-
   Los verbos irregulares son uno de los retos clásicos del inglés. No siguen reglas, pero tienen patrones que los hacen más fáciles de aprender en grupos. Aquí tienes los más frecuentes organizados para que no tengas que memorizarlos uno a uno.
 faqs:

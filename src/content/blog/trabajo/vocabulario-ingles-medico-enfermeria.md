@@ -15,8 +15,6 @@ readTime: 5 min
 keywords:
   - Vocabulario de Inglés Médico
   - vocabulario ingles medico enfermeria
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 faqs:
   - question: ¿Qué nivel de inglés necesita una enfermera para trabajar en el extranjero?

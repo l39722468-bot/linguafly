@@ -14,7 +14,6 @@ keywords:
   - Inglés para Airbnb y Alojamiento Alternativo
   - ingles para airbnb
   - frases en inglés gratis
-  - aprender inglés gratis
   - inglés para viajar gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-airbnb-alojamiento-alternativo'
 faqs:

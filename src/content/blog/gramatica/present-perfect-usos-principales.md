@@ -11,8 +11,6 @@ readTime: 6 min
 keywords:
   - 'Present Perfect en Inglés: Los 4 Usos'
   - present perfect usos
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 excerpt: >-
   El Present Perfect no es difícil si entiendes qué lógica hay detrás. Son básicamente 4 situaciones distintas, y una vez que las reconoces, la elección entre present perfect y past simple empieza a ser casi automática.

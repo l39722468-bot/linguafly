@@ -14,7 +14,6 @@ keywords:
   - Inglés para Restaurantes y Bares en el Extranjero
   - ingles para restaurantes
   - frases en inglés gratis
-  - aprender inglés gratis
   - inglés para viajar gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-restaurantes-bares-viaje'
 faqs:

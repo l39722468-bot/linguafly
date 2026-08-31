@@ -15,9 +15,7 @@ readTime: 5 min
 keywords:
   - Inglés Técnico para Ingeniería Civil
   - ingles ingenieria civil
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 faqs:
   - question: ¿Cuáles son las normas técnicas internacionales más importantes que debo conocer en inglés?
     answer: >-

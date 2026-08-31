@@ -13,9 +13,6 @@ keywords:
   - future tenses work
   - inglés B2 unidad 2
   - ejercicios inglés B2 gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B2 gratis
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-2-future-tenses-work'
 image: /blog/curso-b2/unit-2/future-tenses.png

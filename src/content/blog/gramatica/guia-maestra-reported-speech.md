@@ -12,8 +12,6 @@ readTime: 5 min
 keywords:
   - Guia Maestra de Reported Speech
   - reported speech
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 canonical: 'https://linguafly.app/blog/gramatica/guia-maestra-reported-speech'
 alt: Guía maestra sobre estilo indirecto en inglés

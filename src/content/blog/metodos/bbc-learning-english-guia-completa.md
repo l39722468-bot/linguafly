@@ -13,9 +13,6 @@ alt: Persona estudiando inglés con auriculares frente a una pantalla con conten
 keywords:
   - BBC Learning English
   - BBC Learning English sin internet
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 faqs:
   - question: '¿BBC Learning English es completamente gratis?'
     answer: >-

@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - Errores Comunes con los Condicionales
   - errores condicionales ingles
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

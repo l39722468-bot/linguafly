@@ -11,8 +11,6 @@ excerpt: >-
 keywords:
   - Vocales Cortas y Largas en Inglés
   - vocales cortas inglés
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-08'

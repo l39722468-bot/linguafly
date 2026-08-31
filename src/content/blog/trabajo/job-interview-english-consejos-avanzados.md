@@ -16,8 +16,6 @@ keywords:
   - 'Job Interview English: Técnicas'
   - job interview english
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 faqs:
   - question: ¿Cuál es la diferencia entre una entrevista competencial y una técnica?
     answer: >-

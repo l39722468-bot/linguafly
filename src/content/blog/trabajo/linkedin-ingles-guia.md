@@ -15,8 +15,6 @@ alt: >-
 keywords:
   - 'LinkedIn en Inglés: Cómo Optimizar'
   - optimizar linkedin inglés
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 canonical: 'https://linguafly.app/blog/trabajo/linkedin-ingles-guia'
 faqs:

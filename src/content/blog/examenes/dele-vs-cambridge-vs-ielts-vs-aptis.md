@@ -16,7 +16,6 @@ excerpt: >-
 keywords:
   - DELE vs Cambridge vs IELTS vs APTIS
   - aptis vs cambridge
-  - aprender inglés gratis
   - preparar inglés gratis
   - material de inglés gratis
 alt: 'Diplomas y certificados de inglés comparados sobre una mesa de trabajo'

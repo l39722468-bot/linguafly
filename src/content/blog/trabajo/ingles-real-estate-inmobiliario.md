@@ -11,8 +11,6 @@ alt: Agente inmobiliario mostrando una propiedad moderna a clientes internaciona
 keywords:
   - Inglés para Real Estate
   - real estate ingles
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 faqs:
   - question: ¿Cuál es la diferencia entre "Real Estate" y "Property"?

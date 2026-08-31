@@ -13,9 +13,6 @@ keywords:
   - run out of take care of
   - work study English
   - inglés B1 unidad 48
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-48-phrasal-verbs-work-study'
 image: /blog/curso-b1/unit-48/phrasal-verbs-3.png

@@ -13,9 +13,6 @@ keywords:
   - natural world vocabulary
   - relative clauses English
   - inglés B1 unidad 31
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-31-defining-relative-nature'
 image: /blog/curso-b1/unit-31/defining-relative.png

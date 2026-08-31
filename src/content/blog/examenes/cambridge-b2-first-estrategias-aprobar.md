@@ -19,7 +19,6 @@ excerpt: >-
 keywords:
   - 'Cambridge B2 First (FCE): Cómo Aprobar'
   - como aprobar b2 first
-  - aprender inglés gratis
   - preparar inglés gratis
   - material de inglés gratis
 faqs:

@@ -11,9 +11,7 @@ excerpt: >-
 keywords:
   - Voz Activa vs Voz Pasiva en Inglés
   - activa vs pasiva ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-20'
 updatedDate: '2026-08-31'

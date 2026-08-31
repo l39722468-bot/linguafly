@@ -13,9 +13,6 @@ alt: Smartphone con aplicaciones de idiomas en la pantalla
 keywords:
   - mejores apps gratuitas para aprender inglés
   - apps inglés gratis uso personal ocio
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Puedo aprender inglés solo con apps gratuitas?
     answer: >-

@@ -11,8 +11,6 @@ readTime: 22 min
 keywords:
   - Doubt, debt, subtle y el misterio
   - doubt pronunciación
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 alt: Libros apilados en librería
 excerpt: >-

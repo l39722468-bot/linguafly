@@ -11,8 +11,6 @@ readTime: 7 min
 keywords:
   - 'Phrasal Verbs con MAKE: Lista Completa'
   - phrasal verbs con make
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 excerpt: >-
   MAKE es un verbo que ya conoces bien en su forma simple. Pero en cuanto le añades una partícula, el significado cambia completamente. Make up, make out, make up for... cada combinación es casi un verbo nuevo.

@@ -13,9 +13,7 @@ alt: Diagrama de articulación de consonantes del inglés
 keywords:
   - Consonantes Difíciles del Inglés
   - consonantes dificiles ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Cuáles son las consonantes más difíciles del inglés para hispanohablantes?
     answer: >-

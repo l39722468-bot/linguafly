@@ -11,7 +11,6 @@ readTime: 8 min
 keywords:
   - 'Phrasal Verbs C1 Avanzados: Los Más Usados'
   - phrasal verbs avanzados
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 excerpt: >-

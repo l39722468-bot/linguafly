@@ -13,9 +13,6 @@ keywords:
   - want to infinitive
   - hobbies vocabulary
   - inglés B1 unidad 21
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-21-gerund-infinitive-hobbies'
 image: /blog/curso-b1/unit-21/gerund-infinitive-1.png

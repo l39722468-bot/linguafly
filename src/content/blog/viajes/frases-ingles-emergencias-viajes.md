@@ -18,9 +18,7 @@ canonical: 'https://linguafly.app/blog/viajes/frases-ingles-emergencias-viajes'
 keywords:
   - Frases de Emergencia en Inglés
   - frases emergencia viaje ingles
-  - curso de inglés gratis
   - frases en inglés gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Cómo pido ayuda médica urgente en inglés?
     answer: >-

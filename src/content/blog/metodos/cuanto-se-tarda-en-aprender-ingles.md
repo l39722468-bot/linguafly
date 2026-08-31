@@ -11,9 +11,6 @@ excerpt: >-
 keywords:
   - ¿Cuánto se tarda en aprender inglés
   - aprender ingles en 6 meses
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 date: '2024-02-03'
 updatedDate: '2026-08-31'
 category: metodos

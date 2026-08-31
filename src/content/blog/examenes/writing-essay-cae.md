@@ -6,8 +6,6 @@ excerpt: "El essay del CAE es el único texto obligatorio del Writing. Aquí tie
 keywords:
   - Cómo Escribir el Essay del CAE
   - como escribir essay c1 advanced
-  - curso de inglés gratis
-  - aprender inglés gratis
   - preparar inglés gratis
 author: focus-english-team
 date: '2026-03-19'

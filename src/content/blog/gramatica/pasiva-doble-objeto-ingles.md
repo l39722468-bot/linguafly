@@ -12,9 +12,7 @@ excerpt: >-
 keywords:
   - Pasiva con Doble Objeto en Inglés
   - pasiva doble objeto ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-26'
 updatedDate: '2026-08-31'

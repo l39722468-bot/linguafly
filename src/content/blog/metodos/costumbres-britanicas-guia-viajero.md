@@ -12,9 +12,7 @@ excerpt: >-
 keywords:
   - 'Costumbres Británicas: Lo Que Nadie'
   - costumbres britanicas
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-08-31'

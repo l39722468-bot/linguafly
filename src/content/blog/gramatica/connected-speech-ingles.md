@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - 'Connected Speech en Inglés: Por Qué No Entiendes'
   - connected speech inglés
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

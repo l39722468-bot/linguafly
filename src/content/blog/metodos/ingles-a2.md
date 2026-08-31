@@ -12,8 +12,6 @@ readTime: 6 min
 keywords:
   - 'Curso de Inglés A2 Online: Domina'
   - curso inglés a2
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 canonical: 'https://linguafly.app/blog/metodos/ingles-a2'
 related_routes:

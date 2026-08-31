@@ -13,9 +13,6 @@ keywords:
   - backshift English
   - communication vocabulary
   - inglés B1 unidad 18
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-18-reported-speech-statements'
 image: /blog/curso-b1/unit-18/reported-statements.png

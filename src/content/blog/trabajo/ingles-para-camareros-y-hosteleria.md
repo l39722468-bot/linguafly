@@ -12,8 +12,6 @@ keywords:
   - Inglés para Camareros y Hostelería
   - ingles hosteleria trabajo
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 faqs:
   - question: ¿Qué nivel de inglés necesito para trabajar como camarero en UK o Irlanda?
     answer: >-

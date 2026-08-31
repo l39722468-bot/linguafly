@@ -14,7 +14,6 @@ keywords:
   - Inglés para Mercados y Regateo en el Extranjero
   - ingles para mercados
   - inglés para viajar gratis
-  - curso de inglés gratis
   - frases en inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-mercados-regateo-viaje'
 faqs:

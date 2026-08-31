@@ -17,9 +17,7 @@ keywords:
   - verbo to be I you
   - my name is inglés
   - cómo saludar en inglés
-  - curso de inglés gratis
   - curso inglés A1 gratis
-  - aprender inglés gratis
 canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-1-saludos-presentarse'
 image: /blog/curso-a1/unit-1/a1-unit1-self-introduction-formula.png
 alt: Esquema para presentarse en inglés nivel A1 con saludo, nombre, origen y profesión

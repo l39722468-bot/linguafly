@@ -15,9 +15,6 @@ readTime: 6 min
 keywords:
   - Inglés para Ingenieros de Software
   - ingles para ingenieros
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Qué nivel de inglés necesito para trabajar en una empresa tech internacional?
     answer: >-

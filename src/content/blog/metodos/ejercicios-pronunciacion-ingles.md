@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - Ejercicios de Pronunciación en Inglés
   - ejercicios pronunciación inglés
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-19'
 updatedDate: '2026-08-31'

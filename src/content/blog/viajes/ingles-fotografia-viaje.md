@@ -13,9 +13,7 @@ alt: Fotógrafo viajero capturando un atardecer desde un mirador
 keywords:
   - Inglés para Fotografía de Viaje
   - ingles fotografia viaje
-  - aprender inglés gratis
   - inglés para viajar gratis
-  - curso de inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-fotografia-viaje'
 faqs:
   - question: ¿Cómo pido a alguien que me haga una foto en inglés?

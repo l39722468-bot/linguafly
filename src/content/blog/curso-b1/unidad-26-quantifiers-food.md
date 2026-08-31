@@ -13,9 +13,6 @@ keywords:
   - few little
   - food drink vocabulary
   - inglés B1 unidad 26
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-26-quantifiers-food'
 image: /blog/curso-b1/unit-26/quantifiers.png
