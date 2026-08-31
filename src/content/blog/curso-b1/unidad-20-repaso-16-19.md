@@ -146,7 +146,11 @@ Clasifica primero (¿pasiva / modal / reported?) y después conjugas. El error s
 
 Curso:
 
-- [Unidad 21 — Gerund vs infinitive](/curso-b1/unit-21) *(guía teórica pendiente)*
+- [Unidad 21 — Gerund vs infinitive](/curso-b1/unit-21)
+
+Guía teórica siguiente:
+
+- [U21 — Gerund/Infinitive 1 & Hobbies](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies)
 
 Guías relacionadas:
 

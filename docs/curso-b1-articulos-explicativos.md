@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría + cuadernos U1–U20; Módulo 2 completo)  
+**Última actualización:** 2026-08-31 (teoría U1–U25; cuadernos U1–U20; Módulo 3 teoría U21–U25 iniciada)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 20 |
-| Artículos dedicados pendientes | 40 |
+| Artículos dedicados publicados | 25 |
+| Artículos dedicados pendientes | 35 |
 | Cuadernos ejercicios+soluciones | 20 (U1–U20) |
 
 ---
@@ -66,10 +66,24 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | 19 | Reported questions & commands | asked if/wh-; told to; language | ✅ | [Questions & commands](/blog/curso-b1/unidad-19-reported-speech-questions) · [Ejercicios](/blog/curso-b1/unidad-19-reported-speech-questions-ejercicios-soluciones) |
 | 20 | Repaso 16–19 | integración passive + reported | ✅ | [Repaso 16–19](/blog/curso-b1/unidad-20-repaso-16-19) · [Ejercicios](/blog/curso-b1/unidad-20-repaso-16-19-ejercicios-soluciones) |
 
-**Módulo 2 completo (U11–20).** Siguiente: Módulo 3 (U21–25 gerunds/phrasals).
+**Módulo 2 completo (U11–20).**  
 
 ---
 
-## Módulos 3–6 (U21–60)
+## Módulo 3: Gerunds, infinitives & phrasals (U21–25) · teoría
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 21 | Gerund vs Infinitive (1) & Hobbies | enjoy/finish + -ing; want/need/decide + to | ✅ | [Gerund/Inf 1](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies) |
+| 22 | Gerund vs Infinitive (2) & House | like/prefer; remember/forget/try | ✅ | [Gerund/Inf 2](/blog/curso-b1/unidad-22-gerund-infinitive-house) |
+| 23 | Phrasal Verbs 1 & Daily | turn on/off, put on, look after… | ✅ | [Phrasals 1](/blog/curso-b1/unidad-23-phrasal-verbs-daily) |
+| 24 | Phrasal Verbs 2 & Shopping | find out, give up, fill in, hand in | ✅ | [Phrasals 2](/blog/curso-b1/unidad-24-phrasal-verbs-shopping) |
+| 25 | Repaso 21–24 | integración | ✅ | [Repaso 21–24](/blog/curso-b1/unidad-25-repaso-21-24) |
+
+**Pendiente U21–U25:** cuadernos de ejercicios. **Siguiente:** U26–30 o cuadernos U21–25.
+
+---
+
+## Módulos 4–6 (U26–60)
 
 Pendiente de seguimiento detallado cuando se publiquen los artículos. Ver [planificación B1](./curso-b1-planificacion.md) y [objetivos por unidad](./curso-b1-objetivos-y-ejercicios.md).

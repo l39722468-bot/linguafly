@@ -330,7 +330,7 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b1/unidad-20-repaso-16-19).  
 2. Practica en la [Unidad 20 del curso B1](/curso-b1/unit-20).  
-3. Siguiente bloque del curso: [Unidad 21 — Gerund vs infinitive](/curso-b1/unit-21).
+3. Siguiente: [U21 — Gerund/Infinitive 1](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies).
 
 Guías relacionadas:
 

@@ -913,6 +913,21 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-20-repaso-16-19-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 20 },
   ],
+  'unidad-21-gerund-infinitive-hobbies': [
+    { courseId: 'b1', unitNumber: 21 },
+  ],
+  'unidad-22-gerund-infinitive-house': [
+    { courseId: 'b1', unitNumber: 22 },
+  ],
+  'unidad-23-phrasal-verbs-daily': [
+    { courseId: 'b1', unitNumber: 23 },
+  ],
+  'unidad-24-phrasal-verbs-shopping': [
+    { courseId: 'b1', unitNumber: 24 },
+  ],
+  'unidad-25-repaso-21-24': [
+    { courseId: 'b1', unitNumber: 25 },
+  ],
   'unidad-7-was-were-going-to-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 7 },
   ],
