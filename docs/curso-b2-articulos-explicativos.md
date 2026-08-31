@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (Módulo 2 U11–15 teoría+cuadernos; Módulo 1 U1–10 completo)  
+**Última actualización:** 2026-08-31 (Módulo 2 U16–20 teoría; U11–15 teoría+cuadernos; Módulo 1 U1–10 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -15,9 +15,9 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 15 |
-| Artículos dedicados pendientes | 45 |
-| Cuadernos ejercicios+soluciones | 10 |
+| Artículos dedicados publicados | 20 |
+| Artículos dedicados pendientes | 40 |
+| Cuadernos ejercicios+soluciones | 15 |
 
 ---
 
@@ -51,7 +51,9 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 
 ---
 
-## Módulo 2: Relative clauses & Modals (U11–15)
+## Módulo 2: Relative clauses, Modals, Passive & Degree (U11–20)
+
+### U11–15 — Relative clauses & Modals
 
 | U | Título | Gramática / tema | Teoría | Cuaderno |
 |---|---|---|---|---|
@@ -61,16 +63,29 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | 14 | Modal Deduction & Business | must/might/can't have; business & fashion | ✅ | ✅ |
 | 15 | Repaso 11–14 | integración | ✅ | ✅ |
 
-**Módulo 2 completo (teoría + cuadernos U11–15).**
+### U16–20 — Passive, degree & comparatives
 
-Teoría M2:
+| U | Título | Gramática / tema | Teoría | Cuaderno |
+|---|---|---|---|---|
+| 16 | Passive (all tenses) & Heritage | be + V3 en todos los tiempos; history & heritage | ✅ | ❌ |
+| 17 | Modal Passive & Adventure | must/should be + V3; have something done; adventure | ✅ | ❌ |
+| 18 | So / Such / Too / Enough & Cooking | so/such/too/enough; cooking & recipes | ✅ | ❌ |
+| 19 | Advanced Comparatives & Literature | the…the…, by far, much/far; literature | ✅ | ❌ |
+| 20 | Repaso 16–19 | integración | ✅ | ❌ |
+
+**Teoría Módulo 2 completa (U11–20).** Cuadernos U16–20 pendientes.
+
+Teoría M2 (U11–15):
 - [U11](/blog/curso-b2/unidad-11-relative-clauses-culture) · [U12](/blog/curso-b2/unidad-12-relative-clauses-reduction) · [U13](/blog/curso-b2/unidad-13-modals-money) · [U14](/blog/curso-b2/unidad-14-modal-deduction-business) · [U15](/blog/curso-b2/unidad-15-repaso-11-14)
 
-Cuadernos M2:
+Teoría M2 (U16–20):
+- [U16](/blog/curso-b2/unidad-16-passive-all-tenses-heritage) · [U17](/blog/curso-b2/unidad-17-modal-passive-adventure) · [U18](/blog/curso-b2/unidad-18-so-such-too-enough-food) · [U19](/blog/curso-b2/unidad-19-advanced-comparatives-literature) · [U20](/blog/curso-b2/unidad-20-repaso-16-19)
+
+Cuadernos M2 (U11–15):
 - [U11](/blog/curso-b2/unidad-11-relative-clauses-culture-ejercicios-soluciones) · [U12](/blog/curso-b2/unidad-12-relative-clauses-reduction-ejercicios-soluciones) · [U13](/blog/curso-b2/unidad-13-modals-money-ejercicios-soluciones) · [U14](/blog/curso-b2/unidad-14-modal-deduction-business-ejercicios-soluciones) · [U15](/blog/curso-b2/unidad-15-repaso-11-14-ejercicios-soluciones)
 
 ---
 
-## Módulos 3–6 (U16–60)
+## Módulos 3–6 (U21–60)
 
 Pendiente. Ver [planificación B2](./curso-b2-planificacion.md).
