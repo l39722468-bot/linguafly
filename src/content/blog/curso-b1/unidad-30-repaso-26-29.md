@@ -304,6 +304,19 @@ Si has marcado las cinco casillas, estás preparado para el siguiente bloque del
 
 ---
 
+## Errores típicos de hispanohablantes (repaso mixto)
+
+| ❌ Incorrecto | ✅ Correcto | Unidad |
+| :--- | :--- | :--- |
+| *There aren't much apples left.* | *There aren't **many** apples left.* | U26 |
+| *I have few money this month.* | *I have **little** money this month.* | U26 |
+| *Neither of the options aren't good.* | ***Neither** of the options **is** good.* | U27 |
+| *We visited cathedral yesterday.* | *We visited **the** cathedral yesterday.* | U28 |
+| *She taught herself to herself Spanish.* | *She taught **herself** Spanish.* | U29 |
+| *I did it by my own.* | *I did it **by myself** / **on my own**.* | U29 |
+
+---
+
 ## Tip del profesor
 
 En el repaso, nombra primero la **pregunta clave** (¿contable?, ¿específico?, ¿mismo sujeto y objeto?) y solo después elige la forma. Este pequeño hábito de "pensar antes de hablar" es exactamente lo que hace un hablante avanzado de forma automática, y con la práctica constante de este tipo de repasos, tú también llegarás a hacerlo sin esfuerzo consciente.

@@ -290,6 +290,19 @@ If I finish work early, I'll go to the cinema. If I had more free time, I'd bing
 
 ---
 
+## Errores típicos de hispanohablantes (repaso mixto)
+
+| ❌ Incorrecto | ✅ Correcto | Unidad |
+| :--- | :--- | :--- |
+| *If it will rain, we will stay home.* | *If it **rains**, we will stay home.* | U11 |
+| *If I would have time, I would go.* | *If I **had** time, I would go.* | U12 |
+| *If I win the lottery, I would buy a house.* | *If I **won**… / If I **win**, I **will** buy…* (elige un marco) | U13 |
+| *If I would have studied, I would have passed.* | *If I **had** studied, I would have passed.* | U14 |
+| *If I knew earlier, I would have told you.* | *If I **had known** earlier, I would have told you.* | U14 |
+| *I'll call you when I will arrive.* | *I'll call you when I **arrive**.* | U11 |
+
+---
+
 ## Tip del profesor
 
 En el repaso, **clasifica primero** (¿pasado / ahora / futuro real?) y luego conjuga. El error más frecuente en esta fase no suele ser de vocabulario, sino de *marco temporal*: elegir la forma verbal antes de decidir en qué "modo" de realidad estás hablando. Practica el árbol de decisión de tres preguntas de la sección 1.2 hasta que se vuelva automático.

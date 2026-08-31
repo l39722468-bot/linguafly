@@ -300,6 +300,21 @@ Responde por escrito: ¿vas a presentarte a un examen oficial de B1, vas a conti
 
 ---
 
+## Errores típicos de hispanohablantes (repaso final)
+
+| ❌ Incorrecto | ✅ Correcto | Bloque |
+| :--- | :--- | :--- |
+| *I am living here since 2020.* | *I **have been living** here since 2020.* | Tiempos |
+| *If I would be rich, I would travel.* | *If I **were** rich, I would travel.* | Condicionales |
+| *The email sent yesterday.* | *The email **was sent** yesterday.* | Passive |
+| *She told that she was busy.* | *She **said** that she was busy. / She **told me**…* | Reported |
+| *That mustn't be true* (imposible) | *That **can't** be true.* | Modales |
+| *The man which helped me was kind.* | *The man **who** helped me was kind.* | Relativas |
+
+Revisa estos seis bloques con calma: si puedes explicar *por qué* cada corrección es correcta, estás listo/a para un examen B1 o para empezar el [curso B2](/blog/curso-b2).
+
+---
+
 ## Tip del profesor
 
 Terminar el curso B1 no significa que ya no cometerás errores — significa que ahora tienes **todas las herramientas** para reconocerlos y corregirlos tú mismo/a. El mejor hábito para mantener y mejorar tu nivel es seguir produciendo inglés activamente: habla en voz alta sobre tu día, escribe un párrafo corto cada noche, o graba audios cortos describiendo lo que has hecho. La gramática que has repasado en estas sesenta unidades solo se convierte en fluidez real con **uso constante**, no con repaso pasivo.

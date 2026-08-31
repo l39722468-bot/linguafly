@@ -307,6 +307,20 @@ Si has marcado las cinco casillas, estás preparado para el siguiente bloque del
 
 ---
 
+## Errores típicos de hispanohablantes (repaso mixto)
+
+| ❌ Incorrecto | ✅ Correcto | Unidad |
+| :--- | :--- | :--- |
+| *I enjoy to cycle at weekends.* | *I enjoy **cycling** at weekends.* | U21 |
+| *She wants going to the cinema.* | *She wants **to go** to the cinema.* | U21 |
+| *Remember locking the door before you leave.* | *Remember **to lock** the door before you leave.* | U22 |
+| *I prefer live in the city centre.* | *I prefer **living** / **to live** in the city centre.* | U22 |
+| *Turn off it, please.* | ***Turn it off**, please.* | U23 |
+| *Can you fill the form in?* (OK) / *fill up the form* | *Can you **fill in** the form?* | U24 |
+| *I gave up to learn German.* | *I gave up **learning** German.* | U24 |
+
+---
+
 ## Tip del profesor
 
 En el repaso, clasifica siempre primero la estructura (*-ing / to / phrasal verb*) y solo después completa la frase. Este pequeño hábito —parar un segundo a pensar "¿qué tipo de estructura es esta?" antes de escribir o decir la respuesta— es exactamente el proceso mental que un hablante avanzado hace de forma automática, y es lo que separa a un estudiante que memoriza reglas sueltas de uno que realmente domina la gramática.

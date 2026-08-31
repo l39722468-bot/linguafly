@@ -295,6 +295,19 @@ The assignment is checked by the teacher every Friday. It must be submitted onli
 
 ---
 
+## Errores típicos de hispanohablantes (repaso mixto)
+
+| ❌ Incorrecto | ✅ Correcto | Unidad |
+| :--- | :--- | :--- |
+| *The app updated every week.* | *The app **is updated** every week.* | U16 |
+| *The report must submit by Friday.* | *The report **must be submitted** by Friday.* | U17 |
+| *She said me she was busy.* | *She **told** me she was busy. / She **said** she was busy.* | U18 |
+| *He said he is tired yesterday.* | *He said he **was** tired.* | U18 |
+| *She asked me where did I live.* | *She asked me where I **lived**.* | U19 |
+| *They told me that I go home.* | *They told me **to go** home.* | U19 |
+
+---
+
 ## Tip del profesor
 
 Clasifica primero (¿pasiva simple / pasiva con modal / afirmación reportada / pregunta u orden reportada?) y después conjugas. El error suele ser de *tipo de estructura*, no de vocabulario: una vez identificas correctamente el bloque, la conjugación casi sale sola. Si te bloqueas a mitad de una frase, vuelve mentalmente a la tabla maestra de la sección 1.1 y localiza la fila correspondiente antes de seguir hablando — con la práctica, este proceso se vuelve instantáneo y dejarás de notarlo conscientemente.
