@@ -51,7 +51,7 @@ excerpt: >-
 
 Este cuaderno reúne los **ejercicios de la Unidad 29 del curso B2** (*Adjective + Noun Collocations + Psychology & Mind*). Practicarás reconocimiento, transformación y producción sin depender de consignas ambiguas. Cada actividad indica qué debes escribir, qué opciones puedes usar o qué información debes localizar.
 
-> **Guía teórica:** [Adjective + Noun Collocations & Psychology B2](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology)  
+> **Guía teórica:** [Adjective + Noun Collocations & Psychology B2](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology)<br>
 > **Practica en el curso:** [Unidad 29 — Adjective + Noun Collocations & Psychology](/curso-b2/unit-29)
 
 Trabaja en este orden: responde sin mirar, abre la solución, identifica la causa de cada error y repite la frase correcta en voz alta. En writing y speaking, compara primero la estructura obligatoria y después el contenido. Un modelo no es una «respuesta abierta»: muestra con precisión cómo cumplir la consigna.
@@ -83,15 +83,15 @@ No respondas por parecido visual. Lee la situación, identifica el significado y
 
 Elige el adjetivo que forma la colocación objetivo con el sustantivo.
 
-1. She felt ___ anxiety before the talk.  
+1. She felt ___ anxiety before the talk.
    Opciones: *strong · heavy · high*
-2. Guilt became a ___ burden.  
+2. Guilt became a ___ burden.
    Opciones: *heavy · strong · full*
-3. The team worked under ___ pressure.  
+3. The team worked under ___ pressure.
    Opciones: *heavy · great · deep*
-4. He has a ___ belief in gradual recovery.  
+4. He has a ___ belief in gradual recovery.
    Opciones: *strong · high · lively*
-5. With support, they made ___ progress.  
+5. With support, they made ___ progress.
    Opciones: *great · strong · full*
 
 <details>
@@ -109,15 +109,15 @@ Elige el adjetivo que forma la colocación objetivo con el sustantivo.
 
 Completa con una opción de la lista, una vez cada una: *lively · stunning · high · full · deep*.
 
-6. The class had a ___ discussion about mental health.  
+6. The class had a ___ discussion about mental health.
    Opciones: *lively*
-7. The pilot programme reported ___ results.  
+7. The pilot programme reported ___ results.
    Opciones: *stunning*
-8. There is ___ demand for counselling services.  
+8. There is ___ demand for counselling services.
    Opciones: *high*
-9. Her family gave her their ___ support.  
+9. Her family gave her their ___ support.
    Opciones: *full*
-10. The experience had a ___ impact on his mindset.  
+10. The experience had a ___ impact on his mindset.
    Opciones: *deep*
 
 <details>
@@ -164,15 +164,15 @@ Aprende cada palabra dentro de una situación. Las opciones incorrectas pertenec
 
 Cada palabra tiene tres significados. Elige solo uno.
 
-1. anxiety  
+1. anxiety
    Opciones: *ansiedad · alivio · memoria*
-2. burden  
+2. burden
    Opciones: *carga · apoyo · demanda*
-3. belief  
+3. belief
    Opciones: *convicción / creencia · resultado · recuperación*
-4. mindset  
+4. mindset
    Opciones: *mentalidad · presión · influencia*
-5. resilience  
+5. resilience
    Opciones: *resiliencia · controversia · terapia*
 
 <details>
@@ -186,15 +186,15 @@ Cada palabra tiene tres significados. Elige solo uno.
 
 Completa la definición o situación con una de las tres opciones.
 
-6. Professional support may include ___.  
+6. Professional support may include ___.
    Opciones: *therapy · pressure · burden*
-7. The gradual process of improving is ___.  
+7. The gradual process of improving is ___.
    Opciones: *recovery · demand · controversy*
-8. Emotional and psychological wellbeing is ___.  
+8. Emotional and psychological wellbeing is ___.
    Opciones: *mental health · high demand · strong belief*
-9. Help given by family or friends is ___.  
+9. Help given by family or friends is ___.
    Opciones: *support · pressure · anxiety*
-10. An effect on another person is an ___.  
+10. An effect on another person is an ___.
    Opciones: *influence · relief · memory*
 
 <details>
@@ -444,8 +444,8 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 ## Cómo seguir
 
-1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology).  
-2. Practica las destrezas interactivas en la [Unidad 29 del curso B2](/curso-b2/unit-29).  
+1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology).
+2. Practica las destrezas interactivas en la [Unidad 29 del curso B2](/curso-b2/unit-29).
 3. Continúa con [Unidad 30 — Repaso 26–29](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones).
 
 Guías relacionadas:

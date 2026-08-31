@@ -816,7 +816,7 @@ def render_grammar(unit: int) -> str:
         questions = []
         answers = []
         for number, (prompt, options, answer, explanation) in enumerate(items, start):
-            option_line = "" if options == "—" else f"  \n   Opciones: *{options}*"
+            option_line = "" if options == "—" else f"\n   Opciones: *{options}*"
             questions.append(f"{number}. {prompt}{option_line}")
             answers.append(f"{number}. **{answer}** — {explanation}")
         end = start + len(items) - 1
@@ -864,7 +864,7 @@ def render_vocab(unit: int) -> str:
         for number, entry in enumerate(items, start):
             if len(entry) == 3:
                 prompt, options, answer = entry
-                option_line = f"  \n   Opciones: *{options}*"
+                option_line = f"\n   Opciones: *{options}*"
             else:
                 prompt, answer = entry
                 option_line = ""
@@ -1036,7 +1036,7 @@ excerpt: >-
 
 Este cuaderno reúne los **ejercicios de la Unidad {unit} del curso B2** (*{meta["full"]}*). Practicarás reconocimiento, transformación y producción sin depender de consignas ambiguas. Cada actividad indica qué debes escribir, qué opciones puedes usar o qué información debes localizar.
 
-> **Guía teórica:** [{meta["title"]} B2](/blog/curso-b2/{meta["slug"]})  
+> **Guía teórica:** [{meta["title"]} B2](/blog/curso-b2/{meta["slug"]})<br>
 > **Practica en el curso:** [Unidad {unit} — {meta["title"]}](/curso-b2/unit-{unit})
 
 Trabaja en este orden: responde sin mirar, abre la solución, identifica la causa de cada error y repite la frase correcta en voz alta. En writing y speaking, compara primero la estructura obligatoria y después el contenido. Un modelo no es una «respuesta abierta»: muestra con precisión cómo cumplir la consigna.
@@ -1078,8 +1078,8 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 ## Cómo seguir
 
-1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/{meta["slug"]}).  
-2. Practica las destrezas interactivas en la [Unidad {unit} del curso B2](/curso-b2/unit-{unit}).  
+1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/{meta["slug"]}).
+2. Practica las destrezas interactivas en la [Unidad {unit} del curso B2](/curso-b2/unit-{unit}).
 {next_step}
 
 Guías relacionadas:

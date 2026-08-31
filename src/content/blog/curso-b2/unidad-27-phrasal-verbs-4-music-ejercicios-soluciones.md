@@ -51,7 +51,7 @@ excerpt: >-
 
 Este cuaderno reúne los **ejercicios de la Unidad 27 del curso B2** (*LOOK / MAKE / PUT Phrasal Verbs + Music & Entertainment*). Practicarás reconocimiento, transformación y producción sin depender de consignas ambiguas. Cada actividad indica qué debes escribir, qué opciones puedes usar o qué información debes localizar.
 
-> **Guía teórica:** [Phrasal Verbs 4 & Music B2](/blog/curso-b2/unidad-27-phrasal-verbs-4-music)  
+> **Guía teórica:** [Phrasal Verbs 4 & Music B2](/blog/curso-b2/unidad-27-phrasal-verbs-4-music)<br>
 > **Practica en el curso:** [Unidad 27 — Phrasal Verbs 4 & Music](/curso-b2/unit-27)
 
 Trabaja en este orden: responde sin mirar, abre la solución, identifica la causa de cada error y repite la frase correcta en voz alta. En writing y speaking, compara primero la estructura obligatoria y después el contenido. Un modelo no es una «respuesta abierta»: muestra con precisión cómo cumplir la consigna.
@@ -83,15 +83,15 @@ No respondas por parecido visual. Lee la situación, identifica el significado y
 
 Completa con la opción que corresponde a investigar, esperar con ilusión, cuidar o buscar.
 
-1. The promoter will ___ the duplicate booking. (investigar)  
+1. The promoter will ___ the duplicate booking. (investigar)
    Opciones: *look into · look for · look after*
-2. We're looking forward to ___ the band. (oír)  
+2. We're looking forward to ___ the band. (oír)
    Opciones: *hearing · hear · heard*
-3. Can you ___ the instruments backstage? (cuidar)  
+3. Can you ___ the instruments backstage? (cuidar)
    Opciones: *look after · look for · look into*
-4. I'm ___ my ticket. (buscando)  
+4. I'm ___ my ticket. (buscando)
    Opciones: *looking for · looking into · looking after*
-5. She ___ a story about missing rehearsal. (inventó)  
+5. She ___ a story about missing rehearsal. (inventó)
    Opciones: *made up · made out · made for*
 
 <details>
@@ -109,15 +109,15 @@ Completa con la opción que corresponde a investigar, esperar con ilusión, cuid
 
 Usa: *make up for · make out · make for · make up one's mind · make up*. Ajusta tiempo y posesivo.
 
-6. An extra song ___ the delay. (compensó)  
+6. An extra song ___ the delay. (compensó)
    Opciones: *make up for*
-7. I couldn't ___ the announcement. (distinguir)  
+7. I couldn't ___ the announcement. (distinguir)
    Opciones: *make out*
-8. The audience ___ the exits after the encore. (se dirigió)  
+8. The audience ___ the exits after the encore. (se dirigió)
    Opciones: *make for*
-9. We ___ to buy the last tickets. (nos decidimos)  
+9. We ___ to buy the last tickets. (nos decidimos)
    Opciones: *make up one's mind*
-10. The singer ___ an excuse for being late. (inventó)  
+10. The singer ___ an excuse for being late. (inventó)
    Opciones: *make up*
 
 <details>
@@ -164,15 +164,15 @@ Aprende cada palabra dentro de una situación. Las opciones incorrectas pertenec
 
 Cada palabra tiene tres significados. Elige solo uno.
 
-1. venue  
+1. venue
    Opciones: *recinto · ensayo · gira*
-2. gig  
+2. gig
    Opciones: *actuación en directo · taquilla · público*
-3. box office  
+3. box office
    Opciones: *taquilla · camerino · álbum*
-4. rehearsal  
+4. rehearsal
    Opciones: *ensayo · entrada · promotor*
-5. backstage  
+5. backstage
    Opciones: *entre bastidores · agotado · escenario principal*
 
 <details>
@@ -186,15 +186,15 @@ Cada palabra tiene tres significados. Elige solo uno.
 
 Completa la definición o situación con una de las tres opciones.
 
-6. All tickets have been sold: the gig is ___.  
+6. All tickets have been sold: the gig is ___.
    Opciones: *sold out · put off · made up*
-7. A series of concerts in different cities is a ___.  
+7. A series of concerts in different cities is a ___.
    Opciones: *tour · venue · ticket*
-8. The people watching a performance are the ___.  
+8. The people watching a performance are the ___.
    Opciones: *audience · band · promoter*
-9. A collection of released songs is an ___.  
+9. A collection of released songs is an ___.
    Opciones: *album · festival · rehearsal*
-10. The person or company organising the show is the ___.  
+10. The person or company organising the show is the ___.
    Opciones: *promoter · audience · venue*
 
 <details>
@@ -444,8 +444,8 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 ## Cómo seguir
 
-1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-27-phrasal-verbs-4-music).  
-2. Practica las destrezas interactivas en la [Unidad 27 del curso B2](/curso-b2/unit-27).  
+1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-27-phrasal-verbs-4-music).
+2. Practica las destrezas interactivas en la [Unidad 27 del curso B2](/curso-b2/unit-27).
 3. Continúa con [Unidad 28 — Verb + Noun Collocations + Food](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones).
 
 Guías relacionadas:

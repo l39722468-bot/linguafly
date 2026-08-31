@@ -51,7 +51,7 @@ excerpt: >-
 
 Este cuaderno reúne los **ejercicios de la Unidad 30 del curso B2** (*Repaso B2: Phrasal Verbs & Collocations de las Unidades 26–29*). Practicarás reconocimiento, transformación y producción sin depender de consignas ambiguas. Cada actividad indica qué debes escribir, qué opciones puedes usar o qué información debes localizar.
 
-> **Guía teórica:** [Repaso 26–29 B2](/blog/curso-b2/unidad-30-repaso-26-29)  
+> **Guía teórica:** [Repaso 26–29 B2](/blog/curso-b2/unidad-30-repaso-26-29)<br>
 > **Practica en el curso:** [Unidad 30 — Repaso 26–29](/curso-b2/unit-30)
 
 Trabaja en este orden: responde sin mirar, abre la solución, identifica la causa de cada error y repite la frase correcta en voz alta. En writing y speaking, compara primero la estructura obligatoria y después el contenido. Un modelo no es una «respuesta abierta»: muestra con precisión cómo cumplir la consigna.
@@ -83,15 +83,15 @@ No respondas por parecido visual. Lee la situación, identifica el significado y
 
 Elige la opción que completa el significado. Comprueba también las partículas posteriores.
 
-1. We finally ___ the difficult planning stage.  
+1. We finally ___ the difficult planning stage.
    Opciones: *got through · got over · went off*
-2. Don't ___ the project or ___ to pressure.  
+2. Don't ___ the project or ___ to pressure.
    Opciones: *give up / give in · give away / go on*
-3. The promoter will ___ the booking problem.  
+3. The promoter will ___ the booking problem.
    Opciones: *look into · look for · look after*
-4. An extra song ___ the delay.  
+4. An extra song ___ the delay.
    Opciones: *made up for · made out · made for*
-5. The audience ___ the long wait.  
+5. The audience ___ the long wait.
    Opciones: *put up with · put up at · put off*
 
 <details>
@@ -109,15 +109,15 @@ Elige la opción que completa el significado. Comprueba también las partículas
 
 Completa con la forma correcta de *make, take* o *have*. No traduzcas el verbo español palabra por palabra.
 
-6. During yesterday's festival, the chef ___ a decision about the menu.  
+6. During yesterday's festival, the chef ___ a decision about the menu.
    Opciones: *made · took · had*
-7. After the delay, she ___ responsibility for the problem.  
+7. After the delay, she ___ responsibility for the problem.
    Opciones: *made · took · had*
-8. Before service, we ___ a look at the ingredients.  
+8. Before service, we ___ a look at the ingredients.
    Opciones: *made · took · had*
-9. By opening time, the team ___ great progress.  
+9. By opening time, the team ___ great progress.
    Opciones: *made · took · had*
-10. Please ___ a note of the new deadline.  
+10. Please ___ a note of the new deadline.
    Opciones: *make · take · have*
 
 <details>
@@ -164,15 +164,15 @@ Aprende cada palabra dentro de una situación. Las opciones incorrectas pertenec
 
 Cada palabra tiene tres significados. Elige solo uno.
 
-1. carbon footprint  
+1. carbon footprint
    Opciones: *U26 sostenibilidad · U27 música · U29 psicología*
-2. box office  
+2. box office
    Opciones: *U27 música · U28 gastronomía · U26 sostenibilidad*
-3. supplier  
+3. supplier
    Opciones: *U28 gastronomía · U29 psicología · U27 música*
-4. resilience  
+4. resilience
    Opciones: *U29 psicología · U28 gastronomía · U26 reciclaje*
-5. single-use plastic  
+5. single-use plastic
    Opciones: *U26 sostenibilidad · U27 música · U28 cocina*
 
 <details>
@@ -186,15 +186,15 @@ Cada palabra tiene tres significados. Elige solo uno.
 
 Completa la definición o situación con una de las tres opciones.
 
-6. A place for a concert is a ___.  
+6. A place for a concert is a ___.
    Opciones: *venue · landfill · mindset*
-7. Instructions for preparing food form a ___.  
+7. Instructions for preparing food form a ___.
    Opciones: *recipe · rehearsal · belief*
-8. A difficult emotional or practical load is a ___.  
+8. A difficult emotional or practical load is a ___.
    Opciones: *burden · audience · course*
-9. Organic food waste can become ___.  
+9. Organic food waste can become ___.
    Opciones: *compost · cuisine · therapy*
-10. The people watching the band are the ___.  
+10. The people watching the band are the ___.
    Opciones: *audience · ingredients · support*
 
 <details>
@@ -444,8 +444,8 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 ## Cómo seguir
 
-1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-30-repaso-26-29).  
-2. Practica las destrezas interactivas en la [Unidad 30 del curso B2](/curso-b2/unit-30).  
+1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-30-repaso-26-29).
+2. Practica las destrezas interactivas en la [Unidad 30 del curso B2](/curso-b2/unit-30).
 3. Has completado el **Módulo 3 (U21–30)**. Continúa en la [Unidad 31 del curso](/curso-b2/unit-31) cuando quieras avanzar.
 
 Guías relacionadas:

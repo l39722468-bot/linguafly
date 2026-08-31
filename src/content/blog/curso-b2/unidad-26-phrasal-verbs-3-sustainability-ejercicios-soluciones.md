@@ -51,7 +51,7 @@ excerpt: >-
 
 Este cuaderno reúne los **ejercicios de la Unidad 26 del curso B2** (*GET / GIVE / GO Phrasal Verbs + Sustainability & Eco-living*). Practicarás reconocimiento, transformación y producción sin depender de consignas ambiguas. Cada actividad indica qué debes escribir, qué opciones puedes usar o qué información debes localizar.
 
-> **Guía teórica:** [Phrasal Verbs 3 & Sustainability B2](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability)  
+> **Guía teórica:** [Phrasal Verbs 3 & Sustainability B2](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability)<br>
 > **Practica en el curso:** [Unidad 26 — Phrasal Verbs 3 & Sustainability](/curso-b2/unit-26)
 
 Trabaja en este orden: responde sin mirar, abre la solución, identifica la causa de cada error y repite la frase correcta en voz alta. En writing y speaking, compara primero la estructura obligatoria y después el contenido. Un modelo no es una «respuesta abierta»: muestra con precisión cómo cumplir la consigna.
@@ -83,15 +83,15 @@ No respondas por parecido visual. Lee la situación, identifica el significado y
 
 Completa cada frase con una opción. La pista en español indica el sentido exacto.
 
-1. She finally ___ her fear of composting. (superó)  
+1. She finally ___ her fear of composting. (superó)
    Opciones: *got over · got along · went on*
-2. Our volunteers ___ each other very well. (se llevan bien)  
+2. Our volunteers ___ each other very well. (se llevan bien)
    Opciones: *get along with · get through · give away*
-3. We ___ a difficult zero-waste transition. (logramos terminar)  
+3. We ___ a difficult zero-waste transition. (logramos terminar)
    Opciones: *got through · went off · gave in*
-4. Don't ___ the recycling project. (abandones)  
+4. Don't ___ the recycling project. (abandones)
    Opciones: *give up · give in · go through*
-5. The council refused to ___ pressure. (ceder ante)  
+5. The council refused to ___ pressure. (ceder ante)
    Opciones: *give in to · give away · get over*
 
 <details>
@@ -109,15 +109,15 @@ Completa cada frase con una opción. La pista en español indica el sentido exac
 
 Usa cada opción una vez y cambia el verbo a pasado cuando sea necesario: *give away · go through · go on · go off (alarm) · go off (event)*.
 
-6. Residents ___ reusable jars they no longer needed.  
+6. Residents ___ reusable jars they no longer needed.
    Opciones: *give away*
-7. Before opening, we ___ every safety rule.  
+7. Before opening, we ___ every safety rule.
    Opciones: *go through*
-8. The workshop ___ after the short interruption.  
+8. The workshop ___ after the short interruption.
    Opciones: *go on*
-9. The fire alarm ___ at eleven.  
+9. The fire alarm ___ at eleven.
    Opciones: *go off*
-10. Despite the rain, the fair ___ smoothly.  
+10. Despite the rain, the fair ___ smoothly.
    Opciones: *go off*
 
 <details>
@@ -164,15 +164,15 @@ Aprende cada palabra dentro de una situación. Las opciones incorrectas pertenec
 
 Cada palabra tiene tres significados. Elige solo uno.
 
-1. zero waste  
+1. zero waste
    Opciones: *cero residuos · energía solar · vertedero*
-2. renewable energy  
+2. renewable energy
    Opciones: *energía renovable · huella de carbono · abono*
-3. carbon footprint  
+3. carbon footprint
    Opciones: *huella de carbono · plástico reciclado · consumo local*
-4. compost  
+4. compost
    Opciones: *compost / abono orgánico · residuo tóxico · envase*
-5. landfill  
+5. landfill
    Opciones: *vertedero · huerto · central eólica*
 
 <details>
@@ -186,15 +186,15 @@ Cada palabra tiene tres significados. Elige solo uno.
 
 Completa la definición o situación con una de las tres opciones.
 
-6. This bottle can be used again: ___ it.  
+6. This bottle can be used again: ___ it.
    Opciones: *reuse · recycle · reduce*
-7. Turn old paper into new material: ___ it.  
+7. Turn old paper into new material: ___ it.
    Opciones: *recycle · reuse · compost*
-8. Buy fewer packaged products: ___ waste.  
+8. Buy fewer packaged products: ___ waste.
    Opciones: *reduce · renew · give away*
-9. A product designed for one use is ___ plastic.  
+9. A product designed for one use is ___ plastic.
    Opciones: *single-use · renewable · zero-waste*
-10. A choice that causes less environmental harm is ___.  
+10. A choice that causes less environmental harm is ___.
    Opciones: *eco-friendly · sold out · lively*
 
 <details>
@@ -444,8 +444,8 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 ## Cómo seguir
 
-1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability).  
-2. Practica las destrezas interactivas en la [Unidad 26 del curso B2](/curso-b2/unit-26).  
+1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability).
+2. Practica las destrezas interactivas en la [Unidad 26 del curso B2](/curso-b2/unit-26).
 3. Continúa con [Unidad 27 — LOOK, MAKE, PUT + Music](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones).
 
 Guías relacionadas:

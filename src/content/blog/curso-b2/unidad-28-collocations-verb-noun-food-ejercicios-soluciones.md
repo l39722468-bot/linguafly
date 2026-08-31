@@ -51,7 +51,7 @@ excerpt: >-
 
 Este cuaderno reúne los **ejercicios de la Unidad 28 del curso B2** (*MAKE / TAKE / HAVE + Noun Collocations + Food & Gastronomy*). Practicarás reconocimiento, transformación y producción sin depender de consignas ambiguas. Cada actividad indica qué debes escribir, qué opciones puedes usar o qué información debes localizar.
 
-> **Guía teórica:** [Verb + Noun Collocations & Food B2](/blog/curso-b2/unidad-28-collocations-verb-noun-food)  
+> **Guía teórica:** [Verb + Noun Collocations & Food B2](/blog/curso-b2/unidad-28-collocations-verb-noun-food)<br>
 > **Practica en el curso:** [Unidad 28 — Verb + Noun Collocations & Food](/curso-b2/unit-28)
 
 Trabaja en este orden: responde sin mirar, abre la solución, identifica la causa de cada error y repite la frase correcta en voz alta. En writing y speaking, compara primero la estructura obligatoria y después el contenido. Un modelo no es una «respuesta abierta»: muestra con precisión cómo cumplir la consigna.
@@ -83,15 +83,15 @@ No respondas por parecido visual. Lee la situación, identifica el significado y
 
 Selecciona *make, take, have* o *do*. Cambia el verbo a pasado si la frase lo exige.
 
-1. Yesterday the chef ___ a decision about the menu.  
+1. Yesterday the chef ___ a decision about the menu.
    Opciones: *made · took · had*
-2. I ___ a mistake with the salt.  
+2. I ___ a mistake with the salt.
    Opciones: *made · did · took*
-3. The team is ___ steady progress.  
+3. The team is ___ steady progress.
    Opciones: *making · taking · doing*
-4. We ___ an effort to buy local ingredients.  
+4. We ___ an effort to buy local ingredients.
    Opciones: *made · took · had*
-5. Lina ___ a useful suggestion at the meeting.  
+5. Lina ___ a useful suggestion at the meeting.
    Opciones: *made · did · had*
 
 <details>
@@ -109,15 +109,15 @@ Selecciona *make, take, have* o *do*. Cambia el verbo a pasado si la frase lo ex
 
 Usa la forma correcta de *take*. La pista aclara el significado.
 
-6. Let's ___ after preparing the starter. (hacer una pausa)  
+6. Let's ___ after preparing the starter. (hacer una pausa)
    Opciones: *take a break*
-7. She ___ of the finished dish. (hizo una foto)  
+7. She ___ of the finished dish. (hizo una foto)
    Opciones: *take a photo*
-8. The chef ___ for the mistake. (asumió responsabilidad)  
+8. The chef ___ for the mistake. (asumió responsabilidad)
    Opciones: *take responsibility*
-9. We ___ on a new regional recipe. (nos arriesgamos)  
+9. We ___ on a new regional recipe. (nos arriesgamos)
    Opciones: *take a chance*
-10. Please ___ of the cooking time. (toma nota)  
+10. Please ___ of the cooking time. (toma nota)
    Opciones: *take a note*
 
 <details>
@@ -164,15 +164,15 @@ Aprende cada palabra dentro de una situación. Las opciones incorrectas pertenec
 
 Cada palabra tiene tres significados. Elige solo uno.
 
-1. recipe  
+1. recipe
    Opciones: *receta / instrucciones · carta · comida completa*
-2. ingredients  
+2. ingredients
    Opciones: *ingredientes · proveedores · sabores*
-3. cuisine  
+3. cuisine
    Opciones: *estilo culinario · cocina física · utensilio*
-4. dish  
+4. dish
    Opciones: *plato preparado · fecha límite · descanso*
-5. menu  
+5. menu
    Opciones: *lista de platos · receta paso a paso · cocinero*
 
 <details>
@@ -186,15 +186,15 @@ Cada palabra tiene tres significados. Elige solo uno.
 
 Completa la definición o situación con una de las tres opciones.
 
-6. A professional who designs and cooks dishes is a ___.  
+6. A professional who designs and cooks dishes is a ___.
    Opciones: *chef · course · supplier*
-7. A company that delivers ingredients is a ___.  
+7. A company that delivers ingredients is a ___.
    Opciones: *supplier · flavour · meal*
-8. Food available at one time of year is ___.  
+8. Food available at one time of year is ___.
    Opciones: *seasonal · sold out · renewable*
-9. Breakfast, lunch or dinner can be a ___.  
+9. Breakfast, lunch or dinner can be a ___.
    Opciones: *meal · recipe · cuisine*
-10. Starter, main and dessert are three ___.  
+10. Starter, main and dessert are three ___.
    Opciones: *courses · deadlines · meetings*
 
 <details>
@@ -444,8 +444,8 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 ## Cómo seguir
 
-1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-28-collocations-verb-noun-food).  
-2. Practica las destrezas interactivas en la [Unidad 28 del curso B2](/curso-b2/unit-28).  
+1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-28-collocations-verb-noun-food).
+2. Practica las destrezas interactivas en la [Unidad 28 del curso B2](/curso-b2/unit-28).
 3. Continúa con [Unidad 29 — Adjective + Noun Collocations + Psychology](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones).
 
 Guías relacionadas:
