@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-47-would-rather-preferenc
 image: /blog/curso-b1/unit-47/would-rather-sooner.png
 alt: 'Would rather B1'
 related_routes:
+  - unidad-47-would-rather-preferences-ejercicios-soluciones
   - unidad-46-had-better-its-time-advice
   - unidad-48-phrasal-verbs-work-study
   - cursos-online-ingles-b1
@@ -141,6 +142,7 @@ No confundas *would rather* (sin to) con *would prefer to* (con to).
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 47 del curso B1](/curso-b1/unit-47).
+3. Haz el [cuaderno de ejercicios U47 (con soluciones)](/blog/curso-b1/unidad-47-would-rather-preferences-ejercicios-soluciones).
 
 Curso:
 

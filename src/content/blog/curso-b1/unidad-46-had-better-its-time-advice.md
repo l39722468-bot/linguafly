@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-46-had-better-its-time-ad
 image: /blog/curso-b1/unit-46/had-better-its-time.png
 alt: 'Had better it's time B1'
 related_routes:
+  - unidad-46-had-better-its-time-advice-ejercicios-soluciones
   - unidad-45-repaso-41-44
   - unidad-47-would-rather-preferences
   - cursos-online-ingles-b1
@@ -146,6 +147,7 @@ Tras el [Repaso 41–44](/blog/curso-b1/unidad-45-repaso-41-44), la **Unidad 46*
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 46 del curso B1](/curso-b1/unit-46).
+3. Haz el [cuaderno de ejercicios U46 (con soluciones)](/blog/curso-b1/unidad-46-had-better-its-time-advice-ejercicios-soluciones).
 
 Curso:
 

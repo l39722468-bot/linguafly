@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-48-phrasal-verbs-work-stu
 image: /blog/curso-b1/unit-48/phrasal-verbs-3.png
 alt: 'Phrasal verbs 3 B1'
 related_routes:
+  - unidad-48-phrasal-verbs-work-study-ejercicios-soluciones
   - unidad-47-would-rather-preferences
   - unidad-49-need-neednt-necessity
   - cursos-online-ingles-b1
@@ -143,6 +144,7 @@ Aprende el bloque completo: *look **forward to***, no solo *look forward*.
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 48 del curso B1](/curso-b1/unit-48).
+3. Haz el [cuaderno de ejercicios U48 (con soluciones)](/blog/curso-b1/unidad-48-phrasal-verbs-work-study-ejercicios-soluciones).
 
 Curso:
 

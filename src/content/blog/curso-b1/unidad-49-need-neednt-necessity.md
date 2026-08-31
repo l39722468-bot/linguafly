@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-49-need-neednt-necessity'
 image: /blog/curso-b1/unit-49/need-neednt.png
 alt: 'Need needn't B1'
 related_routes:
+  - unidad-49-need-neednt-necessity-ejercicios-soluciones
   - unidad-48-phrasal-verbs-work-study
   - unidad-50-repaso-46-49
   - cursos-online-ingles-b1
@@ -143,6 +144,7 @@ Tras la [Unidad 48](/blog/curso-b1/unidad-48-phrasal-verbs-work-study), la **Uni
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 49 del curso B1](/curso-b1/unit-49).
+3. Haz el [cuaderno de ejercicios U49 (con soluciones)](/blog/curso-b1/unidad-49-need-neednt-necessity-ejercicios-soluciones).
 
 Curso:
 

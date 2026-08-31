@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-50-repaso-46-49'
 image: /blog/curso-b1/unit-50/review-map.png
 alt: 'Repaso B1 unidades 46-49'
 related_routes:
+  - unidad-50-repaso-46-49-ejercicios-soluciones
   - unidad-49-need-neednt-necessity
   - unidad-45-repaso-41-44
   - cursos-online-ingles-b1
@@ -135,6 +136,7 @@ Clasifica primero: ¿consejo (had better), preferencia (would rather), phrasal v
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 50 del curso B1](/curso-b1/unit-50).
+3. Haz el [cuaderno de ejercicios U50 (con soluciones)](/blog/curso-b1/unidad-50-repaso-46-49-ejercicios-soluciones).
 
 Curso:
 

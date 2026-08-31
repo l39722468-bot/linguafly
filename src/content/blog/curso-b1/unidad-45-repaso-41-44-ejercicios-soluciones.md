@@ -330,7 +330,7 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b1/unidad-45-repaso-41-44).  
 2. Practica en la [Unidad 45 del curso B1](/curso-b1/unit-45).  
-3. Siguiente bloque del curso: [Unidad 46](/curso-b1/unit-46).
+3. Siguiente: [Had Better & It's Time](/blog/curso-b1/unidad-46-had-better-its-time-advice-ejercicios-soluciones).
 
 Guías relacionadas:
 
