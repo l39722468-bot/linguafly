@@ -1,6 +1,7 @@
 ---
 title: 'Inglés para Mercados y Regateo en el Extranjero'
 date: '2026-04-17'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Vocabulario y frases en inglés para mercados callejeros, bazares y regateo. Aprende a negociar precios, preguntar por productos y comprar souvenirs con confianza.
@@ -10,8 +11,11 @@ category: viajes
 readTime: 9 min
 alt: Viajero regateando en un mercado callejero colorido en el extranjero
 keywords:
-  - 'Inglés para Mercados y Regateo en el Extranjero'
-  - 'ingles para mercados'
+  - Inglés para Mercados y Regateo en el Extranjero
+  - ingles para mercados
+  - inglés para viajar gratis
+  - curso de inglés gratis
+  - frases en inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-mercados-regateo-viaje'
 faqs:
   - question: ¿Cómo pregunto el precio de algo en un mercado?

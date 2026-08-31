@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-02-07'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Inglés A1: Guía para Empezar desde Cero'
 description: >-
@@ -11,7 +11,10 @@ description: >-
 readTime: 3 min
 keywords:
   - 'Inglés A1: Guía para Empezar desde Cero'
-  - 'aprender inglés desde cero'
+  - aprender inglés desde cero
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 canonical: 'https://linguafly.app/blog/metodos/ingles-a1'
 related_routes:
   - ingles-a2

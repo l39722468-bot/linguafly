@@ -10,11 +10,14 @@ excerpt: >-
   cualificación, sino por errores evitables en la entrevista. Aquí tienes
   los más frecuentes y cómo no caer en ellos.
 keywords:
-  - 'errores más comunes entrevista trabajo inglés'
-  - 'qué no hacer en una entrevista de trabajo en inglés'
+  - errores más comunes entrevista trabajo inglés
+  - qué no hacer en una entrevista de trabajo en inglés
+  - clases de inglés gratis
+  - aprender inglés gratis
+  - inglés de negocios gratis
 author: focus-english-team
 date: '2026-02-20'
-updatedDate: '2026-03-12'
+updatedDate: '2026-08-31'
 alt: Candidato preocupado revisando errores comunes en entrevistas de trabajo en inglés
 category: trabajo
 faqs:

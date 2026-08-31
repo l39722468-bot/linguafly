@@ -10,11 +10,14 @@ excerpt: >-
   en una entrevista en inglés. La técnica STAR te da una estructura clara para
   responderlas con confianza y sin improvisar.
 keywords:
-  - 'técnica STAR entrevista inglés ejemplos frases'
-  - 'STAR method entrevista trabajo inglés preguntas comportamiento'
+  - técnica STAR entrevista inglés ejemplos frases
+  - STAR method entrevista trabajo inglés preguntas comportamiento
+  - aprender inglés gratis
+  - inglés de negocios gratis
+  - curso de inglés gratis
 author: focus-english-team
 date: '2026-02-05'
-updatedDate: '2026-03-12'
+updatedDate: '2026-08-31'
 alt: Candidato respondiendo preguntas de comportamiento en entrevista de trabajo en inglés
 category: trabajo
 faqs:

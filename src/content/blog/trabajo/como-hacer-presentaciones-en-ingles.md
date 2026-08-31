@@ -1,7 +1,7 @@
 ---
 title: 'Cómo Hacer Presentaciones en Inglés'
 date: '2026-02-28'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Aprende a estructurar y ejecutar presentaciones en inglés con confianza.
@@ -13,8 +13,11 @@ canonical: >-
   https://linguafly.app/blog/trabajo/como-hacer-presentaciones-en-ingles
 readTime: 5 min
 keywords:
-  - 'Cómo Hacer Presentaciones en Inglés'
-  - 'presentaciones en ingles'
+  - Cómo Hacer Presentaciones en Inglés
+  - presentaciones en ingles
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 faqs:
   - question: ¿Cómo empiezo una presentación en inglés si estoy muy nervioso?
     answer: >-

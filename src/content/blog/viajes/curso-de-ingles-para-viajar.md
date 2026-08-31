@@ -1,7 +1,7 @@
 ---
 title: 'Curso de Inglés para Viajar'
 date: '2026-01-30'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Aprende el inglés esencial para viajar: frases para aeropuertos, hoteles, transporte y situaciones cotidianas. El curso práctico que necesitas antes de tu próximo viaje al extranjero.
@@ -15,8 +15,11 @@ alt: >-
   Persona sentada en una roca mirando un mapa con el mar de fondo durante un
   viaje
 keywords:
-  - 'Curso de Inglés para Viajar'
-  - 'mejor curso de ingles para viajar'
+  - Curso de Inglés para Viajar
+  - mejor curso de ingles para viajar
+  - inglés para viajar gratis
+  - curso de inglés gratis
+  - frases en inglés gratis
 faqs:
   - question: ¿Qué nivel de inglés necesito para viajar?
     answer: >-

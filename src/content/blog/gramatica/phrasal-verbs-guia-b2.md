@@ -10,10 +10,13 @@ excerpt: >-
   lista completa.
 keywords:
   - 'Phrasal Verbs B2: Lista Definitiva'
-  - 'lista phrasal verbs'
+  - lista phrasal verbs
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: 'Lista definitiva de phrasal verbs B2 para el First Certificate FCE'
 category: gramatica
 canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-guia-b2'

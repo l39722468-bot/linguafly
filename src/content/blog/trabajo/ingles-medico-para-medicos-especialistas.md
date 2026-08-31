@@ -1,7 +1,7 @@
 ---
 title: 'Inglés Médico para Médicos'
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Guía avanzada de inglés médico para médicos y especialistas. Redacción de
@@ -13,8 +13,11 @@ canonical: >-
   https://linguafly.app/blog/trabajo/ingles-medico-para-medicos-especialistas
 readTime: 5 min
 keywords:
-  - 'Inglés Médico para Médicos'
-  - 'ingles para medicos'
+  - Inglés Médico para Médicos
+  - ingles para medicos
+  - clases de inglés gratis
+  - aprender inglés gratis
+  - inglés de negocios gratis
 faqs:
   - question: ¿Qué nivel de inglés necesita un médico para publicar en revistas científicas internacionales?
     answer: >-

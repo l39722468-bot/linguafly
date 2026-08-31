@@ -11,10 +11,13 @@ excerpt: >-
   Entenderlo requiere un mapa específico, y aquí lo tienes.
 keywords:
   - 'Inglés Escocés: Características'
-  - 'acento escocés pronunciación'
+  - acento escocés pronunciación
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 author: focus-english-team
 date: '2026-02-18'
-updatedDate: '2026-02-18'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿El Scots es un dialecto del inglés o una lengua diferente?'

@@ -10,10 +10,13 @@ excerpt: >-
   done' y más.
 keywords:
   - 'Voz Pasiva Avanzada: Estructuras'
-  - 'voz pasiva avanzada ingles'
+  - voz pasiva avanzada ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿La Pasiva Impersonal (Impersonal Passive)?'

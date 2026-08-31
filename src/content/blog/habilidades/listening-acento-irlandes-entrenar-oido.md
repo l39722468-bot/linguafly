@@ -8,11 +8,14 @@ excerpt: >-
   Entender el acento irlandés no es magia: es exposición ordenada, textos graduados y
   hábitos de escucha activa. Esta guía te propone un calendario de cuatro semanas con recursos reales y ejercicios que puedes hacer solo.
 keywords:
-  - 'Cómo Entrenar el Oído para el Acento'
-  - 'entrenar oido acento irlandes'
+  - Cómo Entrenar el Oído para el Acento
+  - entrenar oido acento irlandes
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-29'
-updatedDate: '2026-03-29'
+updatedDate: '2026-08-31'
 alt: Persona con auriculares escuchando contenido en inglés
 category: habilidades
 faqs:

@@ -11,10 +11,13 @@ excerpt: >-
   la percepción auditiva y corregir errores de pronunciación en inglés.
 keywords:
   - 'Pares Mínimos en Inglés: Ejercicio y Lista'
-  - 'pares minimos ingles'
+  - pares minimos ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-02-20'
-updatedDate: '2026-02-20'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿Para qué nivel de inglés son útiles los pares mínimos?'

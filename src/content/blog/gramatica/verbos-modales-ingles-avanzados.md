@@ -10,11 +10,14 @@ excerpt: >-
   inglés. Modales perfectos, semi-modales y cómo sonar como un hablante nativo en
   contextos C1/C2.
 keywords:
-  - 'Verbos Modales en Inglés Avanzados'
-  - 'verbos modales ingles avanzados'
+  - Verbos Modales en Inglés Avanzados
+  - verbos modales ingles avanzados
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-03-05'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿El Sistema de Certeza en Inglés?'

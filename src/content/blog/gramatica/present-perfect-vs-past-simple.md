@@ -10,10 +10,13 @@ excerpt: >-
   explicamos las reglas de nivel Cambridge, los marcadores temporales y ejemplos
   prácticos para dominarlos.
 keywords:
-  - 'Present Perfect vs Past Simple'
-  - 'difference between present perfect and past simple'
+  - Present Perfect vs Past Simple
+  - difference between present perfect and past simple
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: gramatica
 author: focus-english-team
 faqs:

@@ -1,7 +1,7 @@
 ---
 title: 'Job Interview English: Técnicas'
 date: '2026-02-25'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Lleva tus entrevistas en inglés al siguiente nivel con técnicas avanzadas de
@@ -14,7 +14,10 @@ canonical: >-
 readTime: 5 min
 keywords:
   - 'Job Interview English: Técnicas'
-  - 'job interview english'
+  - job interview english
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 faqs:
   - question: ¿Cuál es la diferencia entre una entrevista competencial y una técnica?
     answer: >-

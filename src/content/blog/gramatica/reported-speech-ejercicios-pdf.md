@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-07-30'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Reported Speech Ejercicios PDF'
 description: >-
@@ -9,10 +9,13 @@ description: >-
   Practica el estilo indirecto en el artículo y descarga el mismo contenido en PDF.
 readTime: 12 min
 keywords:
-  - 'Reported Speech Ejercicios PDF'
-  - 'ejercicios reported speech pdf'
-  - 'reporting verbs exercises pdf'
-  - 'reported speech c1 exercises pdf'
+  - Reported Speech Ejercicios PDF
+  - ejercicios reported speech pdf
+  - reporting verbs exercises pdf
+  - reported speech c1 exercises pdf
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 canonical: 'https://www.linguafly.app/blog/gramatica/reported-speech-ejercicios-pdf'
 alt: Ejercicios de reported speech en formato PDF
 downloadPdf: true

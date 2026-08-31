@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Doubt, debt, subtle y el misterio'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   y no se oyen, cómo aprenderlas sin confundirlas al escribir y cómo pronunciarlas.
 readTime: 22 min
 keywords:
-  - 'Doubt, debt, subtle y el misterio'
-  - 'doubt pronunciación'
+  - Doubt, debt, subtle y el misterio
+  - doubt pronunciación
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 alt: Libros apilados en librería
 excerpt: >-
   Guía didáctica sobre palabras con b histórica: trucos de memoria, errores al

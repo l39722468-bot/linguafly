@@ -1,7 +1,7 @@
 ---
 category: viajes
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Inglés para mochileros en naturaleza'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   equipo, rescate y convivencia en refugios o rutas multiculturales.
 readTime: 22 min
 keywords:
-  - 'Inglés para mochileros en naturaleza'
-  - 'inglés naturaleza'
+  - Inglés para mochileros en naturaleza
+  - inglés naturaleza
+  - curso de inglés gratis
+  - frases en inglés gratis
+  - aprender inglés gratis
 alt: Sendero de montaña con bosque
 excerpt: >-
   Guía práctica de inglés outdoor para mochileros: trail, weather, gear, señales

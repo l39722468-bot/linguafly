@@ -1,7 +1,7 @@
 ---
 title: 'Can y Could en Inglés: Todos los Usos'
 date: '2026-02-04'
-updatedDate: '2026-02-04'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Guía completa sobre can y could en inglés: habilidad, posibilidad, permiso y peticiones. Con ejemplos reales, errores frecuentes y cómo elegir entre los dos.
@@ -10,7 +10,10 @@ alt: Persona aprendiendo can y could en inglés con ejemplos
 readTime: 7 min
 keywords:
   - 'Can y Could en Inglés: Todos los Usos'
-  - 'can could ingles'
+  - can could ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   Can y could parecen fáciles al principio, pero tienen más matices de lo que parece. Más allá de "puedo" y "podía", estos dos modales se usan para posibilidad, permiso, peticiones y hasta deducciones negativas.
 faqs:

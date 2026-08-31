@@ -1,6 +1,7 @@
 ---
 title: 'Inglés para Playas y Deportes Acuáticos'
 date: '2026-04-17'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Vocabulario y frases en inglés para disfrutar de playas, piscinas y deportes acuáticos durante tus viajes. Desde alquilar una tabla de surf hasta entender señales de seguridad.
@@ -10,8 +11,11 @@ category: viajes
 readTime: 10 min
 alt: Grupo de viajeros practicando surf en una playa tropical
 keywords:
-  - 'Inglés para Playas y Deportes Acuáticos'
-  - 'deportes acuaticos ingles'
+  - Inglés para Playas y Deportes Acuáticos
+  - deportes acuaticos ingles
+  - curso de inglés gratis
+  - frases en inglés gratis
+  - aprender inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-playas-deportes-acuaticos'
 faqs:
   - question: ¿Cómo pregunto por las condiciones del mar en inglés?

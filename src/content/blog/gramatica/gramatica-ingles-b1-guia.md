@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-03-07'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Gramática Inglés B1'
 description: >-
@@ -10,8 +10,11 @@ description: >-
   Cambridge, Oxford o IELTS.
 readTime: 6 min
 keywords:
-  - 'Gramática Inglés B1'
-  - 'clases de gramatica en ingles gratis'
+  - Gramática Inglés B1
+  - clases de gramatica en ingles gratis
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 canonical: 'https://linguafly.app/blog/gramatica/gramatica-ingles-b1-guia'
 related_routes:
   - cursos-online-ingles-b1

@@ -1,7 +1,7 @@
 ---
 title: 'IELTS Listening: Estrategias'
 date: '2026-02-17'
-updatedDate: '2026-02-17'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Guía de estrategias para el IELTS Listening: cómo aprovechar el tiempo entre secciones, qué errores cuestan más puntos, cómo detectar cambios y correcciones en el audio, y cómo practicar de forma eficiente.
@@ -10,7 +10,10 @@ alt: Persona con auriculares escuchando audio para el IELTS Listening
 readTime: 6 min
 keywords:
   - 'IELTS Listening: Estrategias'
-  - 'ielts listening'
+  - ielts listening
+  - preparar inglés gratis
+  - material de inglés gratis
+  - curso de inglés gratis
 excerpt: >-
   El IELTS Listening se escucha una sola vez. No hay repetición. Eso cambia completamente cómo tienes que prepararlo: no es cuestión de entender inglés, es cuestión de saber exactamente qué buscar antes de que el audio empiece.
 faqs:

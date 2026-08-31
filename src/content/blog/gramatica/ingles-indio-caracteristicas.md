@@ -1,7 +1,7 @@
 ---
 title: 'Inglés Indio: Por Qué Suena Diferente'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   El inglés indio: por qué suena diferente y cómo entenderlo en entornos de trabajo, tecnología y negocios. Características fonéticas y vocabulario propio del Indian English.
@@ -12,7 +12,10 @@ readTime: 7 min
 alt: Ciudad india moderna representando el inglés de India en contexto profesional
 keywords:
   - 'Inglés Indio: Por Qué Suena Diferente'
-  - 'acento indio ingles'
+  - acento indio ingles
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 faqs:
   - question: ¿Hay un único "inglés indio" o son muchos acentos diferentes?
     answer: >-

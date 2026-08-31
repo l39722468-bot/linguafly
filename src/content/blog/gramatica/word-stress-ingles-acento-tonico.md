@@ -1,7 +1,7 @@
 ---
 title: 'Word Stress en Inglés: La Regla'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Word stress en inglés: la regla del acento tónico que nadie te enseña y que cambia todo. Aprende a identificar la sílaba correcta para que los nativos te entiendan sin esfuerzo.
@@ -12,7 +12,10 @@ readTime: 10 min
 alt: Palabras en inglés con marcas de acento tónico
 keywords:
   - 'Word Stress en Inglés: La Regla'
-  - 'word stress ingles'
+  - word stress ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué es el word stress?
     answer: >-

@@ -8,12 +8,15 @@ excerpt: >-
   Hoja práctica de Second y Third Conditional para B1-B2 con ejercicios resueltos.
   Practica en el artículo y descárgalo en PDF.
 keywords:
-  - 'ejercicios condicionales b1 b2'
-  - 'second conditional ejercicios'
-  - 'third conditional ejercicios'
+  - ejercicios condicionales b1 b2
+  - second conditional ejercicios
+  - third conditional ejercicios
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-07-30'
-updatedDate: '2026-07-30'
+updatedDate: '2026-08-31'
 category: gramatica
 canonical: 'https://www.linguafly.app/blog/gramatica/ejercicios-condicionales-b1-b2'
 downloadPdf: true

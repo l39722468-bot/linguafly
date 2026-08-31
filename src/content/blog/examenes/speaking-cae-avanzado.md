@@ -5,10 +5,13 @@ readTime: 8 min
 excerpt: "En el Speaking del CAE no te evalúan si tu inglés es perfecto, sino si puedes comunicarte con fluidez, precisión y naturalidad. Aquí tienes lo que necesitas saber para cada fase."
 keywords:
   - 'Speaking CAE: Cómo Brillar'
-  - 'como preparar speaking cae'
+  - como preparar speaking cae
+  - aprender inglés gratis
+  - preparar inglés gratis
+  - material de inglés gratis
 author: focus-english-team
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 category: examenes
 faqs:
   - question: "¿Cuánto dura el Speaking del CAE?"

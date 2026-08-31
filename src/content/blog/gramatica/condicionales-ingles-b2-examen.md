@@ -10,11 +10,14 @@ excerpt: >-
   Te decimos exactamente qué tipos aparecen, cómo se formulan las preguntas
   y qué errores penalizan más en Cambridge First, APTIS y IELTS.
 keywords:
-  - 'Condicionales en Inglés para el Examen B2'
-  - 'condicionales ingles b2 examen'
+  - Condicionales en Inglés para el Examen B2
+  - condicionales ingles b2 examen
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-06'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Estudiante preparando el examen B2 con ejercicios de condicionales en inglés
 category: gramatica
 faqs:

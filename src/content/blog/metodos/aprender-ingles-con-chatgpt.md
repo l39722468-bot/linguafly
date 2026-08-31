@@ -1,7 +1,7 @@
 ---
 title: 'Cómo Aprender Inglés con ChatGPT'
 date: '2026-02-18'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Aprende inglés con ChatGPT de forma efectiva: conversación, corrección de errores, vocabulario y escritura. Guía práctica 2026 con prompts listos para usar desde el primer día.
@@ -11,8 +11,11 @@ category: metodos
 readTime: 13 min
 alt: Persona usando ChatGPT en un laptop para practicar inglés
 keywords:
-  - 'Cómo Aprender Inglés con ChatGPT'
-  - 'aprender ingles con chatgpt'
+  - Cómo Aprender Inglés con ChatGPT
+  - aprender ingles con chatgpt
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 faqs:
   - question: ¿Es efectivo aprender inglés con ChatGPT?
     answer: >-

@@ -11,10 +11,13 @@ excerpt: >-
   hecho antes en tu idioma. Aquí te explico exactamente cómo funciona.
 keywords:
   - 'La R en Inglés: Por Qué No Funciona'
-  - 'pronunciación r inglés'
+  - pronunciación r inglés
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-22'
-updatedDate: '2026-02-22'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿La R en inglés americano y en inglés británico se pronuncian igual?'

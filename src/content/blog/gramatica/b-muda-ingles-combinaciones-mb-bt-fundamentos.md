@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'La “b” muda en inglés: fundamentos'
 description: >-
@@ -10,7 +10,10 @@ description: >-
 readTime: 22 min
 keywords:
   - 'La “b” muda en inglés: fundamentos'
-  - 'b muda ingles'
+  - b muda ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 alt: Letras de máquina de escribir antigua
 excerpt: >-
   Aprende a leer correctamente palabras como climb, thumb y debt: reglas

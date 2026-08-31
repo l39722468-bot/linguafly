@@ -1,7 +1,7 @@
 ---
 title: 'Inglés para Ir de Compras: Frases'
 date: '2026-02-20'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Todo el inglés para ir de compras: preguntar precios, tallas, descuentos, cambios y devoluciones en inglés. Frases reales para tiendas, mercados y outlets en países angloparlantes.
@@ -12,7 +12,10 @@ readTime: 12 min
 alt: Persona con bolsas de compras en una calle comercial de Londres
 keywords:
   - 'Inglés para Ir de Compras: Frases'
-  - 'ingles para compras'
+  - ingles para compras
+  - frases en inglés gratis
+  - aprender inglés gratis
+  - inglés para viajar gratis
 faqs:
   - question: ¿Cómo pregunto mi talla en inglés en una tienda?
     answer: >-

@@ -10,11 +10,14 @@ excerpt: >-
   mostramos cómo usarlo para dar consejos, hacer peticiones corteses y
   expresar hipótesis en situaciones reales de trabajo y conversación.
 keywords:
-  - 'Second Conditional en Inglés'
-  - 'second conditional ingles'
+  - Second Conditional en Inglés
+  - second conditional ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-02-10'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Persona imaginando posibilidades y usando el second conditional en inglés
 category: gramatica
 faqs:

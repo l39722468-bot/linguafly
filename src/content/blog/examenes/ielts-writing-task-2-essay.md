@@ -1,7 +1,7 @@
 ---
 title: 'IELTS Writing Task 2: Estructura'
 date: '2026-02-08'
-updatedDate: '2026-02-08'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Aprende a estructurar el ensayo del IELTS Writing Task 2 según el tipo de pregunta: opinión, discusión, problema-solución y ventajas-desventajas. Con ejemplos reales y criterios de evaluación.
@@ -10,7 +10,10 @@ alt: Persona escribiendo un ensayo en papel para el examen IELTS
 readTime: 8 min
 keywords:
   - 'IELTS Writing Task 2: Estructura'
-  - 'ielts writing task 2'
+  - ielts writing task 2
+  - aprender inglés gratis
+  - preparar inglés gratis
+  - material de inglés gratis
 excerpt: >-
   El Task 2 vale el doble que el Task 1 y es donde se ganan o se pierden las bandas que necesitas. Entender qué tipo de pregunta te está haciendo y cómo estructurar la respuesta marca toda la diferencia.
 faqs:

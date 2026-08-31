@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-03-02'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Nivel C2 de Inglés: Qué Es, Cuánto'
 description: >-
@@ -11,7 +11,10 @@ description: >-
 readTime: 9 min
 keywords:
   - 'Nivel C2 de Inglés: Qué Es, Cuánto'
-  - 'nivel c2 ingles que es'
+  - nivel c2 ingles que es
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 canonical: 'https://linguafly.app/blog/metodos/ingles-c2'
 related_routes:
   - ingles-c1

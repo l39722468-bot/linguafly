@@ -10,10 +10,13 @@ excerpt: >-
   necesitas para usarla bien.
 keywords:
   - 'Voz Pasiva en Futuro en Inglés: Will'
-  - 'pasiva futuro ingles'
+  - pasiva futuro ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-03-04'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Calendario con anotaciones en inglés, ilustrando la pasiva en futuro
 category: gramatica
 faqs:

@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Australian English: vocales, fonética'
 description: >-
@@ -10,7 +10,10 @@ description: >-
 readTime: 22 min
 keywords:
   - 'Australian English: vocales, fonética'
-  - 'australian english fonética'
+  - australian english fonética
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 alt: Mapa y brújula sobre superficie de madera viajera
 excerpt: >-
   Introducción práctica a la fonética del inglés australiano: vocales, ejemplos

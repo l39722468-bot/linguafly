@@ -8,11 +8,14 @@ excerpt: >-
   Domina las oraciones de relativo en inglés. Aprende cuándo usar comas, cuándo
   omitir el pronombre y descarga nuestra guía de referencia rápida.
 keywords:
-  - 'Relative Clauses en Inglés'
-  - 'defining and non defining relative clauses'
+  - Relative Clauses en Inglés
+  - defining and non defining relative clauses
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿Defining vs Non-Defining Relative Clauses: cuál es mejor?'

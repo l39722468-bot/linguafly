@@ -9,11 +9,14 @@ excerpt: >-
   conversaciones formales. Aquí te explicamos cómo funciona y cuándo usarlo de
   verdad.
 keywords:
-  - 'Voz Pasiva en Presente en Inglés'
-  - 'voz pasiva presente ingles'
+  - Voz Pasiva en Presente en Inglés
+  - voz pasiva presente ingles
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-05'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Estudiante practicando la voz pasiva en presente en inglés con ejemplos escritos
 category: gramatica
 faqs:

@@ -5,10 +5,13 @@ readTime: 8 min
 excerpt: "Las inversiones son uno de los sellos del inglés avanzado. En el CAE aparecen en el Writing, en el Speaking y casi siempre en las Key Word Transformations. Aprende a usarlas con confianza."
 keywords:
   - 'Inversiones en Inglés C1: Domina'
-  - 'inversiones ingles c1'
+  - inversiones ingles c1
+  - material de inglés gratis
+  - curso de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-23'
-updatedDate: '2026-03-23'
+updatedDate: '2026-08-31'
 category: examenes
 faqs:
   - question: "¿Qué es una inversión en inglés y cuándo se usa?"

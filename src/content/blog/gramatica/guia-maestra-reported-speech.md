@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Guia Maestra de Reported Speech'
 description: >-
@@ -10,8 +10,11 @@ description: >-
   de Cambridge.
 readTime: 5 min
 keywords:
-  - 'Guia Maestra de Reported Speech'
-  - 'reported speech'
+  - Guia Maestra de Reported Speech
+  - reported speech
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 canonical: 'https://linguafly.app/blog/gramatica/guia-maestra-reported-speech'
 alt: Guía maestra sobre estilo indirecto en inglés
 faqs:

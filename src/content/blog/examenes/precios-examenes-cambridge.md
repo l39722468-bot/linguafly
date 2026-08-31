@@ -1,7 +1,7 @@
 ---
 category: examenes
 date: '2026-03-02'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Precios Exámenes Cambridge 2026: FCE, CAE'
 description: >-
@@ -15,7 +15,10 @@ excerpt: >-
   precios reales, los gastos extra y cómo compararlos con IELTS y TOEFL.
 keywords:
   - 'Precios Exámenes Cambridge: FCE, CAE'
-  - 'precios examenes cambridge'
+  - precios examenes cambridge
+  - material de inglés gratis
+  - curso de inglés gratis
+  - aprender inglés gratis
 canonical: 'https://linguafly.app/blog/examenes/precios-examenes-cambridge'
 related_routes:
   - certificaciones-ingles

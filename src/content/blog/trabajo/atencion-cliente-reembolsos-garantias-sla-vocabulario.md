@@ -1,7 +1,7 @@
 ---
 category: trabajo
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Reembolsos, garantías y SLA'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   replacement, compensation y plazos sin prometer lo indebido.
 readTime: 22 min
 keywords:
-  - 'Reembolsos, garantías y SLA'
-  - 'SLA inglés customer service'
+  - Reembolsos, garantías y SLA
+  - SLA inglés customer service
+  - clases de inglés gratis
+  - aprender inglés gratis
+  - inglés de negocios gratis
 alt: Documentos y calculadora sobre mesa de oficina
 excerpt: >-
   Guía léxica B2+ para gestionar políticas comerciales en inglés: qué decir,

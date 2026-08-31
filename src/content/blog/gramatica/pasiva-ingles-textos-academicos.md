@@ -10,10 +10,13 @@ excerpt: >-
   cómo hacerlo bien.
 keywords:
   - 'Voz Pasiva en Inglés Académico: Cómo'
-  - 'pasiva ingles academico'
+  - pasiva ingles academico
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-23'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Investigadora escribiendo un paper académico en inglés con estructuras pasivas
 category: gramatica
 faqs:

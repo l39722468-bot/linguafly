@@ -11,11 +11,14 @@ excerpt: >-
   potencial con ejemplos concretos se diferencian de los que solo se disculpan
   por lo que no tienen.
 keywords:
-  - 'entrevista trabajo inglés sin experiencia laboral'
-  - 'cómo responder entrevista inglés primer empleo junior'
+  - entrevista trabajo inglés sin experiencia laboral
+  - cómo responder entrevista inglés primer empleo junior
+  - aprender inglés gratis
+  - inglés de negocios gratis
+  - curso de inglés gratis
 author: focus-english-team
 date: '2026-02-23'
-updatedDate: '2026-03-12'
+updatedDate: '2026-08-31'
 alt: Joven candidata en entrevista de trabajo en inglés para su primer empleo
 category: trabajo
 faqs:

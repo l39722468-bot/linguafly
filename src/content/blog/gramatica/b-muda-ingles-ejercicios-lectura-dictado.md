@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Ejercicios de “b” muda en inglés'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   contrastándolas con sonidos /b/ reales para evitar confusión.
 readTime: 22 min
 keywords:
-  - 'Ejercicios de “b” muda en inglés'
-  - 'b muda ingles'
+  - Ejercicios de “b” muda en inglés
+  - b muda ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 alt: Cuaderno y lápiz sobre mesa de estudio
 excerpt: >-
   Rutina de estudio de 30 minutos: lectura en voz alta, dictado guiado y pares

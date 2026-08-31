@@ -1,7 +1,7 @@
 ---
 title: 'Las Mejores Películas y Series'
 date: '2026-02-14'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Las mejores películas y series para aprender inglés según tu nivel: recomendaciones para A2, B1, B2 y C1 con estrategias para sacarles el máximo partido en 2026.
@@ -11,8 +11,11 @@ category: metodos
 readTime: 15 min
 alt: Persona viendo una serie en versión original con subtítulos en inglés
 keywords:
-  - 'Las Mejores Películas y Series'
-  - 'mejores peliculas series ingles'
+  - Las Mejores Películas y Series
+  - mejores peliculas series ingles
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 faqs:
   - question: ¿Es efectivo aprender inglés viendo series?
     answer: >-

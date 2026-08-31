@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Minimal pairs y discriminación'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   que escuchan inglés australiano: método, ejemplos y progresión.
 readTime: 22 min
 keywords:
-  - 'Minimal pairs y discriminación'
-  - 'minimal pairs inglés'
+  - Minimal pairs y discriminación
+  - minimal pairs inglés
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 alt: Estudiante con auriculares tomando apuntes
 excerpt: >-
   Cómo usar minimal pairs sin convertir el estudio en suplicio: criterios,

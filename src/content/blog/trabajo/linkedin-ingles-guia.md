@@ -1,7 +1,7 @@
 ---
 title: 'LinkedIn en Inglés 2026: Cómo Optimizar'
 date: '2026-01-30'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: >-
   Transforma tu presencia profesional en 2026. Aprende a redactar un titular de
@@ -14,7 +14,10 @@ alt: >-
   persona
 keywords:
   - 'LinkedIn en Inglés: Cómo Optimizar'
-  - 'optimizar linkedin inglés'
+  - optimizar linkedin inglés
+  - clases de inglés gratis
+  - aprender inglés gratis
+  - inglés de negocios gratis
 canonical: 'https://linguafly.app/blog/trabajo/linkedin-ingles-guia'
 faqs:
   - question: ¿Cómo pongo mi perfil de LinkedIn en dos idiomas?

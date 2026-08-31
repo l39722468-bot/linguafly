@@ -1,7 +1,7 @@
 ---
 title: 'Will para Promesas y Decisiones'
 date: '2026-03-21'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Will para promesas y decisiones espontáneas en inglés: cómo funciona, cuándo usarlo y en qué se diferencia de going to. Ejemplos reales y ejercicios incluidos.
@@ -9,8 +9,11 @@ category: gramatica
 alt: Persona haciendo una promesa en inglés usando will
 readTime: 7 min
 keywords:
-  - 'Will para Promesas y Decisiones'
-  - 'will promesas ingles'
+  - Will para Promesas y Decisiones
+  - will promesas ingles
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 excerpt: >-
   Dos de los usos más importantes de will en inglés son las promesas y las decisiones espontáneas. Aprende cómo funcionan, con ejemplos reales y los errores típicos de hispanohablantes.
 faqs:

@@ -8,12 +8,15 @@ excerpt: >-
   Material avanzado de condicionales con inversión, mixed conditionals y
   estructuras formales. Ejercicios resueltos para C1-C2 con descarga en PDF.
 keywords:
-  - 'ejercicios condicionales c1 c2'
-  - 'mixed conditionals ejercicios'
-  - 'inversion condicional ingles'
+  - ejercicios condicionales c1 c2
+  - mixed conditionals ejercicios
+  - inversion condicional ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-07-30'
-updatedDate: '2026-07-30'
+updatedDate: '2026-08-31'
 category: gramatica
 canonical: 'https://www.linguafly.app/blog/gramatica/ejercicios-condicionales-c1-c2'
 downloadPdf: true

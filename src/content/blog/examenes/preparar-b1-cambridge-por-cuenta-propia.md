@@ -9,10 +9,13 @@ excerpt: >-
   dominar el Reading, Writing y cómo usar la IA para practicar el Speaking sin
   profesor.
 keywords:
-  - 'Preparar el B1 de Cambridge'
-  - 'preparar b1 cambridge solo'
+  - Preparar el B1 de Cambridge
+  - preparar b1 cambridge solo
+  - aprender inglés gratis
+  - preparar inglés gratis
+  - material de inglés gratis
 date: '2025-02-05'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 category: examenes
 author: focus-english-team
 canonical: >-

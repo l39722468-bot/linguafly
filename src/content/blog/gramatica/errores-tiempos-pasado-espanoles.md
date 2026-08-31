@@ -1,7 +1,7 @@
 ---
 title: 'Los Errores con los Tiempos de Pasado'
 date: '2026-03-03'
-updatedDate: '2026-03-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Los errores más frecuentes con el past simple, present perfect y past continuous que cometen los hablantes de español, con explicaciones claras y cómo corregirlos.
@@ -9,8 +9,11 @@ category: gramatica
 alt: Persona corrigiendo errores gramaticales en tiempos de pasado en inglés
 readTime: 7 min
 keywords:
-  - 'Los Errores con los Tiempos de Pasado'
-  - 'tiempos pasado ingles errores'
+  - Los Errores con los Tiempos de Pasado
+  - tiempos pasado ingles errores
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 excerpt: >-
   Los tiempos de pasado en inglés concentran algunos de los errores más persistentes de los hispanohablantes. No porque sean difíciles, sino porque el español y el inglés funcionan de forma distinta. Aquí tienes los más frecuentes con su solución.
 faqs:

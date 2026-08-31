@@ -1,7 +1,7 @@
 ---
 title: 'IELTS Speaking: Cómo Preparar las 3'
 date: '2026-02-11'
-updatedDate: '2026-02-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Guía completa para el IELTS Speaking: qué evalúan en cada parte, cómo preparar el monólogo del Part 2, errores que bajan la nota y estrategias reales para subir de Band 6 a Band 7.
@@ -10,7 +10,10 @@ alt: Persona hablando con un examinador en una sala de examen
 readTime: 7 min
 keywords:
   - 'IELTS Speaking: Cómo Preparar las 3'
-  - 'ielts speaking'
+  - ielts speaking
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - preparar inglés gratis
 excerpt: >-
   El IELTS Speaking es cara a cara con un examinador humano: 11-14 minutos donde cada pausa larga, cada muletilla repetida y cada frase incompleta cuenta. Pero también tiene una estructura muy predecible que puedes preparar.
 faqs:

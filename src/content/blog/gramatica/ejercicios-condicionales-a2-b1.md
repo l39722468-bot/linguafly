@@ -8,12 +8,15 @@ excerpt: >-
   Hoja práctica de Zero y First Conditional para niveles A2-B1 con ejercicios
   resueltos. Practica en el artículo y descárgalo en PDF.
 keywords:
-  - 'ejercicios condicionales a2 b1'
-  - 'zero conditional ejercicios'
-  - 'first conditional ejercicios'
+  - ejercicios condicionales a2 b1
+  - zero conditional ejercicios
+  - first conditional ejercicios
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-07-30'
-updatedDate: '2026-07-30'
+updatedDate: '2026-08-31'
 category: gramatica
 canonical: 'https://www.linguafly.app/blog/gramatica/ejercicios-condicionales-a2-b1'
 downloadPdf: true

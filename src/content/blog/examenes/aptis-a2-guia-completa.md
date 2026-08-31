@@ -1,7 +1,7 @@
 ---
 title: 'Aptis A2 2026: Estructura del Examen'
 date: '2026-02-06'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Aptis A2: todo lo que necesitas saber en 2026. Estructura de las 4 partes,
@@ -16,7 +16,10 @@ readTime: 12 min
 alt: Estudiante sonriente celebrando sus resultados académicos
 keywords:
   - 'Aptis A2: Estructura del Examen'
-  - 'aptis a2'
+  - aptis a2
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - preparar inglés gratis
 faqs:
   - question: ¿Qué diferencia hay entre Aptis General y Aptis A2?
     answer: >-

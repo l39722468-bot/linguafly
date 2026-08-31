@@ -1,7 +1,7 @@
 ---
 category: trabajo
 date: '2026-02-07'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Curso de Inglés para el Sector Salud'
 description: >-
@@ -10,8 +10,11 @@ description: >-
   sanitaria.
 readTime: 5 min
 keywords:
-  - 'Curso de Inglés para el Sector Salud'
-  - 'inglés para salud'
+  - Curso de Inglés para el Sector Salud
+  - inglés para salud
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-salud'
 related_routes:
   - ingles-para-trabajo

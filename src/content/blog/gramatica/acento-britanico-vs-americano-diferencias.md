@@ -1,7 +1,7 @@
 ---
 title: 'Inglés Británico vs Americano'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Inglés británico vs americano: las diferencias de pronunciación más importantes (RP vs GA, vocales, consonantes, entonación). Guía práctica para hispanohablantes con ejemplos.
@@ -11,8 +11,11 @@ category: gramatica
 readTime: 8 min
 alt: Banderas de Reino Unido y Estados Unidos simbolizando diferencias de pronunciación
 keywords:
-  - 'Inglés Británico vs Americano'
-  - 'como suenan diferente ingles britanico americano'
+  - Inglés Británico vs Americano
+  - como suenan diferente ingles britanico americano
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué inglés es más fácil de entender, el británico o el americano?
     answer: >-

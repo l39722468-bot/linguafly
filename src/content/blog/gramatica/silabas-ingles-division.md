@@ -11,10 +11,13 @@ excerpt: >-
   vocales, dónde cae el acento y cómo entiendes las palabras al escucharlas.
 keywords:
   - 'Sílabas en Inglés: Cómo Dividirlas'
-  - 'silabas ingles'
+  - silabas ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-03-01'
-updatedDate: '2026-03-01'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿El inglés cuenta las sílabas de la misma forma que el español?'

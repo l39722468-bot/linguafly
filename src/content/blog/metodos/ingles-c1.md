@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-02-07'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Nivel C1 de Inglés: Qué Significa'
 description: >-
@@ -11,7 +11,10 @@ description: >-
 readTime: 9 min
 keywords:
   - 'Nivel C1 de Inglés: Qué Significa'
-  - 'nivel c1 ingles que es'
+  - nivel c1 ingles que es
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 canonical: 'https://linguafly.app/blog/metodos/ingles-c1'
 related_routes:
   - ingles-b2

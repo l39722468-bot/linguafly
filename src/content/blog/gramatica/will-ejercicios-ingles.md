@@ -1,7 +1,7 @@
 ---
 title: 'Ejercicios de Will en Inglés'
 date: '2026-03-21'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Ejercicios de will en inglés con soluciones: practica todos sus usos (futuro, predicciones, promesas, decisiones, ofrecimientos) con correcciones detalladas. Ideal para B1-B2.
@@ -9,8 +9,11 @@ category: gramatica
 alt: Cuaderno de ejercicios de inglés abierto sobre una mesa
 readTime: 10 min
 keywords:
-  - 'Ejercicios de Will en Inglés'
-  - 'will ejercicios resueltos ingles'
+  - Ejercicios de Will en Inglés
+  - will ejercicios resueltos ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   Practica todos los usos de will en inglés con ejercicios resueltos: futuro, predicciones, promesas, decisiones espontáneas, ofrecimientos y la diferencia con going to. Con soluciones comentadas.
 faqs:

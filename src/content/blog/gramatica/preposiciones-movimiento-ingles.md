@@ -8,11 +8,14 @@ excerpt: >-
   Aprende a usar las preposiciones de movimiento en inglés con precisión. Guía
   académica con ejemplos prácticos, comparativas y lista imprimible.
 keywords:
-  - 'Preposiciones de Movimiento en Inglés'
-  - 'preposiciones en ingles'
+  - Preposiciones de Movimiento en Inglés
+  - preposiciones en ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿� Material de Estudio?'

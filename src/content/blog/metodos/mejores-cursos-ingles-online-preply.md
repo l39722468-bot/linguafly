@@ -1,7 +1,7 @@
 ---
 title: 'Preply 2026: tutores para IELTS y Cambridge'
 date: '2026-04-15'
-updatedDate: '2026-04-15'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: 'Preply: elige tutor por especialidad y precio. Cómo preparar IELTS o Cambridge por horas, clase de prueba y combinación con material oficial sin desperdiciar tiempo.'
 description: 'Guía Preply para quien busca mejores cursos de inglés online con foco en exámenes: IELTS, Cambridge, precios por hora y consejos para no perder tiempo.'
@@ -10,7 +10,10 @@ readTime: 8 min
 alt: 'Videollamada con tutor de inglés'
 keywords:
   - 'Preply: tutores para IELTS y Cambridge'
-  - 'preply ingles examenes'
+  - preply ingles examenes
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 faqs:
   - question: '¿Preply es un curso cerrado o elijo yo al profesor?'
     answer: >-

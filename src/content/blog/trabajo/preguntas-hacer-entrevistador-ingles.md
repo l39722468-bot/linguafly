@@ -11,11 +11,14 @@ excerpt: >-
   las preguntas que muestran que has investigado, que tienes criterio y que
   tomas la decisión de forma profesional.
 keywords:
-  - 'qué preguntar al entrevistador en inglés'
-  - 'preguntas para hacer en entrevista trabajo inglés ejemplos'
+  - qué preguntar al entrevistador en inglés
+  - preguntas para hacer en entrevista trabajo inglés ejemplos
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-17'
-updatedDate: '2026-03-12'
+updatedDate: '2026-08-31'
 alt: Candidata haciendo preguntas al entrevistador en entrevista de trabajo en inglés
 category: trabajo
 faqs:

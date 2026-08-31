@@ -11,10 +11,13 @@ excerpt: >-
   la mitad de los diálogos, esta guía te explica exactamente qué está pasando.
 keywords:
   - 'Cockney: El Acento del East End'
-  - 'east end londres acento'
+  - east end londres acento
+  - curso de inglés gratis
+  - recursos para aprender inglés gratis
+  - clases de inglés gratis
 author: focus-english-team
 date: '2026-02-15'
-updatedDate: '2026-02-15'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿El Cockney y el Estuary English son lo mismo?'

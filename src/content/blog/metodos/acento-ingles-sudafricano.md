@@ -12,10 +12,13 @@ excerpt: >-
   encaje de golpe.
 keywords:
   - 'El Acento Sudafricano en Inglés: Guía Clara'
-  - 'acento inglés sudafricano'
+  - acento inglés sudafricano
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 author: focus-english-team
 date: '2026-02-21'
-updatedDate: '2026-02-21'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿El inglés sudafricano es difícil de entender?'

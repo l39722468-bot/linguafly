@@ -10,11 +10,14 @@ excerpt: >-
   reconoces bien, pierdes matices importantes. Aquí están las estructuras que
   más aparecen y por qué los periodistas las eligen.
 keywords:
-  - 'Voz Pasiva en Inglés para Leer'
-  - 'voz pasiva ingles periodismo'
+  - Voz Pasiva en Inglés para Leer
+  - voz pasiva ingles periodismo
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-07'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Tableta mostrando una web de noticias en inglés con voz pasiva en titulares
 category: gramatica
 faqs:

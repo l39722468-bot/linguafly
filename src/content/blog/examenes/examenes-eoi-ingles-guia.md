@@ -1,7 +1,7 @@
 ---
 title: 'Examen de Inglés de la EOI 2026: Niveles'
 date: '2026-03-21'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 category: examenes
 readTime: 10 min
@@ -15,7 +15,10 @@ excerpt: >-
   completa, las fechas habituales y cómo prepararlo sin ir a clases.
 keywords:
   - 'Examen de Inglés de la EOI: Niveles'
-  - 'examen ingles EOI'
+  - examen ingles EOI
+  - preparar inglés gratis
+  - material de inglés gratis
+  - curso de inglés gratis
 alt: 'Estudiante preparando el examen de inglés de la Escuela Oficial de Idiomas'
 canonical: 'https://linguafly.app/blog/examenes/examenes-eoi-ingles-guia'
 faqs:

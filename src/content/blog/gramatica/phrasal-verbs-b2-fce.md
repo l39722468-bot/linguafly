@@ -1,7 +1,7 @@
 ---
 title: 'Phrasal Verbs para el B2 (FCE): Lista Completa'
 date: '2026-02-18'
-updatedDate: '2026-02-18'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Lista definitiva de phrasal verbs para el examen B2 First (FCE): los más frecuentes en Use of English y Writing con significados, ejemplos y diferencias entre formas similares.
@@ -10,7 +10,10 @@ alt: Cuaderno con lista de phrasal verbs para el FCE B2
 readTime: 9 min
 keywords:
   - 'Phrasal Verbs para el B2 (FCE): Lista Completa'
-  - 'phrasal verbs fce'
+  - phrasal verbs fce
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   El B2 First exige manejar los phrasal verbs con soltura, especialmente en las partes de Use of English y Writing. Esta es la lista de los que aparecen con más frecuencia y los que más confunden.
 faqs:

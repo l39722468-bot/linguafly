@@ -10,9 +10,12 @@ excerpt: >-
   práctica.
 keywords:
   - 'Vocabulario de Ropa en Inglés: 150+'
-  - 'vocabulario ropa ingles'
+  - vocabulario ropa ingles
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 date: '2026-02-06'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 author: focus-english-team
 faqs:

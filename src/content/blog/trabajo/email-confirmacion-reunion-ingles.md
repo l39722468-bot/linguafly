@@ -10,11 +10,14 @@ excerpt: >-
   cancelar con poca antelación o reorganizar horarios con gente de tres países.
   Aquí tienes las fórmulas que funcionan.
 keywords:
-  - 'Emails para Reuniones en Inglés'
-  - 'meeting request email ingles trabajo'
+  - Emails para Reuniones en Inglés
+  - meeting request email ingles trabajo
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-24'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Calendario de reuniones en inglés en pantalla de ordenador para gestión profesional
 category: trabajo
 faqs:

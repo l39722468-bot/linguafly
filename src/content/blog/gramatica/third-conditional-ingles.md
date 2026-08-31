@@ -10,11 +10,14 @@ excerpt: >-
   a construirlo sin errores, usarlo en conversaciones reales y diferenciarlo
   del segundo condicional.
 keywords:
-  - 'Third Conditional en Inglés'
-  - 'third conditional ingles'
+  - Third Conditional en Inglés
+  - third conditional ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-13'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Persona reflexionando sobre el pasado usando el third conditional en inglés
 category: gramatica
 faqs:

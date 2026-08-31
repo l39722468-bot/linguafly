@@ -5,10 +5,13 @@ readTime: 9 min
 excerpt: "El vocabulario del CAE no es una lista de palabras raras que hay que memorizar. Es aprender a elegir la palabra precisa en el momento exacto. Aquí tienes los patrones que más aparecen."
 keywords:
   - 'Vocabulario C1 Advanced: Palabras Clave para el CAE'
-  - 'vocabulario c1 advanced'
+  - vocabulario c1 advanced
+  - preparar inglés gratis
+  - material de inglés gratis
+  - curso de inglés gratis
 author: focus-english-team
 date: '2026-03-13'
-updatedDate: '2026-03-13'
+updatedDate: '2026-08-31'
 category: examenes
 faqs:
   - question: "¿Cuántas palabras necesito conocer para el C1 Advanced?"

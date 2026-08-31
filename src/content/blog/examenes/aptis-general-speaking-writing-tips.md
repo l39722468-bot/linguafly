@@ -1,7 +1,7 @@
 ---
 title: 'Aptis General: Consejos de Speaking y Writing'
 date: '2026-03-04'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Guía práctica con los mejores consejos para el Speaking y Writing del Aptis
@@ -14,7 +14,10 @@ canonical: >-
 readTime: 7 min
 keywords:
   - 'Aptis General: Consejos de Speaking y Writing'
-  - 'aptis speaking consejos'
+  - aptis speaking consejos
+  - material de inglés gratis
+  - curso de inglés gratis
+  - aprender inglés gratis
 faqs:
   - question: ¿Cuántas palabras debo escribir en el Writing del Aptis General?
     answer: >-

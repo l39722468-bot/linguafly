@@ -12,10 +12,13 @@ excerpt: >-
   lo que dicen los libros de texto.
 keywords:
   - 'General American: El Acento'
-  - 'general american acento'
+  - general american acento
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 author: focus-english-team
 date: '2026-02-06'
-updatedDate: '2026-02-06'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿El General American es el acento más fácil de entender para hispanohablantes?'

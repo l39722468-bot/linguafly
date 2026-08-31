@@ -1,7 +1,7 @@
 ---
 category: trabajo
 date: '2026-02-07'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Curso de Inglés para Ingenieros'
 description: >-
@@ -10,8 +10,11 @@ description: >-
   reuniones de equipo.
 readTime: 5 min
 keywords:
-  - 'Curso de Inglés para Ingenieros'
-  - 'inglés para ingenieros'
+  - Curso de Inglés para Ingenieros
+  - inglés para ingenieros
+  - clases de inglés gratis
+  - aprender inglés gratis
+  - inglés de negocios gratis
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-ingenieros'
 related_routes:
   - ingles-para-trabajo

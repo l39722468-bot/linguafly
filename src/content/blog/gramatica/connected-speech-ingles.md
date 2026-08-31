@@ -11,10 +11,13 @@ excerpt: >-
   qué ocurre cuando los nativos hablan a velocidad normal.
 keywords:
   - 'Connected Speech en Inglés: Por Qué No Entiendes'
-  - 'connected speech inglés'
+  - connected speech inglés
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-02-04'
-updatedDate: '2026-02-04'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿El connected speech se usa solo en inglés informal?'

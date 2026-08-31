@@ -9,11 +9,14 @@ excerpt: >-
   pronunciación, vocabulario y ortografía para elegir la variante que mejor se
   adapta a tus objetivos.
 keywords:
-  - 'Inglés Americano vs Británico'
-  - 'diferencias ingles americano britanico'
+  - Inglés Americano vs Británico
+  - diferencias ingles americano britanico
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 author: focus-english-team
 date: '2026-03-07'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿Cuáles son las diferencias de pronunciación?'

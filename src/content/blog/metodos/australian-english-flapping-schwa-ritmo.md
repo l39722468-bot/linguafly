@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Australian English: schwa, ritmo'
 description: >-
@@ -10,7 +10,10 @@ description: >-
 readTime: 22 min
 keywords:
   - 'Australian English: schwa, ritmo'
-  - 'australian english fonética'
+  - australian english fonética
+  - curso de inglés gratis
+  - recursos para aprender inglés gratis
+  - clases de inglés gratis
 alt: Ondas de sonido abstractas
 excerpt: >-
   Cómo escuchar y producir patrones más naturales en inglés australiano:

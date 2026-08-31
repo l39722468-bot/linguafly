@@ -1,7 +1,7 @@
 ---
 title: 'Las Mejores Apps Gratuitas para Aprender Inglés en 2026'
 date: '2026-02-12'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Las mejores apps gratuitas para aprender inglés en tu tiempo libre en 2026: Duolingo, Anki, BBC Learning English y más. Comparativa honesta por nivel para aprender a tu ritmo sin gastar nada.
@@ -11,8 +11,11 @@ category: metodos
 readTime: 14 min
 alt: Smartphone con aplicaciones de idiomas en la pantalla
 keywords:
-  - 'mejores apps gratuitas para aprender inglés'
-  - 'apps inglés gratis uso personal ocio'
+  - mejores apps gratuitas para aprender inglés
+  - apps inglés gratis uso personal ocio
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 faqs:
   - question: ¿Puedo aprender inglés solo con apps gratuitas?
     answer: >-

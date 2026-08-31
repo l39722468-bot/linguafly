@@ -7,11 +7,14 @@ readTime: 15 min
 excerpt: >-
   El ecosistema tecnológico y financiero irlandés atrae talento internacional. Si tus calls suenan a Dublín más que a California, necesitas protocolos claros para seguir el hilo cuando el acento y el ritmo cambian.
 keywords:
-  - 'Inglés en el Trabajo en Irlanda'
-  - 'ingles trabajo Irlanda reuniones'
+  - Inglés en el Trabajo en Irlanda
+  - ingles trabajo Irlanda reuniones
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 author: focus-english-team
 date: '2026-03-29'
-updatedDate: '2026-03-29'
+updatedDate: '2026-08-31'
 alt: Reunión de trabajo moderna con personas y portátiles
 category: trabajo
 faqs:

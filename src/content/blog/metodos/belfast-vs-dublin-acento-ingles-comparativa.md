@@ -8,10 +8,13 @@ excerpt: >-
   “Irlanda” en el mapa turístico no es un solo acento. Belfast y Dublín representan dos polos sociolingüísticos distintos. Esta comparativa te ayuda a ajustar el oído y el léxico sin mezclarlo todo en una sola caja llamada “irlandés”.
 keywords:
   - 'Belfast vs Dublín: Comparativa'
-  - 'Belfast vs Dublin accent English'
+  - Belfast vs Dublin accent English
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-29'
-updatedDate: '2026-03-29'
+updatedDate: '2026-08-31'
 alt: Costa y cielo nublado evocando islas británicas
 category: metodos
 faqs:

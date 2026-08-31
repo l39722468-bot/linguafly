@@ -11,11 +11,14 @@ excerpt: >-
   su entonación característica y su vocabulario propio lo hacen inconfundible,
   y entenderlo es más fácil de lo que parece.
 keywords:
-  - 'El Acento Australiano'
-  - 'acento australiano broad general cultivated'
+  - El Acento Australiano
+  - acento australiano broad general cultivated
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-09'
-updatedDate: '2026-02-09'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿Por qué el inglés australiano suena tan diferente al inglés americano o británico?'

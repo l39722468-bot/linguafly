@@ -9,11 +9,14 @@ excerpt: >-
   existe en español. Si siempre has dicho "d" o "z" donde debería ir TH, aquí
   tienes la explicación y los ejercicios para corregirlo.
 keywords:
-  - 'Cómo Pronunciar la TH en Inglés'
-  - 'pronunciar th ingles'
+  - Cómo Pronunciar la TH en Inglés
+  - pronunciar th ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-11'
-updatedDate: '2026-02-11'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿Es la TH inglesa igual que la Z española del centro de España?'

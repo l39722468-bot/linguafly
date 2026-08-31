@@ -1,7 +1,7 @@
 ---
 category: examenes
 date: '2026-02-07'
-updatedDate: '2026-03-07'
+updatedDate: '2026-08-31'
 author: focus-english-team
 alt: "Estudiante preparando su examen de nivel B1 de inglés"
 title: 'Preparación Examen B1 Inglés'
@@ -15,8 +15,11 @@ excerpt: >-
   piden. Tanto si vas al Cambridge PET, al Aptis o al Linguaskill, aquí tienes
   el plan de estudio, los recursos gratuitos y los consejos que marcan la diferencia.
 keywords:
-  - 'Preparación Examen B1 Inglés'
-  - 'examen b1 ingles consejos'
+  - Preparación Examen B1 Inglés
+  - examen b1 ingles consejos
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - preparar inglés gratis
 canonical: 'https://linguafly.app/blog/examenes/preparacion-examen-b1-cambridge'
 related_routes:
   - certificaciones-ingles

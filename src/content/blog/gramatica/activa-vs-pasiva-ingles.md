@@ -9,11 +9,14 @@ excerpt: >-
   propósitos distintos y saber cuándo usar cada una es lo que define un nivel
   avanzado real en inglés.
 keywords:
-  - 'Voz Activa vs Voz Pasiva en Inglés'
-  - 'activa vs pasiva ingles'
+  - Voz Activa vs Voz Pasiva en Inglés
+  - activa vs pasiva ingles
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-20'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Dos columnas comparando voz activa y pasiva en inglés con ejemplos
 category: gramatica
 faqs:

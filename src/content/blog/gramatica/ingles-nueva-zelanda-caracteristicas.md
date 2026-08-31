@@ -1,7 +1,7 @@
 ---
 title: 'Inglés de Nueva Zelanda'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   El inglés de Nueva Zelanda: sus características fonéticas únicas, influencia del maorí y diferencias con el australiano y británico. Guía práctica para entender el kiwi English.
@@ -11,8 +11,11 @@ category: gramatica
 readTime: 6 min
 alt: Paisaje de Nueva Zelanda con el cielo estrellado representando la diversidad del inglés
 keywords:
-  - 'Inglés de Nueva Zelanda'
-  - 'ingles nueva zelanda caracteristicas'
+  - Inglés de Nueva Zelanda
+  - ingles nueva zelanda caracteristicas
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 faqs:
   - question: ¿El inglés de Nueva Zelanda es igual al australiano?
     answer: >-

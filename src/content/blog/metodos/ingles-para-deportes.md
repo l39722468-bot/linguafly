@@ -1,7 +1,7 @@
 ---
 title: 'Inglés para Deportes: Vocabulario'
 date: '2026-02-22'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Vocabulario de deportes en inglés por disciplina: fútbol, baloncesto, tenis, atletismo y más. Frases para ver, comentar y hablar de deportes en inglés con naturalidad y precisión.
@@ -12,7 +12,10 @@ readTime: 14 min
 alt: Estadio de fútbol con el césped visto desde las gradas
 keywords:
   - 'Inglés para Deportes: Vocabulario'
-  - 'ingles para deportes'
+  - ingles para deportes
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 faqs:
   - question: ¿Cómo se dice "empate" en inglés?
     answer: >-

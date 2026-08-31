@@ -1,7 +1,7 @@
 ---
 title: 'Cómo Hacer un CV en Inglés'
 date: '2026-02-10'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: >-
   Aprende a redactar un CV en inglés que supere los filtros ATS y atraiga a
@@ -11,8 +11,11 @@ category: trabajo
 readTime: 18 min
 alt: Persona revisando un currículum vitae impreso sobre un escritorio
 keywords:
-  - 'Cómo Hacer un CV en Inglés'
-  - 'cv ingles'
+  - Cómo Hacer un CV en Inglés
+  - cv ingles
+  - aprender inglés gratis
+  - inglés de negocios gratis
+  - curso de inglés gratis
 faqs:
   - question: ¿Cuál es la diferencia entre un CV y un Resume en inglés?
     answer: >-

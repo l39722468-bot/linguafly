@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Australian slang: registro, contexto'
 description: >-
@@ -10,7 +10,10 @@ description: >-
 readTime: 22 min
 keywords:
   - 'Australian slang: registro, contexto'
-  - 'australian slang inglés'
+  - australian slang inglés
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 alt: Café urbano en Australia ambiente casual
 excerpt: >-
   Aprende a entender slang australiano sin convertirte en caricatura: matices

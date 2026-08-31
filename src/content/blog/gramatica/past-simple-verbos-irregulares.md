@@ -1,7 +1,7 @@
 ---
 title: 'Verbos Irregulares en Inglés: Lista Completa'
 date: '2026-02-19'
-updatedDate: '2026-03-20'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Verbos irregulares en inglés para el Past Simple: lista completa con patrones y ejercicios. Aprende a identificar grupos de irregulares para memorizarlos de forma más eficaz.
@@ -10,7 +10,10 @@ alt: Lista de verbos irregulares en inglés organizados en una tabla
 readTime: 8 min
 keywords:
   - 'Verbos Irregulares en Inglés: Lista Completa'
-  - 'lista verbos irregulares ingles'
+  - lista verbos irregulares ingles
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 excerpt: >-
   Los verbos irregulares son uno de los retos clásicos del inglés. No siguen reglas, pero tienen patrones que los hacen más fáciles de aprender en grupos. Aquí tienes los más frecuentes organizados para que no tengas que memorizarlos uno a uno.
 faqs:

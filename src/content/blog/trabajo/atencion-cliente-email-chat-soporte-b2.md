@@ -1,7 +1,7 @@
 ---
 category: trabajo
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Email y chat de soporte en inglés'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   seguimiento y tono profesional en chat y correo.
 readTime: 22 min
 keywords:
-  - 'Email y chat de soporte en inglés'
-  - 'email soporte inglés'
+  - Email y chat de soporte en inglés
+  - email soporte inglés
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 alt: Persona escribiendo en portátil
 excerpt: >-
   Guía práctica para mensajes de soporte: estructura, conectores, evitar

@@ -10,10 +10,13 @@ excerpt: >-
   desventajas de cada método según tu objetivo concreto para que tomes la
   decisión adecuada sin perder el tiempo.
 keywords:
-  - 'apps vs cursos inglés cuál elegir'
-  - 'diferencia app curso inglés según objetivo'
+  - apps vs cursos inglés cuál elegir
+  - diferencia app curso inglés según objetivo
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 author: focus-english-team
 canonical: 'https://linguafly.app/blog/metodos/apps-vs-cursos-ingles'

@@ -1,7 +1,7 @@
 ---
 title: 'Will vs Would en Inglés: Cuándo Usar'
 date: '2026-02-16'
-updatedDate: '2026-03-20'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Will vs would en inglés: la diferencia real y cuándo usar cada uno. No son solo presente y pasado — aprende a distinguirlos en condicionales, peticiones formales y más.
@@ -10,7 +10,10 @@ alt: Estudiante aprendiendo la diferencia entre will y would en inglés
 readTime: 7 min
 keywords:
   - 'Will vs Would en Inglés: Cuándo Usar'
-  - 'will would diferencia ingles'
+  - will would diferencia ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   Will y would se parecen, pero no son simplemente presente y pasado. Will habla del futuro real; would habla de hipótesis, cortesía y hábitos pasados. Entender la diferencia cambia cómo suenas en inglés.
 faqs:

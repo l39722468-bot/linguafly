@@ -1,7 +1,7 @@
 ---
 title: 'Inglés para Ligar y Citas: Frases'
 date: '2026-03-08'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Inglés para ligar, citas y conocer gente: frases naturales para flirtear, hacer planes y hablar en apps de citas. Vocabulario auténtico que los nativos usan de verdad.
@@ -12,7 +12,10 @@ readTime: 13 min
 alt: Pareja joven conversando en una cafetería con ambiente íntimo
 keywords:
   - 'Inglés para Ligar y Citas: Frases'
-  - 'ingles para ligar y citas'
+  - ingles para ligar y citas
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 faqs:
   - question: ¿Cómo se dice "me gustas" en inglés?
     answer: >-

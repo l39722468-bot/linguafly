@@ -9,11 +9,14 @@ excerpt: >-
   necesitas un intercambio ni una clase para producir frases en voz alta todos los días.
   Estas ocho técnicas te dan estructura, repetición y feedback sin pagar a nadie.
 keywords:
-  - 'Cómo Practicar Speaking en Inglés Estando Solo'
-  - 'practicar speaking solo'
+  - Cómo Practicar Speaking en Inglés Estando Solo
+  - practicar speaking solo
+  - aprender inglés gratis
+  - practicar inglés gratis
+  - curso de inglés gratis
 author: focus-english-team
 date: '2026-04-16'
-updatedDate: '2026-04-16'
+updatedDate: '2026-08-31'
 alt: Persona hablando en inglés delante de un espejo con el móvil grabando
 category: habilidades
 faqs:

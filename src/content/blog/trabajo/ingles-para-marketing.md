@@ -1,7 +1,7 @@
 ---
 title: 'Inglés para Marketing: Vocabulario'
 date: '2026-02-18'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: >-
   Domina el inglés para marketing con el vocabulario profesional imprescindible:
@@ -12,7 +12,10 @@ readTime: 16 min
 alt: Equipo de marketing revisando gráficas y métricas en una pantalla grande de oficina
 keywords:
   - 'Inglés para Marketing: Vocabulario'
-  - 'ingles para marketing'
+  - ingles para marketing
+  - aprender inglés gratis
+  - inglés de negocios gratis
+  - curso de inglés gratis
 faqs:
   - question: ¿Por qué el inglés es tan importante en el sector del marketing?
     answer: >-

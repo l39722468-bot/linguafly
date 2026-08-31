@@ -1,7 +1,7 @@
 ---
 title: 'Cómo Responder Preguntas Difíciles en una Entrevista en Inglés'
 date: '2026-02-22'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Aprende a responder con confianza las preguntas más complicadas y comprometidas
@@ -13,8 +13,11 @@ canonical: >-
   https://linguafly.app/blog/trabajo/preguntas-dificiles-entrevista-trabajo-ingles
 readTime: 6 min
 keywords:
-  - 'preguntas difíciles entrevista trabajo inglés respuestas'
-  - 'cómo responder preguntas comprometidas entrevista inglés'
+  - preguntas difíciles entrevista trabajo inglés respuestas
+  - cómo responder preguntas comprometidas entrevista inglés
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 faqs:
   - question: ¿Cómo respondo a "Tell me about yourself" en inglés sin irme por las ramas?
     answer: >-

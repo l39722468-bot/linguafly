@@ -1,7 +1,7 @@
 ---
 title: 'Past Simple vs Past Continuous'
 date: '2026-02-25'
-updatedDate: '2026-02-25'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Aprende la diferencia entre Past Simple y Past Continuous en inglés: cuándo usar cada uno, cómo combinarlos para contar historias y los errores más frecuentes con ejemplos claros.
@@ -9,8 +9,11 @@ category: gramatica
 alt: Línea de tiempo mostrando la diferencia entre past simple y past continuous
 readTime: 7 min
 keywords:
-  - 'Past Simple vs Past Continuous'
-  - 'diferencia past simple past continuous'
+  - Past Simple vs Past Continuous
+  - diferencia past simple past continuous
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   El Past Continuous (was/were + -ing) y el Past Simple no son tiempos que compiten: se complementan. El continuous pinta el fondo de una historia; el simple narra los eventos que ocurren sobre ese fondo.
 faqs:

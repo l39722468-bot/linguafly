@@ -10,11 +10,14 @@ excerpt: >-
   llamada causativa, tiene una lógica muy concreta y aparece constantemente
   en inglés cotidiano y en exámenes Cambridge. Te la explicamos con calma.
 keywords:
-  - 'Have Something Done en Inglés'
-  - 'have something done ingles'
+  - Have Something Done en Inglés
+  - have something done ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-14'
-updatedDate: '2026-03-20'
+updatedDate: '2026-08-31'
 alt: Persona en peluqueria, ejemplo de have something done en ingles
 category: gramatica
 faqs:

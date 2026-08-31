@@ -11,10 +11,13 @@ excerpt: >-
   emails y situaciones de oficina.
 keywords:
   - 'Phrasal Verbs de Trabajo: 60 Verbos'
-  - 'phrasal verbs trabajo'
+  - phrasal verbs trabajo
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-03-06'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: 'Profesionales en reunión usando phrasal verbs de negocios en inglés'
 category: gramatica
 canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-trabajo'

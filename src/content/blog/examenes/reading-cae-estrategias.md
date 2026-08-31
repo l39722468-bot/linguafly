@@ -5,10 +5,13 @@ readTime: 8 min
 excerpt: "En el Reading del CAE el tiempo es el enemigo principal. Con la estrategia correcta para cada parte, puedes terminar con margen y obtener una puntuación que marque la diferencia."
 keywords:
   - 'Reading CAE: Cómo Abordar Cada Parte'
-  - 'como hacer reading cae'
+  - como hacer reading cae
+  - material de inglés gratis
+  - curso de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-07'
-updatedDate: '2026-03-07'
+updatedDate: '2026-08-31'
 category: examenes
 faqs:
   - question: "¿Cuántos textos hay en el Reading del CAE?"

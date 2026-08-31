@@ -10,11 +10,14 @@ excerpt: >-
   usarlos sin que suene a ejercicio de clase. Aquí te damos las frases,
   situaciones y trucos para que fluyan en conversación real.
 keywords:
-  - 'Condicionales en Inglés en Conversación Real'
-  - 'condicionales ingles conversacion'
+  - Condicionales en Inglés en Conversación Real
+  - condicionales ingles conversacion
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-22'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Dos personas conversando en inglés usando condicionales de forma natural
 category: gramatica
 faqs:

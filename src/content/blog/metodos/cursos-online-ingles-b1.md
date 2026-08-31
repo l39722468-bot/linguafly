@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-02-07'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Cursos Online de Inglés B1: Consigue'
 description: >-
@@ -11,7 +11,10 @@ description: >-
 readTime: 6 min
 keywords:
   - 'Cursos Online de Inglés B1: Consigue'
-  - 'cursos online ingles b1'
+  - cursos online ingles b1
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 canonical: 'https://linguafly.app/blog/metodos/cursos-online-ingles-b1'
 related_routes:
   - preparacion-examen-b1-cambridge

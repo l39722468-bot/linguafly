@@ -1,7 +1,7 @@
 ---
 title: 'Phrasal Verbs C1 Avanzados: Los Más Usados'
 date: '2026-02-21'
-updatedDate: '2026-02-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Phrasal verbs de nivel C1 para el CAE y el uso profesional: formas avanzadas en registro formal, escritura académica y conversación de alto nivel con ejemplos en contexto.
@@ -10,7 +10,10 @@ alt: Profesional revisando documentos con phrasal verbs avanzados en inglés
 readTime: 8 min
 keywords:
   - 'Phrasal Verbs C1 Avanzados: Los Más Usados'
-  - 'phrasal verbs avanzados'
+  - phrasal verbs avanzados
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 excerpt: >-
   A partir de C1, los phrasal verbs que importan son los que aparecen en contextos formales, académicos y profesionales. No son los más comunes, pero marcan la diferencia entre un inglés competente y uno realmente sofisticado.
 faqs:

@@ -10,10 +10,13 @@ excerpt: >-
   hay entre apps gratuitas y de suscripción para cada nivel, con datos reales
   de progresión y un veredicto honesto sobre cuándo merece la pena el gasto.
 keywords:
-  - 'apps inglés gratis vs pago diferencias'
-  - 'cuándo pagar suscripción app aprender inglés'
+  - apps inglés gratis vs pago diferencias
+  - cuándo pagar suscripción app aprender inglés
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 date: '2026-03-02'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 category: metodos
 author: focus-english-team
 canonical: 'https://linguafly.app/blog/metodos/apps-ingles-gratuitas-vs-pago'

@@ -10,10 +10,13 @@ excerpt: >-
   practicarlo de verdad.
 keywords:
   - 'Zero Conditional en Inglés: Cuándo'
-  - 'zero conditional ingles'
+  - zero conditional ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-02-04'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Estudiante anotando reglas del zero conditional en inglés en su cuaderno
 category: gramatica
 faqs:

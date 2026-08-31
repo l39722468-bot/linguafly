@@ -1,7 +1,7 @@
 ---
 category: trabajo
 date: '2026-03-02'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Vocabulario Inglés B1: Trabajo'
 description: >-
@@ -10,7 +10,10 @@ description: >-
 readTime: 7 min
 keywords:
   - 'Vocabulario Inglés B1: Trabajo'
-  - 'vocabulario trabajo ingles b1'
+  - vocabulario trabajo ingles b1
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 canonical: 'https://linguafly.app/blog/trabajo/vocabulario-b1-ingles-trabajo'
 related_routes:
   - ingles-b1

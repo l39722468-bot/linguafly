@@ -1,6 +1,7 @@
 ---
 title: 'Inglés para Restaurantes y Bares en el Extranjero'
 date: '2026-04-17'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Aprende todas las frases y vocabulario en inglés que necesitas para pedir en restaurantes y bares durante tus viajes. Desde reservar mesa hasta entender la carta de cócteles.
@@ -10,8 +11,11 @@ category: viajes
 readTime: 12 min
 alt: Viajero disfrutando de una cena en un restaurante al aire libre en el extranjero
 keywords:
-  - 'Inglés para Restaurantes y Bares en el Extranjero'
-  - 'ingles para restaurantes'
+  - Inglés para Restaurantes y Bares en el Extranjero
+  - ingles para restaurantes
+  - frases en inglés gratis
+  - aprender inglés gratis
+  - inglés para viajar gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-restaurantes-bares-viaje'
 faqs:
   - question: ¿Cómo pido una mesa en un restaurante en inglés?

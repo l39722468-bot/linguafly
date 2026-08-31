@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-02-07'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Curso de Inglés B2: Prepárate'
 description: >-
@@ -11,7 +11,10 @@ description: >-
 readTime: 5 min
 keywords:
   - 'Curso de Inglés B2: Prepárate'
-  - 'curso inglés b2'
+  - curso inglés b2
+  - curso de inglés gratis
+  - recursos para aprender inglés gratis
+  - clases de inglés gratis
 canonical: 'https://linguafly.app/blog/metodos/ingles-b2'
 related_routes:
   - ingles-b1

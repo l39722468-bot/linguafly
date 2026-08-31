@@ -10,11 +10,14 @@ excerpt: >-
   en inglés tienes dos opciones de pasiva y ambas son correctas. Te explicamos
   cuándo usar cada una y cuál suena más natural.
 keywords:
-  - 'Pasiva con Doble Objeto en Inglés'
-  - 'pasiva doble objeto ingles'
+  - Pasiva con Doble Objeto en Inglés
+  - pasiva doble objeto ingles
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-26'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Persona entregando un paquete, ilustrando verbos de doble objeto en pasiva inglés
 category: gramatica
 faqs:

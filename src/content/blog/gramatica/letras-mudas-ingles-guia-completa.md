@@ -1,7 +1,7 @@
 ---
 title: 'Letras Mudas en Inglés'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Letras mudas en inglés: guía completa con patrones y excepciones. Aprende por qué knife, Wednesday o psychology tienen letras silenciosas y cómo reconocerlas para mejorar tu pronunciación.
@@ -11,8 +11,11 @@ category: gramatica
 readTime: 9 min
 alt: Diccionario de inglés abierto con palabras resaltadas
 keywords:
-  - 'Letras Mudas en Inglés'
-  - 'palabras con letras mudas ingles'
+  - Letras Mudas en Inglés
+  - palabras con letras mudas ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 faqs:
   - question: ¿Por qué el inglés tiene tantas letras mudas?
     answer: >-

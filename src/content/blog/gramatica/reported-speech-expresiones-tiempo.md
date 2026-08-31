@@ -1,7 +1,7 @@
 ---
 title: 'Expresiones de Tiempo en Reported'
 date: '2026-02-10'
-updatedDate: '2026-02-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   En reported speech, las expresiones de tiempo y lugar cambian junto con el verbo. Aprende cuáles cambian, cómo y cuándo no es necesario cambiarlas, con ejemplos reales y tabla completa.
@@ -9,8 +9,11 @@ category: gramatica
 alt: Tabla de expresiones de tiempo en reported speech inglés
 readTime: 6 min
 keywords:
-  - 'Expresiones de Tiempo en Reported'
-  - 'expresiones tiempo reported speech'
+  - Expresiones de Tiempo en Reported
+  - expresiones tiempo reported speech
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   Cuando haces backshift del verbo en reported speech, también cambian las expresiones de tiempo y lugar. "Today" se convierte en "that day", "here" en "there", "tomorrow" en "the following day"... pero no siempre. Hay contextos donde estos cambios son opcionales.
 faqs:

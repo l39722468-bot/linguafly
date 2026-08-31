@@ -10,10 +10,13 @@ excerpt: >-
   por qué los nativos las prefieren en ciertos contextos.
 keywords:
   - 'Pasiva Impersonal en Inglés: It Is Said That'
-  - 'pasiva impersonal ingles'
+  - pasiva impersonal ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-11'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Pantalla de televisión con noticias en inglés usando pasiva impersonal
 category: gramatica
 faqs:

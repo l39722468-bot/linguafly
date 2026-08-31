@@ -1,7 +1,7 @@
 ---
 title: 'Negociación en Inglés: Estrategias'
 date: '2026-01-30'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: >-
   Negociar en inglés requiere algo más que vocabulario: requiere sutileza,
@@ -14,7 +14,10 @@ canonical: >-
   https://linguafly.app/blog/trabajo/negociacion-ingles-tecnicas-clave
 keywords:
   - 'Negociación en Inglés: Estrategias'
-  - 'negociación en inglés'
+  - negociación en inglés
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 faqs:
   - question: ¿Cómo puedo sonar firme pero educado en una negociación?
     answer: >-

@@ -1,7 +1,7 @@
 ---
 title: 'Inglés Universitario y Académico'
 date: '2026-02-28'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Domina el inglés académico universitario: escritura de ensayos, lectura de artículos científicos, participación en seminarios y comunicación con profesores. Guía completa para hispanohablantes en 2026.
@@ -11,8 +11,11 @@ category: examenes
 readTime: 17 min
 alt: Estudiante universitario tomando apuntes en una biblioteca con libros en inglés
 keywords:
-  - 'Inglés Universitario y Académico'
-  - 'ingles universitario academico'
+  - Inglés Universitario y Académico
+  - ingles universitario academico
+  - preparar inglés gratis
+  - material de inglés gratis
+  - curso de inglés gratis
 faqs:
   - question: ¿Qué nivel de inglés se necesita para estudiar en una universidad anglofona?
     answer: >-

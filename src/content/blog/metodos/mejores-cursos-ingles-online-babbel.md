@@ -1,7 +1,7 @@
 ---
 title: 'Babbel 2026: ¿válido para IELTS o Cambridge?'
 date: '2026-04-15'
-updatedDate: '2026-04-15'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: 'Babbel: lecciones cortas y buen precio para inglés general. Por qué no sustituye a un curso de examen y qué combinar (tutor, past papers) antes del test.'
 description: 'Análisis honesto de Babbel para quien busca mejores cursos de inglés online y piensa en exámenes oficiales: qué cubre, qué falta y cómo combinarlo.'
@@ -10,7 +10,10 @@ readTime: 8 min
 alt: 'Móvil con app de idiomas'
 keywords:
   - 'Babbel: ¿válido para IELTS o Cambridge?'
-  - 'babbel ingles opinion'
+  - babbel ingles opinion
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 faqs:
   - question: '¿Babbel prepara para el B2 First o el IELTS?'
     answer: >-

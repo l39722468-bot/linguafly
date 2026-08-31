@@ -7,11 +7,14 @@ readTime: 14 min
 excerpt: >-
   Imitar un acento no es teatro: es control articulatorio y conciencia fonética. Estos ejercicios te acercan a rasgos comunes del Hiberno-English sin convertirte en parodia.
 keywords:
-  - 'Ejercicios de Pronunciación'
-  - 'ejercicios pronunciacion acento irlandes'
+  - Ejercicios de Pronunciación
+  - ejercicios pronunciacion acento irlandes
+  - curso de inglés gratis
+  - recursos para aprender inglés gratis
+  - clases de inglés gratis
 author: focus-english-team
 date: '2026-03-29'
-updatedDate: '2026-03-29'
+updatedDate: '2026-08-31'
 alt: Estudiante practicando pronunciación frente al ordenador
 category: metodos
 faqs:

@@ -1,7 +1,7 @@
 ---
 title: 'Entonación en Inglés: Los Patrones'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Entonación en inglés: los patrones que te hacen sonar natural. Aprende a distinguir afirmaciones, preguntas, listas y énfasis para comunicarte con más fluidez y confianza.
@@ -12,7 +12,10 @@ readTime: 8 min
 alt: Onda sonora de la entonación del inglés hablado
 keywords:
   - 'Entonación en Inglés: Los Patrones'
-  - 'patrones entonacion ingles'
+  - patrones entonacion ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué es la entonación?
     answer: >-

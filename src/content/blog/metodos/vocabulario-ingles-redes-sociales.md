@@ -10,11 +10,14 @@ excerpt: >-
   esencial de Instagram, TikTok, YouTube, Twitter y más para comunicarte como un
   nativo digital.
 keywords:
-  - 'Vocabulario Inglés para Redes'
-  - 'vocabulario ingles redes sociales'
+  - Vocabulario Inglés para Redes
+  - vocabulario ingles redes sociales
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 author: focus-english-team
 date: '2026-03-04'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿Comentarios y Reacciones en Inglés?'

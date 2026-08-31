@@ -11,10 +11,13 @@ excerpt: >-
   un rechazo. Aquí tienes las herramientas para hacerlo bien.
 keywords:
   - 'Emails de Negociación en Inglés: Cómo'
-  - 'como negociar por email ingles'
+  - como negociar por email ingles
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 author: focus-english-team
 date: '2026-02-18'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Dos personas en reunión de negocios con ordenador revisando emails de negociación en inglés
 category: trabajo
 faqs:

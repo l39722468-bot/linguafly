@@ -9,10 +9,13 @@ excerpt: >-
   FSI. Con 1 hora diaria, son unos 2 años. Pero hay factores que lo aceleran
   mucho: te damos el desglose por nivel y el plan de estudio más eficiente.
 keywords:
-  - '¿Cuánto se tarda en aprender inglés'
-  - 'aprender ingles en 6 meses'
+  - ¿Cuánto se tarda en aprender inglés
+  - aprender ingles en 6 meses
+  - curso de inglés gratis
+  - recursos para aprender inglés gratis
+  - clases de inglés gratis
 date: '2024-02-03'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 author: focus-english-team
 faqs:

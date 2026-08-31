@@ -1,7 +1,7 @@
 ---
 title: 'Lingoda 2026: grupos en vivo y exámenes'
 date: '2026-04-15'
-updatedDate: '2026-04-15'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: 'Lingoda: grupos pequeños en vivo, maratones e intensivos. Speaking real frente a apps; qué añadir para IELTS/Cambridge y comparación con Preply 1:1.'
 description: 'Review Lingoda en la serie mejores cursos de inglés online: metodología por niveles, speaking en grupo, maratones y comparativa con tutorías individuales para exámenes.'
@@ -10,7 +10,10 @@ readTime: 8 min
 alt: 'Clase grupal de inglés online'
 keywords:
   - 'Lingoda: grupos en vivo y exámenes'
-  - 'lingoda opinion'
+  - lingoda opinion
+  - curso de inglés gratis
+  - recursos para aprender inglés gratis
+  - clases de inglés gratis
 faqs:
   - question: '¿Lingoda prepara específicamente para IELTS o Cambridge?'
     answer: >-

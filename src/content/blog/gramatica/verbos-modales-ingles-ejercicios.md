@@ -8,11 +8,14 @@ excerpt: >-
   ¿Quieres dominar los verbos modales en inglés con práctica real? Esta guía de
   ejercicios cubre todos los niveles, desde A2 hasta C1, con correcciones paso a paso.
 keywords:
-  - 'Ejercicios de Verbos Modales'
-  - 'verbos modales ingles ejercicios resueltos'
+  - Ejercicios de Verbos Modales
+  - verbos modales ingles ejercicios resueltos
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-04'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿Bloque 1 — Ejercicios de Nivel A2/B1?'

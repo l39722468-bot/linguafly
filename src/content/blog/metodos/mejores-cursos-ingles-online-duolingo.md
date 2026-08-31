@@ -1,7 +1,7 @@
 ---
 title: 'Duolingo 2026: insuficiente para IELTS solo'
 date: '2026-04-15'
-updatedDate: '2026-04-15'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: 'Duolingo: hábito diario y vocabulario vs writing largo y speaking examinado. Límites para certificaciones y combinación sensata con tutor o curso estructurado.'
 description: 'Análisis crítico de Duolingo como curso de inglés online: fortalezas, límites para certificaciones oficiales y cómo combinarlo sin perder tiempo antes del examen.'
@@ -10,7 +10,10 @@ readTime: 8 min
 alt: 'App Duolingo en pantalla de móvil'
 keywords:
   - 'Duolingo: insuficiente para IELTS solo'
-  - 'duolingo ingles examen'
+  - duolingo ingles examen
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 faqs:
   - question: '¿Duolingo English Test sustituye a IELTS o TOEFL?'
     answer: >-

@@ -1,7 +1,7 @@
 ---
 title: 'Inglés para Real Estate'
 date: '2026-03-12'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: >-
   Guía completa de inglés para el sector inmobiliario: vocabulario de compraventa, alquiler, contratos, negociación de propiedades y terminología técnica para agentes y compradores internacionales.
@@ -9,8 +9,11 @@ category: trabajo
 readTime: 17 min
 alt: Agente inmobiliario mostrando una propiedad moderna a clientes internacionales
 keywords:
-  - 'Inglés para Real Estate'
-  - 'real estate ingles'
+  - Inglés para Real Estate
+  - real estate ingles
+  - clases de inglés gratis
+  - aprender inglés gratis
+  - inglés de negocios gratis
 faqs:
   - question: ¿Cuál es la diferencia entre "Real Estate" y "Property"?
     answer: >-

@@ -1,7 +1,7 @@
 ---
 title: 'Cómo Combinar Apps de Inglés: Rutina Semanal por Nivel'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Cómo combinar apps de inglés de forma inteligente: rutinas semanales para A1, B1 y C1, qué app usar para cada habilidad y cómo medir tu progreso real en 2026.
@@ -11,8 +11,11 @@ category: metodos
 readTime: 11 min
 alt: Persona organizando su rutina de estudio de inglés con varias apps en el móvil y una agenda
 keywords:
-  - 'cómo combinar apps de inglés'
-  - 'rutina semanal apps inglés por nivel'
+  - cómo combinar apps de inglés
+  - rutina semanal apps inglés por nivel
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 faqs:
   - question: '¿Cuántas apps de inglés debo usar a la vez?'
     answer: >-

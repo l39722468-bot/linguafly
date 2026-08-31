@@ -1,7 +1,7 @@
 ---
 title: 'Inglés Australiano: Por Qué Suena Tan Distinto'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   El inglés australiano explicado: sistema de vocales único, vocabulario propio y características que lo hacen inconfundible. Guía práctica para entenderlo mejor.
@@ -12,7 +12,10 @@ readTime: 7 min
 alt: Mapa de Australia con símbolos lingüísticos representando el inglés australiano
 keywords:
   - 'Inglés Australiano: Por Qué Suena Tan Distinto'
-  - 'pronunciacion ingles australiano'
+  - pronunciacion ingles australiano
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 faqs:
   - question: ¿El inglés australiano es más parecido al británico o al americano?
     answer: >-

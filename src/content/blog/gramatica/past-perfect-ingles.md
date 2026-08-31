@@ -1,7 +1,7 @@
 ---
 title: 'Past Perfect en Inglés: Cuándo Usarlo'
 date: '2026-02-28'
-updatedDate: '2026-03-20'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Past Perfect en inglés: cuándo usarlo y por qué lo necesitas. Aprende a expresar lo que ocurrió antes de otro evento pasado con ejemplos prácticos y ejercicios para B2-C1.
@@ -10,7 +10,10 @@ alt: Línea de tiempo mostrando el Past Perfect en relación al Past Simple
 readTime: 9 min
 keywords:
   - 'Past Perfect en Inglés: Cuándo Usarlo'
-  - 'past perfect ingles'
+  - past perfect ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   El Past Perfect (had + participio) expresa algo que ocurrió antes que otra cosa en el pasado. Es el tiempo que aclara el orden de los eventos cuando dos cosas pasaron en momentos distintos del pasado.
 faqs:

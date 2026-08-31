@@ -11,10 +11,13 @@ excerpt: >-
   sorprende a cualquier inglés.
 keywords:
   - 'Slang Inglés Británico: 60'
-  - 'slang ingles britanico'
+  - slang ingles britanico
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 author: focus-english-team
 date: '2026-03-04'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿Por Qué Aprender Slang Británico?'

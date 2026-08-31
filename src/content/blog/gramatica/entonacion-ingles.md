@@ -11,10 +11,13 @@ excerpt: >-
   gramática, actitud y significado. Aquí tienes los patrones clave.
 keywords:
   - 'Entonación en Inglés: Cómo'
-  - 'entonación inglés'
+  - entonación inglés
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-07'
-updatedDate: '2026-02-07'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿Es verdad que el inglés tiene menos variación tonal que otros idiomas?'

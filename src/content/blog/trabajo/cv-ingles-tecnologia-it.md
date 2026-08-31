@@ -12,10 +12,13 @@ excerpt: >-
   lenguaje exacto.
 keywords:
   - 'CV en Inglés para Tecnología e IT: Guía y Plantilla'
-  - 'cv ingles tecnologia'
+  - cv ingles tecnologia
+  - clases de inglés gratis
+  - aprender inglés gratis
+  - inglés de negocios gratis
 author: focus-english-team
 date: '2026-04-19'
-updatedDate: '2026-04-19'
+updatedDate: '2026-08-31'
 alt: Desarrollador revisando su CV en inglés en un portátil sobre una mesa de oficina
 category: trabajo
 faqs:

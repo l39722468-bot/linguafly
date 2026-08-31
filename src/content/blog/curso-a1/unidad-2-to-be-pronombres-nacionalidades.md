@@ -1,7 +1,7 @@
 ---
 category: curso-a1
 date: '2026-07-31'
-updatedDate: '2026-07-31'
+updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Verbo To Be con He, She, It, We y They (A1): Pronombres y Nacionalidades'
 description: >-
@@ -17,6 +17,9 @@ keywords:
   - inglés A1 unidad 2
   - países en inglés
   - I am you are he is
+  - curso de inglés gratis
+  - curso inglés A1 gratis
+  - aprender inglés gratis
 canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades'
 image: /blog/curso-a1/unit-2/a1-unit2-to-be-chart.png
 alt: Tabla del verbo to be en inglés A1 con am, is y are para todos los pronombres

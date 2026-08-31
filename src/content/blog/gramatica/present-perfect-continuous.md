@@ -1,7 +1,7 @@
 ---
 title: 'Present Perfect Continuous: Cuándo'
 date: '2026-02-22'
-updatedDate: '2026-03-20'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Present Perfect Continuous en inglés: cuándo usarlo y en qué se diferencia del Present Perfect Simple. Guía con ejemplos claros, errores frecuentes y ejercicios resueltos.
@@ -10,7 +10,10 @@ alt: Persona estudiando la diferencia entre present perfect simple y continuous
 readTime: 6 min
 keywords:
   - 'Present Perfect Continuous: Cuándo'
-  - 'cuando usar present perfect continuous'
+  - cuando usar present perfect continuous
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   El Present Perfect Continuous (have/has been + -ing) expresa acciones que han estado ocurriendo hasta ahora. La diferencia con el simple no siempre es obvia, pero hay patrones claros que te ayudan a elegir.
 faqs:

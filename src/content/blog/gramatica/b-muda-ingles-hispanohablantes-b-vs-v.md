@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: '“B” muda en inglés y confusión b/v'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   practicar /b/ y /v/ en inglés sin interferencias.
 readTime: 22 min
 keywords:
-  - '“B” muda en inglés y confusión b/v'
-  - 'b muda ingles'
+  - “B” muda en inglés y confusión b/v
+  - b muda ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 alt: Profesor explicando en pizarra
 excerpt: >-
   Estrategias para separar tres mundos: b/v del español, /b/ y /v/ del inglés,

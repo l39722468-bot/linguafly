@@ -9,11 +9,14 @@ excerpt: >-
   tan suave que no surte efecto. Aquí tienes la fórmula para que sea firme,
   profesional y conseguir lo que buscas.
 keywords:
-  - 'Cómo Escribir un Email de Queja'
-  - 'como escribir queja en ingles'
+  - Cómo Escribir un Email de Queja
+  - como escribir queja en ingles
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-09'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Persona escribiendo un email de reclamación en inglés con expresión seria
 category: trabajo
 faqs:

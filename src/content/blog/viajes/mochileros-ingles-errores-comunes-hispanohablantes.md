@@ -1,7 +1,7 @@
 ---
 category: viajes
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Errores típicos del español al hablar'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   y pronunciación en situaciones de viaje real (hostels, transporte, calle).
 readTime: 22 min
 keywords:
-  - 'Errores típicos del español al hablar'
-  - 'errores inglés viaje'
+  - Errores típicos del español al hablar
+  - errores inglés viaje
+  - frases en inglés gratis
+  - aprender inglés gratis
+  - inglés para viajar gratis
 alt: Mochila de viaje sobre banco en estación
 excerpt: >-
   Guía de corrección para inglés de viaje: qué evitar, qué decir en su lugar y

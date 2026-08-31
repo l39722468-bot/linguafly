@@ -11,10 +11,13 @@ excerpt: >-
   inglés como un pro.
 keywords:
   - 'Inglés Gamer: Vocabulario'
-  - 'vocabulario gaming ingles'
+  - vocabulario gaming ingles
+  - curso de inglés gratis
+  - recursos para aprender inglés gratis
+  - clases de inglés gratis
 author: focus-english-team
 date: '2026-03-05'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿Expresiones de Chat y Comunicación en Partida?'

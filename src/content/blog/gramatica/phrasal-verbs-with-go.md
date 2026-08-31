@@ -1,7 +1,7 @@
 ---
 title: 'Phrasal Verbs con GO: Lista Completa'
 date: '2026-02-15'
-updatedDate: '2026-02-15'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Domina los phrasal verbs con GO: go on, go off, go through, go out, go ahead y más de 25 combinaciones esenciales con ejemplos claros y contexto real.
@@ -10,7 +10,10 @@ alt: Flechas de señalización que representan phrasal verbs con GO en inglés
 readTime: 8 min
 keywords:
   - 'Phrasal Verbs con GO: Lista Completa'
-  - 'go phrasal verbs lista completa'
+  - go phrasal verbs lista completa
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   GO parece simple, pero sus combinaciones con partículas cubren situaciones muy distintas: desde go off (explotar o sonar una alarma) hasta go through (pasar por algo difícil). Aquí tienes las más importantes con ejemplos reales.
 faqs:

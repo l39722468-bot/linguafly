@@ -9,11 +9,14 @@ excerpt: >-
   en pasiva aparecen constantemente en inglés formal y en exámenes. Aquí tienes
   la guía que necesitas.
 keywords:
-  - 'Pasiva con Verbos Modales en Inglés'
-  - 'pasiva verbos modales ingles'
+  - Pasiva con Verbos Modales en Inglés
+  - pasiva verbos modales ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-17'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Pizarra con estructuras de verbos modales en pasiva en inglés
 category: gramatica
 faqs:

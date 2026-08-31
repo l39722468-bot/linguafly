@@ -11,11 +11,14 @@ excerpt: >-
   profesionalidad; usar los incorrectos puede hacer que pierdas credibilidad
   aunque tu inglés sea bueno.
 keywords:
-  - 'vocabulario esencial entrevista trabajo inglés'
-  - 'palabras clave inglés profesional entrevista laboral'
+  - vocabulario esencial entrevista trabajo inglés
+  - palabras clave inglés profesional entrevista laboral
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-08'
-updatedDate: '2026-03-12'
+updatedDate: '2026-08-31'
 alt: Candidato estudiando vocabulario para entrevista de trabajo en inglés en su portátil
 category: trabajo
 faqs:

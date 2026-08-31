@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Reporting Verbs Patterns: Lista Completa'
 description: >-
@@ -11,7 +11,10 @@ description: >-
 readTime: 5 min
 keywords:
   - 'Reporting Verbs Patterns: Lista Completa'
-  - 'reporting verbs c1'
+  - reporting verbs c1
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 canonical: 'https://linguafly.app/blog/gramatica/reporting-verbs-patterns-list'
 alt: Lista de patrones de verbos de reporte
 faqs:

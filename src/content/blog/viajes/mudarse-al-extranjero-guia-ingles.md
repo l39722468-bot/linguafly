@@ -1,7 +1,7 @@
 ---
 title: 'Mudarse al Extranjero: Guía de Inglés'
 date: '2026-02-24'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   El inglés imprescindible para mudarte a un país angloparlante: buscar piso, banco, trámites, sanidad y vida diaria. Guía completa para expatriados hispanohablantes en 2026.
@@ -12,7 +12,10 @@ readTime: 18 min
 alt: Cajas de mudanza en un apartamento vacío con luz natural
 keywords:
   - 'Mudarse al Extranjero: Guía de Inglés'
-  - 'mudarse al extranjero guia ingles'
+  - mudarse al extranjero guia ingles
+  - aprender inglés gratis
+  - inglés para viajar gratis
+  - curso de inglés gratis
 faqs:
   - question: ¿Qué nivel de inglés necesito para vivir en un país angloparlante?
     answer: >-

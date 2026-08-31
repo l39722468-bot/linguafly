@@ -1,7 +1,7 @@
 ---
 category: trabajo
 date: '2026-02-07'
-updatedDate: '2026-03-07'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Inglés para el Trabajo: Cómo Destacar'
 description: >-
@@ -15,7 +15,10 @@ excerpt: >-
   las frases y las estrategias que realmente usa un profesional en entornos globales.
 keywords:
   - 'Inglés para el Trabajo: Cómo Destacar'
-  - 'inglés para el trabajo'
+  - inglés para el trabajo
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-trabajo'
 related_routes:
   - ingles-b1

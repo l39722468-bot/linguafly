@@ -11,11 +11,14 @@ excerpt: >-
   El Canadian Raising es el fenómeno fonético que define el acento canadiense
   y vale la pena entenderlo bien.
 keywords:
-  - 'El Acento Canadiense: Por Qué "About"'
-  - 'acento canadiense inglés'
+  - 'El Acento Canadiense: Por Qué "About'
+  - acento canadiense inglés
+  - curso de inglés gratis
+  - recursos para aprender inglés gratis
+  - clases de inglés gratis
 author: focus-english-team
 date: '2026-02-24'
-updatedDate: '2026-02-24'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿El acento canadiense es básicamente igual al americano?'

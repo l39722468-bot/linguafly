@@ -10,11 +10,14 @@ excerpt: >-
   es gestionar expectativas, anticipar problemas y demostrar control sobre
   el proyecto. Aquí tienes cómo estructurarlo.
 keywords:
-  - 'Emails de Actualización de Proyecto'
-  - 'email actualizacion proyecto ingles'
+  - Emails de Actualización de Proyecto
+  - email actualizacion proyecto ingles
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 author: focus-english-team
 date: '2026-02-27'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Persona escribiendo progress update de proyecto en inglés en reunión de equipo
 category: trabajo
 faqs:

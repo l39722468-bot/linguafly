@@ -1,7 +1,7 @@
 ---
 category: trabajo
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Telefonía y call center en inglés'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   espera en línea, transferencias, señal débil y cierre con resumen.
 readTime: 22 min
 keywords:
-  - 'Telefonía y call center en inglés'
-  - 'inglés call center'
+  - Telefonía y call center en inglés
+  - inglés call center
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 alt: Auriculares de call center sobre teclado
 excerpt: >-
   Guía de inglés telefónico para soporte: claridad, ritmo, confirmación de

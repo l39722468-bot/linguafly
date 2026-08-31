@@ -1,7 +1,7 @@
 ---
 title: '10 Errores en Emails Profesionales'
 date: '2026-02-20'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Descubre los errores más frecuentes al escribir correos profesionales en
@@ -13,8 +13,11 @@ canonical: >-
   https://linguafly.app/blog/trabajo/ingles-emails-trabajo-errores-comunes
 readTime: 5 min
 keywords:
-  - '10 Errores en Emails Profesionales'
-  - 'errores emails ingles trabajo'
+  - 10 Errores en Emails Profesionales
+  - errores emails ingles trabajo
+  - aprender inglés gratis
+  - inglés de negocios gratis
+  - curso de inglés gratis
 faqs:
   - question: ¿Es correcto usar "Dear All" para dirigirse a un grupo?
     answer: >-

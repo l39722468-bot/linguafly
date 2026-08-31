@@ -11,10 +11,13 @@ excerpt: >-
   con ejemplos reales y cómo no confundirlas en exámenes.
 keywords:
   - 'Wish e If Only en Inglés: Deseos'
-  - 'wish ingles'
+  - wish ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-02-19'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Persona mirando hacia fuera expresando deseos con wish e if only en inglés
 category: gramatica
 faqs:

@@ -1,7 +1,7 @@
 ---
 category: trabajo
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Saludos, tono y registro en atención'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   rígido: frases modelo para chat, email y mostrador en inglés de servicio.
 readTime: 22 min
 keywords:
-  - 'Saludos, tono y registro en atención'
-  - 'registro formal inglés'
+  - Saludos, tono y registro en atención
+  - registro formal inglés
+  - aprender inglés gratis
+  - inglés de negocios gratis
+  - curso de inglés gratis
 alt: Profesionales en oficina de atención
 excerpt: >-
   Guía práctica de inglés para soporte: opening lines, empatía, límites y

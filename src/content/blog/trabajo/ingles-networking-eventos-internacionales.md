@@ -1,7 +1,7 @@
 ---
 title: 'Networking en Inglés'
 date: '2026-01-30'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: >-
   ¿Te dan miedo las pausas incómodas en los eventos de networking? Domina el
@@ -15,8 +15,11 @@ alt: >-
 canonical: >-
   https://linguafly.app/blog/trabajo/ingles-networking-eventos-internacionales
 keywords:
-  - 'Networking en Inglés'
-  - 'frases networking inglés'
+  - Networking en Inglés
+  - frases networking inglés
+  - aprender inglés gratis
+  - inglés de negocios gratis
+  - curso de inglés gratis
 faqs:
   - question: ¿De qué puedo hablar en el 'small talk'?
     answer: >-

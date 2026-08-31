@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Excepciones y trampas ortográficas'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   palabras con b muda y consejos para no equivocarte al escribir en exámenes.
 readTime: 22 min
 keywords:
-  - 'Excepciones y trampas ortográficas'
-  - 'ortografía inglés excepciones'
+  - Excepciones y trampas ortográficas
+  - ortografía inglés excepciones
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 alt: Libro abierto sobre mesa
 excerpt: >-
   Evita trampas comunes: confundir *debit* y *debt*, olvidar la b en *doubt* o

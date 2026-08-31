@@ -10,11 +10,14 @@ excerpt: >-
   entiendan, aunque todas las demás consonantes y vocales sean perfectas. Aquí
   tienes las reglas principales para acertar con el acento de palabra.
 keywords:
-  - 'El Acento de Palabra en Inglés'
-  - 'acento palabra inglés'
+  - El Acento de Palabra en Inglés
+  - acento palabra inglés
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-17'
-updatedDate: '2026-02-17'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿Por qué el acento en inglés es tan importante para que te entiendan?'

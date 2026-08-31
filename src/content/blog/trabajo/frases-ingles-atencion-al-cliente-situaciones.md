@@ -1,7 +1,7 @@
 ---
 title: '50 Frases Esenciales de Inglés'
 date: '2026-03-06'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Colección de las 50 frases más utilizadas en atención al cliente en inglés.
@@ -13,8 +13,11 @@ canonical: >-
   https://linguafly.app/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones
 readTime: 6 min
 keywords:
-  - '50 Frases Esenciales de Inglés'
-  - 'frases utiles call center ingles'
+  - 50 Frases Esenciales de Inglés
+  - frases utiles call center ingles
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 faqs:
   - question: ¿Cómo digo "en este momento no puedo ayudarte con eso" en inglés de forma profesional?
     answer: >-

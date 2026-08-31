@@ -11,10 +11,13 @@ excerpt: >-
   que necesitas para hoteles en cualquier país anglófono.
 keywords:
   - 'Inglés para Hoteles: Vocabulario'
-  - 'ingles para hoteles'
+  - ingles para hoteles
+  - curso de inglés gratis
+  - frases en inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-04'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: viajes
 faqs:
   - question: '¿Frases que usarás en el check-in?'

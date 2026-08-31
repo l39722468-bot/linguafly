@@ -12,10 +12,13 @@ excerpt: >-
   palabra por separado.
 keywords:
   - 'Letras Mudas en Inglés: Lista y Reglas'
-  - 'letras mudas ingles'
+  - letras mudas ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-23'
-updatedDate: '2026-02-23'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿Por qué el inglés tiene tantas letras mudas?'

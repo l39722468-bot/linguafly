@@ -8,11 +8,14 @@ excerpt: >-
   Mejora tu acento y claridad al hablar. Guía académica con las reglas de
   pronunciación fundamentales, ejemplos de nivel Cambridge y lista de práctica.
 keywords:
-  - 'Reglas de Pronunciación en Inglés'
-  - 'reglas pronunciacion ingles'
+  - Reglas de Pronunciación en Inglés
+  - reglas pronunciacion ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 author: focus-english-team
 date: '2026-02-06'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿Vocales Cortas vs. Vocales Largas (Magic E): cuál es mejor?'

@@ -1,7 +1,7 @@
 ---
 category: examenes
 date: '2026-02-07'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Certificados de Inglés 2026'
 description: >-
@@ -14,8 +14,11 @@ excerpt: >-
   IELTS, Cambridge, TOEFL, Duolingo: te explicamos qué acepta cada institución,
   cuánto tardan los resultados y cuál te conviene según tu objetivo real.
 keywords:
-  - 'Certificados de Inglés'
-  - 'mejores certificados de inglés 2026'
+  - Certificados de Inglés
+  - mejores certificados de inglés 2026
+  - preparar inglés gratis
+  - material de inglés gratis
+  - curso de inglés gratis
 canonical: 'https://linguafly.app/blog/examenes/mejores-certificados-ingles-2026'
 related_routes:
   - cambridge-c1-advanced-guia

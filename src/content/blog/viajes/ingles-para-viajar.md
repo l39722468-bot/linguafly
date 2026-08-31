@@ -1,7 +1,7 @@
 ---
 category: viajes
 date: '2026-02-07'
-updatedDate: '2026-03-07'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Inglés para Viajar'
 description: >-
@@ -10,8 +10,11 @@ description: >-
   English.
 readTime: 5 min
 keywords:
-  - 'Inglés para Viajar'
-  - 'aprender ingles para viajar rapido'
+  - Inglés para Viajar
+  - aprender ingles para viajar rapido
+  - inglés para viajar gratis
+  - curso de inglés gratis
+  - frases en inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-para-viajar'
 related_routes:
   - ingles-a1

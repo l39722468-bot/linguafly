@@ -1,7 +1,7 @@
 ---
 title: 'Acentos del Inglés'
 date: '2026-03-06'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Guía de acentos del inglés: diferencias entre el británico (RP, Cockney), americano (General American, Southern), australiano, irlandés y más. Con ejemplos de pronunciación para hispanohablantes.
@@ -11,8 +11,11 @@ category: metodos
 readTime: 15 min
 alt: Banderas de países de habla inglesa sobre un fondo de un mapa del mundo
 keywords:
-  - 'Acentos del Inglés'
-  - 'ingles britanico vs americano acentos'
+  - Acentos del Inglés
+  - ingles britanico vs americano acentos
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 faqs:
   - question: ¿Cuál es el acento del inglés más fácil de entender para hispanohablantes?
     answer: >-

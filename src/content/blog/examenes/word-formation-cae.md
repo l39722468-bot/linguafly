@@ -5,10 +5,13 @@ readTime: 8 min
 excerpt: "La Parte 3 del Use of English no requiere suerte ni intuición: requiere conocer los patrones de formación de palabras en inglés. Una vez que los interiorizas, esta parte pasa de ser temida a ser una de las más seguras."
 keywords:
   - 'Word Formation CAE: Prefijos, Sufijos'
-  - 'word formation cae'
+  - word formation cae
+  - material de inglés gratis
+  - curso de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-15'
-updatedDate: '2026-03-15'
+updatedDate: '2026-08-31'
 category: examenes
 faqs:
   - question: "¿Qué categorías gramaticales aparecen en el word formation del CAE?"

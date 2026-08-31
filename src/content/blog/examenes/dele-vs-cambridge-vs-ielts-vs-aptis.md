@@ -1,7 +1,7 @@
 ---
 title: 'DELE vs Cambridge vs IELTS vs APTIS 2026'
 date: '2026-03-21'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 category: examenes
 readTime: 11 min
@@ -14,8 +14,11 @@ excerpt: >-
   Te explicamos cuál elegir según tu objetivo: oposición, trabajo, estudio en
   el extranjero o habilitación docente. Precios y reconocimiento en 2026.
 keywords:
-  - 'DELE vs Cambridge vs IELTS vs APTIS'
-  - 'aptis vs cambridge'
+  - DELE vs Cambridge vs IELTS vs APTIS
+  - aptis vs cambridge
+  - aprender inglés gratis
+  - preparar inglés gratis
+  - material de inglés gratis
 alt: 'Diplomas y certificados de inglés comparados sobre una mesa de trabajo'
 canonical: 'https://linguafly.app/blog/examenes/dele-vs-cambridge-vs-ielts-vs-aptis'
 faqs:

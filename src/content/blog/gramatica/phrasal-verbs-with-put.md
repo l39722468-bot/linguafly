@@ -11,10 +11,13 @@ excerpt: >-
   reales y la explicación de su lógica.
 keywords:
   - 'Phrasal Verbs con PUT: Lista Completa'
-  - 'put phrasal verbs lista'
+  - put phrasal verbs lista
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-03-06'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: 'Phrasal verbs con PUT en inglés: put off, put up, put on explicados'
 category: gramatica
 canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-with-put'

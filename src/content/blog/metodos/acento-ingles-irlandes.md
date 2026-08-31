@@ -12,10 +12,13 @@ excerpt: >-
   hacer al respecto.
 keywords:
   - 'El Acento Irlandés: Por Qué el Inglés'
-  - 'acento irlandés inglés'
+  - acento irlandés inglés
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 author: focus-english-team
 date: '2026-02-12'
-updatedDate: '2026-02-12'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿El acento irlandés es difícil de entender para hispanohablantes?'

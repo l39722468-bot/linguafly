@@ -10,10 +10,13 @@ excerpt: >-
   aprobado raspado a una puntuación excepcional en el examen C1 Advanced de
   Cambridge.
 keywords:
-  - 'Trucos para Aprobar el Writing del C1'
-  - 'trucos writing c1 advanced'
+  - Trucos para Aprobar el Writing del C1
+  - trucos writing c1 advanced
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - preparar inglés gratis
 date: '2026-02-05'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: examenes
 author: focus-english-team
 faqs:

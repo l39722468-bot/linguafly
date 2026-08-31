@@ -11,11 +11,14 @@ excerpt: >-
   la izquierda. Esta guía reúne el vocabulario y las frases que marcan la
   diferencia.
 keywords:
-  - 'Inglés para Alquilar un Coche en el Extranjero'
-  - 'ingles alquilar coche'
+  - Inglés para Alquilar un Coche en el Extranjero
+  - ingles alquilar coche
+  - aprender inglés gratis
+  - inglés para viajar gratis
+  - curso de inglés gratis
 author: focus-english-team
 date: '2026-04-19'
-updatedDate: '2026-04-19'
+updatedDate: '2026-08-31'
 alt: Turista recogiendo llaves de un coche de alquiler en un mostrador de aeropuerto
 category: viajes
 faqs:

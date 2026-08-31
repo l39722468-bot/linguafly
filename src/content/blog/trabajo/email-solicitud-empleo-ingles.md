@@ -10,11 +10,14 @@ excerpt: >-
   reclutador. Si suena genérico o tiene errores, el CV pasa a la papelera
   sin abrirse. Aquí tienes cómo hacerlo bien.
 keywords:
-  - 'Email de Solicitud de Empleo'
-  - 'email solicitud empleo ingles'
+  - Email de Solicitud de Empleo
+  - email solicitud empleo ingles
+  - clases de inglés gratis
+  - aprender inglés gratis
+  - inglés de negocios gratis
 author: focus-english-team
 date: '2026-02-21'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Persona enviando email de solicitud de empleo en inglés con su CV adjunto
 category: trabajo
 faqs:

@@ -1,7 +1,7 @@
 ---
 title: 'El Inglés del Sur de Estados Unidos'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   El inglés del sur de Estados Unidos: características del Southern American English, vocales largas, expresiones propias y cómo entender este acento en series y películas.
@@ -11,8 +11,11 @@ category: gramatica
 readTime: 7 min
 alt: Ciudad del sur de Estados Unidos representando el inglés sureño americano
 keywords:
-  - 'El Inglés del Sur de Estados Unidos'
-  - 'ingles sur estados unidos'
+  - El Inglés del Sur de Estados Unidos
+  - ingles sur estados unidos
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 faqs:
   - question: ¿El "Southern accent" es un único acento o hay variedad dentro?
     answer: >-

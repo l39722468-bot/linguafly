@@ -10,11 +10,14 @@ excerpt: >-
   Es práctica con los ejercicios correctos. Aquí tienes los que dan resultados
   de verdad, organizados por lo que quieres mejorar.
 keywords:
-  - 'Ejercicios de Pronunciación en Inglés'
-  - 'ejercicios pronunciación inglés'
+  - Ejercicios de Pronunciación en Inglés
+  - ejercicios pronunciación inglés
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-19'
-updatedDate: '2026-02-19'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿Cuánto tiempo tardaré en notar mejoría en mi pronunciación?'

@@ -1,7 +1,7 @@
 ---
 title: 'Past Simple en Inglés: Cuándo Usarlo'
 date: '2026-02-07'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Guía completa del Past Simple en inglés: cuándo usarlo, cómo formarlo con verbos regulares e irregulares, marcadores de tiempo y los errores más comunes de los hablantes de español.
@@ -10,7 +10,10 @@ alt: Cuaderno con conjugaciones del Past Simple en inglés
 readTime: 7 min
 keywords:
   - 'Past Simple en Inglés: Cuándo Usarlo'
-  - 'past simple ingles'
+  - past simple ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 excerpt: >-
   El Past Simple es el tiempo de pasado más usado en inglés para contar lo que pasó. Sus reglas son claras, aunque los verbos irregulares requieren memorización. Aquí tienes todo lo que necesitas para usarlo sin dudar.
 faqs:

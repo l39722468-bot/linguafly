@@ -1,7 +1,7 @@
 ---
 title: 'Inglés para Recepcionistas 2026'
 date: '2026-02-06'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Inglés profesional para recepcionistas de hotel: reservas, check-in, reclamaciones y peticiones de huéspedes en inglés. Todo lo que necesitas para dar una atención de 5 estrellas.
@@ -13,8 +13,11 @@ category: viajes
 readTime: 15 min
 alt: Recepcionista de hotel profesional atendiendo una llamada y sonriendo
 keywords:
-  - 'Inglés para Recepcionistas'
-  - 'inglés para hoteles'
+  - Inglés para Recepcionistas
+  - inglés para hoteles
+  - aprender inglés gratis
+  - inglés para viajar gratis
+  - curso de inglés gratis
 faqs:
   - question: ¿Cómo pido el pasaporte de forma educada?
     answer: >-

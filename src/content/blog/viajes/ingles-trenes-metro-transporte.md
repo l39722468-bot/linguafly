@@ -1,6 +1,7 @@
 ---
 title: 'Inglés para Trenes, Metro y Transporte Público'
 date: '2026-04-17'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Frases y vocabulario en inglés para usar trenes, metro y autobuses en tus viajes. Comprar billetes, entender horarios, hacer transbordos y resolver incidencias.
@@ -10,8 +11,11 @@ category: viajes
 readTime: 10 min
 alt: Viajero consultando un mapa de metro en una estación internacional
 keywords:
-  - 'Inglés para Trenes, Metro y Transporte Público'
-  - 'ingles para trenes'
+  - Inglés para Trenes, Metro y Transporte Público
+  - ingles para trenes
+  - aprender inglés gratis
+  - inglés para viajar gratis
+  - curso de inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-trenes-metro-transporte'
 faqs:
   - question: ¿Cómo compro un billete de tren en inglés?

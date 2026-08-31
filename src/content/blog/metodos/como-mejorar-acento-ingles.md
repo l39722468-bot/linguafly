@@ -12,10 +12,13 @@ excerpt: >-
   importa.
 keywords:
   - 'Cómo Mejorar tu Acento en Inglés: Lo'
-  - 'mejorar acento inglés'
+  - mejorar acento inglés
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 author: focus-english-team
 date: '2026-02-25'
-updatedDate: '2026-02-25'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿Es posible eliminar completamente el acento extranjero en inglés?'

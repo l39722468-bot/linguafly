@@ -1,7 +1,7 @@
 ---
 title: 'Curso de Inglés Gratis: Los Mejores'
 date: '2026-03-20'
-updatedDate: '2026-03-20'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: 'Descubre los mejores cursos de inglés gratuitos online en 2026: BBC Learning English, British Council, Duolingo, YouTube educativo y más. Con plan de estudio de 6 meses.'
 description: 'Guía completa de los mejores cursos de inglés 100% gratuitos online: recursos del British Council, BBC Learning English, Duolingo y el plan gratuito de Linguafly. Incluye plan de estudio por niveles.'
@@ -9,8 +9,14 @@ category: metodos
 readTime: 9 min
 alt: 'Persona estudiando inglés gratis desde casa con el ordenador'
 keywords:
-  - 'Curso de Inglés Gratis: Los Mejores'
-  - 'curso inglés gratis'
+  - curso de inglés gratis
+  - curso inglés gratis
+  - mejores cursos de inglés gratis
+  - aprender inglés gratis
+  - clases de inglés gratis
+  - curso de inglés online gratis
+  - recursos para aprender inglés gratis
+  - curso inglés gratis 2026
 faqs:
   - question: '¿Se puede aprender inglés de cero de forma totalmente gratuita?'
     answer: >-

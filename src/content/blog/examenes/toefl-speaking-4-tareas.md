@@ -11,10 +11,13 @@ excerpt: >-
   estructura y qué errores te bajan del 26 al 22.
 keywords:
   - 'TOEFL Speaking: Las 4 Tareas Explicadas con Ejemplos'
-  - 'tareas toefl speaking'
+  - tareas toefl speaking
+  - preparar inglés gratis
+  - material de inglés gratis
+  - curso de inglés gratis
 author: focus-english-team
 date: '2026-04-18'
-updatedDate: '2026-04-18'
+updatedDate: '2026-08-31'
 alt: Candidato grabando respuestas de TOEFL Speaking con auriculares y micrófono
 category: examenes
 faqs:

@@ -1,7 +1,7 @@
 ---
 title: '20 Plantillas de Emails Profesionales'
 date: '2026-02-15'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Descarga y adapta las 20 plantillas de emails profesionales en inglés más
@@ -13,8 +13,11 @@ canonical: >-
   https://linguafly.app/blog/trabajo/plantillas-emails-profesionales-ingles
 readTime: 5 min
 keywords:
-  - '20 Plantillas de Emails Profesionales'
-  - 'emails profesionales ingles'
+  - 20 Plantillas de Emails Profesionales
+  - emails profesionales ingles
+  - aprender inglés gratis
+  - inglés de negocios gratis
+  - curso de inglés gratis
 faqs:
   - question: ¿Cuál es la diferencia entre "Kind regards" y "Best regards"?
     answer: >-

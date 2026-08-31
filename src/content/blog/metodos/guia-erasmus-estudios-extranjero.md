@@ -1,7 +1,7 @@
 ---
 title: 'Guía Erasmus y Estudios'
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Guía Erasmus en inglés: vocabulario para la universidad extranjera, vida en residencia, campus y cómo aprovechar al máximo tu intercambio académico. Todo lo que necesitas saber antes de irte.
@@ -11,8 +11,11 @@ category: metodos
 readTime: 16 min
 alt: Campus universitario europeo con estudiantes caminando entre edificios históricos
 keywords:
-  - 'Guía Erasmus y Estudios'
-  - 'guia erasmus estudios extranjero'
+  - Guía Erasmus y Estudios
+  - guia erasmus estudios extranjero
+  - curso de inglés gratis
+  - curso inglés gratis online
+  - recursos para aprender inglés gratis
 faqs:
   - question: ¿Qué nivel de inglés necesito para hacer un Erasmus en un país de habla inglesa?
     answer: >-

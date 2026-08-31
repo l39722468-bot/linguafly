@@ -5,10 +5,13 @@ readTime: 9 min
 excerpt: "Las Key Word Transformations son la parte del CAE que más candidatos suspenden y más nota discrimina. Conocer los patrones que usa Cambridge te permite resolverlas con mucha más seguridad."
 keywords:
   - 'Key Word Transformations CAE: Domina'
-  - 'key word transformations cae'
+  - key word transformations cae
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - preparar inglés gratis
 author: focus-english-team
 date: '2026-03-17'
-updatedDate: '2026-03-17'
+updatedDate: '2026-08-31'
 category: examenes
 faqs:
   - question: "¿Cuántas palabras puedo usar en las Key Word Transformations del CAE?"

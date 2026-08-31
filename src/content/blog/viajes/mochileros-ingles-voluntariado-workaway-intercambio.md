@@ -1,7 +1,7 @@
 ---
 category: viajes
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Inglés para mochileros'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   presentación de habilidades, horarios, seguridad y comunicación profesional informal.
 readTime: 22 min
 keywords:
-  - 'Inglés para mochileros'
-  - 'aprender inglés para mochileros'
+  - Inglés para mochileros
+  - aprender inglés para mochileros
+  - frases en inglés gratis
+  - aprender inglés gratis
+  - inglés para viajar gratis
 alt: Personas colaborando en proyecto comunitario al aire libre
 excerpt: >-
   Frases y estrategias en inglés para acuerdos de voluntariado: expectativas,

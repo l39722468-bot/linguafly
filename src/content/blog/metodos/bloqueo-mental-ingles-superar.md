@@ -10,11 +10,14 @@ excerpt: >-
   causas reales y las estrategias más efectivas para superarlo y alcanzar la
   fluidez que buscas.
 keywords:
-  - 'Cómo Superar el Bloqueo Mental'
-  - 'bloqueo mental ingles'
+  - Cómo Superar el Bloqueo Mental
+  - bloqueo mental ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 author: focus-english-team
 date: '2026-03-05'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: 'Por Qué Nos Bloqueamos al Hablar Inglés?'

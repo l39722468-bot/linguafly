@@ -1,7 +1,7 @@
 ---
 title: 'Aptis Advanced C1'
 date: '2026-03-03'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Todo lo que necesitas saber sobre el Aptis Advanced del British Council para
@@ -13,8 +13,11 @@ canonical: >-
   https://linguafly.app/blog/examenes/aptis-advanced-c1-guia
 readTime: 5 min
 keywords:
-  - 'Aptis Advanced C1'
-  - 'preparar aptis advanced'
+  - Aptis Advanced C1
+  - preparar aptis advanced
+  - aprender inglés gratis
+  - preparar inglés gratis
+  - material de inglés gratis
 faqs:
   - question: ¿Cuál es la diferencia entre Aptis General y Aptis Advanced?
     answer: >-

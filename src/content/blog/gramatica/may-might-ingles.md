@@ -1,7 +1,7 @@
 ---
 title: 'May y Might en Inglés: Cómo Expresar'
 date: '2026-02-10'
-updatedDate: '2026-02-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Aprende a usar may y might en inglés para hablar de posibilidad, probabilidad e incertidumbre. Con ejemplos reales, comparativas y los errores más comunes.
@@ -10,7 +10,10 @@ alt: Persona expresando incertidumbre aprendiendo may y might en inglés
 readTime: 6 min
 keywords:
   - 'May y Might en Inglés: Cómo Expresar'
-  - 'may might ingles diferencia'
+  - may might ingles diferencia
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 excerpt: >-
   May y might son los dos modales que más se parecen entre sí. Ambos expresan posibilidad, pero hay diferencias de grado, de registro y de uso que vale la pena conocer. Especialmente en los usos de may para permiso y en las formas perfectas.
 faqs:

@@ -1,7 +1,7 @@
 ---
 title: 'Will para Ofrecimientos y Peticiones'
 date: '2026-03-21'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Will para ofrecimientos y peticiones en inglés: estructuras, ejemplos y diferencias con otros auxiliares. Guía práctica para hablar de forma natural en situaciones cotidianas.
@@ -9,8 +9,11 @@ category: gramatica
 alt: Dos personas hablando en inglés, uno haciendo un ofrecimiento
 readTime: 7 min
 keywords:
-  - 'Will para Ofrecimientos y Peticiones'
-  - 'will ofrecimientos ingles'
+  - Will para Ofrecimientos y Peticiones
+  - will ofrecimientos ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   Will en inglés sirve para hacer ofrecimientos espontáneos y peticiones directas. Aprende las estructuras más usadas, cómo sonar natural y la diferencia entre will y would en estos contextos.
 faqs:

@@ -1,7 +1,7 @@
 ---
 category: viajes
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Inglés para mochileros en aeropuertos'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   declaraciones, vuelos con escala y situaciones frecuentes sin pánico.
 readTime: 15 min
 keywords:
-  - 'Inglés para mochileros en aeropuertos'
-  - 'aprender inglés para mochileros'
+  - Inglés para mochileros en aeropuertos
+  - aprender inglés para mochileros
+  - aprender inglés gratis
+  - inglés para viajar gratis
+  - curso de inglés gratis
 alt: Avión aterrizando vista desde ventanilla
 excerpt: >-
   Domina el inglés que necesitas en aeropuertos y controles fronterizos: colas,

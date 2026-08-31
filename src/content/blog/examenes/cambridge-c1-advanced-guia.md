@@ -1,7 +1,7 @@
 ---
 category: examenes
 date: '2026-02-07'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 alt: "Estudiante de nivel avanzado preparando su examen C1 Advanced"
 title: 'Guía C1 Advanced (CAE): Estrategias'
@@ -16,7 +16,10 @@ excerpt: >-
   los trucos para el Use of English y el vocabulario que separa el Grade C del Grade A.
 keywords:
   - 'Guía C1 Advanced (CAE): Estrategias'
-  - 'speaking cae estrategias'
+  - speaking cae estrategias
+  - preparar inglés gratis
+  - material de inglés gratis
+  - curso de inglés gratis
 faqs:
   - question: '¿Qué diferencia al C1 Advanced (CAE) del B2 First en términos de exigencia?'
     answer: 'En el B2, el objetivo principal es la corrección gramatical. En el C1, se espera sofisticación, matices y flexibilidad lingüística. Los examinadores buscan estructuras de énfasis como inversiones, cleft sentences y participle clauses, además de vocabulario preciso e idioms avanzados en lugar de palabras genéricas como "good" o "bad".'

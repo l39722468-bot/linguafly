@@ -11,10 +11,13 @@ excerpt: >-
   70 slang más usados en EE.UU. en 2026.
 keywords:
   - 'Slang Americano: 70 Expresiones'
-  - 'slang americano'
+  - slang americano
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-05'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿Frases Completas para Sonarte Natural?'

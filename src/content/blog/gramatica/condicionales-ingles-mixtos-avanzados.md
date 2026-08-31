@@ -10,11 +10,14 @@ excerpt: >-
   Aprende cuándo y cómo usarlos con esta guía avanzada llena de ejemplos reales
   y ejercicios resueltos.
 keywords:
-  - 'Condicionales Mixtos en Inglés'
-  - 'condicionales mixtos ingles'
+  - Condicionales Mixtos en Inglés
+  - condicionales mixtos ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-05'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿Qué son los Mixed Conditionals?'

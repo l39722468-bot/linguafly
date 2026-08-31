@@ -10,10 +10,13 @@ excerpt: >-
   origen, el uso y las reglas de los acrónimos y slang más populares de internet
   en inglés.
 keywords:
-  - '¿Qué significa TBT?'
-  - 'tbt significado'
+  - ¿Qué significa TBT?
+  - tbt significado
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 date: '2024-02-04'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 author: focus-english-team
 faqs:

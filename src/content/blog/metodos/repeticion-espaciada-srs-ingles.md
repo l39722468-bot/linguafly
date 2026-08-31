@@ -1,7 +1,7 @@
 ---
 title: 'Repetición Espaciada para Aprender'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   La repetición espaciada (SRS) es el método más eficaz para memorizar vocabulario en inglés. Aprende qué es la curva del olvido, cómo funciona el algoritmo SM-2 y qué apps lo usan mejor en 2026.
@@ -11,8 +11,11 @@ category: metodos
 readTime: 11 min
 alt: Persona estudiando inglés con tarjetas de vocabulario y notas en una mesa
 keywords:
-  - 'Repetición Espaciada para Aprender'
-  - 'repetición espaciada inglés'
+  - Repetición Espaciada para Aprender
+  - repetición espaciada inglés
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso inglés gratis online
 faqs:
   - question: '¿Qué es exactamente la repetición espaciada?'
     answer: >-

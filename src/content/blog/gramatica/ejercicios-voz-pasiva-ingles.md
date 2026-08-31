@@ -10,11 +10,14 @@ excerpt: >-
   pasiva en inglés organizados por dificultad, con sus soluciones explicadas
   para que entiendas exactamente qué y por qué.
 keywords:
-  - 'Ejercicios de Voz Pasiva en Inglés'
-  - 'ejercicios voz pasiva ingles soluciones'
+  - Ejercicios de Voz Pasiva en Inglés
+  - ejercicios voz pasiva ingles soluciones
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-10'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Estudiante completando ejercicios de gramática inglesa en papel con bolígrafo
 category: gramatica
 faqs:

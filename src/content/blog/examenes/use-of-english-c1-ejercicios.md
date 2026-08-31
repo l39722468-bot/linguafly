@@ -5,10 +5,13 @@ readTime: 8 min
 excerpt: "El Use of English del CAE es donde se gana o se pierde el examen. Aprende a leer cada parte de manera diferente y evita los errores que cometen la mayoría de candidatos."
 keywords:
   - 'Use of English C1: Ejercicios'
-  - 'cae reading use of english'
+  - cae reading use of english
+  - aprender inglés gratis
+  - preparar inglés gratis
+  - material de inglés gratis
 author: focus-english-team
 date: '2026-03-05'
-updatedDate: '2026-03-05'
+updatedDate: '2026-08-31'
 category: examenes
 faqs:
   - question: "¿Cuánto tiempo tengo para el Reading and Use of English del CAE?"

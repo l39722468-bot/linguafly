@@ -10,10 +10,13 @@ excerpt: >-
   entre cerrar un trato y que el correo muera en la bandeja de entrada.
 keywords:
   - 'Follow-Up Email en Inglés: Cómo Hacer'
-  - 'follow up email ingles'
+  - follow up email ingles
+  - aprender inglés gratis
+  - inglés de negocios gratis
+  - curso de inglés gratis
 author: focus-english-team
 date: '2026-02-12'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Persona revisando correos electrónicos en busca de respuesta, follow-up email en inglés
 category: trabajo
 faqs:

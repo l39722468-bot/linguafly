@@ -10,10 +10,13 @@ excerpt: >-
   con matices reales.
 keywords:
   - 'First Conditional en Inglés: Usos Reales'
-  - 'first conditional ingles'
+  - first conditional ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-07'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Persona estudiando el first conditional en inglés con ejemplos de conversación
 category: gramatica
 faqs:

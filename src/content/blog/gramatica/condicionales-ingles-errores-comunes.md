@@ -10,11 +10,14 @@ excerpt: >-
   ¿Mezclas el segundo y el tercer condicional? Aquí están los errores que
   más cuestan puntos en exámenes y credibilidad en conversación.
 keywords:
-  - 'Errores Comunes con los Condicionales'
-  - 'errores condicionales ingles'
+  - Errores Comunes con los Condicionales
+  - errores condicionales ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-02-25'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Lista de errores comunes con los condicionales en inglés marcados en rojo
 category: gramatica
 faqs:

@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-03-10'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Gramática Inglesa'
 description: >-
@@ -13,8 +13,11 @@ excerpt: >-
   A1 a C2. Elige tu nivel y profundiza en cada estructura con nuestras guías
   especializadas.
 keywords:
-  - 'Gramática Inglesa'
-  - 'gramatica ingles por niveles'
+  - Gramática Inglesa
+  - gramatica ingles por niveles
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 readTime: 18 min
 alt: 'Guía completa de gramática inglesa de A1 a C2'
 canonical: 'https://linguafly.app/blog/gramatica/gramatica-inglesa-guia'

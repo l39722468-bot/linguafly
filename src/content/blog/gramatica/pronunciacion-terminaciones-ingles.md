@@ -10,11 +10,14 @@ excerpt: >-
   del pasado tiene tres pronunciaciones distintas, la -s del plural tiene dos,
   y hay reglas claras para saber cuál usar en cada caso. Aquí están todas.
 keywords:
-  - 'Cómo se Pronuncian las Terminaciones'
-  - 'pronunciación terminaciones inglés'
+  - Cómo se Pronuncian las Terminaciones
+  - pronunciación terminaciones inglés
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-02-28'
-updatedDate: '2026-02-28'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿Por qué la -ed del pasado a veces suena como /t/ y otras veces como /d/?'

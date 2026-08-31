@@ -1,7 +1,7 @@
 ---
 title: 'IELTS por Ordenador vs en Papel'
 date: '2026-03-01'
-updatedDate: '2026-03-01'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Comparativa completa entre el IELTS Computer-Delivered y el IELTS en papel: diferencias en cada sección, ventajas e inconvenientes de cada formato, y cuál conviene según tu perfil.
@@ -9,8 +9,11 @@ category: examenes
 alt: Ordenador portátil y cuaderno sobre una mesa, representando los dos formatos del IELTS
 readTime: 6 min
 keywords:
-  - 'IELTS por Ordenador vs en Papel'
-  - 'ielts computer vs papel'
+  - IELTS por Ordenador vs en Papel
+  - ielts computer vs papel
+  - material de inglés gratis
+  - curso de inglés gratis
+  - aprender inglés gratis
 excerpt: >-
   El IELTS se puede hacer en papel o por ordenador. El examen es el mismo, los criterios son los mismos y la nota tiene el mismo valor. Pero la experiencia es bastante diferente y elegir bien puede afectar a tu resultado.
 faqs:

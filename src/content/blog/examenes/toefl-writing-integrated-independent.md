@@ -11,10 +11,13 @@ excerpt: >-
   adecuada y algo de práctica, un 25/30 es perfectamente alcanzable.
 keywords:
   - 'TOEFL Writing: Integrated e Independent Explicados'
-  - 'toefl integrated writing'
+  - toefl integrated writing
+  - material de inglés gratis
+  - curso de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-04-17'
-updatedDate: '2026-04-17'
+updatedDate: '2026-08-31'
 alt: Candidato realizando el TOEFL Writing en un ordenador de centro examinador
 category: examenes
 faqs:

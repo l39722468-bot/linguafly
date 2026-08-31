@@ -1,7 +1,7 @@
 ---
 category: curso-a1
 date: '2026-07-31'
-updatedDate: '2026-07-31'
+updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Saludos en Inglés y Cómo Presentarse (A1): Guía Completa con Ejercicios'
 description: >-
@@ -17,6 +17,9 @@ keywords:
   - verbo to be I you
   - my name is inglés
   - cómo saludar en inglés
+  - curso de inglés gratis
+  - curso inglés A1 gratis
+  - aprender inglés gratis
 canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-1-saludos-presentarse'
 image: /blog/curso-a1/unit-1/a1-unit1-self-introduction-formula.png
 alt: Esquema para presentarse en inglés nivel A1 con saludo, nombre, origen y profesión

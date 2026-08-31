@@ -4,11 +4,14 @@ description: "Aprende a escribir el ensayo obligatorio del C1 Advanced paso a pa
 readTime: 8 min
 excerpt: "El essay del CAE es el único texto obligatorio del Writing. Aquí tienes la estructura que funciona, el vocabulario que buscan los examinadores y los errores que bajan la nota aunque tengas un nivel alto."
 keywords:
-  - 'Cómo Escribir el Essay del CAE'
-  - 'como escribir essay c1 advanced'
+  - Cómo Escribir el Essay del CAE
+  - como escribir essay c1 advanced
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - preparar inglés gratis
 author: focus-english-team
 date: '2026-03-19'
-updatedDate: '2026-03-19'
+updatedDate: '2026-08-31'
 category: examenes
 faqs:
   - question: "¿Cuántos puntos del enunciado tengo que tratar en el essay del CAE?"

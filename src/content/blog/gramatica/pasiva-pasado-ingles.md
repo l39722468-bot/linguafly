@@ -8,11 +8,14 @@ excerpt: >-
   La pasiva en pasado es de las estructuras que más aparecen en textos históricos,
   noticias y redacciones formales. Te explicamos cómo funciona sin enredarte.
 keywords:
-  - 'Voz Pasiva en Pasado en Inglés'
-  - 'voz pasiva pasado ingles'
+  - Voz Pasiva en Pasado en Inglés
+  - voz pasiva pasado ingles
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-02-08'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Libro de historia abierto con ejemplos de voz pasiva en inglés en pasado
 category: gramatica
 faqs:

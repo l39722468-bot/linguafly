@@ -1,7 +1,7 @@
 ---
 title: 'Cómo Preparar el IELTS desde B2 en 3 Meses'
 date: '2026-03-05'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Guía completa para preparar el IELTS en 2026. Plan de estudio de 12 semanas,
@@ -17,8 +17,11 @@ canonical: >-
   https://linguafly.app/blog/examenes/preparar-ielts-desde-b2
 readTime: 6 min
 keywords:
-  - 'Cómo Preparar el IELTS desde B2 en 3 Meses'
-  - 'ielts desde b2'
+  - Cómo Preparar el IELTS desde B2 en 3 Meses
+  - ielts desde b2
+  - preparar inglés gratis
+  - material de inglés gratis
+  - curso de inglés gratis
 faqs:
   - question: ¿Cuántas veces puedo presentarme al IELTS?
     answer: >-

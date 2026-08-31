@@ -1,7 +1,7 @@
 ---
 title: 'Inglés Canadiense: Las Diferencias'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   El inglés canadiense: las diferencias con el americano que nadie te cuenta (pronunciación, vocabulario, ortografía). Guía práctica para reconocer y entender el Canadian English.
@@ -12,7 +12,10 @@ readTime: 6 min
 alt: Paisaje canadiense nevado evocando el inglés de Canadá
 keywords:
   - 'Inglés Canadiense: Las Diferencias'
-  - 'ingles canadiense diferencias americano'
+  - ingles canadiense diferencias americano
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 faqs:
   - question: ¿El inglés canadiense es más parecido al americano o al británico?
     answer: >-

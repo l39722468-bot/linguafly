@@ -1,7 +1,7 @@
 ---
 title: 'Just, Already y Yet en Inglés: Uso'
 date: '2026-02-13'
-updatedDate: '2026-02-13'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Aprende a usar just, already y yet correctamente con el present perfect en inglés. Posición en la frase, diferencias de significado y los errores más frecuentes con ejemplos claros.
@@ -10,7 +10,10 @@ alt: Pizarra con ejemplos de just, already y yet con el present perfect
 readTime: 6 min
 keywords:
   - 'Just, Already y Yet en Inglés: Uso'
-  - 'just already yet ingles'
+  - just already yet ingles
+  - curso de inglés gratis
+  - gramática inglesa gratis
+  - aprender inglés gratis
 excerpt: >-
   Just, already y yet son tres de los adverbios más frecuentes con el present perfect. Cada uno tiene su posición fija en la frase y su propio matiz. Aquí los tienes claros con ejemplos y los errores que más se cometen.
 faqs:

@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Reported Speech: Preguntas, Órdenes'
 description: >-
@@ -11,7 +11,10 @@ description: >-
 readTime: 4 min
 keywords:
   - 'Reported Speech: Preguntas, Órdenes'
-  - 'reported speech'
+  - reported speech
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 canonical: >-
   https://linguafly.app/blog/gramatica/reported-speech-questions-commands
 alt: Preguntas y órdenes en estilo indirecto

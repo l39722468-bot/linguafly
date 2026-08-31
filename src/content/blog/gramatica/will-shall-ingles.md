@@ -1,7 +1,7 @@
 ---
 title: 'Will vs Shall en Inglés: Cuándo Se'
 date: '2026-03-21'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Will vs shall en inglés: cuándo se usa cada uno, por qué shall es más formal y en qué contextos los nativos lo utilizan hoy. Guía práctica con ejemplos reales.
@@ -10,7 +10,10 @@ alt: Estudiante entendiendo la diferencia entre will y shall en inglés
 readTime: 7 min
 keywords:
   - 'Will vs Shall en Inglés: Cuándo Se'
-  - 'shall we ingles'
+  - shall we ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   Will y shall son dos auxiliares para el futuro en inglés, pero no se usan igual. Shall es formal y más común en inglés británico; will es universal. Aprende cuándo y cómo usar cada uno correctamente.
 faqs:

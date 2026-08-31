@@ -1,7 +1,7 @@
 ---
 title: 'Inglés en la Cocina: Vocabulario'
 date: '2026-02-26'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Vocabulario culinario en inglés: utensilios, técnicas de cocina, ingredientes y cómo leer recetas anglosajonas. Imprescindible para trabajar en hostelería o cocinar en inglés.
@@ -12,7 +12,10 @@ readTime: 13 min
 alt: Cocina profesional con utensilios y alimentos preparados
 keywords:
   - 'Inglés en la Cocina: Vocabulario'
-  - 'ingles en la cocina'
+  - ingles en la cocina
+  - curso de inglés gratis
+  - frases en inglés gratis
+  - aprender inglés gratis
 faqs:
   - question: ¿Cómo se convierten las temperaturas del horno en recetas americanas?
     answer: >-

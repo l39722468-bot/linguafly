@@ -1,7 +1,7 @@
 ---
 title: 'Frases de Emergencia en Inglés'
 date: '2026-01-30'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Las frases de inglés que necesitas en emergencias al viajar: accidentes, robos, problemas médicos y extravíos. Guía de supervivencia para viajeros hispanohablantes.
@@ -16,8 +16,11 @@ alt: >-
   viaje
 canonical: 'https://linguafly.app/blog/viajes/frases-ingles-emergencias-viajes'
 keywords:
-  - 'Frases de Emergencia en Inglés'
-  - 'frases emergencia viaje ingles'
+  - Frases de Emergencia en Inglés
+  - frases emergencia viaje ingles
+  - curso de inglés gratis
+  - frases en inglés gratis
+  - aprender inglés gratis
 faqs:
   - question: ¿Cómo pido ayuda médica urgente en inglés?
     answer: >-

@@ -1,7 +1,7 @@
 ---
 title: 'IELTS Reading: Trucos'
 date: '2026-02-14'
-updatedDate: '2026-02-14'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Estrategias probadas para el IELTS Reading: cómo distinguir False de Not Given, técnicas de skimming y scanning, tipos de pregunta y cómo distribuir los 60 minutos sin quedarte sin tiempo.
@@ -10,7 +10,10 @@ alt: Persona leyendo textos académicos para preparar el IELTS Reading
 readTime: 7 min
 keywords:
   - 'IELTS Reading: Trucos'
-  - 'ielts reading'
+  - ielts reading
+  - material de inglés gratis
+  - curso de inglés gratis
+  - aprender inglés gratis
 excerpt: >-
   60 minutos para leer tres textos largos y responder 40 preguntas. El IELTS Reading no es un test de comprensión lectora al uso: tiene tipos de pregunta que siguen reglas muy específicas, y conocerlas cambia el resultado.
 faqs:

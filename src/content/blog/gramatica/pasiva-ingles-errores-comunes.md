@@ -10,11 +10,14 @@ excerpt: >-
   mal formados, verbos que no admiten pasiva, el "by" mal puesto... Aquí están
   los más frecuentes y cómo corregirlos de una vez.
 keywords:
-  - 'Errores Comunes con la Voz Pasiva'
-  - 'errores pasiva ingles'
+  - Errores Comunes con la Voz Pasiva
+  - errores pasiva ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-01'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Cuaderno con errores de gramática corregidos en rojo, voz pasiva en inglés
 category: gramatica
 faqs:

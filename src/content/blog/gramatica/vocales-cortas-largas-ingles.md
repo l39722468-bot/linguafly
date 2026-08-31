@@ -9,11 +9,14 @@ excerpt: >-
   completo el significado de una palabra. Aquí tienes la guía práctica para
   dominar las vocales cortas y largas sin confundirte.
 keywords:
-  - 'Vocales Cortas y Largas en Inglés'
-  - 'vocales cortas inglés'
+  - Vocales Cortas y Largas en Inglés
+  - vocales cortas inglés
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-08'
-updatedDate: '2026-02-08'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿Cuántas vocales tiene el inglés en total?'

@@ -12,10 +12,13 @@ excerpt: >-
   suben de un band 6 a un 7 u 8.
 keywords:
   - 'IELTS Speaking Part 3: Preguntas Típicas y Respuestas'
-  - 'ielts speaking part 3'
+  - ielts speaking part 3
+  - aprender inglés gratis
+  - preparar inglés gratis
+  - material de inglés gratis
 author: focus-english-team
 date: '2026-04-17'
-updatedDate: '2026-04-17'
+updatedDate: '2026-08-31'
 alt: Candidata de IELTS en entrevista oral con examinador tomando notas
 category: examenes
 faqs:

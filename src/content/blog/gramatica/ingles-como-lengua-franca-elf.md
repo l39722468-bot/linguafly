@@ -1,7 +1,7 @@
 ---
 title: 'Inglés como Lengua Franca (ELF)'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   El inglés como lengua franca (ELF): por qué el inglés perfecto no siempre es el objetivo y qué implica esto para tu aprendizaje en un mundo globalizado.
@@ -11,8 +11,11 @@ category: gramatica
 readTime: 7 min
 alt: Reunión internacional de personas de distintos países comunicándose en inglés
 keywords:
-  - 'Inglés como Lengua Franca (ELF)'
-  - 'ELF fonologia'
+  - Inglés como Lengua Franca (ELF)
+  - ELF fonologia
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué es el inglés como lengua franca (ELF)?
     answer: >-

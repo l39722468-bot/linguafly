@@ -1,7 +1,7 @@
 ---
 category: trabajo
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Clientes difíciles en inglés'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   escalar con claridad y documentar sin perder control emocional.
 readTime: 22 min
 keywords:
-  - 'Clientes difíciles en inglés'
-  - 'de-escalation inglés'
+  - Clientes difíciles en inglés
+  - de-escalation inglés
+  - inglés de negocios gratis
+  - curso de inglés gratis
+  - clases de inglés gratis
 alt: Persona en atención telefónica con auriculares
 excerpt: >-
   Frases y marcos mentales para gestionar ira, amenazas y presión en inglés:

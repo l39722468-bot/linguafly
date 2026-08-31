@@ -11,10 +11,13 @@ excerpt: >-
   auditivo, Elsa Speak para pronunciación. Comparativa honesta con veredicto
   claro por objetivo de aprendizaje.
 keywords:
-  - 'mejor app para aprender inglés 2026 comparativa'
-  - 'comparativa apps inglés por objetivo'
+  - mejor app para aprender inglés 2026 comparativa
+  - comparativa apps inglés por objetivo
+  - curso de inglés gratis
+  - recursos para aprender inglés gratis
+  - clases de inglés gratis
 date: '2026-02-03'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 category: metodos
 author: focus-english-team
 alt: 'Persona usando una app de inglés en su móvil para aprender vocabulario'

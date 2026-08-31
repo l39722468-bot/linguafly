@@ -11,10 +11,13 @@ excerpt: >-
   diccionario. Aquí te explico cómo funciona y cómo usarlo desde el primer día.
 keywords:
   - 'IPA en Inglés: Cómo Leer el Alfabeto'
-  - 'cómo leer IPA inglés'
+  - cómo leer IPA inglés
+  - curso de inglés gratis
+  - ejercicios de inglés gratis
+  - gramática inglesa gratis
 author: focus-english-team
 date: '2026-02-26'
-updatedDate: '2026-02-26'
+updatedDate: '2026-08-31'
 category: gramatica
 faqs:
   - question: '¿El IPA del inglés americano y el británico es el mismo?'

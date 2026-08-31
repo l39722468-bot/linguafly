@@ -1,7 +1,7 @@
 ---
 title: 'Inglés para Ingenieros de Software'
 date: '2026-03-03'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Domina el inglés técnico para desarrollo de software. Vocabulario de
@@ -13,8 +13,11 @@ canonical: >-
   https://linguafly.app/blog/trabajo/ingles-para-ingenieros-software
 readTime: 6 min
 keywords:
-  - 'Inglés para Ingenieros de Software'
-  - 'ingles para ingenieros'
+  - Inglés para Ingenieros de Software
+  - ingles para ingenieros
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 faqs:
   - question: ¿Qué nivel de inglés necesito para trabajar en una empresa tech internacional?
     answer: >-

@@ -10,11 +10,14 @@ excerpt: >-
   malentendidos, mejorará tus relaciones y te hará sentir como en casa en EE.UU.
   Guía de choques culturales y cómo superarlos.
 keywords:
-  - 'Cultura Americana vs Española'
-  - 'cultura americana'
+  - Cultura Americana vs Española
+  - cultura americana
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-05'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿La Directness Americana vs la Indirectness Latina: cuál es mejor?'

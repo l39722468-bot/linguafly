@@ -10,11 +10,14 @@ excerpt: >-
   que aprendiste es solo uno de los muchos ingleses que existen. Aquí tienes
   el mapa y las herramientas para moverte entre ellos.
 keywords:
-  - 'Cómo Entender los Acentos del Inglés'
-  - 'cómo entender acentos inglés'
+  - Cómo Entender los Acentos del Inglés
+  - cómo entender acentos inglés
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-27'
-updatedDate: '2026-02-27'
+updatedDate: '2026-08-31'
 category: metodos
 faqs:
   - question: '¿Cuánto tiempo lleva acostumbrarse a un acento nuevo?'

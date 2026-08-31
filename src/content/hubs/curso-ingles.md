@@ -1,11 +1,11 @@
 ---
-title: 'Curso de Inglés'
-description: "Encuentra el mejor curso de inglés según tu nivel y objetivos. Guía completa con cursos gratis, online, por niveles (A1 a C2) y comparativa de plataformas para hispanohablantes."
+title: 'Curso de Inglés Gratis y Online: Guía por Niveles'
+description: "Guía de curso de inglés gratis y online por niveles (A1–C2): recursos gratuitos, plataformas, clases de inglés gratis y cómo elegir el mejor plan para hispanohablantes."
 ---
 
-# Curso de Inglés
+# Curso de Inglés Gratis y Online
 
-Aprender inglés es una de las inversiones más rentables que puedes hacer hoy. Pero con tantísimas opciones disponibles —apps, academias, plataformas online, tutores particulares, cursos gratuitos— elegir mal puede costarte meses de esfuerzo perdido y cientos de euros desperdiciados.
+Si buscas un **curso de inglés gratis** o un plan online con estructura, esta guía te orienta por nivel (A1–C2), presupuesto y objetivo. Hay muchas opciones —apps, academias, plataformas, tutores y cursos gratuitos— y elegir mal puede costarte meses y dinero.
 
 La buena noticia: no existe un curso de inglés "perfecto" para todo el mundo. Existe el curso perfecto **para ti**, en función de tu nivel actual, tu objetivo concreto, tu presupuesto y el tiempo que puedes dedicar. Esta guía centraliza todo lo que necesitas saber para tomar esa decisión con criterio.
 

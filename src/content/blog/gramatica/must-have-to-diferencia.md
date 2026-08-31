@@ -1,7 +1,7 @@
 ---
 title: 'Must vs Have To: La Diferencia'
 date: '2026-02-07'
-updatedDate: '2026-03-20'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   La diferencia entre must y have to no es solo de forma — cambia quién impone la obligación. Y en negativo, la diferencia es todavía más importante: mustn't y don't have to significan cosas completamente distintas.
@@ -10,7 +10,10 @@ alt: Estudiante aprendiendo la diferencia entre must y have to en inglés
 readTime: 12 min
 keywords:
   - 'Must vs Have To: La Diferencia'
-  - 'must have to diferencia ingles'
+  - must have to diferencia ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   La diferencia entre must y have to no es solo de forma — cambia quién impone la obligación. Y en negativo, la diferencia es todavía más importante: mustn't y don't have to significan cosas completamente distintas.
 faqs:

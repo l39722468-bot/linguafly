@@ -9,11 +9,14 @@ excerpt: >-
   más usados en inglés con ejemplos sencillos, traducciones y ejercicios para
   nivel A1 y A2.
 keywords:
-  - 'Phrasal Verbs para Principiantes'
-  - 'phrasal verbs'
+  - Phrasal Verbs para Principiantes
+  - phrasal verbs
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-06'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: 'Estudiante principiante aprendiendo phrasal verbs básicos en inglés'
 category: gramatica
 canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-principiantes'

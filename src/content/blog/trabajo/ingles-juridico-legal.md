@@ -1,7 +1,7 @@
 ---
 title: 'Inglés Jurídico y Legal: Vocabulario'
 date: '2026-02-16'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 excerpt: >-
   Domina el inglés jurídico con el vocabulario legal esencial, frases para
@@ -12,7 +12,10 @@ readTime: 18 min
 alt: Documentos legales y mazo de juez sobre un escritorio de abogado
 keywords:
   - 'Inglés Jurídico y Legal: Vocabulario'
-  - 'ingles juridico legal'
+  - ingles juridico legal
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 faqs:
   - question: ¿Qué diferencia hay entre "law" y "legislation"?
     answer: >-

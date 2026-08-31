@@ -1,7 +1,7 @@
 ---
 title: 'El Schwa en Inglés: Por Qué /ə/ es'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   El schwa /ə/ en inglés: por qué es el sonido más frecuente del idioma y cómo dominarlo mejora tu pronunciación y comprensión oral drásticamente. Guía con ejemplos y ejercicios.
@@ -12,7 +12,10 @@ readTime: 9 min
 alt: Símbolos fonéticos escritos en una pizarra
 keywords:
   - 'El Schwa en Inglés: Por Qué /ə/ es'
-  - 'schwa ingles'
+  - schwa ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué es exactamente el schwa?
     answer: >-

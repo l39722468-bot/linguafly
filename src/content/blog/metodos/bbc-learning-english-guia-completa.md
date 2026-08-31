@@ -1,7 +1,7 @@
 ---
 title: 'BBC Learning English'
 date: '2026-03-11'
-updatedDate: '2026-03-11'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   BBC Learning English guía completa 2026: sus mejores secciones, niveles recomendados, rutina diaria y cómo usarla sin internet. La plataforma gratuita más completa para aprender inglés.
@@ -11,8 +11,11 @@ category: metodos
 readTime: 13 min
 alt: Persona estudiando inglés con auriculares frente a una pantalla con contenido educativo de la BBC
 keywords:
-  - 'BBC Learning English'
-  - 'BBC Learning English sin internet'
+  - BBC Learning English
+  - BBC Learning English sin internet
+  - curso de inglés gratis
+  - recursos para aprender inglés gratis
+  - clases de inglés gratis
 faqs:
   - question: '¿BBC Learning English es completamente gratis?'
     answer: >-

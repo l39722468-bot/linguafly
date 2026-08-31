@@ -1,7 +1,7 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Passive Reporting Verbs: Estructuras'
 description: >-
@@ -11,7 +11,10 @@ description: >-
 readTime: 5 min
 keywords:
   - 'Passive Reporting Verbs: Estructuras'
-  - 'passive of reporting verbs'
+  - passive of reporting verbs
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 canonical: >-
   https://linguafly.app/blog/gramatica/passive-reporting-verbs-guia-avanzada
 alt: Estructuras avanzadas de verbos de reporte

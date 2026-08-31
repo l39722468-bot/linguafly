@@ -1,7 +1,7 @@
 ---
 title: 'Vocabulario Académico para el IELTS'
 date: '2026-02-20'
-updatedDate: '2026-02-20'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   El vocabulario académico que necesitas para el IELTS: Academic Word List, colocaciones frecuentes por tema, palabras que confunden a los candidatos y métodos de aprendizaje que realmente funcionan.
@@ -9,8 +9,11 @@ category: examenes
 alt: Libreta con vocabulario en inglés para preparar el IELTS
 readTime: 7 min
 keywords:
-  - 'Vocabulario Académico para el IELTS'
-  - 'vocabulario ielts'
+  - Vocabulario Académico para el IELTS
+  - vocabulario ielts
+  - preparar inglés gratis
+  - material de inglés gratis
+  - curso de inglés gratis
 excerpt: >-
   El vocabulario del IELTS no es el vocabulario del inglés conversacional. Para Band 7 necesitas dominar palabras académicas que rara vez aparecen en series o conversaciones cotidianas.
 faqs:

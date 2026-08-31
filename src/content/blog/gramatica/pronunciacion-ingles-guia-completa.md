@@ -9,11 +9,14 @@ excerpt: >-
   guía completa dominarás los sonidos clave, el word stress y la entonación para
   hablar con confianza.
 keywords:
-  - 'Pronunciación en Inglés'
-  - 'pronunciacion ingles guia completa'
+  - Pronunciación en Inglés
+  - pronunciacion ingles guia completa
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-05'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 alt: Persona practicando pronunciación en inglés frente a un espejo
 category: gramatica
 faqs:

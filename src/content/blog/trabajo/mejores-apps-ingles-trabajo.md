@@ -10,10 +10,13 @@ excerpt: >-
   Desde reuniones hasta redacción de emails corporativos, elige la herramienta
   adecuada para Business English y avance profesional.
 keywords:
-  - 'mejores apps inglés profesional trabajo'
-  - 'apps business english entorno laboral'
+  - mejores apps inglés profesional trabajo
+  - apps business english entorno laboral
+  - aprender inglés gratis
+  - inglés de negocios gratis
+  - curso de inglés gratis
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: trabajo
 author: focus-english-team
 canonical: 'https://linguafly.app/blog/trabajo/mejores-apps-ingles-trabajo'

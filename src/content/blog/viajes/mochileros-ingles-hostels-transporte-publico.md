@@ -1,7 +1,7 @@
 ---
 category: viajes
 date: '2026-04-03'
-updatedDate: '2026-04-03'
+updatedDate: '2026-08-31'
 author: focus-english-team
 title: 'Inglés para mochileros en hostels'
 description: >-
@@ -9,8 +9,11 @@ description: >-
   metro, bus nocturno y vocabulario real para moverte sin estrés en inglés.
 readTime: 15 min
 keywords:
-  - 'Inglés para mochileros en hostels'
-  - 'aprender inglés para mochileros'
+  - Inglés para mochileros en hostels
+  - aprender inglés para mochileros
+  - inglés para viajar gratis
+  - curso de inglés gratis
+  - frases en inglés gratis
 alt: Mochilero en estación de tren con mochila
 excerpt: >-
   Domina el inglés que necesitas en hostels (check-in, habitaciones compartidas,

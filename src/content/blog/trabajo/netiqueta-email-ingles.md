@@ -11,10 +11,13 @@ excerpt: >-
   reglas, y no siempre son obvias para los hablantes no nativos.
 keywords:
   - 'Netiqueta en Emails en Inglés: Lo'
-  - 'netiqueta email ingles profesional'
+  - netiqueta email ingles profesional
+  - clases de inglés gratis
+  - aprender inglés gratis
+  - inglés de negocios gratis
 author: focus-english-team
 date: '2026-03-02'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 alt: Persona revisando normas de etiqueta de email profesional en inglés en su escritorio
 category: trabajo
 faqs:

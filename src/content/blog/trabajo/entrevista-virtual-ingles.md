@@ -10,11 +10,14 @@ excerpt: >-
   tus respuestas importa igual, pero el setup, la cámara y cómo gestionas
   los problemas técnicos también forman parte de la evaluación.
 keywords:
-  - 'entrevista virtual inglés videollamada zoom teams'
-  - 'entrevista trabajo online inglés setup cámara'
+  - entrevista virtual inglés videollamada zoom teams
+  - entrevista trabajo online inglés setup cámara
+  - curso de inglés gratis
+  - clases de inglés gratis
+  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-11'
-updatedDate: '2026-03-12'
+updatedDate: '2026-08-31'
 alt: Persona en entrevista de trabajo virtual en inglés por videollamada con portátil
 category: trabajo
 faqs:

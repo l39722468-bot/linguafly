@@ -1,7 +1,7 @@
 ---
 title: 'Expresiones con Will en Inglés'
 date: '2026-03-21'
-updatedDate: '2026-03-21'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Expresiones fijas y frases idiomáticas con will en inglés: usos avanzados que van más allá de las reglas básicas. Aprende a hablar como un nativo con estas construcciones reales.
@@ -9,8 +9,11 @@ category: gramatica
 alt: Persona aprendiendo expresiones con will en inglés
 readTime: 8 min
 keywords:
-  - 'Expresiones con Will en Inglés'
-  - 'expresiones con will ingles'
+  - Expresiones con Will en Inglés
+  - expresiones con will ingles
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - ejercicios de inglés gratis
 excerpt: >-
   Más allá de las reglas básicas, will aparece en expresiones fijas, frases idiomáticas y construcciones avanzadas que suenan muy naturales en inglés. Aprende las más útiles con ejemplos y contexto.
 faqs:

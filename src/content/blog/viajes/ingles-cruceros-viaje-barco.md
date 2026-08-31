@@ -1,6 +1,7 @@
 ---
 title: 'Inglés para Cruceros y Viajes en Barco'
 date: '2026-04-17'
+updatedDate: '2026-08-31'
 author: focus-english-team
 description: >-
   Vocabulario y frases en inglés para cruceros y viajes en barco. Desde el embarque hasta las excursiones en puerto, pasando por restaurantes a bordo y emergencias marítimas.
@@ -10,8 +11,11 @@ category: viajes
 readTime: 11 min
 alt: Gran crucero atracado en un puerto mediterráneo con viajeros embarcando
 keywords:
-  - 'Inglés para Cruceros y Viajes en Barco'
-  - 'ingles para cruceros'
+  - Inglés para Cruceros y Viajes en Barco
+  - ingles para cruceros
+  - inglés para viajar gratis
+  - curso de inglés gratis
+  - frases en inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-cruceros-viaje-barco'
 faqs:
   - question: ¿Necesito buen nivel de inglés para un crucero?

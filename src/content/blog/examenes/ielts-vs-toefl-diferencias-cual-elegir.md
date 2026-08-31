@@ -9,9 +9,12 @@ excerpt: >-
   y TOEFL analizando sus formatos, costes y niveles de dificultad.
 keywords:
   - 'IELTS vs TOEFL: Diferencias y Cuál Elegir'
-  - 'ielts vs toefl diferencias'
+  - ielts vs toefl diferencias
+  - material de inglés gratis
+  - curso de inglés gratis
+  - aprender inglés gratis
 date: '2025-02-05'
-updatedDate: '2026-03-10'
+updatedDate: '2026-08-31'
 category: examenes
 author: focus-english-team
 faqs:
