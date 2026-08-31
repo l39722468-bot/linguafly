@@ -496,8 +496,8 @@ excerpt: >-
 ---
 {kw["intro"]}
 
-> **Practica en el curso:** [Unidad {kw["unit"]}](/curso-b2/unit-{kw["unit"]})  
-> **Cuaderno de ejercicios:** [Unidad {kw["unit"]} con soluciones](/blog/curso-b2/{kw["slug"]}-ejercicios-soluciones)  
+> **Practica en el curso:** [Unidad {kw["unit"]}](/curso-b2/unit-{kw["unit"]})<br>
+> **Cuaderno de ejercicios:** [Unidad {kw["unit"]} con soluciones](/blog/curso-b2/{kw["slug"]}-ejercicios-soluciones)<br>
 > **Antes:** {kw["before"]}
 
 ---
@@ -736,15 +736,15 @@ El texto evita presentar la sostenibilidad como perfección inmediata. Esa idea 
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-26/dialogue-u26.mp3" title="🔊 Diálogo Unidad 26"></audio>
 
-> **A:** How is sustainable living going?  
-> **B:** I'm **getting through** the difficult stage.  
-> **A:** Do you **get along with** the neighbours?  
-> **B:** Yes, we share compost.  
-> **A:** Did you **give up** plastic?  
-> **B:** I reduced it, but I didn't **give in** to perfectionism.  
-> **A:** What did you **give away**?  
-> **B:** Reusable jars I didn't need.  
-> **A:** How did the workshop **go off**?  
+> **A:** How is sustainable living going?<br>
+> **B:** I'm **getting through** the difficult stage.<br>
+> **A:** Do you **get along with** the neighbours?<br>
+> **B:** Yes, we share compost.<br>
+> **A:** Did you **give up** plastic?<br>
+> **B:** I reduced it, but I didn't **give in** to perfectionism.<br>
+> **A:** What did you **give away**?<br>
+> **B:** Reusable jars I didn't need.<br>
+> **A:** How did the workshop **go off**?<br>
 > **B:** Very well, although the fire alarm **went off**.
 
 Representa el diálogo con dos voces y cambia tres datos: el proyecto, el objeto regalado y el problema del taller. Mantén intactos los phrasals. Luego invierte la tarea: conserva la historia y sustituye un phrasal por una explicación sencilla, para que tu compañero adivine la combinación exacta.
@@ -958,13 +958,13 @@ El reading incluye diez objetivos sin sonar como una lista porque cada uno respo
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-27/dialogue-u27.mp3" title="🔊 Diálogo Unidad 27"></audio>
 
-> **A:** Are you **looking forward to** the gig?  
-> **B:** Absolutely. Have you found the tickets?  
-> **A:** No, the box office is **looking into** it.  
-> **B:** Who's **looking after** the instruments?  
-> **A:** The band manager. Can you **make out** the announcement?  
-> **B:** Barely. Shall we **make for** the entrance?  
-> **A:** Yes. Where are we staying?  
+> **A:** Are you **looking forward to** the gig?<br>
+> **B:** Absolutely. Have you found the tickets?<br>
+> **A:** No, the box office is **looking into** it.<br>
+> **B:** Who's **looking after** the instruments?<br>
+> **A:** The band manager. Can you **make out** the announcement?<br>
+> **B:** Barely. Shall we **make for** the entrance?<br>
+> **A:** Yes. Where are we staying?<br>
 > **B:** We're **putting up at** the hotel opposite the venue.
 
 | Error | Forma natural |
@@ -1177,12 +1177,12 @@ Observa los tiempos: *had, made, took* son pasados irregulares o regulares del v
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-28/dialogue-u28.mp3" title="🔊 Diálogo Unidad 28"></audio>
 
-> **A:** Can we **have a meeting** about the menu?  
-> **B:** Yes, but I **have a deadline**.  
-> **A:** **Have a look at** this recipe first. Did I **make a mistake**?  
-> **B:** Only a small one. Shall we **take a chance on** local ingredients?  
-> **A:** Good suggestion. Who'll **take responsibility**?  
-> **B:** I will, and I'll **make a call** to the supplier.  
+> **A:** Can we **have a meeting** about the menu?<br>
+> **B:** Yes, but I **have a deadline**.<br>
+> **A:** **Have a look at** this recipe first. Did I **make a mistake**?<br>
+> **B:** Only a small one. Shall we **take a chance on** local ingredients?<br>
+> **A:** Good suggestion. Who'll **take responsibility**?<br>
+> **B:** I will, and I'll **make a call** to the supplier.<br>
 > **A:** Then **take a break**. You've **made great progress**.
 
 En habla fluida, los artículos átonos se unen al verbo: *make-a-decision, take-a-break, have-a-look*. No tienes que exagerar esa unión, pero sí evitar una pausa que separe artificialmente la combinación. Repite el audio por grupos y añade un adjetivo: *make a difficult decision, take a short break, have a quick look*.
@@ -1382,17 +1382,17 @@ Observa dos capas: los sustantivos cuentan una historia de presión, apoyo y rec
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-29/dialogue-u29.mp3" title="🔊 Diálogo Unidad 29"></audio>
 
-> **A:** Was there **heavy pressure** at work?  
-> **B:** Yes, and I felt **strong anxiety**.  
-> **A:** Did therapy help?  
-> **B:** It had a **deep impact**.  
-> **A:** What changed?  
-> **B:** My mindset and my recovery.  
-> **A:** Did your family help?  
-> **B:** Their **full support** brought **great relief**.  
-> **A:** Any results?  
-> **B:** **Great progress** and **remarkable resilience**.  
-> **A:** Why the debate?  
+> **A:** Was there **heavy pressure** at work?<br>
+> **B:** Yes, and I felt **strong anxiety**.<br>
+> **A:** Did therapy help?<br>
+> **B:** It had a **deep impact**.<br>
+> **A:** What changed?<br>
+> **B:** My mindset and my recovery.<br>
+> **A:** Did your family help?<br>
+> **B:** Their **full support** brought **great relief**.<br>
+> **A:** Any results?<br>
+> **B:** **Great progress** and **remarkable resilience**.<br>
+> **A:** Why the debate?<br>
 > **B:** **High demand** caused **considerable controversy**.
 
 | Menos natural / no objetivo | Colocación del curso |
@@ -1612,15 +1612,15 @@ El reading muestra que los temas pueden mezclarse sin perder coherencia: sosteni
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-30/dialogue-u30.mp3" title="🔊 Diálogo Unidad 30"></audio>
 
-> **A:** Did you **get through** the planning stage?  
-> **B:** Yes, although we nearly **gave up**.  
-> **A:** Who **looked into** the venue?  
-> **B:** The promoter, who **made up for** the delay.  
-> **A:** Did the chef **take responsibility**?  
-> **B:** Yes, after **having a look at** the menu.  
-> **A:** Was there **heavy pressure**?  
-> **B:** Yes, but **full support** brought **great relief**.  
-> **A:** How did the festival **go off**?  
+> **A:** Did you **get through** the planning stage?<br>
+> **B:** Yes, although we nearly **gave up**.<br>
+> **A:** Who **looked into** the venue?<br>
+> **B:** The promoter, who **made up for** the delay.<br>
+> **A:** Did the chef **take responsibility**?<br>
+> **B:** Yes, after **having a look at** the menu.<br>
+> **A:** Was there **heavy pressure**?<br>
+> **B:** Yes, but **full support** brought **great relief**.<br>
+> **A:** How did the festival **go off**?<br>
 > **B:** It was a **great success**.
 
 | Mezcla incorrecta | Corrección |

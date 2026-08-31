@@ -50,8 +50,8 @@ El reto central no es la cantidad, sino distinguir formas visualmente parecidas.
 
 Esta guía convierte las doce expresiones en una noche completa de música. Seguirás a público, banda y promotor desde la compra de *tickets* hasta el *backstage*. Las tablas aclaran significado y patrón; los audios entrenan el chunk completo; el reading y el diálogo muestran cómo conviven; y los ejercicios te obligan a elegir con pistas concretas, no por intuición vaga.
 
-> **Practica en el curso:** [Unidad 27](/curso-b2/unit-27)  
-> **Cuaderno de ejercicios:** [Unidad 27 con soluciones](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones)  
+> **Practica en el curso:** [Unidad 27](/curso-b2/unit-27)<br>
+> **Cuaderno de ejercicios:** [Unidad 27 con soluciones](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones)<br>
 > **Antes:** [U26 — GET, GIVE, GO + sustainability](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability)
 
 ---
@@ -199,13 +199,13 @@ El reading incluye diez objetivos sin sonar como una lista porque cada uno respo
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-27/dialogue-u27.mp3" title="🔊 Diálogo Unidad 27"></audio>
 
-> **A:** Are you **looking forward to** the gig?  
-> **B:** Absolutely. Have you found the tickets?  
-> **A:** No, the box office is **looking into** it.  
-> **B:** Who's **looking after** the instruments?  
-> **A:** The band manager. Can you **make out** the announcement?  
-> **B:** Barely. Shall we **make for** the entrance?  
-> **A:** Yes. Where are we staying?  
+> **A:** Are you **looking forward to** the gig?<br>
+> **B:** Absolutely. Have you found the tickets?<br>
+> **A:** No, the box office is **looking into** it.<br>
+> **B:** Who's **looking after** the instruments?<br>
+> **A:** The band manager. Can you **make out** the announcement?<br>
+> **B:** Barely. Shall we **make for** the entrance?<br>
+> **A:** Yes. Where are we staying?<br>
 > **B:** We're **putting up at** the hotel opposite the venue.
 
 | Error | Forma natural |

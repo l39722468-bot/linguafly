@@ -49,8 +49,8 @@ El español permite construir muchas de estas ideas con «fuerte», «grande» o
 
 El contexto de **Psychology & Mind** da coherencia al inventario: ansiedad, presión, terapia, mentalidad, salud mental, resiliencia y recuperación. La guía utiliza ejemplos respetuosos y no clínicos, audio, reading, diálogo y ejercicios para que aprendas la pareja completa. El objetivo no es memorizar adjetivos “intensos”, sino elegir el que acompaña naturalmente a cada sustantivo y ajustar el registro.
 
-> **Practica en el curso:** [Unidad 29](/curso-b2/unit-29)  
-> **Cuaderno de ejercicios:** [Unidad 29 con soluciones](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones)  
+> **Practica en el curso:** [Unidad 29](/curso-b2/unit-29)<br>
+> **Cuaderno de ejercicios:** [Unidad 29 con soluciones](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones)<br>
 > **Antes:** [U28 — Verb + Noun Collocations + Food](/blog/curso-b2/unidad-28-collocations-verb-noun-food)
 
 ---
@@ -199,17 +199,17 @@ Observa dos capas: los sustantivos cuentan una historia de presión, apoyo y rec
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-29/dialogue-u29.mp3" title="🔊 Diálogo Unidad 29"></audio>
 
-> **A:** Was there **heavy pressure** at work?  
-> **B:** Yes, and I felt **strong anxiety**.  
-> **A:** Did therapy help?  
-> **B:** It had a **deep impact**.  
-> **A:** What changed?  
-> **B:** My mindset and my recovery.  
-> **A:** Did your family help?  
-> **B:** Their **full support** brought **great relief**.  
-> **A:** Any results?  
-> **B:** **Great progress** and **remarkable resilience**.  
-> **A:** Why the debate?  
+> **A:** Was there **heavy pressure** at work?<br>
+> **B:** Yes, and I felt **strong anxiety**.<br>
+> **A:** Did therapy help?<br>
+> **B:** It had a **deep impact**.<br>
+> **A:** What changed?<br>
+> **B:** My mindset and my recovery.<br>
+> **A:** Did your family help?<br>
+> **B:** Their **full support** brought **great relief**.<br>
+> **A:** Any results?<br>
+> **B:** **Great progress** and **remarkable resilience**.<br>
+> **A:** Why the debate?<br>
 > **B:** **High demand** caused **considerable controversy**.
 
 | Menos natural / no objetivo | Colocación del curso |

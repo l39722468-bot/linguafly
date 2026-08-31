@@ -49,8 +49,8 @@ Para un hispanohablante, este tema presenta una trampa constante: el verbo espa�
 
 La guía organiza las dieciocho formas por verbo, pero también las mezcla en historias realistas. Encontrarás audio para cada grupo, un reading sobre un menú estacional, un diálogo de cocina, ejercicios con soluciones y un método para corregir interferencias. El objetivo final es que el sustantivo active automáticamente su verbo antes de que aparezca el comodín *do*.
 
-> **Practica en el curso:** [Unidad 28](/curso-b2/unit-28)  
-> **Cuaderno de ejercicios:** [Unidad 28 con soluciones](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones)  
+> **Practica en el curso:** [Unidad 28](/curso-b2/unit-28)<br>
+> **Cuaderno de ejercicios:** [Unidad 28 con soluciones](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones)<br>
 > **Antes:** [U27 — LOOK, MAKE, PUT + music](/blog/curso-b2/unidad-27-phrasal-verbs-4-music)
 
 ---
@@ -203,12 +203,12 @@ Observa los tiempos: *had, made, took* son pasados irregulares o regulares del v
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-28/dialogue-u28.mp3" title="🔊 Diálogo Unidad 28"></audio>
 
-> **A:** Can we **have a meeting** about the menu?  
-> **B:** Yes, but I **have a deadline**.  
-> **A:** **Have a look at** this recipe first. Did I **make a mistake**?  
-> **B:** Only a small one. Shall we **take a chance on** local ingredients?  
-> **A:** Good suggestion. Who'll **take responsibility**?  
-> **B:** I will, and I'll **make a call** to the supplier.  
+> **A:** Can we **have a meeting** about the menu?<br>
+> **B:** Yes, but I **have a deadline**.<br>
+> **A:** **Have a look at** this recipe first. Did I **make a mistake**?<br>
+> **B:** Only a small one. Shall we **take a chance on** local ingredients?<br>
+> **A:** Good suggestion. Who'll **take responsibility**?<br>
+> **B:** I will, and I'll **make a call** to the supplier.<br>
 > **A:** Then **take a break**. You've **made great progress**.
 
 En habla fluida, los artículos átonos se unen al verbo: *make-a-decision, take-a-break, have-a-look*. No tienes que exagerar esa unión, pero sí evitar una pausa que separe artificialmente la combinación. Repite el audio por grupos y añade un adjetivo: *make a difficult decision, take a short break, have a quick look*.

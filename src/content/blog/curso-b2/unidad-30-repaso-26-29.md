@@ -50,8 +50,8 @@ Un repaso B2 no consiste en releer cuatro listas. Debes identificar qué decisi�
 
 Esta guía funciona como diagnóstico y consolidación. Encontrarás un mapa visual, cuatro repasos concentrados, una estrategia para clasificar huecos, reading y diálogo integrados, audio y diez ejercicios con soluciones. Al final producirás una historia que conecta un festival sostenible, una actuación musical, un menú local y el efecto de la presión y el apoyo.
 
-> **Practica en el curso:** [Unidad 30](/curso-b2/unit-30)  
-> **Cuaderno de ejercicios:** [Unidad 30 con soluciones](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones)  
+> **Practica en el curso:** [Unidad 30](/curso-b2/unit-30)<br>
+> **Cuaderno de ejercicios:** [Unidad 30 con soluciones](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones)<br>
 > **Antes:** [U29 — Adjective + Noun Collocations + Psychology](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology)
 
 ---
@@ -209,15 +209,15 @@ El reading muestra que los temas pueden mezclarse sin perder coherencia: sosteni
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-30/dialogue-u30.mp3" title="🔊 Diálogo Unidad 30"></audio>
 
-> **A:** Did you **get through** the planning stage?  
-> **B:** Yes, although we nearly **gave up**.  
-> **A:** Who **looked into** the venue?  
-> **B:** The promoter, who **made up for** the delay.  
-> **A:** Did the chef **take responsibility**?  
-> **B:** Yes, after **having a look at** the menu.  
-> **A:** Was there **heavy pressure**?  
-> **B:** Yes, but **full support** brought **great relief**.  
-> **A:** How did the festival **go off**?  
+> **A:** Did you **get through** the planning stage?<br>
+> **B:** Yes, although we nearly **gave up**.<br>
+> **A:** Who **looked into** the venue?<br>
+> **B:** The promoter, who **made up for** the delay.<br>
+> **A:** Did the chef **take responsibility**?<br>
+> **B:** Yes, after **having a look at** the menu.<br>
+> **A:** Was there **heavy pressure**?<br>
+> **B:** Yes, but **full support** brought **great relief**.<br>
+> **A:** How did the festival **go off**?<br>
 > **B:** It was a **great success**.
 
 | Mezcla incorrecta | Corrección |

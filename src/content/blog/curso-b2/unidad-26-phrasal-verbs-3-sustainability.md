@@ -49,8 +49,8 @@ Este bloque exige algo más que asociar una traducción a cada forma. *Get throu
 
 La sostenibilidad ofrece un marco útil porque cualquier cambio de hábitos incluye relaciones, resistencia, revisión y continuidad. Puedes llevarte bien con quienes comparten compost, atravesar una transición exigente, no abandonar el objetivo y revisar cada compra. La meta de esta guía no es juzgar tus decisiones ecológicas, sino darte lenguaje B2 preciso para describir procesos reales, con sus dificultades y resultados.
 
-> **Practica en el curso:** [Unidad 26](/curso-b2/unit-26)  
-> **Cuaderno de ejercicios:** [Unidad 26 con soluciones](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability-ejercicios-soluciones)  
+> **Practica en el curso:** [Unidad 26](/curso-b2/unit-26)<br>
+> **Cuaderno de ejercicios:** [Unidad 26 con soluciones](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability-ejercicios-soluciones)<br>
 > **Antes:** [U25 — Repaso de las Unidades 21–24](/blog/curso-b2/unidad-25-repaso-21-24)
 
 ---
@@ -181,15 +181,15 @@ El texto evita presentar la sostenibilidad como perfección inmediata. Esa idea 
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-26/dialogue-u26.mp3" title="🔊 Diálogo Unidad 26"></audio>
 
-> **A:** How is sustainable living going?  
-> **B:** I'm **getting through** the difficult stage.  
-> **A:** Do you **get along with** the neighbours?  
-> **B:** Yes, we share compost.  
-> **A:** Did you **give up** plastic?  
-> **B:** I reduced it, but I didn't **give in** to perfectionism.  
-> **A:** What did you **give away**?  
-> **B:** Reusable jars I didn't need.  
-> **A:** How did the workshop **go off**?  
+> **A:** How is sustainable living going?<br>
+> **B:** I'm **getting through** the difficult stage.<br>
+> **A:** Do you **get along with** the neighbours?<br>
+> **B:** Yes, we share compost.<br>
+> **A:** Did you **give up** plastic?<br>
+> **B:** I reduced it, but I didn't **give in** to perfectionism.<br>
+> **A:** What did you **give away**?<br>
+> **B:** Reusable jars I didn't need.<br>
+> **A:** How did the workshop **go off**?<br>
 > **B:** Very well, although the fire alarm **went off**.
 
 Representa el diálogo con dos voces y cambia tres datos: el proyecto, el objeto regalado y el problema del taller. Mantén intactos los phrasals. Luego invierte la tarea: conserva la historia y sustituye un phrasal por una explicación sencilla, para que tu compañero adivine la combinación exacta.
