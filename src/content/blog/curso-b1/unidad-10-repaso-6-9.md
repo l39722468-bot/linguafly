@@ -20,6 +20,7 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-10-repaso-6-9'
 image: /blog/curso-b1/unit-10/review-map.png
 alt: Mapa de repaso B1 unidades 6 a 9
 related_routes:
+  - unidad-10-repaso-6-9-ejercicios-soluciones
   - unidad-6-future-will-going-to
   - unidad-7-was-were-going-to
   - unidad-8-modals-deduction
@@ -224,6 +225,8 @@ En el repaso, **no memorices tablas**: inventa mini-historias (viaje cancelado +
 ---
 
 ## Practica ahora
+
+- [Ejercicios Unidad 10 B1 (con soluciones)](/blog/curso-b1/unidad-10-repaso-6-9-ejercicios-soluciones)
 
 1. Relee U6–U9 en 20 minutos (solo mapas + ejemplos).  
 2. Haz los 5 ejercicios de esta página en voz alta.  

@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-8-modals-deduction'
 image: /blog/curso-b1/unit-8/modals-deduction.png
 alt: "Must, might y can't para deducciones B1"
 related_routes:
+  - unidad-8-modals-deduction-ejercicios-soluciones
   - unidad-7-was-were-going-to
   - unidad-9-used-to-be-get-used-to
   - may-might-ingles
@@ -261,6 +262,8 @@ Di en voz alta la evidencia (*the lights are on*, *he's in Paris*). Si la eviden
 ---
 
 ## Practica ahora
+
+- [Ejercicios Unidad 8 B1 (con soluciones)](/blog/curso-b1/unidad-8-modals-deduction-ejercicios-soluciones)
 
 1. Mira a alguien en una foto y escribe 3 deducciones (*must / might / can't*).  
 2. Practica el diálogo del vecino.  

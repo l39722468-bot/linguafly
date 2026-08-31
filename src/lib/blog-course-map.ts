@@ -853,6 +853,18 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-10-repaso-6-9': [
     { courseId: 'b1', unitNumber: 10 },
   ],
+  'unidad-7-was-were-going-to-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 7 },
+  ],
+  'unidad-8-modals-deduction-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 8 },
+  ],
+  'unidad-9-used-to-be-get-used-to-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 9 },
+  ],
+  'unidad-10-repaso-6-9-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 10 },
+  ],
   'unidad-1-repaso-a2-b1-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 1 },
   ],

@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-9-used-to-be-get-used
 image: /blog/curso-b1/unit-9/used-to-trio.png
 alt: Contraste used to, be used to y get used to B1
 related_routes:
+  - unidad-9-used-to-be-get-used-to-ejercicios-soluciones
   - unidad-8-modals-deduction
   - unidad-10-repaso-6-9
   - unidad-1-repaso-a2-b1
@@ -271,6 +272,8 @@ Pregúntate: ¿**ya no** lo hago? → *used to*. ¿**Ya no me cuesta**? → *be 
 ---
 
 ## Practica ahora
+
+- [Ejercicios Unidad 9 B1 (con soluciones)](/blog/curso-b1/unidad-9-used-to-be-get-used-to-ejercicios-soluciones)
 
 1. Escribe 4 frases: 2 *used to*, 1 *be used to*, 1 *get used to*.  
 2. Compara tu vida de hace 10 años con ahora.  

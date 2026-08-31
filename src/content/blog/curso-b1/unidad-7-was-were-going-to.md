@@ -19,6 +19,7 @@ canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-7-was-were-going-to'
 image: /blog/curso-b1/unit-7/was-were-going-to.png
 alt: Estructura was/were going to para planes no realizados B1
 related_routes:
+  - unidad-7-was-were-going-to-ejercicios-soluciones
   - unidad-6-future-will-going-to
   - unidad-8-modals-deduction
   - will-going-to-diferencia
@@ -262,6 +263,8 @@ Si puedes añadir **but + razón**, casi siempre encaja *was/were going to*. Sin
 ---
 
 ## Practica ahora
+
+- [Ejercicios Unidad 7 B1 (con soluciones)](/blog/curso-b1/unidad-7-was-were-going-to-ejercicios-soluciones)
 
 1. Reescribe 5 planes tuyos del mes pasado con *I was going to… but…*.  
 2. Grábate el reading de Japón.  
