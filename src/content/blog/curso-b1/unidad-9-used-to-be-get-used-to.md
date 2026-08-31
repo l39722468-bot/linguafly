@@ -9,12 +9,17 @@ description: >-
   vocabulario de habits & lifestyle y audios.
 readTime: 16 min
 keywords:
-  - used to be used to get used to
+  - - used to be used to get used to
   - used to B1
   - acostumbrarse en inglés
   - habits lifestyle vocabulary
   - inglés B1 unidad 9
   - I used to live
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso de inglés online gratis
+  - curso inglés B1 gratis
+  - aprender inglés B1 gratis
 canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-9-used-to-be-get-used-to'
 image: /blog/curso-b1/unit-9/used-to-trio.png
 alt: Contraste used to, be used to y get used to B1

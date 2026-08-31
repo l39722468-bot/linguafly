@@ -10,12 +10,17 @@ description: >-
   audios.
 readTime: 14 min
 keywords:
-  - repaso B1 unidades 6-9
+  - - repaso B1 unidades 6-9
   - future forms review B1
   - modals deduction review
   - used to review B1
   - inglés B1 unidad 10
   - was going to must used to
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso de inglés online gratis
+  - curso inglés B1 gratis
+  - repaso inglés B1 gratis
 canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-10-repaso-6-9'
 image: /blog/curso-b1/unit-10/review-map.png
 alt: Mapa de repaso B1 unidades 6 a 9

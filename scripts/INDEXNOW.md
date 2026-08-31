@@ -2,6 +2,30 @@
 
 IndexNow es un protocolo abierto que notifica a los buscadores (Bing, Yandex, Seznam, Naver) cuando una URL se crea o cambia. Una sola petición al endpoint compartido (`api.indexnow.org`) llega a todos. Google no lo soporta todavía.
 
+## Flujo al crear artículos (obligatorio)
+
+Cada bloque de contenido nuevo del blog debe acabar en Bing lo antes posible:
+
+1. **Keywords Bing** en el frontmatter (además del tema de la unidad):
+   - `curso de inglés gratis`
+   - `aprender inglés gratis`
+   - `curso de inglés online gratis`
+   - + 1–2 variantes del nivel/tema (`curso inglés B1 gratis`, etc.)
+2. **Merge a `main`** (o push directo) del markdown en `src/content/blog/**` o hubs en `src/content/hubs/**`.
+3. El workflow **IndexNow** se dispara solo y notifica a Bing las URLs nuevas/cambiadas.
+4. Si el artículo aún no está en producción (CF deploy pendiente), IndexNow igual acepta la URL; Bing la rastrea cuando el deploy esté vivo.
+5. Opcional, envío manual inmediato tras el deploy:
+
+```bash
+npm run indexnow
+# o URLs concretas:
+node scripts/indexnow-submit.mjs \
+  https://linguafly.app/blog/curso-b1/unidad-7-was-were-going-to \
+  https://linguafly.app/blog/curso-b1/unidad-7-was-were-going-to-ejercicios-soluciones
+```
+
+IndexNow **no posiciona** por sí solo: acelera el descubrimiento. El ranking en Bing depende de keywords, enlaces internos, hubs y calidad del artículo.
+
 ## Host canónico
 
 - **Host:** `linguafly.app` (no usar `www.focus-on-english.com`; ese dominio está deshabilitado)
@@ -57,11 +81,12 @@ node scripts/indexnow-submit.mjs \
 
 ## Integración CI (activa)
 
-El repositorio ya incluye `.github/workflows/indexnow.yml` para automatizar el envío tras cada `push` a `main` cuando cambian artículos:
+El repositorio ya incluye `.github/workflows/indexnow.yml` para automatizar el envío tras cada `push` a `main` cuando cambian artículos **o hubs**:
 
-- Trigger: `push` en `main` con cambios en `src/content/blog/**/*.md`.
+- Trigger: `push` en `main` con cambios en `src/content/blog/**/*.md` o `src/content/hubs/**/*.md`.
 - Modo por defecto: envía URLs cambiadas desde `github.event.before` hasta `HEAD`.
 - Fallback: si no hay `before` SHA válido (casos especiales), envía sitemap completo (`--all`).
+- Manual: `workflow_dispatch` con modo `changed` o `all`.
 
 También puedes ejecutarlo manualmente con `workflow_dispatch`.
 

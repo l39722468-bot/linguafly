@@ -9,11 +9,16 @@ description: >-
   personal feelings, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 8
+  - - ejercicios inglés B1 unidad 8
   - must might can't ejercicios
   - modales de deducción
   - must be happy
   - curso B1 Linguafly
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso de inglés online gratis
+  - curso inglés B1 gratis
+  - gramática inglés B1 gratis
 canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-8-modals-deduction-ejercicios-soluciones'
 image: /blog/curso-b1/unit-8/modals-deduction.png
 alt: Modals of deduction — ejercicios B1 Unidad 8

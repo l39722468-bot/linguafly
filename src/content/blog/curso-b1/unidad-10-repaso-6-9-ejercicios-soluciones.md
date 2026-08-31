@@ -9,11 +9,16 @@ description: >-
   travel, plans, feelings, habits (mix), reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 10
+  - - ejercicios inglés B1 unidad 10
   - repaso B1 unidades 6-9
   - ejercicios integración B1
   - must used to going to
   - curso B1 Linguafly
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso de inglés online gratis
+  - curso inglés B1 gratis
+  - repaso inglés B1 gratis
 canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-10-repaso-6-9-ejercicios-soluciones'
 image: /blog/curso-b1/unit-10/review-map.png
 alt: Repaso 6–9 — ejercicios B1 Unidad 10

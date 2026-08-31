@@ -9,12 +9,17 @@ description: >-
   no se realizaron. Guía Unidad 7 con vocabulario de plans & intentions y audios.
 readTime: 15 min
 keywords:
-  - was were going to B1
+  - - was were going to B1
   - planes no realizados inglés
   - I was going to
   - change your mind postpone
   - inglés B1 unidad 7
   - plans and intentions
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso de inglés online gratis
+  - curso inglés B1 gratis
+  - ejercicios inglés B1 gratis
 canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-7-was-were-going-to'
 image: /blog/curso-b1/unit-7/was-were-going-to.png
 alt: Estructura was/were going to para planes no realizados B1

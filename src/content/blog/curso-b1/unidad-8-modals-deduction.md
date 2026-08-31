@@ -9,12 +9,17 @@ description: >-
   vocabulario de sentimientos personales y audios.
 readTime: 15 min
 keywords:
-  - must might can't B1
+  - - must might can't B1
   - modales de deducción inglés
   - must be happy
   - modal verbs of deduction
   - inglés B1 unidad 8
   - personal feelings vocabulary
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso de inglés online gratis
+  - curso inglés B1 gratis
+  - gramática inglés B1 gratis
 canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-8-modals-deduction'
 image: /blog/curso-b1/unit-8/modals-deduction.png
 alt: "Must, might y can't para deducciones B1"
