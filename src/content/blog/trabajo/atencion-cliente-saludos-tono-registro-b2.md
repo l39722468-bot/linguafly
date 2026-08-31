@@ -223,4 +223,4 @@ Esta sección cierra el objetivo de extensión del artículo con material **acci
 
 ---
 
-**Relacionado:** profundiza en clientes difíciles, email y telefonía en los artículos de esta serie sobre **[atención al cliente inglés](/blog/temas/atencion-al-cliente-ingles)**.
+**Relacionado:** profundiza en clientes difíciles, email y telefonía en los artículos de esta serie sobre **[atención al cliente inglés](/blog/temas/ingles-para-atencion-al-cliente)**.

@@ -21,8 +21,7 @@ related_routes:
   - unidad-34-subject-object-questions
   - unidad-33-gerunds-infinitives-ejercicios-soluciones
   - ingles-a2
-  - preguntas-en-ingles
-  - wh-questions
+  - unidad-4-wh-questions-past-simple
   - unidad-33-gerunds-infinitives
 faqs:
   - question: ¿Qué ejercicios incluye la Unidad 34 del curso A2?

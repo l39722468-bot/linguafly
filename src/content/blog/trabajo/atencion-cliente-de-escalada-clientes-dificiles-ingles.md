@@ -198,4 +198,4 @@ Esta sección cierra el objetivo de extensión del artículo con material **acci
 
 **Atención al cliente en inglés** con clientes difíciles es **gestión emocional** + **precisión**. Si tu inglés mantiene calma, fronteras y acciones claras, reduces churn y proteges tu salud laboral.
 
-Sigue la serie en **[atención al cliente inglés](/blog/temas/atencion-al-cliente-ingles)**.
+Sigue la serie en **[atención al cliente inglés](/blog/temas/ingles-para-atencion-al-cliente)**.

@@ -222,4 +222,4 @@ Esta sección cierra el objetivo de extensión del artículo con material **acci
 
 **Atención al cliente en inglés** sobre políticas monetarias requiere **precisión léxica** + **prudencia**. Si dominas refund/warranty/chargeback y cierras con plazos realistas, reduces conflictos y proteges a la empresa y al cliente.
 
-Amplía en **[atención al cliente inglés](/blog/temas/atencion-al-cliente-ingles)**.
+Amplía en **[atención al cliente inglés](/blog/temas/ingles-para-atencion-al-cliente)**.

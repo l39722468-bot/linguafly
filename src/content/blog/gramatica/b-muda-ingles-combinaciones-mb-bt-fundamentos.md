@@ -218,4 +218,4 @@ Esta sección cierra el objetivo de extensión del artículo con material **acci
 
 La **b muda** es un ejemplo perfecto de por qué el inglés exige **audio + hábito**: la ortografía engaña. Aprende patrones, memoriza palabras clave y practica lectura en voz alta con verificación.
 
-Profundiza en **[b muda inglés](/blog/temas/b-muda-ingles)** y conecta con nuestra guía general de **[letras mudas](/blog/temas/letras-mudas-en-ingles-lista)**.
+Profundiza en **[b muda inglés](/blog/temas/b-muda-ingles)** y conecta con nuestra guía general de **[letras mudas](/blog/gramatica/letras-mudas-ingles-lista)**.

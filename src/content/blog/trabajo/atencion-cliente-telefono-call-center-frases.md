@@ -187,4 +187,4 @@ Esta sección cierra el objetivo de extensión del artículo con material **acci
 
 **Atención al cliente en inglés** telefónica es un deporte de **precisión auditiva**. Si mejoras confirmación y holds, bajan tickets repetidos y sube la satisfacción percibida.
 
-Más recursos en **[atención al cliente inglés](/blog/temas/atencion-al-cliente-ingles)**.
+Más recursos en **[atención al cliente inglés](/blog/temas/ingles-para-atencion-al-cliente)**.

@@ -21,8 +21,6 @@ alt: Esquema de gerundios e infinitivos A2
 related_routes:
   - unidad-33-gerunds-infinitives-ejercicios-soluciones
   - unidad-32-phrasal-verbs-separables
-  - gerundios-e-infinitivos
-  - verbos-seguidos-de-infinitivo-o-gerundio
   - ingles-a2
 faqs:
   - question: ¿Cuándo uso -ing después de un verbo?
@@ -463,8 +461,7 @@ Practica ahora:
 Guías relacionadas:
 
 - [U32 — Phrasal verbs separables](/blog/curso-a2/unidad-32-phrasal-verbs-separables)
-- [Gerundios e infinitivos](/blog/gramatica/gerundios-e-infinitivos)
-- [Verbos + infinitivo o gerundio](/blog/gramatica/verbos-seguidos-de-infinitivo-o-gerundio)
+- [U34 — Subject & Object Questions](/blog/curso-a2/unidad-34-subject-object-questions)
 - [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
 
 ---

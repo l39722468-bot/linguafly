@@ -57,9 +57,23 @@ const nextConfig = {
       // Legacy: solo /curso/* (sin guión) se redirige al blog
       { source: '/curso/:path*', destination: '/blog', permanent: true },
 
-      // PT-BR: artículos antes publicados con categoría en la URL
-      { source: '/pt-br/blog/:category/:slug', destination: '/pt-br/blog/:slug', permanent: true },
-      { source: '/pt-br/blog/ielts-band-scores-guia', destination: '/pt-br/blog/preparar-ielts-desde-b2', permanent: true },
+      // PT-BR retirado: redirigir tráfico legacy a equivalentes ES (o home/blog)
+      { source: '/pt-br/blog/ielts-band-scores-guia', destination: '/blog/examenes/preparar-ielts-desde-b2', permanent: true },
+      { source: '/pt-br/blog/cambridge-c2-proficiency-guia-preparacion', destination: '/blog/examenes/cambridge-c2-proficiency-guia', permanent: true },
+      { source: '/pt-br/blog/:category/:slug', destination: '/blog/examenes/:slug', permanent: true },
+      { source: '/pt-br/blog/:slug', destination: '/blog/examenes/:slug', permanent: true },
+      { source: '/pt-br/blog', destination: '/blog', permanent: true },
+      { source: '/pt-br', destination: '/', permanent: true },
+      { source: '/pt-br/:path*', destination: '/', permanent: true },
+
+      // Fix: slugs internos rotos → destinos canónicos ES
+      { source: '/blog/gramatica/gerundios-e-infinitivos', destination: '/blog/curso-a2/unidad-33-gerunds-infinitives', permanent: true },
+      { source: '/blog/gramatica/verbos-seguidos-de-infinitivo-o-gerundio', destination: '/blog/curso-a2/unidad-33-gerunds-infinitives', permanent: true },
+      { source: '/blog/gramatica/preguntas-en-ingles', destination: '/blog/curso-a2/unidad-34-subject-object-questions', permanent: true },
+      { source: '/blog/gramatica/wh-questions', destination: '/blog/curso-a2/unidad-4-wh-questions-past-simple', permanent: true },
+      { source: '/blog/temas/atencion-al-cliente-ingles', destination: '/blog/temas/ingles-para-atencion-al-cliente', permanent: true },
+      { source: '/blog/temas/ingles-para-viajes-largos', destination: '/blog/temas/ingles-para-viajar', permanent: true },
+      { source: '/blog/temas/letras-mudas-en-ingles-lista', destination: '/blog/gramatica/letras-mudas-ingles-lista', permanent: true },
 
       // E-E-A-T: autores ficticios retirados, todo el contenido firmado por el equipo editorial.
       // /blog/autor/david-torres y /blog/autor/sara-mendez → /sobre-nosotros (con contexto real).
