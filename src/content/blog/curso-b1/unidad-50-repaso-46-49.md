@@ -144,7 +144,7 @@ Curso:
 
 Guía teórica siguiente:
 
-- Módulo 6 (U51+) — próximamente
+- [U51 — Review conditionals](/blog/curso-b1/unidad-51-review-conditionals)
 
 Guías relacionadas:
 
