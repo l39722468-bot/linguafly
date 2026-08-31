@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 47 del curso B1** (*Would Ra
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *would rather / would sooner + preferences*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-47-would-rather-preferences).
+
 ![Would Rather & Preferences](/blog/curso-b1/unit-47/would-rather-sooner.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** would rather / would sooner + preferences
+**Objetivo:** practicar would rather / would sooner + preferences.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I'd rather ___ at home tonight. → *stay / to stay / staying*
 2. I'd rather walk ___ take the bus. → *than / then / that*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. would rather + ___ → *bare infinitive / to infinitive / -ing*
 2. would rather A ___ B → *than / then / that*
 3. would rather (that) + ___ → *past / present / infinitive*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *I would rather to stay.*
 2. *I'd rather walk then take the bus.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** preferences
+**Objetivo:** preferences.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. preference → *preferencia · necessity · advice*
 2. prefer → *preferir · need · warn*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. would rather ≈ ___ → *preferiría / más te vale / necesitas*
 2. would sooner ≈ ___ → *preferiría (más fuerte) / obligación / consejo*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-47-would-rather-preferences).
-15. Continúa en la [Unidad 47 del curso](/curso-b1/unit-47).
+Completa con una de estas palabras: *preference* · *prefer* · *favourite* · *rather than* · *opt for*
+
+11. Write a short sentence with **preference** and the grammar focus (*would rather / would sooner + preferences*).  
+12. Write a short sentence with **prefer**.  
+13. Write a short sentence with **favourite**.  
+14. Choose the best word for this idea: «en lugar de» → **rather than** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-47-would-rather-preferences).  
+15. Practise aloud, then continue in the [Unidad 47 del curso](/curso-b1/unit-47).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-47**
+11. Modelo: usa **preference** en una frase natural con *would rather / would sooner + preferences*.  
+12. Modelo: usa **prefer** en una frase corta.  
+13. Modelo: usa **favourite** en una frase corta.  
+14. **rather than** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-47**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Stay or go
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar would rather / would sooner + preferences.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-47/reading-workbook.mp3" title="🔊 Reading: Stay or go"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I'd rather stay at home tonight. I'd rather walk than take the bus. I'd sooner die than apologise. I'd rather you didn't tell him. I'd rather not mention it.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Rather ___ at home? → *stay / to stay*
-2. Walk ___ bus? → *than / then*
-3. Rather you ___ tell? → *didn't / don't*
-4. ___ not mention? → *rather / sooner*
-5. Sooner die ___ apologise? → *than / then*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **stay** · 2. **than** · 3. **didn't** · 4. **rather** · 5. **than**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *preference / advice*
-7. Find would rather
-8. Find would sooner
-9. Find rather you didn't
-10. Write would rather…
+1. I'd rather stay at home ___.
+2. I'd ___ walk than take the bus.
+3. I'd sooner die than ___.
+4. I'd rather you didn't ___ him.
+5. I'd rather not ___ it.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **would rather** · 7. **rather stay / walk than** · 8. **sooner die than** · 9. **rather you didn't tell** · 10. **Model OK**
+1. **tonight** · 2. **rather** · 3. **apologise** · 4. **tell** · 5. **mention**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Prefs vocab? → *yes / none*
-12. rather + to OK? → *False / True*
-13. Course → */curso-b1/unit-47*
-14. rather (that) + present? → *False / True*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar would rather / would sooner + preferences.*
+8. Copia una frase (o trozo) con **rather**.
+9. Copia una frase (o trozo) con **sooner**.
+10. Copia una frase (o trozo) con **sooner**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **preference, favourite, opt for** · 12. **False** · 13. **/curso-b1/unit-47** · 14. **False (past)** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar would rather / would sooner + preferences.*).  
+7. **practicar would rather / would sooner + preferences.**  
+8. Copia del texto algo con *rather* (ej.: «I'd rather stay at home tonight.»).  
+9. Copia del texto algo con *sooner*.  
+10. Copia del texto algo con *sooner*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar would rather / would sooner + preferences.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar would rather / would sooner + preferences.*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-47](/curso-b1/unit-47)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-47-would-rather-preferences) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar would rather / would sooner + preferences.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar would rather / would sooner + preferences.*).  
+14. **/curso-b1/unit-47**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Gina on preferences
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar would rather / would sooner + preferences.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-47/listening-workbook.mp3" title="🔊 Listening: Gina on preferences"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Gina. I'd rather stay at home tonight. I'd rather walk than take the bus. I'd sooner die than apologise. I'd rather you didn't tell him. I'd rather not mention it.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Gina / Frank / Iris*
-2. Rather ___ home → *stay / to stay*
-3. Walk ___ bus → *than / then*
-4. Rather you ___ tell → *didn't / don't*
-5. Sooner die ___ apologise → *than / then*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I'd rather stay at home ___.  
+4. Completa: I'd ___ walk than take the bus.  
+5. Completa: I'd sooner die than ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Gina** · 2. **stay** · 3. **than** · 4. **didn't** · 5. **than**
+1. **Gina**  
+2. **Gina**  
+3. **tonight**  
+4. **rather**  
+5. **apologise**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Main grammar? → *preference / advice*
-7. Find would rather
-8. Find rather you didn't
-9. Write would rather…
-10. Prefs words? → *yes / none*
+6. Completa: I'd rather you didn't ___ him.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Gina.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **would rather** · 7. **rather stay / walk than** · 8. **rather you didn't tell** · 9. **Model OK** · 10. **preference, favourite**
+6. **tell**  
+7. **practicar would rather / would sooner + preferences.**  
+8. «I'd rather stay at home tonight.»  
+9. «I'd rather walk than take the bus.»  
+10. Modelo: Gina habla usando *practicar would rather / would sooner + preferences.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Shadow
-12. rather + to? → *False / True*
-13. Course → */curso-b1/unit-47*
-14. would sooner → *yes / no*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar would rather / would sooner + preferences.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar would rather / would sooner + preferences.*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **done** · 12. **False** · 13. **/curso-b1/unit-47** · 14. **yes** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar would rather / would sooner + preferences.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-47-would-rather-preferences).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *would rather / would sooner + preferences*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 3× would rather / would sooner.
 2. Completa: I'd rather ___ at home.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Preferiría que no se lo dijeras.
 13. Explica would rather vs would prefer en 1 frase.
 14. Escribe 1× would rather (that) + past.
-15. Autochequeo: would rather sin to.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open three.
-2. **stay**
-3. **than**
-4. **didn't tell**
-5. **rather**
-6. would rather **stay**
-7. you **didn't** tell him
-8. Open.
-9. OK.
-10. Open.
-11. I'd rather stay at home.
-12. I'd rather you didn't tell him.
-13. rather + bare inf; prefer + to.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *would rather / would sooner + preferences*.
+2. Completa según la regla de *would rather / would sooner + preferences* (mira la teoría si dudas).
+3. Completa según la regla de *would rather / would sooner + preferences* (mira la teoría si dudas).
+4. Completa según la regla de *would rather / would sooner + preferences* (mira la teoría si dudas).
+5. Completa según la regla de *would rather / would sooner + preferences* (mira la teoría si dudas).
+6. Corrige: *I would rather to stay.* → forma correcta con *would rather / would sooner + preferences*.
+7. Corrige: *I'd rather you don't tell him.* → forma correcta con *would rather / would sooner + preferences*.
+8. Modelo libre correcto con *would rather / would sooner + preferences*.
+9. Modelo libre correcto con *would rather / would sooner + preferences*.
+10. Respuesta abierta — revisa que aparezca *would rather / would sooner + preferences*.
+11. Traduce al inglés usando *would rather / would sooner + preferences*.
+12. Traduce al inglés usando *would rather / would sooner + preferences*.
+13. Explicación breve en 1 frase (concepto clave de *would rather / would sooner + preferences*).
+14. Modelo libre correcto con *would rather / would sooner + preferences*.
+15. Autochequeo: ¿puedes explicar *would rather / would sooner + preferences* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-47-would-rather-preferences).
 
 </details>
 
----
 
 ## Cómo seguir
 

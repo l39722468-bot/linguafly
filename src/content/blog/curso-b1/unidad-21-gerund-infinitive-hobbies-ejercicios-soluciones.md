@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 21 del curso B1** (*Gerund v
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies).
+
 ![Gerund vs Infinitive (1) & Hobbies](/blog/curso-b1/unit-21/gerund-infinitive-1.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)
+**Objetivo:** practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I enjoy ___ at the weekend. → *hiking / to hike / hike*
 2. She wants ___ a museum. → *to visit / visiting / visit*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. I need ___ photography. → *to practise / practising / practise*
 2. He suggested ___ to the cinema. → *going / to go / go*
 3. We hope ___ the exam. → *to pass / passing / pass*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *I enjoy to hike.*
 2. *She wants visiting a museum.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** hobbies & leisure
+**Objetivo:** hobbies & leisure.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. hiking → *senderismo · recibo · nevera*
 2. camping → *camping · descuento · lavadora*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. picnic ≈ ___ → *picnic / receipt / fridge*
 2. jogging ≈ ___ → *footing / discount / hallway*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies).
-15. Continúa en la [Unidad 21 del curso](/curso-b1/unit-21).
+Completa con una de estas palabras: *hiking* · *camping* · *museum* · *photography* · *cycling*
+
+11. Write a short sentence with **hiking** and the grammar focus (*gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*).  
+12. Write a short sentence with **camping**.  
+13. Write a short sentence with **museum**.  
+14. Choose the best word for this idea: «fotografía» → **photography** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies).  
+15. Practise aloud, then continue in the [Unidad 21 del curso](/curso-b1/unit-21).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-21**
+11. Modelo: usa **hiking** en una frase natural con *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.  
+12. Modelo: usa **camping** en una frase corta.  
+13. Modelo: usa **museum** en una frase corta.  
+14. **photography** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-21**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Weekend hobbies
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-21/reading-workbook.mp3" title="🔊 Reading: Weekend hobbies"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I enjoy hiking and cycling at the weekend. My sister wants to visit a new museum this month. We finished painting the living room yesterday. They decided to go camping next Friday. I need to practise photography more often and I avoid sitting all day.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Enjoy what? → *hiking/cycling / shopping only*
-2. Sister wants to ___ → *visit museum / sleep*
-3. Finished ___ → *painting / swimming*
-4. Decided to ___ → *camping / refund*
-5. Need to practise ___ → *photography / French only*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **hiking and cycling** · 2. **visit a museum** · 3. **painting the living room** · 4. **go camping** · 5. **photography**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Avoid ___ → *sitting / eating never*
-7. Main grammar? → *gerund/inf / passive*
-8. Find enjoy + -ing
-9. Find want + to
-10. Find finish + -ing
+1. I enjoy hiking and ___ at the weekend.
+2. My ___ wants to visit a new museum this month.
+3. We finished painting the living room ___.
+4. They ___ to go camping next Friday.
+5. I need to practise ___ more often and I avoid sitting all day.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **sitting all day** · 7. **gerund vs infinitive** · 8. **enjoy hiking and cycling** · 9. **wants to visit** · 10. **finished painting**
+1. **cycling** · 2. **sister** · 3. **yesterday** · 4. **decided** · 5. **photography**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Find decide + to
-12. Write 1 enjoy + 1 want
-13. Hobby vocab? → *yes / none*
-14. enjoy to hike OK? → *False / True*
-15. Course link → */curso-b1/unit-21*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).*
+8. Copia una frase (o trozo) con **enjoy**.
+9. Copia una frase (o trozo) con **finish**.
+10. Copia una frase (o trozo) con **want**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **decided to go camping** · 12. **Model OK** · 13. **hiking, cycling, museum, camping, photography** · 14. **False** · 15. **/curso-b1/unit-21**
+6. Modelo: resume el texto en tus palabras (tema + *practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).*).  
+7. **practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).**  
+8. Copia del texto algo con *enjoy* (ej.: «I enjoy hiking and cycling at the weekend.»).  
+9. Copia del texto algo con *finish*.  
+10. Copia del texto algo con *want*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *I enjoy to swim*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-21](/curso-b1/unit-21)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).*).  
+14. **/curso-b1/unit-21**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Sara's hobbies
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-21/listening-workbook.mp3" title="🔊 Listening: Sara's hobbies"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Sara. I enjoy hiking at the weekend. She wants to visit a museum. We finished painting the room. They decided to go camping. I avoid sitting all day and I need to practise photography.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Sara / Ben / Carla*
-2. Enjoy ___ → *hiking / shopping*
-3. Wants to visit ___ → *museum / office*
-4. Finished ___ → *painting / sleeping*
-5. Decided to ___ → *camping / refund*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I enjoy hiking at the ___.  
+4. Completa: She wants to visit a ___.  
+5. Completa: We ___ painting the room.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Sara** · 2. **hiking** · 3. **a museum** · 4. **painting the room** · 5. **go camping**
+1. **Sara**  
+2. **Sara**  
+3. **weekend**  
+4. **museum**  
+5. **finished**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Avoid ___ → *sitting / eating never*
-7. Need to practise ___ → *photography / French*
-8. Grammar? → *gerund/inf / passive*
-9. Find -ing
-10. Find to
+6. Completa: They ___ to go camping.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Sara.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **sitting all day** · 7. **photography** · 8. **gerund vs infinitive** · 9. **enjoy hiking / finished painting / avoid sitting** · 10. **wants to visit / decided to go / need to practise**
+6. **decided**  
+7. **practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).**  
+8. «I enjoy hiking at the weekend.»  
+9. «She wants to visit a museum.»  
+10. Modelo: Sara habla usando *practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write 1 enjoy + 1 want
-12. Hobby words? → *yes / none*
-13. Shadow audio
-14. enjoy to hike? → *False / True*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *I enjoy to swim*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **hiking, museum, painting, camping, photography** · 13. **done** · 14. **False** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× -ing (enjoy/finish) + 2× to (want/decide).
 2. Completa: I enjoy ___ (hike).
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Quiere visitar un museo.
 13. Pregunta Do you enjoy…? + respuesta.
 14. Escribe 1× avoid + -ing.
-15. Autochequeo: enjoy/finish → -ing; want/need/decide → to.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open 2+2.
-2. **hiking**
-3. **to visit**
-4. **painting**
-5. **to go**
-6. I enjoy **hiking**.
-7. She wants **to visit** a museum.
-8. I enjoy hiking. She wants to visit a museum.
-9. OK.
-10. Open hobbies paragraph.
-11. I enjoy hiking.
-12. She wants to visit a museum.
-13. Do you enjoy cycling? — Yes, I enjoy cycling.
-14. I avoid sitting all day.
-15. Self-check.
+1. Modelo libre correcto con *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+2. Completa según la regla de *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)* (mira la teoría si dudas).
+3. Completa según la regla de *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)* (mira la teoría si dudas).
+4. Completa según la regla de *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)* (mira la teoría si dudas).
+5. Completa según la regla de *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)* (mira la teoría si dudas).
+6. Corrige: *I enjoy to hike.* → forma correcta con *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+7. Corrige: *She wants visiting a museum.* → forma correcta con *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+8. Modelo libre correcto con *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+9. Modelo libre correcto con *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+10. Respuesta abierta — revisa que aparezca *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+11. Traduce al inglés usando *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+12. Traduce al inglés usando *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+13. Modelo libre correcto con *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+14. Modelo libre correcto con *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)*.
+15. Autochequeo: ¿puedes explicar *gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies).
 
 </details>
 
----
 
 ## Cómo seguir
 

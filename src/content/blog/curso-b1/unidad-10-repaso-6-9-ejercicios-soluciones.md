@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 10 del curso B1** (*Repaso 6
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *futuros, was/were going to, modales, used to*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-10-repaso-6-9).
+
 ![Repaso 6–9](/blog/curso-b1/unit-10/review-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** futuros, was/were going to, modales, used to
+**Objetivo:** practicar futuros, was/were going to, modales, used to.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I ___ visit my parents next weekend. (plan) → *am going to / will / was going to*
 2. She ___ be happy — she got promoted. → *must / might / can't*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. Wait — I ___ help you. → *will / am going to / used to*
 2. She ___ living in a big city. → *is used to / used to / was going to*
 3. I ___ have left my keys at work. → *might / must / can't*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *I am going to call you yesterday.*
 2. *That mustn't be him.* (imposible)
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** travel, plans, feelings, habits (mix)
+**Objetivo:** travel, plans, feelings, habits (mix).
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. postpone → *posponer · must · continuous*
 2. relieved → *aliviado · despegar · pueblo*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. was going to = ___ → *plan fallido / hábito pasado / casi seguro*
 2. used to = ___ → *hábito pasado / arreglo fijo / evidencia*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-10-repaso-6-9).
-15. Continúa en la [Unidad 10 del curso](/curso-b1/unit-10).
+Completa con una de estas palabras: *postpone* · *relieved* · *commuting* · *engaged* · *arrangement*
+
+11. Write a short sentence with **postpone** and the grammar focus (*futuros, was/were going to, modales, used to*).  
+12. Write a short sentence with **relieved**.  
+13. Write a short sentence with **commuting**.  
+14. Choose the best word for this idea: «prometido» → **engaged** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-10-repaso-6-9).  
+15. Practise aloud, then continue in the [Unidad 10 del curso](/curso-b1/unit-10).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-10**
+11. Modelo: usa **postpone** en una frase natural con *futuros, was/were going to, modales, used to*.  
+12. Modelo: usa **relieved** en una frase corta.  
+13. Modelo: usa **commuting** en una frase corta.  
+14. **engaged** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-10**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Mixed review paragraph
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar futuros, was/were going to, modales, used to.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-10/reading-workbook.mp3" title="🔊 Reading: Mixed review paragraph"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I used to live in a small town but now I live in London. I am meeting my sister at the airport next Saturday — she is flying from Spain. I have already booked my flight to Tokyo for next month. I was going to go last year but I cancelled because of work. My neighbour must be happy — he just moved into a new house. I am getting used to the busy city lifestyle.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Used to live in a small ___ → *town / castle / plane*
-2. Lives now in ___ → *London / Tokyo / village*
-3. Meeting sister at the ___ → *airport / park / office*
-4. Sister is flying from ___ → *Spain / Japan / Italy*
-5. Booked flight to ___ → *Tokyo / Paris / Rome*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **town** · 2. **London** · 3. **airport** · 4. **Spain** · 5. **Tokyo**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Was going to go last year but ___ → *cancelled because of work*
-7. Neighbour must be ___ → *happy / angry / late*
-8. Getting used to ___ lifestyle → *busy city / village / quiet*
-9. Find a future form in the text
-10. Find was going to
+1. I used to live in a small town but now I live in ___.
+2. I am meeting my sister at the airport next ___ — she is flying from Spain.
+3. I have ___ booked my flight to Tokyo for next month.
+4. I was going to go last year but I ___ because of work.
+5. My ___ must be happy — he just moved into a new house.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **cancelled / work** · 7. **happy** · 8. **busy city** · 9. **am meeting / is flying / booked…** · 10. **I was going to go last year**
+1. **London** · 2. **Saturday** · 3. **already** · 4. **cancelled** · 5. **neighbour**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Find must
-12. Find used to / getting used to
-13. Main idea? → *mixed / only A1 / empty*
-14. Write 4 sentences: going to, was going to, must, used to
-15. Course link → */curso-b1/unit-10*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar futuros, was/were going to, modales, used to.*
+8. Copia una frase (o trozo) con **going**.
+9. Copia una frase (o trozo) con **used**.
+10. Copia una frase (o trozo) con **used**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **must be happy** · 12. **used to live / getting used to** · 13. **mixed B1 structures in one story** · 14. **Model OK** · 15. **/curso-b1/unit-10**
+6. Modelo: resume el texto en tus palabras (tema + *practicar futuros, was/were going to, modales, used to.*).  
+7. **practicar futuros, was/were going to, modales, used to.**  
+8. Copia del texto algo con *going* (ej.: «I used to live in a small town but now I live in London.»).  
+9. Copia del texto algo con *used*.  
+10. Copia del texto algo con *used*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar futuros, was/were going to, modales, used to.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *He must to be tired*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-10](/curso-b1/unit-10)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-10-repaso-6-9) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar futuros, was/were going to, modales, used to.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar futuros, was/were going to, modales, used to.*).  
+14. **/curso-b1/unit-10**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Emma's mixed plans
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar futuros, was/were going to, modales, used to.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-10/listening-workbook.mp3" title="🔊 Listening: Emma's mixed plans"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Emma. I used to work in an office but now I work from home. I am going to travel to Italy next month. I was going to go last year but I had to cancel because of work. My friend must be happy — she just got engaged. I am used to early flights now because I travel a lot.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Emma / Tom / Lisa*
-2. Used to work in an ___ → *office / shop / farm*
-3. Works now ___ → *from home / abroad*
-4. Going to travel to ___ → *Italy / Japan / Spain*
-5. Was going to go ___ year → *last / next / this*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I used to work in an ___ but now I work from home.  
+4. Completa: I am going to ___ to Italy next month.  
+5. Completa: I was going to go last year but I had to cancel ___ of work.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Emma** · 2. **office** · 3. **from home** · 4. **Italy** · 5. **last**
+1. **Emma**  
+2. **Emma**  
+3. **office**  
+4. **travel**  
+5. **because**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Cancelled because of ___ → *work / weather / money*
-7. Friend must be ___ → *happy / angry / late*
-8. Friend just got ___ → *engaged / fired / lost*
-9. Used to early ___ → *flights / classes / meals*
-10. Find going to
+6. Completa: My friend must be happy — she just got ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Emma.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **work** · 7. **happy** · 8. **engaged** · 9. **flights** · 10. **am going to travel**
+6. **engaged**  
+7. **practicar futuros, was/were going to, modales, used to.**  
+8. «I used to work in an office but now I work from home.»  
+9. «I am going to travel to Italy next month.»  
+10. Modelo: Emma habla usando *practicar futuros, was/were going to, modales, used to.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Find was going to
-12. Find must
-13. Find used to / am used to
-14. Shadow audio
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar futuros, was/were going to, modales, used to.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *He must to be tired*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **was going to go last year** · 12. **must be happy** · 13. **used to work / am used to early flights** · 14. **done** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar futuros, was/were going to, modales, used to.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-10-repaso-6-9).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *futuros, was/were going to, modales, used to*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Una frase con cada: going to, was going to, must, can't, used to, get used to.
 2. Completa: I ___ visit my parents next weekend. (plan)
@@ -303,25 +351,24 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 <details>
 <summary>Ver solución</summary>
 
-1. Open — one of each structure.
-2. **am going to**
-3. **was going to**
-4. **must**
-5. **can't**
-6. **used to**
-7. **is used to**
-8. I **was going to** call you yesterday.
-9. That **can't** be him.
-10. I am used to **playing** / I **used to play**.
-11. Open mixed paragraph.
-12. was going to = unfulfilled plan; used to = past habit.
-13. I **was going to** go but I cancelled.
-14. She **must** be excited.
-15. Self-check vs review map.
+1. Modelo OK con *futuros, was/were going to, modales, used to*.
+2. Completa según la regla de *futuros, was/were going to, modales, used to* (mira la teoría si dudas).
+3. Completa según la regla de *futuros, was/were going to, modales, used to* (mira la teoría si dudas).
+4. Completa según la regla de *futuros, was/were going to, modales, used to* (mira la teoría si dudas).
+5. Completa según la regla de *futuros, was/were going to, modales, used to* (mira la teoría si dudas).
+6. Completa según la regla de *futuros, was/were going to, modales, used to* (mira la teoría si dudas).
+7. Completa según la regla de *futuros, was/were going to, modales, used to* (mira la teoría si dudas).
+8. Corrige: *I am going to call you yesterday.* → forma correcta con *futuros, was/were going to, modales, used to*.
+9. Corrige: *That mustn't be him.* → forma correcta con *futuros, was/were going to, modales, used to*.
+10. Corrige: *I am used to play…* → forma correcta con *futuros, was/were going to, modales, used to*.
+11. Respuesta abierta — revisa que aparezca *futuros, was/were going to, modales, used to*.
+12. Modelo OK con *futuros, was/were going to, modales, used to*.
+13. Traduce al inglés usando *futuros, was/were going to, modales, used to*.
+14. Traduce al inglés usando *futuros, was/were going to, modales, used to*.
+15. Autochequeo: ¿puedes explicar *futuros, was/were going to, modales, used to* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-10-repaso-6-9).
 
 </details>
 
----
 
 ## Cómo seguir
 

@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 50 del curso B1** (*Repaso 4
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-50-repaso-46-49).
+
 ![Repaso 46–49](/blog/curso-b1/unit-50/review-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** had better, would rather, phrasal verbs, need/needn't (mix U46–49)
+**Objetivo:** practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. You ___ better see a doctor. → *had / have / would*
 2. I'd ___ stay at home. → *rather / better / need*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. had better → ___ → *advice / preference / necessity*
 2. would rather → ___ → *preference / advice / phrasal verb*
 3. ran out of → ___ → *phrasal verb / modal / it's time*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *You had better to see a doctor.*
 2. *I'd rather to stay.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** advice, preferences, work & study, necessity (mix)
+**Objetivo:** advice, preferences, work & study, necessity (mix).
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. had better / it's time → *advice · would rather · run out*
 2. would rather / would sooner → *preferences · needn't · had better*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. had better → ___ → *advice / preference / phrasal*
 2. would rather → ___ → *preference / needn't / it's time*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-50-repaso-46-49).
-15. Continúa en la [Unidad 50 del curso](/curso-b1/unit-50).
+Completa con una de estas palabras: *had better / it's time* · *would rather / would sooner* · *work out / look forward to* · *need / needn't* · *advice / preference / deal with / essential*
+
+11. Write a short sentence with **had better / it's time** and the grammar focus (*had better, would rather, phrasal verbs, need/needn't (mix U46–49)*).  
+12. Write a short sentence with **would rather / would sooner**.  
+13. Write a short sentence with **work out / look forward to**.  
+14. Choose the best word for this idea: «necessity» → **need / needn't** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-50-repaso-46-49).  
+15. Practise aloud, then continue in the [Unidad 50 del curso](/curso-b1/unit-50).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-50**
+11. Modelo: usa **had better / it's time** en una frase natural con *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.  
+12. Modelo: usa **would rather / would sooner** en una frase corta.  
+13. Modelo: usa **work out / look forward to** en una frase corta.  
+14. **need / needn't** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-50**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Mixed review
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-50/reading-workbook.mp3" title="🔊 Reading: Mixed review"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > You had better see a doctor. I'd rather stay at home. We ran out of milk. You needn't hurry. It's time to go home.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. ___ better see doctor? → *had / would*
-2. Rather ___ home? → *stay / to*
-3. Ran ___ of milk? → *out / off*
-4. ___ hurry? → *needn't / must*
-5. Time ___ go? → *to / for*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **had** · 2. **stay** · 3. **out** · 4. **needn't** · 5. **to**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Classify had better → *advice / preference*
-7. Classify would rather → *preference / phrasal*
-8. Classify ran out of → *phrasal / needn't*
-9. Classify needn't → *no necessity / advice*
-10. Classify it's time to → *advice / preference*
+1. You had ___ see a doctor.
+2. I'd ___ stay at home.
+3. We ran out of ___.
+4. You needn't ___.
+5. ___ time to go home.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **advice** · 7. **preference** · 8. **phrasal** · 9. **no necessity** · 10. **advice timing**
+1. **better** · 2. **rather** · 3. **milk** · 4. **hurry** · 5. **It's**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Write 1× each
-12. Mixed U46-49? → *Yes / No*
-13. Course → */curso-b1/unit-50*
-14. Module 5 U41-50? → *Yes / No*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).*
+8. Copia una frase (o trozo) con **better**.
+9. Copia una frase (o trozo) con **rather**.
+10. Copia una frase (o trozo) con **need**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **Yes** · 13. **/curso-b1/unit-50** · 14. **Yes** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).*).  
+7. **practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).**  
+8. Copia del texto algo con *better* (ej.: «You had better see a doctor.»).  
+9. Copia del texto algo con *rather*.  
+10. Copia del texto algo con *need*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *Turn off it*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-50](/curso-b1/unit-50)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-50-repaso-46-49) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).*).  
+14. **/curso-b1/unit-50**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Jack's mixed review
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-50/listening-workbook.mp3" title="🔊 Listening: Jack's mixed review"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Jack. You had better see a doctor. I'd rather stay at home. We ran out of milk. You needn't hurry. It's time to go home.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Jack / Frank / Iris*
-2. ___ better doctor → *had / would*
-3. Rather ___ home → *stay / to*
-4. Ran ___ milk → *out / off*
-5. ___ hurry → *needn't / must*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: You had ___ see a doctor.  
+4. Completa: I'd ___ stay at home.  
+5. Completa: We ran out of ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Jack** · 2. **had** · 3. **stay** · 4. **out** · 5. **needn't**
+1. **Jack**  
+2. **Jack**  
+3. **better**  
+4. **rather**  
+5. **milk**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Classify had better → *advice / preference*
-7. Classify would rather → *preference / phrasal*
-8. Classify ran out of → *phrasal / needn't*
-9. Classify needn't → *no necessity / advice*
-10. Write 1× each
+6. Completa: You needn't ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Jack.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **advice** · 7. **preference** · 8. **phrasal** · 9. **no necessity** · 10. **Model OK**
+6. **hurry**  
+7. **practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).**  
+8. «You had better see a doctor.»  
+9. «I'd rather stay at home.»  
+10. Modelo: Jack habla usando *practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Shadow
-12. Mixed? → *Yes / No*
-13. Course → */curso-b1/unit-50*
-14. Module 5 complete? → *Yes / No*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *Turn off it*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **done** · 12. **Yes** · 13. **/curso-b1/unit-50** · 14. **Yes** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar had better, would rather, phrasal verbs, need/needn't (mix U46–49).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-50-repaso-46-49).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Una frase: had better, would rather, phrasal verb, needn't, it's time.
 2. Completa: You ___ better see a doctor.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Más te vale ver a un médico.
 13. Traduce: Preferiría quedarme en casa.
 14. Autochequeo con mapa U50.
-15. Open Ver solución checklist.
+15. Autochequeo: revisa tus respuestas y abre «Ver solución» solo al final.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open one of each.
-2. **had**
-3. **rather**
-4. **out**
-5. **needn't**
-6. **to**
-7. had better **see**
-8. rather **stay**
-9. needn't **hurry**
-10. Open mixed.
-11. OK.
-12. You had better see a doctor.
-13. I'd rather stay at home.
-14. Self-check.
-15. yes.
+1. Modelo OK con *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.
+2. Completa según la regla de *had better, would rather, phrasal verbs, need/needn't (mix U46–49)* (mira la teoría si dudas).
+3. Completa según la regla de *had better, would rather, phrasal verbs, need/needn't (mix U46–49)* (mira la teoría si dudas).
+4. Completa según la regla de *had better, would rather, phrasal verbs, need/needn't (mix U46–49)* (mira la teoría si dudas).
+5. Completa según la regla de *had better, would rather, phrasal verbs, need/needn't (mix U46–49)* (mira la teoría si dudas).
+6. Completa según la regla de *had better, would rather, phrasal verbs, need/needn't (mix U46–49)* (mira la teoría si dudas).
+7. Corrige: *had better to see* → forma correcta con *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.
+8. Corrige: *rather to stay* → forma correcta con *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.
+9. Corrige: *needn't to hurry* → forma correcta con *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.
+10. Respuesta abierta — revisa que aparezca *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.
+11. Modelo OK con *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.
+12. Traduce al inglés usando *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.
+13. Traduce al inglés usando *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.
+14. Autochequeo: ¿puedes explicar *had better, would rather, phrasal verbs, need/needn't (mix U46–49)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-50-repaso-46-49).
+15. Modelo OK con *had better, would rather, phrasal verbs, need/needn't (mix U46–49)*.
 
 </details>
 
----
 
 ## Cómo seguir
 

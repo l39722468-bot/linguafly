@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 8 del curso B1** (*Modal Ver
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *must / might / can't (deducción)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-8-modals-deduction).
+
 ![Modals of deduction](/blog/curso-b1/unit-8/modals-deduction.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** must / might / can't (deducción)
+**Objetivo:** practicar must / might / can't (deducción).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. She ___ be happy — she just got promoted. → *must / might / can't*
 2. That ___ be him — he is in Paris this week. → *must / might / can't*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. He ___ be tired — he has been working all day. → *must / might / can't*
 2. This ___ be the right address — let me check. → *must / might / can't*
 3. That ___ be right — I checked twice. → *must / might / can't*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *That mustn't be him.* (imposible)
 2. *He must to be tired.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** personal feelings
+**Objetivo:** personal feelings.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. anxious → *ansioso · aliviado · orgulloso*
 2. relieved → *aliviado · decepcionado · envidioso*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. proud ≈ ___ → *orgulloso / avergonzado / aburrido*
 2. grateful ≈ ___ → *agradecido / resentido / celoso*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-8-modals-deduction).
-15. Continúa en la [Unidad 8 del curso](/curso-b1/unit-8).
+Completa con una de estas palabras: *anxious* · *relieved* · *confident* · *disappointed* · *frustrated*
+
+11. Write a short sentence with **anxious** and the grammar focus (*must / might / can't (deducción)*).  
+12. Write a short sentence with **relieved**.  
+13. Write a short sentence with **confident**.  
+14. Choose the best word for this idea: «decepcionado» → **disappointed** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-8-modals-deduction).  
+15. Practise aloud, then continue in the [Unidad 8 del curso](/curso-b1/unit-8).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-8**
+11. Modelo: usa **anxious** en una frase natural con *must / might / can't (deducción)*.  
+12. Modelo: usa **relieved** en una frase corta.  
+13. Modelo: usa **confident** en una frase corta.  
+14. **disappointed** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-8**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Deductions about a neighbour
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar must / might / can't (deducción).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-8/reading-workbook.mp3" title="🔊 Reading: Deductions about a neighbour"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I think my neighbour must be very happy these days — I saw him moving into a new house last week. He might have got a promotion at work because he looks more confident. His wife can't be angry with him — they always walk together in the park smiling. She must feel relieved about the move too. I might invite them for coffee sometime to congratulate them.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Neighbour must be ___ → *happy / angry / tired*
-2. Why? He moved into a new ___ → *house / office / car*
-3. He might have got a ___ → *promotion / ticket / dog*
-4. He looks more ___ → *confident / anxious / angry*
-5. Wife can't be ___ → *angry / relieved / excited*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **happy** · 2. **house** · 3. **promotion** · 4. **confident** · 5. **angry**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. They walk in the ___ → *park / office / airport*
-7. She must feel ___ → *relieved / jealous / bored*
-8. Writer might invite them for ___ → *coffee / dinner only / nothing*
-9. Modal for strong deduction? → *must / might / can't*
-10. Modal for impossibility? → *can't / must / might*
+1. I think my ___ must be very happy these days — I saw him moving into a new house last week.
+2. He might have got a ___ at work because he looks more confident.
+3. His wife can't be angry with him — they always walk ___ in the park smiling.
+4. She must feel ___ about the move too.
+5. I might invite them for coffee sometime to ___ them.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **park** · 7. **relieved** · 8. **coffee** · 9. **must** · 10. **can't**
+1. **neighbour** · 2. **promotion** · 3. **together** · 4. **relieved** · 5. **congratulate**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Promotion is certain? → *False / True*
-12. Underline must / might / can't.
-13. Write one deduction about a friend.
-14. Feelings vocab in text? → *yes / none*
-15. Course link → */curso-b1/unit-8*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar must / might / can't (deducción).*
+8. Copia una frase (o trozo) con **must**.
+9. Copia una frase (o trozo) con **might**.
+10. Copia una frase (o trozo) con **can't**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **False (might)** · 12. **See text** · 13. **Model OK** · 14. **happy, confident, relieved** · 15. **/curso-b1/unit-8**
+6. Modelo: resume el texto en tus palabras (tema + *practicar must / might / can't (deducción).*).  
+7. **practicar must / might / can't (deducción).**  
+8. Copia del texto algo con *must* (ej.: «I think my neighbour must be very happy these days — I saw him moving into a new house last week.»).  
+9. Copia del texto algo con *might*.  
+10. Copia del texto algo con *can't*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar must / might / can't (deducción).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar must / might / can't (deducción).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-8](/curso-b1/unit-8)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-8-modals-deduction) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar must / might / can't (deducción).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar must / might / can't (deducción).*).  
+14. **/curso-b1/unit-8**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Lisa and Sarah
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar must / might / can't (deducción).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-8/listening-workbook.mp3" title="🔊 Listening: Lisa and Sarah"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Lisa. I just saw my friend Sarah at the supermarket. She must be excited — she was holding a wedding magazine and smiling a lot. She might be getting married soon! Her boyfriend can't be far — I saw a ring on her finger. They must have got engaged recently. I feel so happy for her!
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who is speaking? → *Lisa / Tom / Mark*
-2. Where did she see Sarah? → *supermarket / park / airport*
-3. Sarah must be ___ → *excited / angry / bored*
-4. Evidence? → *magazine / nothing / rain*
-5. She might be ___ soon → *getting married / moving / retiring*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I just saw my friend Sarah at the ___.  
+4. Completa: She must be excited — she was holding a wedding ___ and smiling a lot.  
+5. Completa: She might be ___ married soon!
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Lisa** · 2. **supermarket** · 3. **excited** · 4. **wedding magazine + smiling** · 5. **getting married**
+1. **Lisa**  
+2. **Lisa**  
+3. **supermarket**  
+4. **magazine**  
+5. **getting**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Boyfriend can't be ___ → *far / happy / late*
-7. Evidence for ring? → *ring / ticket / keys*
-8. They must have got ___ → *engaged / fired / lost*
-9. Lisa feels ___ → *happy / angry / jealous*
-10. Strong deduction modal? → *must / might / can't*
+6. Completa: Her ___ can't be far — I saw a ring on her finger.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Lisa.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **far** · 7. **ring on her finger** · 8. **engaged** · 9. **happy for her** · 10. **must**
+6. **boyfriend**  
+7. **practicar must / might / can't (deducción).**  
+8. «I just saw my friend Sarah at the supermarket.»  
+9. «She must be excited — she was holding a wedding magazine and smiling a lot.»  
+10. Modelo: Lisa habla usando *practicar must / might / can't (deducción).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Possibility modal? → *might / must / can't*
-12. Write Lisa's first deduction
-13. Write the can't line
-14. Shadow audio
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar must / might / can't (deducción).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar must / might / can't (deducción).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **might** · 12. **She must be excited…** · 13. **can't be far…** · 14. **done** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar must / might / can't (deducción).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-8-modals-deduction).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *must / might / can't (deducción)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 3 deducciones sobre alguien (*must / might / can't*).
 2. Completa: She ___ be happy — she got promoted.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: No puede ser él.
 13. Traduce: Podría haber dejado las llaves.
 14. Diálogo de 4 líneas con must/might/can't.
-15. Autochequeo: 1× cada modal.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Model: She must be tired. He might be late. That can't be true.
-2. **must**
-3. **can't**
-4. **might**
-5. She must feel relieved. He might be anxious.
-6. **must**
-7. For impossibility use **can't**, not mustn't.
-8. He **must be** tired.
-9. That **can't** be her.
-10. Open — evidence + modal + feeling.
-11. She **must** feel / be relieved.
-12. That **can't** be him.
-13. I **might** have left the keys.
-14. Open dialogue.
-15. Self-check.
+1. Modelo libre correcto con *must / might / can't (deducción)*.
+2. Completa según la regla de *must / might / can't (deducción)* (mira la teoría si dudas).
+3. Completa según la regla de *must / might / can't (deducción)* (mira la teoría si dudas).
+4. Completa según la regla de *must / might / can't (deducción)* (mira la teoría si dudas).
+5. Modelo libre correcto con *must / might / can't (deducción)*.
+6. Completa según la regla de *must / might / can't (deducción)* (mira la teoría si dudas).
+7. Modelo libre correcto con *must / might / can't (deducción)*.
+8. Corrige: *He must to be tired.* → forma correcta con *must / might / can't (deducción)*.
+9. Corrige: *That mustn't be her.* → forma correcta con *must / might / can't (deducción)*.
+10. Respuesta abierta — revisa que aparezca *must / might / can't (deducción)*.
+11. Traduce al inglés usando *must / might / can't (deducción)*.
+12. Traduce al inglés usando *must / might / can't (deducción)*.
+13. Traduce al inglés usando *must / might / can't (deducción)*.
+14. Respuesta abierta — revisa que aparezca *must / might / can't (deducción)*.
+15. Autochequeo: ¿puedes explicar *must / might / can't (deducción)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-8-modals-deduction).
 
 </details>
 
----
 
 ## Cómo seguir
 

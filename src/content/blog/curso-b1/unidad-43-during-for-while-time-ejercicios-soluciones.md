@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 43 del curso B1** (*During, 
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *during/for/while + time vocabulary*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-43-during-for-while-time).
+
 ![During, For, While & Time](/blog/curso-b1/unit-43/during-for-while.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** during/for/while + time vocabulary
+**Objetivo:** practicar during/for/while + time vocabulary.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I fell asleep ___ the film. → *during / while / for*
 2. We lived there ___ three years. → *for / during / while*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. during + ___ → *noun / clause / duration*
 2. for + ___ → *duration / noun event / clause*
 3. while + ___ → *clause / noun only / duration*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *during I was travelling*
 2. *for the film* (during screening)
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** time
+**Objetivo:** time.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. moment → *momento · depend · interested*
 2. period → *período · afraid · proud*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. during → ___ → *noun event / clause / duration number*
 2. for → ___ → *how long / when started / from…to*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-43-during-for-while-time).
-15. Continúa en la [Unidad 43 del curso](/curso-b1/unit-43).
+Completa con una de estas palabras: *moment* · *period* · *duration* · *meanwhile* · *throughout*
+
+11. Write a short sentence with **moment** and the grammar focus (*during/for/while + time vocabulary*).  
+12. Write a short sentence with **period**.  
+13. Write a short sentence with **duration**.  
+14. Choose the best word for this idea: «mientras tanto» → **meanwhile** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-43-during-for-while-time).  
+15. Practise aloud, then continue in the [Unidad 43 del curso](/curso-b1/unit-43).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-43**
+11. Modelo: usa **moment** en una frase natural con *during/for/while + time vocabulary*.  
+12. Modelo: usa **period** en una frase corta.  
+13. Modelo: usa **duration** en una frase corta.  
+14. **meanwhile** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-43**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: During the film
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar during/for/while + time vocabulary.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-43/reading-workbook.mp3" title="🔊 Reading: During the film"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I fell asleep during the film. We lived there for three years. I met her while I was travelling. She phoned during the meeting. The phone rang while we were eating.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Asleep ___ film? → *during / while*
-2. Lived there ___ years? → *for / during*
-3. Met her ___ travelling? → *while / during*
-4. Phoned ___ meeting? → *during / for*
-5. Rang ___ eating? → *while / during*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **during** · 2. **for three** · 3. **while** · 4. **during** · 5. **while**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *time trio / since*
-7. Find during + noun
-8. Find for + duration
-9. Find while + clause
-10. Write while…
+1. I fell ___ during the film.
+2. We ___ there for three years.
+3. I met her while I was ___.
+4. She phoned during the ___.
+5. The phone rang while we were ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **during/for/while** · 7. **during the film / meeting** · 8. **for three years** · 9. **while I was travelling / eating** · 10. **Model OK**
+1. **asleep** · 2. **lived** · 3. **travelling** · 4. **meeting** · 5. **eating**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Time vocab? → *yes / none*
-12. during + clause OK? → *False / True*
-13. Course → */curso-b1/unit-43*
-14. for + noun event? → *during / for*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar during/for/while + time vocabulary.*
+8. Copia una frase (o trozo) con **during**.
+9. Copia una frase (o trozo) con **while**.
+10. Copia una frase (o trozo) con **while**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **moment, period, duration, meanwhile** · 12. **False** · 13. **/curso-b1/unit-43** · 14. **during** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar during/for/while + time vocabulary.*).  
+7. **practicar during/for/while + time vocabulary.**  
+8. Copia del texto algo con *during* (ej.: «I fell asleep during the film.»).  
+9. Copia del texto algo con *while*.  
+10. Copia del texto algo con *while*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar during/for/while + time vocabulary.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar during/for/while + time vocabulary.*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-43](/curso-b1/unit-43)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-43-during-for-while-time) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar during/for/while + time vocabulary.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar during/for/while + time vocabulary.*).  
+14. **/curso-b1/unit-43**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Chris on time
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar during/for/while + time vocabulary.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-43/listening-workbook.mp3" title="🔊 Listening: Chris on time"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Chris. I fell asleep during the film. We lived there for three years. I met her while I was travelling. She phoned during the meeting. The phone rang while we were eating.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Chris / Dana / Eva*
-2. Asleep ___ film → *during / while*
-3. Lived ___ years → *for / during*
-4. Met ___ travelling → *while / during*
-5. Phoned ___ meeting → *during / for*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I fell ___ during the film.  
+4. Completa: We ___ there for three years.  
+5. Completa: I met her while I was ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Chris** · 2. **during** · 3. **for three** · 4. **while** · 5. **during**
+1. **Chris**  
+2. **Chris**  
+3. **asleep**  
+4. **lived**  
+5. **travelling**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Rang ___ eating → *while / during*
-7. Grammar? → *time trio / since*
-8. Find during
-9. Find for duration
-10. Write while…
+6. Completa: She phoned during the ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Chris.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **while** · 7. **during/for/while** · 8. **during the film / meeting** · 9. **for three years** · 10. **Model OK**
+6. **meeting**  
+7. **practicar during/for/while + time vocabulary.**  
+8. «I fell asleep during the film.»  
+9. «We lived there for three years.»  
+10. Modelo: Chris habla usando *practicar during/for/while + time vocabulary.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Time words? → *yes / none*
-12. Shadow
-13. during + clause? → *False / True*
-14. Course → */curso-b1/unit-43*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar during/for/while + time vocabulary.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar during/for/while + time vocabulary.*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **moment, period, meanwhile** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-43** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar during/for/while + time vocabulary.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-43-during-for-while-time).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *during/for/while + time vocabulary*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× during + 1× for + 1× while.
 2. Completa: asleep ___ the film.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Vivimos allí tres años.
 13. Explica during vs while en 1 frase.
 14. Escribe 1× for + duration.
-15. Autochequeo: noun→during; duration→for; clause→while.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open four.
-2. **during**
-3. **for**
-4. **while**
-5. **during**
-6. **while** I was… / **during** the trip
-7. **for** three years
-8. Open.
-9. OK.
-10. Open.
-11. I fell asleep during the film.
-12. We lived there for three years.
-13. during+noun; while+clause.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *during/for/while + time vocabulary*.
+2. Completa según la regla de *during/for/while + time vocabulary* (mira la teoría si dudas).
+3. Completa según la regla de *during/for/while + time vocabulary* (mira la teoría si dudas).
+4. Completa según la regla de *during/for/while + time vocabulary* (mira la teoría si dudas).
+5. Completa según la regla de *during/for/while + time vocabulary* (mira la teoría si dudas).
+6. Corrige: *during I was travelling* → forma correcta con *during/for/while + time vocabulary*.
+7. Corrige: *lived there during three years* → forma correcta con *during/for/while + time vocabulary*.
+8. Modelo libre correcto con *during/for/while + time vocabulary*.
+9. Modelo libre correcto con *during/for/while + time vocabulary*.
+10. Respuesta abierta — revisa que aparezca *during/for/while + time vocabulary*.
+11. Traduce al inglés usando *during/for/while + time vocabulary*.
+12. Traduce al inglés usando *during/for/while + time vocabulary*.
+13. Explicación breve en 1 frase (concepto clave de *during/for/while + time vocabulary*).
+14. Modelo libre correcto con *during/for/while + time vocabulary*.
+15. Autochequeo: ¿puedes explicar *during/for/while + time vocabulary* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-43-during-for-while-time).
 
 </details>
 
----
 
 ## Cómo seguir
 

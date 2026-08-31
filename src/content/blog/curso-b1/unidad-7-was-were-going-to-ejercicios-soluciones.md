@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 7 del curso B1** (*Was/Were 
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *was/were going to (planes no realizados)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-7-was-were-going-to).
+
 ![Was/were going to](/blog/curso-b1/unit-7/was-were-going-to.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** was/were going to (planes no realizados)
+**Objetivo:** practicar was/were going to (planes no realizados).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I ___ going to call you yesterday but I forgot. → *was / were / am*
 2. They ___ going to travel to Spain but cancelled. → *was / were / are*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. She ___ going to attend, but she came. (neg.) → *wasn't / weren't / isn't*
 2. They ___ going to tell him. (neg.) → *wasn't / weren't / aren't*
 3. What ___ you going to do before the rain started? → *was / were / are*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *I am going to call you yesterday.*
 2. *They was going to travel.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** plans & intentions
+**Objetivo:** plans & intentions.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. change your mind → *cambiar de opinión · cancelar · posponer*
 2. postpone → *posponer · decidirse · olvidar*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. make up your ___ → *mind / plan / trip*
 2. have second ___ → *thoughts / flights / hotels*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-7-was-were-going-to).
-15. Continúa en la [Unidad 7 del curso](/curso-b1/unit-7).
+Completa con una de estas palabras: *change your mind* · *postpone* · *cancel* · *intention* · *reschedule*
+
+11. Write a short sentence with **change your mind** and the grammar focus (*was/were going to (planes no realizados)*).  
+12. Write a short sentence with **postpone**.  
+13. Write a short sentence with **cancel**.  
+14. Choose the best word for this idea: «intención» → **intention** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-7-was-were-going-to).  
+15. Practise aloud, then continue in the [Unidad 7 del curso](/curso-b1/unit-7).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-7**
+11. Modelo: usa **change your mind** en una frase natural con *was/were going to (planes no realizados)*.  
+12. Modelo: usa **postpone** en una frase corta.  
+13. Modelo: usa **cancel** en una frase corta.  
+14. **intention** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-7**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Cancelled Japan trip
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar was/were going to (planes no realizados).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-7/reading-workbook.mp3" title="🔊 Reading: Cancelled Japan trip"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > Last year I was going to travel to Japan for my birthday. I had already booked the flight and hotel, but then I changed my mind because I got a new job. My friend was going to come with me too, but she had to postpone her trip. We were going to visit Tokyo and Kyoto. I was going to learn some Japanese before the trip, but I never had time. Maybe next year we will go.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Where was the person going to travel? → *Japan / China / Korea*
-2. Why change their mind? → *new job / weather / money*
-3. Who was going to come? → *a friend / a boss / nobody*
-4. Cities? → *Tokyo and Kyoto / Osaka / Seoul*
-5. Learn Japanese? → *No / Yes*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **Japan** · 2. **new job** · 3. **a friend** · 4. **Tokyo and Kyoto** · 5. **No**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Booked flight? → *Yes / No*
-7. Maybe go ___ year → *next / last / this*
-8. Main structure? → *was/were going to / will / used to*
-9. Friend had to ___ → *postpone / enjoy / book*
-10. Went to Japan last year? → *False / True*
+1. Last year I was going to travel to Japan for my ___.
+2. I had ___ booked the flight and hotel, but then I changed my mind because I got a new job.
+3. My friend was going to come with me too, but she had to ___ her trip.
+4. We were ___ to visit Tokyo and Kyoto.
+5. I was going to learn some ___ before the trip, but I never had time.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **Yes** · 7. **next** · 8. **was/were going to** · 9. **postpone** · 10. **False**
+1. **birthday** · 2. **already** · 3. **postpone** · 4. **going** · 5. **Japanese**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Underline 3× was/were going to.
-12. Write one more I was going to… but…
-13. Key vocab in text? → *booked… / only numbers*
-14. Ending tone? → *hopeful / angry / empty*
-15. Course link → */curso-b1/unit-7*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar was/were going to (planes no realizados).*
+8. Copia una frase (o trozo) con **were**.
+9. Copia una frase (o trozo) con **going**.
+10. Copia una frase (o trozo) con **going**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **See text** · 12. **Model OK** · 13. **booked, postpone, changed my mind** · 14. **hopeful** · 15. **/curso-b1/unit-7**
+6. Modelo: resume el texto en tus palabras (tema + *practicar was/were going to (planes no realizados).*).  
+7. **practicar was/were going to (planes no realizados).**  
+8. Copia del texto algo con *were* (ej.: «Last year I was going to travel to Japan for my birthday.»).  
+9. Copia del texto algo con *going*.  
+10. Copia del texto algo con *going*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar was/were going to (planes no realizados).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar was/were going to (planes no realizados).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-7](/curso-b1/unit-7)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-7-was-were-going-to) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar was/were going to (planes no realizados).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar was/were going to (planes no realizados).*).  
+14. **/curso-b1/unit-7**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Tom's weekend plans
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar was/were going to (planes no realizados).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-7/listening-workbook.mp3" title="🔊 Listening: Tom's weekend plans"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Tom and I want to tell you about my weekend plans. I was going to go to the cinema on Saturday with my sister, but she changed her mind and wanted to stay at home. We were going to watch a comedy but I ended up watching it alone. On Sunday I was going to study for my exam, but I postponed it because I felt tired. My parents were going to visit us but they cancelled due to bad weather.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Topic? → *weekend plans / work / food*
-2. Saturday plan? → *cinema / gym / office*
-3. With whom? → *sister / boss / strangers*
-4. Ended up? → *watching alone / flying / cooking*
-5. Film type? → *comedy / horror / news*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am Tom and I want to tell you about my ___ plans.  
+3. Completa: I was going to go to the cinema on ___ with my sister, but she changed her mind and wanted to stay at home.  
+4. Completa: We were going to watch a comedy but I ended up ___ it alone.  
+5. Completa: On Sunday I was going to study for my exam, but I ___ it because I felt tired.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **weekend plans** · 2. **cinema** · 3. **sister** · 4. **watching alone** · 5. **comedy**
+1. **Tom**  
+2. **weekend**  
+3. **Saturday**  
+4. **watching**  
+5. **postponed**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Sunday plan? → *study / travel / sleep only*
-7. Why postpone? → *felt tired / rain / money*
-8. Parents cancel reason? → *bad weather / traffic / joy*
-9. Went with sister? → *False / True*
-10. Grammar focus? → *was/were going to / will / used to*
+6. Completa: My parents were going to visit us but they ___ due to bad weather.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Tom.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **study for exam** · 7. **felt tired** · 8. **bad weather** · 9. **False** · 10. **was/were going to**
+6. **cancelled**  
+7. **practicar was/were going to (planes no realizados).**  
+8. «I was going to go to the cinema on Saturday with my sister, but she changed her mind and wanted to stay at home.»  
+9. «We were going to watch a comedy but I ended up watching it alone.»  
+10. Modelo: Tom habla usando *practicar was/were going to (planes no realizados).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. First I was going to… line
-12. Parents line
-13. Make one negative
-14. Shadow full audio
-15. Open Ver solución after try → *yes*
+11. Escribe una frase nueva con *practicar was/were going to (planes no realizados).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar was/were going to (planes no realizados).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **cinema…** · 12. **were going to visit…** · 13. **wasn't going to…** · 14. **done** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar was/were going to (planes no realizados).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-7-was-were-going-to).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *was/were going to (planes no realizados)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2–3 frases: un plan que no ocurrió (*I was going to… but…*).
 2. Completa: I ___ going to call you yesterday but I forgot.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Corrige: *They was going to come.*
 13. Traduce: Íbamos a ver una película pero estábamos cansados.
 14. Pregunta *Were you going to…?* + respuesta.
-15. Autochequeo: 5× was/were going to en tu texto.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Model: I was going to visit my aunt but I got sick.
-2. **was**
-3. **were**
-4. **wasn't**
-5. Model: We were going to eat out but it was closed.
-6. **were**
-7. Model: I was going to finish the report but I postponed it.
-8. I postponed the meeting. / I changed my mind about the trip.
-9. She was going to study law. They were going to move abroad.
-10. Open — include was/were going to + but + reason.
-11. I **was going to** call you yesterday.
-12. They **were going to** come.
-13. We **were going to** watch a film but we were too tired.
-14. Were you going to come? — Yes, but I changed my mind.
-15. Self-check vs theory.
+1. Modelo libre correcto con *was/were going to (planes no realizados)*.
+2. Completa según la regla de *was/were going to (planes no realizados)* (mira la teoría si dudas).
+3. Completa según la regla de *was/were going to (planes no realizados)* (mira la teoría si dudas).
+4. Modelo OK con *was/were going to (planes no realizados)*.
+5. Modelo libre correcto con *was/were going to (planes no realizados)*.
+6. Completa según la regla de *was/were going to (planes no realizados)* (mira la teoría si dudas).
+7. Modelo libre correcto con *was/were going to (planes no realizados)*.
+8. Modelo libre correcto con *was/were going to (planes no realizados)*.
+9. Modelo libre correcto con *was/were going to (planes no realizados)*.
+10. Respuesta abierta — revisa que aparezca *was/were going to (planes no realizados)*.
+11. Corrige: *I am going to call you yesterday.* → forma correcta con *was/were going to (planes no realizados)*.
+12. Corrige: *They was going to come.* → forma correcta con *was/were going to (planes no realizados)*.
+13. Traduce al inglés usando *was/were going to (planes no realizados)*.
+14. Modelo libre correcto con *was/were going to (planes no realizados)*.
+15. Autochequeo: ¿puedes explicar *was/were going to (planes no realizados)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-7-was-were-going-to).
 
 </details>
 
----
 
 ## Cómo seguir
 

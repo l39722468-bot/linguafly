@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 35 del curso B1** (*Repaso 3
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *relatives, question tags y -ed/-ing (mix U31–34)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-35-repaso-31-34).
+
 ![Repaso 31–34](/blog/curso-b1/unit-35/review-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** relatives, question tags y -ed/-ing (mix U31–34)
+**Objetivo:** practicar relatives, question tags y -ed/-ing (mix U31–34).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. The park ___ we visited was beautiful. → *that / who / where*
 2. Madrid, ___ is busy, is my home city. → *which / that / who*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. Animals ___ live in the wild… → *that / who / where*
 2. Recycling, ___ helps… → *which / that / who*
 3. It's nice, ___? → *isn't it / is it / don't it*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *The park who we visited…*
 2. *Madrid that is busy, is…*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** nature, environment, services, feelings (mix)
+**Objetivo:** nature, environment, services, feelings (mix).
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. who/which/that → *relatives · only tags*
 2. commas + who/which → *non-defining · -ed only*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. defining allows ___ → *that / only commas / no who*
 2. non-defining forbids ___ → *that / who / which*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-35-repaso-31-34).
-15. Continúa en la [Unidad 35 del curso](/curso-b1/unit-35).
+Completa con una de estas palabras: *who/which/that* · *bored/boring* · *wildlife / recycle / bank / excited* · *tag polarity* · *feeling adjective*
+
+11. Write a short sentence with **who/which/that** and the grammar focus (*relatives, question tags y -ed/-ing (mix U31–34)*).  
+12. Write a short sentence with **bored/boring**.  
+13. Write a short sentence with **wildlife / recycle / bank / excited**.  
+14. Choose the best word for this idea: «+→−» → **tag polarity** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-35-repaso-31-34).  
+15. Practise aloud, then continue in the [Unidad 35 del curso](/curso-b1/unit-35).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-35**
+11. Modelo: usa **who/which/that** en una frase natural con *relatives, question tags y -ed/-ing (mix U31–34)*.  
+12. Modelo: usa **bored/boring** en una frase corta.  
+13. Modelo: usa **wildlife / recycle / bank / excited** en una frase corta.  
+14. **tag polarity** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-35**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Mixed review
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar relatives, question tags y -ed/-ing (mix U31–34).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-35/reading-workbook.mp3" title="🔊 Reading: Mixed review"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > The park that we visited was beautiful. Madrid, which is busy, is my home city. You're free tomorrow, aren't you? I felt excited because the trip was exciting. Anyone who loves wildlife should visit this park.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Park that we visited? → *beautiful / polluted*
-2. Madrid, which is ___ → *busy / bored*
-3. Tag: free tomorrow? → *aren't you / don't you*
-4. Felt ___ / trip ___ → *excited-exciting / bored*
-5. Anyone who loves ___ → *wildlife / plastic*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **beautiful** · 2. **busy** · 3. **aren't you** · 4. **excited / exciting** · 5. **wildlife**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Classify that park → *defining / non-def*
-7. Classify Madrid which → *non-def / tag*
-8. Classify aren't you → *tag / -ed*
-9. Classify excited/exciting → *-ed/-ing / who*
-10. Write 1× each
+1. The park that we visited was ___.
+2. ___, which is busy, is my home city.
+3. You're free ___, aren't you?
+4. I felt excited because the trip was ___.
+5. Anyone who loves ___ should visit this park.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **defining** · 7. **non-defining** · 8. **question tag** · 9. **-ed/-ing** · 10. **Model OK**
+1. **beautiful** · 2. **Madrid** · 3. **tomorrow** · 4. **exciting** · 5. **wildlife**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Shadow
-12. Mixed? → *Yes / No*
-13. Course → */curso-b1/unit-35*
-14. No that in non-def? → *True / False*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar relatives, question tags y -ed/-ing (mix U31–34).*
+8. Copia una frase (o trozo) con **the main grammar structure**.
+9. Copia una frase (o trozo) con **the main grammar structure**.
+10. Copia una frase (o trozo) con **the main grammar structure**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **done** · 12. **Yes** · 13. **/curso-b1/unit-35** · 14. **True** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar relatives, question tags y -ed/-ing (mix U31–34).*).  
+7. **practicar relatives, question tags y -ed/-ing (mix U31–34).**  
+8. Copia del texto algo con *the main grammar structure* (ej.: «The park that we visited was beautiful.»).  
+9. Copia del texto algo con *the main grammar structure*.  
+10. Copia del texto algo con *the main grammar structure*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar relatives, question tags y -ed/-ing (mix U31–34).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar relatives, question tags y -ed/-ing (mix U31–34).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-35](/curso-b1/unit-35)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-35-repaso-31-34) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar relatives, question tags y -ed/-ing (mix U31–34).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar relatives, question tags y -ed/-ing (mix U31–34).*).  
+14. **/curso-b1/unit-35**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Wendy's mixed review
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar relatives, question tags y -ed/-ing (mix U31–34).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-35/listening-workbook.mp3" title="🔊 Listening: Wendy's mixed review"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Wendy. The park that we visited was beautiful. Madrid, which is busy, is my home city. You're free tomorrow, aren't you? I felt excited because the trip was exciting. Anyone who loves wildlife should visit this park.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Wendy / Victor / Sam*
-2. Park was ___ → *beautiful / polluted*
-3. Madrid is ___ → *busy / bored*
-4. Tag? → *aren't you / don't you*
-5. Excited / trip ___ → *exciting / bored*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: The park that we visited was ___.  
+4. Completa: ___, which is busy, is my home city.  
+5. Completa: You're free ___, aren't you?
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Wendy** · 2. **beautiful** · 3. **busy** · 4. **aren't you** · 5. **exciting**
+1. **Wendy**  
+2. **Wendy**  
+3. **beautiful**  
+4. **Madrid**  
+5. **tomorrow**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Loves ___ → *wildlife / plastic*
-7. Classify that → *defining / tag*
-8. Classify which commas → *non-def / -ed*
-9. Classify aren't you → *tag / who*
-10. Classify excited/exciting → *-ed/-ing / that*
+6. Completa: I felt excited because the trip was ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Wendy.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **wildlife** · 7. **defining** · 8. **non-defining** · 9. **tag** · 10. **-ed/-ing**
+6. **exciting**  
+7. **practicar relatives, question tags y -ed/-ing (mix U31–34).**  
+8. «The park that we visited was beautiful.»  
+9. «Madrid, which is busy, is my home city.»  
+10. Modelo: Wendy habla usando *practicar relatives, question tags y -ed/-ing (mix U31–34).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write 1× each
-12. Shadow
-13. Mixed? → *Yes / No*
-14. Course → */curso-b1/unit-35*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar relatives, question tags y -ed/-ing (mix U31–34).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar relatives, question tags y -ed/-ing (mix U31–34).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **done** · 13. **Yes** · 14. **/curso-b1/unit-35** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar relatives, question tags y -ed/-ing (mix U31–34).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-35-repaso-31-34).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *relatives, question tags y -ed/-ing (mix U31–34)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Una frase: defining, non-defining, tag, -ed, -ing.
 2. Completa: The park ___ we visited…
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: El parque que visitamos…
 13. Traduce: Estaba emocionado.
 14. Autochequeo con mapa U35.
-15. Open Ver solución checklist.
+15. Autochequeo: revisa tus respuestas y abre «Ver solución» solo al final.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open one of each.
-2. **that/which**
-3. **which**
-4. **aren't you**
-5. **excited / exciting**
-6. **who/that**
-7. **which** + commas
-8. **excited**
-9. **aren't you**
-10. Open mixed.
-11. OK.
-12. The park that we visited…
-13. I felt excited.
-14. Self-check.
-15. yes.
+1. Modelo OK con *relatives, question tags y -ed/-ing (mix U31–34)*.
+2. Completa según la regla de *relatives, question tags y -ed/-ing (mix U31–34)* (mira la teoría si dudas).
+3. Completa según la regla de *relatives, question tags y -ed/-ing (mix U31–34)* (mira la teoría si dudas).
+4. Completa según la regla de *relatives, question tags y -ed/-ing (mix U31–34)* (mira la teoría si dudas).
+5. Completa según la regla de *relatives, question tags y -ed/-ing (mix U31–34)* (mira la teoría si dudas).
+6. Completa según la regla de *relatives, question tags y -ed/-ing (mix U31–34)* (mira la teoría si dudas).
+7. Corrige: *Madrid that is busy, is…* → forma correcta con *relatives, question tags y -ed/-ing (mix U31–34)*.
+8. Corrige: *I felt exciting.* → forma correcta con *relatives, question tags y -ed/-ing (mix U31–34)*.
+9. Corrige: *You're free, don't you?* → forma correcta con *relatives, question tags y -ed/-ing (mix U31–34)*.
+10. Respuesta abierta — revisa que aparezca *relatives, question tags y -ed/-ing (mix U31–34)*.
+11. Modelo OK con *relatives, question tags y -ed/-ing (mix U31–34)*.
+12. Traduce al inglés usando *relatives, question tags y -ed/-ing (mix U31–34)*.
+13. Traduce al inglés usando *relatives, question tags y -ed/-ing (mix U31–34)*.
+14. Autochequeo: ¿puedes explicar *relatives, question tags y -ed/-ing (mix U31–34)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-35-repaso-31-34).
+15. Modelo OK con *relatives, question tags y -ed/-ing (mix U31–34)*.
 
 </details>
 
----
 
 ## Cómo seguir
 

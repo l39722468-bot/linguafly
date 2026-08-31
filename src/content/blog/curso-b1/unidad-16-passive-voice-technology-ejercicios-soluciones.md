@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 16 del curso B1** (*Passive 
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *passive voice present & past (is/are/was/were + past participle)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-16-passive-voice-technology).
+
 ![Passive Voice & Technology](/blog/curso-b1/unit-16/passive-voice.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** passive voice present & past (is/are/was/were + past participle)
+**Objetivo:** practicar passive voice present & past (is/are/was/were + past participle).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. Emails ___ sent automatically. → *are / is / was*
 2. The laptop ___ repaired last week. → *was / were / is*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. The website ___ designed by a team. → *was / were / are*
 2. Wi-Fi ___ connected to all devices. → *is / are / were*
 3. The data ___ stored in the cloud last month. → *were / was / is*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *Someone installs the app.* → The app ___ ___.
 2. *They deleted the files.* → The files ___ ___.
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** technology
+**Objetivo:** technology.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. upload → *subir · descargar · borrar*
 2. cloud → *nube · pantalla · salario*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. app ≈ ___ → *aplicación / reunión / traducción*
 2. download ≈ ___ → *descargar / firmar / preguntar*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-16-passive-voice-technology).
-15. Continúa en la [Unidad 16 del curso](/curso-b1/unit-16).
+Completa con una de estas palabras: *upload* · *cloud* · *password* · *device* · *software*
+
+11. Write a short sentence with **upload** and the grammar focus (*passive voice present & past (is/are/was/were + past participle)*).  
+12. Write a short sentence with **cloud**.  
+13. Write a short sentence with **password**.  
+14. Choose the best word for this idea: «dispositivo» → **device** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-16-passive-voice-technology).  
+15. Practise aloud, then continue in the [Unidad 16 del curso](/curso-b1/unit-16).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-16**
+11. Modelo: usa **upload** en una frase natural con *passive voice present & past (is/are/was/were + past participle)*.  
+12. Modelo: usa **cloud** en una frase corta.  
+13. Modelo: usa **password** en una frase corta.  
+14. **device** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-16**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Tech in daily life
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar passive voice present & past (is/are/was/were + past participle).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-16/reading-workbook.mp3" title="🔊 Reading: Tech in daily life"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > Millions of photos are uploaded to the internet every day. New software was installed on my computer yesterday. Passwords are changed regularly for safety. The data were stored in the cloud last month. The device is manufactured in China and the Wi-Fi is connected to all devices in the office. The website was designed by a professional team.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Photos are ___ every day → *uploaded / deleted / ignored*
-2. Software was ___ yesterday → *installed / cancelled / postponed*
-3. Passwords are changed for ___ → *safety / fun / style*
-4. Data stored where? → *cloud / desk / fridge*
-5. Device manufactured in ___ → *China / Spain / Mars*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **uploaded** · 2. **installed** · 3. **safety** · 4. **in the cloud** · 5. **China**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Wi-Fi connected to ___ → *all devices / one phone*
-7. Website designed by ___ → *team / nobody / robots only*
-8. Main grammar? → *passive / second / third*
-9. Find present passive
-10. Find past passive
+1. ___ of photos are uploaded to the internet every day.
+2. New software was ___ on my computer yesterday.
+3. ___ are changed regularly for safety.
+4. The data were ___ in the cloud last month.
+5. The device is ___ in China and the Wi-Fi is connected to all devices in the office.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **all devices** · 7. **a professional team** · 8. **passive** · 9. **are uploaded / are changed / is manufactured…** · 10. **was installed / were stored / was designed**
+1. **Millions** · 2. **installed** · 3. **Passwords** · 4. **stored** · 5. **manufactured**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Underline by + agent
-12. Write one is/are + V3
-13. Tech vocab in text? → *yes / none*
-14. Active focus? → *False / True*
-15. Course link → */curso-b1/unit-16*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar passive voice present & past (is/are/was/were + past participle).*
+8. Copia una frase (o trozo) con **were**.
+9. Copia una frase (o trozo) con **were**.
+10. Copia una frase (o trozo) con **were**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **by a professional team** · 12. **Model OK** · 13. **software, cloud, passwords, Wi-Fi** · 14. **False (passive)** · 15. **/curso-b1/unit-16**
+6. Modelo: resume el texto en tus palabras (tema + *practicar passive voice present & past (is/are/was/were + past participle).*).  
+7. **practicar passive voice present & past (is/are/was/were + past participle).**  
+8. Copia del texto algo con *were* (ej.: «Millions of photos are uploaded to the internet every day.»).  
+9. Copia del texto algo con *were*.  
+10. Copia del texto algo con *were*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar passive voice present & past (is/are/was/were + past participle).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *The email sent yesterday*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-16](/curso-b1/unit-16)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-16-passive-voice-technology) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar passive voice present & past (is/are/was/were + past participle).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar passive voice present & past (is/are/was/were + past participle).*).  
+14. **/curso-b1/unit-16**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Nora's devices
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar passive voice present & past (is/are/was/were + past participle).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-16/listening-workbook.mp3" title="🔊 Listening: Nora's devices"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Nora. The app is installed on my phone. Emails are sent automatically every morning. The laptop was repaired last week. The files were deleted by mistake yesterday. The website was designed by a professional team. Passwords are changed regularly for security.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Nora / Omar / Pia*
-2. App is ___ → *installed / cancelled*
-3. Emails are ___ → *sent / deleted*
-4. Laptop was ___ → *repaired / translated*
-5. Files were ___ → *deleted / attached*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: The app is ___ on my phone.  
+4. Completa: Emails are sent ___ every morning.  
+5. Completa: The laptop was ___ last week.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Nora** · 2. **installed** · 3. **sent automatically** · 4. **repaired** · 5. **deleted by mistake**
+1. **Nora**  
+2. **Nora**  
+3. **installed**  
+4. **automatically**  
+5. **repaired**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Website was designed by ___ → *team / students*
-7. Passwords are changed for ___ → *security / fun*
-8. Grammar? → *passive / second*
-9. Find present passive
-10. Find past passive
+6. Completa: The files were deleted by mistake ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Nora.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **a professional team** · 7. **security** · 8. **passive** · 9. **is installed / are sent…** · 10. **was repaired / were deleted**
+6. **yesterday**  
+7. **practicar passive voice present & past (is/are/was/were + past participle).**  
+8. «The app is installed on my phone.»  
+9. «Emails are sent automatically every morning.»  
+10. Modelo: Nora habla usando *practicar passive voice present & past (is/are/was/were + past participle).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write one was/were + V3
-12. Tech words? → *yes / none*
-13. Shadow audio
-14. Active focus? → *False / True*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar passive voice present & past (is/are/was/were + past participle).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *The email sent yesterday*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **app, emails, laptop, passwords** · 13. **done** · 14. **False** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar passive voice present & past (is/are/was/were + past participle).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-16-passive-voice-technology).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *passive voice present & past (is/are/was/were + past participle)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 3 pasivas (present + past) sobre tecnología.
 2. Completa: Emails ___ sent automatically.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Los archivos fueron borrados por error.
 13. Pregunta *Was the laptop repaired?* + respuesta.
 14. Escribe 1× *are changed* + 1× *was designed*.
-15. Autochequeo: is/are/was/were + V3.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Model: The app is installed. Updates are downloaded. The phone was repaired.
-2. **are**
-3. **was**
-4. **were**
-5. The app **is installed**.
-6. Photos are uploaded to the cloud. Data is stored in the cloud.
-7. The emails **are** sent daily.
-8. The laptop **was** repaired.
-9. The website was designed by a professional team.
-10. Open tech passive paragraph.
-11. The app is installed on my phone.
-12. The files were deleted by mistake.
-13. Was the laptop repaired? — Yes, it was repaired last week.
-14. Passwords are changed regularly. The site was designed by a team.
-15. Self-check.
+1. Modelo libre correcto con *passive voice present & past (is/are/was/were + past participle)*.
+2. Completa según la regla de *passive voice present & past (is/are/was/were + past participle)* (mira la teoría si dudas).
+3. Completa según la regla de *passive voice present & past (is/are/was/were + past participle)* (mira la teoría si dudas).
+4. Completa según la regla de *passive voice present & past (is/are/was/were + past participle)* (mira la teoría si dudas).
+5. Modelo OK con *passive voice present & past (is/are/was/were + past participle)*.
+6. Modelo libre correcto con *passive voice present & past (is/are/was/were + past participle)*.
+7. Corrige: *The emails is sent daily.* → forma correcta con *passive voice present & past (is/are/was/were + past participle)*.
+8. Corrige: *The laptop were repaired.* → forma correcta con *passive voice present & past (is/are/was/were + past participle)*.
+9. Modelo libre correcto con *passive voice present & past (is/are/was/were + past participle)*.
+10. Respuesta abierta — revisa que aparezca *passive voice present & past (is/are/was/were + past participle)*.
+11. Traduce al inglés usando *passive voice present & past (is/are/was/were + past participle)*.
+12. Traduce al inglés usando *passive voice present & past (is/are/was/were + past participle)*.
+13. Modelo libre correcto con *passive voice present & past (is/are/was/were + past participle)*.
+14. Modelo libre correcto con *passive voice present & past (is/are/was/were + past participle)*.
+15. Autochequeo: ¿puedes explicar *passive voice present & past (is/are/was/were + past participle)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-16-passive-voice-technology).
 
 </details>
 
----
 
 ## Cómo seguir
 

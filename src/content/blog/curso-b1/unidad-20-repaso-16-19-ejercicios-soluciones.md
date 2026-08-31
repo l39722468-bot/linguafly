@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 20 del curso B1** (*Repaso 1
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *passive, modal passive y reported speech (statements, questions, commands)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-20-repaso-16-19).
+
 ![Repaso 16–19](/blog/curso-b1/unit-20/review-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** passive, modal passive y reported speech (statements, questions, commands)
+**Objetivo:** practicar passive, modal passive y reported speech (statements, questions, commands).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. The app ___ updated every week. → *is / was / must*
 2. The form ___ be completed. → *must / said / asked*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. Files ___ uploaded yesterday. → *were / was / are*
 2. The report ___ be sent today. → *should / said / asked*
 3. Maya told me she ___ help. → *could / can / will*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *She said me she was tired.*
 2. *Must to be finished.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** technology, work, communication, language (mix)
+**Objetivo:** technology, work, communication, language (mix).
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. passive → *voz pasiva · first conditional · second*
 2. backshift → *cambio de tiempo · upload · salary*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. must be + V3 = ___ → *modal passive / first conditional / wish*
 2. said/told = ___ → *reported statement / passive past / weather*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-20-repaso-16-19).
-15. Continúa en la [Unidad 20 del curso](/curso-b1/unit-20).
+Completa con una de estas palabras: *passive* · *backshift* · *deadline* · *attach* · *pronounce*
+
+11. Write a short sentence with **passive** and the grammar focus (*passive, modal passive y reported speech (statements, questions, commands)*).  
+12. Write a short sentence with **backshift**.  
+13. Write a short sentence with **deadline**.  
+14. Choose the best word for this idea: «adjuntar» → **attach** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-20-repaso-16-19).  
+15. Practise aloud, then continue in the [Unidad 20 del curso](/curso-b1/unit-20).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-20**
+11. Modelo: usa **passive** en una frase natural con *passive, modal passive y reported speech (statements, questions, commands)*.  
+12. Modelo: usa **backshift** en una frase corta.  
+13. Modelo: usa **deadline** en una frase corta.  
+14. **attach** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-20**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Mixed review paragraph
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar passive, modal passive y reported speech (statements, questions, commands).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-20/reading-workbook.mp3" title="🔊 Reading: Mixed review paragraph"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > The app is updated every week and the password must be changed regularly. Maya said she was busy but she told me she could help later. The teacher asked if we had practised and told us not to worry about mistakes. Files were uploaded to the cloud yesterday. The report should be sent before the meeting.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. App is ___ every week → *updated / cancelled / translated*
-2. Password must be ___ → *changed / attached / sung*
-3. Maya said she was ___ → *busy / sunny / manufactured*
-4. Told me she could ___ → *help / swim / upload only*
-5. Asked if we had ___ → *practised / signed / fried*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **updated** · 2. **changed** · 3. **busy** · 4. **help later** · 5. **practised**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Told us not to ___ → *worry / reply*
-7. Files were ___ yesterday → *uploaded / postponed / pronounced*
-8. Report should be ___ → *sent / sung / regretted*
-9. Find passive
-10. Find modal passive
+1. The app is updated every week and the password must be changed ___.
+2. Maya said she was busy but she told me she ___ help later.
+3. The teacher asked if we had ___ and told us not to worry about mistakes.
+4. Files were uploaded to the cloud ___.
+5. The report should be sent before the ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **worry about mistakes** · 7. **uploaded** · 8. **sent** · 9. **is updated / were uploaded** · 10. **must be changed / should be sent**
+1. **regularly** · 2. **could** · 3. **practised** · 4. **yesterday** · 5. **meeting**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Find reported statement
-12. Find reported question
-13. Find command
-14. Write 1× each structure
-15. Course link → */curso-b1/unit-20*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar passive, modal passive y reported speech (statements, questions, commands).*
+8. Copia una frase (o trozo) con **the main grammar structure**.
+9. Copia una frase (o trozo) con **the main grammar structure**.
+10. Copia una frase (o trozo) con **the main grammar structure**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **said she was busy** · 12. **asked if we had practised** · 13. **told us not to worry / told me she could… wait: told us not to** · 14. **Model OK** · 15. **/curso-b1/unit-20**
+6. Modelo: resume el texto en tus palabras (tema + *practicar passive, modal passive y reported speech (statements, questions, commands).*).  
+7. **practicar passive, modal passive y reported speech (statements, questions, commands).**  
+8. Copia del texto algo con *the main grammar structure* (ej.: «The app is updated every week and the password must be changed regularly.»).  
+9. Copia del texto algo con *the main grammar structure*.  
+10. Copia del texto algo con *the main grammar structure*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar passive, modal passive y reported speech (statements, questions, commands).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *The email sent yesterday*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-20](/curso-b1/unit-20)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-20-repaso-16-19) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar passive, modal passive y reported speech (statements, questions, commands).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar passive, modal passive y reported speech (statements, questions, commands).*).  
+14. **/curso-b1/unit-20**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Rita's mixed review
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar passive, modal passive y reported speech (statements, questions, commands).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-20/listening-workbook.mp3" title="🔊 Listening: Rita's mixed review"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Rita. The app is updated every week. The form must be completed online. Maya said she was busy. The teacher asked if we had practised. They told us to practise more. Files were uploaded to the cloud yesterday.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Rita / Quinn / Omar*
-2. App is ___ → *updated / cancelled*
-3. Form must be ___ → *completed / ignored*
-4. Maya said she was ___ → *busy / free*
-5. Asked if we had ___ → *practised / signed*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: The app is ___ every week.  
+4. Completa: The form must be ___ online.  
+5. Completa: ___ said she was busy.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Rita** · 2. **updated every week** · 3. **completed online** · 4. **busy** · 5. **practised**
+1. **Rita**  
+2. **Rita**  
+3. **updated**  
+4. **completed**  
+5. **Maya**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Told us to ___ → *practise / swim*
-7. Files were ___ → *uploaded / postponed*
-8. Classify is updated → *passive / reported / modal*
-9. Classify must be completed → *modal / first / third*
-10. Classify said she was busy → *statement / question*
+6. Completa: The teacher asked if we had ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Rita.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **practise more** · 7. **uploaded yesterday** · 8. **passive** · 9. **modal passive** · 10. **reported statement**
+6. **practised**  
+7. **practicar passive, modal passive y reported speech (statements, questions, commands).**  
+8. «The app is updated every week.»  
+9. «The form must be completed online.»  
+10. Modelo: Rita habla usando *practicar passive, modal passive y reported speech (statements, questions, commands).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Classify asked if → *question / command*
-12. Classify told us to → *command / passive*
-13. Write 1× each
-14. Shadow audio
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar passive, modal passive y reported speech (statements, questions, commands).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *The email sent yesterday*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **reported question** · 12. **command** · 13. **Model OK** · 14. **done** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar passive, modal passive y reported speech (statements, questions, commands).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-20-repaso-16-19).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *passive, modal passive y reported speech (statements, questions, commands)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Una frase de cada: passive, modal passive, said, asked if, told to.
 2. Completa: The app ___ updated every week.
@@ -303,25 +351,24 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 <details>
 <summary>Ver solución</summary>
 
-1. Open — one of each.
-2. **is**
-3. **must**
-4. **was**
-5. **if**
-6. **to**
-7. She **told** me… / She **said**…
-8. **Must be** finished.
-9. He asked where I **lived**.
-10. Open mixed paragraph.
-11. passive / modal passive / statement / question / command.
-12. The app is updated every week.
-13. He/She told me not to worry.
-14. Files were uploaded. The report should be sent.
-15. Self-check vs review map.
+1. Modelo OK con *passive, modal passive y reported speech (statements, questions, commands)*.
+2. Completa según la regla de *passive, modal passive y reported speech (statements, questions, commands)* (mira la teoría si dudas).
+3. Completa según la regla de *passive, modal passive y reported speech (statements, questions, commands)* (mira la teoría si dudas).
+4. Completa según la regla de *passive, modal passive y reported speech (statements, questions, commands)* (mira la teoría si dudas).
+5. Completa según la regla de *passive, modal passive y reported speech (statements, questions, commands)* (mira la teoría si dudas).
+6. Completa según la regla de *passive, modal passive y reported speech (statements, questions, commands)* (mira la teoría si dudas).
+7. Corrige: *She said me she was tired.* → forma correcta con *passive, modal passive y reported speech (statements, questions, commands)*.
+8. Corrige: *Must to be finished.* → forma correcta con *passive, modal passive y reported speech (statements, questions, commands)*.
+9. Corrige: *He asked where did I live.* → forma correcta con *passive, modal passive y reported speech (statements, questions, commands)*.
+10. Respuesta abierta — revisa que aparezca *passive, modal passive y reported speech (statements, questions, commands)*.
+11. Modelo OK con *passive, modal passive y reported speech (statements, questions, commands)*.
+12. Traduce al inglés usando *passive, modal passive y reported speech (statements, questions, commands)*.
+13. Traduce al inglés usando *passive, modal passive y reported speech (statements, questions, commands)*.
+14. Modelo libre correcto con *passive, modal passive y reported speech (statements, questions, commands)*.
+15. Autochequeo: ¿puedes explicar *passive, modal passive y reported speech (statements, questions, commands)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-20-repaso-16-19).
 
 </details>
 
----
 
 ## Cómo seguir
 

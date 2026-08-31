@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 32 del curso B1** (*Non-defi
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *non-defining relative clauses (who/which + commas, no that)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-32-nondefining-relative-environment).
+
 ![Non-defining Relative & Environment](/blog/curso-b1/unit-32/nondefining-relative.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** non-defining relative clauses (who/which + commas, no that)
+**Objetivo:** practicar non-defining relative clauses (who/which + commas, no that).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. My sister, ___ lives in Madrid, is a teacher. → *who / which / that*
 2. The river, ___ flows through the city, is polluted. → *which / who / that*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. Madrid, ___ is busy, is my home city. → *which / who / that*
 2. My brother, ___ works in a bank, recycles. → *who / which / that*
 3. Plastic, ___ is hard to recycle, pollutes. → *which / who / that*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *My sister that lives in Madrid, is…*
 2. *The river that flows…, is polluted.* (extra info)
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** environment
+**Objetivo:** environment.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. recycle → *reciclar · eagle · tag*
 2. pollution → *contaminación · forest · bored*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. non-defining → ___ → *commas / no commas / that OK*
 2. no ___ in non-defining → *that / who / which*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-32-nondefining-relative-environment).
-15. Continúa en la [Unidad 32 del curso](/curso-b1/unit-32).
+Completa con una de estas palabras: *recycle* · *pollution* · *climate* · *waste* · *protect*
+
+11. Write a short sentence with **recycle** and the grammar focus (*non-defining relative clauses (who/which + commas, no that)*).  
+12. Write a short sentence with **pollution**.  
+13. Write a short sentence with **climate**.  
+14. Choose the best word for this idea: «residuos» → **waste** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-32-nondefining-relative-environment).  
+15. Practise aloud, then continue in the [Unidad 32 del curso](/curso-b1/unit-32).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-32**
+11. Modelo: usa **recycle** en una frase natural con *non-defining relative clauses (who/which + commas, no that)*.  
+12. Modelo: usa **pollution** en una frase corta.  
+13. Modelo: usa **climate** en una frase corta.  
+14. **waste** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-32**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Our planet
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar non-defining relative clauses (who/which + commas, no that).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-32/reading-workbook.mp3" title="🔊 Reading: Our planet"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > My sister, who lives in Madrid, is a teacher. The river, which flows through the city, is polluted. Recycling, which helps reduce pollution, is important. Climate change, which affects us all, is a global problem. Do not use that in non-defining clauses.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Sister lives in ___ → *Madrid / forest*
-2. River is ___ → *polluted / clean*
-3. Recycling helps reduce ___ → *pollution / boredom*
-4. Climate change affects ___ → *us all / only birds*
-5. Use that in non-defining? → *No / Yes*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **Madrid** · 2. **polluted** · 3. **pollution** · 4. **us all** · 5. **No**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *non-defining / defining only*
-7. Find who + commas
-8. Find which + commas
-9. Find climate which
-10. Write which…
+1. My sister, who lives in Madrid, is a ___.
+2. The river, which flows through the city, is ___.
+3. ___, which helps reduce pollution, is important.
+4. ___ change, which affects us all, is a global problem.
+5. Do not use that in non-___ clauses.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **non-defining** · 7. **sister, who lives** · 8. **river, which / Recycling, which** · 9. **Climate change, which affects** · 10. **Model OK**
+1. **teacher** · 2. **polluted** · 3. **Recycling** · 4. **Climate** · 5. **defining**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Env vocab? → *yes / none*
-12. that OK with commas? → *False / True*
-13. Course → */curso-b1/unit-32*
-14. Extra info? → *Yes / No*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar non-defining relative clauses (who/which + commas, no that).*
+8. Copia una frase (o trozo) con **defining**.
+9. Copia una frase (o trozo) con **clauses**.
+10. Copia una frase (o trozo) con **which**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Madrid, polluted, recycling, pollution, climate** · 12. **False** · 13. **/curso-b1/unit-32** · 14. **Yes** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar non-defining relative clauses (who/which + commas, no that).*).  
+7. **practicar non-defining relative clauses (who/which + commas, no that).**  
+8. Copia del texto algo con *defining* (ej.: «My sister, who lives in Madrid, is a teacher.»).  
+9. Copia del texto algo con *clauses*.  
+10. Copia del texto algo con *which*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar non-defining relative clauses (who/which + commas, no that).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar non-defining relative clauses (who/which + commas, no that).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-32](/curso-b1/unit-32)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-32-nondefining-relative-environment) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar non-defining relative clauses (who/which + commas, no that).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar non-defining relative clauses (who/which + commas, no that).*).  
+14. **/curso-b1/unit-32**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Tina on climate
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar non-defining relative clauses (who/which + commas, no that).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-32/listening-workbook.mp3" title="🔊 Listening: Tina on climate"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Tina. My sister, who lives in Madrid, is a teacher. The river, which flows through the city, is polluted. Recycling, which helps reduce pollution, is important. Climate change, which affects us all, is a global problem.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Tina / Sam / Uma*
-2. Sister in ___ → *Madrid / park*
-3. River is ___ → *polluted / clean*
-4. Recycling reduces ___ → *pollution / boredom*
-5. Climate affects ___ → *us all / birds*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: My sister, who lives in Madrid, is a ___.  
+4. Completa: The river, which flows through the city, is ___.  
+5. Completa: ___, which helps reduce pollution, is important.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Tina** · 2. **Madrid** · 3. **polluted** · 4. **pollution** · 5. **us all**
+1. **Tina**  
+2. **Tina**  
+3. **teacher**  
+4. **polluted**  
+5. **Recycling**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Grammar? → *non-def / defining*
-7. Find who commas
-8. Find which commas
-9. Write which…
-10. Env words? → *yes / none*
+6. Completa: ___ change, which affects us all, is a global problem.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Tina.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **non-defining** · 7. **sister, who** · 8. **river, which / Recycling, which** · 9. **Model OK** · 10. **Madrid, polluted, recycling, pollution, climate**
+6. **Climate**  
+7. **practicar non-defining relative clauses (who/which + commas, no that).**  
+8. «My sister, who lives in Madrid, is a teacher.»  
+9. «The river, which flows through the city, is polluted.»  
+10. Modelo: Tina habla usando *practicar non-defining relative clauses (who/which + commas, no that).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Shadow
-12. that OK? → *False / True*
-13. Course → */curso-b1/unit-32*
-14. Open Ver solución → *yes*
-15. Needs commas? → *Yes / No*
+11. Escribe una frase nueva con *practicar non-defining relative clauses (who/which + commas, no that).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar non-defining relative clauses (who/which + commas, no that).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **done** · 12. **False** · 13. **/curso-b1/unit-32** · 14. **yes** · 15. **Yes**
+11. Modelo: crea una frase natural con *practicar non-defining relative clauses (who/which + commas, no that).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-32-nondefining-relative-environment).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *non-defining relative clauses (who/which + commas, no that)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× who + 2× which con comas (sin that).
 2. Completa: My sister, ___ lives…
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: El río, que atraviesa la ciudad,…
 13. Explica defining vs non-defining en 1 frase.
 14. Escribe 1× which + commas.
-15. Autochequeo: extra info → commas; no that.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open 2+2.
-2. **who**
-3. **which**
-4. **which**
-5. **No**
-6. **who** + commas
-7. **which**
-8. Open.
-9. OK.
-10. Open.
-11. My sister, who lives in Madrid,…
-12. The river, which flows through the city,…
-13. extra info + commas; no that.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *non-defining relative clauses (who/which + commas, no that)*.
+2. Completa según la regla de *non-defining relative clauses (who/which + commas, no that)* (mira la teoría si dudas).
+3. Completa según la regla de *non-defining relative clauses (who/which + commas, no that)* (mira la teoría si dudas).
+4. Completa según la regla de *non-defining relative clauses (who/which + commas, no that)* (mira la teoría si dudas).
+5. Modelo OK con *non-defining relative clauses (who/which + commas, no that)*.
+6. Corrige: *My sister that lives…,* → forma correcta con *non-defining relative clauses (who/which + commas, no that)*.
+7. Corrige: *Recycling, that helps…* → forma correcta con *non-defining relative clauses (who/which + commas, no that)*.
+8. Modelo libre correcto con *non-defining relative clauses (who/which + commas, no that)*.
+9. Modelo libre correcto con *non-defining relative clauses (who/which + commas, no that)*.
+10. Respuesta abierta — revisa que aparezca *non-defining relative clauses (who/which + commas, no that)*.
+11. Traduce al inglés usando *non-defining relative clauses (who/which + commas, no that)*.
+12. Traduce al inglés usando *non-defining relative clauses (who/which + commas, no that)*.
+13. Explicación breve en 1 frase (concepto clave de *non-defining relative clauses (who/which + commas, no that)*).
+14. Modelo libre correcto con *non-defining relative clauses (who/which + commas, no that)*.
+15. Autochequeo: ¿puedes explicar *non-defining relative clauses (who/which + commas, no that)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-32-nondefining-relative-environment).
 
 </details>
 
----
 
 ## Cómo seguir
 

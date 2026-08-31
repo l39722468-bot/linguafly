@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U60 enriquecida a profundidad A1 ≥2000 palabras; cuadernos U1–U60; **B1 completo / Módulo 6 completo**)  
+**Última actualización:** 2026-08-31 (teoría U1–U60 enriquecida; cuadernos U1–U60 clarificados; **B1 completo / Módulo 6 completo**)  
 **Criterio:** artículo dedicado (≥2000 palabras de cuerpo, prosa A1-depth, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---

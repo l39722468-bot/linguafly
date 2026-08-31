@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 46 del curso B1** (*Had Bett
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *had better / it's time + advice vocabulary*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-46-had-better-its-time-advice).
+
 ![Had Better & It's Time](/blog/curso-b1/unit-46/had-better-its-time.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** had better / it's time + advice vocabulary
+**Objetivo:** practicar had better / it's time + advice vocabulary.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. You ___ better see a doctor. → *had / have / would*
 2. It's time ___ go home. → *to / for / that*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. had better + ___ → *bare infinitive / to infinitive / -ing*
 2. it's time to + ___ → *infinitive / past / -ing*
 3. it's time (that) + ___ → *past / infinitive / to*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *You had better to leave.*
 2. *It's time you start.* (that-clause)
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** advice
+**Objetivo:** advice.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. advice → *consejo · preference · phrasal*
 2. advise → *aconsejar · prefer · deal*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. had better ≈ ___ → *más te vale / preferiría / no necesitas*
 2. it's time to ≈ ___ → *ya es hora de / en lugar de / quedarse sin*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-46-had-better-its-time-advice).
-15. Continúa en la [Unidad 46 del curso](/curso-b1/unit-46).
+Completa con una de estas palabras: *advice* · *advise* · *warn* · *urge* · *it's high time*
+
+11. Write a short sentence with **advice** and the grammar focus (*had better / it's time + advice vocabulary*).  
+12. Write a short sentence with **advise**.  
+13. Write a short sentence with **warn**.  
+14. Choose the best word for this idea: «instar» → **urge** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-46-had-better-its-time-advice).  
+15. Practise aloud, then continue in the [Unidad 46 del curso](/curso-b1/unit-46).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-46**
+11. Modelo: usa **advice** en una frase natural con *had better / it's time + advice vocabulary*.  
+12. Modelo: usa **advise** en una frase corta.  
+13. Modelo: usa **warn** en una frase corta.  
+14. **urge** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-46**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Strong advice
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar had better / it's time + advice vocabulary.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-46/reading-workbook.mp3" title="🔊 Reading: Strong advice"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > You had better see a doctor. It's time to go home. It's time you started studying. You had better not tell him yet. It's high time we made a decision.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. ___ better see doctor? → *had / have*
-2. Time ___ go home? → *to / for*
-3. Time you ___ studying? → *started / start*
-4. Better ___ tell him? → *not / no*
-5. High time we ___ decision? → *made / make*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **had** · 2. **to** · 3. **started** · 4. **not** · 5. **made**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *advice / preference*
-7. Find had better
-8. Find it's time to
-9. Find it's time you
-10. Write had better…
+1. You had ___ see a doctor.
+2. ___ time to go home.
+3. It's time you started ___.
+4. You had better not ___ him yet.
+5. It's high time we made a ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **had better/it's time** · 7. **had better see a doctor** · 8. **it's time to go** · 9. **it's time you started** · 10. **Model OK**
+1. **better** · 2. **It's** · 3. **studying** · 4. **tell** · 5. **decision**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Advice vocab? → *yes / none*
-12. had better + to OK? → *False / True*
-13. Course → */curso-b1/unit-46*
-14. it's time for + verb? → *False / True*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar had better / it's time + advice vocabulary.*
+8. Copia una frase (o trozo) con **better**.
+9. Copia una frase (o trozo) con **it's**.
+10. Copia una frase (o trozo) con **time**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **advice, warn, urge, seek advice** · 12. **False** · 13. **/curso-b1/unit-46** · 14. **False (noun)** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar had better / it's time + advice vocabulary.*).  
+7. **practicar had better / it's time + advice vocabulary.**  
+8. Copia del texto algo con *better* (ej.: «You had better see a doctor.»).  
+9. Copia del texto algo con *it's*.  
+10. Copia del texto algo con *time*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar had better / it's time + advice vocabulary.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar had better / it's time + advice vocabulary.*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-46](/curso-b1/unit-46)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-46-had-better-its-time-advice) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar had better / it's time + advice vocabulary.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar had better / it's time + advice vocabulary.*).  
+14. **/curso-b1/unit-46**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Frank on advice
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar had better / it's time + advice vocabulary.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-46/listening-workbook.mp3" title="🔊 Listening: Frank on advice"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Frank. You had better see a doctor. It's time to go home. It's time you started studying. You had better not tell him yet. It's high time we made a decision.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Frank / Gina / Jack*
-2. ___ better see doctor → *had / have*
-3. Time ___ go home → *to / for*
-4. Time you ___ studying → *started / start*
-5. Better ___ tell him → *not / no*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: You had ___ see a doctor.  
+4. Completa: ___ time to go home.  
+5. Completa: It's time you started ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Frank** · 2. **had** · 3. **to** · 4. **started** · 5. **not**
+1. **Frank**  
+2. **Frank**  
+3. **better**  
+4. **It's**  
+5. **studying**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Main grammar? → *advice / preference*
-7. Find had better
-8. Find it's time to
-9. Write had better…
-10. Advice words? → *yes / none*
+6. Completa: You had better not ___ him yet.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Frank.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **had better/it's time** · 7. **had better see a doctor** · 8. **it's time to go home** · 9. **Model OK** · 10. **advice, warn, urge**
+6. **tell**  
+7. **practicar had better / it's time + advice vocabulary.**  
+8. «You had better see a doctor.»  
+9. «It's time to go home.»  
+10. Modelo: Frank habla usando *practicar had better / it's time + advice vocabulary.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Shadow
-12. had better + to? → *False / True*
-13. Course → */curso-b1/unit-46*
-14. it's high time → *yes / no*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar had better / it's time + advice vocabulary.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar had better / it's time + advice vocabulary.*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **done** · 12. **False** · 13. **/curso-b1/unit-46** · 14. **yes** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar had better / it's time + advice vocabulary.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-46-had-better-its-time-advice).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *had better / it's time + advice vocabulary*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 3× had better / it's time.
 2. Completa: You ___ better see a doctor.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Ya es hora de ir a casa.
 13. Explica had better vs it's time en 1 frase.
 14. Escribe 1× it's time for + noun.
-15. Autochequeo: had better sin to.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open three.
-2. **had**
-3. **to**
-4. **started**
-5. **not**
-6. had better **leave**
-7. you **started**
-8. Open.
-9. OK.
-10. Open.
-11. You had better see a doctor.
-12. It's time to go home.
-13. had better=urgent advice; it's time=right moment.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *had better / it's time + advice vocabulary*.
+2. Completa según la regla de *had better / it's time + advice vocabulary* (mira la teoría si dudas).
+3. Completa según la regla de *had better / it's time + advice vocabulary* (mira la teoría si dudas).
+4. Completa según la regla de *had better / it's time + advice vocabulary* (mira la teoría si dudas).
+5. Completa según la regla de *had better / it's time + advice vocabulary* (mira la teoría si dudas).
+6. Corrige: *You had better to leave.* → forma correcta con *had better / it's time + advice vocabulary*.
+7. Corrige: *It's time you start.* → forma correcta con *had better / it's time + advice vocabulary*.
+8. Modelo libre correcto con *had better / it's time + advice vocabulary*.
+9. Modelo libre correcto con *had better / it's time + advice vocabulary*.
+10. Respuesta abierta — revisa que aparezca *had better / it's time + advice vocabulary*.
+11. Traduce al inglés usando *had better / it's time + advice vocabulary*.
+12. Traduce al inglés usando *had better / it's time + advice vocabulary*.
+13. Explicación breve en 1 frase (concepto clave de *had better / it's time + advice vocabulary*).
+14. Modelo libre correcto con *had better / it's time + advice vocabulary*.
+15. Autochequeo: ¿puedes explicar *had better / it's time + advice vocabulary* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-46-had-better-its-time-advice).
 
 </details>
 
----
 
 ## Cómo seguir
 

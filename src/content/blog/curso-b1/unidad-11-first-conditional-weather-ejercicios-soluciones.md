@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 11 del curso B1** (*First Co
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *first conditional + future time clauses (when, as soon as, until)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-11-first-conditional-weather).
+
 ![First conditional & Weather](/blog/curso-b1/unit-11/first-conditional.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** first conditional + future time clauses (when, as soon as, until)
+**Objetivo:** practicar first conditional + future time clauses (when, as soon as, until).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. If it ___ tomorrow, I will stay at home. → *rains / will rain / rained*
 2. When I ___, I will call you. → *arrive / will arrive / arrived*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. If you ___ early, we will have time for coffee. → *come / will come / came*
 2. Before we leave, I ___ check the forecast. → *will / would / am*
 3. After the storm, we ___ go for a walk. → *will / would / are*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *If it will rain, I stay home.*
 2. *When I will arrive, I call you.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** weather
+**Objetivo:** weather.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. sunny → *soleado · lluvioso · nublado*
 2. storm → *tormenta · niebla · brisa*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. Day with no clouds = ___ → *sunny / rainy / foggy*
 2. Strong rain + thunder = ___ → *storm / drizzle / mild*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-11-first-conditional-weather).
-15. Continúa en la [Unidad 11 del curso](/curso-b1/unit-11).
+Completa con una de estas palabras: *sunny* · *storm* · *forecast* · *temperature* · *drizzle*
+
+11. Write a short sentence with **sunny** and the grammar focus (*first conditional + future time clauses (when, as soon as, until)*).  
+12. Write a short sentence with **storm**.  
+13. Write a short sentence with **forecast**.  
+14. Choose the best word for this idea: «temperatura» → **temperature** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-11-first-conditional-weather).  
+15. Practise aloud, then continue in the [Unidad 11 del curso](/curso-b1/unit-11).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-11**
+11. Modelo: usa **sunny** en una frase natural con *first conditional + future time clauses (when, as soon as, until)*.  
+12. Modelo: usa **storm** en una frase corta.  
+13. Modelo: usa **forecast** en una frase corta.  
+14. **temperature** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-11**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Weekend weather plans
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar first conditional + future time clauses (when, as soon as, until).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-11/reading-workbook.mp3" title="🔊 Reading: Weekend weather plans"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > Tomorrow the weather forecast says it will be sunny in the morning but cloudy in the afternoon. If it rains, we will stay at home and watch a film. When the sun comes out, we will go for a walk in the park. As soon as the storm passes, I will call you to arrange our picnic. We will stay indoors until the rain stops. The temperature will be mild, around twenty degrees.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Morning weather? → *sunny / stormy / freezing*
-2. Afternoon? → *cloudy / snowy / hot*
-3. If it rains → ___ → *stay home / travel / swim*
-4. When sun comes out → ___ → *walk / sleep / fly*
-5. As soon as storm passes → ___ → *call / cancel forever*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **sunny** · 2. **cloudy** · 3. **stay at home / watch a film** · 4. **walk in the park** · 5. **call / arrange picnic**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Until rain stops → ___ → *stay indoors / leave now*
-7. Temperature? → *mild / freezing / unknown*
-8. Main grammar? → *first / second / third*
-9. Will in if-clause? → *No / Yes*
-10. Find as soon as
+1. Tomorrow the weather forecast says it will be sunny in the morning but cloudy in the ___.
+2. If it ___, we will stay at home and watch a film.
+3. When the sun ___ out, we will go for a walk in the park.
+4. As soon as the storm passes, I will call you to ___ our picnic.
+5. We will stay ___ until the rain stops.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **stay indoors** · 7. **mild / around 20** · 8. **first conditional + time clauses** · 9. **No** · 10. **As soon as the storm passes…**
+1. **afternoon** · 2. **rains** · 3. **comes** · 4. **arrange** · 5. **indoors**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Underline 3× if/when/until.
-12. Write one If it…, we will…
-13. Weather vocab in text? → *yes / none*
-14. Ending tone? → *practical / angry / empty*
-15. Course link → */curso-b1/unit-11*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar first conditional + future time clauses (when, as soon as, until).*
+8. Copia una frase (o trozo) con **when**.
+9. Copia una frase (o trozo) con **soon**.
+10. Copia una frase (o trozo) con **until**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **See text** · 12. **Model OK** · 13. **forecast, cloudy, storm, temperature** · 14. **practical plans** · 15. **/curso-b1/unit-11**
+6. Modelo: resume el texto en tus palabras (tema + *practicar first conditional + future time clauses (when, as soon as, until).*).  
+7. **practicar first conditional + future time clauses (when, as soon as, until).**  
+8. Copia del texto algo con *when* (ej.: «Tomorrow the weather forecast says it will be sunny in the morning but cloudy in the afternoon.»).  
+9. Copia del texto algo con *soon*.  
+10. Copia del texto algo con *until*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar first conditional + future time clauses (when, as soon as, until).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *If I will see her, I will call you*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-11](/curso-b1/unit-11)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-11-first-conditional-weather) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar first conditional + future time clauses (when, as soon as, until).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar first conditional + future time clauses (when, as soon as, until).*).  
+14. **/curso-b1/unit-11**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Anna's weather plans
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar first conditional + future time clauses (when, as soon as, until).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-11/listening-workbook.mp3" title="🔊 Listening: Anna's weather plans"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Anna. If it rains tomorrow, I will stay at home and watch a film. When I see the forecast, I will tell you. As soon as the storm passes, I will call you to arrange our picnic. Until the rain stops, we will stay indoors. If it's sunny on Saturday, we will have a barbecue in the garden.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Anna / Chris / Sam*
-2. If it rains → ___ → *stay home / travel*
-3. When she sees forecast → ___ → *tell / cancel*
-4. As soon as storm passes → ___ → *call / sleep*
-5. Until rain stops → ___ → *stay indoors / leave*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: If it rains ___, I will stay at home and watch a film.  
+4. Completa: When I see the ___, I will tell you.  
+5. Completa: As soon as the storm passes, I will call you to ___ our picnic.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Anna** · 2. **stay home / watch a film** · 3. **tell you** · 4. **call / picnic** · 5. **stay indoors**
+1. **Anna**  
+2. **Anna**  
+3. **tomorrow**  
+4. **forecast**  
+5. **arrange**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Saturday if sunny → ___ → *barbecue / exam*
-7. Grammar focus? → *first / second / third*
-8. Will in time clause? → *No / Yes*
-9. Find as soon as line
-10. Find until line
+6. Completa: Until the rain stops, we will stay ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Anna.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **barbecue** · 7. **first + time clauses** · 8. **No** · 9. **storm passes… call** · 10. **stay indoors until…**
+6. **indoors**  
+7. **practicar first conditional + future time clauses (when, as soon as, until).**  
+8. «If it rains tomorrow, I will stay at home and watch a film.»  
+9. «When I see the forecast, I will tell you.»  
+10. Modelo: Anna habla usando *practicar first conditional + future time clauses (when, as soon as, until).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write one When…, I will…
-12. Weather words heard? → *yes / none*
-13. Shadow full audio
-14. Barbecue is certain? → *False / True*
-15. Open Ver solución after try → *yes*
+11. Escribe una frase nueva con *practicar first conditional + future time clauses (when, as soon as, until).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *If I will see her, I will call you*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **rains, forecast, storm, sunny** · 13. **done** · 14. **False (if sunny)** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar first conditional + future time clauses (when, as soon as, until).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-11-first-conditional-weather).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *first conditional + future time clauses (when, as soon as, until)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 3 frases: if / when / as soon as + weather.
 2. Completa: If it ___ tomorrow, I will stay at home.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: En cuanto pase la tormenta, te llamaré.
 13. Pregunta *What will you do if it rains?* + respuesta.
 14. Escribe 1× *until* correcto (sin will en la cláusula).
-15. Autochequeo: no will en if/when/as soon as/until.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Model: If it's windy, we'll stay in. When I see the forecast, I'll tell you. As soon as it stops, we'll leave.
-2. **rains**
-3. **arrive**
-4. **passes**
-5. **stops**
-6. Before we leave, I will check the forecast.
-7. If the forecast is bad, we'll cancel. If there's a storm, we'll stay indoors.
-8. If it **rains**, I **will** stay home.
-9. When I **arrive**, I **will** call you.
-10. Open — include if + time clause + weather vocab.
-11. If it's sunny, we will have a barbecue.
-12. As soon as the storm passes, I will call you.
-13. What will you do if it rains? — I'll stay at home.
-14. We will wait until the rain stops.
-15. Self-check vs theory.
+1. Modelo libre correcto con *first conditional + future time clauses (when, as soon as, until)*.
+2. Completa según la regla de *first conditional + future time clauses (when, as soon as, until)* (mira la teoría si dudas).
+3. Completa según la regla de *first conditional + future time clauses (when, as soon as, until)* (mira la teoría si dudas).
+4. Completa según la regla de *first conditional + future time clauses (when, as soon as, until)* (mira la teoría si dudas).
+5. Completa según la regla de *first conditional + future time clauses (when, as soon as, until)* (mira la teoría si dudas).
+6. Modelo libre correcto con *first conditional + future time clauses (when, as soon as, until)*.
+7. Modelo libre correcto con *first conditional + future time clauses (when, as soon as, until)*.
+8. Corrige: *If it will rain, I stay home.* → forma correcta con *first conditional + future time clauses (when, as soon as, until)*.
+9. Corrige: *When I will arrive, I call you.* → forma correcta con *first conditional + future time clauses (when, as soon as, until)*.
+10. Respuesta abierta — revisa que aparezca *first conditional + future time clauses (when, as soon as, until)*.
+11. Traduce al inglés usando *first conditional + future time clauses (when, as soon as, until)*.
+12. Traduce al inglés usando *first conditional + future time clauses (when, as soon as, until)*.
+13. Modelo libre correcto con *first conditional + future time clauses (when, as soon as, until)*.
+14. Modelo libre correcto con *first conditional + future time clauses (when, as soon as, until)*.
+15. Autochequeo: ¿puedes explicar *first conditional + future time clauses (when, as soon as, until)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-11-first-conditional-weather).
 
 </details>
 
----
 
 ## Cómo seguir
 

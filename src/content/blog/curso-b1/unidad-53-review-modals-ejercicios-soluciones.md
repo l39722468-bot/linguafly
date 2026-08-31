@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 53 del curso B1** (*Review: 
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *deduction, had better, would rather, need/needn't (U8, U46–49)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-53-review-modals).
+
 ![Review Modals](/blog/curso-b1/unit-53/modals-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** deduction, had better, would rather, need/needn't (U8, U46–49)
+**Objetivo:** practicar deduction, had better, would rather, need/needn't (U8, U46–49).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. She ___ be at home — her car is there. → *must / can / should*
 2. It ___ rain later. → *might / must / can't*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. must (deduction) ≈ ___ → *almost certain / impossible / preference*
 2. might ≈ ___ → *possible / certain / advice*
 3. had better + ___ → *bare infinitive / to inf / -ing*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *She must to be at home.*
 2. *He can't to be in the office.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** mixed topics
+**Objetivo:** mixed topics.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. deduction → *deducción · preference · necessity*
 2. advice → *consejo · guess · obligation*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. must (deduction) ≈ ___ → *casi seguro / imposible / preferencia*
 2. might ≈ ___ → *posible / seguro / consejo*
@@ -151,139 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-53-review-modals).
-15. Continúa en la [Unidad 53 del curso](/curso-b1/unit-53).
+Completa con una de estas palabras: *deduction* · *advice* · *preference* · *necessity* · *certainty*
+
+11. Write a short sentence with **deduction** and the grammar focus (*deduction, had better, would rather, need/needn't (U8, U46–49)*).  
+12. Write a short sentence with **advice**.  
+13. Write a short sentence with **preference**.  
+14. Choose the best word for this idea: «necesidad» → **necessity** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-53-review-modals).  
+15. Practise aloud, then continue in the [Unidad 53 del curso](/curso-b1/unit-53).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-53**
+11. Modelo: usa **deduction** en una frase natural con *deduction, had better, would rather, need/needn't (U8, U46–49)*.  
+12. Modelo: usa **advice** en una frase corta.  
+13. Modelo: usa **preference** en una frase corta.  
+14. **necessity** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-53**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Advice & deduction
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar deduction, had better, would rather, need/needn't (U8, U46–49).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-53/reading-workbook.mp3" title="🔊 Reading: Advice & deduction"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > She must be at home — her car is there. It might rain later. He can't be in the office — it's Sunday. You had better see a doctor. I'd rather stay at home tonight. You needn't hurry — we have time.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. She ___ be home? → *must / might*
-2. It ___ rain? → *might / must*
-3. He ___ be in office? → *can't / must*
-4. ___ better see doctor? → *had / have*
-5. ___ hurry? → *needn't / need*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **must** · 2. **might** · 3. **can't** · 4. **had** · 5. **needn't**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *modals / tenses*
-7. Find must deduction
-8. Find had better
-9. Find would rather
-10. Write 1× each modal type
+1. She ___ be at home — her car is there.
+2. It ___ rain later.
+3. He can't be in the ___ — it's Sunday.
+4. You had ___ see a doctor.
+5. I'd rather stay at home ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **modals** · 7. **must be at home** · 8. **had better see a doctor** · 9. **rather stay at home** · 10. **Model OK**
+1. **must** · 2. **might** · 3. **office** · 4. **better** · 5. **tonight**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Modal vocab? → *yes / none*
-12. needn't + to OK? → *False / True*
-13. Course → */curso-b1/unit-53*
-14. had better + to? → *False / True*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar deduction, had better, would rather, need/needn't (U8, U46–49).*
+8. Copia una frase (o trozo) con **better**.
+9. Copia una frase (o trozo) con **rather**.
+10. Copia una frase (o trozo) con **need**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **deduction, advice, preference** · 12. **False** · 13. **/curso-b1/unit-53** · 14. **False** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar deduction, had better, would rather, need/needn't (U8, U46–49).*).  
+7. **practicar deduction, had better, would rather, need/needn't (U8, U46–49).**  
+8. Copia del texto algo con *better* (ej.: «She must be at home — her car is there.»).  
+9. Copia del texto algo con *rather*.  
+10. Copia del texto algo con *need*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar deduction, had better, would rather, need/needn't (U8, U46–49).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar deduction, had better, would rather, need/needn't (U8, U46–49).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-53](/curso-b1/unit-53)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-53-review-modals) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar deduction, had better, would rather, need/needn't (U8, U46–49).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar deduction, had better, would rather, need/needn't (U8, U46–49).*).  
+14. **/curso-b1/unit-53**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Mia on modals
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar deduction, had better, would rather, need/needn't (U8, U46–49).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-53/listening-workbook.mp3" title="🔊 Listening: Mia on modals"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Mia. She must be at home — her car is there. It might rain later. He can't be in the office — it's Sunday. You had better see a doctor. I'd rather stay at home tonight. You needn't hurry — we have time.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Mia / Iris / Gina*
-2. She ___ be home → *must / might*
-3. It ___ rain → *might / must*
-4. He ___ be in office → *can't / must*
-5. ___ better doctor → *had / have*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: She ___ be at home — her car is there.  
+4. Completa: It ___ rain later.  
+5. Completa: He can't be in the ___ — it's Sunday.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Mia** · 2. **must** · 3. **might** · 4. **can't** · 5. **had**
+1. **Mia**  
+2. **Mia**  
+3. **must**  
+4. **might**  
+5. **office**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Main grammar? → *modals / tenses*
-7. Find must
-8. Find had better
-9. Find needn't
-10. Write would rather
+6. Completa: You had ___ see a doctor.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Mia.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **modals** · 7. **must be at home** · 8. **had better see a doctor** · 9. **needn't hurry** · 10. **Model OK**
+6. **better**  
+7. **practicar deduction, had better, would rather, need/needn't (U8, U46–49).**  
+8. «She must be at home — her car is there.»  
+9. «It might rain later.»  
+10. Modelo: Mia habla usando *practicar deduction, had better, would rather, need/needn't (U8, U46–49).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Modal vocab? → *yes / none*
-12. Shadow
-13. needn't + to? → *False / True*
-14. Course → */curso-b1/unit-53*
-15. would rather + to? → *False / True*
-16. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar deduction, had better, would rather, need/needn't (U8, U46–49).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar deduction, had better, would rather, need/needn't (U8, U46–49).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **deduction, advice** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-53** · 15. **False** · 16. **yes**
+11. Modelo: crea una frase natural con *practicar deduction, had better, would rather, need/needn't (U8, U46–49).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-53-review-modals).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *deduction, had better, would rather, need/needn't (U8, U46–49)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe must/might/can't + had better + would rather + needn't.
 2. Completa: She ___ be at home.
@@ -300,31 +347,28 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 13. Traduce: Preferiría quedarme en casa.
 14. Explica must (deduction) vs must (obligation).
 15. Escribe 1× would rather you didn't.
-16. Autochequeo: had better/rather sin to.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open five.
-2. **must**
-3. **might**
-4. **can't**
-5. **had**
-6. **rather**
-7. had better **see**
-8. needn't **hurry**
-9. Open.
-10. OK.
-11. Open.
-12. She must be at home.
-13. I'd rather stay at home.
-14. Deduction=casi seguro; obligation=debes hacer.
-15. OK.
-16. Self-check.
+1. Modelo libre correcto con *deduction, had better, would rather, need/needn't (U8, U46–49)*.
+2. Completa según la regla de *deduction, had better, would rather, need/needn't (U8, U46–49)* (mira la teoría si dudas).
+3. Completa según la regla de *deduction, had better, would rather, need/needn't (U8, U46–49)* (mira la teoría si dudas).
+4. Completa según la regla de *deduction, had better, would rather, need/needn't (U8, U46–49)* (mira la teoría si dudas).
+5. Completa según la regla de *deduction, had better, would rather, need/needn't (U8, U46–49)* (mira la teoría si dudas).
+6. Completa según la regla de *deduction, had better, would rather, need/needn't (U8, U46–49)* (mira la teoría si dudas).
+7. Corrige: *You had better to see a doctor.* → forma correcta con *deduction, had better, would rather, need/needn't (U8, U46–49)*.
+8. Corrige: *You needn't to hurry.* → forma correcta con *deduction, had better, would rather, need/needn't (U8, U46–49)*.
+9. Modelo libre correcto con *deduction, had better, would rather, need/needn't (U8, U46–49)*.
+10. Modelo libre correcto con *deduction, had better, would rather, need/needn't (U8, U46–49)*.
+11. Respuesta abierta — revisa que aparezca *deduction, had better, would rather, need/needn't (U8, U46–49)*.
+12. Traduce al inglés usando *deduction, had better, would rather, need/needn't (U8, U46–49)*.
+13. Traduce al inglés usando *deduction, had better, would rather, need/needn't (U8, U46–49)*.
+14. Explicación breve en 1 frase (concepto clave de *deduction, had better, would rather, need/needn't (U8, U46–49)*).
+15. Modelo libre correcto con *deduction, had better, would rather, need/needn't (U8, U46–49)*.
 
 </details>
 
----
 
 ## Cómo seguir
 

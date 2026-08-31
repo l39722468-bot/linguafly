@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 26 del curso B1** (*Quantifi
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *quantifiers (much/many/a lot/few/little)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-26-quantifiers-food).
+
 ![Quantifiers & Food](/blog/curso-b1/unit-26/quantifiers.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** quantifiers (much/many/a lot/few/little)
+**Objetivo:** practicar quantifiers (much/many/a lot/few/little).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. There isn't ___ water left. → *much / many / few*
 2. There are ___ apples in the fridge. → *many / much / little*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. How ___ milk do you need? → *much / many / few*
 2. How ___ eggs are there? → *many / much / little*
 3. We have ___ time left. → *little / few / many*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *There isn't many water.*
 2. *There are much apples.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** food & drink
+**Objetivo:** food & drink.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. coffee → *café · library · dilemma*
 2. vegetables → *verduras · stadium · memory*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. much + ___ → *water/milk / apples / eggs*
 2. many + ___ → *apples/eggs / water / salt*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-26-quantifiers-food).
-15. Continúa en la [Unidad 26 del curso](/curso-b1/unit-26).
+Completa con una de estas palabras: *coffee* · *vegetables* · *salad* · *soup* · *bread*
+
+11. Write a short sentence with **coffee** and the grammar focus (*quantifiers (much/many/a lot/few/little)*).  
+12. Write a short sentence with **vegetables**.  
+13. Write a short sentence with **salad**.  
+14. Choose the best word for this idea: «sopa» → **soup** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-26-quantifiers-food).  
+15. Practise aloud, then continue in the [Unidad 26 del curso](/curso-b1/unit-26).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-26**
+11. Modelo: usa **coffee** en una frase natural con *quantifiers (much/many/a lot/few/little)*.  
+12. Modelo: usa **vegetables** en una frase corta.  
+13. Modelo: usa **salad** en una frase corta.  
+14. **soup** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-26**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: At the table
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar quantifiers (much/many/a lot/few/little).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-26/reading-workbook.mp3" title="🔊 Reading: At the table"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > There isn't much water left in the bottle. There are many apples in the fridge. Add a little salt to the soup. Very few people ordered meat. She drinks a lot of coffee every day and we need some bread for dinner.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Isn't much ___ left → *water / coffee only*
-2. Many ___ in the fridge → *apples / salt*
-3. Add a little ___ → *salt / eggs*
-4. Very few people ordered ___ → *meat / juice*
-5. Drinks a lot of ___ → *coffee / bread*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **water** · 2. **apples** · 3. **salt** · 4. **meat** · 5. **coffee**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Need some ___ for dinner → *bread / museum*
-7. Main grammar? → *quantifiers / articles*
-8. Find much + uncountable
-9. Find many + countable
-10. Find a little
+1. There isn't much water left in the ___.
+2. There are many ___ in the fridge.
+3. Add a ___ salt to the soup.
+4. Very few people ___ meat.
+5. She ___ a lot of coffee every day and we need some bread for dinner.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **bread** · 7. **quantifiers** · 8. **much water** · 9. **many apples** · 10. **a little salt**
+1. **bottle** · 2. **apples** · 3. **little** · 4. **ordered** · 5. **drinks**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Find few
-12. Write how much / how many
-13. Food vocab? → *yes / none*
-14. many water OK? → *False / True*
-15. Course link → */curso-b1/unit-26*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar quantifiers (much/many/a lot/few/little).*
+8. Copia una frase (o trozo) con **much**.
+9. Copia una frase (o trozo) con **many**.
+10. Copia una frase (o trozo) con **little**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Very few people** · 12. **Model OK** · 13. **water, apples, salt, meat, coffee, bread** · 14. **False** · 15. **/curso-b1/unit-26**
+6. Modelo: resume el texto en tus palabras (tema + *practicar quantifiers (much/many/a lot/few/little).*).  
+7. **practicar quantifiers (much/many/a lot/few/little).**  
+8. Copia del texto algo con *much* (ej.: «There isn't much water left in the bottle.»).  
+9. Copia del texto algo con *many*.  
+10. Copia del texto algo con *little*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar quantifiers (much/many/a lot/few/little).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *There isn't many water*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-26](/curso-b1/unit-26)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-26-quantifiers-food) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar quantifiers (much/many/a lot/few/little).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar quantifiers (much/many/a lot/few/little).*).  
+14. **/curso-b1/unit-26**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Nora cooking
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar quantifiers (much/many/a lot/few/little).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-26/listening-workbook.mp3" title="🔊 Listening: Nora cooking"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Nora. There isn't much water left. There are many apples in the fridge. Add a little salt to the soup. Very few people came to the party. She drinks a lot of coffee every day.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Nora / Omar / Rita*
-2. Isn't much ___ → *water / bread only*
-3. Many ___ → *apples / museums*
-4. Add a little ___ → *salt / eggs*
-5. Very few people ___ → *came / cooked*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: There isn't much ___ left.  
+4. Completa: There are many ___ in the fridge.  
+5. Completa: Add a ___ salt to the soup.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Nora** · 2. **water left** · 3. **apples in the fridge** · 4. **salt to the soup** · 5. **came to the party**
+1. **Nora**  
+2. **Nora**  
+3. **water**  
+4. **apples**  
+5. **little**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. A lot of ___ → *coffee / libraries*
-7. Grammar? → *quantifiers / articles*
-8. Find much
-9. Find many
-10. Find a little / few
+6. Completa: Very few ___ came to the party.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Nora.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **coffee every day** · 7. **quantifiers** · 8. **much water** · 9. **many apples** · 10. **a little salt / few people**
+6. **people**  
+7. **practicar quantifiers (much/many/a lot/few/little).**  
+8. «There isn't much water left.»  
+9. «There are many apples in the fridge.»  
+10. Modelo: Nora habla usando *practicar quantifiers (much/many/a lot/few/little).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write a lot of…
-12. Food words? → *yes / none*
-13. Shadow audio
-14. much + countable? → *False / True*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar quantifiers (much/many/a lot/few/little).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *There isn't many water*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **water, apples, salt, soup, coffee** · 13. **done** · 14. **False** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar quantifiers (much/many/a lot/few/little).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-26-quantifiers-food).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *quantifiers (much/many/a lot/few/little)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× much/many + 2× few/little + 1× a lot of.
 2. Completa: There isn't ___ water.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Hay muchas manzanas.
 13. Pregunta How much…? + respuesta.
 14. Escribe 1× a few + countable.
-15. Autochequeo: countable → many/few; uncountable → much/little.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open 2+2+1.
-2. **much**
-3. **many**
-4. **a little**
-5. **few**
-6. There isn't **much** water.
-7. Add **a little** salt.
-8. There are many vegetables. Add a little soup? / There's a lot of soup.
-9. How much milk…? How many eggs…?
-10. Open food paragraph.
-11. There isn't much water left.
-12. There are many apples.
-13. How much coffee do you drink? — A lot.
-14. There are a few eggs.
-15. Self-check.
+1. Modelo libre correcto con *quantifiers (much/many/a lot/few/little)*.
+2. Completa según la regla de *quantifiers (much/many/a lot/few/little)* (mira la teoría si dudas).
+3. Completa según la regla de *quantifiers (much/many/a lot/few/little)* (mira la teoría si dudas).
+4. Completa según la regla de *quantifiers (much/many/a lot/few/little)* (mira la teoría si dudas).
+5. Completa según la regla de *quantifiers (much/many/a lot/few/little)* (mira la teoría si dudas).
+6. Corrige: *There isn't many water.* → forma correcta con *quantifiers (much/many/a lot/few/little)*.
+7. Corrige: *Add a few salt.* → forma correcta con *quantifiers (much/many/a lot/few/little)*.
+8. Modelo libre correcto con *quantifiers (much/many/a lot/few/little)*.
+9. Modelo libre correcto con *quantifiers (much/many/a lot/few/little)*.
+10. Respuesta abierta — revisa que aparezca *quantifiers (much/many/a lot/few/little)*.
+11. Traduce al inglés usando *quantifiers (much/many/a lot/few/little)*.
+12. Traduce al inglés usando *quantifiers (much/many/a lot/few/little)*.
+13. Modelo libre correcto con *quantifiers (much/many/a lot/few/little)*.
+14. Modelo libre correcto con *quantifiers (much/many/a lot/few/little)*.
+15. Autochequeo: ¿puedes explicar *quantifiers (much/many/a lot/few/little)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-26-quantifiers-food).
 
 </details>
 
----
 
 ## Cómo seguir
 

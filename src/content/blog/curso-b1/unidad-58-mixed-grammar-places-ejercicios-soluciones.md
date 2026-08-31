@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 58 del curso B1** (*Mixed Gr
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *passive, would rather, there are, relative where, PP continuous*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-58-mixed-grammar-places).
+
 ![Mixed Grammar: Places](/blog/curso-b1/unit-58/mixed-grammar-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** passive, would rather, there are, relative where, PP continuous
+**Objetivo:** practicar passive, would rather, there are, relative where, PP continuous.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. The bridge ___ built last year. → *was / is / has been*
 2. I'd ___ live in the countryside. → *rather / better / prefer*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. was built → ___ → *passive past / active / present*
 2. would rather ≈ ___ → *preference / obligation / deduction*
 3. There are + ___ → *plural noun / singular / infinitive*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *The bridge is built last year.*
 2. *I'd rather to live…*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** town & countryside
+**Objetivo:** town & countryside.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. countryside → *campo · city · street*
 2. town centre → *centro / periferia / valle*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. village ≈ ___ → *pueblo pequeño / gran ciudad / bosque*
 2. There are ≈ ___ → *existen (plural) / existe (singular) / tienen*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-58-mixed-grammar-places).
-15. Continúa en la [Unidad 58 del curso](/curso-b1/unit-58).
+Completa con una de estas palabras: *countryside* · *town centre* · *valley* · *bridge* · *suburb*
+
+11. Write a short sentence with **countryside** and the grammar focus (*passive, would rather, there are, relative where, PP continuous*).  
+12. Write a short sentence with **town centre**.  
+13. Write a short sentence with **valley**.  
+14. Choose the best word for this idea: «puente» → **bridge** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-58-mixed-grammar-places).  
+15. Practise aloud, then continue in the [Unidad 58 del curso](/curso-b1/unit-58).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-58**
+11. Modelo: usa **countryside** en una frase natural con *passive, would rather, there are, relative where, PP continuous*.  
+12. Modelo: usa **town centre** en una frase corta.  
+13. Modelo: usa **valley** en una frase corta.  
+14. **bridge** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-58**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Places & grammar
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar passive, would rather, there are, relative where, PP continuous.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-58/reading-workbook.mp3" title="🔊 Reading: Places & grammar"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > The new bridge was built last year. I'd rather live in the countryside than in the city. There are many shops in the town centre. The village where I grew up is very small. I have been living here since 2015.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Bridge ___ built? → *was / is*
-2. ___ rather countryside? → *rather / better*
-3. ___ are many shops? → *There / It*
-4. Village ___ I grew up? → *where / which*
-5. ___ been living since 2015? → *have / has*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **was** · 2. **rather** · 3. **There** · 4. **where** · 5. **have**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *mixed / vocab only*
-7. Find there are
-8. Find where
-9. Find PP continuous
-10. Write 1× passive
+1. The new ___ was built last year.
+2. I'd rather live in the ___ than in the city.
+3. There are many shops in the town ___.
+4. The ___ where I grew up is very small.
+5. I have been ___ here since 2015.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **mixed/places** · 7. **There are many shops** · 8. **village where I grew up** · 9. **have been living** · 10. **Model OK**
+1. **bridge** · 2. **countryside** · 3. **centre** · 4. **village** · 5. **living**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Places vocab? → *yes / none*
-12. where for places? → *True / False*
-13. Course → */curso-b1/unit-58*
-14. since → PP? → *True / False*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar passive, would rather, there are, relative where, PP continuous.*
+8. Copia una frase (o trozo) con **rather**.
+9. Copia una frase (o trozo) con **there**.
+10. Copia una frase (o trozo) con **where**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **countryside, bridge, village** · 12. **True** · 13. **/curso-b1/unit-58** · 14. **True** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar passive, would rather, there are, relative where, PP continuous.*).  
+7. **practicar passive, would rather, there are, relative where, PP continuous.**  
+8. Copia del texto algo con *rather* (ej.: «The new bridge was built last year.»).  
+9. Copia del texto algo con *there*.  
+10. Copia del texto algo con *where*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar passive, would rather, there are, relative where, PP continuous.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *The email sent yesterday*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-58](/curso-b1/unit-58)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-58-mixed-grammar-places) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar passive, would rather, there are, relative where, PP continuous.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar passive, would rather, there are, relative where, PP continuous.*).  
+14. **/curso-b1/unit-58**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Sam on places
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar passive, would rather, there are, relative where, PP continuous.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-58/listening-workbook.mp3" title="🔊 Listening: Sam on places"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Sam. The new bridge was built last year. I'd rather live in the countryside than in the city. There are many shops in the town centre. The village where I grew up is very small. I have been living here since 2015.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Sam / Paul / Victor*
-2. Bridge ___ built → *was / is*
-3. ___ rather countryside → *rather / better*
-4. ___ are shops → *There / It*
-5. Village ___ grew up → *where / which*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: The new ___ was built last year.  
+4. Completa: I'd rather live in the ___ than in the city.  
+5. Completa: There are many shops in the town ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Sam** · 2. **was** · 3. **rather** · 4. **There** · 5. **where**
+1. **Sam**  
+2. **Sam**  
+3. **bridge**  
+4. **countryside**  
+5. **centre**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Main grammar? → *mixed / vocab*
-7. Find there are
-8. Find where
-9. Write PP continuous
-10. Places words? → *yes / none*
+6. Completa: The ___ where I grew up is very small.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Sam.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **mixed/places** · 7. **There are many shops** · 8. **village where I grew up** · 9. **Model OK** · 10. **bridge, countryside**
+6. **village**  
+7. **practicar passive, would rather, there are, relative where, PP continuous.**  
+8. «The new bridge was built last year.»  
+9. «I'd rather live in the countryside than in the city.»  
+10. Modelo: Sam habla usando *practicar passive, would rather, there are, relative where, PP continuous.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Shadow
-12. where = place? → *True / False*
-13. Course → */curso-b1/unit-58*
-14. since 2015? → *yes / no*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar passive, would rather, there are, relative where, PP continuous.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *The email sent yesterday*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **done** · 12. **True** · 13. **/curso-b1/unit-58** · 14. **have been living** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar passive, would rather, there are, relative where, PP continuous.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-58-mixed-grammar-places).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *passive, would rather, there are, relative where, PP continuous*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe passive + would rather + there are + where.
 2. Completa: The bridge ___ built last year.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: El pueblo donde crecí es pequeño.
 13. Explica there is vs there are.
 14. Escribe 1× second conditional (places).
-15. Autochequeo: where for places.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open four.
-2. **was**
-3. **rather**
-4. **There**
-5. **where**
-6. **have**
-7. **There are** many shops.
-8. The village **where** I grew up…
-9. Open.
-10. Open.
-11. There are many shops in the town centre.
-12. The village where I grew up is very small.
-13. There is + singular; there are + plural.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *passive, would rather, there are, relative where, PP continuous*.
+2. Completa según la regla de *passive, would rather, there are, relative where, PP continuous* (mira la teoría si dudas).
+3. Completa según la regla de *passive, would rather, there are, relative where, PP continuous* (mira la teoría si dudas).
+4. Completa según la regla de *passive, would rather, there are, relative where, PP continuous* (mira la teoría si dudas).
+5. Completa según la regla de *passive, would rather, there are, relative where, PP continuous* (mira la teoría si dudas).
+6. Completa según la regla de *passive, would rather, there are, relative where, PP continuous* (mira la teoría si dudas).
+7. Corrige: *It are many shops…* → forma correcta con *passive, would rather, there are, relative where, PP continuous*.
+8. Corrige: *The village which I grew up…* → forma correcta con *passive, would rather, there are, relative where, PP continuous*.
+9. Modelo libre correcto con *passive, would rather, there are, relative where, PP continuous*.
+10. Respuesta abierta — revisa que aparezca *passive, would rather, there are, relative where, PP continuous*.
+11. Traduce al inglés usando *passive, would rather, there are, relative where, PP continuous*.
+12. Traduce al inglés usando *passive, would rather, there are, relative where, PP continuous*.
+13. Explicación breve en 1 frase (concepto clave de *passive, would rather, there are, relative where, PP continuous*).
+14. Modelo libre correcto con *passive, would rather, there are, relative where, PP continuous*.
+15. Autochequeo: ¿puedes explicar *passive, would rather, there are, relative where, PP continuous* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-58-mixed-grammar-places).
 
 </details>
 
----
 
 ## Cómo seguir
 

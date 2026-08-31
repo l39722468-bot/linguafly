@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 44 del curso B1** (*For, Sin
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *for/since/from + time expressions*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-44-for-since-from-time).
+
 ![For, Since, From & Time](/blog/curso-b1/unit-44/for-since-from.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** for/since/from + time expressions
+**Objetivo:** practicar for/since/from + time expressions.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I have lived here ___ 2015. → *since / for / from*
 2. We have known each other ___ ten years. → *for / since / from*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. for + ___ → *duration / starting point / range end*
 2. since + ___ → *starting point / duration / to*
 3. from…to = ___ → *range / duration only / clause*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *I have lived here for 2015.*
 2. *We have known since ten years.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** time expressions
+**Objetivo:** time expressions.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. for ages → *mucho tiempo · depend · during*
 2. all day → *todo el día · interested · while*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. for ages = ___ → *long duration / starting point / noun event*
 2. so far → tense ___ → *present perfect / only past / future*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-44-for-since-from-time).
-15. Continúa en la [Unidad 44 del curso](/curso-b1/unit-44).
+Completa con una de estas palabras: *for ages* · *all day* · *so far* · *already* · *until*
+
+11. Write a short sentence with **for ages** and the grammar focus (*for/since/from + time expressions*).  
+12. Write a short sentence with **all day**.  
+13. Write a short sentence with **so far**.  
+14. Choose the best word for this idea: «ya» → **already** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-44-for-since-from-time).  
+15. Practise aloud, then continue in the [Unidad 44 del curso](/curso-b1/unit-44).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-44**
+11. Modelo: usa **for ages** en una frase natural con *for/since/from + time expressions*.  
+12. Modelo: usa **all day** en una frase corta.  
+13. Modelo: usa **so far** en una frase corta.  
+14. **already** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-44**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Since 2015
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar for/since/from + time expressions.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-44/reading-workbook.mp3" title="🔊 Reading: Since 2015"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I have lived here since 2015. We have known each other for ten years. The shop is open from 9am to 5pm. She has been ill since Monday. I haven't eaten since breakfast.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Lived here ___ 2015? → *since / for*
-2. Known ___ ten years? → *for / since*
-3. Open ___ 9am ___ 5pm? → *from-to / since*
-4. Ill ___ Monday? → *since / for*
-5. Not eaten ___ breakfast? → *since / for*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **since** · 2. **for** · 3. **from … to** · 4. **since** · 5. **since**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *for-since-from / while*
-7. Find since + point
-8. Find for + duration
-9. Find from…to
-10. Write since…
+1. I have ___ here since 2015.
+2. We have ___ each other for ten years.
+3. The ___ is open from 9am to 5pm.
+4. She has been ill since ___.
+5. I haven't eaten since ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **for/since/from** · 7. **since 2015 / Monday** · 8. **for ten years** · 9. **from 9am to 5pm** · 10. **Model OK**
+1. **lived** · 2. **known** · 3. **shop** · 4. **Monday** · 5. **breakfast**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Time expr vocab? → *yes / none*
-12. for + 2015 OK? → *False / True*
-13. Course → */curso-b1/unit-44*
-14. since = duration? → *No / Yes*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar for/since/from + time expressions.*
+8. Copia una frase (o trozo) con **since**.
+9. Copia una frase (o trozo) con **from**.
+10. Copia una frase (o trozo) con **from**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **for ages, all day, so far, until** · 12. **False** · 13. **/curso-b1/unit-44** · 14. **No (point)** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar for/since/from + time expressions.*).  
+7. **practicar for/since/from + time expressions.**  
+8. Copia del texto algo con *since* (ej.: «I have lived here since 2015.»).  
+9. Copia del texto algo con *from*.  
+10. Copia del texto algo con *from*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar for/since/from + time expressions.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar for/since/from + time expressions.*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-44](/curso-b1/unit-44)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-44-for-since-from-time) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar for/since/from + time expressions.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar for/since/from + time expressions.*).  
+14. **/curso-b1/unit-44**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Dana on time expressions
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar for/since/from + time expressions.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-44/listening-workbook.mp3" title="🔊 Listening: Dana on time expressions"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Dana. I have lived here since 2015. We have known each other for ten years. The shop is open from 9am to 5pm. She has been ill since Monday. I haven't eaten since breakfast.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Dana / Chris / Beth*
-2. Lived ___ 2015 → *since / for*
-3. Known ___ ten years → *for / since*
-4. Open ___ 9–5 → *from-to / since*
-5. Ill ___ Monday → *since / for*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I have ___ here since 2015.  
+4. Completa: We have ___ each other for ten years.  
+5. Completa: The ___ is open from 9am to 5pm.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Dana** · 2. **since** · 3. **for** · 4. **from … to** · 5. **since**
+1. **Dana**  
+2. **Dana**  
+3. **lived**  
+4. **known**  
+5. **shop**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Not eaten ___ breakfast → *since / for*
-7. Grammar? → *for-since-from / while*
-8. Find since
-9. Find for duration
-10. Write from…to…
+6. Completa: She has been ill since ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Dana.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **since** · 7. **for/since/from** · 8. **since 2015 / Monday** · 9. **for ten years** · 10. **Model OK**
+6. **Monday**  
+7. **practicar for/since/from + time expressions.**  
+8. «I have lived here since 2015.»  
+9. «We have known each other for ten years.»  
+10. Modelo: Dana habla usando *practicar for/since/from + time expressions.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Time expr? → *yes / none*
-12. Shadow
-13. for + 2015? → *False / True*
-14. Course → */curso-b1/unit-44*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar for/since/from + time expressions.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar for/since/from + time expressions.*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **for ages, so far, until** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-44** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar for/since/from + time expressions.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-44-for-since-from-time).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *for/since/from + time expressions*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× since + 2× for + 1× from…to.
 2. Completa: lived here ___ 2015.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: La tienda abre de 9 a 5.
 13. Explica for vs since en 1 frase.
 14. Escribe 1× until.
-15. Autochequeo: for=duration; since=point; from…to=range.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open five.
-2. **since**
-3. **for**
-4. **from** … **to**
-5. **since**
-6. **since** 2015
-7. **for** ten years
-8. Open.
-9. OK.
-10. Open.
-11. I have lived here since 2015.
-12. The shop is open from 9am to 5pm.
-13. for=how long; since=when.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *for/since/from + time expressions*.
+2. Completa según la regla de *for/since/from + time expressions* (mira la teoría si dudas).
+3. Completa según la regla de *for/since/from + time expressions* (mira la teoría si dudas).
+4. Completa según la regla de *for/since/from + time expressions* (mira la teoría si dudas).
+5. Completa según la regla de *for/since/from + time expressions* (mira la teoría si dudas).
+6. Corrige: *lived here for 2015* → forma correcta con *for/since/from + time expressions*.
+7. Corrige: *known since ten years* → forma correcta con *for/since/from + time expressions*.
+8. Modelo libre correcto con *for/since/from + time expressions*.
+9. Modelo libre correcto con *for/since/from + time expressions*.
+10. Respuesta abierta — revisa que aparezca *for/since/from + time expressions*.
+11. Traduce al inglés usando *for/since/from + time expressions*.
+12. Traduce al inglés usando *for/since/from + time expressions*.
+13. Explicación breve en 1 frase (concepto clave de *for/since/from + time expressions*).
+14. Modelo libre correcto con *for/since/from + time expressions*.
+15. Autochequeo: ¿puedes explicar *for/since/from + time expressions* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-44-for-since-from-time).
 
 </details>
 
----
 
 ## Cómo seguir
 

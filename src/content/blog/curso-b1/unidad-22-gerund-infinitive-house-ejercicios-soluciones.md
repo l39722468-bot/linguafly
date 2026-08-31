@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 22 del curso B1** (*Gerund v
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *like/love/prefer; remember/forget/try (+ -ing or to)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-22-gerund-infinitive-house).
+
 ![Gerund vs Infinitive (2) & House](/blog/curso-b1/unit-22/gerund-infinitive-2.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** like/love/prefer; remember/forget/try (+ -ing or to)
+**Objetivo:** practicar like/love/prefer; remember/forget/try (+ -ing or to).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. Remember ___ the door. (reminder) → *to lock / locking / lock*
 2. I remember ___ it. (memory) → *locking / to lock / lock*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. She forgot ___ off the dishwasher. → *turning / to turn / turn*
 2. Don't forget ___ the door. → *to lock / locking / lock*
 3. We love ___ evenings in the garden. → *spending / to spend / spend*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *Remember locking the door.* (reminder)
 2. *I remember to lock it yesterday.* (memory)
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** house & home
+**Objetivo:** house & home.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. fridge → *nevera · hiking · receipt*
 2. dishwasher → *lavavajillas · camping · discount*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. kitchen ≈ ___ → *cocina / picnic / sale*
 2. bedroom ≈ ___ → *dormitorio / hiking / queue*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-22-gerund-infinitive-house).
-15. Continúa en la [Unidad 22 del curso](/curso-b1/unit-22).
+Completa con una de estas palabras: *fridge* · *dishwasher* · *sofa* · *garden* · *vacuum cleaner*
+
+11. Write a short sentence with **fridge** and the grammar focus (*like/love/prefer; remember/forget/try (+ -ing or to)*).  
+12. Write a short sentence with **dishwasher**.  
+13. Write a short sentence with **sofa**.  
+14. Choose the best word for this idea: «jardín» → **garden** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-22-gerund-infinitive-house).  
+15. Practise aloud, then continue in the [Unidad 22 del curso](/curso-b1/unit-22).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-22**
+11. Modelo: usa **fridge** en una frase natural con *like/love/prefer; remember/forget/try (+ -ing or to)*.  
+12. Modelo: usa **dishwasher** en una frase corta.  
+13. Modelo: usa **sofa** en una frase corta.  
+14. **garden** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-22**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: At home
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar like/love/prefer; remember/forget/try (+ -ing or to).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-22/reading-workbook.mp3" title="🔊 Reading: At home"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I prefer living near a park. Remember to lock the door when you leave. She forgot turning off the washing machine. Try restarting the vacuum cleaner. We love spending evenings in the garden and I like cooking in the kitchen.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Prefer living ___ → *near a park / in a tent*
-2. Remember to ___ → *lock / unlock forever*
-3. Forgot ___ → *turning off / buying*
-4. Try ___ → *restarting / selling*
-5. Love spending evenings ___ → *garden / office*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **near a park** · 2. **lock the door** · 3. **turning off the washing machine** · 4. **restarting the vacuum cleaner** · 5. **in the garden**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Like cooking ___ → *kitchen / garage*
-7. remember to = reminder? → *Yes / No*
-8. Main grammar? → *remember/try / third*
-9. Find remember to
-10. Find forgot + -ing
+1. I ___ living near a park.
+2. ___ to lock the door when you leave.
+3. She forgot ___ off the washing machine.
+4. Try ___ the vacuum cleaner.
+5. We love ___ evenings in the garden and I like cooking in the kitchen.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **in the kitchen** · 7. **Yes** · 8. **like/prefer + remember/try** · 9. **Remember to lock** · 10. **forgot turning off**
+1. **prefer** · 2. **Remember** · 3. **turning** · 4. **restarting** · 5. **spending**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Find prefer + -ing
-12. Write remember to…
-13. House vocab? → *yes / none*
-14. remember locking = memory? → *Yes / No*
-15. Course link → */curso-b1/unit-22*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar like/love/prefer; remember/forget/try (+ -ing or to).*
+8. Copia una frase (o trozo) con **like**.
+9. Copia una frase (o trozo) con **love**.
+10. Copia una frase (o trozo) con **prefer**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **prefer living** · 12. **Model OK** · 13. **park, door, washing machine, vacuum, garden, kitchen** · 14. **Yes** · 15. **/curso-b1/unit-22**
+6. Modelo: resume el texto en tus palabras (tema + *practicar like/love/prefer; remember/forget/try (+ -ing or to).*).  
+7. **practicar like/love/prefer; remember/forget/try (+ -ing or to).**  
+8. Copia del texto algo con *like* (ej.: «I prefer living near a park.»).  
+9. Copia del texto algo con *love*.  
+10. Copia del texto algo con *prefer*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar like/love/prefer; remember/forget/try (+ -ing or to).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar like/love/prefer; remember/forget/try (+ -ing or to).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-22](/curso-b1/unit-22)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-22-gerund-infinitive-house) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar like/love/prefer; remember/forget/try (+ -ing or to).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar like/love/prefer; remember/forget/try (+ -ing or to).*).  
+14. **/curso-b1/unit-22**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Ben at home
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar like/love/prefer; remember/forget/try (+ -ing or to).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-22/listening-workbook.mp3" title="🔊 Listening: Ben at home"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Ben. I like cooking in the kitchen. I prefer living in a quiet flat. Remember to lock the door. She forgot turning off the dishwasher. Try cleaning the kitchen first.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Ben / Sara / Diego*
-2. Likes ___ → *cooking / hiking only*
-3. Prefers living in ___ → *quiet flat / noisy street*
-4. Remember to ___ → *lock / unlock forever*
-5. Forgot ___ → *turning off / buying*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I like ___ in the kitchen.  
+4. Completa: I ___ living in a quiet flat.  
+5. Completa: ___ to lock the door.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Ben** · 2. **cooking in the kitchen** · 3. **a quiet flat** · 4. **lock the door** · 5. **turning off the dishwasher**
+1. **Ben**  
+2. **Ben**  
+3. **cooking**  
+4. **prefer**  
+5. **Remember**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Try ___ → *cleaning / selling*
-7. Grammar? → *remember/try / third*
-8. remember to = reminder? → *Yes / No*
-9. Find remember to
-10. Find forgot + -ing
+6. Completa: She forgot turning off the ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Ben.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **cleaning the kitchen first** · 7. **like/prefer + remember/try** · 8. **Yes** · 9. **Remember to lock** · 10. **forgot turning off**
+6. **dishwasher**  
+7. **practicar like/love/prefer; remember/forget/try (+ -ing or to).**  
+8. «I like cooking in the kitchen.»  
+9. «I prefer living in a quiet flat.»  
+10. Modelo: Ben habla usando *practicar like/love/prefer; remember/forget/try (+ -ing or to).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write prefer + -ing
-12. House words? → *yes / none*
-13. Shadow audio
-14. remember locking = memory? → *Yes / No*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar like/love/prefer; remember/forget/try (+ -ing or to).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar like/love/prefer; remember/forget/try (+ -ing or to).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **kitchen, flat, door, dishwasher** · 13. **done** · 14. **Yes** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar like/love/prefer; remember/forget/try (+ -ing or to).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-22-gerund-infinitive-house).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *like/love/prefer; remember/forget/try (+ -ing or to)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe remember to + remember -ing + prefer + try -ing.
 2. Completa: Remember ___ (lock) the door. (reminder)
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Prefiero vivir en un piso tranquilo.
 13. Explica remember to vs remember -ing en 1 frase.
 14. Escribe 1× love + -ing.
-15. Autochequeo: reminder = to; memory/experiment = -ing.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open four structures.
-2. **to lock**
-3. **locking**
-4. **living / to live**
-5. **cleaning**
-6. Remember **to lock**…
-7. The fridge is new. She forgot turning off the dishwasher.
-8. OK.
-9. OK.
-10. Open dialogue.
-11. Remember to lock the door.
-12. I prefer living / to live in a quiet flat.
-13. to = don't forget; -ing = I recall doing it.
-14. We love spending evenings in the garden.
-15. Self-check.
+1. Modelo libre correcto con *like/love/prefer; remember/forget/try (+ -ing or to)*.
+2. Completa según la regla de *like/love/prefer; remember/forget/try (+ -ing or to)* (mira la teoría si dudas).
+3. Completa según la regla de *like/love/prefer; remember/forget/try (+ -ing or to)* (mira la teoría si dudas).
+4. Completa según la regla de *like/love/prefer; remember/forget/try (+ -ing or to)* (mira la teoría si dudas).
+5. Completa según la regla de *like/love/prefer; remember/forget/try (+ -ing or to)* (mira la teoría si dudas).
+6. Corrige: *Remember locking the door.* → forma correcta con *like/love/prefer; remember/forget/try (+ -ing or to)*.
+7. Modelo libre correcto con *like/love/prefer; remember/forget/try (+ -ing or to)*.
+8. Modelo libre correcto con *like/love/prefer; remember/forget/try (+ -ing or to)*.
+9. Modelo libre correcto con *like/love/prefer; remember/forget/try (+ -ing or to)*.
+10. Respuesta abierta — revisa que aparezca *like/love/prefer; remember/forget/try (+ -ing or to)*.
+11. Traduce al inglés usando *like/love/prefer; remember/forget/try (+ -ing or to)*.
+12. Traduce al inglés usando *like/love/prefer; remember/forget/try (+ -ing or to)*.
+13. Explicación breve en 1 frase (concepto clave de *like/love/prefer; remember/forget/try (+ -ing or to)*).
+14. Modelo libre correcto con *like/love/prefer; remember/forget/try (+ -ing or to)*.
+15. Autochequeo: ¿puedes explicar *like/love/prefer; remember/forget/try (+ -ing or to)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-22-gerund-infinitive-house).
 
 </details>
 
----
 
 ## Cómo seguir
 

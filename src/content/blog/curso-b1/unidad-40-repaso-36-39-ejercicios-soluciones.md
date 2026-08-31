@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 40 del curso B1** (*Repaso 3
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *so/such, compounds, contrast y purpose/reason (mix U36–39)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-40-repaso-36-39).
+
 ![Repaso 36–39](/blog/curso-b1/unit-40/review-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** so/such, compounds, contrast y purpose/reason (mix U36–39)
+**Objetivo:** practicar so/such, compounds, contrast y purpose/reason (mix U36–39).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. It was ___ long journey. → *such a / so / such*
 2. a ___ trip (2 days) → *two-day / two-days / two day*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. so/such → ___ → *intensifiers / contrast / purpose*
 2. two-day → ___ → *compound adj / tag / because*
 3. although → ___ → *contrast / intensifier / purpose*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *so long journey*
 2. *two-days trip*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** intensifiers, travel, opinions, explaining (mix)
+**Objetivo:** intensifiers, travel, opinions, explaining (mix).
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. so/such/so much/many → *intensifiers · only contrast*
 2. two-day / well-known → *compounds · only tags*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. such a → ___ → *intensifier / compound / contrast*
 2. hyphen in compound? → *Yes / No / Only contrast*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-40-repaso-36-39).
-15. Continúa en la [Unidad 40 del curso](/curso-b1/unit-40).
+Completa con una de estas palabras: *so/such/so much/many* · *two-day / well-known* · *although/however/despite* · *to/so that/because of* · *extremely / luggage / agree / purpose*
+
+11. Write a short sentence with **so/such/so much/many** and the grammar focus (*so/such, compounds, contrast y purpose/reason (mix U36–39)*).  
+12. Write a short sentence with **two-day / well-known**.  
+13. Write a short sentence with **although/however/despite**.  
+14. Choose the best word for this idea: «purpose» → **to/so that/because of** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-40-repaso-36-39).  
+15. Practise aloud, then continue in the [Unidad 40 del curso](/curso-b1/unit-40).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-40**
+11. Modelo: usa **so/such/so much/many** en una frase natural con *so/such, compounds, contrast y purpose/reason (mix U36–39)*.  
+12. Modelo: usa **two-day / well-known** en una frase corta.  
+13. Modelo: usa **although/however/despite** en una frase corta.  
+14. **to/so that/because of** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-40**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Mixed review
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar so/such, compounds, contrast y purpose/reason (mix U36–39).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-40/reading-workbook.mp3" title="🔊 Reading: Mixed review"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > It was such a long journey. We took a two-day trip. Although I was tired, I went out. I left early to catch the train. We stayed in because of the rain.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Journey type? → *such a / so*
-2. Trip length compound? → *two-day / two-days*
-3. Tired but went out? → *Although / However*
-4. Left early to? → *catch / because of*
-5. Stayed in because? → *rain / however*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **such a long** · 2. **two-day** · 3. **Although** · 4. **catch the train** · 5. **rain**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Classify such a → *intensifier / compound*
-7. Classify two-day → *compound / contrast*
-8. Classify although → *contrast / purpose*
-9. Classify to catch → *purpose / intensifier*
-10. Classify because of → *reason / contrast*
+1. It was such a long ___.
+2. We ___ a two-day trip.
+3. ___ I was tired, I went out.
+4. I left ___ to catch the train.
+5. We stayed in ___ of the rain.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **intensifier** · 7. **compound** · 8. **contrast** · 9. **purpose** · 10. **reason**
+1. **journey** · 2. **took** · 3. **Although** · 4. **early** · 5. **because**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Write 1× each
-12. Mixed? → *Yes / No*
-13. Course → */curso-b1/unit-40*
-14. Module 4 complete? → *Yes / No*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar so/such, compounds, contrast y purpose/reason (mix U36–39).*
+8. Copia una frase (o trozo) con **such**.
+9. Copia una frase (o trozo) con **such**.
+10. Copia una frase (o trozo) con **such**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **Yes** · 13. **/curso-b1/unit-40** · 14. **Yes** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar so/such, compounds, contrast y purpose/reason (mix U36–39).*).  
+7. **practicar so/such, compounds, contrast y purpose/reason (mix U36–39).**  
+8. Copia del texto algo con *such* (ej.: «It was such a long journey.»).  
+9. Copia del texto algo con *such*.  
+10. Copia del texto algo con *such*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar so/such, compounds, contrast y purpose/reason (mix U36–39).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar so/such, compounds, contrast y purpose/reason (mix U36–39).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-40](/curso-b1/unit-40)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-40-repaso-36-39) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar so/such, compounds, contrast y purpose/reason (mix U36–39).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar so/such, compounds, contrast y purpose/reason (mix U36–39).*).  
+14. **/curso-b1/unit-40**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Eva's mixed review
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar so/such, compounds, contrast y purpose/reason (mix U36–39).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-40/listening-workbook.mp3" title="🔊 Listening: Eva's mixed review"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Eva. It was such a long journey. We took a two-day trip. Although I was tired, I went out. I left early to catch the train. We stayed in because of the rain.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Eva / Dana / Carl*
-2. Journey? → *such a / so*
-3. Trip? → *two-day / two-days*
-4. Tired but out? → *Although / However*
-5. Left early to? → *catch / despite*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: It was such a long ___.  
+4. Completa: We ___ a two-day trip.  
+5. Completa: ___ I was tired, I went out.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Eva** · 2. **such a long** · 3. **two-day** · 4. **Although** · 5. **catch the train**
+1. **Eva**  
+2. **Eva**  
+3. **journey**  
+4. **took**  
+5. **Although**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Stayed because of? → *rain / however*
-7. Classify such a → *intensifier / compound*
-8. Classify two-day → *compound / contrast*
-9. Classify although → *contrast / purpose*
-10. Classify to catch → *purpose / so*
+6. Completa: I left ___ to catch the train.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Eva.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **the rain** · 7. **intensifier** · 8. **compound** · 9. **contrast** · 10. **purpose**
+6. **early**  
+7. **practicar so/such, compounds, contrast y purpose/reason (mix U36–39).**  
+8. «It was such a long journey.»  
+9. «We took a two-day trip.»  
+10. Modelo: Eva habla usando *practicar so/such, compounds, contrast y purpose/reason (mix U36–39).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write 1× each
-12. Shadow
-13. Mixed? → *Yes / No*
-14. Course → */curso-b1/unit-40*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar so/such, compounds, contrast y purpose/reason (mix U36–39).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar so/such, compounds, contrast y purpose/reason (mix U36–39).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **done** · 13. **Yes** · 14. **/curso-b1/unit-40** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar so/such, compounds, contrast y purpose/reason (mix U36–39).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-40-repaso-36-39).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *so/such, compounds, contrast y purpose/reason (mix U36–39)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Una frase: so/such, compound, although, to, because of.
 2. Completa: It was ___ long journey.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Fue un viaje tan largo.
 13. Traduce: Salí temprano para coger el tren.
 14. Autochequeo con mapa U40.
-15. Open Ver solución checklist.
+15. Autochequeo: revisa tus respuestas y abre «Ver solución» solo al final.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open one of each.
-2. **such a**
-3. **two-day**
-4. **Although/Though**
-5. **to / in order to**
-6. **because of / due to**
-7. **such a**
-8. **Although**
-9. **to** catch…
-10. Open mixed.
-11. OK.
-12. It was such a long journey.
-13. I left early to catch the train.
-14. Self-check.
-15. yes.
+1. Modelo OK con *so/such, compounds, contrast y purpose/reason (mix U36–39)*.
+2. Completa según la regla de *so/such, compounds, contrast y purpose/reason (mix U36–39)* (mira la teoría si dudas).
+3. Completa según la regla de *so/such, compounds, contrast y purpose/reason (mix U36–39)* (mira la teoría si dudas).
+4. Completa según la regla de *so/such, compounds, contrast y purpose/reason (mix U36–39)* (mira la teoría si dudas).
+5. Completa según la regla de *so/such, compounds, contrast y purpose/reason (mix U36–39)* (mira la teoría si dudas).
+6. Completa según la regla de *so/such, compounds, contrast y purpose/reason (mix U36–39)* (mira la teoría si dudas).
+7. Corrige: *so long journey* → forma correcta con *so/such, compounds, contrast y purpose/reason (mix U36–39)*.
+8. Corrige: *However I was tired, I went.* → forma correcta con *so/such, compounds, contrast y purpose/reason (mix U36–39)*.
+9. Corrige: *because of catch the train* → forma correcta con *so/such, compounds, contrast y purpose/reason (mix U36–39)*.
+10. Respuesta abierta — revisa que aparezca *so/such, compounds, contrast y purpose/reason (mix U36–39)*.
+11. Modelo OK con *so/such, compounds, contrast y purpose/reason (mix U36–39)*.
+12. Traduce al inglés usando *so/such, compounds, contrast y purpose/reason (mix U36–39)*.
+13. Traduce al inglés usando *so/such, compounds, contrast y purpose/reason (mix U36–39)*.
+14. Autochequeo: ¿puedes explicar *so/such, compounds, contrast y purpose/reason (mix U36–39)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-40-repaso-36-39).
+15. Modelo OK con *so/such, compounds, contrast y purpose/reason (mix U36–39)*.
 
 </details>
 
----
 
 ## Cómo seguir
 

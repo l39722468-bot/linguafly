@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 17 del curso B1** (*Modal Pa
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *modal passive (must/should/can/might be + past participle)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-17-modal-passive-work).
+
 ![Modal Passive & Work](/blog/curso-b1/unit-17/modal-passive.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** modal passive (must/should/can/might be + past participle)
+**Objetivo:** practicar modal passive (must/should/can/might be + past participle).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. The form ___ be completed. → *must / should / can*
 2. The report ___ be sent today. → *should / must / can*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. Applications must ___ submitted before the deadline. → *be / being / been*
 2. Meetings can ___ held online. → *be / being / been*
 3. The salary might ___ increased next year. → *be / being / been*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *Must to be finished.*
 2. *The form must completed.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** work & jobs
+**Objetivo:** work & jobs.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. deadline → *fecha límite · nube · acento*
 2. colleague → *compañero · dispositivo · mensaje*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. contract ≈ ___ → *contrato / archivo / acento*
 2. promotion ≈ ___ → *ascenso / download / phrase*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-17-modal-passive-work).
-15. Continúa en la [Unidad 17 del curso](/curso-b1/unit-17).
+Completa con una de estas palabras: *deadline* · *colleague* · *interview* · *salary* · *resume*
+
+11. Write a short sentence with **deadline** and the grammar focus (*modal passive (must/should/can/might be + past participle)*).  
+12. Write a short sentence with **colleague**.  
+13. Write a short sentence with **interview**.  
+14. Choose the best word for this idea: «salario» → **salary** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-17-modal-passive-work).  
+15. Practise aloud, then continue in the [Unidad 17 del curso](/curso-b1/unit-17).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-17**
+11. Modelo: usa **deadline** en una frase natural con *modal passive (must/should/can/might be + past participle)*.  
+12. Modelo: usa **colleague** en una frase corta.  
+13. Modelo: usa **interview** en una frase corta.  
+14. **salary** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-17**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Office deadlines
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar modal passive (must/should/can/might be + past participle).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-17/reading-workbook.mp3" title="🔊 Reading: Office deadlines"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > Applications must be submitted before the deadline. The contract should be signed by Friday. Meetings can be held online with colleagues. The salary might be increased next year. Work experience should be included in your resume. The client must be informed about the delay. The interview might be postponed until Monday.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Applications must be ___ → *submitted / deleted / ignored*
-2. Before the ___ → *deadline / weekend / party*
-3. Contract should be ___ → *signed / cancelled / eaten*
-4. Meetings can be ___ online → *held / deleted / uploaded*
-5. Salary might be ___ → *increased / forgotten / translated*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **submitted** · 2. **deadline** · 3. **signed** · 4. **held** · 5. **increased**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Resume should include ___ → *work experience / passwords*
-7. Client must be ___ → *informed / ignored / deleted*
-8. Interview might be ___ → *postponed / uploaded / translated*
-9. Main grammar? → *modal passive / first / third*
-10. Find must be
+1. ___ must be submitted before the deadline.
+2. The ___ should be signed by Friday.
+3. Meetings can be held online with ___.
+4. The salary might be ___ next year.
+5. Work ___ should be included in your resume.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **work experience** · 7. **informed** · 8. **postponed** · 9. **modal passive** · 10. **must be submitted / informed**
+1. **Applications** · 2. **contract** · 3. **colleagues** · 4. **increased** · 5. **experience**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Find should be
-12. Write one can be + V3
-13. Work vocab? → *yes / none*
-14. Must to be? → *False / True*
-15. Course link → */curso-b1/unit-17*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar modal passive (must/should/can/might be + past participle).*
+8. Copia una frase (o trozo) con **must**.
+9. Copia una frase (o trozo) con **should**.
+10. Copia una frase (o trozo) con **might**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **should be signed / included** · 12. **Model OK** · 13. **deadline, contract, resume, client** · 14. **False** · 15. **/curso-b1/unit-17**
+6. Modelo: resume el texto en tus palabras (tema + *practicar modal passive (must/should/can/might be + past participle).*).  
+7. **practicar modal passive (must/should/can/might be + past participle).**  
+8. Copia del texto algo con *must* (ej.: «Applications must be submitted before the deadline.»).  
+9. Copia del texto algo con *should*.  
+10. Copia del texto algo con *might*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar modal passive (must/should/can/might be + past participle).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *The email sent yesterday*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-17](/curso-b1/unit-17)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-17-modal-passive-work) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar modal passive (must/should/can/might be + past participle).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar modal passive (must/should/can/might be + past participle).*).  
+14. **/curso-b1/unit-17**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Omar at work
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar modal passive (must/should/can/might be + past participle).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-17/listening-workbook.mp3" title="🔊 Listening: Omar at work"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Omar. The form must be completed before the interview. The report should be sent today. The meeting can be postponed until Monday. The interview might be cancelled. The contract must be signed by Friday. Applications must be submitted before the deadline.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Omar / Nora / Quinn*
-2. Form must be ___ → *completed / deleted*
-3. Report should be ___ → *sent / ignored*
-4. Meeting can be ___ → *postponed / uploaded*
-5. Interview might be ___ → *cancelled / translated*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: The form must be ___ before the interview.  
+4. Completa: The ___ should be sent today.  
+5. Completa: The meeting can be ___ until Monday.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Omar** · 2. **completed** · 3. **sent today** · 4. **postponed** · 5. **cancelled**
+1. **Omar**  
+2. **Omar**  
+3. **completed**  
+4. **report**  
+5. **postponed**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Contract must be ___ → *signed / sung*
-7. Applications must be ___ → *submitted / deleted*
-8. Grammar? → *modal passive / first*
-9. Find must be
-10. Find should/can/might
+6. Completa: The ___ might be cancelled.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Omar.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **signed by Friday** · 7. **submitted before deadline** · 8. **modal passive** · 9. **must be completed / signed / submitted** · 10. **should be sent / can be postponed / might be cancelled**
+6. **interview**  
+7. **practicar modal passive (must/should/can/might be + past participle).**  
+8. «The form must be completed before the interview.»  
+9. «The report should be sent today.»  
+10. Modelo: Omar habla usando *practicar modal passive (must/should/can/might be + past participle).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write one should be + V3
-12. Work words? → *yes / none*
-13. Shadow audio
-14. Must to be? → *False / True*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar modal passive (must/should/can/might be + past participle).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *The email sent yesterday*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **form, report, interview, contract, deadline** · 13. **done** · 14. **False** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar modal passive (must/should/can/might be + past participle).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-17-modal-passive-work).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *modal passive (must/should/can/might be + past participle)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 4 modal passives (must/should/can/might).
 2. Completa: The form ___ be completed.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: La entrevista podría cancelarse.
 13. Pregunta *Should the report be finished today?* + respuesta.
 14. Escribe 1× might be + V3.
-15. Autochequeo: modal + be + V3.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Model: must/should/can/might be + V3.
-2. **must**
-3. **should**
-4. **be**
-5. It **must be** finished.
-6. The form must **be** completed.
-7. Applications must be submitted before the deadline. Meetings can be held with colleagues online.
-8. OK model.
-9. OK model.
-10. Open hiring paragraph.
-11. The report should be sent today.
-12. The interview might be cancelled.
-13. Should the report be finished today? — Yes, it should.
-14. The interview might be postponed.
-15. Self-check.
+1. Modelo libre correcto con *modal passive (must/should/can/might be + past participle)*.
+2. Completa según la regla de *modal passive (must/should/can/might be + past participle)* (mira la teoría si dudas).
+3. Completa según la regla de *modal passive (must/should/can/might be + past participle)* (mira la teoría si dudas).
+4. Completa según la regla de *modal passive (must/should/can/might be + past participle)* (mira la teoría si dudas).
+5. Corrige: *Must to be finished.* → forma correcta con *modal passive (must/should/can/might be + past participle)*.
+6. Corrige: *The form must completed.* → forma correcta con *modal passive (must/should/can/might be + past participle)*.
+7. Modelo libre correcto con *modal passive (must/should/can/might be + past participle)*.
+8. Modelo libre correcto con *modal passive (must/should/can/might be + past participle)*.
+9. Modelo libre correcto con *modal passive (must/should/can/might be + past participle)*.
+10. Respuesta abierta — revisa que aparezca *modal passive (must/should/can/might be + past participle)*.
+11. Traduce al inglés usando *modal passive (must/should/can/might be + past participle)*.
+12. Traduce al inglés usando *modal passive (must/should/can/might be + past participle)*.
+13. Modelo libre correcto con *modal passive (must/should/can/might be + past participle)*.
+14. Modelo libre correcto con *modal passive (must/should/can/might be + past participle)*.
+15. Autochequeo: ¿puedes explicar *modal passive (must/should/can/might be + past participle)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-17-modal-passive-work).
 
 </details>
 
----
 
 ## Cómo seguir
 

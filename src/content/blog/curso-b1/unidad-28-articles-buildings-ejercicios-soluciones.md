@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 28 del curso B1** (*Articles
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *articles (a/an, the, zero article)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-28-articles-buildings).
+
 ![Articles & Buildings](/blog/curso-b1/unit-28/articles.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** articles (a/an, the, zero article)
+**Objetivo:** practicar articles (a/an, the, zero article).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I went to ___ old church. → *an / a / the*
 2. She works in ___ bank. → *a / an / —*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. There is ___ museum opposite the park. → *a / an / the*
 2. They built ___ office block. → *an / a / the*
 3. Life in ___ city can be stressful. → *the / a / —*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *I went to a old church.*
 2. *We visited a cathedral in Seville.* (única conocida)
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** places: buildings
+**Objetivo:** places: buildings.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. library → *biblioteca · coffee · myself*
 2. hospital → *hospital · salad · dilemma*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. a/an = ___ → *uno no específico / único / institución*
 2. the = ___ → *específico/conocido / nunca / cero*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-28-articles-buildings).
-15. Continúa en la [Unidad 28 del curso](/curso-b1/unit-28).
+Completa con una de estas palabras: *library* · *hospital* · *cathedral* · *stadium* · *museum*
+
+11. Write a short sentence with **library** and the grammar focus (*articles (a/an, the, zero article)*).  
+12. Write a short sentence with **hospital**.  
+13. Write a short sentence with **cathedral**.  
+14. Choose the best word for this idea: «estadio» → **stadium** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-28-articles-buildings).  
+15. Practise aloud, then continue in the [Unidad 28 del curso](/curso-b1/unit-28).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-28**
+11. Modelo: usa **library** en una frase natural con *articles (a/an, the, zero article)*.  
+12. Modelo: usa **hospital** en una frase corta.  
+13. Modelo: usa **cathedral** en una frase corta.  
+14. **stadium** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-28**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Around town
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar articles (a/an, the, zero article).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-28/reading-workbook.mp3" title="🔊 Reading: Around town"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I went to an old church yesterday. She works in a bank in the centre. We visited the cathedral in Seville. There is a museum opposite the park. I go to school by bus and I need an hour to get to the airport.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Went to an ___ church → *old / new only*
-2. Works in a ___ → *bank / salad*
-3. Visited the ___ → *cathedral / coffee*
-4. Museum opposite the ___ → *park / fridge*
-5. Go to ___ by bus → *school / the school*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **old** · 2. **bank** · 3. **cathedral** · 4. **park** · 5. **school**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Need an ___ to the airport → *hour / egg*
-7. Main grammar? → *articles / reflexives*
-8. Find an + vowel
-9. Find the (specific)
-10. Find zero article
+1. I went to an old church ___.
+2. She works in a bank in the ___.
+3. We visited the ___ in Seville.
+4. There is a museum ___ the park.
+5. I go to school by bus and I need an hour to get to the ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **hour** · 7. **articles** · 8. **an old church / an hour** · 9. **the cathedral / the park** · 10. **go to school**
+1. **yesterday** · 2. **centre** · 3. **cathedral** · 4. **opposite** · 5. **airport**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Write a/an/the examples
-12. Buildings vocab? → *yes / none*
-13. a old OK? → *False / True*
-14. Course link → */curso-b1/unit-28*
-15. the for unique building? → *Yes / No*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar articles (a/an, the, zero article).*
+8. Copia una frase (o trozo) con **the main grammar structure**.
+9. Copia una frase (o trozo) con **the main grammar structure**.
+10. Copia una frase (o trozo) con **the main grammar structure**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **church, bank, cathedral, museum, school, airport** · 13. **False (an)** · 14. **/curso-b1/unit-28** · 15. **Yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar articles (a/an, the, zero article).*).  
+7. **practicar articles (a/an, the, zero article).**  
+8. Copia del texto algo con *the main grammar structure* (ej.: «I went to an old church yesterday.»).  
+9. Copia del texto algo con *the main grammar structure*.  
+10. Copia del texto algo con *the main grammar structure*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar articles (a/an, the, zero article).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *We visited cathedral yesterday*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-28](/curso-b1/unit-28)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-28-articles-buildings) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar articles (a/an, the, zero article).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar articles (a/an, the, zero article).*).  
+14. **/curso-b1/unit-28**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Paula in town
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar articles (a/an, the, zero article).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-28/listening-workbook.mp3" title="🔊 Listening: Paula in town"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Paula. I went to an old church yesterday. She works in a bank in the centre. We visited the cathedral in Seville. There is a museum opposite the park. I go to school by bus.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Paula / Omar / Quinn*
-2. An ___ church → *old / new*
-3. Works in a ___ → *bank / café*
-4. Visited the ___ → *cathedral / fridge*
-5. Museum opposite the ___ → *park / school*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I went to an old church ___.  
+4. Completa: She works in a bank in the ___.  
+5. Completa: We visited the ___ in Seville.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Paula** · 2. **old** · 3. **bank** · 4. **cathedral** · 5. **park**
+1. **Paula**  
+2. **Paula**  
+3. **yesterday**  
+4. **centre**  
+5. **cathedral**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Go to school by ___ → *bus / car only*
-7. Grammar? → *articles / reflexives*
-8. Find an
-9. Find a bank / a museum
-10. Find the cathedral
+6. Completa: There is a museum ___ the park.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Paula.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **bus** · 7. **articles** · 8. **an old church** · 9. **a bank / a museum** · 10. **the cathedral**
+6. **opposite**  
+7. **practicar articles (a/an, the, zero article).**  
+8. «I went to an old church yesterday.»  
+9. «She works in a bank in the centre.»  
+10. Modelo: Paula habla usando *practicar articles (a/an, the, zero article).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Find zero article
-12. Buildings words? → *yes / none*
-13. Shadow audio
-14. a hour OK? → *False / True*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar articles (a/an, the, zero article).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *We visited cathedral yesterday*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **go to school** · 12. **church, bank, cathedral, museum, school, park** · 13. **done** · 14. **False (an)** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar articles (a/an, the, zero article).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-28-articles-buildings).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *articles (a/an, the, zero article)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× a/an + 2× the + 1× zero article.
 2. Completa: ___ old church.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Trabaja en un banco.
 13. Explica go to school vs go to the school.
 14. Escribe 1× an + vowel sound.
-15. Autochequeo: sonido vocálico → an; específico → the.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open 2+2+1.
-2. **an**
-3. **a**
-4. **the**
-5. **school**
-6. **an** old church
-7. **an** hour
-8. Is there a library…? They're building a stadium.
-9. OK.
-10. Open dialogue.
-11. We visited the cathedral.
-12. She works in a bank.
-13. school = institution; the school = the building.
-14. an hour / an old church / an office…
-15. Self-check.
+1. Modelo libre correcto con *articles (a/an, the, zero article)*.
+2. Completa según la regla de *articles (a/an, the, zero article)* (mira la teoría si dudas).
+3. Completa según la regla de *articles (a/an, the, zero article)* (mira la teoría si dudas).
+4. Completa según la regla de *articles (a/an, the, zero article)* (mira la teoría si dudas).
+5. Completa según la regla de *articles (a/an, the, zero article)* (mira la teoría si dudas).
+6. Corrige: *a old church* → forma correcta con *articles (a/an, the, zero article)*.
+7. Corrige: *I need a hour.* → forma correcta con *articles (a/an, the, zero article)*.
+8. Modelo libre correcto con *articles (a/an, the, zero article)*.
+9. Modelo libre correcto con *articles (a/an, the, zero article)*.
+10. Respuesta abierta — revisa que aparezca *articles (a/an, the, zero article)*.
+11. Traduce al inglés usando *articles (a/an, the, zero article)*.
+12. Traduce al inglés usando *articles (a/an, the, zero article)*.
+13. Explicación breve en 1 frase (concepto clave de *articles (a/an, the, zero article)*).
+14. Modelo libre correcto con *articles (a/an, the, zero article)*.
+15. Autochequeo: ¿puedes explicar *articles (a/an, the, zero article)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-28-articles-buildings).
 
 </details>
 
----
 
 ## Cómo seguir
 

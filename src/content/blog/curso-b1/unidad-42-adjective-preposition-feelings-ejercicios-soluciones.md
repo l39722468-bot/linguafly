@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 42 del curso B1** (*Adjectiv
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *adjective + preposition (interested in, afraid of, good at…)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-42-adjective-preposition-feelings).
+
 ![Adj + Preposition & Feelings](/blog/curso-b1/unit-42/adj-preposition.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** adjective + preposition (interested in, afraid of, good at…)
+**Objetivo:** practicar adjective + preposition (interested in, afraid of, good at…).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I'm interested ___ learning English. → *in / on / at*
 2. She's afraid ___ spiders. → *of / from / about*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. tired ___ waiting → *of / from / about*
 2. responsible ___ the project → *for / of / to*
 3. different ___ each other → *from / than / of*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *interested on English*
 2. *afraid from spiders*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** feelings & attitudes
+**Objetivo:** feelings & attitudes.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. excited → *emocionado · depend · during*
 2. keen → *entusiasta · listen · for*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. interested in → ___ → *feeling + topic / verb prep / duration*
 2. afraid of → ___ → *fear + cause / good at / for years*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-42-adjective-preposition-feelings).
-15. Continúa en la [Unidad 42 del curso](/curso-b1/unit-42).
+Completa con una de estas palabras: *excited* · *keen* · *sorry* · *famous* · *attitude*
+
+11. Write a short sentence with **excited** and the grammar focus (*adjective + preposition (interested in, afraid of, good at…)*).  
+12. Write a short sentence with **keen**.  
+13. Write a short sentence with **sorry**.  
+14. Choose the best word for this idea: «famoso» → **famous** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-42-adjective-preposition-feelings).  
+15. Practise aloud, then continue in the [Unidad 42 del curso](/curso-b1/unit-42).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-42**
+11. Modelo: usa **excited** en una frase natural con *adjective + preposition (interested in, afraid of, good at…)*.  
+12. Modelo: usa **keen** en una frase corta.  
+13. Modelo: usa **sorry** en una frase corta.  
+14. **famous** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-42**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Feelings in context
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar adjective + preposition (interested in, afraid of, good at…).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-42/reading-workbook.mp3" title="🔊 Reading: Feelings in context"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I'm interested in learning English. She's afraid of spiders. He's good at maths. I'm proud of my son. I'm worried about the exam.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Interested ___ English? → *in / on*
-2. Afraid ___ spiders? → *of / from*
-3. Good ___ maths? → *at / in*
-4. Proud ___ son? → *of / for*
-5. Worried ___ exam? → *about / of*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **in** · 2. **of** · 3. **at** · 4. **of** · 5. **about**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *adj prep / verb prep*
-7. Find interested in
-8. Find afraid of
-9. Find good at
-10. Write interested in…
+1. I'm ___ in learning English.
+2. She's afraid of ___.
+3. He's good at ___.
+4. I'm ___ of my son.
+5. I'm ___ about the exam.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **adj + preposition** · 7. **interested in learning** · 8. **afraid of spiders** · 9. **good at maths** · 10. **Model OK**
+1. **interested** · 2. **spiders** · 3. **maths** · 4. **proud** · 5. **worried**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Feelings vocab? → *yes / none*
-12. interested on OK? → *False / True*
-13. Course → */curso-b1/unit-42*
-14. good in maths? → *False / True*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar adjective + preposition (interested in, afraid of, good at…).*
+8. Copia una frase (o trozo) con **interested**.
+9. Copia una frase (o trozo) con **afraid**.
+10. Copia una frase (o trozo) con **good**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **excited, keen, sorry, famous** · 12. **False** · 13. **/curso-b1/unit-42** · 14. **False** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar adjective + preposition (interested in, afraid of, good at…).*).  
+7. **practicar adjective + preposition (interested in, afraid of, good at…).**  
+8. Copia del texto algo con *interested* (ej.: «I'm interested in learning English.»).  
+9. Copia del texto algo con *afraid*.  
+10. Copia del texto algo con *good*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar adjective + preposition (interested in, afraid of, good at…).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *interested on English*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-42](/curso-b1/unit-42)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-42-adjective-preposition-feelings) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar adjective + preposition (interested in, afraid of, good at…).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar adjective + preposition (interested in, afraid of, good at…).*).  
+14. **/curso-b1/unit-42**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Beth on feelings
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar adjective + preposition (interested in, afraid of, good at…).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-42/listening-workbook.mp3" title="🔊 Listening: Beth on feelings"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Beth. I'm interested in learning English. She's afraid of spiders. He's good at maths. I'm proud of my son. I'm worried about the exam.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Beth / Alex / Chris*
-2. Interested ___ English → *in / on*
-3. Afraid ___ spiders → *of / from*
-4. Good ___ maths → *at / in*
-5. Proud ___ son → *of / for*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I'm ___ in learning English.  
+4. Completa: She's afraid of ___.  
+5. Completa: He's good at ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Beth** · 2. **in** · 3. **of** · 4. **at** · 5. **of**
+1. **Beth**  
+2. **Beth**  
+3. **interested**  
+4. **spiders**  
+5. **maths**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Worried ___ exam → *about / of*
-7. Grammar? → *adj prep / verb prep*
-8. Find interested in
-9. Find afraid of
-10. Write good at…
+6. Completa: I'm ___ of my son.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Beth.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **about** · 7. **adj prep** · 8. **interested in learning** · 9. **afraid of spiders** · 10. **Model OK**
+6. **proud**  
+7. **practicar adjective + preposition (interested in, afraid of, good at…).**  
+8. «I'm interested in learning English.»  
+9. «She's afraid of spiders.»  
+10. Modelo: Beth habla usando *practicar adjective + preposition (interested in, afraid of, good at…).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Feelings words? → *yes / none*
-12. Shadow
-13. interested on? → *False / True*
-14. Course → */curso-b1/unit-42*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar adjective + preposition (interested in, afraid of, good at…).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *interested on English*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **excited, keen, sorry** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-42** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar adjective + preposition (interested in, afraid of, good at…).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-42-adjective-preposition-feelings).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *adjective + preposition (interested in, afraid of, good at…)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 3× adj + preposition (interested in, afraid of, good at).
 2. Completa: interested ___ English.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Estoy orgulloso de mi hijo.
 13. Explica interested in vs good at en 1 frase.
 14. Escribe 1× responsible for.
-15. Autochequeo: bloque adj+prep completo.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open three.
-2. **in**
-3. **of**
-4. **at**
-5. **of**
-6. interested **in**
-7. good **at**
-8. Open.
-9. OK.
-10. Open.
-11. I'm interested in learning English.
-12. I'm proud of my son.
-13. in=topic; at=skill.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *adjective + preposition (interested in, afraid of, good at…)*.
+2. Completa según la regla de *adjective + preposition (interested in, afraid of, good at…)* (mira la teoría si dudas).
+3. Completa según la regla de *adjective + preposition (interested in, afraid of, good at…)* (mira la teoría si dudas).
+4. Completa según la regla de *adjective + preposition (interested in, afraid of, good at…)* (mira la teoría si dudas).
+5. Completa según la regla de *adjective + preposition (interested in, afraid of, good at…)* (mira la teoría si dudas).
+6. Corrige: *interested on English* → forma correcta con *adjective + preposition (interested in, afraid of, good at…)*.
+7. Corrige: *good in maths* → forma correcta con *adjective + preposition (interested in, afraid of, good at…)*.
+8. Modelo libre correcto con *adjective + preposition (interested in, afraid of, good at…)*.
+9. Modelo libre correcto con *adjective + preposition (interested in, afraid of, good at…)*.
+10. Respuesta abierta — revisa que aparezca *adjective + preposition (interested in, afraid of, good at…)*.
+11. Traduce al inglés usando *adjective + preposition (interested in, afraid of, good at…)*.
+12. Traduce al inglés usando *adjective + preposition (interested in, afraid of, good at…)*.
+13. Explicación breve en 1 frase (concepto clave de *adjective + preposition (interested in, afraid of, good at…)*).
+14. Modelo libre correcto con *adjective + preposition (interested in, afraid of, good at…)*.
+15. Autochequeo: ¿puedes explicar *adjective + preposition (interested in, afraid of, good at…)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-42-adjective-preposition-feelings).
 
 </details>
 
----
 
 ## Cómo seguir
 

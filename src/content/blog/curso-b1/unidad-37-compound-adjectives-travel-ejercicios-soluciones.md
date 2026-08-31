@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 37 del curso B1** (*Compound
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *compound adjectives (two-day, 20-year-old…)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-37-compound-adjectives-travel).
+
 ![Compound Adjectives & Travel](/blog/curso-b1/unit-37/compound-adjectives.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** compound adjectives (two-day, 20-year-old…)
+**Objetivo:** practicar compound adjectives (two-day, 20-year-old…).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. a ___ trip (2 days) → *two-day / two-days / two day*
 2. a ___ student (20 years) → *20-year-old / 20-years-old / 20 year old*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. Compound before noun needs ___ → *hyphen / plural / comma*
 2. a five-star hotel (not ___) → *five-stars / five-star / five star*
 3. number + noun in compound → ___ form → *singular / plural / verb*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *a two-days trip*
 2. *a 20-years-old student*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** travel & descriptions
+**Objetivo:** travel & descriptions.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. luggage → *equipaje · extremely · although*
 2. delay → *retraso · incredibly · however*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. flight ≈ ___ → *vuelo / opinión / intensidad*
 2. journey ≈ ___ → *viaje / causa / contraste*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-37-compound-adjectives-travel).
-15. Continúa en la [Unidad 37 del curso](/curso-b1/unit-37).
+Completa con una de estas palabras: *luggage* · *delay* · *destination* · *passport* · *scenic*
+
+11. Write a short sentence with **luggage** and the grammar focus (*compound adjectives (two-day, 20-year-old…)*).  
+12. Write a short sentence with **delay**.  
+13. Write a short sentence with **destination**.  
+14. Choose the best word for this idea: «pasaporte» → **passport** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-37-compound-adjectives-travel).  
+15. Practise aloud, then continue in the [Unidad 37 del curso](/curso-b1/unit-37).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-37**
+11. Modelo: usa **luggage** en una frase natural con *compound adjectives (two-day, 20-year-old…)*.  
+12. Modelo: usa **delay** en una frase corta.  
+13. Modelo: usa **destination** en una frase corta.  
+14. **passport** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-37**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Two-day trip
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar compound adjectives (two-day, 20-year-old…).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-37/reading-workbook.mp3" title="🔊 Reading: Two-day trip"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > We booked a two-day trip. She's a 20-year-old student. We stayed in a well-known hotel. It was a long-distance flight. He's an open-minded traveller.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Trip length? → *two days / two-day*
-2. Student age? → *20-year-old / 20-years*
-3. Hotel type? → *well-known / well known*
-4. Flight type? → *long-distance / long distance*
-5. Traveller type? → *open-minded / open minded*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **two days** · 2. **20-year-old** · 3. **well-known** · 4. **long-distance** · 5. **open-minded**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *compounds / contrast*
-7. Find two-day
-8. Find 20-year-old
-9. Find well-known
-10. Write compound…
+1. We ___ a two-day trip.
+2. She's a 20-year-old ___.
+3. We ___ in a well-known hotel.
+4. It was a long-___ flight.
+5. He's an open-minded ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **compound adjectives** · 7. **two-day trip** · 8. **20-year-old student** · 9. **well-known hotel** · 10. **Model OK**
+1. **booked** · 2. **student** · 3. **stayed** · 4. **distance** · 5. **traveller**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Travel vocab? → *yes / none*
-12. five-stars OK? → *False / True*
-13. Course → */curso-b1/unit-37*
-14. Hyphen needed? → *Yes / No*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar compound adjectives (two-day, 20-year-old…).*
+8. Copia una frase (o trozo) con **year**.
+9. Copia una frase (o trozo) con **year**.
+10. Copia una frase (o trozo) con **year**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **luggage, delay, destination, passport** · 12. **False** · 13. **/curso-b1/unit-37** · 14. **Yes before noun** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar compound adjectives (two-day, 20-year-old…).*).  
+7. **practicar compound adjectives (two-day, 20-year-old…).**  
+8. Copia del texto algo con *year* (ej.: «We booked a two-day trip.»).  
+9. Copia del texto algo con *year*.  
+10. Copia del texto algo con *year*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar compound adjectives (two-day, 20-year-old…).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar compound adjectives (two-day, 20-year-old…).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-37](/curso-b1/unit-37)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-37-compound-adjectives-travel) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar compound adjectives (two-day, 20-year-old…).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar compound adjectives (two-day, 20-year-old…).*).  
+14. **/curso-b1/unit-37**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Ben on travel
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar compound adjectives (two-day, 20-year-old…).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-37/listening-workbook.mp3" title="🔊 Listening: Ben on travel"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Ben. We booked a two-day trip. She's a 20-year-old student. We stayed in a well-known hotel. It was a long-distance flight. He's an open-minded traveller.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Ben / Amy / Carl*
-2. Trip? → *two-day / two-days*
-3. Student? → *20-year-old / 20-years*
-4. Hotel? → *well-known / well known*
-5. Flight? → *long-distance / long distance*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: We ___ a two-day trip.  
+4. Completa: She's a 20-year-old ___.  
+5. Completa: We ___ in a well-known hotel.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Ben** · 2. **two-day** · 3. **20-year-old** · 4. **well-known** · 5. **long-distance**
+1. **Ben**  
+2. **Ben**  
+3. **booked**  
+4. **student**  
+5. **stayed**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Traveller? → *open-minded / open minded*
-7. Grammar? → *compounds / contrast*
-8. Find two-day
-9. Find well-known
-10. Write compound…
+6. Completa: It was a long-___ flight.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Ben.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **open-minded** · 7. **compounds** · 8. **two-day trip** · 9. **well-known hotel** · 10. **Model OK**
+6. **distance**  
+7. **practicar compound adjectives (two-day, 20-year-old…).**  
+8. «We booked a two-day trip.»  
+9. «She's a 20-year-old student.»  
+10. Modelo: Ben habla usando *practicar compound adjectives (two-day, 20-year-old…).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Travel words? → *yes / none*
-12. Shadow
-13. five-stars? → *False / True*
-14. Course → */curso-b1/unit-37*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar compound adjectives (two-day, 20-year-old…).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar compound adjectives (two-day, 20-year-old…).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **luggage, delay, flight** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-37** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar compound adjectives (two-day, 20-year-old…).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-37-compound-adjectives-travel).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *compound adjectives (two-day, 20-year-old…)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 3 compound adjectives con guion.
 2. Completa: a ___ trip (2 days).
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: un hotel muy conocido.
 13. Explica guion + singular en 1 frase.
 14. Escribe 1× five-star hotel.
-15. Autochequeo: hyphen before noun; singular.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open three.
-2. **two-day**
-3. **20-year-old**
-4. **well-known**
-5. **long-distance**
-6. **two-day**
-7. **well-known**
-8. Open.
-9. OK.
-10. Open.
-11. a two-day trip.
-12. a well-known hotel.
-13. hyphen + singular.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *compound adjectives (two-day, 20-year-old…)*.
+2. Completa según la regla de *compound adjectives (two-day, 20-year-old…)* (mira la teoría si dudas).
+3. Completa según la regla de *compound adjectives (two-day, 20-year-old…)* (mira la teoría si dudas).
+4. Completa según la regla de *compound adjectives (two-day, 20-year-old…)* (mira la teoría si dudas).
+5. Completa según la regla de *compound adjectives (two-day, 20-year-old…)* (mira la teoría si dudas).
+6. Corrige: *two-days trip* → forma correcta con *compound adjectives (two-day, 20-year-old…)*.
+7. Corrige: *well known hotel* → forma correcta con *compound adjectives (two-day, 20-year-old…)*.
+8. Modelo libre correcto con *compound adjectives (two-day, 20-year-old…)*.
+9. Modelo libre correcto con *compound adjectives (two-day, 20-year-old…)*.
+10. Respuesta abierta — revisa que aparezca *compound adjectives (two-day, 20-year-old…)*.
+11. Traduce al inglés usando *compound adjectives (two-day, 20-year-old…)*.
+12. Traduce al inglés usando *compound adjectives (two-day, 20-year-old…)*.
+13. Explicación breve en 1 frase (concepto clave de *compound adjectives (two-day, 20-year-old…)*).
+14. Modelo libre correcto con *compound adjectives (two-day, 20-year-old…)*.
+15. Autochequeo: ¿puedes explicar *compound adjectives (two-day, 20-year-old…)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-37-compound-adjectives-travel).
 
 </details>
 
----
 
 ## Cómo seguir
 

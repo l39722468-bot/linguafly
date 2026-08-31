@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 24 del curso B1** (*Phrasal 
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-24-phrasal-verbs-shopping).
+
 ![Phrasal Verbs 2 & Shopping](/blog/curso-b1/unit-24/phrasals-2.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** phrasal verbs 2 (find out, give up, look into, fill in, hand in)
+**Objetivo:** practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I need to find ___ the opening times. → *out / up / in*
 2. Don't give ___. → *up / out / in*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. She ___ out the price yesterday. → *found / gave / filled*
 2. He ___ up smoking last year. → *gave / found / handed*
 3. They ___ into my request. → *looked / filled / handed*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *Find the opening times out the.*
 2. *Don't give the up.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** shopping
+**Objetivo:** shopping.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. receipt → *recibo · hiking · nevera*
 2. discount → *descuento · camping · lavadora*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. find out ≈ ___ → *averiguar / apagar / ponerse*
 2. give up ≈ ___ → *rendirse / cuidar / calmarse*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-24-phrasal-verbs-shopping).
-15. Continúa en la [Unidad 24 del curso](/curso-b1/unit-24).
+Completa con una de estas palabras: *receipt* · *discount* · *refund* · *checkout* · *bargain*
+
+11. Write a short sentence with **receipt** and the grammar focus (*phrasal verbs 2 (find out, give up, look into, fill in, hand in)*).  
+12. Write a short sentence with **discount**.  
+13. Write a short sentence with **refund**.  
+14. Choose the best word for this idea: «caja» → **checkout** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-24-phrasal-verbs-shopping).  
+15. Practise aloud, then continue in the [Unidad 24 del curso](/curso-b1/unit-24).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-24**
+11. Modelo: usa **receipt** en una frase natural con *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.  
+12. Modelo: usa **discount** en una frase corta.  
+13. Modelo: usa **refund** en una frase corta.  
+14. **checkout** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-24**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: At the shop
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-24/reading-workbook.mp3" title="🔊 Reading: At the shop"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I found out the shop opens at nine. Don't give up if your size is missing — ask the cashier. They looked into my refund request. Please fill in the form and hand in your receipt at the checkout. There's a discount this week.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Found out shop opens at ___ → *nine / midnight*
-2. Don't give up if size is ___ → *missing / perfect*
-3. Ask the ___ → *cashier / neighbour*
-4. Looked into ___ → *refund / hiking*
-5. Fill in the ___ → *form / sofa*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **nine** · 2. **missing** · 3. **cashier** · 4. **refund request** · 5. **form**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Hand in ___ at checkout → *receipt / dog*
-7. There's a ___ this week → *discount / storm*
-8. Main grammar? → *phrasals 2 / passive*
-9. Find find out
-10. Find give up
+1. I ___ out the shop opens at nine.
+2. Don't give up if your size is ___ — ask the cashier.
+3. They looked into my refund ___.
+4. Please fill in the form and hand in your receipt at the ___.
+5. There's a ___ this week.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **receipt** · 7. **discount** · 8. **phrasals 2** · 9. **found out the shop opens** · 10. **Don't give up**
+1. **found** · 2. **missing** · 3. **request** · 4. **checkout** · 5. **discount**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Find fill in / hand in
-12. Write find out…
-13. Shopping vocab? → *yes / none*
-14. find = find out? → *False / True*
-15. Course link → */curso-b1/unit-24*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).*
+8. Copia una frase (o trozo) con **give**.
+9. Copia una frase (o trozo) con **look**.
+10. Copia una frase (o trozo) con **into**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **fill in the form / hand in your receipt** · 12. **Model OK** · 13. **shop, size, cashier, refund, form, receipt, checkout, discount** · 14. **False** · 15. **/curso-b1/unit-24**
+6. Modelo: resume el texto en tus palabras (tema + *practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).*).  
+7. **practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).**  
+8. Copia del texto algo con *give* (ej.: «I found out the shop opens at nine.»).  
+9. Copia del texto algo con *look*.  
+10. Copia del texto algo con *into*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *Turn off it*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-24](/curso-b1/unit-24)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-24-phrasal-verbs-shopping) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).*).  
+14. **/curso-b1/unit-24**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Diego shopping
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-24/listening-workbook.mp3" title="🔊 Listening: Diego shopping"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Diego. I need to find out the opening times. Don't give up. We will look into the refund. Please fill in this form. Hand in your receipt at the checkout.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Diego / Carla / Sara*
-2. Find out ___ → *opening times / weather*
-3. Don't ___ → *give up / turn off*
-4. Look into ___ → *refund / hiking*
-5. Fill in ___ → *form / sofa*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I need to find out the ___ times.  
+4. Completa: Don't ___ up.  
+5. Completa: We will look into the ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Diego** · 2. **opening times** · 3. **give up** · 4. **the refund** · 5. **this form**
+1. **Diego**  
+2. **Diego**  
+3. **opening**  
+4. **give**  
+5. **refund**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Hand in ___ → *receipt / bag*
-7. Grammar? → *phrasals 2 / passive*
-8. Find find out
-9. Find fill in / hand in
-10. Write don't give up…
+6. Completa: ___ fill in this form.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Diego.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **receipt at checkout** · 7. **phrasals 2** · 8. **find out the opening times** · 9. **fill in form / hand in receipt** · 10. **Model OK**
+6. **Please**  
+7. **practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).**  
+8. «I need to find out the opening times.»  
+9. «Don't give up.»  
+10. Modelo: Diego habla usando *practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Shopping words? → *yes / none*
-12. Shadow audio
-13. find = find out? → *False / True*
-14. Open Ver solución → *yes*
-15. look into = investigate? → *Yes / No*
+11. Escribe una frase nueva con *practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *Turn off it*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **opening times, refund, form, receipt, checkout** · 12. **done** · 13. **False** · 14. **yes** · 15. **Yes**
+11. Modelo: crea una frase natural con *practicar phrasal verbs 2 (find out, give up, look into, fill in, hand in).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-24-phrasal-verbs-shopping).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe find out, give up, look into, fill in, hand in.
 2. Completa: Find ___ the opening times.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: No te rindas.
 13. Traduce: Rellena el formulario y entrega el recibo.
 14. Escribe 1× look into…
-15. Autochequeo: out/up/into/in.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open five sentences.
-2. **out**
-3. **up**
-4. **into**
-5. **in**
-6. **in**
-7. **Fill in** the form.
-8. **Find out** the times.
-9. I found out there's a discount. They looked into my refund.
-10. Open dialogue.
-11. Find out the opening times.
-12. Don't give up.
-13. Fill in the form and hand in the receipt.
-14. We'll look into the problem.
-15. Self-check.
+1. Modelo libre correcto con *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.
+2. Completa según la regla de *phrasal verbs 2 (find out, give up, look into, fill in, hand in)* (mira la teoría si dudas).
+3. Completa según la regla de *phrasal verbs 2 (find out, give up, look into, fill in, hand in)* (mira la teoría si dudas).
+4. Completa según la regla de *phrasal verbs 2 (find out, give up, look into, fill in, hand in)* (mira la teoría si dudas).
+5. Completa según la regla de *phrasal verbs 2 (find out, give up, look into, fill in, hand in)* (mira la teoría si dudas).
+6. Completa según la regla de *phrasal verbs 2 (find out, give up, look into, fill in, hand in)* (mira la teoría si dudas).
+7. Corrige: *Fill the form.* → forma correcta con *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.
+8. Corrige: *Find the times.* → forma correcta con *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.
+9. Modelo libre correcto con *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.
+10. Respuesta abierta — revisa que aparezca *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.
+11. Traduce al inglés usando *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.
+12. Traduce al inglés usando *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.
+13. Traduce al inglés usando *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.
+14. Modelo libre correcto con *phrasal verbs 2 (find out, give up, look into, fill in, hand in)*.
+15. Autochequeo: ¿puedes explicar *phrasal verbs 2 (find out, give up, look into, fill in, hand in)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-24-phrasal-verbs-shopping).
 
 </details>
 
----
 
 ## Cómo seguir
 

@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 39 del curso B1** (*Purpose 
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *to/so that/because of + explaining*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-39-purpose-reason-explaining).
+
 ![Purpose & Reason](/blog/curso-b1/unit-39/purpose-reason.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** to/so that/because of + explaining
+**Objetivo:** practicar to/so that/because of + explaining.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I study English ___ travel more. → *to / so that / because of*
 2. We left early ___ avoid traffic. → *in order to / because of / so that*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. to / in order to + ___ → *infinitive / clause / noun*
 2. so that + ___ → *clause (subject+verb) / infinitive / noun*
 3. because + ___ → *clause / noun / infinitive*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *I study to that I travel.*
 2. *We left early to we avoid traffic.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** explaining
+**Objetivo:** explaining.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. purpose → *propósito · agree · so*
 2. cause → *causa · disagree · such*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. reason ≈ ___ → *razón / retraso / guion*
 2. result ≈ ___ → *resultado / equipaje / intensidad*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-39-purpose-reason-explaining).
-15. Continúa en la [Unidad 39 del curso](/curso-b1/unit-39).
+Completa con una de estas palabras: *purpose* · *cause* · *explain* · *goal* · *therefore*
+
+11. Write a short sentence with **purpose** and the grammar focus (*to/so that/because of + explaining*).  
+12. Write a short sentence with **cause**.  
+13. Write a short sentence with **explain**.  
+14. Choose the best word for this idea: «objetivo» → **goal** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-39-purpose-reason-explaining).  
+15. Practise aloud, then continue in the [Unidad 39 del curso](/curso-b1/unit-39).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-39**
+11. Modelo: usa **purpose** en una frase natural con *to/so that/because of + explaining*.  
+12. Modelo: usa **cause** en una frase corta.  
+13. Modelo: usa **explain** en una frase corta.  
+14. **goal** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-39**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Why we left early
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar to/so that/because of + explaining.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-39/reading-workbook.mp3" title="🔊 Reading: Why we left early"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I study English to travel more. We left early in order to avoid traffic. I called so that you wouldn't worry. We stayed inside because of the storm. The delay was due to the weather.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Study English why? → *to travel / because of*
-2. Left early why? → *avoid traffic / the storm*
-3. Called why? → *so that / because of*
-4. Stayed inside why? → *storm / although*
-5. Delay due to? → *weather / however*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **to travel** · 2. **avoid traffic** · 3. **so that you wouldn't worry** · 4. **because of the storm** · 5. **the weather**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *purpose / contrast*
-7. Find to + inf
-8. Find in order to
-9. Find so that
-10. Write because of…
+1. I study ___ to travel more.
+2. We left early in order to avoid ___.
+3. I called so that you ___ worry.
+4. We stayed inside ___ of the storm.
+5. The delay was due to the ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **purpose/reason** · 7. **to travel more** · 8. **in order to avoid** · 9. **so that you wouldn't** · 10. **Model OK**
+1. **English** · 2. **traffic** · 3. **wouldn't** · 4. **because** · 5. **weather**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Explaining vocab? → *yes / none*
-12. because of + clause? → *False / True*
-13. Course → */curso-b1/unit-39*
-14. so that + infinitive? → *No / Yes*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar to/so that/because of + explaining.*
+8. Copia una frase (o trozo) con **that**.
+9. Copia una frase (o trozo) con **because**.
+10. Copia una frase (o trozo) con **because**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **purpose, cause, explain** · 12. **False** · 13. **/curso-b1/unit-39** · 14. **No (clause)** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar to/so that/because of + explaining.*).  
+7. **practicar to/so that/because of + explaining.**  
+8. Copia del texto algo con *that* (ej.: «I study English to travel more.»).  
+9. Copia del texto algo con *because*.  
+10. Copia del texto algo con *because*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar to/so that/because of + explaining.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar to/so that/because of + explaining.*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-39](/curso-b1/unit-39)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-39-purpose-reason-explaining) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar to/so that/because of + explaining.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar to/so that/because of + explaining.*).  
+14. **/curso-b1/unit-39**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Dana explaining
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar to/so that/because of + explaining.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-39/listening-workbook.mp3" title="🔊 Listening: Dana explaining"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Dana. I study English to travel more. We left early in order to avoid traffic. I called so that you wouldn't worry. We stayed inside because of the storm. The delay was due to the weather.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Dana / Eva / Amy*
-2. Study to? → *travel / delay*
-3. Left early to? → *avoid traffic / rain*
-4. Called so that? → *worry / disagree*
-5. Stayed because of? → *storm / compound*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I study ___ to travel more.  
+4. Completa: We left early in order to avoid ___.  
+5. Completa: I called so that you ___ worry.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Dana** · 2. **travel more** · 3. **avoid traffic** · 4. **you wouldn't worry** · 5. **the storm**
+1. **Dana**  
+2. **Dana**  
+3. **English**  
+4. **traffic**  
+5. **wouldn't**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Delay due to? → *weather / opinion*
-7. Grammar? → *purpose / contrast*
-8. Find to travel
-9. Find in order to
-10. Write so that…
+6. Completa: We stayed inside ___ of the storm.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Dana.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **the weather** · 7. **purpose/reason** · 8. **to travel more** · 9. **in order to avoid** · 10. **Model OK**
+6. **because**  
+7. **practicar to/so that/because of + explaining.**  
+8. «I study English to travel more.»  
+9. «We left early in order to avoid traffic.»  
+10. Modelo: Dana habla usando *practicar to/so that/because of + explaining.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Explaining? → *yes / none*
-12. Shadow
-13. because of + clause? → *False / True*
-14. Course → */curso-b1/unit-39*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar to/so that/because of + explaining.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar to/so that/because of + explaining.*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **purpose, cause** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-39** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar to/so that/because of + explaining.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-39-purpose-reason-explaining).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *to/so that/because of + explaining*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× to + 1× so that + 1× because of.
 2. Completa: I study English ___ travel.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Por la tormenta.
 13. Explica to vs so that en 1 frase.
 14. Escribe 1× in order to.
-15. Autochequeo: clause→because/so that; noun→because of.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open four.
-2. **to**
-3. **in order to / to**
-4. **so that**
-5. **because of / due to**
-6. **so that**
-7. **because of** the storm
-8. Open.
-9. OK.
-10. Open.
-11. I study English to travel.
-12. because of the storm.
-13. to+inf; so that+clause.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *to/so that/because of + explaining*.
+2. Completa según la regla de *to/so that/because of + explaining* (mira la teoría si dudas).
+3. Completa según la regla de *to/so that/because of + explaining* (mira la teoría si dudas).
+4. Completa según la regla de *to/so that/because of + explaining* (mira la teoría si dudas).
+5. Completa según la regla de *to/so that/because of + explaining* (mira la teoría si dudas).
+6. Corrige: *I called to you wouldn't worry.* → forma correcta con *to/so that/because of + explaining*.
+7. Corrige: *because the storm* → forma correcta con *to/so that/because of + explaining*.
+8. Modelo libre correcto con *to/so that/because of + explaining*.
+9. Modelo libre correcto con *to/so that/because of + explaining*.
+10. Respuesta abierta — revisa que aparezca *to/so that/because of + explaining*.
+11. Traduce al inglés usando *to/so that/because of + explaining*.
+12. Traduce al inglés usando *to/so that/because of + explaining*.
+13. Explicación breve en 1 frase (concepto clave de *to/so that/because of + explaining*).
+14. Modelo libre correcto con *to/so that/because of + explaining*.
+15. Autochequeo: ¿puedes explicar *to/so that/because of + explaining* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-39-purpose-reason-explaining).
 
 </details>
 
----
 
 ## Cómo seguir
 

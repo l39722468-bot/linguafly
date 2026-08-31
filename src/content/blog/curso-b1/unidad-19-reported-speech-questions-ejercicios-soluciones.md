@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 19 del curso B1** (*Reported
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *reported questions (asked if/wh-) and commands (told to / not to)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-19-reported-speech-questions).
+
 ![Reported Questions & Commands](/blog/curso-b1/unit-19/reported-questions.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** reported questions (asked if/wh-) and commands (told to / not to)
+**Objetivo:** practicar reported questions (asked if/wh-) and commands (told to / not to).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. "Are you ready?" → She asked ___ I was ready. → *if / where / to*
 2. "Where do you live?" → He asked where I ___. → *lived / live / living*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. They told us ___ translate the paragraph. → *to / if / not*
 2. She asked ___ we had practised. → *if / to / where*
 3. The tutor asked ___ we understood. → *whether / to / not to*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *He asked where did I live.*
 2. *She asked if was I ready.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** language learning
+**Objetivo:** language learning.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. translate → *traducir · adjuntar · instalar*
 2. pronounce → *pronunciar · firmar · reenviar*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. vocabulary ≈ ___ → *vocabulario / password / client*
 2. accent ≈ ___ → *acento / inbox / promotion*
@@ -151,143 +164,178 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-19-reported-speech-questions).
-15. Continúa en la [Unidad 19 del curso](/curso-b1/unit-19).
+Completa con una de estas palabras: *translate* · *pronounce* · *grammar* · *fluent* · *mistake*
+
+11. Write a short sentence with **translate** and the grammar focus (*reported questions (asked if/wh-) and commands (told to / not to)*).  
+12. Write a short sentence with **pronounce**.  
+13. Write a short sentence with **grammar**.  
+14. Choose the best word for this idea: «fluido» → **fluent** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-19-reported-speech-questions).  
+15. Practise aloud, then continue in the [Unidad 19 del curso](/curso-b1/unit-19).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-19**
+11. Modelo: usa **translate** en una frase natural con *reported questions (asked if/wh-) and commands (told to / not to)*.  
+12. Modelo: usa **pronounce** en una frase corta.  
+13. Modelo: usa **grammar** en una frase corta.  
+14. **fluent** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-19**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: In the language class
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar reported questions (asked if/wh-) and commands (told to / not to).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-19/reading-workbook.mp3" title="🔊 Reading: In the language class"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > The teacher asked if we had practised at home. She told us to translate the paragraph. He asked how we pronounce that word. They told us not to worry about mistakes. The tutor asked whether we understood the grammar. She asked where we studied English.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Teacher asked if we had ___ → *practised / uploaded / signed*
-2. Told us to ___ → *translate / delete*
-3. Asked how we ___ → *pronounce / manufacture*
-4. Told us not to ___ → *worry / reply*
-5. Asked whether we ___ → *understood / uploaded*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **practised** · 2. **translate the paragraph** · 3. **pronounce that word** · 4. **worry about mistakes** · 5. **understood the grammar**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Asked where we ___ → *studied / repaired*
-7. Yes/no reported with ___ → *if/whether / to / by*
-8. Commands use ___ → *to/not to / will / was*
-9. Main grammar? → *questions/commands / first*
-10. Find asked if
+1. The teacher asked if we had ___ at home.
+2. She told us to ___ the paragraph.
+3. He asked how we ___ that word.
+4. They told us not to worry about ___.
+5. The tutor asked whether we ___ the grammar.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **studied English** · 7. **if/whether** · 8. **to / not to** · 9. **questions & commands** · 10. **asked if we had practised**
+1. **practised** · 2. **translate** · 3. **pronounce** · 4. **mistakes** · 5. **understood**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Find told to
-12. Write one told not to…
-13. Lang vocab? → *yes / none*
-14. Where did I live in reported? → *False / True*
-15. Course link → */curso-b1/unit-19*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar reported questions (asked if/wh-) and commands (told to / not to).*
+8. Copia una frase (o trozo) con **asked**.
+9. Copia una frase (o trozo) con **told**.
+10. Copia una frase (o trozo) con **told**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **told us to translate** · 12. **Model OK** · 13. **translate, pronounce, grammar, mistakes** · 14. **False (where I lived)** · 15. **/curso-b1/unit-19**
+6. Modelo: resume el texto en tus palabras (tema + *practicar reported questions (asked if/wh-) and commands (told to / not to).*).  
+7. **practicar reported questions (asked if/wh-) and commands (told to / not to).**  
+8. Copia del texto algo con *asked* (ej.: «The teacher asked if we had practised at home.»).  
+9. Copia del texto algo con *told*.  
+10. Copia del texto algo con *told*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar reported questions (asked if/wh-) and commands (told to / not to).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *She said me she was busy*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-19](/curso-b1/unit-19)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-19-reported-speech-questions) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar reported questions (asked if/wh-) and commands (told to / not to).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar reported questions (asked if/wh-) and commands (told to / not to).*).  
+14. **/curso-b1/unit-19**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Quinn's class
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar reported questions (asked if/wh-) and commands (told to / not to).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-19/listening-workbook.mp3" title="🔊 Listening: Quinn's class"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Quinn. He asked where I lived. She asked if I was ready for the test. The teacher told me to open the file. He told me not to be late. She asked how we pronounce that word. They told us to translate the paragraph.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Quinn / Pia / Nora*
-2. Asked where I ___ → *lived / live*
-3. Asked if I was ___ → *ready / angry*
-4. Told me to ___ → *open / delete*
-5. Told me not to ___ → *be late / reply*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: He ___ where I lived.  
+4. Completa: She asked if I was ___ for the test.  
+5. Completa: The ___ told me to open the file.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Quinn** · 2. **lived** · 3. **ready for the test** · 4. **open the file** · 5. **be late**
+1. **Quinn**  
+2. **Quinn**  
+3. **asked**  
+4. **ready**  
+5. **teacher**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Asked how we ___ → *pronounce / manufacture*
-7. Told us to ___ → *translate / cancel*
-8. Grammar? → *questions/commands / first*
-9. Find asked if
-10. Find told to / not to
+6. Completa: He ___ me not to be late.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Quinn.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **pronounce that word** · 7. **translate the paragraph** · 8. **questions & commands** · 9. **asked if I was ready** · 10. **to open / not to be late / to translate**
+6. **told**  
+7. **practicar reported questions (asked if/wh-) and commands (told to / not to).**  
+8. «He asked where I lived.»  
+9. «She asked if I was ready for the test.»  
+10. Modelo: Quinn habla usando *practicar reported questions (asked if/wh-) and commands (told to / not to).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write one asked where…
-12. Lang words? → *yes / none*
-13. Shadow audio
-14. Where did I live OK? → *False / True*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar reported questions (asked if/wh-) and commands (told to / not to).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *She said me she was busy*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **pronounce, translate, test** · 13. **done** · 14. **False** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar reported questions (asked if/wh-) and commands (told to / not to).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-19-reported-speech-questions).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *reported questions (asked if/wh-) and commands (told to / not to)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Reporta 2 preguntas + 2 órdenes.
 2. Completa: "Are you ready?" → She asked ___ I was ready.
 3. Completa: "Where do you live?" → He asked where I ___.
-4. Completa: "Open the file." → She told me ___ open the file.
+4. Completa: "Completa: "Open the file." → She told me ___ open the file.
 5. Completa: "Don't be late." → He told me ___ ___ be late.
 6. Corrige: *He asked where did I live.*
 7. Corrige: *She told me open the file.*
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Me preguntó si estaba listo.
 13. Traduce: Nos dijo que tradujéramos el párrafo.
 14. Escribe 1× asked whether…
-15. Autochequeo: if/wh- + to/not to.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open 2+2.
-2. **if**
-3. **lived**
-4. **to**
-5. **not to**
-6. He asked where I **lived**.
-7. She told me **to** open the file.
-8. She told us to translate… He asked how we pronounce…
-9. OK.
-10. OK.
-11. Open class dialogue.
-12. She asked if I was ready.
-13. She told us to translate the paragraph.
-14. The tutor asked whether we understood.
-15. Self-check.
+1. Modelo OK con *reported questions (asked if/wh-) and commands (told to / not to)*.
+2. Completa según la regla de *reported questions (asked if/wh-) and commands (told to / not to)* (mira la teoría si dudas).
+3. Completa según la regla de *reported questions (asked if/wh-) and commands (told to / not to)* (mira la teoría si dudas).
+4. Completa según la regla de *reported questions (asked if/wh-) and commands (told to / not to)* (mira la teoría si dudas).
+5. Completa según la regla de *reported questions (asked if/wh-) and commands (told to / not to)* (mira la teoría si dudas).
+6. Corrige: *He asked where did I live.* → forma correcta con *reported questions (asked if/wh-) and commands (told to / not to)*.
+7. Corrige: *She told me open the file.* → forma correcta con *reported questions (asked if/wh-) and commands (told to / not to)*.
+8. Modelo libre correcto con *reported questions (asked if/wh-) and commands (told to / not to)*.
+9. Modelo libre correcto con *reported questions (asked if/wh-) and commands (told to / not to)*.
+10. Modelo libre correcto con *reported questions (asked if/wh-) and commands (told to / not to)*.
+11. Respuesta abierta — revisa que aparezca *reported questions (asked if/wh-) and commands (told to / not to)*.
+12. Traduce al inglés usando *reported questions (asked if/wh-) and commands (told to / not to)*.
+13. Traduce al inglés usando *reported questions (asked if/wh-) and commands (told to / not to)*.
+14. Modelo libre correcto con *reported questions (asked if/wh-) and commands (told to / not to)*.
+15. Autochequeo: ¿puedes explicar *reported questions (asked if/wh-) and commands (told to / not to)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-19-reported-speech-questions).
 
 </details>
 
----
 
 ## Cómo seguir
 

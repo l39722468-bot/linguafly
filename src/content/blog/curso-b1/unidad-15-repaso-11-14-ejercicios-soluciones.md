@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 15 del curso B1** (*Repaso 1
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *first, second y third conditional + time clauses*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-15-repaso-11-14).
+
 ![Repaso 11–14](/blog/curso-b1/unit-15/review-conditionals.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** first, second y third conditional + time clauses
+**Objetivo:** practicar first, second y third conditional + time clauses.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. If it ___ sunny tomorrow, we'll walk. → *is / were / had been*
 2. If I ___ you, I'd take an umbrella. → *were / am / had been*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. If she studies, she ___ pass. (first) → *will / would / would have*
 2. If she studied, she ___ pass. (second) → *would / will / would have*
 3. If she had studied, she ___ passed. (third) → *would have / will / would*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *If it will rain…*
 2. *If I would have time…*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** weather, entertainment, regrets (mix)
+**Objetivo:** weather, entertainment, regrets (mix).
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. forecast → *pronóstico · arrepentimiento · gira*
 2. binge-watch → *ver de seguido · granizo · aviso*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. first = ___ → *real/probable / pasado irreal / solo A1*
 2. second = ___ → *hipotético ahora / pasado real / will only*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-15-repaso-11-14).
-15. Continúa en la [Unidad 15 del curso](/curso-b1/unit-15).
+Completa con una de estas palabras: *forecast* · *binge-watch* · *regret* · *VIP tickets* · *time clause*
+
+11. Write a short sentence with **forecast** and the grammar focus (*first, second y third conditional + time clauses*).  
+12. Write a short sentence with **binge-watch**.  
+13. Write a short sentence with **regret**.  
+14. Choose the best word for this idea: «entradas VIP» → **VIP tickets** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-15-repaso-11-14).  
+15. Practise aloud, then continue in the [Unidad 15 del curso](/curso-b1/unit-15).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-15**
+11. Modelo: usa **forecast** en una frase natural con *first, second y third conditional + time clauses*.  
+12. Modelo: usa **binge-watch** en una frase corta.  
+13. Modelo: usa **regret** en una frase corta.  
+14. **VIP tickets** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-15**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: One weekend, three conditionals
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar first, second y third conditional + time clauses.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-15/reading-workbook.mp3" title="🔊 Reading: One weekend, three conditionals"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > Last weekend mixed all three conditionals. If the weather is good this Friday, we will go to the festival — first conditional. If we had VIP tickets, we would meet the band — second conditional. If we had booked earlier last month, we would have got better seats — third conditional. When I finish work, I will check the forecast. Same topic, three different frames.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Friday plan structure? → *first / second / third*
-2. VIP dream structure? → *second / first / third*
-3. Booked earlier structure? → *third / first / second*
-4. Festival if weather ___ → *good / bad / snowy*
-5. VIP → meet the ___ → *band / teacher / neighbour*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **first** · 2. **second** · 3. **third** · 4. **good** · 5. **band**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Earlier booking → better ___ → *seats / grades / weather*
-7. When I finish work → ___ → *forecast / sleep only*
-8. Same topic? → *Yes / No*
-9. Find first line
-10. Find second line
+1. Last weekend mixed all three ___.
+2. If the weather is good this Friday, we will go to the festival — first ___.
+3. If we had VIP ___, we would meet the band — second conditional.
+4. If we had booked ___ last month, we would have got better seats — third conditional.
+5. When I finish work, I will check the ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **seats** · 7. **check the forecast** · 8. **Yes (weekend/festival)** · 9. **If the weather is good…** · 10. **If we had VIP tickets…**
+1. **conditionals** · 2. **conditional** · 3. **tickets** · 4. **earlier** · 5. **forecast**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Find third line
-12. Write 1× each conditional
-13. Time clause in text? → *yes / none*
-14. Main idea? → *three frames / only A1*
-15. Course link → */curso-b1/unit-15*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar first, second y third conditional + time clauses.*
+8. Copia una frase (o trozo) con **first**.
+9. Copia una frase (o trozo) con **second**.
+10. Copia una frase (o trozo) con **third**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **If we had booked earlier…** · 12. **Model OK** · 13. **When I finish work…** · 14. **three frames, one topic** · 15. **/curso-b1/unit-15**
+6. Modelo: resume el texto en tus palabras (tema + *practicar first, second y third conditional + time clauses.*).  
+7. **practicar first, second y third conditional + time clauses.**  
+8. Copia del texto algo con *first* (ej.: «Last weekend mixed all three conditionals.»).  
+9. Copia del texto algo con *second*.  
+10. Copia del texto algo con *third*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar first, second y third conditional + time clauses.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *If I will see her, I will call you*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-15](/curso-b1/unit-15)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-15-repaso-11-14) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar first, second y third conditional + time clauses.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar first, second y third conditional + time clauses.*).  
+14. **/curso-b1/unit-15**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Leo's mixed conditionals
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar first, second y third conditional + time clauses.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-15/listening-workbook.mp3" title="🔊 Listening: Leo's mixed conditionals"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Leo. If it rains tomorrow, we will watch a series at home. If I were free every evening, I would learn the guitar. If we had left earlier last week, we wouldn't have missed the concert. When the sun comes out, we will go for a walk. If I had VIP tickets, I would meet the band.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Leo / Sam / Chris*
-2. Rains tomorrow → ___ → *series / travel*
-3. Free every evening → ___ → *guitar / sleep only*
-4. Left earlier last week → ___ → *concert / exam*
-5. When sun comes out → ___ → *walk / stay in*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: If it rains ___, we will watch a series at home.  
+4. Completa: If I were free every ___, I would learn the guitar.  
+5. Completa: If we had left earlier last week, we ___ have missed the concert.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Leo** · 2. **watch a series** · 3. **learn the guitar** · 4. **wouldn't have missed concert** · 5. **go for a walk**
+1. **Leo**  
+2. **Leo**  
+3. **tomorrow**  
+4. **evening**  
+5. **wouldn't**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. VIP tickets → ___ → *band / teacher*
-7. Classify rains line → *first / second / third*
-8. Classify were free line → *second / first / third*
-9. Classify had left line → *third / first / second*
-10. Find time clause
+6. Completa: When the sun ___ out, we will go for a walk.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Leo.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **meet the band** · 7. **first** · 8. **second** · 9. **third** · 10. **When the sun comes out…**
+6. **comes**  
+7. **practicar first, second y third conditional + time clauses.**  
+8. «If it rains tomorrow, we will watch a series at home.»  
+9. «If I were free every evening, I would learn the guitar.»  
+10. Modelo: Leo habla usando *practicar first, second y third conditional + time clauses.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write 1× each type
-12. Mixed review? → *Yes / No*
-13. Shadow audio
-14. Course unit → */curso-b1/unit-15*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar first, second y third conditional + time clauses.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *If I will see her, I will call you*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **Yes** · 13. **done** · 14. **/curso-b1/unit-15** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar first, second y third conditional + time clauses.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-15-repaso-11-14).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *first, second y third conditional + time clauses*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Una frase first + second + third sobre el mismo tema.
 2. Completa: If it ___ sunny tomorrow, we'll walk.
@@ -303,25 +351,24 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 <details>
 <summary>Ver solución</summary>
 
-1. Open — one of each on the same topic.
-2. **is**
-3. **were**
-4. **had booked**
-5. **arrive**
-6. **first**
-7. **second**
-8. **third**
-9. If it **rains**…
-10. I **would have passed**.
-11. Open mixed paragraph.
-12. first=real; second=now unreal; third=past unreal.
-13. If the weather is good, we'll go to the festival.
-14. If we had booked earlier, we would have had better seats.
-15. Self-check vs review map.
+1. Modelo OK con *first, second y third conditional + time clauses*.
+2. Completa según la regla de *first, second y third conditional + time clauses* (mira la teoría si dudas).
+3. Completa según la regla de *first, second y third conditional + time clauses* (mira la teoría si dudas).
+4. Completa según la regla de *first, second y third conditional + time clauses* (mira la teoría si dudas).
+5. Completa según la regla de *first, second y third conditional + time clauses* (mira la teoría si dudas).
+6. Modelo OK con *first, second y third conditional + time clauses*.
+7. Modelo OK con *first, second y third conditional + time clauses*.
+8. Modelo OK con *first, second y third conditional + time clauses*.
+9. Corrige: *If it will rain…* → forma correcta con *first, second y third conditional + time clauses*.
+10. Corrige: *I would passed.* → forma correcta con *first, second y third conditional + time clauses*.
+11. Respuesta abierta — revisa que aparezca *first, second y third conditional + time clauses*.
+12. Modelo OK con *first, second y third conditional + time clauses*.
+13. Traduce al inglés usando *first, second y third conditional + time clauses*.
+14. Traduce al inglés usando *first, second y third conditional + time clauses*.
+15. Autochequeo: ¿puedes explicar *first, second y third conditional + time clauses* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-15-repaso-11-14).
 
 </details>
 
----
 
 ## Cómo seguir
 

@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 48 del curso B1** (*Phrasal 
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *work out, look forward to, run out of, take care of, carry out, deal with*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-48-phrasal-verbs-work-study).
+
 ![Phrasal Verbs 3 & Work](/blog/curso-b1/unit-48/phrasal-verbs-3.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** work out, look forward to, run out of, take care of, carry out, deal with
+**Objetivo:** practicar work out, look forward to, run out of, take care of, carry out, deal with.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I ___ out at the gym every morning. → *work / works / working*
 2. I'm looking forward ___ my holiday. → *to / for / at*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. look forward to + ___ → *-ing or noun / infinitive / past*
 2. run out of + ___ → *object / no object / clause*
 3. take care of ≈ ___ → *look after / look for / look at*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *I'm looking forward to go.*
 2. *We ran out milk.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** work & study
+**Objetivo:** work & study.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. work out → *entrenar · look forward · run out*
 2. look forward to → *esperar con ilusión · take care · carry out*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. work out ≈ ___ → *entrenar/resolver / esperar / quedarse sin*
 2. look forward to + ___ → *-ing o noun / infinitivo / pasado*
@@ -151,139 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-48-phrasal-verbs-work-study).
-15. Continúa en la [Unidad 48 del curso](/curso-b1/unit-48).
+Completa con una de estas palabras: *work out* · *look forward to* · *run out of* · *take care of* · *carry out*
+
+11. Write a short sentence with **work out** and the grammar focus (*work out, look forward to, run out of, take care of, carry out, deal with*).  
+12. Write a short sentence with **look forward to**.  
+13. Write a short sentence with **run out of**.  
+14. Choose the best word for this idea: «cuidar de» → **take care of** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-48-phrasal-verbs-work-study).  
+15. Practise aloud, then continue in the [Unidad 48 del curso](/curso-b1/unit-48).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-48**
+11. Modelo: usa **work out** en una frase natural con *work out, look forward to, run out of, take care of, carry out, deal with*.  
+12. Modelo: usa **look forward to** en una frase corta.  
+13. Modelo: usa **run out of** en una frase corta.  
+14. **take care of** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-48**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: At work
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar work out, look forward to, run out of, take care of, carry out, deal with.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-48/reading-workbook.mp3" title="🔊 Reading: At work"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I work out at the gym every morning. I'm looking forward to my holiday. We ran out of milk. She takes care of her children. They carried out the research. I don't know how to deal with this problem.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. ___ out at gym? → *work / works*
-2. Looking forward ___ holiday? → *to / for*
-3. Ran ___ of milk? → *out / off*
-4. Takes care ___ children? → *of / for*
-5. Carried ___ research? → *out / on*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **work** · 2. **to** · 3. **out** · 4. **of** · 5. **out**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *phrasal / modal*
-7. Find work out
-8. Find look forward to
-9. Find run out of
-10. Write deal with…
+1. I work out at the gym every ___.
+2. I'm ___ forward to my holiday.
+3. We ran out of ___.
+4. She takes care of her ___.
+5. They carried out the ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **phrasal verbs 3** · 7. **work out at the gym** · 8. **looking forward to my holiday** · 9. **ran out of milk** · 10. **Model OK**
+1. **morning** · 2. **looking** · 3. **milk** · 4. **children** · 5. **research**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Work vocab? → *yes / none*
-12. look forward to + inf OK? → *False / True*
-13. Course → */curso-b1/unit-48*
-14. run out of needs object? → *True / False*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar work out, look forward to, run out of, take care of, carry out, deal with.*
+8. Copia una frase (o trozo) con **work**.
+9. Copia una frase (o trozo) con **look**.
+10. Copia una frase (o trozo) con **forward**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **project, deadline, colleague** · 12. **False** · 13. **/curso-b1/unit-48** · 14. **True** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar work out, look forward to, run out of, take care of, carry out, deal with.*).  
+7. **practicar work out, look forward to, run out of, take care of, carry out, deal with.**  
+8. Copia del texto algo con *work* (ej.: «I work out at the gym every morning.»).  
+9. Copia del texto algo con *look*.  
+10. Copia del texto algo con *forward*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar work out, look forward to, run out of, take care of, carry out, deal with.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar work out, look forward to, run out of, take care of, carry out, deal with.*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-48](/curso-b1/unit-48)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-48-phrasal-verbs-work-study) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar work out, look forward to, run out of, take care of, carry out, deal with.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar work out, look forward to, run out of, take care of, carry out, deal with.*).  
+14. **/curso-b1/unit-48**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Hugo on phrasal verbs
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar work out, look forward to, run out of, take care of, carry out, deal with.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-48/listening-workbook.mp3" title="🔊 Listening: Hugo on phrasal verbs"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Hugo. I work out at the gym every morning. I'm looking forward to my holiday. We ran out of milk. She takes care of her children. They carried out the research. I don't know how to deal with this problem.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Hugo / Jack / Frank*
-2. ___ out at gym → *work / works*
-3. Looking forward ___ holiday → *to / for*
-4. Ran ___ of milk → *out / off*
-5. Takes care ___ children → *of / for*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I work out at the gym every ___.  
+4. Completa: I'm ___ forward to my holiday.  
+5. Completa: We ran out of ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Hugo** · 2. **work** · 3. **to** · 4. **out** · 5. **of**
+1. **Hugo**  
+2. **Hugo**  
+3. **morning**  
+4. **looking**  
+5. **milk**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Main grammar? → *phrasal / modal*
-7. Find work out
-8. Find look forward to
-9. Find run out of
-10. Write carry out…
+6. Completa: She takes care of her ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Hugo.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **phrasal verbs** · 7. **work out at the gym** · 8. **looking forward to my holiday** · 9. **ran out of milk** · 10. **Model OK**
+6. **children**  
+7. **practicar work out, look forward to, run out of, take care of, carry out, deal with.**  
+8. «I work out at the gym every morning.»  
+9. «I'm looking forward to my holiday.»  
+10. Modelo: Hugo habla usando *practicar work out, look forward to, run out of, take care of, carry out, deal with.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Work words? → *yes / none*
-12. Shadow
-13. forward to + inf? → *False / True*
-14. Course → */curso-b1/unit-48*
-15. deal with → *yes / no*
-16. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar work out, look forward to, run out of, take care of, carry out, deal with.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar work out, look forward to, run out of, take care of, carry out, deal with.*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **research, deal with** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-48** · 15. **yes** · 16. **yes**
+11. Modelo: crea una frase natural con *practicar work out, look forward to, run out of, take care of, carry out, deal with.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-48-phrasal-verbs-work-study).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *work out, look forward to, run out of, take care of, carry out, deal with*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× phrasal verbs de la unidad.
 2. Completa: I ___ out at the gym.
@@ -299,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Estoy esperando con ilusión las vacaciones.
 13. Explica look forward to en 1 frase.
 14. Escribe 1× take care of.
-15. Autochequeo: bloques phrasal verb completos.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open two.
-2. **work**
-3. **to**
-4. **out**
-5. **of**
-6. forward to **going**
-7. ran **out of** milk
-8. Open.
-9. OK.
-10. Open.
-11. I work out at the gym.
-12. I'm looking forward to my holiday.
-13. to + -ing or noun.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *work out, look forward to, run out of, take care of, carry out, deal with*.
+2. Completa según la regla de *work out, look forward to, run out of, take care of, carry out, deal with* (mira la teoría si dudas).
+3. Completa según la regla de *work out, look forward to, run out of, take care of, carry out, deal with* (mira la teoría si dudas).
+4. Completa según la regla de *work out, look forward to, run out of, take care of, carry out, deal with* (mira la teoría si dudas).
+5. Completa según la regla de *work out, look forward to, run out of, take care of, carry out, deal with* (mira la teoría si dudas).
+6. Corrige: *looking forward to go* → forma correcta con *work out, look forward to, run out of, take care of, carry out, deal with*.
+7. Corrige: *ran out milk* → forma correcta con *work out, look forward to, run out of, take care of, carry out, deal with*.
+8. Modelo libre correcto con *work out, look forward to, run out of, take care of, carry out, deal with*.
+9. Modelo libre correcto con *work out, look forward to, run out of, take care of, carry out, deal with*.
+10. Respuesta abierta — revisa que aparezca *work out, look forward to, run out of, take care of, carry out, deal with*.
+11. Traduce al inglés usando *work out, look forward to, run out of, take care of, carry out, deal with*.
+12. Traduce al inglés usando *work out, look forward to, run out of, take care of, carry out, deal with*.
+13. Explicación breve en 1 frase (concepto clave de *work out, look forward to, run out of, take care of, carry out, deal with*).
+14. Modelo libre correcto con *work out, look forward to, run out of, take care of, carry out, deal with*.
+15. Autochequeo: ¿puedes explicar *work out, look forward to, run out of, take care of, carry out, deal with* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-48-phrasal-verbs-work-study).
 
 </details>
 
----
 
 ## Cómo seguir
 

@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 33 del curso B1** (*Question
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *question tags (isn't it?, don't you?…)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-33-question-tags-services).
+
 ![Question Tags & Services](/blog/curso-b1/unit-33/question-tags.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** question tags (isn't it?, don't you?…)
+**Objetivo:** practicar question tags (isn't it?, don't you?…).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. It's a nice day, ___? → *isn't it / is it / doesn't it*
 2. You like this restaurant, ___? → *don't you / do you / doesn't you*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. He is a doctor, ___? → *isn't he / is he / doesn't he*
 2. We need an appointment, ___? → *don't we / do we / aren't we*
 3. The cafe isn't open, ___? → *is it / isn't it / does it*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *It's nice, is it?*
 2. *You like it, do you?* (confirm)
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** services
+**Objetivo:** services.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. bank → *banco · eagle · bored*
 2. appointment → *cita · pollution · forest*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. + statement → ___ tag → *negative / positive / zero*
 2. − statement → ___ tag → *positive / negative / zero*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-33-question-tags-services).
-15. Continúa en la [Unidad 33 del curso](/curso-b1/unit-33).
+Completa con una de estas palabras: *bank* · *appointment* · *pharmacy* · *restaurant* · *doctor*
+
+11. Write a short sentence with **bank** and the grammar focus (*question tags (isn't it?, don't you?…)*).  
+12. Write a short sentence with **appointment**.  
+13. Write a short sentence with **pharmacy**.  
+14. Choose the best word for this idea: «restaurante» → **restaurant** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-33-question-tags-services).  
+15. Practise aloud, then continue in the [Unidad 33 del curso](/curso-b1/unit-33).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-33**
+11. Modelo: usa **bank** en una frase natural con *question tags (isn't it?, don't you?…)*.  
+12. Modelo: usa **appointment** en una frase corta.  
+13. Modelo: usa **pharmacy** en una frase corta.  
+14. **restaurant** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-33**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: At the service desk
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar question tags (isn't it?, don't you?…).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-33/reading-workbook.mp3" title="🔊 Reading: At the service desk"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > It's a nice day, isn't it? You like this restaurant, don't you? She works at the bank, doesn't she? They haven't finished yet, have they? You're free tomorrow, aren't you?
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Nice day tag? → *isn't it / is it*
-2. Like restaurant tag? → *don't you / do you*
-3. Works at bank tag? → *doesn't she / isn't she*
-4. Haven't finished tag? → *have they / haven't they*
-5. Free tomorrow tag? → *aren't you / don't you*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **isn't it** · 2. **don't you** · 3. **doesn't she** · 4. **have they** · 5. **aren't you**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *tags / relatives*
-7. Find isn't it
-8. Find don't you
-9. Find have they
-10. Write aren't you…
+1. ___ a nice day, isn't it?
+2. You like this ___, don't you?
+3. She ___ at the bank, doesn't she?
+4. They haven't ___ yet, have they?
+5. You're free ___, aren't you?
 
 <details>
 <summary>Ver solución</summary>
 
-6. **question tags** · 7. **nice day, isn't it** · 8. **like…, don't you** · 9. **haven't finished, have they** · 10. **Model OK**
+1. **It's** · 2. **restaurant** · 3. **works** · 4. **finished** · 5. **tomorrow**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Services vocab? → *yes / none*
-12. + → −? → *Yes / No*
-13. Course → */curso-b1/unit-33*
-14. Shadow
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar question tags (isn't it?, don't you?…).*
+8. Copia una frase (o trozo) con **isn't**.
+9. Copia una frase (o trozo) con **don't**.
+10. Copia una frase (o trozo) con **don't**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **restaurant, bank** · 12. **Yes** · 13. **/curso-b1/unit-33** · 14. **done** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar question tags (isn't it?, don't you?…).*).  
+7. **practicar question tags (isn't it?, don't you?…).**  
+8. Copia del texto algo con *isn't* (ej.: «It's a nice day, isn't it?»).  
+9. Copia del texto algo con *don't*.  
+10. Copia del texto algo con *don't*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar question tags (isn't it?, don't you?…).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar question tags (isn't it?, don't you?…).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-33](/curso-b1/unit-33)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-33-question-tags-services) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar question tags (isn't it?, don't you?…).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar question tags (isn't it?, don't you?…).*).  
+14. **/curso-b1/unit-33**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Uma chatting
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar question tags (isn't it?, don't you?…).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-33/listening-workbook.mp3" title="🔊 Listening: Uma chatting"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Uma. It's a nice day, isn't it? You like this restaurant, don't you? She works at the bank, doesn't she? They haven't finished yet, have they? You're free tomorrow, aren't you?
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Uma / Tina / Victor*
-2. Nice day ___? → *isn't it / is it*
-3. Like restaurant ___? → *don't you / do you*
-4. Bank ___? → *doesn't she / isn't she*
-5. Haven't finished ___? → *have they / haven't*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: ___ a nice day, isn't it?  
+4. Completa: You like this ___, don't you?  
+5. Completa: She ___ at the bank, doesn't she?
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Uma** · 2. **isn't it** · 3. **don't you** · 4. **doesn't she** · 5. **have they**
+1. **Uma**  
+2. **Uma**  
+3. **It's**  
+4. **restaurant**  
+5. **works**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Free ___? → *aren't you / don't you*
-7. Grammar? → *tags / relatives*
-8. Find isn't it
-9. Find don't you / doesn't she
-10. Write have they…
+6. Completa: They haven't ___ yet, have they?  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Uma.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **aren't you** · 7. **question tags** · 8. **nice day, isn't it** · 9. **don't you / doesn't she** · 10. **Model OK**
+6. **finished**  
+7. **practicar question tags (isn't it?, don't you?…).**  
+8. «It's a nice day, isn't it?»  
+9. «You like this restaurant, don't you?»  
+10. Modelo: Uma habla usando *practicar question tags (isn't it?, don't you?…).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Services? → *yes / none*
-12. Shadow
-13. +→−? → *Yes / No*
-14. Course → */curso-b1/unit-33*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar question tags (isn't it?, don't you?…).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar question tags (isn't it?, don't you?…).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **restaurant, bank** · 12. **done** · 13. **Yes** · 14. **/curso-b1/unit-33** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar question tags (isn't it?, don't you?…).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-33-question-tags-services).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *question tags (isn't it?, don't you?…)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 5 tags: isn't it, don't you, doesn't she, have they, aren't you.
 2. Completa: It's nice, ___?
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Te gusta este restaurante, ¿no?
 13. Explica +→− en 1 frase.
 14. Escribe 1× didn't you?
-15. Autochequeo: copia auxiliar y cambia polaridad.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open five.
-2. **isn't it**
-3. **don't you**
-4. **doesn't she**
-5. **have they**
-6. **isn't it**
-7. **aren't you**
-8. Open.
-9. OK.
-10. Open.
-11. It's a nice day, isn't it?
-12. You like this restaurant, don't you?
-13. + → − tag.
-14. You went…, didn't you?
-15. Self-check.
+1. Modelo libre correcto con *question tags (isn't it?, don't you?…)*.
+2. Completa según la regla de *question tags (isn't it?, don't you?…)* (mira la teoría si dudas).
+3. Completa según la regla de *question tags (isn't it?, don't you?…)* (mira la teoría si dudas).
+4. Completa según la regla de *question tags (isn't it?, don't you?…)* (mira la teoría si dudas).
+5. Completa según la regla de *question tags (isn't it?, don't you?…)* (mira la teoría si dudas).
+6. Corrige: *It's nice, is it?* → forma correcta con *question tags (isn't it?, don't you?…)*.
+7. Corrige: *You're free, don't you?* → forma correcta con *question tags (isn't it?, don't you?…)*.
+8. Modelo libre correcto con *question tags (isn't it?, don't you?…)*.
+9. Modelo libre correcto con *question tags (isn't it?, don't you?…)*.
+10. Respuesta abierta — revisa que aparezca *question tags (isn't it?, don't you?…)*.
+11. Traduce al inglés usando *question tags (isn't it?, don't you?…)*.
+12. Traduce al inglés usando *question tags (isn't it?, don't you?…)*.
+13. Explicación breve en 1 frase (concepto clave de *question tags (isn't it?, don't you?…)*).
+14. Modelo libre correcto con *question tags (isn't it?, don't you?…)*.
+15. Autochequeo: ¿puedes explicar *question tags (isn't it?, don't you?…)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-33-question-tags-services).
 
 </details>
 
----
 
 ## Cómo seguir
 

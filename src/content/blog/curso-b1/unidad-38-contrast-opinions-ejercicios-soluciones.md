@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 38 del curso B1** (*Clauses 
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *although/however/despite + opinions*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-38-contrast-opinions).
+
 ![Contrast & Opinions](/blog/curso-b1/unit-38/contrast.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** although/however/despite + opinions
+**Objetivo:** practicar although/however/despite + opinions.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. ___ it was raining, we went out. → *Although / However / Despite*
 2. I like it. ___, it's expensive. → *However / Although / Despite*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. although + ___ → *clause / noun only / comma phrase*
 2. however position → *new sentence / mid-clause like although / before noun*
 3. despite + ___ → *noun/-ing / full clause / verb*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *However it was raining, we went.*
 2. *Although, it's expensive.* (second clause)
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** opinions
+**Objetivo:** opinions.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. agree → *estar de acuerdo · luggage · so*
 2. disagree → *no estar de acuerdo · delay · such*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. point of view ≈ ___ → *punto de vista / retraso / guion*
 2. support ≈ ___ → *apoyar / equipaje / intensidad*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-38-contrast-opinions).
-15. Continúa en la [Unidad 38 del curso](/curso-b1/unit-38).
+Completa con una de estas palabras: *agree* · *disagree* · *opinion* · *convincing* · *fair*
+
+11. Write a short sentence with **agree** and the grammar focus (*although/however/despite + opinions*).  
+12. Write a short sentence with **disagree**.  
+13. Write a short sentence with **opinion**.  
+14. Choose the best word for this idea: «convincente» → **convincing** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-38-contrast-opinions).  
+15. Practise aloud, then continue in the [Unidad 38 del curso](/curso-b1/unit-38).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-38**
+11. Modelo: usa **agree** en una frase natural con *although/however/despite + opinions*.  
+12. Modelo: usa **disagree** en una frase corta.  
+13. Modelo: usa **opinion** en una frase corta.  
+14. **convincing** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-38**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Despite the delay
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar although/however/despite + opinions.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-38/reading-workbook.mp3" title="🔊 Reading: Despite the delay"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > Although it was raining, we went out. I like the idea. However, it's expensive. Even though I disagree, I respect you. Despite the delay, we arrived on time.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Raining but went out? → *Although / However*
-2. Like it but expensive? → *However / Although*
-3. Disagree but respect? → *Even though / Despite*
-4. Despite ___ → *delay / although*
-5. Arrived on time? → *Yes / No*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **Although** · 2. **However** · 3. **Even though** · 4. **the delay** · 5. **Yes**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *contrast / purpose*
-7. Find although
-8. Find however
-9. Find despite
-10. Write although…
+1. ___ it was raining, we went out.
+2. I ___ the idea.
+3. However, it's ___.
+4. Even though I ___, I respect you.
+5. ___ the delay, we arrived on time.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **contrast** · 7. **Although it was raining** · 8. **However, it's expensive** · 9. **Despite the delay** · 10. **Model OK**
+1. **Although** · 2. **like** · 3. **expensive** · 4. **disagree** · 5. **Despite**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Opinions vocab? → *yes / none*
-12. despite + clause OK? → *False / True*
-13. Course → */curso-b1/unit-38*
-14. however = although? → *No / Yes*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar although/however/despite + opinions.*
+8. Copia una frase (o trozo) con **although**.
+9. Copia una frase (o trozo) con **however**.
+10. Copia una frase (o trozo) con **despite**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **agree, disagree, opinion** · 12. **False** · 13. **/curso-b1/unit-38** · 14. **No** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar although/however/despite + opinions.*).  
+7. **practicar although/however/despite + opinions.**  
+8. Copia del texto algo con *although* (ej.: «Although it was raining, we went out.»).  
+9. Copia del texto algo con *however*.  
+10. Copia del texto algo con *despite*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar although/however/despite + opinions.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar although/however/despite + opinions.*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-38](/curso-b1/unit-38)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-38-contrast-opinions) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar although/however/despite + opinions.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar although/however/despite + opinions.*).  
+14. **/curso-b1/unit-38**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Carl on contrast
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar although/however/despite + opinions.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-38/listening-workbook.mp3" title="🔊 Listening: Carl on contrast"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Carl. Although it was raining, we went out. I like the idea. However, it's expensive. Even though I disagree, I respect you. Despite the delay, we arrived on time.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Carl / Dana / Ben*
-2. Raining but out? → *Although / However*
-3. Like but expensive? → *However / Although*
-4. Disagree but respect? → *Even though / Despite*
-5. Despite ___ → *delay / although*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: ___ it was raining, we went out.  
+4. Completa: I ___ the idea.  
+5. Completa: However, it's ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Carl** · 2. **Although** · 3. **However** · 4. **Even though** · 5. **the delay**
+1. **Carl**  
+2. **Carl**  
+3. **Although**  
+4. **like**  
+5. **expensive**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Arrived on time? → *Yes / No*
-7. Grammar? → *contrast / purpose*
-8. Find although
-9. Find however
-10. Write despite…
+6. Completa: Even though I ___, I respect you.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Carl.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **Yes** · 7. **contrast** · 8. **Although it was raining** · 9. **However, it's expensive** · 10. **Model OK**
+6. **disagree**  
+7. **practicar although/however/despite + opinions.**  
+8. «Although it was raining, we went out.»  
+9. «I like the idea.»  
+10. Modelo: Carl habla usando *practicar although/however/despite + opinions.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Opinions? → *yes / none*
-12. Shadow
-13. despite + clause? → *False / True*
-14. Course → */curso-b1/unit-38*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar although/however/despite + opinions.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar although/however/despite + opinions.*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **agree, disagree** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-38** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar although/however/despite + opinions.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-38-contrast-opinions).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *although/however/despite + opinions*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× although + 1× however + 1× despite.
 2. Completa: ___ it was raining, we went out.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Sin embargo, es caro.
 13. Explica although vs however en 1 frase.
 14. Escribe 1× in spite of.
-15. Autochequeo: although=clause; despite=noun/-ing.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open four.
-2. **Although/Though**
-3. **However**
-4. **Even though**
-5. **Despite**
-6. **Although**… / **However**, it…
-7. **Despite the rain**
-8. Open.
-9. OK.
-10. Open.
-11. Although it was raining, we went out.
-12. However, it's expensive.
-13. although same clause; however new sentence.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *although/however/despite + opinions*.
+2. Completa según la regla de *although/however/despite + opinions* (mira la teoría si dudas).
+3. Completa según la regla de *although/however/despite + opinions* (mira la teoría si dudas).
+4. Completa según la regla de *although/however/despite + opinions* (mira la teoría si dudas).
+5. Completa según la regla de *although/however/despite + opinions* (mira la teoría si dudas).
+6. Corrige: *However it was raining, we went.* → forma correcta con *although/however/despite + opinions*.
+7. Corrige: *Despite it was raining.* → forma correcta con *although/however/despite + opinions*.
+8. Modelo libre correcto con *although/however/despite + opinions*.
+9. Modelo libre correcto con *although/however/despite + opinions*.
+10. Respuesta abierta — revisa que aparezca *although/however/despite + opinions*.
+11. Traduce al inglés usando *although/however/despite + opinions*.
+12. Traduce al inglés usando *although/however/despite + opinions*.
+13. Explicación breve en 1 frase (concepto clave de *although/however/despite + opinions*).
+14. Modelo libre correcto con *although/however/despite + opinions*.
+15. Autochequeo: ¿puedes explicar *although/however/despite + opinions* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-38-contrast-opinions).
 
 </details>
 
----
 
 ## Cómo seguir
 

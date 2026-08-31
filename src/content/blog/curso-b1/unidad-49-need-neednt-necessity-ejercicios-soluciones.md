@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 49 del curso B1** (*Need, Ne
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *need / needn't / needn't have + necessity*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-49-need-neednt-necessity).
+
 ![Need & Necessity](/blog/curso-b1/unit-49/need-neednt.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** need / needn't / needn't have + necessity
+**Objetivo:** practicar need / needn't / needn't have + necessity.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. You ___ hurry — we have time. → *needn't / need / mustn't*
 2. I need ___ buy a ticket. → *to / for / -*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. needn't + ___ → *bare infinitive / to infinitive / -ing*
 2. need (main verb) + ___ → *to infinitive / bare infinitive / -ing*
 3. needn't have + ___ → *past participle / infinitive / -ing*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *You needn't to hurry.*
 2. *I need buy a ticket.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** necessity
+**Objetivo:** necessity.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. necessity → *necesidad · preference · advice*
 2. necessary → *necesario · unnecessary · optional*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. needn't ≈ ___ → *no necesitas / debes / preferirías*
 2. needn't have ≈ ___ → *no era necesario (pasado) / necesitas ahora / obligación*
@@ -151,139 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-49-need-neednt-necessity).
-15. Continúa en la [Unidad 49 del curso](/curso-b1/unit-49).
+Completa con una de estas palabras: *necessity* · *necessary* · *unnecessary* · *essential* · *optional*
+
+11. Write a short sentence with **necessity** and the grammar focus (*need / needn't / needn't have + necessity*).  
+12. Write a short sentence with **necessary**.  
+13. Write a short sentence with **unnecessary**.  
+14. Choose the best word for this idea: «esencial» → **essential** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-49-need-neednt-necessity).  
+15. Practise aloud, then continue in the [Unidad 49 del curso](/curso-b1/unit-49).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-49**
+11. Modelo: usa **necessity** en una frase natural con *need / needn't / needn't have + necessity*.  
+12. Modelo: usa **necessary** en una frase corta.  
+13. Modelo: usa **unnecessary** en una frase corta.  
+14. **essential** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-49**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: No hurry
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar need / needn't / needn't have + necessity.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-49/reading-workbook.mp3" title="🔊 Reading: No hurry"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > You needn't hurry — we have time. I need to buy a ticket. She needn't have bought a new one. This needs repairing urgently. We needn't have booked the table.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. ___ hurry? → *needn't / need*
-2. Need ___ buy ticket? → *to / -*
-3. Needn't ___ bought? → *have / to*
-4. Needs ___ urgently? → *repairing / repair*
-5. Needn't ___ booked? → *have / to*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **needn't** · 2. **to** · 3. **have** · 4. **repairing** · 5. **have**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *necessity / preference*
-7. Find needn't
-8. Find need to
-9. Find needn't have
-10. Write need + -ing…
+1. You needn't ___ — we have time.
+2. I need to buy a ___.
+3. She needn't have ___ a new one.
+4. This needs ___ urgently.
+5. We needn't have ___ the table.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **need/needn't** · 7. **needn't hurry** · 8. **need to buy** · 9. **needn't have booked** · 10. **Model OK**
+1. **hurry** · 2. **ticket** · 3. **bought** · 4. **repairing** · 5. **booked**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Necessity vocab? → *yes / none*
-12. needn't + to OK? → *False / True*
-13. Course → */curso-b1/unit-49*
-14. needn't have = past unnecessary? → *True / False*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar need / needn't / needn't have + necessity.*
+8. Copia una frase (o trozo) con **need**.
+9. Copia una frase (o trozo) con **needn't**.
+10. Copia una frase (o trozo) con **needn't**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **necessary, unnecessary, essential** · 12. **False** · 13. **/curso-b1/unit-49** · 14. **True** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar need / needn't / needn't have + necessity.*).  
+7. **practicar need / needn't / needn't have + necessity.**  
+8. Copia del texto algo con *need* (ej.: «You needn't hurry — we have time.»).  
+9. Copia del texto algo con *needn't*.  
+10. Copia del texto algo con *needn't*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar need / needn't / needn't have + necessity.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar need / needn't / needn't have + necessity.*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-49](/curso-b1/unit-49)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-49-need-neednt-necessity) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar need / needn't / needn't have + necessity.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar need / needn't / needn't have + necessity.*).  
+14. **/curso-b1/unit-49**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Iris on necessity
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar need / needn't / needn't have + necessity.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-49/listening-workbook.mp3" title="🔊 Listening: Iris on necessity"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Iris. You needn't hurry — we have time. I need to buy a ticket. She needn't have bought a new one. This needs repairing urgently. We needn't have booked the table.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Iris / Gina / Hugo*
-2. ___ hurry → *needn't / need*
-3. Need ___ buy → *to / -*
-4. Needn't ___ bought → *have / to*
-5. Needs ___ urgently → *repairing / repair*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: You needn't ___ — we have time.  
+4. Completa: I need to buy a ___.  
+5. Completa: She needn't have ___ a new one.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Iris** · 2. **needn't** · 3. **to** · 4. **have** · 5. **repairing**
+1. **Iris**  
+2. **Iris**  
+3. **hurry**  
+4. **ticket**  
+5. **bought**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Main grammar? → *necessity / preference*
-7. Find needn't
-8. Find need to
-9. Find needn't have
-10. Write needs repairing…
+6. Completa: This needs ___ urgently.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Iris.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **need/needn't** · 7. **needn't hurry** · 8. **need to buy a ticket** · 9. **needn't have booked** · 10. **Model OK**
+6. **repairing**  
+7. **practicar need / needn't / needn't have + necessity.**  
+8. «You needn't hurry — we have time.»  
+9. «I need to buy a ticket.»  
+10. Modelo: Iris habla usando *practicar need / needn't / needn't have + necessity.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Necessity words? → *yes / none*
-12. Shadow
-13. needn't + to? → *False / True*
-14. Course → */curso-b1/unit-49*
-15. needn't have → *yes / no*
-16. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar need / needn't / needn't have + necessity.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar need / needn't / needn't have + necessity.*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **necessary, essential** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-49** · 15. **yes** · 16. **yes**
+11. Modelo: crea una frase natural con *practicar need / needn't / needn't have + necessity.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-49-need-neednt-necessity).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *need / needn't / needn't have + necessity*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× needn't + 2× need to + 1× need + -ing.
 2. Completa: You ___ hurry.
@@ -299,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Necesito comprar un billete.
 13. Explica needn't vs don't need to en 1 frase.
 14. Escribe 1× essential.
-15. Autochequeo: needn't sin to; need to con to.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open five.
-2. **needn't**
-3. **to**
-4. **have**
-5. **repairing**
-6. needn't **hurry**
-7. need **to** buy
-8. Open.
-9. OK.
-10. Open.
-11. You needn't hurry.
-12. I need to buy a ticket.
-13. Similar meaning; needn't more formal/modal.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *need / needn't / needn't have + necessity*.
+2. Completa según la regla de *need / needn't / needn't have + necessity* (mira la teoría si dudas).
+3. Completa según la regla de *need / needn't / needn't have + necessity* (mira la teoría si dudas).
+4. Completa según la regla de *need / needn't / needn't have + necessity* (mira la teoría si dudas).
+5. Completa según la regla de *need / needn't / needn't have + necessity* (mira la teoría si dudas).
+6. Corrige: *You needn't to hurry.* → forma correcta con *need / needn't / needn't have + necessity*.
+7. Corrige: *I need buy a ticket.* → forma correcta con *need / needn't / needn't have + necessity*.
+8. Modelo libre correcto con *need / needn't / needn't have + necessity*.
+9. Modelo libre correcto con *need / needn't / needn't have + necessity*.
+10. Respuesta abierta — revisa que aparezca *need / needn't / needn't have + necessity*.
+11. Traduce al inglés usando *need / needn't / needn't have + necessity*.
+12. Traduce al inglés usando *need / needn't / needn't have + necessity*.
+13. Explicación breve en 1 frase (concepto clave de *need / needn't / needn't have + necessity*).
+14. Modelo libre correcto con *need / needn't / needn't have + necessity*.
+15. Autochequeo: ¿puedes explicar *need / needn't / needn't have + necessity* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-49-need-neednt-necessity).
 
 </details>
 
----
 
 ## Cómo seguir
 

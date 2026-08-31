@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 55 del curso B1** (*Repaso 5
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *conditionals, passive/reported, modals, tenses (mix U51–54)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-55-repaso-51-54).
+
 ![Repaso 51–54](/blog/curso-b1/unit-55/review-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** conditionals, passive/reported, modals, tenses (mix U51–54)
+**Objetivo:** practicar conditionals, passive/reported, modals, tenses (mix U51–54).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. If I ___ known, I would have told you. → *had / have / would*
 2. The email ___ sent yesterday. → *was / is / has been*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. If I had known → ___ → *third conditional / first / passive*
 2. was sent → ___ → *passive / modal / conditional*
 3. would call → ___ → *reported / conditional / tense*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *If I would have known…*
 2. *The email is sent yesterday.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** mixed topics (mix)
+**Objetivo:** mixed topics (mix).
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. conditionals / passive / modals / tenses → *repaso mix · wrong · single*
 2. third conditional → *pasado irreal · passive · PP*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. If I had known → ___ → *third / first / passive*
 2. was sent → ___ → *passive / conditional / modal*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-55-repaso-51-54).
-15. Continúa en la [Unidad 55 del curso](/curso-b1/unit-55).
+Completa con una de estas palabras: *conditionals / passive / modals / tenses* · *third conditional* · *reported speech* · *needn't* · *have been working*
+
+11. Write a short sentence with **conditionals / passive / modals / tenses** and the grammar focus (*conditionals, passive/reported, modals, tenses (mix U51–54)*).  
+12. Write a short sentence with **third conditional**.  
+13. Write a short sentence with **reported speech**.  
+14. Choose the best word for this idea: «no necesidad» → **needn't** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-55-repaso-51-54).  
+15. Practise aloud, then continue in the [Unidad 55 del curso](/curso-b1/unit-55).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-55**
+11. Modelo: usa **conditionals / passive / modals / tenses** en una frase natural con *conditionals, passive/reported, modals, tenses (mix U51–54)*.  
+12. Modelo: usa **third conditional** en una frase corta.  
+13. Modelo: usa **reported speech** en una frase corta.  
+14. **needn't** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-55**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Mixed review
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar conditionals, passive/reported, modals, tenses (mix U51–54).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-55/reading-workbook.mp3" title="🔊 Reading: Mixed review"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > If I had known, I would have told you. The email was sent yesterday. She said she would call back. You needn't worry. I have been working here for five years.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. If I ___ known? → *had / have*
-2. Email ___ sent? → *was / is*
-3. She said she ___ call? → *would / will*
-4. ___ worry? → *needn't / must*
-5. ___ been working five years? → *have / has*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **had** · 2. **was** · 3. **would** · 4. **needn't** · 5. **have**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Classify conditional → *third / passive*
-7. Classify passive → *passive / modal*
-8. Classify reported → *reported / tense*
-9. Classify needn't → *no necessity / deduction*
-10. Classify PP continuous → *tense / conditional*
+1. If I had ___, I would have told you.
+2. The email was sent ___.
+3. She said she ___ call back.
+4. You needn't ___.
+5. I have been ___ here for five years.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **third** · 7. **passive** · 8. **reported** · 9. **no necessity** · 10. **tense**
+1. **known** · 2. **yesterday** · 3. **would** · 4. **worry** · 5. **working**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Write 1× each area
-12. Mixed U51-54? → *Yes / No*
-13. Course → */curso-b1/unit-55*
-14. Module 6 first half? → *Yes / No*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar conditionals, passive/reported, modals, tenses (mix U51–54).*
+8. Copia una frase (o trozo) con **the main grammar structure**.
+9. Copia una frase (o trozo) con **the main grammar structure**.
+10. Copia una frase (o trozo) con **the main grammar structure**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **Yes** · 13. **/curso-b1/unit-55** · 14. **Yes** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar conditionals, passive/reported, modals, tenses (mix U51–54).*).  
+7. **practicar conditionals, passive/reported, modals, tenses (mix U51–54).**  
+8. Copia del texto algo con *the main grammar structure* (ej.: «If I had known, I would have told you.»).  
+9. Copia del texto algo con *the main grammar structure*.  
+10. Copia del texto algo con *the main grammar structure*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar conditionals, passive/reported, modals, tenses (mix U51–54).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *The email sent yesterday*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-55](/curso-b1/unit-55)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-55-repaso-51-54) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar conditionals, passive/reported, modals, tenses (mix U51–54).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar conditionals, passive/reported, modals, tenses (mix U51–54).*).  
+14. **/curso-b1/unit-55**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Olivia's mixed review
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar conditionals, passive/reported, modals, tenses (mix U51–54).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-55/listening-workbook.mp3" title="🔊 Listening: Olivia's mixed review"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Olivia. If I had known, I would have told you. The email was sent yesterday. She said she would call back. You needn't worry. I have been working here for five years.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Olivia / Kate / Mia*
-2. If I ___ known → *had / have*
-3. Email ___ sent → *was / is*
-4. She said she ___ call → *would / will*
-5. ___ worry → *needn't / must*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: If I had ___, I would have told you.  
+4. Completa: The email was sent ___.  
+5. Completa: She said she ___ call back.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Olivia** · 2. **had** · 3. **was** · 4. **would** · 5. **needn't**
+1. **Olivia**  
+2. **Olivia**  
+3. **known**  
+4. **yesterday**  
+5. **would**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Classify conditional → *third / passive*
-7. Classify passive → *passive / modal*
-8. Classify reported → *reported / tense*
-9. Classify needn't → *no necessity / deduction*
-10. Write 1× each
+6. Completa: You needn't ___.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Olivia.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **third** · 7. **passive** · 8. **reported** · 9. **no necessity** · 10. **Model OK**
+6. **worry**  
+7. **practicar conditionals, passive/reported, modals, tenses (mix U51–54).**  
+8. «If I had known, I would have told you.»  
+9. «The email was sent yesterday.»  
+10. Modelo: Olivia habla usando *practicar conditionals, passive/reported, modals, tenses (mix U51–54).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Shadow
-12. Mixed U51-54? → *Yes / No*
-13. Course → */curso-b1/unit-55*
-14. Module 6 U51-55? → *Yes / No*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar conditionals, passive/reported, modals, tenses (mix U51–54).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *The email sent yesterday*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **done** · 12. **Yes** · 13. **/curso-b1/unit-55** · 14. **Yes** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar conditionals, passive/reported, modals, tenses (mix U51–54).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-55-repaso-51-54).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *conditionals, passive/reported, modals, tenses (mix U51–54)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Una frase: conditional, passive, reported, modal, tense.
 2. Completa: If I ___ known, I would have told you.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Si lo hubiera sabido, te lo habría dicho.
 13. Traduce: No necesitas preocuparte.
 14. Autochequeo con mapa U55.
-15. Open Ver solución checklist.
+15. Autochequeo: revisa tus respuestas y abre «Ver solución» solo al final.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open one of each.
-2. **had**
-3. **was**
-4. **would**
-5. **needn't**
-6. **have**
-7. If I **had known**…
-8. You **needn't worry**.
-9. I **have been working** here for five years.
-10. Open mixed.
-11. OK.
-12. If I had known, I would have told you.
-13. You needn't worry.
-14. Self-check.
-15. yes.
+1. Modelo OK con *conditionals, passive/reported, modals, tenses (mix U51–54)*.
+2. Completa según la regla de *conditionals, passive/reported, modals, tenses (mix U51–54)* (mira la teoría si dudas).
+3. Completa según la regla de *conditionals, passive/reported, modals, tenses (mix U51–54)* (mira la teoría si dudas).
+4. Completa según la regla de *conditionals, passive/reported, modals, tenses (mix U51–54)* (mira la teoría si dudas).
+5. Completa según la regla de *conditionals, passive/reported, modals, tenses (mix U51–54)* (mira la teoría si dudas).
+6. Completa según la regla de *conditionals, passive/reported, modals, tenses (mix U51–54)* (mira la teoría si dudas).
+7. Corrige: *If I would have known…* → forma correcta con *conditionals, passive/reported, modals, tenses (mix U51–54)*.
+8. Corrige: *You needn't to worry.* → forma correcta con *conditionals, passive/reported, modals, tenses (mix U51–54)*.
+9. Corrige: *I have working here for five years.* → forma correcta con *conditionals, passive/reported, modals, tenses (mix U51–54)*.
+10. Respuesta abierta — revisa que aparezca *conditionals, passive/reported, modals, tenses (mix U51–54)*.
+11. Modelo OK con *conditionals, passive/reported, modals, tenses (mix U51–54)*.
+12. Traduce al inglés usando *conditionals, passive/reported, modals, tenses (mix U51–54)*.
+13. Traduce al inglés usando *conditionals, passive/reported, modals, tenses (mix U51–54)*.
+14. Autochequeo: ¿puedes explicar *conditionals, passive/reported, modals, tenses (mix U51–54)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-55-repaso-51-54).
+15. Modelo OK con *conditionals, passive/reported, modals, tenses (mix U51–54)*.
 
 </details>
 
----
 
 ## Cómo seguir
 

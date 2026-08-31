@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 59 del curso B1** (*Exam Pre
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *PET/B1 exam strategies + mixed grammar in exam context*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-59-exam-preparation-strategies).
+
 ![Exam Preparation](/blog/curso-b1/unit-59/exam-strategies-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** PET/B1 exam strategies + mixed grammar in exam context
+**Objetivo:** practicar PET/B1 exam strategies + mixed grammar in exam context.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. If you ___ hard, you will pass. → *study / studied / had studied*
 2. You ___ read the instructions. → *should / must / might*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. If + present → will = ___ → *first / second / third*
 2. should ≈ ___ → *advice / deduction / passive*
 3. have been + -ing = ___ → *PP continuous / past perfect / passive*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *If you will study hard…*
 2. *You must to read the instructions.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** exam strategies
+**Objetivo:** exam strategies.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. instructions → *instrucciones · answers · results*
 2. time limit → *límite de tiempo · break · score*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. skim ≈ ___ → *lectura rápida general / escanear detalle / escribir*
 2. scan ≈ ___ → *buscar información específica / leer todo / adivinar*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-59-exam-preparation-strategies).
-15. Continúa en la [Unidad 59 del curso](/curso-b1/unit-59).
+Completa con una de estas palabras: *instructions* · *time limit* · *multiple choice* · *check* · *calm*
+
+11. Write a short sentence with **instructions** and the grammar focus (*PET/B1 exam strategies + mixed grammar in exam context*).  
+12. Write a short sentence with **time limit**.  
+13. Write a short sentence with **multiple choice**.  
+14. Choose the best word for this idea: «revisar» → **check** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-59-exam-preparation-strategies).  
+15. Practise aloud, then continue in the [Unidad 59 del curso](/curso-b1/unit-59).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-59**
+11. Modelo: usa **instructions** en una frase natural con *PET/B1 exam strategies + mixed grammar in exam context*.  
+12. Modelo: usa **time limit** en una frase corta.  
+13. Modelo: usa **multiple choice** en una frase corta.  
+14. **check** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-59**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Exam tips
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar PET/B1 exam strategies + mixed grammar in exam context.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-59/reading-workbook.mp3" title="🔊 Reading: Exam tips"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > If you study hard, you will pass the exam. You should read the instructions carefully. I have been practising for three months. If I had had more time, I would have checked my answers. The exam is taken by hundreds of students every year.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. If you ___ hard? → *study / studied*
-2. ___ read instructions? → *should / must*
-3. ___ been practising? → *have / has*
-4. If I ___ had time? → *had / have*
-5. Exam ___ taken? → *is / was*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **study** · 2. **should** · 3. **have** · 4. **had** · 5. **is**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main focus? → *exam / sport*
-7. Find first conditional
-8. Find third
-9. Exam tip?
-10. Write should + advice
+1. If you ___ hard, you will pass the exam.
+2. You should read the ___ carefully.
+3. I have been ___ for three months.
+4. If I had had more time, I would have ___ my answers.
+5. The exam is taken by ___ of students every year.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **exam prep** · 7. **If you study you will pass** · 8. **had had would have checked** · 9. **read instructions / manage time** · 10. **Model OK**
+1. **study** · 2. **instructions** · 3. **practising** · 4. **checked** · 5. **hundreds**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. PET = B1? → *True / False*
-12. Shadow
-13. Course → */curso-b1/unit-59*
-14. stay calm tip? → *yes / no*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar PET/B1 exam strategies + mixed grammar in exam context.*
+8. Copia una frase (o trozo) con **exam**.
+9. Copia una frase (o trozo) con **exam**.
+10. Copia una frase (o trozo) con **exam**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **True** · 12. **done** · 13. **/curso-b1/unit-59** · 14. **yes** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar PET/B1 exam strategies + mixed grammar in exam context.*).  
+7. **practicar PET/B1 exam strategies + mixed grammar in exam context.**  
+8. Copia del texto algo con *exam* (ej.: «If you study hard, you will pass the exam.»).  
+9. Copia del texto algo con *exam*.  
+10. Copia del texto algo con *exam*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar PET/B1 exam strategies + mixed grammar in exam context.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar PET/B1 exam strategies + mixed grammar in exam context.*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-59](/curso-b1/unit-59)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-59-exam-preparation-strategies) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar PET/B1 exam strategies + mixed grammar in exam context.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar PET/B1 exam strategies + mixed grammar in exam context.*).  
+14. **/curso-b1/unit-59**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Tina on the exam
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar PET/B1 exam strategies + mixed grammar in exam context.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-59/listening-workbook.mp3" title="🔊 Listening: Tina on the exam"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Tina. If you study hard, you will pass the exam. You should read the instructions carefully. I have been practising for three months. If I had had more time, I would have checked my answers. The exam is taken by hundreds of students every year.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Tina / Rachel / Mia*
-2. If you ___ hard → *study / studied*
-3. ___ read instructions → *should / must*
-4. ___ been practising → *have / has*
-5. Exam ___ taken → *is / was*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: If you ___ hard, you will pass the exam.  
+4. Completa: You should read the ___ carefully.  
+5. Completa: I have been ___ for three months.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Tina** · 2. **study** · 3. **should** · 4. **have** · 5. **is**
+1. **Tina**  
+2. **Tina**  
+3. **study**  
+4. **instructions**  
+5. **practising**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Main focus? → *exam / sport*
-7. Find first
-8. Find third
-9. Exam strategy?
-10. Write should
+6. Completa: If I had had more time, I would have ___ my answers.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Tina.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **exam** · 7. **If you study you will pass** · 8. **had had would have checked** · 9. **read instructions** · 10. **Model OK**
+6. **checked**  
+7. **practicar PET/B1 exam strategies + mixed grammar in exam context.**  
+8. «If you study hard, you will pass the exam.»  
+9. «You should read the instructions carefully.»  
+10. Modelo: Tina habla usando *practicar PET/B1 exam strategies + mixed grammar in exam context.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. PET level? → *B1 / A2*
-12. Shadow
-13. manage time? → *yes / no*
-14. Course → */curso-b1/unit-59*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar PET/B1 exam strategies + mixed grammar in exam context.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar PET/B1 exam strategies + mixed grammar in exam context.*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **B1** · 12. **done** · 13. **yes** · 14. **/curso-b1/unit-59** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar PET/B1 exam strategies + mixed grammar in exam context.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-59-exam-preparation-strategies).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *PET/B1 exam strategies + mixed grammar in exam context*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 3 exam tips + 3 grammar sentences.
 2. Completa: If you ___ hard, you will pass.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Llevo tres meses practicando.
 13. Explica skim vs scan.
 14. Escribe 1× must (exam obligation).
-15. Autochequeo: time markers en cada frase.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open tips + grammar.
-2. **study**
-3. **should**
-4. **have**
-5. **had**
-6. **is**
-7. If you **study** hard…
-8. If I **had had** more time…
-9. Open three tips.
-10. Open.
-11. You should read the instructions carefully.
-12. I have been practising for three months.
-13. Skim=general idea; scan=find detail.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *PET/B1 exam strategies + mixed grammar in exam context*.
+2. Completa según la regla de *PET/B1 exam strategies + mixed grammar in exam context* (mira la teoría si dudas).
+3. Completa según la regla de *PET/B1 exam strategies + mixed grammar in exam context* (mira la teoría si dudas).
+4. Completa según la regla de *PET/B1 exam strategies + mixed grammar in exam context* (mira la teoría si dudas).
+5. Completa según la regla de *PET/B1 exam strategies + mixed grammar in exam context* (mira la teoría si dudas).
+6. Completa según la regla de *PET/B1 exam strategies + mixed grammar in exam context* (mira la teoría si dudas).
+7. Corrige: *If you will study hard…* → forma correcta con *PET/B1 exam strategies + mixed grammar in exam context*.
+8. Corrige: *If I would have had more time…* → forma correcta con *PET/B1 exam strategies + mixed grammar in exam context*.
+9. Modelo OK con *PET/B1 exam strategies + mixed grammar in exam context*.
+10. Respuesta abierta — revisa que aparezca *PET/B1 exam strategies + mixed grammar in exam context*.
+11. Traduce al inglés usando *PET/B1 exam strategies + mixed grammar in exam context*.
+12. Traduce al inglés usando *PET/B1 exam strategies + mixed grammar in exam context*.
+13. Explicación breve en 1 frase (concepto clave de *PET/B1 exam strategies + mixed grammar in exam context*).
+14. Modelo libre correcto con *PET/B1 exam strategies + mixed grammar in exam context*.
+15. Autochequeo: ¿puedes explicar *PET/B1 exam strategies + mixed grammar in exam context* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-59-exam-preparation-strategies).
 
 </details>
 
----
 
 ## Cómo seguir
 

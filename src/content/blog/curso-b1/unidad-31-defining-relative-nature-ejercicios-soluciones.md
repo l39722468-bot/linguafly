@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 31 del curso B1** (*Defining
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *defining relative clauses (who/which/that)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-31-defining-relative-nature).
+
 ![Defining Relative & Nature](/blog/curso-b1/unit-31/defining-relative.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** defining relative clauses (who/which/that)
+**Objetivo:** practicar defining relative clauses (who/which/that).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. The woman ___ lives next door is a vet. → *who / which / where*
 2. The book ___ I bought is interesting. → *which / who / whose*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. Anyone ___ loves wildlife should visit. → *who / which / where*
 2. The river ___ flows through the valley is clean. → *which / who / whose*
 3. The man ___ saw the bear reported it. → *who / which / where*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *The woman which lives next door…*
 2. *Animals who live in the wild…*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** the natural world
+**Objetivo:** the natural world.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. wildlife → *fauna · bank · bored*
 2. landscape → *paisaje · recycle · tag*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. who → ___ → *people / things only / commas*
 2. which/that → ___ → *things/animals / people only / tags*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-31-defining-relative-nature).
-15. Continúa en la [Unidad 31 del curso](/curso-b1/unit-31).
+Completa con una de estas palabras: *wildlife* · *landscape* · *eagle* · *forest* · *bear*
+
+11. Write a short sentence with **wildlife** and the grammar focus (*defining relative clauses (who/which/that)*).  
+12. Write a short sentence with **landscape**.  
+13. Write a short sentence with **eagle**.  
+14. Choose the best word for this idea: «bosque» → **forest** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-31-defining-relative-nature).  
+15. Practise aloud, then continue in the [Unidad 31 del curso](/curso-b1/unit-31).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-31**
+11. Modelo: usa **wildlife** en una frase natural con *defining relative clauses (who/which/that)*.  
+12. Modelo: usa **landscape** en una frase corta.  
+13. Modelo: usa **eagle** en una frase corta.  
+14. **forest** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-31**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: In the wild
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar defining relative clauses (who/which/that).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-31/reading-workbook.mp3" title="🔊 Reading: In the wild"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > The woman who lives next door is a vet. Animals that live in the wild are free. The landscape that we visited was breathtaking. The bird which I saw was an eagle. Anyone who loves wildlife should visit this park.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Woman who lives next door? → *vet / teacher*
-2. Animals that live ___ → *wild / bank*
-3. Landscape was ___ → *breathtaking / boring*
-4. Bird was an ___ → *eagle / cafe*
-5. Anyone who loves ___ → *wildlife / plastic*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **a vet** · 2. **in the wild** · 3. **breathtaking** · 4. **eagle** · 5. **wildlife**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *defining / tags*
-7. Find who
-8. Find that/which
-9. Find landscape that
-10. Write who…
+1. The ___ who lives next door is a vet.
+2. ___ that live in the wild are free.
+3. The landscape that we visited was ___.
+4. The bird ___ I saw was an eagle.
+5. Anyone who loves ___ should visit this park.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **defining relative** · 7. **woman who lives** · 8. **animals that / bird which** · 9. **landscape that we visited** · 10. **Model OK**
+1. **woman** · 2. **Animals** · 3. **breathtaking** · 4. **which** · 5. **wildlife**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Nature vocab? → *yes / none*
-12. which for people? → *False / True*
-13. Course → */curso-b1/unit-31*
-14. Omit object relative? → *Yes / No*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar defining relative clauses (who/which/that).*
+8. Copia una frase (o trozo) con **which**.
+9. Copia una frase (o trozo) con **that**.
+10. Copia una frase (o trozo) con **that**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **vet, wild, landscape, eagle, wildlife, park** · 12. **False** · 13. **/curso-b1/unit-31** · 14. **Yes possible** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar defining relative clauses (who/which/that).*).  
+7. **practicar defining relative clauses (who/which/that).**  
+8. Copia del texto algo con *which* (ej.: «The woman who lives next door is a vet.»).  
+9. Copia del texto algo con *that*.  
+10. Copia del texto algo con *that*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar defining relative clauses (who/which/that).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar defining relative clauses (who/which/that).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-31](/curso-b1/unit-31)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-31-defining-relative-nature) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar defining relative clauses (who/which/that).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar defining relative clauses (who/which/that).*).  
+14. **/curso-b1/unit-31**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Sam in the park
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar defining relative clauses (who/which/that).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-31/listening-workbook.mp3" title="🔊 Listening: Sam in the park"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Sam. The woman who lives next door is a vet. Animals that live in the wild are free. The landscape that we visited was breathtaking. The bird which I saw was an eagle. Anyone who loves wildlife should visit this park.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Sam / Tina / Wendy*
-2. Woman is a ___ → *vet / doctor*
-3. Animals live ___ → *wild / bank*
-4. Landscape was ___ → *breathtaking / boring*
-5. Bird was an ___ → *eagle / cafe*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: The ___ who lives next door is a vet.  
+4. Completa: ___ that live in the wild are free.  
+5. Completa: The landscape that we visited was ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Sam** · 2. **vet** · 3. **in the wild** · 4. **breathtaking** · 5. **eagle**
+1. **Sam**  
+2. **Sam**  
+3. **woman**  
+4. **Animals**  
+5. **breathtaking**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Loves ___ → *wildlife / plastic*
-7. Grammar? → *defining / tags*
-8. Find who
-9. Find that/which
-10. Write who…
+6. Completa: The bird ___ I saw was an eagle.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Sam.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **wildlife** · 7. **defining relative** · 8. **woman who lives** · 9. **animals that / bird which** · 10. **Model OK**
+6. **which**  
+7. **practicar defining relative clauses (who/which/that).**  
+8. «The woman who lives next door is a vet.»  
+9. «Animals that live in the wild are free.»  
+10. Modelo: Sam habla usando *practicar defining relative clauses (who/which/that).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Nature words? → *yes / none*
-12. Shadow
-13. which for people? → *False / True*
-14. Course → */curso-b1/unit-31*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar defining relative clauses (who/which/that).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar defining relative clauses (who/which/that).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **vet, wild, landscape, eagle, wildlife, park** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-31** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar defining relative clauses (who/which/that).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-31-defining-relative-nature).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *defining relative clauses (who/which/that)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 2× who + 2× which/that.
 2. Completa: The woman ___ lives…
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: El pájaro que vi…
 13. Pregunta Which…? + relative.
 14. Escribe 1× that omitible (objeto).
-15. Autochequeo: people→who; things→which/that.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open 2+2.
-2. **who**
-3. **which/that**
-4. **that/which**
-5. **which/that**
-6. **who/that**
-7. **that/which**
-8. Open.
-9. OK.
-10. Open paragraph.
-11. The woman who lives next door…
-12. The bird which/that I saw…
-13. Open.
-14. The book (that) I bought…
-15. Self-check.
+1. Modelo libre correcto con *defining relative clauses (who/which/that)*.
+2. Completa según la regla de *defining relative clauses (who/which/that)* (mira la teoría si dudas).
+3. Completa según la regla de *defining relative clauses (who/which/that)* (mira la teoría si dudas).
+4. Completa según la regla de *defining relative clauses (who/which/that)* (mira la teoría si dudas).
+5. Completa según la regla de *defining relative clauses (who/which/that)* (mira la teoría si dudas).
+6. Corrige: *The woman which lives…* → forma correcta con *defining relative clauses (who/which/that)*.
+7. Corrige: *Animals who live…* → forma correcta con *defining relative clauses (who/which/that)*.
+8. Modelo libre correcto con *defining relative clauses (who/which/that)*.
+9. Modelo libre correcto con *defining relative clauses (who/which/that)*.
+10. Respuesta abierta — revisa que aparezca *defining relative clauses (who/which/that)*.
+11. Traduce al inglés usando *defining relative clauses (who/which/that)*.
+12. Traduce al inglés usando *defining relative clauses (who/which/that)*.
+13. Modelo libre correcto con *defining relative clauses (who/which/that)*.
+14. Modelo libre correcto con *defining relative clauses (who/which/that)*.
+15. Autochequeo: ¿puedes explicar *defining relative clauses (who/which/that)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-31-defining-relative-nature).
 
 </details>
 
----
 
 ## Cómo seguir
 

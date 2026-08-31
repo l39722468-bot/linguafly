@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 25 del curso B1** (*Repaso 2
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *gerund/infinitive y phrasal verbs (mix U21–24)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-25-repaso-21-24).
+
 ![Repaso 21–24](/blog/curso-b1/unit-25/review-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** gerund/infinitive y phrasal verbs (mix U21–24)
+**Objetivo:** practicar gerund/infinitive y phrasal verbs (mix U21–24).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I enjoy ___. → *cycling / to cycle / cycle*
 2. She wants ___ a sofa. → *to buy / buying / buy*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. Don't give ___. → *up / out / in*
 2. Turn ___ the lights. → *off / after / into*
 3. We finished ___. → *painting / to paint / paint*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *I enjoy to cycle.*
 2. *She wants buying a sofa.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** hobbies, house, daily activities, shopping (mix)
+**Objetivo:** hobbies, house, daily activities, shopping (mix).
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. hiking → *senderismo · recibo · nevera*
 2. fridge → *nevera · discount · hurry*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. enjoy + ___ → *-ing / to / off*
 2. want + ___ → *to / -ing / after*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-25-repaso-21-24).
-15. Continúa en la [Unidad 25 del curso](/curso-b1/unit-25).
+Completa con una de estas palabras: *hiking* · *fridge* · *receipt* · *look after* · *find out*
+
+11. Write a short sentence with **hiking** and the grammar focus (*gerund/infinitive y phrasal verbs (mix U21–24)*).  
+12. Write a short sentence with **fridge**.  
+13. Write a short sentence with **receipt**.  
+14. Choose the best word for this idea: «cuidar» → **look after** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-25-repaso-21-24).  
+15. Practise aloud, then continue in the [Unidad 25 del curso](/curso-b1/unit-25).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-25**
+11. Modelo: usa **hiking** en una frase natural con *gerund/infinitive y phrasal verbs (mix U21–24)*.  
+12. Modelo: usa **fridge** en una frase corta.  
+13. Modelo: usa **receipt** en una frase corta.  
+14. **look after** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-25**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Mixed review
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar gerund/infinitive y phrasal verbs (mix U21–24).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-25/reading-workbook.mp3" title="🔊 Reading: Mixed review"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I enjoy cycling and I want to buy a new bike. Remember to turn off the lights before you leave. Please fill in the form and hand it in at the desk. I found out the shop gives discounts on Monday so I won't give up looking for a bargain.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Enjoy ___ → *cycling / sleeping only*
-2. Want to buy ___ → *bike / fridge only*
-3. Remember to ___ → *turn off lights / swim*
-4. Fill in the ___ → *form / garden*
-5. Hand it in at the ___ → *desk / cinema*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **cycling** · 2. **a new bike** · 3. **turn off the lights** · 4. **form** · 5. **desk**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Found out discounts on ___ → *Monday / never*
-7. Won't give up looking for a ___ → *bargain / storm*
-8. Find gerund
-9. Find infinitive
-10. Find phrasal daily
+1. I enjoy ___ and I want to buy a new bike.
+2. ___ to turn off the lights before you leave.
+3. ___ fill in the form and hand it in at the desk.
+4. I found out the shop gives ___ on Monday so I won't give up looking for a bargain.
+5. I found out the shop gives discounts on Monday so I won't give up looking for a ___.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **Monday** · 7. **bargain** · 8. **enjoy cycling** · 9. **want to buy / Remember to turn** · 10. **turn off**
+1. **cycling** · 2. **Remember** · 3. **Please** · 4. **discounts** · 5. **bargain**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Find phrasal shopping
-12. Write 1× each block
-13. Mixed review? → *Yes / No*
-14. Course link → */curso-b1/unit-25*
-15. Main idea? → *mixed / only A1*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar gerund/infinitive y phrasal verbs (mix U21–24).*
+8. Copia una frase (o trozo) con **the main grammar structure**.
+9. Copia una frase (o trozo) con **the main grammar structure**.
+10. Copia una frase (o trozo) con **the main grammar structure**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **fill in / hand in / found out / give up** · 12. **Model OK** · 13. **Yes** · 14. **/curso-b1/unit-25** · 15. **gerunds + phrasals together**
+6. Modelo: resume el texto en tus palabras (tema + *practicar gerund/infinitive y phrasal verbs (mix U21–24).*).  
+7. **practicar gerund/infinitive y phrasal verbs (mix U21–24).**  
+8. Copia del texto algo con *the main grammar structure* (ej.: «I enjoy cycling and I want to buy a new bike.»).  
+9. Copia del texto algo con *the main grammar structure*.  
+10. Copia del texto algo con *the main grammar structure*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar gerund/infinitive y phrasal verbs (mix U21–24).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *I enjoy to swim*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-25](/curso-b1/unit-25)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-25-repaso-21-24) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar gerund/infinitive y phrasal verbs (mix U21–24).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar gerund/infinitive y phrasal verbs (mix U21–24).*).  
+14. **/curso-b1/unit-25**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Elena's mixed review
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar gerund/infinitive y phrasal verbs (mix U21–24).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-25/listening-workbook.mp3" title="🔊 Listening: Elena's mixed review"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Elena. I enjoy cycling. She wants to buy a new sofa. Remember to turn off the lights. Please fill in the form and hand it in. I found out the shop gives discounts on Monday.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Elena / Diego / Ben*
-2. Enjoy ___ → *cycling / cooking only*
-3. Wants to buy ___ → *sofa / ticket*
-4. Remember to ___ → *turn off / swim*
-5. Fill in + hand in → *form / receipt*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I enjoy ___.  
+4. Completa: She ___ to buy a new sofa.  
+5. Completa: ___ to turn off the lights.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Elena** · 2. **cycling** · 3. **a new sofa** · 4. **turn off the lights** · 5. **form / it in**
+1. **Elena**  
+2. **Elena**  
+3. **cycling**  
+4. **wants**  
+5. **Remember**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Found out discounts on ___ → *Monday / never*
-7. Classify enjoy cycling → *gerund / phrasal / to*
-8. Classify wants to buy → *infinitive / phrasal*
-9. Classify turn off → *phrasal 1 / gerund*
-10. Classify fill in / find out → *phrasal 2 / passive*
+6. Completa: ___ fill in the form and hand it in.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Elena.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **Monday** · 7. **gerund** · 8. **infinitive** · 9. **phrasal 1** · 10. **phrasal 2**
+6. **Please**  
+7. **practicar gerund/infinitive y phrasal verbs (mix U21–24).**  
+8. «I enjoy cycling.»  
+9. «She wants to buy a new sofa.»  
+10. Modelo: Elena habla usando *practicar gerund/infinitive y phrasal verbs (mix U21–24).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write 1× each type
-12. Shadow audio
-13. Mixed review? → *Yes / No*
-14. Course unit → */curso-b1/unit-25*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar gerund/infinitive y phrasal verbs (mix U21–24).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *I enjoy to swim*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **done** · 13. **Yes** · 14. **/curso-b1/unit-25** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar gerund/infinitive y phrasal verbs (mix U21–24).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-25-repaso-21-24).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *gerund/infinitive y phrasal verbs (mix U21–24)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Una frase: enjoy -ing, want to, remember to, turn off, find out, fill in.
 2. Completa: I enjoy ___.
@@ -303,25 +351,24 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 <details>
 <summary>Ver solución</summary>
 
-1. Open — one of each.
-2. **cycling** (etc.)
-3. **to buy**
-4. **to turn**
-5. **in**
-6. **out**
-7. **up**
-8. I enjoy **cycling**.
-9. She wants **to buy** a sofa.
-10. **Fill in** the form.
-11. Open mixed paragraph.
-12. enjoy=-ing; want=to; turn off=daily; find out/fill in=shopping.
-13. I enjoy cycling.
-14. I found out the discount.
-15. Self-check vs review map.
+1. Modelo OK con *gerund/infinitive y phrasal verbs (mix U21–24)*.
+2. Completa según la regla de *gerund/infinitive y phrasal verbs (mix U21–24)* (mira la teoría si dudas).
+3. Completa según la regla de *gerund/infinitive y phrasal verbs (mix U21–24)* (mira la teoría si dudas).
+4. Completa según la regla de *gerund/infinitive y phrasal verbs (mix U21–24)* (mira la teoría si dudas).
+5. Completa según la regla de *gerund/infinitive y phrasal verbs (mix U21–24)* (mira la teoría si dudas).
+6. Completa según la regla de *gerund/infinitive y phrasal verbs (mix U21–24)* (mira la teoría si dudas).
+7. Completa según la regla de *gerund/infinitive y phrasal verbs (mix U21–24)* (mira la teoría si dudas).
+8. Corrige: *I enjoy to cycle.* → forma correcta con *gerund/infinitive y phrasal verbs (mix U21–24)*.
+9. Corrige: *She wants buying a sofa.* → forma correcta con *gerund/infinitive y phrasal verbs (mix U21–24)*.
+10. Corrige: *Fill the form.* → forma correcta con *gerund/infinitive y phrasal verbs (mix U21–24)*.
+11. Respuesta abierta — revisa que aparezca *gerund/infinitive y phrasal verbs (mix U21–24)*.
+12. Modelo OK con *gerund/infinitive y phrasal verbs (mix U21–24)*.
+13. Traduce al inglés usando *gerund/infinitive y phrasal verbs (mix U21–24)*.
+14. Traduce al inglés usando *gerund/infinitive y phrasal verbs (mix U21–24)*.
+15. Autochequeo: ¿puedes explicar *gerund/infinitive y phrasal verbs (mix U21–24)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-25-repaso-21-24).
 
 </details>
 
----
 
 ## Cómo seguir
 

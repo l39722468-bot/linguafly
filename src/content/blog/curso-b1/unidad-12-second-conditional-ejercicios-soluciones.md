@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 12 del curso B1** (*Second C
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *second conditional (if + past, would)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-12-second-conditional).
+
 ![Second conditional](/blog/curso-b1/unit-12/second-conditional.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** second conditional (if + past, would)
+**Objetivo:** practicar second conditional (if + past, would).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. If I ___ a million dollars, I would travel. → *had / have / will have*
 2. If she ___ here, she would help us. → *were / is / will be*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. If we ___ travel back in time, where would we go? → *could / can / will*
 2. In an ideal world, everyone ___ speak two languages. → *would / will / can*
 3. If I ___ more time, I would learn the guitar. → *had / have / will have*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *If I will have time, I would go.*
 2. *If I would be rich, I travel.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** hypothetical situations
+**Objetivo:** hypothetical situations.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. imagine → *imaginar · cancelar · reservar*
 2. wish → *desear · posponer · aterrizar*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. dream ≈ ___ → *sueño / tormenta / billete*
 2. hypothetical ≈ ___ → *hipotético / cierto / pasado real*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-12-second-conditional).
-15. Continúa en la [Unidad 12 del curso](/curso-b1/unit-12).
+Completa con una de estas palabras: *imagine* · *wish* · *ideal* · *fantasy* · *suppose*
+
+11. Write a short sentence with **imagine** and the grammar focus (*second conditional (if + past, would)*).  
+12. Write a short sentence with **wish**.  
+13. Write a short sentence with **ideal**.  
+14. Choose the best word for this idea: «fantasía» → **fantasy** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-12-second-conditional).  
+15. Practise aloud, then continue in the [Unidad 12 del curso](/curso-b1/unit-12).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-12**
+11. Modelo: usa **imagine** en una frase natural con *second conditional (if + past, would)*.  
+12. Modelo: usa **wish** en una frase corta.  
+13. Modelo: usa **ideal** en una frase corta.  
+14. **fantasy** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-12**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Island dream
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar second conditional (if + past, would).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-12/reading-workbook.mp3" title="🔊 Reading: Island dream"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > Imagine if you could live anywhere in the world. Where would you go? If I had the choice, I would choose a small island in the Mediterranean. If money weren't a problem, I would buy a house by the sea. If she were here, she would love this place. In my ideal world, everyone would speak at least two languages. What would you do if you won the lottery?
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Topic? → *island / weather / exam*
-2. Where would narrator go? → *Mediterranean / Tokyo / desert*
-3. If money weren't a problem → ___ → *buy house / cancel / study*
-4. If she were here → ___ → *love / hate / leave*
-5. Ideal world → ___ → *two languages / no school*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **living anywhere / island dream** · 2. **Mediterranean island** · 3. **buy a house by the sea** · 4. **love this place** · 5. **everyone speak two languages**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Lottery question? → *Yes / No*
-7. Main grammar? → *second / first / third*
-8. If I had the choice → ___ → *island / office / bus*
-9. Were with I/she? → *Yes / No*
-10. Find If I had…
+1. Imagine if you could live ___ in the world.
+2. ___ would you go?
+3. If I had the choice, I would choose a small island in the ___.
+4. If money weren't a ___, I would buy a house by the sea.
+5. If she were here, she ___ love this place.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **Yes** · 7. **second conditional** · 8. **small island** · 9. **Yes (were)** · 10. **If I had the choice…**
+1. **anywhere** · 2. **Where** · 3. **Mediterranean** · 4. **problem** · 5. **would**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Underline would ×3.
-12. Write one If I were you…
-13. Key vocab? → *yes / none*
-14. Real plan for tomorrow? → *False / True*
-15. Course link → */curso-b1/unit-12*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar second conditional (if + past, would).*
+8. Copia una frase (o trozo) con **would**.
+9. Copia una frase (o trozo) con **would**.
+10. Copia una frase (o trozo) con **would**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **See text** · 12. **Model OK** · 13. **imagine, ideal, choice** · 14. **False (hypothetical)** · 15. **/curso-b1/unit-12**
+6. Modelo: resume el texto en tus palabras (tema + *practicar second conditional (if + past, would).*).  
+7. **practicar second conditional (if + past, would).**  
+8. Copia del texto algo con *would* (ej.: «Imagine if you could live anywhere in the world.»).  
+9. Copia del texto algo con *would*.  
+10. Copia del texto algo con *would*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar second conditional (if + past, would).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *If I will see her, I will call you*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-12](/curso-b1/unit-12)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-12-second-conditional) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar second conditional (if + past, would).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar second conditional (if + past, would).*).  
+14. **/curso-b1/unit-12**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Chris's hypothetical world
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar second conditional (if + past, would).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-12/listening-workbook.mp3" title="🔊 Listening: Chris's hypothetical world"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Chris. If I had a million dollars, I would travel around the world. If she were here, she would help us with the project. If I were you, I would apologize. What if we could travel back in time? In an ideal world, everyone would speak two languages.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Chris / Anna / Maya*
-2. Million dollars → ___ → *travel / stay home*
-3. If she were here → ___ → *help / leave*
-4. If I were you → ___ → *apologize / shout*
-5. What if…? → *time travel / weather*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: If I had a ___ dollars, I would travel around the world.  
+4. Completa: If she were here, she would help us with the ___.  
+5. Completa: If I were you, I would ___.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Chris** · 2. **travel around the world** · 3. **help with the project** · 4. **apologize** · 5. **travel back in time**
+1. **Chris**  
+2. **Chris**  
+3. **million**  
+4. **project**  
+5. **apologize**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Ideal world → ___ → *two languages / silence*
-7. Grammar? → *second / first / third*
-8. Were with I? → *Yes / No*
-9. Find If I had a million…
-10. Find If I were you…
+6. Completa: What if we could ___ back in time?  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Chris.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **everyone speak two languages** · 7. **second conditional** · 8. **Yes** · 9. **would travel…** · 10. **would apologize**
+6. **travel**  
+7. **practicar second conditional (if + past, would).**  
+8. «If I had a million dollars, I would travel around the world.»  
+9. «If she were here, she would help us with the project.»  
+10. Modelo: Chris habla usando *practicar second conditional (if + past, would).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write What if we could…
-12. Hypothetical vocab? → *yes / none*
-13. Shadow audio
-14. Real lottery win? → *False / True*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar second conditional (if + past, would).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *If I will see her, I will call you*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **ideal world, what if** · 13. **done** · 14. **False (hypothetical)** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar second conditional (if + past, would).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-12-second-conditional).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *second conditional (if + past, would)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 3 frases second conditional (*If I had…, I would…*).
 2. Completa: If I ___ a million dollars, I would travel.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Si tuviera más tiempo, aprendería guitarra.
 13. Pregunta *What would you do if…?* + respuesta.
 14. Escribe 1× *If I were…*
-15. Autochequeo: past en if + would en resultado.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Model: If I had more free time, I would read more.
-2. **had**
-3. **were**
-4. **would**
-5. What if we could live on an island?
-6. In an ideal world, everyone would be kind.
-7. I wish I had more time. Imagine if we could fly.
-8. If I **had** time, I **would** go.
-9. If I **were** rich, I **would** travel.
-10. Open island/city paragraph with would.
-11. If I were you, I would apologize.
-12. If I had more time, I would learn the guitar.
-13. What would you do if you won? — I would travel.
-14. If I were free, I would call you.
-15. Self-check.
+1. Modelo libre correcto con *second conditional (if + past, would)*.
+2. Completa según la regla de *second conditional (if + past, would)* (mira la teoría si dudas).
+3. Completa según la regla de *second conditional (if + past, would)* (mira la teoría si dudas).
+4. Completa según la regla de *second conditional (if + past, would)* (mira la teoría si dudas).
+5. Modelo libre correcto con *second conditional (if + past, would)*.
+6. Modelo libre correcto con *second conditional (if + past, would)*.
+7. Modelo libre correcto con *second conditional (if + past, would)*.
+8. Corrige: *If I will have time, I would go.* → forma correcta con *second conditional (if + past, would)*.
+9. Corrige: *If I would be rich, I travel.* → forma correcta con *second conditional (if + past, would)*.
+10. Respuesta abierta — revisa que aparezca *second conditional (if + past, would)*.
+11. Traduce al inglés usando *second conditional (if + past, would)*.
+12. Traduce al inglés usando *second conditional (if + past, would)*.
+13. Modelo libre correcto con *second conditional (if + past, would)*.
+14. Modelo libre correcto con *second conditional (if + past, would)*.
+15. Autochequeo: ¿puedes explicar *second conditional (if + past, would)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-12-second-conditional).
 
 </details>
 
----
 
 ## Cómo seguir
 

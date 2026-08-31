@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 60 del curso B1** (*Final B1
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *full B1 grammar revision (all modules U1–60)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-60-final-b1-review).
+
 ![Final B1 Review](/blog/curso-b1/unit-60/final-review-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** full B1 grammar revision (all modules U1–60)
+**Objetivo:** practicar full B1 grammar revision (all modules U1–60).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. If water ___ 100°C, it boils. → *reaches / reached / will reach*
 2. The letter ___ sent yesterday. → *was / is / has been*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. If + present → present = ___ → *zero / first / second*
 2. was sent → ___ → *passive / conditional / modal*
 3. would come → ___ → *reported / conditional / tense*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *If water will reach 100°C…*
 2. *The letter is sent yesterday.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** full revision (mix)
+**Objetivo:** full revision (mix).
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. zero conditional → *hecho general · pasado irreal · futuro probable*
 2. reported speech → *estilo indirecto · voz activa · imperativo*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. If water reaches… → ___ → *zero / first / second*
 2. was sent → ___ → *passive / modal / relative*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-60-final-b1-review).
-15. Continúa en la [Unidad 60 del curso](/curso-b1/unit-60).
+Completa con una de estas palabras: *zero conditional* · *reported speech* · *third conditional* · *PP continuous* · *full revision*
+
+11. Write a short sentence with **zero conditional** and the grammar focus (*full B1 grammar revision (all modules U1–60)*).  
+12. Write a short sentence with **reported speech**.  
+13. Write a short sentence with **third conditional**.  
+14. Choose the best word for this idea: «duración hasta ahora» → **PP continuous** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-60-final-b1-review).  
+15. Practise aloud, then continue in the [Unidad 60 del curso](/curso-b1/unit-60).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-60**
+11. Modelo: usa **zero conditional** en una frase natural con *full B1 grammar revision (all modules U1–60)*.  
+12. Modelo: usa **reported speech** en una frase corta.  
+13. Modelo: usa **third conditional** en una frase corta.  
+14. **PP continuous** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-60**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Full B1 review
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar full B1 grammar revision (all modules U1–60).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-60/reading-workbook.mp3" title="🔊 Reading: Full B1 review"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > If water reaches 100 degrees, it boils. The letter was sent yesterday. She told me that she would come the next day. If I were rich, I would travel the world. If I had known earlier, I would have come. I have been living here since 2015.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Water ___ 100°C? → *reaches / reached*
-2. Letter ___ sent? → *was / is*
-3. She ___ me? → *told / said*
-4. If I ___ rich? → *were / was*
-5. ___ been living? → *have / has*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **reaches** · 2. **was** · 3. **told** · 4. **were** · 5. **have**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Classify zero → *zero / first*
-7. Classify passive → *passive / reported*
-8. Classify second → *second / third*
-9. Classify PP continuous → *tense / passive*
-10. Write 1× each type
+1. If water ___ 100 degrees, it boils.
+2. The letter was sent ___.
+3. She told me that she ___ come the next day.
+4. If I were rich, I would ___ the world.
+5. If I had known ___, I would have come.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **zero** · 7. **passive** · 8. **second** · 9. **tense** · 10. **Model OK**
+1. **reaches** · 2. **yesterday** · 3. **would** · 4. **travel** · 5. **earlier**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. B1 complete? → *60 / 55*
-12. Course → */curso-b1/unit-60*
-13. Module 6 complete? → *Yes / No*
-14. Full course B1? → *Yes / No*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar full B1 grammar revision (all modules U1–60).*
+8. Copia una frase (o trozo) con **the main grammar structure**.
+9. Copia una frase (o trozo) con **the main grammar structure**.
+10. Copia una frase (o trozo) con **the main grammar structure**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **60 units** · 12. **/curso-b1/unit-60** · 13. **Yes** · 14. **Yes** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar full B1 grammar revision (all modules U1–60).*).  
+7. **practicar full B1 grammar revision (all modules U1–60).**  
+8. Copia del texto algo con *the main grammar structure* (ej.: «If water reaches 100 degrees, it boils.»).  
+9. Copia del texto algo con *the main grammar structure*.  
+10. Copia del texto algo con *the main grammar structure*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar full B1 grammar revision (all modules U1–60).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar full B1 grammar revision (all modules U1–60).*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-60](/curso-b1/unit-60)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-60-final-b1-review) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar full B1 grammar revision (all modules U1–60).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar full B1 grammar revision (all modules U1–60).*).  
+14. **/curso-b1/unit-60**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Victor's final review
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar full B1 grammar revision (all modules U1–60).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-60/listening-workbook.mp3" title="🔊 Listening: Victor's final review"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Victor. If water reaches 100 degrees, it boils. The letter was sent yesterday. She told me that she would come the next day. If I were rich, I would travel the world. If I had known earlier, I would have come. I have been living here since 2015.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Victor / Paul / Noah*
-2. Water ___ 100°C → *reaches / reached*
-3. Letter ___ sent → *was / is*
-4. She ___ me → *told / said*
-5. If I ___ rich → *were / was*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: If water ___ 100 degrees, it boils.  
+4. Completa: The letter was sent ___.  
+5. Completa: She told me that she ___ come the next day.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Victor** · 2. **reaches** · 3. **was** · 4. **told** · 5. **were**
+1. **Victor**  
+2. **Victor**  
+3. **reaches**  
+4. **yesterday**  
+5. **would**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Classify zero → *zero / first*
-7. Classify passive → *passive / modal*
-8. Classify second → *second / third*
-9. Classify PP cont. → *tense / passive*
-10. Write mixed review
+6. Completa: If I were rich, I would ___ the world.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Victor.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **zero** · 7. **passive** · 8. **second** · 9. **tense** · 10. **Model OK**
+6. **travel**  
+7. **practicar full B1 grammar revision (all modules U1–60).**  
+8. «If water reaches 100 degrees, it boils.»  
+9. «The letter was sent yesterday.»  
+10. Modelo: Victor habla usando *practicar full B1 grammar revision (all modules U1–60).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. B1 60/60? → *Yes / No*
-12. Shadow
-13. Course complete? → *Yes / No*
-14. Course → */curso-b1/unit-60*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar full B1 grammar revision (all modules U1–60).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar full B1 grammar revision (all modules U1–60).*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Yes** · 12. **done** · 13. **Yes** · 14. **/curso-b1/unit-60** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar full B1 grammar revision (all modules U1–60).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-60-final-b1-review).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *full B1 grammar revision (all modules U1–60)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Una frase de cada área B1 (cond., passive, reported, modal, tense).
 2. Completa: If water ___ 100°C, it boils.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Si lo hubiera sabido antes, habría venido.
 13. Traduce: Me dijo que vendría al día siguiente.
 14. Escribe mensaje final: B1 complete 60/60.
-15. Open Ver solución checklist.
+15. Autochequeo: revisa tus respuestas y abre «Ver solución» solo al final.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open one each.
-2. **reaches**
-3. **was**
-4. **told**
-5. **were**
-6. **have**
-7. If I **were** rich…
-8. She **told me** she would come.
-9. I **have been living** here since 2015.
-10. Open self-assessment.
-11. OK.
-12. If I had known earlier, I would have come.
-13. She told me that she would come the next day.
-14. Open — ¡B1 completo!
-15. yes.
+1. Modelo OK con *full B1 grammar revision (all modules U1–60)*.
+2. Completa según la regla de *full B1 grammar revision (all modules U1–60)* (mira la teoría si dudas).
+3. Completa según la regla de *full B1 grammar revision (all modules U1–60)* (mira la teoría si dudas).
+4. Completa según la regla de *full B1 grammar revision (all modules U1–60)* (mira la teoría si dudas).
+5. Completa según la regla de *full B1 grammar revision (all modules U1–60)* (mira la teoría si dudas).
+6. Completa según la regla de *full B1 grammar revision (all modules U1–60)* (mira la teoría si dudas).
+7. Corrige: *If I was rich…* → forma correcta con *full B1 grammar revision (all modules U1–60)*.
+8. Corrige: *She said me she would come.* → forma correcta con *full B1 grammar revision (all modules U1–60)*.
+9. Corrige: *I have living here since 2015.* → forma correcta con *full B1 grammar revision (all modules U1–60)*.
+10. Respuesta abierta — revisa que aparezca *full B1 grammar revision (all modules U1–60)*.
+11. Modelo OK con *full B1 grammar revision (all modules U1–60)*.
+12. Traduce al inglés usando *full B1 grammar revision (all modules U1–60)*.
+13. Traduce al inglés usando *full B1 grammar revision (all modules U1–60)*.
+14. Modelo libre correcto con *full B1 grammar revision (all modules U1–60)*.
+15. Modelo OK con *full B1 grammar revision (all modules U1–60)*.
 
 </details>
 
----
 
 ## Cómo seguir
 

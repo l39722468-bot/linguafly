@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 56 del curso B1** (*Mixed Gr
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-56-mixed-grammar-sport).
+
 ![Mixed Grammar: Sport](/blog/curso-b1/unit-56/mixed-grammar-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** mixed grammar B1 (conditionals, passive, modals, tenses, reported)
+**Objetivo:** practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. The match ___ cancelled due to rain. → *was / is / has been*
 2. If you ___ more, you'd improve. → *practised / practice / had practised*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. was cancelled → ___ → *passive / first / modal*
 2. If + past → would = ___ → *second / third / zero*
 3. have been + -ing = ___ → *PP continuous / past perfect / passive*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *The match is cancelled due to rain.*
 2. *If you will practise more…*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** sport
+**Objetivo:** sport.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. athlete → *atleta · coach · referee*
 2. stadium → *estadio · museum · hospital*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. match ≈ ___ → *partido / medalla / equipo*
 2. warm up ≈ ___ → *calentar / ganar / perder*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-56-mixed-grammar-sport).
-15. Continúa en la [Unidad 56 del curso](/curso-b1/unit-56).
+Completa con una de estas palabras: *athlete* · *stadium* · *trophy* · *marathon* · *athlete*
+
+11. Write a short sentence with **athlete** and the grammar focus (*mixed grammar B1 (conditionals, passive, modals, tenses, reported)*).  
+12. Write a short sentence with **stadium**.  
+13. Write a short sentence with **trophy**.  
+14. Choose the best word for this idea: «maratón» → **marathon** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-56-mixed-grammar-sport).  
+15. Practise aloud, then continue in the [Unidad 56 del curso](/curso-b1/unit-56).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-56**
+11. Modelo: usa **athlete** en una frase natural con *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*.  
+12. Modelo: usa **stadium** en una frase corta.  
+13. Modelo: usa **trophy** en una frase corta.  
+14. **marathon** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-56**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Sport & grammar
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-56/reading-workbook.mp3" title="🔊 Reading: Sport & grammar"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > The match was cancelled due to rain. If you practised more, you would improve faster. I have been playing football since I was ten. If they had trained harder, they would have won. She told me that she had won the race.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Match ___ cancelled? → *was / is*
-2. If you ___ more? → *practised / practice*
-3. ___ been playing? → *have / has*
-4. They ___ harder? → *had trained / trained*
-5. She ___ me? → *told / said*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **was** · 2. **practised** · 3. **have** · 4. **had trained** · 5. **told**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *mixed / sport only*
-7. Find passive
-8. Find third
-9. Find PP continuous
-10. Write 1× passive
+1. The match was ___ due to rain.
+2. If you ___ more, you would improve faster.
+3. I have been playing ___ since I was ten.
+4. If they had ___ harder, they would have won.
+5. She ___ me that she had won the race.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **mixed** · 7. **was cancelled** · 8. **had trained would have won** · 9. **have been playing** · 10. **Model OK**
+1. **cancelled** · 2. **practised** · 3. **football** · 4. **trained** · 5. **told**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Sport vocab? → *yes / none*
-12. Classify was cancelled → *passive / conditional*
-13. Course → */curso-b1/unit-56*
-14. told + person? → *True / False*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).*
+8. Copia una frase (o trozo) con **the main grammar structure**.
+9. Copia una frase (o trozo) con **the main grammar structure**.
+10. Copia una frase (o trozo) con **the main grammar structure**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **athlete, match, trophy** · 12. **passive** · 13. **/curso-b1/unit-56** · 14. **True** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).*).  
+7. **practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).**  
+8. Copia del texto algo con *the main grammar structure* (ej.: «The match was cancelled due to rain.»).  
+9. Copia del texto algo con *the main grammar structure*.  
+10. Copia del texto algo con *the main grammar structure*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *The email sent yesterday*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-56](/curso-b1/unit-56)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-56-mixed-grammar-sport) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).*).  
+14. **/curso-b1/unit-56**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Paul on sport
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-56/listening-workbook.mp3" title="🔊 Listening: Paul on sport"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Paul. The match was cancelled due to rain. If you practised more, you would improve faster. I have been playing football since I was ten. If they had trained harder, they would have won. She told me that she had won the race.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Paul / Sam / Victor*
-2. Match ___ cancelled → *was / is*
-3. If you ___ more → *practised / practice*
-4. ___ been playing → *have / has*
-5. They ___ harder → *had trained / trained*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: The match was ___ due to rain.  
+4. Completa: If you ___ more, you would improve faster.  
+5. Completa: I have been playing ___ since I was ten.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Paul** · 2. **was** · 3. **practised** · 4. **have** · 5. **had trained**
+1. **Paul**  
+2. **Paul**  
+3. **cancelled**  
+4. **practised**  
+5. **football**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Main grammar? → *mixed / passive only*
-7. Find third conditional
-8. Find reported
-9. Write passive
-10. Sport words? → *yes / none*
+6. Completa: If they had ___ harder, they would have won.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Paul.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **mixed** · 7. **had trained would have won** · 8. **told me she had won** · 9. **Model OK** · 10. **match, trophy, train**
+6. **trained**  
+7. **practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).**  
+8. «The match was cancelled due to rain.»  
+9. «If you practised more, you would improve faster.»  
+10. Modelo: Paul habla usando *practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Shadow
-12. was cancelled = passive? → *True / False*
-13. Course → */curso-b1/unit-56*
-14. PP continuous? → *yes / no*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *The email sent yesterday*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **done** · 12. **True** · 13. **/curso-b1/unit-56** · 14. **have been playing** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar mixed grammar B1 (conditionals, passive, modals, tenses, reported).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-56-mixed-grammar-sport).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe passive + second + third + PP continuous (sport).
 2. Completa: The match ___ cancelled.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Si hubieran entrenado más, habrían ganado.
 13. Explica passive vs active en 1 frase.
 14. Escribe 1× reported speech.
-15. Autochequeo: clasifica cada estructura.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open four.
-2. **was**
-3. **practised**
-4. **have**
-5. **had trained**
-6. **told**
-7. The match **was cancelled**.
-8. If you **practised** more…
-9. Open.
-10. Open.
-11. The match was cancelled due to rain.
-12. If they had trained harder, they would have won.
-13. Passive: focus on action/object.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*.
+2. Completa según la regla de *mixed grammar B1 (conditionals, passive, modals, tenses, reported)* (mira la teoría si dudas).
+3. Completa según la regla de *mixed grammar B1 (conditionals, passive, modals, tenses, reported)* (mira la teoría si dudas).
+4. Completa según la regla de *mixed grammar B1 (conditionals, passive, modals, tenses, reported)* (mira la teoría si dudas).
+5. Completa según la regla de *mixed grammar B1 (conditionals, passive, modals, tenses, reported)* (mira la teoría si dudas).
+6. Completa según la regla de *mixed grammar B1 (conditionals, passive, modals, tenses, reported)* (mira la teoría si dudas).
+7. Corrige: *The match is cancelled due to rain.* → forma correcta con *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*.
+8. Corrige: *If you will practise more…* → forma correcta con *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*.
+9. Modelo libre correcto con *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*.
+10. Respuesta abierta — revisa que aparezca *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*.
+11. Traduce al inglés usando *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*.
+12. Traduce al inglés usando *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*.
+13. Explicación breve en 1 frase (concepto clave de *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*).
+14. Modelo libre correcto con *mixed grammar B1 (conditionals, passive, modals, tenses, reported)*.
+15. Autochequeo: ¿puedes explicar *mixed grammar B1 (conditionals, passive, modals, tenses, reported)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-56-mixed-grammar-sport).
 
 </details>
 
----
 
 ## Cómo seguir
 

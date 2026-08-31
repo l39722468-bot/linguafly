@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 57 del curso B1** (*Mixed Gr
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *passive, would rather, relatives, comparatives, although*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours).
+
 ![Mixed Grammar: Clothes](/blog/curso-b1/unit-57/mixed-grammar-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** passive, would rather, relatives, comparatives, although
+**Objetivo:** practicar passive, would rather, relatives, comparatives, although.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. This dress ___ made of cotton. → *is / was / makes*
 2. I'd ___ wear blue. → *rather / better / prefer*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. is made of = ___ → *passive present / active / past simple*
 2. would rather + ___ → *bare inf / to inf / -ing*
 3. which for things = ___ → *relative / passive / modal*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *This dress was made of cotton.* (present fact)
 2. *I'd rather to wear blue.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** clothes & colours
+**Objetivo:** clothes & colours.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. cotton → *algodón · leather · metal*
 2. try on → *probarse · quitarse · guardar*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. dark blue ≈ ___ → *tono profundo / tono claro / sin color*
 2. match (v.) ≈ ___ → *combinar / rechazar / contrastar*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours).
-15. Continúa en la [Unidad 57 del curso](/curso-b1/unit-57).
+Completa con una de estas palabras: *cotton* · *try on* · *fashion* · *pale* · *accessories*
+
+11. Write a short sentence with **cotton** and the grammar focus (*passive, would rather, relatives, comparatives, although*).  
+12. Write a short sentence with **try on**.  
+13. Write a short sentence with **fashion**.  
+14. Choose the best word for this idea: «pálido» → **pale** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours).  
+15. Practise aloud, then continue in the [Unidad 57 del curso](/curso-b1/unit-57).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-57**
+11. Modelo: usa **cotton** en una frase natural con *passive, would rather, relatives, comparatives, although*.  
+12. Modelo: usa **try on** en una frase corta.  
+13. Modelo: usa **fashion** en una frase corta.  
+14. **pale** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-57**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Fashion & grammar
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar passive, would rather, relatives, comparatives, although.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-57/reading-workbook.mp3" title="🔊 Reading: Fashion & grammar"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > This dress is made of cotton. I'd rather wear blue than red. The shirt which I bought last week is too small. This jacket is more expensive than that one. Although it was expensive, I bought it.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Dress ___ made of cotton? → *is / was*
-2. ___ rather wear blue? → *rather / better*
-3. Shirt ___ I bought? → *which / who*
-4. ___ expensive than? → *more / most*
-5. ___ expensive, I bought it → *Although / Because*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **is** · 2. **rather** · 3. **which** · 4. **more** · 5. **Although**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *mixed / vocab only*
-7. Find would rather
-8. Find relative
-9. Find although
-10. Write comparative
+1. This dress is made of ___.
+2. I'd ___ wear blue than red.
+3. The shirt which I ___ last week is too small.
+4. This jacket is more ___ than that one.
+5. ___ it was expensive, I bought it.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **mixed/clothes** · 7. **rather wear blue** · 8. **which I bought** · 9. **Although it was expensive** · 10. **Model OK**
+1. **cotton** · 2. **rather** · 3. **bought** · 4. **expensive** · 5. **Although**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Clothes vocab? → *yes / none*
-12. would rather + to? → *False / True*
-13. Course → */curso-b1/unit-57*
-14. is made of = passive? → *True / False*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar passive, would rather, relatives, comparatives, although.*
+8. Copia una frase (o trozo) con **rather**.
+9. Copia una frase (o trozo) con **although**.
+10. Copia una frase (o trozo) con **although**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **cotton, try on, fashion** · 12. **False** · 13. **/curso-b1/unit-57** · 14. **True** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar passive, would rather, relatives, comparatives, although.*).  
+7. **practicar passive, would rather, relatives, comparatives, although.**  
+8. Copia del texto algo con *rather* (ej.: «This dress is made of cotton.»).  
+9. Copia del texto algo con *although*.  
+10. Copia del texto algo con *although*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar passive, would rather, relatives, comparatives, although.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *The email sent yesterday*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-57](/curso-b1/unit-57)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar passive, would rather, relatives, comparatives, although.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar passive, would rather, relatives, comparatives, although.*).  
+14. **/curso-b1/unit-57**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Rachel on clothes
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar passive, would rather, relatives, comparatives, although.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-57/listening-workbook.mp3" title="🔊 Listening: Rachel on clothes"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Rachel. This dress is made of cotton. I'd rather wear blue than red. The shirt which I bought last week is too small. This jacket is more expensive than that one. Although it was expensive, I bought it.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Rachel / Tina / Olivia*
-2. Dress ___ cotton → *is made / was made*
-3. ___ rather blue → *rather / better*
-4. Shirt ___ bought → *which / who*
-5. ___ expensive → *more / most*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: This dress is made of ___.  
+4. Completa: I'd ___ wear blue than red.  
+5. Completa: The shirt which I ___ last week is too small.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Rachel** · 2. **is made** · 3. **rather** · 4. **which** · 5. **more**
+1. **Rachel**  
+2. **Rachel**  
+3. **cotton**  
+4. **rather**  
+5. **bought**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Main grammar? → *mixed / vocab*
-7. Find although
-8. Find would rather
-9. Write relative
-10. Fashion vocab? → *yes / none*
+6. Completa: This jacket is more ___ than that one.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Rachel.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **mixed/clothes** · 7. **Although it was expensive** · 8. **rather wear blue** · 9. **Model OK** · 10. **cotton, try on**
+6. **expensive**  
+7. **practicar passive, would rather, relatives, comparatives, although.**  
+8. «This dress is made of cotton.»  
+9. «I'd rather wear blue than red.»  
+10. Modelo: Rachel habla usando *practicar passive, would rather, relatives, comparatives, although.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Shadow
-12. rather + to? → *False / True*
-13. Course → */curso-b1/unit-57*
-14. comparative? → *yes / no*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar passive, would rather, relatives, comparatives, although.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *The email sent yesterday*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **done** · 12. **False** · 13. **/curso-b1/unit-57** · 14. **more expensive** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar passive, would rather, relatives, comparatives, although.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *passive, would rather, relatives, comparatives, although*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe passive + would rather + relative + although.
 2. Completa: This dress ___ made of cotton.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Aunque era caro, lo compré.
 13. Explica would rather vs had better.
 14. Escribe 1× superlative.
-15. Autochequeo: relative which/who/where.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open four.
-2. **is**
-3. **rather**
-4. **which**
-5. **more**
-6. **Although**
-7. I'd **rather wear** blue.
-8. The shirt **which** I bought…
-9. Open.
-10. Open.
-11. I'd rather wear blue than red.
-12. Although it was expensive, I bought it.
-13. Rather=preference; had better=strong advice.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *passive, would rather, relatives, comparatives, although*.
+2. Completa según la regla de *passive, would rather, relatives, comparatives, although* (mira la teoría si dudas).
+3. Completa según la regla de *passive, would rather, relatives, comparatives, although* (mira la teoría si dudas).
+4. Completa según la regla de *passive, would rather, relatives, comparatives, although* (mira la teoría si dudas).
+5. Completa según la regla de *passive, would rather, relatives, comparatives, although* (mira la teoría si dudas).
+6. Completa según la regla de *passive, would rather, relatives, comparatives, although* (mira la teoría si dudas).
+7. Corrige: *I'd rather to wear blue.* → forma correcta con *passive, would rather, relatives, comparatives, although*.
+8. Corrige: *The shirt who I bought…* → forma correcta con *passive, would rather, relatives, comparatives, although*.
+9. Modelo libre correcto con *passive, would rather, relatives, comparatives, although*.
+10. Respuesta abierta — revisa que aparezca *passive, would rather, relatives, comparatives, although*.
+11. Traduce al inglés usando *passive, would rather, relatives, comparatives, although*.
+12. Traduce al inglés usando *passive, would rather, relatives, comparatives, although*.
+13. Explicación breve en 1 frase (concepto clave de *passive, would rather, relatives, comparatives, although*).
+14. Modelo libre correcto con *passive, would rather, relatives, comparatives, although*.
+15. Autochequeo: ¿puedes explicar *passive, would rather, relatives, comparatives, although* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours).
 
 </details>
 
----
 
 ## Cómo seguir
 

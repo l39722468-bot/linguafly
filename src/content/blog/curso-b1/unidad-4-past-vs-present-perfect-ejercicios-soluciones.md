@@ -35,7 +35,7 @@ related_routes:
 - present-perfect-vs-past-simple
 - cursos-online-ingles-b1
 title: 'Ejercicios Unidad 4 B1: Past Simple vs Present Perfect (con soluciones)'
-updatedDate: '2026-08-25'
+updatedDate: '2026-08-31'
 ---
 
 Este artículo reúne **los ejercicios de la Unidad 4 del curso B1** (*Past Simple vs Present Perfect*) con **soluciones comentadas**.
@@ -44,6 +44,8 @@ Este artículo reúne **los ejercicios de la Unidad 4 del curso B1** (*Past Simp
 > **Practica en el curso:** [Unidad 4 — Past Simple vs Present Perfect](/curso-b1/unit-4)
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
+
+**Foco de esta unidad:** *Past Simple vs Present Perfect*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-4-past-vs-present-perfect).
 
 ![Past Simple vs Present Perfect](/blog/curso-b1/unit-4/past-vs-pp.png)
 
@@ -58,9 +60,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** Past Simple vs Present Perfect
+**Objetivo:** practicar Past Simple vs Present Perfect.
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I ___ to Paris last month. → *went / have gone / go*
 2. She ___ never been to Asia yet. → *has / had / did*
@@ -90,7 +94,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 11. *I have seen him yesterday.*
 12. *Did you ever been to Paris?*
@@ -110,14 +116,16 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 </details>
 
 
-
 ---
+
 
 ## Lección 2 — Vocabulario
 
-**Objetivo:** vocabulario de la unidad
+**Objetivo:** vocabulario de la unidad.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. *already* ≈ ____ → *ya · todavía · ayer*
 2. *yet* ≈ ____ → *todavía · ya · nunca*
@@ -132,7 +140,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 6. I went to Paris last ___. → *month / months / monthly*
 7. I have ___ booked my flight. → *already / yet / yesterday*
@@ -147,173 +157,184 @@ See grammar focus — answers match unit vocabulary in theory article.
 
 </details>
 
-### Ejercicios 11–15 — Elige
+### Ejercicios 11–15 — En contexto
 
-11. Vocab U4 appears in ____. → a) reading & listening · b) only numbers · c) unrelated topic
-12. Unit 4 workbook helps ____. → a) B1 consolidation · b) only spelling · c) skip course
-13. After vocab, review ____. → a) theory article · b) only A1 · c) nothing
-14. Best practice: ____. → a) say new words aloud · b) only read once · c) ignore audio
-15. Continue with ____. → a) course unit 4 · b) random unit · c) skip B1
+Completa con una de estas palabras: *choice* · *option* · *prefer* · *decide* · *alternative*
+
+11. Write a short sentence with **choice** and the grammar focus (*Past Simple vs Present Perfect*).  
+12. Write a short sentence with **option**.  
+13. Write a short sentence with **prefer**.  
+14. Choose the best word for this idea: «opción» → **decide** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-4-past-vs-present-perfect).  
+15. Practise aloud, then continue in the [Unidad 4 del curso](/curso-b1/unit-4).
 
 <details>
 <summary>Ver solución</summary>
 
-11. **a) reading & listening** · 12. **a) B1 consolidation** · 13. **a) theory article** · 14. **a) say new words aloud** · 15. **a) course unit 4**
+11. Modelo: usa **choice** en una frase natural con *Past Simple vs Present Perfect*.  
+12. Modelo: usa **option** en una frase corta.  
+13. Modelo: usa **prefer** en una frase corta.  
+14. **decide** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-4**.
 
 </details>
 
-
-
 ---
+
 
 ## Lección 3 — Reading: Travel contrast
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar Past Simple vs Present Perfect.*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-4/reading-contrast.mp3" title="🔊 Reading: Travel contrast"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > Last year I visited five countries in Europe. I have never been to Asia yet, but I am planning to go next year. Yesterday I finished reading a book about Japan. I have already booked my flight to Tokyo. I went to Paris last month and I have just received the photos. Have you ever been to Paris?
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Text matches Unit 4 focus? → a) yes · b) no · c) only A1
-2. Reading uses key grammar? → a) yes · b) only numbers · c) unrelated
-3. Main topic is ____. → a) unit theme · b) cooking only · c) skip
-4. Audio file is ____. → a) reading-contrast.mp3 · b) wrong unit · c) missing
-5. After reading, check ____. → a) theory · b) nothing · c) only spelling
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **a) yes** · 2. **a) yes** · 3. **a) unit theme** · 4. **a) reading-contrast.mp3** · 5. **a) theory**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Re-read sentence 1: main idea? → a) unit context · b) random · c) only date
-7. Find a time expression / feeling / plan (unit-specific). → a) yes in text · b) none · c) only names
-8. Text length is ____. → a) B1 short paragraph · b) one word · c) empty
-9. Compare with listening: same unit? → a) yes · b) different course · c) no audio
-10. Shadow-read helps ____. → a) fluency · b) only writing · c) skip
+1. Last year I visited five ___ in Europe.
+2. I have never been to Asia yet, but I am ___ to go next year.
+3. ___ I finished reading a book about Japan.
+4. I have ___ booked my flight to Tokyo.
+5. I went to Paris last month and I have just ___ the photos.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **a) unit context** · 7. **a) yes in text** · 8. **a) B1 short paragraph** · 9. **a) yes** · 10. **a) fluency**
+1. **countries** · 2. **planning** · 3. **Yesterday** · 4. **already** · 5. **received**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Underline 2 examples of unit grammar in the text.
-12. Write one more sentence in the same style.
-13. True/false: text uses unit vocabulary. → a) true · b) false
-14. Which line shows the main tense focus? → a) find in text · b) line 99 · c) none
-15. Link to course: ____. → a) /curso-b1/unit-4 · b) /curso-a1 · c) skip
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar Past Simple vs Present Perfect.*
+8. Copia una frase (o trozo) con **the main grammar structure**.
+9. Copia una frase (o trozo) con **the main grammar structure**.
+10. Copia una frase (o trozo) con **the main grammar structure**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. Answers vary — check theory. 12. Model sentence using Past Simple vs Present Perfect. 13. **a) true** · 14. **a) find in text** · 15. **a) /curso-b1/unit-4**
+6. Modelo: resume el texto en tus palabras (tema + *practicar Past Simple vs Present Perfect.*).  
+7. **practicar Past Simple vs Present Perfect.**  
+8. Copia del texto algo con *the main grammar structure* (ej.: «Last year I visited five countries in Europe.»).  
+9. Copia del texto algo con *the main grammar structure*.  
+10. Copia del texto algo con *the main grammar structure*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar Past Simple vs Present Perfect.*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *a wrong form with practicar Past Simple vs Present Perfect.*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-4](/curso-b1/unit-4)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-4-past-vs-present-perfect) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar Past Simple vs Present Perfect.*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar Past Simple vs Present Perfect.*).  
+14. **/curso-b1/unit-4**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Travel dialogue
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar Past Simple vs Present Perfect.* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-4/listening-contrast.mp3" title="🔊 Listening: Travel dialogue"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Have you ever been to Paris? Yes — I went last month. Have you booked your flight to Tokyo yet? Yes, I have already booked it. I have just received the photos from Paris too.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Dialogue topic = ____. → a) unit focus · b) unrelated · c) only numbers
-2. First question asks about ____. → a) key grammar point · b) food only · c) nothing
-3. Speaker answers with ____. → a) correct tense · b) only names · c) skip
-4. Listening file: ____. → a) listening-contrast.mp3 · b) reading file · c) none
-5. Understand gist without reading? → a) yes with B1 level · b) impossible · c) only C1
+1. ¿Quién habla?  
+2. Completa según el audio: Have you ever been to ___?  
+3. Completa: Yes — I went last ___.  
+4. Completa: Have you ___ your flight to Tokyo yet?  
+5. Completa: Yes, I have ___ booked it.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **a) unit focus** · 2. **a) key grammar point** · 3. **a) correct tense** · 4. **a) listening-contrast.mp3** · 5. **a) yes with B1 level**
+1. **the speaker**  
+2. **Paris**  
+3. **month**  
+4. **booked**  
+5. **already**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Second exchange shows ____. → a) another unit structure · b) only hello · c) skip
-7. Notice question form: ____. → a) How long / Have you / Had you / What are you… · b) only What · c) none
-8. Short answers use ____. → a) for/since/yes-no · b) only names · c) random
-9. Dialogue length is ____. → a) short B1 · b) novel · c) empty
-10. Repeat aloud for ____. → a) pronunciation · b) only spelling · c) skip
+6. Completa: I have just ___ the photos from Paris too.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice the speaker.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **a) another unit structure** · 7. **a) unit question form** · 8. **a) for/since/yes-no** · 9. **a) short B1** · 10. **a) pronunciation**
+6. **received**  
+7. **practicar Past Simple vs Present Perfect.**  
+8. «Yes — I went last month.»  
+9. «Have you booked your flight to Tokyo yet?»  
+10. Modelo: the speaker habla usando *practicar Past Simple vs Present Perfect.* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write the first question from memory.
-12. Write the answer from memory.
-13. Change one line to negative (where possible).
-14. Shadow the full dialogue once.
-15. Then open ____. → a) Ver solución · b) skip · c) only image
+11. Escribe una frase nueva con *practicar Past Simple vs Present Perfect.* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *a wrong form with practicar Past Simple vs Present Perfect.*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11–14. Check script above. 15. **a) Ver solución** after attempting.
+11. Modelo: crea una frase natural con *practicar Past Simple vs Present Perfect.*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-4-past-vs-present-perfect).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *Past Simple vs Present Perfect*.
 
-### Ejercicios 1–5 — Completa
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Unit 4 key form: fill one correct example sentence (see theory).
 2. Add a second sentence with vocabulary from Lección 2.
 3. Use a time expression (for/since/yesterday/next month…).
 4. Use a feeling or travel word if relevant.
 5. Check subject-verb agreement.
-
-<details>
-<summary>Ver solución</summary>
-
-Answers vary — compare with theory article and reading text.
-
-</details>
-
-### Ejercicios 6–8 — Ordena
-
 6. Write 3 words from the unit in alphabetical order (English).
 7. Order these ideas: plan → detail → result (your unit topic).
 8. Put a question before its short answer (your creation).
-
-<details>
-<summary>Ver solución</summary>
-
-6–8. Personal answers; check word order and tense.
-
-</details>
-
-### Ejercicios 9–15 — Escribe (modelos)
-
 9. Una frase con el foco gramatical principal U4.
 10. Una segunda frase con vocabulario de la unidad.
 11. Una pregunta + respuesta corta.
@@ -325,11 +346,24 @@ Answers vary — compare with theory article and reading text.
 <details>
 <summary>Ver solución</summary>
 
-9–15. Model: use reading/listening texts as base; adapt with your own details. Check theory for error corrections.
+1. Modelo OK con *Past Simple vs Present Perfect*.
+2. Modelo OK con *Past Simple vs Present Perfect*.
+3. Modelo OK con *Past Simple vs Present Perfect*.
+4. Modelo OK con *Past Simple vs Present Perfect*.
+5. Modelo OK con *Past Simple vs Present Perfect*.
+6. Modelo OK con *Past Simple vs Present Perfect*.
+7. Modelo OK con *Past Simple vs Present Perfect*.
+8. Modelo OK con *Past Simple vs Present Perfect*.
+9. Modelo OK con *Past Simple vs Present Perfect*.
+10. Modelo OK con *Past Simple vs Present Perfect*.
+11. Modelo OK con *Past Simple vs Present Perfect*.
+12. Modelo OK con *Past Simple vs Present Perfect*.
+13. Modelo OK con *Past Simple vs Present Perfect*.
+14. Modelo OK con *Past Simple vs Present Perfect*.
+15. Respuesta abierta — revisa que aparezca *Past Simple vs Present Perfect*.
 
 </details>
 
----
 
 ## Resumen rápido
 

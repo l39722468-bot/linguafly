@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 41 del curso B1** (*Verb + P
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *verb + preposition (depend on, listen to, wait for, look at…)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-41-verb-preposition-dependent).
+
 ![Verb + Preposition & Dependent](/blog/curso-b1/unit-41/verb-preposition.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** verb + preposition (depend on, listen to, wait for, look at…)
+**Objetivo:** practicar verb + preposition (depend on, listen to, wait for, look at…).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. I depend ___ my parents. → *on / of / for*
 2. Please listen ___ me. → *to / at / for*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. pay ___ (the meal) → *for / to / at*
 2. agree ___ you → *with / to / on*
 3. talk ___ the project → *about / of / on*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *I depend of my parents.*
 2. *Listen me.*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** dependent prepositions
+**Objetivo:** dependent prepositions.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. apply → *solicitar · afraid · during*
 2. ask for → *pedir · interested · since*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. depend on ≈ ___ → *depender de / interesado en / durante*
 2. listen to ≈ ___ → *escuchar a / bueno en / desde*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-41-verb-preposition-dependent).
-15. Continúa en la [Unidad 41 del curso](/curso-b1/unit-41).
+Completa con una de estas palabras: *apply* · *ask for* · *succeed* · *complain* · *colocation*
+
+11. Write a short sentence with **apply** and the grammar focus (*verb + preposition (depend on, listen to, wait for, look at…)*).  
+12. Write a short sentence with **ask for**.  
+13. Write a short sentence with **succeed**.  
+14. Choose the best word for this idea: «quejarse» → **complain** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-41-verb-preposition-dependent).  
+15. Practise aloud, then continue in the [Unidad 41 del curso](/curso-b1/unit-41).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-41**
+11. Modelo: usa **apply** en una frase natural con *verb + preposition (depend on, listen to, wait for, look at…)*.  
+12. Modelo: usa **ask for** en una frase corta.  
+13. Modelo: usa **succeed** en una frase corta.  
+14. **complain** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-41**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Depend on me
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar verb + preposition (depend on, listen to, wait for, look at…).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-41/reading-workbook.mp3" title="🔊 Reading: Depend on me"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > I depend on my parents. Please listen to me. We waited for the bus. Look at the board, please. I believe in you.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Depend ___ parents? → *on / of*
-2. Listen ___ me? → *to / at*
-3. Waited ___ bus? → *for / to*
-4. Look ___ board? → *at / on*
-5. Believe ___ you? → *in / on*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **on** · 2. **to** · 3. **for** · 4. **at** · 5. **in**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *verb prep / adj prep*
-7. Find depend on
-8. Find listen to
-9. Find wait for
-10. Write depend on…
+1. I depend on my ___.
+2. ___ listen to me.
+3. We ___ for the bus.
+4. Look at the ___, please.
+5. I ___ in you.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **verb + preposition** · 7. **depend on my parents** · 8. **listen to me** · 9. **waited for the bus** · 10. **Model OK**
+1. **parents** · 2. **Please** · 3. **waited** · 4. **board** · 5. **believe**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Dependent prep vocab? → *yes / none*
-12. depend of OK? → *False / True*
-13. Course → */curso-b1/unit-41*
-14. listen without to? → *Only / Always*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar verb + preposition (depend on, listen to, wait for, look at…).*
+8. Copia una frase (o trozo) con **depend**.
+9. Copia una frase (o trozo) con **listen**.
+10. Copia una frase (o trozo) con **wait**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **apply, ask for, succeed, complain** · 12. **False** · 13. **/curso-b1/unit-41** · 14. **Only without object** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar verb + preposition (depend on, listen to, wait for, look at…).*).  
+7. **practicar verb + preposition (depend on, listen to, wait for, look at…).**  
+8. Copia del texto algo con *depend* (ej.: «I depend on my parents.»).  
+9. Copia del texto algo con *listen*.  
+10. Copia del texto algo con *wait*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar verb + preposition (depend on, listen to, wait for, look at…).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *interested on English*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-41](/curso-b1/unit-41)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-41-verb-preposition-dependent) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar verb + preposition (depend on, listen to, wait for, look at…).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar verb + preposition (depend on, listen to, wait for, look at…).*).  
+14. **/curso-b1/unit-41**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Alex on verb prep
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar verb + preposition (depend on, listen to, wait for, look at…).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-41/listening-workbook.mp3" title="🔊 Listening: Alex on verb prep"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Alex. I depend on my parents. Please listen to me. We waited for the bus. Look at the board, please. I believe in you.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Alex / Beth / Eva*
-2. Depend ___ parents → *on / of*
-3. Listen ___ me → *to / at*
-4. Waited ___ bus → *for / to*
-5. Look ___ board → *at / on*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: I depend on my ___.  
+4. Completa: ___ listen to me.  
+5. Completa: We ___ for the bus.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Alex** · 2. **on** · 3. **to** · 4. **for** · 5. **at**
+1. **Alex**  
+2. **Alex**  
+3. **parents**  
+4. **Please**  
+5. **waited**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Believe ___ you → *in / on*
-7. Grammar? → *verb prep / adj prep*
-8. Find depend on
-9. Find listen to
-10. Write depend on…
+6. Completa: Look at the ___, please.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Alex.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **in** · 7. **verb prep** · 8. **depend on my parents** · 9. **listen to me** · 10. **Model OK**
+6. **board**  
+7. **practicar verb + preposition (depend on, listen to, wait for, look at…).**  
+8. «I depend on my parents.»  
+9. «Please listen to me.»  
+10. Modelo: Alex habla usando *practicar verb + preposition (depend on, listen to, wait for, look at…).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Dependent words? → *yes / none*
-12. Shadow
-13. depend of OK? → *False / True*
-14. Course → */curso-b1/unit-41*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar verb + preposition (depend on, listen to, wait for, look at…).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *interested on English*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **apply, ask for, succeed** · 12. **done** · 13. **False** · 14. **/curso-b1/unit-41** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar verb + preposition (depend on, listen to, wait for, look at…).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-41-verb-preposition-dependent).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *verb + preposition (depend on, listen to, wait for, look at…)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 3× verb + preposition (depend on, listen to, wait for).
 2. Completa: I depend ___ my parents.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Mira el tablero.
 13. Explica depend on vs listen to en 1 frase.
 14. Escribe 1× talk about.
-15. Autochequeo: aprende bloques verbo+prep.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open three.
-2. **on**
-3. **to**
-4. **for**
-5. **at**
-6. depend **on**
-7. Listen **to** me
-8. Open.
-9. OK.
-10. Open.
-11. I depend on my parents.
-12. Look at the board.
-13. depend on=rely; listen to=hear someone.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *verb + preposition (depend on, listen to, wait for, look at…)*.
+2. Completa según la regla de *verb + preposition (depend on, listen to, wait for, look at…)* (mira la teoría si dudas).
+3. Completa según la regla de *verb + preposition (depend on, listen to, wait for, look at…)* (mira la teoría si dudas).
+4. Completa según la regla de *verb + preposition (depend on, listen to, wait for, look at…)* (mira la teoría si dudas).
+5. Completa según la regla de *verb + preposition (depend on, listen to, wait for, look at…)* (mira la teoría si dudas).
+6. Corrige: *I depend of my parents.* → forma correcta con *verb + preposition (depend on, listen to, wait for, look at…)*.
+7. Corrige: *Listen me.* → forma correcta con *verb + preposition (depend on, listen to, wait for, look at…)*.
+8. Modelo libre correcto con *verb + preposition (depend on, listen to, wait for, look at…)*.
+9. Modelo libre correcto con *verb + preposition (depend on, listen to, wait for, look at…)*.
+10. Respuesta abierta — revisa que aparezca *verb + preposition (depend on, listen to, wait for, look at…)*.
+11. Traduce al inglés usando *verb + preposition (depend on, listen to, wait for, look at…)*.
+12. Traduce al inglés usando *verb + preposition (depend on, listen to, wait for, look at…)*.
+13. Explicación breve en 1 frase (concepto clave de *verb + preposition (depend on, listen to, wait for, look at…)*).
+14. Modelo libre correcto con *verb + preposition (depend on, listen to, wait for, look at…)*.
+15. Autochequeo: ¿puedes explicar *verb + preposition (depend on, listen to, wait for, look at…)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-41-verb-preposition-dependent).
 
 </details>
 
----
 
 ## Cómo seguir
 

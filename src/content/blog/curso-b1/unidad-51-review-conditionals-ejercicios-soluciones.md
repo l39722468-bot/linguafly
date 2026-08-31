@@ -49,6 +49,8 @@ Este artículo reúne **los ejercicios de la Unidad 51 del curso B1** (*Review: 
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
+**Foco de esta unidad:** *first / second / third conditional + time clauses (U11–15 review)*. Si dudas, abre primero la [guía teórica](/blog/curso-b1/unidad-51-review-conditionals).
+
 ![Review Conditionals](/blog/curso-b1/unit-51/conditionals-map.png)
 
 **Contenido de la unidad:**
@@ -62,9 +64,11 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** first / second / third conditional + time clauses (U11–15 review)
+**Objetivo:** practicar first / second / third conditional + time clauses (U11–15 review).
 
 ### Ejercicios 1–5 — Completa
+
+Elige la opción correcta. Solo una es válida.
 
 1. If it ___ tomorrow, we'll stay home. → *rains / will rain / rained*
 2. If I ___ more time, I'd travel. → *had / have / would have*
@@ -81,6 +85,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 6–10 — Elige / completa
 
+Completa cada frase con la forma correcta.
+
 1. First conditional: if + ___ → *present / past / will*
 2. Second: if + ___ → would → *past / present / past perfect*
 3. Third: if + past perfect → ___ → *would have + V3 / would + V / will have*
@@ -94,7 +100,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *If it will rain, we stay home.*
 2. *If I would have time…*
@@ -115,11 +123,14 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+
 ## Lección 2 — Vocabulario
 
-**Objetivo:** mixed topics
+**Objetivo:** mixed topics.
 
 ### Ejercicios 1–5 — Empareja / elige
+
+Elige la **traducción o significado correcto** (ignora las distracciones).
 
 1. travel → *viajar · work · health*
 2. weather → *clima · culture · money*
@@ -134,7 +145,9 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — Completa / significado
+
+Elige la opción que completa o explica mejor cada ítem.
 
 1. first conditional ≈ ___ → *futuro probable / pasado irreal / pasiva*
 2. second conditional ≈ ___ → *hipótesis presente / hecho pasado / reported*
@@ -151,138 +164,173 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ### Ejercicios 11–15 — En contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-51-review-conditionals).
-15. Continúa en la [Unidad 51 del curso](/curso-b1/unit-51).
+Completa con una de estas palabras: *travel* · *weather* · *unless* · *regret* · *hypothesis*
+
+11. Write a short sentence with **travel** and the grammar focus (*first / second / third conditional + time clauses (U11–15 review)*).  
+12. Write a short sentence with **weather**.  
+13. Write a short sentence with **unless**.  
+14. Choose the best word for this idea: «arrepentimiento» → **regret** / other. Confirm in the [guía teórica](/blog/curso-b1/unidad-51-review-conditionals).  
+15. Practise aloud, then continue in the [Unidad 51 del curso](/curso-b1/unit-51).
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-51**
+11. Modelo: usa **travel** en una frase natural con *first / second / third conditional + time clauses (U11–15 review)*.  
+12. Modelo: usa **weather** en una frase corta.  
+13. Modelo: usa **unless** en una frase corta.  
+14. **regret** (comprueba la tabla de vocabulario en la teoría).  
+15. Continúa en **/curso-b1/unit-51**.
 
 </details>
 
 ---
 
+
 ## Lección 3 — Reading: Three conditionals
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto con *practicar first / second / third conditional + time clauses (U11–15 review).*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-51/reading-workbook.mp3" title="🔊 Reading: Three conditionals"></audio>
 
+Lee el texto (puedes escuchar el audio). Las respuestas salen **del texto**.
+
 > If it rains tomorrow, we'll stay at home. If I had more time, I'd learn another language. If we had left earlier, we would have caught the train. When I finish work, I'll call you. Unless you hurry, you'll miss the bus.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. If it ___ tomorrow? → *rains / will rain*
-2. If I ___ time? → *had / have*
-3. If we ___ earlier? → *had left / left*
-4. When I ___ work? → *finish / will finish*
-5. Unless you ___? → *hurry / will hurry*
+Completa con la palabra que falta (según el texto).
 
-<details>
-<summary>Ver solución</summary>
-
-1. **rains** · 2. **had** · 3. **had left** · 4. **finish** · 5. **hurry**
-
-</details>
-
-### Ejercicios 6–10 — Detalles
-
-6. Main grammar? → *conditionals / passive*
-7. Find first conditional
-8. Find third conditional
-9. Find time clause
-10. Write one of each type
+1. If it rains ___, we'll stay at home.
+2. If I had more time, I'd learn another ___.
+3. If we had left ___, we would have caught the train.
+4. When I ___ work, I'll call you.
+5. ___ you hurry, you'll miss the bus.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **conditionals** · 7. **If it rains we'll stay** · 8. **If we had left we would have caught** · 9. **When I finish work** · 10. **Model OK**
+1. **tomorrow** · 2. **language** · 3. **earlier** · 4. **finish** · 5. **Unless**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 6–10 — Busca en el texto
 
-11. Mixed topics vocab? → *yes / none*
-12. will in if-clause OK? → *False / True*
-13. Course → */curso-b1/unit-51*
-14. unless = if not? → *True / False*
-15. Open Ver solución → *yes*
+Responde con palabras o frases **copiadas del texto**.
+
+6. ¿De qué trata el texto en una frase? (idea principal)
+7. ¿Qué estructura gramatical practicas? → *practicar first / second / third conditional + time clauses (U11–15 review).*
+8. Copia una frase (o trozo) con **time**.
+9. Copia una frase (o trozo) con **time**.
+10. Copia una frase (o trozo) con **time**.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **travel, weather, health** · 12. **False** · 13. **/curso-b1/unit-51** · 14. **True** · 15. **yes**
+6. Modelo: resume el texto en tus palabras (tema + *practicar first / second / third conditional + time clauses (U11–15 review).*).  
+7. **practicar first / second / third conditional + time clauses (U11–15 review).**  
+8. Copia del texto algo con *time* (ej.: «If it rains tomorrow, we'll stay at home.»).  
+9. Copia del texto algo con *time*.  
+10. Copia del texto algo con *time*.
 
 </details>
 
----
+### Ejercicios 11–15 — Forma y significado
+
+11. Reescribe una frase del texto usando *practicar first / second / third conditional + time clauses (U11–15 review).*.  
+12. Nombra 2 palabras de vocabulario útiles del texto.  
+13. ¿Es correcto *If I will see her, I will call you*? → True / False. Si es False, corrígelo.  
+14. Enlace del curso: [/curso-b1/unit-51](/curso-b1/unit-51)  
+15. Compara con la [guía teórica](/blog/curso-b1/unidad-51-review-conditionals) y marca 1 duda.
+
+<details>
+<summary>Ver solución</summary>
+
+11. Modelo: toma una frase del texto y mantenla con *practicar first / second / third conditional + time clauses (U11–15 review).*.  
+12. Elige 2 palabras clave del texto (nombres, verbos o adjetivos).  
+13. **False** (corrige la forma típica de error con *practicar first / second / third conditional + time clauses (U11–15 review).*).  
+14. **/curso-b1/unit-51**  
+15. Anota tu duda y revísala en la teoría.
+
+</details>
+
 
 ## Lección 4 — Listening: Kate on conditionals
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** escuchar *practicar first / second / third conditional + time clauses (U11–15 review).* en contexto.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-51/listening-workbook.mp3" title="🔊 Listening: Kate on conditionals"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Kate. If it rains tomorrow, we'll stay at home. If I had more time, I'd learn another language. If we had left earlier, we would have caught the train. When I finish work, I'll call you. Unless you hurry, you'll miss the bus.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Kate / Leo / Olivia*
-2. If it ___ tomorrow → *rains / will rain*
-3. If I ___ time → *had / have*
-4. If we ___ earlier → *had left / left*
-5. When I ___ work → *finish / will finish*
+1. ¿Quién habla?  
+2. Completa según el audio: Hi, I am ___.  
+3. Completa: If it rains ___, we'll stay at home.  
+4. Completa: If I had more time, I'd learn another ___.  
+5. Completa: If we had left ___, we would have caught the train.
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Kate** · 2. **rains** · 3. **had** · 4. **had left** · 5. **finish**
+1. **Kate**  
+2. **Kate**  
+3. **tomorrow**  
+4. **language**  
+5. **earlier**
 
 </details>
 
 ### Ejercicios 6–10 — Detalles
 
-6. Main grammar? → *conditionals / passive*
-7. Find third conditional
-8. Find unless
-9. Write first conditional
-10. Mixed topics? → *yes / none*
+6. Completa: When I ___ work, I'll call you.  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Copia una frase del guion con el foco gramatical.  
+9. Copia otra frase útil del guion.  
+10. Resume en una frase lo que dice Kate.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **conditionals** · 7. **If we had left we would have caught** · 8. **Unless you hurry** · 9. **Model OK** · 10. **travel, weather**
+6. **finish**  
+7. **practicar first / second / third conditional + time clauses (U11–15 review).**  
+8. «If it rains tomorrow, we'll stay at home.»  
+9. «If I had more time, I'd learn another language.»  
+10. Modelo: Kate habla usando *practicar first / second / third conditional + time clauses (U11–15 review).* sobre el tema del audio.
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Shadow
-12. will in if-clause? → *False / True*
-13. Course → */curso-b1/unit-51*
-14. time clause + present? → *True / False*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *practicar first / second / third conditional + time clauses (U11–15 review).* (tema libre).  
+12. Di en voz alta 4–5 palabras clave del audio.  
+13. Escucha otra vez e imita (shadowing) una frase completa.  
+14. ¿Es correcto *If I will see her, I will call you*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **done** · 12. **False** · 13. **/curso-b1/unit-51** · 14. **True** · 15. **yes**
+11. Modelo: crea una frase natural con *practicar first / second / third conditional + time clauses (U11–15 review).*.  
+12. Pronunciación libre — revisa la [guía teórica](/blog/curso-b1/unidad-51-review-conditionals).  
+13. Elige una frase del guion e imítala.  
+14. **False**  
+15. ✓
 
 </details>
 
----
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *first / second / third conditional + time clauses (U11–15 review)*.
+
+Escribe tus respuestas. Luego compara con las pistas de la solución.
 
 1. Escribe 1× first, second, third y time clause.
 2. Completa: If it ___ tomorrow, we'll stay home.
@@ -298,30 +346,29 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 12. Traduce: Si hubiéramos salido antes, habríamos cogido el tren.
 13. Explica first vs third en 1 frase.
 14. Escribe 1× unless.
-15. Autochequeo: no will en if-clause.
+15. Autochequeo: marca sí/no si has usado bien el foco gramatical en tus frases.
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open four.
-2. **rains**
-3. **had**
-4. **had left**
-5. **finish**
-6. If it **rains**, we'll stay home.
-7. If I **had** time…
-8. Open.
-9. OK.
-10. Open.
-11. If it rains tomorrow, we'll stay at home.
-12. If we had left earlier, we would have caught the train.
-13. First=probable future; third=past regret.
-14. OK.
-15. Self-check.
+1. Modelo libre correcto con *first / second / third conditional + time clauses (U11–15 review)*.
+2. Completa según la regla de *first / second / third conditional + time clauses (U11–15 review)* (mira la teoría si dudas).
+3. Completa según la regla de *first / second / third conditional + time clauses (U11–15 review)* (mira la teoría si dudas).
+4. Completa según la regla de *first / second / third conditional + time clauses (U11–15 review)* (mira la teoría si dudas).
+5. Completa según la regla de *first / second / third conditional + time clauses (U11–15 review)* (mira la teoría si dudas).
+6. Corrige: *If it will rain, we stay home.* → forma correcta con *first / second / third conditional + time clauses (U11–15 review)*.
+7. Corrige: *If I would have time…* → forma correcta con *first / second / third conditional + time clauses (U11–15 review)*.
+8. Modelo libre correcto con *first / second / third conditional + time clauses (U11–15 review)*.
+9. Modelo libre correcto con *first / second / third conditional + time clauses (U11–15 review)*.
+10. Respuesta abierta — revisa que aparezca *first / second / third conditional + time clauses (U11–15 review)*.
+11. Traduce al inglés usando *first / second / third conditional + time clauses (U11–15 review)*.
+12. Traduce al inglés usando *first / second / third conditional + time clauses (U11–15 review)*.
+13. Explicación breve en 1 frase (concepto clave de *first / second / third conditional + time clauses (U11–15 review)*).
+14. Modelo libre correcto con *first / second / third conditional + time clauses (U11–15 review)*.
+15. Autochequeo: ¿puedes explicar *first / second / third conditional + time clauses (U11–15 review)* con un ejemplo propio? Si no, repasa la [teoría](/blog/curso-b1/unidad-51-review-conditionals).
 
 </details>
 
----
 
 ## Cómo seguir
 
