@@ -1942,7 +1942,9 @@ Continúa con la **Unidad 31 — Articles Advanced & Education**, que abre el M�
         docs,
         count=1,
     )
-    marker = "## Módulos 4–6 (U31–60)"
+    old_marker = "## Módulos 4–6 (U31–60)"
+    current_marker = "## Módulo 4: Determiners & Verb Patterns (U31–40)"
+    marker = old_marker if old_marker in docs else current_marker
     if marker not in docs:
         raise ValueError("Could not locate Modules 4–6 tracker section")
     module_four = """## Módulo 4: Determiners & Verb Patterns (U31–40)
