@@ -114,6 +114,12 @@ export default function BlogPage() {
       description: "Artículos explicativos del curso B1, unidad a unidad.",
       icon: "📙",
       color: "from-amber-600 to-orange-700"
+    },
+    "curso-b2": {
+      name: "Curso B2: Guías por Unidad",
+      description: "Artículos explicativos del curso B2 (FCE), unidad a unidad.",
+      icon: "📕",
+      color: "from-rose-600 to-red-700"
     }
   };
 
@@ -130,6 +136,7 @@ export default function BlogPage() {
     "curso-a1": "Curso A1",
     "curso-a2": "Curso A2",
     "curso-b1": "Curso B1",
+    "curso-b2": "Curso B2",
   };
 
   const searchCategoryOptions = Array.from(

@@ -837,6 +837,7 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   ],
   'unidad-5-repaso-1-4': [
     { courseId: 'b1', unitNumber: 5 },
+    { courseId: 'b2', unitNumber: 5 },
   ],
   'unidad-6-future-will-going-to': [
     { courseId: 'b1', unitNumber: 6 },
@@ -1137,6 +1138,19 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   ],
   'unidad-60-final-b1-review-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 60 },
+  ],
+  'unidad-1-repaso-b1-b2': [
+    { courseId: 'b2', unitNumber: 1 },
+    { courseId: 'b1', unitNumber: 60 },
+  ],
+  'unidad-2-future-tenses-work': [
+    { courseId: 'b2', unitNumber: 2 },
+  ],
+  'unidad-3-gerund-infinitive-education': [
+    { courseId: 'b2', unitNumber: 3 },
+  ],
+  'unidad-4-gerund-object-infinitive-leisure': [
+    { courseId: 'b2', unitNumber: 4 },
   ],
   'unidad-41-verb-preposition-dependent-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 41 },

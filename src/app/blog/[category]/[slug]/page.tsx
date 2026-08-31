@@ -115,6 +115,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     "curso-a1": "Curso A1",
     "curso-a2": "Curso A2",
     "curso-b1": "Curso B1",
+    "curso-b2": "Curso B2",
   };
 
   const normalizedCategory = normalizeCategory(article.category);
@@ -278,6 +279,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     "curso-a1": "bg-emerald-100 text-emerald-800 border-emerald-200",
     "curso-a2": "bg-sky-100 text-sky-800 border-sky-200",
     "curso-b1": "bg-amber-100 text-amber-800 border-amber-200",
+    "curso-b2": "bg-rose-100 text-rose-800 border-rose-200",
     seo: "bg-blue-100 text-blue-800 border-blue-200",
   };
 

@@ -87,6 +87,12 @@ const categoryMetadata: Record<string, { name: string, description: string, icon
     description: "Artículos explicativos del curso B1: Present Perfect Continuous, Past Perfect, condicionales, pasiva y más, unidad a unidad.",
     icon: "📙",
     color: "from-amber-600 to-orange-700"
+  },
+  "curso-b2": {
+    name: "Curso de Inglés B2: Guías por Unidad",
+    description: "Artículos explicativos del curso B2 (Cambridge FCE): futuros avanzados, gerundios, wish, conditionals mixtos y más, unidad a unidad.",
+    icon: "📕",
+    color: "from-rose-600 to-red-700"
   }
 };
 
@@ -116,7 +122,9 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
           ? ['inglés viajes', 'inglés turismo']
           : category === 'examenes'
             ? ['exámenes inglés', 'Cambridge', 'IELTS', 'TOEFL']
-            : category === 'curso-b1'
+            : category === 'curso-b2'
+              ? ['curso inglés B2', 'Cambridge FCE', 'guías curso B2', 'inglés B2 gratis']
+              : category === 'curso-b1'
               ? ['curso inglés B1', 'Present Perfect Continuous B1', 'guías curso B1', 'Cambridge PET']
               : category === 'curso-a2'
               ? ['curso inglés A2', 'Present Perfect A2', 'Past Simple A2', 'guías curso A2']
