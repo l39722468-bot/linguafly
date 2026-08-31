@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (Módulo 2 U16–20 teoría; U11–15 teoría+cuadernos; Módulo 1 U1–10 completo)  
+**Última actualización:** 2026-08-31 (Módulo 2 U16–20 teoría+cuadernos; U11–15 completo; Módulo 1 U1–10 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -17,7 +17,7 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 20 |
 | Artículos dedicados pendientes | 40 |
-| Cuadernos ejercicios+soluciones | 15 |
+| Cuadernos ejercicios+soluciones | 20 |
 
 ---
 
@@ -67,13 +67,13 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 
 | U | Título | Gramática / tema | Teoría | Cuaderno |
 |---|---|---|---|---|
-| 16 | Passive (all tenses) & Heritage | be + V3 en todos los tiempos; history & heritage | ✅ | ❌ |
-| 17 | Modal Passive & Adventure | must/should be + V3; have something done; adventure | ✅ | ❌ |
-| 18 | So / Such / Too / Enough & Cooking | so/such/too/enough; cooking & recipes | ✅ | ❌ |
-| 19 | Advanced Comparatives & Literature | the…the…, by far, much/far; literature | ✅ | ❌ |
-| 20 | Repaso 16–19 | integración | ✅ | ❌ |
+| 16 | Passive (all tenses) & Heritage | be + V3 en todos los tiempos; history & heritage | ✅ | ✅ |
+| 17 | Modal Passive & Adventure | must/should be + V3; have something done; adventure | ✅ | ✅ |
+| 18 | So / Such / Too / Enough & Cooking | so/such/too/enough; cooking & recipes | ✅ | ✅ |
+| 19 | Advanced Comparatives & Literature | the…the…, by far, much/far; literature | ✅ | ✅ |
+| 20 | Repaso 16–19 | integración | ✅ | ✅ |
 
-**Teoría Módulo 2 completa (U11–20).** Cuadernos U16–20 pendientes.
+**Módulo 2 completo (teoría + cuadernos U11–20).**
 
 Teoría M2 (U11–15):
 - [U11](/blog/curso-b2/unidad-11-relative-clauses-culture) · [U12](/blog/curso-b2/unidad-12-relative-clauses-reduction) · [U13](/blog/curso-b2/unidad-13-modals-money) · [U14](/blog/curso-b2/unidad-14-modal-deduction-business) · [U15](/blog/curso-b2/unidad-15-repaso-11-14)
@@ -83,6 +83,9 @@ Teoría M2 (U16–20):
 
 Cuadernos M2 (U11–15):
 - [U11](/blog/curso-b2/unidad-11-relative-clauses-culture-ejercicios-soluciones) · [U12](/blog/curso-b2/unidad-12-relative-clauses-reduction-ejercicios-soluciones) · [U13](/blog/curso-b2/unidad-13-modals-money-ejercicios-soluciones) · [U14](/blog/curso-b2/unidad-14-modal-deduction-business-ejercicios-soluciones) · [U15](/blog/curso-b2/unidad-15-repaso-11-14-ejercicios-soluciones)
+
+Cuadernos M2 (U16–20):
+- [U16](/blog/curso-b2/unidad-16-passive-all-tenses-heritage-ejercicios-soluciones) · [U17](/blog/curso-b2/unidad-17-modal-passive-adventure-ejercicios-soluciones) · [U18](/blog/curso-b2/unidad-18-so-such-too-enough-food-ejercicios-soluciones) · [U19](/blog/curso-b2/unidad-19-advanced-comparatives-literature-ejercicios-soluciones) · [U20](/blog/curso-b2/unidad-20-repaso-16-19-ejercicios-soluciones)
 
 ---
 

@@ -917,6 +917,7 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   ],
   'unidad-20-repaso-16-19-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 20 },
+    { courseId: 'b2', unitNumber: 20 },
   ],
   'unidad-21-gerund-infinitive-hobbies': [
     { courseId: 'b1', unitNumber: 21 },
@@ -1226,6 +1227,18 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
     { courseId: 'b2', unitNumber: 18 },
   ],
   'unidad-19-advanced-comparatives-literature': [
+    { courseId: 'b2', unitNumber: 19 },
+  ],
+  'unidad-16-passive-all-tenses-heritage-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 16 },
+  ],
+  'unidad-17-modal-passive-adventure-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 17 },
+  ],
+  'unidad-18-so-such-too-enough-food-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 18 },
+  ],
+  'unidad-19-advanced-comparatives-literature-ejercicios-soluciones': [
     { courseId: 'b2', unitNumber: 19 },
   ],
   'unidad-41-verb-preposition-dependent-ejercicios-soluciones': [
