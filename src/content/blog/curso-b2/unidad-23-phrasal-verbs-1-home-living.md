@@ -305,6 +305,10 @@ Ejemplo: I was about to tidy up. The dishwasher broke down. She brought up rent.
 
 ---
 
+Antes de cerrar la unidad, recuerda que en casa casi siempre hay **contexto físico**: si dices *break in*, alguien entra; si dices *break down*, algo deja de funcionar; si dices *bring up*, o bien educas a alguien o sacas un tema en la conversación. Esa imagen mental reduce errores más que memorizar listas sueltas. Cuando escribas un email al casero o cuentes una mudanza, elige un phrasal y comprueba si el complemento (objeto) encaja: *bring **up** the rent*, *bring **in** a plumber*, *be **about to** leave*.
+
+---
+
 ## Tip del profesor
 
 Aprende cada phrasal con **una imagen mental de casa**. *Break down* = caldera humeante; *break in* = puerta forzada; *bring up* = sacar un tema en la mesa del comedor; *bring in* = llega el experto con herramientas. La imagen fija el significado mejor que la traducción literal.
