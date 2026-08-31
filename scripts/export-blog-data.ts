@@ -45,6 +45,32 @@ function main() {
     );
   }
 
+  // Contar markdown en disco: si el export cae muy por debajo, algo tumba el parseo YAML.
+  const blogDir = path.join(ROOT, 'src/content/blog');
+  const countMd = (dir: string): number => {
+    let n = 0;
+    for (const name of fs.readdirSync(dir)) {
+      const full = path.join(dir, name);
+      const st = fs.statSync(full);
+      if (st.isDirectory()) n += countMd(full);
+      else if (name.endsWith('.md') || name.endsWith('.mdx')) n += 1;
+    }
+    return n;
+  };
+  let mdCount = 0;
+  try {
+    mdCount = countMd(blogDir);
+  } catch {
+    mdCount = 0;
+  }
+  if (mdCount > 0 && articles.length < mdCount * 0.9) {
+    throw new Error(
+      `[export-blog-data] Solo ${articles.length}/${mdCount} markdown exportados (<90%). ` +
+        `Revisa frontmatter YAML roto (apóstrofes en comillas simples, alt con ':'). ` +
+        `No se sobrescribe blog-articles.json para evitar 404 masivos en Cloudflare Workers.`
+    );
+  }
+
   const stored: StoredArticle[] = articles.map((a) => ({
     slug: a.slug,
     title: a.title,

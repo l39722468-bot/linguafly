@@ -3,7 +3,7 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Had Better & It's Time B1 + Advice'
+title: "Had Better & It's Time B1 + Advice"
 description: >-
   Aprende had better e it's time en inglés B1 con vocabulario de advice. Guía Unidad 46 con audios.
 readTime: 15 min
@@ -16,7 +16,7 @@ keywords:
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-46-had-better-its-time-advice'
 image: /blog/curso-b1/unit-46/had-better-its-time.png
-alt: 'Had better it's time B1'
+alt: "Had better it's time B1"
 related_routes:
   - unidad-46-had-better-its-time-advice-ejercicios-soluciones
   - unidad-45-repaso-41-44

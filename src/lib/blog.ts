@@ -90,37 +90,46 @@ function readArticlesFromMarkdown(): BlogPost[] {
   try {
     const articles = allFiles
       .map((filePath) => {
-        const fileContent = fs.readFileSync(filePath, "utf-8");
-        const { data, content } = matter(fileContent);
-        const slug = path.basename(filePath).replace(/\.mdx?$/, "");
+        try {
+          const fileContent = fs.readFileSync(filePath, "utf-8");
+          const { data, content } = matter(fileContent);
+          const slug = path.basename(filePath).replace(/\.mdx?$/, "");
 
-        if (!data || typeof data !== "object") {
-          console.error(`[BlogLib] FAILED to parse frontmatter for: ${filePath}`);
+          if (!data || typeof data !== "object") {
+            console.error(`[BlogLib] FAILED to parse frontmatter for: ${filePath}`);
+            return null;
+          }
+
+          return {
+            slug,
+            title: data.title || "Untitled",
+            date: data.date || new Date().toISOString(),
+            author: data.author || SITE_BRAND_NAME,
+            authorData: getAuthor(data.author || "linguafly-team"),
+            excerpt: data.excerpt || data.description || "",
+            description: data.description || data.excerpt,
+            category: normalizeCategory(data.category || "General"),
+            readTime: data.readTime || "5 min",
+            image: typeof data.image === "string" && data.image.trim() ? data.image.trim() : undefined,
+            alt: data.alt,
+            keywords: data.keywords || [],
+            faqs: data.faqs || [],
+            featured: data.featured || false,
+            canonical: data.canonical,
+            downloadPdf: data.downloadPdf === true,
+            pdfFileName: data.pdfFileName,
+            pdfDownloadLabel: data.pdfDownloadLabel,
+            updatedDate: data.updatedDate || data.updated_date || undefined,
+            content,
+          } as BlogPost;
+        } catch (fileErr) {
+          // Un frontmatter YAML roto no debe tumbar TODO el blog (Workers export → 404 masivos).
+          console.error(
+            `[BlogLib] Skipping broken markdown ${filePath}:`,
+            fileErr instanceof Error ? fileErr.message.split("\n")[0] : fileErr
+          );
           return null;
         }
-
-        return {
-          slug,
-          title: data.title || "Untitled",
-          date: data.date || new Date().toISOString(),
-          author: data.author || SITE_BRAND_NAME,
-          authorData: getAuthor(data.author || "linguafly-team"),
-          excerpt: data.excerpt || data.description || "",
-          description: data.description || data.excerpt,
-          category: normalizeCategory(data.category || "General"),
-          readTime: data.readTime || "5 min",
-          image: typeof data.image === "string" && data.image.trim() ? data.image.trim() : undefined,
-          alt: data.alt,
-          keywords: data.keywords || [],
-          faqs: data.faqs || [],
-          featured: data.featured || false,
-          canonical: data.canonical,
-          downloadPdf: data.downloadPdf === true,
-          pdfFileName: data.pdfFileName,
-          pdfDownloadLabel: data.pdfDownloadLabel,
-          updatedDate: data.updatedDate || data.updated_date || undefined,
-          content,
-        } as BlogPost;
       })
       .filter((a): a is BlogPost => a !== null);
 

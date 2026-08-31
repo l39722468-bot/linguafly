@@ -45,6 +45,8 @@ Cloudflare Workers **no tienen `fs`** sobre `src/content/blog`. Por eso `cf:buil
 
 Sin el JSON embebido ni esa caché, el blog sale vacío («Próximamente» / 0 relaciones) aunque Next haya visto los markdown en el build.
 
+**Causa típica de 404 en artículos nuevos:** un frontmatter YAML inválido (p. ej. `Won't` / `It's` dentro de comillas simples, o `alt: Mixed Grammar: Sport` sin comillas) hace fallar el parseo. Si `readArticlesFromMarkdown` aborta entero, el export reutiliza un `blog-articles.json` viejo **sin** los posts nuevos → Bing ve 404. El parser ahora salta ficheros rotos; `export-blog-data` aborta si exporta <90% de los `.md`.
+
 ### Build variables / secrets (panel)
 
 **Obligatorias / recomendadas**

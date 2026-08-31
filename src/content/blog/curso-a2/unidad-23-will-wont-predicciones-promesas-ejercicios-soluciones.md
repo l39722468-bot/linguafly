@@ -3,7 +3,7 @@ category: curso-a2
 date: '2026-08-25'
 updatedDate: '2026-08-25'
 author: linguafly-team
-title: 'Ejercicios Unidad 23 A2: Will / Won't (con soluciones)'
+title: "Ejercicios Unidad 23 A2: Will / Won't (con soluciones)"
 description: >-
   Practica todos los ejercicios de la Unidad 23 del curso A2: will/won't para predicciones, promesas y ofertas,
   reading, listening y writing. Con soluciones comentadas.
@@ -16,7 +16,7 @@ keywords:
   - curso A2 Linguafly
 canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones'
 image: /blog/curso-a2/unit-23/a2-unit23-will-wont.png
-alt: Will / Won't — ejercicios A2 Unidad 23
+alt: "Will / Won't — ejercicios A2 Unidad 23"
 related_routes:
   - unidad-23-will-wont-predicciones-promesas
   - unidad-22-going-to-predicciones-ejercicios-soluciones

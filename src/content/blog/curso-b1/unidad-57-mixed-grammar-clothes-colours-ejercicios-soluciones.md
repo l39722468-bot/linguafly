@@ -18,7 +18,7 @@ keywords:
   - ejercicios inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours-ejercicios-soluciones'
 image: /blog/curso-b1/unit-57/mixed-grammar-map.png
-alt: Mixed Grammar: Clothes — ejercicios B1 Unidad 57
+alt: "Mixed Grammar: Clothes — ejercicios B1 Unidad 57"
 related_routes:
   - unidad-57-mixed-grammar-clothes-colours
   - unidad-56-mixed-grammar-sport-ejercicios-soluciones

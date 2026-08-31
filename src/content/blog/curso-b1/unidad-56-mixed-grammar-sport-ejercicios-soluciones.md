@@ -18,7 +18,7 @@ keywords:
   - ejercicios inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-56-mixed-grammar-sport-ejercicios-soluciones'
 image: /blog/curso-b1/unit-56/mixed-grammar-map.png
-alt: Mixed Grammar: Sport — ejercicios B1 Unidad 56
+alt: "Mixed Grammar: Sport — ejercicios B1 Unidad 56"
 related_routes:
   - unidad-56-mixed-grammar-sport
   - unidad-55-repaso-51-54-ejercicios-soluciones

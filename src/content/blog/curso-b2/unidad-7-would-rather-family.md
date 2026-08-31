@@ -3,7 +3,7 @@ category: curso-b2
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Would Rather & It's Time B2 + Family Vocabulary'
+title: "Would Rather & It's Time B2 + Family Vocabulary"
 description: >-
   Aprende would rather, would prefer e It's time en inglés B2 con vocabulario de family. Guía Unidad 7 con audios.
 readTime: 15 min

@@ -18,7 +18,7 @@ keywords:
   - ejercicios inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-58-mixed-grammar-places-ejercicios-soluciones'
 image: /blog/curso-b1/unit-58/mixed-grammar-map.png
-alt: Mixed Grammar: Places — ejercicios B1 Unidad 58
+alt: "Mixed Grammar: Places — ejercicios B1 Unidad 58"
 related_routes:
   - unidad-58-mixed-grammar-places
   - unidad-57-mixed-grammar-clothes-colours-ejercicios-soluciones

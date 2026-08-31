@@ -3,7 +3,7 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Need & Needn't B1 + Necessity'
+title: "Need & Needn't B1 + Necessity"
 description: >-
   Aprende need, needn't y needn't have en inglés B1 con vocabulario de necessity. Guía Unidad 49 con audios.
 readTime: 15 min
@@ -16,7 +16,7 @@ keywords:
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-49-need-neednt-necessity'
 image: /blog/curso-b1/unit-49/need-neednt.png
-alt: 'Need needn't B1'
+alt: "Need needn't B1"
 related_routes:
   - unidad-49-need-neednt-necessity-ejercicios-soluciones
   - unidad-48-phrasal-verbs-work-study

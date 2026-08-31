@@ -3,7 +3,7 @@ category: curso-a2
 date: '2026-08-25'
 updatedDate: '2026-08-25'
 author: linguafly-team
-title: 'Ejercicios Unidad 28 A2: Have to / Don't have to (con soluciones)'
+title: "Ejercicios Unidad 28 A2: Have to / Don't have to (con soluciones)"
 description: >-
   Practica todos los ejercicios de la Unidad 28 del curso A2: have to / has to y don't / doesn't have to (obligación y lo opcional),
   reading, listening y writing. Con soluciones comentadas.

@@ -3,7 +3,7 @@ category: curso-b2
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Ejercicios Unidad 7 B2: Would rather & It's time (con soluciones)'
+title: "Ejercicios Unidad 7 B2: Would rather & It's time (con soluciones)"
 description: >-
   Practica todos los ejercicios de la Unidad 7 del curso B2: would rather + inf; would rather + subject + past; would prefer; It's time + past;
   family, reading, listening y writing. Con soluciones comentadas.

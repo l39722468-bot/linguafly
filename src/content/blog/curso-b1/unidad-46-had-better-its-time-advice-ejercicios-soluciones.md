@@ -3,7 +3,7 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Ejercicios Unidad 46 B1: Had Better & It's Time (con soluciones)'
+title: "Ejercicios Unidad 46 B1: Had Better & It's Time (con soluciones)"
 description: >-
   Practica todos los ejercicios de la Unidad 46 del curso B1: had better / it's time + advice vocabulary;
   advice, reading, listening y writing. Con soluciones comentadas.
