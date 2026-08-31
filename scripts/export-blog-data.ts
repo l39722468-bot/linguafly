@@ -27,6 +27,7 @@ type StoredArticle = {
   alt?: string;
   keywords?: string[];
   faqs?: { question: string; answer: string }[];
+  relatedRoutes?: string[];
   featured?: boolean;
   canonical?: string;
   downloadPdf?: boolean;
@@ -85,6 +86,7 @@ function main() {
     alt: a.alt,
     keywords: a.keywords,
     faqs: a.faqs,
+    relatedRoutes: a.relatedRoutes,
     featured: a.featured,
     canonical: a.canonical,
     downloadPdf: a.downloadPdf,

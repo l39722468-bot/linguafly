@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-57-mixed-grammar-clothes-
 image: /blog/curso-b1/unit-57/mixed-grammar-map.png
 alt: 'Mixed grammar clothes B1'
 related_routes:
+  - unidad-57-mixed-grammar-clothes-colours-ejercicios-soluciones
   - unidad-56-mixed-grammar-sport
   - unidad-58-mixed-grammar-places
   - unidad-47-would-rather-preferences

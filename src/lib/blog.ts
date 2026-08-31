@@ -26,12 +26,22 @@ export interface BlogPost {
   alt?: string;
   keywords?: string[];
   faqs?: { question: string, answer: string }[];
+  /** Slugs de artículos a priorizar en «Artículos relacionados» (frontmatter `related_routes`). */
+  relatedRoutes?: string[];
   featured?: boolean;
   canonical?: string;
   downloadPdf?: boolean;
   pdfFileName?: string;
   pdfDownloadLabel?: string;
   content: string;
+}
+
+/** Par teoría ↔ cuaderno: `unidad-N-…` ↔ `unidad-N-…-ejercicios-soluciones`. */
+export function getTheoryWorkbookPeerSlug(slug: string): string | null {
+  if (slug.endsWith("-ejercicios-soluciones")) {
+    return slug.slice(0, -"-ejercicios-soluciones".length);
+  }
+  return `${slug}-ejercicios-soluciones`;
 }
 
 function getAllFiles(dirPath: string, arrayOfFiles: string[] = []): string[] {
@@ -114,6 +124,9 @@ function readArticlesFromMarkdown(): BlogPost[] {
             alt: data.alt,
             keywords: data.keywords || [],
             faqs: data.faqs || [],
+            relatedRoutes: Array.isArray(data.related_routes)
+              ? data.related_routes.map((r: unknown) => String(r).trim()).filter(Boolean)
+              : [],
             featured: data.featured || false,
             canonical: data.canonical,
             downloadPdf: data.downloadPdf === true,
@@ -234,9 +247,34 @@ export function getArticlesByCategory(category: string): BlogPost[] {
 
 export function getRelatedArticles(currentSlug: string, category: string, limit: number = 3): BlogPost[] {
   const allArticles = getBlogArticles();
-  return allArticles
-    .filter(article => article.slug !== currentSlug && article.category === category)
-    .slice(0, limit);
+  const bySlug = new Map(allArticles.map((article) => [article.slug, article]));
+  const current = bySlug.get(currentSlug);
+  const picked: BlogPost[] = [];
+  const seen = new Set<string>([currentSlug]);
+
+  const push = (article: BlogPost | undefined) => {
+    if (!article || seen.has(article.slug) || picked.length >= limit) return;
+    seen.add(article.slug);
+    picked.push(article);
+  };
+
+  // 1) Par automático teoría ↔ cuaderno de ejercicios (A1/A2/B1/B2)
+  const peerSlug = getTheoryWorkbookPeerSlug(currentSlug);
+  if (peerSlug) push(bySlug.get(peerSlug));
+
+  // 2) Frontmatter related_routes (puede cruzar categorías)
+  for (const route of current?.relatedRoutes || []) {
+    push(bySlug.get(route));
+  }
+
+  // 3) Relleno: misma categoría por fecha (orden ya descendente en getBlogArticles)
+  const normalizedCategory = normalizeCategory(category);
+  for (const article of allArticles) {
+    if (normalizeCategory(article.category) !== normalizedCategory) continue;
+    push(article);
+  }
+
+  return picked;
 }
 
 export function getRelatedByKeywords(currentSlug: string, keywords: string[], limit: number = 3): BlogPost[] {

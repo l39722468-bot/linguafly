@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-60-final-b1-review'
 image: /blog/curso-b1/unit-60/final-review-map.png
 alt: 'Final B1 review complete'
 related_routes:
+  - unidad-60-final-b1-review-ejercicios-soluciones
   - unidad-59-exam-preparation-strategies
   - unidad-55-repaso-51-54
   - unidad-1-repaso-a2-b1

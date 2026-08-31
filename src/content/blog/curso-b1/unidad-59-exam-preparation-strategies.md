@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-59-exam-preparation-strat
 image: /blog/curso-b1/unit-59/exam-strategies-map.png
 alt: 'Exam preparation B1 PET'
 related_routes:
+  - unidad-59-exam-preparation-strategies-ejercicios-soluciones
   - unidad-58-mixed-grammar-places
   - unidad-60-final-b1-review
   - unidad-55-repaso-51-54

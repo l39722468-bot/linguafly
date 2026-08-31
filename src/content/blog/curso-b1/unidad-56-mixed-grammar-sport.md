@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-56-mixed-grammar-sport'
 image: /blog/curso-b1/unit-56/mixed-grammar-map.png
 alt: 'Mixed grammar sport B1'
 related_routes:
+  - unidad-56-mixed-grammar-sport-ejercicios-soluciones
   - unidad-55-repaso-51-54
   - unidad-57-mixed-grammar-clothes-colours
   - unidad-51-review-conditionals

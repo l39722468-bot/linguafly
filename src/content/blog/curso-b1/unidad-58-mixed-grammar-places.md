@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-58-mixed-grammar-places'
 image: /blog/curso-b1/unit-58/mixed-grammar-map.png
 alt: 'Mixed grammar places B1'
 related_routes:
+  - unidad-58-mixed-grammar-places-ejercicios-soluciones
   - unidad-57-mixed-grammar-clothes-colours
   - unidad-59-exam-preparation-strategies
   - unidad-28-articles-buildings
