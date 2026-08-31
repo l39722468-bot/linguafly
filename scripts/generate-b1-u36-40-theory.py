@@ -746,7 +746,7 @@ def make_articles():
 </details>""",
         tip="Clasifica primero: ¿intensidad, descripción, contraste o explicación?",
         next_course="[Unidad 41 — Verb + preposition](/curso-b1/unit-41)",
-        next_blog="Módulo 5 (U41+) — próximamente",
+        next_blog="[U41 — Verb + preposition](/blog/curso-b1/unidad-41-verb-preposition-dependent)",
         guides=["[U36](/blog/curso-b1/unidad-36-so-such-intensifiers)", "[U37](/blog/curso-b1/unidad-37-compound-adjectives-travel)", "[U38](/blog/curso-b1/unidad-38-contrast-opinions)", "[U39](/blog/curso-b1/unidad-39-purpose-reason-explaining)"],
     ))
 

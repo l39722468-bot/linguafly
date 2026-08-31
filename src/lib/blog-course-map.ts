@@ -1033,6 +1033,21 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-40-repaso-36-39-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 40 },
   ],
+  'unidad-41-verb-preposition-dependent': [
+    { courseId: 'b1', unitNumber: 41 },
+  ],
+  'unidad-42-adjective-preposition-feelings': [
+    { courseId: 'b1', unitNumber: 42 },
+  ],
+  'unidad-43-during-for-while-time': [
+    { courseId: 'b1', unitNumber: 43 },
+  ],
+  'unidad-44-for-since-from-time': [
+    { courseId: 'b1', unitNumber: 44 },
+  ],
+  'unidad-45-repaso-41-44': [
+    { courseId: 'b1', unitNumber: 45 },
+  ],
   'unidad-7-was-were-going-to-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 7 },
   ],

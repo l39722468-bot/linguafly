@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U40 + cuadernos U1–U40; Módulo 4 completo)  
+**Última actualización:** 2026-08-31 (teoría U1–U45 + cuadernos U1–U40; Módulo 5 U41–45 teoría)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 40 |
-| Artículos dedicados pendientes | 20 |
+| Artículos dedicados publicados | 45 |
+| Artículos dedicados pendientes | 15 |
 | Cuadernos ejercicios+soluciones | 40 (U1–U40) |
 
 ---
@@ -118,10 +118,24 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | 39 | Purpose & reason | to, so that, because of | ✅ | [Purpose & reason](/blog/curso-b1/unidad-39-purpose-reason-explaining) · [Ejercicios](/blog/curso-b1/unidad-39-purpose-reason-explaining-ejercicios-soluciones) |
 | 40 | Repaso 36–39 | integración | ✅ | [Repaso 36–39](/blog/curso-b1/unidad-40-repaso-36-39) · [Ejercicios](/blog/curso-b1/unidad-40-repaso-36-39-ejercicios-soluciones) |
 
-**Módulo 4 (U31–40) completo.** Siguiente: U41–45.
+**Módulo 4 (U31–40) completo.** Módulo 5 U41–45 teoría publicada.
 
 ---
 
-## Módulos 5–6 (U41–60)
+## Módulo 5: Prepositions & time (U41–45)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 41 | Verb + preposition & Dependent prepositions | depend on, listen to, wait for, look at… | ✅ | [Verb + preposition](/blog/curso-b1/unidad-41-verb-preposition-dependent) |
+| 42 | Adjective + preposition & Feelings & attitudes | interested in, afraid of, good at… | ✅ | [Adj + preposition + feelings](/blog/curso-b1/unidad-42-adjective-preposition-feelings) |
+| 43 | During, for, while & Time | during/for/while | ✅ | [During, for, while](/blog/curso-b1/unidad-43-during-for-while-time) |
+| 44 | For, since, from & Time expressions | for, since, from | ✅ | [For, since, from](/blog/curso-b1/unidad-44-for-since-from-time) |
+| 45 | Repaso 41–44 | integración preposiciones y tiempo | ✅ | [Repaso 41–44](/blog/curso-b1/unidad-45-repaso-41-44) |
+
+**Módulo 5 (U41–45) teoría completa.** Siguiente: U46–50.
+
+---
+
+## Módulos 5–6 (U46–60)
 
 Pendiente de seguimiento detallado cuando se publiquen los artículos. Ver [planificación B1](./curso-b1-planificacion.md) y [objetivos por unidad](./curso-b1-objetivos-y-ejercicios.md).

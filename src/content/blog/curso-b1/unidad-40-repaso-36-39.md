@@ -144,7 +144,7 @@ Curso:
 
 Guía teórica siguiente:
 
-- Módulo 5 (U41+) — próximamente
+- [U41 — Verb + preposition](/blog/curso-b1/unidad-41-verb-preposition-dependent)
 
 Guías relacionadas:
 
