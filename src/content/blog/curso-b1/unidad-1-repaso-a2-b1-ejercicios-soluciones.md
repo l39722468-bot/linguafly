@@ -1,46 +1,46 @@
 ---
+alt: Repaso A2 → B1 — ejercicios B1 Unidad 1
+author: linguafly-team
+canonical: https://www.linguafly.app/blog/curso-b1/unidad-1-repaso-a2-b1-ejercicios-soluciones
 category: curso-b1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
-author: linguafly-team
-title: 'Ejercicios Unidad 1 B1: Repaso A2 → B1 (con soluciones)'
-description: >-
-  Practica todos los ejercicios de la Unidad 1 del curso B1: Repaso A2→B1: Present Perfect, modales, used to, who/which, feelings,
-  reading, listening y writing. Con soluciones comentadas.
-readTime: 25 min
-keywords:
-  - ejercicios inglés B1 unidad 1
-  - repaso A2 B1 ejercicios
-  - used to who which
-  - feelings B1
-  - curso B1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-1-repaso-a2-b1-ejercicios-soluciones'
-image: /blog/curso-b1/unit-1/a2-to-b1.png
-alt: Repaso A2 → B1 — ejercicios B1 Unidad 1
-related_routes:
-  - unidad-1-repaso-a2-b1
-  - unidad-60-module-6-review-ejercicios-soluciones
-  - present-perfect-usos-principales
-  - gramatica-ingles-b1-guia
+description: 'Practica todos los ejercicios de la Unidad 1 del curso B1: Repaso A2→B1:
+  Present Perfect, modales, used to, who/which, feelings, reading, listening y writing.
+  Con soluciones comentadas.'
+excerpt: Cuaderno de ejercicios de la Unidad 1 B1 (Repaso A2 → B1) con soluciones.
 faqs:
-  - question: ¿Qué ejercicios incluye la Unidad 1 del curso B1?
-    answer: >-
-      Cinco lecciones con 15 actividades cada una sobre Present Perfect, modales, used to, who/which, feelings,
-      más reading, listening y writing.
-  - question: ¿Cómo uso este artículo?
-    answer: >-
-      Haz cada ejercicio sin mirar la solución. Después abre «Ver solución» y
-      lee la explicación. Si fallas, repasa la guía teórica y el curso.
-  - question: ¿Cuál es el foco gramatical?
-    answer: >-
-      Present Perfect, modales, used to, who/which, feelings.
-  - question: ¿Dónde practico en el curso?
-    answer: >-
-      En la Unidad 1 del curso B1 de Linguafly: gramática, vocabulario,
-      reading, listening, speaking y writing.
-excerpt: >-
-  Cuaderno de ejercicios de la Unidad 1 B1 (Repaso A2 → B1) con soluciones.
+- answer: Cinco lecciones con 15 actividades cada una sobre Present Perfect, modales,
+    used to, who/which, feelings, más reading, listening y writing.
+  question: ¿Qué ejercicios incluye la Unidad 1 del curso B1?
+- answer: Haz cada ejercicio sin mirar la solución. Después abre «Ver solución» y
+    lee la explicación. Si fallas, repasa la guía teórica y el curso.
+  question: ¿Cómo uso este artículo?
+- answer: Present Perfect, modales, used to, who/which, feelings.
+  question: ¿Cuál es el foco gramatical?
+- answer: 'En la Unidad 1 del curso B1 de Linguafly: gramática, vocabulario, reading,
+    listening, speaking y writing.'
+  question: ¿Dónde practico en el curso?
+image: /blog/curso-b1/unit-1/a2-to-b1.png
+keywords:
+- ejercicios inglés B1 unidad 1
+- repaso A2 B1 ejercicios
+- used to who which
+- feelings B1
+- curso B1 Linguafly
+- curso de inglés gratis
+- aprender inglés gratis
+- curso de inglés online gratis
+- curso inglés B1 gratis
+readTime: 25 min
+related_routes:
+- unidad-1-repaso-a2-b1
+- unidad-60-module-6-review-ejercicios-soluciones
+- present-perfect-usos-principales
+- gramatica-ingles-b1-guia
+title: 'Ejercicios Unidad 1 B1: Repaso A2 → B1 (con soluciones)'
+updatedDate: '2026-08-25'
 ---
+
 Este artículo reúne **los ejercicios de la Unidad 1 del curso B1** (*Repaso A2 → B1*) con **soluciones comentadas**.
 
 > **Guía teórica:** [Repaso A2 → B1 B1](/blog/curso-b1/unidad-1-repaso-a2-b1)  

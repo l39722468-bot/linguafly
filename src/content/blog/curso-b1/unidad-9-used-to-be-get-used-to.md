@@ -9,7 +9,7 @@ description: >-
   vocabulario de habits & lifestyle y audios.
 readTime: 16 min
 keywords:
-  - - used to be used to get used to
+  - used to be used to get used to
   - used to B1
   - acostumbrarse en inglés
   - habits lifestyle vocabulary

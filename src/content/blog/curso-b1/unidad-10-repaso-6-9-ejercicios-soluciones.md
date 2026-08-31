@@ -9,7 +9,7 @@ description: >-
   travel, plans, feelings, habits (mix), reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - - ejercicios inglés B1 unidad 10
+  - ejercicios inglés B1 unidad 10
   - repaso B1 unidades 6-9
   - ejercicios integración B1
   - must used to going to

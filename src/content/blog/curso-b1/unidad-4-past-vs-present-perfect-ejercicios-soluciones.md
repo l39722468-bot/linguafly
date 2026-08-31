@@ -1,45 +1,46 @@
 ---
+alt: Past vs Present Perfect — ejercicios B1 Unidad 4
+author: linguafly-team
+canonical: https://www.linguafly.app/blog/curso-b1/unidad-4-past-vs-present-perfect-ejercicios-soluciones
 category: curso-b1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
-author: linguafly-team
-title: 'Ejercicios Unidad 4 B1: Past Simple vs Present Perfect (con soluciones)'
-description: >-
-  Practica todos los ejercicios de la Unidad 4 del curso B1: Past Simple vs Present Perfect: yesterday vs ever/just/already/yet,
-  reading, listening y writing. Con soluciones comentadas.
-readTime: 25 min
-keywords:
-  - ejercicios inglés B1 unidad 4
-  - Past Simple vs Present Perfect
-  - ever never just already yet
-  - curso B1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-4-past-vs-present-perfect-ejercicios-soluciones'
-image: /blog/curso-b1/unit-4/past-vs-pp.png
-alt: Past vs Present Perfect — ejercicios B1 Unidad 4
-related_routes:
-  - unidad-4-past-vs-present-perfect
-  - unidad-3-past-perfect-ejercicios-soluciones
-  - present-perfect-vs-past-simple
-  - cursos-online-ingles-b1
+description: 'Practica todos los ejercicios de la Unidad 4 del curso B1: Past Simple
+  vs Present Perfect: yesterday vs ever/just/already/yet, reading, listening y writing.
+  Con soluciones comentadas.'
+excerpt: Cuaderno de ejercicios de la Unidad 4 B1 (Past Simple vs Present Perfect)
+  con soluciones.
 faqs:
-  - question: ¿Qué ejercicios incluye la Unidad 4 del curso B1?
-    answer: >-
-      Cinco lecciones con 15 actividades cada una sobre Past Simple vs Present Perfect,
-      más reading, listening y writing.
-  - question: ¿Cómo uso este artículo?
-    answer: >-
-      Haz cada ejercicio sin mirar la solución. Después abre «Ver solución» y
-      lee la explicación. Si fallas, repasa la guía teórica y el curso.
-  - question: ¿Cuál es el foco gramatical?
-    answer: >-
-      Past Simple vs Present Perfect; time expressions.
-  - question: ¿Dónde practico en el curso?
-    answer: >-
-      En la Unidad 4 del curso B1 de Linguafly: gramática, vocabulario,
-      reading, listening, speaking y writing.
-excerpt: >-
-  Cuaderno de ejercicios de la Unidad 4 B1 (Past Simple vs Present Perfect) con soluciones.
+- answer: Cinco lecciones con 15 actividades cada una sobre Past Simple vs Present
+    Perfect, más reading, listening y writing.
+  question: ¿Qué ejercicios incluye la Unidad 4 del curso B1?
+- answer: Haz cada ejercicio sin mirar la solución. Después abre «Ver solución» y
+    lee la explicación. Si fallas, repasa la guía teórica y el curso.
+  question: ¿Cómo uso este artículo?
+- answer: Past Simple vs Present Perfect; time expressions.
+  question: ¿Cuál es el foco gramatical?
+- answer: 'En la Unidad 4 del curso B1 de Linguafly: gramática, vocabulario, reading,
+    listening, speaking y writing.'
+  question: ¿Dónde practico en el curso?
+image: /blog/curso-b1/unit-4/past-vs-pp.png
+keywords:
+- ejercicios inglés B1 unidad 4
+- Past Simple vs Present Perfect
+- ever never just already yet
+- curso B1 Linguafly
+- curso de inglés gratis
+- aprender inglés gratis
+- curso de inglés online gratis
+- curso inglés B1 gratis
+readTime: 25 min
+related_routes:
+- unidad-4-past-vs-present-perfect
+- unidad-3-past-perfect-ejercicios-soluciones
+- present-perfect-vs-past-simple
+- cursos-online-ingles-b1
+title: 'Ejercicios Unidad 4 B1: Past Simple vs Present Perfect (con soluciones)'
+updatedDate: '2026-08-25'
 ---
+
 Este artículo reúne **los ejercicios de la Unidad 4 del curso B1** (*Past Simple vs Present Perfect*) con **soluciones comentadas**.
 
 > **Guía teórica:** [Past vs Present Perfect B1](/blog/curso-b1/unidad-4-past-vs-present-perfect)  
@@ -352,4 +353,3 @@ Guías relacionadas:
 
 - [Past vs Present Perfect B1 (teoría)](/blog/curso-b1/unidad-4-past-vs-present-perfect)
 - [Unidad 4 del curso B1](/curso-b1/unit-4)
-

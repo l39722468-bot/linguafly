@@ -1,45 +1,46 @@
 ---
+alt: Future forms — ejercicios B1 Unidad 6
+author: linguafly-team
+canonical: https://www.linguafly.app/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones
 category: curso-b1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
-author: linguafly-team
-title: 'Ejercicios Unidad 6 B1: Future: will / going to / continuous (con soluciones)'
-description: >-
-  Practica todos los ejercicios de la Unidad 6 del curso B1: will / going to / Present Continuous future; travel,
-  reading, listening y writing. Con soluciones comentadas.
-readTime: 25 min
-keywords:
-  - ejercicios inglés B1 unidad 6
-  - will going to ejercicios
-  - present continuous future
-  - curso B1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones'
-image: /blog/curso-b1/unit-6/future-forms.png
-alt: Future forms — ejercicios B1 Unidad 6
-related_routes:
-  - unidad-6-future-will-going-to
-  - unidad-5-repaso-1-4-ejercicios-soluciones
-  - will-going-to-diferencia
-  - cursos-online-ingles-b1
+description: 'Practica todos los ejercicios de la Unidad 6 del curso B1: will / going
+  to / Present Continuous future; travel, reading, listening y writing. Con soluciones
+  comentadas.'
+excerpt: 'Cuaderno de ejercicios de la Unidad 6 B1 (Future: will / going to / continuous)
+  con soluciones.'
 faqs:
-  - question: ¿Qué ejercicios incluye la Unidad 6 del curso B1?
-    answer: >-
-      Cinco lecciones con 15 actividades cada una sobre will / going to / Present Continuous future,
-      más reading, listening y writing.
-  - question: ¿Cómo uso este artículo?
-    answer: >-
-      Haz cada ejercicio sin mirar la solución. Después abre «Ver solución» y
-      lee la explicación. Si fallas, repasa la guía teórica y el curso.
-  - question: ¿Cuál es el foco gramatical?
-    answer: >-
-      will / going to / Present Continuous future; timetables.
-  - question: ¿Dónde practico en el curso?
-    answer: >-
-      En la Unidad 6 del curso B1 de Linguafly: gramática, vocabulario,
-      reading, listening, speaking y writing.
-excerpt: >-
-  Cuaderno de ejercicios de la Unidad 6 B1 (Future: will / going to / continuous) con soluciones.
+- answer: Cinco lecciones con 15 actividades cada una sobre will / going to / Present
+    Continuous future, más reading, listening y writing.
+  question: ¿Qué ejercicios incluye la Unidad 6 del curso B1?
+- answer: Haz cada ejercicio sin mirar la solución. Después abre «Ver solución» y
+    lee la explicación. Si fallas, repasa la guía teórica y el curso.
+  question: ¿Cómo uso este artículo?
+- answer: will / going to / Present Continuous future; timetables.
+  question: ¿Cuál es el foco gramatical?
+- answer: 'En la Unidad 6 del curso B1 de Linguafly: gramática, vocabulario, reading,
+    listening, speaking y writing.'
+  question: ¿Dónde practico en el curso?
+image: /blog/curso-b1/unit-6/future-forms.png
+keywords:
+- ejercicios inglés B1 unidad 6
+- will going to ejercicios
+- present continuous future
+- curso B1 Linguafly
+- curso de inglés gratis
+- aprender inglés gratis
+- curso de inglés online gratis
+- curso inglés B1 gratis
+readTime: 25 min
+related_routes:
+- unidad-6-future-will-going-to
+- unidad-5-repaso-1-4-ejercicios-soluciones
+- will-going-to-diferencia
+- cursos-online-ingles-b1
+title: 'Ejercicios Unidad 6 B1: Future: will / going to / continuous (con soluciones)'
+updatedDate: '2026-08-25'
 ---
+
 Este artículo reúne **los ejercicios de la Unidad 6 del curso B1** (*Future: will / going to / continuous*) con **soluciones comentadas**.
 
 > **Guía teórica:** [Future forms B1](/blog/curso-b1/unidad-6-future-will-going-to)  
@@ -353,4 +354,3 @@ Guías relacionadas:
 
 - [Future forms B1 (teoría)](/blog/curso-b1/unidad-6-future-will-going-to)
 - [Unidad 6 del curso B1](/curso-b1/unit-6)
-

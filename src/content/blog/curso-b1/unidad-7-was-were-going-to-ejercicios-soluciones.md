@@ -9,7 +9,7 @@ description: >-
   plans & intentions, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - - ejercicios inglés B1 unidad 7
+  - ejercicios inglés B1 unidad 7
   - was were going to ejercicios
   - planes no realizados
   - I was going to

@@ -9,7 +9,7 @@ description: >-
   habits & lifestyle, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - - ejercicios inglés B1 unidad 9
+  - ejercicios inglés B1 unidad 9
   - used to ejercicios B1
   - be used to get used to
   - habits lifestyle

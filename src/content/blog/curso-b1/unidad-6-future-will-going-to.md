@@ -1,56 +1,54 @@
 ---
+alt: Contraste will, going to y present continuous para el futuro B1
+author: linguafly-team
+canonical: https://www.linguafly.app/blog/curso-b1/unidad-6-future-will-going-to
 category: curso-b1
 date: '2026-08-17'
-updatedDate: '2026-08-17'
-author: linguafly-team
-title: 'Future B1: will, going to y present continuous (travel)'
-description: >-
-  Contrasta will, going to y present continuous para el futuro en inglés B1:
-  predicciones, planes e intenciones, arreglos fijos. Guía Unidad 6 con
-  vocabulario de travel y audios.
-readTime: 16 min
-keywords:
-  - will vs going to B1
-  - present continuous futuro
-  - future forms inglés B1
-  - travel transport vocabulary
-  - inglés B1 unidad 6
-  - am going to
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-6-future-will-going-to'
-image: /blog/curso-b1/unit-6/future-forms.png
-alt: Contraste will, going to y present continuous para el futuro B1
-related_routes:
-  - unidad-6-future-will-going-to-ejercicios-soluciones
-  - unidad-5-repaso-1-4-ejercicios-soluciones
-  - will-going-to-diferencia
-  - unidad-5-repaso-1-4
-  - will-ejercicios-ingles
-  - cursos-online-ingles-b1
+description: 'Contrasta will, going to y present continuous para el futuro en inglés
+  B1: predicciones, planes e intenciones, arreglos fijos. Guía Unidad 6 con vocabulario
+  de travel y audios.'
+excerpt: 'Guía de la Unidad 6 del curso B1: will, going to y present continuous para
+  el futuro, con vocabulario de travel y el viaje a Tokio.'
 faqs:
-  - question: ¿Cuándo uso will?
-    answer: >-
-      Predicciones de opinión (I think it will rain), promesas (I will call
-      you), decisiones espontáneas (Wait, I will help you) y planes inciertos
-      (I will probably stay at home).
-  - question: ¿Cuándo uso going to?
-    answer: >-
-      Planes o intenciones ya decididos (I am going to visit my parents) y
-      predicciones con evidencia (Look at the clouds! It is going to rain).
-  - question: ¿Cuándo uso present continuous para el futuro?
-    answer: >-
-      Arreglos fijos con hora/lugar (She is meeting her boss at 3 PM; We are
-      flying to Rome on Friday). Suele haber billete, cita o acuerdo.
-  - question: ¿Y el Present Simple para el futuro?
-    answer: >-
-      Horarios oficiales: The flight departs at 10 AM. El avión “sale” según el
-      horario, no es tu plan personal.
-  - question: ¿Dónde practico la Unidad 6 del curso B1?
-    answer: >-
-      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones) y en la Unidad 6 del curso B1 de Linguafly: will / going to / continuous,
-      travel & transport, reading, listening, speaking y writing.
-excerpt: >-
-  Guía de la Unidad 6 del curso B1: will, going to y present continuous para el
-  futuro, con vocabulario de travel y el viaje a Tokio.
+- answer: Predicciones de opinión (I think it will rain), promesas (I will call you),
+    decisiones espontáneas (Wait, I will help you) y planes inciertos (I will probably
+    stay at home).
+  question: ¿Cuándo uso will?
+- answer: Planes o intenciones ya decididos (I am going to visit my parents) y predicciones
+    con evidencia (Look at the clouds! It is going to rain).
+  question: ¿Cuándo uso going to?
+- answer: Arreglos fijos con hora/lugar (She is meeting her boss at 3 PM; We are flying
+    to Rome on Friday). Suele haber billete, cita o acuerdo.
+  question: ¿Cuándo uso present continuous para el futuro?
+- answer: 'Horarios oficiales: The flight departs at 10 AM. El avión “sale” según
+    el horario, no es tu plan personal.'
+  question: ¿Y el Present Simple para el futuro?
+- answer: 'En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones)
+    y en la Unidad 6 del curso B1 de Linguafly: will / going to / continuous, travel
+    & transport, reading, listening, speaking y writing.'
+  question: ¿Dónde practico la Unidad 6 del curso B1?
+image: /blog/curso-b1/unit-6/future-forms.png
+keywords:
+- will vs going to B1
+- present continuous futuro
+- future forms inglés B1
+- travel transport vocabulary
+- inglés B1 unidad 6
+- am going to
+- curso de inglés gratis
+- aprender inglés gratis
+- curso de inglés online gratis
+- curso inglés B1 gratis
+readTime: 16 min
+related_routes:
+- unidad-6-future-will-going-to-ejercicios-soluciones
+- unidad-5-repaso-1-4-ejercicios-soluciones
+- will-going-to-diferencia
+- unidad-5-repaso-1-4
+- will-ejercicios-ingles
+- cursos-online-ingles-b1
+title: 'Future B1: will, going to y present continuous (travel)'
+updatedDate: '2026-08-17'
 ---
 
 Tras el [Repaso 1–4](/blog/curso-b1/unidad-5-repaso-1-4), la **Unidad 6 del curso B1** (*Future: will, going to, present continuous*) te enseña a **elegir la forma futura** correcta: predicción, plan o arreglo fijo — con vocabulario de **travel & transport**.

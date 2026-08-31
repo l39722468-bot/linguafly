@@ -9,7 +9,7 @@ description: >-
   no se realizaron. Guía Unidad 7 con vocabulario de plans & intentions y audios.
 readTime: 15 min
 keywords:
-  - - was were going to B1
+  - was were going to B1
   - planes no realizados inglés
   - I was going to
   - change your mind postpone
