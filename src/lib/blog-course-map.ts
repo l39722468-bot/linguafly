@@ -1048,6 +1048,21 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-45-repaso-41-44': [
     { courseId: 'b1', unitNumber: 45 },
   ],
+  'unidad-46-had-better-its-time-advice': [
+    { courseId: 'b1', unitNumber: 46 },
+  ],
+  'unidad-47-would-rather-preferences': [
+    { courseId: 'b1', unitNumber: 47 },
+  ],
+  'unidad-48-phrasal-verbs-work-study': [
+    { courseId: 'b1', unitNumber: 48 },
+  ],
+  'unidad-49-need-neednt-necessity': [
+    { courseId: 'b1', unitNumber: 49 },
+  ],
+  'unidad-50-repaso-46-49': [
+    { courseId: 'b1', unitNumber: 50 },
+  ],
   'unidad-41-verb-preposition-dependent-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 41 },
   ],

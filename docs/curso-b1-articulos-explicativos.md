@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U45 + cuadernos U1–U45; Módulo 5 U41–45 completo)  
+**Última actualización:** 2026-08-31 (teoría U1–U50 + cuadernos U1–U45; Módulo 5 U41–45 completo, U46–50 teoría)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -12,9 +12,9 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 45 |
-| Artículos dedicados pendientes | 15 |
-| Cuadernos ejercicios+soluciones | 40 (U1–U40) |
+| Artículos dedicados publicados | 50 |
+| Artículos dedicados pendientes | 10 |
+| Cuadernos ejercicios+soluciones | 45 (U1–U45) |
 
 ---
 
@@ -132,10 +132,24 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | 44 | For, since, from & Time expressions | for, since, from | ✅ | [For, since, from](/blog/curso-b1/unidad-44-for-since-from-time) · [Ejercicios](/blog/curso-b1/unidad-44-for-since-from-time-ejercicios-soluciones) |
 | 45 | Repaso 41–44 | integración preposiciones y tiempo | ✅ | [Repaso 41–44](/blog/curso-b1/unidad-45-repaso-41-44) · [Ejercicios](/blog/curso-b1/unidad-45-repaso-41-44-ejercicios-soluciones) |
 
-**Módulo 5 (U41–45) completo.** Siguiente: U46–50.
+**Módulo 5 (U41–45) completo.**
 
 ---
 
-## Módulos 5–6 (U46–60)
+## Módulo 5 (continuación): Advice & necessity (U46–50)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 46 | Had better, it's time & Advice | had better, it's time | ✅ | [Had better, it's time](/blog/curso-b1/unidad-46-had-better-its-time-advice) |
+| 47 | Would rather, would sooner & Preferences | would rather, would sooner | ✅ | [Would rather](/blog/curso-b1/unidad-47-would-rather-preferences) |
+| 48 | Phrasal verbs 3 & Work & study | work out, look forward to, run out of… | ✅ | [Phrasal verbs 3](/blog/curso-b1/unidad-48-phrasal-verbs-work-study) |
+| 49 | Need, needn't & Necessity | need, needn't, needn't have | ✅ | [Need, needn't](/blog/curso-b1/unidad-49-need-neednt-necessity) |
+| 50 | Repaso 46–49 | integración advice, preferences, phrasal verbs, necessity | ✅ | [Repaso 46–49](/blog/curso-b1/unidad-50-repaso-46-49) |
+
+**Teoría U46–50 completa.** Cuadernos U46–50 pendientes.
+
+---
+
+## Módulos 6 (U51–60)
 
 Pendiente de seguimiento detallado cuando se publiquen los artículos. Ver [planificación B1](./curso-b1-planificacion.md) y [objetivos por unidad](./curso-b1-objetivos-y-ejercicios.md).

@@ -144,7 +144,7 @@ Curso:
 
 Guía teórica siguiente:
 
-- Módulo 5 (U46+) — próximamente
+- [U46 — Had better, it's time + advice](/blog/curso-b1/unidad-46-had-better-its-time-advice)
 
 Guías relacionadas:
 
