@@ -1221,7 +1221,9 @@ def write_articles_u23_25():
             excerpt="Guía de la Unidad 23 del curso B2: phrasal verbs con BE, BREAK y BRING y vocabulario de home & living.",
             intro="""Tras los [linkers de razón y propósito](/blog/curso-b2/unidad-22-linkers-reason-purpose-photography), la **Unidad 23** abre el bloque de **phrasal verbs** del Módulo 3. El temario oficial se centra en tres verbos base: **BE** (*be about to, be up to*), **BREAK** (*break down, break in, break out*) y **BRING** (*bring up, bring about, bring in*), siempre en situaciones de **home & living**: reformas, mudanzas, averías y convivencia.
 
-Los phrasal verbs no se traducen pieza a pieza. *Break* no es siempre “romper” y *bring* no es siempre “traer”. Por eso esta guía insiste en **significado + ejemplo doméstico + audio**. Cuando puedas narrar una mañana de averías (*about to leave → boiler broke down → brought in a plumber*) sin mirar el diccionario, habrás asimilado el núcleo de la unidad.""",
+Los phrasal verbs no se traducen pieza a pieza. *Break* no es siempre “romper” y *bring* no es siempre “traer”. Por eso esta guía insiste en **significado + ejemplo doméstico + audio**. Cuando puedas narrar una mañana de averías (*about to leave → boiler broke down → brought in a plumber*) sin mirar el diccionario, habrás asimilado el núcleo de la unidad.
+
+En B2 estos phrasals aparecen en emails al casero, mensajes a compañeros de piso, anuncios de reforma y relatos cotidianos. Si solo memorizas la traducción española, en cuanto cambie el sujeto (*boiler / talks / he*) te quedarás bloqueado. Aquí entrenamos **el mismo phrasal en varios sentidos**, con tablas claras y mucha prosa explicativa para que el patrón se fije de verdad, no solo de oído.""",
             before="[U22 — Linkers reason/purpose + photography](/blog/curso-b2/unidad-22-linkers-reason-purpose-photography)",
             learn=[
                 "**be about to / be up to / be up for** en contexto doméstico",
@@ -1233,6 +1235,10 @@ Los phrasal verbs no se traducen pieza a pieza. *Break* no es siempre “romper�
             sections=r"""## 1. Cómo estudiar phrasal verbs en B2
 
 No memorices listas aisladas. Agrupa por **verbo base** y por **escena**. En esta unidad la escena es el hogar: estás a punto de salir, la caldera se avería, alguien fuerza la puerta, sacas un tema en la reunión familiar, contratas a un diseñador. Cada phrasal encaja en esa película.
+
+Un método que funciona muy bien es escribir **una sola historia de ocho frases** y forzar que entren todos los phrasals del temario. Cuando la historia te sale sin mirar apuntes, el aprendizaje ya no depende de la lista: depende del contexto, que es exactamente cómo los nativos recuperan estos verbos en conversación.
+
+Otro truco útil: separa en tu cuaderno tres columnas —*máquina / personas / ideas*— y coloca debajo cada sentido de *break down* y *bring up*. Así evitas la falsa seguridad de “ya sé lo que significa” cuando en realidad solo conocías un sentido.
 
 ![Phrasal BE BREAK BRING](/blog/curso-b2/unit-23/phrasal-be-break-bring.png)
 
@@ -1248,7 +1254,15 @@ No memorices listas aisladas. Agrupa por **verbo base** y por **escena**. En est
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-23/about-to-leave.mp3" title="🔊 about to"></audio>
 
-*Be about to* + infinitivo marca inminencia. *Be up to* en preguntas informales es el clásico “¿qué has andado haciendo?”. *Be up for* expresa actitud positiva hacia un plan (*up for redecorating this weekend?*).
+*Be about to* + infinitivo marca inminencia. No es un plan lejano (*I'm going to renovate next year*); es “estaba a punto de… cuando pasó X”. Por eso combina tan bien con interrupciones domésticas: el fontanero, una fuga, un paquete en la puerta.
+
+*Be up to* en preguntas informales es el clásico “¿qué has andado haciendo?”. También puede sugerir algo un poco misterioso o travieso (*What are the kids up to in the garage?*). *Be up for* expresa actitud positiva hacia un plan (*up for redecorating this weekend?*). Si confundes *up to* y *up for*, recuerda: **to** = actividad; **for** = disposición.
+
+Ejemplos extra para fijar el contraste:
+
+> We **were about to** move in when we found a leak.  
+> What **have you been up to** with the open-plan kitchen?  
+> I'm **up for** bringing in a designer if you are.
 
 ---
 
@@ -1264,7 +1278,9 @@ No memorices listas aisladas. Agrupa por **verbo base** y por **escena**. En est
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-23/broke-down.mp3" title="🔊 broke down"></audio>
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-23/broke-in.mp3" title="🔊 broke in"></audio>
 
-El mismo *break down* cambia con el sujeto: máquina, conversación o persona. Entrena el oído con ejemplos distintos en lugar de una sola traducción.
+El mismo *break down* cambia con el sujeto: máquina, conversación o persona. Entrena el oído con ejemplos distintos en lugar de una sola traducción. En español tendemos a buscar verbos diferentes (*averiarse / fracasar / derrumbarse*); en inglés B2 es el mismo phrasal y el contexto hace el trabajo.
+
+*Break in* se centra en la **entrada ilegal o forzada** a un espacio. *Break out* describe algo que **empieza de golpe** y se propaga: fuego, pelea, epidemia. Si dices *a fire broke in*, suena raro: el fuego no “entra a robar”; **estalla** → *broke out*.
 
 ---
 
@@ -1280,7 +1296,11 @@ El mismo *break down* cambia con el sujeto: máquina, conversación o persona. E
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-23/brought-up.mp3" title="🔊 brought up"></audio>
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-23/brought-about.mp3" title="🔊 brought about"></audio>
 
-*Bring about* es más abstracto (cambios, resultados). *Bring in* es concreto: incorporar a una persona o recurso externo.
+*Bring about* es más abstracto (cambios, resultados). *Bring in* es concreto: incorporar a una persona o recurso externo. En reuniones de reforma escucharás mucho *bring up* (“sacar el tema del presupuesto”) y *bring in* (“traer al fontanero / al diseñador”). Practica ambos en la misma conversación para notar la diferencia de objeto: un **tema** frente a una **persona**.
+
+> She **brought up** the rent increase at dinner.  
+> They **brought in** a plumber the same day.  
+> The leak **brought about** a full inspection of the pipes.
 
 ---
 
@@ -1471,7 +1491,9 @@ El mismo *break down* cambia con el sujeto: máquina, conversación o persona. E
             excerpt="Guía de la Unidad 24 del curso B2: phrasal verbs CALL/CARRY/COME y vocabulario de social media.",
             intro="""La **Unidad 24** continúa el bloque de phrasals con **CALL, CARRY y COME**, aplicados a **social media & networking**: lives que se cancelan, campañas que siguen adelante, ideas que surgen al hacer scroll, engagement que mejora poco a poco.
 
-Si en la [Unidad 23](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living) el escenario era el hogar, aquí el escenario es el **feed**: *call off a livestream*, *carry on posting*, *come across a profile*, *come up with a hashtag*, *ask someone to call you back*, *see how a campaign is coming along*. Dominar estos nueve núcleos te permite narrar una crisis digital completa en inglés B2 sin traducir del español.""",
+Si en la [Unidad 23](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living) el escenario era el hogar, aquí el escenario es el **feed**: *call off a livestream*, *carry on posting*, *come across a profile*, *come up with a hashtag*, *ask someone to call you back*, *see how a campaign is coming along*. Dominar estos nueve núcleos te permite narrar una crisis digital completa en inglés B2 sin traducir del español.
+
+Muchos estudiantes de nivel interalto conocen *call* como “llamar por teléfono” y se quedan ahí. En esta unidad verás que *call off* y *call for* casi nunca hablan de una llamada telefónica: hablan de **cancelar** y de **requerir**. Igual con *come*: no es solo “venir”, sino encontrar por casualidad, idear o progresar. La guía prioriza prosa clara en español y ejemplos de campaña para que cada partícula deje de parecer decorativa y pase a ser parte del significado.""",
             before="[U23 — Phrasal verbs 1 + home & living](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living)",
             learn=[
                 "**call off / call back / call for**",
@@ -1484,7 +1506,9 @@ Si en la [Unidad 23](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living) el es
 
 ![Phrasal CALL CARRY COME](/blog/curso-b2/unit-24/phrasal-call-carry-come.png)
 
-Estudia por columnas: tres verbos base, tres partículas frecuentes cada uno. Luego mézclalos en una mini-historia de campaña.
+Estudia por columnas: tres verbos base, tres partículas frecuentes cada uno. Luego mézclalos en una mini-historia de campaña. El objetivo no es recitar definiciones, sino **tomar decisiones**: si el live muere por un fallo técnico, ¿*call off* o *carry out*? Si alguien propone un Plan B, ¿*come across* o *come up with*? Esa discriminación es el verdadero nivel B2.
+
+Una rutina de estudio eficaz: elige una campaña real (tuya o de una marca) y escribe seis frases, una por phrasal obligatorio. Al día siguiente, borra los verbos y rellena de memoria. Si fallas la partícula (*come up* sin *with*), márcala en rojo: las partículas se olvidan antes que el verbo base.
 
 ---
 
@@ -1498,6 +1522,12 @@ Estudia por columnas: tres verbos base, tres partículas frecuentes cada uno. Lu
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-24/called-off.mp3" title="🔊 called off"></audio>
 
+Fíjate en la voz pasiva frecuente con eventos: *was called off*. En social media suena natural porque el foco está en el evento, no en quién pulsó el botón de cancelar. *Call back* sí mantiene el sentido telefónico/contacto: alguien te ha escrito o llamado y tú **respondes**. *Call for* pide una respuesta proporcional a la gravedad (*calls for calm messaging / immediate action*).
+
+> Don't **call off** the meetup yet — wait ten minutes.  
+> I'll **call you back** after I check the analytics.  
+> Low engagement **calls for** a clearer call-to-action, not more posts.
+
 ---
 
 ## 3. CARRY: on, out, away
@@ -1509,6 +1539,8 @@ Estudia por columnas: tres verbos base, tres partículas frecuentes cada uno. Lu
 | **get carried away** | dejarse llevar | The audience **got carried away** when the influencer shared their story. |
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-24/carried-on.mp3" title="🔊 carried on"></audio>
+
+La confusión *carry on / carry out* es casi obligatoria en hispanohablantes porque ambas se parecen y en español “llevar” aparece en traducciones distintas. Pregunta siempre: ¿**sigo** con la misma actividad (*carry on posting*) o **ejecuto** una tarea concreta con principio y fin (*carry out a survey / a plan*)? *Get carried away* añade el matiz emocional: te pasas de entusiasmo y pierdes mesura —útil al hablar de comentarios, lives o stories improvisadas.
 
 ---
 
@@ -1526,6 +1558,12 @@ Estudia por columnas: tres verbos base, tres partículas frecuentes cada uno. Lu
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-24/coming-along.mp3" title="🔊 coming along"></audio>
 
 Otros usos útiles del curso: *come round* (pasarte por casa/meetup), *come through* (salir adelante en una dificultad), *come back* (volver a la memoria: *His name came back to me*).
+
+Distingue bien los dos *come across*: encontrar algo en el feed (*I came across a reel*) frente a la impresión que das (*She comes across as professional*). Y no olvides la preposición fija de las ideas: **come up with** + idea/plan/hashtag. Sin *with*, la frase suena incompleta para un oído B2+.
+
+> How's the new content calendar **coming along**?  
+> We **came through** a tough week of algorithm changes.  
+> Why don't you **come round** to the creators' meetup on Saturday?
 
 ---
 
@@ -1547,6 +1585,10 @@ Otros usos útiles del curso: *come round* (pasarte por casa/meetup), *come thro
 | **trending** | tendencia | The topic is **trending** today. |
 | **troll** | troll | Ignore the **trolls** and carry on. |
 | **network** | red / networking | She joined a creators' **network**. |
+
+Usa estas palabras *dentro* de frases con phrasals: *Despite the trolls, we carried on posting stories to boost engagement.* *She came up with a hashtag after she came across a trending audio on her feed.* Así memorizas léxico y gramática en el mismo gesto.
+
+Cuando practiques speaking, no digas solo la palabra suelta (*followers*, *livestream*). Construye microescenas de dos frases: problema + reacción. Ejemplo: *The livestream was called off. As a result, engagement dropped for an hour, but we carried on with stories.* Ese patrón es exactamente el que evalúa un examen B2 oral cuando pide narrar un incidente.
 
 ---
 
@@ -1577,6 +1619,8 @@ Otros usos útiles del curso: *come round* (pasarte por casa/meetup), *come thro
 > **A:** How's engagement coming along?  
 > **B:** Better — fewer trolls today.
 
+Lee el diálogo dos veces: primero con el texto a la vista y después solo con el audio, imitando el ritmo de las respuestas cortas típicas de una crisis en equipo.
+
 ---
 
 ## 8. Errores típicos de hispanohablantes
@@ -1597,6 +1641,8 @@ Otros usos útiles del curso: *come round* (pasarte por casa/meetup), *come thro
 1. **5 min:** escribe la cronología de una crisis de contenido usando los 9 phrasals.  
 2. **4 min:** escucha reading + diálogo y lista engagement vocabulary.  
 3. **4–6 min:** grábate explicando tu “Plan B” si un live se cancela.
+
+Si no tienes ideas, usa esta plantilla: problema técnico → cancelación → decisión de continuar → idea nueva encontrada o inventada → petición de callback a un colaborador → pregunta final sobre cómo *comes along* el engagement. Rellena cada hueco con un phrasal distinto y ya tienes un monólogo de examen.
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-24/practice-u24.mp3" title="🔊 Practice"></audio>
 
@@ -1646,7 +1692,7 @@ Otros usos útiles del curso: *come round* (pasarte por casa/meetup), *come thro
                     "Ejemplo aceptable si usa los cinco phrasals en contexto de campaña/redes.",
                 ),
             ]),
-            tip="Cuando dudes entre *carry on* y *carry out*, pregunta: ¿**sigo** haciendo lo mismo o **ejecuto** una tarea concreta? Continuar → *carry on*. Realizar una encuesta/plan → *carry out*. Y recuerda la preposición de las ideas: siempre *come up **with***.",
+            tip="Cuando dudes entre *carry on* y *carry out*, pregunta: ¿**sigo** haciendo lo mismo o **ejecuto** una tarea concreta? Continuar → *carry on*. Realizar una encuesta/plan → *carry out*. Y recuerda siempre la preposición de las ideas: *come up **with***. Si practicas solo cinco minutos al día reescribiendo la misma crisis de livestream con verbos distintos, en una semana notarás que las partículas dejan de “escaparse” a mitad de frase.",
             summary="""| Base | Phrasals |
 | :--- | :--- |
 | **CALL** | call off · call back · call for |
@@ -1716,7 +1762,9 @@ Otros usos útiles del curso: *come round* (pasarte por casa/meetup), *come thro
             excerpt="Repaso oficial B2 U21–24: linkers de contraste/razón/propósito y phrasal verbs 1–2 con vocabulario mixto.",
             intro="""La **Unidad 25** cierra el primer bloque del Módulo 3: no introduce gramática nueva, sino que **integra** lo visto en las Unidades 21–24. Si puedes explicar un fin de semana caótico —taller de desarrollo personal, sesión de fotos, avería en casa y crisis de livestream— usando linkers y phrasals con precisión, estás listo para el siguiente tramo del curso.
 
-Este repaso está pensado para **diagnóstico**: localiza si fallas más en contraste (*despite* vs *although*), en propósito (*in order to* vs *so that*) o en phrasals (*break down* vs *call off*). Las secciones mezclan tablas, un reading integral, diálogo y más de ocho ejercicios con soluciones.""",
+Este repaso está pensado para **diagnóstico**: localiza si fallas más en contraste (*despite* vs *although*), en propósito (*in order to* vs *so that*) o en phrasals (*break down* vs *call off*). Las secciones mezclan tablas, un reading integral, diálogo y más de ocho ejercicios con soluciones.
+
+En un repaso B2 de verdad no basta con “reconocer” la opción correcta en un test. Necesitas **producir** bajo presión suave: hablar un minuto, escribir un párrafo, autocorregirte con el checklist. Por eso esta guía insiste en prosa explicativa en español (nivel de claridad A1 en la explicación, contenido B2 en los ejemplos) y en tareas que cruzan vocabulario de las cuatro unidades. Si un apartado te frena, vuelve a la guía dedicada; el repaso no sustituye el aprendizaje inicial, lo consolida.""",
             before="[U24 — Phrasal verbs 2 + social media](/blog/curso-b2/unidad-24-phrasal-verbs-2-social-media)",
             learn=[
                 "Reactivar **linkers de contraste** (U21) y **razón/propósito/resultado** (U22)",
@@ -1740,6 +1788,8 @@ Este repaso está pensado para **diagnóstico**: localiza si fallas más en cont
 
 ## 2. Linkers: contraste vs razón/propósito/resultado
 
+Antes de mirar las tablas, responde en voz alta a esta pregunta de filtro: **¿estoy contrastando, explicando una causa, declarando un propósito o mostrando un resultado?** Si no sabes en qué cajón está tu idea, eliges el conector al azar. El repaso sirve precisamente para volver automático ese filtro.
+
 ### Contraste (U21)
 
 | Linker | Recuerda | Ejemplo rápido |
@@ -1748,6 +1798,8 @@ Este repaso está pensado para **diagnóstico**: localiza si fallas más en cont
 | despite / in spite of | + noun / -ing | **Despite** low energy, she made progress. |
 | whereas | paralelo | She posts daily, **whereas** he posts weekly. |
 | however | nueva oración | The plan failed. **However**, she came up with a Plan B. |
+
+Recuerda el error estrella: *despite + clause*. Si tras el conector aparece *she / he / I + verb*, casi seguro necesitas *although* (o *despite the fact that*). Si aparece un nombre o un *-ing*, *despite / in spite of* es tu amigo.
 
 ### Razón / propósito / resultado (U22)
 
@@ -1760,6 +1812,8 @@ Este repaso está pensado para **diagnóstico**: localiza si fallas más en cont
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-25/review-although.mp3" title="🔊 although"></audio>
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-25/review-in-order.mp3" title="🔊 in order to"></audio>
+
+En el repaso, mezcla a propósito: *Although the light was poor, she stayed **in order to** capture one sharp frame. **As a result**, her feed looked stronger that week.* Esa frase sola ya toca contraste, propósito y resultado.
 
 ---
 
@@ -1776,6 +1830,8 @@ Este repaso está pensado para **diagnóstico**: localiza si fallas más en cont
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-25/review-called-off.mp3" title="🔊 called off"></audio>
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-25/review-came-up.mp3" title="🔊 came up with"></audio>
 
+Prueba a unir las dos cadenas en un solo relato: estabas *about to* salir hacia el estudio, la furgoneta *broke down*, *brought in* ayuda, el live se *called off*, aun así *carried on* con stories y alguien *came up with* un Plan B. Si puedes contarlo en 45 segundos sin leer, el bloque 21–24 está asimilado a nivel productivo, no solo receptivo.
+
 ---
 
 ## 4. Vocabulario mixto (selección)
@@ -1789,6 +1845,8 @@ Este repaso está pensado para **diagnóstico**: localiza si fallas más en cont
 
 Intenta una frase que cruce dos columnas: *Despite a blurry first take, she cropped the shot and made progress toward her milestone.*
 
+Haz también el ejercicio inverso: toma una palabra de cada unidad y oblígala a convivir en un párrafo de 80 palabras. Si el párrafo suena forzado, no pasa nada: el objetivo del repaso es **descubrir qué conexiones aún te cuestan** (por ejemplo, meter *plumber* y *engagement* en la misma historia). Cuanto más raro parezca al principio, más flexible se vuelve tu inglés productivo.
+
 ---
 
 ## 5. Reading mixto
@@ -1798,6 +1856,8 @@ Intenta una frase que cruce dos columnas: *Despite a blurry first take, she crop
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-25/reading-mix.mp3" title="🔊 Reading"></audio>
 
 **Tarea:** subraya 3 linkers y 4 phrasals. ¿Puedes decir qué unidad “aporta” cada uno?
+
+Después, reescribe el mismo párrafo en pasado cambiando solo los verbos auxiliares y los phrasals que lo necesiten. Ese mini-drill fuerza a revisar formas (*was called off*, *broke down*, *came up with*) sin abandonar el sentido global del texto.
 
 ---
 
@@ -1839,6 +1899,8 @@ Intenta una frase que cruce dos columnas: *Despite a blurry first take, she crop
 2. **4 min** — Transforma 4 frases incorrectas de la tabla de errores.  
 3. **4 min** — Escucha reading + diálogo; anota lo que no salió fluido.  
 4. **4 min** — Graba un monólogo de 90 segundos mezclando linkers y phrasals.
+
+Si te sobra un minuto, escribe en español qué bloque te resultó más débil y por qué. Esa meta-reflexión acelera el estudio del día siguiente: no vuelves “a todo el módulo”, vuelves al cajón concreto (contraste, propósito o una familia de phrasals).
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-25/practice-mix.mp3" title="🔊 Practice"></audio>
 
