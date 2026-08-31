@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría + cuadernos U1–U30; Módulo 3 completo)  
+**Última actualización:** 2026-08-31 (teoría U1–U35 + cuadernos U1–U30; Módulo 4 inicio)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 30 |
-| Artículos dedicados pendientes | 30 |
+| Artículos dedicados publicados | 35 |
+| Artículos dedicados pendientes | 25 |
 | Cuadernos ejercicios+soluciones | 30 (U1–U30) |
 
 ---
@@ -94,6 +94,20 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 
 ---
 
-## Módulos 4–6 (U31–60)
+## Módulo 4: Relatives, tags & adjectives (U31–35)
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 31 | Defining relative & Nature | who/which/that; natural world | ✅ | [Defining + nature](/blog/curso-b1/unidad-31-defining-relative-nature) |
+| 32 | Non-defining & Environment | who/which + commas; environment | ✅ | [Non-defining + env](/blog/curso-b1/unidad-32-nondefining-relative-environment) |
+| 33 | Question tags & Services | isn't it?, don't you?; services | ✅ | [Question tags](/blog/curso-b1/unidad-33-question-tags-services) |
+| 34 | -Ed/-ing & Feelings | bored/boring; personal feelings | ✅ | [-ed/-ing](/blog/curso-b1/unidad-34-ed-ing-adjectives-feelings) |
+| 35 | Repaso 31–34 | integración | ✅ | [Repaso 31–34](/blog/curso-b1/unidad-35-repaso-31-34) |
+
+**Módulo 4 teoría (U31–35) lista.** Siguiente: cuadernos U31–35 · luego U36–40.
+
+---
+
+## Módulos 4–6 (U36–60)
 
 Pendiente de seguimiento detallado cuando se publiquen los artículos. Ver [planificación B1](./curso-b1-planificacion.md) y [objetivos por unidad](./curso-b1-objetivos-y-ejercicios.md).

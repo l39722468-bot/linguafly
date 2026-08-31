@@ -145,7 +145,7 @@ Curso:
 
 Guía teórica siguiente:
 
-- Módulo 4 (U31+) — próximamente
+- [U31 — Defining relative + nature](/blog/curso-b1/unidad-31-defining-relative-nature)
 
 Guías relacionadas:
 
