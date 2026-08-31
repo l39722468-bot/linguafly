@@ -853,6 +853,7 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   ],
   'unidad-10-repaso-6-9': [
     { courseId: 'b1', unitNumber: 10 },
+    { courseId: 'b2', unitNumber: 10 },
   ],
   'unidad-11-first-conditional-weather': [
     { courseId: 'b1', unitNumber: 11 },
@@ -1151,6 +1152,18 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   ],
   'unidad-4-gerund-object-infinitive-leisure': [
     { courseId: 'b2', unitNumber: 4 },
+  ],
+  'unidad-6-wish-if-only-feelings': [
+    { courseId: 'b2', unitNumber: 6 },
+  ],
+  'unidad-7-would-rather-family': [
+    { courseId: 'b2', unitNumber: 7 },
+  ],
+  'unidad-8-mixed-conditionals-travel': [
+    { courseId: 'b2', unitNumber: 8 },
+  ],
+  'unidad-9-participle-clauses-environment': [
+    { courseId: 'b2', unitNumber: 9 },
   ],
   'unidad-41-verb-preposition-dependent-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 41 },
