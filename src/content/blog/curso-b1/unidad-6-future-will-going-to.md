@@ -318,7 +318,7 @@ En la **Unidad 7** estudiarás **was/were going to**: planes e intenciones del p
 Guías y curso:
 
 - [Ejercicios Unidad 6 B1 (con soluciones)](/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones)
-- [Unidad 7 — Was/were going to](/curso-b1/unit-7) *(próximamente en el blog)*
+- [Unidad 7 — Was/were going to](/blog/curso-b1/unidad-7-was-were-going-to)
 - [will vs going to](/blog/gramatica/will-going-to-diferencia)
 - [U5 — Repaso 1–4](/blog/curso-b1/unidad-5-repaso-1-4)
 - [Cursos online de inglés B1](/blog/metodos/cursos-online-ingles-b1)
