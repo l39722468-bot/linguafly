@@ -276,6 +276,7 @@ export interface HubContent {
   slug: string;
   title: string;
   description?: string;
+  keywords?: string[];
   content: string;
 }
 
@@ -301,11 +302,15 @@ export function getHubContent(keyword: string): HubContent | null {
 function parseHubFile(filePath: string, slug: string): HubContent {
   const fileContent = fs.readFileSync(filePath, "utf-8");
   const { data, content } = matter(fileContent);
+  const keywords = Array.isArray(data.keywords)
+    ? data.keywords.map((k: unknown) => String(k).trim()).filter(Boolean)
+    : undefined;
 
   return {
     slug,
     title: data.title || slug.replace(/-/g, " "),
     description: data.description,
+    keywords,
     content,
   };
 }
