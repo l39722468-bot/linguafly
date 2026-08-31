@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría Módulo 1 U1–10 + cuadernos U1–10)  
+**Última actualización:** 2026-08-31 (teoría Módulo 2 U11–15; Módulo 1 teoría+cuadernos U1–10)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -15,8 +15,8 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 10 |
-| Artículos dedicados pendientes | 50 |
+| Artículos dedicados publicados | 15 |
+| Artículos dedicados pendientes | 45 |
 | Cuadernos ejercicios+soluciones | 10 |
 
 ---
@@ -47,18 +47,27 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | 9 | Participle clauses & Environment | -ing/-ed clauses; environment | ✅ | ✅ |
 | 10 | Repaso 6–9 | integración | ✅ | ✅ |
 
-**Módulo 1 completo (teoría + cuadernos U1–10).** Siguiente: teoría Módulo 2 (U11–15).
-
-Teoría:
-- [U1](/blog/curso-b2/unidad-1-repaso-b1-b2) · [U2](/blog/curso-b2/unidad-2-future-tenses-work) · [U3](/blog/curso-b2/unidad-3-gerund-infinitive-education) · [U4](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure) · [U5](/blog/curso-b2/unidad-5-repaso-1-4)
-- [U6](/blog/curso-b2/unidad-6-wish-if-only-feelings) · [U7](/blog/curso-b2/unidad-7-would-rather-family) · [U8](/blog/curso-b2/unidad-8-mixed-conditionals-travel) · [U9](/blog/curso-b2/unidad-9-participle-clauses-environment) · [U10](/blog/curso-b2/unidad-10-repaso-6-9)
-
-Cuadernos:
-- [U1](/blog/curso-b2/unidad-1-repaso-b1-b2-ejercicios-soluciones) · [U2](/blog/curso-b2/unidad-2-future-tenses-work-ejercicios-soluciones) · [U3](/blog/curso-b2/unidad-3-gerund-infinitive-education-ejercicios-soluciones) · [U4](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure-ejercicios-soluciones) · [U5](/blog/curso-b2/unidad-5-repaso-1-4-ejercicios-soluciones)
-- [U6](/blog/curso-b2/unidad-6-wish-if-only-feelings-ejercicios-soluciones) · [U7](/blog/curso-b2/unidad-7-would-rather-family-ejercicios-soluciones) · [U8](/blog/curso-b2/unidad-8-mixed-conditionals-travel-ejercicios-soluciones) · [U9](/blog/curso-b2/unidad-9-participle-clauses-environment-ejercicios-soluciones) · [U10](/blog/curso-b2/unidad-10-repaso-6-9-ejercicios-soluciones)
+**Módulo 1 completo (teoría + cuadernos U1–10).**
 
 ---
 
-## Módulos 2–6 (U11–60)
+## Módulo 2: Relative clauses & Modals (U11–15)
+
+| U | Título | Gramática / tema | Teoría | Cuaderno |
+|---|---|---|---|---|
+| 11 | Relative Clauses & Culture | defining / non-defining; culture & urban life | ✅ | ❌ |
+| 12 | Relative Clauses Reduction | -ing / -ed reduction; entertainment / gardening | ✅ | ❌ |
+| 13 | Modals & Money | must / have to / need to / needn't; money & volunteering | ✅ | ❌ |
+| 14 | Modal Deduction & Business | must/might/can't have; business & fashion | ✅ | ❌ |
+| 15 | Repaso 11–14 | integración | ✅ | ❌ |
+
+**Teoría Módulo 2 U11–15 completada.** Siguiente: cuadernos U11–15.
+
+Teoría M2:
+- [U11](/blog/curso-b2/unidad-11-relative-clauses-culture) · [U12](/blog/curso-b2/unidad-12-relative-clauses-reduction) · [U13](/blog/curso-b2/unidad-13-modals-money) · [U14](/blog/curso-b2/unidad-14-modal-deduction-business) · [U15](/blog/curso-b2/unidad-15-repaso-11-14)
+
+---
+
+## Módulos 3–6 (U16–60)
 
 Pendiente. Ver [planificación B2](./curso-b2-planificacion.md).
