@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-32-nondefining-relative-e
 image: /blog/curso-b1/unit-32/nondefining-relative.png
 alt: 'Non-defining relative clauses B1'
 related_routes:
+  - unidad-32-nondefining-relative-environment-ejercicios-soluciones
   - unidad-31-defining-relative-nature
   - unidad-33-question-tags-services
   - cursos-online-ingles-b1
@@ -140,6 +141,7 @@ Si conoces ya a la persona/cosa (*my sister*, *Madrid*, *climate change*), usa *
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 32 del curso B1](/curso-b1/unit-32).
+3. Haz el [cuaderno de ejercicios U32 (con soluciones)](/blog/curso-b1/unidad-32-nondefining-relative-environment-ejercicios-soluciones).
 
 Curso:
 

@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-35-repaso-31-34'
 image: /blog/curso-b1/unit-35/review-map.png
 alt: 'Repaso B1 unidades 31-34'
 related_routes:
+  - unidad-35-repaso-31-34-ejercicios-soluciones
   - unidad-34-ed-ing-adjectives-feelings
   - unidad-30-repaso-26-29
   - cursos-online-ingles-b1
@@ -134,6 +135,7 @@ Antes de elegir: ¿info necesaria o extra? ¿+ o −? ¿sentimiento o causa?
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 35 del curso B1](/curso-b1/unit-35).
+3. Haz el [cuaderno de ejercicios U35 (con soluciones)](/blog/curso-b1/unidad-35-repaso-31-34-ejercicios-soluciones).
 
 Curso:
 

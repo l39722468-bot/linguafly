@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-31-defining-relative-natu
 image: /blog/curso-b1/unit-31/defining-relative.png
 alt: 'Defining relative clauses B1'
 related_routes:
+  - unidad-31-defining-relative-nature-ejercicios-soluciones
   - unidad-30-repaso-26-29
   - unidad-32-nondefining-relative-environment
   - cursos-online-ingles-b1
@@ -141,6 +142,7 @@ Sin comas = información **necesaria** para saber de quién/qué hablamos. *that
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 31 del curso B1](/curso-b1/unit-31).
+3. Haz el [cuaderno de ejercicios U31 (con soluciones)](/blog/curso-b1/unidad-31-defining-relative-nature-ejercicios-soluciones).
 
 Curso:
 

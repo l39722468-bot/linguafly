@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U35 + cuadernos U1–U30; Módulo 4 inicio)  
+**Última actualización:** 2026-08-31 (teoría + cuadernos U1–U35; Módulo 4 U31–35 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -14,7 +14,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 35 |
 | Artículos dedicados pendientes | 25 |
-| Cuadernos ejercicios+soluciones | 30 (U1–U30) |
+| Cuadernos ejercicios+soluciones | 35 (U1–U35) |
 
 ---
 
@@ -98,13 +98,13 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 31 | Defining relative & Nature | who/which/that; natural world | ✅ | [Defining + nature](/blog/curso-b1/unidad-31-defining-relative-nature) |
-| 32 | Non-defining & Environment | who/which + commas; environment | ✅ | [Non-defining + env](/blog/curso-b1/unidad-32-nondefining-relative-environment) |
-| 33 | Question tags & Services | isn't it?, don't you?; services | ✅ | [Question tags](/blog/curso-b1/unidad-33-question-tags-services) |
-| 34 | -Ed/-ing & Feelings | bored/boring; personal feelings | ✅ | [-ed/-ing](/blog/curso-b1/unidad-34-ed-ing-adjectives-feelings) |
-| 35 | Repaso 31–34 | integración | ✅ | [Repaso 31–34](/blog/curso-b1/unidad-35-repaso-31-34) |
+| 31 | Defining relative & Nature | who/which/that; natural world | ✅ | [Defining + nature](/blog/curso-b1/unidad-31-defining-relative-nature) · [Ejercicios](/blog/curso-b1/unidad-31-defining-relative-nature-ejercicios-soluciones) |
+| 32 | Non-defining & Environment | who/which + commas; environment | ✅ | [Non-defining + env](/blog/curso-b1/unidad-32-nondefining-relative-environment) · [Ejercicios](/blog/curso-b1/unidad-32-nondefining-relative-environment-ejercicios-soluciones) |
+| 33 | Question tags & Services | isn't it?, don't you?; services | ✅ | [Question tags](/blog/curso-b1/unidad-33-question-tags-services) · [Ejercicios](/blog/curso-b1/unidad-33-question-tags-services-ejercicios-soluciones) |
+| 34 | -Ed/-ing & Feelings | bored/boring; personal feelings | ✅ | [-ed/-ing](/blog/curso-b1/unidad-34-ed-ing-adjectives-feelings) · [Ejercicios](/blog/curso-b1/unidad-34-ed-ing-adjectives-feelings-ejercicios-soluciones) |
+| 35 | Repaso 31–34 | integración | ✅ | [Repaso 31–34](/blog/curso-b1/unidad-35-repaso-31-34) · [Ejercicios](/blog/curso-b1/unidad-35-repaso-31-34-ejercicios-soluciones) |
 
-**Módulo 4 teoría (U31–35) lista.** Siguiente: cuadernos U31–35 · luego U36–40.
+**Módulo 4 (U31–35) completo.** Siguiente: U36–40.
 
 ---
 

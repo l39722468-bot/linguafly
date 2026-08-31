@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-34-ed-ing-adjectives-feel
 image: /blog/curso-b1/unit-34/ed-ing-adjectives.png
 alt: '-ed -ing adjectives B1'
 related_routes:
+  - unidad-34-ed-ing-adjectives-feelings-ejercicios-soluciones
   - unidad-33-question-tags-services
   - unidad-35-repaso-31-34
   - cursos-online-ingles-b1
@@ -140,6 +141,7 @@ Pregunta: ¿hablo de **cómo me siento** (-ed) o de **la cosa/persona que causa*
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 34 del curso B1](/curso-b1/unit-34).
+3. Haz el [cuaderno de ejercicios U34 (con soluciones)](/blog/curso-b1/unidad-34-ed-ing-adjectives-feelings-ejercicios-soluciones).
 
 Curso:
 

@@ -330,7 +330,7 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b1/unidad-30-repaso-26-29).  
 2. Practica en la [Unidad 30 del curso B1](/curso-b1/unit-30).  
-3. Siguiente bloque del curso: [Unidad 31](/curso-b1/unit-31).
+3. Siguiente: [Defining Relative & Nature](/blog/curso-b1/unidad-31-defining-relative-nature-ejercicios-soluciones).
 
 Guías relacionadas:
 

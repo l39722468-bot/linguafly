@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-33-question-tags-services
 image: /blog/curso-b1/unit-33/question-tags.png
 alt: 'Question tags B1'
 related_routes:
+  - unidad-33-question-tags-services-ejercicios-soluciones
   - unidad-32-nondefining-relative-environment
   - unidad-34-ed-ing-adjectives-feelings
   - cursos-online-ingles-b1
@@ -142,6 +143,7 @@ Copia el auxiliar de la frase principal y cámbiale el signo (+/−). Si no hay 
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 33 del curso B1](/curso-b1/unit-33).
+3. Haz el [cuaderno de ejercicios U33 (con soluciones)](/blog/curso-b1/unidad-33-question-tags-services-ejercicios-soluciones).
 
 Curso:
 

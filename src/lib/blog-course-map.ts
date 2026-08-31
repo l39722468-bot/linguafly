@@ -988,6 +988,21 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-35-repaso-31-34': [
     { courseId: 'b1', unitNumber: 35 },
   ],
+  'unidad-31-defining-relative-nature-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 31 },
+  ],
+  'unidad-32-nondefining-relative-environment-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 32 },
+  ],
+  'unidad-33-question-tags-services-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 33 },
+  ],
+  'unidad-34-ed-ing-adjectives-feelings-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 34 },
+  ],
+  'unidad-35-repaso-31-34-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 35 },
+  ],
   'unidad-7-was-were-going-to-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 7 },
   ],
