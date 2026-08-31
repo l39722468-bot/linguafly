@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-22-gerund-infinitive-hous
 image: /blog/curso-b1/unit-22/gerund-infinitive-2.png
 alt: 'Gerund vs infinitive 2 B1'
 related_routes:
+  - unidad-22-gerund-infinitive-house-ejercicios-soluciones
   - unidad-21-gerund-infinitive-hobbies
   - unidad-23-phrasal-verbs-daily
   - cursos-online-ingles-b1
@@ -144,6 +145,7 @@ Con *remember/forget/try*, pregunta: ¿es un **recordatorio** (*to*) o un **recu
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 22 del curso B1](/curso-b1/unit-22).
+3. Haz el [cuaderno de ejercicios U22 (con soluciones)](/blog/curso-b1/unidad-22-gerund-infinitive-house-ejercicios-soluciones).
 
 Curso:
 

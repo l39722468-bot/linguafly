@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U25; cuadernos U1–U20; Módulo 3 teoría U21–U25 iniciada)  
+**Última actualización:** 2026-08-31 (teoría + cuadernos U1–U25; Módulos 2–3 completos hasta U25)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -14,7 +14,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 25 |
 | Artículos dedicados pendientes | 35 |
-| Cuadernos ejercicios+soluciones | 20 (U1–U20) |
+| Cuadernos ejercicios+soluciones | 25 (U1–U25) |
 
 ---
 
@@ -70,17 +70,17 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 
 ---
 
-## Módulo 3: Gerunds, infinitives & phrasals (U21–25) · teoría
+## Módulo 3: Gerunds, infinitives & phrasals (U21–25)
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 21 | Gerund vs Infinitive (1) & Hobbies | enjoy/finish + -ing; want/need/decide + to | ✅ | [Gerund/Inf 1](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies) |
-| 22 | Gerund vs Infinitive (2) & House | like/prefer; remember/forget/try | ✅ | [Gerund/Inf 2](/blog/curso-b1/unidad-22-gerund-infinitive-house) |
-| 23 | Phrasal Verbs 1 & Daily | turn on/off, put on, look after… | ✅ | [Phrasals 1](/blog/curso-b1/unidad-23-phrasal-verbs-daily) |
-| 24 | Phrasal Verbs 2 & Shopping | find out, give up, fill in, hand in | ✅ | [Phrasals 2](/blog/curso-b1/unidad-24-phrasal-verbs-shopping) |
-| 25 | Repaso 21–24 | integración | ✅ | [Repaso 21–24](/blog/curso-b1/unidad-25-repaso-21-24) |
+| 21 | Gerund vs Infinitive (1) & Hobbies | enjoy/finish + -ing; want/need/decide + to | ✅ | [Gerund/Inf 1](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies) · [Ejercicios](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies-ejercicios-soluciones) |
+| 22 | Gerund vs Infinitive (2) & House | like/prefer; remember/forget/try | ✅ | [Gerund/Inf 2](/blog/curso-b1/unidad-22-gerund-infinitive-house) · [Ejercicios](/blog/curso-b1/unidad-22-gerund-infinitive-house-ejercicios-soluciones) |
+| 23 | Phrasal Verbs 1 & Daily | turn on/off, put on, look after… | ✅ | [Phrasals 1](/blog/curso-b1/unidad-23-phrasal-verbs-daily) · [Ejercicios](/blog/curso-b1/unidad-23-phrasal-verbs-daily-ejercicios-soluciones) |
+| 24 | Phrasal Verbs 2 & Shopping | find out, give up, fill in, hand in | ✅ | [Phrasals 2](/blog/curso-b1/unidad-24-phrasal-verbs-shopping) · [Ejercicios](/blog/curso-b1/unidad-24-phrasal-verbs-shopping-ejercicios-soluciones) |
+| 25 | Repaso 21–24 | integración | ✅ | [Repaso 21–24](/blog/curso-b1/unidad-25-repaso-21-24) · [Ejercicios](/blog/curso-b1/unidad-25-repaso-21-24-ejercicios-soluciones) |
 
-**Pendiente U21–U25:** cuadernos de ejercicios. **Siguiente:** U26–30 o cuadernos U21–25.
+**Módulo 3 (U21–25) completo.** Siguiente: U26–30.
 
 ---
 

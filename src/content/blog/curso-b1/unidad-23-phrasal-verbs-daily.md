@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-23-phrasal-verbs-daily'
 image: /blog/curso-b1/unit-23/phrasals-1.png
 alt: 'Phrasal verbs 1 B1'
 related_routes:
+  - unidad-23-phrasal-verbs-daily-ejercicios-soluciones
   - unidad-22-gerund-infinitive-house
   - unidad-24-phrasal-verbs-shopping
   - cursos-online-ingles-b1
@@ -132,6 +133,7 @@ Aprende phrasals **en frases**, no aislados: *turn off the lights*, *look after 
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 23 del curso B1](/curso-b1/unit-23).
+3. Haz el [cuaderno de ejercicios U23 (con soluciones)](/blog/curso-b1/unidad-23-phrasal-verbs-daily-ejercicios-soluciones).
 
 Curso:
 

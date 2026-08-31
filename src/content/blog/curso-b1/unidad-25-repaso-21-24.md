@@ -20,6 +20,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-25-repaso-21-24'
 image: /blog/curso-b1/unit-25/review-map.png
 alt: 'Repaso gerunds phrasals B1'
 related_routes:
+  - unidad-25-repaso-21-24-ejercicios-soluciones
   - unidad-21-gerund-infinitive-hobbies
   - unidad-22-gerund-infinitive-house
   - unidad-23-phrasal-verbs-daily
@@ -134,6 +135,7 @@ En el repaso, clasifica primero (*-ing / to / phrasal*) y luego completa.
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 25 del curso B1](/curso-b1/unit-25).
+3. Haz el [cuaderno de ejercicios U25 (con soluciones)](/blog/curso-b1/unidad-25-repaso-21-24-ejercicios-soluciones).
 
 Curso:
 

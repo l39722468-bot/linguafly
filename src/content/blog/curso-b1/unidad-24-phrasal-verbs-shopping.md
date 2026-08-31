@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-24-phrasal-verbs-shopping
 image: /blog/curso-b1/unit-24/phrasals-2.png
 alt: 'Phrasal verbs 2 B1 shopping'
 related_routes:
+  - unidad-24-phrasal-verbs-shopping-ejercicios-soluciones
   - unidad-23-phrasal-verbs-daily
   - unidad-25-repaso-21-24
   - cursos-online-ingles-b1
@@ -131,6 +132,7 @@ En tiendas: *find out* (horario/precio) → *fill in* (formulario) → *hand in*
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 24 del curso B1](/curso-b1/unit-24).
+3. Haz el [cuaderno de ejercicios U24 (con soluciones)](/blog/curso-b1/unidad-24-phrasal-verbs-shopping-ejercicios-soluciones).
 
 Curso:
 

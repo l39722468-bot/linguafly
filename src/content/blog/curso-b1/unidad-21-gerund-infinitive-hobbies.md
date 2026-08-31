@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-21-gerund-infinitive-hobb
 image: /blog/curso-b1/unit-21/gerund-infinitive-1.png
 alt: 'Gerund vs infinitive 1 B1'
 related_routes:
+  - unidad-21-gerund-infinitive-hobbies-ejercicios-soluciones
   - unidad-20-repaso-16-19
   - unidad-22-gerund-infinitive-house
   - cursos-online-ingles-b1
@@ -142,6 +143,7 @@ Memoriza listas cortas: *enjoy/finish/avoid* â†’ **-ing**; *want/need/decide* â†
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 21 del curso B1](/curso-b1/unit-21).
+3. Haz el [cuaderno de ejercicios U21 (con soluciones)](/blog/curso-b1/unidad-21-gerund-infinitive-hobbies-ejercicios-soluciones).
 
 Curso:
 
