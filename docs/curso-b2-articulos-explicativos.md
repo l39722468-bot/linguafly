@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (Teoría Módulo 3 U21–25; Teoría U1–20 enriquecida; Módulo 2 U11–20 teoría+cuadernos; Módulo 1 U1–10 completo)  
+**Última actualización:** 2026-08-31 (Cuadernos Módulo 3 U21–25; Teoría Módulo 3 U21–25; Teoría U1–20 enriquecida; Módulo 2 U11–20 teoría+cuadernos; Módulo 1 U1–10 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -17,7 +17,7 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 25 |
 | Artículos dedicados pendientes | 35 |
-| Cuadernos ejercicios+soluciones | 20 |
+| Cuadernos ejercicios+soluciones | 25 |
 
 ---
 
@@ -95,14 +95,17 @@ Cuadernos M2 (U16–20):
 
 | U | Título | Gramática / tema | Teoría | Cuaderno |
 |---|---|---|---|---|
-| 21 | Linkers Contrast & Personal Development | although, despite, in spite of, whereas, however; personal development | ✅ | ❌ |
-| 22 | Linkers Reason Purpose & Photography | because of, due to, in order to, so that, as a result; photography & media | ✅ | ❌ |
-| 23 | Phrasal Verbs 1 & Home & Living | BE / BREAK / BRING; home & living | ✅ | ❌ |
-| 24 | Phrasal Verbs 2 & Social Media | CALL / CARRY / COME; social media & networking | ✅ | ❌ |
-| 25 | Repaso 21–24 | integración | ✅ | ❌ |
+| 21 | Linkers Contrast & Personal Development | although, despite, in spite of, whereas, however; personal development | ✅ | ✅ |
+| 22 | Linkers Reason Purpose & Photography | because of, due to, in order to, so that, as a result; photography & media | ✅ | ✅ |
+| 23 | Phrasal Verbs 1 & Home & Living | BE / BREAK / BRING; home & living | ✅ | ✅ |
+| 24 | Phrasal Verbs 2 & Social Media | CALL / CARRY / COME; social media & networking | ✅ | ✅ |
+| 25 | Repaso 21–24 | integración | ✅ | ✅ |
 
 Teoría M3 (U21–25):
 - [U21](/blog/curso-b2/unidad-21-linkers-contrast-personal-development) · [U22](/blog/curso-b2/unidad-22-linkers-reason-purpose-photography) · [U23](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living) · [U24](/blog/curso-b2/unidad-24-phrasal-verbs-2-social-media) · [U25](/blog/curso-b2/unidad-25-repaso-21-24)
+
+Cuadernos M3 (U21–25):
+- [U21](/blog/curso-b2/unidad-21-linkers-contrast-personal-development-ejercicios-soluciones) · [U22](/blog/curso-b2/unidad-22-linkers-reason-purpose-photography-ejercicios-soluciones) · [U23](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living-ejercicios-soluciones) · [U24](/blog/curso-b2/unidad-24-phrasal-verbs-2-social-media-ejercicios-soluciones) · [U25](/blog/curso-b2/unidad-25-repaso-21-24-ejercicios-soluciones)
 
 ---
 
