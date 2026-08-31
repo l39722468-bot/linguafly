@@ -22,8 +22,8 @@ alt: "Repaso B2 Unidades 26 a 29 phrasal verbs y collocations"
 related_routes:
   - unidad-30-repaso-26-29-ejercicios-soluciones
   - unidad-29-collocations-adj-noun-psychology
-  - unidad-31-articles-education
-  - unidad-31-articles-education-ejercicios-soluciones
+  - unidad-31-articles-advanced-education
+  - unidad-31-articles-advanced-education-ejercicios-soluciones
   - ingles-b2
 faqs:
   - question: ¿Qué contenidos integra la Unidad 30?
@@ -389,20 +389,18 @@ Antes de rellenar, etiqueta el hueco: **phrasal**, **verb+noun** o **adjective+n
 
 ## Siguiente paso en el curso B2
 
-Después del cierre de U26–30, la secuencia continuará con **U31 — Articles & Education**. Su artículo teórico y sus cuadernos están **pendientes de publicación**; mientras tanto, consolida este bloque con los cuadernos disponibles:
+Continúa con la **Unidad 31 — Articles Advanced & Education**, que abre el Módulo 4 con **a/an, the y artículo cero** en contextos educativos.
 
-- [Ejercicios U26](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability-ejercicios-soluciones)
-- [Ejercicios U27](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones)
-- [Ejercicios U28](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones)
-- [Ejercicios U29](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones)
 - [Ejercicios U30 (repaso)](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones)
-- Próximamente: U31 **Articles & Education** (teoría y cuaderno)
+- [Unidad 30 del curso](/curso-b2/unit-30)
+- [U31 teoría: Articles Advanced + Education](/blog/curso-b2/unidad-31-articles-advanced-education)
+- [Ejercicios U31 con soluciones](/blog/curso-b2/unidad-31-articles-advanced-education-ejercicios-soluciones)
 
 ### Guías relacionadas
 
 - [U29 Adjective + Noun](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology)
-- [U31 Articles & Education — pendiente](/blog/curso-b2/unidad-31-articles-education)
-- [Cuaderno U31 — pendiente](/blog/curso-b2/unidad-31-articles-education-ejercicios-soluciones)
+- [U31 Articles Advanced + Education](/blog/curso-b2/unidad-31-articles-advanced-education)
+- [Cuaderno U31 con soluciones](/blog/curso-b2/unidad-31-articles-advanced-education-ejercicios-soluciones)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

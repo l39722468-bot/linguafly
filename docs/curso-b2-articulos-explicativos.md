@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (Módulo 3 completo: teoría y cuadernos publicados hasta U30)
+**Última actualización:** 2026-08-31 (35 artículos de teoría publicados; Módulo 4 iniciado con U31–35)
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -15,8 +15,8 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 30 |
-| Artículos dedicados pendientes | 30 |
+| Artículos dedicados publicados | 35 |
+| Artículos dedicados pendientes | 25 |
 | Cuadernos ejercicios+soluciones | 30 |
 
 ---
@@ -127,6 +127,32 @@ Cuadernos M3 (U26–30):
 
 ---
 
-## Módulos 4–6 (U31–60)
+## Módulo 4: Determiners & Verb Patterns (U31–40)
 
-Pendiente. La siguiente unidad prevista es U31 **Articles & Education**. Ver [planificación B2](./curso-b2-planificacion.md).
+### U31–35 — Articles, Quantifiers, Verb Patterns & State Verbs
+
+| U | Título | Gramática / tema | Teoría | Cuaderno |
+|---|---|---|---|---|
+| 31 | Articles (advanced) & Education | a/an, the, zero article; education extended | ✅ | ❌ |
+| 32 | Quantifiers & Environment | all, most, each, every, both; environment extended | ✅ | ❌ |
+| 33 | Regret, Remember, Forget & Feelings | gerund vs infinitive; feelings extended | ✅ | ❌ |
+| 34 | State Verbs & Technology | state verbs in simple forms; technology extended | ✅ | ❌ |
+| 35 | Repaso 31–34 | integración | ✅ | ❌ |
+
+Teoría M4 (U31–35):
+- [U31](/blog/curso-b2/unidad-31-articles-advanced-education) · [U32](/blog/curso-b2/unidad-32-quantifiers-environment) · [U33](/blog/curso-b2/unidad-33-regret-remember-forget-feelings) · [U34](/blog/curso-b2/unidad-34-state-verbs-technology) · [U35](/blog/curso-b2/unidad-35-repaso-31-34)
+
+Cuadernos previstos M4 (U31–35):
+- [U31](/blog/curso-b2/unidad-31-articles-advanced-education-ejercicios-soluciones) · [U32](/blog/curso-b2/unidad-32-quantifiers-environment-ejercicios-soluciones) · [U33](/blog/curso-b2/unidad-33-regret-remember-forget-feelings-ejercicios-soluciones) · [U34](/blog/curso-b2/unidad-34-state-verbs-technology-ejercicios-soluciones) · [U35](/blog/curso-b2/unidad-35-repaso-31-34-ejercicios-soluciones)
+
+**Estado del Módulo 4:** teoría publicada hasta U35; cuadernos U31–35 pendientes en esta rama.
+
+### U36–40
+
+Pendiente.
+
+---
+
+## Módulos 5–6 (U41–60)
+
+Pendientes. Ver [planificación B2](./curso-b2-planificacion.md).
