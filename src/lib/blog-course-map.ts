@@ -1165,6 +1165,30 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-9-participle-clauses-environment': [
     { courseId: 'b2', unitNumber: 9 },
   ],
+  'unidad-1-repaso-b1-b2-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 1 },
+  ],
+  'unidad-2-future-tenses-work-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 2 },
+  ],
+  'unidad-3-gerund-infinitive-education-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 3 },
+  ],
+  'unidad-4-gerund-object-infinitive-leisure-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 4 },
+  ],
+  'unidad-6-wish-if-only-feelings-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 6 },
+  ],
+  'unidad-7-would-rather-family-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 7 },
+  ],
+  'unidad-8-mixed-conditionals-travel-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 8 },
+  ],
+  'unidad-9-participle-clauses-environment-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 9 },
+  ],
   'unidad-41-verb-preposition-dependent-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 41 },
   ],
@@ -1191,6 +1215,7 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   ],
   'unidad-10-repaso-6-9-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 10 },
+    { courseId: 'b2', unitNumber: 10 },
   ],
   'unidad-1-repaso-a2-b1-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 1 },
@@ -1206,6 +1231,7 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   ],
   'unidad-5-repaso-1-4-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 5 },
+    { courseId: 'b2', unitNumber: 5 },
   ],
   'unidad-6-future-will-going-to-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 6 },
