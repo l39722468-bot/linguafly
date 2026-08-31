@@ -22,35 +22,44 @@ related_routes:
   - unidad-19-advanced-comparatives-literature
   - ingles-b2
 faqs:
-  - question: ¿Qué repasa la U20?
+  - question: ¿Qué gramática repasa exactamente la Unidad 20?
     answer: >-
-      Passive all tenses (U16), modal passive & have something done (U17), so/such/too/enough (U18) y comparativos avanzados (U19).
-  - question: ¿Orden de estudio?
+      Cuatro bloques completos del módulo 2 de B2: la **voz pasiva en los ocho tiempos** (U16), el **modal passive** y **have something done** (U17), los contrastes **so / such / too / enough** (U18) y los **comparativos avanzados** con *the...the...*, *much/far/slightly* y *by far* (U19). Es un repaso integrador, no una unidad con gramática nueva.
+  - question: ¿En qué orden debería estudiar este repaso?
     answer: >-
-      Repasa las tablas de cada unidad y luego los ejemplos mezclados de esta guía.
-  - question: ¿Siguiente módulo?
+      Lo más eficaz es repasar primero las tablas resumen de cada unidad original (enlazadas en esta guía), identificar en qué estructura fallas más, y después trabajar los ejemplos mezclados y los ejercicios de esta Unidad 20, donde las cuatro estructuras aparecen combinadas en el mismo texto, como ocurre en un examen real.
+  - question: ¿Por qué es importante mezclar estas cuatro estructuras en los mismos ejercicios?
     answer: >-
-      Tras este repaso, el curso sigue con linkers y phrasal verbs (Unidad 21).
-  - question: ¿Dónde practico?
+      Porque en un texto o conversación real nunca aparece una sola estructura aislada: un mismo párrafo puede combinar pasiva (*the site is being restored*), modal passive (*gear must be tested*), *so/such* (*such a great class*) y comparativos avanzados (*the more you read...*) en pocas frases. Practicar la identificación rápida de cada estructura es tan importante como saber formarla.
+  - question: ¿Qué pasa si todavía fallo en alguna de las cuatro áreas?
     answer: >-
-      En la [Unidad 20 del curso B2](/curso-b2/unit-20).
+      Vuelve a la guía teórica correspondiente (enlazada en la sección "Mapa del repaso") y repite sus ejercicios antes de continuar. No pasa nada por repetir una unidad: el objetivo del repaso es justo detectar huecos antes de avanzar al siguiente módulo, donde estas estructuras se dan por asumidas.
+  - question: ¿Qué viene después de este repaso en el curso B2?
+    answer: >-
+      Tras la Unidad 20, el curso continúa con un nuevo módulo centrado en **linkers avanzados y phrasal verbs** (Unidad 21), así que aprovecha este repaso para consolidar bien la pasiva, los modales y los comparativos antes de seguir avanzando.
 excerpt: >-
   Guía de la Unidad 20 del curso B2: repaso integrado de las unidades 16–19.
 ---
-La **Unidad 20** integra [Passive all tenses](/blog/curso-b2/unidad-16-passive-all-tenses-heritage), [Modal passive](/blog/curso-b2/unidad-17-modal-passive-adventure), [So/such/too/enough](/blog/curso-b2/unidad-18-so-such-too-enough-food) y [Comparativos avanzados](/blog/curso-b2/unidad-19-advanced-comparatives-literature).
 
-> **Practica en el curso:** [Unidad 20](/curso-b2/unit-20)  
+Has completado cuatro unidades muy densas: la **pasiva en todos los tiempos** ([U16](/blog/curso-b2/unidad-16-passive-all-tenses-heritage)), el **modal passive y have something done** ([U17](/blog/curso-b2/unidad-17-modal-passive-adventure)), **so / such / too / enough** ([U18](/blog/curso-b2/unidad-18-so-such-too-enough-food)) y los **comparativos avanzados** ([U19](/blog/curso-b2/unidad-19-advanced-comparatives-literature)). La **Unidad 20** no introduce gramática nueva: su función es **integrar** estas cuatro estructuras en los mismos textos y ejercicios, tal y como aparecerán mezcladas en cualquier conversación, lectura o examen de nivel B2.
+
+Este tipo de repaso "mezclado" es mucho más exigente que estudiar cada estructura por separado, porque tu cerebro tiene que **identificar primero qué estructura necesita cada frase** antes de poder formarla correctamente. Es exactamente la habilidad que se evalúa en exámenes como el First Certificate (FCE) de Cambridge.
+
+> **Practica en el curso:** [Unidad 20 — Repaso 16–19](/curso-b2/unit-20)  
+> **Cuaderno de ejercicios:** [Unidad 20 con soluciones](/blog/curso-b2/unidad-20-repaso-16-19-ejercicios-soluciones)  
 > **Antes:** [U19 — Advanced comparatives](/blog/curso-b2/unidad-19-advanced-comparatives-literature)
 
 ---
 
-## Qué aprenderás
+## Qué aprenderás en la Unidad 20 (B2)
 
-- Repaso **passive (all tenses)**
-- Repaso **modal passive + have something done**
-- Repaso **so / such / too / enough**
-- Repaso **the… the… / by far / much-far**
-- Vocabulario: heritage · adventure · cooking · literature
+Al terminar este repaso serás capaz de:
+
+- Reconocer y usar la **pasiva en los ocho tiempos** sin dudar sobre la forma de *be*.
+- Combinar **modales con pasiva** (*must be tested*) y la causativa **have something done**.
+- Elegir correctamente entre **so, such, too y enough** según el contexto.
+- Usar con soltura **the...the...**, los intensificadores de comparativos y **by far**.
+- Repasar el vocabulario de **heritage, adventure, cooking y literature** de forma integrada.
 
 ![Repaso B2 unidades 16 a 19](/blog/curso-b2/unit-20/review-map.png)
 
@@ -60,79 +69,382 @@ La **Unidad 20** integra [Passive all tenses](/blog/curso-b2/unidad-16-passive-a
 
 ![Review map](/blog/curso-b2/unit-20/review-map.png)
 
-| Unidad | Gramática | Vocab |
-| :--- | :--- | :--- |
-| **16** | passive all tenses | history & heritage |
-| **17** | modal passive / have sth done | adventure |
-| **18** | so / such / too / enough | cooking |
-| **19** | advanced comparatives | literature |
+| Unidad | Gramática | Vocabulario | Guía teórica |
+| :--- | :--- | :--- | :--- |
+| **16** | Passive voice (all tenses) | history & heritage | [Ver guía](/blog/curso-b2/unidad-16-passive-all-tenses-heritage) |
+| **17** | Modal passive + have something done | adventure & extreme sports | [Ver guía](/blog/curso-b2/unidad-17-modal-passive-adventure) |
+| **18** | So / such / too / enough | cooking & recipes | [Ver guía](/blog/curso-b2/unidad-18-so-such-too-enough-food) |
+| **19** | Advanced comparatives | literature & books | [Ver guía](/blog/curso-b2/unidad-19-advanced-comparatives-literature) |
+
+Antes de seguir, repasa mentalmente la fórmula de cada bloque: **be + V3** (pasiva), **modal + be + V3** / **have + objeto + V3** (U17), **so/such/too/enough** según el tipo de palabra que modifican (U18), y **the + comp., the + comp.** / **much, far, slightly** / **by far** (U19).
 
 ---
 
-## 2. Ejemplos mezclados
+## 2. Repaso: Passive voice en todos los tiempos (U16)
+
+Recuerda que la pasiva se forma siempre con **be (en el tiempo que necesites) + past participle**, y que el participio nunca cambia:
+
+> The historic site **is being restored** this month.  
+> The castle **was built** in the twelfth century.  
+> The fresco **has been unveiled** ahead of the ceremony.  
+> The ruins **will be excavated** next year.
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/review-passive.mp3" title="🔊 Review: passive voice"></audio>
+
+Si dudas entre dos tiempos, pregúntate primero **cuándo** ocurre la acción (ahora, en el pasado, en curso, ya terminada, en el futuro) y después elige solo la forma de *be* correspondiente.
+
+---
+
+## 3. Repaso: Modal passive y have something done (U17)
+
+El modal passive combina un modal con *be + V3* para hablar de obligaciones y recomendaciones; *should have been + V3* critica algo que no ocurrió; y *have/get + objeto + V3* indica que otra persona hace la acción por ti:
+
+> All climbing gear **must be tested** before the expedition.  
+> The safety report **should have been published** earlier.  
+> She **is having** her ropes **checked** this week.
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/review-modal.mp3" title="🔊 Review: modal passive"></audio>
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/review-have-done.mp3" title="🔊 Review: have something done"></audio>
+
+Recuerda el orden fijo de la causativa: **have/get + objeto + participio**, nunca al revés (*have checked her ropes* significaría que ella misma las revisó).
+
+---
+
+## 4. Repaso: So / such / too / enough (U18)
+
+La pregunta clave sigue siendo la misma: ¿la palabra siguiente es un **adjetivo/adverbio** (→ *so*, *too*, o *enough* después) o un **sustantivo** (→ *such*, o *enough* antes)?
+
+> It was **such a** great cooking class that she signed up again.  
+> The soup was **too** hot **to** eat immediately.  
+> We don't have **enough** time to finish the recipe.
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/review-so-such.mp3" title="🔊 Review: so, such, too, enough"></audio>
+
+Recuerda también que *too* siempre implica un problema o exceso negativo, mientras que *enough* puede usarse tanto en frases afirmativas como negativas para hablar de cantidad suficiente.
+
+---
+
+## 5. Repaso: Advanced comparatives (U19)
+
+La estructura **the...the...** conecta dos cambios paralelos; los intensificadores **much/far/a lot** (fuerte) y **slightly/a bit** (leve) matizan un comparativo; y **by far** refuerza un superlativo:
+
+> **The more** she reads, **the better** she writes.  
+> This edition is **much more** expensive than the paperback.  
+> By far, the best tip she heard was to practise every structure in short paragraphs.
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/review-comparative.mp3" title="🔊 Review: advanced comparatives"></audio>
+
+Recuerda: ambos lados de *the...the...* llevan comparativo (nunca superlativo), y *by far* jamás acompaña a un comparativo suelto.
+
+---
+
+## 6. Vocabulario mezclado: heritage, adventure, cooking, literature
 
 ![Review examples](/blog/curso-b2/unit-20/review-examples.png)
 
-<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/review-passive.mp3" title="🔊 passive"></audio>
-<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/review-modal.mp3" title="🔊 modal"></audio>
-<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/review-have-done.mp3" title="🔊 have done"></audio>
-<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/review-so-such.mp3" title="🔊 so/such"></audio>
-<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/review-comparative.mp3" title="🔊 comparative"></audio>
+| Categoría | Palabras clave | Ejemplo |
+| :--- | :--- | :--- |
+| **Heritage** (U16) | heritage, ruins, restore, manuscript | The **manuscript** is believed to have been written by monks. |
+| **Adventure** (U17) | harness, parachute, expedition, gear | All the **gear** must be tested before the expedition. |
+| **Cooking** (U18) | recipe, ingredient, simmer, garnish | Let the sauce **simmer** for ten more minutes. |
+| **Literature** (U19) | novel, sequel, paperback, review | The **sequel** is getting more and more popular. |
+
+Combina cada categoría con el foco gramatical de su unidad: pasiva con heritage, modal passive con adventure, so/such con cooking, comparativos avanzados con literature. Este cruce es exactamente lo que vas a leer en el texto de la siguiente sección.
 
 ---
 
-## 3. Reading
+## 6b. Pronunciación: repaso rápido de las cuatro unidades
 
-> The historic site is being restored. All climbing gear must be tested. I am having my parachute serviced. It was such a great cooking class that we signed up again. The more you read, the better you write.
+| Forma | Unidad | Consejo |
+| :--- | :--- | :--- |
+| **is being + V3** | U16 | Se enlaza fluido: */ɪz ˈbiːɪŋ/*. |
+| **must be / should have been** | U17 | *should have been* suena */ˈʃʊdəv bɪn/* en habla rápida. |
+| **such a / enough** | U18 | *enough* = */ɪˈnʌf/*, con la *gh* sonando como **f**. |
+| **the more... the better** | U19 | Ritmo marcado: *the-MORE-you-READ, the-BET-ter-you-WRITE*. |
 
-<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/reading-mix.mp3" title="🔊 Reading"></audio>
-
----
-
-## 4. Diálogo
-
-<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/dialogue-mix.mp3" title="🔊 Dialogue"></audio>
-
-> Still closed? — The site is being restored.  
-> Best tip? — The more you read, the better you write.
+Practicar la pronunciación de las cuatro estructuras juntas, una detrás de otra, es un excelente ejercicio de fluidez antes de un examen oral: te obliga a cambiar de patrón rítmico constantemente, igual que en una conversación real.
 
 ---
 
-## 5. Practica
+## 7. Reading: Eva's module review
 
-<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/practice-mix.mp3" title="🔊 Practice"></audio>
+> Eva has spent the whole week reviewing Units 16 to 19 before her B2 exam. The historic site near her house is being restored this month, and she used that example to remember the present continuous passive. For Unit 17, she remembered that all climbing gear must be tested before an expedition, and that her cousin is having his ropes checked at the moment because he loves extreme sports. Cooking gave her the best examples for Unit 18: it was such a great cooking class last weekend that she signed up again, even though the soup was too hot to eat at first. Finally, for the comparatives in Unit 19, Eva kept repeating her favourite sentence: the more she reads, the better she writes. By far, the best tip she has learned this month was to practise every structure in short paragraphs instead of studying long grammar tables alone. As she closed her notebook, she realised that Module 2 was almost complete, and that mixing all four structures together had helped her remember them far better than studying them separately.
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/reading-mix.mp3" title="🔊 Reading: Eva's module review"></audio>
 
 ---
 
-## 6. Ejercicios
+## 8. Diálogo: Comparing notes before the exam
 
-1. The site ___ (restore) right now. (present continuous passive)  
-2. Gear ___ (must / test) before the climb.  
-3. I ___ my parachute ___ next week. (have / service)  
-4. It was ___ a great class that we signed up again.  
-5. ___ more you read, ___ better you write.
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/dialogue-mix.mp3" title="🔊 Dialogue: comparing notes before the exam"></audio>
 
-<details><summary>Ver solución</summary>
+> **Eva:** Are you ready for the exam on Units 16 to 19?  
+> **Leo:** Almost. The passive still confuses me sometimes.  
+> **Eva:** Just remember: be in the right tense, plus the past participle. Look — the site is being restored right now.  
+> **Leo:** Right, that helps. What about modal passive?  
+> **Eva:** Easy — gear must be tested before every climb.  
+> **Leo:** And have something done?  
+> **Eva:** My cousin is having his ropes checked this week — someone else does it for him.  
+> **Leo:** Got it. What about so and such?  
+> **Eva:** It was such a great cooking class that I signed up again.  
+> **Leo:** And the comparatives?  
+> **Eva:** The more you practise, the better you get. By far the best tip is to mix everything together.  
+> **Leo:** Thanks, Eva. I think I'm finally ready for this exam.
 
-1. **is being restored** · 2. **must be tested** · 3. **am having / serviced** · 4. **such** · 5. **The / the**
+---
+
+## 9. Errores típicos: repaso mezclado
+
+| ❌ Incorrecto | ✅ Correcto | Unidad |
+| :--- | :--- | :--- |
+| *The site is restored right now* (para acción en curso) | *The site **is being restored** right now.* | U16 |
+| *Gear must tested before the climb.* | *Gear **must be tested** before the climb.* | U17 |
+| *I have checked my ropes* (queriendo decir causativa) | *I **have** my ropes **checked**.* | U17 |
+| *It was so a great class.* | *It was **such a** great class.* | U18 |
+| *We have time enough.* | *We have **enough time**.* | U18 |
+| *The more you read, the best you write.* | *The more you read, **the better** you write.* | U19 |
+| *This edition is very more expensive.* | *This edition is **much** more expensive.* | U19 |
+| *This is by far better novel.* | *This is **by far the best** novel.* | U19 |
+
+---
+
+## 10. Practica en voz alta
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/practice-mix.mp3" title="🔊 Practice: mixed review U16-19"></audio>
+
+> The historic site is being restored. All climbing gear must be tested. I am having my parachute serviced. It was such a great cooking class that we signed up again. The more you read, the better you write. This is by far the best novel I've ever read.
+
+### Mini-repaso relámpago
+
+> Pasiva → be + V3.  
+> Modal passive → modal + be + V3.  
+> Have something done → have + objeto + V3.  
+> So / such → adjetivo o sustantivo.  
+> Too / enough → exceso o suficiencia.  
+> The...the... → dos comparativos en paralelo.  
+> By far → refuerza el superlativo.
+
+### Frases extra para practicar en voz alta
+
+> Ancient monuments are visited every year, but this one is being restored right now.  
+> All the gear must be tested, and I am having my own equipment checked today.  
+> It was such a delicious meal that we didn't have enough time to try dessert.  
+> The more you practise these four structures, the more natural they become.  
+> This is, by far, the most useful unit I've studied so far this year.
+
+Léelas dos veces en voz alta: la primera fijándote en el significado completo, la segunda solo en identificar qué unidad (16, 17, 18 o 19) corresponde a cada parte de la frase.
+
+---
+
+## 11. Plan de práctica (15 minutos)
+
+1. **4 min** — Repasa las cuatro tablas resumen (secciones 2 a 5) en voz alta, una tras otra.  
+2. **4 min** — Lee el texto de Eva (sección 7) y subraya con cuatro colores distintos cada una de las cuatro estructuras.  
+3. **4 min** — Escribe un mini-párrafo de 5 frases combinando al menos tres de las cuatro estructuras.  
+4. **3 min** — Practica el diálogo de la sección 8 cambiando de rol con otra persona.
+
+### Checklist final del módulo
+
+- [ ] Formo la pasiva en los ocho tiempos sin dudar sobre la forma de *be*.  
+- [ ] Combino modales con pasiva y uso *have something done* en el orden correcto.  
+- [ ] Elijo bien entre *so, such, too* y *enough*.  
+- [ ] Construyo *the...the...* y uso *by far* solo con superlativos.  
+- [ ] Reconozco las cuatro estructuras mezcladas en un mismo texto.
+
+---
+
+## 12. Ejercicios prácticos (con soluciones)
+
+### Ejercicio 1 — Passive: completa
+
+1. The site \_\_\_\_ (restore) right now.  
+2. The castle \_\_\_\_ (build) in 1200.  
+3. The manuscript \_\_\_\_ (believe / write) by monks.  
+4. The ruins \_\_\_\_ (excavate) next year.
+
+<details>
+<summary>Ver solución</summary>
+
+1. **is being restored**  
+2. **was built**  
+3. **is believed to have been written**  
+4. **will be excavated**
 </details>
+
+### Ejercicio 2 — Modal passive y have something done
+
+1. Gear \_\_\_\_ (must / test) before the climb.  
+2. The report \_\_\_\_ (should / publish) earlier.  
+3. She \_\_\_\_ her wetsuit \_\_\_\_ yesterday. (have / repair)  
+4. He \_\_\_\_ his ropes \_\_\_\_ every six months. (have / check)
+
+<details>
+<summary>Ver solución</summary>
+
+1. **must be tested**  
+2. **should have been published**  
+3. **had / repaired**  
+4. **has / checked**
+</details>
+
+### Ejercicio 3 — So, such, too, enough
+
+1. It was \_\_\_\_ a great class that she signed up again.  
+2. The soup was \_\_\_\_ hot to eat.  
+3. We don't have \_\_\_\_ time to finish.  
+4. The cake was \_\_\_\_ delicious that we couldn't stop.
+
+<details>
+<summary>Ver solución</summary>
+
+1. **such**  
+2. **too**  
+3. **enough**  
+4. **so**
+</details>
+
+### Ejercicio 4 — Advanced comparatives
+
+1. \_\_\_\_ more you read, \_\_\_\_ better you write.  
+2. This is \_\_\_\_ the best novel I've read. (by far)  
+3. This edition is \_\_\_\_ more expensive. (much)  
+4. The new version is only \_\_\_\_ better. (slightly)
+
+<details>
+<summary>Ver solución</summary>
+
+1. **The / the**  
+2. **by far**  
+3. **much**  
+4. **slightly**
+</details>
+
+### Ejercicio 5 — Corrige el error (mezclado)
+
+1. *The site is restored right now.* (acción en curso)  
+2. *Gear must tested before the climb.*  
+3. *It was so a great class.*  
+4. *This is by far better novel.*
+
+<details>
+<summary>Ver solución</summary>
+
+1. The site **is being restored** right now.  
+2. Gear **must be tested** before the climb.  
+3. It was **such a** great class.  
+4. This is **by far the best** novel.
+</details>
+
+### Ejercicio 6 — Vocabulario mezclado: traduce
+
+1. patrimonio  
+2. arnés  
+3. receta  
+4. secuela  
+5. ruinas  
+6. sazonar
+
+<details>
+<summary>Ver solución</summary>
+
+1. **heritage**  
+2. **harness**  
+3. **recipe**  
+4. **sequel**  
+5. **ruins**  
+6. **season**
+</details>
+
+### Ejercicio 7 — Comprensión del reading (Eva)
+
+1. What is Eva reviewing this week?  
+2. What example did she use for the present continuous passive?  
+3. What is her cousin having done at the moment?  
+4. What was Eva's favourite comparative sentence?  
+5. What did Eva realise about mixing the four structures together?
+
+<details>
+<summary>Ver solución</summary>
+
+1. **Units 16 to 19, before her B2 exam.**  
+2. **The historic site near her house is being restored.**  
+3. **He is having his ropes checked.**  
+4. **The more she reads, the better she writes.**  
+5. **That mixing all four structures together helped her remember them far better than studying separately.**
+</details>
+
+### Ejercicio 8 — Traduce al inglés (mezclado)
+
+1. El yacimiento se está restaurando ahora mismo.  
+2. El equipo debe ser probado antes de la expedición.  
+3. Fue una clase de cocina tan buena que nos apuntamos otra vez.  
+4. Cuanto más lees, mejor escribes.  
+5. Esta es, con diferencia, la mejor novela.
+
+<details>
+<summary>Ver solución</summary>
+
+1. **The site is being restored right now.**  
+2. **The gear must be tested before the expedition.**  
+3. **It was such a great cooking class that we signed up again.**  
+4. **The more you read, the better you write.**  
+5. **This is by far the best novel.**
+</details>
+
+### Ejercicio 9 — Escribe tu propio texto integrador
+
+Escribe un párrafo de 8–10 frases combinando al menos una estructura de cada unidad (passive, modal passive/have something done, so/such/too/enough, advanced comparatives).
+
+**Modelo:**
+
+> The museum near my house is being renovated this year. All the old paintings must be checked by a specialist before they go back on display, and the curator is having several frescoes restored professionally. It was such an interesting exhibition that I visited it twice. The more I learn about art history, the more I appreciate these old buildings. This is, by far, the most impressive museum in my city.
 
 ---
 
 ## Tip del profesor
 
-En el repaso, identifica primero el **bloque** (pasiva / modal / so-such / comparativo) y después elige la forma.
+En un repaso mezclado, identifica primero **el bloque** al que pertenece cada frase (pasiva / modal / so-such / comparativo) antes de intentar formarla. Esa identificación rápida es la habilidad clave que separa un B2 sólido de uno que solo memoriza estructuras sueltas.
 
 ---
 
-## Siguiente paso
+## Resumen rápido
 
-- Curso: [Unidad 21 — Linkers](/curso-b2/unit-21)
-- Blog: [U16 Passive](/blog/curso-b2/unidad-16-passive-all-tenses-heritage) · [U19 Comparatives](/blog/curso-b2/unidad-19-advanced-comparatives-literature)
+| Unidad | Fórmula clave | Ejemplo |
+| :--- | :--- | :--- |
+| U16 | be + V3 (8 tiempos) | is being restored |
+| U17 | modal + be + V3 / have + obj. + V3 | must be tested / had it repaired |
+| U18 | so/such + adj/noun · too...to · enough | such a great class |
+| U19 | the + comp., the + comp. · by far + superl. | the more, the better · by far the best |
 
-### Guías relacionadas
+---
 
-- [U16](/blog/curso-b2/unidad-16-passive-all-tenses-heritage)
-- [U17](/blog/curso-b2/unidad-17-modal-passive-adventure)
-- [U18](/blog/curso-b2/unidad-18-so-such-too-enough-food)
-- [U19](/blog/curso-b2/unidad-19-advanced-comparatives-literature)
+## Siguiente paso en el curso B2
+
+Con este repaso cierras el **Módulo 2** del curso B2. El curso continúa con la **Unidad 21**, donde trabajarás **linkers avanzados y phrasal verbs**.
+
+Practica ahora:
+
+- [Ejercicios Unidad 20 B2 (con soluciones)](/blog/curso-b2/unidad-20-repaso-16-19-ejercicios-soluciones)
+- [Unidad 20 del curso B2](/curso-b2/unit-20)
+
+Guías dedicadas:
+
+- [U16 — Passive all tenses](/blog/curso-b2/unidad-16-passive-all-tenses-heritage)
+- [U17 — Modal passive & adventure](/blog/curso-b2/unidad-17-modal-passive-adventure)
+- [U18 — So such too enough](/blog/curso-b2/unidad-18-so-such-too-enough-food)
+- [U19 — Advanced comparatives](/blog/curso-b2/unidad-19-advanced-comparatives-literature)
+
+Guía relacionada:
+
+- [Inglés B2: guía completa](/blog/metodos/ingles-b2)
+
+---
+
+## Fuentes
+
+- CEFR/MCER — Nivel B2: https://www.coe.int/en/web/common-european-framework-reference-languages
+- British Council — Passive voice: https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/passive-voice
+- British Council — Modal verbs: https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/modal-verbs
+- Cambridge Dictionary — So, such, too, enough: https://dictionary.cambridge.org/grammar/british-grammar/so-and-such
+- Cambridge Dictionary — Comparison: adjectives: https://dictionary.cambridge.org/grammar/british-grammar/comparison-adjectives
