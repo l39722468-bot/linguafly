@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U60 completa; cuadernos U1–U55; Módulo 6 teoría U56–60)  
+**Última actualización:** 2026-08-31 (teoría + cuadernos U1–U60; **B1 completo / Módulo 6 completo**)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -14,7 +14,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 60 |
 | Artículos dedicados pendientes | 0 |
-| Cuadernos ejercicios+soluciones | 55 (U1–U55) |
+| Cuadernos ejercicios+soluciones | 60 (U1–U60) |
 
 ---
 
@@ -156,4 +156,6 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | 59 | Exam preparation | PET/B1 exam strategies | ✅ | [Exam strategies](/blog/curso-b1/unidad-59-exam-preparation-strategies) · [Ejercicios](/blog/curso-b1/unidad-59-exam-preparation-strategies-ejercicios-soluciones) |
 | 60 | Final B1 review | repaso completo B1 (60/60) | ✅ | [Final B1 review](/blog/curso-b1/unidad-60-final-b1-review) · [Ejercicios](/blog/curso-b1/unidad-60-final-b1-review-ejercicios-soluciones) |
 
-**Módulo 6 (U51–60) teoría completa.** 10 artículos teoría · 5 cuadernos pendientes (U56–60).
+**Módulo 6 (U51–60) completo.** 10 artículos + 10 cuadernos.
+
+**B1 completo:** 60 teoría + 60 cuadernos.

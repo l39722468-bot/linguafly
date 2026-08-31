@@ -1123,6 +1123,21 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-60-final-b1-review': [
     { courseId: 'b1', unitNumber: 60 },
   ],
+  'unidad-56-mixed-grammar-sport-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 56 },
+  ],
+  'unidad-57-mixed-grammar-clothes-colours-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 57 },
+  ],
+  'unidad-58-mixed-grammar-places-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 58 },
+  ],
+  'unidad-59-exam-preparation-strategies-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 59 },
+  ],
+  'unidad-60-final-b1-review-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 60 },
+  ],
   'unidad-41-verb-preposition-dependent-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 41 },
   ],

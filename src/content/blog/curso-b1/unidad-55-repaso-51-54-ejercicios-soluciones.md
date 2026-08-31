@@ -330,7 +330,7 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b1/unidad-55-repaso-51-54).  
 2. Practica en la [Unidad 55 del curso B1](/curso-b1/unit-55).  
-3. Módulo 6 primera mitad (U51–55) completa — siguiente bloque: [Unidad 56](/curso-b1/unit-56).
+3. Siguiente: [Mixed Grammar: Sport](/blog/curso-b1/unidad-56-mixed-grammar-sport-ejercicios-soluciones).
 
 Guías relacionadas:
 
