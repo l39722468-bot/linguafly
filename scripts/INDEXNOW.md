@@ -114,7 +114,7 @@ npm run indexnow:dry
 
 ## Integración CI
 
-`.github/workflows/indexnow.yml` en `push` a `main` cuando cambian `src/content/blog/**/*.md` o `src/content/hubs/**/*.md`. Espera ~90s al deploy y envía con `--verify-live` (excluye solo 404/410; CF challenge se envía). También `workflow_dispatch` (`changed` | `all`).
+`.github/workflows/indexnow.yml` en `push` a `main` cuando cambian `src/content/blog/**/*.md` o `src/content/hubs/**/*.md`. Espera ~8 min al deploy de Workers Builds y envía con `--verify-live` (excluye solo 404/410; CF challenge se envía). También `workflow_dispatch` (`changed` | `all`).
 
 ## Recuperar URLs ya enviadas con 404
 
