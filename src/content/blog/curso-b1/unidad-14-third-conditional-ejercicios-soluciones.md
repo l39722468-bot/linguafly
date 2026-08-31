@@ -19,7 +19,7 @@ keywords:
   - curso de inglés online gratis
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-14-third-conditional-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-14-third-conditional-ejercicios-soluciones'
 image: /blog/curso-b1/unit-14/third-conditional.png
 alt: Third conditional — ejercicios B1 Unidad 14
 related_routes:

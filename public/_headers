@@ -1,3 +1,14 @@
 # Cache de assets hasheados de Next (Cloudflare Workers Assets / OpenNext)
 /_next/static/*
   Cache-Control: public, max-age=31536000, immutable
+
+# IndexNow key — debe ser texto plano accesible a Bing/Yandex sin challenge
+/59006008bf0856c11d13c983f0cd516d.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+  X-Robots-Tag: noindex
+
+/indexnow-key.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=3600
+  X-Robots-Tag: noindex

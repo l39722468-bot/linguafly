@@ -17,7 +17,7 @@ keywords:
   - aprender inglés gratis
   - curso de inglés online gratis
   - curso inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-16-passive-voice-technology'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-16-passive-voice-technology'
 image: /blog/curso-b1/unit-16/passive-voice.png
 alt: 'Passive voice y technology B1'
 related_routes:

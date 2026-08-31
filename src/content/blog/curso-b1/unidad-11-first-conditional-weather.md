@@ -18,7 +18,7 @@ keywords:
   - aprender inglés gratis
   - curso de inglés online gratis
   - curso inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-11-first-conditional-weather'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-11-first-conditional-weather'
 image: /blog/curso-b1/unit-11/first-conditional.png
 alt: 'First conditional y weather B1'
 related_routes:

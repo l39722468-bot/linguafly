@@ -4,45 +4,55 @@ IndexNow es un protocolo abierto que notifica a los buscadores (Bing, Yandex, Se
 
 ## Flujo al crear artículos (obligatorio)
 
-Cada bloque de contenido nuevo del blog debe acabar en Bing lo antes posible:
+**Cada bloque de contenido nuevo del blog debe notificarse a IndexNow en el mismo turno en que se crea**, no solo tras el merge a `main`.
+
+Checklist del agente / PR de contenido:
 
 1. **Keywords Bing** en el frontmatter (además del tema de la unidad):
    - `curso de inglés gratis`
    - `aprender inglés gratis`
    - `curso de inglés online gratis`
-   - + 1–2 variantes del nivel/tema (`curso inglés B1 gratis`, etc.)
-2. **Merge a `main`** (o push directo) del markdown en `src/content/blog/**` o hubs en `src/content/hubs/**`.
-3. El workflow **IndexNow** se dispara solo y notifica a Bing las URLs nuevas/cambiadas.
-4. Si el artículo aún no está en producción (CF deploy pendiente), IndexNow igual acepta la URL; Bing la rastrea cuando el deploy esté vivo.
-5. Opcional, envío manual inmediato tras el deploy:
+   - + 1–2 variantes del nivel/tema (`curso inglés B1 gratis`, `ejercicios inglés B1 gratis`, etc.)
+2. **Canonical** con host canónico **sin www**: `https://linguafly.app/blog/...` (nunca `www.linguafly.app` ni dominios viejos).
+3. **Envío IndexNow inmediato** con las URLs nuevas (aunque el PR aún no esté en `main`):
 
 ```bash
-npm run indexnow
-# o URLs concretas:
 node scripts/indexnow-submit.mjs \
-  https://linguafly.app/blog/curso-b1/unidad-7-was-were-going-to \
-  https://linguafly.app/blog/curso-b1/unidad-7-was-were-going-to-ejercicios-soluciones
+  https://linguafly.app/blog/curso-b1/unidad-16-passive-voice-technology \
+  https://linguafly.app/blog/curso-b1/unidad-16-passive-voice-technology-ejercicios-soluciones
+# o todo lo tocado en el branch:
+node scripts/indexnow-submit.mjs --since=origin/main
 ```
+
+4. Confirmar respuesta **`200`** (o `202`) en el log.
+5. **Merge a `main`** — el workflow CI vuelve a notificar los diffs automáticamente.
+6. Si el artículo aún no está en producción (CF deploy pendiente), IndexNow igual acepta la URL; Bing la rastrea cuando el deploy esté vivo.
 
 IndexNow **no posiciona** por sí solo: acelera el descubrimiento. El ranking en Bing depende de keywords, enlaces internos, hubs y calidad del artículo.
 
 ## Host canónico
 
-- **Host:** `linguafly.app` (no usar `www.focus-on-english.com`; ese dominio está deshabilitado)
+- **Host:** `linguafly.app` (sin `www`; no usar `www.focus-on-english.com`)
 - Override opcional: `INDEXNOW_HOST` o `NEXT_PUBLIC_SITE_URL`
 
 ## Clave del sitio
 
 - Clave: `59006008bf0856c11d13c983f0cd516d`
-- Archivo de verificación (expuesto en producción): [`/59006008bf0856c11d13c983f0cd516d.txt`](https://linguafly.app/59006008bf0856c11d13c983f0cd516d.txt)
+- Archivo de verificación:
+  - Estático: [`public/59006008bf0856c11d13c983f0cd516d.txt`](../public/59006008bf0856c11d13c983f0cd516d.txt)
+  - Ruta App Router de respaldo: `src/app/59006008bf0856c11d13c983f0cd516d.txt/route.ts`
+  - URL pública: `https://linguafly.app/59006008bf0856c11d13c983f0cd516d.txt`
 
-El archivo vive en `public/` y contiene únicamente la clave. No lo borres ni lo muevas: si el verificador no puede leerlo, las peticiones se rechazan silenciosamente.
+Si Cloudflare Bot Fight / WAF desafían esa URL, añade una excepción (Skip) para `/{clave}.txt` e `/indexnow-key.txt`. Sin clave legible IndexNow responde `403`.
 
 ## Comandos
 
 ```bash
 # URLs cambiadas en el último commit (uso diario, tras cada merge a main)
 npm run indexnow
+
+# Todo lo del branch vs main (recomendado al cerrar un PR de contenido)
+node scripts/indexnow-submit.mjs --since=origin/main
 
 # Envío inicial de TODO el sitemap (one-shot la primera vez)
 npm run indexnow:all
@@ -77,7 +87,7 @@ node scripts/indexnow-submit.mjs \
 1. Asegúrate de que el sitio esté desplegado con `public/<clave>.txt` accesible: `curl https://linguafly.app/59006008bf0856c11d13c983f0cd516d.txt` debe devolver exactamente la clave.
 2. Da de alta el sitio en Bing Webmaster Tools si todavía no lo está, y verifica el sitemap `https://linguafly.app/sitemap.xml`.
 3. Ejecuta `npm run indexnow:all` una sola vez para empujar todos los artículos + hubs.
-4. En adelante usa `npm run indexnow` tras cada deploy a main (o deja que el workflow de GitHub Actions lo haga).
+4. En adelante: envío manual al crear contenido + workflow en push a `main`.
 
 ## Integración CI (activa)
 

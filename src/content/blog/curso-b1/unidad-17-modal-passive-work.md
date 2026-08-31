@@ -17,7 +17,7 @@ keywords:
   - aprender inglés gratis
   - curso de inglés online gratis
   - curso inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-17-modal-passive-work'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-17-modal-passive-work'
 image: /blog/curso-b1/unit-17/modal-passive.png
 alt: 'Modal passive y work B1'
 related_routes:

@@ -17,7 +17,7 @@ keywords:
   - aprender inglés gratis
   - curso de inglés online gratis
   - curso inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-19-reported-speech-questions'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-19-reported-speech-questions'
 image: /blog/curso-b1/unit-19/reported-questions.png
 alt: 'Reported questions and commands B1'
 related_routes:

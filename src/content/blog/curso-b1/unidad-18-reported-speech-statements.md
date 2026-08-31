@@ -17,7 +17,7 @@ keywords:
   - aprender inglés gratis
   - curso de inglés online gratis
   - curso inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-18-reported-speech-statements'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-18-reported-speech-statements'
 image: /blog/curso-b1/unit-18/reported-statements.png
 alt: 'Reported speech statements B1'
 related_routes:

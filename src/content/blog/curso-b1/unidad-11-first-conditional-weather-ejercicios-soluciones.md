@@ -19,7 +19,7 @@ keywords:
   - curso de inglés online gratis
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-11-first-conditional-weather-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-11-first-conditional-weather-ejercicios-soluciones'
 image: /blog/curso-b1/unit-11/first-conditional.png
 alt: First conditional & Weather — ejercicios B1 Unidad 11
 related_routes:

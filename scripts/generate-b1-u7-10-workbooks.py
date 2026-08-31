@@ -592,7 +592,7 @@ description: >-
 readTime: 25 min
 keywords:
 {kws}
-canonical: 'https://www.linguafly.app/blog/curso-b1/{m["slug"]}-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-b1/{m["slug"]}-ejercicios-soluciones'
 image: {m["image"]}
 alt: {m["title"]} — ejercicios B1 Unidad {u}
 related_routes:

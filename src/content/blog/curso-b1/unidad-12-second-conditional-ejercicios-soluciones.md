@@ -19,7 +19,7 @@ keywords:
   - curso de inglés online gratis
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-12-second-conditional-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-12-second-conditional-ejercicios-soluciones'
 image: /blog/curso-b1/unit-12/second-conditional.png
 alt: Second conditional — ejercicios B1 Unidad 12
 related_routes:

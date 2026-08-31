@@ -17,7 +17,7 @@ keywords:
   - aprender inglés gratis
   - curso de inglés online gratis
   - curso inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-20-repaso-16-19'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-20-repaso-16-19'
 image: /blog/curso-b1/unit-20/review-map.png
 alt: 'Repaso passive y reported speech B1'
 related_routes:

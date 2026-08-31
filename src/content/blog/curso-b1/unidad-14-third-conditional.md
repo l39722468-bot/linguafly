@@ -19,7 +19,7 @@ keywords:
   - aprender inglés gratis
   - curso de inglés online gratis
   - curso inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-14-third-conditional'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-14-third-conditional'
 image: /blog/curso-b1/unit-14/third-conditional.png
 alt: 'Third conditional y regrets B1'
 related_routes:

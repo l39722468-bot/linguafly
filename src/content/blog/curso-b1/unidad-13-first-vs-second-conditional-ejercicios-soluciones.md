@@ -19,7 +19,7 @@ keywords:
   - curso de inglés online gratis
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-13-first-vs-second-conditional-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-13-first-vs-second-conditional-ejercicios-soluciones'
 image: /blog/curso-b1/unit-13/first-vs-second.png
 alt: First vs Second Conditional — ejercicios B1 Unidad 13
 related_routes:

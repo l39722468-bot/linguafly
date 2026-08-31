@@ -327,7 +327,7 @@ description: >-
 readTime: 15 min
 keywords:
 {kw}
-canonical: 'https://www.linguafly.app/blog/curso-b1/{slug}'
+canonical: 'https://linguafly.app/blog/curso-b1/{slug}'
 image: {image}
 alt: '{alt}'
 related_routes:

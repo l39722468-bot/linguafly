@@ -36,7 +36,7 @@ keywords:
   - aprender inglés gratis
   - curso de inglés online gratis
   - curso inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-13-first-vs-second-conditional'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-13-first-vs-second-conditional'
 image: /blog/curso-b1/unit-13/first-vs-second.png
 alt: 'First vs second conditional y entertainment B1'
 related_routes:
@@ -239,7 +239,7 @@ keywords:
   - aprender inglés gratis
   - curso de inglés online gratis
   - curso inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-14-third-conditional'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-14-third-conditional'
 image: /blog/curso-b1/unit-14/third-conditional.png
 alt: 'Third conditional y regrets B1'
 related_routes:
@@ -431,7 +431,7 @@ keywords:
   - aprender inglés gratis
   - curso de inglés online gratis
   - curso inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-15-repaso-11-14'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-15-repaso-11-14'
 image: /blog/curso-b1/unit-15/review-conditionals.png
 alt: 'Repaso condicionales B1 Unidades 11–14'
 related_routes:
