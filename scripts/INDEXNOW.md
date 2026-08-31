@@ -54,7 +54,9 @@ Host canónico **sin www**: `https://linguafly.app/blog/...`
 `scripts/indexnow-submit.mjs`:
 
 - **Fuera de CI:** rechaza el envío si el branch actual no es `main` (evita indexar PRs no desplegados). Usa `--force` solo si ya verificaste 200 en producción.
-- **`--verify-live`:** comprueba HTTP de cada URL y **no envía** las que no dan 2xx/3xx. Reintentos con espera (útil tras un deploy reciente).
+- **`--verify-live`:** comprueba HTTP de cada URL y **solo excluye 404/410 reales**. Reintenta 404 (deploy CF pendiente).
+- **Cloudflare Bot Fight ≠ 404:** los runners de GitHub Actions suelen recibir `403` + cabecera `cf-mitigated: challenge` (“Just a moment…”). Eso **no** significa que la página no exista; Bingbot normalmente pasa. Esas URLs **sí se envían** tras el gate de `main`.
+- **`--all`:** si el sitemap también está detrás del challenge, usa el inventario local de `src/content/blog` + `hubs`.
 - **CI (`GITHUB_ACTIONS`):** permite envío desde el checkout de `main` sin `--force`.
 
 ```bash
@@ -64,6 +66,15 @@ node scripts/indexnow-submit.mjs --verify-live --since=HEAD~1
 # Forzar desde otro branch (solo si las URLs YA están 200 en prod)
 node scripts/indexnow-submit.mjs --force --verify-live https://linguafly.app/blog/...
 ```
+
+### WAF / Bot Fight (recomendado en Cloudflare)
+
+Para que CI y Bing lean bien la clave IndexNow, añade **Skip** (o Allow) en WAF/Bot Fight para:
+
+- `/{clave}.txt` y `/indexnow-key.txt`
+- opcionalmente User-Agent de verificación / IPs de GitHub Actions
+
+Sin clave legible, el endpoint IndexNow puede responder `403` aunque las URLs existan.
 
 ## Host canónico
 
@@ -103,15 +114,18 @@ npm run indexnow:dry
 
 ## Integración CI
 
-`.github/workflows/indexnow.yml` en `push` a `main` cuando cambian `src/content/blog/**/*.md` o `src/content/hubs/**/*.md`. Espera breve al deploy y envía con `--verify-live` (reintentos). También `workflow_dispatch` (`changed` | `all`).
+`.github/workflows/indexnow.yml` en `push` a `main` cuando cambian `src/content/blog/**/*.md` o `src/content/hubs/**/*.md`. Espera ~90s al deploy y envía con `--verify-live` (excluye solo 404/410; CF challenge se envía). También `workflow_dispatch` (`changed` | `all`).
 
 ## Recuperar URLs ya enviadas con 404
 
 1. Merge de los PRs de contenido a `main`.
-2. Esperar deploy CF.
-3. Confirmar 200 en cada URL.
-4. Reenviar: `node scripts/indexnow-submit.mjs --verify-live --force <urls…>` o `workflow_dispatch` modo `all` tras el merge.
+2. Esperar deploy CF (Workers Builds).
+3. Confirmar 200 en el navegador (desde CI verás a menudo 403 challenge, no 404).
+4. Reenviar: `workflow_dispatch` modo `all`, o desde `main`:
+   `node scripts/indexnow-submit.mjs --verify-live --since=<sha-antes-del-contenido>`
 5. En Bing Webmaster Tools, pedir re-rastreo de las URLs afectadas si siguen en error.
+
+**Nota:** si IndexNow CI falla con “todas 403”, es Bot Fight bloqueando al runner — no un 404 real. Actualiza el script (clasificación `cf-challenge`) o añade Skip en WAF para la clave IndexNow.
 
 ## Qué NO hace IndexNow
 

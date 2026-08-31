@@ -37,23 +37,25 @@ jobs:
           node-version-file: ".node-version"
 
       # Cloudflare Workers suele tardar unos minutos tras el push a main.
-      # verify-live evita notificar a Bing URLs que aún dan 404.
+      # verify-live excluye solo 404/410 reales. Un 403 de Bot Fight (cf-mitigated:
+      # challenge) NO es 404: los runners de GitHub suelen recibir challenge y
+      # Bingbot no; esas URLs se envían igual tras el gate de main.
       - name: Submit changed URLs to IndexNow
         env:
           BEFORE_SHA: ${{ github.event.before }}
           MODE: ${{ github.event.inputs.mode || 'changed' }}
-          INDEXNOW_VERIFY_ATTEMPTS: "6"
-          INDEXNOW_VERIFY_WAIT_MS: "30000"
+          INDEXNOW_VERIFY_ATTEMPTS: "4"
+          INDEXNOW_VERIFY_WAIT_MS: "45000"
         run: |
-          echo "Espera inicial 60s para el deploy de Cloudflare…"
-          sleep 60
+          echo "Espera inicial 90s para el deploy de Cloudflare…"
+          sleep 90
           if [ "$MODE" = "all" ]; then
-            echo "Modo manual: enviando sitemap completo (solo URLs vivas)."
+            echo "Modo manual: enviando inventario completo (excluye 404/410 reales)."
             node scripts/indexnow-submit.mjs --all --verify-live
           elif [ -z "$BEFORE_SHA" ] || [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ]; then
-            echo "No before SHA disponible; enviando sitemap completo (solo URLs vivas)."
+            echo "No before SHA disponible; enviando inventario completo (excluye 404/410 reales)."
             node scripts/indexnow-submit.mjs --all --verify-live
           else
-            echo "Enviando URLs cambiadas desde $BEFORE_SHA (blog + hubs), solo si responden 2xx/3xx"
+            echo "Enviando URLs cambiadas desde $BEFORE_SHA (blog + hubs); excluye 404/410 reales"
             node scripts/indexnow-submit.mjs --since="$BEFORE_SHA" --verify-live
           fi

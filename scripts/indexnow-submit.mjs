@@ -4,17 +4,20 @@
 // Uso:
 //   node scripts/indexnow-submit.mjs                 # URLs del último commit (tras deploy en main)
 //   node scripts/indexnow-submit.mjs --since=HEAD~5  # URLs cambiadas desde ese ref
-//   node scripts/indexnow-submit.mjs --all           # Todas las URLs del sitemap en producción
+//   node scripts/indexnow-submit.mjs --all           # Todas las URLs del blog/hubs (sitemap o local)
 //   node scripts/indexnow-submit.mjs --urls=https://... https://...
 //   node scripts/indexnow-submit.mjs --dry-run
-//   node scripts/indexnow-submit.mjs --verify-live   # Solo envía URLs que responden 2xx/3xx
+//   node scripts/indexnow-submit.mjs --verify-live   # Bloquea solo 404/410 reales (no CF challenge)
 //   node scripts/indexnow-submit.mjs --force         # Permite envío fuera de main (usar con cuidado)
 //
 // Importante: NO enviar URLs de un PR antes del merge + deploy. Bing las rastrea y marca 404.
 // Fuera de CI el script exige branch `main` salvo --force.
+//
+// Cloudflare Bot Fight / Managed Challenge responde 403 + cf-mitigated: challenge a IPs de
+// GitHub Actions. Eso NO es un 404: Bingbot suele pasar. verify-live solo excluye 404/410.
 
 import { execSync } from "node:child_process";
-import { readFileSync, existsSync } from "node:fs";
+import { readFileSync, existsSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -132,13 +135,64 @@ const getChangedMdUrls = (sinceRef) => {
   return [...urls];
 };
 
-const fetchSitemapUrls = async () => {
-  const res = await fetch(`https://${HOST}/sitemap.xml`);
-  if (!res.ok) {
-    throw new Error(`sitemap fetch ${res.status}`);
+const walkMd = (dir, acc = []) => {
+  if (!existsSync(dir)) return acc;
+  for (const name of readdirSync(dir)) {
+    const full = path.join(dir, name);
+    const st = statSync(full);
+    if (st.isDirectory()) walkMd(full, acc);
+    else if (name.endsWith(".md")) acc.push(full);
   }
-  const xml = await res.text();
-  const matches = xml.match(/<loc>[^<]+<\/loc>/g) || [];
+  return acc;
+};
+
+/** Fallback cuando el sitemap está bloqueado por Cloudflare challenge. */
+const collectLocalContentUrls = () => {
+  const urls = new Set();
+  const blogRoot = path.join(repoRoot, "src/content/blog");
+  for (const file of walkMd(blogRoot)) {
+    const rel = path.relative(repoRoot, file).replace(/\\/g, "/");
+    const blog = categoryFromPath(rel);
+    if (blog) urls.add(urlFor(blog));
+  }
+  const hubsRoot = path.join(repoRoot, "src/content/hubs");
+  if (existsSync(hubsRoot)) {
+    for (const name of readdirSync(hubsRoot)) {
+      if (!name.endsWith(".md")) continue;
+      urls.add(`https://${HOST}/blog/temas/${name.replace(/\.md$/, "")}`);
+    }
+  }
+  return [...urls];
+};
+
+const isCloudflareChallenge = (res, bodyText = "") => {
+  const mitigated = (res.headers.get("cf-mitigated") || "").toLowerCase();
+  if (mitigated.includes("challenge")) return true;
+  const sample = bodyText.slice(0, 2000).toLowerCase();
+  return (
+    sample.includes("just a moment...") ||
+    sample.includes("challenge-platform") ||
+    sample.includes("cdn-cgi/challenge-platform")
+  );
+};
+
+const fetchSitemapUrls = async () => {
+  const res = await fetch(`https://${HOST}/sitemap.xml`, {
+    headers: {
+      "User-Agent": "LinguaFly-IndexNow-Verify/1.0 (+https://linguafly.app)",
+      Accept: "application/xml,text/xml,*/*",
+    },
+  });
+  const text = await res.text().catch(() => "");
+  if (isCloudflareChallenge(res, text) || !res.ok) {
+    console.warn(
+      `[indexnow] sitemap no legible (HTTP ${res.status}${
+        isCloudflareChallenge(res, text) ? ", CF challenge" : ""
+      }). Usando inventario local de blog/hubs.`
+    );
+    return collectLocalContentUrls();
+  }
+  const matches = text.match(/<loc>[^<]+<\/loc>/g) || [];
   return matches
     .map((m) => m.replace(/<\/?loc>/g, "").trim())
     .filter((u) => u.startsWith(`https://${HOST}`));
@@ -146,29 +200,91 @@ const fetchSitemapUrls = async () => {
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+/** Comprueba que la URL corresponde a un .md del repo (fiable cuando CF challenge enmascara 404). */
+const localContentExists = (url) => {
+  try {
+    const u = new URL(url);
+    const blog = u.pathname.match(/^\/blog\/([^/]+)\/([^/]+)\/?$/);
+    if (blog) {
+      const [, category, slug] = blog;
+      if (category === "temas") {
+        return existsSync(path.join(repoRoot, "src/content/hubs", `${slug}.md`));
+      }
+      return existsSync(
+        path.join(repoRoot, "src/content/blog", category, `${slug}.md`)
+      );
+    }
+    // Otras rutas (home, cursos…): no bloqueamos por inventario local.
+    return true;
+  } catch {
+    return false;
+  }
+};
+
+/**
+ * Clasifica una URL en producción:
+ * - live: 2xx/3xx reales
+ * - dead: 404/410 (no enviar a IndexNow)
+ * - challenge: Cloudflare Bot Fight / managed challenge (no es 404)
+ * - unknown: otros errores / red
+ */
 const checkUrlLive = async (url) => {
   try {
     const res = await fetch(url, {
       method: "GET",
       redirect: "follow",
       headers: {
-        // Evitar respuestas vacías de algunos WAF; no engaña Bot Fight Mode agresivo.
         "User-Agent": "LinguaFly-IndexNow-Verify/1.0 (+https://linguafly.app)",
         Accept: "text/html,application/xhtml+xml",
       },
     });
-    return { url, status: res.status, ok: res.status >= 200 && res.status < 400 };
+    const bodyText =
+      res.status === 403 || res.status === 503
+        ? await res.text().catch(() => "")
+        : "";
+
+    if (res.status >= 200 && res.status < 400) {
+      return { url, status: res.status, kind: "live" };
+    }
+    if (res.status === 404 || res.status === 410) {
+      return { url, status: res.status, kind: "dead" };
+    }
+    if (isCloudflareChallenge(res, bodyText)) {
+      return { url, status: res.status, kind: "challenge" };
+    }
+    return { url, status: res.status, kind: "unknown" };
   } catch (err) {
-    return { url, status: 0, ok: false, error: err.message };
+    return { url, status: 0, kind: "unknown", error: err.message };
   }
 };
 
 const filterLiveUrls = async (urls) => {
   const live = [];
+  const challenge = [];
   const dead = [];
+  const unknown = [];
+  const decided = new Set();
+
+  // Con Bot Fight, CF challenge enmascara 404 reales. Filtrar primero por inventario local.
+  const missingLocal = [];
+  const candidates = [];
+  for (const u of urls) {
+    if (!localContentExists(u)) {
+      missingLocal.push(u);
+      console.log(`  ✗ missing-local (no .md en repo) ${u}`);
+    } else {
+      candidates.push(u);
+    }
+  }
+  if (missingLocal.length) {
+    console.warn(
+      `[indexnow] ${missingLocal.length} URL(s) sin fichero local — NO se envían.`
+    );
+  }
+  urls = candidates;
 
   for (let attempt = 1; attempt <= VERIFY_ATTEMPTS; attempt++) {
-    const toCheck = urls.filter((u) => !live.includes(u));
+    const toCheck = urls.filter((u) => !decided.has(u));
     if (toCheck.length === 0) break;
 
     if (attempt > 1) {
@@ -180,19 +296,28 @@ const filterLiveUrls = async (urls) => {
       console.log(`[indexnow] verify-live: comprobando ${toCheck.length} URLs en https://${HOST}…`);
     }
 
-    const results = [];
-    // Secuencial para no disparar rate limits / WAF
     for (const u of toCheck) {
-      results.push(await checkUrlLive(u));
-    }
-
-    for (const r of results) {
-      if (r.ok) {
-        if (!live.includes(r.url)) live.push(r.url);
-        console.log(`  ✓ ${r.status} ${r.url}`);
-      } else if (attempt === VERIFY_ATTEMPTS) {
+      const r = await checkUrlLive(u);
+      if (r.kind === "live") {
+        decided.add(u);
+        live.push(u);
+        console.log(`  ✓ ${r.status} live ${r.url}`);
+      } else if (r.kind === "challenge") {
+        // Los challenges de CF no se "curan" esperando desde runners de GitHub.
+        decided.add(u);
+        challenge.push(r);
+        console.log(`  ~ ${r.status} cf-challenge (no es 404) ${r.url}`);
+      } else if (r.kind === "dead" && attempt === VERIFY_ATTEMPTS) {
+        // 404 puede ser deploy CF aún no propagado → reintentar antes de descartar.
+        decided.add(u);
         dead.push(r);
-        console.log(`  ✗ ${r.status || "ERR"}${r.error ? ` (${r.error})` : ""} ${r.url}`);
+        console.log(`  ✗ ${r.status} dead ${r.url}`);
+      } else if (r.kind === "dead") {
+        console.log(`  … ${r.status} (posible deploy pendiente; reintentará) ${r.url}`);
+      } else if (attempt === VERIFY_ATTEMPTS) {
+        decided.add(u);
+        unknown.push(r);
+        console.log(`  ? ${r.status || "ERR"}${r.error ? ` (${r.error})` : ""} ${r.url}`);
       } else {
         console.log(`  … ${r.status || "ERR"} (reintentará) ${r.url}`);
       }
@@ -201,10 +326,34 @@ const filterLiveUrls = async (urls) => {
 
   if (dead.length) {
     console.warn(
-      `[indexnow] ${dead.length} URL(s) no están 2xx/3xx en producción — NO se envían (evita 404 en Bing).`
+      `[indexnow] ${dead.length} URL(s) con 404/410 reales — NO se envían (evita 404 en Bing).`
     );
   }
-  return live;
+  if (challenge.length) {
+    console.warn(
+      `[indexnow] ${challenge.length} URL(s) con Cloudflare challenge (cf-mitigated). ` +
+        `GitHub Actions no puede verificar el HTML; Bingbot sí suele pasar. Se ENVÍAN tras el gate de main.`
+    );
+  }
+  if (unknown.length) {
+    console.warn(
+      `[indexnow] ${unknown.length} URL(s) con estado desconocido tras reintentos — se ENVÍAN (gate main ya aplicado).`
+    );
+  }
+
+  // Solo excluimos dead (404/410) y missing-local. Challenge/unknown se envían:
+  // el daño de Bing 404 viene de notificar URLs inexistentes, no de un WAF que
+  // bloquea al verificador de CI.
+  const allowed = [
+    ...live,
+    ...challenge.map((r) => r.url),
+    ...unknown.map((r) => r.url),
+  ];
+  return {
+    allowed,
+    deadCount: dead.length + missingLocal.length,
+    challengeCount: challenge.length,
+  };
 };
 
 const submit = async (urlList) => {
@@ -253,7 +402,7 @@ const main = async () => {
     mode = "manual";
   } else if (ALL) {
     urls = await fetchSitemapUrls();
-    mode = "sitemap";
+    mode = "sitemap-or-local";
   } else {
     urls = getChangedMdUrls(SINCE);
     mode = `git-diff(${SINCE})`;
@@ -272,11 +421,16 @@ const main = async () => {
   if (urls.length > 20) console.log(`  … (+${urls.length - 20} más)`);
 
   if (VERIFY_LIVE) {
-    urls = await filterLiveUrls(urls);
+    const { allowed, deadCount } = await filterLiveUrls(urls);
+    urls = allowed;
     if (urls.length === 0) {
       console.error(
-        "[indexnow] ninguna URL pasó verify-live. ¿Deploy de Cloudflare pendiente? No se envía nada."
+        "[indexnow] ninguna URL enviable tras verify-live (todas 404/410). ¿Deploy pendiente o slugs incorrectos?"
       );
+      process.exitCode = 1;
+      return;
+    }
+    if (deadCount > 0 && urls.length === 0) {
       process.exitCode = 1;
       return;
     }
