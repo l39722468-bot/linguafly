@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-18-reported-speech-statem
 image: /blog/curso-b1/unit-18/reported-statements.png
 alt: 'Reported speech statements B1'
 related_routes:
+  - unidad-18-reported-speech-statements-ejercicios-soluciones
   - unidad-17-modal-passive-work
   - unidad-19-reported-speech-questions
   - cursos-online-ingles-b1
@@ -150,6 +151,7 @@ Tras el [modal passive (U17)](/blog/curso-b1/unidad-17-modal-passive-work), la *
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 18 del curso B1](/curso-b1/unit-18).
+3. Haz el [cuaderno de ejercicios U18 (con soluciones)](/blog/curso-b1/unidad-18-reported-speech-statements-ejercicios-soluciones).
 
 Curso:
 

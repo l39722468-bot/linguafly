@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U20; cuadernos ejercicios U1–U15; Módulo 2 teoría completa)  
+**Última actualización:** 2026-08-31 (teoría + cuadernos U1–U20; Módulo 2 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -14,7 +14,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 20 |
 | Artículos dedicados pendientes | 40 |
-| Cuadernos ejercicios+soluciones | 15 (U1–U15) |
+| Cuadernos ejercicios+soluciones | 20 (U1–U20) |
 
 ---
 
@@ -56,18 +56,17 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | 14 | Third Conditional & Regrets | if + past perfect, would have | ✅ | [Third conditional](/blog/curso-b1/unidad-14-third-conditional) · [Ejercicios](/blog/curso-b1/unidad-14-third-conditional-ejercicios-soluciones) |
 | 15 | Repaso 11–14 | integración condicionales | ✅ | [Repaso 11–14](/blog/curso-b1/unidad-15-repaso-11-14) · [Ejercicios](/blog/curso-b1/unidad-15-repaso-11-14-ejercicios-soluciones) |
 
-### Módulo 2 (continuación): Pasiva y reported speech (U16–20) · teoría
+### Módulo 2 (continuación): Pasiva y reported speech (U16–20)
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 16 | Passive Voice & Technology | is/are/was/were + V3; technology | ✅ | [Passive + technology](/blog/curso-b1/unidad-16-passive-voice-technology) |
-| 17 | Modal Passive & Work | must/should/can be + V3; work & jobs | ✅ | [Modal passive + work](/blog/curso-b1/unidad-17-modal-passive-work) |
-| 18 | Reported Speech (statements) | said/told + backshift; communication | ✅ | [Reported statements](/blog/curso-b1/unidad-18-reported-speech-statements) |
-| 19 | Reported questions & commands | asked if/wh-; told to; language | ✅ | [Questions & commands](/blog/curso-b1/unidad-19-reported-speech-questions) |
-| 20 | Repaso 16–19 | integración passive + reported | ✅ | [Repaso 16–19](/blog/curso-b1/unidad-20-repaso-16-19) |
+| 16 | Passive Voice & Technology | is/are/was/were + V3; technology | ✅ | [Passive + technology](/blog/curso-b1/unidad-16-passive-voice-technology) · [Ejercicios](/blog/curso-b1/unidad-16-passive-voice-technology-ejercicios-soluciones) |
+| 17 | Modal Passive & Work | must/should/can be + V3; work & jobs | ✅ | [Modal passive + work](/blog/curso-b1/unidad-17-modal-passive-work) · [Ejercicios](/blog/curso-b1/unidad-17-modal-passive-work-ejercicios-soluciones) |
+| 18 | Reported Speech (statements) | said/told + backshift; communication | ✅ | [Reported statements](/blog/curso-b1/unidad-18-reported-speech-statements) · [Ejercicios](/blog/curso-b1/unidad-18-reported-speech-statements-ejercicios-soluciones) |
+| 19 | Reported questions & commands | asked if/wh-; told to; language | ✅ | [Questions & commands](/blog/curso-b1/unidad-19-reported-speech-questions) · [Ejercicios](/blog/curso-b1/unidad-19-reported-speech-questions-ejercicios-soluciones) |
+| 20 | Repaso 16–19 | integración passive + reported | ✅ | [Repaso 16–19](/blog/curso-b1/unidad-20-repaso-16-19) · [Ejercicios](/blog/curso-b1/unidad-20-repaso-16-19-ejercicios-soluciones) |
 
-**Pendiente U16–U20:** cuadernos de ejercicios con soluciones.  
-**Siguiente:** Módulo 3 (U21–25 gerunds/phrasals) o cuadernos U16–20.
+**Módulo 2 completo (U11–20).** Siguiente: Módulo 3 (U21–25 gerunds/phrasals).
 
 ---
 

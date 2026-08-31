@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-19-reported-speech-questi
 image: /blog/curso-b1/unit-19/reported-questions.png
 alt: 'Reported questions and commands B1'
 related_routes:
+  - unidad-19-reported-speech-questions-ejercicios-soluciones
   - unidad-18-reported-speech-statements
   - unidad-20-repaso-16-19
   - cursos-online-ingles-b1
@@ -145,6 +146,7 @@ Pregunta reportada = **orden de frase afirmativa**. Orden = **to + infinitivo** 
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 19 del curso B1](/curso-b1/unit-19).
+3. Haz el [cuaderno de ejercicios U19 (con soluciones)](/blog/curso-b1/unidad-19-reported-speech-questions-ejercicios-soluciones).
 
 Curso:
 

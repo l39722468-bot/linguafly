@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-17-modal-passive-work'
 image: /blog/curso-b1/unit-17/modal-passive.png
 alt: 'Modal passive y work B1'
 related_routes:
+  - unidad-17-modal-passive-work-ejercicios-soluciones
   - unidad-16-passive-voice-technology
   - unidad-18-reported-speech-statements
   - cursos-online-ingles-b1
@@ -148,6 +149,7 @@ Piensa primero el modal (obligación / consejo / posibilidad) y luego añade **b
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 17 del curso B1](/curso-b1/unit-17).
+3. Haz el [cuaderno de ejercicios U17 (con soluciones)](/blog/curso-b1/unidad-17-modal-passive-work-ejercicios-soluciones).
 
 Curso:
 

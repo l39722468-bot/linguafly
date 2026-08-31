@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-16-passive-voice-technolo
 image: /blog/curso-b1/unit-16/passive-voice.png
 alt: 'Passive voice y technology B1'
 related_routes:
+  - unidad-16-passive-voice-technology-ejercicios-soluciones
   - unidad-15-repaso-11-14
   - unidad-17-modal-passive-work
   - cursos-online-ingles-b1
@@ -156,6 +157,7 @@ Si no importa *quién* lo hace (o no lo sabes), usa **pasiva**. Si el agente es 
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 16 del curso B1](/curso-b1/unit-16).
+3. Haz el [cuaderno de ejercicios U16 (con soluciones)](/blog/curso-b1/unidad-16-passive-voice-technology-ejercicios-soluciones).
 
 Curso:
 

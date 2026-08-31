@@ -330,7 +330,7 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b1/unidad-15-repaso-11-14).  
 2. Practica en la [Unidad 15 del curso B1](/curso-b1/unit-15).  
-3. Siguiente bloque del curso: [Unidad 16 — Passive](/curso-b1/unit-16).
+3. Siguiente: [Ejercicios U16 — Passive Voice](/blog/curso-b1/unidad-16-passive-voice-technology-ejercicios-soluciones).
 
 Guías relacionadas:
 

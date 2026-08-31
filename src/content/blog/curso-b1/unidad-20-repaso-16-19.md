@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-20-repaso-16-19'
 image: /blog/curso-b1/unit-20/review-map.png
 alt: 'Repaso passive y reported speech B1'
 related_routes:
+  - unidad-20-repaso-16-19-ejercicios-soluciones
   - unidad-16-passive-voice-technology
   - unidad-17-modal-passive-work
   - unidad-18-reported-speech-statements
@@ -141,6 +142,7 @@ Clasifica primero (¿pasiva / modal / reported?) y después conjugas. El error s
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 20 del curso B1](/curso-b1/unit-20).
+3. Haz el [cuaderno de ejercicios U20 (con soluciones)](/blog/curso-b1/unidad-20-repaso-16-19-ejercicios-soluciones).
 
 Curso:
 
