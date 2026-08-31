@@ -335,6 +335,7 @@ Con el bloque 21–24 consolidado, el curso B2 sigue con más **phrasal verbs** 
 
 - [Ejercicios U25 (repaso)](/blog/curso-b2/unidad-25-repaso-21-24-ejercicios-soluciones)
 - [Unidad 25 del curso](/curso-b2/unit-25)
+- [U26 teoría — GET, GIVE, GO + sustainability](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability)
 - Vuelve a [U21](/blog/curso-b2/unidad-21-linkers-contrast-personal-development) si el contraste aún tambalea
 
 ### Guías relacionadas
