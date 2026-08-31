@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (Teoría Módulo 3 U26–30; cuadernos publicados hasta U25; teoría publicada hasta U30)
+**Última actualización:** 2026-08-31 (Módulo 3 completo: teoría y cuadernos publicados hasta U30)
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -17,7 +17,7 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 30 |
 | Artículos dedicados pendientes | 30 |
-| Cuadernos ejercicios+soluciones | 25 |
+| Cuadernos ejercicios+soluciones | 30 |
 
 ---
 
@@ -111,16 +111,19 @@ Cuadernos M3 (U21–25):
 
 | U | Título | Gramática / tema | Teoría | Cuaderno |
 |---|---|---|---|---|
-| 26 | Phrasal Verbs 3 & Sustainability | GET / GIVE / GO; sustainability & eco-living | ✅ | ❌ |
-| 27 | Phrasal Verbs 4 & Music | LOOK / MAKE / PUT; music & entertainment | ✅ | ❌ |
-| 28 | Verb + Noun Collocations & Food | make / take / have + noun; food & gastronomy | ✅ | ❌ |
-| 29 | Adjective + Noun Collocations & Psychology | strong / heavy / great + precision adjectives; psychology & mind | ✅ | ❌ |
-| 30 | Repaso 26–29 | integración | ✅ | ❌ |
+| 26 | Phrasal Verbs 3 & Sustainability | GET / GIVE / GO; sustainability & eco-living | ✅ | ✅ |
+| 27 | Phrasal Verbs 4 & Music | LOOK / MAKE / PUT; music & entertainment | ✅ | ✅ |
+| 28 | Verb + Noun Collocations & Food | make / take / have + noun; food & gastronomy | ✅ | ✅ |
+| 29 | Adjective + Noun Collocations & Psychology | strong / heavy / great + precision adjectives; psychology & mind | ✅ | ✅ |
+| 30 | Repaso 26–29 | integración | ✅ | ✅ |
 
 Teoría M3 (U26–30):
 - [U26](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability) · [U27](/blog/curso-b2/unidad-27-phrasal-verbs-4-music) · [U28](/blog/curso-b2/unidad-28-collocations-verb-noun-food) · [U29](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology) · [U30](/blog/curso-b2/unidad-30-repaso-26-29)
 
-**Estado del Módulo 3:** teoría completa U21–30; cuadernos completos U21–25 y pendientes U26–30.
+Cuadernos M3 (U26–30):
+- [U26](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability-ejercicios-soluciones) · [U27](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones) · [U28](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones) · [U29](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones) · [U30](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones)
+
+**Módulo 3 completo (teoría + cuadernos U21–30).**
 
 ---
 
