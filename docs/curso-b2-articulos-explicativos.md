@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (Módulo 2 U16–20 teoría+cuadernos; U11–15 completo; Módulo 1 U1–10 completo)  
+**Última actualización:** 2026-08-31 (Teoría U1–20 enriquecida a profundidad A1; Módulo 2 U11–20 teoría+cuadernos; Módulo 1 U1–10 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
