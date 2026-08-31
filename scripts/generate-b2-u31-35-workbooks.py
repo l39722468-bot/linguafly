@@ -1127,6 +1127,9 @@ def make_audios() -> None:
             ("listening-workbook", LISTENING[unit]),
         ):
             path = directory / f"{name}.mp3"
+            if path.exists():
+                print("kept", path.relative_to(ROOT))
+                continue
             print("tts", path.relative_to(ROOT))
             gTTS(text=text, lang="en", tld="com").save(str(path))
 
