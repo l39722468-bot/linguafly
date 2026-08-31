@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría + cuadernos ejercicios U1–U10; Módulo 1 completo)  
+**Última actualización:** 2026-08-31 (teoría U1–U15; cuadernos ejercicios U1–U10; Módulo 2 teoría U11–U15)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 10 |
-| Artículos dedicados pendientes | 50 |
+| Artículos dedicados publicados | 15 |
+| Artículos dedicados pendientes | 45 |
 | Cuadernos ejercicios+soluciones | 10 (U1–U10) |
 
 ---
@@ -46,8 +46,21 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 
 ---
 
-## Módulos 2–6 (U11–60)
+## Módulo 2: Condicionales (U11–15) · teoría
+
+| U | Título | Gramática / tema | Estado | Artículo |
+|---|---|---|---|---|
+| 11 | First Conditional & Weather | if + present, will; when/as soon as/until; weather | ✅ | [First conditional + weather](/blog/curso-b1/unidad-11-first-conditional-weather) |
+| 12 | Second Conditional | if + past, would; hypothetical | ✅ | [Second conditional](/blog/curso-b1/unidad-12-second-conditional) |
+| 13 | First vs Second & Entertainment | contraste; cine/series/conciertos | ✅ | [First vs Second](/blog/curso-b1/unidad-13-first-vs-second-conditional) |
+| 14 | Third Conditional & Regrets | if + past perfect, would have | ✅ | [Third conditional](/blog/curso-b1/unidad-14-third-conditional) |
+| 15 | Repaso 11–14 | integración condicionales | ✅ | [Repaso 11–14](/blog/curso-b1/unidad-15-repaso-11-14) |
+
+**Pendiente Módulo 2 (continuación U16–20):** pasiva y reported speech (teoría + cuadernos).  
+**Pendiente U11–U15:** cuadernos de ejercicios con soluciones.
+
+---
+
+## Módulos 3–6 (U16–60)
 
 Pendiente de seguimiento detallado cuando se publiquen los artículos. Ver [planificación B1](./curso-b1-planificacion.md) y [objetivos por unidad](./curso-b1-objetivos-y-ejercicios.md).
-
-**Siguiente bloque teórico (Módulo 2):** U11 First conditional + future time clauses · U12 Second conditional · U13 First vs second · U14 Third conditional · U15 Repaso 11–14.

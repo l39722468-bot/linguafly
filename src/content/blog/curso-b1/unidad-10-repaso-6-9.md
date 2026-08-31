@@ -241,6 +241,10 @@ Curso:
 
 - [Unidad 11 — First conditional](/curso-b1/unit-11) *(siguiente módulo)*
 
+Guía teórica siguiente:
+
+- [U11 — First conditional & Weather](/blog/curso-b1/unidad-11-first-conditional-weather)
+
 Guías relacionadas:
 
 - [U6 — Future forms](/blog/curso-b1/unidad-6-future-will-going-to)
