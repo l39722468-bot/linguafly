@@ -145,6 +145,8 @@ Tras [Reduced relatives](/blog/curso-b2/unidad-12-relative-clauses-reduction), l
 - Curso: [Unidad 14 — Modal deduction](/curso-b2/unit-14)
 - Blog: [U14 — Modals deduction + business](/blog/curso-b2/unidad-14-modal-deduction-business)
 
+- Cuaderno: [Ejercicios con soluciones](/blog/curso-b2/unidad-13-modals-money-ejercicios-soluciones)
+
 ### Guías relacionadas
 
 - [U12 Reduced](/blog/curso-b2/unidad-12-relative-clauses-reduction)

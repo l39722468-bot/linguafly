@@ -144,6 +144,8 @@ Si quitas la cláusula y la frase **pierde sentido**, es **defining** (sin comas
 - Curso: [Unidad 12 — Reduced relatives](/curso-b2/unit-12)
 - Blog: [U12 — Reduced relatives + entertainment](/blog/curso-b2/unidad-12-relative-clauses-reduction)
 
+- Cuaderno: [Ejercicios con soluciones](/blog/curso-b2/unidad-11-relative-clauses-culture-ejercicios-soluciones)
+
 ### Guías relacionadas
 
 - [U10 Repaso](/blog/curso-b2/unidad-10-repaso-6-9)

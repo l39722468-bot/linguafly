@@ -145,6 +145,8 @@ Piensa en **evidencia**: si la evidencia apunta fuerte → *must have*; si hay d
 - Curso: [Unidad 15 — Repaso 11–14](/curso-b2/unit-15)
 - Blog: [U15 — Repaso 11–14](/blog/curso-b2/unidad-15-repaso-11-14)
 
+- Cuaderno: [Ejercicios con soluciones](/blog/curso-b2/unidad-14-modal-deduction-business-ejercicios-soluciones)
+
 ### Guías relacionadas
 
 - [U13 Modals](/blog/curso-b2/unidad-13-modals-money)

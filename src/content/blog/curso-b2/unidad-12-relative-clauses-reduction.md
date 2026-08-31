@@ -143,6 +143,8 @@ Busca *who/which + be* o *who/which + past participle*: ahí puedes reducir a **
 - Curso: [Unidad 13 — Modals & money](/curso-b2/unit-13)
 - Blog: [U13 — Modals obligation + money](/blog/curso-b2/unidad-13-modals-money)
 
+- Cuaderno: [Ejercicios con soluciones](/blog/curso-b2/unidad-12-relative-clauses-reduction-ejercicios-soluciones)
+
 ### Guías relacionadas
 
 - [U11 Relative clauses](/blog/curso-b2/unidad-11-relative-clauses-culture)

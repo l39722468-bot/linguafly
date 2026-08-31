@@ -885,6 +885,7 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   ],
   'unidad-15-repaso-11-14-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 15 },
+    { courseId: 'b2', unitNumber: 15 },
   ],
   'unidad-16-passive-voice-technology': [
     { courseId: 'b1', unitNumber: 16 },
@@ -1200,6 +1201,18 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
     { courseId: 'b2', unitNumber: 13 },
   ],
   'unidad-14-modal-deduction-business': [
+    { courseId: 'b2', unitNumber: 14 },
+  ],
+  'unidad-11-relative-clauses-culture-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 11 },
+  ],
+  'unidad-12-relative-clauses-reduction-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 12 },
+  ],
+  'unidad-13-modals-money-ejercicios-soluciones': [
+    { courseId: 'b2', unitNumber: 13 },
+  ],
+  'unidad-14-modal-deduction-business-ejercicios-soluciones': [
     { courseId: 'b2', unitNumber: 14 },
   ],
   'unidad-41-verb-preposition-dependent-ejercicios-soluciones': [

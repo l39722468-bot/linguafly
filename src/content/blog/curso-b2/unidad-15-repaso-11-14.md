@@ -130,6 +130,8 @@ En el repaso, identifica primero el **tipo de estructura** (relative / reduced /
 - Curso: [Unidad 16](/curso-b2/unit-16)
 - Blog: [U11 Relative clauses](/blog/curso-b2/unidad-11-relative-clauses-culture) · [U14 Deduction](/blog/curso-b2/unidad-14-modal-deduction-business)
 
+- Cuaderno: [Ejercicios con soluciones](/blog/curso-b2/unidad-15-repaso-11-14-ejercicios-soluciones)
+
 ### Guías relacionadas
 
 - [U11](/blog/curso-b2/unidad-11-relative-clauses-culture)

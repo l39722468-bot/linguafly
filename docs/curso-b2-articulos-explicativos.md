@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría Módulo 2 U11–15; Módulo 1 teoría+cuadernos U1–10)  
+**Última actualización:** 2026-08-31 (Módulo 2 U11–15 teoría+cuadernos; Módulo 1 U1–10 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -55,16 +55,19 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 
 | U | Título | Gramática / tema | Teoría | Cuaderno |
 |---|---|---|---|---|
-| 11 | Relative Clauses & Culture | defining / non-defining; culture & urban life | ✅ | ❌ |
-| 12 | Relative Clauses Reduction | -ing / -ed reduction; entertainment / gardening | ✅ | ❌ |
-| 13 | Modals & Money | must / have to / need to / needn't; money & volunteering | ✅ | ❌ |
-| 14 | Modal Deduction & Business | must/might/can't have; business & fashion | ✅ | ❌ |
-| 15 | Repaso 11–14 | integración | ✅ | ❌ |
+| 11 | Relative Clauses & Culture | defining / non-defining; culture & urban life | ✅ | ✅ |
+| 12 | Relative Clauses Reduction | -ing / -ed reduction; entertainment / gardening | ✅ | ✅ |
+| 13 | Modals & Money | must / have to / need to / needn't; money & volunteering | ✅ | ✅ |
+| 14 | Modal Deduction & Business | must/might/can't have; business & fashion | ✅ | ✅ |
+| 15 | Repaso 11–14 | integración | ✅ | ✅ |
 
-**Teoría Módulo 2 U11–15 completada.** Siguiente: cuadernos U11–15.
+**Módulo 2 completo (teoría + cuadernos U11–15).**
 
 Teoría M2:
 - [U11](/blog/curso-b2/unidad-11-relative-clauses-culture) · [U12](/blog/curso-b2/unidad-12-relative-clauses-reduction) · [U13](/blog/curso-b2/unidad-13-modals-money) · [U14](/blog/curso-b2/unidad-14-modal-deduction-business) · [U15](/blog/curso-b2/unidad-15-repaso-11-14)
+
+Cuadernos M2:
+- [U11](/blog/curso-b2/unidad-11-relative-clauses-culture-ejercicios-soluciones) · [U12](/blog/curso-b2/unidad-12-relative-clauses-reduction-ejercicios-soluciones) · [U13](/blog/curso-b2/unidad-13-modals-money-ejercicios-soluciones) · [U14](/blog/curso-b2/unidad-14-modal-deduction-business-ejercicios-soluciones) · [U15](/blog/curso-b2/unidad-15-repaso-11-14-ejercicios-soluciones)
 
 ---
 
