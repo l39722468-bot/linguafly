@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U45 + cuadernos U1–U40; Módulo 5 U41–45 teoría)  
+**Última actualización:** 2026-08-31 (teoría U1–U45 + cuadernos U1–U45; Módulo 5 U41–45 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -118,7 +118,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | 39 | Purpose & reason | to, so that, because of | ✅ | [Purpose & reason](/blog/curso-b1/unidad-39-purpose-reason-explaining) · [Ejercicios](/blog/curso-b1/unidad-39-purpose-reason-explaining-ejercicios-soluciones) |
 | 40 | Repaso 36–39 | integración | ✅ | [Repaso 36–39](/blog/curso-b1/unidad-40-repaso-36-39) · [Ejercicios](/blog/curso-b1/unidad-40-repaso-36-39-ejercicios-soluciones) |
 
-**Módulo 4 (U31–40) completo.** Módulo 5 U41–45 teoría publicada.
+**Módulo 4 (U31–40) completo.** Módulo 5 U41–45 completo.
 
 ---
 
@@ -126,13 +126,13 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 41 | Verb + preposition & Dependent prepositions | depend on, listen to, wait for, look at… | ✅ | [Verb + preposition](/blog/curso-b1/unidad-41-verb-preposition-dependent) |
-| 42 | Adjective + preposition & Feelings & attitudes | interested in, afraid of, good at… | ✅ | [Adj + preposition + feelings](/blog/curso-b1/unidad-42-adjective-preposition-feelings) |
-| 43 | During, for, while & Time | during/for/while | ✅ | [During, for, while](/blog/curso-b1/unidad-43-during-for-while-time) |
-| 44 | For, since, from & Time expressions | for, since, from | ✅ | [For, since, from](/blog/curso-b1/unidad-44-for-since-from-time) |
-| 45 | Repaso 41–44 | integración preposiciones y tiempo | ✅ | [Repaso 41–44](/blog/curso-b1/unidad-45-repaso-41-44) |
+| 41 | Verb + preposition & Dependent prepositions | depend on, listen to, wait for, look at… | ✅ | [Verb + preposition](/blog/curso-b1/unidad-41-verb-preposition-dependent) · [Ejercicios](/blog/curso-b1/unidad-41-verb-preposition-dependent-ejercicios-soluciones) |
+| 42 | Adjective + preposition & Feelings & attitudes | interested in, afraid of, good at… | ✅ | [Adj + preposition + feelings](/blog/curso-b1/unidad-42-adjective-preposition-feelings) · [Ejercicios](/blog/curso-b1/unidad-42-adjective-preposition-feelings-ejercicios-soluciones) |
+| 43 | During, for, while & Time | during/for/while | ✅ | [During, for, while](/blog/curso-b1/unidad-43-during-for-while-time) · [Ejercicios](/blog/curso-b1/unidad-43-during-for-while-time-ejercicios-soluciones) |
+| 44 | For, since, from & Time expressions | for, since, from | ✅ | [For, since, from](/blog/curso-b1/unidad-44-for-since-from-time) · [Ejercicios](/blog/curso-b1/unidad-44-for-since-from-time-ejercicios-soluciones) |
+| 45 | Repaso 41–44 | integración preposiciones y tiempo | ✅ | [Repaso 41–44](/blog/curso-b1/unidad-45-repaso-41-44) · [Ejercicios](/blog/curso-b1/unidad-45-repaso-41-44-ejercicios-soluciones) |
 
-**Módulo 5 (U41–45) teoría completa.** Siguiente: U46–50.
+**Módulo 5 (U41–45) completo.** Siguiente: U46–50.
 
 ---
 

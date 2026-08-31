@@ -330,7 +330,7 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b1/unidad-40-repaso-36-39).  
 2. Practica en la [Unidad 40 del curso B1](/curso-b1/unit-40).  
-3. Siguiente bloque del curso: [Unidad 41](/curso-b1/unit-41).
+3. Siguiente: [Verb + Preposition & Dependent](/blog/curso-b1/unidad-41-verb-preposition-dependent-ejercicios-soluciones).
 
 Guías relacionadas:
 

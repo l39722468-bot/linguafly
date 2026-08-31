@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-45-repaso-41-44'
 image: /blog/curso-b1/unit-45/review-map.png
 alt: 'Repaso B1 unidades 41-44'
 related_routes:
+  - unidad-45-repaso-41-44-ejercicios-soluciones
   - unidad-44-for-since-from-time
   - unidad-40-repaso-36-39
   - cursos-online-ingles-b1
@@ -135,6 +136,7 @@ Clasifica primero: ¿colocación verbo/adj, duración (for), punto (since) o sim
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 45 del curso B1](/curso-b1/unit-45).
+3. Haz el [cuaderno de ejercicios U45 (con soluciones)](/blog/curso-b1/unidad-45-repaso-41-44-ejercicios-soluciones).
 
 Curso:
 

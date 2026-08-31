@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-42-adjective-preposition-
 image: /blog/curso-b1/unit-42/adj-preposition.png
 alt: 'Adjective preposition B1'
 related_routes:
+  - unidad-42-adjective-preposition-feelings-ejercicios-soluciones
   - unidad-41-verb-preposition-dependent
   - unidad-43-during-for-while-time
   - cursos-online-ingles-b1
@@ -150,6 +151,7 @@ Aprende el bloque completo: *interested **in***, no solo *interested*.
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 42 del curso B1](/curso-b1/unit-42).
+3. Haz el [cuaderno de ejercicios U42 (con soluciones)](/blog/curso-b1/unidad-42-adjective-preposition-feelings-ejercicios-soluciones).
 
 Curso:
 

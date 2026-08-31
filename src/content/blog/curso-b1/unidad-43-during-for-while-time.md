@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-43-during-for-while-time'
 image: /blog/curso-b1/unit-43/during-for-while.png
 alt: 'During for while B1'
 related_routes:
+  - unidad-43-during-for-while-time-ejercicios-soluciones
   - unidad-42-adjective-preposition-feelings
   - unidad-44-for-since-from-time
   - cursos-online-ingles-b1
@@ -144,6 +145,7 @@ Pregunta: ¿va un **sustantivo** (during), una **duración** (for) o una **oraci
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 43 del curso B1](/curso-b1/unit-43).
+3. Haz el [cuaderno de ejercicios U43 (con soluciones)](/blog/curso-b1/unidad-43-during-for-while-time-ejercicios-soluciones).
 
 Curso:
 

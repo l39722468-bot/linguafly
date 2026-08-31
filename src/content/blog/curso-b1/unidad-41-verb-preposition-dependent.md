@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-41-verb-preposition-depen
 image: /blog/curso-b1/unit-41/verb-preposition.png
 alt: 'Verb preposition B1'
 related_routes:
+  - unidad-41-verb-preposition-dependent-ejercicios-soluciones
   - unidad-40-repaso-36-39
   - unidad-42-adjective-preposition-feelings
   - cursos-online-ingles-b1
@@ -151,6 +152,7 @@ No traduzcas la preposición del español: *depend of* ❌ → **depend on** ✅
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 41 del curso B1](/curso-b1/unit-41).
+3. Haz el [cuaderno de ejercicios U41 (con soluciones)](/blog/curso-b1/unidad-41-verb-preposition-dependent-ejercicios-soluciones).
 
 Curso:
 

@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-44-for-since-from-time'
 image: /blog/curso-b1/unit-44/for-since-from.png
 alt: 'For since from B1'
 related_routes:
+  - unidad-44-for-since-from-time-ejercicios-soluciones
   - unidad-43-during-for-while-time
   - unidad-45-repaso-41-44
   - cursos-online-ingles-b1
@@ -144,6 +145,7 @@ Tras la [Unidad 43](/blog/curso-b1/unidad-43-during-for-while-time), la **Unidad
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 44 del curso B1](/curso-b1/unit-44).
+3. Haz el [cuaderno de ejercicios U44 (con soluciones)](/blog/curso-b1/unidad-44-for-since-from-time-ejercicios-soluciones).
 
 Curso:
 
