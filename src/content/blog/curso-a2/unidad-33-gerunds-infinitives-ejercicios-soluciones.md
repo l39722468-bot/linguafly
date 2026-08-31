@@ -21,8 +21,6 @@ related_routes:
   - unidad-33-gerunds-infinitives
   - unidad-32-phrasal-verbs-separables-ejercicios-soluciones
   - ingles-a2
-  - gerundios-e-infinitivos
-  - verbos-seguidos-de-infinitivo-o-gerundio
   - unidad-32-phrasal-verbs-separables
 faqs:
   - question: ¿Qué ejercicios incluye la Unidad 33 del curso A2?

@@ -263,4 +263,4 @@ Si una palabra te resiste más de 10 días, reduce: **una palabra al día** hast
 
 La **b muda** convive con miles de palabras donde la **b sí importa** fonéticamente. Aprende con **listas cortas**, **dictado** y **revisiones**, no con reglas absolutas que el inglés no respeta demasiado.
 
-Sigue en **[b muda inglés](/blog/temas/b-muda-ingles)** y revisa **[letras mudas](/blog/temas/letras-mudas-en-ingles-lista)**.
+Sigue en **[b muda inglés](/blog/temas/b-muda-ingles)** y revisa **[letras mudas](/blog/gramatica/letras-mudas-ingles-lista)**.

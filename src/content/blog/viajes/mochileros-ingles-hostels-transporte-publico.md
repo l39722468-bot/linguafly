@@ -294,4 +294,4 @@ Cuando memorices estas frases, evita el “parrot mode”: no repitas como loro 
 
 ---
 
-**Enlace útil:** amplía vocabulario de rutas largas en **[inglés para viajes largos](/blog/temas/ingles-para-viajes-largos)** y revisa tu **[hub de inglés para viajar](/blog/temas/ingles-para-viajar)** para seguir profundizando.
+**Enlace útil:** amplía vocabulario de rutas largas en **[inglés para viajes largos](/blog/temas/ingles-para-viajar)** y revisa tu **[hub de inglés para viajar](/blog/temas/ingles-para-viajar)** para seguir profundizando.

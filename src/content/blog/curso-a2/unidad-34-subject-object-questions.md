@@ -21,8 +21,7 @@ alt: Esquema de preguntas de sujeto y objeto A2
 related_routes:
   - unidad-34-subject-object-questions-ejercicios-soluciones
   - unidad-33-gerunds-infinitives
-  - preguntas-en-ingles
-  - wh-questions
+  - unidad-4-wh-questions-past-simple
   - ingles-a2
 faqs:
   - question: ¿Qué es una subject question?
@@ -479,8 +478,8 @@ Practica ahora:
 Guías relacionadas:
 
 - [U33 — Gerundios e infinitivos](/blog/curso-a2/unidad-33-gerunds-infinitives)
-- [Preguntas en inglés](/blog/gramatica/preguntas-en-ingles)
-- [Wh-questions](/blog/gramatica/wh-questions)
+- [U4 — Wh-questions en Past Simple](/blog/curso-a2/unidad-4-wh-questions-past-simple)
+- [U19 — How questions](/blog/curso-a2/unidad-19-how-questions)
 - [Inglés A2: guía del nivel](/blog/metodos/ingles-a2)
 
 ---
