@@ -330,7 +330,7 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b1/unidad-25-repaso-21-24).  
 2. Practica en la [Unidad 25 del curso B1](/curso-b1/unit-25).  
-3. Siguiente bloque del curso: [Unidad 26](/curso-b1/unit-26).
+3. Siguiente: [Quantifiers & Food](/blog/curso-b1/unidad-26-quantifiers-food-ejercicios-soluciones).
 
 Guías relacionadas:
 
