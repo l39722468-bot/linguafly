@@ -143,7 +143,7 @@ Curso:
 
 Siguiente bloque:
 
-- [Unidad 26 del curso](/curso-b1/unit-26) *(guía teórica pendiente)*
+- [U26 — Quantifiers & Food](/blog/curso-b1/unidad-26-quantifiers-food)
 
 Guías relacionadas:
 
