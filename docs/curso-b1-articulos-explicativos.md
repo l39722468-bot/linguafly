@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría + cuadernos U1–U55; Módulo 6 U51–55 completo)  
+**Última actualización:** 2026-08-31 (teoría U1–U60 completa; cuadernos U1–U55; Módulo 6 teoría U56–60)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -12,8 +12,8 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 55 |
-| Artículos dedicados pendientes | 5 |
+| Artículos dedicados publicados | 60 |
+| Artículos dedicados pendientes | 0 |
 | Cuadernos ejercicios+soluciones | 55 (U1–U55) |
 
 ---
@@ -150,6 +150,10 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | 53 | Review: modals | deduction, advice, preference, necessity | ✅ | [Review modals](/blog/curso-b1/unidad-53-review-modals) · [Ejercicios](/blog/curso-b1/unidad-53-review-modals-ejercicios-soluciones) |
 | 54 | Review: tenses | PP, past perfect, futures | ✅ | [Review tenses](/blog/curso-b1/unidad-54-review-tenses) · [Ejercicios](/blog/curso-b1/unidad-54-review-tenses-ejercicios-soluciones) |
 | 55 | Repaso 51–54 | integración conditionals, passive, modals, tenses | ✅ | [Repaso 51–54](/blog/curso-b1/unidad-55-repaso-51-54) · [Ejercicios](/blog/curso-b1/unidad-55-repaso-51-54-ejercicios-soluciones) |
-| 56–60 | Mixed practice & exam prep | pendiente | ❌ | — |
+| 56 | Mixed grammar practice | sport + gramática mixta B1 | ✅ | [Mixed grammar: sport](/blog/curso-b1/unidad-56-mixed-grammar-sport) · [Ejercicios](/blog/curso-b1/unidad-56-mixed-grammar-sport-ejercicios-soluciones) |
+| 57 | Mixed grammar practice | clothes & colours + gramática mixta | ✅ | [Mixed grammar: clothes](/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours) · [Ejercicios](/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours-ejercicios-soluciones) |
+| 58 | Mixed grammar practice | places: town & countryside | ✅ | [Mixed grammar: places](/blog/curso-b1/unidad-58-mixed-grammar-places) · [Ejercicios](/blog/curso-b1/unidad-58-mixed-grammar-places-ejercicios-soluciones) |
+| 59 | Exam preparation | PET/B1 exam strategies | ✅ | [Exam strategies](/blog/curso-b1/unidad-59-exam-preparation-strategies) · [Ejercicios](/blog/curso-b1/unidad-59-exam-preparation-strategies-ejercicios-soluciones) |
+| 60 | Final B1 review | repaso completo B1 (60/60) | ✅ | [Final B1 review](/blog/curso-b1/unidad-60-final-b1-review) · [Ejercicios](/blog/curso-b1/unidad-60-final-b1-review-ejercicios-soluciones) |
 
-**Módulo 6 primera mitad (U51–55) completo.** 5 artículos + 5 cuadernos.
+**Módulo 6 (U51–60) teoría completa.** 10 artículos teoría · 5 cuadernos pendientes (U56–60).

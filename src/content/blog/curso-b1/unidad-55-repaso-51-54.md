@@ -138,11 +138,11 @@ Clasifica primero: ¿condicional, pasiva/reported, modal o tiempo verbal?
 
 Curso:
 
-- [Unidad 56 — Próximo bloque](/curso-b1/unit-56)
+- [Unidad 56 — Mixed grammar: sport](/curso-b1/unit-56)
 
 Guía teórica siguiente:
 
-- Módulo 6 (U56+) — próximamente
+- [U56 — Mixed grammar: sport](/blog/curso-b1/unidad-56-mixed-grammar-sport)
 
 Guías relacionadas:
 
