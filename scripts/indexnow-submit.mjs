@@ -83,7 +83,7 @@ const getChangedMdUrls = (sinceRef) => {
   let out = "";
   try {
     out = execSync(
-      `git diff --name-only --diff-filter=AMR ${sinceRef} HEAD -- 'src/content/blog/**/*.md'`,
+      `git diff --name-only --diff-filter=AMR ${sinceRef} HEAD -- 'src/content/blog/**/*.md' 'src/content/hubs/**/*.md'`,
       { cwd: repoRoot, encoding: "utf8" }
     );
   } catch (err) {
@@ -93,8 +93,15 @@ const getChangedMdUrls = (sinceRef) => {
   const files = out.split("\n").map((s) => s.trim()).filter(Boolean);
   const urls = new Set();
   for (const f of files) {
-    const parts = categoryFromPath(f);
-    if (parts) urls.add(urlFor(parts));
+    const blog = categoryFromPath(f);
+    if (blog) {
+      urls.add(urlFor(blog));
+      continue;
+    }
+    const hub = f.match(/^src\/content\/hubs\/([^/]+)\.md$/);
+    if (hub) {
+      urls.add(`https://${HOST}/blog/temas/${hub[1]}`);
+    }
   }
   return [...urls];
 };

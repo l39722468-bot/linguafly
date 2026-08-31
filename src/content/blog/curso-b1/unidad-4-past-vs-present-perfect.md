@@ -1,58 +1,54 @@
 ---
+alt: Contraste Past Simple vs Present Perfect con expresiones de tiempo
+author: linguafly-team
+canonical: https://www.linguafly.app/blog/curso-b1/unidad-4-past-vs-present-perfect
 category: curso-b1
 date: '2026-08-12'
-updatedDate: '2026-08-12'
-author: linguafly-team
-title: 'Past Simple vs Present Perfect B1: yesterday, ever, just, already, yet'
-description: >-
-  Contrasta Past Simple y Present Perfect en inglés B1 con time expressions:
-  yesterday, last week, ever, never, just, already, yet, for, since. Guía Unidad
-  4 con audios y ejercicios.
-readTime: 16 min
-keywords:
-  - Past Simple vs Present Perfect B1
-  - yesterday ever never just already yet
-  - time expressions inglés
-  - inglés B1 unidad 4
-  - have you ever
-  - Present Perfect for since
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-4-past-vs-present-perfect'
-image: /blog/curso-b1/unit-4/past-vs-pp.png
-alt: Contraste Past Simple vs Present Perfect con expresiones de tiempo
-related_routes:
-  - unidad-4-past-vs-present-perfect-ejercicios-soluciones
-  - unidad-3-past-perfect-ejercicios-soluciones
-  - present-perfect-vs-past-simple
-  - unidad-3-past-perfect
-  - present-perfect-just-already-yet
-  - cursos-online-ingles-b1
+description: 'Contrasta Past Simple y Present Perfect en inglés B1 con time expressions:
+  yesterday, last week, ever, never, just, already, yet, for, since. Guía Unidad 4
+  con audios y ejercicios.'
+excerpt: 'Guía de la Unidad 4 del curso B1: contraste Past Simple vs Present Perfect
+  con yesterday, ever, just, already, yet y más expresiones de tiempo.'
 faqs:
-  - question: ¿Cuándo uso Past Simple?
-    answer: >-
-      Con tiempo pasado terminado y concreto: yesterday, last week/month/year,
-      ago, in 2019, last night. Ejemplo: I went to Paris yesterday.
-  - question: ¿Cuándo uso Present Perfect?
-    answer: >-
-      Con experiencias sin fecha concreta o conexión con el presente: ever,
-      never, just, already, yet, for, since. Ejemplo: She has never been to
-      Japan. I have just finished.
-  - question: ¿yet o already?
-    answer: >-
-      already = ya (afirmativas): She has already booked the hotel. yet =
-      todavía (negativas y preguntas): They haven’t finished yet. / Have you
-      finished yet?
-  - question: ¿When did you… o Have you ever…?
-    answer: >-
-      When… pide un momento concreto → Past Simple (When did you see him?). Ever
-      pregunta por experiencia de vida → Present Perfect (Have you ever been to
-      Italy?).
-  - question: ¿Dónde practico la Unidad 4 del curso B1?
-    answer: >-
-      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-4-past-vs-present-perfect-ejercicios-soluciones) y en la Unidad 4 del curso B1 de Linguafly: contraste Past Simple vs Present
-      Perfect, time expressions, reading, listening, speaking y writing.
-excerpt: >-
-  Guía de la Unidad 4 del curso B1: contraste Past Simple vs Present Perfect con
-  yesterday, ever, just, already, yet y más expresiones de tiempo.
+- answer: 'Con tiempo pasado terminado y concreto: yesterday, last week/month/year,
+    ago, in 2019, last night. Ejemplo: I went to Paris yesterday.'
+  question: ¿Cuándo uso Past Simple?
+- answer: 'Con experiencias sin fecha concreta o conexión con el presente: ever, never,
+    just, already, yet, for, since. Ejemplo: She has never been to Japan. I have just
+    finished.'
+  question: ¿Cuándo uso Present Perfect?
+- answer: 'already = ya (afirmativas): She has already booked the hotel. yet = todavía
+    (negativas y preguntas): They haven’t finished yet. / Have you finished yet?'
+  question: ¿yet o already?
+- answer: When… pide un momento concreto → Past Simple (When did you see him?). Ever
+    pregunta por experiencia de vida → Present Perfect (Have you ever been to Italy?).
+  question: ¿When did you… o Have you ever…?
+- answer: 'En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-4-past-vs-present-perfect-ejercicios-soluciones)
+    y en la Unidad 4 del curso B1 de Linguafly: contraste Past Simple vs Present Perfect,
+    time expressions, reading, listening, speaking y writing.'
+  question: ¿Dónde practico la Unidad 4 del curso B1?
+image: /blog/curso-b1/unit-4/past-vs-pp.png
+keywords:
+- Past Simple vs Present Perfect B1
+- yesterday ever never just already yet
+- time expressions inglés
+- inglés B1 unidad 4
+- have you ever
+- Present Perfect for since
+- curso de inglés gratis
+- aprender inglés gratis
+- curso de inglés online gratis
+- curso inglés B1 gratis
+readTime: 16 min
+related_routes:
+- unidad-4-past-vs-present-perfect-ejercicios-soluciones
+- unidad-3-past-perfect-ejercicios-soluciones
+- present-perfect-vs-past-simple
+- unidad-3-past-perfect
+- present-perfect-just-already-yet
+- cursos-online-ingles-b1
+title: 'Past Simple vs Present Perfect B1: yesterday, ever, just, already, yet'
+updatedDate: '2026-08-12'
 ---
 
 Tras el [Past Perfect](/blog/curso-b1/unidad-3-past-perfect), la **Unidad 4 del curso B1** (*Past Simple vs Present Perfect*) te obliga a **elegir**: ¿tiempo acabado (*yesterday*) o conexión con el presente (*ever*, *just*, *already*, *yet*)?

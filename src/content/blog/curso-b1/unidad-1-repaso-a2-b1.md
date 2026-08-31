@@ -1,60 +1,58 @@
 ---
+alt: Puente visual del repaso A2 hacia el nivel B1
+author: linguafly-team
+canonical: https://www.linguafly.app/blog/curso-b1/unidad-1-repaso-a2-b1
 category: curso-b1
 date: '2026-08-12'
-updatedDate: '2026-08-12'
-author: linguafly-team
-title: 'Repaso A2 → B1: Present Perfect, modales, used to y feelings'
-description: >-
-  Empieza el curso B1 con un repaso A2: Present Perfect, comparativos, modales,
-  relative who/which, used to y vocabulario de sentimientos. Guía Unidad 1 con
-  audios y ejercicios.
-readTime: 16 min
-keywords:
-  - repaso A2 B1
-  - inglés B1 unidad 1
-  - Present Perfect B1
-  - used to inglés
-  - feelings vocabulary B1
-  - relative clauses who which
-  - curso inglés B1
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-1-repaso-a2-b1'
-image: /blog/curso-b1/unit-1/a2-to-b1.png
-alt: Puente visual del repaso A2 hacia el nivel B1
-related_routes:
-  - unidad-1-repaso-a2-b1-ejercicios-soluciones
-  - unidad-60-module-6-review-ejercicios-soluciones
-  - cursos-online-ingles-b1
-  - gramatica-ingles-b1-guia
-  - present-perfect-usos-principales
-  - unidad-60-module-6-review
+description: 'Empieza el curso B1 con un repaso A2: Present Perfect, comparativos,
+  modales, relative who/which, used to y vocabulario de sentimientos. Guía Unidad
+  1 con audios y ejercicios.'
+excerpt: 'Guía de la Unidad 1 del curso B1: puente A2 → B1 con Present Perfect, modales,
+  used to, who/which, feelings y el texto de Maria en Londres.'
 faqs:
-  - question: ¿Qué se repasa en la Unidad 1 del curso B1?
-    answer: >-
-      Estructuras clave de A2 que necesitas activas en B1: Present Perfect,
-      comparativos, modales (must, have to, can), relative who/which, used to,
-      first conditional y un primer contacto con Present Perfect Continuous y
-      Past Perfect. También vocabulario de información personal y sentimientos.
-  - question: ¿En qué se diferencia B1 de A2?
-    answer: >-
-      En B1 las frases son más largas, combinas tiempos y explicas causas y
-      sentimientos con más precisión (anxious, confident, proud…). No empiezas
-      de cero: consolidas A2 y añades matices.
-  - question: ¿Qué es used to en este repaso?
-    answer: >-
-      used to + infinitive = hábito o situación del pasado que ya no ocurre: I
-      used to play tennis when I was young. No lo confundas aún con be/get used
-      to (eso se profundiza en la Unidad 9).
-  - question: ¿who o which en relative clauses?
-    answer: >-
-      who para personas (The man who helped me…); which para cosas (The book
-      which I bought…). En B1 luego verás that y cláusulas no definitorias.
-  - question: ¿Dónde practico la Unidad 1 del curso B1?
-    answer: >-
-      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-1-repaso-a2-b1-ejercicios-soluciones) y en la Unidad 1 del curso B1 de Linguafly: gramática, vocabulario, reading,
-      listening, speaking y writing alineados con este repaso A2 → B1.
-excerpt: >-
-  Guía de la Unidad 1 del curso B1: puente A2 → B1 con Present Perfect, modales,
-  used to, who/which, feelings y el texto de Maria en Londres.
+- answer: 'Estructuras clave de A2 que necesitas activas en B1: Present Perfect, comparativos,
+    modales (must, have to, can), relative who/which, used to, first conditional y
+    un primer contacto con Present Perfect Continuous y Past Perfect. También vocabulario
+    de información personal y sentimientos.'
+  question: ¿Qué se repasa en la Unidad 1 del curso B1?
+- answer: 'En B1 las frases son más largas, combinas tiempos y explicas causas y sentimientos
+    con más precisión (anxious, confident, proud…). No empiezas de cero: consolidas
+    A2 y añades matices.'
+  question: ¿En qué se diferencia B1 de A2?
+- answer: 'used to + infinitive = hábito o situación del pasado que ya no ocurre:
+    I used to play tennis when I was young. No lo confundas aún con be/get used to
+    (eso se profundiza en la Unidad 9).'
+  question: ¿Qué es used to en este repaso?
+- answer: who para personas (The man who helped me…); which para cosas (The book which
+    I bought…). En B1 luego verás that y cláusulas no definitorias.
+  question: ¿who o which en relative clauses?
+- answer: 'En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-1-repaso-a2-b1-ejercicios-soluciones)
+    y en la Unidad 1 del curso B1 de Linguafly: gramática, vocabulario, reading, listening,
+    speaking y writing alineados con este repaso A2 → B1.'
+  question: ¿Dónde practico la Unidad 1 del curso B1?
+image: /blog/curso-b1/unit-1/a2-to-b1.png
+keywords:
+- repaso A2 B1
+- inglés B1 unidad 1
+- Present Perfect B1
+- used to inglés
+- feelings vocabulary B1
+- relative clauses who which
+- curso inglés B1
+- curso de inglés gratis
+- aprender inglés gratis
+- curso de inglés online gratis
+- curso inglés B1 gratis
+readTime: 16 min
+related_routes:
+- unidad-1-repaso-a2-b1-ejercicios-soluciones
+- unidad-60-module-6-review-ejercicios-soluciones
+- cursos-online-ingles-b1
+- gramatica-ingles-b1-guia
+- present-perfect-usos-principales
+- unidad-60-module-6-review
+title: 'Repaso A2 → B1: Present Perfect, modales, used to y feelings'
+updatedDate: '2026-08-12'
 ---
 
 Si acabas de cerrar el [curso A2](/blog/curso-a2) (o el [Module 6 Review](/blog/curso-a2/unidad-60-module-6-review)), no saltas al vacío: **activas** lo que ya sabes y lo usas en frases más largas. La **Unidad 1 del curso B1** (*Repaso A2 → B1*) es el puente: Present Perfect, comparativos, modales, *who/which*, *used to* y vocabulario de **feelings**, con el texto de Maria en Londres.

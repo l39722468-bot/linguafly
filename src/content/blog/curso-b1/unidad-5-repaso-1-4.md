@@ -1,60 +1,58 @@
 ---
+alt: Mapa de repaso de las unidades 1 a 4 del curso B1
+author: linguafly-team
+canonical: https://www.linguafly.app/blog/curso-b1/unidad-5-repaso-1-4
 category: curso-b1
 date: '2026-08-12'
-updatedDate: '2026-08-12'
-author: linguafly-team
-title: 'Repaso B1 1–4: PPC, Past Perfect y Past vs Present Perfect'
-description: >-
-  Integra las Unidades 1–4 del curso B1: Present Perfect Continuous, Past
-  Perfect, Past Simple vs Present Perfect y vocabulario clave. Guía Unidad 5 con
-  audios y ejercicios.
-readTime: 16 min
-keywords:
-  - repaso B1 unidades 1-4
-  - Present Perfect Continuous B1
-  - Past Perfect B1
-  - Past Simple vs Present Perfect
-  - inglés B1 unidad 5
-  - review 1-4 B1
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-5-repaso-1-4'
-image: /blog/curso-b1/unit-5/review-map.png
-alt: Mapa de repaso de las unidades 1 a 4 del curso B1
-related_routes:
-  - unidad-5-repaso-1-4-ejercicios-soluciones
-  - unidad-4-past-vs-present-perfect-ejercicios-soluciones
-  - unidad-2-present-perfect-continuous
-  - unidad-3-past-perfect
-  - unidad-4-past-vs-present-perfect
-  - unidad-1-repaso-a2-b1
-  - gramatica-ingles-b1-guia
+description: 'Integra las Unidades 1–4 del curso B1: Present Perfect Continuous, Past
+  Perfect, Past Simple vs Present Perfect y vocabulario clave. Guía Unidad 5 con audios
+  y ejercicios.'
+excerpt: 'Guía de la Unidad 5 del curso B1: repaso de Present Perfect Continuous,
+  Past Perfect, Past vs Present Perfect y el texto de Laura.'
 faqs:
-  - question: ¿Qué se repasa en la Unidad 5 del curso B1?
-    answer: >-
-      Las Unidades 1–4: bridge A2→B1, Present Perfect Continuous (for/since),
-      Past Perfect (before/by the time) y el contraste Past Simple vs Present
-      Perfect (yesterday vs ever/just/already/yet), más vocabulario de feelings,
-      education y time expressions.
-  - question: ¿Cómo elijo entre PPC, Past Perfect y Past Simple?
-    answer: >-
-      PPC = duración hasta ahora (has been studying for two hours). Past Perfect
-      = anterior a otro pasado (had finished before I arrived). Past Simple =
-      tiempo acabado (went yesterday). Present Perfect = experiencia/ahora (has
-      never been / have just finished).
-  - question: ¿for o since con Present Perfect Continuous?
-    answer: >-
-      for + duración (for two hours, for five years). since + punto de inicio
-      (since January, since 8 o’clock).
-  - question: ¿already con Present Perfect o Past Perfect?
-    answer: >-
-      Ambos: She has already booked (conexión presente). The film had already
-      started / the train had already left (antes de otro pasado).
-  - question: ¿Dónde practico la Unidad 5 del curso B1?
-    answer: >-
-      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-5-repaso-1-4-ejercicios-soluciones) y en la Unidad 5 del curso B1 de Linguafly: repaso integrado en gramática,
-      vocabulario, reading, listening, speaking y writing.
-excerpt: >-
-  Guía de la Unidad 5 del curso B1: repaso de Present Perfect Continuous, Past
-  Perfect, Past vs Present Perfect y el texto de Laura.
+- answer: 'Las Unidades 1–4: bridge A2→B1, Present Perfect Continuous (for/since),
+    Past Perfect (before/by the time) y el contraste Past Simple vs Present Perfect
+    (yesterday vs ever/just/already/yet), más vocabulario de feelings, education y
+    time expressions.'
+  question: ¿Qué se repasa en la Unidad 5 del curso B1?
+- answer: PPC = duración hasta ahora (has been studying for two hours). Past Perfect
+    = anterior a otro pasado (had finished before I arrived). Past Simple = tiempo
+    acabado (went yesterday). Present Perfect = experiencia/ahora (has never been
+    / have just finished).
+  question: ¿Cómo elijo entre PPC, Past Perfect y Past Simple?
+- answer: for + duración (for two hours, for five years). since + punto de inicio
+    (since January, since 8 o’clock).
+  question: ¿for o since con Present Perfect Continuous?
+- answer: 'Ambos: She has already booked (conexión presente). The film had already
+    started / the train had already left (antes de otro pasado).'
+  question: ¿already con Present Perfect o Past Perfect?
+- answer: 'En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-5-repaso-1-4-ejercicios-soluciones)
+    y en la Unidad 5 del curso B1 de Linguafly: repaso integrado en gramática, vocabulario,
+    reading, listening, speaking y writing.'
+  question: ¿Dónde practico la Unidad 5 del curso B1?
+image: /blog/curso-b1/unit-5/review-map.png
+keywords:
+- repaso B1 unidades 1-4
+- Present Perfect Continuous B1
+- Past Perfect B1
+- Past Simple vs Present Perfect
+- inglés B1 unidad 5
+- review 1-4 B1
+- curso de inglés gratis
+- aprender inglés gratis
+- curso de inglés online gratis
+- curso inglés B1 gratis
+readTime: 16 min
+related_routes:
+- unidad-5-repaso-1-4-ejercicios-soluciones
+- unidad-4-past-vs-present-perfect-ejercicios-soluciones
+- unidad-2-present-perfect-continuous
+- unidad-3-past-perfect
+- unidad-4-past-vs-present-perfect
+- unidad-1-repaso-a2-b1
+- gramatica-ingles-b1-guia
+title: 'Repaso B1 1–4: PPC, Past Perfect y Past vs Present Perfect'
+updatedDate: '2026-08-12'
 ---
 
 La **Unidad 5 del curso B1** (*Repaso 1–4*) no añade gramática nueva: **mezcla** lo de [U1](/blog/curso-b1/unidad-1-repaso-a2-b1)–[U4](/blog/curso-b1/unidad-4-past-vs-present-perfect) para que elijas el tiempo correcto en contexto.

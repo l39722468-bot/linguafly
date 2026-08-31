@@ -1,57 +1,54 @@
 ---
+alt: Fórmula have/has been + -ing del Present Perfect Continuous B1
+author: linguafly-team
+canonical: https://www.linguafly.app/blog/curso-b1/unidad-2-present-perfect-continuous
 category: curso-b1
 date: '2026-08-12'
-updatedDate: '2026-08-12'
-author: linguafly-team
-title: 'Present Perfect Continuous B1: have/has been + -ing, for/since'
-description: >-
-  Aprende Present Perfect Continuous en inglés B1: have/has been + -ing,
-  for/since y contraste con Present Perfect Simple. Guía Unidad 2 con audios y
-  ejercicios (education).
-readTime: 16 min
-keywords:
-  - Present Perfect Continuous B1
-  - have has been ing
-  - for since inglés
-  - Present Perfect Continuous vs Simple
-  - inglés B1 unidad 2
-  - education vocabulary B1
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-2-present-perfect-continuous'
-image: /blog/curso-b1/unit-2/ppc-formula.png
-alt: Fórmula have/has been + -ing del Present Perfect Continuous B1
-related_routes:
-  - unidad-2-present-perfect-continuous-ejercicios-soluciones
-  - unidad-1-repaso-a2-b1-ejercicios-soluciones
-  - present-perfect-continuous
-  - present-perfect-usos-principales
-  - unidad-1-repaso-a2-b1
-  - cursos-online-ingles-b1
+description: 'Aprende Present Perfect Continuous en inglés B1: have/has been + -ing,
+  for/since y contraste con Present Perfect Simple. Guía Unidad 2 con audios y ejercicios
+  (education).'
+excerpt: 'Guía de la Unidad 2 del curso B1: Present Perfect Continuous con have/has
+  been + -ing, for/since, contraste con Simple y vocabulario de education.'
 faqs:
-  - question: ¿Cómo se forma el Present Perfect Continuous?
-    answer: >-
-      have/has + been + verbo en -ing. I/you/we/they → have been. He/she/it →
-      has been. Ejemplo: She has been studying for two hours.
-  - question: ¿Cuándo uso for y cuándo since?
-    answer: >-
-      for + duración (for three years, for two hours). since + punto de inicio
-      (since 2019, since September, since this morning).
-  - question: ¿Continuous o Simple?
-    answer: >-
-      Continuous = duración / proceso / resultado visible (She has been
-      gardening — hands dirty). Simple = resultado o cantidad (I have read three
-      books; She has written ten emails).
-  - question: ¿Cómo pregunto “cuánto tiempo llevas…”?
-    answer: >-
-      How long have you been + -ing…? Ejemplo: How long have you been studying
-      here?
-  - question: ¿Dónde practico la Unidad 2 del curso B1?
-    answer: >-
-      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-2-present-perfect-continuous-ejercicios-soluciones) y en la Unidad 2 del curso B1 de Linguafly: gramática, vocabulario de
-      education, reading, listening, speaking y writing con Present Perfect
-      Continuous.
-excerpt: >-
-  Guía de la Unidad 2 del curso B1: Present Perfect Continuous con have/has been
-  + -ing, for/since, contraste con Simple y vocabulario de education.
+- answer: 'have/has + been + verbo en -ing. I/you/we/they → have been. He/she/it →
+    has been. Ejemplo: She has been studying for two hours.'
+  question: ¿Cómo se forma el Present Perfect Continuous?
+- answer: for + duración (for three years, for two hours). since + punto de inicio
+    (since 2019, since September, since this morning).
+  question: ¿Cuándo uso for y cuándo since?
+- answer: Continuous = duración / proceso / resultado visible (She has been gardening
+    — hands dirty). Simple = resultado o cantidad (I have read three books; She has
+    written ten emails).
+  question: ¿Continuous o Simple?
+- answer: 'How long have you been + -ing…? Ejemplo: How long have you been studying
+    here?'
+  question: ¿Cómo pregunto “cuánto tiempo llevas…”?
+- answer: 'En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-2-present-perfect-continuous-ejercicios-soluciones)
+    y en la Unidad 2 del curso B1 de Linguafly: gramática, vocabulario de education,
+    reading, listening, speaking y writing con Present Perfect Continuous.'
+  question: ¿Dónde practico la Unidad 2 del curso B1?
+image: /blog/curso-b1/unit-2/ppc-formula.png
+keywords:
+- Present Perfect Continuous B1
+- have has been ing
+- for since inglés
+- Present Perfect Continuous vs Simple
+- inglés B1 unidad 2
+- education vocabulary B1
+- curso de inglés gratis
+- aprender inglés gratis
+- curso de inglés online gratis
+- curso inglés B1 gratis
+readTime: 16 min
+related_routes:
+- unidad-2-present-perfect-continuous-ejercicios-soluciones
+- unidad-1-repaso-a2-b1-ejercicios-soluciones
+- present-perfect-continuous
+- present-perfect-usos-principales
+- unidad-1-repaso-a2-b1
+- cursos-online-ingles-b1
+title: 'Present Perfect Continuous B1: have/has been + -ing, for/since'
+updatedDate: '2026-08-12'
 ---
 
 Tras el [Repaso A2 → B1](/blog/curso-b1/unidad-1-repaso-a2-b1), la **Unidad 2 del curso B1** (*Present Perfect Continuous*) te enseña a hablar de **duración hasta ahora**: ***She has been studying for two hours***. Combina la forma con *for/since*, el contraste con Present Perfect Simple y vocabulario de **education**.

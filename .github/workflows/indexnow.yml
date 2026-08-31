@@ -6,7 +6,18 @@ on:
       - main
     paths:
       - "src/content/blog/**/*.md"
+      - "src/content/hubs/**/*.md"
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "Modo de envío IndexNow"
+        required: false
+        default: "changed"
+        type: choice
+        options:
+          - changed
+          - all
+
 
 permissions:
   contents: read
@@ -29,11 +40,15 @@ jobs:
       - name: Submit changed URLs to IndexNow
         env:
           BEFORE_SHA: ${{ github.event.before }}
+          MODE: ${{ github.event.inputs.mode || 'changed' }}
         run: |
-          if [ -z "$BEFORE_SHA" ] || [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ]; then
+          if [ "$MODE" = "all" ]; then
+            echo "Modo manual: enviando sitemap completo."
+            node scripts/indexnow-submit.mjs --all
+          elif [ -z "$BEFORE_SHA" ] || [ "$BEFORE_SHA" = "0000000000000000000000000000000000000000" ]; then
             echo "No before SHA disponible; enviando sitemap completo."
             node scripts/indexnow-submit.mjs --all
           else
-            echo "Enviando URLs cambiadas desde $BEFORE_SHA"
+            echo "Enviando URLs cambiadas desde $BEFORE_SHA (blog + hubs)"
             node scripts/indexnow-submit.mjs --since="$BEFORE_SHA"
           fi

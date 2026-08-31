@@ -841,6 +841,330 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-6-future-will-going-to': [
     { courseId: 'b1', unitNumber: 6 },
   ],
+  'unidad-7-was-were-going-to': [
+    { courseId: 'b1', unitNumber: 7 },
+  ],
+  'unidad-8-modals-deduction': [
+    { courseId: 'b1', unitNumber: 8 },
+  ],
+  'unidad-9-used-to-be-get-used-to': [
+    { courseId: 'b1', unitNumber: 9 },
+  ],
+  'unidad-10-repaso-6-9': [
+    { courseId: 'b1', unitNumber: 10 },
+  ],
+  'unidad-11-first-conditional-weather': [
+    { courseId: 'b1', unitNumber: 11 },
+  ],
+  'unidad-11-first-conditional-weather-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 11 },
+  ],
+  'unidad-12-second-conditional': [
+    { courseId: 'b1', unitNumber: 12 },
+  ],
+  'unidad-12-second-conditional-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 12 },
+  ],
+  'unidad-13-first-vs-second-conditional': [
+    { courseId: 'b1', unitNumber: 13 },
+  ],
+  'unidad-13-first-vs-second-conditional-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 13 },
+  ],
+  'unidad-14-third-conditional': [
+    { courseId: 'b1', unitNumber: 14 },
+  ],
+  'unidad-14-third-conditional-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 14 },
+  ],
+  'unidad-15-repaso-11-14': [
+    { courseId: 'b1', unitNumber: 15 },
+  ],
+  'unidad-15-repaso-11-14-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 15 },
+  ],
+  'unidad-16-passive-voice-technology': [
+    { courseId: 'b1', unitNumber: 16 },
+  ],
+  'unidad-16-passive-voice-technology-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 16 },
+  ],
+  'unidad-17-modal-passive-work': [
+    { courseId: 'b1', unitNumber: 17 },
+  ],
+  'unidad-17-modal-passive-work-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 17 },
+  ],
+  'unidad-18-reported-speech-statements': [
+    { courseId: 'b1', unitNumber: 18 },
+  ],
+  'unidad-18-reported-speech-statements-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 18 },
+  ],
+  'unidad-19-reported-speech-questions': [
+    { courseId: 'b1', unitNumber: 19 },
+  ],
+  'unidad-19-reported-speech-questions-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 19 },
+  ],
+  'unidad-20-repaso-16-19': [
+    { courseId: 'b1', unitNumber: 20 },
+  ],
+  'unidad-20-repaso-16-19-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 20 },
+  ],
+  'unidad-21-gerund-infinitive-hobbies': [
+    { courseId: 'b1', unitNumber: 21 },
+  ],
+  'unidad-21-gerund-infinitive-hobbies-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 21 },
+  ],
+  'unidad-22-gerund-infinitive-house': [
+    { courseId: 'b1', unitNumber: 22 },
+  ],
+  'unidad-22-gerund-infinitive-house-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 22 },
+  ],
+  'unidad-23-phrasal-verbs-daily': [
+    { courseId: 'b1', unitNumber: 23 },
+  ],
+  'unidad-23-phrasal-verbs-daily-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 23 },
+  ],
+  'unidad-24-phrasal-verbs-shopping': [
+    { courseId: 'b1', unitNumber: 24 },
+  ],
+  'unidad-24-phrasal-verbs-shopping-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 24 },
+  ],
+  'unidad-25-repaso-21-24': [
+    { courseId: 'b1', unitNumber: 25 },
+  ],
+  'unidad-25-repaso-21-24-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 25 },
+  ],
+  'unidad-26-quantifiers-food': [
+    { courseId: 'b1', unitNumber: 26 },
+  ],
+  'unidad-26-quantifiers-food-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 26 },
+  ],
+  'unidad-27-both-either-neither': [
+    { courseId: 'b1', unitNumber: 27 },
+  ],
+  'unidad-27-both-either-neither-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 27 },
+  ],
+  'unidad-28-articles-buildings': [
+    { courseId: 'b1', unitNumber: 28 },
+  ],
+  'unidad-28-articles-buildings-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 28 },
+  ],
+  'unidad-29-reflexive-pronouns': [
+    { courseId: 'b1', unitNumber: 29 },
+  ],
+  'unidad-29-reflexive-pronouns-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 29 },
+  ],
+  'unidad-30-repaso-26-29': [
+    { courseId: 'b1', unitNumber: 30 },
+  ],
+  'unidad-30-repaso-26-29-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 30 },
+  ],
+  'unidad-31-defining-relative-nature': [
+    { courseId: 'b1', unitNumber: 31 },
+  ],
+  'unidad-32-nondefining-relative-environment': [
+    { courseId: 'b1', unitNumber: 32 },
+  ],
+  'unidad-33-question-tags-services': [
+    { courseId: 'b1', unitNumber: 33 },
+  ],
+  'unidad-34-ed-ing-adjectives-feelings': [
+    { courseId: 'b1', unitNumber: 34 },
+  ],
+  'unidad-35-repaso-31-34': [
+    { courseId: 'b1', unitNumber: 35 },
+  ],
+  'unidad-31-defining-relative-nature-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 31 },
+  ],
+  'unidad-32-nondefining-relative-environment-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 32 },
+  ],
+  'unidad-33-question-tags-services-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 33 },
+  ],
+  'unidad-34-ed-ing-adjectives-feelings-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 34 },
+  ],
+  'unidad-35-repaso-31-34-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 35 },
+  ],
+  'unidad-36-so-such-intensifiers': [
+    { courseId: 'b1', unitNumber: 36 },
+  ],
+  'unidad-37-compound-adjectives-travel': [
+    { courseId: 'b1', unitNumber: 37 },
+  ],
+  'unidad-38-contrast-opinions': [
+    { courseId: 'b1', unitNumber: 38 },
+  ],
+  'unidad-39-purpose-reason-explaining': [
+    { courseId: 'b1', unitNumber: 39 },
+  ],
+  'unidad-40-repaso-36-39': [
+    { courseId: 'b1', unitNumber: 40 },
+  ],
+  'unidad-36-so-such-intensifiers-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 36 },
+  ],
+  'unidad-37-compound-adjectives-travel-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 37 },
+  ],
+  'unidad-38-contrast-opinions-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 38 },
+  ],
+  'unidad-39-purpose-reason-explaining-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 39 },
+  ],
+  'unidad-40-repaso-36-39-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 40 },
+  ],
+  'unidad-41-verb-preposition-dependent': [
+    { courseId: 'b1', unitNumber: 41 },
+  ],
+  'unidad-42-adjective-preposition-feelings': [
+    { courseId: 'b1', unitNumber: 42 },
+  ],
+  'unidad-43-during-for-while-time': [
+    { courseId: 'b1', unitNumber: 43 },
+  ],
+  'unidad-44-for-since-from-time': [
+    { courseId: 'b1', unitNumber: 44 },
+  ],
+  'unidad-45-repaso-41-44': [
+    { courseId: 'b1', unitNumber: 45 },
+  ],
+  'unidad-46-had-better-its-time-advice': [
+    { courseId: 'b1', unitNumber: 46 },
+  ],
+  'unidad-47-would-rather-preferences': [
+    { courseId: 'b1', unitNumber: 47 },
+  ],
+  'unidad-48-phrasal-verbs-work-study': [
+    { courseId: 'b1', unitNumber: 48 },
+  ],
+  'unidad-49-need-neednt-necessity': [
+    { courseId: 'b1', unitNumber: 49 },
+  ],
+  'unidad-50-repaso-46-49': [
+    { courseId: 'b1', unitNumber: 50 },
+  ],
+  'unidad-46-had-better-its-time-advice-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 46 },
+  ],
+  'unidad-47-would-rather-preferences-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 47 },
+  ],
+  'unidad-48-phrasal-verbs-work-study-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 48 },
+  ],
+  'unidad-49-need-neednt-necessity-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 49 },
+  ],
+  'unidad-50-repaso-46-49-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 50 },
+  ],
+  'unidad-51-review-conditionals': [
+    { courseId: 'b1', unitNumber: 51 },
+  ],
+  'unidad-52-review-passive-reported': [
+    { courseId: 'b1', unitNumber: 52 },
+  ],
+  'unidad-53-review-modals': [
+    { courseId: 'b1', unitNumber: 53 },
+  ],
+  'unidad-54-review-tenses': [
+    { courseId: 'b1', unitNumber: 54 },
+  ],
+  'unidad-55-repaso-51-54': [
+    { courseId: 'b1', unitNumber: 55 },
+  ],
+  'unidad-51-review-conditionals-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 51 },
+  ],
+  'unidad-52-review-passive-reported-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 52 },
+  ],
+  'unidad-53-review-modals-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 53 },
+  ],
+  'unidad-54-review-tenses-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 54 },
+  ],
+  'unidad-55-repaso-51-54-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 55 },
+  ],
+  'unidad-56-mixed-grammar-sport': [
+    { courseId: 'b1', unitNumber: 56 },
+  ],
+  'unidad-57-mixed-grammar-clothes-colours': [
+    { courseId: 'b1', unitNumber: 57 },
+  ],
+  'unidad-58-mixed-grammar-places': [
+    { courseId: 'b1', unitNumber: 58 },
+  ],
+  'unidad-59-exam-preparation-strategies': [
+    { courseId: 'b1', unitNumber: 59 },
+  ],
+  'unidad-60-final-b1-review': [
+    { courseId: 'b1', unitNumber: 60 },
+  ],
+  'unidad-56-mixed-grammar-sport-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 56 },
+  ],
+  'unidad-57-mixed-grammar-clothes-colours-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 57 },
+  ],
+  'unidad-58-mixed-grammar-places-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 58 },
+  ],
+  'unidad-59-exam-preparation-strategies-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 59 },
+  ],
+  'unidad-60-final-b1-review-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 60 },
+  ],
+  'unidad-41-verb-preposition-dependent-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 41 },
+  ],
+  'unidad-42-adjective-preposition-feelings-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 42 },
+  ],
+  'unidad-43-during-for-while-time-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 43 },
+  ],
+  'unidad-44-for-since-from-time-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 44 },
+  ],
+  'unidad-45-repaso-41-44-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 45 },
+  ],
+  'unidad-7-was-were-going-to-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 7 },
+  ],
+  'unidad-8-modals-deduction-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 8 },
+  ],
+  'unidad-9-used-to-be-get-used-to-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 9 },
+  ],
+  'unidad-10-repaso-6-9-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 10 },
+  ],
   'unidad-1-repaso-a2-b1-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 1 },
   ],

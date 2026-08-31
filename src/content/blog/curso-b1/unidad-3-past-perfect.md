@@ -1,56 +1,53 @@
 ---
+alt: Fórmula had + past participle del Past Perfect B1
+author: linguafly-team
+canonical: https://www.linguafly.app/blog/curso-b1/unidad-3-past-perfect
 category: curso-b1
 date: '2026-08-12'
-updatedDate: '2026-08-12'
-author: linguafly-team
-title: 'Past Perfect B1: had + past participle (before, by the time)'
-description: >-
-  Aprende Past Perfect en inglés B1: had + past participle para secuencias en el
-  pasado (before, by the time, already). Guía Unidad 3 con audios y ejercicios.
-readTime: 16 min
-keywords:
-  - Past Perfect B1
-  - had past participle
-  - by the time inglés
-  - before Past Perfect
-  - inglés B1 unidad 3
-  - past experiences vocabulary
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-3-past-perfect'
-image: /blog/curso-b1/unit-3/past-perfect-formula.png
-alt: Fórmula had + past participle del Past Perfect B1
-related_routes:
-  - unidad-3-past-perfect-ejercicios-soluciones
-  - unidad-2-present-perfect-continuous-ejercicios-soluciones
-  - past-perfect-ingles
-  - unidad-2-present-perfect-continuous
-  - present-perfect-vs-past-simple
-  - gramatica-ingles-b1-guia
+description: 'Aprende Past Perfect en inglés B1: had + past participle para secuencias
+  en el pasado (before, by the time, already). Guía Unidad 3 con audios y ejercicios.'
+excerpt: 'Guía de la Unidad 3 del curso B1: Past Perfect con had + past participle,
+  before/by the time/already y vocabulario de experiencias pasadas.'
 faqs:
-  - question: ¿Cómo se forma el Past Perfect?
-    answer: >-
-      had + past participle para todos los sujetos. Ejemplo: He had finished /
-      She had never been / They had already left.
-  - question: ¿Cuándo uso Past Perfect?
-    answer: >-
-      Para una acción anterior a otra en el pasado: When she got to the station,
-      the train had already left. También con before, by the time, after y
-      already.
-  - question: ¿Past Perfect o Past Simple?
-    answer: >-
-      Past Simple narra el momento pasado (I arrived). Past Perfect marca lo que
-      ya había pasado antes (the film had started). Sin contraste de “antes”,
-      suele bastar Past Simple.
-  - question: ¿Qué significa by the time?
-    answer: >-
-      “Para cuando…”. By the time we arrived, the film had already started = la
-      película ya había empezado cuando llegamos.
-  - question: ¿Dónde practico la Unidad 3 del curso B1?
-    answer: >-
-      En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-3-past-perfect-ejercicios-soluciones) y en la Unidad 3 del curso B1 de Linguafly: gramática, vocabulario de past
-      experiences, reading, listening, speaking y writing con Past Perfect.
-excerpt: >-
-  Guía de la Unidad 3 del curso B1: Past Perfect con had + past participle,
-  before/by the time/already y vocabulario de experiencias pasadas.
+- answer: 'had + past participle para todos los sujetos. Ejemplo: He had finished
+    / She had never been / They had already left.'
+  question: ¿Cómo se forma el Past Perfect?
+- answer: 'Para una acción anterior a otra en el pasado: When she got to the station,
+    the train had already left. También con before, by the time, after y already.'
+  question: ¿Cuándo uso Past Perfect?
+- answer: Past Simple narra el momento pasado (I arrived). Past Perfect marca lo que
+    ya había pasado antes (the film had started). Sin contraste de “antes”, suele
+    bastar Past Simple.
+  question: ¿Past Perfect o Past Simple?
+- answer: “Para cuando…”. By the time we arrived, the film had already started = la
+    película ya había empezado cuando llegamos.
+  question: ¿Qué significa by the time?
+- answer: 'En el [cuaderno de ejercicios con soluciones](/blog/curso-b1/unidad-3-past-perfect-ejercicios-soluciones)
+    y en la Unidad 3 del curso B1 de Linguafly: gramática, vocabulario de past experiences,
+    reading, listening, speaking y writing con Past Perfect.'
+  question: ¿Dónde practico la Unidad 3 del curso B1?
+image: /blog/curso-b1/unit-3/past-perfect-formula.png
+keywords:
+- Past Perfect B1
+- had past participle
+- by the time inglés
+- before Past Perfect
+- inglés B1 unidad 3
+- past experiences vocabulary
+- curso de inglés gratis
+- aprender inglés gratis
+- curso de inglés online gratis
+- curso inglés B1 gratis
+readTime: 16 min
+related_routes:
+- unidad-3-past-perfect-ejercicios-soluciones
+- unidad-2-present-perfect-continuous-ejercicios-soluciones
+- past-perfect-ingles
+- unidad-2-present-perfect-continuous
+- present-perfect-vs-past-simple
+- gramatica-ingles-b1-guia
+title: 'Past Perfect B1: had + past participle (before, by the time)'
+updatedDate: '2026-08-12'
 ---
 
 Tras el [Present Perfect Continuous](/blog/curso-b1/unidad-2-present-perfect-continuous), la **Unidad 3 del curso B1** (*Past Perfect*) te enseña a ordenar el pasado: ***He had finished his homework before I arrived***. Usas *had + past participle* con *before*, *by the time* y *already*, y vocabulario de **past experiences**.
