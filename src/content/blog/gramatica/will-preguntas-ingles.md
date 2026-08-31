@@ -11,8 +11,6 @@ readTime: 7 min
 keywords:
   - 'Preguntas con Will en Inglés: Cómo'
   - preguntas con will ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 excerpt: >-
   Hacer preguntas con will en inglés es más sencillo de lo que parece: solo inviertes el sujeto y el auxiliar. Aprende la estructura, los tipos de preguntas y cómo sonar natural en inglés.

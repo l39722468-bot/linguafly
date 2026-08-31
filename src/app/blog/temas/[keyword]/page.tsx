@@ -56,6 +56,7 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
 
   const pageKeywords = [
     originalKeyword,
+    ...(hubContent?.keywords || []),
     ...articles.flatMap(a => a.keywords || []),
   ].filter((v, i, arr) => arr.indexOf(v) === i).slice(0, 10);
 

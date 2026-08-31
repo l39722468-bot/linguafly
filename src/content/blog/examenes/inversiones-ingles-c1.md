@@ -7,8 +7,6 @@ keywords:
   - 'Inversiones en Inglés C1: Domina'
   - inversiones ingles c1
   - material de inglés gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-23'
 updatedDate: '2026-08-31'

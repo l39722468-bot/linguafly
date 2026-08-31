@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - Cultura Americana vs Española
   - cultura americana
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-08-31'

@@ -13,8 +13,6 @@ alt: Persona estudiando inglés con tarjetas de vocabulario y notas en una mesa
 keywords:
   - Repetición Espaciada para Aprender
   - repetición espaciada inglés
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 faqs:
   - question: '¿Qué es exactamente la repetición espaciada?'

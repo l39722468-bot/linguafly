@@ -13,8 +13,6 @@ keywords:
   - 'Emails de Negociación en Inglés: Cómo'
   - como negociar por email ingles
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 author: focus-english-team
 date: '2026-02-18'
 updatedDate: '2026-08-31'

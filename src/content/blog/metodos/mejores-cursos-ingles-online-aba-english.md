@@ -11,8 +11,6 @@ alt: 'Tablet con lección de inglés británico'
 keywords:
   - 'ABA English: curso británico y exámenes'
   - aba english opinion
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 faqs:
   - question: '¿El certificado de ABA English vale como Cambridge o IELTS?'

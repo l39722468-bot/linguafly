@@ -6,7 +6,6 @@ excerpt: "En el Speaking del CAE no te evalúan si tu inglés es perfecto, sino 
 keywords:
   - 'Speaking CAE: Cómo Brillar'
   - como preparar speaking cae
-  - aprender inglés gratis
   - preparar inglés gratis
   - material de inglés gratis
 author: focus-english-team

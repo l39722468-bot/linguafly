@@ -13,8 +13,6 @@ keywords:
   - Emails de Actualización de Proyecto
   - email actualizacion proyecto ingles
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 author: focus-english-team
 date: '2026-02-27'
 updatedDate: '2026-08-31'

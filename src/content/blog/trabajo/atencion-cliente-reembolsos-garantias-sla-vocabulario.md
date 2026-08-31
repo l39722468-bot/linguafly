@@ -11,8 +11,6 @@ readTime: 22 min
 keywords:
   - Reembolsos, garantías y SLA
   - SLA inglés customer service
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 alt: Documentos y calculadora sobre mesa de oficina
 excerpt: >-

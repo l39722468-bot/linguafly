@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - entrevista virtual inglés videollamada zoom teams
   - entrevista trabajo online inglés setup cámara
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-11'
 updatedDate: '2026-08-31'

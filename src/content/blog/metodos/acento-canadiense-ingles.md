@@ -13,9 +13,6 @@ excerpt: >-
 keywords:
   - 'El Acento Canadiense: Por Qué "About'
   - acento canadiense inglés
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 author: focus-english-team
 date: '2026-02-24'
 updatedDate: '2026-08-31'

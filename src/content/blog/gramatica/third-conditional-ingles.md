@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - Third Conditional en Inglés
   - third conditional ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-13'

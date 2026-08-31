@@ -13,9 +13,6 @@ keywords:
   - house home vocabulary
   - try to vs try -ing
   - inglés B1 unidad 22
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-22-gerund-infinitive-house'
 image: /blog/curso-b1/unit-22/gerund-infinitive-2.png

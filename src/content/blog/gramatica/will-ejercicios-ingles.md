@@ -11,8 +11,6 @@ readTime: 10 min
 keywords:
   - Ejercicios de Will en Inglés
   - will ejercicios resueltos ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 excerpt: >-
   Practica todos los usos de will en inglés con ejercicios resueltos: futuro, predicciones, promesas, decisiones espontáneas, ofrecimientos y la diferencia con going to. Con soluciones comentadas.

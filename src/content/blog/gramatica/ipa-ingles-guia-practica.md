@@ -13,9 +13,7 @@ alt: Cuadro fonético internacional del inglés en papel
 keywords:
   - 'IPA para Inglés: Cómo Usarlo'
   - como usar IPA para aprender ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Cuánto tiempo lleva aprender el IPA del inglés?
     answer: >-

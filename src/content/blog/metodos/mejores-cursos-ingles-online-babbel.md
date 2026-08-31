@@ -11,9 +11,7 @@ alt: 'Móvil con app de idiomas'
 keywords:
   - 'Babbel: ¿válido para IELTS o Cambridge?'
   - babbel ingles opinion
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 faqs:
   - question: '¿Babbel prepara para el B2 First o el IELTS?'
     answer: >-

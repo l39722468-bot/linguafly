@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - 'Phrasal Verbs de Trabajo: 60 Verbos'
   - phrasal verbs trabajo
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - Trucos para Aprobar el Writing del C1
   - trucos writing c1 advanced
-  - curso de inglés gratis
-  - aprender inglés gratis
   - preparar inglés gratis
 date: '2026-02-05'
 updatedDate: '2026-08-31'

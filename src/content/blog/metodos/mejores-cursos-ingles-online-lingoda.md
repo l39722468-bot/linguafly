@@ -11,9 +11,6 @@ alt: 'Clase grupal de inglés online'
 keywords:
   - 'Lingoda: grupos en vivo y exámenes'
   - lingoda opinion
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 faqs:
   - question: '¿Lingoda prepara específicamente para IELTS o Cambridge?'
     answer: >-

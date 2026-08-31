@@ -14,9 +14,6 @@ keywords:
   - deporte inglés ejercicios
   - práctica gramatical mixta
   - curso B1 Linguafly
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-56-mixed-grammar-sport-ejercicios-soluciones'

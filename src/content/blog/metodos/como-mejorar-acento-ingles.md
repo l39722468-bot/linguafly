@@ -13,8 +13,6 @@ excerpt: >-
 keywords:
   - 'Cómo Mejorar tu Acento en Inglés: Lo'
   - mejorar acento inglés
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 author: focus-english-team
 date: '2026-02-25'

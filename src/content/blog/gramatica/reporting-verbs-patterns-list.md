@@ -12,7 +12,6 @@ readTime: 5 min
 keywords:
   - 'Reporting Verbs Patterns: Lista Completa'
   - reporting verbs c1
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 canonical: 'https://linguafly.app/blog/gramatica/reporting-verbs-patterns-list'

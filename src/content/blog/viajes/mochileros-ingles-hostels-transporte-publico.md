@@ -12,7 +12,6 @@ keywords:
   - Inglés para mochileros en hostels
   - aprender inglés para mochileros
   - inglés para viajar gratis
-  - curso de inglés gratis
   - frases en inglés gratis
 alt: Mochilero en estación de tren con mochila
 excerpt: >-

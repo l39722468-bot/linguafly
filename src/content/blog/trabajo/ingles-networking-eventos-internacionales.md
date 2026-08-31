@@ -17,9 +17,7 @@ canonical: >-
 keywords:
   - Networking en Inglés
   - frases networking inglés
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 faqs:
   - question: ¿De qué puedo hablar en el 'small talk'?
     answer: >-

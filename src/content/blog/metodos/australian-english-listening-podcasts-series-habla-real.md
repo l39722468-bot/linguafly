@@ -11,9 +11,6 @@ readTime: 22 min
 keywords:
   - Listening de inglés australiano
   - listening inglés australiano
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 alt: Auriculares sobre mesa
 excerpt: >-
   Guía práctica para acostumbrar el oído al inglés de Australia sin frustración:

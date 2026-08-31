@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - 'Cockney: El Acento del East End'
   - east end londres acento
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 author: focus-english-team
 date: '2026-02-15'
 updatedDate: '2026-08-31'

@@ -13,9 +13,7 @@ keywords:
   - ejercicios reported speech pdf
   - reporting verbs exercises pdf
   - reported speech c1 exercises pdf
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 canonical: 'https://www.linguafly.app/blog/gramatica/reported-speech-ejercicios-pdf'
 alt: Ejercicios de reported speech en formato PDF
 downloadPdf: true

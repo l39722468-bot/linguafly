@@ -14,9 +14,6 @@ keywords:
   - gerund infinitive review
   - inglés B2 unidad 5
   - ejercicios inglés B2 gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B2 gratis
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-5-repaso-1-4'
 image: /blog/curso-b2/unit-5/review-map.png

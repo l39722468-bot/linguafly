@@ -13,8 +13,6 @@ alt: Pila de libros en inglés sobre una mesa de madera
 keywords:
   - Los Mejores Libros para Aprender
   - mejores libros aprender ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 faqs:
   - question: ¿Es mejor estudiar con libros físicos o digitales para aprender inglés?

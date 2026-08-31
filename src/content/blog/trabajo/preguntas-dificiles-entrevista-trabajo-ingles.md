@@ -16,8 +16,6 @@ keywords:
   - preguntas difíciles entrevista trabajo inglés respuestas
   - cómo responder preguntas comprometidas entrevista inglés
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 faqs:
   - question: ¿Cómo respondo a "Tell me about yourself" en inglés sin irme por las ramas?
     answer: >-

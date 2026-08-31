@@ -13,9 +13,6 @@ alt: Tarjetas de vocabulario en inglés sobre una mesa de estudio
 keywords:
   - Anki para Aprender Inglés
   - mazos anki inglés
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 faqs:
   - question: '¿Anki es gratis para aprender inglés?'
     answer: >-

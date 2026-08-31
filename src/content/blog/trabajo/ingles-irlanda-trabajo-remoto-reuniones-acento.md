@@ -10,8 +10,6 @@ keywords:
   - Inglés en el Trabajo en Irlanda
   - ingles trabajo Irlanda reuniones
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 author: focus-english-team
 date: '2026-03-29'
 updatedDate: '2026-08-31'

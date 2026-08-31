@@ -15,8 +15,6 @@ readTime: 6 min
 keywords:
   - Inglés para Customer Service
   - customer service ingles telefono
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 faqs:
   - question: ¿Cómo mantengo la calma cuando un cliente furioso habla muy rápido en inglés?

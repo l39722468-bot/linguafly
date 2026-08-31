@@ -35,9 +35,6 @@ keywords:
 - Present Perfect Continuous vs Simple
 - inglés B1 unidad 2
 - education vocabulary B1
-- curso de inglés gratis
-- aprender inglés gratis
-- curso de inglés online gratis
 - curso inglés B1 gratis
 readTime: 16 min
 related_routes:

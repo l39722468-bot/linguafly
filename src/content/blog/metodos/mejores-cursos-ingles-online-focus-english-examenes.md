@@ -11,9 +11,7 @@ alt: 'Persona leyendo artículos de inglés en el portátil'
 keywords:
   - 'Linguafly: blog (no curso de pago)'
   - curso de ingles
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 faqs:
   - question: '¿Linguafly vende un curso de inglés online?'
     answer: >-

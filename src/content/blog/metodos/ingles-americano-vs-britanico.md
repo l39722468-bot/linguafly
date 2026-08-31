@@ -11,9 +11,7 @@ excerpt: >-
 keywords:
   - Inglés Americano vs Británico
   - diferencias ingles americano britanico
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 author: focus-english-team
 date: '2026-03-07'
 updatedDate: '2026-08-31'

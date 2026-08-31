@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - 'Sílabas en Inglés: Cómo Dividirlas'
   - silabas ingles
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

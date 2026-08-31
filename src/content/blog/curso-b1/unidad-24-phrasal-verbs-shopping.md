@@ -13,9 +13,6 @@ keywords:
   - phrasal verbs shopping
   - look into
   - inglés B1 unidad 24
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-24-phrasal-verbs-shopping'
 image: /blog/curso-b1/unit-24/phrasals-2.png

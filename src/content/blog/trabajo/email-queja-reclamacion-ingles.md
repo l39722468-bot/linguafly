@@ -11,9 +11,6 @@ excerpt: >-
 keywords:
   - Cómo Escribir un Email de Queja
   - como escribir queja en ingles
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-09'
 updatedDate: '2026-08-31'

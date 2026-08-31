@@ -11,9 +11,6 @@ excerpt: >-
 keywords:
   - 'Inglés A1 vs A2: Diferencias Clave'
   - ingles a1 vs a2
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 date: '2024-02-03'
 updatedDate: '2026-08-31'
 category: metodos

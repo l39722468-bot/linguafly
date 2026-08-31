@@ -11,9 +11,6 @@ readTime: 22 min
 keywords:
   - 'Australian English: schwa, ritmo'
   - australian english fonética
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 alt: Ondas de sonido abstractas
 excerpt: >-
   Cómo escuchar y producir patrones más naturales en inglés australiano:

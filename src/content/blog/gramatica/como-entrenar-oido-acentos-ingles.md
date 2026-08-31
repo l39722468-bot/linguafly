@@ -13,7 +13,6 @@ alt: Persona con auriculares entrenando la comprensión auditiva del inglés
 keywords:
   - Cómo Entrenar el Oído para Entender
   - como entender acentos ingles
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 faqs:

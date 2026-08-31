@@ -11,9 +11,7 @@ readTime: 22 min
 keywords:
   - Inglés para mochileros en naturaleza
   - inglés naturaleza
-  - curso de inglés gratis
   - frases en inglés gratis
-  - aprender inglés gratis
 alt: Sendero de montaña con bosque
 excerpt: >-
   Guía práctica de inglés outdoor para mochileros: trail, weather, gear, señales

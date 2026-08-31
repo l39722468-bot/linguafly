@@ -14,9 +14,6 @@ keywords:
   - work out look forward to
   - run out of deal with
   - curso B1 Linguafly
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-48-phrasal-verbs-work-study-ejercicios-soluciones'

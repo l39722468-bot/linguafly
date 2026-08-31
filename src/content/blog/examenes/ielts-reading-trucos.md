@@ -12,8 +12,6 @@ keywords:
   - 'IELTS Reading: Trucos'
   - ielts reading
   - material de inglés gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
 excerpt: >-
   60 minutos para leer tres textos largos y responder 40 preguntas. El IELTS Reading no es un test de comprensión lectora al uso: tiene tipos de pregunta que siguen reglas muy específicas, y conocerlas cambia el resultado.
 faqs:

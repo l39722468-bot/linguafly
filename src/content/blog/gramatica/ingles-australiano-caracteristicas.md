@@ -13,9 +13,7 @@ alt: Mapa de Australia con símbolos lingüísticos representando el inglés aus
 keywords:
   - 'Inglés Australiano: Por Qué Suena Tan Distinto'
   - pronunciacion ingles australiano
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿El inglés australiano es más parecido al británico o al americano?
     answer: >-

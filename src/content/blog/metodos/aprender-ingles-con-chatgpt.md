@@ -13,9 +13,7 @@ alt: Persona usando ChatGPT en un laptop para practicar inglés
 keywords:
   - Cómo Aprender Inglés con ChatGPT
   - aprender ingles con chatgpt
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 faqs:
   - question: ¿Es efectivo aprender inglés con ChatGPT?
     answer: >-

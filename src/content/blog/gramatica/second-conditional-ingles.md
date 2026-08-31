@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - Second Conditional en Inglés
   - second conditional ingles
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

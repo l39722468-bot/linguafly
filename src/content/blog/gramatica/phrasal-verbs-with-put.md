@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - 'Phrasal Verbs con PUT: Lista Completa'
   - put phrasal verbs lista
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

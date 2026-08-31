@@ -13,8 +13,6 @@ excerpt: >-
 keywords:
   - 'General American: El Acento'
   - general american acento
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 author: focus-english-team
 date: '2026-02-06'

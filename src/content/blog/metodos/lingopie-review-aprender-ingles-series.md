@@ -13,9 +13,7 @@ alt: Persona viendo una serie en inglés en el sofá con subtítulos en la panta
 keywords:
   - 'Lingopie Review: Aprende Inglés'
   - Lingopie review
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 faqs:
   - question: '¿Lingopie tiene una versión completamente gratuita?'
     answer: >-

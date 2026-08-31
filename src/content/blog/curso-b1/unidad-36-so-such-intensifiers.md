@@ -13,9 +13,6 @@ keywords:
   - intensifiers English
   - such a
   - inglés B1 unidad 36
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-36-so-such-intensifiers'
 image: /blog/curso-b1/unit-36/so-such.png

@@ -13,8 +13,6 @@ alt: Reunión internacional de personas de distintos países comunicándose en i
 keywords:
   - Inglés como Lengua Franca (ELF)
   - ELF fonologia
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué es el inglés como lengua franca (ELF)?

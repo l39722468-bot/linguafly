@@ -38,9 +38,6 @@ keywords:
 - Past Simple vs Present Perfect
 - inglés B1 unidad 5
 - review 1-4 B1
-- curso de inglés gratis
-- aprender inglés gratis
-- curso de inglés online gratis
 - curso inglés B1 gratis
 readTime: 16 min
 related_routes:

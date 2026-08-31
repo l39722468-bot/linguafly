@@ -13,9 +13,7 @@ excerpt: >-
 keywords:
   - entrevista trabajo inglés sin experiencia laboral
   - cómo responder entrevista inglés primer empleo junior
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 author: focus-english-team
 date: '2026-02-23'
 updatedDate: '2026-08-31'

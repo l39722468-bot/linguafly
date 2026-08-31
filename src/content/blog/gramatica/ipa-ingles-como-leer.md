@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - 'IPA en Inglés: Cómo Leer el Alfabeto'
   - cómo leer IPA inglés
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

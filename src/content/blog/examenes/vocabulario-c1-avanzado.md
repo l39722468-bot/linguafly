@@ -8,7 +8,6 @@ keywords:
   - vocabulario c1 advanced
   - preparar inglés gratis
   - material de inglés gratis
-  - curso de inglés gratis
 author: focus-english-team
 date: '2026-03-13'
 updatedDate: '2026-08-31'

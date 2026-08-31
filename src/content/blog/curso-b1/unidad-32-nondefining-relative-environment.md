@@ -13,9 +13,6 @@ keywords:
   - environment vocabulary
   - no that relative
   - inglés B1 unidad 32
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-32-nondefining-relative-environment'
 image: /blog/curso-b1/unit-32/nondefining-relative.png

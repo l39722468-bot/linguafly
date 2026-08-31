@@ -13,8 +13,6 @@ alt: Persona practicando pronunciación con auriculares y transcripción
 keywords:
   - Shadowing para Mejorar
   - shadowing idiomas
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué es exactamente el shadowing?

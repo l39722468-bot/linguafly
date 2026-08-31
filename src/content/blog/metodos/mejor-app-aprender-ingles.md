@@ -13,9 +13,6 @@ excerpt: >-
 keywords:
   - mejor app para aprender inglés 2026 comparativa
   - comparativa apps inglés por objetivo
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 date: '2026-02-03'
 updatedDate: '2026-08-31'
 category: metodos

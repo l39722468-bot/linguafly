@@ -13,9 +13,7 @@ alt: Diagrama de las vocales del inglés americano
 keywords:
   - 'Vocales del Inglés Americano: Pronunciación Clara'
   - vocales ingles americano
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Cuántas vocales tiene el inglés americano?
     answer: >-

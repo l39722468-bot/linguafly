@@ -12,9 +12,6 @@ keywords:
   - must might can't deduction
   - had better would rather needn't
   - inglés B1 unidad 53
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-53-review-modals'
 image: /blog/curso-b1/unit-53/modals-map.png

@@ -11,8 +11,6 @@ excerpt: >-
 keywords:
   - Pronunciación en Inglés
   - pronunciacion ingles guia completa
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-05'

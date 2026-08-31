@@ -13,8 +13,6 @@ keywords:
   - 'TOEFL Writing: Integrated e Independent Explicados'
   - toefl integrated writing
   - material de inglés gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-04-17'
 updatedDate: '2026-08-31'

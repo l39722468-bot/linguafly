@@ -16,8 +16,6 @@ keywords:
   - 'Negociación en Inglés: Estrategias'
   - negociación en inglés
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 faqs:
   - question: ¿Cómo puedo sonar firme pero educado en una negociación?
     answer: >-

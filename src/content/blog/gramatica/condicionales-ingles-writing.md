@@ -11,8 +11,6 @@ excerpt: >-
 keywords:
   - Condicionales en Inglés para Writing
   - condicionales ingles writing
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-03'

@@ -10,8 +10,6 @@ excerpt: >-
 keywords:
   - 'Cómo estudiar inglés sin tiempo: 5 ideas prácticas'
   - aprender ingles sin tiempo
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 date: '2024-02-03'
 updatedDate: '2026-08-31'

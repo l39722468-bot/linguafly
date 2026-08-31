@@ -11,8 +11,6 @@ readTime: 22 min
 keywords:
   - 'La “b” muda en inglés: fundamentos'
   - b muda ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 alt: Letras de máquina de escribir antigua
 excerpt: >-

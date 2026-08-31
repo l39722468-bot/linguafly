@@ -13,8 +13,6 @@ alt: Persona viendo vídeos educativos de inglés en YouTube en su portátil
 keywords:
   - Los Mejores Canales de YouTube
   - mejores canales youtube aprender inglés
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 faqs:
   - question: '¿Se puede aprender inglés viendo YouTube?'

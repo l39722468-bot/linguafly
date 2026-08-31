@@ -12,7 +12,6 @@ keywords:
   - Errores típicos del español al hablar
   - errores inglés viaje
   - frases en inglés gratis
-  - aprender inglés gratis
   - inglés para viajar gratis
 alt: Mochila de viaje sobre banco en estación
 excerpt: >-

@@ -16,8 +16,6 @@ keywords:
   - 50 Frases Esenciales de Inglés
   - frases utiles call center ingles
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 faqs:
   - question: ¿Cómo digo "en este momento no puedo ayudarte con eso" en inglés de forma profesional?
     answer: >-

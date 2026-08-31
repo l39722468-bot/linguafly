@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - 'Cómo Mejorar el Listening en Inglés: 7 Técnicas'
   - mejorar listening ingles
-  - clases de inglés gratis
-  - aprender inglés gratis
   - practicar inglés gratis
 author: focus-english-team
 date: '2026-04-16'

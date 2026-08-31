@@ -13,8 +13,6 @@ alt: Persona escuchando con auriculares y practicando pronunciación
 keywords:
   - 'Pares Mínimos en Inglés: La Técnica'
   - pares minimos ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué son los pares mínimos?

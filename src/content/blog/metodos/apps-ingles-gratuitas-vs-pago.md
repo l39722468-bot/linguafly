@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - apps inglés gratis vs pago diferencias
   - cuándo pagar suscripción app aprender inglés
-  - curso de inglés gratis
-  - clases de inglés gratis
-  - aprender inglés gratis
 date: '2026-03-02'
 updatedDate: '2026-08-31'
 category: metodos

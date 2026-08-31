@@ -6,8 +6,6 @@ excerpt: "Las collocations son las combinaciones de palabras que los hablantes n
 keywords:
   - Collocations en Inglés C1
   - aprender collocations ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - preparar inglés gratis
 author: focus-english-team
 date: '2026-03-21'

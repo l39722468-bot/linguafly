@@ -13,9 +13,7 @@ alt: Cocina profesional con utensilios y alimentos preparados
 keywords:
   - 'Inglés en la Cocina: Vocabulario'
   - ingles en la cocina
-  - curso de inglés gratis
   - frases en inglés gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Cómo se convierten las temperaturas del horno en recetas americanas?
     answer: >-

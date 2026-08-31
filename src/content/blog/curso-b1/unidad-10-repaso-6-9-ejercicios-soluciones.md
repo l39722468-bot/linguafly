@@ -14,9 +14,6 @@ keywords:
   - ejercicios integración B1
   - must used to going to
   - curso B1 Linguafly
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
   - repaso inglés B1 gratis
 canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-10-repaso-6-9-ejercicios-soluciones'

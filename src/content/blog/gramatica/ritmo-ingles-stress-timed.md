@@ -13,9 +13,7 @@ excerpt: >-
 keywords:
   - 'El Ritmo del Inglés: Por Qué no'
   - ritmo inglés
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-10'
 updatedDate: '2026-08-31'

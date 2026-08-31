@@ -11,9 +11,7 @@ readTime: 6 min
 keywords:
   - 'Just, Already y Yet en Inglés: Uso'
   - just already yet ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 excerpt: >-
   Just, already y yet son tres de los adverbios más frecuentes con el present perfect. Cada uno tiene su posición fija en la frase y su propio matiz. Aquí los tienes claros con ejemplos y los errores que más se cometen.
 faqs:

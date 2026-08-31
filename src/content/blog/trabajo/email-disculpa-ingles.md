@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - Cómo Disculparse por Email en Inglés
   - como disculparse email ingles trabajo
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 author: focus-english-team
 date: '2026-02-15'

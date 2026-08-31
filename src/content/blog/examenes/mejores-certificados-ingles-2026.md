@@ -18,7 +18,6 @@ keywords:
   - mejores certificados de inglés 2026
   - preparar inglés gratis
   - material de inglés gratis
-  - curso de inglés gratis
 canonical: 'https://linguafly.app/blog/examenes/mejores-certificados-ingles-2026'
 related_routes:
   - cambridge-c1-advanced-guia

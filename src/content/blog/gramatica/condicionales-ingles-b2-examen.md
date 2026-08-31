@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - Condicionales en Inglés para el Examen B2
   - condicionales ingles b2 examen
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-06'

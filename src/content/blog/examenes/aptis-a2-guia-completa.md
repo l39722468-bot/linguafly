@@ -17,8 +17,6 @@ alt: Estudiante sonriente celebrando sus resultados académicos
 keywords:
   - 'Aptis A2: Estructura del Examen'
   - aptis a2
-  - curso de inglés gratis
-  - aprender inglés gratis
   - preparar inglés gratis
 faqs:
   - question: ¿Qué diferencia hay entre Aptis General y Aptis A2?

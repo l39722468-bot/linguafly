@@ -11,8 +11,6 @@ readTime: 5 min
 keywords:
   - Reported Speech Cambridge Exams
   - reported speech cambridge
-  - curso de inglés gratis
-  - aprender inglés gratis
   - preparar inglés gratis
 canonical: 'https://linguafly.app/blog/examenes/reported-speech-cambridge-exams'
 alt: Personas hablando representando el reported speech

@@ -13,9 +13,7 @@ alt: Banderas de países de habla inglesa sobre un fondo de un mapa del mundo
 keywords:
   - Acentos del Inglés
   - ingles britanico vs americano acentos
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 faqs:
   - question: ¿Cuál es el acento del inglés más fácil de entender para hispanohablantes?
     answer: >-

@@ -12,7 +12,7 @@ Eso pasa si se envían URLs desde un PR / branch de feature **antes** del merge 
 
 ## Flujo correcto (obligatorio)
 
-1. Crear el artículo en un PR (keywords Bing + canonical sin `www`).
+1. Crear el artículo en un PR (keywords de tema/nivel + canonical sin `www`).
 2. **No** ejecutar IndexNow desde el branch de feature.
 3. Merge a `main` → deploy Cloudflare Workers.
 4. Comprobar en el navegador (o `curl -I`) que la URL da **200**.
@@ -28,12 +28,22 @@ node scripts/indexnow-submit.mjs https://linguafly.app/blog/curso-b1/...
 
 6. Confirmar respuesta IndexNow **`200`** o **`202`**.
 
-### Keywords Bing (frontmatter)
+### Keywords Bing (evitar canibalización)
+
+Las queries de cabeza comerciales las posee **solo el hub**
+[`/blog/temas/curso-ingles`](../src/content/hubs/curso-ingles.md):
 
 - `curso de inglés gratis`
 - `aprender inglés gratis`
 - `curso de inglés online gratis`
-- + 1–2 variantes de nivel/tema
+
+**No** las pongas en frontmatter de guías de unidad, cuadernos ni posts temáticos
+(gramática, viajes, etc.): Bing las canibaliza.
+
+En artículos usa long-tail + nivel, por ejemplo:
+
+- `curso inglés B1 gratis` / `ejercicios inglés B2 gratis`
+- keywords del tema de la unidad (`first conditional`, `wish if only`, …)
 
 ### Canonical
 

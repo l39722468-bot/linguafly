@@ -14,9 +14,6 @@ keywords:
   - mixed conditionals
   - inglés B2 unidad 1
   - ejercicios inglés B2 gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B2 gratis
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-1-repaso-b1-b2'
 image: /blog/curso-b2/unit-1/wish-regret.png

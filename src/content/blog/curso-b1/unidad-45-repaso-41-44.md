@@ -13,9 +13,6 @@ keywords:
   - during for while review
   - since from review
   - inglés B1 unidad 45
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-45-repaso-41-44'
 image: /blog/curso-b1/unit-45/review-map.png

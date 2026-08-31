@@ -11,8 +11,6 @@ keywords:
   - ejercicios condicionales c1 c2
   - mixed conditionals ejercicios
   - inversion condicional ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-07-30'

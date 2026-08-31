@@ -21,7 +21,6 @@ keywords:
   - ielts desde b2
   - preparar inglés gratis
   - material de inglés gratis
-  - curso de inglés gratis
 faqs:
   - question: ¿Cuántas veces puedo presentarme al IELTS?
     answer: >-

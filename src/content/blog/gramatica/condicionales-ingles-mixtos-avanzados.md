@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - Condicionales Mixtos en Inglés
   - condicionales mixtos ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-05'

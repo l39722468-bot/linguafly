@@ -11,7 +11,6 @@ excerpt: >-
 keywords:
   - 'Zero Conditional en Inglés: Cuándo'
   - zero conditional ingles
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

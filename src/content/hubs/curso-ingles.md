@@ -1,6 +1,13 @@
 ---
 title: 'Curso de Inglés Gratis y Online: Guía por Niveles'
 description: "Guía de curso de inglés gratis y online por niveles (A1–C2): recursos gratuitos, plataformas, clases de inglés gratis y cómo elegir el mejor plan para hispanohablantes."
+# Dueño canónico en Bing/Google de las queries de cabeza (no duplicar en posts de unidad).
+keywords:
+  - curso de inglés gratis
+  - aprender inglés gratis
+  - curso de inglés online gratis
+  - clases de inglés gratis
+  - curso de inglés online
 ---
 
 # Curso de Inglés Gratis y Online

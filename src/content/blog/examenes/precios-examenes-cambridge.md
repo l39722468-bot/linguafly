@@ -17,8 +17,6 @@ keywords:
   - 'Precios Exámenes Cambridge: FCE, CAE'
   - precios examenes cambridge
   - material de inglés gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
 canonical: 'https://linguafly.app/blog/examenes/precios-examenes-cambridge'
 related_routes:
   - certificaciones-ingles

@@ -12,8 +12,6 @@ readTime: 4 min
 keywords:
   - 'Reported Speech: Preguntas, Órdenes'
   - reported speech
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 canonical: >-
   https://linguafly.app/blog/gramatica/reported-speech-questions-commands

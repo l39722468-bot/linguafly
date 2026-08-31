@@ -6,7 +6,6 @@ excerpt: "El Listening del CAE sorprende a muchos candidatos porque los audios s
 keywords:
   - 'Listening C1 Advanced: Estrategias'
   - listening c1 advanced trucos
-  - aprender inglés gratis
   - preparar inglés gratis
   - material de inglés gratis
 author: focus-english-team

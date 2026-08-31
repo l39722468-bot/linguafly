@@ -11,8 +11,6 @@ readTime: 8 min
 keywords:
   - Expresiones con Will en Inglés
   - expresiones con will ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 excerpt: >-
   Más allá de las reglas básicas, will aparece en expresiones fijas, frases idiomáticas y construcciones avanzadas que suenan muy naturales en inglés. Aprende las más útiles con ejemplos y contexto.

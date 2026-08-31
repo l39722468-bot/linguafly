@@ -13,8 +13,6 @@ alt: Palabras en inglés con marcas de acento tónico
 keywords:
   - 'Word Stress en Inglés: La Regla'
   - word stress ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 faqs:
   - question: ¿Qué es el word stress?

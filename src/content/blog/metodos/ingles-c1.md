@@ -12,8 +12,6 @@ readTime: 9 min
 keywords:
   - 'Nivel C1 de Inglés: Qué Significa'
   - nivel c1 ingles que es
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 canonical: 'https://linguafly.app/blog/metodos/ingles-c1'
 related_routes:

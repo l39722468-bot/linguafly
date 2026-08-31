@@ -14,9 +14,6 @@ keywords:
   - must might can't ejercicios
   - had better would rather
   - curso B1 Linguafly
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-53-review-modals-ejercicios-soluciones'

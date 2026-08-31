@@ -11,9 +11,6 @@ alt: 'Logo British Council y estudiante con ordenador'
 keywords:
   - 'British Council: cursos online e IELTS'
   - british council ingles online
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 faqs:
   - question: '¿El British Council es solo para IELTS?'
     answer: >-

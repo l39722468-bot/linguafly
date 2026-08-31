@@ -11,9 +11,7 @@ excerpt: >-
 keywords:
   - Cómo Estructurar un Email Formal
   - como escribir email formal ingles
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 author: focus-english-team
 date: '2026-02-03'
 updatedDate: '2026-08-31'

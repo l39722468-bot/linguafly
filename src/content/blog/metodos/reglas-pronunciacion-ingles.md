@@ -10,8 +10,6 @@ excerpt: >-
 keywords:
   - Reglas de Pronunciación en Inglés
   - reglas pronunciacion ingles
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 author: focus-english-team
 date: '2026-02-06'

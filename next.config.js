@@ -74,6 +74,12 @@ const nextConfig = {
       { source: '/blog/temas/atencion-al-cliente-ingles', destination: '/blog/temas/ingles-para-atencion-al-cliente', permanent: true },
       { source: '/blog/temas/ingles-para-viajes-largos', destination: '/blog/temas/ingles-para-viajar', permanent: true },
       { source: '/blog/temas/letras-mudas-en-ingles-lista', destination: '/blog/gramatica/letras-mudas-ingles-lista', permanent: true },
+      // Bing: una sola URL dueña de las queries de cabeza (evitar canibalización)
+      { source: '/blog/temas/curso-de-ingles-gratis', destination: '/blog/temas/curso-ingles', permanent: true },
+      { source: '/blog/temas/aprender-ingles-gratis', destination: '/blog/temas/curso-ingles', permanent: true },
+      { source: '/blog/temas/curso-de-ingles-online-gratis', destination: '/blog/temas/curso-ingles', permanent: true },
+      { source: '/blog/temas/clases-de-ingles-gratis', destination: '/blog/temas/curso-ingles', permanent: true },
+      { source: '/blog/temas/recursos-para-aprender-ingles-gratis', destination: '/blog/temas/curso-ingles', permanent: true },
 
       // E-E-A-T: autores ficticios retirados, todo el contenido firmado por el equipo editorial.
       // /blog/autor/david-torres y /blog/autor/sara-mendez → /sobre-nosotros (con contexto real).

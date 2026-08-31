@@ -12,8 +12,6 @@ excerpt: >-
 keywords:
   - Reducción Vocálica en Inglés
   - reducción vocálica inglés
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-02-16'

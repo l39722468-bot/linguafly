@@ -11,8 +11,6 @@ readTime: 22 min
 keywords:
   - Minimal pairs y discriminación
   - minimal pairs inglés
-  - curso de inglés gratis
-  - aprender inglés gratis
   - curso inglés gratis online
 alt: Estudiante con auriculares tomando apuntes
 excerpt: >-

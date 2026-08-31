@@ -13,7 +13,6 @@ alt: Ciudad del sur de Estados Unidos representando el inglés sureño americano
 keywords:
   - El Inglés del Sur de Estados Unidos
   - ingles sur estados unidos
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 faqs:

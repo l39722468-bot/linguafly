@@ -13,9 +13,6 @@ keywords:
   - because of due to
   - explaining vocabulary
   - inglés B1 unidad 39
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-39-purpose-reason-explaining'
 image: /blog/curso-b1/unit-39/purpose-reason.png

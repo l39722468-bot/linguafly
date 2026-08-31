@@ -12,8 +12,6 @@ keywords:
   - 'Vocabulario Inglés B1: Trabajo'
   - vocabulario trabajo ingles b1
   - inglés de negocios gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 canonical: 'https://linguafly.app/blog/trabajo/vocabulario-b1-ingles-trabajo'
 related_routes:
   - ingles-b1

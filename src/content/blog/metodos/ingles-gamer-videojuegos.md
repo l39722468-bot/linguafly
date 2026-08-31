@@ -12,9 +12,6 @@ excerpt: >-
 keywords:
   - 'Inglés Gamer: Vocabulario'
   - vocabulario gaming ingles
-  - curso de inglés gratis
-  - recursos para aprender inglés gratis
-  - clases de inglés gratis
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-08-31'

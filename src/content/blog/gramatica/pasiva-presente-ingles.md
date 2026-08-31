@@ -11,9 +11,7 @@ excerpt: >-
 keywords:
   - Voz Pasiva en Presente en Inglés
   - voz pasiva presente ingles
-  - curso de inglés gratis
   - gramática inglesa gratis
-  - aprender inglés gratis
 author: focus-english-team
 date: '2026-02-05'
 updatedDate: '2026-08-31'

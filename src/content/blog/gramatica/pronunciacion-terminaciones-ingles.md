@@ -12,7 +12,6 @@ excerpt: >-
 keywords:
   - Cómo se Pronuncian las Terminaciones
   - pronunciación terminaciones inglés
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 author: focus-english-team

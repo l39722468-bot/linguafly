@@ -16,8 +16,6 @@ keywords:
   - 'Aptis General: Consejos de Speaking y Writing'
   - aptis speaking consejos
   - material de inglés gratis
-  - curso de inglés gratis
-  - aprender inglés gratis
 faqs:
   - question: ¿Cuántas palabras debo escribir en el Writing del Aptis General?
     answer: >-

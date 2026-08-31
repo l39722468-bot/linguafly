@@ -10,8 +10,6 @@ excerpt: >-
 keywords:
   - Verbos Modales en Inglés
   - verbos modales ingles pdf
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 author: focus-english-team
 date: '2026-03-02'

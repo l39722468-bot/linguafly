@@ -13,8 +13,6 @@ keywords:
   - 'Cómo Mejorar el Writing en Inglés: Rutina Real'
   - mejorar writing ingles
   - practicar inglés gratis
-  - curso de inglés gratis
-  - clases de inglés gratis
 author: focus-english-team
 date: '2026-04-16'
 updatedDate: '2026-08-31'

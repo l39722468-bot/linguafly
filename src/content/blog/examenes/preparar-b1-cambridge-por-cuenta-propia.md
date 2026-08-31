@@ -11,7 +11,6 @@ excerpt: >-
 keywords:
   - Preparar el B1 de Cambridge
   - preparar b1 cambridge solo
-  - aprender inglés gratis
   - preparar inglés gratis
   - material de inglés gratis
 date: '2025-02-05'

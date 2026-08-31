@@ -13,7 +13,6 @@ alt: Teléfono con app de pronunciación inglés y formas de onda
 keywords:
   - Las Mejores Herramientas Online
   - herramientas pronunciacion ingles
-  - curso de inglés gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
 faqs:

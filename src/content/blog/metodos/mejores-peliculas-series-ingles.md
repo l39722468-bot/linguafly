@@ -13,9 +13,7 @@ alt: Persona viendo una serie en versión original con subtítulos en inglés
 keywords:
   - Las Mejores Películas y Series
   - mejores peliculas series ingles
-  - curso de inglés gratis
   - curso inglés gratis online
-  - recursos para aprender inglés gratis
 faqs:
   - question: ¿Es efectivo aprender inglés viendo series?
     answer: >-

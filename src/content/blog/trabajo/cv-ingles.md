@@ -13,9 +13,7 @@ alt: Persona revisando un currículum vitae impreso sobre un escritorio
 keywords:
   - Cómo Hacer un CV en Inglés
   - cv ingles
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 faqs:
   - question: ¿Cuál es la diferencia entre un CV y un Resume en inglés?
     answer: >-

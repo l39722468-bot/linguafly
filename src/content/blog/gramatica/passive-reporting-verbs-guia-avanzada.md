@@ -12,8 +12,6 @@ readTime: 5 min
 keywords:
   - 'Passive Reporting Verbs: Estructuras'
   - passive of reporting verbs
-  - curso de inglés gratis
-  - aprender inglés gratis
   - ejercicios de inglés gratis
 canonical: >-
   https://linguafly.app/blog/gramatica/passive-reporting-verbs-guia-avanzada

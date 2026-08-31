@@ -13,7 +13,6 @@ keywords:
   - ielts listening
   - preparar inglés gratis
   - material de inglés gratis
-  - curso de inglés gratis
 excerpt: >-
   El IELTS Listening se escucha una sola vez. No hay repetición. Eso cambia completamente cómo tienes que prepararlo: no es cuestión de entender inglés, es cuestión de saber exactamente qué buscar antes de que el audio empiece.
 faqs:

@@ -18,7 +18,6 @@ keywords:
   - aptis general precio 2026
   - preparar inglés gratis
   - material de inglés gratis
-  - curso de inglés gratis
 alt: 'Estudiante realizando un examen de inglés por ordenador para el Aptis General'
 canonical: 'https://linguafly.app/blog/examenes/aptis-general-guia-completa'
 faqs:

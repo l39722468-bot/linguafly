@@ -13,9 +13,6 @@ keywords:
   - choices vocabulary
   - both and
   - inglés B1 unidad 27
-  - curso de inglés gratis
-  - aprender inglés gratis
-  - curso de inglés online gratis
   - curso inglés B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-27-both-either-neither'
 image: /blog/curso-b1/unit-27/both-either-neither.png

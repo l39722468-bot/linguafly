@@ -19,8 +19,6 @@ excerpt: >-
 keywords:
   - cómo preparar entrevista trabajo inglés paso a paso
   - guía preparación entrevista inglés estrategia STAR
-  - clases de inglés gratis
-  - aprender inglés gratis
   - inglés de negocios gratis
 faqs:
   - question: ¿Cuánto tiempo antes debo empezar a prepararme para una entrevista en inglés?

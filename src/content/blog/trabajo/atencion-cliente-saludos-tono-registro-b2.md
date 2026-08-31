@@ -11,9 +11,7 @@ readTime: 22 min
 keywords:
   - Saludos, tono y registro en atención
   - registro formal inglés
-  - aprender inglés gratis
   - inglés de negocios gratis
-  - curso de inglés gratis
 alt: Profesionales en oficina de atención
 excerpt: >-
   Guía práctica de inglés para soporte: opening lines, empatía, límites y
