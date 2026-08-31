@@ -181,7 +181,7 @@ En el repaso, **clasifica primero** (¿pasado / ahora / futuro real?) y luego co
 1. Relee los mapas de U11–U14.  
 2. Completa la [Unidad 15 del curso B1](/curso-b1/unit-15).  
 3. Haz el [cuaderno de ejercicios U15 (con soluciones)](/blog/curso-b1/unidad-15-repaso-11-14-ejercicios-soluciones).  
-4. Siguiente bloque del curso: [Unidad 16 — Passive](/curso-b1/unit-16).
+4. Siguiente bloque: [U16 — Passive & Technology](/blog/curso-b1/unidad-16-passive-voice-technology) · [curso U16](/curso-b1/unit-16).
 
 Guías del bloque:
 
