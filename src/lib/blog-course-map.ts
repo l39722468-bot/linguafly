@@ -1093,6 +1093,21 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-55-repaso-51-54': [
     { courseId: 'b1', unitNumber: 55 },
   ],
+  'unidad-51-review-conditionals-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 51 },
+  ],
+  'unidad-52-review-passive-reported-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 52 },
+  ],
+  'unidad-53-review-modals-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 53 },
+  ],
+  'unidad-54-review-tenses-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 54 },
+  ],
+  'unidad-55-repaso-51-54-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 55 },
+  ],
   'unidad-41-verb-preposition-dependent-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 41 },
   ],

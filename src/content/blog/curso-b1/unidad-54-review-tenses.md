@@ -20,6 +20,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-54-review-tenses'
 image: /blog/curso-b1/unit-54/tenses-map.png
 alt: 'Review tenses B1'
 related_routes:
+  - unidad-54-review-tenses-ejercicios-soluciones
   - unidad-53-review-modals
   - unidad-55-repaso-51-54
   - unidad-5-repaso-1-4
@@ -144,7 +145,8 @@ Busca marcadores temporales: *since/for* â†’ present perfect; *last year/ago* â†
 ## Practica ahora
 
 1. Repasa los ejemplos en voz alta.  
-2. Practica en la [Unidad 54 del curso B1](/curso-b1/unit-54).
+2. Practica en la [Unidad 54 del curso B1](/curso-b1/unit-54).  
+3. Haz el [cuaderno de ejercicios U54 (con soluciones)](/blog/curso-b1/unidad-54-review-tenses-ejercicios-soluciones).
 
 Curso:
 

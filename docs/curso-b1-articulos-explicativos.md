@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U55 + cuadernos U1–U50; Módulo 6 U51–55 teoría)  
+**Última actualización:** 2026-08-31 (teoría + cuadernos U1–U55; Módulo 6 U51–55 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -14,7 +14,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 55 |
 | Artículos dedicados pendientes | 5 |
-| Cuadernos ejercicios+soluciones | 50 (U1–U50) |
+| Cuadernos ejercicios+soluciones | 55 (U1–U55) |
 
 ---
 
@@ -145,11 +145,11 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 51 | Review: all conditionals | first, second, third + time clauses | ✅ | [Review conditionals](/blog/curso-b1/unidad-51-review-conditionals) |
-| 52 | Review: passive & reported speech | passive, modal passive, reported | ✅ | [Review passive & reported](/blog/curso-b1/unidad-52-review-passive-reported) |
-| 53 | Review: modals | deduction, advice, preference, necessity | ✅ | [Review modals](/blog/curso-b1/unidad-53-review-modals) |
-| 54 | Review: tenses | PP, past perfect, futures | ✅ | [Review tenses](/blog/curso-b1/unidad-54-review-tenses) |
-| 55 | Repaso 51–54 | integración conditionals, passive, modals, tenses | ✅ | [Repaso 51–54](/blog/curso-b1/unidad-55-repaso-51-54) |
+| 51 | Review: all conditionals | first, second, third + time clauses | ✅ | [Review conditionals](/blog/curso-b1/unidad-51-review-conditionals) · [Ejercicios](/blog/curso-b1/unidad-51-review-conditionals-ejercicios-soluciones) |
+| 52 | Review: passive & reported speech | passive, modal passive, reported | ✅ | [Review passive & reported](/blog/curso-b1/unidad-52-review-passive-reported) · [Ejercicios](/blog/curso-b1/unidad-52-review-passive-reported-ejercicios-soluciones) |
+| 53 | Review: modals | deduction, advice, preference, necessity | ✅ | [Review modals](/blog/curso-b1/unidad-53-review-modals) · [Ejercicios](/blog/curso-b1/unidad-53-review-modals-ejercicios-soluciones) |
+| 54 | Review: tenses | PP, past perfect, futures | ✅ | [Review tenses](/blog/curso-b1/unidad-54-review-tenses) · [Ejercicios](/blog/curso-b1/unidad-54-review-tenses-ejercicios-soluciones) |
+| 55 | Repaso 51–54 | integración conditionals, passive, modals, tenses | ✅ | [Repaso 51–54](/blog/curso-b1/unidad-55-repaso-51-54) · [Ejercicios](/blog/curso-b1/unidad-55-repaso-51-54-ejercicios-soluciones) |
 | 56–60 | Mixed practice & exam prep | pendiente | ❌ | — |
 
-**Módulo 6 primera mitad (U51–55) — teoría completa.** Cuadernos U51–55 pendientes.
+**Módulo 6 primera mitad (U51–55) completo.** 5 artículos + 5 cuadernos.

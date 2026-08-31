@@ -20,6 +20,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-55-repaso-51-54'
 image: /blog/curso-b1/unit-55/review-map.png
 alt: 'Repaso B1 unidades 51-54'
 related_routes:
+  - unidad-55-repaso-51-54-ejercicios-soluciones
   - unidad-54-review-tenses
   - unidad-51-review-conditionals
   - unidad-50-repaso-46-49
@@ -132,7 +133,8 @@ Clasifica primero: ¿condicional, pasiva/reported, modal o tiempo verbal?
 ## Practica ahora
 
 1. Repasa los ejemplos en voz alta.  
-2. Practica en la [Unidad 55 del curso B1](/curso-b1/unit-55).
+2. Practica en la [Unidad 55 del curso B1](/curso-b1/unit-55).  
+3. Haz el [cuaderno de ejercicios U55 (con soluciones)](/blog/curso-b1/unidad-55-repaso-51-54-ejercicios-soluciones).
 
 Curso:
 

@@ -330,7 +330,7 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b1/unidad-50-repaso-46-49).  
 2. Practica en la [Unidad 50 del curso B1](/curso-b1/unit-50).  
-3. Módulo 5 (U41–50) completo — siguiente bloque: [Unidad 51](/curso-b1/unit-51).
+3. Módulo 5 (U41–50) completo — siguiente: [Unidad 51 ejercicios](/blog/curso-b1/unidad-51-review-conditionals-ejercicios-soluciones).
 
 Guías relacionadas:
 

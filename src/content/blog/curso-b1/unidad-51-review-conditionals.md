@@ -20,6 +20,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-51-review-conditionals'
 image: /blog/curso-b1/unit-51/conditionals-map.png
 alt: 'Review conditionals B1'
 related_routes:
+  - unidad-51-review-conditionals-ejercicios-soluciones
   - unidad-50-repaso-46-49
   - unidad-52-review-passive-reported
   - unidad-15-repaso-11-14
@@ -141,7 +142,8 @@ Pregúntate: ¿es real/probable (first), hipotético ahora (second) o pasado cer
 ## Practica ahora
 
 1. Repasa los ejemplos en voz alta.  
-2. Practica en la [Unidad 51 del curso B1](/curso-b1/unit-51).
+2. Practica en la [Unidad 51 del curso B1](/curso-b1/unit-51).  
+3. Haz el [cuaderno de ejercicios U51 (con soluciones)](/blog/curso-b1/unidad-51-review-conditionals-ejercicios-soluciones).
 
 Curso:
 

@@ -20,6 +20,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-52-review-passive-reporte
 image: /blog/curso-b1/unit-52/passive-reported-map.png
 alt: 'Review passive reported B1'
 related_routes:
+  - unidad-52-review-passive-reported-ejercicios-soluciones
   - unidad-51-review-conditionals
   - unidad-53-review-modals
   - unidad-20-repaso-16-19
@@ -146,7 +147,8 @@ En reported speech con verbo introductorio en pasado, aplica **backshift** (will
 ## Practica ahora
 
 1. Repasa los ejemplos en voz alta.  
-2. Practica en la [Unidad 52 del curso B1](/curso-b1/unit-52).
+2. Practica en la [Unidad 52 del curso B1](/curso-b1/unit-52).  
+3. Haz el [cuaderno de ejercicios U52 (con soluciones)](/blog/curso-b1/unidad-52-review-passive-reported-ejercicios-soluciones).
 
 Curso:
 

@@ -20,6 +20,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-53-review-modals'
 image: /blog/curso-b1/unit-53/modals-map.png
 alt: 'Review modals B1'
 related_routes:
+  - unidad-53-review-modals-ejercicios-soluciones
   - unidad-52-review-passive-reported
   - unidad-54-review-tenses
   - unidad-8-modals-deduction
@@ -146,7 +147,8 @@ Clasifica el modal: ¿deduces (must/might/can't), aconsejas (had better), prefie
 ## Practica ahora
 
 1. Repasa los ejemplos en voz alta.  
-2. Practica en la [Unidad 53 del curso B1](/curso-b1/unit-53).
+2. Practica en la [Unidad 53 del curso B1](/curso-b1/unit-53).  
+3. Haz el [cuaderno de ejercicios U53 (con soluciones)](/blog/curso-b1/unidad-53-review-modals-ejercicios-soluciones).
 
 Curso:
 
