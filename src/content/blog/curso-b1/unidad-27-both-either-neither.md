@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-27-both-either-neither'
 image: /blog/curso-b1/unit-27/both-either-neither.png
 alt: 'Both either neither B1'
 related_routes:
+  - unidad-27-both-either-neither-ejercicios-soluciones
   - unidad-26-quantifiers-food
   - unidad-28-articles-buildings
   - cursos-online-ingles-b1
@@ -144,6 +145,7 @@ Tras la [Unidad 26](/blog/curso-b1/unidad-26-quantifiers-food), la **Unidad 27**
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 27 del curso B1](/curso-b1/unit-27).
+3. Haz el [cuaderno de ejercicios U27 (con soluciones)](/blog/curso-b1/unidad-27-both-either-neither-ejercicios-soluciones).
 
 Curso:
 

@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-29-reflexive-pronouns'
 image: /blog/curso-b1/unit-29/reflexives.png
 alt: 'Reflexive pronouns B1'
 related_routes:
+  - unidad-29-reflexive-pronouns-ejercicios-soluciones
   - unidad-28-articles-buildings
   - unidad-30-repaso-26-29
   - cursos-online-ingles-b1
@@ -145,6 +146,7 @@ No uses reflexivo si el objeto es otra persona: *I hurt **him*** (no *myself*). 
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 29 del curso B1](/curso-b1/unit-29).
+3. Haz el [cuaderno de ejercicios U29 (con soluciones)](/blog/curso-b1/unidad-29-reflexive-pronouns-ejercicios-soluciones).
 
 Curso:
 

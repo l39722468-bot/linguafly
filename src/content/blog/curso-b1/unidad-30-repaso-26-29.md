@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-30-repaso-26-29'
 image: /blog/curso-b1/unit-30/review-map.png
 alt: 'Repaso B1 unidades 26-29'
 related_routes:
+  - unidad-30-repaso-26-29-ejercicios-soluciones
   - unidad-29-reflexive-pronouns
   - unidad-25-repaso-21-24
   - cursos-online-ingles-b1
@@ -136,6 +137,7 @@ En el repaso, nombra primero la **regla** (*countable? specific? same subject?*)
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 30 del curso B1](/curso-b1/unit-30).
+3. Haz el [cuaderno de ejercicios U30 (con soluciones)](/blog/curso-b1/unidad-30-repaso-26-29-ejercicios-soluciones).
 
 Curso:
 

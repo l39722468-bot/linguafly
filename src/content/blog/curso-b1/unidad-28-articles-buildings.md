@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-28-articles-buildings'
 image: /blog/curso-b1/unit-28/articles.png
 alt: 'Articles a an the B1'
 related_routes:
+  - unidad-28-articles-buildings-ejercicios-soluciones
   - unidad-27-both-either-neither
   - unidad-29-reflexive-pronouns
   - cursos-online-ingles-b1
@@ -144,6 +145,7 @@ Tras la [Unidad 27](/blog/curso-b1/unidad-27-both-either-neither), la **Unidad 2
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 28 del curso B1](/curso-b1/unit-28).
+3. Haz el [cuaderno de ejercicios U28 (con soluciones)](/blog/curso-b1/unidad-28-articles-buildings-ejercicios-soluciones).
 
 Curso:
 

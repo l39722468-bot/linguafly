@@ -946,16 +946,31 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   'unidad-26-quantifiers-food': [
     { courseId: 'b1', unitNumber: 26 },
   ],
+  'unidad-26-quantifiers-food-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 26 },
+  ],
   'unidad-27-both-either-neither': [
+    { courseId: 'b1', unitNumber: 27 },
+  ],
+  'unidad-27-both-either-neither-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 27 },
   ],
   'unidad-28-articles-buildings': [
     { courseId: 'b1', unitNumber: 28 },
   ],
+  'unidad-28-articles-buildings-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 28 },
+  ],
   'unidad-29-reflexive-pronouns': [
     { courseId: 'b1', unitNumber: 29 },
   ],
+  'unidad-29-reflexive-pronouns-ejercicios-soluciones': [
+    { courseId: 'b1', unitNumber: 29 },
+  ],
   'unidad-30-repaso-26-29': [
+    { courseId: 'b1', unitNumber: 30 },
+  ],
+  'unidad-30-repaso-26-29-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 30 },
   ],
   'unidad-7-was-were-going-to-ejercicios-soluciones': [

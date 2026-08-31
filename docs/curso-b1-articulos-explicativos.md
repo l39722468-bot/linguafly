@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U30 + cuadernos U1–U25; Módulo 3 teoría completa)  
+**Última actualización:** 2026-08-31 (teoría + cuadernos U1–U30; Módulo 3 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -14,7 +14,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 30 |
 | Artículos dedicados pendientes | 30 |
-| Cuadernos ejercicios+soluciones | 25 (U1–U25; pendientes U26–U30) |
+| Cuadernos ejercicios+soluciones | 30 (U1–U30) |
 
 ---
 
@@ -84,13 +84,13 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 26 | Quantifiers & Food | much/many/a lot/few/little; food & drink | ✅ | [Quantifiers + food](/blog/curso-b1/unidad-26-quantifiers-food) |
-| 27 | Both, either, neither & Choices | both…and; either…or; neither…nor | ✅ | [Both/either/neither](/blog/curso-b1/unidad-27-both-either-neither) |
-| 28 | Articles & Buildings | a/an, the, ø; places: buildings | ✅ | [Articles + buildings](/blog/curso-b1/unidad-28-articles-buildings) |
-| 29 | Reflexive pronouns & Experiences | myself…themselves; personal experiences | ✅ | [Reflexives](/blog/curso-b1/unidad-29-reflexive-pronouns) |
-| 30 | Repaso 26–29 | integración | ✅ | [Repaso 26–29](/blog/curso-b1/unidad-30-repaso-26-29) |
+| 26 | Quantifiers & Food | much/many/a lot/few/little; food & drink | ✅ | [Quantifiers + food](/blog/curso-b1/unidad-26-quantifiers-food) · [Ejercicios](/blog/curso-b1/unidad-26-quantifiers-food-ejercicios-soluciones) |
+| 27 | Both, either, neither & Choices | both…and; either…or; neither…nor | ✅ | [Both/either/neither](/blog/curso-b1/unidad-27-both-either-neither) · [Ejercicios](/blog/curso-b1/unidad-27-both-either-neither-ejercicios-soluciones) |
+| 28 | Articles & Buildings | a/an, the, ø; places: buildings | ✅ | [Articles + buildings](/blog/curso-b1/unidad-28-articles-buildings) · [Ejercicios](/blog/curso-b1/unidad-28-articles-buildings-ejercicios-soluciones) |
+| 29 | Reflexive pronouns & Experiences | myself…themselves; personal experiences | ✅ | [Reflexives](/blog/curso-b1/unidad-29-reflexive-pronouns) · [Ejercicios](/blog/curso-b1/unidad-29-reflexive-pronouns-ejercicios-soluciones) |
+| 30 | Repaso 26–29 | integración | ✅ | [Repaso 26–29](/blog/curso-b1/unidad-30-repaso-26-29) · [Ejercicios](/blog/curso-b1/unidad-30-repaso-26-29-ejercicios-soluciones) |
 
-**Módulo 3 teoría (U21–30) completa.** Siguiente: cuadernos U26–30.
+**Módulo 3 completo (U21–30).** Siguiente: Módulo 4 (U31–40).
 
 ---
 

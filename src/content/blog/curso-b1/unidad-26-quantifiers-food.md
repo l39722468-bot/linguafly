@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-26-quantifiers-food'
 image: /blog/curso-b1/unit-26/quantifiers.png
 alt: 'Quantifiers B1 much many few little'
 related_routes:
+  - unidad-26-quantifiers-food-ejercicios-soluciones
   - unidad-25-repaso-21-24
   - unidad-27-both-either-neither
   - cursos-online-ingles-b1
@@ -143,6 +144,7 @@ Pregunta: ¿puedo contar el sustantivo? Si sí → *many/few*; si no → *much/l
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 26 del curso B1](/curso-b1/unit-26).
+3. Haz el [cuaderno de ejercicios U26 (con soluciones)](/blog/curso-b1/unidad-26-quantifiers-food-ejercicios-soluciones).
 
 Curso:
 
