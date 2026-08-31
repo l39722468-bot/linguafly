@@ -42,12 +42,19 @@ faqs:
 excerpt: >-
   Cuaderno de ejercicios de la Unidad 27 B1 (Both, Either, Neither & Choices) con soluciones.
 ---
+
 Este artículo reúne **los ejercicios de la Unidad 27 del curso B1** (*Both, either, neither | Choices*) con **soluciones comentadas**.
 
 > **Guía teórica:** [Both, Either, Neither & Choices B1](/blog/curso-b1/unidad-27-both-either-neither)  
 > **Practica en el curso:** [Unidad 27 — Both, Either, Neither & Choices](/curso-b1/unit-27)
 
 Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
+
+**Recuerda antes de empezar:**
+- **both** = los dos / las dos (siempre 2)
+- **either…or** = uno u otro (elige 1 de 2)
+- **neither…nor** = ni…ni (ninguno de los 2)
+- En negativo: *I don't want **either** of them* (= no quiero ninguno de los dos)
 
 ![Both, Either, Neither & Choices](/blog/curso-b1/unit-27/both-either-neither.png)
 
@@ -62,54 +69,71 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 1 — Gramática
 
-**Objetivo:** both…and, either…or, neither…nor
+**Objetivo:** usar correctamente *both…and*, *either…or* y *neither…nor*.
 
-### Ejercicios 1–5 — Completa
+### Ejercicios 1–5 — Elige la opción correcta
 
-1. ___ restaurants are expensive. → *Both / Either / Neither*
-2. You can have ___ tea ___ coffee. → *either…or / neither…nor / both…and*
-3. ___ Tom ___ Maria wants to go. → *Neither…nor / Both…and / Either…or*
-4. I don't want ___ of them. → *either / both / neither*
-5. ___ choices are valid. → *Both / Either / Neither*
+Completa cada frase con **una** de las tres opciones. Lee el significado completo antes de elegir.
 
-<details>
-<summary>Ver solución</summary>
-
-1. **Both** · 2. **either…or** · 3. **Neither…nor** · 4. **either** · 5. **Both**
-
-</details>
-
-### Ejercicios 6–10 — Elige / completa
-
-1. We can go ___ by train ___ by bus. → *either…or / neither…nor / both…and*
-2. I like ___ films. → *both / either / neither*
-3. ___ option is good. → *Neither / Both / Either*
-4. ___ my sister and I like pizza. → *Both / Either / Neither*
-5. I would like ___ the red one ___ the blue one. → *either…or / both…and / neither…nor*
+1. ___ restaurants are expensive. (= Los dos restaurantes son caros.)  
+   a) Both · b) Either · c) Neither
+2. You can have ___ tea ___ coffee. (= Puedes tomar té **o** café — uno de los dos.)  
+   a) either…or · b) neither…nor · c) both…and
+3. ___ Tom ___ Maria wants to go. (= Ni Tom ni María quieren ir.)  
+   a) Neither…nor · b) Both…and · c) Either…or
+4. I don't want ___ of them. (= No quiero **ninguno** de los dos.)  
+   a) either · b) both · c) neither
+5. ___ choices are valid. (= Las dos opciones son válidas.)  
+   a) Both · b) Either · c) Neither
 
 <details>
 <summary>Ver solución</summary>
 
-1. **either…or** · 2. **both** · 3. **Neither** · 4. **Both** · 5. **either…or**
+1. **a) Both** — *both* + plural: los dos restaurantes.  
+2. **a) either…or** — eliges una de dos bebidas.  
+3. **a) Neither…nor** — niega las dos personas; el verbo va en singular (*wants*).  
+4. **a) either** — tras *don't*, usamos *either* (= ninguno de los dos). *Neither* ya es negativo y no va bien con *don't*.  
+5. **a) Both** — las dos opciones.
 
 </details>
 
-### Ejercicios 11–15 — Corrige
+### Ejercicios 6–10 — Completa con both / either / neither (y or / nor / and si hace falta)
+
+1. We can go ___ by train ___ by bus. (una de las dos formas de viajar)
+2. I like ___ films. (las dos películas me gustan)
+3. ___ option is good. (ninguna de las dos opciones es buena)
+4. ___ my sister and I like pizza. (mi hermana y yo — las dos)
+5. I would like ___ the red one ___ the blue one. (uno u otro color)
+
+<details>
+<summary>Ver solución</summary>
+
+1. **either** by train **or** by bus  
+2. **both** films  
+3. **Neither** option is good  
+4. **Both** my sister and I like pizza  
+5. **either** the red one **or** the blue one
+
+</details>
+
+### Ejercicios 11–15 — Corrige el error
+
+Cada frase tiene **un** error. Reescribe la frase correcta.
 
 1. *Both restaurant are expensive.*
 2. *Neither Tom or Maria wants to go.*
-3. *I don't want both of them.* (ninguno)
-4. *Either tea and coffee.*
+3. *I don't want both of them.* (quiere decir: no quiero ninguno)
+4. *Either tea and coffee.* (ofrecer una bebida u otra)
 5. *Neither options is good.*
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Both restaurants** are expensive.
-2. Neither Tom **nor** Maria wants to go.
-3. I don't want **either** of them.
-4. **Either** tea **or** coffee.
-5. **Neither option** is good.
+1. **Both restaurants** are expensive. (*both* + plural)  
+2. Neither Tom **nor** Maria wants to go. (con *neither* va **nor**, no *or*)  
+3. I don't want **either** of them. (en negativo: *not… either*)  
+4. **Either** tea **or** coffee.  
+5. **Neither option** is good. (*neither* + singular)
 
 </details>
 
@@ -117,50 +141,56 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 2 — Vocabulario
 
-**Objetivo:** choices
+**Objetivo:** vocabulario de *choices* (elecciones) y su relación con *both / either / neither*.
 
-### Ejercicios 1–5 — Empareja / elige
+### Ejercicios 1–5 — Traduce (elige la palabra correcta)
 
-1. choice → *elección · coffee · cathedral*
-2. option → *opción · soup · myself*
-3. dilemma → *dilema · bread · hospital*
-4. prefer → *preferir · salt · tower*
-5. alternative → *alternativa · salad · guitar*
+Cada ítem tiene una palabra en inglés y tres traducciones. Elige la correcta.
+
+1. **choice** → a) elección · b) café · c) catedral  
+2. **option** → a) opción · b) sopa · c) yo mismo  
+3. **dilemma** → a) dilema · b) pan · c) hospital  
+4. **prefer** → a) preferir · b) sal · c) torre  
+5. **alternative** → a) alternativa · b) ensalada · c) guitarra
 
 <details>
 <summary>Ver solución</summary>
 
-1. **elección** · 2. **opción** · 3. **dilema** · 4. **preferir** · 5. **alternativa**
+1. **a) elección** · 2. **a) opción** · 3. **a) dilema** · 4. **a) preferir** · 5. **a) alternativa**
 
 </details>
 
-### Ejercicios 6–10 — Completa
+### Ejercicios 6–10 — ¿Qué significa?
 
-1. both ≈ ___ → *ambos / ninguno / uno*
-2. either…or ≈ ___ → *o…o / ni…ni / y…y*
-3. neither…nor ≈ ___ → *ni…ni / o…o / ambos*
-4. decide ≈ ___ → *decidir / cocinar / caer*
-5. indecisive ≈ ___ → *indeciso / hospital / salad*
+Elige el significado en español más cercano.
+
+1. **both** ≈ a) ambos / las dos · b) ninguno · c) solo uno  
+2. **either…or** ≈ a) o…o / uno u otro · b) ni…ni · c) y…y  
+3. **neither…nor** ≈ a) ni…ni · b) o…o · c) ambos  
+4. **decide** ≈ a) decidir · b) cocinar · c) caer  
+5. **indecisive** ≈ a) indeciso/a · b) hospital · c) ensalada
 
 <details>
 <summary>Ver solución</summary>
 
-1. **ambos** · 2. **o…o** · 3. **ni…ni** · 4. **decidir** · 5. **indeciso**
+1. **a) ambos / las dos** · 2. **a) o…o / uno u otro** · 3. **a) ni…ni** · 4. **a) decidir** · 5. **a) indeciso/a**
 
 </details>
 
-### Ejercicios 11–15 — En contexto
+### Ejercicios 11–15 — Usa el vocabulario en contexto
 
-11. Usa 3 palabras nuevas en frases con el foco gramatical.
-12. Di en voz alta el vocabulario de la unidad.
-13. Empareja cada palabra con un ejemplo personal.
-14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b1/unidad-27-both-either-neither).
-15. Continúa en la [Unidad 27 del curso](/curso-b1/unit-27).
+Completa con: *choice* · *option* · *prefer* · *decide* · *alternative*
+
+11. We have a difficult ___ between the two restaurants.  
+12. Neither ___ is cheap, so let's cook at home.  
+13. I ___ tea to coffee in the morning.  
+14. Please ___ soon: either we leave now or we miss the train.  
+15. Taking the bus is a good ___ if you don't like the train.
 
 <details>
 <summary>Ver solución</summary>
 
-11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b1/unit-27**
+11. **choice** · 12. **option** · 13. **prefer** · 14. **decide** · 15. **alternative**
 
 </details>
 
@@ -168,21 +198,25 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 3 — Reading: Making a choice
 
-**Objetivo:** comprender un texto con el foco de la unidad.
+**Objetivo:** comprender un texto corto con *both*, *either…or* y *neither…nor*.
 
 ### Texto y audio
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-27/reading-workbook.mp3" title="🔊 Reading: Making a choice"></audio>
 
+Lee el texto (y escucha el audio si quieres). Todas las respuestas de esta lección salen **del texto**.
+
 > Both restaurants are expensive. You can have either tea or coffee. Neither Tom nor Maria wants to go. I don't want either of them. Both choices are valid and we can go either by train or by bus.
 
-### Ejercicios 1–5 — Comprensión
+### Ejercicios 1–5 — Comprensión literal
 
-1. Both ___ are expensive → *restaurants / teas*
-2. Either ___ or coffee → *tea / bread*
-3. Neither Tom nor ___ → *Maria / Quinn*
-4. Don't want ___ of them → *either / both*
-5. Both ___ are valid → *choices / hospitals*
+Completa con la palabra que aparece en el texto.
+
+1. Both ___ are expensive.  
+2. You can have either ___ or coffee.  
+3. Neither Tom nor ___ wants to go.  
+4. I don't want ___ of them.  
+5. Both ___ are valid.
 
 <details>
 <summary>Ver solución</summary>
@@ -191,33 +225,43 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 </details>
 
-### Ejercicios 6–10 — Detalles
+### Ejercicios 6–10 — Busca en el texto
 
-6. Either by train or by ___ → *bus / myself*
-7. Main grammar? → *both/either / quantifiers*
-8. Find both…
-9. Find either…or
-10. Find neither…nor
+Responde con palabras o frases **copiadas del texto**.
+
+6. Según el texto, puedes ir en tren o en ___ .  
+7. ¿Qué tres estructuras gramaticales practicas en este texto? (escríbelas)  
+8. Copia **una** frase que use *both*.  
+9. Copia **una** frase (o trozo) que use *either…or*.  
+10. Copia la frase que usa *neither…nor*.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **bus** · 7. **both/either/neither** · 8. **Both restaurants / Both choices** · 9. **either tea or coffee / either by train or by bus** · 10. **Neither Tom nor Maria**
+6. **bus**  
+7. **both**, **either…or**, **neither…nor** (también *not… either*)  
+8. **Both restaurants are expensive.** / **Both choices are valid…**  
+9. **either tea or coffee** / **either by train or by bus**  
+10. **Neither Tom nor Maria wants to go.**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Forma y significado
 
-11. Write I don't want either…
-12. Choices vocab? → *yes / none*
-13. Neither…or OK? → *False / True*
-14. Course link → */curso-b1/unit-27*
-15. both + plural? → *Yes / No*
+11. Reescribe completa: *I don't want either of them.*  
+12. Nombra dos palabras del texto relacionadas con “elegir / opciones”.  
+13. ¿Es correcto *Neither Tom **or** Maria…*? → True / False. Si es False, corrígelo.  
+14. ¿Con *both* el nombre va normalmente en singular o en plural?  
+15. Completa la regla: *neither* + verbo en ___ (singular / plural).
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **restaurants, tea, coffee, choices, train, bus** · 13. **False (nor)** · 14. **/curso-b1/unit-27** · 15. **Yes**
+11. **I don't want either of them.**  
+12. **choices** (y el contraste *tea / coffee*, *train / bus*, *restaurants*)  
+13. **False** → Neither Tom **nor** Maria wants to go.  
+14. **plural** (*Both restaurants…*)  
+15. **singular** (*Neither option **is** good* / *Neither Tom nor Maria **wants**…*)
 
 </details>
 
@@ -225,56 +269,70 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 4 — Listening: Omar deciding
 
-**Objetivo:** escuchar el foco gramatical en contexto.
+**Objetivo:** identificar *both / either / neither* al escuchar.
 
 ### Audio y guion
 
 <audio controls preload="none" src="/audio/blog/curso-b1/unit-27/listening-workbook.mp3" title="🔊 Listening: Omar deciding"></audio>
 
+Escucha primero **sin leer**. Luego puedes usar el guion para comprobar.
+
 > Hi, I am Omar. Both restaurants are expensive. You can have either tea or coffee. Neither Tom nor Maria wants to go. I don't want either of them. Both choices are valid.
 
 ### Ejercicios 1–5 — Comprensión
 
-1. Who speaks? → *Omar / Nora / Paula*
-2. Both ___ expensive → *restaurants / teas*
-3. Either tea or ___ → *coffee / bread*
-4. Neither Tom nor ___ → *Maria / Quinn*
-5. Don't want ___ → *either / both*
+1. ¿Quién habla?  
+2. Según Omar, ambos ___ son caros.  
+3. Puedes tomar té o ___ .  
+4. ¿Quién no quiere ir, además de Tom?  
+5. Omar no quiere ___ of them. (completa con *either* o *both*)
 
 <details>
 <summary>Ver solución</summary>
 
-1. **Omar** · 2. **restaurants are** · 3. **coffee** · 4. **Maria** · 5. **either of them**
+1. **Omar**  
+2. **restaurants**  
+3. **coffee**  
+4. **Maria**  
+5. **either**
 
 </details>
 
-### Ejercicios 6–10 — Detalles
+### Ejercicios 6–10 — Detalles del audio
 
-6. Both choices ___ → *valid / wrong*
-7. Grammar? → *both/either / quantifiers*
-8. Find both
-9. Find either…or
-10. Find neither…nor
+6. ¿Qué dice Omar de *both choices*? (completa: Both choices ___ .)  
+7. ¿Cuál es el foco gramatical del audio?  
+8. Escribe las dos frases (o inicios) con *Both…* que oyes.  
+9. Escribe el ejemplo con *either…or*.  
+10. Escribe el ejemplo con *neither…nor*.
 
 <details>
 <summary>Ver solución</summary>
 
-6. **are valid** · 7. **both/either/neither** · 8. **Both restaurants / Both choices** · 9. **either tea or coffee** · 10. **Neither Tom nor Maria**
+6. **are valid**  
+7. **both / either…or / neither…nor** (y *not… either*)  
+8. **Both restaurants are expensive.** · **Both choices are valid.**  
+9. **either tea or coffee**  
+10. **Neither Tom nor Maria wants to go.**
 
 </details>
 
-### Ejercicios 11–15 — Forma
+### Ejercicios 11–15 — Práctica oral y forma
 
-11. Write either…or…
-12. Choice words? → *yes / none*
-13. Shadow audio
-14. neither…or OK? → *False / True*
-15. Open Ver solución → *yes*
+11. Escribe una frase nueva con *either…or* (sobre comida o transporte).  
+12. Di en voz alta las palabras: *choice*, *option*, *restaurants*, *tea*, *coffee*.  
+13. Escucha otra vez e imita (shadowing) la frase: *I don't want either of them.*  
+14. ¿Es correcto *neither…or*? → True / False  
+15. Abre «Ver solución» solo cuando hayas intentado 11–14.
 
 <details>
 <summary>Ver solución</summary>
 
-11. **Model OK** · 12. **restaurants, tea, coffee, choices** · 13. **done** · 14. **False** · 15. **yes**
+11. Modelo: **You can have either pasta or pizza.** / **We can go either by car or by metro.**  
+12. Pronunciación libre — comprueba en la [guía teórica](/blog/curso-b1/unidad-27-both-either-neither).  
+13. Frase objetivo: **I don't want either of them.**  
+14. **False** → es **neither…nor**  
+15. ✓
 
 </details>
 
@@ -282,42 +340,56 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ## Lección 5 — Writing
 
-**Objetivo:** producir frases con el foco de la unidad.
+**Objetivo:** producir frases claras con *both*, *either…or*, *neither…nor* y *not… either*.
 
-1. Escribe both…and, either…or, neither…nor + I don't want either.
-2. Completa: ___ restaurants are expensive.
-3. Completa: either tea ___ coffee.
-4. Completa: Neither Tom ___ Maria…
-5. Completa: I don't want ___ of them.
-6. Corrige: *Neither Tom or Maria…*
-7. Corrige: *Both restaurant are…*
-8. Usa *choice* y *option* en 2 frases.
-9. Escribe: We can go either by train or by bus.
-10. Mini-diálogo de elección (either/both).
-11. Traduce: Ambos restaurantes son caros.
-12. Traduce: Ni Tom ni María quieren ir.
-13. Explica either vs neither en 1 frase.
-14. Escribe 1× Both…and…
-15. Autochequeo: both=2; either=1 de 2; neither=0 de 2.
+Escribe tus respuestas. Luego compara con los modelos.
+
+1. Escribe **cuatro** frases cortas, una con cada estructura: *both…and* · *either…or* · *neither…nor* · *I don't want either…*  
+2. Completa: ___ restaurants are expensive.  
+3. Completa: either tea ___ coffee.  
+4. Completa: Neither Tom ___ Maria wants to go.  
+5. Completa: I don't want ___ of them.  
+6. Corrige: *Neither Tom or Maria wants to go.*  
+7. Corrige: *Both restaurant are expensive.*  
+8. Escribe dos frases: una con *choice* y otra con *option*.  
+9. Copia y memoriza: *We can go either by train or by bus.*  
+10. Escribe un mini-diálogo (4–6 líneas) en el que dos personas eligen restaurante o bebida usando *either* o *both*.  
+11. Traduce: *Ambos restaurantes son caros.*  
+12. Traduce: *Ni Tom ni María quieren ir.*  
+13. Explica en **una** frase la diferencia entre *either* y *neither*.  
+14. Escribe una frase con *Both…and…* sobre tu familia o tus amigos.  
+15. Autochequeo — marca sí/no:  
+    - ¿Usas *both* cuando hablas de **las dos** cosas?  
+    - ¿Usas *either…or* cuando eliges **una de dos**?  
+    - ¿Usas *neither…nor* cuando es **ninguna de las dos**?  
+    - ¿Tras *don't* escribes *either* (no *neither*)?
 
 <details>
 <summary>Ver solución</summary>
 
-1. Open four structures.
-2. **Both**
-3. **or**
-4. **nor**
-5. **either**
-6. Neither Tom **nor** Maria…
-7. **Both restaurants** are…
-8. This choice is hard. Neither option is good.
-9. OK.
-10. Open dialogue.
-11. Both restaurants are expensive.
-12. Neither Tom nor Maria wants to go.
-13. either = one of two; neither = none of two.
-14. Both my sister and I like pizza.
-15. Self-check.
+1. Modelos:  
+   - **Both** Ana **and** Luis like Italian food.  
+   - You can take **either** the lift **or** the stairs.  
+   - **Neither** the red shirt **nor** the blue one fits me.  
+   - I don't like **either** of these films.  
+2. **Both**  
+3. **or**  
+4. **nor**  
+5. **either**  
+6. Neither Tom **nor** Maria wants to go.  
+7. **Both restaurants** are expensive.  
+8. Modelos: This **choice** is difficult. / Neither **option** is perfect.  
+9. **We can go either by train or by bus.**  
+10. Modelo:  
+    A: Shall we go to Luigi's or to The Garden?  
+    B: **Both** restaurants are good, but Luigi's is closer.  
+    A: OK. And to drink?  
+    B: I'll have **either** water **or** juice.  
+11. **Both restaurants are expensive.**  
+12. **Neither Tom nor Maria wants to go.**  
+13. ***Either*** = one of two; ***neither*** = none of two.  
+14. Modelo: **Both my brother and I** play tennis.  
+15. Autochequeo personal — las cuatro respuestas deberían ser **sí**.
 
 </details>
 
