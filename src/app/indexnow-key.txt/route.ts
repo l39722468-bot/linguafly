@@ -1,20 +1,30 @@
-import { getIndexNowKey } from "@/lib/seo/indexnow";
+import { readFileSync, existsSync } from "node:fs";
+import path from "node:path";
 
 export const runtime = "nodejs";
 
-export async function GET() {
-  const key = getIndexNowKey();
-  if (!key) {
-    return new Response("INDEXNOW_KEY no configurada", {
-      status: 503,
-      headers: { "Content-Type": "text/plain; charset=utf-8" },
-    });
+const FALLBACK_KEY = "59006008bf0856c11d13c983f0cd516d";
+
+function resolveKey(): string {
+  const fromEnv = (process.env.INDEXNOW_KEY || "").trim();
+  if (fromEnv) return fromEnv;
+
+  const keyPath = path.join(process.cwd(), "public", `${FALLBACK_KEY}.txt`);
+  if (existsSync(keyPath)) {
+    const content = readFileSync(keyPath, "utf8").trim();
+    if (content) return content;
   }
 
+  return FALLBACK_KEY;
+}
+
+export async function GET() {
+  const key = resolveKey();
   return new Response(key, {
     headers: {
       "Content-Type": "text/plain; charset=utf-8",
       "Cache-Control": "public, max-age=300, s-maxage=300",
+      "X-Robots-Tag": "noindex",
     },
   });
 }
