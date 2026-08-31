@@ -143,7 +143,7 @@ Curso:
 
 Guía teórica siguiente:
 
-- Módulo 4 (U36+) — próximamente
+- [U36 — So/such + intensifiers](/blog/curso-b1/unidad-36-so-such-intensifiers)
 
 Guías relacionadas:
 
