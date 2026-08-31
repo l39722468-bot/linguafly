@@ -421,7 +421,7 @@ En un repaso mezclado, identifica primero **el bloque** al que pertenece cada fr
 
 ## Siguiente paso en el curso B2
 
-Con este repaso cierras el **Módulo 2** del curso B2. El curso continúa con la **Unidad 21**, donde trabajarás **linkers avanzados y phrasal verbs**.
+Con este repaso cierras el **Módulo 2** del curso B2. El curso continúa con la **[Unidad 21 — Linkers of contrast](/blog/curso-b2/unidad-21-linkers-contrast-personal-development)**.
 
 Practica ahora:
 
