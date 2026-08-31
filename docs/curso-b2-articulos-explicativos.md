@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (Cuadernos Módulo 3 U21–25; Teoría Módulo 3 U21–25; Teoría U1–20 enriquecida; Módulo 2 U11–20 teoría+cuadernos; Módulo 1 U1–10 completo)  
+**Última actualización:** 2026-08-31 (Teoría Módulo 3 U26–30; cuadernos publicados hasta U25; teoría publicada hasta U30)
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -15,8 +15,8 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 25 |
-| Artículos dedicados pendientes | 35 |
+| Artículos dedicados publicados | 30 |
+| Artículos dedicados pendientes | 30 |
 | Cuadernos ejercicios+soluciones | 25 |
 
 ---
@@ -89,7 +89,7 @@ Cuadernos M2 (U16–20):
 
 ---
 
-## Módulo 3: Linkers & Phrasal verbs (U21–30)
+## Módulo 3: Linkers, Phrasal verbs & Collocations (U21–30)
 
 ### U21–25 — Linkers + Phrasal verbs 1–2
 
@@ -107,8 +107,23 @@ Teoría M3 (U21–25):
 Cuadernos M3 (U21–25):
 - [U21](/blog/curso-b2/unidad-21-linkers-contrast-personal-development-ejercicios-soluciones) · [U22](/blog/curso-b2/unidad-22-linkers-reason-purpose-photography-ejercicios-soluciones) · [U23](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living-ejercicios-soluciones) · [U24](/blog/curso-b2/unidad-24-phrasal-verbs-2-social-media-ejercicios-soluciones) · [U25](/blog/curso-b2/unidad-25-repaso-21-24-ejercicios-soluciones)
 
+### U26–30 — Phrasal verbs 3–4 + Collocations
+
+| U | Título | Gramática / tema | Teoría | Cuaderno |
+|---|---|---|---|---|
+| 26 | Phrasal Verbs 3 & Sustainability | GET / GIVE / GO; sustainability & eco-living | ✅ | ❌ |
+| 27 | Phrasal Verbs 4 & Music | LOOK / MAKE / PUT; music & entertainment | ✅ | ❌ |
+| 28 | Verb + Noun Collocations & Food | make / take / have + noun; food & gastronomy | ✅ | ❌ |
+| 29 | Adjective + Noun Collocations & Psychology | strong / heavy / great + precision adjectives; psychology & mind | ✅ | ❌ |
+| 30 | Repaso 26–29 | integración | ✅ | ❌ |
+
+Teoría M3 (U26–30):
+- [U26](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability) · [U27](/blog/curso-b2/unidad-27-phrasal-verbs-4-music) · [U28](/blog/curso-b2/unidad-28-collocations-verb-noun-food) · [U29](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology) · [U30](/blog/curso-b2/unidad-30-repaso-26-29)
+
+**Estado del Módulo 3:** teoría completa U21–30; cuadernos completos U21–25 y pendientes U26–30.
+
 ---
 
-## Módulos 3 (resto) – 6 (U26–60)
+## Módulos 4–6 (U31–60)
 
-Pendiente. Ver [planificación B2](./curso-b2-planificacion.md).
+Pendiente. La siguiente unidad prevista es U31 **Articles & Education**. Ver [planificación B2](./curso-b2-planificacion.md).
