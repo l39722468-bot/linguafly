@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-37-compound-adjectives-tr
 image: /blog/curso-b1/unit-37/compound-adjectives.png
 alt: 'Compound adjectives B1'
 related_routes:
+  - unidad-37-compound-adjectives-travel-ejercicios-soluciones
   - unidad-36-so-such-intensifiers
   - unidad-38-contrast-opinions
   - cursos-online-ingles-b1
@@ -142,6 +143,7 @@ Delante del nombre: **guion** y **singular** (*a five-star hotel*, no *five-star
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 37 del curso B1](/curso-b1/unit-37).
+3. Haz el [cuaderno de ejercicios U37 (con soluciones)](/blog/curso-b1/unidad-37-compound-adjectives-travel-ejercicios-soluciones).
 
 Curso:
 

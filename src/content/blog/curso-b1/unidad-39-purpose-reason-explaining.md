@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-39-purpose-reason-explain
 image: /blog/curso-b1/unit-39/purpose-reason.png
 alt: 'Purpose and reason B1'
 related_routes:
+  - unidad-39-purpose-reason-explaining-ejercicios-soluciones
   - unidad-38-contrast-opinions
   - unidad-40-repaso-36-39
   - cursos-online-ingles-b1
@@ -141,6 +142,7 @@ Si tras el conector hay **sujeto + verbo**, usa *because / so that*. Si hay **no
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 39 del curso B1](/curso-b1/unit-39).
+3. Haz el [cuaderno de ejercicios U39 (con soluciones)](/blog/curso-b1/unidad-39-purpose-reason-explaining-ejercicios-soluciones).
 
 Curso:
 

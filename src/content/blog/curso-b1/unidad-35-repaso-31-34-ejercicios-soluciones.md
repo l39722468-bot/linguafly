@@ -330,7 +330,7 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b1/unidad-35-repaso-31-34).  
 2. Practica en la [Unidad 35 del curso B1](/curso-b1/unit-35).  
-3. Siguiente bloque del curso: [Unidad 36](/curso-b1/unit-36).
+3. Siguiente: [So/Such & Intensifiers](/blog/curso-b1/unidad-36-so-such-intensifiers-ejercicios-soluciones).
 
 Guías relacionadas:
 

@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-38-contrast-opinions'
 image: /blog/curso-b1/unit-38/contrast.png
 alt: 'Clauses of contrast B1'
 related_routes:
+  - unidad-38-contrast-opinions-ejercicios-soluciones
   - unidad-37-compound-adjectives-travel
   - unidad-39-purpose-reason-explaining
   - cursos-online-ingles-b1
@@ -141,6 +142,7 @@ Tras la [Unidad 37](/blog/curso-b1/unidad-37-compound-adjectives-travel), la **U
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 38 del curso B1](/curso-b1/unit-38).
+3. Haz el [cuaderno de ejercicios U38 (con soluciones)](/blog/curso-b1/unidad-38-contrast-opinions-ejercicios-soluciones).
 
 Curso:
 

@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B1 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (teoría U1–U40 + cuadernos U1–U35; Módulo 4 teoría completa)  
+**Última actualización:** 2026-08-31 (teoría U1–U40 + cuadernos U1–U40; Módulo 4 completo)  
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b1/unidad-N-*-ejercicios-soluciones`.
 
 ---
@@ -14,7 +14,7 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 40 |
 | Artículos dedicados pendientes | 20 |
-| Cuadernos ejercicios+soluciones | 35 (U1–U35) |
+| Cuadernos ejercicios+soluciones | 40 (U1–U40) |
 
 ---
 
@@ -112,13 +112,13 @@ Documento de referencia para consultar qué unidades del curso B1 tienen artícu
 
 | U | Título | Gramática / tema | Estado | Artículo |
 |---|---|---|---|---|
-| 36 | So/such & Intensifiers | so/such/so much/so many | ✅ | [So/such](/blog/curso-b1/unidad-36-so-such-intensifiers) |
-| 37 | Compound adjectives & Travel | two-day, 20-year-old… | ✅ | [Compounds + travel](/blog/curso-b1/unidad-37-compound-adjectives-travel) |
-| 38 | Contrast & Opinions | although, however, despite | ✅ | [Contrast + opinions](/blog/curso-b1/unidad-38-contrast-opinions) |
-| 39 | Purpose & reason | to, so that, because of | ✅ | [Purpose & reason](/blog/curso-b1/unidad-39-purpose-reason-explaining) |
-| 40 | Repaso 36–39 | integración | ✅ | [Repaso 36–39](/blog/curso-b1/unidad-40-repaso-36-39) |
+| 36 | So/such & Intensifiers | so/such/so much/so many | ✅ | [So/such](/blog/curso-b1/unidad-36-so-such-intensifiers) · [Ejercicios](/blog/curso-b1/unidad-36-so-such-intensifiers-ejercicios-soluciones) |
+| 37 | Compound adjectives & Travel | two-day, 20-year-old… | ✅ | [Compounds + travel](/blog/curso-b1/unidad-37-compound-adjectives-travel) · [Ejercicios](/blog/curso-b1/unidad-37-compound-adjectives-travel-ejercicios-soluciones) |
+| 38 | Contrast & Opinions | although, however, despite | ✅ | [Contrast + opinions](/blog/curso-b1/unidad-38-contrast-opinions) · [Ejercicios](/blog/curso-b1/unidad-38-contrast-opinions-ejercicios-soluciones) |
+| 39 | Purpose & reason | to, so that, because of | ✅ | [Purpose & reason](/blog/curso-b1/unidad-39-purpose-reason-explaining) · [Ejercicios](/blog/curso-b1/unidad-39-purpose-reason-explaining-ejercicios-soluciones) |
+| 40 | Repaso 36–39 | integración | ✅ | [Repaso 36–39](/blog/curso-b1/unidad-40-repaso-36-39) · [Ejercicios](/blog/curso-b1/unidad-40-repaso-36-39-ejercicios-soluciones) |
 
-**Módulo 4 teoría (U31–40) completa.** Siguiente: cuadernos U36–40.
+**Módulo 4 (U31–40) completo.** Siguiente: U41–45.
 
 ---
 

@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-40-repaso-36-39'
 image: /blog/curso-b1/unit-40/review-map.png
 alt: 'Repaso B1 unidades 36-39'
 related_routes:
+  - unidad-40-repaso-36-39-ejercicios-soluciones
   - unidad-39-purpose-reason-explaining
   - unidad-35-repaso-31-34
   - cursos-online-ingles-b1
@@ -135,6 +136,7 @@ Clasifica primero: ¿intensidad, descripción, contraste o explicación?
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 40 del curso B1](/curso-b1/unit-40).
+3. Haz el [cuaderno de ejercicios U40 (con soluciones)](/blog/curso-b1/unidad-40-repaso-36-39-ejercicios-soluciones).
 
 Curso:
 

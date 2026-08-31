@@ -21,6 +21,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-36-so-such-intensifiers'
 image: /blog/curso-b1/unit-36/so-such.png
 alt: 'So such intensifiers B1'
 related_routes:
+  - unidad-36-so-such-intensifiers-ejercicios-soluciones
   - unidad-35-repaso-31-34
   - unidad-37-compound-adjectives-travel
   - cursos-online-ingles-b1
@@ -142,6 +143,7 @@ Tras *such* casi siempre hay **nombre** (*such a day*). Tras *so*, **adjetivo** 
 
 1. Repasa los ejemplos en voz alta.  
 2. Practica en la [Unidad 36 del curso B1](/curso-b1/unit-36).
+3. Haz el [cuaderno de ejercicios U36 (con soluciones)](/blog/curso-b1/unidad-36-so-such-intensifiers-ejercicios-soluciones).
 
 Curso:
 
