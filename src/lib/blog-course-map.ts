@@ -881,6 +881,7 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   ],
   'unidad-15-repaso-11-14': [
     { courseId: 'b1', unitNumber: 15 },
+    { courseId: 'b2', unitNumber: 15 },
   ],
   'unidad-15-repaso-11-14-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 15 },
@@ -1188,6 +1189,18 @@ const SLUG_OVERRIDES: Record<string, CourseUnitRef[]> = {
   ],
   'unidad-9-participle-clauses-environment-ejercicios-soluciones': [
     { courseId: 'b2', unitNumber: 9 },
+  ],
+  'unidad-11-relative-clauses-culture': [
+    { courseId: 'b2', unitNumber: 11 },
+  ],
+  'unidad-12-relative-clauses-reduction': [
+    { courseId: 'b2', unitNumber: 12 },
+  ],
+  'unidad-13-modals-money': [
+    { courseId: 'b2', unitNumber: 13 },
+  ],
+  'unidad-14-modal-deduction-business': [
+    { courseId: 'b2', unitNumber: 14 },
   ],
   'unidad-41-verb-preposition-dependent-ejercicios-soluciones': [
     { courseId: 'b1', unitNumber: 41 },
