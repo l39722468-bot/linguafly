@@ -1,8 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { OrganizationSchema, WebsiteSchema } from "./schema";
-import GoogleConsentMode from "@/components/GoogleConsentMode";
-import GoogleTag from "@/components/GoogleTag";
+import GoogleHeadScripts from "@/components/GoogleHeadScripts";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import MatomoAnalytics from "@/components/MatomoAnalytics";
 import Cookiebot from "@/components/Cookiebot";
@@ -92,9 +91,8 @@ export default function RootLayout({
   return (
     <html lang="es" className="scroll-smooth" suppressHydrationWarning>
       <head>
-        {/* Consent Mode y UNA sola etiqueta gtag nativa (snippet oficial, no next/script). */}
-        <GoogleConsentMode />
-        <GoogleTag />
+          {/* Snippet nativo en HTML (no next/script / __next_s). */}
+          <GoogleHeadScripts />
         <InMobiChoiceConsent />
         <UspapiLocator />
         {/* Preconnect críticos: imágenes, fonts, Cookiebot, gtag */}

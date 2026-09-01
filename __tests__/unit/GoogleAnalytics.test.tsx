@@ -75,8 +75,13 @@ describe('getGaTrackingId', () => {
     expect(getGaTrackingId()).toBe('G-ZNL3VGHK2E');
   });
 
-  it('disables tracking when the env id is an empty string', () => {
-    process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = '';
-    expect(getGaTrackingId()).toBeUndefined();
-  });
+    it('disables tracking when the env id is an empty string', () => {
+      process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = '';
+      expect(getGaTrackingId()).toBeUndefined();
+    });
+
+    it('usa el ID por defecto si el env es el literal "undefined"', () => {
+      process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = 'undefined';
+      expect(getGaTrackingId()).toBe('G-ZNL3VGHK2E');
+    });
 });

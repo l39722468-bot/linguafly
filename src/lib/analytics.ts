@@ -2,6 +2,8 @@
 // Linguafly — linguafly.app, zona Madrid, EUR.
 // Override: NEXT_PUBLIC_GA_MEASUREMENT_ID. Cadena vacía desactiva el tag.
 
+import { isGaMeasurementId } from '@/lib/google-consent-mode';
+
 export const DEFAULT_GA_MEASUREMENT_ID = 'G-ZNL3VGHK2E';
 export const LEGACY_GA_MEASUREMENT_ID = 'G-TNTG3MJ3TL';
 const SUPERSEDED_GA_MEASUREMENT_IDS = new Set([
@@ -10,9 +12,15 @@ const SUPERSEDED_GA_MEASUREMENT_IDS = new Set([
 ]);
 
 export function getGaTrackingId(): string | undefined {
-  const fromEnv = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
-  if (fromEnv === '') return undefined;
-  if (!fromEnv || SUPERSEDED_GA_MEASUREMENT_IDS.has(fromEnv)) {
+  const fromEnv = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID?.trim();
+  if (fromEnv === "") return undefined;
+  if (
+    !fromEnv ||
+    fromEnv === "undefined" ||
+    fromEnv === "null" ||
+    SUPERSEDED_GA_MEASUREMENT_IDS.has(fromEnv) ||
+    !isGaMeasurementId(fromEnv)
+  ) {
     return DEFAULT_GA_MEASUREMENT_ID;
   }
   return fromEnv;
