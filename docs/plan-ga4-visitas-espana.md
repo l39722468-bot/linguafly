@@ -2,7 +2,7 @@
 
 **Sitio:** [linguafly.app](https://linguafly.app) (Linguafly / Focus English)  
 **Audiencia objetivo:** hispanohablantes, sobre todo España (`locale` `es_ES`)  
-**Propiedad GA4 Linguafly:** Measurement ID `G-845LV77ZG9`  
+**Propiedad GA4 Linguafly:** Measurement ID `G-ZNL3VGHK2E`  
 **Propiedad legacy (Focus English, no usar):** `G-TNTG3MJ3TL` · `380786116`  
 **GTM:** eliminado del layout (el contenedor `GTM-PR2H3P77` respondía 404). Un solo cargador: gtag.  
 **Analítica paralela:** Matomo Cloud (`linguaflyapp.matomo.cloud`, site id `1`)
@@ -10,7 +10,7 @@
 Este plan no pide rehacer el tracking desde cero. El tag de GA4 ya carga en `src/components/GoogleAnalytics.tsx`, los `page_view` SPA se envían en cada cambio de ruta, y los eventos de producto viven en `src/lib/analytics.ts`. El trabajo es **configurar la propiedad, los informes y el consentimiento** para que las visitas de España se vean con claridad y se puedan vigilar cada día.
 
 **Fase 0 (2026-09-01):** auditoría ejecutada. Resultados en [§12](#12-fase-0--resultados-2026-09-01).  
-**Propiedad Linguafly `G-845LV77ZG9`:** creada. Snippet de Google **no** se pega en el HTML (el componente ya carga gtag). Falta poner el mismo ID como variable de **build** en Cloudflare si el Worker aún tiene `G-TNTG3MJ3TL`.
+**Propiedad Linguafly `G-ZNL3VGHK2E`:** creada. Snippet de Google **no** se pega en el HTML (el componente ya carga gtag). Falta poner el mismo ID como variable de **build** en Cloudflare si el Worker aún tiene `G-TNTG3MJ3TL`.
 
 ---
 
@@ -380,8 +380,8 @@ Resultados del 2026-09-01: ver [§12](#12-fase-0--resultados-2026-09-01).
 - [x] Un solo cargador: gtag. Snippet GTM-PR2H3P77 (404) eliminado del layout.
 - [x] Un `page_view` por ruta en el componente; en Admin de la propiedad nueva desactivar historial de Medición mejorada.
 - [x] Tests: Consent Mode default + gtag no carga sin Measurement ID.
-- [x] Pegar el Measurement ID nuevo (`G-845LV77ZG9`) en código / `.env.example`.
-- [ ] Cloudflare `linguaflyapp1`: variable de build `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-845LV77ZG9` (si sigue `G-TNTG3MJ3TL`, gana el dashboard).
+- [x] Pegar el Measurement ID nuevo (`G-ZNL3VGHK2E`) en código / `.env.example`.
+- [ ] Cloudflare `linguaflyapp1`: variable de build `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-ZNL3VGHK2E` (el código ignora `G-TNTG3MJ3TL` y `G-845LV77ZG9` si siguen ahí).
 
 ---
 
@@ -404,7 +404,7 @@ Se considera resuelto cuando, en un periodo de 7 días:
 - GTM: **eliminado** del layout (contenedor `GTM-PR2H3P77` era 404)
 - Consent Mode: `src/components/GoogleConsentMode.tsx`, `src/lib/google-consent-mode.ts`
 - Consentimiento ads: `src/lib/marketing-consent.ts`, Cookiebot `src/components/Cookiebot.tsx`
-- Variable de entorno: `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-845LV77ZG9` (fallback en `getGaTrackingId()`)
+- Variable de entorno: `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-ZNL3VGHK2E` (fallback en `getGaTrackingId()`)
 
 Documentación Google relevante:
 
@@ -431,7 +431,7 @@ Entorno del agente: IP datacenter (Cloudflare `cf-ray` …`CMH`, Columbus, EE. U
 | `linguafly.app` HTML | **Cloudflare Managed Challenge (403)** a IPs de datacenter. No se pudo leer el JS de producción para confirmar el ID inlinado. |
 | `focus-on-english.com` | Vercel `402 DEPLOYMENT_DISABLED`. El host legacy no sirve la web. |
 
-**Acción pendiente (operador):** en Cloudflare → Worker `linguaflyapp1` → Settings → Variables de **build**, `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-845LV77ZG9`. Si queda `G-TNTG3MJ3TL`, el Worker seguirá enviando a Focus English.
+**Acción pendiente (operador):** en Cloudflare → Worker `linguaflyapp1` → Settings → Variables de **build**, `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-ZNL3VGHK2E`. El código ignora `G-TNTG3MJ3TL` y `G-845LV77ZG9` si siguen en el dashboard.
 
 ### 12.2 Ubicación UE, zona horaria, moneda
 
@@ -518,7 +518,7 @@ Crear la **propiedad GA4 Linguafly** (§13), pegar el Measurement ID en Cloudfla
 
 ## 13. Crear la propiedad GA4 Linguafly
 
-Google no permite crear propiedades desde este repositorio: hay que hacerlo con la cuenta de Google que administra Analytics. El código carga `G-845LV77ZG9` (o `NEXT_PUBLIC_GA_MEASUREMENT_ID` si está definido) con Consent Mode v2 y un `page_view` por ruta, sin GTM.
+Google no permite crear propiedades desde este repositorio: hay que hacerlo con la cuenta de Google que administra Analytics. El código carga `G-ZNL3VGHK2E` (o `NEXT_PUBLIC_GA_MEASUREMENT_ID` si está definido) con Consent Mode v2 y un `page_view` por ruta, sin GTM.
 
 ### 13.1 Alta (5 minutos)
 
@@ -559,12 +559,12 @@ El layout ya declara `gtag('consent','default', { analytics_storage: 'denied', .
 
 ### 13.4 Cortar a producción
 
-Measurement ID Linguafly: **`G-845LV77ZG9`**. Una sola etiqueta en el layout raíz (`GoogleTag`, `beforeInteractive`), justo después de Consent Mode.
+Measurement ID Linguafly: **`G-ZNL3VGHK2E`**. Una sola etiqueta en el layout raíz (`GoogleTag`, `beforeInteractive`), justo después de Consent Mode.
 
-1. Cloudflare → Worker **linguaflyapp1** → Variables de **build**: `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-845LV77ZG9` (el código ignora `G-TNTG3MJ3TL` si sigue ahí).
-2. Tras el deploy: en el navegador, linguafly.app → ver código fuente → debe aparecer `G-845LV77ZG9`.
+1. Cloudflare → Worker **linguaflyapp1** → Variables de **build**: `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-ZNL3VGHK2E` (el código ignora `G-TNTG3MJ3TL` y `G-845LV77ZG9` si siguen ahí).
+2. Tras el deploy: en el navegador, linguafly.app → ver código fuente → debe aparecer `G-ZNL3VGHK2E`.
 3. **No uses el botón «Comprobar instalación» de GA4 mientras Cloudflare desafíe a los bots.** Ese recuadro pide la home desde los servidores de Google; hoy `linguafly.app` responde **403 Managed Challenge** incluso a Googlebot, así que Analytics nunca ve la etiqueta. Ver §13.6.
-4. Comprueba de verdad: **Informes → En tiempo real** (móvil en España) o Chrome DevTools → Red → `gtag/js?id=G-845LV77ZG9`.
+4. Comprueba de verdad: **Informes → En tiempo real** (móvil en España) o Chrome DevTools → Red → `gtag/js?id=G-ZNL3VGHK2E`.
 5. La propiedad vieja `G-TNTG3MJ3TL` se deja en solo lectura.
 
 ### 13.6 Por qué GA4 «no detecta la etiqueta» (Cloudflare)
