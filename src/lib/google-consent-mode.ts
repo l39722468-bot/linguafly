@@ -34,12 +34,13 @@ export function getGoogleTagScriptSrc(measurementId: string): string {
   return `https://www.googletagmanager.com/gtag/js?id=${measurementId}`;
 }
 
-/** Snippet oficial de GA4 (el comprobador busca `gtag('config', 'G-…')`). */
+/** Snippet oficial de GA4 (el comprobador busca un <script src=gtag/js> y `gtag('config', 'G-…')`). */
 export function buildGoogleTagConfigScript(measurementId: string): string {
   return [
     'window.dataLayer = window.dataLayer || [];',
     'function gtag(){dataLayer.push(arguments);}',
     "gtag('js', new Date());",
+    '',
     `gtag('config', '${measurementId}');`,
   ].join('\n');
 }

@@ -848,6 +848,7 @@ const nextConfig = {
         "https://*.inmobi.com",
         "https://challenges.cloudflare.com",
         "https://www.google-analytics.com",
+        "https://analytics.google.com",
         "https://region1.google-analytics.com",
         "https://*.google-analytics.com",
         "https://www.googletagmanager.com",

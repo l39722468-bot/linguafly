@@ -7,23 +7,6 @@ import {
   buildGoogleTagConfigScript,
 } from '@/lib/google-consent-mode';
 
-jest.mock('next/script', () => ({
-  __esModule: true,
-  default: ({
-    id,
-    src,
-    children,
-  }: {
-    id?: string;
-    src?: string;
-    children?: React.ReactNode;
-  }) => (
-    <script id={id} src={src}>
-      {children}
-    </script>
-  ),
-}));
-
 describe('google-consent-mode', () => {
   it('defaults analytics and ads storage to denied for EEE', () => {
     expect(GOOGLE_CONSENT_DEFAULT.analytics_storage).toBe('denied');
@@ -51,6 +34,7 @@ describe('GoogleConsentMode', () => {
     expect(html).toContain('id="google-consent-default"');
     expect(html).toContain("gtag('consent','default'");
     expect(html).not.toContain('GTM-PR2H3P77');
+    expect(html).not.toContain('__next_s');
   });
 });
 
@@ -58,9 +42,11 @@ describe('GoogleTag', () => {
   it('emits the official Linguafly snippet once for the checker', () => {
     const html = renderToStaticMarkup(<GoogleTag />);
 
-    expect(html).toContain('https://www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E');
+    expect(html).toContain('src="https://www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E"');
     expect(html).toContain("gtag('config', 'G-ZNL3VGHK2E')");
     expect(html.match(/gtag\/js\?id=/g)).toHaveLength(1);
+    expect(html).not.toContain('__next_s');
+    expect(html).not.toContain('data-nscript');
     expect(html).not.toContain('G-TNTG3MJ3TL');
     expect(html).not.toContain('G-845LV77ZG9');
   });
@@ -71,6 +57,7 @@ describe('GoogleTag', () => {
         'window.dataLayer = window.dataLayer || [];',
         'function gtag(){dataLayer.push(arguments);}',
         "gtag('js', new Date());",
+        '',
         "gtag('config', 'G-ZNL3VGHK2E');",
       ].join('\n'),
     );
