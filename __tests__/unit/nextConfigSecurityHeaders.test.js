@@ -16,6 +16,7 @@ describe('next.config security headers', () => {
     expect(cspHeader.value).toContain('https://challenges.cloudflare.com');
     expect(cspHeader.value).toContain('https://fonts.googleapis.com');
     expect(cspHeader.value).toContain('https://region1.google-analytics.com');
+    expect(cspHeader.value).toContain('https://analytics.google.com');
     expect(cspHeader.value).toContain('https://cdn.matomo.cloud');
     expect(cspHeader.value).toContain('https://linguaflyapp.matomo.cloud');
     expect(cspHeader.value).not.toContain('https://vitals.vercel-insights.com');

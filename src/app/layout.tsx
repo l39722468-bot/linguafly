@@ -92,7 +92,7 @@ export default function RootLayout({
   return (
     <html lang="es" className="scroll-smooth" suppressHydrationWarning>
       <head>
-        {/* Consent Mode (no es una etiqueta Google) y, a continuación, UNA sola etiqueta gtag para todo el sitio. */}
+        {/* Consent Mode y UNA sola etiqueta gtag nativa (snippet oficial, no next/script). */}
         <GoogleConsentMode />
         <GoogleTag />
         <InMobiChoiceConsent />

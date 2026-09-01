@@ -1,4 +1,3 @@
-import Script from 'next/script';
 import { DEFAULT_GA_MEASUREMENT_ID } from '@/lib/analytics';
 import {
   buildGoogleTagConfigScript,
@@ -6,22 +5,22 @@ import {
 } from '@/lib/google-consent-mode';
 
 /**
- * Una sola etiqueta Google para todo el sitio (layout raíz).
- * strategy=beforeInteractive: el comprobador y el HTML inicial ven G-ZNL3VGHK2E.
+ * Snippet oficial de GA4 en HTML nativo (no next/script).
+ * next/script beforeInteractive serializa a (self.__next_s).push(...) y el
+ * comprobador de Google no lo reconoce como etiqueta.
  */
 export default function GoogleTag() {
   const measurementId = DEFAULT_GA_MEASUREMENT_ID;
 
   return (
     <>
-      <Script
-        id="google-tag-js"
-        src={getGoogleTagScriptSrc(measurementId)}
-        strategy="beforeInteractive"
+      <script async src={getGoogleTagScriptSrc(measurementId)} />
+      <script
+        id="google-tag-config"
+        dangerouslySetInnerHTML={{
+          __html: buildGoogleTagConfigScript(measurementId),
+        }}
       />
-      <Script id="google-tag-config" strategy="beforeInteractive">
-        {buildGoogleTagConfigScript(measurementId)}
-      </Script>
     </>
   );
 }

@@ -559,17 +559,21 @@ El layout ya declara `gtag('consent','default', { analytics_storage: 'denied', .
 
 ### 13.4 Cortar a producción
 
-Measurement ID Linguafly: **`G-ZNL3VGHK2E`**. Una sola etiqueta en el layout raíz (`GoogleTag`, `beforeInteractive`), justo después de Consent Mode.
+Measurement ID Linguafly: **`G-ZNL3VGHK2E`**. Una sola etiqueta nativa en el layout raíz (`GoogleTag`: `<script async src=gtag/js>` + `gtag('config')`), justo después de Consent Mode. No usar `next/script`: en App Router serializa a `(self.__next_s).push(...)` y el comprobador de GA4 no lo reconoce.
 
 1. Cloudflare → Worker **linguaflyapp1** → Variables de **build**: `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-ZNL3VGHK2E` (el código ignora `G-TNTG3MJ3TL` y `G-845LV77ZG9` si siguen ahí).
-2. Tras el deploy: en el navegador, linguafly.app → ver código fuente → debe aparecer `G-ZNL3VGHK2E`.
-3. **No uses el botón «Comprobar instalación» de GA4 mientras Cloudflare desafíe a los bots.** Ese recuadro pide la home desde los servidores de Google; hoy `linguafly.app` responde **403 Managed Challenge** incluso a Googlebot, así que Analytics nunca ve la etiqueta. Ver §13.6.
+2. Tras el deploy: en el navegador, linguafly.app → ver código fuente → debe aparecer `<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E"`. Si ves `__next_s`, el Worker aún no ha desplegado este cambio.
+3. **El botón «Comprobar instalación» de GA4 falla mientras Cloudflare desafíe a los bots.** Ese recuadro pide la home desde los servidores de Google; `linguafly.app` responde **403 Managed Challenge** incluso a Googlebot. Ver §13.6.
 4. Comprueba de verdad: **Informes → En tiempo real** (móvil en España) o Chrome DevTools → Red → `gtag/js?id=G-ZNL3VGHK2E`.
 5. La propiedad vieja `G-TNTG3MJ3TL` se deja en solo lectura.
 
-### 13.6 Por qué GA4 «no detecta la etiqueta» (Cloudflare)
+### 13.6 Por qué GA4 «no detecta la etiqueta»
 
-Comprobado el 2026-09-01: `https://linguafly.app/` con User-Agent de **Googlebot** y **AdsBot-Google** devuelve `HTTP 403` + `cf-mitigated: challenge` («Just a moment…»). El HTML de la etiqueta no se llega a servir.
+Dos causas distintas:
+
+**A) El HTML no tenía el snippet oficial.** `next/script` (`beforeInteractive`) no emite `<script src="…gtag/js?id=G-…">`; deja un `(self.__next_s=self.__next_s||[]).push(...)`. El comprobador busca la etiqueta nativa. Eso ya está corregido en `GoogleTag` / `GoogleConsentMode`.
+
+**B) Cloudflare bloquea a Google.** Comprobado el 2026-09-01 (y de nuevo el mismo día): `https://linguafly.app/` con User-Agent de **Googlebot**, **AdsBot-Google** y **Google-InspectionTool** devuelve `HTTP 403` + `cf-mitigated: challenge` («Just a moment…»). Aunque el snippet esté bien, Analytics no llega a leer el HTML.
 
 En el dashboard de **Cloudflare** (zona `linguafly.app`, no el Worker):
 

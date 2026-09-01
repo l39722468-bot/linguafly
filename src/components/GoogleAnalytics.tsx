@@ -7,7 +7,7 @@ import { getGaTrackingId, pageview } from '@/lib/analytics';
 const excludedRoutes = ['/curso/ingles-a1', '/curso/ingles-b1', '/curso/ingles-c1', '/curso/ingles-c2', '/dashboard', '/profile', '/settings', '/leccion', '/certificados', '/practica'];
 
 /**
- * gtag.js va en el <head> (GoogleTag). Aquí solo se evitan page_view duplicados
+ * gtag.js va en el <head> (GoogleTag, snippet nativo). Aquí solo se evitan page_view duplicados
  * en navegación SPA de App Router.
  */
 export default function GoogleAnalytics() {
