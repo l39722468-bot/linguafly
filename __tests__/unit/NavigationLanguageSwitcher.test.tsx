@@ -1,22 +1,16 @@
 import React from "react";
-import { fireEvent, render, screen, act } from "@testing-library/react";
+import { fireEvent, render, screen } from "@testing-library/react";
 import "@testing-library/jest-dom";
 import { Navigation } from "@/components/sections/Navigation";
-import { getUser, onAuthStateChange } from "@/lib/auth-helpers";
+
+let mockPathname = "/";
 
 jest.mock("next/navigation", () => ({
   useRouter: () => ({
     push: jest.fn(),
     refresh: jest.fn(),
   }),
-}));
-
-jest.mock("@/lib/auth-helpers", () => ({
-  getUser: jest.fn().mockResolvedValue({ user: null }),
-  signOut: jest.fn().mockResolvedValue({ error: null }),
-  onAuthStateChange: jest.fn().mockReturnValue({
-    data: { subscription: { unsubscribe: jest.fn() } },
-  }),
+  usePathname: () => mockPathname,
 }));
 
 jest.mock("next/link", () => {
@@ -24,12 +18,14 @@ jest.mock("next/link", () => {
     children,
     href,
     className,
+    ...rest
   }: {
     children: React.ReactNode;
     href: string;
     className?: string;
+    [key: string]: unknown;
   }) => (
-    <a href={href} className={className}>
+    <a href={href} className={className} {...rest}>
       {children}
     </a>
   );
@@ -40,12 +36,7 @@ jest.mock("next/link", () => {
 
 describe("Navigation", () => {
   beforeEach(() => {
-    jest.mocked(getUser).mockReset();
-    jest.mocked(getUser).mockResolvedValue({ user: null, error: null });
-    jest.mocked(onAuthStateChange).mockReset();
-    jest.mocked(onAuthStateChange).mockReturnValue({
-      data: { subscription: { unsubscribe: jest.fn() } },
-    });
+    mockPathname = "/";
   });
 
   it("renders course buttons with expected links", () => {
@@ -100,31 +91,34 @@ describe("Navigation", () => {
     expect(screen.queryByText("Português")).not.toBeInTheDocument();
   });
 
-  it("shows login button when user is not authenticated", async () => {
+  it("renders an ES / EN home language switcher", () => {
     render(<Navigation />);
 
-    expect(await screen.findByRole("link", { name: "Iniciar sesión" })).toHaveAttribute(
-      "href",
-      "/cuenta/login"
-    );
+    const es = screen.getAllByRole("link", { name: "ES" })[0];
+    const en = screen.getAllByRole("link", { name: "EN" })[0];
+    expect(es).toHaveAttribute("href", "/");
+    expect(en).toHaveAttribute("href", "/en");
+    expect(es).toHaveAttribute("aria-current", "page");
+    expect(en).not.toHaveAttribute("aria-current");
   });
 
-  it("shows panel link instead of login when user is authenticated", async () => {
-    const mockUser = { id: "user-1", email: "alumno@test.com" };
-    jest.mocked(getUser).mockResolvedValue({ user: mockUser, error: null });
-    jest.mocked(onAuthStateChange).mockImplementation((callback) => {
-      callback(mockUser);
-      return { data: { subscription: { unsubscribe: jest.fn() } } };
-    });
+  it("on /en points A1 at the Spanish course and hides English-course chrome", () => {
+    mockPathname = "/en";
+    render(<Navigation />);
 
-    await act(async () => {
-      render(<Navigation />);
-    });
-
-    expect(screen.getAllByRole("link", { name: "Mi Panel" })[0]).toHaveAttribute(
+    expect(screen.getAllByRole("link", { name: "A1" })[0]).toHaveAttribute(
       "href",
-      "/mi-panel"
+      "/blog/curso-espanol-a1"
     );
-    expect(screen.queryByRole("link", { name: "Iniciar sesión" })).not.toBeInTheDocument();
+    expect(screen.getAllByRole("link", { name: "A2" })[0]).toHaveAttribute("href", "/en#levels");
+    expect(screen.getAllByRole("link", { name: "Start A1" })[0]).toHaveAttribute(
+      "href",
+      "/blog/curso-espanol-a1/unidad-1-greetings-names-ser"
+    );
+    expect(screen.queryByRole("link", { name: "Test de nivel" })).not.toBeInTheDocument();
+    expect(screen.queryByRole("link", { name: "Blog" })).not.toBeInTheDocument();
+
+    const en = screen.getAllByRole("link", { name: "EN" })[0];
+    expect(en).toHaveAttribute("aria-current", "page");
   });
 });

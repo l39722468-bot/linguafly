@@ -50,6 +50,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 1.0,
     },
     {
+      url: `${baseUrl}/en`,
+      lastModified: mostRecentArticleDate,
+      changeFrequency: "daily",
+      priority: 0.98,
+    },
+    {
       url: `${baseUrl}/aprender-ingles`,
       lastModified: SITE_LAUNCH_DATE,
       changeFrequency: "monthly",
@@ -156,7 +162,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...articles.map((article) => {
       const category = normalizeCategory(article.category);
       const isDedicatedCourseUnit =
-        /^curso-(a1|a2|b1|b2|c1|c2)$/.test(category) &&
+        /^curso-(espanol-)?(a1|a2|b1|b2|c1|c2)$/.test(category) &&
         /^unidad-\d+/.test(article.slug);
 
       return {
