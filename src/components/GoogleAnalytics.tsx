@@ -3,12 +3,12 @@
 import Script from 'next/script';
 import { usePathname } from 'next/navigation';
 import { useMemo, useEffect, useState, useRef } from 'react';
-import { getContentGroup, pageview } from '@/lib/analytics';
+import { getContentGroup, getGaTrackingId, pageview } from '@/lib/analytics';
 
 const excludedRoutes = ['/curso/ingles-a1', '/curso/ingles-b1', '/curso/ingles-c1', '/curso/ingles-c2', '/dashboard', '/profile', '/settings', '/leccion', '/certificados', '/practica'];
 
 export default function GoogleAnalytics() {
-  const GA_MEASUREMENT_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+  const GA_MEASUREMENT_ID = getGaTrackingId();
   const pathname = usePathname();
   const [gaLoaded, setGaLoaded] = useState(false);
   const isFirstRender = useRef(true);

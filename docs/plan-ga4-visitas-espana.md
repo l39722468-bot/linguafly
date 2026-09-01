@@ -2,14 +2,15 @@
 
 **Sitio:** [linguafly.app](https://linguafly.app) (Linguafly / Focus English)  
 **Audiencia objetivo:** hispanohablantes, sobre todo España (`locale` `es_ES`)  
-**Propiedad GA4 ya en producción:** Measurement ID `G-TNTG3MJ3TL` · ID de propiedad `380786116`  
+**Propiedad GA4 Linguafly:** Measurement ID `G-845LV77ZG9`  
+**Propiedad legacy (Focus English, no usar):** `G-TNTG3MJ3TL` · `380786116`  
 **GTM:** eliminado del layout (el contenedor `GTM-PR2H3P77` respondía 404). Un solo cargador: gtag.  
 **Analítica paralela:** Matomo Cloud (`linguaflyapp.matomo.cloud`, site id `1`)
 
 Este plan no pide rehacer el tracking desde cero. El tag de GA4 ya carga en `src/components/GoogleAnalytics.tsx`, los `page_view` SPA se envían en cada cambio de ruta, y los eventos de producto viven en `src/lib/analytics.ts`. El trabajo es **configurar la propiedad, los informes y el consentimiento** para que las visitas de España se vean con claridad y se puedan vigilar cada día.
 
 **Fase 0 (2026-09-01):** auditoría ejecutada. Resultados en [§12](#12-fase-0--resultados-2026-09-01).  
-**Propiedad nueva Linguafly:** pasos de alta en Admin en [§13](#13-crear-la-propiedad-ga4-linguafly). La propiedad vieja `G-TNTG3MJ3TL` / `380786116` queda como archivo histórico (Focus English / Vercel).
+**Propiedad Linguafly `G-845LV77ZG9`:** creada. Snippet de Google **no** se pega en el HTML (el componente ya carga gtag). Falta poner el mismo ID como variable de **build** en Cloudflare si el Worker aún tiene `G-TNTG3MJ3TL`.
 
 ---
 
@@ -379,7 +380,8 @@ Resultados del 2026-09-01: ver [§12](#12-fase-0--resultados-2026-09-01).
 - [x] Un solo cargador: gtag. Snippet GTM-PR2H3P77 (404) eliminado del layout.
 - [x] Un `page_view` por ruta en el componente; en Admin de la propiedad nueva desactivar historial de Medición mejorada.
 - [x] Tests: Consent Mode default + gtag no carga sin Measurement ID.
-- [ ] Pegar el Measurement ID nuevo en Cloudflare (build) cuando exista la propiedad (§13).
+- [x] Pegar el Measurement ID nuevo (`G-845LV77ZG9`) en código / `.env.example`.
+- [ ] Cloudflare `linguaflyapp1`: variable de build `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-845LV77ZG9` (si sigue `G-TNTG3MJ3TL`, gana el dashboard).
 
 ---
 
@@ -402,7 +404,7 @@ Se considera resuelto cuando, en un periodo de 7 días:
 - GTM: **eliminado** del layout (contenedor `GTM-PR2H3P77` era 404)
 - Consent Mode: `src/components/GoogleConsentMode.tsx`, `src/lib/google-consent-mode.ts`
 - Consentimiento ads: `src/lib/marketing-consent.ts`, Cookiebot `src/components/Cookiebot.tsx`
-- Variable de entorno: `.env.example` → `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-TNTG3MJ3TL`
+- Variable de entorno: `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-845LV77ZG9` (fallback en `getGaTrackingId()`)
 
 Documentación Google relevante:
 
@@ -429,7 +431,7 @@ Entorno del agente: IP datacenter (Cloudflare `cf-ray` …`CMH`, Columbus, EE. U
 | `linguafly.app` HTML | **Cloudflare Managed Challenge (403)** a IPs de datacenter. No se pudo leer el JS de producción para confirmar el ID inlinado. |
 | `focus-on-english.com` | Vercel `402 DEPLOYMENT_DISABLED`. El host legacy no sirve la web. |
 
-**Acción pendiente (operador):** en Cloudflare → Worker `linguaflyapp1` → Settings → Variables, confirmar `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-TNTG3MJ3TL` como **variable de build**. Sin eso, producción no envía GA4 aunque el ID sea válido.
+**Acción pendiente (operador):** en Cloudflare → Worker `linguaflyapp1` → Settings → Variables de **build**, `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-845LV77ZG9`. Si queda `G-TNTG3MJ3TL`, el Worker seguirá enviando a Focus English.
 
 ### 12.2 Ubicación UE, zona horaria, moneda
 
@@ -516,7 +518,7 @@ Crear la **propiedad GA4 Linguafly** (§13), pegar el Measurement ID en Cloudfla
 
 ## 13. Crear la propiedad GA4 Linguafly
 
-Google no permite crear propiedades desde este repositorio: hay que hacerlo con la cuenta de Google que administra Analytics. El código ya apunta a `NEXT_PUBLIC_GA_MEASUREMENT_ID` (vacío hasta que pegues el ID nuevo) y envía Consent Mode v2 + un `page_view` por ruta, sin GTM.
+Google no permite crear propiedades desde este repositorio: hay que hacerlo con la cuenta de Google que administra Analytics. El código carga `G-845LV77ZG9` (o `NEXT_PUBLIC_GA_MEASUREMENT_ID` si está definido) con Consent Mode v2 y un `page_view` por ruta, sin GTM.
 
 ### 13.1 Alta (5 minutos)
 
@@ -557,13 +559,15 @@ El layout ya declara `gtag('consent','default', { analytics_storage: 'denied', .
 
 ### 13.4 Cortar a producción
 
+Measurement ID Linguafly: **`G-845LV77ZG9`** (gtag.js HTTP 200). El snippet que da Google **no** se añade al layout: `GoogleAnalytics.tsx` ya hace `gtag('config', id)`.
+
 1. Cloudflare → Worker **linguaflyapp1** → Settings → Variables / Build:
-   - `NEXT_PUBLIC_GA_MEASUREMENT_ID` = `G-XXXXXXXXXX` (el nuevo).
-   - Es variable de **build** (`NEXT_PUBLIC_*` se inlina en el bundle).
-2. Redeploy del Worker (`linguaflyapp1`). No uses los Workers viejos `linguaflyapp` / `linguafly-app`.
-3. Local: `.env.local` con el mismo `G-XXXXXXXXXX`.
-4. Prueba: móvil en España → linguafly.app → GA4 **En tiempo real** → usuario en **Spain**. En Red: `gtag/js?id=G-XXXXXXXXXX` (no `G-TNTG3MJ3TL`, no `GTM-PR2H3P77`).
-5. La propiedad vieja `380786116` / `G-TNTG3MJ3TL` se deja en solo lectura (histórico Focus English). No borres datos todavía.
+   - `NEXT_PUBLIC_GA_MEASUREMENT_ID` = `G-845LV77ZG9`
+   - Si la variable sigue siendo `G-TNTG3MJ3TL`, **cámbiala**. `NEXT_PUBLIC_*` se inlina en el build y pisa el default del código.
+2. Redeploy del Worker (`linguaflyapp1`).
+3. Local: `.env.local` con `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-845LV77ZG9`.
+4. Prueba: móvil en España → linguafly.app → GA4 **En tiempo real** (propiedad Linguafly) → usuario en **Spain**. En Red: `gtag/js?id=G-845LV77ZG9` (no `G-TNTG3MJ3TL`, no `GTM-PR2H3P77`).
+5. La propiedad vieja `380786116` / `G-TNTG3MJ3TL` se deja en solo lectura. No borres datos.
 
 ### 13.5 Dimensiones personalizadas (mismo día o Fase 1)
 

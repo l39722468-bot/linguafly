@@ -53,7 +53,19 @@ describe('GoogleAnalytics', () => {
     process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = originalGaId;
   });
 
-  it('does not inject gtag without a measurement id', () => {
+  it('falls back to the Linguafly measurement id when env is unset', async () => {
+    delete process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+    const view = render(<GoogleAnalytics />);
+
+    await act(async () => undefined);
+
+    const src = view.container.querySelector('script[src*="gtag/js"]');
+    expect(src?.getAttribute('src')).toBe(
+      'https://www.googletagmanager.com/gtag/js?id=G-845LV77ZG9',
+    );
+  });
+
+  it('does not inject gtag when the measurement id is explicitly empty', () => {
     process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = '';
     const { container } = render(<GoogleAnalytics />);
     expect(container.querySelector('script')).toBeNull();

@@ -1,8 +1,16 @@
 // Google Analytics 4 Event Tracking
-// Linguafly — propiedad nueva (linguafly.app, zona Madrid).
-// El Measurement ID vive en NEXT_PUBLIC_GA_MEASUREMENT_ID (no hardcodear).
+// Linguafly — linguafly.app, zona Madrid, EUR.
+// Override: NEXT_PUBLIC_GA_MEASUREMENT_ID. Cadena vacía desactiva el tag.
 
-export const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+export const DEFAULT_GA_MEASUREMENT_ID = 'G-845LV77ZG9';
+
+export function getGaTrackingId(): string | undefined {
+  const fromEnv = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+  if (fromEnv === '') return undefined;
+  return fromEnv || DEFAULT_GA_MEASUREMENT_ID;
+}
+
+export const GA_TRACKING_ID = getGaTrackingId();
 
 /**
  * Devuelve el grupo de contenido al que pertenece una ruta.
@@ -41,7 +49,7 @@ export function getContentGroup(pathname: string): string {
  * Llama esto en cada cambio de ruta SPA para evitar "(not set)" en los informes.
  */
 export const pageview = (url: string, title?: string) => {
-  if (typeof window !== 'undefined' && window.gtag && GA_TRACKING_ID) {
+  if (typeof window !== 'undefined' && window.gtag && getGaTrackingId()) {
     const pageTitle = title || document.title;
     const pageLocation = window.location.origin + url;
     const contentGroup = getContentGroup(url);
