@@ -25,6 +25,7 @@ related_routes:
   - unidad-37-auxiliaries-business
   - unidad-38-phrasal-verbs-5-run-set-take-leisure
   - unidad-39-phrasal-verbs-6-turn-work-sport
+  - unidad-41-gerunds-infinitives-education
   - ingles-b2
 faqs:
   - question: ¿Qué contenidos integra la Unidad 40?
@@ -373,11 +374,12 @@ En un repaso mixto, retrasa la respuesta un segundo: nombra la familia, formula 
 
 ## Siguiente paso en el curso B2
 
-Has completado las Unidades 36–40 y la teoría del Módulo 4. Continúa en la **Unidad 41 del curso B2** y conserva este diagnóstico para repasar solo la familia que falle.
+Has completado las Unidades 36–40 y la teoría del Módulo 4. Continúa con la **Unidad 41: Gerunds, Infinitives + Education** y conserva este diagnóstico para repasar solo la familia que falle.
 
 - [Ejercicios U40 con soluciones](/blog/curso-b2/unidad-40-repaso-36-39-ejercicios-soluciones)
 - [Unidad 40 del curso](/curso-b2/unit-40)
-- [Continuar con Unidad 41](/curso-b2/unit-41)
+- [U41 teoría: Gerunds, Infinitives + Education](/blog/curso-b2/unidad-41-gerunds-infinitives-education)
+- [Unidad 41 del curso](/curso-b2/unit-41)
 
 ### Guías relacionadas
 
@@ -385,6 +387,7 @@ Has completado las Unidades 36–40 y la teoría del Módulo 4. Continúa en la 
 - [U37 Auxiliaries + Business](/blog/curso-b2/unidad-37-auxiliaries-business)
 - [U38 RUN, SET, TAKE + Leisure](/blog/curso-b2/unidad-38-phrasal-verbs-5-run-set-take-leisure)
 - [U39 TURN, WORK + Sport](/blog/curso-b2/unidad-39-phrasal-verbs-6-turn-work-sport)
+- [U41 Gerunds, Infinitives + Education](/blog/curso-b2/unidad-41-gerunds-infinitives-education)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---
