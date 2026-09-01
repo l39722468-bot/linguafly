@@ -1,6 +1,10 @@
-# Syllabus — Spanish B1 (English-speaking learners)
+# Syllabus — Spanish B1 (PCIC / NRE / DELE B1)
 
 60 units. Category `curso-espanol-b1`. Folder `src/content/blog/curso-espanol-b1/`.  
+**Norma:** columna **B1** de los inventarios PCIC. Mapa: [curso-espanol-cobertura-pcic.md](./curso-espanol-cobertura-pcic.md).
+
+**Focus oficial:** pluscuamperfecto; **paradigmas** de futuro y condicional (PCIC 9.1.4–9.1.5, vacíos en A1–A2); **subjuntivo de presente como sistema** (9.2.1); combinación de átonos *se lo* (7.1.5); *se* pasivo/impersonal; relativos ampliados; *por/para* dominio; macrofunciones expositiva y argumentativa (inicio); nociones 15–20 ampliadas; DELE B1.
+
 **Focus:** combined pasts, **present subjunctive as a system**, IO/DO together, *por/para* mastery, *se* passive/impersonal, relative clauses, DELE B1 tasks.
 
 ---
@@ -43,7 +47,7 @@
 
 | U | Title | Grammar | Topic | Can-do | Slug | Pitfall |
 |---|-------|---------|-------|--------|------|---------|
-| 21 | Future vs *ir a* | Intention vs prediction vs scheduled | Economy light | Choose form. | `unidad-21-future-vs-ir-a` | *will* dump |
+| 21 | Future vs *ir a* (**paradigma** futuro PCIC 9.1.4) | Intention vs prediction vs scheduled | Economy light | Choose form; first full *–é, –ás* set. | `unidad-21-future-vs-ir-a` | *will* dump |
 | 22 | Future perfect | *habré terminado* | Deadlines | *By Friday I will have…* | `unidad-22-future-perfect` | Missing *haber* |
 | 23 | Simple conditional | *-ía*; irregulars *habría, podría, haría* | Hypothetical light | *Yo en tu lugar…* | `unidad-23-simple-conditional` | Conditional for past habit (*would*) |
 | 24 | Probability: future/conditional | *Serán las tres; Estaría cansado* | Speculation | Soften guesses. | `unidad-24-probability-future-conditional` | *must be* → *debe ser* only |

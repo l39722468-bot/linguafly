@@ -35,6 +35,13 @@ describe('blog-course-map priority', () => {
         category: 'gramatica',
       }),
     ).toBeNull();
+
+    expect(
+      getDedicatedUnitFromArticle({
+        slug: 'unidad-1-greetings-names-ser',
+        category: 'curso-espanol-a1',
+      }),
+    ).toBeNull();
   });
 
   it('ranks dedicated unit articles above generic topic matches', () => {

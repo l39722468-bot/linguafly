@@ -2,111 +2,105 @@
 
 **Última actualización:** 2026-09-01  
 **Syllabus:** [curso-espanol-a2-syllabus.md](./curso-espanol-a2-syllabus.md)  
-**Plan maestro:** [curso-espanol-plan-editorial.md](./curso-espanol-plan-editorial.md)
+**Cobertura oficial:** [curso-espanol-cobertura-pcic.md](./curso-espanol-cobertura-pcic.md)  
+**Nota:** aquí entra el material PCIC A2 (pasados, perífrasis, mandatos, clíticos) que **no** se enseña en A1.
 
 ## Resumen
 
-| Métrica | Cifra |
-|---|---|
-| Unidades totales | 60 |
-| Artículos de teoría publicados | 0 |
-| Cuadernos de ejercicios publicados | 0 |
-| Pares pendientes | 60 |
+| Unidades | Teoría ✅ | Cuadernos ✅ | Pendientes |
+|----------|-----------|-------------|------------|
+| 60 | 0 | 0 | 60 pares |
 
-| Estado | Significado |
-|---|---|
-| ✅ | Publicado | 🔶 | Borrador | ❌ | No existe |
+## Módulo 1 — Presente A2 (U1–10)
 
-## Módulo 1 — Presente consolidado (U1–10)
-
-| U | Título | Teoría | Cuaderno |
-|---|--------|--------|----------|
+| U | Título | T | C |
+|---|--------|---|---|
 | 1 | A1 → A2 bridge | ❌ | ❌ |
-| 2 | Irregular present (high frequency) | ❌ | ❌ |
-| 3 | Reflexives + reciprocal | ❌ | ❌ |
-| 4 | Full-day narrative | ❌ | ❌ |
-| 5 | *Gustar*-type verbs | ❌ | ❌ |
-| 6 | Indirect object pronouns | ❌ | ❌ |
-| 7 | Direct objects + *se lo* preview | ❌ | ❌ |
-| 8 | Indefinites and negatives | ❌ | ❌ |
-| 9 | Quantifiers | ❌ | ❌ |
+| 2 | Irregular present | ❌ | ❌ |
+| 3 | Stem-change e→ie | ❌ | ❌ |
+| 4 | Stem-change o→ue / e→i | ❌ | ❌ |
+| 5 | Periphrases *ir a / tener que / poder* | ❌ | ❌ |
+| 6 | *Encantar / doler* | ❌ | ❌ |
+| 7 | Direct object pronouns | ❌ | ❌ |
+| 8 | Indirect object pronouns | ❌ | ❌ |
+| 9 | Negatives and quantifiers | ❌ | ❌ |
 | 10 | Module 1 review | ❌ | ❌ |
 
-## Módulo 2 — El pasado (U11–20) — prioridad pedagógica
+## Módulo 2 — Los tres pasados (U11–20)
 
-| U | Título | Teoría | Cuaderno |
-|---|--------|--------|----------|
-| 11 | Preterite regular | ❌ | ❌ |
-| 12 | Preterite irregular set 1 | ❌ | ❌ |
-| 13 | Preterite irregular set 2 | ❌ | ❌ |
-| 14 | Preterite time markers | ❌ | ❌ |
-| 15 | Imperfect regular + *ser, ir, ver* | ❌ | ❌ |
-| 16 | Imperfect uses | ❌ | ❌ |
-| 17 | Preterite vs imperfect (core) | ❌ | ❌ |
-| 18 | Holiday story | ❌ | ❌ |
-| 19 | Perfect vs preterite (Spain / LatAm) | ❌ | ❌ |
-| 20 | Module 2 review | ❌ | ❌ |
+| U | Título | T | C |
+|---|--------|---|---|
+| 11 | Present perfect | ❌ | ❌ |
+| 12 | Past participles | ❌ | ❌ |
+| 13 | Preterite regular | ❌ | ❌ |
+| 14 | Preterite irregular 1 | ❌ | ❌ |
+| 15 | Preterite irregular 2 | ❌ | ❌ |
+| 16 | Imperfect regular | ❌ | ❌ |
+| 17 | Imperfect uses | ❌ | ❌ |
+| 18 | Preterite vs imperfect | ❌ | ❌ |
+| 19 | Perfect vs preterite (varieties) | ❌ | ❌ |
+| 20 | Module 2 review (narrate) | ❌ | ❌ |
 
-## Módulo 3 — Futuro, comparación, mandatos (U21–30)
+## Módulo 3 — Comparación, mandatos, gerundio (U21–30)
 
-| U | Título | Teoría | Cuaderno |
-|---|--------|--------|----------|
-| 21 | Plans: *ir a* vs present | ❌ | ❌ |
-| 22 | Simple future | ❌ | ❌ |
-| 23 | Modals of obligation | ❌ | ❌ |
-| 24 | *Poder / saber / deber* | ❌ | ❌ |
-| 25 | Comparatives expanded | ❌ | ❌ |
-| 26 | *Tan / tanto* | ❌ | ❌ |
-| 27 | Neuter demonstratives | ❌ | ❌ |
-| 28 | Possessive pronouns | ❌ | ❌ |
-| 29 | Affirmative *tú* commands | ❌ | ❌ |
+| U | Título | T | C |
+|---|--------|---|---|
+| 21 | Plans: *ir a* / present-as-future | ❌ | ❌ |
+| 22 | Comparatives | ❌ | ❌ |
+| 23 | Superlatives | ❌ | ❌ |
+| 24 | *Tú* commands | ❌ | ❌ |
+| 25 | *Usted* commands | ❌ | ❌ |
+| 26 | *Estar* + gerund | ❌ | ❌ |
+| 27 | Possessive pronouns | ❌ | ❌ |
+| 28 | *Por* vs *para* A2 | ❌ | ❌ |
+| 29 | Exclamatives and *-mente* | ❌ | ❌ |
 | 30 | Module 3 review | ❌ | ❌ |
 
-## Módulo 4 — Personas, trabajo, transacciones (U31–40)
+## Módulo 4 — Nociones A2 (U31–40)
 
-| U | Título | Teoría | Cuaderno |
-|---|--------|--------|----------|
-| 31 | Describing people in depth | ❌ | ❌ |
-| 32 | Housework | ❌ | ❌ |
-| 33 | Work and studies | ❌ | ❌ |
-| 34 | Shopping conversations | ❌ | ❌ |
-| 35 | Food quantities / recipes | ❌ | ❌ |
-| 36 | At the doctor’s | ❌ | ❌ |
-| 37 | Weather and climate | ❌ | ❌ |
-| 38 | Making plans (*quedar*) | ❌ | ❌ |
-| 39 | Phone and messages | ❌ | ❌ |
+| U | Título | T | C |
+|---|--------|---|---|
+| 31 | Body and appearance A2 | ❌ | ❌ |
+| 32 | Feelings and sensations | ❌ | ❌ |
+| 33 | Housework | ❌ | ❌ |
+| 34 | Work: interview / CV | ❌ | ❌ |
+| 35 | Education A2 | ❌ | ❌ |
+| 36 | Recipes | ❌ | ❌ |
+| 37 | Shopping quantities | ❌ | ❌ |
+| 38 | Doctor and symptoms | ❌ | ❌ |
+| 39 | Phone and post A2 | ❌ | ❌ |
 | 40 | Module 4 review | ❌ | ❌ |
 
-## Módulo 5 — Movimiento, progresivo, *que* (U41–50)
+## Módulo 5 — Viaje, relativas, conectores (U41–50)
 
-| U | Título | Teoría | Cuaderno |
-|---|--------|--------|----------|
+| U | Título | T | C |
+|---|--------|---|---|
 | 41 | Prepositions of movement | ❌ | ❌ |
-| 42 | *Estar* + gerund | ❌ | ❌ |
-| 43 | Gerund spelling | ❌ | ❌ |
-| 44 | Travel problems | ❌ | ❌ |
-| 45 | *Usted* commands | ❌ | ❌ |
-| 46 | Unplanned *se* | ❌ | ❌ |
-| 47 | Relative *que* | ❌ | ❌ |
-| 48 | *Porque / por qué / porqué* | ❌ | ❌ |
-| 49 | Simple connectors | ❌ | ❌ |
+| 42 | Travel problems | ❌ | ❌ |
+| 43 | Unplanned *se* intro | ❌ | ❌ |
+| 44 | Relative *que* | ❌ | ❌ |
+| 45 | *Se lo* preview | ❌ | ❌ |
+| 46 | Connectors A2 | ❌ | ❌ |
+| 47 | Making plans (*quedar*) | ❌ | ❌ |
+| 48 | Media A2 | ❌ | ❌ |
+| 49 | False friends A2 | ❌ | ❌ |
 | 50 | Module 5 review | ❌ | ❌ |
 
-## Módulo 6 — Opinión y DELE A2 (U51–60)
+## Módulo 6 — Cortesía y DELE A2 (U51–60)
 
-| U | Título | Teoría | Cuaderno |
-|---|--------|--------|----------|
-| 51 | Opinions (*creo que* + ind.) | ❌ | ❌ |
-| 52 | Agreement / disagreement | ❌ | ❌ |
-| 53 | Courtesy conditional | ❌ | ❌ |
-| 54 | Subjunctive preview (*ojalá*) | ❌ | ❌ |
-| 55 | *Cuando* present vs pending | ❌ | ❌ |
-| 56 | *Por* vs *para* A2 | ❌ | ❌ |
-| 57 | False friends A2 | ❌ | ❌ |
-| 58 | A2 writing genres | ❌ | ❌ |
-| 59 | DELE A2 skills | ❌ | ❌ |
+| U | Título | T | C |
+|---|--------|---|---|
+| 51 | Opinions + indicative | ❌ | ❌ |
+| 52 | Courtesy *me gustaría* | ❌ | ❌ |
+| 53 | Subjunctive preview | ❌ | ❌ |
+| 54 | *Cuando* habit vs pending | ❌ | ❌ |
+| 55 | A2 writing genres | ❌ | ❌ |
+| 56 | Sociocultural A2 | ❌ | ❌ |
+| 57 | Intercultural A2 | ❌ | ❌ |
+| 58 | DELE A2 skills | ❌ | ❌ |
+| 59 | A2 PCIC clinic | ❌ | ❌ |
 | 60 | A2 capstone | ❌ | ❌ |
 
 ## Próximo sprint (tras A1)
 
-**U11–U20** (pasados). Unidad hero: **U17**.
+**U11–U20** (pasados oficiales A2). Hero: **U18**.

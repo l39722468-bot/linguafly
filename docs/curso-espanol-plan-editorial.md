@@ -6,11 +6,12 @@ Plan de producción para un **curso completo de español para angloparlantes**, 
 **Público:** adultos angloparlantes (L1 inglés) que aprenden español como L2  
 **Idioma de instrucción:** inglés  
 **Idioma objeto:** español (variedad de referencia: español peninsular estándar, con notas de variación latinoamericana)  
-**Marco:** CEFR / MCER + Plan Curricular del Instituto Cervantes (PCIC) + DELE (Instituto Cervantes) y SIELE  
+**Marco normativo de contenidos:** MCER (+ Companion Volume 2020) · [RD 1137/2002](https://www.boe.es/buscar/act.php?id=BOE-A-2002-21672) / RD 264/2008 / RD 1004/2015 (DELE) · **PCIC Niveles de referencia para el español** (12 inventarios; repertorio que las guías DELE declaran evaluable).  
+**Temario completo (cobertura inventario a unidad):** [curso-espanol-cobertura-pcic.md](./curso-espanol-cobertura-pcic.md)  
 **Modelo de producto:** el mismo que el curso de inglés actual (`curso-a1` … `curso-c2`): 60 unidades por nivel × 2 artículos = **720 artículos**.
 
-**Estado:** planificación (0 artículos publicados).  
-**Última actualización:** 2026-09-01
+**Estado:** en producción (par A1 U1 teoría + cuaderno publicados; 718 restantes).  
+**Última actualización:** 2026-09-01 (Unidad 1: teoría y ejercicios)
 
 ---
 
@@ -61,13 +62,13 @@ El artículo de **teoría** cubre las seis franjas en prosa. El artículo de **e
 
 ## 3. Qué debe lograr el alumno por nivel (CEFR + DELE)
 
-### A1 — Breakthrough (DELE A1)
+### A1 — Breakthrough (DELE A1 / PCIC columna A1)
 
-Puede presentarse, pedir y dar datos personales, desenvolverse en compras y comidas muy simples, y entender frases hechas si el interlocutor habla despacio. Vocabulario activo orientativo: **~500–800 palabras**.
+Puede identificarse, dar datos personales (dirección, teléfono, nacionalidad, estado civil, DNI/pasaporte), desenvolverse en compras, comida, transporte y hotel **en presente**, y usar las seis funciones PCIC a nivel de fórmula. **No** hay pasado ni imperativo paradigmático (eso es A2). Vocabulario activo = léxico de la **columna A1** de las 20 nociones específicas.
 
-### A2 — Waystage (DELE A2)
+### A2 — Waystage (DELE A2 / PCIC columna A2)
 
-Puede describir rutinas, pasado reciente y planes, desenvolverse como turista, y escribir notas y correos cortos. Distingue *ser/estar*, *indefinido/imperfecto* a nivel básico y usa *gustar* con seguridad. Vocabulario: **~1.200–1.800 palabras**.
+Puede narrar con **perfecto, indefinido e imperfecto**, usar perífrasis (*ir a, tener que, poder*), mandatos, gerundio y clíticos. Distingue *ser/estar*, *indefinido/imperfecto* y *gustar/encantar*. Planes con *ir a*, no con futuro morfológico. Vocabulario: **columna A2** de las 20 nociones.
 
 ### B1 — Threshold (DELE B1 / SIELE B1)
 
@@ -84,6 +85,8 @@ Comprende textos exigentes, produce discurso claro y bien estructurado, cambia d
 ### C2 — Mastery (DELE C2)
 
 Comprende casi todo, reproduce matices de estilo, corrige calcos del inglés, y opera en discursos especializados (académico, jurídico divulgativo, periodístico). Vocabulario: **~8.000+** con precisión sinonímica.
+
+**Cobertura inventario a unidad (temario oficial completo):** [curso-espanol-cobertura-pcic.md](./curso-espanol-cobertura-pcic.md)
 
 Los descriptores *can-do* por unidad están en los syllabus:
 
@@ -118,16 +121,16 @@ Cada artículo de teoría incluye una sección **English-speaker pitfall**. No e
 | *hay* vs *está* vs *es* | A1–A2 | U14, U16, U32 A1 |
 | *tú* / *usted* / *vosotros* / *ustedes* / *vos* | A1–B2 | A1 U7–U9; variación A2/B2 |
 | Pretérito indefinido vs imperfecto | A2–B1 | Módulo 2 A2; dominio B1 M1 |
-| Pretérito perfecto (España) vs indefinido (América) | A1–B1 | A1 U46; nota de variación constante |
-| Pronombres de OD/OI y *se lo* | A1–B2 | Intro A1; clíticos juntos B1 |
-| *por* vs *para* | A1–B2 | Básico A1 U58; dominio B1 U35 |
+| Pretérito perfecto (España) vs indefinido (América) | A2–B1 | A2 U11 y U19; nota de variación constante |
+| Pronombres de OD/OI y *se lo* | A2–B2 | Átonos A2 U7–U8; *se lo* B1 U31 |
+| *por* vs *para* | A2–B1 | A2 U28; dominio B1 U35 |
 | Subjuntivo (inexistente como sistema en inglés) | A2–C1 | Preview A2; sistema B1; dominio B2–C1 |
 | *to like doing* vs *gustar que* + subjuntivo | B1 | U14 B1 |
-| Calcos: *en realidad*, *actualmente*, *realizar*, *soportar* | B2–C2 | False friends A2 U57; avanzado B2/C1 |
+| Calcos: *en realidad*, *actualmente*, *realizar*, *soportar* | A2–C2 | False friends A2 U49; avanzado B2/C1 |
 | Queísmo / dequeísmo | C1–C2 | C2 U7 |
 | Colocación de clíticos y perífrasis | B1–C2 | Perífrasis B2; clíticos C2 |
 
-**Variedad de referencia:** explicaciones y ejemplos en **español de España** (incluye *vosotros*, pretérito perfecto de pasado reciente, *coger*, *vale*, *móvil*). Cada unidad A2+ tiene un recuadro **Across the Spanish-speaking world** (2–5 líneas) cuando la forma cambia (*computadora/ordenador*, *ustedes* por *vosotros*, *pretérito* para hoy, *vos* rioplatense). No se enseña *voseo* como paradigma productivo hasta B2.
+**Variedad de referencia:** explicaciones y ejemplos en **español de España** (incluye *vosotros*, *coger*, *vale*, *móvil*). El pretérito perfecto de pasado reciente se enseña en **A2**, con recuadro de variación americana. Cada unidad A2+ tiene un recuadro **Across the Spanish-speaking world** (2–5 líneas) cuando la forma cambia (*computadora/ordenador*, *ustedes* por *vosotros*, *pretérito* para hoy, *vos* rioplatense). El *voseo* se **reconoce** desde A1 (PCIC 7.1.1) y no se produce como paradigma hasta B2.
 
 ---
 
@@ -280,7 +283,7 @@ No se escribe C2 antes de cerrar el hilo gramatical de A1–B1: el plan está di
 | 7 | C1 completo | Registro y discurso |
 | 8 | C2 completo | Estilo y especialización |
 
-**Prioridad editorial A1 (si hay que recortar un sprint):** U1 (saludos), U5–U6 (género/número), U7 (*ser*), U14 (*hay*), U21–U23 (presente y reflexivos), U27 (*gustar*), U29 (*estar*), U46 (pretérito perfecto), U58 (*por/para*).
+**Prioridad editorial A1 (si hay que recortar un sprint):** U1–U4 (identidad PCIC N3), U5–U7 (género, artículos, *ser*), U9 (funciones sociales), U14 (*hay*), U21–U23 (presente y reflexivos), U27 (*gustar*), U29 (*estar*). No adelantar pasado.
 
 Cada sprint de 10 unidades: 10 teoría + 10 ejercicios **juntos**. No se publica teoría huérfana.
 
@@ -292,7 +295,8 @@ Un par de artículos se marca ✅ en el tracker solo si:
 
 - [ ] Cuerpo de teoría ≥ 2.000 palabras (conteo sin YAML)  
 - [ ] Cuerpo de ejercicios ≥ 2.000 palabras  
-- [ ] Can-do alineado con el syllabus de esa unidad (no se cuela gramática del nivel siguiente salvo *preview* de 1 párrafo)  
+- [ ] Can-do alineado con el syllabus **y** con la columna PCIC de ese nivel (véase [cobertura-pcic](./curso-espanol-cobertura-pcic.md)); no se evalúa gramática del nivel siguiente salvo *preview* de 1 párrafo  
+- [ ] Las nociones específicas de la unidad usan léxico de **esa** columna PCIC (no la del nivel siguiente)  
 - [ ] ≥ 5 pitfalls EN→ES con forma incorrecta tachada o marcada *×* y forma correcta  
 - [ ] Vocabulario de la unidad reutilizado en reading + ejercicios (coherencia temática)  
 - [ ] 5 FAQs en teoría; el cuaderno enlaza a la teoría y viceversa  

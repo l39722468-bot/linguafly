@@ -1,6 +1,10 @@
-# Syllabus — Spanish B2 (English-speaking learners)
+# Syllabus — Spanish B2 (PCIC / NRE / DELE B2)
 
 60 units. Category `curso-espanol-b2`. Folder `src/content/blog/curso-espanol-b2/`.  
+**Norma:** columna **B2** de los inventarios PCIC. Mapa: [curso-espanol-cobertura-pcic.md](./curso-espanol-cobertura-pcic.md).
+
+**Focus oficial:** subjuntivo imperfecto y pluscuamperfecto; condicionales 2–3 y mixtos; *como si*; relativos con preposición y *cuyo*; perífrasis B2; pasiva *ser* vs *se*; estilo indirecto completo; intensificación/atenuación/focalización; argumentación plena; variación diatópica; DELE B2.
+
 **Focus:** imperfect & pluperfect subjunctive, mixed conditionals, *como si*, advanced relatives, verbal periphrases, reported speech, register, DELE B2.
 
 ---

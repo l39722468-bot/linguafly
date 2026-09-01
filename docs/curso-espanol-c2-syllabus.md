@@ -1,6 +1,10 @@
-# Syllabus — Spanish C2 (English-speaking learners)
+# Syllabus — Spanish C2 (PCIC / NRE / DELE C2)
 
 60 units. Category `curso-espanol-c2`. Folder `src/content/blog/curso-espanol-c2/`.  
+**Norma:** columna **C2** de los inventarios PCIC. Mapa: [curso-espanol-cobertura-pcic.md](./curso-espanol-cobertura-pcic.md).
+
+**Focus oficial:** gramática residual (pretérito anterior, queísmo/dequeísmo, acuerdo complejo); géneros especializados; referentes de canon y contacto; estilo e implicatura; mediación C2; DELE C2.
+
 **Focus:** residual grammar, rhetoric, specialized discourses, cultural canon (overview, not a literature degree), DELE C2, EN/ES contrastive control.
 
 C2 articles stay ≥ 2.000 words but shift weight: fewer baby tables, more **annotated texts**, **stylistic alternatives**, and **error detection at native-editor level**.

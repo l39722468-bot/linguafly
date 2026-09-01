@@ -14,6 +14,7 @@ import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
 import { CopyProtection } from "@/components/blog/CopyProtection";
 import { BlogArticlePdfDownload } from "@/components/blog/BlogArticlePdfDownload";
 import { getBlogArticles, getArticleBySlug, getRelatedArticles, getRelatedByKeywords, getArticlesByCategory, normalizeCategory, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
+import { expandBlogGlosses } from "@/lib/blog-glosses";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import ReactMarkdown from 'react-markdown';
@@ -116,6 +117,12 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     "curso-a2": "Curso A2",
     "curso-b1": "Curso B1",
     "curso-b2": "Curso B2",
+    "curso-espanol-a1": "Spanish A1",
+    "curso-espanol-a2": "Spanish A2",
+    "curso-espanol-b1": "Spanish B1",
+    "curso-espanol-b2": "Spanish B2",
+    "curso-espanol-c1": "Spanish C1",
+    "curso-espanol-c2": "Spanish C2",
   };
 
   const normalizedCategory = normalizeCategory(article.category);
@@ -280,6 +287,12 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     "curso-a2": "bg-sky-100 text-sky-800 border-sky-200",
     "curso-b1": "bg-amber-100 text-amber-800 border-amber-200",
     "curso-b2": "bg-rose-100 text-rose-800 border-rose-200",
+    "curso-espanol-a1": "bg-teal-100 text-teal-800 border-teal-200",
+    "curso-espanol-a2": "bg-cyan-100 text-cyan-800 border-cyan-200",
+    "curso-espanol-b1": "bg-orange-100 text-orange-800 border-orange-200",
+    "curso-espanol-b2": "bg-pink-100 text-pink-800 border-pink-200",
+    "curso-espanol-c1": "bg-violet-100 text-violet-800 border-violet-200",
+    "curso-espanol-c2": "bg-slate-100 text-slate-800 border-slate-200",
     seo: "bg-blue-100 text-blue-800 border-blue-200",
   };
 
@@ -364,9 +377,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                        {article.title}
                      </h1>
 
-                     <div className="print-hidden">
-                       <BlogExerciseMapBanner articleSlug={slug} articleTitle={article.title} />
-                     </div>
+                     {!normalizedCategory.startsWith("curso-espanol") && (
+                       <div className="print-hidden">
+                         <BlogExerciseMapBanner articleSlug={slug} articleTitle={article.title} />
+                       </div>
+                     )}
 
                      <div className="flex items-center justify-between py-6 border-y border-slate-50 print-hidden">
                        <div className="flex items-center gap-3">
@@ -424,14 +439,16 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       rehypePlugins={[rehypeRaw]}
                       components={MarkdownComponents}
                     >
-                      {article.content}
+                      {expandBlogGlosses(article.content)}
                     </ReactMarkdown>
 
                     {/* FAQs visibles (alineadas con FAQPage schema) */}
                     {article.faqs && article.faqs.length > 0 && (
                       <div className="mt-16 border-t border-slate-100 pt-12 not-prose">
                         <h2 className="font-display text-3xl font-black text-slate-900 mb-8">
-                          Preguntas frecuentes
+                          {normalizedCategory.startsWith("curso-espanol")
+                            ? "Frequently asked questions"
+                            : "Preguntas frecuentes"}
                         </h2>
                         <div className="space-y-8">
                           {article.faqs.map((faq, index) => (
@@ -457,9 +474,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                     </div>
                     
                     {/* Dynamic Topic Cluster */}
-                    <div className="print-hidden">
-                      <TopicClusterLinks articles={clusterArticles} mainKeyword={mainKeyword} />
-                    </div>
+                    {!normalizedCategory.startsWith("curso-espanol") && (
+                      <div className="print-hidden">
+                        <TopicClusterLinks articles={clusterArticles} mainKeyword={mainKeyword} />
+                      </div>
+                    )}
 
                     {/* Author Bio Section (EEAT) */}
                     {article.authorData && (
@@ -492,7 +511,9 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                             </div>
                             
                             <p className="text-slate-600 text-lg leading-relaxed mb-6">
-                              {article.authorData.bio}
+                              {normalizedCategory.startsWith("curso-espanol")
+                                ? `${SITE_BRAND_NAME} publishes a complete Spanish course for English-speaking adults (A1–C2), aligned with the Instituto Cervantes PCIC / DELE inventories. Each unit has a theory guide and an answered workbook.`
+                                : article.authorData.bio}
                             </p>
                             
                             <div className="flex flex-wrap justify-center md:justify-start items-center gap-6">

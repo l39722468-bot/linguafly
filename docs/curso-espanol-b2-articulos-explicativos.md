@@ -2,7 +2,8 @@
 
 **Última actualización:** 2026-09-01  
 **Syllabus:** [curso-espanol-b2-syllabus.md](./curso-espanol-b2-syllabus.md)  
-**Plan maestro:** [curso-espanol-plan-editorial.md](./curso-espanol-plan-editorial.md)
+**Plan maestro:** [curso-espanol-plan-editorial.md](./curso-espanol-plan-editorial.md)  
+**Cobertura PCIC B2:** [curso-espanol-cobertura-pcic.md](./curso-espanol-cobertura-pcic.md) (§7)
 
 ## Resumen
 
