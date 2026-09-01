@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-09-01 (50 artículos de teoría y 45 cuadernos publicados; teoría U1–50 y cuadernos U1–45)
+**Última actualización:** 2026-09-01 (50 artículos de teoría y 50 cuadernos publicados; teoría y cuadernos U1–50; Módulo 5 completo)
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -17,7 +17,7 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Unidades totales | 60 |
 | Artículos dedicados publicados | 50 |
 | Artículos dedicados pendientes | 10 |
-| Cuadernos ejercicios+soluciones | 45 |
+| Cuadernos ejercicios+soluciones | 50 |
 
 ---
 
@@ -193,16 +193,19 @@ Cuadernos M5 (U41–45):
 
 | U | Título | Gramática / tema | Teoría | Cuaderno |
 |---|---|---|---|---|
-| 46 | Psychology & Human Behavior | mixed conditionals; psychology, cognition & emotions | ✅ | ❌ |
-| 47 | Academic Writing & Reports | cleft sentences; essays, reports & sources | ✅ | ❌ |
-| 48 | Innovation in Teaching | reporting verbs; EdTech & pedagogy | ✅ | ❌ |
-| 49 | Sociology & Cultural Shifts | inversion for emphasis; demographics & social change | ✅ | ❌ |
-| 50 | Repaso 41–49 | integración de gramática y vocabulario U41–49 | ✅ | ❌ |
+| 46 | Psychology & Human Behavior | mixed conditionals; psychology, cognition & emotions | ✅ | ✅ |
+| 47 | Academic Writing & Reports | cleft sentences; essays, reports & sources | ✅ | ✅ |
+| 48 | Innovation in Teaching | reporting verbs; EdTech & pedagogy | ✅ | ✅ |
+| 49 | Sociology & Cultural Shifts | inversion for emphasis; demographics & social change | ✅ | ✅ |
+| 50 | Repaso 41–49 | integración de gramática y vocabulario U41–49 | ✅ | ✅ |
 
 Teoría M5 (U46–50):
 - [U46](/blog/curso-b2/unidad-46-mixed-conditionals-psychology) · [U47](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing) · [U48](/blog/curso-b2/unidad-48-reporting-verbs-teaching) · [U49](/blog/curso-b2/unidad-49-inversion-sociology) · [U50](/blog/curso-b2/unidad-50-repaso-41-49)
 
-**Módulo 5 completo en teoría (U41–50); cuadernos U46–50 pendientes.**
+Cuadernos M5 (U46–50):
+- [U46](/blog/curso-b2/unidad-46-mixed-conditionals-psychology-ejercicios-soluciones) · [U47](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing-ejercicios-soluciones) · [U48](/blog/curso-b2/unidad-48-reporting-verbs-teaching-ejercicios-soluciones) · [U49](/blog/curso-b2/unidad-49-inversion-sociology-ejercicios-soluciones) · [U50](/blog/curso-b2/unidad-50-repaso-41-49-ejercicios-soluciones)
+
+**Módulo 5 completo (teoría + cuadernos U41–50).**
 
 ---
 
