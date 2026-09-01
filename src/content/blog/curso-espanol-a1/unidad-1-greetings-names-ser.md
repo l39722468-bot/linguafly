@@ -68,6 +68,8 @@ The official repertoire this unit opens is small on purpose. In the Instituto Ce
 > **Workbook (answered exercises):** [Unit 1 exercises](/blog/curso-espanol-a1/unidad-1-greetings-names-ser-ejercicios-soluciones)  
 > **Next:** [Unit 2 — Alphabet, pronunciation, orthography](/blog/curso-espanol-a1/unidad-2-alphabet-pronunciation-orthography)
 
+![A1 Spanish self-introduction formula: greeting, Me llamo, and soy / eres](/blog/curso-espanol-a1/unit-1/greetings-names-ser.png)
+
 ---
 
 ## What you will be able to do
