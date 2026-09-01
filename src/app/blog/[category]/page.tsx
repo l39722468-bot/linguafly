@@ -93,6 +93,42 @@ const categoryMetadata: Record<string, { name: string, description: string, icon
     description: "Artículos explicativos del curso B2 (Cambridge FCE): futuros avanzados, gerundios, wish, conditionals mixtos y más, unidad a unidad.",
     icon: "📕",
     color: "from-rose-600 to-red-700"
+  },
+  "curso-espanol-a1": {
+    name: "Spanish A1 Course: Unit Guides",
+    description: "A1 Spanish for English speakers: greetings, identity, present tense, and everyday transactions, unit by unit.",
+    icon: "🇪🇸",
+    color: "from-teal-600 to-emerald-700"
+  },
+  "curso-espanol-a2": {
+    name: "Spanish A2 Course: Unit Guides",
+    description: "A2 Spanish for English speakers: past tenses, periphrases, and everyday narration, unit by unit.",
+    icon: "🇪🇸",
+    color: "from-cyan-600 to-sky-700"
+  },
+  "curso-espanol-b1": {
+    name: "Spanish B1 Course: Unit Guides",
+    description: "B1 Spanish for English speakers: connected past narration, present subjunctive, and opinions, unit by unit.",
+    icon: "🇪🇸",
+    color: "from-orange-600 to-amber-700"
+  },
+  "curso-espanol-b2": {
+    name: "Spanish B2 Course: Unit Guides",
+    description: "B2 Spanish for English speakers: argument, hypothesis, and register, unit by unit.",
+    icon: "🇪🇸",
+    color: "from-rose-600 to-pink-700"
+  },
+  "curso-espanol-c1": {
+    name: "Spanish C1 Course: Unit Guides",
+    description: "C1 Spanish for English speakers: precise register, complex syntax, and demanding texts, unit by unit.",
+    icon: "🇪🇸",
+    color: "from-violet-600 to-purple-700"
+  },
+  "curso-espanol-c2": {
+    name: "Spanish C2 Course: Unit Guides",
+    description: "C2 Spanish for English speakers: style, nuance, and near-native control, unit by unit.",
+    icon: "🇪🇸",
+    color: "from-slate-600 to-zinc-800"
   }
 };
 
@@ -130,6 +166,8 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
               ? ['curso inglés A2', 'Present Perfect A2', 'Past Simple A2', 'guías curso A2']
               : category === 'curso-a1'
                 ? ['curso inglés A1', 'guías curso A1', 'inglés principiante']
+              : category === 'curso-espanol-a1'
+                ? ['learn Spanish A1', 'Spanish for English speakers', 'free Spanish A1 course']
                 : undefined,
     alternates: {
       canonical: getAbsoluteUrl(`/blog/${category}`),

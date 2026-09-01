@@ -10,7 +10,7 @@
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos de teoría publicados | 0 |
+| Artículos de teoría publicados | 1 |
 | Cuadernos de ejercicios publicados | 0 |
 | Pares pendientes | 60 |
 
@@ -22,7 +22,7 @@
 
 | U | Título | T | C |
 |---|--------|---|---|
-| 1 | Greetings, names, *ser* | ❌ | ❌ |
+| 1 | Greetings, names, *ser* | ✅ | ❌ |
 | 2 | Alphabet, pronunciation, orthography | ❌ | ❌ |
 | 3 | Numbers, age, phone (*tener*) | ❌ | ❌ |
 | 4 | Origin, address, nationality | ❌ | ❌ |
