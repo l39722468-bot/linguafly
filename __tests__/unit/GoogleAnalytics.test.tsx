@@ -1,6 +1,7 @@
 import React from 'react';
 import { render, act } from '@testing-library/react';
 import GoogleAnalytics from '@/components/GoogleAnalytics';
+import { DEFAULT_GA_MEASUREMENT_ID, getGaTrackingId } from '@/lib/analytics';
 
 const mockPageview = jest.fn();
 
@@ -31,13 +32,13 @@ describe('GoogleAnalytics', () => {
   });
 
   it('does not inject a second Google tag (gtag lives in <head>)', () => {
-    process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = 'G-845LV77ZG9';
+    process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = 'G-ZNL3VGHK2E';
     const { container } = render(<GoogleAnalytics />);
     expect(container.querySelector('script')).toBeNull();
   });
 
   it('sends a single SPA pageview after the first route change', async () => {
-    process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = 'G-845LV77ZG9';
+    process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = 'G-ZNL3VGHK2E';
     window.gtag = jest.fn();
     const view = render(<GoogleAnalytics />);
 
@@ -50,5 +51,32 @@ describe('GoogleAnalytics', () => {
 
     expect(mockPageview).toHaveBeenCalledTimes(1);
     expect(mockPageview).toHaveBeenCalledWith('/blog');
+  });
+});
+
+describe('getGaTrackingId', () => {
+  const originalGaId = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+
+  afterEach(() => {
+    process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = originalGaId;
+  });
+
+  it('uses the Linguafly tag G-ZNL3VGHK2E by default', () => {
+    delete process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+    expect(getGaTrackingId()).toBe('G-ZNL3VGHK2E');
+    expect(DEFAULT_GA_MEASUREMENT_ID).toBe('G-ZNL3VGHK2E');
+  });
+
+  it('ignores superseded Focus English and G-845 ids', () => {
+    process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = 'G-TNTG3MJ3TL';
+    expect(getGaTrackingId()).toBe('G-ZNL3VGHK2E');
+
+    process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = 'G-845LV77ZG9';
+    expect(getGaTrackingId()).toBe('G-ZNL3VGHK2E');
+  });
+
+  it('disables tracking when the env id is an empty string', () => {
+    process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = '';
+    expect(getGaTrackingId()).toBeUndefined();
   });
 });

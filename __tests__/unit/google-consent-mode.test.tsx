@@ -58,19 +58,20 @@ describe('GoogleTag', () => {
   it('emits the official Linguafly snippet once for the checker', () => {
     const html = renderToStaticMarkup(<GoogleTag />);
 
-    expect(html).toContain('https://www.googletagmanager.com/gtag/js?id=G-845LV77ZG9');
-    expect(html).toContain("gtag('config', 'G-845LV77ZG9')");
+    expect(html).toContain('https://www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E');
+    expect(html).toContain("gtag('config', 'G-ZNL3VGHK2E')");
     expect(html.match(/gtag\/js\?id=/g)).toHaveLength(1);
     expect(html).not.toContain('G-TNTG3MJ3TL');
+    expect(html).not.toContain('G-845LV77ZG9');
   });
 
   it('matches the official gtag config body', () => {
-    expect(buildGoogleTagConfigScript('G-845LV77ZG9')).toBe(
+    expect(buildGoogleTagConfigScript('G-ZNL3VGHK2E')).toBe(
       [
         'window.dataLayer = window.dataLayer || [];',
         'function gtag(){dataLayer.push(arguments);}',
         "gtag('js', new Date());",
-        "gtag('config', 'G-845LV77ZG9');",
+        "gtag('config', 'G-ZNL3VGHK2E');",
       ].join('\n'),
     );
   });

@@ -7,7 +7,7 @@ import {
 
 /**
  * Una sola etiqueta Google para todo el sitio (layout raíz).
- * strategy=beforeInteractive: el comprobador y el HTML inicial ven G-845LV77ZG9.
+ * strategy=beforeInteractive: el comprobador y el HTML inicial ven G-ZNL3VGHK2E.
  */
 export default function GoogleTag() {
   const measurementId = DEFAULT_GA_MEASUREMENT_ID;
