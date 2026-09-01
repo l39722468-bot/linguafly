@@ -4,12 +4,9 @@ import { OrganizationSchema, WebsiteSchema } from "./schema";
 import GoogleHeadScripts from "@/components/GoogleHeadScripts";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import MatomoAnalytics from "@/components/MatomoAnalytics";
-import Cookiebot from "@/components/Cookiebot";
-import CookiebotBannerVisibility from "@/components/CookiebotBannerVisibility";
-import InMobiChoiceConsent from "@/components/InMobiChoiceConsent";
+import IubendaConsent from "@/components/IubendaConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
-import UspapiLocator from "@/components/UspapiLocator";
 import { SITE_BRAND_NAME, getSiteUrl } from "@/lib/site-brand";
 
 const siteUrl = getSiteUrl();
@@ -91,11 +88,11 @@ export default function RootLayout({
   return (
     <html lang="es" className="scroll-smooth" suppressHydrationWarning>
       <head>
-          {/* Snippet nativo en HTML (no next/script / __next_s). */}
-          <GoogleHeadScripts />
-        <InMobiChoiceConsent />
-        <UspapiLocator />
-        {/* Preconnect críticos: imágenes, fonts, Cookiebot, gtag */}
+        {/* iubenda debe ejecutarse antes de las etiquetas que autobloquea. */}
+        <IubendaConsent />
+        {/* Snippet nativo en HTML (no next/script / __next_s). */}
+        <GoogleHeadScripts />
+        {/* Preconnect críticos: imágenes, fonts, iubenda, gtag */}
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://images.pexels.com" />
@@ -108,10 +105,10 @@ export default function RootLayout({
           rel="stylesheet"
           href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700&family=Plus+Jakarta+Sans:wght@700&display=swap"
         />
-        <link rel="preconnect" href="https://consent.cookiebot.com" />
-        <link rel="dns-prefetch" href="https://consent.cookiebot.com" />
-        <link rel="preconnect" href="https://cmp.inmobi.com" />
-        <link rel="dns-prefetch" href="https://cmp.inmobi.com" />
+        <link rel="preconnect" href="https://cs.iubenda.com" />
+        <link rel="dns-prefetch" href="https://cs.iubenda.com" />
+        <link rel="preconnect" href="https://cdn.iubenda.com" />
+        <link rel="dns-prefetch" href="https://cdn.iubenda.com" />
         <link rel="dns-prefetch" href="https://quge5.com" />
         {/* Schema.org structured data */}
         <OrganizationSchema />
@@ -123,8 +120,6 @@ export default function RootLayout({
 
       </head>
       <body className="antialiased bg-white text-slate-900 font-sans" suppressHydrationWarning>
-        <Cookiebot />
-        <CookiebotBannerVisibility />
         <ConsentGatedAdSense />
         <DeferredMonetagAd />
         {children}
