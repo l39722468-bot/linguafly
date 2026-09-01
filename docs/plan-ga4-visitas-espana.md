@@ -8,6 +8,8 @@
 
 Este plan no pide rehacer el tracking desde cero. El tag de GA4 ya carga en `src/components/GoogleAnalytics.tsx`, los `page_view` SPA se envían en cada cambio de ruta, y los eventos de producto viven en `src/lib/analytics.ts`. El trabajo es **configurar la propiedad, los informes y el consentimiento** para que las visitas de España se vean con claridad y se puedan vigilar cada día.
 
+**Fase 0 (2026-09-01):** auditoría ejecutada. Resultados en [§12](#12-fase-0--resultados-2026-09-01). Hallazgo principal: `G-TNTG3MJ3TL` está vivo; `GTM-PR2H3P77` responde **404** (no duplica GA4); el riesgo de doble `page_view` es Enhanced Measurement + el componente React.
+
 ---
 
 ## 1. Objetivo
@@ -346,12 +348,15 @@ DebugView: Chrome con [Google Analytics Debugger](https://chrome.google.com/webs
 
 ### Fase 0 — Auditoría (sin código)
 
-- [ ] Confirmar propiedad `380786116` / `G-TNTG3MJ3TL` en producción (`NEXT_PUBLIC_GA_MEASUREMENT_ID`).
-- [ ] Activar **ubicación detallada** para la UE.
-- [ ] Zona horaria Madrid, moneda EUR.
-- [ ] Hit de prueba desde España en tiempo real.
-- [ ] Inventario de tags en GTM-PR2H3P77 (¿GA4 duplicado?).
-- [ ] Comparar 7 días: GA4 Spain vs GSC España vs Cloudflare ES.
+Resultados del 2026-09-01: ver [§12](#12-fase-0--resultados-2026-09-01).
+
+- [x] Measurement ID `G-TNTG3MJ3TL` **existe y sirve gtag.js** (propiedad citada `380786116`).
+- [ ] Confirmar que `NEXT_PUBLIC_GA_MEASUREMENT_ID` está **inlinado en el Worker de producción** (bloqueado: WAF de Cloudflare).
+- [x] Ubicación detallada (DEVICE_AND_GEO): **no hay redacción global** en el destino GA4. Falta confirmar el toggle UE en Admin.
+- [ ] Zona horaria Madrid, moneda EUR (hace falta Admin GA4).
+- [ ] Hit de prueba desde España en tiempo real (bloqueado: IP del agente fuera de ES + challenge Cloudflare).
+- [x] Inventario GTM-PR2H3P77: contenedor **404**, no hay tags GA4 duplicados vía GTM.
+- [ ] Comparar 7 días: GA4 Spain vs GSC España vs Cloudflare ES (hace falta acceso a las consolas).
 
 ### Fase 1 — Informes España (solo UI GA4)
 
@@ -403,3 +408,106 @@ Documentación Google relevante:
 - [Consent Mode](https://support.google.com/analytics/answer/10000067)
 - [Comparar datos en informes](https://support.google.com/analytics/answer/1033068)
 - [Audiencias](https://support.google.com/analytics/answer/9267572)
+
+---
+
+## 12. Fase 0 — Resultados (2026-09-01)
+
+Auditoría hecha desde el repo, endpoints públicos de Google/Cookiebot/Matomo y el site vivo. **No hay login** a Analytics, Search Console, GTM ni Cloudflare Dashboard.
+
+Entorno del agente: IP datacenter (Cloudflare `cf-ray` …`CMH`, Columbus, EE. UU.). Cookiebot respondió `CookieConsent.setOutOfRegion()`; no es un visitante español.
+
+### 12.1 IDs y propiedad
+
+| Comprobación | Resultado |
+|---|---|
+| `G-TNTG3MJ3TL` en `.env.example` / `.env.local.example` | Presente. Comentario: propiedad `380786116`, datos desde enero 2026. |
+| `gtag.js?id=G-TNTG3MJ3TL` | **HTTP 200**, ~524 KB, `vtp_destinationId: G-TNTG3MJ3TL`. El stream **está vivo**. |
+| `NEXT_PUBLIC_GA_MEASUREMENT_ID` en el Worker de producción | **No verificado.** `GoogleAnalytics.tsx` no pinta nada si la variable no se inlinó en el build. El workflow de GitHub (`deploy-cloudflare.yml`) **no** pasa esta variable; Workers Builds del dashboard podría sí. |
+| `linguafly.app` HTML | **Cloudflare Managed Challenge (403)** a IPs de datacenter. No se pudo leer el JS de producción para confirmar el ID inlinado. |
+| `focus-on-english.com` | Vercel `402 DEPLOYMENT_DISABLED`. El host legacy no sirve la web. |
+
+**Acción pendiente (operador):** en Cloudflare → Worker `linguaflyapp1` → Settings → Variables, confirmar `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-TNTG3MJ3TL` como **variable de build**. Sin eso, producción no envía GA4 aunque el ID sea válido.
+
+### 12.2 Ubicación UE, zona horaria, moneda
+
+Leído del propio `gtag.js` del destino (`__ccd_ga_regscope`):
+
+```
+DEVICE_AND_GEO  → disallowAllRegions: false, disallowedRegions: ""
+GOOGLE_SIGNALS  → disallowAllRegions: true,  disallowedRegions: ""
+```
+
+Interpretación:
+
+- **País/ciudad no están redactados a nivel global.** España *puede* verse en informes si llegan hits.
+- **Google Signals está apagado en todas las regiones.** No habrá edad/género ni remarketing por señales; el país no depende de Signals.
+- Zona horaria Madrid y moneda EUR **no salen en gtag.js**. Hay que mirarlas en Admin → Configuración de la propiedad.
+
+**Acción pendiente (operador, 2 minutos):**
+
+1. [analytics.google.com](https://analytics.google.com/) → propiedad `380786116`.
+2. Admin → Recogida de datos → **Datos de ubicación y dispositivo detallados** → UE/EEE **activado** (el gtag sugiere que ya no hay redacción global; conviene confirmar el toggle).
+3. Admin → Configuración de la propiedad → zona **Madrid (Europe/Madrid)**, moneda **EUR**.
+
+### 12.3 Inventario GTM-PR2H3P77 — no hay doble GA4 por GTM
+
+| URL | HTTP |
+|---|---|
+| `https://www.googletagmanager.com/gtm.js?id=GTM-PR2H3P77` | **404** |
+| `https://www.googletagmanager.com/ns.html?id=GTM-PR2H3P77` | **404** |
+
+El snippet sigue en `src/app/layout.tsx` (head + iframe noscript). En cada visita el navegador pide un contenedor que **no existe**: no dispara tags, sí ensucia la red y el `dataLayer` (`gtm.js` / `gtm.start`).
+
+**Conclusión:** no hay inventario de tags GTM porque el contenedor está inédito, borrado o mal ID. **No hay page_view duplicado vía GTM.**
+
+Sí hay otro riesgo de duplicado (sin GTM), ver §12.5.
+
+### 12.4 Hit en tiempo real desde España
+
+No ejecutado:
+
+1. El agente no tiene IP española.
+2. `linguafly.app` presenta challenge de Cloudflare a este entorno (Turnstile / managed). Un usuario real en España no debería verlo igual.
+
+**Acción pendiente (operador, 30 s):** desde un móvil en España, abrir `https://linguafly.app/` con las cookies de estadísticas aceptadas. En GA4 → **Informes → En tiempo real** debe aparecer 1 usuario en **Spain**. En DevTools → Red, debe haber `gtag/js?id=G-TNTG3MJ3TL` y un collect a `google-analytics.com` / `analytics.google.com`. Si no hay `gtag/js`, la variable de build no está en el Worker (§12.1).
+
+### 12.5 Hallazgos extra (calidad de medición)
+
+1. **Enhanced Measurement + page_view manual.** El destino GA4 tiene `vtp_enableHistoryEvents: true` y `vtp_enablePageView: true`. `GoogleAnalytics.tsx` también envía `event: page_view` en cada cambio de `pathname`. En navegación SPA puede haber **dos page_view por ruta**, aunque GTM esté muerto. Corrección: Fase 3 (`send_page_view: false` en config **o** desactivar eventos de historial en el stream).
+2. **Lista cross-domain obsoleta.** El destino enlaza previews `focusonenglish-*-focusenglish.vercel.app` y `focus-on-english.com`. **No aparece `linguafly.app`.** El host canónico no está en el linker; el dominio viejo está caído (Vercel 402).
+3. **Recogida automática de PII activada** (`__ogt_1p_data_v2`: email, teléfono, dirección). Riesgo GDPR en España; no bloquea ver el país, sí conviene apagarlo en Admin del stream.
+4. **Cookiebot** ID `474b1dce-7229-40d3-88c2-a2323b9a57f9` vive; la librería soporta Consent Mode v2 (`analytics_storage`, `ad_user_data`, …). En código Linguafly Cookiebot va en `data-blockingmode="manual"` y GA **no** espera `consent.statistics`. Desde EE. UU. Cookiebot marca `setOutOfRegion()` (banner no aplica). Un visitante ES sí verá el CMP.
+5. **Matomo** `linguaflyapp.matomo.cloud` / site `1` / `matomo.js` **200**. Segunda fuente válida para contrastar país cuando se tenga login.
+6. **WAF.** El challenge de Cloudflare a bots es bueno contra crawlers (EE. UU. inflado), y explica por qué un scrape no ve el HTML real.
+
+### 12.6 Comparativa 7 días GA4 vs GSC vs Cloudflare
+
+No hay API ni sesión en esas consolas. Cuando el operador entre, mismo periodo (7 días):
+
+| Fuente | Dónde | Filtro |
+|---|---|---|
+| GA4 | Informes → Atributos del usuario → País | Spain |
+| Search Console | Rendimiento → País | España |
+| Cloudflare | Analytics / `CF-IPCountry=ES` | ES |
+| Matomo | Visitantes → Ubicaciones | Spain |
+
+Esperado: Cloudflare ES ≥ GA4 ES ≥ clics GSC ES. Si GA4 Spain = 0 y Cloudflare tiene ES, o falta el ID en el Worker (§12.1) o el hit de prueba (§12.4) falla.
+
+### 12.7 Qué queda bloqueado vs qué está cerrado
+
+| Ítem Fase 0 | Estado |
+|---|---|
+| ID GA4 vivo | Cerrado: `G-TNTG3MJ3TL` sirve destino real |
+| ID inlinado en producción | Abierto: mirar variables de build de `linguaflyapp1` o Network en un navegador ES |
+| Ubicación detallada UE | Casi cerrado por gtag (sin redacción DEVICE_AND_GEO); confirmar toggle Admin |
+| Timezone / moneda | Abierto: Admin GA4 |
+| Tiempo real ES | Abierto: 1 visita humana desde España |
+| Inventario GTM | Cerrado: contenedor 404, no duplica GA4 |
+| Comparativa 7 días | Abierto: consolas GA4 / GSC / CF / Matomo |
+
+### 12.8 Siguiente paso recomendado
+
+1. Operador: las 3 acciones de Admin + hit ES de §12.1–12.4 (sin código).
+2. Ingeniería: **Fase 3** — quitar el snippet muerto `GTM-PR2H3P77` y decidir un solo `page_view` (enhanced measurement **o** el `useEffect` de `GoogleAnalytics.tsx`).
+3. Luego Fase 1 (informes Spain) cuando el hit de prueba aparezca en tiempo real.
