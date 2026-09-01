@@ -272,8 +272,8 @@ Responde con la información explícita del texto o audio.
 
 Completa con las palabras exactas del texto o audio.
 
-6. Complete: It was the introduction ___ needed revision.
-7. Complete: It was Maya ___ suggested an outline.
+6. Completa: It was the introduction ___ needed revision.
+7. Completa: It was Maya ___ suggested an outline.
 8. What did the student place after the methodology?
 9. Which three source practices are mentioned?
 10. When was the revised draft submitted?
@@ -293,9 +293,9 @@ Completa con las palabras exactas del texto o audio.
 
 Elige, explica u ordena usando la evidencia presentada.
 
-11. Choose: the first cleft focuses a person / section.
-12. Choose: *What the evidence showed was...* is an it-cleft / what-cleft.
-13. Put in order: first draft — new outline — limitations — Friday submission.
+11. Elige: the first cleft focuses a person / section.
+12. Elige: *What the evidence showed was...* is an it-cleft / what-cleft.
+13. Ordena: first draft — new outline — limitations — Friday submission.
 14. Was length the feature that impressed the professor?
 15. Why did the introduction need revision?
 
@@ -352,9 +352,9 @@ Responde con la información explícita del texto o audio.
 
 Completa con las palabras exactas del texto o audio.
 
-6. Complete: What the table shows ___ a gradual decline.
-7. Complete: It was Dr Lewis ___ collected the data.
-8. Complete: What I want you to do ___ revise the outline.
+6. Completa: What the table shows ___ a gradual decline.
+7. Completa: It was Dr Lewis ___ collected the data.
+8. Completa: What I want you to do ___ revise the outline.
 9. Where should the student cite Dr Lewis?
 10. What writing skill impressed the professor?
 
@@ -373,9 +373,9 @@ Completa con las palabras exactas del texto o audio.
 
 Elige, explica u ordena usando la evidencia presentada.
 
-11. Choose: *not the results* contrasts person / section.
-12. Choose: *It wasn't until the final page* signals early / late.
-13. Put in order: outline — introduction — evidence check — Monday submission.
+11. Elige: *not the results* contrasts person / section.
+12. Elige: *It wasn't until the final page* signals early / late.
+13. Ordena: outline — introduction — evidence check — Monday submission.
 14. Did the commentary describe the table accurately?
 15. Which three criteria should the student preserve?
 

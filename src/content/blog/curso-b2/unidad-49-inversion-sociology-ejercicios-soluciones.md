@@ -116,7 +116,7 @@ Decide en qué cláusula ocurre la inversión y comprueba si *only* modifica cir
    Opciones: *Not only did demographics change, but identity did too. · Not only demographics changed, but identity too.*
 9. Women gained the vote only in that decade.
    Opciones: *Not until that decade did women gain the vote. · Not until did that decade women gained.*
-10. Choose the sentence with no inversion.
+10. Elige la oración sin inversión.
    Opciones: *Only researchers understood the table. · Only then researchers understood. · Never society had changed.*
 
 <details>
@@ -138,9 +138,9 @@ Forma las parejas fijas y distribuye Past Perfect y Past Simple.
    Opciones: *Hardly had the programme ended when new trends emerged. · Hardly did the programme end than trends emerged.*
 12. Broadband arrived; remote work increased immediately.
    Opciones: *No sooner had broadband arrived than remote work increased. · No sooner broadband arrived when work increased.*
-13. Complete: Scarcely ___ the census begun ___ the system failed.
+13. Completa: Scarcely ___ the census begun ___ the system failed.
    Opciones: *had / when · did / than · has / that*
-14. Choose the correct pair.
+14. Elige la pareja correcta.
    Opciones: *Hardly...when · Hardly...than · No sooner...when*
 15. Corrige: *No sooner had the survey ended when analysts published the data.*
 
@@ -273,9 +273,9 @@ Responde con la información explícita del texto o audio.
 
 Completa con las palabras exactas del texto o audio.
 
-6. Complete: Never before ___ Bellford changed so rapidly.
-7. Complete: Only after the census appeared ___ researchers identify the scale.
-8. Complete the pair: Hardly... ___; No sooner... ___.
+6. Completa: Never before ___ Bellford changed so rapidly.
+7. Completa: Only after the census appeared ___ researchers identify the scale.
+8. Completa la pareja: Hardly... ___; No sooner... ___.
 9. What two processes are shaping identity?
 10. What must figures not be used to do?
 
@@ -294,9 +294,9 @@ Completa con las palabras exactas del texto o audio.
 
 Elige, explica u ordena usando la evidencia presentada.
 
-11. Choose: *Only after...did researchers identify* inverts subordinate / main clause.
-12. Choose: *Only by interviewing* expresses person / method.
-13. Put in order: rail line — migration — census — interviews.
+11. Elige: *Only after...did researchers identify* inverts subordinate / main clause.
+12. Elige: *Only by interviewing* expresses person / method.
+13. Ordena: rail line — migration — census — interviews.
 14. Does the report attribute change to one cause?
 15. Why is *Never before had Bellford changed* not a question?
 
@@ -353,9 +353,9 @@ Responde con la información explícita del texto o audio.
 
 Completa con las palabras exactas del texto o audio.
 
-6. Complete: Rarely ___ census figures tell the whole story.
-7. Complete: Only after comparison ___ researchers recognise the gap.
-8. Complete: Not only ___ younger residents use services...
+6. Completa: Rarely ___ census figures tell the whole story.
+7. Completa: Only after comparison ___ researchers recognise the gap.
+8. Completa: Not only ___ younger residents use services...
 9. What programme did the council launch?
 10. What two evidence sources should researchers combine?
 
@@ -374,9 +374,9 @@ Completa con las palabras exactas del texto o audio.
 
 Elige, explica u ordena usando la evidencia presentada.
 
-11. Choose: *Hardly...when* describes immediate / distant events.
-12. Choose: *Never should a survey be used* expresses caution / permission.
-13. Put in order: comparison — generation gap — programme — volunteer support.
+11. Elige: *Hardly...when* describes immediate / distant events.
+12. Elige: *Never should a survey be used* expresses caution / permission.
+13. Ordena: comparison — generation gap — programme — volunteer support.
 14. Can one survey define an entire community?
 15. Which three themes interact?
 

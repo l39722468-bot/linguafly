@@ -139,7 +139,7 @@ Clasifica los tiempos antes de elegir; la pista temporal decide si hay mezcla.
    Opciones: *would be · would have been then · is*
 13. If he were more resilient, he ___ after last year's setback.
    Opciones: *might have recovered · might recover yesterday · had recovered*
-14. Choose the third conditional.
+14. Elige el tercer condicional.
    Opciones: *If I had known, I would have called. · If I had trained, I would be calmer now. · If I were calmer, I would have spoken.*
 15. Corrige el participio: *If they had knew, they could have chose differently.*
 
@@ -272,8 +272,8 @@ Responde con la información explícita del texto o audio.
 
 Completa con las palabras exactas del texto o audio.
 
-6. Complete: If he had recognised the signs, he ___ more confident today.
-7. Complete: If he were more patient, he ___ more carefully.
+6. Completa: If he had recognised the signs, he ___ more confident today.
+7. Completa: If he were more patient, he ___ more carefully.
 8. What might Daniel still avoid if his colleague had dismissed him?
 9. What past action could have helped several employees?
 10. Which two present problems follow his earlier choices?
@@ -293,9 +293,9 @@ Completa con las palabras exactas del texto o audio.
 
 Elige, explica u ordena usando la evidencia presentada.
 
-11. Choose: *had recognised / would feel* is past→present / past→past.
-12. Choose: *were more patient / would have listened* is present→past / past→present.
-13. Put in order: ignored stress — colleague listened — professional advice — coping strategies.
+11. Elige: *had recognised / would feel* is past→present / past→past.
+12. Elige: *were more patient / would have listened* is present→past / past→present.
+13. Ordena: ignored stress — colleague listened — professional advice — coping strategies.
 14. Does the text diagnose Daniel with a disorder?
 15. Why is *could have received* not a present result?
 
@@ -352,9 +352,9 @@ Responde con la información explícita del texto o audio.
 
 Completa con las palabras exactas del texto o audio.
 
-6. Complete: If people had learned strategies, they ___ stress better today.
-7. Complete: If Maya were less aware, she ___ the mistake.
-8. Complete: If the manager had dismissed her, she ___ pressure now.
+6. Completa: If people had learned strategies, they ___ stress better today.
+7. Completa: If Maya were less aware, she ___ the mistake.
+8. Completa: If the manager had dismissed her, she ___ pressure now.
 9. What did the manager encourage Maya to do?
 10. What might have increased if Maya had coped alone?
 
@@ -373,9 +373,9 @@ Completa con las palabras exactas del texto o audio.
 
 Elige, explica u ordena usando la evidencia presentada.
 
-11. Choose: *were less aware / might have repeated* is present→past / past→present.
-12. Choose: *had dismissed / could be experiencing* is mixed / third conditional.
-13. Put in order: manager's empathy — help — coping support — changed beliefs.
+11. Elige: *were less aware / might have repeated* is present→past / past→present.
+12. Elige: *had dismissed / could be experiencing* is mixed / third conditional.
+13. Ordena: manager's empathy — help — coping support — changed beliefs.
 14. Does a social network replace professional care?
 15. Which two psychological skills are explicit?
 

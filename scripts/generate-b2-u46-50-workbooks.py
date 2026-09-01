@@ -10,6 +10,7 @@ from __future__ import annotations
 import importlib.util
 from pathlib import Path
 import re
+import sys
 
 from gtts import gTTS
 
@@ -17,6 +18,7 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "src/content/blog/curso-b2"
 DATE = "2026-09-01"
 HUB = "ingles-b2"
+sys.dont_write_bytecode = True
 
 
 def load_pattern():
@@ -905,6 +907,20 @@ def validate_source_data() -> None:
 
 def render_unit(unit: int) -> str:
     content = PATTERN.render_unit(unit)
+    directive_replacements = {
+        "Complete:": "Completa:",
+        "Choose:": "Elige:",
+        "Put in order:": "Ordena:",
+        "Choose the third conditional.": "Elige el tercer condicional.",
+        "Choose the strongest call to action.": "Elige el llamamiento más fuerte.",
+        "Choose the sentence with no inversion.": "Elige la oración sin inversión.",
+        "Choose the correct pair.": "Elige la pareja correcta.",
+        "Complete the anterior report:": "Completa el reporte anterior:",
+        "Complete the pair:": "Completa la pareja:",
+        "Name four unit families in the text.": "Nombra cuatro familias de unidades presentes en el texto.",
+    }
+    for english, spanish in directive_replacements.items():
+        content = content.replace(english, spanish)
     if unit == 50:
         content = content.replace(
             "3. Continúa con [](/blog/curso-b2/).",

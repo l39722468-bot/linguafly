@@ -90,7 +90,7 @@ Clasifica la función y recupera la estructura completa.
 3. The workshop is optional; you ___ attend.
    Opciones: *don't have to · mustn't · can't*
 4. Corrige: *The tutor asked we to cite the source.*
-5. Complete the anterior report: The scientist is reported ___.
+5. Completa el reporte anterior: The scientist is reported ___.
    Opciones: *to have discovered the pattern · to discover yesterday · that discovered*
 
 <details>
@@ -273,9 +273,9 @@ Responde con la información explícita del texto o audio.
 
 Completa con las palabras exactas del texto o audio.
 
-6. Complete: The programme is believed ___ engagement.
-7. Complete: If the university had invested, more learners ___ broadband now.
-8. Complete: It was the interviews ___ revealed the connection.
+6. Completa: The programme is believed ___ engagement.
+7. Completa: If the university had invested, more learners ___ broadband now.
+8. Completa: It was the interviews ___ revealed the connection.
 9. What did the lecturer suggest?
 10. What did the advisor urge teachers to provide?
 
@@ -294,11 +294,11 @@ Completa con las palabras exactas del texto o audio.
 
 Elige, explica u ordena usando la evidencia presentada.
 
-11. Choose: *will have completed* belongs to U44 / U45.
-12. Choose: *might influence* is certainty / possibility.
-13. Put in order: investment gap — project — interviews — independent analysis.
+11. Elige: *will have completed* belongs to U44 / U45.
+12. Elige: *might influence* is certainty / possibility.
+13. Ordena: investment gap — project — interviews — independent analysis.
 14. Why does the team avoid the word *breakthrough*?
-15. Name four unit families in the text.
+15. Nombra cuatro familias de unidades presentes en el texto.
 
 <details>
 <summary>Ver solución</summary>
@@ -353,9 +353,9 @@ Responde con la información explícita del texto o audio.
 
 Completa con las palabras exactas del texto o audio.
 
-6. Complete: By Friday, you ___ nine families.
-7. Complete: If I had known, I ___ them earlier.
-8. Complete: It was the students ___ suggested the tasks.
+6. Completa: By Friday, you ___ nine families.
+7. Completa: If I had known, I ___ them earlier.
+8. Completa: It was the students ___ suggested the tasks.
 9. What did the team insist every model show?
 10. What has not made confidence grow?
 
@@ -374,9 +374,9 @@ Completa con las palabras exactas del texto o audio.
 
 Elige, explica u ordena usando la evidencia presentada.
 
-11. Choose: *may be reported* expresses passive / obligation.
-12. Choose: *must support* expresses requirement / deduction.
-13. Put in order: classify clue — complete chain — correct error — transfer.
+11. Elige: *may be reported* expresses passive / obligation.
+12. Elige: *must support* expresses requirement / deduction.
+13. Ordena: classify clue — complete chain — correct error — transfer.
 14. Does Dr Lee recommend complexity for its own sake?
 15. What three final actions does Dr Lee prescribe?
 

@@ -139,7 +139,7 @@ Identifica a la persona que debe actuar y usa pronombre objeto cuando correspond
    Opciones: *us to measure · we to measure · us measuring*
 13. The guide urged students ___ passwords.
    Opciones: *not to share · to not sharing · not share*
-14. Choose the strongest call to action.
+14. Elige el llamamiento más fuerte.
    Opciones: *The ministry urged schools to act. · The ministry suggested acting. · The ministry mentioned action.*
 15. Corrige: *The advisor urged they to attend the webinar.*
 
@@ -272,9 +272,9 @@ Responde con la información explícita del texto o audio.
 
 Completa con las palabras exactas del texto o audio.
 
-6. Complete: Teachers suggested ___ short videos.
-7. Complete: The head insisted ___ lending tablets.
-8. Complete: The advisor urged the school ___ outcomes.
+6. Completa: Teachers suggested ___ short videos.
+7. Completa: The head insisted ___ lending tablets.
+8. Completa: The advisor urged the school ___ outcomes.
 9. What kind of feedback should teachers provide?
 10. What should staff not treat as evidence of innovation?
 
@@ -293,9 +293,9 @@ Completa con las palabras exactas del texto o audio.
 
 Elige, explica u ordena usando la evidencia presentada.
 
-11. Choose: *recommended using* contains gerund / infinitive.
-12. Choose: *recommended that teachers provide* names / omits the actor.
-13. Put in order: videos — family support — outcome measurement — evaluation.
+11. Elige: *recommended using* contains gerund / infinitive.
+12. Elige: *recommended that teachers provide* names / omits the actor.
+13. Ordena: videos — family support — outcome measurement — evaluation.
 14. Did every student prefer the new model without reservation?
 15. What balanced model did the team suggest?
 
@@ -352,9 +352,9 @@ Responde con la información explícita del texto o audio.
 
 Completa con las palabras exactas del texto o audio.
 
-6. Complete: Teachers suggested ___ gamification.
-7. Complete: The report recommended that the school ___ outcomes.
-8. Complete: The principal insisted ___ providing time.
+6. Completa: Teachers suggested ___ gamification.
+7. Completa: The report recommended that the school ___ outcomes.
+8. Completa: The principal insisted ___ providing time.
 9. What did parents suggest offering?
 10. What did students want to preserve?
 
@@ -373,9 +373,9 @@ Completa con las palabras exactas del texto o audio.
 
 Elige, explica u ordena usando la evidencia presentada.
 
-11. Choose: *insisted that every teacher attend* uses base / third-person -s.
-12. Choose: *urged the team to protect* includes / omits an object.
-13. Put in order: gamification proposal — outcomes — training — student feedback.
+11. Elige: *insisted that every teacher attend* uses base / third-person -s.
+12. Elige: *urged the team to protect* includes / omits an object.
+13. Ordena: gamification proposal — outcomes — training — student feedback.
 14. Why should the webinar be recorded?
 15. What warning qualifies the proposals?
 
