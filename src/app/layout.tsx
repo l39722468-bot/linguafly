@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import { OrganizationSchema, WebsiteSchema } from "./schema";
+import GoogleConsentMode from "@/components/GoogleConsentMode";
+import GoogleTag from "@/components/GoogleTag";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import MatomoAnalytics from "@/components/MatomoAnalytics";
 import Cookiebot from "@/components/Cookiebot";
@@ -90,19 +92,14 @@ export default function RootLayout({
   return (
     <html lang="es" className="scroll-smooth" suppressHydrationWarning>
       <head>
+        {/* Consent Mode (no es una etiqueta Google) y, a continuación, UNA sola etiqueta gtag para todo el sitio. */}
+        <GoogleConsentMode />
+        <GoogleTag />
         <InMobiChoiceConsent />
         <UspapiLocator />
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-PR2H3P77');`,
-          }}
-          data-cookieconsent="statistics"
-        />
-        {/* Preconnect críticos: imágenes, fonts, Cookiebot */}
+        {/* Preconnect críticos: imágenes, fonts, Cookiebot, gtag */}
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://images.pexels.com" />
         <link rel="dns-prefetch" href="https://images.pexels.com" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -132,14 +129,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <CookiebotBannerVisibility />
         <ConsentGatedAdSense />
         <DeferredMonetagAd />
-        <noscript>
-          <iframe
-            src="https://www.googletagmanager.com/ns.html?id=GTM-PR2H3P77"
-            height="0"
-            width="0"
-            style={{ display: "none", visibility: "hidden" }}
-          />
-        </noscript>
         {children}
         {/* Scripts deferidos: no bloquean first paint */}
         <GoogleAnalytics />

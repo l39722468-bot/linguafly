@@ -1,7 +1,20 @@
 // Google Analytics 4 Event Tracking
-// Focus English - España
+// Linguafly — linguafly.app, zona Madrid, EUR.
+// Override: NEXT_PUBLIC_GA_MEASUREMENT_ID. Cadena vacía desactiva el tag.
 
-export const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+export const DEFAULT_GA_MEASUREMENT_ID = 'G-845LV77ZG9';
+export const LEGACY_GA_MEASUREMENT_ID = 'G-TNTG3MJ3TL';
+
+export function getGaTrackingId(): string | undefined {
+  const fromEnv = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
+  if (fromEnv === '') return undefined;
+  if (!fromEnv || fromEnv === LEGACY_GA_MEASUREMENT_ID) {
+    return DEFAULT_GA_MEASUREMENT_ID;
+  }
+  return fromEnv;
+}
+
+export const GA_TRACKING_ID = getGaTrackingId();
 
 /**
  * Devuelve el grupo de contenido al que pertenece una ruta.
@@ -40,7 +53,7 @@ export function getContentGroup(pathname: string): string {
  * Llama esto en cada cambio de ruta SPA para evitar "(not set)" en los informes.
  */
 export const pageview = (url: string, title?: string) => {
-  if (typeof window !== 'undefined' && window.gtag && GA_TRACKING_ID) {
+  if (typeof window !== 'undefined' && window.gtag && getGaTrackingId()) {
     const pageTitle = title || document.title;
     const pageLocation = window.location.origin + url;
     const contentGroup = getContentGroup(url);
@@ -251,14 +264,10 @@ export const trackScrollDepth = (depth: number, page: string) => {
   gaEvent('scroll_depth', { scroll_percent: depth, article_slug: page });
 };
 
-// TypeScript types
 declare global {
   interface Window {
-    gtag: (
-      command: string,
-      targetId: string,
-      config?: Record<string, any>
-    ) => void;
+    gtag: (...args: unknown[]) => void;
+    dataLayer?: unknown[];
     _paq?: Array<unknown[]>;
   }
 }
