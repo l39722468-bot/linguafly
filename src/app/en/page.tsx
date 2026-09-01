@@ -3,7 +3,7 @@ import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import { EnHomeBelowFold } from "./EnHomeBelowFold";
 import { ENGLISH_HOME_A1_HUB, ENGLISH_HOME_UNIT1, getSpanishCourseHomeArticles } from "@/lib/english-home";
-import { HOME_PATHS } from "@/lib/site-locales";
+import { HomePageSwitcher } from "@/components/sections/HomePageSwitcher";
 
 const Footer = dynamic(() => import("@/components/sections/Footer").then((m) => ({ default: m.Footer })), {
   ssr: true,
@@ -30,15 +30,7 @@ export default function EnglishHomePage() {
                 </span>
               </div>
             </div>
-            <p className="text-center mb-8">
-              <Link
-                href={HOME_PATHS.es}
-                hrefLang="es"
-                className="inline-flex items-center gap-2 text-sm font-bold text-coral-800 bg-coral-50 hover:bg-coral-100 border border-coral-200 px-4 py-2 rounded-full transition-colors"
-              >
-                ¿Hablas español? Aprende inglés aquí →
-              </Link>
-            </p>
+            <HomePageSwitcher locale="en" />
 
             <div className="text-center mb-12">
               <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold mb-6 leading-tight text-gray-900">

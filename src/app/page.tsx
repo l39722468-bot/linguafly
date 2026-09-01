@@ -4,7 +4,8 @@ import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import { Metadata } from "next";
 import { getBlogArticles } from "@/lib/blog";
-import { HOME_PATHS, isSpanishCourseCategory } from "@/lib/site-locales";
+import { isSpanishCourseCategory } from "@/lib/site-locales";
+import { HomePageSwitcher } from "@/components/sections/HomePageSwitcher";
 import { HomeBelowFold } from "./HomeBelowFold";
 
 const Footer = dynamic(() => import("@/components/sections/Footer").then((m) => ({ default: m.Footer })), {
@@ -57,15 +58,7 @@ export default function HomePage() {
                 </span>
               </div>
             </div>
-            <p className="text-center mb-8">
-              <Link
-                href={HOME_PATHS.en}
-                hrefLang="en"
-                className="inline-flex items-center gap-2 text-sm font-bold text-teal-800 bg-teal-50 hover:bg-teal-100 border border-teal-200 px-4 py-2 rounded-full transition-colors"
-              >
-                English speakers: learn Spanish here →
-              </Link>
-            </p>
+            <HomePageSwitcher locale="es" />
 
             {/* Main Heading */}
             <div className="text-center mb-12">
