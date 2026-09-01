@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-09-01 (40 artículos de teoría y 40 cuadernos publicados; Módulo 4 completo)
+**Última actualización:** 2026-09-01 (45 artículos de teoría y 40 cuadernos publicados; Módulo 4 completo y Módulo 5 iniciado)
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -15,8 +15,8 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 40 |
-| Artículos dedicados pendientes | 20 |
+| Artículos dedicados publicados | 45 |
+| Artículos dedicados pendientes | 15 |
 | Cuadernos ejercicios+soluciones | 40 |
 
 ---
@@ -167,6 +167,27 @@ Cuadernos M4 (U36–40):
 
 ---
 
-## Módulos 5–6 (U41–60)
+## Módulo 5: Education, Science & Advanced Structures (U41–50)
 
-Pendientes. Ver [planificación B2](./curso-b2-planificacion.md).
+### U41–45 — Education, Scientific Reporting, University, Health & Space
+
+| U | Título | Gramática / tema | Teoría | Cuaderno |
+|---|---|---|---|---|
+| 41 | Education Systems & Learning | gerunds and infinitives; education & learning | ✅ | ❌ |
+| 42 | Scientific Discoveries | passive reporting structures; science & research | ✅ | ❌ |
+| 43 | University Life & Academics | modals of obligation and advice; university life | ✅ | ❌ |
+| 44 | Medical Research & Health | Future Perfect; medical research & health | ✅ | ❌ |
+| 45 | Space Exploration | modal deduction; space & astronomy | ✅ | ❌ |
+
+Teoría M5 (U41–45):
+- [U41](/blog/curso-b2/unidad-41-gerunds-infinitives-education) · [U42](/blog/curso-b2/unidad-42-passive-reporting-science) · [U43](/blog/curso-b2/unidad-43-modals-obligation-university) · [U44](/blog/curso-b2/unidad-44-future-perfect-medical) · [U45](/blog/curso-b2/unidad-45-modal-deduction-space)
+
+**U45 abre el bloque temático de Space Exploration; no es una unidad de repaso.**
+
+Cuadernos U41–45 pendientes de publicación. Ver [planificación B2](./curso-b2-planificacion.md).
+
+---
+
+## Módulo 6 (U51–60)
+
+Pendiente. Ver [planificación B2](./curso-b2-planificacion.md).

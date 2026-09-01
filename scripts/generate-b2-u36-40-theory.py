@@ -1908,6 +1908,7 @@ El campo **Sport extended** incluye **tournament, injury, marathon, serve, athle
                     "unidad-37-auxiliaries-business",
                     "unidad-38-phrasal-verbs-5-run-set-take-leisure",
                     "unidad-39-phrasal-verbs-6-turn-work-sport",
+                    "unidad-41-gerunds-infinitives-education",
                     HUB,
                 ],
                 faqs=[
@@ -1954,16 +1955,18 @@ Esta guía funciona como diagnóstico y producción. Incluye los inventarios rea
 | **U38** | RUN · SET · TAKE + complemento |
 | **U39** | TURN · WORK + resultado o proceso |
 | vocabulario | Culture · Business · Leisure · Sport |""",
-                next_block="""Has completado las Unidades 36–40 y la teoría del Módulo 4. Continúa en la **Unidad 41 del curso B2** y conserva este diagnóstico para repasar solo la familia que falle.
+                next_block="""Has completado las Unidades 36–40 y la teoría del Módulo 4. Continúa con la **Unidad 41: Gerunds, Infinitives + Education** y conserva este diagnóstico para repasar solo la familia que falle.
 
 - [Ejercicios U40 con soluciones](/blog/curso-b2/unidad-40-repaso-36-39-ejercicios-soluciones)
 - [Unidad 40 del curso](/curso-b2/unit-40)
-- [Continuar con Unidad 41](/curso-b2/unit-41)""",
+- [U41 teoría: Gerunds, Infinitives + Education](/blog/curso-b2/unidad-41-gerunds-infinitives-education)
+- [Unidad 41 del curso](/curso-b2/unit-41)""",
                 guides=[
                     "[U36 Used to, Would + Culture](/blog/curso-b2/unidad-36-used-to-would-culture)",
                     "[U37 Auxiliaries + Business](/blog/curso-b2/unidad-37-auxiliaries-business)",
                     "[U38 RUN, SET, TAKE + Leisure](/blog/curso-b2/unidad-38-phrasal-verbs-5-run-set-take-leisure)",
                     "[U39 TURN, WORK + Sport](/blog/curso-b2/unidad-39-phrasal-verbs-6-turn-work-sport)",
+                    "[U41 Gerunds, Infinitives + Education](/blog/curso-b2/unidad-41-gerunds-infinitives-education)",
                     "[Inglés B2](/blog/metodos/ingles-b2)",
                 ],
                 sources="""- CEFR/MCER — Nivel B2: https://www.coe.int/en/web/common-european-framework-reference-languages
