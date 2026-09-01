@@ -75,6 +75,11 @@ describe('getGaTrackingId', () => {
     expect(getGaTrackingId()).toBe('G-ZNL3VGHK2E');
   });
 
+  it('ignores the truncated Linguafly id G-ZNL3VGHK2 (missing trailing E)', () => {
+    process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = 'G-ZNL3VGHK2';
+    expect(getGaTrackingId()).toBe('G-ZNL3VGHK2E');
+  });
+
     it('disables tracking when the env id is an empty string', () => {
       process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID = '';
       expect(getGaTrackingId()).toBeUndefined();

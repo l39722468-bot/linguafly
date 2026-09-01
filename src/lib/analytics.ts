@@ -6,10 +6,20 @@ import { isGaMeasurementId } from '@/lib/google-consent-mode';
 
 export const DEFAULT_GA_MEASUREMENT_ID = 'G-ZNL3VGHK2E';
 export const LEGACY_GA_MEASUREMENT_ID = 'G-TNTG3MJ3TL';
+/** Typo seen in Cloudflare build env: the real Linguafly ID missing the trailing E. */
+export const TRUNCATED_GA_MEASUREMENT_ID = 'G-ZNL3VGHK2';
 const SUPERSEDED_GA_MEASUREMENT_IDS = new Set([
   LEGACY_GA_MEASUREMENT_ID,
   'G-845LV77ZG9',
+  TRUNCATED_GA_MEASUREMENT_ID,
 ]);
+
+function isTruncatedDefaultGaId(fromEnv: string): boolean {
+  return (
+    fromEnv !== DEFAULT_GA_MEASUREMENT_ID &&
+    DEFAULT_GA_MEASUREMENT_ID.startsWith(fromEnv)
+  );
+}
 
 export function getGaTrackingId(): string | undefined {
   const fromEnv = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID?.trim();
@@ -19,6 +29,7 @@ export function getGaTrackingId(): string | undefined {
     fromEnv === "undefined" ||
     fromEnv === "null" ||
     SUPERSEDED_GA_MEASUREMENT_IDS.has(fromEnv) ||
+    isTruncatedDefaultGaId(fromEnv) ||
     !isGaMeasurementId(fromEnv)
   ) {
     return DEFAULT_GA_MEASUREMENT_ID;
