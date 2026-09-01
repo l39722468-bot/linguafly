@@ -59,7 +59,10 @@ export default function EnglishHomePage() {
               </p>
 
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-                <Link href={ENGLISH_HOME_UNIT1} className="cta-primary inline-flex items-center gap-2">
+                <Link
+                  href={ENGLISH_HOME_UNIT1}
+                  className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-teal-700 text-white font-black text-lg hover:bg-teal-800 hover:shadow-lg hover:scale-105 transition-all"
+                >
                   Start A1 Unit 1
                 </Link>
                 <Link
@@ -70,7 +73,7 @@ export default function EnglishHomePage() {
                 </Link>
                 <Link
                   href="#levels"
-                  className="inline-flex items-center gap-2 px-8 py-4 rounded-xl border-2 border-white/20 bg-white/10 text-white font-black text-lg hover:bg-white hover:text-teal-700 transition-all backdrop-blur-sm"
+                  className="inline-flex items-center gap-2 px-8 py-4 rounded-xl border-2 border-teal-200 bg-white text-teal-800 font-black text-lg hover:bg-teal-50 transition-all"
                 >
                   See all levels →
                 </Link>
