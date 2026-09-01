@@ -10,8 +10,8 @@ Plan de producción para un **curso completo de español para angloparlantes**, 
 **Temario completo (cobertura inventario a unidad):** [curso-espanol-cobertura-pcic.md](./curso-espanol-cobertura-pcic.md)  
 **Modelo de producto:** el mismo que el curso de inglés actual (`curso-a1` … `curso-c2`): 60 unidades por nivel × 2 artículos = **720 artículos**.
 
-**Estado:** en producción (1 artículo de teoría A1 U1 publicado; 719 restantes).  
-**Última actualización:** 2026-09-01 (primer artículo: Unidad 1 teoría)
+**Estado:** en producción (par A1 U1 teoría + cuaderno publicados; 718 restantes).  
+**Última actualización:** 2026-09-01 (Unidad 1: teoría y ejercicios)
 
 ---
 
