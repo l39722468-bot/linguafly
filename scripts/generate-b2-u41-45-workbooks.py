@@ -8,6 +8,7 @@ explicit models for writing and speaking.
 from __future__ import annotations
 
 from pathlib import Path
+import re
 
 from gtts import gTTS
 
@@ -740,10 +741,10 @@ WRITING = {
         ("Elige pronombre y forma: *The tutor asked (we/us) (revise/to revise).*", "The tutor asked **us to revise**."),
         ("Contrasta *remember to upload / remember uploading* en dos frases.", "Modelo: I **remembered to upload** the essay before Friday. I **remember uploading** it from the library."),
         ("Completa ambos sentidos: *The lecturer stopped ___; then she stopped ___ a question.*", "The lecturer stopped **speaking**; then she stopped **to answer** a question."),
-        ("Escribe 35–45 palabras con *avoid, consider, blended learning*.", "Modelo: Students who use **blended learning** can **avoid commuting** every day. They should **consider attending** weekly seminars, however, because discussion and immediate feedback improve their understanding of difficult topics."),
-        ("Redacta 35–45 palabras con *ask us to, allow us to, expect us to*.", "Modelo: Our tutors **ask us to submit** assignments online. They **allow us to use** digital sources, but they **expect us to cite** every author accurately before the due date."),
-        ("Escribe 45–55 palabras con *stop doing, stop to do, try doing*.", "Modelo: When my old routine stopped **working**, I stopped **to speak** to my tutor. She suggested that I try **studying** in shorter sessions. The method improved my concentration, so I stopped **leaving** every assignment until the final evening."),
-        ("Escribe 50–60 palabras con *curriculum, assessment, student engagement, pass with flying colours*.", "Modelo: The new **curriculum** combines seminars with online projects. Continuous **assessment** gives learners frequent feedback, while group tasks improve **student engagement**. Students still take a final exam, but regular practice helps them understand the material and **pass with flying colours**."),
+        ("Escribe 35–45 palabras con *avoid, consider, blended learning*.", "Modelo: Students who use **blended learning** can **avoid commuting** every day. They should **consider attending** weekly seminars, however, because discussion and immediate feedback improve their understanding of difficult topics and help them apply ideas in practical projects."),
+        ("Redacta 35–45 palabras con *ask us to, allow us to, expect us to*.", "Modelo: Our tutors **ask us to submit** assignments online. They **allow us to use** digital sources, but they **expect us to cite** every author accurately before the due date and include a complete reference list with each essay."),
+        ("Escribe 45–55 palabras con *stop doing, stop to do, try doing*.", "Modelo: When my old routine stopped **working**, I stopped **to speak** to my tutor. She suggested that I try **studying** in shorter sessions. The method improved my concentration, so I stopped **leaving** every assignment until the final evening and started reviewing my notes after each seminar instead."),
+        ("Escribe 50–60 palabras con *curriculum, assessment, student engagement, pass with flying colours*.", "Modelo: The new **curriculum** combines seminars with online projects. Continuous **assessment** gives learners frequent feedback, while group tasks improve **student engagement**. Students still take a final exam, but regular practice helps them understand the material and **pass with flying colours** without depending only on one result at the end of term."),
         ("Escribe 100–120 palabras sobre un curso híbrido. Incluye cuatro verbos + *-ing*, cuatro + infinitivo, tres patrones con objeto y dos contrastes de significado.", "Modelo: I **decided to take** a blended learning course because I **enjoy studying** independently and wanted to **avoid commuting** daily. The curriculum **allows students to watch** lectures online, but tutors **ask us to attend** a weekly seminar and **expect us to submit** each assignment by Friday. I **hope to improve** my academic writing and have **considered joining** an extra tutorial. Last week, I **remembered to upload** my essay, and I remember **receiving** detailed feedback. When my first plan stopped **working**, I stopped **to ask** for help. My tutor suggested trying **studying** before breakfast. I **expect to finish** the course confidently and pass the final assessment with flying colours."),
     ],
     42: [
@@ -752,10 +753,10 @@ WRITING = {
         ("Transforma el hecho anterior: *People report that Ana made a discovery.*", "**Ana is reported to have made a discovery.**"),
         ("Pasa a plural: *The finding is thought to be reliable.*", "**The findings are thought to be reliable.**"),
         ("Corrige: *The results are expected to publish soon.*", "The results **are expected to be published** soon."),
-        ("Redacta 35–45 palabras con *It is said that, hypothesis, evidence*.", "Modelo: **It is said that** the new treatment targets a rare disease. Researchers formed a clear **hypothesis**, but they need stronger **evidence** before presenting the early result as reliable."),
-        ("Escribe 35–45 palabras con *is reported to have, breakthrough, findings*.", "Modelo: The lead scientist **is reported to have made** a major **breakthrough**. However, the full **findings** have not passed independent review, so the team describes the result cautiously."),
+        ("Redacta 35–45 palabras con *It is said that, hypothesis, evidence*.", "Modelo: **It is said that** the new treatment targets a rare disease. Researchers formed a clear **hypothesis**, but they need stronger **evidence** before presenting the early result as reliable in an international peer-reviewed medical research journal."),
+        ("Escribe 35–45 palabras con *is reported to have, breakthrough, findings*.", "Modelo: The lead scientist **is reported to have made** a major **breakthrough**. However, the full **findings** have not passed independent review, so the team describes the result cautiously while other laboratories repeat the experiment under controlled conditions."),
         ("Redacta 45–55 palabras contrastando *to be analysing / to have analysed*.", "Modelo: The laboratory **is said to be analysing** the latest samples now, so the process is still under way. A separate team **is believed to have analysed** the earlier data already, which places that action before the present report."),
-        ("Escribe 50–60 palabras con *scientific method, conduct an experiment, clinical trial, publish findings*.", "Modelo: The **scientific method** requires researchers to form a hypothesis and **conduct an experiment** under controlled conditions. If the evidence is promising, they may organise a **clinical trial**. They should **publish the findings** only after careful analysis and review."),
+        ("Escribe 50–60 palabras con *scientific method, conduct an experiment, clinical trial, publish findings*.", "Modelo: The **scientific method** requires researchers to form a hypothesis and **conduct an experiment** under controlled conditions. If the evidence is promising, they may organise a **clinical trial**. They should **publish the findings** only after careful analysis and review. They must also report limitations so other laboratories can reproduce the procedure."),
         ("Escribe 100–120 palabras como noticia científica prudente. Incluye tres marcos con *it*, cuatro con sujeto, dos infinitivos perfectos y ocho términos científicos.", "Modelo: **It is reported that** a university team has developed a possible treatment. The lead researcher **is believed to have formed** the **hypothesis** after examining earlier **findings**. The laboratory **is said to be conducting** a controlled **experiment**, and an independent group **is thought to be checking** the **evidence**. **It is expected that** a **clinical trial** will begin next year. The first study **is estimated to have cost** €3 million. The treatment **is believed to be** safe at the tested dosage, but long-term effects remain unknown. **It is claimed that** the result is a **breakthrough**; however, the researchers call it an **innovation** until they can publish the findings and repeat the experiment."),
     ],
     43: [
@@ -764,10 +765,10 @@ WRITING = {
         ("Contrasta opción y prohibición con *don't have to / mustn't*.", "Modelo: You **don't have to attend** the optional workshop. You **mustn't plagiarise** an assignment."),
         ("Pasa a pasado: *We have to attend every tutorial.*", "We **had to attend** every tutorial."),
         ("Formula la pregunta: *It is necessary for me to carry an ID card?*", "**Do I have to carry an ID card?**"),
-        ("Escribe 35–45 palabras con *must, have to, compulsory*.", "Modelo: Students **must submit** assignments on time and **have to carry** an ID card on campus. Attendance at the Monday lecture is **compulsory**, so everyone needs to arrive before nine."),
-        ("Redacta 35–45 palabras con *should, ought to, supervisor*.", "Modelo: You **should contact** your **supervisor** when a research problem appears. You **ought to send** a clear question before the tutorial so that your supervisor can prepare useful feedback."),
+        ("Escribe 35–45 palabras con *must, have to, compulsory*.", "Modelo: Students **must submit** assignments on time and **have to carry** an ID card on campus. Attendance at the Monday lecture is **compulsory**, so everyone needs to arrive before nine and check the online timetable before entering the lecture hall."),
+        ("Redacta 35–45 palabras con *should, ought to, supervisor*.", "Modelo: You **should contact** your **supervisor** when a research problem appears. You **ought to send** a clear question before the tutorial so that your supervisor can prepare useful feedback and the relevant sources."),
         ("Escribe 45–55 palabras con *don't need to, mustn't, academic misconduct*.", "Modelo: You **don't need to print** digital articles, because the lecturer accepts online notes. However, you **mustn't copy** sentences without a reference. Plagiarism is **academic misconduct**, even when only one paragraph has been taken from another writer."),
-        ("Escribe 50–60 palabras con *lecture, seminar, tutorial, assignment, extension*.", "Modelo: The weekly **lecture** introduces the main topic, and the **seminar** gives students time to discuss it. During a **tutorial**, the tutor checks each **assignment**. If illness prevents a student from meeting the deadline, they should request an **extension**."),
+        ("Escribe 50–60 palabras con *lecture, seminar, tutorial, assignment, extension*.", "Modelo: The weekly **lecture** introduces the main topic, and the **seminar** gives students time to discuss it. During a **tutorial**, the tutor checks each **assignment**. If illness prevents a student from meeting the deadline, they should request an **extension** without lowering the academic standard required for the final submission."),
         ("Escribe 100–120 palabras para estudiantes nuevos. Incluye dos obligaciones, dos necesidades, dos consejos, dos opciones, dos prohibiciones y ocho términos U43.", "Modelo: New students **must attend** orientation and **have to wear** an ID card on **campus**. They **need to submit** each **assignment** before the **deadline** and **need to cite** every source in **academic writing**. You **should attend** the weekly **seminar** and **ought to speak** to your **supervisor** before starting a **dissertation**. You **don't have to wear** formal clothes, and you **don't need to join** the optional Friday **tutorial**. You **mustn't plagiarise** another person's work or invent references; both are **academic misconduct**. Last year, students **had to book** rooms online. Next term, they **will have to reserve** group spaces through the campus system."),
     ],
     44: [
@@ -776,10 +777,10 @@ WRITING = {
         ("Construye la negativa: *The trial / not finish / by May.*", "The trial **won't have finished by May**."),
         ("Completa: *By the time regulators ___ (meet), we ___ (publish) the findings.*", "By the time regulators **meet**, we **will have published** the findings."),
         ("Pasa a pasiva: *The team will have tested the vaccine.*", "**The vaccine will have been tested**."),
-        ("Escribe 35–45 palabras contrastando *by December / until December*.", "Modelo: The research team will have recruited every participant **by December**, so recruitment will be complete then. Follow-up visits will continue **until December**, which means the monitoring activity remains in progress up to that point."),
-        ("Redacta 35–45 palabras con *will have measured, efficacy, side effects*.", "Modelo: By the end of the clinical trial, researchers **will have measured efficacy** in both groups and **will have recorded** all serious **side effects** reported by participants."),
-        ("Escribe 45–55 palabras con una activa y una pasiva en Future Perfect.", "Modelo: By March, epidemiologists **will have analysed** the regional data. By the time the committee meets, the main **findings will have been published** in a medical journal and the results will have been checked independently."),
-        ("Escribe 50–60 palabras con *control group, placebo, dosage, diagnosis, prognosis*.", "Modelo: The **control group** received a **placebo** under the approved protocol. Researchers compared outcomes before selecting a final **dosage**. The findings may support an earlier **diagnosis** and a more accurate **prognosis**, but the study does not promise a cure."),
+        ("Escribe 35–45 palabras contrastando *by December / until December*.", "Modelo: The research team will have recruited every participant **by December**, so recruitment will be complete then. Follow-up visits will continue **until December**, which means the monitoring activity itself remains in progress up to that point."),
+        ("Redacta 35–45 palabras con *will have measured, efficacy, side effects*.", "Modelo: By the end of the clinical trial, researchers **will have measured efficacy** in both groups and **will have recorded** all serious **side effects** reported by participants, then compared outcomes with those from the control group."),
+        ("Escribe 45–55 palabras con una activa y una pasiva en Future Perfect.", "Modelo: By March, epidemiologists **will have analysed** the regional data. By the time the committee meets, the main **findings will have been published** in a medical journal and the results will have been checked independently by a second research team with no role in the original clinical trial or recruitment."),
+        ("Escribe 50–60 palabras con *control group, placebo, dosage, diagnosis, prognosis*.", "Modelo: The **control group** received a **placebo** under the approved protocol. Researchers compared outcomes before selecting a final **dosage**. The findings may support an earlier **diagnosis** and a more accurate **prognosis**, but the study does not promise a cure or guarantee that every participant will make a full recovery immediately after treatment."),
         ("Escribe 100–120 palabras sobre hitos médicos hasta 2030. Incluye ocho futuros perfectos, dos pasivas, cuatro límites y ocho términos U44.", "Modelo: **By 2030**, our programme **will have completed** three **clinical trials** and **will have recruited** 8,000 participants. **By next December**, researchers **will have measured** the treatment's **efficacy** and **will have monitored** every serious **side effect**. The **control group will have received** a **placebo**. **By the time regulators meet**, the team **will have selected** a safe **dosage**, and the main **findings will have been published**. An independent laboratory **will have checked** the evidence. **By the end of the decade**, epidemiologists **will have compared** outcomes across several healthcare systems. The treatment **will have been tested** thoroughly, but researchers will still avoid promising a breakthrough, complete recovery or guaranteed remission."),
     ],
     45: [
@@ -788,10 +789,10 @@ WRITING = {
         ("Construye el descarte pasado: *valid data arrived / mission / fail*.", "Valid data arrived, so the mission **can't have failed**."),
         ("Contrasta *must be analysing / must have analysed*.", "Modelo: The rover **must be analysing** the sample now. It **must have analysed** the earlier sample yesterday."),
         ("Corrige: *The astronauts must have saw the object.*", "The astronauts **must have seen** the object."),
-        ("Escribe 35–45 palabras con *might, could, probe, ice*.", "Modelo: The **probe might have detected** frozen material below the surface. The bright area **could be ice**, but it might also be a reflection from one of the probe's instruments."),
-        ("Redacta 35–45 palabras con *must, can't* y una evidencia para cada deducción.", "Modelo: The signal **must be** from our satellite because its frequency matches exactly. The second object **can't be** that satellite because it is moving in the opposite direction."),
-        ("Escribe 45–55 palabras con *must be + -ing, might have + V3, can't have + V3*.", "Modelo: The rover **must be collecting** data because its instruments are active. It **might have found** a new mineral during the night. Its power system **can't have failed**, since the control centre received a complete file this morning."),
-        ("Escribe 50–60 palabras con *orbit, gravity, observatory, asteroid, launch*.", "Modelo: After the **launch**, an **observatory** tracked the spacecraft as it entered **orbit**. Strong **gravity** changed its path near a planet. A second object might be an **asteroid**, although astronomers need more images before identifying it."),
+        ("Escribe 35–45 palabras con *might, could, probe, ice*.", "Modelo: The **probe might have detected** frozen material below the surface. The bright area **could be ice**, but it might also be a reflection from one of the probe's instruments during its latest surface scan today."),
+        ("Redacta 35–45 palabras con *must, can't* y una evidencia para cada deducción.", "Modelo: The signal **must be** from our satellite because its frequency matches exactly. The second object **can't be** that satellite because it is moving in the opposite direction, according to the latest tracking data from mission control."),
+        ("Escribe 45–55 palabras con *must be + -ing, might have + V3, can't have + V3*.", "Modelo: The rover **must be collecting** data because its instruments are active. It **might have found** a new mineral during the night. Its power system **can't have failed**, since the control centre received a complete file this morning after the probe reached its planned orbit near Mars at the expected time."),
+        ("Escribe 50–60 palabras con *orbit, gravity, observatory, asteroid, launch*.", "Modelo: After the **launch**, an **observatory** tracked the spacecraft as it entered **orbit**. Strong **gravity** changed its path near a planet. A second object might be an **asteroid**, although astronomers need more images before identifying it. Scientists checked the tracking data carefully before proposing either explanation to the mission team."),
         ("Escribe 100–120 palabras sobre datos de una misión. Incluye cuatro conclusiones fuertes, cuatro posibilidades, dos descartes, tres tiempos y ocho términos U45.", "Modelo: The signal **must be** from the Mars **rover** because it matches our frequency. The rover **must be crossing** a crater now, and its camera **must be recording** the surface. It **must have reached** the target area overnight. One bright object **might be** a small **asteroid**, or it **could be** an instrument reflection. The rover **might have detected** ice, and the **probe could have transmitted** a partial image. The fast object **can't be** our **satellite** because it follows the wrong **orbit**. The mission **can't have failed**, since valid data arrived today. Strong **gravity** might be affecting the signal. Astronomers at the **observatory** will analyse the evidence before announcing a discovery."),
     ],
 }
@@ -1125,6 +1126,7 @@ VAGUE_PATTERNS = (
 
 
 def validate_source_data() -> None:
+    model_length_errors = []
     for unit in range(41, 46):
         assert sum(len(group[2]) for group in GRAMMAR[unit]) == 15
         assert len(VOCAB[unit]) == 15
@@ -1132,6 +1134,23 @@ def validate_source_data() -> None:
         assert len(LISTENING_EX[unit]) == 15
         assert len(WRITING[unit]) == 10
         assert len(SPEAKING[unit]) == 5
+        for exercise, (prompt, answer) in enumerate(WRITING[unit], 1):
+            target = re.search(r"(\d+)[–-](\d+) palabras", prompt)
+            if not target:
+                continue
+            minimum, maximum = map(int, target.groups())
+            model = answer.removeprefix("Modelo:")
+            word_count = len(
+                re.findall(
+                    r"[A-Za-zÀ-ÿ0-9€]+(?:['’-][A-Za-zÀ-ÿ0-9€]+)*",
+                    model,
+                )
+            )
+            if not minimum <= word_count <= maximum:
+                model_length_errors.append(
+                    f"U{unit} writing {exercise}: {word_count} not {minimum}–{maximum}"
+                )
+    assert not model_length_errors, "; ".join(model_length_errors)
 
 
 def validate_rendered(unit: int, content: str) -> None:
