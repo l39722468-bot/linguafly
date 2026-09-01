@@ -1626,6 +1626,7 @@ El vocabulario vivo incluye *clinical trial, vaccine, diagnosis, prognosis, find
         "related": [
             "unidad-45-modal-deduction-space-ejercicios-soluciones",
             "unidad-44-future-perfect-medical",
+            "unidad-46-mixed-conditionals-psychology",
             "ingles-b2",
         ],
         "faqs": [
@@ -1657,13 +1658,15 @@ Las formas **modal + be/base**, **modal + be + -ing** y **modal + have + past pa
 | acción en curso | **modal + be + -ing** |
 | conclusión anterior | **modal + have + V3** |
 | descarte anterior | **can't have + V3** |""",
-        "next": """Has iniciado el bloque de Space Exploration. Continúa con la **Unidad 46 del curso B2**, dedicada a Psychology & Human Behavior y mixed conditionals.
+        "next": """Continúa con la **Unidad 46**, dedicada a Psychology & Human Behavior y mixed conditionals.
 
 - [Ejercicios U45 con soluciones](/blog/curso-b2/unidad-45-modal-deduction-space-ejercicios-soluciones)
 - [Unidad 45 del curso](/curso-b2/unit-45)
-- [Continuar con Unidad 46](/curso-b2/unit-46)""",
+- [U46 teoría: Mixed Conditionals + Psychology](/blog/curso-b2/unidad-46-mixed-conditionals-psychology)
+- [Unidad 46 del curso](/curso-b2/unit-46)""",
         "guides": [
             "[U44 Future Perfect + Medical Research](/blog/curso-b2/unidad-44-future-perfect-medical)",
+            "[U46 Mixed Conditionals + Psychology](/blog/curso-b2/unidad-46-mixed-conditionals-psychology)",
             "[Inglés B2](/blog/metodos/ingles-b2)",
         ],
         "sources": COMMON_SOURCES,

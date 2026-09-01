@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-09-01 (45 artículos de teoría y 45 cuadernos publicados; U1–45 completos)
+**Última actualización:** 2026-09-01 (50 artículos de teoría y 45 cuadernos publicados; teoría U1–50 y cuadernos U1–45)
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -15,8 +15,8 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 45 |
-| Artículos dedicados pendientes | 15 |
+| Artículos dedicados publicados | 50 |
+| Artículos dedicados pendientes | 10 |
 | Cuadernos ejercicios+soluciones | 45 |
 
 ---
@@ -188,6 +188,21 @@ Cuadernos M5 (U41–45):
 - [U41](/blog/curso-b2/unidad-41-gerunds-infinitives-education-ejercicios-soluciones) · [U42](/blog/curso-b2/unidad-42-passive-reporting-science-ejercicios-soluciones) · [U43](/blog/curso-b2/unidad-43-modals-obligation-university-ejercicios-soluciones) · [U44](/blog/curso-b2/unidad-44-future-perfect-medical-ejercicios-soluciones) · [U45](/blog/curso-b2/unidad-45-modal-deduction-space-ejercicios-soluciones)
 
 **U41–45 completo (teoría + cuadernos).**
+
+### U46–50 — Psychology, Academic Writing, Teaching Innovation & Sociology
+
+| U | Título | Gramática / tema | Teoría | Cuaderno |
+|---|---|---|---|---|
+| 46 | Psychology & Human Behavior | mixed conditionals; psychology, cognition & emotions | ✅ | ❌ |
+| 47 | Academic Writing & Reports | cleft sentences; essays, reports & sources | ✅ | ❌ |
+| 48 | Innovation in Teaching | reporting verbs; EdTech & pedagogy | ✅ | ❌ |
+| 49 | Sociology & Cultural Shifts | inversion for emphasis; demographics & social change | ✅ | ❌ |
+| 50 | Repaso 41–49 | integración de gramática y vocabulario U41–49 | ✅ | ❌ |
+
+Teoría M5 (U46–50):
+- [U46](/blog/curso-b2/unidad-46-mixed-conditionals-psychology) · [U47](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing) · [U48](/blog/curso-b2/unidad-48-reporting-verbs-teaching) · [U49](/blog/curso-b2/unidad-49-inversion-sociology) · [U50](/blog/curso-b2/unidad-50-repaso-41-49)
+
+**Módulo 5 completo en teoría (U41–50); cuadernos U46–50 pendientes.**
 
 ---
 
