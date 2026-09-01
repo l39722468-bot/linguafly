@@ -1,14 +1,14 @@
+import Script from 'next/script';
 import { buildGoogleConsentDefaultScript } from '@/lib/google-consent-mode';
 
 /**
  * Stub gtag + Consent Mode v2 default (denied).
- * Debe ir al inicio del <head>, antes de gtag.js / anuncios.
+ * beforeInteractive lo deja en el HTML inicial, antes de hidratar Next.
  */
 export default function GoogleConsentMode() {
   return (
-    <script
-      id="google-consent-default"
-      dangerouslySetInnerHTML={{ __html: buildGoogleConsentDefaultScript() }}
-    />
+    <Script id="google-consent-default" strategy="beforeInteractive">
+      {buildGoogleConsentDefaultScript()}
+    </Script>
   );
 }

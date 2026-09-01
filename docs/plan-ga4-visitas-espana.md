@@ -559,15 +559,31 @@ El layout ya declara `gtag('consent','default', { analytics_storage: 'denied', .
 
 ### 13.4 Cortar a producción
 
-Measurement ID Linguafly: **`G-845LV77ZG9`** (gtag.js HTTP 200). El snippet que da Google **no** se añade al layout: `GoogleAnalytics.tsx` ya hace `gtag('config', id)`.
+Measurement ID Linguafly: **`G-845LV77ZG9`**. Una sola etiqueta en el layout raíz (`GoogleTag`, `beforeInteractive`), justo después de Consent Mode.
 
-1. Cloudflare → Worker **linguaflyapp1** → Settings → Variables / Build:
-   - `NEXT_PUBLIC_GA_MEASUREMENT_ID` = `G-845LV77ZG9`
-   - Si la variable sigue siendo `G-TNTG3MJ3TL`, **cámbiala**. `NEXT_PUBLIC_*` se inlina en el build y pisa el default del código.
-2. Redeploy del Worker (`linguaflyapp1`).
-3. Local: `.env.local` con `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-845LV77ZG9`.
-4. Prueba: móvil en España → linguafly.app → GA4 **En tiempo real** (propiedad Linguafly) → usuario en **Spain**. En Red: `gtag/js?id=G-845LV77ZG9` (no `G-TNTG3MJ3TL`, no `GTM-PR2H3P77`).
-5. La propiedad vieja `380786116` / `G-TNTG3MJ3TL` se deja en solo lectura. No borres datos.
+1. Cloudflare → Worker **linguaflyapp1** → Variables de **build**: `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-845LV77ZG9` (el código ignora `G-TNTG3MJ3TL` si sigue ahí).
+2. Tras el deploy: en el navegador, linguafly.app → ver código fuente → debe aparecer `G-845LV77ZG9`.
+3. **No uses el botón «Comprobar instalación» de GA4 mientras Cloudflare desafíe a los bots.** Ese recuadro pide la home desde los servidores de Google; hoy `linguafly.app` responde **403 Managed Challenge** incluso a Googlebot, así que Analytics nunca ve la etiqueta. Ver §13.6.
+4. Comprueba de verdad: **Informes → En tiempo real** (móvil en España) o Chrome DevTools → Red → `gtag/js?id=G-845LV77ZG9`.
+5. La propiedad vieja `G-TNTG3MJ3TL` se deja en solo lectura.
+
+### 13.6 Por qué GA4 «no detecta la etiqueta» (Cloudflare)
+
+Comprobado el 2026-09-01: `https://linguafly.app/` con User-Agent de **Googlebot** y **AdsBot-Google** devuelve `HTTP 403` + `cf-mitigated: challenge` («Just a moment…»). El HTML de la etiqueta no se llega a servir.
+
+En el dashboard de **Cloudflare** (zona `linguafly.app`, no el Worker):
+
+1. **Security → Bots.** Si Bot Fight Mode / Super Bot Fight Mode está en «challenge all», los bots verificados de Google no pasan.
+2. **Security → WAF → Custom rules → Create rule**, por ejemplo:
+   - Nombre: `Allow Google tag verification`
+   - Expresión:
+     ```
+     (cf.bot_management.verified_bot) or (http.user_agent contains "Googlebot") or (http.user_agent contains "AdsBot-Google") or (http.user_agent contains "Google-InspectionTool")
+     ```
+   - Acción: **Skip** (WAF, Rate limiting **y** Bot Fight Mode).
+3. Guarda y espera 1–2 minutos. Vuelve a «Comprobar instalación» en GA4.
+
+Hasta que esa regla exista, el recuadro de Google seguirá en rojo aunque el tag esté bien instalado para usuarios reales.
 
 ### 13.5 Dimensiones personalizadas (mismo día o Fase 1)
 

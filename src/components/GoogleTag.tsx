@@ -1,3 +1,4 @@
+import Script from 'next/script';
 import { DEFAULT_GA_MEASUREMENT_ID } from '@/lib/analytics';
 import {
   buildGoogleTagConfigScript,
@@ -5,22 +6,22 @@ import {
 } from '@/lib/google-consent-mode';
 
 /**
- * Una sola etiqueta Google para todo el sitio (layout raíz, justo tras <head>).
- * No repetir este snippet en páginas hijas.
+ * Una sola etiqueta Google para todo el sitio (layout raíz).
+ * strategy=beforeInteractive: el comprobador y el HTML inicial ven G-845LV77ZG9.
  */
 export default function GoogleTag() {
   const measurementId = DEFAULT_GA_MEASUREMENT_ID;
 
   return (
     <>
-      {/* Google tag (gtag.js) */}
-      <script async src={getGoogleTagScriptSrc(measurementId)} />
-      <script
-        id="google-tag-config"
-        dangerouslySetInnerHTML={{
-          __html: buildGoogleTagConfigScript(measurementId),
-        }}
+      <Script
+        id="google-tag-js"
+        src={getGoogleTagScriptSrc(measurementId)}
+        strategy="beforeInteractive"
       />
+      <Script id="google-tag-config" strategy="beforeInteractive">
+        {buildGoogleTagConfigScript(measurementId)}
+      </Script>
     </>
   );
 }

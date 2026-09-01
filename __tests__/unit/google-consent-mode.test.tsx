@@ -7,6 +7,23 @@ import {
   buildGoogleTagConfigScript,
 } from '@/lib/google-consent-mode';
 
+jest.mock('next/script', () => ({
+  __esModule: true,
+  default: ({
+    id,
+    src,
+    children,
+  }: {
+    id?: string;
+    src?: string;
+    children?: React.ReactNode;
+  }) => (
+    <script id={id} src={src}>
+      {children}
+    </script>
+  ),
+}));
+
 describe('google-consent-mode', () => {
   it('defaults analytics and ads storage to denied for EEE', () => {
     expect(GOOGLE_CONSENT_DEFAULT.analytics_storage).toBe('denied');
