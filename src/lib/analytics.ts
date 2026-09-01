@@ -1,5 +1,6 @@
 // Google Analytics 4 Event Tracking
-// Focus English - España
+// Linguafly — propiedad nueva (linguafly.app, zona Madrid).
+// El Measurement ID vive en NEXT_PUBLIC_GA_MEASUREMENT_ID (no hardcodear).
 
 export const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
 
@@ -251,14 +252,10 @@ export const trackScrollDepth = (depth: number, page: string) => {
   gaEvent('scroll_depth', { scroll_percent: depth, article_slug: page });
 };
 
-// TypeScript types
 declare global {
   interface Window {
-    gtag: (
-      command: string,
-      targetId: string,
-      config?: Record<string, any>
-    ) => void;
+    gtag: (...args: unknown[]) => void;
+    dataLayer?: unknown[];
     _paq?: Array<unknown[]>;
   }
 }

@@ -3,12 +3,13 @@
 **Sitio:** [linguafly.app](https://linguafly.app) (Linguafly / Focus English)  
 **Audiencia objetivo:** hispanohablantes, sobre todo España (`locale` `es_ES`)  
 **Propiedad GA4 ya en producción:** Measurement ID `G-TNTG3MJ3TL` · ID de propiedad `380786116`  
-**GTM en el layout:** `GTM-PR2H3P77`  
+**GTM:** eliminado del layout (el contenedor `GTM-PR2H3P77` respondía 404). Un solo cargador: gtag.  
 **Analítica paralela:** Matomo Cloud (`linguaflyapp.matomo.cloud`, site id `1`)
 
 Este plan no pide rehacer el tracking desde cero. El tag de GA4 ya carga en `src/components/GoogleAnalytics.tsx`, los `page_view` SPA se envían en cada cambio de ruta, y los eventos de producto viven en `src/lib/analytics.ts`. El trabajo es **configurar la propiedad, los informes y el consentimiento** para que las visitas de España se vean con claridad y se puedan vigilar cada día.
 
-**Fase 0 (2026-09-01):** auditoría ejecutada. Resultados en [§12](#12-fase-0--resultados-2026-09-01). Hallazgo principal: `G-TNTG3MJ3TL` está vivo; `GTM-PR2H3P77` responde **404** (no duplica GA4); el riesgo de doble `page_view` es Enhanced Measurement + el componente React.
+**Fase 0 (2026-09-01):** auditoría ejecutada. Resultados en [§12](#12-fase-0--resultados-2026-09-01).  
+**Propiedad nueva Linguafly:** pasos de alta en Admin en [§13](#13-crear-la-propiedad-ga4-linguafly). La propiedad vieja `G-TNTG3MJ3TL` / `380786116` queda como archivo histórico (Focus English / Vercel).
 
 ---
 
@@ -30,16 +31,15 @@ Este plan no pide rehacer el tracking desde cero. El tag de GA4 ya carga en `src
 | GA4 gtag | `src/components/GoogleAnalytics.tsx` | Carga `gtag.js` con `NEXT_PUBLIC_GA_MEASUREMENT_ID`, `anonymize_ip: true`, `content_group` por ruta |
 | Pageviews SPA | mismo componente | Primer hit al `config`; el resto con `event: page_view` al cambiar `pathname` |
 | Eventos de producto | `src/lib/analytics.ts` | Blog, CTA, cursos, signup, checkout, ejercicios |
-| GTM | `src/app/layout.tsx` | Contenedor `GTM-PR2H3P77` en `<head>` + noscript |
-| Consentimiento | Cookiebot `data-blockingmode="manual"` | Atributo `data-cookieconsent="statistics"` en GTM y GA; **no hay Consent Mode v2 en código** |
+| GTM | — | **Eliminado.** `GTM-PR2H3P77` daba 404; un solo cargador gtag |
+| Consentimiento | Cookiebot / InMobi + Consent Mode v2 | Default `analytics_storage: denied` en `<head>` (`GoogleConsentMode`); gtag.js carga después y el CMP actualiza a granted |
 | Ads | `src/lib/marketing-consent.ts` | AdSense/Monetag sí esperan consentimiento; GA **no** usa ese helper |
 | Matomo | `src/components/MatomoAnalytics.tsx` | Segundo contador, independiente de GA4 |
 
 Implicaciones para España:
 
-- En la UE, si **no** está activo Consent Mode v2 y el usuario rechaza cookies, Google puede modelar mal o no atribuir geolocalización.
-- Cookiebot en modo `manual` **no bloquea automáticamente** los scripts. GA y GTM pueden dispararse antes de que el usuario acepte estadísticas.
-- Si GTM también tiene una etiqueta GA4 `G-TNTG3MJ3TL`, cada visita se cuenta **dos veces**.
+- Consent Mode v2 arranca en `denied`; Cookiebot/InMobi actualizan a granted. Sin aceptar estadísticas, GA4 solo envía pings sin cookie (modelado).
+- En la propiedad nueva hay que **desactivar** los page_view por historial de Medición mejorada. Si no, Next.js y GA4 duplican cada ruta SPA.
 - `anonymize_ip: true` es correcto (GA4 ya anonimiza IP). **No impide** el país; la geo se calcula antes de recortar la IP.
 
 ---
@@ -373,12 +373,13 @@ Resultados del 2026-09-01: ver [§12](#12-fase-0--resultados-2026-09-01).
 - [ ] Staging sin ID de producción.
 - [ ] Looker Studio con filtro Spain.
 
-### Fase 3 — Código (PR aparte, no este documento)
+### Fase 3 — Código (propiedad Linguafly)
 
-- [ ] Consent Mode v2 + Cookiebot/InMobi.
-- [ ] Un solo cargador (GTM **o** gtag).
-- [ ] `GoogleAnalytics` espera consentimiento de estadísticas (o defaults denied).
-- [ ] Tests: no cargar gtag si no hay measurement id; no disparar `page_view` duplicado en navegación SPA.
+- [x] Consent Mode v2 default (`denied`) en `<head>` (`GoogleConsentMode`).
+- [x] Un solo cargador: gtag. Snippet GTM-PR2H3P77 (404) eliminado del layout.
+- [x] Un `page_view` por ruta en el componente; en Admin de la propiedad nueva desactivar historial de Medición mejorada.
+- [x] Tests: Consent Mode default + gtag no carga sin Measurement ID.
+- [ ] Pegar el Measurement ID nuevo en Cloudflare (build) cuando exista la propiedad (§13).
 
 ---
 
@@ -398,7 +399,8 @@ Se considera resuelto cuando, en un periodo de 7 días:
 
 - Tag y pageviews: `src/components/GoogleAnalytics.tsx`
 - Eventos: `src/lib/analytics.ts`, `src/lib/analytics-events.md`
-- GTM: `src/app/layout.tsx` (`GTM-PR2H3P77`)
+- GTM: **eliminado** del layout (contenedor `GTM-PR2H3P77` era 404)
+- Consent Mode: `src/components/GoogleConsentMode.tsx`, `src/lib/google-consent-mode.ts`
 - Consentimiento ads: `src/lib/marketing-consent.ts`, Cookiebot `src/components/Cookiebot.tsx`
 - Variable de entorno: `.env.example` → `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-TNTG3MJ3TL`
 
@@ -506,8 +508,70 @@ Esperado: Cloudflare ES ≥ GA4 ES ≥ clics GSC ES. Si GA4 Spain = 0 y Cloudfla
 | Inventario GTM | Cerrado: contenedor 404, no duplica GA4 |
 | Comparativa 7 días | Abierto: consolas GA4 / GSC / CF / Matomo |
 
-### 12.8 Siguiente paso recomendado
+### 12.8 Siguiente paso
 
-1. Operador: las 3 acciones de Admin + hit ES de §12.1–12.4 (sin código).
-2. Ingeniería: **Fase 3** — quitar el snippet muerto `GTM-PR2H3P77` y decidir un solo `page_view` (enhanced measurement **o** el `useEffect` de `GoogleAnalytics.tsx`).
-3. Luego Fase 1 (informes Spain) cuando el hit de prueba aparezca en tiempo real.
+Crear la **propiedad GA4 Linguafly** (§13), pegar el Measurement ID en Cloudflare, y validar un hit desde España. La propiedad `G-TNTG3MJ3TL` se conserva solo como archivo (Focus English).
+
+---
+
+## 13. Crear la propiedad GA4 Linguafly
+
+Google no permite crear propiedades desde este repositorio: hay que hacerlo con la cuenta de Google que administra Analytics. El código ya apunta a `NEXT_PUBLIC_GA_MEASUREMENT_ID` (vacío hasta que pegues el ID nuevo) y envía Consent Mode v2 + un `page_view` por ruta, sin GTM.
+
+### 13.1 Alta (5 minutos)
+
+1. Entra en [analytics.google.com](https://analytics.google.com/) con la cuenta de Linguafly.
+2. **Administrar** (engranaje) → **Crear** → **Propiedad**.
+   - Nombre: `Linguafly`
+   - Zona horaria de los informes: **(GMT+01:00) Madrid** (España)
+   - Moneda: **Euro (EUR)**
+3. Descripción del negocio: sector **Educación**, tamaño el que corresponda. Objetivos: medir interacciones / generar clientes potenciales.
+4. **Flujo de datos** → **Web**:
+   - URL: `https://linguafly.app` (sin `www` si el canónico es el apex; si usáis ambos, el stream es uno y el dominio extra se añade en “dominios configurados”).
+   - Nombre del flujo: `Linguafly web`
+   - Medición mejorada: **activada**, luego clic en el engranaje:
+     - Dejar: desplazamientos, clics de salida, búsquedas, descargas, vídeo.
+     - **Desactivar** “Cambios de página según eventos del historial del navegador”. Next.js ya envía `page_view` con `content_group` desde `GoogleAnalytics.tsx`. Si esto queda ON, cada navegación SPA se cuenta dos veces.
+5. Copia el **ID de medición** (`G-XXXXXXXXXX`) y el **ID de propiedad** (número).
+
+### 13.2 Ajustes para ver España
+
+En la propiedad **nueva** (no en `380786116`):
+
+| Ajuste | Dónde | Valor |
+|---|---|---|
+| Ubicación y dispositivo detallados (UE) | Admin → Recogida de datos | **Activado** para EEE |
+| Google Signals | Recogida de datos | **Desactivado** (RGPD; el país no lo necesita) |
+| Recogida de datos proporcionados por el usuario / PII auto | Stream → Ajustes | **Desactivado** |
+| Retención de datos de eventos | Admin → Ajustes de datos | **14 meses** |
+| País de la empresa | Configuración de la propiedad | España |
+
+No hace falta un filtro de datos “solo España”. El país lo asigna GA4 por IP. En informes: **Comparar** → País = Spain (Fase 1).
+
+### 13.3 Consent Mode y Cookiebot / InMobi
+
+El layout ya declara `gtag('consent','default', { analytics_storage: 'denied', ... })` antes de cargar gtag.js.
+
+- **Cookiebot Manager:** activa **Google Consent Mode** (v2) para el dominio `linguafly.app`. Categoría estadísticas → `analytics_storage`; marketing → `ad_storage` / `ad_user_data` / `ad_personalization`.
+- **InMobi Choice** (si es el CMP en linguafly.app): confirma que el CMP publica TCF 2.2+ y que Google lee el consent update. No hace falta un segundo GTM.
+
+### 13.4 Cortar a producción
+
+1. Cloudflare → Worker **linguaflyapp1** → Settings → Variables / Build:
+   - `NEXT_PUBLIC_GA_MEASUREMENT_ID` = `G-XXXXXXXXXX` (el nuevo).
+   - Es variable de **build** (`NEXT_PUBLIC_*` se inlina en el bundle).
+2. Redeploy del Worker (`linguaflyapp1`). No uses los Workers viejos `linguaflyapp` / `linguafly-app`.
+3. Local: `.env.local` con el mismo `G-XXXXXXXXXX`.
+4. Prueba: móvil en España → linguafly.app → GA4 **En tiempo real** → usuario en **Spain**. En Red: `gtag/js?id=G-XXXXXXXXXX` (no `G-TNTG3MJ3TL`, no `GTM-PR2H3P77`).
+5. La propiedad vieja `380786116` / `G-TNTG3MJ3TL` se deja en solo lectura (histórico Focus English). No borres datos todavía.
+
+### 13.5 Dimensiones personalizadas (mismo día o Fase 1)
+
+En Admin de la propiedad nueva → Definiciones personalizadas, registrar como dimensión de evento:
+
+- `content_group`
+- `article_slug`, `article_category`
+- `cta_name`, `cta_location`
+- `course_level`, `plan_id`
+
+Sin esto, los parámetros se ven en DebugView pero no en informes estándar.

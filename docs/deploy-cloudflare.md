@@ -58,7 +58,7 @@ Sin el JSON embebido ni esa caché, el blog sale vacío («Próximamente» / 0 r
 **Si usas estas features en runtime**
 - `OPENAI_API_KEY`
 - `CLOUDFLARE_ACCOUNT_ID` / `CLOUDFLARE_API_TOKEN` (Workers AI / TTS internos)
-- `NEXT_PUBLIC_GA_MEASUREMENT_ID`, Cookiebot/CMP públicos
+- `NEXT_PUBLIC_GA_MEASUREMENT_ID` (propiedad **Linguafly** nueva, `G-XXXXXXXXXX`; no uses `G-TNTG3MJ3TL` tras el corte), Cookiebot/CMP públicos
 - `INDEXNOW_*` si aplica
 
 **No hace falta:** `SUPABASE_*`, `STRIPE_*`, `RESEND_*`, OAuth.

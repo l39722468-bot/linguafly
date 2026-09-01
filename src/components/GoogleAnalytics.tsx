@@ -3,7 +3,7 @@
 import Script from 'next/script';
 import { usePathname } from 'next/navigation';
 import { useMemo, useEffect, useState, useRef } from 'react';
-import { getContentGroup } from '@/lib/analytics';
+import { getContentGroup, pageview } from '@/lib/analytics';
 
 const excludedRoutes = ['/curso/ingles-a1', '/curso/ingles-b1', '/curso/ingles-c1', '/curso/ingles-c2', '/dashboard', '/profile', '/settings', '/leccion', '/certificados', '/practica'];
 
@@ -32,23 +32,18 @@ export default function GoogleAnalytics() {
     else window.addEventListener('load', loadAfterPageLoad, { once: true });
   }, [GA_MEASUREMENT_ID, shouldTrack]);
 
-  // Rastreo de navegaciones SPA: dispara page_view en cada cambio de ruta
+  // Navegaciones SPA: un page_view por ruta (el config ya registra la primera).
+  // En la propiedad GA4 nueva, desactivar "cambios de página según el historial"
+  // en Medición mejorada para no duplicar este evento.
   useEffect(() => {
     if (!GA_MEASUREMENT_ID || !gaLoaded || !pathname) return;
-    // Omitir la primera carga: el gtag('config') ya lo registra al inicializar
     if (isFirstRender.current) {
       isFirstRender.current = false;
       return;
     }
     if (!shouldTrack) return;
 
-    const contentGroup = getContentGroup(pathname);
-    window.gtag('event', 'page_view', {
-      page_title: document.title,
-      page_location: window.location.href,
-      page_path: pathname,
-      content_group: contentGroup,
-    });
+    pageview(pathname);
   }, [pathname, gaLoaded, GA_MEASUREMENT_ID, shouldTrack]);
 
   if (!GA_MEASUREMENT_ID || !shouldTrack || !gaLoaded) return null;
@@ -60,10 +55,9 @@ export default function GoogleAnalytics() {
       <Script
         src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
         strategy="lazyOnload"
-        data-cookieconsent="statistics"
       />
-      <Script id="google-analytics" strategy="lazyOnload" data-cookieconsent="statistics">
-        {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_MEASUREMENT_ID}',{page_title:document.title,page_location:window.location.href,page_path:window.location.pathname,content_group:'${contentGroup}',anonymize_ip:true,cookie_flags:'SameSite=None;Secure'});`}
+      <Script id="google-analytics" strategy="lazyOnload">
+        {`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','${GA_MEASUREMENT_ID}',{send_page_view:true,page_title:document.title,page_location:window.location.href,page_path:window.location.pathname,content_group:'${contentGroup}',anonymize_ip:true,cookie_flags:'SameSite=None;Secure'});`}
       </Script>
     </>
   );
