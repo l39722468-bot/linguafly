@@ -2,7 +2,8 @@
 
 **Última actualización:** 2026-09-01  
 **Syllabus:** [curso-espanol-c1-syllabus.md](./curso-espanol-c1-syllabus.md)  
-**Plan maestro:** [curso-espanol-plan-editorial.md](./curso-espanol-plan-editorial.md)
+**Plan maestro:** [curso-espanol-plan-editorial.md](./curso-espanol-plan-editorial.md)  
+**Cobertura PCIC C1:** [curso-espanol-cobertura-pcic.md](./curso-espanol-cobertura-pcic.md) (§8)
 
 ## Resumen
 

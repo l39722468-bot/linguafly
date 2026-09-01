@@ -1,6 +1,10 @@
-# Syllabus — Spanish C1 (English-speaking learners)
+# Syllabus — Spanish C1 (PCIC / NRE / DELE C1)
 
 60 units. Category `curso-espanol-c1`. Folder `src/content/blog/curso-espanol-c1/`.  
+**Norma:** columna **C1** de los inventarios PCIC + mediación MCER 2020. Mapa: [curso-espanol-cobertura-pcic.md](./curso-espanol-cobertura-pcic.md).
+
+**Focus oficial:** frontera indicativo/subjuntivo; sintaxis escrita densa; fonosintaxis; géneros académicos/profesionales; referentes y socioculturales en profundidad; mediación (inv. intercultural 4 + DELE C1); DELE C1.
+
 **Focus:** fine-grained mood, dense written syntax, register shifting, academic/professional genres, DELE C1 mediation and synthesis.
 
 ---
