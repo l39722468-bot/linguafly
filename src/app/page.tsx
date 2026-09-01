@@ -4,6 +4,7 @@ import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import { Metadata } from "next";
 import { getBlogArticles } from "@/lib/blog";
+import { HOME_PATHS, isSpanishCourseCategory } from "@/lib/site-locales";
 import { HomeBelowFold } from "./HomeBelowFold";
 
 const Footer = dynamic(() => import("@/components/sections/Footer").then((m) => ({ default: m.Footer })), {
@@ -23,11 +24,18 @@ export const metadata: Metadata = {
   ],
   alternates: {
     canonical: 'https://www.focus-on-english.com',
+    languages: {
+      es: '/',
+      en: '/en',
+      'x-default': '/',
+    },
   },
 };
 
 export default function HomePage() {
-  const latestArticles = getBlogArticles().slice(0, 3);
+  const latestArticles = getBlogArticles()
+    .filter((article) => !isSpanishCourseCategory(article.category))
+    .slice(0, 3);
   
   return (
     <>
@@ -49,6 +57,15 @@ export default function HomePage() {
                 </span>
               </div>
             </div>
+            <p className="text-center mb-8">
+              <Link
+                href={HOME_PATHS.en}
+                hrefLang="en"
+                className="inline-flex items-center gap-2 text-sm font-bold text-teal-800 bg-teal-50 hover:bg-teal-100 border border-teal-200 px-4 py-2 rounded-full transition-colors"
+              >
+                English speakers: learn Spanish here →
+              </Link>
+            </p>
 
             {/* Main Heading */}
             <div className="text-center mb-12">
