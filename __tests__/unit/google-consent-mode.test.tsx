@@ -1,5 +1,6 @@
 import { renderToStaticMarkup } from 'react-dom/server';
 import GoogleConsentMode from '@/components/GoogleConsentMode';
+import GoogleHeadScripts from '@/components/GoogleHeadScripts';
 import GoogleTag from '@/components/GoogleTag';
 import {
   GOOGLE_CONSENT_DEFAULT,
@@ -49,6 +50,23 @@ describe('GoogleTag', () => {
     expect(html).not.toContain('data-nscript');
     expect(html).not.toContain('G-TNTG3MJ3TL');
     expect(html).not.toContain('G-845LV77ZG9');
+  });
+
+  it('GoogleHeadScripts emite los 3 scripts nativos en el orden oficial, sin __next_s', () => {
+    const html = renderToStaticMarkup(<GoogleHeadScripts />);
+    expect(html).toContain('id="google-consent-default"');
+    expect(html).toContain('src="https://www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E"');
+    expect(html).toContain('async=""');
+    expect(html).toContain('id="google-tag-config"');
+    expect(html).toContain("gtag('config', 'G-ZNL3VGHK2E')");
+    expect(html.indexOf('google-consent-default')).toBeLessThan(
+      html.indexOf('www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E')
+    );
+    expect(html.indexOf('www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E')).toBeLessThan(
+      html.indexOf('google-tag-config')
+    );
+    expect(html).not.toContain('__next_s');
+    expect(html).not.toContain('data-nscript');
   });
 
   it('matches the official gtag config body', () => {
