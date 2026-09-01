@@ -2,7 +2,7 @@
 
 Documento de referencia para consultar qué unidades del curso B2 tienen artículo explicativo en el blog y cuáles faltan.
 
-**Última actualización:** 2026-08-31 (35 artículos de teoría y 35 cuadernos publicados; Módulo 4 iniciado con U31–35)
+**Última actualización:** 2026-09-01 (40 artículos de teoría y 35 cuadernos publicados; Módulo 4 completo en teoría)
 **Criterio:** artículo dedicado (~2000 palabras, ejemplos, ejercicios, esquemas y audio) enlazado a la unidad del curso. Cuadernos de ejercicios con soluciones (5 lecciones × 15 actividades) en `/blog/curso-b2/unidad-N-*-ejercicios-soluciones`.  
 **Keywords:** long-tail de nivel/tema (`curso inglés B2 gratis`, `ejercicios inglés B2 gratis`, tema de la unidad). Las queries de cabeza (`curso de inglés gratis`, etc.) solo en el hub `/blog/temas/curso-ingles`.  
 **Canonical:** `https://linguafly.app/blog/curso-b2/...` (sin www).  
@@ -15,8 +15,8 @@ Documento de referencia para consultar qué unidades del curso B2 tienen artícu
 | Métrica | Cifra |
 |---|---|
 | Unidades totales | 60 |
-| Artículos dedicados publicados | 35 |
-| Artículos dedicados pendientes | 25 |
+| Artículos dedicados publicados | 40 |
+| Artículos dedicados pendientes | 20 |
 | Cuadernos ejercicios+soluciones | 35 |
 
 ---
@@ -147,9 +147,23 @@ Cuadernos M4 (U31–35):
 
 **Estado del Módulo 4:** teoría y cuadernos publicados hasta U35.
 
-### U36–40
+### U36–40 — Past Habits, Auxiliaries & Phrasal Verbs 5–6
 
-Pendiente.
+| U | Título | Gramática / tema | Teoría | Cuaderno |
+|---|---|---|---|---|
+| 36 | Used to, Would & Culture | used to / would para hábitos y estados; culture extended | ✅ | ❌ |
+| 37 | Auxiliaries & Business | énfasis y short answers; business extended | ✅ | ❌ |
+| 38 | Phrasal Verbs 5 & Leisure | RUN / SET / TAKE; leisure extended | ✅ | ❌ |
+| 39 | Phrasal Verbs 6 & Sport | TURN / WORK; sport extended | ✅ | ❌ |
+| 40 | Repaso 36–39 | integración | ✅ | ❌ |
+
+Teoría M4 (U36–40):
+- [U36](/blog/curso-b2/unidad-36-used-to-would-culture) · [U37](/blog/curso-b2/unidad-37-auxiliaries-business) · [U38](/blog/curso-b2/unidad-38-phrasal-verbs-5-run-set-take-leisure) · [U39](/blog/curso-b2/unidad-39-phrasal-verbs-6-turn-work-sport) · [U40](/blog/curso-b2/unidad-40-repaso-36-39)
+
+Cuadernos previstos M4 (U36–40):
+- [U36](/blog/curso-b2/unidad-36-used-to-would-culture-ejercicios-soluciones) · [U37](/blog/curso-b2/unidad-37-auxiliaries-business-ejercicios-soluciones) · [U38](/blog/curso-b2/unidad-38-phrasal-verbs-5-run-set-take-leisure-ejercicios-soluciones) · [U39](/blog/curso-b2/unidad-39-phrasal-verbs-6-turn-work-sport-ejercicios-soluciones) · [U40](/blog/curso-b2/unidad-40-repaso-36-39-ejercicios-soluciones)
+
+**Estado del Módulo 4:** teoría completa U31–40; cuadernos publicados hasta U35.
 
 ---
 

@@ -374,11 +374,12 @@ En un repaso mixto, gana precisión quien retrasa la respuesta un segundo. Etiqu
 
 ## Siguiente paso en el curso B2
 
-Has cerrado el primer bloque del Módulo 4. Continúa en la **Unidad 36 del curso B2** y conserva este diagnóstico para volver solo al sistema que necesite refuerzo.
+Has cerrado el primer bloque del Módulo 4. Continúa con la **Unidad 36 — Used to, Would & Culture**, que contrasta acciones repetidas y estados pasados.
 
 - [Ejercicios U35 con soluciones](/blog/curso-b2/unidad-35-repaso-31-34-ejercicios-soluciones)
 - [Unidad 35 del curso](/curso-b2/unit-35)
-- [Continuar con Unidad 36](/curso-b2/unit-36)
+- [U36 teoría: Used to, Would + Culture](/blog/curso-b2/unidad-36-used-to-would-culture)
+- [Ejercicios U36 con soluciones](/blog/curso-b2/unidad-36-used-to-would-culture-ejercicios-soluciones)
 
 ### Guías relacionadas
 
