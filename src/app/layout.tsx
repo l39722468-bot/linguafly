@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { OrganizationSchema, WebsiteSchema } from "./schema";
 import GoogleConsentMode from "@/components/GoogleConsentMode";
+import GoogleTag from "@/components/GoogleTag";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import MatomoAnalytics from "@/components/MatomoAnalytics";
 import Cookiebot from "@/components/Cookiebot";
@@ -91,10 +92,14 @@ export default function RootLayout({
   return (
     <html lang="es" className="scroll-smooth" suppressHydrationWarning>
       <head>
+        {/* Consent Mode (no es una etiqueta Google) y, a continuación, UNA sola etiqueta gtag para todo el sitio. */}
         <GoogleConsentMode />
+        <GoogleTag />
         <InMobiChoiceConsent />
         <UspapiLocator />
-        {/* Preconnect críticos: imágenes, fonts, Cookiebot */}
+        {/* Preconnect críticos: imágenes, fonts, Cookiebot, gtag */}
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="preconnect" href="https://images.pexels.com" />
         <link rel="dns-prefetch" href="https://images.pexels.com" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />

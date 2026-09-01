@@ -3,11 +3,15 @@
 // Override: NEXT_PUBLIC_GA_MEASUREMENT_ID. Cadena vacía desactiva el tag.
 
 export const DEFAULT_GA_MEASUREMENT_ID = 'G-845LV77ZG9';
+export const LEGACY_GA_MEASUREMENT_ID = 'G-TNTG3MJ3TL';
 
 export function getGaTrackingId(): string | undefined {
   const fromEnv = process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID;
   if (fromEnv === '') return undefined;
-  return fromEnv || DEFAULT_GA_MEASUREMENT_ID;
+  if (!fromEnv || fromEnv === LEGACY_GA_MEASUREMENT_ID) {
+    return DEFAULT_GA_MEASUREMENT_ID;
+  }
+  return fromEnv;
 }
 
 export const GA_TRACKING_ID = getGaTrackingId();
