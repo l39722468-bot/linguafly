@@ -249,6 +249,22 @@ The language of a sixth mass extinction can create urgency, but it can also prod
 **Text type:** Feature news report (500–600 words)  
 **Topic:** *After the Earthquake: How Communities Rebuild and What We Can Learn*
 
+#### After the Earthquake
+
+At 6:42 on a Tuesday morning, the first tremor lasted less than a minute. In the coastal city of San Aurelio, that was long enough to bring down apartment facades, rupture water mains and send thousands of residents into the streets. A second, weaker shock followed before emergency services had established a command centre. By midday, the city authorities had confirmed 38 fatalities, more than 400 injuries and extensive damage to roads, schools and the central hospital. Those figures were provisional, with rescue teams still searching several collapsed buildings.
+
+The earthquake itself was not unexpected. San Aurelio lies near a fault line, and building regulations had been strengthened after a smaller tremor fifteen years earlier. Implementation, however, had been uneven. Newer hospitals and public offices had been designed to withstand severe shaking, while many older homes had not been reinforced. The disaster therefore exposed a familiar gap between what a city knows about risk and what it is willing or able to fund before a crisis occurs.
+
+In the first hours, the response depended on coordination as much as courage. Firefighters used trained dogs and acoustic equipment to locate people beneath concrete. Medical teams converted a sports centre into an emergency clinic, where patients were assessed according to the urgency of their injuries. Volunteers distributed water, blankets and information, although unverified reports on social media briefly caused panic about a tsunami. Officials later urged residents to rely on the emergency service's updates rather than share rumours that could send people towards unsafe areas.
+
+Among those waiting outside the damaged Rivera district was Elena Márquez, whose family had lived there for three generations. “We knew the buildings were old,” she said, “but knowing a risk exists is different from having a safe place to go.” Her comment captures one of the less visible effects of disasters. Physical damage can be counted in buildings and roads; the loss of trust, routine and a sense of control is harder to record. Children who had slept outdoors were still startled by passing lorries two weeks later, according to counsellors working at temporary shelters.
+
+The immediate relief effort gradually gave way to a more complicated phase. Temporary accommodation had to be heated, schools had to reopen and essential businesses needed permission to operate in partially damaged streets. Engineers inspected structures, while local organisations mapped residents who were elderly, disabled or unable to access online assistance. This information mattered because a universal recovery plan could easily overlook people whose needs were not visible from the main roads.
+
+Rebuilding has also raised a difficult question: should the city restore what existed or use the disaster to change it? Replacing unsafe buildings with stronger ones is essential, but relocating low-income residents to the outskirts could separate them from jobs, schools and family networks. Urban planners have proposed a compromise involving subsidised retrofitting, protected evacuation routes and small public spaces that can serve as assembly points. Whether these proposals survive beyond the news cycle will depend on sustained funding and public scrutiny.
+
+San Aurelio's experience offers no simple lesson. Early-warning systems can save lives, but they cannot prevent poorly maintained buildings from failing. Emergency services can mobilise resources rapidly, but they cannot substitute for years of preparation. The city will eventually repair its roads and reopen its hospital. The more important test will be whether the reconstruction reduces vulnerability rather than merely restoring appearances. As one rescue coordinator put it, “Recovery is not the moment when the cranes leave. It is when people can make plans again.”
+
 **Comprehension tasks:**
 1. **Narrative structure** — Identify: scene-setting → crisis → response → reflection
 2. **Detail questions** × 4
