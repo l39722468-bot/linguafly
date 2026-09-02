@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 24
   - prepositions of place
   - where is the pharmacy
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between'
 image: /blog/curso-a1/unit-24/a1-unit24-prepositions.png
 alt: Esquema next to between in front of opposite en inglés nivel A1
 related_routes:

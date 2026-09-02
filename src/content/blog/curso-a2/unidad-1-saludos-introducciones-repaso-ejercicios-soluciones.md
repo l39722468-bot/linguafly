@@ -15,7 +15,7 @@ keywords:
   - presentarse inglés A2
   - Nice to meet you A2
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-1-saludos-introducciones-repaso-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-1-saludos-introducciones-repaso-ejercicios-soluciones'
 image: /blog/curso-a2/unit-1/a2-unit1-intro-formula.png
 alt: Presentación extendida para ejercicios A2 Unidad 1
 related_routes:

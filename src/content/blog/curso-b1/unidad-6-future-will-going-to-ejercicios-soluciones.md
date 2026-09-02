@@ -1,7 +1,7 @@
 ---
 alt: Future forms — ejercicios B1 Unidad 6
 author: linguafly-team
-canonical: https://www.linguafly.app/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones
+canonical: https://linguafly.app/blog/curso-b1/unidad-6-future-will-going-to-ejercicios-soluciones
 category: curso-b1
 date: '2026-08-25'
 description: 'Practica todos los ejercicios de la Unidad 6 del curso B1: will / going

@@ -14,7 +14,7 @@ keywords:
   - recycle save water
   - pollution should
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-55-the-environment-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-55-the-environment-ejercicios-soluciones'
 image: /blog/curso-a2/unit-55/a2-unit55-the-environment.png
 alt: The Environment — ejercicios A2 Unidad 55
 related_routes:

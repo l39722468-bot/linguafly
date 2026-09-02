@@ -1,7 +1,7 @@
 ---
 alt: Present Perfect Continuous — ejercicios B1 Unidad 2
 author: linguafly-team
-canonical: https://www.linguafly.app/blog/curso-b1/unidad-2-present-perfect-continuous-ejercicios-soluciones
+canonical: https://linguafly.app/blog/curso-b1/unidad-2-present-perfect-continuous-ejercicios-soluciones
 category: curso-b1
 date: '2026-08-25'
 description: 'Practica todos los ejercicios de la Unidad 2 del curso B1: Present Perfect

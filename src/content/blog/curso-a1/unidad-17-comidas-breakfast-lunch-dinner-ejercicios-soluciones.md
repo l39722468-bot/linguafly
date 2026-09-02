@@ -16,7 +16,7 @@ keywords:
   - have breakfast ejercicios
   - contables incontables A1
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner-ejercicios-soluciones'
 image: /blog/curso-a1/unit-17/a1-unit17-vocab.png
 alt: Comidas y gustos para ejercicios A1 Unidad 17
 related_routes:

@@ -15,7 +15,7 @@ keywords:
   - have known Present Perfect
   - inglés A2 unidad 49
   - friend colleague neighbour
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-49-people-relationships'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-49-people-relationships'
 image: /blog/curso-a2/unit-49/a2-unit49-people-relationships.png
 alt: Esquema People & Relationships A2
 related_routes:

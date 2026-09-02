@@ -15,7 +15,7 @@ keywords:
   - Yes I have No I haven't
   - inglés A2 unidad 12
   - experiencias Present Perfect
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-12-present-perfect-ever-never'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-12-present-perfect-ever-never'
 image: /blog/curso-a2/unit-12/a2-unit12-ever-never.png
 alt: Esquema Have you ever e I have never del Present Perfect A2
 related_routes:

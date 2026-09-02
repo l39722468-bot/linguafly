@@ -17,7 +17,7 @@ keywords:
   - preposiciones lugar repaso
   - mine yours body clothes
   - turn left go straight review
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-30-repaso-modulo-3'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-30-repaso-modulo-3'
 image: /blog/curso-a1/unit-30/a1-unit30-module-map.png
 alt: Mapa de repaso del Módulo 3 del curso A1
 related_routes:

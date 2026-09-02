@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 44
   - weather forecast English
   - temperature Celsius
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-44-the-weather'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-44-the-weather'
 image: /blog/curso-a2/unit-44/a2-unit44-the-weather.png
 alt: Esquema The Weather A2
 related_routes:

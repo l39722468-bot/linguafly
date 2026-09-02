@@ -15,7 +15,7 @@ keywords:
   - Have you… yet
   - inglés A2 unidad 13
   - already yet A2
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-13-present-perfect-already-yet'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-13-present-perfect-already-yet'
 image: /blog/curso-a2/unit-13/a2-unit13-already-yet.png
 alt: Esquema already y yet del Present Perfect A2
 related_routes:

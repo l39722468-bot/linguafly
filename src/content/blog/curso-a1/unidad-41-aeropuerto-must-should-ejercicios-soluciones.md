@@ -15,7 +15,7 @@ keywords:
   - passport boarding pass check-in
   - at the airport A1
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-41-aeropuerto-must-should-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-41-aeropuerto-must-should-ejercicios-soluciones'
 image: /blog/curso-a1/unit-41/a1-unit41-must-should.png
 alt: Must y should en el aeropuerto para ejercicios A1 Unidad 41
 related_routes:

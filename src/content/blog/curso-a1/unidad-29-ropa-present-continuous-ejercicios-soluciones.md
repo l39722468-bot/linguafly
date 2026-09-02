@@ -16,7 +16,7 @@ keywords:
   - I am wearing exercises
   - shirt trousers dress
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-29-ropa-present-continuous-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-29-ropa-present-continuous-ejercicios-soluciones'
 image: /blog/curso-a1/unit-29/a1-unit29-clothes.png
 alt: Clothes para ejercicios A1 Unidad 29
 related_routes:

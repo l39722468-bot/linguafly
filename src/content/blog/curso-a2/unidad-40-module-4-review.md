@@ -16,7 +16,7 @@ keywords:
   - inglés A2 unidad 40
   - should would like
   - place before time
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-40-module-4-review'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-40-module-4-review'
 image: /blog/curso-a2/unit-40/a2-unit40-module-4-review.png
 alt: Esquema de repaso del Módulo 4 A2
 related_routes:

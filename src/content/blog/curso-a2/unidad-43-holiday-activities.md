@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 43
   - present perfect vs past simple viaje
   - hiking beach souvenir
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-43-holiday-activities'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-43-holiday-activities'
 image: /blog/curso-a2/unit-43/a2-unit43-holiday-activities.png
 alt: Esquema Holiday Activities A2
 related_routes:

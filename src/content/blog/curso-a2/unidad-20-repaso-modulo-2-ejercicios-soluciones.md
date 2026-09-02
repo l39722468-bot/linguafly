@@ -14,7 +14,7 @@ keywords:
   - present perfect past continuous
   - how questions review
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-20-repaso-modulo-2-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-20-repaso-modulo-2-ejercicios-soluciones'
 image: /blog/curso-a2/unit-20/a2-unit20-module2-review.png
 alt: Module 2 Review para ejercicios A2 Unidad 20
 related_routes:

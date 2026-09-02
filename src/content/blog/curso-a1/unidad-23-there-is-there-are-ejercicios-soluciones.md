@@ -16,7 +16,7 @@ keywords:
   - in on under behind
   - there isn't there aren't
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-23-there-is-there-are-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-23-there-is-there-are-ejercicios-soluciones'
 image: /blog/curso-a1/unit-23/a1-unit23-there-is-are.png
 alt: There is There are para ejercicios A1 Unidad 23
 related_routes:

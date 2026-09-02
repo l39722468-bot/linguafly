@@ -16,7 +16,7 @@ keywords:
   - have got ejercicios
   - tall short long hair
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-7-colores-descripciones-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-7-colores-descripciones-ejercicios-soluciones'
 image: /blog/curso-a1/unit-7/a1-unit7-colors.png
 alt: Colores básicos para ejercicios A1 Unidad 7
 related_routes:

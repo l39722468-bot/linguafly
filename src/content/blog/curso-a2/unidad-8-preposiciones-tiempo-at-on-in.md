@@ -16,7 +16,7 @@ keywords:
   - in August
   - inglés A2 unidad 8
   - prepositions of time
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in'
 image: /blog/curso-a2/unit-8/a2-unit8-prepositions-time.png
 alt: Esquema at on in para preposiciones de tiempo en inglés A2
 related_routes:

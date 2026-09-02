@@ -14,7 +14,7 @@ keywords:
   - went saw had made wrote bought
   - irregular verbs past simple A2
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-3-past-simple-verbos-irregulares-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-3-past-simple-verbos-irregulares-ejercicios-soluciones'
 image: /blog/curso-a2/unit-3/a2-unit3-irregular-verbs.png
 alt: Verbos irregulares Past Simple para ejercicios A2 Unidad 3
 related_routes:

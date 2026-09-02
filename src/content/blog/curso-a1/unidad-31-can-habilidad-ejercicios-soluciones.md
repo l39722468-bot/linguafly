@@ -16,7 +16,7 @@ keywords:
   - can you swim
   - I can speak English
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-31-can-habilidad-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-31-can-habilidad-ejercicios-soluciones'
 image: /blog/curso-a1/unit-31/a1-unit31-can-cant.png
 alt: Can for Ability para ejercicios A1 Unidad 31
 related_routes:

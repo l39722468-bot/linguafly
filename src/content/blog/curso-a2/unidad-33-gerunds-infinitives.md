@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 33
   - love hate + ing
   - need to want to
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-33-gerunds-infinitives'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-33-gerunds-infinitives'
 image: /blog/curso-a2/unit-33/a2-unit33-gerunds-infinitives.png
 alt: Esquema de gerundios e infinitivos A2
 related_routes:

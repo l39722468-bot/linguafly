@@ -15,7 +15,7 @@ keywords:
   - pasado continuo inglés
   - inglés A2 unidad 16
   - was studying were cooking
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-16-past-continuous'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-16-past-continuous'
 image: /blog/curso-a2/unit-16/a2-unit16-past-continuous.png
 alt: Esquema Past Continuous was/were + -ing A2
 related_routes:

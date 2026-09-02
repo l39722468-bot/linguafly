@@ -14,7 +14,7 @@ keywords:
   - like swimming want to go
   - would like to order
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-33-gerunds-infinitives-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-33-gerunds-infinitives-ejercicios-soluciones'
 image: /blog/curso-a2/unit-33/a2-unit33-gerunds-infinitives.png
 alt: Gerundios e infinitivos — ejercicios A2 Unidad 33
 related_routes:

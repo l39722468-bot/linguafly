@@ -14,7 +14,7 @@ keywords:
   - Could you please
   - habilidad pasada could
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-29-could-habilidad-peticiones-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-29-could-habilidad-peticiones-ejercicios-soluciones'
 image: /blog/curso-a2/unit-29/a2-unit29-could.png
 alt: Could — ejercicios A2 Unidad 29
 related_routes:

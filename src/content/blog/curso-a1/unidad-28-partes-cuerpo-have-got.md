@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 28
   - I have got two arms
   - foot feet plural
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-28-partes-cuerpo-have-got'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-28-partes-cuerpo-have-got'
 image: /blog/curso-a1/unit-28/a1-unit28-body-parts.png
 alt: Esquema body parts have got this these en inglés nivel A1
 related_routes:

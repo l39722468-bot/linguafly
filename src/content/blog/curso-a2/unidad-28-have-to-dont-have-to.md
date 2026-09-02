@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 28
   - Do you have to
   - rules obligations English
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-28-have-to-dont-have-to'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-28-have-to-dont-have-to'
 image: /blog/curso-a2/unit-28/a2-unit28-have-to.png
 alt: Esquema de have to y don't have to A2
 related_routes:

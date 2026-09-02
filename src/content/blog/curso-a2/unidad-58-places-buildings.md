@@ -15,7 +15,7 @@ keywords:
   - located in situated
   - inglés A2 unidad 58
   - city vocabulary English
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-58-places-buildings'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-58-places-buildings'
 image: /blog/curso-a2/unit-58/a2-unit58-places-buildings.png
 alt: Esquema Places & Buildings A2
 related_routes:

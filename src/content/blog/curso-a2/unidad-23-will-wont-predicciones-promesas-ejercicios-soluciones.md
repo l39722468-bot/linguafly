@@ -14,7 +14,7 @@ keywords:
   - I will help you
   - promesas predicciones A2
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones'
 image: /blog/curso-a2/unit-23/a2-unit23-will-wont.png
 alt: "Will / Won't — ejercicios A2 Unidad 23"
 related_routes:

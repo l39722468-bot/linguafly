@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 53
   - opinion phrases English
   - I don't think so
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-53-expressing-opinions'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-53-expressing-opinions'
 image: /blog/curso-a2/unit-53/a2-unit53-expressing-opinions.png
 alt: Esquema Expressing Opinions A2
 related_routes:

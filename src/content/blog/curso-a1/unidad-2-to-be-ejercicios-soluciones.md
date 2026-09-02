@@ -16,7 +16,7 @@ keywords:
   - ejercicios con soluciones A1
   - he she it we they ejercicios
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-2-to-be-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-2-to-be-ejercicios-soluciones'
 image: /blog/curso-a1/unit-2/a1-unit2-to-be-chart.png
 alt: Tabla del verbo to be con is y are para ejercicios A1 Unidad 2
 related_routes:

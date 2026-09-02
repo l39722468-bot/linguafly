@@ -15,7 +15,7 @@ keywords:
   - I went last year
   - inglés A2 unidad 15
   - marcadores temporales A2
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-15-present-perfect-vs-past-simple'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-15-present-perfect-vs-past-simple'
 image: /blog/curso-a2/unit-15/a2-unit15-pp-vs-ps.png
 alt: Esquema Present Perfect vs Past Simple A2
 related_routes:

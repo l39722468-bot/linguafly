@@ -16,7 +16,7 @@ keywords:
   - inglés A1 unidad 27
   - my dog is friendly
   - pet farm wild
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-27-mascotas-animales'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-27-mascotas-animales'
 image: /blog/curso-a1/unit-27/a1-unit27-pets-farm-wild.png
 alt: Esquema pets farm wild animals en inglés nivel A1
 related_routes:

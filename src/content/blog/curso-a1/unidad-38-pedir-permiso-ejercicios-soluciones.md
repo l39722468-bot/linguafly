@@ -15,7 +15,7 @@ keywords:
   - pedir permiso inglés A1
   - please of course excuse me
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-38-pedir-permiso-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-38-pedir-permiso-ejercicios-soluciones'
 image: /blog/curso-a1/unit-38/a1-unit38-can-may.png
 alt: Can I May I para ejercicios A1 Unidad 38
 related_routes:

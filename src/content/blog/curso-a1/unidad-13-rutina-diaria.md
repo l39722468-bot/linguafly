@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 13
   - go to bed have breakfast
   - secuenciadores inglés
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-13-rutina-diaria'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-13-rutina-diaria'
 image: /blog/curso-a1/unit-13/a1-unit13-routine.png
 alt: Tabla de acciones de la rutina diaria en inglés nivel A1
 related_routes:

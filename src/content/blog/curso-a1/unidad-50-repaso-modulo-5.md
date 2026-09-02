@@ -17,7 +17,7 @@ keywords:
   - was were holidays
   - the most famous sightseeing
   - need to pack suitcase
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-50-repaso-modulo-5'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-50-repaso-modulo-5'
 image: /blog/curso-a1/unit-50/a1-unit50-module-map.png
 alt: Mapa de repaso del Módulo 5 del curso A1 Places and Travel
 related_routes:

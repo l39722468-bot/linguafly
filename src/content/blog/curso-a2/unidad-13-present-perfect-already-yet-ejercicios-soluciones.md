@@ -13,7 +13,7 @@ keywords:
   - I have already finished
   - I haven't done it yet
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-13-present-perfect-already-yet-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-13-present-perfect-already-yet-ejercicios-soluciones'
 image: /blog/curso-a2/unit-13/a2-unit13-already-yet.png
 alt: Already y yet para ejercicios A2 Unidad 13
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - inglés A1 unidad 37
   - good at drawing
   - can sing very well
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-37-talent-skills'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-37-talent-skills'
 image: /blog/curso-a1/unit-37/a1-unit37-skill-levels.png
 alt: Escala very well quite well not at all para habilidades en inglés A1
 related_routes:

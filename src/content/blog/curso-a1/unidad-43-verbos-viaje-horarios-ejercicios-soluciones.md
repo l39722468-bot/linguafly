@@ -15,7 +15,7 @@ keywords:
   - the train leaves arrives
   - visit stay explore A1
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-43-verbos-viaje-horarios-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-43-verbos-viaje-horarios-ejercicios-soluciones'
 image: /blog/curso-a1/unit-43/a1-unit43-schedules.png
 alt: Horarios de viaje Present Simple para ejercicios A1 Unidad 43
 related_routes:

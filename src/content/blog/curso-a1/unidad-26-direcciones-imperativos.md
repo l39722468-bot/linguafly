@@ -16,7 +16,7 @@ keywords:
   - inglés A1 unidad 26
   - past the bank
   - on the left on the right
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-26-direcciones-imperativos'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-26-direcciones-imperativos'
 image: /blog/curso-a1/unit-26/a1-unit26-imperatives.png
 alt: Esquema imperativos Turn left Go straight para direcciones en inglés A1
 related_routes:

@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 38
   - dar consejos en inglés
   - recomendaciones inglés A2
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-38-should-ought-to'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-38-should-ought-to'
 image: /blog/curso-a2/unit-38/a2-unit38-should-ought-to.png
 alt: Esquema Should y Ought to A2
 related_routes:

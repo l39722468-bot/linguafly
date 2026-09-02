@@ -16,7 +16,7 @@ keywords:
   - half past o'clock ejercicios
   - get up have breakfast
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-10-rutinas-hora-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-10-rutinas-hora-ejercicios-soluciones'
 image: /blog/curso-a1/unit-10/a1-unit10-routines.png
 alt: Rutinas diarias y horarios para ejercicios A1 Unidad 10
 related_routes:

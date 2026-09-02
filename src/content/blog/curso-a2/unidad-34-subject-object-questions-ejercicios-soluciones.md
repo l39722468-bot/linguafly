@@ -14,7 +14,7 @@ keywords:
   - Who saw you Who did you see
   - preguntas de sujeto inglés
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-34-subject-object-questions-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-34-subject-object-questions-ejercicios-soluciones'
 image: /blog/curso-a2/unit-34/a2-unit34-subject-object.png
 alt: Subject & Object Questions — ejercicios A2 Unidad 34
 related_routes:

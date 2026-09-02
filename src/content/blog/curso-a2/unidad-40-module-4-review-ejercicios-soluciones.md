@@ -14,7 +14,7 @@ keywords:
   - repaso módulo 4 A2
   - phrasal verbs should would like
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-40-module-4-review-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-40-module-4-review-ejercicios-soluciones'
 image: /blog/curso-a2/unit-40/a2-unit40-module-4-review.png
 alt: Module 4 Review — ejercicios A2 Unidad 40
 related_routes:

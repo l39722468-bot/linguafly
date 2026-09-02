@@ -16,7 +16,7 @@ keywords:
   - yes he does no she doesn't
   - tercera persona present simple
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-15-present-simple-doesnt-does-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-15-present-simple-doesnt-does-ejercicios-soluciones'
 image: /blog/curso-a1/unit-15/a1-unit15-doesnt.png
 alt: doesn't y Does he/she para ejercicios A1 Unidad 15
 related_routes:

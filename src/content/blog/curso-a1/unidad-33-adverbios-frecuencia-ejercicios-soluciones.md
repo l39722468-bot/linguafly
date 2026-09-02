@@ -15,7 +15,7 @@ keywords:
   - always usually often sometimes never
   - how often exercises
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-33-adverbios-frecuencia-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-33-adverbios-frecuencia-ejercicios-soluciones'
 image: /blog/curso-a1/unit-33/a1-unit33-frequency-scale.png
 alt: Adverbios de frecuencia para ejercicios A1 Unidad 33
 related_routes:

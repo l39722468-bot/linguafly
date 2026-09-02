@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 39
   - next weekend inglés
   - actividades al aire libre
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-39-outdoor-activities'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-39-outdoor-activities'
 image: /blog/curso-a1/unit-39/a1-unit39-present-continuous-plans.png
 alt: Esquema Present Continuous para planes outdoor en inglés A1
 related_routes:

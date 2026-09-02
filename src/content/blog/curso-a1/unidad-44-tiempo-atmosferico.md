@@ -16,7 +16,7 @@ keywords:
   - rainy cloudy snowy hot cold
   - it is raining
   - weather vocabulary english
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-44-tiempo-atmosferico'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-44-tiempo-atmosferico'
 image: /blog/curso-a1/unit-44/a1-unit44-it-is-weather.png
 alt: Esquema It is + tiempo atmosférico en inglés A1
 related_routes:

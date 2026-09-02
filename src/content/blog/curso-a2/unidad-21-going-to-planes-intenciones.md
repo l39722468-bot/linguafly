@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 21
   - be going to futuro
   - going to afirmativa negativa
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-21-going-to-planes-intenciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-21-going-to-planes-intenciones'
 image: /blog/curso-a2/unit-21/a2-unit21-going-to.png
 alt: Esquema de going to para planes e intenciones A2
 related_routes:

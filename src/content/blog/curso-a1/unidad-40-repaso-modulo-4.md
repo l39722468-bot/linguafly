@@ -17,7 +17,7 @@ keywords:
   - talent skills very well
   - can I may I permiso
   - outdoor plans present continuous
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-40-repaso-modulo-4'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-40-repaso-modulo-4'
 image: /blog/curso-a1/unit-40/a1-unit40-module-map.png
 alt: Mapa de repaso del Módulo 4 del curso A1
 related_routes:

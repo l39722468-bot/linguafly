@@ -16,7 +16,7 @@ keywords:
   - Can I pay with credit card
   - here is your change
   - shopping money vocabulary
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-59-dinero-pay-for-spend-on'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-59-dinero-pay-for-spend-on'
 image: /blog/curso-a1/unit-59/a1-unit59-pay-spend.png
 alt: Esquema pay for y spend on para dinero en inglés A1
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - vocabulario transporte inglés
   - by plane by taxi by bicycle
   - how do you go to work
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-42-transporte-by-take-the'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-42-transporte-by-take-the'
 image: /blog/curso-a1/unit-42/a1-unit42-by-transport.png
 alt: Esquema by + transporte y take the + transporte en inglés A1
 related_routes:

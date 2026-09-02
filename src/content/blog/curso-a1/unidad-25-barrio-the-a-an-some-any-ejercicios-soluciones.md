@@ -16,7 +16,7 @@ keywords:
   - describir el barrio inglés
   - there are some shops
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-25-barrio-the-a-an-some-any-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-25-barrio-the-a-an-some-any-ejercicios-soluciones'
 image: /blog/curso-a1/unit-25/a1-unit25-neighborhood.png
 alt: My Neighborhood para ejercicios A1 Unidad 25
 related_routes:

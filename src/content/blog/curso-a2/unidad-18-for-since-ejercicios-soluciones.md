@@ -14,7 +14,7 @@ keywords:
   - I have lived for
   - since 2020
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-18-for-since-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-18-for-since-ejercicios-soluciones'
 image: /blog/curso-a2/unit-18/a2-unit18-for-since.png
 alt: For & Since para ejercicios A2 Unidad 18
 related_routes:

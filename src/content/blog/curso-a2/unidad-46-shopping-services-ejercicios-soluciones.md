@@ -14,7 +14,7 @@ keywords:
   - Can I help you How much
   - refund exchange
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-46-shopping-services-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-46-shopping-services-ejercicios-soluciones'
 image: /blog/curso-a2/unit-46/a2-unit46-shopping-services.png
 alt: Shopping & Services — ejercicios A2 Unidad 46
 related_routes:

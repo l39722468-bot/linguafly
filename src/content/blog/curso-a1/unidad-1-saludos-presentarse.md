@@ -18,7 +18,7 @@ keywords:
   - my name is inglés
   - cómo saludar en inglés
   - curso inglés A1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-1-saludos-presentarse'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-1-saludos-presentarse'
 image: /blog/curso-a1/unit-1/a1-unit1-self-introduction-formula.png
 alt: Esquema para presentarse en inglés nivel A1 con saludo, nombre, origen y profesión
 related_routes:

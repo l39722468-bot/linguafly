@@ -16,7 +16,7 @@ keywords:
   - inglés A2 unidad 24
   - diary appointments English
   - am meeting flying having
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-24-present-continuous-futuro'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-24-present-continuous-futuro'
 image: /blog/curso-a2/unit-24/a2-unit24-pc-future.png
 alt: Esquema de Present Continuous para futuro A2
 related_routes:

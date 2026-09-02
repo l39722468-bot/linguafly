@@ -14,7 +14,7 @@ keywords:
   - There is are
   - located in museum library
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-58-places-buildings-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-58-places-buildings-ejercicios-soluciones'
 image: /blog/curso-a2/unit-58/a2-unit58-places-buildings.png
 alt: Places & Buildings — ejercicios A2 Unidad 58
 related_routes:

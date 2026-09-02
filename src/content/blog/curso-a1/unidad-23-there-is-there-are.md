@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 23
   - there is a book on the table
   - are there any chairs
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-23-there-is-there-are'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-23-there-is-there-are'
 image: /blog/curso-a1/unit-23/a1-unit23-there-is-are.png
 alt: Esquema There is There are en inglés nivel A1
 related_routes:

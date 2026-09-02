@@ -16,7 +16,7 @@ keywords:
   - imperativos inglés A1
   - how do I get to
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-26-direcciones-imperativos-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-26-direcciones-imperativos-ejercicios-soluciones'
 image: /blog/curso-a1/unit-26/a1-unit26-imperatives.png
 alt: Giving Directions para ejercicios A1 Unidad 26
 related_routes:

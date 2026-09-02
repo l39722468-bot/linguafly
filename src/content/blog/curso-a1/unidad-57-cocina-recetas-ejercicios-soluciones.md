@@ -15,7 +15,7 @@ keywords:
   - cut mix fry boil bake A1
   - recipe instructions english
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-57-cocina-recetas-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-57-cocina-recetas-ejercicios-soluciones'
 image: /blog/curso-a1/unit-57/a1-unit57-first-then-finally.png
 alt: First Then Finally para ejercicios A1 Unidad 57
 related_routes:

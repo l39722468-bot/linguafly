@@ -15,7 +15,7 @@ keywords:
   - How about
   - Would you like to
   - inglés A2 unidad 51
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-51-making-suggestions'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-51-making-suggestions'
 image: /blog/curso-a2/unit-51/a2-unit51-making-suggestions.png
 alt: Esquema Making Suggestions A2
 related_routes:

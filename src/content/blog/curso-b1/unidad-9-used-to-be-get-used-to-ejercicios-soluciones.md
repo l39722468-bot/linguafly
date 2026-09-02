@@ -16,7 +16,7 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - aprender inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-9-used-to-be-get-used-to-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-9-used-to-be-get-used-to-ejercicios-soluciones'
 image: /blog/curso-b1/unit-9/used-to-trio.png
 alt: Used to / be used to / get used to — ejercicios B1 Unidad 9
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - four seasons english
   - flowers bloom leaves fall
   - favourite season
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-45-estaciones-in-spring'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-45-estaciones-in-spring'
 image: /blog/curso-a1/unit-45/a1-unit45-in-seasons.png
 alt: Esquema in + estaciones del año en inglés A1
 related_routes:

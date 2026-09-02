@@ -18,7 +18,7 @@ keywords:
   - inglés A1 unidad 3
   - respuestas cortas inglés
   - curso inglés A1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-3-to-be-negativa-preguntas'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-3-to-be-negativa-preguntas'
 image: /blog/curso-a1/unit-3/a1-unit3-to-be-questions.png
 alt: Esquema de preguntas sí/no con el verbo to be en inglés nivel A1
 related_routes:

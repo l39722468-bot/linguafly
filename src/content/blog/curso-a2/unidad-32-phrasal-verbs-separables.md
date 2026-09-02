@@ -16,7 +16,7 @@ keywords:
   - inglés A2 unidad 32
   - object position phrasal verbs
   - give back put down
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-32-phrasal-verbs-separables'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-32-phrasal-verbs-separables'
 image: /blog/curso-a2/unit-32/a2-unit32-phrasal-separable.png
 alt: Esquema de phrasal verbs separables A2
 related_routes:

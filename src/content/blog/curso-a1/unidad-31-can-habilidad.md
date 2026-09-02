@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 31
   - can't drive
   - modal can A1
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-31-can-habilidad'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-31-can-habilidad'
 image: /blog/curso-a1/unit-31/a1-unit31-can-cant.png
 alt: Esquema can can't para habilidad en inglés nivel A1
 related_routes:

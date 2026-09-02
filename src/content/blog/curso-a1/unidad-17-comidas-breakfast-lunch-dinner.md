@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 17
   - vocabulary breakfast lunch dinner
   - Do you like milk
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner'
 image: /blog/curso-a1/unit-17/a1-unit17-vocab.png
 alt: Vocabulario de desayuno comida y cena en inglés A1
 related_routes:

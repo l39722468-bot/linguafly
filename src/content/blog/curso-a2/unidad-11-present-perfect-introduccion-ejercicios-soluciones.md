@@ -13,7 +13,7 @@ keywords:
   - have been seen eaten gone
   - been vs gone
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-11-present-perfect-introduccion-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-11-present-perfect-introduccion-ejercicios-soluciones'
 image: /blog/curso-a2/unit-11/a2-unit11-present-perfect.png
 alt: Present Perfect para ejercicios A2 Unidad 11
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - inglés A1 unidad 35
   - playing video games
   - tiempo libre inglés
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-35-free-time-activities'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-35-free-time-activities'
 image: /blog/curso-a1/unit-35/a1-unit35-free-time-patterns.png
 alt: Esquema go for a walk go shopping y like + -ing en inglés A1
 related_routes:

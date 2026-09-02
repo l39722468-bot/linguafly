@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 21
   - cozy small modern room
   - how many rooms does your flat have
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-21-habitaciones-casa'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-21-habitaciones-casa'
 image: /blog/curso-a1/unit-21/a1-unit21-rooms.png
 alt: Vocabulario de habitaciones de la casa en inglés A1
 related_routes:

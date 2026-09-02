@@ -16,7 +16,7 @@ keywords:
   - my favourite hobby
   - I live in a quiet neighbourhood
   - Nice to meet you A2
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-1-saludos-introducciones-repaso'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-1-saludos-introducciones-repaso'
 image: /blog/curso-a2/unit-1/a2-unit1-intro-formula.png
 alt: Fórmula de presentación extendida en inglés nivel A2
 related_routes:

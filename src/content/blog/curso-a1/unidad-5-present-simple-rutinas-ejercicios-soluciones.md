@@ -16,7 +16,7 @@ keywords:
   - tercera persona -s ejercicios
   - wake up get up ejercicios
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-5-present-simple-rutinas-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-5-present-simple-rutinas-ejercicios-soluciones'
 image: /blog/curso-a1/unit-5/a1-unit5-daily-routine.png
 alt: Rutina diaria en Present Simple para ejercicios A1 Unidad 5
 related_routes:

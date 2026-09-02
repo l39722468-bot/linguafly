@@ -16,7 +16,7 @@ keywords:
   - milk water bread rice
   - contables e incontables inglés
   - shopping list english A1
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-52-contables-incontables'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-52-contables-incontables'
 image: /blog/curso-a1/unit-52/a1-unit52-countable-uncountable.png
 alt: Esquema countable vs uncountable con much many a lot of en A1
 related_routes:

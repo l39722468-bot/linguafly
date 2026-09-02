@@ -15,7 +15,7 @@ keywords:
   - don't need to suitcase A1
   - toiletries essential items
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-49-maleta-need-to-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-49-maleta-need-to-ejercicios-soluciones'
 image: /blog/curso-a1/unit-49/a1-unit49-need-to.png
 alt: Need to packing para ejercicios A1 Unidad 49
 related_routes:

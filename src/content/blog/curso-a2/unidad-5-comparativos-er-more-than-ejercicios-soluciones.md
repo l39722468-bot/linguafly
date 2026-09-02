@@ -15,7 +15,7 @@ keywords:
   - taller than more expensive
   - better worse as tall as
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-5-comparativos-er-more-than-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-5-comparativos-er-more-than-ejercicios-soluciones'
 image: /blog/curso-a2/unit-5/a2-unit5-comparatives.png
 alt: Comparativos para ejercicios A2 Unidad 5
 related_routes:

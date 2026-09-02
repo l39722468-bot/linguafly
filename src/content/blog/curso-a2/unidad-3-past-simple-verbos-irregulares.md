@@ -17,7 +17,7 @@ keywords:
   - irregular verbs past simple
   - I went to London
   - I bought souvenirs
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-3-past-simple-verbos-irregulares'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-3-past-simple-verbos-irregulares'
 image: /blog/curso-a2/unit-3/a2-unit3-irregular-verbs.png
 alt: Tabla de verbos irregulares del Past Simple para inglés A2
 related_routes:

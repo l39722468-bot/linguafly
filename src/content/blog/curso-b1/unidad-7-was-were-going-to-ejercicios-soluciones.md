@@ -16,7 +16,7 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-7-was-were-going-to-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-7-was-were-going-to-ejercicios-soluciones'
 image: /blog/curso-b1/unit-7/was-were-going-to.png
 alt: Was/were going to — ejercicios B1 Unidad 7
 related_routes:

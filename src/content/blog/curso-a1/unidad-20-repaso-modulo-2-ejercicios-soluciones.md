@@ -16,7 +16,7 @@ keywords:
   - can I have I'd like
   - like + ing fechas
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-20-repaso-modulo-2-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-20-repaso-modulo-2-ejercicios-soluciones'
 image: /blog/curso-a1/unit-20/a1-unit20-module-map.png
 alt: Repaso Módulo 2 para ejercicios A1 Unidad 20
 related_routes:

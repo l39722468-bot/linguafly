@@ -16,7 +16,7 @@ keywords:
   - have to could A2
   - inglés A2 unidad 30
   - Module 3 Review
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-30-repaso-modulo-3'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-30-repaso-modulo-3'
 image: /blog/curso-a2/unit-30/a2-unit30-module3-review.png
 alt: Esquema de repaso del Módulo 3 del curso A2
 related_routes:

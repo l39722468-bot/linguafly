@@ -16,7 +16,7 @@ keywords:
   - wake up brush teeth ejercicios
   - daily routine A1
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-13-rutina-diaria-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-13-rutina-diaria-ejercicios-soluciones'
 image: /blog/curso-a1/unit-13/a1-unit13-routine.png
 alt: Rutina diaria para ejercicios A1 Unidad 13
 related_routes:

@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 41
   - take the train
   - airport station ticket
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-41-travel-transport'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-41-travel-transport'
 image: /blog/curso-a2/unit-41/a2-unit41-travel-transport.png
 alt: Esquema Travel and Transport A2
 related_routes:

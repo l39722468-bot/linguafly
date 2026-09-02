@@ -14,7 +14,7 @@ keywords:
   - Can I Could you
   - Would you like me to
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-52-offers-requests-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-52-offers-requests-ejercicios-soluciones'
 image: /blog/curso-a2/unit-52/a2-unit52-offers-requests.png
 alt: Offers & Requests — ejercicios A2 Unidad 52
 related_routes:

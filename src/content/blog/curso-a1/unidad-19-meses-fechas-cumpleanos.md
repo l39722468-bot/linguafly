@@ -16,7 +16,7 @@ keywords:
   - inglés A1 unidad 19
   - dates in English A1
   - I was born in February
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-19-meses-fechas-cumpleanos'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-19-meses-fechas-cumpleanos'
 image: /blog/curso-a1/unit-19/a1-unit19-months.png
 alt: Meses del año en inglés nivel A1
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - inglés A1 unidad 18
   - hobbies vocabulary English
   - what kind of music do you like
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-18-gustos-like-ing-because'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-18-gustos-like-ing-because'
 image: /blog/curso-a1/unit-18/a1-unit18-like-ing.png
 alt: Esquema like + -ing en inglés nivel A1
 related_routes:

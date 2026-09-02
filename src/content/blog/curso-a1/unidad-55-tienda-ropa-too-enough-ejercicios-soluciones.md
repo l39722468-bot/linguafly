@@ -15,7 +15,7 @@ keywords:
   - too big big enough A1
   - changing room size sale
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-55-tienda-ropa-too-enough-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-55-tienda-ropa-too-enough-ejercicios-soluciones'
 image: /blog/curso-a1/unit-55/a1-unit55-too-enough.png
 alt: Too y enough para ejercicios A1 Unidad 55
 related_routes:

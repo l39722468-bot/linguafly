@@ -17,7 +17,7 @@ keywords:
   - fruit vegetables meat fish
   - aisle trolley checkout
   - supermarket vocabulary english
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-51-supermercado-plurales'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-51-supermercado-plurales'
 image: /blog/curso-a1/unit-51/a1-unit51-plurals.png
 alt: Esquema de plurales regulares e irregulares en el supermercado A1
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - inglés A2 unidad 50
   - weather entertainment
   - people relationships A2
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-50-module-5-review'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-50-module-5-review'
 image: /blog/curso-a2/unit-50/a2-unit50-module-5-review.png
 alt: Esquema de repaso del Módulo 5 A2
 related_routes:

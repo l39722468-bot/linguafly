@@ -16,7 +16,7 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - gramática inglés B1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-b1/unidad-8-modals-deduction-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-b1/unidad-8-modals-deduction-ejercicios-soluciones'
 image: /blog/curso-b1/unit-8/modals-deduction.png
 alt: Modals of deduction — ejercicios B1 Unidad 8
 related_routes:

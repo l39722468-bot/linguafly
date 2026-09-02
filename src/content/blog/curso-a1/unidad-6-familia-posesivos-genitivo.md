@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 6
   - family members english
   - my mother his father
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-6-familia-posesivos-genitivo'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-6-familia-posesivos-genitivo'
 image: /blog/curso-a1/unit-6/a1-unit6-family-tree.png
 alt: Árbol genealógico básico en inglés nivel A1 con miembros de la familia
 related_routes:

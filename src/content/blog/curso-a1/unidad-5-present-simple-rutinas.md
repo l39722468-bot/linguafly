@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 5
   - verbos de rutina inglés
   - he works she studies
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-5-present-simple-rutinas'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-5-present-simple-rutinas'
 image: /blog/curso-a1/unit-5/a1-unit5-daily-routine.png
 alt: Línea de tiempo de rutina diaria en inglés nivel A1
 related_routes:

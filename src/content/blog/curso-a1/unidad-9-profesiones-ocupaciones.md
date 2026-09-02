@@ -16,7 +16,7 @@ keywords:
   - a an profesiones inglés
   - inglés A1 unidad 9
   - what do you do
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-9-profesiones-ocupaciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-9-profesiones-ocupaciones'
 image: /blog/curso-a1/unit-9/a1-unit9-jobs.png
 alt: Tabla de profesiones y lugares de trabajo en inglés nivel A1
 related_routes:

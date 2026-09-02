@@ -15,7 +15,7 @@ keywords:
   - repaso there is are A1
   - have got wearing directions
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-30-repaso-modulo-3-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-30-repaso-modulo-3-ejercicios-soluciones'
 image: /blog/curso-a1/unit-30/a1-unit30-module-map.png
 alt: Module 3 Review para ejercicios A1 Unidad 30
 related_routes:

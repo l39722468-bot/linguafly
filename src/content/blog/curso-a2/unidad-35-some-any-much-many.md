@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 35
   - how much how many
   - cantidades en inglés
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-35-some-any-much-many'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-35-some-any-much-many'
 image: /blog/curso-a2/unit-35/a2-unit35-some-any-much-many.png
 alt: Esquema de some any much many A2
 related_routes:

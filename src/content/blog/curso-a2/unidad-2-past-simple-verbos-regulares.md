@@ -17,7 +17,7 @@ keywords:
   - pasado simple -ed
   - I walked yesterday
   - regular verbs past simple
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-2-past-simple-verbos-regulares'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-2-past-simple-verbos-regulares'
 image: /blog/curso-a2/unit-2/a2-unit2-past-simple-ed.png
 alt: Esquema Past Simple verbos regulares con -ed para inglés A2
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - whose is this
   - this sofa is mine
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours-ejercicios-soluciones'
 image: /blog/curso-a1/unit-22/a1-unit22-furniture.png
 alt: Muebles y posesivos para ejercicios A1 Unidad 22
 related_routes:

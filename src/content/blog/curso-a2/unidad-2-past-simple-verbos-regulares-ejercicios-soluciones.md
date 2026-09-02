@@ -15,7 +15,7 @@ keywords:
   - walked visited played finished
   - yesterday last week ago
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-2-past-simple-verbos-regulares-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-2-past-simple-verbos-regulares-ejercicios-soluciones'
 image: /blog/curso-a2/unit-2/a2-unit2-past-simple-ed.png
 alt: Past Simple -ed para ejercicios A2 Unidad 2
 related_routes:

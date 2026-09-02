@@ -15,7 +15,7 @@ keywords:
   - have to English
   - inglés A2 unidad 57
   - subject exam graduation
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-57-work-education'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-57-work-education'
 image: /blog/curso-a2/unit-57/a2-unit57-work-education.png
 alt: Esquema Work & Education A2
 related_routes:

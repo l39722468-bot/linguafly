@@ -16,7 +16,7 @@ keywords:
   - toiletries essential items
   - passport toothbrush shampoo
   - packing vocabulary english
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-49-maleta-need-to'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-49-maleta-need-to'
 image: /blog/curso-a1/unit-49/a1-unit49-need-to.png
 alt: Esquema need to y don't need to para hacer la maleta en inglés A1
 related_routes:

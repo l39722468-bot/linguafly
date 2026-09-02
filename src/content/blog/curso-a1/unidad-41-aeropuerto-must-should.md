@@ -17,7 +17,7 @@ keywords:
   - vocabulario aeropuerto inglés
   - you must show your passport
   - you should arrive early
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-41-aeropuerto-must-should'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-41-aeropuerto-must-should'
 image: /blog/curso-a1/unit-41/a1-unit41-must-should.png
 alt: Esquema must vs should en el aeropuerto para inglés A1
 related_routes:

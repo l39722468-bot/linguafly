@@ -16,7 +16,7 @@ keywords:
   - farm wild animals A1
   - my dog is friendly
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-27-mascotas-animales-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-27-mascotas-animales-ejercicios-soluciones'
 image: /blog/curso-a1/unit-27/a1-unit27-pets-farm-wild.png
 alt: Pets & Animals para ejercicios A1 Unidad 27
 related_routes:

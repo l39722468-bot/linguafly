@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 39
   - place before time
   - at the moment
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-39-adverbial-phrases'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-39-adverbial-phrases'
 image: /blog/curso-a2/unit-39/a2-unit39-adverbial-phrases.png
 alt: Esquema de frases adverbiales A2
 related_routes:

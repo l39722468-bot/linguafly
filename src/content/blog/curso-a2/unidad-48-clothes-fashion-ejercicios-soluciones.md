@@ -14,7 +14,7 @@ keywords:
   - wear put on too enough
   - casual formal outfit
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-48-clothes-fashion-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-48-clothes-fashion-ejercicios-soluciones'
 image: /blog/curso-a2/unit-48/a2-unit48-clothes-fashion.png
 alt: Clothes & Fashion — ejercicios A2 Unidad 48
 related_routes:

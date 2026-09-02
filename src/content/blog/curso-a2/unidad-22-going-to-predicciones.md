@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 22
   - predictions going to
   - Look at the clouds
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-22-going-to-predicciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-22-going-to-predicciones'
 image: /blog/curso-a2/unit-22/a2-unit22-predictions.png
 alt: Esquema de going to para predicciones A2
 related_routes:

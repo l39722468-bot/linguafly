@@ -16,7 +16,7 @@ keywords:
   - inglés A1 unidad 34
   - oraciones compuestas A1
   - using and but because
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-34-and-but-because'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-34-and-but-because'
 image: /blog/curso-a1/unit-34/a1-unit34-and-but-because.png
 alt: Esquema and but because para conectar ideas en inglés A1
 related_routes:

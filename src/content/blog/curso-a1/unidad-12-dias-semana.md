@@ -17,7 +17,7 @@ keywords:
   - days of the week A1
   - inglés A1 unidad 12
   - from monday to friday
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-12-dias-semana'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-12-dias-semana'
 image: /blog/curso-a1/unit-12/a1-unit12-days.png
 alt: Tabla de los días de la semana en inglés nivel A1
 related_routes:

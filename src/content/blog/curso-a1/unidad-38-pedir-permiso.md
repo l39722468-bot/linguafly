@@ -16,7 +16,7 @@ keywords:
   - inglés A1 unidad 38
   - excuse me can I borrow
   - of course inglés
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-38-pedir-permiso'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-38-pedir-permiso'
 image: /blog/curso-a1/unit-38/a1-unit38-can-may.png
 alt: Esquema Can I y May I para pedir permiso en inglés A1
 related_routes:

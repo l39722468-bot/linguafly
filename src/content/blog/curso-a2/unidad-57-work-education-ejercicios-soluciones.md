@@ -14,7 +14,7 @@ keywords:
   - work as study at
   - have to deadline
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-57-work-education-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-57-work-education-ejercicios-soluciones'
 image: /blog/curso-a2/unit-57/a2-unit57-work-education.png
 alt: Work & Education — ejercicios A2 Unidad 57
 related_routes:

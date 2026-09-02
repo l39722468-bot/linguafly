@@ -16,7 +16,7 @@ keywords:
   - yes i do no i don't
   - do the housework ejercicios
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-14-present-simple-dont-do-you-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-14-present-simple-dont-do-you-ejercicios-soluciones'
 image: /blog/curso-a1/unit-14/a1-unit14-dont.png
 alt: don't y Do you para ejercicios A1 Unidad 14
 related_routes:

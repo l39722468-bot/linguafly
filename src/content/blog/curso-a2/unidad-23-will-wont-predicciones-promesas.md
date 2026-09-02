@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 23
   - will predictions promises
   - won't forget
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-23-will-wont-predicciones-promesas'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-23-will-wont-predicciones-promesas'
 image: /blog/curso-a2/unit-23/a2-unit23-will-wont.png
 alt: Esquema de will y won't para promesas y predicciones A2
 related_routes:

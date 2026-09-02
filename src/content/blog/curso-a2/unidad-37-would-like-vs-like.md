@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 37
   - pedir en inglés restaurante
   - like -ing would like to
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-37-would-like-vs-like'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-37-would-like-vs-like'
 image: /blog/curso-a2/unit-37/a2-unit37-would-like-vs-like.png
 alt: Esquema Would like vs Like A2
 related_routes:

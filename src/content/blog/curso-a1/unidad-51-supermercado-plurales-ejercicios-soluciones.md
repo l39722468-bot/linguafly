@@ -15,7 +15,7 @@ keywords:
   - tomatoes potatoes apples A1
   - aisle trolley checkout
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-51-supermercado-plurales-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-51-supermercado-plurales-ejercicios-soluciones'
 image: /blog/curso-a1/unit-51/a1-unit51-plurals.png
 alt: Plurales supermercado para ejercicios A1 Unidad 51
 related_routes:

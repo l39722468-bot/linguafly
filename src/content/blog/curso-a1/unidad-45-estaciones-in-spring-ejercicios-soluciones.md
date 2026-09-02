@@ -15,7 +15,7 @@ keywords:
   - spring summer autumn winter
   - in winter in summer A1
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-45-estaciones-in-spring-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-45-estaciones-in-spring-ejercicios-soluciones'
 image: /blog/curso-a1/unit-45/a1-unit45-in-seasons.png
 alt: In + estación para ejercicios A1 Unidad 45
 related_routes:

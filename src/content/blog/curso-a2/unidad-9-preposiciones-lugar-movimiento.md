@@ -15,7 +15,7 @@ keywords:
   - through vs across
   - inglés A2 unidad 9
   - prepositions of place and movement
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento'
 image: /blog/curso-a2/unit-9/a2-unit9-prepositions-movement.png
 alt: Esquema into out of through across para inglés A2
 related_routes:

@@ -17,7 +17,7 @@ keywords:
   - números en inglés 1 al 10
   - inglés A1 unidad 4
   - colores en inglés básicos
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-4-articulos-plurales-demostrativos'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-4-articulos-plurales-demostrativos'
 image: /blog/curso-a1/unit-4/a1-unit4-this-that-these-those.png
 alt: Esquema de demostrativos this that these those en inglés nivel A1
 related_routes:

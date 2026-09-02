@@ -16,7 +16,7 @@ keywords:
   - the kitchen is bright
   - we have three bedrooms
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-21-habitaciones-casa-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-21-habitaciones-casa-ejercicios-soluciones'
 image: /blog/curso-a1/unit-21/a1-unit21-rooms.png
 alt: Habitaciones de la casa para ejercicios A1 Unidad 21
 related_routes:

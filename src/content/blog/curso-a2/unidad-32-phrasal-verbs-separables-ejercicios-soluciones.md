@@ -14,7 +14,7 @@ keywords:
   - pick up put on take off
   - turn it off give back
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-32-phrasal-verbs-separables-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-32-phrasal-verbs-separables-ejercicios-soluciones'
 image: /blog/curso-a2/unit-32/a2-unit32-phrasal-separable.png
 alt: Phrasal verbs separables — ejercicios A2 Unidad 32
 related_routes:

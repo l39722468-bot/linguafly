@@ -15,7 +15,7 @@ keywords:
   - refund exchange
   - inglés A2 unidad 46
   - department store vocabulary
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-46-shopping-services'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-46-shopping-services'
 image: /blog/curso-a2/unit-46/a2-unit46-shopping-services.png
 alt: Esquema Shopping & Services A2
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - inglés A1 unidad 16
   - how much is it café
   - can I have the bill
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like'
 image: /blog/curso-a1/unit-16/a1-unit16-can-i-have.png
 alt: Esquema de Can I have en inglés nivel A1 cafetería
 related_routes:

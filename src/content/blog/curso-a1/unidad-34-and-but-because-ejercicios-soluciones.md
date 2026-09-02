@@ -15,7 +15,7 @@ keywords:
   - conectores inglés A1
   - because subject verb
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-34-and-but-because-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-34-and-but-because-ejercicios-soluciones'
 image: /blog/curso-a1/unit-34/a1-unit34-and-but-because.png
 alt: And but because para ejercicios A1 Unidad 34
 related_routes:

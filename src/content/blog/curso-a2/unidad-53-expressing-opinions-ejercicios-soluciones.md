@@ -14,7 +14,7 @@ keywords:
   - I think In my opinion
   - I agree I disagree
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-53-expressing-opinions-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-53-expressing-opinions-ejercicios-soluciones'
 image: /blog/curso-a2/unit-53/a2-unit53-expressing-opinions.png
 alt: Expressing Opinions — ejercicios A2 Unidad 53
 related_routes:

@@ -13,7 +13,7 @@ keywords:
   - I have been / I went
   - last year vs experience
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-15-present-perfect-vs-past-simple-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-15-present-perfect-vs-past-simple-ejercicios-soluciones'
 image: /blog/curso-a2/unit-15/a2-unit15-pp-vs-ps.png
 alt: Present Perfect vs Past Simple para ejercicios A2 Unidad 15
 related_routes:

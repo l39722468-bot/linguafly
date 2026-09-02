@@ -14,7 +14,7 @@ keywords:
   - look like be like
   - have known for since
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-49-people-relationships-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-49-people-relationships-ejercicios-soluciones'
 image: /blog/curso-a2/unit-49/a2-unit49-people-relationships.png
 alt: People & Relationships — ejercicios A2 Unidad 49
 related_routes:

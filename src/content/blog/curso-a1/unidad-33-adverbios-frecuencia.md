@@ -16,7 +16,7 @@ keywords:
   - inglés A1 unidad 33
   - how often
   - I always get up
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-33-adverbios-frecuencia'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-33-adverbios-frecuencia'
 image: /blog/curso-a1/unit-33/a1-unit33-frequency-scale.png
 alt: Escala de adverbios de frecuencia always usually often sometimes never en inglés A1
 related_routes:

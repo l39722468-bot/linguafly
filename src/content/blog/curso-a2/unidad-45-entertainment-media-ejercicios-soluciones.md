@@ -14,7 +14,7 @@ keywords:
   - watch listen to read
   - like ing prefer
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-45-entertainment-media-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-45-entertainment-media-ejercicios-soluciones'
 image: /blog/curso-a2/unit-45/a2-unit45-entertainment-media.png
 alt: Entertainment & Media — ejercicios A2 Unidad 45
 related_routes:

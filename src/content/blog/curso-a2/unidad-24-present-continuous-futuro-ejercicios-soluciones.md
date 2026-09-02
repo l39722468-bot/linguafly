@@ -14,7 +14,7 @@ keywords:
   - I am meeting
   - planes fijados agenda A2
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-24-present-continuous-futuro-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-24-present-continuous-futuro-ejercicios-soluciones'
 image: /blog/curso-a2/unit-24/a2-unit24-pc-future.png
 alt: Present Continuous futuro — ejercicios A2 Unidad 24
 related_routes:

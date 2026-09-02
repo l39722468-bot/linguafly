@@ -14,7 +14,7 @@ keywords:
   - If you heat water it boils
   - condicional cero A2
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-27-zero-conditional-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-27-zero-conditional-ejercicios-soluciones'
 image: /blog/curso-a2/unit-27/a2-unit27-zero-conditional.png
 alt: Zero Conditional — ejercicios A2 Unidad 27
 related_routes:

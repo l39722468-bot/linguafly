@@ -15,7 +15,7 @@ keywords:
   - for since How questions
   - inglés A2 unidad 20
   - Module 2 Review
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-20-repaso-modulo-2'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-20-repaso-modulo-2'
 image: /blog/curso-a2/unit-20/a2-unit20-module2-review.png
 alt: Esquema de repaso del Módulo 2 del curso A2
 related_routes:

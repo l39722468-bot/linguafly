@@ -16,7 +16,7 @@ keywords:
   - size S M L XL
   - changing room sale
   - this shirt is too big
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-55-tienda-ropa-too-enough'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-55-tienda-ropa-too-enough'
 image: /blog/curso-a1/unit-55/a1-unit55-too-enough.png
 alt: Esquema too vs enough en la tienda de ropa A1
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - ordinales 1st 2nd 3rd
   - in January on the 15th
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-19-meses-fechas-cumpleanos-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-19-meses-fechas-cumpleanos-ejercicios-soluciones'
 image: /blog/curso-a1/unit-19/a1-unit19-months.png
 alt: Meses y fechas para ejercicios A1 Unidad 19
 related_routes:

@@ -18,7 +18,7 @@ keywords:
   - países en inglés
   - I am you are he is
   - curso inglés A1 gratis
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades'
 image: /blog/curso-a1/unit-2/a1-unit2-to-be-chart.png
 alt: Tabla del verbo to be en inglés A1 con am, is y are para todos los pronombres
 related_routes:

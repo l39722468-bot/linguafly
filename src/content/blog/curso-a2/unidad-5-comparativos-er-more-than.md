@@ -16,7 +16,7 @@ keywords:
   - -er more than
   - as tall as
   - comparative adjectives A2
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-5-comparativos-er-more-than'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-5-comparativos-er-more-than'
 image: /blog/curso-a2/unit-5/a2-unit5-comparatives.png
 alt: Esquema de comparativos -er y more than para inglés A2
 related_routes:

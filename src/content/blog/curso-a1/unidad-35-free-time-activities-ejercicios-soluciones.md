@@ -15,7 +15,7 @@ keywords:
   - go for a walk go shopping
   - like + ing A1
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-35-free-time-activities-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-35-free-time-activities-ejercicios-soluciones'
 image: /blog/curso-a1/unit-35/a1-unit35-free-time-patterns.png
 alt: Free time activities para ejercicios A1 Unidad 35
 related_routes:

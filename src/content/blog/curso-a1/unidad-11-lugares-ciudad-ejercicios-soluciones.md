@@ -16,7 +16,7 @@ keywords:
   - next to opposite between ejercicios
   - lugares ciudad inglés A1
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-11-lugares-ciudad-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-11-lugares-ciudad-ejercicios-soluciones'
 image: /blog/curso-a1/unit-11/a1-unit11-places.png
 alt: Lugares en la ciudad para ejercicios A1 Unidad 11
 related_routes:

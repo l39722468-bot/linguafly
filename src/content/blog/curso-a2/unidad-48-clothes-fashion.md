@@ -15,7 +15,7 @@ keywords:
   - casual formal outfit
   - inglés A2 unidad 48
   - vocabulary clothes English
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-48-clothes-fashion'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-48-clothes-fashion'
 image: /blog/curso-a2/unit-48/a2-unit48-clothes-fashion.png
 alt: Esquema Clothes & Fashion A2
 related_routes:

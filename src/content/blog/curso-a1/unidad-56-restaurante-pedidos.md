@@ -17,7 +17,7 @@ keywords:
   - starter main course dessert
   - menu waiter restaurant english
   - pedir en restaurante inglés
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-56-restaurante-pedidos'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-56-restaurante-pedidos'
 image: /blog/curso-a1/unit-56/a1-unit56-polite-orders.png
 alt: Esquema de pedidos educados I would like y Can I have en restaurante A1
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - -est the most
   - in of superlatives
   - Mount Everest the highest
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-6-superlativos-est-the-most'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-6-superlativos-est-the-most'
 image: /blog/curso-a2/unit-6/a2-unit6-superlatives.png
 alt: Esquema de superlativos the -est y the most para inglés A2
 related_routes:

@@ -17,7 +17,7 @@ keywords:
   - pound dollar euro
   - cheap expensive price
   - asking for prices english
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-54-how-much-how-many'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-54-how-much-how-many'
 image: /blog/curso-a1/unit-54/a1-unit54-how-much-many.png
 alt: Esquema How much y How many para precio y cantidad en A1
 related_routes:

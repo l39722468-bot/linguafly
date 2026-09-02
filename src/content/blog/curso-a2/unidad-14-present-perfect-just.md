@@ -15,7 +15,7 @@ keywords:
   - acabar de en inglés
   - inglés A2 unidad 14
   - have just finished
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-14-present-perfect-just'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-14-present-perfect-just'
 image: /blog/curso-a2/unit-14/a2-unit14-just.png
 alt: Esquema just del Present Perfect A2
 related_routes:

@@ -15,7 +15,7 @@ keywords:
   - while she was cooking
   - inglés A2 unidad 17
   - acción interrumpida inglés
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-17-past-simple-past-continuous'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-17-past-simple-past-continuous'
 image: /blog/curso-a2/unit-17/a2-unit17-ps-pc.png
 alt: Esquema Past Simple y Past Continuous con when y while A2
 related_routes:

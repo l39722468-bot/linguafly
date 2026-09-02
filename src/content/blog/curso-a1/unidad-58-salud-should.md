@@ -17,7 +17,7 @@ keywords:
   - medicine pharmacy doctor
   - you should rest
   - you shouldn't go to work
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-58-salud-should'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-58-salud-should'
 image: /blog/curso-a1/unit-58/a1-unit58-should-shouldnt.png
 alt: Esquema should y shouldn't para consejos de salud A1
 related_routes:

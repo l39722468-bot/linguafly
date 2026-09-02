@@ -16,7 +16,7 @@ keywords:
   - preposiciones de lugar A1
   - where is the pharmacy
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between-ejercicios-soluciones'
 image: /blog/curso-a1/unit-24/a1-unit24-prepositions.png
 alt: Preposiciones de lugar para ejercicios A1 Unidad 24
 related_routes:

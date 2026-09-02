@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 20
   - likes dislikes dates review
   - daily routines English A1
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-20-repaso-modulo-2'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-20-repaso-modulo-2'
 image: /blog/curso-a1/unit-20/a1-unit20-module-map.png
 alt: Mapa de repaso del Módulo 2 del curso A1
 related_routes:

@@ -16,7 +16,7 @@ keywords:
   - how are you ejercicios
   - emociones inglés A1
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-3-to-be-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-3-to-be-ejercicios-soluciones'
 image: /blog/curso-a1/unit-3/a1-unit3-to-be-questions.png
 alt: Preguntas sí/no con to be para ejercicios A1 Unidad 3
 related_routes:

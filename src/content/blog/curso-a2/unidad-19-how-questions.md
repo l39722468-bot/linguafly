@@ -15,7 +15,7 @@ keywords:
   - How long ago
   - inglés A2 unidad 19
   - preguntas How inglés
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-19-how-questions'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-19-how-questions'
 image: /blog/curso-a2/unit-19/a2-unit19-how-questions.png
 alt: Esquema de preguntas How en inglés A2
 related_routes:

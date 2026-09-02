@@ -16,7 +16,7 @@ keywords:
   - at on in into through
   - inglés A2 unidad 10
   - Module 1 Review
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-10-repaso-modulo-1'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-10-repaso-modulo-1'
 image: /blog/curso-a2/unit-10/a2-unit10-module1-review.png
 alt: Esquema de repaso del Módulo 1 del curso A2
 related_routes:

@@ -15,7 +15,7 @@ keywords:
   - countable uncountable A1
   - how many eggs how much milk
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-52-contables-incontables-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-52-contables-incontables-ejercicios-soluciones'
 image: /blog/curso-a1/unit-52/a1-unit52-countable-uncountable.png
 alt: Contables e incontables para ejercicios A1 Unidad 52
 related_routes:

@@ -14,7 +14,7 @@ keywords:
   - was were -ing
   - I was watching
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-16-past-continuous-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-16-past-continuous-ejercicios-soluciones'
 image: /blog/curso-a2/unit-16/a2-unit16-past-continuous.png
 alt: Past Continuous para ejercicios A2 Unidad 16
 related_routes:

@@ -15,7 +15,7 @@ keywords:
   - the most famous the oldest A1
   - museum monument guided tour
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-48-sightseeing-superlativos-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-48-sightseeing-superlativos-ejercicios-soluciones'
 image: /blog/curso-a1/unit-48/a1-unit48-superlatives.png
 alt: Superlativos sightseeing para ejercicios A1 Unidad 48
 related_routes:

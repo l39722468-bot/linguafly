@@ -14,7 +14,7 @@ keywords:
   - has to doesn't have to
   - obligaciones A2
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-28-have-to-dont-have-to-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-28-have-to-dont-have-to-ejercicios-soluciones'
 image: /blog/curso-a2/unit-28/a2-unit28-have-to.png
 alt: Have to / Don't have to — ejercicios A2 Unidad 28
 related_routes:

@@ -17,7 +17,7 @@ keywords:
   - places in town english
   - inglés A1 unidad 11
   - is there a pharmacy
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-11-lugares-ciudad'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-11-lugares-ciudad'
 image: /blog/curso-a1/unit-11/a1-unit11-places.png
 alt: Tabla de lugares en la ciudad en inglés nivel A1
 related_routes:

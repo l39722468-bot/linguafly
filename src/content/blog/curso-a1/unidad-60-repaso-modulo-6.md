@@ -17,7 +17,7 @@ keywords:
   - too enough should recipes
   - pay for spend on review
   - shopping food vocabulary A1
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-60-repaso-modulo-6'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-60-repaso-modulo-6'
 image: /blog/curso-a1/unit-60/a1-unit60-module-map.png
 alt: Mapa de repaso del Módulo 6 del curso A1 Shopping and Food
 related_routes:

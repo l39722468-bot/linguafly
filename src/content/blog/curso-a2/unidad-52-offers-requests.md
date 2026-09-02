@@ -15,7 +15,7 @@ keywords:
   - Would you like me to
   - inglés A2 unidad 52
   - polite English requests
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-52-offers-requests'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-52-offers-requests'
 image: /blog/curso-a2/unit-52/a2-unit52-offers-requests.png
 alt: Esquema Offers & Requests A2
 related_routes:

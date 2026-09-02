@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 34
   - who what which questions
   - do does did questions
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-34-subject-object-questions'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-34-subject-object-questions'
 image: /blog/curso-a2/unit-34/a2-unit34-subject-object.png
 alt: Esquema de preguntas de sujeto y objeto A2
 related_routes:

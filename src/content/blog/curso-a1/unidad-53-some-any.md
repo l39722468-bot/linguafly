@@ -16,7 +16,7 @@ keywords:
   - a bottle of water
   - a box of cereal
   - bag can containers english
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-53-some-any'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-53-some-any'
 image: /blog/curso-a1/unit-53/a1-unit53-some-any.png
 alt: Esquema some y any en afirmativas negativas y preguntas A1
 related_routes:

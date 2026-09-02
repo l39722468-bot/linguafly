@@ -17,7 +17,7 @@ keywords:
   - inglés A2 unidad 4
   - first then finally past
   - preguntas en pasado inglés
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-4-wh-questions-past-simple'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-4-wh-questions-past-simple'
 image: /blog/curso-a2/unit-4/a2-unit4-wh-questions.png
 alt: Esquema de Wh-questions en Past Simple para inglés A2
 related_routes:

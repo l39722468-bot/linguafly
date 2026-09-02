@@ -14,7 +14,7 @@ keywords:
   - I am going to
   - planes e intenciones A2
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-21-going-to-planes-intenciones-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-21-going-to-planes-intenciones-ejercicios-soluciones'
 image: /blog/curso-a2/unit-21/a2-unit21-going-to.png
 alt: Going to para planes e intenciones — ejercicios A2 Unidad 21
 related_routes:

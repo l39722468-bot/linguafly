@@ -15,7 +15,7 @@ keywords:
   - inglés A2 unidad 60
   - technology work places
   - linking words review
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-60-module-6-review'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-60-module-6-review'
 image: /blog/curso-a2/unit-60/a2-unit60-module-6-review.png
 alt: Esquema de repaso del Módulo 6 A2
 related_routes:

@@ -14,7 +14,7 @@ keywords:
   - preposiciones de tiempo A2
   - at 7 o'clock on Monday in August
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in-ejercicios-soluciones'
 image: /blog/curso-a2/unit-8/a2-unit8-prepositions-time.png
 alt: Preposiciones de tiempo para ejercicios A2 Unidad 8
 related_routes:

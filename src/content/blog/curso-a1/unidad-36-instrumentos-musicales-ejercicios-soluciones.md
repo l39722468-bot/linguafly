@@ -15,7 +15,7 @@ keywords:
   - instrumentos musicales inglés A1
   - play the guitar drums
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-36-instrumentos-musicales-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-36-instrumentos-musicales-ejercicios-soluciones'
 image: /blog/curso-a1/unit-36/a1-unit36-play-the.png
 alt: Play the + instrumento para ejercicios A1 Unidad 36
 related_routes:

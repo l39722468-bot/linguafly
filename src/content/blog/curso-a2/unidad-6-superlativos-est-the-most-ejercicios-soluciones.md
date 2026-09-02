@@ -15,7 +15,7 @@ keywords:
   - the tallest the most beautiful
   - the best the worst in of
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-6-superlativos-est-the-most-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-6-superlativos-est-the-most-ejercicios-soluciones'
 image: /blog/curso-a2/unit-6/a2-unit6-superlatives.png
 alt: Superlativos para ejercicios A2 Unidad 6
 related_routes:

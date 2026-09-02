@@ -16,7 +16,7 @@ author: focus-english-team
 date: '2026-07-30'
 updatedDate: '2026-08-31'
 category: gramatica
-canonical: 'https://www.linguafly.app/blog/gramatica/ejercicios-condicionales-b1-b2'
+canonical: 'https://linguafly.app/blog/gramatica/ejercicios-condicionales-b1-b2'
 downloadPdf: true
 pdfFileName: 'ejercicios-condicionales-b1-b2'
 pdfDownloadLabel: 'Descargar ejercicios en PDF'

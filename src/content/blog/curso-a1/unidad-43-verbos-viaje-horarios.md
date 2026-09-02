@@ -16,7 +16,7 @@ keywords:
   - present simple horarios
   - my flight departs
   - stay at a hotel
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-43-verbos-viaje-horarios'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-43-verbos-viaje-horarios'
 image: /blog/curso-a1/unit-43/a1-unit43-schedules.png
 alt: Esquema Present Simple para horarios de viaje en inglés A1
 related_routes:

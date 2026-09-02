@@ -14,7 +14,7 @@ keywords:
   - preposiciones de movimiento A2
   - through vs across
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento-ejercicios-soluciones'
 image: /blog/curso-a2/unit-9/a2-unit9-prepositions-movement.png
 alt: Preposiciones de movimiento para ejercicios A2 Unidad 9
 related_routes:

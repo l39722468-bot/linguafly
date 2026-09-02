@@ -16,7 +16,7 @@ keywords:
   - inglés A2 unidad 25
   - will going to present continuous
   - tres formas de futuro A2
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous'
 image: /blog/curso-a2/unit-25/a2-unit25-three-futures.png
 alt: Esquema de contraste de futuros A2 going to will Present Continuous
 related_routes:

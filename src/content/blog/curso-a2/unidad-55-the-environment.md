@@ -15,7 +15,7 @@ keywords:
   - should environmental advice
   - inglés A2 unidad 55
   - sustainability English
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-55-the-environment'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-55-the-environment'
 image: /blog/curso-a2/unit-55/a2-unit55-the-environment.png
 alt: Esquema The Environment A2
 related_routes:

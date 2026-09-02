@@ -15,7 +15,7 @@ keywords:
   - headache fever cold A1
   - medicine pharmacy doctor
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-58-salud-should-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-58-salud-should-ejercicios-soluciones'
 image: /blog/curso-a1/unit-58/a1-unit58-should-shouldnt.png
 alt: should y shouldn't para ejercicios A1 Unidad 58
 related_routes:

@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 15
   - he goes she watches
   - does the cat like
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-15-present-simple-doesnt-does'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-15-present-simple-doesnt-does'
 image: /blog/curso-a1/unit-15/a1-unit15-doesnt.png
 alt: Esquema de doesn't en Present Simple inglés nivel A1
 related_routes:

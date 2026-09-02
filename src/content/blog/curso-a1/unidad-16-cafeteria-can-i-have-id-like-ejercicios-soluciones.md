@@ -16,7 +16,7 @@ keywords:
   - pedir en cafetería inglés
   - how much is it café
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like-ejercicios-soluciones'
 image: /blog/curso-a1/unit-16/a1-unit16-can-i-have.png
 alt: Can I have e I'd like para ejercicios A1 Unidad 16
 related_routes:

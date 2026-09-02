@@ -16,7 +16,7 @@ keywords:
   - likes and dislikes ejercicios
   - hobbies vocabulary exercises
   - curso A1 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-18-gustos-like-ing-because-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-18-gustos-like-ing-because-ejercicios-soluciones'
 image: /blog/curso-a1/unit-18/a1-unit18-like-ing.png
 alt: Like + -ing para ejercicios A1 Unidad 18
 related_routes:

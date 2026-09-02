@@ -18,7 +18,7 @@ keywords:
   - inglés A1 unidad 8
   - twenty thirty forty fifty
   - I am twenty-five years old
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-8-numeros-edad-precios'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-8-numeros-edad-precios'
 image: /blog/curso-a1/unit-8/a1-unit8-numbers.png
 alt: Tabla de números del 20 al 100 en inglés nivel A1
 related_routes:

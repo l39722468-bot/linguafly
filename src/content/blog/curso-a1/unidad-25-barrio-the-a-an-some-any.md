@@ -17,7 +17,7 @@ keywords:
   - inglés A1 unidad 25
   - there are some shops
   - go to the cinema
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-25-barrio-the-a-an-some-any'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-25-barrio-the-a-an-some-any'
 image: /blog/curso-a1/unit-25/a1-unit25-neighborhood.png
 alt: Esquema the a an some any para describir el barrio en inglés A1
 related_routes:

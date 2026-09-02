@@ -16,7 +16,7 @@ keywords:
   - half past o'clock
   - inglés A1 unidad 10
   - at seven o'clock
-canonical: 'https://www.linguafly.app/blog/curso-a1/unidad-10-rutinas-diarias-hora'
+canonical: 'https://linguafly.app/blog/curso-a1/unidad-10-rutinas-diarias-hora'
 image: /blog/curso-a1/unit-10/a1-unit10-routines.png
 alt: Tabla de rutinas diarias en inglés nivel A1 con horarios
 related_routes:

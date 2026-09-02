@@ -15,7 +15,7 @@ keywords:
   - past simple comparativos adverbios preposiciones
   - module 1 review A2
   - curso A2 Linguafly
-canonical: 'https://www.linguafly.app/blog/curso-a2/unidad-10-repaso-modulo-1-ejercicios-soluciones'
+canonical: 'https://linguafly.app/blog/curso-a2/unidad-10-repaso-modulo-1-ejercicios-soluciones'
 image: /blog/curso-a2/unit-10/a2-unit10-module1-review.png
 alt: Repaso Módulo 1 para ejercicios A2 Unidad 10
 related_routes:
