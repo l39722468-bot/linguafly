@@ -4,8 +4,18 @@ import { CourseOutlineTable } from '@/components/course/preview/CourseOutlineTab
 import { PrintButton } from '@/components/course/preview/PrintButton';
 import { FileText } from 'lucide-react';
 import Link from 'next/link';
+import { Metadata } from 'next';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Temario del curso de inglés B1 | ${SITE_BRAND_NAME}`,
+  description: "Consulta el temario completo del curso de inglés nivel B1 de LinguaFly: todas las unidades, contenidos de gramática y vocabulario que aprenderás.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-b1/outline'),
+  },
+};
 
 async function OutlineContent() {
   let courseMetadata;

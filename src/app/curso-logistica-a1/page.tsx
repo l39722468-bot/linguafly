@@ -4,8 +4,18 @@ import { premiumCourseServerService } from '@/lib/services/premium-course-servic
 import { BookOpen, Clock, Award, Zap } from 'lucide-react';
 import { LOGISTICA_A1_COURSE } from '@/lib/course/logistica-a1';
 import { extractUnitMetadataFromLibCourse } from '@/lib/utils/course-metadata';
+import { Metadata } from 'next';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Inglés A1 para Logística | ${SITE_BRAND_NAME}`,
+  description: "Curso de inglés A1 para logística: vocabulario básico de almacén, mercancías, cargas y comunicación inicial con compañeros de trabajo.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-logistica-a1'),
+  },
+};
 
 async function CourseContent() {
   const units = LOGISTICA_A1_COURSE.units.map((u: any) =>

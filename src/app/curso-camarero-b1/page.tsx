@@ -4,8 +4,18 @@ import { premiumCourseServerService } from '@/lib/services/premium-course-servic
 import { BookOpen, Clock, Award, Zap } from 'lucide-react';
 import { CAMARERO_B1_COURSE } from '@/lib/course/camarero-b1';
 import { extractUnitMetadataFromLibCourse } from '@/lib/utils/course-metadata';
+import { Metadata } from 'next';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Inglés B1 para Camareros | ${SITE_BRAND_NAME}`,
+  description: "Curso de inglés B1 para camareros: maneja conversaciones fluidas con clientes internacionales, quejas, cobros y vocabulario avanzado de hostelería.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-camarero-b1'),
+  },
+};
 
 async function CourseContent() {
   const units = CAMARERO_B1_COURSE.units.map((u: any) =>

@@ -4,8 +4,18 @@ import { premiumCourseServerService } from '@/lib/services/premium-course-servic
 import { BookOpen, Clock, Award, Zap } from 'lucide-react';
 import { RECEPCIONISTA_A2_COURSE } from '@/lib/course/recepcionista-a2';
 import { extractUnitMetadataFromLibCourse } from '@/lib/utils/course-metadata';
+import { Metadata } from 'next';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Inglés A2 para Recepcionistas | ${SITE_BRAND_NAME}`,
+  description: "Curso de inglés A2 para recepcionistas: gestiona reservas, atiende llamadas y resuelve peticiones habituales de huéspedes en el mostrador.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-recepcionista-a2'),
+  },
+};
 
 async function CourseContent() {
   const units = RECEPCIONISTA_A2_COURSE.units.map((u: any) =>

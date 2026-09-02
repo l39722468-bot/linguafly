@@ -5,8 +5,18 @@ import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access'
 import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award } from 'lucide-react';
 import Link from 'next/link';
+import { Metadata } from 'next';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Curso de Inglés C1 Avanzado | ${SITE_BRAND_NAME}`,
+  description: "Curso de inglés C1 gratis de Linguafly: 72 unidades interactivas para dominar el nivel Advanced, preparar el Cambridge C1 Advanced (CAE) e IELTS 7.0+.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-c1'),
+  },
+};
 
 async function C1PreviewContent() {
   let courseMetadata;

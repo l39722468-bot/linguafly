@@ -5,8 +5,18 @@ import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access'
 import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award } from 'lucide-react';
 import Link from 'next/link';
+import { Metadata } from 'next';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Curso de Inglés C2 de Maestría | ${SITE_BRAND_NAME}`,
+  description: "Curso de inglés C2 gratuito de Linguafly para alcanzar la maestría del idioma: precisión, fluidez natural, lenguaje académico y preparación de exámenes Proficiency.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-c2'),
+  },
+};
 
 async function C2PreviewContent() {
   let courseMetadata;

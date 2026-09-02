@@ -4,8 +4,18 @@ import { premiumCourseServerService } from '@/lib/services/premium-course-servic
 import { BookOpen, Clock, Award, Zap } from 'lucide-react';
 import { CAMARERO_A2_COURSE } from '@/lib/course/camarero-a2';
 import { extractUnitMetadataFromLibCourse } from '@/lib/utils/course-metadata';
+import { Metadata } from 'next';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Inglés A2 para Camareros | ${SITE_BRAND_NAME}`,
+  description: "Curso de inglés A2 para camareros: vocabulario de hostelería, recomendar platos, gestionar cobros y atender reclamaciones sencillas.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-camarero-a2'),
+  },
+};
 
 async function CourseContent() {
   const units = CAMARERO_A2_COURSE.units.map((u: any) =>
