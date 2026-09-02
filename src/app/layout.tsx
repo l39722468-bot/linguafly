@@ -92,6 +92,16 @@ export default function RootLayout({
         <IubendaConsent />
         {/* Snippet nativo en HTML (no next/script / __next_s). */}
         <GoogleHeadScripts />
+        {/* Microsoft Clarity tracking code for linguafly.app */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+              t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
+              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+            })(window, document, "clarity", "script", "ybyy7k072w");`,
+          }}
+        />
         {/* Preconnect críticos: imágenes, fonts, iubenda, gtag */}
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
