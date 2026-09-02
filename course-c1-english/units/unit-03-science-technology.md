@@ -650,11 +650,43 @@ By the end of this unit, students will be able to:
 **Text type:** Long academic article (700+ words)  
 **Topic:** *Human Enhancement and the Boundaries of the Possible: Technology, Ethics and the Future of Our Species*
 
+#### Human Enhancement and the Boundaries of the Possible
+
+Human beings have always enhanced themselves. Clothing extends the body's tolerance of cold, spectacles correct imperfect vision and education expands the limits of memory. The current debate about human enhancement is therefore not about whether people should use technology to improve their abilities. They already do. The more difficult question is whether emerging technologies could change the kind of beings we are, and whether existing ethical frameworks are capable of governing that change. Gene editing, neural implants, pharmaceuticals and wearable devices may each offer significant benefits. Their combined effect, however, could make enhancement a permanent condition rather than an occasional medical intervention.
+
+The first argument in favour of enhancement is therapeutic. A technology that restores movement after spinal injury, corrects a genetic disorder or slows cognitive decline is generally understood as an extension of medicine. The distinction between treatment and enhancement becomes less stable when the same intervention can take a person beyond an assumed biological norm. A neural implant designed to control a prosthetic hand might later be used to increase reaction speed in healthy users. A gene therapy developed to prevent a hereditary disease could be adapted to influence physical endurance. The transition would not necessarily occur through a single dramatic decision; it could emerge through a series of applications that each appear reasonable in isolation.
+
+The second argument concerns autonomy. If individuals have the right to make decisions about their own bodies, it may seem that they should also have the right to enhance themselves, provided that the risks are understood and others are not harmed. From this perspective, refusing access to a safe enhancement could be as restrictive as imposing one. Adults already choose cosmetic surgery, stimulant medication and intensive training in pursuit of goals that are partly social and partly personal. Enhancement technologies would extend this existing freedom, allowing people to shape their capacities according to their values.
+
+Yet autonomy is meaningful only when choices are made under fair conditions. If a cognitive enhancer became informally expected in competitive universities or demanding professions, choosing not to use it might carry a serious penalty. What begins as an option could become an obligation. The same concern applies to military personnel, whose consent may be compromised by institutional pressure, and to children, who cannot determine the long-term consequences of interventions made on their behalf. The language of personal choice can therefore conceal a shift in responsibility from powerful institutions to individuals who have little practical freedom to refuse.
+
+The third argument relates to social justice. Enhancement could reduce inequality if it made expensive medical capabilities widely available. A successful treatment for dementia, for example, would benefit families across social classes and might lessen the burden on healthcare systems. Conversely, if advanced interventions were distributed through private markets, they could intensify existing divisions. Wealthier citizens might purchase longer healthy lives, improved concentration or resistance to disease, while disadvantaged groups remained dependent on underfunded public services. The result would not simply be unequal access to a product; it could be the creation of groups with different opportunities, expectations and biological advantages.
+
+Supporters sometimes respond that every major technology has initially been unequal, yet many eventually become affordable. This historical comparison is useful but incomplete. A smartphone can be shared, replaced or withdrawn without permanently altering its user. Some forms of enhancement would be heritable, irreversible or difficult to monitor. If germline editing produced an unforeseen consequence, later generations could not meaningfully consent to the experiment. Nor would the effects necessarily remain confined to the individual: changes in fertility, immunity or behaviour could influence the wider population. Irreversibility does not make an intervention unacceptable, but it raises the standard of evidence that should be required before it is authorised.
+
+There is also a cultural risk in treating measurable performance as the main definition of human flourishing. A society that rewards speed, productivity and constant concentration may describe enhancement as progress while neglecting patience, vulnerability and dependence. Some limitations are sources of creativity or solidarity; others remind communities that care cannot be reduced to efficiency. This does not justify romanticising illness or disability. It does suggest that the value of a human life cannot be calculated solely by the number of tasks an enhanced individual can complete.
+
+For these reasons, a general prohibition would be as inadequate as unrestricted enthusiasm. Regulation should distinguish between reversible and irreversible interventions, individual and heritable effects, and genuine consent and institutional coercion. It should also require public participation rather than leaving decisions to technology companies, investors and specialist committees alone. The most defensible principle is not that enhancement must preserve a supposedly natural human condition. It is that innovation should expand people's opportunities without making dignity, privacy or social membership conditional on biological performance.
+
+Human enhancement will not be decided by scientists alone. It will be shaped by insurance systems, employment practices, education policy and cultural expectations. The crucial issue is therefore political as well as philosophical: who will define improvement, who will bear the risks and who will be allowed to decline? Until those questions receive credible answers, technological possibility should be treated as an invitation to deliberate, not as evidence that adoption is inevitable.
+
 **Comprehension tasks:**
 1. **Argument structure** — Map the article's 3 main arguments and supporting evidence
 2. **Inference** × 4 multiple choice
 3. **Vocabulary** — 8 advanced words to define from context
 4. **Critical evaluation** — What is the article's main weakness? (80 words)
+
+**Vocabulary from text:**
+| Word/Phrase | Meaning | Collocation |
+|---|---|---|
+| enhancement | the process of improving a quality or ability | *human enhancement / cognitive enhancement* |
+| hereditary | passed genetically from parents to their children | *hereditary disease / hereditary condition* |
+| autonomy | the right or ability to make one's own decisions | *respect individual autonomy / personal autonomy* |
+| coercion | the use of force or pressure to make someone do something | *institutional coercion / under coercion* |
+| heritable | capable of being passed to future generations | *heritable change / heritable trait* |
+| irreversible | impossible to change back to the original state | *irreversible intervention / irreversible damage* |
+| flourishing | developing successfully and living well | *human flourishing / social flourishing* |
+| conditional on | dependent on a particular condition being met | *access conditional on / membership conditional on* |
 
 ---
 
