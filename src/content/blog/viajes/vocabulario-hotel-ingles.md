@@ -6,9 +6,7 @@ description: >-
   inglés con total confianza.
 readTime: 6 min
 excerpt: >-
-  Llegaste al hotel y te toca hablar en inglés. ¿Qué dices si la habitación
-  tiene un problema? ¿Cómo pides más toallas? Esta guía te da todas las frases
-  que necesitas para hoteles en cualquier país anglófono.
+  Guía de inglés para viajes: expresiones esenciales en recepción, cómo pedir servicios en el hotel y desenvolverte con soltura en tus vacaciones.
 keywords:
   - 'Inglés para Hoteles: Vocabulario'
   - ingles para hoteles

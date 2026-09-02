@@ -10,9 +10,7 @@ description: >-
   incluyendo recargos ocultos y cómo ahorrar en la matrícula.
 readTime: 4 min
 excerpt: >-
-  El FCE cuesta entre 215€ y 235€, el CAE entre 235€ y 255€. Pero además de
-  la tasa principal hay recargos que muy pocos anticipan. Aquí tienes los
-  precios reales, los gastos extra y cómo compararlos con IELTS y TOEFL.
+  Guía de costes para exámenes oficiales Cambridge: precios del FCE y CAE, tasas extras a considerar y consejos para elegir la convocatoria adecuada.
 keywords:
   - 'Precios Exámenes Cambridge: FCE, CAE'
   - precios examenes cambridge

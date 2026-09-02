@@ -1,11 +1,21 @@
 import { Suspense } from 'react';
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
 import { BookOpen, Clock, Award, Zap } from 'lucide-react';
 import { LOGISTICA_B2_COURSE } from '@/lib/course/logistica-b2';
 import { extractUnitMetadataFromLibCourse } from '@/lib/utils/course-metadata';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Inglés B2 para Logística | ${SITE_BRAND_NAME}`,
+  description: "Curso de inglés técnico B2 para logística y transportes: gestión de envíos, negociación con proveedores internacionales y resolución de incidencias.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-logistica-b2'),
+  },
+};
 
 async function CourseContent() {
   const units = LOGISTICA_B2_COURSE.units.map((u: any) =>

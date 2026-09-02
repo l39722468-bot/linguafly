@@ -7,7 +7,7 @@ const baseUrl = "https://www.focus-on-english.com";
 export const metadata: Metadata = {
   title: "Cursos de inglés por sector profesional | Focus English",
   description:
-    "Explora cursos de inglés especializados por sector profesional: camarero, logística y recepcionista, con itinerarios por nivel.",
+    "Impulsa tu carrera con los cursos de inglés especializado por sectores profesionales de LinguaFly: hostelería, recepción, logística, salud y más.",
   alternates: {
     canonical: `${baseUrl}/cursos-por-sector`,
   },

@@ -6,9 +6,7 @@ description: >-
   la diferencia con make, errores frecuentes y ejercicios para nivel B2-C1.
 readTime: 12 min
 excerpt: >-
-  "I had my hair cut" no es lo mismo que "I cut my hair". Esta estructura,
-  llamada causativa, tiene una lógica muy concreta y aparece constantemente
-  en inglés cotidiano y en exámenes Cambridge. Te la explicamos con calma.
+  Dominio gramatical de la causativa en inglés (have/get something done): reglas sintácticas, tiempos verbales y cómo aplicarla en exámenes Cambridge.
 keywords:
   - Have Something Done en Inglés
   - have something done ingles

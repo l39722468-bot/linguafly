@@ -1,11 +1,21 @@
 import { Suspense } from 'react';
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
 import { BookOpen, Clock, Award, Zap } from 'lucide-react';
 import { RECEPCIONISTA_A1_COURSE } from '@/lib/course/recepcionista-a1';
 import { extractUnitMetadataFromLibCourse } from '@/lib/utils/course-metadata';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Inglés A1 para Recepcionista | ${SITE_BRAND_NAME}`,
+  description: "Curso de inglés nivel A1 para recepcionistas: aprende frases básicas de bienvenida, atención telefónica y gestión inicial de reservas e información.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-recepcionista-a1'),
+  },
+};
 
 async function CourseContent() {
   const units = RECEPCIONISTA_A1_COURSE.units.map((u: any) =>

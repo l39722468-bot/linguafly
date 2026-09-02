@@ -28,7 +28,7 @@ faqs:
   - question: '¿El Protocolo SPIKES para Dar Malas Noticias?'
     answer: 'En situaciones críticas, la estructura del mensaje es fundamental para mantener la ética y la compasión: 1.  Setting: Preparar el entorno. "Could we go to a private room for a moment?" 2.  Perception: Evaluar qué sabe el paciente. "What is your understanding of your condition so far?"'
 excerpt: >
-  Inglés médico y de enfermería para el sector salud: vocabulario clínico, atención al paciente internacional y redacción de informes médicos en inglés.
+  Aprende inglés para el entorno laboral sanitario: comunicación entre médicos y enfermeros, elaboración de informes clínicos y atención internacional.
 ---
 
 ## Curso de Inglés para el Sector Salud: Comunicación Crítica para Profesionales

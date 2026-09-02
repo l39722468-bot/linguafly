@@ -5,9 +5,7 @@ description: >-
   think y report. Dos estructuras equivalentes, ejemplos reales y cuándo usarlas.
 readTime: 5 min
 excerpt: >-
-  "It is believed that..." o "He is believed to be..." Dos formas de decir
-  lo mismo en inglés formal. Te explicamos cuándo aparecen, cómo formarlas y
-  por qué los nativos las prefieren en ciertos contextos.
+  Estructura gramatical de la pasiva impersonal en inglés: transformación sintáctica, verbos de opinión y reporting verbs explicados detalladamente.
 keywords:
   - 'Pasiva Impersonal en Inglés: It Is Said That'
   - pasiva impersonal ingles

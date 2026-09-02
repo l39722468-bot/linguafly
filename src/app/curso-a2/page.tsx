@@ -1,4 +1,5 @@
 import { Suspense } from 'react';
+import { Metadata } from 'next';
 import { A1CourseSelector } from '@/components/course/preview/A1CourseSelector';
 import { UnifiedCourseProgressSidebar } from '@/components/course/UnifiedCourseProgressSidebar';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
@@ -6,8 +7,17 @@ import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access'
 import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award, FileText } from 'lucide-react';
 import Link from 'next/link';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Curso de inglés A2 gratis | ${SITE_BRAND_NAME}`,
+  description: "Consolida las bases de tu inglés con el curso A2 de LinguaFly. Amplía tu vocabulario, gramática práctica y conversación para hablar con confianza.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-a2'),
+  },
+};
 
 async function A2PreviewContent() {
   let courseMetadata;

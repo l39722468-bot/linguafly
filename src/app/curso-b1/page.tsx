@@ -1,4 +1,5 @@
 import { Suspense } from 'react';
+import { Metadata } from 'next';
 import { A1CourseSelector } from '@/components/course/preview/A1CourseSelector';
 import { UnifiedCourseProgressSidebar } from '@/components/course/UnifiedCourseProgressSidebar';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
@@ -6,8 +7,17 @@ import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access'
 import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award, FileText } from 'lucide-react';
 import Link from 'next/link';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Curso de inglés B1 gratis | ${SITE_BRAND_NAME}`,
+  description: "Lleva tu inglés al nivel B1 con LinguaFly. Mejora tu fluidez, vocabulario clave y comprensión para desenvolverte en situaciones cotidianas y laborales.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-b1'),
+  },
+};
 
 async function B1PreviewContent() {
   let courseMetadata;

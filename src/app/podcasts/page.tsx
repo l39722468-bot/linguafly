@@ -8,7 +8,7 @@ const baseUrl = "https://www.focus-on-english.com";
 export const metadata: Metadata = {
   title: "Podcasts de inglés para practicar listening | Focus English",
   description:
-    "Escucha podcasts de inglés para practicar comprensión auditiva con transcripción y vocabulario. Recurso complementario a nuestros cursos gratis de inglés.",
+    "Mejora tu comprensión auditiva en inglés escuchando nuestros podcasts educativos. Episodios por niveles con transcripciones y vocabulario explicados.",
   alternates: {
     canonical: `${baseUrl}/podcasts`,
   },

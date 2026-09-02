@@ -13,7 +13,7 @@ keywords:
   - ielts computer vs papel
   - material de inglés gratis
 excerpt: >-
-  El IELTS se puede hacer en papel o por ordenador. El examen es el mismo, los criterios son los mismos y la nota tiene el mismo valor. Pero la experiencia es bastante diferente y elegir bien puede afectar a tu resultado.
+  IELTS por ordenador vs. en papel: descubre las diferencias de formato, tiempos de corrección, pros y contras para elegir la mejor modalidad de examen.
 faqs:
   - question: ¿La nota del IELTS por ordenador tiene el mismo valor que la del papel?
     answer: >-

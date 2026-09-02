@@ -1,11 +1,21 @@
 import { Suspense } from 'react';
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
 import { BookOpen, Clock, Award, Zap } from 'lucide-react';
 import { LOGISTICA_A2_COURSE } from '@/lib/course/logistica-a2';
 import { extractUnitMetadataFromLibCourse } from '@/lib/utils/course-metadata';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Inglés A2 para Logística | ${SITE_BRAND_NAME}`,
+  description: "Curso de inglés A2 para el sector logístico: vocabulario sobre almacén, inventario, albaranes y comunicación básica con clientes y transportistas.",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-logistica-a2'),
+  },
+};
 
 async function CourseContent() {
   const units = LOGISTICA_A2_COURSE.units.map((u: any) =>

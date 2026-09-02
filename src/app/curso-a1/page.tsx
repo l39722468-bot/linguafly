@@ -1,13 +1,23 @@
 import { Suspense } from 'react';
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { A1CourseSelector } from '@/components/course/preview/A1CourseSelector';
 import { UnifiedCourseProgressSidebar } from '@/components/course/UnifiedCourseProgressSidebar';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
 import { getViewerHasFullCourseAccess } from '@/lib/access/viewer-course-access';
 import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-redirect';
 import { BookOpen, Clock, Award } from 'lucide-react';
+import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Curso de inglés A1 gratis | ${SITE_BRAND_NAME}`,
+  description: "Aprende inglés desde cero con el curso A1 de LinguaFly. Domina la gramática básica, vocabulario inicial y expresiones cotidianas. ¡Empieza hoy gratis!",
+  alternates: {
+    canonical: getAbsoluteUrl('/curso-a1'),
+  },
+};
 
 async function A1PreviewContent() {
   let courseMetadata;

@@ -13,7 +13,7 @@ keywords:
   - semi-modales ingles
   - gramática inglesa gratis
 excerpt: >-
-  Los semi-modales son verbos que se comportan como modales en significado pero se conjugan como verbos normales. Son imprescindibles porque cubren huecos que los modales puros no pueden llenar: pasado, futuro, infinitivo...
+  Reglas de gramática sobre los verbos semi-modales en inglés: estructura sintáctica, conjugación en pasado y futuro, y ejercicios explicados paso a paso.
 faqs:
   - question: ¿Cuál es la diferencia entre "used to" y "would" para hábitos del pasado?
     answer: >-
