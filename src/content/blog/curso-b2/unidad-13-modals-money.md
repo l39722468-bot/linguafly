@@ -3,10 +3,10 @@ category: curso-b2
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: "Modals of Obligation B2: Must, Have to & Need + Money"
+title: "Modals of Obligation B2: Must, Have to & Need + Money (Teoría y Ejercicios)"
 description: >-
-  Aprende must, have to, need to, needn't y don't have to en inglés B2 con vocabulario de money & volunteering. Guía Unidad 13 con audios, reading, diálogo y ejercicios con soluciones.
-readTime: 18 min
+  Guía completa de la Unidad 13 del curso B2: modals of obligation (must, have to, need to, needn't, don't have to) con vocabulario de money & volunteering. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+readTime: 43 min
 keywords:
   - must have to need to B2
   - needn't don't have to English
@@ -34,11 +34,8 @@ faqs:
   - question: ¿Cómo se usa must/have to en pasado?
     answer: >-
       **Must** no tiene forma de pasado propia; para obligación en pasado usa **had to**: *I had to submit the budget last Friday*. Para ausencia de obligación en pasado usa **didn't have to** o **didn't need to** (no fue necesario, y normalmente no se hizo): *I didn't have to pay the fee*. La forma **needn't have + participio** es distinta: significa que hiciste algo que, mirando atrás, no era necesario (*I needn't have brought an umbrella* = traje un paraguas, pero no hacía falta).
-  - question: ¿Dónde practico los modals of obligation de la Unidad 13?
-    answer: >-
-      En la [Unidad 13 del curso B2 de Linguafly](/curso-b2/unit-13), con ejercicios interactivos de gramática, vocabulario, reading, listening, speaking y writing. Además, en el [cuaderno de ejercicios con soluciones](/blog/curso-b2/unidad-13-modals-money-ejercicios-soluciones) tienes 75 actividades comentadas sobre esta unidad.
 excerpt: >-
-  Guía de la Unidad 13 del curso B2: modals of obligation (must, have to, need to, needn't, don't have to) con vocabulario de money & volunteering, reading, diálogo, audios y ejercicios con soluciones.
+  Guía completa de la Unidad 13 del curso B2: modals of obligation (must, have to, need to, needn't, don't have to) con vocabulario de money & volunteering, reading, diálogo, audios y ejercicios con soluciones.
 ---
 
 En español, «tener que», «deber» y «no hace falta» suelen traducirse todos con matices parecidos, pero en inglés B2 cada uno de estos significados tiene su propia palabra, y usarlas mal cambia el sentido de la frase. La **Unidad 13 del curso B2** te enseña a manejar con precisión los **modals of obligation and necessity**: **must**, **have to**, **need to**, **needn't** y **don't have to**, combinados con vocabulario de **money & volunteering** — presupuestos, donaciones, préstamos y trabajo solidario.
@@ -46,7 +43,6 @@ En español, «tener que», «deber» y «no hace falta» suelen traducirse todo
 Al terminar esta unidad sabrás distinguir una obligación personal (*must*) de una obligación externa (*have to*), y sobre todo evitarás uno de los errores más comunes del nivel B2: confundir *needn't* (no es necesario) con *mustn't* (está prohibido), dos palabras que se parecen mucho pero significan cosas opuestas.
 
 > **Practica en el curso:** [Unidad 13 — Modals & Money](/curso-b2/unit-13)  
-> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 13 B2](/blog/curso-b2/unidad-13-modals-money-ejercicios-soluciones)  
 > **Antes:** [Unidad 12 — Reduced Relative Clauses](/blog/curso-b2/unidad-12-relative-clauses-reduction)
 
 ---
@@ -409,11 +405,6 @@ Antes de elegir entre estos modales, pregúntate tres cosas en orden: primero, *
 
 En la **Unidad 14** vas a aprender los **modals of deduction en pasado** — *must have, might have, can't have* — con vocabulario de **business & fashion**.
 
-Antes, consolida esta unidad con el cuaderno completo:
-
-- [Ejercicios Unidad 13 B2 (con soluciones)](/blog/curso-b2/unidad-13-modals-money-ejercicios-soluciones)
-- [Unidad 14 — Modal Deduction](/curso-b2/unit-14)
-
 Guías relacionadas:
 
 - [Unidad 12 — Reduced Relative Clauses](/blog/curso-b2/unidad-12-relative-clauses-reduction)
@@ -427,3 +418,287 @@ Guías relacionadas:
 - CEFR/MCER — Nivel B2: https://www.coe.int/en/web/common-european-framework-reference-languages
 - British Council — Modals of obligation: https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/must-mustnt-neednt
 - Cambridge Dictionary — Modal verbs: https://dictionary.cambridge.org/grammar/british-grammar/modal-verbs
+
+---
+
+# Parte II — Ejercicios
+
+Este artículo incluye también los **ejercicios de la Unidad 13** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
+
+## Lección 1 — Gramática
+
+**Objetivo:** must / have to / need to / needn't / don't have to
+
+### Ejercicios 1–5 — Completa
+
+1. You ___ save all receipts for the budget. → *must / can / might*
+2. I ___ submit the report by Friday. (external rule) → *have to / must / needn't*
+3. We ___ raise more donations. → *need to / needn't / can't*
+4. You ___ pay interest if you repay early. → *needn't / must / have to*
+5. Volunteers ___ work every weekend. → *don't have to / must / need to*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **must** · 2. **have to** · 3. **need to** · 4. **needn't** · 5. **don't have to**
+
+</details>
+
+### Ejercicios 6–10 — Elige / completa
+
+1. Must often = obligation from the ___. → *speaker / weather / ticket*
+2. Have to often = ___ obligation. → *external / imaginary / past perfect*
+3. Needn't ≈ ___. → *don't have to / must / can't*
+4. Past obligation: yesterday I ___ finish early. → *had to / must / needn't*
+5. You must wear your ___ at the shelter. → *badge / runway / seedling*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **speaker** · 2. **external** · 3. **don't have to** · 4. **had to** · 5. **badge**
+
+</details>
+
+### Ejercicios 11–15 — Corrige
+
+1. *You must to save the receipts.*
+2. *I have submit the budget.*
+3. *We need raise donations.*
+4. *You mustn't pay — it's optional.* (no obligation)
+5. *Volunteers must not to work weekends.* (optional)
+
+<details>
+<summary>Ver solución</summary>
+
+1. You must **save** the receipts.
+2. I **have to** submit the budget.
+3. We **need to** raise donations.
+4. You **needn't** / **don't have to** pay.
+5. Volunteers **don't have to** work weekends.
+
+</details>
+
+---
+
+## Lección 2 — Vocabulario
+
+**Objetivo:** money & volunteering
+
+### Ejercicios 1–5 — Empareja / elige
+
+1. donation → *donación · ensayo · mural*
+2. budget → *presupuesto · premiere · seedling*
+3. loan → *préstamo · skyscraper · compost*
+4. interest → *interés (dinero) · audience · stage*
+5. shelter → *refugio · runway · landmark*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **donación** · 2. **presupuesto** · 3. **préstamo** · 4. **interés (dinero)** · 5. **refugio**
+
+</details>
+
+### Ejercicios 6–10 — Completa
+
+1. donor ≈ ___ → *donante / diseñador / vecino*
+2. afford ≈ ___ → *permitirse / germinar / ensayar*
+3. volunteer ≈ ___ → *ser voluntario / fusionar / lanzar*
+4. charity ≈ ___ → *organización benéfica / pasarela / invernadero*
+5. badge ≈ ___ → *credencial / plántula / mural*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **donante** · 2. **permitirse** · 3. **ser voluntario** · 4. **organización benéfica** · 5. **credencial**
+
+</details>
+
+### Ejercicios 11–15 — En contexto
+
+11. Usa 3 palabras nuevas en frases con el foco gramatical.
+12. Di en voz alta el vocabulario de la unidad.
+13. Empareja cada palabra con un ejemplo personal.
+14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b2/unidad-13-modals-money).
+15. Continúa en la [Unidad 13 del curso](/curso-b2/unit-13).
+
+<details>
+<summary>Ver solución</summary>
+
+11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b2/unit-13**
+
+</details>
+
+---
+
+## Lección 3 — Reading: Lena at the charity
+
+**Objetivo:** comprender un texto con el foco de la unidad.
+
+### Texto y audio
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-13/reading-workbook.mp3" title="🔊 Reading: Lena at the charity"></audio>
+
+> Lena manages money for a small charity. You must save all receipts for the budget audit. She has to submit the quarterly report by Friday. The team needs to raise more donations before winter. Donors needn't pay interest if they repay the loan early. Volunteers don't have to work every weekend, yet many choose to help at the shelter.
+
+### Ejercicios 1–5 — Comprensión
+
+1. Lena works for a ___ → *charity / runway / greenhouse*
+2. You must save all ___ → *receipts / seedlings / murals*
+3. Submit report by ___ → *Friday / Monday / never*
+4. Need to raise more ___ → *donations / compost / brands*
+5. Needn't pay ___ if repay early → *interest / badges / tickets*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **charity** · 2. **receipts** · 3. **Friday** · 4. **donations** · 5. **interest**
+
+</details>
+
+### Ejercicios 6–10 — Detalles
+
+6. Don't have to work every ___ → *weekend / minute / year*
+7. Must = strong ___ → *obligation / possibility*
+8. Have to = often ___ rule → *external / imaginary*
+9. Many still help at the ___ → *shelter / runway / landmark*
+10. Optional weekend work? → *True / False*
+
+<details>
+<summary>Ver solución</summary>
+
+6. **weekend** · 7. **obligation** · 8. **external** · 9. **shelter** · 10. **True (don't have to)**
+
+</details>
+
+### Ejercicios 11–15 — Forma
+
+11. Underline must / needn't / don't have to.
+12. Write one must and one needn't.
+13. Key vocab? → *yes / none*
+14. Tone? → *practical / chaotic*
+15. Course link → */curso-b2/unit-13*
+
+<details>
+<summary>Ver solución</summary>
+
+11. **See text** · 12. **Model OK** · 13. **budget, loan, donor** · 14. **practical** · 15. **/curso-b2/unit-13**
+
+</details>
+
+---
+
+## Lección 4 — Listening: Lena on money
+
+**Objetivo:** escuchar el foco gramatical en contexto.
+
+### Audio y guion
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-13/listening-workbook.mp3" title="🔊 Listening: Lena on money"></audio>
+
+> Hi, I am Lena. You must save all receipts for the charity budget. I have to submit the report by Friday — that is the rule. We need to raise more donations this month. You needn't pay interest if you repay the loan early. Volunteers don't have to work every weekend, but many still do.
+
+### Ejercicios 1–5 — Comprensión
+
+1. Who speaks? → *Lena / Ana / Chris*
+2. Must save all ___ → *receipts / tickets*
+3. Have to submit by ___ → *Friday / Sunday*
+4. Need to raise more ___ → *donations / brands*
+5. Needn't pay ___ early → *interest / rent only*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **Lena** · 2. **receipts** · 3. **Friday** · 4. **donations** · 5. **interest**
+
+</details>
+
+### Ejercicios 6–10 — Detalles
+
+6. Don't have to work every ___ → *weekend / hour*
+7. Must ≈ speaker/internal ___ → *obligation / guess*
+8. Have to ≈ ___ rule → *external / joke*
+9. Many still volunteer? → *True / False*
+10. Charity budget context? → *True / False*
+
+<details>
+<summary>Ver solución</summary>
+
+6. **weekend** · 7. **obligation** · 8. **external** · 9. **True** · 10. **True**
+
+</details>
+
+### Ejercicios 11–15 — Forma
+
+11. One must sentence.
+12. One needn't sentence.
+13. Shadow the have to line.
+14. Vocab? → *yes / none*
+15. Course → */curso-b2/unit-13*
+
+<details>
+<summary>Ver solución</summary>
+
+11. **Open** · 12. **Open** · 13. **Practice** · 14. **donation, interest, volunteer** · 15. **/curso-b2/unit-13**
+
+</details>
+
+---
+
+## Lección 5 — Writing
+
+**Objetivo:** producir frases con el foco de la unidad.
+
+1. Escribe must, have to, need to, needn't y don't have to (1 cada uno).
+2. Completa: You ___ (must) save the receipts.
+3. Completa: I ___ (have to) submit the budget.
+4. Completa: We ___ (need to) raise donations.
+5. Completa: You ___ (needn't) pay interest early.
+6. Explica must vs have to en 1 frase.
+7. Corrige: *You must to wear a badge.*
+8. Corrige: *Volunteers must work every weekend.* (si es opcional)
+9. Párrafo money/volunteering con modales.
+10. Traduce: No hace falta que pagues hoy.
+11. Traduce: Tengo que entregar el informe el viernes.
+12. Diálogo en un refugio / charity.
+13. Matching: must/have to/needn't → uso.
+14. Autochequeo.
+15. Enlace teoría U13.
+
+<details>
+<summary>Ver solución</summary>
+
+1. Open — one of each modal.
+2. **must**
+3. **have to**
+4. **need to**
+5. **needn't**
+6. Must ≈ speaker; have to ≈ external rule.
+7. You must **wear** a badge.
+8. Volunteers **don't have to** work every weekend.
+9. Open paragraph.
+10. You **needn't** / **don't have to** pay today.
+11. I **have to** submit the report on Friday.
+12. Open dialogue.
+13. must→speaker; have to→external; needn't→no obligation.
+14. Self-check.
+15. [Guía U13](/blog/curso-b2/unidad-13-modals-money)
+
+</details>
+
+---
+
+## Cómo seguir
+
+1. Repasa fallos en la [guía teórica](/blog/curso-b2/unidad-13-modals-money).  
+2. Practica en la [Unidad 13 del curso B2](/curso-b2/unit-13).  
+3. Siguiente: [Modal deduction](/blog/curso-b2/unidad-14-modal-deduction-business).
+
+Guías relacionadas:
+
+- [Teoría Unidad 13](/blog/curso-b2/unidad-13-modals-money)
+- [Inglés B2](/blog/metodos/ingles-b2)
+
+---
+
+*Cuaderno alineado con la Unidad 13 del [curso B2 de Linguafly](/curso-b2).*

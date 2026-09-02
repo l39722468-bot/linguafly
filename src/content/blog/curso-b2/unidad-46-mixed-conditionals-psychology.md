@@ -1,12 +1,12 @@
----
+﻿---
 category: curso-b2
 date: '2026-09-01'
 updatedDate: '2026-09-01'
 author: linguafly-team
-title: "Mixed Conditionals B2: Psicología y Comportamiento"
+title: "Mixed Conditionals B2: Psicología y Comportamiento (Teoría y Ejercicios)"
 description: >-
-  Domina mixed conditionals de pasado a presente y de presente a pasado con psicología, audio, vocabulario y ejercicios resueltos.
-readTime: 32 min
+  Domina mixed conditionals de pasado a presente y de presente a pasado con psicología, audio, vocabulario, ejercicios resueltos y cuaderno de práctica.
+readTime: 62 min
 keywords:
   - mixed conditionals B2 ejercicios
   - condicionales mixtos pasado presente inglés
@@ -20,7 +20,6 @@ canonical: 'https://linguafly.app/blog/curso-b2/unidad-46-mixed-conditionals-psy
 image: /blog/curso-b2/unit-46/mixed-conditionals-map.png
 alt: "Mixed conditionals B2 con psicología y comportamiento humano"
 related_routes:
-  - unidad-46-mixed-conditionals-psychology-ejercicios-soluciones
   - unidad-45-modal-deduction-space
   - unidad-47-cleft-sentences-academic-writing
   - ingles-b2
@@ -37,18 +36,14 @@ faqs:
   - question: ¿Puedo usar could o might?
     answer: >-
       Sí. *Could* añade capacidad o posibilidad y *might* expresa una consecuencia menos segura.
-  - question: ¿Dónde practico la Unidad 46?
-    answer: >-
-      En la [Unidad 46 del curso B2](/curso-b2/unit-46) y el [cuaderno con soluciones](/blog/curso-b2/unidad-46-mixed-conditionals-psychology-ejercicios-soluciones).
 excerpt: >-
-  Guía B2 de mixed conditionals, tercer condicional y vocabulario de psicología con reading, audios y práctica resuelta.
+  Guía completa con teoría y ejercicios de mixed conditionals, tercer condicional y vocabulario de psicología con reading, audios y práctica resuelta.
 ---
 La **Unidad 46** relaciona **Mixed Conditionals** con **Psychology & Human Behavior**. Aprenderás a conectar una decisión pasada con un resultado presente y un rasgo actual con una consecuencia pasada, sin mezclar tiempos al azar.
 
 El vocabulario vivo incluye *psychology, behavior, cognition, emotions, mental health, personality, self-awareness, anxiety, empathy, stress* y *coping strategies*. La guía reproduce las decisiones de grammar, vocabulary, reading, listening y writing del curso.
 
 > **Practica en el curso:** [Unidad 46](/curso-b2/unit-46)<br>
-> **Cuaderno de ejercicios:** [Unidad 46 con soluciones](/blog/curso-b2/unidad-46-mixed-conditionals-psychology-ejercicios-soluciones)<br>
 > **Antes:** [U45 — Modal Deduction + Space](/blog/curso-b2/unidad-45-modal-deduction-space)
 
 ---
@@ -165,7 +160,9 @@ En el listening, Dr. Evans usa *self-awareness, beliefs, attitudes, empathy* y *
 
 Los condicionales irreales son útiles para reflexionar, pero pueden sonar acusatorios: *If you were stronger, you wouldn't have failed* atribuye el resultado a un rasgo personal. En temas de salud mental, formula alternativas con cautela y reconoce información limitada: *With earlier support, she might feel less overwhelmed today*. La gramática permite graduar certeza con *would, could, might*.
 
-Para la tarea escrita, describe una decisión pasada, su efecto actual y una característica que habría modificado un episodio anterior. Incluye vocabulario psicológico sin convertir una emoción cotidiana en diagnóstico. Termina con una estrategia constructiva. Esa organización demuestra control temporal, cohesión y sensibilidad de registro.## 9. Del reconocimiento a la producción B2
+Para la tarea escrita, describe una decisión pasada, su efecto actual y una característica que habría modificado un episodio anterior. Incluye vocabulario psicológico sin convertir una emoción cotidiana en diagnóstico. Termina con una estrategia constructiva. Esa organización demuestra control temporal, cohesión y sensibilidad de registro.
+
+## 9. Del reconocimiento a la producción B2
 
 Reconocer una opción correcta no garantiza que puedas producir **mixed conditionals de pasado a presente, presente a pasado y el tercer condicional** sin apoyo. Trabaja cada ejemplo en tres vueltas. Primero localiza la pista de significado: qué tiempo se relaciona con cuál, qué elemento recibe foco, quién recomienda una acción o qué expresión exige inversión. Después tapa la solución y reconstruye la frase completa. Por último cambia sujeto, tiempo y un detalle de **Psychology & Human Behavior**. La estructura solo está disponible para comunicar cuando sobrevive a esa transferencia.
 
@@ -315,22 +312,6 @@ Dibuja dos puntos temporales antes de conjugar. Decide dónde ocurre la condici�
 
 ---
 
-## Siguiente paso en el curso B2
-
-Continúa con la **Unidad 47**, donde las cleft sentences organizan el foco de ensayos e informes.
-
-- [Ejercicios U46 con soluciones](/blog/curso-b2/unidad-46-mixed-conditionals-psychology-ejercicios-soluciones)
-- [Unidad 46 del curso](/curso-b2/unit-46)
-- [U47 teoría: Cleft Sentences + Academic Writing](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing)
-
-### Guías relacionadas
-
-- [U45 Modal Deduction + Space](/blog/curso-b2/unidad-45-modal-deduction-space)
-- [U47 Cleft Sentences + Academic Writing](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing)
-- [Inglés B2](/blog/metodos/ingles-b2)
-
----
-
 ## Preguntas frecuentes
 
 ### ¿Cómo se forma el mixed conditional de pasado a presente?
@@ -349,9 +330,401 @@ El tercero sitúa condición y resultado en el pasado; el mixto conecta tiempos 
 
 Sí. *Could* añade capacidad o posibilidad y *might* expresa una consecuencia menos segura.
 
-### ¿Dónde practico la Unidad 46?
+---
 
-En la [Unidad 46 del curso B2](/curso-b2/unit-46) y el [cuaderno con soluciones](/blog/curso-b2/unidad-46-mixed-conditionals-psychology-ejercicios-soluciones).
+# Parte II — Ejercicios
+
+Este artículo incluye también los **ejercicios de la Unidad 46** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
+
+## Lección 1 — Gramática y chunks
+
+**Objetivo:** seleccionar y construir correctamente mixed conditionals de pasado a presente, de presente a pasado y su contraste con el tercer condicional.
+
+No respondas por parecido visual. Localiza la pista de significado o tiempo y comprueba la cadena completa: modal, auxiliar, infinitivo, participio, objeto y concordancia.
+
+### Ejercicios 1–5 — Pasado irreal, resultado presente
+
+Selecciona la cadena que conecta una causa pasada no realizada con una consecuencia actual.
+
+1. If Daniel ___ the signs earlier, he would feel better now.
+   Opciones: *had recognised · recognised · would have recognised*
+2. If we had invested in support, staff ___ more confident today.
+   Opciones: *would be · would have been · were*
+3. She would be sleeping better now if she ___ her routine.
+   Opciones: *had changed · changed · would change*
+4. If he had accepted the post, he ___ as a psychologist now.
+   Opciones: *would be working · would have worked · had worked*
+5. Corrige: *If Maya would have sought help, she might feel calmer now.*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **had recognised** — *Now* sitúa el resultado en presente; la condición va en Past Perfect.
+2. **would be** — La consecuencia con *today* usa *would + base*.
+3. **had changed** — El cambio no ocurrió en un pasado cerrado.
+4. **would be working** — La consecuencia actual en curso usa *would be + -ing*.
+5. **If Maya had sought help, she might feel calmer now.** — La cláusula con *if* no lleva *would* en este patrón.
+
+</details>
+
+### Ejercicios 6–10 — Estado presente, resultado pasado
+
+Interpreta la condición como rasgo o estado vigente y completa el resultado anterior.
+
+6. If he ___ more patient, he would have listened yesterday.
+   Opciones: *were · had been · would be*
+7. If I spoke French, I ___ the interview last week.
+   Opciones: *would have understood · would understand · had understood*
+8. If they weren't so anxious, they ___ the presentation.
+   Opciones: *might have enjoyed · might enjoy yesterday · had enjoyed*
+9. If she had greater self-awareness, she ___ the warning.
+   Opciones: *could have noticed · could notice last month · would noticed*
+10. Corrige: *If he was more empathetic, he would have understand her.*
+
+<details>
+<summary>Ver solución</summary>
+
+6. **were** — La condición describe un rasgo vigente en la interpretación objetivo.
+7. **would have understood** — El resultado pasado exige *would have + V3*.
+8. **might have enjoyed** — *Might have* expresa una consecuencia pasada menos segura.
+9. **could have noticed** — *Could have + V3* presenta posibilidad o capacidad pasada.
+10. **If he were more empathetic, he would have understood her.** — El modelo cuidado usa *were* y el resultado termina en participio.
+
+</details>
+
+### Ejercicios 11–15 — Mixed o third conditional
+
+Clasifica los tiempos antes de elegir; la pista temporal decide si hay mezcla.
+
+11. If you had told me yesterday, I ___ you then.
+   Opciones: *would have helped · would help now · helped*
+12. If she had completed the course, she ___ a therapist now.
+   Opciones: *would be · would have been then · is*
+13. If he were more resilient, he ___ after last year's setback.
+   Opciones: *might have recovered · might recover yesterday · had recovered*
+14. Elige el tercer condicional.
+   Opciones: *If I had known, I would have called. · If I had trained, I would be calmer now. · If I were calmer, I would have spoken.*
+15. Corrige el participio: *If they had knew, they could have chose differently.*
+
+<details>
+<summary>Ver solución</summary>
+
+11. **would have helped** — Condición y resultado son pasados: tercer condicional.
+12. **would be** — Causa pasada y estado presente: mixed conditional.
+13. **might have recovered** — Rasgo presente y resultado pasado: mixed conditional.
+14. **If I had known, I would have called.** — Ambas cláusulas se refieren al pasado.
+15. **If they had known, they could have chosen differently.** — *Had* y *have* exigen los participios *known* y *chosen*.
+
+</details>
+
+---
+
+## Lección 2 — Vocabulario
+
+**Objetivo:** comprender y usar vocabulario de *Psychology & Human Behavior* en situaciones concretas.
+
+Aprende cada palabra con su colocación. Las alternativas cercanas obligan a decidir por definición y contexto, no por parecido.
+
+### Ejercicios 1–5 — Traducción precisa
+
+Elige el único significado que corresponde a la palabra.
+
+1. cognition
+   Opciones: *procesos de pensamiento y comprensión · conducta observable · tratamiento médico*
+2. self-awareness
+   Opciones: *conocimiento de los propios estados · aprobación social · memoria permanente*
+3. empathy
+   Opciones: *comprensión de la perspectiva ajena · diagnóstico clínico · presión laboral*
+4. anxiety
+   Opciones: *preocupación o nerviosismo · confianza plena · recuerdo preciso*
+5. coping strategy
+   Opciones: *forma de afrontar una dificultad · causa biológica única · rasgo inmutable*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **procesos de pensamiento y comprensión**
+2. **conocimiento de los propios estados**
+3. **comprensión de la perspectiva ajena**
+4. **preocupación o nerviosismo**
+5. **forma de afrontar una dificultad**
+
+</details>
+
+### Ejercicios 6–10 — Elige por definición
+
+Completa cada definición con una de las tres opciones.
+
+6. The observable way a person acts is ___.
+   Opciones: *behavior · cognition · perception*
+7. The way the mind interprets a stimulus is ___.
+   Opciones: *perception · psychiatry · self-esteem*
+8. An idea accepted as true is a ___.
+   Opciones: *belief · stimulus · reaction time*
+9. The ability to recover after difficulty is ___.
+   Opciones: *resilience · anxiety · bias*
+10. A systematic preference that can distort judgement is a cognitive ___.
+   Opciones: *bias · strategy · emotion*
+
+<details>
+<summary>Ver solución</summary>
+
+6. **behavior**
+7. **perception**
+8. **belief**
+9. **resilience**
+10. **bias**
+
+</details>
+
+### Ejercicios 11–15 — Completa el chunk
+
+Escribe la expresión exacta que completa la situación; todas pertenecen al inventario de la unidad.
+
+11. Breathing slowly can help a person ___.
+12. A supportive listener should ___.
+13. Recognising repeated reactions can ___.
+14. Persistent distress may lead someone to ___.
+15. A balanced routine can support ___.
+
+<details>
+<summary>Ver solución</summary>
+
+11. **cope with stress**
+12. **show empathy**
+13. **develop self-awareness**
+14. **seek professional help**
+15. **mental wellbeing**
+
+</details>
+
+---
+
+## Lección 3 — Reading: Daniel changes his response to stress
+
+**Objetivo:** comprender la idea global, localizar datos y reconocer los objetivos en contexto.
+
+> Daniel manages a busy community centre. Two years ago, he ignored persistent stress and refused support because he believed that asking for help showed weakness. If he had recognised the signs earlier, he would feel more confident about managing pressure today. He would also be sleeping better now if he had changed his routine then. Daniel is naturally impatient; if he were more patient, he would have listened more carefully during an earlier wellbeing workshop. After a colleague showed empathy, he sought professional advice and learned practical coping strategies. If that colleague had dismissed his concerns, Daniel might still avoid discussing emotions. He now understands that anxiety is not a character flaw. If the centre had offered the workshop sooner, several employees could have received support before their stress increased.
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-46/reading-workbook.mp3" title="🔊 Reading: Daniel changes his response to stress"></audio>
+
+Lee una vez para captar la situación y otra para localizar detalles. También puedes escuchar el audio. Todas las respuestas se comprueban directamente en el texto.
+
+### Ejercicios 1–5 — Comprensión global
+
+Responde con la información explícita del texto o audio.
+
+1. Where does Daniel work?
+2. What did he refuse two years ago?
+3. Who showed Daniel empathy?
+4. What did Daniel learn after seeking advice?
+5. What does he now understand about anxiety?
+
+<details>
+<summary>Ver solución</summary>
+
+1. **At a community centre.**
+2. **Support.**
+3. **A colleague.**
+4. **Practical coping strategies.**
+5. **That it is not a character flaw.**
+
+</details>
+
+### Ejercicios 6–10 — Detalles y chunks exactos
+
+Completa con las palabras exactas del texto o audio.
+
+6. Completa: If he had recognised the signs, he ___ more confident today.
+7. Completa: If he were more patient, he ___ more carefully.
+8. What might Daniel still avoid if his colleague had dismissed him?
+9. What past action could have helped several employees?
+10. Which two present problems follow his earlier choices?
+
+<details>
+<summary>Ver solución</summary>
+
+6. **would feel**
+7. **would have listened**
+8. **Discussing emotions.**
+9. **Offering the workshop sooner.**
+10. **Lower confidence managing pressure and poorer sleep.**
+
+</details>
+
+### Ejercicios 11–15 — Forma, significado y secuencia
+
+Elige, explica u ordena usando la evidencia presentada.
+
+11. Elige: *had recognised / would feel* is past→present / past→past.
+12. Elige: *were more patient / would have listened* is present→past / past→present.
+13. Ordena: ignored stress — colleague listened — professional advice — coping strategies.
+14. Does the text diagnose Daniel with a disorder?
+15. Why is *could have received* not a present result?
+
+<details>
+<summary>Ver solución</summary>
+
+11. **past→present**
+12. **present→past**
+13. **ignored stress → colleague listened → professional advice → coping strategies**
+14. **No; it describes stress and anxiety without giving a diagnosis.**
+15. **Because it refers to support before stress increased, both in the past.**
+
+</details>
+
+---
+
+## Lección 4 — Listening: Dr Evans discusses resilience
+
+**Objetivo:** identificar información y expresiones completas a velocidad natural.
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-46/listening-workbook.mp3" title="🔊 Listening: Dr Evans discusses resilience"></audio>
+
+Escucha dos veces antes de abrir el guion: la primera para entender la situación y la segunda para anotar detalles.
+
+<details>
+<summary>Leer guion después de escuchar</summary>
+
+> Hello, I'm Dr Evans. Resilience does not mean ignoring difficult emotions. If people had been taught more coping strategies at school, some would manage stress more confidently today. Maya is highly self-aware; if she were less aware of her reactions, she might have repeated the same mistake last month. Her manager showed empathy and encouraged her to seek help. If he had dismissed her concerns, she could still be experiencing severe pressure now. A strong social network can support wellbeing, but it does not replace professional care. If Maya had tried to cope alone, her anxiety might have increased. She now challenges unhelpful beliefs and pays attention to her emotional responses.
+
+</details>
+
+### Ejercicios 1–5 — Comprensión global
+
+Responde con la información explícita del texto o audio.
+
+1. Who is speaking?
+2. What does resilience not mean?
+3. What did Maya's manager show?
+4. What can support wellbeing?
+5. What does Maya now challenge?
+
+<details>
+<summary>Ver solución</summary>
+
+1. **Dr Evans.**
+2. **Ignoring difficult emotions.**
+3. **Empathy.**
+4. **A strong social network.**
+5. **Unhelpful beliefs.**
+
+</details>
+
+### Ejercicios 6–10 — Detalles y chunks exactos
+
+Completa con las palabras exactas del texto o audio.
+
+6. Completa: If people had learned strategies, they ___ stress better today.
+7. Completa: If Maya were less aware, she ___ the mistake.
+8. Completa: If the manager had dismissed her, she ___ pressure now.
+9. What did the manager encourage Maya to do?
+10. What might have increased if Maya had coped alone?
+
+<details>
+<summary>Ver solución</summary>
+
+6. **would manage**
+7. **might have repeated**
+8. **could still be experiencing**
+9. **Seek help.**
+10. **Her anxiety.**
+
+</details>
+
+### Ejercicios 11–15 — Forma, significado y secuencia
+
+Elige, explica u ordena usando la evidencia presentada.
+
+11. Elige: *were less aware / might have repeated* is present→past / past→present.
+12. Elige: *had dismissed / could be experiencing* is mixed / third conditional.
+13. Ordena: manager's empathy — help — coping support — changed beliefs.
+14. Does a social network replace professional care?
+15. Which two psychological skills are explicit?
+
+<details>
+<summary>Ver solución</summary>
+
+11. **present→past**
+12. **mixed conditional**
+13. **manager's empathy → help → coping support → changed beliefs**
+14. **No.**
+15. **Self-awareness and coping with stress.**
+
+</details>
+
+---
+
+## Lección 5 — Writing y Speaking
+
+**Objetivo:** producir mensajes controlados con mixed conditionals de pasado a presente, de presente a pasado y su contraste con el tercer condicional.
+
+### Ejercicios 1–10 — Writing con modelo
+
+Respeta la extensión y usa todas las expresiones indicadas. Cada tarea incluye una respuesta o un modelo completo: puedes cambiar los detalles, pero conserva las estructuras evaluadas.
+
+1. Completa: *If I ___ (study) psychology, I would understand this now.*
+2. Corrige: *If she were calmer, she would handled the meeting yesterday.*
+3. Clasifica: *If they had called, I would have answered.*
+4. Contrasta pasado→presente y presente→pasado con *patient*.
+5. Corrige: *If I had knew, I might be helping now.*
+6. Escribe 35–45 palabras con *had recognised, would feel, coping strategy*.
+7. Redacta 35–45 palabras con *were, would have, empathy*.
+8. Escribe 45–55 palabras contrastando mixed y third conditional.
+9. Escribe 50–60 palabras con *cognition, belief, self-awareness, anxiety, seek help*.
+10. Escribe 100–120 palabras sobre una decisión y sus efectos. Incluye tres mixed de cada dirección, dos terceros condicionales y ocho términos U46.
+
+<details>
+<summary>Ver modelos de writing</summary>
+
+1. If I **had studied** psychology, I would understand this now.
+2. If she were calmer, she **would have handled** the meeting yesterday.
+3. **Third conditional**: condición y resultado están en el pasado.
+4. Modelo: If he **had practised patience**, he would communicate better now. If he **were more patient**, he would have listened yesterday.
+5. If I **had known**, I might be helping now.
+6. Modelo: If Daniel **had recognised** his stress earlier, he **would feel** more confident today. He now uses a breathing exercise as a **coping strategy** and seeks support when pressure begins to affect his sleep or concentration at work.
+7. Modelo: If the manager **were** more empathetic, he **would have listened** carefully during yesterday's meeting. Greater **empathy** would not solve every problem, but it could have helped him understand why the team needed practical support and a safer discussion.
+8. Modelo: If Maya had attended the workshop, she **would manage** pressure better now; this mixed conditional connects past and present. If she had attended, she **would have learned** two strategies that day; this third conditional keeps both unreal events in the past and evaluates one missed opportunity.
+9. Modelo: **Cognition** influences how we interpret an event, while a fixed **belief** can distort that interpretation. Developing **self-awareness** helps a person notice repeated reactions. If persistent **anxiety** disrupts daily life and emotional balance, they may choose to **seek help** from a qualified professional instead of treating distress as a personal failure.
+10. Modelo: Daniel once ignored severe **stress** because he believed that requesting support showed weakness. If he **had recognised** the pattern, he **would use** healthier **coping strategies** now. If his colleague **had dismissed** him, Daniel **might still avoid** discussing his **emotions**. If the centre **had offered** training, staff **could feel** safer today. Daniel is impatient; if he **were** more reflective, he **would have noticed** his **anxiety** sooner. If he had greater **self-awareness**, he **would have challenged** that harmful **belief**. If his manager showed more **empathy**, he **might have listened** better. If Daniel **had refused** all help, his stress **would have increased**. If the team **had trained** earlier, they **would have responded** more constructively.
+
+</details>
+
+### Ejercicios 11–15 — Speaking con guion y pistas
+
+Prepara durante 30 segundos y habla sin leer. Después compara tus estructuras con el guion o las pistas concretas.
+
+11. Pronuncia las tres líneas temporales.
+12. Explica pasado→presente en 30 segundos.
+13. Role-play entre colega y trabajador.
+14. Contrasta *would, could, might*.
+15. Habla 60 segundos sobre una decisión y bienestar con seis condicionales y ocho términos U46.
+
+<details>
+<summary>Ver guiones y pistas de speaking</summary>
+
+11. Guion modelo: **If I had trained, I would be calmer now. If I were calmer, I would have answered better. If I had trained, I would have answered better.**
+12. Guion modelo: The condition did not happen in the past, but its consequence belongs to now: **If she had sought help, she would feel better today**.
+13. A: Why are you coping better? B: If you hadn't shown empathy, I **might still avoid** discussing stress. A: I'm glad you sought support.
+14. Guion modelo: **Would** presents the expected unreal result, **could** adds ability or possibility, and **might** makes the consequence less certain.
+15. Pistas: tres direcciones · now/yesterday · would/could/might · cognition · belief · empathy · anxiety · self-awareness · resilience · coping strategy · seek help.
+
+</details>
+
+---
+
+## Siguiente paso en el curso B2
+
+Continúa con la **Unidad 47**, donde las cleft sentences organizan el foco de ensayos e informes.
+
+- [Unidad 46 del curso](/curso-b2/unit-46)
+- [U47 teoría: Cleft Sentences + Academic Writing](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing)
+
+### Guías relacionadas
+
+- [U45 Modal Deduction + Space](/blog/curso-b2/unidad-45-modal-deduction-space)
+- [U47 Cleft Sentences + Academic Writing](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing)
+- [Inglés B2](/blog/metodos/ingles-b2)
 
 ---
 

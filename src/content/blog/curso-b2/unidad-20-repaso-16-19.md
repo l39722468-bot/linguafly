@@ -1,12 +1,12 @@
----
+﻿---
 category: curso-b2
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: "Repaso B2 Unidades 16–19: Passive, Modals, So/Such & Comparatives"
+title: "Repaso B2 Unidades 16–19: Passive, Modals, So/Such & Comparatives (Teoría y Ejercicios)"
 description: >-
-  Repasa passive all tenses, modal passive, have something done, so/such/too/enough y comparativos avanzados del módulo 2 B2. Guía Unidad 20 con audios.
-readTime: 15 min
+  Repasa passive all tenses, modal passive, have something done, so/such/too/enough y comparativos avanzados del módulo 2 B2 con teoría completa y ejercicios resueltos. Guía y cuaderno de la Unidad 20 con audios.
+readTime: 40 min
 keywords:
   - repaso B2 unidades 16-19
   - passive modal so such comparatives
@@ -38,7 +38,7 @@ faqs:
     answer: >-
       Tras la Unidad 20, el curso continúa con un nuevo módulo centrado en **linkers avanzados y phrasal verbs** (Unidad 21), así que aprovecha este repaso para consolidar bien la pasiva, los modales y los comparativos antes de seguir avanzando.
 excerpt: >-
-  Guía de la Unidad 20 del curso B2: repaso integrado de las unidades 16–19.
+  Guía completa con teoría y ejercicios de la Unidad 20 del curso B2: repaso integrado de las unidades 16–19.
 ---
 
 Has completado cuatro unidades muy densas: la **pasiva en todos los tiempos** ([U16](/blog/curso-b2/unidad-16-passive-all-tenses-heritage)), el **modal passive y have something done** ([U17](/blog/curso-b2/unidad-17-modal-passive-adventure)), **so / such / too / enough** ([U18](/blog/curso-b2/unidad-18-so-such-too-enough-food)) y los **comparativos avanzados** ([U19](/blog/curso-b2/unidad-19-advanced-comparatives-literature)). La **Unidad 20** no introduce gramática nueva: su función es **integrar** estas cuatro estructuras en los mismos textos y ejercicios, tal y como aparecerán mezcladas en cualquier conversación, lectura o examen de nivel B2.
@@ -46,7 +46,6 @@ Has completado cuatro unidades muy densas: la **pasiva en todos los tiempos** ([
 Este tipo de repaso "mezclado" es mucho más exigente que estudiar cada estructura por separado, porque tu cerebro tiene que **identificar primero qué estructura necesita cada frase** antes de poder formarla correctamente. Es exactamente la habilidad que se evalúa en exámenes como el First Certificate (FCE) de Cambridge.
 
 > **Practica en el curso:** [Unidad 20 — Repaso 16–19](/curso-b2/unit-20)  
-> **Cuaderno de ejercicios:** [Unidad 20 con soluciones](/blog/curso-b2/unidad-20-repaso-16-19-ejercicios-soluciones)  
 > **Antes:** [U19 — Advanced comparatives](/blog/curso-b2/unidad-19-advanced-comparatives-literature)
 
 ---
@@ -254,154 +253,6 @@ Léelas dos veces en voz alta: la primera fijándote en el significado completo,
 
 ---
 
-## 12. Ejercicios prácticos (con soluciones)
-
-### Ejercicio 1 — Passive: completa
-
-1. The site \_\_\_\_ (restore) right now.  
-2. The castle \_\_\_\_ (build) in 1200.  
-3. The manuscript \_\_\_\_ (believe / write) by monks.  
-4. The ruins \_\_\_\_ (excavate) next year.
-
-<details>
-<summary>Ver solución</summary>
-
-1. **is being restored**  
-2. **was built**  
-3. **is believed to have been written**  
-4. **will be excavated**
-</details>
-
-### Ejercicio 2 — Modal passive y have something done
-
-1. Gear \_\_\_\_ (must / test) before the climb.  
-2. The report \_\_\_\_ (should / publish) earlier.  
-3. She \_\_\_\_ her wetsuit \_\_\_\_ yesterday. (have / repair)  
-4. He \_\_\_\_ his ropes \_\_\_\_ every six months. (have / check)
-
-<details>
-<summary>Ver solución</summary>
-
-1. **must be tested**  
-2. **should have been published**  
-3. **had / repaired**  
-4. **has / checked**
-</details>
-
-### Ejercicio 3 — So, such, too, enough
-
-1. It was \_\_\_\_ a great class that she signed up again.  
-2. The soup was \_\_\_\_ hot to eat.  
-3. We don't have \_\_\_\_ time to finish.  
-4. The cake was \_\_\_\_ delicious that we couldn't stop.
-
-<details>
-<summary>Ver solución</summary>
-
-1. **such**  
-2. **too**  
-3. **enough**  
-4. **so**
-</details>
-
-### Ejercicio 4 — Advanced comparatives
-
-1. \_\_\_\_ more you read, \_\_\_\_ better you write.  
-2. This is \_\_\_\_ the best novel I've read. (by far)  
-3. This edition is \_\_\_\_ more expensive. (much)  
-4. The new version is only \_\_\_\_ better. (slightly)
-
-<details>
-<summary>Ver solución</summary>
-
-1. **The / the**  
-2. **by far**  
-3. **much**  
-4. **slightly**
-</details>
-
-### Ejercicio 5 — Corrige el error (mezclado)
-
-1. *The site is restored right now.* (acción en curso)  
-2. *Gear must tested before the climb.*  
-3. *It was so a great class.*  
-4. *This is by far better novel.*
-
-<details>
-<summary>Ver solución</summary>
-
-1. The site **is being restored** right now.  
-2. Gear **must be tested** before the climb.  
-3. It was **such a** great class.  
-4. This is **by far the best** novel.
-</details>
-
-### Ejercicio 6 — Vocabulario mezclado: traduce
-
-1. patrimonio  
-2. arnés  
-3. receta  
-4. secuela  
-5. ruinas  
-6. sazonar
-
-<details>
-<summary>Ver solución</summary>
-
-1. **heritage**  
-2. **harness**  
-3. **recipe**  
-4. **sequel**  
-5. **ruins**  
-6. **season**
-</details>
-
-### Ejercicio 7 — Comprensión del reading (Eva)
-
-1. What is Eva reviewing this week?  
-2. What example did she use for the present continuous passive?  
-3. What is her cousin having done at the moment?  
-4. What was Eva's favourite comparative sentence?  
-5. What did Eva realise about mixing the four structures together?
-
-<details>
-<summary>Ver solución</summary>
-
-1. **Units 16 to 19, before her B2 exam.**  
-2. **The historic site near her house is being restored.**  
-3. **He is having his ropes checked.**  
-4. **The more she reads, the better she writes.**  
-5. **That mixing all four structures together helped her remember them far better than studying separately.**
-</details>
-
-### Ejercicio 8 — Traduce al inglés (mezclado)
-
-1. El yacimiento se está restaurando ahora mismo.  
-2. El equipo debe ser probado antes de la expedición.  
-3. Fue una clase de cocina tan buena que nos apuntamos otra vez.  
-4. Cuanto más lees, mejor escribes.  
-5. Esta es, con diferencia, la mejor novela.
-
-<details>
-<summary>Ver solución</summary>
-
-1. **The site is being restored right now.**  
-2. **The gear must be tested before the expedition.**  
-3. **It was such a great cooking class that we signed up again.**  
-4. **The more you read, the better you write.**  
-5. **This is by far the best novel.**
-</details>
-
-### Ejercicio 9 — Escribe tu propio texto integrador
-
-Escribe un párrafo de 8–10 frases combinando al menos una estructura de cada unidad (passive, modal passive/have something done, so/such/too/enough, advanced comparatives).
-
-**Modelo:**
-
-> The museum near my house is being renovated this year. All the old paintings must be checked by a specialist before they go back on display, and the curator is having several frescoes restored professionally. It was such an interesting exhibition that I visited it twice. The more I learn about art history, the more I appreciate these old buildings. This is, by far, the most impressive museum in my city.
-
----
-
 ## Tip del profesor
 
 En un repaso mezclado, identifica primero **el bloque** al que pertenece cada frase (pasiva / modal / so-such / comparativo) antes de intentar formarla. Esa identificación rápida es la habilidad clave que separa un B2 sólido de uno que solo memoriza estructuras sueltas.
@@ -419,14 +270,276 @@ En un repaso mezclado, identifica primero **el bloque** al que pertenece cada fr
 
 ---
 
+# Parte II — Ejercicios
+
+Este artículo incluye también los **ejercicios de la Unidad 20** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
+
+## Lección 1 — Gramática
+
+**Objetivo:** passive all tenses, modal passive, have something done, so/such/too/enough, advanced comparatives
+
+### Ejercicios 1–5 — Completa
+
+1. The site ___ right now. (continuous passive) → *is being restored / is restored / restores*
+2. Gear ___ before the climb. (modal passive) → *must be tested / must test / must testing*
+3. I ___ my parachute ___ next week. → *am having / serviced · have / service*
+4. It was ___ a great class that we signed up. → *such / so / too*
+5. ___ more you read, ___ better you write. → *The / the · More / more*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **is being restored** · 2. **must be tested** · 3. **am having / serviced** · 4. **such** · 5. **The / the**
+
+</details>
+
+### Ejercicios 6–10 — Elige / completa
+
+1. Has been + V3 = ___ passive. → *present perfect / past simple*
+2. Should have been + V3 = ___ about the past. → *criticism / permission*
+3. Too + adj + to = ___. → *excess / sufficiency*
+4. By far + ___ → *superlative / comparative only*
+5. Have something done = action done ___ you. → *for / by yourself only*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **present perfect** · 2. **criticism** · 3. **excess** · 4. **superlative** · 5. **for**
+
+</details>
+
+### Ejercicios 11–15 — Corrige
+
+1. *The site is restore now.*
+2. *Gear must tested.*
+3. *I am having my parachute service.*
+4. *It was so a great class.*
+5. *More you read, better you write.*
+
+<details>
+<summary>Ver solución</summary>
+
+1. The site **is being restored** now.
+2. Gear **must be tested**.
+3. I am having my parachute **serviced**.
+4. It was **such** a great class.
+5. **The** more you read, **the** better you write.
+
+</details>
+
+---
+
+## Lección 2 — Vocabulario
+
+**Objetivo:** heritage, adventure, cooking, literature (mix)
+
+### Ejercicios 1–5 — Empareja / elige
+
+1. passive voice → *voz pasiva · recipe · sequel*
+2. modal passive → *pasiva modal · dough · draft*
+3. have something done → *hacer que te hagan algo · whisk · plot*
+4. so / such → *tan / tal · rope · ruins*
+5. the more… the more → *cuanto más… más · kayak · batter*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **voz pasiva** · 2. **pasiva modal** · 3. **hacer que te hagan algo** · 4. **tan / tal** · 5. **cuanto más… más**
+
+</details>
+
+### Ejercicios 6–10 — Completa
+
+1. by far ≈ ___ → *con diferencia / opcional / pasivo*
+2. heritage ≈ ___ → *patrimonio / arnés / soufflé*
+3. enough ≈ ___ → *suficiente / demasiada / tal*
+4. too ≈ ___ → *demasiado / suficiente / cuanto más*
+5. comparative intensifier ≈ ___ → *much/far / that / be*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **con diferencia** · 2. **patrimonio** · 3. **suficiente** · 4. **demasiado** · 5. **much/far**
+
+</details>
+
+### Ejercicios 11–15 — En contexto
+
+11. Usa 3 palabras nuevas en frases con el foco gramatical.
+12. Di en voz alta el vocabulario de la unidad.
+13. Empareja cada palabra con un ejemplo personal.
+14. Revisa la tabla de vocabulario de la [guía teórica](/blog/curso-b2/unidad-20-repaso-16-19).
+15. Continúa en la [Unidad 20 del curso](/curso-b2/unit-20).
+
+<details>
+<summary>Ver solución</summary>
+
+11–13. Open answers — check meaning in theory. · 14. Theory vocab section. · 15. **/curso-b2/unit-20**
+
+</details>
+
+---
+
+## Lección 3 — Reading: Eva's module review
+
+**Objetivo:** comprender un texto con el foco de la unidad.
+
+### Texto y audio
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/reading-workbook.mp3" title="🔊 Reading: Eva's module review"></audio>
+
+> Eva is reviewing Units 16 to 19. The historic site is being restored this month. Climbing gear must be tested and she is having her ropes checked. It was such a great cooking class that she signed up again. The more she reads, the better she writes. By far the best tip she heard was to practise every structure in short paragraphs. Module 2 is almost complete.
+
+### Ejercicios 1–5 — Comprensión
+
+1. Who is reviewing U16–19? → *Eva / Sam / Leo*
+2. Site is being ___ → *restored / cooked*
+3. Gear must be ___ → *tested / written*
+4. Having ropes ___ → *checked / check*
+5. Such a great ___ class → *cooking / climbing only*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **Eva** · 2. **restored** · 3. **tested** · 4. **checked** · 5. **cooking**
+
+</details>
+
+### Ejercicios 6–10 — Detalles
+
+6. The more she reads, the better she ___ → *writes / climbs*
+7. By far the best ___ → *tip / soup*
+8. Module 2 almost ___ → *complete / started*
+9. Mix of four grammar blocks? → *True / False*
+10. Units sixteen to nineteen? → *True / False*
+
+<details>
+<summary>Ver solución</summary>
+
+6. **writes** · 7. **tip** · 8. **complete** · 9. **True** · 10. **True**
+
+</details>
+
+### Ejercicios 11–15 — Forma
+
+11. List 4 structures from text.
+12. Write a 4-line mix.
+13. Key idea? → *yes / none*
+14. Feeling? → *ready / lost*
+15. Course → */curso-b2/unit-20*
+
+<details>
+<summary>Ver solución</summary>
+
+11. **Open** · 12. **Open** · 13. **integrated review** · 14. **ready** · 15. **/curso-b2/unit-20**
+
+</details>
+
+---
+
+## Lección 4 — Listening: Eva mixes U16–19
+
+**Objetivo:** escuchar el foco gramatical en contexto.
+
+### Audio y guion
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-20/listening-workbook.mp3" title="🔊 Listening: Eva mixes U16–19"></audio>
+
+> Hi, I am Eva. The historic site is being restored right now. Climbing gear must be tested before we leave. I am having my parachute serviced next week. It was such a great cooking class that we signed up again. The more you read, the better you write. After units sixteen to nineteen, I feel ready for linkers.
+
+### Ejercicios 1–5 — Comprensión
+
+1. Who speaks? → *Eva / Nora / Sam*
+2. Site is being ___ → *restored / baked*
+3. Gear must be ___ → *tested / written*
+4. Having parachute ___ → *serviced / service*
+5. Such a great ___ class → *cooking / history only*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **Eva** · 2. **restored** · 3. **tested** · 4. **serviced** · 5. **cooking**
+
+</details>
+
+### Ejercicios 6–10 — Detalles
+
+6. The more… the better you ___ → *write / jump*
+7. Ready for ___ → *linkers / A1*
+8. Units sixteen to ___ → *nineteen / eleven*
+9. Four grammar areas mixed? → *True / False*
+10. Feeling ready? → *True / False*
+
+<details>
+<summary>Ver solución</summary>
+
+6. **write** · 7. **linkers** · 8. **nineteen** · 9. **True** · 10. **True**
+
+</details>
+
+### Ejercicios 11–15 — Forma
+
+11. List structures heard.
+12. Write a 3-line mix.
+13. Shadow one sentence.
+14. Next focus? → *linkers / articles only*
+15. Course → */curso-b2/unit-20*
+
+<details>
+<summary>Ver solución</summary>
+
+11. **Open** · 12. **Open** · 13. **Practice** · 14. **linkers** · 15. **/curso-b2/unit-20**
+
+</details>
+
+---
+
+## Lección 5 — Writing
+
+**Objetivo:** producir frases con el foco de la unidad.
+
+1. Una frase con cada: continuous passive, modal passive, have sth done, such a, the…the…, by far.
+2. Completa: The site ___ (restore) right now.
+3. Completa: Gear ___ (must / test).
+4. Completa: I ___ my ropes ___ . (have / check)
+5. Completa: It was ___ a great class that…
+6. Mini-historia (8 frases) mezclando U16–19.
+7. Corrige: *Gear must tested.*
+8. Corrige: *More you read, better you write.*
+9. Matching: estructura → unidad (16–19).
+10. Traduce: Me están revisando el equipo.
+11. Traduce: Cuanto más practicas, más fácil resulta.
+12. Autochequeo con mapa U20.
+13. Shadow reading + listening otra vez.
+14. Siguiente: Unidad 21 (linkers) en el curso.
+15. Enlace /curso-b2/unit-20.
+
+<details>
+<summary>Ver solución</summary>
+
+1. Open — one of each structure.
+2. **is being restored**
+3. **must be tested**
+4. **am having / checked**
+5. **such**
+6. Open mixed paragraph.
+7. Gear **must be tested**.
+8. **The** more you read, **the** better you write.
+9. passive→16; modal/have done→17; so/such→18; comparatives→19.
+10. I **am having** my gear **checked**.
+11. The more you practise, the easier it gets.
+12. Self-check vs review map.
+13. Practice again.
+14. Next: Unit 21 linkers.
+15. **/curso-b2/unit-20**
+
+</details>
+
+---
+
 ## Siguiente paso en el curso B2
 
 Con este repaso cierras el **Módulo 2** del curso B2. El curso continúa con la **[Unidad 21 — Linkers of contrast](/blog/curso-b2/unidad-21-linkers-contrast-personal-development)**.
-
-Practica ahora:
-
-- [Ejercicios Unidad 20 B2 (con soluciones)](/blog/curso-b2/unidad-20-repaso-16-19-ejercicios-soluciones)
-- [Unidad 20 del curso B2](/curso-b2/unit-20)
 
 Guías dedicadas:
 

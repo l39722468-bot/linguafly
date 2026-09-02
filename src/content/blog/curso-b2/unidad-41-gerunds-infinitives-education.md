@@ -3,10 +3,10 @@ category: curso-b2
 date: '2026-09-01'
 updatedDate: '2026-09-01'
 author: linguafly-team
-title: "Gerunds and Infinitives B2: Educación y Aprendizaje"
+title: "Gerunds and Infinitives B2: Educación y Aprendizaje (Teoría y Ejercicios)"
 description: >-
-  Domina gerundios e infinitivos B2, cambios de significado y object + infinitive con educación, audio, ejemplos y ejercicios.
-readTime: 32 min
+  Domina gerundios e infinitivos B2, cambios de significado, object + infinitive y vocabulario de Education Systems & Learning con audio, ejemplos y ejercicios resueltos de gramática, vocabulario, reading, listening, writing y speaking.
+readTime: 62 min
 keywords:
   - gerunds and infinitives B2 ejercicios
   - gerundio infinitivo inglés educación
@@ -20,7 +20,6 @@ canonical: 'https://linguafly.app/blog/curso-b2/unidad-41-gerunds-infinitives-ed
 image: /blog/curso-b2/unit-41/gerunds-infinitives-map.png
 alt: "Gerundios e infinitivos B2 en educación y aprendizaje"
 related_routes:
-  - unidad-41-gerunds-infinitives-education-ejercicios-soluciones
   - unidad-40-repaso-36-39
   - unidad-42-passive-reporting-science
   - ingles-b2
@@ -37,18 +36,14 @@ faqs:
   - question: ¿Qué estructura usan allow, ask, want y expect?
     answer: >-
       Usan **verb + person/object + to + base**: *The tutor asked us to submit the assignment*.
-  - question: ¿Dónde practico la Unidad 41?
-    answer: >-
-      En la [Unidad 41 del curso B2](/curso-b2/unit-41) y su [cuaderno con soluciones](/blog/curso-b2/unidad-41-gerunds-infinitives-education-ejercicios-soluciones).
 excerpt: >-
-  Guía B2 de gerundios, infinitivos, cambios de significado y educación con reading, ocho audios y práctica resuelta.
+  Guía completa B2 de gerundios, infinitivos, cambios de significado y educación con teoría, lectura, ocho audios, ejercicios resueltos de gramática, vocabulario, reading, listening, writing y speaking.
 ---
 La **Unidad 41** conecta **gerunds and infinitives** con **Education Systems & Learning**. Practica los patrones reales de *enjoy/avoid/consider/finish/mind + -ing*, *decide/hope/refuse/expect/seem + to*, y *allow/ask/want/expect + person + to*.
 
 También diferencia **remember, forget, stop** y **try** cuando el complemento cambia el significado. El vocabulario vivo incluye *curriculum, lecture, seminar, blended learning, EdTech, pedagogy, assessment, student engagement* y *academic achievement*. Esta guía incorpora los ejemplos de grammar, vocabulary, reading, listening y writing del curso.
 
 > **Practica en el curso:** [Unidad 41](/curso-b2/unit-41)<br>
-> **Cuaderno de ejercicios:** [Unidad 41 con soluciones](/blog/curso-b2/unidad-41-gerunds-infinitives-education-ejercicios-soluciones)<br>
 > **Antes:** [U40 — Repaso 36–39](/blog/curso-b2/unidad-40-repaso-36-39)
 
 ---
@@ -171,7 +166,7 @@ Colocaciones útiles del curso:
 
 ![Gerundios e infinitivos en un curso moderno](/blog/curso-b2/unit-41/education-context.png)
 
-> Many students **enjoy studying online** because they can **avoid commuting** to campus. Last year, Maya **decided to take a blended learning course**. The university **expects students to submit their essays by the due date**, and tutors **ask them to consider different teaching methods**. Maya **finished writing her dissertation** before graduation. She clearly **remembers uploading** the final copy, but she also **remembered to check** every reference. When one study plan failed, her tutor said, “Try **studying** in shorter sessions.”
+> Many students **enjoy studying online** because they can **avoid commuting** to campus. Last year, Maya **decided to take a blended learning course**. The university **expects students to submit their essays by the due date**, and tutors **ask them to consider different teaching methods**. Maya **finished writing her dissertation** before graduation. She clearly **remembers uploading** the final copy, but she also **remembered to check** every reference. When one study plan failed, her tutor said, "Try **studying** in shorter sessions."
 
 <audio controls preload="none" src="/audio/blog/curso-b2/unit-41/reading-u41.mp3" title="🔊 Reading Unidad 41"></audio>
 
@@ -241,117 +236,387 @@ Antes de avanzar, comprueba:
 - [ ] Uso vocabulario real de **Education Systems & Learning** en ejemplos propios.
 - [ ] Corrijo cada error y creo una frase de transferencia.
 
+---
 
-## 12. Ejercicios con soluciones
+# Parte II — Ejercicios
 
-### Ejercicio 1
+Este artículo incluye también los **ejercicios de la Unidad 41** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
-Completa: *Many students enjoy ___ online.*
+## Lección 1 — Gramática y chunks
 
-<details><summary>Ver solución</summary>
+**Objetivo:** seleccionar y construir correctamente gerundios, infinitivos, cambios de significado y verb + object + infinitive.
 
-**Studying**. *Enjoy* selecciona gerundio.
+No respondas por parecido visual. Localiza la pista de significado o tiempo y comprueba la cadena completa: modal, auxiliar, infinitivo, participio, objeto y concordancia.
+
+### Ejercicios 1–5 — Verbo + -ing o to + infinitive
+
+Elige el patrón exigido por el primer verbo y conserva la forma verbal completa.
+
+1. Many students enjoy ___ online.
+   Opciones: *studying · to study · study*
+2. Leo expects ___ his degree next year.
+   Opciones: *to finish · finishing · finish*
+3. The college hopes ___ engagement.
+   Opciones: *to improve · improving · improve*
+4. Maya considered ___ the exam.
+   Opciones: *retaking · to retake · retake*
+5. He refused ___ the lecture while ill.
+   Opciones: *to attend · attending · attend*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **studying** — *Enjoy* selecciona *-ing*.
+2. **to finish** — *Expect* selecciona *to + base* cuando el sujeto realiza ambas acciones.
+3. **to improve** — *Hope* lleva infinitivo con *to*.
+4. **retaking** — *Consider* lleva *-ing*.
+5. **to attend** — *Refuse* selecciona *to + base*.
+
 </details>
 
-### Ejercicio 2
+### Ejercicios 6–10 — Verbo + objeto + infinitive
 
-Corrige: *She decided taking a blended course.*
+Completa con el pronombre objeto y el infinitivo. La persona intermedia realiza la segunda acción.
 
-<details><summary>Ver solución</summary>
+6. The tutor asked (we/us) ___ the assignment.
+   Opciones: *us to submit · we to submit · us submitting*
+7. The school allows learners ___ tablets.
+   Opciones: *to use · using · use*
+8. Parents want their children ___ academic success.
+   Opciones: *to achieve · achieving · achieve*
+9. The university expects (they/them) ___ the due date.
+   Opciones: *them to meet · they to meet · them meeting*
+10. Corrige: *The lecturer asked she to revise the essay.*
 
-**She decided to take a blended course.**
+<details>
+<summary>Ver solución</summary>
+
+6. **us to submit** — *Ask + object + to + base*.
+7. **to use** — *Allow + object + to + base*.
+8. **to achieve** — *Want + object + to + base*.
+9. **them to meet** — Se necesita pronombre objeto antes de *to meet*.
+10. **The lecturer asked her to revise the essay.** — *Her* es el pronombre objeto.
+
 </details>
 
-### Ejercicio 3
+### Ejercicios 11–15 — Cambios de significado
 
-Elige pronombre y forma: *The lecturer asked (we/us) (submit/to submit) the essay.*
+Usa la pista temporal o funcional para distinguir tarea, recuerdo, cese, propósito, intento y método.
 
-<details><summary>Ver solución</summary>
+11. I remembered ___ the file, so the task was completed.
+   Opciones: *to upload · uploading*
+12. I remember ___ the file; I can picture the screen.
+   Opciones: *uploading · to upload*
+13. The lecturer stopped ___ because the alarm rang. (cesó)
+   Opciones: *speaking · to speak*
+14. We stopped ___ a question. (propósito de la pausa)
+   Opciones: *to ask · asking*
+15. Corrige el consejo de método: *Try to study in shorter sessions and see if it helps.*
 
-**Asked us to submit**: pronombre objeto antes del infinitivo.
-</details>
+<details>
+<summary>Ver solución</summary>
 
-### Ejercicio 4
+11. **to upload** — El recuerdo activó una tarea pendiente.
+12. **uploading** — Es un recuerdo de una acción pasada.
+13. **speaking** — *Stop + -ing* cesa la actividad.
+14. **to ask** — *Stop + to-infinitive* expresa propósito.
+15. **Try studying in shorter sessions and see if it helps.** — *Try + -ing* presenta un método experimental.
 
-Distingue: *I remembered to upload it / I remember uploading it.*
-
-<details><summary>Ver solución</summary>
-
-La primera presenta una tarea recordada y cumplida; la segunda, el recuerdo posterior de la acción.
-</details>
-
-### Ejercicio 5
-
-Completa dos significados: *The lecturer stopped ___; the lecturer stopped ___ a question.*
-
-<details><summary>Ver solución</summary>
-
-**Stopped speaking; stopped to answer**. Cesó la actividad frente a interrumpir otra para responder.
-</details>
-
-### Ejercicio 6
-
-Da un consejo experimental con *try*.
-
-<details><summary>Ver solución</summary>
-
-Ejemplo: **Try studying in shorter sessions.** *-ing* propone probar un método.
-</details>
-
-### Ejercicio 7
-
-Completa: *The school allows ___ tablets in class.*
-
-<details><summary>Ver solución</summary>
-
-**The school allows students to use tablets in class.**
-</details>
-
-### Ejercicio 8
-
-Distingue *curriculum* y *syllabus*.
-
-<details><summary>Ver solución</summary>
-
-El **curriculum** cubre el programa educativo amplio; el **syllabus**, el contenido de una asignatura.
-</details>
-
-### Ejercicio 9
-
-Repara la colocación: *assist a lecture and present an exam*.
-
-<details><summary>Ver solución</summary>
-
-**Attend a lecture and take/sit an exam.**
-</details>
-
-### Ejercicio 10
-
-Producción: escribe 160–190 palabras sobre blended learning.
-
-<details><summary>Ver solución</summary>
-
-Incluye cinco patrones con *-ing*, cinco con *to*, dos objetos + infinitivo, dos contrastes de significado y ocho términos educativos.
 </details>
 
 ---
 
-## Tip del profesor
+## Lección 2 — Vocabulario
 
-No traduzcas el segundo verbo. Recupera el bloque que exige el primero y comprueba quién realiza la segunda acción. Con *remember, stop* y *try*, dibuja primero la secuencia temporal.
+**Objetivo:** comprender y usar vocabulario de *Education Systems & Learning* en situaciones concretas.
+
+Aprende cada palabra con su colocación. Las alternativas cercanas obligan a decidir por definición y contexto, no por parecido.
+
+### Ejercicios 1–5 — Traducción precisa
+
+Elige el único significado que corresponde a la palabra.
+
+1. curriculum
+   Opciones: *plan educativo global · programa de una asignatura · calificación final*
+2. lecture
+   Opciones: *clase magistral · discusión en grupo pequeño · tutoría individual*
+3. seminar
+   Opciones: *discusión académica en grupo pequeño · examen formal · recinto universitario*
+4. assessment
+   Opciones: *proceso de evaluación · fecha de entrega · participación voluntaria*
+5. academic achievement
+   Opciones: *logro académico · asistencia física · tecnología educativa*
+
+<details>
+<summary>Ver solución</summary>
+
+1. **plan educativo global**
+2. **clase magistral**
+3. **discusión académica en grupo pequeño**
+4. **proceso de evaluación**
+5. **logro académico**
+
+</details>
+
+### Ejercicios 6–10 — Elige por definición
+
+Completa cada definición con una de las tres opciones.
+
+6. A course combining online and face-to-face work uses ___.
+   Opciones: *blended learning · distance only · a lecture hall*
+7. A substantial piece of work assigned by a tutor is an ___.
+   Opciones: *assignment · attendance · assessment method*
+8. The detailed content of one course or subject is its ___.
+   Opciones: *syllabus · curriculum system · campus*
+9. Technology designed for education is called ___.
+   Opciones: *EdTech · pedagogy · engagement*
+10. Sustained attention and participation by learners is ___.
+   Opciones: *student engagement · graduation · due date*
+
+<details>
+<summary>Ver solución</summary>
+
+6. **blended learning**
+7. **assignment**
+8. **syllabus**
+9. **EdTech**
+10. **student engagement**
+
+</details>
+
+### Ejercicios 11–15 — Completa el chunk
+
+Escribe la expresión exacta que completa la situación; todas pertenecen al inventario de la unidad.
+
+11. Students must ___ by Friday.
+12. The lecturer wants to ___ through collaborative tasks.
+13. Maya hopes to ___ at the end of the degree.
+14. Please ___ instead of saying *assist a lecture*.
+15. Leo studied consistently and managed to ___.
+
+<details>
+<summary>Ver solución</summary>
+
+11. **submit the assignment**
+12. **improve student engagement**
+13. **graduate**
+14. **attend the lecture**
+15. **pass with flying colours**
+
+</details>
 
 ---
 
-## Resumen rápido
+## Lección 3 — Reading: Maya's blended learning choices
 
-| Decisión | Forma |
-| :--- | :--- |
-| enjoy / avoid / consider / finish / mind | **verb + -ing** |
-| decide / hope / refuse / expect / seem | **verb + to + base** |
-| allow / ask / want / expect | **verb + object + to + base** |
-| tarea frente a recuerdo | remember/forget **to do / doing** |
-| cesar frente a propósito | stop **doing / to do** |
-| intento frente a método | try **to do / doing** |
+**Objetivo:** comprender la idea global, localizar datos y reconocer los objetivos en contexto.
+
+> Maya decided to take a blended learning course because she enjoys studying independently but also values discussion. The university expects students to submit every assignment by the due date and asks them to attend one seminar each week. Maya avoids commuting every day, yet she never misses the small-group sessions. Last month, she finished writing her first essay and remembered to check every reference before uploading it. She clearly remembers receiving useful feedback afterwards. When her original study plan stopped working, her tutor suggested trying shorter sessions. Maya tried to follow the new routine for a week and found that it improved her engagement. She now hopes to complete the course with flying colours.
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-41/reading-workbook.mp3" title="🔊 Reading: Maya's blended learning choices"></audio>
+
+Lee una vez para captar la situación y otra para localizar detalles. También puedes escuchar el audio. Todas las respuestas se comprueban directamente en el texto.
+
+### Ejercicios 1–5 — Comprensión global
+
+Responde con la información explícita del texto o audio.
+
+1. What type of course did Maya choose?
+2. How often must she attend a seminar?
+3. What did she finish writing?
+4. What method did her tutor suggest?
+5. What does Maya hope to do?
+
+<details>
+<summary>Ver solución</summary>
+
+1. **A blended learning course.**
+2. **Once a week.**
+3. **Her first essay.**
+4. **Trying shorter study sessions.**
+5. **Complete the course with flying colours.**
+
+</details>
+
+### Ejercicios 6–10 — Detalles y chunks exactos
+
+Completa con las palabras exactas del texto o audio.
+
+6. Complete: Maya enjoys ___ independently.
+7. Complete: The university expects students ___ assignments.
+8. What did Maya remember to check?
+9. What does she remember receiving?
+10. What did the new routine improve?
+
+<details>
+<summary>Ver solución</summary>
+
+6. **studying**
+7. **to submit**
+8. **Every reference.**
+9. **Useful feedback.**
+10. **Her engagement.**
+
+</details>
+
+### Ejercicios 11–15 — Forma, significado y secuencia
+
+Elige, explica u ordena usando la evidencia presentada.
+
+11. Choose: *remembered to check* is a task / memory.
+12. Choose: *remembers receiving* is a task / memory.
+13. Put in order: essay — feedback — failed plan — new routine.
+14. Why can Maya avoid commuting every day?
+15. Did she test the new routine briefly or permanently?
+
+<details>
+<summary>Ver solución</summary>
+
+11. **a task**
+12. **a memory**
+13. **essay → feedback → failed plan → new routine**
+14. **Because she is on a blended learning course.**
+15. **She tried it for a week.**
+
+</details>
+
+---
+
+## Lección 4 — Listening: Sarah changes her seminars
+
+**Objetivo:** identificar información y expresiones completas a velocidad natural.
+
+<audio controls preload="none" src="/audio/blog/curso-b2/unit-41/listening-workbook.mp3" title="🔊 Listening: Sarah changes her seminars"></audio>
+
+Escucha dos veces antes de abrir el guion: la primera para entender la situación y la segunda para anotar detalles.
+
+<details>
+<summary>Leer guion después de escuchar</summary>
+
+> Hi, I'm Sarah, and I teach at a university. Many of my students enjoy studying in small seminars rather than listening to long lectures. Last semester, I decided to introduce blended learning. The university expects us to use different teaching methods and allows students to complete some assignments online. I ask everyone to submit their work by Friday. One student finished writing her essay early but forgot to attach the reference list. She remembered uploading the essay, yet she didn't remember to check the attachment. We stopped to discuss the problem during class. I suggested trying a checklist, and she hopes to avoid making the same mistake again.
+
+</details>
+
+### Ejercicios 1–5 — Comprensión global
+
+Responde con la información explícita del texto o audio.
+
+1. Who is speaking?
+2. What kind of classes do many students prefer?
+3. What did Sarah introduce last semester?
+4. When must students submit their work?
+5. What did one student forget to attach?
+
+<details>
+<summary>Ver solución</summary>
+
+1. **Sarah, a university teacher.**
+2. **Small seminars.**
+3. **Blended learning.**
+4. **By Friday.**
+5. **The reference list.**
+
+</details>
+
+### Ejercicios 6–10 — Detalles y chunks exactos
+
+Completa con las palabras exactas del texto o audio.
+
+6. Complete: Students enjoy ___ in seminars.
+7. Complete: Sarah decided ___ blended learning.
+8. Complete: The university expects teachers ___ different methods.
+9. What did the student remember doing?
+10. What method did Sarah suggest?
+
+<details>
+<summary>Ver solución</summary>
+
+6. **studying**
+7. **to introduce**
+8. **to use**
+9. **Uploading the essay.**
+10. **Trying a checklist.**
+
+</details>
+
+### Ejercicios 11–15 — Forma, significado y secuencia
+
+Elige, explica u ordena usando la evidencia presentada.
+
+11. Choose: *forgot to attach* means attached / did not attach.
+12. Choose: *stopped to discuss* means ceased discussion / paused for discussion.
+13. Put in order: blended learning — early essay — missing list — checklist.
+14. What does blended learning allow students to do?
+15. What mistake does the student hope to avoid?
+
+<details>
+<summary>Ver solución</summary>
+
+11. **did not attach**
+12. **paused for discussion**
+13. **blended learning → early essay → missing list → checklist**
+14. **Complete some assignments online.**
+15. **Forgetting or failing to attach the reference list.**
+
+</details>
+
+---
+
+## Lección 5 — Writing y Speaking
+
+**Objetivo:** producir mensajes controlados con gerundios, infinitivos, cambios de significado y verb + object + infinitive.
+
+### Ejercicios 1–10 — Writing con modelo
+
+Respeta la extensión y usa todas las expresiones indicadas. Cada tarea incluye una respuesta o un modelo completo: puedes cambiar los detalles, pero conserva las estructuras evaluadas.
+
+1. Completa: *Students enjoy ___ (study) online.*
+2. Corrige: *Maya decided taking a blended course.*
+3. Elige pronombre y forma: *The tutor asked (we/us) (revise/to revise).*
+4. Contrasta *remember to upload / remember uploading* en dos frases.
+5. Completa ambos sentidos: *The lecturer stopped ___; then she stopped ___ a question.*
+6. Escribe 35–45 palabras con *avoid, consider, blended learning*.
+7. Redacta 35–45 palabras con *ask us to, allow us to, expect us to*.
+8. Escribe 45–55 palabras con *stop doing, stop to do, try doing*.
+9. Escribe 50–60 palabras con *curriculum, assessment, student engagement, pass with flying colours*.
+10. Escribe 100–120 palabras sobre un curso híbrido. Incluye cuatro verbos + *-ing*, cuatro + infinitivo, tres patrones con objeto y dos contrastes de significado.
+
+<details>
+<summary>Ver modelos de writing</summary>
+
+1. Students enjoy **studying** online.
+2. Maya **decided to take** a blended course.
+3. The tutor asked **us to revise**.
+4. Modelo: I **remembered to upload** the essay before Friday. I **remember uploading** it from the library.
+5. The lecturer stopped **speaking**; then she stopped **to answer** a question.
+6. Modelo: Students who use **blended learning** can **avoid commuting** every day. They should **consider attending** weekly seminars, however, because discussion and immediate feedback improve their understanding of difficult topics and help them apply ideas in practical projects.
+7. Modelo: Our tutors **ask us to submit** assignments online. They **allow us to use** digital sources, but they **expect us to cite** every author accurately before the due date and include a complete reference list with each essay.
+8. Modelo: When my old routine stopped **working**, I stopped **to speak** to my tutor. She suggested that I try **studying** in shorter sessions. The method improved my concentration, so I stopped **leaving** every assignment until the final evening and started reviewing my notes after each seminar instead.
+9. Modelo: The new **curriculum** combines seminars with online projects. Continuous **assessment** gives learners frequent feedback, while group tasks improve **student engagement**. Students still take a final exam, but regular practice helps them understand the material and **pass with flying colours** without depending only on one result at the end of term.
+10. Modelo: I **decided to take** a blended learning course because I **enjoy studying** independently and wanted to **avoid commuting** daily. The curriculum **allows students to watch** lectures online, but tutors **ask us to attend** a weekly seminar and **expect us to submit** each assignment by Friday. I **hope to improve** my academic writing and have **considered joining** an extra tutorial. Last week, I **remembered to upload** my essay, and I remember **receiving** detailed feedback. When my first plan stopped **working**, I stopped **to ask** for help. My tutor suggested trying **studying** before breakfast. I **expect to finish** the course confidently and pass the final assessment with flying colours.
+
+</details>
+
+### Ejercicios 11–15 — Speaking con guion y pistas
+
+Prepara durante 30 segundos y habla sin leer. Después compara tus estructuras con el guion o las pistas concretas.
+
+11. Pronuncia cinco bloques con *-ing* y cinco con infinitivo.
+12. Explica *remember to do / doing* en 30 segundos.
+13. Role-play entre tutor y estudiante con dos objetos + infinitivo.
+14. Contrasta oralmente *stop doing / stop to do / try doing*.
+15. Habla 60 segundos sobre blended learning con ocho patrones y seis términos U41.
+
+<details>
+<summary>Ver guiones y pistas de speaking</summary>
+
+11. Guion modelo: **enjoy studying, avoid commuting, consider attending, finish writing, mind helping; decide to enrol, hope to graduate, refuse to cheat, expect to finish, seem to work**.
+12. Guion modelo: **Remember to upload** refers to a task. **Remember uploading** refers to a memory of an action that already happened.
+13. A: I **want you to revise** this paragraph. B: When? A: The course **expects students to submit** it by Friday.
+14. Guion modelo: I **stopped studying** at ten. Earlier, I **stopped to answer** a call. My tutor suggested **trying shorter sessions**.
+15. Pistas: enjoy/avoid/consider/finish + -ing · decide/hope + to · ask/allow + object + to · curriculum · seminar · assignment · assessment · engagement · due date.
+
+</details>
 
 ---
 
@@ -359,39 +624,13 @@ No traduzcas el segundo verbo. Recupera el bloque que exige el primero y comprue
 
 Continúa con la **Unidad 42**, donde las noticias científicas usan estructuras de reporte en pasiva.
 
-- [Ejercicios U41 con soluciones](/blog/curso-b2/unidad-41-gerunds-infinitives-education-ejercicios-soluciones)
 - [Unidad 41 del curso](/curso-b2/unit-41)
-- [U42 teoría: Passive Reporting + Science](/blog/curso-b2/unidad-42-passive-reporting-science)
 
 ### Guías relacionadas
 
 - [U40 Repaso 36–39](/blog/curso-b2/unidad-40-repaso-36-39)
 - [U42 Passive Reporting + Science](/blog/curso-b2/unidad-42-passive-reporting-science)
 - [Inglés B2](/blog/metodos/ingles-b2)
-
----
-
-## Preguntas frecuentes
-
-### ¿Qué verbos de U41 llevan gerundio?
-
-**Enjoy, avoid, consider, finish** y **mind** se construyen con *-ing* en los objetivos de la unidad.
-
-### ¿Qué verbos llevan to + infinitive?
-
-**Decide, hope, refuse, expect** y **seem** aparecen con *to + verbo base*.
-
-### ¿Cómo cambia remember, stop o try?
-
-*Remember/forget to do* miran una tarea; *doing*, un recuerdo. *Stop doing* cesa; *stop to do* expresa propósito. *Try doing* prueba un método.
-
-### ¿Qué estructura usan allow, ask, want y expect?
-
-Usan **verb + person/object + to + base**: *The tutor asked us to submit the assignment*.
-
-### ¿Dónde practico la Unidad 41?
-
-En la [Unidad 41 del curso B2](/curso-b2/unit-41) y su [cuaderno con soluciones](/blog/curso-b2/unidad-41-gerunds-infinitives-education-ejercicios-soluciones).
 
 ---
 
