@@ -521,11 +521,35 @@ By the end of this unit, students will be able to:
 **Text type:** Speculative essay (550–650 words)  
 **Topic:** *Beyond the Horizon: Nanotechnology, Brain-Computer Interfaces and the End of Human Limitation*
 
+#### Beyond the Horizon
+
+For most of human history, technological progress has extended what the body can do. Tools multiplied physical strength, writing enlarged memory and medicine postponed death. The technologies now moving from laboratories into daily life may do something more consequential: they may alter the boundaries between the human body, the machine and the environment. Nanotechnology, brain-computer interfaces, augmented reality and autonomous vehicles are often presented as separate innovations. Taken together, however, they suggest a future in which limitation is no longer accepted as a fixed feature of human existence.
+
+Nanotechnology offers the most literal route beyond scale. By manipulating matter at dimensions invisible to the naked eye, researchers can design materials that are lighter, stronger or more responsive than conventional ones. In medicine, nanoscale particles could deliver drugs directly to diseased cells, reducing the damage caused by treatments that affect the whole body. It is conceivable that microscopic devices might one day monitor chemical changes in the bloodstream and intervene before symptoms appear. Such applications would not make people immortal, but they could turn healthcare from a system that reacts to illness into one that anticipates it.
+
+Brain-computer interfaces promise a more intimate transformation. These systems interpret patterns of neural activity and translate them into commands for a computer or a prosthetic limb. For people paralysed by injury or illness, the benefits are already more than speculative: a thought can, under controlled conditions, move a cursor or an artificial hand. In the longer term, advocates envisage communication that bypasses speech, or learning environments that respond directly to attention and mental fatigue. Yet the brain is not merely another input device. If neural data were collected by employers, insurers or platforms, private thought could become a new frontier of surveillance. The question would no longer be who owns a person's data, but who has the right to interpret the person themselves.
+
+Augmented reality may make this boundary less visible without requiring any implant. Digital information could be layered over streets, classrooms and workplaces, allowing directions, translations or expert guidance to appear in the user's field of vision. The advantage would be immediate access to context: a technician might see a machine's maintenance history while examining it, while a visitor could encounter historical reconstructions at the site where events occurred. Nevertheless, a world saturated with helpful prompts might also become a world in which attention is permanently monetised. If every surface could carry an invisible message, choosing what not to see would become a significant act of autonomy.
+
+Autonomous vehicles illustrate a different promise: freedom from routine decisions. By taking over driving, they could make mobility available to people who are currently excluded from it and reduce accidents caused by fatigue or distraction. Cities might reclaim space now devoted to parking, and commuters could work or rest while travelling. This optimistic projection depends on more than technical reliability. Transport systems embody political choices about access, accountability and the distribution of risk. When an unavoidable collision occurs, responsibility cannot be delegated to an algorithm simply because the algorithm made the final calculation.
+
+The language of technological revolution often implies that adoption is inevitable. It is not. Every innovation is shaped by regulation, commercial incentives and public resistance. The central challenge, therefore, is not to halt progress but to decide which forms of progress deserve legitimacy. Humanity may indeed push the boundaries of capability, but capability alone is an inadequate measure of improvement. A future worth pursuing would not be one in which every limitation has disappeared. It would be one in which technology expands human choice without quietly taking responsibility, privacy and attention in exchange.
+
 **Comprehension tasks:**
 1. **Main claims** — List 4 technologies discussed. For each, what benefit does the author claim?
 2. **Tone and attitude** — Is the author utopian, dystopian or balanced? Find evidence.
 3. **Vocabulary in context** × 6
 4. **Critical thinking** — What risks or limitations does the author fail to mention?
+
+**Vocabulary from text:**
+| Word/Phrase | Meaning | Collocation |
+|---|---|---|
+| nanoscale | relating to dimensions of approximately one billionth of a metre | *at the nanoscale / nanoscale particles* |
+| intervene | to become involved in a situation in order to change its course | *intervene early / intervene directly* |
+| bypass | to avoid or go around a person, process or system | *bypass speech / bypass conventional treatment* |
+| saturated | completely filled, often with more of something than can be absorbed | *a saturated market / a world saturated with information* |
+| accountability | responsibility for decisions and actions, especially when they have consequences | *ensure / demand accountability* |
+| legitimacy | acceptance that something is reasonable, lawful or justified | *establish / grant legitimacy* |
 
 ---
 
