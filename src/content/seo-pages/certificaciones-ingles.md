@@ -2,7 +2,7 @@
 title: "Niveles de Inglés (A1-C2): Guía Completa de Competencias 2026"
 description: "Entiende los niveles del Marco Común Europeo (MCER) desde A1 hasta C2. Descubre qué competencias necesitas en cada etapa y cómo certificar tu nivel de inglés."
 keywords: ["niveles de inglés oficiales", "equivalencias niveles inglés", "mcer inglés a1 c2", "competencias inglés niveles", "certificar nivel inglés"]
-canonical: "https://www.focus-on-english.com/niveles-ingles-a1-c2"
+canonical: "https://linguafly.app/certificaciones-ingles-oficiales"
 faqs:
   - question: "¿Qué significan las siglas MCER?"
     answer: "El MCER es el Marco Común Europeo de Referencia para las lenguas, un estándar internacional que define la competencia lingüística en una escala de niveles desde A1 (principiante) hasta C2 (maestría)."
@@ -53,8 +53,8 @@ El dominio profundo y la capacidad de usar el idioma en entornos académicos y p
 2.  **Material Adecuado**: Estudiar con contenidos por encima o por debajo de tu nivel real puede causar frustración o aburrimiento.
 3.  **Certificación**: La mayoría de las instituciones y empresas solicitan tu nivel basado en esta escala (A1-C2).
 
-## Domina cada Nivel con Focus English
+## Domina cada Nivel con Linguafly
 
-Independientemente de tu punto de partida, en **Focus English** hemos diseñado una ruta de aprendizaje inteligente que te acompaña desde el nivel A1 hasta el C2. Nuestro sistema basado en IA te ayuda a consolidar las competencias necesarias en cada etapa mediante la práctica en escenarios reales.
+Independientemente de tu punto de partida, en **Linguafly** hemos diseñado una ruta de aprendizaje inteligente que te acompaña desde el nivel A1 hasta el C2. Nuestro sistema basado en IA te ayuda a consolidar las competencias necesarias en cada etapa mediante la práctica en escenarios reales.
 
 [Descubre tu nivel actual con nuestro Test Gratuito →](/test-nivel)

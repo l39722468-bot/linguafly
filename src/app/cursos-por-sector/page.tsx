@@ -1,15 +1,14 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Navigation } from "@/components/sections/Navigation";
-
-const baseUrl = "https://www.focus-on-english.com";
+import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 
 export const metadata: Metadata = {
-  title: "Cursos de inglés por sector profesional | Focus English",
+  title: `Cursos de inglés por sector profesional | ${SITE_BRAND_NAME}`,
   description:
     "Impulsa tu carrera con los cursos de inglés especializado por sectores profesionales de LinguaFly: hostelería, recepción, logística, salud y más.",
   alternates: {
-    canonical: `${baseUrl}/cursos-por-sector`,
+    canonical: getAbsoluteUrl('/cursos-por-sector'),
   },
   keywords: [
     "inglés por sector profesional",

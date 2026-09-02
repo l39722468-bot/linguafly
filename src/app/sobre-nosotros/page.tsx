@@ -12,20 +12,21 @@ import {
   ShieldCheck,
   Users,
 } from "lucide-react";
+import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 
 export const metadata: Metadata = {
-  title: "Sobre Focus English | Proyecto editorial de inglés para hispanohablantes",
+  title: `Sobre ${SITE_BRAND_NAME} | Proyecto editorial de inglés para hispanohablantes`,
   description:
-    "Qué es Focus English, cómo elaboramos el contenido y qué fuentes oficiales (Cambridge, British Council, CEFR) usamos para cada artículo. Proyecto editorial independiente, sin cursos de pago ni afiliación comercial oculta.",
+    `Qué es ${SITE_BRAND_NAME}, cómo elaboramos el contenido y qué fuentes oficiales (Cambridge, British Council, CEFR) usamos para cada artículo. Proyecto editorial independiente, sin cursos de pago ni afiliación comercial oculta.`,
   alternates: {
-    canonical: "https://www.focus-on-english.com/sobre-nosotros",
+    canonical: getAbsoluteUrl('/sobre-nosotros'),
   },
   openGraph: {
-    title: "Sobre Focus English",
+    title: `Sobre ${SITE_BRAND_NAME}`,
     description:
       "Proyecto editorial independiente de inglés para hispanohablantes: metodología, fuentes y proceso de revisión.",
     type: "website",
-    url: "https://www.focus-on-english.com/sobre-nosotros",
+    url: getAbsoluteUrl('/sobre-nosotros'),
   },
 };
 
@@ -34,8 +35,8 @@ export default function SobreNosotrosPage() {
   const totalArticles = articles.length;
 
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: "Inicio", url: "https://www.focus-on-english.com" },
-    { name: "Sobre nosotros", url: "https://www.focus-on-english.com/sobre-nosotros" },
+    { name: "Inicio", url: getAbsoluteUrl('/') },
+    { name: "Sobre nosotros", url: getAbsoluteUrl('/sobre-nosotros') },
   ]);
 
   return (
@@ -62,7 +63,7 @@ export default function SobreNosotrosPage() {
               Proyecto editorial independiente
             </div>
             <h1 className="font-display text-4xl lg:text-5xl font-black text-slate-900 leading-tight mb-6">
-              Sobre <span className="text-coral-600">Focus English</span>
+              Sobre <span className="text-coral-600">{SITE_BRAND_NAME}</span>
             </h1>
             <p className="text-xl text-slate-700 leading-relaxed">
               Somos un proyecto editorial independiente centrado en resolver dudas de inglés a
@@ -244,7 +245,7 @@ export default function SobreNosotrosPage() {
                 </h2>
                 <p className="text-slate-700 leading-relaxed mb-4">
                   Muchos blogs atribuyen sus artículos a autores ficticios con fotos de stock.
-                  Nosotros preferimos la firma colectiva <em>Equipo Focus English</em>: refleja que
+                  Nosotros preferimos la firma colectiva <em>Equipo {SITE_BRAND_NAME}</em>: refleja que
                   el contenido es producto del trabajo editorial conjunto (redacción, verificación
                   y revisión) y no de un autor individual. Si en el futuro incorporamos
                   colaboradores con perfil público y credenciales verificables, aparecerán con su

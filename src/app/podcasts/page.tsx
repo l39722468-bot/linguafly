@@ -2,15 +2,14 @@ import type { Metadata } from "next";
 import Link from "next/link";
 import { Navigation } from "@/components/sections/Navigation";
 import { A1_EPISODES } from "@/lib/podcasts/a1-episodes";
-
-const baseUrl = "https://www.focus-on-english.com";
+import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 
 export const metadata: Metadata = {
-  title: "Podcasts de inglés para practicar listening | Focus English",
+  title: `Podcasts de inglés para practicar listening | ${SITE_BRAND_NAME}`,
   description:
     "Mejora tu comprensión auditiva en inglés escuchando nuestros podcasts educativos. Episodios por niveles con transcripciones y vocabulario explicados.",
   alternates: {
-    canonical: `${baseUrl}/podcasts`,
+    canonical: getAbsoluteUrl('/podcasts'),
   },
   keywords: [
     "podcasts de inglés",
