@@ -18,6 +18,11 @@ keywords:
   - diferencia entre will going to y present continuous
   - will para predicciones decisiones y promesas
   - futuro en inglés explicado para principiantes
+  - estructura de will en afirmativa negativa e interrogativa
+  - ejercicios gratis de futuro con will y respuestas
+  - cuándo usar will para decisiones espontáneas
+  - ejemplos de will para promesas y predicciones
+  - futuro con will para principiantes A2 B1
 excerpt: >-
   Will es el principal auxiliar para expresar el futuro en inglés: predicciones, expectativas, hechos futuros y decisiones en el momento. Aprende cuándo usarlo y cuándo preferir going to.
 faqs:

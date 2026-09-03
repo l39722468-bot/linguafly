@@ -17,6 +17,11 @@ keywords:
   - cuándo usar would en peticiones y condicionales
   - will y would para hablar del futuro y la cortesía
   - will vs would para estudiantes B1 B2
+  - will y would ejercicios de gramática inglesa
+  - diferencia entre will y would para hispanohablantes
+  - would en peticiones corteses y situaciones hipotéticas
+  - usos de will y would con ejemplos cotidianos
+  - guía gratis de will vs would nivel B1 B2
 excerpt: >-
   Will y would se parecen, pero no son simplemente presente y pasado. Will habla del futuro real; would habla de hipótesis, cortesía y hábitos pasados. Entender la diferencia cambia cómo suenas en inglés.
 faqs:

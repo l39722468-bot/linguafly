@@ -17,6 +17,11 @@ keywords:
   - cuándo usar will o going to en inglés
   - futuro en inglés para planes y predicciones
   - will y going to para estudiantes B1 B2
+  - will o going to ejercicios con soluciones
+  - diferencia entre planes y predicciones en inglés
+  - cuándo usar going to para planes futuros
+  - futuro inglés will going to explicado paso a paso
+  - guía gratuita de will y going to para B1
 excerpt: >-
   Will y going to expresan el futuro, pero de forma diferente. La distinción no es arbitraria: will es para decisiones espontáneas y predicciones sin evidencia; going to es para planes previos y predicciones con evidencia visible.
 faqs:
