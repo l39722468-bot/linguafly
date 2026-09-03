@@ -12,6 +12,11 @@ keywords:
   - 'Wont en Inglés: Qué Significa'
   - 'wont significado ingles'
   - gramática inglesa gratis
+  - qué significa won't en inglés con ejemplos
+  - diferencia entre won't y will not
+  - ejercicios gratis de won't en inglés
+  - cómo usar won't para rechazos y negativas
+  - pronunciación de won't para hispanohablantes
 excerpt: >-
   Won't es la contracción de will not. En inglés expresa negación del futuro, rechazos, negativas rotundas y falta de disposición — tanto de personas como de objetos. Aprende todos sus usos con ejemplos.
 faqs:
