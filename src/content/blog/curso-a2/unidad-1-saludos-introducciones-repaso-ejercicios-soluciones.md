@@ -15,6 +15,11 @@ keywords:
   - presentarse inglés A2
   - Nice to meet you A2
   - curso A2 Linguafly
+  - ejercicios saludos e introducciones inglés A2
+  - cómo presentarse en inglés nivel A2
+  - vocabulario hometown neighbourhood hobby
+  - frases Nice to meet you con ejercicios
+  - práctica Present Simple y to be A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-1-saludos-introducciones-repaso-ejercicios-soluciones'
 image: /blog/curso-a2/unit-1/a2-unit1-intro-formula.png
 alt: Presentación extendida para ejercicios A2 Unidad 1

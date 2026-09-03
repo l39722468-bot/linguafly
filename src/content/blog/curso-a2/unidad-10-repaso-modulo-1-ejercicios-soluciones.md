@@ -15,6 +15,11 @@ keywords:
   - past simple comparativos adverbios preposiciones
   - module 1 review A2
   - curso A2 Linguafly
+  - ejercicios repaso módulo 1 inglés A2
+  - revisión Past Simple comparativos y superlativos
+  - ejercicios preposiciones at on in A2
+  - repaso completo curso A2 con soluciones
+  - examen de práctica módulo 1 A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-10-repaso-modulo-1-ejercicios-soluciones'
 image: /blog/curso-a2/unit-10/a2-unit10-module1-review.png
 alt: Repaso Módulo 1 para ejercicios A2 Unidad 10

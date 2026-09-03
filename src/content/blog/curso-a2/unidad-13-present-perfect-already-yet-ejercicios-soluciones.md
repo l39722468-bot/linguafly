@@ -13,6 +13,11 @@ keywords:
   - I have already finished
   - I haven't done it yet
   - curso A2 Linguafly
+  - ejercicios already y yet inglés A2
+  - diferencia already y yet Present Perfect
+  - cómo usar I have already finished
+  - frases I haven’t done it yet
+  - práctica already yet con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-13-present-perfect-already-yet-ejercicios-soluciones'
 image: /blog/curso-a2/unit-13/a2-unit13-already-yet.png
 alt: Already y yet para ejercicios A2 Unidad 13
