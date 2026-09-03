@@ -11,6 +11,11 @@ excerpt: >-
 keywords:
   - 'Inglés A1 vs A2: Diferencias Clave'
   - ingles a1 vs a2
+  - diferencias entre inglés A1 y A2 con ejemplos
+  - cómo saber si tengo nivel A1 o A2 de inglés
+  - pasar de A1 a A2 en inglés gratis
+  - gramática inglesa A1 y A2 para principiantes
+  - curso gratis de inglés desde A1 hasta A2
 date: '2024-02-03'
 updatedDate: '2026-08-31'
 category: metodos

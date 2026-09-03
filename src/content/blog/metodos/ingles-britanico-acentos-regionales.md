@@ -12,6 +12,11 @@ excerpt: >-
 keywords:
   - Acentos Regionales del Inglés
   - acentos inglés británico regionales
+  - principales acentos regionales del inglés británico
+  - cómo entender Cockney Scouse y Geordie gratis
+  - diferencias entre acentos ingleses del Reino Unido
+  - escuchar acentos británicos para mejorar el listening
+  - guía gratuita de pronunciación inglesa regional
 author: focus-english-team
 date: '2026-02-03'
 updatedDate: '2026-08-31'
