@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 53
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - modales obligación deducción consejo B2
+  - phrasal verbs trabajo y carrera
+  - ejercicios modals phrasal verbs B2
+  - vocabulario mundo laboral inglés B2
+  - consejos profesionales en inglés
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-53-modals-phrasal-verbs-career'
 image: /blog/curso-b2/unit-53/modals-phrasal-verbs-map.png
 alt: "Modals y Phrasal Verbs en inglés B2 con vocabulario de carrera profesional y mundo laboral"

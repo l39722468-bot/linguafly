@@ -17,6 +17,11 @@ keywords:
   - inglés B2 unidad 49
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - inversión enfática ejercicios B2
+  - never have I only then did
+  - not only inversion con ejemplos
+  - hardly when no sooner than
+  - vocabulario sociología globalización B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-49-inversion-sociology'
 image: /blog/curso-b2/unit-49/inversion-map.png
 alt: "Inversión enfática B2 con sociología y cambios culturales"

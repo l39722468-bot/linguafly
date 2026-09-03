@@ -16,6 +16,11 @@ keywords:
   - crisis económica inglés vocabulario
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - wish if only past perfect ejercicios
+  - third conditional ejercicios B2 resueltos
+  - diferencias wish y third conditional
+  - vocabulario economía banca inversión B2
+  - hablar de crisis económicas en inglés
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-51-wish-third-conditional-economy'
 image: /blog/curso-b2/unit-51/wish-third-conditional-map.png
 alt: "Wish, If Only y Third Conditional en inglés B2 con vocabulario de economía"

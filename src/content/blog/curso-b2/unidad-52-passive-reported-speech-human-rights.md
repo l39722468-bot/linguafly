@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 52
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - passive voice reported speech ejercicios
+  - passive reporting inglés B2 con soluciones
+  - reported speech derechos humanos
+  - voz pasiva sistema legal inglés
+  - vocabulario justicia en inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-52-passive-reported-speech-human-rights'
 image: /blog/curso-b2/unit-52/passive-reported-speech-map.png
 alt: "Passive Voice y Reported Speech en inglés B2 con vocabulario de justicia y derechos humanos"

@@ -17,6 +17,11 @@ keywords:
   - inglés B2 unidad 50
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - repaso gramática B2 unidades 41 a 49
+  - ejercicios future perfect mixed conditionals
+  - cleft sentences reporting verbs inversion
+  - repaso avanzado inglés B2 con soluciones
+  - vocabulario mixto B2 educación psicología
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-50-repaso-41-49'
 image: /blog/curso-b2/unit-50/review-41-49-map.png
 alt: "Repaso B2 de gramática y vocabulario de las unidades 41 a 49"

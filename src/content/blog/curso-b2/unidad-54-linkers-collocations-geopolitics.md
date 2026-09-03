@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 54
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - linkers collocations ejercicios B2
+  - conectores contraste causa propósito inglés
+  - collocations política y diplomacia B2
+  - vocabulario relaciones internacionales inglés
+  - although whereas despite ejemplos B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-54-linkers-collocations-geopolitics'
 image: /blog/curso-b2/unit-54/linkers-collocations-map.png
 alt: "Linkers y Collocations en inglés B2 con vocabulario de política y relaciones internacionales"
