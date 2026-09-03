@@ -16,6 +16,11 @@ keywords:
   - objetos del aula inglés
   - números 1 al 10 ejercicios
   - curso A1 Linguafly
+  - ejercicios artículos y plurales inglés A1
+  - diferencia a an this that these those
+  - vocabulario objetos del aula en inglés
+  - números del 1 al 10 en inglés ejercicios
+  - práctica plurales inglés básico con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-4-articulos-plurales-ejercicios-soluciones'
 image: /blog/curso-a1/unit-4/a1-unit4-this-that-these-those.png
 alt: Demostrativos this that these those para ejercicios A1 Unidad 4

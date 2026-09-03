@@ -16,6 +16,11 @@ keywords:
   - how much is ejercicios
   - precios en inglés ejercicios
   - curso A1 Linguafly
+  - ejercicios números y edad inglés A1
+  - cómo preguntar How old are you
+  - cómo decir precios en inglés básico
+  - números del 20 al 100 en inglés
+  - práctica How much is it con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-8-numeros-edad-precios-ejercicios-soluciones'
 image: /blog/curso-a1/unit-8/a1-unit8-numbers.png
 alt: Números del 20 al 100 para ejercicios A1 Unidad 8

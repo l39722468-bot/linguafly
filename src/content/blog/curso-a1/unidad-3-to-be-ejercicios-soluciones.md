@@ -16,6 +16,11 @@ keywords:
   - how are you ejercicios
   - emociones inglés A1
   - curso A1 Linguafly
+  - ejercicios to be negativo inglés A1
+  - cómo formar preguntas con verbo to be
+  - frases How are you en inglés básico
+  - vocabulario emociones para principiantes
+  - práctica isn’t aren’t con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-3-to-be-ejercicios-soluciones'
 image: /blog/curso-a1/unit-3/a1-unit3-to-be-questions.png
 alt: Preguntas sí/no con to be para ejercicios A1 Unidad 3

@@ -16,6 +16,11 @@ keywords:
   - ejercicios con soluciones A1
   - My name is ejercicios
   - curso A1 Linguafly
+  - ejercicios saludos inglés A1 con soluciones
+  - cómo presentarse en inglés para principiantes
+  - frases My name is y I am A1
+  - vocabulario saludos y despedidas inglés básico
+  - práctica verbo to be I you A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones'
 image: /blog/curso-a1/unit-1/a1-unit1-to-be-i-you.png
 alt: Verbo to be con I am y You are para ejercicios A1

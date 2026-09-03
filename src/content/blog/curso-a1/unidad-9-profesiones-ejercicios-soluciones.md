@@ -16,6 +16,11 @@ keywords:
   - where do you work ejercicios
   - a an jobs ejercicios
   - curso A1 Linguafly
+  - ejercicios profesiones inglés A1 con respuestas
+  - vocabulario trabajos y ocupaciones en inglés
+  - cómo decir I am a teacher en inglés
+  - preguntas Where do you work A1
+  - práctica a an jobs inglés básico
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-9-profesiones-ejercicios-soluciones'
 image: /blog/curso-a1/unit-9/a1-unit9-jobs.png
 alt: Profesiones y lugares de trabajo para ejercicios A1 Unidad 9
