@@ -10,17 +10,17 @@ description: >-
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 3
-  - ejercicios to be negativa
-  - isn't aren't ejercicios
-  - how are you ejercicios
-  - emociones inglés A1
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 3 con soluciones
+  - ejercicios verbo to be en negativa
+  - isnt arent ejercicios con respuestas
+  - ejercicios how are you en inglés
+  - vocabulario emociones inglés A1 ejercicios
+  - práctica de inglés A1 gratis para principiantes
   - ejercicios to be negativo inglés A1
-  - cómo formar preguntas con verbo to be
-  - frases How are you en inglés básico
-  - vocabulario emociones para principiantes
-  - práctica isn’t aren’t con soluciones
+  - cómo formar preguntas con verbo to be ejercicios
+  - frases How are you en inglés básico práctica
+  - vocabulario emociones para principiantes ejercicios
+  - práctica am not isnt arent con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-3-to-be-ejercicios-soluciones'
 image: /blog/curso-a1/unit-3/a1-unit3-to-be-questions.png
 alt: Preguntas sí/no con to be para ejercicios A1 Unidad 3

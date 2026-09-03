@@ -10,14 +10,16 @@ description: >-
   ejemplos, audios y ejercicios prácticos.
 readTime: 15 min
 keywords:
-  - verbo to be negativa inglés
-  - preguntas con to be inglés
-  - emociones en inglés A1
-  - 'isnt arent inglés'
-  - how are you inglés
-  - inglés A1 unidad 3
-  - respuestas cortas inglés
-  - curso inglés A1 gratis
+  - verbo to be en negativa inglés A1
+  - cómo hacer preguntas con to be en inglés
+  - vocabulario de emociones en inglés A1
+  - am not isnt arent ejemplos
+  - cómo responder how are you en inglés
+  - inglés A1 unidad 3 to be
+  - respuestas cortas con verbo to be
+  - curso de inglés A1 gratis online
+  - diferencia entre isnt y arent
+  - preguntas sí no en inglés para principiantes
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-3-to-be-negativa-preguntas'
 image: /blog/curso-a1/unit-3/a1-unit3-to-be-questions.png
 alt: Esquema de preguntas sí/no con el verbo to be en inglés nivel A1

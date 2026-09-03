@@ -10,14 +10,16 @@ description: >-
   audios de pronunciación y ejercicios prácticos para la Unidad 1 del curso A1.
 readTime: 15 min
 keywords:
-  - saludos en inglés
-  - presentarse en inglés
-  - greetings english A1
-  - inglés A1 unidad 1
-  - verbo to be I you
-  - my name is inglés
-  - cómo saludar en inglés
-  - curso inglés A1 gratis
+  - saludos en inglés para principiantes A1
+  - cómo presentarse en inglés paso a paso
+  - greetings and introductions English A1
+  - inglés A1 unidad 1 saludos
+  - verbo to be con I am y you are
+  - cómo decir mi nombre en inglés
+  - frases para saludar en inglés básico
+  - curso de inglés A1 gratis online
+  - presentación personal en inglés ejemplos
+  - hello hi good morning inglés
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-1-saludos-presentarse'
 image: /blog/curso-a1/unit-1/a1-unit1-self-introduction-formula.png
 alt: Esquema para presentarse en inglés nivel A1 con saludo, nombre, origen y profesión

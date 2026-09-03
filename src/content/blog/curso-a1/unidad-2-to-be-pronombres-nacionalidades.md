@@ -10,14 +10,16 @@ description: >-
   Unidad 2 con ejemplos, audios y ejercicios prácticos.
 readTime: 15 min
 keywords:
-  - verbo to be inglés
-  - pronombres en inglés A1
-  - nacionalidades en inglés
-  - he she it we they
-  - inglés A1 unidad 2
-  - países en inglés
-  - I am you are he is
-  - curso inglés A1 gratis
+  - verbo to be en inglés A1 explicado
+  - pronombres personales en inglés para principiantes
+  - países y nacionalidades en inglés A1
+  - he she it we they con to be
+  - inglés A1 unidad 2 verbo to be
+  - lista de países en inglés con nacionalidades
+  - I am you are he is she is ejemplos
+  - curso de inglés A1 gratis online
+  - números del uno al diez en inglés
+  - tabla am is are para principiantes
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-2-to-be-pronombres-nacionalidades'
 image: /blog/curso-a1/unit-2/a1-unit2-to-be-chart.png
 alt: Tabla del verbo to be en inglés A1 con am, is y are para todos los pronombres

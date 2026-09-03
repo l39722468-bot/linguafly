@@ -10,16 +10,17 @@ description: >-
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 1
-  - ejercicios to be I you
-  - saludos presentarse ejercicios
-  - ejercicios con soluciones A1
-  - My name is ejercicios
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 1 con soluciones
+  - ejercicios verbo to be I am you are
+  - ejercicios de saludos y presentaciones en inglés
+  - workbook inglés A1 con respuestas explicadas
+  - ejercicios My name is y I am en inglés
+  - práctica de inglés A1 para principiantes gratis
   - ejercicios saludos inglés A1 con soluciones
-  - cómo presentarse en inglés para principiantes
+  - cómo presentarse en inglés ejercicios
   - frases My name is y I am A1
   - vocabulario saludos y despedidas inglés básico
+  - reading listening writing inglés A1 unidad 1
   - práctica verbo to be I you A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones'
 image: /blog/curso-a1/unit-1/a1-unit1-to-be-i-you.png
