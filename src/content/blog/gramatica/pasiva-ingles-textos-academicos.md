@@ -12,6 +12,11 @@ keywords:
   - 'Voz Pasiva en Inglés Académico: Cómo'
   - pasiva ingles academico
   - ejercicios de inglés gratis
+  - cómo usar la voz pasiva en textos académicos
+  - voz pasiva para papers y ensayos en inglés
+  - ejercicios gratis de pasiva académica inglesa
+  - estructuras pasivas para escribir una tesis
+  - cuándo usar la pasiva en inglés formal
 author: focus-english-team
 date: '2026-02-23'
 updatedDate: '2026-08-31'

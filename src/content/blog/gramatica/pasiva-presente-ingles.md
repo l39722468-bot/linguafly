@@ -12,6 +12,11 @@ keywords:
   - Voz Pasiva en Presente en Inglés
   - voz pasiva presente ingles
   - gramática inglesa gratis
+  - cómo formar la pasiva en presente simple inglés
+  - present continuous en voz pasiva con ejemplos
+  - ejercicios gratis de pasiva en presente
+  - is cleaned y is being cleaned diferencia
+  - voz pasiva presente para niveles A2 B1
 author: focus-english-team
 date: '2026-02-05'
 updatedDate: '2026-08-31'

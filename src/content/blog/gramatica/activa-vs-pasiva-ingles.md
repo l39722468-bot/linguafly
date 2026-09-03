@@ -12,6 +12,11 @@ keywords:
   - Voz Activa vs Voz Pasiva en Inglés
   - activa vs pasiva ingles
   - gramática inglesa gratis
+  - diferencia entre voz activa y pasiva en inglés
+  - cómo transformar activa a pasiva con ejemplos
+  - ejercicios gratis de activa y pasiva inglesa
+  - cuándo usar activa o pasiva en inglés
+  - activa y pasiva para exámenes B1 B2
 author: focus-english-team
 date: '2026-02-20'
 updatedDate: '2026-08-31'

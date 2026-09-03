@@ -15,6 +15,11 @@ keywords:
   - ejercicios gratis de voz pasiva inglesa
   - voz pasiva en inglés para exámenes B2 C1
   - guía gratuita de todos los tiempos en pasiva
+  - voz pasiva inglesa todos los tiempos verbales
+  - ejercicios de voz pasiva con soluciones B2 C1
+  - tabla de voz pasiva en inglés para estudiar
+  - pasivas impersonales y causativas en inglés
+  - cómo convertir frases activas en pasivas
 date: '2026-03-02'
 updatedDate: '2026-08-31'
 category: gramatica

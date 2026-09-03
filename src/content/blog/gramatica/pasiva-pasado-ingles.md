@@ -12,6 +12,11 @@ keywords:
   - voz pasiva pasado ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - cómo formar la voz pasiva en pasado inglés
+  - was were participio ejercicios gratis
+  - pasiva en past simple y past perfect
+  - ejemplos de voz pasiva en pasado inglés
+  - errores frecuentes de la pasiva en pasado
 author: focus-english-team
 date: '2026-02-08'
 updatedDate: '2026-08-31'
