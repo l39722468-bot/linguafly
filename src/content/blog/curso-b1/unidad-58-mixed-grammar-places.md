@@ -17,6 +17,11 @@ keywords:
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - inglés B1 unidad 58
+  - gramática mixta B1 ciudad y campo
+  - vocabulario town countryside B1
+  - there is there are y relative where
+  - present perfect continuous lugares
+  - describir lugares en inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-58-mixed-grammar-places'
 image: /blog/curso-b1/unit-58/mixed-grammar-map.png
 alt: 'Mixed grammar places B1'

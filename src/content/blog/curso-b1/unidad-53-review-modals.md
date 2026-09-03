@@ -17,6 +17,11 @@ keywords:
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - inglés B1 unidad 53
+  - repaso verbos modales inglés B1
+  - must might can't para deducciones
+  - had better would rather explicación
+  - need y needn't ejercicios B1
+  - modales de deducción con ejemplos
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-53-review-modals'
 image: /blog/curso-b1/unit-53/modals-map.png
 alt: 'Review modals B1'

@@ -17,6 +17,11 @@ keywords:
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - inglés B1 unidad 60
+  - repaso completo curso inglés B1
+  - gramática B1 completa con ejercicios
+  - checklist final nivel B1 inglés
+  - resumen de todas las unidades B1
+  - preparación final examen B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-60-final-b1-review'
 image: /blog/curso-b1/unit-60/final-review-map.png
 alt: 'Final B1 review complete'

@@ -17,6 +17,11 @@ keywords:
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - inglés B1 unidad 52
+  - repaso voz pasiva inglés B1
+  - reported speech statements questions commands
+  - ejercicios estilo indirecto B1
+  - modal passive explicación y ejercicios
+  - backshift reported speech en inglés
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-52-review-passive-reported'
 image: /blog/curso-b1/unit-52/passive-reported-map.png
 alt: 'Review passive reported B1'

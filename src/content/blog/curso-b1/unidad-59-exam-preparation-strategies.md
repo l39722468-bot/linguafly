@@ -17,6 +17,11 @@ keywords:
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - inglés B1 unidad 59
+  - cómo preparar examen B1 Preliminary
+  - estrategias reading listening writing speaking
+  - consejos examen Cambridge PET B1
+  - gramática frecuente examen B1
+  - plan de estudio para examen B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-59-exam-preparation-strategies'
 image: /blog/curso-b1/unit-59/exam-strategies-map.png
 alt: 'Exam preparation B1 PET'

@@ -17,6 +17,11 @@ keywords:
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - inglés B1 unidad 56
+  - gramática mixta B1 sobre deportes
+  - vocabulario sport en inglés B1
+  - ejercicios passive conditionals modals
+  - present perfect continuous deporte
+  - practicar inglés hablando de deporte
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-56-mixed-grammar-sport'
 image: /blog/curso-b1/unit-56/mixed-grammar-map.png
 alt: 'Mixed grammar sport B1'

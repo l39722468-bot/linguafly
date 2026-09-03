@@ -17,6 +17,11 @@ keywords:
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - inglés B1 unidad 51
+  - repaso de condicionales inglés B1
+  - ejercicios first second third conditional
+  - zero conditional y time clauses
+  - cómo usar todos los condicionales
+  - condicionales B1 con ejercicios resueltos
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-51-review-conditionals'
 image: /blog/curso-b1/unit-51/conditionals-map.png
 alt: 'Review conditionals B1'

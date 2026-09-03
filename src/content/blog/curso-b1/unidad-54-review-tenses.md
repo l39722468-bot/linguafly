@@ -17,6 +17,11 @@ keywords:
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - inglés B1 unidad 54
+  - repaso tiempos verbales inglés B1
+  - present perfect continuous y past perfect
+  - diferencias present perfect past simple
+  - futuro will going to ejercicios
+  - tenses B1 explicación y práctica
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-54-review-tenses'
 image: /blog/curso-b1/unit-54/tenses-map.png
 alt: 'Review tenses B1'

@@ -17,6 +17,11 @@ keywords:
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - inglés B1 unidad 57
+  - gramática mixta B1 ropa y colores
+  - vocabulario clothes and colours B1
+  - defining relative clauses con ropa
+  - comparativos y would rather B1
+  - describir ropa en inglés ejercicios
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours'
 image: /blog/curso-b1/unit-57/mixed-grammar-map.png
 alt: 'Mixed grammar clothes B1'
