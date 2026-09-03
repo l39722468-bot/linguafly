@@ -10,17 +10,17 @@ description: >-
   listening de Anna y Ben, y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 11
-  - ejercicios there is there are
-  - where is the bank ejercicios
-  - next to opposite between ejercicios
-  - lugares ciudad inglés A1
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 11 con soluciones
+  - ejercicios there is there are con respuestas
+  - where is the bank ejercicios en inglés
+  - next to opposite between ejercicios A1
+  - lugares de la ciudad inglés A1 práctica
+  - práctica de inglés A1 gratis con soluciones
   - ejercicios lugares de la ciudad inglés A1
-  - cómo preguntar dónde está el banco en inglés
-  - preposiciones next to opposite between A1
-  - vocabulario ciudad para principiantes inglés
-  - práctica there is there are lugares
+  - cómo preguntar dónde está el banco en inglés ejercicios
+  - preposiciones next to opposite between A1 ejercicios
+  - vocabulario ciudad para principiantes inglés práctica
+  - práctica there is there are lugares con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-11-lugares-ciudad-ejercicios-soluciones'
 image: /blog/curso-a1/unit-11/a1-unit11-places.png
 alt: Lugares en la ciudad para ejercicios A1 Unidad 11

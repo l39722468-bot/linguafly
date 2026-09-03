@@ -10,17 +10,17 @@ description: >-
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 10
-  - ejercicios rutinas diarias
-  - what time do you ejercicios
-  - half past o'clock ejercicios
-  - get up have breakfast
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 10 con soluciones
+  - ejercicios rutinas diarias en inglés
+  - what time do you ejercicios con respuestas
+  - half past y o'clock ejercicios
+  - get up y have breakfast ejercicios
+  - práctica de inglés A1 gratis con soluciones
   - ejercicios decir la hora en inglés A1
   - rutinas diarias inglés con soluciones
-  - cómo preguntar What time do you
-  - vocabulario actividades diarias inglés básico
-  - práctica half past o’clock para principiantes
+  - cómo preguntar What time do you ejercicios
+  - vocabulario actividades diarias inglés básico práctica
+  - práctica half past o'clock para principiantes
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-10-rutinas-hora-ejercicios-soluciones'
 image: /blog/curso-a1/unit-10/a1-unit10-routines.png
 alt: Rutinas diarias y horarios para ejercicios A1 Unidad 10

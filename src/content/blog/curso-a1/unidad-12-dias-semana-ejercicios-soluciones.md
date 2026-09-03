@@ -10,17 +10,17 @@ description: >-
   Ben, y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 12
-  - ejercicios días de la semana
-  - on monday on tuesday ejercicios
-  - weekend weekdays ejercicios
-  - what do you do on sunday
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 12 con soluciones
+  - ejercicios días de la semana en inglés
+  - on Monday y on Tuesday ejercicios
+  - weekend y weekdays ejercicios con respuestas
+  - what do you do on Sunday ejercicios
+  - práctica de inglés A1 gratis con soluciones
   - ejercicios días semana inglés A1 con respuestas
-  - cómo usar on con días en inglés
-  - vocabulario weekend y weekdays inglés
+  - cómo usar on con días en inglés ejercicios
+  - vocabulario weekend y weekdays inglés práctica
   - preguntas sobre actividades semanales A1
-  - práctica What do you do on Sunday
+  - práctica What do you do on Sunday con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-12-dias-semana-ejercicios-soluciones'
 image: /blog/curso-a1/unit-12/a1-unit12-days.png
 alt: Días de la semana para ejercicios A1 Unidad 12

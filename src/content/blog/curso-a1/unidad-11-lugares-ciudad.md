@@ -10,13 +10,16 @@ description: >-
   ejemplos, audios y ejercicios.
 readTime: 15 min
 keywords:
-  - lugares en la ciudad inglés
-  - there is there are A1
-  - where is the bank
-  - next to opposite between
-  - places in town english
-  - inglés A1 unidad 11
-  - is there a pharmacy
+  - lugares de la ciudad en inglés A1
+  - there is y there are explicado
+  - cómo preguntar where is the bank
+  - next to opposite between en inglés
+  - places in town English vocabulary A1
+  - inglés A1 unidad 11 ciudad
+  - cómo preguntar is there a pharmacy
+  - vocabulario de edificios y lugares en inglés
+  - preposiciones de lugar para principiantes
+  - describir una ciudad en inglés básico
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-11-lugares-ciudad'
 image: /blog/curso-a1/unit-11/a1-unit11-places.png
 alt: Tabla de lugares en la ciudad en inglés nivel A1

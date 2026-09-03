@@ -10,13 +10,16 @@ description: >-
   ejercicios.
 readTime: 15 min
 keywords:
-  - días de la semana en inglés
-  - on monday on tuesday
-  - weekend weekdays inglés
-  - what do you do on sunday
-  - days of the week A1
-  - inglés A1 unidad 12
-  - from monday to friday
+  - días de la semana en inglés A1 para principiantes
+  - cómo usar on Monday y on Tuesday
+  - weekend y weekdays en inglés explicado
+  - cómo decir what do you do on Sunday
+  - days of the week English A1
+  - inglés A1 unidad 12 días
+  - cómo decir from Monday to Friday
+  - actividades de la semana en inglés básico
+  - preposición on con días de la semana
+  - pronunciación de los días en inglés
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-12-dias-semana'
 image: /blog/curso-a1/unit-12/a1-unit12-days.png
 alt: Tabla de los días de la semana en inglés nivel A1

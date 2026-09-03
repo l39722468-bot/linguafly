@@ -9,13 +9,16 @@ description: >-
   half past. Guía Unidad 10 con ejemplos, audios y ejercicios prácticos.
 readTime: 15 min
 keywords:
-  - rutinas diarias en inglés
-  - what time do you
-  - decir la hora en inglés A1
-  - get up have breakfast
-  - half past o'clock
-  - inglés A1 unidad 10
-  - at seven o'clock
+  - rutinas diarias en inglés para principiantes A1
+  - cómo preguntar what time do you
+  - cómo decir la hora en inglés A1
+  - get up y have breakfast vocabulario
+  - half past y o'clock en inglés
+  - inglés A1 unidad 10 rutinas
+  - cómo usar at seven o'clock
+  - actividades diarias en inglés con horarios
+  - expresiones de tiempo en inglés básico
+  - present simple para hablar de rutinas A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-10-rutinas-diarias-hora'
 image: /blog/curso-a1/unit-10/a1-unit10-routines.png
 alt: Tabla de rutinas diarias en inglés nivel A1 con horarios
