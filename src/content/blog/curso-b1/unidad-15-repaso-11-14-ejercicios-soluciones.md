@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios repaso condicionales inglés B1
+  - revisión first second third conditional
+  - time clauses y conditionals con soluciones
+  - repaso weather entertainment regrets B1
+  - examen práctico condicionales B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-15-repaso-11-14-ejercicios-soluciones'
 image: /blog/curso-b1/unit-15/review-conditionals.png
 alt: Repaso 11–14 — ejercicios B1 Unidad 15
