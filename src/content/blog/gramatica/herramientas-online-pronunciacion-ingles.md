@@ -15,6 +15,11 @@ keywords:
   - herramientas pronunciacion ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - mejores herramientas online para pronunciación inglesa
+  - apps gratis para mejorar la pronunciación en inglés
+  - diccionarios fonéticos online para aprender inglés
+  - herramientas de IA para corregir pronunciación inglesa
+  - plataformas gratuitas para practicar speaking
 faqs:
   - question: ¿Pueden las apps reemplazar a un profesor de pronunciación?
     answer: >-

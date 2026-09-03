@@ -14,6 +14,11 @@ keywords:
   - Shadowing para Mejorar
   - shadowing idiomas
   - ejercicios de inglés gratis
+  - shadowing para mejorar la pronunciación inglesa
+  - cómo hacer shadowing en inglés paso a paso
+  - ejercicios gratis de shadowing con audio
+  - técnica de shadowing para hablar inglés fluido
+  - shadowing en inglés para principiantes y B1
 faqs:
   - question: ¿Qué es exactamente el shadowing?
     answer: >-

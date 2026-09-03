@@ -14,6 +14,11 @@ keywords:
   - pronunciación terminaciones inglés
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - reglas de pronunciación de terminaciones inglesas
+  - cómo pronunciar ed s y es en inglés
+  - ejercicios gratis de terminaciones del inglés
+  - pronunciación de plurales y tercera persona inglesa
+  - terminaciones inglesas con transcripción IPA
 author: focus-english-team
 date: '2026-02-28'
 updatedDate: '2026-08-31'

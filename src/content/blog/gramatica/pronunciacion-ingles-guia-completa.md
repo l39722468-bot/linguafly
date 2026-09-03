@@ -17,6 +17,11 @@ keywords:
   - sonidos del inglés y fonemas con ejemplos
   - ejercicios gratuitos de pronunciación desde cero
   - cómo mejorar acento entonación y word stress
+  - pronunciación inglesa desde cero paso a paso
+  - ejercicios gratis de pronunciación para hispanohablantes
+  - cómo pronunciar los sonidos difíciles del inglés
+  - guía completa de fonética inglesa con ejemplos
+  - mejorar pronunciación acento y entonación en inglés
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-08-31'
