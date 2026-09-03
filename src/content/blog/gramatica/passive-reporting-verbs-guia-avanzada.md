@@ -13,6 +13,11 @@ keywords:
   - 'Passive Reporting Verbs: Estructuras'
   - passive of reporting verbs
   - ejercicios de inglés gratis
+  - passive reporting verbs con it is said that
+  - he is said to be estructura y ejemplos
+  - ejercicios gratis de pasiva con reporting verbs
+  - voz pasiva de say believe think y report
+  - passive reporting verbs para C1 C2
 canonical: >-
   https://linguafly.app/blog/gramatica/passive-reporting-verbs-guia-avanzada
 alt: Estructuras avanzadas de verbos de reporte

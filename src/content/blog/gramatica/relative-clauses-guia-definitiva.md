@@ -16,6 +16,11 @@ keywords:
   - cuándo usar who which that y whose en inglés
   - ejercicios gratis de oraciones de relativo
   - relative clauses para exámenes B2 C1
+  - relative clauses defining y non defining diferencias
+  - ejercicios de relative clauses con soluciones
+  - cuándo omitir el pronombre relativo en inglés
+  - uso de whom whose which y that con ejemplos
+  - oraciones de relativo para Cambridge B2 C1
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-08-31'
