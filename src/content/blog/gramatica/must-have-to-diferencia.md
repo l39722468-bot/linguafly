@@ -17,6 +17,11 @@ keywords:
   - cómo expresar obligación y prohibición en inglés
   - ejercicios de must have to para B1 B2
   - cuándo usar must o have to en inglés
+  - must y have to ejercicios con respuestas
+  - diferencia entre mustnt y dont have to
+  - obligación interna y externa en inglés
+  - cómo usar must have to en pasado y futuro
+  - guía gratuita de must y have to para B1
 excerpt: >-
   La diferencia entre must y have to no es solo de forma — cambia quién impone la obligación. Y en negativo, la diferencia es todavía más importante: mustn't y don't have to significan cosas completamente distintas.
 faqs:

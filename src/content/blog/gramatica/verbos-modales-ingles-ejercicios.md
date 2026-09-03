@@ -11,6 +11,11 @@ keywords:
   - Ejercicios de Verbos Modales
   - verbos modales ingles ejercicios resueltos
   - gramática inglesa gratis
+  - ejercicios de verbos modales ingleses con respuestas
+  - ejercicios gratis de can could must should may
+  - práctica de modales en inglés por niveles A2 C1
+  - modales perfectos ejercicios resueltos en inglés
+  - ficha gratuita de verbos modales para imprimir
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-08-31'

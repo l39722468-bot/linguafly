@@ -17,6 +17,11 @@ keywords:
   - cómo usar can y could para pedir permiso
   - can could para habilidad posibilidad y peticiones
   - verbos modales can y could para principiantes
+  - can y could para peticiones corteses en inglés
+  - ejercicios gratis de can could con respuestas
+  - diferencia entre can y could para hablar de habilidad
+  - cómo usar could para posibilidades pasadas
+  - can could explicado para niveles A2 B1
 excerpt: >-
   Can y could parecen fáciles al principio, pero tienen más matices de lo que parece. Más allá de "puedo" y "podía", estos dos modales se usan para posibilidad, permiso, peticiones y hasta deducciones negativas.
 faqs:

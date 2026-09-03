@@ -16,6 +16,11 @@ keywords:
   - tabla de verbos modales en inglés para imprimir
   - cómo usar los verbos modales en inglés A1 C1
   - modales perfectos en inglés con ejercicios
+  - lista completa de verbos modales ingleses con traducción
+  - ejercicios gratis de verbos modales con soluciones
+  - tabla de can could must should may y might
+  - verbos modales en inglés para niveles A1 a C1
+  - cómo elegir el verbo modal correcto en inglés
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-08-31'
