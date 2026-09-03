@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 45
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - modal deduction must might could can't
+  - ejercicios modales deducción B2
+  - must have might have could have
+  - deducciones en presente y pasado inglés
+  - vocabulario exploración espacial B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-45-modal-deduction-space'
 image: /blog/curso-b2/unit-45/modal-deduction-map.png
 alt: "Modal deduction B2 con exploración espacial"

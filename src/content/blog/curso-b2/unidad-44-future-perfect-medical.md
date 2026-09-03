@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 44
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - future perfect ejercicios con soluciones
+  - will have participle by the time
+  - futuro perfecto pasivo inglés B2
+  - cómo usar by y by the time
+  - vocabulario investigación médica B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-44-future-perfect-medical'
 image: /blog/curso-b2/unit-44/future-perfect-map.png
 alt: "Future Perfect B2 en investigación médica y salud"

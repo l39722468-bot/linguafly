@@ -17,6 +17,11 @@ keywords:
   - inglés B2 unidad 48
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - reporting verbs ejercicios B2
+  - suggest recommend insist con gerundio
+  - urge someone to estructura inglés
+  - verbos de reporte con that clause
+  - vocabulario innovación educativa EdTech
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-48-reporting-verbs-teaching'
 image: /blog/curso-b2/unit-48/reporting-verbs-map.png
 alt: "Reporting verbs B2 con innovación en la enseñanza"

@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 46
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - mixed conditionals pasado presente ejercicios
+  - mixed conditionals presente pasado B2
+  - if had would be would have
+  - third conditional vs mixed conditional
+  - vocabulario psicología comportamiento B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-46-mixed-conditionals-psychology'
 image: /blog/curso-b2/unit-46/mixed-conditionals-map.png
 alt: "Mixed conditionals B2 con psicología y comportamiento humano"

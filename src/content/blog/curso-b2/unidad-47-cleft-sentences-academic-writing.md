@@ -17,6 +17,11 @@ keywords:
   - inglés B2 unidad 47
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - cleft sentences ejercicios B2 resueltos
+  - it cleft what cleft explicación
+  - what I need is estructura inglés
+  - oraciones hendidas escritura académica
+  - vocabulario informes académicos inglés
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-47-cleft-sentences-academic-writing'
 image: /blog/curso-b2/unit-47/cleft-sentences-map.png
 alt: "Cleft sentences B2 en escritura académica e informes"

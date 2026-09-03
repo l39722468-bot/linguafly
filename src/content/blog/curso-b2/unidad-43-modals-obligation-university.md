@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 43
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - must have to need to should ejercicios
+  - diferencia mustn't y don't have to
+  - should ought to consejos universidad
+  - modales obligación y consejo B2
+  - vocabulario vida universitaria inglés
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-43-modals-obligation-university'
 image: /blog/curso-b2/unit-43/modals-obligation-map.png
 alt: "Modales de obligación y consejo B2 en la universidad"
