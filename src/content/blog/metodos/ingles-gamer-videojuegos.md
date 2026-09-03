@@ -12,6 +12,11 @@ excerpt: >-
 keywords:
   - 'Inglés Gamer: Vocabulario'
   - vocabulario gaming ingles
+  - vocabulario de inglés para videojuegos online gratis
+  - expresiones gamer en inglés para el chat gratis
+  - slang de videojuegos en inglés gratis
+  - inglés gratis para jugar online con amigos
+  - vocabulario gratis de Twitch y Discord en inglés
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-08-31'

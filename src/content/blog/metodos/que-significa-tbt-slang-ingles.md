@@ -12,6 +12,11 @@ excerpt: >-
 keywords:
   - ¿Qué significa TBT?
   - tbt significado
+  - qué significa TBT en redes sociales gratis
+  - significado de TBT en inglés gratis
+  - qué significa POV ASAP e IYKYK gratis
+  - acrónimos de internet en inglés gratis
+  - slang moderno de redes sociales en inglés gratis
 date: '2024-02-04'
 updatedDate: '2026-08-31'
 category: metodos
