@@ -8,6 +8,11 @@ keywords:
   - vocabulario c1 advanced
   - preparar inglés gratis
   - material de inglés gratis
+  - vocabulario C1 Advanced para el CAE
+  - palabras y expresiones inglés nivel C1
+  - lista vocabulario Cambridge C1 con ejemplos
+  - cómo mejorar vocabulario para el CAE
+  - ejercicios vocabulario C1 Advanced gratis
 author: focus-english-team
 date: '2026-03-13'
 updatedDate: '2026-08-31'

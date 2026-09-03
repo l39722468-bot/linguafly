@@ -7,6 +7,11 @@ keywords:
   - 'Inversiones en Inglés C1: Domina'
   - inversiones ingles c1
   - material de inglés gratis
+  - ejercicios inversiones inglés C1 con respuestas
+  - inversiones para Key Word Transformations CAE
+  - adverbios negativos inversión en inglés
+  - estructuras formales inglés nivel C1
+  - cómo usar inversiones en Writing CAE
 author: focus-english-team
 date: '2026-03-23'
 updatedDate: '2026-08-31'

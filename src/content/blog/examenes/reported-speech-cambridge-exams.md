@@ -12,6 +12,11 @@ keywords:
   - Reported Speech Cambridge Exams
   - reported speech cambridge
   - preparar inglés gratis
+  - ejercicios reported speech Cambridge B2 C1
+  - reported speech Key Word Transformations
+  - verbos de estilo indirecto examen CAE
+  - cambios de tiempo reported speech inglés
+  - práctica Cambridge Use of English con respuestas
 canonical: 'https://linguafly.app/blog/examenes/reported-speech-cambridge-exams'
 alt: Personas hablando representando el reported speech
 faqs:

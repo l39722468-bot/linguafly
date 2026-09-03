@@ -7,6 +7,11 @@ keywords:
   - Collocations en Inglés C1
   - aprender collocations ingles
   - preparar inglés gratis
+  - collocations C1 Advanced para el CAE
+  - lista collocations inglés con ejemplos
+  - ejercicios de collocations nivel C1
+  - verbos y sustantivos collocations Cambridge
+  - cómo aprender collocations para el examen
 author: focus-english-team
 date: '2026-03-21'
 updatedDate: '2026-08-31'
