@@ -15,6 +15,11 @@ keywords:
   - business report formal English C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - informes de negocios ejercicios C1
+  - comparativos far considerably marginally
+  - the more the more business reports
+  - vocabulario tendencias mercado inglés
+  - cómo redactar un informe formal C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-32-negocios-tendencias'
 image: /blog/curso-c1/unit-32/business-trends.png
 alt: "Informes y comparativos avanzados aplicados a negocios y tendencias en inglés C1"

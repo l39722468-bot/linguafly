@@ -15,6 +15,11 @@ keywords:
   - economy society opinion English C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - expresar opinión matizada inglés C1
+  - it is widely argued that ejemplos
+  - adverbios de postura inglés avanzado
+  - vocabulario macroeconomía inglés C1
+  - hablar de economía y sociedad inglés
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-36-economia-sociedad'
 image: /blog/curso-c1/unit-36/economy-society.png
 alt: "Opinión matizada y macroeconomía ligera aplicadas a la economía y la sociedad en inglés C1"

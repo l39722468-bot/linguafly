@@ -15,6 +15,11 @@ keywords:
   - persuasive language startup pitch English
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - pitch de emprendimiento en inglés
+  - conditionals unless provided that C1
+  - in the event that should you
+  - lenguaje persuasivo startup pitch
+  - vocabulario innovación y startups C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-33-emprendimiento-innovacion'
 image: /blog/curso-c1/unit-33/entrepreneurship-innovation.png
 alt: "Pitch y estructuras de riesgo-oportunidad aplicados al emprendimiento e innovación en inglés C1"

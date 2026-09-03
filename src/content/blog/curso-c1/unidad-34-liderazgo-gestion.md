@@ -15,6 +15,11 @@ keywords:
   - meeting minutes formal English C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - redactar minutas reuniones inglés C1
+  - reported speech reuniones de trabajo
+  - verbos de reporte liderazgo inglés
+  - meeting minutes formal English
+  - vocabulario gestión y liderazgo C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-34-liderazgo-gestion'
 image: /blog/curso-c1/unit-34/leadership-management.png
 alt: "Reuniones, minutas y reported speech aplicados al liderazgo y la gestión en inglés C1"

@@ -15,6 +15,11 @@ keywords:
   - discourse professional English C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - modalidad must have to should C1
+  - be supposed to ought to need to
+  - vocabulario CV entrevista inglés C1
+  - discurso profesional para entrevistas
+  - hablar de ambición laboral en inglés
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-31-carreras-ambicion-laboral'
 image: /blog/curso-c1/unit-31/careers-ambition.png
 alt: "Modalidad y discurso profesional aplicados a carreras y ambición laboral en inglés C1"

@@ -15,6 +15,11 @@ keywords:
   - corporate responsibility formal English C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - ética corporativa ejercicios C1
+  - accountable liable responsible for
+  - have a duty to ought to
+  - vocabulario stakeholders y CSR
+  - responsabilidad empresarial inglés formal
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-35-etica-corporativa'
 image: /blog/curso-c1/unit-35/corporate-ethics.png
 alt: "Responsabilidad y estructuras de obligación ética aplicadas a la ética corporativa en inglés C1"
