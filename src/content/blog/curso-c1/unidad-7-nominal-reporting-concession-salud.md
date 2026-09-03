@@ -15,6 +15,11 @@ keywords:
   - that clause what clause ejercicios
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - nominal clauses ejercicios C1 resueltos
+  - reporting verbs con that clause
+  - although despite nevertheless ejemplos
+  - lenguaje de concesión inglés avanzado
+  - vocabulario salud y mente C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-7-nominal-reporting-concession-salud'
 image: /blog/curso-c1/unit-7/nominal-clauses-health-mind-map.png
 alt: "Nominal clauses, reporting verbs y concesión en inglés C1"

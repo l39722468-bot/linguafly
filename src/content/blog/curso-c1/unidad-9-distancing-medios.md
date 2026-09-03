@@ -15,6 +15,11 @@ keywords:
   - vocabulario medios e información inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - distancing language ejercicios resueltos
+  - construcciones impersonales inglés C1
+  - cleft sentences avanzadas medios
+  - lenguaje periodístico reported media
+  - vocabulario medios información C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-9-distancing-medios'
 image: /blog/curso-c1/unit-9/distancing-media-information-map.png
 alt: "Distancing language, construcciones impersonales y clefts en inglés C1"

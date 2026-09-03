@@ -15,6 +15,11 @@ keywords:
   - vocabulario problemas globales inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - fronting topicalisation ejercicios C1
+  - inversión never rarely not until
+  - speculation language ejemplos inglés
+  - énfasis y contraste inglés avanzado
+  - vocabulario problemas globales C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-8-fronting-contraste-global'
 image: /blog/curso-c1/unit-8/fronting-global-issues-map.png
 alt: "Fronting, contraste y especulación en inglés C1 sobre problemas globales"

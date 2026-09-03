@@ -15,6 +15,11 @@ keywords:
   - impersonal constructions inglés avanzado
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - repaso distancing clefts C1
+  - ejercicios lenguaje formal inglés
+  - vocabulario ética inteligencia artificial
+  - construcciones impersonales y énfasis
+  - repaso unidad 1 a 9 C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-10-repaso-etica-futuro'
 image: /blog/curso-c1/unit-10/ethics-future-review-map.png
 alt: "Repaso C1 de lenguaje formal, ética, inteligencia artificial y futuro"

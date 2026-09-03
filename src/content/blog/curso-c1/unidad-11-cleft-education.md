@@ -15,6 +15,11 @@ keywords:
   - academic writing cleft sentences
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - cleft sentences ejercicios C1 resueltos
+  - it was who that estructura
+  - what clause inglés avanzado ejemplos
+  - énfasis en escritura académica C1
+  - vocabulario educación pensamiento crítico
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-11-cleft-education'
 image: /blog/curso-c1/unit-11/cleft-education-learning-map.png
 alt: "Cleft sentences en inglés C1 con vocabulario de educación y aprendizaje"

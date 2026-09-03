@@ -15,6 +15,11 @@ keywords:
   - smart city gentrification inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - mixed conditionals ejercicios C1
+  - if had would be now ejemplos
+  - decisiones pasadas consecuencias presentes
+  - vocabulario urbanismo arquitectura C1
+  - smart city gentrification en inglés
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-12-condicionales-urbanismo'
 image: /blog/curso-c1/unit-12/mixed-conditionals-urban-life-map.png
 alt: "Mixed conditionals en inglés C1 con vocabulario de urbanismo y arquitectura"
