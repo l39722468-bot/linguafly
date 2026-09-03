@@ -14,6 +14,11 @@ keywords:
   - 'Cómo Pronunciar "-ed" y "-s'
   - como pronunciar pasado ingles terminacion ed
   - gramática inglesa gratis
+  - cómo pronunciar las terminaciones ed y s en inglés
+  - reglas de pronunciación ed t d id con ejemplos
+  - pronunciación de la s plural en inglés gratis
+  - ejercicios de terminaciones ed y s en inglés
+  - cómo mejorar la pronunciación del pasado inglés
 faqs:
   - question: ¿Hay que memorizar todas las reglas de la "-ed" y la "-s"?
     answer: >-
