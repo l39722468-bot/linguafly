@@ -14,6 +14,11 @@ keywords:
   - repaso A2 modulo 5
   - travel shopping health
   - curso A2 Linguafly
+  - ejercicios repaso módulo 5 inglés A2
+  - revisión viajes clima compras y salud
+  - vocabulario ropa personas y entretenimiento A2
+  - repaso gramática A2 con soluciones
+  - examen práctico Module 5 Review
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-50-module-5-review-ejercicios-soluciones'
 image: /blog/curso-a2/unit-50/a2-unit50-module-5-review.png
 alt: Module 5 Review — ejercicios A2 Unidad 50

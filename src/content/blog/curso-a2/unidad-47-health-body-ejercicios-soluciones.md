@@ -14,6 +14,11 @@ keywords:
   - have a headache should
   - pharmacy medicine
   - curso A2 Linguafly
+  - ejercicios salud y cuerpo inglés A2
+  - cómo decir me duele en inglés
+  - frases have a headache feel sick
+  - consejos de salud con should inglés
+  - práctica health body con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-47-health-body-ejercicios-soluciones'
 image: /blog/curso-a2/unit-47/a2-unit47-health-body.png
 alt: Health & Body — ejercicios A2 Unidad 47

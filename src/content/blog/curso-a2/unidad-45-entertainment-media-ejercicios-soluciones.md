@@ -14,6 +14,11 @@ keywords:
   - watch listen to read
   - like ing prefer
   - curso A2 Linguafly
+  - ejercicios entretenimiento y medios inglés A2
+  - diferencia watch listen to read en inglés
+  - cómo expresar preferencias con like y prefer
+  - vocabulario películas música libros inglés
+  - práctica entertainment media con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-45-entertainment-media-ejercicios-soluciones'
 image: /blog/curso-a2/unit-45/a2-unit45-entertainment-media.png
 alt: Entertainment & Media — ejercicios A2 Unidad 45

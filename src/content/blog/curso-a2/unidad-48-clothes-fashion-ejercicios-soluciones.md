@@ -14,6 +14,11 @@ keywords:
   - wear put on too enough
   - casual formal outfit
   - curso A2 Linguafly
+  - ejercicios ropa y moda inglés A2
+  - diferencia wear put on take off
+  - cómo usar too y enough con ropa
+  - vocabulario outfit casual formal inglés
+  - práctica clothes fashion con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-48-clothes-fashion-ejercicios-soluciones'
 image: /blog/curso-a2/unit-48/a2-unit48-clothes-fashion.png
 alt: Clothes & Fashion — ejercicios A2 Unidad 48
