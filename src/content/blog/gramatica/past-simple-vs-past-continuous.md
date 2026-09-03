@@ -17,6 +17,11 @@ keywords:
   - cuándo usar past simple o past continuous
   - ejercicios de pasado simple y continuo con soluciones
   - past simple y past continuous para contar historias
+  - past simple y past continuous ejercicios B1
+  - when y while con past simple y past continuous
+  - cómo combinar pasado simple y pasado continuo
+  - diferencias entre past simple y past continuous para hispanohablantes
+  - guía gratis de tiempos pasados en inglés
 excerpt: >-
   El Past Continuous (was/were + -ing) y el Past Simple no son tiempos que compiten: se complementan. El continuous pinta el fondo de una historia; el simple narra los eventos que ocurren sobre ese fondo.
 faqs:

@@ -17,6 +17,11 @@ keywords:
   - present perfect continuous ejercicios gratis
   - cuándo usar have been y has been en inglés
   - present perfect continuous para hispanohablantes
+  - present perfect continuous ejercicios con respuestas
+  - cómo formar have been verbos terminados en ing
+  - present perfect continuous para acciones recientes
+  - present perfect simple o continuous cuándo usar
+  - guía gratuita present perfect continuous B1 B2
 excerpt: >-
   El Present Perfect Continuous (have/has been + -ing) expresa acciones que han estado ocurriendo hasta ahora. La diferencia con el simple no siempre es obvia, pero hay patrones claros que te ayudan a elegir.
 faqs:
