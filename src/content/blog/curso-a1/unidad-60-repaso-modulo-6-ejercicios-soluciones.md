@@ -15,6 +15,11 @@ keywords:
   - some any much many too enough
   - should pay for recipes review
   - curso A1 Linguafly
+  - ejercicios repaso módulo 6 inglés A1
+  - revisión gramática A1 con soluciones
+  - ejercicios some any much many too enough
+  - vocabulario shopping food inglés básico
+  - examen de repaso curso A1 Linguafly
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-60-repaso-modulo-6-ejercicios-soluciones'
 image: /blog/curso-a1/unit-60/a1-unit60-module-map.png
 alt: Mapa repaso Módulo 6 A1 Unidad 60

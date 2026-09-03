@@ -15,6 +15,11 @@ keywords:
   - cash credit card change receipt A1
   - money currency english
   - curso A1 Linguafly
+  - ejercicios pay for y spend on inglés A1
+  - vocabulario dinero y compras en inglés
+  - diferencia entre pay for y spend on
+  - cash credit card receipt vocabulario A1
+  - práctica expresiones de dinero inglés básico
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-59-dinero-pay-for-spend-on-ejercicios-soluciones'
 image: /blog/curso-a1/unit-59/a1-unit59-pay-spend.png
 alt: pay for y spend on para ejercicios A1 Unidad 59
