@@ -21,6 +21,11 @@ keywords:
   - ielts desde b2
   - preparar inglés gratis
   - material de inglés gratis
+  - plan de estudio IELTS desde B2
+  - cómo sacar 7 en IELTS desde B2
+  - preparación IELTS en 12 semanas
+  - recursos gratis para preparar IELTS
+  - estrategias IELTS Academic por partes
 faqs:
   - question: ¿Cuántas veces puedo presentarme al IELTS?
     answer: >-

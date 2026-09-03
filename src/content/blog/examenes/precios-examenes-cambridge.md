@@ -15,6 +15,11 @@ keywords:
   - 'Precios Exámenes Cambridge: FCE, CAE'
   - precios examenes cambridge
   - material de inglés gratis
+  - cuánto cuesta examen Cambridge B2 First
+  - precio C1 Advanced CAE España 2026
+  - tasas examen Cambridge FCE CAE CPE
+  - centros examinadores Cambridge precios
+  - cómo ahorrar en matrícula Cambridge
 canonical: 'https://linguafly.app/blog/examenes/precios-examenes-cambridge'
 related_routes:
   - certificaciones-ingles

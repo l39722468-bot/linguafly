@@ -18,6 +18,11 @@ keywords:
   - mejores certificados de inglés 2026
   - preparar inglés gratis
   - material de inglés gratis
+  - mejor certificado de inglés para trabajar
+  - certificado inglés para estudiar en extranjero
+  - IELTS TOEFL Cambridge cuál elegir
+  - certificados inglés que no caducan
+  - comparativa exámenes inglés 2026
 canonical: 'https://linguafly.app/blog/examenes/mejores-certificados-ingles-2026'
 related_routes:
   - cambridge-c1-advanced-guia

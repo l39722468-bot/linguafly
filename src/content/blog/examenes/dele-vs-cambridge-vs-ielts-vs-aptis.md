@@ -18,6 +18,11 @@ keywords:
   - aptis vs cambridge
   - preparar inglés gratis
   - material de inglés gratis
+  - comparar certificados de inglés en España
+  - Cambridge IELTS Aptis cuál elegir
+  - certificado inglés para oposiciones
+  - precios y validez certificados inglés
+  - mejor examen inglés para trabajar
 alt: 'Diplomas y certificados de inglés comparados sobre una mesa de trabajo'
 canonical: 'https://linguafly.app/blog/examenes/dele-vs-cambridge-vs-ielts-vs-aptis'
 faqs:
