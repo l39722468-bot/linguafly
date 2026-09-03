@@ -13,6 +13,11 @@ keywords:
   - 'TOEFL Writing: Integrated e Independent Explicados'
   - toefl integrated writing
   - material de inglés gratis
+  - TOEFL Writing Integrated y Academic Discussion
+  - cómo escribir TOEFL Writing para 25 sobre 30
+  - plantillas gratis de TOEFL Integrated Writing
+  - ejercicios TOEFL Writing con respuestas
+  - estructura del nuevo TOEFL Writing en 2026
 author: focus-english-team
 date: '2026-04-17'
 updatedDate: '2026-08-31'

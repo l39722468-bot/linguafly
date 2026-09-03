@@ -8,6 +8,11 @@ keywords:
   - como preparar speaking cae
   - preparar inglés gratis
   - material de inglés gratis
+  - cómo preparar el Speaking del Cambridge C1 Advanced
+  - criterios de evaluación Speaking CAE
+  - frases gratis para Speaking C1 con ejemplos
+  - cómo responder cada parte del Speaking CAE
+  - estrategias para mejorar fluidez en el examen C1
 author: focus-english-team
 date: '2026-03-11'
 updatedDate: '2026-08-31'

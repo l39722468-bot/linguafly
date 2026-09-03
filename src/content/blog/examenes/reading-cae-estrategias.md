@@ -7,6 +7,11 @@ keywords:
   - 'Reading CAE: Cómo Abordar Cada Parte'
   - como hacer reading cae
   - material de inglés gratis
+  - estrategias Reading and Use of English CAE
+  - cómo hacer las partes 5 6 7 y 8 del CAE
+  - ejercicios gratis de Reading C1 con soluciones
+  - cómo gestionar el tiempo en Reading CAE
+  - trucos para False Not Given y gapped text CAE
 author: focus-english-team
 date: '2026-03-07'
 updatedDate: '2026-08-31'

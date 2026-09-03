@@ -8,6 +8,11 @@ keywords:
   - listening c1 advanced trucos
   - preparar inglés gratis
   - material de inglés gratis
+  - estrategias Listening Cambridge C1 Advanced
+  - ejercicios gratis de Listening CAE con respuestas
+  - cómo preparar las cuatro partes del Listening C1
+  - acentos del Listening del examen CAE
+  - cómo tomar notas en el Listening Advanced
 author: focus-english-team
 date: '2026-03-09'
 updatedDate: '2026-08-31'
