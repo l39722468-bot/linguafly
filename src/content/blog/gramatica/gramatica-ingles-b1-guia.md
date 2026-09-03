@@ -14,6 +14,11 @@ keywords:
   - clases de gramatica en ingles gratis
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - gramática inglesa B1 con ejercicios y soluciones
+  - temas de gramática B1 para Cambridge e IELTS
+  - guía gratuita de gramática inglesa nivel B1
+  - tiempos verbales y condicionales B1 en inglés
+  - gramática B1 para hispanohablantes paso a paso
 canonical: 'https://linguafly.app/blog/gramatica/gramatica-ingles-b1-guia'
 related_routes:
   - cursos-online-ingles-b1

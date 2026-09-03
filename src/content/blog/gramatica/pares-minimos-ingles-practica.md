@@ -14,6 +14,11 @@ keywords:
   - 'Pares Mínimos en Inglés: La Técnica'
   - pares minimos ingles
   - ejercicios de inglés gratis
+  - técnica de pares mínimos para pronunciación inglesa
+  - ejercicios gratis de discriminación auditiva
+  - pares mínimos ingleses para hispanohablantes
+  - cómo practicar minimal pairs en inglés
+  - pares mínimos de vocales y consonantes inglesas
 faqs:
   - question: ¿Qué son los pares mínimos?
     answer: >-
