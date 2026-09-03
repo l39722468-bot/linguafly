@@ -12,6 +12,11 @@ keywords:
   - 'La “b” muda en inglés: fundamentos'
   - b muda ingles
   - ejercicios de inglés gratis
+  - regla de la b muda en combinaciones mb y bt
+  - palabras inglesas con b muda como climb y thumb
+  - ejercicios gratis de pronunciación de b muda
+  - cómo leer palabras con b silenciosa en inglés
+  - b muda inglesa para hispanohablantes
 alt: Letras de máquina de escribir antigua
 excerpt: >-
   Aprende a leer correctamente palabras como climb, thumb y debt: reglas

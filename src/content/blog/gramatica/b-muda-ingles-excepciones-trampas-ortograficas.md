@@ -12,6 +12,11 @@ keywords:
   - Excepciones y trampas ortográficas
   - ortografía inglés excepciones
   - gramática inglesa gratis
+  - excepciones de la b muda en inglés
+  - errores ortográficos con b silenciosa inglesa
+  - ejercicios gratis de ortografía inglesa
+  - diferencia entre palabras con b muda y b pronunciada
+  - cómo evitar errores de spelling en inglés
 alt: Libro abierto sobre mesa
 excerpt: >-
   Evita trampas comunes: confundir *debit* y *debt*, olvidar la b en *doubt* o

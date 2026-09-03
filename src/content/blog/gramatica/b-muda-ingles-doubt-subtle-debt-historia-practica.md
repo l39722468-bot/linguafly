@@ -12,6 +12,11 @@ keywords:
   - Doubt, debt, subtle y el misterio
   - doubt pronunciación
   - ejercicios de inglés gratis
+  - cómo pronunciar doubt debt y subtle
+  - palabras con b muda en inglés y significado
+  - ejercicios gratis de pronunciación de doubt y debt
+  - diferencia entre debit y debt en inglés
+  - trucos para memorizar palabras con b silenciosa
 alt: Libros apilados en librería
 excerpt: >-
   Guía didáctica sobre palabras con b histórica: trucos de memoria, errores al

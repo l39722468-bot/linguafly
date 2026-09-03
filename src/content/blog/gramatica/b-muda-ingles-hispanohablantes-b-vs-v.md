@@ -12,6 +12,11 @@ keywords:
   - “B” muda en inglés y confusión b/v
   - b muda ingles
   - ejercicios de inglés gratis
+  - diferencia entre b y v en inglés para hispanohablantes
+  - cómo pronunciar b y v inglesas sin confusión
+  - ejercicios gratis de b v y b muda en inglés
+  - palabras con b silenciosa y sonido v en inglés
+  - errores de pronunciación b y v para españoles
 alt: Profesor explicando en pizarra
 excerpt: >-
   Estrategias para separar tres mundos: b/v del español, /b/ y /v/ del inglés,
