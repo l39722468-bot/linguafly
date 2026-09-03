@@ -11,6 +11,11 @@ keywords:
   - Preposiciones de Movimiento en Inglés
   - preposiciones en ingles
   - ejercicios de inglés gratis
+  - preposiciones de movimiento en inglés con ejemplos
+  - ejercicios gratis de to into across y through
+  - diferencia entre in into on y onto en inglés
+  - preposiciones de movimiento para exámenes Cambridge
+  - guía visual de preposiciones inglesas B1 B2
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-08-31'

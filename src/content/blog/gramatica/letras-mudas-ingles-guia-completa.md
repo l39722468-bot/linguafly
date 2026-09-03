@@ -14,6 +14,11 @@ keywords:
   - Letras Mudas en Inglés
   - palabras con letras mudas ingles
   - ejercicios de inglés gratis
+  - lista de letras mudas en inglés con ejemplos
+  - reglas de pronunciación de letras silenciosas
+  - ejercicios gratis de palabras con letras mudas
+  - por qué hay letras que no se pronuncian en inglés
+  - palabras inglesas con k w b y gh mudas
 faqs:
   - question: ¿Por qué el inglés tiene tantas letras mudas?
     answer: >-

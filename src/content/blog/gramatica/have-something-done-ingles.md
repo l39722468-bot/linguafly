@@ -11,6 +11,11 @@ keywords:
   - Have Something Done en Inglés
   - have something done ingles
   - ejercicios de inglés gratis
+  - cómo usar have something done en inglés
+  - diferencia entre have something done y get something done
+  - ejercicios gratis de causativa inglesa
+  - have get something done con ejemplos
+  - estructura causativa para exámenes B2 C1
 author: focus-english-team
 date: '2026-02-14'
 updatedDate: '2026-08-31'

@@ -13,6 +13,11 @@ keywords:
   - b muda ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - ejercicios de b muda en inglés con soluciones
+  - palabras con b muda como doubt subtle y debt
+  - dictado gratis para practicar la b muda inglesa
+  - cómo pronunciar palabras con b silenciosa
+  - lectura en voz alta de palabras con b muda
 alt: Cuaderno y lápiz sobre mesa de estudio
 excerpt: >-
   Rutina de estudio de 30 minutos: lectura en voz alta, dictado guiado y pares

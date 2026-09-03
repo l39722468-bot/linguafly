@@ -14,6 +14,11 @@ keywords:
   - 'Letras Mudas en Inglés: Lista y Reglas'
   - letras mudas ingles
   - ejercicios de inglés gratis
+  - lista completa de letras mudas inglesas
+  - palabras con k w b y gh silenciosas
+  - ejercicios gratis de letras mudas en inglés
+  - reglas para reconocer letras mudas inglesas
+  - pronunciación de knife write thumb y más
 author: focus-english-team
 date: '2026-02-23'
 updatedDate: '2026-08-31'
