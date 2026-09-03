@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios defining relative clauses B1
+  - diferencia who which that en inglés
+  - cómo formar oraciones relativas definidas
+  - vocabulario naturaleza y medio ambiente B1
+  - práctica relative clauses con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-31-defining-relative-nature-ejercicios-soluciones'
 image: /blog/curso-b1/unit-31/defining-relative.png
 alt: Defining Relative & Nature — ejercicios B1 Unidad 31

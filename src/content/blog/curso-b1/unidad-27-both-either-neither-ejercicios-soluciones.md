@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios both either neither inglés B1
+  - cómo usar either or y neither nor
+  - expresiones para elegir entre opciones inglés
+  - vocabulario choices en inglés B1
+  - práctica both either neither con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-27-both-either-neither-ejercicios-soluciones'
 image: /blog/curso-b1/unit-27/both-either-neither.png
 alt: Both, Either, Neither & Choices — ejercicios B1 Unidad 27

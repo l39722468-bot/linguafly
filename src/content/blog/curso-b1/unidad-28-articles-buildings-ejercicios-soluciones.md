@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios artículos a an the inglés B1
+  - cuándo usar zero article en inglés
+  - vocabulario edificios y lugares B1
+  - diferencia the y artículo cero
+  - práctica articles buildings con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-28-articles-buildings-ejercicios-soluciones'
 image: /blog/curso-b1/unit-28/articles.png
 alt: Articles & Buildings — ejercicios B1 Unidad 28

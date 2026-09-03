@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios non-defining relative clauses B1
+  - uso de comas con which en inglés
+  - por qué no se usa that en relativas no definidas
+  - vocabulario medio ambiente inglés B1
+  - práctica non-defining relatives soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-32-nondefining-relative-environment-ejercicios-soluciones'
 image: /blog/curso-b1/unit-32/nondefining-relative.png
 alt: Non-defining Relative & Environment — ejercicios B1 Unidad 32
