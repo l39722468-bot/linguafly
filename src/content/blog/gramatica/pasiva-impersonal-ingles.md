@@ -10,6 +10,11 @@ keywords:
   - 'Pasiva Impersonal en Inglés: It Is Said That'
   - pasiva impersonal ingles
   - ejercicios de inglés gratis
+  - cómo usar it is said that en inglés
+  - pasiva impersonal con reporting verbs
+  - ejercicios gratis de pasiva impersonal
+  - diferencia entre it is said that y he is said to
+  - pasiva inglesa para nivel B2 C1
 author: focus-english-team
 date: '2026-02-11'
 updatedDate: '2026-08-31'

@@ -13,6 +13,11 @@ keywords:
   - Pasiva con Doble Objeto en Inglés
   - pasiva doble objeto ingles
   - gramática inglesa gratis
+  - pasiva con dos objetos en inglés ejemplos
+  - ejercicios gratis de pasiva con doble objeto
+  - pasiva de objeto directo e indirecto
+  - cómo usar give send y show en pasiva
+  - diferencia entre las dos pasivas con give
 author: focus-english-team
 date: '2026-02-26'
 updatedDate: '2026-08-31'

@@ -12,6 +12,11 @@ keywords:
   - Pasiva con Verbos Modales en Inglés
   - pasiva verbos modales ingles
   - ejercicios de inglés gratis
+  - cómo formar la pasiva con verbos modales
+  - must be should be could be en pasiva
+  - ejercicios gratis de pasiva con modales
+  - pasiva modal en inglés con ejemplos
+  - voz pasiva con can must y should B1 B2
 author: focus-english-team
 date: '2026-02-17'
 updatedDate: '2026-08-31'

@@ -13,6 +13,11 @@ keywords:
   - Voz Pasiva en Inglés para Leer
   - voz pasiva ingles periodismo
   - gramática inglesa gratis
+  - cómo reconocer la voz pasiva en noticias inglesas
+  - voz pasiva en titulares de periódicos en inglés
+  - ejercicios gratis de pasiva para comprensión lectora
+  - estructuras pasivas frecuentes en periodismo inglés
+  - leer noticias en inglés con voz pasiva
 author: focus-english-team
 date: '2026-03-07'
 updatedDate: '2026-08-31'
