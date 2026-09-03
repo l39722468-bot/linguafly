@@ -15,6 +15,11 @@ keywords:
   - sunny rainy cloudy cold hot
   - what's the weather like
   - curso A1 Linguafly
+  - ejercicios tiempo atmosférico inglés A1
+  - vocabulario weather sunny rainy cloudy
+  - cómo preguntar qué tiempo hace en inglés
+  - frases sobre el clima inglés básico
+  - práctica It is sunny rainy con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-44-tiempo-atmosferico-ejercicios-soluciones'
 image: /blog/curso-a1/unit-44/a1-unit44-it-is-weather.png
 alt: It is + clima para ejercicios A1 Unidad 44
