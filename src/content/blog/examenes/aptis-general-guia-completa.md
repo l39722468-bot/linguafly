@@ -18,6 +18,11 @@ keywords:
   - aptis general precio 2026
   - preparar inglés gratis
   - material de inglés gratis
+  - Aptis General estructura y partes del examen
+  - cómo preparar Aptis General para B2 o C1
+  - ejercicios gratis de Aptis General
+  - puntuación y niveles del Aptis General 2026
+  - Aptis General British Council guía en español
 alt: 'Estudiante realizando un examen de inglés por ordenador para el Aptis General'
 canonical: 'https://linguafly.app/blog/examenes/aptis-general-guia-completa'
 faqs:

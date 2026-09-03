@@ -14,6 +14,11 @@ keywords:
   - Examen C2 Proficiency (CPE)
   - ingles proficiency
   - material de inglés gratis
+  - cómo preparar el Cambridge C2 Proficiency CPE
+  - estrategias para aprobar el examen C2 de Cambridge
+  - ejercicios gratis de C2 Proficiency con respuestas
+  - vocabulario y gramática para Cambridge CPE
+  - diferencias entre C1 Advanced y C2 Proficiency
 canonical: 'https://linguafly.app/blog/examenes/cambridge-c2-proficiency-guia'
 related_routes:
   - certificaciones-ingles

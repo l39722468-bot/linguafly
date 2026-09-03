@@ -17,6 +17,11 @@ keywords:
   - preparar aptis advanced
   - preparar inglés gratis
   - material de inglés gratis
+  - cómo aprobar Aptis Advanced C1
+  - Aptis Advanced estructura del examen y partes
+  - ejercicios gratis de Aptis Advanced C1
+  - diferencias entre Aptis General y Advanced
+  - plan de preparación Aptis C1 para 2026
 faqs:
   - question: ¿Cuál es la diferencia entre Aptis General y Aptis Advanced?
     answer: >-
