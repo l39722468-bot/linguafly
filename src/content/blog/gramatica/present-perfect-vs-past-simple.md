@@ -14,6 +14,11 @@ keywords:
   - difference between present perfect and past simple
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - diferencia entre present perfect y past simple con ejemplos
+  - present perfect vs past simple ejercicios gratis
+  - cuándo usar present perfect o past simple
+  - marcadores de tiempo present perfect y past simple
+  - guía gratuita present perfect para hispanohablantes
 date: '2026-03-02'
 updatedDate: '2026-08-31'
 category: gramatica
@@ -145,4 +150,3 @@ Si estás siguiendo el curso por unidades, estas guías conectan este tema con l
 - Cambridge Dictionary (Present Perfect vs Past Simple): https://dictionary.cambridge.org/grammar/british-grammar/present-perfect-simple-or-past-simple
 - British Council LearnEnglish (past and present perfect): https://learnenglish.britishcouncil.org/grammar
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages
-

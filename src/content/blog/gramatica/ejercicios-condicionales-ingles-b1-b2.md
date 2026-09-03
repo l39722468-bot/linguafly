@@ -8,6 +8,11 @@ keywords:
   - Ejercicios de Condicionales en Inglés B1-B2
   - condicionales en ingles ejercicios resueltos
   - ejercicios de inglés gratis
+  - ejercicios de condicionales en inglés gratis con soluciones
+  - ejercicios zero first second third conditional B1 B2
+  - práctica de condicionales en inglés para exámenes
+  - PDF gratuito de condicionales en inglés
+  - ejercicios de if clauses con respuestas explicadas
 author: focus-english-team
 description: >-
   Ejercicios de condicionales en inglés B1-B2 con soluciones: practica los cuatro tipos con correcciones detalladas. Perfecto para preparar B2 First, C1 Advanced y exámenes oficiales.

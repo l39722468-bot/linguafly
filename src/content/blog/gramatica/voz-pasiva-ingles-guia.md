@@ -10,6 +10,11 @@ keywords:
   - La Voz Pasiva en Inglés
   - voz pasiva en ingles
   - gramática inglesa gratis
+  - voz pasiva en inglés explicada con ejemplos
+  - cómo pasar de activa a pasiva en inglés
+  - ejercicios gratis de voz pasiva inglesa
+  - voz pasiva en inglés para exámenes B2 C1
+  - guía gratuita de todos los tiempos en pasiva
 date: '2026-03-02'
 updatedDate: '2026-08-31'
 category: gramatica
