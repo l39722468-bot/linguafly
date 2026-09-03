@@ -12,6 +12,11 @@ keywords:
   - Fonética Inglesa Básica
   - fonetica inglesa
   - ejercicios de inglés gratis
+  - fonética inglesa básica para hispanohablantes
+  - los 44 fonemas del inglés explicados
+  - ejercicios gratis de fonética inglesa
+  - cómo leer la transcripción fonética del inglés
+  - símbolos IPA básicos del inglés
 author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-08-31'

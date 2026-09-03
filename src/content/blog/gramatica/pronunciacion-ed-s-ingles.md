@@ -19,6 +19,11 @@ keywords:
   - pronunciación de la s plural en inglés gratis
   - ejercicios de terminaciones ed y s en inglés
   - cómo mejorar la pronunciación del pasado inglés
+  - cómo pronunciar ed en inglés t d o id
+  - ejercicios gratis de pronunciación de ed y s
+  - reglas de la s plural inglesa con ejemplos
+  - terminaciones del pasado inglés para hispanohablantes
+  - pronunciación de verbos regulares en inglés
 faqs:
   - question: ¿Hay que memorizar todas las reglas de la "-ed" y la "-s"?
     answer: >-

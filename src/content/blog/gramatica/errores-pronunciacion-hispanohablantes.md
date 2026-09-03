@@ -15,6 +15,11 @@ keywords:
   - errores pronunciacion ingles hispanohablantes
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - errores de pronunciación inglesa más comunes
+  - ejercicios gratis para corregir el acento español
+  - cómo mejorar la pronunciación inglesa siendo hispanohablante
+  - sonidos ingleses difíciles para españoles
+  - errores de pronunciación en inglés con soluciones
 faqs:
   - question: ¿Cuánto tiempo lleva corregir los errores de pronunciación más comunes?
     answer: >-

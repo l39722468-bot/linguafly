@@ -14,6 +14,11 @@ keywords:
   - Inglés Británico vs Americano
   - como suenan diferente ingles britanico americano
   - ejercicios de inglés gratis
+  - diferencias entre inglés británico y americano
+  - pronunciación británica y americana con ejemplos
+  - ejercicios gratis para distinguir acentos ingleses
+  - qué inglés elegir británico o americano
+  - diferencias de vocabulario y pronunciación UK US
 faqs:
   - question: ¿Qué inglés es más fácil de entender, el británico o el americano?
     answer: >-

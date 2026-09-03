@@ -15,6 +15,11 @@ keywords:
   - como entender acentos ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - cómo entender diferentes acentos del inglés
+  - ejercicios gratis de listening con acentos ingleses
+  - entrenar el oído para inglés australiano y escocés
+  - técnicas para mejorar la comprensión auditiva inglesa
+  - cómo acostumbrarse a los acentos nativos en inglés
 faqs:
   - question: ¿Por qué entiendo bien el inglés americano pero no el australiano o el escocés?
     answer: >-
