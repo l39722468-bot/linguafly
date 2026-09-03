@@ -14,6 +14,11 @@ keywords:
   - how much how many
   - how questions A2
   - curso A2 Linguafly
+  - ejercicios How often How long A2
+  - diferencia How much y How many
+  - preguntas de frecuencia y duración inglés
+  - cómo hacer preguntas con How en A2
+  - práctica How questions con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-19-how-questions-ejercicios-soluciones'
 image: /blog/curso-a2/unit-19/a2-unit19-how-questions.png
 alt: How Questions para ejercicios A2 Unidad 19

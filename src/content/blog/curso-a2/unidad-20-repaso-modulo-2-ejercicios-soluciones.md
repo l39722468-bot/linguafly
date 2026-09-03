@@ -14,6 +14,11 @@ keywords:
   - present perfect past continuous
   - how questions review
   - curso A2 Linguafly
+  - ejercicios repaso módulo 2 inglés A2
+  - revisión Present Perfect y Past Continuous
+  - preguntas How en inglés con ejercicios
+  - repaso tiempos verbales A2 con soluciones
+  - examen de práctica módulo 2 A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-20-repaso-modulo-2-ejercicios-soluciones'
 image: /blog/curso-a2/unit-20/a2-unit20-module2-review.png
 alt: Module 2 Review para ejercicios A2 Unidad 20
