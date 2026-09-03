@@ -19,6 +19,11 @@ keywords:
     inversión emphática en inglés,
     condicionales mixtas C1,
     cláusulas concesivas inglés C1,
+    repaso completo gramática C1 ejercicios,
+    tiempos narrativos y condicionales mixtos,
+    inversión enfática y cláusulas concesivas,
+    subordinación compleja inglés C1,
+    consolidación gramatical nivel avanzado,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-59-consolidacion-gramatical-global'
 image: /blog/curso-c1/unit-59/consolidacion-gramatical-global.png

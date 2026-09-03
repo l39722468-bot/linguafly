@@ -18,6 +18,11 @@ keywords:
     consciencia en inglés C1,
     metáfora conceptual inglés,
     intencionalidad filosófica C1,
+    filosofía de la mente ejercicios C1,
+    mind body problem vocabulario,
+    consciencia e intencionalidad en inglés,
+    metáfora conceptual ejemplos C1,
+    debatir filosofía de la mente inglés,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-56-filosofia-de-la-mente'
 image: /blog/curso-c1/unit-56/filosofia-de-la-mente.png

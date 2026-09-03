@@ -19,6 +19,11 @@ keywords:
     filosofía moral en inglés,
     consecuencialismo utilitarismo C1,
     contraejemplos éticos inglés,
+    ética filosofía moral ejercicios C1,
+    deontología consecuencialismo utilitarismo,
+    cómo debatir dilemas morales inglés,
+    construir contraejemplos éticos,
+    vocabulario ética de virtudes C1,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-57-etica-filosofia-moral'
 image: /blog/curso-c1/unit-57/etica-filosofia-moral.png

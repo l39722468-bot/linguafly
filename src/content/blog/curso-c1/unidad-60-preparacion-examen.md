@@ -19,6 +19,11 @@ keywords:
     preparación TOEFL C1,
     estrategia examen inglés C1,
     gestión del tiempo examen inglés,
+    preparación examen CAE IELTS TOEFL C1,
+    estrategias examen inglés avanzado,
+    gestión tiempo Cambridge IELTS TOEFL,
+    trampas comunes exámenes C1,
+    estructuras y léxico C1 examen,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-60-preparacion-examen'
 image: /blog/curso-c1/unit-60/preparacion-examen.png

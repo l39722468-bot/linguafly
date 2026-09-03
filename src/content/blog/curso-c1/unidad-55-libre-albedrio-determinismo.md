@@ -18,6 +18,11 @@ keywords:
     conectores lógicos C1,
     filosofía de la acción inglés,
     abstracción argumentativa C1,
+    libre albedrío determinismo vocabulario,
+    conectores lógicos para debatir,
+    filosofía de la acción ejercicios,
+    argumentar sobre free will en inglés,
+    lenguaje abstracto nivel C1,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-55-libre-albedrio-determinismo'
 image: /blog/curso-c1/unit-55/libre-albedrio-determinismo.png

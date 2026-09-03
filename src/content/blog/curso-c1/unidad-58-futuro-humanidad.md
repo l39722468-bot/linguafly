@@ -19,6 +19,11 @@ keywords:
     especulación prudente C1,
     largo plazo longtermism inglés,
     futurología en inglés C1,
+    futuro humanidad ejercicios inglés C1,
+    hedging para especular sobre el futuro,
+    modales probabilidad futurología inglés,
+    vocabulario riesgos existenciales C1,
+    hablar de longtermism en inglés,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-58-futuro-humanidad'
 image: /blog/curso-c1/unit-58/futuro-humanidad.png
