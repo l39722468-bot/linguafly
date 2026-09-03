@@ -34,6 +34,13 @@ export interface ArticleSchemaProps {
   };
 }
 
+export interface CourseUnitSchemaProps {
+  name: string;
+  description: string;
+  level: string;
+  url: string;
+}
+
 export interface FAQItem {
   question: string;
   answer: string;
@@ -97,6 +104,38 @@ export function generateCourseSchema(props: CourseSchemaProps) {
       },
       "reviewBody": "Excelente curso. El material es muy completo y las explicaciones son claras. Lo recomiendo 100%."
     }
+  };
+}
+
+/** Generates valid Course data for free course theory and exercise articles. */
+export function generateCourseUnitSchema(props: CourseUnitSchemaProps) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": props.name,
+    "description": props.description,
+    "url": props.url,
+    "provider": {
+      "@type": "Organization",
+      "name": SITE_BRAND_NAME,
+      "sameAs": getSiteUrl(),
+    },
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "EUR",
+      "availability": "https://schema.org/InStock",
+      "url": props.url,
+    },
+    "hasCourseInstance": {
+      "@type": "CourseInstance",
+      "courseMode": "online",
+      "isAccessibleForFree": true,
+      "courseWorkload": "PT40M",
+      "inLanguage": "es-ES",
+    },
+    "educationalLevel": props.level,
+    "inLanguage": "es-ES",
   };
 }
 
