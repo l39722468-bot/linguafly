@@ -10,17 +10,17 @@ description: >-
   hermana de Ben y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 15
+  - ejercicios de inglés A1 unidad 15 con soluciones
   - ejercicios doesn't present simple
-  - does he she ejercicios
-  - yes he does no she doesn't
-  - tercera persona present simple
-  - curso A1 Linguafly
+  - does he she ejercicios con respuestas
+  - yes he does y no she doesn't ejercicios
+  - tercera persona present simple práctica A1
+  - práctica de inglés A1 gratis con soluciones
   - ejercicios tercera persona Present Simple A1
-  - cómo usar doesn’t y Does he
-  - reglas s es ies verbos inglés
-  - preguntas y respuestas does en inglés
-  - práctica Present Simple tercera persona
+  - cómo usar doesn't y Does he ejercicios
+  - reglas s es ies verbos inglés ejercicios
+  - preguntas y respuestas does en inglés práctica
+  - práctica Present Simple tercera persona con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-15-present-simple-doesnt-does-ejercicios-soluciones'
 image: /blog/curso-a1/unit-15/a1-unit15-doesnt.png
 alt: doesn't y Does he/she para ejercicios A1 Unidad 15

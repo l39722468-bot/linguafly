@@ -10,13 +10,15 @@ description: >-
   ejercicios.
 readTime: 15 min
 keywords:
-  - present simple don't
-  - do you like inglés
-  - negativa present simple A1
-  - yes i do no i don't
-  - inglés A1 unidad 14
-  - do the housework
-  - I don't watch TV
+  - present simple don't en inglés A1
+  - cómo preguntar do you like en inglés
+  - negativa del present simple para principiantes
+  - yes I do y no I don't respuestas
+  - inglés A1 unidad 14 present simple
+  - do the housework vocabulario inglés
+  - cómo decir I don't watch TV
+  - preguntas con do en inglés básico
+  - ocio y tareas domésticas en inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-14-present-simple-dont-do-you'
 image: /blog/curso-a1/unit-14/a1-unit14-dont.png
 alt: Esquema de don't en Present Simple inglés nivel A1

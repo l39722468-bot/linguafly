@@ -10,16 +10,16 @@ description: >-
   de Mike y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 14
+  - ejercicios de inglés A1 unidad 14 con soluciones
   - ejercicios don't present simple
-  - do you like ejercicios
-  - yes i do no i don't
-  - do the housework ejercicios
-  - curso A1 Linguafly
-  - ejercicios presente simple don’t inglés A1
-  - cómo formar preguntas Do you
-  - respuestas Yes I do No I don’t
-  - vocabulario ocio y tareas domésticas inglés
+  - do you like ejercicios con respuestas
+  - yes I do y no I don't ejercicios
+  - do the housework ejercicios en inglés
+  - práctica de inglés A1 gratis con soluciones
+  - ejercicios presente simple don't inglés A1
+  - cómo formar preguntas Do you ejercicios
+  - respuestas Yes I do No I don't práctica
+  - vocabulario ocio y tareas domésticas inglés ejercicios
   - práctica Present Simple con soluciones A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-14-present-simple-dont-do-you-ejercicios-soluciones'
 image: /blog/curso-a1/unit-14/a1-unit14-dont.png

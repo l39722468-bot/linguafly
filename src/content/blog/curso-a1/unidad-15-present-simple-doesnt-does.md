@@ -10,13 +10,15 @@ description: >-
   ejercicios.
 readTime: 15 min
 keywords:
-  - present simple doesn't
-  - does he she it
-  - tercera persona present simple A1
-  - yes he does no she doesn't
-  - inglés A1 unidad 15
-  - he goes she watches
-  - does the cat like
+  - present simple doesn't en inglés A1
+  - does he she it preguntas en inglés
+  - tercera persona present simple para principiantes
+  - yes he does y no she doesn't
+  - inglés A1 unidad 15 present simple
+  - he goes y she watches ejemplos
+  - cómo preguntar does the cat like
+  - diferencia entre don't y doesn't A1
+  - reglas s es ies en tercera persona
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-15-present-simple-doesnt-does'
 image: /blog/curso-a1/unit-15/a1-unit15-doesnt.png
 alt: Esquema de doesn't en Present Simple inglés nivel A1
