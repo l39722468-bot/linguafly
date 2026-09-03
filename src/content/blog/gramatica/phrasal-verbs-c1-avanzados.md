@@ -13,6 +13,11 @@ keywords:
   - phrasal verbs avanzados
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - phrasal verbs C1 para CAE con ejemplos
+  - ejercicios gratis de phrasal verbs avanzados
+  - phrasal verbs formales para inglés académico
+  - phrasal verbs profesionales en inglés de negocios
+  - lista de phrasal verbs C1 más frecuentes
 excerpt: >-
   A partir de C1, los phrasal verbs que importan son los que aparecen en contextos formales, académicos y profesionales. No son los más comunes, pero marcan la diferencia entre un inglés competente y uno realmente sofisticado.
 faqs:

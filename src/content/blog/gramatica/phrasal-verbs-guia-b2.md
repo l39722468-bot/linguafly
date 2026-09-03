@@ -12,6 +12,11 @@ keywords:
   - 'Phrasal Verbs B2: Lista Definitiva'
   - lista phrasal verbs
   - ejercicios de inglés gratis
+  - lista de phrasal verbs B2 para First Certificate
+  - phrasal verbs B2 ejercicios gratis con soluciones
+  - phrasal verbs más importantes del FCE
+  - cómo memorizar phrasal verbs de nivel B2
+  - phrasal verbs B2 con ejemplos en contexto
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-08-31'

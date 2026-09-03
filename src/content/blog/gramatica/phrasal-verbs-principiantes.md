@@ -17,6 +17,11 @@ keywords:
   - ejercicios de phrasal verbs gratis con soluciones
   - cómo aprender phrasal verbs en inglés desde cero
   - phrasal verbs más usados en inglés para principiantes
+  - phrasal verbs A1 A2 fáciles para empezar
+  - lista gratuita de phrasal verbs básicos ingleses
+  - ejercicios de phrasal verbs para principiantes con respuestas
+  - phrasal verbs cotidianos explicados en español
+  - cómo aprender phrasal verbs desde cero paso a paso
 author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-08-31'

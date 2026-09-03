@@ -12,6 +12,11 @@ keywords:
   - Phrasal Verbs en Conversación
   - phrasal verbs conversacion
   - gramática inglesa gratis
+  - phrasal verbs más usados en conversación inglesa
+  - lista gratis de phrasal verbs cotidianos con ejemplos
+  - phrasal verbs de series y conversaciones reales
+  - ejercicios gratis de phrasal verbs conversacionales
+  - cómo usar phrasal verbs al hablar inglés
 excerpt: >-
   Si escuchas inglés nativo —series, podcasts, conversaciones reales— verás que ciertos phrasal verbs aparecen constantemente. Esta es la lista de los que más suenan, con ejemplos tal como se usan de verdad.
 faqs:
