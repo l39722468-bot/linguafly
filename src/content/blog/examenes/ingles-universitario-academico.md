@@ -15,6 +15,11 @@ keywords:
   - ingles universitario academico
   - preparar inglés gratis
   - material de inglés gratis
+  - inglés académico para estudiantes universitarios
+  - cómo escribir ensayos universitarios en inglés
+  - vocabulario inglés para textos académicos
+  - expresiones para participar en seminarios en inglés
+  - recursos de inglés académico para hispanohablantes
 faqs:
   - question: ¿Qué nivel de inglés se necesita para estudiar en una universidad anglofona?
     answer: >-
