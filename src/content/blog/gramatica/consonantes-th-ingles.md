@@ -12,6 +12,11 @@ keywords:
   - Cómo Pronunciar la TH en Inglés
   - pronunciar th ingles
   - ejercicios de inglés gratis
+  - cómo pronunciar la th sorda y sonora en inglés
+  - ejercicios gratis para practicar el sonido th
+  - diferencia entre th y d en inglés
+  - palabras con th y transcripción fonética
+  - pronunciación de th inglesa para hispanohablantes
 author: focus-english-team
 date: '2026-02-11'
 updatedDate: '2026-08-31'

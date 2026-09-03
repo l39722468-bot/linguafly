@@ -14,6 +14,11 @@ keywords:
   - Consonantes Difíciles del Inglés
   - consonantes dificiles ingles
   - gramática inglesa gratis
+  - consonantes inglesas difíciles para hispanohablantes
+  - cómo pronunciar la v y la w en inglés
+  - ejercicios gratis de consonantes inglesas
+  - diferencias entre consonantes españolas e inglesas
+  - sonidos consonánticos del inglés con ejemplos
 faqs:
   - question: ¿Cuáles son las consonantes más difíciles del inglés para hispanohablantes?
     answer: >-

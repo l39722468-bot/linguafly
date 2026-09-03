@@ -13,6 +13,11 @@ keywords:
   - 'Entonación en Inglés: Cómo'
   - entonación inglés
   - ejercicios de inglés gratis
+  - patrones de entonación inglesa con ejemplos
+  - ejercicios gratis de entonación en inglés
+  - entonación ascendente y descendente en inglés
+  - cómo sonar menos monótono al hablar inglés
+  - entonación inglesa para conversaciones y preguntas
 author: focus-english-team
 date: '2026-02-07'
 updatedDate: '2026-08-31'

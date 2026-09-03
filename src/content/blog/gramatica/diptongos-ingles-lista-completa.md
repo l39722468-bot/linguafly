@@ -13,6 +13,11 @@ keywords:
   - Diptongos en Inglés
   - diptongos español inglés diferencias
   - ejercicios de inglés gratis
+  - lista completa de diptongos en inglés con ejemplos
+  - diptongos ingleses ejercicios gratis de pronunciación
+  - símbolos IPA de los diptongos ingleses
+  - diferencia entre diptongos del inglés y español
+  - cómo pronunciar los ocho diptongos del inglés
 author: focus-english-team
 date: '2026-02-14'
 updatedDate: '2026-08-31'
