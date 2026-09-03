@@ -14,6 +14,11 @@ keywords:
   - check in check out
   - book a room hotel
   - curso A2 Linguafly
+  - ejercicios hotel y alojamiento inglés A2
+  - vocabulario check in check out
+  - cómo reservar una habitación en inglés
+  - frases single double room hotel
+  - práctica accommodation con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-42-accommodation-ejercicios-soluciones'
 image: /blog/curso-a2/unit-42/a2-unit42-accommodation.png
 alt: Accommodation — ejercicios A2 Unidad 42

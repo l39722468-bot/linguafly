@@ -14,6 +14,11 @@ keywords:
   - repaso módulo 4 A2
   - phrasal verbs should would like
   - curso A2 Linguafly
+  - ejercicios repaso módulo 4 inglés A2
+  - revisión phrasal verbs y gerundios A2
+  - artículos would like should ejercicios
+  - repaso gramática A2 con soluciones
+  - examen práctico Module 4 Review
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-40-module-4-review-ejercicios-soluciones'
 image: /blog/curso-a2/unit-40/a2-unit40-module-4-review.png
 alt: Module 4 Review — ejercicios A2 Unidad 40
