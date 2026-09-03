@@ -12,6 +12,11 @@ keywords:
   - 'Phrasal Verbs con GET: Lista Completa'
   - get phrasal verbs lista completa
   - gramática inglesa gratis
+  - phrasal verbs con get más usados en inglés
+  - lista gratis de phrasal verbs con get y ejemplos
+  - get up get on get out get over significado
+  - ejercicios de phrasal verbs con get para practicar
+  - cómo aprender phrasal verbs con get fácilmente
 excerpt: >-
   GET es probablemente el verbo más productivo del inglés cuando se combina con partículas. Sus combinaciones cubren desde levantarse por la mañana hasta superar una ruptura. Si dominas los phrasal verbs con GET, tienes una buena parte del inglés cotidiano cubierta.
 faqs:
