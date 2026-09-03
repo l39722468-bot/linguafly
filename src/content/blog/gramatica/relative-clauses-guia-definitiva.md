@@ -11,6 +11,11 @@ keywords:
   - Relative Clauses en Inglés
   - defining and non defining relative clauses
   - ejercicios de inglés gratis
+  - relative clauses en inglés con ejemplos
+  - defining y non defining relative clauses ejercicios
+  - cuándo usar who which that y whose en inglés
+  - ejercicios gratis de oraciones de relativo
+  - relative clauses para exámenes B2 C1
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-08-31'

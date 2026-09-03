@@ -13,6 +13,11 @@ keywords:
   - past simple ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - past simple en inglés reglas y ejemplos
+  - cómo formar el past simple con verbos irregulares
+  - ejercicios de past simple gratis con respuestas
+  - marcadores de tiempo del past simple en inglés
+  - past simple para hispanohablantes desde cero
 excerpt: >-
   El Past Simple es el tiempo de pasado más usado en inglés para contar lo que pasó. Sus reglas son claras, aunque los verbos irregulares requieren memorización. Aquí tienes todo lo que necesitas para usarlo sin dudar.
 faqs:

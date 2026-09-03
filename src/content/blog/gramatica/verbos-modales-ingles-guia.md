@@ -11,6 +11,11 @@ keywords:
   - Verbos Modales en Inglés
   - verbos modales ingles pdf
   - ejercicios de inglés gratis
+  - verbos modales en inglés explicados con ejemplos
+  - can could must should may ejercicios gratis
+  - tabla de verbos modales en inglés para imprimir
+  - cómo usar los verbos modales en inglés A1 C1
+  - modales perfectos en inglés con ejercicios
 author: focus-english-team
 date: '2026-03-02'
 updatedDate: '2026-08-31'

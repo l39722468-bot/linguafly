@@ -12,6 +12,11 @@ keywords:
   - Will vs Going To en Inglés
   - will going to diferencia ingles
   - gramática inglesa gratis
+  - diferencia entre will y going to con ejemplos
+  - ejercicios will vs going to gratis
+  - cuándo usar will o going to en inglés
+  - futuro en inglés para planes y predicciones
+  - will y going to para estudiantes B1 B2
 excerpt: >-
   Will y going to expresan el futuro, pero de forma diferente. La distinción no es arbitraria: will es para decisiones espontáneas y predicciones sin evidencia; going to es para planes previos y predicciones con evidencia visible.
 faqs:
