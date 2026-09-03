@@ -14,6 +14,11 @@ keywords:
   - 'El Schwa en Inglés: Por Qué /ə/ es'
   - schwa ingles
   - ejercicios de inglés gratis
+  - qué es el schwa en inglés y cómo pronunciarlo
+  - ejercicios gratis para practicar el sonido schwa
+  - schwa inglés para hispanohablantes con ejemplos
+  - cómo mejorar la pronunciación con el sonido neutro
+  - palabras en inglés con schwa y transcripción fonética
 faqs:
   - question: ¿Qué es exactamente el schwa?
     answer: >-
