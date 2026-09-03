@@ -13,6 +13,11 @@ keywords:
   - Vocabulario Inglés para Redes
   - vocabulario ingles redes sociales
   - curso inglés gratis online
+  - vocabulario de redes sociales en inglés gratis
+  - palabras de Instagram TikTok y YouTube en inglés
+  - expresiones de redes sociales en inglés con ejemplos
+  - vocabulario inglés para creadores de contenido
+  - términos de marketing digital en inglés gratis
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-08-31'

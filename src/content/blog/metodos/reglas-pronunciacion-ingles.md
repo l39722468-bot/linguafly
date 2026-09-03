@@ -1,4 +1,5 @@
 ---
+
 title: 'Reglas de Pronunciación en Inglés'
 description: >-
   Domina la fonética inglesa con nuestras reglas de pronunciación en inglés.
@@ -11,6 +12,11 @@ keywords:
   - Reglas de Pronunciación en Inglés
   - reglas pronunciacion ingles
   - curso inglés gratis online
+  - reglas de pronunciación inglesa explicadas gratis
+  - cómo pronunciar vocales y consonantes en inglés
+  - reglas Magic E y letras mudas en inglés
+  - pronunciación de terminaciones ED en inglés
+  - ejercicios gratis de pronunciación inglesa
 author: focus-english-team
 date: '2026-02-06'
 updatedDate: '2026-08-31'
@@ -133,4 +139,3 @@ Añadir una "e" antes de palabras que empiezan por "s" líquida. No digas *E-sch
 En inglés, el acento es impredecible, pero hay una regla general: en nombres y adjetivos de dos sílabas, el acento suele ir en la **primera** (*PREsent*). En verbos de dos sílabas, suele ir en la **segunda** (*preSENT*).
 
 ---
-
