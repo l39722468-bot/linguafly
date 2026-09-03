@@ -13,6 +13,11 @@ keywords:
   - Third Conditional en Inglés
   - third conditional ingles
   - ejercicios de inglés gratis
+  - third conditional en inglés con ejemplos
+  - cómo usar el tercer condicional para arrepentimientos
+  - ejercicios gratis de third conditional con soluciones
+  - diferencia entre second y third conditional
+  - tercer condicional inglés para niveles B2 C1
 author: focus-english-team
 date: '2026-02-13'
 updatedDate: '2026-08-31'

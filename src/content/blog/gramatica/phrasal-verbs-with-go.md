@@ -12,6 +12,11 @@ keywords:
   - 'Phrasal Verbs con GO: Lista Completa'
   - go phrasal verbs lista completa
   - ejercicios de inglés gratis
+  - phrasal verbs con go más usados en inglés
+  - go on go off go through significado y ejemplos
+  - ejercicios gratis de phrasal verbs con go
+  - lista de phrasal verbs con go para principiantes
+  - cómo aprender phrasal verbs con go en inglés
 excerpt: >-
   GO parece simple, pero sus combinaciones con partículas cubren situaciones muy distintas: desde go off (explotar o sonar una alarma) hasta go through (pasar por algo difícil). Aquí tienes las más importantes con ejemplos reales.
 faqs:
