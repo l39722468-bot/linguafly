@@ -10,13 +10,15 @@ description: >-
   Unidad 5 con ejemplos, audios y ejercicios prácticos.
 readTime: 15 min
 keywords:
-  - present simple inglés
-  - presente simple inglés A1
-  - rutina diaria en inglés
-  - tercera persona inglés -s
-  - inglés A1 unidad 5
-  - verbos de rutina inglés
-  - he works she studies
+  - present simple en inglés A1 explicado
+  - presente simple inglés para principiantes
+  - cómo describir la rutina diaria en inglés
+  - tercera persona en inglés terminación s
+  - inglés A1 unidad 5 present simple
+  - verbos de rutina diaria en inglés
+  - he works y she studies ejemplos
+  - afirmativa del present simple en inglés
+  - adverbios de frecuencia rutina A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-5-present-simple-rutinas'
 image: /blog/curso-a1/unit-5/a1-unit5-daily-routine.png
 alt: Línea de tiempo de rutina diaria en inglés nivel A1

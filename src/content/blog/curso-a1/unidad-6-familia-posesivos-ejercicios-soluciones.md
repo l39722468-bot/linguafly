@@ -10,17 +10,17 @@ description: >-
   Ana y Pedro, y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 6
-  - ejercicios familia inglés
-  - adjetivos posesivos ejercicios
-  - genitivo sajón ejercicios
-  - his her our their
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 6 con soluciones
+  - ejercicios familia en inglés para principiantes
+  - adjetivos posesivos ejercicios con respuestas
+  - genitivo sajón ejercicios inglés A1
+  - his her our their ejercicios
+  - práctica de inglés A1 gratis con soluciones
   - ejercicios familia inglés A1 con respuestas
-  - adjetivos posesivos his her our their
-  - cómo usar el genitivo sajón en inglés
-  - vocabulario miembros de la familia inglés
-  - práctica posesivos inglés básico
+  - adjetivos posesivos his her our their práctica
+  - cómo usar el genitivo sajón ejercicios
+  - vocabulario miembros de la familia inglés ejercicios
+  - práctica posesivos inglés básico con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-6-familia-posesivos-ejercicios-soluciones'
 image: /blog/curso-a1/unit-6/a1-unit6-family-tree.png
 alt: Árbol genealógico para ejercicios A1 Unidad 6

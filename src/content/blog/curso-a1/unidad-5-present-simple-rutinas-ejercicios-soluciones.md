@@ -10,15 +10,15 @@ description: >-
   de David y Sara, y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 5
-  - ejercicios present simple
-  - rutinas diarias ejercicios
-  - tercera persona -s ejercicios
-  - wake up get up ejercicios
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 5 con soluciones
+  - ejercicios present simple afirmativo
+  - ejercicios de rutinas diarias en inglés
+  - tercera persona s ejercicios inglés
+  - wake up y get up ejercicios
+  - práctica de inglés A1 gratis con respuestas
   - ejercicios Present Simple afirmativo A1
-  - cómo usar la tercera persona en inglés
-  - vocabulario rutinas diarias para principiantes
+  - cómo usar la tercera persona en inglés ejercicios
+  - vocabulario rutinas diarias principiantes práctica
   - reglas de la s en verbos inglés básico
   - práctica wake up get up con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-5-present-simple-rutinas-ejercicios-soluciones'

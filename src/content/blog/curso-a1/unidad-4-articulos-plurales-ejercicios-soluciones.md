@@ -10,16 +10,16 @@ description: >-
   y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 4
-  - ejercicios a an plurales
-  - this that these those ejercicios
-  - objetos del aula inglés
-  - números 1 al 10 ejercicios
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 4 con soluciones
+  - ejercicios a an y plurales en inglés
+  - ejercicios this that these those
+  - objetos del aula inglés ejercicios
+  - números del uno al diez ejercicios en inglés
+  - workbook inglés A1 con respuestas
   - ejercicios artículos y plurales inglés A1
-  - diferencia a an this that these those
-  - vocabulario objetos del aula en inglés
-  - números del 1 al 10 en inglés ejercicios
+  - diferencia a an this that these those ejercicios
+  - vocabulario objetos del aula en inglés práctica
+  - números del 1 al 10 en inglés con soluciones
   - práctica plurales inglés básico con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-4-articulos-plurales-ejercicios-soluciones'
 image: /blog/curso-a1/unit-4/a1-unit4-this-that-these-those.png

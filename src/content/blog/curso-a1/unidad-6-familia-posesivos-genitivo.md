@@ -10,13 +10,15 @@ description: >-
   audios y ejercicios prácticos.
 readTime: 15 min
 keywords:
-  - familia en inglés
-  - adjetivos posesivos inglés
-  - genitivo sajón inglés
-  - his her our their inglés
-  - inglés A1 unidad 6
-  - family members english
-  - my mother his father
+  - miembros de la familia en inglés A1
+  - adjetivos posesivos en inglés para principiantes
+  - genitivo sajón en inglés explicado
+  - his her our their ejemplos inglés
+  - inglés A1 unidad 6 familia
+  - family members vocabulary English A1
+  - my mother y his father en inglés
+  - árbol genealógico en inglés vocabulario
+  - diferencia my y mine para principiantes
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-6-familia-posesivos-genitivo'
 image: /blog/curso-a1/unit-6/a1-unit6-family-tree.png
 alt: Árbol genealógico básico en inglés nivel A1 con miembros de la familia

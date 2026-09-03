@@ -10,13 +10,15 @@ description: >-
   ejemplos, audios y ejercicios prácticos.
 readTime: 15 min
 keywords:
-  - artículos a y an inglés
-  - this that these those inglés
-  - plurales en inglés A1
-  - objetos del aula en inglés
-  - números en inglés 1 al 10
-  - inglés A1 unidad 4
-  - colores en inglés básicos
+  - cuándo usar a y an en inglés A1
+  - this that these those explicado
+  - plurales en inglés para principiantes A1
+  - vocabulario objetos del aula en inglés
+  - números del uno al diez en inglés A1
+  - inglés A1 unidad 4 artículos
+  - colores básicos en inglés vocabulario
+  - diferencia entre this y these en inglés
+  - artículos indefinidos y demostrativos inglés
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-4-articulos-plurales-demostrativos'
 image: /blog/curso-a1/unit-4/a1-unit4-this-that-these-those.png
 alt: Esquema de demostrativos this that these those en inglés nivel A1
