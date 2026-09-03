@@ -16,6 +16,11 @@ keywords:
   - can you swim
   - I can speak English
   - curso A1 Linguafly
+  - ejercicios can y can’t inglés A1
+  - cómo hablar de habilidades en inglés
+  - preguntas Can you swim ejercicios
+  - verbos de habilidad inglés para principiantes
+  - práctica can for ability con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-31-can-habilidad-ejercicios-soluciones'
 image: /blog/curso-a1/unit-31/a1-unit31-can-cant.png
 alt: Can for Ability para ejercicios A1 Unidad 31

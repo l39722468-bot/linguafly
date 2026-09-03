@@ -16,6 +16,11 @@ keywords:
   - play football go swimming
   - do yoga inglés
   - curso A1 Linguafly
+  - ejercicios deportes y hobbies inglés A1
+  - diferencia play go do actividades
+  - vocabulario deportes en inglés básico
+  - frases sobre aficiones en inglés
+  - práctica play football go swimming do yoga
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-32-deportes-hobbies-play-go-do-ejercicios-soluciones'
 image: /blog/curso-a1/unit-32/a1-unit32-play-go-do.png
 alt: Sports & Hobbies para ejercicios A1 Unidad 32
