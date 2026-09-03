@@ -15,6 +15,11 @@ keywords:
   - inglés B2 unidad 19
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - comparativos avanzados ejercicios B2
+  - the more the more explicación
+  - superlativos con by far en inglés
+  - advanced comparatives con ejemplos
+  - vocabulario literatura libros inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-19-advanced-comparatives-literature'
 image: /blog/curso-b2/unit-19/advanced-comparatives.png
 alt: "Advanced comparatives literature B2"

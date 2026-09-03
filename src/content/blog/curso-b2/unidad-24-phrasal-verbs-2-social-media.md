@@ -15,6 +15,11 @@ keywords:
   - inglés B2 unidad 24
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - phrasal verbs CALL CARRY COME ejercicios
+  - call off carry on come across
+  - come up with significado ejemplos
+  - phrasal verbs redes sociales B2
+  - ejercicios phrasal verbs inglés resueltos
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-24-phrasal-verbs-2-social-media'
 image: /blog/curso-b2/unit-24/phrasal-call-carry-come.png
 alt: "Phrasal verbs CALL CARRY COME social media B2"

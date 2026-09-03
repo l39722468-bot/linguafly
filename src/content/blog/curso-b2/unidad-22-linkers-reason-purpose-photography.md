@@ -15,6 +15,11 @@ keywords:
   - inglés B2 unidad 22
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - linkers razón propósito ejercicios B2
+  - because of due to in order to
+  - so that as a result ejemplos
+  - conectores causa finalidad inglés B2
+  - vocabulario fotografía medios inglés
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-22-linkers-reason-purpose-photography'
 image: /blog/curso-b2/unit-22/linkers-reason-purpose.png
 alt: "Linkers reason purpose photography B2"

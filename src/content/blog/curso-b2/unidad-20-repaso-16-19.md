@@ -14,6 +14,11 @@ keywords:
   - inglés B2 unidad 20
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - repaso passive modals comparatives B2
+  - ejercicios so such too enough
+  - have something done y voz pasiva
+  - gramática módulo 2 B2 repaso
+  - repaso unidades 16 a 19 inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-20-repaso-16-19'
 image: /blog/curso-b2/unit-20/review-map.png
 alt: "Repaso B2 unidades 16 a 19"

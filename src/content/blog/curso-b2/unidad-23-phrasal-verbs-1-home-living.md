@@ -15,6 +15,11 @@ keywords:
   - phrasal verbs casa inglés
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - phrasal verbs BE BREAK BRING ejercicios
+  - break down bring up ejemplos
+  - be about to significado y uso
+  - phrasal verbs casa y hogar B2
+  - ejercicios phrasal verbs con soluciones
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living'
 image: /blog/curso-b2/unit-23/phrasal-be-break-bring.png
 alt: "Phrasal verbs BE BREAK BRING home living B2"

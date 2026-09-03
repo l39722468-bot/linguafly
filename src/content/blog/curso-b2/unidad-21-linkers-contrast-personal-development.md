@@ -15,6 +15,11 @@ keywords:
   - inglés B2 unidad 21
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - linkers contraste ejercicios B2
+  - diferencia although despite in spite of
+  - whereas however ejemplos inglés
+  - conectores de contraste inglés avanzado
+  - vocabulario desarrollo personal B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-21-linkers-contrast-personal-development'
 image: /blog/curso-b2/unit-21/linkers-contrast.png
 alt: "Linkers of contrast personal development B2"
