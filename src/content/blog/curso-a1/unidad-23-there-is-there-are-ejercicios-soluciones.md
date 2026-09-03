@@ -16,6 +16,11 @@ keywords:
   - in on under behind
   - there isn't there aren't
   - curso A1 Linguafly
+  - ejercicios there is there are A1 con respuestas
+  - cómo usar is there y are there
+  - preposiciones in on under behind inglés
+  - describir habitaciones en inglés básico
+  - práctica there is there are negativas
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-23-there-is-there-are-ejercicios-soluciones'
 image: /blog/curso-a1/unit-23/a1-unit23-there-is-are.png
 alt: There is There are para ejercicios A1 Unidad 23

@@ -16,6 +16,11 @@ keywords:
   - the kitchen is bright
   - we have three bedrooms
   - curso A1 Linguafly
+  - ejercicios habitaciones de la casa inglés A1
+  - vocabulario rooms in a house para principiantes
+  - cómo describir una casa en inglés básico
+  - muebles y habitaciones inglés con ejercicios
+  - práctica have y has casa A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-21-habitaciones-casa-ejercicios-soluciones'
 image: /blog/curso-a1/unit-21/a1-unit21-rooms.png
 alt: Habitaciones de la casa para ejercicios A1 Unidad 21

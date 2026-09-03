@@ -16,6 +16,11 @@ keywords:
   - describir el barrio inglés
   - there are some shops
   - curso A1 Linguafly
+  - ejercicios artículos the a an inglés A1
+  - diferencia some y any en inglés básico
+  - vocabulario barrio y tiendas en inglés
+  - cómo describir mi barrio en inglés
+  - práctica there are some shops con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-25-barrio-the-a-an-some-any-ejercicios-soluciones'
 image: /blog/curso-a1/unit-25/a1-unit25-neighborhood.png
 alt: My Neighborhood para ejercicios A1 Unidad 25

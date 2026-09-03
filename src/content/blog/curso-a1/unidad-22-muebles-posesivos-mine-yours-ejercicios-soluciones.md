@@ -16,6 +16,11 @@ keywords:
   - whose is this
   - this sofa is mine
   - curso A1 Linguafly
+  - ejercicios pronombres posesivos inglés A1
+  - vocabulario muebles de la casa en inglés
+  - diferencia mine yours his hers ejercicios
+  - cómo preguntar Whose is this en inglés
+  - práctica posesivos inglés básico con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-22-muebles-posesivos-mine-yours-ejercicios-soluciones'
 image: /blog/curso-a1/unit-22/a1-unit22-furniture.png
 alt: Muebles y posesivos para ejercicios A1 Unidad 22
