@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: category.description,
     keywords: category.keywords,
     alternates: {
-      canonical: `https://www.focus-on-english.com/frases-en-ingles/${slug}`,
+      canonical: `https://linguafly.app/frases-en-ingles/${slug}`,
     },
   };
 }
@@ -208,19 +208,19 @@ export default async function PhraseCategoryPage({ params }: Props) {
                   "@type": "ListItem",
                   "position": 1,
                   "name": "Inicio",
-                  "item": "https://www.focus-on-english.com/"
+                  "item": "https://linguafly.app/"
                 },
                 {
                   "@type": "ListItem",
                   "position": 2,
                   "name": "Frases en Inglés",
-                  "item": "https://www.focus-on-english.com/frases-en-ingles"
+                  "item": "https://linguafly.app/frases-en-ingles"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": category.title,
-                  "item": `https://www.focus-on-english.com/frases-en-ingles/${slug}`
+                  "item": `https://linguafly.app/frases-en-ingles/${slug}`
                 }
               ]
             },

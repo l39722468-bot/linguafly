@@ -4,13 +4,21 @@ import Link from "next/link";
 import { ChevronRight, Home, BookMarked } from "lucide-react";
 import type { Metadata } from "next";
 import { VOCAB_SECTORS } from "@/lib/vocabulario/sectors";
+import { SITE_BRAND_NAME } from "@/lib/site-brand";
 
 export const metadata: Metadata = {
-  title: "Vocabulario en Inglés: Megaglosario por Temas | Focus English",
+  title: `Vocabulario en inglés: megaglosario por temas | ${SITE_BRAND_NAME}`,
   description:
     "Más de 10.000 palabras en inglés con traducción al español, transcripción fonética (IPA) y audio. Organizado en 50 sectores temáticos.",
+  keywords: [
+    "vocabulario en inglés",
+    "vocabulario inglés por temas",
+    "palabras en inglés con traducción",
+    "vocabulario inglés con audio",
+    "megaglosario inglés español",
+  ],
   alternates: {
-    canonical: "https://www.focus-on-english.com/vocabulario",
+    canonical: "https://linguafly.app/vocabulario",
   },
 };
 

@@ -6,8 +6,9 @@ import { ChevronRight, Home, Plane, BookOpen, MessageCircle, Map, Sparkles, Grad
 import type { Metadata } from "next";
 import { getArticlesByCategory } from "@/lib/blog";
 import { VOCAB_SECTORS } from "@/lib/vocabulario/sectors";
+import { SITE_BRAND_NAME } from "@/lib/site-brand";
 
-const baseUrl = "https://www.focus-on-english.com";
+const baseUrl = "https://linguafly.app";
 
 /** Sectores del megaglosario más alineados con viajeros (enlaces rápidos). */
 const TRAVEL_VOCAB_SLUGS = new Set([
@@ -22,7 +23,7 @@ const TRAVEL_VOCAB_SLUGS = new Set([
 ]);
 
 export const metadata: Metadata = {
-  title: "Inglés para viajar: guías, frases y vocabulario | Focus English",
+  title: `Inglés para viajar: guías, frases y vocabulario | ${SITE_BRAND_NAME}`,
   description:
     "Hub para viajeros que quieren aprender inglés práctico: aeropuerto, hotel, emergencias, frases útiles, artículos del blog y listas de vocabulario con audio.",
   alternates: {

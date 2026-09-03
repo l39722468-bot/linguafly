@@ -7,6 +7,7 @@ import type { Metadata } from "next";
 import { VOCAB_SECTORS, getSectorMeta } from "@/lib/vocabulario/sectors";
 import { loadSectorWords } from "@/lib/vocabulario/load-words";
 import { VocabAudioButton } from "@/components/vocabulario/VocabAudioButton";
+import { SITE_BRAND_NAME } from "@/lib/site-brand";
 
 type Props = { params: Promise<{ slug: string }> };
 
@@ -18,12 +19,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const meta = getSectorMeta(slug);
   if (!meta) return {};
-  const title = `${meta.title}: 200 palabras en inglés | Focus English`;
+  const title = `${meta.title}: 200 palabras en inglés | ${SITE_BRAND_NAME}`;
   return {
     title,
     description: `${meta.description} Lista con traducción al español, IPA y audio.`,
     alternates: {
-      canonical: `https://www.focus-on-english.com/vocabulario/${slug}`,
+      canonical: `https://linguafly.app/vocabulario/${slug}`,
     },
   };
 }

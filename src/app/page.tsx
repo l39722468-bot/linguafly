@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     "frases en inglés"
   ],
   alternates: {
-    canonical: 'https://www.focus-on-english.com',
+    canonical: 'https://linguafly.app',
     languages: {
       es: '/',
       en: '/en',

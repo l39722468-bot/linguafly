@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description: "¿Qué examen de inglés es mejor para ti? Comparamos B2 First, IELTS y TOEFL. Descubre cuál necesitas para trabajar o estudiar en el extranjero.",
   keywords: ["certificaciones ingles oficiales", "b2 first vs ielts", "toefl vs ielts", "examenes ingles oficiales"],
   alternates: {
-    canonical: 'https://www.focus-on-english.com/certificaciones-ingles-oficiales',
+    canonical: 'https://linguafly.app/certificaciones-ingles-oficiales',
   },
 };
 
@@ -211,19 +211,19 @@ export default function SEOCertificationsPage() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Inicio",
-                "item": "https://www.focus-on-english.com"
+                "item": "https://linguafly.app"
               },
               {
                 "@type": "ListItem",
                 "position": 2,
                 "name": "Aprender Inglés",
-                "item": "https://www.focus-on-english.com/aprender-ingles"
+                "item": "https://linguafly.app/aprender-ingles"
               },
               {
                 "@type": "ListItem",
                 "position": 3,
                 "name": "Certificaciones Oficiales",
-                "item": "https://www.focus-on-english.com/certificaciones-ingles-oficiales"
+                "item": "https://linguafly.app/certificaciones-ingles-oficiales"
               }
             ]
           })

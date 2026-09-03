@@ -4,13 +4,14 @@ import Link from "next/link";
 import { phraseService } from "@/lib/phrases";
 import { ChevronRight, Home, Sparkles, Heart, Instagram, Plane, Zap, BookOpen, Star, type LucideIcon } from "lucide-react";
 import { Metadata } from "next";
+import { SITE_BRAND_NAME } from "@/lib/site-brand";
 
 export const metadata: Metadata = {
-  title: "Frases en Inglés: Guía Maestra por Categorías | Focus English",
-  description: "Descubre miles de frases en inglés útiles, cortas y bonitas. Categorizadas por amor, viajes, instagram y más. Con traducción y audio para mejorar tu fluidez.",
+  title: `Frases en inglés: guía por categorías | ${SITE_BRAND_NAME}`,
+  description: "Descubre frases en inglés útiles para viajes, amor, Instagram y conversaciones diarias. Incluyen traducción, contexto y audio para mejorar tu fluidez.",
   keywords: ["frases en ingles", "frases en ingles cortas", "frases para instagram ingles", "frases de amor en ingles"],
   alternates: {
-    canonical: 'https://www.focus-on-english.com/frases-en-ingles',
+    canonical: 'https://linguafly.app/frases-en-ingles',
   },
 };
 

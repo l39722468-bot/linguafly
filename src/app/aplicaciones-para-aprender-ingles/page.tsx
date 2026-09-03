@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   description: "Ranking actualizado de las mejores aplicaciones para aprender inglés este año. Comparativa honesta de apps gratis, con IA y para trabajar. ¡Elige la tuya!",
   keywords: ["aplicaciones para aprender ingles", "mejores apps ingles gratis", "apps para aprender ingles 2026", "aprender ingles rapido app"],
   alternates: {
-    canonical: 'https://www.focus-on-english.com/aplicaciones-para-aprender-ingles',
+    canonical: 'https://linguafly.app/aplicaciones-para-aprender-ingles',
   },
 };
 
@@ -231,7 +231,7 @@ export default function SEOAppsPage() {
                 "@type": "ListItem",
                 "position": 1,
                 "name": "Focus English",
-                "url": "https://www.focus-on-english.com"
+                "url": "https://linguafly.app"
               },
               {
                 "@type": "ListItem",

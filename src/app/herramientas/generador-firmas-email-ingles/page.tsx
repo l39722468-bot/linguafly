@@ -1,12 +1,13 @@
 import { Metadata } from "next";
 import EmailSignatureTool from "./EmailSignatureTool";
+import { SITE_BRAND_NAME } from "@/lib/site-brand";
 
 export const metadata: Metadata = {
-  title: "Generador de Firmas de Email en Inglés Gratis | Focus English",
+  title: `Generador de firmas de email en inglés gratis | ${SITE_BRAND_NAME}`,
   description: "Crea tu firma profesional en inglés en segundos. Elige la despedida correcta (Kind regards, Best regards) y destaca en tus comunicaciones internacionales.",
   keywords: ["firma email ingles", "email signature generator english", "despedidas email ingles profesional", "herramientas ingles gratis"],
   openGraph: {
-    title: "Generador de Firmas de Email en Inglés Gratis",
+    title: `Generador de firmas de email en inglés gratis | ${SITE_BRAND_NAME}`,
     description: "Crea una firma profesional y destaca en tus correos internacionales.",
     images: ["https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg"],
   },
@@ -38,7 +39,7 @@ export default function Page() {
             "publisher": {
               "@type": "Organization",
               "name": "Focus English",
-              "url": "https://www.focus-on-english.com"
+              "url": "https://linguafly.app"
             }
           })
         }}

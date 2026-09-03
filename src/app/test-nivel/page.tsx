@@ -19,13 +19,13 @@ export const metadata: Metadata = {
     "nivel CEFR",
   ],
   alternates: {
-    canonical: "https://www.focus-on-english.com/test-nivel",
+    canonical: "https://linguafly.app/test-nivel",
   },
   openGraph: {
     title: "Test de Nivel de Inglés Online Gratis | Test English A1-C2",
     description:
       "Test de nivel inglés online gratuito. Evalúa tu nivel de inglés con 24 preguntas CEFR y recibe tu resultado al instante.",
-    url: "https://www.focus-on-english.com/test-nivel",
+    url: "https://linguafly.app/test-nivel",
     type: "website",
     locale: "es_ES",
   },
@@ -315,7 +315,7 @@ export default async function DiagnosticoPage() {
             name: "Test de Nivel de Inglés Online Gratis",
             description:
               "Test de nivel inglés online gratuito. Evalúa tu nivel de inglés con 24 preguntas CEFR de A1 a C2.",
-            url: "https://www.focus-on-english.com/test-nivel",
+            url: "https://linguafly.app/test-nivel",
             inLanguage: "es",
             about: {
               "@type": "Thing",

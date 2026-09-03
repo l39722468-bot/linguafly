@@ -19,7 +19,7 @@ export async function generateMetadata(): Promise<Metadata> {
     description: page.description,
     keywords: page.keywords,
     alternates: {
-      canonical: page.canonical || 'https://www.focus-on-english.com/aprender-ingles',
+      canonical: page.canonical || 'https://linguafly.app/aprender-ingles',
     },
   };
 }

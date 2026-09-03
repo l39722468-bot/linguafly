@@ -213,7 +213,7 @@ export default function EmailSignatureTool() {
                   
                   <div style={{ marginTop: '24px', fontSize: '11px', color: '#94A3B8', borderTop: '1px solid #F1F5F9', paddingTop: '12px', fontStyle: 'italic' }}>
                     <p style={{ margin: '0' }}>
-                      Certified Professional English by <a href="https://www.focus-on-english.com" style={{ color: '#FF6B6B', fontWeight: 'bold', textDecoration: 'none' }}>Focus English</a>
+                      Certified Professional English by <a href="https://linguafly.app" style={{ color: '#FF6B6B', fontWeight: 'bold', textDecoration: 'none' }}>Focus English</a>
                     </p>
                   </div>
                 </div>
