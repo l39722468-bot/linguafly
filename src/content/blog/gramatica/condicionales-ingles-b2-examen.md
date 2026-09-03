@@ -13,6 +13,11 @@ keywords:
   - Condicionales en Inglés para el Examen B2
   - condicionales ingles b2 examen
   - ejercicios de inglés gratis
+  - condicionales B2 First ejercicios con soluciones
+  - condicionales para APTIS e IELTS con ejemplos
+  - open cloze de condicionales en inglés
+  - transformación de frases con condicionales B2
+  - errores de condicionales que penaliza Cambridge
 author: focus-english-team
 date: '2026-03-06'
 updatedDate: '2026-08-31'

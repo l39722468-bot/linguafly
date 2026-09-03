@@ -12,6 +12,11 @@ keywords:
   - mixed conditionals ejercicios
   - inversion condicional ingles
   - ejercicios de inglés gratis
+  - ejercicios de mixed conditionals C1 C2 con soluciones
+  - inversión condicional en inglés ejercicios PDF
+  - condicionales avanzados para Cambridge C1 C2
+  - práctica gratis de estructuras condicionales formales
+  - ejercicios de condicionales mixtos para examen CAE CPE
 author: focus-english-team
 date: '2026-07-30'
 updatedDate: '2026-08-31'

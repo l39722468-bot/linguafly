@@ -12,6 +12,11 @@ keywords:
   - Condicionales en Inglés para Writing
   - condicionales ingles writing
   - ejercicios de inglés gratis
+  - cómo usar condicionales en writing B2 C1
+  - condicionales para ensayos y emails formales
+  - ejercicios gratis de condicionales para writing
+  - frases condicionales para argumentar en inglés
+  - condicionales en propuestas e informes ingleses
 author: focus-english-team
 date: '2026-03-03'
 updatedDate: '2026-08-31'
