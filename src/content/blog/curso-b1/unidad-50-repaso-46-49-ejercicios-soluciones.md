@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios repaso unidades 46 a 49 B1
+  - revisión had better would rather phrasal verbs
+  - repaso need y needn’t en inglés
+  - consejos preferencias trabajo y necesidad B1
+  - examen práctico gramática B1 con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-50-repaso-46-49-ejercicios-soluciones'
 image: /blog/curso-b1/unit-50/review-map.png
 alt: Repaso 46–49 — ejercicios B1 Unidad 50

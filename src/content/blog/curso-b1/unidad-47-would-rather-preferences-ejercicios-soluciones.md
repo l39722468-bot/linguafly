@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios would rather inglés B1
+  - cómo expresar preferencias en inglés
+  - diferencia would rather y would sooner
+  - frases para elegir entre opciones B1
+  - práctica preferences vocabulary soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-47-would-rather-preferences-ejercicios-soluciones'
 image: /blog/curso-b1/unit-47/would-rather-sooner.png
 alt: Would Rather & Preferences — ejercicios B1 Unidad 47

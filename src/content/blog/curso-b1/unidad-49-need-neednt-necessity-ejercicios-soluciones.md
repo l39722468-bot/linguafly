@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios need y needn’t inglés B1
+  - diferencia needn’t y don’t need to
+  - cómo usar needn’t have done
+  - expresiones de necesidad en inglés
+  - práctica necessity vocabulary con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-49-need-neednt-necessity-ejercicios-soluciones'
 image: /blog/curso-b1/unit-49/need-neednt.png
 alt: Need & Necessity — ejercicios B1 Unidad 49

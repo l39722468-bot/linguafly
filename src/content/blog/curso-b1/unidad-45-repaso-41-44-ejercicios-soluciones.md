@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios repaso unidades 41 a 44 B1
+  - revisión preposiciones de verbos y adjetivos
+  - repaso during for while y since
+  - vocabulario sentimientos y tiempo B1
+  - examen práctico preposiciones inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-45-repaso-41-44-ejercicios-soluciones'
 image: /blog/curso-b1/unit-45/review-map.png
 alt: Repaso 41–44 — ejercicios B1 Unidad 45
