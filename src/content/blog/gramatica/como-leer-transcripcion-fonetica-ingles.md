@@ -14,6 +14,11 @@ keywords:
   - Cómo Leer la Transcripción Fonética
   - como leer transcripcion fonetica ingles
   - gramática inglesa gratis
+  - cómo leer transcripciones fonéticas del inglés
+  - símbolos IPA del inglés explicados paso a paso
+  - ejercicios gratis de transcripción fonética
+  - cómo usar el diccionario fonético Cambridge
+  - transcripción fonética inglesa para hispanohablantes
 faqs:
   - question: ¿Qué diccionario es mejor para aprender a leer transcripciones fonéticas?
     answer: >-

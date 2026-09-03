@@ -13,6 +13,11 @@ keywords:
   - zero conditional ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - cómo usar el zero conditional en inglés
+  - ejercicios gratis de zero conditional con respuestas
+  - zero conditional ejemplos de hechos generales
+  - diferencia entre zero y first conditional
+  - zero conditional para niveles A2 B1
 author: focus-english-team
 date: '2026-02-04'
 updatedDate: '2026-08-31'
