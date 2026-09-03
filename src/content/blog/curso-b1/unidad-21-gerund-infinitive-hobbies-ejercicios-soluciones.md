@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios gerundio e infinitivo inglés B1
+  - diferencia enjoy hiking y want to visit
+  - verbos seguidos de gerundio en inglés
+  - verbos seguidos de infinitivo B1
+  - práctica gerund infinitive con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-21-gerund-infinitive-hobbies-ejercicios-soluciones'
 image: /blog/curso-b1/unit-21/gerund-infinitive-1.png
 alt: Gerund vs Infinitive (1) & Hobbies — ejercicios B1 Unidad 21

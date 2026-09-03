@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios repaso unidades 21 a 24 B1
+  - revisión gerundios infinitivos y phrasal verbs
+  - repaso hobbies casa compras inglés B1
+  - examen práctico gramática B1 con soluciones
+  - ejercicios integrados curso B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-25-repaso-21-24-ejercicios-soluciones'
 image: /blog/curso-b1/unit-25/review-map.png
 alt: Repaso 21–24 — ejercicios B1 Unidad 25

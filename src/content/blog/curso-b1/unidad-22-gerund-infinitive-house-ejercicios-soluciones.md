@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios gerundio e infinitivo B1 parte 2
+  - diferencia remember to y remember ing
+  - cómo usar prefer living en inglés
+  - vocabulario casa y hogar inglés B1
+  - práctica gerund infinitive con respuestas
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-22-gerund-infinitive-house-ejercicios-soluciones'
 image: /blog/curso-b1/unit-22/gerund-infinitive-2.png
 alt: Gerund vs Infinitive (2) & House — ejercicios B1 Unidad 22
