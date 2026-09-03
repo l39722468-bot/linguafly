@@ -19,6 +19,11 @@ keywords:
     "curso de inglés C1 gratis",
     "modales epistémicos inglés",
     "ejercicios inglés C1 gratis",
+    "hedging académico ejercicios C1",
+    "atenuar afirmaciones en inglés formal",
+    "it appears it would seem ejemplos",
+    "modales epistémicos probabilidad inglés",
+    "verbos de postura autoral C1",
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-69-language-lab-hedging-postura'
 image: /blog/curso-c1/unit-69/hedging-postura.png

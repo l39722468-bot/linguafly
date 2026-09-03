@@ -19,6 +19,11 @@ keywords:
     "curso de inglés C1 gratis",
     "elipsis y sustitución inglés",
     "ejercicios inglés C1 gratis",
+    "cohesión discursiva ejercicios C1",
+    "conectores aditivos adversativos causales",
+    "referencia anafórica y catafórica inglés",
+    "elipsis sustitución y deixis C1",
+    "progresión temática escritura académica",
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-70-language-lab-cohesion-discursiva'
 image: /blog/curso-c1/unit-70/cohesion-discursiva.png
