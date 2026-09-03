@@ -18,6 +18,11 @@ keywords:
   - examen ingles EOI
   - preparar inglés gratis
   - material de inglés gratis
+  - examen EOI inglés B1 B2 C1 estructura
+  - cómo preparar el examen de inglés EOI
+  - ejercicios gratis para examen EOI
+  - matrícula y fechas del examen EOI inglés
+  - estrategias EOI para Reading Writing Listening Speaking
 alt: 'Estudiante preparando el examen de inglés de la Escuela Oficial de Idiomas'
 canonical: 'https://linguafly.app/blog/examenes/examenes-eoi-ingles-guia'
 faqs:

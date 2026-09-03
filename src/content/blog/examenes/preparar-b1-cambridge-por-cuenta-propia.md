@@ -13,6 +13,11 @@ keywords:
   - preparar b1 cambridge solo
   - preparar inglés gratis
   - material de inglés gratis
+  - cómo preparar Cambridge B1 por tu cuenta
+  - plan de estudio gratis para B1 Preliminary
+  - recursos oficiales Cambridge PET gratuitos
+  - preparar Speaking B1 sin profesor
+  - ejercicios de Reading y Writing B1 con soluciones
 date: '2025-02-05'
 updatedDate: '2026-08-31'
 category: examenes

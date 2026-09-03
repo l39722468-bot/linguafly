@@ -18,6 +18,11 @@ keywords:
   - 'Aptis A2: Estructura del Examen'
   - aptis a2
   - preparar inglés gratis
+  - Aptis A2 estructura de las cuatro partes
+  - cómo aprobar Aptis A2 en 2026
+  - ejercicios gratis de Aptis A2 con soluciones
+  - puntuación mínima para aprobar Aptis A2
+  - plan de preparación Aptis A2 en español
 faqs:
   - question: ¿Qué diferencia hay entre Aptis General y Aptis A2?
     answer: >-

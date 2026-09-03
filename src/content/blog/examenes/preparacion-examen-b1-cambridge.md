@@ -18,6 +18,11 @@ keywords:
   - Preparación Examen B1 Inglés
   - examen b1 ingles consejos
   - preparar inglés gratis
+  - cómo preparar el examen B1 de inglés
+  - Cambridge PET Aptis y Linguaskill B1
+  - plan gratis de estudio para aprobar B1
+  - ejercicios B1 de Reading Writing Listening Speaking
+  - recursos gratuitos para examen B1 inglés
 canonical: 'https://linguafly.app/blog/examenes/preparacion-examen-b1-cambridge'
 related_routes:
   - certificaciones-ingles
