@@ -11,6 +11,11 @@ excerpt: >-
 keywords:
   - ¿Cuánto se tarda en aprender inglés
   - aprender ingles en 6 meses
+  - cuántas horas hacen falta para aprender inglés
+  - cuánto tardar en pasar de A1 a B2 en inglés
+  - plan para aprender inglés gratis en 6 meses
+  - aprender inglés desde cero gratis paso a paso
+  - tiempo necesario para hablar inglés con fluidez
 date: '2024-02-03'
 updatedDate: '2026-08-31'
 category: metodos

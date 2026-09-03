@@ -11,6 +11,11 @@ alt: 'Persona estudiando inglés gratis desde casa con el ordenador'
 keywords:
   - mejores cursos de inglés gratis
   - curso inglés gratis 2026
+  - curso de inglés gratis online desde cero
+  - cursos de inglés gratuitos por niveles A1 B2
+  - aprender inglés gratis online con plan de estudio
+  - recursos gratuitos para estudiar inglés en casa
+  - curso de inglés gratis con ejercicios y soluciones
 faqs:
   - question: '¿Se puede aprender inglés de cero de forma totalmente gratuita?'
     answer: >-

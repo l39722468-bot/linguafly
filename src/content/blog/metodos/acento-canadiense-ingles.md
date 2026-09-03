@@ -13,6 +13,10 @@ excerpt: >-
 keywords:
   - 'El Acento Canadiense: Por Qué "About'
   - acento canadiense inglés
+  - cómo reconocer el acento canadiense en inglés
+  - diferencias entre inglés canadiense y americano
+  - pronunciación canadiense de about y out
+  - escuchar inglés canadiense gratis
 author: focus-english-team
 date: '2026-02-24'
 updatedDate: '2026-08-31'
