@@ -15,6 +15,11 @@ keywords:
   - heritage preservation UNESCO inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - argumento institucional ejercicios C1
+  - registro formal patrimonio cultural inglés
+  - voz pasiva y nominalización C1
+  - hedging verbos postura institucional
+  - heritage preservation UNESCO vocabulario
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-30-patrimonio-preservacion'
 image: /blog/curso-c1/unit-30/heritage-preservation.png
 alt: "Argumento institucional y formalidad aplicados al patrimonio y la preservación en inglés C1"

@@ -15,6 +15,11 @@ keywords:
   - composition exposure depth of field framing inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - crítica fotográfica ejercicios C1
+  - elipsis y sustitución inglés avanzado
+  - inferencia visual textual ejemplos
+  - composition exposure depth of field
+  - vocabulario framing juxtaposition fotografía
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-29-fotografia-relato-visual'
 image: /blog/curso-c1/unit-29/photography-visual-narrative.png
 alt: "Inferencia visual-textual en fotografía y relato visual en inglés C1"

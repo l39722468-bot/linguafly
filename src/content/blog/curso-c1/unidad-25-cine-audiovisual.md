@@ -15,6 +15,11 @@ keywords:
   - cinematography soundtrack pacing inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - crítica cinematográfica ejercicios C1
+  - vocabulario géneros cine inglés avanzado
+  - nominalización en crítica fílmica
+  - cinematography soundtrack pacing character arc
+  - modelos writing crítica de cine C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-25-cine-audiovisual'
 image: /blog/curso-c1/unit-25/cinema-audiovisual-genres.png
 alt: "Género y crítica fílmica en inglés C1: cine y audiovisual"

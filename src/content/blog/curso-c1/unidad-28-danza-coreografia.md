@@ -15,6 +15,11 @@ keywords:
   - choreography arabesque pirouette tempo inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - crítica de danza ejercicios C1
+  - relative clauses danza inglés
+  - metáforas para describir movimiento
+  - choreography arabesque pirouette tempo
+  - vocabulario coreografía y ensemble inglés
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-28-danza-coreografia'
 image: /blog/curso-c1/unit-28/dance-choreography-movement.png
 alt: "Movimiento y metáfora en danza y coreografía en inglés C1"

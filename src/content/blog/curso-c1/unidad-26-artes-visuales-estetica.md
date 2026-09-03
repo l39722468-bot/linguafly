@@ -15,6 +15,11 @@ keywords:
   - chiaroscuro composition brushwork inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - describir obras de arte en inglés C1
+  - interpretación estética ejercicios inglés
+  - participle clauses artes visuales
+  - inversión concesiva inglés avanzado
+  - vocabulario chiaroscuro perspective brushwork
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-26-artes-visuales-estetica'
 image: /blog/curso-c1/unit-26/visual-arts-aesthetics.png
 alt: "Descripción e interpretación en artes visuales y estética en inglés C1"

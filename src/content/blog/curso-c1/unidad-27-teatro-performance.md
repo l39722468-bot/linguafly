@@ -15,6 +15,11 @@ keywords:
   - staging monologue soliloquy blocking inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - reseña teatral ejercicios inglés C1
+  - inversión negativa teatro inglés
+  - énfasis do does en inglés avanzado
+  - staging monologue soliloquy blocking
+  - vocabulario performance teatral C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-27-teatro-performance'
 image: /blog/curso-c1/unit-27/theatre-performance-stage.png
 alt: "Registro de reseña y oralidad en teatro y performance en inglés C1"
