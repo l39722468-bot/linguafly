@@ -322,5 +322,9 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     addCourseUrls(course.path, course.units);
   });
 
-  return urls;
+  // Avoid duplicate entries when a course landing is present in both the
+  // editorial landing list and the generated course URL list.
+  return Array.from(
+    new Map(urls.map((entry) => [entry.url, entry])).values()
+  );
 }
