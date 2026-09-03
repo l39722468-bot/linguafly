@@ -11,6 +11,11 @@ alt: 'Ordenador con plataforma de cursos online universitarios'
 keywords:
   - 'Coursera: MOOCs IELTS académico'
   - coursera ielts
+  - cursos gratis de Coursera para preparar IELTS
+  - inglés académico online gratis para IELTS
+  - mejores cursos de Coursera para aprender inglés
+  - cursos online gratuitos de inglés académico
+  - cómo preparar IELTS gratis con cursos online
 faqs:
   - question: '¿Un MOOC de Coursera sustituye a un examen IELTS?'
     answer: >-
