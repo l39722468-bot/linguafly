@@ -15,6 +15,11 @@ keywords:
   - ielts speaking part 3
   - preparar inglés gratis
   - material de inglés gratis
+  - preguntas IELTS Speaking Part 3 con respuestas
+  - cómo responder preguntas abstractas en IELTS
+  - frases para IELTS Speaking Band 7 y 8
+  - ejercicios gratis de IELTS Speaking Part 3
+  - estructura de respuestas para el Part 3 IELTS
 author: focus-english-team
 date: '2026-04-17'
 updatedDate: '2026-08-31'

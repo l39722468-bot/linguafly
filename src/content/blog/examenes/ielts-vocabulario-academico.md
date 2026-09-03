@@ -13,6 +13,11 @@ keywords:
   - vocabulario ielts
   - preparar inglés gratis
   - material de inglés gratis
+  - vocabulario académico IELTS Band 7
+  - Academic Word List para preparar IELTS
+  - colocaciones académicas frecuentes en IELTS
+  - vocabulario IELTS gratis por temas
+  - palabras para mejorar Writing y Speaking IELTS
 excerpt: >-
   El vocabulario del IELTS no es el vocabulario del inglés conversacional. Para Band 7 necesitas dominar palabras académicas que rara vez aparecen en series o conversaciones cotidianas.
 faqs:

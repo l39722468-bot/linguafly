@@ -12,6 +12,11 @@ keywords:
   - 'IELTS Writing Task 1: Cómo Describir'
   - ielts writing task 1
   - preparar inglés gratis
+  - cómo describir gráficos en IELTS Writing Task 1
+  - estructura IELTS Task 1 Academic con ejemplos
+  - ejercicios gratis de IELTS Writing Task 1
+  - vocabulario para tendencias y comparaciones IELTS
+  - respuestas Band 7 para gráficos IELTS
 excerpt: >-
   El Task 1 del IELTS Writing Academic es una carrera contra el reloj: 20 minutos para analizar un gráfico y escribir 150 palabras que convenzan al examinador de que sabes lo que estás mirando.
 faqs:

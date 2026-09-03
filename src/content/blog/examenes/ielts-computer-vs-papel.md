@@ -12,6 +12,11 @@ keywords:
   - IELTS por Ordenador vs en Papel
   - ielts computer vs papel
   - material de inglés gratis
+  - diferencias IELTS computer delivered y papel
+  - IELTS ordenador o papel cuál elegir
+  - ventajas y desventajas del IELTS por ordenador
+  - tiempos de resultados IELTS computer vs paper
+  - guía gratuita para elegir formato IELTS
 excerpt: >-
   IELTS por ordenador vs. en papel: descubre las diferencias de formato, tiempos de corrección, pros y contras para elegir la mejor modalidad de examen.
 faqs:

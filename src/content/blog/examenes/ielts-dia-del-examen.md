@@ -12,6 +12,11 @@ keywords:
   - 'El Día del Examen IELTS: Qué Esperar'
   - dia del examen ielts
   - preparar inglés gratis
+  - qué llevar el día del examen IELTS
+  - consejos para el día del IELTS paso a paso
+  - documentación necesaria para examen IELTS
+  - cómo controlar los nervios en IELTS
+  - errores logísticos que debes evitar en IELTS
 excerpt: >-
   Llevar meses preparándote para el IELTS y cometer un error de logística el día del examen es más frecuente de lo que parece. Esta guía cubre todo lo que necesitas saber para que nada te sorprenda.
 faqs:
