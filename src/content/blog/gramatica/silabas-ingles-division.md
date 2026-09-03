@@ -14,6 +14,11 @@ keywords:
   - silabas ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - cómo dividir palabras en sílabas en inglés
+  - ejercicios gratis de sílabas inglesas
+  - reglas de división silábica del inglés
+  - sílabas y acento tónico en inglés
+  - cómo contar sílabas en palabras inglesas
 author: focus-english-team
 date: '2026-03-01'
 updatedDate: '2026-08-31'

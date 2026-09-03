@@ -14,6 +14,11 @@ keywords:
   - cómo leer IPA inglés
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - cómo leer los símbolos IPA del inglés
+  - alfabeto fonético internacional inglés para principiantes
+  - ejercicios gratis de pronunciación con IPA
+  - diferencia entre IPA inglés británico y americano
+  - transcripción fonética inglesa con ejemplos
 author: focus-english-team
 date: '2026-02-26'
 updatedDate: '2026-08-31'

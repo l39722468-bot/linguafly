@@ -14,6 +14,11 @@ keywords:
   - 'Word Stress en Inglés: La Regla'
   - word stress ingles
   - ejercicios de inglés gratis
+  - qué es el word stress en inglés con ejemplos
+  - ejercicios gratis de acento tónico inglés
+  - cómo identificar la sílaba tónica en inglés
+  - word stress para hispanohablantes
+  - reglas del acento de palabra en inglés
 faqs:
   - question: ¿Qué es el word stress?
     answer: >-

@@ -13,6 +13,11 @@ keywords:
   - El Acento de Palabra en Inglés
   - acento palabra inglés
   - ejercicios de inglés gratis
+  - reglas del acento de palabra en inglés
+  - ejercicios gratis de word stress con ejemplos
+  - acento tónico en sustantivos y verbos ingleses
+  - cómo saber dónde va el acento en inglés
+  - patrones de acentuación inglesa y sufijos
 author: focus-english-team
 date: '2026-02-17'
 updatedDate: '2026-08-31'
