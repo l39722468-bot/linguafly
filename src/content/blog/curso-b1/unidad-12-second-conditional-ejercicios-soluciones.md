@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios Second Conditional inglés B1
+  - cómo usar If I were you
+  - situaciones hipotéticas en inglés B1
+  - estructura if past would ejercicios
+  - práctica segundo condicional con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-12-second-conditional-ejercicios-soluciones'
 image: /blog/curso-b1/unit-12/second-conditional.png
 alt: Second conditional — ejercicios B1 Unidad 12
