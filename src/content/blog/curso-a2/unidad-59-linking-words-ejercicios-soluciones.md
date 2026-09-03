@@ -14,6 +14,11 @@ keywords:
   - because so although
   - and but however
   - curso A2 Linguafly
+  - ejercicios linking words inglés A2
+  - diferencia because so although however
+  - cómo conectar frases en inglés básico
+  - conectores de contraste y causa A2
+  - práctica linking words con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-59-linking-words-ejercicios-soluciones'
 image: /blog/curso-a2/unit-59/a2-unit59-linking-words.png
 alt: Linking Words — ejercicios A2 Unidad 59

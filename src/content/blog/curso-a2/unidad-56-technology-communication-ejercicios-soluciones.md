@@ -14,6 +14,11 @@ keywords:
   - download log in WiFi
   - send email app
   - curso A2 Linguafly
+  - ejercicios tecnología y comunicación inglés A2
+  - vocabulario download upload log in WiFi
+  - cómo enviar un email en inglés básico
+  - frases password link app en inglés
+  - práctica technology communication soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-56-technology-communication-ejercicios-soluciones'
 image: /blog/curso-a2/unit-56/a2-unit56-technology-communication.png
 alt: Technology & Communication — ejercicios A2 Unidad 56

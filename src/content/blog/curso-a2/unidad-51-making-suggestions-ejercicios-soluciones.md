@@ -14,6 +14,11 @@ keywords:
   - Shall we Let's
   - How about Would you like to
   - curso A2 Linguafly
+  - ejercicios hacer sugerencias inglés A2
+  - cómo proponer planes con Shall we y Let’s
+  - diferencia How about y Why don’t we
+  - frases para sugerir actividades en inglés
+  - práctica making suggestions con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-51-making-suggestions-ejercicios-soluciones'
 image: /blog/curso-a2/unit-51/a2-unit51-making-suggestions.png
 alt: Making Suggestions — ejercicios A2 Unidad 51

@@ -14,6 +14,11 @@ keywords:
   - work as study at
   - have to deadline
   - curso A2 Linguafly
+  - ejercicios trabajo y educación inglés A2
+  - cómo decir work as y study at
+  - vocabulario deadline meeting exam inglés
+  - obligaciones con have to en el trabajo
+  - práctica work education con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-57-work-education-ejercicios-soluciones'
 image: /blog/curso-a2/unit-57/a2-unit57-work-education.png
 alt: Work & Education — ejercicios A2 Unidad 57
