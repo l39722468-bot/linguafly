@@ -14,6 +14,11 @@ keywords:
   - 'El Acento Irlandés: Guía para Entender'
   - acento irlandes ingles
   - ejercicios de inglés gratis
+  - cómo entender el acento irlandés en inglés
+  - características del Hiberno-English con ejemplos
+  - frases del inglés irlandés traducidas
+  - ejercicios gratis de listening con acento irlandés
+  - diferencias entre inglés irlandés y británico
 faqs:
   - question: ¿El inglés irlandés es una variedad con reglas propias?
     answer: >-

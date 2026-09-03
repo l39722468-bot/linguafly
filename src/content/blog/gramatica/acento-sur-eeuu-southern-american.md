@@ -15,6 +15,11 @@ keywords:
   - ingles sur estados unidos
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - Southern American English características y ejemplos
+  - cómo entender el acento sureño americano
+  - expresiones del sur de Estados Unidos en inglés
+  - ejercicios gratis para reconocer el Southern accent
+  - diferencias entre acento sureño y americano estándar
 faqs:
   - question: ¿El "Southern accent" es un único acento o hay variedad dentro?
     answer: >-

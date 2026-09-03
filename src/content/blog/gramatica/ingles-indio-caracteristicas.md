@@ -14,6 +14,11 @@ keywords:
   - 'Inglés Indio: Por Qué Suena Diferente'
   - acento indio ingles
   - gramática inglesa gratis
+  - características del inglés indio con ejemplos
+  - cómo entender el acento indio en inglés
+  - Indian English para trabajo y negocios
+  - diferencias entre inglés indio y americano
+  - ejercicios gratis para comprender el inglés indio
 faqs:
   - question: ¿Hay un único "inglés indio" o son muchos acentos diferentes?
     answer: >-

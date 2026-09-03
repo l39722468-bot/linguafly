@@ -14,6 +14,11 @@ keywords:
   - 'Inglés Australiano: Por Qué Suena Tan Distinto'
   - pronunciacion ingles australiano
   - gramática inglesa gratis
+  - características del inglés australiano hablado
+  - cómo entender el acento australiano en inglés
+  - diferencias entre inglés australiano y británico
+  - vocabulario australiano con significado en español
+  - ejercicios gratis de listening australiano
 faqs:
   - question: ¿El inglés australiano es más parecido al británico o al americano?
     answer: >-
