@@ -18,6 +18,11 @@ keywords:
     ecosistema mediático inglés,
     integración temática C1,
     discurso de síntesis inglés,
+    repaso medios desinformación privacidad IA,
+    síntesis argumentativa ejercicios C1,
+    vocabulario ecosistema mediático inglés,
+    integrar temas de medios en inglés,
+    discurso académico sobre medios C1,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-54-consolidacion-medios'
 image: /blog/curso-c1/unit-54/consolidacion-medios.png

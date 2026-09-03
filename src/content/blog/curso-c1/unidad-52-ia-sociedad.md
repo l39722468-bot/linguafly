@@ -18,6 +18,11 @@ keywords:
     implicaciones sociales IA C1,
     matización epistémica inglés,
     debate sobre IA C1,
+    inteligencia artificial sociedad ejercicios,
+    hedging para hablar de IA,
+    implicaciones sociales de la inteligencia artificial,
+    matización epistémica ejemplos inglés,
+    debatir impacto de la IA en inglés,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-52-ia-sociedad'
 image: /blog/curso-c1/unit-52/ia-sociedad.png

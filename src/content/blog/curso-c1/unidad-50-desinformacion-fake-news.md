@@ -17,6 +17,11 @@ keywords:
     periodismo de verificación C1,
     alfabetización mediática inglés C1,
     argumentación C1 inglés,
+    desinformación fake news ejercicios C1,
+    verificar fuentes en inglés,
+    fact checking vocabulary C1,
+    alfabetización mediática ejercicios,
+    argumentar sobre noticias falsas,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-50-desinformacion-fake-news'
 image: /blog/curso-c1/unit-50/desinformacion-fake-news.png

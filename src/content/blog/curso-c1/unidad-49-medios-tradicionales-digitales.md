@@ -18,6 +18,11 @@ keywords:
     periodismo digital C1,
     hipervínculos sociales inglés C1,
     argumentación C1 inglés,
+    medios tradicionales digitales ejercicios,
+    géneros mediáticos vocabulario C1,
+    transformación digital de la prensa,
+    hipervínculos sociales en inglés,
+    comparar prensa tradicional y digital,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-49-medios-tradicionales-digitales'
 image: /blog/curso-c1/unit-49/medios-tradicionales-digitales.png

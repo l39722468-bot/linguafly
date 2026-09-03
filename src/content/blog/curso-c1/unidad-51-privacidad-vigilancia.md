@@ -18,6 +18,11 @@ keywords:
     derechos digitales inglés C1,
     vigilancia masiva C1,
     argumentación C1 inglés,
+    privacidad vigilancia ejercicios C1,
+    vocabulario derechos digitales inglés,
+    legal informático privacidad en inglés,
+    vigilancia masiva seguridad libertad,
+    debatir protección de datos C1,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-51-privacidad-vigilancia'
 image: /blog/curso-c1/unit-51/privacidad-vigilancia.png

@@ -18,6 +18,11 @@ keywords:
     cita y atribución inglés C1,
     dilemas éticos periodismo C1,
     reporting standards inglés,
+    ética periodística ejercicios C1,
+    deontología periodística vocabulario,
+    citar y atribuir fuentes en inglés,
+    dilemas éticos del periodismo,
+    reporting standards explicación C1,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-53-etica-periodistica'
 image: /blog/curso-c1/unit-53/etica-periodistica.png
