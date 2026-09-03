@@ -19,6 +19,11 @@ keywords:
     sufijos nominalizadores C1,
     prefijos negativos inglés C1,
     language lab inglés C1,
+    word formation ejercicios CAE C1,
+    sufijos nominalizadores inglés avanzado,
+    prefijos negativos formación palabras,
+    conversión de categoría gramatical inglés,
+    formación de palabras escritura académica,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-63-language-lab-formacion-palabras'
 image: /blog/curso-c1/unit-63/language-lab-formacion-palabras.png

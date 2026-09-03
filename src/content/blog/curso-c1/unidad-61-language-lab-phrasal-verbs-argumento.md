@@ -18,6 +18,11 @@ keywords:
     colocaciones phrasal verbs C1,
     registro formal inglés C1,
     language lab inglés C1,
+    phrasal verbs formales ejercicios C1,
+    phrasal verbs para argumentar en inglés,
+    colocaciones phrasal verbs avanzadas,
+    registro formal y phrasal verbs,
+    sinónimos latinos phrasal verbs inglés,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-61-language-lab-phrasal-verbs-argumento'
 image: /blog/curso-c1/unit-61/language-lab-phrasal-verbs.png

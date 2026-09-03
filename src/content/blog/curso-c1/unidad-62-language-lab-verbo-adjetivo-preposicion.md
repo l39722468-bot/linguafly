@@ -19,6 +19,11 @@ keywords:
     patrones preposicionales inglés,
     colocaciones preposicionales C1,
     language lab inglés C1,
+    verbos con preposición ejercicios C1,
+    adjetivos con preposición ejemplos,
+    patrones preposicionales inglés avanzado,
+    colocaciones preposicionales escritura C1,
+    errores de preposiciones hispanohablantes,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-62-language-lab-verbo-adjetivo-preposicion'
 image: /blog/curso-c1/unit-62/language-lab-preposiciones.png

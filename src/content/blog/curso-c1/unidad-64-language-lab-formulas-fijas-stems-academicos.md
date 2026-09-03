@@ -7,7 +7,7 @@ title: "Unidad 64 C1: Language Lab — Fórmulas fijas y stems académicos"
 description: >-
   Domina las fórmulas fijas y los stems académicos que distinguen la escritura formal C1: collocations institucionales, chunks de hedges y framing, y las estructuras cristalizadas que todo ensayo avanzado necesita.
 readTime: 40 min
-keywords: ["curso de inglés C1 gratis", "ejercicios inglés C1 gratis", "fórmulas fijas inglés académico", "stems académicos C1", "academic writing C1", "collocations formales inglés", "frases hechas registro académico"]
+keywords: ["curso de inglés C1 gratis", "ejercicios inglés C1 gratis", "fórmulas fijas inglés académico", "stems académicos C1", "academic writing C1", "collocations formales inglés", "frases hechas registro académico", "fórmulas fijas ejercicios C1", "stems académicos para essays", "chunks de hedging y framing", "collocations institucionales inglés", "plantillas escritura académica avanzada"]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-64-language-lab-formulas-fijas-stems-academicos'
 image: /blog/curso-c1/unit-64/language-lab-formulas-fijas-stems-academicos.png
 alt: "Laboratorio de idiomas con manuscrito académico y fórmulas fijas destacadas"
