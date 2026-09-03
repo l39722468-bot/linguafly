@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios although however despite B1
+  - diferencia despite e in spite of
+  - cómo expresar contraste en inglés
+  - vocabulario opiniones inglés intermedio
+  - práctica contrast and opinions soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-38-contrast-opinions-ejercicios-soluciones'
 image: /blog/curso-b1/unit-38/contrast.png
 alt: Contrast & Opinions — ejercicios B1 Unidad 38

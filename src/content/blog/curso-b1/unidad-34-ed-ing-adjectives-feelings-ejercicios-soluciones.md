@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios adjetivos ed e ing inglés B1
+  - diferencia bored y boring en inglés
+  - cómo describir sentimientos en inglés B1
+  - adjetivos emocionado aburrido sorprendido inglés
+  - práctica ed ing adjectives con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-34-ed-ing-adjectives-feelings-ejercicios-soluciones'
 image: /blog/curso-b1/unit-34/ed-ing-adjectives.png
 alt: -Ed/-ing Adjectives & Feelings — ejercicios B1 Unidad 34

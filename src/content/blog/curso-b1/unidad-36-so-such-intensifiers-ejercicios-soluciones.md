@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios so y such inglés B1
+  - diferencia so much y so many
+  - cómo usar intensifiers en inglés
+  - estructuras so such con adjetivos
+  - práctica intensifiers B1 con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-36-so-such-intensifiers-ejercicios-soluciones'
 image: /blog/curso-b1/unit-36/so-such.png
 alt: So/Such & Intensifiers — ejercicios B1 Unidad 36

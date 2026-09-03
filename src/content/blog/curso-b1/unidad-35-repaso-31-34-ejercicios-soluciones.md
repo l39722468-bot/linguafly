@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios repaso unidades 31 a 34 B1
+  - revisión relative clauses y question tags
+  - repaso adjetivos ed ing inglés B1
+  - ejercicios naturaleza servicios emociones
+  - examen práctico gramática B1 con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-35-repaso-31-34-ejercicios-soluciones'
 image: /blog/curso-b1/unit-35/review-map.png
 alt: Repaso 31–34 — ejercicios B1 Unidad 35

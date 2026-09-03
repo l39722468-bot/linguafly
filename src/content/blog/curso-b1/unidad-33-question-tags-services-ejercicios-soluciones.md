@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios question tags inglés B1
+  - cómo formar isn’t it y don’t you
+  - coletillas interrogativas en inglés
+  - vocabulario servicios inglés B1
+  - práctica question tags con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-33-question-tags-services-ejercicios-soluciones'
 image: /blog/curso-b1/unit-33/question-tags.png
 alt: Question Tags & Services — ejercicios B1 Unidad 33
