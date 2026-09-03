@@ -17,6 +17,11 @@ keywords:
   - nutrition vocabulary
   - lifestyle English
   - recomendación prudente inglés
+  - vocabulario nutrición inglés C1
+  - evidence based language ejercicios
+  - recomendaciones matizadas en inglés
+  - hablar de dieta y estilo de vida
+  - presentar evidencia científica en inglés
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-39-nutricion-estilo-de-vida'
 image: /blog/curso-c1/unit-39/nutricion-estilo-de-vida.png
 alt: "Ilustración de alimentos frescos y un plato equilibrado junto a símbolos de actividad física para la Unidad 39 del curso C1."

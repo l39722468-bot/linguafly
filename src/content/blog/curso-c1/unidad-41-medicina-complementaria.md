@@ -17,6 +17,11 @@ keywords:
   - complementary medicine vocabulary
   - critical thinking English
   - contraste evidencia opinión inglés
+  - medicina complementaria vocabulario C1
+  - evidence versus opinion ejercicios
+  - distinguir evidencia y creencia inglés
+  - pensamiento crítico en inglés avanzado
+  - expresar opiniones médicas matizadas
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-41-medicina-complementaria'
 image: /blog/curso-c1/unit-41/medicina-complementaria.png
 alt: "Ilustración que contrasta un frasco de suplementos con un símbolo de evidencia científica para la Unidad 41 del curso C1."

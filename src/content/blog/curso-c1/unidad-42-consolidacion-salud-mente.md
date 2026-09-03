@@ -18,6 +18,11 @@ keywords:
   - health consolidation English
   - conexión interdisciplinar inglés
   - consolidación salud mente C1
+  - repaso salud mente cerebro nutrición
+  - mind body connection vocabulario
+  - síntesis interdisciplinar ejercicios C1
+  - conectores para textos de salud
+  - consolidación gramática C1 salud
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-42-consolidacion-salud-mente'
 image: /blog/curso-c1/unit-42/consolidacion-salud-mente.png
 alt: "Ilustración que entrelaza un cerebro, un corazón y símbolos de nutrición y bienestar para la Unidad 42 del curso C1 sobre síntesis interdisciplinar."

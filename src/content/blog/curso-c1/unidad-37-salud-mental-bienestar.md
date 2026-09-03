@@ -17,6 +17,11 @@ keywords:
   - well-being vocabulary
   - empathetic language English
   - reformulación empática inglés
+  - salud mental bienestar vocabulario C1
+  - paraphrasing empático ejercicios inglés
+  - lenguaje sensible sobre salud mental
+  - cómo hablar de límites en inglés
+  - empathetic language ejercicios C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-37-salud-mental-bienestar'
 image: /blog/curso-c1/unit-37/salud-mental-bienestar.png
 alt: "Ilustración de una persona en calma rodeada de símbolos de bienestar y equilibrio emocional para la Unidad 37 del curso C1."

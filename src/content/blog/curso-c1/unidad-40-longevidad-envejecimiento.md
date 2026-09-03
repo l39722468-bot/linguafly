@@ -17,6 +17,11 @@ keywords:
   - ageing language English
   - datos demográficos inglés
   - tono respetuoso inglés C1
+  - vocabulario envejecimiento y longevidad
+  - ageing language ejercicios inglés
+  - datos demográficos en inglés C1
+  - hablar del envejecimiento con respeto
+  - presentar datos de salud en inglés
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-40-longevidad-envejecimiento'
 image: /blog/curso-c1/unit-40/longevidad-envejecimiento.png
 alt: "Ilustración de personas de distintas edades activas y sonrientes junto a una línea temporal para la Unidad 40 del curso C1 sobre longevidad."

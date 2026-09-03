@@ -17,6 +17,11 @@ keywords:
   - neuroscience vocabulary
   - popular science English
   - divulgación científica inglés
+  - vocabulario neurociencia inglés C1
+  - simplificar textos científicos en inglés
+  - popular science writing ejercicios
+  - terminología cerebro y neuronas inglés
+  - divulgación científica para no expertos
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-38-neurociencia-divulgativa'
 image: /blog/curso-c1/unit-38/neurociencia-divulgativa.png
 alt: "Ilustración de un cerebro con conexiones neuronales luminosas para la Unidad 38 del curso C1 sobre neurociencia divulgativa."
