@@ -14,6 +14,11 @@ keywords:
   - verbos modales ingles avanzados
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - verbos modales C1 C2 con ejemplos avanzados
+  - ejercicios gratis de modales avanzados en inglés
+  - modales perfectos para deducciones sobre el pasado
+  - cómo expresar posibilidad y crítica en inglés
+  - guía de modales ingleses para CAE y CPE
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-08-31'

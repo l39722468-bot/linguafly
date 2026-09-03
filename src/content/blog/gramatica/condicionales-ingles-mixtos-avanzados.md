@@ -13,6 +13,11 @@ keywords:
   - Condicionales Mixtos en Inglés
   - condicionales mixtos ingles
   - ejercicios de inglés gratis
+  - mixed conditionals en inglés con ejemplos
+  - ejercicios gratis de condicionales mixtos
+  - diferencia entre mixed conditionals tipo A y B
+  - mixed conditionals para Cambridge C1 C2
+  - cómo formar condicionales mixtos en inglés
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-08-31'

@@ -12,6 +12,11 @@ keywords:
   - 'Semi-modales en Inglés: Used To, Need y Dare'
   - semi-modales ingles
   - gramática inglesa gratis
+  - semi-modales en inglés con ejemplos y ejercicios
+  - diferencia entre used to y would para hábitos
+  - cómo usar need to dare y had better
+  - ejercicios gratis de semi-modales B1 B2
+  - be supposed to y be able to en inglés
 excerpt: >-
   Reglas de gramática sobre los verbos semi-modales en inglés: estructura sintáctica, conjugación en pasado y futuro, y ejercicios explicados paso a paso.
 faqs:
