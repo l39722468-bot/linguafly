@@ -14,6 +14,11 @@ keywords:
   - future perfect ejercicios B2
   - will going to work English
   - future tenses B2
+  - future perfect ejercicios con soluciones
+  - diferencias will going to B2
+  - present continuous planes futuros inglés
+  - vocabulario trabajo inglés nivel B2
+  - tiempos futuros inglés B2 explicados
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-2-future-tenses-work'
 image: /blog/curso-b2/unit-2/future-tenses.png
 alt: 'Future tenses & Work'

@@ -14,6 +14,11 @@ keywords:
   - wish regret B2 ejercicios
   - participle clauses mixed conditionals
   - repaso B1 B2
+  - ejercicios wish if only B2
+  - participle clauses explicación B2
+  - mixed conditionals ejercicios inglés
+  - repaso gramática de B1 a B2
+  - curso B2 con ejercicios resueltos
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-1-repaso-b1-b2'
 image: /blog/curso-b2/unit-1/wish-regret.png
 alt: 'Repaso B1 → B2'

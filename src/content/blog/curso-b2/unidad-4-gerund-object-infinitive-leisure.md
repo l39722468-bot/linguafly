@@ -14,6 +14,11 @@ keywords:
   - verb object infinitive ejercicios
   - convince tell ask B2
   - leisure vocabulary English
+  - verb object infinitive ejercicios B2
+  - ask tell want someone to ejercicios
+  - convince somebody to en inglés
+  - infinitivo con objeto directo B2
+  - vocabulario ocio inglés nivel B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure'
 image: /blog/curso-b2/unit-4/verb-object-inf.png
 alt: 'Verb + Object + Infinitive'

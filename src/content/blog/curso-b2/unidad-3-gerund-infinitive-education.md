@@ -14,6 +14,11 @@ keywords:
   - gerund infinitive ejercicios B2
   - enjoy mind avoid English
   - education vocabulary B2
+  - gerund or infinitive ejercicios B2
+  - verbos seguidos de gerundio inglés
+  - verbos seguidos de infinitivo B2
+  - stop doing stop to do diferencia
+  - vocabulario educación en inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-3-gerund-infinitive-education'
 image: /blog/curso-b2/unit-3/gerund-infinitive.png
 alt: 'Gerund vs Infinitive'

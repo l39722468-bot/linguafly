@@ -16,6 +16,11 @@ keywords:
   - ingles B2 unidad 6
   - curso ingles B2 gratis
   - ejercicios ingles B2 gratis
+  - wish if only ejercicios B2 resueltos
+  - wish past simple past perfect explicación
+  - cómo usar wish would en inglés
+  - vocabulario feelings emotions B2
+  - expresar deseos y arrepentimientos inglés
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-6-wish-if-only-feelings'
 image: /blog/curso-b2/unit-6/wish-if-only.png
 alt: 'Esquema de wish, if only y vocabulario de feelings en ingles B2'

@@ -14,6 +14,11 @@ keywords:
   - repaso B2 unidades 1-4
   - wish future gerund ejercicios
   - integración gramatical B2
+  - repaso unidades 1 a 4 B2
+  - ejercicios wish future tenses gerund
+  - gerundio e infinitivo repaso B2
+  - gramática B2 con ejercicios y soluciones
+  - curso inglés B2 repaso inicial
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-5-repaso-1-4'
 image: /blog/curso-b2/unit-5/review-map.png
 alt: 'Repaso 1–4'
