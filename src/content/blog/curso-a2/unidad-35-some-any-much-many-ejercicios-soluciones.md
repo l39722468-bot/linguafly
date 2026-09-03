@@ -14,6 +14,11 @@ keywords:
   - a lot of a few a little
   - how much how many
   - curso A2 Linguafly
+  - ejercicios some any much many A2
+  - diferencia a few y a little en inglés
+  - cómo usar a lot of con ejercicios
+  - preguntas How much How many A2
+  - práctica cuantificadores inglés con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-35-some-any-much-many-ejercicios-soluciones'
 image: /blog/curso-a2/unit-35/a2-unit35-some-any-much-many.png
 alt: Some, Any, Much, Many — ejercicios A2 Unidad 35

@@ -14,6 +14,11 @@ keywords:
   - I'd like would you like
   - pedir en inglés restaurante
   - curso A2 Linguafly
+  - ejercicios would like y like A2
+  - diferencia I like e I’d like
+  - cómo pedir comida en inglés educadamente
+  - preguntas Would you like ejercicios
+  - práctica restaurante inglés A2 con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-37-would-like-vs-like-ejercicios-soluciones'
 image: /blog/curso-a2/unit-37/a2-unit37-would-like-vs-like.png
 alt: Would like vs Like — ejercicios A2 Unidad 37

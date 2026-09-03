@@ -14,6 +14,11 @@ keywords:
   - like swimming want to go
   - would like to order
   - curso A2 Linguafly
+  - ejercicios gerundios e infinitivos inglés A2
+  - diferencia like ing y want to
+  - cómo usar would like to en inglés
+  - verbos seguidos de gerundio o infinitivo
+  - práctica gerunds infinitives con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-33-gerunds-infinitives-ejercicios-soluciones'
 image: /blog/curso-a2/unit-33/a2-unit33-gerunds-infinitives.png
 alt: Gerundios e infinitivos — ejercicios A2 Unidad 33
