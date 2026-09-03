@@ -7,6 +7,11 @@ keywords:
   - Cómo Escribir el Essay del CAE
   - como escribir essay c1 advanced
   - preparar inglés gratis
+  - estructura essay CAE paso a paso
+  - conectores para essay C1 Advanced
+  - ejemplos essay Cambridge C1 corregidos
+  - cómo argumentar en el essay del CAE
+  - errores frecuentes Writing CAE essay
 author: focus-english-team
 date: '2026-03-19'
 updatedDate: '2026-08-31'

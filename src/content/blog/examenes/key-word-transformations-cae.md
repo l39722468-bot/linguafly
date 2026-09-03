@@ -7,6 +7,11 @@ keywords:
   - 'Key Word Transformations CAE: Domina'
   - key word transformations cae
   - preparar inglés gratis
+  - ejercicios Key Word Transformations CAE
+  - patrones frecuentes transformaciones C1
+  - cómo resolver la Parte 4 del CAE
+  - estructuras gramaticales Key Word Transformations
+  - práctica CAE Use of English con respuestas
 author: focus-english-team
 date: '2026-03-17'
 updatedDate: '2026-08-31'

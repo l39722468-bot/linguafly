@@ -8,6 +8,11 @@ keywords:
   - cae reading use of english
   - preparar inglés gratis
   - material de inglés gratis
+  - ejercicios Use of English C1 Advanced
+  - partes del Use of English CAE explicadas
+  - cómo aprobar el Use of English C1
+  - estrategias Reading and Use of English CAE
+  - práctica Use of English C1 con respuestas
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-08-31'
