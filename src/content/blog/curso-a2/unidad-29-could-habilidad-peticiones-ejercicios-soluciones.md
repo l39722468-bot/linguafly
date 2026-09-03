@@ -14,6 +14,11 @@ keywords:
   - Could you please
   - habilidad pasada could
   - curso A2 Linguafly
+  - ejercicios could y couldn’t inglés A2
+  - cómo hacer peticiones educadas con could
+  - habilidad pasada en inglés con could
+  - frases Could you please ejercicios
+  - práctica could con soluciones A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-29-could-habilidad-peticiones-ejercicios-soluciones'
 image: /blog/curso-a2/unit-29/a2-unit29-could.png
 alt: Could — ejercicios A2 Unidad 29

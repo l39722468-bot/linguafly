@@ -14,6 +14,11 @@ keywords:
   - get up look for turn on
   - wake up sit down stand up
   - curso A2 Linguafly
+  - ejercicios phrasal verbs básicos inglés A2
+  - significado get up wake up look for
+  - phrasal verbs cotidianos para principiantes
+  - cómo usar turn on y turn off
+  - práctica phrasal verbs con soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-31-phrasal-verbs-introduccion-ejercicios-soluciones'
 image: /blog/curso-a2/unit-31/a2-unit31-phrasal-verbs.png
 alt: Phrasal verbs — ejercicios A2 Unidad 31

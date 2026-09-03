@@ -14,6 +14,11 @@ keywords:
   - pick up put on take off
   - turn it off give back
   - curso A2 Linguafly
+  - ejercicios phrasal verbs separables A2
+  - cómo usar pick up put on take off
+  - posición del objeto con phrasal verbs
+  - diferencia turn it off y turn off it
+  - práctica phrasal verbs separables soluciones
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-32-phrasal-verbs-separables-ejercicios-soluciones'
 image: /blog/curso-a2/unit-32/a2-unit32-phrasal-separable.png
 alt: Phrasal verbs separables — ejercicios A2 Unidad 32
