@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios for since from inglés B1
+  - diferencia for since y from en inglés
+  - since con Present Perfect ejercicios
+  - expresiones temporales en inglés B1
+  - práctica for since con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-44-for-since-from-time-ejercicios-soluciones'
 image: /blog/curso-b1/unit-44/for-since-from.png
 alt: For, Since, From & Time — ejercicios B1 Unidad 44

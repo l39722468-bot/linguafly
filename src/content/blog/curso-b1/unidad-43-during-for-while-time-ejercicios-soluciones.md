@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios during for while inglés B1
+  - diferencia during y for en inglés
+  - cómo usar while en una oración
+  - expresiones de tiempo vocabulario B1
+  - práctica during for while con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-43-during-for-while-time-ejercicios-soluciones'
 image: /blog/curso-b1/unit-43/during-for-while.png
 alt: During, For, While & Time — ejercicios B1 Unidad 43
