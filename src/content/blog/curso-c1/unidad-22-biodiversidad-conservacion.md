@@ -15,6 +15,11 @@ keywords:
   - rewilding keystone species inglés C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - frases nominales complejas ejercicios
+  - noun phrase post modification C1
+  - the fact that the proposal to
+  - nominalización inglés avanzado ejemplos
+  - vocabulario biodiversidad conservación C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-22-biodiversidad-conservacion'
 image: /blog/curso-c1/unit-22/biodiversity-conservation-map.png
 alt: "Frases nominales complejas y nominalización aplicadas a la biodiversidad y la conservación en inglés C1"

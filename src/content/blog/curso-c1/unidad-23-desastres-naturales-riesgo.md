@@ -15,6 +15,11 @@ keywords:
   - vocabulario desastres naturales inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - construcciones absolutas ejercicios C1
+  - nominative absolute weather permitting
+  - with noun participle inglés
+  - having participle clauses C1
+  - vocabulario desastres naturales riesgo
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-23-desastres-naturales-riesgo'
 image: /blog/curso-c1/unit-23/natural-disasters-risk-map.png
 alt: "Construcciones absolutas y cláusulas de participio aplicadas a los desastres naturales y el riesgo en inglés C1"

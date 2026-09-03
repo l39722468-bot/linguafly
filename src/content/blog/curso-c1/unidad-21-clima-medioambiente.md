@@ -15,6 +15,11 @@ keywords:
   - net zero decarbonisation inglés C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - condicionales avanzados ejercicios C1
+  - had we were it not for
+  - hedging lenguaje académico ejemplos
+  - vocabulario clima medio ambiente C1
+  - net zero decarbonisation en inglés
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-21-clima-medioambiente'
 image: /blog/curso-c1/unit-21/climate-environment-map.png
 alt: "Condicionales avanzados y hedging aplicados al clima y el medio ambiente en inglés C1"

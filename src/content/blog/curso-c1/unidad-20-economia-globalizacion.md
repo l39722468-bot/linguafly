@@ -15,6 +15,11 @@ keywords:
   - recession inflation supply chain inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - linkers causa resultado ejercicios C1
+  - owing to consequently thereby thus hence
+  - it is widely acknowledged that ejemplos
+  - vocabulario economía globalización C1
+  - recession inflation supply chain inglés
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-20-economia-globalizacion'
 image: /blog/curso-c1/unit-20/economy-globalisation-map.png
 alt: "Linkers de causa-resultado y estructuras con it aplicados a la economía y la globalización en inglés C1"

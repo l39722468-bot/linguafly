@@ -15,6 +15,11 @@ keywords:
   - crimen y justicia inglés avanzado
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - distancing allegedly reportedly ejercicios
+  - must have can't have might have
+  - modales deducción pasado C1
+  - vocabulario crimen justicia inglés
+  - lenguaje legal avanzado en inglés
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-19-crimen-justicia'
 image: /blog/curso-c1/unit-19/crime-justice-map.png
 alt: "Distancing y modales de deducción aplicados al crimen y la justicia en inglés C1"

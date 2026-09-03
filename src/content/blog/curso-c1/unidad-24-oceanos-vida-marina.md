@@ -15,6 +15,11 @@ keywords:
   - overfishing acidification bycatch inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - comparativas avanzadas ejercicios C1
+  - the more the more explicación
+  - whereas conversely on the other hand
+  - contraste avanzado inglés C1
+  - vocabulario océanos vida marina C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-24-oceanos-vida-marina'
 image: /blog/curso-c1/unit-24/oceans-marine-life-map.png
 alt: "Comparativas y contraste avanzados aplicados a los océanos y la vida marina en inglés C1"
