@@ -12,6 +12,11 @@ keywords:
   - 'First Conditional en Inglés: Usos Reales'
   - first conditional ingles
   - ejercicios de inglés gratis
+  - first conditional en inglés con ejemplos y ejercicios
+  - cómo usar el primer condicional en inglés
+  - first conditional ejercicios gratis con soluciones
+  - first conditional para conversaciones y advertencias
+  - primer condicional inglés para niveles A2 B2
 author: focus-english-team
 date: '2026-02-07'
 updatedDate: '2026-08-31'

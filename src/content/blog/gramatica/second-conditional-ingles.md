@@ -14,6 +14,11 @@ keywords:
   - second conditional ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - second conditional en inglés con ejemplos
+  - cómo usar if I were you en inglés
+  - ejercicios gratis de second conditional
+  - segundo condicional inglés para dar consejos
+  - second conditional para niveles B1 B2
 author: focus-english-team
 date: '2026-02-10'
 updatedDate: '2026-08-31'

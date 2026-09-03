@@ -12,6 +12,11 @@ keywords:
   - Pronunciación en Inglés
   - pronunciacion ingles guia completa
   - ejercicios de inglés gratis
+  - cómo mejorar la pronunciación en inglés gratis
+  - guía de pronunciación inglesa para hispanohablantes
+  - sonidos del inglés y fonemas con ejemplos
+  - ejercicios gratuitos de pronunciación desde cero
+  - cómo mejorar acento entonación y word stress
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-08-31'
