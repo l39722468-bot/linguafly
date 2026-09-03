@@ -14,6 +14,11 @@ keywords:
   - Los Mejores Libros para Aprender
   - mejores libros aprender ingles
   - curso inglés gratis online
+  - mejores libros para aprender inglés gratis
+  - libros de inglés recomendados por nivel A1 B2
+  - mejores libros de gramática inglesa para autodidactas
+  - lecturas graduadas en inglés gratis para principiantes
+  - libros para preparar exámenes de inglés por nivel
 faqs:
   - question: ¿Es mejor estudiar con libros físicos o digitales para aprender inglés?
     answer: >-

@@ -12,6 +12,11 @@ excerpt: >-
 keywords:
   - 'Slang Americano: 70 Expresiones'
   - slang americano
+  - slang americano y expresiones coloquiales gratis
+  - expresiones de Estados Unidos usadas en redes sociales
+  - vocabulario informal americano para conversaciones
+  - palabras de slang inglés americano con ejemplos
+  - expresiones Gen Z en inglés americano 2026
 author: focus-english-team
 date: '2026-03-05'
 updatedDate: '2026-08-31'

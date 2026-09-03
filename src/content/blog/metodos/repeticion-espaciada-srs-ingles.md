@@ -14,6 +14,11 @@ keywords:
   - Repetición Espaciada para Aprender
   - repetición espaciada inglés
   - curso inglés gratis online
+  - repetición espaciada para aprender inglés gratis
+  - cómo usar SRS para memorizar vocabulario inglés
+  - mejores apps gratuitas de repetición espaciada
+  - curva del olvido y vocabulario inglés
+  - método de tarjetas para aprender inglés desde cero
 faqs:
   - question: '¿Qué es exactamente la repetición espaciada?'
     answer: >-

@@ -14,6 +14,11 @@ keywords:
   - Las Mejores Películas y Series
   - mejores peliculas series ingles
   - curso inglés gratis online
+  - mejores películas para aprender inglés según nivel
+  - series en inglés para aprender inglés gratis
+  - cómo aprender inglés viendo series con subtítulos
+  - películas en versión original para practicar listening
+  - películas y series en inglés para niveles A2 B1 B2
 faqs:
   - question: ¿Es efectivo aprender inglés viendo series?
     answer: >-
