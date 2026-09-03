@@ -13,6 +13,11 @@ keywords:
   - 'Nivel C1 de Inglés: Qué Significa'
   - nivel c1 ingles que es
   - curso inglés gratis online
+  - cómo alcanzar el nivel C1 de inglés gratis
+  - qué se necesita para aprobar el CAE C1
+  - nivel C1 de inglés para trabajar y estudiar
+  - diferencias entre B2 y C1 de inglés
+  - curso gratuito de inglés avanzado C1
 canonical: 'https://linguafly.app/blog/metodos/ingles-c1'
 related_routes:
   - ingles-b2

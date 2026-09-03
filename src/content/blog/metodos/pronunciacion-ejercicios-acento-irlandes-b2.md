@@ -9,6 +9,11 @@ excerpt: >-
 keywords:
   - Ejercicios de Pronunciación
   - ejercicios pronunciacion acento irlandes
+  - ejercicios gratis de pronunciación del inglés irlandés
+  - cómo practicar el acento irlandés en inglés
+  - minimal pairs para pronunciación irlandesa B2
+  - ejercicios de ritmo y entonación Hiberno English
+  - pronunciación del inglés irlandés para hispanohablantes
 author: focus-english-team
 date: '2026-03-29'
 updatedDate: '2026-08-31'

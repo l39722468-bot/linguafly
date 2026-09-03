@@ -12,6 +12,11 @@ readTime: 5 min
 keywords:
   - 'Curso de Inglés B2: Prepárate'
   - curso inglés b2
+  - curso de inglés B2 gratis online
+  - cómo alcanzar el nivel B2 de inglés desde B1
+  - preparación gratuita para First Certificate FCE
+  - inglés B2 para trabajar y estudiar en el extranjero
+  - ejercicios gratis de inglés B2 con soluciones
 canonical: 'https://linguafly.app/blog/metodos/ingles-b2'
 related_routes:
   - ingles-b1
