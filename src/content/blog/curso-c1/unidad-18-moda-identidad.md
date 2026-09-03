@@ -15,6 +15,11 @@ keywords:
   - fast fashion crítica social inglés
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - inversión con adverbios negativos C1
+  - not only but also inversión
+  - only by inversión condicional
+  - énfasis y crítica social inglés
+  - vocabulario moda identidad fast fashion
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-18-moda-identidad'
 image: /blog/curso-c1/unit-18/fashion-identity-map.png
 alt: "Inversión para énfasis y crítica social de la moda en inglés C1"

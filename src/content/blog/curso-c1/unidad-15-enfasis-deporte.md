@@ -15,6 +15,11 @@ keywords:
   - mental resilience flow sport
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - emphatic do did ejercicios C1
+  - fronting e inversión enfática inglés
+  - only did inversión explicación
+  - estructuras de énfasis inglés avanzado
+  - vocabulario deporte rendimiento C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-15-enfasis-deporte'
 image: /blog/curso-c1/unit-15/emphasis-sport-performance-map.png
 alt: "Do enfático y fronting en inglés C1 con vocabulario de deporte y rendimiento"

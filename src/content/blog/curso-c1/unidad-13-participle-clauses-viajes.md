@@ -15,6 +15,11 @@ keywords:
   - exhausted though they were C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - participle clauses ejercicios C1 resueltos
+  - having travelled reduced clauses
+  - participle clauses tiempo causa concesión
+  - exhausted though they were explicación
+  - vocabulario viajes intercambio cultural C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-13-participle-clauses-viajes'
 image: /blog/curso-c1/unit-13/participle-clauses-travel-map.png
 alt: "Participle clauses en inglés C1 con vocabulario de viajes e intercambio cultural"

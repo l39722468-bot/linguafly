@@ -15,6 +15,11 @@ keywords:
   - food culture review writing
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - subjuntivo mandativo ejercicios C1
+  - recommend that essential that be
+  - require that subjunctive inglés
+  - estructuras mandativas inglés avanzado
+  - vocabulario gastronomía cultura C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-14-subjuntivo-gastronomia'
 image: /blog/curso-c1/unit-14/subjunctive-food-culture-map.png
 alt: "Subjuntivo mandativo en inglés C1 con vocabulario de gastronomía y cultura"

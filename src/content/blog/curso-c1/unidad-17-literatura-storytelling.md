@@ -15,6 +15,11 @@ keywords:
   - vocabulario literatura inglés C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - tiempos narrativos avanzados ejercicios
+  - past perfect continuous storytelling
+  - free indirect speech explicación
+  - would para hábitos pasados literatura
+  - vocabulario literario inglés C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-17-literatura-storytelling'
 image: /blog/curso-c1/unit-17/literature-storytelling-map.png
 alt: "Tiempos narrativos avanzados y estilo indirecto libre en inglés C1 con vocabulario literario"

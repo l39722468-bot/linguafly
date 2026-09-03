@@ -15,6 +15,11 @@ keywords:
   - vocabulario música artes escénicas
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - advanced passive voice ejercicios C1
+  - have get something done diferencia
+  - passive reporting verbs explicación
+  - pasiva impersonal inglés avanzado
+  - vocabulario música artes escénicas C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-16-pasiva-musica'
 image: /blog/curso-c1/unit-16/advanced-passive-music-map.png
 alt: "Voz pasiva avanzada y causativas en inglés C1 con vocabulario musical"
