@@ -16,6 +16,11 @@ keywords:
   - yes i do no i don't
   - do the housework ejercicios
   - curso A1 Linguafly
+  - ejercicios presente simple don’t inglés A1
+  - cómo formar preguntas Do you
+  - respuestas Yes I do No I don’t
+  - vocabulario ocio y tareas domésticas inglés
+  - práctica Present Simple con soluciones A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-14-present-simple-dont-do-you-ejercicios-soluciones'
 image: /blog/curso-a1/unit-14/a1-unit14-dont.png
 alt: don't y Do you para ejercicios A1 Unidad 14

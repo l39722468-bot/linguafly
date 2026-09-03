@@ -16,6 +16,11 @@ keywords:
   - weekend weekdays ejercicios
   - what do you do on sunday
   - curso A1 Linguafly
+  - ejercicios días semana inglés A1 con respuestas
+  - cómo usar on con días en inglés
+  - vocabulario weekend y weekdays inglés
+  - preguntas sobre actividades semanales A1
+  - práctica What do you do on Sunday
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-12-dias-semana-ejercicios-soluciones'
 image: /blog/curso-a1/unit-12/a1-unit12-days.png
 alt: Días de la semana para ejercicios A1 Unidad 12
