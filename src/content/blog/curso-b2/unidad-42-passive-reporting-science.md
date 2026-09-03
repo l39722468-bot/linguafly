@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 42
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - passive reporting exercises B2
+  - it is said believed thought that
+  - is believed to be ejercicios
+  - pasiva impersonal en inglés B2
+  - vocabulario ciencia descubrimientos B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-42-passive-reporting-science'
 image: /blog/curso-b2/unit-42/passive-reporting-map.png
 alt: "Passive reporting B2 con ciencia y descubrimientos"

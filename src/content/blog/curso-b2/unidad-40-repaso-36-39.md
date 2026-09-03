@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 40
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - repaso used to auxiliares phrasal verbs
+  - ejercicios run set take turn work
+  - gramática módulo 4 B2 repaso
+  - phrasal verbs con ejercicios resueltos
+  - repaso unidades 36 a 39 B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-40-repaso-36-39'
 image: /blog/curso-b2/unit-40/review-map.png
 alt: "Repaso B2 unidades 36 a 39 used to auxiliares y phrasal verbs"
@@ -48,4 +53,3 @@ excerpt: >-
 # Parte II — Ejercicios
 
 Este articulo incluye tambien los **ejercicios de la Unidad 40** con soluciones comentadas. Haz cada bloque **sin mirar** la solucion. Luego comprueba y lee la explicacion.
-

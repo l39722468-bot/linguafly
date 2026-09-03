@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 41
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - gerundios e infinitivos ejercicios B2
+  - remember stop try gerund infinitive
+  - object infinitive explicación inglés
+  - cambios de significado gerundio infinitivo
+  - vocabulario sistemas educativos B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-41-gerunds-infinitives-education'
 image: /blog/curso-b2/unit-41/gerunds-infinitives-map.png
 alt: "Gerundios e infinitivos B2 en educación y aprendizaje"

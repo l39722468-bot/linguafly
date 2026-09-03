@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 38
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - phrasal verbs RUN SET TAKE ejercicios
+  - run into run out of run through
+  - set up set off set aside diferencias
+  - take up take off take on ejemplos
+  - phrasal verbs ocio hobbies inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-38-phrasal-verbs-5-run-set-take-leisure'
 image: /blog/curso-b2/unit-38/run-set-take-map.png
 alt: "Phrasal verbs RUN SET TAKE B2 con vocabulario de ocio"
@@ -45,4 +50,3 @@ excerpt: >-
 # Parte II — Ejercicios
 
 Este articulo incluye tambien los **ejercicios de la Unidad 38** con soluciones comentadas. Haz cada bloque **sin mirar** la solucion. Luego comprueba y lee la explicacion.
-

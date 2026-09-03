@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 39
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - phrasal verbs TURN WORK ejercicios B2
+  - turn up turn down turn out turn into
+  - work out work on work through
+  - workout y work out diferencia
+  - vocabulario deporte competición inglés
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-39-phrasal-verbs-6-turn-work-sport'
 image: /blog/curso-b2/unit-39/turn-work-map.png
 alt: "Phrasal verbs TURN WORK B2 con vocabulario deportivo"
@@ -45,4 +50,3 @@ excerpt: >-
 # Parte II — Ejercicios
 
 Este articulo incluye tambien los **ejercicios de la Unidad 39** con soluciones comentadas. Haz cada bloque **sin mirar** la solucion. Luego comprueba y lee la explicacion.
-

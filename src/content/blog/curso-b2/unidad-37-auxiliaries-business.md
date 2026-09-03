@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 37
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - auxiliares do does did énfasis ejercicios
+  - short answers en inglés B2
+  - respuestas cortas con have is will
+  - cómo usar do para enfatizar
+  - vocabulario negocios collocations B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-37-auxiliaries-business'
 image: /blog/curso-b2/unit-37/auxiliaries-map.png
 alt: "Auxiliares B2 para énfasis y respuestas cortas con negocios"
@@ -45,4 +50,3 @@ excerpt: >-
 # Parte II — Ejercicios
 
 Este articulo incluye tambien los **ejercicios de la Unidad 37** con soluciones comentadas. Haz cada bloque **sin mirar** la solucion. Luego comprueba y lee la explicacion.
-
