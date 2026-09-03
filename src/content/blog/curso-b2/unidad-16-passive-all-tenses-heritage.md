@@ -15,6 +15,11 @@ keywords:
   - inglés B2 unidad 16
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - voz pasiva todos los tiempos B2
+  - passive voice ejercicios con soluciones
+  - present past perfect passive inglés
+  - future continuous passive B2
+  - vocabulario historia patrimonio inglés
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-16-passive-all-tenses-heritage'
 image: /blog/curso-b2/unit-16/passive-all-tenses.png
 alt: "Passive all tenses heritage B2"

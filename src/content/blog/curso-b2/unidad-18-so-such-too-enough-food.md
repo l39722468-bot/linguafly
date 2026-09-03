@@ -15,6 +15,11 @@ keywords:
   - inglés B2 unidad 18
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - so such too enough ejercicios B2
+  - diferencia so y such en inglés
+  - diferencia too y enough ejercicios
+  - estructuras so such too enough
+  - vocabulario cocina recetas inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-18-so-such-too-enough-food'
 image: /blog/curso-b2/unit-18/so-such-too-enough.png
 alt: "So such too enough cooking B2"

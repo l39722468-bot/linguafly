@@ -14,6 +14,11 @@ keywords:
   - inglés B2 unidad 13
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - must have to need to ejercicios B2
+  - diferencia needn't y don't have to
+  - modales de obligación en inglés B2
+  - vocabulario dinero inglés nivel B2
+  - ejercicios must have to con soluciones
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-13-modals-money'
 image: /blog/curso-b2/unit-13/modals-obligation.png
 alt: 'Modals obligation money B2'

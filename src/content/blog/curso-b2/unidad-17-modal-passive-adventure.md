@@ -15,6 +15,11 @@ keywords:
   - inglés B2 unidad 17
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - modal passive ejercicios B2 resueltos
+  - must be done should be done
+  - have something done explicación B2
+  - causative have ejercicios inglés
+  - vocabulario aventura deportes extremos B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-17-modal-passive-adventure'
 image: /blog/curso-b2/unit-17/modal-passive-have-done.png
 alt: "Modal passive adventure B2"

@@ -14,6 +14,11 @@ keywords:
   - inglés B2 unidad 14
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - must have might have can't have ejercicios
+  - modales de deducción pasado B2
+  - cómo expresar probabilidad en inglés
+  - vocabulario negocios inglés B2
+  - ejercicios modal deduction con soluciones
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-14-modal-deduction-business'
 image: /blog/curso-b2/unit-14/modal-deduction.png
 alt: 'Modal deduction business B2'

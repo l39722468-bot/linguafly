@@ -14,6 +14,11 @@ keywords:
   - inglés B2 unidad 15
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - repaso relative clauses y modales B2
+  - ejercicios reduced relative clauses B2
+  - modales obligación y deducción repaso
+  - gramática módulo 2 inglés B2
+  - repaso unidades 11 a 14 B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-15-repaso-11-14'
 image: /blog/curso-b2/unit-15/review-map.png
 alt: 'Repaso B2 unidades 11 a 14'
