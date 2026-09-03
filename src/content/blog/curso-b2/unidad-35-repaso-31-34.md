@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 35
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - repaso articles quantifiers verb patterns
+  - ejercicios regret remember forget B2
+  - state verbs y artículos repaso
+  - gramática módulo 4 inglés B2
+  - repaso unidades 31 a 34 B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-35-repaso-31-34'
 image: /blog/curso-b2/unit-35/review-map.png
 alt: "Repaso B2 unidades 31 a 34 artículos cuantificadores verb patterns state verbs"

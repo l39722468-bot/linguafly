@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 36
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - used to would ejercicios B2 resueltos
+  - diferencia used to y would
+  - hábitos y estados pasados inglés
+  - there used to be preguntas negativas
+  - vocabulario cultura patrimonio B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-36-used-to-would-culture'
 image: /blog/curso-b2/unit-36/used-to-would-map.png
 alt: "Used to y would para hábitos pasados B2 con cultura"

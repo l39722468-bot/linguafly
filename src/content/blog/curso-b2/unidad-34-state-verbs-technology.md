@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 34
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - state verbs ejercicios B2 con soluciones
+  - stative verbs present simple continuous
+  - verbos que no usan continuous inglés
+  - like know believe want ejemplos
+  - vocabulario tecnología inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-34-state-verbs-technology'
 image: /blog/curso-b2/unit-34/state-verbs-map.png
 alt: "State verbs like know believe want B2 con tecnología"

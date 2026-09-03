@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 32
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - quantifiers all most each every ejercicios
+  - diferencia each y every en inglés
+  - all most of the explicación B2
+  - both concordancia ejercicios inglés
+  - vocabulario medio ambiente B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-32-quantifiers-environment'
 image: /blog/curso-b2/unit-32/quantifiers-map.png
 alt: "Cuantificadores all most each every both B2 con medio ambiente"

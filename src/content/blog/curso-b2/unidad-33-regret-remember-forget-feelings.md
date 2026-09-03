@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 33
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - regret remember forget ejercicios B2
+  - remember doing remember to do diferencia
+  - forget doing forget to do ejemplos
+  - regret doing regret to inform
+  - gerundio o infinitivo después de verbos
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-33-regret-remember-forget-feelings'
 image: /blog/curso-b2/unit-33/verb-patterns-map.png
 alt: "Regret remember forget gerundio infinitivo B2 con sentimientos"

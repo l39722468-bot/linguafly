@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 31
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - artículos a an the ejercicios B2
+  - zero article instituciones en inglés
+  - at university vs at the university
+  - cuándo usar the en inglés B2
+  - vocabulario educación inglés avanzado
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-31-articles-advanced-education'
 image: /blog/curso-b2/unit-31/articles-map.png
 alt: "Artículos avanzados a an the zero article B2 con educación"
