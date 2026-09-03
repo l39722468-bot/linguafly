@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios modales B1 con soluciones
+  - must might can't deducción ejercicios
+  - had better would rather ejercicios
+  - need needn't ejercicios inglés B1
+  - repaso verbos modales nivel B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-53-review-modals-ejercicios-soluciones'
 image: /blog/curso-b1/unit-53/modals-map.png
 alt: Review Modals — ejercicios B1 Unidad 53

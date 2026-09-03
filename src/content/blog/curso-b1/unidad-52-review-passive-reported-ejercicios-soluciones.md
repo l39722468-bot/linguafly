@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios passive voice B1 con soluciones
+  - reported speech ejercicios B1 resueltos
+  - reported statements questions commands
+  - repaso voz pasiva y estilo indirecto
+  - ejercicios modal passive en inglés
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-52-review-passive-reported-ejercicios-soluciones'
 image: /blog/curso-b1/unit-52/passive-reported-map.png
 alt: Passive & Reported — ejercicios B1 Unidad 52

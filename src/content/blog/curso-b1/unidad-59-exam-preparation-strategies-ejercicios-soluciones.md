@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios preparación examen PET B1
+  - estrategias examen Cambridge B1
+  - practicar reading listening writing B1
+  - simulacro examen inglés B1 con soluciones
+  - cómo preparar el examen B1 inglés
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-59-exam-preparation-strategies-ejercicios-soluciones'
 image: /blog/curso-b1/unit-59/exam-strategies-map.png
 alt: Exam Preparation — ejercicios B1 Unidad 59

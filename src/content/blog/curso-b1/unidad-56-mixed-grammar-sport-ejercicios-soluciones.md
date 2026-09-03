@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - ejercicios gramática mixta B1 con soluciones
+  - vocabulario deporte en inglés B1
+  - conditionals passive modals ejercicios
+  - practicar inglés hablando de deportes
+  - mixed grammar practice nivel B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-56-mixed-grammar-sport-ejercicios-soluciones'
 image: /blog/curso-b1/unit-56/mixed-grammar-map.png
 alt: "Mixed Grammar: Sport — ejercicios B1 Unidad 56"

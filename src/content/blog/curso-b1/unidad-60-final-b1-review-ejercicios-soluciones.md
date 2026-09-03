@@ -16,6 +16,11 @@ keywords:
   - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - repaso completo gramática inglesa B1
+  - ejercicios curso B1 completo con soluciones
+  - revisión final nivel B1 inglés
+  - práctica global inglés B1 gratis
+  - preparación examen B1 gramática
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-60-final-b1-review-ejercicios-soluciones'
 image: /blog/curso-b1/unit-60/final-review-map.png
 alt: Final B1 Review — ejercicios B1 Unidad 60
