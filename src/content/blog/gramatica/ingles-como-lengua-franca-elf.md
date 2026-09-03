@@ -14,6 +14,11 @@ keywords:
   - Inglés como Lengua Franca (ELF)
   - ELF fonologia
   - ejercicios de inglés gratis
+  - qué es el inglés como lengua franca
+  - English as a Lingua Franca explicado
+  - pronunciación ELF para comunicarse internacionalmente
+  - ejercicios gratis de inglés internacional
+  - diferencias entre inglés nativo y ELF
 faqs:
   - question: ¿Qué es el inglés como lengua franca (ELF)?
     answer: >-

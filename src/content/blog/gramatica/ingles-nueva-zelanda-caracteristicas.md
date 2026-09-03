@@ -14,6 +14,11 @@ keywords:
   - Inglés de Nueva Zelanda
   - ingles nueva zelanda caracteristicas
   - ejercicios de inglés gratis
+  - características del inglés neozelandés
+  - cómo entender el acento de Nueva Zelanda
+  - diferencias entre inglés neozelandés y australiano
+  - vocabulario kiwi English con ejemplos
+  - ejercicios gratis de listening neozelandés
 faqs:
   - question: ¿El inglés de Nueva Zelanda es igual al australiano?
     answer: >-

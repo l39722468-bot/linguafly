@@ -15,6 +15,11 @@ keywords:
   - diferencias ingles escoces ingles britanico
   - ejercicios de inglés gratis
   - gramática inglesa gratis
+  - cómo entender el acento escocés en inglés
+  - diferencias entre Scottish English y British English
+  - pronunciación de la r en inglés escocés
+  - ejercicios gratis de listening con acento escocés
+  - vocabulario del inglés de Escocia con ejemplos
 faqs:
   - question: ¿El escocés y el inglés escocés son lo mismo?
     answer: >-
