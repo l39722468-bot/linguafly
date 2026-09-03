@@ -15,6 +15,11 @@ keywords:
   - it is widely argued that
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - it structures ejercicios C1
+  - it is widely argued that ejemplos
+  - conectores causa resultado inglés avanzado
+  - modales avanzados inglés C1
+  - vocabulario trabajo economía inglés C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-6-estructuras-it-economia'
 image: /blog/curso-c1/unit-6/it-structures-work-economy-map.png
 alt: "Estructuras con it, conectores y modales avanzados en inglés C1"

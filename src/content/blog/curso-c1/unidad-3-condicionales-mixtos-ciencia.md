@@ -15,6 +15,11 @@ keywords:
   - gramática inglesa avanzada C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - mixed conditionals ejercicios C1 resueltos
+  - if had would be explicación
+  - condicional pasado presente inglés avanzado
+  - condicional presente pasado C1
+  - vocabulario ciencia tecnología inglés C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-3-condicionales-mixtos-ciencia'
 image: /blog/curso-c1/unit-3/mixed-conditionals-science-map.png
 alt: "Condicionales mixtos en inglés C1 con vocabulario de ciencia y tecnología"

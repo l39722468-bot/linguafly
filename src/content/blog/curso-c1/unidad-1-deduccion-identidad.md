@@ -14,6 +14,11 @@ keywords:
   - vocabulario identidad inglés C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - must can't could might should have C1
+  - ejercicios modales deducción avanzado
+  - deducciones en pasado inglés C1
+  - cómo expresar probabilidad en inglés
+  - vocabulario identidad y sociedad C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-1-deduccion-identidad'
 image: /blog/curso-c1/unit-1/identity-and-self-image-map.png
 alt: "Modales de deducción en inglés C1 y vocabulario de identidad"

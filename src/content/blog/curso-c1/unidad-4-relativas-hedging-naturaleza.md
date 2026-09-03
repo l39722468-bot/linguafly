@@ -15,6 +15,11 @@ keywords:
   - vocabulario naturaleza inglés C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - relative clauses avanzadas ejercicios C1
+  - hedging language ejemplos inglés
+  - whose whereby wherein explicación
+  - reduced relative clauses C1 práctica
+  - vocabulario naturaleza mundo natural C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-4-relativas-hedging-naturaleza'
 image: /blog/curso-c1/unit-4/relative-clauses-natural-world-map.png
 alt: "Relative clauses avanzadas y hedging en inglés C1 sobre el mundo natural"

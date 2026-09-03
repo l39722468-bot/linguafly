@@ -15,6 +15,11 @@ keywords:
   - historic present inglés C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - narrative tenses ejercicios C1
+  - nominalisation en inglés avanzado
+  - past perfect continuous narración
+  - historic present ejemplos inglés
+  - vocabulario arte cine y cultura C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-5-tiempos-narrativos-arte'
 image: /blog/curso-c1/unit-5/narrative-tenses-arts-map.png
 alt: "Tiempos narrativos y nominalisation en inglés C1 sobre arte y cultura"

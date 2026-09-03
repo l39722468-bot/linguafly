@@ -15,6 +15,11 @@ keywords:
   - vocabulario comunicación inglés C1
   - curso de inglés C1 gratis
   - ejercicios inglés C1 gratis
+  - perfect aspect ejercicios C1
+  - present perfect simple continuous diferencia
+  - perfect infinitive explicación inglés
+  - tiempos perfectos gramática C1
+  - vocabulario comunicación inglés avanzado
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-2-aspecto-perfecto'
 image: /blog/curso-c1/unit-2/perfect-aspect-communication-map.png
 alt: "Aspecto perfecto en inglés C1: tiempos perfectos y comunicación"
