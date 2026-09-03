@@ -13,6 +13,11 @@ alt: Persona usando el móvil con la app Duolingo para aprender inglés mientras
 keywords:
   - 'Duolingo para Aprender Inglés: Review'
   - duolingo para aprender inglés
+  - Duolingo gratis para aprender inglés
+  - hasta qué nivel se llega con Duolingo gratis
+  - cómo combinar Duolingo con recursos gratuitos de inglés
+  - ventajas y limitaciones de Duolingo para principiantes
+  - aprender inglés gratis con Duolingo y práctica oral
 faqs:
   - question: '¿Duolingo es suficiente para aprender inglés desde cero?'
     answer: >-

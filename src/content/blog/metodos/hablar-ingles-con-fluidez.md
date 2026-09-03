@@ -12,6 +12,11 @@ excerpt: >-
 keywords:
   - 'Cómo Hablar Inglés con Fluidez: 10'
   - hablar ingles con fluidez
+  - cómo hablar inglés con fluidez gratis
+  - técnicas para hablar inglés sin miedo
+  - cómo practicar speaking en inglés desde casa
+  - ejercicios para ganar fluidez en inglés
+  - plan gratuito para hablar inglés todos los días
 author: focus-english-team
 date: '2026-03-04'
 updatedDate: '2026-08-31'

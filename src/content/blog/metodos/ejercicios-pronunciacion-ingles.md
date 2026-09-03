@@ -12,6 +12,11 @@ excerpt: >-
 keywords:
   - Ejercicios de Pronunciación en Inglés
   - ejercicios pronunciación inglés
+  - ejercicios de pronunciación en inglés gratis
+  - cómo mejorar la pronunciación inglesa desde casa
+  - ejercicios para pronunciar mejor inglés diariamente
+  - práctica de sonidos y entonación en inglés
+  - ejercicios de pronunciación inglesa para hispanohablantes
 author: focus-english-team
 date: '2026-02-19'
 updatedDate: '2026-08-31'
