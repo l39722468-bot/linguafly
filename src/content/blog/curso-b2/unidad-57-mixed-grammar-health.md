@@ -15,6 +15,11 @@ keywords:
   - inglés B2 unidad 57
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - ejercicios gramática mixta B2 salud
+  - conditionals passive modals health
+  - vocabulario bienestar sistema sanitario B2
+  - reported speech sobre salud inglés
+  - gramática inglesa salud y medicina
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-57-mixed-grammar-health'
 image: /blog/curso-b2/unit-57/mixed-grammar-health-map.png
 alt: "Gramática mixta B2 con vocabulario de salud y bienestar"

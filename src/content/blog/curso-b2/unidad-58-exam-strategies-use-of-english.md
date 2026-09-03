@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 58
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - Use of English B2 ejercicios resueltos
+  - estrategias Cambridge B2 First cloze
+  - word formation ejercicios B2
+  - key word transformations consejos
+  - open cloze examen B2 práctica
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-58-exam-strategies-use-of-english'
 image: /blog/curso-b2/unit-58/exam-use-of-english-map.png
 alt: "Estrategias de examen B2 para Use of English: cloze, word formation y key word transformations"

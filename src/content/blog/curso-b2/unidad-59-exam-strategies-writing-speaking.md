@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 59
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - Writing Speaking B2 ejercicios
+  - Cambridge B2 First essay review
+  - formal letter examen B2 ejemplos
+  - estrategias speaking B2 presentación
+  - cómo preparar writing examen B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-59-exam-strategies-writing-speaking'
 image: /blog/curso-b2/unit-59/exam-writing-speaking-map.png
 alt: "Estrategias de examen B2 para Writing y Speaking: essays, reviews y formal letters"

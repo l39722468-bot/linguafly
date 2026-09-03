@@ -15,6 +15,11 @@ keywords:
   - inglés B2 unidad 56
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - ejercicios gramática mixta B2 tecnología
+  - conditionals passive modals reported speech
+  - gramática inglesa inteligencia artificial B2
+  - linkers e inversión ejercicios B2
+  - vocabulario innovación digital inglés
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-56-mixed-grammar-technology'
 image: /blog/curso-b2/unit-56/mixed-grammar-tech-map.png
 alt: "Gramática mixta B2 con vocabulario de tecnología e innovación digital"

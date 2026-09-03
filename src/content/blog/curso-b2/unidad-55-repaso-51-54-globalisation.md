@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 55
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - repaso wish conditional passive modals
+  - ejercicios linkers collocations phrasal verbs
+  - gramática B2 globalización ejercicios
+  - repaso unidades 51 a 54 B2
+  - vocabulario globalización en inglés
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-55-repaso-51-54-globalisation'
 image: /blog/curso-b2/unit-55/review-51-54-map.png
 alt: "Repaso B2 de gramática y vocabulario de las unidades 51 a 54 con contexto de globalización"

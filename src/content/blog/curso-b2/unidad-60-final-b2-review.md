@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 60
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - repaso completo gramática B2 con ejercicios
+  - preparación examen Cambridge B2 First
+  - simulacro final B2 resuelto
+  - vocabulario y gramática B2 repaso
+  - checklist examen inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-60-final-b2-review'
 image: /blog/curso-b2/unit-60/final-b2-review-map.png
 alt: "Repaso final B2: preparación completa para el examen Cambridge con gramática y vocabulario"
