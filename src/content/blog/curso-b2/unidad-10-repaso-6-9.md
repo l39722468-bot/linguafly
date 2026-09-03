@@ -15,6 +15,11 @@ keywords:
   - ingles B2 unidad 10
   - curso ingles B2 gratis
   - ejercicios ingles B2 gratis
+  - repaso wish would rather conditionals B2
+  - ejercicios participle clauses B2
+  - gramática módulo 1 B2 repaso
+  - vocabulario feelings family travel environment
+  - repaso unidades 6 a 9 inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-10-repaso-6-9'
 image: /blog/curso-b2/unit-10/review-map.png
 alt: 'Mapa de repaso de las unidades 6 a 9 del curso B2'

@@ -14,6 +14,11 @@ keywords:
   - inglés B2 unidad 12
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - reduced relative clauses ejercicios B2
+  - cómo reducir relative clauses en inglés
+  - participle clauses ing ed B2
+  - relative reduction con ejemplos
+  - vocabulario entretenimiento inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-12-relative-clauses-reduction'
 image: /blog/curso-b2/unit-12/reduced-relatives.png
 alt: 'Reduced relative clauses B2'

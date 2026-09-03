@@ -16,6 +16,11 @@ keywords:
   - ingles B2 unidad 9
   - curso ingles B2 gratis
   - ejercicios ingles B2 gratis
+  - participle clauses ejercicios B2
+  - having past participle explicación
+  - diferencia ing y ed participle clauses
+  - reduced relative clauses ejercicios
+  - vocabulario medio ambiente inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-9-participle-clauses-environment'
 image: /blog/curso-b2/unit-9/participle-clauses.png
 alt: 'Esquema de participle clauses y vocabulario de environment en ingles B2'

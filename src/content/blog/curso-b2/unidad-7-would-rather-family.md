@@ -16,6 +16,11 @@ keywords:
   - ingles B2 unidad 7
   - curso ingles B2 gratis
   - ejercicios ingles B2 gratis
+  - would rather would prefer ejercicios B2
+  - would rather subject past explicación
+  - diferencia would rather y would prefer
+  - it's time past simple ejercicios
+  - vocabulario familia inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-7-would-rather-family'
 image: /blog/curso-b2/unit-7/would-rather-prefer.png
 alt: 'Esquema de would rather, would prefer, it's time y vocabulario de family en ingles B2'

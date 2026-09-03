@@ -15,6 +15,11 @@ keywords:
   - inglés B2 unidad 11
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - relative clauses ejercicios B2 con soluciones
+  - defining y non-defining relatives
+  - who which that whose where B2
+  - relative clauses cultura inglés
+  - diferencia defining non-defining clauses
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-11-relative-clauses-culture'
 image: /blog/curso-b2/unit-11/relative-clauses.png
 alt: 'Relative clauses culture B2'

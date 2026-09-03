@@ -16,6 +16,11 @@ keywords:
   - ingles B2 unidad 8
   - curso ingles B2 gratis
   - ejercicios ingles B2 gratis
+  - mixed conditionals ejercicios B2 resueltos
+  - if past perfect would present
+  - conditional pasado presente inglés
+  - conditional presente pasado ejercicios
+  - vocabulario viajes inglés nivel B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-8-mixed-conditionals-travel'
 image: /blog/curso-b2/unit-8/mixed-conditionals.png
 alt: 'Esquema de mixed conditionals y vocabulario de travel en ingles B2'
