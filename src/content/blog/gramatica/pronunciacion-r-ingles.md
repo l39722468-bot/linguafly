@@ -13,6 +13,11 @@ keywords:
   - 'La R en Inglés: Por Qué No Funciona'
   - pronunciación r inglés
   - ejercicios de inglés gratis
+  - cómo pronunciar la r en inglés americano y británico
+  - ejercicios gratis para pronunciar la r inglesa
+  - diferencia entre la r española y la r inglesa
+  - pronunciación de la r inglesa con IPA
+  - cómo mejorar el sonido r en inglés para hispanohablantes
 author: focus-english-team
 date: '2026-02-22'
 updatedDate: '2026-08-31'

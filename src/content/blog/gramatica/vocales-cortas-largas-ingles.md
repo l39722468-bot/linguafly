@@ -12,6 +12,11 @@ keywords:
   - Vocales Cortas y Largas en Inglés
   - vocales cortas inglés
   - ejercicios de inglés gratis
+  - diferencia entre vocales cortas y largas en inglés
+  - ejercicios gratis de vocales inglesas con ejemplos
+  - pares mínimos de vocales cortas y largas
+  - cómo distinguir vocales largas y cortas al escuchar
+  - pronunciación de vocales inglesas para hispanohablantes
 author: focus-english-team
 date: '2026-02-08'
 updatedDate: '2026-08-31'

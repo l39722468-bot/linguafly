@@ -12,6 +12,11 @@ keywords:
   - 'Past Perfect en Inglés: Cuándo Usarlo'
   - past perfect ingles
   - ejercicios de inglés gratis
+  - cómo usar el past perfect en inglés con ejemplos
+  - past perfect ejercicios gratis con soluciones
+  - diferencia entre past perfect y past simple
+  - past perfect para hablar de acciones pasadas
+  - guía gratuita de past perfect B2 C1
 excerpt: >-
   El Past Perfect (had + participio) expresa algo que ocurrió antes que otra cosa en el pasado. Es el tiempo que aclara el orden de los eventos cuando dos cosas pasaron en momentos distintos del pasado.
 faqs:
