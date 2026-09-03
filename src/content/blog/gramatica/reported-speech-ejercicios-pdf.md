@@ -14,6 +14,11 @@ keywords:
   - reporting verbs exercises pdf
   - reported speech c1 exercises pdf
   - gramática inglesa gratis
+  - ejercicios de reported speech gratis con soluciones
+  - PDF de estilo indirecto en inglés B1 B2 C1 C2
+  - reported speech exercises con respuestas explicadas
+  - ejercicios de reporting verbs para exámenes Cambridge
+  - descargar ejercicios gratuitos de reported speech
 canonical: 'https://linguafly.app/blog/gramatica/reported-speech-ejercicios-pdf'
 alt: Ejercicios de reported speech en formato PDF
 downloadPdf: true

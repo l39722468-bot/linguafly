@@ -13,6 +13,11 @@ keywords:
   - Guia Maestra de Reported Speech
   - reported speech
   - ejercicios de inglés gratis
+  - reported speech en inglés explicado con ejemplos
+  - reglas del estilo indirecto en inglés B2 C1
+  - reporting verbs en inglés con ejercicios gratis
+  - cómo cambiar direct speech a reported speech
+  - guía gratuita de reported speech para Cambridge
 canonical: 'https://linguafly.app/blog/gramatica/guia-maestra-reported-speech'
 alt: Guía maestra sobre estilo indirecto en inglés
 faqs:

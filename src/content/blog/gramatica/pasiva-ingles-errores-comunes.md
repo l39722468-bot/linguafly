@@ -13,6 +13,11 @@ keywords:
   - Errores Comunes con la Voz Pasiva
   - errores pasiva ingles
   - ejercicios de inglés gratis
+  - errores frecuentes de la voz pasiva en inglés
+  - cómo corregir errores de pasiva en inglés
+  - verbos que no se pueden usar en pasiva inglesa
+  - ejercicios gratis de errores de voz pasiva
+  - participios irregulares en la voz pasiva
 author: focus-english-team
 date: '2026-03-01'
 updatedDate: '2026-08-31'

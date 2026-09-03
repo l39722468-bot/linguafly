@@ -13,6 +13,11 @@ keywords:
   - Ejercicios de Voz Pasiva en Inglés
   - ejercicios voz pasiva ingles soluciones
   - gramática inglesa gratis
+  - ejercicios de voz pasiva en inglés gratis con soluciones
+  - transformar frases activas a pasivas ejercicios
+  - práctica de voz pasiva inglesa por niveles
+  - ejercicios de pasiva en inglés para exámenes
+  - PDF gratuito de ejercicios de voz pasiva
 author: focus-english-team
 date: '2026-03-10'
 updatedDate: '2026-08-31'
