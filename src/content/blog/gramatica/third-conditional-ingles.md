@@ -18,6 +18,11 @@ keywords:
   - ejercicios gratis de third conditional con soluciones
   - diferencia entre second y third conditional
   - tercer condicional inglés para niveles B2 C1
+  - estructura del third conditional con ejemplos
+  - ejercicios gratis de tercer condicional resueltos
+  - third conditional para arrepentimientos en inglés
+  - cómo diferenciar second y third conditional
+  - tercer condicional para exámenes B2 C1
 author: focus-english-team
 date: '2026-02-13'
 updatedDate: '2026-08-31'

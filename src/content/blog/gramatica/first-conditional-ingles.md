@@ -17,6 +17,11 @@ keywords:
   - first conditional ejercicios gratis con soluciones
   - first conditional para conversaciones y advertencias
   - primer condicional inglés para niveles A2 B2
+  - first conditional con can may y might
+  - ejercicios gratis de first conditional A2 B2
+  - primer condicional para advertencias y negociaciones
+  - estructura if will del first conditional
+  - first conditional en conversaciones reales
 author: focus-english-team
 date: '2026-02-07'
 updatedDate: '2026-08-31'

@@ -19,6 +19,11 @@ keywords:
   - ejercicios gratis de second conditional
   - segundo condicional inglés para dar consejos
   - second conditional para niveles B1 B2
+  - second conditional ejercicios con soluciones
+  - cómo usar if I were you para dar consejos
+  - second conditional para situaciones hipotéticas
+  - diferencia entre was y were en second conditional
+  - segundo condicional inglés para conversación B1 B2
 author: focus-english-team
 date: '2026-02-10'
 updatedDate: '2026-08-31'
