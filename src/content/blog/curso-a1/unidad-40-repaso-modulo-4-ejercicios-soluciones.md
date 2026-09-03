@@ -15,6 +15,11 @@ keywords:
   - can play go do frecuencia
   - and but because permiso
   - curso A1 Linguafly
+  - ejercicios repaso módulo 4 inglés A1
+  - revisión can play go do inglés
+  - vocabulario hobbies y habilidades A1
+  - ejercicios permiso y planes en inglés
+  - examen repaso abilities interests A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-40-repaso-modulo-4-ejercicios-soluciones'
 image: /blog/curso-a1/unit-40/a1-unit40-module-map.png
 alt: Mapa repaso Módulo 4 A1 Unidad 40
