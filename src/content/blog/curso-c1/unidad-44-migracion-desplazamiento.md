@@ -18,6 +18,11 @@ keywords:
   - displacement vocabulary
   - asylum policy English
   - narrativas migratorias inglés
+  - migración y desplazamiento vocabulario C1
+  - migration narratives ejercicios inglés
+  - asylum policy términos en inglés
+  - escribir sobre migración en inglés
+  - lenguaje humanitario y normativo C1
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-44-migracion-desplazamiento'
 image: /blog/curso-c1/unit-44/migracion-desplazamiento.png
 alt: "Ilustración de personas en tránsito con maletas y un mapa de rutas para la Unidad 44 del curso C1 sobre migración y desplazamiento."

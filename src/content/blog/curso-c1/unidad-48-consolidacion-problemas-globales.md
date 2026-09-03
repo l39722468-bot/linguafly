@@ -18,6 +18,11 @@ keywords:
     discurso académico C1,
     integración temática inglés C1,
     argumentación C1 inglés,
+    repaso problemas globales inglés C1,
+    síntesis derechos humanos migración clima,
+    discurso académico ejercicios resueltos,
+    integrar temas globales en inglés,
+    argumentación interdisciplinar nivel C1,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-48-consolidacion-problemas-globales'
 image: /blog/curso-c1/unit-48/consolidacion-problemas-globales.png

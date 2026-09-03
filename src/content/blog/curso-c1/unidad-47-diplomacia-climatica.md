@@ -18,6 +18,11 @@ keywords:
     negociación ambiental C1,
     lenguaje diplomático C1,
     argumentación C1 inglés,
+    diplomacia climática ejercicios C1,
+    condicionales hipotéticos negociación,
+    vocabulario diplomacia ambiental inglés,
+    lenguaje diplomático para negociar,
+    argumentación sobre cambio climático C1,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-47-diplomacia-climatica'
 image: /blog/curso-c1/unit-47/diplomacia-climatica.png

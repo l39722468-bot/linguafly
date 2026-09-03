@@ -18,6 +18,11 @@ keywords:
     crítica prudente inglés C1,
     lenguaje diplomático C1,
     argumentación C1 inglés,
+    conflicto guerra paz vocabulario C1,
+    eufemismos bélicos en inglés,
+    crítica del discurso militar,
+    escribir sobre guerra y paz C1,
+    lenguaje diplomático ejercicios inglés,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-46-conflicto-guerra-paz'
 image: /blog/curso-c1/unit-46/conflicto-guerra-paz.png

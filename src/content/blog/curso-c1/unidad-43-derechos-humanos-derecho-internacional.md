@@ -17,6 +17,11 @@ keywords:
   - international law vocabulary
   - formal register English
   - mandato léxico jurídico inglés
+  - derechos humanos vocabulario C1
+  - international law ejercicios inglés
+  - verbos de obligación jurídica inglés
+  - registro formal derecho internacional
+  - textos legales en inglés avanzado
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-43-derechos-humanos-derecho-internacional'
 image: /blog/curso-c1/unit-43/derechos-humanos-derecho-internacional.png
 alt: "Ilustración de una balanza de la justicia sobre un documento con sellos internacionales para la Unidad 43 del curso C1."

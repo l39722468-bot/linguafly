@@ -18,6 +18,11 @@ keywords:
     lenguaje académico inglés C1,
     comparación matizada C1,
     argumentación C1 inglés,
+    desarrollo desigualdad ejercicios C1,
+    indicadores socioeconómicos vocabulario,
+    comparar datos con matices en inglés,
+    lenguaje académico sobre pobreza,
+    escribir sobre desarrollo sostenible C1,
   ]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-45-desarrollo-desigualdad'
 image: /blog/curso-c1/unit-45/desarrollo-desigualdad.png
