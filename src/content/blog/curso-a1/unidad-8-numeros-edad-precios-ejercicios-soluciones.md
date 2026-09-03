@@ -10,16 +10,16 @@ description: >-
   y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 8
-  - ejercicios números 20 100
-  - how old are you ejercicios
-  - how much is ejercicios
-  - precios en inglés ejercicios
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 8 con soluciones
+  - ejercicios números del 20 al 100 en inglés
+  - how old are you ejercicios con respuestas
+  - how much is ejercicios de precios
+  - precios en inglés ejercicios A1
+  - práctica de inglés A1 gratis con soluciones
   - ejercicios números y edad inglés A1
-  - cómo preguntar How old are you
-  - cómo decir precios en inglés básico
-  - números del 20 al 100 en inglés
+  - cómo preguntar How old are you ejercicios
+  - cómo decir precios en inglés básico práctica
+  - números del 20 al 100 en inglés ejercicios
   - práctica How much is it con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-8-numeros-edad-precios-ejercicios-soluciones'
 image: /blog/curso-a1/unit-8/a1-unit8-numbers.png

@@ -10,17 +10,17 @@ description: >-
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 9
-  - ejercicios profesiones inglés
-  - I am a teacher ejercicios
-  - where do you work ejercicios
-  - a an jobs ejercicios
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 9 con soluciones
+  - ejercicios profesiones en inglés para principiantes
+  - I am a teacher ejercicios con respuestas
+  - where do you work ejercicios A1
+  - a an jobs ejercicios en inglés
+  - práctica de inglés A1 gratis con soluciones
   - ejercicios profesiones inglés A1 con respuestas
-  - vocabulario trabajos y ocupaciones en inglés
-  - cómo decir I am a teacher en inglés
-  - preguntas Where do you work A1
-  - práctica a an jobs inglés básico
+  - vocabulario trabajos y ocupaciones en inglés práctica
+  - cómo decir I am a teacher ejercicios
+  - preguntas Where do you work A1 ejercicios
+  - práctica a an jobs inglés básico con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-9-profesiones-ejercicios-soluciones'
 image: /blog/curso-a1/unit-9/a1-unit9-jobs.png
 alt: Profesiones y lugares de trabajo para ejercicios A1 Unidad 9

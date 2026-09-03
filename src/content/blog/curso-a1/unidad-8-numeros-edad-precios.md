@@ -10,14 +10,16 @@ description: >-
   prácticos.
 readTime: 15 min
 keywords:
-  - números en inglés 20 a 100
-  - how old are you
-  - how much is en inglés
-  - precios en inglés A1
-  - número de teléfono en inglés
-  - inglés A1 unidad 8
-  - twenty thirty forty fifty
-  - I am twenty-five years old
+  - números del 20 al 100 en inglés A1
+  - cómo preguntar how old are you
+  - cómo usar how much is en inglés
+  - precios en inglés para principiantes
+  - cómo decir un número de teléfono en inglés
+  - inglés A1 unidad 8 números y precios
+  - twenty thirty forty fifty pronunciación
+  - cómo decir la edad en inglés ejemplos
+  - I am twenty-five years old significado
+  - números en inglés escritos y pronunciados
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-8-numeros-edad-precios'
 image: /blog/curso-a1/unit-8/a1-unit8-numbers.png
 alt: Tabla de números del 20 al 100 en inglés nivel A1

@@ -9,13 +9,15 @@ description: >-
   you work?. Guía Unidad 9 con ejemplos, audios y ejercicios prácticos.
 readTime: 15 min
 keywords:
-  - profesiones en inglés
-  - jobs and occupations A1
-  - I am a teacher
-  - where do you work
-  - a an profesiones inglés
-  - inglés A1 unidad 9
-  - what do you do
+  - profesiones en inglés para principiantes A1
+  - jobs and occupations vocabulary English A1
+  - cómo decir I am a teacher en inglés
+  - cómo preguntar where do you work
+  - a y an con profesiones en inglés
+  - inglés A1 unidad 9 trabajos
+  - cómo responder what do you do
+  - vocabulario de trabajos y ocupaciones inglés
+  - lugares de trabajo en inglés básico
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-9-profesiones-ocupaciones'
 image: /blog/curso-a1/unit-9/a1-unit9-jobs.png
 alt: Tabla de profesiones y lugares de trabajo en inglés nivel A1

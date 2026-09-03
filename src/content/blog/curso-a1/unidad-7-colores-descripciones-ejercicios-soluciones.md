@@ -10,17 +10,17 @@ description: >-
   Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 7
-  - ejercicios colores inglés
-  - descripciones físicas ejercicios
-  - have got ejercicios
-  - tall short long hair
-  - curso A1 Linguafly
+  - ejercicios de inglés A1 unidad 7 con soluciones
+  - ejercicios de colores en inglés
+  - ejercicios descripciones físicas en inglés
+  - have got ejercicios A1 con respuestas
+  - tall short long hair ejercicios
+  - práctica de inglés A1 gratis con soluciones
   - ejercicios colores inglés A1 con soluciones
-  - cómo describir personas en inglés básico
-  - vocabulario partes del cuerpo y pelo inglés
+  - cómo describir personas en inglés ejercicios
+  - partes del cuerpo y pelo inglés práctica
   - have got para descripciones físicas A1
-  - práctica tall short long hair inglés
+  - práctica tall short long hair con soluciones
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-7-colores-descripciones-ejercicios-soluciones'
 image: /blog/curso-a1/unit-7/a1-unit7-colors.png
 alt: Colores básicos para ejercicios A1 Unidad 7
