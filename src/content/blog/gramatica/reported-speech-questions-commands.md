@@ -13,6 +13,11 @@ keywords:
   - 'Reported Speech: Preguntas, Órdenes'
   - reported speech
   - ejercicios de inglés gratis
+  - cómo reportar preguntas en estilo indirecto inglés
+  - reported speech de órdenes y peticiones
+  - ejercicios gratis de reported questions
+  - uso de if whether y ask en reported speech
+  - reported speech para exámenes B1 B2
 canonical: >-
   https://linguafly.app/blog/gramatica/reported-speech-questions-commands
 alt: Preguntas y órdenes en estilo indirecto

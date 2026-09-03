@@ -18,6 +18,11 @@ keywords:
   - reporting verbs en inglés con ejercicios gratis
   - cómo cambiar direct speech a reported speech
   - guía gratuita de reported speech para Cambridge
+  - reported speech completo para exámenes B2 C1 C2
+  - ejercicios gratis de estilo indirecto con respuestas
+  - cambios de tiempos pronombres y expresiones de tiempo
+  - reported speech y reporting verbs en inglés avanzado
+  - cómo pasar frases directas a indirectas paso a paso
 canonical: 'https://linguafly.app/blog/gramatica/guia-maestra-reported-speech'
 alt: Guía maestra sobre estilo indirecto en inglés
 faqs:
