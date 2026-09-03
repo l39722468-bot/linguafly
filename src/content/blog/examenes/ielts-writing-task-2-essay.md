@@ -13,6 +13,11 @@ keywords:
   - ielts writing task 2
   - preparar inglés gratis
   - material de inglés gratis
+  - estructura del IELTS Writing Task 2 paso a paso
+  - tipos de ensayo IELTS Task 2 con ejemplos
+  - ejercicios gratis de IELTS Writing con respuestas
+  - cómo escribir un ensayo Band 7 en IELTS
+  - criterios de evaluación del Writing Task 2
 excerpt: >-
   El Task 2 vale el doble que el Task 1 y es donde se ganan o se pierden las bandas que necesitas. Entender qué tipo de pregunta te está haciendo y cómo estructurar la respuesta marca toda la diferencia.
 faqs:

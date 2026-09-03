@@ -13,6 +13,11 @@ keywords:
   - preparar ielts general training
   - preparar inglés gratis
   - material de inglés gratis
+  - IELTS General Training guía completa en español
+  - diferencias entre IELTS Academic y General Training
+  - cómo preparar el IELTS General Training gratis
+  - IELTS General Training para visas y trabajo
+  - ejercicios de Reading y Writing IELTS GT
 excerpt: >-
   El IELTS General Training es el formato para inmigración, visas de trabajo y programas de formación no universitaria. No es más fácil que el Academic, pero tiene sus propias reglas y sus propios tipos de tarea.
 faqs:
