@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 28
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - verb noun collocations ejercicios B2
+  - make take have collocations inglés
+  - make a decision take a break
+  - diferencia make y do para españoles
+  - vocabulario comida gastronomía B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-28-collocations-verb-noun-food'
 image: /blog/curso-b2/unit-28/collocations-verb-noun.png
 alt: "Collocations verbo sustantivo MAKE TAKE HAVE B2 con gastronomía"

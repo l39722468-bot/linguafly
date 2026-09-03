@@ -15,6 +15,11 @@ keywords:
   - repaso módulo 3 B2
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - repaso linkers y phrasal verbs B2
+  - ejercicios although despite because of
+  - phrasal verbs call off come up with
+  - conectores y verbos frasales repaso
+  - repaso unidades 21 a 24 inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-25-repaso-21-24'
 image: /blog/curso-b2/unit-25/review-map.png
 alt: "Repaso B2 unidades 21 a 24 linkers phrasal verbs"

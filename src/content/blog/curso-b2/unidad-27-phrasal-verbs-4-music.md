@@ -17,6 +17,11 @@ keywords:
   - inglés B2 unidad 27
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - phrasal verbs LOOK MAKE PUT ejercicios
+  - look forward to seguido de gerundio
+  - make up make up for diferencia
+  - put up with significado y ejemplos
+  - vocabulario música entretenimiento B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-27-phrasal-verbs-4-music'
 image: /blog/curso-b2/unit-27/phrasal-look-make-put.png
 alt: "Phrasal verbs LOOK MAKE PUT B2 con vocabulario de música"

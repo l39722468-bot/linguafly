@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 30
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - repaso phrasal verbs y collocations B2
+  - ejercicios GET GIVE GO LOOK MAKE PUT
+  - collocations verb noun adjective noun
+  - repaso módulo 3 gramática B2
+  - unidades 26 a 29 ejercicios resueltos
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-30-repaso-26-29'
 image: /blog/curso-b2/unit-30/review-map.png
 alt: "Repaso B2 Unidades 26 a 29 phrasal verbs y collocations"

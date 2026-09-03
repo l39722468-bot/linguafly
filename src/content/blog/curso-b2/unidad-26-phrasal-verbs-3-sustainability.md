@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 26
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - phrasal verbs GET GIVE GO ejercicios
+  - get through get over diferencia
+  - give up give in ejemplos
+  - go off significados en inglés
+  - vocabulario sostenibilidad inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability'
 image: /blog/curso-b2/unit-26/phrasal-get-give-go.png
 alt: "Phrasal verbs GET GIVE GO B2 con vocabulario de sostenibilidad"

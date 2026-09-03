@@ -16,6 +16,11 @@ keywords:
   - inglés B2 unidad 29
   - curso inglés B2 gratis
   - ejercicios inglés B2 gratis
+  - adjective noun collocations ejercicios
+  - strong anxiety heavy pressure inglés
+  - great progress remarkable resilience
+  - collocations psicología inglés B2
+  - vocabulario salud mental nivel B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-29-collocations-adj-noun-psychology'
 image: /blog/curso-b2/unit-29/collocations-adj-noun.png
 alt: "Collocations adjetivo sustantivo B2 con vocabulario de psicología"
