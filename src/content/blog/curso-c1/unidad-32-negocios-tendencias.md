@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-10'
 updatedDate: '2026-09-10'
 author: linguafly-team
-title: "Informes y comparativos C1: negocios y tendencias"
+title: "Ejercicios de Informes y Comparativos en Inglés C1"
 description: >-
   Aprende a redactar informes de negocios en inglés C1 con comparativos avanzados (far/considerably/marginally + comparativo, the more... the more...), registro formal de informe, vocabulario de tendencias de mercado y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - informes de negocios inglés C1
+  - Ejercicios de Informes y Comparativos en Inglés C1
   - comparativos avanzados inglés the more the more
   - vocabulario tendencias de mercado inglés
   - far considerably marginally comparativo C1

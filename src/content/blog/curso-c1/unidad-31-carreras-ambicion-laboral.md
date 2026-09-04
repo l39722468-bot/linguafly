@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-10'
 updatedDate: '2026-09-10'
 author: linguafly-team
-title: "Modalidad y discurso profesional C1: carreras y ambición laboral"
+title: "Ejercicios de Modalidad y Discurso Profesional C1"
 description: >-
   Aprende la modalidad (must, have to, should, need to, be supposed to, ought to, would) y el discurso profesional en inglés C1 aplicado a carreras y ambición laboral: CV, entrevistas, vocabulario y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - modalidad inglés C1 must have to should
+  - Ejercicios de Modalidad y Discurso Profesional C1
   - CV entrevista inglés avanzado
   - vocabulario carreras ambición laboral inglés
   - be supposed to ought to need to C1

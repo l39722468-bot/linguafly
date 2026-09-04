@@ -3,14 +3,14 @@ category: curso-c1
 date: '2026-09-14'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Longevidad y Envejecimiento en Inglés C1: Datos y Respeto"
+title: "Ejercicios de Longevidad y Envejecimiento C1"
 description: >-
   En la Unidad 40 del curso de inglés C1 gratis aprenderás a hablar del
   envejecimiento con tono respetuoso y a presentar datos demográficos y de salud
   con precisión. Incluye 19 ejercicios inglés C1 gratis con soluciones.
 readTime: 40 min
 keywords:
-  - Longevidad y Envejecimiento en Inglés C1: Datos y Respeto
+  - Ejercicios de Longevidad y Envejecimiento C1
   - envejecimiento en inglés
   - longevity vocabulary C1
   - ejercicios inglés C1 gratis

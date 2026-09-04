@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-10'
 updatedDate: '2026-09-10'
 author: linguafly-team
-title: "Reuniones y minutas C1: liderazgo y gestión"
+title: "Ejercicios de Reuniones y Minutas en Inglés C1"
 description: >-
   Aprende a redactar minutas y dirigir reuniones en inglés C1 con reported speech avanzado, verbos de reporte, registro de gestión, vocabulario de liderazgo y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - minutas reuniones inglés C1
+  - Ejercicios de Reuniones y Minutas en Inglés C1
   - reported speech avanzado inglés
   - verbos de reporte inglés C1
   - vocabulario liderazgo gestión inglés
