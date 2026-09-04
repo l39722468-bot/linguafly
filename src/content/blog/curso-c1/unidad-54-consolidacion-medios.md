@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-09-24'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Consolidación de Medios en Inglés C1: Guía y Ejercicios"
+title: "Repaso y Ejercicios de Medios en Inglés C1"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a sintetizar los temas mediáticos tratados en unidades
   anteriores, a integrar argumentos sobre medios tradicionales, desinformación, privacidad, IA y éttica periodística,
@@ -13,7 +13,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    Consolidación de Medios en Inglés C1: Guía y Ejercicios,
+    Repaso y Ejercicios de Medios en Inglés C1,
     síntesis argumentativa C1,
     ecosistema mediático inglés,
     integración temática C1,

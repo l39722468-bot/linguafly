@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-09-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Migración y Desplazamiento en Inglés C1: Vocabulario"
+title: "Ejercicios de Migración y Desplazamiento en Inglés C1"
 description: >-
   En la Unidad 44 del curso de inglés C1 gratis aprenderás a construir narrativas
   sobre migración, a manejar el léxico de las políticas migratorias y a combinar
@@ -11,7 +11,7 @@ description: >-
   gratis con soluciones.
 readTime: 40 min
 keywords:
-  - Migración y Desplazamiento en Inglés C1: Vocabulario
+  - Ejercicios de Migración y Desplazamiento en Inglés C1
   - migración en inglés
   - migration narratives C1
   - ejercicios inglés C1 gratis
