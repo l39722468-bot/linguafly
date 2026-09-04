@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 21 B1: Gerund vs Infinitive (1) & Hobbies (con soluciones)'
+title: 'Ejercicios de Gerundio e Infinitivo en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 21 del curso B1: gerund vs infinitive (enjoy/finish + -ing; want/need/decide + to);
   hobbies & leisure, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 21
+  - Ejercicios de Gerundio e Infinitivo en Inglés B1
   - gerund infinitive ejercicios
   - enjoy hiking
   - want to visit

@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Would Rather & It's Time B2 + Family Vocabulary (Teoria y Ejercicios)"
+title: "Ejercicios de Would Rather e It's Time en Inglés B2"
 description: >-
   Aprende would rather, would prefer e it's (high) time en ingles B2 con vocabulario de family, reading, dialogo y audios. Incluye tambien los ejercicios de la Unidad 7 con soluciones comentadas sobre would rather + inf, would rather + subject + past, would prefer, It's time + past y family.
 readTime: 45 min
 keywords:
-  - would rather B2
+  - Ejercicios de Would Rather e It's Time en Inglés B2
   - would prefer English
   - it's time past simple
   - family vocabulary B2

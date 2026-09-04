@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Linkers of Contrast B2: although, despite, whereas + Personal Development (Teoría y Ejercicios)"
+title: "Ejercicios de Conectores de Contraste en Inglés B2"
 description: >-
   Guía completa de la Unidad 21 del curso B2: linkers de contraste (although, despite, in spite of, whereas, however) con vocabulario de personal development con ejercicios resueltos. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 45 min
 keywords:
-  - linkers of contrast B2
+  - Ejercicios de Conectores de Contraste en Inglés B2
   - although despite in spite of
   - whereas however English
   - personal development vocabulary B2

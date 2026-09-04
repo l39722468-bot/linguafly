@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "LOOK, MAKE, PUT Phrasal Verbs B2: Make Up One's Mind + Music (Teoría y Ejercicios)"
+title: "Ejercicios de Phrasal Verbs LOOK, MAKE y PUT B2"
 description: >-
   Guía completa de la Unidad 27 del curso B2: phrasal verbs LOOK, MAKE, PUT con vocabulario de music & entertainment, incluyendo teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 58 min
 keywords:
-  - phrasal verbs LOOK MAKE PUT B2
+  - Ejercicios de Phrasal Verbs LOOK, MAKE y PUT B2
   - look forward to gerundio
   - make up vs make up for
   - make up one's mind ejercicios

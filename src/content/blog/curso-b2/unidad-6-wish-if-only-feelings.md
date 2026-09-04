@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Wish & If Only B2: Deseos, Arrepentimientos y Feelings (Teoria y Ejercicios)"
+title: "Ejercicios de Wish e If Only en Inglés B2"
 description: >-
   Aprende wish e if only en ingles B2 (presente, pasado y wish + would) con vocabulario de feelings and emotions, reading, dialogo y audios. Incluye tambien los ejercicios de la Unidad 6 con soluciones comentadas sobre wish + past simple / were / could / would, if only + past perfect y feelings & emotions.
 readTime: 45 min
 keywords:
-  - wish if only B2
+  - Ejercicios de Wish e If Only en Inglés B2
   - wish past perfect English
   - feelings vocabulary B2
   - wish would complaint

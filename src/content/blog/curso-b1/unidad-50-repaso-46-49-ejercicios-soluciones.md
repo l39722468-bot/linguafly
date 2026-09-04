@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 50 B1: Repaso 46–49 (con soluciones)'
+title: 'Repaso de Consejos, Preferencias y Necesidad B1'
 description: >-
   Practica todos los ejercicios de la Unidad 50 del curso B1: had better, would rather, phrasal verbs, need/needn't (mix U46–49);
   advice, preferences, work & study, necessity (mix), reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 50
+  - Repaso de Consejos, Preferencias y Necesidad B1
   - repaso B1 46-49
   - had better review
   - would rather phrasal need review

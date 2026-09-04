@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "So, Such, Too, Enough B2 + Cooking & Recipes (Teoría y Ejercicios)"
+title: "Ejercicios de So, Such, Too y Enough en Inglés B2"
 description: >-
   Aprende so/such/too/enough en inglés B2 con vocabulario de cooking & recipes, y practica con ejercicios comentados. Guía completa Unidad 18 con audios y contrastes claros.
 readTime: 40 min
 keywords:
-  - so such too enough B2
+  - Ejercicios de So, Such, Too y Enough en Inglés B2
   - so vs such English
   - too vs enough
   - cooking vocabulary B2

@@ -23,7 +23,7 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-2/ppc-formula.png
 keywords:
-- ejercicios inglés B1 unidad 2
+- Ejercicios de Present Perfect Continuous en Inglés B1
 - Present Perfect Continuous ejercicios
 - have has been ing
 - for since B1
@@ -35,8 +35,8 @@ related_routes:
 - unidad-1-repaso-a2-b1-ejercicios-soluciones
 - present-perfect-continuous
 - cursos-online-ingles-b1
-title: 'Ejercicios Unidad 2 B1: Present Perfect Continuous (con soluciones)'
-updatedDate: '2026-08-31'
+title: 'Ejercicios de Present Perfect Continuous en Inglés B1'
+updatedDate: '2026-09-04'
 ---
 
 Este artículo reúne **los ejercicios de la Unidad 2 del curso B1** (*Present Perfect Continuous*) con **soluciones comentadas**.

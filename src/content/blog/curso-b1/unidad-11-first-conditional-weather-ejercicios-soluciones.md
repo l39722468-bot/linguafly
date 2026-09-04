@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 11 B1: First conditional & Weather (con soluciones)'
+title: 'Ejercicios del First Conditional en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 11 del curso B1: first conditional + future time clauses (when, as soon as, until);
   weather, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 11
+  - Ejercicios del First Conditional en Inglés B1
   - first conditional ejercicios
   - if it rains I will
   - weather vocabulary ejercicios

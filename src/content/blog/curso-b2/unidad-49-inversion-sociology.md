@@ -1,15 +1,15 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Inversion for Emphasis B2: Sociología y Cultura (Teoría y Ejercicios)"
+title: "Ejercicios de Inversión para Dar Énfasis en Inglés B2"
 description: >-
   Guía completa de la Unidad 49 B2: teoría y ejercicios sobre inversión con Never, Only, Not only, Hardly y No sooner, vocabulario de
   Sociology & Cultural Shifts, reading, listening, writing, speaking y soluciones.
 readTime: 62 min
 keywords:
-  - inversion for emphasis B2 ejercicios
+  - Ejercicios de Inversión para Dar Énfasis en Inglés B2
   - never have I only then did
   - not only inversion inglés
   - hardly when no sooner than

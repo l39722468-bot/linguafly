@@ -1,14 +1,14 @@
 ﻿---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Mixed Conditionals B2: Psicología y Comportamiento (Teoría y Ejercicios)"
+title: "Ejercicios de Condicionales Mixtos en Inglés B2"
 description: >-
   Domina mixed conditionals de pasado a presente y de presente a pasado con psicología, audio, vocabulario, ejercicios resueltos y cuaderno de práctica.
 readTime: 62 min
 keywords:
-  - mixed conditionals B2 ejercicios
+  - Ejercicios de Condicionales Mixtos en Inglés B2
   - condicionales mixtos pasado presente inglés
   - if had would be would have B2
   - third conditional vs mixed conditional

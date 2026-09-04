@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Verb + Noun Collocations B2: Make, Take, Have + Food (Teoría y Ejercicios)"
+title: "Ejercicios de Collocations Verbo y Sustantivo B2"
 description: >-
   Guía completa de la Unidad 28 del curso B2: collocations verbo + sustantivo con make, take, have y vocabulario de food & gastronomy, incluyendo teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 59 min
 keywords:
-  - verb noun collocations B2
+  - Ejercicios de Collocations Verbo y Sustantivo B2
   - make take have collocations ejercicios
   - make a decision take a break
   - make vs do para hispanohablantes

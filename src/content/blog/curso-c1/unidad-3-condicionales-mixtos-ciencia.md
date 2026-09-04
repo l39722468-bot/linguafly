@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Condicionales mixtos C1: ciencia y tecnología"
+title: "Ejercicios de Condicionales Mixtos en Inglés C1"
 description: >-
   Aprende a usar mixed conditionals para relacionar causas pasadas con resultados presentes y viceversa. Teoría C1, vocabulario científico y ejercicios resueltos.
 readTime: 38 min
 keywords:
-  - mixed conditionals inglés C1
+  - Ejercicios de Condicionales Mixtos en Inglés C1
   - condicionales mixtos ejercicios
   - if had would be C1
   - vocabulario ciencia tecnología inglés

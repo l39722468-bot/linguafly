@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Linkers of Reason & Purpose B2 + Photography & Media (Teoría y Ejercicios)"
+title: "Ejercicios de Conectores de Causa y Finalidad B2"
 description: >-
   Guía completa de la Unidad 22 del curso B2: linkers de razón, propósito y resultado (because of, due to, in order to, so that, as a result) con vocabulario de photography & media con ejercicios resueltos. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 46 min
 keywords:
-  - linkers reason purpose B2
+  - Ejercicios de Conectores de Causa y Finalidad B2
   - because of due to in order to
   - so that as a result
   - photography vocabulary B2

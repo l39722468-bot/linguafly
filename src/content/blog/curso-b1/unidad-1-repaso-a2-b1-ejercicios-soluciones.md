@@ -22,7 +22,7 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-1/a2-to-b1.png
 keywords:
-- ejercicios inglés B1 unidad 1
+- Ejercicios de Repaso A2 a B1 en Inglés
 - repaso A2 B1 ejercicios
 - used to who which
 - feelings B1
@@ -34,8 +34,8 @@ related_routes:
 - unidad-60-module-6-review-ejercicios-soluciones
 - present-perfect-usos-principales
 - gramatica-ingles-b1-guia
-title: 'Ejercicios Unidad 1 B1: Repaso A2 → B1 (con soluciones)'
-updatedDate: '2026-08-31'
+title: 'Ejercicios de Repaso A2 a B1 en Inglés'
+updatedDate: '2026-09-04'
 ---
 
 Este artículo reúne **los ejercicios de la Unidad 1 del curso B1** (*Repaso A2 → B1*) con **soluciones comentadas**.

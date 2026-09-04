@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 56 B1: Mixed Grammar: Sport (con soluciones)'
+title: 'Ejercicios de Gramática Mixta sobre Deportes B1'
 description: >-
   Practica todos los ejercicios de la Unidad 56 del curso B1: mixed grammar B1 (conditionals, passive, modals, tenses, reported);
   sport, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 56
+  - Ejercicios de Gramática Mixta sobre Deportes B1
   - mixed grammar sport B1
   - deporte inglés ejercicios
   - práctica gramatical mixta

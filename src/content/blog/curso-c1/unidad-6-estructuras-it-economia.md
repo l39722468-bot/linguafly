@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Estructuras con it C1: trabajo y economía"
+title: "Ejercicios de Estructuras con It en Inglés C1"
 description: >-
   Aprende estructuras impersonales con it, conectores de causa y resultado y modales avanzados en inglés C1. Teoría, vocabulario laboral y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - it structures inglés C1
+  - Ejercicios de Estructuras con It en Inglés C1
   - cause and result linkers ejercicios
   - advanced modals inglés avanzado
   - vocabulario trabajo economía C1

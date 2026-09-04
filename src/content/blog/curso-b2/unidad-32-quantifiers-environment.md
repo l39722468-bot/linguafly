@@ -1,14 +1,14 @@
 ﻿---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Quantifiers B2: All, Most, Each, Every, Both + Environment (Teoría y Ejercicios)"
+title: "Ejercicios de Cuantificadores All, Most, Each y Every B2"
 description: >-
   Aprende all, most, each, every, both y patrones con of en inglés B2 con Environment extended, concordancia y vocabulario ambiental. Incluye teoría completa con audio, reading y diálogo, más ejercicios de gramática, vocabulario, reading, listening, writing y speaking con soluciones.
 readTime: 59 min
 keywords:
-  - quantifiers B2 all most each every both
+  - Ejercicios de Cuantificadores All, Most, Each y Every B2
   - each vs every ejercicios B2
   - all vs most of the inglés
   - both concordancia inglés B2

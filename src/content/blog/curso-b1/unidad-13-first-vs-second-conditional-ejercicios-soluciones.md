@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 13 B1: First vs Second Conditional (con soluciones)'
+title: 'Ejercicios de First y Second Conditional en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 13 del curso B1: first vs second conditional (real vs hypothetical);
   entertainment, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 13
+  - Ejercicios de First y Second Conditional en Inglés B1
   - first vs second conditional ejercicios
   - entertainment vocabulary
   - condicionales contraste

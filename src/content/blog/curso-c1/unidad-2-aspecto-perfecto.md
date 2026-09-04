@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Aspecto perfecto C1: tiempo y comunicación"
+title: "Ejercicios del Aspecto Perfecto en Inglés C1"
 description: >-
   Domina el presente perfecto simple, el perfecto continuo y el infinitivo perfecto en inglés C1. Teoría, ejemplos sobre comunicación y ejercicios con soluciones.
 readTime: 38 min
 keywords:
-  - present perfect simple continuous C1
+  - Ejercicios del Aspecto Perfecto en Inglés C1
   - perfect infinitive ejercicios inglés
   - diferencias present perfect C1
   - gramática inglesa avanzada tiempos perfectos

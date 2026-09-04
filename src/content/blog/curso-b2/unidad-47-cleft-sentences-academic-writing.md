@@ -1,15 +1,15 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Cleft Sentences B2: Escritura Académica e Informes (Teoría y Ejercicios)"
+title: "Ejercicios de Cleft Sentences en Inglés B2"
 description: >-
   Guía completa de la Unidad 47 B2: teoría y ejercicios sobre it-clefts y what-clefts con estructura de informes, vocabulario de
   Academic Writing & Reports, reading, listening, writing, speaking y soluciones.
 readTime: 62 min
 keywords:
-  - cleft sentences B2 ejercicios
+  - Ejercicios de Cleft Sentences en Inglés B2
   - it was who that inglés B2
   - what cleft what I need is
   - oraciones hendidas inglés

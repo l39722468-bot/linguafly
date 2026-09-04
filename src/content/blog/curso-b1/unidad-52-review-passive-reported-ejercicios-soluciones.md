@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 52 B1: Passive & Reported (con soluciones)'
+title: 'Repaso de Voz Pasiva y Estilo Indirecto B1'
 description: >-
   Practica todos los ejercicios de la Unidad 52 del curso B1: passive, modal passive, reported statements/questions/commands (U16–19);
   mixed topics, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 52
+  - Repaso de Voz Pasiva y Estilo Indirecto B1
   - passive review ejercicios
   - reported speech B1
   - modal passive English

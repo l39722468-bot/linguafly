@@ -1,14 +1,14 @@
 ﻿---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Used To vs Would B2: Hábitos Pasados + Culture (Teoría y Ejercicios)"
+title: "Ejercicios de Used To y Would para Hábitos Pasados B2"
 description: >-
   Aprende used to y would para hábitos y estados pasados en inglés B2 con Culture extended, audio, ejemplos, ejercicios resueltos y cuaderno de práctica.
 readTime: 61 min
 keywords:
-  - used to vs would B2 ejercicios
+  - Ejercicios de Used To y Would para Hábitos Pasados B2
   - hábitos pasados used to would inglés
   - there used to be preguntas negativas
   - used to estados would acciones

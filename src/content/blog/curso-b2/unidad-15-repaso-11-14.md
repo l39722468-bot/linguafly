@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Repaso B2 Unidades 11–14: Relatives, Modals & Deduction (Teoría y Ejercicios)"
+title: "Repaso de Relative Clauses y Modales B2"
 description: >-
   Guía completa de la Unidad 15 del curso B2: repaso integrado de relative clauses, reduced relatives, modals of obligation y modals of deduction. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 43 min
 keywords:
-  - repaso B2 módulo 2
+  - Repaso de Relative Clauses y Modales B2
   - relative clauses modals deduction
   - reduced relatives review
   - inglés B2 unidad 15

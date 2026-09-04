@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Participle Clauses B2: -ing, -ed y Having + Environment (Teoria y Ejercicios)"
+title: "Ejercicios de Participle Clauses en Inglés B2"
 description: >-
   Aprende participle clauses (-ing, -ed y having + past participle) en ingles B2 con vocabulario de environment, reading, dialogo y audios. Incluye tambien los ejercicios de la Unidad 9 con soluciones comentadas sobre -ing / -ed participle clauses, Having + past participle y environment.
 readTime: 45 min
 keywords:
-  - participle clauses B2
+  - Ejercicios de Participle Clauses en Inglés B2
   - having past participle
   - environment vocabulary B2
   - ing ed participle clause

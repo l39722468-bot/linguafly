@@ -1,14 +1,14 @@
 ﻿---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Repaso B2 Unidades 31–34: Articles, Quantifiers & Verb Patterns (Teoría y Ejercicios)"
+title: "Repaso de Artículos, Cuantificadores y Patrones Verbales B2"
 description: >-
   Repasa artículos, all/most/each/every/both, regret/remember/forget y state verbs B2 con vocabulario de Education, Environment, Feelings y Technology. Incluye teoría completa con audio, reading y diálogo, más ejercicios integrados de gramática, vocabulario, reading, listening, writing y speaking con soluciones.
 readTime: 61 min
 keywords:
-  - repaso inglés B2 unidades 31 34
+  - Repaso de Artículos, Cuantificadores y Patrones Verbales B2
   - articles quantifiers verb patterns B2
   - regret remember forget state verbs review
   - all most each every both ejercicios B2

@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 22 B1: Gerund vs Infinitive (2) & House (con soluciones)'
+title: 'Ejercicios de Gerundio e Infinitivo: Verbos B1'
 description: >-
   Practica todos los ejercicios de la Unidad 22 del curso B1: like/love/prefer; remember/forget/try (+ -ing or to);
   house & home, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 22
+  - Ejercicios de Gerundio e Infinitivo: Verbos B1
   - remember to ejercicios
   - prefer living
   - house vocabulary ejercicios

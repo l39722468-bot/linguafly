@@ -1,15 +1,15 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Reporting Verbs B2: Innovación en la Enseñanza (Teoría y Ejercicios)"
+title: "Ejercicios de Reporting Verbs en Inglés B2"
 description: >-
   Guía completa de la Unidad 48 B2: teoría y ejercicios sobre suggest, recommend, insist y urge con gerundio, that-clause u objeto + infinitivo,
   vocabulario de Innovation in Teaching, reading, listening, writing, speaking y soluciones.
 readTime: 62 min
 keywords:
-  - reporting verbs B2 ejercicios
+  - Ejercicios de Reporting Verbs en Inglés B2
   - suggest recommend insist gerund that
   - urge someone to do inglés
   - verbos de reporte inglés B2

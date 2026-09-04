@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 27 B1: Both, Either, Neither & Choices (con soluciones)'
+title: 'Ejercicios de Both, Either y Neither en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 27 del curso B1: both…and, either…or, neither…nor;
   choices, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 27
+  - Ejercicios de Both, Either y Neither en Inglés B1
   - both either neither ejercicios
   - either or neither nor
   - choices vocabulary

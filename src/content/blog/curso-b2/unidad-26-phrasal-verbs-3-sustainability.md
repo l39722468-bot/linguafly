@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Phrasal Verbs GET, GIVE, GO B2 + Sustainability & Eco-living (Teoría y Ejercicios)"
+title: "Ejercicios de Phrasal Verbs GET, GIVE y GO B2"
 description: >-
   Guía completa de la Unidad 26 del curso B2: phrasal verbs GET, GIVE, GO con vocabulario de sustainability & eco-living, incluyendo teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 57 min
 keywords:
-  - phrasal verbs GET GIVE GO B2
+  - Ejercicios de Phrasal Verbs GET, GIVE y GO B2
   - get through vs get over
   - give up vs give in ejercicios
   - go off significados inglés

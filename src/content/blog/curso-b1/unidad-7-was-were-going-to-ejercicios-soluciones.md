@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 7 B1: Was/were going to (con soluciones)'
+title: 'Ejercicios de Was/Were Going To en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 7 del curso B1: was/were going to (planes no realizados);
   plans & intentions, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 7
+  - Ejercicios de Was/Were Going To en Inglés B1
   - was were going to ejercicios
   - planes no realizados
   - I was going to

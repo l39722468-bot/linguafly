@@ -22,7 +22,7 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-5/review-map.png
 keywords:
-- ejercicios inglés B1 unidad 5
+- Repaso de Gramática B1: Unidades 1 a 4
 - repaso B1 unidades 1-4
 - review 1-4 ejercicios
 - curso B1 Linguafly
@@ -33,8 +33,8 @@ related_routes:
 - unidad-4-past-vs-present-perfect-ejercicios-soluciones
 - gramatica-ingles-b1-guia
 - cursos-online-ingles-b1
-title: 'Ejercicios Unidad 5 B1: Repaso 1–4 (con soluciones)'
-updatedDate: '2026-08-31'
+title: 'Repaso de Gramática B1: Unidades 1 a 4'
+updatedDate: '2026-09-04'
 ---
 
 Este artículo reúne **los ejercicios de la Unidad 5 del curso B1** (*Repaso 1–4*) con **soluciones comentadas**.

@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 39 B1: Purpose & Reason (con soluciones)'
+title: 'Ejercicios de Finalidad y Causa en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 39 del curso B1: to/so that/because of + explaining;
   explaining, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 39
+  - Ejercicios de Finalidad y Causa en Inglés B1
   - purpose reason ejercicios
   - so that because of
   - explaining vocabulary

@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Gramática Mixta B2: Salud y Bienestar (Teoría y Ejercicios)"
+title: "Ejercicios de Gramática Mixta sobre Salud B2"
 description: >-
   Guía completa de la Unidad 57 del curso B2: práctica integrada de gramática B2 (conditionals, passive, modals, reported speech, linkers, inversion) en el contexto de salud, bienestar y sistema sanitario. Incluye ejercicios con soluciones.
 readTime: 45 min
 keywords:
-  - gramática mixta inglés B2 salud
+  - Ejercicios de Gramática Mixta sobre Salud B2
   - ejercicios gramática B2 bienestar
   - conditionals passive modals health B2
   - vocabulario salud sistema sanitario inglés

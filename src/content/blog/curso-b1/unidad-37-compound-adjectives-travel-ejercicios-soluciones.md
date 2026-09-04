@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 37 B1: Compound Adjectives & Travel (con soluciones)'
+title: 'Ejercicios de Adjetivos Compuestos en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 37 del curso B1: compound adjectives (two-day, 20-year-old…);
   travel & descriptions, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 37
+  - Ejercicios de Adjetivos Compuestos en Inglés B1
   - compound adjectives ejercicios
   - two-day trip
   - travel vocabulary

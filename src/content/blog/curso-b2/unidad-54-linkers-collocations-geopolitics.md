@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Linkers y Collocations B2: Política y Relaciones Internacionales (Teoría y Ejercicios)"
+title: "Ejercicios de Conectores y Collocations B2"
 description: >-
   Guía completa de la Unidad 54 del curso B2: linkers de contraste, causa, propósito y adición con collocations de política, diplomacia y relaciones internacionales. Incluye reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 45 min
 keywords:
-  - linkers inglés B2
+  - Ejercicios de Conectores y Collocations B2
   - collocations inglés B2
   - although whereas despite ejercicios
   - vocabulario política relaciones internacionales inglés

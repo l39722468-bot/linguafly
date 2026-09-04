@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Relative Clauses B2: Defining & Non-defining + Culture (Teoría y Ejercicios)"
+title: "Ejercicios de Relative Clauses en Inglés B2"
 description: >-
   Guía completa de la Unidad 11 del curso B2: defining y non-defining relative clauses (who/which/that/whose/where) con vocabulario de culture & urban life. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 43 min
 keywords:
-  - relative clauses B2
+  - Ejercicios de Relative Clauses en Inglés B2
   - defining non-defining English
   - who which that whose where
   - culture vocabulary B2

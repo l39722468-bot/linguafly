@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 12 B1: Second conditional (con soluciones)'
+title: 'Ejercicios del Second Conditional en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 12 del curso B1: second conditional (if + past, would);
   hypothetical situations, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 12
+  - Ejercicios del Second Conditional en Inglés B1
   - second conditional ejercicios
   - if I were you
   - hypothetical English ejercicios

@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Gerunds and Infinitives B2: Educación y Aprendizaje (Teoría y Ejercicios)"
+title: "Ejercicios de Gerundios e Infinitivos en Inglés B2"
 description: >-
   Domina gerundios e infinitivos B2, cambios de significado, object + infinitive y vocabulario de Education Systems & Learning con audio, ejemplos y ejercicios resueltos de gramática, vocabulario, reading, listening, writing y speaking.
 readTime: 62 min
 keywords:
-  - gerunds and infinitives B2 ejercicios
+  - Ejercicios de Gerundios e Infinitivos en Inglés B2
   - gerundio infinitivo inglés educación
   - remember stop try gerund infinitive
   - verb object infinitive B2

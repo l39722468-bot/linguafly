@@ -1,14 +1,14 @@
 ﻿---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Phrasal Verbs TURN y WORK B2 + Sport (Teoría y Ejercicios)"
+title: "Ejercicios de Phrasal Verbs TURN y WORK B2"
 description: >-
   Domina turn up/down/out/into y work out/on/through en inglés B2 con Sport extended: teoría, varios significados, audio, ejemplos y ejercicios de gramática, vocabulario, reading, listening, writing y speaking con soluciones.
 readTime: 61 min
 keywords:
-  - phrasal verbs turn work B2 ejercicios
+  - Ejercicios de Phrasal Verbs TURN y WORK B2
   - turn up turn down turn out turn into diferencias
   - work out work on work through inglés
   - workout vs work out B2

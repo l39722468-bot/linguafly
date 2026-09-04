@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 24 B1: Phrasal Verbs 2 & Shopping (con soluciones)'
+title: 'Ejercicios de Phrasal Verbs para Compras B1'
 description: >-
   Practica todos los ejercicios de la Unidad 24 del curso B1: phrasal verbs 2 (find out, give up, look into, fill in, hand in);
   shopping, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 24
+  - Ejercicios de Phrasal Verbs para Compras B1
   - find out give up ejercicios
   - fill in hand in
   - shopping vocabulary

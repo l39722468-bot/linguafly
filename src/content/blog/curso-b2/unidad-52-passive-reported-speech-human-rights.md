@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Passive Voice y Reported Speech B2: Justicia y Derechos Humanos (Teoría y Ejercicios)"
+title: "Ejercicios de Pasiva y Estilo Indirecto B2"
 description: >-
   Guía completa de la Unidad 52 del curso B2: passive voice (all tenses), passive reporting y reported speech con vocabulario de justicia, derechos humanos y sistema legal. Incluye reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 45 min
 keywords:
-  - passive voice inglés B2
+  - Ejercicios de Pasiva y Estilo Indirecto B2
   - passive reporting inglés B2
   - reported speech inglés B2
   - passive voice ejercicios B2

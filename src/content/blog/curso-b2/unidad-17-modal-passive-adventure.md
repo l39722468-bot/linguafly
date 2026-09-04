@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Modal Passive B2: have something done + Adventure (Teoría y Ejercicios)"
+title: "Ejercicios de Voz Pasiva Modal en Inglés B2"
 description: >-
   Aprende modal passive (must/should be + V3) y have something done en inglés B2 con vocabulario de adventure & extreme sports, y practica con ejercicios comentados. Guía completa Unidad 17 con audios.
 readTime: 40 min
 keywords:
-  - modal passive B2
+  - Ejercicios de Voz Pasiva Modal en Inglés B2
   - have something done
   - must be done should have been
   - adventure vocabulary B2

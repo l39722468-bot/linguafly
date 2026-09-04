@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 18 B1: Reported Speech Statements (con soluciones)'
+title: 'Ejercicios de Estilo Indirecto en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 18 del curso B1: reported speech statements (said/told + backshift);
   communication, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 18
+  - Ejercicios de Estilo Indirecto en Inglés B1
   - reported speech ejercicios
   - said told backshift
   - communication vocabulary ejercicios

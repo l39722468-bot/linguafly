@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Advanced Comparatives B2: the…the… & Literature (Teoría y Ejercicios)"
+title: "Ejercicios de Comparativos Avanzados en Inglés B2"
 description: >-
   Aprende comparativos y superlativos avanzados en inglés B2 con vocabulario de literature & books, y practica con ejercicios comentados. Guía completa Unidad 19 con audios.
 readTime: 40 min
 keywords:
-  - advanced comparatives B2
+  - Ejercicios de Comparativos Avanzados en Inglés B2
   - the more the more
   - by far superlative
   - literature vocabulary B2

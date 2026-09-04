@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 41 B1: Verb + Preposition & Dependent (con soluciones)'
+title: 'Ejercicios de Verbos y Preposiciones en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 41 del curso B1: verb + preposition (depend on, listen to, wait for, look at…);
   dependent prepositions, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 41
+  - Ejercicios de Verbos y Preposiciones en Inglés B1
   - verb preposition ejercicios
   - depend on listen to
   - dependent prepositions

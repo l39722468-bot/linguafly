@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Adjective + Noun Collocations B2: Psychology & Mind (Teoría y Ejercicios)"
+title: "Ejercicios de Collocations de Adjetivo y Sustantivo B2"
 description: >-
   Guía completa de la Unidad 29 del curso B2: collocations adjetivo + sustantivo con vocabulario de psychology & mind, incluyendo teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 59 min
 keywords:
-  - adjective noun collocations B2
+  - Ejercicios de Collocations de Adjetivo y Sustantivo B2
   - strong anxiety heavy pressure
   - great progress remarkable resilience
   - collocations psychology English

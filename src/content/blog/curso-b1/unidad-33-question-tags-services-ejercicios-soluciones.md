@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 33 B1: Question Tags & Services (con soluciones)'
+title: 'Ejercicios de Question Tags en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 33 del curso B1: question tags (isn't it?, don't you?…);
   services, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 33
+  - Ejercicios de Question Tags en Inglés B1
   - question tags ejercicios
   - isn't it don't you
   - services vocabulary

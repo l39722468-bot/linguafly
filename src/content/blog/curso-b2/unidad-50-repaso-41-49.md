@@ -1,15 +1,15 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Repaso B2 Unidades 41–49: Gramática y Vocabulario (Teoría y Ejercicios)"
+title: "Repaso de Gramática Avanzada y Vocabulario B2"
 description: >-
   Guía completa de la Unidad 50 B2: teoría y ejercicios de repaso de U41–49 con Future Perfect, deducción modal, mixed conditionals,
   clefts, reporting verbs, inversión, vocabulario mixto, reading, listening, writing, speaking y soluciones.
 readTime: 62 min
 keywords:
-  - repaso inglés B2 unidades 41 49
+  - Repaso de Gramática Avanzada y Vocabulario B2
   - gramática B2 ejercicios mixtos
   - future perfect mixed conditionals cleft
   - reporting verbs inversion repaso

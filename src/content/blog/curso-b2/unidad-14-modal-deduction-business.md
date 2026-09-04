@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Modals of Deduction B2: Must Have, Might Have & Business (Teoría y Ejercicios)"
+title: "Ejercicios de Modales de Deducción en Inglés B2"
 description: >-
   Guía completa de la Unidad 14 del curso B2: modals of deduction en pasado (must have, might have, can't have) con vocabulario de business & fashion. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 43 min
 keywords:
-  - must have might have can't have B2
+  - Ejercicios de Modales de Deducción en Inglés B2
   - modals deduction past English
   - business vocabulary B2
   - inglés B2 unidad 14

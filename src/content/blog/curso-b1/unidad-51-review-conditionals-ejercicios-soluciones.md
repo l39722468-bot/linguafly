@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 51 B1: Review Conditionals (con soluciones)'
+title: 'Repaso de Condicionales en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 51 del curso B1: first / second / third conditional + time clauses (U11–15 review);
   mixed topics, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 51
+  - Repaso de Condicionales en Inglés B1
   - conditionals review B1
   - first second third ejercicios
   - time clauses English

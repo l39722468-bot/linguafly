@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 57 B1: Mixed Grammar: Clothes (con soluciones)'
+title: 'Ejercicios de Gramática Mixta sobre Ropa y Colores B1'
 description: >-
   Practica todos los ejercicios de la Unidad 57 del curso B1: passive, would rather, relatives, comparatives, although;
   clothes & colours, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 57
+  - Ejercicios de Gramática Mixta sobre Ropa y Colores B1
   - ropa colores ejercicios B1
   - mixed grammar clothes
   - would rather comparative

@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 28 B1: Articles & Buildings (con soluciones)'
+title: 'Ejercicios de Artículos en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 28 del curso B1: articles (a/an, the, zero article);
   places: buildings, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 28
+  - Ejercicios de Artículos en Inglés B1
   - articles a an the ejercicios
   - zero article
   - buildings vocabulary

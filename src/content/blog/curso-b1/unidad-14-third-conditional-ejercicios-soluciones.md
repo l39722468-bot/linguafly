@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 14 B1: Third conditional (con soluciones)'
+title: 'Ejercicios de Third Conditional en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 14 del curso B1: third conditional (if + past perfect, would have);
   regrets & past events, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 14
+  - Ejercicios de Third Conditional en Inglés B1
   - third conditional ejercicios
   - if I had known
   - would have ejercicios

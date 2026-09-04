@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 20 B1: Repaso 16–19 (con soluciones)'
+title: 'Repaso de Voz Pasiva y Estilo Indirecto B1'
 description: >-
   Practica todos los ejercicios de la Unidad 20 del curso B1: passive, modal passive y reported speech (statements, questions, commands);
   technology, work, communication, language (mix), reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 20
+  - Repaso de Voz Pasiva y Estilo Indirecto B1
   - repaso passive reported B1
   - passive reported speech ejercicios
   - estilo indirecto repaso

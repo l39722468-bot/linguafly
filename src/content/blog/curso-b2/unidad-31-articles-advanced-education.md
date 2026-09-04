@@ -1,14 +1,14 @@
 ﻿---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Articles Advanced B2: A/An, The, Zero Article + Education (Teoría y Ejercicios)"
+title: "Ejercicios de Artículos Avanzados en Inglés B2"
 description: >-
   Domina a/an, the y zero article en inglés B2 con instituciones, referencias específicas y Education extended. Incluye teoría completa con audio, reading y diálogo, más ejercicios de gramática, vocabulario, reading, listening, writing y speaking con soluciones.
 readTime: 59 min
 keywords:
-  - artículos avanzados inglés B2
+  - Ejercicios de Artículos Avanzados en Inglés B2
   - a an the zero article ejercicios B2
   - artículo cero instituciones inglés
   - at university vs at the university

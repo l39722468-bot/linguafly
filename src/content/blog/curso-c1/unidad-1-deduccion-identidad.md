@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Deducción con modales C1: identidad y sociedad"
+title: "Ejercicios de Modales de Deducción en Inglés C1"
 description: >-
   Aprende a expresar deducciones y probabilidades en inglés C1 con must, can't, could, might y should have. Teoría, vocabulario de identidad y ejercicios con soluciones.
 readTime: 35 min
 keywords:
-  - modales de deducción inglés C1
+  - Ejercicios de Modales de Deducción en Inglés C1
   - must have can't have ejercicios
   - probabilidad en inglés avanzado
   - vocabulario identidad inglés C1

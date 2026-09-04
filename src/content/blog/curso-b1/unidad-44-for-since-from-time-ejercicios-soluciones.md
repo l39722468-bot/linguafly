@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 44 B1: For, Since, From & Time (con soluciones)'
+title: 'Ejercicios de For, Since y From en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 44 del curso B1: for/since/from + time expressions;
   time expressions, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 44
+  - Ejercicios de For, Since y From en Inglés B1
   - for since from ejercicios
   - since present perfect
   - time expressions English

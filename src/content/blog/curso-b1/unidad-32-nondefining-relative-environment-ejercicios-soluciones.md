@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 32 B1: Non-defining Relative & Environment (con soluciones)'
+title: 'Ejercicios de Oraciones de Relativo No Definidas B1'
 description: >-
   Practica todos los ejercicios de la Unidad 32 del curso B1: non-defining relative clauses (who/which + commas, no that);
   environment, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 32
+  - Ejercicios de Oraciones de Relativo No Definidas B1
   - non-defining relative ejercicios
   - which commas
   - environment vocabulary

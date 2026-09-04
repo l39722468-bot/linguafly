@@ -1,14 +1,14 @@
 ﻿---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Repaso B2 Unidades 36-39: Used To, Auxiliaries & Phrasal Verbs (Teoría y Ejercicios)"
+title: "Repaso de Used To, Auxiliares y Phrasal Verbs B2"
 description: >-
   Repasa used to/would, auxiliares y phrasal verbs RUN, SET, TAKE, TURN y WORK en inglés B2 con vocabulario Culture, Business, Leisure y Sport: teoría, audio y ejercicios integrados con soluciones.
 readTime: 63 min
 keywords:
-  - repaso inglés B2 unidades 36 39
+  - Repaso de Used To, Auxiliares y Phrasal Verbs B2
   - used to would auxiliaries phrasal verbs review
   - run set take turn work B2 ejercicios
   - repaso módulo 4 inglés B2

@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 35 B1: Repaso 31–34 (con soluciones)'
+title: 'Repaso de Oraciones Relativas y Question Tags B1'
 description: >-
   Practica todos los ejercicios de la Unidad 35 del curso B1: relatives, question tags y -ed/-ing (mix U31–34);
   nature, environment, services, feelings (mix), reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 35
+  - Repaso de Oraciones Relativas y Question Tags B1
   - repaso B1 31-34
   - relative clauses review
   - question tags review

@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 8 B1: Modals of deduction (con soluciones)'
+title: 'Ejercicios de Modales de Deducción en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 8 del curso B1: must / might / can't (deducción);
   personal feelings, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 8
+  - Ejercicios de Modales de Deducción en Inglés B1
   - must might can't ejercicios
   - modales de deducción
   - must be happy

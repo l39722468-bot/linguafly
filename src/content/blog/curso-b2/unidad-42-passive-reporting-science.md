@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Passive Reporting B2: Ciencia y Descubrimientos (Teoría y Ejercicios)"
+title: "Ejercicios de Pasiva con Verbos de Reporte B2"
 description: >-
   Aprende It is said that y subject is believed to be/to have B2 con ciencia, vocabulario de Scientific Discoveries, ocho audios y ejercicios resueltos de gramática, vocabulario, reading, listening, writing y speaking.
 readTime: 62 min
 keywords:
-  - passive reporting structures B2 ejercicios
+  - Ejercicios de Pasiva con Verbos de Reporte B2
   - it is said thought believed that
   - is believed to be to have B2
   - pasiva impersonal inglés ciencia

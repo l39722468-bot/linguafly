@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Gerund vs Infinitive (Teoría y Ejercicios)"
+title: "Ejercicios de Gerundio e Infinitivo en Inglés B2"
 description: >-
   Guía completa de la Unidad 3 del curso B2: enjoy / mind / avoid + gerund; decide / agree + infinitive; stop + -ing / to; education, reading, listening y writing, con ejercicios y soluciones. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 45 min
 keywords:
-  - ejercicios inglés B2 unidad 3
+  - Ejercicios de Gerundio e Infinitivo en Inglés B2
   - ejercicios inglés B2 gratis
   - curso inglés B2 gratis
   - gerund infinitive ejercicios B2

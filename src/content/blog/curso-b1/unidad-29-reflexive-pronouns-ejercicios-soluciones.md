@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 29 B1: Reflexive Pronouns & Experiences (con soluciones)'
+title: 'Ejercicios de Pronombres Reflexivos en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 29 del curso B1: reflexive pronouns (myself, yourself, himself…);
   personal experiences, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 29
+  - Ejercicios de Pronombres Reflexivos en Inglés B1
   - reflexive pronouns ejercicios
   - myself yourself himself
   - personal experiences

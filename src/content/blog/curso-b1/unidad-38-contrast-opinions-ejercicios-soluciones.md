@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 38 B1: Contrast & Opinions (con soluciones)'
+title: 'Ejercicios de Contraste y Opiniones en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 38 del curso B1: although/however/despite + opinions;
   opinions, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 38
+  - Ejercicios de Contraste y Opiniones en Inglés B1
   - although however ejercicios
   - despite in spite of
   - opinions vocabulary

@@ -23,7 +23,7 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-4/past-vs-pp.png
 keywords:
-- ejercicios inglés B1 unidad 4
+- Ejercicios de Past Simple y Present Perfect en Inglés B1
 - Past Simple vs Present Perfect
 - ever never just already yet
 - curso B1 Linguafly
@@ -34,8 +34,8 @@ related_routes:
 - unidad-3-past-perfect-ejercicios-soluciones
 - present-perfect-vs-past-simple
 - cursos-online-ingles-b1
-title: 'Ejercicios Unidad 4 B1: Past Simple vs Present Perfect (con soluciones)'
-updatedDate: '2026-08-31'
+title: 'Ejercicios de Past Simple y Present Perfect en Inglés B1'
+updatedDate: '2026-09-04'
 ---
 
 Este artículo reúne **los ejercicios de la Unidad 4 del curso B1** (*Past Simple vs Present Perfect*) con **soluciones comentadas**.

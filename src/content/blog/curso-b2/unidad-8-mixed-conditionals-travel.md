@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Mixed Conditionals B2: Pasado a Presente/Futuro + Travel (Teoria y Ejercicios)"
+title: "Ejercicios de Condicionales Mixtos en Inglés B2"
 description: >-
   Aprende mixed conditionals en ingles B2 (pasado a presente, pasado a futuro y presente a pasado) con vocabulario de travel, reading, dialogo y audios. Incluye tambien los ejercicios de la Unidad 8 con soluciones comentadas sobre if + past perfect, would + base; if + past simple, would have + pp y travel.
 readTime: 45 min
 keywords:
-  - mixed conditionals B2
+  - Ejercicios de Condicionales Mixtos en Inglés B2
   - if past perfect would
   - travel vocabulary B2
   - past to present conditional

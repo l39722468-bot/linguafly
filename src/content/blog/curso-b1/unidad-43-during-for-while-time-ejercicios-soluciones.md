@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 43 B1: During, For, While & Time (con soluciones)'
+title: 'Ejercicios de During, For y While en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 43 del curso B1: during/for/while + time vocabulary;
   time, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 43
+  - Ejercicios de During, For y While en Inglés B1
   - during for while ejercicios
   - during vs for
   - while clause English

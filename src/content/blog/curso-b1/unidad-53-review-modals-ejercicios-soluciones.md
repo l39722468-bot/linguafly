@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 53 B1: Review Modals (con soluciones)'
+title: 'Repaso de Verbos Modales en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 53 del curso B1: deduction, had better, would rather, need/needn't (U8, U46–49);
   mixed topics, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 53
+  - Repaso de Verbos Modales en Inglés B1
   - modals review B1
   - must might can't ejercicios
   - had better would rather

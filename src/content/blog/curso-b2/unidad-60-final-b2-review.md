@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Repaso Final B2: Preparación Completa para el Examen Cambridge (Teoría y Ejercicios)"
+title: "Repaso Final de Inglés B2 y Preparación del Examen"
 description: >-
   Repaso final del curso B2: consolidación completa de toda la gramática (conditionals, passive, modals, reported speech, linkers, inversion, cleft sentences, phrasal verbs, collocations, word formation) con simulacro de examen y ejercicios con soluciones.
 readTime: 45 min
 keywords:
-  - repaso final inglés B2
+  - Repaso Final de Inglés B2 y Preparación del Examen
   - preparación examen B2 Cambridge
   - gramática completa B2 ejercicios
   - simulacro examen B2 First

@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Passive Voice B2: All Tenses + History & Heritage (Teoría y Ejercicios)"
+title: "Ejercicios de Voz Pasiva en Todos los Tiempos B2"
 description: >-
   Aprende la voz pasiva en todos los tiempos (present, past, perfect, future, continuous) en inglés B2 con vocabulario de history & heritage, y practica con ejercicios comentados. Guía completa Unidad 16 con audios.
 readTime: 40 min
 keywords:
-  - passive voice all tenses B2
+  - Ejercicios de Voz Pasiva en Todos los Tiempos B2
   - voz pasiva todos los tiempos
   - present continuous passive
   - heritage vocabulary B2

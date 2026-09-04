@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 60 B1: Final B1 Review (con soluciones)'
+title: 'Repaso Final de Inglés B1 con Ejercicios'
 description: >-
   Practica todos los ejercicios de la Unidad 60 del curso B1: full B1 grammar revision (all modules U1–60);
   full revision (mix), reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 60
+  - Repaso Final de Inglés B1 con Ejercicios
   - repaso final B1
   - curso B1 completo ejercicios
   - full revision B1

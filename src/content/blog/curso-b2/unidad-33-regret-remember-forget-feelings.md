@@ -1,14 +1,14 @@
 ﻿---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Regret, Remember, Forget + Gerund or Infinitive B2 (Teoría y Ejercicios)"
+title: "Ejercicios de Regret, Remember y Forget B2"
 description: >-
   Distingue regret, remember y forget + gerundio o infinitivo en inglés B2 con Feelings extended, líneas temporales y vocabulario emocional. Incluye teoría completa con audio, reading y diálogo, más ejercicios de gramática, vocabulario, reading, listening, writing y speaking con soluciones.
 readTime: 59 min
 keywords:
-  - regret remember forget gerund infinitive B2
+  - Ejercicios de Regret, Remember y Forget B2
   - remember doing vs remember to do
   - forget doing vs forget to do ejercicios
   - regret doing vs regret to inform

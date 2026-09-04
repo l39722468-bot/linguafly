@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 59 B1: Exam Preparation (con soluciones)'
+title: 'Ejercicios de Preparación para el Examen B1'
 description: >-
   Practica todos los ejercicios de la Unidad 59 del curso B1: PET/B1 exam strategies + mixed grammar in exam context;
   exam strategies, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 59
+  - Ejercicios de Preparación para el Examen B1
   - PET B1 ejercicios
   - exam preparation strategies
   - preparación examen inglés B1

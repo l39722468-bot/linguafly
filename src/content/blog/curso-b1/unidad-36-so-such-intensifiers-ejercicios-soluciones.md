@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 36 B1: So/Such & Intensifiers (con soluciones)'
+title: 'Ejercicios de So, Such y So Much en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 36 del curso B1: so/such/so much/so many + intensifiers;
   intensifiers, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 36
+  - Ejercicios de So, Such y So Much en Inglés B1
   - so such ejercicios
   - so much so many
   - intensifiers vocabulary

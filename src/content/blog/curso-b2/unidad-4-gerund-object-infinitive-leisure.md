@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Verb + Object + Infinitive (Teoría y Ejercicios)"
+title: "Ejercicios de Verbos con Objeto e Infinitivo B2"
 description: >-
   Guía completa de la Unidad 4 del curso B2: convince / ask / tell / want + object + to + infinitive; leisure, reading, listening y writing, con ejercicios y soluciones. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 45 min
 keywords:
-  - ejercicios inglés B2 unidad 4
+  - Ejercicios de Verbos con Objeto e Infinitivo B2
   - ejercicios inglés B2 gratis
   - curso inglés B2 gratis
   - verb object infinitive ejercicios

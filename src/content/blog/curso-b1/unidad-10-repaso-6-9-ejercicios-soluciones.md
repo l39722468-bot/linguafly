@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 10 B1: Repaso 6–9 (con soluciones)'
+title: 'Repaso de Gramática B1: Unidades 6 a 9'
 description: >-
   Practica todos los ejercicios de la Unidad 10 del curso B1: futuros, was/were going to, modales, used to;
   travel, plans, feelings, habits (mix), reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 10
+  - Repaso de Gramática B1: Unidades 6 a 9
   - repaso B1 unidades 6-9
   - ejercicios integración B1
   - must used to going to

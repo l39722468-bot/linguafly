@@ -3,12 +3,12 @@ category: curso-b2
 date: '2026-09-01'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Wish, If Only y Third Conditional B2: Crisis Económicas"
+title: "Ejercicios de Wish, If Only y Third Conditional B2"
 description: >-
   Guía completa de la Unidad 51 del curso B2: teoría y ejercicios sobre wish/if only + past perfect y third conditional con vocabulario de economía, banca e inversión. Incluye reading, listening, writing, speaking y soluciones.
 readTime: 45 min
 keywords:
-  - Wish, If Only y Third Conditional B2: Crisis Económicas
+  - Ejercicios de Wish, If Only y Third Conditional B2
   - third conditional inglés B2
   - ejercicios wish if only B2
   - third conditional ejercicios ingles

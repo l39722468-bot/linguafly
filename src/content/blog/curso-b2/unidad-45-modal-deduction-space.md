@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Modal Deduction B2: Must, Might, Could, Can't + Space (Teoría y Ejercicios)"
+title: "Ejercicios de Deducción con Modales en Inglés B2"
 description: >-
   Domina must, might, could y can't + be/have para deducción B2 con exploración espacial, vocabulario de Space Exploration, ocho audios y ejercicios resueltos de gramática, vocabulario, reading, listening, writing y speaking.
 readTime: 62 min
 keywords:
-  - modal deduction B2 ejercicios
+  - Ejercicios de Deducción con Modales en Inglés B2
   - must might could can't be have
   - must have might have deducción
   - modales de deducción inglés B2

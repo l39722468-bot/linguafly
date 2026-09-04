@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 45 B1: Repaso 41–44 (con soluciones)'
+title: 'Repaso de Preposiciones y Expresiones de Tiempo B1'
 description: >-
   Practica todos los ejercicios de la Unidad 45 del curso B1: verb/adj + preposition, during/for/while, for/since/from (mix U41–44);
   dependent prepositions, feelings, time (mix), reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 45
+  - Repaso de Preposiciones y Expresiones de Tiempo B1
   - repaso B1 41-44
   - prepositions review
   - during for while review

@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 54 B1: Review Tenses (con soluciones)'
+title: 'Repaso de Tiempos Verbales en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 54 del curso B1: present perfect, PP continuous, past perfect, futures (U2–7 review);
   mixed topics, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 54
+  - Repaso de Tiempos Verbales en Inglés B1
   - tenses review B1
   - present perfect ejercicios
   - past perfect going to

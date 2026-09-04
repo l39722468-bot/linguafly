@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Repaso B2 Unidades 21–24: Linkers & Phrasal Verbs (Teoría y Ejercicios)"
+title: "Repaso de Conectores y Phrasal Verbs B2"
 description: >-
   Guía completa de la Unidad 25 del curso B2: repaso de linkers de contraste/razón/propósito y phrasal verbs BE-BREAK-BRING / CALL-CARRY-COME con vocabulario mixto con ejercicios resueltos. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 readTime: 47 min
 keywords:
-  - repaso inglés B2 unidades 21-24
+  - Repaso de Conectores y Phrasal Verbs B2
   - linkers and phrasal verbs review B2
   - although despite call off come up with
   - inglés B2 unidad 25

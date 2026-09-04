@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Relative clauses y hedging C1: naturaleza"
+title: "Ejercicios de Relative Clauses y Hedging C1"
 description: >-
   Aprende a usar relative clauses avanzadas y lenguaje prudente en inglés C1 con ejemplos del mundo natural. Incluye vocabulario y ejercicios con soluciones.
 readTime: 38 min
 keywords:
-  - relative clauses avanzadas inglés C1
+  - Ejercicios de Relative Clauses y Hedging C1
   - hedging language ejercicios C1
   - whose whereby wherein inglés
   - reduced relative clauses práctica

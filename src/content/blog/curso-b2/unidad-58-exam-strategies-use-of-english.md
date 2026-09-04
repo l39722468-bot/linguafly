@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Estrategias de Examen B2: Use of English — Cloze, Word Formation y Key Word Transformations (Teoría y Ejercicios)"
+title: "Estrategias y Ejercicios de Use of English B2"
 description: >-
   Guía completa de la Unidad 58 del curso B2: estrategias y técnicas para el Use of English del examen Cambridge B2 First, incluyendo cloze, open cloze, word formation y key word transformations con ejercicios y soluciones.
 readTime: 45 min
 keywords:
-  - Use of English estrategias B2
+  - Estrategias y Ejercicios de Use of English B2
   - Cambridge B2 First Use of English
   - cloze word formation key word transformations
   - ejercicios Use of English B2

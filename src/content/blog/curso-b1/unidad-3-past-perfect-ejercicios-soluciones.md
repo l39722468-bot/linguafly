@@ -22,7 +22,7 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-3/past-perfect-formula.png
 keywords:
-- ejercicios inglés B1 unidad 3
+- Ejercicios de Past Perfect en Inglés B1
 - Past Perfect ejercicios
 - had past participle
 - by the time B1
@@ -34,8 +34,8 @@ related_routes:
 - unidad-2-present-perfect-continuous-ejercicios-soluciones
 - past-perfect-ingles
 - gramatica-ingles-b1-guia
-title: 'Ejercicios Unidad 3 B1: Past Perfect (con soluciones)'
-updatedDate: '2026-08-31'
+title: 'Ejercicios de Past Perfect en Inglés B1'
+updatedDate: '2026-09-04'
 ---
 
 Este artículo reúne **los ejercicios de la Unidad 3 del curso B1** (*Past Perfect*) con **soluciones comentadas**.

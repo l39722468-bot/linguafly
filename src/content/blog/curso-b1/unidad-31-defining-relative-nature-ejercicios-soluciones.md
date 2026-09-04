@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 31 B1: Defining Relative & Nature (con soluciones)'
+title: 'Ejercicios de Oraciones de Relativo Definidas B1'
 description: >-
   Practica todos los ejercicios de la Unidad 31 del curso B1: defining relative clauses (who/which/that);
   the natural world, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 31
+  - Ejercicios de Oraciones de Relativo Definidas B1
   - defining relative ejercicios
   - who which that
   - natural world vocabulary

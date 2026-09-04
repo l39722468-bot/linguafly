@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Repaso B2 Unidades 51–54: Gramática, Vocabulario y Globalización (Teoría y Ejercicios)"
+title: "Repaso de Gramática, Vocabulario y Globalización B2"
 description: >-
   Repaso completo de las unidades 51–54 del curso B2: wish/if only, third conditional, passive voice, passive reporting, reported speech, modals, phrasal verbs, linkers y collocations con vocabulario de globalización. Incluye ejercicios con soluciones.
 readTime: 45 min
 keywords:
-  - repaso inglés B2 unidades 51 54
+  - Repaso de Gramática, Vocabulario y Globalización B2
   - gramática B2 ejercicios mixtos
   - wish third conditional passive modals B2
   - linkers collocations phrasal verbs repaso

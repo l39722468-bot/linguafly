@@ -1,14 +1,14 @@
 ---
 category: curso-b2
 date: '2026-09-01'
-updatedDate: '2026-09-01'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Future Perfect B2: Investigación Médica y Salud (Teoría y Ejercicios)"
+title: "Ejercicios de Future Perfect en Inglés B2"
 description: >-
   Aprende will have + participio, by y by the time B2 con investigación médica, vocabulario de Medical Research & Health, ocho audios y ejercicios resueltos de gramática, vocabulario, reading, listening, writing y speaking.
 readTime: 62 min
 keywords:
-  - future perfect B2 ejercicios
+  - Ejercicios de Future Perfect en Inglés B2
   - will have past participle by
   - by the time futuro perfecto inglés
   - future perfect passive B2

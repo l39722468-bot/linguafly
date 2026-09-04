@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 48 B1: Phrasal Verbs 3 & Work (con soluciones)'
+title: 'Ejercicios de Phrasal Verbs para el Trabajo B1'
 description: >-
   Practica todos los ejercicios de la Unidad 48 del curso B1: work out, look forward to, run out of, take care of, carry out, deal with;
   work & study, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 48
+  - Ejercicios de Phrasal Verbs para el Trabajo B1
   - phrasal verbs ejercicios B1
   - work out look forward to
   - run out of deal with

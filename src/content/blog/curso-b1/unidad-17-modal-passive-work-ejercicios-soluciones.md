@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 17 B1: Modal Passive & Work (con soluciones)'
+title: 'Ejercicios de Voz Pasiva Modal en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 17 del curso B1: modal passive (must/should/can/might be + past participle);
   work & jobs, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 17
+  - Ejercicios de Voz Pasiva Modal en Inglés B1
   - modal passive ejercicios
   - must be done
   - work jobs vocabulary ejercicios

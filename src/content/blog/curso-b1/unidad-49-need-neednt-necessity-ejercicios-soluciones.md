@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 49 B1: Need & Necessity (con soluciones)'
+title: 'Ejercicios de Need y Needn''t en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 49 del curso B1: need / needn't / needn't have + necessity;
   necessity, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 49
+  - Ejercicios de Need y Needn't en Inglés B1
   - need needn't ejercicios
   - needn't have done
   - necessity vocabulary English

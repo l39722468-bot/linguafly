@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 58 B1: Mixed Grammar: Places (con soluciones)'
+title: 'Ejercicios de Gramática Mixta sobre Lugares B1'
 description: >-
   Practica todos los ejercicios de la Unidad 58 del curso B1: passive, would rather, there are, relative where, PP continuous;
   town & countryside, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 58
+  - Ejercicios de Gramática Mixta sobre Lugares B1
   - ciudad campo ejercicios B1
   - mixed grammar places
   - there are relative where

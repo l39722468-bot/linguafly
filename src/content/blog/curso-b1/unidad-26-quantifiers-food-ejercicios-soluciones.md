@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 26 B1: Quantifiers & Food (con soluciones)'
+title: 'Ejercicios de Cuantificadores en Inglés B1'
 description: >-
   Practica todos los ejercicios de la Unidad 26 del curso B1: quantifiers (much/many/a lot/few/little);
   food & drink, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés B1 unidad 26
+  - Ejercicios de Cuantificadores en Inglés B1
   - quantifiers ejercicios B1
   - much many few little
   - food drink vocabulary

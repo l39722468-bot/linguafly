@@ -1,14 +1,14 @@
 ﻿---
 category: curso-b2
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Repaso B2 Unidades 16–19: Passive, Modals, So/Such & Comparatives (Teoría y Ejercicios)"
+title: "Repaso de Voz Pasiva, Modales y Comparativos B2"
 description: >-
   Repasa passive all tenses, modal passive, have something done, so/such/too/enough y comparativos avanzados del módulo 2 B2 con teoría completa y ejercicios resueltos. Guía y cuaderno de la Unidad 20 con audios.
 readTime: 40 min
 keywords:
-  - repaso B2 unidades 16-19
+  - Repaso de Voz Pasiva, Modales y Comparativos B2
   - passive modal so such comparatives
   - have something done review
   - inglés B2 unidad 20
