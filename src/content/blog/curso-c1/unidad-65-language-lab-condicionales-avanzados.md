@@ -3,11 +3,11 @@ category: curso-c1
 date: '2026-10-05'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Condicionales Avanzados en Inglés C1: Guía y Ejercicios"
+title: "Ejercicios de Condicionales Avanzados en Inglés C1"
 description: >-
   Domina los condicionales avanzados del inglés C1: tipos mixtos, condicionales invertidos con had y should, alternativas con unless, provided that y supposing, y la inversión enfática que distingue la sintaxis avanzada de la meramente correcta.
 readTime: 40 min
-keywords: ["Condicionales Avanzados en Inglés C1: Guía y Ejercicios", "ejercicios inglés C1 gratis", "condicionales mixtos inglés C1", "inversión condicional inglés", "third conditional inversion", "unless provided that supposing", "conditionals advanced English", "condicionales avanzados ejercicios C1", "had I known should you need were I", "inversión en third conditional", "alternativas formales a if inglés", "mixed conditionals con soluciones"]
+keywords: ["Ejercicios de Condicionales Avanzados en Inglés C1", "ejercicios inglés C1 gratis", "condicionales mixtos inglés C1", "inversión condicional inglés", "third conditional inversion", "unless provided that supposing", "conditionals advanced English", "condicionales avanzados ejercicios C1", "had I known should you need were I", "inversión en third conditional", "alternativas formales a if inglés", "mixed conditionals con soluciones"]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-65-language-lab-condicionales-avanzados'
 image: /blog/curso-c1/unit-65/language-lab-condicionales-avanzados.png
 alt: "Laboratorio de idiomas con diagrama de condicionales mixtos e inversión enfática"

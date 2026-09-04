@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-10-09'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Hedging en Inglés C1: Atenuación y Postura Académica"
+title: "Ejercicios de Hedging y Postura Académica C1"
 description: >-
   Domina el hedging y la postura autoral en inglés académico y profesional de nivel C1:
   verbos modales epistémicos, adverbios de probabilidad, verbos de postura, cláusulas con
@@ -12,7 +12,7 @@ description: >-
 readTime: 40 min
 keywords:
   [
-    "Hedging en Inglés C1: Atenuación y Postura Académica",
+    "Ejercicios de Hedging y Postura Académica C1",
     "atenuación académica inglés",
     "verbos de postura C1",
     "postura autoral inglés académico",

@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-10-01'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Phrasal Verbs Formales en Inglés C1: Argumentación"
+title: "Ejercicios de Phrasal Verbs Formales en Inglés C1"
 description: >-
   En esta unidad del curso de inglés C1 gratis del Language Lab aprendes a usar phrasal verbs de registro formal
   en contextos argumentativos, a dominar su colocación y a distinguir cuándo un phrasal verb eleva el registro
@@ -11,7 +11,7 @@ description: >-
 readTime: 40 min
 keywords:
   [
-    Phrasal Verbs Formales en Inglés C1: Argumentación,
+    Ejercicios de Phrasal Verbs Formales en Inglés C1,
     ejercicios inglés C1 gratis,
     phrasal verbs en inglés C1,
     phrasal verbs formales argumento,

@@ -3,11 +3,11 @@ category: curso-c1
 date: '2026-10-04'
 updatedDate: '2026-10-04'
 author: linguafly-team
-title: "Fórmulas Fijas y Stems Académicos en Inglés C1"
+title: "Ejercicios de Fórmulas Fijas y Stems Académicos C1"
 description: >-
   Domina las fórmulas fijas y los stems académicos que distinguen la escritura formal C1: collocations institucionales, chunks de hedges y framing, y las estructuras cristalizadas que todo ensayo avanzado necesita.
 readTime: 40 min
-keywords: ["Fórmulas Fijas y Stems Académicos en Inglés C1", "ejercicios inglés C1 gratis", "fórmulas fijas inglés académico", "stems académicos C1", "academic writing C1", "collocations formales inglés", "frases hechas registro académico", "fórmulas fijas ejercicios C1", "stems académicos para essays", "chunks de hedging y framing", "collocations institucionales inglés", "plantillas escritura académica avanzada"]
+keywords: ["Ejercicios de Fórmulas Fijas y Stems Académicos C1", "ejercicios inglés C1 gratis", "fórmulas fijas inglés académico", "stems académicos C1", "academic writing C1", "collocations formales inglés", "frases hechas registro académico", "fórmulas fijas ejercicios C1", "stems académicos para essays", "chunks de hedging y framing", "collocations institucionales inglés", "plantillas escritura académica avanzada"]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-64-language-lab-formulas-fijas-stems-academicos'
 image: /blog/curso-c1/unit-64/language-lab-formulas-fijas-stems-academicos.png
 alt: "Laboratorio de idiomas con manuscrito académico y fórmulas fijas destacadas"

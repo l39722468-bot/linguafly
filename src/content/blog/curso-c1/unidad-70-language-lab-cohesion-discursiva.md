@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-10-10'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Cohesión Discursiva en Inglés C1: Conectores y Referencia"
+title: "Ejercicios de Cohesión Discursiva en Inglés C1"
 description: >-
   Domina la cohesión discursiva en inglés académico y profesional de nivel C1:
   conectores aditivos, adversativos, causales y consecutivos, referencia anafórica
@@ -12,7 +12,7 @@ description: >-
 readTime: 40 min
 keywords:
   [
-    "Cohesión Discursiva en Inglés C1: Conectores y Referencia",
+    "Ejercicios de Cohesión Discursiva en Inglés C1",
     "conectores discursivos inglés",
     "referencia anafórica catafórica inglés",
     "progresión temática C1",

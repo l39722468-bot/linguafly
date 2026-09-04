@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-10-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Verbos y Adjetivos con Preposición en Inglés C1"
+title: "Ejercicios de Verbos y Adjetivos con Preposición C1"
 description: >-
   En esta unidad del curso de inglés C1 gratis del Language Lab aprendes a dominar los patrones preposicionales
   de verbos y adjetivos, a evitar las interferencias de la lengua materna y a desplegar las colocaciones
@@ -12,7 +12,7 @@ description: >-
 readTime: 40 min
 keywords:
   [
-    Verbos y Adjetivos con Preposición en Inglés C1,
+    Ejercicios de Verbos y Adjetivos con Preposición C1,
     ejercicios inglés C1 gratis,
     verbos con preposición en inglés C1,
     adjetivos con preposición C1,

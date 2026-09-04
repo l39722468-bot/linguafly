@@ -3,11 +3,11 @@ category: curso-c1
 date: '2026-10-08'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Oraciones Hendidas en Inglés C1: It-Clefts y Wh-Clefts"
+title: "Ejercicios de Oraciones Hendidas en Inglés C1"
 description: >-
   Domina las oraciones hendidas (it-clefts) y pseudohendidas (wh-clefts) del inglés C1: focalización con it is X that, estructuras con what X is Y, y la reorganización de la estructura informativa para poner en primer plano el elemento focal del mensaje.
 readTime: 40 min
-keywords: ["Oraciones Hendidas en Inglés C1: It-Clefts y Wh-Clefts", "ejercicios inglés C1 gratis", "oraciones hendidas inglés C1", "it cleft English grammar", "pseudohendidas wh-clefts", "cleft sentences emphasis", "focalización sintáctica inglés avanzado", "it cleft wh cleft ejercicios C1", "diferencia cleft y pseudocleft", "it is X that estructura inglés", "what X is Y ejemplos", "focalización sintáctica escritura académica"]
+keywords: ["Ejercicios de Oraciones Hendidas en Inglés C1", "ejercicios inglés C1 gratis", "oraciones hendidas inglés C1", "it cleft English grammar", "pseudohendidas wh-clefts", "cleft sentences emphasis", "focalización sintáctica inglés avanzado", "it cleft wh cleft ejercicios C1", "diferencia cleft y pseudocleft", "it is X that estructura inglés", "what X is Y ejemplos", "focalización sintáctica escritura académica"]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-68-language-lab-hendidas-pseudohendidas'
 image: /blog/curso-c1/unit-68/language-lab-hendidas-pseudohendidas.png
 alt: "Laboratorio de idiomas con diagrama de oraciones hendidas y pseudohendidas"

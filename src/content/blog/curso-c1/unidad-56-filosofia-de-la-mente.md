@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-09-26'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Filosofía de la Mente en Inglés C1: Guía y Ejercicios"
+title: "Ejercicios de Filosofía de la Mente en Inglés C1"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a manejar el léxico de la filosofía de la mente, a usar la
   metáfora con precisión conceptual y a argumentar sobre la consciencia, el cuerpo-mente y la intencionalidad con
@@ -13,7 +13,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    Filosofía de la Mente en Inglés C1: Guía y Ejercicios,
+    Ejercicios de Filosofía de la Mente en Inglés C1,
     problema cuerpo mente inglés C1,
     consciencia en inglés C1,
     metáfora conceptual inglés,

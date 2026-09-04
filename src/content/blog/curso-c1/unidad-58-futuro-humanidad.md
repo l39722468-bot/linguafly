@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-09-28'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Futuro de la Humanidad en Inglés C1: Guía y Ejercicios"
+title: "Ejercicios sobre el Futuro de la Humanidad C1"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a especular de manera prudente en inglés sobre el futuro
   de la humanidad, a usar el hedging y los modales de probabilidad con precisión, y a dominar el léxico de la
@@ -14,7 +14,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    Futuro de la Humanidad en Inglés C1: Guía y Ejercicios,
+    Ejercicios sobre el Futuro de la Humanidad C1,
     riesgos existenciales en inglés,
     especulación prudente C1,
     largo plazo longtermism inglés,

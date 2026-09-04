@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-09-25'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Libre Albedrío y Determinismo en Inglés C1"
+title: "Ejercicios de Libre Albedrío y Determinismo C1"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a manejar el lenguaje abstracto del debate sobre el libre
   albedrío y el determinismo, a usar conectores lógicos con precisión y a argumentar sobre filosofía de la acción
@@ -13,7 +13,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    Libre Albedrío y Determinismo en Inglés C1,
+    Ejercicios de Libre Albedrío y Determinismo C1,
     determinismo inglés C1,
     conectores lógicos C1,
     filosofía de la acción inglés,
