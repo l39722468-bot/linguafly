@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-10'
 updatedDate: '2026-09-10'
 author: linguafly-team
-title: "Argumento institucional y formalidad C1: patrimonio y preservación"
+title: "Ejercicios de Registro Formal y Patrimonio en Inglés C1"
 description: >-
   Aprende el argumento institucional y la formalidad en inglés C1: voz pasiva, nominalización, registro formal, hedges y verbos de postura institucional aplicados al patrimonio y la preservación cultural, con vocabulario, teoría y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - argumento institucional inglés C1
+  - Ejercicios de Registro Formal y Patrimonio en Inglés C1
   - registro formal inglés avanzado
   - voz pasiva nominalización inglés C1
   - vocabulario patrimonio preservación inglés

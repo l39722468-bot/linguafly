@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-08'
 updatedDate: '2026-09-08'
 author: linguafly-team
-title: "Frases nominales complejas y nominalización C1: biodiversidad y conservación"
+title: "Ejercicios de Frases Nominales y Nominalización C1"
 description: >-
   Aprende las frases nominales complejas (pre/post-modificación, the fact that, the proposal to) y la nominalización en inglés C1. Biodiversidad, conservación, vocabulario y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - frases nominales complejas inglés C1
+  - Ejercicios de Frases Nominales y Nominalización C1
   - nominalización ejercicios inglés
   - noun phrase post-modification C1
   - vocabulario biodiversidad inglés

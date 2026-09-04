@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-10'
 updatedDate: '2026-09-10'
 author: linguafly-team
-title: "Comparativas y contraste avanzados C1: océanos y vida marina"
+title: "Ejercicios de Comparativas y Contraste Avanzados C1"
 description: >-
   Aprende las comparativas avanzadas (the more... the more..., far/considerably/marginally + comparativo) y el contraste (whereas, conversely, on the other hand) en inglés C1. Océanos, vida marina, vocabulario y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - comparativas avanzadas inglés C1
+  - Ejercicios de Comparativas y Contraste Avanzados C1
   - the more the more ejercicios inglés
   - whereas conversely on the other hand C1
   - vocabulario océanos vida marina inglés

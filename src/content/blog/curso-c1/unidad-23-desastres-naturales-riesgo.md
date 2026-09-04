@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-09'
 updatedDate: '2026-09-09'
 author: linguafly-team
-title: "Construcciones absolutas y cláusulas de participio C1: desastres naturales y riesgo"
+title: "Ejercicios de Construcciones Absolutas y Participle Clauses C1"
 description: >-
   Aprende las construcciones absolutas (nominative absolute, weather permitting, with + noun + participle) y las cláusulas de participio (Having + pp, -ing/-ed) en inglés C1. Desastres naturales, riesgo, vocabulario y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - construcciones absolutas inglés C1
+  - Ejercicios de Construcciones Absolutas y Participle Clauses C1
   - cláusulas de participio ejercicios
   - nominative absolute with noun participle
   - having + participio inglés C1

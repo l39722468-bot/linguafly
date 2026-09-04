@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-05'
 updatedDate: '2026-09-05'
 author: linguafly-team
-title: "Distancing y modales de deducción C1: crimen y justicia"
+title: "Ejercicios de Distancing y Modales de Deducción C1"
 description: >-
   Aprende el distancing (allegedly, reportedly, it is claimed that, seem/appear to) y los modales de deducción en pasado (must/might/can't have + pp) en inglés C1. Crimen, justicia, vocabulario legal y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - distancing inglés C1
+  - Ejercicios de Distancing y Modales de Deducción C1
   - modales de deducción pasado ejercicios
   - must have can't have might have C1
   - vocabulario legal inglés C1

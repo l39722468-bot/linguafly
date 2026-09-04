@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-10'
 updatedDate: '2026-09-10'
 author: linguafly-team
-title: "Género y crítica fílmica C1: cine y audiovisual"
+title: "Ejercicios de Crítica Cinematográfica en Inglés C1"
 description: >-
   Aprende el lenguaje de la crítica cinematográfica en inglés C1: nominalización, subordinadas de comentario, registro evaluativo y vocabulario de cine (cinematography, soundtrack, pacing, character arc). Con teoría, ejercicios resueltos y modelos de writing.
 readTime: 40 min
 keywords:
-  - crítica cinematográfica inglés C1
+  - Ejercicios de Crítica Cinematográfica en Inglés C1
   - género fílmico vocabulario inglés
   - nominalización inglés avanzado C1
   - subordinadas de comentario C1

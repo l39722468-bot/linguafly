@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-10'
 updatedDate: '2026-09-10'
 author: linguafly-team
-title: "Movimiento y metáfora C1: danza y coreografía"
+title: "Ejercicios de Descripción de Danza en Inglés C1"
 description: >-
   Aprende a escribir sobre danza en inglés C1: cláusulas de relativo explicativas y restrictivas, metáfora y registro descriptivo del movimiento, y vocabulario de danza (choreography, arabesque, pirouette, tempo, partnering, ensemble). Con teoría, ejercicios resueltos y modelos de writing.
 readTime: 40 min
 keywords:
-  - crítica de danza inglés C1
+  - Ejercicios de Descripción de Danza en Inglés C1
   - coreografía vocabulario inglés
   - cláusulas de relativo explicativas restrictivas C1
   - metáfora del movimiento inglés avanzado

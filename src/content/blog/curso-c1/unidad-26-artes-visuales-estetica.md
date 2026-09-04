@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-10'
 updatedDate: '2026-09-10'
 author: linguafly-team
-title: "Descripción e interpretación en artes visuales C1: estética"
+title: "Ejercicios de Descripción e Interpretación de Arte C1"
 description: >-
   Aprende a describir e interpretar obras de arte en inglés C1: cláusulas de participio, inversión concretiva, registro descriptivo-evaluativo y vocabulario de artes visuales (composition, chiaroscuro, perspective, texture, brushwork). Con teoría, ejercicios resueltos y modelos de writing.
 readTime: 40 min
 keywords:
-  - descripción obras de arte inglés C1
+  - Ejercicios de Descripción e Interpretación de Arte C1
   - interpretación estética vocabulario inglés
   - cláusulas de participio inglés C1
   - inversion concesiva inglés avanzado

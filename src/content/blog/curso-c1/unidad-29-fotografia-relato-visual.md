@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-10'
 updatedDate: '2026-09-10'
 author: linguafly-team
-title: "Inferencia visual-textual C1: fotografía y relato visual"
+title: "Ejercicios de Crítica Fotográfica en Inglés C1"
 description: >-
   Aprende a escribir sobre fotografía en inglés C1: elipsis y sustitución, inferencia visual-textual, registro descriptivo-interpretativo y vocabulario fotográfico (composition, exposure, depth of field, framing, juxtaposition). Con teoría, ejercicios resueltos y modelos de writing.
 readTime: 40 min
 keywords:
-  - crítica fotográfica inglés C1
+  - Ejercicios de Crítica Fotográfica en Inglés C1
   - fotografía vocabulario inglés
   - elipsis y sustitución inglés C1
   - inferencia visual textual inglés avanzado

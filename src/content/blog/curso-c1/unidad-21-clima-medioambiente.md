@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-07'
 updatedDate: '2026-09-07'
 author: linguafly-team
-title: "Condicionales avanzados y hedging C1: clima y medio ambiente"
+title: "Ejercicios de Condicionales Avanzados y Hedging C1"
 description: >-
   Aprende los condicionales mixtos y la inversión condicional (Had we..., Were it not for...) y el hedging (tend to, arguably, the data suggests) en inglés C1. Clima, medio ambiente, vocabulario y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - condicionales mixtos inglés C1
+  - Ejercicios de Condicionales Avanzados y Hedging C1
   - inversión condicional had we ejercicios
   - hedging inglés académico C1
   - vocabulario clima medio ambiente inglés

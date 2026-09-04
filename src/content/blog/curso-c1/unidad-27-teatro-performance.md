@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-10'
 updatedDate: '2026-09-10'
 author: linguafly-team
-title: "Registro de reseña y oralidad C1: teatro y performance"
+title: "Ejercicios de Reseña Teatral y Oralidad C1"
 description: >-
   Aprende el lenguaje de la reseña teatral en inglés C1: inversión negativa, énfasis con do/does, registro evaluativo de performance y vocabulario de teatro (staging, monologue, soliloquy, blocking, encore). Con teoría, ejercicios resueltos y modelos de writing.
 readTime: 40 min
 keywords:
-  - reseña teatral inglés C1
+  - Ejercicios de Reseña Teatral y Oralidad C1
   - teatro y performance vocabulario inglés
   - inversión negativa inglés avanzado C1
   - énfasis do does does inglés C1
