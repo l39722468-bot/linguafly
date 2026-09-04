@@ -158,4 +158,13 @@ Si estás siguiendo el curso por unidades, estas guías conectan este tema con l
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/
 - British Council LearnEnglish: https://www.britishcouncil.org/learnenglish
+
+## Regla esencial y práctica
+
+**Ever** aparece en preguntas de experiencia (*Have you ever worked abroad?*)
+y después de superlativos. **Never** ya es negativo: *I have never tried
+sushi*, nunca *I haven't never*. Si hay una fecha terminada, usa past simple.
+Completa: *Have you ______ taken an online exam?* / *I have ______ seen snow.*
+Soluciones: *ever* y *never*. Responde *Yes, I have* o *No, I haven't* y pide
+después *When did you...?* para hablar del evento concreto.
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages

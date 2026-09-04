@@ -173,6 +173,25 @@ Saber responder bien a un ofrecimiento es tan importante como saber hacerlo:
 Para ver más usos de *will* en contextos comunicativos, consulta [Preguntas con Will en Inglés](/blog/gramatica/will-preguntas-ingles) y la guía completa de [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles).
  Y para el contexto completo de cuándo usar *will* — predicciones, promesas, futuro — consulta [Will para el Futuro en Inglés](/blog/gramatica/will-futuro-ingles).
 
+## Escala de cortesía y práctica
+
+**Will** no solo habla del futuro: también permite ofrecer ayuda, pedir una decisión o prometer una acción. *Will you carry this box?* es una petición directa; *Will you please send the file?* añade cortesía. Para una oferta espontánea usamos *Shall I...?* o *Can I...?*: *Shall I open the window?*; para una promesa, *I'll do it tonight*. En situaciones profesionales, suaviza la petición con *Would you mind...*, *Could you...* o *I was wondering if you could...*. No uses *will* después de *if* cuando la cláusula introduce una condición: *If you need help, I will stay*.
+
+### Completa el diálogo
+
+1. The bags are heavy. ______ I carry one?
+2. ______ you check these figures, please?
+3. “The printer is broken.” “I ______ call IT.”
+4. ______ you mind waiting outside for a moment?
+5. “We need a taxi.” “I ______ book one now.”
+6. Convierte en petición más formal: *Send me the contract.*
+7. Responde de forma cortés: *Will you help me after lunch?*
+8. Corrige: *If you will need anything, I will be at reception.*
+
+**Soluciones posibles:** 1. *Shall* (o *Can*). 2. *Will* / *Could*. 3. *will*. 4. *Would*. 5. *will*. 6. *Could you send me the contract, please?* 7. *Of course, I will* / *Sorry, I won't be available*. 8. *If you need anything, I will be at reception*. En una conversación real, añade *please* y una razón cuando la petición implique esfuerzo.
+
+Una comprobación útil es identificar la intención: oferta (*Shall I...?*), promesa (*I’ll...*), petición (*Will you...?*) o decisión instantánea (*I’ll take it*). Practica cada patrón con tres situaciones de casa y tres del trabajo; el objetivo es que la forma salga sin traducir palabra por palabra.
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

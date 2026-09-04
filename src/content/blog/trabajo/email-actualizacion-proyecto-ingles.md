@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Emails de Actualización de Proyecto en Inglés'
 description: >-
   Aprende a escribir progress updates y status reports por email en inglés.
@@ -150,6 +150,34 @@ La clave de un buen update no es solo reportar lo positivo: es dar a quien lo le
 ---
 
 Para dominar la estructura base de cualquier email profesional en inglés, consulta la [Guía de Emails Formales en Inglés: Estructura y Ejemplos](/blog/trabajo/email-formal-ingles-estructura).
+
+## Plantilla adaptable y checklist
+
+Usa esta estructura y sustituye los corchetes antes de enviarla:
+
+> **Subject:** [Project] — weekly update [date] — [On track/At risk/Delayed]
+>
+> Hi [name/team],
+> **Summary:** [One sentence with the overall status.]
+> **Done:** [deliverable] was completed on [date] and reviewed by [owner].
+> **In progress:** We are working on [task], currently [percentage/status], with an ETA of [date].
+> **Risks or decisions needed:** [risk] could affect [impact]. Could you confirm [decision] by [date]?
+> **Next steps:** [owner] will [action] by [date]. The next update is due on [date].
+> Best regards, [name]
+
+Distingue *deadline* (fecha límite), *milestone* (hito), *deliverable* (entregable), *dependency* (dependencia), *owner* (responsable), *ETA* (fecha estimada), *scope* (alcance) y *sign-off* (aprobación). Para no alarmar, usa *potential impact*, *under review* y *mitigation plan*. En vez de “There is a problem”, escribe “The delivery has slipped by two days due to a supplier dependency”.
+
+Adapta el detalle: “Quick update: testing is 80% complete” funciona para el equipo; “We remain on track for the agreed launch date” para un cliente; “Overall status: At risk. Approval is needed today” para dirección. Antes de pulsar *Send*, comprueba:
+
+- [ ] El asunto incluye proyecto, periodo y estado.
+- [ ] Cada tarea tiene responsable y fecha.
+- [ ] Separé hechos, riesgos y decisiones solicitadas.
+- [ ] Expliqué impacto y acción de mitigación.
+- [ ] Revisé cifras, nombres, enlaces y zonas horarias.
+
+### Ejercicio de precisión
+
+Reescribe “We have a problem with the supplier” en tres versiones: neutral (“We identified a supplier delay”), orientada a la acción (“We are reviewing an alternative supplier”) y ejecutiva (“The delay may affect the 20 June milestone; approval is needed today”). Léelas en voz alta y comprueba que cada verbo deja claro quién hará qué.
 
 ## Fuentes
 

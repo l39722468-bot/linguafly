@@ -99,6 +99,22 @@ Para que tus **clases de inglés** den frutos, sigue estos pasos:
 
 La clave para sacar partido a cualquier clase de inglés es combinar el método correcto con constancia. Tanto si optas por clases presenciales, online con tutor o plataformas de estudio estructurado, lo importante es que el formato encaje con tu ritmo de vida y te permita practicar con regularidad.
 
+## Cómo elegir y aprovechar una clase
+
+Antes de matricularte, define el resultado observable: mantener una conversación de diez minutos, preparar una entrevista, aprobar B2 o escribir informes. Haz una prueba de nivel que evalúe comprensión y producción; una puntuación de gramática no basta para asignarte grupo. Pregunta por el número de alumnos, la formación del docente, la política de cancelación, los materiales y cuántos minutos hablarás realmente en cada sesión.
+
+Una buena clase sigue un ciclo: modelo breve, práctica controlada, tarea comunicativa y feedback. El profesor debería corregir los errores que bloquean el significado y anotar patrones para trabajarlos después, no interrumpir cada frase. En grupo, busca turnos equilibrados y actividades en parejas; en individual, acuerda objetivos semanales y evidencias de progreso. Si solo escuchas una explicación, necesitas complementar con producción.
+
+### Lista de comprobación
+
+1. ¿El programa describe objetivos por nivel MCER?
+2. ¿Incluye speaking y writing, además de ejercicios autocorregibles?
+3. ¿Recibes una corrección concreta y reutilizable?
+4. ¿El horario y la duración permiten asistir al menos ocho semanas?
+5. ¿Puedes cambiar de grupo si el ritmo no encaja?
+
+Para aprovechar la sesión, llega con tres preguntas y repasa el vocabulario anterior durante cinco minutos. Después de clase, graba un resumen de un minuto y reescribe la corrección más importante. Cada cuatro semanas compara la grabación inicial con la actual usando cuatro criterios: fluidez, precisión, pronunciación y capacidad para desarrollar ideas. Si no hay cambios medibles, habla con el docente y ajusta el plan antes de cambiar de academia.
+
 ## Fuentes
 
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages

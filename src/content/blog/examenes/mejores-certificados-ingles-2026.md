@@ -98,6 +98,29 @@ Para no equivocarte, hazte estas tres preguntas antes de pagar las tasas:
 
 ---
 
+## Matriz de decisión y preparación
+
+Si solicitas una universidad, guarda la página de admisiones donde confirma qué
+certificado acepta. Para inmigración, comprueba si exige IELTS Academic, General
+Training o una prueba específica. Para un currículum sin fecha límite, Cambridge
+puede ser conveniente por su reconocimiento permanente; aun así, confirma si la
+empresa pide una antigüedad máxima.
+
+Cuando necesitas resultados rápidos, compara la fecha de examen con el plazo de
+envío, no solo el tiempo de corrección. Comprueba también si aceptan *One Skill
+Retake*, *Home Edition* o el envío directo del organismo examinador.
+
+Plan común de cuatro semanas: la primera incluye diagnóstico, objetivo y rúbrica;
+la segunda alterna Reading/Listening con vocabulario; la tercera practica dos tareas
+escritas y dos respuestas orales; la cuarta contiene dos simulacros cronometrados y
+la preparación logística.
+
+Antes de pagar, responde: ¿aceptan esta modalidad?, ¿hay mínimos por destreza?,
+¿seguirá vigente al empezar el curso?, ¿puedo repetir una sección?, ¿he incluido
+tasas y desplazamiento? Elegir con estas respuestas evita basarse solo en la fama o
+el precio. Guarda enlaces y fechas en un calendario, porque reglas y formatos se
+actualizan con frecuencia.
+
 ## Prepárate para el Éxito con Linguafly
 
 En **Linguafly**, no solo te enseñamos inglés; te entrenamos para vencer al examen. Nuestra plataforma incluye:

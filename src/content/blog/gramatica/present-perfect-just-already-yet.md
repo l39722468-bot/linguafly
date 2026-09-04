@@ -170,6 +170,27 @@ Si estás siguiendo el curso por unidades, estas guías conectan este tema con l
 - [A2 U12 — Ever & Never](/blog/curso-a2/unidad-12-present-perfect-ever-never)
 - [A2 U11 — Present Perfect: Introducción](/blog/curso-a2/unidad-11-present-perfect-introduccion)
 
+## Ejercicios de just, already y yet
+
+**Just** indica que algo acaba de ocurrir y normalmente va entre el auxiliar y el participio: *She has just arrived*. **Already** señala que ocurrió antes de lo esperado; suele ocupar la misma posición: *I've already paid*. **Yet** pregunta si algo ha ocurrido hasta ahora o niega que haya ocurrido; se coloca al final: *Have you finished yet?* / *I haven't finished yet*. En inglés americano es frecuente el past simple con *just*, pero el present perfect es la opción segura en ejercicios y en inglés británico.
+
+### Completa con la palabra adecuada
+
+1. The train has ______ left; hurry up.
+2. Have you sent the invoice ______?
+3. We have ______ booked the hotel, so no action is needed.
+4. She hasn't replied ______.
+5. I've ______ spoken to the client; he is waiting.
+6. Corrige: *I have yet finished the report.*
+7. Convierte en pregunta: *They have already eaten.*
+8. Escribe una respuesta natural a: *Has Tom arrived yet?*
+
+**Soluciones:** 1. *just*. 2. *yet*. 3. *already*. 4. *yet*. 5. *just*. 6. *I haven't finished the report yet*. 7. *Have they eaten yet?* (también *Have they already eaten?* si sorprende la rapidez). 8. *Yes, he has just arrived* o *No, he hasn't arrived yet*.
+
+### Criterios prácticos
+
+No confundas *already* con *still*: *She has already left* significa que se fue; *She is still here* que continúa aquí. Para una secuencia de trabajo, escribe: *I have just opened the file, I have already checked the figures, but I haven't sent it yet*. Después sustituye cada marcador por una hora concreta y decide si necesitas past simple. Leer la secuencia en voz alta te ayuda a colocar *yet* al final y a contraer *hasn't/haven't* con naturalidad.
+
 ## Fuentes
 
 - Cambridge Dictionary (just/already/yet): https://dictionary.cambridge.org/grammar/british-grammar/already-still-or-yet

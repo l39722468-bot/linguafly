@@ -82,6 +82,30 @@ Elegir entre IELTS y TOEFL depende de tu destino y de tus fortalezas personales:
 
 Independientemente de tu elección, ambos exámenes requieren una estrategia sólida. No basta con "saber inglés"; hay que conocer el formato del examen. Practica con simulacros oficiales, guías de vocabulario específico y escucha inglés en contextos formales para alcanzar tu nota objetivo.
 
+## Comparación práctica y decisión
+
+En **Listening**, IELTS permite leer preguntas y responder sobre conversaciones de
+acento variado; anota números, nombres y cambios de opinión. TOEFL concentra el
+audio en clases y campus: toma apuntes con una tabla de *main idea, reason, example*
+y no intentes escribir cada frase. En **Speaking**, IELTS es conversación presencial,
+mientras TOEFL graba respuestas breves y combina lectura, escucha y síntesis.
+
+Para **Writing**, IELTS Academic pide describir un gráfico en Task 1 y argumentar en
+Task 2: resume primero las tendencias y no hagas una lista de números. TOEFL exige
+una respuesta integrada y otra independiente; atribuye cada idea a la fuente y usa
+conectores de contraste. En ambos, una estructura clara y ejemplos relevantes pesan
+más que vocabulario poco seguro.
+
+Antes de pagar, descarga los requisitos de cada institución y comprueba modalidad,
+nota total y mínimos por sección. Haz un mini diagnóstico de ambos exámenes; calcula
+tasas, desplazamiento, fechas y plazo de envío. Elige un formato y estudia su rúbrica
+durante cuatro semanas: cambiar a mitad del plan suele ser menos eficiente que
+corregir una debilidad.
+
+Lleva una hoja con objetivo (por ejemplo, IELTS 7.0 o TOEFL 100), fecha límite y
+error prioritario. Repite un simulacro diez días antes y verifica la información en
+la institución, porque equivalencias y modalidades pueden cambiar.
+
 *Si aún tienes dudas, consulta la [guía completa de certificaciones de inglés oficiales](/blog/examenes/mejores-certificados-ingles-2026) donde comparamos estos exámenes con Cambridge, Aptis y Duolingo.*
 
 ---

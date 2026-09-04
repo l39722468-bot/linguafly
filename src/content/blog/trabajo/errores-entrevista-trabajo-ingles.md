@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Errores más Comunes en una Entrevista de Trabajo en Inglés'
 description: >-
   Los errores más frecuentes en entrevistas de trabajo en inglés y cómo
@@ -101,6 +101,30 @@ La mayor parte de los errores en entrevistas tienen una cosa en común: son evit
 ---
 
 Para una preparación completa de tu entrevista de trabajo en inglés, consulta la [Guía Completa para Preparar tu Entrevista de Trabajo en Inglés](/blog/trabajo/preparar-entrevista-trabajo-ingles).
+
+## Diagnóstico práctico antes de la entrevista
+
+Grábate respondiendo a “Tell me about yourself” en 90 segundos. Escucha claridad, evidencia y muletillas; repite hasta poder hablar sin leer un guion. La meta no es borrar tu acento, sino que el entrevistador entienda tu contribución a la primera.
+
+Errores típicos y correcciones:
+
+- *I am agree* → *I agree*; *I depend of* → *It depends on*.
+- *We solved it* → *I analysed the issue, coordinated two teams and we solved it in three days*.
+- *I managed a campaign* → *I managed a campaign that increased qualified leads by 18%*.
+- *My manager was impossible* → *I was looking for clearer opportunities to grow*.
+- *Um… basically…* → una pausa o “Let me think for a moment”.
+
+Si no entiendes, pregunta: “Could you rephrase that, please?” o “Do you mean my technical experience or my communication style?” Pedir precisión demuestra criterio. Prepara tarjetas STAR con solo tres palabras clave por historia: *Situation: delayed launch; Task: recover timeline; Action: prioritised tests; Result: launched two weeks earlier*. Así adaptas la respuesta sin memorizar párrafos.
+
+## Checklist de 24 horas
+
+- [ ] Investigué producto, competidores y valores de la empresa.
+- [ ] Tengo cinco historias STAR con cifras y verbos en pasado.
+- [ ] Practiqué salario, disponibilidad y una debilidad real.
+- [ ] Probé cámara, auriculares, conexión y zona horaria.
+- [ ] Preparé tres preguntas y un cierre: “Thank you for your time; I’m very interested”.
+
+Pide a alguien una pregunta inesperada. Respira, reformula y responde con idea principal, ejemplo y resultado. Corrige un error una sola vez (“I mean, the deadline was Friday”) y continúa; disculparte repetidamente llama más la atención que el error original.
 
 ## Fuentes
 

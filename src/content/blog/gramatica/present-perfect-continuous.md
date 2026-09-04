@@ -158,3 +158,11 @@ Los verbos de estado no describen acciones sino situaciones o estados, y normalm
 - Cambridge Dictionary: https://dictionary.cambridge.org/
 - British Council LearnEnglish: https://www.britishcouncil.org/learnenglish
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages
+
+## Comprobación rápida
+
+Completa: *I ______ (wait) since nine*, *She ______ (know) him for years* y
+*How many emails ______ you ______ (send)?* Soluciones: *have been waiting*,
+*has known* (verbo estativo) y *have, sent* (cantidad). Si destacas proceso o
+duración, elige continuous; si destacas resultado, número o un estado, elige
+simple.

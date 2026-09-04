@@ -121,3 +121,44 @@ Estructura: **If + past perfect, would have + past participle**
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/
 - British Council LearnEnglish: https://www.britishcouncil.org/learnenglish
+
+### Producción controlada
+
+Transforma *I don't know her number, so I can't call her* en una hipótesis del
+presente: *If I knew her number, I could call her*. Después transforma *He
+didn't back up the file, so he lost the data*: *If he had backed up the file,
+he wouldn't have lost the data*. Explica por qué la primera usa past simple y
+la segunda past perfect. Finalmente escribe una frase con *might* para mostrar
+una consecuencia posible, no segura. Revisa que el auxiliar corresponda al
+tiempo y que nunca aparezca *would* tras *if*.
+
+Como práctica oral, justifica una decisión hipotética usando *If I were you* y
+cuenta un arrepentimiento con *If I had...*. Añade una razón con *because*,
+*although* o *so* para conectar las ideas.
+
+## Second, Third y mixed conditional: práctica
+
+El **Second Conditional** imagina una situación improbable: *If I had more
+time, I would learn Japanese*. El **Third Conditional** mira hacia un pasado
+irreversible: *If we had left earlier, we would have caught the train*. Nunca
+pongas *would* después de *if*. Completa: 1) *If I ______ (be) you, I ______
+(ask) for help.* 2) *If they ______ (know) about traffic, they ______ (leave)
+earlier.* 3) *If I had accepted the job, I ______ (live) abroad now.* 4)
+Corrige: *If I would have studied, I passed.*
+
+**Soluciones:** 1) *were, would ask*. 2) *had known, would have left*. 3)
+*would be living* (mixed conditional). 4) *If I had studied, I would have
+passed the exam*. Para revisar, subraya condición y consecuencia, identifica
+el momento temporal y comprueba auxiliar, participio y coma. Acepta *could* o
+*might* cuando expresen capacidad o posibilidad, no certeza.
+
+### Reto final
+
+Redacta un mensaje sobre una decisión profesional: explica qué harías si
+tuvieras más tiempo, qué habría ocurrido si hubieras elegido otra opción y qué
+consecuencia presente mantiene esa decisión. Usa un second, un third y un
+mixed conditional, y añade *could* o *might* en una de las consecuencias.
+Después revisa cada oración con tres preguntas: ¿la condición pertenece al
+presente o al pasado?, ¿el auxiliar coincide con ese tiempo?, ¿aparece
+*would* únicamente en la consecuencia? Leer el texto en voz alta ayuda a
+detectar participios irregulares y evita mezclar *had* con *would have*.

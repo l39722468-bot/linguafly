@@ -178,6 +178,27 @@ En inglés americano es más común *Should I...?* o *Do you want me to...?*
 
 Para el contexto completo de los auxiliares modales, consulta la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles).
 
+## Tipos de preguntas con will
+
+La pregunta básica se forma con **Will + sujeto + verbo base?**: *Will you join us?* Nunca añadas *to* ni una terminación *-s*: *Will she come?*, no *Will she comes?* Para preguntar por información, coloca la palabra interrogativa delante: *When will they arrive?*; si *who* es el sujeto, no inviertas: *Who will lead the meeting?* En preguntas indirectas el orden vuelve a ser afirmativo: *Do you know when they will arrive?*, no *when will they arrive*.
+
+### Completa y transforma
+
+1. ______ you ______ (attend) the workshop tomorrow?
+2. Where ______ the visitors ______ (stay)?
+3. Who ______ (present) the results?
+4. Make indirect: *When will the shop open?* → *Do you know ...?*
+5. Corrige: *Will he signs the form?*
+6. Responde brevemente: *Will you be free at six?*
+7. Escribe una pregunta para saber quién pagará la reserva.
+8. Cambia a negativa: *They will remember the instructions.*
+
+**Soluciones:** 1. *Will, attend*. 2. *will, stay*. 3. *will present*. 4. *Do you know when the shop will open?* 5. *Will he sign the form?* 6. *Yes, I will* / *No, I won't*. 7. *Who will pay for the booking?* 8. *They won't remember the instructions*. Acepta *will not* en registro formal.
+
+### Preguntar sin sonar brusco
+
+En atención al cliente, *Will you send it today?* puede sonar exigente. Usa *Could you tell me when you will send it?* o *Do you think you will be able to send it today?* si quieres dejar margen. Para decisiones y predicciones, *What will happen if we delay the launch?* pide análisis, mientras que *Will the launch be delayed?* solo pide confirmación. Practica un mini diálogo: formula una pregunta directa, conviértela en indirecta y responde usando la contracción adecuada (*I’ll, she’ll, won’t*).
+
 ## Fuentes
 
 - Cambridge Dictionary (questions with will): https://dictionary.cambridge.org/grammar/british-grammar/questions-forms

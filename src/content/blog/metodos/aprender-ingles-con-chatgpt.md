@@ -233,6 +233,21 @@ ChatGPT es la herramienta más versátil y personalizable que existe hoy para ap
 
 Para comparar con otras herramientas y apps de aprendizaje, consulta [La Mejor App para Aprender Inglés en 2026](/blog/metodos/mejor-app-aprender-ingles).
 
+## Cómo estudiar con ChatGPT sin perder autonomía
+
+ChatGPT funciona mejor como tutor de práctica, no como sustituto de exposición real ni de un profesor. Define el nivel, el objetivo y el contexto en cada prompt: “Actúa como entrevistador para un puesto de marketing, haz una pregunta B2 cada vez, espera mi respuesta y corrige solo tres errores”. Pide que separe **error**, **explicación** y **versión natural**; así no recibes una lista interminable de cambios.
+
+### Prompts útiles
+
+- “Crea diez frases con *present perfect* y deja un hueco; no muestres las soluciones hasta que responda”.
+- “Simula una llamada de hotel. Si uso una palabra demasiado informal, ofrece una alternativa profesional”.
+- “Corrige este email según claridad, gramática, tono y concisión; conserva mis ideas”.
+- “Hazme preguntas de seguimiento y anota cinco colocaciones B2 con traducción y ejemplo”.
+
+Verifica siempre las respuestas: los modelos pueden inventar reglas, aceptar una frase poco natural o dar una traducción con otro registro. Contrasta la duda en un diccionario fiable y pregunta por variantes británicas y americanas. No compartas contraseñas, datos de clientes ni información personal en conversaciones de estudio.
+
+Una rutina de 20 minutos puede ser: cinco de repaso de errores anteriores, diez de role play y cinco de reformulación. Guarda solo los errores recurrentes en una tabla con fecha, frase original, corrección y ejemplo propio. Al final de la semana intenta producir las frases sin mirar. Si puedes explicar por qué una forma es correcta y utilizarla en una conversación humana, la herramienta está acelerando tu aprendizaje; si solo copias respuestas, está sustituyendo la práctica.
+
 ## Fuentes
 
 - OpenAI (ChatGPT): https://openai.com/

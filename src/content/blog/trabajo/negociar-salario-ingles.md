@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Cómo Negociar el Salario en Inglés: Frases y Guía'
 description: >-
   Aprende a negociar tu salario en inglés con confianza. Cuándo y cómo
@@ -122,6 +122,25 @@ La negociación salarial no es una confrontación: es una conversación de negoc
 ---
 
 Para el contexto completo de la entrevista — preparación, preguntas difíciles, técnica STAR — consulta la [Guía Completa para Preparar tu Entrevista de Trabajo en Inglés](/blog/trabajo/preparar-entrevista-trabajo-ingles).
+
+## Calcula tu rango y el valor total
+
+Anota salario base, bonus, acciones, vacaciones, seguro, pensión, modalidad remota y traslado. Distingue *gross salary* de *net salary*, *base pay* de *total compensation* y *annual* de *monthly*. Define tres números privados: objetivo, mínimo aceptable y punto de retirada. No compartas el mínimo.
+
+Puedes decir: “Thank you for the offer. I’m excited about the role. Based on the scope, my experience in [skill] and current market data, I was targeting [range]. Is there flexibility to bring the base closer to [target]?” Si preguntan por tu salario actual: “I’d prefer to focus on the value and responsibilities of this role. Could you share the budgeted range?” Si el fijo no cambia, pregunta: “Could we discuss a six-month salary review with written performance criteria?” Aclara siempre *target, eligibility* y fecha de pago del bonus.
+
+Si no hay margen salarial, negocia una variable que valores: “If the base cannot move, would you consider an extra week of annual leave or a professional development budget?” También puedes hablar de fecha de inicio, título, horario, *signing bonus* o *relocation support*. Concede una cosa a cambio de otra: “I can be flexible on the start date if the review is brought forward.”
+
+## Después de la llamada
+
+“I’m very interested. May I have until [date] to review the written offer?” Después confirma: “My understanding is: base [x], bonus [y], [benefit], review on [date]. Please confirm these points in the contract.” Conserva versiones y consulta asesoría local para impuestos o cláusulas de no competencia.
+
+- [ ] Investigué tres referencias comparables.
+- [ ] Preparé pruebas de impacto y logros.
+- [ ] Pregunté por bonus, revisión y beneficios.
+- [ ] Todo quedó por escrito.
+
+Practica una contraoferta de 30 segundos sin disculparte: cambia “Sorry, I was hoping…” por “Based on the scope, I was targeting…”. Una pausa después de la cifra transmite profesionalidad.
 
 ## Fuentes
 

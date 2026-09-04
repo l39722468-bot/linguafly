@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Qué Preguntas Hacer al Entrevistador en Inglés: Ejemplos y Estrategia'
 description: >-
   Las mejores preguntas para hacerle al entrevistador en una entrevista en inglés.
@@ -130,6 +130,26 @@ Este tipo de conexión muestra que has estado escuchando activamente durante tod
 ---
 
 Para una preparación completa de tu entrevista de trabajo en inglés, consulta la [Guía Completa para Preparar tu Entrevista de Trabajo en Inglés](/blog/trabajo/preparar-entrevista-trabajo-ingles).
+
+## Banco de preguntas por etapa
+
+En la primera entrevista, pregunta: “What are the most important priorities for this role in the first three months?” y “How will performance be measured?” Con el futuro responsable: “What would you like the new hire to improve first?” y “How do you give feedback when priorities change?” En la etapa final: “What would make someone exceptionally successful here?” Para trabajo remoto, “How does the team document decisions across time zones?” revela cómo se trabaja de verdad.
+
+No recites una lista. Enlaza cada pregunta con lo que has oído: “You mentioned the team is expanding into Germany. Which customer challenge is driving that expansion?” Si ya respondieron, di: “You’ve covered my main question about onboarding. Could you tell me how the first 90 days are structured?” Tomar una nota breve y escuchar sin interrumpir demuestra más que una pregunta complicada.
+
+Para rotación: “How has the team changed over the past year?” Para retos: “What is the biggest obstacle the person in this role will face?” Para compensación, cuando el proceso sea adecuado: “Could you share the salary range and the main benefits?” No presupongas que *culture fit* significa disponibilidad constante; pide ejemplos observables de colaboración y horarios.
+
+### Plantilla de cierre y checklist
+
+“Thank you, that has been very helpful. I’m particularly interested in [project]. Before we finish, could you clarify [question]? What are the next steps, and when would be a convenient time for me to follow up?” Después envía una nota que mencione una conversación concreta.
+
+- [ ] Investigué una prioridad reciente de la empresa.
+- [ ] Preparé ocho preguntas y marqué cuatro imprescindibles.
+- [ ] Separé preguntas para recruiter y manager.
+- [ ] No preguntaré algo ya explicado.
+- [ ] Tengo una pregunta de cierre.
+
+Clasifica tus preguntas como **información**, **riesgo** o **contribución**. Si todas preguntan qué recibirás tú, añade una sobre cómo puedes ayudar. Ensaya dos o tres preguntas profundas con cronómetro: son mejores que diez superficiales.
 
 ## Fuentes
 

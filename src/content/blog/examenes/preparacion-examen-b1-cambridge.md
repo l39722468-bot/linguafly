@@ -88,6 +88,34 @@ No necesitas comprar libros caros para aprobar. Aquí tienes los mejores **recur
 
 ---
 
+## Práctica concreta y control semanal
+
+En **Reading**, predice el tema a partir del encabezado y busca sinónimos, no solo
+palabras idénticas a las opciones. En **Listening**, anota números, nombres y
+contrastes como *but* o *although*; si pierdes una respuesta, continúa para no
+perder la siguiente. En **Writing**, convierte la consigna en tres casillas y
+comprueba que respondes a todas. Un email necesita saludo, información y despedida;
+una historia requiere pasado coherente, párrafos cortos y final claro.
+
+Para **Speaking**, describe ubicación y acción, compara y expresa una preferencia.
+Pregunta *What do you think?* y llega a una decisión con tu pareja; no hagas dos
+monólogos independientes. Estudia cinco días por semana en sesiones de 30-45
+minutos: dos días de gramática, uno de comprensión, uno de producción y uno de
+práctica cronometrada.
+
+Guarda un registro con el error, la corrección y un ejemplo propio. Repite los fallos
+a los tres días; si persisten, practica diez frases antes de subir la dificultad.
+Evita memorizar redacciones o listas sin contexto. Dos semanas antes completa un
+examen entero y prepara identificación, ruta, materiales y descanso.
+
+También conviene simular pequeñas decisiones del examen. En Reading, si dudas entre
+dos opciones, elimina primero la que contradice el texto y justifica la restante con
+una frase concreta. En Writing, cuenta palabras una vez y no cambies una respuesta
+correcta por una construcción más complicada en el último minuto. En Speaking,
+mantén la conversación aunque cometas un error: reformula y continúa. Esta
+capacidad de recuperarte demuestra comunicación real y evita que un fallo aislado
+arruine toda la prueba.
+
 ## Conclusión: aprobar el B1 es cuestión de técnica y constancia
 
 Aprobar el B1 no depende solo de tu nivel de inglés, sino de conocer el formato del examen y practicar sistemáticamente cada sección. Los puntos clave son la gramática esencial bien asentada, vocabulario temático de los temas recurrentes y práctica específica de listening y writing con el formato real del PET.

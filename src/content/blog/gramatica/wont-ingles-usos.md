@@ -180,6 +180,24 @@ En discursos, declaraciones formales o momentos de confrontación, la forma no c
 
 Para ver el contraste entre won't y wouldn't, consulta [Will vs Would en Inglés](/blog/gramatica/will-would-diferencia). Y para el contexto completo de los verbos modales, visita la guía [Verbos Modales en Inglés](/blog/temas/verbos-modales-ingles).
 
+## Won't: negación, rechazo y pronunciación
+
+**Won't** es la contracción de *will not* y sirve para negar una predicción o una decisión futura: *It won't rain tomorrow*; *I won't forget*. También describe que una persona o un objeto se niega a funcionar: *The car won't start* y *My laptop won't connect to Wi-Fi*. En este último caso no significa necesariamente una negativa consciente: indica que el resultado no se produce después de intentarlo. Para no confundirlo con *want*, recuerda la pronunciación /woʊnt/ y escucha el contexto: *I want to leave* expresa deseo, *I won't leave* expresa negativa.
+
+### Completa y clasifica
+
+1. I ______ tell anyone your secret.
+2. The door ______ open; can you try the key?
+3. We ______ finish by five if the meeting continues.
+4. “Will you join us?” “No, I ______.”
+5. Reescribe en forma completa: *She won't accept the offer.*
+6. Corrige: *He want come with us.*
+7. Clasifica *won't*: predicción, decisión o fallo del objeto: a) *The app won't load.* b) *I won't sign it.* c) *Prices won't fall.*
+
+**Soluciones:** 1. *won't*. 2. *won't*. 3. *won't*. 4. *won't*. 5. *She will not accept the offer*. 6. *He won't come with us* (negativa) o *He wants to come with us* (deseo; cambia el sentido). 7. a) fallo, b) decisión, c) predicción.
+
+En un correo formal puedes escribir *will not* para dar más énfasis: *We will not process incomplete forms*. En conversación, *won't* es natural. Practica la diferencia leyendo pares mínimos (*want/won't*, *will/won't*) y grabándote; la vocal y la ausencia de /t/ fuerte en *want to* suelen ser las pistas más útiles para estudiantes hispanohablantes.
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

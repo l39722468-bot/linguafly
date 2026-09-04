@@ -99,6 +99,21 @@ Para elegir el método correcto, hazte estas tres preguntas:
 
 En 2026, la tecnología ha derribado las barreras para alcanzar el bilingüismo. Si tu objetivo es un nivel C1 real, una app de juegos será un buen complemento, pero no tu motor principal. Necesitas un sistema robusto que combine la flexibilidad tecnológica con la exigencia pedagógica.
 
+## Matriz de decisión y plan semanal
+
+Elige según el resultado que necesitas, no según la aplicación más popular. Para crear hábito y repasar vocabulario, una app ofrece sesiones cortas y métricas claras. Para aprobar un examen, comprueba que el curso incluya simulacros, corrección de writing y speaking cronometrado. Si necesitas reuniones, prioriza clases en directo, role plays y feedback sobre pronunciación. Si partes de cero, elige una ruta con explicaciones en español; si ya tienes B2, busca tareas abiertas y materiales auténticos en lugar de más ejercicios de traducción.
+
+| Objetivo | Herramienta principal | Señal de progreso |
+|---|---|---|
+| Hábito A1-A2 | App 10-15 minutos | 6 días de práctica por semana |
+| Conversación B1-B2 | Curso con tutor | Mantener cinco minutos sin cambiar al español |
+| Examen | Curso estructurado | Mejorar la puntuación en dos simulacros |
+| Inglés profesional | Curso + escenarios reales | Resolver una reunión y escribir un correo claro |
+
+Una combinación realista es: lunes a viernes, 10 minutos de repaso espaciado en la app; dos días, 30 minutos de listening con notas; una sesión semanal de conversación; y el domingo, una tarea escrita que alguien o una herramienta con criterios pueda corregir. Cada cuatro semanas graba la misma presentación y compárala: fluidez, pausas, precisión y vocabulario son indicadores más útiles que una racha.
+
+Antes de pagar, prueba el nivel y revisa si puedes cancelar, cuántas interacciones humanas incluye y qué ocurre cuando fallas. Si una app no permite producir frases propias o un curso no ofrece feedback, úsalo como complemento, no como sistema completo. La mejor elección es la que puedes sostener y medir durante al menos ocho semanas.
+
 ## Fuentes
 
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages

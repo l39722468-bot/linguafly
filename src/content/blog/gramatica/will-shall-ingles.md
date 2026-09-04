@@ -146,6 +146,24 @@ Aprende *shall* cuando:
 
 Para profundizar en los usos de *will*, consulta [Will para el Futuro en Inglés](/blog/gramatica/will-futuro-ingles) y [Preguntas con Will en Inglés](/blog/gramatica/will-preguntas-ingles).
 
+## Shall en el inglés actual
+
+En inglés moderno, **will** es la forma normal para futuro con todas las personas: *I will call you tomorrow*. **Shall** sobrevive sobre todo en preguntas con *I* o *we* para ofrecer una acción o pedir una propuesta: *Shall we start?* y *Shall I carry that?* En contratos y documentos legales puede aparecer con *you* o *the buyer* para expresar obligación (*The tenant shall pay the fee*), pero suena formal y no es la opción de una conversación cotidiana. En británico se oye más que en americano; *Should we...?* pregunta por consejo, no ofrece exactamente lo mismo.
+
+### Elige y justifica
+
+1. ______ we order pizza? (propuesta)
+2. ______ I send the minutes? (oferta)
+3. I ______ be in Madrid next week. (futuro neutral)
+4. The supplier ______ provide insurance. (contrato)
+5. ______ we meet at ten, or is eleven better?
+6. Reescribe con *will*: *I shall email you tomorrow*.
+7. Explica la diferencia entre *Shall we cancel?* y *Should we cancel?*
+
+**Soluciones:** 1. *Shall*. 2. *Shall*. 3. *will* (aunque *shall* es posible en un registro británico muy formal). 4. *shall*. 5. *Shall*. 6. *I will email you tomorrow*. 7. La primera propone tomar la decisión juntos; la segunda pide consejo sobre si cancelar sería conveniente. En mensajes profesionales, *Would you like us to...?* puede sonar más amable que *Shall we...?*.
+
+Lee cada oración y marca si es conversación, contrato o propuesta. Si no hay una razón de registro para *shall*, elige *will*. Así evitarás aprender una regla rígida basada en manuales antiguos y usar una forma que hoy puede sonar teatral.
+
 ## Fuentes
 
 - Cambridge Dictionary (shall): https://dictionary.cambridge.org/grammar/british-grammar/shall

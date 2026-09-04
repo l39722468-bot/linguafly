@@ -107,6 +107,34 @@ Las claves para superarlo son consistentes: gramática avanzada consolidada, agi
 - [Reported Speech en exámenes Cambridge](/blog/examenes/reported-speech-cambridge-exams)
 - [Inversiones en inglés C1: estructuras avanzadas](/blog/examenes/inversiones-ingles-c1)
 
+## Plan de trabajo y control de errores
+
+Un plan eficaz de seis semanas debe alternar precisión y velocidad. Durante las dos
+primeras semanas, realiza un diagnóstico: un Use of English completo, un listening y
+un writing. Clasifica cada fallo en gramática, vocabulario, comprensión o gestión
+del tiempo. En las semanas tres y cuatro, trabaja bloques de 25-30 minutos: una parte
+de transformations, otra de word formation y una tarea oral grabada. Reserva las dos
+últimas para dos simulacros completos con los límites reales.
+
+No guardes únicamente la nota. Crea un registro con frase original, respuesta
+correcta y una colocación nueva. Si escribes *depend of* en lugar de *depend on*,
+anota ejemplos propios como *The result depends on context*. Revisa el cuaderno a
+los tres y siete días para comprobar que el error no reaparece.
+
+En **Reading**, lee primero la pregunta y localiza el párrafo relevante; en *multiple
+matching*, busca sinónimos. En **Listening**, predice si falta un sustantivo, número o
+verbo y sigue adelante si pierdes una respuesta. En el **Writing**, convierte la
+consigna en una lista de requisitos. Un essay necesita tesis, dos ideas desarrolladas
+y conclusión; un report o proposal necesita títulos y recomendaciones. Deja cinco
+minutos para revisar artículos, concordancia y conectores.
+
+Para el **Speaking**, prepara ideas, no discursos memorizados. Invita al compañero
+con *What do you think?* y discrepa con tacto: *I see your point, but I would
+prioritise...*. Al comparar fotografías, relaciona ambas y termina con una
+preferencia. Grábate dos veces por semana y sustituye palabras genéricas por
+colocaciones precisas. Esta combinación de práctica cronometrada y revisión explica
+mejor la mejora que acumular listas de vocabulario.
+
 ## Fuentes
 
 - Cambridge English C1 Advanced: https://www.cambridgeenglish.org/exams-and-tests/advanced/

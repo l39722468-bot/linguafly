@@ -71,6 +71,30 @@ La organización es la diferencia entre el éxito y el abandono. No intentes apr
 
 ---
 
+## Autoevaluación y checklist de la última quincena
+
+Cada domingo revisa una muestra con cuatro preguntas: ¿respondo a todos los puntos?,
+¿se entiende cada párrafo?, ¿uso tiempos y conectores variados?, ¿qué error se
+repite? En Speaking, grábate describiendo dos imágenes durante un minuto y comprueba
+si comparas, justificas y concluyes. Puedes intercambiar audios con un compañero y
+usar los criterios públicos de Cambridge para dar feedback concreto.
+
+Practica Reading con textos breves sobre viajes, ocio o trabajo y busca paráfrasis.
+En Listening, apunta solo palabras clave y distingue una opinión corregida: *I
+thought it was Tuesday, but it’s actually Thursday*. Para Writing, revisa primero
+contenido, luego gramática y por último ortografía.
+
+- Completa dos simulacros con los tiempos oficiales.
+- Convierte cada error recurrente en tres frases nuevas.
+- Practica teclado o escritura según la modalidad elegida.
+- Confirma convocatoria, documento, centro y hora de llegada.
+- Reserva la víspera para dormir, no para aprender un tema nuevo.
+
+Un simulacro bajo señala qué sección necesita trabajo. Si Reading está fuerte pero
+Speaking es inseguro, prioriza interacción y grabaciones; acumular listas no
+resolverá ese problema. La autonomía funciona cuando mides avances y ajustas el
+plan.
+
 ## 5. Consejos para el Día del Examen
 
 *   **Lee las instrucciones dos veces**: El estrés puede jugarte malas pasadas. Asegúrate de entender qué se pide en cada sección del Writing.

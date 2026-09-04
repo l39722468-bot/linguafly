@@ -1,4 +1,4 @@
----
+﻿---
 title: 'IELTS vs TOEFL para Trabajar: Diferencias y Claves'
 description: >-
   Comparamos IELTS y TOEFL desde una perspectiva profesional y migratoria.
@@ -109,6 +109,25 @@ Sea cual sea tu elección, en **Linguafly** hemos diseñado una ruta específica
 ---
 
 Para el contexto completo del inglés en el entorno laboral, consulta [Inglés para el Trabajo](/blog/trabajo/ingles-para-trabajo).
+
+## Elegir con un plan profesional
+
+Antes de reservar, pide al empleador, universidad o autoridad migratoria el nombre exacto del examen, módulo y puntuación mínima por destreza. “IELTS 7.0” no siempre significa 7.0 en cada banda: algunas profesiones exigen un mínimo en *Speaking* o *Writing*. Comprueba también caducidad, formato (Academic, General Training o modalidad específica) y la página oficial vigente.
+
+El **IELTS General Training** suele encajar con migración y empleo práctico; **IELTS Academic** aparece en estudios y profesiones reguladas; **TOEFL iBT** conviene si rindes mejor con teclado, micrófono y tareas integradas. No elijas por rumores: haz una muestra cronometrada de cada formato y observa en cuál puedes demostrar mejor tus fortalezas.
+
+Practica *deadline, comply with regulations, stakeholder, workplace safety, shift pattern, annual leave, transferable skills* y *career progression*. Para respuestas orales usa tres frases: “The main challenge was…”, “I addressed it by…”, “As a result…”. Entrenas el examen y la futura entrevista a la vez.
+
+### Plan de cuatro semanas y checklist
+
+Semana 1: prueba diagnóstica y clasificación de errores. Semana 2: lectura de anuncios, manuales y prensa, con un resumen de 80 palabras. Semana 3: grabaciones de *Speaking* y práctica de reformulación. Semana 4: dos simulacros, revisión de documentos y un día ligero antes del examen.
+
+- [ ] Confirmé examen, versión y puntuación por sección.
+- [ ] Comparé muestras oficiales, no solo opiniones.
+- [ ] Sé qué documento, ordenador y centro necesito.
+- [ ] Tengo calendario y presupuesto para una segunda convocatoria.
+
+Escribe la misma respuesta profesional en 45 y 90 segundos; subraya conectores como *however* y *therefore* y sustituye dos palabras vagas por términos precisos.
 
 ## Fuentes
 

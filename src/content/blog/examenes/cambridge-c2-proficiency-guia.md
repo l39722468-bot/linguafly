@@ -87,6 +87,33 @@ El C2 Proficiency es el nivel más exigente del sistema Cambridge. Para superarl
 
 Para comparar todos los certificados oficiales, consulta [Los Mejores Certificados de Inglés en 2026](/blog/examenes/mejores-certificados-ingles-2026).
 
+## Entrenamiento avanzado por destrezas
+
+En el *multiple-choice cloze*, prueba cada opción dentro de la colocación completa:
+*raise an issue* no equivale a *rise an issue*. En el *open cloze*, comprueba
+artículos, auxiliares, pronombres y preposiciones antes de buscar vocabulario
+sofisticado. Para *word formation*, escribe la palabra base y su familia
+(*analyse, analysis, analytical, analytically*), prestando atención a prefijos
+negativos. En las transformaciones, conserva tiempo, modalidad y significado exacto.
+
+En lectura, distingue hecho, inferencia y actitud. *Surprisingly short-sighted*
+informa y critica a la vez. Subraya conectores adversativos y justifica cada
+respuesta con una línea del texto; no hace falta entender cada referencia cultural.
+Practica con 12 minutos por texto y reduce gradualmente el tiempo.
+
+Alterna essay, report, review y proposal para dominar sus convenciones. Un report
+necesita secciones y recomendaciones; una review debe valorar aspectos concretos y
+dirigirse a un lector. Una colocación natural vale más que tres idioms forzados.
+Después de cada texto, revisa contenido, organización, lenguaje y efecto
+comunicativo, y deja diez minutos para editar concordancia, puntuación y
+repeticiones. Reescribirlo una semana después demuestra si aprendiste la estructura.
+
+En la entrevista oral, desarrolla cada respuesta con idea, justificación y
+consecuencia. En la tarea colaborativa, negocia y llega a una decisión explícita:
+*Given the time available, option B would be the most realistic*. Antes del examen
+comprueba que puedes cronometrar todas las partes, resumir un podcast en 45 segundos
+y mantener un registro de errores recurrentes.
+
 ## Fuentes
 
 - Cambridge English C2 Proficiency: https://www.cambridgeenglish.org/exams-and-tests/proficiency/

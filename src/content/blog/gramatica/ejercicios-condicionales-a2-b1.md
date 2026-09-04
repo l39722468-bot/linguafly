@@ -121,3 +121,50 @@ Estructura: **If + present simple, will + infinitivo**
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/
 - British Council LearnEnglish: https://www.britishcouncil.org/learnenglish
+
+### Mini diálogo y autoevaluación
+
+Completa y lee: “What do you do if you feel tired?” “If I feel tired, I
+______.” “What will you do if it rains this weekend?” “If it rains, I will
+______.” Escribe dos respuestas propias para cada pregunta. Marca un punto
+por cada verbo correcto y otro por elegir zero o first conditional. Con 8/10
+puedes avanzar; con menos, repasa que el zero expresa reglas y el first una
+posibilidad futura. Recuerda que la oración con *if* puede ir al final sin
+coma: *I will stay home if it rains*.
+
+Para consolidar, describe tres hábitos de tu rutina con zero conditional y
+tres planes del próximo fin de semana con first conditional. Comprueba que
+cada frase tiene sujeto, verbo y consecuencia completa.
+
+Ejemplo: *If I skip breakfast, I feel hungry*, pero *If I finish my homework,
+I will watch a film*. Cambia los sujetos y los verbos para crear ejemplos
+personales; la repetición con información real facilita recordar la estructura
+en una conversación.
+
+Revisa siempre la forma exacta del verbo antes de traducir.
+
+### Reto final
+
+Escribe un aviso para un compañero nuevo con tres reglas del trabajo usando
+zero conditional y tres instrucciones para mañana usando first conditional.
+Incluye una frase negativa, una pregunta y una respuesta breve. Después,
+intercambia el texto con otra persona y subraya la cláusula con *if* y la
+consecuencia. Si aparece *will* después de *if*, corrígelo; si describes una
+regla general con *will*, cambia el verbo a presente simple. Este control final
+comprueba que puedes elegir el condicional por el significado y no solo por la
+palabra que aparece en español.
+
+## Práctica extra y criterio de elección
+
+Distingue primero una regla habitual de una posibilidad futura. Completa: 1)
+*If you touch fire, it ______ (burn).* 2) *If Marta finishes early, she
+______ (join) us.* 3) *If people ______ (not drink) water, they ______ (feel)
+thirsty.* 4) Corrige: *If it will be sunny, we go to the beach.* 5) Une:
+*Study the vocabulary / remember more words.*
+
+**Soluciones:** 1) *burns* (Zero Conditional). 2) *will join* (First
+Conditional). 3) *don't drink, feel*. 4) *If it is sunny, we will go to the
+beach*. 5) *If you study the vocabulary, you will remember more words*. En la
+cláusula con *if* no se usa *will*. Lee las respuestas en voz alta y cambia
+los ejemplos por planes reales de tu semana; así automatizas el orden de las
+dos cláusulas y no traduces literalmente desde el español.

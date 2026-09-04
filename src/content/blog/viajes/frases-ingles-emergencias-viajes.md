@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Inglés para Emergencias al Viajar: Frases Clave'
 date: '2026-01-30'
 updatedDate: '2026-09-04'
@@ -104,6 +104,25 @@ Viajar es una de las experiencias más enriquecedoras de la vida. Con la prepara
 ---
 
 Para prepararte con todo el vocabulario y frases esenciales, consulta [Inglés para Viajar: Guía Completa](/blog/viajes/ingles-para-viajar).
+
+## Guion para una llamada de emergencia
+
+Di primero la ubicación y después el peligro: “This is an emergency. I’m at [hotel/address, city]. There has been [a crash/fire]. We need [an ambulance/the police].” Prepárate para “How many people are injured?”, “Is anyone unconscious?” y “What is your callback number?” Si no entiendes: “Please speak slowly. English is not my first language.” Los números de emergencia cambian por país; comprueba el local antes de viajar y sigue las instrucciones del operador.
+
+Lleva en inglés alergias, medicación, enfermedades, contacto de emergencia y seguro. Frases útiles: “I take [medicine] every morning”; “I’m allergic to [drug]”; “The pain started [two hours ago]”; “It is sharp/constant”; “I can’t breathe normally”; “I hit my head.” *Swollen* es hinchado, *rash* sarpullido, *wound* herida, *sprain* esguince y *prescription* receta. No diagnostiques: describe lo que observas.
+
+## Robo, pérdida y denuncia
+
+Ponte a salvo y bloquea tarjetas antes de explicar detalles. En comisaría: “My passport and wallet were stolen at [place] at around [time]. I need a police report for my insurer.” Describe hechos, no suposiciones: “The bag was black, with a red logo.” Pide una copia: “Could I have the report number and a written copy?” Para el consulado: “I need an emergency travel document. Which forms and photos do I need?”
+
+### Checklist y simulacro
+
+- [ ] Guardé copias del pasaporte y la dirección del alojamiento.
+- [ ] Anoté seguro, contacto de emergencia y número local.
+- [ ] Llevo medicación en su envase original y batería externa.
+- [ ] Sé dónde está el hospital o consulado más cercano.
+
+Elige una tarjeta (accidente, alergia o robo) y di ubicación, problema, necesidad y teléfono sin traducir mentalmente. Practica con ruido y deletrea tu apellido: “B as in Bravo”. En una crisis, frases cortas, hechos verificables y una dirección exacta son más útiles que una gramática perfecta.
 
 ## Fuentes
 

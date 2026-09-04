@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Negociación en Inglés: Estrategias para Acuerdos'
 date: '2026-01-30'
 updatedDate: '2026-09-04'
@@ -108,6 +108,25 @@ Este paso no solo demuestra profesionalismo, sino que también sirve como una pr
 ---
 
 Para el vocabulario esencial en contextos de negocio, consulta [Vocabulario de Negocios en Inglés](/blog/trabajo/vocabulario-negocios-ingles-profesional). Y para el marco completo del inglés profesional, visita [Inglés para el Trabajo](/blog/trabajo/ingles-para-trabajo).
+
+## Preparación: intereses, límites y alternativas
+
+Separa **must-have**, **nice-to-have** y **walk-away point**. Define tu mejor alternativa (BATNA), el mínimo aceptable y tres variables intercambiables: precio, volumen, plazo, soporte o pago. Así no reduces toda la conversación a “más barato”. Lleva los datos en una tabla y decide qué puedes conceder solo a cambio de algo.
+
+Frases útiles: “If you can commit to [volume], we could offer [discount]”; “That would work provided that payment is made within 30 days”; “We can be flexible on delivery, but the quality specifications are non-negotiable”; “What would make this proposal workable?” y “I can move on [point] if you can meet us halfway on [point].” *Counteroffer* es contrapropuesta, *terms* condiciones, *warranty* garantía, *lead time* plazo y *scope creep* crecimiento no acordado del alcance.
+
+Ante “Your price is 20% above the competitor”, responde en cuatro pasos: reconocer (“I understand price is important”), preguntar (“Are you comparing the same support level?”), justificar (incluye datos) y proponer (“If we reduce support to business hours, we can revisit the price”). Después guarda silencio: no llenes el espacio con descuentos espontáneos.
+
+## Cierre y práctica
+
+Resume cifras, responsables, fechas y asuntos pendientes: “Let me recap to make sure we are aligned.” Luego escribe: “As discussed, we agreed on [terms]. [Name] will [action] by [date]. This agreement is subject to [approval/contract]. Please reply if anything is inaccurate.” No presentes un acuerdo verbal como contrato sin revisión legal.
+
+- [ ] Conozco mi BATNA y mi límite.
+- [ ] Cada concesión tiene una contrapartida.
+- [ ] Repetí cifras, unidades, moneda y zona horaria.
+- [ ] Dejé por escrito el siguiente paso.
+
+Grábate rechazando una petición sin sonar brusco y sustituye “That’s impossible” por “That may be difficult within the current scope. Could we explore an alternative?” Evalúa claridad, pausa y si protegiste el objetivo.
 
 ## Fuentes
 

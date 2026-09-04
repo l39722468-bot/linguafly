@@ -87,6 +87,18 @@ Si tu meta final es el nivel B2, el B1 es la base donde debes construir cimiento
 
 Para el mapa completo de niveles de inglés, consulta el [hub de niveles de inglés MCER](/blog/temas/niveles-ingles-mcer).
 
+## Qué debe incluir un curso online B1
+
+En B1 ya puedes desenvolverte en situaciones conocidas, pero necesitas pasar de frases memorizadas a mensajes conectados. Un curso sólido debe trabajar narración en pasado, planes y predicciones, comparativos, modales, conectores (*although, however, therefore*), phrasal verbs frecuentes y pronunciación inteligible. Cada unidad debería terminar con una tarea: contar una experiencia, resolver un problema, escribir un correo o explicar una opinión con razones.
+
+### Cómo evaluar una plataforma
+
+Comprueba que el diagnóstico diferencie A2 de B1 y que el itinerario muestre objetivos concretos. Busca audio con transcripción, velocidad normal y acentos variados; los diálogos demasiado lentos no preparan para la vida real. La autocorrección sirve para la forma, pero writing y speaking requieren rúbricas o comentarios humanos. Revisa también si las clases en directo quedan grabadas, si hay foro activo y si puedes descargar materiales para repasar sin conexión.
+
+Un plan de ocho semanas puede ser: semanas 1-2, repaso de tiempos y preguntas; 3-4, listening y vocabulario de trabajo y viajes; 5-6, conversación con role plays; 7-8, simulacro y corrección de errores. Estudia 30 minutos cuatro días y reserva una sesión para producción. Mide progreso con una grabación semanal y un texto de 120 palabras; anota errores repetidos, no cada detalle aislado.
+
+Desconfía de promesas de fluidez rápida y de cursos que solo muestran una racha o un certificado automático. El mejor curso B1 es flexible, pero también exige entregas, recuperación espaciada y contacto con situaciones auténticas. Si una unidad no te obliga a comprender y producir, úsala como repaso y añade una conversación real.
+
 ## Fuentes
 
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages

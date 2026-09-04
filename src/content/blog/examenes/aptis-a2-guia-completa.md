@@ -117,6 +117,35 @@ Para aprobar el A2, debes dominar estos temas básicos:
 ---
 
 
+## ✍️ Práctica específica y checklist final
+
+En **Reading**, lee primero el título y las palabras repetidas antes de mirar las
+opciones. En los ejercicios de ordenar párrafos, busca pronombres como *this* o
+*they* y conectores como *then* o *finally*: suelen indicar qué frase va antes. Para
+**Listening**, subraya lo que cambia entre las respuestas (hora, precio o lugar).
+Si escuchas “I wanted to take the train, but in the end I drove”, la respuesta es
+*drove*, no *train*. Practica una escucha para captar la situación y otra para
+confirmar detalles, sin traducir cada palabra.
+
+En **Writing**, responde a todos los puntos con una estructura que puedas repetir:
+saludo, información solicitada y despedida. Un mensaje informal puede empezar *Hi
+Anna,*; un correo a una organización necesita *Dear Sir or Madam* y *I am writing
+to ask about...*. Revisa sujeto y verbo, mayúsculas, puntos y el número de palabras.
+Es mejor escribir 50-60 palabras claras que arriesgarse con frases largas.
+
+En **Speaking**, da una respuesta directa y añade una razón o ejemplo: *I prefer
+cycling because it is cheap. I usually ride to work on Mondays.* Si te bloqueas, usa
+*Let me think* o *Could you repeat the question, please?* No se exige acento
+perfecto, pero sí un ritmo comprensible y capacidad de reaccionar.
+
+Durante la última semana:
+
+- Haz un mini simulacro de cada destreza con teclado, cascos y cronómetro.
+- Repasa verbos irregulares, preposiciones y conectores frecuentes.
+- Grábate describiendo una foto durante un minuto y mide tus pausas.
+- Prepara documento, convocatoria y ruta al centro examinador.
+- Duerme bien y llega con antelación para no perder tiempo por los nervios.
+
 ## Fuentes
 
 - Aptis official (British Council): https://www.britishcouncil.org/exam/aptis

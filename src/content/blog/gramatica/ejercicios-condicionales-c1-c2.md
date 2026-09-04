@@ -125,3 +125,35 @@ Estructuras: **Third + Second / Second + Third / but for / otherwise**
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/
 - British Council LearnEnglish: https://www.britishcouncil.org/learnenglish
+
+### Criterio de revisión avanzada
+
+Subraya condición y consecuencia en cada respuesta y anota si el efecto es
+pasado, presente o futuro. *If I had accepted that job, I would be living
+abroad now* mezcla pasado y presente; no la confundas con *would have been
+living*, que sitúa el resultado en el pasado. En un ensayo, alterna
+*provided that*, *on condition that*, *unless* y *otherwise* solo si cambia la
+relación lógica. Revisa también el registro: la inversión (*Had I known...*)
+es especialmente natural en informes, pero *If I had known...* es correcta en
+conversación. Lee el párrafo en voz alta para comprobar claridad y ritmo.
+
+Un último reto: reescribe una condición con *but for* y otra con *should*. Si
+el significado cambia de probabilidad o de registro, explica el matiz en una
+frase en español antes de entregar el ejercicio.
+
+## Reto avanzado: inversión y matiz
+
+En escritura formal puedes eliminar *if*: *Had I known the risks, I would have
+refused*; *Were the plan to fail, we would need a backup*; *Should you require
+assistance, contact reception*. **But for** equivale a “de no ser por” y
+suena más formal. Completa: 1) *Had they ______ (check) the figures, they
+______ (avoid) the error.* 2) *If I had taken the course, I ______ (feel) more
+confident now.* 3) *If demand rises, the company ______ expand* (modal de
+posibilidad).
+
+**Soluciones:** 1) *checked, would have avoided*. 2) *would feel* (mixed
+conditional). 3) *might/may/could*. *Will* expresaría más certeza. Comprueba
+que la inversión solo aparece con auxiliares adecuados y que *would* no va en
+la cláusula de condición. En un texto C1-C2 alterna *unless*, *provided that*
+y *otherwise* solo cuando cada conector representa exactamente la relación
+lógica.

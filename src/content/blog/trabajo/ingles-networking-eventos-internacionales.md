@@ -1,4 +1,4 @@
----
+﻿---
 title: 'Networking en Inglés: Frases para Eventos Profesionales'
 date: '2026-01-30'
 updatedDate: '2026-09-04'
@@ -84,6 +84,27 @@ No dejes que tu nivel de inglés limite tu red de contactos. Cada persona que co
 ---
 
 Para el vocabulario que necesitas en contextos de negocios internacionales, consulta [Vocabulario de Negocios en Inglés](/blog/trabajo/vocabulario-negocios-ingles-profesional). Y para técnicas de negociación en inglés, visita [Negociación en Inglés: Técnicas Clave](/blog/trabajo/negociacion-ingles-tecnicas-clave).
+
+## Guion de networking en cinco movimientos
+
+1. **Entrar:** “Hi, I’m [name]. I work in [field], focusing on [problem]. How do you know the organisers?”
+2. **Explorar:** “What brought you to this event?” y “What are you working on at the moment?”
+3. **Aportar:** “I have a short checklist on that topic; may I send it to you?”
+4. **Conectar:** “Would you be open to connecting on LinkedIn?”
+5. **Salir:** “I’ve enjoyed speaking with you. I’m going to say hello to a few more people, but let’s continue online.”
+
+Tu *elevator pitch* debe durar 20–30 segundos y mostrar un resultado: “I help small SaaS teams reduce support response times. I redesigned their help centre and cut first-response time by 25%.” Practica una versión técnica, otra comercial y otra para alguien ajeno al sector. Aprende *mutual contact* (contacto común), *referral* (recomendación), *insight* (idea útil), *booth* (stand), *breakout session* (sesión paralela) y *hiring manager* (responsable de contratación).
+
+Escucha antes de promocionarte: “That’s interesting—what led you to that decision?” y “So your priority is…”. En las 24 horas siguientes, personaliza: “It was great meeting you at [event]. I enjoyed our conversation about [point]. As promised, here is [resource]. Would a 15-minute call next week be useful?” Registra contexto y próximo paso, sin enviar campañas masivas.
+
+### Checklist y reto
+
+- [ ] Actualicé mi titular y código QR de LinkedIn.
+- [ ] Preparé dos preguntas abiertas y un recurso.
+- [ ] Sé presentar a dos personas: “Let me introduce you to…”
+- [ ] Tengo una salida educada y un seguimiento calendarizado.
+
+Inicia tres conversaciones, escucha dos minutos y anota una frase nueva de cada persona. Evalúa si preguntaste, aportaste y cerraste con claridad: el objetivo es crear relaciones, no coleccionar tarjetas.
 
 ## Fuentes
 

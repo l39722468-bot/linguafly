@@ -1,4 +1,4 @@
----
+﻿---
 category: trabajo
 date: '2026-02-07'
 updatedDate: '2026-09-04'
@@ -108,6 +108,31 @@ En 2026, lo que importa es la **claridad**. El mundo de los negocios valora la i
 ### Recursos y herramientas
 - [Mejores apps para aprender inglés para el trabajo](/blog/trabajo/mejores-apps-ingles-trabajo)
 - [IELTS vs TOEFL para el trabajo](/blog/trabajo/ielts-vs-toefl-trabajo)
+
+## Kit diario de comunicación profesional
+
+Aplica la regla **contexto–acción–fecha**. En vez de “Can you check this?”, escribe: “Could you review the Q3 figures and confirm the final version by Thursday at 3 p.m. CET?” Añade prioridad y siguiente paso. En Slack, “For visibility” presenta a alguien que necesita saberlo; “I’ll take this offline” evita alargar una reunión pública.
+
+Frases útiles: “The goal of today’s meeting is to agree on the launch criteria”; “May I add one point before we move on?”; “When you say ‘soon’, what date should we work towards?”; “I see the benefit; my concern is the maintenance cost”; “To confirm, Alex owns testing and I’ll share the report by Friday.” Aprende colocaciones completas: *meet a deadline, raise a concern, reach an agreement, gather feedback, allocate resources*. Recuerda que *actual* suele ser *current*, *eventually* significa “finalmente” y *attend* es asistir, no ayudar.
+
+### Plantilla de email y feedback
+
+> Hi [name],
+> Following our meeting, we agreed to [decision]. [Owner] will [action] by [date]. The open question is [question]. Could you confirm [request]?
+> Thanks, [name]
+
+Para feedback, usa observación–impacto–siguiente paso: “In yesterday’s demo, the pricing slide changed three times. This made the decision harder to follow. Could we agree on one version before the client call?” Es específico y respetuoso.
+
+## Rutina y checklist
+
+Cinco minutos de escucha sectorial, cinco para resumirla en voz alta y cinco para reescribir un email real. Cada viernes revisa tres errores recurrentes.
+
+- [ ] ¿Sé quién debe actuar?
+- [ ] ¿La fecha incluye zona horaria?
+- [ ] ¿Separé hechos y opiniones?
+- [ ] ¿Usé un verbo concreto y cerré con el próximo paso?
+
+Grábate explicando el mismo problema a un cliente y a tu responsable. Si cambian vocabulario, tono y detalle, estás desarrollando comunicación profesional.
 
 ## Fuentes
 

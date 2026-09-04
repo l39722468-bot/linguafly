@@ -1,4 +1,4 @@
----
+﻿---
 title: 'LinkedIn en Inglés 2026: Cómo Optimizar'
 date: '2026-01-30'
 updatedDate: '2026-08-31'
@@ -99,6 +99,26 @@ Optimizar tu LinkedIn en inglés es la inversión con mayor retorno que puedes h
 ---
 
 Para una preparación completa de tu entrevista de trabajo en inglés, consulta la [Guía Completa para Preparar tu Entrevista de Trabajo en Inglés](/blog/trabajo/preparar-entrevista-trabajo-ingles).
+
+## Plantillas listas para editar
+
+**Titular:** `[Role] | [specialism] | Helping [audience] achieve [measurable result]`. Ejemplo: “UX Researcher | B2B SaaS | Turning customer insight into simpler products”. Un reclutador debe entender tu especialidad y tu impacto en una lectura.
+
+**About:** “I’m a [role] with [years] years of experience in [sector]. I help [audience] [result]. In my recent work, I [achievement with number]. My strengths include [three skills]. I’m currently interested in [challenge] and happy to connect.” **Logro:** `[Action verb] + [what] + [how] + [result]`: “Streamlined onboarding by automating three checks, reducing processing time by 30%.”
+
+Usa *led, delivered, launched, negotiated, analysed, mentored, improved* en lugar de repetir *worked* o *was responsible for*. Diferencia *skills*, *endorsements*, *recommendations*, *portfolio*, *open to work* y *hiring manager*. Evita *I am expert in* (mejor *I am an expert in*), *actual position* (mejor *current position*), fechas inconsistentes y datos confidenciales de clientes.
+
+## Visibilidad sin spam y revisión mensual
+
+Comenta dos publicaciones por semana con una idea y un ejemplo: “I agree with the point about accessibility. In our last audit, keyboard testing revealed…”. Para conectar: “I enjoyed your post about [topic]. I work on [related area] and would be glad to connect.” Tras aceptar, no vendas inmediatamente; pregunta qué proyecto le interesa.
+
+- [ ] Titular con función, sector y resultado.
+- [ ] About en primera persona y con llamada a la acción.
+- [ ] Tres logros cuantificados y enlaces revisados.
+- [ ] Foto, URL, ubicación y versión móvil actualizadas.
+- [ ] Tres recomendaciones solicitadas con contexto específico.
+
+Pide a alguien que describa tu perfil en diez segundos. Si no identifica tu especialidad o impacto, simplifica el titular antes de añadir más palabras clave.
 
 ## Fuentes
 

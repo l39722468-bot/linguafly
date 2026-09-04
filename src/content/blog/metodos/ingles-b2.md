@@ -92,6 +92,23 @@ Pasar del B2 al C1 es el reto más grande para muchos estudiantes. Requiere un c
 
 Para el mapa completo de niveles de inglés, consulta el [hub de niveles de inglés MCER](/blog/temas/niveles-ingles-mcer).
 
+## Diagnóstico y práctica para consolidar B2
+
+Llegar a B2 no significa no cometer errores: significa poder explicar ideas, matizar opiniones y mantener la interacción aunque falte una palabra. Diagnostica por destrezas. En *Reading and Use of English*, mide precisión y paráfrasis; en *Listening*, identifica intención y actitud; en *Writing*, revisa estructura, registro y cohesión; en *Speaking*, observa fluidez, interacción, vocabulario y gramática. Una debilidad concreta requiere una tarea concreta, no más teoría general.
+
+### Rutina semanal medible
+
+- **Lunes:** lee un artículo de 500 palabras y resume el argumento en cinco frases.
+- **Martes:** escucha dos veces una entrevista; anota conectores y una inferencia.
+- **Miércoles:** escribe un email o ensayo de 180-220 palabras y comprueba párrafos, verbos y registro.
+- **Jueves:** debate durante diez minutos; usa al menos cinco colocaciones y una estructura de contraste.
+- **Viernes:** repasa errores con tarjetas que incluyan una frase propia.
+- **Fin de semana:** realiza una parte cronometrada del B2 First y registra el resultado.
+
+Para writing, planifica dos minutos, desarrolla una idea por párrafo y deja tiempo para revisar artículos, preposiciones y concordancia. En speaking, no memorices discursos: prepara conectores (*from my perspective, whereas, as a result*) y estrategias para ganar tiempo (*Let me think about that*). La precisión avanzada también incluye elegir *must have*, *might have* o *can't have* según el grado de certeza.
+
+Cada mes conserva una muestra comparable y puntúala con la rúbrica del examen. Si dos semanas seguidas fallas el mismo tipo de tarea, reduce contenido nuevo y practica esa destreza con feedback. El curso, la app o el tutor son medios; el criterio final es poder transferir lo aprendido a una conversación, texto o situación profesional nueva.
+
 ## Fuentes
 
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages
