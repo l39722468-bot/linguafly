@@ -53,7 +53,7 @@ La **Unidad 49** aplica **Inversion for Emphasis** a **Sociology & Cultural Shif
 El vocabulario vivo incluye *sociology, culture, society, trends, demographics, social change, identity, migration, diversity, modernisation, urbanisation* y *globalisation*.
 
 > **Practica en el curso:** [Unidad 49](/curso-b2/unit-49)<br>
-> **Cuaderno de ejercicios:** [Unidad 49 con soluciones](/blog/curso-b2/unidad-49-inversion-sociology-ejercicios-soluciones)<br>
+> **Cuaderno de ejercicios:** [Unidad 49 con soluciones](/blog/curso-b2/unidad-49-inversion-sociology)<br>
 > **Antes:** [U48 — Reporting Verbs + Teaching](/blog/curso-b2/unidad-48-reporting-verbs-teaching)
 
 ---
@@ -329,7 +329,7 @@ Vuelve primero a la oración neutra. Localiza el auxiliar; si no existe, crea *d
 
 Consolida todo el bloque en la **Unidad 50**, repaso de U41–49.
 
-- [Ejercicios U49 con soluciones](/blog/curso-b2/unidad-49-inversion-sociology-ejercicios-soluciones)
+- [Ejercicios U49 con soluciones](/blog/curso-b2/unidad-49-inversion-sociology)
 - [Unidad 49 del curso](/curso-b2/unit-49)
 - [U50 teoría: Repaso 41–49](/blog/curso-b2/unidad-50-repaso-41-49)
 

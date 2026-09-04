@@ -51,7 +51,7 @@ Todo el contenido gramatical de esta unidad se practica con el vocabulario de **
 Esta guía incluye explicaciones detalladas de cada estructura, tablas de referencia rápida, audios para practicar la pronunciación, una lista de errores típicos de los hispanohablantes (y cómo corregirlos), un texto de lectura, un diálogo modelo, un plan de práctica de 15 minutos y una batería de ejercicios con soluciones comentadas.
 
 > **Practica en el curso:** [Unidad 1 — Repaso B1 → B2](/curso-b2/unit-1)  
-> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 1 B2](/blog/curso-b2/unidad-1-repaso-b1-b2-ejercicios-soluciones)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 1 B2](/blog/curso-b2/unidad-1-repaso-b1-b2)  
 > **Antes:** [Inglés B2 — guía del nivel](/blog/metodos/ingles-b2)
 
 ---
@@ -993,7 +993,7 @@ Este artículo incluye también los **ejercicios de la Unidad 1** con soluciones
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b2/unidad-1-repaso-b1-b2).  
 2. Practica en la [Unidad 1 del curso B2](/curso-b2/unit-1).  
-3. Siguiente: [Future tenses & Work](/blog/curso-b2/unidad-2-future-tenses-work-ejercicios-soluciones).
+3. Siguiente: [Future tenses & Work](/blog/curso-b2/unidad-2-future-tenses-work).
 
 Guías relacionadas:
 

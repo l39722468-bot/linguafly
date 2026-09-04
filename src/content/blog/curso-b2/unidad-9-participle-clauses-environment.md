@@ -29,6 +29,7 @@ related_routes:
   - unidad-8-mixed-conditionals-travel
   - unidad-10-repaso-6-9
   - ingles-b2
+faqs:
   - question: ¿Qué ejercicios incluye la Unidad 9 del curso B2?
     answer: >-
       Cinco lecciones con 15 actividades cada una sobre -ing / -ed participle clauses; Having + past participle,

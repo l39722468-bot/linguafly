@@ -29,6 +29,7 @@ related_routes:
   - unidad-7-would-rather-family
   - unidad-9-participle-clauses-environment
   - ingles-b2
+faqs:
   - question: ¿Qué ejercicios incluye la Unidad 8 del curso B2?
     answer: >-
       Cinco lecciones con 15 actividades cada una sobre if + past perfect → would + base (now); if + past simple → would have + pp,

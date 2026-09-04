@@ -43,7 +43,7 @@ faqs:
       No. **Reduce** es consumir menos, **reuse** es volver a usar el objeto y **recycle** es transformar su material.
   - question: ¿Dónde practico la Unidad 26?
     answer: >-
-      En la [Unidad 26 del curso B2](/curso-b2/unit-26) y en su [cuaderno con soluciones](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability-ejercicios-soluciones).
+      En la [Unidad 26 del curso B2](/curso-b2/unit-26) y en su [cuaderno con soluciones](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability).
 excerpt: >-
   Guía completa de GET/GIVE/GO con sus significados múltiples, vocabulario de sustainability & eco-living, ejercicios resueltos, reading, listening, writing y speaking.
 ---
@@ -54,7 +54,7 @@ Este bloque exige algo más que asociar una traducción a cada forma. *Get throu
 La sostenibilidad ofrece un marco útil porque cualquier cambio de hábitos incluye relaciones, resistencia, revisión y continuidad. Puedes llevarte bien con quienes comparten compost, atravesar una transición exigente, no abandonar el objetivo y revisar cada compra. La meta de esta guía no es juzgar tus decisiones ecológicas, sino darte lenguaje B2 preciso para describir procesos reales, con sus dificultades y resultados.
 
 > **Practica en el curso:** [Unidad 26](/curso-b2/unit-26)<br>
-> **Cuaderno de ejercicios:** [Unidad 26 con soluciones](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability-ejercicios-soluciones)<br>
+> **Cuaderno de ejercicios:** [Unidad 26 con soluciones](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability)<br>
 > **Antes:** [U25 — Repaso de las Unidades 21–24](/blog/curso-b2/unidad-25-repaso-21-24)
 
 ---
@@ -402,7 +402,7 @@ No. **Reduce** es consumir menos, **reuse** es volver a usar el objeto y **recyc
 
 ### ¿Dónde practico la Unidad 26?
 
-En la [Unidad 26 del curso B2](/curso-b2/unit-26) y en su [cuaderno con soluciones](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability-ejercicios-soluciones).
+En la [Unidad 26 del curso B2](/curso-b2/unit-26) y en su [cuaderno con soluciones](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability).
 
 ---
 
@@ -791,13 +791,13 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability).
 2. Practica las destrezas interactivas en la [Unidad 26 del curso B2](/curso-b2/unit-26).
-3. Continúa con [Unidad 27 — LOOK, MAKE, PUT + Music](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones).
+3. Continúa con [Unidad 27 — LOOK, MAKE, PUT + Music](/blog/curso-b2/unidad-27-phrasal-verbs-4-music).
 
 Guías relacionadas:
 
 - [Teoría Unidad 26](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability)
-- [Cuaderno anterior](/blog/curso-b2/unidad-25-repaso-21-24-ejercicios-soluciones)
-- [Cuaderno siguiente](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-25-repaso-21-24)
+- [Cuaderno siguiente](/blog/curso-b2/unidad-27-phrasal-verbs-4-music)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

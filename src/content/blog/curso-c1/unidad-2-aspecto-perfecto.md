@@ -54,7 +54,7 @@ El tema de la unidad es **Language and Communication**. Por eso los ejemplos se 
 
 > **Practica en el curso:** [Unidad 2 C1](/curso-c1/unit-2)<br>
 > **Unidad anterior:** [Unidad 1 C1: deducción e identidad](/blog/curso-c1/unidad-1-deduccion-identidad)<br>
-> **Siguiente unidad:** [Unidad 3 C1: reported speech avanzado](/blog/curso-c1/unidad-3-reported-speech-avanzado)<br>
+> **Siguiente unidad:** [Unidad 3 C1: reported speech avanzado](/blog/curso-c1/unidad-7-nominal-reporting-concession-salud)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

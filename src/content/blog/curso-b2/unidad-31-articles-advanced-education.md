@@ -814,13 +814,13 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-31-articles-advanced-education).
 2. Practica las destrezas interactivas en la [Unidad 31 del curso B2](/curso-b2/unit-31).
-3. Continúa con [Unidad 32 — Quantifiers & Environment](/blog/curso-b2/unidad-32-quantifiers-environment-ejercicios-soluciones).
+3. Continúa con [Unidad 32 — Quantifiers & Environment](/blog/curso-b2/unidad-32-quantifiers-environment).
 
 Guías relacionadas:
 
 - [Teoría Unidad 31](/blog/curso-b2/unidad-31-articles-advanced-education)
-- [Cuaderno anterior](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones)
-- [Cuaderno siguiente](/blog/curso-b2/unidad-32-quantifiers-environment-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-30-repaso-26-29)
+- [Cuaderno siguiente](/blog/curso-b2/unidad-32-quantifiers-environment)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

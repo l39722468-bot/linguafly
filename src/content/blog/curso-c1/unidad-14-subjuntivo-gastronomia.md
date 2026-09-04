@@ -58,7 +58,7 @@ El tema es **Food, Gastronomy and Culture**. La comida no es solo nutrición: tr
 
 > **Practica en el curso:** [Unidad 14 C1](/curso-c1/unit-14)<br>
 > **Unidad anterior:** [Unidad 13 C1: participle clauses y viajes](/blog/curso-c1/unidad-13-participle-clauses-viajes)<br>
-> **Siguiente unidad:** [Unidad 15 C1: deporte y rendimiento](/blog/curso-c1/unidad-15-deporte-rendimiento)<br>
+> **Siguiente unidad:** [Unidad 15 C1: deporte y rendimiento](/blog/curso-c1/unidad-15-enfasis-deporte)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

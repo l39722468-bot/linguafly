@@ -43,7 +43,7 @@ faqs:
       Describe experiencias o lenguaje del texto, atribuye datos a sus fuentes y evita presentar ejercicios lingüísticos como diagnóstico o tratamiento.
   - question: ¿Dónde practico la Unidad 29?
     answer: >-
-      En la [Unidad 29 del curso B2](/curso-b2/unit-29) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones).
+      En la [Unidad 29 del curso B2](/curso-b2/unit-29) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology).
 excerpt: >-
   Guía completa de collocations adjetivo+sustantivo de B2 para hablar de Psychology & Mind, vocabulario de salud mental, ejercicios resueltos, reading, listening, writing y speaking.
 ---
@@ -54,7 +54,7 @@ El español permite construir muchas de estas ideas con «fuerte», «grande» o
 El contexto de **Psychology & Mind** da coherencia al inventario: ansiedad, presión, terapia, mentalidad, salud mental, resiliencia y recuperación. La guía utiliza ejemplos respetuosos y no clínicos, audio, reading, diálogo y ejercicios para que aprendas la pareja completa. El objetivo no es memorizar adjetivos "intensos", sino elegir el que acompaña naturalmente a cada sustantivo y ajustar el registro.
 
 > **Practica en el curso:** [Unidad 29](/curso-b2/unit-29)<br>
-> **Cuaderno de ejercicios:** [Unidad 29 con soluciones](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones)<br>
+> **Cuaderno de ejercicios:** [Unidad 29 con soluciones](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology)<br>
 > **Antes:** [U28 — Verb + Noun Collocations + Food](/blog/curso-b2/unidad-28-collocations-verb-noun-food)
 
 ---
@@ -419,7 +419,7 @@ Describe experiencias o lenguaje del texto, atribuye datos a sus fuentes y evita
 
 ### ¿Dónde practico la Unidad 29?
 
-En la [Unidad 29 del curso B2](/curso-b2/unit-29) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones).
+En la [Unidad 29 del curso B2](/curso-b2/unit-29) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology).
 
 ---
 
@@ -808,13 +808,13 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology).
 2. Practica las destrezas interactivas en la [Unidad 29 del curso B2](/curso-b2/unit-29).
-3. Continúa con [Unidad 30 — Repaso 26–29](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones).
+3. Continúa con [Unidad 30 — Repaso 26–29](/blog/curso-b2/unidad-30-repaso-26-29).
 
 Guías relacionadas:
 
 - [Teoría Unidad 29](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology)
-- [Cuaderno anterior](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones)
-- [Cuaderno siguiente](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-28-collocations-verb-noun-food)
+- [Cuaderno siguiente](/blog/curso-b2/unidad-30-repaso-26-29)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

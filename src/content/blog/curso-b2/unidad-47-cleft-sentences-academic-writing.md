@@ -53,7 +53,7 @@ La **Unidad 47** aplica **Cleft Sentences** a **Academic Writing & Reports**. *I
 El léxico activo incluye *essay, report, structure, argumentation, formal register, evidence, outline, draft, cite, paraphrase, thesis statement* y *bibliography*. La explicación sigue las cinco lecciones vivas.
 
 > **Practica en el curso:** [Unidad 47](/curso-b2/unit-47)<br>
-> **Cuaderno de ejercicios:** [Unidad 47 con soluciones](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing-ejercicios-soluciones)<br>
+> **Cuaderno de ejercicios:** [Unidad 47 con soluciones](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing)<br>
 > **Antes:** [U46 — Mixed Conditionals + Psychology](/blog/curso-b2/unidad-46-mixed-conditionals-psychology)
 
 ---
@@ -322,7 +322,7 @@ Escribe primero la oración neutra y formula la pregunta implícita. La respuest
 
 Continúa con la **Unidad 48**, dedicada a reporting verbs e innovación educativa.
 
-- [Ejercicios U47 con soluciones](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing-ejercicios-soluciones)
+- [Ejercicios U47 con soluciones](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing)
 - [Unidad 47 del curso](/curso-b2/unit-47)
 - [U48 teoría: Reporting Verbs + Teaching](/blog/curso-b2/unidad-48-reporting-verbs-teaching)
 

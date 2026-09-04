@@ -154,7 +154,7 @@ for (const a of articles) {
 }
 
 // Inlinks (from content → internal URLs)
-const LINK_RE = /\]\((\/[^\s)]+)\)/g;
+const LINK_RE = /(!?)\[[^\]]*\]\((\/[^\s)]+)\)/g;
 const inlinksBySlug = new Map();
 const internalLinkOccurrences = [];
 for (const a of articles) {
@@ -162,7 +162,8 @@ for (const a of articles) {
   const seen = new Set();
   let m;
   while ((m = LINK_RE.exec(a.content)) !== null) {
-    const url = m[1].split("#")[0].replace(/\/+$/, "");
+    if (m[1] === "!") continue;
+    const url = m[2].split("#")[0].replace(/\/+$/, "");
     if (!seen.has(url)) {
       seen.add(url);
       internalLinkOccurrences.push({ from: a.slug, url });

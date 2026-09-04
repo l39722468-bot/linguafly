@@ -51,7 +51,7 @@ Esta unidad es la primera de dos dedicadas a este tema (la segunda, en la Unidad
 Encontrarás explicaciones detalladas, listas de verbos organizadas por grupo, ejemplos con audio, vocabulario de education con frases de ejemplo, errores típicos con su corrección, un texto de lectura, un diálogo modelo, un plan de práctica y ejercicios resueltos.
 
 > **Practica en el curso:** [Unidad 3 — Gerund vs infinitive](/curso-b2/unit-3)  
-> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 3 B2](/blog/curso-b2/unidad-3-gerund-infinitive-education-ejercicios-soluciones)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 3 B2](/blog/curso-b2/unidad-3-gerund-infinitive-education)  
 > **Antes:** [U2 — Future tenses & work](/blog/curso-b2/unidad-2-future-tenses-work)
 
 ---
@@ -964,12 +964,12 @@ Este artículo incluye también los **ejercicios de la Unidad 3** con soluciones
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b2/unidad-3-gerund-infinitive-education).  
 2. Practica en la [Unidad 3 del curso B2](/curso-b2/unit-3).  
-3. Siguiente: [Verb + Object + Infinitive](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure-ejercicios-soluciones).
+3. Siguiente: [Verb + Object + Infinitive](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure).
 
 Guías relacionadas:
 
 - [Teoría Unidad 3](/blog/curso-b2/unidad-3-gerund-infinitive-education)
-- [Cuaderno anterior](/blog/curso-b2/unidad-2-future-tenses-work-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-2-future-tenses-work)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

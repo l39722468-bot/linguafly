@@ -53,7 +53,7 @@ La **Unidad 50** consolida la gramática y el vocabulario de **U41–49**. Su le
 El repaso conecta educación, investigación, universidad, salud, espacio, psicología, escritura académica, innovación docente y sociología. La meta es cambiar de estructura por significado sin perder forma ni precisión léxica.
 
 > **Practica en el curso:** [Unidad 50](/curso-b2/unit-50)<br>
-> **Cuaderno de ejercicios:** [Unidad 50 con soluciones](/blog/curso-b2/unidad-50-repaso-41-49-ejercicios-soluciones)<br>
+> **Cuaderno de ejercicios:** [Unidad 50 con soluciones](/blog/curso-b2/unidad-50-repaso-41-49)<br>
 > **Antes:** [U49 — Inversion + Sociology](/blog/curso-b2/unidad-49-inversion-sociology)
 
 ---
@@ -313,7 +313,7 @@ No empieces por el hueco. Lee la oración completa, nombra la función y la pist
 
 Has completado el repaso U41–49. Continúa con la **Unidad 51 del curso B2** y conserva un repaso espaciado del bloque.
 
-- [Ejercicios U50 con soluciones](/blog/curso-b2/unidad-50-repaso-41-49-ejercicios-soluciones)
+- [Ejercicios U50 con soluciones](/blog/curso-b2/unidad-50-repaso-41-49)
 - [Unidad 50 del curso](/curso-b2/unit-50)
 - [Continuar con Unidad 51](/curso-b2/unit-51)
 

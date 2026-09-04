@@ -76,7 +76,7 @@ C1: Whereas the preliminary findings lend tentative support to the hypothesis, t
 
 > **Practica en el curso:** [Unidad 70 C1](/curso-c1/unit-70)<br>
 > **Unidad anterior:** [Unidad 69 C1: Hedging y postura](/blog/curso-c1/unidad-69-language-lab-hedging-postura)<br>
-> **Siguiente unidad:** [Unidad 71 C1: Participios y oraciones reducidas](/blog/curso-c1/unidad-71-language-lab-participios-oraciones-reducidas)<br>
+> **Siguiente unidad:** [Unidad 71 C1: Participios y oraciones reducidas](/blog/curso-c1/unidad-13-participle-clauses-viajes)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

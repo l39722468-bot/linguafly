@@ -51,7 +51,7 @@ Esta unidad también aclara una trampa muy frecuente: los verbos *make* y *let*,
 Encontrarás explicaciones detalladas, tablas con verbos organizados por grupo, ejemplos con audio, vocabulario de leisure con frases de ejemplo, errores típicos con su corrección, un texto de lectura, un diálogo modelo, un plan de práctica y ejercicios resueltos.
 
 > **Practica en el curso:** [Unidad 4 — Gerund & object + infinitive](/curso-b2/unit-4)  
-> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 4 B2](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure-ejercicios-soluciones)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 4 B2](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure)  
 > **Antes:** [U3 — Gerund vs infinitive](/blog/curso-b2/unidad-3-gerund-infinitive-education)
 
 ---
@@ -959,12 +959,12 @@ Este artículo incluye también los **ejercicios de la Unidad 4** con soluciones
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure).  
 2. Practica en la [Unidad 4 del curso B2](/curso-b2/unit-4).  
-3. Siguiente: [Repaso 1–4](/blog/curso-b2/unidad-5-repaso-1-4-ejercicios-soluciones).
+3. Siguiente: [Repaso 1–4](/blog/curso-b2/unidad-5-repaso-1-4).
 
 Guías relacionadas:
 
 - [Teoría Unidad 4](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure)
-- [Cuaderno anterior](/blog/curso-b2/unidad-3-gerund-infinitive-education-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-3-gerund-infinitive-education)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

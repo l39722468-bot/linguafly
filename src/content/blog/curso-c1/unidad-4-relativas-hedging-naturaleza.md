@@ -62,7 +62,7 @@ La segunda no debilita el análisis; indica con honestidad qué parte es evidenc
 
 > **Practica en el curso:** [Unidad 4 C1](/curso-c1/unit-4)<br>
 > **Unidad anterior:** [Unidad 3 C1: condicionales mixtos](/blog/curso-c1/unidad-3-condicionales-mixtos-ciencia)<br>
-> **Siguiente unidad:** [Unidad 5 C1: cleft sentences](/blog/curso-c1/unidad-5-cleft-sentences)<br>
+> **Siguiente unidad:** [Unidad 5 C1: cleft sentences](/blog/curso-c1/unidad-11-cleft-education)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

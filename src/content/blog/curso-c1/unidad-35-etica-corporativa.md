@@ -58,7 +58,7 @@ El tema encaja de forma natural porque la ética corporativa es, por definición
 
 > **Practica en el curso:** [Unidad 35 C1](/curso-c1/unit-35)<br>
 > **Unidad anterior:** [Unidad 34 C1: liderazgo y gestión](/blog/curso-c1/unidad-34-liderazgo-gestion)<br>
-> **Siguiente unidad:** [Unidad 36 C1](/blog/curso-c1/unidad-36)<br>
+> **Siguiente unidad:** [Unidad 36 C1](/blog/curso-c1/unidad-36-economia-sociedad)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

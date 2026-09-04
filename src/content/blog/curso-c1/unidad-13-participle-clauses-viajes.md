@@ -59,7 +59,7 @@ El objetivo no es reducir frases a cualquier precio. Una participle clause es bu
 
 > **Practica en el curso:** [Unidad 13 C1](/curso-c1/unit-13)<br>
 > **Unidad anterior:** [Unidad 12 C1: mixed conditionals y urbanismo](/blog/curso-c1/unidad-12-condicionales-urbanismo)<br>
-> **Siguiente unidad:** [Unidad 14 C1: inversión condicional](/blog/curso-c1/unidad-14-inversion-condicional)<br>
+> **Siguiente unidad:** [Unidad 14 C1: inversión condicional](/blog/curso-c1/unidad-21-clima-medioambiente)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

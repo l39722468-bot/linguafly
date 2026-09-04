@@ -58,7 +58,7 @@ Los phrasal verbs no se traducen pieza a pieza. *Break* no es siempre "romper" y
 En B2 estos phrasals aparecen en emails al casero, mensajes a compañeros de piso, anuncios de reforma y relatos cotidianos. Si solo memorizas la traducción española, en cuanto cambie el sujeto (*boiler / talks / he*) te quedarás bloqueado. Aquí entrenamos **el mismo phrasal en varios sentidos**, con tablas claras y mucha prosa explicativa para que el patrón se fije de verdad, no solo de oído.
 
 > **Practica en el curso:** [Unidad 23](/curso-b2/unit-23)  
-> **Cuaderno de ejercicios:** [Unidad 23 con soluciones](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living-ejercicios-soluciones)  
+> **Cuaderno de ejercicios:** [Unidad 23 con soluciones](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living)  
 > **Antes:** [U22 — Linkers reason/purpose + photography](/blog/curso-b2/unidad-22-linkers-reason-purpose-photography)
 
 ---

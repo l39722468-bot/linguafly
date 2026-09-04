@@ -58,7 +58,7 @@ Este repaso está pensado para **diagnóstico**: localiza si fallas más en cont
 En un repaso B2 de verdad no basta con "reconocer" la opción correcta en un test. Necesitas **producir** bajo presión suave: hablar un minuto, escribir un párrafo, autocorregirte con el checklist. Por eso esta guía insiste en prosa explicativa en español (nivel de claridad A1 en la explicación, contenido B2 en los ejemplos) y en tareas que cruzan vocabulario de las cuatro unidades. Si un apartado te frena, vuelve a la guía dedicada; el repaso no sustituye el aprendizaje inicial, lo consolida.
 
 > **Practica en el curso:** [Unidad 25](/curso-b2/unit-25)  
-> **Cuaderno de ejercicios:** [Unidad 25 con soluciones](/blog/curso-b2/unidad-25-repaso-21-24-ejercicios-soluciones)  
+> **Cuaderno de ejercicios:** [Unidad 25 con soluciones](/blog/curso-b2/unidad-25-repaso-21-24)  
 > **Antes:** [U24 — Phrasal verbs 2 + social media](/blog/curso-b2/unidad-24-phrasal-verbs-2-social-media)
 
 ---

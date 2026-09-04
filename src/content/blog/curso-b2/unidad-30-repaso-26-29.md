@@ -44,7 +44,7 @@ faqs:
       Solo si el diagnóstico muestra fallos generales. Si falla un contraste concreto, repasa su tabla, crea tres ejemplos y vuelve a probarlo al día siguiente.
   - question: ¿Dónde practico la Unidad 30?
     answer: >-
-      En la [Unidad 30 del curso B2](/curso-b2/unit-30) y en el [cuaderno de repaso](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones).
+      En la [Unidad 30 del curso B2](/curso-b2/unit-30) y en el [cuaderno de repaso](/blog/curso-b2/unidad-30-repaso-26-29).
 excerpt: >-
   Repaso integrado B2 de las Unidades 26–29: phrasal verbs, collocations, vocabulario, ejercicios resueltos y cuatro temas de vocabulario.
 ---
@@ -55,7 +55,7 @@ Un repaso B2 no consiste en releer cuatro listas. Debes identificar qué decisi�
 Esta guía funciona como diagnóstico y consolidación. Encontrarás un mapa visual, cuatro repasos concentrados, una estrategia para clasificar huecos, reading y diálogo integrados, audio y diez ejercicios con soluciones. Al final producirás una historia que conecta un festival sostenible, una actuación musical, un menú local y el efecto de la presión y el apoyo.
 
 > **Practica en el curso:** [Unidad 30](/curso-b2/unit-30)<br>
-> **Cuaderno de ejercicios:** [Unidad 30 con soluciones](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones)<br>
+> **Cuaderno de ejercicios:** [Unidad 30 con soluciones](/blog/curso-b2/unidad-30-repaso-26-29)<br>
 > **Antes:** [U29 — Adjective + Noun Collocations + Psychology](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology)
 
 ---
@@ -397,13 +397,13 @@ Continúa con la **Unidad 31 — Articles Advanced & Education**, que abre el M�
 
 - [Unidad 30 del curso](/curso-b2/unit-30)
 - [U31 teoría: Articles Advanced + Education](/blog/curso-b2/unidad-31-articles-advanced-education)
-- [Ejercicios U31 con soluciones](/blog/curso-b2/unidad-31-articles-advanced-education-ejercicios-soluciones)
+- [Ejercicios U31 con soluciones](/blog/curso-b2/unidad-31-articles-advanced-education)
 
 ### Guías relacionadas
 
 - [U29 Adjective + Noun](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology)
 - [U31 Articles Advanced + Education](/blog/curso-b2/unidad-31-articles-advanced-education)
-- [Cuaderno U31 con soluciones](/blog/curso-b2/unidad-31-articles-advanced-education-ejercicios-soluciones)
+- [Cuaderno U31 con soluciones](/blog/curso-b2/unidad-31-articles-advanced-education)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---
@@ -428,7 +428,7 @@ Solo si el diagnóstico muestra fallos generales. Si falla un contraste concreto
 
 ### ¿Dónde practico la Unidad 30?
 
-En la [Unidad 30 del curso B2](/curso-b2/unit-30) y en el [cuaderno de repaso](/blog/curso-b2/unidad-30-repaso-26-29-ejercicios-soluciones).
+En la [Unidad 30 del curso B2](/curso-b2/unit-30) y en el [cuaderno de repaso](/blog/curso-b2/unidad-30-repaso-26-29).
 
 ---
 
@@ -822,8 +822,8 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 Guías relacionadas:
 
 - [Teoría Unidad 30](/blog/curso-b2/unidad-30-repaso-26-29)
-- [Cuaderno anterior](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones)
-- [Cuaderno siguiente](/blog/curso-b2/unidad-31-articles-education-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology)
+- [Cuaderno siguiente](/blog/curso-b2/unidad-31-articles-advanced-education)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

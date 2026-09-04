@@ -44,7 +44,7 @@ faqs:
       **Put off** es separable (*put it off*). **Put up with** funciona como bloque inseparable antes de aquello que toleras.
   - question: ¿Dónde practico la Unidad 27?
     answer: >-
-      En la [Unidad 27 del curso B2](/curso-b2/unit-27) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones).
+      En la [Unidad 27 del curso B2](/curso-b2/unit-27) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-27-phrasal-verbs-4-music).
 excerpt: >-
   Guía completa de LOOK/MAKE/PUT con vocabulario de Music & Entertainment, ejercicios resueltos, reading, listening, writing y speaking.
 ---
@@ -55,7 +55,7 @@ El reto central no es la cantidad, sino distinguir formas visualmente parecidas.
 Esta guía convierte las doce expresiones en una noche completa de música. Seguirás a público, banda y promotor desde la compra de *tickets* hasta el *backstage*. Las tablas aclaran significado y patrón; los audios entrenan el chunk completo; el reading y el diálogo muestran cómo conviven; y los ejercicios te obligan a elegir con pistas concretas, no por intuición vaga.
 
 > **Practica en el curso:** [Unidad 27](/curso-b2/unit-27)<br>
-> **Cuaderno de ejercicios:** [Unidad 27 con soluciones](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones)<br>
+> **Cuaderno de ejercicios:** [Unidad 27 con soluciones](/blog/curso-b2/unidad-27-phrasal-verbs-4-music)<br>
 > **Antes:** [U26 — GET, GIVE, GO + sustainability](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability)
 
 ---
@@ -412,7 +412,7 @@ No. **Make up** puede ser inventar; **make up for** significa compensar algo neg
 
 ### ¿Dónde practico la Unidad 27?
 
-En la [Unidad 27 del curso B2](/curso-b2/unit-27) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones).
+En la [Unidad 27 del curso B2](/curso-b2/unit-27) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-27-phrasal-verbs-4-music).
 
 ---
 
@@ -801,13 +801,13 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-27-phrasal-verbs-4-music).
 2. Practica las destrezas interactivas en la [Unidad 27 del curso B2](/curso-b2/unit-27).
-3. Continúa con [Unidad 28 — Verb + Noun Collocations + Food](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones).
+3. Continúa con [Unidad 28 — Verb + Noun Collocations + Food](/blog/curso-b2/unidad-28-collocations-verb-noun-food).
 
 Guías relacionadas:
 
 - [Teoría Unidad 27](/blog/curso-b2/unidad-27-phrasal-verbs-4-music)
-- [Cuaderno anterior](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability-ejercicios-soluciones)
-- [Cuaderno siguiente](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-26-phrasal-verbs-3-sustainability)
+- [Cuaderno siguiente](/blog/curso-b2/unidad-28-collocations-verb-noun-food)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

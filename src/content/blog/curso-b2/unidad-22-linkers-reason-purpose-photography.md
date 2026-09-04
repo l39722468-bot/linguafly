@@ -58,7 +58,7 @@ Hablar de fotos es perfecto para esta gramática: *blurry shots because of poor 
 Como en la unidad anterior, el peligro no es memorizar la lista, sino **acoplar bien la cola gramatical**: noun tras *because of/due to*, infinitivo tras *in order to*, cláusula tras *so that*. Las secciones siguientes lo desglosan con tablas, vocabulario de composición/exposición y audios.
 
 > **Practica en el curso:** [Unidad 22](/curso-b2/unit-22)  
-> **Cuaderno de ejercicios:** [Unidad 22 con soluciones](/blog/curso-b2/unidad-22-linkers-reason-purpose-photography-ejercicios-soluciones)  
+> **Cuaderno de ejercicios:** [Unidad 22 con soluciones](/blog/curso-b2/unidad-22-linkers-reason-purpose-photography)  
 > **Antes:** [U21 — Linkers contrast & personal development](/blog/curso-b2/unidad-21-linkers-contrast-personal-development)
 
 ---

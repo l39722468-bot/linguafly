@@ -68,7 +68,7 @@ La gramática C1 no consiste en elegir una forma más larga. Consiste en elegir 
 
 > **Practica en el curso:** [Unidad 6 C1](/curso-c1/unit-6)<br>
 > **Unidad anterior:** [Unidad 5 C1: tiempos narrativos y nominalisation](/blog/curso-c1/unidad-5-tiempos-narrativos-arte)<br>
-> **Siguiente unidad:** [Unidad 7 C1: inversión para énfasis](/blog/curso-c1/unidad-7-inversion-enfasis)<br>
+> **Siguiente unidad:** [Unidad 7 C1: inversión para énfasis](/blog/curso-c1/unidad-18-moda-identidad)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

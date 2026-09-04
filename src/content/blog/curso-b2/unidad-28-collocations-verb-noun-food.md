@@ -43,7 +43,7 @@ faqs:
       Sí, según variedad y contexto. La Unidad 28 fija **have a shower**, habitual en inglés británico, como objetivo del curso.
   - question: ¿Dónde practico la Unidad 28?
     answer: >-
-      En la [Unidad 28 del curso B2](/curso-b2/unit-28) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones).
+      En la [Unidad 28 del curso B2](/curso-b2/unit-28) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-28-collocations-verb-noun-food).
 excerpt: >-
   Guía completa de las 18 collocations verbo+sustantivo de B2 con MAKE, TAKE y HAVE, vocabulario de food & gastronomy, ejercicios resueltos, reading, listening, writing y speaking.
 ---
@@ -54,7 +54,7 @@ Para un hispanohablante, este tema presenta una trampa constante: el verbo espa�
 La guía organiza las dieciocho formas por verbo, pero también las mezcla en historias realistas. Encontrarás audio para cada grupo, un reading sobre un menú estacional, un diálogo de cocina, ejercicios con soluciones y un método para corregir interferencias. El objetivo final es que el sustantivo active automáticamente su verbo antes de que aparezca el comodín *do*.
 
 > **Practica en el curso:** [Unidad 28](/curso-b2/unit-28)<br>
-> **Cuaderno de ejercicios:** [Unidad 28 con soluciones](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones)<br>
+> **Cuaderno de ejercicios:** [Unidad 28 con soluciones](/blog/curso-b2/unidad-28-collocations-verb-noun-food)<br>
 > **Antes:** [U27 — LOOK, MAKE, PUT + music](/blog/curso-b2/unidad-27-phrasal-verbs-4-music)
 
 ---
@@ -406,7 +406,7 @@ Sí, según variedad y contexto. La Unidad 28 fija **have a shower**, habitual e
 
 ### ¿Dónde practico la Unidad 28?
 
-En la [Unidad 28 del curso B2](/curso-b2/unit-28) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-28-collocations-verb-noun-food-ejercicios-soluciones).
+En la [Unidad 28 del curso B2](/curso-b2/unit-28) y en el [cuaderno con soluciones](/blog/curso-b2/unidad-28-collocations-verb-noun-food).
 
 ---
 
@@ -795,13 +795,13 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-28-collocations-verb-noun-food).
 2. Practica las destrezas interactivas en la [Unidad 28 del curso B2](/curso-b2/unit-28).
-3. Continúa con [Unidad 29 — Adjective + Noun Collocations + Psychology](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones).
+3. Continúa con [Unidad 29 — Adjective + Noun Collocations + Psychology](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology).
 
 Guías relacionadas:
 
 - [Teoría Unidad 28](/blog/curso-b2/unidad-28-collocations-verb-noun-food)
-- [Cuaderno anterior](/blog/curso-b2/unidad-27-phrasal-verbs-4-music-ejercicios-soluciones)
-- [Cuaderno siguiente](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-27-phrasal-verbs-4-music)
+- [Cuaderno siguiente](/blog/curso-b2/unidad-29-collocations-adj-noun-psychology)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

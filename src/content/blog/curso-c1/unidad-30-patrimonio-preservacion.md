@@ -58,7 +58,7 @@ El tema encaja de forma natural porque el patrimonio es, por definición, un asu
 
 > **Practica en el curso:** [Unidad 30 C1](/curso-c1/unit-30)<br>
 > **Unidad anterior:** [Unidad 29 C1: fotografía y relato visual](/blog/curso-c1/unidad-29-fotografia-relato-visual)<br>
-> **Siguiente unidad:** [Unidad 31 C1](/blog/curso-c1/unidad-31)<br>
+> **Siguiente unidad:** [Unidad 31 C1](/blog/curso-c1/unidad-31-carreras-ambicion-laboral)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

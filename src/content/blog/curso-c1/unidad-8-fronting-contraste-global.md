@@ -66,7 +66,7 @@ El objetivo C1 no es sonar dramático ni categórico. Es organizar la frase para
 
 > **Practica en el curso:** [Unidad 8 C1](/curso-c1/unit-8)<br>
 > **Unidad anterior:** [Unidad 7 C1: nominal clauses y reporting verbs](/blog/curso-c1/unidad-7-nominal-reporting-concession-salud)<br>
-> **Siguiente unidad:** [Unidad 9 C1: discourse markers avanzados](/blog/curso-c1/unidad-9-discourse-markers)<br>
+> **Siguiente unidad:** [Unidad 9 C1: discourse markers avanzados](/blog/curso-c1/unidad-70-language-lab-cohesion-discursiva)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

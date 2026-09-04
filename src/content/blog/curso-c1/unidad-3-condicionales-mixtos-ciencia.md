@@ -52,7 +52,7 @@ En el nivel C1, los condicionales no son solo una tabla de fórmulas. Sirven par
 
 > **Practica en el curso:** [Unidad 3 C1](/curso-c1/unit-3)<br>
 > **Unidad anterior:** [Unidad 2 C1: aspecto perfecto](/blog/curso-c1/unidad-2-aspecto-perfecto)<br>
-> **Siguiente unidad:** [Unidad 4 C1: voz pasiva avanzada](/blog/curso-c1/unidad-4-voz-pasiva-avanzada)<br>
+> **Siguiente unidad:** [Unidad 4 C1: voz pasiva avanzada](/blog/curso-c1/unidad-16-pasiva-musica)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

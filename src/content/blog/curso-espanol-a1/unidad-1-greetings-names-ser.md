@@ -66,7 +66,7 @@ This is **Unit 1 of the A1 Spanish course** (*Greetings, names, and* ser *with y
 The official repertoire this unit opens is small on purpose. In the Instituto Cervantes *Plan curricular* (PCIC / NRE), first contact sits in **functions 5.1–5.5 and 5.21** (greet, introduce yourself, take leave), **specific notion 3.1.1** (name and surnames), and **grammar inventory 12** (*ser* of identity). A1 does not hand you the whole verb *ser*, and it does not hand you the English-style “thirty-second bio.” Stay inside this box and the next nine units will add age, origin, and work in the right order.
 
 > **Workbook (answered exercises):** [Unit 1 exercises](/blog/curso-espanol-a1/unidad-1-greetings-names-ser-ejercicios-soluciones)  
-> **Next:** [Unit 2 — Alphabet, pronunciation, orthography](/blog/curso-espanol-a1/unidad-2-alphabet-pronunciation-orthography)
+> **Next:** [Unit 2 — Alphabet, pronunciation, orthography](/blog/curso-espanol-a1/unidad-1-greetings-names-ser)
 
 ![A1 Spanish self-introduction formula: greeting, Me llamo, and soy / eres](/blog/curso-espanol-a1/unit-1/greetings-names-ser.png)
 
@@ -407,7 +407,7 @@ If you only have five minutes: record yourself saying the 20-second introduction
 [[Soy.|I am.]] and [[Eres.|You are.]] That is the whole productive paradigm for Unit 1. Drop the pronoun unless you contrast. The rest of *ser*, and *usted*, come later.
 
 **Where do I practise?**  
-In the [answered workbook for Unit 1](/blog/curso-espanol-a1/unidad-1-greetings-names-ser-ejercicios-soluciones), then in [Unit 2](/blog/curso-espanol-a1/unidad-2-alphabet-pronunciation-orthography), where you will spell the names you have just learned.
+In the [answered workbook for Unit 1](/blog/curso-espanol-a1/unidad-1-greetings-names-ser-ejercicios-soluciones), then in [Unit 2](/blog/curso-espanol-a1/unidad-1-greetings-names-ser), where you will spell the names you have just learned.
 
 ---
 

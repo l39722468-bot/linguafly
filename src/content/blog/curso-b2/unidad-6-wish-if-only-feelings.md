@@ -29,6 +29,7 @@ related_routes:
   - unidad-5-repaso-1-4
   - unidad-7-would-rather-family
   - ingles-b2
+faqs:
   - question: ¿Qué ejercicios incluye la Unidad 6 del curso B2?
     answer: >-
       Cinco lecciones con 15 actividades cada una sobre wish + past simple / were / could / would; if only + past perfect,

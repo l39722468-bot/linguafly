@@ -58,7 +58,7 @@ Si en la [Unidad 23](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living) el es
 Muchos estudiantes de nivel interalto conocen *call* como "llamar por teléfono" y se quedan ahí. En esta unidad verás que *call off* y *call for* casi nunca hablan de una llamada telefónica: hablan de **cancelar** y de **requerir**. Igual con *come*: no es solo "venir", sino encontrar por casualidad, idear o progresar. La guía prioriza prosa clara en español y ejemplos de campaña para que cada partícula deje de parecer decorativa y pase a ser parte del significado.
 
 > **Practica en el curso:** [Unidad 24](/curso-b2/unit-24)  
-> **Cuaderno de ejercicios:** [Unidad 24 con soluciones](/blog/curso-b2/unidad-24-phrasal-verbs-2-social-media-ejercicios-soluciones)  
+> **Cuaderno de ejercicios:** [Unidad 24 con soluciones](/blog/curso-b2/unidad-24-phrasal-verbs-2-social-media)  
 > **Antes:** [U23 — Phrasal verbs 1 + home & living](/blog/curso-b2/unidad-23-phrasal-verbs-1-home-living)
 
 ---

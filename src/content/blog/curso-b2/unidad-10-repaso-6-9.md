@@ -27,6 +27,7 @@ related_routes:
   - unidad-10-repaso-6-9
   - unidad-9-participle-clauses-environment
   - ingles-b2
+faqs:
   - question: ¿Qué ejercicios incluye la Unidad 10 del curso B2?
     answer: >-
       Cinco lecciones con 15 actividades cada una sobre wish, would rather, mixed conditionals, participle clauses,

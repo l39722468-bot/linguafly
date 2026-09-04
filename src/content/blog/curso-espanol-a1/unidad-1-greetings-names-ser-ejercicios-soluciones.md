@@ -53,7 +53,7 @@ excerpt: >-
 This workbook belongs with **Unit 1 of the A1 Spanish course** (*Greetings, names, and* ser *with yo / tú*). Instructions are in English; the Spanish is the level you are learning. Stay inside the Unit 1 box: greet, give your name, confirm identity with **soy** / **eres**, close with **mucho gusto**. Do not write age, origin, or a job.
 
 > **Theory guide:** [Spanish Greetings and Names (A1)](/blog/curso-espanol-a1/unidad-1-greetings-names-ser)  
-> **Next theory:** [Unit 2 — Alphabet, pronunciation, orthography](/blog/curso-espanol-a1/unidad-2-alphabet-pronunciation-orthography)
+> **Next theory:** [Unit 2 — Alphabet, pronunciation, orthography](/blog/curso-espanol-a1/unidad-1-greetings-names-ser)
 
 Do each block **without** opening the answer. Then read the explanation — not only the key.
 

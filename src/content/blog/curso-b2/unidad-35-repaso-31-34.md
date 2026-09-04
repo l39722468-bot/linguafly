@@ -826,7 +826,7 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 Guías relacionadas:
 
 - [Teoría Unidad 35](/blog/curso-b2/unidad-35-repaso-31-34)
-- [Cuaderno anterior](/blog/curso-b2/unidad-34-state-verbs-technology-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-34-state-verbs-technology)
 - [Continuar con Unidad 36](/curso-b2/unit-36)
 - [Inglés B2](/blog/metodos/ingles-b2)
 

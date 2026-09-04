@@ -58,7 +58,7 @@ Esta unidad no es solo una lista de conectores. Vas a ver **cuándo cada uno cam
 La clave de B2 es dejar de traducir palabra por palabra desde el español (*a pesar de que ella estaba cansada* → no *despite she was tired*). En las secciones siguientes desglosamos cada linker con tablas, ejemplos de desarrollo personal y audio para que el oído también registre el ritmo de estas frases.
 
 > **Practica en el curso:** [Unidad 21](/curso-b2/unit-21)  
-> **Cuaderno de ejercicios:** [Unidad 21 con soluciones](/blog/curso-b2/unidad-21-linkers-contrast-personal-development-ejercicios-soluciones)  
+> **Cuaderno de ejercicios:** [Unidad 21 con soluciones](/blog/curso-b2/unidad-21-linkers-contrast-personal-development)  
 > **Antes:** [U20 — Repaso 16–19](/blog/curso-b2/unidad-20-repaso-16-19)
 
 ---

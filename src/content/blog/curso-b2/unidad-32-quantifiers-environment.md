@@ -809,13 +809,13 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-32-quantifiers-environment).
 2. Practica las destrezas interactivas en la [Unidad 32 del curso B2](/curso-b2/unit-32).
-3. Continúa con [Unidad 33 — Regret, Remember, Forget](/blog/curso-b2/unidad-33-regret-remember-forget-feelings-ejercicios-soluciones).
+3. Continúa con [Unidad 33 — Regret, Remember, Forget](/blog/curso-b2/unidad-33-regret-remember-forget-feelings).
 
 Guías relacionadas:
 
 - [Teoría Unidad 32](/blog/curso-b2/unidad-32-quantifiers-environment)
-- [Cuaderno anterior](/blog/curso-b2/unidad-31-articles-advanced-education-ejercicios-soluciones)
-- [Cuaderno siguiente](/blog/curso-b2/unidad-33-regret-remember-forget-feelings-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-31-articles-advanced-education)
+- [Cuaderno siguiente](/blog/curso-b2/unidad-33-regret-remember-forget-feelings)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

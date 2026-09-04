@@ -53,7 +53,7 @@ La **Unidad 48** conecta **Reporting Verbs** con **Innovation in Teaching**. *Su
 El vocabulario incluye *EdTech, pedagogy, student engagement, assessment, e-learning, MOOC, hands-on learning, gamification, flipped classroom* y *formative feedback*. Todos los ejemplos se alinean con grammar, vocabulary, reading, listening y writing activos.
 
 > **Practica en el curso:** [Unidad 48](/curso-b2/unit-48)<br>
-> **Cuaderno de ejercicios:** [Unidad 48 con soluciones](/blog/curso-b2/unidad-48-reporting-verbs-teaching-ejercicios-soluciones)<br>
+> **Cuaderno de ejercicios:** [Unidad 48 con soluciones](/blog/curso-b2/unidad-48-reporting-verbs-teaching)<br>
 > **Antes:** [U47 — Cleft Sentences + Academic Writing](/blog/curso-b2/unidad-47-cleft-sentences-academic-writing)
 
 ---
@@ -323,7 +323,7 @@ Memoriza verbo y complemento juntos. Antes de conjugar, decide si nombras a quie
 
 Continúa con la **Unidad 49**, donde expresiones negativas y restrictivas provocan inversión enfática.
 
-- [Ejercicios U48 con soluciones](/blog/curso-b2/unidad-48-reporting-verbs-teaching-ejercicios-soluciones)
+- [Ejercicios U48 con soluciones](/blog/curso-b2/unidad-48-reporting-verbs-teaching)
 - [Unidad 48 del curso](/curso-b2/unit-48)
 - [U49 teoría: Inversion + Sociology](/blog/curso-b2/unidad-49-inversion-sociology)
 

@@ -23,12 +23,13 @@ keywords:
   - vocabulario familia inglés B2
 canonical: 'https://linguafly.app/blog/curso-b2/unidad-7-would-rather-family'
 image: /blog/curso-b2/unit-7/would-rather-prefer.png
-alt: 'Esquema de would rather, would prefer, it's time y vocabulario de family en ingles B2'
+alt: "Esquema de would rather, would prefer, it's time y vocabulario de family en ingles B2"
 related_routes:
   - unidad-7-would-rather-family
   - unidad-6-wish-if-only-feelings
   - unidad-8-mixed-conditionals-travel
   - ingles-b2
+faqs:
   - question: ¿Qué ejercicios incluye la Unidad 7 del curso B2?
     answer: >-
       Cinco lecciones con 15 actividades cada una sobre would rather + inf; would rather + subject + past; would prefer; It's time + past,

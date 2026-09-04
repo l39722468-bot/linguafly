@@ -67,7 +67,7 @@ El hecho básico es parecido, pero cambia el foco. En una noticia o un ensayo, c
 
 > **Practica en el curso:** [Unidad 9 C1](/curso-c1/unit-9)<br>
 > **Unidad anterior:** [Unidad 8 C1: fronting y especulación](/blog/curso-c1/unidad-8-fronting-contraste-global)<br>
-> **Siguiente unidad:** [Unidad 10 C1: repaso del módulo](/blog/curso-c1/unidad-10-repaso-modulo-2)<br>
+> **Siguiente unidad:** [Unidad 10 C1: repaso del módulo](/blog/curso-c1/unidad-48-consolidacion-problemas-globales)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

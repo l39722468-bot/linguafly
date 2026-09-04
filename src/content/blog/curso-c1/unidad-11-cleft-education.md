@@ -58,7 +58,7 @@ Las clefts son especialmente útiles al responder preguntas. Si alguien pregunta
 
 > **Practica en el curso:** [Unidad 11 C1](/curso-c1/unit-11)<br>
 > **Unidad anterior:** [Unidad 10 C1: repaso, ética y futuro](/blog/curso-c1/unidad-10-repaso-etica-futuro)<br>
-> **Siguiente unidad:** [Unidad 12 C1: complex noun phrases](/blog/curso-c1/unidad-12-noun-phrases)<br>
+> **Siguiente unidad:** [Unidad 12 C1: complex noun phrases](/blog/curso-c1/unidad-22-biodiversidad-conservacion)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

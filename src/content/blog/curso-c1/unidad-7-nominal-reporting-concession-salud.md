@@ -58,7 +58,7 @@ La primera frase comunica una proposición. La segunda la convierte en el sujeto
 
 > **Practica en el curso:** [Unidad 7 C1](/curso-c1/unit-7)<br>
 > **Unidad anterior:** [Unidad 6 C1: estructuras con it](/blog/curso-c1/unidad-6-estructuras-it-economia)<br>
-> **Siguiente unidad:** [Unidad 8 C1: comparatives y concession](/blog/curso-c1/unidad-8-comparatives-concession)<br>
+> **Siguiente unidad:** [Unidad 8 C1: comparatives y concession](/blog/curso-c1/unidad-24-oceanos-vida-marina)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

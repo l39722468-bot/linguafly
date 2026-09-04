@@ -807,13 +807,13 @@ Para consolidar, repite las expresiones mañana, dentro de tres días y una sema
 
 1. Repasa tus fallos en la [guía teórica](/blog/curso-b2/unidad-34-state-verbs-technology).
 2. Practica las destrezas interactivas en la [Unidad 34 del curso B2](/curso-b2/unit-34).
-3. Continúa con [Unidad 35 — Repaso 31–34](/blog/curso-b2/unidad-35-repaso-31-34-ejercicios-soluciones).
+3. Continúa con [Unidad 35 — Repaso 31–34](/blog/curso-b2/unidad-35-repaso-31-34).
 
 Guías relacionadas:
 
 - [Teoría Unidad 34](/blog/curso-b2/unidad-34-state-verbs-technology)
-- [Cuaderno anterior](/blog/curso-b2/unidad-33-regret-remember-forget-feelings-ejercicios-soluciones)
-- [Cuaderno siguiente](/blog/curso-b2/unidad-35-repaso-31-34-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-33-regret-remember-forget-feelings)
+- [Cuaderno siguiente](/blog/curso-b2/unidad-35-repaso-31-34)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

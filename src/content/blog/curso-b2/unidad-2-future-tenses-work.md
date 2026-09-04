@@ -51,7 +51,7 @@ Esta unidad es especialmente útil si trabajas en inglés o preparas el examen C
 Encontrarás explicaciones detalladas de cada forma, ejemplos con audio, una tabla de vocabulario de work con frases de ejemplo, errores típicos con su corrección, un texto de lectura, un diálogo modelo, un plan de práctica de 15 minutos y ejercicios resueltos.
 
 > **Practica en el curso:** [Unidad 2 — Future tenses & Work](/curso-b2/unit-2)  
-> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 2 B2](/blog/curso-b2/unidad-2-future-tenses-work-ejercicios-soluciones)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 2 B2](/blog/curso-b2/unidad-2-future-tenses-work)  
 > **Antes:** [U1 — Repaso B1 → B2](/blog/curso-b2/unidad-1-repaso-b1-b2)
 
 ---
@@ -956,12 +956,12 @@ Este artículo incluye también los **ejercicios de la Unidad 2** con soluciones
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b2/unidad-2-future-tenses-work).  
 2. Practica en la [Unidad 2 del curso B2](/curso-b2/unit-2).  
-3. Siguiente: [Gerund vs Infinitive](/blog/curso-b2/unidad-3-gerund-infinitive-education-ejercicios-soluciones).
+3. Siguiente: [Gerund vs Infinitive](/blog/curso-b2/unidad-3-gerund-infinitive-education).
 
 Guías relacionadas:
 
 - [Teoría Unidad 2](/blog/curso-b2/unidad-2-future-tenses-work)
-- [Cuaderno anterior](/blog/curso-b2/unidad-1-repaso-b1-b2-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-1-repaso-b1-b2)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---

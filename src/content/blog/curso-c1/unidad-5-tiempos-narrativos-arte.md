@@ -62,7 +62,7 @@ La nominalisation transforma una acción en un concepto y permite condensar argu
 
 > **Practica en el curso:** [Unidad 5 C1](/curso-c1/unit-5)<br>
 > **Unidad anterior:** [Unidad 4 C1: relative clauses y hedging](/blog/curso-c1/unidad-4-relativas-hedging-naturaleza)<br>
-> **Siguiente unidad:** [Unidad 6 C1: repaso del módulo 1](/blog/curso-c1/unidad-6-repaso-modulo-1)<br>
+> **Siguiente unidad:** [Unidad 6 C1: repaso del módulo 1](/blog/curso-c1/unidad-10-repaso-etica-futuro)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

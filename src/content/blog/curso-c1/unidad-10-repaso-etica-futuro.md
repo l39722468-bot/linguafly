@@ -61,7 +61,7 @@ Las cuatro frases pueden formar parte del mismo análisis, pero no cumplen exact
 
 > **Practica en el curso:** [Unidad 10 C1](/curso-c1/unit-10)<br>
 > **Unidad anterior:** [Unidad 9 C1: distancing y medios](/blog/curso-c1/unidad-9-distancing-medios)<br>
-> **Siguiente bloque:** [Unidad 11 C1: inversión para énfasis](/blog/curso-c1/unidad-11-inversion-lenguaje)<br>
+> **Siguiente bloque:** [Unidad 11 C1: inversión para énfasis](/blog/curso-c1/unidad-15-enfasis-deporte)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

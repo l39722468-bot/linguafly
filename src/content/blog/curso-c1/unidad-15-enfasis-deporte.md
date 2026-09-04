@@ -59,7 +59,7 @@ El énfasis debe tener una función. Si utilizamos `did` o una inversión en cad
 
 > **Practica en el curso:** [Unidad 15 C1](/curso-c1/unit-15)<br>
 > **Unidad anterior:** [Unidad 14 C1: subjuntivo y gastronomía](/blog/curso-c1/unidad-14-subjuntivo-gastronomia)<br>
-> **Siguiente unidad:** [Unidad 16 C1: música y artes escénicas](/blog/curso-c1/unidad-16-musica-artes-escenicas)<br>
+> **Siguiente unidad:** [Unidad 16 C1: música y artes escénicas](/blog/curso-c1/unidad-16-pasiva-musica)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
 
 ## Parte I — Teoría

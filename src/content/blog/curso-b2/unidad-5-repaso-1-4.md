@@ -51,7 +51,7 @@ Vas a repasar **wish/if only, participle clauses y mixed conditionals** (Unidad 
 Como en las unidades anteriores, encontrarás tablas de referencia, ejemplos con audio, vocabulario mixto de las cuatro unidades, errores típicos, un texto de lectura, un diálogo modelo, un plan de práctica y ejercicios resueltos con soluciones comentadas.
 
 > **Practica en el curso:** [Unidad 5 — Repaso 1–4](/curso-b2/unit-5)  
-> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 5 B2](/blog/curso-b2/unidad-5-repaso-1-4-ejercicios-soluciones)  
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 5 B2](/blog/curso-b2/unidad-5-repaso-1-4)  
 > **Antes:** [U4 — Verb + object + infinitive](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure)
 
 ---
@@ -942,12 +942,12 @@ Este artículo incluye también los **ejercicios de la Unidad 5** con soluciones
 
 1. Repasa fallos en la [guía teórica](/blog/curso-b2/unidad-5-repaso-1-4).  
 2. Practica en la [Unidad 5 del curso B2](/curso-b2/unit-5).  
-3. Siguiente: [Wish & If only](/blog/curso-b2/unidad-6-wish-if-only-feelings-ejercicios-soluciones).
+3. Siguiente: [Wish & If only](/blog/curso-b2/unidad-6-wish-if-only-feelings).
 
 Guías relacionadas:
 
 - [Teoría Unidad 5](/blog/curso-b2/unidad-5-repaso-1-4)
-- [Cuaderno anterior](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure-ejercicios-soluciones)
+- [Cuaderno anterior](/blog/curso-b2/unidad-4-gerund-object-infinitive-leisure)
 - [Inglés B2](/blog/metodos/ingles-b2)
 
 ---
