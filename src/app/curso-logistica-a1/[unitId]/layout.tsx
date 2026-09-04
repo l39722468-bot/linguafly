@@ -9,7 +9,7 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
     ? `Test final inglés A1 para Logística | ${SITE_BRAND_NAME}`
     : `Unidad ${unitNumber} del curso de inglés A1 para Logística | ${SITE_BRAND_NAME}`;
 
-  const description = `Curso de inglés A1 para logística con LinguaFly: vocabulario básico de almacén y mercancías para empezar a trabajar en el sector.`;
+  const description = `Curso de inglés A1 para logística con Linguafly: vocabulario básico de almacén y mercancías para empezar a trabajar en el sector.`;
 
   return {
     title,

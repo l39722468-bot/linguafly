@@ -1,8 +1,8 @@
 ---
-title: 'DELE vs Cambridge vs IELTS vs APTIS 2026'
+title: 'Cambridge, IELTS, APTIS o EOI: ¿Cuál Elegir?'
 date: '2026-03-21'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 category: examenes
 readTime: 11 min
 description: >-
@@ -14,7 +14,7 @@ excerpt: >-
   Te explicamos cuál elegir según tu objetivo: oposición, trabajo, estudio en
   el extranjero o habilitación docente. Precios y reconocimiento en 2026.
 keywords:
-  - DELE vs Cambridge vs IELTS vs APTIS
+  - Cambridge, IELTS, APTIS o EOI: ¿Cuál Elegir?
   - aptis vs cambridge
   - preparar inglés gratis
   - material de inglés gratis

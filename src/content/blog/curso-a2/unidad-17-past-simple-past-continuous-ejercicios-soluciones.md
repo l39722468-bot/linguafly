@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 17 A2: Past Simple + Past Continuous (con soluciones)'
+title: 'Ejercicios Past Simple y Past Continuous A2'
 description: >-
   Practica todos los ejercicios de la Unidad 17 del curso A2: when / while + Past Simple & Past Continuous,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 17
+  - Ejercicios Past Simple y Past Continuous A2
   - ejercicios when while
   - past simple past continuous
   - I was walking when

@@ -1,16 +1,16 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 4 A2: Wh-questions en Past Simple (con soluciones)'
+title: 'Ejercicios de Wh-Questions en Past Simple A2'
 description: >-
   Practica todos los ejercicios de la Unidad 4 del curso A2: What/Where/When/Who/Why/How
   did…?, First/Then/Finally, reading, listening y writing. Con soluciones
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 4
+  - Ejercicios de Wh-Questions en Past Simple A2
   - ejercicios wh questions past simple
   - What did you do yesterday
   - Where When Who Why How did

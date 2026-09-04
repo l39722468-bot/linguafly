@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 33 A1: Adverbios de frecuencia — always, usually, often… (con soluciones)'
+title: 'Ejercicios de Adverbios de Frecuencia en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 33 del curso A1: always, usually,
   often, sometimes, never, posición con Present Simple y be, reading, listening
   y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 33
+  - Ejercicios de Adverbios de Frecuencia en Inglés A1
   - ejercicios adverbios de frecuencia
   - always usually often sometimes never
   - how often exercises

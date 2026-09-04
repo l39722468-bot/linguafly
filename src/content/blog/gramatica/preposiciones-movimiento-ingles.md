@@ -1,5 +1,5 @@
 ---
-title: 'Preposiciones de Movimiento en Inglés'
+title: 'Preposiciones de Movimiento en Inglés: Guía'
 description: >-
   Domina To, Into, Across, Through, Onto y más. Incluye guía visual de
   preposiciones de movimiento en inglés y ejemplos para exámenes Cambridge.
@@ -8,7 +8,7 @@ excerpt: >-
   Aprende a usar las preposiciones de movimiento en inglés con precisión. Guía
   académica con ejemplos prácticos, comparativas y lista imprimible.
 keywords:
-  - Preposiciones de Movimiento en Inglés
+  - Preposiciones de Movimiento en Inglés: Guía
   - preposiciones en ingles
   - ejercicios de inglés gratis
   - preposiciones de movimiento en inglés con ejemplos
@@ -16,9 +16,9 @@ keywords:
   - diferencia entre in into on y onto en inglés
   - preposiciones de movimiento para exámenes Cambridge
   - guía visual de preposiciones inglesas B1 B2
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-02'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿� Material de Estudio?'

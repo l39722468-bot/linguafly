@@ -1,6 +1,6 @@
 ---
 title: "Aprender Inglés: Guía Maestra de Niveles A1 a C2 y Recursos 2026"
-description: "Aprende inglés de forma rápida y efectiva con LinguaFly. Explora guías por niveles de A1 a C2, métodos de estudio interactivos y recursos gratuitos."
+description: "Aprende inglés de forma rápida y efectiva con Linguafly. Explora guías por niveles de A1 a C2, métodos de estudio interactivos y recursos gratuitos."
 keywords: ["aprender inglés", "cómo aprender inglés", "niveles de inglés", "inglés a1 c2", "cursos de inglés online", "estudiar inglés"]
 canonical: "https://linguafly.app/aprender-ingles"
 faqs:

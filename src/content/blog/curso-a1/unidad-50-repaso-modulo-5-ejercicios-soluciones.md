@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-21'
-updatedDate: '2026-08-21'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 50 A1: Repaso Módulo 5 — Places & Travel (con soluciones)'
+title: 'Repaso de Inglés A1: Módulo 5 con Ejercicios'
 description: >-
   Practica el repaso del Módulo 5 A1: take the / go by, It is (weather),
   was/were, superlativos, need to, hotel, sightseeing y packing. Con soluciones
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 50
+  - Repaso de Inglés A1: Módulo 5 con Ejercicios
   - repaso módulo 5 A1
   - take the go by was were
   - need to sightseeing hotel

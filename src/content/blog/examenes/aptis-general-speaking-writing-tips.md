@@ -2,7 +2,7 @@
 title: 'Aptis General: Consejos de Speaking y Writing'
 date: '2026-03-04'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Guía práctica con los mejores consejos para el Speaking y Writing del Aptis
   General. Errores más frecuentes, ejemplos de respuestas B1-B2 y estrategias

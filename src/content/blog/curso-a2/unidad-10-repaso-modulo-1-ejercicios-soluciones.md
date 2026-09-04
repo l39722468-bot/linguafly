@@ -1,16 +1,16 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 10 A2: Repaso Módulo 1 (con soluciones)'
+title: 'Repaso de Inglés A2: Módulo 1 con Ejercicios'
 description: >-
   Practica el repaso del Módulo 1 A2: Past Simple, Wh-questions, comparativos,
   superlativos, adverbios, at/on/in, into/through/across, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 10
+  - Repaso de Inglés A2: Módulo 1 con Ejercicios
   - repaso módulo 1 A2
   - past simple comparativos adverbios preposiciones
   - module 1 review A2

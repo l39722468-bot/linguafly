@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 52 A1: Contables e incontables — much/many (con soluciones)'
+title: 'Ejercicios de Contables e Incontables en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 52 del curso A1: much, many, a lot
   of, milk, water, bread, rice, apples, eggs, reading, listening y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 52
+  - Ejercicios de Contables e Incontables en Inglés A1
   - ejercicios much many a lot of
   - countable uncountable A1
   - how many eggs how much milk

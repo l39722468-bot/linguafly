@@ -1,15 +1,15 @@
 ---
 category: gramatica
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Excepciones y trampas ortográficas'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'B Muda en Inglés: Excepciones y Trampas Ortográficas'
 description: >-
   Lista razonada de casos que confunden: palabras con b que sí se pronuncian,
   palabras con b muda y consejos para no equivocarte al escribir en exámenes.
 readTime: 22 min
 keywords:
-  - Excepciones y trampas ortográficas
+  - B Muda en Inglés: Excepciones y Trampas Ortográficas
   - ortografía inglés excepciones
   - gramática inglesa gratis
   - excepciones de la b muda en inglés

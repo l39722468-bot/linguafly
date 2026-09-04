@@ -19,7 +19,7 @@ export const dynamic = 'force-static';
 export const metadata: Metadata = {
   title: `Cuadro de ejercicios del curso relacionados con el blog | ${SITE_BRAND_NAME}`,
   description:
-    'Directorio de ejercicios interactivos del curso relacionados con los artículos del blog de LinguaFly. Conecta teoría y práctica por nivel (A1-C2).',
+    'Directorio de ejercicios interactivos del curso relacionados con los artículos del blog de Linguafly. Conecta teoría y práctica por nivel (A1-C2).',
   alternates: {
     canonical: getAbsoluteUrl('/blog/ejercicios-relacionados'),
   },

@@ -1,8 +1,8 @@
 ---
-title: 'Inglés para Fotografía de Viaje'
+title: 'Fotografía de Viaje: Vocabulario y Frases en Inglés'
 date: '2026-04-17'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Vocabulario y frases en inglés para fotógrafos viajeros. Pide que te hagan fotos, pregunta por permisos, compra equipo y comparte tu trabajo con el mundo.
 excerpt: >-
@@ -11,7 +11,7 @@ category: viajes
 readTime: 9 min
 alt: Fotógrafo viajero capturando un atardecer desde un mirador
 keywords:
-  - Inglés para Fotografía de Viaje
+  - Fotografía de Viaje: Vocabulario y Frases en Inglés
   - ingles fotografia viaje
   - inglés para viajar gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-fotografia-viaje'

@@ -9,7 +9,7 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
     ? `Test final inglés B1 para Camareros | ${SITE_BRAND_NAME}`
     : `Unidad ${unitNumber} del curso de inglés B1 para Camareros | ${SITE_BRAND_NAME}`;
 
-  const description = `Curso de inglés B1 para camareros con LinguaFly: conversación fluida con clientes internacionales y manejo de quejas y cobros.`;
+  const description = `Curso de inglés B1 para camareros con Linguafly: conversación fluida con clientes internacionales y manejo de quejas y cobros.`;
 
   return {
     title,

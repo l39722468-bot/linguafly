@@ -1,10 +1,10 @@
 ---
-title: 'Inversiones en Inglés C1: Domina'
+title: 'Inversiones en Inglés C1: Guía y Ejemplos para CAE'
 description: "Guía completa de las inversiones en inglés de nivel C1: tipos de inversión, cuándo usarlas, ejemplos prácticos y cómo aplicarlas en el Writing y las Key Word Transformations del CAE."
 readTime: 8 min
 excerpt: "Las inversiones son uno de los sellos del inglés avanzado. En el CAE aparecen en el Writing, en el Speaking y casi siempre en las Key Word Transformations. Aprende a usarlas con confianza."
 keywords:
-  - 'Inversiones en Inglés C1: Domina'
+  - 'Inversiones en Inglés C1: Guía y Ejemplos para CAE'
   - inversiones ingles c1
   - material de inglés gratis
   - ejercicios inversiones inglés C1 con respuestas
@@ -12,9 +12,9 @@ keywords:
   - adverbios negativos inversión en inglés
   - estructuras formales inglés nivel C1
   - cómo usar inversiones en Writing CAE
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-23'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: examenes
 faqs:
   - question: "¿Qué es una inversión en inglés y cuándo se usa?"

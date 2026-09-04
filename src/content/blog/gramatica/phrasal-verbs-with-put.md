@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs con PUT: Lista Completa'
+title: 'Phrasal Verbs con PUT: Lista Completa y Ejemplos'
 description: >-
   Domina todos los phrasal verbs con PUT en inglés. Guía completa con más de
   30 combinaciones esenciales: put off, put up, put on, put down y muchos más
@@ -10,7 +10,7 @@ excerpt: >-
   put up, put on, put down, put through y todas sus combinaciones con ejemplos
   reales y la explicación de su lógica.
 keywords:
-  - 'Phrasal Verbs con PUT: Lista Completa'
+  - 'Phrasal Verbs con PUT: Lista Completa y Ejemplos'
   - put phrasal verbs lista
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -19,9 +19,9 @@ keywords:
   - ejercicios gratis de phrasal verbs con put
   - lista completa de phrasal verbs con put y ejemplos
   - cómo aprender phrasal verbs con put en inglés
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-06'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: 'Phrasal verbs con PUT en inglés: put off, put up, put on explicados'
 category: gramatica
 canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-with-put'

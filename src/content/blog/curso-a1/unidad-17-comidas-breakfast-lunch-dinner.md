@@ -1,7 +1,7 @@
 ---
 category: curso-a1
 date: '2026-08-03'
-updatedDate: '2026-08-03'
+updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Comidas y gustos (A1): Breakfast, Lunch & Dinner'
 description: >-
@@ -10,7 +10,7 @@ description: >-
   ejercicios.
 readTime: 15 min
 keywords:
-  - have breakfast lunch dinner
+  - Comidas y Gustos en Inglés A1: Breakfast, Lunch y Dinner
   - I like cheese inglés
   - contables e incontables A1
   - like love hate food

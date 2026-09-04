@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 29 A1: Clothes — I am wearing… (con soluciones)'
+title: 'Ejercicios de Ropa y Present Continuous en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 29 del curso A1: Present Continuous
   (I am wearing…), shirt, trousers, dress, shoes, hat, jacket, reading, listening
   y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 29
+  - Ejercicios de Ropa y Present Continuous en Inglés A1
   - ejercicios clothes wearing
   - present continuous ropa
   - I am wearing exercises

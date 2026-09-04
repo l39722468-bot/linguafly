@@ -1,5 +1,5 @@
 ---
-title: 'Emails de Actualización de Proyecto'
+title: 'Emails de Actualización de Proyecto en Inglés'
 description: >-
   Aprende a escribir progress updates y status reports por email en inglés.
   Estructura, frases clave y ejemplos para informar sobre el avance de un
@@ -10,12 +10,12 @@ excerpt: >-
   es gestionar expectativas, anticipar problemas y demostrar control sobre
   el proyecto. Aquí tienes cómo estructurarlo.
 keywords:
-  - Emails de Actualización de Proyecto
+  - Emails de Actualización de Proyecto en Inglés
   - email actualizacion proyecto ingles
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-27'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona escribiendo progress update de proyecto en inglés en reunión de equipo
 category: trabajo
 faqs:

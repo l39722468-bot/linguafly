@@ -7,11 +7,11 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
   const unitNumber = unitId.replace('unit-', '');
 
   const specificDescriptions: Record<string, string> = {
-    "unit-72": "Practica con la Unidad 72 del curso de inglés B2 en LinguaFly. Contenidos avanzados de gramática, comprensión lectora y expresiones idiomáticas.",
+    "unit-72": "Practica con la Unidad 72 del curso de inglés B2 en Linguafly. Contenidos avanzados de gramática, comprensión lectora y expresiones idiomáticas.",
   };
 
   const description = specificDescriptions[unitId]
-    || `Practica con la Unidad ${unitNumber} del curso de inglés B2 en LinguaFly. Contenidos avanzados de gramática, comprensión lectora y expresiones idiomáticas.`;
+    || `Practica con la Unidad ${unitNumber} del curso de inglés B2 en Linguafly. Contenidos avanzados de gramática, comprensión lectora y expresiones idiomáticas.`;
 
   const title = unitId === 'test-final'
     ? `Test final inglés B2 | ${SITE_BRAND_NAME}`

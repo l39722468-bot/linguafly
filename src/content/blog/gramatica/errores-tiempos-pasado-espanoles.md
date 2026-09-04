@@ -1,15 +1,15 @@
 ---
-title: 'Los Errores con los Tiempos de Pasado'
+title: 'Errores con los Tiempos de Pasado en Inglés'
 date: '2026-03-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Los errores más frecuentes con el past simple, present perfect y past continuous que cometen los hablantes de español, con explicaciones claras y cómo corregirlos.
 category: gramatica
 alt: Persona corrigiendo errores gramaticales en tiempos de pasado en inglés
 readTime: 7 min
 keywords:
-  - Los Errores con los Tiempos de Pasado
+  - Errores con los Tiempos de Pasado en Inglés
   - tiempos pasado ingles errores
   - gramática inglesa gratis
   - errores de past simple y present perfect

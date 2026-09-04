@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 25 A1: My Neighborhood — the/a/an y some/any (con soluciones)'
+title: 'Ejercicios de The, A/An y Some/Any en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 25 del curso A1: the vs a/an,
   some/any, park, supermarket, cinema, library, pharmacy, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 25
+  - Ejercicios de The, A/An y Some/Any en Inglés A1
   - ejercicios the a an some any
   - my neighborhood exercises
   - describir el barrio inglés

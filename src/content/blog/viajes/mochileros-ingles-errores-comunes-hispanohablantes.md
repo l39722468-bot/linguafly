@@ -1,15 +1,15 @@
 ---
 category: viajes
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Errores típicos del español al hablar'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Errores de Español al Hablar Inglés de Viaje'
 description: >-
   Correcciones prácticas para hispanohablantes: falsos amigos, calcos, registro
   y pronunciación en situaciones de viaje real (hostels, transporte, calle).
 readTime: 22 min
 keywords:
-  - Errores típicos del español al hablar
+  - Errores de Español al Hablar Inglés de Viaje
   - errores inglés viaje
   - frases en inglés gratis
   - inglés para viajar gratis

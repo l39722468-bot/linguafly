@@ -1,10 +1,10 @@
 ---
-title: 'Key Word Transformations CAE: Domina'
+title: 'Key Word Transformations CAE: Guía y Ejercicios'
 description: "Guía completa de las Key Word Transformations del C1 Advanced: los patrones más frecuentes, estructuras gramaticales clave y errores habituales para maximizar tu puntuación en la Parte 4."
 readTime: 9 min
 excerpt: "Las Key Word Transformations son la parte del CAE que más candidatos suspenden y más nota discrimina. Conocer los patrones que usa Cambridge te permite resolverlas con mucha más seguridad."
 keywords:
-  - 'Key Word Transformations CAE: Domina'
+  - 'Key Word Transformations CAE: Guía y Ejercicios'
   - key word transformations cae
   - preparar inglés gratis
   - ejercicios Key Word Transformations CAE
@@ -12,9 +12,9 @@ keywords:
   - cómo resolver la Parte 4 del CAE
   - estructuras gramaticales Key Word Transformations
   - práctica CAE Use of English con respuestas
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-17'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: examenes
 faqs:
   - question: "¿Cuántas palabras puedo usar en las Key Word Transformations del CAE?"

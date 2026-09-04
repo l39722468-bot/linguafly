@@ -1,8 +1,8 @@
 ---
-title: '10 Errores en Emails Profesionales'
+title: '10 Errores en Emails Profesionales en Inglés'
 date: '2026-02-20'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Descubre los errores más frecuentes al escribir correos profesionales en
   inglés y cómo corregirlos. Guía práctica con ejemplos reales y alternativas
@@ -13,7 +13,7 @@ canonical: >-
   https://linguafly.app/blog/trabajo/ingles-emails-trabajo-errores-comunes
 readTime: 5 min
 keywords:
-  - 10 Errores en Emails Profesionales
+  - 10 Errores en Emails Profesionales en Inglés
   - errores emails ingles trabajo
   - inglés de negocios gratis
 faqs:

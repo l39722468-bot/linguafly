@@ -14,7 +14,7 @@ keywords:
   - Inglés para Alquilar un Coche en el Extranjero
   - ingles alquilar coche
   - inglés para viajar gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-04-19'
 updatedDate: '2026-08-31'
 alt: Turista recogiendo llaves de un coche de alquiler en un mostrador de aeropuerto

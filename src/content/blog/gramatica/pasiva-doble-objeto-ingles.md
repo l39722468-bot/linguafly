@@ -1,5 +1,5 @@
 ---
-title: 'Pasiva con Doble Objeto en Inglés'
+title: 'Pasiva con Doble Objeto en Inglés: Guía y Ejemplos'
 description: >-
   Aprende a formar la voz pasiva con verbos que tienen dos objetos en inglés.
   Diferencia entre pasiva de objeto directo e indirecto con give, send, show,
@@ -10,7 +10,7 @@ excerpt: >-
   en inglés tienes dos opciones de pasiva y ambas son correctas. Te explicamos
   cuándo usar cada una y cuál suena más natural.
 keywords:
-  - Pasiva con Doble Objeto en Inglés
+  - Pasiva con Doble Objeto en Inglés: Guía y Ejemplos
   - pasiva doble objeto ingles
   - gramática inglesa gratis
   - pasiva con dos objetos en inglés ejemplos
@@ -18,9 +18,9 @@ keywords:
   - pasiva de objeto directo e indirecto
   - cómo usar give send y show en pasiva
   - diferencia entre las dos pasivas con give
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-26'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona entregando un paquete, ilustrando verbos de doble objeto en pasiva inglés
 category: gramatica
 faqs:

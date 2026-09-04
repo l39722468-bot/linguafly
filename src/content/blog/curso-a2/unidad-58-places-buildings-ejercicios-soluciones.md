@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 58 A2: Places & Buildings (con soluciones)'
+title: 'Ejercicios de Lugares y Edificios en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 58 del curso A2: There is/are, Is there…?, located in, museum, library, stadium, square,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 58
+  - Ejercicios de Lugares y Edificios en Inglés A2
   - places buildings ejercicios
   - There is are
   - located in museum library

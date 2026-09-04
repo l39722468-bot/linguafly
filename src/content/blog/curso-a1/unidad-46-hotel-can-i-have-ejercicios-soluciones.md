@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-21'
-updatedDate: '2026-08-21'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 46 A1: At the Hotel — Can I have…? (con soluciones)'
+title: 'Ejercicios de Inglés para Hoteles A1'
 description: >-
   Practica todos los ejercicios de la Unidad 46 del curso A1: Can I have…?, Is
   there…?, room service, reception, check-in, reading, listening y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 46
+  - Ejercicios de Inglés para Hoteles A1
   - ejercicios at the hotel Can I have
   - hotel reception room service
   - Is there Wi-Fi A1

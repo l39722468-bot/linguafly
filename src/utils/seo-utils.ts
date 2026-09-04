@@ -44,6 +44,6 @@ export function suggestInternalLinks(content: string): KeywordLink[] {
  * comparativas, cursos online, tendencias).
  */
 export function optimizeSEOTitle(title: string): string {
-  if (!title || typeof title !== "string") return title || "Focus English";
+  if (!title || typeof title !== "string") return title || "Linguafly";
   return title;
 }

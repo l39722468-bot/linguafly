@@ -1,5 +1,5 @@
 ---
-title: 'Present Perfect vs Past Simple'
+title: 'Present Perfect vs Past Simple: Diferencias y Uso'
 description: >-
   Aprende la diferencia entre Present Perfect y Past Simple en inglés. Guía
   definitiva con reglas, ejemplos avanzados, comparativa de marcadores y lista
@@ -10,7 +10,7 @@ excerpt: >-
   explicamos las reglas de nivel Cambridge, los marcadores temporales y ejemplos
   prácticos para dominarlos.
 keywords:
-  - Present Perfect vs Past Simple
+  - Present Perfect vs Past Simple: Diferencias y Uso
   - difference between present perfect and past simple
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -20,9 +20,9 @@ keywords:
   - marcadores de tiempo present perfect y past simple
   - guía gratuita present perfect para hispanohablantes
 date: '2026-03-02'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
-author: focus-english-team
+author: linguafly-team
 faqs:
   - question: ¿Cuál es la diferencia principal entre Present Perfect y Past Simple?
     answer: >-

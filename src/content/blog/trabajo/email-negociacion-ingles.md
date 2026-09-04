@@ -1,5 +1,5 @@
 ---
-title: 'Emails de Negociación en Inglés: Cómo'
+title: 'Emails de Negociación en Inglés: Cómo Escribirlos'
 description: >-
   Aprende a negociar por email en inglés de forma profesional. Frases para
   hacer propuestas, contrarrestar ofertas, pedir descuentos y cerrar acuerdos
@@ -10,10 +10,10 @@ excerpt: >-
   y las palabras que elijas pueden marcar la diferencia entre un acuerdo y
   un rechazo. Aquí tienes las herramientas para hacerlo bien.
 keywords:
-  - 'Emails de Negociación en Inglés: Cómo'
+  - 'Emails de Negociación en Inglés: Cómo Escribirlos'
   - como negociar por email ingles
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-18'
 updatedDate: '2026-08-31'
 alt: Dos personas en reunión de negocios con ordenador revisando emails de negociación en inglés

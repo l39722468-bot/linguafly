@@ -1,15 +1,15 @@
 ---
-title: 'IELTS Writing Task 1: Cómo Describir'
+title: 'IELTS Writing Task 1: Describir Gráficos y Datos'
 date: '2026-02-05'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía práctica para el IELTS Writing Task 1: estructura de respuesta, vocabulario para describir tendencias, errores más comunes y ejemplos de respuestas Band 6.5 y 7.
 category: examenes
 alt: Gráficos y estadísticas en papel para el IELTS Writing Task 1
 readTime: 7 min
 keywords:
-  - 'IELTS Writing Task 1: Cómo Describir'
+  - 'IELTS Writing Task 1: Describir Gráficos y Datos'
   - ielts writing task 1
   - preparar inglés gratis
   - cómo describir gráficos en IELTS Writing Task 1

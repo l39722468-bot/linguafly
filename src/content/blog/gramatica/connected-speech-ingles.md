@@ -24,7 +24,7 @@ keywords:
   - cómo entender el inglés nativo hablado rápido
   - connected speech en inglés con ejemplos de audio
   - técnicas para mejorar listening con connected speech
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-04'
 updatedDate: '2026-08-31'
 category: gramatica

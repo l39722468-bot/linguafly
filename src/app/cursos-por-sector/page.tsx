@@ -6,7 +6,7 @@ import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 export const metadata: Metadata = {
   title: `Cursos de inglés por sector profesional | ${SITE_BRAND_NAME}`,
   description:
-    "Impulsa tu carrera con los cursos de inglés especializado por sectores profesionales de LinguaFly: hostelería, recepción, logística, salud y más.",
+    "Impulsa tu carrera con los cursos de inglés especializado por sectores profesionales de Linguafly: hostelería, recepción, logística, salud y más.",
   alternates: {
     canonical: getAbsoluteUrl('/cursos-por-sector'),
   },

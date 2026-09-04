@@ -2,7 +2,7 @@
 title: 'Inglés para Mercados y Regateo en el Extranjero'
 date: '2026-04-17'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Vocabulario y frases en inglés para mercados callejeros, bazares y regateo. Aprende a negociar precios, preguntar por productos y comprar souvenirs con confianza.
 excerpt: >-

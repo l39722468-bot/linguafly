@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 51 A1: Supermercado — plurales (con soluciones)'
+title: 'Ejercicios de Plurales y Supermercado en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 51 del curso A1: plurales
   (tomatoes, potatoes, apples), fruit, vegetables, meat, fish, aisle, trolley,
   checkout, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 51
+  - Ejercicios de Plurales y Supermercado en Inglés A1
   - ejercicios plurales supermercado
   - tomatoes potatoes apples A1
   - aisle trolley checkout

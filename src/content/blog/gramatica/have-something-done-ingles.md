@@ -1,5 +1,5 @@
 ---
-title: 'Have Something Done en Inglés'
+title: 'Have Something Done: Causativa en Inglés'
 description: >-
   Aprende a usar "have something done" y "get something done" en inglés con
   ejemplos reales de servicios, reparaciones y situaciones cotidianas. Incluye
@@ -8,7 +8,7 @@ readTime: 12 min
 excerpt: >-
   Dominio gramatical de la causativa en inglés (have/get something done): reglas sintácticas, tiempos verbales y cómo aplicarla en exámenes Cambridge.
 keywords:
-  - Have Something Done en Inglés
+  - Have Something Done: Causativa en Inglés
   - have something done ingles
   - ejercicios de inglés gratis
   - cómo usar have something done en inglés
@@ -16,9 +16,9 @@ keywords:
   - ejercicios gratis de causativa inglesa
   - have get something done con ejemplos
   - estructura causativa para exámenes B2 C1
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-14'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona en peluqueria, ejemplo de have something done en ingles
 category: gramatica
 faqs:

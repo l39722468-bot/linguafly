@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 27 A2: Zero Conditional (con soluciones)'
+title: 'Ejercicios de Zero Conditional en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 27 del curso A2: If + Present Simple, Present Simple (hechos generales),
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 27
+  - Ejercicios de Zero Conditional en Inglés A2
   - ejercicios zero conditional
   - If you heat water it boils
   - condicional cero A2

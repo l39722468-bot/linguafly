@@ -1,16 +1,16 @@
 ---
 category: curso-c1
 date: '2026-09-20'
-updatedDate: '2026-09-20'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 50 C1: Desinformación y fake news"
+title: "Desinformación y Fake News en Inglés C1"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a verificar fuentes, a desmontar la desinformación y a argumentar
   sobre fake news con precisión léxica y espíritu crítico. Con teoría detallada y 19 ejercicios inglés C1 gratis.
 readTime: 40 min
 keywords:
   [
-    curso de inglés C1 gratis,
+    Desinformación y Fake News en Inglés C1,
     ejercicios inglés C1 gratis,
     desinformación y fake news en inglés,
     verificación de fuentes C1,

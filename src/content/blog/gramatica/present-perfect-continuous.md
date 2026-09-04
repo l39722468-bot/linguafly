@@ -1,15 +1,15 @@
 ---
-title: 'Present Perfect Continuous: Cuándo'
+title: 'Present Perfect Continuous: Cuándo Usarlo'
 date: '2026-02-22'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Present Perfect Continuous en inglés: cuándo usarlo y en qué se diferencia del Present Perfect Simple. Guía con ejemplos claros, errores frecuentes y ejercicios resueltos.
 category: gramatica
 alt: Persona estudiando la diferencia entre present perfect simple y continuous
 readTime: 6 min
 keywords:
-  - 'Present Perfect Continuous: Cuándo'
+  - 'Present Perfect Continuous: Cuándo Usarlo'
   - cuando usar present perfect continuous
   - ejercicios de inglés gratis
   - present perfect continuous en inglés con ejemplos

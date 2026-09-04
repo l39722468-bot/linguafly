@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 32 A1: Sports & Hobbies — play, go, do (con soluciones)'
+title: 'Ejercicios de Deportes y Aficiones en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 32 del curso A1: play football, go
   swimming, do yoga, painting, reading, reading, listening y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 32
+  - Ejercicios de Deportes y Aficiones en Inglés A1
   - ejercicios play go do
   - sports hobbies exercises
   - play football go swimming

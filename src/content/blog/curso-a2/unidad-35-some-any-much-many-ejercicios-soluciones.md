@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 35 A2: Some, Any, Much, Many (con soluciones)'
+title: 'Ejercicios de Some, Any, Much y Many en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 35 del curso A2: some/any, much/many, a lot of, a few y a little,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 35
+  - Ejercicios de Some, Any, Much y Many en Inglés A2
   - some any much many ejercicios
   - a lot of a few a little
   - how much how many

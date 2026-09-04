@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-21'
-updatedDate: '2026-08-21'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 47 A1: Holidays — was/were y pasado regular (con soluciones)'
+title: 'Ejercicios de Vacaciones y Pasado en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 47 del curso A1: was/were, visited,
   played, beach, sightseeing, souvenirs, reading, listening y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 47
+  - Ejercicios de Vacaciones y Pasado en Inglés A1
   - ejercicios was were vacaciones
   - past simple holidays A1
   - visited played sightseeing

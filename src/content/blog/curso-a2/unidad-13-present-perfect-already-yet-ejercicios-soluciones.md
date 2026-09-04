@@ -1,14 +1,14 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 13 A2: Already & Yet (con soluciones)'
+title: 'Ejercicios de Already y Yet en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 13 del curso A2: already, yet, Have you… yet?, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 13
+  - Ejercicios de Already y Yet en Inglés A2
   - ejercicios already yet
   - I have already finished
   - I haven't done it yet

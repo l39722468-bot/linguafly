@@ -1,5 +1,5 @@
 ---
-title: 'Voz Pasiva Avanzada: Estructuras'
+title: 'Voz Pasiva Avanzada: Causativa e Impersonal'
 description: >-
   Domina la voz pasiva avanzada en inglés: impersonal passive, causative 'have
   something done' y verbos de opinión. Guía con ejemplos y lista imprimible.
@@ -9,7 +9,7 @@ excerpt: >-
   los exámenes C1 Advanced y C2 Proficiency: 'it is said that', 'have something
   done' y más.
 keywords:
-  - 'Voz Pasiva Avanzada: Estructuras'
+  - 'Voz Pasiva Avanzada: Causativa e Impersonal'
   - voz pasiva avanzada ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -18,9 +18,9 @@ keywords:
   - it is said that y have something done
   - estructuras pasivas para Cambridge Advanced
   - pasiva inglesa avanzada para writing formal
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-02'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿La Pasiva Impersonal (Impersonal Passive)?'

@@ -1,8 +1,8 @@
 ---
-title: 'El Acento Irlandés: Guía para Entender'
+title: 'Acento Irlandés en Inglés: Guía para Entenderlo'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   El acento irlandés explicado para hispanohablantes: rasgos fonéticos clave, frases características y cómo entenderlo mejor. Guía práctica con ejemplos de pronunciación del inglés de Irlanda.
 excerpt: >-
@@ -11,7 +11,7 @@ category: gramatica
 readTime: 7 min
 alt: Paisaje irlandés evocando la musicalidad del inglés de Irlanda
 keywords:
-  - 'El Acento Irlandés: Guía para Entender'
+  - 'Acento Irlandés en Inglés: Guía para Entenderlo'
   - acento irlandes ingles
   - ejercicios de inglés gratis
   - cómo entender el acento irlandés en inglés

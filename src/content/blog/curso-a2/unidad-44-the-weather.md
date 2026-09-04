@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-12'
-updatedDate: '2026-08-12'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'The Weather A2: sunny, rainy y predicciones'
+title: 'The Weather A2: Vocabulario, Pronóstico y Predicciones'
 description: >-
   Describe el tiempo en inglés A2: sunny, rainy, cloudy, windy. It's…, It's
   going to… y will. Guía Unidad 44 con audios, pronósticos y ejercicios.
 readTime: 15 min
 keywords:
-  - the weather A2
+  - The Weather A2: Vocabulario, Pronóstico y Predicciones
   - sunny rainy cloudy
   - it's going to rain
   - inglés A2 unidad 44

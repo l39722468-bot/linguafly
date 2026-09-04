@@ -1,5 +1,5 @@
 ---
-title: 'Condicionales en Inglés para Writing'
+title: 'Condicionales en Inglés para Writing: Guía B1-C1'
 description: >-
   Aprende a usar los condicionales en inglés para mejorar tus textos escritos.
   Ejemplos para ensayos, emails formales, informes y propuestas. Nivel B1-C1.
@@ -9,7 +9,7 @@ excerpt: >-
   argumentar, proponer, suavizar y convencer. Te enseñamos cuándo y cómo
   usarlos en cada tipo de texto.
 keywords:
-  - Condicionales en Inglés para Writing
+  - Condicionales en Inglés para Writing: Guía B1-C1
   - condicionales ingles writing
   - ejercicios de inglés gratis
   - cómo usar condicionales en writing B2 C1
@@ -17,9 +17,9 @@ keywords:
   - ejercicios gratis de condicionales para writing
   - frases condicionales para argumentar en inglés
   - condicionales en propuestas e informes ingleses
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-03'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona escribiendo un ensayo en inglés usando condicionales correctamente
 category: gramatica
 faqs:

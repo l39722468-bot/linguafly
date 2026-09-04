@@ -1,8 +1,8 @@
 ---
-title: 'Inglés de Nueva Zelanda'
+title: 'Inglés de Nueva Zelanda: Acento, Vocabulario y Claves'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   El inglés de Nueva Zelanda: sus características fonéticas únicas, influencia del maorí y diferencias con el australiano y británico. Guía práctica para entender el kiwi English.
 excerpt: >-
@@ -11,7 +11,7 @@ category: gramatica
 readTime: 6 min
 alt: Paisaje de Nueva Zelanda con el cielo estrellado representando la diversidad del inglés
 keywords:
-  - Inglés de Nueva Zelanda
+  - Inglés de Nueva Zelanda: Acento, Vocabulario y Claves
   - ingles nueva zelanda caracteristicas
   - ejercicios de inglés gratis
   - características del inglés neozelandés

@@ -1,16 +1,16 @@
 ---
 category: curso-c1
 date: '2026-09-11'
-updatedDate: '2026-09-11'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 37 C1: Salud mental y bienestar — paráfrasis empática y límites"
+title: "Salud Mental y Bienestar en Inglés C1: Paráfrasis y Límites"
 description: >-
   En la Unidad 37 del curso de inglés C1 gratis aprenderás a reformular con
   empatía, matizar afirmaciones sensibles y respetar límites al hablar de salud
   mental y bienestar. Incluye 19 ejercicios inglés C1 gratis con soluciones.
 readTime: 40 min
 keywords:
-  - curso de inglés C1 gratis
+  - Salud Mental y Bienestar en Inglés C1: Paráfrasis y Límites
   - salud mental en inglés
   - paraphrasing C1
   - ejercicios inglés C1 gratis

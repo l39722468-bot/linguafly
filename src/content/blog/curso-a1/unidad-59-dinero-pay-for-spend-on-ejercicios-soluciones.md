@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 59 A1: Dinero — pay for / spend on (con soluciones)'
+title: 'Ejercicios de Dinero y Compras en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 59 del curso A1: pay for, spend on,
   cash, credit card, change, receipt, reading, listening y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 59
+  - Ejercicios de Dinero y Compras en Inglés A1
   - ejercicios pay for spend on
   - cash credit card change receipt A1
   - money currency english

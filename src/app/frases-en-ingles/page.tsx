@@ -109,7 +109,7 @@ export default async function PhrasesHubPage() {
             <div className="prose prose-slate prose-lg max-w-none">
               <h2 className="font-display text-3xl font-black text-slate-900 mb-6">¿Por qué aprender frases hechas en inglés?</h2>
               <p className="text-slate-600 leading-relaxed mb-6">
-                Dominar frases completas en lugar de palabras sueltas es el "hack" más rápido para sonar como un nativo. En **Focus English**, no solo te damos la traducción literal, sino el contexto cultural necesario para que sepas exactamente cuándo y cómo usar cada expresión.
+                Dominar frases completas en lugar de palabras sueltas es el "hack" más rápido para sonar como un nativo. En **Linguafly**, no solo te damos la traducción literal, sino el contexto cultural necesario para que sepas exactamente cuándo y cómo usar cada expresión.
               </p>
               <ul className="list-disc ml-6 mb-8 space-y-3 text-slate-600">
                 <li><strong>Fluidez inmediata</strong>: Al memorizar frases, no tienes que pensar en la gramática sobre la marcha.</li>

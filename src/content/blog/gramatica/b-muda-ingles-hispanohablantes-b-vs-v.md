@@ -1,15 +1,15 @@
 ---
 category: gramatica
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: '“B” muda en inglés y confusión b/v'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'B Muda en Inglés: Diferencia entre B y V'
 description: >-
   Cómo evitar mezclar el contraste español b/v con la b muda inglesa, y cómo
   practicar /b/ y /v/ en inglés sin interferencias.
 readTime: 22 min
 keywords:
-  - “B” muda en inglés y confusión b/v
+  - B Muda en Inglés: Diferencia entre B y V
   - b muda ingles
   - ejercicios de inglés gratis
   - diferencia entre b y v en inglés para hispanohablantes

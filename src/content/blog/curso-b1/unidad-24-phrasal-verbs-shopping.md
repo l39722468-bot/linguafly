@@ -1,9 +1,9 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Phrasal Verbs 2 B1 + Shopping'
+title: 'Phrasal Verbs B1: Lista y Vocabulario de Compras'
 description: >-
   find out, give up, look into, fill in, hand in en inglés B1 con vocabulario de compras. Guía completa de la
   Unidad 24 con explicaciones, tablas, audios, errores típicos, reading, diálogo y ejercicios resueltos.
@@ -11,7 +11,7 @@ readTime: 20 min
 keywords:
   - find out give up
   - fill in hand in
-  - phrasal verbs shopping
+  - Phrasal Verbs B1: Lista y Vocabulario de Compras
   - look into
   - inglés B1 unidad 24
   - curso inglés B1 gratis

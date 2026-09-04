@@ -164,7 +164,7 @@ export const A1_LEXICON: LexicalItem[] = [
   { lemma: 'job', pos: 'noun', translation: 'trabajo', gender_es: 'm', tags: ['work', 'A1'], unit: 1 },
   { lemma: 'brown', pos: 'adjective', translation: 'marrón', tags: ['color', 'A1'], unit: 1 },
   { lemma: 'years old', pos: 'adjective', translation: 'años de edad', tags: ['age', 'A1'], unit: 1 },
-  { lemma: 'Focus English', pos: 'noun', translation: 'Focus English', tags: ['name', 'A1'], unit: 1 },
+  { lemma: 'Linguafly', pos: 'noun', translation: 'Linguafly', tags: ['name', 'A1'], unit: 1 },
   { lemma: 'good day', pos: 'noun', translation: 'buen día', tags: ['greeting', 'A1'], unit: 1 },
   { lemma: 'meet Alex', pos: 'noun', translation: 'conoce a Alex', tags: ['title', 'A1'], unit: 1 },
   { lemma: 'friend, Sarah', pos: 'noun', translation: 'amiga, Sara', tags: ['identity', 'A1'], unit: 1 },
@@ -329,8 +329,8 @@ export const A1_LEXICON: LexicalItem[] = [
   { lemma: 'london.', pos: 'noun', translation: 'Londres.', tags: ['city', 'A1'], unit: 1 },
   { lemma: 'canada.', pos: 'noun', translation: 'Canadá.', tags: ['country', 'A1'], unit: 1 },
   { lemma: 'mexico.', pos: 'noun', translation: 'México.', tags: ['country', 'A1'], unit: 1 },
-  { lemma: 'focus english.', pos: 'noun', translation: 'Focus English.', tags: ['name', 'A1'], unit: 1 },
-  { lemma: 'focus english', pos: 'noun', translation: 'Focus English', tags: ['name', 'A1'], unit: 1 },
+  { lemma: 'linguafly.', pos: 'noun', translation: 'Linguafly.', tags: ['name', 'A1'], unit: 1 },
+  { lemma: 'linguafly', pos: 'noun', translation: 'Linguafly', tags: ['name', 'A1'], unit: 1 },
   
   // Drinks (Unit 2)
   { lemma: 'coffee', pos: 'noun', countable: false, article: 'some', translation: 'café', gender_es: 'm', tags: ['drink', 'A1'], unit: 2 },

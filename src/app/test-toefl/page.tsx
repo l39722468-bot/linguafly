@@ -5,7 +5,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Test de Nivel TOEFL iBT Online: Evalúa tu Inglés Académico Gratis",
   description: "Evalúa tu nivel de inglés académico con este test de 30 preguntas críticas de nivel B1 a C1 y recibe una recomendación de estudio.",
-  keywords: ["test toefl", "toefl ibt test nivel", "preparacion toefl", "focus english toefl", "nivel ingles academico"],
+  keywords: ["test toefl", "toefl ibt test nivel", "preparacion toefl", "linguafly toefl", "nivel ingles academico"],
 };
 
 export default function ToeflTestPage() {
@@ -93,7 +93,7 @@ export default function ToeflTestPage() {
       <footer className="bg-slate-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <p className="text-sm text-slate-400">
-            © 2026 Focus English. Todos los derechos reservados. TOEFL iBT es una marca registrada de ETS.
+            © 2026 Linguafly. Todos los derechos reservados. TOEFL iBT es una marca registrada de ETS.
           </p>
         </div>
       </footer>

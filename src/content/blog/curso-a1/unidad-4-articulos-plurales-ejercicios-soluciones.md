@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-17'
-updatedDate: '2026-08-17'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 4 A1: artículos, plurales y demostrativos (con soluciones)'
+title: 'Ejercicios de Artículos y Plurales en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 4 del curso A1: a/an, plurales,
   this/that/these/those, números, objetos del aula, reading de Pablo, listening
   y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios de inglés A1 unidad 4 con soluciones
+  - Ejercicios de Artículos y Plurales en Inglés A1
   - ejercicios a an y plurales en inglés
   - ejercicios this that these those
   - objetos del aula inglés ejercicios

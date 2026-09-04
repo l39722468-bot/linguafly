@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Nominal clauses y reporting verbs C1"
+title: "Nominal Clauses y Reporting Verbs C1: Guía y Ejercicios"
 description: >-
   Aprende nominal clauses, reporting verbs y estructuras de concesión en inglés C1 con vocabulario de salud y mente. Teoría y ejercicios con soluciones.
 readTime: 40 min
 keywords:
-  - nominal clauses inglés C1
+  - Nominal Clauses y Reporting Verbs C1: Guía y Ejercicios
   - reporting verbs ejercicios C1
   - although despite nevertheless C1
   - vocabulario salud y mente inglés

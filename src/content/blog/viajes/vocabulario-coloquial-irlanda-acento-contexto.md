@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario y Expresiones del Inglés'
+title: 'Inglés de Irlanda: Vocabulario y Expresiones'
 description: >-
   Léxico y pragmática del Hiberno-English para viajeros: expresiones cotidianas, registro,
   falsos amigos y cómo relacionar lo que oyes con el acento. Incluye ejemplos en contexto y advertencias culturales.
@@ -7,13 +7,13 @@ readTime: 14 min
 excerpt: >-
   Entender el acento irlandés va de la mano del vocabulario local. Esta guía recoge expresiones que aparecen una y otra vez en conversación real, con matices de registro para que sepas cuándo usarlas y cuándo limitarte a reconocerlas.
 keywords:
-  - Vocabulario y Expresiones del Inglés
+  - Inglés de Irlanda: Vocabulario y Expresiones
   - vocabulario ingles Irlanda
   - inglés para viajar gratis
   - frases en inglés gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-29'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Calle con ambiente urbano evocando viaje por Irlanda
 category: viajes
 faqs:

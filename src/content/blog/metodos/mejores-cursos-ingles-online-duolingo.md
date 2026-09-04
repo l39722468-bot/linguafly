@@ -2,7 +2,7 @@
 title: 'Duolingo 2026: insuficiente para IELTS solo'
 date: '2026-04-15'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 excerpt: 'Duolingo: hábito diario y vocabulario vs writing largo y speaking examinado. Límites para certificaciones y combinación sensata con tutor o curso estructurado.'
 description: 'Análisis crítico de Duolingo como curso de inglés online: fortalezas, límites para certificaciones oficiales y cómo combinarlo sin perder tiempo antes del examen.'
 category: metodos

@@ -1,15 +1,15 @@
 ---
-title: 'Backshift en Reported Speech: Cuándo'
+title: 'Backshift en Reported Speech: Cuándo Cambiarlo'
 date: '2026-02-04'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   El backshift es la regla principal del reported speech, pero tiene excepciones importantes. Aprende cuándo no hace falta cambiar el tiempo verbal y evita los errores más frecuentes.
 category: gramatica
 alt: Estudiante aprendiendo las excepciones del backshift en reported speech inglés
 readTime: 7 min
 keywords:
-  - 'Backshift en Reported Speech: Cuándo'
+  - 'Backshift en Reported Speech: Cuándo Cambiarlo'
   - cuando no cambiar verbo reported speech
   - ejercicios de inglés gratis
   - gramática inglesa gratis

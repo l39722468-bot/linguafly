@@ -2,7 +2,7 @@
 category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 title: 'Reporting Verbs Patterns: Lista Completa'
 description: >-
   Descubre los patrones gramaticales de los reporting verbs. Lista completa de

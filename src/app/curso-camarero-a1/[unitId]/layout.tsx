@@ -9,7 +9,7 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
     ? `Test final inglés A1 para Camareros | ${SITE_BRAND_NAME}`
     : `Unidad ${unitNumber} del curso de inglés A1 para Camareros | ${SITE_BRAND_NAME}`;
 
-  const description = `Curso de inglés A1 para camareros con LinguaFly: frases y vocabulario de hostelería para atender mejor a tus clientes.`;
+  const description = `Curso de inglés A1 para camareros con Linguafly: frases y vocabulario de hostelería para atender mejor a tus clientes.`;
 
   return {
     title,

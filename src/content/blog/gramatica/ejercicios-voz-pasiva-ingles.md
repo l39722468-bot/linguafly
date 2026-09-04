@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios de Voz Pasiva en Inglés'
+title: 'Ejercicios de Voz Pasiva en Inglés con Soluciones'
 description: >-
   Practica la voz pasiva en inglés con ejercicios variados y soluciones
   detalladas. Transformación, relleno de huecos, corrección de errores y
@@ -10,7 +10,7 @@ excerpt: >-
   pasiva en inglés organizados por dificultad, con sus soluciones explicadas
   para que entiendas exactamente qué y por qué.
 keywords:
-  - Ejercicios de Voz Pasiva en Inglés
+  - Ejercicios de Voz Pasiva en Inglés con Soluciones
   - ejercicios voz pasiva ingles soluciones
   - gramática inglesa gratis
   - ejercicios de voz pasiva en inglés gratis con soluciones
@@ -18,9 +18,9 @@ keywords:
   - práctica de voz pasiva inglesa por niveles
   - ejercicios de pasiva en inglés para exámenes
   - PDF gratuito de ejercicios de voz pasiva
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-10'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Estudiante completando ejercicios de gramática inglesa en papel con bolígrafo
 category: gramatica
 faqs:

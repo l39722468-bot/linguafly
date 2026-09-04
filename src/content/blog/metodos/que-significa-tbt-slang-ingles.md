@@ -1,5 +1,5 @@
 ---
-title: '¿Qué significa TBT?'
+title: 'TBT en Inglés: Qué Significa y Otros Slang'
 description: >-
   Descubre qué significa TBT, POV, ASAP y otros términos de redes sociales en
   inglés. Guía completa de slang moderno para entender internet y sonar como un
@@ -10,7 +10,7 @@ excerpt: >-
   origen, el uso y las reglas de los acrónimos y slang más populares de internet
   en inglés.
 keywords:
-  - ¿Qué significa TBT?
+  - TBT en Inglés: Qué Significa y Otros Slang
   - tbt significado
   - qué significa TBT en redes sociales gratis
   - significado de TBT en inglés gratis
@@ -18,9 +18,9 @@ keywords:
   - acrónimos de internet en inglés gratis
   - slang moderno de redes sociales en inglés gratis
 date: '2024-02-04'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
-author: focus-english-team
+author: linguafly-team
 faqs:
   - question: ¿Qué significa exactamente TBT?
     answer: >-

@@ -1,8 +1,8 @@
 ---
-title: 'Inglés para Ir de Compras: Frases'
+title: 'Inglés para Ir de Compras: Frases y Vocabulario'
 date: '2026-02-20'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Todo el inglés para ir de compras: preguntar precios, tallas, descuentos, cambios y devoluciones en inglés. Frases reales para tiendas, mercados y outlets en países angloparlantes.
 excerpt: >-
@@ -11,7 +11,7 @@ category: viajes
 readTime: 12 min
 alt: Persona con bolsas de compras en una calle comercial de Londres
 keywords:
-  - 'Inglés para Ir de Compras: Frases'
+  - 'Inglés para Ir de Compras: Frases y Vocabulario'
   - ingles para compras
   - frases en inglés gratis
   - inglés para viajar gratis

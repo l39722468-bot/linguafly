@@ -1,15 +1,15 @@
 ---
 category: metodos
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Australian English: vocales, fonética'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Australian English: Vocales y Fonética Comparada'
 description: >-
   Guía para hispanohablantes: sistema vocalico del inglés australiano, diferencias
   con británico y americano, y cómo practicar sin confundir “acento” con “errores”.
 readTime: 22 min
 keywords:
-  - 'Australian English: vocales, fonética'
+  - 'Australian English: Vocales y Fonética Comparada'
   - australian english fonética
   - curso inglés gratis online
 alt: Mapa y brújula sobre superficie de madera viajera

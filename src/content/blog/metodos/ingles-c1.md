@@ -1,16 +1,16 @@
 ---
 category: metodos
 date: '2026-02-07'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Nivel C1 de Inglés: Qué Significa'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Nivel C1 de Inglés: Qué Es y Cómo Alcanzarlo'
 description: >-
   El C1 es el nivel que piden multinacionales, universidades y la función
   pública. Te explicamos qué estructuras domina un C1, cuánto tiempo se tarda
   desde B2 (200-300h) y qué exámenes lo certifican: CAE, IELTS 7.0 o APTIS C.
 readTime: 9 min
 keywords:
-  - 'Nivel C1 de Inglés: Qué Significa'
+  - 'Nivel C1 de Inglés: Qué Es y Cómo Alcanzarlo'
   - nivel c1 ingles que es
   - curso inglés gratis online
   - cómo alcanzar el nivel C1 de inglés gratis

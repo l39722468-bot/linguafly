@@ -1,8 +1,8 @@
 ---
-title: 'Inglés Universitario y Académico'
+title: 'Inglés Universitario y Académico: Guía Completa'
 date: '2026-02-28'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Domina el inglés académico universitario: escritura de ensayos, lectura de artículos científicos, participación en seminarios y comunicación con profesores. Guía completa para hispanohablantes en 2026.
 excerpt: >-
@@ -11,7 +11,7 @@ category: examenes
 readTime: 17 min
 alt: Estudiante universitario tomando apuntes en una biblioteca con libros en inglés
 keywords:
-  - Inglés Universitario y Académico
+  - Inglés Universitario y Académico: Guía Completa
   - ingles universitario academico
   - preparar inglés gratis
   - material de inglés gratis

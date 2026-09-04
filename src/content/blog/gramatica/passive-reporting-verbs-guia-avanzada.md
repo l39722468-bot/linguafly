@@ -1,16 +1,16 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Passive Reporting Verbs: Estructuras'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Passive Reporting Verbs: Estructuras y Ejemplos'
 description: >-
   Guía detallada sobre la voz pasiva con verbos de reporte. Aprende estructuras
   como 'It is said that' y 'He is said to be'. Ideal para niveles Advanced y
   Proficiency.
 readTime: 5 min
 keywords:
-  - 'Passive Reporting Verbs: Estructuras'
+  - 'Passive Reporting Verbs: Estructuras y Ejemplos'
   - passive of reporting verbs
   - ejercicios de inglés gratis
   - passive reporting verbs con it is said that

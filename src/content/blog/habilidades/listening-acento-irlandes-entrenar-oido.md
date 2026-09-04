@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Entrenar el Oído para el Acento'
+title: 'Cómo Entender el Acento Irlandés: Guía Listening'
 description: >-
   Plan práctico para mejorar la comprensión auditiva del inglés irlandés: podcasts, series,
   documentales y rutina semanal. Incluye criterios de progreso y errores habituales al escuchar Hiberno-English.
@@ -8,11 +8,11 @@ excerpt: >-
   Entender el acento irlandés no es magia: es exposición ordenada, textos graduados y
   hábitos de escucha activa. Esta guía te propone un calendario de cuatro semanas con recursos reales y ejercicios que puedes hacer solo.
 keywords:
-  - Cómo Entrenar el Oído para el Acento
+  - Cómo Entender el Acento Irlandés: Guía Listening
   - entrenar oido acento irlandes
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-29'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona con auriculares escuchando contenido en inglés
 category: habilidades
 faqs:

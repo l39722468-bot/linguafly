@@ -1,15 +1,15 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Both, Either, Neither B1 + Choices'
+title: 'Both, Either y Neither B1: Guía y Ejercicios'
 description: >-
   Aprende both…and, either…or y neither…nor en inglés B1 con vocabulario de elecciones. Guía completa de la
   Unidad 27 con explicaciones, tablas, audios, errores típicos, reading, diálogo y ejercicios resueltos.
 readTime: 20 min
 keywords:
-  - both either neither B1
+  - Both, Either y Neither B1: Guía y Ejercicios
   - either or neither nor
   - choices vocabulary
   - both and

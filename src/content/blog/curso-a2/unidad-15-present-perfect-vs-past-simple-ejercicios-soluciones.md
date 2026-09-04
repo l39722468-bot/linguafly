@@ -1,14 +1,14 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 15 A2: Present Perfect vs Past Simple (con soluciones)'
+title: 'Ejercicios Present Perfect vs Past Simple A2'
 description: >-
   Practica todos los ejercicios de la Unidad 15 del curso A2: contraste Present Perfect vs Past Simple, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 15
+  - Ejercicios Present Perfect vs Past Simple A2
   - present perfect vs past simple
   - I have been / I went
   - last year vs experience

@@ -213,7 +213,7 @@ export default function EmailSignatureTool() {
                   
                   <div style={{ marginTop: '24px', fontSize: '11px', color: '#94A3B8', borderTop: '1px solid #F1F5F9', paddingTop: '12px', fontStyle: 'italic' }}>
                     <p style={{ margin: '0' }}>
-                      Certified Professional English by <a href="https://linguafly.app" style={{ color: '#FF6B6B', fontWeight: 'bold', textDecoration: 'none' }}>Focus English</a>
+                      Certified Professional English by <a href="https://linguafly.app" style={{ color: '#FF6B6B', fontWeight: 'bold', textDecoration: 'none' }}>Linguafly</a>
                     </p>
                   </div>
                 </div>
@@ -238,7 +238,7 @@ export default function EmailSignatureTool() {
                 <div className="relative z-10">
                   <h3 className="text-2xl font-black mb-4">¿Quieres sonar aún más profesional?</h3>
                   <p className="text-slate-400 mb-8 leading-relaxed">
-                    Tener una buena firma es solo el principio. Únete a Focus English y domina las reuniones, presentaciones y negociaciones en inglés con nuestro tutor de IA.
+                    Tener una buena firma es solo el principio. Únete a Linguafly y domina las reuniones, presentaciones y negociaciones en inglés con nuestro tutor de IA.
                   </p>
                   <Link 
                     href="/aprender-ingles" 
@@ -247,7 +247,7 @@ export default function EmailSignatureTool() {
                     <div className="flex items-center gap-4">
                       <div className="w-12 h-12 bg-coral-600 rounded-xl flex items-center justify-center font-black">AI</div>
                       <div>
-                        <p className="font-black text-white">Prueba Focus English Gratis</p>
+                        <p className="font-black text-white">Prueba Linguafly Gratis</p>
                         <p className="text-xs text-slate-500 font-bold uppercase tracking-wider">7 Días de acceso total</p>
                       </div>
                     </div>

@@ -1,5 +1,5 @@
 ---
-title: 'Cockney: El Acento del East End'
+title: 'Acento Cockney: Rasgos, Slang y Pronunciación'
 description: >-
   Guía completa del acento Cockney: glotal stop, th-fronting, cambios vocálicos,
   rhyming slang y vocabulario propio. Todo lo que necesitas para entender el inglés
@@ -10,11 +10,11 @@ excerpt: >-
   más malentendidos. Si alguna vez has visto EastEnders o Snatch y te has perdido
   la mitad de los diálogos, esta guía te explica exactamente qué está pasando.
 keywords:
-  - 'Cockney: El Acento del East End'
+  - 'Acento Cockney: Rasgos, Slang y Pronunciación'
   - east end londres acento
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-15'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿El Cockney y el Estuary English son lo mismo?'

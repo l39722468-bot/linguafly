@@ -15,7 +15,7 @@ keywords:
   - ejercicios gratis de pasiva impersonal
   - diferencia entre it is said that y he is said to
   - pasiva inglesa para nivel B2 C1
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-11'
 updatedDate: '2026-08-31'
 alt: Pantalla de televisión con noticias en inglés usando pasiva impersonal

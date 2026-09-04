@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-17'
-updatedDate: '2026-08-17'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 5 A1: Present Simple y rutinas (con soluciones)'
+title: 'Ejercicios de Present Simple y Rutinas A1'
 description: >-
   Practica todos los ejercicios de la Unidad 5 del curso A1: Present Simple
   afirmativo, -s de 3.ª persona, verbos de rutina, reading de María, listening
   de David y Sara, y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios de inglés A1 unidad 5 con soluciones
+  - Ejercicios de Present Simple y Rutinas A1
   - ejercicios present simple afirmativo
   - ejercicios de rutinas diarias en inglés
   - tercera persona s ejercicios inglés

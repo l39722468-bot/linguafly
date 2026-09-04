@@ -1,5 +1,5 @@
 ---
-title: '¿Cuánto se tarda en aprender inglés'
+title: '¿Cuánto se Tarda en Aprender Inglés? Guía por Niveles'
 description: >-
   ¿Cuántas horas necesitas para pasar de A1 a B2? Datos reales del FSI,
   tablas por nivel y plan de estudio semanal para hispanohablantes.
@@ -9,7 +9,7 @@ excerpt: >-
   FSI. Con 1 hora diaria, son unos 2 años. Pero hay factores que lo aceleran
   mucho: te damos el desglose por nivel y el plan de estudio más eficiente.
 keywords:
-  - ¿Cuánto se tarda en aprender inglés
+  - ¿Cuánto se Tarda en Aprender Inglés? Guía por Niveles
   - aprender ingles en 6 meses
   - cuántas horas hacen falta para aprender inglés
   - cuánto tardar en pasar de A1 a B2 en inglés
@@ -19,7 +19,7 @@ keywords:
 date: '2024-02-03'
 updatedDate: '2026-08-31'
 category: metodos
-author: focus-english-team
+author: linguafly-team
 faqs:
   - question: ¿Es posible aprender inglés en 3 meses?
     answer: >-

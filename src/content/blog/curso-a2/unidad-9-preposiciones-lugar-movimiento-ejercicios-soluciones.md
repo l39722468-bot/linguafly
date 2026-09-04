@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 9 A2: Preposiciones de movimiento (con soluciones)'
+title: 'Ejercicios de Preposiciones de Movimiento en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 9 del curso A2: into, out of,
   through, across, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 9
+  - Ejercicios de Preposiciones de Movimiento en Inglés A2
   - ejercicios into out of through across
   - preposiciones de movimiento A2
   - through vs across

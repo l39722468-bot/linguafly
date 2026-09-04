@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-27'
-updatedDate: '2026-09-27'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 57 C1: Ética y filosofía moral"
+title: "Ética y Filosofía Moral en Inglés C1: Guía y Ejercicios"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a razonar en inglés sobre dilemas éticos, a construir
   y refutar contraejemplos morales y a dominar el léxico de la filosofía moral (deontología, consecuencialismo,
@@ -14,7 +14,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    ética en inglés C1,
+    Ética y Filosofía Moral en Inglés C1: Guía y Ejercicios,
     dilemas morales en inglés C1,
     filosofía moral en inglés,
     consecuencialismo utilitarismo C1,

@@ -38,7 +38,7 @@ export default function Page() {
             "description": "Herramienta gratuita para crear firmas de correo electrónico profesionales en inglés con terminología empresarial correcta.",
             "publisher": {
               "@type": "Organization",
-              "name": "Focus English",
+              "name": "Linguafly",
               "url": "https://linguafly.app"
             }
           })

@@ -1,8 +1,8 @@
 ---
-title: 'Acentos del Inglés'
+title: 'Acentos del Inglés: Diferencias y Pronunciación'
 date: '2026-03-06'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía de acentos del inglés: diferencias entre el británico (RP, Cockney), americano (General American, Southern), australiano, irlandés y más. Con ejemplos de pronunciación para hispanohablantes.
 excerpt: >-
@@ -11,7 +11,7 @@ category: metodos
 readTime: 15 min
 alt: Banderas de países de habla inglesa sobre un fondo de un mapa del mundo
 keywords:
-  - Acentos del Inglés
+  - Acentos del Inglés: Diferencias y Pronunciación
   - ingles britanico vs americano acentos
   - curso inglés gratis online
 faqs:

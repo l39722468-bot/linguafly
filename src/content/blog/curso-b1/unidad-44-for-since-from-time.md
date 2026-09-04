@@ -1,16 +1,16 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'For, Since, From B1 + Time Expressions'
+title: 'For, Since y From B1: Guía y Ejercicios'
 description: >-
   Domina la diferencia entre for, since y from en inglés B1: duración, punto de inicio y rangos, aplicados al
   Present Perfect, con vocabulario de time expressions. Guía completa de la Unidad 44 con explicaciones,
   tablas, audios, errores típicos, reading, diálogo y ejercicios resueltos con soluciones.
 readTime: 15 min
 keywords:
-  - for since from B1
+  - For, Since y From B1: Guía y Ejercicios
   - since present perfect
   - from to time
   - time expressions English

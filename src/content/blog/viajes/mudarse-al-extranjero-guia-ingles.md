@@ -1,8 +1,8 @@
 ---
-title: 'Mudarse al Extranjero: Guía de Inglés'
+title: 'Mudarse al Extranjero: Inglés para Expatriados'
 date: '2026-02-24'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   El inglés imprescindible para mudarte a un país angloparlante: buscar piso, banco, trámites, sanidad y vida diaria. Guía completa para expatriados hispanohablantes en 2026.
 excerpt: >-
@@ -11,7 +11,7 @@ category: viajes
 readTime: 18 min
 alt: Cajas de mudanza en un apartamento vacío con luz natural
 keywords:
-  - 'Mudarse al Extranjero: Guía de Inglés'
+  - 'Mudarse al Extranjero: Inglés para Expatriados'
   - mudarse al extranjero guia ingles
   - inglés para viajar gratis
 faqs:

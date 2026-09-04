@@ -2,7 +2,7 @@
 title: 'Inglés para Airbnb y Alojamiento Alternativo'
 date: '2026-04-17'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Frases y vocabulario en inglés para reservar y gestionar Airbnb, hostales, apartamentos turísticos y alojamientos alternativos durante tus viajes.
 excerpt: >-

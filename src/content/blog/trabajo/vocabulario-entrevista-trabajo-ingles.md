@@ -13,7 +13,7 @@ excerpt: >-
 keywords:
   - vocabulario esencial entrevista trabajo inglés
   - palabras clave inglés profesional entrevista laboral
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-08'
 updatedDate: '2026-08-31'
 alt: Candidato estudiando vocabulario para entrevista de trabajo en inglés en su portátil

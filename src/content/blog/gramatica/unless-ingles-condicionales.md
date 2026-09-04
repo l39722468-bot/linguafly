@@ -1,5 +1,5 @@
 ---
-title: 'Unless en Inglés: Cómo Usarlo'
+title: 'Unless en Inglés: Diferencias, Uso y Ejemplos'
 description: >-
   Aprende a usar unless, provided that, as long as y only if en inglés.
   Diferencias con "if not", ejemplos reales y ejercicios para niveles B1-B2.
@@ -9,7 +9,7 @@ excerpt: >-
   en conversación y en exámenes. Te explicamos cuándo usar cada uno y cómo
   dominar las otras conjunciones condicionales que te darán puntos extras.
 keywords:
-  - 'Unless en Inglés: Cómo Usarlo'
+  - 'Unless en Inglés: Diferencias, Uso y Ejemplos'
   - unless ingles
   - ejercicios de inglés gratis
   - cómo usar unless en inglés con ejemplos
@@ -17,9 +17,9 @@ keywords:
   - ejercicios gratis de unless y condicionales
   - uso de provided that as long as y only if
   - unless para exámenes de inglés B1 B2
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-16'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Pizarra con ejemplos de unless y conjunciones condicionales en inglés
 category: gramatica
 faqs:

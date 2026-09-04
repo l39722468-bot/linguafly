@@ -1,5 +1,5 @@
 ---
-title: 'Sílabas en Inglés: Cómo Dividirlas'
+title: 'Sílabas en Inglés: Cómo Dividir Palabras'
 description: >-
   Aprende a dividir palabras en sílabas en inglés con las reglas principales.
   Descubre cómo afecta la división silábica al acento tónico, la pronunciación
@@ -10,7 +10,7 @@ excerpt: >-
   escribir correctamente al final de una línea. Cambia cómo pronuncias las
   vocales, dónde cae el acento y cómo entiendes las palabras al escucharlas.
 keywords:
-  - 'Sílabas en Inglés: Cómo Dividirlas'
+  - 'Sílabas en Inglés: Cómo Dividir Palabras'
   - silabas ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -19,9 +19,9 @@ keywords:
   - reglas de división silábica del inglés
   - sílabas y acento tónico en inglés
   - cómo contar sílabas en palabras inglesas
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-01'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿El inglés cuenta las sílabas de la misma forma que el español?'

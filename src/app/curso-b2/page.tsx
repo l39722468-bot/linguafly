@@ -13,7 +13,7 @@ export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: `Curso de inglés B2 gratis | ${SITE_BRAND_NAME}`,
-  description: "Alcanza el nivel B2 de inglés con LinguaFly. Domina estructuras avanzadas, comunicación fluida y prepárate para exámenes oficiales de Cambridge o IELTS.",
+  description: "Alcanza el nivel B2 de inglés con Linguafly. Domina estructuras avanzadas, comunicación fluida y prepárate para exámenes oficiales de Cambridge o IELTS.",
   alternates: {
     canonical: getAbsoluteUrl('/curso-b2'),
   },

@@ -1,5 +1,5 @@
 ---
-title: 'Pronunciación en Inglés'
+title: 'Pronunciación en Inglés: Guía Completa desde Cero'
 description: >-
   Aprende la pronunciación en inglés desde cero con esta guía completa. Fonemas,
   acento, entonación y los errores más comunes de los hispanohablantes.
@@ -9,7 +9,7 @@ excerpt: >-
   guía completa dominarás los sonidos clave, el word stress y la entonación para
   hablar con confianza.
 keywords:
-  - Pronunciación en Inglés
+  - Pronunciación en Inglés: Guía Completa desde Cero
   - pronunciacion ingles guia completa
   - ejercicios de inglés gratis
   - cómo mejorar la pronunciación en inglés gratis
@@ -22,9 +22,9 @@ keywords:
   - cómo pronunciar los sonidos difíciles del inglés
   - guía completa de fonética inglesa con ejemplos
   - mejorar pronunciación acento y entonación en inglés
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona practicando pronunciación en inglés frente a un espejo
 category: gramatica
 faqs:

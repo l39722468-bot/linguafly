@@ -1,16 +1,16 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Final B1 Review: Full Revision (60/60)'
+title: 'Repaso Final B1: Revisión Completa de las 60 Unidades'
 description: >-
   Repaso final completo del curso B1: los 6 módulos y 60 unidades — conditionals, passive, reported speech,
   modales, tiempos verbales, relative clauses y más — con checklist detallado, diagnóstico, vocabulario mixto,
   reading, diálogo y más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
 readTime: 20 min
 keywords:
-  - final B1 review
+  - Repaso Final B1: Revisión Completa de las 60 Unidades
   - repaso completo B1
   - curso inglés B1 completo
   - checklist gramática B1

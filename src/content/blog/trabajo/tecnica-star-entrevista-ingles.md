@@ -13,7 +13,7 @@ keywords:
   - técnica STAR entrevista inglés ejemplos frases
   - STAR method entrevista trabajo inglés preguntas comportamiento
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-05'
 updatedDate: '2026-08-31'
 alt: Candidato respondiendo preguntas de comportamiento en entrevista de trabajo en inglés

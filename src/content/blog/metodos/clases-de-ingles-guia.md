@@ -1,8 +1,8 @@
 ---
-title: 'Clases de Inglés 2026: Academia, Particular'
+title: 'Clases de Inglés 2026: Academia, Particular u Online'
 date: '2026-01-30'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía para elegir las mejores clases de inglés: academias, profesores particulares, clases online e IA. Compara opciones, costes y métodos para encontrar la que realmente funciona para ti.
 excerpt: >-
@@ -13,7 +13,7 @@ category: metodos
 readTime: 15 min
 alt: Estudiantes colaborando en una clase de inglés moderna
 keywords:
-  - 'Clases de Inglés: Academia, Particular'
+  - 'Clases de Inglés 2026: Academia, Particular u Online'
   - clases de ingles
   - curso inglés gratis online
 faqs:

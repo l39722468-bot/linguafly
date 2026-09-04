@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Escribir un Email de Queja'
+title: 'Email de Queja en Inglés: Estructura y Frases'
 description: >-
   Aprende a redactar emails de queja y reclamación en inglés de forma profesional
   y efectiva. Estructura, tono correcto, frases clave y ejemplos completos.
@@ -9,11 +9,11 @@ excerpt: >-
   tan suave que no surte efecto. Aquí tienes la fórmula para que sea firme,
   profesional y conseguir lo que buscas.
 keywords:
-  - Cómo Escribir un Email de Queja
+  - Email de Queja en Inglés: Estructura y Frases
   - como escribir queja en ingles
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-09'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona escribiendo un email de reclamación en inglés con expresión seria
 category: trabajo
 faqs:

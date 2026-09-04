@@ -1,5 +1,5 @@
 ---
-title: 'Zero Conditional en Inglés: Cuándo'
+title: 'Zero Conditional en Inglés: Cuándo Usarlo'
 description: >-
   Aprende el zero conditional en inglés con ejemplos reales, ejercicios y trucos
   para diferenciarlo del first conditional. Ideal para niveles A2-B1.
@@ -9,7 +9,7 @@ excerpt: >-
   explicamos todos sus usos cotidianos, sus trampas más habituales y cómo
   practicarlo de verdad.
 keywords:
-  - 'Zero Conditional en Inglés: Cuándo'
+  - 'Zero Conditional en Inglés: Cuándo Usarlo'
   - zero conditional ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -18,9 +18,9 @@ keywords:
   - zero conditional ejemplos de hechos generales
   - diferencia entre zero y first conditional
   - zero conditional para niveles A2 B1
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-04'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Estudiante anotando reglas del zero conditional en inglés en su cuaderno
 category: gramatica
 faqs:

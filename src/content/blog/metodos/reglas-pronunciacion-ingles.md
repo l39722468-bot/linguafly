@@ -1,6 +1,6 @@
 ---
 
-title: 'Reglas de Pronunciación en Inglés'
+title: 'Reglas de Pronunciación en Inglés: Guía Completa'
 description: >-
   Domina la fonética inglesa con nuestras reglas de pronunciación en inglés.
   Incluye Magic E, Silent Letters, terminaciones -ED y lista imprimible.
@@ -9,7 +9,7 @@ excerpt: >-
   Mejora tu acento y claridad al hablar. Guía académica con las reglas de
   pronunciación fundamentales, ejemplos de nivel Cambridge y lista de práctica.
 keywords:
-  - Reglas de Pronunciación en Inglés
+  - Reglas de Pronunciación en Inglés: Guía Completa
   - reglas pronunciacion ingles
   - curso inglés gratis online
   - reglas de pronunciación inglesa explicadas gratis
@@ -17,9 +17,9 @@ keywords:
   - reglas Magic E y letras mudas en inglés
   - pronunciación de terminaciones ED en inglés
   - ejercicios gratis de pronunciación inglesa
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-06'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Vocales Cortas vs. Vocales Largas (Magic E): cuál es mejor?'

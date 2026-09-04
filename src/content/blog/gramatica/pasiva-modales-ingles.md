@@ -1,5 +1,5 @@
 ---
-title: 'Pasiva con Verbos Modales en Inglés'
+title: 'Pasiva con Verbos Modales en Inglés: Guía y Ejemplos'
 description: >-
   Aprende a combinar verbos modales con la voz pasiva en inglés. Reglas, ejemplos
   reales y ejercicios con must be, should be, can be, might be y could be.
@@ -9,7 +9,7 @@ excerpt: >-
   en pasiva aparecen constantemente en inglés formal y en exámenes. Aquí tienes
   la guía que necesitas.
 keywords:
-  - Pasiva con Verbos Modales en Inglés
+  - Pasiva con Verbos Modales en Inglés: Guía y Ejemplos
   - pasiva verbos modales ingles
   - ejercicios de inglés gratis
   - cómo formar la pasiva con verbos modales
@@ -17,9 +17,9 @@ keywords:
   - ejercicios gratis de pasiva con modales
   - pasiva modal en inglés con ejemplos
   - voz pasiva con can must y should B1 B2
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-17'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Pizarra con estructuras de verbos modales en pasiva en inglés
 category: gramatica
 faqs:

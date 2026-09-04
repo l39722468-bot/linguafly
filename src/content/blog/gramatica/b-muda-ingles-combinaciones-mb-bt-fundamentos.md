@@ -1,15 +1,15 @@
 ---
 category: gramatica
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'La “b” muda en inglés: fundamentos'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'B Muda en Inglés: Reglas MB y BT con Ejemplos'
 description: >-
   Guía clara sobre la b no pronunciada en inglés: patrones mb y bt, ejemplos
   frecuentes y errores al leer en voz alta desde el español.
 readTime: 22 min
 keywords:
-  - 'La “b” muda en inglés: fundamentos'
+  - 'B Muda en Inglés: Reglas MB y BT con Ejemplos'
   - b muda ingles
   - ejercicios de inglés gratis
   - regla de la b muda en combinaciones mb y bt

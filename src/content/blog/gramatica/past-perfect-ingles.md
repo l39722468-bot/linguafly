@@ -1,15 +1,15 @@
 ---
-title: 'Past Perfect en Inglés: Cuándo Usarlo'
+title: 'Past Perfect en Inglés: Usos, Reglas y Ejemplos'
 date: '2026-02-28'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Past Perfect en inglés: cuándo usarlo y por qué lo necesitas. Aprende a expresar lo que ocurrió antes de otro evento pasado con ejemplos prácticos y ejercicios para B2-C1.
 category: gramatica
 alt: Línea de tiempo mostrando el Past Perfect en relación al Past Simple
 readTime: 9 min
 keywords:
-  - 'Past Perfect en Inglés: Cuándo Usarlo'
+  - 'Past Perfect en Inglés: Usos, Reglas y Ejemplos'
   - past perfect ingles
   - ejercicios de inglés gratis
   - cómo usar el past perfect en inglés con ejemplos

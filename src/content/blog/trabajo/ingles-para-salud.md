@@ -1,16 +1,16 @@
 ---
 category: trabajo
 date: '2026-02-07'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Curso de Inglés para el Sector Salud'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Inglés para el Sector Salud: Guía Profesional'
 description: >-
   Especialízate en inglés médico y de enfermería. Domina el vocabulario clínico,
   la atención al paciente, redacción de informes y comunicación profesional
   sanitaria.
 readTime: 5 min
 keywords:
-  - Curso de Inglés para el Sector Salud
+  - Inglés para el Sector Salud: Guía Profesional
   - inglés para salud
   - inglés de negocios gratis
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-salud'

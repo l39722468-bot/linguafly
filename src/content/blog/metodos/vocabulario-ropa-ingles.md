@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario de Ropa en Inglés: 150+'
+title: 'Vocabulario de Ropa en Inglés: 150 Palabras'
 description: >-
   Domina el vocabulario de ropa en inglés, calzado y accesorios. Incluye verbos,
   adjetivos de estilo y lista imprimible para niveles A1-C1.
@@ -9,7 +9,7 @@ excerpt: >-
   Guía académica con verbos de acción, descripción de estilos y material de
   práctica.
 keywords:
-  - 'Vocabulario de Ropa en Inglés: 150+'
+  - 'Vocabulario de Ropa en Inglés: 150 Palabras'
   - vocabulario ropa ingles
   - curso inglés gratis online
   - vocabulario de ropa en inglés gratis
@@ -18,9 +18,9 @@ keywords:
   - vocabulario de ropa inglesa para principiantes
   - ejercicios gratuitos de ropa en inglés
 date: '2026-02-06'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
-author: focus-english-team
+author: linguafly-team
 faqs:
   - question: ¿Cómo se dice 'ropa' en inglés?
     answer: >-

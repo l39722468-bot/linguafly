@@ -21,7 +21,7 @@ keywords:
 date: '2026-02-03'
 updatedDate: '2026-08-31'
 category: metodos
-author: focus-english-team
+author: linguafly-team
 alt: 'Persona usando una app de inglés en su móvil para aprender vocabulario'
 canonical: 'https://linguafly.app/blog/metodos/mejor-app-aprender-ingles'
 faqs:

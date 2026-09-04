@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Hablar Inglés con Fluidez: 10'
+title: 'Cómo Hablar Inglés con Fluidez: 10 Técnicas'
 description: >-
   Descubre cómo hablar inglés con fluidez con técnicas probadas. Desde el
   shadowing hasta la práctica con IA, aprende a superar el miedo a hablar y
@@ -10,16 +10,16 @@ excerpt: >-
   técnicas más efectivas para hablar inglés con fluidez y confianza, sin importar
   tu nivel actual.
 keywords:
-  - 'Cómo Hablar Inglés con Fluidez: 10'
+  - 'Cómo Hablar Inglés con Fluidez: 10 Técnicas'
   - hablar ingles con fluidez
   - cómo hablar inglés con fluidez gratis
   - técnicas para hablar inglés sin miedo
   - cómo practicar speaking en inglés desde casa
   - ejercicios para ganar fluidez en inglés
   - plan gratuito para hablar inglés todos los días
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-04'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Qué es realmente la fluidez?'

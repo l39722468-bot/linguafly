@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 8 A2: Preposiciones de tiempo at/on/in (con soluciones)'
+title: 'Ejercicios de At, On e In en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 8 del curso A2: at, on, in,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 8
+  - Ejercicios de At, On e In en Inglés A2
   - ejercicios at on in tiempo
   - preposiciones de tiempo A2
   - at 7 o'clock on Monday in August

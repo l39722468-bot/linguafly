@@ -11,8 +11,8 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
     : `Unidad ${unitNumber} del curso de inglés B1 | ${SITE_BRAND_NAME}`;
 
   const description = unitId === 'test-final'
-    ? "Evaluación final del curso de inglés B1 de LinguaFly: gramática intermedia, vocabulario, lectura, escucha y escritura para comprobar tu nivel."
-    : `Aprende con la Unidad ${unitNumber} del curso de inglés B1 de LinguaFly. Ejercicios de gramática intermedia, vocabulario práctico y comprensión.`;
+    ? "Evaluación final del curso de inglés B1 de Linguafly: gramática intermedia, vocabulario, lectura, escucha y escritura para comprobar tu nivel."
+    : `Aprende con la Unidad ${unitNumber} del curso de inglés B1 de Linguafly. Ejercicios de gramática intermedia, vocabulario práctico y comprensión.`;
 
   return {
     title,

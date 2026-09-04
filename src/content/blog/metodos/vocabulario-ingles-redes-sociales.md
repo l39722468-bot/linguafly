@@ -1,5 +1,5 @@
 ---
-title: 'Vocabulario Inglés para Redes'
+title: 'Vocabulario de Redes Sociales en Inglés'
 description: >-
   Aprende todo el vocabulario inglés de redes sociales y plataformas digitales.
   Desde los términos básicos de Instagram y TikTok hasta el lenguaje de creadores
@@ -10,7 +10,7 @@ excerpt: >-
   esencial de Instagram, TikTok, YouTube, Twitter y más para comunicarte como un
   nativo digital.
 keywords:
-  - Vocabulario Inglés para Redes
+  - Vocabulario de Redes Sociales en Inglés
   - vocabulario ingles redes sociales
   - curso inglés gratis online
   - vocabulario de redes sociales en inglés gratis
@@ -18,9 +18,9 @@ keywords:
   - expresiones de redes sociales en inglés con ejemplos
   - vocabulario inglés para creadores de contenido
   - términos de marketing digital en inglés gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-04'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Comentarios y Reacciones en Inglés?'

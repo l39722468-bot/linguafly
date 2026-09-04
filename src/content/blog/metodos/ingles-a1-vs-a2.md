@@ -1,5 +1,5 @@
 ---
-title: 'Inglés A1 vs A2: Diferencias Clave'
+title: 'Inglés A1 vs A2: Diferencias y Cómo Avanzar'
 description: >-
   ¿Estás en el nivel A1 o ya has saltado al A2? Analizamos las diferencias
   reales entre el nivel principiante y el elemental según el MCER.
@@ -9,7 +9,7 @@ excerpt: >-
   tu nivel, dominar la gramática básica y pasar de nivel principiante a
   elemental.
 keywords:
-  - 'Inglés A1 vs A2: Diferencias Clave'
+  - 'Inglés A1 vs A2: Diferencias y Cómo Avanzar'
   - ingles a1 vs a2
   - diferencias entre inglés A1 y A2 con ejemplos
   - cómo saber si tengo nivel A1 o A2 de inglés
@@ -17,9 +17,9 @@ keywords:
   - gramática inglesa A1 y A2 para principiantes
   - curso gratis de inglés desde A1 hasta A2
 date: '2024-02-03'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
-author: focus-english-team
+author: linguafly-team
 faqs:
   - question: '¿Cuál es la diferencia real entre A1 y A2?'
     answer: >-

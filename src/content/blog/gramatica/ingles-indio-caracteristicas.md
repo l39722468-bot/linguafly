@@ -1,8 +1,8 @@
 ---
-title: 'Inglés Indio: Por Qué Suena Diferente'
+title: 'Inglés Indio: Características y Pronunciación'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   El inglés indio: por qué suena diferente y cómo entenderlo en entornos de trabajo, tecnología y negocios. Características fonéticas y vocabulario propio del Indian English.
 excerpt: >-
@@ -11,7 +11,7 @@ category: gramatica
 readTime: 7 min
 alt: Ciudad india moderna representando el inglés de India en contexto profesional
 keywords:
-  - 'Inglés Indio: Por Qué Suena Diferente'
+  - 'Inglés Indio: Características y Pronunciación'
   - acento indio ingles
   - gramática inglesa gratis
   - características del inglés indio con ejemplos

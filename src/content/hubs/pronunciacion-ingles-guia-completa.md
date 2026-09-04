@@ -8,7 +8,7 @@ description: >-
 # Pronunciación inglés: ritmo y acento
 
 
-En esta guía de **Focus English**, no solo te enseñaremos a colocar la lengua; te daremos las estrategias psicológicas y tecnológicas para transformar tu forma de hablar.
+En esta guía de **Linguafly**, no solo te enseñaremos a colocar la lengua; te daremos las estrategias psicológicas y tecnológicas para transformar tu forma de hablar.
 
 ---
 

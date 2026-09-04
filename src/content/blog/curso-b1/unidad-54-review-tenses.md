@@ -1,16 +1,16 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Review B1: Tenses + Mixed Topics'
+title: 'Repaso B1: Tiempos Verbales y Ejercicios'
 description: >-
   Repasa a fondo present perfect, present perfect continuous, past perfect, past simple vs present perfect y
   el futuro con will/going to en inglés B1, con diagnóstico, vocabulario mixto, errores típicos, reading,
   diálogo y más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
 readTime: 19 min
 keywords:
-  - tenses review B1
+  - Repaso B1: Tiempos Verbales y Ejercicios
   - present perfect past perfect
   - will going to future
   - since for ago inglés

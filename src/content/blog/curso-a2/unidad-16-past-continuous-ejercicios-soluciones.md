@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 16 A2: Past Continuous (con soluciones)'
+title: 'Ejercicios de Past Continuous en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 16 del curso A2: was/were + -ing,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 16
+  - Ejercicios de Past Continuous en Inglés A2
   - ejercicios past continuous
   - was were -ing
   - I was watching

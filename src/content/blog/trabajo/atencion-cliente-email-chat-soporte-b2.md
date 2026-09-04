@@ -1,15 +1,15 @@
 ---
 category: trabajo
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Email y chat de soporte en inglés'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Emails y Chats de Soporte en Inglés: Guía B2'
 description: >-
   Cómo escribir en inglés para atención al cliente: claridad, asunto, adjuntos,
   seguimiento y tono profesional en chat y correo.
 readTime: 22 min
 keywords:
-  - Email y chat de soporte en inglés
+  - Emails y Chats de Soporte en Inglés: Guía B2
   - email soporte inglés
 alt: Persona escribiendo en portátil
 excerpt: >-

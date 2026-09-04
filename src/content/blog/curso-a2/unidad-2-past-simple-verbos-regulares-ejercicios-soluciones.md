@@ -1,16 +1,16 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 2 A2: Past Simple regulares (con soluciones)'
+title: 'Ejercicios de Past Simple Regular en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 2 del curso A2: walked, visited,
   played, finished, yesterday, last week, ago, reading, listening y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 2
+  - Ejercicios de Past Simple Regular en Inglés A2
   - ejercicios past simple regulares
   - walked visited played finished
   - yesterday last week ago

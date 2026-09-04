@@ -454,7 +454,7 @@ const microLessons: MicroLesson[] = [
     completed: false, 
     unlocked: true,
     content: {
-      text: 'El Microlearning es una estrategia de aprendizaje que fragmenta el contenido en pequeñas unidades de información llamadas "píldoras de aprendizaje". En Focus English, cada lección está diseñada para durar entre 5 y 10 minutos.',
+      text: 'El Microlearning es una estrategia de aprendizaje que fragmenta el contenido en pequeñas unidades de información llamadas "píldoras de aprendizaje". En Linguafly, cada lección está diseñada para durar entre 5 y 10 minutos.',
       keyPoints: [
         'Unidades pequeñas y enfocadas',
         'Fácil de integrar en el día a día',
@@ -466,7 +466,7 @@ const microLessons: MicroLesson[] = [
       {
         id: 'e-m1-1',
         type: 'mcq',
-        question: '¿Cuál es la duración recomendada de una lección de Microlearning en Focus English?',
+        question: '¿Cuál es la duración recomendada de una lección de Microlearning en Linguafly?',
         options: ['30-45 minutos', '5-10 minutos', '1 hora', 'Todo el día'],
         correctAnswer: '5-10 minutos'
       }

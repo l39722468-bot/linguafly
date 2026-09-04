@@ -14,7 +14,7 @@ keywords:
   - 'CV en Inglés para Tecnología e IT: Guía y Plantilla'
   - cv ingles tecnologia
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-04-19'
 updatedDate: '2026-08-31'
 alt: Desarrollador revisando su CV en inglés en un portátil sobre una mesa de oficina

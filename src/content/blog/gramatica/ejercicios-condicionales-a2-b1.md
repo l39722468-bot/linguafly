@@ -18,7 +18,7 @@ keywords:
   - práctica gratis de if clauses para principiantes
   - ejercicios de condicionales ingleses para imprimir
   - diferencia entre zero y first conditional ejercicios
-author: focus-english-team
+author: linguafly-team
 date: '2026-07-30'
 updatedDate: '2026-08-31'
 category: gramatica

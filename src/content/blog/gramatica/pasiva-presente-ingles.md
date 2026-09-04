@@ -1,5 +1,5 @@
 ---
-title: 'Voz Pasiva en Presente en Inglés'
+title: 'Voz Pasiva en Presente: Guía y Ejercicios'
 description: >-
   Aprende a formar y usar la voz pasiva en presente en inglés con ejemplos
   cotidianos. Cubre present simple y present continuous en pasiva con ejercicios.
@@ -9,7 +9,7 @@ excerpt: >-
   conversaciones formales. Aquí te explicamos cómo funciona y cuándo usarlo de
   verdad.
 keywords:
-  - Voz Pasiva en Presente en Inglés
+  - Voz Pasiva en Presente: Guía y Ejercicios
   - voz pasiva presente ingles
   - gramática inglesa gratis
   - cómo formar la pasiva en presente simple inglés
@@ -17,9 +17,9 @@ keywords:
   - ejercicios gratis de pasiva en presente
   - is cleaned y is being cleaned diferencia
   - voz pasiva presente para niveles A2 B1
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Estudiante practicando la voz pasiva en presente en inglés con ejemplos escritos
 category: gramatica
 faqs:

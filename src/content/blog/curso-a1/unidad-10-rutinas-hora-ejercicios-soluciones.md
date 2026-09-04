@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-17'
-updatedDate: '2026-08-17'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 10 A1: rutinas diarias y la hora (con soluciones)'
+title: 'Ejercicios de Rutinas y la Hora en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 10 del curso A1: What time…?, at +
   hora, rutinas, reading de Mark, listening de Anna y writing. Con soluciones
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios de inglés A1 unidad 10 con soluciones
+  - Ejercicios de Rutinas y la Hora en Inglés A1
   - ejercicios rutinas diarias en inglés
   - what time do you ejercicios con respuestas
   - half past y o'clock ejercicios

@@ -1,10 +1,10 @@
 ---
-title: 'Cómo Escribir el Essay del CAE'
+title: 'Essay del CAE: Estructura, Consejos y Ejemplos'
 description: "Aprende a escribir el ensayo obligatorio del C1 Advanced paso a paso: estructura ideal, conectores de nivel C1, cómo argumentar con matices y los errores que más penalizan."
 readTime: 8 min
 excerpt: "El essay del CAE es el único texto obligatorio del Writing. Aquí tienes la estructura que funciona, el vocabulario que buscan los examinadores y los errores que bajan la nota aunque tengas un nivel alto."
 keywords:
-  - Cómo Escribir el Essay del CAE
+  - Essay del CAE: Estructura, Consejos y Ejemplos
   - como escribir essay c1 advanced
   - preparar inglés gratis
   - estructura essay CAE paso a paso
@@ -12,9 +12,9 @@ keywords:
   - ejemplos essay Cambridge C1 corregidos
   - cómo argumentar en el essay del CAE
   - errores frecuentes Writing CAE essay
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-19'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: examenes
 faqs:
   - question: "¿Cuántos puntos del enunciado tengo que tratar en el essay del CAE?"

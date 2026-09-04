@@ -1,15 +1,15 @@
 ---
-title: 'Phrasal Verbs con TAKE'
+title: 'Phrasal Verbs con TAKE: Lista y Ejemplos'
 date: '2026-02-12'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Aprende los phrasal verbs con TAKE más importantes: take off, take on, take up, take over, take after y más de 25 combinaciones esenciales con ejemplos reales en contexto.
 category: gramatica
 alt: Persona tomando notas sobre phrasal verbs con TAKE
 readTime: 7 min
 keywords:
-  - Phrasal Verbs con TAKE
+  - Phrasal Verbs con TAKE: Lista y Ejemplos
   - take off take on take up ingles
   - gramática inglesa gratis
   - phrasal verbs con take más usados en inglés

@@ -11,8 +11,8 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
     : `Unidad ${unitNumber} del curso de inglés C1 | ${SITE_BRAND_NAME}`;
 
   const description = unitId === 'test-final'
-    ? "Evaluación final del curso de inglés C1 de LinguaFly: gramática avanzada, vocabulario académico, lectura, escucha y expresión escrita para comprobar tu nivel."
-    : `Aprende con la Unidad ${unitNumber} del curso de inglés C1 de LinguaFly. Gramática avanzada, vocabulario académico y comprensión de textos complejos.`;
+    ? "Evaluación final del curso de inglés C1 de Linguafly: gramática avanzada, vocabulario académico, lectura, escucha y expresión escrita para comprobar tu nivel."
+    : `Aprende con la Unidad ${unitNumber} del curso de inglés C1 de Linguafly. Gramática avanzada, vocabulario académico y comprensión de textos complejos.`;
 
   return {
     title,

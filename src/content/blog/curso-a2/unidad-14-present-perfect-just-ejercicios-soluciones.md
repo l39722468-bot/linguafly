@@ -1,14 +1,14 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 14 A2: Just (con soluciones)'
+title: 'Ejercicios de Just con Present Perfect en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 14 del curso A2: have just + past participle, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 14
+  - Ejercicios de Just con Present Perfect en Inglés A2
   - ejercicios present perfect just
   - I have just arrived
   - just now A2

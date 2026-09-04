@@ -1,15 +1,15 @@
 ---
-title: 'IELTS Reading: Trucos'
+title: 'IELTS Reading: Estrategias y Trucos para Mejorar'
 date: '2026-02-14'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Estrategias probadas para el IELTS Reading: cómo distinguir False de Not Given, técnicas de skimming y scanning, tipos de pregunta y cómo distribuir los 60 minutos sin quedarte sin tiempo.
 category: examenes
 alt: Persona leyendo textos académicos para preparar el IELTS Reading
 readTime: 7 min
 keywords:
-  - 'IELTS Reading: Trucos'
+  - 'IELTS Reading: Estrategias y Trucos para Mejorar'
   - ielts reading
   - material de inglés gratis
   - trucos IELTS Reading para mejorar la puntuación

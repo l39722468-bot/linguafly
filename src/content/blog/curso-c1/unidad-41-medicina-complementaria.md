@@ -1,16 +1,16 @@
 ---
 category: curso-c1
 date: '2026-09-15'
-updatedDate: '2026-09-15'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 41 C1: Medicina complementaria — contraste evidencia y opinión"
+title: "Medicina Complementaria en Inglés C1: Evidencia y Opinión"
 description: >-
   En la Unidad 41 del curso de inglés C1 gratis aprenderás a contrastar evidencia
   y opinión al hablar de medicina complementaria, distinguir consenso médico de
   creencia y formular posturas matizadas. Incluye 19 ejercicios inglés C1 gratis.
 readTime: 40 min
 keywords:
-  - curso de inglés C1 gratis
+  - Medicina Complementaria en Inglés C1: Evidencia y Opinión
   - medicina complementaria en inglés
   - evidence vs opinion C1
   - ejercicios inglés C1 gratis

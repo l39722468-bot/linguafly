@@ -13,7 +13,7 @@ export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: `Curso de inglés B1 gratis | ${SITE_BRAND_NAME}`,
-  description: "Lleva tu inglés al nivel B1 con LinguaFly. Mejora tu fluidez, vocabulario clave y comprensión para desenvolverte en situaciones cotidianas y laborales.",
+  description: "Lleva tu inglés al nivel B1 con Linguafly. Mejora tu fluidez, vocabulario clave y comprensión para desenvolverte en situaciones cotidianas y laborales.",
   alternates: {
     canonical: getAbsoluteUrl('/curso-b1'),
   },

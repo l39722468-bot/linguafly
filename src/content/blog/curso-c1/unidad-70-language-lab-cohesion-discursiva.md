@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-10-10'
-updatedDate: '2026-10-10'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 70 C1: Cohesión discursiva — Conectores y referencia"
+title: "Cohesión Discursiva en Inglés C1: Conectores y Referencia"
 description: >-
   Domina la cohesión discursiva en inglés académico y profesional de nivel C1:
   conectores aditivos, adversativos, causales y consecutivos, referencia anafórica
@@ -12,7 +12,7 @@ description: >-
 readTime: 40 min
 keywords:
   [
-    "cohesión discursiva inglés C1",
+    "Cohesión Discursiva en Inglés C1: Conectores y Referencia",
     "conectores discursivos inglés",
     "referencia anafórica catafórica inglés",
     "progresión temática C1",

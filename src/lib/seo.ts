@@ -27,7 +27,7 @@ export function getSEOPageBySlug(slug: string): SEOPage | null {
 
   return {
     slug,
-    title: data.title || "Focus English",
+    title: data.title || "Linguafly",
     description: data.description || "",
     keywords: data.keywords || [],
     faqs: data.faqs || [],

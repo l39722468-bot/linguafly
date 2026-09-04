@@ -13,7 +13,7 @@ keywords:
   - lista vocabulario Cambridge C1 con ejemplos
   - cómo mejorar vocabulario para el CAE
   - ejercicios vocabulario C1 Advanced gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-13'
 updatedDate: '2026-08-31'
 category: examenes

@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 17 A1: Breakfast, Lunch & Dinner (con soluciones)'
+title: 'Ejercicios de Comidas en Inglés A1: Breakfast y Dinner'
 description: >-
   Practica todos los ejercicios de la Unidad 17 del curso A1: have breakfast,
   like/love/hate + comida, contables e incontables, reading de Leo, listening
   sobre comidas y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 17
+  - Ejercicios de Comidas en Inglés A1: Breakfast y Dinner
   - ejercicios breakfast lunch dinner
   - I like cheese ejercicios
   - have breakfast ejercicios

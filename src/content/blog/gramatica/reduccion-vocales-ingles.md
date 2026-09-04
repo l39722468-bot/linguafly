@@ -1,5 +1,5 @@
 ---
-title: 'Reducción Vocálica en Inglés'
+title: 'Reducción Vocálica en Inglés: Schwa y Ejemplos'
 description: >-
   Descubre cómo funciona la reducción vocálica en inglés y por qué las vocales
   no acentuadas se convierten en schwa /ə/. Con ejemplos, tablas y consejos
@@ -10,7 +10,7 @@ excerpt: >-
   se reducen, casi siempre al schwa /ə/. Entender esto transforma cómo escuchas
   y cómo hablas. Aquí tienes todo lo que necesitas saber.
 keywords:
-  - Reducción Vocálica en Inglés
+  - Reducción Vocálica en Inglés: Schwa y Ejemplos
   - reducción vocálica inglés
   - ejercicios de inglés gratis
   - qué es la reducción vocálica en inglés
@@ -18,9 +18,9 @@ keywords:
   - cómo usar el schwa en sílabas no acentuadas
   - reducción de vocales en inglés hablado
   - pronunciación de vocales débiles para hispanohablantes
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-16'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Tengo que usar el schwa para que me entiendan bien?'

@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 38 A2: Should / Ought to (con soluciones)'
+title: 'Ejercicios de Should y Ought To en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 38 del curso A2: should, shouldn't y ought to,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 38
+  - Ejercicios de Should y Ought To en Inglés A2
   - should ought to ejercicios
   - dar consejos inglés A2
   - shouldn't should I

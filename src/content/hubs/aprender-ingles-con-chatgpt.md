@@ -5,7 +5,7 @@ description: "Saca el máximo partido a ChatGPT como apoyo para tu estudio de in
 
 # Inglés con ChatGPT: guía práctica
 
-En 2026, ChatGPT se ha consolidado como una herramienta de apoyo versátil para los estudiantes de idiomas. No es un sustituto del aprendizaje estructurado, sino un sistema complementario capaz de ayudarte a resolver dudas y practicar aspectos específicos del inglés. En esta guía de **Focus English**, te enseñaremos cómo utilizar esta herramienta como un recurso adicional para potenciar tu estudio.
+En 2026, ChatGPT se ha consolidado como una herramienta de apoyo versátil para los estudiantes de idiomas. No es un sustituto del aprendizaje estructurado, sino un sistema complementario capaz de ayudarte a resolver dudas y practicar aspectos específicos del inglés. En esta guía de **Linguafly**, te enseñaremos cómo utilizar esta herramienta como un recurso adicional para potenciar tu estudio.
 
 **Utilizar ChatGPT para mejorar tu inglés** requiere una metodología estratégica. Aquí tienes una guía sobre cómo integrarlo como apoyo a tus ejercicios de práctica.
 

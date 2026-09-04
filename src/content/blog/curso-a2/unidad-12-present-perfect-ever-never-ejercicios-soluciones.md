@@ -1,14 +1,14 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 12 A2: Ever & Never (con soluciones)'
+title: 'Ejercicios de Ever y Never en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 12 del curso A2: Have you ever…?, never, short answers, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 12
+  - Ejercicios de Ever y Never en Inglés A2
   - ejercicios ever never
   - Have you ever
   - Yes I have No I haven't

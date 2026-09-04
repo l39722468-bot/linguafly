@@ -1,5 +1,5 @@
 ---
-title: 'Letras Mudas en Inglés: Lista y Reglas'
+title: 'Letras Mudas en Inglés: Lista de Ejemplos'
 description: >-
   Descubre todas las letras mudas del inglés organizadas por letra: la K, la W,
   la B, la GH y más. Con ejemplos, patrones y trucos para no caer en las trampas
@@ -11,7 +11,7 @@ excerpt: >-
   los patrones que te ayudarán a anticiparlas sin tener que memorizar cada
   palabra por separado.
 keywords:
-  - 'Letras Mudas en Inglés: Lista y Reglas'
+  - 'Letras Mudas en Inglés: Lista de Ejemplos'
   - letras mudas ingles
   - ejercicios de inglés gratis
   - lista completa de letras mudas inglesas
@@ -19,9 +19,9 @@ keywords:
   - ejercicios gratis de letras mudas en inglés
   - reglas para reconocer letras mudas inglesas
   - pronunciación de knife write thumb y más
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-23'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Por qué el inglés tiene tantas letras mudas?'

@@ -1,15 +1,15 @@
 ---
-title: 'Phrasal Verbs con MAKE: Lista Completa'
+title: 'Phrasal Verbs con MAKE: Lista y Ejemplos'
 date: '2026-02-09'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Aprende los phrasal verbs con MAKE más importantes en inglés: make up, make out, make up for, make do with y más de 20 combinaciones esenciales con ejemplos claros.
 category: gramatica
 alt: Persona aprendiendo phrasal verbs con MAKE en un cuaderno
 readTime: 7 min
 keywords:
-  - 'Phrasal Verbs con MAKE: Lista Completa'
+  - 'Phrasal Verbs con MAKE: Lista y Ejemplos'
   - phrasal verbs con make
   - ejercicios de inglés gratis
   - phrasal verbs con make más usados en inglés

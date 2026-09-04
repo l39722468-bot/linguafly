@@ -1,15 +1,15 @@
 ---
-title: 'Will para Expresar Probabilidad'
+title: 'Will para Expresar Probabilidad y Certeza'
 date: '2026-03-21'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Will para expresar probabilidad y certeza en inglés: cómo usarlo para hablar de lo que es probable o casi seguro. Diferencias con must, should y otros modales de deducción.
 category: gramatica
 alt: Persona reflexionando sobre probabilidades en inglés
 readTime: 8 min
 keywords:
-  - Will para Expresar Probabilidad
+  - Will para Expresar Probabilidad y Certeza
   - will probabilidad ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis

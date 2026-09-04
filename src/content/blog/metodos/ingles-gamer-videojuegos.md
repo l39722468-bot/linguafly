@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Gamer: Vocabulario'
+title: 'Inglés Gamer: Vocabulario y Expresiones Online'
 description: >-
   Guía completa de inglés para gamers. Aprende el vocabulario, slang y
   expresiones más usadas en videojuegos online, Twitch, Discord y la comunidad
@@ -10,16 +10,16 @@ excerpt: >-
   gamer esencial, las expresiones de chat y cómo comunicarte con tu equipo en
   inglés como un pro.
 keywords:
-  - 'Inglés Gamer: Vocabulario'
+  - 'Inglés Gamer: Vocabulario y Expresiones Online'
   - vocabulario gaming ingles
   - vocabulario de inglés para videojuegos online gratis
   - expresiones gamer en inglés para el chat gratis
   - slang de videojuegos en inglés gratis
   - inglés gratis para jugar online con amigos
   - vocabulario gratis de Twitch y Discord en inglés
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Expresiones de Chat y Comunicación en Partida?'

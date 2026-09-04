@@ -20,7 +20,7 @@ keywords:
   - frases para IELTS Speaking Band 7 y 8
   - ejercicios gratis de IELTS Speaking Part 3
   - estructura de respuestas para el Part 3 IELTS
-author: focus-english-team
+author: linguafly-team
 date: '2026-04-17'
 updatedDate: '2026-08-31'
 alt: Candidata de IELTS en entrevista oral con examinador tomando notas

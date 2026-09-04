@@ -2,7 +2,7 @@
 title: '30 Preguntas Más Comunes en una Entrevista de Trabajo en Inglés'
 date: '2026-02-12'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Las 30 preguntas más comunes en entrevistas de trabajo en inglés con respuestas modelo. Prepárate para lo que hacen los reclutadores internacionales y aprende a contestar de forma convincente y profesional.
 excerpt: >-

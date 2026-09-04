@@ -13,7 +13,7 @@ excerpt: >-
 keywords:
   - qué preguntar al entrevistador en inglés
   - preguntas para hacer en entrevista trabajo inglés ejemplos
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-17'
 updatedDate: '2026-08-31'
 alt: Candidata haciendo preguntas al entrevistador en entrevista de trabajo en inglés

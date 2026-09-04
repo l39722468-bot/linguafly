@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 56 A1: Restaurante — I would like (con soluciones)'
+title: 'Ejercicios para Pedir en un Restaurante en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 56 del curso A1: I would like, Can
   I have, menu, starter, main course, dessert, bill, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 56
+  - Ejercicios para Pedir en un Restaurante en Inglés A1
   - ejercicios I would like restaurante
   - Can I have the bill A1
   - starter main course dessert

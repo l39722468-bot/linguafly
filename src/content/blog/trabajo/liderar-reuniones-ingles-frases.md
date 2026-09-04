@@ -12,7 +12,7 @@ excerpt: >-
 keywords:
   - 'Cómo Liderar Reuniones en Inglés: Frases Clave'
   - liderar reuniones ingles
-author: focus-english-team
+author: linguafly-team
 date: '2026-04-19'
 updatedDate: '2026-08-31'
 alt: Project manager dirigiendo una videollamada de trabajo en inglés con varios participantes

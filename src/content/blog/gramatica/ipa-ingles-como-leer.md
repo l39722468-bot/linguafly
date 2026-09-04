@@ -1,5 +1,5 @@
 ---
-title: 'IPA en Inglés: Cómo Leer el Alfabeto'
+title: 'IPA en Inglés: Cómo Leer el Alfabeto Fonético'
 description: >-
   Guía práctica para entender y usar el IPA en inglés. Aprende qué significa
   cada símbolo, cómo leer las transcripciones de los diccionarios y por qué
@@ -10,7 +10,7 @@ excerpt: >-
   símbolos clave ya puedes leer la pronunciación de cualquier palabra en el
   diccionario. Aquí te explico cómo funciona y cómo usarlo desde el primer día.
 keywords:
-  - 'IPA en Inglés: Cómo Leer el Alfabeto'
+  - 'IPA en Inglés: Cómo Leer el Alfabeto Fonético'
   - cómo leer IPA inglés
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -19,9 +19,9 @@ keywords:
   - ejercicios gratis de pronunciación con IPA
   - diferencia entre IPA inglés británico y americano
   - transcripción fonética inglesa con ejemplos
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-26'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿El IPA del inglés americano y el británico es el mismo?'

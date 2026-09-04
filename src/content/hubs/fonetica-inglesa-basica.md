@@ -9,7 +9,7 @@ description: >-
 
 ¿Alguna vez has abierto un diccionario y has visto unos símbolos extraños al lado de la palabra? Esos símbolos son el **Alfabeto Fonético Internacional (API o IPA)**. En 2026, entender estos símbolos es como tener el código fuente de la pronunciación. Ya no tienes que adivinar cómo se dice una palabra; el IPA te lo dice exactamente.
 
-En esta guía de **Focus English**, vamos a desmitificar la fonética para que sea tu mejor aliada.
+En esta guía de **Linguafly**, vamos a desmitificar la fonética para que sea tu mejor aliada.
 
 ---
 

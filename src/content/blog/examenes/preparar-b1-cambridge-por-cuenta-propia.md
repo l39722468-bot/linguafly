@@ -1,5 +1,5 @@
 ---
-title: 'Preparar el B1 de Cambridge'
+title: 'B1 Cambridge: Cómo Prepararlo por tu Cuenta'
 description: >-
   Guía completa para aprobar el examen B1 de Cambridge estudiando solo.
   Recursos, consejos para el Speaking y cómo organizar tu plan de estudio.
@@ -9,7 +9,7 @@ excerpt: >-
   dominar el Reading, Writing y cómo usar la IA para practicar el Speaking sin
   profesor.
 keywords:
-  - Preparar el B1 de Cambridge
+  - B1 Cambridge: Cómo Prepararlo por tu Cuenta
   - preparar b1 cambridge solo
   - preparar inglés gratis
   - material de inglés gratis
@@ -19,9 +19,9 @@ keywords:
   - preparar Speaking B1 sin profesor
   - ejercicios de Reading y Writing B1 con soluciones
 date: '2025-02-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: examenes
-author: focus-english-team
+author: linguafly-team
 canonical: >-
   https://linguafly.app/blog/examenes/preparar-b1-cambridge-por-cuenta-propia
 faqs:

@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 39 A2: Adverbial Phrases (con soluciones)'
+title: 'Ejercicios de Frases Adverbiales en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 39 del curso A2: frases adverbiales de tiempo, lugar y frecuencia,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 39
+  - Ejercicios de Frases Adverbiales en Inglés A2
   - adverbial phrases ejercicios
   - in the morning once a week
   - place before time

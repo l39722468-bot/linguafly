@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 18 A1: like + -ing y Why? Because… (con soluciones)'
+title: 'Ejercicios de Gustos y Aficiones en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 18 del curso A1: like/don't like +
   -ing, Why? Because…, hobbies, música y películas, reading de Nina, listening
   y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 18
+  - Ejercicios de Gustos y Aficiones en Inglés A1
   - ejercicios like + ing
   - why because ejercicios A1
   - likes and dislikes ejercicios

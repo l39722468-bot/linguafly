@@ -1,5 +1,5 @@
 ---
-title: 'Condicionales Mixtos en Inglés'
+title: 'Mixed Conditionals en Inglés: Guía y Ejemplos'
 description: >-
   Domina los Mixed Conditionals en inglés. Guía completa con ejemplos, ejercicios
   y diferencias entre Tipo A y Tipo B. Imprescindible para Cambridge C1 Advanced
@@ -10,7 +10,7 @@ excerpt: >-
   Aprende cuándo y cómo usarlos con esta guía avanzada llena de ejemplos reales
   y ejercicios resueltos.
 keywords:
-  - Condicionales Mixtos en Inglés
+  - Mixed Conditionals en Inglés: Guía y Ejemplos
   - condicionales mixtos ingles
   - ejercicios de inglés gratis
   - mixed conditionals en inglés con ejemplos
@@ -18,9 +18,9 @@ keywords:
   - diferencia entre mixed conditionals tipo A y B
   - mixed conditionals para Cambridge C1 C2
   - cómo formar condicionales mixtos en inglés
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Qué son los Mixed Conditionals?'

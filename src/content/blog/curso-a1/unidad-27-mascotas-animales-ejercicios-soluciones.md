@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 27 A1: Pets & Animals — dangerous, friendly, cute (con soluciones)'
+title: 'Ejercicios de Mascotas y Animales en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 27 del curso A1: pets, farm, wild,
   adjetivos dangerous/friendly/cute, reading, listening y writing. Con soluciones
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 27
+  - Ejercicios de Mascotas y Animales en Inglés A1
   - ejercicios pets animals
   - dangerous friendly cute exercises
   - farm wild animals A1

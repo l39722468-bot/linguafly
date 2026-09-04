@@ -12,7 +12,7 @@ excerpt: >-
 keywords:
   - entrevista virtual inglés videollamada zoom teams
   - entrevista trabajo online inglés setup cámara
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-11'
 updatedDate: '2026-08-31'
 alt: Persona en entrevista de trabajo virtual en inglés por videollamada con portátil

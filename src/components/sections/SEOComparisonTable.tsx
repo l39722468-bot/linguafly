@@ -3,7 +3,7 @@ import { Check, X, Star } from 'lucide-react';
 
 const comparisonData = [
   {
-    name: 'Focus English',
+    name: 'Linguafly',
     focus: 'Domino A1-C2 / Fluidez',
     time: '90 días',
     ia: 'Avanzada (Tutor 24/7)',

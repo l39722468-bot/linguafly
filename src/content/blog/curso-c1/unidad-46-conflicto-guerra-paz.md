@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-16'
-updatedDate: '2026-09-16'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 46 C1: Conflicto, guerra y paz"
+title: "Conflicto, Guerra y Paz en Inglés C1: Guía y Ejercicios"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a desmontar el eufemismo bélico, a ejercer crítica prudente sobre
   el discurso del conflicto y a escribir sobre guerra y paz con precisión retórica. Con teoría detallada y 19 ejercicios
@@ -13,7 +13,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    conflicto guerra y paz en inglés,
+    Conflicto, Guerra y Paz en Inglés C1: Guía y Ejercicios,
     eufemismo bélico C1,
     crítica prudente inglés C1,
     lenguaje diplomático C1,

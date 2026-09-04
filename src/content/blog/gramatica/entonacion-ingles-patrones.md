@@ -1,8 +1,8 @@
 ---
-title: 'Entonación en Inglés: Los Patrones'
+title: 'Entonación en Inglés: Patrones y Ejemplos'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Entonación en inglés: los patrones que te hacen sonar natural. Aprende a distinguir afirmaciones, preguntas, listas y énfasis para comunicarte con más fluidez y confianza.
 excerpt: >-
@@ -11,7 +11,7 @@ category: gramatica
 readTime: 8 min
 alt: Onda sonora de la entonación del inglés hablado
 keywords:
-  - 'Entonación en Inglés: Los Patrones'
+  - 'Entonación en Inglés: Patrones y Ejemplos'
   - patrones entonacion ingles
   - ejercicios de inglés gratis
   - patrones de entonación inglesa con ejemplos

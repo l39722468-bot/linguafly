@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 7 A2: Adverbios de modo (con soluciones)'
+title: 'Ejercicios de Adverbios de Modo en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 7 del curso A2: -ly, well, badly,
   fast, hard, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 7
+  - Ejercicios de Adverbios de Modo en Inglés A2
   - ejercicios adverbios de modo
   - quickly slowly carefully well badly
   - adverbs of manner A2

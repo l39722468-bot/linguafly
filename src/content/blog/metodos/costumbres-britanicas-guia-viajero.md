@@ -1,5 +1,5 @@
 ---
-title: 'Costumbres Británicas: Lo Que Nadie'
+title: 'Costumbres Británicas: Guía de Etiqueta y Cultura'
 description: >-
   Guía completa de costumbres y cultura británica para hispanohablantes. Desde
   el queuing hasta el humor inglés, descubre qué esperar cuando interactúas con
@@ -10,10 +10,10 @@ excerpt: >-
   las costumbres británicas que te evitarán malentendidos y te harán conectar con
   los locales de verdad.
 keywords:
-  - 'Costumbres Británicas: Lo Que Nadie'
+  - 'Costumbres Británicas: Guía de Etiqueta y Cultura'
   - costumbres britanicas
   - curso inglés gratis online
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-04'
 updatedDate: '2026-08-31'
 category: metodos

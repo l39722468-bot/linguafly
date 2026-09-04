@@ -2,7 +2,7 @@
 title: 'Cómo Preparar una Entrevista de Trabajo en Inglés: Guía Paso a Paso'
 date: '2026-02-18'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Guía paso a paso para preparar tu entrevista de trabajo en inglés. Estrategias
   de preparación, vocabulario clave, técnica STAR y simulacros de práctica para

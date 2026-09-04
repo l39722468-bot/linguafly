@@ -1,8 +1,8 @@
 ---
-title: 'Aptis Advanced C1'
+title: 'Aptis Advanced C1: Estructura y Cómo Prepararlo'
 date: '2026-03-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Todo lo que necesitas saber sobre el Aptis Advanced del British Council para
   obtener tu certificado C1. Diferencias con el General, estructura, estrategias
@@ -13,7 +13,7 @@ canonical: >-
   https://linguafly.app/blog/examenes/aptis-advanced-c1-guia
 readTime: 5 min
 keywords:
-  - Aptis Advanced C1
+  - Aptis Advanced C1: Estructura y Cómo Prepararlo
   - preparar aptis advanced
   - preparar inglés gratis
   - material de inglés gratis

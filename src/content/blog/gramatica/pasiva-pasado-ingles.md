@@ -1,5 +1,5 @@
 ---
-title: 'Voz Pasiva en Pasado en Inglés'
+title: 'Voz Pasiva en Pasado: Reglas y Ejemplos'
 description: >-
   Domina la voz pasiva en pasado simple y pasado perfecto en inglés. Ejemplos
   reales, errores comunes y ejercicios para consolidar was/were + participio.
@@ -8,7 +8,7 @@ excerpt: >-
   La pasiva en pasado es de las estructuras que más aparecen en textos históricos,
   noticias y redacciones formales. Te explicamos cómo funciona sin enredarte.
 keywords:
-  - Voz Pasiva en Pasado en Inglés
+  - Voz Pasiva en Pasado: Reglas y Ejemplos
   - voz pasiva pasado ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -17,9 +17,9 @@ keywords:
   - pasiva en past simple y past perfect
   - ejemplos de voz pasiva en pasado inglés
   - errores frecuentes de la pasiva en pasado
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-08'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Libro de historia abierto con ejemplos de voz pasiva en inglés en pasado
 category: gramatica
 faqs:

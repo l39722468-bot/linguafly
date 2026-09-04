@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 41 A2: Travel & Transport (con soluciones)'
+title: 'Ejercicios de Viajes y Transporte en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 41 del curso A2: by bus/train, take the train,
   get to, arrive at/in, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 41
+  - Ejercicios de Viajes y Transporte en Inglés A2
   - travel transport ejercicios
   - by bus take the train
   - get to arrive at

@@ -16,7 +16,7 @@ keywords:
 date: '2026-03-02'
 updatedDate: '2026-08-31'
 category: metodos
-author: focus-english-team
+author: linguafly-team
 canonical: 'https://linguafly.app/blog/metodos/apps-vs-cursos-ingles'
 faqs:
   - question: '¿Qué es mejor para llegar a C1: app o curso?'

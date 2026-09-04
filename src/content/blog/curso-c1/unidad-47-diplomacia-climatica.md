@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-17'
-updatedDate: '2026-09-17'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 47 C1: Diplomacia climática"
+title: "Diplomacia Climática en Inglés C1: Guía y Ejercicios"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a negociar en contextos climáticos, a manejar condicionales
   hipotéticas y contrafactuales y a argumentar sobre diplomacia ambiental con precisión retórica. Con teoría detallada y
@@ -13,7 +13,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    diplomacia climática en inglés,
+    Diplomacia Climática en Inglés C1: Guía y Ejercicios,
     condicionales C1 inglés,
     negociación ambiental C1,
     lenguaje diplomático C1,

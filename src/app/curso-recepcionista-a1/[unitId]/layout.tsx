@@ -9,7 +9,7 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
     ? `Test final inglés A1 para Recepcionistas | ${SITE_BRAND_NAME}`
     : `Unidad ${unitNumber} del curso de inglés A1 para Recepcionistas | ${SITE_BRAND_NAME}`;
 
-  const description = `Curso de inglés A1 para recepcionistas con LinguaFly: frases de bienvenida, atención telefónica y gestión de reservas desde cero.`;
+  const description = `Curso de inglés A1 para recepcionistas con Linguafly: frases de bienvenida, atención telefónica y gestión de reservas desde cero.`;
 
   return {
     title,

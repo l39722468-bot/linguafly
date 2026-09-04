@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 34 A2: Subject & Object Questions (con soluciones)'
+title: 'Ejercicios de Preguntas de Sujeto y Objeto A2'
 description: >-
   Practica todos los ejercicios de la Unidad 34 del curso A2: preguntas de sujeto y objeto (Who called you? / Who did you call?),
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 34
+  - Ejercicios de Preguntas de Sujeto y Objeto A2
   - subject object questions ejercicios
   - Who saw you Who did you see
   - preguntas de sujeto inglés

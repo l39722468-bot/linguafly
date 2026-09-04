@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-16'
-updatedDate: '2026-09-16'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 42 C1: Consolidación salud-mente — síntesis interdisciplinar"
+title: "Salud y Mente en Inglés C1: Síntesis Interdisciplinar"
 description: >-
   En la Unidad 42 del curso de inglés C1 gratis consolidarás el bloque de salud
   con una síntesis interdisciplinar que integra mente, cerebro, nutrición y
@@ -11,7 +11,7 @@ description: >-
   ejercicios inglés C1 gratis con soluciones.
 readTime: 40 min
 keywords:
-  - curso de inglés C1 gratis
+  - Salud y Mente en Inglés C1: Síntesis Interdisciplinar
   - síntesis interdisciplinar inglés
   - mind-body connection C1
   - ejercicios inglés C1 gratis

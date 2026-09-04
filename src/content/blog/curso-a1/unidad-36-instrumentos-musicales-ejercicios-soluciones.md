@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 36 A1: Instrumentos musicales — play the piano… (con soluciones)'
+title: 'Ejercicios de Instrumentos Musicales en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 36 del curso A1: play the +
   instrumento, can play, reading de Noah, listening de instrumentos y writing.
   Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 36
+  - Ejercicios de Instrumentos Musicales en Inglés A1
   - ejercicios play the piano
   - instrumentos musicales inglés A1
   - play the guitar drums

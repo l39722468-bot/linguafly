@@ -13,7 +13,7 @@ keywords:
   - 'Cómo Mejorar el Writing en Inglés: Rutina Real'
   - mejorar writing ingles
   - practicar inglés gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-04-16'
 updatedDate: '2026-08-31'
 alt: Cuaderno abierto y ordenador portátil con un texto en inglés siendo redactado

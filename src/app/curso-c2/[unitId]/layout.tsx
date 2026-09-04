@@ -11,8 +11,8 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
     : `Unidad ${unitNumber} del curso de inglés C2 | ${SITE_BRAND_NAME}`;
 
   const description = unitId === 'test-final'
-    ? "Evaluación final del curso de inglés C2 de LinguaFly: precisión lingüística, matices de estilo, interpretación y dominio casi nativo para comprobar tu nivel."
-    : `Aprende con la Unidad ${unitNumber} del curso de inglés C2 de LinguaFly. Precisión, matices de estilo y comprensión de textos y expresiones de nivel Proficiency.`;
+    ? "Evaluación final del curso de inglés C2 de Linguafly: precisión lingüística, matices de estilo, interpretación y dominio casi nativo para comprobar tu nivel."
+    : `Aprende con la Unidad ${unitNumber} del curso de inglés C2 de Linguafly. Precisión, matices de estilo y comprensión de textos y expresiones de nivel Proficiency.`;
 
   return {
     title,

@@ -13,7 +13,7 @@ keywords:
   - errores más comunes entrevista trabajo inglés
   - qué no hacer en una entrevista de trabajo en inglés
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-20'
 updatedDate: '2026-08-31'
 alt: Candidato preocupado revisando errores comunes en entrevistas de trabajo en inglés

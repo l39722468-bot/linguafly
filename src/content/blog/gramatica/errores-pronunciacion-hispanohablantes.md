@@ -1,8 +1,8 @@
 ---
-title: 'Los 10 Errores de Pronunciación'
+title: '10 Errores de Pronunciación en Inglés y Soluciones'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Los 10 errores de pronunciación en inglés más comunes para hispanohablantes: por qué los cometemos y cómo corregirlos. Ejercicios prácticos para sonar más natural en inglés.
 excerpt: >-
@@ -11,7 +11,7 @@ category: gramatica
 readTime: 9 min
 alt: Hispanohablante practicando pronunciación inglesa con un profesor
 keywords:
-  - Los 10 Errores de Pronunciación
+  - 10 Errores de Pronunciación en Inglés y Soluciones
   - errores pronunciacion ingles hispanohablantes
   - ejercicios de inglés gratis
   - gramática inglesa gratis

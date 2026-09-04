@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 3 A2: Past Simple irregulares (con soluciones)'
+title: 'Ejercicios de Verbos Irregulares en Past Simple A2'
 description: >-
   Practica todos los ejercicios de la Unidad 3 del curso A2: went, saw, had,
   made, wrote, bought, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 3
+  - Ejercicios de Verbos Irregulares en Past Simple A2
   - ejercicios past simple irregulares
   - went saw had made wrote bought
   - irregular verbs past simple A2

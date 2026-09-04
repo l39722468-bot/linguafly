@@ -1,15 +1,15 @@
 ---
-title: 'Linguafly 2026: blog (no curso de pago)'
+title: 'Linguafly 2026: Blog de Inglés Gratis y Guías'
 date: '2026-04-15'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 excerpt: 'Linguafly es blog y guías gratuitas, no una plataforma con matrícula. Cómo usarlo con IELTS, Cambridge y MCER junto a Preply, academias u otra escuela online.'
 description: 'Qué ofrece el blog Linguafly frente a un curso de inglés online: artículos gratuitos, hubs temáticos y enlaces útiles para preparar exámenes oficiales sin confundir editorial con formación de pago.'
 category: metodos
 readTime: 9 min
 alt: 'Persona leyendo artículos de inglés en el portátil'
 keywords:
-  - 'Linguafly: blog (no curso de pago)'
+  - 'Linguafly 2026: Blog de Inglés Gratis y Guías'
   - curso de ingles
   - curso inglés gratis online
 faqs:

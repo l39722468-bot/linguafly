@@ -1,9 +1,9 @@
 ---
 category: trabajo
 date: '2026-02-07'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Inglés para el Trabajo: Cómo Destacar'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Inglés para el Trabajo: Guía Profesional'
 description: >-
   Domina el inglés de negocios y proyecta una imagen profesional sólida. 
   Aprende a liderar reuniones, negociar con éxito y comunicar tus ideas 
@@ -14,7 +14,7 @@ excerpt: >-
   negociación o una presentación internacional. Aquí tienes el vocabulario,
   las frases y las estrategias que realmente usa un profesional en entornos globales.
 keywords:
-  - 'Inglés para el Trabajo: Cómo Destacar'
+  - 'Inglés para el Trabajo: Guía Profesional'
   - inglés para el trabajo
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-trabajo'
 related_routes:

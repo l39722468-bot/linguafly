@@ -126,7 +126,7 @@ export default function SEOAppsPage() {
                   <div className="absolute top-0 right-0 w-32 h-32 bg-white/10 rounded-full -mr-16 -mt-16 blur-2xl group-hover:bg-white/20 transition-all duration-500"></div>
                   <Zap className="w-12 h-12 text-white/30 mb-6" />
                   <h3 className="text-3xl font-black mb-6 leading-tight">¿Cansado de &quot;jugar&quot; a aprender?</h3>
-                  <p className="text-coral-50 mb-8 text-lg font-medium opacity-90">Únete a Focus English y consigue fluidez real en 90 días con nuestro sistema guiado por IA.</p>
+                  <p className="text-coral-50 mb-8 text-lg font-medium opacity-90">Únete a Linguafly y consigue fluidez real en 90 días con nuestro sistema guiado por IA.</p>
                   <Link 
                     href="/aprender-ingles"
                     className="block w-full text-center bg-white text-coral-600 px-8 py-5 rounded-2xl font-black text-xl hover:shadow-xl transition-all hover:scale-[1.02] active:scale-95"
@@ -185,7 +185,7 @@ export default function SEOAppsPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "SoftwareApplication",
-            "name": "Focus English",
+            "name": "Linguafly",
             "operatingSystem": "Web, iOS, Android",
             "applicationCategory": "EducationalApplication",
             "offers": {
@@ -230,7 +230,7 @@ export default function SEOAppsPage() {
               {
                 "@type": "ListItem",
                 "position": 1,
-                "name": "Focus English",
+                "name": "Linguafly",
                 "url": "https://linguafly.app"
               },
               {

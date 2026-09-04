@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 18 A2: For & Since (con soluciones)'
+title: 'Ejercicios de For y Since en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 18 del curso A2: for (duration) / since (starting point) + Present Perfect,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 18
+  - Ejercicios de For y Since en Inglés A2
   - ejercicios for since
   - I have lived for
   - since 2020

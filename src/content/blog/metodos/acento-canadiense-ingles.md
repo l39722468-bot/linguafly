@@ -1,5 +1,5 @@
 ---
-title: 'El Acento Canadiense: Por Qué "About"'
+title: 'Acento Canadiense en Inglés: About y Out'
 description: >-
   Guía completa del Canadian English: el Canadian Raising, las diferencias con
   el acento americano, el inglés de Quebec, el vocabulario propio y las claves
@@ -11,15 +11,15 @@ excerpt: >-
   El Canadian Raising es el fenómeno fonético que define el acento canadiense
   y vale la pena entenderlo bien.
 keywords:
-  - 'El Acento Canadiense: Por Qué "About'
+  - 'Acento Canadiense en Inglés: About y Out'
   - acento canadiense inglés
   - cómo reconocer el acento canadiense en inglés
   - diferencias entre inglés canadiense y americano
   - pronunciación canadiense de about y out
   - escuchar inglés canadiense gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-24'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿El acento canadiense es básicamente igual al americano?'

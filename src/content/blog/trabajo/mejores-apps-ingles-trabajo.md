@@ -16,7 +16,7 @@ keywords:
 date: '2026-03-02'
 updatedDate: '2026-08-31'
 category: trabajo
-author: focus-english-team
+author: linguafly-team
 canonical: 'https://linguafly.app/blog/trabajo/mejores-apps-ingles-trabajo'
 faqs:
   - question: '¿El desafío del inglés en el entorno laboral moderno?'

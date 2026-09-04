@@ -17,7 +17,7 @@ keywords:
   - condicionales avanzados para Cambridge C1 C2
   - práctica gratis de estructuras condicionales formales
   - ejercicios de condicionales mixtos para examen CAE CPE
-author: focus-english-team
+author: linguafly-team
 date: '2026-07-30'
 updatedDate: '2026-08-31'
 category: gramatica

@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 57 A1: Cocina — First, Then, Finally (con soluciones)'
+title: 'Ejercicios de Cocina y Recetas en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 57 del curso A1: First, Then,
   Finally, cut, mix, fry, boil, bake, recipe, pan, pot, oven, reading, listening
   y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 57
+  - Ejercicios de Cocina y Recetas en Inglés A1
   - ejercicios First Then Finally cocina
   - cut mix fry boil bake A1
   - recipe instructions english

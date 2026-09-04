@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-19'
-updatedDate: '2026-09-19'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 49 C1: Medios tradicionales vs digitales"
+title: "Medios Tradicionales y Digitales en Inglés C1"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a distinguir géneros mediáticos, a escribir sobre la transformación
   digital de la prensa y a manejar el léxico de los hipervínculos sociales con precisión crítica. Con teoría detallada y 19
@@ -11,7 +11,7 @@ description: >-
 readTime: 40 min
 keywords:
   [
-    curso de inglés C1 gratis,
+    Medios Tradicionales y Digitales en Inglés C1,
     ejercicios inglés C1 gratis,
     medios tradicionales y digitales en inglés,
     género mediático C1,

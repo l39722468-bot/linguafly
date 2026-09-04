@@ -36,7 +36,7 @@ export default function Certificate({
             <div className="text-sm font-black uppercase tracking-[0.2em] text-slate-500">
               Certificate of Achievement
             </div>
-            <h1 className="mt-4 text-5xl font-black text-slate-900">Focus English</h1>
+            <h1 className="mt-4 text-5xl font-black text-slate-900">Linguafly</h1>
             <div className="mt-2 h-1 w-24 bg-coral-500" />
           </div>
 
@@ -85,7 +85,7 @@ export default function Certificate({
             <div className="text-center">
               <div className="mb-2 h-px w-48 bg-slate-300" />
               <div className="text-sm font-black text-slate-900">Academic Director</div>
-              <div className="text-[10px] font-bold text-slate-400">Focus English Education</div>
+              <div className="text-[10px] font-bold text-slate-400">Linguafly Education</div>
             </div>
           </div>
         </div>

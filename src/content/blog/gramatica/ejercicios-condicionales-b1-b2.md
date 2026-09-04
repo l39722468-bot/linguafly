@@ -17,7 +17,7 @@ keywords:
   - práctica gratis de if clauses de pasado
   - transformar frases con second conditional
   - ejercicios de third conditional para exámenes
-author: focus-english-team
+author: linguafly-team
 date: '2026-07-30'
 updatedDate: '2026-08-31'
 category: gramatica

@@ -1,5 +1,5 @@
 ---
-title: 'General American: El Acento'
+title: 'General American: Guía del Acento Americano'
 description: >-
   Guía completa del General American, el acento del inglés americano considerado
   estándar. Características fonéticas, diferencias con otros acentos americanos,
@@ -11,12 +11,12 @@ excerpt: >-
   características te da una base sólida para el inglés americano, más allá de
   lo que dicen los libros de texto.
 keywords:
-  - 'General American: El Acento'
+  - 'General American: Guía del Acento Americano'
   - general american acento
   - curso inglés gratis online
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-06'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿El General American es el acento más fácil de entender para hispanohablantes?'

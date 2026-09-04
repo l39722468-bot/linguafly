@@ -9,7 +9,7 @@ description: >-
 
 Aprender inglés en 2026 ya no tiene por qué ser una tarea tediosa de gramática y libros de texto. El consumo de contenido audiovisual es una de las formas más potentes de mejorar tu **listening**, ampliar tu vocabulario coloquial y entender los matices culturales del mundo anglosajón. El cine no solo te enseña palabras, te enseña emociones, pausas, gestos y, sobre todo, el ritmo real de la vida en inglés.
 
-En esta guía exhaustiva de **Focus English**, te mostramos cómo transformar tu tiempo de ocio en una sesión de inmersión lingüística de alto nivel. Aquí tienes nuestra selección de las **mejores series y películas para aprender inglés**, clasificadas por niveles, acentos y objetivos específicos.
+En esta guía exhaustiva de **Linguafly**, te mostramos cómo transformar tu tiempo de ocio en una sesión de inmersión lingüística de alto nivel. Aquí tienes nuestra selección de las **mejores series y películas para aprender inglés**, clasificadas por niveles, acentos y objetivos específicos.
 
 ---
 

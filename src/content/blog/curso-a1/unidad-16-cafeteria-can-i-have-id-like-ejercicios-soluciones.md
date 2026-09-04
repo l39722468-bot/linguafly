@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 16 A1: Can I have…? e I’d like… (con soluciones)'
+title: 'Ejercicios para Pedir en una Cafetería en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 16 del curso A1: Can I have…?, I'd
   like…, Would you like…?, bebidas y snacks, reading de Cafe Sunny, listening de
   un pedido y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 16
+  - Ejercicios para Pedir en una Cafetería en Inglés A1
   - ejercicios can I have
   - I'd like please ejercicios
   - pedir en cafetería inglés

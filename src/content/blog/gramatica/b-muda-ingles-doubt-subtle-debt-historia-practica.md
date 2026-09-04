@@ -1,15 +1,15 @@
 ---
 category: gramatica
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Doubt, debt, subtle y el misterio'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'B Muda en Inglés: Doubt, Debt, Subtle y Ejemplos'
 description: >-
   Explicación práctica para hispanohablantes: por qué algunas palabras tienen “b”
   y no se oyen, cómo aprenderlas sin confundirlas al escribir y cómo pronunciarlas.
 readTime: 22 min
 keywords:
-  - Doubt, debt, subtle y el misterio
+  - B Muda en Inglés: Doubt, Debt, Subtle y Ejemplos
   - doubt pronunciación
   - ejercicios de inglés gratis
   - cómo pronunciar doubt debt y subtle

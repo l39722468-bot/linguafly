@@ -1,8 +1,8 @@
 ---
-title: 'Inglés para Museos y Turismo Cultural'
+title: 'Inglés para Museos y Turismo Cultural: Guía'
 date: '2026-04-17'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Vocabulario y frases en inglés para visitar museos, galerías de arte, monumentos históricos y tours guiados. Disfruta del turismo cultural sin barreras idiomáticas.
 excerpt: >-
@@ -11,7 +11,7 @@ category: viajes
 readTime: 10 min
 alt: Viajera contemplando una obra de arte en un museo internacional
 keywords:
-  - Inglés para Museos y Turismo Cultural
+  - Inglés para Museos y Turismo Cultural: Guía
   - ingles para museos
   - frases en inglés gratis
 canonical: 'https://linguafly.app/blog/viajes/ingles-museos-turismo-cultural'

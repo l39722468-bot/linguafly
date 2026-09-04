@@ -1,10 +1,10 @@
 ---
-title: 'Speaking CAE: Cómo Brillar'
+title: 'Speaking C1 Advanced (CAE): Partes y Estrategias'
 description: "Guía completa del Speaking del C1 Advanced: qué evalúan los examinadores en cada fase, qué estructuras usar y cómo gestionar los nervios para dar tu mejor versión."
 readTime: 8 min
 excerpt: "En el Speaking del CAE no te evalúan si tu inglés es perfecto, sino si puedes comunicarte con fluidez, precisión y naturalidad. Aquí tienes lo que necesitas saber para cada fase."
 keywords:
-  - 'Speaking CAE: Cómo Brillar'
+  - 'Speaking C1 Advanced (CAE): Partes y Estrategias'
   - como preparar speaking cae
   - preparar inglés gratis
   - material de inglés gratis
@@ -13,9 +13,9 @@ keywords:
   - frases gratis para Speaking C1 con ejemplos
   - cómo responder cada parte del Speaking CAE
   - estrategias para mejorar fluidez en el examen C1
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-11'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: examenes
 faqs:
   - question: "¿Cuánto dura el Speaking del CAE?"

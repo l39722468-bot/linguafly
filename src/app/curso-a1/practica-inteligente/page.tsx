@@ -7,7 +7,7 @@ export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: `Práctica Inteligente de Inglés A1 | ${SITE_BRAND_NAME}`,
-  description: "Refuerza tu nivel A1 con la práctica inteligente de LinguaFly: ejercicios adaptados a tu progreso y a los errores que más repites.",
+  description: "Refuerza tu nivel A1 con la práctica inteligente de Linguafly: ejercicios adaptados a tu progreso y a los errores que más repites.",
   alternates: {
     canonical: getAbsoluteUrl('/curso-a1/practica-inteligente'),
   },

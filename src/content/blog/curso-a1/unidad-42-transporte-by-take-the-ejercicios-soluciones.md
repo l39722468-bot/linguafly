@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-21'
-updatedDate: '2026-08-21'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 42 A1: Transport — by bus / take the train (con soluciones)'
+title: 'Ejercicios de Transporte en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 42 del curso A1: by + transporte,
   take the + transporte, bus, train, plane, taxi, bicycle, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 42
+  - Ejercicios de Transporte en Inglés A1
   - ejercicios by bus take the train
   - transporte inglés A1
   - go by car by plane

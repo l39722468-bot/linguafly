@@ -86,7 +86,7 @@ export default function SEOHubPage() {
               <div className="relative aspect-square rounded-[2rem] overflow-hidden shadow-2xl border-4 border-white transform lg:rotate-3">
                 <Image 
                   src="https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg"
-                  alt="Aprender inglés con Focus English"
+                  alt="Aprender inglés con Linguafly"
                   fill
                   className="object-cover"
                   priority

@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios de Pronunciación en Inglés'
+title: 'Ejercicios de Pronunciación en Inglés: Guía'
 description: >-
   Descubre los ejercicios de pronunciación en inglés más efectivos para mejorar
   sonidos, ritmo, entonación y fluidez. Técnicas prácticas con ejemplos para
@@ -10,16 +10,16 @@ excerpt: >-
   Es práctica con los ejercicios correctos. Aquí tienes los que dan resultados
   de verdad, organizados por lo que quieres mejorar.
 keywords:
-  - Ejercicios de Pronunciación en Inglés
+  - Ejercicios de Pronunciación en Inglés: Guía
   - ejercicios pronunciación inglés
   - ejercicios de pronunciación en inglés gratis
   - cómo mejorar la pronunciación inglesa desde casa
   - ejercicios para pronunciar mejor inglés diariamente
   - práctica de sonidos y entonación en inglés
   - ejercicios de pronunciación inglesa para hispanohablantes
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-19'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Cuánto tiempo tardaré en notar mejoría en mi pronunciación?'

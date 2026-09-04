@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-21'
-updatedDate: '2026-08-21'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 48 A1: Sightseeing — superlativos (con soluciones)'
+title: 'Ejercicios de Superlativos y Turismo en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 48 del curso A1: the most famous,
   the oldest, museum, monument, statue, guided tour, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 48
+  - Ejercicios de Superlativos y Turismo en Inglés A1
   - ejercicios superlativos sightseeing
   - the most famous the oldest A1
   - museum monument guided tour

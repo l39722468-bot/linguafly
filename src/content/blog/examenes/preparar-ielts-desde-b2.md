@@ -2,7 +2,7 @@
 title: 'Cómo Preparar el IELTS desde B2 en 3 Meses'
 date: '2026-03-05'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Guía completa para preparar el IELTS en 2026. Plan de estudio de 12 semanas,
   estrategias por parte del examen, banda de puntuación necesaria para emigrar

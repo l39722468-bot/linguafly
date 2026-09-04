@@ -1,5 +1,5 @@
 ---
-title: 'Cultura Americana vs Española'
+title: 'Cultura Americana vs Española: Diferencias Clave'
 description: >-
   Descubre las principales diferencias culturales entre Estados Unidos y España.
   Guía práctica de etiqueta, costumbres y valores americanos para hispanohablantes
@@ -10,11 +10,11 @@ excerpt: >-
   malentendidos, mejorará tus relaciones y te hará sentir como en casa en EE.UU.
   Guía de choques culturales y cómo superarlos.
 keywords:
-  - Cultura Americana vs Española
+  - Cultura Americana vs Española: Diferencias Clave
   - cultura americana
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿La Directness Americana vs la Indirectness Latina: cuál es mejor?'

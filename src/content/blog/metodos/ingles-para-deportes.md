@@ -1,8 +1,8 @@
 ---
-title: 'Inglés para Deportes: Vocabulario'
+title: 'Inglés para Deportes: Vocabulario y Frases'
 date: '2026-02-22'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Vocabulario de deportes en inglés por disciplina: fútbol, baloncesto, tenis, atletismo y más. Frases para ver, comentar y hablar de deportes en inglés con naturalidad y precisión.
 excerpt: >-
@@ -11,7 +11,7 @@ category: metodos
 readTime: 14 min
 alt: Estadio de fútbol con el césped visto desde las gradas
 keywords:
-  - 'Inglés para Deportes: Vocabulario'
+  - 'Inglés para Deportes: Vocabulario y Frases'
   - ingles para deportes
   - curso inglés gratis online
   - vocabulario de deportes en inglés gratis

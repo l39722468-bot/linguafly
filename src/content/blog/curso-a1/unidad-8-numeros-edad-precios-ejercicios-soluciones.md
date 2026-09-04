@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-17'
-updatedDate: '2026-08-17'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 8 A1: números, edad y precios (con soluciones)'
+title: 'Ejercicios de Números, Edad y Precios en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 8 del curso A1: números 20–100,
   How old / How much, precios, reading del supermercado, listening de la tienda
   y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios de inglés A1 unidad 8 con soluciones
+  - Ejercicios de Números, Edad y Precios en Inglés A1
   - ejercicios números del 20 al 100 en inglés
   - how old are you ejercicios con respuestas
   - how much is ejercicios de precios

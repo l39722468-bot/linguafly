@@ -1,15 +1,15 @@
 ---
-title: 'Will para Promesas y Decisiones'
+title: 'Will para Promesas y Decisiones: Usos y Ejemplos'
 date: '2026-03-21'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Will para promesas y decisiones espontáneas en inglés: cómo funciona, cuándo usarlo y en qué se diferencia de going to. Ejemplos reales y ejercicios incluidos.
 category: gramatica
 alt: Persona haciendo una promesa en inglés usando will
 readTime: 7 min
 keywords:
-  - Will para Promesas y Decisiones
+  - Will para Promesas y Decisiones: Usos y Ejemplos
   - will promesas ingles
   - gramática inglesa gratis
   - cómo usar will para hacer promesas en inglés

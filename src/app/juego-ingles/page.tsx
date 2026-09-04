@@ -2,7 +2,7 @@ import { getFirst10LessonsExercises, getFirst10LessonsMeta, FIRST_10_LESSON_NAME
 import GameClient from './GameClient';
 
 export const metadata = {
-  title: 'Juego de inglés | Focus English',
+  title: 'Juego de inglés | Linguafly',
   description: 'Prueba las 10 primeras lecciones del curso A1 en modo juego. Ideal para niños y principiantes.',
 };
 

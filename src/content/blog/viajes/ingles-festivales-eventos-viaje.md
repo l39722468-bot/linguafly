@@ -2,7 +2,7 @@
 title: 'Inglés para Festivales y Eventos en el Extranjero'
 date: '2026-04-17'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Vocabulario y frases en inglés para festivales de música, eventos deportivos, ferias y celebraciones culturales en tus viajes. Compra entradas, oriéntate y disfruta.
 excerpt: >-

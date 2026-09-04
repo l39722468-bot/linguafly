@@ -1,5 +1,5 @@
 ---
-title: 'Slang Inglés Británico: 60'
+title: 'Slang Inglés Británico: 60 Expresiones y Significados'
 description: >-
   Guía completa de slang inglés británico. Aprende las expresiones más usadas en
   el Reino Unido, desde el cockney londinense hasta el inglés informal del norte
@@ -10,7 +10,7 @@ excerpt: >-
   o Glasgow son cosas muy diferentes. Descubre el slang británico más usado y
   sorprende a cualquier inglés.
 keywords:
-  - 'Slang Inglés Británico: 60'
+  - 'Slang Inglés Británico: 60 Expresiones y Significados'
   - slang ingles britanico
   - curso inglés gratis online
   - slang británico y expresiones coloquiales gratis
@@ -18,9 +18,9 @@ keywords:
   - palabras británicas de Londres Manchester y Glasgow
   - vocabulario británico para entender series y podcasts
   - slang inglés británico para hablar como un nativo
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-04'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Por Qué Aprender Slang Británico?'

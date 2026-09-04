@@ -150,7 +150,7 @@ export default function RootLayout({
           }}
           aria-hidden="true"
         >
-          © 2026 Focus English
+          © 2026 Linguafly
         </div>
       </body>
     </html>

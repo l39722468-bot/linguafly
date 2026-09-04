@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Entender los Acentos del Inglés'
+title: 'Cómo Entender los Acentos del Inglés: Guía Práctica'
 description: >-
   Guía práctica para mejorar la comprensión de diferentes acentos del inglés:
   por qué el cerebro falla con acentos nuevos, cómo entrenar el oído de forma
@@ -10,16 +10,16 @@ excerpt: >-
   que aprendiste es solo uno de los muchos ingleses que existen. Aquí tienes
   el mapa y las herramientas para moverte entre ellos.
 keywords:
-  - Cómo Entender los Acentos del Inglés
+  - Cómo Entender los Acentos del Inglés: Guía Práctica
   - cómo entender acentos inglés
   - cómo entender diferentes acentos en inglés
   - ejercicios gratis para entrenar el oído en inglés
   - cómo acostumbrarse al acento americano y británico
   - escuchar acentos ingleses para mejorar comprensión
   - recursos gratuitos para practicar listening en inglés
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-27'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Cuánto tiempo lleva acostumbrarse a un acento nuevo?'

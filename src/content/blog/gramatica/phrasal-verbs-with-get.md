@@ -1,15 +1,15 @@
 ---
-title: 'Phrasal Verbs con GET: Lista Completa'
+title: 'Phrasal Verbs con GET: Lista Completa y Ejemplos'
 date: '2026-02-06'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Domina los phrasal verbs con GET en inglés: get up, get on, get out, get away, get over y más de 30 combinaciones esenciales con ejemplos reales y explicaciones claras.
 category: gramatica
 alt: Cuaderno con lista de phrasal verbs con GET en inglés
 readTime: 8 min
 keywords:
-  - 'Phrasal Verbs con GET: Lista Completa'
+  - 'Phrasal Verbs con GET: Lista Completa y Ejemplos'
   - get phrasal verbs lista completa
   - gramática inglesa gratis
   - phrasal verbs con get más usados en inglés

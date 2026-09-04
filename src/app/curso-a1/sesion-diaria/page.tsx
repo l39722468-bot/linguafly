@@ -9,7 +9,7 @@ export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: `Sesión Diaria de Inglés A1 | ${SITE_BRAND_NAME}`,
-  description: "Practica inglés cada día con la sesión diaria del curso A1 de LinguaFly: ejercicios breves y variados para construir tu hábito de estudio.",
+  description: "Practica inglés cada día con la sesión diaria del curso A1 de Linguafly: ejercicios breves y variados para construir tu hábito de estudio.",
   alternates: {
     canonical: getAbsoluteUrl('/curso-a1/sesion-diaria'),
   },

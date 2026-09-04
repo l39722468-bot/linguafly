@@ -1,13 +1,13 @@
 ---
 title: 'Cursos inglés online 2026 (hub 9 marcas)'
-description: "Comparativa de Babbel, Preply, British Council, Duolingo, Lingoda y más: criterios, IELTS, Cambridge, Aptis y dónde examinarte. Incluye el blog Focus English como recurso editorial gratuito (no sustituye un curso de pago)."
+description: "Comparativa de Babbel, Preply, British Council, Duolingo, Lingoda y más: criterios, IELTS, Cambridge, Aptis y dónde examinarte. Incluye el blog Linguafly como recurso editorial gratuito (no sustituye un curso de pago)."
 ---
 
 # Cursos inglés online 2026 (hub 9 marcas)
 
 Si buscas un **curso de inglés** con intención real de invertir tiempo y dinero, la pregunta no es solo “¿qué app está de moda?”, sino **qué plataforma encaja con tu nivel, tu objetivo y, si te importa el título, cómo te acerca a un examen oficial** (Cambridge B2 First, C1 Advanced, IELTS, TOEFL, Aptis, etc.).
 
-Este hub reúne **diez fichas independientes**: **nueve plataformas de formación** (apps, escuelas online, tutores) y **una aclaración sobre el blog editorial de Focus English** —no es un curso con matrícula—, con criterios claros: metodología, preparación para certificaciones, fortalezas, límites y **dónde matricularse o presentarte al examen** cuando aplica.
+Este hub reúne **diez fichas independientes**: **nueve plataformas de formación** (apps, escuelas online, tutores) y **una aclaración sobre el blog editorial de Linguafly** —no es un curso con matrícula—, con criterios claros: metodología, preparación para certificaciones, fortalezas, límites y **dónde matricularse o presentarte al examen** cuando aplica.
 
 ---
 
@@ -24,11 +24,11 @@ La certificación oficial (IELTS, Cambridge English Qualifications, TOEFL iBT, A
 
 ---
 
-## Las 10 fichas: 9 plataformas de cursos/tutorías + el blog Focus English
+## Las 10 fichas: 9 plataformas de cursos/tutorías + el blog Linguafly
 
-Cada enlace lleva a una **guía específica** con precios orientativos, perfiles ideales y sección dedicada a exámenes oficiales. La primera entrada describe el **blog Focus English** como recurso editorial; las demás son **plataformas de cursos o tutorías**.
+Cada enlace lleva a una **guía específica** con precios orientativos, perfiles ideales y sección dedicada a exámenes oficiales. La primera entrada describe el **blog Linguafly** como recurso editorial; las demás son **plataformas de cursos o tutorías**.
 
-1. [Focus English (blog): guías y recursos gratuitos — no es un curso con matrícula](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes)
+1. [Linguafly (blog): guías y recursos gratuitos — no es un curso con matrícula](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes)
 2. [British Council: inglés online y ecosistema de exámenes oficiales](/blog/metodos/mejores-cursos-ingles-online-british-council)
 3. [Babbel: curso estructurado por niveles — ¿suficiente para Cambridge o IELTS?](/blog/metodos/mejores-cursos-ingles-online-babbel)
 4. [Preply: clases con tutores para preparar IELTS, Cambridge u otros exámenes](/blog/metodos/mejores-cursos-ingles-online-preply)
@@ -50,7 +50,7 @@ Cada enlace lleva a una **guía específica** con precios orientativos, perfiles
 
 ---
 
-## Recursos relacionados en Focus English
+## Recursos relacionados en Linguafly
 
 - [Guía general: los mejores cursos de inglés online (comparativa amplia)](/blog/metodos/curso-ingles-online)
 - [Hub “curso de inglés”: niveles MCER y formatos](/blog/temas/curso-ingles)

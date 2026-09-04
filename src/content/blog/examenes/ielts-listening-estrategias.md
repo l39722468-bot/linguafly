@@ -1,15 +1,15 @@
 ---
-title: 'IELTS Listening: Estrategias'
+title: 'IELTS Listening: Estrategias y Trucos para Mejorar'
 date: '2026-02-17'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía de estrategias para el IELTS Listening: cómo aprovechar el tiempo entre secciones, qué errores cuestan más puntos, cómo detectar cambios y correcciones en el audio, y cómo practicar de forma eficiente.
 category: examenes
 alt: Persona con auriculares escuchando audio para el IELTS Listening
 readTime: 6 min
 keywords:
-  - 'IELTS Listening: Estrategias'
+  - 'IELTS Listening: Estrategias y Trucos para Mejorar'
   - ielts listening
   - preparar inglés gratis
   - material de inglés gratis

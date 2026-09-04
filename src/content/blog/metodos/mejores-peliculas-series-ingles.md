@@ -1,8 +1,8 @@
 ---
-title: 'Las Mejores Películas y Series'
+title: 'Películas y Series para Aprender Inglés por Nivel'
 date: '2026-02-14'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Las mejores películas y series para aprender inglés según tu nivel: recomendaciones para A2, B1, B2 y C1 con estrategias para sacarles el máximo partido en 2026.
 excerpt: >-
@@ -11,7 +11,7 @@ category: metodos
 readTime: 15 min
 alt: Persona viendo una serie en versión original con subtítulos en inglés
 keywords:
-  - Las Mejores Películas y Series
+  - Películas y Series para Aprender Inglés por Nivel
   - mejores peliculas series ingles
   - curso inglés gratis online
   - mejores películas para aprender inglés según nivel

@@ -1,15 +1,15 @@
 ---
-title: 'Expresiones con Will en Inglés'
+title: 'Expresiones con Will en Inglés: Usos Avanzados'
 date: '2026-03-21'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Expresiones fijas y frases idiomáticas con will en inglés: usos avanzados que van más allá de las reglas básicas. Aprende a hablar como un nativo con estas construcciones reales.
 category: gramatica
 alt: Persona aprendiendo expresiones con will en inglés
 readTime: 8 min
 keywords:
-  - Expresiones con Will en Inglés
+  - Expresiones con Will en Inglés: Usos Avanzados
   - expresiones con will ingles
   - ejercicios de inglés gratis
   - expresiones fijas con will en inglés

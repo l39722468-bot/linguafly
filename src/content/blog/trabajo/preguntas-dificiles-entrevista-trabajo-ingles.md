@@ -2,7 +2,7 @@
 title: 'Cómo Responder Preguntas Difíciles en una Entrevista en Inglés'
 date: '2026-02-22'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Aprende a responder con confianza las preguntas más complicadas y comprometidas
   en una entrevista de trabajo en inglés. Ejemplos de respuestas modelo,

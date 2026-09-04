@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 28 A1: Body Parts — have/has got y this/these (con soluciones)'
+title: 'Ejercicios de Partes del Cuerpo en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 28 del curso A1: have got / has got,
   this/these, head, arms, legs, hands, feet, face, reading, listening y writing.
   Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 28
+  - Ejercicios de Partes del Cuerpo en Inglés A1
   - ejercicios body parts
   - have got has got exercises
   - this these body parts

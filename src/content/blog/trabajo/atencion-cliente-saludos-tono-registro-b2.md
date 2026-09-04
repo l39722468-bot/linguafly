@@ -1,15 +1,15 @@
 ---
 category: trabajo
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Saludos, tono y registro en atención'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Saludos, Tono y Registro en Atención al Cliente'
 description: >-
   Cómo abrir y cerrar interacciones, modular formalidad y sonar profesional sin
   rígido: frases modelo para chat, email y mostrador en inglés de servicio.
 readTime: 22 min
 keywords:
-  - Saludos, tono y registro en atención
+  - Saludos, Tono y Registro en Atención al Cliente
   - registro formal inglés
   - inglés de negocios gratis
 alt: Profesionales en oficina de atención

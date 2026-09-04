@@ -1,15 +1,15 @@
 ---
-title: 'IELTS General Training'
+title: 'IELTS General Training: Guía, Formato y Preparación'
 date: '2026-02-26'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Todo sobre el IELTS General Training: diferencias con el Academic, cómo funciona el Reading y el Writing GT, qué países y visas lo aceptan, y plan de preparación según tu objetivo.
 category: examenes
 alt: Pasaporte y documentos de viaje para inmigración con IELTS General Training
 readTime: 7 min
 keywords:
-  - IELTS General Training
+  - IELTS General Training: Guía, Formato y Preparación
   - preparar ielts general training
   - preparar inglés gratis
   - material de inglés gratis

@@ -2,7 +2,7 @@
 category: metodos
 date: '2026-02-07'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 title: 'Inglés A1: Guía para Empezar desde Cero'
 description: >-
   ¿Quieres aprender inglés pero no sabes por dónde empezar? 

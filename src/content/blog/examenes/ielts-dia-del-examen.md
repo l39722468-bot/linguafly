@@ -1,15 +1,15 @@
 ---
-title: 'El Día del Examen IELTS: Qué Esperar'
+title: 'Día del Examen IELTS: Qué Llevar y Qué Esperar'
 date: '2026-03-04'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía práctica para el día del examen IELTS: documentación necesaria, qué pasa en cada parte, errores de logística que cuestan puntos y cómo gestionar los nervios el día D.
 category: examenes
 alt: Reloj de pulsera y bolígrafo sobre un escritorio el día del examen
 readTime: 6 min
 keywords:
-  - 'El Día del Examen IELTS: Qué Esperar'
+  - 'Día del Examen IELTS: Qué Llevar y Qué Esperar'
   - dia del examen ielts
   - preparar inglés gratis
   - qué llevar el día del examen IELTS

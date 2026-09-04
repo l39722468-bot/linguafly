@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Superar el Bloqueo Mental'
+title: 'Bloqueo Mental al Hablar Inglés: Cómo Superarlo'
 description: >-
   ¿Te quedas en blanco cuando hablas inglés? Aprende a superar el bloqueo
   mental, el miedo a hablar y la parálisis del perfeccionismo con técnicas
@@ -10,12 +10,12 @@ excerpt: >-
   causas reales y las estrategias más efectivas para superarlo y alcanzar la
   fluidez que buscas.
 keywords:
-  - Cómo Superar el Bloqueo Mental
+  - Bloqueo Mental al Hablar Inglés: Cómo Superarlo
   - bloqueo mental ingles
   - curso inglés gratis online
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: 'Por Qué Nos Bloqueamos al Hablar Inglés?'

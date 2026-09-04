@@ -1,8 +1,8 @@
 ---
-title: 'Negociación en Inglés: Estrategias'
+title: 'Negociación en Inglés: Estrategias para Acuerdos'
 date: '2026-01-30'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 excerpt: >-
   Negociar en inglés requiere algo más que vocabulario: requiere sutileza,
   persuasión y conocimiento cultural. Descubre cómo cerrar acuerdos ganadores
@@ -13,7 +13,7 @@ alt: Dos profesionales estrechando la mano tras una exitosa negociación comerci
 canonical: >-
   https://linguafly.app/blog/trabajo/negociacion-ingles-tecnicas-clave
 keywords:
-  - 'Negociación en Inglés: Estrategias'
+  - 'Negociación en Inglés: Estrategias para Acuerdos'
   - negociación en inglés
   - inglés de negocios gratis
 faqs:

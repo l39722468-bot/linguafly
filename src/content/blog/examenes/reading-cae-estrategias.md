@@ -1,10 +1,10 @@
 ---
-title: 'Reading CAE: Cómo Abordar Cada Parte'
+title: 'Reading CAE: Estrategias para Cada Parte'
 description: "Estrategias específicas para las partes 5, 6, 7 y 8 del Reading and Use of English del C1 Advanced. Aprende a gestionar el tiempo y a localizar la información clave en textos complejos."
 readTime: 8 min
 excerpt: "En el Reading del CAE el tiempo es el enemigo principal. Con la estrategia correcta para cada parte, puedes terminar con margen y obtener una puntuación que marque la diferencia."
 keywords:
-  - 'Reading CAE: Cómo Abordar Cada Parte'
+  - 'Reading CAE: Estrategias para Cada Parte'
   - como hacer reading cae
   - material de inglés gratis
   - estrategias Reading and Use of English CAE
@@ -12,9 +12,9 @@ keywords:
   - ejercicios gratis de Reading C1 con soluciones
   - cómo gestionar el tiempo en Reading CAE
   - trucos para False Not Given y gapped text CAE
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-07'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: examenes
 faqs:
   - question: "¿Cuántos textos hay en el Reading del CAE?"

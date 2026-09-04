@@ -1,5 +1,5 @@
 ---
-title: 'Follow-Up Email en Inglés: Cómo Hacer'
+title: 'Follow-Up Email en Inglés: Guía y Ejemplos'
 description: >-
   Aprende a escribir follow-up emails profesionales en inglés. Cuándo enviarlos,
   qué decir, cómo no parecer insistente y ejemplos para cada situación laboral.
@@ -9,12 +9,12 @@ excerpt: >-
   hacer un seguimiento en inglés de forma profesional puede marcar la diferencia
   entre cerrar un trato y que el correo muera en la bandeja de entrada.
 keywords:
-  - 'Follow-Up Email en Inglés: Cómo Hacer'
+  - 'Follow-Up Email en Inglés: Guía y Ejemplos'
   - follow up email ingles
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-12'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona revisando correos electrónicos en busca de respuesta, follow-up email en inglés
 category: trabajo
 faqs:

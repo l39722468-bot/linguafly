@@ -1,15 +1,15 @@
 ---
 category: viajes
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Inglés para mochileros en naturaleza'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Inglés para Mochileros: Naturaleza y Senderismo'
 description: >-
   Vocabulario y frases en inglés para mochileros en montaña, senderos, clima,
   equipo, rescate y convivencia en refugios o rutas multiculturales.
 readTime: 22 min
 keywords:
-  - Inglés para mochileros en naturaleza
+  - Inglés para Mochileros: Naturaleza y Senderismo
   - inglés naturaleza
   - frases en inglés gratis
 alt: Sendero de montaña con bosque

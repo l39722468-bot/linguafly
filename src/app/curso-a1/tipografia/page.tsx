@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { ArrowLeft, Type, Palette, AlignLeft, BookOpen, Zap, MessageSquare, Award, Tag } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Estructura Tipográfica — Curso A1 | Focus English',
+  title: 'Estructura Tipográfica — Curso A1 | Linguafly',
   description: 'Sistema tipográfico completo del Curso de Inglés A1. Guía de referencia para diseñadores y desarrolladores.',
 };
 
@@ -308,7 +308,7 @@ export default function TypographyGuidePage() {
               <div className="flex items-center gap-3 mb-2">
                 <span className="text-xs font-black tracking-widest text-coral-500 uppercase">Guía de Diseño</span>
                 <span className="text-xs font-bold text-slate-300">·</span>
-                <span className="text-xs font-bold text-slate-400">Curso A1 · Focus English</span>
+                <span className="text-xs font-bold text-slate-400">Curso A1 · Linguafly</span>
               </div>
               <h1 className="text-4xl md:text-5xl font-black tracking-tight text-slate-900 mb-3">
                 Estructura Tipográfica
@@ -636,7 +636,7 @@ export default function TypographyGuidePage() {
       <footer className="border-t border-slate-200 bg-white mt-12">
         <div className="max-w-6xl mx-auto px-6 py-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div>
-            <p className="text-xs font-black tracking-widest text-slate-400 uppercase">Focus English · Guía de Diseño</p>
+            <p className="text-xs font-black tracking-widest text-slate-400 uppercase">Linguafly · Guía de Diseño</p>
             <p className="text-xs text-slate-400 mt-0.5">Estructura Tipográfica v1.0 · Curso A1</p>
           </div>
           <Link

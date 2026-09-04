@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios de Verbos Modales'
+title: 'Ejercicios de Verbos Modales con Soluciones'
 description: >-
   Más de 50 ejercicios de verbos modales en inglés con soluciones. Practica Can,
   Could, Must, Should, May, Might y los Modales Perfectos con correcciones detalladas.
@@ -8,7 +8,7 @@ excerpt: >-
   ¿Quieres dominar los verbos modales en inglés con práctica real? Esta guía de
   ejercicios cubre todos los niveles, desde A2 hasta C1, con correcciones paso a paso.
 keywords:
-  - Ejercicios de Verbos Modales
+  - Ejercicios de Verbos Modales con Soluciones
   - verbos modales ingles ejercicios resueltos
   - gramática inglesa gratis
   - ejercicios de verbos modales ingleses con respuestas
@@ -16,9 +16,9 @@ keywords:
   - práctica de modales en inglés por niveles A2 C1
   - modales perfectos ejercicios resueltos en inglés
   - ficha gratuita de verbos modales para imprimir
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-04'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Bloque 1 — Ejercicios de Nivel A2/B1?'

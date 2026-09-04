@@ -1,5 +1,5 @@
 ---
-title: 'Wish e If Only en Inglés: Deseos'
+title: 'Wish e If Only en Inglés: Guía y Ejemplos'
 description: >-
   Aprende a usar wish e if only en inglés para expresar deseos sobre el
   presente, el pasado y el futuro. Diferencias entre wish + past simple,
@@ -10,7 +10,7 @@ excerpt: >-
   cosas muy distintas. Te explicamos las tres estructuras de wish e if only
   con ejemplos reales y cómo no confundirlas en exámenes.
 keywords:
-  - 'Wish e If Only en Inglés: Deseos'
+  - 'Wish e If Only en Inglés: Guía y Ejemplos'
   - wish ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -19,9 +19,9 @@ keywords:
   - diferencia entre wish e if only con ejemplos
   - expresar deseos y arrepentimientos en inglés
   - wish e if only para exámenes B2 C1
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-19'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona mirando hacia fuera expresando deseos con wish e if only en inglés
 category: gramatica
 faqs:

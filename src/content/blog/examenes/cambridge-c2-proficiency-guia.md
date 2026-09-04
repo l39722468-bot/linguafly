@@ -1,17 +1,17 @@
 ---
 category: examenes
 date: '2026-02-07'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 alt: "Estudiante de nivel C2 Proficiency logrando la maestría del idioma"
-title: 'Examen C2 Proficiency (CPE) 2026'
+title: 'C2 Proficiency (CPE): Guía y Plan para Aprobar'
 description: >-
   Guía de preparación para el examen C2 Proficiency (CPE) de Cambridge. Domina
   el inglés al más alto nivel académico y profesional con nuestros trucos y
   consejos.
 readTime: 4 min
 keywords:
-  - Examen C2 Proficiency (CPE)
+  - C2 Proficiency (CPE): Guía y Plan para Aprobar
   - ingles proficiency
   - material de inglés gratis
   - cómo preparar el Cambridge C2 Proficiency CPE

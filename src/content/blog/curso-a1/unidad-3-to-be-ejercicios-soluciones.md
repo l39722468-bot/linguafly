@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-17'
-updatedDate: '2026-08-17'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 3 A1: to be negativa y preguntas (con soluciones)'
+title: 'Ejercicios To Be en Negativa y Preguntas A1'
 description: >-
   Practica todos los ejercicios de la Unidad 3 del curso A1: am not / isn't / aren't,
   preguntas sí/no, emociones, reading de Laura, listening de Ben y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios de inglés A1 unidad 3 con soluciones
+  - Ejercicios To Be en Negativa y Preguntas A1
   - ejercicios verbo to be en negativa
   - isnt arent ejercicios con respuestas
   - ejercicios how are you en inglés

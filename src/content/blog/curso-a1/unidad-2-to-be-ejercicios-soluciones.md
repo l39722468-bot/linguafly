@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-17'
-updatedDate: '2026-08-17'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 2 A1: to be, países y nacionalidades (con soluciones)'
+title: 'Ejercicios del Verbo To Be A1 con Soluciones'
 description: >-
   Practica todos los ejercicios de la Unidad 2 del curso A1: is/are con he/she/it/we/they,
   países, nacionalidades, números, reading de Tom, listening de Anna y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios de inglés A1 unidad 2 con soluciones
+  - Ejercicios del Verbo To Be A1 con Soluciones
   - ejercicios verbo to be is are
   - ejercicios de países y nacionalidades en inglés
   - workbook A1 con soluciones comentadas

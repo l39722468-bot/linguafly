@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 43 A2: Holiday Activities (con soluciones)'
+title: 'Ejercicios de Actividades de Vacaciones en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 43 del curso A2: sightseeing, guided tour,
   Past Simple vs Present Perfect, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 43
+  - Ejercicios de Actividades de Vacaciones en Inglés A2
   - holiday activities ejercicios
   - sightseeing guided tour
   - past simple present perfect viaje

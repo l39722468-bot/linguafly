@@ -2,7 +2,7 @@
 title: 'Vocales del Inglés Americano: Pronunciación Clara'
 date: '2026-03-11'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Vocales del inglés americano: por qué son tan difíciles para hispanohablantes y cómo dominarlas. Guía con los 15 sonidos vocálicos del GA y ejercicios para entrenar el oído.
 excerpt: >-

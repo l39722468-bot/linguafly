@@ -1,15 +1,15 @@
 ---
 category: trabajo
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Reembolsos, garantías y SLA'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Inglés para Reembolsos, Garantías y SLA'
 description: >-
   Términos y frases en inglés para soporte: refunds, chargebacks, warranty,
   replacement, compensation y plazos sin prometer lo indebido.
 readTime: 22 min
 keywords:
-  - Reembolsos, garantías y SLA
+  - Inglés para Reembolsos, Garantías y SLA
   - SLA inglés customer service
   - inglés de negocios gratis
 alt: Documentos y calculadora sobre mesa de oficina

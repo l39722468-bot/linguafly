@@ -1,5 +1,5 @@
 ---
-title: 'Verbos Modales en Inglés Avanzados'
+title: 'Verbos Modales Avanzados en Inglés: Guía C1-C2'
 description: >-
   Guía avanzada de verbos modales en inglés para niveles C1 y C2. Aprende los
   matices de posibilidad, deducción, crítica y arrepentimiento con Modales
@@ -10,7 +10,7 @@ excerpt: >-
   inglés. Modales perfectos, semi-modales y cómo sonar como un hablante nativo en
   contextos C1/C2.
 keywords:
-  - Verbos Modales en Inglés Avanzados
+  - Verbos Modales Avanzados en Inglés: Guía C1-C2
   - verbos modales ingles avanzados
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -19,9 +19,9 @@ keywords:
   - modales perfectos para deducciones sobre el pasado
   - cómo expresar posibilidad y crítica en inglés
   - guía de modales ingleses para CAE y CPE
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿El Sistema de Certeza en Inglés?'

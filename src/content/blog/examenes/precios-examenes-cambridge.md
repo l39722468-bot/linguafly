@@ -2,7 +2,7 @@
 category: examenes
 date: '2026-03-02'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 title: 'Precios Exámenes Cambridge 2026: FCE, CAE'
 description: >-
   FCE desde 215€ · CAE desde 235€ · CPE desde 255€ · PET desde 145€.

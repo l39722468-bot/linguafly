@@ -2,7 +2,7 @@
 title: 'Inglés Australiano: Por Qué Suena Tan Distinto'
 date: '2026-03-11'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   El inglés australiano explicado: sistema de vocales único, vocabulario propio y características que lo hacen inconfundible. Guía práctica para entenderlo mejor.
 excerpt: >-

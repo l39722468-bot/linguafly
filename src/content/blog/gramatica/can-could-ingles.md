@@ -1,15 +1,15 @@
 ---
-title: 'Can y Could en Inglés: Todos los Usos'
+title: 'Can y Could en Inglés: Usos, Diferencias y Ejemplos'
 date: '2026-02-04'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía completa sobre can y could en inglés: habilidad, posibilidad, permiso y peticiones. Con ejemplos reales, errores frecuentes y cómo elegir entre los dos.
 category: gramatica
 alt: Persona aprendiendo can y could en inglés con ejemplos
 readTime: 7 min
 keywords:
-  - 'Can y Could en Inglés: Todos los Usos'
+  - 'Can y Could en Inglés: Usos, Diferencias y Ejemplos'
   - can could ingles
   - ejercicios de inglés gratis
   - diferencia entre can y could en inglés

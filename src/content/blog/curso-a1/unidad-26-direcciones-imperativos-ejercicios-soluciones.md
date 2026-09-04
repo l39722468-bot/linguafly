@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 26 A1: Giving Directions — imperativos (con soluciones)'
+title: 'Ejercicios de Direcciones e Imperativos en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 26 del curso A1: Turn left, Go
   straight, Past the…, on the left/right, reading, listening y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 26
+  - Ejercicios de Direcciones e Imperativos en Inglés A1
   - ejercicios giving directions
   - turn left go straight exercises
   - imperativos inglés A1

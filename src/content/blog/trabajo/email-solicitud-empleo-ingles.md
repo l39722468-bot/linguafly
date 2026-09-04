@@ -1,5 +1,5 @@
 ---
-title: 'Email de Solicitud de Empleo'
+title: 'Email de Solicitud de Empleo en Inglés: Plantilla'
 description: >-
   Aprende a escribir un email de solicitud de empleo en inglés que destaque.
   Estructura del cover email, frases clave, cómo adjuntar el CV y errores
@@ -10,12 +10,12 @@ excerpt: >-
   reclutador. Si suena genérico o tiene errores, el CV pasa a la papelera
   sin abrirse. Aquí tienes cómo hacerlo bien.
 keywords:
-  - Email de Solicitud de Empleo
+  - Email de Solicitud de Empleo en Inglés: Plantilla
   - email solicitud empleo ingles
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-21'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona enviando email de solicitud de empleo en inglés con su CV adjunto
 category: trabajo
 faqs:

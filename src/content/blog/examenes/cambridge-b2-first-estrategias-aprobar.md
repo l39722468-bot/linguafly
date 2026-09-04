@@ -1,8 +1,8 @@
 ---
-title: 'Cambridge B2 First (FCE) 2026: Cómo Aprobar'
+title: 'Cambridge B2 First (FCE): Guía y Plan para Aprobar'
 date: '2026-03-02'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía de preparación para el FCE 2026: trucos específicos para el Reading
   & Use of English, Writing con plantillas, Listening sin perder el hilo y
@@ -17,7 +17,7 @@ excerpt: >-
   no saben cómo funciona la corrección. Aquí están las estrategias parte por
   parte, los errores más frecuentes y un plan de 8 semanas para llegar preparado.
 keywords:
-  - 'Cambridge B2 First (FCE): Cómo Aprobar'
+  - 'Cambridge B2 First (FCE): Guía y Plan para Aprobar'
   - como aprobar b2 first
   - preparar inglés gratis
   - cómo aprobar Cambridge B2 First en 2026

@@ -1,5 +1,5 @@
 ---
-title: 'La Voz Pasiva en Inglés'
+title: 'Voz Pasiva en Inglés: Guía Completa y Ejemplos'
 readTime: 6 min
 excerpt: >-
   ¿Te cuesta entender cuándo y cómo usar la voz pasiva en inglés? En esta guía
@@ -7,7 +7,7 @@ excerpt: >-
   estructuras avanzadas como las pasivas impersonales y causativas, con ejemplos
   diseñados para exámenes oficiales.
 keywords:
-  - La Voz Pasiva en Inglés
+  - Voz Pasiva en Inglés: Guía Completa y Ejemplos
   - voz pasiva en ingles
   - gramática inglesa gratis
   - voz pasiva en inglés explicada con ejemplos
@@ -21,9 +21,9 @@ keywords:
   - pasivas impersonales y causativas en inglés
   - cómo convertir frases activas en pasivas
 date: '2026-03-02'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
-author: focus-english-team
+author: linguafly-team
 description: >-
   La voz pasiva en inglés: guía completa con todos los tiempos verbales, transformaciones de activa a pasiva, pasivas impersonales y causativas. Incluye ejemplos para exámenes oficiales.
 alt: Estudiante estudiando la voz pasiva en inglés con libros de gramática

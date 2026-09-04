@@ -1,8 +1,8 @@
 ---
-title: 'Inglés para Customer Service'
+title: 'Inglés para Customer Service: Teléfono y Chat'
 date: '2026-03-05'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Aprende inglés para atención al cliente en todos los canales: teléfono, chat
   en vivo y email. Frases para cada situación, gestión de reclamaciones y
@@ -13,7 +13,7 @@ canonical: >-
   https://linguafly.app/blog/trabajo/ingles-customer-service-telefono-chat
 readTime: 6 min
 keywords:
-  - Inglés para Customer Service
+  - Inglés para Customer Service: Teléfono y Chat
   - customer service ingles telefono
   - inglés de negocios gratis
 faqs:

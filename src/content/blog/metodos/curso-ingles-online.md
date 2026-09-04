@@ -1,15 +1,15 @@
 ---
-title: 'Los Mejores Cursos de Inglés Online en 2026'
+title: 'Mejores Cursos de Inglés Online 2026: Comparativa'
 date: '2026-03-20'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 excerpt: 'Comparativa 2026: Babbel, Preply, ABA, British Council y Coursera. Más el blog Linguafly (gratis) para guías y exámenes. Precios aproximados, niveles y tipos de certificado.'
 description: 'Guía de los mejores cursos de inglés online de pago en 2026, más recursos editoriales gratuitos del blog Linguafly. Comparativa de plataformas, precios, metodología y a quién le conviene cada uno.'
 category: metodos
 readTime: 10 min
 alt: 'Persona haciendo un curso de inglés online desde casa'
 keywords:
-  - Los Mejores Cursos de Inglés Online en
+  - Mejores Cursos de Inglés Online 2026: Comparativa
   - mejores cursos ingles online
   - curso inglés gratis online
 faqs:

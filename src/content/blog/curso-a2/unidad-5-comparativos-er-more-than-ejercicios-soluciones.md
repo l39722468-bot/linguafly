@@ -1,16 +1,16 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 5 A2: Comparativos (con soluciones)'
+title: 'Ejercicios de Comparativos en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 5 del curso A2: -er, more… than,
   better/worse, as… as, reading, listening y writing. Con soluciones
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 5
+  - Ejercicios de Comparativos en Inglés A2
   - ejercicios comparativos inglés
   - taller than more expensive
   - better worse as tall as

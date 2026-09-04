@@ -1,15 +1,15 @@
 ---
 category: metodos
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Australian English: schwa, ritmo'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Australian English: Schwa, Ritmo y Flapping'
 description: >-
   Guía práctica sobre reduced vowels, ritmo silábico y fenómenos consonánticos
   frecuentes en el inglés australiano, con ejercicios para hispanohablantes.
 readTime: 22 min
 keywords:
-  - 'Australian English: schwa, ritmo'
+  - 'Australian English: Schwa, Ritmo y Flapping'
   - australian english fonética
 alt: Ondas de sonido abstractas
 excerpt: >-

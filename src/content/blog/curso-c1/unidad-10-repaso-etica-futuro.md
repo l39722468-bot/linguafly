@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Repaso C1: ética, futuro y lenguaje formal"
+title: "Repaso Inglés C1: Ética, Futuro y Lenguaje Formal"
 description: >-
   Repasa distancing, estructuras impersonales y clefts avanzadas en inglés C1 con temas de ética, inteligencia artificial y futuro. Teoría y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - repaso inglés C1 ética futuro
+  - Repaso Inglés C1: Ética, Futuro y Lenguaje Formal
   - distancing language ejercicios C1
   - cleft sentences avanzadas práctica
   - inteligencia artificial vocabulario C1

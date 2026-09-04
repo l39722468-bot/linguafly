@@ -1,16 +1,16 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 6 A2: Superlativos (con soluciones)'
+title: 'Ejercicios de Superlativos en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 6 del curso A2: the … -est, the
   most, the best/worst, in/of, reading, listening y writing. Con soluciones
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 6
+  - Ejercicios de Superlativos en Inglés A2
   - ejercicios superlativos inglés
   - the tallest the most beautiful
   - the best the worst in of

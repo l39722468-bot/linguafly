@@ -18,7 +18,7 @@ keywords:
   - plantillas gratis de TOEFL Integrated Writing
   - ejercicios TOEFL Writing con respuestas
   - estructura del nuevo TOEFL Writing en 2026
-author: focus-english-team
+author: linguafly-team
 date: '2026-04-17'
 updatedDate: '2026-08-31'
 alt: Candidato realizando el TOEFL Writing en un ordenador de centro examinador

@@ -1,15 +1,15 @@
 ---
 category: trabajo
 date: '2026-03-02'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Vocabulario Inglés B1: Trabajo'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Vocabulario de Trabajo en Inglés B1: Guía'
 description: >-
   Lista de vocabulario esencial para el nivel B1 de inglés. Aprende las palabras
   y expresiones clave para el trabajo, viajar y situaciones sociales.
 readTime: 7 min
 keywords:
-  - 'Vocabulario Inglés B1: Trabajo'
+  - 'Vocabulario de Trabajo en Inglés B1: Guía'
   - vocabulario trabajo ingles b1
   - inglés de negocios gratis
 canonical: 'https://linguafly.app/blog/trabajo/vocabulario-b1-ingles-trabajo'

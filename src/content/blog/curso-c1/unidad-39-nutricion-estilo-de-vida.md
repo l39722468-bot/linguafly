@@ -1,16 +1,16 @@
 ---
 category: curso-c1
 date: '2026-09-13'
-updatedDate: '2026-09-13'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 39 C1: Nutrición y estilo de vida — evidencia y recomendación prudente"
+title: "Nutrición y Estilo de Vida en Inglés C1: Evidencia"
 description: >-
   En la Unidad 39 del curso de inglés C1 gratis aprenderás a presentar evidencia
   nutricional con prudencia, formular recomendaciones matizadas y distinguir
   consenso de controversia. Incluye 19 ejercicios inglés C1 gratis con soluciones.
 readTime: 40 min
 keywords:
-  - curso de inglés C1 gratis
+  - Nutrición y Estilo de Vida en Inglés C1: Evidencia
   - nutrición en inglés
   - evidence-based language C1
   - ejercicios inglés C1 gratis

@@ -22,7 +22,7 @@ keywords:
   - primer condicional para advertencias y negociaciones
   - estructura if will del first conditional
   - first conditional en conversaciones reales
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-07'
 updatedDate: '2026-08-31'
 alt: Persona estudiando el first conditional en inglés con ejemplos de conversación

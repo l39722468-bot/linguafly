@@ -1,8 +1,8 @@
 ---
-title: 'Inglés en la Cocina: Vocabulario'
+title: 'Inglés en la Cocina: Vocabulario y Frases'
 date: '2026-02-26'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Vocabulario culinario en inglés: utensilios, técnicas de cocina, ingredientes y cómo leer recetas anglosajonas. Imprescindible para trabajar en hostelería o cocinar en inglés.
 excerpt: >-
@@ -11,7 +11,7 @@ category: viajes
 readTime: 13 min
 alt: Cocina profesional con utensilios y alimentos preparados
 keywords:
-  - 'Inglés en la Cocina: Vocabulario'
+  - 'Inglés en la Cocina: Vocabulario y Frases'
   - ingles en la cocina
   - frases en inglés gratis
 faqs:

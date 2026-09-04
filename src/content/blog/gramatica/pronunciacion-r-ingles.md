@@ -1,5 +1,5 @@
 ---
-title: 'La R en Inglés: Por Qué No Funciona'
+title: 'Pronunciar la R en Inglés: Guía Americana y Británica'
 description: >-
   Aprende cómo se pronuncia la R en inglés americano y británico, por qué es
   tan diferente a la española y cómo entrenarla para sonar más natural. Con
@@ -10,7 +10,7 @@ excerpt: >-
   sonido completamente distinto que se produce de una manera que nunca has
   hecho antes en tu idioma. Aquí te explico exactamente cómo funciona.
 keywords:
-  - 'La R en Inglés: Por Qué No Funciona'
+  - 'Pronunciar la R en Inglés: Guía Americana y Británica'
   - pronunciación r inglés
   - ejercicios de inglés gratis
   - cómo pronunciar la r en inglés americano y británico
@@ -18,9 +18,9 @@ keywords:
   - diferencia entre la r española y la r inglesa
   - pronunciación de la r inglesa con IPA
   - cómo mejorar el sonido r en inglés para hispanohablantes
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-22'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿La R en inglés americano y en inglés británico se pronuncian igual?'

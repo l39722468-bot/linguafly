@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 33 A2: Gerunds & Infinitives (con soluciones)'
+title: 'Ejercicios de Gerundios e Infinitivos en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 33 del curso A2: like/love/hate + -ing y want/need/would like + to,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 33
+  - Ejercicios de Gerundios e Infinitivos en Inglés A2
   - gerundios e infinitivos ejercicios
   - like swimming want to go
   - would like to order

@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Ejercicios Unidad 31 A1: Can for Ability — can/can't (con soluciones)"
+title: 'Ejercicios de Can y Can’t para Habilidades en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 31 del curso A1: can/can't,
   swim, cook, drive, speak, reading, listening y writing. Con soluciones
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 31
+  - Ejercicios de Can y Can’t para Habilidades en Inglés A1
   - ejercicios can can't
   - can for ability exercises
   - can you swim

@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 30 A1: Module 3 Review — casa, barrio, cuerpo y ropa (con soluciones)'
+title: 'Repaso de Inglés A1: Módulo 3 con Ejercicios'
 description: >-
   Practica el repaso del Módulo 3 del curso A1: There is/are, preposiciones,
   have got, Present Continuous, imperativos, reading, listening y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 30
+  - Repaso de Inglés A1: Módulo 3 con Ejercicios
   - module 3 review exercises
   - repaso there is are A1
   - have got wearing directions

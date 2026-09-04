@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 15 A1: doesn’t y Does he/she…? (con soluciones)'
+title: 'Ejercicios de Does y Tercera Persona en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 15 del curso A1: doesn't, Does
   he/she/it…?, ortografía -s/-es/-ies, reading de Tom, listening sobre la
   hermana de Ben y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios de inglés A1 unidad 15 con soluciones
+  - Ejercicios de Does y Tercera Persona en Inglés A1
   - ejercicios doesn't present simple
   - does he she ejercicios con respuestas
   - yes he does y no she doesn't ejercicios

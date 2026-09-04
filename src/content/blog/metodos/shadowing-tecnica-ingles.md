@@ -1,5 +1,5 @@
 ---
-title: 'Shadowing en Inglés: La Técnica'
+title: 'Shadowing en Inglés: Guía Paso a Paso'
 description: >-
   Aprende a usar el shadowing para mejorar tu pronunciación en inglés de forma
   rápida y efectiva. Guía paso a paso con tipos de shadowing, materiales
@@ -10,16 +10,16 @@ excerpt: >-
   como si fueras su sombra. Es una de las técnicas más efectivas para mejorar
   la pronunciación, el ritmo y la fluidez en inglés. Así se hace bien.
 keywords:
-  - 'Shadowing en Inglés: La Técnica'
+  - 'Shadowing en Inglés: Guía Paso a Paso'
   - técnica shadowing inglés
   - cómo hacer shadowing en inglés gratis
   - ejercicios de shadowing para mejorar pronunciación
   - técnica shadowing para hablar inglés con fluidez
   - materiales gratuitos para practicar shadowing en inglés
   - shadowing en inglés para principiantes paso a paso
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-13'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Cuánto tiempo al día hay que hacer shadowing para ver resultados?'

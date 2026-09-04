@@ -14,7 +14,7 @@ keywords:
 date: '2024-02-03'
 updatedDate: '2026-08-31'
 category: metodos
-author: focus-english-team
+author: linguafly-team
 faqs:
   - question: '¿Cómo estudiar inglés si no tengo tiempo?'
     answer: >-

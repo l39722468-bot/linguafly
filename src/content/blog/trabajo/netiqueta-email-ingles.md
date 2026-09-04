@@ -1,5 +1,5 @@
 ---
-title: 'Netiqueta en Emails en Inglés: Lo'
+title: 'Netiqueta en Emails en Inglés: Guía Profesional'
 description: >-
   Las reglas no escritas de los emails profesionales en inglés. Qué hacer y
   qué evitar, cómo no sonar rudo sin querer y los errores de netiqueta que
@@ -10,12 +10,12 @@ excerpt: >-
   sin saberlo. La netiqueta del email profesional en inglés tiene sus propias
   reglas, y no siempre son obvias para los hablantes no nativos.
 keywords:
-  - 'Netiqueta en Emails en Inglés: Lo'
+  - 'Netiqueta en Emails en Inglés: Guía Profesional'
   - netiqueta email ingles profesional
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-02'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona revisando normas de etiqueta de email profesional en inglés en su escritorio
 category: trabajo
 faqs:

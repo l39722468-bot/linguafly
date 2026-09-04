@@ -13,7 +13,7 @@ export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: `Curso de inglés A2 gratis | ${SITE_BRAND_NAME}`,
-  description: "Consolida las bases de tu inglés con el curso A2 de LinguaFly. Amplía tu vocabulario, gramática práctica y conversación para hablar con confianza.",
+  description: "Consolida las bases de tu inglés con el curso A2 de Linguafly. Amplía tu vocabulario, gramática práctica y conversación para hablar con confianza.",
   alternates: {
     canonical: getAbsoluteUrl('/curso-a2'),
   },

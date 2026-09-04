@@ -1,5 +1,5 @@
 ---
-title: 'Acentos Regionales del Inglés'
+title: 'Acentos Regionales del Inglés Británico: Guía'
 description: >-
   Guía completa de los acentos regionales del inglés británico: Cockney, Scouse,
   Geordie, Yorkshire, West Midlands y más. Características fonéticas, vocabulario
@@ -10,16 +10,16 @@ excerpt: >-
   mundo angloparlante. Descubrir estos acentos no es solo curiosidad lingüística:
   es clave para entender el inglés real que se habla fuera de los libros de texto.
 keywords:
-  - Acentos Regionales del Inglés
+  - Acentos Regionales del Inglés Británico: Guía
   - acentos inglés británico regionales
   - principales acentos regionales del inglés británico
   - cómo entender Cockney Scouse y Geordie gratis
   - diferencias entre acentos ingleses del Reino Unido
   - escuchar acentos británicos para mejorar el listening
   - guía gratuita de pronunciación inglesa regional
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-03'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Cuál es el acento del inglés británico más difícil de entender para hispanohablantes?'

@@ -6,7 +6,7 @@ export function OrganizationSchema() {
     "@context": "https://schema.org",
     "@type": "EducationalOrganization",
     "name": SITE_BRAND_NAME,
-    "alternateName": ["Focus English", "Focus on English"],
+    "alternateName": ["Linguafly", "Linguafly English"],
     "url": siteUrl,
     "logo": getAbsoluteUrl('/logo.png'),
     "description": "Blog y cursos de inglés gratuitos para todos los niveles (A1-C2).",

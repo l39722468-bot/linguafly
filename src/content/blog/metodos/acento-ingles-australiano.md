@@ -1,5 +1,5 @@
 ---
-title: 'El Acento Australiano'
+title: 'Acento Australiano: Características y Cómo Entenderlo'
 description: >-
   Guía completa del inglés australiano: sus tres variantes (Broad, General y
   Cultivated), características fonéticas, vocabulario típico y estrategias para
@@ -11,16 +11,16 @@ excerpt: >-
   su entonación característica y su vocabulario propio lo hacen inconfundible,
   y entenderlo es más fácil de lo que parece.
 keywords:
-  - El Acento Australiano
+  - Acento Australiano: Características y Cómo Entenderlo
   - acento australiano broad general cultivated
   - cómo entender el acento australiano en inglés
   - diferencias entre inglés australiano británico y americano
   - pronunciación del inglés australiano gratis
   - tipos de acento australiano Broad General Cultivated
   - recursos gratuitos para escuchar inglés australiano
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-09'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Por qué el inglés australiano suena tan diferente al inglés americano o británico?'

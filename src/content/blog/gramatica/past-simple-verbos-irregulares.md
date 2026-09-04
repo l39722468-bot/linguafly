@@ -2,7 +2,7 @@
 title: 'Verbos Irregulares en Inglés: Lista Completa'
 date: '2026-02-19'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Verbos irregulares en inglés para el Past Simple: lista completa con patrones y ejercicios. Aprende a identificar grupos de irregulares para memorizarlos de forma más eficaz.
 category: gramatica

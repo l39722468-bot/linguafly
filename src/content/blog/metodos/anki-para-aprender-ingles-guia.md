@@ -1,8 +1,8 @@
 ---
-title: 'Anki para Aprender Inglés'
+title: 'Anki para Aprender Inglés: Guía de Repetición Espaciada'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía completa de Anki para aprender inglés en 2026: instalación, configuración, creación de tarjetas, mejores mazos gratuitos y cómo aprovechar la repetición espaciada para memorizar vocabulario definitivamente.
 excerpt: >-
@@ -11,7 +11,7 @@ category: metodos
 readTime: 12 min
 alt: Tarjetas de vocabulario en inglés sobre una mesa de estudio
 keywords:
-  - Anki para Aprender Inglés
+  - Anki para Aprender Inglés: Guía de Repetición Espaciada
   - mazos anki inglés
   - cómo usar Anki para aprender inglés gratis
   - mejores mazos gratuitos de Anki para inglés

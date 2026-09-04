@@ -13,7 +13,7 @@ keywords:
   - 'Inglés en Vuelos: Retrasos, Conexiones y Problemas'
   - ingles problemas aeropuerto
   - frases en inglés gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-04-18'
 updatedDate: '2026-08-31'
 alt: Viajero en mostrador del aeropuerto gestionando un vuelo retrasado

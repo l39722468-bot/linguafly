@@ -1,15 +1,15 @@
 ---
 category: viajes
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Inglés para mochileros'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Inglés para Mochileros: Workaway y Voluntariado'
 description: >-
   Cómo preparar tu inglés para Workaway, Worldpackers y proyectos locales:
   presentación de habilidades, horarios, seguridad y comunicación profesional informal.
 readTime: 22 min
 keywords:
-  - Inglés para mochileros
+  - Inglés para Mochileros: Workaway y Voluntariado
   - aprender inglés para mochileros
   - frases en inglés gratis
   - inglés para viajar gratis

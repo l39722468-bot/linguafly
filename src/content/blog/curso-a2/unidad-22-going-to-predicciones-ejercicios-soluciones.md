@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 22 A2: Going to: predicciones (con soluciones)'
+title: 'Ejercicios de Going To para Predicciones en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 22 del curso A2: going to para predicciones con evidencia (*Look! It's going to…*),
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 22
+  - Ejercicios de Going To para Predicciones en Inglés A2
   - ejercicios going to predicciones
   - It's going to rain
   - predicciones con evidencia A2

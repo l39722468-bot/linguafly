@@ -1,5 +1,5 @@
 ---
-title: 'Errores Comunes con la Voz Pasiva'
+title: 'Errores de la Voz Pasiva en Inglés: Cómo Evitarlos'
 description: >-
   Descubre los errores más frecuentes al usar la voz pasiva en inglés: verbos
   intransitivos, participios incorrectos, tiempo verbal equivocado y más.
@@ -10,7 +10,7 @@ excerpt: >-
   mal formados, verbos que no admiten pasiva, el "by" mal puesto... Aquí están
   los más frecuentes y cómo corregirlos de una vez.
 keywords:
-  - Errores Comunes con la Voz Pasiva
+  - Errores de la Voz Pasiva en Inglés: Cómo Evitarlos
   - errores pasiva ingles
   - ejercicios de inglés gratis
   - errores frecuentes de la voz pasiva en inglés
@@ -18,9 +18,9 @@ keywords:
   - verbos que no se pueden usar en pasiva inglesa
   - ejercicios gratis de errores de voz pasiva
   - participios irregulares en la voz pasiva
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-01'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Cuaderno con errores de gramática corregidos en rojo, voz pasiva en inglés
 category: gramatica
 faqs:

@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-18'
-updatedDate: '2026-09-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 48 C1: Consolidación de problemas globales"
+title: "Problemas Globales en Inglés C1: Síntesis y Debate"
 description: >-
   En esta unidad del curso de inglés C1 gratis consolidas tu capacidad de síntesis interdisciplinar sobre problemas
   globales, integrando derechos humanos, migración, desarrollo, conflicto y clima en un discurso coherente y matizado.
@@ -11,7 +11,7 @@ description: >-
 readTime: 40 min
 keywords:
   [
-    curso de inglés C1 gratis,
+    Problemas Globales en Inglés C1: Síntesis y Debate,
     ejercicios inglés C1 gratis,
     síntesis interdisciplinar C1,
     problemas globales en inglés,

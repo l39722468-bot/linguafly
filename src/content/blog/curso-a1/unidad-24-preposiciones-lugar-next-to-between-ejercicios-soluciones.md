@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 24 A1: next to, between, in front of, opposite (con soluciones)'
+title: 'Ejercicios de Preposiciones de Lugar en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 24 del curso A1: next to, between,
   in front of, opposite, There is/are, reading del barrio, listening y writing.
   Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 24
+  - Ejercicios de Preposiciones de Lugar en Inglés A1
   - ejercicios next to between
   - in front of opposite
   - preposiciones de lugar A1

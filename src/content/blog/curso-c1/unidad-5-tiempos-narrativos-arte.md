@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Tiempos narrativos y nominalisation C1"
+title: "Tiempos Narrativos y Nominalisation C1: Guía y Ejercicios"
 description: >-
   Domina los tiempos narrativos y la nominalisation en inglés C1 con ejemplos de arte, cine y cultura. Incluye teoría, vocabulario y ejercicios con soluciones.
 readTime: 38 min
 keywords:
-  - narrative tenses inglés C1
+  - Tiempos Narrativos y Nominalisation C1: Guía y Ejercicios
   - nominalisation ejercicios C1
   - past perfect continuous inglés avanzado
   - vocabulario arte y cultura inglés

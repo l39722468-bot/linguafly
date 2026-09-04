@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 58 A1: Salud — should / shouldn''t (con soluciones)'
+title: 'Ejercicios de Salud y Should en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 58 del curso A1: should / shouldn't,
   headache, fever, cold, medicine, pharmacy, doctor, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 58
+  - Ejercicios de Salud y Should en Inglés A1
   - ejercicios should shouldn't salud
   - headache fever cold A1
   - medicine pharmacy doctor

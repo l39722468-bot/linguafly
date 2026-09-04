@@ -1,15 +1,15 @@
 ---
-title: 'IELTS Speaking: Cómo Preparar las 3'
+title: 'IELTS Speaking: Cómo Preparar las 3 Partes'
 date: '2026-02-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía completa para el IELTS Speaking: qué evalúan en cada parte, cómo preparar el monólogo del Part 2, errores que bajan la nota y estrategias reales para subir de Band 6 a Band 7.
 category: examenes
 alt: Persona hablando con un examinador en una sala de examen
 readTime: 7 min
 keywords:
-  - 'IELTS Speaking: Cómo Preparar las 3'
+  - 'IELTS Speaking: Cómo Preparar las 3 Partes'
   - ielts speaking
   - preparar inglés gratis
   - cómo preparar las tres partes del IELTS Speaking

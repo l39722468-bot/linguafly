@@ -1,15 +1,15 @@
 ---
-title: 'Vocabulario Académico para el IELTS'
+title: 'Vocabulario Académico para IELTS: Guía Band 7'
 date: '2026-02-20'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   El vocabulario académico que necesitas para el IELTS: Academic Word List, colocaciones frecuentes por tema, palabras que confunden a los candidatos y métodos de aprendizaje que realmente funcionan.
 category: examenes
 alt: Libreta con vocabulario en inglés para preparar el IELTS
 readTime: 7 min
 keywords:
-  - Vocabulario Académico para el IELTS
+  - Vocabulario Académico para IELTS: Guía Band 7
   - vocabulario ielts
   - preparar inglés gratis
   - material de inglés gratis

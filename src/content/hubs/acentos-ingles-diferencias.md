@@ -7,7 +7,7 @@ description: "Guía de los principales acentos del inglés en 2026: característ
 
 En el mundo interconectado de 2026, el "inglés estándar" es casi un mito. Con más de 1.500 millones de hablantes en todo el planeta, el inglés se manifiesta en una sinfonía de acentos, ritmos y vocabularios locales. Entender estas diferencias no es solo una curiosidad académica; es una necesidad profesional y social.
 
-En esta guía de **Focus English**, desglosamos los principales acentos del mundo angloparlante para que nunca más te quedes con cara de duda cuando alguien te hable.
+En esta guía de **Linguafly**, desglosamos los principales acentos del mundo angloparlante para que nunca más te quedes con cara de duda cuando alguien te hable.
 
 ---
 

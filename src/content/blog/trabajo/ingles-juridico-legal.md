@@ -1,8 +1,8 @@
 ---
-title: 'Inglés Jurídico y Legal: Vocabulario'
+title: 'Inglés Jurídico y Legal: Vocabulario Profesional'
 date: '2026-02-16'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 excerpt: >-
   Domina el inglés jurídico con el vocabulario legal esencial, frases para
   contratos, negociaciones y correspondencia formal. Una guía práctica para
@@ -11,7 +11,7 @@ category: trabajo
 readTime: 18 min
 alt: Documentos legales y mazo de juez sobre un escritorio de abogado
 keywords:
-  - 'Inglés Jurídico y Legal: Vocabulario'
+  - 'Inglés Jurídico y Legal: Vocabulario Profesional'
   - ingles juridico legal
 faqs:
   - question: ¿Qué diferencia hay entre "law" y "legislation"?

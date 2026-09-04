@@ -1,14 +1,14 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Second conditional B1: if + past, would"
+title: "Second Conditional B1: If + Past y Would"
 description: >-
   Aprende el second conditional en inglés B1 (if + past, would) para situaciones hipotéticas. Guía Unidad 12 con vocabulario y audios.
 readTime: 18 min
 keywords:
-  - second conditional B1
+  - Second Conditional B1: If + Past y Would
   - if I had I would
   - if I were you
   - hypothetical English

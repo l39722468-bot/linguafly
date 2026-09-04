@@ -8,7 +8,7 @@ description: >-
 # CV en Inglés: Guía y Ejemplos
 
 
-En esta guía de **Focus English**, te enseñamos a transformar tu trayectoria en un documento que atraiga la atención de los reclutadores internacionales.
+En esta guía de **Linguafly**, te enseñamos a transformar tu trayectoria en un documento que atraiga la atención de los reclutadores internacionales.
 
 ---
 

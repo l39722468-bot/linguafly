@@ -1,5 +1,5 @@
 ---
-title: 'Vocales Cortas y Largas en Inglés'
+title: 'Vocales Cortas y Largas en Inglés: Pronunciación'
 description: >-
   Aprende a distinguir y pronunciar las vocales cortas y largas del inglés con
   ejemplos IPA, comparativas con el español y ejercicios prácticos.
@@ -9,7 +9,7 @@ excerpt: >-
   completo el significado de una palabra. Aquí tienes la guía práctica para
   dominar las vocales cortas y largas sin confundirte.
 keywords:
-  - Vocales Cortas y Largas en Inglés
+  - Vocales Cortas y Largas en Inglés: Pronunciación
   - vocales cortas inglés
   - ejercicios de inglés gratis
   - diferencia entre vocales cortas y largas en inglés
@@ -17,9 +17,9 @@ keywords:
   - pares mínimos de vocales cortas y largas
   - cómo distinguir vocales largas y cortas al escuchar
   - pronunciación de vocales inglesas para hispanohablantes
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-08'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Cuántas vocales tiene el inglés en total?'

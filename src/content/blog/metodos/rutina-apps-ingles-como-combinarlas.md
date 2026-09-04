@@ -2,7 +2,7 @@
 title: 'Cómo Combinar Apps de Inglés: Rutina Semanal por Nivel'
 date: '2026-03-11'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Cómo combinar apps de inglés de forma inteligente: rutinas semanales para A1, B1 y C1, qué app usar para cada habilidad y cómo medir tu progreso real en 2026.
 excerpt: >-

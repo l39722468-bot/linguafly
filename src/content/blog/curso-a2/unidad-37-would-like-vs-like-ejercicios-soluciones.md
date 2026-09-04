@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 37 A2: Would like vs Like (con soluciones)'
+title: 'Ejercicios de Would Like y Like en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 37 del curso A2: I like vs I'd like / Would you like,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 37
+  - Ejercicios de Would Like y Like en Inglés A2
   - would like vs like ejercicios
   - I'd like would you like
   - pedir en inglés restaurante

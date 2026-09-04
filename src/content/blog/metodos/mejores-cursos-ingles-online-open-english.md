@@ -1,15 +1,15 @@
 ---
-title: 'Open English 2026: LATAM y exámenes'
+title: 'Open English 2026: Opiniones, Precios y Exámenes'
 date: '2026-04-15'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 excerpt: 'Open English: clases en vivo y foco hispanohablante. Precios orientativos, límites para IELTS/Cambridge y qué combinar si necesitas certificación oficial.'
 description: 'Review Open English como curso de inglés online: metodología, fortalezas regionales, preparación para exámenes oficiales y enlaces al hub comparativo.'
 category: metodos
 readTime: 8 min
 alt: 'Estudiante hispano en clase de inglés online'
 keywords:
-  - 'Open English: LATAM y exámenes'
+  - 'Open English 2026: Opiniones, Precios y Exámenes'
   - open english opinion
   - opinión de Open English para aprender inglés
   - Open English prepara para IELTS y TOEFL

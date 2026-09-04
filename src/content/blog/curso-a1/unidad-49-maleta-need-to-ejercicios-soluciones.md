@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-21'
-updatedDate: '2026-08-21'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 49 A1: Packing — need to / don''t need to (con soluciones)'
+title: 'Ejercicios de Need To y Equipaje en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 49 del curso A1: need to, don't
   need to, suitcase, clothes, toiletries, essential items, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 49
+  - Ejercicios de Need To y Equipaje en Inglés A1
   - ejercicios need to packing
   - don't need to suitcase A1
   - toiletries essential items

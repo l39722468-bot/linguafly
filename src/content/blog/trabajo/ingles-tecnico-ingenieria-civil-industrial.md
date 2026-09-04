@@ -1,8 +1,8 @@
 ---
-title: 'Inglés Técnico para Ingeniería Civil'
+title: 'Inglés Técnico para Ingeniería Civil e Industrial'
 date: '2026-03-04'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía de inglés técnico para ingenieros civiles e industriales. Vocabulario de
   construcción, gestión de proyectos, safety regulations y comunicación con
@@ -13,7 +13,7 @@ canonical: >-
   https://linguafly.app/blog/trabajo/ingles-tecnico-ingenieria-civil-industrial
 readTime: 5 min
 keywords:
-  - Inglés Técnico para Ingeniería Civil
+  - Inglés Técnico para Ingeniería Civil e Industrial
   - ingles ingenieria civil
   - inglés de negocios gratis
 faqs:

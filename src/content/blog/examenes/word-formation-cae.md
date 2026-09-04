@@ -1,10 +1,10 @@
 ---
-title: 'Word Formation CAE: Prefijos, Sufijos'
+title: 'Word Formation CAE: Prefijos, Sufijos y Ejercicios'
 description: "Aprende a resolver la formación de palabras del CAE con seguridad: los prefijos negativos más frecuentes, los sufijos para cada categoría gramatical y los patrones de transformación que más aparecen en el examen."
 readTime: 8 min
 excerpt: "La Parte 3 del Use of English no requiere suerte ni intuición: requiere conocer los patrones de formación de palabras en inglés. Una vez que los interiorizas, esta parte pasa de ser temida a ser una de las más seguras."
 keywords:
-  - 'Word Formation CAE: Prefijos, Sufijos'
+  - 'Word Formation CAE: Prefijos, Sufijos y Ejercicios'
   - word formation cae
   - material de inglés gratis
   - ejercicios Word Formation CAE con respuestas
@@ -12,9 +12,9 @@ keywords:
   - cómo hacer Word Formation del CAE
   - lista de sufijos para el examen CAE
   - trucos Parte 3 Use of English C1
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-15'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: examenes
 faqs:
   - question: "¿Qué categorías gramaticales aparecen en el word formation del CAE?"

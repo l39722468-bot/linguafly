@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-24'
-updatedDate: '2026-09-24'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 54 C1: Consolidación de medios"
+title: "Consolidación de Medios en Inglés C1: Guía y Ejercicios"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a sintetizar los temas mediáticos tratados en unidades
   anteriores, a integrar argumentos sobre medios tradicionales, desinformación, privacidad, IA y éttica periodística,
@@ -13,7 +13,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    consolidación medios inglés C1,
+    Consolidación de Medios en Inglés C1: Guía y Ejercicios,
     síntesis argumentativa C1,
     ecosistema mediático inglés,
     integración temática C1,

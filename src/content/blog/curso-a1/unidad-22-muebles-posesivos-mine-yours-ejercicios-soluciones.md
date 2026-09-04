@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 22 A1: muebles y mine/yours (con soluciones)'
+title: 'Ejercicios de Muebles y Posesivos en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 22 del curso A1: furniture, mine,
   yours, his, hers, Whose…?, reading, listening y writing. Con soluciones
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 22
+  - Ejercicios de Muebles y Posesivos en Inglés A1
   - ejercicios mine yours
   - furniture vocabulary exercises
   - whose is this

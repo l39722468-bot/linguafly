@@ -1,15 +1,15 @@
 ---
-title: 'Preguntas con Will en Inglés: Cómo'
+title: 'Preguntas con Will en Inglés: Cómo Formarlas'
 date: '2026-03-21'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Preguntas con will en inglés: cómo formarlas, cuándo usarlas y sus usos más frecuentes en conversación. Guía práctica con ejemplos y los errores más comunes a evitar.
 category: gramatica
 alt: Estudiante practicando preguntas con will en inglés
 readTime: 7 min
 keywords:
-  - 'Preguntas con Will en Inglés: Cómo'
+  - 'Preguntas con Will en Inglés: Cómo Formarlas'
   - preguntas con will ingles
   - ejercicios de inglés gratis
   - cómo formar preguntas con will en inglés

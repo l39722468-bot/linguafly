@@ -1,5 +1,5 @@
 ---
-title: 'Emails para Reuniones en Inglés'
+title: 'Emails para Reuniones en Inglés: Plantillas'
 description: >-
   Aprende a gestionar reuniones por email en inglés. Cómo convocar una meeting,
   confirmar asistencia, proponer cambios de horario y cancelar con cortesía
@@ -10,11 +10,11 @@ excerpt: >-
   cancelar con poca antelación o reorganizar horarios con gente de tres países.
   Aquí tienes las fórmulas que funcionan.
 keywords:
-  - Emails para Reuniones en Inglés
+  - Emails para Reuniones en Inglés: Plantillas
   - meeting request email ingles trabajo
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-24'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Calendario de reuniones en inglés en pantalla de ordenador para gestión profesional
 category: trabajo
 faqs:

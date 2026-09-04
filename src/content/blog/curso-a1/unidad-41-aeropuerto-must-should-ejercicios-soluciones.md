@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-21'
-updatedDate: '2026-08-21'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 41 A1: At the Airport — must / should (con soluciones)'
+title: 'Ejercicios de Inglés para el Aeropuerto A1'
 description: >-
   Practica todos los ejercicios de la Unidad 41 del curso A1: must y should en
   el aeropuerto, passport, check-in, boarding pass, gate, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 41
+  - Ejercicios de Inglés para el Aeropuerto A1
   - ejercicios must should aeropuerto
   - passport boarding pass check-in
   - at the airport A1

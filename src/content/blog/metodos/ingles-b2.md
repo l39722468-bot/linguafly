@@ -1,16 +1,16 @@
 ---
 category: metodos
 date: '2026-02-07'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Curso de Inglés B2: Prepárate'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Curso de Inglés B2: Guía y Preparación FCE'
 description: >-
   Alcanza la fluidez necesaria para trabajar y estudiar en el extranjero con
   nuestro curso B2. Prepárate para el First Certificate (FCE) y mejora tu perfil
   profesional.
 readTime: 5 min
 keywords:
-  - 'Curso de Inglés B2: Prepárate'
+  - 'Curso de Inglés B2: Guía y Preparación FCE'
   - curso inglés b2
   - curso de inglés B2 gratis online
   - cómo alcanzar el nivel B2 de inglés desde B1

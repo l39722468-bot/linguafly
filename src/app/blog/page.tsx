@@ -15,7 +15,7 @@ export const dynamic = "force-static";
 
 export const metadata: Metadata = {
   title: `Blog de Inglés 2026: Guías Trabajo, Viajes y Exámenes | ${SITE_BRAND_NAME}`,
-  description: "Explora el blog de LinguaFly: artículos sobre gramática, vocabulario en inglés profesional, preparación de exámenes oficiales y consejos de estudio.",
+  description: "Explora el blog de Linguafly: artículos sobre gramática, vocabulario en inglés profesional, preparación de exámenes oficiales y consejos de estudio.",
   keywords: [
     "blog inglés",
     "aprender inglés",

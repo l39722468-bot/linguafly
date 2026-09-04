@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 38 A1: Pedir permiso — Can I…? May I…? (con soluciones)'
+title: 'Ejercicios para Pedir Permiso en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 38 del curso A1: Can I…?, May I…?,
   please, of course, reading de permiso, listening en clase y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 38
+  - Ejercicios para Pedir Permiso en Inglés A1
   - ejercicios Can I May I
   - pedir permiso inglés A1
   - please of course excuse me

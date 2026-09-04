@@ -1,8 +1,8 @@
 ---
-title: 'Job Interview English: Técnicas'
+title: 'Job Interview English: Técnicas Avanzadas'
 date: '2026-02-25'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Lleva tus entrevistas en inglés al siguiente nivel con técnicas avanzadas de
   comunicación. Storytelling profesional, manejo de silencios, lenguaje corporal
@@ -13,7 +13,7 @@ canonical: >-
   https://linguafly.app/blog/trabajo/job-interview-english-consejos-avanzados
 readTime: 5 min
 keywords:
-  - 'Job Interview English: Técnicas'
+  - 'Job Interview English: Técnicas Avanzadas'
   - job interview english
   - inglés de negocios gratis
 faqs:

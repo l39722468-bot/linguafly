@@ -18,7 +18,7 @@ keywords:
   - ejercicios gratis de condicionales en contexto
   - cómo usar if clauses al hablar inglés
   - ejemplos de condicionales para conversaciones reales
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-22'
 updatedDate: '2026-08-31'
 alt: Dos personas conversando en inglés usando condicionales de forma natural

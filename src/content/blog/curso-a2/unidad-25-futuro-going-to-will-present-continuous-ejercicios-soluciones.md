@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 25 A2: Contraste futuros (con soluciones)'
+title: 'Ejercicios de Futuros en Inglés A2: Will y Going To'
 description: >-
   Practica todos los ejercicios de la Unidad 25 del curso A2: elegir entre going to, will y Present Continuous futuro,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 25
+  - Ejercicios de Futuros en Inglés A2: Will y Going To
   - ejercicios going to will present continuous
   - contraste futuros A2
   - will vs going to

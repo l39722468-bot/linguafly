@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Negociar el Salario en Inglés'
+title: 'Cómo Negociar el Salario en Inglés: Frases y Guía'
 description: >-
   Aprende a negociar tu salario en inglés con confianza. Cuándo y cómo
   plantear la negociación, qué frases usar, cómo responder a la pregunta
@@ -10,11 +10,11 @@ excerpt: >-
   que acepten menos de lo que merecen. Aquí tienes las frases exactas y la
   estrategia para negociar sin tensión y con más posibilidades de éxito.
 keywords:
-  - Cómo Negociar el Salario en Inglés
+  - Cómo Negociar el Salario en Inglés: Frases y Guía
   - negociar salario ingles
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-14'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Profesional negociando salario en inglés en reunión de trabajo con documentos
 category: trabajo
 faqs:

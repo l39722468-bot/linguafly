@@ -1,10 +1,10 @@
 ---
-title: 'Collocations en Inglés C1'
+title: 'Collocations en Inglés C1: Lista y Ejemplos para CAE'
 description: "Guía práctica de collocations de nivel C1 para el CAE: las combinaciones verbo-sustantivo, adjetivo-sustantivo y adverbio-adjetivo más frecuentes en el examen y cómo aprenderlas eficazmente."
 readTime: 8 min
 excerpt: "Las collocations son las combinaciones de palabras que los hablantes nativos usan de manera automática. En el CAE, elegir la combinación incorrecta delata un nivel inferior aunque tu gramática sea perfecta."
 keywords:
-  - Collocations en Inglés C1
+  - Collocations en Inglés C1: Lista y Ejemplos para CAE
   - aprender collocations ingles
   - preparar inglés gratis
   - collocations C1 Advanced para el CAE
@@ -12,9 +12,9 @@ keywords:
   - ejercicios de collocations nivel C1
   - verbos y sustantivos collocations Cambridge
   - cómo aprender collocations para el examen
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-21'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: examenes
 faqs:
   - question: "¿Qué es exactamente una collocation en inglés?"

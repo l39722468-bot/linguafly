@@ -19,7 +19,7 @@ keywords:
   - práctica gratis de condicionales para Cambridge Advanced
   - estructuras condicionales formales nivel C1
   - condicionales C1 ejercicios PDF e IELTS
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-28'
 updatedDate: '2026-08-31'
 alt: Estudiante avanzado trabajando en ejercicios de condicionales C1 en inglés

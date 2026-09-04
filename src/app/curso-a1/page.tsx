@@ -13,7 +13,7 @@ export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: `Curso de inglés A1 gratis | ${SITE_BRAND_NAME}`,
-  description: "Aprende inglés desde cero con el curso A1 de LinguaFly. Domina la gramática básica, vocabulario inicial y expresiones cotidianas. ¡Empieza hoy gratis!",
+  description: "Aprende inglés desde cero con el curso A1 de Linguafly. Domina la gramática básica, vocabulario inicial y expresiones cotidianas. ¡Empieza hoy gratis!",
   alternates: {
     canonical: getAbsoluteUrl('/curso-a1'),
   },

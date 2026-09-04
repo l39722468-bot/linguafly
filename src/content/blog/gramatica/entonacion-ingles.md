@@ -1,5 +1,5 @@
 ---
-title: 'Entonación en Inglés: Cómo'
+title: 'Entonación en Inglés: Cómo Usarla con Naturalidad'
 description: >-
   Aprende los patrones de entonación del inglés y cómo afectan al significado,
   la actitud y la naturalidad. Entonación descendente, ascendente y sus usos
@@ -10,7 +10,7 @@ excerpt: >-
   suba o baje la voz al final. La entonación no es solo musicalidad: es
   gramática, actitud y significado. Aquí tienes los patrones clave.
 keywords:
-  - 'Entonación en Inglés: Cómo'
+  - 'Entonación en Inglés: Cómo Usarla con Naturalidad'
   - entonación inglés
   - ejercicios de inglés gratis
   - patrones de entonación inglesa con ejemplos
@@ -18,9 +18,9 @@ keywords:
   - entonación ascendente y descendente en inglés
   - cómo sonar menos monótono al hablar inglés
   - entonación inglesa para conversaciones y preguntas
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-07'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Es verdad que el inglés tiene menos variación tonal que otros idiomas?'

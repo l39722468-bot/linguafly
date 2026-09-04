@@ -2,7 +2,7 @@
 title: 'Inglés Escocés: Por Qué Suena Tan Distinto'
 date: '2026-03-11'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   El inglés escocés: sus características fonéticas únicas, vocabulario propio y por qué suena tan diferente. Guía práctica para entender el acento escocés en conversaciones reales.
 excerpt: >-

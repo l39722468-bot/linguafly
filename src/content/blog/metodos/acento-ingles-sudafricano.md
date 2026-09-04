@@ -14,7 +14,7 @@ keywords:
   - 'El Acento Sudafricano en Inglés: Guía Clara'
   - acento inglés sudafricano
   - curso inglés gratis online
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-21'
 updatedDate: '2026-08-31'
 category: metodos

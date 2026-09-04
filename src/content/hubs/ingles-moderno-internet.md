@@ -10,7 +10,7 @@ description: >-
 
 Internet no solo ha cambiado cómo nos comunicamos; ha cambiado el idioma inglés desde sus cimientos. En 2026, la distinción entre "inglés formal" e "inglés de internet" es cada vez más borrosa. Los acrónimos que antes eran solo para chats se usan ahora en correos electrónicos corporativos, y la estructura de las frases se ha vuelto más dinámica y visual.
 
-En esta guía de **Focus English**, exploramos el ecosistema del inglés digital para que te sientas como un nativo en cualquier rincón de la red.
+En esta guía de **Linguafly**, exploramos el ecosistema del inglés digital para que te sientas como un nativo en cualquier rincón de la red.
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: 'Becas y Solicitudes en Inglés: Cómo'
+title: 'Becas y Solicitudes en Inglés: Cómo Aplicar'
 date: '2026-03-04'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Aprende a solicitar becas y financiación universitaria en inglés: Personal Statement, carta de motivación, referencias y todo lo necesario para conseguir una beca internacional en 2026.
 excerpt: >-
@@ -11,7 +11,7 @@ category: examenes
 readTime: 16 min
 alt: Persona escribiendo una solicitud de beca frente a un ordenador portátil
 keywords:
-  - 'Becas y Solicitudes en Inglés: Cómo'
+  - 'Becas y Solicitudes en Inglés: Cómo Aplicar'
   - becas solicitudes ingles
   - preparar inglés gratis
   - cómo escribir Personal Statement en inglés

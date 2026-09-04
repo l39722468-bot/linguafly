@@ -20,7 +20,7 @@ keywords:
 date: '2026-03-02'
 updatedDate: '2026-08-31'
 category: metodos
-author: focus-english-team
+author: linguafly-team
 canonical: 'https://linguafly.app/blog/metodos/apps-ingles-gratuitas-vs-pago'
 faqs:
   - question: '¿Qué conviene más: apps gratis o de pago?'

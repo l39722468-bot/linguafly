@@ -1,5 +1,5 @@
 ---
-title: 'Ejercicios de Pronunciación'
+title: 'Pronunciación Irlandesa B2: Ejercicios y Ritmo'
 description: >-
   Rutina de pronunciación para estudiantes B2+: /r/ postvocálica, vocales del sistema irlandés,
   ritmo y entonación. Incluye minimal pairs, frases modelo y advertencias sobre respeto y registro.
@@ -7,16 +7,16 @@ readTime: 14 min
 excerpt: >-
   Imitar un acento no es teatro: es control articulatorio y conciencia fonética. Estos ejercicios te acercan a rasgos comunes del Hiberno-English sin convertirte en parodia.
 keywords:
-  - Ejercicios de Pronunciación
+  - Pronunciación Irlandesa B2: Ejercicios y Ritmo
   - ejercicios pronunciacion acento irlandes
   - ejercicios gratis de pronunciación del inglés irlandés
   - cómo practicar el acento irlandés en inglés
   - minimal pairs para pronunciación irlandesa B2
   - ejercicios de ritmo y entonación Hiberno English
   - pronunciación del inglés irlandés para hispanohablantes
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-29'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Estudiante practicando pronunciación frente al ordenador
 category: metodos
 faqs:

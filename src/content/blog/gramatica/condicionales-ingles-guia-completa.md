@@ -13,7 +13,7 @@ keywords:
   - condicionales en inglés B1 B2 explicados
   - diferencias entre los cuatro condicionales ingleses
   - guía gratuita de condicionales en inglés
-author: focus-english-team
+author: linguafly-team
 description: >-
   Condicionales en inglés: guía completa de los cuatro tipos (Zero, First, Second y Third Conditional) con ejemplos, diferencias y ejercicios. Esencial para B1-C1.
 date: '2026-03-02'

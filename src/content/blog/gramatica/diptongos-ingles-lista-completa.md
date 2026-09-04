@@ -1,5 +1,5 @@
 ---
-title: 'Diptongos en Inglés'
+title: 'Diptongos en Inglés: Lista Completa con Ejemplos'
 description: >-
   Aprende todos los diptongos del inglés con sus símbolos IPA, ejemplos prácticos
   y comparativas con el español. Incluye los diptongos más comunes y los que
@@ -10,7 +10,7 @@ excerpt: >-
   vocálicos que se funden en una sola sílaba. Aquí tienes la lista completa con
   explicaciones y ejemplos para que puedas pronunciarlos bien.
 keywords:
-  - Diptongos en Inglés
+  - Diptongos en Inglés: Lista Completa con Ejemplos
   - diptongos español inglés diferencias
   - ejercicios de inglés gratis
   - lista completa de diptongos en inglés con ejemplos
@@ -18,9 +18,9 @@ keywords:
   - símbolos IPA de los diptongos ingleses
   - diferencia entre diptongos del inglés y español
   - cómo pronunciar los ocho diptongos del inglés
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-14'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Los diptongos del inglés son iguales a los del español?'

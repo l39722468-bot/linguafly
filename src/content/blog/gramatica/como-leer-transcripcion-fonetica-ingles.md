@@ -1,8 +1,8 @@
 ---
-title: 'Cómo Leer la Transcripción Fonética'
+title: 'Cómo Leer la Transcripción Fonética en Inglés'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Cómo leer la transcripción fonética en inglés: guía práctica del IPA para entender símbolos como /ˈkʌmftəbl/. Aprende a usar el diccionario fonético con total seguridad.
 excerpt: >-
@@ -11,7 +11,7 @@ category: gramatica
 readTime: 8 min
 alt: Diccionario inglés con transcripción fonética IPA visible
 keywords:
-  - Cómo Leer la Transcripción Fonética
+  - Cómo Leer la Transcripción Fonética en Inglés
   - como leer transcripcion fonetica ingles
   - gramática inglesa gratis
   - cómo leer transcripciones fonéticas del inglés

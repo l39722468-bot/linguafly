@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 55 A1: Tienda de ropa — too / enough (con soluciones)'
+title: 'Ejercicios de Too y Enough en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 55 del curso A1: too big, big
   enough, size S M L XL, changing room, sale, reading, listening y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 55
+  - Ejercicios de Too y Enough en Inglés A1
   - ejercicios too enough
   - too big big enough A1
   - changing room size sale

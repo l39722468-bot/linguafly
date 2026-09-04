@@ -1,8 +1,8 @@
 ---
-title: 'Curso de Inglés para Viajar'
+title: 'Inglés para Viajar: Curso de Frases Esenciales'
 date: '2026-01-30'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Aprende el inglés esencial para viajar: frases para aeropuertos, hoteles, transporte y situaciones cotidianas. El curso práctico que necesitas antes de tu próximo viaje al extranjero.
 excerpt: >-
@@ -15,7 +15,7 @@ alt: >-
   Persona sentada en una roca mirando un mapa con el mar de fondo durante un
   viaje
 keywords:
-  - Curso de Inglés para Viajar
+  - Inglés para Viajar: Curso de Frases Esenciales
   - mejor curso de ingles para viajar
   - inglés para viajar gratis
   - frases en inglés gratis

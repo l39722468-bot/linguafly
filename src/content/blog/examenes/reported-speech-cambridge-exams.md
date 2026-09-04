@@ -1,15 +1,15 @@
 ---
 category: examenes
 date: '2026-03-02'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Reported Speech Cambridge Exams'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Reported Speech en Cambridge: B2, C1 y C2'
 description: >-
   Aprende a resolver ejercicios de Reported Speech en los exámenes de Cambridge
   First (B2), Advanced (C1) y Proficiency (C2). Guía de Key Word Transformation.
 readTime: 5 min
 keywords:
-  - Reported Speech Cambridge Exams
+  - Reported Speech en Cambridge: B2, C1 y C2
   - reported speech cambridge
   - preparar inglés gratis
   - ejercicios reported speech Cambridge B2 C1

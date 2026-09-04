@@ -12,7 +12,7 @@ keywords:
   - Cómo Practicar Speaking en Inglés Estando Solo
   - practicar speaking solo
   - practicar inglés gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-04-16'
 updatedDate: '2026-08-31'
 alt: Persona hablando en inglés delante de un espejo con el móvil grabando

@@ -1,6 +1,6 @@
 # English A1 Course Specifications
 
-This document outlines the pedagogical objectives, vocabulary, grammar, and reading comprehension goals for each unit of the Focus English A1 course. Each unit consists of **60 exercises** designed to ensure mastery of the specified topics.
+This document outlines the pedagogical objectives, vocabulary, grammar, and reading comprehension goals for each unit of the Linguafly A1 course. Each unit consists of **60 exercises** designed to ensure mastery of the specified topics.
 
 ## Pedagogical & Technical Guidelines
 

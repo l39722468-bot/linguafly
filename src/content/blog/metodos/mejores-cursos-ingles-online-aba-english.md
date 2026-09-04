@@ -2,7 +2,7 @@
 title: 'ABA English 2026: curso británico y exámenes'
 date: '2026-04-15'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 excerpt: 'ABA English: vídeos, rutas por niveles y certificados propios. Diferencia vs Cambridge/IELTS, acento UK y cuándo sumar tutor o material de examen.'
 description: 'Review ABA English en la serie mejores cursos de inglés online: niveles, inglés británico, preparación para certificaciones y comparativa con otras plataformas.'
 category: metodos

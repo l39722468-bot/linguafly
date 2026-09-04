@@ -1,5 +1,5 @@
 ---
-title: 'IELTS vs TOEFL: Cuál es mejor'
+title: 'IELTS vs TOEFL para Trabajar: Diferencias y Claves'
 description: >-
   Comparamos IELTS y TOEFL desde una perspectiva profesional y migratoria.
   Descubre qué examen valoran más las empresas y cuál necesitas para tu visado
@@ -10,12 +10,12 @@ excerpt: >-
   IELTS y TOEFL para profesionales y te ayudamos a elegir el certificado que
   impulsará tu carrera global.
 keywords:
-  - 'IELTS vs TOEFL: Cuál es mejor'
+  - 'IELTS vs TOEFL para Trabajar: Diferencias y Claves'
   - ielts o toefl profesional
 date: '2026-02-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: trabajo
-author: focus-english-team
+author: linguafly-team
 faqs:
   - question: ¿Qué examen es más reconocido por las empresas?
     answer: >-

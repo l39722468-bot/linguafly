@@ -2,7 +2,7 @@
 title: 'Inglés para Restaurantes y Bares en el Extranjero'
 date: '2026-04-17'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Aprende todas las frases y vocabulario en inglés que necesitas para pedir en restaurantes y bares durante tus viajes. Desde reservar mesa hasta entender la carta de cócteles.
 excerpt: >-

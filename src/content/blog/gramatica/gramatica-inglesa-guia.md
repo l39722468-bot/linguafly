@@ -1,9 +1,9 @@
 ---
 category: gramatica
 date: '2026-03-10'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Gramática Inglesa'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Gramática Inglesa: Guía Completa A1-C2'
 description: >-
   Guía maestra de gramática inglesa: tiempos verbales, phrasal verbs, condicionales,
   voz pasiva, reported speech, verbos modales y más. Organizada por nivel A1-C2
@@ -13,7 +13,7 @@ excerpt: >-
   A1 a C2. Elige tu nivel y profundiza en cada estructura con nuestras guías
   especializadas.
 keywords:
-  - Gramática Inglesa
+  - Gramática Inglesa: Guía Completa A1-C2
   - gramatica ingles por niveles
   - gramática inglesa gratis
   - guía completa de gramática inglesa A1 a C2

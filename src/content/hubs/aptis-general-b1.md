@@ -75,7 +75,7 @@ Para obtener el certificado B1, no necesitas ser un experto, pero sí demostrar 
 En 2026, existen muchísimos recursos para preparar Aptis por tu cuenta.
 *   **App Oficial de Aptis:** El British Council tiene apps con simulacros.
 *   **Canales de YouTube:** Busca "Aptis Speaking preparation" para ver ejemplos reales de exámenes.
-*   **Materiales de Focus English:** En nuestro blog, tenemos recursos específicos como "preparacion aptis online" y "puntuacion aptis".
+*   **Materiales de Linguafly:** En nuestro blog, tenemos recursos específicos como "preparacion aptis online" y "puntuacion aptis".
 
 ---
 

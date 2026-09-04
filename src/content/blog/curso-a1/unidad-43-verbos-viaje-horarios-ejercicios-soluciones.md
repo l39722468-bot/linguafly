@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-21'
-updatedDate: '2026-08-21'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 43 A1: Travel Verbs — leave, arrive, stay… (con soluciones)'
+title: 'Ejercicios de Verbos de Viaje en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 43 del curso A1: Present Simple de
   horarios, leave/arrive/depart, visit, stay, explore, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 43
+  - Ejercicios de Verbos de Viaje en Inglés A1
   - ejercicios travel verbs horarios
   - the train leaves arrives
   - visit stay explore A1

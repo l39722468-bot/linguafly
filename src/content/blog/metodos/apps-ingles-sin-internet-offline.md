@@ -2,7 +2,7 @@
 title: 'Apps de Inglés sin Internet: Las Mejores para Estudiar Offline'
 date: '2026-03-11'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Las mejores apps de inglés sin internet en 2026: cuáles funcionan offline de verdad, cuáles engañan y cómo configurarlas para estudiar en el metro, avión o sin cobertura.
 excerpt: >-

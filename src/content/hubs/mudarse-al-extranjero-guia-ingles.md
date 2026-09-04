@@ -7,7 +7,7 @@ description: "Todo lo que necesitas saber para vivir en un país de habla ingles
 
 Mudarse a un país de habla inglesa es una de las decisiones más valientes y gratificantes que puedes tomar. Sin embargo, una vez que la emoción inicial disminuye, te enfrentas a la realidad: alquilar un piso, abrir una cuenta bancaria, entender un contrato de trabajo y hacer nuevos amigos. En 2026, aunque la tecnología nos ayuda, la fluidez y el conocimiento del vocabulario específico siguen siendo las llaves que abren las puertas de tu nueva vida.
 
-En esta guía exhaustiva de **Focus English**, te acompañamos en cada paso de tu mudanza. Desde el momento en que aterrizas hasta que te sientes "como en casa", aquí tienes el vocabulario y los consejos esenciales para triunfar en tu nueva aventura internacional.
+En esta guía exhaustiva de **Linguafly**, te acompañamos en cada paso de tu mudanza. Desde el momento en que aterrizas hasta que te sientes "como en casa", aquí tienes el vocabulario y los consejos esenciales para triunfar en tu nueva aventura internacional.
 
 ---
 

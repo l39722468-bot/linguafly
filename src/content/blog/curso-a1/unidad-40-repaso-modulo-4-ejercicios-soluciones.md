@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 40 A1: Repaso Módulo 4 — Abilities & Interests (con soluciones)'
+title: 'Repaso de Inglés A1: Módulo 4 con Ejercicios'
 description: >-
   Practica el repaso del Módulo 4 A1: can, play/go/do, frecuencia, and/but/because,
   free time, instrumentos, skills, permiso y planes outdoor. Con soluciones
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 40
+  - Repaso de Inglés A1: Módulo 4 con Ejercicios
   - repaso módulo 4 A1
   - can play go do frecuencia
   - and but because permiso

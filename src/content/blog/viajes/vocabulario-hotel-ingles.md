@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Hoteles: Vocabulario'
+title: 'Inglés para Hoteles: Vocabulario y Frases Útiles'
 description: >-
   Guía completa de inglés para hoteles. Aprende a hacer el check-in y check-out,
   pedir servicios, resolver problemas y comunicarte con el personal del hotel en
@@ -8,12 +8,12 @@ readTime: 6 min
 excerpt: >-
   Guía de inglés para viajes: expresiones esenciales en recepción, cómo pedir servicios en el hotel y desenvolverte con soltura en tus vacaciones.
 keywords:
-  - 'Inglés para Hoteles: Vocabulario'
+  - 'Inglés para Hoteles: Vocabulario y Frases Útiles'
   - ingles para hoteles
   - frases en inglés gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-04'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: viajes
 faqs:
   - question: '¿Frases que usarás en el check-in?'

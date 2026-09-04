@@ -1,15 +1,15 @@
 ---
 category: metodos
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Australian slang: registro, contexto'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Australian Slang: Guía de Registro y Contexto'
 description: >-
   Guía sensata sobre coloquialismos australianos: cuándo usar, qué evitar en
   contextos profesionales y cómo combinar comprensión auditiva con producción prudente.
 readTime: 22 min
 keywords:
-  - 'Australian slang: registro, contexto'
+  - 'Australian Slang: Guía de Registro y Contexto'
   - australian slang inglés
   - curso inglés gratis online
 alt: Café urbano en Australia ambiente casual

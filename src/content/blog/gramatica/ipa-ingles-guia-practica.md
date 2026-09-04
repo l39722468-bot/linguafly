@@ -1,8 +1,8 @@
 ---
-title: 'IPA para Inglés: Cómo Usarlo'
+title: 'IPA para Inglés: Cómo Leer Símbolos y Mejorar'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Cómo usar el IPA (Alfabeto Fonético Internacional) para aprender inglés en el día a día: guía práctica para leer transcripciones fonéticas y mejorar tu pronunciación.
 excerpt: >-
@@ -11,7 +11,7 @@ category: gramatica
 readTime: 8 min
 alt: Cuadro fonético internacional del inglés en papel
 keywords:
-  - 'IPA para Inglés: Cómo Usarlo'
+  - 'IPA para Inglés: Cómo Leer Símbolos y Mejorar'
   - como usar IPA para aprender ingles
   - gramática inglesa gratis
   - cómo usar el IPA para mejorar la pronunciación inglesa

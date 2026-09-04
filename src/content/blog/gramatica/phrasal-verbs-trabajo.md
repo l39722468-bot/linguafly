@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs de Trabajo: 60 Verbos'
+title: 'Phrasal Verbs de Trabajo: 60 Verbos Profesionales'
 description: >-
   Domina los phrasal verbs más usados en el trabajo en inglés. 60 verbos
   frasales de negocios con ejemplos reales para reuniones, emails y el día a día
@@ -10,7 +10,7 @@ excerpt: >-
   Guía completa con 60 business phrasal verbs para reuniones, negociaciones,
   emails y situaciones de oficina.
 keywords:
-  - 'Phrasal Verbs de Trabajo: 60 Verbos'
+  - 'Phrasal Verbs de Trabajo: 60 Verbos Profesionales'
   - phrasal verbs trabajo
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -19,9 +19,9 @@ keywords:
   - ejercicios gratis de phrasal verbs profesionales
   - business phrasal verbs para oficina y negociaciones
   - vocabulario de phrasal verbs inglés para trabajar
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-06'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: 'Profesionales en reunión usando phrasal verbs de negocios en inglés'
 category: gramatica
 canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-trabajo'

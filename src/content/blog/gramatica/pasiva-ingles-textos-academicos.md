@@ -1,5 +1,5 @@
 ---
-title: 'Voz Pasiva en Inglés Académico: Cómo'
+title: 'Voz Pasiva en Inglés Académico: Guía y Ejemplos'
 description: >-
   Aprende a usar la voz pasiva correctamente en textos académicos en inglés.
   Estructuras clave, ejemplos de papers y ensayos, y los errores que hay que evitar.
@@ -9,7 +9,7 @@ excerpt: >-
   ensayos formales la usan constantemente para dar objetividad. Te mostramos
   cómo hacerlo bien.
 keywords:
-  - 'Voz Pasiva en Inglés Académico: Cómo'
+  - 'Voz Pasiva en Inglés Académico: Guía y Ejemplos'
   - pasiva ingles academico
   - ejercicios de inglés gratis
   - cómo usar la voz pasiva en textos académicos
@@ -17,9 +17,9 @@ keywords:
   - ejercicios gratis de pasiva académica inglesa
   - estructuras pasivas para escribir una tesis
   - cuándo usar la pasiva en inglés formal
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-23'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Investigadora escribiendo un paper académico en inglés con estructuras pasivas
 category: gramatica
 faqs:

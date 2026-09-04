@@ -4,7 +4,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Política de Privacidad",
   description:
-    "Política de privacidad y protección de datos personales de Focus English (RGPD).",
+    "Política de privacidad y protección de datos personales de Linguafly (RGPD).",
   robots: "index, follow",
 };
 
@@ -20,7 +20,7 @@ export default function PrivacidadPage() {
           </p>
           <div className="prose prose-slate max-w-none">
             <p className="text-slate-700 border-l-4 border-peach-500 pl-4 py-2 bg-slate-50 rounded-r">
-              Focus English se publica en <strong>fase de validación</strong>: aún no
+              Linguafly se publica en <strong>fase de validación</strong>: aún no
               existe sociedad mercantil constituida. El responsable del tratamiento es la{" "}
               <strong>persona física</strong> que gestiona el proyecto (en adelante,
               &quot;nosotros&quot; o &quot;el responsable&quot;), identificable y
@@ -37,7 +37,7 @@ export default function PrivacidadPage() {
               1. Responsable del tratamiento
             </h2>
             <p className="mb-4">
-              La denominación <strong>Focus English</strong> es el nombre del proyecto y
+              La denominación <strong>Linguafly</strong> es el nombre del proyecto y
               del servicio. El tratamiento de datos personales corresponde a la persona
               física titular del proyecto hasta que exista, en su caso, una razón social que
               lo asuma. El canal principal de contacto es{" "}

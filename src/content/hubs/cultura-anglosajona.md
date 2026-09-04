@@ -7,7 +7,7 @@ description: "Entiende las normas sociales, la etiqueta y los códigos culturale
 
 Hablar inglés es solo el 50% de la comunicación. El otro 50% es entender el contexto cultural en el que se habla. Muchos estudiantes de inglés se frustran porque, a pesar de tener un buen nivel gramatical, sienten que no conectan con los nativos o que sus interacciones son algo "frías" o, por el contrario, demasiado "bruscas". La clave suele estar en la **Cultura Anglosajona**.
 
-En esta guía de **Focus English**, exploramos los códigos invisibles que rigen el comportamiento en países como el Reino Unido, Estados Unidos, Canadá y Australia en 2026.
+En esta guía de **Linguafly**, exploramos los códigos invisibles que rigen el comportamiento en países como el Reino Unido, Estados Unidos, Canadá y Australia en 2026.
 
 ---
 

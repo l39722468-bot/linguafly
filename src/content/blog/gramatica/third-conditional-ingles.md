@@ -1,5 +1,5 @@
 ---
-title: 'Third Conditional en Inglés'
+title: 'Third Conditional en Inglés: Guía y Ejemplos'
 description: >-
   Aprende el tercer condicional en inglés con ejemplos reales. Cómo expresar
   arrepentimientos, situaciones pasadas que no ocurrieron y errores frecuentes
@@ -10,7 +10,7 @@ excerpt: >-
   a construirlo sin errores, usarlo en conversaciones reales y diferenciarlo
   del segundo condicional.
 keywords:
-  - Third Conditional en Inglés
+  - Third Conditional en Inglés: Guía y Ejemplos
   - third conditional ingles
   - ejercicios de inglés gratis
   - third conditional en inglés con ejemplos
@@ -23,9 +23,9 @@ keywords:
   - third conditional para arrepentimientos en inglés
   - cómo diferenciar second y third conditional
   - tercer condicional para exámenes B2 C1
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-13'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona reflexionando sobre el pasado usando el third conditional en inglés
 category: gramatica
 faqs:

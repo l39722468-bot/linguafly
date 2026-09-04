@@ -5,7 +5,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Política de Cookies",
   description:
-    "Información sobre las cookies utilizadas en Focus English, incluidas las de Google Analytics y Matomo.",
+    "Información sobre las cookies utilizadas en Linguafly, incluidas las de Google Analytics y Matomo.",
   robots: "index, follow",
 };
 
@@ -29,7 +29,7 @@ export default function CookiesPage() {
 
             <h2 className="text-2xl font-bold mt-10 mb-4">1. Qué usamos</h2>
             <p className="mb-4">
-              En Focus English utilizamos Cookiebot para gestionar el consentimiento,
+              En Linguafly utilizamos Cookiebot para gestionar el consentimiento,
               Google Analytics 4 y Matomo Cloud para obtener métricas agregadas de
               navegación, como páginas vistas, interacción general y rendimiento del
               contenido.

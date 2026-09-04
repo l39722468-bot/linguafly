@@ -1,5 +1,5 @@
 ---
-title: 'Errores Comunes con los Condicionales'
+title: 'Errores Comunes con los Condicionales en Inglés'
 description: >-
   Los 10 errores más frecuentes con los condicionales en inglés que cometen
   los hispanohablantes, con explicaciones claras y las correcciones que
@@ -10,7 +10,7 @@ excerpt: >-
   ¿Mezclas el segundo y el tercer condicional? Aquí están los errores que
   más cuestan puntos en exámenes y credibilidad en conversación.
 keywords:
-  - Errores Comunes con los Condicionales
+  - Errores Comunes con los Condicionales en Inglés
   - errores condicionales ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -19,9 +19,9 @@ keywords:
   - errores de if y will en inglés
   - cómo evitar errores en second y third conditional
   - condicionales ingleses para hispanohablantes
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-25'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Lista de errores comunes con los condicionales en inglés marcados en rojo
 category: gramatica
 faqs:

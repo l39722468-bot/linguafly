@@ -1,5 +1,5 @@
 ---
-title: 'El Inglés como Lingua Franca: Cuando'
+title: 'Inglés como Lingua Franca: Guía y Acentos'
 description: >-
   Qué es el English as a Lingua Franca (ELF), cómo suena cuando dos no nativos
   se hablan en inglés, por qué los acentos nativos no son el estándar ideal y
@@ -10,11 +10,11 @@ excerpt: >-
   que no son nativas en ninguna variedad. Ese inglés tiene sus propias reglas,
   su propia lógica y merece ser entendido en sus propios términos.
 keywords:
-  - 'El Inglés como Lingua Franca: Cuando'
+  - 'Inglés como Lingua Franca: Guía y Acentos'
   - inglés lingua franca ELF
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-02'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿El ELF es una variedad "incorrecta" del inglés?'

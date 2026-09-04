@@ -1,16 +1,16 @@
 ---
 category: trabajo
 date: '2026-02-07'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Curso de Inglés para Ingenieros'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Inglés para Ingenieros: Vocabulario y Reuniones'
 description: >-
   Domina el inglés técnico para ingeniería y destaca en proyectos
   internacionales. Mejora tu comunicación técnica, redacción de informes y
   reuniones de equipo.
 readTime: 5 min
 keywords:
-  - Curso de Inglés para Ingenieros
+  - Inglés para Ingenieros: Vocabulario y Reuniones
   - inglés para ingenieros
   - inglés de negocios gratis
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-ingenieros'

@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-04'
-updatedDate: '2026-08-04'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Holidays A1: was/were, visited y played'
+title: 'Holidays A1: Was/Were, Visited y Played con Ejemplos'
 description: >-
   Aprende a hablar de vacaciones en pasado A1: was/were, verbos regulares
   (-ed), beach, mountains, sightseeing y souvenir. Guía Unidad 47 con audios y
   ejercicios.
 readTime: 15 min
 keywords:
-  - holidays vacation A1
+  - Holidays A1: Was/Were, Visited y Played con Ejemplos
   - was were inglés
   - past simple regular verbs
   - inglés A1 unidad 47

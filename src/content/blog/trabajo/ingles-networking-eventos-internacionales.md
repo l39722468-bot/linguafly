@@ -1,8 +1,8 @@
 ---
-title: 'Networking en Inglés'
+title: 'Networking en Inglés: Frases para Eventos Profesionales'
 date: '2026-01-30'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 excerpt: >-
   ¿Te dan miedo las pausas incómodas en los eventos de networking? Domina el
   'small talk', prepara tu elevator pitch y crea conexiones profesionales
@@ -15,7 +15,7 @@ alt: >-
 canonical: >-
   https://linguafly.app/blog/trabajo/ingles-networking-eventos-internacionales
 keywords:
-  - Networking en Inglés
+  - Networking en Inglés: Frases para Eventos Profesionales
   - frases networking inglés
   - inglés de negocios gratis
 faqs:

@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Estructurar un Email Formal'
+title: 'Email Formal en Inglés: Estructura y Ejemplos'
 description: >-
   Aprende la estructura correcta de un email formal en inglés. Asunto, saludo,
   cuerpo y cierre con ejemplos reales y fórmulas para cada parte del correo.
@@ -9,12 +9,12 @@ excerpt: >-
   casi todos los contextos profesionales. Dominarla es lo que separa un correo
   creíble de uno que suena raro o amateur.
 keywords:
-  - Cómo Estructurar un Email Formal
+  - Email Formal en Inglés: Estructura y Ejemplos
   - como escribir email formal ingles
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-03'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Persona escribiendo un email formal en inglés en su ordenador portátil
 category: trabajo
 faqs:

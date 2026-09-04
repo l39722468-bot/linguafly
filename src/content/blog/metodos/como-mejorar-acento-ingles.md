@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Mejorar tu Acento en Inglés: Lo'
+title: 'Cómo Mejorar tu Acento en Inglés: Guía Efectiva'
 description: >-
   Guía práctica para mejorar tu acento en inglés de forma efectiva. Descubre
   qué aspectos trabajar primero, qué técnicas dan resultados reales y cómo
@@ -11,12 +11,12 @@ excerpt: >-
   que otros, y técnicas que aceleran el proceso. Aquí está lo que realmente
   importa.
 keywords:
-  - 'Cómo Mejorar tu Acento en Inglés: Lo'
+  - 'Cómo Mejorar tu Acento en Inglés: Guía Efectiva'
   - mejorar acento inglés
   - curso inglés gratis online
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-25'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Es posible eliminar completamente el acento extranjero en inglés?'

@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs para Principiantes'
+title: 'Phrasal Verbs Básicos: Guía A1-A2 para Principiantes'
 description: >-
   Aprende los phrasal verbs más básicos en inglés para principiantes. Lista A1-A2
   con significados, ejemplos en español e inglés y ejercicios fáciles.
@@ -9,7 +9,7 @@ excerpt: >-
   más usados en inglés con ejemplos sencillos, traducciones y ejercicios para
   nivel A1 y A2.
 keywords:
-  - Phrasal Verbs para Principiantes
+  - Phrasal Verbs Básicos: Guía A1-A2 para Principiantes
   - phrasal verbs
   - ejercicios de inglés gratis
   - phrasal verbs básicos en inglés A1 A2
@@ -22,9 +22,9 @@ keywords:
   - ejercicios de phrasal verbs para principiantes con respuestas
   - phrasal verbs cotidianos explicados en español
   - cómo aprender phrasal verbs desde cero paso a paso
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-06'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: 'Estudiante principiante aprendiendo phrasal verbs básicos en inglés'
 category: gramatica
 canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-principiantes'

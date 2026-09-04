@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 31 A2: Phrasal verbs (con soluciones)'
+title: 'Ejercicios de Phrasal Verbs Básicos en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 31 del curso A2: phrasal verbs básicos (get up, wake up, look for, turn on/off, sit down, stand up),
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 31
+  - Ejercicios de Phrasal Verbs Básicos en Inglés A2
   - phrasal verbs A2 ejercicios
   - get up look for turn on
   - wake up sit down stand up

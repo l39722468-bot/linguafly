@@ -1,16 +1,16 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 1 A2: Saludos e introducciones (con soluciones)'
+title: 'Ejercicios de Saludos e Introducciones en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 1 del curso A2: to be, Present
   Simple, hometown, neighbourhood, hobby, favourite, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 1
+  - Ejercicios de Saludos e Introducciones en Inglés A2
   - ejercicios hometown neighbourhood hobby
   - presentarse inglés A2
   - Nice to meet you A2

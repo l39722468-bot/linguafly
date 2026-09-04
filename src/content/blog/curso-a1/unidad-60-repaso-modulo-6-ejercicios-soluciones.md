@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 60 A1: Repaso Módulo 6 — Shopping & Food (con soluciones)'
+title: 'Repaso de Inglés A1: Módulo 6 con Ejercicios'
 description: >-
   Practica el repaso del Módulo 6 A1: some/any, much/many, too/enough, I would
   like, First/Then/Finally, should, pay for/spend on, reading, listening y
   writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 60
+  - Repaso de Inglés A1: Módulo 6 con Ejercicios
   - repaso módulo 6 A1
   - some any much many too enough
   - should pay for recipes review

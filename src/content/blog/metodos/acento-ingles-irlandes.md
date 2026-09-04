@@ -1,5 +1,5 @@
 ---
-title: 'El Acento Irlandés: Por Qué el Inglés'
+title: 'Acento Irlandés en Inglés: Rasgos y Comprensión'
 description: >-
   Guía completa del inglés irlandés: características fonéticas del acento irlandés,
   diferencias entre Dublin, Cork y Galway, vocabulario propio y cómo entenderlo
@@ -11,12 +11,12 @@ excerpt: >-
   que repita lo que acaba de decir, esta guía te explica por qué y qué puedes
   hacer al respecto.
 keywords:
-  - 'El Acento Irlandés: Por Qué el Inglés'
+  - 'Acento Irlandés en Inglés: Rasgos y Comprensión'
   - acento irlandés inglés
   - curso inglés gratis online
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-12'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿El acento irlandés es difícil de entender para hispanohablantes?'

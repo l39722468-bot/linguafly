@@ -11,7 +11,7 @@ export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: `Temario curso inglés A2 | ${SITE_BRAND_NAME}`,
-  description: "Consulta el temario completo del curso de inglés nivel A2 de LinguaFly. Revisa las unidades, contenidos de gramática y competencias que aprenderás.",
+  description: "Consulta el temario completo del curso de inglés nivel A2 de Linguafly. Revisa las unidades, contenidos de gramática y competencias que aprenderás.",
   alternates: {
     canonical: getAbsoluteUrl('/curso-a2/outline'),
   },

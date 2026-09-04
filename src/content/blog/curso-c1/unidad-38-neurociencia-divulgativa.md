@@ -1,16 +1,16 @@
 ---
 category: curso-c1
 date: '2026-09-12'
-updatedDate: '2026-09-12'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 38 C1: Neurociencia divulgativa — terminología y simplificación controlada"
+title: "Neurociencia en Inglés C1: Terminología y Divulgación"
 description: >-
   En la Unidad 38 del curso de inglés C1 gratis aprenderás a manejar terminología
   neurocientífica y a simplificar conceptos técnicos de forma controlada para un
   público no especializado. Incluye 19 ejercicios inglés C1 gratis con soluciones.
 readTime: 40 min
 keywords:
-  - curso de inglés C1 gratis
+  - Neurociencia en Inglés C1: Terminología y Divulgación
   - neurociencia en inglés
   - simplificación controlada C1
   - ejercicios inglés C1 gratis

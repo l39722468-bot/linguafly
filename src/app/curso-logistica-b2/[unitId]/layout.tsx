@@ -9,7 +9,7 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
     ? `Test final inglés B2 para Logística | ${SITE_BRAND_NAME}`
     : `Unidad ${unitNumber} del curso de inglés B2 para Logística | ${SITE_BRAND_NAME}`;
 
-  const description = `Curso de inglés B2 para logística con LinguaFly: negociación con proveedores internacionales y gestión de incidencias en la cadena de suministro.`;
+  const description = `Curso de inglés B2 para logística con Linguafly: negociación con proveedores internacionales y gestión de incidencias en la cadena de suministro.`;
 
   return {
     title,

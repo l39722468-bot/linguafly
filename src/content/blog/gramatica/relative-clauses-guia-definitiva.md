@@ -1,5 +1,5 @@
 ---
-title: 'Relative Clauses en Inglés'
+title: 'Relative Clauses en Inglés: Guía y Ejemplos'
 description: >-
   Aprende a usar Who, Which, That, Whose y Whom. Diferencias entre defining y
   non-defining relative clauses con ejemplos y lista imprimible.
@@ -8,7 +8,7 @@ excerpt: >-
   Domina las oraciones de relativo en inglés. Aprende cuándo usar comas, cuándo
   omitir el pronombre y descarga nuestra guía de referencia rápida.
 keywords:
-  - Relative Clauses en Inglés
+  - Relative Clauses en Inglés: Guía y Ejemplos
   - defining and non defining relative clauses
   - ejercicios de inglés gratis
   - relative clauses en inglés con ejemplos
@@ -21,9 +21,9 @@ keywords:
   - cuándo omitir el pronombre relativo en inglés
   - uso de whom whose which y that con ejemplos
   - oraciones de relativo para Cambridge B2 C1
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-02'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Defining vs Non-Defining Relative Clauses: cuál es mejor?'

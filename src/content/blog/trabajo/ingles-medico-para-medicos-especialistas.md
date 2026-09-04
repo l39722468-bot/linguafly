@@ -1,8 +1,8 @@
 ---
-title: 'Inglés Médico para Médicos'
+title: 'Inglés Médico para Médicos: Guía Profesional'
 date: '2026-03-02'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía avanzada de inglés médico para médicos y especialistas. Redacción de
   historias clínicas, comunicación en congresos, publicaciones científicas y
@@ -13,7 +13,7 @@ canonical: >-
   https://linguafly.app/blog/trabajo/ingles-medico-para-medicos-especialistas
 readTime: 5 min
 keywords:
-  - Inglés Médico para Médicos
+  - Inglés Médico para Médicos: Guía Profesional
   - ingles para medicos
   - inglés de negocios gratis
 faqs:

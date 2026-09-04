@@ -1,15 +1,15 @@
 ---
 category: viajes
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Inglés para mochileros en aeropuertos'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Inglés para Mochileros: Aeropuertos y Aduanas'
 description: >-
   Frases y vocabulario en inglés para mochileros: control de pasaportes, aduanas,
   declaraciones, vuelos con escala y situaciones frecuentes sin pánico.
 readTime: 15 min
 keywords:
-  - Inglés para mochileros en aeropuertos
+  - Inglés para Mochileros: Aeropuertos y Aduanas
   - aprender inglés para mochileros
   - inglés para viajar gratis
 alt: Avión aterrizando vista desde ventanilla
@@ -290,4 +290,3 @@ Para seguir ampliando tu **preparación idiomas viaje**, conecta este vocabulari
 Si estás siguiendo el curso por unidades, estas guías conectan este tema con la práctica guiada:
 
 - [A1 U41 — Aeropuerto: must / should](/blog/curso-a1/unidad-41-aeropuerto-must-should)
-

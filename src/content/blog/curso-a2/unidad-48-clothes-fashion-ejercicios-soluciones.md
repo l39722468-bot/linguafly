@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 48 A2: Clothes & Fashion (con soluciones)'
+title: 'Ejercicios de Ropa y Moda en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 48 del curso A2: wear, put on/take off, too vs enough, casual/formal outfit,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 48
+  - Ejercicios de Ropa y Moda en Inglés A2
   - clothes fashion ejercicios
   - wear put on too enough
   - casual formal outfit

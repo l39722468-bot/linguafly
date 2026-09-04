@@ -1,16 +1,16 @@
 ---
 category: metodos
 date: '2026-03-02'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Curso de Inglés A2 Online: Domina'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Curso de Inglés A2 Online: Guía y Ejercicios'
 description: >-
   Sube de nivel con nuestro curso de inglés A2. Mejora tu gramática, amplía tu
   vocabulario y empieza a tener conversaciones reales sobre tu vida diaria y
   planes.
 readTime: 6 min
 keywords:
-  - 'Curso de Inglés A2 Online: Domina'
+  - 'Curso de Inglés A2 Online: Guía y Ejercicios'
   - curso inglés a2
   - curso inglés gratis online
 canonical: 'https://linguafly.app/blog/metodos/ingles-a2'

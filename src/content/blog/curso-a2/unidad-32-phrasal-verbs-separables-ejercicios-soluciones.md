@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 32 A2: Phrasal verbs separables (con soluciones)'
+title: 'Ejercicios de Phrasal Verbs Separables en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 32 del curso A2: phrasal verbs separables (pick up, put on, take off, give back, object position),
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 32
+  - Ejercicios de Phrasal Verbs Separables en Inglés A2
   - phrasal verbs separables ejercicios
   - pick up put on take off
   - turn it off give back

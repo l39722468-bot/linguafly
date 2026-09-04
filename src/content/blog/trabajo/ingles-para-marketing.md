@@ -1,8 +1,8 @@
 ---
-title: 'Inglés para Marketing: Vocabulario'
+title: 'Inglés para Marketing: Vocabulario Profesional'
 date: '2026-02-18'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 excerpt: >-
   Domina el inglés para marketing con el vocabulario profesional imprescindible:
   desde SEO y contenidos hasta campañas de paid media y analytics. Habla con
@@ -11,7 +11,7 @@ category: trabajo
 readTime: 16 min
 alt: Equipo de marketing revisando gráficas y métricas en una pantalla grande de oficina
 keywords:
-  - 'Inglés para Marketing: Vocabulario'
+  - 'Inglés para Marketing: Vocabulario Profesional'
   - ingles para marketing
   - inglés de negocios gratis
 faqs:

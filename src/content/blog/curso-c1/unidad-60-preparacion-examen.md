@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-30'
-updatedDate: '2026-09-30'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 60 C1: Preparación examen CAE/IELTS/TOEFL"
+title: "Preparar CAE, IELTS y TOEFL en Inglés C1: Estrategias"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a prepararte estratégicamente para los exámenes CAE,
   IELTS y TOEFL, a gestionar el tiempo en cada sección, a evitar las trampas más comunes y a desplegar el
@@ -12,7 +12,7 @@ description: >-
 readTime: 40 min
 keywords:
   [
-    curso de inglés C1 gratis,
+    Preparar CAE, IELTS y TOEFL en Inglés C1: Estrategias,
     ejercicios inglés C1 gratis,
     preparación CAE en inglés,
     preparación IELTS C1,

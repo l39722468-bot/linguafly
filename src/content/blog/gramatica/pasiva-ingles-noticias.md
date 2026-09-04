@@ -1,5 +1,5 @@
 ---
-title: 'Voz Pasiva en Inglés para Leer'
+title: 'Voz Pasiva en Inglés: Cómo Leer Noticias'
 description: >-
   Aprende a reconocer y entender la voz pasiva en noticias en inglés. Estructuras
   más frecuentes en periodismo, titulares pasivos y cómo mejorar tu comprensión
@@ -10,7 +10,7 @@ excerpt: >-
   reconoces bien, pierdes matices importantes. Aquí están las estructuras que
   más aparecen y por qué los periodistas las eligen.
 keywords:
-  - Voz Pasiva en Inglés para Leer
+  - Voz Pasiva en Inglés: Cómo Leer Noticias
   - voz pasiva ingles periodismo
   - gramática inglesa gratis
   - cómo reconocer la voz pasiva en noticias inglesas
@@ -18,9 +18,9 @@ keywords:
   - ejercicios gratis de pasiva para comprensión lectora
   - estructuras pasivas frecuentes en periodismo inglés
   - leer noticias en inglés con voz pasiva
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-07'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Tableta mostrando una web de noticias en inglés con voz pasiva en titulares
 category: gramatica
 faqs:

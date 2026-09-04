@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 37 A1: Talent & Skills — very well, quite well… (con soluciones)'
+title: 'Ejercicios de Talento y Habilidades en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 37 del curso A1: very well, quite
   well, not at all, good at, reading de Lisa, listening de skills y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 37
+  - Ejercicios de Talento y Habilidades en Inglés A1
   - ejercicios very well quite well
   - talent skills inglés A1
   - good at bad at

@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-17'
-updatedDate: '2026-08-17'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 6 A1: familia, posesivos y genitivo (con soluciones)'
+title: 'Ejercicios de Familia y Posesivos en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 6 del curso A1: adjetivos posesivos,
   genitivo sajón ('s), miembros de la familia, reading de Carlos, listening de
   Ana y Pedro, y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios de inglés A1 unidad 6 con soluciones
+  - Ejercicios de Familia y Posesivos en Inglés A1
   - ejercicios familia en inglés para principiantes
   - adjetivos posesivos ejercicios con respuestas
   - genitivo sajón ejercicios inglés A1

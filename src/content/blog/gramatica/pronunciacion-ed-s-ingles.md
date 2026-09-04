@@ -1,8 +1,8 @@
 ---
-title: 'Cómo Pronunciar "-ed" y "-s"'
+title: 'Pronunciar -ed y -s en Inglés: Reglas y Ejemplos'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Cómo pronunciar -ed y -s en inglés: las reglas que nadie explica bien. Aprende cuándo suenan /t/, /d/ o /ɪd/ y cuándo -s suena /s/, /z/ o /ɪz/ con ejemplos y ejercicios.
 excerpt: >-
@@ -11,7 +11,7 @@ category: gramatica
 readTime: 7 min
 alt: Pizarra con ejemplos de terminaciones en inglés -ed y -s
 keywords:
-  - 'Cómo Pronunciar "-ed" y "-s'
+  - 'Pronunciar -ed y -s en Inglés: Reglas y Ejemplos'
   - como pronunciar pasado ingles terminacion ed
   - gramática inglesa gratis
   - cómo pronunciar las terminaciones ed y s en inglés

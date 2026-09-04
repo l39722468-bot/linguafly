@@ -1,16 +1,16 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Guia Maestra de Reported Speech'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Reported Speech: Guía Completa B2, C1 y C2'
 description: >-
   Domina el Reported Speech y los Reporting Verbs con nuestra guía completa para
   niveles B2, C1 y C2. Aprende reglas, estructuras y prepárate para tus exámenes
   de Cambridge.
 readTime: 5 min
 keywords:
-  - Guia Maestra de Reported Speech
+  - Reported Speech: Guía Completa B2, C1 y C2
   - reported speech
   - ejercicios de inglés gratis
   - reported speech en inglés explicado con ejemplos

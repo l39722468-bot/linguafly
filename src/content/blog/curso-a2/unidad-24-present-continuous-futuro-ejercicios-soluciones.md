@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 24 A2: PC futuro (con soluciones)'
+title: 'Ejercicios de Present Continuous para Futuro A2'
 description: >-
   Practica todos los ejercicios de la Unidad 24 del curso A2: Present Continuous para planes fijados / agenda (*I'm meeting…*),
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 24
+  - Ejercicios de Present Continuous para Futuro A2
   - ejercicios present continuous futuro
   - I am meeting
   - planes fijados agenda A2

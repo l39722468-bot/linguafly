@@ -19,7 +19,7 @@ keywords:
   - lista de minimal pairs ingleses con IPA
   - cómo entrenar el oído con pares mínimos
   - pares mínimos para hispanohablantes
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-20'
 updatedDate: '2026-08-31'
 category: gramatica

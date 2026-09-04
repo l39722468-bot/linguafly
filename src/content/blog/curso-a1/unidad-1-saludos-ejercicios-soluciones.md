@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-17'
-updatedDate: '2026-08-17'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 1 A1: saludos y presentarse (con soluciones)'
+title: 'Ejercicios de Saludos en Inglés A1 con Soluciones'
 description: >-
   Practica todos los ejercicios de la Unidad 1 del curso A1: verbo to be (I/you),
   vocabulario de saludos, reading de María, listening de Carlos y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios de inglés A1 unidad 1 con soluciones
+  - Ejercicios de Saludos en Inglés A1 con Soluciones
   - ejercicios verbo to be I am you are
   - ejercicios de saludos y presentaciones en inglés
   - workbook inglés A1 con respuestas explicadas

@@ -1,15 +1,15 @@
 ---
 category: metodos
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Minimal pairs y discriminación'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Minimal Pairs en Inglés Australiano: Entrenamiento'
 description: >-
   Entrena el oído con pares mínimos y contrastes útiles para hispanohablantes
   que escuchan inglés australiano: método, ejemplos y progresión.
 readTime: 22 min
 keywords:
-  - Minimal pairs y discriminación
+  - Minimal Pairs en Inglés Australiano: Entrenamiento
   - minimal pairs inglés
   - curso inglés gratis online
 alt: Estudiante con auriculares tomando apuntes

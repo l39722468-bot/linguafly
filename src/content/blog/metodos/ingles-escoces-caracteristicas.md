@@ -1,5 +1,5 @@
 ---
-title: 'Inglés Escocés: Características'
+title: 'Inglés Escocés: Características y Pronunciación'
 description: >-
   Guía completa del Scottish English: características fonéticas, diferencias entre
   Glasgow y Edimburgo, vocabulario del Scots, y estrategias para entender el inglés
@@ -10,12 +10,12 @@ excerpt: >-
   en el inglés estándar y un vocabulario propio que viene de una lengua distinta.
   Entenderlo requiere un mapa específico, y aquí lo tienes.
 keywords:
-  - 'Inglés Escocés: Características'
+  - 'Inglés Escocés: Características y Pronunciación'
   - acento escocés pronunciación
   - curso inglés gratis online
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-18'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿El Scots es un dialecto del inglés o una lengua diferente?'

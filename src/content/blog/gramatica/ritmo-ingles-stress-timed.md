@@ -1,5 +1,5 @@
 ---
-title: 'El Ritmo del Inglés: Por Qué no'
+title: 'Ritmo del Inglés: Stress-Timed y Pronunciación'
 description: >-
   El inglés es un idioma stress-timed: su ritmo se organiza de forma radicalmente
   distinta al español. Entender esto cambia cómo escuchas y cómo hablas. Guía
@@ -11,7 +11,7 @@ excerpt: >-
   frases suenan comprimidas y otras estiradas, y por qué tu inglés puede sonar
   "raro" incluso cuando pronuncias bien los sonidos.
 keywords:
-  - 'El Ritmo del Inglés: Por Qué no'
+  - 'Ritmo del Inglés: Stress-Timed y Pronunciación'
   - ritmo inglés
   - gramática inglesa gratis
   - qué significa que el inglés sea stress timed
@@ -19,9 +19,9 @@ keywords:
   - ejercicios gratis de ritmo y acento inglés
   - cómo mejorar el ritmo al hablar inglés
   - sílabas acentuadas y ritmo del inglés hablado
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-10'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Si el ritmo es tan importante, debería centrarse en él antes que en los sonidos?'

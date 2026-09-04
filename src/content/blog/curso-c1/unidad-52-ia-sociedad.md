@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-22'
-updatedDate: '2026-09-22'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 52 C1: IA y sociedad"
+title: "Inteligencia Artificial y Sociedad en Inglés C1"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a hablar de la inteligencia artificial y sus implicaciones
   sociales con hedging fuerte, a matizar afirmaciones sobre el impacto de la IA y a debatir sus consecuencias con
@@ -13,7 +13,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    inteligencia artificial en inglés C1,
+    Inteligencia Artificial y Sociedad en Inglés C1,
     hedging inglés C1,
     implicaciones sociales IA C1,
     matización epistémica inglés,

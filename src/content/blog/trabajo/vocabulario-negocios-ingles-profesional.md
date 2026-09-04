@@ -12,7 +12,7 @@ keywords:
   - 'Vocabulario de Negocios en Inglés: 100+'
   - vocabulario de negocios en ingles
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-06'
 updatedDate: '2026-08-31'
 category: trabajo

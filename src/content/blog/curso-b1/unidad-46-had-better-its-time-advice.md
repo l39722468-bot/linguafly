@@ -1,16 +1,16 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Had Better & It's Time B1 + Advice"
+title: "Had Better e It's Time B1: Guía de Consejos"
 description: >-
   Domina had better e it's time en inglés B1: consejo fuerte con advertencia implícita, it's time to/for y
   it's (high) time + past, con vocabulario de advice. Guía completa de la Unidad 46 con explicaciones, tablas,
   audios, errores típicos, reading, diálogo y ejercicios resueltos con soluciones.
 readTime: 15 min
 keywords:
-  - had better B1
+  - Had Better e It's Time B1: Guía de Consejos
   - it's time English
   - advice vocabulary
   - it's high time

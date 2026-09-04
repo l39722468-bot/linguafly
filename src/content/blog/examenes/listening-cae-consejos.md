@@ -1,10 +1,10 @@
 ---
-title: 'Listening C1 Advanced: Estrategias'
+title: 'Listening C1 Advanced: Estrategias para el CAE'
 description: "Guía completa del Listening del C1 Advanced (CAE): cómo preparar las cuatro partes, qué escuchar entre exámenes y los errores más frecuentes que bajan la nota."
 readTime: 7 min
 excerpt: "El Listening del CAE sorprende a muchos candidatos porque los audios son más rápidos y complejos de lo que esperaban. Con la preparación adecuada, puede convertirse en una de tus partes más fuertes."
 keywords:
-  - 'Listening C1 Advanced: Estrategias'
+  - 'Listening C1 Advanced: Estrategias para el CAE'
   - listening c1 advanced trucos
   - preparar inglés gratis
   - material de inglés gratis
@@ -13,9 +13,9 @@ keywords:
   - cómo preparar las cuatro partes del Listening C1
   - acentos del Listening del examen CAE
   - cómo tomar notas en el Listening Advanced
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-09'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: examenes
 faqs:
   - question: "¿Cuánto dura el Listening del CAE?"

@@ -2,7 +2,7 @@
 title: 'Semi-modales en Inglés: Used To, Need y Dare'
 date: '2026-02-22'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Los semi-modales en inglés funcionan como los modales pero se conjugan diferente. Aprende a usar used to, be able to, need to, dare to, had better y be supposed to con ejemplos reales.
 category: gramatica

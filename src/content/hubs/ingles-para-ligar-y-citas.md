@@ -9,7 +9,7 @@ description: >-
 
 Ligar en tu propio idioma ya puede ser un desafío, pero hacerlo en inglés añade una capa extra de complejidad (y emoción). En un mundo cada vez más globalizado, es muy probable que tu próxima gran historia de amor empiece con un "Hello". Ya sea que estés usando apps de citas en Londres, tomando un café en Nueva York o conociendo a alguien en un viaje, tener confianza en tu **inglés para ligar** es fundamental.
 
-En esta guía exhaustiva de **Focus English**, te proporcionaremos todas las herramientas lingüísticas necesarias para navegar por el mundo de las citas en 2026. Desde el primer "swipe" hasta las conversaciones profundas de las segundas citas, aquí tienes todo lo que necesitas saber para que el idioma sea tu aliado y no un obstáculo en el amor.
+En esta guía exhaustiva de **Linguafly**, te proporcionaremos todas las herramientas lingüísticas necesarias para navegar por el mundo de las citas en 2026. Desde el primer "swipe" hasta las conversaciones profundas de las segundas citas, aquí tienes todo lo que necesitas saber para que el idioma sea tu aliado y no un obstáculo en el amor.
 
 ---
 

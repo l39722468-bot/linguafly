@@ -1,15 +1,15 @@
 ---
-title: 'Ever y Never en Inglés: Uso'
+title: 'Ever y Never en Inglés: Uso con Present Perfect'
 date: '2026-02-16'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Aprende a usar ever y never correctamente con el present perfect en inglés. Cuándo van en preguntas, en negativas y cuáles son los errores más comunes con ejemplos claros.
 category: gramatica
 alt: Persona haciendo una pregunta con ever en inglés usando present perfect
 readTime: 6 min
 keywords:
-  - 'Ever y Never en Inglés: Uso'
+  - Ever y Never en Inglés: Uso con Present Perfect
   - ever never ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis

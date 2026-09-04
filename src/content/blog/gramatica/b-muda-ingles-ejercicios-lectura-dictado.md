@@ -1,15 +1,15 @@
 ---
 category: gramatica
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Ejercicios de “b” muda en inglés'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Ejercicios de B Muda en Inglés con Soluciones'
 description: >-
   Batería de práctica para automatizar palabras con b escrita y no pronunciada,
   contrastándolas con sonidos /b/ reales para evitar confusión.
 readTime: 22 min
 keywords:
-  - Ejercicios de “b” muda en inglés
+  - Ejercicios de B Muda en Inglés con Soluciones
   - b muda ingles
   - ejercicios de inglés gratis
   - gramática inglesa gratis

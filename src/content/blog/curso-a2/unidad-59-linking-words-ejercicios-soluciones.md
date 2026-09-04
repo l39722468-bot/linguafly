@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 59 A2: Linking Words (con soluciones)'
+title: 'Ejercicios de Conectores en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 59 del curso A2: and, but, because, so, although, however,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 59
+  - Ejercicios de Conectores en Inglés A2
   - linking words ejercicios
   - because so although
   - and but however

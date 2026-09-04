@@ -1,8 +1,8 @@
 ---
-title: 'Inglés para Ligar y Citas: Frases'
+title: 'Inglés para Ligar y Citas: Frases Naturales'
 date: '2026-03-08'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Inglés para ligar, citas y conocer gente: frases naturales para flirtear, hacer planes y hablar en apps de citas. Vocabulario auténtico que los nativos usan de verdad.
 excerpt: >-
@@ -11,7 +11,7 @@ category: metodos
 readTime: 13 min
 alt: Pareja joven conversando en una cafetería con ambiente íntimo
 keywords:
-  - 'Inglés para Ligar y Citas: Frases'
+  - 'Inglés para Ligar y Citas: Frases Naturales'
   - ingles para ligar y citas
   - curso inglés gratis online
 faqs:

@@ -1,15 +1,15 @@
 ---
 category: trabajo
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Clientes difíciles en inglés'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Clientes Difíciles en Inglés: Frases para Calmar'
 description: >-
   Guía de inglés para soporte: calmar conflictos, marcar límites ante insultos,
   escalar con claridad y documentar sin perder control emocional.
 readTime: 22 min
 keywords:
-  - Clientes difíciles en inglés
+  - Clientes Difíciles en Inglés: Frases para Calmar
   - de-escalation inglés
   - inglés de negocios gratis
 alt: Persona en atención telefónica con auriculares

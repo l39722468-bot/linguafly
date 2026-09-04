@@ -1,5 +1,5 @@
 ---
-title: 'TOEFL Speaking: Las 4 Tareas Explicadas con Ejemplos'
+title: 'TOEFL Speaking: 4 Tareas, Plantillas y Ejemplos'
 description: >-
   Guía completa del TOEFL Speaking: cómo funcionan las 4 tareas (Independent,
   Campus, Academic Lecture y Lecture Summary), estructuras ganadoras, vocabulario
@@ -10,7 +10,7 @@ excerpt: >-
   tiene su plantilla óptima y su trampa típica. Te explico cómo responder con
   estructura y qué errores te bajan del 26 al 22.
 keywords:
-  - 'TOEFL Speaking: Las 4 Tareas Explicadas con Ejemplos'
+  - 'TOEFL Speaking: 4 Tareas, Plantillas y Ejemplos'
   - tareas toefl speaking
   - preparar inglés gratis
   - material de inglés gratis
@@ -19,9 +19,9 @@ keywords:
   - cómo responder las tareas integradas TOEFL
   - estructura de respuestas TOEFL Speaking
   - errores frecuentes en TOEFL Speaking
-author: focus-english-team
+author: linguafly-team
 date: '2026-04-18'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Candidato grabando respuestas de TOEFL Speaking con auriculares y micrófono
 category: examenes
 faqs:

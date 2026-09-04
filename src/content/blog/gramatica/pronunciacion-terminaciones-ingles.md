@@ -1,5 +1,5 @@
 ---
-title: 'Cómo se Pronuncian las Terminaciones'
+title: 'Pronunciación de Terminaciones en Inglés: Guía'
 description: >-
   Descubre las reglas de pronunciación de las terminaciones más comunes en
   inglés: -ed del pasado, la -s/-es del plural y la tercera persona, y otras
@@ -10,7 +10,7 @@ excerpt: >-
   del pasado tiene tres pronunciaciones distintas, la -s del plural tiene dos,
   y hay reglas claras para saber cuál usar en cada caso. Aquí están todas.
 keywords:
-  - Cómo se Pronuncian las Terminaciones
+  - Pronunciación de Terminaciones en Inglés: Guía
   - pronunciación terminaciones inglés
   - ejercicios de inglés gratis
   - gramática inglesa gratis
@@ -19,9 +19,9 @@ keywords:
   - ejercicios gratis de terminaciones del inglés
   - pronunciación de plurales y tercera persona inglesa
   - terminaciones inglesas con transcripción IPA
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-28'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Por qué la -ed del pasado a veces suena como /t/ y otras veces como /d/?'

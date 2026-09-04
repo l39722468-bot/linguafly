@@ -4,7 +4,7 @@ import Link from "next/link";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Página no encontrada | Focus English",
+  title: "Página no encontrada | Linguafly",
   description: "Lo sentimos, la página que buscas no existe o ha sido movida.",
 };
 

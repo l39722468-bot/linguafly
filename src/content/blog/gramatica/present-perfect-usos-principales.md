@@ -1,15 +1,15 @@
 ---
-title: 'Present Perfect en Inglés: Los 4 Usos'
+title: 'Present Perfect en Inglés: 4 Usos y Ejemplos'
 date: '2026-02-04'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Los 4 usos del Present Perfect en inglés que necesitas dominar: resultados, experiencias, noticias recientes y continuidad. Guía con ejemplos claros para hispanohablantes.
 category: gramatica
 alt: Estudiante aprendiendo los usos del Present Perfect en inglés
 readTime: 6 min
 keywords:
-  - 'Present Perfect en Inglés: Los 4 Usos'
+  - 'Present Perfect en Inglés: 4 Usos y Ejemplos'
   - present perfect usos
   - ejercicios de inglés gratis
   - usos del present perfect en inglés con ejemplos

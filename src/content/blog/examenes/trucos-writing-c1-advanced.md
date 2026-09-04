@@ -1,5 +1,5 @@
 ---
-title: 'Trucos para Aprobar el Writing del C1'
+title: 'Trucos para Aprobar el Writing C1 Advanced'
 description: >-
   Domina el Writing del C1 Advanced con estos 5 consejos clave. Aprende a usar
   conectores avanzados, estructuras complejas y a impresionar a los examinadores
@@ -10,7 +10,7 @@ excerpt: >-
   aprobado raspado a una puntuación excepcional en el examen C1 Advanced de
   Cambridge.
 keywords:
-  - Trucos para Aprobar el Writing del C1
+  - Trucos para Aprobar el Writing C1 Advanced
   - trucos writing c1 advanced
   - preparar inglés gratis
   - consejos Writing C1 Advanced Cambridge
@@ -19,9 +19,9 @@ keywords:
   - estructuras gramaticales Writing CAE
   - guía Writing Cambridge C1 con ejemplos
 date: '2026-02-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: examenes
-author: focus-english-team
+author: linguafly-team
 faqs:
   - question: ¿Qué tipos de textos pueden caer en el C1 Writing?
     answer: >-

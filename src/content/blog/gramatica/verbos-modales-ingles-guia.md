@@ -1,5 +1,5 @@
 ---
-title: 'Verbos Modales en Inglés'
+title: 'Verbos Modales en Inglés: Guía y Ejercicios'
 description: >-
   Domina Can, Could, Must, Should, May y los Modales Perfectos. Incluye esquema
   de verbos modales en inglés pdf-friendly y ejemplos académicos.
@@ -8,7 +8,7 @@ excerpt: >-
   Aprende a usar Can, Could, Must, Should y May. Incluye esquema de verbos
   modales en inglés y ejemplos prácticos para niveles A1 a C1.
 keywords:
-  - Verbos Modales en Inglés
+  - Verbos Modales en Inglés: Guía y Ejercicios
   - verbos modales ingles pdf
   - ejercicios de inglés gratis
   - verbos modales en inglés explicados con ejemplos
@@ -21,9 +21,9 @@ keywords:
   - tabla de can could must should may y might
   - verbos modales en inglés para niveles A1 a C1
   - cómo elegir el verbo modal correcto en inglés
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-02'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Las 4 Reglas de Oro (Nivel Académico)?'

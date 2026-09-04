@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-21'
-updatedDate: '2026-09-21'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 51 C1: Privacidad y vigilancia"
+title: "Privacidad y Vigilancia en Inglés C1: Guía y Ejercicios"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a manejar el léxico legal-informático de la privacidad y la
   vigilancia, a argumentar sobre derechos digitales con precisión y a debatir el equilibrio entre seguridad y libertad.
@@ -13,7 +13,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    privacidad y vigilancia en inglés,
+    Privacidad y Vigilancia en Inglés C1: Guía y Ejercicios,
     léxico legal informático C1,
     derechos digitales inglés C1,
     vigilancia masiva C1,

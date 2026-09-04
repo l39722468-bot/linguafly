@@ -1,8 +1,8 @@
 ---
-title: 'Pares Mínimos en Inglés: La Técnica'
+title: 'Pares Mínimos en Inglés: Guía y Ejercicios'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Pares mínimos en inglés: la técnica más efectiva para afinar el oído y mejorar la pronunciación. Lista de pares clave para hispanohablantes con ejercicios de discriminación auditiva.
 excerpt: >-
@@ -11,7 +11,7 @@ category: gramatica
 readTime: 10 min
 alt: Persona escuchando con auriculares y practicando pronunciación
 keywords:
-  - 'Pares Mínimos en Inglés: La Técnica'
+  - 'Pares Mínimos en Inglés: Guía y Ejercicios'
   - pares minimos ingles
   - ejercicios de inglés gratis
   - técnica de pares mínimos para pronunciación inglesa

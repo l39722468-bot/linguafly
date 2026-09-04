@@ -1,5 +1,5 @@
 ---
-title: 'Slang Americano 2026: 70 Expresiones'
+title: 'Slang Americano 2026: 70 Expresiones Coloquiales'
 description: >-
   Guía actualizada de slang americano 2026. Aprende las expresiones coloquiales
   más usadas en Estados Unidos, desde el habla callejera hasta el lenguaje de
@@ -10,16 +10,16 @@ excerpt: >-
   muy diferente al que aparece en los libros. Actualiza tu vocabulario con los
   70 slang más usados en EE.UU. en 2026.
 keywords:
-  - 'Slang Americano: 70 Expresiones'
+  - 'Slang Americano 2026: 70 Expresiones Coloquiales'
   - slang americano
   - slang americano y expresiones coloquiales gratis
   - expresiones de Estados Unidos usadas en redes sociales
   - vocabulario informal americano para conversaciones
   - palabras de slang inglés americano con ejemplos
   - expresiones Gen Z en inglés americano 2026
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: metodos
 faqs:
   - question: '¿Frases Completas para Sonarte Natural?'

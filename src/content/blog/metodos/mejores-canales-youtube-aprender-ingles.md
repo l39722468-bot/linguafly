@@ -1,8 +1,8 @@
 ---
-title: 'Los Mejores Canales de YouTube'
+title: 'Mejores Canales de YouTube para Aprender Inglés'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Los mejores canales de YouTube para aprender inglés gratis en 2026: clasificados por nivel (A1–C2) y objetivo (pronunciación, gramática, conversación, exámenes). Con rutina diaria incluida.
 excerpt: >-
@@ -11,7 +11,7 @@ category: metodos
 readTime: 13 min
 alt: Persona viendo vídeos educativos de inglés en YouTube en su portátil
 keywords:
-  - Los Mejores Canales de YouTube
+  - Mejores Canales de YouTube para Aprender Inglés
   - mejores canales youtube aprender inglés
   - curso inglés gratis online
 faqs:

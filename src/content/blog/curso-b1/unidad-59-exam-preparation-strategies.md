@@ -1,16 +1,16 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Exam Preparation B1: PET/B1 Strategies'
+title: 'Preparación Examen B1: Estrategias PET y B1'
 description: >-
   Guía completa de preparación para el examen B1 Preliminary (PET): estrategias detalladas de reading,
   listening, writing y speaking, gestión del tiempo, gramática frecuente en examen, vocabulario de estrategias,
   reading, diálogo y más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
 readTime: 20 min
 keywords:
-  - exam preparation B1
+  - Preparación Examen B1: Estrategias PET y B1
   - PET strategies
   - B1 Preliminary tips
   - estrategias examen inglés B1

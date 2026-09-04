@@ -19,7 +19,7 @@ keywords:
 date: '2025-02-05'
 updatedDate: '2026-08-31'
 category: examenes
-author: focus-english-team
+author: linguafly-team
 faqs:
   - question: '¿IELTS vs TOEFL: cuál es mejor?'
     answer: 'Si estás planeando estudiar en el extranjero, emigrar a otro país o simplemente dar un salto cualitativo en tu carrera profesional, seguramente te hayas encontrado con estos dos nombres: IELTS y TOEFL. Ambos son los exámenes de certificación de inglés más prestigiosos y reconocidos globalmente, pero...'

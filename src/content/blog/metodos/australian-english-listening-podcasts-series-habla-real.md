@@ -1,15 +1,15 @@
 ---
 category: metodos
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Listening de inglés australiano'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Listening de Inglés Australiano: Rutina y Recursos'
 description: >-
   Cómo diseñar una rutina de comprensión auditiva con acento australiano:
   materiales, niveles, subtítulos y progresión semana a semana.
 readTime: 22 min
 keywords:
-  - Listening de inglés australiano
+  - Listening de Inglés Australiano: Rutina y Recursos
   - listening inglés australiano
 alt: Auriculares sobre mesa
 excerpt: >-

@@ -1,9 +1,9 @@
 ---
 category: examenes
 date: '2026-02-07'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Certificados de Inglés 2026'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Certificados de Inglés 2026: IELTS, TOEFL o Cambridge'
 description: >-
   ¿IELTS, TOEFL o Cambridge? Analizamos las mejores certificaciones de inglés 
   para 2026, sus novedades digitales y cuál se adapta mejor a tus metas 
@@ -14,7 +14,7 @@ excerpt: >-
   IELTS, Cambridge, TOEFL, Duolingo: te explicamos qué acepta cada institución,
   cuánto tardan los resultados y cuál te conviene según tu objetivo real.
 keywords:
-  - Certificados de Inglés
+  - Certificados de Inglés 2026: IELTS, TOEFL o Cambridge
   - mejores certificados de inglés 2026
   - preparar inglés gratis
   - material de inglés gratis

@@ -18,7 +18,7 @@ keywords:
   - open cloze de condicionales en inglés
   - transformación de frases con condicionales B2
   - errores de condicionales que penaliza Cambridge
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-06'
 updatedDate: '2026-08-31'
 alt: Estudiante preparando el examen B2 con ejercicios de condicionales en inglés

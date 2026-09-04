@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 53 A1: Some & Any — contenedores (con soluciones)'
+title: 'Ejercicios de Some y Any en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 53 del curso A1: some, any,
   bottle, box, bag, can, reading, listening y writing. Con soluciones
   comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 53
+  - Ejercicios de Some y Any en Inglés A1
   - ejercicios some any
   - a bottle of water A1
   - a box of cereal

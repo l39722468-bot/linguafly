@@ -1,5 +1,5 @@
 ---
-title: 'Fonética Inglesa Básica'
+title: 'Fonética Inglesa: 44 Fonemas y Símbolos IPA'
 description: >-
   Introducción a la fonética inglesa básica. Aprende los símbolos IPA
   esenciales, los 44 fonemas del inglés y cómo leer la transcripción fonética.
@@ -9,7 +9,7 @@ excerpt: >-
   guía de fonética inglesa básica te explica los 44 fonemas del inglés con
   ejemplos claros para hispanohablantes.
 keywords:
-  - Fonética Inglesa Básica
+  - Fonética Inglesa: 44 Fonemas y Símbolos IPA
   - fonetica inglesa
   - ejercicios de inglés gratis
   - fonética inglesa básica para hispanohablantes
@@ -17,9 +17,9 @@ keywords:
   - ejercicios gratis de fonética inglesa
   - cómo leer la transcripción fonética del inglés
   - símbolos IPA básicos del inglés
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-06'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Qué es un Fonema?'

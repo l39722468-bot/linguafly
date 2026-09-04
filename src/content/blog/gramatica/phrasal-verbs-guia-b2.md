@@ -1,5 +1,5 @@
 ---
-title: 'Phrasal Verbs B2: Lista Definitiva'
+title: 'Phrasal Verbs B2: Lista Completa para FCE'
 description: >-
   Domina los phrasal verbs de nivel B2 para el First Certificate (FCE). Incluye
   lista completa de más de 150 phrasal verbs, ejemplos y trucos de memorización.
@@ -9,7 +9,7 @@ excerpt: >-
   los verbos más usados y trucos para memorizarlos sin esfuerzo con nuestra
   lista completa.
 keywords:
-  - 'Phrasal Verbs B2: Lista Definitiva'
+  - 'Phrasal Verbs B2: Lista Completa para FCE'
   - lista phrasal verbs
   - ejercicios de inglés gratis
   - lista de phrasal verbs B2 para First Certificate
@@ -17,9 +17,9 @@ keywords:
   - phrasal verbs más importantes del FCE
   - cómo memorizar phrasal verbs de nivel B2
   - phrasal verbs B2 con ejemplos en contexto
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-02'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: 'Lista definitiva de phrasal verbs B2 para el First Certificate FCE'
 category: gramatica
 canonical: 'https://linguafly.app/blog/gramatica/phrasal-verbs-guia-b2'

@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-15'
-updatedDate: '2026-09-15'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 45 C1: Desarrollo y desigualdad"
+title: "Desarrollo y Desigualdad en Inglés C1: Guía y Ejercicios"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a manejar indicadores socioeconómicos, comparar datos con matices
   y argumentar sobre desarrollo y desigualdad con precisión léxica y retórica. Con teoría detallada y 19 ejercicios
@@ -13,7 +13,7 @@ keywords:
   [
     curso de inglés C1 gratis,
     ejercicios inglés C1 gratis,
-    desarrollo y desigualdad en inglés,
+    Desarrollo y Desigualdad en Inglés C1: Guía y Ejercicios,
     indicadores socioeconómicos C1,
     lenguaje académico inglés C1,
     comparación matizada C1,

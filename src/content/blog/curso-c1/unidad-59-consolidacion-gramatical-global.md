@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-29'
-updatedDate: '2026-09-29'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 59 C1: Consolidación gramatical global"
+title: "Gramática Inglesa C1: Repaso Global y Ejercicios"
 description: >-
   En esta unidad del curso de inglés C1 gratis consolidas de manera sistémica toda la gramática del nivel C1:
   los tiempos narrativos, las oraciones condicionales mixtas, la inversión emphática, las cláusulas concesivas
@@ -12,7 +12,7 @@ description: >-
 readTime: 40 min
 keywords:
   [
-    curso de inglés C1 gratis,
+    Gramática Inglesa C1: Repaso Global y Ejercicios,
     ejercicios inglés C1 gratis,
     consolidación gramatical C1,
     repaso gramática inglés C1,

@@ -1,8 +1,8 @@
 ---
-title: '50 Frases Esenciales de Inglés'
+title: '50 Frases de Atención al Cliente en Inglés'
 date: '2026-03-06'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Colección de las 50 frases más utilizadas en atención al cliente en inglés.
   Organizadas por situación: bienvenida, resolución de problemas, quejas,
@@ -13,7 +13,7 @@ canonical: >-
   https://linguafly.app/blog/trabajo/frases-ingles-atencion-al-cliente-situaciones
 readTime: 6 min
 keywords:
-  - 50 Frases Esenciales de Inglés
+  - 50 Frases de Atención al Cliente en Inglés
   - frases utiles call center ingles
   - inglés de negocios gratis
 faqs:

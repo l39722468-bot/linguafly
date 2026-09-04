@@ -1,5 +1,5 @@
 ---
-title: 'Inglés en el Trabajo en Irlanda'
+title: 'Inglés Profesional en Irlanda: Reuniones y Acento'
 description: >-
   Guía para profesionales que trabajan con equipos en Irlanda: dinámica de reuniones, correo
   electrónico, turn-taking con acento irlandés y cómo pedir aclaraciones sin romper el ritmo profesional.
@@ -7,12 +7,12 @@ readTime: 15 min
 excerpt: >-
   El ecosistema tecnológico y financiero irlandés atrae talento internacional. Si tus calls suenan a Dublín más que a California, necesitas protocolos claros para seguir el hilo cuando el acento y el ritmo cambian.
 keywords:
-  - Inglés en el Trabajo en Irlanda
+  - Inglés Profesional en Irlanda: Reuniones y Acento
   - ingles trabajo Irlanda reuniones
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-03-29'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 alt: Reunión de trabajo moderna con personas y portátiles
 category: trabajo
 faqs:

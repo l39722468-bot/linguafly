@@ -54,7 +54,7 @@ export interface CurriculumUnitRecord {
 export interface LevelContentCatalog {
   cefrLevel: CefrLevelCode;
   version: CurriculumVersionId;
-  /** Etiqueta legible: "A1 Focus English v1.0". */
+  /** Etiqueta legible: "A1 Linguafly v1.0". */
   label: string;
   /** Fecha ISO a partir de la cual aplica esta versión. */
   effectiveFrom: string;

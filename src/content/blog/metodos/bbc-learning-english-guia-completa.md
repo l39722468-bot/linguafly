@@ -1,8 +1,8 @@
 ---
-title: 'BBC Learning English'
+title: 'BBC Learning English: Guía y Rutina de Estudio'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   BBC Learning English guía completa 2026: sus mejores secciones, niveles recomendados, rutina diaria y cómo usarla sin internet. La plataforma gratuita más completa para aprender inglés.
 excerpt: >-
@@ -11,7 +11,7 @@ category: metodos
 readTime: 13 min
 alt: Persona estudiando inglés con auriculares frente a una pantalla con contenido educativo de la BBC
 keywords:
-  - BBC Learning English
+  - BBC Learning English: Guía y Rutina de Estudio
   - BBC Learning English sin internet
   - BBC Learning English gratis para aprender inglés
   - cómo usar BBC Learning English para estudiar

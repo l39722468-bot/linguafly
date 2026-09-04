@@ -1,8 +1,8 @@
 ---
-title: 'Vocabulario de Inglés Médico'
+title: 'Vocabulario de Inglés Médico para Enfermería'
 date: '2026-03-01'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Guía de vocabulario de inglés médico para enfermeras y enfermeros. Términos
   clínicos esenciales, comunicación con pacientes internacionales y frases para
@@ -13,7 +13,7 @@ canonical: >-
   https://linguafly.app/blog/trabajo/vocabulario-ingles-medico-enfermeria
 readTime: 5 min
 keywords:
-  - Vocabulario de Inglés Médico
+  - Vocabulario de Inglés Médico para Enfermería
   - vocabulario ingles medico enfermeria
   - inglés de negocios gratis
 faqs:

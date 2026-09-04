@@ -1,5 +1,5 @@
 ---
-title: 'Cómo Pronunciar la TH en Inglés'
+title: 'Pronunciar la TH en Inglés: Sonido Sordo y Sonoro'
 description: >-
   Guía práctica para pronunciar correctamente la TH en inglés, tanto la sorda
   /θ/ como la sonora /ð/. Ejercicios, ejemplos y errores más comunes.
@@ -9,7 +9,7 @@ excerpt: >-
   existe en español. Si siempre has dicho "d" o "z" donde debería ir TH, aquí
   tienes la explicación y los ejercicios para corregirlo.
 keywords:
-  - Cómo Pronunciar la TH en Inglés
+  - Pronunciar la TH en Inglés: Sonido Sordo y Sonoro
   - pronunciar th ingles
   - ejercicios de inglés gratis
   - cómo pronunciar la th sorda y sonora en inglés
@@ -17,9 +17,9 @@ keywords:
   - diferencia entre th y d en inglés
   - palabras con th y transcripción fonética
   - pronunciación de th inglesa para hispanohablantes
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-11'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 category: gramatica
 faqs:
   - question: '¿Es la TH inglesa igual que la Z española del centro de España?'

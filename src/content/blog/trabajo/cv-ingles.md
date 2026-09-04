@@ -1,8 +1,8 @@
 ---
-title: 'Cómo Hacer un CV en Inglés'
+title: 'CV en Inglés: Cómo Hacerlo y Superar Filtros ATS'
 date: '2026-02-10'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 excerpt: >-
   Aprende a redactar un CV en inglés que supere los filtros ATS y atraiga a
   reclutadores internacionales. Incluye plantillas, vocabulario clave y los
@@ -11,7 +11,7 @@ category: trabajo
 readTime: 18 min
 alt: Persona revisando un currículum vitae impreso sobre un escritorio
 keywords:
-  - Cómo Hacer un CV en Inglés
+  - CV en Inglés: Cómo Hacerlo y Superar Filtros ATS
   - cv ingles
   - inglés de negocios gratis
 faqs:

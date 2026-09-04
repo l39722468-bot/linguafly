@@ -2,7 +2,7 @@
 title: 'Inglés para Playas y Deportes Acuáticos'
 date: '2026-04-17'
 updatedDate: '2026-08-31'
-author: focus-english-team
+author: linguafly-team
 description: >-
   Vocabulario y frases en inglés para disfrutar de playas, piscinas y deportes acuáticos durante tus viajes. Desde alquilar una tabla de surf hasta entender señales de seguridad.
 excerpt: >-

@@ -1,8 +1,8 @@
 ---
-title: 'Aptis General 2026'
+title: 'Aptis General 2026: Estructura, Precio y Preparación'
 date: '2026-03-21'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 category: examenes
 readTime: 12 min
 description: >-
@@ -14,7 +14,7 @@ excerpt: >-
   examen certifica de A1 a C1 según tu nivel real. Aquí tienes la estructura
   completa, cuánto cuesta en 2026 y cómo prepararlo para sacar el B2 o C1.
 keywords:
-  - Aptis General
+  - Aptis General 2026: Estructura, Precio y Preparación
   - aptis general precio 2026
   - preparar inglés gratis
   - material de inglés gratis

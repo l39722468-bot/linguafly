@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-08-18'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 14 A1: don’t y Do you…? (con soluciones)'
+title: 'Ejercicios de Present Simple Negativo en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 14 del curso A1: don't, Do you…?,
   Yes I do / No I don't, vocabulario de ocio y casa, reading de Sara, listening
   de Mike y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios de inglés A1 unidad 14 con soluciones
+  - Ejercicios de Present Simple Negativo en Inglés A1
   - ejercicios don't present simple
   - do you like ejercicios con respuestas
   - yes I do y no I don't ejercicios

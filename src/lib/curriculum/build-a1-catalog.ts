@@ -69,7 +69,7 @@ export function buildA1ContentCatalog(): LevelContentCatalog {
   return {
     cefrLevel: 'A1',
     version: A1_CURRICULUM_VERSION,
-    label: 'Focus English · A1 · v1.0.0',
+    label: 'Linguafly · A1 · v1.0.0',
     effectiveFrom: '2025-01-01',
     units,
   };

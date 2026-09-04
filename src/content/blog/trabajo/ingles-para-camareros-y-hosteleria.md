@@ -1,15 +1,15 @@
 ---
-title: 'Inglés para Camareros y Hostelería'
+title: 'Inglés para Camareros y Hostelería: Guía Laboral'
 date: '2026-03-10'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 excerpt: >-
   Todo el inglés que necesitas para trabajar en hostelería en países angloparlantes: atender mesas, tomar pedidos, gestionar quejas, hablar de la carta y trabajar en cocina. Ideal para conseguir trabajo en UK, Irlanda o Australia.
 category: trabajo
 readTime: 16 min
 alt: Camarero con delantal negro atendiendo clientes en un restaurante moderno
 keywords:
-  - Inglés para Camareros y Hostelería
+  - Inglés para Camareros y Hostelería: Guía Laboral
   - ingles hosteleria trabajo
   - inglés de negocios gratis
 faqs:

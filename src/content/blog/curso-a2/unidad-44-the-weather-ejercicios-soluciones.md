@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 44 A2: The Weather (con soluciones)'
+title: 'Ejercicios sobre el Tiempo Atmosférico en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 44 del curso A2: sunny, rainy, It's…,
   going to y will, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 44
+  - Ejercicios sobre el Tiempo Atmosférico en Inglés A2
   - the weather ejercicios
   - it's going to rain
   - sunny rainy cloudy

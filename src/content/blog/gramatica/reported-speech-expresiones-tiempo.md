@@ -1,15 +1,15 @@
 ---
-title: 'Expresiones de Tiempo en Reported'
+title: 'Expresiones de Tiempo en Reported Speech: Guía'
 date: '2026-02-10'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   En reported speech, las expresiones de tiempo y lugar cambian junto con el verbo. Aprende cuáles cambian, cómo y cuándo no es necesario cambiarlas, con ejemplos reales y tabla completa.
 category: gramatica
 alt: Tabla de expresiones de tiempo en reported speech inglés
 readTime: 6 min
 keywords:
-  - Expresiones de Tiempo en Reported
+  - Expresiones de Tiempo en Reported Speech: Guía
   - expresiones tiempo reported speech
   - ejercicios de inglés gratis
   - cambios de tiempo y lugar en reported speech

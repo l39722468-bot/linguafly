@@ -1,8 +1,8 @@
 ---
-title: 'Shadowing para Mejorar'
+title: 'Shadowing en Inglés: Técnica para Mejorar la Pronunciación'
 date: '2026-03-11'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Shadowing para mejorar la pronunciación en inglés: la técnica que usan los políglotas para sonar natural. Cómo practicarlo paso a paso y qué audios usar según tu nivel.
 excerpt: >-
@@ -11,7 +11,7 @@ category: gramatica
 readTime: 8 min
 alt: Persona practicando pronunciación con auriculares y transcripción
 keywords:
-  - Shadowing para Mejorar
+  - Shadowing en Inglés: Técnica para Mejorar la Pronunciación
   - shadowing idiomas
   - ejercicios de inglés gratis
   - shadowing para mejorar la pronunciación inglesa

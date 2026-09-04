@@ -1,10 +1,10 @@
 ---
 category: examenes
 date: '2026-02-07'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 alt: "Estudiante de nivel avanzado preparando su examen C1 Advanced"
-title: 'Guía C1 Advanced (CAE): Estrategias'
+title: 'C1 Advanced (CAE): Guía y Estrategias para Aprobar'
 description: >-
   Prepara el C1 Advanced (CAE) con éxito. Trucos para el Use of English,
   estructuras avanzadas para el Writing, consejos para el Speaking y vocabulario
@@ -15,7 +15,7 @@ excerpt: >-
   que muy pocos candidatos saben demostrar. Aquí tienes las estructuras avanzadas,
   los trucos para el Use of English y el vocabulario que separa el Grade C del Grade A.
 keywords:
-  - 'Guía C1 Advanced (CAE): Estrategias'
+  - 'C1 Advanced (CAE): Guía y Estrategias para Aprobar'
   - speaking cae estrategias
   - preparar inglés gratis
   - material de inglés gratis

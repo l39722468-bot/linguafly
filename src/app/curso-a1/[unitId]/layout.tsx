@@ -11,8 +11,8 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
     : `Unidad ${unitNumber} del curso de inglés A1 | ${SITE_BRAND_NAME}`;
 
   const description = unitId === 'test-final'
-    ? "Evaluación final del curso de inglés A1 de LinguaFly: 28 preguntas de gramática, vocabulario, lectura, escucha y escritura para comprobar tu nivel."
-    : `Aprende con la Unidad ${unitNumber} del curso de inglés A1 de LinguaFly. Ejercicios interactivos de gramática básica, vocabulario y práctica paso a paso.`;
+    ? "Evaluación final del curso de inglés A1 de Linguafly: 28 preguntas de gramática, vocabulario, lectura, escucha y escritura para comprobar tu nivel."
+    : `Aprende con la Unidad ${unitNumber} del curso de inglés A1 de Linguafly. Ejercicios interactivos de gramática básica, vocabulario y práctica paso a paso.`;
 
   return {
     title,

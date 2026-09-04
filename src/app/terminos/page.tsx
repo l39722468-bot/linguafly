@@ -4,7 +4,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Términos y Condiciones",
   description:
-    "Términos y condiciones de uso del sitio web y servicios de Focus English.",
+    "Términos y condiciones de uso del sitio web y servicios de Linguafly.",
   robots: "index, follow",
 };
 
@@ -30,7 +30,7 @@ export default function TerminosPage() {
             <h2 className="text-2xl font-bold mt-10 mb-4">1. Objeto y aceptación</h2>
             <p className="mb-4">
               Las presentes condiciones regulan el acceso y uso del sitio web y los
-              servicios ofrecidos bajo la marca <strong>Focus English</strong> (en adelante,
+              servicios ofrecidos bajo la marca <strong>Linguafly</strong> (en adelante,
               el &quot;Servicio&quot;) por la persona física que gestiona el proyecto hasta
               que, en su caso, una razón social asuma la titularidad. Al registrarse,
               contratar o utilizar el Servicio, usted declara haber leído y aceptado estas
@@ -43,7 +43,7 @@ export default function TerminosPage() {
 
             <h2 className="text-2xl font-bold mt-10 mb-4">2. Descripción del Servicio</h2>
             <p className="mb-4">
-              Focus English ofrece contenidos y herramientas para el aprendizaje del inglés
+              Linguafly ofrece contenidos y herramientas para el aprendizaje del inglés
               (cursos, ejercicios, recursos complementarios y funcionalidades asociadas). En
               esta fase el Servicio puede cambiar con frecuencia, incluir errores o
               interrupciones y no supone aún una oferta comercial cerrada. Nos reservamos el

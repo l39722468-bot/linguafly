@@ -1,15 +1,15 @@
 ---
 category: curso-a2
 date: '2026-08-25'
-updatedDate: '2026-08-25'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 56 A2: Technology & Communication (con soluciones)'
+title: 'Ejercicios de Tecnología y Comunicación en Inglés A2'
 description: >-
   Practica todos los ejercicios de la Unidad 56 del curso A2: email, download, upload, log in, WiFi, password, link, turn on,
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A2 unidad 56
+  - Ejercicios de Tecnología y Comunicación en Inglés A2
   - technology communication ejercicios
   - download log in WiFi
   - send email app

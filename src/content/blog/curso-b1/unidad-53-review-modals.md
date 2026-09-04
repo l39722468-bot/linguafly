@@ -1,16 +1,16 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Review B1: Modals + Mixed Topics'
+title: 'Repaso B1: Modales, Deducciones y Ejercicios'
 description: >-
   Repasa a fondo los modales de deducción (must/might/can't), had better, would rather y need/needn't en inglés
   B1, con diagnóstico, vocabulario mixto, errores típicos, reading, diálogo y más de 8 ejercicios con soluciones.
   Curso y ejercicios de inglés B1 gratis.
 readTime: 19 min
 keywords:
-  - modals review B1
+  - Repaso B1: Modales, Deducciones y Ejercicios
   - must might can't deduction
   - had better would rather needn't
   - modal verbs English B1

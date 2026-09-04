@@ -1,15 +1,15 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Reported Speech Ejercicios PDF'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Reported Speech: Ejercicios con Soluciones en PDF'
 description: >-
   Ejercicios de Reported Speech con soluciones para niveles B1, B2, C1 y C2.
   Practica el estilo indirecto en el artículo y descarga el mismo contenido en PDF.
 readTime: 12 min
 keywords:
-  - Reported Speech Ejercicios PDF
+  - Reported Speech: Ejercicios con Soluciones en PDF
   - ejercicios reported speech pdf
   - reporting verbs exercises pdf
   - reported speech c1 exercises pdf

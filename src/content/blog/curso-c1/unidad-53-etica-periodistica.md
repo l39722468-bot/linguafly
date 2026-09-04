@@ -1,9 +1,9 @@
 ---
 category: curso-c1
 date: '2026-09-23'
-updatedDate: '2026-09-23'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Unidad 53 C1: Ética periodística"
+title: "Ética Periodística en Inglés C1: Guía y Ejercicios"
 description: >-
   En esta unidad del curso de inglés C1 gratis aprendes a manejar el léxico de la deontología periodística, a citar
   fuentes con precisión académica y a debatir los dilemas éticos del periodismo con el rigor que exige el nivel C1.
@@ -11,7 +11,7 @@ description: >-
 readTime: 40 min
 keywords:
   [
-    curso de inglés C1 gratis,
+    Ética Periodística en Inglés C1: Guía y Ejercicios,
     ejercicios inglés C1 gratis,
     ética periodística en inglés C1,
     deontología periodística C1,

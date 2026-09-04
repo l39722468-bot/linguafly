@@ -1,15 +1,15 @@
 ---
-title: 'Phrasal Verbs en Conversación'
+title: 'Phrasal Verbs en Conversación: Lista y Ejemplos'
 date: '2026-02-24'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Los phrasal verbs más usados en conversación cotidiana en inglés: los que aparecen en series, podcasts y entre nativos. Con ejemplos reales y diferencias de registro.
 category: gramatica
 alt: Dos personas conversando en inglés usando phrasal verbs cotidianos
 readTime: 8 min
 keywords:
-  - Phrasal Verbs en Conversación
+  - Phrasal Verbs en Conversación: Lista y Ejemplos
   - phrasal verbs conversacion
   - gramática inglesa gratis
   - phrasal verbs más usados en conversación inglesa

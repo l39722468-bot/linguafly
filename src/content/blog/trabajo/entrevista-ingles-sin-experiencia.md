@@ -14,7 +14,7 @@ keywords:
   - entrevista trabajo inglés sin experiencia laboral
   - cómo responder entrevista inglés primer empleo junior
   - inglés de negocios gratis
-author: focus-english-team
+author: linguafly-team
 date: '2026-02-23'
 updatedDate: '2026-08-31'
 alt: Joven candidata en entrevista de trabajo en inglés para su primer empleo

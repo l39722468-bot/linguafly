@@ -9,7 +9,7 @@ description: >-
 
 El inglés que aprendes en los libros de texto y el inglés que escuchas en las calles de Londres, Nueva York o Sidney son, a menudo, dos idiomas diferentes. El **slang** (jerga) es el alma vibrante del idioma; cambia constantemente, se alimenta de la cultura pop, las redes sociales y la música, y define quién es parte del grupo y quién no.
 
-En esta guía de **Focus English**, te traemos el slang que realmente se usa en 2026. Olvida el "How do you do?" y prepárate para sumergirte en el inglés real.
+En esta guía de **Linguafly**, te traemos el slang que realmente se usa en 2026. Olvida el "How do you do?" y prepárate para sumergirte en el inglés real.
 
 ---
 

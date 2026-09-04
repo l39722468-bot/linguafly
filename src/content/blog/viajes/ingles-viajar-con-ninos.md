@@ -1,8 +1,8 @@
 ---
-title: 'Inglés para Viajar con Niños'
+title: 'Inglés para Viajar con Niños: Frases y Vocabulario'
 date: '2026-04-17'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Frases y vocabulario en inglés para viajar con niños. Desde el avión hasta el pediatra, pasando por restaurantes, parques y actividades familiares en el extranjero.
 excerpt: >-
@@ -11,7 +11,7 @@ category: viajes
 readTime: 11 min
 alt: Familia con niños pequeños en un aeropuerto internacional con maletas
 keywords:
-  - Inglés para Viajar con Niños
+  - Inglés para Viajar con Niños: Frases y Vocabulario
   - ingles viajar con ninos
   - inglés para viajar gratis
   - frases en inglés gratis

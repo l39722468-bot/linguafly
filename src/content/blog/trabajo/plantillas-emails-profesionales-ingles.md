@@ -1,8 +1,8 @@
 ---
-title: '20 Plantillas de Emails Profesionales'
+title: '20 Plantillas de Emails Profesionales en Inglés'
 date: '2026-02-15'
-updatedDate: '2026-08-31'
-author: focus-english-team
+updatedDate: '2026-09-04'
+author: linguafly-team
 description: >-
   Descarga y adapta las 20 plantillas de emails profesionales en inglés más
   utilizadas. Desde solicitudes de reunión hasta seguimiento de proyectos y
@@ -13,7 +13,7 @@ canonical: >-
   https://linguafly.app/blog/trabajo/plantillas-emails-profesionales-ingles
 readTime: 5 min
 keywords:
-  - 20 Plantillas de Emails Profesionales
+  - 20 Plantillas de Emails Profesionales en Inglés
   - emails profesionales ingles
   - inglés de negocios gratis
 faqs:

@@ -1,16 +1,16 @@
 ---
 category: curso-a1
 date: '2026-08-21'
-updatedDate: '2026-08-21'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Unidad 45 A1: Seasons — in spring / summer… (con soluciones)'
+title: 'Ejercicios de las Estaciones del Año en Inglés A1'
 description: >-
   Practica todos los ejercicios de la Unidad 45 del curso A1: in + estación,
   spring, summer, autumn, winter, nature, reading, listening y writing. Con
   soluciones comentadas.
 readTime: 25 min
 keywords:
-  - ejercicios inglés A1 unidad 45
+  - Ejercicios de las Estaciones del Año en Inglés A1
   - ejercicios seasons in spring
   - spring summer autumn winter
   - in winter in summer A1

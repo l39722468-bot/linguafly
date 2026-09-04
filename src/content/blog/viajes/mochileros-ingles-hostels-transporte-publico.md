@@ -1,15 +1,15 @@
 ---
 category: viajes
 date: '2026-04-03'
-updatedDate: '2026-08-31'
-author: focus-english-team
-title: 'Inglés para mochileros en hostels'
+updatedDate: '2026-09-04'
+author: linguafly-team
+title: 'Inglés para Mochileros: Hostels y Transporte'
 description: >-
   Guía práctica de inglés para mochileros: reservas en hostels, literas, consignas,
   metro, bus nocturno y vocabulario real para moverte sin estrés en inglés.
 readTime: 15 min
 keywords:
-  - Inglés para mochileros en hostels
+  - Inglés para Mochileros: Hostels y Transporte
   - aprender inglés para mochileros
   - inglés para viajar gratis
   - frases en inglés gratis
