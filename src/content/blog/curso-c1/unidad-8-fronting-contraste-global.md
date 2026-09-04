@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-02'
 updatedDate: '2026-09-02'
 author: linguafly-team
-title: "Fronting y especulación C1: problemas globales"
+title: "Ejercicios de Fronting y Especulación en Inglés C1"
 description: >-
   Aprende fronting, topicalisation, contraste y lenguaje especulativo en inglés C1 con temas globales. Teoría, vocabulario y ejercicios con soluciones.
 readTime: 40 min
 keywords:
-  - fronting inglés C1
+  - Ejercicios de Fronting y Especulación en Inglés C1
   - topicalisation ejercicios inglés avanzado
   - inversion never rarely not until C1
   - speculation language ejercicios C1

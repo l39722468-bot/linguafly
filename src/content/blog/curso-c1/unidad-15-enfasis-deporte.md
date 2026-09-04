@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Énfasis en inglés C1: deporte y rendimiento"
+title: "Ejercicios de Énfasis en Inglés C1"
 description: >-
   Aprende a usar do y did enfáticos y estructuras de fronting en inglés C1 con vocabulario de deporte, competición y rendimiento. Teoría y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - emphatic do did inglés C1
+  - Ejercicios de Énfasis en Inglés C1
   - fronting ejercicios inglés avanzado
   - only did inversión C1
   - vocabulario deporte rendimiento inglés

@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Pasiva avanzada C1: música y artes escénicas"
+title: "Ejercicios de la Pasiva Avanzada en Inglés C1"
 description: >-
   Aprende la pasiva impersonal, la pasiva con reporting verbs y las causativas have/get something done en inglés C1. Música, ejemplos y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - advanced passive voice inglés C1
+  - Ejercicios de la Pasiva Avanzada en Inglés C1
   - have something done ejercicios C1
   - get something done inglés avanzado
   - passive reporting verbs C1

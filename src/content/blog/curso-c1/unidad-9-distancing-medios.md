@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Distancing y clefts C1: medios e información"
+title: "Ejercicios de Distancing y Cleft Sentences C1"
 description: >-
   Aprende distancing language, construcciones impersonales y clefts avanzadas en inglés C1 con vocabulario de medios e información. Teoría y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - distancing language inglés C1
+  - Ejercicios de Distancing y Cleft Sentences C1
   - impersonal constructions ejercicios C1
   - advanced cleft sentences inglés
   - reported media language C1

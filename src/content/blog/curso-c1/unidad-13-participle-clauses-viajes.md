@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Participle clauses C1: viajes e intercambio cultural"
+title: "Ejercicios de Participle Clauses en Inglés C1"
 description: >-
   Domina las participle clauses en inglés C1 para expresar tiempo, causa y concesión. Teoría, vocabulario de viajes y ejercicios con soluciones.
 readTime: 40 min
 keywords:
-  - participle clauses inglés C1
+  - Ejercicios de Participle Clauses en Inglés C1
   - having travelled ejercicios C1
   - reduced clauses inglés avanzado
   - vocabulario viajes intercambio cultural

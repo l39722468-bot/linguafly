@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Mixed conditionals C1: ciudad y arquitectura"
+title: "Ejercicios de Mixed Conditionals en Inglés C1"
 description: >-
   Aprende mixed conditionals para relacionar decisiones pasadas y consecuencias presentes en inglés C1. Teoría, urbanismo y ejercicios con soluciones.
 readTime: 40 min
 keywords:
-  - mixed conditionals inglés C1
+  - Ejercicios de Mixed Conditionals en Inglés C1
   - condicionales mixtos ejercicios avanzados
   - if had would be now C1
   - vocabulario urbanismo arquitectura inglés

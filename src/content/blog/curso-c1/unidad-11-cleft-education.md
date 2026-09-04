@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Cleft sentences C1: educación y aprendizaje"
+title: "Ejercicios de Cleft Sentences en Inglés C1"
 description: >-
   Aprende a usar cleft sentences para enfatizar ideas en inglés C1 con vocabulario de educación, evaluación y pensamiento crítico. Teoría y ejercicios resueltos.
 readTime: 38 min
 keywords:
-  - cleft sentences inglés C1
+  - Ejercicios de Cleft Sentences en Inglés C1
   - it was who that ejercicios
   - what clause inglés avanzado
   - vocabulario educación inglés C1

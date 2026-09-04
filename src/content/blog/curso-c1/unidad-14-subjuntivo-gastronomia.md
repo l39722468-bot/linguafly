@@ -1,14 +1,14 @@
 ---
 category: curso-c1
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Subjuntivo en inglés C1: gastronomía y cultura"
+title: "Ejercicios del Subjuntivo en Inglés C1"
 description: >-
   Aprende el subjuntivo mandativo en inglés C1 con recommend that, essential that y require that. Teoría, vocabulario gastronómico y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - subjuntivo inglés C1
+  - Ejercicios del Subjuntivo en Inglés C1
   - recommend that subjuntivo ejercicios
   - essential that be inglés avanzado
   - vocabulario gastronomía inglés C1

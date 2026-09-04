@@ -3,12 +3,12 @@ category: curso-c1
 date: '2026-09-04'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Inversión para énfasis C1: moda e identidad"
+title: "Ejercicios de Inversión para Énfasis en Inglés C1"
 description: >-
   Aprende la inversión con adverbios negativos, not only, only by y condicionales invertidas en inglés C1. Moda e identidad, lenguaje evaluativo, crítica social y ejercicios resueltos.
 readTime: 40 min
 keywords:
-  - inversión inglés C1
+  - Ejercicios de Inversión para Énfasis en Inglés C1
   - inversion negative adverbs ejercicios
   - not only but also inversión C1
   - vocabulario moda inglés C1
