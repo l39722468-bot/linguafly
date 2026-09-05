@@ -3,10 +3,10 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Gramática Mixta B1: Ropa y Colores'
+title: 'Ejercicios de Gramática Mixta B1: Ropa, Colores y Soluciones'
 description: >-
   Practica passive, would rather, relatives, comparatives y although en inglés B1,
-  con vocabulario de ropa y colores, reading, listening y soluciones.
+  con vocabulario de ropa y colores, reading, listening y soluciones comentadas.
 readTime: 25 min
 keywords:
   - Ejercicios de Gramática Mixta sobre Ropa y Colores B1

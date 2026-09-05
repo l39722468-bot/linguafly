@@ -1,11 +1,11 @@
 ---
-title: 'Inglés para Hoteles: Frases de Check-in y Problemas'
+title: 'Inglés para Hoteles: Frases de Check-in, Check-out y Problemas'
 description: >-
   Aprende inglés para hoteles: frases de check-in y check-out, pedir servicios,
-  resolver problemas y comunicarte con recepción durante tu viaje.
+  resolver problemas y comunicarte con recepción durante tus viajes.
 readTime: 6 min
 excerpt: >-
-  Frases de inglés para hoteles: check-in, check-out, servicios y problemas frecuentes para desenvolverte durante tus vacaciones.
+  Frases de inglés para hoteles: check-in, check-out, servicios y problemas frecuentes para desenvolverte durante un viaje.
 keywords:
   - 'Inglés para Hoteles: Vocabulario y Frases Útiles'
   - ingles para hoteles

@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Comparativos en Inglés A2: -er, More Than y Ejercicios'
+title: 'Comparativos en Inglés A2: -er, More Than y Ejemplos'
 description: >-
   Aprende comparativos en inglés A2: taller than, more expensive than, better,
-  worse y as… as, con reglas, audio y ejercicios de la Unidad 5.
+  worse y as… as, con reglas, audio y ejercicios prácticos de la Unidad 5.
 readTime: 15 min
 keywords:
   - comparativos inglés A2

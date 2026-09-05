@@ -3,10 +3,10 @@ category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Reported Speech: Ejercicios B1-C2 con Soluciones PDF'
+title: 'Reported Speech: Ejercicios B1-C2 y PDF con Soluciones'
 description: >-
-  Practica Reported Speech B1-C2 con ejercicios, soluciones y PDF descargable:
-  statements, questions, commands y cambios de tiempo.
+  Practica Reported Speech B1-C2 con ejercicios y PDF descargable: statements,
+  questions, commands, soluciones y cambios de tiempo.
 readTime: 12 min
 keywords:
   - Reported Speech: Ejercicios con Soluciones en PDF

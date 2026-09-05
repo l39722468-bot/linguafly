@@ -6,7 +6,7 @@ author: linguafly-team
 title: 'Modales de Obligación B2: Must, Have to y Need to'
 description: >-
   Aprende modales de obligación B2: must, have to, need to, needn't y don't have
-  to, con vocabulario de money, ejemplos y ejercicios.
+  to, con vocabulario de money, ejemplos y ejercicios prácticos.
 readTime: 43 min
 keywords:
   - Ejercicios de Modales de Obligación en Inglés B2

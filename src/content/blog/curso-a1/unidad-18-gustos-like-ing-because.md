@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Gustos y Hobbies en Inglés A1: Like + -ing'
+title: 'Gustos y Hobbies en Inglés A1: Like, Don’t Like y -ing'
 description: >-
   Aprende likes and dislikes en inglés A1: like/don't like + -ing, Why? Because,
-  hobbies, música y películas, con audio y ejercicios de la Unidad 18.
+  hobbies, música y películas, con ejemplos, audio y ejercicios.
 readTime: 15 min
 keywords:
   - like + ing inglés
