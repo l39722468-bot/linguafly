@@ -6,7 +6,7 @@ author: linguafly-team
 title: 'Direcciones en Inglés A1: Turn Left, Right y Go Straight'
 description: >-
   Aprende a dar direcciones en inglés A1 con Turn left, Turn right y Go straight,
-  frases útiles, mapas, audio y ejercicios paso a paso.
+  frases útiles, mapas, audio y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - giving directions A1
