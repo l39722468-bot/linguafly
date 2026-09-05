@@ -4,12 +4,12 @@ author: linguafly-team
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-5-repaso-1-4'
 category: curso-b1
 date: '2026-08-12'
-title: 'Repaso B1 Unidades 1–4: Gramática y Ejercicios'
+title: 'Repaso B1 Unidades 1–4: Tiempos y Ejercicios'
 description: >-
   Repasa las Unidades 1–4 del curso B1: tiempos verbales, diagnóstico, reading y
-  ejercicios prácticos para consolidar tu nivel.
+  ejercicios para comprobar y consolidar tu nivel.
 excerpt: >-
-  Repaso B1 de Present Perfect Continuous, Past Perfect y Past vs Present Perfect, con diagnóstico y ejercicios de la Unidad 5.
+  Repasa Present Perfect Continuous, Past Perfect y Past vs Present Perfect con diagnóstico y ejercicios de la Unidad 5 del curso B1.
 faqs:
   - question: ¿Qué gramática repasa exactamente la Unidad 5?
     answer: >-

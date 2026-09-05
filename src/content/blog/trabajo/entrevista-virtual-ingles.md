@@ -1,11 +1,11 @@
 ---
-title: 'Entrevista Virtual en Inglés: Preguntas, Frases y Consejos'
+title: 'Entrevista Virtual en Inglés: Preguntas y Consejos'
 description: >-
   Prepárate para una entrevista virtual en inglés con preguntas, respuestas,
-  frases útiles, lenguaje corporal y consejos para videollamadas.
+  frases útiles, lenguaje corporal y consejos para triunfar por videollamada.
 readTime: 5 min
 excerpt: >-
-  Prepárate para una entrevista de trabajo virtual en inglés: preguntas, respuestas, cámara, lenguaje corporal y soluciones técnicas.
+  Prepárate para una entrevista de trabajo virtual en inglés con preguntas, frases, consejos para la cámara y soluciones técnicas.
 keywords:
   - entrevista virtual inglés videollamada zoom teams
   - entrevista trabajo online inglés setup cámara

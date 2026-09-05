@@ -3,10 +3,10 @@ category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Reported Speech B1-B2: Preguntas, Órdenes y Peticiones'
+title: 'Reported Speech B1-B2: Preguntas y Órdenes'
 description: >-
-  Aprende reported speech B1-B2 para preguntas, órdenes y peticiones: if, whether,
-  ask, tell y to + infinitive, con reglas, ejemplos y ejercicios.
+  Aprende reported speech B1-B2 para preguntas, órdenes y peticiones: usa if,
+  whether, ask, tell y to + infinitive con reglas, ejemplos y ejercicios.
 readTime: 4 min
 keywords:
   - 'Reported Speech: Preguntas, Órdenes y Peticiones'
