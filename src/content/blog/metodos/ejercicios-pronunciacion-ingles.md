@@ -1,11 +1,11 @@
 ---
-title: 'Ejercicios de Pronunciación en Inglés: Sonidos y Fluidez'
+title: 'Ejercicios de Pronunciación en Inglés: Sonidos y Ritmo'
 description: >-
   Mejora tu pronunciación en inglés con ejercicios de sonidos, ritmo, entonación
-  y fluidez, además de técnicas prácticas para hispanohablantes.
+  y fluidez, además de técnicas para hispanohablantes.
 readTime: 8 min
 excerpt: >-
-  Mejora la pronunciación inglesa desde casa con ejercicios de sonidos, ritmo y entonación para ganar fluidez.
+  Mejora la pronunciación inglesa desde casa con ejercicios de sonidos, ritmo y entonación para hablar con más fluidez.
 keywords:
   - Ejercicios de Pronunciación en Inglés: Guía
   - ejercicios pronunciación inglés
