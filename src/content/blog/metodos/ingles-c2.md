@@ -3,9 +3,10 @@ category: metodos
 date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Nivel C2 de Inglés: Qué Es y Cómo Alcanzarlo'
+title: 'Nivel C2 de Inglés: Qué Significa y Cómo Lograrlo'
 description: >-
-  El C2 (Proficiency) es la cumbre del MCER. Te explicamos qué lo diferencia del C1, cuántas horas necesitas (200-300h), qué mide el CPE de Cambridge (255€,...
+  Descubre qué significa tener nivel C2 de inglés, qué diferencia hay con C1,
+  cuánto estudiar y cómo preparar el CPE de Cambridge.
 readTime: 9 min
 keywords:
   - 'Nivel C2 de Inglés: Qué Es y Cómo Alcanzarlo'

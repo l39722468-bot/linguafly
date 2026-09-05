@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-12'
 updatedDate: '2026-08-12'
 author: linguafly-team
-title: 'Would like vs Like A2: deseo educado y gustos'
+title: 'Would Like vs Like A2: Diferencias y Ejemplos'
 description: >-
-  Distingue I like (gusto) de I'd like / Would you like (deseo y petición
-  educada). Guía Unidad 37 del curso A2 con audios, diálogos y ejercicios.
+  Distingue I like de I'd like y Would you like para hablar de gustos, deseos y
+  peticiones educadas, con diálogos, audio y ejercicios A2.
 readTime: 15 min
 keywords:
   - would like vs like

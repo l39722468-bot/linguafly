@@ -3,11 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: "Can for Ability A1: can / can't para habilidades"
+title: "Can y Can't A1: Habilidades, Permiso y Ejemplos"
 description: >-
-  Aprende can y can't en inglés A1 para hablar de habilidades: swim, cook,
-  drive, speak a language. Guía Unidad 31 con afirmativa, negativa, preguntas,
-  audios y ejercicios.
+  Aprende can y can't en inglés A1 para expresar habilidades y pedir permiso,
+  con preguntas, respuestas, audio y ejercicios.
 readTime: 15 min
 keywords:
   - can can't A1

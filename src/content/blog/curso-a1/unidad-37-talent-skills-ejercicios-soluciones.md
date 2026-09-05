@@ -3,9 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Talento y Habilidades en Inglés A1'
+title: 'Ejercicios de Habilidades en Inglés A1: Can y Can’t'
 description: >-
-  Practica todos los ejercicios de la Unidad 37 del curso A1: very well, quite well, not at all, good at, reading de Lisa, listening de skills y writing.
+  Practica habilidades y talentos en inglés A1 con can y can't, vocabulario,
+  reading, listening, writing y soluciones comentadas.
 readTime: 25 min
 keywords:
   - Ejercicios de Talento y Habilidades en Inglés A1

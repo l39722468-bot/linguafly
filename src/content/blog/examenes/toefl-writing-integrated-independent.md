@@ -1,7 +1,8 @@
 ---
-title: 'TOEFL Writing: Integrated e Independent Explicados'
+title: 'TOEFL Writing: Integrated y Academic Discussion'
 description: >-
-  Guía completa del TOEFL Writing: cómo funcionan la Integrated Task y la Academic Discussion Task, estructuras de alto puntaje, vocabulario y errores que...
+  Prepara el TOEFL Writing con Integrated Task y Academic Discussion, estructuras
+  para sacar buena nota, vocabulario y errores frecuentes.
 readTime: 13 min
 excerpt: >-
   El TOEFL Writing evalúa dos habilidades muy distintas en 35 minutos: sintetizar
