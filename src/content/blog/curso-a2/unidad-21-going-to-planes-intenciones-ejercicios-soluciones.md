@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Going To para Planes en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 21 del curso A2: am/is/are + going to + infinitivo (planes e intenciones),
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 21 del curso A2: am/is/are + going to + infinitivo (planes e intenciones), reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Going To para Planes en Inglés A2

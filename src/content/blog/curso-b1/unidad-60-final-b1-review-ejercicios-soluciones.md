@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso Final de Inglés B1 con Ejercicios'
 description: >-
-  Practica todos los ejercicios de la Unidad 60 del curso B1: full B1 grammar revision (all modules U1–60);
-  full revision (mix), reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 60 del curso B1: full B1 grammar revision (all modules U1–60); full revision (mix), reading, listening y writing.
 readTime: 25 min
 keywords:
   - Repaso Final de Inglés B1 con Ejercicios

@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Could para Habilidad y Peticiones A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 29 del curso A2: could / couldn't (habilidad pasada) y Could you…? (peticiones educadas),
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 29 del curso A2: could / couldn't (habilidad pasada) y Could you…? (peticiones educadas), reading, listening y...
 readTime: 25 min
 keywords:
   - Ejercicios de Could para Habilidad y Peticiones A2

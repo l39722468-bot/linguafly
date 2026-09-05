@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Compras y Servicios en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 46 del curso A2: Can I help you?, I'm looking for…, How much…?, refund/exchange, cheaper/more expensive,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 46 del curso A2: Can I help you?, I'm looking for…, How much…?, refund/exchange, cheaper/more expensive, reading,...
 readTime: 25 min
 keywords:
   - Ejercicios de Compras y Servicios en Inglés A2

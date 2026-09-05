@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Voz Pasiva Modal en Inglés B2"
 description: >-
-  Aprende modal passive (must/should be + V3) y have something done en inglés B2 con vocabulario de adventure & extreme sports, y practica con ejercicios comentados. Guía completa Unidad 17 con audios.
+  Aprende modal passive (must/should be + V3) y have something done en inglés B2 con vocabulario de adventure & extreme sports, y practica con ejercicios...
 readTime: 40 min
 keywords:
   - Ejercicios de Voz Pasiva Modal en Inglés B2

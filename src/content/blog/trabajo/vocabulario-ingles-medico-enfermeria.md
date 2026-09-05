@@ -4,9 +4,7 @@ date: '2026-03-01'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Guía de vocabulario de inglés médico para enfermeras y enfermeros. Términos
-  clínicos esenciales, comunicación con pacientes internacionales y frases para
-  situaciones de urgencia.
+  Guía de vocabulario de inglés médico para enfermeras y enfermeros. Términos clínicos esenciales, comunicación con pacientes internacionales y frases para...
 category: trabajo
 alt: Enfermera hablando en inglés con un paciente internacional en un hospital
 canonical: >-

@@ -5,9 +5,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-4-past-vs-present-perfect
 category: curso-b1
 date: '2026-08-12'
 description: >-
-  Contrasta Past Simple y Present Perfect en inglés B1 con time expressions: yesterday, last week, ever,
-  never, just, already, yet, for, since. Guía completa de la Unidad 4 con explicaciones, audios, reading
-  de viajes, diálogo, errores típicos y ejercicios resueltos.
+  Contrasta Past Simple y Present Perfect en inglés B1 con time expressions: yesterday, last week, ever, never, just, already, yet, for, since.
 excerpt: >-
   Guía completa de la Unidad 4 del curso B1: contraste Past Simple vs Present Perfect con yesterday, ever,
   just, already, yet y más expresiones de tiempo, con reading, diálogo y ejercicios.

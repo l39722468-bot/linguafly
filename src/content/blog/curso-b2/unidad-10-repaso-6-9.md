@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso de Gramática B2: Unidades 6 a 9"
 description: >-
-  Repasa de forma integrada wish/if only, would rather/it's time, mixed conditionals y participle clauses del modulo 1 del curso B2, con vocabulario de feelings, family, travel y environment, reading, dialogo y audios. Incluye tambien los ejercicios de la Unidad 10 con soluciones comentadas que mezclan las cuatro estructuras del modulo.
+  Repasa de forma integrada wish/if only, would rather/it's time, mixed conditionals y participle clauses del modulo 1 del curso B2, con vocabulario de...
 readTime: 45 min
 keywords:
   - Repaso de Gramática B2: Unidades 6 a 9

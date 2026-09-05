@@ -1,9 +1,7 @@
 ---
 title: 'Shadowing en Inglés: Guía Paso a Paso'
 description: >-
-  Aprende a usar el shadowing para mejorar tu pronunciación en inglés de forma
-  rápida y efectiva. Guía paso a paso con tipos de shadowing, materiales
-  recomendados y errores comunes a evitar.
+  Aprende a usar el shadowing para mejorar tu pronunciación en inglés de forma rápida y efectiva. Guía paso a paso con tipos de shadowing, materiales...
 readTime: 7 min
 excerpt: >-
   El shadowing consiste en imitar a un hablante nativo casi en tiempo real,

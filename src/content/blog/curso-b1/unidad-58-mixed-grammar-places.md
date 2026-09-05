@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Mixed Grammar Practice B1: Places (Town & Countryside)'
 description: >-
-  Práctica gramatical mixta B1 (passive, would rather, there is/are, relative "where", present perfect
-  continuous y second conditional) con vocabulario completo de ciudad y campo. Guía Unidad 58 con diagnóstico,
-  errores típicos, reading, diálogo y más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
+  Práctica gramatical mixta B1 (passive, would rather, there is/are, relative "where", present perfect continuous y second conditional) con vocabulario...
 readTime: 19 min
 keywords:
   - mixed grammar B1 places

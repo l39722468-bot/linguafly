@@ -1,8 +1,7 @@
 ---
 title: 'Inglés de Irlanda: Vocabulario y Expresiones'
 description: >-
-  Léxico y pragmática del Hiberno-English para viajeros: expresiones cotidianas, registro,
-  falsos amigos y cómo relacionar lo que oyes con el acento. Incluye ejemplos en contexto y advertencias culturales.
+  Léxico y pragmática del Hiberno-English para viajeros: expresiones cotidianas, registro, falsos amigos y cómo relacionar lo que oyes con el acento.
 readTime: 14 min
 excerpt: >-
   Entender el acento irlandés va de la mano del vocabulario local. Esta guía recoge expresiones que aparecen una y otra vez en conversación real, con matices de registro para que sepas cuándo usarlas y cuándo limitarte a reconocerlas.

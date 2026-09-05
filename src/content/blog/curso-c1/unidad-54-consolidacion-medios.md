@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso y Ejercicios de Medios en Inglés C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a sintetizar los temas mediáticos tratados en unidades
-  anteriores, a integrar argumentos sobre medios tradicionales, desinformación, privacidad, IA y éttica periodística,
-  y a producir discurso coherente de síntesis. Con teoría detallada y 19 ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis aprendes a sintetizar los temas mediáticos tratados en unidades anteriores, a integrar argumentos sobre medios...
 readTime: 40 min
 keywords:
   [

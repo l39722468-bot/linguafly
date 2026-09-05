@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Repaso B1 Unidades 41–44: Prepositions & Time'
 description: >-
-  Repaso integrado B1 de las Unidades 41 a 44: verb + preposition, adjective + preposition + feelings,
-  during/for/while y for/since/from, con un diagnóstico para elegir la estructura correcta. Guía completa con
-  explicaciones, tablas, audios, reading, diálogo y ejercicios resueltos.
+  Repaso integrado B1 de las Unidades 41 a 44: verb + preposition, adjective + preposition + feelings, during/for/while y for/since/from, con un diagnóstico...
 readTime: 16 min
 keywords:
   - repaso B1 41-44

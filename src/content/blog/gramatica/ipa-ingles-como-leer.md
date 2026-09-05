@@ -1,9 +1,7 @@
 ---
 title: 'IPA en Inglés: Cómo Leer el Alfabeto Fonético'
 description: >-
-  Guía práctica para entender y usar el IPA en inglés. Aprende qué significa
-  cada símbolo, cómo leer las transcripciones de los diccionarios y por qué
-  el alfabeto fonético puede transformar tu pronunciación.
+  Guía práctica para entender y usar el IPA en inglés. Aprende qué significa cada símbolo, cómo leer las transcripciones de los diccionarios y por qué el...
 readTime: 9 min
 excerpt: >-
   El IPA no es tan complicado como parece a primera vista. Con unos pocos

@@ -4,7 +4,7 @@ date: '2026-02-20'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  El vocabulario académico que necesitas para el IELTS: Academic Word List, colocaciones frecuentes por tema, palabras que confunden a los candidatos y métodos de aprendizaje que realmente funcionan.
+  El vocabulario académico que necesitas para el IELTS: Academic Word List, colocaciones frecuentes por tema, palabras que confunden a los candidatos y...
 category: examenes
 alt: Libreta con vocabulario en inglés para preparar el IELTS
 readTime: 7 min

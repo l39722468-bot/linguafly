@@ -4,7 +4,7 @@ date: '2026-02-12'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende los phrasal verbs con TAKE más importantes: take off, take on, take up, take over, take after y más de 25 combinaciones esenciales con ejemplos reales en contexto.
+  Aprende los phrasal verbs con TAKE más importantes: take off, take on, take up, take over, take after y más de 25 combinaciones esenciales con ejemplos...
 category: gramatica
 alt: Persona tomando notas sobre phrasal verbs con TAKE
 readTime: 7 min

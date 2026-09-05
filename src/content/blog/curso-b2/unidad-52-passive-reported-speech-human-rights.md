@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Pasiva y Estilo Indirecto B2"
 description: >-
-  Guía completa de la Unidad 52 del curso B2: passive voice (all tenses), passive reporting y reported speech con vocabulario de justicia, derechos humanos y sistema legal. Incluye reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 52 del curso B2: passive voice (all tenses), passive reporting y reported speech con vocabulario de justicia, derechos humanos y...
 readTime: 45 min
 keywords:
   - Ejercicios de Pasiva y Estilo Indirecto B2

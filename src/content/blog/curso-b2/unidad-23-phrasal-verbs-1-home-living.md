@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Phrasal Verbs BE, BREAK y BRING B2"
 description: >-
-  Guía completa de la Unidad 23 del curso B2: phrasal verbs con BE, BREAK y BRING (be about to, break down, bring up…) con vocabulario de home & living con ejercicios resueltos. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 23 del curso B2: phrasal verbs con BE, BREAK y BRING (be about to, break down, bring up…) con vocabulario de home & living con...
 readTime: 46 min
 keywords:
   - Ejercicios de Phrasal Verbs BE, BREAK y BRING B2

@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Ética Periodística en Inglés C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a manejar el léxico de la deontología periodística, a citar
-  fuentes con precisión académica y a debatir los dilemas éticos del periodismo con el rigor que exige el nivel C1.
-  Con teoría detallada y 19 ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis aprendes a manejar el léxico de la deontología periodística, a citar fuentes con precisión académica y a...
 readTime: 40 min
 keywords:
   [

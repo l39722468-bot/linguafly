@@ -4,7 +4,7 @@ date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Guía completa de Anki para aprender inglés en 2026: instalación, configuración, creación de tarjetas, mejores mazos gratuitos y cómo aprovechar la repetición espaciada para memorizar vocabulario definitivamente.
+  Guía completa de Anki para aprender inglés en 2026: instalación, configuración, creación de tarjetas, mejores mazos gratuitos y cómo aprovechar la...
 excerpt: >-
   Aprende a usar Anki para memorizar vocabulario en inglés de forma definitiva. Guía paso a paso: instalación, configuración, creación de tarjetas, mejores mazos y cómo funciona el sistema de repetición espaciada.
 category: metodos

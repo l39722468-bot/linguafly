@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Preposiciones y Expresiones de Tiempo B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 45 del curso B1: verb/adj + preposition, during/for/while, for/since/from (mix U41–44);
-  dependent prepositions, feelings, time (mix), reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 45 del curso B1: verb/adj + preposition, during/for/while, for/since/from (mix U41–44); dependent prepositions,...
 readTime: 25 min
 keywords:
   - Repaso de Preposiciones y Expresiones de Tiempo B1

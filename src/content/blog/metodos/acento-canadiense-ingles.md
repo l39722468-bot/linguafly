@@ -1,9 +1,7 @@
 ---
 title: 'Acento Canadiense en Inglés: About y Out'
 description: >-
-  Guía completa del Canadian English: el Canadian Raising, las diferencias con
-  el acento americano, el inglés de Quebec, el vocabulario propio y las claves
-  para distinguirlo cuando lo escuchas.
+  Guía completa del Canadian English: el Canadian Raising, las diferencias con el acento americano, el inglés de Quebec, el vocabulario propio y las claves...
 readTime: 9 min
 excerpt: >-
   Los canadienses pronuncian "about" de una manera que los americanos del sur

@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Compound Adjectives B1 + Travel & Descriptions'
 description: >-
-  Aprende a fondo los adjetivos compuestos en inglés (a two-day trip, a 20-year-old student, a well-known
-  hotel, a five-star resort) con vocabulario de viajes. Guía completa de la Unidad 37 del curso B1 con
-  explicaciones, tablas, errores típicos, audios, reading, diálogo y ejercicios resueltos.
+  Aprende a fondo los adjetivos compuestos en inglés (a two-day trip, a 20-year-old student, a well-known hotel, a five-star resort) con vocabulario de viajes.
 readTime: 18 min
 keywords:
   - compound adjectives B1

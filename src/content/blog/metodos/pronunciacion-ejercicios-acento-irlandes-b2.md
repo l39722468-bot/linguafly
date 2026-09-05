@@ -1,8 +1,7 @@
 ---
 title: 'Pronunciación Irlandesa B2: Ejercicios y Ritmo'
 description: >-
-  Rutina de pronunciación para estudiantes B2+: /r/ postvocálica, vocales del sistema irlandés,
-  ritmo y entonación. Incluye minimal pairs, frases modelo y advertencias sobre respeto y registro.
+  Rutina de pronunciación para estudiantes B2+: /r/ postvocálica, vocales del sistema irlandés, ritmo y entonación. Incluye minimal pairs, frases modelo y...
 readTime: 14 min
 excerpt: >-
   Imitar un acento no es teatro: es control articulatorio y conciencia fonética. Estos ejercicios te acercan a rasgos comunes del Hiberno-English sin convertirte en parodia.

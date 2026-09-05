@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Relative Clauses en Inglés B2"
 description: >-
-  Guía completa de la Unidad 11 del curso B2: defining y non-defining relative clauses (who/which/that/whose/where) con vocabulario de culture & urban life. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 11 del curso B2: defining y non-defining relative clauses (who/which/that/whose/where) con vocabulario de culture & urban life.
 readTime: 43 min
 keywords:
   - Ejercicios de Relative Clauses en Inglés B2

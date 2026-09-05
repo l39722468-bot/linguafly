@@ -5,7 +5,7 @@ updatedDate: '2026-09-10'
 author: linguafly-team
 title: "Ejercicios de Reuniones y Minutas en Inglés C1"
 description: >-
-  Aprende a redactar minutas y dirigir reuniones en inglés C1 con reported speech avanzado, verbos de reporte, registro de gestión, vocabulario de liderazgo y ejercicios resueltos.
+  Aprende a redactar minutas y dirigir reuniones en inglés C1 con reported speech avanzado, verbos de reporte, registro de gestión, vocabulario de liderazgo y...
 readTime: 40 min
 keywords:
   - Ejercicios de Reuniones y Minutas en Inglés C1

@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Inglés A2: Módulo 1 con Ejercicios'
 description: >-
-  Practica el repaso del Módulo 1 A2: Past Simple, Wh-questions, comparativos,
-  superlativos, adverbios, at/on/in, into/through/across, reading, listening y
-  writing. Con soluciones comentadas.
+  Practica el repaso del Módulo 1 A2: Past Simple, Wh-questions, comparativos, superlativos, adverbios, at/on/in, into/through/across, reading, listening y...
 readTime: 25 min
 keywords:
   - Repaso de Inglés A2: Módulo 1 con Ejercicios

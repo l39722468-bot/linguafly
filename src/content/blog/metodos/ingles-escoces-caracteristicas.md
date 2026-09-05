@@ -1,9 +1,7 @@
 ---
 title: 'Inglés Escocés: Características y Pronunciación'
 description: >-
-  Guía completa del Scottish English: características fonéticas, diferencias entre
-  Glasgow y Edimburgo, vocabulario del Scots, y estrategias para entender el inglés
-  de Escocia sin perderte nada.
+  Guía completa del Scottish English: características fonéticas, diferencias entre Glasgow y Edimburgo, vocabulario del Scots, y estrategias para entender el...
 readTime: 9 min
 excerpt: >-
   El inglés escocés es rótico como el americano, tiene consonantes que no existen

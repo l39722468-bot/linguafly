@@ -5,7 +5,7 @@ updatedDate: '2026-09-10'
 author: linguafly-team
 title: "Ejercicios de Comparativas y Contraste Avanzados C1"
 description: >-
-  Aprende las comparativas avanzadas (the more... the more..., far/considerably/marginally + comparativo) y el contraste (whereas, conversely, on the other hand) en inglés C1. Océanos, vida marina, vocabulario y ejercicios resueltos.
+  Aprende las comparativas avanzadas (the more... the more..., far/considerably/marginally + comparativo) y el contraste (whereas, conversely, on the other...
 readTime: 40 min
 keywords:
   - Ejercicios de Comparativas y Contraste Avanzados C1

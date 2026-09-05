@@ -4,9 +4,7 @@ date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Guía de preparación para el FCE 2026: trucos específicos para el Reading
-  & Use of English, Writing con plantillas, Listening sin perder el hilo y
-  Speaking con criterios reales de puntuación. Plan de 8 semanas incluido.
+  Guía de preparación para el FCE 2026: trucos específicos para el Reading & Use of English, Writing con plantillas, Listening sin perder el hilo y Speaking...
 category: examenes
 alt: Estudiante estudiando para el Cambridge B2 First con libros y apuntes
 canonical: >-

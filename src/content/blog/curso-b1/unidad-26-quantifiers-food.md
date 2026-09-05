@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Quantifiers B1: much, many, a lot, few, little + Food & Drink'
 description: >-
-  Aprende cuantificadores en inglés B1 (much/many/a lot/few/little) con vocabulario de comida y bebida. Guía
-  completa de la Unidad 26 con explicaciones, tablas, audios, errores típicos, reading, diálogo y ejercicios
-  resueltos.
+  Aprende cuantificadores en inglés B1 (much/many/a lot/few/little) con vocabulario de comida y bebida. Guía completa de la Unidad 26 con explicaciones,...
 readTime: 20 min
 keywords:
   - quantifiers B1

@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Stative Verbs en Inglés B2"
 description: >-
-  Aprende state verbs en inglés B2: like, know, believe, want, understand, prefer, need y más con tecnología y vocabulario de Technology extended. Incluye teoría completa con audio, reading y diálogo, más ejercicios de gramática, vocabulario, reading, listening, writing y speaking con soluciones.
+  Aprende state verbs en inglés B2: like, know, believe, want, understand, prefer, need y más con tecnología y vocabulario de Technology extended.
 readTime: 59 min
 keywords:
   - Ejercicios de Stative Verbs en Inglés B2

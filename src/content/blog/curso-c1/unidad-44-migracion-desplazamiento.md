@@ -5,10 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Migración y Desplazamiento en Inglés C1"
 description: >-
-  En la Unidad 44 del curso de inglés C1 gratis aprenderás a construir narrativas
-  sobre migración, a manejar el léxico de las políticas migratorias y a combinar
-  el registro humano y el normativo con precisión. Incluye 19 ejercicios inglés C1
-  gratis con soluciones.
+  En la Unidad 44 del curso de inglés C1 gratis aprenderás a construir narrativas sobre migración, a manejar el léxico de las políticas migratorias y a...
 readTime: 40 min
 keywords:
   - Ejercicios de Migración y Desplazamiento en Inglés C1

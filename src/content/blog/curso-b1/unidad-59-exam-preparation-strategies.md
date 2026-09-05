@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Preparación Examen B1: Estrategias PET y B1'
 description: >-
-  Guía completa de preparación para el examen B1 Preliminary (PET): estrategias detalladas de reading,
-  listening, writing y speaking, gestión del tiempo, gramática frecuente en examen, vocabulario de estrategias,
-  reading, diálogo y más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
+  Guía completa de preparación para el examen B1 Preliminary (PET): estrategias detalladas de reading, listening, writing y speaking, gestión del tiempo,...
 readTime: 20 min
 keywords:
   - Preparación Examen B1: Estrategias PET y B1

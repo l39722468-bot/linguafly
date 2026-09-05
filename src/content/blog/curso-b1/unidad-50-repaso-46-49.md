@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Repaso B1 Unidades 46–49: Advice, Preferences & Necessity'
 description: >-
-  Repaso integrado B1 de las Unidades 46 a 49: had better/it's time, would rather, phrasal verbs 3 y
-  need/needn't, con un diagnóstico para elegir la estructura correcta. Guía completa con explicaciones, tablas,
-  audios, reading, diálogo y ejercicios resueltos.
+  Repaso integrado B1 de las Unidades 46 a 49: had better/it's time, would rather, phrasal verbs 3 y need/needn't, con un diagnóstico para elegir la...
 readTime: 16 min
 keywords:
   - repaso B1 46-49

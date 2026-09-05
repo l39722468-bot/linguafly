@@ -4,7 +4,7 @@ date: '2026-02-16'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende a usar ever y never correctamente con el present perfect en inglés. Cuándo van en preguntas, en negativas y cuáles son los errores más comunes con ejemplos claros.
+  Aprende a usar ever y never correctamente con el present perfect en inglés. Cuándo van en preguntas, en negativas y cuáles son los errores más comunes con...
 category: gramatica
 alt: Persona haciendo una pregunta con ever en inglés usando present perfect
 readTime: 6 min

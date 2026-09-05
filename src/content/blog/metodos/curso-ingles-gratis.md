@@ -4,7 +4,9 @@ date: '2026-03-20'
 updatedDate: '2026-09-04'
 author: linguafly-team
 excerpt: 'Descubre los mejores cursos de inglés gratuitos online en 2026: BBC Learning English, British Council, Duolingo, YouTube educativo y más. Con plan de estudio de 6 meses.'
-description: 'Guía completa de los mejores cursos de inglés 100% gratuitos online: recursos del British Council, BBC Learning English, Duolingo y el plan gratuito de Linguafly. Incluye plan de estudio por niveles.'
+description: >-
+  Guía completa de los mejores cursos de inglés 100% gratuitos online: recursos del British Council, BBC Learning English, Duolingo y el plan gratuito de...
+
 category: metodos
 readTime: 9 min
 alt: 'Persona estudiando inglés gratis desde casa con el ordenador'

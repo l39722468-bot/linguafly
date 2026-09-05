@@ -1,9 +1,7 @@
 ---
 title: 'Cómo Mejorar tu Acento en Inglés: Guía Efectiva'
 description: >-
-  Guía práctica para mejorar tu acento en inglés de forma efectiva. Descubre
-  qué aspectos trabajar primero, qué técnicas dan resultados reales y cómo
-  organizar la práctica para sonar más natural.
+  Guía práctica para mejorar tu acento en inglés de forma efectiva. Descubre qué aspectos trabajar primero, qué técnicas dan resultados reales y cómo...
 readTime: 8 min
 excerpt: >-
   Mejorar el acento en inglés no es cuestión de imitar a un nativo durante

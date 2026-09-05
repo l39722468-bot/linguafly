@@ -1,9 +1,7 @@
 ---
 title: 'El Acento Sudafricano en Inglés: Guía Clara'
 description: >-
-  Guía completa del South African English: el desplazamiento vocálico, las
-  diferencias entre Cape Town y Johannesburg, el inglés negro sudafricano,
-  loanwords del afrikáans y cómo entrenarte para entenderlo.
+  Guía completa del South African English: el desplazamiento vocálico, las diferencias entre Cape Town y Johannesburg, el inglés negro sudafricano, loanwords...
 readTime: 9 min
 excerpt: >-
   El inglés sudafricano tiene un sistema vocálico completamente diferente al

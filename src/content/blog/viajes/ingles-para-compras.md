@@ -4,7 +4,7 @@ date: '2026-02-20'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Todo el inglés para ir de compras: preguntar precios, tallas, descuentos, cambios y devoluciones en inglés. Frases reales para tiendas, mercados y outlets en países angloparlantes.
+  Todo el inglés para ir de compras: preguntar precios, tallas, descuentos, cambios y devoluciones en inglés. Frases reales para tiendas, mercados y outlets...
 excerpt: >-
   Aprende el inglés que necesitas para ir de compras en países angloparlantes: preguntar precios, tu talla, cambios y devoluciones, regatear y mucho más. Incluye diálogos reales.
 category: viajes

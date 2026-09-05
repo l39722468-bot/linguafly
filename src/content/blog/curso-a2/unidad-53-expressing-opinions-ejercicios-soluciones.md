@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios para Expresar Opiniones en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 53 del curso A2: I think…, In my opinion…, I agree / I disagree, I don't think so,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 53 del curso A2: I think…, In my opinion…, I agree / I disagree, I don't think so, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios para Expresar Opiniones en Inglés A2

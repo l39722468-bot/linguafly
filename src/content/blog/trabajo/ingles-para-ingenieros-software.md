@@ -4,9 +4,7 @@ date: '2026-03-03'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Domina el inglés técnico para desarrollo de software. Vocabulario de
-  programación, comunicación en standups y code reviews, escritura de
-  documentación técnica y reuniones ágiles en inglés.
+  Domina el inglés técnico para desarrollo de software. Vocabulario de programación, comunicación en standups y code reviews, escritura de documentación...
 category: trabajo
 alt: Ingeniero de software trabajando en código con un equipo internacional remoto en inglés
 canonical: >-

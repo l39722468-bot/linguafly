@@ -4,7 +4,7 @@ date: '2026-02-12'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Las mejores apps gratuitas para aprender inglés en tu tiempo libre en 2026: Duolingo, Anki, BBC Learning English y más. Comparativa honesta por nivel para aprender a tu ritmo sin gastar nada.
+  Las mejores apps gratuitas para aprender inglés en tu tiempo libre en 2026: Duolingo, Anki, BBC Learning English y más. Comparativa honesta por nivel para...
 excerpt: >-
   Descubre las mejores apps gratuitas para aprender inglés en 2026 para uso personal y tiempo libre: Duolingo, Anki, BBC Learning English y más. Analizamos cuál te conviene según tu nivel.
 category: metodos

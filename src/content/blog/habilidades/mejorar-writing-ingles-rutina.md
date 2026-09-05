@@ -1,9 +1,7 @@
 ---
 title: 'Cómo Mejorar el Writing en Inglés: Rutina Real'
 description: >-
-  Rutina práctica para mejorar el writing en inglés: estructura de un texto,
-  errores frecuentes de hispanohablantes, corrección con IA y plan semanal
-  sostenible para B1, B2 y C1.
+  Rutina práctica para mejorar el writing en inglés: estructura de un texto, errores frecuentes de hispanohablantes, corrección con IA y plan semanal...
 readTime: 12 min
 excerpt: >-
   Escribir bien en inglés no es cuestión de vocabulario: es cuestión de

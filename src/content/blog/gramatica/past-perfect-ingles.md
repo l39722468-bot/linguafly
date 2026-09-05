@@ -4,7 +4,7 @@ date: '2026-02-28'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Past Perfect en inglés: cuándo usarlo y por qué lo necesitas. Aprende a expresar lo que ocurrió antes de otro evento pasado con ejemplos prácticos y ejercicios para B2-C1.
+  Past Perfect en inglés: cuándo usarlo y por qué lo necesitas. Aprende a expresar lo que ocurrió antes de otro evento pasado con ejemplos prácticos y...
 category: gramatica
 alt: Línea de tiempo mostrando el Past Perfect en relación al Past Simple
 readTime: 9 min

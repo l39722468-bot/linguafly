@@ -6,9 +6,7 @@ author: linguafly-team
 category: examenes
 readTime: 10 min
 description: >-
-  Guía completa del examen de inglés de las Escuelas Oficiales de Idiomas
-  (EOI) en 2026: niveles B1, B2 y C1, estructura por destrezas, cómo
-  matricularse y estrategias de preparación para hispanohablantes.
+  Guía completa del examen de inglés de las Escuelas Oficiales de Idiomas (EOI) en 2026: niveles B1, B2 y C1, estructura por destrezas, cómo matricularse y...
 excerpt: >-
   El examen de inglés de la EOI certifica niveles B1, B2 y C1 con titulación
   oficial del Ministerio de Educación español. Aquí tienes la estructura

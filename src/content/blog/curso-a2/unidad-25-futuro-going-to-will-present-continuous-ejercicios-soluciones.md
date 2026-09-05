@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Futuros en Inglés A2: Will y Going To'
 description: >-
-  Practica todos los ejercicios de la Unidad 25 del curso A2: elegir entre going to, will y Present Continuous futuro,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 25 del curso A2: elegir entre going to, will y Present Continuous futuro, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Futuros en Inglés A2: Will y Going To

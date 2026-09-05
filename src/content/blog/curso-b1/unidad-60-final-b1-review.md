@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso Final B1: Revisión Completa de las 60 Unidades'
 description: >-
-  Repaso final completo del curso B1: los 6 módulos y 60 unidades — conditionals, passive, reported speech,
-  modales, tiempos verbales, relative clauses y más — con checklist detallado, diagnóstico, vocabulario mixto,
-  reading, diálogo y más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
+  Repaso final completo del curso B1: los 6 módulos y 60 unidades — conditionals, passive, reported speech, modales, tiempos verbales, relative clauses y más...
 readTime: 20 min
 keywords:
   - Repaso Final B1: Revisión Completa de las 60 Unidades

@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Phrasal Verbs LOOK, MAKE y PUT B2"
 description: >-
-  Guía completa de la Unidad 27 del curso B2: phrasal verbs LOOK, MAKE, PUT con vocabulario de music & entertainment, incluyendo teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 27 del curso B2: phrasal verbs LOOK, MAKE, PUT con vocabulario de music & entertainment, incluyendo teoría, reading, listening,...
 readTime: 58 min
 keywords:
   - Ejercicios de Phrasal Verbs LOOK, MAKE y PUT B2

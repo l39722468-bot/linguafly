@@ -5,7 +5,7 @@ updatedDate: '2026-09-10'
 author: linguafly-team
 title: "Ejercicios de Descripción de Danza en Inglés C1"
 description: >-
-  Aprende a escribir sobre danza en inglés C1: cláusulas de relativo explicativas y restrictivas, metáfora y registro descriptivo del movimiento, y vocabulario de danza (choreography, arabesque, pirouette, tempo, partnering, ensemble). Con teoría, ejercicios resueltos y modelos de writing.
+  Aprende a escribir sobre danza en inglés C1: cláusulas de relativo explicativas y restrictivas, metáfora y registro descriptivo del movimiento, y...
 readTime: 40 min
 keywords:
   - Ejercicios de Descripción de Danza en Inglés C1

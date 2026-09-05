@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Talento y Habilidades en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 37 del curso A1: very well, quite
-  well, not at all, good at, reading de Lisa, listening de skills y writing. Con
-  soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 37 del curso A1: very well, quite well, not at all, good at, reading de Lisa, listening de skills y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Talento y Habilidades en Inglés A1

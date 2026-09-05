@@ -1,8 +1,7 @@
 ---
 title: 'Belfast vs Dublín: Diferencias de Acento Inglés'
 description: >-
-  Diferencias entre el inglés de Irlanda del Norte y el de la República: historia lingüística,
-  rasgos fonéticos orientativos, léxico y consejos prácticos para viajeros y profesionales sin caer en generalizaciones.
+  Diferencias entre el inglés de Irlanda del Norte y el de la República: historia lingüística, rasgos fonéticos orientativos, léxico y consejos prácticos para...
 readTime: 15 min
 excerpt: >-
   “Irlanda” en el mapa turístico no es un solo acento. Belfast y Dublín representan dos polos sociolingüísticos distintos. Esta comparativa te ayuda a ajustar el oído y el léxico sin mezclarlo todo en una sola caja llamada “irlandés”.

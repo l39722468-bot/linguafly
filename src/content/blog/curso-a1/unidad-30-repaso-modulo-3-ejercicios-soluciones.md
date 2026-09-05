@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Inglés A1: Módulo 3 con Ejercicios'
 description: >-
-  Practica el repaso del Módulo 3 del curso A1: There is/are, preposiciones,
-  have got, Present Continuous, imperativos, reading, listening y writing. Con
-  soluciones comentadas.
+  Practica el repaso del Módulo 3 del curso A1: There is/are, preposiciones, have got, Present Continuous, imperativos, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Repaso de Inglés A1: Módulo 3 con Ejercicios

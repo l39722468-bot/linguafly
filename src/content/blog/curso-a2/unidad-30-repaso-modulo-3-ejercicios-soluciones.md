@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Inglés A2: Módulo 3 con Ejercicios'
 description: >-
-  Practica todos los ejercicios de la Unidad 30 del curso A2: repaso integrado: futuro, condicionales, have to y could,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 30 del curso A2: repaso integrado: futuro, condicionales, have to y could, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Repaso de Inglés A2: Módulo 3 con Ejercicios

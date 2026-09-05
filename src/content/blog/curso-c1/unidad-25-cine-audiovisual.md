@@ -5,7 +5,7 @@ updatedDate: '2026-09-10'
 author: linguafly-team
 title: "Ejercicios de Crítica Cinematográfica en Inglés C1"
 description: >-
-  Aprende el lenguaje de la crítica cinematográfica en inglés C1: nominalización, subordinadas de comentario, registro evaluativo y vocabulario de cine (cinematography, soundtrack, pacing, character arc). Con teoría, ejercicios resueltos y modelos de writing.
+  Aprende el lenguaje de la crítica cinematográfica en inglés C1: nominalización, subordinadas de comentario, registro evaluativo y vocabulario de cine...
 readTime: 40 min
 keywords:
   - Ejercicios de Crítica Cinematográfica en Inglés C1

@@ -32,7 +32,7 @@ faqs:
       Usa frases de cierre natural como: 'It was a pleasure meeting you. I'm
       going to circulate a bit more, but let's connect on LinkedIn'.
 description: >
-  Guía práctica para hacer networking en inglés en eventos internacionales. Cómo presentarte, iniciar conversaciones, intercambiar contactos y dar seguimiento sin resultar forzado.
+  Guía práctica de networking en inglés: preséntate, inicia conversaciones, intercambia contactos y haz seguimiento con naturalidad en eventos internacionales.
 ---
 
 ## Conecta y Crece Profesionalmente: El Poder del Networking
@@ -106,7 +106,73 @@ Escucha antes de promocionarte: “That’s interesting—what led you to that d
 
 Inicia tres conversaciones, escucha dos minutos y anota una frase nueva de cada persona. Evalúa si preguntaste, aportaste y cerraste con claridad: el objetivo es crear relaciones, no coleccionar tarjetas.
 
+## Preparación, seguimiento y práctica deliberada
+
+Un buen evento empieza antes de llegar. Investiga a los ponentes, revisa la
+lista de asistentes si está disponible y prepara tres preguntas relacionadas
+con el tema central. Lleva una presentación de veinte segundos y otra de un
+minuto. La primera debe servir para un pasillo; la segunda, para una mesa
+redonda en la que alguien quiera conocer tu experiencia con más detalle.
+
+Cuando te unas a un grupo, observa si la conversación admite una entrada y
+espera una pausa natural. Puedes decir: “I overheard you talking about
+fintech. I work in that area too; may I join you?”. Si el grupo está cerrando
+un tema, no fuerces tu intervención. Agradece la conversación y busca otra
+oportunidad. La cortesía y la escucha son más memorables que una lista de
+logros.
+
+Toma notas discretas después de cada encuentro: nombre, empresa, asunto
+comentado y posible ayuda que puedas ofrecer. El seguimiento debe ser
+específico, breve y útil. En lugar de “Let’s keep in touch”, escribe “I enjoyed
+our conversation about onboarding. Here is the checklist I mentioned. Would
+you like to compare notes next month?”. No envíes el mismo mensaje a todos ni
+prometas presentaciones que no puedas hacer.
+
+Para practicar, simula tres escenarios: una conferencia, una videollamada y
+una conversación con alguien cuyo nivel de inglés es distinto al tuyo. Grábate
+y comprueba si hablas demasiado deprisa, si haces preguntas abiertas y si
+pronuncias correctamente nombres y cargos. La meta no es sonar perfecto, sino
+hacer que la otra persona se sienta escuchada y entienda con claridad qué
+puedes aportar.
+
 ## Fuentes
+
+### Conversaciones difíciles y accesibilidad
+
+No todas las personas quieren hablar de negocios de inmediato. Si alguien
+responde con frases cortas, cambia de tema o pregunta si puede marcharse,
+respeta la señal: “It was lovely meeting you. I hope you enjoy the rest of the
+event”. También puede ocurrir que no entiendas un acento o una expresión
+regional. Pide una reformulación con naturalidad: “I’m sorry, could you say
+that in a different way?” o “Do you mean that the deadline has moved to
+Friday?”. Nunca conviertas el acento de otra persona en el tema de la charla.
+
+En grupos internacionales, evita referencias culturales que no puedas
+explicar y utiliza un lenguaje inclusivo. Pronuncia el nombre de la persona
+como ella lo indique y pregunta antes de compartir sus datos con terceros.
+Cuando presentes a dos contactos, explica por qué podrían ayudarse: “Alex,
+meet Priya. Alex is looking for a partner in Ireland, and Priya leads a
+network of local distributors”. Una introducción concreta aporta valor a ambas
+personas.
+
+Si el evento es virtual, prueba cámara, micrófono y zona horaria antes de la
+sesión. Mantén una frase de presentación preparada para el chat y no
+interrumpas a quien está hablando. Después, envía un recurso relacionado con
+la conversación, no una propuesta comercial genérica. La confianza se
+construye con pequeños gestos consistentes.
+
+Después de un evento, mide la calidad de tus contactos, no solo la cantidad.
+Una conversación útil puede terminar en una recomendación, una fuente de
+información o una colaboración meses más tarde. Anota qué prometiste hacer y
+cumple en la fecha acordada. Si no recibes respuesta, realiza un único
+seguimiento amable y continúa sin presión. Tu reputación también se construye
+cuando aceptas un “no” con profesionalidad.
+
+Antes de un evento importante, practica la pronunciación de nombres de
+empresas, ciudades y tecnologías que aparecerán en el programa. Prepara una
+frase para explicar tu trabajo a un especialista y otra para una persona que
+no conozca tu sector. Esa flexibilidad permite que la conversación avance y
+evita refugiarse en explicaciones demasiado técnicas.
 
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages
 - British Council LearnEnglish (Business English): https://www.britishcouncil.org/learnenglish

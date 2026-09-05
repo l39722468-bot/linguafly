@@ -4,7 +4,7 @@ date: '2026-02-22'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Vocabulario de deportes en inglés por disciplina: fútbol, baloncesto, tenis, atletismo y más. Frases para ver, comentar y hablar de deportes en inglés con naturalidad y precisión.
+  Vocabulario de deportes en inglés por disciplina: fútbol, baloncesto, tenis, atletismo y más. Frases para ver, comentar y hablar de deportes en inglés con...
 excerpt: >-
   Aprende el vocabulario en inglés de los deportes más populares: fútbol, baloncesto, tenis, atletismo y más. Frases para ver, hablar y comentar deportes en inglés con naturalidad.
 category: metodos

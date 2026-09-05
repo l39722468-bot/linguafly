@@ -5,9 +5,7 @@ updatedDate: '2026-08-03'
 author: linguafly-team
 title: 'Preposiciones de lugar A1: next to, between, in front of, opposite'
 description: >-
-  Aprende next to, between, in front of y opposite en inglés A1, con There
-  is/are, lugares del barrio y comparación opposite vs in front of. Guía Unidad
-  24 con audios y ejercicios.
+  Aprende next to, between, in front of y opposite en inglés A1, con There is/are, lugares del barrio y comparación opposite vs in front of.
 readTime: 15 min
 keywords:
   - preposiciones de lugar A1

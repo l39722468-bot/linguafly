@@ -1,9 +1,7 @@
 ---
 title: 'Email de Solicitud de Empleo en Inglés: Plantilla'
 description: >-
-  Aprende a escribir un email de solicitud de empleo en inglés que destaque.
-  Estructura del cover email, frases clave, cómo adjuntar el CV y errores
-  a evitar en el primer contacto con una empresa.
+  Aprende a escribir un email de solicitud de empleo en inglés que destaque. Estructura del cover email, frases clave, cómo adjuntar el CV y errores a evitar...
 readTime: 5 min
 excerpt: >-
   El email con el que presentas tu candidatura es lo primero que lee el

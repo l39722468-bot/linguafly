@@ -1,9 +1,7 @@
 ---
 title: 'Cómo Hablar Inglés con Fluidez: 10 Técnicas'
 description: >-
-  Descubre cómo hablar inglés con fluidez con técnicas probadas. Desde el
-  shadowing hasta la práctica con IA, aprende a superar el miedo a hablar y
-  expresarte como un nativo.
+  Descubre cómo hablar inglés con fluidez con técnicas probadas. Desde el shadowing hasta la práctica con IA, aprende a superar el miedo a hablar y expresarte...
 readTime: 6 min
 excerpt: >-
   La fluidez no es memorizar vocabulario — es pensar en inglés. Aprende las 10

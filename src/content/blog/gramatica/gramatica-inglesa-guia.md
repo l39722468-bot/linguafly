@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Gramática Inglesa: Guía Completa A1-C2'
 description: >-
-  Guía maestra de gramática inglesa: tiempos verbales, phrasal verbs, condicionales,
-  voz pasiva, reported speech, verbos modales y más. Organizada por nivel A1-C2
-  con enlaces a guías detalladas de cada tema.
+  Guía maestra de gramática inglesa: tiempos verbales, phrasal verbs, condicionales, voz pasiva, reported speech, verbos modales y más.
 excerpt: >-
   La gramática inglesa organizada de forma clara: todos los temas esenciales de
   A1 a C2. Elige tu nivel y profundiza en cada estructura con nuestras guías

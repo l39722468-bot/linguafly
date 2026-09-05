@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Gerund vs Infinitive (1) B1 + Hobbies & Leisure'
 description: >-
-  Aprende gerundio e infinitivo en inglés B1 (enjoy/finish/avoid + -ing; want/need/decide + to) con vocabulario
-  de hobbies y tiempo libre. Guía completa de la Unidad 21 con explicaciones, tablas, audios, errores típicos,
-  reading, diálogo y ejercicios resueltos.
+  Aprende gerundio e infinitivo en inglés B1 (enjoy/finish/avoid + -ing; want/need/decide + to) con vocabulario de hobbies y tiempo libre.
 readTime: 20 min
 keywords:
   - gerund vs infinitive B1

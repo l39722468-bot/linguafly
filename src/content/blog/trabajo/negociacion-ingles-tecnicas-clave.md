@@ -33,7 +33,7 @@ faqs:
       alternativa. 'I appreciate your offer, however, it's above our budget;
       perhaps we could adjust the delivery terms instead?'.
 description: >
-  Estrategias y frases clave para negociar en inglés con éxito: cómo hacer propuestas, gestionar objeciones, cerrar acuerdos y mantener la posición sin perder la relación comercial.
+  Técnicas y frases para negociar en inglés: formula propuestas, gestiona objeciones, cierra acuerdos y protege la relación comercial con confianza.
 ---
 
 ## El Arte de la Negociación en un Mundo Globalizado
@@ -128,7 +128,64 @@ Resume cifras, responsables, fechas y asuntos pendientes: “Let me recap to mak
 
 Grábate rechazando una petición sin sonar brusco y sustituye “That’s impossible” por “That may be difficult within the current scope. Could we explore an alternative?” Evalúa claridad, pausa y si protegiste el objetivo.
 
+## Preparación lingüística y control del acuerdo
+
+Antes de una reunión, prepara una hoja con tus objetivos, límites y
+alternativas. Define qué puedes intercambiar y qué no es negociable. Lleva
+las cifras en la moneda y las unidades que utilizará la otra parte, y confirma
+la zona horaria de las fechas. Esta preparación evita pausas innecesarias y te
+permite responder con calma cuando aparece una petición inesperada.
+
+Ensaya las frases más importantes en voz alta. “Could you walk me through the
+assumptions behind that figure?”, “We would need a stronger warranty to accept
+that price” y “Let me take that back to my team” son formas firmes de pedir
+datos, vincular condiciones y ganar tiempo. Evita prometer aprobación cuando
+solo tienes autoridad para recomendarla. Puedes decir “Subject to internal
+approval, this would be workable”.
+
+Si la otra persona habla deprisa, no finjas que has entendido. Usa “Could we
+pause there for a moment?” o “Let me make sure I have captured that
+correctly”. Repite los números, porcentajes y fechas. En una videollamada,
+escribe los puntos acordados en el chat y comprueba que todos los participantes
+los interpretan igual.
+
+El cierre debe convertir la conversación en acciones verificables. Resume el
+precio, alcance, calendario, responsables, condiciones de pago y procedimiento
+para cambios. Después envía un correo con asunto descriptivo y solicita
+confirmación. Si quedan asuntos abiertos, enuméralos con una persona
+responsable y una fecha. Guarda las versiones del documento y no trates un
+intercambio informal como contrato firmado.
+
+Practica con un compañero que adopte tres papeles: cliente que presiona por
+precio, proveedor que pide más plazo y socio que evita responder. Evalúa si
+preguntaste antes de conceder, si explicaste el valor y si dejaste una próxima
+acción. La negociación en inglés mejora cuando la estructura y la escucha son
+automáticas, no cuando memorizas frases aisladas.
+
 ## Fuentes
+
+### Precisión, números y alternativas
+
+Las negociaciones se complican cuando las cifras no tienen contexto. Di
+“per unit”, “per month”, “before tax” o “including delivery” y confirma si una
+fecha es inclusiva. Para comprobar una propuesta, pregunta “Is that figure
+fixed, or is it an estimate?” y “What would trigger a price review?”. Si
+necesitas una pausa, anuncia el motivo: “I’d like to check the operational
+impact before responding”.
+
+Una alternativa útil no es una amenaza. Presenta dos opciones con sus
+consecuencias: “We can keep the current price with a twelve-month commitment,
+or use a shorter term with a smaller support package”. Esta fórmula hace
+visibles las variables y permite que la otra parte elija sin perder dignidad.
+Cuando recibas una concesión, reconócela y vincúlala a un siguiente paso:
+“Thank you. In return, we can confirm the delivery window today”.
+
+Después de firmar, sigue siendo importante respetar la relación. Informa
+pronto de retrasos, documenta cambios y utiliza un tono descriptivo, no
+acusatorio. “The revised scope adds two integrations, so the original date is
+no longer realistic” abre una conversación; “You changed everything” la
+cierra. La claridad sostenida convierte un acuerdo puntual en una relación
+comercial duradera.
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/
 - British Council LearnEnglish: https://www.britishcouncil.org/learnenglish

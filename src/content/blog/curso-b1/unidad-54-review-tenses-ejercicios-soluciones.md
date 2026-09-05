@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Tiempos Verbales en Inglés B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 54 del curso B1: present perfect, PP continuous, past perfect, futures (U2–7 review);
-  mixed topics, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 54 del curso B1: present perfect, PP continuous, past perfect, futures (U2–7 review); mixed topics, reading,...
 readTime: 25 min
 keywords:
   - Repaso de Tiempos Verbales en Inglés B1

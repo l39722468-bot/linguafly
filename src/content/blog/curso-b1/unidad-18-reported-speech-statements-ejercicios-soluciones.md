@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Estilo Indirecto en Inglés B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 18 del curso B1: reported speech statements (said/told + backshift);
-  communication, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 18 del curso B1: reported speech statements (said/told + backshift); communication, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Estilo Indirecto en Inglés B1

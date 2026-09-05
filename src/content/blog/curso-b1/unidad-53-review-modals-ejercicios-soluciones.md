@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Verbos Modales en Inglés B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 53 del curso B1: deduction, had better, would rather, need/needn't (U8, U46–49);
-  mixed topics, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 53 del curso B1: deduction, had better, would rather, need/needn't (U8, U46–49); mixed topics, reading, listening...
 readTime: 25 min
 keywords:
   - Repaso de Verbos Modales en Inglés B1

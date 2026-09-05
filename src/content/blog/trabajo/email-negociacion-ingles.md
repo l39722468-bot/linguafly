@@ -1,9 +1,7 @@
 ---
 title: 'Emails de Negociación en Inglés: Cómo Escribirlos'
 description: >-
-  Aprende a negociar por email en inglés de forma profesional. Frases para
-  hacer propuestas, contrarrestar ofertas, pedir descuentos y cerrar acuerdos
-  sin dañar la relación laboral.
+  Aprende a negociar por email en inglés de forma profesional. Frases para hacer propuestas, contrarrestar ofertas, pedir descuentos y cerrar acuerdos sin...
 readTime: 6 min
 excerpt: >-
   Negociar por email en inglés tiene sus propias reglas. El tono, la estructura

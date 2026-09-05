@@ -4,7 +4,7 @@ date: '2026-02-07'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Guía completa del Past Simple en inglés: cuándo usarlo, cómo formarlo con verbos regulares e irregulares, marcadores de tiempo y los errores más comunes de los hablantes de español.
+  Guía completa del Past Simple en inglés: cuándo usarlo, cómo formarlo con verbos regulares e irregulares, marcadores de tiempo y los errores más comunes de...
 category: gramatica
 alt: Cuaderno con conjugaciones del Past Simple en inglés
 readTime: 7 min

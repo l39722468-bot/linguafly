@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Inglés A1: Módulo 6 con Ejercicios'
 description: >-
-  Practica el repaso del Módulo 6 A1: some/any, much/many, too/enough, I would
-  like, First/Then/Finally, should, pay for/spend on, reading, listening y
-  writing. Con soluciones comentadas.
+  Practica el repaso del Módulo 6 A1: some/any, much/many, too/enough, I would like, First/Then/Finally, should, pay for/spend on, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Repaso de Inglés A1: Módulo 6 con Ejercicios

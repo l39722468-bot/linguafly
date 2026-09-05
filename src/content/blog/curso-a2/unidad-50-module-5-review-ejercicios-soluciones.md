@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Inglés A2: Módulo 5 con Ejercicios'
 description: >-
-  Practica todos los ejercicios de la Unidad 50 del curso A2: repaso Módulo 5: travel, weather, entertainment, shopping, health, clothes, people,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 50 del curso A2: repaso Módulo 5: travel, weather, entertainment, shopping, health, clothes, people, reading,...
 readTime: 25 min
 keywords:
   - Repaso de Inglés A2: Módulo 5 con Ejercicios

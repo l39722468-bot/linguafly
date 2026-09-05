@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Modales de Obligación y Consejo B2"
 description: >-
-  Distingue must, have to, need to, don't have to, mustn't, should y ought to B2 con universidad, vocabulario de University Life & Academics, audio y ejercicios resueltos de gramática, vocabulario, reading, listening, writing y speaking.
+  Distingue must, have to, need to, don't have to, mustn't, should y ought to B2 con universidad, vocabulario de University Life & Academics, audio y...
 readTime: 62 min
 keywords:
   - Ejercicios de Modales de Obligación y Consejo B2

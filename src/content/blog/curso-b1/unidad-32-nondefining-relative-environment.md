@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Non-defining Relative Clauses B1 + The Environment'
 description: >-
-  Aprende a fondo las non-defining relative clauses en inglés (who/which + comas, sin that) con
-  vocabulario de medio ambiente: recycling, pollution, climate change. Guía completa de la Unidad 32 del
-  curso B1 con explicaciones, tablas, errores típicos, audios, reading, diálogo y ejercicios resueltos.
+  Aprende a fondo las non-defining relative clauses en inglés (who/which + comas, sin that) con vocabulario de medio ambiente: recycling, pollution, climate...
 readTime: 18 min
 keywords:
   - non-defining relative clauses B1

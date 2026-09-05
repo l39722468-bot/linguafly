@@ -5,10 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso y Ejercicios de Salud y Mente en Inglés C1"
 description: >-
-  En la Unidad 42 del curso de inglés C1 gratis consolidarás el bloque de salud
-  con una síntesis interdisciplinar que integra mente, cerebro, nutrición y
-  medicina, practicando estructuras de conexión y recapitulación. Incluye 19
-  ejercicios inglés C1 gratis con soluciones.
+  En la Unidad 42 del curso de inglés C1 gratis consolidarás el bloque de salud con una síntesis interdisciplinar que integra mente, cerebro, nutrición y...
 readTime: 40 min
 keywords:
   - Repaso y Ejercicios de Salud y Mente en Inglés C1

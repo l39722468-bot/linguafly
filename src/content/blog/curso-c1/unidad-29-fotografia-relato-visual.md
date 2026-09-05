@@ -5,7 +5,7 @@ updatedDate: '2026-09-10'
 author: linguafly-team
 title: "Ejercicios de Crítica Fotográfica en Inglés C1"
 description: >-
-  Aprende a escribir sobre fotografía en inglés C1: elipsis y sustitución, inferencia visual-textual, registro descriptivo-interpretativo y vocabulario fotográfico (composition, exposure, depth of field, framing, juxtaposition). Con teoría, ejercicios resueltos y modelos de writing.
+  Aprende a escribir sobre fotografía en inglés C1: elipsis y sustitución, inferencia visual-textual, registro descriptivo-interpretativo y vocabulario...
 readTime: 40 min
 keywords:
   - Ejercicios de Crítica Fotográfica en Inglés C1

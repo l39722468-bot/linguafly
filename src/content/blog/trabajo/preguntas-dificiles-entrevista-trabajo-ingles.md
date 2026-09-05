@@ -4,9 +4,7 @@ date: '2026-02-22'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Aprende a responder con confianza las preguntas más complicadas y comprometidas
-  en una entrevista de trabajo en inglés. Ejemplos de respuestas modelo,
-  estrategias y vocabulario profesional.
+  Aprende a responder con confianza las preguntas más complicadas y comprometidas en una entrevista de trabajo en inglés. Ejemplos de respuestas modelo,...
 category: trabajo
 alt: Candidato respondiendo preguntas difíciles en una entrevista de trabajo en inglés
 canonical: >-

@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Voz Pasiva Modal en Inglés B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 17 del curso B1: modal passive (must/should/can/might be + past participle);
-  work & jobs, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 17 del curso B1: modal passive (must/should/can/might be + past participle); work & jobs, reading, listening y...
 readTime: 25 min
 keywords:
   - Ejercicios de Voz Pasiva Modal en Inglés B1

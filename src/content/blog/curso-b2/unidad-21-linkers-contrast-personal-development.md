@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Conectores de Contraste en Inglés B2"
 description: >-
-  Guía completa de la Unidad 21 del curso B2: linkers de contraste (although, despite, in spite of, whereas, however) con vocabulario de personal development con ejercicios resueltos. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 21 del curso B2: linkers de contraste (although, despite, in spite of, whereas, however) con vocabulario de personal development...
 readTime: 45 min
 keywords:
   - Ejercicios de Conectores de Contraste en Inglés B2

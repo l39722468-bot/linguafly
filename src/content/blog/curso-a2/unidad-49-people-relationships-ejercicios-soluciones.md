@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Personas y Relaciones en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 49 del curso A2: look like vs be like, have known for/since, personality adjectives,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 49 del curso A2: look like vs be like, have known for/since, personality adjectives, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Personas y Relaciones en Inglés A2

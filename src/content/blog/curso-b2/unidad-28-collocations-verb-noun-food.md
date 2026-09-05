@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Collocations Verbo y Sustantivo B2"
 description: >-
-  Guía completa de la Unidad 28 del curso B2: collocations verbo + sustantivo con make, take, have y vocabulario de food & gastronomy, incluyendo teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 28 del curso B2: collocations verbo + sustantivo con make, take, have y vocabulario de food & gastronomy, incluyendo teoría,...
 readTime: 59 min
 keywords:
   - Ejercicios de Collocations Verbo y Sustantivo B2

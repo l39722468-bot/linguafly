@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Artículos Avanzados en Inglés B2"
 description: >-
-  Domina a/an, the y zero article en inglés B2 con instituciones, referencias específicas y Education extended. Incluye teoría completa con audio, reading y diálogo, más ejercicios de gramática, vocabulario, reading, listening, writing y speaking con soluciones.
+  Domina a/an, the y zero article en inglés B2 con instituciones, referencias específicas y Education extended. Incluye teoría completa con audio, reading y...
 readTime: 59 min
 keywords:
   - Ejercicios de Artículos Avanzados en Inglés B2

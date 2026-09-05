@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Conflicto, Guerra y Paz en Inglés C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a desmontar el eufemismo bélico, a ejercer crítica prudente sobre
-  el discurso del conflicto y a escribir sobre guerra y paz con precisión retórica. Con teoría detallada y 19 ejercicios
-  inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis aprendes a desmontar el eufemismo bélico, a ejercer crítica prudente sobre el discurso del conflicto y a...
 readTime: 40 min
 keywords:
   [

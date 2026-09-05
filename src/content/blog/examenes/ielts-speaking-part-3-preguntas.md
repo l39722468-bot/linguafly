@@ -1,9 +1,7 @@
 ---
 title: 'IELTS Speaking Part 3: Preguntas Típicas y Respuestas'
 description: >-
-  Guía completa del Part 3 de IELTS Speaking: qué te preguntan, cómo
-  estructurar respuestas, vocabulario para band 7 y 8, errores frecuentes y
-  ejemplos reales de cada tipo de pregunta.
+  Guía completa del Part 3 de IELTS Speaking: qué te preguntan, cómo estructurar respuestas, vocabulario para band 7 y 8, errores frecuentes y ejemplos reales...
 readTime: 13 min
 excerpt: >-
   Part 3 de IELTS Speaking es la parte donde la mayoría pierde puntos. El

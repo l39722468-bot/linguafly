@@ -1,9 +1,7 @@
 ---
 title: 'Letras Mudas en Inglés: Lista de Ejemplos'
 description: >-
-  Descubre todas las letras mudas del inglés organizadas por letra: la K, la W,
-  la B, la GH y más. Con ejemplos, patrones y trucos para no caer en las trampas
-  más comunes de la pronunciación inglesa.
+  Descubre todas las letras mudas del inglés organizadas por letra: la K, la W, la B, la GH y más. Con ejemplos, patrones y trucos para no caer en las trampas...
 readTime: 9 min
 excerpt: >-
   El inglés tiene decenas de letras que se escriben pero no se pronuncian. La K

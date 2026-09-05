@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Lugares de la Ciudad en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 11 del curso A1: There is/are,
-  Where is…?, Is there a…?, next to / opposite / between, reading del pueblo,
-  listening de Anna y Ben, y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 11 del curso A1: There is/are, Where is…?, Is there a…?, next to / opposite / between, reading del pueblo,...
 readTime: 25 min
 keywords:
   - Ejercicios de Lugares de la Ciudad en Inglés A1

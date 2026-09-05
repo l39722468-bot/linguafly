@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Tiempos Narrativos Avanzados C1"
 description: >-
-  Aprende los tiempos narrativos avanzados en inglés C1: past perfect continuous, secuencias complejas, would para hábito pasado y estilo indirecto libre. Literatura, vocabulario literario y ejercicios resueltos.
+  Aprende los tiempos narrativos avanzados en inglés C1: past perfect continuous, secuencias complejas, would para hábito pasado y estilo indirecto libre.
 readTime: 40 min
 keywords:
   - Ejercicios de Tiempos Narrativos Avanzados C1

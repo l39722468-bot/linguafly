@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios del Verbo To Be A1 con Soluciones'
 description: >-
-  Practica todos los ejercicios de la Unidad 2 del curso A1: is/are con he/she/it/we/they,
-  países, nacionalidades, números, reading de Tom, listening de Anna y writing. Con
-  soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 2 del curso A1: is/are con he/she/it/we/they, países, nacionalidades, números, reading de Tom, listening de Anna...
 readTime: 25 min
 keywords:
   - Ejercicios del Verbo To Be A1 con Soluciones

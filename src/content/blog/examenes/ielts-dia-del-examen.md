@@ -4,7 +4,7 @@ date: '2026-03-04'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Guía práctica para el día del examen IELTS: documentación necesaria, qué pasa en cada parte, errores de logística que cuestan puntos y cómo gestionar los nervios el día D.
+  Guía práctica para el día del examen IELTS: documentación necesaria, qué pasa en cada parte, errores de logística que cuestan puntos y cómo gestionar los...
 category: examenes
 alt: Reloj de pulsera y bolígrafo sobre un escritorio el día del examen
 readTime: 6 min

@@ -1,6 +1,8 @@
 ---
 title: 'Word Formation CAE: Prefijos, Sufijos y Ejercicios'
-description: "Aprende a resolver la formación de palabras del CAE con seguridad: los prefijos negativos más frecuentes, los sufijos para cada categoría gramatical y los patrones de transformación que más aparecen en el examen."
+description: >-
+  Aprende a resolver la formación de palabras del CAE con seguridad: los prefijos negativos más frecuentes, los sufijos para cada categoría gramatical y los...
+
 readTime: 8 min
 excerpt: "La Parte 3 del Use of English no requiere suerte ni intuición: requiere conocer los patrones de formación de palabras en inglés. Una vez que los interiorizas, esta parte pasa de ser temida a ser una de las más seguras."
 keywords:

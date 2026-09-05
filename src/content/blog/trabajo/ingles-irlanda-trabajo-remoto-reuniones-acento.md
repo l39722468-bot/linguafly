@@ -1,8 +1,7 @@
 ---
 title: 'Inglés Profesional en Irlanda: Reuniones y Acento'
 description: >-
-  Guía para profesionales que trabajan con equipos en Irlanda: dinámica de reuniones, correo
-  electrónico, turn-taking con acento irlandés y cómo pedir aclaraciones sin romper el ritmo profesional.
+  Guía para profesionales que trabajan con equipos en Irlanda: dinámica de reuniones, correo electrónico, turn-taking con acento irlandés y cómo pedir...
 readTime: 15 min
 excerpt: >-
   El ecosistema tecnológico y financiero irlandés atrae talento internacional. Si tus calls suenan a Dublín más que a California, necesitas protocolos claros para seguir el hilo cuando el acento y el ritmo cambian.

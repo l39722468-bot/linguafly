@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Rutina Diaria en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 13 del curso A1: First, Then, After
-  that, wake up, brush my teeth, reading de Emma, listening de Jake y writing.
-  Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 13 del curso A1: First, Then, After that, wake up, brush my teeth, reading de Emma, listening de Jake y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Rutina Diaria en Inglés A1

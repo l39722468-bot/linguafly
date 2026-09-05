@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Phrasal Verbs GET, GIVE y GO B2"
 description: >-
-  Guía completa de la Unidad 26 del curso B2: phrasal verbs GET, GIVE, GO con vocabulario de sustainability & eco-living, incluyendo teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 26 del curso B2: phrasal verbs GET, GIVE, GO con vocabulario de sustainability & eco-living, incluyendo teoría, reading,...
 readTime: 57 min
 keywords:
   - Ejercicios de Phrasal Verbs GET, GIVE y GO B2

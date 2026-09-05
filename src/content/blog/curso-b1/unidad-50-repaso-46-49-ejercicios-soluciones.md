@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Consejos, Preferencias y Necesidad B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 50 del curso B1: had better, would rather, phrasal verbs, need/needn't (mix U46–49);
-  advice, preferences, work & study, necessity (mix), reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 50 del curso B1: had better, would rather, phrasal verbs, need/needn't (mix U46–49); advice, preferences, work &...
 readTime: 25 min
 keywords:
   - Repaso de Consejos, Preferencias y Necesidad B1

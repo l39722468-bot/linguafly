@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Oraciones Relativas y Question Tags B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 35 del curso B1: relatives, question tags y -ed/-ing (mix U31–34);
-  nature, environment, services, feelings (mix), reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 35 del curso B1: relatives, question tags y -ed/-ing (mix U31–34); nature, environment, services, feelings (mix),...
 readTime: 25 min
 keywords:
   - Repaso de Oraciones Relativas y Question Tags B1

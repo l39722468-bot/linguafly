@@ -4,7 +4,7 @@ date: '2026-02-04'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  El backshift es la regla principal del reported speech, pero tiene excepciones importantes. Aprende cuándo no hace falta cambiar el tiempo verbal y evita los errores más frecuentes.
+  El backshift es la regla principal del reported speech, pero tiene excepciones importantes. Aprende cuándo no hace falta cambiar el tiempo verbal y evita...
 category: gramatica
 alt: Estudiante aprendiendo las excepciones del backshift en reported speech inglés
 readTime: 7 min

@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Oraciones de Relativo No Definidas B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 32 del curso B1: non-defining relative clauses (who/which + commas, no that);
-  environment, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 32 del curso B1: non-defining relative clauses (who/which + commas, no that); environment, reading, listening y...
 readTime: 25 min
 keywords:
   - Ejercicios de Oraciones de Relativo No Definidas B1

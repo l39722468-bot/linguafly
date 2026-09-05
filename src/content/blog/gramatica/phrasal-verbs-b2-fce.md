@@ -4,7 +4,7 @@ date: '2026-02-18'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Lista definitiva de phrasal verbs para el examen B2 First (FCE): los más frecuentes en Use of English y Writing con significados, ejemplos y diferencias entre formas similares.
+  Lista definitiva de phrasal verbs para el examen B2 First (FCE): los más frecuentes en Use of English y Writing con significados, ejemplos y diferencias...
 category: gramatica
 alt: Cuaderno con lista de phrasal verbs para el FCE B2
 readTime: 9 min

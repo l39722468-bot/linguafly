@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Subjuntivo Mandativo en Inglés C1"
 description: >-
-  Domina el subjuntivo mandativo del inglés C1: verbos como demand, insist y require seguidos de that + subjuntivo, alternancia con should, registro jurídico y formal, y las trampas que delatan a un escritor que aún no controla el mandative subjunctive.
+  Domina el subjuntivo mandativo del inglés C1: verbos como demand, insist y require seguidos de that + subjuntivo, alternancia con should, registro jurídico...
 readTime: 40 min
 keywords: ["Ejercicios de Subjuntivo Mandativo en Inglés C1", "ejercicios inglés C1 gratis", "subjuntivo mandativo inglés", "mandative subjunctive C1", "demand that subjunctive", "insist that should", "registro jurídico inglés formal", "subjuntivo mandativo ejercicios C1", "demand insist require that ejemplos", "mandative subjunctive versus should", "verbos que exigen subjuntivo inglés", "inglés jurídico subjuntivo formal"]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-66-language-lab-subjuntivo-mandativo'

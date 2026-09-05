@@ -5,9 +5,7 @@ updatedDate: '2026-08-04'
 author: linguafly-team
 title: 'Repaso Módulo 4 (A1): can, hobbies, frecuencia, permiso y planes'
 description: >-
-  Repasa el Módulo 4 del curso A1: can, play/go/do, adverbios de frecuencia,
-  and/but/because, free time, instrumentos, skills, permiso y Present Continuous
-  para planes. Guía Unidad 40 con checklist, audios y ejercicios.
+  Repasa el Módulo 4 del curso A1: can, play/go/do, adverbios de frecuencia, and/but/because, free time, instrumentos, skills, permiso y Present Continuous...
 readTime: 16 min
 keywords:
   - module 4 review A1

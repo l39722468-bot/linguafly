@@ -5,10 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios y Estrategias para CAE, IELTS y TOEFL C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a prepararte estratégicamente para los exámenes CAE,
-  IELTS y TOEFL, a gestionar el tiempo en cada sección, a evitar las trampas más comunes y a desplegar el
-  léxico y las estructuras C1 que los examinadores esperan. Con teoría detallada y 19 ejercicios inglés C1
-  gratis orientados a la estrategia y el tiempo.
+  En esta unidad del curso de inglés C1 gratis aprendes a prepararte estratégicamente para los exámenes CAE, IELTS y TOEFL, a gestionar el tiempo en cada...
 readTime: 40 min
 keywords:
   [

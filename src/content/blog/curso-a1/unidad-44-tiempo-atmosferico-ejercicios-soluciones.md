@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Tiempo Atmosférico en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 44 del curso A1: It is + clima,
-  sunny, rainy, cloudy, hot, cold, snowing, reading, listening y writing. Con
-  soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 44 del curso A1: It is + clima, sunny, rainy, cloudy, hot, cold, snowing, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Tiempo Atmosférico en Inglés A1

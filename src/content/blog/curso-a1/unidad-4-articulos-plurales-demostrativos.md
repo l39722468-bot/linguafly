@@ -5,9 +5,7 @@ updatedDate: '2026-08-01'
 author: linguafly-team
 title: 'Artículos A/An, Plurales y This/That en Inglés (A1): Guía con Ejercicios'
 description: >-
-  Aprende los artículos a y an, plurales regulares, demostrativos this/that/these/those,
-  números del 1 al 10, objetos del aula y colores en inglés A1. Guía Unidad 4 con
-  ejemplos, audios y ejercicios prácticos.
+  Aprende los artículos a y an, plurales regulares, demostrativos this/that/these/those, números del 1 al 10, objetos del aula y colores en inglés A1.
 readTime: 15 min
 keywords:
   - cuándo usar a y an en inglés A1

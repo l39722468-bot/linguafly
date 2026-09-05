@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Gerundio e Infinitivo: Verbos B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 22 del curso B1: like/love/prefer; remember/forget/try (+ -ing or to);
-  house & home, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 22 del curso B1: like/love/prefer; remember/forget/try (+ -ing or to); house & home, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Gerundio e Infinitivo: Verbos B1

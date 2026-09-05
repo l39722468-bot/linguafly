@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Deducción con Modales en Inglés B2"
 description: >-
-  Domina must, might, could y can't + be/have para deducción B2 con exploración espacial, vocabulario de Space Exploration, ocho audios y ejercicios resueltos de gramática, vocabulario, reading, listening, writing y speaking.
+  Domina must, might, could y can't + be/have para deducción B2 con exploración espacial, vocabulario de Space Exploration, ocho audios y ejercicios resueltos...
 readTime: 62 min
 keywords:
   - Ejercicios de Deducción con Modales en Inglés B2

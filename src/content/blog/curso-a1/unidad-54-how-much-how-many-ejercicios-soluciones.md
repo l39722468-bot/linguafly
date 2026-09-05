@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de How Much y How Many en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 54 del curso A1: How much, How
-  many, precio, pound, dollar, euro, cheap, expensive, reading, listening y
-  writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 54 del curso A1: How much, How many, precio, pound, dollar, euro, cheap, expensive, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de How Much y How Many en Inglés A1

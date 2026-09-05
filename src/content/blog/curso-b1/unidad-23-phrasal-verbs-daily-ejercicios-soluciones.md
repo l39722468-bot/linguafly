@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Phrasal Verbs para la Vida Diaria B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 23 del curso B1: phrasal verbs 1 (turn on/off, put on, take off, hurry up, calm down, look after);
-  daily activities, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 23 del curso B1: phrasal verbs 1 (turn on/off, put on, take off, hurry up, calm down, look after); daily...
 readTime: 25 min
 keywords:
   - Ejercicios de Phrasal Verbs para la Vida Diaria B1

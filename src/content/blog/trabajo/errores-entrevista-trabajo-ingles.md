@@ -1,9 +1,7 @@
 ﻿---
 title: 'Errores más Comunes en una Entrevista de Trabajo en Inglés'
 description: >-
-  Los errores más frecuentes en entrevistas de trabajo en inglés y cómo
-  evitarlos. Desde problemas de idioma hasta errores de estrategia y
-  comportamiento que eliminan candidatos con buen perfil.
+  Los errores más frecuentes en entrevistas de trabajo en inglés y cómo evitarlos. Desde problemas de idioma hasta errores de estrategia y comportamiento que...
 readTime: 5 min
 excerpt: >-
   Muchos candidatos pierden ofertas de trabajo en inglés no por falta de

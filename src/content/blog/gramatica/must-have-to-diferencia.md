@@ -4,7 +4,7 @@ date: '2026-02-07'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  La diferencia entre must y have to no es solo de forma — cambia quién impone la obligación. Y en negativo, la diferencia es todavía más importante: mustn't y don't have to significan cosas completamente distintas.
+  La diferencia entre must y have to no es solo de forma — cambia quién impone la obligación. Y en negativo, la diferencia es todavía más importante: mustn't...
 category: gramatica
 alt: Estudiante aprendiendo la diferencia entre must y have to en inglés
 readTime: 12 min

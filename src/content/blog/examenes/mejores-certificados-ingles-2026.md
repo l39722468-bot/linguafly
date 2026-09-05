@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Certificados de Inglés 2026: IELTS, TOEFL o Cambridge'
 description: >-
-  ¿IELTS, TOEFL o Cambridge? Analizamos las mejores certificaciones de inglés 
-  para 2026, sus novedades digitales y cuál se adapta mejor a tus metas 
-  profesionales o académicas.
+  ¿IELTS, TOEFL o Cambridge? Analizamos las mejores certificaciones de inglés para 2026, sus novedades digitales y cuál se adapta mejor a tus metas...
 readTime: 4 min
 excerpt: >-
   Elegir mal la certificación puede costarte tiempo, dinero y una admisión.

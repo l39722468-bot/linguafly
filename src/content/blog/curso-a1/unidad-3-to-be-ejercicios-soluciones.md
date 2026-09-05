@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios To Be en Negativa y Preguntas A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 3 del curso A1: am not / isn't / aren't,
-  preguntas sí/no, emociones, reading de Laura, listening de Ben y writing. Con
-  soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 3 del curso A1: am not / isn't / aren't, preguntas sí/no, emociones, reading de Laura, listening de Ben y writing.
 readTime: 25 min
 keywords:
   - Ejercicios To Be en Negativa y Preguntas A1

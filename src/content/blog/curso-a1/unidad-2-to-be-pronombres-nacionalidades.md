@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Verbo To Be con He, She, It, We y They (A1): Pronombres y Nacionalidades'
 description: >-
-  Aprende los pronombres personales en inglés (he, she, it, we, they), el verbo
-  to be con is y are, países, nacionalidades y números del 1 al 10. Guía A1
-  Unidad 2 con ejemplos, audios y ejercicios prácticos.
+  Aprende los pronombres personales en inglés (he, she, it, we, they), el verbo to be con is y are, países, nacionalidades y números del 1 al 10.
 readTime: 15 min
 keywords:
   - verbo to be en inglés A1 explicado

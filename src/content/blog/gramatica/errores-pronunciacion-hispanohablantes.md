@@ -4,7 +4,7 @@ date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Los 10 errores de pronunciación en inglés más comunes para hispanohablantes: por qué los cometemos y cómo corregirlos. Ejercicios prácticos para sonar más natural en inglés.
+  Los 10 errores de pronunciación en inglés más comunes para hispanohablantes: por qué los cometemos y cómo corregirlos. Ejercicios prácticos para sonar más...
 excerpt: >-
   Hay errores de pronunciación que casi todos los hispanohablantes cometemos en inglés. No por descuido, sino porque el sistema fonológico del español no prepara el oído ni la boca para ciertos sonidos. Aquí tienes los 10 más frecuentes y cómo corregirlos.
 category: gramatica

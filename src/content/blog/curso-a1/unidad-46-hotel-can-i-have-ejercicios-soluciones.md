@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Inglés para Hoteles A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 46 del curso A1: Can I have…?, Is
-  there…?, room service, reception, check-in, reading, listening y writing. Con
-  soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 46 del curso A1: Can I have…? , Is there…? , room service, reception, check-in, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Inglés para Hoteles A1

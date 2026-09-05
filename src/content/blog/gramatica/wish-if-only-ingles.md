@@ -1,9 +1,7 @@
 ---
 title: 'Wish e If Only en Inglés: Guía y Ejemplos'
 description: >-
-  Aprende a usar wish e if only en inglés para expresar deseos sobre el
-  presente, el pasado y el futuro. Diferencias entre wish + past simple,
-  wish + would y wish + past perfect con ejemplos y ejercicios.
+  Aprende a usar wish e if only en inglés para expresar deseos sobre el presente, el pasado y el futuro. Diferencias entre wish + past simple, wish + would y...
 readTime: 5 min
 excerpt: >-
   "I wish I knew" y "I wish I had known" parecen parecidas pero significan

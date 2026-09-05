@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios sobre el Medio Ambiente en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 55 del curso A2: recycle, save water, pollution, should/shouldn't, reuse, waste,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 55 del curso A2: recycle, save water, pollution, should/shouldn't, reuse, waste, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios sobre el Medio Ambiente en Inglés A2

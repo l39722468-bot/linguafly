@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Inversión para Énfasis en Inglés C1"
 description: >-
-  Aprende la inversión con adverbios negativos, not only, only by y condicionales invertidas en inglés C1. Moda e identidad, lenguaje evaluativo, crítica social y ejercicios resueltos.
+  Aprende la inversión con adverbios negativos, not only, only by y condicionales invertidas en inglés C1. Moda e identidad, lenguaje evaluativo, crítica...
 readTime: 40 min
 keywords:
   - Ejercicios de Inversión para Énfasis en Inglés C1

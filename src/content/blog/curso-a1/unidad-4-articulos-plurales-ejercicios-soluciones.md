@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Artículos y Plurales en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 4 del curso A1: a/an, plurales,
-  this/that/these/those, números, objetos del aula, reading de Pablo, listening
-  y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 4 del curso A1: a/an, plurales, this/that/these/those, números, objetos del aula, reading de Pablo, listening y...
 readTime: 25 min
 keywords:
   - Ejercicios de Artículos y Plurales en Inglés A1

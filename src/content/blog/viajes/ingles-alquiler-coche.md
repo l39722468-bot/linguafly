@@ -1,9 +1,7 @@
 ---
 title: 'Inglés para Alquilar un Coche en el Extranjero'
 description: >-
-  Guía completa del inglés que necesitas para alquilar un coche fuera: vocabulario
-  del mostrador, seguros, combustible, extras, gasolinera, conducir por el otro
-  lado y qué decir si hay un accidente o multa.
+  Guía completa del inglés que necesitas para alquilar un coche fuera: vocabulario del mostrador, seguros, combustible, extras, gasolinera, conducir por el...
 readTime: 12 min
 excerpt: >-
   Alquilar un coche en Irlanda, Escocia, Estados Unidos o Australia exige un

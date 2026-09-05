@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: "Modales de deducción B1: must, might, can't"
 description: >-
-  Aprende must, might y can't para hacer deducciones en inglés B1. Guía completa de la Unidad 8 con
-  explicaciones, audios, reading sobre un vecino, diálogo, errores típicos y ejercicios resueltos, con
-  vocabulario de sentimientos personales.
+  Aprende must, might y can't para hacer deducciones en inglés B1. Guía completa de la Unidad 8 con explicaciones, audios, reading sobre un vecino, diálogo,...
 readTime: 16 min
 keywords:
   - must might can't B1

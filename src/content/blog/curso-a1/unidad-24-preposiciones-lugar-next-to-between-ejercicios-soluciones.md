@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Preposiciones de Lugar en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 24 del curso A1: next to, between,
-  in front of, opposite, There is/are, reading del barrio, listening y writing.
-  Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 24 del curso A1: next to, between, in front of, opposite, There is/are, reading del barrio, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Preposiciones de Lugar en Inglés A1

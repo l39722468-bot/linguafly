@@ -1,9 +1,7 @@
 ---
 title: 'Sílabas en Inglés: Cómo Dividir Palabras'
 description: >-
-  Aprende a dividir palabras en sílabas en inglés con las reglas principales.
-  Descubre cómo afecta la división silábica al acento tónico, la pronunciación
-  de las vocales y la comprensión auditiva.
+  Aprende a dividir palabras en sílabas en inglés con las reglas principales. Descubre cómo afecta la división silábica al acento tónico, la pronunciación de...
 readTime: 9 min
 excerpt: >-
   Saber cómo se divide una palabra en sílabas en inglés no es solo útil para

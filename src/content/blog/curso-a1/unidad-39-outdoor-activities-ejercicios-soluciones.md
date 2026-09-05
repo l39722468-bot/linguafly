@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Actividades al Aire Libre en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 39 del curso A1: Present Continuous
-  para planes, camping, hiking, cycling, fishing, reading, listening y writing.
-  Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 39 del curso A1: Present Continuous para planes, camping, hiking, cycling, fishing, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Actividades al Aire Libre en Inglés A1

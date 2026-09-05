@@ -25,7 +25,7 @@ updatedDate: '2026-09-04'
 category: gramatica
 author: linguafly-team
 description: >-
-  La voz pasiva en inglés: guía completa con todos los tiempos verbales, transformaciones de activa a pasiva, pasivas impersonales y causativas. Incluye ejemplos para exámenes oficiales.
+  La voz pasiva en inglés: guía completa con todos los tiempos verbales, transformaciones de activa a pasiva, pasivas impersonales y causativas.
 alt: Estudiante estudiando la voz pasiva en inglés con libros de gramática
 faqs:
   - question: '¿Es la pasiva más común en inglés que en español?'

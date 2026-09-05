@@ -4,9 +4,7 @@ date: '2026-02-15'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Descarga y adapta las 20 plantillas de emails profesionales en inglés más
-  utilizadas. Desde solicitudes de reunión hasta seguimiento de proyectos y
-  gestión de reclamaciones.
+  Descarga y adapta las 20 plantillas de emails profesionales en inglés más utilizadas. Desde solicitudes de reunión hasta seguimiento de proyectos y gestión...
 category: trabajo
 alt: Persona escribiendo un email profesional en inglés en su portátil
 canonical: >-

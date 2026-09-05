@@ -4,7 +4,7 @@ date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Inglés británico vs americano: las diferencias de pronunciación más importantes (RP vs GA, vocales, consonantes, entonación). Guía práctica para hispanohablantes con ejemplos.
+  Inglés británico vs americano: las diferencias de pronunciación más importantes (RP vs GA, vocales, consonantes, entonación).
 excerpt: >-
   ¿Por qué "car" suena tan diferente en Londres y en Nueva York? ¿Por qué "water" en inglés americano parece tener una "d" en el medio? Las diferencias entre el inglés británico y americano son más sistemáticas de lo que parecen. Aquí están las más importantes.
 category: gramatica

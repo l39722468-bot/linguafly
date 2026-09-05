@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Sentimientos y Emociones en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 54 del curso A2: I feel…, I'm…, excited, worried, bored, disappointed, proud, nervous,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 54 del curso A2: I feel…, I'm…, excited, worried, bored, disappointed, proud, nervous, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Sentimientos y Emociones en Inglés A2

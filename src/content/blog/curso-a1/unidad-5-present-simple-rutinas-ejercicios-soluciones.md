@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Present Simple y Rutinas A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 5 del curso A1: Present Simple
-  afirmativo, -s de 3.ª persona, verbos de rutina, reading de María, listening
-  de David y Sara, y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 5 del curso A1: Present Simple afirmativo, -s de 3.ª persona, verbos de rutina, reading de María, listening de...
 readTime: 25 min
 keywords:
   - Ejercicios de Present Simple y Rutinas A1

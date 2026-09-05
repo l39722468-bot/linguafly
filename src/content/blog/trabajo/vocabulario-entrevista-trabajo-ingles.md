@@ -1,9 +1,7 @@
 ---
 title: 'Vocabulario Esencial para Entrevistas de Trabajo en Inglés'
 description: >-
-  Vocabulario esencial para entrevistas de trabajo en inglés. Action verbs,
-  palabras para describir tus habilidades, términos de empresa y frases para
-  cada momento de la entrevista.
+  Vocabulario esencial para entrevistas de trabajo en inglés. Action verbs, palabras para describir tus habilidades, términos de empresa y frases para cada...
 readTime: 6 min
 excerpt: >-
   En una entrevista en inglés, el vocabulario que usas dice tanto de ti como

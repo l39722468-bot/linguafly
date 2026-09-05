@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Tiempos de Futuro en Inglés B2"
 description: >-
-  Guía completa de la Unidad 2 del curso B2: will / going to / future perfect / present continuous for plans; work, reading, listening y writing, con ejercicios y soluciones. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 2 del curso B2: will / going to / future perfect / present continuous for plans; work, reading, listening y writing, con...
 readTime: 45 min
 keywords:
   - Ejercicios de Tiempos de Futuro en Inglés B2

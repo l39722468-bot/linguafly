@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso Final de Inglés B2 y Preparación del Examen"
 description: >-
-  Repaso final del curso B2: consolidación completa de toda la gramática (conditionals, passive, modals, reported speech, linkers, inversion, cleft sentences, phrasal verbs, collocations, word formation) con simulacro de examen y ejercicios con soluciones.
+  Repaso final del curso B2: consolidación completa de toda la gramática (conditionals, passive, modals, reported speech, linkers, inversion, cleft sentences,...
 readTime: 45 min
 keywords:
   - Repaso Final de Inglés B2 y Preparación del Examen

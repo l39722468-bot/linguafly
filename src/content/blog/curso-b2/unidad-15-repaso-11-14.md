@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso de Relative Clauses y Modales B2"
 description: >-
-  Guía completa de la Unidad 15 del curso B2: repaso integrado de relative clauses, reduced relatives, modals of obligation y modals of deduction. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 15 del curso B2: repaso integrado de relative clauses, reduced relatives, modals of obligation y modals of deduction.
 readTime: 43 min
 keywords:
   - Repaso de Relative Clauses y Modales B2

@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Gramática Mixta sobre Ropa y Colores B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 57 del curso B1: passive, would rather, relatives, comparatives, although;
-  clothes & colours, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 57 del curso B1: passive, would rather, relatives, comparatives, although; clothes & colours, reading, listening...
 readTime: 25 min
 keywords:
   - Ejercicios de Gramática Mixta sobre Ropa y Colores B1

@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Gerundios e Infinitivos en Inglés B2"
 description: >-
-  Domina gerundios e infinitivos B2, cambios de significado, object + infinitive y vocabulario de Education Systems & Learning con audio, ejemplos y ejercicios resueltos de gramática, vocabulario, reading, listening, writing y speaking.
+  Domina gerundios e infinitivos B2, cambios de significado, object + infinitive y vocabulario de Education Systems & Learning con audio, ejemplos y...
 readTime: 62 min
 keywords:
   - Ejercicios de Gerundios e Infinitivos en Inglés B2

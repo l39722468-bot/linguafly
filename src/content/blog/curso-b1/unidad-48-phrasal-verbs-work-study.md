@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Phrasal Verbs B1: Work & Study, Ejemplos y Ejercicios'
 description: >-
-  Domina seis phrasal verbs clave del inglés B1: work out, look forward to, run out of, take care of, carry
-  out y deal with, con vocabulario de work & study. Guía completa de la Unidad 48 con explicaciones, tablas,
-  audios, errores típicos, reading, diálogo y ejercicios resueltos con soluciones.
+  Domina seis phrasal verbs clave del inglés B1: work out, look forward to, run out of, take care of, carry out y deal with, con vocabulario de work & study.
 readTime: 15 min
 keywords:
   - Phrasal Verbs B1: Work & Study, Ejemplos y Ejercicios

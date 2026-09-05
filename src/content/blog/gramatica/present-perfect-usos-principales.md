@@ -4,7 +4,7 @@ date: '2026-02-04'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Los 4 usos del Present Perfect en inglés que necesitas dominar: resultados, experiencias, noticias recientes y continuidad. Guía con ejemplos claros para hispanohablantes.
+  Los 4 usos del Present Perfect en inglés que necesitas dominar: resultados, experiencias, noticias recientes y continuidad. Practica con ejemplos y ejercicios.
 category: gramatica
 alt: Estudiante aprendiendo los usos del Present Perfect en inglés
 readTime: 6 min

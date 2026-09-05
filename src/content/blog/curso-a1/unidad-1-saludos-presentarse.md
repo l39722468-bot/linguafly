@@ -3,11 +3,10 @@ category: curso-a1
 date: '2026-07-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Saludos en Inglés y Cómo Presentarse (A1): Guía Completa con Ejercicios'
+title: 'Saludos en Inglés A1: Cómo Presentarte con Ejemplos'
 description: >-
-  Aprende a saludar y presentarte en inglés nivel A1: Hello, Hi, Good morning,
-  My name is…, I am from… y el verbo to be con I y You. Guía con ejemplos,
-  audios de pronunciación y ejercicios prácticos para la Unidad 1 del curso A1.
+  Aprende saludos y presentaciones en inglés A1: Hello, Good morning, My name
+  is y I am from, con ejemplos, pronunciación y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - saludos en inglés para principiantes A1

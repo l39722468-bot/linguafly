@@ -5,10 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Verbos y Adjetivos con Preposición C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis del Language Lab aprendes a dominar los patrones preposicionales
-  de verbos y adjetivos, a evitar las interferencias de la lengua materna y a desplegar las colocaciones
-  preposicionales que el nivel C1 exige en escritura académica y oralidad formal. Con teoría detallada y 19
-  ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis del Language Lab aprendes a dominar los patrones preposicionales de verbos y adjetivos, a evitar las...
 readTime: 40 min
 keywords:
   [

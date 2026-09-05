@@ -4,7 +4,7 @@ date: '2026-02-08'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende a estructurar el ensayo del IELTS Writing Task 2 según el tipo de pregunta: opinión, discusión, problema-solución y ventajas-desventajas. Con ejemplos reales y criterios de evaluación.
+  Aprende a estructurar el ensayo del IELTS Writing Task 2 según el tipo de pregunta: opinión, discusión, problema-solución y ventajas-desventajas.
 category: examenes
 alt: Persona escribiendo un ensayo en papel para el examen IELTS
 readTime: 8 min

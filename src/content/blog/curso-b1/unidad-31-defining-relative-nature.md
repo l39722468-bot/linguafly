@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Defining Relative Clauses B1 + The Natural World'
 description: >-
-  Aprende a fondo las defining relative clauses en inglés (who, which, that, whose, where, when) con
-  vocabulario del mundo natural: wildlife, landscape, forest, eagle. Guía completa de la Unidad 31 del
-  curso B1 con explicaciones, tablas, errores típicos, audios, reading, diálogo y ejercicios resueltos.
+  Aprende a fondo las defining relative clauses en inglés (who, which, that, whose, where, when) con vocabulario del mundo natural: wildlife, landscape,...
 readTime: 18 min
 keywords:
   - defining relative clauses B1

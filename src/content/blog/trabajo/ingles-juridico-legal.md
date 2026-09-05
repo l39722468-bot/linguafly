@@ -35,7 +35,7 @@ faqs:
       la redacción de contratos.
 canonical: 'https://linguafly.app/blog/trabajo/ingles-juridico-legal'
 description: >
-  Vocabulario esencial de inglés jurídico y legal para abogados, asesores y profesionales del derecho. Contratos, cláusulas, terminología procesal y comunicación en despachos internacionales.
+  Aprende vocabulario de inglés jurídico para contratos, cláusulas, procesos y comunicación profesional en despachos y negocios internacionales.
 ---
 
 ## Inglés Jurídico y Legal: Por Qué es un Lenguaje Propio
@@ -251,7 +251,45 @@ El Legal English es un campo especializado que requiere formación específica. 
 
 Para ampliar tu vocabulario profesional en inglés, consulta [Vocabulario de Negocios en Inglés](/blog/trabajo/vocabulario-negocios-ingles-profesional). Y para el contexto del inglés en el mundo laboral, visita [Inglés para el Trabajo](/blog/trabajo/ingles-para-trabajo).
 
+## Revisión y práctica del inglés jurídico
+
+La precisión legal depende tanto del vocabulario como de la lectura crítica.
+Antes de enviar un contrato, comprueba quién realiza cada acción, qué plazo se
+aplica y si una excepción cambia el alcance de la obligación. Diferencia
+“shall”, “must”, “may” y “should”: no expresan el mismo grado de obligación.
+También conviene comprobar si “party” significa una parte del contrato o una
+persona que participa en un procedimiento.
+
+Practica con documentos breves y reescribe cada cláusula en lenguaje claro sin
+alterar su efecto jurídico. Después vuelve a comparar ambas versiones. Este
+ejercicio ayuda a detectar negaciones dobles, referencias ambiguas y falsos
+amigos como “actual” (actualmente, no actual), “eventually” (finalmente) o
+“claim” (reclamación o demanda según el contexto). En una reunión, pide
+aclaraciones con fórmulas profesionales: “Could you clarify the scope of this
+provision?” y “For the avoidance of doubt, do you mean…?”.
+
 ## Fuentes
+
+### Comunicación interna y revisión
+
+En correos internos utiliza asuntos descriptivos como “Draft NDA — points for
+review” y separa hechos, análisis y acción solicitada. Expresiones como “For
+your review”, “Please confirm whether” y “We recommend” aclaran qué esperas
+del destinatario. Antes de enviar, verifica nombres, jurisdicción, números de
+cláusula y anexos. Un pequeño error de referencia puede cambiar la
+interpretación de todo el documento.
+
+Practica resumir un asunto en tres frases: el riesgo principal, la opción
+recomendada y el siguiente paso. Esta estructura permite que un cliente no
+especialista entienda el consejo sin perder precisión técnica.
+
+Cuando traduzcas, identifica primero la función de cada término. “Consideration”
+en contratos no significa simplemente consideración; puede referirse a la
+contraprestación. “Remedy” suele ser recurso o remedio jurídico, mientras que
+“relief” puede describir la reparación solicitada al tribunal. Consulta una
+fuente jurídica fiable y registra ejemplos completos, no solo equivalencias
+aisladas. La concordancia terminológica entre contrato, correo y presentación
+reduce riesgos y transmite autoridad.
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/
 - British Council LearnEnglish: https://www.britishcouncil.org/learnenglish

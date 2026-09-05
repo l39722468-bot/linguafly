@@ -5,10 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Cohesión Discursiva en Inglés C1"
 description: >-
-  Domina la cohesión discursiva en inglés académico y profesional de nivel C1:
-  conectores aditivos, adversativos, causales y consecutivos, referencia anafórica
-  y catafórica, sustitución léxica, elipsis, deixis y recursos de progresión
-  temática, con teoría trilingüe A2/B2/C1 y diecinueve ejercicios resueltos.
+  Domina la cohesión discursiva en inglés académico y profesional de nivel C1: conectores aditivos, adversativos, causales y consecutivos, referencia...
 readTime: 40 min
 keywords:
   [

@@ -4,7 +4,7 @@ date: '2026-02-10'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  En reported speech, las expresiones de tiempo y lugar cambian junto con el verbo. Aprende cuáles cambian, cómo y cuándo no es necesario cambiarlas, con ejemplos reales y tabla completa.
+  En reported speech, las expresiones de tiempo y lugar cambian junto con el verbo. Aprende cuáles cambian, cómo y cuándo no es necesario cambiarlas, con...
 category: gramatica
 alt: Tabla de expresiones de tiempo en reported speech inglés
 readTime: 6 min

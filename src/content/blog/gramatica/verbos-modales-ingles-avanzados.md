@@ -1,9 +1,7 @@
 ---
 title: 'Verbos Modales Avanzados en Inglés: Guía C1-C2'
 description: >-
-  Guía avanzada de verbos modales en inglés para niveles C1 y C2. Aprende los
-  matices de posibilidad, deducción, crítica y arrepentimiento con Modales
-  Perfectos y ejemplos reales.
+  Guía avanzada de verbos modales en inglés para niveles C1 y C2. Aprende los matices de posibilidad, deducción, crítica y arrepentimiento con Modales...
 readTime: 5 min
 excerpt: >-
   Más allá de can y must: descubre los usos avanzados de los verbos modales en

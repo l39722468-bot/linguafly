@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Inglés para el Trabajo: Guía Profesional'
 description: >-
-  Domina el inglés de negocios y proyecta una imagen profesional sólida. 
-  Aprende a liderar reuniones, negociar con éxito y comunicar tus ideas 
-  con impacto en entornos internacionales.
+  Domina el inglés de negocios y proyecta una imagen profesional sólida. Aprende a liderar reuniones, negociar con éxito y comunicar tus ideas con impacto en...
 readTime: 4 min
 excerpt: >-
   Saber inglés no es suficiente si no sabes cómo usarlo en una reunión, una

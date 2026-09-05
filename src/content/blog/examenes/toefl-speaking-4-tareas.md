@@ -1,9 +1,7 @@
 ---
 title: 'TOEFL Speaking: 4 Tareas, Plantillas y Ejemplos'
 description: >-
-  Guía completa del TOEFL Speaking: cómo funcionan las 4 tareas (Independent,
-  Campus, Academic Lecture y Lecture Summary), estructuras ganadoras, vocabulario
-  y plantillas de nota alta para 26/30.
+  Guía completa del TOEFL Speaking: cómo funcionan las 4 tareas (Independent, Campus, Academic Lecture y Lecture Summary), estructuras ganadoras, vocabulario...
 readTime: 13 min
 excerpt: >-
   El TOEFL Speaking son 17 minutos intensos con 4 tareas muy distintas: cada una

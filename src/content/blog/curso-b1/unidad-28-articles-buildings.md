@@ -5,8 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Articles B1: a/an, the, no article + Places: Buildings'
 description: >-
-  Repasa a/an, the y el artículo cero en inglés B1 con vocabulario de edificios y lugares. Guía completa de la
-  Unidad 28 con explicaciones, tablas, audios, errores típicos, reading, diálogo y ejercicios resueltos.
+  Repasa a/an, the y el artículo cero en inglés B1 con vocabulario de edificios y lugares. Guía completa de la Unidad 28 con explicaciones, tablas, audios,...
 readTime: 20 min
 keywords:
   - articles a an the B1

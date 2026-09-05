@@ -35,7 +35,7 @@ faqs:
       Hacerlo puede incluso resultar contraproducente.
 canonical: 'https://linguafly.app/blog/trabajo/cv-ingles'
 description: >
-  Guía completa para hacer un CV en inglés en 2026: estructura, formato, palabras clave para ATS y errores que debes evitar. Con plantillas y ejemplos reales para diferentes sectores.
+  Guía para crear un CV en inglés en 2026: estructura, formato, palabras clave para ATS, errores frecuentes y ejemplos útiles para distintos sectores.
 ---
 
 ## Tu CV en Inglés: la Llave al Mercado Laboral Internacional
@@ -187,6 +187,82 @@ Tu CV en inglés es el primer paso. El siguiente es la entrevista. En **Linguafl
 ---
 
 Para una preparación completa de tu entrevista de trabajo en inglés, consulta la [Guía Completa para Preparar tu Entrevista de Trabajo en Inglés](/blog/trabajo/preparar-entrevista-trabajo-ingles).
+
+## Checklist final y adaptación a cada oferta
+
+Antes de enviar tu candidatura, compara el CV con la descripción del puesto y
+comprueba que cada requisito importante aparece con el mismo vocabulario. No
+copies una lista de palabras clave sin contexto: intégralas en logros que
+expliquen qué hiciste, cómo lo hiciste y qué resultado obtuviste. Un ejemplo
+claro es “Reduced customer response time by 30% by redesigning the support
+workflow”, que combina acción, método y resultado.
+
+Revisa también la coherencia de fechas, cargos y tiempos verbales. En un puesto
+actual usa presente; en experiencias terminadas, pasado. Escribe los nombres
+oficiales de empresas y certificaciones, y explica cualquier pausa laboral con
+una frase breve si ayuda a evitar dudas. Comprueba que los enlaces funcionan,
+que el teléfono incluye el prefijo internacional y que el correo no contiene
+apodos. Guarda una copia editable y exporta un PDF seleccionable para que el
+ATS pueda leerlo.
+
+La carta de presentación debe complementar el CV, no repetirlo. En el primer
+párrafo menciona el puesto y una razón concreta para interesarte por la
+empresa. Después relaciona dos logros con las necesidades de la oferta y cierra
+con una llamada a la acción educada: “I would welcome the opportunity to
+discuss how my experience could support your team”. Adapta el tono a la
+cultura de la organización y evita afirmaciones que no puedas demostrar.
+
+## Consejos adicionales para un CV legible
+
+### Ejemplos de logros por sector
+
+Para tecnología, describe sistemas, usuarios y mejoras: “Automated monthly
+reporting for 12 stakeholders, saving 20 hours per month”. En ventas, indica
+cuota, cartera y crecimiento: “Exceeded quarterly target by 18% through a
+renewal programme”. En administración, explica volumen y precisión:
+“Processed 300 invoices weekly with a 99% accuracy rate”. En atención al
+cliente, combina satisfacción y eficiencia: “Resolved 45 tickets per day
+while maintaining a 95% customer satisfaction score”.
+
+Un logro no tiene que ser espectacular para ser útil. Puedes medir tiempo
+ahorrado, incidencias evitadas, clientes atendidos, presupuesto gestionado o
+personas formadas. Si no puedes publicar una cifra exacta, utiliza rangos,
+proporciones o una comparación antes/después. Nunca inventes métricas: una
+descripción honesta y verificable transmite más confianza que una cifra
+imprecisa.
+
+Antes de enviar el documento, pide a otra persona que lo lea en inglés.
+Pregúntale qué puesto entiende, qué tres habilidades recuerda y qué parte
+parece menos clara. Corrige primero los problemas de comprensión, después el
+estilo. Un CV accesible, coherente y adaptado a la vacante tiene más
+posibilidades de superar el filtro automático y conseguir una entrevista.
+
+Finalmente, revisa la ortografía inglesa y decide si usarás variantes británicas
+o estadounidenses. Mantén esa decisión en todo el documento: *organisation*,
+*analyse* y *programme* no deben mezclarse sin motivo con *organization*,
+*analyze* y *program*. La consistencia demuestra atención al detalle.
+
+### Última comprobación antes de enviar
+
+Imprime o visualiza el documento al cien por cien y comprueba que los saltos
+de página no separan un cargo de sus logros. Lee cada viñeta en voz alta:
+debe empezar con un verbo y terminar con una consecuencia comprensible.
+Elimina palabras vacías como “various”, “several” o “responsible for” cuando
+puedas sustituirlas por un dato, una herramienta o un resultado.
+
+Nombra el archivo de forma profesional, por ejemplo
+`Maria-Lopez-Resume.pdf`, y utiliza la misma versión del nombre en tu perfil de
+LinkedIn y en el asunto del correo. Conserva una copia sin datos sensibles
+para adaptarla a futuras ofertas. Si la vacante solicita una carta,
+certificados o portfolio, revisa que todos los documentos utilicen las mismas
+fechas, cargos y variante de inglés.
+
+También conviene revisar la legibilidad: utiliza frases cortas, suficiente
+espacio en blanco y una jerarquía visual sencilla. El reclutador debe localizar
+en segundos el cargo, las fechas, las habilidades y los resultados principales.
+Si una sección no aporta evidencia de tu adecuación al puesto, recórtala o
+trasládala a una carta de presentación. El objetivo es facilitar una decisión,
+no contar toda tu trayectoria profesional.
 
 ## Fuentes
 

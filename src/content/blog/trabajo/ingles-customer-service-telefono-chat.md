@@ -4,9 +4,7 @@ date: '2026-03-05'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende inglés para atención al cliente en todos los canales: teléfono, chat
-  en vivo y email. Frases para cada situación, gestión de reclamaciones y
-  técnicas para superar las barreras del idioma.
+  Aprende inglés para atención al cliente en todos los canales: teléfono, chat en vivo y email. Frases para cada situación, gestión de reclamaciones y...
 category: trabajo
 alt: Agente de atención al cliente hablando en inglés por teléfono con un cliente internacional
 canonical: >-

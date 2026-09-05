@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios del First Conditional en Inglés B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 11 del curso B1: first conditional + future time clauses (when, as soon as, until);
-  weather, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 11 del curso B1: first conditional + future time clauses (when, as soon as, until); weather, reading, listening y...
 readTime: 25 min
 keywords:
   - Ejercicios del First Conditional en Inglés B1

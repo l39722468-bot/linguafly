@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso de Gramática Avanzada y Vocabulario B2"
 description: >-
-  Guía completa de la Unidad 50 B2: teoría y ejercicios de repaso de U41–49 con Future Perfect, deducción modal, mixed conditionals,
-  clefts, reporting verbs, inversión, vocabulario mixto, reading, listening, writing, speaking y soluciones.
+  Guía completa de la Unidad 50 B2: teoría y ejercicios de repaso de U41–49 con Future Perfect, deducción modal, mixed conditionals, clefts, reporting verbs,...
 readTime: 62 min
 keywords:
   - Repaso de Gramática Avanzada y Vocabulario B2

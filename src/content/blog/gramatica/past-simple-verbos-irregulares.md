@@ -4,7 +4,7 @@ date: '2026-02-19'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Verbos irregulares en inglés para el Past Simple: lista completa con patrones y ejercicios. Aprende a identificar grupos de irregulares para memorizarlos de forma más eficaz.
+  Verbos irregulares en inglés para el Past Simple: lista completa con patrones y ejercicios. Aprende a identificar grupos de irregulares para memorizarlos de...
 category: gramatica
 alt: Lista de verbos irregulares en inglés organizados en una tabla
 readTime: 8 min

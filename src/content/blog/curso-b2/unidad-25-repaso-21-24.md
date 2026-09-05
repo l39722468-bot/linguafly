@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso de Conectores y Phrasal Verbs B2"
 description: >-
-  Guía completa de la Unidad 25 del curso B2: repaso de linkers de contraste/razón/propósito y phrasal verbs BE-BREAK-BRING / CALL-CARRY-COME con vocabulario mixto con ejercicios resueltos. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 25 del curso B2: repaso de linkers de contraste/razón/propósito y phrasal verbs BE-BREAK-BRING / CALL-CARRY-COME con vocabulario...
 readTime: 47 min
 keywords:
   - Repaso de Conectores y Phrasal Verbs B2

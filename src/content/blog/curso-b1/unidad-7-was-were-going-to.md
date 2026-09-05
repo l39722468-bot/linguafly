@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: "Was/were going to B1: planes que no ocurrieron"
 description: >-
-  Aprende was/were going to en inglés B1 para hablar de planes e intenciones pasadas que no se realizaron.
-  Guía completa de la Unidad 7 con explicaciones, audios, reading sobre un viaje a Japón cancelado, diálogo,
-  errores típicos y ejercicios resueltos.
+  Aprende was/were going to en inglés B1 para hablar de planes e intenciones pasadas que no se realizaron. Guía completa de la Unidad 7 con explicaciones,...
 readTime: 16 min
 keywords:
   - was were going to B1

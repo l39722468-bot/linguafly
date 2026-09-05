@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Verb + Preposition B1 & Dependent Prepositions'
 description: >-
-  Domina el verb + preposition en inglés B1: depend on, listen to, wait for, look at, believe in, apply for y
-  muchos más "dependent prepositions" agrupados por bloques. Guía completa de la Unidad 41 con explicaciones,
-  tablas, audios, errores típicos, reading, diálogo y ejercicios resueltos con soluciones.
+  Domina el verb + preposition en inglés B1: depend on, listen to, wait for, look at, believe in, apply for y muchos más "dependent prepositions" agrupados...
 readTime: 15 min
 keywords:
   - verb preposition B1

@@ -4,7 +4,7 @@ date: '2026-03-21'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Expresiones fijas y frases idiomáticas con will en inglés: usos avanzados que van más allá de las reglas básicas. Aprende a hablar como un nativo con estas construcciones reales.
+  Expresiones fijas y frases idiomáticas con will en inglés: usos avanzados que van más allá de las reglas básicas. Aprende a hablar como un nativo con estas...
 category: gramatica
 alt: Persona aprendiendo expresiones con will en inglés
 readTime: 8 min

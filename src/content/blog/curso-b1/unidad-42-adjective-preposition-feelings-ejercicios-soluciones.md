@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Adjetivos y Preposiciones en Inglés B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 42 del curso B1: adjective + preposition (interested in, afraid of, good at…);
-  feelings & attitudes, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 42 del curso B1: adjective + preposition (interested in, afraid of, good at…); feelings & attitudes, reading,...
 readTime: 25 min
 keywords:
   - Ejercicios de Adjetivos y Preposiciones en Inglés B1

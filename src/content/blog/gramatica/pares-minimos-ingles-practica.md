@@ -4,7 +4,7 @@ date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Pares mínimos en inglés: la técnica más efectiva para afinar el oído y mejorar la pronunciación. Lista de pares clave para hispanohablantes con ejercicios de discriminación auditiva.
+  Pares mínimos en inglés: la técnica más efectiva para afinar el oído y mejorar la pronunciación. Lista de pares clave para hispanohablantes con ejercicios...
 excerpt: >-
   Los pares mínimos son dos palabras que solo se diferencian en un sonido. Practicarlos es la forma más directa de entrenar tanto la percepción como la producción de los fonemas que más te cuestan. Aquí tienes más de 80 pares organizados por sonido.
 category: gramatica

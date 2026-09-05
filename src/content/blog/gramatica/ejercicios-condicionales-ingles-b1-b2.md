@@ -20,7 +20,7 @@ keywords:
   - condicionales ingleses por niveles con soluciones
 author: linguafly-team
 description: >-
-  Ejercicios de condicionales en inglés B1-B2 con soluciones: practica los cuatro tipos con correcciones detalladas. Perfecto para preparar B2 First, C1 Advanced y exámenes oficiales.
+  Ejercicios de condicionales en inglés B1-B2 con soluciones: practica los cuatro tipos con correcciones detalladas. Perfecto para preparar B2 First, C1...
 date: '2026-03-04'
 updatedDate: '2026-08-31'
 category: gramatica

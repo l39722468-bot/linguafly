@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Have To y Don’t Have To en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 28 del curso A2: have to / has to y don't / doesn't have to (obligación y lo opcional),
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 28 del curso A2: have to / has to y don't / doesn't have to (obligación y lo opcional), reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Have To y Don’t Have To en Inglés A2

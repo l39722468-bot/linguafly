@@ -5,9 +5,7 @@ updatedDate: '2026-08-03'
 author: linguafly-team
 title: 'Lugares en la Ciudad en Inglés (A1): There is/are, Where is…? y Preposiciones'
 description: >-
-  Aprende lugares de la ciudad en inglés A1, There is/There are, Where is…?, Is
-  there a…? y preposiciones next to, opposite, between. Guía Unidad 11 con
-  ejemplos, audios y ejercicios.
+  Aprende lugares de la ciudad en inglés A1, There is/There are, Where is…? , Is there a…? y preposiciones next to, opposite, between.
 readTime: 15 min
 keywords:
   - lugares de la ciudad en inglés A1

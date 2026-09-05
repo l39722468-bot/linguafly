@@ -1,9 +1,7 @@
 ---
 title: 'Costumbres Británicas: Guía de Etiqueta y Cultura'
 description: >-
-  Guía completa de costumbres y cultura británica para hispanohablantes. Desde
-  el queuing hasta el humor inglés, descubre qué esperar cuando interactúas con
-  británicos por primera vez.
+  Guía completa de costumbres y cultura británica para hispanohablantes. Desde el queuing hasta el humor inglés, descubre qué esperar cuando interactúas con...
 readTime: 6 min
 excerpt: >-
   Las normas sociales del Reino Unido son tan importantes como el idioma. Aprende

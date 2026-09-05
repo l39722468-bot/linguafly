@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Gramática Mixta B1: Ejercicios y Vocabulario de Deporte'
 description: >-
-  Práctica gramatical mixta B1 (passive, conditionals, present perfect continuous, reported speech y modales)
-  con vocabulario completo de deporte. Guía Unidad 56 con diagnóstico, errores típicos, reading, diálogo y
-  más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
+  Práctica gramatical mixta B1 (passive, conditionals, present perfect continuous, reported speech y modales) con vocabulario completo de deporte.
 readTime: 19 min
 keywords:
   - Gramática Mixta B1: Ejercicios y Vocabulario de Deporte

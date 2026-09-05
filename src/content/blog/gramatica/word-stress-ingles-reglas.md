@@ -1,9 +1,7 @@
 ---
 title: 'Acento de Palabra en Inglés: Reglas y Ejemplos'
 description: >-
-  Aprende las reglas del acento léxico en inglés (word stress): cuándo acentuar
-  la primera sílaba, cuándo la última y cómo los sufijos cambian el acento.
-  Con ejemplos IPA y patrones prácticos.
+  Aprende las reglas del acento léxico en inglés (word stress): cuándo acentuar la primera sílaba, cuándo la última y cómo los sufijos cambian el acento.
 readTime: 9 min
 excerpt: >-
   En inglés, colocar el acento en la sílaba equivocada puede hacer que no te

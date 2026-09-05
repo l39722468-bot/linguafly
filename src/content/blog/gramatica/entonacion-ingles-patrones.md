@@ -4,7 +4,7 @@ date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Entonación en inglés: los patrones que te hacen sonar natural. Aprende a distinguir afirmaciones, preguntas, listas y énfasis para comunicarte con más fluidez y confianza.
+  Entonación en inglés: los patrones que te hacen sonar natural. Aprende a distinguir afirmaciones, preguntas, listas y énfasis para comunicarte con más...
 excerpt: >-
   La entonación es lo que diferencia una pregunta de una afirmación, un insulto de un cumplido, una orden de una sugerencia. En inglés, los patrones melódicos son específicos y aprenderlos transforma cómo te perciben los nativos, aunque tu gramática sea perfecta.
 category: gramatica

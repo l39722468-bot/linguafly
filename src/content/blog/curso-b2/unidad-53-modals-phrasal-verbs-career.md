@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Modales y Phrasal Verbs B2"
 description: >-
-  Guía completa de la Unidad 53 del curso B2: modals of obligation, deduction y advice con phrasal verbs de trabajo y carrera profesional. Incluye reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 53 del curso B2: modals of obligation, deduction y advice con phrasal verbs de trabajo y carrera profesional.
 readTime: 45 min
 keywords:
   - Ejercicios de Modales y Phrasal Verbs B2

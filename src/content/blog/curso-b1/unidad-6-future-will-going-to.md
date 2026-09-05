@@ -5,9 +5,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-6-future-will-going-to'
 category: curso-b1
 date: '2026-08-17'
 description: >-
-  Contrasta will, going to y present continuous para el futuro en inglés B1: predicciones, planes e
-  intenciones, arreglos fijos y horarios. Guía completa de la Unidad 6 con explicaciones, audios, reading
-  sobre un viaje a Tokio, diálogo, errores típicos y ejercicios resueltos.
+  Contrasta will, going to y present continuous para el futuro en inglés B1: predicciones, planes e intenciones, arreglos fijos y horarios.
 excerpt: >-
   Guía completa de la Unidad 6 del curso B1: will, going to y present continuous para el futuro, con
   vocabulario de travel y el viaje a Tokio, reading, diálogo y ejercicios.

@@ -1,9 +1,7 @@
 ---
 title: 'Inglés en Vuelos: Retrasos, Conexiones y Problemas'
 description: >-
-  Guía práctica del inglés que necesitas cuando algo sale mal en un vuelo:
-  retrasos, conexiones perdidas, cancelaciones, maletas, reclamaciones y
-  compensaciones, con frases reales listas para usar.
+  Guía práctica del inglés que necesitas cuando algo sale mal en un vuelo: retrasos, conexiones perdidas, cancelaciones, maletas, reclamaciones y...
 readTime: 12 min
 excerpt: >-
   Cuando tu vuelo se retrasa o pierdes una conexión, el inglés pasa de "sería

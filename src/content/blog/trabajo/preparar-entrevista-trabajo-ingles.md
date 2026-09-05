@@ -4,9 +4,7 @@ date: '2026-02-18'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Guía paso a paso para preparar tu entrevista de trabajo en inglés. Estrategias
-  de preparación, vocabulario clave, técnica STAR y simulacros de práctica para
-  superar cualquier proceso de selección en inglés.
+  Guía paso a paso para preparar tu entrevista de trabajo en inglés. Estrategias de preparación, vocabulario clave, técnica STAR y simulacros de práctica para...
 category: trabajo
 alt: Candidato preparándose para una entrevista de trabajo en inglés con un reclutador
 canonical: >-

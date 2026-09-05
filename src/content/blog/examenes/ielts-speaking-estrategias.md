@@ -4,7 +4,7 @@ date: '2026-02-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Guía completa para el IELTS Speaking: qué evalúan en cada parte, cómo preparar el monólogo del Part 2, errores que bajan la nota y estrategias reales para subir de Band 6 a Band 7.
+  Guía completa para el IELTS Speaking: qué evalúan en cada parte, cómo preparar el monólogo del Part 2, errores que bajan la nota y estrategias reales para...
 category: examenes
 alt: Persona hablando con un examinador en una sala de examen
 readTime: 7 min

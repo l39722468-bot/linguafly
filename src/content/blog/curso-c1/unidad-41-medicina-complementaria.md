@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Medicina Complementaria en Inglés C1"
 description: >-
-  En la Unidad 41 del curso de inglés C1 gratis aprenderás a contrastar evidencia
-  y opinión al hablar de medicina complementaria, distinguir consenso médico de
-  creencia y formular posturas matizadas. Incluye 19 ejercicios inglés C1 gratis.
+  En la Unidad 41 del curso de inglés C1 gratis aprenderás a contrastar evidencia y opinión al hablar de medicina complementaria, distinguir consenso médico...
 readTime: 40 min
 keywords:
   - Ejercicios de Medicina Complementaria en Inglés C1

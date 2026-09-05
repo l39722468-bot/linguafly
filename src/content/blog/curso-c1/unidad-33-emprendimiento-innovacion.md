@@ -5,7 +5,7 @@ updatedDate: '2026-09-10'
 author: linguafly-team
 title: "Ejercicios de Pitch y Emprendimiento en Inglés C1"
 description: >-
-  Aprende a construir un pitch de emprendimiento en inglés C1 con estructuras de riesgo y oportunidad (conditionals, unless, provided that, in the event that, should you), lenguaje persuasivo, vocabulario de startups e innovación y ejercicios resueltos.
+  Aprende a construir un pitch de emprendimiento en inglés C1 con estructuras de riesgo y oportunidad (conditionals, unless, provided that, in the event that,...
 readTime: 40 min
 keywords:
   - Ejercicios de Pitch y Emprendimiento en Inglés C1

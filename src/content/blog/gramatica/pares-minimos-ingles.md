@@ -1,9 +1,7 @@
 ---
 title: 'Pares Mínimos en Inglés: Ejercicio y Lista'
 description: >-
-  Descubre qué son los pares mínimos en inglés y cómo usarlos para entrenar el
-  oído y mejorar la pronunciación. Listas de pares por fonema con ejemplos IPA
-  y consejos prácticos.
+  Descubre qué son los pares mínimos en inglés y cómo usarlos para entrenar el oído y mejorar la pronunciación. Listas de pares por fonema con ejemplos IPA y...
 readTime: 8 min
 excerpt: >-
   Los pares mínimos son parejas de palabras que solo se diferencian en un

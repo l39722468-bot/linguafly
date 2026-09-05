@@ -4,7 +4,7 @@ date: '2026-02-26'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Todo sobre el IELTS General Training: diferencias con el Academic, cómo funciona el Reading y el Writing GT, qué países y visas lo aceptan, y plan de preparación según tu objetivo.
+  Todo sobre el IELTS General Training: diferencias con el Academic, cómo funciona el Reading y el Writing GT, qué países y visas lo aceptan, y plan de...
 category: examenes
 alt: Pasaporte y documentos de viaje para inmigración con IELTS General Training
 readTime: 7 min

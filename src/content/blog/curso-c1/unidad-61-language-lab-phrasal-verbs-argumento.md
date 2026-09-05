@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Phrasal Verbs Formales en Inglés C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis del Language Lab aprendes a usar phrasal verbs de registro formal
-  en contextos argumentativos, a dominar su colocación y a distinguir cuándo un phrasal verb eleva el registro
-  y cuándo un sinónimo latino es más apropiado. Con teoría detallada y 19 ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis del Language Lab aprendes a usar phrasal verbs de registro formal en contextos argumentativos, a dominar su...
 readTime: 40 min
 keywords:
   [

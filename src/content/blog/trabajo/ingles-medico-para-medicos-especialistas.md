@@ -4,9 +4,7 @@ date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Guía avanzada de inglés médico para médicos y especialistas. Redacción de
-  historias clínicas, comunicación en congresos, publicaciones científicas y
-  gestión de consultas con pacientes internacionales.
+  Guía avanzada de inglés médico para médicos y especialistas. Redacción de historias clínicas, comunicación en congresos, publicaciones científicas y gestión...
 category: trabajo
 alt: Médico especialista revisando literatura médica científica en inglés
 canonical: >-

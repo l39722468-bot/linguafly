@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso de Inglés B1 a B2 con Teoría y Ejercicios"
 description: >-
-  Guía completa de la Unidad 1 del curso B2: wish / if only + past perfect, participle clauses, mixed conditionals; personal development, reading, listening y writing, con ejercicios y soluciones. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 1 del curso B2: wish / if only + past perfect, participle clauses, mixed conditionals; personal development, reading, listening y...
 readTime: 45 min
 keywords:
   - Repaso de Inglés B1 a B2 con Teoría y Ejercicios

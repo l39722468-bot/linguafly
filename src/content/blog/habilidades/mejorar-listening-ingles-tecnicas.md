@@ -1,8 +1,7 @@
 ---
 title: 'Cómo Mejorar el Listening en Inglés: 7 Técnicas'
 description: >-
-  Guía práctica para mejorar la comprensión auditiva en inglés: siete técnicas probadas
-  para que dejes de perderte cuando hablan rápido, con rutina semanal y errores a evitar.
+  Guía práctica para mejorar la comprensión auditiva en inglés: siete técnicas probadas para que dejes de perderte cuando hablan rápido, con rutina semanal y...
 readTime: 12 min
 excerpt: >-
   Si ya entiendes leyendo pero te bloqueas cuando alguien te habla, el problema no es

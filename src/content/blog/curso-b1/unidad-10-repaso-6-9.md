@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: "Repaso B1 unidades 6–9: futuros, deducción y used to"
 description: >-
-  Repasa de forma integrada will/going to, was/were going to, must/might/can't y used to / be used to /
-  get used to. Guía completa de la Unidad 10 del curso B1 con diagnóstico, audios, reading, diálogo y
-  ejercicios resueltos.
+  Repasa de forma integrada will/going to, was/were going to, must/might/can't y used to / be used to / get used to. Guía completa de la Unidad 10 del curso...
 readTime: 16 min
 keywords:
   - repaso B1 unidades 6-9

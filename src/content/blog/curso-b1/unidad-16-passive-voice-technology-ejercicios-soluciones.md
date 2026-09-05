@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Voz Pasiva en Inglés B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 16 del curso B1: passive voice present & past (is/are/was/were + past participle);
-  technology, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 16 del curso B1: passive voice present & past (is/are/was/were + past participle); technology, reading, listening...
 readTime: 25 min
 keywords:
   - Ejercicios de Voz Pasiva en Inglés B1

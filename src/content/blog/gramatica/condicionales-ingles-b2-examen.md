@@ -1,9 +1,7 @@
 ---
 title: 'Condicionales en Inglés para el Examen B2'
 description: >-
-  Prepara los condicionales para el Cambridge B2 First, APTIS y IELTS.
-  Ejercicios de transformación, open cloze y speaking con los patrones que
-  más aparecen en los exámenes oficiales de nivel B2.
+  Prepara los condicionales para el Cambridge B2 First, APTIS y IELTS. Ejercicios de transformación, open cloze y speaking con los patrones que más aparecen...
 readTime: 6 min
 excerpt: >-
   Los condicionales son de los puntos gramaticales más examinados en B2.

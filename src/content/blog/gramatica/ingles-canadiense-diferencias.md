@@ -4,7 +4,7 @@ date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  El inglés canadiense: las diferencias con el americano que nadie te cuenta (pronunciación, vocabulario, ortografía). Guía práctica para reconocer y entender el Canadian English.
+  El inglés canadiense: las diferencias con el americano que nadie te cuenta (pronunciación, vocabulario, ortografía). Guía práctica para reconocer y entender...
 excerpt: >-
   Para muchos hispanohablantes, el inglés canadiense suena prácticamente idéntico al americano. Pero hay diferencias sistemáticas en las vocales, en el vocabulario y en algunos patrones de entonación que lo hacen inconfundible una vez que sabes escucharlas.
 category: gramatica

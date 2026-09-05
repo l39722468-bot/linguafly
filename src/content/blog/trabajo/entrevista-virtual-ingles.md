@@ -1,9 +1,7 @@
 ---
 title: 'Entrevista Virtual en Inglés por Videollamada: Guía Completa'
 description: >-
-  Guía completa para entrevistas de trabajo en inglés por videollamada. Setup
-  técnico, lenguaje corporal en cámara, vocabulario específico y cómo gestionar
-  los imprevistos técnicos sin perder la compostura.
+  Guía completa para entrevistas de trabajo en inglés por videollamada. Setup técnico, lenguaje corporal en cámara, vocabulario específico y cómo gestionar...
 readTime: 5 min
 excerpt: >-
   Una entrevista virtual en inglés tiene sus propias reglas. El contenido de

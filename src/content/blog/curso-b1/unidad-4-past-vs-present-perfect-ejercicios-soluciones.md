@@ -4,9 +4,8 @@ author: linguafly-team
 canonical: https://linguafly.app/blog/curso-b1/unidad-4-past-vs-present-perfect-ejercicios-soluciones
 category: curso-b1
 date: '2026-08-25'
-description: 'Practica todos los ejercicios de la Unidad 4 del curso B1: Past Simple
-  vs Present Perfect: yesterday vs ever/just/already/yet, reading, listening y writing.
-  Con soluciones comentadas.'
+description: >-
+  Practica todos los ejercicios de la Unidad 4 del curso B1: Past... vs Present Perfect: yesterday vs ever/just/already/yet, reading, listening y writing.
 excerpt: Cuaderno de ejercicios de la Unidad 4 B1 (Past Simple vs Present Perfect)
   con soluciones.
 faqs:

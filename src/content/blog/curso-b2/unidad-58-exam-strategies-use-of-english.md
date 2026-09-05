@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Estrategias y Ejercicios de Use of English B2"
 description: >-
-  Guía completa de la Unidad 58 del curso B2: estrategias y técnicas para el Use of English del examen Cambridge B2 First, incluyendo cloze, open cloze, word formation y key word transformations con ejercicios y soluciones.
+  Guía completa de la Unidad 58 del curso B2: estrategias y técnicas para el Use of English del examen Cambridge B2 First, incluyendo cloze, open cloze, word...
 readTime: 45 min
 keywords:
   - Estrategias y Ejercicios de Use of English B2

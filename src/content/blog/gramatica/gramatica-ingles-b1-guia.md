@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Gramática Inglesa B1: Temas, Ejercicios y Guía'
 description: >-
-  Domina la gramática del nivel B1 de inglés. Tiempos verbales, condicionales,
-  voz pasiva y más. La guía definitiva para preparar tu certificado oficial de
-  Cambridge, Oxford o IELTS.
+  Domina la gramática del nivel B1 de inglés. Tiempos verbales, condicionales, voz pasiva y más. La guía definitiva para preparar tu certificado oficial de...
 readTime: 6 min
 keywords:
   - Gramática Inglesa B1: Temas, Ejercicios y Guía

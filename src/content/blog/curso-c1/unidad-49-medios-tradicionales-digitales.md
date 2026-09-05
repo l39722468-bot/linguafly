@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Medios Tradicionales y Digitales C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a distinguir géneros mediáticos, a escribir sobre la transformación
-  digital de la prensa y a manejar el léxico de los hipervínculos sociales con precisión crítica. Con teoría detallada y 19
-  ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis aprendes a distinguir géneros mediáticos, a escribir sobre la transformación digital de la prensa y a manejar...
 readTime: 40 min
 keywords:
   [

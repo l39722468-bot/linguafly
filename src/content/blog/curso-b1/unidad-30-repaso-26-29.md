@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Repaso B1 Unidades 26–29: Quantifiers, Both/Either/Neither, Articles, Reflexives'
 description: >-
-  Repaso integrado B1 de las Unidades 26 a 29: cuantificadores, both/either/neither, artículos y pronombres
-  reflexivos, con vocabulario mixto y un diagnóstico para elegir la forma correcta. Guía completa con
-  explicaciones, tablas, audios, reading, diálogo y ejercicios resueltos.
+  Repaso integrado B1 de las Unidades 26 a 29: cuantificadores, both/either/neither, artículos y pronombres reflexivos, con vocabulario mixto y un diagnóstico...
 readTime: 20 min
 keywords:
   - repaso B1 26-29

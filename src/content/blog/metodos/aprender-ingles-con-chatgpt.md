@@ -4,7 +4,7 @@ date: '2026-02-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende inglés con ChatGPT de forma efectiva: conversación, corrección de errores, vocabulario y escritura. Guía práctica 2026 con prompts listos para usar desde el primer día.
+  Aprende inglés con ChatGPT de forma efectiva: conversación, corrección de errores, vocabulario y escritura. Guía práctica 2026 con prompts listos para usar...
 excerpt: >-
   Descubre cómo usar ChatGPT para aprender inglés de forma efectiva: conversación, corrección de errores, vocabulario, gramática y escritura. Incluye prompts listos para usar.
 category: metodos

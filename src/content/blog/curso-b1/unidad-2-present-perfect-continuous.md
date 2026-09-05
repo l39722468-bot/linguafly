@@ -5,9 +5,7 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-2-present-perfect-continu
 category: curso-b1
 date: '2026-08-12'
 description: >-
-  Aprende Present Perfect Continuous en inglés B1: have/has been + -ing, for/since y el contraste con
-  Present Perfect Simple. Guía completa de la Unidad 2 con explicaciones, audios, reading, diálogo,
-  errores típicos y ejercicios resueltos sobre education.
+  Aprende Present Perfect Continuous en inglés B1: have/has been + -ing, for/since y el contraste con Present Perfect Simple.
 excerpt: >-
   Guía completa de la Unidad 2 del curso B1: Present Perfect Continuous con have/has been + -ing, for/since,
   contraste con Simple y vocabulario de education, con reading, diálogo y ejercicios.

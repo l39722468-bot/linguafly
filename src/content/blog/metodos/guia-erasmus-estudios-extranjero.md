@@ -4,7 +4,7 @@ date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Guía Erasmus en inglés: vocabulario para la universidad extranjera, vida en residencia, campus y cómo aprovechar al máximo tu intercambio académico. Todo lo que necesitas saber antes de irte.
+  Guía Erasmus en inglés: vocabulario para la universidad extranjera, vida en residencia, campus y cómo aprovechar al máximo tu intercambio académico.
 excerpt: >-
   Guía completa para estudiantes Erasmus y de intercambio: vocabulario en inglés para la universidad, la vida en residencia, el campus y cómo sacar el máximo partido a tu experiencia académica en el extranjero.
 category: metodos

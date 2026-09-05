@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de So, Such, Too y Enough en Inglés B2"
 description: >-
-  Aprende so/such/too/enough en inglés B2 con vocabulario de cooking & recipes, y practica con ejercicios comentados. Guía completa Unidad 18 con audios y contrastes claros.
+  Aprende so/such/too/enough en inglés B2 con vocabulario de cooking & recipes, y practica con ejercicios comentados. Guía completa Unidad 18 con audios y...
 readTime: 40 min
 keywords:
   - Ejercicios de So, Such, Too y Enough en Inglés B2

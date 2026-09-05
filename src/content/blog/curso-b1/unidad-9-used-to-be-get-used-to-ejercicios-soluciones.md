@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Used To, Be Used To y Get Used To'
 description: >-
-  Practica todos los ejercicios de la Unidad 9 del curso B1: used to / be used to / get used to;
-  habits & lifestyle, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 9 del curso B1: used to / be used to / get used to; habits & lifestyle, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Used To, Be Used To y Get Used To

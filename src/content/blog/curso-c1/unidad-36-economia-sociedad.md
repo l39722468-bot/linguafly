@@ -5,7 +5,7 @@ updatedDate: '2026-09-10'
 author: linguafly-team
 title: "Ejercicios de Opinión Matizada y Macroeconomía C1"
 description: >-
-  Aprende a expresar opinión matizada en inglés C1 con estructuras evaluativas (it is widely argued that, there is a case for, one might contend), adverbios de postura y vocabulario de macroeconomía aplicado a economía y sociedad, con teoría y ejercicios resueltos.
+  Aprende a expresar opinión matizada en inglés C1 con estructuras evaluativas (it is widely argued that, there is a case for, one might contend), adverbios...
 readTime: 40 min
 keywords:
   - Ejercicios de Opinión Matizada y Macroeconomía C1

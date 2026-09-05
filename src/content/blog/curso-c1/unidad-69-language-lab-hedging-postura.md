@@ -5,10 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Hedging y Postura Académica C1"
 description: >-
-  Domina el hedging y la postura autoral en inglés académico y profesional de nivel C1:
-  verbos modales epistémicos, adverbios de probabilidad, verbos de postura, cláusulas con
-  it appears / it would seem, atribución y la diferencia entre asertividad y atenuación,
-  con teoría trilingüe A2/B2/C1 y diecinueve ejercicios resueltos.
+  Domina el hedging y la postura autoral en inglés académico y profesional de nivel C1: verbos modales epistémicos, adverbios de probabilidad, verbos de...
 readTime: 40 min
 keywords:
   [

@@ -4,9 +4,7 @@ date: '2026-02-28'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende a estructurar y ejecutar presentaciones en inglés con confianza.
-  Conectores, frases de transición, cómo abrir y cerrar con impacto, y vocabulario
-  clave para cada momento de tu presentación.
+  Aprende a estructurar y ejecutar presentaciones en inglés con confianza. Conectores, frases de transición, cómo abrir y cerrar con impacto, y vocabulario...
 category: trabajo
 alt: Profesional haciendo una presentación en inglés ante un grupo internacional
 canonical: >-

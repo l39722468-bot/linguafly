@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios There Is y There Are en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 23 del curso A1: There is/are,
-  negativas, Is there…?, Are there…?, in/on/under/behind, reading, listening y
-  writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 23 del curso A1: There is/are, negativas, Is there…?, Are there…?, in/on/under/behind, reading, listening y...
 readTime: 25 min
 keywords:
   - Ejercicios There Is y There Are en Inglés A1

@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Dinero y Compras en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 59 del curso A1: pay for, spend on,
-  cash, credit card, change, receipt, reading, listening y writing. Con
-  soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 59 del curso A1: pay for, spend on, cash, credit card, change, receipt, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Dinero y Compras en Inglés A1

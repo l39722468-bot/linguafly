@@ -4,7 +4,7 @@ date: '2026-02-12'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Las 30 preguntas más comunes en entrevistas de trabajo en inglés con respuestas modelo. Prepárate para lo que hacen los reclutadores internacionales y aprende a contestar de forma convincente y profesional.
+  Las 30 preguntas más comunes en entrevistas de trabajo en inglés con respuestas modelo. Prepárate para lo que hacen los reclutadores internacionales y...
 excerpt: >-
   Prepara tu entrevista de trabajo en inglés con las 30 preguntas más comunes
   que hacen los reclutadores internacionales y aprende cómo responderlas de

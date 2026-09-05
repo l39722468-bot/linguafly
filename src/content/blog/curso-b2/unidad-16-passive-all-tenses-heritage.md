@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Voz Pasiva en Todos los Tiempos B2"
 description: >-
-  Aprende la voz pasiva en todos los tiempos (present, past, perfect, future, continuous) en inglés B2 con vocabulario de history & heritage, y practica con ejercicios comentados. Guía completa Unidad 16 con audios.
+  Aprende la voz pasiva en todos los tiempos (present, past, perfect, future, continuous) en inglés B2 con vocabulario de history & heritage, y practica con...
 readTime: 40 min
 keywords:
   - Ejercicios de Voz Pasiva en Todos los Tiempos B2

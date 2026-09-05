@@ -6,9 +6,7 @@ author: linguafly-team
 category: examenes
 readTime: 12 min
 description: >-
-  Todo sobre el Aptis General 2026: estructura de las 4 destrezas, escala de
-  niveles de A1 a C, precio actualizado y estrategias para alcanzar el B2 o
-  C1. Guía práctica para hispanohablantes en España.
+  Todo sobre el Aptis General 2026: estructura de las 4 destrezas, escala de niveles de A1 a C, precio actualizado y estrategias para alcanzar el B2 o C1.
 excerpt: >-
   El Aptis General es el examen más flexible del British Council: un solo
   examen certifica de A1 a C1 según tu nivel real. Aquí tienes la estructura

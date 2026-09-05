@@ -1,6 +1,8 @@
 ---
 title: 'Key Word Transformations CAE: Guía y Ejercicios'
-description: "Guía completa de las Key Word Transformations del C1 Advanced: los patrones más frecuentes, estructuras gramaticales clave y errores habituales para maximizar tu puntuación en la Parte 4."
+description: >-
+  Guía completa de las Key Word Transformations del C1 Advanced: los patrones más frecuentes, estructuras gramaticales clave y errores habituales para...
+
 readTime: 9 min
 excerpt: "Las Key Word Transformations son la parte del CAE que más candidatos suspenden y más nota discrimina. Conocer los patrones que usa Cambridge te permite resolverlas con mucha más seguridad."
 keywords:

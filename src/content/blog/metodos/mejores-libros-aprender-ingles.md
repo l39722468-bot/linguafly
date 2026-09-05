@@ -4,7 +4,7 @@ date: '2026-02-16'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Los mejores libros para aprender inglés en 2026 según tu nivel: gramática, vocabulario, conversación y exámenes. Incluye lecturas graduadas recomendadas para cada etapa del aprendizaje.
+  Los mejores libros para aprender inglés en 2026 según tu nivel: gramática, vocabulario, conversación y exámenes. Incluye lecturas graduadas recomendadas...
 excerpt: >-
   Descubre los mejores libros para aprender inglés en 2026 según tu nivel y objetivo: gramática, vocabulario, conversación y preparación para exámenes. Incluye libros de lectura graduada.
 category: metodos

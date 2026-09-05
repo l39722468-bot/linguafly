@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Inglés para el Aeropuerto A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 41 del curso A1: must y should en
-  el aeropuerto, passport, check-in, boarding pass, gate, reading, listening y
-  writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 41 del curso A1: must y should en el aeropuerto, passport, check-in, boarding pass, gate, reading, listening y...
 readTime: 25 min
 keywords:
   - Ejercicios de Inglés para el Aeropuerto A1

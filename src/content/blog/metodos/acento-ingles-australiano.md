@@ -1,9 +1,7 @@
 ---
 title: 'Acento Australiano: Características y Cómo Entenderlo'
 description: >-
-  Guía completa del inglés australiano: sus tres variantes (Broad, General y
-  Cultivated), características fonéticas, vocabulario típico y estrategias para
-  acostumbrarte a escuchar el acento australiano.
+  Guía completa del inglés australiano: sus tres variantes (Broad, General y Cultivated), características fonéticas, vocabulario típico y estrategias para...
 readTime: 8 min
 excerpt: >-
   El australiano es uno de los acentos del inglés que más confunde a quienes

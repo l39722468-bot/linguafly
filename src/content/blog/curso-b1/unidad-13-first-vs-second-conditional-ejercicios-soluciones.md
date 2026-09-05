@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de First y Second Conditional en Inglés B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 13 del curso B1: first vs second conditional (real vs hypothetical);
-  entertainment, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 13 del curso B1: first vs second conditional (real vs hypothetical); entertainment, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de First y Second Conditional en Inglés B1

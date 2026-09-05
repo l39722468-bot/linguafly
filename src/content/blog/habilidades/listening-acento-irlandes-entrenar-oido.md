@@ -1,8 +1,7 @@
 ---
 title: 'Cómo Entender el Acento Irlandés: Guía Listening'
 description: >-
-  Plan práctico para mejorar la comprensión auditiva del inglés irlandés: podcasts, series,
-  documentales y rutina semanal. Incluye criterios de progreso y errores habituales al escuchar Hiberno-English.
+  Plan práctico para mejorar la comprensión auditiva del inglés irlandés: podcasts, series, documentales y rutina semanal.
 readTime: 13 min
 excerpt: >-
   Entender el acento irlandés no es magia: es exposición ordenada, textos graduados y

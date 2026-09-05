@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Wish e If Only en Inglés B2"
 description: >-
-  Aprende wish e if only en ingles B2 (presente, pasado y wish + would) con vocabulario de feelings and emotions, reading, dialogo y audios. Incluye tambien los ejercicios de la Unidad 6 con soluciones comentadas sobre wish + past simple / were / could / would, if only + past perfect y feelings & emotions.
+  Aprende wish e if only en ingles B2 (presente, pasado y wish + would) con vocabulario de feelings and emotions, reading, dialogo y audios.
 readTime: 45 min
 keywords:
   - Ejercicios de Wish e If Only en Inglés B2

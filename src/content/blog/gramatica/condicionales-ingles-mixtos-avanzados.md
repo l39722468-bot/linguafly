@@ -1,9 +1,7 @@
 ---
 title: 'Mixed Conditionals en Inglés: Guía y Ejemplos'
 description: >-
-  Domina los Mixed Conditionals en inglés. Guía completa con ejemplos, ejercicios
-  y diferencias entre Tipo A y Tipo B. Imprescindible para Cambridge C1 Advanced
-  y C2 Proficiency.
+  Domina los Mixed Conditionals en inglés. Guía completa con ejemplos, ejercicios y diferencias entre Tipo A y Tipo B. Imprescindible para Cambridge C1...
 readTime: 5 min
 excerpt: >-
   Los condicionales mixtos son la cima de la gramática condicional en inglés.

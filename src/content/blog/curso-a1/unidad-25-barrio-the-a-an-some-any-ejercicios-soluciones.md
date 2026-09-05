@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de The, A/An y Some/Any en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 25 del curso A1: the vs a/an,
-  some/any, park, supermarket, cinema, library, pharmacy, reading, listening y
-  writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 25 del curso A1: the vs a/an, some/any, park, supermarket, cinema, library, pharmacy, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de The, A/An y Some/Any en Inglés A1

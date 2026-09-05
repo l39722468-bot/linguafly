@@ -4,7 +4,7 @@ date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Word stress en inglés: la regla del acento tónico que nadie te enseña y que cambia todo. Aprende a identificar la sílaba correcta para que los nativos te entiendan sin esfuerzo.
+  Word stress en inglés: la regla del acento tónico que nadie te enseña y que cambia todo. Aprende a identificar la sílaba correcta para que los nativos te...
 excerpt: >-
   En inglés, poner el acento en la sílaba incorrecta puede hacer que los nativos no te entiendan aunque la palabra sea correcta. El word stress no es un detalle de pronunciación avanzada: es la base de todo lo demás.
 category: gramatica

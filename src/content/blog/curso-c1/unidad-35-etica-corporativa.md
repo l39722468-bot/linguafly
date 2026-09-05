@@ -5,7 +5,7 @@ updatedDate: '2026-09-10'
 author: linguafly-team
 title: "Ejercicios de Responsabilidad y Ética Corporativa C1"
 description: >-
-  Aprenda a argumentar sobre ética corporativa en inglés C1 con estructuras de responsabilidad (be accountable for, be liable for, be responsible for, ought to, have a duty to), registro ético-formal, vocabulario de stakeholders y CSR y ejercicios resueltos.
+  Aprenda a argumentar sobre ética corporativa en inglés C1 con estructuras de responsabilidad (be accountable for, be liable for, be responsible for, ought...
 readTime: 40 min
 keywords:
   - Ejercicios de Responsabilidad y Ética Corporativa C1

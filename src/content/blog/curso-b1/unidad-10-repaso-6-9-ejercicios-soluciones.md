@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Gramática B1: Unidades 6 a 9'
 description: >-
-  Practica todos los ejercicios de la Unidad 10 del curso B1: futuros, was/were going to, modales, used to;
-  travel, plans, feelings, habits (mix), reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 10 del curso B1: futuros, was/were going to, modales, used to; travel, plans, feelings, habits (mix), reading,...
 readTime: 25 min
 keywords:
   - Repaso de Gramática B1: Unidades 6 a 9

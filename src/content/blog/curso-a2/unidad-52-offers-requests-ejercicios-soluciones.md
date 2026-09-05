@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Ofertas y Peticiones en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 52 del curso A2: Can I…?, Could you…?, Would you like me to…?, Shall I…?,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 52 del curso A2: Can I…? , Could you…? , Would you like me to…? , Shall I…? , reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Ofertas y Peticiones en Inglés A2

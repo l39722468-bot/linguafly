@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso de Phrasal Verbs y Collocations B2"
 description: >-
-  Repasa GET/GIVE/GO, LOOK/MAKE/PUT y collocations verbo+sustantivo y adjetivo+sustantivo de B2 con ejercicios, reading, audio y soluciones completas en la Unidad 30 del curso B2.
+  Repasa GET/GIVE/GO, LOOK/MAKE/PUT y collocations verbo+sustantivo y adjetivo+sustantivo de B2 con ejercicios, reading, audio y soluciones completas en la...
 readTime: 60 min
 keywords:
   - Repaso de Phrasal Verbs y Collocations B2

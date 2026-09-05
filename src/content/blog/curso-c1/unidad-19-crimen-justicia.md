@@ -5,7 +5,7 @@ updatedDate: '2026-09-05'
 author: linguafly-team
 title: "Ejercicios de Distancing y Modales de Deducción C1"
 description: >-
-  Aprende el distancing (allegedly, reportedly, it is claimed that, seem/appear to) y los modales de deducción en pasado (must/might/can't have + pp) en inglés C1. Crimen, justicia, vocabulario legal y ejercicios resueltos.
+  Aprende el distancing (allegedly, reportedly, it is claimed that, seem/appear to) y los modales de deducción en pasado (must/might/can't have + pp) en...
 readTime: 40 min
 keywords:
   - Ejercicios de Distancing y Modales de Deducción C1

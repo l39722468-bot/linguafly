@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Nivel C2 de Inglés: Qué Es y Cómo Alcanzarlo'
 description: >-
-  El C2 (Proficiency) es la cumbre del MCER. Te explicamos qué lo diferencia
-  del C1, cuántas horas necesitas (200-300h), qué mide el CPE de Cambridge
-  (255€, sin caducidad) y en qué casos realmente merece la pena intentarlo.
+  El C2 (Proficiency) es la cumbre del MCER. Te explicamos qué lo diferencia del C1, cuántas horas necesitas (200-300h), qué mide el CPE de Cambridge (255€,...
 readTime: 9 min
 keywords:
   - 'Nivel C2 de Inglés: Qué Es y Cómo Alcanzarlo'

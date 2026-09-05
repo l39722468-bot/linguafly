@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Condicionales B1: Unidades 11 a 14'
 description: >-
-  Practica todos los ejercicios de la Unidad 15 del curso B1: first, second y third conditional + time clauses;
-  weather, entertainment, regrets (mix), reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 15 del curso B1: first, second y third conditional + time clauses; weather, entertainment, regrets (mix),...
 readTime: 25 min
 keywords:
   - Repaso de Condicionales B1: Unidades 11 a 14

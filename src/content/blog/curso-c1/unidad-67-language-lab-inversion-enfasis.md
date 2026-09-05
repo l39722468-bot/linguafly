@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Inversión y Énfasis en Inglés C1"
 description: >-
-  Domina la inversión y el énfasis en inglés C1: inversión con adverbios negativos y restrictivos, fronting temático, inversión con so y neither, y las estructuras que reorganizan la sintaxis para poner en primer plano el elemento más saliente del mensaje.
+  Domina la inversión y el énfasis en inglés C1: inversión con adverbios negativos y restrictivos, fronting temático, inversión con so y neither, y las...
 readTime: 40 min
 keywords: ["Ejercicios de Inversión y Énfasis en Inglés C1", "ejercicios inglés C1 gratis", "inversión inglés C1", "fronting temático inglés", "negative adverbial inversion", "so do I neither do I", "énfasis sintáctico inglés avanzado", "inversión con adverbios negativos ejercicios", "never rarely hardly inversión inglés", "so do I neither do I ejemplos", "fronting temático y énfasis C1", "inversión sintáctica registro formal"]
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-67-language-lab-inversion-enfasis'

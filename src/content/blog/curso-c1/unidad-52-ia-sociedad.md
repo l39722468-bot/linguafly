@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Inteligencia Artificial y Sociedad C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a hablar de la inteligencia artificial y sus implicaciones
-  sociales con hedging fuerte, a matizar afirmaciones sobre el impacto de la IA y a debatir sus consecuencias con
-  la cautela epistémica que exige el tema. Con teoría detallada y 19 ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis aprendes a hablar de la inteligencia artificial y sus implicaciones sociales con hedging fuerte, a matizar...
 readTime: 40 min
 keywords:
   [

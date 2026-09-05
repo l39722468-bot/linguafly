@@ -5,9 +5,7 @@ updatedDate: '2026-08-04'
 author: linguafly-team
 title: 'Repaso Módulo 3 (A1): casa, barrio, direcciones, cuerpo y ropa'
 description: >-
-  Repasa el Módulo 3 del curso A1: There is/are, preposiciones, barrio,
-  imperativos, animales, have got y Present Continuous. Guía Unidad 30 con
-  checklist, audios y ejercicios.
+  Repasa el Módulo 3 del curso A1: There is/are, preposiciones, barrio, imperativos, animales, have got y Present Continuous.
 readTime: 16 min
 keywords:
   - module 3 review A1

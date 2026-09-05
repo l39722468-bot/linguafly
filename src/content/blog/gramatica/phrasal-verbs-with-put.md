@@ -1,9 +1,7 @@
 ---
 title: 'Phrasal Verbs con PUT: Lista Completa y Ejemplos'
 description: >-
-  Domina todos los phrasal verbs con PUT en inglés. Guía completa con más de
-  30 combinaciones esenciales: put off, put up, put on, put down y muchos más
-  con ejemplos y explicaciones claras.
+  Domina todos los phrasal verbs con PUT en inglés. Guía completa con más de 30 combinaciones esenciales: put off, put up, put on, put down y muchos más con...
 readTime: 8 min
 excerpt: >-
   PUT es uno de los verbos más complejos en phrasal verbs. Aprende put off,

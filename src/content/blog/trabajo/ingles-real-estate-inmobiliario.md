@@ -24,7 +24,7 @@ faqs:
       "Mortgage" es la hipoteca (el préstamo para comprar una propiedad). El banco que lo concede es el "lender" o "mortgage provider". Pagas una "monthly mortgage payment" o "mortgage repayment". La parte que pagas al principio se llama "deposit" o "down payment". El tipo de interés puede ser "fixed rate" (fijo) o "variable rate" (variable). "Equity" es la parte del valor que ya posees (valor de la propiedad menos deuda pendiente).
 canonical: 'https://linguafly.app/blog/trabajo/ingles-real-estate-inmobiliario'
 description: >
-  Inglés profesional para el sector inmobiliario: vocabulario de compraventa, alquiler, contratos y negociación de propiedades. Ideal para agentes que trabajan con clientes internacionales.
+  Inglés para real estate: vocabulario de compraventa, alquiler, contratos y negociación de propiedades para agentes y clientes internacionales.
 ---
 
 ## Inglés para Real Estate: El Vocabulario Profesional del Sector Inmobiliario

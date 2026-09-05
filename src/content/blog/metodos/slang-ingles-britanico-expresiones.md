@@ -1,9 +1,7 @@
 ---
 title: 'Slang Inglés Británico: 60 Expresiones y Significados'
 description: >-
-  Guía completa de slang inglés británico. Aprende las expresiones más usadas en
-  el Reino Unido, desde el cockney londinense hasta el inglés informal del norte
-  de Inglaterra.
+  Guía completa de slang inglés británico. Aprende las expresiones más usadas en el Reino Unido, desde el cockney londinense hasta el inglés informal del...
 readTime: 4 min
 excerpt: >-
   El inglés que aprendes en los libros y el inglés que hablan en Londres, Manchester

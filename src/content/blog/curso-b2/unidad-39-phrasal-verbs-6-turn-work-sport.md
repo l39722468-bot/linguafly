@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Phrasal Verbs TURN y WORK B2"
 description: >-
-  Domina turn up/down/out/into y work out/on/through en inglés B2 con Sport extended: teoría, varios significados, audio, ejemplos y ejercicios de gramática, vocabulario, reading, listening, writing y speaking con soluciones.
+  Domina turn up/down/out/into y work out/on/through en inglés B2 con Sport extended: teoría, varios significados, audio, ejemplos y ejercicios de gramática,...
 readTime: 61 min
 keywords:
   - Ejercicios de Phrasal Verbs TURN y WORK B2

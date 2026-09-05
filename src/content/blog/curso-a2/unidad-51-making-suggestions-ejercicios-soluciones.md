@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios para Hacer Sugerencias en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 51 del curso A2: Shall we…?, Let's…, Why don't we…?, How about…?, Would you like to…?,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 51 del curso A2: Shall we…? , Let's…, Why don't we…? , How about…? , Would you like to…?
 readTime: 25 min
 keywords:
   - Ejercicios para Hacer Sugerencias en Inglés A2

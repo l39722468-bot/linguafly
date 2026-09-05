@@ -37,7 +37,7 @@ faqs:
       TOFU (Top of Funnel), MOFU (Middle of Funnel) y BOFU (Bottom of Funnel).
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-marketing'
 description: >
-  Vocabulario, términos y frases esenciales del inglés para marketing en 2026. SEO, copywriting, social media, briefings y presentaciones de campaña en entornos profesionales internacionales.
+  Inglés para marketing en 2026: vocabulario de SEO, copywriting, social media, briefings y presentaciones para equipos profesionales internacionales.
 ---
 
 ## Inglés para Marketing: El Idioma del Marketing Digital Global
@@ -242,7 +242,36 @@ El vocabulario es el primer paso. Para comunicarte con confianza en reuniones, p
 
 Para ampliar tu vocabulario profesional en inglés, consulta [Vocabulario de Negocios en Inglés](/blog/trabajo/vocabulario-negocios-ingles-profesional). Y para el marco completo del inglés laboral, visita [Inglés para el Trabajo](/blog/trabajo/ingles-para-trabajo).
 
+## Cómo presentar una campaña en inglés
+
+Una presentación de marketing funciona mejor cuando sigue una historia sencilla:
+contexto, objetivo, audiencia, propuesta, canales, presupuesto y resultado
+esperado. Abre con una frase que sitúe el problema: “Our awareness campaign
+reached the audience, but consideration remained below benchmark”. Después
+explica la hipótesis y relaciona cada acción con una métrica.
+
+Distingue con precisión entre objetivos y resultados. “We aim to increase
+qualified leads” describe una meta; “Qualified leads increased by 18%” describe
+un dato observado. Si aún no tienes resultados, utiliza “we expect”, “the
+forecast suggests” o “the early signal indicates”. Reconoce las limitaciones
+de la muestra y explica qué experimento harás después.
+
+En una reunión puedes pedir la decisión que necesitas con “I recommend
+allocating more budget to search because ROAS is stronger there”. Si alguien
+discrepa, responde “That is a fair concern. Could we test both audiences for
+two weeks and compare conversion quality?”. Así mantienes el debate basado en
+evidencia y cierras con responsables, fechas y próximos pasos.
+
 ## Fuentes
+
+### Glosario para colaborar con otros equipos
+
+Aprende a distinguir *stakeholder* (parte interesada), *brief* (documento que
+define el encargo), *deliverable* (entregable), *deadline* (fecha límite),
+*insight* (hallazgo útil), *benchmark* (referencia comparativa) y *approval*
+(aprobación). En una reunión, “Could you sign off on the final copy by
+Thursday?” pide una aprobación concreta, mientras que “Let’s align on the
+scope” propone aclarar el alcance antes de empezar.
 
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages
 - Cambridge Dictionary: https://dictionary.cambridge.org/

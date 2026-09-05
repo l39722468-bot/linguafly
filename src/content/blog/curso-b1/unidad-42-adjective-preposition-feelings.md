@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Adjective + Preposition B1 & Feelings & Attitudes'
 description: >-
-  Domina el adjective + preposition en inglés B1: interested in, afraid of, good at, proud of, worried about,
-  married to y más colocaciones de feelings & attitudes. Guía completa de la Unidad 42 con explicaciones,
-  tablas, audios, errores típicos, reading, diálogo y ejercicios resueltos con soluciones.
+  Domina el adjective + preposition en inglés B1: interested in, afraid of, good at, proud of, worried about, married to y más colocaciones de feelings &...
 readTime: 15 min
 keywords:
   - adjective preposition B1

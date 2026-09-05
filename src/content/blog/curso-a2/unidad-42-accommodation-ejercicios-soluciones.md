@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Hoteles y Alojamiento en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 42 del curso A2: book, check in/out,
-  single/double room, WiFi, breakfast included, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 42 del curso A2: book, check in/out, single/double room, WiFi, breakfast included, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Hoteles y Alojamiento en Inglés A2

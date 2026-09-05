@@ -5,7 +5,7 @@ updatedDate: '2026-09-09'
 author: linguafly-team
 title: "Ejercicios de Construcciones Absolutas y Participle Clauses C1"
 description: >-
-  Aprende las construcciones absolutas (nominative absolute, weather permitting, with + noun + participle) y las cláusulas de participio (Having + pp, -ing/-ed) en inglés C1. Desastres naturales, riesgo, vocabulario y ejercicios resueltos.
+  Aprende las construcciones absolutas (nominative absolute, weather permitting, with + noun + participle) y las cláusulas de participio (Having + pp,...
 readTime: 40 min
 keywords:
   - Ejercicios de Construcciones Absolutas y Participle Clauses C1

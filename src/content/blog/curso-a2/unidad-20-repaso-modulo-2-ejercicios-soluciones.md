@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Inglés A2: Módulo 2 con Ejercicios'
 description: >-
-  Practica todos los ejercicios de la Unidad 20 del curso A2: Present Perfect + Past Continuous + How questions (Module 2 mix),
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 20 del curso A2: Present Perfect + Past Continuous + How questions (Module 2 mix), reading, listening y writing.
 readTime: 25 min
 keywords:
   - Repaso de Inglés A2: Módulo 2 con Ejercicios

@@ -4,7 +4,7 @@ date: '2026-02-22'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Present Perfect Continuous en inglés: cuándo usarlo y en qué se diferencia del Present Perfect Simple. Guía con ejemplos claros, errores frecuentes y ejercicios resueltos.
+  Present Perfect Continuous en inglés: cuándo usarlo y en qué se diferencia del Present Perfect Simple. Guía con ejemplos claros, errores frecuentes y...
 category: gramatica
 alt: Persona estudiando la diferencia entre present perfect simple y continuous
 readTime: 6 min

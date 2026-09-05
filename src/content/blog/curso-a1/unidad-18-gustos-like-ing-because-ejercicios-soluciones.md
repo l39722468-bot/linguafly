@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Gustos y Aficiones en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 18 del curso A1: like/don't like +
-  -ing, Why? Because…, hobbies, música y películas, reading de Nina, listening
-  y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 18 del curso A1: like/don't like + -ing, Why? Because…, hobbies, música y películas, reading de Nina, listening y...
 readTime: 25 min
 keywords:
   - Ejercicios de Gustos y Aficiones en Inglés A1

@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Would Rather y Preferencias en Inglés B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 47 del curso B1: would rather / would sooner + preferences;
-  preferences, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 47 del curso B1: would rather / would sooner + preferences; preferences, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Would Rather y Preferencias en Inglés B1

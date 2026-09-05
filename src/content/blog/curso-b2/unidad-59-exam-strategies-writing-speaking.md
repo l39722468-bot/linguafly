@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Estrategias y Ejercicios de Writing y Speaking B2"
 description: >-
-  Guía completa de la Unidad 59 del curso B2: estrategias y técnicas para el Writing y Speaking del examen Cambridge B2 First, incluyendo essays, reviews, formal letters, informales y presentaciones con ejercicios y soluciones.
+  Guía completa de la Unidad 59 del curso B2: estrategias y técnicas para el Writing y Speaking del examen Cambridge B2 First, incluyendo essays, reviews,...
 readTime: 45 min
 keywords:
   - Estrategias y Ejercicios de Writing y Speaking B2

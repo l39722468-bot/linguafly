@@ -4,9 +4,7 @@ date: '2026-03-03'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Todo lo que necesitas saber sobre el Aptis Advanced del British Council para
-  obtener tu certificado C1. Diferencias con el General, estructura, estrategias
-  y plan de preparación actualizado para 2026.
+  Todo lo que necesitas saber sobre el Aptis Advanced del British Council para obtener tu certificado C1. Diferencias con el General, estructura, estrategias...
 category: examenes
 alt: Candidato preparando el examen Aptis Advanced C1 del British Council en 2026
 canonical: >-

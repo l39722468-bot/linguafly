@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Cleft Sentences en Inglés B2"
 description: >-
-  Guía completa de la Unidad 47 B2: teoría y ejercicios sobre it-clefts y what-clefts con estructura de informes, vocabulario de
-  Academic Writing & Reports, reading, listening, writing, speaking y soluciones.
+  Guía completa de la Unidad 47 B2: teoría y ejercicios sobre it-clefts y what-clefts con estructura de informes, vocabulario de Academic Writing & Reports,...
 readTime: 62 min
 keywords:
   - Ejercicios de Cleft Sentences en Inglés B2

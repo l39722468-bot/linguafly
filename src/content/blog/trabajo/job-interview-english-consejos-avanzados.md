@@ -4,9 +4,7 @@ date: '2026-02-25'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Lleva tus entrevistas en inglés al siguiente nivel con técnicas avanzadas de
-  comunicación. Storytelling profesional, manejo de silencios, lenguaje corporal
-  y estrategias de negociación para candidatos B2-C1.
+  Lleva tus entrevistas en inglés al siguiente nivel con técnicas avanzadas de comunicación. Storytelling profesional, manejo de silencios, lenguaje corporal...
 category: trabajo
 alt: Profesional senior en una entrevista de trabajo internacional hablando en inglés
 canonical: >-

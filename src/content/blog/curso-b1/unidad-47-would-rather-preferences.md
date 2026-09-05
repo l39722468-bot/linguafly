@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Would Rather & Would Sooner B1 + Preferences'
 description: >-
-  Domina would rather y would sooner en inglés B1: preferencia con infinitivo sin to, would rather A than B y
-  would rather (that) + past para preferir el comportamiento de otra persona, con vocabulario de preferences.
-  Guía completa de la Unidad 47 con explicaciones, tablas, audios, errores típicos, reading, diálogo y ejercicios.
+  Domina would rather y would sooner en inglés B1: preferencia con infinitivo sin to, would rather A than B y would rather (that) + past para preferir el...
 readTime: 15 min
 keywords:
   - would rather B1

@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Repaso B1 Unidades 36–39: So/Such, Compounds, Contrast, Purpose'
 description: >-
-  Repaso integrado B1 de las Unidades 36 a 39: so/such/so much/so many, adjetivos compuestos, contraste
-  (although/despite/whereas) y propósito/causa (to/so that/because of), con un diagnóstico para elegir la
-  estructura correcta. Guía completa con explicaciones, tablas, audios, reading, diálogo y ejercicios.
+  Repaso integrado B1 de las Unidades 36 a 39: so/such/so much/so many, adjetivos compuestos, contraste (although/despite/whereas) y propósito/causa (to/so...
 readTime: 18 min
 keywords:
   - repaso B1 36-39

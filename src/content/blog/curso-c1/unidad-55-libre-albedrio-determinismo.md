@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Libre Albedrío y Determinismo C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a manejar el lenguaje abstracto del debate sobre el libre
-  albedrío y el determinismo, a usar conectores lógicos con precisión y a argumentar sobre filosofía de la acción
-  con el rigor que exige el nivel C1. Con teoría detallada y 19 ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis aprendes a manejar el lenguaje abstracto del debate sobre el libre albedrío y el determinismo, a usar...
 readTime: 40 min
 keywords:
   [

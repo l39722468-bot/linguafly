@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Inglés A2: Módulo 4 con Ejercicios'
 description: >-
-  Practica todos los ejercicios de la Unidad 40 del curso A2: repaso Módulo 4 (phrasal verbs, gerundios, artículos, would like, should, adverbials),
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 40 del curso A2: repaso Módulo 4 (phrasal verbs, gerundios, artículos, would like, should, adverbials), reading,...
 readTime: 25 min
 keywords:
   - Repaso de Inglés A2: Módulo 4 con Ejercicios

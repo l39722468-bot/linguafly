@@ -4,9 +4,8 @@ author: linguafly-team
 canonical: https://linguafly.app/blog/curso-b1/unidad-2-present-perfect-continuous-ejercicios-soluciones
 category: curso-b1
 date: '2026-08-25'
-description: 'Practica todos los ejercicios de la Unidad 2 del curso B1: Present Perfect
-  Continuous: have/has been + -ing, for/since, reading, listening y writing. Con soluciones
-  comentadas.'
+description: >-
+  Practica todos los ejercicios de la Unidad 2 del curso B1: Present... Continuous: have/has been + -ing, for/since, reading, listening y writing.
 excerpt: Cuaderno de ejercicios de la Unidad 2 B1 (Present Perfect Continuous) con
   soluciones.
 faqs:

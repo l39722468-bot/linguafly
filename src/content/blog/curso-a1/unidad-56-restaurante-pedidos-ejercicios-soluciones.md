@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios para Pedir en un Restaurante en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 56 del curso A1: I would like, Can
-  I have, menu, starter, main course, dessert, bill, reading, listening y
-  writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 56 del curso A1: I would like, Can I have, menu, starter, main course, dessert, bill, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios para Pedir en un Restaurante en Inglés A1

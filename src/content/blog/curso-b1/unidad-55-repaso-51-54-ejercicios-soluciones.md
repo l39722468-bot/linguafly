@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Condicionales, Pasiva y Tiempos B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 55 del curso B1: conditionals, passive/reported, modals, tenses (mix U51–54);
-  mixed topics (mix), reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 55 del curso B1: conditionals, passive/reported, modals, tenses (mix U51–54); mixed topics (mix), reading,...
 readTime: 25 min
 keywords:
   - Repaso de Condicionales, Pasiva y Tiempos B1

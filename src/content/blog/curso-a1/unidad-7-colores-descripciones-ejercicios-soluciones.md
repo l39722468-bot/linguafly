@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Colores y Descripciones Físicas A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 7 del curso A1: colores, adjetivos
-  físicos, have/has got, reading de una amiga, listening de Lisa y Tom, y writing.
-  Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 7 del curso A1: colores, adjetivos físicos, have/has got, reading de una amiga, listening de Lisa y Tom, y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Colores y Descripciones Físicas A1

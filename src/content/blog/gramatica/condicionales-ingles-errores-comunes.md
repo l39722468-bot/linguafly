@@ -1,9 +1,7 @@
 ---
 title: 'Errores Comunes con los Condicionales en Inglés'
 description: >-
-  Los 10 errores más frecuentes con los condicionales en inglés que cometen
-  los hispanohablantes, con explicaciones claras y las correcciones que
-  necesitas para hablar y escribir con precisión.
+  Los 10 errores más frecuentes con los condicionales en inglés que cometen los hispanohablantes, con explicaciones claras y las correcciones que necesitas...
 readTime: 5 min
 excerpt: >-
   ¿Pones "will" después de "if"? ¿Confundes "would have" con "would of"?

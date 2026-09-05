@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Inglés A1: Módulo 2 con Ejercicios'
 description: >-
-  Practica todos los ejercicios de la Unidad 20 del curso A1: repaso Present
-  Simple, hora, días, cafetería, comidas, like + -ing y fechas. Reading de Sam,
-  listening con Maya y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 20 del curso A1: repaso Present Simple, hora, días, cafetería, comidas, like + -ing y fechas.
 readTime: 25 min
 keywords:
   - Repaso de Inglés A1: Módulo 2 con Ejercicios

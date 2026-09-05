@@ -1,9 +1,7 @@
 ---
 title: 'Las Mejores Apps de Inglés para el Trabajo y Business English'
 description: >-
-  Si necesitas el inglés para tu carrera profesional, no todas las apps valen.
-  Analizamos las mejores opciones para dominar el Business English: reuniones,
-  emails, presentaciones y escalar en tu empresa.
+  Si necesitas el inglés para tu carrera profesional, no todas las apps valen. Analizamos las mejores opciones para dominar el Business English: reuniones,...
 readTime: 5 min
 excerpt: >-
   Descubre las mejores apps de inglés profesional para el entorno laboral.

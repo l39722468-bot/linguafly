@@ -4,9 +4,7 @@ date: '2026-02-06'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aptis A2: todo lo que necesitas saber en 2026. Estructura de las 4 partes,
-  puntuación mínima para aprobar, precio actualizado y plan de preparación
-  de 4-6 semanas. Guía práctica para hispanohablantes.
+  Aptis A2: todo lo que necesitas saber en 2026. Estructura de las 4 partes, puntuación mínima para aprobar, precio actualizado y plan de preparación de 4-6...
 excerpt: >-
   El Aptis A2 tiene 4 partes (Listening, Reading, Speaking, Writing) y se puede
   aprobar con preparación específica de 4-6 semanas. Aquí tienes la estructura

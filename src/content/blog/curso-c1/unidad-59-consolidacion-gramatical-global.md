@@ -5,10 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso Global y Ejercicios de Gramática Inglesa C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis consolidas de manera sistémica toda la gramática del nivel C1:
-  los tiempos narrativos, las oraciones condicionales mixtas, la inversión emphática, las cláusulas concesivas
-  y los patrones de subordinación compleja. Un repaso global que integra los contenidos del curso con la
-  precisión que exige el nivel C1. Con teoría detallada y 19 ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis consolidas de manera sistémica toda la gramática del nivel C1: los tiempos narrativos, las oraciones...
 readTime: 40 min
 keywords:
   [

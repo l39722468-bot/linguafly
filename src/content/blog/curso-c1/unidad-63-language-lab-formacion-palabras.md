@@ -5,10 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Formación de Palabras en Inglés C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis del Language Lab aprendes a formar palabras con precisión
-  nominal: afijos, sufijos nominalizadores, prefijos negativos y conversión de categoría, para dominar la
-  word formation que el nivel C1 exige en escritura académica y en exámenes tipo CAE. Con teoría detallada
-  y 19 ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis del Language Lab aprendes a formar palabras con precisión nominal: afijos, sufijos nominalizadores, prefijos...
 readTime: 40 min
 keywords:
   [

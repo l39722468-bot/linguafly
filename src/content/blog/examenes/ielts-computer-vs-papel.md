@@ -1,10 +1,11 @@
 ---
-title: 'IELTS por Ordenador o en Papel: ¿Cuál Elegir?'
+title: 'IELTS en Ordenador o Papel: Diferencias y Elección'
 date: '2026-03-01'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Comparativa completa entre el IELTS Computer-Delivered y el IELTS en papel: diferencias en cada sección, ventajas e inconvenientes de cada formato, y cuál conviene según tu perfil.
+  Compara el IELTS en ordenador y papel: diferencias por sección, ventajas,
+  inconvenientes y consejos para elegir el formato que más te conviene.
 category: examenes
 alt: Ordenador portátil y cuaderno sobre una mesa, representando los dos formatos del IELTS
 readTime: 6 min

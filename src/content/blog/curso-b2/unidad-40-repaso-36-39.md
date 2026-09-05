@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso de Used To, Auxiliares y Phrasal Verbs B2"
 description: >-
-  Repasa used to/would, auxiliares y phrasal verbs RUN, SET, TAKE, TURN y WORK en inglés B2 con vocabulario Culture, Business, Leisure y Sport: teoría, audio y ejercicios integrados con soluciones.
+  Repasa used to/would, auxiliares y phrasal verbs RUN, SET, TAKE, TURN y WORK en inglés B2 con vocabulario Culture, Business, Leisure y Sport: teoría, audio...
 readTime: 63 min
 keywords:
   - Repaso de Used To, Auxiliares y Phrasal Verbs B2

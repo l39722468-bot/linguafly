@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Cocina y Recetas en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 57 del curso A1: First, Then,
-  Finally, cut, mix, fry, boil, bake, recipe, pan, pot, oven, reading, listening
-  y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 57 del curso A1: First, Then, Finally, cut, mix, fry, boil, bake, recipe, pan, pot, oven, reading, listening y...
 readTime: 25 min
 keywords:
   - Ejercicios de Cocina y Recetas en Inglés A1

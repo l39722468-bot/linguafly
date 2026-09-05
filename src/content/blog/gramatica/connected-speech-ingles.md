@@ -1,9 +1,7 @@
 ---
 title: 'Connected Speech en Inglés: Por Qué No Entiendes'
 description: >-
-  Descubre qué es el connected speech en inglés y por qué los hablantes nativos
-  suenan tan distintos a como se escribe. Linking, elision, assimilation y más,
-  con ejemplos reales.
+  Descubre qué es el connected speech en inglés y por qué los hablantes nativos suenan tan distintos a como se escribe. Linking, elision, assimilation y más,...
 readTime: 7 min
 excerpt: >-
   Si alguna vez has escuchado a un nativo y pensado "eso no suena nada como lo

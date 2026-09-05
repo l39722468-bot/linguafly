@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Does y Tercera Persona en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 15 del curso A1: doesn't, Does
-  he/she/it…?, ortografía -s/-es/-ies, reading de Tom, listening sobre la
-  hermana de Ben y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 15 del curso A1: doesn't, Does he/she/it…?, ortografía -s/-es/-ies, reading de Tom, listening sobre la hermana de...
 readTime: 25 min
 keywords:
   - Ejercicios de Does y Tercera Persona en Inglés A1

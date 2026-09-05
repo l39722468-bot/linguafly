@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Repaso Unidades 21–24 B1: Gerunds, Infinitives & Phrasals'
 description: >-
-  Repaso integrado B1 de las Unidades 21 a 24: gerund vs infinitive, remember/forget/try y phrasal verbs de
-  vida diaria y compras, con vocabulario mixto y un diagnóstico para elegir la forma correcta. Guía completa
-  con explicaciones, tablas, audios, reading, diálogo y ejercicios resueltos.
+  Repaso integrado B1 de las Unidades 21 a 24: gerund vs infinitive, remember/forget/try y phrasal verbs de vida diaria y compras, con vocabulario mixto y un...
 readTime: 20 min
 keywords:
   - repaso gerund infinitive B1

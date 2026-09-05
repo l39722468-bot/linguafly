@@ -4,7 +4,9 @@ author: linguafly-team
 canonical: https://linguafly.app/blog/curso-b1/unidad-5-repaso-1-4-ejercicios-soluciones
 category: curso-b1
 date: '2026-08-25'
-description: 'Practica todos los ejercicios de la Unidad 5 del curso B1: Repaso U1–U4:
+description: >-
+  Practica todos los ejercicios de la Unidad 5 del curso B1: Repaso...
+
   PPC, Past Perfect, Past vs Present Perfect, reading, listening y writing. Con soluciones
   comentadas.'
 excerpt: Cuaderno de ejercicios de la Unidad 5 B1 (Repaso 1–4) con soluciones.

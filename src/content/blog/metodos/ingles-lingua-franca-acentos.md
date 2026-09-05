@@ -1,9 +1,7 @@
 ---
 title: 'Inglés como Lingua Franca: Guía y Acentos'
 description: >-
-  Qué es el English as a Lingua Franca (ELF), cómo suena cuando dos no nativos
-  se hablan en inglés, por qué los acentos nativos no son el estándar ideal y
-  qué significa esto para quien aprende inglés hoy.
+  Qué es el English as a Lingua Franca (ELF), cómo suena cuando dos no nativos se hablan en inglés, por qué los acentos nativos no son el estándar ideal y qué...
 readTime: 9 min
 excerpt: >-
   La mayoría de las conversaciones en inglés en el mundo ocurren entre personas

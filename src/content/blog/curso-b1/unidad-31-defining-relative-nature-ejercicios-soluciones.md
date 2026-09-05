@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Oraciones de Relativo Definidas B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 31 del curso B1: defining relative clauses (who/which/that);
-  the natural world, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 31 del curso B1: defining relative clauses (who/which/that); the natural world, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Oraciones de Relativo Definidas B1

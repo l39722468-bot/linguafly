@@ -1,9 +1,7 @@
 ---
 title: 'Técnica STAR en Entrevistas en Inglés: Ejemplos y Frases'
 description: >-
-  Aprende a usar la técnica STAR en entrevistas de trabajo en inglés. Ejemplos
-  reales para responder preguntas de comportamiento como "Tell me about a time
-  when..." con estructura, impacto y vocabulario profesional.
+  Aprende a usar la técnica STAR en entrevistas de trabajo en inglés. Ejemplos reales para responder preguntas de comportamiento como "Tell me about a time...
 readTime: 6 min
 excerpt: >-
   Las preguntas de comportamiento son las que más diferencian a los candidatos

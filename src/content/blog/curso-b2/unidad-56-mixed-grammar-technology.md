@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Gramática Mixta sobre Tecnología B2"
 description: >-
-  Guía completa de la Unidad 56 del curso B2: práctica integrada de gramática B2 (conditionals, passive, modals, reported speech, linkers, inversion) en el contexto de tecnología, inteligencia artificial e innovación digital. Incluye ejercicios con soluciones.
+  Guía completa de la Unidad 56 del curso B2: práctica integrada de gramática B2 (conditionals, passive, modals, reported speech, linkers, inversion) en el...
 readTime: 45 min
 keywords:
   - Ejercicios de Gramática Mixta sobre Tecnología B2

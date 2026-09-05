@@ -1,9 +1,7 @@
 ---
 title: 'Reducción Vocálica en Inglés: Schwa y Ejemplos'
 description: >-
-  Descubre cómo funciona la reducción vocálica en inglés y por qué las vocales
-  no acentuadas se convierten en schwa /ə/. Con ejemplos, tablas y consejos
-  prácticos para mejorar tu pronunciación y comprensión auditiva.
+  Descubre cómo funciona la reducción vocálica en inglés y por qué las vocales no acentuadas se convierten en schwa /ə/. Con ejemplos, tablas y consejos...
 readTime: 7 min
 excerpt: >-
   En inglés, las vocales no acentuadas no se pronuncian como están escritas:

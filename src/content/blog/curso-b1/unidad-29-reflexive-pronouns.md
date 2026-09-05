@@ -5,8 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Reflexive Pronouns B1 + Personal Experiences'
 description: >-
-  Aprende myself, yourself, himself… en inglés B1 con vocabulario de experiencias personales. Guía completa
-  de la Unidad 29 con explicaciones, tablas, audios, errores típicos, reading, diálogo y ejercicios resueltos.
+  Aprende myself, yourself, himself… en inglés B1 con vocabulario de experiencias personales. Guía completa de la Unidad 29 con explicaciones, tablas, audios,...
 readTime: 20 min
 keywords:
   - reflexive pronouns B1

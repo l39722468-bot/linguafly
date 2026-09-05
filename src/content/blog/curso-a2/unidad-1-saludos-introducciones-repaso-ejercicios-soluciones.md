@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Saludos e Introducciones en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 1 del curso A2: to be, Present
-  Simple, hometown, neighbourhood, hobby, favourite, reading, listening y
-  writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 1 del curso A2: to be, Present Simple, hometown, neighbourhood, hobby, favourite, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Saludos e Introducciones en Inglés A2

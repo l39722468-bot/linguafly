@@ -1,9 +1,7 @@
 ---
 title: 'Netiqueta en Emails en Inglés: Guía Profesional'
 description: >-
-  Las reglas no escritas de los emails profesionales en inglés. Qué hacer y
-  qué evitar, cómo no sonar rudo sin querer y los errores de netiqueta que
-  cometen incluso los profesionales con buen nivel de inglés.
+  Las reglas no escritas de los emails profesionales en inglés. Qué hacer y qué evitar, cómo no sonar rudo sin querer y los errores de netiqueta que cometen...
 readTime: 5 min
 excerpt: >-
   Puedes escribir inglés sin errores gramaticales y aun así sonar maleducado

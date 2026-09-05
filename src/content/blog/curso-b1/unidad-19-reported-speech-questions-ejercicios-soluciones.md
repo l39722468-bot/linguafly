@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Preguntas y Órdenes en Estilo Indirecto B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 19 del curso B1: reported questions (asked if/wh-) and commands (told to / not to);
-  language learning, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 19 del curso B1: reported questions (asked if/wh-) and commands (told to / not to); language learning, reading,...
 readTime: 25 min
 keywords:
   - Ejercicios de Preguntas y Órdenes en Estilo Indirecto B1

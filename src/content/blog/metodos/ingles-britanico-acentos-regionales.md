@@ -1,9 +1,7 @@
 ---
 title: 'Acentos Regionales del Inglés Británico: Guía'
 description: >-
-  Guía completa de los acentos regionales del inglés británico: Cockney, Scouse,
-  Geordie, Yorkshire, West Midlands y más. Características fonéticas, vocabulario
-  local y ejemplos para entrenar el oído.
+  Guía completa de los acentos regionales del inglés británico: Cockney, Scouse, Geordie, Yorkshire, West Midlands y más. Características fonéticas,...
 readTime: 9 min
 excerpt: >-
   El Reino Unido tiene la mayor densidad de acentos por kilómetro cuadrado del

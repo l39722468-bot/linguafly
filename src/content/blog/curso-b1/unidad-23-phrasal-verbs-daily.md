@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Phrasal Verbs B1: Daily Activities y Ejercicios'
 description: >-
-  Aprende phrasal verbs B1 (turn on/off, put on, take off, hurry up, calm down, look after) con rutinas
-  diarias. Guía completa de la Unidad 23 con explicaciones, tablas, audios, errores típicos, reading, diálogo
-  y ejercicios resueltos.
+  Aprende phrasal verbs B1 (turn on/off, put on, take off, hurry up, calm down, look after) con rutinas diarias. Guía completa de la Unidad 23 con...
 readTime: 20 min
 keywords:
   - Phrasal Verbs B1: Daily Activities y Ejercicios

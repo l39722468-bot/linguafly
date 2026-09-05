@@ -6,9 +6,7 @@ author: linguafly-team
 category: examenes
 readTime: 11 min
 description: >-
-  Comparativa completa de los principales certificados de inglés en 2026:
-  Cambridge, IELTS, APTIS y EOI. Precio, validez, reconocimiento y cuál
-  conviene según tu objetivo real. Guía para hispanohablantes en España.
+  Comparativa completa de los principales certificados de inglés en 2026: Cambridge, IELTS, APTIS y EOI. Precio, validez, reconocimiento y cuál conviene según...
 excerpt: >-
   ¿Cambridge, IELTS, APTIS o EOI? Cada certificado tiene un perfil distinto.
   Te explicamos cuál elegir según tu objetivo: oposición, trabajo, estudio en

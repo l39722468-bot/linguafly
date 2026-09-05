@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Mixed Grammar Practice B1: Clothes & Colours'
 description: >-
-  Práctica gramatical mixta B1 (passive, would rather, defining relative clauses, comparatives y although)
-  con vocabulario completo de ropa y colores. Guía Unidad 57 con diagnóstico, errores típicos, reading,
-  diálogo y más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
+  Práctica gramatical mixta B1 (passive, would rather, defining relative clauses, comparatives y although) con vocabulario completo de ropa y colores.
 readTime: 19 min
 keywords:
   - mixed grammar B1 clothes

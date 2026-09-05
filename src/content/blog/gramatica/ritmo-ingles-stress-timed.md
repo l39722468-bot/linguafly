@@ -1,9 +1,7 @@
 ---
 title: 'Ritmo del Inglés: Stress-Timed y Pronunciación'
 description: >-
-  El inglés es un idioma stress-timed: su ritmo se organiza de forma radicalmente
-  distinta al español. Entender esto cambia cómo escuchas y cómo hablas. Guía
-  práctica con ejemplos.
+  El inglés es un idioma stress-timed: su ritmo se organiza de forma radicalmente distinta al español. Entender esto cambia cómo escuchas y cómo hablas.
 readTime: 7 min
 excerpt: >-
   El inglés tiene un ritmo que organiza el tiempo alrededor de las sílabas

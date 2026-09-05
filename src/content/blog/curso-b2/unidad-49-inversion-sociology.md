@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Inversión para Dar Énfasis en Inglés B2"
 description: >-
-  Guía completa de la Unidad 49 B2: teoría y ejercicios sobre inversión con Never, Only, Not only, Hardly y No sooner, vocabulario de
-  Sociology & Cultural Shifts, reading, listening, writing, speaking y soluciones.
+  Guía completa de la Unidad 49 B2: teoría y ejercicios sobre inversión con Never, Only, Not only, Hardly y No sooner, vocabulario de Sociology & Cultural...
 readTime: 62 min
 keywords:
   - Ejercicios de Inversión para Dar Énfasis en Inglés B2

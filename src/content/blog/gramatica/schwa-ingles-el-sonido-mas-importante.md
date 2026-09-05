@@ -4,7 +4,7 @@ date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  El schwa /ə/ en inglés: por qué es el sonido más frecuente del idioma y cómo dominarlo mejora tu pronunciación y comprensión oral drásticamente. Guía con ejemplos y ejercicios.
+  El schwa /ə/ en inglés: por qué es el sonido más frecuente del idioma y cómo dominarlo mejora tu pronunciación y comprensión oral drásticamente.
 excerpt: >-
   El schwa /ə/ aparece en casi la mitad de las sílabas del inglés hablado. Si no lo usas, sonarás artificial por mucho vocabulario que tengas. Aquí te explico exactamente cómo producirlo y dónde aplicarlo.
 category: gramatica

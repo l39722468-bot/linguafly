@@ -1,9 +1,7 @@
 ---
 title: 'Diptongos en Inglés: Lista Completa con Ejemplos'
 description: >-
-  Aprende todos los diptongos del inglés con sus símbolos IPA, ejemplos prácticos
-  y comparativas con el español. Incluye los diptongos más comunes y los que
-  más confunden a hispanohablantes.
+  Aprende todos los diptongos del inglés con sus símbolos IPA, ejemplos prácticos y comparativas con el español. Incluye los diptongos más comunes y los que...
 readTime: 8 min
 excerpt: >-
   El inglés tiene ocho diptongos y todos ellos son combinaciones de dos sonidos

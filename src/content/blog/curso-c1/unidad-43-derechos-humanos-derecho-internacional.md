@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Derechos Humanos y Derecho Internacional C1"
 description: >-
-  En la Unidad 43 del curso de inglés C1 gratis aprenderás el registro formal del
-  derecho internacional, los verbos de mandato y obligación jurídica y el léxico
-  de los derechos humanos. Incluye 19 ejercicios inglés C1 gratis con soluciones.
+  En la Unidad 43 del curso de inglés C1 gratis aprenderás el registro formal del derecho internacional, los verbos de mandato y obligación jurídica y el...
 readTime: 40 min
 keywords:
   - Ejercicios de Derechos Humanos y Derecho Internacional C1

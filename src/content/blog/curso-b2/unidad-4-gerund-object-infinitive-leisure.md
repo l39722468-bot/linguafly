@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Verbos con Objeto e Infinitivo B2"
 description: >-
-  Guía completa de la Unidad 4 del curso B2: convince / ask / tell / want + object + to + infinitive; leisure, reading, listening y writing, con ejercicios y soluciones. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 4 del curso B2: convince / ask / tell / want + object + to + infinitive; leisure, reading, listening y writing, con ejercicios y...
 readTime: 45 min
 keywords:
   - Ejercicios de Verbos con Objeto e Infinitivo B2

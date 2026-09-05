@@ -5,9 +5,7 @@ updatedDate: '2026-08-01'
 author: linguafly-team
 title: 'Present Simple en Inglés (A1): Rutinas y Acciones Cotidianas con Ejercicios'
 description: >-
-  Aprende el Present Simple en afirmativa en inglés A1: rutinas diarias, verbos
-  work, study, eat, drink, sleep, play y la regla de la 3.ª persona (-s). Guía
-  Unidad 5 con ejemplos, audios y ejercicios prácticos.
+  Aprende el Present Simple en afirmativa en inglés A1: rutinas diarias, verbos work, study, eat, drink, sleep, play y la regla de la 3. ª persona (-s).
 readTime: 15 min
 keywords:
   - present simple en inglés A1 explicado

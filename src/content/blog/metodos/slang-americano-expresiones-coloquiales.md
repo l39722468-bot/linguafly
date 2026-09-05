@@ -1,9 +1,7 @@
 ---
 title: 'Slang Americano 2026: 70 Expresiones Coloquiales'
 description: >-
-  Guía actualizada de slang americano 2026. Aprende las expresiones coloquiales
-  más usadas en Estados Unidos, desde el habla callejera hasta el lenguaje de
-  Gen Z y las redes sociales.
+  Guía actualizada de slang americano 2026. Aprende las expresiones coloquiales más usadas en Estados Unidos, desde el habla callejera hasta el lenguaje de...
 readTime: 5 min
 excerpt: >-
   El inglés americano que hablan en las calles, películas y redes sociales es

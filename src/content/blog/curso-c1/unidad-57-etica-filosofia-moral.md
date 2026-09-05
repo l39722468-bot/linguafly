@@ -5,10 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Ética y Filosofía Moral en Inglés C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a razonar en inglés sobre dilemas éticos, a construir
-  y refutar contraejemplos morales y a dominar el léxico de la filosofía moral (deontología, consecuencialismo,
-  ética de virtudes) con el rigor argumentativo que exige el nivel C1. Con teoría detallada y 19 ejercicios
-  inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis aprendes a razonar en inglés sobre dilemas éticos, a construir y refutar contraejemplos morales y a dominar el...
 readTime: 40 min
 keywords:
   [

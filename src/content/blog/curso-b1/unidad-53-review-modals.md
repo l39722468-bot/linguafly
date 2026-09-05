@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso B1: Modales, Deducciones y Ejercicios'
 description: >-
-  Repasa a fondo los modales de deducción (must/might/can't), had better, would rather y need/needn't en inglés
-  B1, con diagnóstico, vocabulario mixto, errores típicos, reading, diálogo y más de 8 ejercicios con soluciones.
-  Curso y ejercicios de inglés B1 gratis.
+  Repasa a fondo los modales de deducción (must/might/can't), had better, would rather y need/needn't en inglés B1, con diagnóstico, vocabulario mixto,...
 readTime: 19 min
 keywords:
   - Repaso B1: Modales, Deducciones y Ejercicios

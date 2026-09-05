@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Gramática Mixta sobre Lugares B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 58 del curso B1: passive, would rather, there are, relative where, PP continuous;
-  town & countryside, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 58 del curso B1: passive, would rather, there are, relative where, PP continuous; town & countryside, reading,...
 readTime: 25 min
 keywords:
   - Ejercicios de Gramática Mixta sobre Lugares B1

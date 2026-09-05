@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Comparativos Avanzados en Inglés B2"
 description: >-
-  Aprende comparativos y superlativos avanzados en inglés B2 con vocabulario de literature & books, y practica con ejercicios comentados. Guía completa Unidad 19 con audios.
+  Aprende comparativos y superlativos avanzados en inglés B2 con vocabulario de literature & books, y practica con ejercicios comentados.
 readTime: 40 min
 keywords:
   - Ejercicios de Comparativos Avanzados en Inglés B2

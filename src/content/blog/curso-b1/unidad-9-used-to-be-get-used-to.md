@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: "Used to, be used to, get used to B1: hábitos y adaptación"
 description: >-
-  Diferencia used to, be used to y get used to en inglés B1. Guía completa de la Unidad 9 con explicaciones,
-  audios, reading sobre la vida en un pueblo y en la ciudad, diálogo, errores típicos y ejercicios resueltos,
-  con vocabulario de habits & lifestyle.
+  Diferencia used to, be used to y get used to en inglés B1. Guía completa de la Unidad 9 con explicaciones, audios, reading sobre la vida en un pueblo y en...
 readTime: 16 min
 keywords:
   - used to be used to get used to

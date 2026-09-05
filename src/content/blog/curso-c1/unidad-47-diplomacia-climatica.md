@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Diplomacia Climática en Inglés C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a negociar en contextos climáticos, a manejar condicionales
-  hipotéticas y contrafactuales y a argumentar sobre diplomacia ambiental con precisión retórica. Con teoría detallada y
-  19 ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis aprendes a negociar en contextos climáticos, a manejar condicionales hipotéticas y contrafactuales y a...
 readTime: 40 min
 keywords:
   [

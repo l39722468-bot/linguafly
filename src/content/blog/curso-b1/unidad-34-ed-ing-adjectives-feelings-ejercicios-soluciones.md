@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Adjetivos Terminados en -Ed y -Ing B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 34 del curso B1: -ed/-ing adjectives (bored/boring, excited/exciting);
-  personal feelings, reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 34 del curso B1: -ed/-ing adjectives (bored/boring, excited/exciting); personal feelings, reading, listening y...
 readTime: 25 min
 keywords:
   - Ejercicios de Adjetivos Terminados en -Ed y -Ing B1

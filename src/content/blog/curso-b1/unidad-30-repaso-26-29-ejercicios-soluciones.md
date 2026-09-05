@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Cuantificadores, Artículos y Pronombres B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 30 del curso B1: quantifiers, both/either/neither, articles y reflexives (mix U26–29);
-  food, choices, buildings, experiences (mix), reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 30 del curso B1: quantifiers, both/either/neither, articles y reflexives (mix U26–29); food, choices, buildings,...
 readTime: 25 min
 keywords:
   - Repaso de Cuantificadores, Artículos y Pronombres B1

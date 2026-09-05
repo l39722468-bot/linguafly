@@ -1,9 +1,7 @@
 ---
 title: 'Vocabulario de Redes Sociales en Inglés'
 description: >-
-  Aprende todo el vocabulario inglés de redes sociales y plataformas digitales.
-  Desde los términos básicos de Instagram y TikTok hasta el lenguaje de creadores
-  de contenido y marketing digital.
+  Aprende todo el vocabulario inglés de redes sociales y plataformas digitales. Desde los términos básicos de Instagram y TikTok hasta el lenguaje de...
 readTime: 5 min
 excerpt: >-
   Las redes sociales tienen su propio idioma en inglés. Aprende el vocabulario

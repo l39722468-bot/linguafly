@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Auxiliares para Énfasis en Inglés B2"
 description: >-
-  Domina do, does, did y otros auxiliares para énfasis y respuestas cortas en inglés B2 con Business extended: teoría, audio, ejemplos y ejercicios de gramática, vocabulario, reading, listening, writing y speaking con soluciones.
+  Domina do, does, did y otros auxiliares para énfasis y respuestas cortas en inglés B2 con Business extended: teoría, audio, ejemplos y ejercicios de...
 readTime: 61 min
 keywords:
   - Ejercicios de Auxiliares para Énfasis en Inglés B2

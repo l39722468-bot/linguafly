@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Repaso B1 Unidades 31–34: Relatives, Tags & -ed/-ing'
 description: >-
-  Repaso integrado B1 de las Unidades 31 a 34: defining/non-defining relative clauses, question tags y
-  adjetivos -ed/-ing, con vocabulario mixto y un diagnóstico para elegir la estructura correcta. Guía
-  completa con explicaciones, tablas, audios, reading, diálogo y ejercicios resueltos.
+  Repaso integrado B1 de las Unidades 31 a 34: defining/non-defining relative clauses, question tags y adjetivos -ed/-ing, con vocabulario mixto y un...
 readTime: 18 min
 keywords:
   - repaso B1 31-34

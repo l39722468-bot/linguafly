@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Reported Speech: Guía Completa B2, C1 y C2'
 description: >-
-  Domina el Reported Speech y los Reporting Verbs con nuestra guía completa para
-  niveles B2, C1 y C2. Aprende reglas, estructuras y prepárate para tus exámenes
-  de Cambridge.
+  Domina el Reported Speech y los Reporting Verbs con nuestra guía completa para niveles B2, C1 y C2. Aprende reglas, estructuras y prepárate para tus...
 readTime: 5 min
 keywords:
   - Reported Speech: Guía Completa B2, C1 y C2

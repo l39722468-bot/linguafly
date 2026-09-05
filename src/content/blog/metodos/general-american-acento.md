@@ -1,9 +1,7 @@
 ---
 title: 'General American: Guía del Acento Americano'
 description: >-
-  Guía completa del General American, el acento del inglés americano considerado
-  estándar. Características fonéticas, diferencias con otros acentos americanos,
-  y cómo practicarlo de forma efectiva.
+  Guía completa del General American, el acento del inglés americano considerado estándar. Características fonéticas, diferencias con otros acentos...
 readTime: 8 min
 excerpt: >-
   El General American es el acento que escuchas en las noticias americanas, en

@@ -4,7 +4,7 @@ date: '2026-04-17'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Vocabulario y frases en inglés para disfrutar de playas, piscinas y deportes acuáticos durante tus viajes. Desde alquilar una tabla de surf hasta entender señales de seguridad.
+  Vocabulario y frases en inglés para disfrutar de playas, piscinas y deportes acuáticos durante tus viajes. Desde alquilar una tabla de surf hasta entender...
 excerpt: >-
   Todo el inglés que necesitas para la playa y los deportes acuáticos: surf, snorkel, buceo, seguridad, alquiler de equipos y conversaciones en la costa.
 category: viajes

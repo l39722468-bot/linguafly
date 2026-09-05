@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Profesiones en Inglés (A1): Jobs, a/an y Where Do You Work?'
+title: 'Profesiones en Inglés A1: Jobs y Cómo Decir tu Trabajo'
 description: >-
-  Aprende profesiones en inglés A1, a/an con trabajos, I am a teacher y Where do
-  you work?. Guía Unidad 9 con ejemplos, audios y ejercicios prácticos.
+  Aprende profesiones en inglés A1: jobs, a/an, I am a teacher y preguntas sobre
+  tu trabajo, con ejemplos, audio y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - profesiones en inglés para principiantes A1

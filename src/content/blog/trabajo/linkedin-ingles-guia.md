@@ -33,7 +33,7 @@ faqs:
       Sí, publicar en inglés demuestra tu fluidez y te posiciona como un experto
       en tu sector a nivel internacional, más allá de lo que diga tu CV.
 description: >
-  Cómo optimizar tu perfil de LinkedIn en inglés para atraer reclutadores internacionales. Titular de impacto, extracto convincente, experiencia y networking efectivo en 2026.
+  Optimiza tu perfil de LinkedIn en inglés para atraer reclutadores: titular, extracto, experiencia y networking profesional efectivo en 2026.
 ---
 
 ## LinkedIn en Inglés: Tu Escaparate Profesional al Mundo
@@ -120,7 +120,70 @@ Comenta dos publicaciones por semana con una idea y un ejemplo: “I agree with 
 
 Pide a alguien que describa tu perfil en diez segundos. Si no identifica tu especialidad o impacto, simplifica el titular antes de añadir más palabras clave.
 
+## Revisión continua y visibilidad internacional
+
+Optimizar LinkedIn no consiste en traducir cada palabra del perfil. Elige los
+términos que utilizan las empresas de tu sector y confirma su uso en ofertas
+reales de empleo. “Account executive”, “business development manager” y
+“sales representative” pueden describir funciones distintas; selecciona el
+que corresponda a tus responsabilidades y no el que suene más prestigioso.
+
+Revisa el titular cuando cambie tu objetivo profesional. Debe responder en una
+sola lectura qué haces, para quién y con qué impacto. En el apartado About,
+separa los párrafos para facilitar la lectura desde el móvil y coloca los
+logros antes de una lista extensa de herramientas. Incluye tres o cuatro
+keywords naturales, pero evita repetirlas de forma artificial.
+
+Tu experiencia gana credibilidad cuando contiene cifras, contexto y alcance:
+“Managed a team of eight”, “supported clients across EMEA” o “cut reporting
+time by 25%” permiten entender la dimensión del trabajo. No publiques
+información confidencial; redondea cifras o describe porcentajes si el cliente
+no puede identificarse. Añade proyectos, certificaciones y publicaciones que
+demuestren aprendizaje reciente.
+
+Para publicar en inglés, empieza con una observación breve y añade tu punto de
+vista. Responde a comentarios con preguntas y agradece las correcciones útiles.
+El objetivo es construir una conversación profesional, no traducir contenido
+literalmente. Una vez al mes revisa enlaces, recomendaciones, preferencias de
+contacto y la sección Open to Work. Pide a un colega que lea el perfil como si
+fuera un reclutador y comprueba qué información recuerda después de un minuto.
+
 ## Fuentes
+
+### Mensajes profesionales y búsqueda activa
+
+Cuando contactes con una persona que no conoces, explica por qué eliges su
+perfil y no pidas un favor grande en el primer mensaje. “I saw your talk on
+fintech hiring and found your point about transferable skills useful. I’m
+moving into product operations and would value one short recommendation on
+where to learn more” es más eficaz que “Please find me a job”. Agradece la
+respuesta aunque no produzca una oportunidad inmediata.
+
+Si respondes a una oferta, adapta el vocabulario del perfil al anuncio sin
+copiarlo literalmente. Comprueba si la empresa usa *resume* o *CV*, *programme*
+o *program*, y conserva la variante que corresponda al mercado. En una
+entrevista, tu perfil debe respaldar tus respuestas: prepara una historia
+breve para cada logro destacado y explica el contexto, la acción y el
+resultado.
+
+Protege tu privacidad. No publiques teléfonos personales, documentos de
+identidad ni información de clientes. Revisa quién puede ver tu correo y
+activa la autenticación de dos factores. La visibilidad internacional es
+valiosa cuando controlas qué datos compartes y mantienes una presencia
+profesional coherente.
+
+Utiliza las notificaciones con criterio. Comenta cuando tengas algo concreto
+que aportar y evita respuestas automáticas que no demuestren interés real.
+Una frase como “The distinction between adoption and retention is especially
+useful for early-stage teams” comunica que has leído la publicación y abre
+una conversación. Mantén un calendario sostenible: una publicación útil cada
+dos semanas es preferible a varias publicaciones apresuradas.
+
+Por último, revisa la versión móvil del perfil. El titular, las dos primeras
+líneas del apartado About y la imagen de portada deben explicar tu propuesta
+antes de que el visitante pulse “see more”. Corrige enlaces rotos, archivos
+antiguos y traducciones literales. Un perfil claro facilita que un reclutador
+internacional te encuentre, entienda tu experiencia y sepa cómo contactarte.
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/
 - British Council LearnEnglish: https://www.britishcouncil.org/learnenglish

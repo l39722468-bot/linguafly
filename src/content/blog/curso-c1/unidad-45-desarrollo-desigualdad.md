@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Desarrollo y Desigualdad en Inglés C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a manejar indicadores socioeconómicos, comparar datos con matices
-  y argumentar sobre desarrollo y desigualdad con precisión léxica y retórica. Con teoría detallada y 19 ejercicios
-  inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis aprendes a manejar indicadores socioeconómicos, comparar datos con matices y argumentar sobre desarrollo y...
 readTime: 40 min
 keywords:
   [

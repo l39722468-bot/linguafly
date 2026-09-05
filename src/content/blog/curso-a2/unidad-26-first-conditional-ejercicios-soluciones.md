@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de First Conditional en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 26 del curso A2: If + Present Simple, will + infinitivo (condiciones reales futuras),
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 26 del curso A2: If + Present Simple, will + infinitivo (condiciones reales futuras), reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de First Conditional en Inglés A2

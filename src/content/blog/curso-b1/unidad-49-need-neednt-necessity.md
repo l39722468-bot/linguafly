@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Need y Needn't B1: Diferencias y Ejercicios"
 description: >-
-  Domina need, needn't y needn't have + past participle en inglés B1: la diferencia entre no ser necesario
-  (needn't) y tener prohibido (mustn't), y entre necesidad pasada y acción innecesaria, con vocabulario de
-  necessity. Guía completa de la Unidad 49 con explicaciones, tablas, audios, reading, diálogo y ejercicios.
+  Domina need, needn't y needn't have + past participle en inglés B1: la diferencia entre no ser necesario (needn't) y tener prohibido (mustn't), y entre...
 readTime: 15 min
 keywords:
   - Need y Needn't B1: Diferencias y Ejercicios

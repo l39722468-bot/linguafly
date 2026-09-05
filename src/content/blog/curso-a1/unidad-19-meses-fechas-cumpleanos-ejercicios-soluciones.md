@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Meses, Fechas y Cumpleaños en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 19 del curso A1: in/on, meses,
-  ordinales, When is your birthday?, reading de Lucy, listening y writing. Con
-  soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 19 del curso A1: in/on, meses, ordinales, When is your birthday? , reading de Lucy, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Meses, Fechas y Cumpleaños en Inglés A1

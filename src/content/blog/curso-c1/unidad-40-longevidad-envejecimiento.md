@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Longevidad y Envejecimiento C1"
 description: >-
-  En la Unidad 40 del curso de inglés C1 gratis aprenderás a hablar del
-  envejecimiento con tono respetuoso y a presentar datos demográficos y de salud
-  con precisión. Incluye 19 ejercicios inglés C1 gratis con soluciones.
+  En la Unidad 40 del curso de inglés C1 gratis aprenderás a hablar del envejecimiento con tono respetuoso y a presentar datos demográficos y de salud con...
 readTime: 40 min
 keywords:
   - Ejercicios de Longevidad y Envejecimiento C1

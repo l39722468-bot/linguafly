@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso y Ejercicios de Problemas Globales en Inglés C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis consolidas tu capacidad de síntesis interdisciplinar sobre problemas
-  globales, integrando derechos humanos, migración, desarrollo, conflicto y clima en un discurso coherente y matizado.
-  Con teoría detallada y 19 ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis consolidas tu capacidad de síntesis interdisciplinar sobre problemas globales, integrando derechos humanos,...
 readTime: 40 min
 keywords:
   [

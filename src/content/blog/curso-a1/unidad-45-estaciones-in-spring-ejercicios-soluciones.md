@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de las Estaciones del Año en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 45 del curso A1: in + estación,
-  spring, summer, autumn, winter, nature, reading, listening y writing. Con
-  soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 45 del curso A1: in + estación, spring, summer, autumn, winter, nature, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de las Estaciones del Año en Inglés A1

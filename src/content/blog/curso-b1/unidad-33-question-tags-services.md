@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Question Tags B1: Reglas, Ejemplos y Ejercicios'
 description: >-
-  Aprende a fondo los question tags en inglés (isn't it?, don't you?, aren't I?, shall we?) con vocabulario
-  de servicios: bank, doctor, restaurant, appointment. Guía completa de la Unidad 33 del curso B1 con
-  explicaciones, tablas, errores típicos, audios, reading, diálogo y ejercicios resueltos.
+  Aprende a fondo los question tags en inglés (isn't it?, don't you?, aren't I?, shall we?) con vocabulario de servicios: bank, doctor, restaurant,...
 readTime: 18 min
 keywords:
   - Question Tags B1: Reglas, Ejemplos y Ejercicios

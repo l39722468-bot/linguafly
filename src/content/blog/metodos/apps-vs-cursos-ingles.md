@@ -1,9 +1,7 @@
 ---
 title: 'Apps vs. Cursos de Inglés: Cuál Elegir Según Tu Objetivo'
 description: >-
-  Comparamos las aplicaciones para aprender inglés con los cursos tradicionales
-  en 2026. ¿Qué es más efectivo según tu objetivo: hábito diario, fluidez,
-  nivel avanzado o inglés profesional?
+  Comparamos las aplicaciones para aprender inglés con los cursos tradicionales en 2026. ¿Qué es más efectivo según tu objetivo: hábito diario, fluidez, nivel...
 readTime: 4 min
 excerpt: >-
   ¿Dudas entre usar una app o apuntarte a un curso? Analizamos las ventajas y

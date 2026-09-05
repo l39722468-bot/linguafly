@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Repaso de Voz Pasiva, Modales y Comparativos B2"
 description: >-
-  Repasa passive all tenses, modal passive, have something done, so/such/too/enough y comparativos avanzados del módulo 2 B2 con teoría completa y ejercicios resueltos. Guía y cuaderno de la Unidad 20 con audios.
+  Repasa passive all tenses, modal passive, have something done, so/such/too/enough y comparativos avanzados del módulo 2 B2 con teoría completa y ejercicios...
 readTime: 40 min
 keywords:
   - Repaso de Voz Pasiva, Modales y Comparativos B2

@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Desinformación y Fake News C1"
 description: >-
-  En esta unidad del curso de inglés C1 gratis aprendes a verificar fuentes, a desmontar la desinformación y a argumentar
-  sobre fake news con precisión léxica y espíritu crítico. Con teoría detallada y 19 ejercicios inglés C1 gratis.
+  En esta unidad del curso de inglés C1 gratis aprendes a verificar fuentes, a desmontar la desinformación y a argumentar sobre fake news con precisión léxica...
 readTime: 40 min
 keywords:
   [

@@ -1,9 +1,7 @@
 ---
 title: 'Ejercicios de Pronunciación en Inglés: Guía'
 description: >-
-  Descubre los ejercicios de pronunciación en inglés más efectivos para mejorar
-  sonidos, ritmo, entonación y fluidez. Técnicas prácticas con ejemplos para
-  todos los niveles.
+  Descubre los ejercicios de pronunciación en inglés más efectivos para mejorar sonidos, ritmo, entonación y fluidez. Técnicas prácticas con ejemplos para...
 readTime: 8 min
 excerpt: >-
   Pronunciar bien el inglés no es cuestión de talento ni de oído privilegiado.

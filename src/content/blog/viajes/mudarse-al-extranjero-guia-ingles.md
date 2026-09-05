@@ -4,7 +4,7 @@ date: '2026-02-24'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  El inglés imprescindible para mudarte a un país angloparlante: buscar piso, banco, trámites, sanidad y vida diaria. Guía completa para expatriados hispanohablantes en 2026.
+  El inglés imprescindible para mudarte a un país angloparlante: buscar piso, banco, trámites, sanidad y vida diaria. Guía completa para expatriados...
 excerpt: >-
   Todo el inglés que necesitas para mudarte a un país angloparlante: buscar piso, abrir una cuenta bancaria, trámites administrativos, sanidad y vida diaria. Guía práctica para expatriados.
 category: viajes

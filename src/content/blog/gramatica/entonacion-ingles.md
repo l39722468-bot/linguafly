@@ -1,9 +1,7 @@
 ---
 title: 'Entonación en Inglés: Cómo Usarla con Naturalidad'
 description: >-
-  Aprende los patrones de entonación del inglés y cómo afectan al significado,
-  la actitud y la naturalidad. Entonación descendente, ascendente y sus usos
-  reales con ejemplos prácticos.
+  Aprende los patrones de entonación del inglés y cómo afectan al significado, la actitud y la naturalidad. Entonación descendente, ascendente y sus usos...
 readTime: 7 min
 excerpt: >-
   En inglés, la misma frase puede significar cosas muy distintas según cómo

@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Neurociencia y Divulgación en Inglés C1"
 description: >-
-  En la Unidad 38 del curso de inglés C1 gratis aprenderás a manejar terminología
-  neurocientífica y a simplificar conceptos técnicos de forma controlada para un
-  público no especializado. Incluye 19 ejercicios inglés C1 gratis con soluciones.
+  En la Unidad 38 del curso de inglés C1 gratis aprenderás a manejar terminología neurocientífica y a simplificar conceptos técnicos de forma controlada para...
 readTime: 40 min
 keywords:
   - Ejercicios de Neurociencia y Divulgación en Inglés C1

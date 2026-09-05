@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Saludos en Inglés A1 con Soluciones'
 description: >-
-  Practica todos los ejercicios de la Unidad 1 del curso A1: verbo to be (I/you),
-  vocabulario de saludos, reading de María, listening de Carlos y writing. Con
-  soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 1 del curso A1: verbo to be (I/you), vocabulario de saludos, reading de María, listening de Carlos y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Saludos en Inglés A1 con Soluciones

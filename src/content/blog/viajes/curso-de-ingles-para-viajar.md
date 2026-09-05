@@ -4,7 +4,7 @@ date: '2026-01-30'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende el inglés esencial para viajar: frases para aeropuertos, hoteles, transporte y situaciones cotidianas. El curso práctico que necesitas antes de tu próximo viaje al extranjero.
+  Aprende el inglés esencial para viajar: frases para aeropuertos, hoteles, transporte y situaciones cotidianas. El curso práctico que necesitas antes de tu...
 excerpt: >-
   ¿Planeas un viaje al extranjero? Un curso de inglés para viajar es la clave
   para moverte con seguridad. Aprende frases esenciales y practica situaciones

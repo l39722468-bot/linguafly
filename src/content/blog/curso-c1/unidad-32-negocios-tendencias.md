@@ -5,7 +5,7 @@ updatedDate: '2026-09-10'
 author: linguafly-team
 title: "Ejercicios de Informes y Comparativos en Inglés C1"
 description: >-
-  Aprende a redactar informes de negocios en inglés C1 con comparativos avanzados (far/considerably/marginally + comparativo, the more... the more...), registro formal de informe, vocabulario de tendencias de mercado y ejercicios resueltos.
+  Aprende a redactar informes de negocios en inglés C1 con comparativos avanzados (far/considerably/marginally + comparativo, the more... the more...
 readTime: 40 min
 keywords:
   - Ejercicios de Informes y Comparativos en Inglés C1

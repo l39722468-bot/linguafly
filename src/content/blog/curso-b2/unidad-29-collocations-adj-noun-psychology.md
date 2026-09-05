@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Collocations de Adjetivo y Sustantivo B2"
 description: >-
-  Guía completa de la Unidad 29 del curso B2: collocations adjetivo + sustantivo con vocabulario de psychology & mind, incluyendo teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 29 del curso B2: collocations adjetivo + sustantivo con vocabulario de psychology & mind, incluyendo teoría, reading, listening,...
 readTime: 59 min
 keywords:
   - Ejercicios de Collocations de Adjetivo y Sustantivo B2

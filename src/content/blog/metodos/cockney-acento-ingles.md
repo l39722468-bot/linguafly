@@ -1,9 +1,7 @@
 ---
 title: 'Acento Cockney: Rasgos, Slang y Pronunciación'
 description: >-
-  Guía completa del acento Cockney: glotal stop, th-fronting, cambios vocálicos,
-  rhyming slang y vocabulario propio. Todo lo que necesitas para entender el inglés
-  del East End de Londres.
+  Guía completa del acento Cockney: glotal stop, th-fronting, cambios vocálicos, rhyming slang y vocabulario propio. Todo lo que necesitas para entender el...
 readTime: 9 min
 excerpt: >-
   El Cockney es uno de los acentos más imitados del mundo y también uno de los

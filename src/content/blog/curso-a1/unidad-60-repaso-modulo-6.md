@@ -5,9 +5,7 @@ updatedDate: '2026-08-04'
 author: linguafly-team
 title: 'Repaso Módulo 6 (A1): compras, comida, should y pay for'
 description: >-
-  Repasa el Módulo 6 del curso A1: contables/incontables, some/any, much/many,
-  too/enough, restaurante, recetas, should y pay for/spend on. Guía Unidad 60
-  con checklist, audios y ejercicios.
+  Repasa el Módulo 6 del curso A1: contables/incontables, some/any, much/many, too/enough, restaurante, recetas, should y pay for/spend on.
 readTime: 16 min
 keywords:
   - module 6 review A1

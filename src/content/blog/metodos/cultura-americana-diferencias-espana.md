@@ -1,9 +1,7 @@
 ---
 title: 'Cultura Americana vs Española: Diferencias Clave'
 description: >-
-  Descubre las principales diferencias culturales entre Estados Unidos y España.
-  Guía práctica de etiqueta, costumbres y valores americanos para hispanohablantes
-  que viajan, trabajan o estudian en EE.UU.
+  Descubre las principales diferencias culturales entre Estados Unidos y España. Guía práctica de etiqueta, costumbres y valores americanos para...
 readTime: 5 min
 excerpt: >-
   Hablar inglés es solo una parte. Entender la cultura americana te evitará

@@ -4,7 +4,7 @@ date: '2026-02-21'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Phrasal verbs de nivel C1 para el CAE y el uso profesional: formas avanzadas en registro formal, escritura académica y conversación de alto nivel con ejemplos en contexto.
+  Phrasal verbs de nivel C1 para el CAE y el uso profesional: formas avanzadas en registro formal, escritura académica y conversación de alto nivel con...
 category: gramatica
 alt: Profesional revisando documentos con phrasal verbs avanzados en inglés
 readTime: 8 min

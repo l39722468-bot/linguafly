@@ -1,9 +1,7 @@
 ---
 title: 'Pronunciación de Terminaciones en Inglés: Guía'
 description: >-
-  Descubre las reglas de pronunciación de las terminaciones más comunes en
-  inglés: -ed del pasado, la -s/-es del plural y la tercera persona, y otras
-  terminaciones frecuentes. Con ejemplos y transcripciones IPA.
+  Descubre las reglas de pronunciación de las terminaciones más comunes en inglés: -ed del pasado, la -s/-es del plural y la tercera persona, y otras...
 readTime: 7 min
 excerpt: >-
   Las terminaciones en inglés no siempre suenan como están escritas. La -ed

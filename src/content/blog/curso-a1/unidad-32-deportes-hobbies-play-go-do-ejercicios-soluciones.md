@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Deportes y Aficiones en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 32 del curso A1: play football, go
-  swimming, do yoga, painting, reading, reading, listening y writing. Con
-  soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 32 del curso A1: play football, go swimming, do yoga, painting, reading, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Deportes y Aficiones en Inglés A1

@@ -5,7 +5,7 @@ updatedDate: '2026-09-06'
 author: linguafly-team
 title: "Ejercicios de Linkers de Causa y Estructuras con It C1"
 description: >-
-  Aprende los linkers de causa-resultado (owing to, consequently, thereby, thus, hence) y las estructuras con it (it is widely acknowledged that, it has been suggested) en inglés C1. Economía, globalización y ejercicios resueltos.
+  Aprende los linkers de causa-resultado (owing to, consequently, thereby, thus, hence) y las estructuras con it (it is widely acknowledged that, it has been...
 readTime: 40 min
 keywords:
   - Ejercicios de Linkers de Causa y Estructuras con It C1

@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Phrasal Verbs CALL, CARRY y COME B2"
 description: >-
-  Guía completa de la Unidad 24 del curso B2: phrasal verbs con CALL, CARRY y COME (call off, carry on, come across, come up with…) con vocabulario de social media & networking con ejercicios resueltos. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 24 del curso B2: phrasal verbs con CALL, CARRY y COME (call off, carry on, come across, come up with…) con vocabulario de social...
 readTime: 45 min
 keywords:
   - Ejercicios de Phrasal Verbs CALL, CARRY y COME B2

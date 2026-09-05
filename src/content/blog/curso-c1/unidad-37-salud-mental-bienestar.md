@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Salud Mental y Bienestar en Inglés C1"
 description: >-
-  En la Unidad 37 del curso de inglés C1 gratis aprenderás a reformular con
-  empatía, matizar afirmaciones sensibles y respetar límites al hablar de salud
-  mental y bienestar. Incluye 19 ejercicios inglés C1 gratis con soluciones.
+  En la Unidad 37 del curso de inglés C1 gratis aprenderás a reformular con empatía, matizar afirmaciones sensibles y respetar límites al hablar de salud...
 readTime: 40 min
 keywords:
   - Ejercicios de Salud Mental y Bienestar en Inglés C1

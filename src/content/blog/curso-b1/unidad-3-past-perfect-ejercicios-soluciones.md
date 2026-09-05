@@ -4,9 +4,8 @@ author: linguafly-team
 canonical: https://linguafly.app/blog/curso-b1/unidad-3-past-perfect-ejercicios-soluciones
 category: curso-b1
 date: '2026-08-25'
-description: 'Practica todos los ejercicios de la Unidad 3 del curso B1: Past Perfect:
-  had + past participle; before/by the time/already, reading, listening y writing.
-  Con soluciones comentadas.'
+description: >-
+  Practica todos los ejercicios de la Unidad 3 del curso B1: Past... had + past participle; before/by the time/already, reading, listening y writing.
 excerpt: Cuaderno de ejercicios de la Unidad 3 B1 (Past Perfect) con soluciones.
 faqs:
 - answer: Cinco lecciones con 15 actividades cada una sobre had + past participle,

@@ -4,7 +4,7 @@ date: '2026-04-17'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Vocabulario y frases en inglés para cruceros y viajes en barco. Desde el embarque hasta las excursiones en puerto, pasando por restaurantes a bordo y emergencias marítimas.
+  Vocabulario y frases en inglés para cruceros y viajes en barco. Desde el embarque hasta las excursiones en puerto, pasando por restaurantes a bordo y...
 excerpt: >-
   Todo el inglés que necesitas para disfrutar de un crucero: embarque, camarotes, restaurantes a bordo, excursiones en puerto, entretenimiento y seguridad marítima.
 category: viajes

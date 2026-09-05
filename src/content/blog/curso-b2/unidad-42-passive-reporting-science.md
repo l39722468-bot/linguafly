@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Pasiva con Verbos de Reporte B2"
 description: >-
-  Aprende It is said that y subject is believed to be/to have B2 con ciencia, vocabulario de Scientific Discoveries, ocho audios y ejercicios resueltos de gramática, vocabulario, reading, listening, writing y speaking.
+  Aprende It is said that y subject is believed to be/to have B2 con ciencia, vocabulario de Scientific Discoveries, ocho audios y ejercicios resueltos de...
 readTime: 62 min
 keywords:
   - Ejercicios de Pasiva con Verbos de Reporte B2

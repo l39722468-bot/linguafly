@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Review B1: All Conditionals + Mixed Topics'
 description: >-
-  Repasa a fondo first, second y third conditional, cero condicional y time clauses (when/until/unless/as soon as)
-  en inglés B1, con diagnóstico para elegir el condicional correcto, vocabulario mixto, reading, diálogo, errores
-  típicos y más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
+  Repasa a fondo first, second y third conditional, cero condicional y time clauses (when/until/unless/as soon as) en inglés B1, con diagnóstico para elegir...
 readTime: 19 min
 keywords:
   - review conditionals B1

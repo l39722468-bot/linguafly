@@ -4,9 +4,7 @@ date: '2026-03-05'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Guía completa para preparar el IELTS en 2026. Plan de estudio de 12 semanas,
-  estrategias por parte del examen, banda de puntuación necesaria para emigrar
-  o estudiar en el extranjero, y recursos gratuitos.
+  Guía completa para preparar el IELTS en 2026. Plan de estudio de 12 semanas, estrategias por parte del examen, banda de puntuación necesaria para emigrar o...
 excerpt: >-
   ¿Quieres sacar un 6.5 o 7.0 en el IELTS? Esta guía completa te da el plan de
   12 semanas, las estrategias clave para cada parte del examen y las bandas

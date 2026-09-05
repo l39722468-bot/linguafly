@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Gerundios, Infinitivos y Phrasal Verbs B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 25 del curso B1: gerund/infinitive y phrasal verbs (mix U21–24);
-  hobbies, house, daily activities, shopping (mix), reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 25 del curso B1: gerund/infinitive y phrasal verbs (mix U21–24); hobbies, house, daily activities, shopping...
 readTime: 25 min
 keywords:
   - Repaso de Gerundios, Infinitivos y Phrasal Verbs B1

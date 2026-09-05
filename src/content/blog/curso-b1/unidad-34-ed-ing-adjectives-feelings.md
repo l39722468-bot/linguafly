@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: '-Ed/-ing Adjectives B1 + Personal Feelings'
 description: >-
-  Aprende a fondo los adjetivos -ed/-ing (bored/boring, excited/exciting, interested/interesting) en
-  inglés con vocabulario de sentimientos personales. Guía completa de la Unidad 34 del curso B1 con
-  explicaciones, tablas, errores típicos, audios, reading, diálogo y ejercicios resueltos.
+  Aprende a fondo los adjetivos -ed/-ing (bored/boring, excited/exciting, interested/interesting) en inglés con vocabulario de sentimientos personales.
 readTime: 18 min
 keywords:
   - ed ing adjectives B1

@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Phrasal Verbs RUN, SET y TAKE B2"
 description: >-
-  Aprende run into/out of/through/by, set up/off/out/aside y take to/up/off/on en inglés B2 con Leisure extended: teoría, audio, ejemplos y ejercicios de gramática, vocabulario, reading, listening, writing y speaking con soluciones.
+  Aprende run into/out of/through/by, set up/off/out/aside y take to/up/off/on en inglés B2 con Leisure extended: teoría, audio, ejemplos y ejercicios de...
 readTime: 62 min
 keywords:
   - Ejercicios de Phrasal Verbs RUN, SET y TAKE B2

@@ -5,7 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: "Ejercicios de Relative Clauses Reducidas en Inglés B2"
 description: >-
-  Guía completa de la Unidad 12 del curso B2: reduced relative clauses (-ing / -ed) con vocabulario de entertainment y gardening. Incluye teoría, reading, listening, writing, speaking y ejercicios con soluciones.
+  Guía completa de la Unidad 12 del curso B2: reduced relative clauses (-ing / -ed) con vocabulario de entertainment y gardening.
 readTime: 43 min
 keywords:
   - Ejercicios de Relative Clauses Reducidas en Inglés B2

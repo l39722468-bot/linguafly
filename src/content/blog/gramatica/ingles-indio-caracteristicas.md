@@ -4,7 +4,7 @@ date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  El inglés indio: por qué suena diferente y cómo entenderlo en entornos de trabajo, tecnología y negocios. Características fonéticas y vocabulario propio del Indian English.
+  El inglés indio: por qué suena diferente y cómo entenderlo en entornos de trabajo, tecnología y negocios. Características fonéticas y vocabulario propio del...
 excerpt: >-
   El inglés indio es la tercera variedad de inglés más hablada del mundo. En entornos de tecnología, medicina y negocios internacionales, entender el Indian English no es opcional: es una habilidad profesional. Aquí están sus características clave.
 category: gramatica

@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Purpose y Reason B1: Explicar Causas y Finalidad'
 description: >-
-  Aprende a fondo to/in order to/so as to, so that y because/because of/due to en inglés B1 con vocabulario
-  para explicar. Guía completa de la Unidad 39 del curso B1 con explicaciones, tablas, errores típicos,
-  audios, reading, diálogo y ejercicios resueltos.
+  Aprende a fondo to/in order to/so as to, so that y because/because of/due to en inglés B1 con vocabulario para explicar.
 readTime: 18 min
 keywords:
   - Purpose y Reason B1: Explicar Causas y Finalidad

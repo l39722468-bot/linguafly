@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Trabajo y Educación en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 57 del curso A2: work as, work in, study at, have to, deadline, meeting, exam,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 57 del curso A2: work as, work in, study at, have to, deadline, meeting, exam, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Trabajo y Educación en Inglés A2

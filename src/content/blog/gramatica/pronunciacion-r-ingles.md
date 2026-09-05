@@ -1,9 +1,7 @@
 ---
 title: 'Pronunciar la R en Inglés: Guía Americana y Británica'
 description: >-
-  Aprende cómo se pronuncia la R en inglés americano y británico, por qué es
-  tan diferente a la española y cómo entrenarla para sonar más natural. Con
-  transcripciones IPA y ejercicios prácticos.
+  Aprende cómo se pronuncia la R en inglés americano y británico, por qué es tan diferente a la española y cómo entrenarla para sonar más natural.
 readTime: 7 min
 excerpt: >-
   La R del inglés no existe en español. No es ni la R suave ni la RR. Es un

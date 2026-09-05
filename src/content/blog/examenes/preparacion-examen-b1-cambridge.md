@@ -6,9 +6,7 @@ author: linguafly-team
 alt: "Estudiante preparando su examen de nivel B1 de inglés"
 title: 'Examen B1 de Inglés: Cómo Prepararlo y Aprobar'
 description: >-
-  Descubre cómo aprobar el examen B1 de inglés en 2026. Guía detallada para
-  Cambridge PET, Aptis y Linguaskill con estrategias de estudio, recursos
-  gratuitos y consejos de examinadores.
+  Descubre cómo aprobar el examen B1 de inglés en 2026. Guía detallada para Cambridge PET, Aptis y Linguaskill con estrategias de estudio, recursos gratuitos...
 readTime: 4 min
 excerpt: >-
   El B1 es el primer título internacional de inglés y el que más empresas

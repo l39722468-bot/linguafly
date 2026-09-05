@@ -24,7 +24,7 @@ faqs:
       En UK e Irlanda la propina (tip) es voluntaria y típicamente del 10-15% en restaurantes. Muchos restaurantes añaden automáticamente un "service charge" del 12.5% a la factura. En pubs rara vez se propina al pedir en la barra. Es muy diferente a EE.UU., donde la propina es prácticamente obligatoria (15-20%) y parte fundamental del salario del camarero.
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-camareros-y-hosteleria'
 description: >
-  Todo el inglés necesario para trabajar en hostelería en UK, Irlanda o Australia: atender mesas, tomar pedidos, gestionar quejas, hablar de la carta y comunicarse en cocina.
+  Inglés para trabajar en hostelería en UK, Irlanda o Australia: pedidos, atención al cliente, quejas, carta y comunicación eficaz en cocina.
 ---
 
 ## Inglés para Hostelería: La Guía Definitiva
@@ -216,7 +216,24 @@ Si estás siguiendo el curso por unidades, estas guías conectan este tema con l
 - [A1 U56 — Restaurante: pedidos](/blog/curso-a1/unidad-56-restaurante-pedidos)
 - [A1 U16 — Pedir en la cafetería](/blog/curso-a1/unidad-16-cafeteria-can-i-have-id-like)
 
+## Coordinación con el equipo
+
+En un servicio rápido también necesitarás comunicarte con cocina y sala:
+“Table twelve is waiting for the main courses”, “We are out of salmon” y
+“Could you run these drinks?” son mensajes breves y claros. Confirma siempre
+los cambios de una comanda y repite alergias o restricciones para evitar
+errores. Al terminar el turno, informa de incidencias y existencias con datos
+concretos, no con suposiciones.
+
 ## Fuentes
+
+### Coordinación en un turno con mucha actividad
+
+En los momentos de mayor volumen, prioriza mensajes breves: “Two coffees for
+table six”, “Allergy alert on the pasta” o “Can you cover the till for five
+minutes?”. Confirma la información importante repitiéndola y utiliza
+“behind”, “hot” y “corner” para avisar de movimientos en cocina. Al terminar,
+deja una nota clara sobre reservas, productos agotados y peticiones pendientes.
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/
 - British Council LearnEnglish: https://www.britishcouncil.org/learnenglish

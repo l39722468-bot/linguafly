@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso B1: Tiempos Verbales y Ejercicios'
 description: >-
-  Repasa a fondo present perfect, present perfect continuous, past perfect, past simple vs present perfect y
-  el futuro con will/going to en inglés B1, con diagnóstico, vocabulario mixto, errores típicos, reading,
-  diálogo y más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
+  Repasa a fondo present perfect, present perfect continuous, past perfect, past simple vs present perfect y el futuro con will/going to en inglés B1, con...
 readTime: 19 min
 keywords:
   - Repaso B1: Tiempos Verbales y Ejercicios

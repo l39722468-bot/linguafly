@@ -5,9 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Superlativos y Turismo en Inglés A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 48 del curso A1: the most famous,
-  the oldest, museum, monument, statue, guided tour, reading, listening y
-  writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 48 del curso A1: the most famous, the oldest, museum, monument, statue, guided tour, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Superlativos y Turismo en Inglés A1

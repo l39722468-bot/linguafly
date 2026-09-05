@@ -1,9 +1,7 @@
 ---
 title: 'Ejercicios de Condicionales en Inglés C1'
 description: >-
-  Ejercicios avanzados de condicionales en inglés para nivel C1. Aprende la
-  inversión condicional, condicionales mixtos y estructuras formales que
-  marcan la diferencia en Cambridge C1 Advanced y IELTS Band 7+.
+  Ejercicios avanzados de condicionales en inglés para nivel C1. Aprende la inversión condicional, condicionales mixtos y estructuras formales que marcan la...
 readTime: 6 min
 excerpt: >-
   Si ya dominas los cuatro condicionales básicos, es hora de subir el nivel.

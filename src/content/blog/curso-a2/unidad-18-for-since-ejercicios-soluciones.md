@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de For y Since en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 18 del curso A2: for (duration) / since (starting point) + Present Perfect,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 18 del curso A2: for (duration) / since (starting point) + Present Perfect, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de For y Since en Inglés A2

@@ -4,7 +4,7 @@ date: '2026-04-17'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Aprende todas las frases y vocabulario en inglés que necesitas para pedir en restaurantes y bares durante tus viajes. Desde reservar mesa hasta entender la carta de cócteles.
+  Aprende todas las frases y vocabulario en inglés que necesitas para pedir en restaurantes y bares durante tus viajes. Desde reservar mesa hasta entender la...
 excerpt: >-
   Domina el inglés de restaurantes y bares para tus viajes: reservas, carta de vinos, platos especiales, propinas y conversaciones con camareros. Guía práctica con frases reales.
 category: viajes

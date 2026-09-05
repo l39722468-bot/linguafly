@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Review B1: Passive & Reported Speech + Mixed Topics'
 description: >-
-  Repasa a fondo la voz pasiva (presente, pasado y modal passive) y el reported speech (statements, questions
-  y commands, con backshift) en inglés B1, con diagnóstico, vocabulario mixto, errores típicos, reading, diálogo
-  y más de 8 ejercicios con soluciones. Curso y ejercicios de inglés B1 gratis.
+  Repasa a fondo la voz pasiva (presente, pasado y modal passive) y el reported speech (statements, questions y commands, con backshift) en inglés B1, con...
 readTime: 19 min
 keywords:
   - passive review B1

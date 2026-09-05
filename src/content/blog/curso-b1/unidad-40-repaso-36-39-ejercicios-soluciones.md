@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Repaso de Adjetivos, Contraste y Finalidad B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 40 del curso B1: so/such, compounds, contrast y purpose/reason (mix U36–39);
-  intensifiers, travel, opinions, explaining (mix), reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 40 del curso B1: so/such, compounds, contrast y purpose/reason (mix U36–39); intensifiers, travel, opinions,...
 readTime: 25 min
 keywords:
   - Repaso de Adjetivos, Contraste y Finalidad B1

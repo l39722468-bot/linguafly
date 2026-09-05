@@ -5,8 +5,7 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Ejercicios de Salud y Cuerpo Humano en Inglés A2'
 description: >-
-  Practica todos los ejercicios de la Unidad 47 del curso A2: have a headache, feel sick, should/shouldn't, My … hurts,
-  reading, listening y writing. Con soluciones comentadas.
+  Practica todos los ejercicios de la Unidad 47 del curso A2: have a headache, feel sick, should/shouldn't, My … hurts, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Salud y Cuerpo Humano en Inglés A2

@@ -5,9 +5,7 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'So, Such, So Much, So Many B1 + Intensifiers'
 description: >-
-  Aprende a fondo so/such/so much/so many y los intensificadores (very, quite, absolutely, extremely) en
-  inglés B1, incluidas las estructuras de resultado so...that / such...that. Guía completa de la Unidad 36
-  del curso B1 con explicaciones, tablas, errores típicos, audios, reading, diálogo y ejercicios resueltos.
+  Aprende a fondo so/such/so much/so many y los intensificadores (very, quite, absolutely, extremely) en inglés B1, incluidas las estructuras de resultado so...
 readTime: 18 min
 keywords:
   - so such B1
