@@ -1,8 +1,8 @@
 ---
-title: 'Inglés de Irlanda: Vocabulario, Expresiones y Acento Local'
+title: 'Inglés de Irlanda: Vocabulario y Acento Local'
 description: >-
   Aprende vocabulario y expresiones del inglés de Irlanda: Hiberno-English,
-  registro, falsos amigos y cómo entender mejor su acento.
+  registro, falsos amigos y cómo entender mejor el acento irlandés.
 readTime: 14 min
 excerpt: >-
   Entiende el inglés irlandés con expresiones reales, matices de registro y vocabulario local para viajar por Irlanda.
