@@ -1,13 +1,11 @@
 ---
-title: 'Entrevista de Trabajo en Inglés sin Experiencia: Qué Decir'
+title: 'Entrevista en Inglés sin Experiencia: Respuestas y Frases'
 description: >-
-  Cómo afrontar una entrevista de trabajo en inglés cuando tienes poca o ninguna experiencia laboral. Qué ejemplos usar, cómo hablar de tus fortalezas y qué...
+  Prepárate para una entrevista de trabajo en inglés sin experiencia: respuestas,
+  frases, ejemplos de fortalezas y formas de hablar de tu potencial.
 readTime: 5 min
 excerpt: >-
-  No tener experiencia laboral no significa no tener nada que contar. En
-  entrevistas en inglés, los candidatos junior que saben presentar su
-  potencial con ejemplos concretos se diferencian de los que solo se disculpan
-  por lo que no tienen.
+  Consigue tu primera entrevista en inglés presentando fortalezas, estudios y potencial con ejemplos concretos, aunque aún no tengas experiencia laboral.
 keywords:
   - entrevista trabajo inglés sin experiencia laboral
   - cómo responder entrevista inglés primer empleo junior

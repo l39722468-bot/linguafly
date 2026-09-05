@@ -4,11 +4,12 @@ author: linguafly-team
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-2-present-perfect-continuous'
 category: curso-b1
 date: '2026-08-12'
+title: 'Present Perfect Continuous B1: Reglas y Ejercicios'
 description: >-
-  Aprende Present Perfect Continuous en inglés B1: have/has been + -ing, for/since y el contraste con Present Perfect Simple.
+  Aprende Present Perfect Continuous B1 con have/has been + -ing, for/since y su
+  diferencia con Present Perfect Simple, con ejemplos y ejercicios.
 excerpt: >-
-  Guía completa de la Unidad 2 del curso B1: Present Perfect Continuous con have/has been + -ing, for/since,
-  contraste con Simple y vocabulario de education, con reading, diálogo y ejercicios.
+  Guía de Present Perfect Continuous B1 con have/has been + -ing, for/since, contraste con Simple, reading, diálogo y ejercicios.
 faqs:
   - question: ¿Cómo se forma exactamente el Present Perfect Continuous y por qué lleva "been"?
     answer: >-
@@ -60,7 +61,6 @@ related_routes:
   - present-perfect-usos-principales
   - unidad-1-repaso-a2-b1
   - cursos-online-ingles-b1
-title: "Present Perfect Continuous B1: have/has been + -ing, for/since"
 updatedDate: '2026-08-31'
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: 'Coursera 2026: Cursos para IELTS e Inglés Académico'
+title: 'Coursera 2026: Cursos de Inglés para IELTS y Exámenes'
 date: '2026-04-15'
 updatedDate: '2026-09-04'
 author: linguafly-team
-excerpt: 'Coursera/edX para IELTS y inglés académico: cursos universitarios, certificados y auditoría. Qué cubren y por qué el speaking real sigue necesitando tutor o clases.'
-description: 'Análisis de Coursera/edX para preparar IELTS y exámenes: qué cursos elegir, qué esperar y cómo combinarlos con speaking real en tu plan de mejor curso de inglés online.'
+excerpt: 'Compara cursos de Coursera y edX para IELTS e inglés académico: contenidos, certificados, precios y cómo complementar el speaking con práctica real.'
+description: 'Analiza cursos de Coursera y edX para IELTS y exámenes: qué elegir, qué cubren, sus certificados y cómo combinarlos con speaking real.'
 category: metodos
 readTime: 8 min
 alt: 'Ordenador con plataforma de cursos online universitarios'

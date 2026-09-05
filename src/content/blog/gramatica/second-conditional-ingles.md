@@ -1,14 +1,11 @@
 ---
-title: 'Second Conditional en Inglés: Guía y Ejemplos'
+title: 'Second Conditional en Inglés: Reglas y Ejercicios'
 description: >-
-  Aprende el segundo condicional en inglés con ejemplos cotidianos y
-  profesionales. Cuándo usar "were" en lugar de "was" y cómo dar consejos
-  con "If I were you".
+  Aprende el segundo condicional en inglés: cuándo usar were, cómo dar consejos
+  con If I were you y cómo expresar hipótesis, con reglas y ejercicios.
 readTime: 5 min
 excerpt: >-
-  El segundo condicional no es solo para hablar de ganar la lotería. Te
-  mostramos cómo usarlo para dar consejos, hacer peticiones corteses y
-  expresar hipótesis en situaciones reales de trabajo y conversación.
+  Usa el Second Conditional para consejos, peticiones corteses e hipótesis reales de trabajo y conversación, no solo para hablar de ganar la lotería.
 keywords:
   - Second Conditional en Inglés: Guía y Ejemplos
   - second conditional ingles

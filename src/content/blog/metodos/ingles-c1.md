@@ -3,9 +3,10 @@ category: metodos
 date: '2026-02-07'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Nivel C1 de Inglés: Qué Es y Cómo Alcanzarlo'
+title: 'Nivel C1 de Inglés: Qué Es, Horas y Cómo Alcanzarlo'
 description: >-
-  El C1 es el nivel que piden multinacionales, universidades y la función pública. Te explicamos qué estructuras domina un C1, cuánto tiempo se tarda desde B2...
+  Descubre qué exige el nivel C1 de inglés, cuántas horas necesitas desde B2 y
+  cómo preparar el CAE para estudiar o trabajar con fluidez.
 readTime: 9 min
 keywords:
   - 'Nivel C1 de Inglés: Qué Es y Cómo Alcanzarlo'
