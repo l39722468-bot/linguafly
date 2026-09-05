@@ -1,11 +1,11 @@
 ---
-title: 'Técnica STAR en Inglés: Respuestas y Ejemplos'
+title: 'Técnica STAR en Inglés: Respuestas para Entrevistas'
 description: >-
-  Aprende la técnica STAR para responder entrevistas en inglés con estructura,
+  Aprende la técnica STAR para responder entrevistas en inglés con una estructura,
   frases y ejemplos para preguntas de comportamiento.
 readTime: 6 min
 excerpt: >-
-  Responde preguntas de comportamiento en inglés con la técnica STAR: estructura, frases y ejemplos para no improvisar.
+  Responde preguntas de comportamiento en inglés con la técnica STAR: estructura, frases y ejemplos para preparar tus respuestas.
 keywords:
   - técnica STAR entrevista inglés ejemplos frases
   - STAR method entrevista trabajo inglés preguntas comportamiento
