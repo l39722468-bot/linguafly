@@ -4,7 +4,8 @@ date: '2026-03-21'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Will para el futuro en inglés: predicciones, expectativas y hechos futuros. Aprende cuándo usar will y cuándo preferir going to o el Present Continuous para...
+  Aprende a usar will para predicciones y decisiones futuras, y descubre cuándo
+  elegir going to o present continuous con ejemplos claros.
 category: gramatica
 alt: Estudiante aprendiendo el futuro con will en inglés
 readTime: 8 min

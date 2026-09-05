@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Rutinas Diarias y la Hora en Inglés (A1): What Time…? y at + Time'
+title: 'Rutinas Diarias y la Hora en Inglés A1'
 description: >-
-  Aprende rutinas diarias en inglés A1, What time do you…?, at + hora, o'clock y
-  half past. Guía Unidad 10 con ejemplos, audios y ejercicios prácticos.
+  Aprende rutinas diarias y cómo decir la hora en inglés A1 con What time,
+  at, o'clock, half past, ejemplos, audio y ejercicios.
 readTime: 15 min
 keywords:
   - rutinas diarias en inglés para principiantes A1

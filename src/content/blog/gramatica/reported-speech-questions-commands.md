@@ -5,9 +5,8 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 title: 'Reported Speech: Preguntas, Órdenes y Peticiones'
 description: >-
-  Guía completa sobre cómo reportar preguntas (interrogativas) y órdenes
-  (imperativos) en inglés. Aprende a usar 'if/whether', 'ask' y estructuras de
-  infinitivo.
+  Aprende reported speech para preguntas, órdenes y peticiones en inglés con
+  if, whether, ask, tell y estructuras de infinitivo.
 readTime: 4 min
 keywords:
   - 'Reported Speech: Preguntas, Órdenes y Peticiones'

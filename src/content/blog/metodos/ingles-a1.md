@@ -5,7 +5,8 @@ updatedDate: '2026-08-31'
 author: linguafly-team
 title: 'Inglés A1: Guía para Empezar desde Cero'
 description: >-
-  ¿Quieres aprender inglés pero no sabes por dónde empezar? Nuestra guía de nivel A1 te da las herramientas esenciales para construir una base sólida y perder...
+  Aprende inglés A1 desde cero con un plan claro de estudio, vocabulario básico,
+  gramática esencial y recursos gratuitos para empezar con confianza.
 readTime: 3 min
 keywords:
   - 'Inglés A1: Guía para Empezar desde Cero'
