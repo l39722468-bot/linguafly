@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-12'
 updatedDate: '2026-08-12'
 author: linguafly-team
-title: 'Would Like vs Like A2: Diferencias, Usos y Ejemplos'
+title: 'Would Like vs Like A2: Diferencias y Ejemplos'
 description: >-
   Distingue I like, I'd like y Would you like para gustos, deseos y peticiones
-  educadas, con reglas, diálogos y ejercicios de inglés A2.
+  educadas, con reglas, diálogos y ejercicios prácticos de inglés A2.
 readTime: 15 min
 keywords:
   - would like vs like
