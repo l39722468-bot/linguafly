@@ -1,13 +1,10 @@
 ---
-title: 'Inglés para Alquilar un Coche en el Extranjero'
+title: 'Inglés para Alquilar un Coche: Frases y Vocabulario'
 description: >-
-  Guía completa del inglés que necesitas para alquilar un coche fuera: vocabulario del mostrador, seguros, combustible, extras, gasolinera, conducir por el...
+  Aprende el inglés para alquilar un coche: vocabulario del mostrador, seguros, combustible, extras y frases para conducir en el extranjero.
 readTime: 12 min
 excerpt: >-
-  Alquilar un coche en Irlanda, Escocia, Estados Unidos o Australia exige un
-  inglés muy concreto: seguros, franquicias, gasolineras distintas, tráfico por
-  la izquierda. Esta guía reúne el vocabulario y las frases que marcan la
-  diferencia.
+  Alquilar un coche en Irlanda, Escocia, Estados Unidos o Australia exige vocabulario de seguros, franquicias, combustible y tráfico.
 keywords:
   - Inglés para Alquilar un Coche en el Extranjero
   - ingles alquilar coche

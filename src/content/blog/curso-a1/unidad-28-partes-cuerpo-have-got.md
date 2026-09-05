@@ -3,11 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Body Parts A1: have/has got, this/these y partes del cuerpo'
+title: 'Partes del Cuerpo A1: Have Got, This/These y Vocabulario'
 description: >-
   Aprende partes del cuerpo en inglés A1 con have got / has got, this/these y
-  vocabulario head, arms, legs, hands, feet, face. Guía Unidad 28 con audios y
-  ejercicios.
+  vocabulario head, arms, legs, hands, feet y face, con ejemplos y ejercicios.
 readTime: 15 min
 keywords:
   - body parts A1

@@ -3,11 +3,10 @@ category: curso-a2
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Past Simple A2: verbos regulares (-ed), yesterday, last week y ago'
+title: 'Past Simple A2: Verbos Regulares, Yesterday y Ago'
 description: >-
   Aprende el Past Simple con verbos regulares en inglés A2: walked, visited,
-  played, finished; yesterday, last week y ago. Guía Unidad 2 con audios y
-  ejercicios.
+  played, finished; yesterday, last week y ago, con ejemplos y ejercicios.
 readTime: 15 min
 keywords:
   - past simple verbos regulares A2

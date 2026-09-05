@@ -1,10 +1,10 @@
 ---
-title: 'Open English 2026: Opiniones, Precios y Exámenes'
+title: 'Open English 2026: Opiniones, Precios e IELTS'
 date: '2026-04-15'
 updatedDate: '2026-09-04'
 author: linguafly-team
-excerpt: 'Open English: clases en vivo y foco hispanohablante. Precios orientativos, límites para IELTS/Cambridge y qué combinar si necesitas certificación oficial.'
-description: 'Review Open English como curso de inglés online: metodología, fortalezas regionales, preparación para exámenes oficiales y enlaces al hub comparativo.'
+excerpt: 'Open English: clases en vivo para hispanohablantes, precios orientativos y límites para IELTS o Cambridge. Descubre qué combinar para certificarte.'
+description: 'Review Open English: metodología, fortalezas regionales, preparación para IELTS o Cambridge y alternativas para lograr una certificación oficial.'
 category: metodos
 readTime: 8 min
 alt: 'Estudiante hispano en clase de inglés online'
