@@ -1,12 +1,11 @@
 ---
-title: 'Apps para Aprender Inglés: Gratis o de Pago'
+title: 'Apps para Aprender Inglés: Gratis vs. Pago'
 description: >-
-  Duolingo gratis llega hasta B1 pero no más. Babbel mejora el speaking, Busuu tiene correcciones reales. ¿Cuándo compensa pagar?
+  Compara apps para aprender inglés gratis y de pago: Duolingo, Babbel y Busuu,
+  sus niveles, funciones y cuándo compensa pagar.
 readTime: 5 min
 excerpt: >-
-  ¿Cuándo compensa pagar por una app de inglés? Analizamos qué diferencia real
-  hay entre apps gratuitas y de suscripción para cada nivel, con datos reales
-  de progresión y un veredicto honesto sobre cuándo merece la pena el gasto.
+  Compara apps gratuitas y de pago para aprender inglés: diferencias por nivel, funciones, progresión y cuándo merece la pena pagar una suscripción.
 keywords:
   - apps inglés gratis vs pago diferencias
   - cuándo pagar suscripción app aprender inglés

@@ -1,13 +1,13 @@
 ---
-title: 'Vocales del Inglés Americano: 15 Sonidos y Práctica'
+title: 'Vocales del Inglés Americano: 15 Sonidos y Ejercicios'
 date: '2026-03-11'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Aprende los 15 sonidos vocálicos del inglés americano con ejercicios para
-  hispanohablantes y consejos para mejorar tu pronunciación.
+  Aprende los 15 sonidos vocálicos del inglés americano con ejemplos y ejercicios
+  para hispanohablantes que quieren mejorar su pronunciación.
 excerpt: >-
-  El inglés americano tiene hasta 15 vocales distintas en algunas variedades. El español tiene 5. Esa diferencia explica buena parte de los problemas de pronunciación que tienen los hispanohablantes. Aquí te cuento cuáles son las más problemáticas y cómo trabajarlas.
+  Aprende los 15 sonidos vocálicos del inglés americano y descubre cuáles suelen costar más a los hispanohablantes, con ejemplos y práctica guiada.
 category: gramatica
 readTime: 8 min
 alt: Diagrama de las vocales del inglés americano
