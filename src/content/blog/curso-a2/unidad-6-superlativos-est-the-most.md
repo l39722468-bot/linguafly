@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Superlativos en Inglés A2: -est, The Most y Ejercicios'
+title: 'Superlativos en Inglés A2: -est, The Most y Ejemplos'
 description: >-
   Aprende superlativos en inglés A2: the tallest, the most beautiful, the best y
-  the worst, con reglas, audio y ejercicios de la Unidad 6.
+  the worst, con reglas, audio y ejercicios prácticos de la Unidad 6.
 readTime: 15 min
 keywords:
   - superlativos inglés A2

@@ -3,9 +3,10 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Repaso B1 Unidades 51–54: Conditionals, Passive, Modals & Tenses'
+title: 'Repaso B1 Unidades 51–54: Conditionals y Passive'
 description: >-
-  Repaso integrado B1 de las Unidades 51 a 54: condicionales, voz pasiva y reported speech, modales y tiempos verbales, con diagnóstico mixto, vocabulario...
+  Repaso integrado B1 de las Unidades 51 a 54: condicionales, voz pasiva, reported
+  speech, modales y tiempos verbales, con diagnóstico y ejercicios.
 readTime: 19 min
 keywords:
   - repaso B1 51-54

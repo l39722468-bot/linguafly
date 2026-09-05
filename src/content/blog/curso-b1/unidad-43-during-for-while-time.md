@@ -3,9 +3,10 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'During, For y While en Inglés B1: Diferencias'
+title: 'During, For y While en Inglés B1: Usos y Diferencias'
 description: >-
-  Domina la diferencia entre during, for y while en inglés B1: cuándo va un sustantivo, cuándo una duración y cuándo una oración completa, con vocabulario de...
+  Domina during, for y while en inglés B1: sustantivo, duración u oración completa,
+  con vocabulario, ejemplos y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - During, For y While en Inglés B1: Diferencias

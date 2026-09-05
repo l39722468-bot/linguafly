@@ -6,7 +6,7 @@ author: linguafly-team
 title: 'Modales de Deducción B2: Must Have, Might Have y Can’t Have'
 description: >-
   Aprende modales de deducción B2 en pasado: must have, might have y can't have,
-  con vocabulario de business, ejemplos y ejercicios de la Unidad 14.
+  con vocabulario de business, ejemplos y ejercicios prácticos de la Unidad 14.
 readTime: 43 min
 keywords:
   - Ejercicios de Modales de Deducción en Inglés B2
