@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Deportes y Hobbies A1: Play, Go, Do'
+title: 'Ejercicios Deportes y Hobbies A1: Play, Go y Do'
 description: >-
-  Practica play football, go swimming y do yoga en inglés A1, con deportes,
-  hobbies, reading, listening, writing y soluciones explicadas.
+  Practica play football, go swimming y do yoga en inglés A1 con deportes,
+  hobbies, reading, listening, writing y respuestas explicadas.
 readTime: 25 min
 keywords:
   - Ejercicios de Deportes y Aficiones en Inglés A1

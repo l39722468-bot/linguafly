@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-17'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Saludos A1: Presentaciones y Soluciones'
+title: 'Ejercicios de Saludos A1: Presentaciones y Respuestas'
 description: >-
   Practica saludos y presentaciones en inglés A1 con to be, reading, listening,
-  writing y soluciones comentadas de la Unidad 1.
+  writing y respuestas comentadas de la Unidad 1.
 readTime: 25 min
 keywords:
   - Ejercicios de Saludos en Inglés A1 con Soluciones
