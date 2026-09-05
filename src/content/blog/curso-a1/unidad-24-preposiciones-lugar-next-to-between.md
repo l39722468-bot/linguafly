@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Preposiciones de Lugar A1: Next To, Between y Opposite'
+title: 'Preposiciones de Lugar A1: Next to, Between y Ejercicios'
 description: >-
   Aprende preposiciones de lugar A1 como next to, between, in front of y
-  opposite con ejemplos, audio y ejercicios prácticos.
+  opposite con ejemplos, audio y ejercicios prácticos paso a paso.
 readTime: 15 min
 keywords:
   - preposiciones de lugar A1

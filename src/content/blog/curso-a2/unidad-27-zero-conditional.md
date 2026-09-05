@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-11'
 updatedDate: '2026-08-11'
 author: linguafly-team
-title: 'Zero Conditional A2: Reglas, Ejemplos y Ejercicios'
+title: 'Zero Conditional A2: If + Present Simple y Ejemplos'
 description: >-
-  Aprende el Zero Conditional A2 con if + present simple, hechos generales,
-  rutinas, ejemplos, audio y ejercicios prácticos.
+  Aprende el Zero Conditional A2 con if + present simple para hechos generales,
+  rutinas y resultados, con reglas, ejemplos, audio y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - Zero Conditional A2

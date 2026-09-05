@@ -3,9 +3,9 @@ category: curso-a1
 date: '2026-07-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Verbo To Be A1: Pronombres, Países y Nacionalidades'
+title: 'Verbo To Be A1: Tabla, Pronombres y Ejemplos'
 description: >-
-  Aprende el verbo to be A1 con he, she, it, we y they, además de países,
+  Aprende el verbo to be A1 con tabla de am, is y are, pronombres, países,
   nacionalidades y ejemplos prácticos para principiantes.
 readTime: 15 min
 keywords:

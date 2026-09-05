@@ -1,13 +1,11 @@
 ---
-title: 'Entrevista Virtual en Inglés: Guía para Videollamadas'
+title: 'Entrevista Virtual en Inglés: Preguntas y Consejos'
 description: >-
-  Prepárate para una entrevista virtual en inglés: setup técnico, lenguaje
-  corporal, vocabulario y cómo resolver problemas durante la videollamada.
+  Prepárate para una entrevista virtual en inglés con preguntas, respuestas,
+  vocabulario, lenguaje corporal y consejos para la videollamada.
 readTime: 5 min
 excerpt: >-
-  Una entrevista virtual en inglés tiene sus propias reglas. El contenido de
-  tus respuestas importa igual, pero el setup, la cámara y cómo gestionas
-  los problemas técnicos también forman parte de la evaluación.
+  Prepárate para una entrevista de trabajo virtual en inglés: respuestas, cámara, lenguaje corporal y frases para resolver problemas técnicos.
 keywords:
   - entrevista virtual inglés videollamada zoom teams
   - entrevista trabajo online inglés setup cámara

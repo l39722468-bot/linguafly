@@ -1,8 +1,8 @@
 ---
-title: 'Listening C1 Advanced: Cómo Mejorar tu Nota en el CAE'
-description: "Mejora el Listening del C1 Advanced con estrategias para sus cuatro partes, práctica eficaz y errores frecuentes que reducen tu nota."
+title: 'Listening CAE: Estrategias para Mejorar tu Nota'
+description: "Mejora el Listening del CAE con estrategias para sus cuatro partes, práctica eficaz, toma de notas y errores frecuentes que reducen tu nota."
 readTime: 7 min
-excerpt: "El Listening del CAE sorprende a muchos candidatos porque los audios son más rápidos y complejos de lo que esperaban. Con la preparación adecuada, puede convertirse en una de tus partes más fuertes."
+excerpt: "Prepara el Listening del CAE con estrategias para las cuatro partes, consejos para tomar notas, práctica eficaz y técnicas para entender audios rápidos y complejos."
 keywords:
   - 'Listening C1 Advanced: Estrategias para el CAE'
   - listening c1 advanced trucos

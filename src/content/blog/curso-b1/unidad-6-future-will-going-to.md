@@ -4,12 +4,12 @@ author: linguafly-team
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-6-future-will-going-to'
 category: curso-b1
 date: '2026-08-17'
+title: 'Futuro en Inglés B1: Will, Going to y Present Continuous'
 description: >-
-  Aprende a usar will, going to y present continuous para hablar del futuro B1:
-  predicciones, planes, intenciones, arreglos y horarios.
+  Aprende el futuro en inglés B1 con will, going to y present continuous:
+  predicciones, planes, intenciones, arreglos y horarios con ejemplos y ejercicios.
 excerpt: >-
-  Guía completa de la Unidad 6 del curso B1: will, going to y present continuous para el futuro, con
-  vocabulario de travel y el viaje a Tokio, reading, diálogo y ejercicios.
+  Guía del futuro en inglés B1: diferencias entre will, going to y present continuous, con vocabulario de travel, reading, diálogo y ejercicios.
 faqs:
   - question: ¿Cuándo debo usar will para hablar del futuro?
     answer: >-
@@ -60,7 +60,6 @@ related_routes:
   - unidad-5-repaso-1-4
   - will-ejercicios-ingles
   - cursos-online-ingles-b1
-title: "Future B1: will, going to y present continuous (travel)"
 updatedDate: '2026-08-31'
 ---
 
