@@ -3,11 +3,10 @@ category: curso-a1
 date: '2026-08-17'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Profesiones en Inglés A1 con Soluciones'
+title: 'Ejercicios de Profesiones A1: Jobs y Soluciones'
 description: >-
-  Practica todos los ejercicios de la Unidad 9 del curso A1: profesiones, a/an,
-  Where do you work?, reading de Laura, listening de Tom y writing. Con
-  soluciones comentadas.
+  Practica profesiones en inglés A1, a/an y Where do you work?, con reading,
+  listening, writing y soluciones comentadas de la Unidad 9.
 readTime: 25 min
 keywords:
   - Ejercicios de Profesiones en Inglés A1 con Soluciones

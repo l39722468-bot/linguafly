@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Cooking & Recipes A1: First, Then, Finally y verbos de cocina'
+title: 'Recetas en Inglés A1: Verbos y Pasos de Cocina'
 description: >-
-  Aprende a dar instrucciones de cocina en inglés A1 con First, Then, Finally y
-  los verbos cut, mix, fry, boil, bake. Guía Unidad 57 con audios y ejercicios.
+  Aprende recetas e instrucciones de cocina en inglés A1 con First, Then, Finally
+  y verbos como cut, mix, fry, boil y bake, con audio y ejercicios.
 readTime: 15 min
 keywords:
   - cooking recipes A1

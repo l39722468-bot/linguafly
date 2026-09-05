@@ -1,12 +1,11 @@
 ---
-title: 'Condicionales en Inglés en Conversación Real'
+title: 'Condicionales en Inglés para Conversación: Frases'
 description: >-
-  Aprende a usar los condicionales en inglés de forma natural en conversaciones reales. Frases habituales, situaciones del día a día y cómo sonar menos...
+  Aprende a usar condicionales en inglés de forma natural: frases habituales,
+  situaciones cotidianas y trucos para sonar más fluido al conversar.
 readTime: 5 min
 excerpt: >-
-  Saber la gramática de los condicionales es el primer paso. El segundo es
-  usarlos sin que suene a ejercicio de clase. Aquí te damos las frases,
-  situaciones y trucos para que fluyan en conversación real.
+  Usa los condicionales en conversación real con frases, situaciones cotidianas y trucos para que no suenen como un ejercicio de clase.
 keywords:
   - Condicionales en Inglés en Conversación Real
   - condicionales ingles conversacion

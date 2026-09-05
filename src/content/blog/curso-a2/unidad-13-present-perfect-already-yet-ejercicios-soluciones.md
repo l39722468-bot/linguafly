@@ -3,9 +3,10 @@ category: curso-a2
 date: '2026-08-25'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Already y Yet en Inglés A2'
+title: 'Ejercicios Already y Yet A2: Present Perfect'
 description: >-
-  Practica todos los ejercicios de la Unidad 13 del curso A2: already, yet, Have you… yet?, reading, listening y writing. Con soluciones comentadas.
+  Practica already, yet y Have you… yet? con ejercicios de Present Perfect A2,
+  reading, listening, writing y soluciones comentadas.
 readTime: 25 min
 keywords:
   - Ejercicios de Already y Yet en Inglés A2

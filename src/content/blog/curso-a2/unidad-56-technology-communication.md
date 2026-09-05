@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-12'
 updatedDate: '2026-08-12'
 author: linguafly-team
-title: 'Technology & Communication A2: email, download, WiFi'
+title: 'Tecnología y Comunicación en Inglés A2: Vocabulario'
 description: >-
-  Tecnología en inglés A2: send, receive, download, upload; email, website, app,
-  WiFi, password. Guía Unidad 56 con audios y ejercicios.
+  Aprende tecnología y comunicación en inglés A2: email, website, app, WiFi,
+  password, download y upload, con audio y ejercicios.
 readTime: 15 min
 keywords:
   - technology communication A2
