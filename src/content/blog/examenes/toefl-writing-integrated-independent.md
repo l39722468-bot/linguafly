@@ -1,13 +1,11 @@
 ---
-title: 'TOEFL Writing: Integrated y Academic Discussion'
+title: 'TOEFL Writing: Integrated, Discussion y Plantillas'
 description: >-
-  Prepara el TOEFL Writing con Integrated Task y Academic Discussion, estructuras
-  para sacar buena nota, vocabulario y errores frecuentes.
+  Prepara el TOEFL Writing con Integrated Task y Academic Discussion: estructuras,
+  plantillas, vocabulario y errores frecuentes para mejorar tu nota.
 readTime: 13 min
 excerpt: >-
-  El TOEFL Writing evalúa dos habilidades muy distintas en 35 minutos: sintetizar
-  una lectura con un audio y argumentar en un foro académico. Con la estructura
-  adecuada y algo de práctica, un 25/30 es perfectamente alcanzable.
+  Aprende a resolver TOEFL Writing Integrated y Academic Discussion en 35 minutos con plantillas, estructura y estrategias para alcanzar una nota alta.
 keywords:
   - 'TOEFL Writing: Integrated e Independent Explicados'
   - toefl integrated writing

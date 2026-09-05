@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-07'
 updatedDate: '2026-08-07'
 author: linguafly-team
-title: 'Past Simple y Past Continuous A2: When y While'
+title: 'Past Simple y Past Continuous A2: When, While y Ejercicios'
 description: >-
   Aprende a combinar Past Simple y Past Continuous A2 con when y while para
-  describir acciones interrumpidas, con ejemplos y ejercicios.
+  describir acciones interrumpidas, con reglas, ejemplos y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - Past Simple Past Continuous

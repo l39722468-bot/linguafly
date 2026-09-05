@@ -1,11 +1,11 @@
 ---
-title: 'Just, Already y Yet: Present Perfect con Ejemplos'
+title: 'Just, Already y Yet: Present Perfect y Ejercicios'
 date: '2026-02-13'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende a usar just, already y yet con el present perfect: posición, significado,
-  diferencias y errores frecuentes con ejemplos prácticos.
+  Aprende just, already y yet con el present perfect: posición, significado,
+  diferencias y errores frecuentes, con ejemplos y ejercicios prácticos.
 category: gramatica
 alt: Pizarra con ejemplos de just, already y yet con el present perfect
 readTime: 6 min

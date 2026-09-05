@@ -1,11 +1,9 @@
 ---
-title: 'Voz Pasiva en Inglés: Reglas, Tiempos y Ejemplos'
+title: 'Voz Pasiva en Inglés: Reglas, Tiempos y Ejercicios'
 readTime: 6 min
 excerpt: >-
-  ¿Te cuesta entender cuándo y cómo usar la voz pasiva en inglés? En esta guía
-  exhaustiva te enseñamos desde las transformaciones básicas hasta las
-  estructuras avanzadas como las pasivas impersonales y causativas, con ejemplos
-  diseñados para exámenes oficiales.
+  Aprende la voz pasiva en inglés con transformaciones, tiempos verbales, pasivas
+  impersonales y causativas, más ejemplos y ejercicios para exámenes B2-C1.
 keywords:
   - Voz Pasiva en Inglés: Guía Completa y Ejemplos
   - voz pasiva en ingles

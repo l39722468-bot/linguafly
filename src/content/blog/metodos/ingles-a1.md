@@ -3,10 +3,10 @@ category: metodos
 date: '2026-02-07'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Inglés A1: Guía para Empezar desde Cero'
+title: 'Inglés A1 desde Cero: Plan, Temas y Recursos'
 description: >-
-  Aprende inglés A1 desde cero con un plan claro de estudio, vocabulario básico,
-  gramática esencial y recursos gratuitos para empezar con confianza.
+  Aprende inglés A1 desde cero con un plan de estudio, vocabulario básico,
+  gramática esencial y recursos gratuitos para avanzar paso a paso.
 readTime: 3 min
 keywords:
   - 'Inglés A1: Guía para Empezar desde Cero'
