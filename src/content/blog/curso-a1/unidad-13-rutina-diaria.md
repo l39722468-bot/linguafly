@@ -3,11 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Rutina Diaria en Inglés (A1): First, Then, After That y Present Simple'
+title: 'Rutina Diaria en Inglés A1: First, Then y Present Simple'
 description: >-
   Aprende a describir tu rutina diaria en inglés A1 con First, Then, After that,
-  wake up, brush my teeth y go to bed. Guía Unidad 13 con ejemplos, audios y
-  ejercicios.
+  wake up, brush my teeth y go to bed, con ejemplos y ejercicios.
 readTime: 15 min
 keywords:
   - rutina diaria en inglés para principiantes A1

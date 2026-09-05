@@ -3,10 +3,10 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Repaso B1: Voz Pasiva y Reported Speech'
+title: 'Repaso B1: Voz Pasiva, Reported Speech y Ejercicios'
 description: >-
   Repasa voz pasiva y reported speech B1 con reglas, ejemplos y ejercicios de
-  statements, questions, commands, backshift y modales paso a paso.
+  statements, questions, commands, backshift y modales.
 readTime: 19 min
 keywords:
   - passive review B1
