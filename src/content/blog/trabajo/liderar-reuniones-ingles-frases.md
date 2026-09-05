@@ -1,12 +1,10 @@
 ---
-title: 'Cómo Liderar Reuniones en Inglés: Frases Clave'
+title: 'Liderar Reuniones en Inglés: Frases y Estrategias'
 description: >-
-  Guía práctica para liderar reuniones en inglés con profesionalidad: abrir y cerrar, dar la palabra, gestionar desacuerdos, reconducir el debate, tomar...
+  Guía práctica para liderar reuniones en inglés: abrir y cerrar, dar la palabra, gestionar desacuerdos y reconducir el debate con seguridad.
 readTime: 12 min
 excerpt: >-
-  Liderar una reunión en inglés exige algo más que dominar el idioma: hay que
-  saber moverla, cortar digresiones, reconducir debates y dejar cada tema con
-  conclusión y responsable. Estas frases te dan el control sin sonar brusco.
+  Liderar una reunión en inglés exige moverla, reconducir debates y cerrar cada tema con una conclusión y un responsable.
 keywords:
   - 'Cómo Liderar Reuniones en Inglés: Frases Clave'
   - liderar reuniones ingles

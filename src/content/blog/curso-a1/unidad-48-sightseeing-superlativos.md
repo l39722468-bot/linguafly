@@ -3,11 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Sightseeing A1: the most famous, the oldest y guided tours'
+title: 'Sightseeing A1: Superlativos, Monumentos y Tours'
 description: >-
   Aprende superlativos básicos en inglés A1 para turismo: the most famous, the
-  oldest, museum, monument, statue y guided tour. Guía Unidad 48 con audios y
-  ejercicios.
+  oldest, museum, monument, statue y guided tour, con ejemplos y ejercicios.
 readTime: 15 min
 keywords:
   - sightseeing A1

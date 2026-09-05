@@ -3,9 +3,9 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Actividades de Tiempo Libre en Inglés A1'
+title: 'Ejercicios Free Time Activities A1: Ocio y Soluciones'
 description: >-
-  Practica todos los ejercicios de la Unidad 35 del curso A1: go for a walk, go shopping, like + -ing, reading de Mia, listening de free time y writing.
+  Practica la Unidad 35 A1: go for a walk, go shopping, like + -ing, reading, listening y writing, con soluciones comentadas.
 readTime: 25 min
 keywords:
   - Ejercicios de Actividades de Tiempo Libre en Inglés A1

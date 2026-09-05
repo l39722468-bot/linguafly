@@ -3,11 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Present Simple Negativa y Preguntas (A1): don’t y Do you…?'
+title: 'Present Simple A1: Don’t, Do You y Preguntas'
 description: >-
   Aprende la negativa don't y las preguntas Do you…? del Present Simple con I,
-  you, we, they. Guía Unidad 14 A1 con ocio, tareas domésticas, audios y
-  ejercicios.
+  you, we, they, con ejemplos y ejercicios de la Unidad 14 A1.
 readTime: 15 min
 keywords:
   - present simple don't en inglés A1

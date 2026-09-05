@@ -1,11 +1,11 @@
 ---
-title: 'Pasiva Impersonal en Inglés: It Is Said That'
+title: 'Pasiva Impersonal en Inglés: It Is Said That y Ejemplos'
 description: >-
-  Aprende a usar la pasiva impersonal en inglés con verbos como say, believe,
-  think y report. Dos estructuras equivalentes, ejemplos reales y cuándo usarlas.
+  Aprende la pasiva impersonal en inglés con say, believe, think y report:
+  estructuras equivalentes, ejemplos y cuándo usarlas.
 readTime: 5 min
 excerpt: >-
-  Estructura gramatical de la pasiva impersonal en inglés: transformación sintáctica, verbos de opinión y reporting verbs explicados detalladamente.
+  Aprende la pasiva impersonal en inglés con verbos de opinión y reporting verbs explicados paso a paso.
 keywords:
   - 'Pasiva Impersonal en Inglés: It Is Said That'
   - pasiva impersonal ingles
