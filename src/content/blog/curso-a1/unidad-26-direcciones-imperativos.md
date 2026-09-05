@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Cómo Dar Direcciones en Inglés A1: Frases y Ejercicios'
+title: 'Direcciones en Inglés A1: Turn Left, Right y Go Straight'
 description: >-
-  Aprende a dar direcciones en inglés A1: Turn left, Turn right y Go straight,
-  con frases útiles, mapas, audio y ejercicios paso a paso.
+  Aprende a dar direcciones en inglés A1 con Turn left, Turn right y Go straight,
+  frases útiles, mapas, audio y ejercicios paso a paso.
 readTime: 15 min
 keywords:
   - giving directions A1
