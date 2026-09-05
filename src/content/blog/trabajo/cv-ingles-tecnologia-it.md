@@ -1,8 +1,8 @@
 ---
-title: 'CV en Inglés para IT: Guía y Plantilla ATS'
+title: 'CV en Inglés para IT: Plantilla ATS y Ejemplos'
 description: >-
-  Crea un CV en inglés para IT que supere filtros ATS, destaque tus logros y
-  convenza a reclutadores internacionales con una estructura clara.
+  Crea un CV en inglés para IT que supere filtros ATS, destaque logros técnicos y
+  convenza a reclutadores internacionales con una plantilla clara y eficaz.
 readTime: 13 min
 excerpt: >-
   Un CV técnico en inglés no es un CV español traducido. Cambia el orden, el

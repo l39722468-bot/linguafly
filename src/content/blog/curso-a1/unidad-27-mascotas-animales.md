@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Animales en Inglés A1: Pets, Farm y Wild Animals'
+title: 'Animales en Inglés A1: Mascotas, Granja y Salvajes'
 description: >-
   Aprende animales en inglés A1: pets, farm animals y wild animals, con
-  adjetivos como dangerous, friendly y cute, audio y ejercicios.
+  vocabulario, adjetivos, audio y ejercicios sobre mascotas y naturaleza.
 readTime: 15 min
 keywords:
   - pets and animals A1

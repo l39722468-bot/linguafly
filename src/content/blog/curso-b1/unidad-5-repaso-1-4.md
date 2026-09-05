@@ -5,10 +5,10 @@ canonical: 'https://linguafly.app/blog/curso-b1/unidad-5-repaso-1-4'
 category: curso-b1
 date: '2026-08-12'
 description: >-
-  Repasa de forma integrada las Unidades 1–4 del curso B1: Present Perfect Continuous, Past Perfect, Past Simple vs Present Perfect y vocabulario clave.
+  Repasa las Unidades 1–4 del curso B1: tiempos verbales, vocabulario clave,
+  diagnóstico, reading y ejercicios para consolidar tu nivel.
 excerpt: >-
-  Guía completa de la Unidad 5 del curso B1: repaso integrado de Present Perfect Continuous, Past Perfect,
-  Past vs Present Perfect y el texto de Laura, con diagnóstico, reading, diálogo y ejercicios.
+  Repaso B1 de Present Perfect Continuous, Past Perfect y Past vs Present Perfect, con diagnóstico, reading, diálogo y ejercicios de la Unidad 5.
 faqs:
   - question: ¿Qué gramática repasa exactamente la Unidad 5?
     answer: >-

@@ -1,11 +1,11 @@
 ---
-title: "Won't en Inglés: Significado, Usos y Ejemplos"
+title: "Won't en Inglés: Usos, Significado y Ejemplos"
 date: '2026-03-21'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
   Descubre qué significa won't en inglés y cuándo usarlo para negar el futuro,
-  expresar rechazo y hablar de negativas, con ejemplos y ejercicios prácticos.
+  expresar rechazo o hablar de objetos que no funcionan, con ejemplos prácticos.
 category: gramatica
 alt: Estudiante aprendiendo la negación won't en inglés
 readTime: 7 min
