@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Money & Currency A1: pay for, spend on, cash y receipt'
+title: 'Money en Inglés A1: Pay For, Spend On y Vocabulario'
 description: >-
-  Aprende inglés A1 de dinero: pay for, spend on, cash, credit card, change y
-  receipt. Guía Unidad 59 con audios y ejercicios.
+  Aprende dinero en inglés A1: pay for, spend on, cash, credit card, change y
+  receipt, con audio y ejercicios de la Unidad 59.
 readTime: 15 min
 keywords:
   - pay for spend on A1

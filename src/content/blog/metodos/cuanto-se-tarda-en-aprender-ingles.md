@@ -1,11 +1,11 @@
 ---
-title: '¿Cuánto se Tarda en Aprender Inglés? Horas por Nivel'
+title: '¿Cuánto se Tarda en Aprender Inglés? Horas y Niveles'
 description: >-
   Descubre cuántas horas necesitas para pasar de A1 a B2 según el FSI, con
-  tablas por nivel y un plan de estudio semanal para hispanohablantes.
+  tablas por nivel y un plan semanal para hispanohablantes.
 readTime: 5 min
 excerpt: >-
-  ¿Cuánto tardarás en aprender inglés? Consulta horas de A1 a B2, tiempos con una hora diaria y el plan más eficiente para avanzar por niveles.
+  ¿Cuánto tardarás en aprender inglés? Consulta horas de A1 a B2, tiempos con una hora diaria y un plan eficiente para avanzar.
 keywords:
   - ¿Cuánto se Tarda en Aprender Inglés? Guía por Niveles
   - aprender ingles en 6 meses

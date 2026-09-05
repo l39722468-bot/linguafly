@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios And, But y Because A1: Conectores'
+title: 'Ejercicios And, But y Because A1: Conectores y Soluciones'
 description: >-
   Practica and, but y because en inglés A1 para unir ideas, expresar razón y
-  contraste, con reading, listening, writing y soluciones.
+  contraste, con reading, listening, writing y soluciones comentadas.
 readTime: 25 min
 keywords:
   - Ejercicios de And, But y Because en Inglés A1
