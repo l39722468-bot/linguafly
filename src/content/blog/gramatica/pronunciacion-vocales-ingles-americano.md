@@ -1,13 +1,13 @@
 ---
-title: 'Vocales del Inglés Americano: 15 Sonidos y Pronunciación'
+title: 'Vocales del Inglés Americano: 15 Sonidos y Ejemplos'
 date: '2026-03-11'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
   Aprende los 15 sonidos vocálicos del inglés americano con ejemplos y práctica
-  guiada para hispanohablantes que quieren mejorar su pronunciación.
+  guiada para hispanohablantes que quieren mejorar la pronunciación.
 excerpt: >-
-  Aprende los 15 sonidos vocálicos del inglés americano y descubre cuáles suelen costar más a los hispanohablantes con ejemplos prácticos.
+  Aprende los 15 sonidos vocálicos del inglés americano y descubre cuáles cuestan más a los hispanohablantes con ejemplos prácticos.
 category: gramatica
 readTime: 8 min
 alt: Diagrama de las vocales del inglés americano
