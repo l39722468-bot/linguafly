@@ -1,10 +1,11 @@
 ---
-title: 'Expresiones de Tiempo en Reported Speech: Guía'
+title: 'Reported Speech: Expresiones de Tiempo y Lugar'
 date: '2026-02-10'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  En reported speech, las expresiones de tiempo y lugar cambian junto con el verbo. Aprende cuáles cambian, cómo y cuándo no es necesario cambiarlas, con...
+  Aprende cómo cambian today, yesterday, tomorrow, now y here en reported speech,
+  con tabla de equivalencias, ejemplos y casos en los que el cambio es opcional.
 category: gramatica
 alt: Tabla de expresiones de tiempo en reported speech inglés
 readTime: 6 min
@@ -18,7 +19,7 @@ keywords:
   - tabla de cambios temporales en inglés indirecto
   - cómo cambiar now here y this en reported speech
 excerpt: >-
-  Cuando haces backshift del verbo en reported speech, también cambian las expresiones de tiempo y lugar. "Today" se convierte en "that day", "here" en "there", "tomorrow" en "the following day"... pero no siempre. Hay contextos donde estos cambios son opcionales.
+  Tabla práctica de cambios en reported speech: today/that day, here/there y tomorrow/the following day, con ejemplos y excepciones del estilo indirecto.
 faqs:
   - question: ¿Siempre hay que cambiar "today" por "that day" en reported speech?
     answer: >-

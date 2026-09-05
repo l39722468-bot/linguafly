@@ -3,9 +3,10 @@ category: curso-a1
 date: '2026-08-02'
 updatedDate: '2026-08-02'
 author: linguafly-team
-title: 'Familia en Inglés (A1): Posesivos y Genitivo Sajón con Ejercicios'
+title: 'Familia en Inglés A1: Vocabulario, Posesivos y Genitivo'
 description: >-
-  Aprende vocabulario de la familia en inglés A1, adjetivos posesivos (my, your, his, her, our, their) y el genitivo sajón ('s).
+  Aprende vocabulario de la familia en inglés A1, posesivos my, your, his, her,
+  our y their, y el genitivo sajón ('s) con ejemplos y ejercicios.
 readTime: 15 min
 keywords:
   - miembros de la familia en inglés A1

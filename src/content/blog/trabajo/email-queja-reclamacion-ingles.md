@@ -1,13 +1,11 @@
 ---
-title: 'Email de Queja en Inglés: Estructura y Frases'
+title: 'Email de Queja en Inglés: Plantilla y Frases'
 description: >-
-  Aprende a redactar emails de queja y reclamación en inglés de forma profesional
-  y efectiva. Estructura, tono correcto, frases clave y ejemplos completos.
+  Aprende a redactar un email de queja en inglés con plantilla profesional,
+  tono correcto, frases clave y ejemplos para reclamar con eficacia.
 readTime: 5 min
 excerpt: >-
-  Una queja mal redactada en inglés puede sonar agresiva o, al contrario,
-  tan suave que no surte efecto. Aquí tienes la fórmula para que sea firme,
-  profesional y conseguir lo que buscas.
+  Usa esta plantilla de email de queja en inglés para reclamar con firmeza y respeto, explicar el problema y conseguir una solución.
 keywords:
   - Email de Queja en Inglés: Estructura y Frases
   - como escribir queja en ingles

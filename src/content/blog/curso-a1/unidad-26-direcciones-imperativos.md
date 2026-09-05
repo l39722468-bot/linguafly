@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Giving Directions A1: imperativos Turn left, Go straight'
+title: 'Cómo Dar Direcciones en Inglés A1: Frases y Ejercicios'
 description: >-
-  Aprende a dar direcciones en inglés A1 con imperativos: Turn left, Turn right,
-  Go straight, Past the… Guía Unidad 26 con audios, mapas y ejercicios.
+  Aprende a dar direcciones en inglés A1: Turn left, Turn right y Go straight,
+  con frases útiles, mapas, audio y ejercicios paso a paso.
 readTime: 15 min
 keywords:
   - giving directions A1

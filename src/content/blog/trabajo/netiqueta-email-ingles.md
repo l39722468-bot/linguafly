@@ -1,12 +1,11 @@
 ---
-title: 'Netiqueta en Emails en Inglés: Guía Profesional'
+title: 'Netiqueta en Emails en Inglés: Reglas y Ejemplos'
 description: >-
-  Las reglas no escritas de los emails profesionales en inglés. Qué hacer y qué evitar, cómo no sonar rudo sin querer y los errores de netiqueta que cometen...
+  Conoce las reglas de netiqueta en emails profesionales en inglés: qué hacer,
+  qué evitar y cómo sonar claro, cordial y profesional sin errores de tono.
 readTime: 5 min
 excerpt: >-
-  Puedes escribir inglés sin errores gramaticales y aun así sonar maleducado
-  sin saberlo. La netiqueta del email profesional en inglés tiene sus propias
-  reglas, y no siempre son obvias para los hablantes no nativos.
+  Aprende netiqueta de email profesional en inglés para escribir mensajes claros, cordiales y adecuados al tono que esperan los equipos internacionales.
 keywords:
   - 'Netiqueta en Emails en Inglés: Guía Profesional'
   - netiqueta email ingles profesional
