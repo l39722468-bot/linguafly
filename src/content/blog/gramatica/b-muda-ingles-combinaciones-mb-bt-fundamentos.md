@@ -3,10 +3,10 @@ category: gramatica
 date: '2026-04-03'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'B Muda en Inglés: Reglas MB, BT y Pronunciación'
+title: 'B Muda en Inglés: Palabras con MB, BT y Pronunciación'
 description: >-
   Aprende la b muda en inglés con patrones mb y bt, ejemplos como climb, thumb y
-  debt, y consejos para mejorar la pronunciación.
+  debt, y consejos prácticos para mejorar la pronunciación.
 readTime: 22 min
 keywords:
   - 'B Muda en Inglés: Reglas MB y BT con Ejemplos'

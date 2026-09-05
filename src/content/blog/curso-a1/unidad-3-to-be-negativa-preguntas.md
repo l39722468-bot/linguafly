@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-07-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Verbo To Be A1: Negativas, Preguntas y Respuestas'
+title: 'Verbo To Be A1: Negativas, Preguntas y Respuestas Cortas'
 description: >-
   Aprende to be en negativa (am not, isn't, aren't), preguntas sí/no y respuestas
-  cortas en inglés A1, con emociones, ejemplos y ejercicios prácticos.
+  cortas en inglés A1, con emociones, ejemplos y práctica.
 readTime: 15 min
 keywords:
   - verbo to be en negativa inglés A1
