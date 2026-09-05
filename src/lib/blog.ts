@@ -74,9 +74,18 @@ export function normalizeCategory(category: string): string {
 
 type StoredBlogArticle = Omit<BlogPost, "authorData">;
 
+function normalizeKeywords(value: unknown): string[] {
+  if (!Array.isArray(value)) return [];
+  return value
+    .filter((keyword): keyword is string => typeof keyword === "string")
+    .map((keyword) => keyword.trim())
+    .filter(Boolean);
+}
+
 function hydrateStoredArticles(stored: StoredBlogArticle[]): BlogPost[] {
   return stored.map((a) => ({
     ...a,
+    keywords: normalizeKeywords(a.keywords),
     authorData: getAuthor(a.author || "linguafly-team"),
   }));
 }
@@ -122,7 +131,7 @@ function readArticlesFromMarkdown(): BlogPost[] {
             readTime: data.readTime || "5 min",
             image: typeof data.image === "string" && data.image.trim() ? data.image.trim() : undefined,
             alt: data.alt,
-            keywords: data.keywords || [],
+            keywords: normalizeKeywords(data.keywords),
             faqs: data.faqs || [],
             relatedRoutes: Array.isArray(data.related_routes)
               ? data.related_routes.map((r: unknown) => String(r).trim()).filter(Boolean)
