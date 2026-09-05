@@ -1,11 +1,11 @@
 ---
-title: 'Pasiva con Doble Objeto en Inglés: Reglas y Ejemplos'
+title: 'Pasiva con Doble Objeto en Inglés: Cómo Usarla'
 description: >-
   Aprende la voz pasiva con dos objetos: diferencia entre objeto directo e
-  indirecto con give, send, show y offer, con reglas y ejemplos claros.
+  indirecto con give, send, show y offer, con reglas y ejemplos.
 readTime: 5 min
 excerpt: >-
-  Compara “I was given a gift” y “A gift was given to me” y aprende cuándo usar cada estructura en inglés.
+  Compara “I was given a gift” y “A gift was given to me” y aprende cuándo usar cada estructura pasiva en inglés.
 keywords:
   - Pasiva con Doble Objeto en Inglés: Guía y Ejemplos
   - pasiva doble objeto ingles

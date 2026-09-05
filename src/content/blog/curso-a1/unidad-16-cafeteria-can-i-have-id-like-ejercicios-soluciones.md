@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Pedir en una Cafetería A1: Can I Have y Soluciones'
+title: 'Pedir en una Cafetería A1: Can I Have y Ejercicios'
 description: >-
   Practica Can I have…?, I'd like… y Would you like… en una cafetería A1, con
-  vocabulario de bebidas, reading, listening, writing y soluciones comentadas.
+  vocabulario de bebidas, reading, listening, writing y ejercicios con respuestas.
 readTime: 25 min
 keywords:
   - Ejercicios para Pedir en una Cafetería en Inglés A1

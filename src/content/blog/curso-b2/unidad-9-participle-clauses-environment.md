@@ -3,10 +3,10 @@ category: curso-b2
 date: '2026-08-31'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Participle Clauses B2: -ing, -ed y Ejercicios"
+title: "Participle Clauses B2: -ing, -ed y Práctica"
 description: >-
   Aprende participle clauses (-ing, -ed y having + past participle) en inglés B2,
-  con vocabulario de environment, reading, diálogo y audios.
+  con vocabulario de environment, reading, diálogo y práctica guiada.
 readTime: 45 min
 keywords:
   - Ejercicios de Participle Clauses en Inglés B2
