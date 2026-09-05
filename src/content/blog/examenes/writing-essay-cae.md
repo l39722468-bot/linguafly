@@ -1,11 +1,11 @@
 ---
-title: 'Essay del CAE: Estructura, Conectores y Vocabulario'
+title: 'Essay del CAE: Estructura, Conectores y Ejemplos'
 description: >-
   Aprende a escribir el essay del C1 Advanced con estructura, conectores,
-  vocabulario, ejemplos de argumentos y errores que reducen tu nota.
+  vocabulario, ejemplos de argumentos y consejos para subir nota.
 
 readTime: 8 min
-excerpt: "Aprende la estructura del essay del CAE, conectores y vocabulario que buscan los examinadores, con ejemplos y errores frecuentes que bajan la nota."
+excerpt: "Aprende la estructura del essay del CAE, conectores y vocabulario que buscan los examinadores, con ejemplos y consejos para subir nota."
 keywords:
   - Essay del CAE: Estructura, Consejos y Ejemplos
   - como escribir essay c1 advanced
