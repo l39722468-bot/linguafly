@@ -1,13 +1,10 @@
 ---
-title: 'Acento Irlandés en Inglés: Rasgos y Comprensión'
+title: 'Acento Irlandés en Inglés: Rasgos, Sonidos y Comprensión'
 description: >-
-  Guía completa del inglés irlandés: características fonéticas del acento irlandés, diferencias entre Dublin, Cork y Galway, vocabulario propio y cómo...
+  Guía del inglés irlandés: rasgos fonéticos, diferencias entre Dublin, Cork y Galway, vocabulario propio y consejos para entenderlo.
 readTime: 9 min
 excerpt: >-
-  El inglés de Irlanda tiene una musicalidad y unas características fonéticas
-  que lo hacen inconfundible. Si alguna vez has tenido que pedirle a un irlandés
-  que repita lo que acaba de decir, esta guía te explica por qué y qué puedes
-  hacer al respecto.
+  El inglés de Irlanda tiene una musicalidad y rasgos fonéticos propios. Aprende por qué cuesta entenderlo y cómo mejorar tu comprensión.
 keywords:
   - 'Acento Irlandés en Inglés: Rasgos y Comprensión'
   - acento irlandés inglés

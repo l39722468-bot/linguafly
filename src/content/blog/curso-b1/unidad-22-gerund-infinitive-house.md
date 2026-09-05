@@ -3,9 +3,9 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Gerund vs Infinitive (2) B1 + House & Home'
+title: 'Gerund vs Infinitive B1: Like, Remember, Try y Casa'
 description: >-
-  like/love/prefer y remember/forget/try en inglés B1, con vocabulario de casa y hogar. Guía completa de la Unidad 22 con explicaciones, tablas, audios,...
+  Aprende like/love/prefer y remember/forget/try en inglés B1, con vocabulario de casa y hogar, tablas, ejemplos y ejercicios.
 readTime: 20 min
 keywords:
   - remember to vs ing
