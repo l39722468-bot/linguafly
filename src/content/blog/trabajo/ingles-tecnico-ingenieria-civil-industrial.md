@@ -1,11 +1,11 @@
 ---
-title: 'Inglés Técnico para Ingeniería: Vocabulario y Frases Clave'
+title: 'Inglés Técnico para Ingeniería: Vocabulario Esencial'
 date: '2026-03-04'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
   Aprende inglés técnico para ingeniería civil e industrial con vocabulario,
-  frases clave y ejemplos sobre planos, materiales, seguridad, obra y reuniones.
+  frases y ejemplos sobre planos, materiales, seguridad, obra y reuniones.
 category: trabajo
 alt: Ingenieros civiles revisando planos de construcción en un proyecto internacional
 canonical: >-

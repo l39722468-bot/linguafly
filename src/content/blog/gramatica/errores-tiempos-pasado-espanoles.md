@@ -1,11 +1,11 @@
 ---
-title: 'Errores de Tiempos Pasados en Inglés: Guía y Ejemplos'
+title: 'Errores de Tiempos Pasados en Inglés: Cómo Evitarlos'
 date: '2026-03-03'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
   Evita errores de hispanohablantes con Past Simple, Present Perfect, Past
-  Continuous y Past Perfect mediante correcciones y ejercicios.
+  Continuous y Past Perfect mediante ejemplos corregidos y ejercicios.
 category: gramatica
 alt: Persona corrigiendo errores gramaticales en tiempos de pasado en inglés
 readTime: 7 min
@@ -19,7 +19,7 @@ keywords:
   - cómo corregir errores del pasado en inglés
   - past continuous y past simple errores comunes
 excerpt: >-
-  Corrige errores frecuentes de hispanohablantes con Past Simple, Present Perfect, Past Continuous y Past Perfect mediante ejemplos y ejercicios.
+  Corrige errores frecuentes con Past Simple, Present Perfect, Past Continuous y Past Perfect mediante ejemplos claros y ejercicios.
 faqs:
   - question: ¿Por qué los hispanohablantes confunden tanto el present perfect con el past simple?
     answer: >-
