@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-12'
 updatedDate: '2026-08-12'
 author: linguafly-team
-title: 'Making Suggestions A2: Cómo Hacer Sugerencias'
+title: 'Making Suggestions A2: Frases para Hacer Sugerencias'
 description: >-
   Aprende a hacer sugerencias A2 con Shall we, Let's, Why don't we, How about y
-  Would you like to, con audio y ejercicios.
+  Would you like to, con ejemplos, audio y ejercicios.
 readTime: 15 min
 keywords:
   - making suggestions A2

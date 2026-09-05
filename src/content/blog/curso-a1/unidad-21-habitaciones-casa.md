@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Habitaciones de la Casa en Inglés A1: Rooms y Adjetivos'
+title: 'Habitaciones de la Casa en Inglés A1: Rooms y Vocabulario'
 description: >-
   Aprende habitaciones de la casa en inglés A1: kitchen, living room, bedroom y
-  bathroom, con plurales, adjetivos, audio y ejercicios.
+  bathroom, con vocabulario, plurales, audio y ejercicios.
 readTime: 15 min
 keywords:
   - rooms in a house English

@@ -4,12 +4,12 @@ author: linguafly-team
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-1-repaso-a2-b1'
 category: curso-b1
 date: '2026-08-12'
-title: 'Repaso A2-B1: Gramática, Vocabulario y Ejercicios'
+title: 'Repaso A2-B1: Gramática, Vocabulario y Plan de Estudio'
 description: >-
   Empieza B1 con un repaso A2 completo: Present Perfect, comparativos, modales,
-  relative clauses, used to y vocabulario de feelings, con ejercicios.
+  relative clauses, used to y feelings, con plan de estudio y ejercicios.
 excerpt: >-
-  Repaso A2-B1 de Present Perfect, modales, used to, who/which y feelings, con reading, plan de práctica y ejercicios de la Unidad 1.
+  Repaso A2-B1 de Present Perfect, modales, used to, who/which y feelings, con reading y ejercicios de la Unidad 1.
 faqs:
   - question: ¿Qué se repasa exactamente en la Unidad 1 del curso B1?
     answer: >-
