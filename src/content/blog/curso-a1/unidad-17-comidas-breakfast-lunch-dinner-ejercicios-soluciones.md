@@ -3,9 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Comidas en Inglés A1: Breakfast y Dinner'
+title: 'Ejercicios de Comida en Inglés A1: Breakfast y Dinner'
 description: >-
-  Practica todos los ejercicios de la Unidad 17 del curso A1: have breakfast, like/love/hate + comida, contables e incontables, reading de Leo, listening...
+  Practica vocabulario de comida en inglés A1 con breakfast, lunch y dinner,
+  ejercicios, soluciones comentadas, reading, listening y writing.
 readTime: 25 min
 keywords:
   - Ejercicios de Comidas en Inglés A1: Breakfast y Dinner

@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-11'
 updatedDate: '2026-08-11'
 author: linguafly-team
-title: 'Zero Conditional A2: If you heat water, it boils'
+title: 'Zero Conditional A2: Reglas, Ejemplos y Ejercicios'
 description: >-
-  Aprende el Zero Conditional en inglés A2: If + Present Simple, Present Simple.
-  Hechos generales y rutinas. Guía Unidad 27 con audios y ejercicios.
+  Aprende el Zero Conditional A2 con if + present simple, hechos generales,
+  rutinas, ejemplos, audio y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - Zero Conditional A2
