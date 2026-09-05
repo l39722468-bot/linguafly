@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-05'
 updatedDate: '2026-08-05'
 author: linguafly-team
-title: 'Present Perfect A2: already y yet (I have already… / I haven’t… yet)'
+title: 'Present Perfect A2: Already, Yet y Ejercicios'
 description: >-
-  Aprende already y yet con Present Perfect en inglés A2: lo ya hecho y lo que
-  aún falta. Guía Unidad 13 con audios, posición y ejercicios.
+  Aprende already y yet con Present Perfect A2: posición, significado y ejemplos
+  para hablar de lo ya hecho y lo que aún falta, con audio y ejercicios.
 readTime: 15 min
 keywords:
   - Present Perfect already yet

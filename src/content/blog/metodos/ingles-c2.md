@@ -3,10 +3,10 @@ category: metodos
 date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Nivel C2 de Inglés: Qué Significa y Cómo Lograrlo'
+title: 'Nivel C2 de Inglés: Qué Es, Horas y Cómo Alcanzarlo'
 description: >-
-  Descubre qué significa tener nivel C2 de inglés, qué diferencia hay con C1,
-  cuánto estudiar y cómo preparar el CPE de Cambridge.
+  Descubre qué significa tener nivel C2 de inglés, sus diferencias con C1, horas
+  de estudio y cómo preparar el CPE de Cambridge paso a paso.
 readTime: 9 min
 keywords:
   - 'Nivel C2 de Inglés: Qué Es y Cómo Alcanzarlo'

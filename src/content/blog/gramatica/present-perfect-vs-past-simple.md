@@ -1,13 +1,11 @@
 ---
-title: 'Present Perfect vs Past Simple: Diferencias Claras'
+title: 'Present Perfect vs Past Simple: Reglas y Ejemplos'
 description: >-
   Aprende cuándo usar Present Perfect y Past Simple con marcadores temporales,
-  ejemplos y correcciones de errores frecuentes.
+  reglas, ejemplos y correcciones de errores frecuentes.
 readTime: 4 min
 excerpt: >-
-  ¿Dudas entre el Present Perfect y el Past Simple? En este artículo te
-  explicamos las reglas de nivel Cambridge, los marcadores temporales y ejemplos
-  prácticos para dominarlos.
+  Present Perfect o Past Simple: compara reglas, marcadores temporales y ejemplos prácticos para dejar de confundirlos en inglés.
 keywords:
   - Present Perfect vs Past Simple: Diferencias y Uso
   - difference between present perfect and past simple
