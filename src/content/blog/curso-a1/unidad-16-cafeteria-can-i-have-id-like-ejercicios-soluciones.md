@@ -3,9 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Pedir en una Cafetería en Inglés A1: Ejercicios'
+title: 'Pedir en una Cafetería A1: Can I Have y Soluciones'
 description: >-
-  Practica todos los ejercicios de la Unidad 16 del curso A1: Can I have…?, I'd like…, Would you like…?, bebidas y snacks, reading de Cafe Sunny, listening de...
+  Practica Can I have…?, I'd like… y Would you like… en una cafetería A1, con
+  vocabulario de bebidas, reading, listening, writing y soluciones comentadas.
 readTime: 25 min
 keywords:
   - Ejercicios para Pedir en una Cafetería en Inglés A1

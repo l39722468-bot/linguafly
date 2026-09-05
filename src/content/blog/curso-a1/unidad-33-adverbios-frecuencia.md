@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Adverbios de Frecuencia A1: Reglas y Ejercicios'
+title: 'Adverbios de Frecuencia A1: Always, Usually y Never'
 description: >-
   Aprende always, usually, often, sometimes y never en inglés A1, su posición
-  con Present Simple y be, y practica con audios, esquemas y ejercicios.
+  con Present Simple y be, con audios, esquemas y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - adverbios de frecuencia inglés A1

@@ -6,7 +6,7 @@ author: linguafly-team
 title: 'Ropa en Inglés A1: Clothes y Present Continuous'
 description: >-
   Aprende ropa en inglés A1 con Present Continuous: I am wearing a shirt,
-  trousers, dress, shoes, hat, jacket. Guía Unidad 29 con audios y ejercicios.
+  trousers, dress, shoes, hat y jacket, con audio y ejercicios.
 readTime: 15 min
 keywords:
   - clothes A1
