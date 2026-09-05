@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-07-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Verbo To Be A1: Tabla, Pronombres y Nacionalidades'
+title: 'Verbo To Be A1: Tabla de Am, Is, Are y Ejemplos'
 description: >-
   Aprende el verbo to be A1 con tabla de am, is y are, pronombres, países y
-  nacionalidades, más ejemplos prácticos para principiantes.
+  nacionalidades, con ejemplos prácticos para principiantes.
 readTime: 15 min
 keywords:
   - verbo to be en inglés A1 explicado

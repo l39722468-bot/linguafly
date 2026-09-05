@@ -1,8 +1,8 @@
 ---
-title: 'Listening CAE: Estrategias y Consejos para el Examen'
-description: "Mejora el Listening del CAE con estrategias para sus cuatro partes, práctica eficaz, toma de notas y errores frecuentes que reducen tu nota."
+title: 'Listening CAE: Estrategias y Consejos para Subir Nota'
+description: "Mejora el Listening del CAE con estrategias para sus cuatro partes, práctica eficaz, toma de notas y errores frecuentes del examen."
 readTime: 7 min
-excerpt: "Prepara el Listening del CAE con estrategias para las cuatro partes, consejos para tomar notas y técnicas para entender audios rápidos y complejos."
+excerpt: "Prepara el Listening del CAE con estrategias para las cuatro partes, consejos para tomar notas y técnicas para entender audios complejos."
 keywords:
   - 'Listening C1 Advanced: Estrategias para el CAE'
   - listening c1 advanced trucos
