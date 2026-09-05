@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Rutinas Diarias en Inglés A1: Cómo Decir la Hora'
+title: 'Rutinas Diarias en Inglés A1: Hora y Actividades'
 description: >-
   Aprende rutinas diarias y cómo decir la hora en inglés A1 con What time, at,
-  o'clock y half past, más vocabulario, audio y ejercicios.
+  o'clock y half past, más vocabulario y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - rutinas diarias en inglés para principiantes A1
