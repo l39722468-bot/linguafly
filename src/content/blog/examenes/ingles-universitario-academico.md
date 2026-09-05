@@ -5,9 +5,9 @@ updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
   Mejora tu inglés académico universitario para escribir ensayos, leer artículos,
-  participar en seminarios y comunicarte con profesores.
+  participar en seminarios y comunicarte con profesores, con vocabulario útil.
 excerpt: >-
-  Todo sobre el inglés académico universitario: cómo escribir ensayos, participar en seminarios, leer artículos científicos y comunicarte con profesores. Guía esencial para estudiantes hispanohablantes.
+  Guía de inglés académico universitario para escribir ensayos, participar en seminarios, leer artículos científicos y comunicarte con profesores.
 category: examenes
 readTime: 17 min
 alt: Estudiante universitario tomando apuntes en una biblioteca con libros en inglés

@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-01'
 updatedDate: '2026-08-01'
 author: linguafly-team
-title: 'Present Simple A1: Reglas, Rutinas y Ejercicios'
+title: 'Present Simple A1: Reglas, Rutinas y Ejemplos'
 description: >-
   Aprende el Present Simple afirmativo en inglés A1: rutinas, verbos frecuentes y
-  la regla de la tercera persona (-s), con ejemplos y ejercicios.
+  la regla de la tercera persona (-s), con ejemplos y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - present simple en inglés A1 explicado

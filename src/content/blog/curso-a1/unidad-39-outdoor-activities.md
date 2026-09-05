@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Actividades al Aire Libre A1: Vocabulario y Planes'
+title: 'Actividades al Aire Libre A1: Outdoor Activities'
 description: >-
   Aprende outdoor activities en inglés A1 y usa el present continuous para planes
   como camping, hiking, cycling y fishing, con vocabulario, audio y ejercicios.
