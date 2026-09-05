@@ -1,5 +1,5 @@
 ---
-title: 'Mejores Canales de YouTube para Aprender Inglés'
+title: 'Mejores Canales de YouTube para Aprender Inglés Gratis'
 date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team

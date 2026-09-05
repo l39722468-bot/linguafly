@@ -1,10 +1,11 @@
 ---
-title: 'British Council 2026: Cursos Online, IELTS y Precios'
+title: 'British Council 2026: Cursos Online, IELTS y Costes'
 date: '2026-04-15'
 updatedDate: '2026-08-31'
 author: linguafly-team
 excerpt: 'Analiza los cursos online del British Council, sus recursos gratuitos, preparación IELTS, precios orientativos y cómo matricularte en un centro autorizado.'
-description: 'Compara los cursos online del British Council, sus recursos gratuitos, preparación IELTS, precios orientativos y opciones de matrícula.'
+description: 'Compara los cursos online del British Council, recursos gratis, preparación IELTS,
+costes orientativos y opciones de matrícula.'
 category: metodos
 readTime: 8 min
 alt: 'Logo British Council y estudiante con ordenador'
