@@ -1,12 +1,12 @@
 ---
-title: 'Acento Irlandés en Inglés: Guía para Entenderlo'
+title: 'Acento Irlandés en Inglés: Rasgos y Cómo Entenderlo'
 date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  El acento irlandés explicado para hispanohablantes: rasgos fonéticos clave, frases características y cómo entenderlo mejor. Practica con ejemplos y ejercicios.
+  Aprende el acento irlandés para hispanohablantes: rasgos fonéticos, frases características y ejercicios para entenderlo mejor.
 excerpt: >-
-  El acento irlandés es uno de los más queridos del mundo angloparlante y también uno de los que más cuesta entender al principio. Su musicalidad viene de siglos de coexistencia con el gaélico irlandés. Estas son las claves para sintonizar con él.
+  Descubre por qué el acento irlandés cuesta al principio y practica sus rasgos fonéticos para mejorar la comprensión auditiva.
 category: gramatica
 readTime: 7 min
 alt: Paisaje irlandés evocando la musicalidad del inglés de Irlanda

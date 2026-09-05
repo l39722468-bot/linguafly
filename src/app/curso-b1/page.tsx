@@ -12,8 +12,8 @@ import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
-  title: `Curso de inglés B1 gratis | ${SITE_BRAND_NAME}`,
-  description: "Lleva tu inglés al nivel B1 con Linguafly. Mejora tu fluidez, vocabulario clave y comprensión para desenvolverte en situaciones cotidianas y laborales.",
+  title: `Curso de inglés B1 gratis: teoría y práctica | ${SITE_BRAND_NAME}`,
+  description: "Curso de inglés B1 gratis con unidades interactivas para mejorar fluidez, vocabulario y comprensión en situaciones cotidianas y laborales.",
   alternates: {
     canonical: getAbsoluteUrl('/curso-b1'),
   },
