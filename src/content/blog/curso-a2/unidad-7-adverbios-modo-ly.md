@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Adverbios de modo A2: quickly, slowly, well, badly y -ly'
+title: 'Adverbios de Modo A2: Quickly, Slowly, Well y Badly'
 description: >-
-  Aprende adverbios de modo en inglés A2: adjective + -ly, well/badly, fast/hard.
-  Guía Unidad 7 con audios, ortografía y ejercicios.
+  Aprende adverbios de modo A2 con -ly, well, badly, fast y hard, más reglas de
+  ortografía, audio y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - adverbios de modo A2

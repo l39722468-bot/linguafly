@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-12'
 updatedDate: '2026-08-12'
 author: linguafly-team
-title: "Making Suggestions A2: Shall we…?, Let's…, How about…?"
+title: 'Making Suggestions A2: Cómo Hacer Sugerencias'
 description: >-
-  Haz sugerencias en inglés A2: Shall we…?, Let's…, Why don't we…?, How about…?
-  y Would you like to…? Guía Unidad 51 con audios, planes y ejercicios.
+  Aprende a hacer sugerencias A2 con Shall we, Let's, Why don't we, How about y
+  Would you like to, con audio y ejercicios.
 readTime: 15 min
 keywords:
   - making suggestions A2

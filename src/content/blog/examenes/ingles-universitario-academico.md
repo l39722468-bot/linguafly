@@ -1,10 +1,11 @@
 ---
-title: 'Inglés Universitario y Académico: Guía Completa'
+title: 'Inglés Académico Universitario: Ensayos y Seminarios'
 date: '2026-02-28'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Domina el inglés académico universitario: escritura de ensayos, lectura de artículos científicos, participación en seminarios y comunicación con profesores.
+  Mejora tu inglés académico universitario para escribir ensayos, leer artículos,
+  participar en seminarios y comunicarte con profesores.
 excerpt: >-
   Todo sobre el inglés académico universitario: cómo escribir ensayos, participar en seminarios, leer artículos científicos y comunicarte con profesores. Guía esencial para estudiantes hispanohablantes.
 category: examenes
