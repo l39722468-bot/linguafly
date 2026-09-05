@@ -3,10 +3,10 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: "Third Conditional B1: if + past perfect, would have (regrets)"
+title: 'Third Conditional B1: If + Past Perfect y Ejercicios'
 description: >-
-  Aprende el third conditional en inglés B1 (if + past perfect, would have) para
-  arrepentimientos y pasado irreal. Guía Unidad 14 con audios.
+  Aprende el third conditional B1 con if + past perfect y would have para hablar
+  de arrepentimientos y pasado irreal, con audio y ejercicios.
 readTime: 18 min
 keywords:
   - third conditional B1

@@ -1,12 +1,11 @@
 ---
-title: 'Errores Comunes con los Condicionales en Inglés'
+title: 'Errores con Condicionales en Inglés: Correcciones'
 description: >-
-  Los 10 errores más frecuentes con los condicionales en inglés que cometen los hispanohablantes, con explicaciones claras y las correcciones que necesitas...
+  Evita los 10 errores más frecuentes con condicionales en inglés: if y will,
+  second y third conditional, con explicaciones y correcciones claras.
 readTime: 5 min
 excerpt: >-
-  ¿Pones "will" después de "if"? ¿Confundes "would have" con "would of"?
-  ¿Mezclas el segundo y el tercer condicional? Aquí están los errores que
-  más cuestan puntos en exámenes y credibilidad en conversación.
+  Corrige errores de if y will, would have y second/third conditional que cuestan puntos en exámenes y credibilidad al hablar inglés.
 keywords:
   - Errores Comunes con los Condicionales en Inglés
   - errores condicionales ingles

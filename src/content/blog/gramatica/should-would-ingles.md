@@ -1,10 +1,11 @@
 ---
-title: 'Should y Would en Inglés: Usos y Diferencias'
+title: 'Should y Would en Inglés: Diferencias y Ejemplos'
 date: '2026-02-13'
 updatedDate: '2026-08-31'
 author: linguafly-team
 description: >-
-  Guía completa de should y would en inglés: consejos, expectativas, condicionales, peticiones corteses y mucho más. Con ejemplos reales y comparativas para...
+  Aprende should y would en inglés: consejos, expectativas, condicionales y
+  peticiones corteses, con ejemplos y diferencias claras.
 category: gramatica
 alt: Persona estudiando should y would en inglés con ejemplos y tablas
 readTime: 7 min
