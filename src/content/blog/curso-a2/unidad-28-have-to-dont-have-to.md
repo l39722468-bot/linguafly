@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-11'
 updatedDate: '2026-08-11'
 author: linguafly-team
-title: "Have To y Don't Have To A2: Obligación y Ejemplos"
+title: "Have To y Don't Have To A2: Obligación, Uso y Ejemplos"
 description: >-
   Aprende have to y don't have to en inglés A2 para expresar obligación y ausencia
-  de obligación, con reglas, ejemplos, audio y ejercicios prácticos.
+  de obligación, con reglas, ejemplos y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - have to don't have to A2

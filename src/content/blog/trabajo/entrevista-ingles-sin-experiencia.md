@@ -1,11 +1,11 @@
 ---
-title: 'Entrevista en Inglés sin Experiencia: Respuestas y Frases'
+title: 'Entrevista en Inglés sin Experiencia: Respuestas y Ejemplos'
 description: >-
   Prepárate para una entrevista de trabajo en inglés sin experiencia: respuestas,
-  frases, ejemplos de fortalezas y formas de hablar de tu potencial.
+  frases y ejemplos de fortalezas para hablar de tu potencial.
 readTime: 5 min
 excerpt: >-
-  Consigue tu primera entrevista en inglés presentando fortalezas, estudios y potencial con ejemplos concretos, aunque aún no tengas experiencia laboral.
+  Consigue tu primera entrevista en inglés presentando fortalezas, estudios y potencial con frases y ejemplos concretos, aunque no tengas experiencia laboral.
 keywords:
   - entrevista trabajo inglés sin experiencia laboral
   - cómo responder entrevista inglés primer empleo junior
