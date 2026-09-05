@@ -1,11 +1,11 @@
 ---
-title: 'Just, Already y Yet: Usos del Present Perfect'
+title: 'Just, Already y Yet: Present Perfect con Ejemplos'
 date: '2026-02-13'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
   Aprende just, already y yet con el Present Perfect: posición, significado,
-  diferencias y errores frecuentes, con ejemplos y ejercicios.
+  diferencias y errores frecuentes, con ejercicios prácticos.
 category: gramatica
 alt: Pizarra con ejemplos de just, already y yet con el present perfect
 readTime: 6 min
@@ -19,7 +19,7 @@ keywords:
   - diferencia entre already y yet en inglés
   - adverbios del present perfect para hispanohablantes
 excerpt: >-
-  Just, already y yet son tres de los adverbios más frecuentes con el present perfect. Cada uno tiene su posición fija en la frase y su propio matiz. Aquí los tienes claros con ejemplos y los errores que más se cometen.
+  Just, already y yet son adverbios frecuentes del present perfect, con posición y matiz propios. Aprende a usarlos y evita los errores más comunes.
 faqs:
   - question: ¿"Already" puede ir al final de la frase?
     answer: >-
