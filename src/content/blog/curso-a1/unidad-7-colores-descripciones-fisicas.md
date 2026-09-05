@@ -3,9 +3,9 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Colores y Descripciones Físicas A1: Adjetivos y Have Got'
+title: 'Colores y Descripciones Físicas A1: Adjetivos'
 description: >-
-  Aprende colores, adjetivos físicos como tall, short, young y old, y have got para pelo y ojos, con ejemplos y ejercicios de la Unidad 7 A1.
+  Aprende colores, adjetivos físicos como tall, short, young y old, y have got para pelo y ojos, con ejemplos y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - colores en inglés para principiantes A1

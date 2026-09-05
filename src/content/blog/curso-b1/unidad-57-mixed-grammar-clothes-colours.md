@@ -3,9 +3,9 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Mixed Grammar Practice B1: Clothes & Colours'
+title: 'Mixed Grammar B1: Clothes & Colours Practice'
 description: >-
-  Práctica gramatical mixta B1 (passive, would rather, defining relative clauses, comparatives y although) con vocabulario completo de ropa y colores.
+  Practica gramática mixta B1 (passive, would rather, defining relative clauses, comparatives y although) con vocabulario de ropa y colores.
 readTime: 19 min
 keywords:
   - mixed grammar B1 clothes

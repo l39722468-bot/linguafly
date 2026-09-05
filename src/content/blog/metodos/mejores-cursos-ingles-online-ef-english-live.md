@@ -1,10 +1,10 @@
 ---
-title: 'EF English Live 2026: Opiniones, Precios y IELTS'
+title: 'EF English Live 2026: Opiniones y Precios'
 date: '2026-04-15'
 updatedDate: '2026-09-04'
 author: linguafly-team
-excerpt: 'EF English Live: clases para trabajo o viaje, certificados internos y límites para IELTS o Cambridge. Descubre cuándo combinarlo con preparación de examen.'
-description: 'Análisis EF English Live: modelo 24/7, niveles, certificados internos y qué añadir si tu meta es IELTS o Cambridge en 2026.'
+excerpt: 'EF English Live: clases para trabajo o viaje, certificados internos y límites para exámenes. Descubre cuándo combinarlo con preparación específica.'
+description: 'Análisis EF English Live: modelo 24/7, niveles, certificados internos y qué añadir para preparar exámenes oficiales en 2026.'
 category: metodos
 readTime: 8 min
 alt: 'Profesor de inglés online en pantalla'

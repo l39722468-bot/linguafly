@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-07'
 updatedDate: '2026-08-07'
 author: linguafly-team
-title: 'For & Since A2: I have lived here for / since…'
+title: 'For & Since A2: Duración y Punto de Inicio'
 description: >-
-  Aprende for y since con Present Perfect en inglés A2: duración vs punto de
-  inicio. Guía Unidad 18 con audios, How long…? y ejercicios.
+  Aprende for y since con Present Perfect en inglés A2: duración y punto de
+  inicio, con audios, How long…? y ejercicios de la Unidad 18.
 readTime: 15 min
 keywords:
   - for since Present Perfect
