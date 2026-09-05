@@ -1,11 +1,11 @@
 ---
-title: 'Will en Inglés: Usos, Futuro y Ejemplos'
+title: 'Will en Inglés: Usos, Futuro, Predicciones y Ejemplos'
 date: '2026-03-21'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
   Aprende a usar will para predicciones, promesas y decisiones futuras, y compara
-  will con going to y present continuous mediante ejemplos y ejercicios.
+  will con going to y present continuous con ejemplos prácticos.
 category: gramatica
 alt: Estudiante aprendiendo el futuro con will en inglés
 readTime: 8 min

@@ -3,10 +3,10 @@ category: trabajo
 date: '2026-04-03'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Clientes Difíciles en Inglés: Frases para Calmar'
+title: 'Clientes Difíciles en Inglés: Frases para Calmar y Escalar'
 description: >-
   Guía de inglés para soporte: calmar conflictos, marcar límites ante insultos,
-  escalar con claridad y documentar sin perder control emocional.
+  escalar con claridad y documentar cada caso sin perder el control.
 readTime: 22 min
 keywords:
   - Clientes Difíciles en Inglés: Frases para Calmar
@@ -14,8 +14,7 @@ keywords:
   - inglés de negocios gratis
 alt: Persona en atención telefónica con auriculares
 excerpt: >-
-  Frases y marcos mentales para gestionar ira, amenazas y presión en inglés:
-  validación, repetición de política, escalado y autocuidado del agente.
+  Frases y marcos para gestionar ira, amenazas y presión en inglés: validar, repetir políticas, escalar y cuidar al agente.
 faqs:
   - question: '¿Qué hago si me insultan?'
     answer: >-
