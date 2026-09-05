@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Profesiones en Inglés A1: Jobs, Lista y Ejercicios'
+title: 'Profesiones en Inglés A1: Lista de Jobs y Ejercicios'
 description: >-
-  Aprende profesiones en inglés A1: jobs, lista de trabajos, a/an, I am a teacher
-  y preguntas sobre tu trabajo, con audio y ejercicios prácticos.
+  Aprende profesiones en inglés A1: lista de jobs, trabajos, a/an, I am a teacher
+  y preguntas sobre tu profesión, con audio y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - profesiones en inglés para principiantes A1

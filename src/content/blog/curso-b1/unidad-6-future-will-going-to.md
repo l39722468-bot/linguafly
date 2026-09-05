@@ -4,12 +4,12 @@ author: linguafly-team
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-6-future-will-going-to'
 category: curso-b1
 date: '2026-08-17'
-title: 'Futuro en Inglés B1: Will, Going to y Cuándo Usarlos'
+title: 'Futuro en Inglés B1: Will vs Going to con Ejemplos'
 description: >-
   Aprende el futuro en inglés B1 con will, going to y present continuous:
-  diferencias, predicciones, planes y cuándo usar cada forma.
+  diferencias, predicciones, planes y ejemplos para elegir cada forma.
 excerpt: >-
-  Guía del futuro en inglés B1: diferencias entre will, going to y present continuous, con ejemplos y ejercicios.
+  Guía del futuro en inglés B1: compara will, going to y present continuous con ejemplos y ejercicios para practicar.
 faqs:
   - question: ¿Cuándo debo usar will para hablar del futuro?
     answer: >-
