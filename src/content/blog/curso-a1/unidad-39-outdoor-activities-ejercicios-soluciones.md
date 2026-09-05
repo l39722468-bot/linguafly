@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Outdoor Activities A1: Camping y Hiking'
+title: 'Ejercicios Outdoor Activities A1: Camping, Hiking y Soluciones'
 description: >-
   Practica outdoor activities en inglés A1: Present Continuous para planes,
-  camping, hiking, cycling y fishing, con reading y soluciones.
+  camping, hiking, cycling y fishing, con reading y soluciones comentadas.
 readTime: 25 min
 keywords:
   - Ejercicios de Actividades al Aire Libre en Inglés A1

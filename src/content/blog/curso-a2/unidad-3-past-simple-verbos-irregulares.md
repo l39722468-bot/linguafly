@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Past Simple A2: Verbos Irregulares y Ejercicios'
+title: 'Past Simple A2: Verbos Irregulares y Ejemplos'
 description: >-
   Aprende verbos irregulares del Past Simple A2: go-went, see-saw, have-had,
-  make-made, write-wrote y buy-bought, con audio y ejercicios.
+  make-made, write-wrote y buy-bought, con audio y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - past simple verbos irregulares A2

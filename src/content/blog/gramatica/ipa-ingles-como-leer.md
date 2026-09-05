@@ -1,11 +1,11 @@
 ---
-title: 'IPA Inglés: Cómo Leer Símbolos y Pronunciar Palabras'
+title: 'IPA en Inglés: Cómo Leer Símbolos Fonéticos'
 description: >-
   Aprende a leer el IPA en inglés: símbolos fonéticos, transcripciones de diccionario
-  y trucos para mejorar tu pronunciación con ejemplos claros.
+  y trucos para mejorar tu pronunciación con ejemplos prácticos.
 readTime: 9 min
 excerpt: >-
-  Aprende IPA inglés sin complicaciones: identifica los símbolos fonéticos y lee la pronunciación de cualquier palabra del diccionario desde el primer día.
+  Aprende IPA en inglés sin complicaciones: identifica símbolos fonéticos y lee la pronunciación de palabras del diccionario desde el primer día.
 keywords:
   - 'IPA en Inglés: Cómo Leer el Alfabeto Fonético'
   - cómo leer IPA inglés
