@@ -7,9 +7,9 @@ date: '2026-08-17'
 title: 'Futuro en Inglés B1: Will, Going to y Present Continuous'
 description: >-
   Aprende el futuro en inglés B1 con will, going to y present continuous:
-  predicciones, planes, intenciones, arreglos y horarios con ejemplos y ejercicios.
+  diferencias, predicciones, planes y horarios con ejemplos y ejercicios.
 excerpt: >-
-  Guía del futuro en inglés B1: diferencias entre will, going to y present continuous, con vocabulario de travel, reading, diálogo y ejercicios.
+  Guía del futuro en inglés B1: diferencias entre will, going to y present continuous, con ejemplos, diálogo y ejercicios.
 faqs:
   - question: ¿Cuándo debo usar will para hablar del futuro?
     answer: >-

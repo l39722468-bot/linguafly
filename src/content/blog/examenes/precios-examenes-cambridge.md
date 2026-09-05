@@ -3,13 +3,13 @@ category: examenes
 date: '2026-03-02'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Precios Exámenes Cambridge 2026: FCE, CAE y CPE'
+title: 'Precios Exámenes Cambridge 2026: FCE, CAE, CPE'
 description: >-
-  Consulta los precios de exámenes Cambridge 2026 en España: FCE, CAE, CPE y PET,
-  recargos habituales y consejos para elegir convocatoria y presupuesto.
+  Consulta precios de exámenes Cambridge 2026 en España: FCE, CAE, CPE y PET,
+  tasas extra y consejos para elegir convocatoria y preparar tu presupuesto.
 readTime: 4 min
 excerpt: >-
-  Precios de exámenes Cambridge 2026: costes del FCE, CAE, CPE y PET, tasas extra y consejos para elegir convocatoria y preparar tu presupuesto.
+  Precios Cambridge 2026: costes del FCE, CAE, CPE y PET, tasas extra y consejos para elegir convocatoria y preparar tu presupuesto.
 keywords:
   - 'Precios Exámenes Cambridge: FCE, CAE'
   - precios examenes cambridge
