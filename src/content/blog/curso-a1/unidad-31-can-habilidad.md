@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: "Can y Can't A1: Habilidades, Permiso y Ejercicios"
+title: "Can y Can't A1: Habilidad, Permiso y Ejercicios"
 description: >-
-  Aprende can y can't en inglés A1 para expresar habilidades y pedir permiso,
-  con preguntas, respuestas, audio, ejemplos y ejercicios prácticos.
+  Aprende can y can't en inglés A1 para expresar habilidad y pedir permiso, con
+  preguntas, respuestas, audio, ejemplos y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - can can't A1

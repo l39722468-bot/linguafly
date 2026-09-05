@@ -1,7 +1,7 @@
 ---
-title: 'TOEFL Writing: Integrated, Discussion y Plantillas'
+title: 'TOEFL Writing: Integrated y Academic Discussion'
 description: >-
-  Prepara el TOEFL Writing con Integrated Task y Academic Discussion: estructuras,
+  Prepara el TOEFL Writing con Integrated Task y Academic Discussion: estructura,
   plantillas, vocabulario y errores frecuentes para mejorar tu nota.
 readTime: 13 min
 excerpt: >-

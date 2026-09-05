@@ -6,7 +6,7 @@ author: linguafly-team
 title: 'El Tiempo en Inglés A1: Sunny, Rainy, Hot y Cold'
 description: >-
   Aprende a hablar del tiempo en inglés A1 con sunny, rainy, cloudy, hot y cold,
-  ejemplos, audio, vocabulario y ejercicios prácticos.
+  vocabulario, ejemplos, audio y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - the weather A1

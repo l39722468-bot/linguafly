@@ -3,7 +3,7 @@ category: metodos
 date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Nivel C2 de Inglés: Qué Es, Horas y Cómo Alcanzarlo'
+title: 'Nivel C2 de Inglés: Qué Es, Horas y Cómo Conseguirlo'
 description: >-
   Descubre qué significa tener nivel C2 de inglés, sus diferencias con C1, horas
   de estudio y cómo preparar el CPE de Cambridge paso a paso.

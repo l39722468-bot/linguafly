@@ -3,9 +3,9 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Ejercicios Doesn't y Tercera Persona A1: Soluciones"
+title: "Ejercicios Doesn't y Tercera Persona A1: Does, -s y Soluciones"
 description: >-
-  Practica doesn't y la tercera persona en inglés A1 con ejercicios y soluciones,
+  Practica doesn't y la tercera persona en inglés A1 con ejercicios, soluciones y
   reglas -s, -es y -ies, reading, listening y writing.
 readTime: 25 min
 keywords:
