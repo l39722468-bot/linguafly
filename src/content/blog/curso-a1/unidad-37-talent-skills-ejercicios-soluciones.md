@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Habilidades en Inglés A1: Can y Can’t'
+title: 'Ejercicios de Habilidades A1: Can, Good at y Skills'
 description: >-
-  Practica habilidades y talentos en inglés A1 con can y can't, vocabulario,
-  reading, listening, writing y soluciones comentadas.
+  Practica habilidades y talentos en inglés A1 con can, good at y vocabulario
+  de skills, más reading, listening, writing y soluciones comentadas.
 readTime: 25 min
 keywords:
   - Ejercicios de Talento y Habilidades en Inglés A1
