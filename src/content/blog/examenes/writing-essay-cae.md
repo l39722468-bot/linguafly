@@ -1,7 +1,8 @@
 ---
-title: 'Essay del CAE: Estructura, Consejos y Ejemplos'
+title: 'Essay del CAE: Estructura para Sacar Buena Nota'
 description: >-
-  Aprende a escribir el ensayo obligatorio del C1 Advanced paso a paso: estructura ideal, conectores de nivel C1, cómo argumentar con matices y los errores...
+  Aprende a escribir el essay del C1 Advanced con estructura, conectores C1,
+  argumentos con matices y errores que reducen tu nota.
 
 readTime: 8 min
 excerpt: "El essay del CAE es el único texto obligatorio del Writing. Aquí tienes la estructura que funciona, el vocabulario que buscan los examinadores y los errores que bajan la nota aunque tengas un nivel alto."

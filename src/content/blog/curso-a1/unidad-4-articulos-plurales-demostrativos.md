@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-01'
 updatedDate: '2026-08-01'
 author: linguafly-team
-title: 'Artículos A/An, Plurales y This/That en Inglés (A1): Guía con Ejercicios'
+title: 'A, An, Plurales y This/That en Inglés A1'
 description: >-
   Aprende los artículos a y an, plurales regulares, demostrativos this/that/these/those, números del 1 al 10, objetos del aula y colores en inglés A1.
 readTime: 15 min

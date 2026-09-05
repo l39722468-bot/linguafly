@@ -3,11 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Outdoor Activities A1: Present Continuous para planes (camping, hiking…)'
+title: 'Outdoor Activities A1: Planes con Present Continuous'
 description: >-
-  Aprende a hablar de planes al aire libre en inglés A1 con Present Continuous:
-  I'm going camping, hiking, cycling, fishing. Guía Unidad 39 con audios y
-  ejercicios.
+  Aprende outdoor activities en inglés A1 y usa el present continuous para planes
+  como camping, hiking, cycling y fishing, con audio y ejercicios.
 readTime: 15 min
 keywords:
   - outdoor activities A1

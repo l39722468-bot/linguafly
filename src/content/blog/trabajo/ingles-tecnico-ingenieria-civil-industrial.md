@@ -4,7 +4,8 @@ date: '2026-03-04'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Guía de inglés técnico para ingenieros civiles e industriales. Vocabulario de construcción, gestión de proyectos, safety regulations y comunicación con...
+  Aprende inglés técnico para ingeniería civil e industrial con vocabulario de
+  planos, materiales, seguridad, obra y comunicación profesional.
 category: trabajo
 alt: Ingenieros civiles revisando planos de construcción en un proyecto internacional
 canonical: >-
