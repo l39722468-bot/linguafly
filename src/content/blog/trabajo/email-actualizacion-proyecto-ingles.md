@@ -1,11 +1,11 @@
 ﻿---
-title: 'Email de Actualización de Proyecto en Inglés: Frases y Plantilla'
+title: 'Email de Actualización de Proyecto: Frases y Plantilla'
 description: >-
   Aprende a escribir progress updates y status reports por email en inglés:
-  estructura, frases clave y plantilla para informar del proyecto.
+  estructura, frases clave y plantilla para informar sobre el proyecto.
 readTime: 5 min
 excerpt: >-
-  Escribe un progress update en inglés para informar avances, gestionar expectativas y anticipar problemas con una plantilla profesional.
+  Escribe un progress update en inglés para informar avances, gestionar expectativas y anticipar problemas con una plantilla clara.
 keywords:
   - Emails de Actualización de Proyecto en Inglés
   - email actualizacion proyecto ingles

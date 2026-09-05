@@ -1,8 +1,8 @@
 ---
-title: 'Condicionales B2: Ejercicios para Cambridge, APTIS e IELTS'
+title: 'Condicionales B2: Ejercicios para Exámenes'
 description: >-
   Prepara los condicionales para Cambridge B2 First, APTIS e IELTS con
-  transformaciones, open cloze, speaking y los errores más frecuentes.
+  transformaciones, open cloze, speaking y errores frecuentes.
 readTime: 6 min
 excerpt: >-
   Practica los condicionales más examinados en B2 con patrones, preguntas y errores que Cambridge First, APTIS e IELTS penalizan.
