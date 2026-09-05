@@ -3,9 +3,9 @@ category: curso-a1
 date: '2026-08-01'
 updatedDate: '2026-08-01'
 author: linguafly-team
-title: 'A, An, Plurales y This/That: Inglés A1'
+title: 'A, An, Plurales y This/That en Inglés A1'
 description: >-
-  Aprende a y an, plurales regulares y this/that/these/those en inglés A1, con
+  Aprende a y an, plurales regulares y this/that/these/those en inglés A1 con
   objetos del aula, colores, ejemplos y ejercicios prácticos.
 readTime: 15 min
 keywords:

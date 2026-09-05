@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Partes del Cuerpo A1: Have Got, Vocabulario y Ejercicios'
+title: 'Partes del Cuerpo A1: Have Got y Ejercicios'
 description: >-
   Practica have got / has got y las partes del cuerpo en inglés A1: head, arms,
-  legs, hands, feet y face, con vocabulario, ejercicios y soluciones.
+  legs, hands, feet y face, con vocabulario y ejercicios con soluciones.
 readTime: 25 min
 keywords:
   - Ejercicios de Partes del Cuerpo en Inglés A1
