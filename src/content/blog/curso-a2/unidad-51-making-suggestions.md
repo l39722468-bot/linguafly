@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-12'
 updatedDate: '2026-08-12'
 author: linguafly-team
-title: 'Making Suggestions A2: Shall We, Let’s y Más Frases'
+title: 'Making Suggestions A2: Shall We, Let’s y Ejemplos'
 description: >-
   Aprende a hacer sugerencias A2 con Shall we, Let's, Why don't we, How about y
-  Would you like to, con ejemplos y ejercicios prácticos.
+  Would you like to, con ejemplos y ejercicios para practicar.
 readTime: 15 min
 keywords:
   - making suggestions A2
