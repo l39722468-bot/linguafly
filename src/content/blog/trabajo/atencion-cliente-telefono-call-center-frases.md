@@ -3,10 +3,10 @@ category: trabajo
 date: '2026-04-03'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Inglés para Call Center: Frases Telefónicas'
+title: 'Inglés para Call Center: Frases y Atención Telefónica'
 description: >-
-  Frases esenciales para atención telefónica en inglés: verificación de datos,
-  espera en línea, transferencias, señal débil y cierre con resumen.
+  Aprende frases esenciales para atención telefónica en inglés: verificar datos,
+  poner en espera, transferir llamadas, resolver problemas y cerrar la llamada.
 readTime: 22 min
 keywords:
   - Inglés para Call Center: Frases Telefónicas
@@ -14,8 +14,7 @@ keywords:
   - inglés de negocios gratis
 alt: Auriculares de call center sobre teclado
 excerpt: >-
-  Guía de inglés telefónico para soporte: claridad, ritmo, confirmación de
-  identidad y protocolos de espera sin frustrar al cliente.
+  Guía de inglés telefónico para call center: confirma datos, gestiona esperas y transferencias y resuelve incidencias con claridad.
 faqs:
   - question: '¿Qué tan lento debo hablar?'
     answer: >-
