@@ -3,7 +3,7 @@ title: 'Condicionales en Inglés: Zero, First, Second y Third'
 readTime: 14 min
 excerpt: >-
   ¿Te lían los condicionales? Aprende cuándo usar Zero, First, Second y Third
-  Conditional con una guía paso a paso y más de 50 ejemplos.
+  Conditional con una guía paso a paso y más de 50 ejemplos prácticos.
 keywords:
   - 'Condicionales en Inglés: Zero, 1st, 2nd y 3rd'
   - condicionales en ingles

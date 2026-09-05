@@ -1,11 +1,11 @@
 ---
-title: 'Cultura Americana vs Española: Costumbres y Choques'
+title: 'Cultura Americana vs Española: Diferencias Clave'
 description: >-
   Descubre diferencias culturales entre Estados Unidos y España: etiqueta,
-  costumbres, comunicación y valores para evitar malentendidos.
+  costumbres, comunicación y valores para evitar malentendidos al viajar o trabajar.
 readTime: 5 min
 excerpt: >-
-  Entender la cultura americana te ayuda a evitar malentendidos y relacionarte mejor en EE. UU.; descubre los choques culturales más habituales.
+  Entender la cultura americana te ayuda a evitar malentendidos y relacionarte mejor en EE. UU.; descubre las diferencias más habituales.
 keywords:
   - Cultura Americana vs Española: Diferencias Clave
   - cultura americana

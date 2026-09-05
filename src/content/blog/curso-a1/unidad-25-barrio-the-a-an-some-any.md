@@ -3,9 +3,9 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Mi Barrio en Inglés A1: The, A/An y Some/Any'
+title: 'Mi Barrio en Inglés A1: The, A/An y Vocabulario'
 description: >-
-  Aprende a describir tu barrio en inglés A1 con the, a/an y some/any, más
+  Aprende a describir tu barrio en inglés A1 con the, a/an y some/any, además de
   vocabulario de lugares, audio y ejercicios de la Unidad 25.
 readTime: 15 min
 keywords:
