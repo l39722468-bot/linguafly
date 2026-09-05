@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios Can y Can’t A1: Habilidades y Soluciones'
+title: 'Ejercicios Can y Can’t A1: Habilidades y Respuestas'
 description: >-
   Practica can/can't, swim, cook, drive y speak en inglés A1 con reading, listening,
-  writing y soluciones comentadas de la Unidad 31.
+  writing y respuestas comentadas de la Unidad 31.
 readTime: 25 min
 keywords:
   - Ejercicios de Can y Can’t para Habilidades en Inglés A1
