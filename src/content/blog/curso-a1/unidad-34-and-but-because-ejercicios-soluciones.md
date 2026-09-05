@@ -3,9 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de And, But y Because en Inglés A1'
+title: 'Ejercicios And, But y Because A1: Conectores'
 description: >-
-  Practica todos los ejercicios de la Unidad 34 del curso A1: and, but, because, razón y contraste, reading de Leo, listening del trabajo y writing.
+  Practica and, but y because en inglés A1 para unir ideas, expresar razón y
+  contraste, con reading, listening, writing y soluciones.
 readTime: 25 min
 keywords:
   - Ejercicios de And, But y Because en Inglés A1

@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Muebles y posesivos (A1): mine, yours, his, hers'
+title: 'Muebles en Inglés A1: Mine, Yours y Vocabulario'
 description: >-
-  Aprende muebles en inglés A1 (bed, sofa, table, fridge) y pronombres posesivos
-  mine, yours, his, hers. Guía Unidad 22 con Whose…?, audios y ejercicios.
+  Aprende muebles en inglés A1 (bed, sofa, table, fridge) y posesivos mine, yours,
+  his y hers, con Whose?, audio y ejercicios.
 readTime: 15 min
 keywords:
   - mine yours his hers

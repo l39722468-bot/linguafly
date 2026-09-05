@@ -1,10 +1,11 @@
 ---
-title: 'Ejercicios de Will en Inglés con Soluciones'
+title: 'Ejercicios de Will en Inglés: Futuro y Soluciones'
 date: '2026-03-21'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Ejercicios de will en inglés con soluciones: practica todos sus usos (futuro, predicciones, promesas, decisiones, ofrecimientos) con correcciones detalladas.
+  Practica will en inglés para futuro, predicciones, promesas, decisiones y
+  ofrecimientos, con ejercicios y correcciones detalladas.
 category: gramatica
 alt: Cuaderno de ejercicios de inglés abierto sobre una mesa
 readTime: 10 min

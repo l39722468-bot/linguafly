@@ -3,11 +3,10 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'My Neighborhood A1: the vs a/an y some/any'
+title: 'Mi Barrio en Inglés A1: The, A/An y Some/Any'
 description: >-
-  Aprende a describir tu barrio en inglés A1 con the vs a/an, some/any y
-  vocabulario park, supermarket, cinema, library, pharmacy. Guía Unidad 25 con
-  audios y ejercicios.
+  Aprende a describir tu barrio en inglés A1 con the, a/an y some/any, más
+  vocabulario de lugares, audio y ejercicios de la Unidad 25.
 readTime: 15 min
 keywords:
   - my neighborhood A1
