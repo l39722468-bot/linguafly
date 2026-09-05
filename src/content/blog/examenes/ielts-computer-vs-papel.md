@@ -1,11 +1,11 @@
 ---
-title: 'IELTS en Ordenador o Papel: ¿Qué Formato Elegir?'
+title: 'IELTS Ordenador o Papel: Diferencias y Qué Elegir'
 date: '2026-03-01'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
   IELTS en ordenador o papel: compara Listening, Reading, Writing y Speaking,
-  ventajas, desventajas y tiempos para elegir el formato ideal para ti.
+  diferencias, ventajas y tiempos para elegir el formato ideal para ti.
 category: examenes
 alt: Ordenador portátil y cuaderno sobre una mesa, representando los dos formatos del IELTS
 readTime: 6 min
@@ -19,7 +19,7 @@ keywords:
   - tiempos de resultados IELTS computer vs paper
   - guía gratuita para elegir formato IELTS
 excerpt: >-
-  IELTS por ordenador vs. papel: compara formato, corrección, ventajas y desventajas por sección para elegir la modalidad de examen que mejor encaja contigo.
+  IELTS por ordenador vs. papel: compara formato, corrección y ventajas por sección para elegir la modalidad que mejor encaja contigo.
 faqs:
   - question: ¿La nota del IELTS por ordenador tiene el mismo valor que la del papel?
     answer: >-

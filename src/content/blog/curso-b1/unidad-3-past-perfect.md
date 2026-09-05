@@ -4,12 +4,12 @@ author: linguafly-team
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-3-past-perfect'
 category: curso-b1
 date: '2026-08-12'
-title: 'Past Perfect B1: Had + Participio, Ejemplos y Ejercicios'
+title: 'Past Perfect B1: Cómo Usarlo, Ejemplos y Ejercicios'
 description: >-
-  Aprende Past Perfect B1 con had + participio: reglas, ejemplos y ejercicios
-  para ordenar acciones pasadas con before, by the time y already.
+  Aprende Past Perfect B1: forma, usos y ejemplos con had + participio para
+  ordenar acciones pasadas con before, by the time y already.
 excerpt: >-
-  Guía del Past Perfect B1 con had + past participle, before, by the time y already: entiende el pasado del pasado con ejemplos y ejercicios.
+  Guía del Past Perfect B1 con had + past participle, before, by the time y already: entiende el pasado del pasado con ejercicios.
 faqs:
   - question: ¿Cómo se forma el Past Perfect y por qué es tan fácil en cuanto a auxiliar?
     answer: >-
