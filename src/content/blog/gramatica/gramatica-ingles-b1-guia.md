@@ -3,10 +3,10 @@ category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Gramática Inglesa B1: Temas, Reglas y Ejercicios'
+title: 'Gramática Inglesa B1: Temas, Reglas y Guía'
 description: >-
-  Domina la gramática inglesa B1: tiempos verbales, condicionales, voz pasiva y
-  más, con reglas y ejercicios para preparar tu certificado oficial.
+  Domina la gramática inglesa B1: tiempos verbales, condicionales y voz pasiva,
+  con reglas y ejercicios para preparar tu certificado oficial.
 readTime: 6 min
 keywords:
   - Gramática Inglesa B1: Temas, Ejercicios y Guía

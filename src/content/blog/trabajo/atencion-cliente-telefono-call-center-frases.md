@@ -3,10 +3,10 @@ category: trabajo
 date: '2026-04-03'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Inglés para Call Center: Frases y Atención Telefónica'
+title: 'Inglés para Call Center: Frases por Teléfono'
 description: >-
   Aprende frases esenciales para atención telefónica en inglés: verificar datos,
-  poner en espera, transferir llamadas, resolver problemas y cerrar la llamada.
+  poner en espera, transferir llamadas, resolver problemas y cerrar llamadas.
 readTime: 22 min
 keywords:
   - Inglés para Call Center: Frases Telefónicas

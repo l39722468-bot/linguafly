@@ -1,11 +1,11 @@
 ---
-title: 'Acento Americano General American: Guía y Pronunciación'
+title: 'Acento Americano General American: Sonidos y Pronunciación'
 description: >-
-  Conoce el acento General American: sonidos, ritmo, pronunciación y diferencias
-  con otros acentos del inglés para mejorar tu comprensión auditiva.
+  Conoce el acento General American: sonidos, ritmo y diferencias con otros
+  acentos del inglés para mejorar tu comprensión auditiva.
 readTime: 8 min
 excerpt: >-
-  Aprende las características del General American, el acento del inglés americano que aparece en noticias, películas y contenido digital.
+  Aprende las características del General American, el acento americano de noticias, películas y contenido digital.
 keywords:
   - 'General American: Guía del Acento Americano'
   - general american acento
