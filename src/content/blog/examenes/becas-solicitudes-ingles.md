@@ -1,13 +1,13 @@
 ---
-title: 'Solicitar Becas en Inglés: Personal Statement y Carta'
+title: 'Solicitar Becas en Inglés: Personal Statement, Carta y Ejemplos'
 date: '2026-03-04'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
   Aprende a solicitar becas en inglés con Personal Statement, carta de motivación,
-  referencias y vocabulario para una candidatura internacional convincente.
+  referencias y frases para una candidatura internacional convincente.
 excerpt: >-
-  Guía para solicitar becas en inglés: escribe tu Personal Statement, carta de motivación y referencias con ejemplos para destacar tu candidatura.
+  Guía para solicitar becas en inglés: escribe tu Personal Statement, carta de motivación y referencias con frases para destacar tu candidatura.
 category: examenes
 readTime: 16 min
 alt: Persona escribiendo una solicitud de beca frente a un ordenador portátil

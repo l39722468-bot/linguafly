@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Verbos de Viaje en Inglés A1: Leave, Arrive y Más'
+title: 'Verbos de Viaje en Inglés A1: Leave, Arrive y Ejemplos'
 description: >-
   Aprende verbos de viaje en inglés A1 con Present Simple de horarios: leave,
-  arrive, depart, visit, stay y explore, con ejemplos, audio y ejercicios.
+  arrive, depart, visit, stay y explore, con ejemplos y ejercicios prácticos.
 readTime: 15 min
 keywords:
   - travel verbs A1

@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Ejercicios Present Simple A1: Don't, Do You y Respuestas"
+title: "Ejercicios Present Simple A1: Don't, Do You y Soluciones"
 description: >-
   Practica el Present Simple negativo en inglés A1: don't, Do you?, respuestas
-  cortas y vocabulario de ocio, con reading, listening y soluciones comentadas.
+  cortas y vocabulario de ocio, con ejercicios y soluciones comentadas.
 readTime: 25 min
 keywords:
   - Ejercicios de Present Simple Negativo en Inglés A1
