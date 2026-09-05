@@ -1,13 +1,11 @@
 ---
-title: '¿Cuánto se Tarda en Aprender Inglés? Guía por Niveles'
+title: '¿Cuánto se Tarda en Aprender Inglés? Horas por Nivel'
 description: >-
-  ¿Cuántas horas necesitas para pasar de A1 a B2? Datos reales del FSI,
-  tablas por nivel y plan de estudio semanal para hispanohablantes.
+  Descubre cuántas horas necesitas para pasar de A1 a B2 según el FSI, con
+  tablas por nivel y un plan de estudio semanal para hispanohablantes.
 readTime: 5 min
 excerpt: >-
-  De A1 a B2 se necesitan entre 600 y 750 horas de exposición real, según el
-  FSI. Con 1 hora diaria, son unos 2 años. Pero hay factores que lo aceleran
-  mucho: te damos el desglose por nivel y el plan de estudio más eficiente.
+  ¿Cuánto tardarás en aprender inglés? Consulta horas de A1 a B2, tiempos con una hora diaria y el plan más eficiente para avanzar por niveles.
 keywords:
   - ¿Cuánto se Tarda en Aprender Inglés? Guía por Niveles
   - aprender ingles en 6 meses

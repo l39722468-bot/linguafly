@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-07'
 updatedDate: '2026-08-07'
 author: linguafly-team
-title: 'How questions A2: How long / often / much / many'
+title: 'How Questions A2: How Long, Often, Much y Many'
 description: >-
   Aprende preguntas con How en inglés A2: How long, How often, How much, How
-  many y How long ago. Guía Unidad 19 con audios y ejercicios.
+  many y How long ago, con ejemplos, audio y ejercicios.
 readTime: 15 min
 keywords:
   - How questions A2
