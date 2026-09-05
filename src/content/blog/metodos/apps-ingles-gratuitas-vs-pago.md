@@ -1,5 +1,5 @@
 ---
-title: 'Apps de Inglés: ¿Gratis o de Pago? Cuándo Compensa Cada Opción'
+title: 'Apps para Aprender Inglés: Gratis o de Pago'
 description: >-
   Duolingo gratis llega hasta B1 pero no más. Babbel mejora el speaking, Busuu tiene correcciones reales. ¿Cuándo compensa pagar?
 readTime: 5 min

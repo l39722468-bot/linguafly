@@ -3,7 +3,7 @@ category: gramatica
 date: '2026-04-03'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'B Muda en Inglés: Reglas MB y BT con Ejemplos'
+title: 'B Muda en Inglés: Reglas de MB y BT'
 description: >-
   Guía clara sobre la b no pronunciada en inglés: patrones mb y bt, ejemplos
   frecuentes y errores al leer en voz alta desde el español.

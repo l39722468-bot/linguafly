@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-07-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Verbo To Be en Negativa y Preguntas (A1): Guía con Emociones y Ejercicios'
+title: 'Verbo To Be A1: Negativas, Preguntas y Ejemplos'
 description: >-
   Aprende el verbo to be en negativa (am not, isn't, aren't), preguntas sí/no, respuestas cortas y vocabulario de emociones en inglés A1.
 readTime: 15 min

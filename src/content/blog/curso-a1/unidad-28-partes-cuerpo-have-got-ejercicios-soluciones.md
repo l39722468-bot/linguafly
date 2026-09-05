@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Partes del Cuerpo en Inglés A1'
+title: 'Ejercicios del Cuerpo en Inglés A1: Have Got'
 description: >-
   Practica todos los ejercicios de la Unidad 28 del curso A1: have got / has got, this/these, head, arms, legs, hands, feet, face, reading, listening y writing.
 readTime: 25 min

@@ -3,10 +3,10 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Talent & Skills A1: very well, quite well y not at all'
+title: 'Habilidades en Inglés A1: Very Well, Quite Well y Not at All'
 description: >-
-  Aprende a graduar habilidades en inglés A1 con very well, quite well y not at
-  all, más creative y hardworking. Guía Unidad 37 con audios y ejercicios.
+  Aprende a describir habilidades en inglés A1 con very well, quite well y not
+  at all, además de creative y hardworking, con audio y ejercicios.
 readTime: 15 min
 keywords:
   - very well quite well not at all
