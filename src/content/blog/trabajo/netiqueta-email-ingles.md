@@ -1,11 +1,11 @@
 ---
-title: 'Netiqueta en Emails en Inglés: Reglas, Tono y Ejemplos'
+title: 'Netiqueta en Emails en Inglés: Reglas y Tono'
 description: >-
   Conoce la netiqueta de emails profesionales en inglés: qué hacer, qué evitar y
-  cómo sonar claro, cordial y profesional en cada mensaje.
+  cómo sonar claro, cordial y profesional al escribir.
 readTime: 5 min
 excerpt: >-
-  Aprende netiqueta de email profesional en inglés para escribir mensajes claros, cordiales y adecuados al tono de equipos internacionales.
+  Aprende netiqueta de email profesional en inglés para escribir mensajes claros, cordiales y adecuados a equipos internacionales.
 keywords:
   - 'Netiqueta en Emails en Inglés: Guía Profesional'
   - netiqueta email ingles profesional
