@@ -10,9 +10,12 @@ description: >-
 readTime: 18 min
 keywords:
   - learn Spanish A1
+  - learn Spanish for English speakers
+  - Spanish greetings for beginners
   - me llamo Spanish
-  - Spanish greetings for English speakers
-  - free Spanish A1 course
+  - Spanish A1 course online
+  - free Spanish lessons online
+  - Spanish grammar explained in English
   - soy eres A1
 canonical: 'https://linguafly.app/blog/curso-espanol-a1/unidad-1-greetings-names-ser'
 image: /blog/curso-espanol-a1/unit-1/greetings-names-ser.png
@@ -66,7 +69,7 @@ This is **Unit 1 of the A1 Spanish course** (*Greetings, names, and* ser *with y
 The official repertoire this unit opens is small on purpose. In the Instituto Cervantes *Plan curricular* (PCIC / NRE), first contact sits in **functions 5.1–5.5 and 5.21** (greet, introduce yourself, take leave), **specific notion 3.1.1** (name and surnames), and **grammar inventory 12** (*ser* of identity). A1 does not hand you the whole verb *ser*, and it does not hand you the English-style “thirty-second bio.” Stay inside this box and the next nine units will add age, origin, and work in the right order.
 
 > **Workbook (answered exercises):** [Unit 1 exercises](/blog/curso-espanol-a1/unidad-1-greetings-names-ser-ejercicios-soluciones)  
-> **Next:** [Unit 2 — Alphabet, pronunciation, orthography](/blog/curso-espanol-a1/unidad-1-greetings-names-ser)
+> **Next:** [Unit 2 — Alphabet, pronunciation, orthography](/blog/curso-espanol-a1/unidad-2-alphabet-pronunciation-orthography)
 
 ![A1 Spanish self-introduction formula: greeting, Me llamo, and soy / eres](/blog/curso-espanol-a1/unit-1/greetings-names-ser.png)
 

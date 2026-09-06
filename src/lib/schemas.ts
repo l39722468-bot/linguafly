@@ -26,6 +26,7 @@ export interface ArticleSchemaProps {
   category?: string;
   keywords?: string[];
   wordCount?: number;
+  inLanguage?: string;
   author?: {
     name: string;
     slug: string;
@@ -39,6 +40,8 @@ export interface CourseUnitSchemaProps {
   description: string;
   level: string;
   url: string;
+  inLanguage?: string;
+  teaches?: string;
 }
 
 export interface FAQItem {
@@ -135,7 +138,8 @@ export function generateCourseUnitSchema(props: CourseUnitSchemaProps) {
       "inLanguage": "es-ES",
     },
     "educationalLevel": props.level,
-    "inLanguage": "es-ES",
+    "inLanguage": props.inLanguage || "es-ES",
+    "teaches": props.teaches || "English language",
   };
 }
 
@@ -189,7 +193,7 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
     "wordCount": props.wordCount,
     "articleSection": props.category,
     "keywords": props.keywords?.join(', '),
-    "inLanguage": "es-ES"
+    "inLanguage": props.inLanguage || "es-ES"
   };
 }
 

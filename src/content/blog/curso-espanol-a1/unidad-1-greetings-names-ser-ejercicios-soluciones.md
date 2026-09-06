@@ -10,16 +10,18 @@ description: >-
 readTime: 25 min
 keywords:
   - Spanish A1 exercises
+  - Spanish exercises for English speakers
   - me llamo exercises
   - soy eres A1 exercises
-  - learn Spanish for English speakers
-  - free Spanish A1 course
+  - free Spanish lessons online
+  - Spanish A1 course online
+  - learn Spanish for beginners
 canonical: 'https://linguafly.app/blog/curso-espanol-a1/unidad-1-greetings-names-ser-ejercicios-soluciones'
 image: /blog/curso-espanol-a1/unit-1/greetings-names-ser.png
 alt: 'A1 Spanish Unit 1 exercises: greeting, Me llamo, and soy / eres'
 related_routes:
   - unidad-1-greetings-names-ser
-  - unidad-2-alphabet-pronunciation-orthography
+  - unidad-2-alphabet-pronunciation-orthography-ejercicios-soluciones
 faqs:
   - question: What is in this workbook?
     answer: >-
@@ -53,7 +55,7 @@ excerpt: >-
 This workbook belongs with **Unit 1 of the A1 Spanish course** (*Greetings, names, and* ser *with yo / tú*). Instructions are in English; the Spanish is the level you are learning. Stay inside the Unit 1 box: greet, give your name, confirm identity with **soy** / **eres**, close with **mucho gusto**. Do not write age, origin, or a job.
 
 > **Theory guide:** [Spanish Greetings and Names (A1)](/blog/curso-espanol-a1/unidad-1-greetings-names-ser)  
-> **Next theory:** [Unit 2 — Alphabet, pronunciation, orthography](/blog/curso-espanol-a1/unidad-1-greetings-names-ser)
+> **Next:** [Unit 2 exercises — Alphabet, pronunciation, orthography](/blog/curso-espanol-a1/unidad-2-alphabet-pronunciation-orthography-ejercicios-soluciones)
 
 Do each block **without** opening the answer. Then read the explanation — not only the key.
 

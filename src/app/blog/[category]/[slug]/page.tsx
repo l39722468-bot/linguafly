@@ -56,6 +56,7 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
 
   // Optimized title for SEO
   const seoTitle = optimizeSEOTitle(article.title);
+  const isSpanishCourse = normalizeCategory(article.category).startsWith("curso-espanol-");
 
   const ogImage = article.image || "/blog/og-image.jpg";
 
@@ -68,6 +69,7 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
       title: seoTitle,
       description: article.excerpt,
       type: "article",
+      locale: isSpanishCourse ? "en_US" : "es_ES",
       publishedTime: article.date,
       authors: [article.author],
       section: article.category,
@@ -127,6 +129,9 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
   const normalizedCategory = normalizeCategory(article.category);
   const categoryLabel = categoryLabels[normalizedCategory] || article.category;
+  const isSpanishCourse = normalizedCategory.startsWith("curso-espanol-");
+  const contentLanguage = isSpanishCourse ? "en" : "es-ES";
+  const taughtLanguage = isSpanishCourse ? "Spanish language" : "English language";
 
   const articleSchema = generateArticleSchema({
     title: article.title,
@@ -138,6 +143,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     category: normalizedCategory,
     keywords: article.keywords,
     wordCount,
+    inLanguage: contentLanguage,
     author: article.authorData ? {
       name: article.authorData.name,
       slug: article.authorData.slug,
@@ -151,12 +157,14 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
         description: article.excerpt,
         level: normalizedCategory.replace(/^curso-(espanol-)?/, ""),
         url: getAbsoluteUrl(`/blog/${normalizedCategory}/${slug}`),
+        inLanguage: contentLanguage,
+        teaches: taughtLanguage,
       })
     : null;
 
   // Generate Breadcrumb Schema
   const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: "Inicio", url: getSiteUrl() },
+    { name: isSpanishCourse ? "Home" : "Inicio", url: isSpanishCourse ? getAbsoluteUrl("/en") : getSiteUrl() },
     { name: "Blog", url: getAbsoluteUrl('/blog') },
     { name: categoryLabel, url: getAbsoluteUrl(`/blog/${normalizedCategory}`) },
     { name: article.title, url: getAbsoluteUrl(`/blog/${normalizedCategory}/${slug}`) },
