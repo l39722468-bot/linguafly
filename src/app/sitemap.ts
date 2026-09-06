@@ -92,6 +92,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       priority: 0.93,
     },
     {
+      url: `${baseUrl}/fitness`,
+      lastModified: mostRecentArticleDate,
+      changeFrequency: "weekly",
+      priority: 0.9,
+    },
+    {
       url: `${baseUrl}/aplicaciones-para-aprender-ingles`,
       lastModified: SITE_LAUNCH_DATE,
       changeFrequency: "monthly",
