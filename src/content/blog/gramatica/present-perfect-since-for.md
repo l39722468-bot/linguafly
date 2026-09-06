@@ -1,10 +1,11 @@
 ---
-title: 'Since vs For en Inglés: Cuándo Usarlos'
+title: '¿Since o For? Cómo Usarlos con el Present Perfect'
 date: '2026-02-10'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende la diferencia entre since y for en inglés con el present perfect. Reglas claras, ejemplos reales y los errores más típicos de los hablantes de español.
+  ¿Since indica el inicio o for la duración? Aprende la diferencia entre
+  since y for con el present perfect, con reglas y errores comunes.
 category: gramatica
 alt: Línea de tiempo mostrando la diferencia entre since y for en inglés
 readTime: 6 min

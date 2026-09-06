@@ -3,9 +3,10 @@ category: trabajo
 date: '2026-02-07'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Inglés para el Trabajo: Guía Profesional'
+title: '¿Qué Inglés Necesitas para el Trabajo? Guía Profesional'
 description: >-
-  Domina el inglés de negocios y proyecta una imagen profesional sólida. Aprende a liderar reuniones, negociar con éxito y comunicar tus ideas con impacto en...
+  ¿Sabes inglés pero no en reuniones o negociaciones? Domina el vocabulario
+  de negocios para liderar reuniones y comunicar tus ideas con impacto.
 readTime: 4 min
 excerpt: >-
   Saber inglés no es suficiente si no sabes cómo usarlo en una reunión, una

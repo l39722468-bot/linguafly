@@ -1,10 +1,11 @@
 ---
-title: 'Fotografía de Viaje: Vocabulario y Frases en Inglés'
+title: '¿Qué Inglés Necesitas para Fotografiar tus Viajes?'
 date: '2026-04-17'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Vocabulario y frases en inglés para fotógrafos viajeros. Pide que te hagan fotos, pregunta por permisos, compra equipo y comparte tu trabajo con el mundo.
+  ¿Viajas con cámara y no sabes qué decir en inglés? Vocabulario para
+  fotógrafos viajeros: pide fotos, pregunta permisos y compra equipo.
 excerpt: >-
   El inglés que todo fotógrafo viajero necesita: pedir que te hagan fotos, preguntar permisos, vocabulario de cámaras, drones y edición, y compartir en redes sociales.
 category: viajes

@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'At the Supermarket A1: plurales, fruta, verdura y pasillos'
+title: 'De Compras en el Supermercado en Inglés: Plurales (A1)'
 description: >-
   Aprende inglés A1 en el supermercado: plurales regulares e irregulares,
   fruit, vegetables, meat, fish, aisle y checkout. Guía Unidad 51 con audios y
@@ -49,8 +49,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 51 del curso A1: supermercado con plurales, fruta, verdura,
-  carne, pescado y pasillos, con audios y ejercicios.
+  Fruit, vegetables, meat, fish, aisle: aprende a comprar en el
+  supermercado en inglés con plurales regulares e irregulares (Unidad 51 A1).
 ---
 
 Tras el [repaso del Módulo 5](/blog/curso-a1/unidad-50-repaso-modulo-5), el **Módulo 6** (*Shopping & Food*) empieza en la tienda. En la **Unidad 51 del curso A1** (*At the Supermarket*) practicas **plurales** y vocabulario de **fruit, vegetables, meat, fish** y **aisles**.
