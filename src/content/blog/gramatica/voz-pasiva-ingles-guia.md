@@ -181,6 +181,8 @@ Esta guía cubre los fundamentos. Para dominar cada aspecto en detalle:
 - [La Voz Pasiva en Noticias y Prensa en Inglés](/blog/gramatica/pasiva-ingles-noticias)
 - [La Voz Pasiva en Textos Académicos](/blog/gramatica/pasiva-ingles-textos-academicos)
 - [Ejercicios de Voz Pasiva en Inglés con Soluciones](/blog/gramatica/ejercicios-voz-pasiva-ingles)
+- [Voz Pasiva en Futuro en Inglés](/blog/gramatica/pasiva-ingles-futuro)
+- [Have Something Done: la Pasiva Causativa en Inglés](/blog/gramatica/have-something-done-ingles)
 
 ## Fuentes
 

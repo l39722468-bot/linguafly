@@ -164,6 +164,8 @@ Los **verbos modales avanzados** son el corazón de la gramática inglesa de alt
 
 ¿Preparas el Cambridge Advanced? En nuestra [guía de preparación CAE](/blog/temas/cambridge-english-2026) encontrarás estructura del examen, estrategias y recursos específicos para cada parte.
 
+Para profundizar en modales perfectos (deducción sobre el pasado), consulta [Los Modales Perfectos en Inglés](/blog/gramatica/modales-perfectos-ingles).
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

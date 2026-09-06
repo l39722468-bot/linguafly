@@ -134,6 +134,9 @@ Para convertirte en un experto total en esta materia, te recomendamos explorar l
 3. [**Guía de Passive Reporting Verbs**](/blog/gramatica/passive-reporting-verbs-guia-avanzada): Domina estructuras impersonales como *"It is thought that..."*.
 4. [**Lista Completa de Patrones de Reporting Verbs**](/blog/gramatica/reporting-verbs-patterns-list): Tu diccionario de referencia para saber qué estructura sigue a cada verbo.
 5. [**Preguntas y Órdenes en Estilo Indirecto**](/blog/gramatica/reported-speech-questions-commands): Guía paso a paso para reportar interrogativas e imperativos.
+6. [**Excepciones al Backshift en Reported Speech**](/blog/gramatica/reported-speech-backshift-excepciones): Casos donde el tiempo verbal no retrocede.
+7. [**Expresiones de Tiempo en Reported Speech**](/blog/gramatica/reported-speech-expresiones-tiempo): Tabla completa de cambios (today → that day, tomorrow → the next day...).
+8. [**Say vs Tell: Diferencias y Uso Correcto**](/blog/gramatica/say-vs-tell-ingles): Cuándo usar cada verbo al reportar lo que alguien dijo.
 
 ---
 

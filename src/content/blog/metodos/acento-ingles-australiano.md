@@ -186,6 +186,13 @@ Son más parecidos entre sí que cualquiera de los dos al americano o al britán
 
 Para una visión completa de todos los acentos del inglés y cómo entenderlos, consulta [Acentos del Inglés: Diferencias y Guía Completa](/blog/metodos/acentos-ingles-diferencias).
 
+### Profundiza en el inglés australiano
+
+- [Australian English: Flapping, Schwa y Ritmo](/blog/metodos/australian-english-flapping-schwa-ritmo)
+- [Australian English: Comparativa de Vocales RP vs GA](/blog/metodos/australian-english-vocales-comparativa-rp-ga)
+- [Australian English: Pares Mínimos para Hispanohablantes](/blog/metodos/australian-english-minimal-pairs-entrenamiento-hispanohablantes)
+- [Australian English: Slang, Registro y Contexto](/blog/metodos/australian-english-slang-registro-y-contexto)
+
 ## Fuentes
 
 - Australian Government: https://www.australia.gov.au/

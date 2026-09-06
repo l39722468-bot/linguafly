@@ -218,6 +218,38 @@ No es obligatorio, pero conocer los símbolos básicos (schwa /ə/, /θ/, /ð/, 
 
 ---
 
+## 📚 Sigue Practicando: Guías Específicas de Pronunciación
+
+Esta guía cubre lo esencial, pero cada aspecto de la pronunciación tiene mucho más recorrido. Profundiza con estas guías específicas:
+
+**Sonidos y símbolos IPA:**
+- [Cómo Leer el Alfabeto Fonético Internacional (IPA)](/blog/gramatica/ipa-ingles-como-leer)
+- [Guía Práctica del IPA en Inglés](/blog/gramatica/ipa-ingles-guia-practica)
+- [Las Consonantes TH en Inglés: Guía Completa](/blog/gramatica/consonantes-th-ingles)
+- [Diptongos en Inglés: Lista Completa](/blog/gramatica/diptongos-ingles-lista-completa)
+- [Letras Mudas en Inglés: Guía Completa](/blog/gramatica/letras-mudas-ingles-guia-completa)
+
+**La B muda y combinaciones difíciles:**
+- [La B Muda en Inglés: Fundamentos y Combinaciones MB, BT](/blog/gramatica/b-muda-ingles-combinaciones-mb-bt-fundamentos)
+- [La B Muda en Inglés: Doubt, Subtle, Debt](/blog/gramatica/b-muda-ingles-doubt-subtle-debt-historia-practica)
+- [B Muda en Inglés: Excepciones y Trampas Ortográficas](/blog/gramatica/b-muda-ingles-excepciones-trampas-ortograficas)
+- [B Muda en Inglés para Hispanohablantes: B vs V](/blog/gramatica/b-muda-ingles-hispanohablantes-b-vs-v)
+- [Ejercicios de B Muda: Lectura y Dictado](/blog/gramatica/b-muda-ingles-ejercicios-lectura-dictado)
+
+**Acento tónico, sílabas y entonación:**
+- [Word Stress en Inglés: El Acento Tónico](/blog/gramatica/word-stress-ingles-acento-tonico)
+- [Word Stress en Inglés: Reglas Prácticas](/blog/gramatica/word-stress-ingles-reglas)
+- [División de Sílabas en Inglés](/blog/gramatica/silabas-ingles-division)
+- [Patrones de Entonación en Inglés](/blog/gramatica/entonacion-ingles-patrones)
+- [Entonación en Inglés: Guía Completa](/blog/gramatica/entonacion-ingles)
+- [Pronunciación de Terminaciones en Inglés](/blog/gramatica/pronunciacion-terminaciones-ingles)
+
+**Errores comunes y práctica:**
+- [Errores de Pronunciación de los Hispanohablantes](/blog/gramatica/errores-pronunciacion-hispanohablantes)
+- [Ejercicios de Pronunciación en Inglés](/blog/metodos/ejercicios-pronunciacion-ingles)
+
+---
+
 ## Fuentes
 
 - International Phonetic Association (IPA chart): https://www.internationalphoneticassociation.org/IPAcharts/IPA_chart_orig/IPA_charts_E.html

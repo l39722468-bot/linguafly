@@ -134,6 +134,13 @@ Sí. El Hiberno-English tiene estructuras que reflejan la gramática del gaélic
 
 Para una visión completa de todos los acentos del inglés y cómo entenderlos, consulta [Acentos del Inglés: Diferencias y Guía Completa](/blog/metodos/acentos-ingles-diferencias).
 
+### Profundiza en el acento irlandés
+
+- [Belfast vs Dublín: Comparativa de Acentos](/blog/metodos/belfast-vs-dublin-acento-ingles-comparativa)
+- [Cómo Entrenar el Oído para el Acento Irlandés (Listening)](/blog/habilidades/listening-acento-irlandes-entrenar-oido)
+- [Ejercicios de Pronunciación del Acento Irlandés (B2)](/blog/metodos/pronunciacion-ejercicios-acento-irlandes-b2)
+- [Vocabulario Coloquial de Irlanda y su Contexto](/blog/viajes/vocabulario-coloquial-irlanda-acento-contexto)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

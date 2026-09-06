@@ -213,6 +213,8 @@ En el nivel B2, se recomienda usar phrasal verbs más formales en el Writing (*c
 
 ### ¿Cómo puedo practicar estos verbos gratis?
 
+Además de esta lista, puedes reforzar con guías específicas de otros phrasal verbs muy usados: [Phrasal Verbs con GET](/blog/gramatica/phrasal-verbs-with-get), [Phrasal Verbs con PUT](/blog/gramatica/phrasal-verbs-with-put), [Phrasal Verbs con GO](/blog/gramatica/phrasal-verbs-with-go), [Phrasal Verbs con MAKE](/blog/gramatica/phrasal-verbs-with-make), [Phrasal Verbs de Trabajo](/blog/gramatica/phrasal-verbs-trabajo) y [Phrasal Verbs para el CAE (B2-C1)](/blog/gramatica/phrasal-verbs-b2-fce).
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/

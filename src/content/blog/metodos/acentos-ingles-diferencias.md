@@ -235,6 +235,18 @@ Cada acento tiene sus propias reglas de pronunciación y expresiones caracterís
 - [Inglés americano vs inglés británico: diferencias clave](/blog/metodos/ingles-americano-vs-britanico)
 - [¿Qué es la cultura anglosajona y cómo influye en tu inglés?](/blog/metodos/cultura-anglosajona-guia)
 
+### Más variantes regionales del inglés
+
+- [Inglés Británico vs Americano: Pronunciación y Uso](/blog/gramatica/acento-britanico-vs-americano-diferencias)
+- [Inglés del Sur de Estados Unidos: Guía y Acento](/blog/gramatica/acento-sur-eeuu-southern-american)
+- [Inglés Australiano: Por Qué Suena Tan Distinto](/blog/gramatica/ingles-australiano-caracteristicas)
+- [Inglés Canadiense: Diferencias con el Americano](/blog/gramatica/ingles-canadiense-diferencias)
+- [Inglés Escocés: Por Qué Suena Tan Distinto](/blog/gramatica/ingles-escoces-como-entenderlo)
+- [Inglés Indio: Características y Pronunciación](/blog/gramatica/ingles-indio-caracteristicas)
+- [Acento Irlandés en Inglés: Rasgos y Cómo Entenderlo](/blog/gramatica/ingles-irlandes-acento-guia)
+- [Inglés de Nueva Zelanda: Acento, Vocabulario y Claves](/blog/gramatica/ingles-nueva-zelanda-caracteristicas)
+- [Inglés como Lengua Franca (ELF): Guía Completa](/blog/gramatica/ingles-como-lengua-franca-elf)
+
 ## Fuentes
 
 - Cambridge Dictionary: https://dictionary.cambridge.org/
