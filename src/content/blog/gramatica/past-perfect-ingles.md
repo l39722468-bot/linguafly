@@ -1,10 +1,11 @@
 ---
-title: 'Past Perfect en Inglés: Usos, Reglas y Ejemplos'
+title: '¿Cuál es la Diferencia entre Past Perfect y Past Simple?'
 date: '2026-02-28'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Past Perfect en inglés: cuándo usarlo y por qué lo necesitas. Aprende a expresar lo que ocurrió antes de otro evento pasado con ejemplos prácticos y...
+  ¿Cuándo usar had + participio? Aprende el Past Perfect en inglés para
+  aclarar el orden de eventos pasados, con reglas, ejemplos y errores comunes.
 category: gramatica
 alt: Línea de tiempo mostrando el Past Perfect en relación al Past Simple
 readTime: 9 min
@@ -18,7 +19,8 @@ keywords:
   - past perfect para hablar de acciones pasadas
   - guía gratuita de past perfect B2 C1
 excerpt: >-
-  El Past Perfect (had + participio) expresa algo que ocurrió antes que otra cosa en el pasado. Es el tiempo que aclara el orden de los eventos cuando dos cosas pasaron en momentos distintos del pasado.
+  Had + participio: descubre cómo el Past Perfect aclara qué pasó primero
+  cuando dos eventos ocurren en momentos distintos del pasado.
 faqs:
   - question: ¿El Past Perfect equivale al pluscuamperfecto español?
     answer: >-

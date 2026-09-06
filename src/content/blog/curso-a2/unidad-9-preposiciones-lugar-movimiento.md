@@ -3,7 +3,7 @@ category: curso-a2
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Preposiciones de lugar y movimiento A2: into, out of, through, across'
+title: 'Into, Out of, Through, Across: Preposiciones de Movimiento (A2)'
 description: >-
   Aprende into, out of, through y across en inglés A2: entrar, salir y cruzar.
   Guía Unidad 9 con audios, esquemas y ejercicios.
@@ -47,8 +47,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 9 del curso A2: preposiciones de lugar y movimiento into,
-  out of, through y across, con audios y ejercicios.
+  Entrar, salir y cruzar en inglés: domina into, out of, through y across
+  con esquemas visuales, audios y ejercicios (Unidad 9 A2).
 ---
 
 En la [Unidad 8](/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in) dijiste **cuándo**. En la **Unidad 9 del curso A2** (*Prepositions of Place & Movement*) describes **dónde te mueves**: ***into***, ***out of***, ***through***, ***across***.

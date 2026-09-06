@@ -1,10 +1,11 @@
 ---
-title: 'Say vs Tell en Inglés: Diferencias y Ejemplos'
+title: '¿Say o Tell? La Diferencia Explicada con Ejemplos'
 date: '2026-02-07'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  La diferencia entre say y tell en inglés es una de las más frecuentes en reported speech. Aprende cuándo usar cada uno, qué estructuras llevan, y los...
+  ¿Cuándo se usa say y cuándo tell en inglés? Descubre la diferencia clave
+  en reported speech, las estructuras correctas y los errores más comunes.
 category: gramatica
 alt: Persona aprendiendo la diferencia entre say y tell en inglés
 readTime: 6 min
@@ -18,7 +19,8 @@ keywords:
   - errores comunes de say y tell para hispanohablantes
   - reported speech con say y tell explicado
 excerpt: >-
-  Say y tell son los dos verbos de reporte más básicos del inglés, y sin embargo uno de los errores más frecuentes de hispanohablantes. La diferencia es clara una vez que la entiendes, y va mucho más allá de "decir" vs "contar".
+  "I said him" es incorrecto: descubre la diferencia real entre say y tell,
+  sus estructuras y cómo evitar el error más común de hispanohablantes.
 faqs:
   - question: ¿Por qué "I said him" es incorrecto en inglés?
     answer: >-

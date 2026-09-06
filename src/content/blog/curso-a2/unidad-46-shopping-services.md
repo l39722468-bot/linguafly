@@ -3,7 +3,7 @@ category: curso-a2
 date: '2026-08-12'
 updatedDate: '2026-08-12'
 author: linguafly-team
-title: 'Shopping & Services A2: Can I help you?, How much…?'
+title: '"Can I Help You?": Inglés para Ir de Compras (A2)'
 description: >-
   Compras en inglés A2: Can I help you?, I'm looking for…, How much…?, refund y
   exchange. Guía Unidad 46 con audios, diálogos y ejercicios.
@@ -46,8 +46,8 @@ faqs:
       En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-46-shopping-services-ejercicios-soluciones) y en la Unidad 46 del curso A2 de Linguafly practicarás vocabulario y
       diálogos de compras y servicios.
 excerpt: >-
-  Guía de la Unidad 46 del curso A2: hacer compras y devoluciones con Can I help
-  you?, I'm looking for… y How much…?, con audios y ejercicios.
+  I'm looking for..., How much...?, refund: aprende el inglés esencial
+  para ir de compras y hacer devoluciones (Unidad 46 A2).
 ---
 
 En la [Unidad 45](/blog/curso-a2/unidad-45-entertainment-media) hablaste de cine y música. En la **Unidad 46 del curso A2** (*Shopping & Services*) practicas **compras, precios y devoluciones**.
