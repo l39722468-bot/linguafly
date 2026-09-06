@@ -22,6 +22,12 @@ export async function generateStaticParams() {
 }
 
 const categoryMetadata: Record<string, { name: string, description: string, icon: string, color: string }> = {
+  fitness: {
+    name: "Entrenamiento físico: rutinas, fuerza y movilidad",
+    description: "Guías prácticas para entrenar en casa o en el gimnasio, mejorar tu fuerza, movilidad y resistencia con planes sostenibles.",
+    icon: "💪",
+    color: "from-orange-600 to-rose-700"
+  },
   trabajo: {
     name: "Inglés para el Trabajo y Negocios: Guías Profesionales",
     description: "Domina el vocabulario profesional, prepara entrevistas internacionales y redacta emails efectivos para tu carrera global.",
@@ -116,7 +122,9 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
     title: `${optimizeSEOTitle(meta.name)} | Blog ${SITE_BRAND_NAME}`,
     description: meta.description,
     keywords:
-      category === 'trabajo'
+      category === 'fitness'
+        ? ['entrenamiento físico', 'entrenamiento en casa', 'rutina para principiantes', 'ejercicios de fuerza']
+        : category === 'trabajo'
         ? ['inglés profesional', 'inglés trabajo', 'business english']
         : category === 'viajes'
           ? ['inglés viajes', 'inglés turismo']
