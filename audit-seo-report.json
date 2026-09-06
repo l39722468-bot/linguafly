@@ -1,0 +1,4856 @@
+{
+  "generatedAt": "2026-09-06T11:28:32.059Z",
+  "totals": {
+    "articles": 823,
+    "findings": 366,
+    "bySeverity": {
+      "medium": 9,
+      "low": 357
+    },
+    "brokenInternalLinks": 0,
+    "cannibalizationPairs": 242
+  },
+  "byCategory": {
+    "curso-a1": {
+      "count": 120,
+      "words": 316251,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 2635
+    },
+    "curso-a2": {
+      "count": 120,
+      "words": 244851,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 2040
+    },
+    "curso-b1": {
+      "count": 120,
+      "words": 278822,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 2324
+    },
+    "curso-b2": {
+      "count": 61,
+      "words": 315709,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 5176
+    },
+    "curso-c1": {
+      "count": 70,
+      "words": 298827,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 4269
+    },
+    "curso-espanol-a1": {
+      "count": 2,
+      "words": 6084,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 3042
+    },
+    "examenes": {
+      "count": 41,
+      "words": 45437,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 1108
+    },
+    "gramatica": {
+      "count": 130,
+      "words": 157178,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 1209
+    },
+    "habilidades": {
+      "count": 4,
+      "words": 7048,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 1762
+    },
+    "metodos": {
+      "count": 76,
+      "words": 109655,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 1443
+    },
+    "trabajo": {
+      "count": 53,
+      "words": 65448,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 1235
+    },
+    "viajes": {
+      "count": 26,
+      "words": 34674,
+      "thin": 0,
+      "orphans": 0,
+      "noFaq": 0,
+      "avgWords": 1334
+    }
+  },
+  "findings": [
+    {
+      "slug": "unidad-18-gustos-like-ing-because-ejercicios-soluciones",
+      "filePath": "src\\content\\blog\\curso-a1\\unidad-18-gustos-like-ing-because-ejercicios-soluciones.md",
+      "severity": "medium",
+      "type": "title_long",
+      "detail": "66 chars (ideal 30-65)"
+    },
+    {
+      "slug": "unidad-1-saludos-introducciones-repaso",
+      "filePath": "src\\content\\blog\\curso-a2\\unidad-1-saludos-introducciones-repaso.md",
+      "severity": "medium",
+      "type": "title_long",
+      "detail": "76 chars (ideal 30-65)"
+    },
+    {
+      "slug": "unidad-10-repaso-modulo-1",
+      "filePath": "src\\content\\blog\\curso-a2\\unidad-10-repaso-modulo-1.md",
+      "severity": "medium",
+      "type": "title_long",
+      "detail": "72 chars (ideal 30-65)"
+    },
+    {
+      "slug": "unidad-52-offers-requests",
+      "filePath": "src\\content\\blog\\curso-a2\\unidad-52-offers-requests.md",
+      "severity": "medium",
+      "type": "title_long",
+      "detail": "66 chars (ideal 30-65)"
+    },
+    {
+      "slug": "unidad-30-repaso-26-29",
+      "filePath": "src\\content\\blog\\curso-b1\\unidad-30-repaso-26-29.md",
+      "severity": "medium",
+      "type": "title_long",
+      "detail": "80 chars (ideal 30-65)"
+    },
+    {
+      "slug": "unidad-4-past-vs-present-perfect",
+      "filePath": "src\\content\\blog\\curso-b1\\unidad-4-past-vs-present-perfect.md",
+      "severity": "medium",
+      "type": "title_long",
+      "detail": "70 chars (ideal 30-65)"
+    },
+    {
+      "slug": "unidad-1-repaso-b1-b2",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-1-repaso-b1-b2.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "2 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-10-repaso-6-9",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-10-repaso-6-9.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-11-relative-clauses-culture",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-11-relative-clauses-culture.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-12-relative-clauses-reduction",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-12-relative-clauses-reduction.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-13-modals-money",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-13-modals-money.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-14-modal-deduction-business",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-14-modal-deduction-business.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-15-repaso-11-14",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-15-repaso-11-14.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-16-passive-all-tenses-heritage",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-16-passive-all-tenses-heritage.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-17-modal-passive-adventure",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-17-modal-passive-adventure.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-18-so-such-too-enough-food",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-18-so-such-too-enough-food.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-19-advanced-comparatives-literature",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-19-advanced-comparatives-literature.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-2-future-tenses-work",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-2-future-tenses-work.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "2 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-20-repaso-16-19",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-20-repaso-16-19.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-21-linkers-contrast-personal-development",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-21-linkers-contrast-personal-development.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-22-linkers-reason-purpose-photography",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-22-linkers-reason-purpose-photography.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-23-phrasal-verbs-1-home-living",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-23-phrasal-verbs-1-home-living.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-24-phrasal-verbs-2-social-media",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-24-phrasal-verbs-2-social-media.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-25-repaso-21-24",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-25-repaso-21-24.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-26-phrasal-verbs-3-sustainability",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-26-phrasal-verbs-3-sustainability.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-27-phrasal-verbs-4-music",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-27-phrasal-verbs-4-music.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-28-collocations-verb-noun-food",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-28-collocations-verb-noun-food.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-29-collocations-adj-noun-psychology",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-29-collocations-adj-noun-psychology.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-3-gerund-infinitive-education",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-3-gerund-infinitive-education.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "2 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-30-repaso-26-29",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-30-repaso-26-29.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-31-articles-advanced-education",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-31-articles-advanced-education.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-32-quantifiers-environment",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-32-quantifiers-environment.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-33-regret-remember-forget-feelings",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-33-regret-remember-forget-feelings.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-34-state-verbs-technology",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-34-state-verbs-technology.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-35-repaso-31-34",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-35-repaso-31-34.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-36-used-to-would-culture",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-36-used-to-would-culture.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-37-auxiliaries-business",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-37-auxiliaries-business.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "845 palabras (<1500)"
+    },
+    {
+      "slug": "unidad-37-auxiliaries-business",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-37-auxiliaries-business.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-38-phrasal-verbs-5-run-set-take-leisure",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-38-phrasal-verbs-5-run-set-take-leisure.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "829 palabras (<1500)"
+    },
+    {
+      "slug": "unidad-38-phrasal-verbs-5-run-set-take-leisure",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-38-phrasal-verbs-5-run-set-take-leisure.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-39-phrasal-verbs-6-turn-work-sport",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-39-phrasal-verbs-6-turn-work-sport.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "808 palabras (<1500)"
+    },
+    {
+      "slug": "unidad-39-phrasal-verbs-6-turn-work-sport",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-39-phrasal-verbs-6-turn-work-sport.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-4-gerund-object-infinitive-leisure",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-4-gerund-object-infinitive-leisure.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "2 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-40-repaso-36-39",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-40-repaso-36-39.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "823 palabras (<1500)"
+    },
+    {
+      "slug": "unidad-40-repaso-36-39",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-40-repaso-36-39.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-41-gerunds-infinitives-education",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-41-gerunds-infinitives-education.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-42-passive-reporting-science",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-42-passive-reporting-science.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-43-modals-obligation-university",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-43-modals-obligation-university.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-44-future-perfect-medical",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-44-future-perfect-medical.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-45-modal-deduction-space",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-45-modal-deduction-space.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-46-mixed-conditionals-psychology",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-46-mixed-conditionals-psychology.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-47-cleft-sentences-academic-writing",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-47-cleft-sentences-academic-writing.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-48-reporting-verbs-teaching",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-48-reporting-verbs-teaching.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-49-inversion-sociology",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-49-inversion-sociology.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-5-repaso-1-4",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-5-repaso-1-4.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "2 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-50-repaso-41-49",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-50-repaso-41-49.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-51-wish-third-conditional-economy",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-51-wish-third-conditional-economy.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "3 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-52-passive-reported-speech-human-rights-ejercicios-soluciones",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-52-passive-reported-speech-human-rights-ejercicios-soluciones.md",
+      "severity": "medium",
+      "type": "title_long",
+      "detail": "75 chars (ideal 30-65)"
+    },
+    {
+      "slug": "unidad-52-passive-reported-speech-human-rights-ejercicios-soluciones",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-52-passive-reported-speech-human-rights-ejercicios-soluciones.md",
+      "severity": "low",
+      "type": "description_long",
+      "detail": "202 chars (ideal 120-170)"
+    },
+    {
+      "slug": "unidad-52-passive-reported-speech-human-rights-ejercicios-soluciones",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-52-passive-reported-speech-human-rights-ejercicios-soluciones.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "869 palabras (<1500)"
+    },
+    {
+      "slug": "unidad-52-passive-reported-speech-human-rights",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-52-passive-reported-speech-human-rights.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "2 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-53-modals-phrasal-verbs-career",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-53-modals-phrasal-verbs-career.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "2 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-54-linkers-collocations-geopolitics",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-54-linkers-collocations-geopolitics.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "2 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-55-repaso-51-54-globalisation",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-55-repaso-51-54-globalisation.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-58-exam-strategies-use-of-english",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-58-exam-strategies-use-of-english.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-6-wish-if-only-feelings",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-6-wish-if-only-feelings.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-60-final-b2-review",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-60-final-b2-review.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "4 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-7-would-rather-family",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-7-would-rather-family.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-8-mixed-conditionals-travel",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-8-mixed-conditionals-travel.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-9-participle-clauses-environment",
+      "filePath": "src\\content\\blog\\curso-b2\\unidad-9-participle-clauses-environment.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-1-deduccion-identidad",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-1-deduccion-identidad.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-10-repaso-etica-futuro",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-10-repaso-etica-futuro.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-11-cleft-education",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-11-cleft-education.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-12-condicionales-urbanismo",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-12-condicionales-urbanismo.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-13-participle-clauses-viajes",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-13-participle-clauses-viajes.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-14-subjuntivo-gastronomia",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-14-subjuntivo-gastronomia.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-15-enfasis-deporte",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-15-enfasis-deporte.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-16-pasiva-musica",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-16-pasiva-musica.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-17-literatura-storytelling",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-17-literatura-storytelling.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-18-moda-identidad",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-18-moda-identidad.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-19-crimen-justicia",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-19-crimen-justicia.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-2-aspecto-perfecto",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-2-aspecto-perfecto.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-20-economia-globalizacion",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-20-economia-globalizacion.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-21-clima-medioambiente",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-21-clima-medioambiente.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-22-biodiversidad-conservacion",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-22-biodiversidad-conservacion.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-23-desastres-naturales-riesgo",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-23-desastres-naturales-riesgo.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-24-oceanos-vida-marina",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-24-oceanos-vida-marina.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-25-cine-audiovisual",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-25-cine-audiovisual.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-26-artes-visuales-estetica",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-26-artes-visuales-estetica.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-27-teatro-performance",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-27-teatro-performance.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-28-danza-coreografia",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-28-danza-coreografia.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-29-fotografia-relato-visual",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-29-fotografia-relato-visual.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-3-condicionales-mixtos-ciencia",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-3-condicionales-mixtos-ciencia.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-30-patrimonio-preservacion",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-30-patrimonio-preservacion.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-31-carreras-ambicion-laboral",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-31-carreras-ambicion-laboral.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-32-negocios-tendencias",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-32-negocios-tendencias.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-33-emprendimiento-innovacion",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-33-emprendimiento-innovacion.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-34-liderazgo-gestion",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-34-liderazgo-gestion.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-35-etica-corporativa",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-35-etica-corporativa.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-36-economia-sociedad",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-36-economia-sociedad.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-37-salud-mental-bienestar",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-37-salud-mental-bienestar.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-38-neurociencia-divulgativa",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-38-neurociencia-divulgativa.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-39-nutricion-estilo-de-vida",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-39-nutricion-estilo-de-vida.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-4-relativas-hedging-naturaleza",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-4-relativas-hedging-naturaleza.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-40-longevidad-envejecimiento",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-40-longevidad-envejecimiento.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-41-medicina-complementaria",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-41-medicina-complementaria.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-42-consolidacion-salud-mente",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-42-consolidacion-salud-mente.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-43-derechos-humanos-derecho-internacional",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-43-derechos-humanos-derecho-internacional.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-44-migracion-desplazamiento",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-44-migracion-desplazamiento.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-5-tiempos-narrativos-arte",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-5-tiempos-narrativos-arte.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-6-estructuras-it-economia",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-6-estructuras-it-economia.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-7-nominal-reporting-concession-salud",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-7-nominal-reporting-concession-salud.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-8-fronting-contraste-global",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-8-fronting-contraste-global.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-9-distancing-medios",
+      "filePath": "src\\content\\blog\\curso-c1\\unidad-9-distancing-medios.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "unidad-1-greetings-names-ser-ejercicios-soluciones",
+      "filePath": "src\\content\\blog\\curso-espanol-a1\\unidad-1-greetings-names-ser-ejercicios-soluciones.md",
+      "severity": "medium",
+      "type": "title_long",
+      "detail": "77 chars (ideal 30-65)"
+    },
+    {
+      "slug": "aptis-a2-guia-completa",
+      "filePath": "src\\content\\blog\\examenes\\aptis-a2-guia-completa.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "962 palabras (<1500)"
+    },
+    {
+      "slug": "aptis-advanced-c1-guia",
+      "filePath": "src\\content\\blog\\examenes\\aptis-advanced-c1-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1050 palabras (<1500)"
+    },
+    {
+      "slug": "aptis-general-guia-completa",
+      "filePath": "src\\content\\blog\\examenes\\aptis-general-guia-completa.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1196 palabras (<1500)"
+    },
+    {
+      "slug": "aptis-general-speaking-writing-tips",
+      "filePath": "src\\content\\blog\\examenes\\aptis-general-speaking-writing-tips.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1337 palabras (<1500)"
+    },
+    {
+      "slug": "becas-solicitudes-ingles",
+      "filePath": "src\\content\\blog\\examenes\\becas-solicitudes-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1206 palabras (<1500)"
+    },
+    {
+      "slug": "cambridge-b2-first-estrategias-aprobar",
+      "filePath": "src\\content\\blog\\examenes\\cambridge-b2-first-estrategias-aprobar.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1147 palabras (<1500)"
+    },
+    {
+      "slug": "cambridge-c1-advanced-guia",
+      "filePath": "src\\content\\blog\\examenes\\cambridge-c1-advanced-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "946 palabras (<1500)"
+    },
+    {
+      "slug": "cambridge-c2-proficiency-guia",
+      "filePath": "src\\content\\blog\\examenes\\cambridge-c2-proficiency-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "874 palabras (<1500)"
+    },
+    {
+      "slug": "collocations-ingles-c1",
+      "filePath": "src\\content\\blog\\examenes\\collocations-ingles-c1.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1004 palabras (<1500)"
+    },
+    {
+      "slug": "dele-vs-cambridge-vs-ielts-vs-aptis",
+      "filePath": "src\\content\\blog\\examenes\\dele-vs-cambridge-vs-ielts-vs-aptis.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1140 palabras (<1500)"
+    },
+    {
+      "slug": "examenes-eoi-ingles-guia",
+      "filePath": "src\\content\\blog\\examenes\\examenes-eoi-ingles-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1064 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-computer-vs-papel",
+      "filePath": "src\\content\\blog\\examenes\\ielts-computer-vs-papel.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1301 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-dia-del-examen",
+      "filePath": "src\\content\\blog\\examenes\\ielts-dia-del-examen.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1162 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-general-training-guia",
+      "filePath": "src\\content\\blog\\examenes\\ielts-general-training-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1115 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-listening-estrategias",
+      "filePath": "src\\content\\blog\\examenes\\ielts-listening-estrategias.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1042 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-reading-trucos",
+      "filePath": "src\\content\\blog\\examenes\\ielts-reading-trucos.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1106 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-speaking-estrategias",
+      "filePath": "src\\content\\blog\\examenes\\ielts-speaking-estrategias.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1162 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-vocabulario-academico",
+      "filePath": "src\\content\\blog\\examenes\\ielts-vocabulario-academico.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1129 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-vs-toefl-diferencias-cual-elegir",
+      "filePath": "src\\content\\blog\\examenes\\ielts-vs-toefl-diferencias-cual-elegir.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "907 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-writing-task-1-graficos",
+      "filePath": "src\\content\\blog\\examenes\\ielts-writing-task-1-graficos.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1102 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-writing-task-2-essay",
+      "filePath": "src\\content\\blog\\examenes\\ielts-writing-task-2-essay.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1025 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-universitario-academico",
+      "filePath": "src\\content\\blog\\examenes\\ingles-universitario-academico.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1173 palabras (<1500)"
+    },
+    {
+      "slug": "inversiones-ingles-c1",
+      "filePath": "src\\content\\blog\\examenes\\inversiones-ingles-c1.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "997 palabras (<1500)"
+    },
+    {
+      "slug": "key-word-transformations-cae",
+      "filePath": "src\\content\\blog\\examenes\\key-word-transformations-cae.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1061 palabras (<1500)"
+    },
+    {
+      "slug": "listening-cae-consejos",
+      "filePath": "src\\content\\blog\\examenes\\listening-cae-consejos.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "990 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-certificados-ingles-2026",
+      "filePath": "src\\content\\blog\\examenes\\mejores-certificados-ingles-2026.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "937 palabras (<1500)"
+    },
+    {
+      "slug": "precios-examenes-cambridge",
+      "filePath": "src\\content\\blog\\examenes\\precios-examenes-cambridge.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "841 palabras (<1500)"
+    },
+    {
+      "slug": "preparacion-examen-b1-cambridge",
+      "filePath": "src\\content\\blog\\examenes\\preparacion-examen-b1-cambridge.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "908 palabras (<1500)"
+    },
+    {
+      "slug": "preparar-b1-cambridge-por-cuenta-propia",
+      "filePath": "src\\content\\blog\\examenes\\preparar-b1-cambridge-por-cuenta-propia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "956 palabras (<1500)"
+    },
+    {
+      "slug": "preparar-ielts-desde-b2",
+      "filePath": "src\\content\\blog\\examenes\\preparar-ielts-desde-b2.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1189 palabras (<1500)"
+    },
+    {
+      "slug": "reading-cae-estrategias",
+      "filePath": "src\\content\\blog\\examenes\\reading-cae-estrategias.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1049 palabras (<1500)"
+    },
+    {
+      "slug": "reported-speech-cambridge-exams",
+      "filePath": "src\\content\\blog\\examenes\\reported-speech-cambridge-exams.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "836 palabras (<1500)"
+    },
+    {
+      "slug": "speaking-cae-avanzado",
+      "filePath": "src\\content\\blog\\examenes\\speaking-cae-avanzado.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1081 palabras (<1500)"
+    },
+    {
+      "slug": "trucos-writing-c1-advanced",
+      "filePath": "src\\content\\blog\\examenes\\trucos-writing-c1-advanced.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "932 palabras (<1500)"
+    },
+    {
+      "slug": "use-of-english-c1-ejercicios",
+      "filePath": "src\\content\\blog\\examenes\\use-of-english-c1-ejercicios.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1248 palabras (<1500)"
+    },
+    {
+      "slug": "vocabulario-c1-avanzado",
+      "filePath": "src\\content\\blog\\examenes\\vocabulario-c1-avanzado.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1040 palabras (<1500)"
+    },
+    {
+      "slug": "word-formation-cae",
+      "filePath": "src\\content\\blog\\examenes\\word-formation-cae.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1051 palabras (<1500)"
+    },
+    {
+      "slug": "writing-essay-cae",
+      "filePath": "src\\content\\blog\\examenes\\writing-essay-cae.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1011 palabras (<1500)"
+    },
+    {
+      "slug": "acento-britanico-vs-americano-diferencias",
+      "filePath": "src\\content\\blog\\gramatica\\acento-britanico-vs-americano-diferencias.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1109 palabras (<1500)"
+    },
+    {
+      "slug": "acento-sur-eeuu-southern-american",
+      "filePath": "src\\content\\blog\\gramatica\\acento-sur-eeuu-southern-american.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1142 palabras (<1500)"
+    },
+    {
+      "slug": "activa-vs-pasiva-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\activa-vs-pasiva-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "927 palabras (<1500)"
+    },
+    {
+      "slug": "can-could-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\can-could-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1177 palabras (<1500)"
+    },
+    {
+      "slug": "como-entrenar-oido-acentos-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\como-entrenar-oido-acentos-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1182 palabras (<1500)"
+    },
+    {
+      "slug": "como-leer-transcripcion-fonetica-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\como-leer-transcripcion-fonetica-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1331 palabras (<1500)"
+    },
+    {
+      "slug": "condicionales-ingles-b2-examen",
+      "filePath": "src\\content\\blog\\gramatica\\condicionales-ingles-b2-examen.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "916 palabras (<1500)"
+    },
+    {
+      "slug": "condicionales-ingles-conversacion",
+      "filePath": "src\\content\\blog\\gramatica\\condicionales-ingles-conversacion.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "843 palabras (<1500)"
+    },
+    {
+      "slug": "condicionales-ingles-errores-comunes",
+      "filePath": "src\\content\\blog\\gramatica\\condicionales-ingles-errores-comunes.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "961 palabras (<1500)"
+    },
+    {
+      "slug": "condicionales-ingles-mixtos-avanzados",
+      "filePath": "src\\content\\blog\\gramatica\\condicionales-ingles-mixtos-avanzados.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1039 palabras (<1500)"
+    },
+    {
+      "slug": "condicionales-ingles-writing",
+      "filePath": "src\\content\\blog\\gramatica\\condicionales-ingles-writing.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "848 palabras (<1500)"
+    },
+    {
+      "slug": "consonantes-dificiles-ingles-hispanohablantes",
+      "filePath": "src\\content\\blog\\gramatica\\consonantes-dificiles-ingles-hispanohablantes.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1437 palabras (<1500)"
+    },
+    {
+      "slug": "ejercicios-condicionales-a2-b1",
+      "filePath": "src\\content\\blog\\gramatica\\ejercicios-condicionales-a2-b1.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "801 palabras (<1500)"
+    },
+    {
+      "slug": "ejercicios-condicionales-b1-b2",
+      "filePath": "src\\content\\blog\\gramatica\\ejercicios-condicionales-b1-b2.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "824 palabras (<1500)"
+    },
+    {
+      "slug": "ejercicios-condicionales-c1-c2",
+      "filePath": "src\\content\\blog\\gramatica\\ejercicios-condicionales-c1-c2.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "809 palabras (<1500)"
+    },
+    {
+      "slug": "ejercicios-condicionales-ingles-b1-b2",
+      "filePath": "src\\content\\blog\\gramatica\\ejercicios-condicionales-ingles-b1-b2.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1000 palabras (<1500)"
+    },
+    {
+      "slug": "ejercicios-condicionales-ingles-c1",
+      "filePath": "src\\content\\blog\\gramatica\\ejercicios-condicionales-ingles-c1.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "994 palabras (<1500)"
+    },
+    {
+      "slug": "ejercicios-voz-pasiva-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\ejercicios-voz-pasiva-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "968 palabras (<1500)"
+    },
+    {
+      "slug": "entonacion-ingles-patrones",
+      "filePath": "src\\content\\blog\\gramatica\\entonacion-ingles-patrones.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1239 palabras (<1500)"
+    },
+    {
+      "slug": "errores-pronunciacion-hispanohablantes",
+      "filePath": "src\\content\\blog\\gramatica\\errores-pronunciacion-hispanohablantes.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1475 palabras (<1500)"
+    },
+    {
+      "slug": "errores-tiempos-pasado-espanoles",
+      "filePath": "src\\content\\blog\\gramatica\\errores-tiempos-pasado-espanoles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1050 palabras (<1500)"
+    },
+    {
+      "slug": "fonetica-inglesa-basica",
+      "filePath": "src\\content\\blog\\gramatica\\fonetica-inglesa-basica.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1495 palabras (<1500)"
+    },
+    {
+      "slug": "gramatica-ingles-b1-guia",
+      "filePath": "src\\content\\blog\\gramatica\\gramatica-ingles-b1-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1097 palabras (<1500)"
+    },
+    {
+      "slug": "gramatica-inglesa-guia",
+      "filePath": "src\\content\\blog\\gramatica\\gramatica-inglesa-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "856 palabras (<1500)"
+    },
+    {
+      "slug": "guia-maestra-reported-speech",
+      "filePath": "src\\content\\blog\\gramatica\\guia-maestra-reported-speech.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1046 palabras (<1500)"
+    },
+    {
+      "slug": "herramientas-online-pronunciacion-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\herramientas-online-pronunciacion-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1353 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-australiano-caracteristicas",
+      "filePath": "src\\content\\blog\\gramatica\\ingles-australiano-caracteristicas.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1009 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-canadiense-diferencias",
+      "filePath": "src\\content\\blog\\gramatica\\ingles-canadiense-diferencias.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "869 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-como-lengua-franca-elf",
+      "filePath": "src\\content\\blog\\gramatica\\ingles-como-lengua-franca-elf.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1166 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-escoces-como-entenderlo",
+      "filePath": "src\\content\\blog\\gramatica\\ingles-escoces-como-entenderlo.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1025 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-indio-caracteristicas",
+      "filePath": "src\\content\\blog\\gramatica\\ingles-indio-caracteristicas.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1112 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-irlandes-acento-guia",
+      "filePath": "src\\content\\blog\\gramatica\\ingles-irlandes-acento-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1079 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-nueva-zelanda-caracteristicas",
+      "filePath": "src\\content\\blog\\gramatica\\ingles-nueva-zelanda-caracteristicas.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "994 palabras (<1500)"
+    },
+    {
+      "slug": "ipa-ingles-guia-practica",
+      "filePath": "src\\content\\blog\\gramatica\\ipa-ingles-guia-practica.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1315 palabras (<1500)"
+    },
+    {
+      "slug": "letras-mudas-ingles-guia-completa",
+      "filePath": "src\\content\\blog\\gramatica\\letras-mudas-ingles-guia-completa.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1330 palabras (<1500)"
+    },
+    {
+      "slug": "may-might-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\may-might-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1025 palabras (<1500)"
+    },
+    {
+      "slug": "modales-perfectos-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\modales-perfectos-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1158 palabras (<1500)"
+    },
+    {
+      "slug": "pares-minimos-ingles-practica",
+      "filePath": "src\\content\\blog\\gramatica\\pares-minimos-ingles-practica.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1374 palabras (<1500)"
+    },
+    {
+      "slug": "pasiva-doble-objeto-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\pasiva-doble-objeto-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "873 palabras (<1500)"
+    },
+    {
+      "slug": "pasiva-impersonal-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\pasiva-impersonal-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "983 palabras (<1500)"
+    },
+    {
+      "slug": "pasiva-ingles-errores-comunes",
+      "filePath": "src\\content\\blog\\gramatica\\pasiva-ingles-errores-comunes.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1036 palabras (<1500)"
+    },
+    {
+      "slug": "pasiva-ingles-futuro",
+      "filePath": "src\\content\\blog\\gramatica\\pasiva-ingles-futuro.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "909 palabras (<1500)"
+    },
+    {
+      "slug": "pasiva-ingles-noticias",
+      "filePath": "src\\content\\blog\\gramatica\\pasiva-ingles-noticias.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "973 palabras (<1500)"
+    },
+    {
+      "slug": "pasiva-ingles-textos-academicos",
+      "filePath": "src\\content\\blog\\gramatica\\pasiva-ingles-textos-academicos.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "969 palabras (<1500)"
+    },
+    {
+      "slug": "pasiva-modales-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\pasiva-modales-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "999 palabras (<1500)"
+    },
+    {
+      "slug": "pasiva-pasado-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\pasiva-pasado-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "842 palabras (<1500)"
+    },
+    {
+      "slug": "pasiva-presente-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\pasiva-presente-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "966 palabras (<1500)"
+    },
+    {
+      "slug": "passive-reporting-verbs-guia-avanzada",
+      "filePath": "src\\content\\blog\\gramatica\\passive-reporting-verbs-guia-avanzada.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "922 palabras (<1500)"
+    },
+    {
+      "slug": "past-simple-usos-reglas",
+      "filePath": "src\\content\\blog\\gramatica\\past-simple-usos-reglas.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1064 palabras (<1500)"
+    },
+    {
+      "slug": "past-simple-verbos-irregulares",
+      "filePath": "src\\content\\blog\\gramatica\\past-simple-verbos-irregulares.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1226 palabras (<1500)"
+    },
+    {
+      "slug": "past-simple-vs-past-continuous",
+      "filePath": "src\\content\\blog\\gramatica\\past-simple-vs-past-continuous.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "878 palabras (<1500)"
+    },
+    {
+      "slug": "phrasal-verbs-b2-fce",
+      "filePath": "src\\content\\blog\\gramatica\\phrasal-verbs-b2-fce.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1054 palabras (<1500)"
+    },
+    {
+      "slug": "phrasal-verbs-c1-avanzados",
+      "filePath": "src\\content\\blog\\gramatica\\phrasal-verbs-c1-avanzados.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1061 palabras (<1500)"
+    },
+    {
+      "slug": "phrasal-verbs-conversacion-cotidiana",
+      "filePath": "src\\content\\blog\\gramatica\\phrasal-verbs-conversacion-cotidiana.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "958 palabras (<1500)"
+    },
+    {
+      "slug": "phrasal-verbs-with-get",
+      "filePath": "src\\content\\blog\\gramatica\\phrasal-verbs-with-get.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1074 palabras (<1500)"
+    },
+    {
+      "slug": "phrasal-verbs-with-go",
+      "filePath": "src\\content\\blog\\gramatica\\phrasal-verbs-with-go.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "904 palabras (<1500)"
+    },
+    {
+      "slug": "phrasal-verbs-with-make",
+      "filePath": "src\\content\\blog\\gramatica\\phrasal-verbs-with-make.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "876 palabras (<1500)"
+    },
+    {
+      "slug": "phrasal-verbs-with-take",
+      "filePath": "src\\content\\blog\\gramatica\\phrasal-verbs-with-take.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "892 palabras (<1500)"
+    },
+    {
+      "slug": "preposiciones-movimiento-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\preposiciones-movimiento-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "863 palabras (<1500)"
+    },
+    {
+      "slug": "present-perfect-continuous",
+      "filePath": "src\\content\\blog\\gramatica\\present-perfect-continuous.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "830 palabras (<1500)"
+    },
+    {
+      "slug": "present-perfect-ever-never",
+      "filePath": "src\\content\\blog\\gramatica\\present-perfect-ever-never.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "854 palabras (<1500)"
+    },
+    {
+      "slug": "present-perfect-just-already-yet",
+      "filePath": "src\\content\\blog\\gramatica\\present-perfect-just-already-yet.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1071 palabras (<1500)"
+    },
+    {
+      "slug": "present-perfect-since-for",
+      "filePath": "src\\content\\blog\\gramatica\\present-perfect-since-for.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "800 palabras (<1500)"
+    },
+    {
+      "slug": "present-perfect-usos-principales",
+      "filePath": "src\\content\\blog\\gramatica\\present-perfect-usos-principales.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "939 palabras (<1500)"
+    },
+    {
+      "slug": "present-perfect-vs-past-simple",
+      "filePath": "src\\content\\blog\\gramatica\\present-perfect-vs-past-simple.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "823 palabras (<1500)"
+    },
+    {
+      "slug": "pronunciacion-ed-s-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\pronunciacion-ed-s-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1145 palabras (<1500)"
+    },
+    {
+      "slug": "pronunciacion-ingles-guia-completa",
+      "filePath": "src\\content\\blog\\gramatica\\pronunciacion-ingles-guia-completa.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1394 palabras (<1500)"
+    },
+    {
+      "slug": "pronunciacion-vocales-ingles-americano",
+      "filePath": "src\\content\\blog\\gramatica\\pronunciacion-vocales-ingles-americano.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1299 palabras (<1500)"
+    },
+    {
+      "slug": "relative-clauses-guia-definitiva",
+      "filePath": "src\\content\\blog\\gramatica\\relative-clauses-guia-definitiva.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "841 palabras (<1500)"
+    },
+    {
+      "slug": "reported-speech-backshift-excepciones",
+      "filePath": "src\\content\\blog\\gramatica\\reported-speech-backshift-excepciones.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1110 palabras (<1500)"
+    },
+    {
+      "slug": "reported-speech-ejercicios-pdf",
+      "filePath": "src\\content\\blog\\gramatica\\reported-speech-ejercicios-pdf.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1288 palabras (<1500)"
+    },
+    {
+      "slug": "reported-speech-expresiones-tiempo",
+      "filePath": "src\\content\\blog\\gramatica\\reported-speech-expresiones-tiempo.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1076 palabras (<1500)"
+    },
+    {
+      "slug": "reported-speech-questions-commands",
+      "filePath": "src\\content\\blog\\gramatica\\reported-speech-questions-commands.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "839 palabras (<1500)"
+    },
+    {
+      "slug": "reporting-verbs-patterns-list",
+      "filePath": "src\\content\\blog\\gramatica\\reporting-verbs-patterns-list.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "871 palabras (<1500)"
+    },
+    {
+      "slug": "say-vs-tell-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\say-vs-tell-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1079 palabras (<1500)"
+    },
+    {
+      "slug": "second-conditional-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\second-conditional-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "869 palabras (<1500)"
+    },
+    {
+      "slug": "semi-modales-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\semi-modales-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1195 palabras (<1500)"
+    },
+    {
+      "slug": "shadowing-pronunciacion-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\shadowing-pronunciacion-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1219 palabras (<1500)"
+    },
+    {
+      "slug": "should-would-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\should-would-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1170 palabras (<1500)"
+    },
+    {
+      "slug": "sonido-th-ingles-como-pronunciarlo",
+      "filePath": "src\\content\\blog\\gramatica\\sonido-th-ingles-como-pronunciarlo.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1461 palabras (<1500)"
+    },
+    {
+      "slug": "third-conditional-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\third-conditional-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "919 palabras (<1500)"
+    },
+    {
+      "slug": "unless-ingles-condicionales",
+      "filePath": "src\\content\\blog\\gramatica\\unless-ingles-condicionales.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "907 palabras (<1500)"
+    },
+    {
+      "slug": "verbos-modales-ingles-avanzados",
+      "filePath": "src\\content\\blog\\gramatica\\verbos-modales-ingles-avanzados.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "936 palabras (<1500)"
+    },
+    {
+      "slug": "verbos-modales-ingles-ejercicios",
+      "filePath": "src\\content\\blog\\gramatica\\verbos-modales-ingles-ejercicios.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "823 palabras (<1500)"
+    },
+    {
+      "slug": "verbos-modales-ingles-guia",
+      "filePath": "src\\content\\blog\\gramatica\\verbos-modales-ingles-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1015 palabras (<1500)"
+    },
+    {
+      "slug": "voz-pasiva-avanzada-guia",
+      "filePath": "src\\content\\blog\\gramatica\\voz-pasiva-avanzada-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "816 palabras (<1500)"
+    },
+    {
+      "slug": "voz-pasiva-ingles-guia",
+      "filePath": "src\\content\\blog\\gramatica\\voz-pasiva-ingles-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1367 palabras (<1500)"
+    },
+    {
+      "slug": "will-ejercicios-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\will-ejercicios-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "907 palabras (<1500)"
+    },
+    {
+      "slug": "will-expresiones-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\will-expresiones-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "970 palabras (<1500)"
+    },
+    {
+      "slug": "will-futuro-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\will-futuro-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1178 palabras (<1500)"
+    },
+    {
+      "slug": "will-going-to-diferencia",
+      "filePath": "src\\content\\blog\\gramatica\\will-going-to-diferencia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "879 palabras (<1500)"
+    },
+    {
+      "slug": "will-ofertas-peticiones-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\will-ofertas-peticiones-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1086 palabras (<1500)"
+    },
+    {
+      "slug": "will-preguntas-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\will-preguntas-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1061 palabras (<1500)"
+    },
+    {
+      "slug": "will-probabilidad-certeza-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\will-probabilidad-certeza-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "818 palabras (<1500)"
+    },
+    {
+      "slug": "will-promesas-decisiones-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\will-promesas-decisiones-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "870 palabras (<1500)"
+    },
+    {
+      "slug": "will-shall-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\will-shall-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "972 palabras (<1500)"
+    },
+    {
+      "slug": "will-would-diferencia",
+      "filePath": "src\\content\\blog\\gramatica\\will-would-diferencia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1083 palabras (<1500)"
+    },
+    {
+      "slug": "wish-if-only-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\wish-if-only-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "936 palabras (<1500)"
+    },
+    {
+      "slug": "wont-ingles-usos",
+      "filePath": "src\\content\\blog\\gramatica\\wont-ingles-usos.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1079 palabras (<1500)"
+    },
+    {
+      "slug": "word-stress-ingles-acento-tonico",
+      "filePath": "src\\content\\blog\\gramatica\\word-stress-ingles-acento-tonico.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1460 palabras (<1500)"
+    },
+    {
+      "slug": "zero-conditional-ingles",
+      "filePath": "src\\content\\blog\\gramatica\\zero-conditional-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "964 palabras (<1500)"
+    },
+    {
+      "slug": "acentos-ingles-diferencias",
+      "filePath": "src\\content\\blog\\metodos\\acentos-ingles-diferencias.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1311 palabras (<1500)"
+    },
+    {
+      "slug": "apps-ingles-gratuitas-vs-pago",
+      "filePath": "src\\content\\blog\\metodos\\apps-ingles-gratuitas-vs-pago.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "847 palabras (<1500)"
+    },
+    {
+      "slug": "apps-vs-cursos-ingles",
+      "filePath": "src\\content\\blog\\metodos\\apps-vs-cursos-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1022 palabras (<1500)"
+    },
+    {
+      "slug": "aprender-ingles-con-chatgpt",
+      "filePath": "src\\content\\blog\\metodos\\aprender-ingles-con-chatgpt.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "857 palabras (<1500)"
+    },
+    {
+      "slug": "bloqueo-mental-ingles-superar",
+      "filePath": "src\\content\\blog\\metodos\\bloqueo-mental-ingles-superar.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1027 palabras (<1500)"
+    },
+    {
+      "slug": "clases-de-ingles-guia",
+      "filePath": "src\\content\\blog\\metodos\\clases-de-ingles-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "847 palabras (<1500)"
+    },
+    {
+      "slug": "como-estudiar-ingles-sin-tiempo",
+      "filePath": "src\\content\\blog\\metodos\\como-estudiar-ingles-sin-tiempo.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "969 palabras (<1500)"
+    },
+    {
+      "slug": "costumbres-britanicas-guia-viajero",
+      "filePath": "src\\content\\blog\\metodos\\costumbres-britanicas-guia-viajero.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1069 palabras (<1500)"
+    },
+    {
+      "slug": "cuanto-se-tarda-en-aprender-ingles",
+      "filePath": "src\\content\\blog\\metodos\\cuanto-se-tarda-en-aprender-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "878 palabras (<1500)"
+    },
+    {
+      "slug": "cultura-americana-diferencias-espana",
+      "filePath": "src\\content\\blog\\metodos\\cultura-americana-diferencias-espana.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1031 palabras (<1500)"
+    },
+    {
+      "slug": "cultura-anglosajona-guia",
+      "filePath": "src\\content\\blog\\metodos\\cultura-anglosajona-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1127 palabras (<1500)"
+    },
+    {
+      "slug": "curso-ingles-gratis",
+      "filePath": "src\\content\\blog\\metodos\\curso-ingles-gratis.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "curso-ingles-online",
+      "filePath": "src\\content\\blog\\metodos\\curso-ingles-online.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "cursos-online-ingles-b1",
+      "filePath": "src\\content\\blog\\metodos\\cursos-online-ingles-b1.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "811 palabras (<1500)"
+    },
+    {
+      "slug": "guia-erasmus-estudios-extranjero",
+      "filePath": "src\\content\\blog\\metodos\\guia-erasmus-estudios-extranjero.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1337 palabras (<1500)"
+    },
+    {
+      "slug": "hablar-ingles-con-fluidez",
+      "filePath": "src\\content\\blog\\metodos\\hablar-ingles-con-fluidez.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1155 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-a1-vs-a2",
+      "filePath": "src\\content\\blog\\metodos\\ingles-a1-vs-a2.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "862 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-a1",
+      "filePath": "src\\content\\blog\\metodos\\ingles-a1.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "844 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-a2",
+      "filePath": "src\\content\\blog\\metodos\\ingles-a2.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1085 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-americano-vs-britanico",
+      "filePath": "src\\content\\blog\\metodos\\ingles-americano-vs-britanico.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1273 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-b2",
+      "filePath": "src\\content\\blog\\metodos\\ingles-b2.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1055 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-c1",
+      "filePath": "src\\content\\blog\\metodos\\ingles-c1.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1477 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-gamer-videojuegos",
+      "filePath": "src\\content\\blog\\metodos\\ingles-gamer-videojuegos.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1084 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-para-deportes",
+      "filePath": "src\\content\\blog\\metodos\\ingles-para-deportes.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "986 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-para-ligar-y-citas",
+      "filePath": "src\\content\\blog\\metodos\\ingles-para-ligar-y-citas.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1252 palabras (<1500)"
+    },
+    {
+      "slug": "mejor-app-aprender-ingles",
+      "filePath": "src\\content\\blog\\metodos\\mejor-app-aprender-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "999 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-apps-ingles-gratis",
+      "filePath": "src\\content\\blog\\metodos\\mejores-apps-ingles-gratis.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1194 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-aba-english",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-aba-english.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "910 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-aba-english",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-aba-english.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-babbel",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-babbel.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1064 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-babbel",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-babbel.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-british-council",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-british-council.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1212 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-british-council",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-british-council.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-coursera-examenes",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-coursera-examenes.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "891 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-coursera-examenes",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-coursera-examenes.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-duolingo",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-duolingo.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "945 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-duolingo",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-duolingo.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-ef-english-live",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-ef-english-live.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "858 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-ef-english-live",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-ef-english-live.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-focus-english-examenes",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-focus-english-examenes.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1340 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-focus-english-examenes",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-focus-english-examenes.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-lingoda",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-lingoda.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "925 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-lingoda",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-lingoda.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-open-english",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-open-english.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "926 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-open-english",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-open-english.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-preply",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-preply.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1025 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-cursos-ingles-online-preply",
+      "filePath": "src\\content\\blog\\metodos\\mejores-cursos-ingles-online-preply.md",
+      "severity": "low",
+      "type": "h1_in_body",
+      "detail": "1 H1 dentro del markdown"
+    },
+    {
+      "slug": "mejores-libros-aprender-ingles",
+      "filePath": "src\\content\\blog\\metodos\\mejores-libros-aprender-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1020 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-peliculas-series-ingles",
+      "filePath": "src\\content\\blog\\metodos\\mejores-peliculas-series-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "874 palabras (<1500)"
+    },
+    {
+      "slug": "que-significa-tbt-slang-ingles",
+      "filePath": "src\\content\\blog\\metodos\\que-significa-tbt-slang-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "870 palabras (<1500)"
+    },
+    {
+      "slug": "reglas-pronunciacion-ingles",
+      "filePath": "src\\content\\blog\\metodos\\reglas-pronunciacion-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "814 palabras (<1500)"
+    },
+    {
+      "slug": "slang-americano-expresiones-coloquiales",
+      "filePath": "src\\content\\blog\\metodos\\slang-americano-expresiones-coloquiales.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1070 palabras (<1500)"
+    },
+    {
+      "slug": "slang-ingles-britanico-expresiones",
+      "filePath": "src\\content\\blog\\metodos\\slang-ingles-britanico-expresiones.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1012 palabras (<1500)"
+    },
+    {
+      "slug": "vocabulario-ingles-redes-sociales",
+      "filePath": "src\\content\\blog\\metodos\\vocabulario-ingles-redes-sociales.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1151 palabras (<1500)"
+    },
+    {
+      "slug": "vocabulario-ropa-ingles",
+      "filePath": "src\\content\\blog\\metodos\\vocabulario-ropa-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "937 palabras (<1500)"
+    },
+    {
+      "slug": "como-hacer-presentaciones-en-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\como-hacer-presentaciones-en-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1031 palabras (<1500)"
+    },
+    {
+      "slug": "cv-ingles-tecnologia-it",
+      "filePath": "src\\content\\blog\\trabajo\\cv-ingles-tecnologia-it.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1452 palabras (<1500)"
+    },
+    {
+      "slug": "email-actualizacion-proyecto-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\email-actualizacion-proyecto-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1054 palabras (<1500)"
+    },
+    {
+      "slug": "email-confirmacion-reunion-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\email-confirmacion-reunion-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "826 palabras (<1500)"
+    },
+    {
+      "slug": "email-disculpa-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\email-disculpa-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "901 palabras (<1500)"
+    },
+    {
+      "slug": "email-formal-ingles-estructura",
+      "filePath": "src\\content\\blog\\trabajo\\email-formal-ingles-estructura.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1016 palabras (<1500)"
+    },
+    {
+      "slug": "email-negociacion-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\email-negociacion-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "918 palabras (<1500)"
+    },
+    {
+      "slug": "email-queja-reclamacion-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\email-queja-reclamacion-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "895 palabras (<1500)"
+    },
+    {
+      "slug": "email-solicitud-empleo-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\email-solicitud-empleo-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "815 palabras (<1500)"
+    },
+    {
+      "slug": "entrevista-ingles-sin-experiencia",
+      "filePath": "src\\content\\blog\\trabajo\\entrevista-ingles-sin-experiencia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "816 palabras (<1500)"
+    },
+    {
+      "slug": "entrevista-trabajo-ingles-preguntas",
+      "filePath": "src\\content\\blog\\trabajo\\entrevista-trabajo-ingles-preguntas.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1272 palabras (<1500)"
+    },
+    {
+      "slug": "entrevista-virtual-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\entrevista-virtual-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "840 palabras (<1500)"
+    },
+    {
+      "slug": "errores-entrevista-trabajo-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\errores-entrevista-trabajo-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1069 palabras (<1500)"
+    },
+    {
+      "slug": "follow-up-email-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\follow-up-email-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "928 palabras (<1500)"
+    },
+    {
+      "slug": "frases-ingles-atencion-al-cliente-situaciones",
+      "filePath": "src\\content\\blog\\trabajo\\frases-ingles-atencion-al-cliente-situaciones.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1156 palabras (<1500)"
+    },
+    {
+      "slug": "ielts-vs-toefl-trabajo",
+      "filePath": "src\\content\\blog\\trabajo\\ielts-vs-toefl-trabajo.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "916 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-customer-service-telefono-chat",
+      "filePath": "src\\content\\blog\\trabajo\\ingles-customer-service-telefono-chat.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1146 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-emails-trabajo-errores-comunes",
+      "filePath": "src\\content\\blog\\trabajo\\ingles-emails-trabajo-errores-comunes.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "939 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-medico-para-medicos-especialistas",
+      "filePath": "src\\content\\blog\\trabajo\\ingles-medico-para-medicos-especialistas.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1061 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-para-construccion",
+      "filePath": "src\\content\\blog\\trabajo\\ingles-para-construccion.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1010 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-para-ingenieros-software",
+      "filePath": "src\\content\\blog\\trabajo\\ingles-para-ingenieros-software.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1103 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-para-ingenieros",
+      "filePath": "src\\content\\blog\\trabajo\\ingles-para-ingenieros.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "929 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-para-salud",
+      "filePath": "src\\content\\blog\\trabajo\\ingles-para-salud.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1090 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-para-trabajo",
+      "filePath": "src\\content\\blog\\trabajo\\ingles-para-trabajo.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1071 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-tecnico-ingenieria-civil-industrial",
+      "filePath": "src\\content\\blog\\trabajo\\ingles-tecnico-ingenieria-civil-industrial.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1242 palabras (<1500)"
+    },
+    {
+      "slug": "job-interview-english-consejos-avanzados",
+      "filePath": "src\\content\\blog\\trabajo\\job-interview-english-consejos-avanzados.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1027 palabras (<1500)"
+    },
+    {
+      "slug": "mejores-apps-ingles-trabajo",
+      "filePath": "src\\content\\blog\\trabajo\\mejores-apps-ingles-trabajo.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "916 palabras (<1500)"
+    },
+    {
+      "slug": "negociar-salario-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\negociar-salario-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1109 palabras (<1500)"
+    },
+    {
+      "slug": "netiqueta-email-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\netiqueta-email-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "909 palabras (<1500)"
+    },
+    {
+      "slug": "plantillas-emails-profesionales-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\plantillas-emails-profesionales-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "994 palabras (<1500)"
+    },
+    {
+      "slug": "preguntas-dificiles-entrevista-trabajo-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\preguntas-dificiles-entrevista-trabajo-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1100 palabras (<1500)"
+    },
+    {
+      "slug": "preguntas-hacer-entrevistador-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\preguntas-hacer-entrevistador-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1109 palabras (<1500)"
+    },
+    {
+      "slug": "preparar-entrevista-trabajo-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\preparar-entrevista-trabajo-ingles.md",
+      "severity": "medium",
+      "type": "title_long",
+      "detail": "67 chars (ideal 30-65)"
+    },
+    {
+      "slug": "preparar-entrevista-trabajo-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\preparar-entrevista-trabajo-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1124 palabras (<1500)"
+    },
+    {
+      "slug": "tecnica-star-entrevista-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\tecnica-star-entrevista-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "956 palabras (<1500)"
+    },
+    {
+      "slug": "vocabulario-b1-ingles-trabajo",
+      "filePath": "src\\content\\blog\\trabajo\\vocabulario-b1-ingles-trabajo.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1329 palabras (<1500)"
+    },
+    {
+      "slug": "vocabulario-entrevista-trabajo-ingles",
+      "filePath": "src\\content\\blog\\trabajo\\vocabulario-entrevista-trabajo-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "839 palabras (<1500)"
+    },
+    {
+      "slug": "vocabulario-ingles-medico-enfermeria",
+      "filePath": "src\\content\\blog\\trabajo\\vocabulario-ingles-medico-enfermeria.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "962 palabras (<1500)"
+    },
+    {
+      "slug": "vocabulario-negocios-ingles-profesional",
+      "filePath": "src\\content\\blog\\trabajo\\vocabulario-negocios-ingles-profesional.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1356 palabras (<1500)"
+    },
+    {
+      "slug": "curso-de-ingles-para-viajar",
+      "filePath": "src\\content\\blog\\viajes\\curso-de-ingles-para-viajar.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "824 palabras (<1500)"
+    },
+    {
+      "slug": "frases-ingles-emergencias-viajes",
+      "filePath": "src\\content\\blog\\viajes\\frases-ingles-emergencias-viajes.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1058 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-airbnb-alojamiento-alternativo",
+      "filePath": "src\\content\\blog\\viajes\\ingles-airbnb-alojamiento-alternativo.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1067 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-cruceros-viaje-barco",
+      "filePath": "src\\content\\blog\\viajes\\ingles-cruceros-viaje-barco.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1003 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-en-la-cocina",
+      "filePath": "src\\content\\blog\\viajes\\ingles-en-la-cocina.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1185 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-festivales-eventos-viaje",
+      "filePath": "src\\content\\blog\\viajes\\ingles-festivales-eventos-viaje.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "941 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-fotografia-viaje",
+      "filePath": "src\\content\\blog\\viajes\\ingles-fotografia-viaje.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "983 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-mercados-regateo-viaje",
+      "filePath": "src\\content\\blog\\viajes\\ingles-mercados-regateo-viaje.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1068 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-museos-turismo-cultural",
+      "filePath": "src\\content\\blog\\viajes\\ingles-museos-turismo-cultural.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "954 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-para-compras",
+      "filePath": "src\\content\\blog\\viajes\\ingles-para-compras.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1182 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-para-recepcionistas-guia",
+      "filePath": "src\\content\\blog\\viajes\\ingles-para-recepcionistas-guia.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "952 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-para-viajar",
+      "filePath": "src\\content\\blog\\viajes\\ingles-para-viajar.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "991 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-playas-deportes-acuaticos",
+      "filePath": "src\\content\\blog\\viajes\\ingles-playas-deportes-acuaticos.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "902 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-restaurantes-bares-viaje",
+      "filePath": "src\\content\\blog\\viajes\\ingles-restaurantes-bares-viaje.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1246 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-trenes-metro-transporte",
+      "filePath": "src\\content\\blog\\viajes\\ingles-trenes-metro-transporte.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1035 palabras (<1500)"
+    },
+    {
+      "slug": "ingles-viajar-con-ninos",
+      "filePath": "src\\content\\blog\\viajes\\ingles-viajar-con-ninos.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1168 palabras (<1500)"
+    },
+    {
+      "slug": "mudarse-al-extranjero-guia-ingles",
+      "filePath": "src\\content\\blog\\viajes\\mudarse-al-extranjero-guia-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1189 palabras (<1500)"
+    },
+    {
+      "slug": "vocabulario-hotel-ingles",
+      "filePath": "src\\content\\blog\\viajes\\vocabulario-hotel-ingles.md",
+      "severity": "low",
+      "type": "short_content",
+      "detail": "1230 palabras (<1500)"
+    }
+  ],
+  "cannibals": [
+    {
+      "category": "curso-b1",
+      "a": "unidad-10-repaso-6-9-ejercicios-soluciones",
+      "b": "unidad-5-repaso-1-4-ejercicios-soluciones",
+      "titleA": "Repaso de Gramática B1: Unidades 6 a 9",
+      "titleB": "Repaso de Gramática B1: Unidades 1 a 4",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.6
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-27-both-either-neither-ejercicios-soluciones",
+      "b": "unidad-27-both-either-neither",
+      "titleA": "Ejercicios de Both, Either y Neither en Inglés B1",
+      "titleB": "Both, Either y Neither B1: Guía y Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.57
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-44-for-since-from-time-ejercicios-soluciones",
+      "b": "unidad-44-for-since-from-time",
+      "titleA": "Ejercicios de For, Since y From en Inglés B1",
+      "titleB": "For, Since y From B1: Guía y Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.57
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-30-repaso-modulo-3-ejercicios-soluciones",
+      "b": "unidad-50-repaso-modulo-5-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A1: Módulo 3 con Ejercicios",
+      "titleB": "Repaso de Inglés A1: Módulo 5 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.4
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-40-repaso-modulo-4-ejercicios-soluciones",
+      "b": "unidad-50-repaso-modulo-5-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A1: Módulo 4 con Ejercicios",
+      "titleB": "Repaso de Inglés A1: Módulo 5 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.4
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-50-repaso-modulo-5-ejercicios-soluciones",
+      "b": "unidad-60-repaso-modulo-6-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A1: Módulo 5 con Ejercicios",
+      "titleB": "Repaso de Inglés A1: Módulo 6 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.4
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-40-module-4-review-ejercicios-soluciones",
+      "b": "unidad-50-module-5-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 4 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 5 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.3
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-31-defining-relative-nature-ejercicios-soluciones",
+      "b": "unidad-32-nondefining-relative-environment-ejercicios-soluciones",
+      "titleA": "Ejercicios de Oraciones de Relativo Definidas B1",
+      "titleB": "Ejercicios de Oraciones de Relativo No Definidas B1",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.25
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-30-repaso-modulo-3-ejercicios-soluciones",
+      "b": "unidad-40-repaso-modulo-4-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A1: Módulo 3 con Ejercicios",
+      "titleB": "Repaso de Inglés A1: Módulo 4 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-30-repaso-modulo-3-ejercicios-soluciones",
+      "b": "unidad-60-repaso-modulo-6-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A1: Módulo 3 con Ejercicios",
+      "titleB": "Repaso de Inglés A1: Módulo 6 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-40-repaso-modulo-4-ejercicios-soluciones",
+      "b": "unidad-60-repaso-modulo-6-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A1: Módulo 4 con Ejercicios",
+      "titleB": "Repaso de Inglés A1: Módulo 6 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-10-repaso-modulo-1-ejercicios-soluciones",
+      "b": "unidad-20-repaso-modulo-2-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 1 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 2 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-10-repaso-modulo-1-ejercicios-soluciones",
+      "b": "unidad-30-repaso-modulo-3-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 1 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 3 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-10-repaso-modulo-1-ejercicios-soluciones",
+      "b": "unidad-40-module-4-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 1 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 4 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-10-repaso-modulo-1-ejercicios-soluciones",
+      "b": "unidad-50-module-5-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 1 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 5 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-10-repaso-modulo-1-ejercicios-soluciones",
+      "b": "unidad-60-module-6-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 1 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 6 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-20-repaso-modulo-2-ejercicios-soluciones",
+      "b": "unidad-30-repaso-modulo-3-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 2 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 3 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-20-repaso-modulo-2-ejercicios-soluciones",
+      "b": "unidad-40-module-4-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 2 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 4 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-20-repaso-modulo-2-ejercicios-soluciones",
+      "b": "unidad-50-module-5-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 2 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 5 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-20-repaso-modulo-2-ejercicios-soluciones",
+      "b": "unidad-60-module-6-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 2 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 6 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-30-repaso-modulo-3-ejercicios-soluciones",
+      "b": "unidad-40-module-4-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 3 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 4 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-30-repaso-modulo-3-ejercicios-soluciones",
+      "b": "unidad-50-module-5-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 3 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 5 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-30-repaso-modulo-3-ejercicios-soluciones",
+      "b": "unidad-60-module-6-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 3 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 6 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-40-module-4-review-ejercicios-soluciones",
+      "b": "unidad-60-module-6-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 4 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 6 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-50-module-5-review-ejercicios-soluciones",
+      "b": "unidad-60-module-6-review-ejercicios-soluciones",
+      "titleA": "Repaso de Inglés A2: Módulo 5 con Ejercicios",
+      "titleB": "Repaso de Inglés A2: Módulo 6 con Ejercicios",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "viajes",
+      "a": "mochileros-ingles-fronteras-aeropuertos-aduanas",
+      "b": "mochileros-ingles-hostels-transporte-publico",
+      "titleA": "Inglés para Mochileros: Aeropuertos y Aduanas",
+      "titleB": "Inglés para Mochileros: Hostels y Transporte",
+      "titleJaccard": 0.2,
+      "keywordOverlap": 1
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-49-need-neednt-necessity-ejercicios-soluciones",
+      "b": "unidad-49-need-neednt-necessity",
+      "titleA": "Ejercicios de Need y Needn't en Inglés B1",
+      "titleB": "Need y Needn't B1: Diferencias y Ejercicios",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.43
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-20-repaso-modulo-2-ejercicios-soluciones",
+      "b": "unidad-50-repaso-modulo-5-ejercicios-soluciones",
+      "titleA": "Repaso Inglés A1 Módulo 2: Ejercicios con Soluciones",
+      "titleB": "Repaso de Inglés A1: Módulo 5 con Ejercicios",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.4
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-cruceros-viaje-barco",
+      "b": "ingles-viajar-con-ninos",
+      "titleA": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleB": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleJaccard": 0.4,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "gramatica",
+      "a": "phrasal-verbs-b2-fce",
+      "b": "phrasal-verbs-guia-b2",
+      "titleA": "Phrasal Verbs para el B2 (FCE): Lista Completa",
+      "titleB": "Phrasal Verbs B2: Lista Completa para FCE",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.13
+    },
+    {
+      "category": "metodos",
+      "a": "ingles-c1",
+      "b": "ingles-c2",
+      "titleA": "Nivel C1 de Inglés: Qué Es, Horas y Cómo Conseguirlo",
+      "titleB": "Nivel C2 de Inglés: Qué Es, Horas y Cómo Conseguirlo",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.13
+    },
+    {
+      "category": "gramatica",
+      "a": "ejercicios-condicionales-ingles-b1-b2",
+      "b": "ejercicios-condicionales-ingles-c1",
+      "titleA": "Ejercicios de Condicionales en Inglés B1-B2",
+      "titleB": "Ejercicios de Condicionales en Inglés C1",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.11
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-15-repaso-11-14-ejercicios-soluciones",
+      "b": "unidad-5-repaso-1-4-ejercicios-soluciones",
+      "titleA": "Repaso de Condicionales B1: Unidades 11 a 14",
+      "titleB": "Repaso de Gramática B1: Unidades 1 a 4",
+      "titleJaccard": 0.5,
+      "keywordOverlap": 0.6
+    },
+    {
+      "category": "curso-c1",
+      "a": "unidad-18-moda-identidad",
+      "b": "unidad-67-language-lab-inversion-enfasis",
+      "titleA": "Ejercicios de Inversión para Énfasis en Inglés C1",
+      "titleB": "Ejercicios de Inversión y Énfasis en Inglés C1",
+      "titleJaccard": 1,
+      "keywordOverlap": 0.08
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-viajar",
+      "b": "ingles-viajar-con-ninos",
+      "titleA": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleB": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleJaccard": 0.33,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-32-deportes-hobbies-play-go-do-ejercicios-soluciones",
+      "b": "unidad-32-deportes-hobbies-play-go-do",
+      "titleA": "Ejercicios Deportes y Hobbies A1: Play, Go y Do",
+      "titleB": "Deportes y Hobbies en Inglés A1: Play, Go y Do",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.29
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-11-first-conditional-weather-ejercicios-soluciones",
+      "b": "unidad-13-first-vs-second-conditional-ejercicios-soluciones",
+      "titleA": "Ejercicios del First Conditional en Inglés B1",
+      "titleB": "Ejercicios de First y Second Conditional en Inglés B1",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.25
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-12-second-conditional-ejercicios-soluciones",
+      "b": "unidad-13-first-vs-second-conditional-ejercicios-soluciones",
+      "titleA": "Ejercicios del Second Conditional en Inglés B1",
+      "titleB": "Ejercicios de First y Second Conditional en Inglés B1",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.25
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-16-passive-voice-technology-ejercicios-soluciones",
+      "b": "unidad-17-modal-passive-work-ejercicios-soluciones",
+      "titleA": "Ejercicios de Voz Pasiva en Inglés B1",
+      "titleB": "Ejercicios de Voz Pasiva Modal en Inglés B1",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.25
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-21-gerund-infinitive-hobbies-ejercicios-soluciones",
+      "b": "unidad-22-gerund-infinitive-house-ejercicios-soluciones",
+      "titleA": "Ejercicios de Gerundio e Infinitivo en Inglés B1",
+      "titleB": "Ejercicios de Gerundio e Infinitivo: Verbos B1",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.25
+    },
+    {
+      "category": "viajes",
+      "a": "frases-ingles-emergencias-viajes",
+      "b": "ingles-para-viajar",
+      "titleA": "Inglés para Emergencias al Viajar: Frases Clave",
+      "titleB": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleJaccard": 0.33,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "frases-ingles-emergencias-viajes",
+      "b": "ingles-viajar-con-ninos",
+      "titleA": "Inglés para Emergencias al Viajar: Frases Clave",
+      "titleB": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleJaccard": 0.33,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "mochileros-ingles-fronteras-aeropuertos-aduanas",
+      "b": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "titleA": "Inglés para Mochileros: Aeropuertos y Aduanas",
+      "titleB": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleJaccard": 0,
+      "keywordOverlap": 1
+    },
+    {
+      "category": "viajes",
+      "a": "mochileros-ingles-hostels-transporte-publico",
+      "b": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "titleA": "Inglés para Mochileros: Hostels y Transporte",
+      "titleB": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleJaccard": 0,
+      "keywordOverlap": 1
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-16-cafeteria-can-i-have-id-like-ejercicios-soluciones",
+      "b": "unidad-16-cafeteria-can-i-have-id-like",
+      "titleA": "Pedir en una Cafetería A1: Can I Have y Ejercicios",
+      "titleB": "¿Cómo Pedir en una Cafetería en Inglés? Can I Have...? (A1)",
+      "titleJaccard": 0.8,
+      "keywordOverlap": 0.17
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-33-adverbios-frecuencia-ejercicios-soluciones",
+      "b": "unidad-33-adverbios-frecuencia",
+      "titleA": "Ejercicios Adverbios de Frecuencia A1: Always, Usually y Never",
+      "titleB": "Adverbios de Frecuencia A1: Always, Usually y Never",
+      "titleJaccard": 0.83,
+      "keywordOverlap": 0.14
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-20-repaso-modulo-2-ejercicios-soluciones",
+      "b": "unidad-30-repaso-modulo-3-ejercicios-soluciones",
+      "titleA": "Repaso Inglés A1 Módulo 2: Ejercicios con Soluciones",
+      "titleB": "Repaso de Inglés A1: Módulo 3 con Ejercicios",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-20-repaso-modulo-2-ejercicios-soluciones",
+      "b": "unidad-40-repaso-modulo-4-ejercicios-soluciones",
+      "titleA": "Repaso Inglés A1 Módulo 2: Ejercicios con Soluciones",
+      "titleB": "Repaso de Inglés A1: Módulo 4 con Ejercicios",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-20-repaso-modulo-2-ejercicios-soluciones",
+      "b": "unidad-60-repaso-modulo-6-ejercicios-soluciones",
+      "titleA": "Repaso Inglés A1 Módulo 2: Ejercicios con Soluciones",
+      "titleB": "Repaso de Inglés A1: Módulo 6 con Ejercicios",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-25-barrio-the-a-an-some-any-ejercicios-soluciones",
+      "b": "unidad-53-some-any-ejercicios-soluciones",
+      "titleA": "Ejercicios The, A/An y Some/Any A1: Soluciones",
+      "titleB": "Ejercicios de Some y Any en Inglés A1",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.2
+    },
+    {
+      "category": "gramatica",
+      "a": "phrasal-verbs-with-go",
+      "b": "phrasal-verbs-with-make",
+      "titleA": "Phrasal Verbs con GO: Lista Completa y Ejemplos",
+      "titleB": "Phrasal Verbs con MAKE: Lista y Ejemplos",
+      "titleJaccard": 0.8,
+      "keywordOverlap": 0.13
+    },
+    {
+      "category": "gramatica",
+      "a": "phrasal-verbs-with-go",
+      "b": "phrasal-verbs-with-put",
+      "titleA": "Phrasal Verbs con GO: Lista Completa y Ejemplos",
+      "titleB": "Phrasal Verbs con PUT: Lista Completa y Ejemplos",
+      "titleJaccard": 0.8,
+      "keywordOverlap": 0.13
+    },
+    {
+      "category": "curso-b2",
+      "a": "unidad-11-relative-clauses-culture",
+      "b": "unidad-12-relative-clauses-reduction",
+      "titleA": "Ejercicios de Relative Clauses en Inglés B2",
+      "titleB": "Ejercicios de Relative Clauses Reducidas en Inglés B2",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.18
+    },
+    {
+      "category": "curso-c1",
+      "a": "unidad-1-deduccion-identidad",
+      "b": "unidad-19-crimen-justicia",
+      "titleA": "Ejercicios de Modales de Deducción en Inglés C1",
+      "titleB": "Ejercicios de Distancing y Modales de Deducción C1",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.18
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-54-review-tenses-ejercicios-soluciones",
+      "b": "unidad-54-review-tenses",
+      "titleA": "Repaso de Tiempos Verbales en Inglés B1",
+      "titleB": "Repaso B1: Tiempos Verbales y Ejercicios",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.17
+    },
+    {
+      "category": "curso-c1",
+      "a": "unidad-11-cleft-education",
+      "b": "unidad-9-distancing-medios",
+      "titleA": "Ejercicios de Cleft Sentences en Inglés C1",
+      "titleB": "Ejercicios de Distancing y Cleft Sentences C1",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.17
+    },
+    {
+      "category": "curso-c1",
+      "a": "unidad-21-clima-medioambiente",
+      "b": "unidad-65-language-lab-condicionales-avanzados",
+      "titleA": "Ejercicios de Condicionales Avanzados y Hedging C1",
+      "titleB": "Ejercicios de Condicionales Avanzados en Inglés C1",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.17
+    },
+    {
+      "category": "metodos",
+      "a": "acentos-ingles-diferencias",
+      "b": "reglas-pronunciacion-ingles",
+      "titleA": "Acentos del Inglés: Diferencias y Pronunciación",
+      "titleB": "Reglas de Pronunciación en Inglés: Guía Completa",
+      "titleJaccard": 0.25,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-cruceros-viaje-barco",
+      "b": "ingles-para-viajar",
+      "titleA": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleB": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleJaccard": 0.17,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-cruceros-viaje-barco",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0.17,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "metodos",
+      "a": "anki-para-aprender-ingles-guia",
+      "b": "repeticion-espaciada-srs-ingles",
+      "titleA": "Anki para Aprender Inglés: Guía de Repetición Espaciada",
+      "titleB": "Repetición Espaciada para Aprender Inglés: Guía",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.14
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-viajar",
+      "b": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "titleA": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleB": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleJaccard": 0.14,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-viajar-con-ninos",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0.14,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "metodos",
+      "a": "aprender-ingles-con-chatgpt",
+      "b": "repeticion-espaciada-srs-ingles",
+      "titleA": "Aprender Inglés con ChatGPT: Guía y Prompts",
+      "titleB": "Repetición Espaciada para Aprender Inglés: Guía",
+      "titleJaccard": 0.2,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-disculpa-ingles",
+      "b": "ingles-medico-para-medicos-especialistas",
+      "titleA": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleB": "Inglés Médico para Médicos: Guía Profesional",
+      "titleJaccard": 0.2,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "mochileros-ingles-hostels-transporte-publico",
+      "b": "mochileros-ingles-naturaleza-senderismo-seguridad",
+      "titleA": "Inglés para Mochileros: Hostels y Transporte",
+      "titleB": "Inglés para Mochileros: Naturaleza y Senderismo",
+      "titleJaccard": 0.2,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-11-present-perfect-introduccion-ejercicios-soluciones",
+      "b": "unidad-14-present-perfect-just-ejercicios-soluciones",
+      "titleA": "Ejercicios de Present Perfect en Inglés A2",
+      "titleB": "Ejercicios de Just con Present Perfect en Inglés A2",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.1
+    },
+    {
+      "category": "curso-a2",
+      "a": "unidad-16-past-continuous-ejercicios-soluciones",
+      "b": "unidad-17-past-simple-past-continuous-ejercicios-soluciones",
+      "titleA": "Ejercicios de Past Continuous en Inglés A2",
+      "titleB": "Ejercicios Past Simple y Past Continuous A2",
+      "titleJaccard": 0.75,
+      "keywordOverlap": 0.1
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-45-repaso-41-44-ejercicios-soluciones",
+      "b": "unidad-45-repaso-41-44",
+      "titleA": "Repaso de Preposiciones y Expresiones de Tiempo B1",
+      "titleB": "Repaso B1 Unidades 41–44: Prepositions & Time",
+      "titleJaccard": 0.14,
+      "keywordOverlap": 0.71
+    },
+    {
+      "category": "metodos",
+      "a": "acentos-ingles-diferencias",
+      "b": "ingles-americano-vs-britanico",
+      "titleA": "Acentos del Inglés: Diferencias y Pronunciación",
+      "titleB": "Inglés Americano vs Británico: Diferencias Clave",
+      "titleJaccard": 0.17,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-disculpa-ingles",
+      "b": "email-formal-ingles-estructura",
+      "titleA": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleB": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleJaccard": 0.17,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-disculpa-ingles",
+      "b": "email-solicitud-empleo-ingles",
+      "titleA": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleB": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleJaccard": 0.17,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-disculpa-ingles",
+      "b": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "titleA": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleB": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleJaccard": 0.17,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "b": "ingles-medico-para-medicos-especialistas",
+      "titleA": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleB": "Inglés Médico para Médicos: Guía Profesional",
+      "titleJaccard": 0.17,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "b": "ingles-para-ingenieros",
+      "titleA": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0.17,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-para-ingenieros",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0.17,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "frases-ingles-emergencias-viajes",
+      "b": "ingles-cruceros-viaje-barco",
+      "titleA": "Inglés para Emergencias al Viajar: Frases Clave",
+      "titleB": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleJaccard": 0.17,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "ingles-networking-eventos-internacionales",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleJaccard": 0.14,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-formal-ingles-estructura",
+      "b": "email-solicitud-empleo-ingles",
+      "titleA": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleB": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleJaccard": 0.14,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-fotografia-viaje",
+      "b": "ingles-para-viajar",
+      "titleA": "¿Qué Inglés Necesitas para Fotografiar tus Viajes?",
+      "titleB": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleJaccard": 0.14,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-fotografia-viaje",
+      "b": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "titleA": "¿Qué Inglés Necesitas para Fotografiar tus Viajes?",
+      "titleB": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleJaccard": 0.14,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "curso-a1",
+      "a": "unidad-5-present-simple-rutinas-ejercicios-soluciones",
+      "b": "unidad-5-present-simple-rutinas",
+      "titleA": "Ejercicios de Present Simple y Rutinas A1",
+      "titleB": "Present Simple A1: Rutinas, Reglas y Ejercicios",
+      "titleJaccard": 0.8,
+      "keywordOverlap": 0
+    },
+    {
+      "category": "gramatica",
+      "a": "phrasal-verbs-conversacion-cotidiana",
+      "b": "phrasal-verbs-with-go",
+      "titleA": "Phrasal Verbs en Conversación: Lista y Ejemplos",
+      "titleB": "Phrasal Verbs con GO: Lista Completa y Ejemplos",
+      "titleJaccard": 0.8,
+      "keywordOverlap": 0
+    },
+    {
+      "category": "gramatica",
+      "a": "phrasal-verbs-with-get",
+      "b": "phrasal-verbs-with-go",
+      "titleA": "Phrasal Verbs con GET: Lista Completa y Ejemplos",
+      "titleB": "Phrasal Verbs con GO: Lista Completa y Ejemplos",
+      "titleJaccard": 0.8,
+      "keywordOverlap": 0
+    },
+    {
+      "category": "gramatica",
+      "a": "phrasal-verbs-with-go",
+      "b": "phrasal-verbs-with-take",
+      "titleA": "Phrasal Verbs con GO: Lista Completa y Ejemplos",
+      "titleB": "Phrasal Verbs con TAKE: Lista y Ejemplos",
+      "titleJaccard": 0.8,
+      "keywordOverlap": 0
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "atencion-cliente-telefono-call-center-frases",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Inglés para Call Center: Frases Telefónicas",
+      "titleJaccard": 0.13,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "ingles-networking-eventos-internacionales",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleJaccard": 0.13,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "ingles-customer-service-telefono-chat",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleJaccard": 0.13,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-customer-service-telefono-chat",
+      "b": "ingles-networking-eventos-internacionales",
+      "titleA": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleB": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleJaccard": 0.13,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "ingles-customer-service-telefono-chat",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleJaccard": 0.11,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-cruceros-viaje-barco",
+      "b": "mochileros-ingles-hostels-transporte-publico",
+      "titleA": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleB": "Inglés para Mochileros: Hostels y Transporte",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-cruceros-viaje-barco",
+      "b": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "titleA": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleB": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-viajar",
+      "b": "mochileros-ingles-hostels-transporte-publico",
+      "titleA": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleB": "Inglés para Mochileros: Hostels y Transporte",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-viajar",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-viajar-con-ninos",
+      "b": "mochileros-ingles-hostels-transporte-publico",
+      "titleA": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleB": "Inglés para Mochileros: Hostels y Transporte",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-viajar-con-ninos",
+      "b": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "titleA": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleB": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "viajes",
+      "a": "mochileros-ingles-hostels-transporte-publico",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "Inglés para Mochileros: Hostels y Transporte",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "viajes",
+      "a": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.75
+    },
+    {
+      "category": "metodos",
+      "a": "acentos-ingles-diferencias",
+      "b": "aprender-ingles-con-chatgpt",
+      "titleA": "Acentos del Inglés: Diferencias y Pronunciación",
+      "titleB": "Aprender Inglés con ChatGPT: Guía y Prompts",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "acentos-ingles-diferencias",
+      "b": "australian-english-minimal-pairs-entrenamiento-hispanohablantes",
+      "titleA": "Acentos del Inglés: Diferencias y Pronunciación",
+      "titleB": "Minimal Pairs en Inglés Australiano: Entrenamiento",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "acentos-ingles-diferencias",
+      "b": "bloqueo-mental-ingles-superar",
+      "titleA": "Acentos del Inglés: Diferencias y Pronunciación",
+      "titleB": "Bloqueo Mental al Hablar Inglés: Cómo Superarlo",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "acentos-ingles-diferencias",
+      "b": "curso-ingles-online",
+      "titleA": "Acentos del Inglés: Diferencias y Pronunciación",
+      "titleB": "Mejores Cursos de Inglés Online 2026: Comparativa",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "acentos-ingles-diferencias",
+      "b": "guia-erasmus-estudios-extranjero",
+      "titleA": "Acentos del Inglés: Diferencias y Pronunciación",
+      "titleB": "Guía Erasmus: Inglés para Estudiar en el Extranjero",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "acentos-ingles-diferencias",
+      "b": "repeticion-espaciada-srs-ingles",
+      "titleA": "Acentos del Inglés: Diferencias y Pronunciación",
+      "titleB": "Repetición Espaciada para Aprender Inglés: Guía",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "aprender-ingles-con-chatgpt",
+      "b": "australian-english-minimal-pairs-entrenamiento-hispanohablantes",
+      "titleA": "Aprender Inglés con ChatGPT: Guía y Prompts",
+      "titleB": "Minimal Pairs en Inglés Australiano: Entrenamiento",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "aprender-ingles-con-chatgpt",
+      "b": "bloqueo-mental-ingles-superar",
+      "titleA": "Aprender Inglés con ChatGPT: Guía y Prompts",
+      "titleB": "Bloqueo Mental al Hablar Inglés: Cómo Superarlo",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "aprender-ingles-con-chatgpt",
+      "b": "curso-ingles-online",
+      "titleA": "Aprender Inglés con ChatGPT: Guía y Prompts",
+      "titleB": "Mejores Cursos de Inglés Online 2026: Comparativa",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "aprender-ingles-con-chatgpt",
+      "b": "guia-erasmus-estudios-extranjero",
+      "titleA": "Aprender Inglés con ChatGPT: Guía y Prompts",
+      "titleB": "Guía Erasmus: Inglés para Estudiar en el Extranjero",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "aprender-ingles-con-chatgpt",
+      "b": "ingles-americano-vs-britanico",
+      "titleA": "Aprender Inglés con ChatGPT: Guía y Prompts",
+      "titleB": "Inglés Americano vs Británico: Diferencias Clave",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "aprender-ingles-con-chatgpt",
+      "b": "reglas-pronunciacion-ingles",
+      "titleA": "Aprender Inglés con ChatGPT: Guía y Prompts",
+      "titleB": "Reglas de Pronunciación en Inglés: Guía Completa",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "australian-english-minimal-pairs-entrenamiento-hispanohablantes",
+      "b": "bloqueo-mental-ingles-superar",
+      "titleA": "Minimal Pairs en Inglés Australiano: Entrenamiento",
+      "titleB": "Bloqueo Mental al Hablar Inglés: Cómo Superarlo",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "australian-english-minimal-pairs-entrenamiento-hispanohablantes",
+      "b": "curso-ingles-online",
+      "titleA": "Minimal Pairs en Inglés Australiano: Entrenamiento",
+      "titleB": "Mejores Cursos de Inglés Online 2026: Comparativa",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "australian-english-minimal-pairs-entrenamiento-hispanohablantes",
+      "b": "guia-erasmus-estudios-extranjero",
+      "titleA": "Minimal Pairs en Inglés Australiano: Entrenamiento",
+      "titleB": "Guía Erasmus: Inglés para Estudiar en el Extranjero",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "australian-english-minimal-pairs-entrenamiento-hispanohablantes",
+      "b": "ingles-americano-vs-britanico",
+      "titleA": "Minimal Pairs en Inglés Australiano: Entrenamiento",
+      "titleB": "Inglés Americano vs Británico: Diferencias Clave",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "australian-english-minimal-pairs-entrenamiento-hispanohablantes",
+      "b": "reglas-pronunciacion-ingles",
+      "titleA": "Minimal Pairs en Inglés Australiano: Entrenamiento",
+      "titleB": "Reglas de Pronunciación en Inglés: Guía Completa",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "australian-english-minimal-pairs-entrenamiento-hispanohablantes",
+      "b": "repeticion-espaciada-srs-ingles",
+      "titleA": "Minimal Pairs en Inglés Australiano: Entrenamiento",
+      "titleB": "Repetición Espaciada para Aprender Inglés: Guía",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "bloqueo-mental-ingles-superar",
+      "b": "curso-ingles-online",
+      "titleA": "Bloqueo Mental al Hablar Inglés: Cómo Superarlo",
+      "titleB": "Mejores Cursos de Inglés Online 2026: Comparativa",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "bloqueo-mental-ingles-superar",
+      "b": "guia-erasmus-estudios-extranjero",
+      "titleA": "Bloqueo Mental al Hablar Inglés: Cómo Superarlo",
+      "titleB": "Guía Erasmus: Inglés para Estudiar en el Extranjero",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "bloqueo-mental-ingles-superar",
+      "b": "ingles-americano-vs-britanico",
+      "titleA": "Bloqueo Mental al Hablar Inglés: Cómo Superarlo",
+      "titleB": "Inglés Americano vs Británico: Diferencias Clave",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "bloqueo-mental-ingles-superar",
+      "b": "reglas-pronunciacion-ingles",
+      "titleA": "Bloqueo Mental al Hablar Inglés: Cómo Superarlo",
+      "titleB": "Reglas de Pronunciación en Inglés: Guía Completa",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "bloqueo-mental-ingles-superar",
+      "b": "repeticion-espaciada-srs-ingles",
+      "titleA": "Bloqueo Mental al Hablar Inglés: Cómo Superarlo",
+      "titleB": "Repetición Espaciada para Aprender Inglés: Guía",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "curso-ingles-online",
+      "b": "guia-erasmus-estudios-extranjero",
+      "titleA": "Mejores Cursos de Inglés Online 2026: Comparativa",
+      "titleB": "Guía Erasmus: Inglés para Estudiar en el Extranjero",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "curso-ingles-online",
+      "b": "ingles-americano-vs-britanico",
+      "titleA": "Mejores Cursos de Inglés Online 2026: Comparativa",
+      "titleB": "Inglés Americano vs Británico: Diferencias Clave",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "curso-ingles-online",
+      "b": "reglas-pronunciacion-ingles",
+      "titleA": "Mejores Cursos de Inglés Online 2026: Comparativa",
+      "titleB": "Reglas de Pronunciación en Inglés: Guía Completa",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "curso-ingles-online",
+      "b": "repeticion-espaciada-srs-ingles",
+      "titleA": "Mejores Cursos de Inglés Online 2026: Comparativa",
+      "titleB": "Repetición Espaciada para Aprender Inglés: Guía",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "guia-erasmus-estudios-extranjero",
+      "b": "ingles-americano-vs-britanico",
+      "titleA": "Guía Erasmus: Inglés para Estudiar en el Extranjero",
+      "titleB": "Inglés Americano vs Británico: Diferencias Clave",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "guia-erasmus-estudios-extranjero",
+      "b": "reglas-pronunciacion-ingles",
+      "titleA": "Guía Erasmus: Inglés para Estudiar en el Extranjero",
+      "titleB": "Reglas de Pronunciación en Inglés: Guía Completa",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "guia-erasmus-estudios-extranjero",
+      "b": "repeticion-espaciada-srs-ingles",
+      "titleA": "Guía Erasmus: Inglés para Estudiar en el Extranjero",
+      "titleB": "Repetición Espaciada para Aprender Inglés: Guía",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "ingles-americano-vs-britanico",
+      "b": "reglas-pronunciacion-ingles",
+      "titleA": "Inglés Americano vs Británico: Diferencias Clave",
+      "titleB": "Reglas de Pronunciación en Inglés: Guía Completa",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "metodos",
+      "a": "ingles-americano-vs-britanico",
+      "b": "repeticion-espaciada-srs-ingles",
+      "titleA": "Inglés Americano vs Británico: Diferencias Clave",
+      "titleB": "Repetición Espaciada para Aprender Inglés: Guía",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "cv-ingles",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "email-disculpa-ingles",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "email-formal-ingles-estructura",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "email-solicitud-empleo-ingles",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "ingles-medico-para-medicos-especialistas",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Inglés Médico para Médicos: Guía Profesional",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "ingles-para-camareros-y-hosteleria",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "ingles-para-ingenieros",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "ingles-para-salud",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-de-escalada-clientes-dificiles-ingles",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Clientes Difíciles en Inglés: Frases para Calmar y Escalar",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "cv-ingles",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "email-disculpa-ingles",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "email-formal-ingles-estructura",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "email-solicitud-empleo-ingles",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "ingles-medico-para-medicos-especialistas",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "Inglés Médico para Médicos: Guía Profesional",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "ingles-para-camareros-y-hosteleria",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "ingles-para-ingenieros",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "ingles-para-salud",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "atencion-cliente-telefono-call-center-frases",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Inglés para Call Center: Frases Telefónicas",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "email-disculpa-ingles",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "email-formal-ingles-estructura",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "email-solicitud-empleo-ingles",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "ingles-customer-service-telefono-chat",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "ingles-medico-para-medicos-especialistas",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "Inglés Médico para Médicos: Guía Profesional",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "ingles-networking-eventos-internacionales",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "ingles-para-camareros-y-hosteleria",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "ingles-para-ingenieros",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "ingles-para-salud",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "cv-ingles",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-disculpa-ingles",
+      "b": "ingles-customer-service-telefono-chat",
+      "titleA": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleB": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-disculpa-ingles",
+      "b": "ingles-networking-eventos-internacionales",
+      "titleA": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleB": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-disculpa-ingles",
+      "b": "ingles-para-camareros-y-hosteleria",
+      "titleA": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleB": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-disculpa-ingles",
+      "b": "ingles-para-ingenieros",
+      "titleA": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-disculpa-ingles",
+      "b": "ingles-para-salud",
+      "titleA": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-disculpa-ingles",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Cómo Disculparse por Email en Inglés: Guía Profesional",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-formal-ingles-estructura",
+      "b": "ingles-customer-service-telefono-chat",
+      "titleA": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleB": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-formal-ingles-estructura",
+      "b": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "titleA": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleB": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-formal-ingles-estructura",
+      "b": "ingles-medico-para-medicos-especialistas",
+      "titleA": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleB": "Inglés Médico para Médicos: Guía Profesional",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-formal-ingles-estructura",
+      "b": "ingles-networking-eventos-internacionales",
+      "titleA": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleB": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-formal-ingles-estructura",
+      "b": "ingles-para-camareros-y-hosteleria",
+      "titleA": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleB": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-formal-ingles-estructura",
+      "b": "ingles-para-ingenieros",
+      "titleA": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-formal-ingles-estructura",
+      "b": "ingles-para-salud",
+      "titleA": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-formal-ingles-estructura",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Email Formal en Inglés: Estructura y Ejemplos",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-solicitud-empleo-ingles",
+      "b": "ingles-customer-service-telefono-chat",
+      "titleA": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleB": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-solicitud-empleo-ingles",
+      "b": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "titleA": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleB": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-solicitud-empleo-ingles",
+      "b": "ingles-medico-para-medicos-especialistas",
+      "titleA": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleB": "Inglés Médico para Médicos: Guía Profesional",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-solicitud-empleo-ingles",
+      "b": "ingles-networking-eventos-internacionales",
+      "titleA": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleB": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-solicitud-empleo-ingles",
+      "b": "ingles-para-camareros-y-hosteleria",
+      "titleA": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleB": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-solicitud-empleo-ingles",
+      "b": "ingles-para-ingenieros",
+      "titleA": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-solicitud-empleo-ingles",
+      "b": "ingles-para-salud",
+      "titleA": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "email-solicitud-empleo-ingles",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Email de Solicitud de Empleo en Inglés: Plantilla",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-customer-service-telefono-chat",
+      "b": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "titleA": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleB": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-customer-service-telefono-chat",
+      "b": "ingles-medico-para-medicos-especialistas",
+      "titleA": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleB": "Inglés Médico para Médicos: Guía Profesional",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-customer-service-telefono-chat",
+      "b": "ingles-para-camareros-y-hosteleria",
+      "titleA": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleB": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-customer-service-telefono-chat",
+      "b": "ingles-para-ingenieros",
+      "titleA": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-customer-service-telefono-chat",
+      "b": "ingles-para-salud",
+      "titleA": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-customer-service-telefono-chat",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Inglés para Customer Service: Frases por Teléfono y Chat",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "b": "ingles-networking-eventos-internacionales",
+      "titleA": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleB": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "b": "ingles-para-camareros-y-hosteleria",
+      "titleA": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleB": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "b": "ingles-para-salud",
+      "titleA": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-irlanda-trabajo-remoto-reuniones-acento",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Inglés Profesional en Irlanda: Reuniones y Acento",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-medico-para-medicos-especialistas",
+      "b": "ingles-networking-eventos-internacionales",
+      "titleA": "Inglés Médico para Médicos: Guía Profesional",
+      "titleB": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-medico-para-medicos-especialistas",
+      "b": "ingles-para-camareros-y-hosteleria",
+      "titleA": "Inglés Médico para Médicos: Guía Profesional",
+      "titleB": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-medico-para-medicos-especialistas",
+      "b": "ingles-para-ingenieros",
+      "titleA": "Inglés Médico para Médicos: Guía Profesional",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-medico-para-medicos-especialistas",
+      "b": "ingles-para-salud",
+      "titleA": "Inglés Médico para Médicos: Guía Profesional",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-medico-para-medicos-especialistas",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Inglés Médico para Médicos: Guía Profesional",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-networking-eventos-internacionales",
+      "b": "ingles-para-camareros-y-hosteleria",
+      "titleA": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleB": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-networking-eventos-internacionales",
+      "b": "ingles-para-ingenieros",
+      "titleA": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-networking-eventos-internacionales",
+      "b": "ingles-para-salud",
+      "titleA": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-networking-eventos-internacionales",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Networking en Inglés: Frases para Eventos Profesionales",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-para-camareros-y-hosteleria",
+      "b": "ingles-para-ingenieros",
+      "titleA": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleB": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-para-camareros-y-hosteleria",
+      "b": "ingles-para-salud",
+      "titleA": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-para-camareros-y-hosteleria",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "¿Cómo Aprender Inglés para Camareros y Hostelería?",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-para-ingenieros",
+      "b": "ingles-para-salud",
+      "titleA": "Inglés para Ingenieros: Vocabulario y Reuniones",
+      "titleB": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "trabajo",
+      "a": "ingles-para-salud",
+      "b": "ingles-real-estate-inmobiliario",
+      "titleA": "Inglés para Sanitarios: Comunicación con Pacientes e Informes",
+      "titleB": "Inglés para Real Estate: Vocabulario Inmobiliario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "frases-ingles-emergencias-viajes",
+      "b": "ingles-museos-turismo-cultural",
+      "titleA": "Inglés para Emergencias al Viajar: Frases Clave",
+      "titleB": "Inglés para Museos y Turismo Cultural: Guía",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "frases-ingles-emergencias-viajes",
+      "b": "mochileros-ingles-hostels-transporte-publico",
+      "titleA": "Inglés para Emergencias al Viajar: Frases Clave",
+      "titleB": "Inglés para Mochileros: Hostels y Transporte",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "frases-ingles-emergencias-viajes",
+      "b": "mochileros-ingles-naturaleza-senderismo-seguridad",
+      "titleA": "Inglés para Emergencias al Viajar: Frases Clave",
+      "titleB": "Inglés para Mochileros: Naturaleza y Senderismo",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "frases-ingles-emergencias-viajes",
+      "b": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "titleA": "Inglés para Emergencias al Viajar: Frases Clave",
+      "titleB": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "frases-ingles-emergencias-viajes",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "Inglés para Emergencias al Viajar: Frases Clave",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-cruceros-viaje-barco",
+      "b": "ingles-fotografia-viaje",
+      "titleA": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleB": "¿Qué Inglés Necesitas para Fotografiar tus Viajes?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-cruceros-viaje-barco",
+      "b": "ingles-museos-turismo-cultural",
+      "titleA": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleB": "Inglés para Museos y Turismo Cultural: Guía",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-cruceros-viaje-barco",
+      "b": "ingles-para-recepcionistas-guia",
+      "titleA": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleB": "Inglés para Recepcionistas de Hotel: Guía 2026",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-cruceros-viaje-barco",
+      "b": "mochileros-ingles-fronteras-aeropuertos-aduanas",
+      "titleA": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleB": "Inglés para Mochileros: Aeropuertos y Aduanas",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-cruceros-viaje-barco",
+      "b": "mochileros-ingles-naturaleza-senderismo-seguridad",
+      "titleA": "Inglés para Cruceros: Vocabulario y Frases",
+      "titleB": "Inglés para Mochileros: Naturaleza y Senderismo",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-fotografia-viaje",
+      "b": "ingles-para-recepcionistas-guia",
+      "titleA": "¿Qué Inglés Necesitas para Fotografiar tus Viajes?",
+      "titleB": "Inglés para Recepcionistas de Hotel: Guía 2026",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-fotografia-viaje",
+      "b": "ingles-viajar-con-ninos",
+      "titleA": "¿Qué Inglés Necesitas para Fotografiar tus Viajes?",
+      "titleB": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-fotografia-viaje",
+      "b": "mochileros-ingles-fronteras-aeropuertos-aduanas",
+      "titleA": "¿Qué Inglés Necesitas para Fotografiar tus Viajes?",
+      "titleB": "Inglés para Mochileros: Aeropuertos y Aduanas",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-fotografia-viaje",
+      "b": "mochileros-ingles-hostels-transporte-publico",
+      "titleA": "¿Qué Inglés Necesitas para Fotografiar tus Viajes?",
+      "titleB": "Inglés para Mochileros: Hostels y Transporte",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-fotografia-viaje",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "¿Qué Inglés Necesitas para Fotografiar tus Viajes?",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-museos-turismo-cultural",
+      "b": "ingles-para-viajar",
+      "titleA": "Inglés para Museos y Turismo Cultural: Guía",
+      "titleB": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-museos-turismo-cultural",
+      "b": "ingles-viajar-con-ninos",
+      "titleA": "Inglés para Museos y Turismo Cultural: Guía",
+      "titleB": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-museos-turismo-cultural",
+      "b": "mochileros-ingles-hostels-transporte-publico",
+      "titleA": "Inglés para Museos y Turismo Cultural: Guía",
+      "titleB": "Inglés para Mochileros: Hostels y Transporte",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-museos-turismo-cultural",
+      "b": "mochileros-ingles-naturaleza-senderismo-seguridad",
+      "titleA": "Inglés para Museos y Turismo Cultural: Guía",
+      "titleB": "Inglés para Mochileros: Naturaleza y Senderismo",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-museos-turismo-cultural",
+      "b": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "titleA": "Inglés para Museos y Turismo Cultural: Guía",
+      "titleB": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-museos-turismo-cultural",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "Inglés para Museos y Turismo Cultural: Guía",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-recepcionistas-guia",
+      "b": "ingles-para-viajar",
+      "titleA": "Inglés para Recepcionistas de Hotel: Guía 2026",
+      "titleB": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-recepcionistas-guia",
+      "b": "ingles-viajar-con-ninos",
+      "titleA": "Inglés para Recepcionistas de Hotel: Guía 2026",
+      "titleB": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-recepcionistas-guia",
+      "b": "mochileros-ingles-fronteras-aeropuertos-aduanas",
+      "titleA": "Inglés para Recepcionistas de Hotel: Guía 2026",
+      "titleB": "Inglés para Mochileros: Aeropuertos y Aduanas",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-recepcionistas-guia",
+      "b": "mochileros-ingles-hostels-transporte-publico",
+      "titleA": "Inglés para Recepcionistas de Hotel: Guía 2026",
+      "titleB": "Inglés para Mochileros: Hostels y Transporte",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-recepcionistas-guia",
+      "b": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "titleA": "Inglés para Recepcionistas de Hotel: Guía 2026",
+      "titleB": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-recepcionistas-guia",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "Inglés para Recepcionistas de Hotel: Guía 2026",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-viajar",
+      "b": "mochileros-ingles-fronteras-aeropuertos-aduanas",
+      "titleA": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleB": "Inglés para Mochileros: Aeropuertos y Aduanas",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-para-viajar",
+      "b": "mochileros-ingles-naturaleza-senderismo-seguridad",
+      "titleA": "¿Qué Inglés Necesitas para Viajar? Frases Esenciales",
+      "titleB": "Inglés para Mochileros: Naturaleza y Senderismo",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-viajar-con-ninos",
+      "b": "mochileros-ingles-fronteras-aeropuertos-aduanas",
+      "titleA": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleB": "Inglés para Mochileros: Aeropuertos y Aduanas",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "ingles-viajar-con-ninos",
+      "b": "mochileros-ingles-naturaleza-senderismo-seguridad",
+      "titleA": "Inglés para Viajar con Niños: Frases y Vocabulario",
+      "titleB": "Inglés para Mochileros: Naturaleza y Senderismo",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "mochileros-ingles-fronteras-aeropuertos-aduanas",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "Inglés para Mochileros: Aeropuertos y Aduanas",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "mochileros-ingles-naturaleza-senderismo-seguridad",
+      "b": "mochileros-ingles-voluntariado-workaway-intercambio",
+      "titleA": "Inglés para Mochileros: Naturaleza y Senderismo",
+      "titleB": "¿Qué Inglés Necesitas para Hacer Workaway o Voluntariado?",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "viajes",
+      "a": "mochileros-ingles-naturaleza-senderismo-seguridad",
+      "b": "vocabulario-coloquial-irlanda-acento-contexto",
+      "titleA": "Inglés para Mochileros: Naturaleza y Senderismo",
+      "titleB": "Inglés de Irlanda: Vocabulario y Acento Local",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.67
+    },
+    {
+      "category": "curso-b1",
+      "a": "unidad-22-gerund-infinitive-house-ejercicios-soluciones",
+      "b": "unidad-5-repaso-1-4-ejercicios-soluciones",
+      "titleA": "Ejercicios de Gerundio e Infinitivo: Verbos B1",
+      "titleB": "Repaso de Gramática B1: Unidades 1 a 4",
+      "titleJaccard": 0,
+      "keywordOverlap": 0.6
+    }
+  ],
+  "brokenLinks": []
+}

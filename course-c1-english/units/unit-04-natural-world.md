@@ -583,11 +583,43 @@ Comment clauses are parenthetical phrases that add the speaker's attitude, evalu
 **Text type:** Long academic/journalistic text (700+ words)  
 **Topic:** *After Nature: Can Technology Save What Human Progress Has Destroyed?*
 
+#### After Nature
+
+The phrase “saving nature” is increasingly used to describe technologies that monitor ecosystems, restore damaged habitats or remove pollution from the air and water. It reflects a genuine shift in capability. Satellites can identify illegal deforestation almost in real time, sensors can detect changes in soil moisture and genetic tools may help populations resist emerging diseases. Yet the phrase also contains a warning. If technology is treated as a substitute for restraint, it may allow societies to continue damaging ecosystems while assuming that innovation will repair the consequences later.
+
+The first argument in favour of technological intervention is practical necessity. Human activity has altered so many landscapes that returning them to a pre-industrial condition is often impossible. Coastal wetlands have been drained, rivers have been redirected and species have been transported across continents. In such places, conservation cannot mean simply leaving nature alone, because the conditions that once supported it no longer exist. Artificial reefs can provide surfaces for marine organisms, while carefully managed water flows can restore part of a river's ecological function. These interventions do not recreate an untouched past, but they may prevent further collapse and preserve services on which communities depend.
+
+Technology can also make environmental change more visible. Remote sensing allows researchers to map habitat loss over large areas, while acoustic monitoring can reveal the presence of species that are difficult to observe directly. Open data platforms can connect local observations with international research and help authorities target limited resources. Such systems are particularly valuable when enforcement is weak: a protected area that exists only on paper can be compared with satellite evidence of what is happening on the ground. In this sense, technology strengthens accountability by making destruction harder to conceal.
+
+The second argument concerns scale. Climate change, biodiversity loss and pollution operate across borders, whereas conservation projects are often small and local. A network of sensors may detect the spread of an invasive species before it reaches a new watershed. Computer models can project how a habitat might respond to changing rainfall, allowing planners to identify corridors through which animals could move. In agriculture, precision systems may reduce the use of water and fertiliser by applying them only where they are needed. None of these tools eliminates ecological risk, but each can improve the quality and timing of decisions.
+
+The optimism becomes less convincing when technological solutions are evaluated in isolation. Carbon capture, for example, may remove emissions from industrial processes, but its cost, energy demand and storage risks remain significant. Solar geoengineering could theoretically reflect a portion of sunlight and reduce warming, yet it might alter rainfall patterns and would not solve ocean acidification. Genetic interventions could protect a vulnerable species, but releasing modified organisms into a complex ecosystem could have consequences that are difficult to reverse. The fact that a system can be manipulated does not mean that its behaviour can be predicted with confidence.
+
+This is the third and most important argument: environmental technology is never neutral. Decisions about where to build a seawall, which species to reintroduce or whose land may be monitored distribute benefits and burdens among real communities. A rewilding project can restore an ecosystem while making traditional livelihoods harder to maintain. A conservation database can improve research while exposing the location of a species to poachers. Technical expertise is necessary, but it cannot decide alone what counts as an acceptable trade-off. Local knowledge, public consent and transparent governance are part of ecological competence, not obstacles to it.
+
+There is also a danger of moral displacement. When a company funds a tree-planting programme, it may present the project as compensation for emissions that continue elsewhere. When a city installs smart waste bins, it may celebrate efficiency without reducing the volume of disposable packaging. These measures can be useful, but their value depends on whether they accompany changes in production and consumption. Repairing damage after it occurs is usually more expensive and less reliable than preventing it at source. No sensor can make an extinct species return, and no algorithm can restore a relationship that a community has lost with its landscape.
+
+The most defensible position is therefore neither technological pessimism nor technological salvation. Tools should be used where they improve evidence, reduce pressure and support restoration that has a realistic ecological basis. Their deployment should be guided by the precautionary principle when effects may be irreversible, and evaluated through long-term monitoring rather than short-term publicity. Above all, innovation should operate within limits set by ecological resilience. Technology can help societies live within those limits, but it cannot abolish them.
+
+Human progress has not placed humanity outside nature; it has increased the scale of human influence within it. The task is not to recreate an imaginary world untouched by people, but to build institutions capable of recognising dependence and acting before thresholds are crossed. As far as we know, no technological breakthrough can replace that political and ethical responsibility. The future of conservation will depend less on whether humans can control nature than on whether they can learn when not to.
+
 **Comprehension tasks:**
 1. **Argument** — Map the essay's 3 main arguments with supporting evidence
 2. **Inference** × 4 multiple choice
 3. **Vocabulary** — Define 8 advanced words from context
 4. **Critical response** — What is the strongest and weakest point in the article? (80 words)
+
+**Vocabulary from text:**
+| Word/Phrase | Meaning | Collocation |
+|---|---|---|
+| intervention | deliberate action taken to influence a situation | *technological intervention / early intervention* |
+| ecological function | a role performed by an organism or ecosystem | *restore an ecological function / maintain ecological functions* |
+| remote sensing | collecting information about an area from a distance, usually by satellite or aircraft | *use remote sensing / remote-sensing data* |
+| accountability | responsibility for decisions and actions, especially when they have consequences | *strengthen / demand accountability* |
+| invasive species | a non-native organism that spreads and causes harm | *control / contain invasive species* |
+| geoengineering | deliberate large-scale intervention in natural systems, especially the climate | *solar geoengineering / geoengineering proposal* |
+| precautionary principle | the idea that possible serious harm justifies preventive action despite uncertainty | *apply / invoke the precautionary principle* |
+| ecological resilience | the ability of an ecosystem to recover from disturbance | *protect / build ecological resilience* |
 
 ---
 
