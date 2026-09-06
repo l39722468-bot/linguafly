@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Some & Any A1: afirmativas, negativas y contenedores'
+title: 'Some y Any en Inglés A1: Cuándo Usar Cada Uno'
 description: >-
   Aprende some y any en inglés A1: afirmativas, negativas y preguntas, más
   bottle, box, bag y can. Guía Unidad 53 con audios y ejercicios.
@@ -47,8 +47,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 53 del curso A1: some y any con afirmativas, negativas,
-  preguntas y contenedores, con audios y ejercicios.
+  Bottle, box, bag, can: aprende cuándo usar some y any en afirmativas,
+  negativas y preguntas, con audios y ejercicios (Unidad 53 A1).
 ---
 
 En la [Unidad 52](/blog/curso-a1/unidad-52-contables-incontables) mediste cantidad con *much / many / a lot of*. En la **Unidad 53 del curso A1** (*Some & Any*) eliges la forma correcta según el tipo de frase: ***some*** en afirmativas, ***any*** en negativas y preguntas — más ***bottle, box, bag, can***.

@@ -3,11 +3,10 @@ category: metodos
 date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Curso de Inglés A2 Online: Guía y Ejercicios'
+title: '¿Cómo Aprender Inglés A2? Curso Online con Ejercicios'
 description: >-
-  Sube de nivel con nuestro curso de inglés A2. Mejora tu gramática, amplía tu
-  vocabulario y empieza a tener conversaciones reales sobre tu vida diaria y
-  planes.
+  ¿Ya dominas el A1 y quieres seguir? Descubre qué aprenderás en el nivel
+  A2, cuánto tarda alcanzarlo y cómo estructurar tus clases de inglés.
 readTime: 6 min
 keywords:
   - 'Curso de Inglés A2 Online: Guía y Ejercicios'

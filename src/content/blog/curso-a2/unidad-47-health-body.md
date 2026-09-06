@@ -3,7 +3,7 @@ category: curso-a2
 date: '2026-08-12'
 updatedDate: '2026-08-12'
 author: linguafly-team
-title: 'Health & Body A2: headache, fever y should'
+title: 'Salud en Inglés A2: Síntomas, Cuerpo y Consejos con Should'
 description: >-
   Salud en inglés A2: have a headache, feel sick, should. Vocabulario de
   síntomas, cuerpo, pharmacy y doctor. Guía Unidad 47 con audios y ejercicios.
@@ -47,8 +47,8 @@ faqs:
       En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-47-health-body-ejercicios-soluciones) y en la Unidad 47 del curso A2 de Linguafly practicarás síntomas, partes del
       cuerpo y consejos con should.
 excerpt: >-
-  Guía de la Unidad 47 del curso A2: síntomas, partes del cuerpo y consejos con
-  should, con audios y ejercicios.
+  Have a headache, feel sick, should: aprende a hablar de síntomas y pedir
+  consejo en inglés, con vocabulario de pharmacy y doctor (Unidad 47 A2).
 ---
 
 En la [Unidad 46](/blog/curso-a2/unidad-46-shopping-services) practicaste compras. En la **Unidad 47 del curso A2** (*Health & Body*) hablas de **síntomas, el cuerpo y consejos**.
