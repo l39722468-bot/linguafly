@@ -98,6 +98,7 @@ En 2026, lo que importa es la **claridad**. El mundo de los negocios valora la i
 ### Por sector profesional
 - [Inglés para marketing](/blog/trabajo/ingles-para-marketing)
 - [Inglés para camareros y hostelería](/blog/trabajo/ingles-para-camareros-y-hosteleria)
+- [Inglés para construcción](/blog/trabajo/ingles-para-construccion)
 - [Inglés jurídico y legal](/blog/trabajo/ingles-juridico-legal)
 - [Inglés para inmobiliaria (real estate)](/blog/trabajo/ingles-real-estate-inmobiliario)
 - [Inglés para ingenieros](/blog/trabajo/ingles-para-ingenieros)
