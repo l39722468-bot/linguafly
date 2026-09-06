@@ -12,9 +12,20 @@ const nextConfig = {
       '@emotion/react/jsx-runtime': 'react/jsx-runtime',
     },
   },
+  // El export estático (~1030 páginas) se ralentiza progresivamente y termina
+  // en timeout a partir de la página ~500-700. Causa real: el build ya usa
+  // NODE_OPTIONS=--max-old-space-size=6144 (6 GiB de heap) y, con más de un
+  // worker de generación estática en paralelo (cpus>1), cada proceso puede
+  // reservar hasta 6 GiB propios; en runners con ~7-8 GiB de RAM total esto
+  // provoca swapping/thrashing de memoria, no un problema de CPU. Forzamos
+  // generación estática en serie (cpus: 1) para eliminar esa contención y
+  // damos margen extra de timeout por si un runner concreto va más lento.
+  staticPageGenerationTimeout: 180,
   experimental: {
     inlineCss: true,
     optimizePackageImports: [],
+    workerThreads: false,
+    cpus: 1,
   },
   // Fix Vercel build: use project root for file tracing (avoids multi-lockfile inference)
   outputFileTracingRoot: path.join(__dirname),
