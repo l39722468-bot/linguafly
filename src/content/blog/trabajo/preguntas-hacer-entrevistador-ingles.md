@@ -1,7 +1,8 @@
 ﻿---
-title: 'Qué Preguntas Hacer al Entrevistador en Inglés: Ejemplos y Estrategia'
+title: '¿Qué Preguntar al Entrevistador? Estrategia en Inglés'
 description: >-
-  Las mejores preguntas para hacerle al entrevistador en una entrevista en inglés. Qué preguntar, qué evitar y cómo mostrar interés genuino sin parecer...
+  ¿Qué responder cuando te preguntan "Do you have any questions"? Descubre
+  qué preguntar al entrevistador en inglés para mostrar interés genuino.
 readTime: 5 min
 excerpt: >-
   Cuando el entrevistador pregunta "Do you have any questions for us?", la

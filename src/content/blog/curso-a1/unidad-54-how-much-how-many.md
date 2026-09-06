@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'How Much & How Many A1: precio, cantidad y moneda'
+title: '¿How Much o How Many? Precio y Cantidad en Inglés (A1)'
 description: >-
   Aprende How much y How many en inglés A1: precio, incontables, contables,
   pound, dollar, euro, cheap y expensive. Guía Unidad 54 con audios y
@@ -49,8 +49,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 54 del curso A1: How much y How many para precio y
-  cantidad, con audios y ejercicios.
+  Pound, dollar, euro, cheap, expensive: aprende cuándo usar How much y
+  How many para precio y cantidad, con audios y ejercicios (Unidad 54 A1).
 ---
 
 En la [Unidad 53](/blog/curso-a1/unidad-53-some-any) elegiste *some/any*. En la **Unidad 54 del curso A1** (*How Much & How Many*) preguntas **precio** y **cantidad**: ***How much is it?*** / ***How many eggs do you need?***

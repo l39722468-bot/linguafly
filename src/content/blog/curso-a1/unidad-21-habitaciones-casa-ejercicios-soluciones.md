@@ -3,9 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Habitaciones de la Casa en Inglés A1'
+title: '¿Cómo se Describen las Habitaciones de la Casa? Ejercicios A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 21 del curso A1: rooms, plurales, adjetivos (bright, cozy, small), have/has, reading de Tom, listening y writing.
+  ¿Practicando vocabulario de la casa en inglés? Ejercicios resueltos de la
+  Unidad 21 A1: rooms, plurales, adjetivos, reading y listening.
 readTime: 25 min
 keywords:
   - Ejercicios de Habitaciones de la Casa en Inglés A1

@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Pedir en la cafetería (A1): Can I have…? e I’d like…'
+title: '¿Cómo Pedir en una Cafetería en Inglés? Can I Have...? (A1)'
 description: >-
   Aprende a pedir en un café en inglés A1 con Can I have…? e I'd like…. Guía
   Unidad 16: bebidas, snacks, la cuenta, precios, audios y ejercicios.
@@ -48,9 +48,8 @@ faqs:
       like… con ejercicios de gramática, vocabulario, reading, listening y
       speaking.
 excerpt: >-
-  Guía de la Unidad 16 del curso A1: pedir en la cafetería con Can I have…? e
-  I'd like…, Would you like…?, bebidas, snacks, precios y la cuenta. Con
-  audios, esquemas y ejercicios.
+  Can I have...?, I'd like..., Would you like...? Aprende a pedir bebidas,
+  snacks y la cuenta en inglés, con audios y ejercicios (Unidad 16 A1).
 ---
 
 Tras dominar *doesn't* y *Does he/she…?* en la [Unidad 15](/blog/curso-a1/unidad-15-present-simple-doesnt-does), en la **Unidad 16 del curso A1** (*At the Cafe*) aprendes a **pedir en una cafetería**: *Can I have…?*, *I'd like…* y *Would you like…?*.

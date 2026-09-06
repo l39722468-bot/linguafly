@@ -3,9 +3,10 @@ category: curso-b2
 date: '2026-08-31'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Repaso de Gramática B2: Unidades 1 a 4"
+title: '¿Cómo Repasar Gramática B2? Unidades 1 a 4'
 description: >-
-  Guía completa de la Unidad 5 del curso B2: wish, future tenses, gerund vs infinitive, verb + object + inf; personal development, work, education, leisure...
+  ¿Repasando wish, future tenses o gerund vs infinitive? Guía de la Unidad 5
+  del curso B2 con ejercicios y soluciones sobre trabajo, ocio y educación.
 readTime: 45 min
 keywords:
   - Repaso de Gramática B2: Unidades 1 a 4
