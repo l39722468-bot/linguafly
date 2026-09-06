@@ -3,11 +3,10 @@ category: curso-a1
 date: '2026-08-18'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Ejercicios de Direcciones e Imperativos en Inglés A1'
+title: '¿Cómo se Dan Direcciones en Inglés? Ejercicios A1'
 description: >-
-  Practica todos los ejercicios de la Unidad 26 del curso A1: Turn left, Go
-  straight, Past the…, on the left/right, reading, listening y writing. Con
-  soluciones comentadas.
+  ¿Practicando cómo dar direcciones en inglés? Ejercicios resueltos de la
+  Unidad 26 A1: turn left, go straight, past the..., reading y listening.
 readTime: 25 min
 keywords:
   - Ejercicios de Direcciones e Imperativos en Inglés A1

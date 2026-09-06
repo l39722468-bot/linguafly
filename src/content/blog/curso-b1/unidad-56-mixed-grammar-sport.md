@@ -3,9 +3,10 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Gramática Mixta B1: Ejercicios y Vocabulario de Deporte'
+title: '¿Cómo Repasar Gramática Mixta B1 con Vocabulario de Deporte?'
 description: >-
-  Práctica gramatical mixta B1 (passive, conditionals, present perfect continuous, reported speech y modales) con vocabulario completo de deporte.
+  ¿Necesitas repasar passive, conditionals y reported speech? Práctica
+  gramatical mixta B1 con vocabulario completo de deporte y ejercicios.
 readTime: 19 min
 keywords:
   - Gramática Mixta B1: Ejercicios y Vocabulario de Deporte

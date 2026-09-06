@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Packing a Suitcase A1: need to / don''t need to'
+title: '¿Cómo Hablar de Hacer la Maleta en Inglés? Need To (A1)'
 description: >-
   Aprende a hablar de hacer la maleta en inglés A1 con need to / don't need to,
   suitcase, clothes y toiletries. Guía Unidad 49 con audios y ejercicios.
@@ -47,8 +47,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 49 del curso A1: hacer la maleta con need to / don't need
-  to, con audios y ejercicios.
+  Suitcase, clothes, toiletries: aprende need to y don't need to para
+  hablar de hacer la maleta en inglés, con audios y ejercicios (Unidad 49 A1).
 ---
 
 En la [Unidad 48](/blog/curso-a1/unidad-48-sightseeing-superlativos) visitaste museos. En la **Unidad 49 del curso A1** (*Packing a Suitcase*) preparas el viaje: ***need to / don't need to*** + ***suitcase, clothes, toiletries***.

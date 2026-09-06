@@ -1,7 +1,8 @@
 ---
-title: 'Cómo Entender los Acentos del Inglés: Guía Práctica'
+title: '¿Por Qué no Entiendo los Acentos del Inglés? Guía Práctica'
 description: >-
-  Guía práctica para mejorar la comprensión de diferentes acentos del inglés: por qué el cerebro falla con acentos nuevos, cómo entrenar el oído de forma...
+  ¿Por qué te cuesta entender un acento nuevo aunque tengas buen nivel de
+  inglés? Descubre por qué falla tu oído y cómo entrenarlo correctamente.
 readTime: 9 min
 excerpt: >-
   El problema no es tu nivel de inglés. Es que nadie te enseñó que el inglés

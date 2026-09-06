@@ -3,10 +3,10 @@ category: viajes
 date: '2026-04-03'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Errores de Español al Hablar Inglés de Viaje'
+title: '¿Qué Errores Cometen los Hispanohablantes al Viajar en Inglés?'
 description: >-
-  Correcciones prácticas para hispanohablantes: falsos amigos, calcos, registro
-  y pronunciación en situaciones de viaje real (hostels, transporte, calle).
+  ¿Cometes falsos amigos o calcos al hablar inglés de viaje? Correcciones
+  prácticas para hispanohablantes en hostels, transporte y la calle.
 readTime: 22 min
 keywords:
   - Errores de Español al Hablar Inglés de Viaje
