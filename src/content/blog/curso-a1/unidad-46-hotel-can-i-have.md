@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'At the Hotel A1: Can I have…? e Is there…?'
+title: '¿Cómo Pedir en el Hotel en Inglés? Can I Have...? (A1)'
 description: >-
   Aprende inglés de hotel nivel A1: Can I have a key?, Is there Wi-Fi?, single/
   double room y room service. Guía Unidad 46 con audios y ejercicios.
@@ -48,8 +48,8 @@ faqs:
       con soluciones del blog: gramática, vocabulario, reading, listening y
       speaking.
 excerpt: >-
-  Guía de la Unidad 46 del curso A1: en el hotel con Can I have…? e Is there…?,
-  con audios y ejercicios.
+  Can I have a key?, Is there Wi-Fi? Aprende inglés de hotel: single/double
+  room, room service, con audios y ejercicios (Unidad 46 A1).
 ---
 
 En la [Unidad 45](/blog/curso-a1/unidad-45-estaciones-in-spring) hablaste de estaciones. En la **Unidad 46 del curso A1** (*At the Hotel*) haces **peticiones y preguntas** en recepción: ***Can I have…?***, ***Is there…?***.

@@ -3,11 +3,10 @@ category: curso-a2
 date: '2026-08-12'
 updatedDate: '2026-08-12'
 author: linguafly-team
-title: 'Module 4 Review A2: phrasal verbs, gerundios, artículos y consejos'
+title: '¿Cómo Repasar el Módulo 4 de A2? Phrasal Verbs y Más'
 description: >-
-  Repaso del Módulo 4 A2: phrasal verbs, gerundios/infinitivos, artículos,
-  would like, should y frases adverbiales. Unidad 40 con audios y ejercicios
-  integrados.
+  ¿Repasando el Módulo 4 de A2? Practica phrasal verbs, gerundios/
+  infinitivos, artículos, would like y should con ejercicios integrados.
 readTime: 16 min
 keywords:
   - module 4 review A2
