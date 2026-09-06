@@ -196,16 +196,27 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
 /**
  * Generates FAQPage Schema for FAQ sections
  */
+function stripMarkdown(text: string): string {
+  return text
+    .replace(/!\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+    .replace(/(\*\*|__)(.*?)\1/g, '$2')
+    .replace(/(```[\s\S]*?```|`([^`]+)`)/g, '$2')
+    .replace(/[*_~]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 export function generateFAQSchema(faqs: FAQItem[]) {
   return {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": faqs.map(faq => ({
       "@type": "Question",
-      "name": faq.question,
+      "name": stripMarkdown(faq.question),
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": faq.answer
+        "text": stripMarkdown(faq.answer)
       }
     }))
   };
