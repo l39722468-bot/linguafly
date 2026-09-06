@@ -3,7 +3,7 @@ category: curso-a2
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Present Perfect A2: have/has + past participle (been, seen, eaten, gone)'
+title: '¿Cómo se Usa el Present Perfect? Have/Has + Participio (A2)'
 description: >-
   Aprende Present Perfect en inglés A2: have/has + past participle para
   experiencias. Guía Unidad 11 con been/gone, audios y ejercicios.
@@ -48,8 +48,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 11 del curso A2: introducción al Present Perfect con
-  have/has + past participle, been/seen/eaten/gone, audios y ejercicios.
+  Have you ever...? Introducción al Present Perfect en inglés con been,
+  seen, eaten y gone para hablar de experiencias, audios y ejercicios (A2).
 ---
 
 Tras el [repaso del Módulo 1](/blog/curso-a2/unidad-10-repaso-modulo-1), el **Módulo 2** abre con experiencias. En la **Unidad 11 del curso A2** (*Present Perfect: Introduction*) aprendes a decir lo que **has vivido**: ***I have been to Paris***.

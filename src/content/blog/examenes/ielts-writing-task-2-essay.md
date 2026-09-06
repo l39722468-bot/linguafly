@@ -1,10 +1,11 @@
 ---
-title: 'IELTS Writing Task 2: Estructura y Ejemplos'
+title: 'IELTS Writing Task 2: Cómo Estructurar el Ensayo (Con Ejemplos)'
 date: '2026-02-08'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende a estructurar el ensayo del IELTS Writing Task 2 según el tipo de pregunta: opinión, discusión, problema-solución y ventajas-desventajas.
+  ¿Opinión, discusión o problema-solución? Aprende a estructurar el ensayo
+  del IELTS Writing Task 2 según el tipo de pregunta y sube tu banda.
 category: examenes
 alt: Persona escribiendo un ensayo en papel para el examen IELTS
 readTime: 8 min
@@ -19,7 +20,8 @@ keywords:
   - cómo escribir un ensayo Band 7 en IELTS
   - criterios de evaluación del Writing Task 2
 excerpt: >-
-  El Task 2 vale el doble que el Task 1 y es donde se ganan o se pierden las bandas que necesitas. Entender qué tipo de pregunta te está haciendo y cómo estructurar la respuesta marca toda la diferencia.
+  El Task 2 vale el doble que el Task 1: entender el tipo de pregunta y
+  estructurar bien la respuesta es lo que marca la diferencia en tu banda.
 faqs:
   - question: ¿Cuántas palabras necesito en el Task 2?
     answer: >-

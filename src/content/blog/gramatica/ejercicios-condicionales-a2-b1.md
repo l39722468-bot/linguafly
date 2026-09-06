@@ -1,8 +1,8 @@
 ---
-title: 'Ejercicios de Condicionales A2-B1: Zero y First Conditional'
+title: 'Ejercicios de Zero y First Conditional en Inglés (A2-B1)'
 description: >-
-  Ejercicios de condicionales en inglés para nivel A2-B1 con soluciones. Practica
-  Zero Conditional y First Conditional en el artículo y descarga el mismo contenido en PDF.
+  ¿Necesitas practicar los condicionales en inglés? Ejercicios resueltos de
+  Zero y First Conditional para A2-B1, con descarga gratuita en PDF.
 readTime: 8 min
 excerpt: >-
   Hoja práctica de Zero y First Conditional para niveles A2-B1 con ejercicios

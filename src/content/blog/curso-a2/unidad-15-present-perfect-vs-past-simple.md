@@ -3,7 +3,7 @@ category: curso-a2
 date: '2026-08-07'
 updatedDate: '2026-08-07'
 author: linguafly-team
-title: 'Present Perfect vs Past Simple A2: ever/just o yesterday'
+title: '¿Present Perfect o Past Simple? Diferencias Clave (A2)'
 description: >-
   Aprende a elegir Present Perfect o Past Simple en inglés A2: experiencia vs
   momento concreto. Guía Unidad 15 con marcadores, audios y ejercicios.
@@ -48,8 +48,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 15 del curso A2: Present Perfect vs Past Simple, marcadores
-  temporales, audios y ejercicios.
+  Ever, just o yesterday: aprende a elegir entre Present Perfect y Past
+  Simple según los marcadores temporales, con audios y ejercicios (A2).
 ---
 
 En la [Unidad 14](/blog/curso-a2/unidad-14-present-perfect-just) dijiste *I have just…*. En la **Unidad 15 del curso A2** (*Present Perfect vs Past Simple*) aprendes a **elegir el tiempo**: experiencia / resultado cercano vs momento concreto del pasado.

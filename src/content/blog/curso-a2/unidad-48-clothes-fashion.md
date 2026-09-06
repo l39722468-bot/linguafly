@@ -3,7 +3,7 @@ category: curso-a2
 date: '2026-08-12'
 updatedDate: '2026-08-12'
 author: linguafly-team
-title: 'Clothes & Fashion A2: wear, outfit, too vs enough'
+title: 'Ropa en Inglés A2: Wear, Outfit y Too vs Enough'
 description: >-
   Ropa y moda en inglés A2: wear, put on, take off; casual y formal; too vs
   enough. Guía Unidad 48 con audios, outfits y ejercicios.
@@ -46,8 +46,8 @@ faqs:
       En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-48-clothes-fashion-ejercicios-soluciones) y en la Unidad 48 del curso A2 de Linguafly practicarás vocabulario de ropa,
       estilo y too / enough.
 excerpt: >-
-  Guía de la Unidad 48 del curso A2: describir ropa y outfits con wear, put on /
-  take off y too vs enough, con audios y ejercicios.
+  Wear, put on, take off y too vs enough: aprende a describir ropa y
+  outfits en inglés con audios y ejercicios (Unidad 48 A2).
 ---
 
 En la [Unidad 47](/blog/curso-a2/unidad-47-health-body) hablaste de salud. En la **Unidad 48 del curso A2** (*Clothes & Fashion*) describes **ropa, tallas y estilo**.
