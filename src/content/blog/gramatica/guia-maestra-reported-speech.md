@@ -3,9 +3,10 @@ category: gramatica
 date: '2026-03-02'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Reported Speech: Guía Completa B2, C1 y C2'
+title: '¿Qué es el Reported Speech? Guía Completa B2, C1 y C2'
 description: >-
-  Domina el Reported Speech y los Reporting Verbs con nuestra guía completa para niveles B2, C1 y C2. Aprende reglas, estructuras y prepárate para tus...
+  ¿Qué es el reported speech y cómo se usa? Guía completa con reglas,
+  cambios de tiempo y reporting verbs para niveles B2, C1 y C2.
 readTime: 5 min
 keywords:
   - Reported Speech: Guía Completa B2, C1 y C2

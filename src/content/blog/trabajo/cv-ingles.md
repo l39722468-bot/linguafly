@@ -1,5 +1,5 @@
 ---
-title: 'CV en Inglés: Cómo Hacerlo y Superar Filtros ATS'
+title: '¿Cómo Hacer un CV en Inglés? Guía para Superar Filtros ATS'
 date: '2026-02-10'
 updatedDate: '2026-09-04'
 author: linguafly-team

@@ -1,8 +1,8 @@
 ---
-title: 'Verbos Modales en Inglés: Guía y Ejercicios'
+title: '¿Cómo se Usan los Verbos Modales en Inglés? Guía y Ejercicios'
 description: >-
-  Domina Can, Could, Must, Should, May y los Modales Perfectos. Incluye esquema
-  de verbos modales en inglés pdf-friendly y ejemplos académicos.
+  Aprende Can, Could, Must, Should, May y los Modales Perfectos en inglés con
+  esquema práctico, ejemplos y ejercicios gratis para niveles A1 a C1.
 readTime: 5 min
 excerpt: >-
   Aprende a usar Can, Could, Must, Should y May. Incluye esquema de verbos
@@ -26,9 +26,9 @@ date: '2026-03-02'
 updatedDate: '2026-09-04'
 category: gramatica
 faqs:
-  - question: '¿Las 4 Reglas de Oro (Nivel Académico)?'
+  - question: '¿Cuáles son las 4 Reglas de Oro (Nivel Académico)?'
     answer: 'Antes de profundizar, graba estas reglas en tu mente. Son las que marcan la diferencia en un examen oficial: 1. Invariabilidad: No llevan "-s", "-ed" o "-ing". Siempre mantienen su forma base. 2. Infinitivo Nudo (Bare Infinitive): Van seguidos directamente por el verbo sin "to" (She can dance, no...'
-  - question: '¿� Material de Estudio?'
+  - question: '¿Qué material de estudio incluye esta guía?'
     answer: 'Puedes usar esta tabla como referencia rápida para tus estudios o imprimirla como material de apoyo.'
   - question: '¿Profundización?'
     answer: 'En los exámenes B2 First y C1 Advanced, es vital saber especular sobre hechos pasados y presentes:'

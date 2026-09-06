@@ -4,7 +4,7 @@ date: '2026-02-07'
 updatedDate: '2026-09-04'
 author: linguafly-team
 alt: "Estudiante de nivel avanzado preparando su examen C1 Advanced"
-title: 'C1 Advanced (CAE): Guía y Estrategias para Aprobar'
+title: '¿Cómo Aprobar el C1 Advanced (CAE) de Cambridge?'
 description: >-
   Prepara el C1 Advanced (CAE) con éxito. Trucos para el Use of English,
   estructuras avanzadas para el Writing, consejos para el Speaking y vocabulario

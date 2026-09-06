@@ -1,5 +1,5 @@
 ---
-title: 'Inglés para Camareros y Hostelería: Guía Laboral'
+title: '¿Cómo Aprender Inglés para Camareros y Hostelería?'
 date: '2026-03-10'
 updatedDate: '2026-09-04'
 author: linguafly-team
