@@ -189,3 +189,10 @@ Esta sección cierra el objetivo de extensión del artículo con material **acci
 **Atención al cliente en inglés** por escrito es **ingeniería de claridad**: saludo, hechos, acción, plazo. Si entrenas esa estructura, sube tu velocidad y baja el error.
 
 Más en **[atención al cliente inglés](/blog/temas/ingles-para-atencion-al-cliente)**.
+
+### Más de la serie: atención al cliente en inglés
+
+- [Saludos, Tono y Registro en Atención al Cliente](/blog/trabajo/atencion-cliente-saludos-tono-registro-b2)
+- [Clientes Difíciles en Inglés: Frases para Calmar y Escalar](/blog/trabajo/atencion-cliente-de-escalada-clientes-dificiles-ingles)
+- [Inglés para Reembolsos, Garantías y SLA](/blog/trabajo/atencion-cliente-reembolsos-garantias-sla-vocabulario)
+- [Inglés para Call Center: Frases Telefónicas](/blog/trabajo/atencion-cliente-telefono-call-center-frases)

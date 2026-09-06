@@ -152,3 +152,8 @@ coincide con el contexto y que los pronombres están en la posición correcta.
 Incluye también una frase negativa y una pregunta en tu crónica. Comprueba que
 la partícula conserva el significado elegido en ambas formas y que el auxiliar
 no altera la estructura del phrasal verb.
+
+---
+
+**Repaso:** [U40 — Repaso 36–39](/blog/curso-b2/unidad-40-repaso-36-39)
+

@@ -222,3 +222,10 @@ Esta sección cierra el objetivo de extensión del artículo con material **acci
 ---
 
 **Relacionado:** profundiza en clientes difíciles, email y telefonía en los artículos de esta serie sobre **[atención al cliente inglés](/blog/temas/ingles-para-atencion-al-cliente)**.
+
+### Más de la serie: atención al cliente en inglés
+
+- [Clientes Difíciles en Inglés: Frases para Calmar y Escalar](/blog/trabajo/atencion-cliente-de-escalada-clientes-dificiles-ingles)
+- [Emails y Chats de Soporte en Inglés: Guía B2](/blog/trabajo/atencion-cliente-email-chat-soporte-b2)
+- [Inglés para Reembolsos, Garantías y SLA](/blog/trabajo/atencion-cliente-reembolsos-garantias-sla-vocabulario)
+- [Inglés para Call Center: Frases Telefónicas](/blog/trabajo/atencion-cliente-telefono-call-center-frases)

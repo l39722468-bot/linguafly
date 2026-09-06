@@ -195,6 +195,8 @@ Si tu objetivo es una **oposición o habilitación docente en España**, el Apti
 - **Writing**: practica con las plantillas de correo formal e informe del Aptis
 - **Speaking**: grábate respondiendo a preguntas de descripción de imagen y debate de opinión
 
+Para consejos específicos de Speaking y Writing, consulta [Aptis General: Speaking y Writing, Tips y Estrategias](/blog/examenes/aptis-general-speaking-writing-tips).
+
 ## Fuentes
 
 - Aptis official (British Council): https://www.britishcouncil.org/exam/aptis

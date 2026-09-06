@@ -258,6 +258,15 @@ Para principiantes, empieza con **BBC Learning English** y **EnglishClass101**. 
 
 Y recuerda: YouTube es una herramienta de input (lo que entra en tu cabeza). Para que el idioma salga — hablar con fluidez — necesitas complementarlo con práctica activa de speaking. Te explicamos cómo integrar todo en una rutina coherente en nuestra guía sobre [cómo combinar apps de inglés según tu nivel](/blog/metodos/rutina-apps-ingles-como-combinarlas).
 
+### Más recursos de inmersión y entretenimiento en inglés
+
+- [Mejores Libros para Aprender Inglés](/blog/metodos/mejores-libros-aprender-ingles)
+- [Mejores Películas y Series para Aprender Inglés](/blog/metodos/mejores-peliculas-series-ingles)
+- [Inglés Gamer: Vocabulario de Videojuegos](/blog/metodos/ingles-gamer-videojuegos)
+- [Slang Americano: Expresiones Coloquiales](/blog/metodos/slang-americano-expresiones-coloquiales)
+- [Slang Británico en Inglés: Expresiones](/blog/metodos/slang-ingles-britanico-expresiones)
+- [Qué Significa TBT en Slang Inglés](/blog/metodos/que-significa-tbt-slang-ingles)
+
 ## Fuentes
 
 - YouTube Help (captions/subtitles): https://support.google.com/youtube/

@@ -147,6 +147,14 @@ En **Linguafly**, no solo te enseñamos inglés; te entrenamos para vencer al ex
 **APTIS:**
 - [APTIS A2: guía completa](/blog/examenes/aptis-a2-guia-completa)
 - [APTIS Advanced C1: guía completa](/blog/examenes/aptis-advanced-c1-guia)
+- [APTIS General: Speaking y Writing, Tips](/blog/examenes/aptis-general-speaking-writing-tips)
+
+**TOEFL:**
+- [TOEFL Speaking: las 4 Tareas Explicadas](/blog/examenes/toefl-speaking-4-tareas)
+
+**Otros exámenes y contextos:**
+- [Exámenes EOI de Inglés: Guía Completa](/blog/examenes/examenes-eoi-ingles-guia)
+- [Inglés Universitario y Académico](/blog/examenes/ingles-universitario-academico)
 
 ## Fuentes
 

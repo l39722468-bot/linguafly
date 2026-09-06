@@ -1375,7 +1375,7 @@ Reported speech transforms direct quotes. Passive reporting attributes informati
 Both correct. First emphasizes information; second emphasizes person. Passive with "to" needs infinitive.
 
 ### ¿Dónde practico la Unidad 52?
-En la Unidad 52 del curso B2 y en esta misma guía.
+En la Unidad 52 del curso B2 y en esta misma guía. También puedes practicar con los [ejercicios y soluciones de la Unidad 52](/blog/curso-b2/unidad-52-passive-reported-speech-human-rights-ejercicios-soluciones).
 
 ---
 

@@ -119,6 +119,11 @@ Incluso 5 minutos cuentan. Lo importante es no romper la cadena del hábito. Esc
 **3. ¿Cómo sé qué contenido estudiar si tengo poco tiempo?**
 Prioriza el vocabulario de tu sector profesional y las estructuras que más necesitas en tu día a día. Si trabajas en finanzas, enfócate en inglés financiero; si viajas, en situaciones cotidianas y viajes. La especialización hace que el tiempo que inviertes sea 100% útil.
 
+**4. ¿Cuánto tiempo se tarda realmente en aprender inglés?**
+Depende de tu punto de partida y constancia; consulta nuestra guía sobre [cuánto se tarda en aprender inglés](/blog/metodos/cuanto-se-tarda-en-aprender-ingles) para ver estimaciones por nivel.
+
+Si sientes que no avanzas pese al esfuerzo, revisa [Cómo Superar el Bloqueo Mental al Hablar Inglés](/blog/metodos/bloqueo-mental-ingles-superar) y [Cómo Hablar Inglés con Fluidez](/blog/metodos/hablar-ingles-con-fluidez).
+
 ## Fuentes
 
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages

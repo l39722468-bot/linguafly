@@ -143,6 +143,8 @@ En el trabajo, estos valores se traducen en prácticas muy concretas:
 
 Entender estas prácticas te ayuda no solo a comunicarte mejor, sino a interpretar correctamente el comportamiento de tus compañeros o examinadores en un contexto anglosajón.
 
+Para profundizar en diferencias culturales concretas, consulta [Cultura Americana: Diferencias con España](/blog/metodos/cultura-americana-diferencias-espana) y [Costumbres Británicas: Guía para el Viajero](/blog/metodos/costumbres-britanicas-guia-viajero). Si te vas de intercambio, no te pierdas nuestra [Guía Erasmus para Estudiar en el Extranjero](/blog/metodos/guia-erasmus-estudios-extranjero), y para el terreno social, [Cómo Ligar y Tener Citas en Inglés](/blog/metodos/ingles-para-ligar-y-citas).
+
 ## Fuentes
 
 - British Council: https://www.britishcouncil.org/

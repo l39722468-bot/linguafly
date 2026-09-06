@@ -134,6 +134,8 @@ Cinco minutos de escucha sectorial, cinco para resumirla en voz alta y cinco par
 
 Grábate explicando el mismo problema a un cliente y a tu responsable. Si cambian vocabulario, tono y detalle, estás desarrollando comunicación profesional.
 
+Para liderar reuniones con confianza, consulta [Liderar Reuniones en Inglés: Frases Clave](/blog/trabajo/liderar-reuniones-ingles-frases) y [Cómo Confirmar Reuniones por Email en Inglés](/blog/trabajo/email-confirmacion-reunion-ingles). Si trabajas con equipos irlandeses en remoto, revisa [Inglés en Reuniones Remotas con Acento Irlandés](/blog/trabajo/ingles-irlanda-trabajo-remoto-reuniones-acento).
+
 ## Fuentes
 
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages

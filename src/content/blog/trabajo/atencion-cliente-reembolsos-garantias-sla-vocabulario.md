@@ -221,3 +221,10 @@ Esta sección cierra el objetivo de extensión del artículo con material **acci
 **Atención al cliente en inglés** sobre políticas monetarias requiere **precisión léxica** + **prudencia**. Si dominas refund/warranty/chargeback y cierras con plazos realistas, reduces conflictos y proteges a la empresa y al cliente.
 
 Amplía en **[atención al cliente inglés](/blog/temas/ingles-para-atencion-al-cliente)**.
+
+### Más de la serie: atención al cliente en inglés
+
+- [Saludos, Tono y Registro en Atención al Cliente](/blog/trabajo/atencion-cliente-saludos-tono-registro-b2)
+- [Clientes Difíciles en Inglés: Frases para Calmar y Escalar](/blog/trabajo/atencion-cliente-de-escalada-clientes-dificiles-ingles)
+- [Emails y Chats de Soporte en Inglés: Guía B2](/blog/trabajo/atencion-cliente-email-chat-soporte-b2)
+- [Inglés para Call Center: Frases Telefónicas](/blog/trabajo/atencion-cliente-telefono-call-center-frases)

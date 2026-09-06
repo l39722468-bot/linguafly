@@ -158,6 +158,12 @@ Viajar con inglés es como viajar con un seguro de confianza. No se trata de no 
 - [Inglés para nómadas digitales y mochileros](/blog/temas/ingles-para-viajar)
 - [Mudarse al extranjero: guía de inglés práctico](/blog/viajes/mudarse-al-extranjero-guia-ingles)
 - [Inglés para recepcionistas: guía profesional](/blog/viajes/ingles-para-recepcionistas-guia)
+- [Inglés para cruceros y viajes en barco](/blog/viajes/ingles-cruceros-viaje-barco)
+- [Inglés para festivales y eventos en tu viaje](/blog/viajes/ingles-festivales-eventos-viaje)
+- [Inglés para fotografía de viaje](/blog/viajes/ingles-fotografia-viaje)
+- [Inglés para viajar con niños](/blog/viajes/ingles-viajar-con-ninos)
+- [Errores comunes de mochileros hispanohablantes en inglés](/blog/viajes/mochileros-ingles-errores-comunes-hispanohablantes)
+- [Inglés para voluntariado y Workaway](/blog/viajes/mochileros-ingles-voluntariado-workaway-intercambio)
 
 ## Practica en el curso Linguafly
 

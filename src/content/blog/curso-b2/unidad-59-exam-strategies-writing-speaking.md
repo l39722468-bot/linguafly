@@ -1811,6 +1811,8 @@ Gramática, vocabulario, pronunciación e interacción. En la Part 2 (individual
 **¿Dónde practico la Unidad 59?**
 En la Unidad 59 del curso B2 y en esta misma guía, que incluye teoría y ejercicios con soluciones.
 
+Continúa con el repaso final del curso en [U60 — Repaso Final B2](/blog/curso-b2/unidad-60-final-b2-review).
+
 ---
 
 ## Fuentes

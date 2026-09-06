@@ -161,3 +161,7 @@ marca una necesidad urgente. En una negociación, combina el auxiliar enfático
 con un conector prudente: *We do understand the concern; however, the evidence
 does not support that conclusion*. Así la estructura refuerza el argumento sin
 convertir el mensaje en una confrontación.
+
+---
+
+**Siguiente unidad:** [U38 — Phrasal Verbs 5: Run, Set, Take + Leisure](/blog/curso-b2/unidad-38-phrasal-verbs-5-run-set-take-leisure)
