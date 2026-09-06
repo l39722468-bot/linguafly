@@ -3,10 +3,10 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-08-31'
 author: linguafly-team
-title: 'Third Conditional B1: If + Past Perfect y Ejercicios'
+title: '¿Cómo se dice "si hubiera sabido"? Third Conditional B1'
 description: >-
-  Aprende el third conditional B1 con if + past perfect y would have para hablar
-  de arrepentimientos y pasado irreal, con audio y ejercicios.
+  Aprende a expresar arrepentimientos en inglés con el third conditional (if
+  + past perfect, would have): reglas, ejemplos reales y ejercicios B1.
 readTime: 18 min
 keywords:
   - third conditional B1
@@ -51,7 +51,8 @@ faqs:
       En la [Unidad 14 del curso B1](/curso-b1/unit-14) de Linguafly. El [cuaderno de ejercicios con
       soluciones](/blog/curso-b1/unidad-14-third-conditional-ejercicios-soluciones) te permite comprobar cada respuesta.
 excerpt: >-
-  Guía de la Unidad 14 del curso B1: third conditional y regrets.
+  Si hubiera... habría: aprende a hablar de un pasado que ya no puedes
+  cambiar con el third conditional, con audio y ejercicios (Unidad 14 B1).
 ---
 Todos hemos pensado alguna vez "si hubiera salido antes, no habría perdido el tren" o "si hubiera estudiado más, habría aprobado". Ese tipo de reflexión sobre un pasado que ya no se puede cambiar tiene una estructura muy concreta en inglés: el **third conditional**. A diferencia del second conditional (situaciones hipotéticas en el presente o futuro), el third conditional habla siempre de **el pasado**, y de un pasado que ya está cerrado: no importa cuánto lo analicemos, el resultado real ya ocurrió y no va a cambiar.
 

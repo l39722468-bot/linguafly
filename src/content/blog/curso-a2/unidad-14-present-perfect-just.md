@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-07'
 updatedDate: '2026-08-07'
 author: linguafly-team
-title: 'Present Perfect A2: just (I have just… / acabar de)'
+title: 'Present Perfect + Just: "Acabo de..." en Inglés (A2)'
 description: >-
-  Aprende just con Present Perfect en inglés A2: decir que acabas de hacer algo.
-  Guía Unidad 14 con audios, posición, recently y ejercicios.
+  ¿Cómo se dice "acabo de hacer algo" en inglés? Aprende just con Present
+  Perfect A2: reglas, posición, diferencia con recently y ejercicios.
 readTime: 15 min
 keywords:
   - Present Perfect just
@@ -47,8 +47,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 14 del curso A2: Present Perfect con just (acabar de),
-  acciones recientes, audios y ejercicios.
+  I have just finished: domina el uso de just con Present Perfect para
+  acciones recientes, con audios y ejercicios (Unidad 14 A2).
 ---
 
 En la [Unidad 13](/blog/curso-a2/unidad-13-present-perfect-already-yet) hablaste de **progreso** (*already / yet*). En la **Unidad 14 del curso A2** (*Present Perfect: Just*) dices que **acabas de** hacer algo: *I have just…*

@@ -1,9 +1,8 @@
 ---
-title: 'Third Conditional en Inglés: Guía y Ejemplos'
+title: 'Third Conditional en Inglés: Guía para Hablar de Arrepentimientos'
 description: >-
-  Aprende el tercer condicional en inglés con ejemplos reales. Cómo expresar
-  arrepentimientos, situaciones pasadas que no ocurrieron y errores frecuentes
-  que debes evitar.
+  ¿Cómo se usa el tercer condicional en inglés? Aprende a expresar
+  arrepentimientos con ejemplos reales, errores frecuentes y ejercicios.
 readTime: 5 min
 excerpt: >-
   El tercer condicional es el condicional del "y si hubiera...". Te enseñamos

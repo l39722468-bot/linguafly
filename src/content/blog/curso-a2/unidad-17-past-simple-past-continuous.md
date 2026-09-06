@@ -3,10 +3,10 @@ category: curso-a2
 date: '2026-08-07'
 updatedDate: '2026-08-07'
 author: linguafly-team
-title: 'Past Simple y Past Continuous A2: When, While y Ejercicios'
+title: 'Past Simple + Past Continuous: When y While Explicados (A2)'
 description: >-
-  Aprende a combinar Past Simple y Past Continuous A2 con when y while para
-  describir acciones interrumpidas, con reglas, ejemplos y ejercicios prácticos.
+  ¿When o while? Descubre cómo combinar Past Simple y Past Continuous para
+  contar historias con acciones interrumpidas, reglas claras y ejercicios.
 readTime: 15 min
 keywords:
   - Past Simple Past Continuous
@@ -49,8 +49,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 17 del curso A2: Past Simple + Past Continuous con when y
-  while, relatos, audios y ejercicios.
+  When vs while: la guía definitiva para combinar Past Simple y Past
+  Continuous al contar historias, con ejemplos, audios y ejercicios (A2).
 ---
 
 En la [Unidad 16](/blog/curso-a2/unidad-16-past-continuous) formaste *was/were + -ing*. En la **Unidad 17 del curso A2** (*Past Simple + Past Continuous*) **combinas** ambos tiempos: *When I was walking, I saw…*
