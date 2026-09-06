@@ -1,7 +1,9 @@
 ---
-title: 'El Acento Sudafricano en Inglés: Guía Clara'
+title: '¿Cómo Suena el Acento Sudafricano en Inglés?'
 description: >-
-  Guía completa del South African English: el desplazamiento vocálico, las diferencias entre Cape Town y Johannesburg, el inglés negro sudafricano, loanwords...
+  ¿Por qué el inglés sudafricano suena tan distinto? Descubre el
+  desplazamiento vocálico, las diferencias entre Cape Town y Johannesburg
+  y sus préstamos de idiomas locales.
 readTime: 9 min
 excerpt: >-
   El inglés sudafricano tiene un sistema vocálico completamente diferente al

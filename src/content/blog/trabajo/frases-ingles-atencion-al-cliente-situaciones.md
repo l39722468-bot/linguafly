@@ -1,10 +1,11 @@
 ---
-title: '50 Frases de Atención al Cliente en Inglés'
+title: '¿Qué Decir en Atención al Cliente? 50 Frases en Inglés'
 date: '2026-03-06'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Colección de las 50 frases más utilizadas en atención al cliente en inglés. Organizadas por situación: bienvenida, resolución de problemas, quejas,...
+  ¿No sabes cómo responder en inglés a un cliente? Colección de las 50
+  frases más usadas, organizadas por situación: bienvenida, quejas y más.
 category: trabajo
 alt: Equipo de atención al cliente internacional usando frases en inglés para gestionar consultas
 canonical: >-

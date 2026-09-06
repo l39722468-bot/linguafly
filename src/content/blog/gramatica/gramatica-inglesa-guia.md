@@ -3,9 +3,10 @@ category: gramatica
 date: '2026-03-10'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Gramática Inglesa: Guía Completa A1-C2'
+title: '¿Cómo Organizar la Gramática Inglesa? Guía A1-C2'
 description: >-
-  Guía maestra de gramática inglesa: tiempos verbales, phrasal verbs, condicionales, voz pasiva, reported speech, verbos modales y más.
+  ¿Por dónde empezar con la gramática inglesa? Guía maestra con tiempos
+  verbales, phrasal verbs, condicionales, voz pasiva y verbos modales.
 excerpt: >-
   La gramática inglesa organizada de forma clara: todos los temas esenciales de
   A1 a C2. Elige tu nivel y profundiza en cada estructura con nuestras guías

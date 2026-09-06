@@ -3,10 +3,10 @@ category: viajes
 date: '2026-02-07'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Inglés para Viajar: Frases y Vocabulario Esencial'
+title: '¿Qué Inglés Necesitas para Viajar? Frases Esenciales'
 description: >-
-  Domina el inglés para tus viajes. Frases esenciales para aeropuertos, hoteles,
-  restaurantes y emergencias. Viaja con total confianza por el mundo con Linguafly.
+  ¿Vas a viajar y no sabes qué inglés necesitas? Frases esenciales para
+  aeropuertos, hoteles, restaurantes y emergencias, con pronunciación.
 readTime: 5 min
 keywords:
   - Inglés para Viajar: Frases y Vocabulario Esencial
