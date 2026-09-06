@@ -121,42 +121,6 @@ export default function BlogPage() {
       icon: "📕",
       color: "from-rose-600 to-red-700"
     },
-    "curso-espanol-a1": {
-      name: "Spanish A1 Course: Unit Guides",
-      description: "Theory and workbook articles of the A1 Spanish course for English speakers, unit by unit.",
-      icon: "🇪🇸",
-      color: "from-teal-600 to-emerald-700"
-    },
-    "curso-espanol-a2": {
-      name: "Spanish A2 Course: Unit Guides",
-      description: "Theory and workbook articles of the A2 Spanish course for English speakers, unit by unit.",
-      icon: "🇪🇸",
-      color: "from-cyan-600 to-sky-700"
-    },
-    "curso-espanol-b1": {
-      name: "Spanish B1 Course: Unit Guides",
-      description: "Theory and workbook articles of the B1 Spanish course for English speakers, unit by unit.",
-      icon: "🇪🇸",
-      color: "from-orange-600 to-amber-700"
-    },
-    "curso-espanol-b2": {
-      name: "Spanish B2 Course: Unit Guides",
-      description: "Theory and workbook articles of the B2 Spanish course for English speakers, unit by unit.",
-      icon: "🇪🇸",
-      color: "from-rose-600 to-pink-700"
-    },
-    "curso-espanol-c1": {
-      name: "Spanish C1 Course: Unit Guides",
-      description: "Theory and workbook articles of the C1 Spanish course for English speakers, unit by unit.",
-      icon: "🇪🇸",
-      color: "from-violet-600 to-purple-700"
-    },
-    "curso-espanol-c2": {
-      name: "Spanish C2 Course: Unit Guides",
-      description: "Theory and workbook articles of the C2 Spanish course for English speakers, unit by unit.",
-      icon: "🇪🇸",
-      color: "from-slate-600 to-zinc-800"
-    }
   };
 
   const categoryFilterLabels: Record<string, string> = {
@@ -173,12 +137,6 @@ export default function BlogPage() {
     "curso-a2": "Curso A2",
     "curso-b1": "Curso B1",
     "curso-b2": "Curso B2",
-    "curso-espanol-a1": "Spanish A1",
-    "curso-espanol-a2": "Spanish A2",
-    "curso-espanol-b1": "Spanish B1",
-    "curso-espanol-b2": "Spanish B2",
-    "curso-espanol-c1": "Spanish C1",
-    "curso-espanol-c2": "Spanish C2",
   };
 
   const searchCategoryOptions = Array.from(

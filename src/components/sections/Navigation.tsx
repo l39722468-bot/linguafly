@@ -2,18 +2,20 @@
 
 import Link from "next/link";
 import { useState } from "react";
-import { usePathname } from "next/navigation";
 import { SITE_BRAND_NAME } from "@/lib/site-brand";
-import { HomeLanguageSwitcher } from "@/components/sections/HomeLanguageSwitcher";
 import { HtmlLang } from "@/components/seo/HtmlLang";
-import {
-  HOME_PATHS,
-  SPANISH_COURSE_A1_HREF,
-  SPANISH_COURSE_A1_UNIT1_HREF,
-  localeFromPathname,
-} from "@/lib/site-locales";
 
-const ENGLISH_COURSE_LINKS = [
+const ENGLISH_CATEGORIES = [
+  { label: "Gramática", href: "/blog/gramatica" },
+  { label: "Viajes", href: "/blog/viajes" },
+  { label: "Trabajo", href: "/blog/trabajo" },
+  { label: "Exámenes", href: "/blog/examenes" },
+  { label: "Métodos", href: "/blog/metodos" },
+  { label: "Habilidades", href: "/blog/habilidades" },
+  { label: "Vocabulario", href: "/blog/vocabulario" },
+] as const;
+
+const ENGLISH_LEVELS = [
   { label: "A1", href: "/curso-a1" },
   { label: "A2", href: "/curso-a2" },
   { label: "B1", href: "/curso-b1" },
@@ -22,242 +24,99 @@ const ENGLISH_COURSE_LINKS = [
   { label: "C2", href: "/curso-c2" },
 ] as const;
 
-const SPANISH_COURSE_LINKS = [
-  { label: "A1", href: SPANISH_COURSE_A1_HREF },
-  { label: "A2", href: "/en#levels" },
-  { label: "B1", href: "/en#levels" },
-  { label: "B2", href: "/en#levels" },
-  { label: "C1", href: "/en#levels" },
-  { label: "C2", href: "/en#levels" },
-] as const;
-
-const EXERCISE_MAP_LINK_CLASSES =
-  "inline-flex w-[5.75rem] shrink-0 items-center justify-center text-center text-[11px] font-bold leading-[1.25] text-gray-700 hover:text-[#FF6B6B] transition-colors xl:w-[6.25rem] xl:text-xs";
-
-function ExerciseMapLinkLabel({ multiline = false }: { multiline?: boolean }) {
-  if (multiline) {
-    return (
-      <>
-        Cuadro de ejercicios
-        <br />
-        relacionados
-      </>
-    );
-  }
-
-  return <>Cuadro de ejercicios relacionados</>;
-}
+const linkClass = "text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors";
 
 export function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const pathname = usePathname();
-  const locale = localeFromPathname(pathname);
-  const isEnglishHome = locale === "en";
-  const courseLinks = isEnglishHome ? SPANISH_COURSE_LINKS : ENGLISH_COURSE_LINKS;
-  const logoHref = isEnglishHome ? HOME_PATHS.en : HOME_PATHS.es;
 
-  const spanishNavLinks = {
-    phrases: "/frases-en-ingles",
-    guides: "/aprender-ingles",
-    grammar: "/blog/gramatica",
-    vocabulary: "/vocabulario",
-    podcasts: "/podcasts",
-    professionalCourses: "/cursos-por-sector",
-    exerciseMap: "/blog/ejercicios-relacionados",
-  };
-  const navLinks = { ...spanishNavLinks, blog: "/blog", levelTest: "/test-nivel" };
+  const closeMobileMenu = () => setMobileMenuOpen(false);
 
   return (
-    <nav className="sticky top-0 z-[9998] bg-white/95 backdrop-blur-lg border-b-2 border-[#FFE8D9] shadow-sm transition-colors">
-      <HtmlLang lang={isEnglishHome ? "en" : "es"} />
+    <nav className="sticky top-0 z-[9998] bg-white/95 backdrop-blur-lg border-b-2 border-[#FFE8D9] shadow-sm">
+      <HtmlLang lang="es" />
       <div className="max-w-[100rem] mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center min-h-16 py-1">
-          <Link href={logoHref} className="flex items-center gap-2 group">
+          <Link href="/" className="flex items-center gap-2 group" onClick={closeMobileMenu}>
             <div className="w-10 h-10 rounded-2xl bg-gradient-to-br from-[#FF6B6B] to-[#FF8E53] flex items-center justify-center text-white font-black text-xl shadow-coral transform group-hover:scale-110 transition-transform">
               L
             </div>
-            <span className="text-xl font-black bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] bg-clip-text text-transparent">{SITE_BRAND_NAME}</span>
+            <span className="text-xl font-black bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] bg-clip-text text-transparent">
+              {SITE_BRAND_NAME}
+            </span>
           </Link>
 
-          <div className="hidden md:flex items-center gap-3 xl:gap-4">
-            <HomeLanguageSwitcher />
-            <div className="hidden lg:flex items-center gap-2">
-              {courseLinks.map((course) => (
-                <Link
-                  key={course.label}
-                  href={course.href}
-                  className="px-3 py-1.5 rounded-full border border-[#FFD9C2] bg-[#FFF4ED] text-xs font-black text-[#FF6B6B] hover:bg-[#FFE8D9] transition-colors"
-                >
-                  {course.label}
+          <div className="hidden md:flex items-center gap-5">
+            <Link href="/" className={linkClass}>Inicio</Link>
+            <details className="relative group">
+              <summary className={`${linkClass} cursor-pointer list-none`}>Idiomas</summary>
+              <div className="absolute left-1/2 top-full z-10 mt-4 w-72 -translate-x-1/2 rounded-2xl border border-[#FFE8D9] bg-white p-4 shadow-xl">
+                <Link href="/blog" className="mb-3 block font-black text-[#FF6B6B]">
+                  Inglés
                 </Link>
-              ))}
-            </div>
-            {isEnglishHome ? (
-              <>
-                <Link
-                  href={SPANISH_COURSE_A1_UNIT1_HREF}
-                  className="px-3 py-1.5 rounded-full border border-teal-600 bg-teal-700 text-xs font-black text-white hover:bg-teal-800 transition-colors"
-                >
-                  Start A1
-                </Link>
-                <Link href={SPANISH_COURSE_A1_HREF} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
-                  Spanish A1 blog
-                </Link>
-              </>
-            ) : (
-              <>
-                <Link
-                  href={navLinks.levelTest}
-                  className="px-3 py-1.5 rounded-full border border-[#FF6B6B] bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-xs font-black text-white hover:opacity-90 transition-opacity"
-                >
-                  Test de nivel
-                </Link>
-                <Link href={navLinks.blog} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
-                  Blog
-                </Link>
-                <Link href={navLinks.exerciseMap} className={EXERCISE_MAP_LINK_CLASSES}>
-                  <ExerciseMapLinkLabel multiline />
-                </Link>
-                <Link href={navLinks.phrases} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
-                  Frases
-                </Link>
-                <Link href={navLinks.guides} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
-                  Guías
-                </Link>
-                <Link href={navLinks.grammar} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
-                  Gramática
-                </Link>
-                <Link href={navLinks.vocabulary} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
-                  Vocabulario
-                </Link>
-                <Link href={navLinks.podcasts} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
-                  Podcasts
-                </Link>
-                <Link href={navLinks.professionalCourses} className="text-sm font-bold text-gray-700 hover:text-[#FF6B6B] transition-colors">
-                  Cursos por sector
-                </Link>
-              </>
-            )}
+                <div className="grid grid-cols-2 gap-2">
+                  {ENGLISH_CATEGORIES.map((category) => (
+                    <Link key={category.href} href={category.href} className={linkClass}>
+                      {category.label}
+                    </Link>
+                  ))}
+                </div>
+                <div className="mt-4 border-t border-slate-100 pt-3">
+                  <span className="mb-2 block text-xs font-black uppercase tracking-wide text-slate-500">Niveles</span>
+                  <div className="flex flex-wrap gap-2">
+                    {ENGLISH_LEVELS.map((level) => (
+                      <Link key={level.href} href={level.href} className="rounded-full bg-[#FFF4ED] px-3 py-1 text-xs font-black text-[#FF6B6B]">
+                        {level.label}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              </div>
+            </details>
+            <Link href="/fitness" className={linkClass}>Fitness</Link>
+            <Link href="/test-nivel" className="rounded-full bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] px-4 py-2 text-xs font-black text-white hover:opacity-90">
+              Test de nivel
+            </Link>
           </div>
 
-          <div className="flex items-center gap-2 md:hidden">
-            <HomeLanguageSwitcher compact />
-            <button
-              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              className="p-2 rounded-lg hover:bg-slate-100"
-              aria-label={mobileMenuOpen ? (isEnglishHome ? "Close menu" : "Cerrar menú") : (isEnglishHome ? "Open menu" : "Abrir menú")}
-              aria-expanded={mobileMenuOpen}
-            >
-              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                {mobileMenuOpen ? (
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-                ) : (
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
-                )}
-              </svg>
-            </button>
-          </div>
+          <button
+            onClick={() => setMobileMenuOpen((open) => !open)}
+            className="rounded-lg p-2 hover:bg-slate-100 md:hidden"
+            aria-label={mobileMenuOpen ? "Cerrar menú" : "Abrir menú"}
+            aria-expanded={mobileMenuOpen}
+          >
+            <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              {mobileMenuOpen ? (
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+              ) : (
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+              )}
+            </svg>
+          </button>
         </div>
 
         {mobileMenuOpen && (
-          <div className="md:hidden py-4 border-t border-slate-200">
+          <div className="border-t border-slate-200 py-4 md:hidden">
             <div className="flex flex-col gap-4">
-              <div className="flex flex-wrap gap-2">
-                {courseLinks.map((course) => (
-                  <Link
-                    key={course.label}
-                    href={course.href}
-                    className="px-3 py-1.5 rounded-full border border-[#FFD9C2] bg-[#FFF4ED] text-xs font-black text-[#FF6B6B] hover:bg-[#FFE8D9] transition-colors"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    {course.label}
-                  </Link>
-                ))}
+              <Link href="/" className={linkClass} onClick={closeMobileMenu}>Inicio</Link>
+              <div>
+                <span className="mb-2 block font-black text-[#FF6B6B]">Idiomas · Inglés</span>
+                <div className="grid grid-cols-2 gap-3">
+                  {ENGLISH_CATEGORIES.map((category) => (
+                    <Link key={category.href} href={category.href} className={linkClass} onClick={closeMobileMenu}>
+                      {category.label}
+                    </Link>
+                  ))}
+                </div>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  {ENGLISH_LEVELS.map((level) => (
+                    <Link key={level.href} href={level.href} className="rounded-full bg-[#FFF4ED] px-3 py-1 text-xs font-black text-[#FF6B6B]" onClick={closeMobileMenu}>
+                      {level.label}
+                    </Link>
+                  ))}
+                </div>
               </div>
-              {isEnglishHome ? (
-                <>
-                  <Link
-                    href={SPANISH_COURSE_A1_UNIT1_HREF}
-                    className="inline-flex items-center justify-center px-4 py-3 rounded-xl bg-teal-700 text-sm font-black text-white text-center"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Start A1 Unit 1
-                  </Link>
-                  <Link
-                    href={SPANISH_COURSE_A1_HREF}
-                    className="text-sm font-bold text-coral-600 hover:text-coral-700 transition-colors"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Spanish A1 blog
-                  </Link>
-                </>
-              ) : (
-                <>
-                  <Link
-                    href={navLinks.levelTest}
-                    className="inline-flex items-center justify-center px-4 py-3 rounded-xl bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] text-sm font-black text-white text-center"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Test de nivel
-                  </Link>
-                  <Link
-                    href={navLinks.blog}
-                    className="text-sm font-bold text-coral-600 hover:text-coral-700 transition-colors"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    📰 Blog
-                  </Link>
-                  <Link
-                    href={navLinks.exerciseMap}
-                    className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    <ExerciseMapLinkLabel />
-                  </Link>
-                  <Link
-                    href={navLinks.phrases}
-                    className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Frases
-                  </Link>
-                  <Link
-                    href={navLinks.guides}
-                    className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Guías
-                  </Link>
-                  <Link
-                    href={navLinks.grammar}
-                    className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Gramática
-                  </Link>
-                  <Link
-                    href={navLinks.vocabulary}
-                    className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Vocabulario
-                  </Link>
-                  <Link
-                    href={navLinks.podcasts}
-                    className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Podcasts
-                  </Link>
-                  <Link
-                    href={navLinks.professionalCourses}
-                    className="text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors"
-                    onClick={() => setMobileMenuOpen(false)}
-                  >
-                    Cursos por sector
-                  </Link>
-                </>
-              )}
+              <Link href="/fitness" className={linkClass} onClick={closeMobileMenu}>Fitness</Link>
+              <Link href="/test-nivel" className={linkClass} onClick={closeMobileMenu}>Test de nivel</Link>
             </div>
           </div>
         )}

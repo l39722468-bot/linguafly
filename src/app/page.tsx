@@ -4,8 +4,6 @@ import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import { Metadata } from "next";
 import { getBlogArticles } from "@/lib/blog";
-import { isSpanishCourseCategory } from "@/lib/site-locales";
-import { HomePageSwitcher } from "@/components/sections/HomePageSwitcher";
 import { HomeBelowFold } from "./HomeBelowFold";
 
 const Footer = dynamic(() => import("@/components/sections/Footer").then((m) => ({ default: m.Footer })), {
@@ -25,17 +23,11 @@ export const metadata: Metadata = {
   ],
   alternates: {
     canonical: 'https://linguafly.app',
-    languages: {
-      es: '/',
-      en: '/en',
-      'x-default': '/',
-    },
   },
 };
 
 export default function HomePage() {
   const latestArticles = getBlogArticles()
-    .filter((article) => !isSpanishCourseCategory(article.category))
     .slice(0, 3);
   
   return (
@@ -58,8 +50,6 @@ export default function HomePage() {
                 </span>
               </div>
             </div>
-            <HomePageSwitcher locale="es" />
-
             {/* Main Heading */}
             <div className="text-center mb-12">
               <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold mb-6 leading-tight text-gray-900">

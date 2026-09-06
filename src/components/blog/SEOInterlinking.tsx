@@ -6,32 +6,6 @@ interface SEOInterlinkingProps {
 }
 
 export function SEOInterlinking({ relatedRoute, category }: SEOInterlinkingProps) {
-  const isSpanishCourse = Boolean(category?.startsWith("curso-espanol-"));
-  const spanishLevel = isSpanishCourse ? category!.replace("curso-espanol-", "").toUpperCase() : "";
-
-  if (isSpanishCourse) {
-    const hub = `/blog/${category}`;
-    return (
-      <div className="my-12 p-8 bg-gradient-to-br from-slate-50 to-teal-50 rounded-3xl border border-teal-100 shadow-sm">
-        <h3 className="text-xl font-bold text-slate-900 mb-4">
-          Keep going with {spanishLevel} Spanish
-        </h3>
-        <p className="text-slate-700 mb-6 leading-relaxed">
-          This guide is part of the <strong>{spanishLevel} Spanish course for English speakers</strong>.
-          Stay on this track: the next unit continues the same syllabus (PCIC / DELE).
-        </p>
-        <div className="flex flex-col sm:flex-row gap-4">
-          <Link
-            href={hub}
-            className="inline-flex items-center justify-center bg-teal-700 text-white px-6 py-3 rounded-xl font-bold hover:bg-teal-800 transition-all hover:scale-[1.02]"
-          >
-            All {spanishLevel} Spanish guides
-          </Link>
-        </div>
-      </div>
-    );
-  }
-
   // Map category to main route if not specified
   const routeMap: Record<string, string> = {
     trabajo: "ingles-para-trabajo",

@@ -1952,10 +1952,6 @@ export function buildBlogCourseRelations(articles?: BlogPost[]): BlogCourseRelat
 
   for (const article of source) {
     const category = normalizeCategory(article.category);
-    // Spanish L2 articles must not map onto the English-course exercise table.
-    if (category.startsWith("curso-espanol")) {
-      continue;
-    }
     const articleUrl = `/blog/${category}/${article.slug}`;
     const matches = matchTopicsForArticle(article);
 

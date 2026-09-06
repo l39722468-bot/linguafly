@@ -25,6 +25,7 @@ const baseUrl = getSiteUrl();
 const SITE_LAUNCH_DATE = new Date("2024-09-01");
 const LEGAL_DATE = new Date("2024-09-01");
 const FRASES_DATE = new Date("2025-01-01");
+const FITNESS_DATE = new Date("2026-09-06");
 const COURSE_DATE = new Date("2024-09-01");
 
 type CourseUnit = { unitId?: string; id?: string | number };
@@ -48,12 +49,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       lastModified: mostRecentArticleDate,
       changeFrequency: "daily",
       priority: 1.0,
-    },
-    {
-      url: `${baseUrl}/en`,
-      lastModified: mostRecentArticleDate,
-      changeFrequency: "daily",
-      priority: 0.98,
     },
     {
       url: `${baseUrl}/aprender-ingles`,

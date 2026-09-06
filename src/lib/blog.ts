@@ -170,12 +170,6 @@ function prioritizeRecentCourseArticles(articles: BlogPost[]): BlogPost[] {
       "curso-a2",
       "curso-b1",
       "curso-b2",
-      "curso-espanol-a1",
-      "curso-espanol-a2",
-      "curso-espanol-b1",
-      "curso-espanol-b2",
-      "curso-espanol-c1",
-      "curso-espanol-c2",
     ]);
     const now = Date.now();
     const recentThreshold = now - RECENT_DAYS * 24 * 60 * 60 * 1000;
