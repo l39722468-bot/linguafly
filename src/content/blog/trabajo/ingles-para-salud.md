@@ -3,11 +3,10 @@ category: trabajo
 date: '2026-02-07'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Inglés para el Sector Salud: Guía Profesional'
+title: 'Inglés para Sanitarios: Comunicación con Pacientes e Informes'
 description: >-
-  Especialízate en inglés médico y de enfermería. Domina el vocabulario clínico,
-  la atención al paciente, redacción de informes y comunicación profesional
-  sanitaria.
+  ¿Necesitas inglés médico para tu trabajo? Domina el vocabulario clínico,
+  la atención al paciente, informes y comunicación profesional sanitaria.
 readTime: 5 min
 keywords:
   - Inglés para el Sector Salud: Guía Profesional

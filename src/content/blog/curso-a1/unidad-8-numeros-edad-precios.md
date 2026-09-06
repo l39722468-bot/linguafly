@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-03'
 updatedDate: '2026-08-03'
 author: linguafly-team
-title: 'Números 20–100 en Inglés (A1): Edad, Precios y How Much / How Old'
+title: 'Números del 20 al 100 en Inglés: Edad, Precios y Teléfonos (A1)'
 description: >-
   Aprende números del 20 al 100 en inglés A1, How old are you?, How much is…?,
   precios y números de teléfono. Guía Unidad 8 con ejemplos, audios y ejercicios
@@ -59,9 +59,8 @@ faqs:
       precios y números de teléfono con ejercicios de gramática, vocabulario,
       reading, listening y speaking.
 excerpt: >-
-  Guía de la Unidad 8 del curso A1: números 20–100, How old…?, How much…?,
-  edades, precios, dinero y números de teléfono. Con audios, esquemas y
-  ejercicios con soluciones.
+  How old are you? How much is...? Aprende los números del 20 al 100 en
+  inglés para edades, precios y teléfonos, con audios y ejercicios (A1).
 ---
 
 Ya sabes describir el aspecto físico de una persona. En la **Unidad 8 del curso A1** (*Numbers 20–100: Prices & Ages*) aprendes a **decir y preguntar edades, precios y números de teléfono** con cifras del 20 al 100.

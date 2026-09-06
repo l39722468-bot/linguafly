@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Clothing Store A1: too vs enough, tallas y probador'
+title: 'Ropa en Inglés A1: Too vs Enough, Tallas y Probador'
 description: >-
   Aprende too y enough en la tienda de ropa A1: too big, big enough, size S M L
   XL, changing room y sale. Guía Unidad 55 con audios y ejercicios.
@@ -47,8 +47,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 55 del curso A1: too vs enough en la tienda de ropa, con
-  tallas, probador y audios.
+  Too big, big enough, size S M L XL: aprende inglés para ir de tiendas
+  con tallas, probador y ofertas, con audios y ejercicios (Unidad 55 A1).
 ---
 
 En la [Unidad 54](/blog/curso-a1/unidad-54-how-much-how-many) preguntaste precios. En la **Unidad 55 del curso A1** (*Clothing Store*) pruebas ropa: ***too big / big enough***, tallas ***S, M, L, XL***, ***changing room*** y ***sale***.
