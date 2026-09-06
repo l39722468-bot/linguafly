@@ -3,7 +3,7 @@ category: curso-a1
 date: '2026-08-04'
 updatedDate: '2026-08-04'
 author: linguafly-team
-title: 'Sports & Hobbies A1: play, go y do con deportes'
+title: 'Deportes y Hobbies en Inglés A1: Play, Go y Do'
 description: >-
   Aprende play football, go swimming y do yoga en inglés A1, más hobbies como
   painting y reading. Guía Unidad 32 con audios, esquemas y ejercicios.
@@ -46,8 +46,8 @@ faqs:
       con soluciones del blog: gramática, vocabulario, reading, listening y
       speaking.
 excerpt: >-
-  Guía de la Unidad 32 del curso A1: deportes y hobbies con play, go y do, más
-  like + painting/reading, con audios y ejercicios.
+  Play football, go swimming, do yoga: aprende a combinar verbos con
+  deportes y hobbies en inglés, con audios y ejercicios (Unidad 32 A1).
 ---
 
 En la [Unidad 31](/blog/curso-a1/unidad-31-can-habilidad) dijiste qué **puedes** hacer (*I can swim*). En la **Unidad 32 del curso A1** (*Sports & Hobbies*) aprendes a hablar de **deportes y hobbies** con la tríada ***play / go / do***.

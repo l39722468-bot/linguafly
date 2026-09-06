@@ -1,7 +1,8 @@
 ---
-title: 'Slang Inglés Británico: 60 Expresiones y Significados'
+title: '¿Cómo Habla el Reino Unido? 60 Expresiones de Slang Británico'
 description: >-
-  Guía completa de slang inglés británico. Aprende las expresiones más usadas en el Reino Unido, desde el cockney londinense hasta el inglés informal del...
+  ¿Sabes lo que significa "cheeky" o "gutted"? Descubre las expresiones de
+  slang británico más usadas en Londres, Manchester o Glasgow.
 readTime: 4 min
 excerpt: >-
   El inglés que aprendes en los libros y el inglés que hablan en Londres, Manchester

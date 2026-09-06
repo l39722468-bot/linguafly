@@ -3,7 +3,7 @@ category: curso-a2
 date: '2026-08-07'
 updatedDate: '2026-08-07'
 author: linguafly-team
-title: 'Repaso Módulo 2 A2: Present Perfect, Past Continuous y How'
+title: '¿Cómo Repasar el Módulo 2 de A2? Present Perfect y Más'
 description: >-
   Integra el Módulo 2 del curso A2: Present Perfect, Past Continuous, for/since
   y How questions. Guía Unidad 20 con audios y ejercicios.
@@ -49,8 +49,8 @@ faqs:
       de Linguafly: gramática, vocabulario, reading, listening, speaking y
       writing.
 excerpt: >-
-  Guía de la Unidad 20 del curso A2: repaso del Módulo 2 con Present Perfect,
-  Past Continuous, for/since y How questions, audios y ejercicios.
+  Present Perfect, Past Continuous, for/since y How questions: repasa
+  el Módulo 2 de A2 con audios y ejercicios (Unidad 20).
 ---
 
 En las [unidades 11–19](/blog/curso-a2) construiste el Módulo 2. En la **Unidad 20 del curso A2** (*Module 2 Review*) **combinas** todo: experiencias, escenas en pasado, duración y preguntas *How…?* en un mismo relato.

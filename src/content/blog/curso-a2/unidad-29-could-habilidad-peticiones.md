@@ -3,7 +3,7 @@ category: curso-a2
 date: '2026-08-11'
 updatedDate: '2026-08-11'
 author: linguafly-team
-title: 'Could A2: habilidad pasada y peticiones educadas'
+title: '¿Cómo se Usa Could en Inglés? Habilidad y Peticiones (A2)'
 description: >-
   Aprende could en inglés A2: capacidad en el pasado (I could swim) y peticiones
   corteses (Could you…?). Guía Unidad 29 con audios y ejercicios.
@@ -45,8 +45,8 @@ faqs:
       En el [cuaderno de ejercicios con soluciones](/blog/curso-a2/unidad-29-could-habilidad-peticiones-ejercicios-soluciones) y en la Unidad 29 del curso A2 de Linguafly: gramática, vocabulario,
       reading, listening, speaking y writing.
 excerpt: >-
-  Guía de la Unidad 29 del curso A2: could para habilidad pasada y peticiones
-  educadas, con audios y ejercicios.
+  I could swim, Could you...? Aprende a usar could para hablar de
+  capacidad pasada y hacer peticiones corteses (Unidad 29 A2).
 ---
 
 En la [Unidad 28](/blog/curso-a2/unidad-28-have-to-dont-have-to) hablaste de obligaciones. En la **Unidad 29 del curso A2** (*Could: Past Ability & Polite Requests*) usas **could** para lo que **podías** hacer antes y para pedir con educación.

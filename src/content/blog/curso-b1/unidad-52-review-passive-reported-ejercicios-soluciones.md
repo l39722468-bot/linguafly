@@ -3,9 +3,10 @@ category: curso-b1
 date: '2026-08-31'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: 'Repaso de Voz Pasiva y Estilo Indirecto B1'
+title: '¿Cómo Repasar Voz Pasiva y Estilo Indirecto? Ejercicios B1'
 description: >-
-  Practica todos los ejercicios de la Unidad 52 del curso B1: passive, modal passive, reported statements/questions/commands (U16–19); mixed topics, reading,...
+  ¿Necesitas practicar passive y reported speech? Ejercicios resueltos de
+  la Unidad 52 B1 con temas mixtos, reading y soluciones comentadas.
 readTime: 25 min
 keywords:
   - Repaso de Voz Pasiva y Estilo Indirecto B1
