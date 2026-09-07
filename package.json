@@ -8,11 +8,11 @@
     "build": "NODE_OPTIONS=--max-old-space-size=6144 next build",
     "build:analyze": "ANALYZE=true next build",
     "build:turbo": "next build --turbopack",
-    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
-    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
-    "upload": "opennextjs-cloudflare build && opennextjs-cloudflare upload",
+    "preview": "node scripts/cf-build.mjs build preview",
+    "deploy": "node scripts/cf-build.mjs build deploy",
+    "upload": "node scripts/cf-build.mjs build upload",
     "cf-typegen": "wrangler types --env-interface CloudflareEnv src/cloudflare-env.d.ts",
-    "cf:build": "opennextjs-cloudflare build",
+    "cf:build": "node scripts/cf-build.mjs build",
     "cf:deploy": "opennextjs-cloudflare deploy",
     "cf:upload": "opennextjs-cloudflare upload",
     "start": "next start -p ${PORT:-3000}",
@@ -133,5 +133,13 @@
     "workers"
   ],
   "author": "Focus English",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "allowScripts": {
+    "esbuild@0.25.4": true,
+    "esbuild@0.28.2": true,
+    "esbuild@0.28.1": true,
+    "sharp@0.34.5": true,
+    "unrs-resolver@1.11.1": true,
+    "workerd@1.20260804.1": true
+  }
 }
