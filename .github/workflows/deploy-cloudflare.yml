@@ -43,6 +43,19 @@ jobs:
           CI: true
         run: npm run cf:build
 
+      - name: Verify OpenNext artifact
+        # wrangler deploy needs .open-next/worker.js (wrangler.jsonc "main").
+        # Fail here with a clear message if the OpenNext build did not produce it.
+        run: |
+          test -f .open-next/worker.js || {
+            echo "::error::Missing .open-next/worker.js — the OpenNext build (npm run cf:build) did not generate it."
+            exit 1
+          }
+          test -d .open-next/assets || {
+            echo "::error::Missing .open-next/assets — the OpenNext build (npm run cf:build) did not generate it."
+            exit 1
+          }
+
       - name: Deploy Worker
         uses: cloudflare/wrangler-action@v3
         with:
