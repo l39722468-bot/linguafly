@@ -11,6 +11,11 @@ import { SITE_BRAND_NAME, getSiteUrl } from "@/lib/site-brand";
 
 const siteUrl = getSiteUrl();
 
+// True only while `scripts/cf-build.mjs` runs the pruned Cloudflare Worker
+// build (see CF_BUILD there). Never set for `next build` (Vercel) or local
+// dev, so the full app keeps ads/analytics/consent scripts everywhere else.
+const isCloudflareWorkerBuild = process.env.CF_BUILD === "true";
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
@@ -130,12 +135,12 @@ export default function RootLayout({
 
       </head>
       <body className="antialiased bg-white text-slate-900 font-sans" suppressHydrationWarning>
-        <ConsentGatedAdSense />
-        <DeferredMonetagAd />
+        {!isCloudflareWorkerBuild && <ConsentGatedAdSense />}
+        {!isCloudflareWorkerBuild && <DeferredMonetagAd />}
         {children}
         {/* Scripts deferidos: no bloquean first paint */}
-        <GoogleAnalytics />
-        <MatomoAnalytics />
+        {!isCloudflareWorkerBuild && <GoogleAnalytics />}
+        {!isCloudflareWorkerBuild && <MatomoAnalytics />}
         {/* Copyright watermark - contraste 4.5:1 (WCAG AA) */}
         <div
           style={{
