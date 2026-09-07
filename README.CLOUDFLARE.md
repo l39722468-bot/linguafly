@@ -21,7 +21,8 @@ npm install
 # Set up your Cloudflare credentials
 wrangler login
 
-# Generate TypeScript types for Cloudflare environment
+# Generate TypeScript types for Cloudflare environment (D1/KV/R2 bindings
+# from wrangler.jsonc → src/cloudflare-env.d.ts)
 npm run cf-typegen
 ```
 

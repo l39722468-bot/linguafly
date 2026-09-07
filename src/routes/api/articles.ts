@@ -139,7 +139,7 @@ articlesRouter.post('/articles/batch', async (req, env: CloudflareEnv, ctx: Exec
     }
 
     const db = new DatabaseClient(env, ctx);
-    const body = await req.json();
+    const body = (await req.json()) as { articles?: unknown; batchNumber?: number };
     const { articles, batchNumber } = body;
 
     if (!Array.isArray(articles) || !articles.length) {

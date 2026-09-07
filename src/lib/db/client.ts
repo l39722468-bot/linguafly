@@ -171,7 +171,7 @@ export class DatabaseClient {
 
     const total = Number((count as { total?: unknown } | null)?.total ?? 0) || 0;
     const result: ArticleListResult = {
-      articles: (results || []) as ArticleRecord[],
+      articles: (results || []) as unknown as ArticleRecord[],
       total,
       page: safePage,
       limit: safeLimit,
@@ -209,7 +209,7 @@ export class DatabaseClient {
     const { results } = await this.env.DB.prepare(query)
       .bind(...bindings)
       .all();
-    return (results || []) as ArticleRecord[];
+    return (results || []) as unknown as ArticleRecord[];
   }
 
   // Total number of published articles.
