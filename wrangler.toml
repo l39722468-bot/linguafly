@@ -1,0 +1,55 @@
+name = "linguafly"
+main = "src/index.ts"
+compatibility_date = "2026-09-07"
+compatibility_flags = ["nodejs_compat"]
+
+env = "production"
+
+# D1 Database Configuration
+[[d1_databases]]
+binding = "DB"
+database_name = "linguafly_db"
+database_id = "476f34d4-5622-4a56-923e-c4fb571578c2"
+
+# KV Namespace para caché (artículos y búsquedas)
+[[kv_namespaces]]
+binding = "CACHE"
+id = "articles-cache"
+preview_id = "articles-cache-preview"
+
+[[kv_namespaces]]
+binding = "SEARCH_INDEX"
+id = "search-index"
+preview_id = "search-index-preview"
+
+# R2 Bucket para almacenar contenido multimedia (imágenes, audio)
+[[r2_buckets]]
+binding = "ARTICLES_BUCKET"
+bucket_name = "linguafly-articles"
+preview_bucket_name = "linguafly-articles-preview"
+
+# Environment Variables
+[env.production]
+vars = { 
+    ENVIRONMENT = "production",
+    MAX_ARTICLES = "1000000",
+    BATCH_SIZE = "1000",
+    CACHE_TTL = "86400"
+}
+
+# Routes
+[routes]
+pattern = "/api/articles/*"
+zone_id = ""
+
+# Analytics Engine
+[[analytics_engine_datasets]]
+binding = "ANALYTICS"
+
+# Limits y Performance
+[limits]
+cpu_ms = 50000
+
+# Observability
+[observability]
+enabled = true

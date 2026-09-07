@@ -1,0 +1,268 @@
+# Linguafly - Cloudflare D1 Setup (1M Articles)
+
+## 📋 Overview
+
+This project is optimized to host **1 million articles** on Cloudflare using:
+- **D1 Database** (SQLite) - `476f34d4-5622-4a56-923e-c4fb571578c2`
+- **KV Namespace** - Article caching and search indexing
+- **R2 Bucket** - Media storage (images, audio)
+- **Workers Analytics Engine** - Analytics and monitoring
+- **Cloudflare Workers** - Serverless compute
+
+## 🚀 Deployment
+
+### 1. Install Dependencies
+```bash
+npm install
+```
+
+### 2. Configure Wrangler
+```bash
+# Set up your Cloudflare credentials
+wrangler login
+
+# Generate TypeScript types for Cloudflare environment
+npm run cf-typegen
+```
+
+### 3. Initialize Database
+```bash
+# Create D1 database schema
+wrangler d1 execute linguafly_db --file=./src/lib/db/schema.sql --remote
+```
+
+### 4. Deploy to Cloudflare
+```bash
+# Build and deploy
+npm run cf:deploy
+
+# Or use upload for development
+npm run cf:upload
+```
+
+## 📦 Bulk Import (1M Articles)
+
+### Prepare Your Data
+
+Create a JSONL file (`articles.jsonl`) with one JSON object per line:
+
+```jsonl
+{"slug":"article-1","title":"Article Title 1","description":"Description","content":"Full article content...","category":"business","level":"A1","tags":["tag1","tag2"]}
+{"slug":"article-2","title":"Article Title 2","description":"Description","content":"Full article content...","category":"tech","level":"B1","tags":["tag3"]}
+```
+
+### Run Bulk Import
+
+```bash
+# Import articles in batches of 1000
+npx tsx scripts/bulk-import-articles.ts articles.jsonl
+
+# With custom worker URL and API key
+npx tsx scripts/bulk-import-articles.ts articles.jsonl https://linguafly.dev/api/articles/batch your-api-key
+```
+
+### Monitor Import Progress
+
+```bash
+# Check total articles count
+curl https://linguafly.dev/api/articles/count
+
+# Check import logs
+wrangler d1 execute linguafly_db --command="SELECT * FROM import_logs ORDER BY started_at DESC LIMIT 10;" --remote
+```
+
+## 🔌 API Endpoints
+
+### Get Single Article
+```bash
+GET /api/articles/:slug
+# Returns: Article with full content, cached for 24h
+```
+
+### List Articles (Paginated)
+```bash
+GET /api/articles?page=1&limit=20
+# Returns: Paginated article list with pagination metadata
+```
+
+### Search Articles
+```bash
+GET /api/articles/search?category=tech&level=A1
+# Returns: Articles filtered by category and level
+```
+
+### Get Total Count
+```bash
+GET /api/articles/count
+# Returns: Total number of published articles
+```
+
+### Like Article
+```bash
+POST /api/articles/:id/like
+# Returns: Success response
+```
+
+### Batch Import (Admin)
+```bash
+POST /api/articles/batch
+Headers: x-api-key: <your-api-key>
+Body: { "articles": [...], "batchNumber": 1 }
+```
+
+## 💾 Database Schema
+
+### articles
+- `id` - Auto-incremented primary key
+- `slug` - Unique URL-friendly identifier
+- `title` - Article title
+- `description` - Short description
+- `content` - Full article content
+- `category` - Article category
+- `level` - Language level (A1-C2)
+- `views` - View counter
+- `likes` - Like counter
+- `is_published` - Publication status
+- `created_at` / `updated_at` - Timestamps
+
+**Indexes:** category, level, published status, creation date, slug
+
+### article_tags
+- `article_id` - Foreign key to articles
+- `tag` - Tag text
+
+### search_cache
+- `query_hash` - Unique query identifier
+- `results` - Cached search results
+
+### article_analytics
+- `article_id` - Article reference
+- `views_today` / `likes_today` - Daily metrics
+- `date` - Analytics date
+
+### import_logs
+- `batch_number` - Batch identifier
+- `status` - processing/completed/failed
+- `imported_count` - Number of articles
+- `error_count` - Number of errors
+
+## ⚡ Performance Optimizations
+
+### Caching Strategy
+- **Article-level caching:** 24 hours in KV
+- **List pagination:** 1 hour in KV
+- **Search results:** Cached by query hash
+- **HTTP caching:** Public, max-age headers
+
+### Database Optimization
+- Indexed columns: category, level, published, created_at, slug
+- Batch insert operations for bulk import
+- Connection pooling via D1
+
+### Rate Limiting
+- 10,000 requests per minute per IP
+- Configurable per endpoint
+- Stored in KV for distributed enforcement
+
+## 📊 Monitoring
+
+### Analytics Engine
+- Tracks article views via Analytics Engine
+- Hourly aggregation for performance
+
+### Metrics Endpoint
+```bash
+GET /metrics
+# Returns total article count and timestamp
+```
+
+### Import Status
+```bash
+wrangler d1 execute linguafly_db --command="SELECT * FROM import_logs;" --remote
+```
+
+## 🔑 Environment Variables
+
+Copy `.env.example` to `.env` and configure:
+
+```env
+D1_DATABASE_ID=476f34d4-5622-4a56-923e-c4fb571578c2
+ARTICLES_API_KEY=your-secure-key-here
+ENVIRONMENT=production
+RATE_LIMIT_REQUESTS=10000
+MAX_ARTICLES=1000000
+```
+
+## 🛠️ Development
+
+### Local Testing
+```bash
+npm run dev
+```
+
+### Build for Cloudflare
+```bash
+npm run cf:build
+```
+
+### Type Generation
+```bash
+npm run cf-typegen
+```
+
+## 📈 Scaling to 1M Articles
+
+### Expected Performance
+- **Insert speed:** ~1000 articles/batch via batch endpoint
+- **Query time:** <100ms with proper indexing
+- **Cache hit ratio:** >80% for paginated lists
+- **Throughput:** 10K+ requests/minute
+
+### Batch Import Timeline
+- 1,000,000 articles ÷ 1,000 per batch = **1,000 batches**
+- At ~10 batches/minute = **~100 minutes** for full import
+
+### Recommended Import Strategy
+1. Prepare JSONL file with all 1M articles
+2. Run bulk import script in batches of 1000
+3. Monitor progress via `/metrics` endpoint
+4. Verify count after completion
+5. Enable caching for production traffic
+
+## 🐛 Troubleshooting
+
+### Database Connection Errors
+```bash
+# Verify D1 database exists
+wrangler d1 list
+
+# Test connection
+wrangler d1 execute linguafly_db --command="SELECT 1;" --remote
+```
+
+### Rate Limit Issues
+- Check IP-based rate limit hits in KV
+- Increase `RATE_LIMIT_REQUESTS` for high-traffic scenarios
+
+### Cache Not Working
+- Verify KV namespaces are bound in `wrangler.toml`
+- Check cache keys in KV dashboard
+
+### Import Failures
+- Check `import_logs` table for error details
+- Validate JSONL format and required fields
+- Retry failed batches individually
+
+## 📚 Resources
+
+- [Cloudflare Workers Docs](https://developers.cloudflare.com/workers/)
+- [D1 Database Docs](https://developers.cloudflare.com/d1/)
+- [KV Namespace Docs](https://developers.cloudflare.com/workers/runtime-apis/kv/)
+- [R2 Object Storage Docs](https://developers.cloudflare.com/r2/)
+- [Wrangler CLI Reference](https://developers.cloudflare.com/workers/wrangler/)
+
+---
+
+**Database ID:** `476f34d4-5622-4a56-923e-c4fb571578c2`
+**Capacity:** 1,000,000+ articles
+**Region:** Global (Cloudflare Edge)
