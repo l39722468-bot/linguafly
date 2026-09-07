@@ -101,6 +101,25 @@ describe("DatabaseClient", () => {
       expect(cache.put).not.toHaveBeenCalled();
     });
 
+    it("still returns the article (without tags) when tag lookup fails", async () => {
+      const { env, db, cache } = createEnv();
+      const article = { id: 7, slug: "hola-mundo", title: "Hola Mundo" };
+      const articleStmt = createMockStatement([], article);
+      const failingTagsStmt = createMockStatement();
+      failingTagsStmt.all = jest.fn(async () => {
+        throw new Error("D1 unavailable");
+      });
+      db.prepare
+        .mockReturnValueOnce(articleStmt)
+        .mockReturnValueOnce(failingTagsStmt);
+
+      const client = new DatabaseClient(env);
+      const result = await client.getArticle("hola-mundo");
+
+      expect(result).toEqual({ ...article, tags: [] });
+      expect(cache.put).not.toHaveBeenCalled();
+    });
+
     it("serves from the KV cache without hitting D1", async () => {
       const { env, db, cache } = createEnv();
       const article = { id: 1, slug: "cached", title: "Cached", tags: ["x"] };

@@ -25,19 +25,32 @@ export async function GET(request: NextRequest, context: RouteContext) {
       return NextResponse.json({ error: "Article not found" }, { status: 404 });
     }
 
-    await db.incrementMetrics(article.id, "views");
-
-    if (env.ANALYTICS) {
-      const analyticsWrite = env.ANALYTICS.writeDataPoint({
-        indexes: [slug],
-        blobs: ["article_view"],
-        doubles: [1],
-      });
-      if (ctx) {
-        ctx.waitUntil(Promise.resolve(analyticsWrite));
-      } else {
-        await analyticsWrite;
+    // Metrics/analytics are best-effort: never let their failure turn a
+    // successful article fetch into a 500 response.
+    const trackView = async () => {
+      try {
+        await db.incrementMetrics(article.id, "views");
+      } catch (error) {
+        console.error("[api/articles/[slug]] view metric failed:", error);
       }
+
+      if (env.ANALYTICS) {
+        try {
+          await env.ANALYTICS.writeDataPoint({
+            indexes: [slug],
+            blobs: ["article_view"],
+            doubles: [1],
+          });
+        } catch (error) {
+          console.error("[api/articles/[slug]] analytics failed:", error);
+        }
+      }
+    };
+
+    if (ctx) {
+      ctx.waitUntil(trackView());
+    } else {
+      void trackView();
     }
 
     return NextResponse.json(article, {
