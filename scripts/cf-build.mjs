@@ -69,6 +69,7 @@ const EXCLUDED_APP_DIRS = [
   'ingles-para-viajar',
   'juego-ingles',
   'misiones',
+  'monetag',
   'podcasts',
   'practice',
   'preview',
@@ -203,12 +204,24 @@ function main() {
   prune();
   console.warn(`[cf-build] Pruned ${EXCLUDED_APP_DIRS.length} non-article route(s) for the Cloudflare build.`);
 
+  // CF_BUILD: layout and next.config skip ads/analytics and Cloudflare dev init.
+  // NODE_OPTIONS: large static generation needs extra heap on CF/CI runners.
+  const existingNodeOptions = process.env.NODE_OPTIONS || '';
+  const childEnv = {
+    ...process.env,
+    CF_BUILD: 'true',
+    NODE_OPTIONS: existingNodeOptions.includes('max-old-space-size')
+      ? existingNodeOptions
+      : [existingNodeOptions, '--max-old-space-size=6144'].filter(Boolean).join(' '),
+  };
+
   let exitCode = 1;
   try {
     for (const subcommand of args) {
       const result = spawnSync('npx', ['opennextjs-cloudflare', subcommand], {
         stdio: 'inherit',
         cwd: ROOT,
+        env: childEnv,
       });
       exitCode = result.status ?? 1;
       if (exitCode !== 0) break;

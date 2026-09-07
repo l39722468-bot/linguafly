@@ -19,7 +19,7 @@ En **Workers & Pages → linguaflyapp1 → Settings → Builds**:
 | Root directory | `/` (raíz del repo) |
 | Branch de producción | `main` |
 | **Build command** | `npm run cf:build` |
-| **Deploy command** | `npm run cf:deploy` |
+| **Deploy command** | `npx wrangler deploy` (tras `cf:build`) **o** `npm run cf:deploy` |
 | Non-production deploy | `npm run cf:upload` |
 | Node version | **`22`** (obligatorio: wrangler 4.x exige ≥22) |
 
@@ -30,6 +30,16 @@ En **Workers & Pages → linguaflyapp1 → Settings → Builds**:
 > **No uses** `npx opennextjs-cloudflare …`  
 > Ese nombre en npm es un paquete stub vacío. Usa `npm run cf:*` o
 > `npx @opennextjs/cloudflare build|deploy`.
+>
+> **`cf:build` / `cf:deploy` / `cf:upload` / `preview` / `deploy` / `upload`**
+> pasan todos por `scripts/cf-build.mjs` (prune article-only + `CF_BUILD=true`).
+> No llames a `opennextjs-cloudflare deploy` a pelo: reintroduciría el Worker
+> completo (~74 MiB) y fallaría con `code: 10027`.
+>
+> En GitHub Actions el flujo recomendado es `npm run cf:build` +
+> `wrangler deploy` (sin rebuild). En Workers Builds puedes usar
+> Build=`npm run cf:build` y Deploy=`npx wrangler deploy`, o un único
+> Deploy=`npm run cf:deploy` (build+deploy ya podado).
 
 > **Límite 64 MiB:** el Worker no puede superar 64 MiB sin comprimir.
 > `cf:build` excluye temporalmente cursos sectoriales + demos + APIs pesadas
@@ -126,7 +136,9 @@ Causas frecuentes:
 - **Worker > 64 MiB** → `code: 10027` (cf:build ya hace slim de rutas pesadas)
 - **Node 20.x** → `ERR_IMPORT_ASSERTION_TYPE_MISSING` / wrangler exige ≥22 (fijar `NODE_VERSION=22`)
 - Comando `npx opennextjs-cloudflare` (stub npm; preferir `npm run cf:build`)
-- OOM sin `NODE_OPTIONS=--max-old-space-size=6144`
+- Deploy = `opennextjs-cloudflare deploy` **sin** `cf-build.mjs` (Worker otra vez >64 MiB)
+- OOM sin `NODE_OPTIONS=--max-old-space-size=6144` (cf-build ya lo inyecta si falta)
 - Build command = `npm run build` (solo Next, no OpenNext → falla el deploy después)
+- `initOpenNextCloudflareForDev` en build (habla con `workers.cloudflare.com`); en este repo solo corre en `next dev` local
 - Nombre Worker distinto al de Workers Builds — el repo usa **`linguaflyapp1`** (name + `WORKER_SELF_REFERENCE`)
 - Binding `WORKER_SELF_REFERENCE` apuntando a otro Worker inexistente → `code: 10143`
