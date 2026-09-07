@@ -143,9 +143,16 @@ export class DatabaseClient {
 
     if (!article) return null;
 
-    const result = { ...article, tags: await this.getTags(article.id) };
-    this.cachePut(cacheKey, result, ARTICLE_CACHE_TTL_SECONDS);
-    return result;
+    // Tags/cache are best-effort: if either fails, still return the article
+    // (without tags) rather than surfacing a 500 to the caller.
+    try {
+      const result = { ...article, tags: await this.getTags(article.id) };
+      this.cachePut(cacheKey, result, ARTICLE_CACHE_TTL_SECONDS);
+      return result;
+    } catch (error) {
+      console.error("[DatabaseClient] getArticle tags/cache failed:", error);
+      return { ...article, tags: [] };
+    }
   }
 
   // List published articles with pagination (content column excluded).
