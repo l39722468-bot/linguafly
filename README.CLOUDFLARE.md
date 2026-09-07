@@ -9,6 +9,31 @@ This project is optimized to host **1 million articles** on Cloudflare using:
 - **Workers Analytics Engine** - Analytics and monitoring
 - **Cloudflare Workers** - Serverless compute
 
+> ⚠️ **The Cloudflare Worker build is article-only.** The Next.js app in
+> this repo also powers a much bigger site (English courses, phrase/word
+> hubs, keyword landing pages, AI tutor/evaluation APIs, etc.), but Cloudflare
+> Workers enforce a hard **64 MiB uncompressed** size limit and that full app
+> alone produced a ~74 MB Worker (`.open-next/server-functions/default/handler.mjs`),
+> which failed deployment. Since the only thing that matters for this
+> deployment is serving articles, `npm run cf:build` (and therefore
+> `preview`/`deploy`/`upload`) now runs `scripts/cf-build.mjs`, which:
+> 1. Temporarily moves every non-article route (course pages, phrase/vocab
+>    hubs, keyword pages, AI/evaluation APIs, etc.) out of `src/app`.
+> 2. Swaps `src/app/sitemap.ts` and
+>    `src/components/blog/BlogExerciseMapBanner.tsx` for lightweight,
+>    article-only versions (`sitemap.cf.ts` / `BlogExerciseMapBanner.cf-stub.tsx`)
+>    so the blog↔course relation map and its generated JSON aren't pulled in.
+> 3. Runs `opennextjs-cloudflare build` (and `preview`/`deploy`/`upload` as
+>    requested) against that trimmed tree.
+> 4. Restores the full `src/app` tree afterwards — success or failure —
+>    so nothing is permanently deleted from the repo, and `next build`
+>    (Vercel) / `next dev` (local) are completely unaffected.
+>
+> This brought the Worker down to **~25 MB uncompressed**, comfortably under
+> the limit. Everything excluded this way is intentionally omitted from the
+> Cloudflare deployment; it's still available in the full Next.js app.
+> See `scripts/cf-build.mjs` for the exact list of excluded routes.
+
 ## 🚀 Deployment
 
 ### 1. Install Dependencies

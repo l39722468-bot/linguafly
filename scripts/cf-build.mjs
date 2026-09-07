@@ -191,28 +191,36 @@ function restore() {
   fs.rmSync(BACKUP_DIR, { recursive: true, force: true });
 }
 
-const args = process.argv.slice(2);
-if (args.length === 0) {
-  console.error('Usage: node scripts/cf-build.mjs <opennextjs-cloudflare-subcommand...>');
-  process.exit(1);
-}
+export { prune, restore, EXCLUDED_APP_DIRS, SWAPPED_FILES };
 
-prune();
-console.log(`[cf-build] Pruned ${EXCLUDED_APP_DIRS.length} non-article route(s) for the Cloudflare build.`);
-
-let exitCode = 1;
-try {
-  for (const subcommand of args) {
-    const result = spawnSync('npx', ['opennextjs-cloudflare', subcommand], {
-      stdio: 'inherit',
-      cwd: ROOT,
-    });
-    exitCode = result.status ?? 1;
-    if (exitCode !== 0) break;
+function main() {
+  const args = process.argv.slice(2);
+  if (args.length === 0) {
+    console.error('Usage: node scripts/cf-build.mjs <opennextjs-cloudflare-subcommand...>');
+    process.exit(1);
   }
-} finally {
-  restore();
-  console.log('[cf-build] Restored full app tree after Cloudflare build.');
+
+  prune();
+  console.warn(`[cf-build] Pruned ${EXCLUDED_APP_DIRS.length} non-article route(s) for the Cloudflare build.`);
+
+  let exitCode = 1;
+  try {
+    for (const subcommand of args) {
+      const result = spawnSync('npx', ['opennextjs-cloudflare', subcommand], {
+        stdio: 'inherit',
+        cwd: ROOT,
+      });
+      exitCode = result.status ?? 1;
+      if (exitCode !== 0) break;
+    }
+  } finally {
+    restore();
+    console.warn('[cf-build] Restored full app tree after Cloudflare build.');
+  }
+
+  process.exit(exitCode);
 }
 
-process.exit(exitCode);
+if (import.meta.url === `file://${process.argv[1]}`) {
+  main();
+}
