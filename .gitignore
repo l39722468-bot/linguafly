@@ -4,6 +4,10 @@ node_modules/
 out/
 dist/
 build/
+.open-next/
+.wrangler/
+next-env.d.ts
+tsconfig.tsbuildinfo
 
 # Worktrees / metadatos locales
 *.worktrees/
