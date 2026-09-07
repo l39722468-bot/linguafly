@@ -6,6 +6,9 @@ dist/
 build/
 .open-next/
 .wrangler/
+# Temp backup used by scripts/cf-build.mjs while pruning non-article routes
+# for the Cloudflare Worker build (restored automatically after the build).
+.cf-excluded/
 next-env.d.ts
 tsconfig.tsbuildinfo
 
