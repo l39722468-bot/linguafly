@@ -1024,8 +1024,18 @@ const nextConfig = {
 
 module.exports = withBundleAnalyzer(nextConfig);
 
-// Bindings Cloudflare en `next dev` (OpenNext). Evitar en Jest/CI unit tests.
-if (process.env.NODE_ENV !== 'test' && !process.env.JEST_WORKER_ID) {
+// Bindings Cloudflare solo en `next dev` local (OpenNext).
+// Nunca en `next build`, CI, Jest ni cf:build: initOpenNextCloudflareForDev
+// habla con workers.cloudflare.com / wrangler y rompe builds con firewall
+// (Copilot agent) o añade latencia innecesaria en producción.
+const isLocalNextDev =
+  process.env.NODE_ENV === 'development' &&
+  !process.env.CI &&
+  !process.env.CF_BUILD &&
+  !process.env.JEST_WORKER_ID &&
+  process.env.NEXT_PHASE !== 'phase-production-build';
+
+if (isLocalNextDev) {
   try {
     const { initOpenNextCloudflareForDev } = require('@opennextjs/cloudflare');
     initOpenNextCloudflareForDev();

@@ -41,6 +41,10 @@ jobs:
         env:
           NEXT_PUBLIC_SITE_URL: https://linguafly.app
           CI: true
+          # CF_BUILD is also forced inside scripts/cf-build.mjs; set here too
+          # so any nested tooling sees the Cloudflare article-only build flag.
+          CF_BUILD: 'true'
+          NODE_OPTIONS: --max-old-space-size=6144
         run: npm run cf:build
 
       - name: Verify OpenNext artifact
