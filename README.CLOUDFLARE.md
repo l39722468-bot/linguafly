@@ -31,6 +31,13 @@ npm run cf-typegen
 wrangler d1 execute linguafly_db --file=./src/lib/db/schema.sql --remote
 ```
 
+> The OpenNext deployment (`wrangler.jsonc`) binds D1 as `DB` (database
+> `linguafly_db`, id `476f34d4-5622-4a56-923e-c4fb571578c2`), so the
+> `/api/articles/*` Next.js routes can query it at runtime via
+> `getCloudflareContext()`. The legacy `wrangler.toml`/`src/index.ts`
+> standalone Worker keeps the same `DB` binding plus optional `CACHE` (KV),
+> `ARTICLES_BUCKET` (R2) and `ANALYTICS` bindings.
+
 ### 4. Deploy to Cloudflare
 ```bash
 # Build and deploy
@@ -197,7 +204,13 @@ MAX_ARTICLES=1000000
 
 ### Local Testing
 ```bash
+# Next.js dev server (D1 bindings are only available under OpenNext/Wrangler;
+# the /api/articles/* routes return 500 without them in plain `next dev`)
 npm run dev
+
+# Full Cloudflare runtime locally (builds .open-next and serves via workerd,
+# including the D1 binding from wrangler.jsonc)
+npm run preview
 ```
 
 ### Build for Cloudflare
