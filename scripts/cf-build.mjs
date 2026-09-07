@@ -209,6 +209,13 @@ function main() {
       const result = spawnSync('npx', ['opennextjs-cloudflare', subcommand], {
         stdio: 'inherit',
         cwd: ROOT,
+        // CF_BUILD tells app code (e.g. src/app/layout.tsx) that this build
+        // targets the Cloudflare Worker, so it can skip non-essential
+        // ad/analytics/consent scripts that add fragility/weight without
+        // being needed for the article/home/SEO experience. Only set for
+        // the duration of this pruned build — never for `next build`
+        // (Vercel) or local dev.
+        env: { ...process.env, CF_BUILD: 'true' },
       });
       exitCode = result.status ?? 1;
       if (exitCode !== 0) break;
