@@ -1,11 +1,13 @@
 import { Navigation } from "@/components/sections/Navigation";
 import { Metadata } from "next";
+import { canonicalAlternates } from "@/lib/seo/canonical";
 
 export const metadata: Metadata = {
   title: "Política de Privacidad",
   description:
     "Política de privacidad y protección de datos personales de Linguafly (RGPD).",
   robots: "index, follow",
+  alternates: canonicalAlternates("/privacidad"),
 };
 
 export default function PrivacidadPage() {

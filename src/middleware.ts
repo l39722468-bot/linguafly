@@ -2,6 +2,7 @@ import { NextResponse, type NextRequest } from "next/server";
 import { isLegacyCourseRedirectRoute } from "@/lib/routes/course-access";
 import { getProductRouteRedirect } from "@/lib/product-config";
 import { getParkedPageRedirect } from "@/lib/site-catalog";
+import { canonicalLinkHeaderValue } from "@/lib/seo/canonical";
 
 function normalizeBlogCategorySlug(category: string): string {
   return category
@@ -60,7 +61,14 @@ export async function middleware(request: NextRequest) {
     }
   }
 
-  return NextResponse.next({ request });
+  const response = NextResponse.next({ request });
+  if (!isStaticAsset && !isApi) {
+    response.headers.append(
+      "Link",
+      canonicalLinkHeaderValue(pathname, request.nextUrl.searchParams),
+    );
+  }
+  return response;
 }
 
 export const config = {

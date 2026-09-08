@@ -1,10 +1,13 @@
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { ArrowLeft, Type, Palette, AlignLeft, BookOpen, Zap, MessageSquare, Award, Tag } from 'lucide-react';
+import { canonicalAlternates } from '@/lib/seo/canonical';
+import { SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const metadata: Metadata = {
-  title: 'Estructura Tipográfica — Curso A1 | Linguafly',
+  title: `Estructura Tipográfica — Curso A1 | ${SITE_BRAND_NAME}`,
   description: 'Sistema tipográfico completo del Curso de Inglés A1. Guía de referencia para diseñadores y desarrolladores.',
+  alternates: canonicalAlternates('/curso-a1/tipografia'),
 };
 
 const COURSE_COLORS = [
