@@ -238,13 +238,16 @@ Canibalización: si dos slugs responderían a la misma SERP, es un solo artícul
 
 ## 8. Inventario actual
 
+Publicados (núcleo):
+
 | Estado | Categoría | Artículo |
 |---|---|---|
 | Publicado | alimentacion | [Organizar las comidas de la semana](/blog/alimentacion/organizar-comidas-de-la-semana) |
 | Publicado | alimentacion | [Proteína, hidratos y grasas](/blog/alimentacion/proteina-hidratos-grasas-guia-practica) |
 | Publicado | entrenamiento | [Rutina de fuerza en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa) |
 | Publicado | entrenamiento | [Progresar sin lesionarte](/blog/entrenamiento/progresar-sin-lesionarte) |
-| Siguiente oleada | ambos | Cluster B, luego un satélite de C |
+
+Backlog (no redactar en bloque): [plan 500+500](./plan-catalogo-500-500.md), [catálogo entrenamiento](./catalogo-entrenamiento-500.md), [catálogo alimentación](./catalogo-alimentacion-500.md). Oleada 1 = cluster B (comer para entrenar) + C (descanso, agujetas, sueño).
 
 Los cuatro del núcleo ya cruzan `related_routes` y llevan al menos un enlace contextual al otro vertical. Los siguientes artículos deben **engancharse a este cuadrado**, no empezar otro.
 
