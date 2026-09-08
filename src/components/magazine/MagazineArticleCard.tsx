@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { getVertical } from "@/lib/site-catalog";
-import { getArticlePath, type BlogPost } from "@/lib/blog";
+import { getArticlePath } from "@/lib/blog-paths";
+import type { BlogPost } from "@/lib/blog";
 
 export function MagazineArticleCard({ article }: { article: BlogPost }) {
   const vertical = getVertical(article.category);

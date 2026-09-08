@@ -1,27 +1,50 @@
 import { Navigation } from "@/components/sections/Navigation";
 import { Footer } from "@/components/sections/Footer";
 import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
+import { ArticlePagination } from "@/components/magazine/ArticlePagination";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getBlogArticles } from "@/lib/blog";
+import { listPublishedArticles } from "@/lib/content/articles";
+import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import { SITE_VERTICALS } from "@/lib/site-catalog";
 
-export const dynamic = "force-static";
+export const dynamic = "force-dynamic";
 
-export const metadata: Metadata = {
-  title: `Artículos de idiomas, alimentación y entrenamiento | ${SITE_BRAND_NAME}`,
-  description:
-    "Todos los artículos publicados de la revista: idiomas, alimentación y entrenamiento. Contenido nuevo; la hemeroteca antigua no está publicada.",
-  alternates: {
-    canonical: getAbsoluteUrl("/blog"),
-  },
-};
+export async function generateMetadata({
+  searchParams,
+}: {
+  searchParams: Promise<{ page?: string }>;
+}): Promise<Metadata> {
+  const { page: pageRaw } = await searchParams;
+  const page = parsePageParam(pageRaw);
+  const canonical =
+    page > 1 ? getAbsoluteUrl(`/blog?page=${page}`) : getAbsoluteUrl("/blog");
 
-export default function BlogPage() {
-  const articles = getBlogArticles();
+  return {
+    title: `Artículos de idiomas, alimentación y entrenamiento | ${SITE_BRAND_NAME}`,
+    description:
+      "Todos los artículos publicados de la revista: idiomas, alimentación y entrenamiento. Contenido nuevo; la hemeroteca antigua no está publicada.",
+    alternates: {
+      canonical,
+    },
+    robots: page > 1 ? { index: false, follow: true } : undefined,
+  };
+}
+
+export default async function BlogPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ page?: string }>;
+}) {
+  const { page: pageRaw } = await searchParams;
+  const page = parsePageParam(pageRaw);
+  const { articles, pages, total } = await listPublishedArticles({
+    page,
+    limit: ARTICLES_PER_PAGE,
+  });
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getSiteUrl() },
     { name: "Artículos", url: getAbsoluteUrl("/blog") },
@@ -37,6 +60,7 @@ export default function BlogPage() {
             <h1 className="font-display mb-4 text-4xl font-black text-slate-900 sm:text-5xl">Artículos</h1>
             <p className="max-w-2xl text-lg text-slate-600">
               Publicamos solo las tres temáticas de la web nueva. Lo antiguo sigue en el repositorio, sin salir a producción.
+              {total > 0 ? ` ${total} artículos publicados.` : ""}
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               {SITE_VERTICALS.map((vertical) => (
@@ -53,10 +77,19 @@ export default function BlogPage() {
         </section>
 
         <section className="px-4 pb-20 sm:px-6 lg:px-8">
-          <div className="mx-auto grid max-w-6xl gap-6 md:grid-cols-2 lg:grid-cols-3">
-            {articles.map((article) => (
-              <MagazineArticleCard key={`${article.category}-${article.slug}`} article={article} />
-            ))}
+          <div className="mx-auto max-w-6xl">
+            {articles.length === 0 ? (
+              <p className="rounded-3xl border border-dashed border-slate-200 bg-white p-10 text-slate-500">
+                Aún no hay artículos publicados.
+              </p>
+            ) : (
+              <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+                {articles.map((article) => (
+                  <MagazineArticleCard key={`${article.category}-${article.slug}`} article={article} />
+                ))}
+              </div>
+            )}
+            <ArticlePagination page={page} pages={pages} hrefBase="/blog" />
           </div>
         </section>
       </main>

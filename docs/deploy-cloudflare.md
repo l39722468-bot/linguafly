@@ -35,17 +35,11 @@ En **Workers & Pages → linguaflyapp1 → Settings → Builds**:
 > `cf:build` excluye temporalmente cursos sectoriales + demos + APIs pesadas
 > (stubs que redirigen) para caber en el límite. Los cursos A1–C2 y el blog siguen.
 
-### Blog sin filesystem en Workers
+### Blog: D1 es el origen de verdad
 
-Cloudflare Workers **no tienen `fs`** sobre `src/content/blog`. Por eso `cf:build` ejecuta:
+Cloudflare Workers **no tienen `fs`** sobre `src/content/blog`. Las páginas públicas leen D1 (`linguafly_db`) en request time (`force-dynamic` + `Cache-Control` CDN). El markdown queda como input de autoría; CI aplica migraciones y `scripts/sync-articles-to-d1.ts` hace upsert de los artículos `published: true` de idiomas / alimentación / entrenamiento.
 
-1. `scripts/export-course-data.ts` → `public/course-data/`
-2. `scripts/export-blog-data.ts` → `src/generated/blog-articles.json` + relaciones
-3. OpenNext con `staticAssetsIncrementalCache` (sirve HTML prerenderizado desde ASSETS)
-
-Sin el JSON embebido ni esa caché, el blog sale vacío («Próximamente» / 0 relaciones) aunque Next haya visto los markdown en el build.
-
-**Causa típica de 404 en artículos nuevos:** un frontmatter YAML inválido (p. ej. `Won't` / `It's` dentro de comillas simples, o `alt: Mixed Grammar: Sport` sin comillas) hace fallar el parseo. Si `readArticlesFromMarkdown` aborta entero, el export reutiliza un `blog-articles.json` viejo **sin** los posts nuevos → Bing ve 404. El parser ahora salta ficheros rotos; `export-blog-data` aborta si exporta <90% de los `.md`.
+No se embebe `blog-articles.json` en el Worker: a 100k artículos reventaría el límite de 64 MiB.
 
 ### Build variables / secrets (panel)
 

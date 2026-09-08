@@ -2,26 +2,21 @@ import { Suspense } from "react";
 import { Navigation } from "@/components/sections/Navigation";
 import { Footer } from "@/components/sections/Footer";
 import { BlogSearchExplorer } from "@/components/blog/BlogSearchExplorer";
+import { ArticlePagination } from "@/components/magazine/ArticlePagination";
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
-import { getArticlesByCategory, getBlogArticles, normalizeCategory } from "@/lib/blog";
+import { normalizeCategory } from "@/lib/blog-paths";
+import { listPublishedArticles } from "@/lib/content/articles";
+import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
-import { getVertical } from "@/lib/site-catalog";
+import { getVertical, isPublicArticleCategory } from "@/lib/site-catalog";
 
-export const dynamic = "force-static";
-export const dynamicParams = false;
-
-export async function generateStaticParams() {
-  const articles = getBlogArticles();
-  const categories = Array.from(new Set(articles.map(a => normalizeCategory(a.category))));
-  return categories.map(category => ({
-    category,
-  }));
-}
+export const dynamic = "force-dynamic";
+export const dynamicParams = true;
 
 const categoryMetadata: Record<string, { name: string, description: string, icon: string, color: string }> = {
   idiomas: {
@@ -122,9 +117,17 @@ const categoryMetadata: Record<string, { name: string, description: string, icon
   },
 };
 
-export async function generateMetadata({ params }: { params: Promise<{ category: string }> }) {
+export async function generateMetadata({
+  params,
+  searchParams,
+}: {
+  params: Promise<{ category: string }>;
+  searchParams: Promise<{ page?: string }>;
+}) {
   const { category: rawCategory } = await params;
+  const { page: pageRaw } = await searchParams;
   const category = normalizeCategory(decodeURIComponent(rawCategory));
+  const page = parsePageParam(pageRaw);
     
   const meta = categoryMetadata[category];
   
@@ -138,6 +141,8 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
     };
   }
 
+  const canonicalPath = page > 1 ? `/blog/${category}?page=${page}` : `/blog/${category}`;
+
   return {
     title: `${optimizeSEOTitle(meta.name)} | Blog ${SITE_BRAND_NAME}`,
     description: meta.description,
@@ -146,28 +151,41 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
         ? [getVertical(category)!.name.toLowerCase(), "artículos", "guías prácticas"]
         : undefined,
     alternates: {
-      canonical: getAbsoluteUrl(`/blog/${category}`),
+      canonical: getAbsoluteUrl(canonicalPath),
     },
+    robots: page > 1 ? { index: false, follow: true } : undefined,
   };
 }
 
-export default async function CategoryPage({ params }: { params: Promise<{ category: string }> }) {
+export default async function CategoryPage({
+  params,
+  searchParams,
+}: {
+  params: Promise<{ category: string }>;
+  searchParams: Promise<{ page?: string }>;
+}) {
   const { category: rawCategory } = await params;
+  const { page: pageRaw } = await searchParams;
   
   // Normalize category to handle accents (e.g., gramática -> gramatica)
   const category = normalizeCategory(decodeURIComponent(rawCategory));
+  const page = parsePageParam(pageRaw);
 
-  const articles = getArticlesByCategory(category);
+  if (!isPublicArticleCategory(category)) {
+    notFound();
+  }
+
+  const { articles, total, pages } = await listPublishedArticles({
+    category,
+    page,
+    limit: ARTICLES_PER_PAGE,
+  });
   const meta = categoryMetadata[category] || {
     name: category.charAt(0).toUpperCase() + category.slice(1),
     description: `Artículos y guías sobre ${category}.`,
     icon: "📄",
     color: "from-slate-600 to-slate-800"
   };
-
-  if (articles.length === 0 && !categoryMetadata[category]) {
-    notFound();
-  }
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getSiteUrl() },
@@ -215,7 +233,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
                 </p>
                 <div className="mt-8 flex items-center justify-center lg:justify-start gap-4">
                   <div className="bg-white/10 backdrop-blur-sm border border-white/20 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2">
-                    <span className="text-coral-300">✓</span> {articles.length} Guías Prácticas
+                    <span className="text-coral-300">✓</span> {total} Guías Prácticas
                   </div>
                   <div className="bg-white/10 backdrop-blur-sm border border-white/20 px-4 py-2 rounded-xl text-sm font-bold flex items-center gap-2">
                     <span className="text-coral-300">✓</span> Actualizado 2026
@@ -237,7 +255,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
             >
               <BlogSearchExplorer
                 categories={[]}
-                articleCount={articles.length}
+                articleCount={total}
                 forcedCategory={category}
                 forcedCategoryLabel={
                   meta.name.split(":")[0]?.trim() || meta.name
@@ -304,6 +322,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
                 <span>← Volver a todas las categorías</span>
               </Link>
             </div>
+            <ArticlePagination page={page} pages={pages} hrefBase={`/blog/${category}`} />
           </div>
         </section>
       </main>

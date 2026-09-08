@@ -118,7 +118,6 @@ const EXCLUDED_APP_DIRS = [
 // during the Cloudflare build. `swapped` is the file that normally lives in
 // git; `cf` is the Cloudflare-only replacement (also tracked in git).
 const SWAPPED_FILES = [
-  { swapped: path.join('src', 'app', 'sitemap.ts'), cf: path.join('src', 'app', 'sitemap.cf.ts') },
   {
     swapped: path.join('src', 'components', 'blog', 'BlogExerciseMapBanner.tsx'),
     cf: path.join('src', 'components', 'blog', 'BlogExerciseMapBanner.cf-stub.tsx'),

@@ -13,7 +13,13 @@ import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
 import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
 import { CopyProtection } from "@/components/blog/CopyProtection";
 import { BlogArticlePdfDownload } from "@/components/blog/BlogArticlePdfDownload";
-import { getBlogArticles, getArticleBySlug, getRelatedArticles, getRelatedByKeywords, getArticlesByCategory, normalizeCategory, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
+import { normalizeCategory, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog-paths";
+import {
+  getPublishedArticle,
+  getRelatedPublishedArticles,
+  getRelatedByKeywordsPublished,
+  listSidebarArticles,
+} from "@/lib/content/articles";
 import { isPublicArticleCategory } from "@/lib/site-catalog";
 import { expandBlogGlosses } from "@/lib/blog-glosses";
 import { JsonLd } from "@/components/seo/JsonLd";
@@ -23,27 +29,19 @@ import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
 import { Twitter } from "lucide-react";
 
-/** Estática: Workers no tienen fs; artículos se embeben vía src/generated en cf:build. */
-export const dynamic = "force-static";
-export const dynamicParams = false;
+/** D1 at request time. Do not SSG 100k article routes into the Worker. */
+export const dynamic = "force-dynamic";
+export const dynamicParams = true;
 
 /** Evita `/_next/image` para URLs absolutas: mejora compatibilidad con rastreadores (p. ej. GSC) y CDN externos. */
 function isRemoteImageSrc(src: string): boolean {
   return /^https?:\/\//i.test(src);
 }
 
-export async function generateStaticParams() {
-  const articles = getBlogArticles();
-  return articles.map(article => ({
-    category: normalizeCategory(article.category),
-    slug: article.slug,
-  }));
-}
-
 export async function generateMetadata({ params }: { params: Promise<{ category: string, slug: string }> }) {
   const { category: rawCategory, slug } = await params;
   const category = decodeURIComponent(rawCategory);
-  const article = getArticleBySlug(slug, category);
+  const article = await getPublishedArticle(slug, category);
   
   if (!article) {
     return {
@@ -98,9 +96,9 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   try {
   const { category: rawCategory, slug } = await params;
   const category = decodeURIComponent(rawCategory);
-  const article = getArticleBySlug(slug, category);
+  const article = await getPublishedArticle(slug, category);
 
-  if (!article) {
+  if (!article || !isPublicArticleCategory(article.category)) {
     notFound();
   }
 
@@ -303,14 +301,16 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
   const categoryColor = categoryColors[normalizedCategory] || "bg-slate-100 text-slate-800";
 
-  const relatedArticles = getRelatedArticles(slug, article.category);
-  const clusterArticles = getRelatedByKeywords(slug, article.keywords || [], 3);
+  const relatedArticles = await getRelatedPublishedArticles(
+    slug,
+    article.category,
+    article.relatedRoutes || []
+  );
+  const clusterArticles = await getRelatedByKeywordsPublished(slug, article.keywords || [], 3);
   const mainKeyword = article.keywords?.[0];
 
   /** Artículos de la misma categoría para la navegación de la sidebar (sin CTAs comerciales). */
-  const sidebarCategoryArticles = getArticlesByCategory(article.category)
-    .filter((a) => a.slug !== slug)
-    .slice(0, 5);
+  const sidebarCategoryArticles = await listSidebarArticles(article.category, slug);
     return (
       <>
         {/* SEO Schemas */}

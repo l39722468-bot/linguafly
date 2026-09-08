@@ -21,7 +21,8 @@ describe("site catalog", () => {
     expect(isPublicSitePath("/alimentacion")).toBe(true);
     expect(isPublicSitePath("/entrenamiento")).toBe(true);
     expect(isPublicSitePath("/api/articles/foo")).toBe(true);
-    expect(isPublicSitePath("/sobre-nosotros")).toBe(true);
+    expect(isPublicSitePath("/sitemaps/0.xml")).toBe(true);
+    expect(isPublicSitePath("/sitemap.xml")).toBe(true);
   });
 
   it("parks the old website instead of publishing it", () => {

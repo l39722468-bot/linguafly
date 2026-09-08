@@ -1,7 +1,7 @@
 import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getBlogArticles } from "@/lib/blog";
+import { countPublishedArticles } from "@/lib/content/articles";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import {
@@ -13,6 +13,8 @@ import {
   Users,
 } from "lucide-react";
 import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
+
+export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: `Sobre ${SITE_BRAND_NAME} | Revista de idiomas, alimentación y entrenamiento`,
@@ -30,9 +32,8 @@ export const metadata: Metadata = {
   },
 };
 
-export default function SobreNosotrosPage() {
-  const articles = getBlogArticles();
-  const totalArticles = articles.length;
+export default async function SobreNosotrosPage() {
+  const totalArticles = await countPublishedArticles();
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getAbsoluteUrl('/') },
@@ -251,40 +252,22 @@ export default function SobreNosotrosPage() {
             </h2>
             <div className="flex flex-wrap justify-center gap-3">
               <Link
-                href="/blog/gramatica"
+                href="/idiomas"
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
-                Gramática
+                Idiomas
               </Link>
               <Link
-                href="/blog/examenes"
+                href="/alimentacion"
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
-                Exámenes
+                Alimentación
               </Link>
               <Link
-                href="/blog/trabajo"
+                href="/entrenamiento"
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
-                Trabajo
-              </Link>
-              <Link
-                href="/blog/viajes"
-                className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
-              >
-                Viajes
-              </Link>
-              <Link
-                href="/blog/habilidades"
-                className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
-              >
-                Habilidades
-              </Link>
-              <Link
-                href="/blog/metodos"
-                className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
-              >
-                Métodos
+                Entrenamiento
               </Link>
             </div>
           </section>

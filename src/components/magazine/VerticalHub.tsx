@@ -2,14 +2,26 @@ import Link from "next/link";
 import { Navigation } from "@/components/sections/Navigation";
 import { Footer } from "@/components/sections/Footer";
 import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
+import { ArticlePagination } from "@/components/magazine/ArticlePagination";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
-import { getArticlesByCategory } from "@/lib/blog";
+import { listPublishedArticles } from "@/lib/content/articles";
+import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import type { SiteVertical } from "@/lib/site-catalog";
 
-export function VerticalHub({ vertical }: { vertical: SiteVertical }) {
-  const articles = getArticlesByCategory(vertical.slug);
+export async function VerticalHub({
+  vertical,
+  page = 1,
+}: {
+  vertical: SiteVertical;
+  page?: number;
+}) {
+  const { articles, pages, total } = await listPublishedArticles({
+    category: vertical.slug,
+    page,
+    limit: ARTICLES_PER_PAGE,
+  });
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getSiteUrl() },
     { name: vertical.name, url: getAbsoluteUrl(vertical.href) },
@@ -34,7 +46,7 @@ export function VerticalHub({ vertical }: { vertical: SiteVertical }) {
               href={vertical.blogHref}
               className="mt-8 inline-flex rounded-2xl bg-white px-6 py-3 text-sm font-black text-slate-900 hover:bg-cream-100"
             >
-              Ver todos los artículos
+              Ver todos los artículos{total > 0 ? ` (${total})` : ""}
             </Link>
           </div>
         </section>
@@ -53,6 +65,7 @@ export function VerticalHub({ vertical }: { vertical: SiteVertical }) {
                 ))}
               </div>
             )}
+            <ArticlePagination page={page} pages={pages} hrefBase={vertical.href} />
           </div>
         </section>
       </main>

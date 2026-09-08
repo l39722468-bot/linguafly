@@ -1,6 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
-import { BlogPost, getCanonicalTopicPath } from "@/lib/blog";
+import type { BlogPost } from "@/lib/blog";
+import { getCanonicalTopicPath } from "@/lib/blog-paths";
 import { Layers, ArrowRight, Bookmark, LayoutGrid } from "lucide-react";
 
 interface TopicClusterLinksProps {

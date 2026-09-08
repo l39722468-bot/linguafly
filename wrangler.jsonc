@@ -23,13 +23,14 @@
   "images": {
     "binding": "IMAGES"
   },
-  // D1 (SQLite) — almacenamiento de artículos. Mismo database_id que wrangler.toml y README.CLOUDFLARE.md.
-  // Esquema: wrangler d1 execute linguafly_db --file=./src/lib/db/schema.sql --remote
+  // D1 (SQLite) — origen de verdad del contenido público.
+  // Migraciones: wrangler d1 migrations apply linguafly_db --remote
   "d1_databases": [
     {
       "binding": "DB",
       "database_name": "linguafly_db",
-      "database_id": "476f34d4-5622-4a56-923e-c4fb571578c2"
+      "database_id": "476f34d4-5622-4a56-923e-c4fb571578c2",
+      "migrations_dir": "migrations/d1"
     }
   ]
 }

@@ -19,10 +19,8 @@ This project is optimized to host **1 million articles** on Cloudflare using:
 > `preview`/`deploy`/`upload`) now runs `scripts/cf-build.mjs`, which:
 > 1. Temporarily moves every non-article route (course pages, phrase/vocab
 >    hubs, keyword pages, AI/evaluation APIs, etc.) out of `src/app`.
-> 2. Swaps `src/app/sitemap.ts` and
->    `src/components/blog/BlogExerciseMapBanner.tsx` for lightweight,
->    article-only versions (`sitemap.cf.ts` / `BlogExerciseMapBanner.cf-stub.tsx`)
->    so the blog↔course relation map and its generated JSON aren't pulled in.
+> 2. Swaps `src/components/blog/BlogExerciseMapBanner.tsx` for a lightweight
+>    article-only stub so the blog↔course relation map isn't pulled into the Worker.
 > 3. Runs `opennextjs-cloudflare build` (and `preview`/`deploy`/`upload` as
 >    requested) against that trimmed tree.
 > 4. Restores the full `src/app` tree afterwards — success or failure —
@@ -51,10 +49,25 @@ wrangler login
 npm run cf-typegen
 ```
 
-### 3. Initialize Database
+### 3. Initialize Database (D1 = origen de verdad)
+
+El HTML público lee artículos desde D1, no desde markdown embebido en el Worker.
+
 ```bash
-# Create D1 database schema
-wrangler d1 execute linguafly_db --file=./src/lib/db/schema.sql --remote
+# Aplicar migraciones (tablas + columnas de revista + FTS)
+npx wrangler d1 migrations apply linguafly_db --remote
+
+# Generar SQL desde el markdown público y cargarlo
+npx tsx scripts/sync-articles-to-d1.ts --sql-out /tmp/seed-articles.sql
+npx wrangler d1 execute linguafly_db --remote --file=/tmp/seed-articles.sql --yes
+```
+
+En local:
+
+```bash
+npm run d1:migrate:local
+npx tsx scripts/sync-articles-to-d1.ts --sql-out /tmp/seed-articles.sql
+npx wrangler d1 execute linguafly_db --local --file=/tmp/seed-articles.sql --yes
 ```
 
 > The OpenNext deployment (`wrangler.jsonc`) binds D1 as `DB` (database
