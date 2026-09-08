@@ -26,7 +26,7 @@ related_routes:
   - chatgpt-gemini-o-claude-por-donde-empezar
   - pedir-a-la-ia-un-plan-del-dia-realista
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
-  - como-escribir-un-prompt-que-sirva
+  - chatgpt-el-chat-de-siempre-bien-usado
 faqs:
   - question: ¿Qué es un plan de 7 días para usar IA si nunca he abierto un chat?
     answer: "Siete tareas reales, una al día, quince minutos. Email, notas, PDF público, lista de la compra, reescritura, tabla y una comprobación de cifras. No es un reto de hábitos de vida. Si un día no tienes texto, no inventas uno sensible: saltas o usas un texto público."

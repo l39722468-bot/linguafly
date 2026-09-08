@@ -26,6 +26,7 @@ related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - como-escribir-un-prompt-que-sirva
   - como-usar-un-chatbot-de-ia-por-primera-vez
+  - claude-para-documentos-largos
 faqs:
   - question: ¿Puedo subir un PDF a ChatGPT para que me lo resuma?
     answer: "Sí, si el archivo no lleva datos que no pegarías en un post y si cabe en el límite del producto. Recorta páginas de más, anonimiza nombres y pide un resumen por secciones sin inventar lo que no esté. Luego contrastas el resumen con el PDF abierto."

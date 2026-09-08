@@ -26,6 +26,7 @@ related_routes:
   - como-escribir-un-prompt-que-sirva
   - guardar-un-prompt-que-te-funciono
   - por-que-un-chatbot-se-inventa-datos
+  - proyectos-de-chatgpt-un-cajon-por-cliente-o-asignatura
 faqs:
   - question: ¿Cuándo abrir un chat nuevo en ChatGPT?
     answer: "Cuando el hilo está sucio: has mezclado temas, queda un rol de otra tarea o has pegado un texto que ya no toca. Copias el fragmento limpio y el prompt corto a una conversación nueva. No abras chat nuevo por cada coma si sigues en la misma tarea."

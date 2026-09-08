@@ -2081,7 +2081,7 @@
   },
   {
     "n": 105,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "chatgpt-el-chat-de-siempre-bien-usado",
     "title": "ChatGPT: el chat de siempre, bien usado",
@@ -2101,7 +2101,7 @@
   },
   {
     "n": 106,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "gemini-con-google-drive-documentos-que-ya-tienes",
     "title": "Gemini con Google Drive: documentos que ya tienes",
@@ -2121,7 +2121,7 @@
   },
   {
     "n": 107,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "claude-para-documentos-largos",
     "title": "Claude para documentos largos",
@@ -2141,7 +2141,7 @@
   },
   {
     "n": 108,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "copilot-en-word-reescribir-no-inventar-el-informe",
     "title": "Copilot en Word: reescribir, no inventar el informe",
@@ -2161,7 +2161,7 @@
   },
   {
     "n": 109,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "copilot-en-excel-formulas-y-explicacion-no-magia",
     "title": "Copilot en Excel: fórmulas y explicación, no magia",
@@ -2181,7 +2181,7 @@
   },
   {
     "n": 110,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "copilot-en-outlook-resumir-el-hilo-no-contestar-a-lo-loco",
     "title": "Copilot en Outlook: resumir el hilo, no contestar a lo loco",
@@ -2201,7 +2201,7 @@
   },
   {
     "n": 111,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "perplexity-buscar-con-citas-a-la-vista",
     "title": "Perplexity: buscar con citas a la vista",
@@ -2221,7 +2221,7 @@
   },
   {
     "n": 112,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "notebooklm-estudiar-pdfs-que-ya-son-tuyos",
     "title": "NotebookLM: estudiar PDFs que ya son tuyos",
@@ -2321,7 +2321,7 @@
   },
   {
     "n": 117,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "proyectos-de-chatgpt-un-cajon-por-cliente-o-asignatura",
     "title": "Proyectos de ChatGPT: un cajón por cliente o asignatura",
@@ -2421,7 +2421,7 @@
   },
   {
     "n": 122,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "meta-ai-en-whatsapp-cuando-callarla",
     "title": "Meta AI en WhatsApp: cuándo callarla",
@@ -2501,7 +2501,7 @@
   },
   {
     "n": 126,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "chatgpt-search-frente-a-google",
     "title": "ChatGPT Search frente a Google",
@@ -2521,7 +2521,7 @@
   },
   {
     "n": 127,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "herramientas",
     "slug": "gemini-en-gmail-el-borrador-que-no-debes-enviar-a-ciegas",
     "title": "Gemini en Gmail: el borrador que no debes enviar a ciegas",

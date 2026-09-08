@@ -26,6 +26,7 @@ related_routes:
   - prompt-few-shot-dar-dos-ejemplos-y-parar
   - prompt-para-pasar-notas-a-lista-de-tareas
   - como-usar-un-chatbot-de-ia-por-primera-vez
+  - proyectos-de-chatgpt-un-cajon-por-cliente-o-asignatura
 faqs:
   - question: ¿Dónde guardar prompts de ChatGPT?
     answer: "En tu editor o en un documento tuyo: título de la tarea, fecha, el texto del prompt y un ejemplo de salida que te valió. No en el chat. No en un export de cincuenta páginas. El hilo no es un archivo."

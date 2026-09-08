@@ -26,6 +26,7 @@ related_routes:
   - redactar-un-email-profesional-con-ia
   - antropomorfismo-no-es-tu-amigo
   - como-escribir-un-prompt-que-sirva
+  - meta-ai-en-whatsapp-cuando-callarla
 faqs:
   - question: ¿Puedo redactar un WhatsApp tenso con IA sin que suene a robot?
     answer: "Sí, si pegas tu borrador y pides dos versiones cortas, no un ensayo. Di a quién va, el trato (tú o usted) y una frase que no quieres. El modelo copia el molde. Tú eliges una, quitas el adorno y pulsas enviar. El chat no manda nada."

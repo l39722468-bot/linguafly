@@ -742,7 +742,28 @@ WAVE3_PUBLISHED = {
     "entender-una-factura-con-ia-sin-asesoria",
 }
 
-PUBLISHED_SLUGS = NUCLEO_PUBLISHED | WAVE1_PUBLISHED | WAVE2_PUBLISHED | WAVE3_PUBLISHED
+WAVE4_PUBLISHED = {
+    "chatgpt-el-chat-de-siempre-bien-usado",
+    "gemini-con-google-drive-documentos-que-ya-tienes",
+    "claude-para-documentos-largos",
+    "copilot-en-word-reescribir-no-inventar-el-informe",
+    "copilot-en-excel-formulas-y-explicacion-no-magia",
+    "copilot-en-outlook-resumir-el-hilo-no-contestar-a-lo-loco",
+    "perplexity-buscar-con-citas-a-la-vista",
+    "notebooklm-estudiar-pdfs-que-ya-son-tuyos",
+    "proyectos-de-chatgpt-un-cajon-por-cliente-o-asignatura",
+    "chatgpt-search-frente-a-google",
+    "gemini-en-gmail-el-borrador-que-no-debes-enviar-a-ciegas",
+    "meta-ai-en-whatsapp-cuando-callarla",
+}
+
+PUBLISHED_SLUGS = (
+    NUCLEO_PUBLISHED
+    | WAVE1_PUBLISHED
+    | WAVE2_PUBLISHED
+    | WAVE3_PUBLISHED
+    | WAVE4_PUBLISHED
+)
 
 
 def mark_published(items: list[dict]) -> None:

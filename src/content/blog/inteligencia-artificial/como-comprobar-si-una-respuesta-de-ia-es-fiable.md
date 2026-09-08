@@ -23,7 +23,7 @@ excerpt: >-
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/como-comprobar-si-una-respuesta-de-ia-es-fiable'
 related_routes:
   - por-que-un-chatbot-se-inventa-datos
-  - como-usar-un-chatbot-de-ia-por-primera-vez
+  - perplexity-buscar-con-citas-a-la-vista
   - subir-un-pdf-a-un-chatbot-que-hacer-y-que-no
   - como-escribir-un-prompt-que-sirva
   - confianza-excesiva-el-texto-suena-bien

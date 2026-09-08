@@ -27,6 +27,7 @@ related_routes:
   - crear-una-cuenta-de-chatgpt-y-configurar-lo-basico
   - como-escribir-un-prompt-que-sirva
   - privacidad-al-usar-ia-que-no-pegar-nunca
+  - proyectos-de-chatgpt-un-cajon-por-cliente-o-asignatura
 faqs:
   - question: ¿Qué es un GPT personalizado en ChatGPT?
     answer: "Es un chat con instrucciones fijas, a veces archivos y a veces conexiones a otras webs, empaquetado con un nombre. No es un modelo distinto. Hace el mismo tipo de trabajo que un prompt tuyo, solo que alguien (tú u otro) ya dejó las órdenes guardadas."

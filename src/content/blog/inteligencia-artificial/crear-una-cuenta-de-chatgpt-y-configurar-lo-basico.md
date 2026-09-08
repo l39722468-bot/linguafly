@@ -26,6 +26,7 @@ related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - primeros-7-dias-un-plan-de-uso-de-ia
+  - chatgpt-el-chat-de-siempre-bien-usado
 faqs:
   - question: ¿Cómo crear una cuenta de ChatGPT sin pagar?
     answer: "Entras en chatgpt.com, te registras con un email que controlas o con Google, Microsoft o Apple, verificas el teléfono por SMS y dejas el plan gratis. El Plus es un banner. No lo necesitas para enviar el primer mensaje."

@@ -26,6 +26,7 @@ related_routes:
   - crear-una-cuenta-de-chatgpt-y-configurar-lo-basico
   - primeros-7-dias-un-plan-de-uso-de-ia
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion
+  - chatgpt-el-chat-de-siempre-bien-usado
 faqs:
   - question: ¿ChatGPT, Gemini o Claude para empezar si no he usado ninguno?
     answer: "Abre uno, no tres. Chat diario y reescribir textos: ChatGPT. PDF o informe largo: Claude. Archivo que ya está en Google Drive: Gemini. La versión gratuita basta el primer mes. El gesto (pedir, leer, parar) es el mismo en los tres."

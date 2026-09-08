@@ -26,6 +26,7 @@ related_routes:
   - contratos-de-clientes-fuera-del-chat-de-consumidor
   - responder-a-un-cliente-enfadado
   - dni-nie-y-documentos-de-identidad
+  - gemini-con-google-drive-documentos-que-ya-tienes
 faqs:
   - question: ¿Puedo pegar la ficha del CRM en ChatGPT para que me redacte el email?
     answer: "No la ficha. No el hilo entero. Un caso ya recortado: cliente A, importe N, plazo, el hecho que necesitas. Sin nombre, email, teléfono ni cuenta. Si con lo que queda se sabe quién es, recorta más o no uses el chat de consumidor."

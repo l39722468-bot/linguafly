@@ -26,6 +26,7 @@ related_routes:
   - responder-a-un-cliente-enfadado
   - resumir-un-hilo-de-emails
   - privacidad-al-usar-ia-que-no-pegar-nunca
+  - gemini-en-gmail-el-borrador-que-no-debes-enviar-a-ciegas
 faqs:
   - question: ¿Cómo redactar un email profesional con IA sin que suene a chatbot?
     answer: "Fija hechos, destinatario y una sola petición. Prohíbe el saludo de plantilla, el ‘espero que te encuentres bien’ y cualquier motivo que tú no hayas dado. Pide asunto, cuerpo y cierre por separado. Lees contra tu lista de hechos. Tú envías."

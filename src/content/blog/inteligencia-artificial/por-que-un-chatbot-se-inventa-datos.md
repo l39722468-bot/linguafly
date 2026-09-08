@@ -26,6 +26,7 @@ related_routes:
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - como-escribir-un-prompt-que-sirva
+  - perplexity-buscar-con-citas-a-la-vista
 faqs:
   - question: ¿Por qué un chatbot se inventa datos?
     answer: "Porque predice el siguiente trozo de texto más probable, no consulta un expediente verificado. Si el patrón de ‘artículo del BOE’ encaja, puede completar un número de disposición, una fecha y un título que suenan bien y no existen. La fluidez no es una prueba."

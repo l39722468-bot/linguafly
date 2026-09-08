@@ -26,6 +26,7 @@ related_routes:
   - por-que-un-chatbot-se-inventa-datos
   - antropomorfismo-no-es-tu-amigo
   - citas-legales-inventadas
+  - copilot-en-excel-formulas-y-explicacion-no-magia
 faqs:
   - question: ¿Por qué me fío de ChatGPT si el texto suena tan bien?
     answer: "Porque has aprendido a asociar prosa clara con competencia. El modelo está entrenado para sonar útil y completo. Esa fluidez no está calibrada con la verdad. Un plazo o un nombre pueden ser inventados y seguir leyéndose como un email de alguien que sabe de qué habla."

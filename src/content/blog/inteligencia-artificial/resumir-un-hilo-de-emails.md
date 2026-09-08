@@ -26,6 +26,7 @@ related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - que-pegar-del-crm-y-que-no
   - como-escribir-un-prompt-que-sirva
+  - copilot-en-outlook-resumir-el-hilo-no-contestar-a-lo-loco
 faqs:
   - question: ¿Cómo resumir un hilo de emails con IA sin perder un compromiso?
     answer: "Pegas un recorte, no el CRM ni el DNI. Pides una tabla: quién, qué dijo, qué quedó abierto, fecha si aparece. Lees cada celda contra el original. Lo que no esté, ‘no aparece’. El resumen no sustituye al hilo: lo usas para orientarte y vuelves al mensaje fuente antes de comprometerte."
