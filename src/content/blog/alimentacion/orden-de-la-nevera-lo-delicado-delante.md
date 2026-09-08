@@ -24,6 +24,7 @@ related_routes:
   - organizar-comidas-de-la-semana
   - lista-de-la-compra-semanal-sencilla
   - batch-cooking-de-una-hora
+  - congelar-en-raciones
   - rutina-fuerza-principiantes-casa
 faqs:
   - question: ¿Cómo organizar la nevera para que no se pudra la comida?

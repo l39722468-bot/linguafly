@@ -24,6 +24,7 @@ related_routes:
   - organizar-comidas-de-la-semana
   - lista-de-la-compra-semanal-sencilla
   - cenas-rapidas-despues-de-entrenar
+  - congelar-en-raciones
   - rutina-fuerza-principiantes-casa
 faqs:
   - question: ¿Se puede hacer batch cooking en una hora?

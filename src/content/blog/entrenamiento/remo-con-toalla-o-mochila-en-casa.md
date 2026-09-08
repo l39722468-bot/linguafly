@@ -26,6 +26,7 @@ related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
   - que-comer-antes-y-despues-de-entrenar
+  - entrenar-con-una-mochila-como-cargarla
   - dormir-y-fuerza-lo-basico
 faqs:
   - question: ¿Se puede hacer remo en casa sin material?

@@ -2,7 +2,7 @@
 
 Generado por `scripts/build_habitos_catalog.py`. No editar a mano: cambia el script y vuelve a ejecutarlo.
 
-Estado: **10 publicados**, **490 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
+Estado: **14 publicados**, **486 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
 
 | cluster | n |
 |---|---|
@@ -231,9 +231,9 @@ Estado: **10 publicados**, **490 pendientes**. No redactar en bloque: ver [plan]
 | 196 | pendiente | snacks | `bocadillo-pequeno-a-media-tarde` | Bocadillo pequeño a media tarde | bocadillo de merienda |
 | 197 | publicado | compra-presupuesto | `lista-de-la-compra-semanal-sencilla` | Lista de la compra semanal sencilla | lista de la compra semanal |
 | 198 | pendiente | compra-presupuesto | `comprar-para-el-plan-no-al-reves` | Comprar para el plan, no al revés | lista de la compra según el menú |
-| 199 | pendiente | compra-presupuesto | `marcas-blancas-que-bastan` | Marcas blancas que bastan | marca blanca supermercado comida |
+| 199 | publicado | compra-presupuesto | `marcas-blancas-que-bastan` | Marcas blancas que bastan | marca blanca supermercado comida |
 | 200 | pendiente | compra-presupuesto | `ofertas-solo-si-entra-en-el-plan` | Ofertas: solo si entra en el plan | ofertas supermercado no caer |
-| 201 | pendiente | compra-presupuesto | `congelados-utiles-verdura-pescado-pan` | Congelados útiles: verdura, pescado, pan | congelados útiles |
+| 201 | publicado | compra-presupuesto | `congelados-utiles-verdura-pescado-pan` | Congelados útiles: verdura, pescado, pan | congelados útiles |
 | 202 | pendiente | compra-presupuesto | `botes-de-legumbre-stock-minimo` | Botes de legumbre: stock mínimo | stock de legumbres de bote |
 | 203 | pendiente | compra-presupuesto | `huevos-cuantos-comprar` | Huevos: cuántos comprar | cuántos huevos comprar |
 | 204 | pendiente | compra-presupuesto | `fruta-de-temporada-y-la-que-aguanta` | Fruta de temporada y la que aguanta | fruta de temporada compra |
@@ -245,7 +245,7 @@ Estado: **10 publicados**, **490 pendientes**. No redactar en bloque: ver [plan]
 | 210 | pendiente | compra-presupuesto | `compra-online-misma-lista` | Compra online: misma lista | compra online supermercado |
 | 211 | pendiente | compra-presupuesto | `ir-con-hambre-al-super` | Ir con hambre al súper | no ir al supermercado con hambre |
 | 212 | pendiente | compra-presupuesto | `ticket-revisar-ultraprocesados-colados` | Ticket: revisar ultraprocesados colados | revisar el ticket del super |
-| 213 | pendiente | compra-presupuesto | `presupuesto-semanal-de-comida-realista` | Presupuesto semanal de comida realista | presupuesto comida semanal |
+| 213 | publicado | compra-presupuesto | `presupuesto-semanal-de-comida-realista` | Presupuesto semanal de comida realista | presupuesto comida semanal |
 | 214 | pendiente | compra-presupuesto | `comer-bien-sin-gastar-como-restaurante` | Comer bien sin gastar como restaurante | comer rico barato |
 | 215 | pendiente | compra-presupuesto | `pollo-entero-vs-filetes` | Pollo entero vs filetes | pollo entero más barato |
 | 216 | pendiente | compra-presupuesto | `pescado-congelado-vs-fresco` | Pescado congelado vs fresco | pescado congelado o fresco |
@@ -266,7 +266,7 @@ Estado: **10 publicados**, **490 pendientes**. No redactar en bloque: ver [plan]
 | 231 | pendiente | prep-batch | `huevos-duros-de-nevera` | Huevos duros de nevera | huevos duros meal prep |
 | 232 | pendiente | prep-batch | `garbanzos-de-bote-salteados-el-domingo` | Garbanzos de bote salteados el domingo | garbanzos meal prep |
 | 233 | pendiente | prep-batch | `sopa-o-crema-que-aguanta` | Sopa o crema que aguanta | crema de verduras para varios días |
-| 234 | pendiente | prep-batch | `congelar-en-raciones` | Congelar en raciones | congelar comida en raciones |
+| 234 | publicado | prep-batch | `congelar-en-raciones` | Congelar en raciones | congelar comida en raciones |
 | 235 | pendiente | prep-batch | `descongelar-sin-drama` | Descongelar sin drama | cómo descongelar comida |
 | 236 | pendiente | prep-batch | `tupper-de-cristal-o-plastico-que-cierre` | Tupper de cristal o plástico que cierre | mejores tuppers meal prep |
 | 237 | pendiente | prep-batch | `etiquetar-con-el-dia` | Etiquetar con el día | etiquetar tuppers |

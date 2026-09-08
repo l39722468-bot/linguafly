@@ -2,7 +2,7 @@
 
 Generado por `scripts/build_habitos_catalog.py`. No editar a mano: cambia el script y vuelve a ejecutarlo.
 
-Estado: **11 publicados**, **489 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
+Estado: **16 publicados**, **484 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
 
 | cluster | n |
 |---|---|
@@ -73,10 +73,10 @@ Estado: **11 publicados**, **489 pendientes**. No redactar en bloque: ver [plan]
 | 40 | pendiente | programacion | `entrenar-de-manana-o-de-tarde-para-fuerza` | Entrenar de mañana o de tarde para fuerza | mejor hora para entrenar fuerza |
 | 41 | pendiente | programacion | `dos-sesiones-el-mismo-dia-casi-nunca` | Dos sesiones el mismo día: casi nunca | dos entrenamientos el mismo día |
 | 42 | pendiente | programacion | `tirar-la-sesion-si-solo-tienes-20-minutos` | Tirar la sesión si solo tienes 20 minutos | sesión de fuerza de 20 minutos |
-| 43 | pendiente | primer-mes-gym | `que-hacer-el-primer-dia-de-gimnasio` | Qué hacer el primer día de gimnasio | primer día de gimnasio qué hacer |
+| 43 | publicado | primer-mes-gym | `que-hacer-el-primer-dia-de-gimnasio` | Qué hacer el primer día de gimnasio | primer día de gimnasio qué hacer |
 | 44 | pendiente | primer-mes-gym | `miedo-al-gimnasio-un-plan-de-3-visitas` | Miedo al gimnasio: un plan de 3 visitas | miedo a ir al gimnasio |
 | 45 | pendiente | primer-mes-gym | `como-pedir-un-sitio-o-un-disco-sin-drama` | Cómo pedir un sitio o un disco sin drama | etiqueta básica gimnasio |
-| 46 | pendiente | primer-mes-gym | `maquinas-de-la-sala-por-donde-empezar` | Máquinas de la sala: por dónde empezar | máquinas gimnasio principiantes |
+| 46 | publicado | primer-mes-gym | `maquinas-de-la-sala-por-donde-empezar` | Máquinas de la sala: por dónde empezar | máquinas gimnasio principiantes |
 | 47 | pendiente | primer-mes-gym | `jaula-o-rack-para-que-sirve-si-empiezas` | Jaula o rack: para qué sirve si empiezas | cómo usar el rack de sentadillas |
 | 48 | pendiente | primer-mes-gym | `banco-plano-press-y-nada-mas-al-principio` | Banco plano: press y nada más al principio | press banca principiantes |
 | 49 | pendiente | primer-mes-gym | `polea-un-tiron-y-un-empuje-no-12-agarres` | Polea: un tirón y un empuje, no 12 agarres | polea gimnasio principiantes |

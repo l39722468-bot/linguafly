@@ -202,7 +202,7 @@ Publicados en la oleada 2 (slugs del catálogo):
 - `zancada-estatica-en-casa-con-silla`
 - `remo-con-toalla-o-mochila-en-casa`
 
-Siguiente capa de gestos (no reescribir los de arriba): búlgara, goblet, flexión con pausa, puente a una pierna, mochila o bandas.
+Siguiente capa de gestos (no reescribir los de arriba): búlgara, goblet, flexión con pausa, puente a una pierna.
 
 ### Cluster E — Logística de comida (satélites de alimentación)
 
@@ -214,7 +214,26 @@ Publicados en la oleada 2:
 - `batch-cooking-de-una-hora`
 - `orden-de-la-nevera-lo-delicado-delante`
 
-Siguiente capa: `comer-fuera-sin-desmontar-el-plan`, compra con presupuesto, más batch.
+Publicados en la oleada 3:
+
+- `presupuesto-semanal-de-comida-realista`
+- `marcas-blancas-que-bastan`
+- `congelados-utiles-verdura-pescado-pan`
+- `congelar-en-raciones`
+
+Siguiente capa: `comer-fuera-sin-desmontar-el-plan`, más batch.
+
+### Cluster F — Gimnasio 3 días y poco material (oleada 3)
+
+Misma persona, otro contexto. No reescribir la rutina de casa.
+
+Publicados:
+
+- `rutina-de-fuerza-3-dias-en-el-gimnasio`
+- `que-hacer-el-primer-dia-de-gimnasio`
+- `maquinas-de-la-sala-por-donde-empezar`
+- `entrenar-con-una-mochila-como-cargarla`
+- `bandas-elasticas-un-tiron-y-un-empuje`
 
 ### Lo que no es un cluster
 
@@ -280,7 +299,7 @@ Canibalización: si dos slugs responderían a la misma SERP, es un solo artícul
 
 ## 8. Inventario actual
 
-Publicados (núcleo + oleadas 1 y 2):
+Publicados (núcleo + oleadas 1, 2 y 3):
 
 | Estado | Categoría | Artículo |
 |---|---|---|
@@ -305,8 +324,17 @@ Publicados (núcleo + oleadas 1 y 2):
 | Publicado | entrenamiento | [Plancha sin hundir la lumbar](/blog/entrenamiento/plancha-sin-hundir-la-lumbar) |
 | Publicado | entrenamiento | [Zancada estática con silla](/blog/entrenamiento/zancada-estatica-en-casa-con-silla) |
 | Publicado | entrenamiento | [Remo con mochila](/blog/entrenamiento/remo-con-toalla-o-mochila-en-casa) |
+| Publicado | entrenamiento | [Rutina de fuerza 3 días en el gimnasio](/blog/entrenamiento/rutina-de-fuerza-3-dias-en-el-gimnasio) |
+| Publicado | entrenamiento | [Qué hacer el primer día de gimnasio](/blog/entrenamiento/que-hacer-el-primer-dia-de-gimnasio) |
+| Publicado | entrenamiento | [Máquinas de la sala: por dónde empezar](/blog/entrenamiento/maquinas-de-la-sala-por-donde-empezar) |
+| Publicado | entrenamiento | [Entrenar con una mochila: cómo cargarla](/blog/entrenamiento/entrenar-con-una-mochila-como-cargarla) |
+| Publicado | entrenamiento | [Bandas elásticas: un tirón y un empuje](/blog/entrenamiento/bandas-elasticas-un-tiron-y-un-empuje) |
+| Publicado | alimentacion | [Presupuesto semanal de comida realista](/blog/alimentacion/presupuesto-semanal-de-comida-realista) |
+| Publicado | alimentacion | [Marcas blancas que bastan](/blog/alimentacion/marcas-blancas-que-bastan) |
+| Publicado | alimentacion | [Congelados útiles: verdura, pescado, pan](/blog/alimentacion/congelados-utiles-verdura-pescado-pan) |
+| Publicado | alimentacion | [Congelar en raciones](/blog/alimentacion/congelar-en-raciones) |
 
-Backlog: [plan 500+500](./plan-catalogo-500-500.md). Siguiente oleada = 3 días gimnasio, poco material, compra de presupuesto.
+Backlog: [plan 500+500](./plan-catalogo-500-500.md). Siguiente oleada = cardio suave / caminar + timing de comidas.
 
 Los cuatro del núcleo ya cruzan `related_routes` y llevan al menos un enlace contextual al otro vertical. Los siguientes artículos deben **engancharse a este cuadrado**, no empezar otro.
 

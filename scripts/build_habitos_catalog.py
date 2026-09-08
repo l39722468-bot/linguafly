@@ -1286,6 +1286,11 @@ PUBLISHED_SLUGS = {
         "plancha-sin-hundir-la-lumbar",
         "zancada-estatica-en-casa-con-silla",
         "remo-con-toalla-o-mochila-en-casa",
+        "rutina-de-fuerza-3-dias-en-el-gimnasio",
+        "que-hacer-el-primer-dia-de-gimnasio",
+        "maquinas-de-la-sala-por-donde-empezar",
+        "entrenar-con-una-mochila-como-cargarla",
+        "bandas-elasticas-un-tiron-y-un-empuje",
     },
     "alimentacion": {
         "organizar-comidas-de-la-semana",
@@ -1298,6 +1303,10 @@ PUBLISHED_SLUGS = {
         "lista-de-la-compra-semanal-sencilla",
         "batch-cooking-de-una-hora",
         "orden-de-la-nevera-lo-delicado-delante",
+        "presupuesto-semanal-de-comida-realista",
+        "marcas-blancas-que-bastan",
+        "congelados-utiles-verdura-pescado-pan",
+        "congelar-en-raciones",
     },
 }
 
@@ -1397,9 +1406,21 @@ WAVE2_PUBLISHED = {
     "orden-de-la-nevera-lo-delicado-delante",
 }
 
+WAVE3_PUBLISHED = {
+    "rutina-de-fuerza-3-dias-en-el-gimnasio",
+    "que-hacer-el-primer-dia-de-gimnasio",
+    "maquinas-de-la-sala-por-donde-empezar",
+    "entrenar-con-una-mochila-como-cargarla",
+    "bandas-elasticas-un-tiron-y-un-empuje",
+    "presupuesto-semanal-de-comida-realista",
+    "marcas-blancas-que-bastan",
+    "congelados-utiles-verdura-pescado-pan",
+    "congelar-en-raciones",
+}
+
 
 def mark_published_waves(items: list[dict]) -> None:
-    published = WAVE1_PUBLISHED | WAVE2_PUBLISHED
+    published = WAVE1_PUBLISHED | WAVE2_PUBLISHED | WAVE3_PUBLISHED
     for item in items:
         if item["slug"] in published:
             item["status"] = "publicado"

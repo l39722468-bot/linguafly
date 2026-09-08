@@ -23,6 +23,7 @@ canonical: 'https://linguafly.app/blog/alimentacion/lista-de-la-compra-semanal-s
 related_routes:
   - organizar-comidas-de-la-semana
   - batch-cooking-de-una-hora
+  - presupuesto-semanal-de-comida-realista
   - proteina-hidratos-grasas-guia-practica
   - rutina-fuerza-principiantes-casa
 faqs:
