@@ -164,22 +164,28 @@ El entrenamiento no termina al último ejercicio.
 
 Un patrón por artículo. Cada uno enlaza a la rutina pilar y a progresar; el puente alimentario es proteína o “comer alrededor del entreno” cuando exista.
 
-Ejemplos (no escribir los seis el mismo mes):
+Publicados en la oleada 2 (slugs del catálogo):
 
-- `flexiones-para-principiantes`
-- `sentadilla-en-casa`
+- `sentadilla-en-casa-de-la-silla-al-aire`
+- `flexiones-para-principiantes-pared-mesa-suelo`
+- `puente-de-gluteo-tecnica-y-progresion`
 - `plancha-sin-hundir-la-lumbar`
-- `entrenar-con-mochila-o-bandas`
+- `zancada-estatica-en-casa-con-silla`
+- `remo-con-toalla-o-mochila-en-casa`
+
+Siguiente capa de gestos (no reescribir los de arriba): búlgara, goblet, flexión con pausa, puente a una pierna, mochila o bandas.
 
 ### Cluster E — Logística de comida (satélites de alimentación)
 
 Un problema de nevera o de semana. Puente a rutina cuando el lector come “porque entrena” o “aunque no entrene”.
 
-Ejemplos:
+Publicados en la oleada 2:
 
-- `lista-compra-semana-sencilla`
-- `batch-cooking-una-hora`
-- `comer-fuera-sin-desmontar-el-plan`
+- `lista-de-la-compra-semanal-sencilla`
+- `batch-cooking-de-una-hora`
+- `orden-de-la-nevera-lo-delicado-delante`
+
+Siguiente capa: `comer-fuera-sin-desmontar-el-plan`, compra con presupuesto, más batch.
 
 ### Lo que no es un cluster
 
@@ -234,9 +240,9 @@ La página usa `title` como `<title>` y `description` como meta description. El 
 
 | Artículo | Consulta principal | Long-tails propias (no copiar al hermano) |
 |---|---|---|
-| Organizar comidas | organizar comidas de la semana | menú semanal fácil, meal prep para principiantes, batch cooking en una hora, lista de la compra semanal |
+| Organizar comidas | organizar comidas de la semana | menú semanal fácil, meal prep para principiantes, tres cenas repetibles, comodín del menú |
 | Proteína / hidratos / grasas | proteína hidratos y grasas | qué son los macronutrientes, cómo repartir macros sin contar, cuánta proteína al día si entrenas, los hidratos engordan |
-| Rutina en casa | rutina de fuerza en casa | entrenamiento en casa para principiantes, ejercicios sin material, rutina full body 3 días, flexiones inclinadas |
+| Rutina en casa | rutina de fuerza en casa | entrenamiento en casa para principiantes, ejercicios sin material, rutina full body 3 días, sesión de 25 minutos |
 | Sobrecarga | sobrecarga progresiva | cuánto subir de peso cada semana, cómo progresar sin lesionarte, agujetas o lesión, señales de que entrenas demasiado |
 
 Canibalización: si dos slugs responderían a la misma SERP, es un solo artículo. No hace falta “rutina full body en casa” además de `rutina-fuerza-principiantes-casa` hasta que el pilar se quede corto.
@@ -245,7 +251,7 @@ Canibalización: si dos slugs responderían a la misma SERP, es un solo artícul
 
 ## 8. Inventario actual
 
-Publicados (núcleo + oleada 1):
+Publicados (núcleo + oleadas 1 y 2):
 
 | Estado | Categoría | Artículo |
 |---|---|---|
@@ -256,13 +262,22 @@ Publicados (núcleo + oleada 1):
 | Publicado | alimentacion | [Cenas rápidas después de entrenar](/blog/alimentacion/cenas-rapidas-despues-de-entrenar) |
 | Publicado | alimentacion | [Desayuno si entrenas a las 7](/blog/alimentacion/desayuno-si-entrenas-a-las-7) |
 | Publicado | alimentacion | [Día de descanso: no recortes](/blog/alimentacion/dia-de-descanso-no-recortes-a-lo-loco) |
+| Publicado | alimentacion | [Lista de la compra semanal sencilla](/blog/alimentacion/lista-de-la-compra-semanal-sencilla) |
+| Publicado | alimentacion | [Batch cooking de una hora](/blog/alimentacion/batch-cooking-de-una-hora) |
+| Publicado | alimentacion | [Orden de la nevera: lo delicado delante](/blog/alimentacion/orden-de-la-nevera-lo-delicado-delante) |
 | Publicado | entrenamiento | [Rutina de fuerza en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa) |
 | Publicado | entrenamiento | [Progresar sin lesionarte](/blog/entrenamiento/progresar-sin-lesionarte) |
 | Publicado | entrenamiento | [Qué hacer los días que no entrenas](/blog/entrenamiento/que-hacer-los-dias-que-no-entrenas) |
 | Publicado | entrenamiento | [Dormir y fuerza](/blog/entrenamiento/dormir-y-fuerza-lo-basico) |
 | Publicado | entrenamiento | [Agujetas o señal de parar](/blog/entrenamiento/agujetas-o-lesion) |
+| Publicado | entrenamiento | [Sentadilla en casa: de la silla al aire](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire) |
+| Publicado | entrenamiento | [Flexiones para principiantes](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo) |
+| Publicado | entrenamiento | [Puente de glúteo](/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion) |
+| Publicado | entrenamiento | [Plancha sin hundir la lumbar](/blog/entrenamiento/plancha-sin-hundir-la-lumbar) |
+| Publicado | entrenamiento | [Zancada estática con silla](/blog/entrenamiento/zancada-estatica-en-casa-con-silla) |
+| Publicado | entrenamiento | [Remo con toalla o mochila](/blog/entrenamiento/remo-con-toalla-o-mochila-en-casa) |
 
-Backlog: [plan 500+500](./plan-catalogo-500-500.md). Siguiente oleada = gestos de la rutina pilar + logística de nevera.
+Backlog: [plan 500+500](./plan-catalogo-500-500.md). Siguiente oleada = 3 días gimnasio, poco material, compra de presupuesto.
 
 Los cuatro del núcleo ya cruzan `related_routes` y llevan al menos un enlace contextual al otro vertical. Los siguientes artículos deben **engancharse a este cuadrado**, no empezar otro.
 

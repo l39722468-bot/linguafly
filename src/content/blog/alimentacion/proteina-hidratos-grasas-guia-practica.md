@@ -26,7 +26,7 @@ related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
   - que-comer-antes-y-despues-de-entrenar
-  - desayuno-si-entrenas-a-las-7
+  - lista-de-la-compra-semanal-sencilla
 faqs:
   - question: ¿Qué son los macronutrientes en la comida?
     answer: "Proteína, hidratos y grasas. No son bandos: son las tres piezas de un plato normal. Entenderlos sirve para armar el almuerzo, no para vivir en una app."

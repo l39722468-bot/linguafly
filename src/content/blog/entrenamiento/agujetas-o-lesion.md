@@ -24,6 +24,7 @@ canonical: 'https://linguafly.app/blog/entrenamiento/agujetas-o-lesion'
 related_routes:
   - progresar-sin-lesionarte
   - rutina-fuerza-principiantes-casa
+  - sentadilla-en-casa-de-la-silla-al-aire
   - que-hacer-los-dias-que-no-entrenas
   - proteina-hidratos-grasas-guia-practica
 faqs:

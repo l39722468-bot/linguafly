@@ -23,8 +23,8 @@ excerpt: >-
 canonical: 'https://linguafly.app/blog/entrenamiento/progresar-sin-lesionarte'
 related_routes:
   - rutina-fuerza-principiantes-casa
+  - sentadilla-en-casa-de-la-silla-al-aire
   - proteina-hidratos-grasas-guia-practica
-  - organizar-comidas-de-la-semana
   - dormir-y-fuerza-lo-basico
   - agujetas-o-lesion
 faqs:
@@ -154,7 +154,7 @@ Progresar también es:
 - Dormir lo que puedas (no es un lujo estético). Si una noche es un desastre, baja carga ese día; no “lo compensas” con más series. El criterio está en [dormir y fuerza](/blog/entrenamiento/dormir-y-fuerza-lo-basico).
 - [Comer proteína](/blog/alimentacion/proteina-hidratos-grasas-guia-practica) en las comidas principales. No por una ventana anabólica de 20 minutos. Porque recuperar pide comida, no un ayuno de premio.
 - No entrenar el mismo patrón al fallo todos los días.
-- Tener las cenas mínimamente resueltas: si cada noche es un pedido doble, [organizar las comidas de la semana](/blog/alimentacion/organizar-comidas-de-la-semana) es parte de la progresión, no un extra de nevera.
+- Tener las cenas mínimamente resueltas: si cada noche es un pedido doble, el menú corto es parte de la progresión, no un extra de nevera. La palanca del gesto (silla antes que aire) está en [sentadilla en casa](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire), no en un salto de kilos.
 
 El descanso entre series no es tiempo perdido: es lo que permite que la siguiente repetición sea todavía el ejercicio que querías, y no una versión rota. Recortar descansos para “hacerlo más HIIT” suele ser pedir al tendón un estímulo que no habías programado.
 

@@ -2,7 +2,7 @@
 
 Generado por `scripts/build_habitos_catalog.py`. No editar a mano: cambia el script y vuelve a ejecutarlo.
 
-Estado: **5 publicados**, **495 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
+Estado: **11 publicados**, **489 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
 
 | cluster | n |
 |---|---|
@@ -101,12 +101,12 @@ Estado: **5 publicados**, **495 pendientes**. No redactar en bloque: ver [plan](
 | 68 | pendiente | primer-mes-gym | `locker-candado-y-no-dejar-la-vida-en-el-banco` | Locker, candado y no dejar la vida en el banco | seguridad básica gimnasio |
 | 69 | pendiente | primer-mes-gym | `prueba-gratuita-que-entrenar-esos-7-dias` | Prueba gratuita: qué entrenar esos 7 días | prueba gratuita gimnasio qué hacer |
 | 70 | pendiente | primer-mes-gym | `dejar-el-gym-10-dias-y-volver-sin-heroe` | Dejar el gym 10 días y volver sin héroe | volver al gimnasio después de un viaje |
-| 71 | pendiente | gestos-casa | `sentadilla-en-casa-de-la-silla-al-aire` | Sentadilla en casa: de la silla al aire | cómo hacer sentadilla en casa |
-| 72 | pendiente | gestos-casa | `flexiones-para-principiantes-pared-mesa-suelo` | Flexiones para principiantes: pared, mesa, suelo | flexiones para principiantes |
-| 73 | pendiente | gestos-casa | `puente-de-gluteo-tecnica-y-progresion` | Puente de glúteo: técnica y progresión | puente de glúteos principiantes |
-| 74 | pendiente | gestos-casa | `plancha-sin-hundir-la-lumbar` | Plancha sin hundir la lumbar | cómo hacer la plancha bien |
-| 75 | pendiente | gestos-casa | `zancada-estatica-en-casa-con-silla` | Zancada estática en casa con silla | zancadas para principiantes en casa |
-| 76 | pendiente | gestos-casa | `remo-con-toalla-o-mochila-en-casa` | Remo con toalla o mochila en casa | remo en casa sin material |
+| 71 | publicado | gestos-casa | `sentadilla-en-casa-de-la-silla-al-aire` | Sentadilla en casa: de la silla al aire | cómo hacer sentadilla en casa |
+| 72 | publicado | gestos-casa | `flexiones-para-principiantes-pared-mesa-suelo` | Flexiones para principiantes: pared, mesa, suelo | flexiones para principiantes |
+| 73 | publicado | gestos-casa | `puente-de-gluteo-tecnica-y-progresion` | Puente de glúteo: técnica y progresión | puente de glúteos principiantes |
+| 74 | publicado | gestos-casa | `plancha-sin-hundir-la-lumbar` | Plancha sin hundir la lumbar | cómo hacer la plancha bien |
+| 75 | publicado | gestos-casa | `zancada-estatica-en-casa-con-silla` | Zancada estática en casa con silla | zancadas para principiantes en casa |
+| 76 | publicado | gestos-casa | `remo-con-toalla-o-mochila-en-casa` | Remo con toalla o mochila en casa | remo en casa sin material |
 | 77 | pendiente | gestos-casa | `fondos-en-silla-regresion-segura` | Fondos en silla: regresión segura | fondos en silla principiantes |
 | 78 | pendiente | gestos-casa | `elevaciones-de-cadera-a-una-pierna` | Elevaciones de cadera a una pierna | puente a una pierna |
 | 79 | pendiente | gestos-casa | `superman-o-y-w-en-el-suelo` | Superman o Y-W en el suelo | ejercicio Y W omóplatos |

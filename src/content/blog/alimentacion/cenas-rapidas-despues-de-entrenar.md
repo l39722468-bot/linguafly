@@ -24,6 +24,7 @@ canonical: 'https://linguafly.app/blog/alimentacion/cenas-rapidas-despues-de-ent
 related_routes:
   - organizar-comidas-de-la-semana
   - que-comer-antes-y-despues-de-entrenar
+  - batch-cooking-de-una-hora
   - rutina-fuerza-principiantes-casa
   - dormir-y-fuerza-lo-basico
 faqs:

@@ -13,9 +13,9 @@ keywords:
   - organizar comidas de la semana
   - menú semanal fácil
   - meal prep para principiantes
-  - batch cooking en una hora
+  - tres cenas repetibles
   - cómo hacer meal prep en casa
-  - lista de la compra semanal
+  - menú semanal con comodín
   - cenas rápidas entre semana
 excerpt: >-
   No hace falta un menú de chef. Con tres cenas repetibles, una compra y dos
@@ -24,9 +24,9 @@ canonical: 'https://linguafly.app/blog/alimentacion/organizar-comidas-de-la-sema
 related_routes:
   - proteina-hidratos-grasas-guia-practica
   - rutina-fuerza-principiantes-casa
-  - progresar-sin-lesionarte
-  - cenas-rapidas-despues-de-entrenar
-  - dia-de-descanso-no-recortes-a-lo-loco
+  - lista-de-la-compra-semanal-sencilla
+  - batch-cooking-de-una-hora
+  - orden-de-la-nevera-lo-delicado-delante
 faqs:
   - question: ¿Cómo organizar las comidas de la semana si trabajo todo el día?
     answer: Elige tres cenas que ya sepas hacer, cocina una o dos bases el día que te vaya bien y deja un comodín (huevos, lata de legumbres). El menú semanal sirve para no decidir a las diez de la noche, no para encerrarte.
@@ -114,13 +114,13 @@ Reglas para que la hora no se convierta en un castigo:
 - Lava al hilo. El fregado cuenta en el plan. Si odias fregar, menos cazos.
 - Etiqueta el día si hay más de un tupper. “Pollo martes” evita el misterio del fondo.
 
-Si el domingo es imposible, 30 minutos un miércoles valen: una bandeja y unos huevos duros. El batch cooking no es una religión de fin de semana. Es **dejar de partir de cebolla picada a las 22:10**.
+Si el domingo es imposible, 30 minutos un miércoles valen: una bandeja y unos huevos duros. El batch cooking no es una religión de fin de semana. Es **dejar de partir de cebolla picada a las 22:10**. El detalle de esa hora está en [batch cooking de una hora](/blog/alimentacion/batch-cooking-de-una-hora).
 
 Congelar raciones de sopa, guiso o arroz en planas ayuda. Descongelar no es un drama si lo pasas a la nevera por la mañana. Recongelar a lo loco sí lo es: si dudas, fuera.
 
 ## Lista de la compra del menú semanal
 
-La compra sigue al plan, no al revés. Escribe primero:
+La compra sigue al plan, no al revés. El detalle de cómo escribirla y usarla está en [lista de la compra semanal sencilla](/blog/alimentacion/lista-de-la-compra-semanal-sencilla). Aquí basta el orden: primero el plan, después el papel. Escribe primero:
 
 - 3 cenas
 - 2 desayunos posibles (p. ej. yogur-fruta-avena y tostada-huevo)
@@ -142,7 +142,7 @@ Compra online: la misma lista. El clic fácil no es una estrategia distinta; es 
 
 ## Cenas rápidas y el comodín (no es fracaso)
 
-Si llegas a casa destrozado, el plan tiene que **ensamblarse**, no cocinarse desde cebolla picada. El detalle de esa hora está en [cenas rápidas después de entrenar](/blog/alimentacion/cenas-rapidas-despues-de-entrenar). Deja a mano:
+Si llegas a casa destrozado, el plan tiene que **ensamblarse**, no cocinarse desde cebolla picada. Huevos, lata, leftover. El comodín evita el pedido; no es un fracaso. Deja a mano:
 
 - Un segundo congelado decente o una bolsa de verdura.
 - Huevos.
@@ -172,7 +172,7 @@ Sin volverte nutricionista de Instagram, un plato cotidiano puede responder a tr
 
 Si las tres están, el plato aguanta. El detalle está en la [guía práctica de proteína, hidratos y grasas](/blog/alimentacion/proteina-hidratos-grasas-guia-practica). El aceite, las especias y el queso son el sabor; no hace falta un protocolo.
 
-Si estás subiendo carga en casa o en sala, el menú es parte de no lesionarte de hambre: la [sobrecarga progresiva](/blog/entrenamiento/progresar-sin-lesionarte) pide comida en los días de sesión y también en los de descanso. Recortar el pan el día que entrenas “para definir el primer mes” suele ser ego, no un plan.
+Si estás subiendo carga en casa o en sala, el menú es parte de no lesionarte de hambre. Recortar el pan el día que entrenas “para definir el primer mes” suele ser ego, no un plan.
 
 ## Qué no hace falta para un meal prep sencillo
 
@@ -183,7 +183,7 @@ Si estás subiendo carga en casa o en sala, el menú es parte de no lesionarte d
 - Un electrodoméstico nuevo. La sartén y el horno bastan. La airfryer no es un método; es un cacharro.
 - Culpa cuando usas el comodín.
 
-La nevera también es el menú. Lo que caduca primero, delante. El leftover de domingo se come lunes o martes, no el viernes misterioso. Arroz cocido, al frío pronto y tapado. Pollo cocinado, dos o tres días. Si huele raro, fuera: el plan no incluye intoxicarte por no tirar. Un inventario de treinta segundos al abrir la puerta el sábado evita la compra duplicada.
+La nevera también es el menú. Lo que caduca primero, delante. El leftover de domingo se come lunes o martes, no el viernes misterioso. Arroz cocido, al frío pronto y tapado. Pollo cocinado, dos o tres días. Si huele raro, fuera: el plan no incluye intoxicarte por no tirar. Un inventario de treinta segundos al abrir la puerta el sábado evita la compra duplicada. El detalle de estantes y fechas está en el artículo de ordenar la nevera.
 
 Desayunos: dos sistemas, no siete recetas. Yogur-fruta-avena. Tostada-huevo-tomate. El domingo puede ser más largo sin convertirse en un buffet. Si no tienes hambre a las 7, no hace falta desayunar a la fuerza; hace falta que la primera comida del día **cuando llegue** tenga proteína, no solo café.
 

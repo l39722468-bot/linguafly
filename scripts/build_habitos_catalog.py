@@ -1280,6 +1280,12 @@ PUBLISHED_SLUGS = {
         "que-hacer-los-dias-que-no-entrenas",
         "dormir-y-fuerza-lo-basico",
         "agujetas-o-lesion",
+        "sentadilla-en-casa-de-la-silla-al-aire",
+        "flexiones-para-principiantes-pared-mesa-suelo",
+        "puente-de-gluteo-tecnica-y-progresion",
+        "plancha-sin-hundir-la-lumbar",
+        "zancada-estatica-en-casa-con-silla",
+        "remo-con-toalla-o-mochila-en-casa",
     },
     "alimentacion": {
         "organizar-comidas-de-la-semana",
@@ -1289,6 +1295,9 @@ PUBLISHED_SLUGS = {
         "cenas-rapidas-despues-de-entrenar",
         "desayuno-si-entrenas-a-las-7",
         "dia-de-descanso-no-recortes-a-lo-loco",
+        "lista-de-la-compra-semanal-sencilla",
+        "batch-cooking-de-una-hora",
+        "orden-de-la-nevera-lo-delicado-delante",
     },
 }
 
@@ -1376,10 +1385,23 @@ WAVE1_PUBLISHED = {
     "agujetas-o-lesion",
 }
 
+WAVE2_PUBLISHED = {
+    "sentadilla-en-casa-de-la-silla-al-aire",
+    "flexiones-para-principiantes-pared-mesa-suelo",
+    "puente-de-gluteo-tecnica-y-progresion",
+    "plancha-sin-hundir-la-lumbar",
+    "zancada-estatica-en-casa-con-silla",
+    "remo-con-toalla-o-mochila-en-casa",
+    "lista-de-la-compra-semanal-sencilla",
+    "batch-cooking-de-una-hora",
+    "orden-de-la-nevera-lo-delicado-delante",
+}
 
-def mark_wave1(items: list[dict]) -> None:
+
+def mark_published_waves(items: list[dict]) -> None:
+    published = WAVE1_PUBLISHED | WAVE2_PUBLISHED
     for item in items:
-        if item["slug"] in WAVE1_PUBLISHED:
+        if item["slug"] in published:
             item["status"] = "publicado"
 
 
@@ -1388,8 +1410,8 @@ def main() -> None:
     assert sum(ALI_CLUSTERS.values()) == 500
     ent = entrenamiento()
     ali = alimentacion()
-    mark_wave1(ent)
-    mark_wave1(ali)
+    mark_published_waves(ent)
+    mark_published_waves(ali)
     assert_unique("entrenamiento", ent, ENT_CLUSTERS)
     assert_unique("alimentacion", ali, ALI_CLUSTERS)
     overlap = {i["slug"] for i in ent} & {i["slug"] for i in ali}

@@ -16,17 +16,17 @@ keywords:
   - rutina full body 3 días
   - rutina de fuerza sin gimnasio
   - ejercicios con peso corporal principiantes
-  - flexiones inclinadas para principiantes
+  - sesión de fuerza 25 minutos casa
 excerpt: >-
   Tres días, seis movimientos y una regla: termina pudiendo hacer dos
   repeticiones más. Así se progresa en casa sin convertirte en un gimnasio.
 canonical: 'https://linguafly.app/blog/entrenamiento/rutina-fuerza-principiantes-casa'
 related_routes:
   - progresar-sin-lesionarte
+  - sentadilla-en-casa-de-la-silla-al-aire
+  - flexiones-para-principiantes-pared-mesa-suelo
+  - remo-con-toalla-o-mochila-en-casa
   - proteina-hidratos-grasas-guia-practica
-  - organizar-comidas-de-la-semana
-  - que-comer-antes-y-despues-de-entrenar
-  - que-hacer-los-dias-que-no-entrenas
 faqs:
   - question: ¿Cuál es una buena rutina de fuerza en casa para principiantes?
     answer: Un full body de 20-30 minutos, tres días por semana, con sentadilla, flexión adaptada, puente de glúteo, plancha, zancada y un remo (toalla o mochila). El patrón importa más que tener mancuernas.
@@ -106,7 +106,7 @@ No hace falta clavar una sentadilla de powerlifting el martes. Hace falta un pat
 
 **Remo.** Toalla anclada en un sitio serio, mochila, o Y-W en el suelo. El error clásico es encoger trapecio y no mover omóplato. Imagina que metes los omóplatos en los bolsillos traseros del pantalón.
 
-El detalle fino de cada gesto (búlgara, flexión con pausa, puente a una pierna) puede tener su propio artículo más adelante. Aquí el trabajo es **meter los seis en 25 minutos, tres veces**, no coleccionar variantes.
+El detalle fino de cada gesto ya tiene pieza propia: [sentadilla de la silla al aire](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire), flexión pared-mesa-suelo, puente, plancha, zancada con silla y remo con toalla. Aquí el trabajo es **meter los seis en 25 minutos, tres veces**, no coleccionar variantes.
 
 ## Cómo progresar las primeras 4 semanas (sin material)
 
@@ -147,7 +147,7 @@ Dos bloques de 10 minutos en el mismo día (mañana y noche) valen si de verdad 
 - **Copiar una rutina de alguien con dos años de gimnasio.** Su sentadilla no es tu sentadilla.
 - **Añadir cinco accesorios de un vídeo.** Si ya hay seis patrones, el séptimo suele ser ego o aburrimiento. Aburrimiento se cura progresando el que ya tienes, no coleccionando.
 - **Saltar el remo porque “no se ve”.** El tirón equilibra el empuje de las flexiones. Sin él, el hombro y la postura de escritorio se quejan más tarde.
-- **Hacer la sesión en ayunas heroico y marearte.** Si entrenas a las 7 y el estómago lo pide, un yogur o un pan con algo cuenta. [Entrenar fuerza en ayunas](/blog/alimentacion/entrenar-en-ayunas-cuando-no) casi nunca es la palanca. La sesión no se mejora ayunando de teatro.
+- **Hacer la sesión en ayunas heroico y marearte.** Si entrenas a las 7 y el estómago lo pide, un yogur o un pan con algo cuenta. Ayunar de teatro casi nunca es la palanca.
 - **Comparar tu semana 2 con un powerlifter.** El espejo del gimnasio ajeno no programa tu salón.
 
 ## Días de descanso si entrenas en casa

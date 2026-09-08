@@ -2,7 +2,7 @@
 
 Generado por `scripts/build_habitos_catalog.py`. No editar a mano: cambia el script y vuelve a ejecutarlo.
 
-Estado: **7 publicados**, **493 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
+Estado: **10 publicados**, **490 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
 
 | cluster | n |
 |---|---|
@@ -229,7 +229,7 @@ Estado: **7 publicados**, **493 pendientes**. No redactar en bloque: ver [plan](
 | 194 | pendiente | snacks | `merienda-pre-cena-para-no-llegar-salvaje` | Merienda pre-cena para no llegar salvaje | merienda para no cenar de más |
 | 195 | pendiente | snacks | `yogur-para-llevar-entre-horas` | Yogur para llevar entre horas | yogur para llevar merienda |
 | 196 | pendiente | snacks | `bocadillo-pequeno-a-media-tarde` | Bocadillo pequeño a media tarde | bocadillo de merienda |
-| 197 | pendiente | compra-presupuesto | `lista-de-la-compra-semanal-sencilla` | Lista de la compra semanal sencilla | lista de la compra semanal |
+| 197 | publicado | compra-presupuesto | `lista-de-la-compra-semanal-sencilla` | Lista de la compra semanal sencilla | lista de la compra semanal |
 | 198 | pendiente | compra-presupuesto | `comprar-para-el-plan-no-al-reves` | Comprar para el plan, no al revés | lista de la compra según el menú |
 | 199 | pendiente | compra-presupuesto | `marcas-blancas-que-bastan` | Marcas blancas que bastan | marca blanca supermercado comida |
 | 200 | pendiente | compra-presupuesto | `ofertas-solo-si-entra-en-el-plan` | Ofertas: solo si entra en el plan | ofertas supermercado no caer |
@@ -257,7 +257,7 @@ Estado: **7 publicados**, **493 pendientes**. No redactar en bloque: ver [plan](
 | 222 | pendiente | compra-presupuesto | `caducidad-en-el-lineal-mira` | Caducidad en el lineal: mira | fecha de caducidad al comprar |
 | 223 | pendiente | compra-presupuesto | `congelador-lleno-de-misterios-inventario` | Congelador lleno de misterios: inventario | qué hay en el congelador |
 | 224 | pendiente | compra-presupuesto | `compra-de-10-minutos-con-lista-corta` | Compra de 10 minutos con lista corta | compra rápida con lista |
-| 225 | pendiente | prep-batch | `batch-cooking-de-una-hora` | Batch cooking de una hora | batch cooking una hora |
+| 225 | publicado | prep-batch | `batch-cooking-de-una-hora` | Batch cooking de una hora | batch cooking una hora |
 | 226 | pendiente | prep-batch | `cocinar-dos-bases-el-domingo` | Cocinar dos bases el domingo | cocinar bases el domingo |
 | 227 | pendiente | prep-batch | `pollo-asado-para-tres-dias` | Pollo asado para tres días | pollo asado meal prep |
 | 228 | pendiente | prep-batch | `bandeja-de-verdura-al-horno` | Bandeja de verdura al horno | verdura al horno bandeja |
@@ -467,7 +467,7 @@ Estado: **7 publicados**, **493 pendientes**. No redactar en bloque: ver [plan](
 | 432 | pendiente | cocina-ensamblaje | `yogur-avena-fruta-punado` | Yogur, avena, fruta, puñado | bol de yogur avena fruta |
 | 433 | pendiente | cocina-ensamblaje | `patata-huevo-y-atun-8-minutos` | Patata, huevo y atún: 8 minutos | patata huevo atún |
 | 434 | pendiente | cocina-ensamblaje | `wok-de-verdura-con-tofu-o-pollo` | Wok de verdura con tofu o pollo | wok sencillo en casa |
-| 435 | pendiente | nevera-congelador | `orden-de-la-nevera-lo-delicado-delante` | Orden de la nevera: lo delicado delante | organizar la nevera |
+| 435 | publicado | nevera-congelador | `orden-de-la-nevera-lo-delicado-delante` | Orden de la nevera: lo delicado delante | organizar la nevera |
 | 436 | pendiente | nevera-congelador | `caducidad-fifo-casero` | Caducidad: FIFO casero | usar primero lo que caduca |
 | 437 | pendiente | nevera-congelador | `tupper-destapado-vs-cerrado` | Tupper destapado vs cerrado | guardar comida en tupper |
 | 438 | pendiente | nevera-congelador | `arroz-en-nevera-frio-rapido` | Arroz en nevera: frío rápido | guardar arroz cocido |

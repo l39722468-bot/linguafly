@@ -22,6 +22,12 @@ describe("public magazine and English-learning articles", () => {
     expect(
       publicArticles.some((article) => article.slug === "rutina-fuerza-principiantes-casa"),
     ).toBe(true);
+    expect(
+      publicArticles.some((article) => article.slug === "sentadilla-en-casa-de-la-silla-al-aire"),
+    ).toBe(true);
+    expect(
+      publicArticles.some((article) => article.slug === "lista-de-la-compra-semanal-sencilla"),
+    ).toBe(true);
     expect(publicArticles.some((article) => article.category === "fitness")).toBe(false);
   });
 
