@@ -20,7 +20,7 @@ import {
   getRelatedByKeywordsPublished,
   listSidebarArticles,
 } from "@/lib/content/articles";
-import { isPublicArticleCategory } from "@/lib/site-catalog";
+import { getPublicCategoryLabel, isPublicArticleCategory } from "@/lib/site-catalog";
 import { expandBlogGlosses } from "@/lib/blog-glosses";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
@@ -104,25 +104,8 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
   // Generate Article Schema for SEO
   const wordCount = (article.content || "").split(/\s+/).length;
-
-  const categoryLabels: Record<string, string> = {
-    idiomas: "Idiomas",
-    alimentacion: "Alimentación",
-    entrenamiento: "Entrenamiento",
-    trabajo: "Inglés para Trabajar",
-    viajes: "Inglés para Viajar",
-    examenes: "Preparación de Exámenes",
-    aprendizaje: "Aprendizaje",
-    metodos: "Métodos",
-    seo: "Cursos y Guías de Inglés",
-    "curso-a1": "Curso A1",
-    "curso-a2": "Curso A2",
-    "curso-b1": "Curso B1",
-    "curso-b2": "Curso B2",
-  };
-
   const normalizedCategory = normalizeCategory(article.category);
-  const categoryLabel = categoryLabels[normalizedCategory] || article.category;
+  const categoryLabel = getPublicCategoryLabel(normalizedCategory).name;
   const contentLanguage = "es-ES";
   const taughtLanguage = "English language";
 

@@ -153,7 +153,7 @@ const UPSERT_ARTICLE_SQL = `INSERT INTO articles (
   excerpt, author, read_time, faqs, featured, image, alt,
   related_routes, canonical, created_at, updated_at, is_published
 ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-ON CONFLICT(slug) DO UPDATE SET
+ON CONFLICT(category, slug) DO UPDATE SET
   title = excluded.title,
   description = excluded.description,
   content = excluded.content,
@@ -349,7 +349,13 @@ class DatabaseClient {
     try {
       const result = { ...article, tags: await this.getTags(article.id) };
       this.cachePut(cacheKey, result, ARTICLE_CACHE_TTL_SECONDS);
-      this.cachePut(`article:${slug}`, result, ARTICLE_CACHE_TTL_SECONDS);
+      if (article.category) {
+        this.cachePut(
+          `article:${slug}:${article.category}`,
+          result,
+          ARTICLE_CACHE_TTL_SECONDS
+        );
+      }
       return result;
     } catch (error) {
       console.error("[DatabaseClient] getArticle tags/cache failed:", error);
@@ -535,7 +541,8 @@ class DatabaseClient {
         `SELECT a.id, a.slug, a.title, a.description, a.excerpt, a.category, a.level,
                 a.created_at, a.updated_at, a.author, a.read_time, a.image, a.alt
          FROM articles_fts
-         INNER JOIN articles a ON a.slug = articles_fts.slug
+         INNER JOIN articles a
+           ON a.slug = articles_fts.slug AND a.category = articles_fts.category
          ${where}
          ORDER BY bm25(articles_fts)
          LIMIT ? OFFSET ?`
@@ -545,7 +552,8 @@ class DatabaseClient {
       this.env.DB.prepare(
         `SELECT COUNT(*) as total
          FROM articles_fts
-         INNER JOIN articles a ON a.slug = articles_fts.slug
+         INNER JOIN articles a
+           ON a.slug = articles_fts.slug AND a.category = articles_fts.category
          ${where}`
       )
         .bind(...bindings)
@@ -655,23 +663,23 @@ class DatabaseClient {
 
       statements.push(
         this.env.DB.prepare(
-          `DELETE FROM article_tags WHERE article_id IN (SELECT id FROM articles WHERE slug = ?)`
-        ).bind(article.slug)
+          `DELETE FROM article_tags WHERE article_id IN (SELECT id FROM articles WHERE slug = ? AND category = ?)`
+        ).bind(article.slug, article.category)
       );
 
       for (const tag of article.tags ?? []) {
         statements.push(
           this.env.DB.prepare(
             `INSERT INTO article_tags (article_id, tag)
-             SELECT id, ? FROM articles WHERE slug = ?`
-          ).bind(tag, article.slug)
+             SELECT id, ? FROM articles WHERE slug = ? AND category = ?`
+          ).bind(tag, article.slug, article.category)
         );
       }
 
       statements.push(
-        this.env.DB.prepare("DELETE FROM articles_fts WHERE slug = ?").bind(
-          article.slug
-        )
+        this.env.DB.prepare(
+          "DELETE FROM articles_fts WHERE slug = ? AND category = ?"
+        ).bind(article.slug, article.category)
       );
       statements.push(
         this.env.DB.prepare(
@@ -722,14 +730,17 @@ class DatabaseClient {
       .run();
 
     const article = (await this.env.DB.prepare(
-      "SELECT slug FROM articles WHERE id = ?"
+      "SELECT slug, category FROM articles WHERE id = ?"
     )
       .bind(articleId)
-      .first()) as { slug: string } | null;
+      .first()) as { slug: string; category?: string } | null;
 
     // Invalidate the per-article cache; list pages refresh when their TTL expires.
     if (article) {
       this.cacheDelete(`article:${article.slug}`);
+      if (article.category) {
+        this.cacheDelete(`article:${article.slug}:${article.category}`);
+      }
     }
   }
 }

@@ -2,7 +2,7 @@ import type { MetadataRoute } from "next";
 import { authors } from "@/lib/authors";
 import { normalizeCategory } from "@/lib/blog-paths";
 import { getSiteUrl } from "@/lib/site-brand";
-import { SITE_VERTICALS } from "@/lib/site-catalog";
+import { ENGLISH_LEARNING_SECTIONS, SITE_VERTICALS } from "@/lib/site-catalog";
 import {
   countPublishedArticles,
   listPublishedArticles,
@@ -37,6 +37,12 @@ function staticUrls(
       lastModified: mostRecent,
       changeFrequency: "weekly" as const,
       priority: 0.8,
+    })),
+    ...ENGLISH_LEARNING_SECTIONS.map((section) => ({
+      url: `${baseUrl}${section.href}`,
+      lastModified: mostRecent,
+      changeFrequency: "weekly" as const,
+      priority: 0.85,
     })),
   ];
 

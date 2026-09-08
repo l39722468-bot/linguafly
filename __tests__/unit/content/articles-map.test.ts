@@ -59,6 +59,26 @@ describe("articleRecordToBlogPost", () => {
     expect(input.featured).toBe(true);
     expect(input.isPublished).toBe(true);
   });
+
+  it("marks English-learning archive posts as published for D1 even without the flag", () => {
+    const article: BlogPost = {
+      slug: "ingles-para-viajar",
+      title: "Inglés para viajar",
+      date: "2025-01-01",
+      author: "linguafly-team",
+      excerpt: "ex",
+      category: "viajes",
+      readTime: "8 min",
+      keywords: ["viajes"],
+      canonical: "https://linguafly.app/blog/viajes/ingles-para-viajar",
+      content: "hola",
+    };
+
+    expect(blogPostToArticleInput(article).isPublished).toBe(true);
+    expect(blogPostToArticleInput(article).canonical).toBe(
+      "https://linguafly.app/blog/viajes/ingles-para-viajar"
+    );
+  });
 });
 
 describe("ftsMatchQuery", () => {

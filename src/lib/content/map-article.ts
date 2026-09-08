@@ -1,7 +1,7 @@
 import { getAuthor } from "@/lib/authors";
 import { SITE_BRAND_NAME } from "@/lib/site-brand";
 import { normalizeCategory } from "@/lib/blog-paths";
-import type { BlogPost } from "@/lib/blog";
+import { isPublicPublishedArticle, type BlogPost } from "@/lib/blog";
 import type { ArticleFaq, ArticleInput, ArticleRecord } from "@/lib/db/client";
 
 function parseJsonArray<T>(value: unknown): T[] {
@@ -76,6 +76,6 @@ export function blogPostToArticleInput(article: BlogPost): ArticleInput {
     canonical: article.canonical,
     publishedAt: article.date,
     updatedAt: article.updatedDate || article.date,
-    isPublished: article.published === true,
+    isPublished: isPublicPublishedArticle(article),
   };
 }

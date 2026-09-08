@@ -9,7 +9,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getBlogArticles } from '../src/lib/blog';
 import { buildBlogCourseRelations } from '../src/lib/blog-course-map';
-import { PUBLIC_ARTICLE_CATEGORIES } from '../src/lib/site-catalog';
+import { MAGAZINE_ARTICLE_CATEGORIES } from '../src/lib/site-catalog';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_DIR = path.join(ROOT, 'src', 'generated');
@@ -41,14 +41,16 @@ type StoredArticle = {
 function main() {
   fs.mkdirSync(OUT_DIR, { recursive: true });
 
-  const articles = getBlogArticles();
+  const articles = getBlogArticles().filter((article) =>
+    (MAGAZINE_ARTICLE_CATEGORIES as readonly string[]).includes(article.category)
+  );
   if (articles.length === 0) {
     throw new Error(
       '[export-blog-data] 0 artículos leídos desde src/content/blog — abortando (no sobrescribir con vacío).'
     );
   }
 
-  // Solo se publica la web nueva: contar markdown de las tres temáticas públicas.
+  // El JSON embebible del Worker solo lleva la revista (D1 sirve el archivo de inglés).
   const blogDir = path.join(ROOT, 'src/content/blog');
   const countMd = (dir: string): number => {
     if (!fs.existsSync(dir)) return 0;
@@ -63,7 +65,7 @@ function main() {
   };
   let mdCount = 0;
   try {
-    mdCount = PUBLIC_ARTICLE_CATEGORIES.reduce(
+    mdCount = MAGAZINE_ARTICLE_CATEGORIES.reduce(
       (sum, category) => sum + countMd(path.join(blogDir, category)),
       0,
     );

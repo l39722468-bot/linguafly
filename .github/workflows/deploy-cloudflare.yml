@@ -23,7 +23,7 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -44,10 +44,21 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           CI: true
 
-      - name: Seed magazine articles into D1
+      - name: Seed magazine and English-learning articles into D1
         run: |
-          npx tsx scripts/sync-articles-to-d1.ts --sql-out /tmp/seed-articles.sql
-          npx wrangler d1 execute linguafly_db --remote --file=/tmp/seed-articles.sql --yes
+          SEED_DIR=/tmp/d1-seed
+          rm -rf "$SEED_DIR"
+          npx tsx scripts/sync-articles-to-d1.ts --sql-out-dir "$SEED_DIR"
+          shopt -s nullglob
+          files=("$SEED_DIR"/*.sql)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "::error::No D1 seed SQL files were generated."
+            exit 1
+          fi
+          for f in "${files[@]}"; do
+            echo "Seeding $(basename "$f")"
+            npx wrangler d1 execute linguafly_db --remote --file="$f" --yes
+          done
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}

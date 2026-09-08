@@ -84,11 +84,13 @@ export async function getRelatedPublishedArticles(
 ): Promise<BlogPost[]> {
   const db = await getContentDb();
   const picked: BlogPost[] = [];
-  const seen = new Set<string>([currentSlug]);
+  const seen = new Set<string>([`${normalizeCategory(category)}:${currentSlug}`]);
 
   const push = (article: BlogPost | undefined | null) => {
-    if (!article || seen.has(article.slug) || picked.length >= limit) return;
-    seen.add(article.slug);
+    if (!article) return;
+    const key = `${normalizeCategory(article.category)}:${article.slug}`;
+    if (seen.has(key) || picked.length >= limit) return;
+    seen.add(key);
     picked.push(article);
   };
 

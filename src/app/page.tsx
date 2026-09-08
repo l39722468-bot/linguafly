@@ -6,7 +6,7 @@ import type { Metadata } from "next";
 import { listPublishedArticles } from "@/lib/content/articles";
 import { HOME_ARTICLE_LIMIT } from "@/lib/content/pagination";
 import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
-import { SITE_DESCRIPTION, SITE_TAGLINE, SITE_VERTICALS } from "@/lib/site-catalog";
+import { ENGLISH_LEARNING_SECTIONS, SITE_DESCRIPTION, SITE_TAGLINE, SITE_VERTICALS } from "@/lib/site-catalog";
 
 export const dynamic = "force-dynamic";
 
@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "artículos de idiomas",
     "alimentación",
     "entrenamiento",
-    "guías prácticas",
+    "aprender inglés",
     SITE_BRAND_NAME,
   ],
   alternates: {
@@ -40,7 +40,7 @@ export default async function HomePage() {
           <div className="absolute inset-0 bg-gradient-to-br from-coral-50 via-cream-100 to-sky-50" />
           <div className="relative mx-auto max-w-6xl text-center">
             <p className="mb-6 inline-flex items-center gap-2 rounded-full bg-white px-5 py-2 text-sm font-black text-coral-700 shadow-sm">
-              Nueva revista · tres temáticas
+              Nueva revista + archivo de inglés
             </p>
             <h1 className="font-display mb-6 text-4xl font-black leading-tight text-slate-900 sm:text-6xl lg:text-7xl">
               Idiomas, alimentación
@@ -50,7 +50,7 @@ export default async function HomePage() {
               </span>
             </h1>
             <p className="mx-auto mb-10 max-w-2xl text-lg font-medium text-slate-600 sm:text-xl">
-              Artículos nuevos, escritos para usarse. La web anterior de cursos de inglés queda aparcada: de momento no publicamos nada de lo antiguo.
+              Artículos nuevos de idiomas, alimentación y entrenamiento, y el archivo de guías para aprender inglés en las mismas URLs de siempre.
             </p>
             <div className="flex flex-col items-center justify-center gap-3 sm:flex-row">
               <Link
@@ -89,6 +89,27 @@ export default async function HomePage() {
           </div>
         </section>
 
+        <section className="px-4 pb-20 sm:px-6 lg:px-8">
+          <div className="mx-auto max-w-6xl rounded-3xl border border-slate-200 bg-white p-8 shadow-sm">
+            <p className="text-sm font-black uppercase tracking-widest text-coral-600">Aprender inglés</p>
+            <h2 className="font-display mb-3 text-3xl font-black text-slate-900">Archivo de guías</h2>
+            <p className="mb-6 max-w-2xl text-slate-600">
+              Gramática, viajes, trabajo, exámenes y cursos por nivel. Cada artículo conserva su URL canónica /blog/categoría/slug.
+            </p>
+            <div className="flex flex-wrap gap-2">
+              {ENGLISH_LEARNING_SECTIONS.map((section) => (
+                <Link
+                  key={section.slug}
+                  href={section.href}
+                  className={`rounded-full px-3 py-1.5 text-sm font-bold ${section.tone.badge}`}
+                >
+                  {section.icon} {section.shortName}
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+
         {featured && (
           <section className="px-4 pb-20 sm:px-6 lg:px-8">
             <div className="mx-auto max-w-6xl">
@@ -103,7 +124,7 @@ export default async function HomePage() {
               </div>
               <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
                 {articles.slice(0, 6).map((article) => (
-                  <MagazineArticleCard key={article.slug} article={article} />
+                  <MagazineArticleCard key={`${article.category}-${article.slug}`} article={article} />
                 ))}
               </div>
             </div>

@@ -3,7 +3,11 @@ import path from "path";
 import matter from "gray-matter";
 import { Author, getAuthor } from "./authors";
 import { SITE_BRAND_NAME } from "./site-brand";
-import { isPublicArticleCategory } from "./site-catalog";
+import {
+  isEnglishLearningCategory,
+  isMagazineArticleCategory,
+  isPublicArticleCategory,
+} from "./site-catalog";
 import {
   getArticlePath,
   getCanonicalTopicPath,
@@ -46,7 +50,7 @@ export interface BlogPost {
   /** Slugs de artículos a priorizar en «Artículos relacionados» (frontmatter `related_routes`). */
   relatedRoutes?: string[];
   featured?: boolean;
-  /** Solo los artículos con `published: true` salen a la web nueva. */
+  /** En revista: solo `published: true`. En el archivo de inglés el flag suele faltar y se publica igual. */
   published?: boolean;
   canonical?: string;
   downloadPdf?: boolean;
@@ -181,8 +185,19 @@ function prioritizeRecentCourseArticles(articles: BlogPost[]): BlogPost[] {
   }
 }
 
-function isPublicPublishedArticle(article: BlogPost): boolean {
-  return article.published === true && isPublicArticleCategory(article.category);
+/**
+ * Qué markdown entra en D1 / listados públicos:
+ * - revista (idiomas, alimentación, entrenamiento): solo `published: true`
+ * - archivo de inglés: todo el markdown de esas categorías (el flag falta en lo antiguo)
+ * - fitness y el resto: fuera
+ */
+export function isPublicPublishedArticle(article: BlogPost): boolean {
+  const category = normalizeCategory(article.category);
+  if (!isPublicArticleCategory(category)) return false;
+  if (isMagazineArticleCategory(category)) {
+    return article.published === true;
+  }
+  return isEnglishLearningCategory(category);
 }
 
 function loadAllArticles(): BlogPost[] {
@@ -196,18 +211,25 @@ function loadAllArticles(): BlogPost[] {
   return allArticlesCache;
 }
 
-/** Todos los markdown del repo, incluida la web antigua aparcada. */
+/** Todos los markdown del repo, incluido fitness y borradores. */
 export function getAllBlogArticles(): BlogPost[] {
   return loadAllArticles();
 }
 
-/** Solo artículos publicados de la web nueva (idiomas, alimentación, entrenamiento). */
+/**
+ * Artículos que se publican en la web nueva: revista + archivo de inglés.
+ * Es el conjunto que se sincroniza a D1.
+ */
 export function getBlogArticles(): BlogPost[] {
   if (publicArticlesCache !== null) {
     return publicArticlesCache;
   }
   publicArticlesCache = loadAllArticles().filter(isPublicPublishedArticle);
   return publicArticlesCache;
+}
+
+export function getArticlesForD1Sync(): BlogPost[] {
+  return getBlogArticles();
 }
 
 export function getArticleBySlug(slug: string, category?: string): BlogPost | null {

@@ -13,7 +13,7 @@ import { optimizeSEOTitle } from "@/utils/seo-utils";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
-import { getVertical, isPublicArticleCategory } from "@/lib/site-catalog";
+import { getPublicCategoryLabel, isPublicArticleCategory } from "@/lib/site-catalog";
 
 export const dynamic = "force-dynamic";
 export const dynamicParams = true;
@@ -115,6 +115,12 @@ const categoryMetadata: Record<string, { name: string, description: string, icon
     icon: "📕",
     color: "from-rose-600 to-red-700"
   },
+  "curso-c1": {
+    name: "Curso de Inglés C1: Guías por Unidad",
+    description: "Artículos explicativos del curso C1: gramática avanzada, vocabulario preciso y práctica unidad a unidad.",
+    icon: "📓",
+    color: "from-slate-600 to-slate-800"
+  },
 };
 
 export async function generateMetadata({
@@ -146,10 +152,11 @@ export async function generateMetadata({
   return {
     title: `${optimizeSEOTitle(meta.name)} | Blog ${SITE_BRAND_NAME}`,
     description: meta.description,
-    keywords:
-      getVertical(category)
-        ? [getVertical(category)!.name.toLowerCase(), "artículos", "guías prácticas"]
-        : undefined,
+    keywords: [
+      getPublicCategoryLabel(category).name.toLowerCase(),
+      "artículos",
+      "guías prácticas",
+    ],
     alternates: {
       canonical: getAbsoluteUrl(canonicalPath),
     },

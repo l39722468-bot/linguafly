@@ -68,8 +68,8 @@ export default async function SobreNosotrosPage() {
             </h1>
             <p className="text-xl text-slate-700 leading-relaxed">
               Somos un proyecto editorial independiente. Publicamos artículos prácticos de
-              <strong> idiomas</strong>, <strong>alimentación</strong> y <strong>entrenamiento</strong>.
-              La plataforma anterior de cursos de inglés permanece en el repositorio, aparcada: de momento no publicamos nada de lo antiguo.
+              <strong> idiomas</strong>, <strong>alimentación</strong> y <strong>entrenamiento</strong>,
+              y el archivo de guías para aprender inglés (gramática, viajes, trabajo, exámenes y cursos por nivel) en las URLs originales.
             </p>
           </header>
 
@@ -78,8 +78,8 @@ export default async function SobreNosotrosPage() {
               Qué publicamos
             </h2>
             <p className="text-slate-700 leading-relaxed mb-4">
-              A día de hoy la revista publica <strong>{totalArticles} artículos</strong> en las tres
-              temáticas de la web nueva. El archivo antiguo no está en el sitemap ni en la navegación.
+              A día de hoy la revista publica <strong>{totalArticles} artículos</strong>: las tres
+              temáticas de la web nueva y el archivo de inglés, indexado en el sitemap con sus URLs canónicas.
             </p>
             <ul className="space-y-3 text-slate-700">
               <li className="flex gap-3">
@@ -98,6 +98,12 @@ export default async function SobreNosotrosPage() {
                 <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
                 <span>
                   <strong>Entrenamiento</strong>: fuerza para principiantes y progresión sin lesionarte.
+                </span>
+              </li>
+              <li className="flex gap-3">
+                <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
+                <span>
+                  <strong>Aprender inglés</strong>: gramática, viajes, trabajo, exámenes, métodos y cursos A1–C1 con las URLs originales.
                 </span>
               </li>
             </ul>

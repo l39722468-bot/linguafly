@@ -27,7 +27,7 @@ export default function NotFound() {
             </h1>
             
             <p className="text-xl text-slate-600 mb-10 max-w-2xl mx-auto leading-relaxed">
-              La página que buscas no existe, se ha movido o pertenece a la web antigua, que ahora está aparcada.
+              La página que buscas no existe o se ha movido. Los artículos de inglés siguen en /blog.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

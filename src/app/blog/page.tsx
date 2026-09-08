@@ -9,7 +9,7 @@ import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
-import { SITE_VERTICALS } from "@/lib/site-catalog";
+import { ENGLISH_LEARNING_SECTIONS, SITE_VERTICALS } from "@/lib/site-catalog";
 
 export const dynamic = "force-dynamic";
 
@@ -24,9 +24,9 @@ export async function generateMetadata({
     page > 1 ? getAbsoluteUrl(`/blog?page=${page}`) : getAbsoluteUrl("/blog");
 
   return {
-    title: `Artículos de idiomas, alimentación y entrenamiento | ${SITE_BRAND_NAME}`,
+    title: `Artículos de idiomas, alimentación, entrenamiento e inglés | ${SITE_BRAND_NAME}`,
     description:
-      "Todos los artículos publicados de la revista: idiomas, alimentación y entrenamiento. Contenido nuevo; la hemeroteca antigua no está publicada.",
+      "Artículos de la revista (idiomas, alimentación y entrenamiento) y el archivo de guías para aprender inglés: gramática, viajes, trabajo, exámenes y cursos por nivel.",
     alternates: {
       canonical,
     },
@@ -59,7 +59,7 @@ export default async function BlogPage({
           <div className="mx-auto max-w-6xl">
             <h1 className="font-display mb-4 text-4xl font-black text-slate-900 sm:text-5xl">Artículos</h1>
             <p className="max-w-2xl text-lg text-slate-600">
-              Publicamos solo las tres temáticas de la web nueva. Lo antiguo sigue en el repositorio, sin salir a producción.
+              Revista nueva y archivo de inglés en las URLs originales. Gramática, viajes, trabajo, exámenes, métodos y cursos por nivel.
               {total > 0 ? ` ${total} artículos publicados.` : ""}
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
@@ -70,6 +70,17 @@ export default async function BlogPage({
                   className={`rounded-full px-4 py-2 text-sm font-black ${vertical.tone.badge}`}
                 >
                   {vertical.icon} {vertical.name}
+                </Link>
+              ))}
+            </div>
+            <div className="mt-4 flex flex-wrap gap-2">
+              {ENGLISH_LEARNING_SECTIONS.map((section) => (
+                <Link
+                  key={section.slug}
+                  href={section.href}
+                  className={`rounded-full px-3 py-1.5 text-xs font-bold ${section.tone.badge}`}
+                >
+                  {section.icon} {section.shortName}
                 </Link>
               ))}
             </div>

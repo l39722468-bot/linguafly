@@ -1,17 +1,49 @@
 /**
- * Catálogo público de la web nueva.
+ * Catálogo público de la revista.
  *
- * La plataforma antigua (cursos, hubs de inglés, 800+ artículos legacy)
- * permanece en el repo pero no se publica: solo salen estas tres temáticas.
+ * Temáticas propias (idiomas / alimentación / entrenamiento) más el archivo
+ * de artículos para aprender inglés, servido desde D1 en las URLs originales
+ * `/blog/{categoria}/{slug}` para no romper SEO.
  */
 
-export const PUBLIC_ARTICLE_CATEGORIES = [
+export const MAGAZINE_ARTICLE_CATEGORIES = [
   "idiomas",
   "alimentacion",
   "entrenamiento",
 ] as const;
 
+export const ENGLISH_LEARNING_CATEGORIES = [
+  "idiomas",
+  "gramatica",
+  "viajes",
+  "trabajo",
+  "examenes",
+  "metodos",
+  "habilidades",
+  "curso-a1",
+  "curso-a2",
+  "curso-b1",
+  "curso-b2",
+  "curso-c1",
+] as const;
+
+export const PUBLIC_ARTICLE_CATEGORIES = [
+  ...MAGAZINE_ARTICLE_CATEGORIES,
+  "gramatica",
+  "viajes",
+  "trabajo",
+  "examenes",
+  "metodos",
+  "habilidades",
+  "curso-a1",
+  "curso-a2",
+  "curso-b1",
+  "curso-b2",
+  "curso-c1",
+] as const;
+
 export type PublicArticleCategory = (typeof PUBLIC_ARTICLE_CATEGORIES)[number];
+export type MagazineArticleCategory = (typeof MAGAZINE_ARTICLE_CATEGORIES)[number];
 
 export type VerticalTone = {
   badge: string;
@@ -22,7 +54,7 @@ export type VerticalTone = {
 };
 
 export type SiteVertical = {
-  slug: PublicArticleCategory;
+  slug: MagazineArticleCategory;
   href: string;
   blogHref: string;
   name: string;
@@ -33,11 +65,29 @@ export type SiteVertical = {
   tone: VerticalTone;
 };
 
+export type EnglishLearningSection = {
+  slug: Exclude<PublicArticleCategory, "alimentacion" | "entrenamiento">;
+  href: string;
+  name: string;
+  shortName: string;
+  description: string;
+  icon: string;
+  tone: VerticalTone;
+};
+
 export const SITE_TAGLINE =
   "Guías claras de idiomas, alimentación y entrenamiento.";
 
 export const SITE_DESCRIPTION =
-  "Revista práctica con artículos de idiomas, alimentación y entrenamiento. Contenido nuevo, sin la web anterior de cursos.";
+  "Revista práctica: artículos de idiomas, alimentación y entrenamiento, y el archivo de guías para aprender inglés.";
+
+const CORAL: VerticalTone = {
+  badge: "bg-coral-100 text-coral-800",
+  gradient: "from-coral-500 to-peach-500",
+  text: "text-coral-700",
+  soft: "bg-coral-50",
+  border: "border-coral-100",
+};
 
 export const SITE_VERTICALS: readonly SiteVertical[] = [
   {
@@ -50,13 +100,7 @@ export const SITE_VERTICALS: readonly SiteVertical[] = [
     description:
       "Cómo estudiar un idioma de verdad: vocabulario que se queda, práctica realista y hábitos que se pueden mantener.",
     icon: "🗣️",
-    tone: {
-      badge: "bg-coral-100 text-coral-800",
-      gradient: "from-coral-500 to-peach-500",
-      text: "text-coral-700",
-      soft: "bg-coral-50",
-      border: "border-coral-100",
-    },
+    tone: CORAL,
   },
   {
     slug: "alimentacion",
@@ -96,14 +140,210 @@ export const SITE_VERTICALS: readonly SiteVertical[] = [
   },
 ] as const;
 
+export const ENGLISH_LEARNING_SECTIONS: readonly EnglishLearningSection[] = [
+  {
+    slug: "gramatica",
+    href: "/blog/gramatica",
+    name: "Gramática",
+    shortName: "Gramática",
+    description: "Tiempos, estructuras y reglas con ejemplos para hispanohablantes.",
+    icon: "📚",
+    tone: {
+      badge: "bg-indigo-100 text-indigo-800",
+      gradient: "from-indigo-600 to-blue-700",
+      text: "text-indigo-700",
+      soft: "bg-indigo-50",
+      border: "border-indigo-100",
+    },
+  },
+  {
+    slug: "viajes",
+    href: "/blog/viajes",
+    name: "Inglés para viajar",
+    shortName: "Viajes",
+    description: "Frases y vocabulario para aeropuertos, hoteles y emergencias.",
+    icon: "✈️",
+    tone: CORAL,
+  },
+  {
+    slug: "trabajo",
+    href: "/blog/trabajo",
+    name: "Inglés para trabajar",
+    shortName: "Trabajo",
+    description: "Emails, entrevistas y vocabulario profesional.",
+    icon: "💼",
+    tone: CORAL,
+  },
+  {
+    slug: "examenes",
+    href: "/blog/examenes",
+    name: "Exámenes oficiales",
+    shortName: "Exámenes",
+    description: "Cambridge, IELTS, TOEFL y certificados: estrategias y guías.",
+    icon: "📝",
+    tone: {
+      badge: "bg-amber-100 text-amber-800",
+      gradient: "from-amber-500 to-orange-500",
+      text: "text-amber-700",
+      soft: "bg-amber-50",
+      border: "border-amber-100",
+    },
+  },
+  {
+    slug: "metodos",
+    href: "/blog/metodos",
+    name: "Métodos",
+    shortName: "Métodos",
+    description: "Técnicas, hábitos y recursos para aprender más rápido.",
+    icon: "🎯",
+    tone: {
+      badge: "bg-pink-100 text-pink-800",
+      gradient: "from-pink-500 to-rose-500",
+      text: "text-pink-700",
+      soft: "bg-pink-50",
+      border: "border-pink-100",
+    },
+  },
+  {
+    slug: "habilidades",
+    href: "/blog/habilidades",
+    name: "Speaking y skills",
+    shortName: "Skills",
+    description: "Speaking, listening, reading y writing con práctica concreta.",
+    icon: "🗣️",
+    tone: {
+      badge: "bg-violet-100 text-violet-800",
+      gradient: "from-violet-500 to-purple-600",
+      text: "text-violet-700",
+      soft: "bg-violet-50",
+      border: "border-violet-100",
+    },
+  },
+  {
+    slug: "curso-a1",
+    href: "/blog/curso-a1",
+    name: "Curso A1",
+    shortName: "A1",
+    description: "Guías por unidad del nivel A1.",
+    icon: "📗",
+    tone: {
+      badge: "bg-emerald-100 text-emerald-800",
+      gradient: "from-emerald-600 to-teal-700",
+      text: "text-emerald-700",
+      soft: "bg-emerald-50",
+      border: "border-emerald-100",
+    },
+  },
+  {
+    slug: "curso-a2",
+    href: "/blog/curso-a2",
+    name: "Curso A2",
+    shortName: "A2",
+    description: "Guías por unidad del nivel A2.",
+    icon: "📘",
+    tone: {
+      badge: "bg-sky-100 text-sky-800",
+      gradient: "from-sky-600 to-indigo-700",
+      text: "text-sky-700",
+      soft: "bg-sky-50",
+      border: "border-sky-100",
+    },
+  },
+  {
+    slug: "curso-b1",
+    href: "/blog/curso-b1",
+    name: "Curso B1",
+    shortName: "B1",
+    description: "Guías por unidad del nivel B1.",
+    icon: "📙",
+    tone: {
+      badge: "bg-amber-100 text-amber-800",
+      gradient: "from-amber-600 to-orange-700",
+      text: "text-amber-700",
+      soft: "bg-amber-50",
+      border: "border-amber-100",
+    },
+  },
+  {
+    slug: "curso-b2",
+    href: "/blog/curso-b2",
+    name: "Curso B2",
+    shortName: "B2",
+    description: "Guías por unidad del nivel B2.",
+    icon: "📕",
+    tone: {
+      badge: "bg-rose-100 text-rose-800",
+      gradient: "from-rose-600 to-red-700",
+      text: "text-rose-700",
+      soft: "bg-rose-50",
+      border: "border-rose-100",
+    },
+  },
+  {
+    slug: "curso-c1",
+    href: "/blog/curso-c1",
+    name: "Curso C1",
+    shortName: "C1",
+    description: "Guías por unidad del nivel C1.",
+    icon: "📓",
+    tone: {
+      badge: "bg-slate-200 text-slate-800",
+      gradient: "from-slate-600 to-slate-800",
+      text: "text-slate-700",
+      soft: "bg-slate-50",
+      border: "border-slate-200",
+    },
+  },
+] as const;
+
 const PUBLIC_CATEGORY_SET = new Set<string>(PUBLIC_ARTICLE_CATEGORIES);
+const MAGAZINE_CATEGORY_SET = new Set<string>(MAGAZINE_ARTICLE_CATEGORIES);
+const ENGLISH_CATEGORY_SET = new Set<string>(ENGLISH_LEARNING_CATEGORIES);
 
 export function isPublicArticleCategory(category: string): boolean {
   return PUBLIC_CATEGORY_SET.has(category.toLowerCase());
 }
 
+export function isMagazineArticleCategory(category: string): boolean {
+  return MAGAZINE_CATEGORY_SET.has(category.toLowerCase());
+}
+
+export function isEnglishLearningCategory(category: string): boolean {
+  return ENGLISH_CATEGORY_SET.has(category.toLowerCase());
+}
+
 export function getVertical(slug: string): SiteVertical | undefined {
   return SITE_VERTICALS.find((vertical) => vertical.slug === slug);
+}
+
+export function getEnglishSection(slug: string): EnglishLearningSection | undefined {
+  return ENGLISH_LEARNING_SECTIONS.find((section) => section.slug === slug);
+}
+
+export function getPublicCategoryLabel(category: string): {
+  name: string;
+  icon: string;
+  tone: VerticalTone;
+} {
+  const vertical = getVertical(category);
+  if (vertical) {
+    return { name: vertical.name, icon: vertical.icon, tone: vertical.tone };
+  }
+  const section = getEnglishSection(category);
+  if (section) {
+    return { name: section.name, icon: section.icon, tone: section.tone };
+  }
+  return {
+    name: category,
+    icon: "📄",
+    tone: {
+      badge: "bg-slate-100 text-slate-700",
+      gradient: "from-slate-500 to-slate-700",
+      text: "text-slate-700",
+      soft: "bg-slate-50",
+      border: "border-slate-200",
+    },
+  };
 }
 
 const EXACT_PUBLIC_PATHS = new Set([
@@ -126,9 +366,7 @@ const EXACT_PUBLIC_PATHS = new Set([
 ]);
 
 const PUBLIC_PREFIXES = [
-  "/blog/idiomas",
-  "/blog/alimentacion",
-  "/blog/entrenamiento",
+  ...PUBLIC_ARTICLE_CATEGORIES.map((category) => `/blog/${category}`),
   "/blog/autor",
   "/sitemaps",
   "/api/articles",
@@ -151,8 +389,8 @@ export function isPublicSitePath(pathname: string): boolean {
 }
 
 /**
- * Destino temporal para la web antigua. 302 a propósito: se podrá
- * republicar lo legacy más adelante sin haber quemado un 301.
+ * La plataforma de cursos interactivos y hubs /blog/temas siguen aparcados.
+ * Los artículos de inglés vuelven a sus URLs canónicas.
  */
 export function getParkedPageRedirect(pathname: string): string | null {
   const path = normalizePathname(pathname);

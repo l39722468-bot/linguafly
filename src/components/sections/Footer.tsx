@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { SITE_BRAND_NAME } from "@/lib/site-brand";
-import { SITE_VERTICALS } from "@/lib/site-catalog";
+import { ENGLISH_LEARNING_SECTIONS, SITE_VERTICALS } from "@/lib/site-catalog";
 
 export function Footer() {
   return (
@@ -13,7 +13,7 @@ export function Footer() {
               <span className="text-xl font-black">{SITE_BRAND_NAME}</span>
             </div>
             <p className="max-w-sm text-sm text-slate-400">
-              Revista de artículos prácticos sobre idiomas, alimentación y entrenamiento. La web anterior de cursos permanece aparcada y no se publica.
+              Revista de artículos prácticos sobre idiomas, alimentación y entrenamiento, más el archivo de guías para aprender inglés.
             </p>
           </div>
 
@@ -28,6 +28,21 @@ export function Footer() {
                 </li>
               ))}
               <li><Link href="/blog" className="transition-colors hover:text-white">Todos los artículos</Link></li>
+            </ul>
+            <h3 className="mb-4 mt-8 font-bold">Aprender inglés</h3>
+            <ul className="space-y-2 text-sm text-slate-400">
+              {ENGLISH_LEARNING_SECTIONS.slice(0, 6).map((section) => (
+                <li key={section.slug}>
+                  <Link href={section.href} className="transition-colors hover:text-white">
+                    {section.name}
+                  </Link>
+                </li>
+              ))}
+              <li>
+                <Link href="/blog/curso-a1" className="transition-colors hover:text-white">
+                  Cursos A1–C1
+                </Link>
+              </li>
             </ul>
           </div>
 

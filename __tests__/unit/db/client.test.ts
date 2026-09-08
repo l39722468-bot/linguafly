@@ -278,7 +278,7 @@ describe("DatabaseClient", () => {
     it("increments the counter and invalidates the article cache", async () => {
       const { env, db, cache } = createEnv();
       const updateStmt = createMockStatement();
-      const slugStmt = createMockStatement([], { slug: "hola-mundo" });
+      const slugStmt = createMockStatement([], { slug: "hola-mundo", category: "viajes" });
       db.prepare
         .mockReturnValueOnce(updateStmt)
         .mockReturnValueOnce(slugStmt);
@@ -293,6 +293,7 @@ describe("DatabaseClient", () => {
       // cache deletion is scheduled via the fallback (no ctx) — flush microtasks
       await Promise.resolve();
       expect(cache.delete).toHaveBeenCalledWith("article:hola-mundo");
+      expect(cache.delete).toHaveBeenCalledWith("article:hola-mundo:viajes");
     });
   });
 
