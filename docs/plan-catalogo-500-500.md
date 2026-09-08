@@ -68,7 +68,7 @@ Campos en los catálogos:
 - **título de trabajo** — punto de partida SEO; se afina al redactar.
 - **intención** — consulta que debe ganar **ese** artículo y ningún otro.
 
-Al redactar: anatomía y SEO de la guía editorial. Slug del catálogo = filename.
+Al redactar: anatomía y SEO de la guía editorial. **~2.000 palabras de cuerpo** (mínimo 2.000). Slug del catálogo = filename.
 
 ---
 

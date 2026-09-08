@@ -72,7 +72,7 @@ description: >-
   (no el excerpt).
 excerpt: >-
   1–2 frases para tarjetas. Puede ser más cortante que la description.
-readTime: 8 min
+readTime: 11 min
 keywords:
   - intención principal (como la buscaría alguien)
   - variante cercana
@@ -96,11 +96,17 @@ Notas:
 ### Cuerpo
 
 1. Párrafo de apertura: el problema real (hambre a las 21:00, tendón vs ego). Nada de definición de diccionario.
-2. 3–5 H2 con un método, una sesión, un plato o una regla.
+2. 5–8 H2 con un método, una sesión, un plato o una regla. Cada H2 avanza el mismo tema; no es un índice de diez artículos.
 3. Una sección de errores habituales o señales de parar.
 4. Cierre corto. El último párrafo puede apuntar al artículo hermano **si aún no se enlazó**.
 
-Longitud útil: **800–1.400 palabras**. Si pasa de 1.800, casi seguro son dos artículos.
+Longitud: **~2.000 palabras de cuerpo** (mínimo 2.000). Es el mismo listón que los artículos de curso. No se rellena con definiciones ni con el tema del satélite de al lado: se profundiza *esta* intención (ejemplos, semana tipo, regresiones, qué hacer el martes feo). Si pasa de 2.400, casi seguro son dos artículos. Si no llega a 2.000, no se publica.
+
+Comprobar:
+
+```bash
+python3 scripts/count_habit_article_words.py
+```
 
 ### Enlaces en el cuerpo (obligatorio)
 
@@ -189,7 +195,7 @@ Orden de decisión:
 1. ¿Cierra un agujero del **núcleo** (cluster A) o de **comer para entrenar** (B)?
 2. ¿La intención es distinta a un artículo ya publicado? (no reescribir macros con otro título)
 3. ¿Tiene al menos **un puente** claro al otro vertical?
-4. ¿Cabe en 1.200 palabras con un método, no con un índice de libro?
+4. ¿Llena ~2.000 palabras con **un** método, no con un índice de libro? Si para llegar al recuento tienes que explicar el artículo de al lado, recorta y enlaza.
 
 Si dos ideas pelean, gana la que **más veces se menciona ya** en los textos publicados y aún no tiene URL.
 
