@@ -697,10 +697,27 @@ NUCLEO_PUBLISHED = {
     "privacidad-al-usar-ia-que-no-pegar-nunca",
 }
 
+WAVE1_PUBLISHED = {
+    "chatgpt-gemini-o-claude-por-donde-empezar",
+    "crear-una-cuenta-de-chatgpt-y-configurar-lo-basico",
+    "primeros-7-dias-un-plan-de-uso-de-ia",
+    "por-que-un-chatbot-se-inventa-datos",
+    "como-comprobar-si-una-respuesta-de-ia-es-fiable",
+    "subir-un-pdf-a-un-chatbot-que-hacer-y-que-no",
+    "conversacion-nueva-o-seguir-el-mismo-hilo",
+    "guardar-un-prompt-que-te-funciono",
+    "que-hacer-cuando-el-chatbot-se-niega",
+    "gpts-personalizados-no-hace-falta-el-primer-mes",
+    "prompt-few-shot-dar-dos-ejemplos-y-parar",
+    "prompt-para-pasar-notas-a-lista-de-tareas",
+}
+
+PUBLISHED_SLUGS = NUCLEO_PUBLISHED | WAVE1_PUBLISHED
+
 
 def mark_published(items: list[dict]) -> None:
     for item in items:
-        if item["slug"] in NUCLEO_PUBLISHED:
+        if item["slug"] in PUBLISHED_SLUGS:
             item["status"] = "publicado"
 
 
@@ -761,8 +778,8 @@ def assert_unique(items: list[dict]) -> None:
     existing = {p.stem for p in folder.glob("*.md")} if folder.exists() else set()
     extra = existing - {i["slug"] for i in items}
     published = {i["slug"] for i in items if i["status"] == "publicado"}
-    if published != NUCLEO_PUBLISHED:
-        raise SystemExit(f"published slugs {sorted(published)} != {sorted(NUCLEO_PUBLISHED)}")
+    if published != PUBLISHED_SLUGS:
+        raise SystemExit(f"published slugs {sorted(published)} != {sorted(PUBLISHED_SLUGS)}")
     missing_files = published - existing
     if extra:
         raise SystemExit(f"markdown on disk not in catalog: {sorted(extra)[:12]}")

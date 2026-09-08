@@ -25,6 +25,8 @@ related_routes:
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - privacidad-al-usar-ia-que-no-pegar-nunca
+  - guardar-un-prompt-que-te-funciono
+  - prompt-few-shot-dar-dos-ejemplos-y-parar
 faqs:
   - question: ¿Qué es un prompt de IA, en una frase?
     answer: "Es el mensaje que le escribes al modelo: la tarea, el contexto y el formato. No es un hechizo. No mejora porque le pongas ‘actúa como un experto mundial’ al principio."
@@ -149,7 +151,7 @@ Compruebas: el 8% en octubre está; la fecha de respuesta no; compras hay que av
 
 Iteración si el modelo pone a Marta como responsable de avisar a compras y el texto no lo dice: “Marta solo aparece en el precio. No le asignes otras tareas. Rehaz la tabla.” Un turno. No un prompt nuevo de 40 líneas.
 
-Este patrón (notas → tabla fiel) se reutiliza. El próximo prompt de “acta” o “lista de tareas” del catálogo profundizará un job. Aquí basta el gesto.
+Este patrón (notas → tabla fiel) se reutiliza. El trabajo de extraer acciones está en [prompt para pasar notas a lista de tareas](/blog/inteligencia-artificial/prompt-para-pasar-notas-a-lista-de-tareas). Aquí basta el gesto.
 
 ### Un segundo ejemplo: reescribir sin cambiar hechos
 

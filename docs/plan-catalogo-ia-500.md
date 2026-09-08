@@ -8,7 +8,7 @@ Fuente de verdad: `scripts/build_ia_catalog.py` + `scripts/ia_catalog_rows.py`. 
 
 Hay también un JSON generado (`docs/catalogo-inteligencia-artificial-500.json`) para copiar frontmatter. Misma regla: se regenera, no se parchea.
 
-Estado: **4 publicados** (núcleo / oleada 0), **496 pendientes**.
+Estado: **16 publicados** (núcleo + oleada 1), **484 pendientes**.
 
 URL pública futura: `https://linguafly.app/blog/inteligencia-artificial/{slug}`  
 Hub: `/inteligencia-artificial`
@@ -45,7 +45,7 @@ No se recorre el catálogo del 1 al 500. Se cierra un anillo alrededor del núcl
 | Oleada | Qué se escribe | Por qué |
 |---|---|---|
 | 0 | 4 pilares (`nucleo`) — **redactados** | Definición usable, primera sesión, prompt, qué no pegar |
-| 1 | `empezar` (una docena) + satélites de `prompts` que el núcleo ya nombra | Que el lector pueda usar el chat al día siguiente |
+| 1 | `empezar` (10) + 2 satélites de `prompts` — **redactados** | Que el lector pueda usar el chat al día siguiente |
 | 2 | `privacidad` + `limites` (los que más se enlazan desde el núcleo) | Sin esto, el resto es temerario |
 | 3 | `oficina` + `chat-diario` | Trabajo y casa: el volumen de búsqueda útil |
 | 4 | `herramientas` (un job por producto) | Sin otro “qué es ChatGPT” |

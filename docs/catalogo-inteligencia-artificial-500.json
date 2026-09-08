@@ -81,7 +81,7 @@
   },
   {
     "n": 5,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "empezar",
     "slug": "chatgpt-gemini-o-claude-por-donde-empezar",
     "title": "ChatGPT, Gemini o Claude: por dónde empezar",
@@ -101,7 +101,7 @@
   },
   {
     "n": 6,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "empezar",
     "slug": "crear-una-cuenta-de-chatgpt-y-configurar-lo-basico",
     "title": "Crear una cuenta de ChatGPT y configurar lo básico",
@@ -181,7 +181,7 @@
   },
   {
     "n": 10,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "empezar",
     "slug": "subir-un-pdf-a-un-chatbot-que-hacer-y-que-no",
     "title": "Subir un PDF a un chatbot: qué hacer y qué no",
@@ -221,7 +221,7 @@
   },
   {
     "n": 12,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "empezar",
     "slug": "por-que-un-chatbot-se-inventa-datos",
     "title": "Por qué un chatbot se inventa datos",
@@ -241,7 +241,7 @@
   },
   {
     "n": 13,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "empezar",
     "slug": "como-comprobar-si-una-respuesta-de-ia-es-fiable",
     "title": "Cómo comprobar si una respuesta de IA es fiable",
@@ -341,7 +341,7 @@
   },
   {
     "n": 18,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "empezar",
     "slug": "conversacion-nueva-o-seguir-el-mismo-hilo",
     "title": "Conversación nueva o seguir el mismo hilo",
@@ -361,7 +361,7 @@
   },
   {
     "n": 19,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "empezar",
     "slug": "guardar-un-prompt-que-te-funciono",
     "title": "Guardar un prompt que te funcionó",
@@ -521,7 +521,7 @@
   },
   {
     "n": 27,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "empezar",
     "slug": "gpts-personalizados-no-hace-falta-el-primer-mes",
     "title": "GPTs personalizados: no hace falta el primer mes",
@@ -601,7 +601,7 @@
   },
   {
     "n": 31,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "empezar",
     "slug": "que-hacer-cuando-el-chatbot-se-niega",
     "title": "Qué hacer cuando el chatbot se niega",
@@ -621,7 +621,7 @@
   },
   {
     "n": 32,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "empezar",
     "slug": "primeros-7-dias-un-plan-de-uso-de-ia",
     "title": "Primeros 7 días: un plan de uso de IA",
@@ -741,7 +741,7 @@
   },
   {
     "n": 38,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "prompts",
     "slug": "prompt-para-pasar-notas-a-lista-de-tareas",
     "title": "Prompt para pasar notas a lista de tareas",
@@ -921,7 +921,7 @@
   },
   {
     "n": 47,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "prompts",
     "slug": "prompt-few-shot-dar-dos-ejemplos-y-parar",
     "title": "Prompt few-shot: dar dos ejemplos y parar",

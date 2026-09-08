@@ -35,6 +35,13 @@ describe("public magazine and English-learning articles", () => {
           article.category === "inteligencia-artificial",
       ),
     ).toBe(true);
+    expect(
+      publicArticles.some(
+        (article) =>
+          article.slug === "chatgpt-gemini-o-claude-por-donde-empezar" &&
+          article.category === "inteligencia-artificial",
+      ),
+    ).toBe(true);
     expect(publicArticles.some((article) => article.category === "fitness")).toBe(false);
   });
 

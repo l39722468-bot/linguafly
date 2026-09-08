@@ -25,6 +25,8 @@ related_routes:
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - como-escribir-un-prompt-que-sirva
+  - subir-un-pdf-a-un-chatbot-que-hacer-y-que-no
+  - gpts-personalizados-no-hace-falta-el-primer-mes
 faqs:
   - question: ¿Qué no debo pegar nunca en ChatGPT u otro chatbot?
     answer: "DNI y documentos de identidad, datos de salud, datos de menores, contraseñas, tarjetas, nóminas, secretos de un cliente o de la empresa, y cualquier texto que identifique a alguien que no ha pedido estar en ese servidor. Si dudas, anonimiza o no lo pegas."
@@ -81,7 +83,7 @@ Mal: pegas el hilo entero con nombre de la vecina, dirección, DNI en el encabez
 Bien: “Persona A, comunidad de vecinos, importe N, plazo de 10 días, el hecho es una derrama mal calculada según el acta del día D. Reescribe en 90 palabras, tono firme, sin insultos. No inventes preceptos.”
 
 **Ejemplo 2. El contrato de alquiler.**  
-Mal: PDF completo con DNI de ambas partes, nómina adjunta, cuenta. Pedir “¿esto es legal?” además de ser un mal uso (no es un abogado) es un envío masivo de datos.  
+Mal: PDF completo con DNI de ambas partes, nómina adjunta, cuenta. Pedir “¿esto es legal?” además de ser un mal uso (no es un abogado) es un envío masivo de datos. Cómo cargar un archivo público y qué recortar está en [subir un PDF a un chatbot: qué hacer y qué no](/blog/inteligencia-artificial/subir-un-pdf-a-un-chatbot-que-hacer-y-que-no).  
 Bien: copias *una cláusula* ya anonimizada (“el fiador responde de…”) y pides: “Explícame esta cláusula en lenguaje llano. Lista tres preguntas para un profesional. No opines si firmar.”
 
 **Ejemplo 3. El parte médico.**  

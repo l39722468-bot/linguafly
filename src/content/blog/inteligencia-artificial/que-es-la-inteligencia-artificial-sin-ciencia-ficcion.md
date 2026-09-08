@@ -25,6 +25,7 @@ related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - como-escribir-un-prompt-que-sirva
   - privacidad-al-usar-ia-que-no-pegar-nunca
+  - por-que-un-chatbot-se-inventa-datos
 faqs:
   - question: ¿Qué es la inteligencia artificial en la práctica?
     answer: "Es un programa que, a partir de muchos ejemplos, predice la siguiente palabra, píxel o acción más probable. En el día a día suele ser un chatbot, un resumen o una sugerencia en el correo. No es una persona, ni un buscador con citas garantizadas, ni un oráculo."
@@ -135,7 +136,7 @@ No sirve, o sirve mal, el primer mes:
 
 Un criterio corto: **si el error te cuesta dinero, salud, derechos o la nota de un trabajo evaluado, la IA es borrador o lista de preguntas, no la respuesta que envías.**
 
-Si quieres el gesto de la primera sesión, no lo alargues aquí. Está en [cómo usar un chatbot de IA por primera vez](/blog/inteligencia-artificial/como-usar-un-chatbot-de-ia-por-primera-vez). Si el problema es que pides “ayúdame” y sale un rollo, el trabajo está en [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva).
+Si quieres el gesto de la primera sesión, no lo alargues aquí. Está en [cómo usar un chatbot de IA por primera vez](/blog/inteligencia-artificial/como-usar-un-chatbot-de-ia-por-primera-vez). Si el problema es que pides “ayúdame” y sale un rollo, el trabajo está en [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva). Si el texto fluye y el dato es falso, [por qué un chatbot se inventa datos](/blog/inteligencia-artificial/por-que-un-chatbot-se-inventa-datos).
 
 ## Cómo usarla el primer día (sin ciencia ficción)
 

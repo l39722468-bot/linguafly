@@ -26,6 +26,7 @@ related_routes:
   - como-escribir-un-prompt-que-sirva
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - lista-de-la-compra-semanal-sencilla
+  - crear-una-cuenta-de-chatgpt-y-configurar-lo-basico
 faqs:
   - question: ¿Cómo usar un chatbot de IA si nunca lo he abierto?
     answer: "Crea la cuenta en la web oficial, elige un texto tuyo que puedas comprobar, pide una sola tarea con formato (lista o tabla) y lee la respuesta con el original al lado. Si inventa un dato, dilo en el siguiente mensaje. A los quince minutos paras."
