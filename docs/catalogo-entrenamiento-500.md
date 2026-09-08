@@ -61,7 +61,7 @@ Estado: **11 publicados**, **489 pendientes**. No redactar en bloque: ver [plan]
 | 28 | pendiente | programacion | `maquinas-o-peso-libre-el-primer-mes` | Máquinas o peso libre el primer mes | máquinas o peso libre principiantes |
 | 29 | pendiente | programacion | `cuantos-ejercicios-por-sesion` | Cuántos ejercicios por sesión | cuántos ejercicios por día fuerza |
 | 30 | pendiente | programacion | `dejar-los-mismos-ejercicios-o-rotarlos` | Dejar los mismos ejercicios o rotarlos | rotar ejercicios o dejarlos fijos |
-| 31 | pendiente | programacion | `rutina-de-fuerza-3-dias-en-el-gimnasio` | Rutina de fuerza 3 días en el gimnasio | rutina fuerza 3 días gimnasio |
+| 31 | publicado | programacion | `rutina-de-fuerza-3-dias-en-el-gimnasio` | Rutina de fuerza 3 días en el gimnasio | rutina fuerza 3 días gimnasio |
 | 32 | pendiente | programacion | `calentamiento-especifico-del-primer-ejercicio` | Calentamiento específico del primer ejercicio | calentamiento específico fuerza |
 | 33 | pendiente | programacion | `empezar-la-sesion-por-el-compuesto` | Empezar la sesión por el compuesto | primer ejercicio compuesto |
 | 34 | pendiente | programacion | `accesorios-al-final-no-al-reves` | Accesorios al final, no al revés | orden accesorios sesión fuerza |
@@ -143,8 +143,8 @@ Estado: **11 publicados**, **489 pendientes**. No redactar en bloque: ver [plan]
 | 110 | pendiente | gestos-casa | `sentadilla-pistol-regresiones-largas` | Sentadilla pistol: regresiones largas | pistol squat progresión |
 | 111 | pendiente | gestos-casa | `hollow-hold-corto` | Hollow hold corto | hollow hold principiantes |
 | 112 | pendiente | gestos-casa | `burpee-por-que-no-esta-en-el-pilar` | Burpee: por qué no está en el pilar | burpees para principiantes sí o no |
-| 113 | pendiente | poco-material | `entrenar-con-una-mochila-como-cargarla` | Entrenar con una mochila: cómo cargarla | entrenar con mochila en casa |
-| 114 | pendiente | poco-material | `bandas-elasticas-un-tiron-y-un-empuje` | Bandas elásticas: un tirón y un empuje | rutina con bandas elásticas principiantes |
+| 113 | publicado | poco-material | `entrenar-con-una-mochila-como-cargarla` | Entrenar con una mochila: cómo cargarla | entrenar con mochila en casa |
+| 114 | publicado | poco-material | `bandas-elasticas-un-tiron-y-un-empuje` | Bandas elásticas: un tirón y un empuje | rutina con bandas elásticas principiantes |
 | 115 | pendiente | poco-material | `un-par-de-mancuernas-que-hacer-con-ellas` | Un par de mancuernas: qué hacer con ellas | rutina con mancuernas en casa |
 | 116 | pendiente | poco-material | `una-kettlebell-swing-mas-tarde-goblet-ahora` | Una kettlebell: swing más tarde, goblet ahora | kettlebell para principiantes |
 | 117 | pendiente | poco-material | `trx-o-anillas-en-casa-remo-y-fondos` | TRX o anillas en casa: remo y fondos | trx en casa principiantes |
