@@ -27,7 +27,9 @@ export async function middleware(request: NextRequest) {
       const url = request.nextUrl.clone();
       url.pathname = parkedRedirect;
       url.search = "";
-      return NextResponse.redirect(url, 302);
+      const response = NextResponse.redirect(url, 301);
+      response.headers.append("Link", canonicalLinkHeaderValue(parkedRedirect));
+      return response;
     }
   }
 

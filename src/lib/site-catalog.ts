@@ -349,7 +349,6 @@ export function getPublicCategoryLabel(category: string): {
 const EXACT_PUBLIC_PATHS = new Set([
   "/",
   "/blog",
-  "/blog/ejercicios-relacionados",
   "/idiomas",
   "/alimentacion",
   "/entrenamiento",
@@ -383,18 +382,25 @@ function normalizePathname(pathname: string): string {
   return stripped || "/";
 }
 
+const COURSE_LEVEL_BLOG: Record<string, string> = {
+  a1: "/blog/curso-a1",
+  a2: "/blog/curso-a2",
+  b1: "/blog/curso-b1",
+  b2: "/blog/curso-b2",
+  c1: "/blog/curso-c1",
+  c2: "/blog/examenes",
+};
+
 export function isPublicSitePath(pathname: string): boolean {
   const path = normalizePathname(pathname);
   if (EXACT_PUBLIC_PATHS.has(path)) return true;
-  // Cursos interactivos: una sola URL canónica por unidad (sin www ni query).
-  if (path.startsWith("/curso-")) return true;
   return PUBLIC_PREFIXES.some((prefix) => path === prefix || path.startsWith(`${prefix}/`));
 }
 
 /**
- * Hubs /blog/temas y el resto de la plataforma legacy siguen aparcados.
- * Cursos /curso-* y el mapa de ejercicios son públicos para que Google
- * reciba rel=canonical en la URL limpia (https, apex, sin tracking).
+ * El Worker de Cloudflare solo sirve artículos. Las unidades /curso-* no
+ * existen ahí: un 200/404 deja a Google sin canónica. 301 a la sección del
+ * blog equivalente, que sí tiene rel=canonical.
  */
 export function getParkedPageRedirect(pathname: string): string | null {
   const path = normalizePathname(pathname);
@@ -403,5 +409,16 @@ export function getParkedPageRedirect(pathname: string): string | null {
   if (path.startsWith("/_next")) return null;
   if (path.startsWith("/blog")) return "/blog";
   if (path === "/fitness") return "/entrenamiento";
+
+  const levelMatch = path.match(/^\/curso-(a1|a2|b1|b2|c1|c2)(?:\/|$)/);
+  if (levelMatch) return COURSE_LEVEL_BLOG[levelMatch[1]] ?? "/blog";
+  if (
+    path.startsWith("/curso-camarero") ||
+    path.startsWith("/curso-logistica") ||
+    path.startsWith("/curso-recepcionista")
+  ) {
+    return "/blog/trabajo";
+  }
+  if (path.startsWith("/curso-")) return "/blog";
   return "/";
 }

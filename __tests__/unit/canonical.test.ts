@@ -48,10 +48,16 @@ describe("canonical URLs", () => {
     );
   });
 
+  it("points parked course URLs at the blog section Google can index", () => {
+    expect(canonicalLinkHeaderValue("/blog/curso-a1")).toBe(
+      '<https://linguafly.app/blog/curso-a1>; rel="canonical"',
+    );
+  });
+
   it("normalizes trailing slashes and emits a Link header Google can use", () => {
     expect(normalizeCanonicalPath("/cookies/")).toBe("/cookies");
     expect(canonicalLinkHeaderValue("/privacidad", "utm_medium=email")).toBe(
-      "<https://linguafly.app/privacidad>; rel=\"canonical\"",
+      '<https://linguafly.app/privacidad>; rel="canonical"',
     );
   });
 });
