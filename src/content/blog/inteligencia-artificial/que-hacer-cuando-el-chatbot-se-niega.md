@@ -25,7 +25,8 @@ related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - como-escribir-un-prompt-que-sirva
   - privacidad-al-usar-ia-que-no-pegar-nunca
-  - por-que-un-chatbot-se-inventa-datos
+  - consejo-medico-el-limite-claro
+  - consejo-juridico-el-limite-claro
 faqs:
   - question: ¿Por qué ChatGPT se niega a responder?
     answer: "Por límites de uso: salud cerrada, petición ilegal, datos que no debe dar, o una política de contenidos que corta el tema. No es un capricho ni un insulto. El producto no es un médico, un juez ni un atajo para saltarse la ley."

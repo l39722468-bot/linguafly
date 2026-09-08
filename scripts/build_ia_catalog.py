@@ -712,7 +712,22 @@ WAVE1_PUBLISHED = {
     "prompt-para-pasar-notas-a-lista-de-tareas",
 }
 
-PUBLISHED_SLUGS = NUCLEO_PUBLISHED | WAVE1_PUBLISHED
+WAVE2_PUBLISHED = {
+    "dni-nie-y-documentos-de-identidad",
+    "historial-medico-fuera-del-chat",
+    "contratos-de-clientes-fuera-del-chat-de-consumidor",
+    "si-el-modelo-se-entrena-con-tus-chats",
+    "menores-cuentas-edad-y-supervision",
+    "chat-temporal-o-modo-que-no-guarda",
+    "confianza-excesiva-el-texto-suena-bien",
+    "antropomorfismo-no-es-tu-amigo",
+    "la-ia-no-sustituye-a-un-profesional-colegiado",
+    "consejo-medico-el-limite-claro",
+    "consejo-juridico-el-limite-claro",
+    "citas-legales-inventadas",
+}
+
+PUBLISHED_SLUGS = NUCLEO_PUBLISHED | WAVE1_PUBLISHED | WAVE2_PUBLISHED
 
 
 def mark_published(items: list[dict]) -> None:

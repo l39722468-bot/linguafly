@@ -6201,7 +6201,7 @@
   },
   {
     "n": 311,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "privacidad",
     "slug": "si-el-modelo-se-entrena-con-tus-chats",
     "title": "Si el modelo se entrena con tus chats",
@@ -6261,7 +6261,7 @@
   },
   {
     "n": 314,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "privacidad",
     "slug": "historial-medico-fuera-del-chat",
     "title": "Historial médico fuera del chat",
@@ -6281,7 +6281,7 @@
   },
   {
     "n": 315,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "privacidad",
     "slug": "contratos-de-clientes-fuera-del-chat-de-consumidor",
     "title": "Contratos de clientes fuera del chat de consumidor",
@@ -6301,7 +6301,7 @@
   },
   {
     "n": 316,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "privacidad",
     "slug": "dni-nie-y-documentos-de-identidad",
     "title": "DNI, NIE y documentos de identidad",
@@ -6341,7 +6341,7 @@
   },
   {
     "n": 318,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "privacidad",
     "slug": "chat-temporal-o-modo-que-no-guarda",
     "title": "Chat temporal o modo que no guarda",
@@ -6541,7 +6541,7 @@
   },
   {
     "n": 328,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "privacidad",
     "slug": "menores-cuentas-edad-y-supervision",
     "title": "Menores: cuentas, edad y supervisión",
@@ -6681,7 +6681,7 @@
   },
   {
     "n": 335,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "limites",
     "slug": "la-ia-no-sustituye-a-un-profesional-colegiado",
     "title": "La IA no sustituye a un profesional colegiado",
@@ -6741,7 +6741,7 @@
   },
   {
     "n": 338,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "limites",
     "slug": "citas-legales-inventadas",
     "title": "Citas legales inventadas",
@@ -6761,7 +6761,7 @@
   },
   {
     "n": 339,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "limites",
     "slug": "confianza-excesiva-el-texto-suena-bien",
     "title": "Confianza excesiva: el texto suena bien",
@@ -6781,7 +6781,7 @@
   },
   {
     "n": 340,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "limites",
     "slug": "antropomorfismo-no-es-tu-amigo",
     "title": "Antropomorfismo: no es tu amigo",
@@ -6961,7 +6961,7 @@
   },
   {
     "n": 349,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "limites",
     "slug": "consejo-medico-el-limite-claro",
     "title": "Consejo médico: el límite claro",
@@ -7001,7 +7001,7 @@
   },
   {
     "n": 351,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "limites",
     "slug": "consejo-juridico-el-limite-claro",
     "title": "Consejo jurídico: el límite claro",

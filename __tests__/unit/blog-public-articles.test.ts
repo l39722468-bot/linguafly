@@ -38,7 +38,7 @@ describe("public magazine and English-learning articles", () => {
     expect(
       publicArticles.some(
         (article) =>
-          article.slug === "chatgpt-gemini-o-claude-por-donde-empezar" &&
+          article.slug === "dni-nie-y-documentos-de-identidad" &&
           article.category === "inteligencia-artificial",
       ),
     ).toBe(true);

@@ -24,9 +24,9 @@ canonical: 'https://linguafly.app/blog/inteligencia-artificial/privacidad-al-usa
 related_routes:
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion
   - como-usar-un-chatbot-de-ia-por-primera-vez
-  - como-escribir-un-prompt-que-sirva
   - subir-un-pdf-a-un-chatbot-que-hacer-y-que-no
-  - gpts-personalizados-no-hace-falta-el-primer-mes
+  - dni-nie-y-documentos-de-identidad
+  - historial-medico-fuera-del-chat
 faqs:
   - question: ¿Qué no debo pegar nunca en ChatGPT u otro chatbot?
     answer: "DNI y documentos de identidad, datos de salud, datos de menores, contraseñas, tarjetas, nóminas, secretos de un cliente o de la empresa, y cualquier texto que identifique a alguien que no ha pedido estar en ese servidor. Si dudas, anonimiza o no lo pegas."
@@ -62,7 +62,7 @@ Si el producto tiene interruptor de “no usar mis chats para entrenar”, úsal
 
 No pegas, nunca, en un chatbot que no sea un entorno expresamente autorizado por tu organización:
 
-- **Identificadores.** DNI, NIE, pasaporte, número de la Seguridad Social, número de colegiado si el contexto lo convierte en dato de una persona, matrícula si apunta a alguien, número de expediente escolar o clínico.
+- **Identificadores.** DNI, NIE, pasaporte, número de la Seguridad Social, número de colegiado si el contexto lo convierte en dato de una persona, matrícula si apunta a alguien, número de expediente escolar o clínico. El satélite: [DNI, NIE y documentos de identidad](/blog/inteligencia-artificial/dni-nie-y-documentos-de-identidad).
 - **Autenticación y dinero.** Contraseñas, códigos SMS, claves de API, números de tarjeta, IBAN, PIN, semillas de cartera, capturas de banca.
 - **Salud.** Informes, analíticas, diagnósticos, fotos clínicas, “me ha salido esto en la piel”, medicación. Preparar *preguntas* para el médico con síntomas genéricos y sin nombre es el borde; pegar el PDF del hospital no.
 - **Menores.** Nombres, fotos, centros, notas, informes de orientación, chats de padres. Cero.

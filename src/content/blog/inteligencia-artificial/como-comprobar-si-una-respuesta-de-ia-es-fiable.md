@@ -26,6 +26,7 @@ related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - subir-un-pdf-a-un-chatbot-que-hacer-y-que-no
   - como-escribir-un-prompt-que-sirva
+  - confianza-excesiva-el-texto-suena-bien
 faqs:
   - question: ¿Cómo comprobar si una respuesta de ChatGPT es fiable?
     answer: "Saca las afirmaciones concretas (cifras, nombres, fechas, leyes, URLs). Ábrela cada una en el original que tú pegaste o en la web oficial. Lo que no aparezca se marca NO ESTÁ y no se usa. El tono seguro no cuenta como prueba."

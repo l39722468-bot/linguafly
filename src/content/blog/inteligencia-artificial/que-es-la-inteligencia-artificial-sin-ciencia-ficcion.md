@@ -26,6 +26,7 @@ related_routes:
   - como-escribir-un-prompt-que-sirva
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - por-que-un-chatbot-se-inventa-datos
+  - antropomorfismo-no-es-tu-amigo
 faqs:
   - question: ¿Qué es la inteligencia artificial en la práctica?
     answer: "Es un programa que, a partir de muchos ejemplos, predice la siguiente palabra, píxel o acción más probable. En el día a día suele ser un chatbot, un resumen o una sugerencia en el correo. No es una persona, ni un buscador con citas garantizadas, ni un oráculo."
