@@ -16,6 +16,10 @@ keywords:
 excerpt: >-
   Progresar no es machacarte. Es añadir un poco de dificultad cuando aún
   controlas el movimiento. Los tendones van más lentos que el ego.
+canonical: 'https://linguafly.app/blog/entrenamiento/progresar-sin-lesionarte'
+related_routes:
+  - rutina-fuerza-principiantes-casa
+  - proteina-hidratos-grasas-guia-practica
 faqs:
   - question: ¿Cuánto debo subir de peso cada semana?
     answer: >-
@@ -76,9 +80,9 @@ Si entras al gimnasio o vuelves tras un parón, **no retomes donde lo dejaste**.
 Progresar también es:
 
 - Dormir lo que puedas (no es un lujo estético).
-- Comer proteína en las comidas principales.
+- [Comer proteína](/blog/alimentacion/proteina-hidratos-grasas-guia-practica) en las comidas principales.
 - No entrenar el mismo patrón al fallo todos los días.
 
 El descanso entre series no es tiempo perdido: es lo que permite que la siguiente repetición sea todavía el ejercicio que querías, y no una versión rota.
 
-Si quieres un punto de partida concreto, combina esta idea con una rutina corta de fuerza y **anota**. El cuaderno aburrido es el mejor anti-lesión que existe: te enseña que ya subiste la semana pasada y que hoy no hace falta inventar un récord.
+Si quieres un punto de partida concreto, combina esta idea con la [rutina corta de fuerza en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa) y **anota**. El cuaderno aburrido es el mejor anti-lesión que existe: te enseña que ya subiste la semana pasada y que hoy no hace falta inventar un récord.

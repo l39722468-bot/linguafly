@@ -16,6 +16,10 @@ keywords:
 excerpt: >-
   No hace falta un menú de chef. Con tres cenas repetibles, una compra y dos
   tupper de base, dejas de decidir con hambre.
+canonical: 'https://linguafly.app/blog/alimentacion/organizar-comidas-de-la-semana'
+related_routes:
+  - proteina-hidratos-grasas-guia-practica
+  - rutina-fuerza-principiantes-casa
 faqs:
   - question: ¿Tengo que hacer meal prep de todos los días?
     answer: No. Basta con dejar listas 1-2 bases (proteína o verdura) y tres cenas que sepas cocinar en 20 minutos. El resto se ensambla.
@@ -84,7 +88,7 @@ Sin volverte nutricionista de Instagram, un plato cotidiano puede responder a tr
 2. ¿Hay **volumen** de verdura o fruta?
 3. ¿Hay un **hidrato** que te deje satisfecho (arroz, pan, patata, pasta)?
 
-Si las tres están, el plato aguanta. El aceite, las especias y el queso son el sabor; no hace falta un protocolo.
+Si las tres están, el plato aguanta. El detalle está en la [guía práctica de proteína, hidratos y grasas](/blog/alimentacion/proteina-hidratos-grasas-guia-practica). Si además entrenas, una [rutina de fuerza corta en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa) se sostiene mejor cuando el plato ya cubre esas tres. El aceite, las especias y el queso son el sabor; no hace falta un protocolo.
 
 ## Qué no hace falta
 

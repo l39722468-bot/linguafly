@@ -16,6 +16,11 @@ keywords:
 excerpt: >-
   Tres días, seis movimientos y una regla: termina pudiendo hacer dos
   repeticiones más. Así se progresa en casa sin convertirte en un gimnasio.
+canonical: 'https://linguafly.app/blog/entrenamiento/rutina-fuerza-principiantes-casa'
+related_routes:
+  - progresar-sin-lesionarte
+  - proteina-hidratos-grasas-guia-practica
+  - organizar-comidas-de-la-semana
 faqs:
   - question: ¿Cuántos días debo entrenar al principio?
     answer: >-
@@ -76,6 +81,8 @@ Anota en el móvil: fecha, repeticiones, cómo se sintió (fácil / justo / lím
 
 ## Días que no entrenas
 
-Camina. Muévete. Duerme. Come algo con proteína en las comidas principales. El entrenamiento es el disparador; la recuperación es el resultado.
+Camina. Muévete. Duerme. Come [proteína en las comidas principales](/blog/alimentacion/proteina-hidratos-grasas-guia-practica). El entrenamiento es el disparador; la recuperación es el resultado. Si la semana se tuerce por la cena a las diez, [organizar las comidas](/blog/alimentacion/organizar-comidas-de-la-semana) evita que el plan de fuerza dependa del pedido automático.
+
+Para no lesionarte al subir repeticiones o dificultad, usa la misma lógica que en [cómo progresar sin lesionarte](/blog/entrenamiento/progresar-sin-lesionarte): una palanca por semana.
 
 Cuando esta plantilla te sepa a poco de forma honesta (no por aburrimiento de un miércoles), añade carga: una mochila en la sentadilla, una goma, o un gimnasio. El salto es más fácil si ya tienes el hábito de **tres sesiones que existen de verdad**.

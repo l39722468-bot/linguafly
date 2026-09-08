@@ -16,6 +16,11 @@ keywords:
 excerpt: >-
   No hace falta pesar la comida. Si en el plato hay proteína, un hidrato que
   te sacia y grasa de verdad (aceite, frutos secos, pescado), vas bien.
+canonical: 'https://linguafly.app/blog/alimentacion/proteina-hidratos-grasas-guia-practica'
+related_routes:
+  - organizar-comidas-de-la-semana
+  - rutina-fuerza-principiantes-casa
+  - progresar-sin-lesionarte
 faqs:
   - question: ¿Tengo que contar macros para comer bien?
     answer: No. Contar puede ayudar en una fase concreta, pero para el día a día basta con un plato con proteína, verdura o fruta, un hidrato y una grasa de calidad.
@@ -35,7 +40,7 @@ Fuentes cotidianas: huevos, yogur y queso, legumbres, pescado, carne, tofu, temp
 
 Señal práctica: **¿ves una fuente de proteína o solo “acompañamiento”?** Un puñado de garbanzos en una ensalada de lechuga no es lo mismo que un plato cuyo centro es la legumbre o el huevo.
 
-Si entrenas fuerza, priorízala en las comidas alrededor del entrenamiento. No por magia anabólica de 20 minutos, sino porque es más fácil cubrir el día si no lo dejas todo para la cena.
+Si [entrenas fuerza](/blog/entrenamiento/rutina-fuerza-principiantes-casa), priorízala en las comidas alrededor del entrenamiento. No por magia anabólica de 20 minutos, sino porque es más fácil cubrir el día si no lo dejas todo para la cena. La [sobrecarga gradual](/blog/entrenamiento/progresar-sin-lesionarte) también pide recuperación: proteína en las comidas principales, no un salto de peso cada sesión.
 
 ## Hidratos: el combustible, no el villano
 
