@@ -155,7 +155,7 @@ describe("DatabaseClient", () => {
         pages: 1,
       });
       expect(cache.put).toHaveBeenCalledWith(
-        "articles:page:2:limit:100",
+        "articles:page:2:limit:100:cat::author:",
         expect.any(String),
         expect.objectContaining({ expirationTtl: 3600 })
       );
@@ -226,8 +226,8 @@ describe("DatabaseClient", () => {
         bound: unknown[];
       }[];
 
-      // log + upsert + tag cleanup + 2 tag inserts + completion log
-      expect(statements).toHaveLength(6);
+      // log + upsert + tag cleanup + 2 tag inserts + fts delete + fts insert + completion
+      expect(statements).toHaveLength(8);
       expect(statements[1].bound).toEqual([
         "a1",
         "A1",
@@ -235,6 +235,18 @@ describe("DatabaseClient", () => {
         "content",
         "viajes",
         null,
+        null,
+        null,
+        null,
+        "[]",
+        0,
+        null,
+        null,
+        "[]",
+        null,
+        null,
+        null,
+        1,
       ]);
       expect(result).toEqual({
         success: true,

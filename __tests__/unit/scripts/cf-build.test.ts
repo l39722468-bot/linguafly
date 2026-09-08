@@ -39,7 +39,7 @@ describe("scripts/cf-build.mjs (article-only Cloudflare build prep)", () => {
     }
   });
 
-  it("swaps sitemap.ts and BlogExerciseMapBanner.tsx for article-only versions and restores them", () => {
+  it("swaps BlogExerciseMapBanner.tsx for the article-only stub and restores it", () => {
     const originals = SWAPPED_FILES.map(({ swapped }) =>
       fs.readFileSync(path.join(ROOT, swapped), "utf-8")
     );

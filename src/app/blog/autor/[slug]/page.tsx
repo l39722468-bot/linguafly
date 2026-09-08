@@ -3,12 +3,14 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { authors } from "@/lib/authors";
-import { getArticlesByAuthor } from "@/lib/blog";
+import { listPublishedArticles } from "@/lib/content/articles";
 import { Metadata } from "next";
 import { Twitter, BookOpen, Award, CheckCircle } from "lucide-react";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
+
+export const dynamic = "force-dynamic";
 
 export async function generateStaticParams() {
   return Object.keys(authors).map(slug => ({
@@ -54,7 +56,11 @@ export default async function AuthorPage({ params }: { params: Promise<{ slug: s
   
   if (!author) notFound();
 
-  const articles = getArticlesByAuthor(slug);
+  const { articles } = await listPublishedArticles({
+    author: slug,
+    page: 1,
+    limit: 24,
+  });
 
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getSiteUrl() },

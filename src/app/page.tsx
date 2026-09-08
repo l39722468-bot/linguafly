@@ -3,9 +3,12 @@ import { Footer } from "@/components/sections/Footer";
 import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
 import Link from "next/link";
 import type { Metadata } from "next";
-import { getBlogArticles } from "@/lib/blog";
+import { listPublishedArticles } from "@/lib/content/articles";
+import { HOME_ARTICLE_LIMIT } from "@/lib/content/pagination";
 import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 import { SITE_DESCRIPTION, SITE_TAGLINE, SITE_VERTICALS } from "@/lib/site-catalog";
+
+export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
   title: `${SITE_TAGLINE.replace(/\.$/, "")} | ${SITE_BRAND_NAME}`,
@@ -22,8 +25,11 @@ export const metadata: Metadata = {
   },
 };
 
-export default function HomePage() {
-  const articles = getBlogArticles();
+export default async function HomePage() {
+  const { articles } = await listPublishedArticles({
+    page: 1,
+    limit: HOME_ARTICLE_LIMIT,
+  });
   const featured = articles.find((article) => article.featured) || articles[0];
 
   return (

@@ -130,6 +130,7 @@ const PUBLIC_PREFIXES = [
   "/blog/alimentacion",
   "/blog/entrenamiento",
   "/blog/autor",
+  "/sitemaps",
   "/api/articles",
   "/api/indexnow",
 ] as const;

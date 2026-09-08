@@ -4,8 +4,23 @@ import matter from "gray-matter";
 import { Author, getAuthor } from "./authors";
 import { SITE_BRAND_NAME } from "./site-brand";
 import { isPublicArticleCategory } from "./site-catalog";
-// Generado por scripts/export-blog-data.ts (cf:build). Fallback cuando no hay fs (Workers).
-import generatedBlogArticles from "@/generated/blog-articles.json";
+import {
+  getArticlePath,
+  getCanonicalTopicPath,
+  getTheoryWorkbookPeerSlug,
+  normalizeCategory,
+  resolveTopicHref,
+  slugify,
+} from "./blog-paths";
+
+export {
+  getArticlePath,
+  getCanonicalTopicPath,
+  getTheoryWorkbookPeerSlug,
+  normalizeCategory,
+  resolveTopicHref,
+  slugify,
+};
 
 const BLOG_DIR = path.join(process.cwd(), "src/content/blog");
 
@@ -40,14 +55,6 @@ export interface BlogPost {
   content: string;
 }
 
-/** Par teoría ↔ cuaderno: `unidad-N-…` ↔ `unidad-N-…-ejercicios-soluciones`. */
-export function getTheoryWorkbookPeerSlug(slug: string): string | null {
-  if (slug.endsWith("-ejercicios-soluciones")) {
-    return slug.slice(0, -"-ejercicios-soluciones".length);
-  }
-  return `${slug}-ejercicios-soluciones`;
-}
-
 function getAllFiles(dirPath: string, arrayOfFiles: string[] = []): string[] {
   if (!fs.existsSync(dirPath)) return [];
   
@@ -67,31 +74,12 @@ function getAllFiles(dirPath: string, arrayOfFiles: string[] = []): string[] {
   return arrayOfFiles;
 }
 
-export function normalizeCategory(category: string): string {
-  return category
-    .toLowerCase()
-    .normalize("NFD")
-    .replace(/[\u0300-\u036f]/g, "")
-    .replace(/\s+/g, "-")
-    .replace(/[^\w-]/g, "");
-}
-
-type StoredBlogArticle = Omit<BlogPost, "authorData">;
-
 function normalizeKeywords(value: unknown): string[] {
   if (!Array.isArray(value)) return [];
   return value
     .filter((keyword): keyword is string => typeof keyword === "string")
     .map((keyword) => keyword.trim())
     .filter(Boolean);
-}
-
-function hydrateStoredArticles(stored: StoredBlogArticle[]): BlogPost[] {
-  return stored.map((a) => ({
-    ...a,
-    keywords: normalizeKeywords(a.keywords),
-    authorData: getAuthor(a.author || "linguafly-team"),
-  }));
 }
 
 function readArticlesFromMarkdown(): BlogPost[] {
@@ -202,24 +190,9 @@ function loadAllArticles(): BlogPost[] {
     return allArticlesCache;
   }
 
-  // 1) Markdown en disco (dev / next build en Node)
+  // Markdown en disco (autoría / tests / sync a D1). Las páginas públicas leen D1.
   const fromFs = readArticlesFromMarkdown();
-  if (fromFs.length > 0) {
-    allArticlesCache = prioritizeRecentCourseArticles(fromFs);
-    return allArticlesCache;
-  }
-
-  // 2) JSON generado en cf:build — único origen viable en Cloudflare Workers (sin fs)
-  const generated = generatedBlogArticles as StoredBlogArticle[];
-  if (Array.isArray(generated) && generated.length > 0) {
-    allArticlesCache = prioritizeRecentCourseArticles(hydrateStoredArticles(generated));
-    return allArticlesCache;
-  }
-
-  console.error(
-    "[BlogLib] No hay artículos: src/content/blog vacío y src/generated/blog-articles.json vacío. Ejecuta: npx tsx scripts/export-blog-data.ts"
-  );
-  allArticlesCache = [];
+  allArticlesCache = prioritizeRecentCourseArticles(fromFs);
   return allArticlesCache;
 }
 
@@ -256,34 +229,13 @@ export function getDuplicateArticleForHub(keywordOrSlug: string): BlogPost | nul
   return getArticleBySlug(hubSlug);
 }
 
-export function getArticlePath(article: Pick<BlogPost, "category" | "slug">): string {
-  return `/blog/${normalizeCategory(article.category)}/${article.slug}`;
-}
-
-export function getCanonicalTopicPath(keywordOrSlug: string): string {
-  const duplicateArticle = getDuplicateArticleForHub(keywordOrSlug);
-  if (duplicateArticle) {
-    return getArticlePath(duplicateArticle);
-  }
-
-  return `/blog/temas/${slugify(keywordOrSlug)}`;
-}
-
-export function resolveTopicHref(href: string): string {
-  const match = href.match(/^\/blog\/temas\/([^?#]+)(\?[^#]*)?(#.*)?$/);
-  if (!match) return href;
-
-  const [, keywordOrSlug, search = "", hash = ""] = match;
-  return `${getCanonicalTopicPath(keywordOrSlug)}${search}${hash}`;
-}
-
 export function getArticlesByCategory(category: string): BlogPost[] {
   const normalizedSearch = normalizeCategory(category);
   return getBlogArticles().filter(article => normalizeCategory(article.category) === normalizedSearch);
 }
 
 export function getRelatedArticles(currentSlug: string, category: string, limit: number = 3): BlogPost[] {
-  const allArticles = getBlogArticles();
+  const allArticles = getAllBlogArticles();
   const bySlug = new Map(allArticles.map((article) => [article.slug, article]));
   const current = bySlug.get(currentSlug);
   const picked: BlogPost[] = [];
@@ -326,19 +278,6 @@ export function getRelatedByKeywords(currentSlug: string, keywords: string[], li
       return article.keywords?.some(k => normalizedKeywords.includes(slugify(k)));
     })
     .slice(0, limit);
-}
-
-export function slugify(text: string): string {
-  return text
-    .toString()
-    .toLowerCase()
-    .normalize('NFD') // normalize accents
-    .replace(/[\u0300-\u036f]/g, '') // remove accents
-    .replace(/\s+/g, '-') // replace spaces with -
-    .replace(/[^\w-]+/g, '') // remove all non-word chars
-    .replace(/--+/g, '-') // replace multiple - with single -
-    .replace(/^-+/, '') // trim - from start of text
-    .replace(/-+$/, ''); // trim - from end of text
 }
 
 export function getArticlesByKeyword(keyword: string): BlogPost[] {
