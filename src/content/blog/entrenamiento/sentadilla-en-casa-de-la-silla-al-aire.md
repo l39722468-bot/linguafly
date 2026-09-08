@@ -22,6 +22,8 @@ excerpt: >-
   Si bajar al aire te da vértigo, siéntate a una silla y levántate. Eso ya es
   el movimiento.
 canonical: 'https://linguafly.app/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire'
+image: /blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/silla.png
+alt: Sentadilla a la silla en el salón, talones en el suelo
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
@@ -56,11 +58,13 @@ El comodín no es fracaso. Es el mismo patrón con un tope. Te sientas. Te levan
 
 La silla arregla tres cosas: el vértigo (hay asiento), la profundidad de récord (no puedes hundirte más que el tablero) y el rebote (un segundo parado abajo). Quien empieza suele medir el éxito en sudor. La sentadilla pide que el martes y el jueves se parezcan. Si al aire los talones se levantan y las rodillas se meten, no has progresado. Has cambiado de ejercicio.
 
-La silla también es el regreso. Semana fea, resfriado leve, escritorio de ocho horas: vuelves al asiento. No es bajar de liga. Los tendones van más lentos que el ego. El ego quiere aire el día uno. El tendón pide semanas.
+La silla también es el regreso. Semana fea, resfriado leve, escritorio de ocho horas: vuelves al asiento. No es bajar de liga. Los tendones tardan más que las ganas de ir al aire.
 
 No hace falta un plato nuevo cada noche. Tres cenas que ya sepas hacer. Aquí: un gesto que ya sepas bajar.
 
 ## La silla estable (setup)
+
+![Sentadilla a la silla: te sientas con control y te levantas, talones apoyados](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/silla.png)
 
 Antes de la primera repetición, prueba el asiento. Si rueda, cámbiala. Si se hunde como un sofá, no es tu estación. Si se va hacia atrás al sentarte, tampoco.
 
@@ -99,6 +103,8 @@ Semana 1. Ocho repeticiones. Tres segundos abajo. Un segundo sentado. Tres serie
 Martes feo. Has dormido poco. El primer descenso ya es un dejar caer. No “cumples las doce”. Haces seis limpias o vuelves a la silla más alta. Mañana no se recupera con doce feas.
 
 ## Quitar el asiento: sentadilla al aire
+
+![Sentadilla al aire: baja hasta donde los talones sigan en el suelo](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/aire.png)
 
 Cuando el contacto es controlado —no un golpe, no un rebote, talón en el suelo— quitas el asiento. No el día que un vídeo te dé vergüenza. El día que las diez a la silla salen con cara de “podía otra”.
 

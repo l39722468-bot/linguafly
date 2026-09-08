@@ -20,6 +20,8 @@ keywords:
 excerpt: >-
   Diez flexiones limpias en mesa ganan a tres en el suelo con la cadera rota.
 canonical: 'https://linguafly.app/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo'
+image: /blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/mesa.png
+alt: Flexión inclinada en mesa, cuerpo en línea recta
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
@@ -66,6 +68,8 @@ No hace falta un test de máximo el domingo. Hace falta una superficie que no se
 
 ## Pared primero: el ángulo es la carga
 
+![Flexión en la pared: manos a la altura del pecho, cuerpo en una línea](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/pared.png)
+
 La pared no es un consuelo. Es la misma flexión con menos palanca. Si te pones casi de pie, las palmas a la altura del pecho y apenas inclinas, el estímulo es pequeño. Sirve el día uno, o el día que el hombro pide paz. No sirve tres meses si ya puedes alejar los pies.
 
 Cómo colocarte:
@@ -85,6 +89,8 @@ Si la frente toca antes que el pecho, estás picando. Acorta el rango o acerca l
 No aguantes la respiración las diez. Diez limpias en pared, holgadas, dos o tres sesiones seguidas: entonces la mesa. No el mismo día “para ver”.
 
 ## Mesa después: primero que no se mueva
+
+![Flexión en mesa: palmas en un tablero estable, cadera alineada](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/mesa.png)
 
 La mesa es el peldaño que más gente malgasta. Se apoyan, el tablero corre, las patas bailan, y llaman a eso flexión inclinada. No lo es. Es un mueble que se escapa y unos hombros que persiguen.
 

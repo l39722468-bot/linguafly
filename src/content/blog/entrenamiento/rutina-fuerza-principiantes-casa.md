@@ -21,6 +21,8 @@ excerpt: >-
   Tres días, seis movimientos y una regla: termina pudiendo hacer dos
   repeticiones más. Así se progresa en casa sin convertirte en un gimnasio.
 canonical: 'https://linguafly.app/blog/entrenamiento/rutina-fuerza-principiantes-casa'
+image: /blog/entrenamiento/rutina-fuerza-principiantes-casa/salon.png
+alt: Salón listo para una sesión de fuerza de 25 minutos
 related_routes:
   - progresar-sin-lesionarte
   - sentadilla-en-casa-de-la-silla-al-aire
@@ -54,6 +56,8 @@ Tampoco es fisioterapia. Si un gesto pincha de forma localizada y empeora al dí
 
 ## Qué hace falta en casa (casi nada)
 
+![Rincón de salón para entrenar: esterilla, silla estable y espacio libre](/blog/entrenamiento/rutina-fuerza-principiantes-casa/salon.png)
+
 Un suelo que no resbale. Una pared o una mesa estable para la flexión inclinada. Una silla que no se vaya hacia atrás para la zancada. Opcional: una toalla, una mochila con libros o una goma. El primer mes puedes vivir sin lo opcional.
 
 Zapatillas o descalzo, si el suelo es serio y no te molestan los pies. Ropa con la que puedas sentarte y empujar. Un temporizador del móvil. Un rincón de dos metros por uno. Los vecinos no tienen que oír saltos a las 22:00: esta rutina no pide plyo.
@@ -82,7 +86,7 @@ Descansa 60-90 segundos entre ejercicios si lo necesitas. Entre vueltas, 2 minut
 1. **Sentadilla** — 8 a 12 repeticiones. Baja como si fueras a sentarte en una silla. Rodillas alineadas con los pies. Peso en talón y mediopié, no en la punta. Si las 12 salen fáciles, alarga el tiempo abajo (3 segundos) antes de inventar un salto.
 2. **Flexión inclinada** (pared o mesa) — 6 a 10. Cuerpo firme, codos a unos 45°. No dejes caer la cadera ni encojas el cuello hacia el suelo. El pecho se acerca a la superficie; la cabeza no llega antes.
 3. **Puente de glúteo** — 10 a 15. Espalda en el suelo, empujas con talones, aprietas glúteo arriba 1 segundo. Si sientes solo lumbar, acerca un poco los pies o reduce el rango hasta que el empuje sea de cadera.
-4. **Plancha** — 20 a 40 segundos. Si la lumbar se hunde, sube las rodillas. Calidad antes que reloj. Respira. Aguantar la respiración 40 segundos no es tronco; es teatro.
+4. **Plancha** — 20 a 40 segundos. Si la lumbar se hunde, sube las rodillas. Calidad antes que reloj. Respira. Aguantar la respiración 40 segundos no fortalece el tronco.
 5. **Zancada estática o paso atrás** — 6 a 8 por pierna. Agárrate a una silla si el equilibrio falla. Eso no es trampa; es técnica. El torso va relativamente alto. El paso no tiene que ser enorme el día uno.
 6. **Remo con toalla o mochila** — 8 a 12. Si no tienes nada, aprieta los omóplatos en el suelo boca abajo (Y o W) 8 repeticiones lentas. El tirón existe aunque no haya barra: ojalá lo notes entre los omóplatos, no solo en el cuello.
 
@@ -126,7 +130,7 @@ Una semana tipo, para no improvisar cada lunes:
 - **Semana 1:** 3 vueltas. Rangos bajos-medios. Aprende el circuito. Termina con sensación de “podía otra”, no de “no me levanto del suelo”.
 - **Semana 2:** mismas versiones, más repeticiones o 5-10 segundos más de plancha.
 - **Semana 3:** una versión un poco más dura en uno o dos gestos (no en los seis a la vez). Por ejemplo, mesa más baja o sentadilla con pausa abajo.
-- **Semana 4:** asientas. No subas dificultad. Si la semana 3 fue justa, repite números. Esta semana no es pereza; es el mismo criterio que en [cómo progresar sin lesionarte](/blog/entrenamiento/progresar-sin-lesionarte): una palanca, y a veces ninguna.
+- **Semana 4:** asientas. No subas dificultad. Si la semana 3 fue justa, repite números. Esta semana no es pereza; es el mismo criterio que en [cómo progresar sin lesionarte](/blog/entrenamiento/progresar-sin-lesionarte): un cambio de dificultad, y a veces ninguno.
 
 Si una sesión sale mal (sueño, estrés, resfriado leve), no “la recuperas” el domingo con doble sesión. Haces la de 15 minutos o saltas el día y mantienes las otras dos. Tres sesiones mediocres en el mes ganan a una heroica y una semana en el sofá.
 

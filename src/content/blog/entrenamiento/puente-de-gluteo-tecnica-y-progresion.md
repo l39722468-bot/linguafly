@@ -18,8 +18,11 @@ keywords:
   - no noto el glúteo en el puente
   - progresión puente de glúteo
 excerpt: >-
-  Empujas con los talones. Arriba, un segundo. El arco lumbar de Instagram no cuenta.
+  Espalda al suelo, pies cerca de las caderas, empujas con los talones. Arriba,
+  un segundo, sin arquear la lumbar.
 canonical: 'https://linguafly.app/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion'
+image: /blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion/arriba.png
+alt: Puente de glúteo arriba, cadera extendida y costillas bajas
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
@@ -38,15 +41,17 @@ faqs:
     answer: "Más adelante. Cuando las 15 con dos pies salgan limpias, con pausa, varias semanas. No el primer día. No es el gesto de esta búsqueda."
 ---
 
-Haces el **puente de glúteos**. Arqueas la lumbar como una foto. Los isquios calambrian. Dices que no notas el glúteo. Ese es el problema real. No es que “no tengas músculo”. Es que empujas mal el suelo.
+Haces el **puente de glúteos** y no queda claro si estás usando el glúteo, la lumbar o los isquios. A veces arqueas la espalda para ganar altura. A veces los isquios calambrian. Este artículo explica la colocación y cómo progresar con tu peso, en casa.
 
-Este texto es técnica y progresión con tu peso. Cómo colocar los pies. Qué hacen las costillas. Qué pasa si calambra el isquio. Dónde va el gesto en los 25 minutos. No es la rutina completa. No es hip thrust con barra. No es el puente con banda.
+No es la rutina completa. No es un hip thrust con barra. No es el puente con banda.
 
-Si un pinchazo lumbar empeora al día siguiente, paras ese gesto. Si hace falta, un profesional. Una línea. No un plan clínico.
+Si un pinchazo lumbar empeora al día siguiente, para ese gesto. Si hace falta, consulta a un profesional.
 
 ## Cómo colocar los pies
 
-Te tumbas boca arriba. Suelo firme. Rodillas arriba. Plantas apoyadas. La distancia de los pies decide casi todo lo demás.
+![Posición inicial del puente de glúteo: boca arriba, rodillas flexionadas, pies apoyados](/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion/inicio.png)
+
+Túmbate boca arriba en un suelo firme. Rodillas flexionadas. Plantas apoyadas. La distancia de los pies decide casi todo lo demás.
 
 Empieza con los pies a la anchura de las caderas. No juntos como un desfile. No abiertos como un plié. Talones bajo las rodillas, o un palmo más cerca de ti. La tibia, al llegar arriba, no tiene que parecer una rampa. Tampoco un ángulo cerrado contra el muslo.
 
@@ -64,11 +69,13 @@ Anota la distancia que te funciona. Sin nota, la próxima sesión vuelves a adiv
 
 ## Costillas, lumbar y el segundo de arriba
 
-El error de Instagram es este: barriga al techo, costillas abiertas, lumbar en arco. Eso no es extensión de cadera. Es extensión de lumbar con teatro.
+![Puente de glúteo arriba: cadera alta, línea de hombros a rodillas, sin arquear la lumbar](/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion/arriba.png)
 
-Antes de empujar, baja un poco las costillas. Como si quisieras abrocharte un abrigo justo debajo del pecho. No hace falta hundir el ombligo. Hace falta no inflarte. El pubis y las costillas se acercan un milímetro. Luego empujas.
+El error habitual es subir la barriga hacia el techo, abrir las costillas y dejar la lumbar en arco. Eso no es extensión de cadera: es arquear la espalda para parecer más alto.
 
-Arriba, **un segundo**. No un minuto. No un rebote. Un segundo en el que el glúteo trabaja y la lumbar no hace de grúa. Si en ese segundo solo sientes la espalda baja, has subido de más o has abierto las costillas. Baja dos centímetros. Repite el segundo.
+Antes de empujar, baja un poco las costillas, como si te abrocharas un abrigo justo debajo del pecho. No hace falta hundir el ombligo. El pubis y las costillas se acercan un milímetro. Luego empujas.
+
+Arriba, **un segundo**. No un minuto. No un rebote. En ese segundo el glúteo trabaja y la lumbar no sustituye. Si solo sientes la espalda baja, has subido de más o has abierto las costillas. Baja dos centímetros. Repite el segundo.
 
 La altura máxima no es el objetivo. El objetivo es cadera extendida sin lumbar extendida. A mucha gente le sobran tres centímetros de “altura” y le falta un segundo de control. Corta el rango. El rango corto y limpio gana al arco bonito.
 
@@ -86,19 +93,22 @@ Pinchazo localizado, un lado, peor al día siguiente: paras el puente. El resto 
 
 ## Si no notas el glúteo
 
-Es la queja más repetida. Haces quince repeticiones. Notas isquios, lumbar, a veces cuádriceps. El glúteo, nada. Entonces abres un vídeo de activación de doce ejercicios. Pierdes el rato. El puente sigue igual.
+Es la queja más repetida: haces quince repeticiones y sientes isquios o lumbar, no el glúteo. No hace falta un circuito de “activación” de doce ejercicios. Primero corrige la colocación.
 
-“Notar” no es un electromiograma. A veces el glúteo trabaja y tú esperabas un incendio. El incendio no es el plan. El plan es el empuje de talón y el segundo de arriba.
+Prueba estos cuatro ajustes, en este orden, tres repeticiones cada uno:
 
-Si de verdad solo hay lumbar o corva, el gesto está mal colocado. Acerca los pies. Baja las costillas. Corta el rango. Pausa. Esas cuatro palancas, en ese orden, suelen devolver el trabajo a la cadera. No hace falta un catálogo de patadas.
+1. Acerca un poco los pies (dos o tres centímetros).
+2. Baja las costillas.
+3. Sube menos: recorta el rango dos centímetros.
+4. Para un segundo arriba, sin rebotar.
 
-Ve más lento. Una repetición de dos segundos arriba y tres abajo te enseña más que veinte rebotes. El rebote es inercia. La inercia no pide glúteo.
+Ve más lento. Dos segundos arriba y tres abajo enseñan más que veinte repeticiones con rebote. El rebote usa inercia y el glúteo trabaja menos.
 
-Puedes poner una mano en el glúteo un par de repeticiones. Si la mano no nota nada y la lumbar sí, recorta altura. Si la mano nota algo y tú “no lo sientes” como en el vídeo, sigue. El vídeo vende ardor.
+Puedes poner una mano en el glúteo un par de repeticiones. Si no notas contracción y la lumbar sí, recorta altura. Si hay algo de trabajo y tú esperabas un ardor fuerte, sigue: el ardor no es el objetivo.
 
-Un par de repeticiones lentas de prueba bastan. No un circuito de activación de cinco minutos.
+Un par de repeticiones lentas de prueba bastan. No un calentamiento extra de cinco minutos.
 
-El interruptor es la distancia de los pies y el arco que no haces. El resto es paciencia de tres semanas. Si después de ajustar pies, costillas y pausa la lumbar pica y la cadera no entra, paras. No insistas “hasta que aparezca”.
+Si después de pies, costillas y pausa la lumbar pica y la cadera no entra, para. No insistas hasta que “aparezca”.
 
 ## Si se te cargan los isquios
 
@@ -122,7 +132,7 @@ En la [rutina de fuerza en casa](/blog/entrenamiento/rutina-fuerza-principiantes
 
 La regla es la misma que en [cómo progresar sin lesionarte](/blog/entrenamiento/progresar-sin-lesionarte): una palanca por semana, cuando aún controlas.
 
-Orden de palancas, para este gesto:
+Orden de progresión, para este gesto:
 
 1. Más repeticiones dentro del rango (de 10 a 12, de 12 a 15). No de 10 a 25.
 2. El segundo de arriba, de verdad. Si ya lo hacías, dos segundos. No cinco.

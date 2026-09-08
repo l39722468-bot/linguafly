@@ -20,6 +20,8 @@ keywords:
 excerpt: >-
   La silla no es trampa. Es cómo dejas de bailar el equilibrio y empiezas a bajar.
 canonical: 'https://linguafly.app/blog/entrenamiento/zancada-estatica-en-casa-con-silla'
+image: /blog/entrenamiento/zancada-estatica-en-casa-con-silla/zancada.png
+alt: Zancada estática junto a una silla de cocina que no rueda
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
@@ -61,6 +63,8 @@ Calcetines en baldosa: no. Zapatillas o descalzo si el suelo es serio. Alfombra 
 La silla no es trampa. Es cómo dejas de negociar cada repetición con el oído interno. Cuando el gesto baje limpio, sueltas dedos. No el primer día porque un reel lo hacía sin manos.
 
 ## Cómo se hace la zancada estática
+
+![Zancada estática: una mano en el respaldo, rodilla de delante sobre el pie](/blog/entrenamiento/zancada-estatica-en-casa-con-silla/zancada.png)
 
 De pie, de lado a la silla. Un pie delante. El otro detrás, en la misma línea o un palmo más estrecho, no en un alambre. El talón de atrás está alto. El de delante, abajo. Si el de delante se levanta, el paso es largo o estás de puntillas. Acorta.
 

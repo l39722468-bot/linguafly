@@ -20,6 +20,8 @@ keywords:
 excerpt: >-
   Saltar el remo porque no se ve es cómo el hombro de escritorio se queja más tarde.
 canonical: 'https://linguafly.app/blog/entrenamiento/remo-con-toalla-o-mochila-en-casa'
+image: /blog/entrenamiento/remo-con-toalla-o-mochila-en-casa/toalla.png
+alt: Remo con toalla anclada a una puerta cerrada
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
@@ -74,6 +76,8 @@ La toalla tiene que ser larga. Si se te va, envuélvela una vez. Nunca ancles a 
 
 ## Cómo hacer el remo con toalla
 
+![Remo con toalla: puerta cerrada, codos atrás, omóplatos juntos](/blog/entrenamiento/remo-con-toalla-o-mochila-en-casa/toalla.png)
+
 Te colocas de frente al anclaje, pies a la anchura de la cadera. Agarras los dos cabos o el lazo. Das un paso atrás hasta que la toalla esté tensa con los brazos casi largos. El cuerpo forma una línea razonable: no un arco lumbar, no un culo que se va como una sentadilla. Bisagra ligera de cadera, costillas quietas, cuello largo.
 
 Antes de doblar el codo, **baja los hombros**. Lejos de las orejas. Eso no es “activar”. Es no empezar ya encogido. Luego tiras. El codo va hacia atrás y un poco hacia la cadera. El omóplato se acerca a la columna. Imagina que metes los omóplatos en los bolsillos traseros del pantalón.
@@ -91,6 +95,8 @@ Dónde deberías notarlo: entre los omóplatos, un poco en la parte de atrás de
 No tuerzas el tronco para “llegar”. No lances la cabeza atrás. Hombros abajo primero. Tirón después. En la sesión suele ser una estación de 8 a 12, tres vueltas. No un cuarto de hora.
 
 ## Remo con mochila
+
+![Remo con mochila: cadera flexionada, espalda recta, tirón hacia la cadera](/blog/entrenamiento/remo-con-toalla-o-mochila-en-casa/mochila.png)
 
 Si la puerta es floja, si el piso no es tuyo o si la toalla se te va, **mochila**. Libros, un paquete de arroz, botellas cerradas. No el portátil. No un vaso abierto. Cierra la cremallera. Las dos asas a la vez. El peso va centrado, pegado al cuerpo cuando tiras, no dando vueltas.
 

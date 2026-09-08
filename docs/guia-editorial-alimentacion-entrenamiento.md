@@ -20,19 +20,39 @@ Criterio práctico: un plan que se pueda repetir la semana que viene. Fuerza, co
 
 ### Tono
 
-El de los cuatro artículos ya publicados: directo, un poco seco, ejemplos de cocina y de salón. Segunda persona. Frases cortas. Cero jerga de influencer.
+Directo y claro. Segunda persona. Frases cortas. Ejemplos de cocina y de salón. Cero jerga de influencer. En **entrenamiento**, el texto enseña el gesto: pasos, colocación, qué mirar. No es prosa de revista.
 
 Sí:
 
+- “Siéntate a una silla que no ruede y levántate.”
+- “Empuja el suelo con los talones. Arriba, un segundo.”
 - “Tres cenas que ya sepas hacer.”
-- “Los tendones van más lentos que el ego.”
-- “El comodín no es fracaso.”
 
-No:
+No (influencer):
 
 - “¡Desbloquea tu mejor versión!”
 - “Quema grasa en 10 minutos.”
 - “Hack anabólico.”
+
+No (literario / críptico):
+
+- “Notar no es un electromiograma.”
+- “El incendio no es el plan.”
+- “La inercia no pide glúteo.”
+- Metáforas que obligan a descifrar el consejo.
+
+Si una frase suena ingeniosa y no se puede ejecutar, se reescribe. El lector tiene que saber **qué hacer con el cuerpo** en la siguiente repetición.
+
+### Imágenes (entrenamiento)
+
+Los artículos de **entrenamiento** llevan ilustraciones del gesto. Un texto de colocación sin imagen no basta: pies, cadera, silla o toalla hay que verlos.
+
+- Archivos en `public/blog/entrenamiento/<slug>/…`. En el markdown: `![descripción en español](/blog/entrenamiento/<slug>/archivo.png)`.
+- `alt` concreto (“Puente de glúteo arriba: cadera extendida, costillas bajas”), no “imagen 1”.
+- Mínimo **dos** por artículo de técnica (setup + posición de trabajo). La rutina pilar y los satélites de recuperación, al menos **una**.
+- Ilustración educativa, vista de lado o tres cuartos, ropa de casa, forma correcta. No fotos de “ardor” ni de arco lumbar de Instagram.
+- Frontmatter `image:` = la ilustración principal (Open Graph).
+- `alt` también en el frontmatter si la plantilla lo usa.
 
 ### Límites editoriales (no negociables)
 
@@ -234,7 +254,7 @@ La página usa `title` como `<title>` y `description` como meta description. El 
 - Keywords: 6–8. Una cabeza corta + el resto long-tail. Como máximo **un** término compartido con el artículo hermano del otro vertical.
 - FAQs = schema FAQPage. Redáctalas como las escribe la gente en Google.
 - Canonical = URL pública. No cambies el slug de un artículo ya indexable.
-- Imagen: opcional. Si hay, `alt` descriptivo en español.
+- Imagen: **obligatoria en entrenamiento** (gesto visible). En alimentación, opcional. `alt` descriptivo en español.
 
 ### Consultas objetivo del núcleo (no pisarse)
 

@@ -21,6 +21,8 @@ keywords:
 excerpt: >-
   Si tiemblas a los 12 segundos con forma, ese es tu número. Sube cuando no te hunda.
 canonical: 'https://linguafly.app/blog/entrenamiento/plancha-sin-hundir-la-lumbar'
+image: /blog/entrenamiento/plancha-sin-hundir-la-lumbar/plancha.png
+alt: Plancha de antebrazos, cadera alineada con hombros y talones
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
@@ -47,13 +49,15 @@ Esto no es un catálogo de “core”. No vas a leer diez variantes. Vas a leer 
 
 ## Cómo hacer la plancha bien (el cuerpo, no el reloj)
 
+![Plancha de antebrazos: codos bajo los hombros, cadera que no se hunde](/blog/entrenamiento/plancha-sin-hundir-la-lumbar/plancha.png)
+
 Túmbate boca abajo. Apoya antebrazos o palmas. Pies a la anchura de la cadera, o un poco más juntos si te da más calma. Empuja el suelo. Levanta rodillas, cadera y pecho a la vez. No las rodillas primero y la cadera después: eso ya es un plátano a medio nacer.
 
 La línea que buscas es hombros, cadera, talones. No es una regla de obra. Es “si te filmaran de lado, no hay hamaca en la lumbar ni culo al techo”. Mira un vídeo corto lateral, no el espejo de frente. De frente todo parece heroico. De lado se ve la verdad.
 
 **Cadera.** Ni cae ni se dispara arriba. Un truco tosco: aprieta un poco el glúteo y lleva el pubis hacia las costillas, sin convertir el gesto en un rizo de abdominales. Si solo aprietas el culo y dejas el resto flácido, la lumbar sigue libre para hundirse. El paquete es costillas abajo, glúteo despierto, muslos firmes.
 
-**Costillas.** No las dejes colgando hacia el suelo como si el pecho fuera una bolsa. Llévalas un palmo hacia la pelvis. Respiras igual. Aguantar la respiración 40 segundos no es tronco. Es teatro.
+**Costillas.** No las dejes colgando hacia el suelo. Llévalas un palmo hacia la pelvis. Sigue respirando. Aguantar la respiración 40 segundos no fortalece el tronco.
 
 **Hombros.** Encima de codos si vas de antebrazos; encima de muñecas si vas de manos. No los dejes ir hacia las orejas. Empuja el suelo como si quisieras alejarte de él. El cuello no se cuelga entre los brazos. Tampoco miras al techo. Una mancha en el suelo, un palmo por delante de las manos, basta.
 
