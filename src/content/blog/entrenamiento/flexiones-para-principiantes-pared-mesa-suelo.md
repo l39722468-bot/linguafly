@@ -21,7 +21,7 @@ excerpt: >-
   Diez flexiones limpias en mesa ganan a tres en el suelo con la cadera rota.
 canonical: 'https://linguafly.app/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo'
 image: /blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/mesa.png
-alt: Flexión inclinada en mesa, cuerpo en línea recta
+alt: Flexión inclinada en mesa: flecha EMPUJA en las palmas, cuerpo en línea
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
@@ -68,7 +68,7 @@ No hace falta un test de máximo el domingo. Hace falta una superficie que no se
 
 ## Pared primero: el ángulo es la carga
 
-![Flexión en la pared: manos a la altura del pecho, cuerpo en una línea](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/pared.png)
+![Flexión en la pared: EMPUJA con las palmas, cuerpo en una línea](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/pared.png)
 
 La pared no es un consuelo. Es la misma flexión con menos palanca. Si te pones casi de pie, las palmas a la altura del pecho y apenas inclinas, el estímulo es pequeño. Sirve el día uno, o el día que el hombro pide paz. No sirve tres meses si ya puedes alejar los pies.
 
@@ -90,7 +90,7 @@ No aguantes la respiración las diez. Diez limpias en pared, holgadas, dos o tre
 
 ## Mesa después: primero que no se mueva
 
-![Flexión en mesa: palmas en un tablero estable, cadera alineada](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/mesa.png)
+![Flexión en mesa: EMPUJA el tablero, cadera alineada, sin hundir](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/mesa.png)
 
 La mesa es el peldaño que más gente malgasta. Se apoyan, el tablero corre, las patas bailan, y llaman a eso flexión inclinada. No lo es. Es un mueble que se escapa y unos hombros que persiguen.
 
@@ -151,6 +151,8 @@ Si una sesión sale mal (sueño, prisa, estómago vacío), no bajes. Sube un poc
 Semanas, no tardes. Una semana en pared no es un fracaso. Un mes en mesa alta tampoco. El suelo no es un diploma. Es una altura. Llega cuando las de mesa baja ya no te piden la cadera. Si vuelves de un parón, no retomes la última altura de febrero. Retoma una más alta. El cuerpo no guarda el Excel.
 
 ## El suelo: cuándo todavía no
+
+![Flexión en el suelo: EMPUJA, cadera alineada, aspa roja si se hunde](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/suelo.png)
 
 El suelo es el final de esta escalera, no el principio. Todavía no toca si:
 

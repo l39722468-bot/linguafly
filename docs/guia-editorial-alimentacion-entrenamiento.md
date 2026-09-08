@@ -45,14 +45,23 @@ Si una frase suena ingeniosa y no se puede ejecutar, se reescribe. El lector tie
 
 ### Imágenes (entrenamiento)
 
-Los artículos de **entrenamiento** llevan ilustraciones del gesto. Un texto de colocación sin imagen no basta: pies, cadera, silla o toalla hay que verlos.
+Los artículos de **entrenamiento** llevan ilustraciones **del gesto en ejecución**. El lector tiene que ver el cuerpo: pies, rodillas, cadera, tronco, agarre.
 
-- Archivos en `public/blog/entrenamiento/<slug>/…`. En el markdown: `![descripción en español](/blog/entrenamiento/<slug>/archivo.png)`.
-- `alt` concreto (“Puente de glúteo arriba: cadera extendida, costillas bajas”), no “imagen 1”.
-- Mínimo **dos** por artículo de técnica (setup + posición de trabajo). La rutina pilar y los satélites de recuperación, al menos **una**.
-- Ilustración educativa, vista de lado o tres cuartos, ropa de casa, forma correcta. No fotos de “ardor” ni de arco lumbar de Instagram.
-- Frontmatter `image:` = la ilustración principal (Open Graph).
-- `alt` también en el frontmatter si la plantilla lo usa.
+Sí:
+
+- Diagrama plano, no foto: figura simple de lado **haciendo** la repetición.
+- Flechas o símbolos: naranja = dónde empujar; azul = dónde tirar; línea = alineación; aspa roja = error (lumbar hundida, talón que se levanta).
+- Etiquetas cortas en español («EMPUJA», «TALONES», «CODOS ATRÁS»). El cuerpo ocupa el encuadre.
+
+No:
+
+- Foto realista de gimnasio o salón.
+- Persona de pie sonriendo a cámara, planta y silla vacías.
+- Mapas de calor musculares ni recortes de stock.
+
+Archivos en `public/blog/entrenamiento/<slug>/…`. Markdown: `![qué se ve del gesto](/blog/entrenamiento/<slug>/archivo.png)`.
+Mínimo **dos** por artículo de técnica (setup o inicio + posición de trabajo). Rutina pilar: los seis movimientos, no el mueble. Satélites de recuperación: solo si el gesto o la señal se puede ver (caminar, no un sofá).
+Frontmatter `image:` = la ilustración del gesto (Open Graph). `alt` concreto.
 
 ### Límites editoriales (no negociables)
 
@@ -295,7 +304,7 @@ Publicados (núcleo + oleadas 1 y 2):
 | Publicado | entrenamiento | [Puente de glúteo](/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion) |
 | Publicado | entrenamiento | [Plancha sin hundir la lumbar](/blog/entrenamiento/plancha-sin-hundir-la-lumbar) |
 | Publicado | entrenamiento | [Zancada estática con silla](/blog/entrenamiento/zancada-estatica-en-casa-con-silla) |
-| Publicado | entrenamiento | [Remo con toalla o mochila](/blog/entrenamiento/remo-con-toalla-o-mochila-en-casa) |
+| Publicado | entrenamiento | [Remo con mochila](/blog/entrenamiento/remo-con-toalla-o-mochila-en-casa) |
 
 Backlog: [plan 500+500](./plan-catalogo-500-500.md). Siguiente oleada = 3 días gimnasio, poco material, compra de presupuesto.
 

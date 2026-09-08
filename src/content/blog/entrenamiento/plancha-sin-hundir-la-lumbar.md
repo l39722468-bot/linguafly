@@ -22,7 +22,7 @@ excerpt: >-
   Si tiemblas a los 12 segundos con forma, ese es tu número. Sube cuando no te hunda.
 canonical: 'https://linguafly.app/blog/entrenamiento/plancha-sin-hundir-la-lumbar'
 image: /blog/entrenamiento/plancha-sin-hundir-la-lumbar/plancha.png
-alt: Plancha de antebrazos, cadera alineada con hombros y talones
+alt: Plancha de antebrazos: línea de cabeza a talones, aspa roja si la cadera se hunde
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
@@ -49,7 +49,7 @@ Esto no es un catálogo de “core”. No vas a leer diez variantes. Vas a leer 
 
 ## Cómo hacer la plancha bien (el cuerpo, no el reloj)
 
-![Plancha de antebrazos: codos bajo los hombros, cadera que no se hunde](/blog/entrenamiento/plancha-sin-hundir-la-lumbar/plancha.png)
+![Plancha: línea verde de cabeza a talones, aspa roja si se hunde la lumbar](/blog/entrenamiento/plancha-sin-hundir-la-lumbar/plancha.png)
 
 Túmbate boca abajo. Apoya antebrazos o palmas. Pies a la anchura de la cadera, o un poco más juntos si te da más calma. Empuja el suelo. Levanta rodillas, cadera y pecho a la vez. No las rodillas primero y la cadera después: eso ya es un plátano a medio nacer.
 

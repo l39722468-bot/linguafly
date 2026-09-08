@@ -21,8 +21,8 @@ excerpt: >-
   Tres días, seis movimientos y una regla: termina pudiendo hacer dos
   repeticiones más. Así se progresa en casa sin convertirte en un gimnasio.
 canonical: 'https://linguafly.app/blog/entrenamiento/rutina-fuerza-principiantes-casa'
-image: /blog/entrenamiento/rutina-fuerza-principiantes-casa/salon.png
-alt: Salón listo para una sesión de fuerza de 25 minutos
+image: /blog/entrenamiento/rutina-fuerza-principiantes-casa/gestos.png
+alt: Seis gestos con flechas: sentadilla, flexión, puente, plancha, zancada y remo con mochila
 related_routes:
   - progresar-sin-lesionarte
   - sentadilla-en-casa-de-la-silla-al-aire
@@ -31,7 +31,7 @@ related_routes:
   - proteina-hidratos-grasas-guia-practica
 faqs:
   - question: ¿Cuál es una buena rutina de fuerza en casa para principiantes?
-    answer: Un full body de 20-30 minutos, tres días por semana, con sentadilla, flexión adaptada, puente de glúteo, plancha, zancada y un remo (toalla o mochila). El patrón importa más que tener mancuernas.
+    answer: Un full body de 20-30 minutos, tres días por semana, con sentadilla, flexión adaptada, puente de glúteo, plancha, zancada y un remo con mochila. El patrón importa más que tener mancuernas.
   - question: ¿Se puede ganar fuerza sin material?
     answer: Sí. El peso corporal basta al principio si progresas (más repeticiones, más control, versión más difícil). Una mochila o una goma llegan después, no el primer día.
   - question: ¿Cuántos días a la semana entrenar fuerza al principio?
@@ -56,9 +56,9 @@ Tampoco es fisioterapia. Si un gesto pincha de forma localizada y empeora al dí
 
 ## Qué hace falta en casa (casi nada)
 
-![Rincón de salón para entrenar: esterilla, silla estable y espacio libre](/blog/entrenamiento/rutina-fuerza-principiantes-casa/salon.png)
+![Los seis gestos: sentadilla, flexión, puente, plancha, zancada y remo con mochila, con flechas de empuje y tirón](/blog/entrenamiento/rutina-fuerza-principiantes-casa/gestos.png)
 
-Un suelo que no resbale. Una pared o una mesa estable para la flexión inclinada. Una silla que no se vaya hacia atrás para la zancada. Opcional: una toalla, una mochila con libros o una goma. El primer mes puedes vivir sin lo opcional.
+Un suelo que no resbale. Una pared o una mesa estable para la flexión inclinada. Una silla que no se vaya hacia atrás para la zancada. Opcional: una mochila con libros o una goma. El primer mes puedes vivir sin lo opcional.
 
 Zapatillas o descalzo, si el suelo es serio y no te molestan los pies. Ropa con la que puedas sentarte y empujar. Un temporizador del móvil. Un rincón de dos metros por uno. Los vecinos no tienen que oír saltos a las 22:00: esta rutina no pide plyo.
 
@@ -88,7 +88,7 @@ Descansa 60-90 segundos entre ejercicios si lo necesitas. Entre vueltas, 2 minut
 3. **Puente de glúteo** — 10 a 15. Espalda en el suelo, empujas con talones, aprietas glúteo arriba 1 segundo. Si sientes solo lumbar, acerca un poco los pies o reduce el rango hasta que el empuje sea de cadera.
 4. **Plancha** — 20 a 40 segundos. Si la lumbar se hunde, sube las rodillas. Calidad antes que reloj. Respira. Aguantar la respiración 40 segundos no fortalece el tronco.
 5. **Zancada estática o paso atrás** — 6 a 8 por pierna. Agárrate a una silla si el equilibrio falla. Eso no es trampa; es técnica. El torso va relativamente alto. El paso no tiene que ser enorme el día uno.
-6. **Remo con toalla o mochila** — 8 a 12. Si no tienes nada, aprieta los omóplatos en el suelo boca abajo (Y o W) 8 repeticiones lentas. El tirón existe aunque no haya barra: ojalá lo notes entre los omóplatos, no solo en el cuello.
+6. **Remo con mochila** — 8 a 12. Si no tienes peso, aprieta los omóplatos en el suelo boca abajo (Y o W) 8 repeticiones lentas. El tirón existe aunque no haya barra: ojalá lo notes entre los omóplatos, no solo en el cuello.
 
 **Cierre (2 minutos)**
 
@@ -108,9 +108,9 @@ No hace falta clavar una sentadilla de powerlifting el martes. Hace falta un pat
 
 **Zancada.** Estática o paso atrás. Caminar por el pasillo llega cuando el equilibrio ya no es el cuello de botella. Si una rodilla de delante molesta, acorta el paso y baja menos. No “aguantes el pinchazo”.
 
-**Remo.** Toalla anclada en un sitio serio, mochila, o Y-W en el suelo. El error clásico es encoger trapecio y no mover omóplato. Imagina que metes los omóplatos en los bolsillos traseros del pantalón.
+**Remo.** Mochila con libros, o Y-W en el suelo. El error clásico es encoger trapecio y no mover omóplato. Imagina que metes los omóplatos en los bolsillos traseros del pantalón.
 
-El detalle fino de cada gesto ya tiene pieza propia: [sentadilla de la silla al aire](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire), flexión pared-mesa-suelo, puente, plancha, zancada con silla y remo con toalla. Aquí el trabajo es **meter los seis en 25 minutos, tres veces**, no coleccionar variantes.
+El detalle fino de cada gesto ya tiene pieza propia: [sentadilla de la silla al aire](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire), flexión pared-mesa-suelo, puente, plancha, zancada con silla y remo con mochila. Aquí el trabajo es **meter los seis en 25 minutos, tres veces**, no coleccionar variantes.
 
 ## Cómo progresar las primeras 4 semanas (sin material)
 

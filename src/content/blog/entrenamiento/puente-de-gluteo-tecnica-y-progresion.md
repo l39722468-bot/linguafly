@@ -22,7 +22,7 @@ excerpt: >-
   un segundo, sin arquear la lumbar.
 canonical: 'https://linguafly.app/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion'
 image: /blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion/arriba.png
-alt: Puente de glúteo arriba, cadera extendida y costillas bajas
+alt: Puente de glúteo arriba: EMPUJA talones, cadera alta, sin arco lumbar
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
@@ -49,7 +49,7 @@ Si un pinchazo lumbar empeora al día siguiente, para ese gesto. Si hace falta, 
 
 ## Cómo colocar los pies
 
-![Posición inicial del puente de glúteo: boca arriba, rodillas flexionadas, pies apoyados](/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion/inicio.png)
+![Posición inicial del puente: rodillas flexionadas, talones listos para EMPUJA](/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion/inicio.png)
 
 Túmbate boca arriba en un suelo firme. Rodillas flexionadas. Plantas apoyadas. La distancia de los pies decide casi todo lo demás.
 
@@ -69,7 +69,7 @@ Anota la distancia que te funciona. Sin nota, la próxima sesión vuelves a adiv
 
 ## Costillas, lumbar y el segundo de arriba
 
-![Puente de glúteo arriba: cadera alta, línea de hombros a rodillas, sin arquear la lumbar](/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion/arriba.png)
+![Puente de glúteo arriba: EMPUJA talones, cadera arriba, aspa roja si hay arco](/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion/arriba.png)
 
 El error habitual es subir la barriga hacia el techo, abrir las costillas y dejar la lumbar en arco. Eso no es extensión de cadera: es arquear la espalda para parecer más alto.
 

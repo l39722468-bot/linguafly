@@ -23,7 +23,7 @@ excerpt: >-
   el movimiento.
 canonical: 'https://linguafly.app/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire'
 image: /blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/silla.png
-alt: Sentadilla a la silla en el salón, talones en el suelo
+alt: Sentadilla a la silla: flecha EMPUJA en los talones, tronco alineado
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
@@ -64,7 +64,7 @@ No hace falta un plato nuevo cada noche. Tres cenas que ya sepas hacer. Aquí: u
 
 ## La silla estable (setup)
 
-![Sentadilla a la silla: te sientas con control y te levantas, talones apoyados](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/silla.png)
+![Sentadilla a la silla: flecha EMPUJA en los talones, te sientas y te levantas](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/silla.png)
 
 Antes de la primera repetición, prueba el asiento. Si rueda, cámbiala. Si se hunde como un sofá, no es tu estación. Si se va hacia atrás al sentarte, tampoco.
 
@@ -104,7 +104,7 @@ Martes feo. Has dormido poco. El primer descenso ya es un dejar caer. No “cump
 
 ## Quitar el asiento: sentadilla al aire
 
-![Sentadilla al aire: baja hasta donde los talones sigan en el suelo](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/aire.png)
+![Sentadilla al aire: cadera atrás, EMPUJA desde los talones, talón que no se levanta](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/aire.png)
 
 Cuando el contacto es controlado —no un golpe, no un rebote, talón en el suelo— quitas el asiento. No el día que un vídeo te dé vergüenza. El día que las diez a la silla salen con cara de “podía otra”.
 
