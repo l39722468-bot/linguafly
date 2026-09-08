@@ -76,7 +76,7 @@ export default function ContactPage() {
             </h1>
             
             <p className="text-xl text-slate-600 mb-8 max-w-2xl mx-auto">
-              ¿Tienes una duda sobre un artículo de idiomas, alimentación o entrenamiento? Escríbenos y te responderemos cuando podamos.
+              ¿Tienes una duda sobre un artículo de idiomas, alimentación, entrenamiento o inteligencia artificial? Escríbenos y te responderemos cuando podamos.
             </p>
           </div>
         </section>

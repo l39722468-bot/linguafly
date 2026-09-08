@@ -24,9 +24,9 @@ export async function generateMetadata({
     page > 1 ? getAbsoluteUrl(`/blog?page=${page}`) : getAbsoluteUrl("/blog");
 
   return {
-    title: `Artículos de idiomas, alimentación, entrenamiento e inglés | ${SITE_BRAND_NAME}`,
+    title: `Artículos de idiomas, hábitos, IA e inglés | ${SITE_BRAND_NAME}`,
     description:
-      "Artículos de la revista (idiomas, alimentación y entrenamiento) y el archivo de guías para aprender inglés: gramática, viajes, trabajo, exámenes y cursos por nivel.",
+      "Artículos de la revista (idiomas, alimentación, entrenamiento e inteligencia artificial) y el archivo de guías para aprender inglés: gramática, viajes, trabajo, exámenes y cursos por nivel.",
     alternates: {
       canonical,
     },

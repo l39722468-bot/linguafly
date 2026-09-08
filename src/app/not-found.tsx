@@ -46,7 +46,7 @@ export default function NotFound() {
               </Link>
             </div>
 
-            <div className="mt-16 grid grid-cols-1 sm:grid-cols-3 gap-6">
+            <div className="mt-16 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
               <Link href="/idiomas" className="p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all group">
                 <span className="text-3xl mb-3 block">🗣️</span>
                 <h3 className="font-bold text-slate-900 group-hover:text-coral-600">Idiomas</h3>
@@ -60,6 +60,11 @@ export default function NotFound() {
               <Link href="/entrenamiento" className="p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all group">
                 <span className="text-3xl mb-3 block">💪</span>
                 <h3 className="font-bold text-slate-900 group-hover:text-coral-600">Entrenamiento</h3>
+              </Link>
+
+              <Link href="/inteligencia-artificial" className="p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all group">
+                <span className="text-3xl mb-3 block">✨</span>
+                <h3 className="font-bold text-slate-900 group-hover:text-coral-600">Inteligencia artificial</h3>
               </Link>
             </div>
           </div>

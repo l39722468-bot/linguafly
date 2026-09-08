@@ -1004,7 +1004,7 @@ const nextConfig = {
         ],
       },
       {
-        source: '/(idiomas|alimentacion|entrenamiento|sobre-nosotros|contacto)',
+        source: '/(idiomas|alimentacion|entrenamiento|inteligencia-artificial|sobre-nosotros|contacto)',
         headers: [
           {
             key: 'Cache-Control',

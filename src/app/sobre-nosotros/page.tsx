@@ -17,16 +17,16 @@ import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: `Sobre ${SITE_BRAND_NAME} | Revista de idiomas, alimentación y entrenamiento`,
+  title: `Sobre ${SITE_BRAND_NAME} | Revista de idiomas, hábitos e inteligencia artificial`,
   description:
-    `Qué es ${SITE_BRAND_NAME}: un proyecto editorial independiente que publica artículos prácticos de idiomas, alimentación y entrenamiento.`,
+    `Qué es ${SITE_BRAND_NAME}: un proyecto editorial independiente que publica artículos prácticos de idiomas, alimentación, entrenamiento e inteligencia artificial.`,
   alternates: {
     canonical: getAbsoluteUrl('/sobre-nosotros'),
   },
   openGraph: {
     title: `Sobre ${SITE_BRAND_NAME}`,
     description:
-      "Proyecto editorial independiente: artículos de idiomas, alimentación y entrenamiento.",
+      "Proyecto editorial independiente: artículos de idiomas, alimentación, entrenamiento e inteligencia artificial.",
     type: "website",
     url: getAbsoluteUrl('/sobre-nosotros'),
   },
@@ -68,7 +68,8 @@ export default async function SobreNosotrosPage() {
             </h1>
             <p className="text-xl text-slate-700 leading-relaxed">
               Somos un proyecto editorial independiente. Publicamos artículos prácticos de
-              <strong> idiomas</strong>, <strong>alimentación</strong> y <strong>entrenamiento</strong>,
+              <strong> idiomas</strong>, <strong>alimentación</strong>, <strong>entrenamiento</strong> e
+              <strong> inteligencia artificial</strong>,
               y el archivo de guías para aprender inglés (gramática, viajes, trabajo, exámenes y cursos por nivel) en las URLs originales.
             </p>
           </header>
@@ -78,8 +79,8 @@ export default async function SobreNosotrosPage() {
               Qué publicamos
             </h2>
             <p className="text-slate-700 leading-relaxed mb-4">
-              A día de hoy la revista publica <strong>{totalArticles} artículos</strong>: las tres
-              temáticas de la web nueva y el archivo de inglés, indexado en el sitemap con sus URLs canónicas.
+              A día de hoy la revista publica <strong>{totalArticles} artículos</strong>: las temáticas
+              de la web nueva y el archivo de inglés, indexado en el sitemap con sus URLs canónicas.
             </p>
             <ul className="space-y-3 text-slate-700">
               <li className="flex gap-3">
@@ -98,6 +99,12 @@ export default async function SobreNosotrosPage() {
                 <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
                 <span>
                   <strong>Entrenamiento</strong>: fuerza para principiantes y progresión sin lesionarte.
+                </span>
+              </li>
+              <li className="flex gap-3">
+                <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
+                <span>
+                  <strong>Inteligencia artificial</strong>: prompts, comprobación y privacidad para una tarea concreta.
                 </span>
               </li>
               <li className="flex gap-3">
@@ -274,6 +281,12 @@ export default async function SobreNosotrosPage() {
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
                 Entrenamiento
+              </Link>
+              <Link
+                href="/inteligencia-artificial"
+                className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
+              >
+                Inteligencia artificial
               </Link>
             </div>
           </section>

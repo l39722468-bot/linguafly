@@ -75,7 +75,7 @@ function main() {
   if (mdCount > 0 && articles.length < mdCount * 0.9) {
     throw new Error(
       `[export-blog-data] Solo ${articles.length}/${mdCount} artículos públicos exportados (<90%). ` +
-        `Revisa frontmatter YAML o el flag published: true en idiomas/alimentacion/entrenamiento.`
+        `Revisa frontmatter YAML o el flag published: true en idiomas/alimentacion/entrenamiento/inteligencia-artificial.`
     );
   }
 

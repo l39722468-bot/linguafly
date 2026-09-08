@@ -23,6 +23,7 @@ export const metadata: Metadata = {
     "idiomas",
     "alimentación",
     "entrenamiento",
+    "inteligencia artificial",
     "artículos",
     "guías prácticas",
     SITE_BRAND_NAME,
@@ -47,7 +48,7 @@ export const metadata: Metadata = {
         url: 'https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop',
         width: 1200,
         height: 630,
-        alt: `${SITE_BRAND_NAME} - Idiomas, alimentación y entrenamiento`,
+        alt: `${SITE_BRAND_NAME} - Idiomas, alimentación, entrenamiento e inteligencia artificial`,
       }
     ],
   },

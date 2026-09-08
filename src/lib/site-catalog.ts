@@ -1,15 +1,16 @@
 /**
  * Catálogo público de la revista.
  *
- * Temáticas propias (idiomas / alimentación / entrenamiento) más el archivo
- * de artículos para aprender inglés, servido desde D1 en las URLs originales
- * `/blog/{categoria}/{slug}` para no romper SEO.
+ * Temáticas propias (idiomas / alimentación / entrenamiento / inteligencia
+ * artificial) más el archivo de artículos para aprender inglés, servido desde
+ * D1 en las URLs originales `/blog/{categoria}/{slug}` para no romper SEO.
  */
 
 export const MAGAZINE_ARTICLE_CATEGORIES = [
   "idiomas",
   "alimentacion",
   "entrenamiento",
+  "inteligencia-artificial",
 ] as const;
 
 export const ENGLISH_LEARNING_CATEGORIES = [
@@ -66,7 +67,7 @@ export type SiteVertical = {
 };
 
 export type EnglishLearningSection = {
-  slug: Exclude<PublicArticleCategory, "alimentacion" | "entrenamiento">;
+  slug: Exclude<PublicArticleCategory, "alimentacion" | "entrenamiento" | "inteligencia-artificial">;
   href: string;
   name: string;
   shortName: string;
@@ -76,10 +77,10 @@ export type EnglishLearningSection = {
 };
 
 export const SITE_TAGLINE =
-  "Guías claras de idiomas, alimentación y entrenamiento.";
+  "Guías claras de idiomas, alimentación, entrenamiento e inteligencia artificial.";
 
 export const SITE_DESCRIPTION =
-  "Revista práctica: artículos de idiomas, alimentación y entrenamiento, y el archivo de guías para aprender inglés.";
+  "Revista práctica: artículos de idiomas, alimentación, entrenamiento e inteligencia artificial, y el archivo de guías para aprender inglés.";
 
 const CORAL: VerticalTone = {
   badge: "bg-coral-100 text-coral-800",
@@ -136,6 +137,24 @@ export const SITE_VERTICALS: readonly SiteVertical[] = [
       text: "text-sky-700",
       soft: "bg-sky-50",
       border: "border-sky-100",
+    },
+  },
+  {
+    slug: "inteligencia-artificial",
+    href: "/inteligencia-artificial",
+    blogHref: "/blog/inteligencia-artificial",
+    name: "Inteligencia artificial",
+    shortName: "IA",
+    tagline: "Usar un chatbot con criterio, no con humo",
+    description:
+      "Prompts, comprobación y privacidad para trabajo, estudio y casa. Una tarea por artículo, sin jerga de keynote.",
+    icon: "✨",
+    tone: {
+      badge: "bg-violet-100 text-violet-800",
+      gradient: "from-violet-500 to-indigo-500",
+      text: "text-violet-700",
+      soft: "bg-violet-50",
+      border: "border-violet-100",
     },
   },
 ] as const;
@@ -352,6 +371,7 @@ const EXACT_PUBLIC_PATHS = new Set([
   "/idiomas",
   "/alimentacion",
   "/entrenamiento",
+  "/inteligencia-artificial",
   "/privacidad",
   "/cookies",
   "/terminos",

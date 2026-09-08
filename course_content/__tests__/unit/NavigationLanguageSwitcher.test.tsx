@@ -32,6 +32,7 @@ describe("Navigation", () => {
     expect(screen.getByRole("link", { name: "Idiomas" })).toHaveAttribute("href", "/idiomas");
     expect(screen.getByRole("link", { name: "Alimentación" })).toHaveAttribute("href", "/alimentacion");
     expect(screen.getByRole("link", { name: "Entrenamiento" })).toHaveAttribute("href", "/entrenamiento");
+    expect(screen.getByRole("link", { name: "Inteligencia artificial" })).toHaveAttribute("href", "/inteligencia-artificial");
     expect(screen.getByRole("link", { name: "Artículos" })).toHaveAttribute("href", "/blog");
     expect(screen.queryByRole("link", { name: "Fitness" })).not.toBeInTheDocument();
     expect(screen.queryByRole("link", { name: "Test de nivel" })).not.toBeInTheDocument();

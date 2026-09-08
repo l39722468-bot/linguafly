@@ -9,7 +9,7 @@ export function OrganizationSchema() {
     "alternateName": ["Linguafly"],
     "url": siteUrl,
     "logo": getAbsoluteUrl('/logo.png'),
-    "description": "Revista de artículos prácticos sobre idiomas, alimentación y entrenamiento.",
+    "description": "Revista de artículos prácticos sobre idiomas, alimentación, entrenamiento e inteligencia artificial.",
     "address": {
       "@type": "PostalAddress",
       "addressCountry": "ES",
@@ -30,7 +30,7 @@ export function OrganizationSchema() {
       "@type": "Country",
       "name": "España"
     },
-    "knowsAbout": ["Idiomas", "Alimentación", "Entrenamiento"]
+    "knowsAbout": ["Idiomas", "Alimentación", "Entrenamiento", "Inteligencia artificial"]
   };
 
   return (
@@ -214,7 +214,7 @@ export function WebsiteSchema() {
     "@type": "WebSite",
     "name": SITE_BRAND_NAME,
     "url": siteUrl,
-    "description": "Artículos de idiomas, alimentación y entrenamiento",
+    "description": "Artículos de idiomas, alimentación, entrenamiento e inteligencia artificial",
     "inLanguage": "es",
     "potentialAction": {
       "@type": "SearchAction",

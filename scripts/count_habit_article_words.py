@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Count body words in published alimentación / entrenamiento articles."""
+"""Count body words in published alimentación / entrenamiento / IA articles."""
 from __future__ import annotations
 
 import re
@@ -10,6 +10,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DIRS = [
     ROOT / "src/content/blog/alimentacion",
     ROOT / "src/content/blog/entrenamiento",
+    ROOT / "src/content/blog/inteligencia-artificial",
 ]
 MIN_WORDS = 2000
 TARGET = 2000
@@ -27,6 +28,8 @@ def main() -> int:
     rows: list[tuple[int, Path]] = []
     failed = False
     for folder in DIRS:
+        if not folder.exists():
+            continue
         for path in sorted(folder.glob("*.md")):
             n = body_words(path)
             rows.append((n, path))

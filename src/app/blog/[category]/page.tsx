@@ -37,6 +37,12 @@ const categoryMetadata: Record<string, { name: string, description: string, icon
     icon: "💪",
     color: "from-sky-500 to-indigo-500"
   },
+  "inteligencia-artificial": {
+    name: "Inteligencia artificial: prompts y criterio práctico",
+    description: "Cómo usar un chatbot en el trabajo, el estudio y la casa: prompts, comprobación y privacidad.",
+    icon: "✨",
+    color: "from-violet-500 to-indigo-500"
+  },
   fitness: {
     name: "Entrenamiento físico: rutinas, fuerza y movilidad",
     description: "Guías prácticas para entrenar en casa o en el gimnasio, mejorar tu fuerza, movilidad y resistencia con planes sostenibles.",

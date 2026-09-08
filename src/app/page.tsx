@@ -17,6 +17,7 @@ export const metadata: Metadata = {
     "artículos de idiomas",
     "alimentación",
     "entrenamiento",
+    "inteligencia artificial",
     "aprender inglés",
     SITE_BRAND_NAME,
   ],
@@ -43,14 +44,14 @@ export default async function HomePage() {
               Nueva revista + archivo de inglés
             </p>
             <h1 className="font-display mb-6 text-4xl font-black leading-tight text-slate-900 sm:text-6xl lg:text-7xl">
-              Idiomas, alimentación
+              Idiomas, alimentación,
               <br />
               <span className="bg-gradient-to-r from-coral-600 to-peach-500 bg-clip-text text-transparent">
-                y entrenamiento
+                entrenamiento e IA
               </span>
             </h1>
             <p className="mx-auto mb-10 max-w-2xl text-lg font-medium text-slate-600 sm:text-xl">
-              Artículos nuevos de idiomas, alimentación y entrenamiento, y el archivo de guías para aprender inglés en las mismas URLs de siempre.
+              Artículos de idiomas, alimentación, entrenamiento e inteligencia artificial, y el archivo de guías para aprender inglés en las mismas URLs de siempre.
             </p>
             <div className="flex flex-col items-center justify-center gap-3 sm:flex-row">
               <Link
@@ -70,7 +71,7 @@ export default async function HomePage() {
         </section>
 
         <section id="tematicas" className="px-4 pb-20 sm:px-6 lg:px-8">
-          <div className="mx-auto grid max-w-6xl gap-6 md:grid-cols-3">
+          <div className="mx-auto grid max-w-6xl gap-6 md:grid-cols-2 xl:grid-cols-4">
             {SITE_VERTICALS.map((vertical) => (
               <Link
                 key={vertical.slug}

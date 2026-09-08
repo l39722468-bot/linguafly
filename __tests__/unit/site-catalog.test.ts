@@ -10,6 +10,7 @@ describe("site catalog", () => {
     expect(isPublicArticleCategory("idiomas")).toBe(true);
     expect(isPublicArticleCategory("alimentacion")).toBe(true);
     expect(isPublicArticleCategory("entrenamiento")).toBe(true);
+    expect(isPublicArticleCategory("inteligencia-artificial")).toBe(true);
     expect(isPublicArticleCategory("gramatica")).toBe(true);
     expect(isPublicArticleCategory("viajes")).toBe(true);
     expect(isPublicArticleCategory("curso-a1")).toBe(true);
@@ -23,6 +24,8 @@ describe("site catalog", () => {
     expect(isPublicSitePath("/blog/idiomas/como-empezar-a-aprender-un-idioma")).toBe(true);
     expect(isPublicSitePath("/alimentacion")).toBe(true);
     expect(isPublicSitePath("/entrenamiento")).toBe(true);
+    expect(isPublicSitePath("/inteligencia-artificial")).toBe(true);
+    expect(isPublicSitePath("/blog/inteligencia-artificial")).toBe(true);
     expect(isPublicSitePath("/api/articles/foo")).toBe(true);
     expect(isPublicSitePath("/sitemaps/0.xml")).toBe(true);
     expect(isPublicSitePath("/sitemap.xml")).toBe(true);

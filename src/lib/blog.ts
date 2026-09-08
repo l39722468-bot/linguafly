@@ -187,7 +187,7 @@ function prioritizeRecentCourseArticles(articles: BlogPost[]): BlogPost[] {
 
 /**
  * Qué markdown entra en D1 / listados públicos:
- * - revista (idiomas, alimentación, entrenamiento): solo `published: true`
+ * - revista (idiomas, alimentación, entrenamiento, inteligencia artificial): solo `published: true`
  * - archivo de inglés: todo el markdown de esas categorías (el flag falta en lo antiguo)
  * - fitness y el resto: fuera
  */

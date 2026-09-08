@@ -13,7 +13,7 @@ export function Footer() {
               <span className="text-xl font-black">{SITE_BRAND_NAME}</span>
             </div>
             <p className="max-w-sm text-sm text-slate-400">
-              Revista de artículos prácticos sobre idiomas, alimentación y entrenamiento, más el archivo de guías para aprender inglés.
+              Revista de artículos prácticos sobre idiomas, alimentación, entrenamiento e inteligencia artificial, más el archivo de guías para aprender inglés.
             </p>
           </div>
 
