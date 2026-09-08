@@ -53,18 +53,19 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
     };
   }
 
-  // Optimized title for SEO
+  // Title y description salen del frontmatter (description = meta; excerpt = tarjetas).
   const seoTitle = optimizeSEOTitle(article.title);
+  const metaDescription = article.description || article.excerpt;
   const ogImage = article.image || "/blog/og-image.jpg";
 
   return {
     title: seoTitle,
-    description: article.excerpt,
+    description: metaDescription,
     keywords: article.keywords || [],
     authors: [{ name: article.author }],
     openGraph: {
       title: seoTitle,
-      description: article.excerpt,
+      description: metaDescription,
       type: "article",
       locale: "es_ES",
       publishedTime: article.date,
@@ -83,7 +84,7 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
     twitter: {
       card: "summary_large_image",
       title: seoTitle,
-      description: article.excerpt,
+      description: metaDescription,
       images: [ogImage.startsWith('http') ? ogImage : getAbsoluteUrl(ogImage)],
     },
     alternates: {
@@ -111,7 +112,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
   const articleSchema = generateArticleSchema({
     title: article.title,
-    description: article.excerpt,
+    description: article.description || article.excerpt,
     image: article.image || "/blog/og-image.jpg",
     datePublished: article.date,
     dateModified: article.updatedDate || article.date,

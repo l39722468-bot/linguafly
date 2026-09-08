@@ -68,7 +68,8 @@ date: '2026-09-08'
 author: linguafly-team
 title: "Título concreto, sin clickbait"
 description: >-
-  150–180 caracteres. Promesa + resultado práctico. Es el meta description.
+  140–160 caracteres. Promesa + resultado práctico. Es el meta description
+  (no el excerpt).
 excerpt: >-
   1–2 frases para tarjetas. Puede ser más cortante que la description.
 readTime: 8 min
@@ -89,7 +90,7 @@ Notas:
 
 - El **slug es el nombre del archivo**. Único en la temática; no reutilizar slugs de inglés.
 - `related_routes` son **slugs**, no URLs. Cruzar categorías es correcto y deseable.
-- 3 FAQs. Deben coincidir con dudas reales, no con “¿Qué es la proteína?”.
+- 3–5 FAQs. Deben coincidir con dudas reales (People Also Ask), no con “¿Qué es la proteína?”.
 - `canonical` siempre la URL pública final.
 
 ### Cuerpo
@@ -212,14 +213,26 @@ No enlazar a `/blog/temas`, `/fitness` ni a cursos `/curso-a1`.
 
 ## 7. SEO, sin volverse plantilla
 
-- Un H1 = `title`. No repetirlo como H2.
-- Un H2 = una idea. Los H3 solo si hay pasos dentro de esa idea.
-- Title ~ 50–60 caracteres, con la consulta (rutina en casa, menú semanal, sobrecarga…).
-- Description = la del frontmatter. No “descubre cómo…”.
-- FAQs = schema FAQPage. Deben responder de verdad; si la respuesta es “depende”, di de qué.
+La página usa `title` como `<title>` y `description` como meta description. El `excerpt` es solo para tarjetas. Si dejas la description floja, Google no ve el excerpt.
+
+- Un H1 = `title`. ~50–60 caracteres. La consulta principal al inicio o muy cerca.
+- Un H2 = una idea, con long-tail **solo si suena a frase humana** (“Batch cooking ligero: una hora el domingo”, no “Meal prep meal prep meal prep”).
+- Description = 140–160 caracteres, verbo + resultado + modificador (en casa, sin material, sin contar macros).
+- Keywords: 6–8. Una cabeza corta + el resto long-tail. Como máximo **un** término compartido con el artículo hermano del otro vertical.
+- FAQs = schema FAQPage. Redáctalas como las escribe la gente en Google.
+- Canonical = URL pública. No cambies el slug de un artículo ya indexable.
 - Imagen: opcional. Si hay, `alt` descriptivo en español.
 
-Canibalización: si dos slugs responderían a la misma SERP, es un solo artículo. Ejemplo: no hace falta “rutina full body en casa” además de `rutina-fuerza-principiantes-casa` hasta que el pilar se quede corto.
+### Consultas objetivo del núcleo (no pisarse)
+
+| Artículo | Consulta principal | Long-tails propias (no copiar al hermano) |
+|---|---|---|
+| Organizar comidas | organizar comidas de la semana | menú semanal fácil, meal prep para principiantes, batch cooking en una hora, lista de la compra semanal |
+| Proteína / hidratos / grasas | proteína hidratos y grasas | qué son los macronutrientes, cómo repartir macros sin contar, cuánta proteína al día si entrenas, los hidratos engordan |
+| Rutina en casa | rutina de fuerza en casa | entrenamiento en casa para principiantes, ejercicios sin material, rutina full body 3 días, flexiones inclinadas |
+| Sobrecarga | sobrecarga progresiva | cuánto subir de peso cada semana, cómo progresar sin lesionarte, agujetas o lesión, señales de que entrenas demasiado |
+
+Canibalización: si dos slugs responderían a la misma SERP, es un solo artículo. No hace falta “rutina full body en casa” además de `rutina-fuerza-principiantes-casa` hasta que el pilar se quede corto.
 
 ---
 

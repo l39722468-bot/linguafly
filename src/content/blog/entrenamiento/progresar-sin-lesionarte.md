@@ -2,17 +2,21 @@
 published: true
 category: entrenamiento
 date: '2026-09-08'
+updatedDate: '2026-09-08'
 author: linguafly-team
-title: "Cómo progresar sin lesionarte: sobrecarga gradual de verdad"
+title: "Sobrecarga progresiva: cómo subir carga sin lesionarte"
 description: >-
-  Qué significa progresar en el entrenamiento, cuánto subir cada semana y
-  señales de que estás pidiendo demasiado a tendones y articulaciones.
+  Qué es la sobrecarga progresiva y cómo subir peso o repeticiones cada semana
+  sin lesionarte. Señales de tendón irritado, agujetas y una semana tipo.
 readTime: 8 min
 keywords:
   - sobrecarga progresiva
-  - cómo progresar en el gimnasio
-  - evitar lesiones al entrenar
-  - principiante fuerza
+  - cómo progresar en el gimnasio sin lesionarte
+  - cuánto subir de peso cada semana
+  - evitar lesiones al entrenar fuerza
+  - agujetas o lesión
+  - cómo saber si entrenas demasiado
+  - sobrecarga gradual principiantes
 excerpt: >-
   Progresar no es machacarte. Es añadir un poco de dificultad cuando aún
   controlas el movimiento. Los tendones van más lentos que el ego.
@@ -21,20 +25,19 @@ related_routes:
   - rutina-fuerza-principiantes-casa
   - proteina-hidratos-grasas-guia-practica
 faqs:
-  - question: ¿Cuánto debo subir de peso cada semana?
-    answer: >-
-      Si las repeticiones salen limpias, un incremento pequeño (o una repetición más) basta. Saltar kilos de golpe es la vía rápida al tendón irritado.
-  - question: ¿El dolor muscular significa que he entrenado bien?
-    answer: >-
-      Las agujetas no son un marcador de calidad. Puedes progresar sin quedar destrozado, y puedes destrozarte sin haber mejorado el patrón.
-  - question: ¿Cuándo debo parar una serie?
-    answer: >-
-      Cuando la técnica se rompe. La lumbar se hunde, las rodillas se van o los hombros se encogen. Esa repetición extra no cuenta como progreso.
+  - question: ¿Qué es la sobrecarga progresiva?
+    answer: Añadir un poco de dificultad a un movimiento que todavía controlas. Más repeticiones, más control, un poco más de carga o una variante más exigente. No es cambiar de rutina cada lunes ni subir kilos de golpe.
+  - question: ¿Cuánto hay que subir de peso cada semana?
+    answer: Si las repeticiones salen limpias, un incremento pequeño o una repetición más basta. Saltar kilos de golpe es la vía rápida al tendón irritado. Una sola palanca por ejercicio y por semana.
+  - question: ¿Las agujetas significan que has entrenado bien?
+    answer: No. Puedes progresar sin quedar destrozado y destrozarte sin haber mejorado el patrón. El marcador es la técnica y poder repetir el movimiento mejor, no el dolor muscular.
+  - question: ¿Cómo saber si te estás lesionando al entrenar?
+    answer: Dolor localizado que empeora al día siguiente (tendón, codo, rodilla), el movimiento se acorta o necesitas inercia para terminar. Ahí bajas carga o series; no busques un ungüento y sigas igual.
 ---
 
-La gente se lesiona menos por “un mal día” que por **pedir al cuerpo un salto que los tejidos no han firmado**. El músculo se apunta rápido a un plan nuevo. Tendones, rodillas y hombros piden semanas. Progresar bien es respetar esa diferencia.
+La gente se lesiona menos por “un mal día” que por **pedir al cuerpo un salto que los tejidos no han firmado**. El músculo se apunta rápido a un plan nuevo. Tendones, rodillas y hombros piden semanas. La **sobrecarga progresiva** bien hecha respeta esa diferencia.
 
-## Qué es (y qué no es) sobrecarga gradual
+## Qué es la sobrecarga progresiva (y qué no es)
 
 **Sí:** la misma sentadilla, un poco más difícil, cuando aún se ve limpia.
 **No:** cambiar de rutina cada lunes, añadir cinco ejercicios “de influencia” y subir el peso porque el vídeo duraba 30 segundos.
@@ -49,7 +52,7 @@ Dificultad se puede añadir así, en este orden:
 
 Una sola palanca por ejercicio y por semana. Si subes peso **y** series **y** pasas a una versión más dura, estás haciendo tres progresiones a la vez. El hombro se enterará antes que tú.
 
-## Una semana tipo que no miente
+## Una semana tipo para subir carga
 
 Imagina press de banca o flexiones:
 
@@ -60,7 +63,7 @@ Imagina press de banca o flexiones:
 
 Esa cuarta semana no es pereza. Es **dejar que el tendón alcance al músculo**.
 
-## Señales de que vas demasiado rápido
+## Señales de que te estás lesionando
 
 - Dolor localizado que **empeora al día siguiente** (no agujeta difusa: pinchazo en un tendón, codo, rodilla).
 - El movimiento se acorta: ya no bajas igual.
@@ -75,7 +78,7 @@ El ego quiere el peso de otra persona. El espejo quiere cambios en 14 días. El 
 
 Si entras al gimnasio o vuelves tras un parón, **no retomes donde lo dejaste**. Retoma donde tu técnica actual te deja. El cuerpo no guarda el Excel de febrero.
 
-## Recuperación como parte del plan
+## Recuperación: dormir y proteína
 
 Progresar también es:
 

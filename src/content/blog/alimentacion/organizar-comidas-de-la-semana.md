@@ -2,17 +2,21 @@
 published: true
 category: alimentacion
 date: '2026-09-08'
+updatedDate: '2026-09-08'
 author: linguafly-team
-title: "Cómo organizar las comidas de la semana sin complicarte"
+title: "Cómo organizar las comidas de la semana: menú fácil"
 description: >-
-  Un sistema simple de menú semanal: 3 cenas base, batch cooking ligero y
-  reglas para no improvisar hambre a las diez de la noche.
+  Organiza las comidas de la semana con 3 cenas, batch cooking ligero y una
+  lista de la compra. Menú semanal fácil para no improvisar con hambre por la noche.
 readTime: 8 min
 keywords:
-  - organizar comidas semanales
-  - meal prep sencillo
+  - organizar comidas de la semana
   - menú semanal fácil
-  - batch cooking principiantes
+  - meal prep para principiantes
+  - batch cooking en una hora
+  - cómo hacer meal prep en casa
+  - lista de la compra semanal
+  - cenas rápidas entre semana
 excerpt: >-
   No hace falta un menú de chef. Con tres cenas repetibles, una compra y dos
   tupper de base, dejas de decidir con hambre.
@@ -21,17 +25,19 @@ related_routes:
   - proteina-hidratos-grasas-guia-practica
   - rutina-fuerza-principiantes-casa
 faqs:
-  - question: ¿Tengo que hacer meal prep de todos los días?
-    answer: No. Basta con dejar listas 1-2 bases (proteína o verdura) y tres cenas que sepas cocinar en 20 minutos. El resto se ensambla.
-  - question: ¿Qué hago si un día no quiero lo que toca?
-    answer: Ten un comodín (huevos, lata de legumbres, yogur y fruta). El plan sirve para no improvisar desde cero, no para encerrarte.
-  - question: ¿Cómo evito tirar comida?
-    answer: Compra para el plan, no al revés. Las verduras más delicadas se usan a principio de semana; las que aguantan, al final.
+  - question: ¿Cómo organizar las comidas de la semana si trabajo todo el día?
+    answer: Elige tres cenas que ya sepas hacer, cocina una o dos bases el día que te vaya bien y deja un comodín (huevos, lata de legumbres). El menú semanal sirve para no decidir a las diez de la noche, no para encerrarte.
+  - question: ¿Hace falta meal prep de todos los días?
+    answer: No. El batch cooking ligero es dejar listas 1-2 bases (proteína o verdura) y tres cenas de 20 minutos. El resto se ensambla, no se cocina desde cero.
+  - question: ¿Cómo hacer una lista de la compra para el menú semanal?
+    answer: Escribe primero el plan (3 cenas, 2 desayunos, 1 comodín) y después la lista. Si no está en el plan, no entra en el carro. Las verduras delicadas se usan a principio de semana.
+  - question: ¿Qué cenas rápidas dejar para cuando llegas con hambre?
+    answer: Huevos, una lata de legumbres, verdura de bolsa o congelada y fruta lavada. El comodín evita el pedido automático; no es un fracaso del meal prep.
 ---
 
-La alimentación se tuerce menos por falta de recetas que por **falta de decisión previa**. A las 21:00, con cansancio, gana lo más rápido. Organizar la semana no es volverse meal-prep influencer: es quitarte tres decisiones al día.
+Organizar las comidas de la semana se tuerce menos por falta de recetas que por **falta de decisión previa**. A las 21:00, con cansancio, gana lo más rápido. Un menú semanal fácil no es volverse meal-prep influencer: es quitarte tres decisiones al día.
 
-## La regla de las tres cenas
+## Tres cenas para el menú semanal
 
 Elige **tres cenas** que ya sepas hacer y que te gusten lo suficiente como para repetirlas. Ejemplos reales, no Pinterest:
 
@@ -43,7 +49,7 @@ Repártelas en la semana (lunes/miércoles/viernes una, etc.). El martes y el ju
 
 Tres cenas cubren la parte difícil. El desayuno y la comida suelen improvisarse mejor si hay **una base en la nevera**.
 
-## Una hora el domingo (o el día que te vaya bien)
+## Batch cooking ligero: una hora el domingo
 
 No cocines siete menús distintos. Cocina **piezas**:
 
@@ -53,9 +59,9 @@ No cocines siete menús distintos. Cocina **piezas**:
 
 Con eso montas bowls, wraps y cenas en 10 minutos. Si odias tupper, deja las piezas en dos fuentes tapadas. El efecto es el mismo.
 
-## La compra sigue al plan, no al revés
+## Lista de la compra del menú semanal
 
-Escribe primero:
+La compra sigue al plan, no al revés. Escribe primero:
 
 - 3 cenas
 - 2 desayunos posibles (p. ej. yogur-fruta-avena y tostada-huevo)
@@ -69,7 +75,7 @@ Orden de uso:
 - **Mediados:** tomate, calabacín, pollo.
 - **Final:** huevos, legumbres de bote, congelados, cítricos, zanahoria.
 
-## Hambre, no fuerza de voluntad
+## Cenas rápidas cuando llegas con hambre
 
 Si llegas a casa destrozado, el plan tiene que **ensamblarse**, no cocinarse desde cebolla picada. Deja a mano:
 
@@ -80,7 +86,7 @@ Si llegas a casa destrozado, el plan tiene que **ensamblarse**, no cocinarse des
 
 El comodín no es “fracaso”. Es el sistema anti-pedido automático.
 
-## Proteína, verdura, algo que sacia
+## Plato del día: proteína, verdura e hidrato
 
 Sin volverte nutricionista de Instagram, un plato cotidiano puede responder a tres preguntas:
 
@@ -90,7 +96,7 @@ Sin volverte nutricionista de Instagram, un plato cotidiano puede responder a tr
 
 Si las tres están, el plato aguanta. El detalle está en la [guía práctica de proteína, hidratos y grasas](/blog/alimentacion/proteina-hidratos-grasas-guia-practica). Si además entrenas, una [rutina de fuerza corta en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa) se sostiene mejor cuando el plato ya cubre esas tres. El aceite, las especias y el queso son el sabor; no hace falta un protocolo.
 
-## Qué no hace falta
+## Qué no hace falta para un meal prep sencillo
 
 - Un Excel de macros el primer mes.
 - Recetas de 18 ingredientes.
