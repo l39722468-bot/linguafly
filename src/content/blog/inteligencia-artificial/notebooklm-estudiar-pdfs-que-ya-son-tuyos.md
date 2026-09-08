@@ -26,6 +26,7 @@ related_routes:
   - claude-para-documentos-largos
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - privacidad-al-usar-ia-que-no-pegar-nunca
+  - resumir-un-tema-de-examen-con-ia
 faqs:
   - question: ¿NotebookLM sirve para estudiar un PDF que ya es mío?
     answer: "Sí, si el archivo es tuyo o te lo han dado para estudiar y no lleva datos que no pegarías en un post: preguntas al material, pides página y cita, y abres el PDF. No sirve para que te escriba el trabajo ni para sentarse al examen por ti."

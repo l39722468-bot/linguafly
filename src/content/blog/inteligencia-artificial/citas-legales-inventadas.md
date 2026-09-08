@@ -26,6 +26,7 @@ related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - por-que-un-chatbot-se-inventa-datos
   - la-ia-no-sustituye-a-un-profesional-colegiado
+  - citar-fuentes-la-ia-no-sustituye-la-bibliografia
 faqs:
   - question: ¿La IA inventa sentencias y artículos de verdad?
     answer: "Sí. Fabrica números de artículo, fechas, títulos de reales decretos y STS que encajan en el molde. El tono de informe no prueba que existan. Se buscan en el BOE o en el repositorio oficial, no en el mismo chat."

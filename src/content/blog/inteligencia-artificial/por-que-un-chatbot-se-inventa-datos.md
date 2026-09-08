@@ -24,7 +24,7 @@ canonical: 'https://linguafly.app/blog/inteligencia-artificial/por-que-un-chatbo
 related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion
-  - como-usar-un-chatbot-de-ia-por-primera-vez
+  - citar-fuentes-la-ia-no-sustituye-la-bibliografia
   - como-escribir-un-prompt-que-sirva
   - perplexity-buscar-con-citas-a-la-vista
 faqs:

@@ -26,6 +26,7 @@ related_routes:
   - confianza-excesiva-el-texto-suena-bien
   - copilot-en-excel-formulas-y-explicacion-no-magia
   - privacidad-al-usar-ia-que-no-pegar-nunca
+  - usar-ia-para-un-borrador-de-articulo-tu-editas
 faqs:
   - question: ¿Microsoft Copilot en Word puede redactar el informe entero por mí?
     answer: "Puede devolver texto. No puede saber qué ocurrió en tu trimestre. El informe es tuyo: tú pones hechos, cifras y citas. Si le pides ‘escribe el informe de ocupación’, rellena huecos. Eso no se entrega."

@@ -24,7 +24,7 @@ canonical: 'https://linguafly.app/blog/inteligencia-artificial/como-comprobar-si
 related_routes:
   - por-que-un-chatbot-se-inventa-datos
   - perplexity-buscar-con-citas-a-la-vista
-  - subir-un-pdf-a-un-chatbot-que-hacer-y-que-no
+  - citar-fuentes-la-ia-no-sustituye-la-bibliografia
   - como-escribir-un-prompt-que-sirva
   - confianza-excesiva-el-texto-suena-bien
 faqs:

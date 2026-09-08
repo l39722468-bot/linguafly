@@ -3841,7 +3841,7 @@
   },
   {
     "n": 193,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "estudio",
     "slug": "resumir-un-tema-de-examen-con-ia",
     "title": "Resumir un tema de examen con IA",
@@ -3861,7 +3861,7 @@
   },
   {
     "n": 194,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "estudio",
     "slug": "fichas-de-estudio-a-partir-de-tus-apuntes",
     "title": "Fichas de estudio a partir de tus apuntes",
@@ -3881,7 +3881,7 @@
   },
   {
     "n": 195,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "estudio",
     "slug": "preguntas-tipo-test-de-un-capitulo",
     "title": "Preguntas tipo test de un capítulo",
@@ -3981,7 +3981,7 @@
   },
   {
     "n": 200,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "estudio",
     "slug": "citar-fuentes-la-ia-no-sustituye-la-bibliografia",
     "title": "Citar fuentes: la IA no sustituye la bibliografía",
@@ -4161,7 +4161,7 @@
   },
   {
     "n": 209,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "estudio",
     "slug": "usar-ia-en-un-trabajo-sin-que-lo-haga-por-ti",
     "title": "Usar IA en un trabajo sin que lo haga por ti",
@@ -4301,7 +4301,7 @@
   },
   {
     "n": 216,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "estudio",
     "slug": "tfg-usar-ia-sin-plagiar-ni-inventar-bibliografia",
     "title": "TFG: usar IA sin plagiar ni inventar bibliografía",
@@ -4401,7 +4401,7 @@
   },
   {
     "n": 221,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "escritura",
     "slug": "usar-ia-para-un-borrador-de-articulo-tu-editas",
     "title": "Usar IA para un borrador de artículo (tú editas)",
@@ -4421,7 +4421,7 @@
   },
   {
     "n": 222,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "escritura",
     "slug": "reescribir-en-voz-activa",
     "title": "Reescribir en voz activa",
@@ -4441,7 +4441,7 @@
   },
   {
     "n": 223,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "escritura",
     "slug": "cortar-un-30-de-un-texto",
     "title": "Cortar un 30 % de un texto",
@@ -4901,7 +4901,7 @@
   },
   {
     "n": 246,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "escritura",
     "slug": "fact-check-de-un-borrador-escrito-con-ia",
     "title": "Fact-check de un borrador escrito con IA",
@@ -4921,7 +4921,7 @@
   },
   {
     "n": 247,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "escritura",
     "slug": "cuando-decir-que-usaste-ia-ghostwriting-etico",
     "title": "Cuándo decir que usaste IA (ghostwriting ético)",
@@ -4941,7 +4941,7 @@
   },
   {
     "n": 248,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "escritura",
     "slug": "mantener-tu-vocabulario-y-no-el-del-modelo",
     "title": "Mantener tu vocabulario y no el del modelo",

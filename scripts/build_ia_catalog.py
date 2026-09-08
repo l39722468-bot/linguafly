@@ -757,12 +757,28 @@ WAVE4_PUBLISHED = {
     "meta-ai-en-whatsapp-cuando-callarla",
 }
 
+WAVE5_PUBLISHED = {
+    "resumir-un-tema-de-examen-con-ia",
+    "fichas-de-estudio-a-partir-de-tus-apuntes",
+    "preguntas-tipo-test-de-un-capitulo",
+    "citar-fuentes-la-ia-no-sustituye-la-bibliografia",
+    "usar-ia-en-un-trabajo-sin-que-lo-haga-por-ti",
+    "tfg-usar-ia-sin-plagiar-ni-inventar-bibliografia",
+    "usar-ia-para-un-borrador-de-articulo-tu-editas",
+    "reescribir-en-voz-activa",
+    "cortar-un-30-de-un-texto",
+    "fact-check-de-un-borrador-escrito-con-ia",
+    "cuando-decir-que-usaste-ia-ghostwriting-etico",
+    "mantener-tu-vocabulario-y-no-el-del-modelo",
+}
+
 PUBLISHED_SLUGS = (
     NUCLEO_PUBLISHED
     | WAVE1_PUBLISHED
     | WAVE2_PUBLISHED
     | WAVE3_PUBLISHED
     | WAVE4_PUBLISHED
+    | WAVE5_PUBLISHED
 )
 
 
