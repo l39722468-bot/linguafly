@@ -2,7 +2,7 @@
 
 Generado por `scripts/build_habitos_catalog.py`. No editar a mano: cambia el script y vuelve a ejecutarlo.
 
-Estado: **2 publicados**, **498 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
+Estado: **5 publicados**, **495 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
 
 | cluster | n |
 |---|---|
@@ -381,7 +381,7 @@ Estado: **2 publicados**, **498 pendientes**. No redactar en bloque: ver [plan](
 | 348 | pendiente | progresion-satelites | `deload-no-es-vacaciones-de-sofa` | Deload no es vacaciones de sofá | qué hacer en la semana de descarga |
 | 349 | pendiente | progresion-satelites | `mesociclo-de-6-semanas-simple` | Mesociclo de 6 semanas simple | mesociclo fuerza principiantes |
 | 350 | pendiente | progresion-satelites | `no-hagas-un-peak-de-powerlifting` | No hagas un peak de powerlifting | peak fuerza aficionado |
-| 351 | pendiente | molestias | `agujetas-o-senal-de-parar` | Agujetas o señal de parar | agujetas o lesión |
+| 351 | publicado | molestias | `agujetas-o-lesion` | Agujetas o señal de parar | agujetas o lesión |
 | 352 | pendiente | molestias | `molestia-de-rodilla-en-sentadilla-cambiar-el-gesto` | Molestia de rodilla en sentadilla: cambiar el gesto | sentadilla si molesta la rodilla |
 | 353 | pendiente | molestias | `hombro-en-el-press-bajar-el-rango` | Hombro en el press: bajar el rango | duele el hombro en el press |
 | 354 | pendiente | molestias | `lumbar-que-pica-en-el-peso-muerto-bisagra` | Lumbar que pica en el peso muerto: bisagra | duele la lumbar en peso muerto |
@@ -485,8 +485,8 @@ Estado: **2 publicados**, **498 pendientes**. No redactar en bloque: ver [plan](
 | 452 | pendiente | habitos-entreno | `recompensa-que-no-destroza-el-plan` | Recompensa que no destroza el plan | recompensa después de entrenar |
 | 453 | pendiente | habitos-entreno | `decirselo-a-alguien-opcional` | Decírselo a alguien: opcional | accountability entrenamiento |
 | 454 | pendiente | habitos-entreno | `dejar-de-coleccionar-rutinas-en-instagram` | Dejar de coleccionar rutinas en Instagram | dejar de guardar rutinas |
-| 455 | pendiente | recuperacion-entreno | `que-hacer-los-dias-que-no-entrenas` | Qué hacer los días que no entrenas | días de descanso qué hacer |
-| 456 | pendiente | recuperacion-entreno | `dormir-y-fuerza-lo-basico` | Dormir y fuerza: lo básico | sueño y entrenamiento de fuerza |
+| 455 | publicado | recuperacion-entreno | `que-hacer-los-dias-que-no-entrenas` | Qué hacer los días que no entrenas | días de descanso qué hacer |
+| 456 | publicado | recuperacion-entreno | `dormir-y-fuerza-lo-basico` | Dormir y fuerza: lo básico | sueño y entrenamiento de fuerza |
 | 457 | pendiente | recuperacion-entreno | `si-dormiste-5-horas-baja-carga` | Si dormiste 5 horas: baja carga | entrenar durmiendo poco |
 | 458 | pendiente | recuperacion-entreno | `siesta-opcional-no-ritual-sagrado` | Siesta: opcional, no ritual sagrado | siesta y entrenamiento |
 | 459 | pendiente | recuperacion-entreno | `alcohol-el-viernes-y-entrenar-el-sabado` | Alcohol el viernes y entrenar el sábado | beber y entrenar al día siguiente |

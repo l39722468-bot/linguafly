@@ -2,7 +2,7 @@
 
 Generado por `scripts/build_habitos_catalog.py`. No editar a mano: cambia el script y vuelve a ejecutarlo.
 
-Estado: **2 publicados**, **498 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
+Estado: **7 publicados**, **493 pendientes**. No redactar en bloque: ver [plan](./plan-catalogo-500-500.md).
 
 | cluster | n |
 |---|---|
@@ -35,12 +35,12 @@ Estado: **2 publicados**, **498 pendientes**. No redactar en bloque: ver [plan](
 |---|---|---|---|---|---|
 | 1 | publicado | nucleo | `organizar-comidas-de-la-semana` | Cómo organizar las comidas de la semana: menú fácil | organizar comidas de la semana |
 | 2 | publicado | nucleo | `proteina-hidratos-grasas-guia-practica` | Proteína, hidratos y grasas: cómo armar el plato | proteína hidratos y grasas |
-| 3 | pendiente | comer-para-entrenar | `que-comer-antes-y-despues-de-entrenar` | Qué comer antes y después de entrenar | qué comer antes y después de entrenar |
+| 3 | publicado | comer-para-entrenar | `que-comer-antes-y-despues-de-entrenar` | Qué comer antes y después de entrenar | qué comer antes y después de entrenar |
 | 4 | pendiente | comer-para-entrenar | `proteina-si-entrenas-fuerza-sin-batido-obligatorio` | Proteína si entrenas fuerza, sin batido obligatorio | proteína si entrenas fuerza |
 | 5 | pendiente | comer-para-entrenar | `hidratos-en-dias-de-entreno-y-de-descanso` | Hidratos en días de entreno y de descanso | hidratos días de entreno |
-| 6 | pendiente | comer-para-entrenar | `cenas-rapidas-despues-de-entrenar` | Cenas rápidas después de entrenar | cenas rápidas después de entrenar |
-| 7 | pendiente | comer-para-entrenar | `desayuno-si-entrenas-a-las-7` | Desayuno si entrenas a las 7 | desayuno antes de entrenar por la mañana |
-| 8 | pendiente | comer-para-entrenar | `entrenar-en-ayunas-cuando-no` | Entrenar en ayunas: cuándo no | entrenar en ayunas alimentación |
+| 6 | publicado | comer-para-entrenar | `cenas-rapidas-despues-de-entrenar` | Cenas rápidas después de entrenar | cenas rápidas después de entrenar |
+| 7 | publicado | comer-para-entrenar | `desayuno-si-entrenas-a-las-7` | Desayuno si entrenas a las 7 | desayuno antes de entrenar por la mañana |
+| 8 | publicado | comer-para-entrenar | `entrenar-en-ayunas-cuando-no` | Entrenar en ayunas: cuándo no | entrenar en ayunas alimentación |
 | 9 | pendiente | comer-para-entrenar | `snack-60-90-minutos-antes-de-la-sesion` | Snack 60-90 minutos antes de la sesión | qué merendar antes de entrenar |
 | 10 | pendiente | comer-para-entrenar | `comer-2-horas-antes-un-plato-normal` | Comer 2 horas antes: un plato normal | comida 2 horas antes de entrenar |
 | 11 | pendiente | comer-para-entrenar | `despues-de-entrenar-si-no-tienes-hambre` | Después de entrenar si no tienes hambre | no tengo hambre después de entrenar |
@@ -50,7 +50,7 @@ Estado: **2 publicados**, **498 pendientes**. No redactar en bloque: ver [plan](
 | 15 | pendiente | comer-para-entrenar | `agua-y-sal-si-la-sesion-fue-larga-de-verdad` | Agua y sal si la sesión fue larga de verdad | hidratación después de entrenar |
 | 16 | pendiente | comer-para-entrenar | `entrenar-a-mediodia-tupper-que-se-aguante` | Entrenar a mediodía: tupper que se aguante | comer al mediodía si entrenas |
 | 17 | pendiente | comer-para-entrenar | `entrenar-despues-del-trabajo-no-llegues-vacio` | Entrenar después del trabajo: no llegues vacío | comer por la tarde si entrenas a las 8 |
-| 18 | pendiente | comer-para-entrenar | `dia-de-descanso-no-recortes-a-lo-loco` | Día de descanso: no recortes a lo loco | qué comer el día de descanso |
+| 18 | publicado | comer-para-entrenar | `dia-de-descanso-no-recortes-a-lo-loco` | Día de descanso: no recortes a lo loco | qué comer el día de descanso |
 | 19 | pendiente | comer-para-entrenar | `doble-sesion-casi-nunca-comer-en-medio` | Doble sesión (casi nunca): comer en medio | comer entre dos entrenos |
 | 20 | pendiente | comer-para-entrenar | `cardio-suave-y-desayuno` | Cardio suave y desayuno | qué desayunar si vas a caminar mucho |
 | 21 | pendiente | comer-para-entrenar | `fuerza-de-noche-y-sueno-cena-completa` | Fuerza de noche y sueño: cena completa | cena pesada después de entrenar |

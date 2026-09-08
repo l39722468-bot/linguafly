@@ -25,6 +25,8 @@ related_routes:
   - progresar-sin-lesionarte
   - proteina-hidratos-grasas-guia-practica
   - organizar-comidas-de-la-semana
+  - que-comer-antes-y-despues-de-entrenar
+  - que-hacer-los-dias-que-no-entrenas
 faqs:
   - question: ¿Cuál es una buena rutina de fuerza en casa para principiantes?
     answer: Un full body de 20-30 minutos, tres días por semana, con sentadilla, flexión adaptada, puente de glúteo, plancha, zancada y un remo (toalla o mochila). El patrón importa más que tener mancuernas.
@@ -145,7 +147,7 @@ Dos bloques de 10 minutos en el mismo día (mañana y noche) valen si de verdad 
 - **Copiar una rutina de alguien con dos años de gimnasio.** Su sentadilla no es tu sentadilla.
 - **Añadir cinco accesorios de un vídeo.** Si ya hay seis patrones, el séptimo suele ser ego o aburrimiento. Aburrimiento se cura progresando el que ya tienes, no coleccionando.
 - **Saltar el remo porque “no se ve”.** El tirón equilibra el empuje de las flexiones. Sin él, el hombro y la postura de escritorio se quejan más tarde.
-- **Hacer la sesión en ayunas heroico y marearte.** Si entrenas a las 7 y el estómago lo pide, un yogur o un pan con algo cuenta. El detalle de platos está en alimentación, no aquí; la sesión no se mejora ayunando de teatro.
+- **Hacer la sesión en ayunas heroico y marearte.** Si entrenas a las 7 y el estómago lo pide, un yogur o un pan con algo cuenta. [Entrenar fuerza en ayunas](/blog/alimentacion/entrenar-en-ayunas-cuando-no) casi nunca es la palanca. La sesión no se mejora ayunando de teatro.
 - **Comparar tu semana 2 con un powerlifter.** El espejo del gimnasio ajeno no programa tu salón.
 
 ## Días de descanso si entrenas en casa

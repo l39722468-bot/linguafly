@@ -93,7 +93,7 @@ Cinco minutos son el tiempo real si la sartén está a la vista. Por eso la noch
 
 Deja a la vista: yogur, pan, fruta, sartén. La ropa de entreno en la silla. El desayuno no se inventa a las 6:28. Si el pan está congelado, saca dos rebanadas al poner el despertador o la noche previa.
 
-Cena completa el lunes. Un yogur de cena el domingo y sentadilla el lunes a las 7 es pedir dos palancas. El [antes y después](/blog/alimentacion/que-comer-antes-y-despues-de-entrenar) empieza la noche anterior.
+Cena completa el lunes. Un yogur de cena el domingo y sentadilla el lunes a las 7 es pedir dos palancas. El antes y después empieza la noche anterior.
 
 Si cenas a las 23:00, las 7 duelen más. Mueve cena o sesión. No hay un desayuno milagro que arregle cuatro horas de sueño.
 

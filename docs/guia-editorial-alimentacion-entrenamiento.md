@@ -144,10 +144,11 @@ Puentes naturales entre nevera y sesión.
 
 | Intención | Categoría | Slug propuesto | `related_routes` de salida |
 |---|---|---|---|
-| Qué comer antes y después de entrenar | alimentacion | `comer-antes-despues-entrenar` | rutina-fuerza-principiantes-casa, proteina-hidratos-grasas-guia-practica, progresar-sin-lesionarte |
-| Proteína si haces fuerza (sin batidos obligatorios) | alimentacion | `proteina-si-entrenas-fuerza` | proteina-hidratos-grasas-guia-practica, rutina-fuerza-principiantes-casa, organizar-comidas-de-la-semana |
-| Hidratos en días de entreno vs descanso | alimentacion | `hidratos-dias-entreno-y-descanso` | proteina-hidratos-grasas-guia-practica, progresar-sin-lesionarte, rutina-fuerza-principiantes-casa |
-| Comodín de nevera vacía / cena de 10 minutos | alimentacion | `cenas-rapidas-despues-entrenar` | organizar-comidas-de-la-semana, comer-antes-despues-entrenar, rutina-fuerza-principiantes-casa |
+| Qué comer antes y después de entrenar | alimentacion | `que-comer-antes-y-despues-de-entrenar` | rutina-fuerza-principiantes-casa, proteina-hidratos-grasas-guia-practica, progresar-sin-lesionarte |
+| Entrenar en ayunas: cuándo no | alimentacion | `entrenar-en-ayunas-cuando-no` | desayuno-si-entrenas-a-las-7, rutina-fuerza-principiantes-casa |
+| Cenas rápidas después de entrenar | alimentacion | `cenas-rapidas-despues-de-entrenar` | organizar-comidas-de-la-semana, que-comer-antes-y-despues-de-entrenar, rutina-fuerza-principiantes-casa |
+| Desayuno si entrenas a las 7 | alimentacion | `desayuno-si-entrenas-a-las-7` | entrenar-en-ayunas-cuando-no, que-comer-antes-y-despues-de-entrenar, rutina-fuerza-principiantes-casa |
+| Día de descanso: no recortes | alimentacion | `dia-de-descanso-no-recortes-a-lo-loco` | que-hacer-los-dias-que-no-entrenas, proteina-hidratos-grasas-guia-practica |
 
 ### Cluster C — Recuperación (prioridad de redacción)
 
@@ -155,9 +156,9 @@ El entrenamiento no termina al último ejercicio.
 
 | Intención | Categoría | Slug propuesto | `related_routes` de salida |
 |---|---|---|---|
-| Días que no entrenas: caminar, dormir, comer | entrenamiento | `dias-de-descanso-que-hacer` | progresar-sin-lesionarte, rutina-fuerza-principiantes-casa, organizar-comidas-de-la-semana |
+| Días que no entrenas: caminar, dormir, no un segundo entreno | entrenamiento | `que-hacer-los-dias-que-no-entrenas` | progresar-sin-lesionarte, rutina-fuerza-principiantes-casa, dia-de-descanso-no-recortes-a-lo-loco |
 | Agujetas vs señal de lesión | entrenamiento | `agujetas-o-lesion` | progresar-sin-lesionarte, rutina-fuerza-principiantes-casa |
-| Dormir y fuerza (sin coaching de sueño) | entrenamiento | `sueno-y-fuerza` | progresar-sin-lesionarte, proteina-hidratos-grasas-guia-practica |
+| Dormir y fuerza (sin coaching de sueño) | entrenamiento | `dormir-y-fuerza-lo-basico` | progresar-sin-lesionarte, cenas-rapidas-despues-de-entrenar |
 
 ### Cluster D — Gestos de fuerza (satélites de entrenamiento)
 
@@ -244,16 +245,24 @@ Canibalización: si dos slugs responderían a la misma SERP, es un solo artícul
 
 ## 8. Inventario actual
 
-Publicados (núcleo):
+Publicados (núcleo + oleada 1):
 
 | Estado | Categoría | Artículo |
 |---|---|---|
 | Publicado | alimentacion | [Organizar las comidas de la semana](/blog/alimentacion/organizar-comidas-de-la-semana) |
 | Publicado | alimentacion | [Proteína, hidratos y grasas](/blog/alimentacion/proteina-hidratos-grasas-guia-practica) |
+| Publicado | alimentacion | [Qué comer antes y después de entrenar](/blog/alimentacion/que-comer-antes-y-despues-de-entrenar) |
+| Publicado | alimentacion | [Entrenar en ayunas: cuándo no](/blog/alimentacion/entrenar-en-ayunas-cuando-no) |
+| Publicado | alimentacion | [Cenas rápidas después de entrenar](/blog/alimentacion/cenas-rapidas-despues-de-entrenar) |
+| Publicado | alimentacion | [Desayuno si entrenas a las 7](/blog/alimentacion/desayuno-si-entrenas-a-las-7) |
+| Publicado | alimentacion | [Día de descanso: no recortes](/blog/alimentacion/dia-de-descanso-no-recortes-a-lo-loco) |
 | Publicado | entrenamiento | [Rutina de fuerza en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa) |
 | Publicado | entrenamiento | [Progresar sin lesionarte](/blog/entrenamiento/progresar-sin-lesionarte) |
+| Publicado | entrenamiento | [Qué hacer los días que no entrenas](/blog/entrenamiento/que-hacer-los-dias-que-no-entrenas) |
+| Publicado | entrenamiento | [Dormir y fuerza](/blog/entrenamiento/dormir-y-fuerza-lo-basico) |
+| Publicado | entrenamiento | [Agujetas o señal de parar](/blog/entrenamiento/agujetas-o-lesion) |
 
-Backlog (no redactar en bloque): [plan 500+500](./plan-catalogo-500-500.md), [catálogo entrenamiento](./catalogo-entrenamiento-500.md), [catálogo alimentación](./catalogo-alimentacion-500.md). Oleada 1 = cluster B (comer para entrenar) + C (descanso, agujetas, sueño).
+Backlog: [plan 500+500](./plan-catalogo-500-500.md). Siguiente oleada = gestos de la rutina pilar + logística de nevera.
 
 Los cuatro del núcleo ya cruzan `related_routes` y llevan al menos un enlace contextual al otro vertical. Los siguientes artículos deben **engancharse a este cuadrado**, no empezar otro.
 

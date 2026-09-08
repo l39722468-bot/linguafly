@@ -25,6 +25,8 @@ related_routes:
   - organizar-comidas-de-la-semana
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
+  - que-comer-antes-y-despues-de-entrenar
+  - desayuno-si-entrenas-a-las-7
 faqs:
   - question: ¿Qué son los macronutrientes en la comida?
     answer: "Proteína, hidratos y grasas. No son bandos: son las tres piezas de un plato normal. Entenderlos sirve para armar el almuerzo, no para vivir en una app."
@@ -64,7 +66,7 @@ Señal práctica: **¿ves una fuente de proteína o solo “acompañamiento”?*
 
 Repartirla en las tres comidas principales suele ser más fácil que jugarse todo a la cena. Desayuno solo café y galleta deja el día cojo: yogur, huevo o queso cambian la mañana. Si el mediodía fue flojo, la cena no puede ser un yogur triste.
 
-Si [entrenas fuerza](/blog/entrenamiento/rutina-fuerza-principiantes-casa), priorízala en las comidas alrededor del entrenamiento. No por magia anabólica de 20 minutos, sino porque es más fácil cubrir el día si no lo dejas todo para las 23:00. La [sobrecarga gradual](/blog/entrenamiento/progresar-sin-lesionarte) también pide recuperación: proteína en las comidas principales, no un salto de peso cada sesión y un ayuno de premio.
+Si [entrenas fuerza](/blog/entrenamiento/rutina-fuerza-principiantes-casa), priorízala en las comidas alrededor del entrenamiento. El reloj concreto está en [qué comer antes y después](/blog/alimentacion/que-comer-antes-y-despues-de-entrenar). No por magia anabólica de 20 minutos, sino porque es más fácil cubrir el día si no lo dejas todo para las 23:00. La [sobrecarga gradual](/blog/entrenamiento/progresar-sin-lesionarte) también pide recuperación: proteína en las comidas principales, no un salto de peso cada sesión y un ayuno de premio.
 
 Vegano o vegetariano: el centro sigue teniendo que verse. Tofu, tempeh, legumbre de verdad, huevo y lácteo si eres ovolácteo. El hummus como único plato no llega. El polvo de guisante es atajo, no personalidad.
 

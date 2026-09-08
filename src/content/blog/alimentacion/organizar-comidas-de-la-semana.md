@@ -25,6 +25,8 @@ related_routes:
   - proteina-hidratos-grasas-guia-practica
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
+  - cenas-rapidas-despues-de-entrenar
+  - dia-de-descanso-no-recortes-a-lo-loco
 faqs:
   - question: ¿Cómo organizar las comidas de la semana si trabajo todo el día?
     answer: Elige tres cenas que ya sepas hacer, cocina una o dos bases el día que te vaya bien y deja un comodín (huevos, lata de legumbres). El menú semanal sirve para no decidir a las diez de la noche, no para encerrarte.
@@ -140,7 +142,7 @@ Compra online: la misma lista. El clic fácil no es una estrategia distinta; es 
 
 ## Cenas rápidas y el comodín (no es fracaso)
 
-Si llegas a casa destrozado, el plan tiene que **ensamblarse**, no cocinarse desde cebolla picada. Deja a mano:
+Si llegas a casa destrozado, el plan tiene que **ensamblarse**, no cocinarse desde cebolla picada. El detalle de esa hora está en [cenas rápidas después de entrenar](/blog/alimentacion/cenas-rapidas-despues-de-entrenar). Deja a mano:
 
 - Un segundo congelado decente o una bolsa de verdura.
 - Huevos.

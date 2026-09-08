@@ -30,9 +30,9 @@ faqs:
   - question: ¿Las agujetas significan que el entreno fue bueno?
     answer: No. Puedes progresar sin quedar destrozado y destrozarte sin haber mejorado el patrón. El marcador es la técnica y poder repetir el movimiento.
   - question: ¿Cómo distinguir agujetas de una lesión?
-    answer: Agujeta típica: dolor muscular difuso a las 24-48 h, los dos lados, baja en unos días. Señal de parar: pinchazo localizado (tendón, codo, rodilla) que empeora al día siguiente, el gesto se acorta o hay hinchazón.
+    answer: "Agujeta típica: dolor muscular difuso a las 24-48 h, los dos lados, baja en unos días. Señal de parar: pinchazo localizado (tendón, codo, rodilla) que empeora al día siguiente, el gesto se acorta o hay hinchazón."
   - question: ¿Puedo entrenar con agujetas?
-    answer: Suele sí, con menos rango o menos series en ese gesto. Caminar ayuda más que el sofá total. Si dudas entre agujeta y pinchazo, trata como pinchazo: baja palanca.
+    answer: "Suele sí, con menos rango o menos series en ese gesto. Caminar ayuda más que el sofá total. Si dudas entre agujeta y pinchazo, trata como pinchazo: baja palanca."
   - question: ¿Debo estirar o ponerme hielo?
     answer: Estirar suave, si sienta. Hielo o calor no son un plan. Doce vídeos de YouTube para “curar” no sustituyen bajar carga.
   - question: ¿Cuándo consultar?

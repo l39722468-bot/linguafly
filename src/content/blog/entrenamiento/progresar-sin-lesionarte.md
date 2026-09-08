@@ -25,6 +25,8 @@ related_routes:
   - rutina-fuerza-principiantes-casa
   - proteina-hidratos-grasas-guia-practica
   - organizar-comidas-de-la-semana
+  - dormir-y-fuerza-lo-basico
+  - agujetas-o-lesion
 faqs:
   - question: ¿Qué es la sobrecarga progresiva?
     answer: Añadir un poco de dificultad a un movimiento que todavía controlas. Más repeticiones, más control, un poco más de carga o una variante más exigente. No es cambiar de rutina cada lunes ni subir kilos de golpe.
@@ -149,7 +151,7 @@ El ardor no es el marcador. El fallo técnico (la repetición que ya no es el ge
 
 Progresar también es:
 
-- Dormir lo que puedas (no es un lujo estético). Si una noche es un desastre, baja carga ese día; no “lo compensas” con más series.
+- Dormir lo que puedas (no es un lujo estético). Si una noche es un desastre, baja carga ese día; no “lo compensas” con más series. El criterio está en [dormir y fuerza](/blog/entrenamiento/dormir-y-fuerza-lo-basico).
 - [Comer proteína](/blog/alimentacion/proteina-hidratos-grasas-guia-practica) en las comidas principales. No por una ventana anabólica de 20 minutos. Porque recuperar pide comida, no un ayuno de premio.
 - No entrenar el mismo patrón al fallo todos los días.
 - Tener las cenas mínimamente resueltas: si cada noche es un pedido doble, [organizar las comidas de la semana](/blog/alimentacion/organizar-comidas-de-la-semana) es parte de la progresión, no un extra de nevera.
@@ -158,7 +160,7 @@ El descanso entre series no es tiempo perdido: es lo que permite que la siguient
 
 Alcohol el viernes y sentadilla pesada el sábado: baja palanca o mueve el día. No es moralina. Es que el calendario de tejidos no respeta el afterwork.
 
-Si quieres un punto de partida concreto, combina esta idea con la [rutina corta de fuerza en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa) y **anota**. El cuaderno aburrido es el mejor anti-lesión que existe: te enseña que ya subiste la semana pasada y que hoy no hace falta inventar un récord.
+Si quieres un punto de partida concreto, combina esta idea con la rutina corta de fuerza en casa y **anota**. El cuaderno aburrido es el mejor anti-lesión que existe: te enseña que ya subiste la semana pasada y que hoy no hace falta inventar un récord.
 
 Una sesión de descarga, en la práctica, se parece a la de siempre: mismos ejercicios, mismos descansos. Cambia el número. Si la sentadilla iba a 10 justas, hoy 6-7 limpias. Si la flexión ya era de mesa baja, vuelve un palmo arriba. Terminas con la sensación de “podía más” a propósito. Eso no es tirar el mes. Es pagar el tendón que la semana 3 adelantó.
 

@@ -7,7 +7,7 @@ author: linguafly-team
 title: "Dormir y fuerza: lo básico"
 description: >-
   Sueño y entrenamiento de fuerza: lo básico. Si dormiste poco, baja carga.
-  La sentadilla no se arregla con un café y un récord a las 6:30.
+  La sentadilla no se arregla con un café y un récord a las seis y media.
 readTime: 11 min
 keywords:
   - sueño y entrenamiento de fuerza

@@ -7,7 +7,7 @@ Esto es **backlog editorial**, no un encargo de redactar 1.000 textos. Los artí
 - [Entrenamiento (500)](./catalogo-entrenamiento-500.md)
 - [Alimentación (500)](./catalogo-alimentacion-500.md)
 
-Incluyen los **4 ya publicados** (marcados). Quedan **498 + 498** por escribir.
+Incluyen los **12 ya publicados** (marcados). Quedan **493 + 495** por escribir.
 
 ---
 
@@ -47,7 +47,7 @@ No se recorre el catálogo del 1 al 500. Se cierra un anillo alrededor del núcl
 | Oleada | Qué se escribe | Por qué |
 |---|---|---|
 | 0 | 4 pilares | Hecho |
-| 1 | Cluster B (comer para entrenar) + C (descanso, agujetas, sueño) | Los textos actuales ya lo piden |
+| 1 | Cluster B (comer para entrenar) + C (descanso, agujetas, sueño) | Hecho (8 piezas) |
 | 2 | Gestos de la rutina pilar (sentadilla, flexión, puente, plancha, zancada, remo) + logística de nevera | Satélites del cuadrado |
 | 3 | 3 días gimnasio, poco material (bandas, mochila), compra, batch cooking | Misma persona, otro contexto |
 | 4 | Cardio suave / caminar + timing de comidas + hambre real | Completa la semana |

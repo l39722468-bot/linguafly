@@ -125,7 +125,7 @@ Viernes: puedes salir. Un plato. Vuelves al comodín el lunes. Compensar el sáb
 
 Ducha. Agua. Diez minutos. Luego el plato, aunque sea más pequeño, con las tres piezas. La falta de hambre post-sesión es común. El ayuno de premio no es recuperación. Un yogur solo, si el mediodía ya fue serio, puede puente; si el día fue café y prisas, no.
 
-El [antes y después](/blog/alimentacion/que-comer-antes-y-despues-de-entrenar) dice lo mismo con el reloj de la sesión. Aquí el reloj es el de la nevera a las 21:40.
+El artículo de antes y después dice lo mismo con el reloj de la sesión. Aquí el reloj es el de la nevera a las 21:40.
 
 Si a las 22:10 sigues sin hambre, no te obligues a un banquete. Sí te sientas con proteína e hidrato a la vista. Mitad de ración. El resto, tapado, nevera, desayuno o mediodía. Tirar la cena porque “ya no me entra” y picotear queso a las 23:40 es el mismo hambre con peor hora.
 

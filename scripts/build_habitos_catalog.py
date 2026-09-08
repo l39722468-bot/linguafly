@@ -436,8 +436,8 @@ def entrenamiento() -> list[dict]:
     ]:
         a(row("progresion-satelites", title, intent))
 
+    a(row("molestias", "Agujetas o señal de parar", "agujetas o lesión", "agujetas-o-lesion"))
     for title, intent in [
-        ("Agujetas o señal de parar", "agujetas o lesión"),
         ("Molestia de rodilla en sentadilla: cambiar el gesto", "sentadilla si molesta la rodilla"),
         ("Hombro en el press: bajar el rango", "duele el hombro en el press"),
         ("Lumbar que pica en el peso muerto: bisagra", "duele la lumbar en peso muerto"),
@@ -1277,10 +1277,18 @@ PUBLISHED_SLUGS = {
     "entrenamiento": {
         "rutina-fuerza-principiantes-casa",
         "progresar-sin-lesionarte",
+        "que-hacer-los-dias-que-no-entrenas",
+        "dormir-y-fuerza-lo-basico",
+        "agujetas-o-lesion",
     },
     "alimentacion": {
         "organizar-comidas-de-la-semana",
         "proteina-hidratos-grasas-guia-practica",
+        "que-comer-antes-y-despues-de-entrenar",
+        "entrenar-en-ayunas-cuando-no",
+        "cenas-rapidas-despues-de-entrenar",
+        "desayuno-si-entrenas-a-las-7",
+        "dia-de-descanso-no-recortes-a-lo-loco",
     },
 }
 
@@ -1348,10 +1356,31 @@ def assert_unique(name: str, items: list[dict], expected_clusters: dict[str, int
     existing = {p.stem for p in folder.glob("*.md")} if folder.exists() else set()
     extra = existing - {i["slug"] for i in items}
     missing_pub = expected_pub - {i["slug"] for i in items}
+    missing_files = expected_pub - existing
     if extra:
         raise SystemExit(f"{name}: markdown on disk not in catalog: {sorted(extra)[:10]}")
     if missing_pub:
         raise SystemExit(f"{name}: catalog missing published files: {sorted(missing_pub)}")
+    if missing_files:
+        raise SystemExit(f"{name}: published slug has no markdown: {sorted(missing_files)[:10]}")
+
+
+WAVE1_PUBLISHED = {
+    "que-comer-antes-y-despues-de-entrenar",
+    "entrenar-en-ayunas-cuando-no",
+    "cenas-rapidas-despues-de-entrenar",
+    "desayuno-si-entrenas-a-las-7",
+    "dia-de-descanso-no-recortes-a-lo-loco",
+    "que-hacer-los-dias-que-no-entrenas",
+    "dormir-y-fuerza-lo-basico",
+    "agujetas-o-lesion",
+}
+
+
+def mark_wave1(items: list[dict]) -> None:
+    for item in items:
+        if item["slug"] in WAVE1_PUBLISHED:
+            item["status"] = "publicado"
 
 
 def main() -> None:
@@ -1359,6 +1388,8 @@ def main() -> None:
     assert sum(ALI_CLUSTERS.values()) == 500
     ent = entrenamiento()
     ali = alimentacion()
+    mark_wave1(ent)
+    mark_wave1(ali)
     assert_unique("entrenamiento", ent, ENT_CLUSTERS)
     assert_unique("alimentacion", ali, ALI_CLUSTERS)
     overlap = {i["slug"] for i in ent} & {i["slug"] for i in ali}

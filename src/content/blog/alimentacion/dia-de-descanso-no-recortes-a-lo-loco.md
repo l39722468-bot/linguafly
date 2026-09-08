@@ -7,7 +7,7 @@ author: linguafly-team
 title: "Día de descanso: no recortes a lo loco"
 description: >-
   Qué comer el día de descanso: el mismo tipo de plato, a veces con menos
-  hambre. Recortar pan y ayunar no recupera; estropea el miércoles.
+  hambre. Recortar pan y ayunar no recupera; estropea la siguiente sesión.
 readTime: 12 min
 keywords:
   - qué comer el día de descanso

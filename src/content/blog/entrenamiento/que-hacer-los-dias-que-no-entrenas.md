@@ -7,7 +7,7 @@ author: linguafly-team
 title: "Qué hacer los días que no entrenas"
 description: >-
   Días de descanso: caminar, dormir y no disfrazar un circuito de 40 minutos
-  como “suave”. El off no es sofá total ni un segundo entreno.
+  como “suave”. El off no es sofá total ni un segundo entrenamiento.
 readTime: 11 min
 keywords:
   - días de descanso qué hacer

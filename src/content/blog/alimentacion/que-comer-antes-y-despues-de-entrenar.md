@@ -102,7 +102,7 @@ Snack concreto, siempre el mismo si puedes: un yogur natural; un plátano; una t
 
 **Si faltan 20-30 minutos.** Agua. Quizá un plátano o dos tostadas si eres de los que se marean. No un bocadillo de tortilla entero. La digestión no va a terminar antes del puente de glúteo.
 
-Si entrenas a las 7 de la mañana, el “antes” es un caso aparte: o desayunas algo mínimo, o asumes que no es ayunas heroico de revista. Eso se detalla en [desayuno si entrenas a las 7](/blog/alimentacion/desayuno-si-entrenas-a-las-7) y en [entrenar en ayunas](/blog/alimentacion/entrenar-en-ayunas-cuando-no). Aquí basta la regla: **fuerza y estómago vacío de verdad casi nunca se llevan bien el primer mes**.
+Si entrenas a las 7 de la mañana, el “antes” es un caso aparte: o desayunas algo mínimo, o asumes que no es ayunas heroico de revista. El desayuno de las 7 y el texto de ayunas cubren ese hueco. Aquí basta la regla: **fuerza y estómago vacío de verdad casi nunca se llevan bien el primer mes**.
 
 ## Después: el plato, no el premio
 
