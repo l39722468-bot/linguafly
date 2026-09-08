@@ -787,6 +787,21 @@ WAVE6_PUBLISHED = {
     "modo-de-investigacion-profunda-de-un-chatbot",
 }
 
+WAVE7_PUBLISHED = {
+    "prompt-de-imagen-una-escena-concreta",
+    "texto-dentro-de-una-imagen-la-ia-lo-hace-mal",
+    "midjourney-dall-e-o-firefly-una-tarea-cada-uno",
+    "derechos-de-una-imagen-generada-espana-alto-nivel",
+    "referencia-de-estilo-sin-copiar-a-un-artista-vivo",
+    "no-usar-la-cara-de-una-persona-real-sin-derecho",
+    "transcribir-una-reunion",
+    "whisper-en-local-o-en-la-nube",
+    "voces-sinteticas-cuando-no-clonar-a-nadie",
+    "notas-de-voz-a-texto",
+    "subtitulos-de-un-video",
+    "elevenlabs-una-locucion-corta-y-el-limite",
+}
+
 PUBLISHED_SLUGS = (
     NUCLEO_PUBLISHED
     | WAVE1_PUBLISHED
@@ -795,6 +810,7 @@ PUBLISHED_SLUGS = (
     | WAVE4_PUBLISHED
     | WAVE5_PUBLISHED
     | WAVE6_PUBLISHED
+    | WAVE7_PUBLISHED
 )
 
 

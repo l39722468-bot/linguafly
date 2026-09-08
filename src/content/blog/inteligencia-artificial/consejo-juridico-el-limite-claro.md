@@ -26,6 +26,7 @@ related_routes:
   - contratos-de-clientes-fuera-del-chat-de-consumidor
   - la-ia-no-sustituye-a-un-profesional-colegiado
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
+  - derechos-de-una-imagen-generada-espana-alto-nivel
 faqs:
   - question: ¿ChatGPT es abogado o puede darme un dictamen?
     answer: "No. ChatGPT no es abogado y la respuesta no es un dictamen. Puede aclarar palabras de un párrafo que tú le das. No interpreta tu caso, no te dice si firmar y no sustituye a quien está colegiado."

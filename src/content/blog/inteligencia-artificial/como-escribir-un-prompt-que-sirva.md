@@ -26,7 +26,7 @@ related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - guardar-un-prompt-que-te-funciono
-  - prompt-few-shot-dar-dos-ejemplos-y-parar
+  - prompt-de-imagen-una-escena-concreta
 faqs:
   - question: ¿Qué es un prompt de IA, en una frase?
     answer: "Es el mensaje que le escribes al modelo: la tarea, el contexto y el formato. No es un hechizo. No mejora porque le pongas ‘actúa como un experto mundial’ al principio."

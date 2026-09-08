@@ -26,6 +26,7 @@ related_routes:
   - antropomorfismo-no-es-tu-amigo
   - consejo-medico-el-limite-claro
   - como-usar-un-chatbot-de-ia-por-primera-vez
+  - no-usar-la-cara-de-una-persona-real-sin-derecho
 faqs:
   - question: ¿A partir de qué edad puede un menor tener cuenta en ChatGPT?
     answer: "La que fije el producto en sus condiciones, y puede cambiar. Unos hablan de 13, otros de 18 o de consentimiento de un adulto. No tomes una cifra de un artículo como evangelio. Ábrela en la web oficial. Si dudas, no hay cuenta del menor."

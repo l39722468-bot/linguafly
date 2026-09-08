@@ -25,7 +25,7 @@ related_routes:
   - redactar-un-whatsapp-tenso
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - chatgpt-el-chat-de-siempre-bien-usado
-  - chat-temporal-o-modo-que-no-guarda
+  - notas-de-voz-a-texto
   - menores-cuentas-edad-y-supervision
 faqs:
   - question: ¿Cómo se abre la IA de WhatsApp?

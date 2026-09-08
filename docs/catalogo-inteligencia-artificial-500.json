@@ -4961,7 +4961,7 @@
   },
   {
     "n": 249,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "imagen",
     "slug": "prompt-de-imagen-una-escena-concreta",
     "title": "Prompt de imagen: una escena concreta",
@@ -5021,7 +5021,7 @@
   },
   {
     "n": 252,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "imagen",
     "slug": "texto-dentro-de-una-imagen-la-ia-lo-hace-mal",
     "title": "Texto dentro de una imagen: la IA lo hace mal",
@@ -5061,7 +5061,7 @@
   },
   {
     "n": 254,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "imagen",
     "slug": "midjourney-dall-e-o-firefly-una-tarea-cada-uno",
     "title": "Midjourney, DALL-E o Firefly: una tarea cada uno",
@@ -5081,7 +5081,7 @@
   },
   {
     "n": 255,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "imagen",
     "slug": "derechos-de-una-imagen-generada-espana-alto-nivel",
     "title": "Derechos de una imagen generada (España, alto nivel)",
@@ -5101,7 +5101,7 @@
   },
   {
     "n": 256,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "imagen",
     "slug": "referencia-de-estilo-sin-copiar-a-un-artista-vivo",
     "title": "Referencia de estilo sin copiar a un artista vivo",
@@ -5321,7 +5321,7 @@
   },
   {
     "n": 267,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "imagen",
     "slug": "no-usar-la-cara-de-una-persona-real-sin-derecho",
     "title": "No usar la cara de una persona real sin derecho",
@@ -5441,7 +5441,7 @@
   },
   {
     "n": 273,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "audio",
     "slug": "transcribir-una-reunion",
     "title": "Transcribir una reunión",
@@ -5481,7 +5481,7 @@
   },
   {
     "n": 275,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "audio",
     "slug": "whisper-en-local-o-en-la-nube",
     "title": "Whisper en local o en la nube",
@@ -5501,7 +5501,7 @@
   },
   {
     "n": 276,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "audio",
     "slug": "voces-sinteticas-cuando-no-clonar-a-nadie",
     "title": "Voces sintéticas: cuándo no clonar a nadie",
@@ -5521,7 +5521,7 @@
   },
   {
     "n": 277,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "audio",
     "slug": "elevenlabs-una-locucion-corta-y-el-limite",
     "title": "ElevenLabs: una locución corta y el límite",
@@ -5541,7 +5541,7 @@
   },
   {
     "n": 278,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "audio",
     "slug": "notas-de-voz-a-texto",
     "title": "Notas de voz a texto",
@@ -5561,7 +5561,7 @@
   },
   {
     "n": 279,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "audio",
     "slug": "subtitulos-de-un-video",
     "title": "Subtítulos de un vídeo",

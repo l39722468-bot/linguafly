@@ -8,7 +8,7 @@ Fuente de verdad: `scripts/build_ia_catalog.py` + `scripts/ia_catalog_rows.py`. 
 
 Hay también un JSON generado (`docs/catalogo-inteligencia-artificial-500.json`) para copiar frontmatter. Misma regla: se regenera, no se parchea.
 
-Estado: **76 publicados** (núcleo + oleadas 1–6), **424 pendientes**.
+Estado: **88 publicados** (núcleo + oleadas 1–7), **412 pendientes**.
 
 URL pública futura: `https://linguafly.app/blog/inteligencia-artificial/{slug}`  
 Hub: `/inteligencia-artificial`
@@ -51,7 +51,7 @@ No se recorre el catálogo del 1 al 500. Se cierra un anillo alrededor del núcl
 | 4 | `herramientas` (12) — **redactados** | Sin otro “qué es ChatGPT” |
 | 5 | `escritura` (6) + `estudio` (6) — **redactados** | Entregables y exámenes, con ética |
 | 6 | `codigo` (6) + `investigacion` (6) — **redactados** | Oficio técnico y fuentes |
-| 7 | `imagen` + `audio` | Multimodal con derechos |
+| 7 | `imagen` (6) + `audio` (6) — **redactados** | Multimodal con derechos |
 | 8 | `negocio` + `automatizar` + `local` | Equipos pequeños y modelos en casa |
 | 9 | `docentes` + `idioma-ia` + `regulado` | Aula, práctica de idioma (SERP propia) y límites profesionales |
 | 10 | `hogar` + `etica` + el resto de cada cluster | Profundidad, no otro blog |

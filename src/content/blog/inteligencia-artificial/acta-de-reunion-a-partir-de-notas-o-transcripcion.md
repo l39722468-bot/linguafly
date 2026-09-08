@@ -26,6 +26,7 @@ related_routes:
   - seguimiento-despues-de-una-reunion
   - como-escribir-un-prompt-que-sirva
   - privacidad-al-usar-ia-que-no-pegar-nunca
+  - transcribir-una-reunion
 faqs:
   - question: ¿Cómo hacer un acta de reunión con inteligencia artificial sin inventar?
     answer: "Pegas notas o un recorte de transcripción ya anonimizado. Pides el formato interno: asistentes solo si constan, decisiones con cita, tareas con dueño y plazo solo si están escritos. Si no salió en la reunión, no entra. Lees el acta contra el original. Tú la firmas o la envías, no el modelo."
