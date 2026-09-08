@@ -668,6 +668,8 @@ def existing_content_slugs() -> set[str]:
     if not blog.exists():
         return slugs
     for path in blog.glob("*/*.md"):
+        if path.parent.name == "inteligencia-artificial":
+            continue
         slugs.add(path.stem)
     return slugs
 
@@ -686,6 +688,20 @@ def habit_catalog_slugs() -> set[str]:
                     if slug:
                         slugs.add(slug)
     return slugs
+
+
+NUCLEO_PUBLISHED = {
+    "que-es-la-inteligencia-artificial-sin-ciencia-ficcion",
+    "como-usar-un-chatbot-de-ia-por-primera-vez",
+    "como-escribir-un-prompt-que-sirva",
+    "privacidad-al-usar-ia-que-no-pegar-nunca",
+}
+
+
+def mark_published(items: list[dict]) -> None:
+    for item in items:
+        if item["slug"] in NUCLEO_PUBLISHED:
+            item["status"] = "publicado"
 
 
 def finalize(items: list[dict]) -> list[dict]:
@@ -741,6 +757,17 @@ def assert_unique(items: list[dict]) -> None:
     overlap = {i["slug"] for i in items} & (existing_content_slugs() | habit_catalog_slugs())
     if overlap:
         raise SystemExit(f"slug collides with existing content: {sorted(overlap)[:12]}")
+    folder = ROOT / "src" / "content" / "blog" / "inteligencia-artificial"
+    existing = {p.stem for p in folder.glob("*.md")} if folder.exists() else set()
+    extra = existing - {i["slug"] for i in items}
+    published = {i["slug"] for i in items if i["status"] == "publicado"}
+    if published != NUCLEO_PUBLISHED:
+        raise SystemExit(f"published slugs {sorted(published)} != {sorted(NUCLEO_PUBLISHED)}")
+    missing_files = published - existing
+    if extra:
+        raise SystemExit(f"markdown on disk not in catalog: {sorted(extra)[:12]}")
+    if missing_files:
+        raise SystemExit(f"published slug has no markdown: {sorted(missing_files)}")
 
 
 def render_markdown(path: Path, items: list[dict]) -> None:
@@ -803,6 +830,7 @@ def main() -> None:
     if sum(CLUSTERS.values()) != 500:
         raise SystemExit(f"cluster budget sums to {sum(CLUSTERS.values())}, not 500")
     items = finalize(catalog())
+    mark_published(items)
     assert_unique(items)
     render_markdown(DOCS / "catalogo-inteligencia-artificial-500.md", items)
     render_json(DOCS / "catalogo-inteligencia-artificial-500.json", items)

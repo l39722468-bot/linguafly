@@ -28,6 +28,13 @@ describe("public magazine and English-learning articles", () => {
     expect(
       publicArticles.some((article) => article.slug === "lista-de-la-compra-semanal-sencilla"),
     ).toBe(true);
+    expect(
+      publicArticles.some(
+        (article) =>
+          article.slug === "que-es-la-inteligencia-artificial-sin-ciencia-ficcion" &&
+          article.category === "inteligencia-artificial",
+      ),
+    ).toBe(true);
     expect(publicArticles.some((article) => article.category === "fitness")).toBe(false);
   });
 

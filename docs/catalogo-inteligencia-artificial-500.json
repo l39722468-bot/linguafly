@@ -1,7 +1,7 @@
 [
   {
     "n": 1,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "nucleo",
     "slug": "que-es-la-inteligencia-artificial-sin-ciencia-ficcion",
     "title": "Qué es la inteligencia artificial (sin ciencia ficción)",
@@ -21,7 +21,7 @@
   },
   {
     "n": 2,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "nucleo",
     "slug": "como-usar-un-chatbot-de-ia-por-primera-vez",
     "title": "Cómo usar un chatbot de IA por primera vez",
@@ -41,7 +41,7 @@
   },
   {
     "n": 3,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "nucleo",
     "slug": "como-escribir-un-prompt-que-sirva",
     "title": "Cómo escribir un prompt que sirva",
@@ -61,7 +61,7 @@
   },
   {
     "n": 4,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "nucleo",
     "slug": "privacidad-al-usar-ia-que-no-pegar-nunca",
     "title": "Privacidad al usar IA: qué no pegar nunca",

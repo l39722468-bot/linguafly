@@ -101,13 +101,11 @@ Notas:
 
 Longitud: **~2.000 palabras de cuerpo** (mínimo 2.000, techo ~2.400). Si para llegar al recuento explicas el artículo de al lado, recorta y enlaza.
 
-Comprobar (cuando exista el recuento de esta vertical):
+Comprobar:
 
 ```bash
 python3 scripts/count_habit_article_words.py
 ```
-
-Hasta que el script liste `inteligencia-artificial`, cuenta a mano o amplía el script en la misma oleada en la que redactes.
 
 ### Enlaces en el cuerpo
 
