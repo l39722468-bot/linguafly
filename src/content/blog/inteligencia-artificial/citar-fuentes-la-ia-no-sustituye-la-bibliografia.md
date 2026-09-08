@@ -26,7 +26,7 @@ related_routes:
   - citas-legales-inventadas
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - tfg-usar-ia-sin-plagiar-ni-inventar-bibliografia
-  - usar-ia-en-un-trabajo-sin-que-lo-haga-por-ti
+  - papers-el-chatbot-no-es-google-scholar
   - por-que-un-chatbot-se-inventa-datos
 faqs:
   - question: ¿Puedo copiar la bibliografía que me da ChatGPT?

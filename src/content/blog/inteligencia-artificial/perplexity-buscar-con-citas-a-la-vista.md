@@ -26,6 +26,7 @@ related_routes:
   - por-que-un-chatbot-se-inventa-datos
   - chatgpt-search-frente-a-google
   - citas-legales-inventadas
+  - pedir-fuentes-y-verificarlas-una-a-una
 faqs:
   - question: ¿Perplexity con citas sustituye abrir las fuentes?
     answer: "No: los números y chips son pistas. El trabajo es el clic. Si el enlace no carga, redirige a un buscador o el párrafo no dice eso, esa frase no se usa. El tono de informe no cuenta."

@@ -26,6 +26,7 @@ related_routes:
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - dni-nie-y-documentos-de-identidad
   - crear-una-cuenta-de-chatgpt-y-configurar-lo-basico
+  - no-pegar-secretos-ni-el-env
 faqs:
   - question: ¿Cómo activo el chat temporal en ChatGPT?
     answer: "En el chat, buscas el control de conversación temporal o de no guardar en el historial (el sitio se mueve: a veces junto al nombre del modelo, a veces en un menú nuevo). Lo enciendes, escribes, copias lo validado fuera y cierras. No memorices el icono de una captura antigua."

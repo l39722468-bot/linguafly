@@ -38,7 +38,7 @@ describe("public magazine and English-learning articles", () => {
     expect(
       publicArticles.some(
         (article) =>
-          article.slug === "usar-ia-para-un-borrador-de-articulo-tu-editas" &&
+          article.slug === "pedir-que-te-expliquen-un-error-de-codigo" &&
           article.category === "inteligencia-artificial",
       ),
     ).toBe(true);

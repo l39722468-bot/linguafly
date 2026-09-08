@@ -22,7 +22,7 @@ excerpt: >-
   o para un profesional). Si sigue sin servir, paras. No hay atajo.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/que-hacer-cuando-el-chatbot-se-niega'
 related_routes:
-  - como-usar-un-chatbot-de-ia-por-primera-vez
+  - pedir-codigo-defensivo-no-un-exploit
   - como-escribir-un-prompt-que-sirva
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - consejo-medico-el-limite-claro

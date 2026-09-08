@@ -26,6 +26,7 @@ related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - por-que-un-chatbot-se-inventa-datos
   - chatgpt-el-chat-de-siempre-bien-usado
+  - modo-de-investigacion-profunda-de-un-chatbot
 faqs:
   - question: ¿ChatGPT Search o Google para una duda de hoy?
     answer: "Google si necesitas ver la página, un mapa, varios titulares o un PDF oficial que ya sabes buscar. ChatGPT Search si tienes una pregunta concreta y quieres un resumen con enlaces. En los dos casos abres la fuente. El resumen no es la prueba."

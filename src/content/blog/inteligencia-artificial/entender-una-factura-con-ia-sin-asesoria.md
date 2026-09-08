@@ -27,6 +27,7 @@ related_routes:
   - la-ia-no-sustituye-a-un-profesional-colegiado
   - como-escribir-un-prompt-que-sirva
   - privacidad-al-usar-ia-que-no-pegar-nunca
+  - datos-publicos-de-espana-ine-boe-y-sede
 faqs:
   - question: ¿Puedo pegar una factura en ChatGPT para que me la explique?
     answer: "Puedes pegar un extracto ya recortado: conceptos, importes, fechas. Antes quitas IBAN, NIF, dirección, número de cuenta y cualquier código de cliente que no haga falta. Pides glosario y preguntas para la compañía. No pides si ‘está bien’ ni si debes impugnarla."

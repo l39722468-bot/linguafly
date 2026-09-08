@@ -26,6 +26,7 @@ related_routes:
   - historial-medico-fuera-del-chat
   - contratos-de-clientes-fuera-del-chat-de-consumidor
   - chat-temporal-o-modo-que-no-guarda
+  - no-pegar-secretos-ni-el-env
 faqs:
   - question: ¿Puedo pegar el DNI en ChatGPT para que extraiga los campos?
     answer: "No. Aunque el modelo sepa leer el documento, el envío ya ha salido de tu aparato. Rellenas tú el formulario con el plástico a la vista, o usas un gestor de documentos que no sea un chat de consumo. Extraer campos no justifica el pegado."

@@ -3281,7 +3281,7 @@
   },
   {
     "n": 165,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "codigo",
     "slug": "pedir-que-te-expliquen-un-error-de-codigo",
     "title": "Pedir que te expliquen un error de código",
@@ -3301,7 +3301,7 @@
   },
   {
     "n": 166,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "codigo",
     "slug": "un-refactor-pequeno-no-reescribir-el-proyecto",
     "title": "Un refactor pequeño, no reescribir el proyecto",
@@ -3321,7 +3321,7 @@
   },
   {
     "n": 167,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "codigo",
     "slug": "tests-unitarios-a-partir-de-una-funcion",
     "title": "Tests unitarios a partir de una función",
@@ -3641,7 +3641,7 @@
   },
   {
     "n": 183,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "codigo",
     "slug": "no-pegar-secretos-ni-el-env",
     "title": "No pegar secretos ni el .env",
@@ -3661,7 +3661,7 @@
   },
   {
     "n": 184,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "codigo",
     "slug": "programar-en-pareja-con-copilot",
     "title": "Programar en pareja con Copilot",
@@ -3821,7 +3821,7 @@
   },
   {
     "n": 192,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "codigo",
     "slug": "pedir-codigo-defensivo-no-un-exploit",
     "title": "Pedir código defensivo, no un exploit",
@@ -5781,7 +5781,7 @@
   },
   {
     "n": 290,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "investigacion",
     "slug": "pedir-fuentes-y-verificarlas-una-a-una",
     "title": "Pedir fuentes y verificarlas una a una",
@@ -5801,7 +5801,7 @@
   },
   {
     "n": 291,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "investigacion",
     "slug": "papers-el-chatbot-no-es-google-scholar",
     "title": "Papers: el chatbot no es Google Scholar",
@@ -5841,7 +5841,7 @@
   },
   {
     "n": 293,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "investigacion",
     "slug": "un-brief-de-investigacion-de-una-pagina",
     "title": "Un brief de investigación de una página",
@@ -5921,7 +5921,7 @@
   },
   {
     "n": 297,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "investigacion",
     "slug": "wikipedia-como-punto-de-partida-no-de-cierre",
     "title": "Wikipedia como punto de partida, no de cierre",
@@ -5941,7 +5941,7 @@
   },
   {
     "n": 298,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "investigacion",
     "slug": "datos-publicos-de-espana-ine-boe-y-sede",
     "title": "Datos públicos de España: INE, BOE y sede",
@@ -6081,7 +6081,7 @@
   },
   {
     "n": 305,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "investigacion",
     "slug": "modo-de-investigacion-profunda-de-un-chatbot",
     "title": "Modo de investigación profunda de un chatbot",

@@ -772,6 +772,21 @@ WAVE5_PUBLISHED = {
     "mantener-tu-vocabulario-y-no-el-del-modelo",
 }
 
+WAVE6_PUBLISHED = {
+    "pedir-que-te-expliquen-un-error-de-codigo",
+    "un-refactor-pequeno-no-reescribir-el-proyecto",
+    "tests-unitarios-a-partir-de-una-funcion",
+    "no-pegar-secretos-ni-el-env",
+    "programar-en-pareja-con-copilot",
+    "pedir-codigo-defensivo-no-un-exploit",
+    "pedir-fuentes-y-verificarlas-una-a-una",
+    "papers-el-chatbot-no-es-google-scholar",
+    "datos-publicos-de-espana-ine-boe-y-sede",
+    "un-brief-de-investigacion-de-una-pagina",
+    "wikipedia-como-punto-de-partida-no-de-cierre",
+    "modo-de-investigacion-profunda-de-un-chatbot",
+}
+
 PUBLISHED_SLUGS = (
     NUCLEO_PUBLISHED
     | WAVE1_PUBLISHED
@@ -779,6 +794,7 @@ PUBLISHED_SLUGS = (
     | WAVE3_PUBLISHED
     | WAVE4_PUBLISHED
     | WAVE5_PUBLISHED
+    | WAVE6_PUBLISHED
 )
 
 

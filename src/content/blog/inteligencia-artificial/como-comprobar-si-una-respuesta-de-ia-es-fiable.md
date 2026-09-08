@@ -25,7 +25,7 @@ related_routes:
   - por-que-un-chatbot-se-inventa-datos
   - perplexity-buscar-con-citas-a-la-vista
   - citar-fuentes-la-ia-no-sustituye-la-bibliografia
-  - como-escribir-un-prompt-que-sirva
+  - pedir-fuentes-y-verificarlas-una-a-una
   - confianza-excesiva-el-texto-suena-bien
 faqs:
   - question: ¿Cómo comprobar si una respuesta de ChatGPT es fiable?
