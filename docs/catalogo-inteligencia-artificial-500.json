@@ -1441,7 +1441,7 @@
   },
   {
     "n": 73,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "chat-diario",
     "slug": "pedir-a-la-ia-un-plan-del-dia-realista",
     "title": "Pedir a la IA un plan del día realista",
@@ -1481,7 +1481,7 @@
   },
   {
     "n": 75,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "chat-diario",
     "slug": "preparar-una-conversacion-dificil",
     "title": "Preparar una conversación difícil",
@@ -1501,7 +1501,7 @@
   },
   {
     "n": 76,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "chat-diario",
     "slug": "entender-una-factura-con-ia-sin-asesoria",
     "title": "Entender una factura con IA (sin asesoría)",
@@ -1521,7 +1521,7 @@
   },
   {
     "n": 77,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "chat-diario",
     "slug": "redactar-un-whatsapp-tenso",
     "title": "Redactar un WhatsApp tenso",
@@ -1541,7 +1541,7 @@
   },
   {
     "n": 78,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "chat-diario",
     "slug": "preparar-una-reunion-de-15-minutos",
     "title": "Preparar una reunión de 15 minutos",
@@ -2021,7 +2021,7 @@
   },
   {
     "n": 102,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "chat-diario",
     "slug": "preparar-la-compra-semanal-con-un-chatbot-el-angulo-es-la-ia",
     "title": "Preparar la compra semanal con un chatbot (el ángulo es la IA)",
@@ -2561,7 +2561,7 @@
   },
   {
     "n": 129,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "oficina",
     "slug": "redactar-un-email-profesional-con-ia",
     "title": "Redactar un email profesional con IA",
@@ -2581,7 +2581,7 @@
   },
   {
     "n": 130,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "oficina",
     "slug": "resumir-un-hilo-de-emails",
     "title": "Resumir un hilo de emails",
@@ -2601,7 +2601,7 @@
   },
   {
     "n": 131,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "oficina",
     "slug": "acta-de-reunion-a-partir-de-notas-o-transcripcion",
     "title": "Acta de reunión a partir de notas o transcripción",
@@ -2681,7 +2681,7 @@
   },
   {
     "n": 135,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "oficina",
     "slug": "responder-a-un-cliente-enfadado",
     "title": "Responder a un cliente enfadado",
@@ -3001,7 +3001,7 @@
   },
   {
     "n": 151,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "oficina",
     "slug": "seguimiento-despues-de-una-reunion",
     "title": "Seguimiento después de una reunión",
@@ -3261,7 +3261,7 @@
   },
   {
     "n": 164,
-    "estado": "pendiente",
+    "estado": "publicado",
     "cluster": "oficina",
     "slug": "que-pegar-del-crm-y-que-no",
     "title": "Qué pegar del CRM y qué no",

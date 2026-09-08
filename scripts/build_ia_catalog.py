@@ -727,7 +727,22 @@ WAVE2_PUBLISHED = {
     "citas-legales-inventadas",
 }
 
-PUBLISHED_SLUGS = NUCLEO_PUBLISHED | WAVE1_PUBLISHED | WAVE2_PUBLISHED
+WAVE3_PUBLISHED = {
+    "redactar-un-email-profesional-con-ia",
+    "resumir-un-hilo-de-emails",
+    "acta-de-reunion-a-partir-de-notas-o-transcripcion",
+    "responder-a-un-cliente-enfadado",
+    "seguimiento-despues-de-una-reunion",
+    "que-pegar-del-crm-y-que-no",
+    "redactar-un-whatsapp-tenso",
+    "preparar-una-conversacion-dificil",
+    "preparar-una-reunion-de-15-minutos",
+    "pedir-a-la-ia-un-plan-del-dia-realista",
+    "preparar-la-compra-semanal-con-un-chatbot-el-angulo-es-la-ia",
+    "entender-una-factura-con-ia-sin-asesoria",
+}
+
+PUBLISHED_SLUGS = NUCLEO_PUBLISHED | WAVE1_PUBLISHED | WAVE2_PUBLISHED | WAVE3_PUBLISHED
 
 
 def mark_published(items: list[dict]) -> None:

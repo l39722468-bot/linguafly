@@ -25,7 +25,7 @@ related_routes:
   - batch-cooking-de-una-hora
   - presupuesto-semanal-de-comida-realista
   - proteina-hidratos-grasas-guia-practica
-  - rutina-fuerza-principiantes-casa
+  - preparar-la-compra-semanal-con-un-chatbot-el-angulo-es-la-ia
 faqs:
   - question: ¿Cómo se hace una lista de la compra semanal?
     answer: Primero el plan de tres cenas, dos desayunos y un comodín. Después abres nevera y despensa. Luego escribes la lista por bloques. Si no está en el plan, no entra.

@@ -26,6 +26,7 @@ related_routes:
   - consejo-juridico-el-limite-claro
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion
   - confianza-excesiva-el-texto-suena-bien
+  - entender-una-factura-con-ia-sin-asesoria
 faqs:
   - question: ¿Puedo usar ChatGPT en lugar de ir al médico, al abogado o al gestor?
     answer: "No. ChatGPT no es médico, abogado ni gestor. Puede ayudarte a ordenar dudas y a entender palabras de un texto que ya tienes. No diagnostica, no interpreta tu caso, no presenta un escrito ni hace tu declaración. La firma y la responsabilidad son de un profesional titulado o de ti cuando actúas, no del chat."

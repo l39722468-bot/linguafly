@@ -26,6 +26,7 @@ related_routes:
   - prompt-few-shot-dar-dos-ejemplos-y-parar
   - guardar-un-prompt-que-te-funciono
   - conversacion-nueva-o-seguir-el-mismo-hilo
+  - acta-de-reunion-a-partir-de-notas-o-transcripcion
 faqs:
   - question: ¿Cómo pasar notas de una reunión a una lista de tareas con ChatGPT?
     answer: "Pega las notas, pide una tabla con tarea, responsable y plazo, y ordena que solo extraiga acciones que estén escritas. Si no hay dueño o fecha, la celda es ‘no aparece’. No pidas un plan de proyecto. Lee la tabla contra el original."

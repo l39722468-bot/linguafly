@@ -24,7 +24,7 @@ canonical: 'https://linguafly.app/blog/inteligencia-artificial/primeros-7-dias-u
 related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - chatgpt-gemini-o-claude-por-donde-empezar
-  - guardar-un-prompt-que-te-funciono
+  - pedir-a-la-ia-un-plan-del-dia-realista
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - como-escribir-un-prompt-que-sirva
 faqs:
