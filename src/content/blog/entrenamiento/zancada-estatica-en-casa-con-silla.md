@@ -21,7 +21,7 @@ excerpt: >-
   La silla no es trampa. Es cómo dejas de bailar el equilibrio y empiezas a bajar.
 canonical: 'https://linguafly.app/blog/entrenamiento/zancada-estatica-en-casa-con-silla'
 image: /blog/entrenamiento/zancada-estatica-en-casa-con-silla/zancada.png
-alt: Zancada estática: EMPUJA el talón de delante, rodilla sobre el pie, silla de apoyo
+alt: "Zancada estática: EMPUJA el talón de delante, rodilla sobre el pie, silla de apoyo"
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte

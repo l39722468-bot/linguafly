@@ -21,7 +21,7 @@ excerpt: >-
   Diez flexiones limpias en mesa ganan a tres en el suelo con la cadera rota.
 canonical: 'https://linguafly.app/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo'
 image: /blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/mesa.png
-alt: Flexión inclinada en mesa: flecha EMPUJA en las palmas, cuerpo en línea
+alt: "Flexión inclinada en mesa: flecha EMPUJA en las palmas, cuerpo en línea"
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte

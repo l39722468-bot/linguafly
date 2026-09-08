@@ -22,7 +22,7 @@ excerpt: >-
   repeticiones más. Así se progresa en casa sin convertirte en un gimnasio.
 canonical: 'https://linguafly.app/blog/entrenamiento/rutina-fuerza-principiantes-casa'
 image: /blog/entrenamiento/rutina-fuerza-principiantes-casa/gestos.png
-alt: Seis gestos con flechas: sentadilla, flexión, puente, plancha, zancada y remo con mochila
+alt: "Seis gestos con flechas: sentadilla, flexión, puente, plancha, zancada y remo con mochila"
 related_routes:
   - progresar-sin-lesionarte
   - sentadilla-en-casa-de-la-silla-al-aire

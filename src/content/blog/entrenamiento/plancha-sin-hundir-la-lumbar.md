@@ -22,7 +22,7 @@ excerpt: >-
   Si tiemblas a los 12 segundos con forma, ese es tu número. Sube cuando no te hunda.
 canonical: 'https://linguafly.app/blog/entrenamiento/plancha-sin-hundir-la-lumbar'
 image: /blog/entrenamiento/plancha-sin-hundir-la-lumbar/plancha.png
-alt: Plancha de antebrazos: línea de cabeza a talones, aspa roja si la cadera se hunde
+alt: "Plancha de antebrazos: línea de cabeza a talones, aspa roja si la cadera se hunde"
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte

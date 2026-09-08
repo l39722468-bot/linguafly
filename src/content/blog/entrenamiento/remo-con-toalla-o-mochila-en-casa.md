@@ -21,7 +21,7 @@ excerpt: >-
   Saltar el remo porque no se ve es cómo el hombro de escritorio se queja más tarde.
 canonical: 'https://linguafly.app/blog/entrenamiento/remo-con-toalla-o-mochila-en-casa'
 image: /blog/entrenamiento/remo-con-toalla-o-mochila-en-casa/mochila.png
-alt: Remo con mochila: flecha TIRA hacia la cadera, espalda larga, sin redondear
+alt: "Remo con mochila: flecha TIRA hacia la cadera, espalda larga, sin redondear"
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte

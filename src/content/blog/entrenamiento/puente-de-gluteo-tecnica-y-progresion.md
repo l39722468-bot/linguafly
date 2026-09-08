@@ -22,7 +22,7 @@ excerpt: >-
   un segundo, sin arquear la lumbar.
 canonical: 'https://linguafly.app/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion'
 image: /blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion/arriba.png
-alt: Puente de glúteo arriba: EMPUJA talones, cadera alta, sin arco lumbar
+alt: "Puente de glúteo arriba: EMPUJA talones, cadera alta, sin arco lumbar"
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte

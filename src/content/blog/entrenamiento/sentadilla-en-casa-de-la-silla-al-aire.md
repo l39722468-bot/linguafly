@@ -23,7 +23,7 @@ excerpt: >-
   el movimiento.
 canonical: 'https://linguafly.app/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire'
 image: /blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/silla.png
-alt: Sentadilla a la silla: flecha EMPUJA en los talones, tronco alineado
+alt: "Sentadilla a la silla: flecha EMPUJA en los talones, tronco alineado"
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte
