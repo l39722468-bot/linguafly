@@ -4,12 +4,12 @@ export function OrganizationSchema() {
   const siteUrl = getSiteUrl();
   const schema = {
     "@context": "https://schema.org",
-    "@type": "EducationalOrganization",
+    "@type": "Organization",
     "name": SITE_BRAND_NAME,
-    "alternateName": ["Linguafly", "Linguafly English"],
+    "alternateName": ["Linguafly"],
     "url": siteUrl,
     "logo": getAbsoluteUrl('/logo.png'),
-    "description": "Blog y cursos de inglés gratuitos para todos los niveles (A1-C2).",
+    "description": "Revista de artículos prácticos sobre idiomas, alimentación y entrenamiento.",
     "address": {
       "@type": "PostalAddress",
       "addressCountry": "ES",
@@ -30,26 +30,7 @@ export function OrganizationSchema() {
       "@type": "Country",
       "name": "España"
     },
-    "hasOfferCatalog": {
-      "@type": "OfferCatalog",
-      "name": "Cursos de Inglés gratuitos",
-      "itemListElement": [
-        {
-          "@type": "Offer",
-          "price": "0",
-          "priceCurrency": "EUR",
-          "itemOffered": {
-            "@type": "Course",
-            "name": "Cursos de Inglés General (A1-C2)",
-            "description": "Programas gratuitos desde nivel básico hasta avanzado",
-            "provider": {
-              "@type": "EducationalOrganization",
-              "name": SITE_BRAND_NAME
-            }
-          }
-        }
-      ]
-    }
+    "knowsAbout": ["Idiomas", "Alimentación", "Entrenamiento"]
   };
 
   return (
@@ -233,7 +214,7 @@ export function WebsiteSchema() {
     "@type": "WebSite",
     "name": SITE_BRAND_NAME,
     "url": siteUrl,
-    "description": "Blog y cursos de inglés gratuitos",
+    "description": "Artículos de idiomas, alimentación y entrenamiento",
     "inLanguage": "es",
     "potentialAction": {
       "@type": "SearchAction",

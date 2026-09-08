@@ -6,34 +6,11 @@ export default function robots(): MetadataRoute.Robots {
   return {
     rules: [
       {
-        userAgent: "Mediapartners-Google",
-        allow: ["/"],
-        disallow: "",
-      },
-      {
-        userAgent: "Google-Display-Ads-Bot",
-        allow: ["/"],
-        disallow: "",
-      },
-      {
-        userAgent: "AdsBot-Google",
-        allow: ["/"],
-      },
-      {
-        userAgent: "Googlebot",
-        allow: ["/", "/ads.txt"],
-      },
-      {
-        userAgent: "Google-InspectionTool",
-        allow: ["/", "/ads.txt"],
-      },
-      {
         userAgent: "*",
-        allow: ["/"],
+        allow: ["/", "/ads.txt"],
         disallow: [
           "/api/",
           "/demo-course/",
-          // Rutas legacy retiradas (por si quedan URLs indexadas)
           "/cuenta/",
           "/auth/",
           "/checkout/",
@@ -42,6 +19,25 @@ export default function robots(): MetadataRoute.Robots {
           "/success",
           "/mi-panel/",
           "/dashboard/",
+          "/curso-a1",
+          "/curso-a2",
+          "/curso-b1",
+          "/curso-b2",
+          "/curso-c1",
+          "/curso-c2",
+          "/frases-en-ingles",
+          "/vocabulario",
+          "/aprender-ingles",
+          "/blog/gramatica",
+          "/blog/viajes",
+          "/blog/trabajo",
+          "/blog/examenes",
+          "/blog/metodos",
+          "/blog/temas",
+          "/blog/curso-a1",
+          "/blog/curso-a2",
+          "/blog/curso-b1",
+          "/blog/curso-b2",
         ],
       },
     ],

@@ -14,6 +14,7 @@ import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
 import { CopyProtection } from "@/components/blog/CopyProtection";
 import { BlogArticlePdfDownload } from "@/components/blog/BlogArticlePdfDownload";
 import { getBlogArticles, getArticleBySlug, getRelatedArticles, getRelatedByKeywords, getArticlesByCategory, normalizeCategory, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
+import { isPublicArticleCategory } from "@/lib/site-catalog";
 import { expandBlogGlosses } from "@/lib/blog-glosses";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
@@ -107,6 +108,9 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const wordCount = (article.content || "").split(/\s+/).length;
 
   const categoryLabels: Record<string, string> = {
+    idiomas: "Idiomas",
+    alimentacion: "Alimentación",
+    entrenamiento: "Entrenamiento",
     trabajo: "Inglés para Trabajar",
     viajes: "Inglés para Viajar",
     examenes: "Preparación de Exámenes",
@@ -379,9 +383,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                        {article.title}
                      </h1>
 
+                     {isPublicArticleCategory(normalizedCategory) ? null : (
                      <div className="print-hidden">
                        <BlogExerciseMapBanner articleSlug={slug} articleTitle={article.title} />
                      </div>
+                     )}
 
                      <div className="flex items-center justify-between py-6 border-y border-slate-50 print-hidden">
                        <div className="flex items-center gap-3">
@@ -466,10 +472,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       </div>
                     )}
 
-                    {/* SEO Interlinking Block */}
+                    {isPublicArticleCategory(normalizedCategory) ? null : (
                     <div className="print-hidden">
                       <SEOInterlinking category={normalizedCategory} />
                     </div>
+                    )}
                     
                     {/* Dynamic Topic Cluster */}
                     <div className="print-hidden">

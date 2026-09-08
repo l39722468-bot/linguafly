@@ -1,131 +1,109 @@
-import dynamic from "next/dynamic";
-import { Suspense } from "react";
 import { Navigation } from "@/components/sections/Navigation";
+import { Footer } from "@/components/sections/Footer";
+import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
 import Link from "next/link";
-import { Metadata } from "next";
+import type { Metadata } from "next";
 import { getBlogArticles } from "@/lib/blog";
-import { HomeBelowFold } from "./HomeBelowFold";
-
-const Footer = dynamic(() => import("@/components/sections/Footer").then((m) => ({ default: m.Footer })), {
-  ssr: true,
-  loading: () => <footer className="h-64 bg-slate-900" aria-hidden="true" />,
-});
+import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
+import { SITE_DESCRIPTION, SITE_TAGLINE, SITE_VERTICALS } from "@/lib/site-catalog";
 
 export const metadata: Metadata = {
-  title: "Blog para Aprender Inglés: Guías, Frases y Consultas",
-  description: "Blog de contenido de calidad para resolver dudas de inglés: gramática, vocabulario, frases útiles, métodos de estudio y recursos prácticos.",
+  title: `${SITE_TAGLINE.replace(/\.$/, "")} | ${SITE_BRAND_NAME}`,
+  description: SITE_DESCRIPTION,
   keywords: [
-    "blog de inglés",
-    "consultas de inglés",
-    "gramática inglesa",
-    "vocabulario inglés",
-    "frases en inglés"
+    "artículos de idiomas",
+    "alimentación",
+    "entrenamiento",
+    "guías prácticas",
+    SITE_BRAND_NAME,
   ],
   alternates: {
-    canonical: 'https://linguafly.app',
+    canonical: getAbsoluteUrl("/"),
   },
 };
 
 export default function HomePage() {
-  const latestArticles = getBlogArticles()
-    .slice(0, 3);
-  
+  const articles = getBlogArticles();
+  const featured = articles.find((article) => article.featured) || articles[0];
+
   return (
     <>
       <Navigation />
-      
-      <main className="min-h-screen">
-        {/* Hero editorial */}
-        <section className="hero-gradient relative pt-32 pb-20 px-4 sm:px-6 lg:px-8 overflow-hidden">
-          {/* Gradiente estático (blobs animados eliminados para reducir render ~1s) */}
-          <div className="absolute inset-0 bg-gradient-to-br from-coral-100/20 via-transparent to-peach-100/20 pointer-events-none" aria-hidden="true" />
-
-          <div className="relative max-w-7xl mx-auto">
-            {/* Badge */}
-            <div className="flex justify-center mb-6">
-              <div className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-white shadow-lg text-sm font-black">
-                <span className="w-2 h-2 bg-[#FF6B6B] rounded-full animate-pulse"></span>
-                <span className="bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] bg-clip-text text-transparent">
-                  Blog de consultas para aprender inglés
-                </span>
-              </div>
-            </div>
-            {/* Main Heading */}
-            <div className="text-center mb-12">
-              <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold mb-6 leading-tight text-gray-900">
-                Resuelve tus dudas de inglés<br />
-                <span className="bg-gradient-to-r from-[#FF6B6B] to-[#FF8E53] bg-clip-text text-transparent">
-                  con guías claras y prácticas
-                </span>
-              </h1>
-              
-              <p className="text-xl sm:text-2xl text-gray-700 max-w-3xl mx-auto mb-4 leading-relaxed font-semibold">
-                Encuentra respuestas sobre <span className="font-black text-[#FF6B6B]">gramática</span>, <span className="font-black text-[#FF6B6B]">vocabulario</span>, frases reales y métodos de estudio.
-              </p>
-              
-              <p className="text-lg text-gray-600 mb-10 font-semibold">
-                Contenido editorial actualizado para consultas rápidas y aprendizaje diario.
-              </p>
-
-              {/* CTAs */}
-              <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-                <Link
-                  href="/blog"
-                  className="cta-primary inline-flex items-center gap-2"
-                >
-                  📰 Explorar el Blog
-                </Link>
-                
-                <Link
-                  href="/frases-en-ingles"
-                  className="inline-flex items-center gap-2 px-8 py-4 rounded-xl bg-white text-coral-700 font-black text-lg hover:shadow-lg hover:scale-105 transition-all border-2 border-coral-100"
-                >
-                  🗣️ Ver Frases por Tema
-                </Link>
-                
-                <Link
-                  href="#contenido"
-                  className="inline-flex items-center gap-2 px-8 py-4 rounded-xl border-2 border-white/20 bg-white/10 text-white font-black text-lg hover:bg-white hover:text-coral-600 transition-all backdrop-blur-sm"
-                >
-                  Ver Contenido →
-                </Link>
-              </div>
-            </div>
-
-            {/* Trust Indicators */}
-            <div className="flex flex-wrap items-center justify-center gap-8">
-              <div className="flex items-center gap-3 bg-white px-6 py-3 rounded-xl shadow-lg">
-                <span className="text-yellow-400">⭐⭐⭐⭐⭐</span>
-                <span className="font-black text-gray-900">Guías prácticas</span>
-                <span className="text-gray-600 font-semibold">para dudas reales</span>
-              </div>
-              <div className="flex items-center gap-3 bg-white px-6 py-3 rounded-xl shadow-lg">
-                <span className="text-2xl">🇪🇸</span>
-                <span className="font-black text-gray-900">Enfoque claro en español</span>
-              </div>
-              <div className="flex items-center gap-3 bg-white px-6 py-3 rounded-xl shadow-lg">
-                <span className="text-2xl">📚</span>
-                <span className="font-black text-gray-900">Gramática, frases y vocabulario</span>
-              </div>
-            </div>
-
-            <p className="text-center mt-10">
-              <Link
-                href="/ingles-para-viajar"
-                className="inline-flex items-center gap-2 text-base sm:text-lg font-black text-orange-800 bg-orange-50 hover:bg-orange-100 border-2 border-orange-200 px-5 py-3 rounded-2xl transition-colors"
-              >
-                <span aria-hidden>✈️</span>
-                ¿Vas a viajar? Hub: inglés práctico para aeropuerto, hotel y más
-              </Link>
+      <main className="min-h-screen bg-cream-100">
+        <section className="relative overflow-hidden px-4 pb-20 pt-24 sm:px-6 lg:px-8">
+          <div className="absolute inset-0 bg-gradient-to-br from-coral-50 via-cream-100 to-sky-50" />
+          <div className="relative mx-auto max-w-6xl text-center">
+            <p className="mb-6 inline-flex items-center gap-2 rounded-full bg-white px-5 py-2 text-sm font-black text-coral-700 shadow-sm">
+              Nueva revista · tres temáticas
             </p>
+            <h1 className="font-display mb-6 text-4xl font-black leading-tight text-slate-900 sm:text-6xl lg:text-7xl">
+              Idiomas, alimentación
+              <br />
+              <span className="bg-gradient-to-r from-coral-600 to-peach-500 bg-clip-text text-transparent">
+                y entrenamiento
+              </span>
+            </h1>
+            <p className="mx-auto mb-10 max-w-2xl text-lg font-medium text-slate-600 sm:text-xl">
+              Artículos nuevos, escritos para usarse. La web anterior de cursos de inglés queda aparcada: de momento no publicamos nada de lo antiguo.
+            </p>
+            <div className="flex flex-col items-center justify-center gap-3 sm:flex-row">
+              <Link
+                href="/blog"
+                className="inline-flex rounded-2xl bg-gradient-to-r from-coral-500 to-peach-500 px-8 py-4 text-lg font-black text-white shadow-coral hover:opacity-95"
+              >
+                Ver artículos
+              </Link>
+              <Link
+                href="#tematicas"
+                className="inline-flex rounded-2xl border-2 border-slate-200 bg-white px-8 py-4 text-lg font-black text-slate-800 hover:border-coral-200"
+              >
+                Elegir temática
+              </Link>
+            </div>
           </div>
         </section>
 
-        <Suspense fallback={null}>
-          <HomeBelowFold latestArticles={latestArticles} />
-        </Suspense>
-      </main>
+        <section id="tematicas" className="px-4 pb-20 sm:px-6 lg:px-8">
+          <div className="mx-auto grid max-w-6xl gap-6 md:grid-cols-3">
+            {SITE_VERTICALS.map((vertical) => (
+              <Link
+                key={vertical.slug}
+                href={vertical.href}
+                className="group overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-1 hover:shadow-xl"
+              >
+                <div className={`h-2 bg-gradient-to-r ${vertical.tone.gradient}`} />
+                <div className="p-8">
+                  <div className="mb-4 text-4xl">{vertical.icon}</div>
+                  <h2 className="font-display mb-2 text-2xl font-black text-slate-900">{vertical.name}</h2>
+                  <p className="mb-6 text-sm leading-relaxed text-slate-600">{vertical.description}</p>
+                  <span className={`text-sm font-black ${vertical.tone.text}`}>Entrar →</span>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
 
+        {featured && (
+          <section className="px-4 pb-20 sm:px-6 lg:px-8">
+            <div className="mx-auto max-w-6xl">
+              <div className="mb-8 flex items-end justify-between gap-4">
+                <div>
+                  <p className="text-sm font-black uppercase tracking-widest text-coral-600">Para leer ahora</p>
+                  <h2 className="font-display text-3xl font-black text-slate-900">Últimos artículos</h2>
+                </div>
+                <Link href="/blog" className="text-sm font-black text-coral-700 hover:text-coral-800">
+                  Ver todos →
+                </Link>
+              </div>
+              <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+                {articles.slice(0, 6).map((article) => (
+                  <MagazineArticleCard key={article.slug} article={article} />
+                ))}
+              </div>
+            </div>
+          </section>
+        )}
+      </main>
       <Footer />
     </>
   );

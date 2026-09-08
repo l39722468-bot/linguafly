@@ -76,7 +76,7 @@ export default function ContactPage() {
             </h1>
             
             <p className="text-xl text-slate-600 mb-8 max-w-2xl mx-auto">
-              ¿Tienes dudas sobre nuestros cursos? ¿Necesitas orientación para elegir el programa adecuado? Escríbenos y te responderemos en menos de 24 horas.
+              ¿Tienes una duda sobre un artículo de idiomas, alimentación o entrenamiento? Escríbenos y te responderemos cuando podamos.
             </p>
           </div>
         </section>

@@ -25,16 +25,17 @@ jest.mock("next/link", () => {
 });
 
 describe("Navigation", () => {
-  it("renders the unified portal areas and English categories", () => {
+  it("renders the new magazine verticals and hides the old English portal", () => {
     render(<Navigation />);
 
     expect(screen.getByRole("link", { name: "Inicio" })).toHaveAttribute("href", "/");
-    expect(screen.getByRole("link", { name: "Fitness" })).toHaveAttribute("href", "/fitness");
-    expect(screen.getByRole("link", { name: "Test de nivel" })).toHaveAttribute("href", "/test-nivel");
-    expect(screen.getByText("Inglés")).toBeInTheDocument();
-    expect(screen.getByRole("link", { name: "Gramática" })).toHaveAttribute("href", "/blog/gramatica");
-    expect(screen.getByRole("link", { name: "Viajes" })).toHaveAttribute("href", "/blog/viajes");
-    expect(screen.getByRole("link", { name: "Trabajo" })).toHaveAttribute("href", "/blog/trabajo");
+    expect(screen.getByRole("link", { name: "Idiomas" })).toHaveAttribute("href", "/idiomas");
+    expect(screen.getByRole("link", { name: "Alimentación" })).toHaveAttribute("href", "/alimentacion");
+    expect(screen.getByRole("link", { name: "Entrenamiento" })).toHaveAttribute("href", "/entrenamiento");
+    expect(screen.getByRole("link", { name: "Artículos" })).toHaveAttribute("href", "/blog");
+    expect(screen.queryByRole("link", { name: "Fitness" })).not.toBeInTheDocument();
+    expect(screen.queryByRole("link", { name: "Test de nivel" })).not.toBeInTheDocument();
+    expect(screen.queryByRole("link", { name: "Gramática" })).not.toBeInTheDocument();
   });
 
   it("does not expose the removed Spanish course or English home", () => {

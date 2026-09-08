@@ -3,13 +3,15 @@ import path from "path";
 import matter from "gray-matter";
 import { Author, getAuthor } from "./authors";
 import { SITE_BRAND_NAME } from "./site-brand";
+import { isPublicArticleCategory } from "./site-catalog";
 // Generado por scripts/export-blog-data.ts (cf:build). Fallback cuando no hay fs (Workers).
 import generatedBlogArticles from "@/generated/blog-articles.json";
 
 const BLOG_DIR = path.join(process.cwd(), "src/content/blog");
 
 // Cache for blog articles to improve performance during build
-let articlesCache: BlogPost[] | null = null;
+let allArticlesCache: BlogPost[] | null = null;
+let publicArticlesCache: BlogPost[] | null = null;
 
 export interface BlogPost {
   slug: string;
@@ -29,6 +31,8 @@ export interface BlogPost {
   /** Slugs de artículos a priorizar en «Artículos relacionados» (frontmatter `related_routes`). */
   relatedRoutes?: string[];
   featured?: boolean;
+  /** Solo los artículos con `published: true` salen a la web nueva. */
+  published?: boolean;
   canonical?: string;
   downloadPdf?: boolean;
   pdfFileName?: string;
@@ -137,6 +141,7 @@ function readArticlesFromMarkdown(): BlogPost[] {
               ? data.related_routes.map((r: unknown) => String(r).trim()).filter(Boolean)
               : [],
             featured: data.featured || false,
+            published: data.published === true,
             canonical: data.canonical,
             downloadPdf: data.downloadPdf === true,
             pdfFileName: data.pdfFileName,
@@ -188,30 +193,48 @@ function prioritizeRecentCourseArticles(articles: BlogPost[]): BlogPost[] {
   }
 }
 
-export function getBlogArticles(): BlogPost[] {
-  if (articlesCache !== null) {
-    return articlesCache;
+function isPublicPublishedArticle(article: BlogPost): boolean {
+  return article.published === true && isPublicArticleCategory(article.category);
+}
+
+function loadAllArticles(): BlogPost[] {
+  if (allArticlesCache !== null) {
+    return allArticlesCache;
   }
 
   // 1) Markdown en disco (dev / next build en Node)
   const fromFs = readArticlesFromMarkdown();
   if (fromFs.length > 0) {
-    articlesCache = prioritizeRecentCourseArticles(fromFs);
-    return articlesCache;
+    allArticlesCache = prioritizeRecentCourseArticles(fromFs);
+    return allArticlesCache;
   }
 
   // 2) JSON generado en cf:build — único origen viable en Cloudflare Workers (sin fs)
   const generated = generatedBlogArticles as StoredBlogArticle[];
   if (Array.isArray(generated) && generated.length > 0) {
-    articlesCache = prioritizeRecentCourseArticles(hydrateStoredArticles(generated));
-    return articlesCache;
+    allArticlesCache = prioritizeRecentCourseArticles(hydrateStoredArticles(generated));
+    return allArticlesCache;
   }
 
   console.error(
     "[BlogLib] No hay artículos: src/content/blog vacío y src/generated/blog-articles.json vacío. Ejecuta: npx tsx scripts/export-blog-data.ts"
   );
-  articlesCache = [];
-  return articlesCache;
+  allArticlesCache = [];
+  return allArticlesCache;
+}
+
+/** Todos los markdown del repo, incluida la web antigua aparcada. */
+export function getAllBlogArticles(): BlogPost[] {
+  return loadAllArticles();
+}
+
+/** Solo artículos publicados de la web nueva (idiomas, alimentación, entrenamiento). */
+export function getBlogArticles(): BlogPost[] {
+  if (publicArticlesCache !== null) {
+    return publicArticlesCache;
+  }
+  publicArticlesCache = loadAllArticles().filter(isPublicPublishedArticle);
+  return publicArticlesCache;
 }
 
 export function getArticleBySlug(slug: string, category?: string): BlogPost | null {

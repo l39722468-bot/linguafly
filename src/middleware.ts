@@ -1,6 +1,7 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { isLegacyCourseRedirectRoute } from "@/lib/routes/course-access";
 import { getProductRouteRedirect } from "@/lib/product-config";
+import { getParkedPageRedirect } from "@/lib/site-catalog";
 
 function normalizeBlogCategorySlug(category: string): string {
   return category
@@ -18,6 +19,16 @@ export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const isStaticAsset = pathname.includes(".") || pathname.startsWith("/_next/");
   const isApi = pathname.startsWith("/api/");
+
+  if (!isStaticAsset && !isApi) {
+    const parkedRedirect = getParkedPageRedirect(pathname);
+    if (parkedRedirect) {
+      const url = request.nextUrl.clone();
+      url.pathname = parkedRedirect;
+      url.search = "";
+      return NextResponse.redirect(url, 302);
+    }
+  }
 
   if (!isStaticAsset && !isApi && isLegacyCourseRedirectRoute(pathname)) {
     const blogUrl = request.nextUrl.clone();

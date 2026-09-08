@@ -1,5 +1,6 @@
 import { Suspense } from "react";
 import { Navigation } from "@/components/sections/Navigation";
+import { Footer } from "@/components/sections/Footer";
 import { BlogSearchExplorer } from "@/components/blog/BlogSearchExplorer";
 import Link from "next/link";
 import Image from "next/image";
@@ -9,6 +10,7 @@ import { optimizeSEOTitle } from "@/utils/seo-utils";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
+import { getVertical } from "@/lib/site-catalog";
 
 export const dynamic = "force-static";
 export const dynamicParams = false;
@@ -22,6 +24,24 @@ export async function generateStaticParams() {
 }
 
 const categoryMetadata: Record<string, { name: string, description: string, icon: string, color: string }> = {
+  idiomas: {
+    name: "Idiomas: hábitos, vocabulario y estudio realista",
+    description: "Guías para aprender idiomas con método: hábitos, vocabulario activo y un plan que se pueda mantener.",
+    icon: "🗣️",
+    color: "from-coral-500 to-peach-500"
+  },
+  alimentacion: {
+    name: "Alimentación: comidas reales y planificación sencilla",
+    description: "Cómo organizar la semana, entender el plato y comer mejor sin dietas extremas.",
+    icon: "🥗",
+    color: "from-emerald-500 to-lime-500"
+  },
+  entrenamiento: {
+    name: "Entrenamiento: fuerza, constancia y progreso",
+    description: "Rutinas y principios para entrenar en casa o en el gimnasio sin lesionarte.",
+    icon: "💪",
+    color: "from-sky-500 to-indigo-500"
+  },
   fitness: {
     name: "Entrenamiento físico: rutinas, fuerza y movilidad",
     description: "Guías prácticas para entrenar en casa o en el gimnasio, mejorar tu fuerza, movilidad y resistencia con planes sostenibles.",
@@ -122,23 +142,9 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
     title: `${optimizeSEOTitle(meta.name)} | Blog ${SITE_BRAND_NAME}`,
     description: meta.description,
     keywords:
-      category === 'fitness'
-        ? ['entrenamiento físico', 'entrenamiento en casa', 'rutina para principiantes', 'ejercicios de fuerza']
-        : category === 'trabajo'
-        ? ['inglés profesional', 'inglés trabajo', 'business english']
-        : category === 'viajes'
-          ? ['inglés viajes', 'inglés turismo']
-          : category === 'examenes'
-            ? ['exámenes inglés', 'Cambridge', 'IELTS', 'TOEFL']
-            : category === 'curso-b2'
-              ? ['curso inglés B2', 'Cambridge FCE', 'guías curso B2', 'inglés B2 gratis']
-              : category === 'curso-b1'
-              ? ['curso inglés B1', 'Present Perfect Continuous B1', 'guías curso B1', 'Cambridge PET']
-              : category === 'curso-a2'
-              ? ['curso inglés A2', 'Present Perfect A2', 'Past Simple A2', 'guías curso A2']
-              : category === 'curso-a1'
-                ? ['curso inglés A1', 'guías curso A1', 'inglés principiante']
-              : undefined,
+      getVertical(category)
+        ? [getVertical(category)!.name.toLowerCase(), "artículos", "guías prácticas"]
+        : undefined,
     alternates: {
       canonical: getAbsoluteUrl(`/blog/${category}`),
     },
@@ -301,6 +307,7 @@ export default async function CategoryPage({ params }: { params: Promise<{ categ
           </div>
         </section>
       </main>
+      <Footer />
     </>
   );
 }

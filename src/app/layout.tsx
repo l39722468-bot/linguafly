@@ -8,30 +8,24 @@ import IubendaConsent from "@/components/IubendaConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
 import { SITE_BRAND_NAME, getSiteUrl } from "@/lib/site-brand";
+import { SITE_DESCRIPTION, SITE_TAGLINE } from "@/lib/site-catalog";
 
 const siteUrl = getSiteUrl();
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: `Blog para Aprender Inglés | ${SITE_BRAND_NAME}`,
+    default: `${SITE_TAGLINE.replace(/\.$/, "")} | ${SITE_BRAND_NAME}`,
     template: "%s"
   },
-  description: "Blog de contenido de calidad para aprender inglés: consultas de gramática, vocabulario, frases, habilidades y métodos de estudio.",
+  description: SITE_DESCRIPTION,
   keywords: [
-    "blog de inglés",
-    "consultas de inglés",
-    "aprender inglés",
-    "aprender inglés gratis",
-    "aprender inglés pdf",
-    "curso inglés",
-    "curso de inglés gratis",
-    "gramática inglesa",
-    "inglés gratis",
-    "inglés pdf",
-    "vocabulario inglés",
-    "frases en inglés",
-    "métodos para estudiar inglés",
+    "idiomas",
+    "alimentación",
+    "entrenamiento",
+    "artículos",
+    "guías prácticas",
+    SITE_BRAND_NAME,
   ],
   authors: [{ name: SITE_BRAND_NAME, url: siteUrl }],
   creator: SITE_BRAND_NAME,
@@ -42,8 +36,8 @@ export const metadata: Metadata = {
     telephone: false,
   },
   openGraph: {
-    title: `Blog para Aprender Inglés | ${SITE_BRAND_NAME}`,
-    description: "Guías de gramática, vocabulario y frases en inglés para resolver dudas y aprender de forma práctica.",
+    title: `${SITE_TAGLINE.replace(/\.$/, "")} | ${SITE_BRAND_NAME}`,
+    description: SITE_DESCRIPTION,
     type: "website",
     locale: "es_ES",
     siteName: SITE_BRAND_NAME,
@@ -53,14 +47,14 @@ export const metadata: Metadata = {
         url: 'https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop',
         width: 1200,
         height: 630,
-        alt: `${SITE_BRAND_NAME} - Aprende inglés para el mundo real`,
+        alt: `${SITE_BRAND_NAME} - Idiomas, alimentación y entrenamiento`,
       }
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: `Blog para Aprender Inglés | ${SITE_BRAND_NAME}`,
-    description: "Consultas de inglés resueltas con guías claras: gramática, vocabulario, frases y métodos de estudio.",
+    title: `${SITE_TAGLINE.replace(/\.$/, "")} | ${SITE_BRAND_NAME}`,
+    description: SITE_DESCRIPTION,
     images: ['https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop'],
   },
   robots: {

@@ -18,13 +18,12 @@ const LINGUAFLY_TEAM: Author = {
   slug: 'linguafly-team',
   name: `Equipo ${SITE_BRAND_NAME}`,
   role: 'Equipo editorial',
-  bio: `${SITE_BRAND_NAME} es un proyecto editorial independiente centrado en resolver dudas de inglés a hispanohablantes. Cada artículo se basa en materiales oficiales de referencia (Cambridge English, British Council, Oxford Languages, EOI y marco común CEFR), se revisa contra fuentes cruzadas y se adapta al registro y los errores típicos del estudiante hispanohablante adulto. Publicamos bajo la firma del equipo por transparencia: el contenido es el producto del trabajo editorial conjunto, no de un autor individual.`,
+  bio: `${SITE_BRAND_NAME} es un proyecto editorial independiente. Publicamos artículos prácticos de idiomas, alimentación y entrenamiento. El contenido sale firmado por el equipo: es trabajo editorial conjunto, no de un autor individual.`,
   image: '/icon.svg',
   expertise: [
-    'Gramática inglesa',
-    'Exámenes oficiales (Cambridge, IELTS, TOEFL, Aptis)',
-    'Inglés profesional y para viajar',
-    'Pronunciación y acentos',
+    'Idiomas y hábitos de estudio',
+    'Alimentación cotidiana',
+    'Entrenamiento de fuerza y progresión',
   ],
 };
 

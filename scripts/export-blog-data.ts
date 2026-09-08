@@ -9,6 +9,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { getBlogArticles } from '../src/lib/blog';
 import { buildBlogCourseRelations } from '../src/lib/blog-course-map';
+import { PUBLIC_ARTICLE_CATEGORIES } from '../src/lib/site-catalog';
 
 const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_DIR = path.join(ROOT, 'src', 'generated');
@@ -29,6 +30,7 @@ type StoredArticle = {
   faqs?: { question: string; answer: string }[];
   relatedRoutes?: string[];
   featured?: boolean;
+  published?: boolean;
   canonical?: string;
   downloadPdf?: boolean;
   pdfFileName?: string;
@@ -46,9 +48,10 @@ function main() {
     );
   }
 
-  // Contar markdown en disco: si el export cae muy por debajo, algo tumba el parseo YAML.
+  // Solo se publica la web nueva: contar markdown de las tres temáticas públicas.
   const blogDir = path.join(ROOT, 'src/content/blog');
   const countMd = (dir: string): number => {
+    if (!fs.existsSync(dir)) return 0;
     let n = 0;
     for (const name of fs.readdirSync(dir)) {
       const full = path.join(dir, name);
@@ -60,15 +63,17 @@ function main() {
   };
   let mdCount = 0;
   try {
-    mdCount = countMd(blogDir);
+    mdCount = PUBLIC_ARTICLE_CATEGORIES.reduce(
+      (sum, category) => sum + countMd(path.join(blogDir, category)),
+      0,
+    );
   } catch {
     mdCount = 0;
   }
   if (mdCount > 0 && articles.length < mdCount * 0.9) {
     throw new Error(
-      `[export-blog-data] Solo ${articles.length}/${mdCount} markdown exportados (<90%). ` +
-        `Revisa frontmatter YAML roto (apóstrofes en comillas simples, alt con ':'). ` +
-        `No se sobrescribe blog-articles.json para evitar 404 masivos en Cloudflare Workers.`
+      `[export-blog-data] Solo ${articles.length}/${mdCount} artículos públicos exportados (<90%). ` +
+        `Revisa frontmatter YAML o el flag published: true en idiomas/alimentacion/entrenamiento.`
     );
   }
 
@@ -88,6 +93,7 @@ function main() {
     faqs: a.faqs,
     relatedRoutes: a.relatedRoutes,
     featured: a.featured,
+    published: a.published,
     canonical: a.canonical,
     downloadPdf: a.downloadPdf,
     pdfFileName: a.pdfFileName,

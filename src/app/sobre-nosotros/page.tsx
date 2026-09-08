@@ -15,16 +15,16 @@ import {
 import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 
 export const metadata: Metadata = {
-  title: `Sobre ${SITE_BRAND_NAME} | Proyecto editorial de inglés para hispanohablantes`,
+  title: `Sobre ${SITE_BRAND_NAME} | Revista de idiomas, alimentación y entrenamiento`,
   description:
-    `Qué es ${SITE_BRAND_NAME}, cómo elaboramos el contenido y qué fuentes oficiales (Cambridge, British Council, CEFR) usamos para cada artículo. Proyecto editorial independiente, sin cursos de pago ni afiliación comercial oculta.`,
+    `Qué es ${SITE_BRAND_NAME}: un proyecto editorial independiente que publica artículos prácticos de idiomas, alimentación y entrenamiento.`,
   alternates: {
     canonical: getAbsoluteUrl('/sobre-nosotros'),
   },
   openGraph: {
     title: `Sobre ${SITE_BRAND_NAME}`,
     description:
-      "Proyecto editorial independiente de inglés para hispanohablantes: metodología, fuentes y proceso de revisión.",
+      "Proyecto editorial independiente: artículos de idiomas, alimentación y entrenamiento.",
     type: "website",
     url: getAbsoluteUrl('/sobre-nosotros'),
   },
@@ -66,9 +66,9 @@ export default function SobreNosotrosPage() {
               Sobre <span className="text-coral-600">{SITE_BRAND_NAME}</span>
             </h1>
             <p className="text-xl text-slate-700 leading-relaxed">
-              Somos un proyecto editorial independiente centrado en resolver dudas de inglés a
-              hispanohablantes adultos. Publicamos guías, explicaciones y vocabulario con un criterio
-              común: que sean útiles para alguien que aprende por su cuenta, no para vender un curso.
+              Somos un proyecto editorial independiente. Publicamos artículos prácticos de
+              <strong> idiomas</strong>, <strong>alimentación</strong> y <strong>entrenamiento</strong>.
+              La plataforma anterior de cursos de inglés permanece en el repositorio, aparcada: de momento no publicamos nada de lo antiguo.
             </p>
           </header>
 
@@ -77,50 +77,26 @@ export default function SobreNosotrosPage() {
               Qué publicamos
             </h2>
             <p className="text-slate-700 leading-relaxed mb-4">
-              A día de hoy el blog contiene <strong>{totalArticles} artículos</strong> repartidos en
-              seis áreas:
+              A día de hoy la revista publica <strong>{totalArticles} artículos</strong> en las tres
+              temáticas de la web nueva. El archivo antiguo no está en el sitemap ni en la navegación.
             </p>
             <ul className="space-y-3 text-slate-700">
               <li className="flex gap-3">
                 <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
                 <span>
-                  <strong>Gramática</strong>: tiempos verbales, condicionales, voz pasiva, reported
-                  speech, modales, pronunciación y fonética.
+                  <strong>Idiomas</strong>: hábitos de estudio, vocabulario activo y un comienzo realista.
                 </span>
               </li>
               <li className="flex gap-3">
                 <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
                 <span>
-                  <strong>Exámenes oficiales</strong>: Cambridge B2/C1/C2, IELTS, TOEFL, Aptis,
-                  Linguaskill y EOI, con estrategias por parte de la prueba.
+                  <strong>Alimentación</strong>: organizar la semana y armar platos con criterio, sin dietas extremas.
                 </span>
               </li>
               <li className="flex gap-3">
                 <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
                 <span>
-                  <strong>Trabajo</strong>: emails profesionales, entrevistas, reuniones,
-                  presentaciones, atención al cliente y vocabulario por sector.
-                </span>
-              </li>
-              <li className="flex gap-3">
-                <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
-                <span>
-                  <strong>Viajes</strong>: aeropuertos, hoteles, restaurantes, alquiler de coche,
-                  emergencias y mochileros.
-                </span>
-              </li>
-              <li className="flex gap-3">
-                <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
-                <span>
-                  <strong>Habilidades</strong>: listening, speaking, writing y reading con rutinas
-                  prácticas.
-                </span>
-              </li>
-              <li className="flex gap-3">
-                <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
-                <span>
-                  <strong>Métodos</strong>: apps, cursos online, técnicas de estudio y comparativas
-                  de plataformas.
+                  <strong>Entrenamiento</strong>: fuerza para principiantes y progresión sin lesionarte.
                 </span>
               </li>
             </ul>

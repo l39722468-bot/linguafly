@@ -27,7 +27,7 @@ export default function NotFound() {
             </h1>
             
             <p className="text-xl text-slate-600 mb-10 max-w-2xl mx-auto leading-relaxed">
-              La página que buscas no existe o ha sido movida. Pero no te preocupes, hay muchas formas de seguir mejorando tu inglés.
+              La página que buscas no existe, se ha movido o pertenece a la web antigua, que ahora está aparcada.
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -47,19 +47,19 @@ export default function NotFound() {
             </div>
 
             <div className="mt-16 grid grid-cols-1 sm:grid-cols-3 gap-6">
-              <Link href="/blog/trabajo" className="p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all group">
-                <span className="text-3xl mb-3 block">💼</span>
-                <h3 className="font-bold text-slate-900 group-hover:text-coral-600">Inglés Profesional</h3>
+              <Link href="/idiomas" className="p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all group">
+                <span className="text-3xl mb-3 block">🗣️</span>
+                <h3 className="font-bold text-slate-900 group-hover:text-coral-600">Idiomas</h3>
               </Link>
               
-              <Link href="/blog/viajes" className="p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all group">
-                <span className="text-3xl mb-3 block">✈️</span>
-                <h3 className="font-bold text-slate-900 group-hover:text-coral-600">Inglés para Viajar</h3>
+              <Link href="/alimentacion" className="p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all group">
+                <span className="text-3xl mb-3 block">🥗</span>
+                <h3 className="font-bold text-slate-900 group-hover:text-coral-600">Alimentación</h3>
               </Link>
               
-              <Link href="/blog/examenes" className="p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all group">
-                <span className="text-3xl mb-3 block">📝</span>
-                <h3 className="font-bold text-slate-900 group-hover:text-coral-600">Exámenes Oficiales</h3>
+              <Link href="/entrenamiento" className="p-6 bg-white rounded-2xl border border-slate-100 shadow-sm hover:shadow-md transition-all group">
+                <span className="text-3xl mb-3 block">💪</span>
+                <h3 className="font-bold text-slate-900 group-hover:text-coral-600">Entrenamiento</h3>
               </Link>
             </div>
           </div>

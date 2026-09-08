@@ -4,8 +4,8 @@ import dynamic from "next/dynamic";
 const ContactPage = dynamic(() => import("./ContactoClient"));
 
 export const metadata: Metadata = {
-  title: "Contacto: Consultas sobre Contenido de Inglés",
-  description: "¿Tienes dudas sobre una guía o artículo? Contacta con el equipo de Linguafly para consultas editoriales sobre aprendizaje del inglés.",
+  title: "Contacto: consultas sobre los artículos",
+  description: "¿Tienes dudas sobre un artículo de idiomas, alimentación o entrenamiento? Escribe al equipo editorial de Linguafly.",
 };
 
 export default function Page() {
