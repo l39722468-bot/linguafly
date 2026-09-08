@@ -3,6 +3,7 @@ import { authors } from "@/lib/authors";
 import { normalizeCategory } from "@/lib/blog-paths";
 import { getSiteUrl } from "@/lib/site-brand";
 import { ENGLISH_LEARNING_SECTIONS, SITE_VERTICALS } from "@/lib/site-catalog";
+import { INDEXABLE_COURSE_LANDING_PATHS } from "@/lib/course-indexing";
 import {
   countPublishedArticles,
   listPublishedArticles,
@@ -44,6 +45,18 @@ function staticUrls(
       changeFrequency: "weekly" as const,
       priority: 0.85,
     })),
+    ...INDEXABLE_COURSE_LANDING_PATHS.map((path) => ({
+      url: `${baseUrl}${path}`,
+      lastModified: mostRecent,
+      changeFrequency: "weekly" as const,
+      priority: 0.8,
+    })),
+    {
+      url: `${baseUrl}/blog/ejercicios-relacionados`,
+      lastModified: mostRecent,
+      changeFrequency: "weekly" as const,
+      priority: 0.6,
+    },
   ];
 
   if (includeLegal) {

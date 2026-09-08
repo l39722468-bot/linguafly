@@ -1,11 +1,20 @@
 import { Suspense } from 'react';
+import { Metadata } from 'next';
 import { premiumCourseServerService } from '@/lib/services/premium-course-service.server';
 import { CourseOutlineTable } from '@/components/course/preview/CourseOutlineTable';
 import { PrintButton } from '@/components/course/preview/PrintButton';
 import { FileText } from 'lucide-react';
 import Link from 'next/link';
+import { canonicalAlternates } from '@/lib/seo/canonical';
+import { SITE_BRAND_NAME } from '@/lib/site-brand';
 
 export const dynamic = 'force-dynamic';
+
+export const metadata: Metadata = {
+  title: `Temario curso inglés C2 | ${SITE_BRAND_NAME}`,
+  description: "Consulta el temario completo del curso de inglés nivel C2 de Linguafly. Revisa las unidades, contenidos de gramática y competencias que aprenderás.",
+  alternates: canonicalAlternates('/curso-c2/outline'),
+};
 
 async function OutlineContent() {
   let courseMetadata;

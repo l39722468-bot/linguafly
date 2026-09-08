@@ -26,6 +26,8 @@ describe("site catalog", () => {
     expect(isPublicSitePath("/api/articles/foo")).toBe(true);
     expect(isPublicSitePath("/sitemaps/0.xml")).toBe(true);
     expect(isPublicSitePath("/sitemap.xml")).toBe(true);
+    expect(isPublicSitePath("/curso-a1/unit-30")).toBe(true);
+    expect(isPublicSitePath("/blog/ejercicios-relacionados")).toBe(true);
   });
 
   it("republishes English-learning article URLs and parks the rest of the old site", () => {
@@ -34,7 +36,11 @@ describe("site catalog", () => {
     expect(getParkedPageRedirect("/blog/curso-a1/unidad-20-repaso-modulo-2")).toBeNull();
     expect(getParkedPageRedirect("/blog/temas")).toBe("/blog");
     expect(getParkedPageRedirect("/blog/temas/present-perfect")).toBe("/blog");
-    expect(getParkedPageRedirect("/curso-a1")).toBe("/");
+    expect(getParkedPageRedirect("/curso-a1")).toBeNull();
+    expect(getParkedPageRedirect("/curso-a1/unit-30")).toBeNull();
+    expect(getParkedPageRedirect("/curso-b2/unit-6")).toBeNull();
+    expect(getParkedPageRedirect("/curso-camarero-a1/unit-1")).toBeNull();
+    expect(getParkedPageRedirect("/blog/ejercicios-relacionados")).toBeNull();
     expect(getParkedPageRedirect("/frases-en-ingles")).toBe("/");
     expect(getParkedPageRedirect("/vocabulario")).toBe("/");
     expect(getParkedPageRedirect("/fitness")).toBe("/entrenamiento");
@@ -50,8 +56,9 @@ describe("robots", () => {
     expect(disallow).not.toContain("/blog/gramatica");
     expect(disallow).not.toContain("/blog/viajes");
     expect(disallow).not.toContain("/blog/curso-a1");
+    expect(disallow).not.toContain("/curso-a1");
+    expect(disallow).not.toContain("/curso-b2");
     expect(disallow).toContain("/blog/temas");
-    expect(disallow).toContain("/curso-a1");
     expect(disallow).toContain("/frases-en-ingles");
     expect(disallow).toContain("/vocabulario");
   });

@@ -1,12 +1,14 @@
 import { Navigation } from "@/components/sections/Navigation";
 import CookieDeclaration from "@/components/CookieDeclaration";
 import { Metadata } from "next";
+import { canonicalAlternates } from "@/lib/seo/canonical";
 
 export const metadata: Metadata = {
   title: "Política de Cookies",
   description:
     "Información sobre las cookies utilizadas en Linguafly, incluidas las de Google Analytics y Matomo.",
   robots: "index, follow",
+  alternates: canonicalAlternates("/cookies"),
 };
 
 export default function CookiesPage() {

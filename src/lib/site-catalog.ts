@@ -349,6 +349,7 @@ export function getPublicCategoryLabel(category: string): {
 const EXACT_PUBLIC_PATHS = new Set([
   "/",
   "/blog",
+  "/blog/ejercicios-relacionados",
   "/idiomas",
   "/alimentacion",
   "/entrenamiento",
@@ -385,12 +386,15 @@ function normalizePathname(pathname: string): string {
 export function isPublicSitePath(pathname: string): boolean {
   const path = normalizePathname(pathname);
   if (EXACT_PUBLIC_PATHS.has(path)) return true;
+  // Cursos interactivos: una sola URL canónica por unidad (sin www ni query).
+  if (path.startsWith("/curso-")) return true;
   return PUBLIC_PREFIXES.some((prefix) => path === prefix || path.startsWith(`${prefix}/`));
 }
 
 /**
- * La plataforma de cursos interactivos y hubs /blog/temas siguen aparcados.
- * Los artículos de inglés vuelven a sus URLs canónicas.
+ * Hubs /blog/temas y el resto de la plataforma legacy siguen aparcados.
+ * Cursos /curso-* y el mapa de ejercicios son públicos para que Google
+ * reciba rel=canonical en la URL limpia (https, apex, sin tracking).
  */
 export function getParkedPageRedirect(pathname: string): string | null {
   const path = normalizePathname(pathname);
