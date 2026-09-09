@@ -25,6 +25,7 @@ import { expandBlogGlosses } from "@/lib/blog-glosses";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import { articleDatesDiffer, formatArticleDate } from "@/lib/seo/article-dates";
+import { getArticleOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
@@ -57,11 +58,10 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   // Title y description salen del frontmatter (description = meta; excerpt = tarjetas).
   const seoTitle = optimizeSEOTitle(article.title);
   const metaDescription = article.description || article.excerpt;
-  const ogImage = article.image || "/blog/og-image.jpg";
+  const og = ogImageMeta(seoTitle, getArticleOgImagePath(article));
   const canonicalUrl =
     article.canonical ||
     getAbsoluteUrl(`/blog/${normalizeCategory(article.category)}/${slug}`);
-  const ogImageUrl = ogImage.startsWith("http") ? ogImage : getAbsoluteUrl(ogImage);
   const modifiedTime = article.updatedDate || article.date;
 
   return {
@@ -80,20 +80,13 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
       authors: [article.author],
       section: article.category,
       tags: article.keywords,
-      images: [
-        {
-          url: ogImageUrl,
-          width: 1200,
-          height: 630,
-          alt: seoTitle,
-        }
-      ],
+      images: og.images,
     },
     twitter: {
       card: "summary_large_image",
       title: seoTitle,
       description: metaDescription,
-      images: [ogImageUrl],
+      images: og.twitterImages,
     },
     alternates: {
       canonical: canonicalUrl,
@@ -120,7 +113,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const articleSchema = generateArticleSchema({
     title: article.title,
     description: article.description || article.excerpt,
-    image: article.image || "/blog/og-image.jpg",
+    image: getArticleOgImagePath(article),
     datePublished: article.date,
     dateModified: article.updatedDate || article.date,
     slug,

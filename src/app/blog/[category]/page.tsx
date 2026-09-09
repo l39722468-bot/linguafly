@@ -14,6 +14,7 @@ import { generateBreadcrumbSchema, generateCollectionPageSchema } from "@/lib/sc
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import { getPublicCategoryLabel, isPublicArticleCategory } from "@/lib/site-catalog";
+import { getArticleOgImagePath, getCategoryOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
 
 export const dynamic = "force-dynamic";
 export const dynamicParams = true;
@@ -155,7 +156,7 @@ export async function generateMetadata({
 
   const canonicalPath = page > 1 ? `/blog/${category}?page=${page}` : `/blog/${category}`;
   const canonical = getAbsoluteUrl(canonicalPath);
-  const ogImage = getAbsoluteUrl("/blog/og-image.jpg");
+  const og = ogImageMeta(meta.name, getCategoryOgImagePath(category));
   const title = `${optimizeSEOTitle(meta.name)} | Blog ${SITE_BRAND_NAME}`;
 
   return {
@@ -177,13 +178,13 @@ export async function generateMetadata({
       locale: "es_ES",
       url: canonical,
       siteName: SITE_BRAND_NAME,
-      images: [{ url: ogImage, width: 1200, height: 630, alt: meta.name }],
+      images: og.images,
     },
     twitter: {
       card: "summary_large_image",
       title,
       description: meta.description,
-      images: [ogImage],
+      images: og.twitterImages,
     },
   };
 }
@@ -228,6 +229,7 @@ export default async function CategoryPage({
     name: meta.name,
     description: meta.description,
     url: getAbsoluteUrl(canonicalPath),
+    image: getCategoryOgImagePath(category),
     numberOfItems: total,
     articles: articles.map((article) => ({
       title: article.title,
@@ -324,18 +326,16 @@ export default async function CategoryPage({
                     href={`/blog/${article.category}/${article.slug}`}
                     className="group bg-white rounded-3xl border border-slate-200 overflow-hidden hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 flex flex-col h-full"
                   >
-                    {article.image && (
-                      <div className="relative h-48 w-full overflow-hidden">
-                        <Image
-                          src={article.image}
-                          alt={article.alt || article.title}
-                          fill
-                          quality={70}
-                          sizes="(max-width: 768px) 100vw, 33vw"
-                          className="object-cover group-hover:scale-105 transition-transform duration-500"
-                        />
-                      </div>
-                    )}
+                    <div className="relative h-48 w-full overflow-hidden">
+                      <Image
+                        src={getArticleOgImagePath(article)}
+                        alt={article.alt || article.title}
+                        fill
+                        quality={70}
+                        sizes="(max-width: 768px) 100vw, 33vw"
+                        className="object-cover group-hover:scale-105 transition-transform duration-500"
+                      />
+                    </div>
                     <div className="p-6 flex flex-col flex-1">
                       <div className="flex items-center gap-3 text-xs text-slate-500 mb-3">
                         <span>📅 {new Date(article.date).toLocaleDateString('es-ES', { day: 'numeric', month: 'short' })}</span>

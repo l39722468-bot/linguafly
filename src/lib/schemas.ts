@@ -233,16 +233,21 @@ export function generateCollectionPageSchema(props: {
   name: string;
   description: string;
   url: string;
+  image?: string;
   articles: Array<{ title: string; url: string; datePublished: string }>;
   numberOfItems?: number;
 }) {
   const count = props.numberOfItems ?? props.articles.length;
+  const image = props.image
+    ? (props.image.startsWith("http") ? props.image : getAbsoluteUrl(props.image))
+    : undefined;
   return {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": props.name,
     "description": props.description,
     "url": props.url,
+    ...(image ? { image } : {}),
     "inLanguage": "es-ES",
     "publisher": {
       "@type": "Organization",

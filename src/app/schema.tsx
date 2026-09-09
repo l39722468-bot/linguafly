@@ -1,4 +1,5 @@
 import { SITE_BRAND_NAME, getAbsoluteUrl, getSiteUrl } from '@/lib/site-brand';
+import { DEFAULT_OG_IMAGE_PATH } from '@/lib/seo/og-images';
 
 export function OrganizationSchema() {
   const siteUrl = getSiteUrl();
@@ -122,7 +123,7 @@ export function ArticleSchema({
   const siteUrl = getSiteUrl();
   const resolvedImage = image
     ? (image.startsWith('http') ? image : getAbsoluteUrl(image))
-    : getAbsoluteUrl('/og-image.jpg');
+    : getAbsoluteUrl(DEFAULT_OG_IMAGE_PATH);
 
   const authorSchema = author && authorUrl
     ? { "@type": "Person", "name": author, "url": authorUrl }

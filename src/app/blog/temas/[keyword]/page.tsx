@@ -9,6 +9,7 @@ import remarkGfm from "remark-gfm";
 import { generateBreadcrumbSchema, generateCollectionPageSchema, generateFAQSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl } from "@/lib/site-brand";
+import { DEFAULT_OG_IMAGE_PATH, getArticleOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
 
 /**
  * Solo prerender hubs + keywords con ≥3 artículos.
@@ -44,7 +45,10 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
   const pageDescription = hubContent?.description
     || `Aprende ${originalKeyword} con nuestras guías gratuitas en español. Recursos prácticos, ejercicios resueltos y consejos de expertos para hispanohablantes. Mejora tu inglés hoy.`;
 
-  const ogImage = getAbsoluteUrl('/blog/og-image.jpg');
+  const og = ogImageMeta(
+    pageTitle,
+    articles[0] ? getArticleOgImagePath(articles[0]) : DEFAULT_OG_IMAGE_PATH,
+  );
 
   /**
    * Si existe un artículo con el mismo slug que este hub (duplicado hub/blog),
@@ -80,13 +84,13 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
       description: pageDescription,
       type: "website",
       url: getAbsoluteUrl(`/blog/temas/${keyword}`),
-      images: [{ url: ogImage, width: 1200, height: 630, alt: pageTitle }],
+      images: og.images,
     },
     twitter: {
       card: "summary_large_image",
       title: pageTitle,
       description: pageDescription,
-      images: [ogImage],
+      images: og.twitterImages,
     },
   };
 }

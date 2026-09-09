@@ -98,6 +98,7 @@ export interface SitemapArticleEntry {
   category: string;
   created_at?: string | null;
   updated_at?: string | null;
+  image?: string | null;
 }
 
 export interface ArticleSearchHit {
@@ -433,7 +434,7 @@ class DatabaseClient {
     const safeOffset = Math.max(0, Math.floor(offset) || 0);
     const { sql: categorySql, bindings } = this.publishedCategoryClause(categories);
     const { results } = await this.env.DB.prepare(
-      `SELECT slug, category, created_at, updated_at FROM articles WHERE is_published = 1${categorySql} ORDER BY created_at DESC LIMIT ? OFFSET ?`
+      `SELECT slug, category, created_at, updated_at, image FROM articles WHERE is_published = 1${categorySql} ORDER BY created_at DESC LIMIT ? OFFSET ?`
     )
       .bind(...bindings, safeLimit, safeOffset)
       .all();
