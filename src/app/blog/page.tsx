@@ -6,10 +6,11 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { listPublishedArticles } from "@/lib/content/articles";
 import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
-import { generateBreadcrumbSchema } from "@/lib/schemas";
+import { generateBreadcrumbSchema, generateCollectionPageSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import { ENGLISH_LEARNING_SECTIONS, SITE_VERTICALS } from "@/lib/site-catalog";
+import { getArticlePath } from "@/lib/blog-paths";
 
 export const dynamic = "force-dynamic";
 
@@ -22,15 +23,33 @@ export async function generateMetadata({
   const page = parsePageParam(pageRaw);
   const canonical =
     page > 1 ? getAbsoluteUrl(`/blog?page=${page}`) : getAbsoluteUrl("/blog");
+  const title = `Artículos de idiomas, hábitos, IA e inglés | ${SITE_BRAND_NAME}`;
+  const description =
+    "Artículos de la revista (idiomas, alimentación, entrenamiento e inteligencia artificial) y el archivo de guías para aprender inglés: gramática, viajes, trabajo, exámenes y cursos por nivel.";
+  const ogImage = getAbsoluteUrl("/blog/og-image.jpg");
 
   return {
-    title: `Artículos de idiomas, hábitos, IA e inglés | ${SITE_BRAND_NAME}`,
-    description:
-      "Artículos de la revista (idiomas, alimentación, entrenamiento e inteligencia artificial) y el archivo de guías para aprender inglés: gramática, viajes, trabajo, exámenes y cursos por nivel.",
+    title,
+    description,
     alternates: {
       canonical,
     },
     robots: page > 1 ? { index: false, follow: true } : undefined,
+    openGraph: {
+      title,
+      description,
+      type: "website",
+      locale: "es_ES",
+      url: canonical,
+      siteName: SITE_BRAND_NAME,
+      images: [{ url: ogImage, width: 1200, height: 630, alt: title }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description,
+      images: [ogImage],
+    },
   };
 }
 
@@ -49,10 +68,23 @@ export default async function BlogPage({
     { name: "Inicio", url: getSiteUrl() },
     { name: "Artículos", url: getAbsoluteUrl("/blog") },
   ]);
+  const collectionSchema = generateCollectionPageSchema({
+    name: "Artículos",
+    description:
+      "Revista de idiomas, alimentación, entrenamiento e inteligencia artificial, y el archivo de guías para aprender inglés.",
+    url: page > 1 ? getAbsoluteUrl(`/blog?page=${page}`) : getAbsoluteUrl("/blog"),
+    numberOfItems: total,
+    articles: articles.map((article) => ({
+      title: article.title,
+      url: getAbsoluteUrl(getArticlePath(article)),
+      datePublished: article.date,
+    })),
+  });
 
   return (
     <>
       <JsonLd data={breadcrumbSchema} />
+      <JsonLd data={collectionSchema} />
       <Navigation />
       <main className="min-h-screen bg-cream-100">
         <section className="px-4 pb-10 pt-28 sm:px-6 lg:px-8">
