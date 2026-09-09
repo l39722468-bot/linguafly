@@ -234,17 +234,30 @@ export function generateCollectionPageSchema(props: {
   description: string;
   url: string;
   articles: Array<{ title: string; url: string; datePublished: string }>;
+  numberOfItems?: number;
 }) {
+  const count = props.numberOfItems ?? props.articles.length;
   return {
     "@context": "https://schema.org",
     "@type": "CollectionPage",
     "name": props.name,
     "description": props.description,
     "url": props.url,
+    "inLanguage": "es-ES",
     "publisher": {
       "@type": "Organization",
       "name": SITE_BRAND_NAME,
       "url": getSiteUrl()
+    },
+    "mainEntity": {
+      "@type": "ItemList",
+      "numberOfItems": count,
+      "itemListElement": props.articles.map((article, index) => ({
+        "@type": "ListItem",
+        "position": index + 1,
+        "name": article.title,
+        "url": article.url,
+      })),
     },
     "hasPart": props.articles.map((article) => ({
       "@type": "Article",

@@ -10,7 +10,7 @@ import { normalizeCategory } from "@/lib/blog-paths";
 import { listPublishedArticles } from "@/lib/content/articles";
 import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
-import { generateBreadcrumbSchema } from "@/lib/schemas";
+import { generateBreadcrumbSchema, generateCollectionPageSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import { getPublicCategoryLabel, isPublicArticleCategory } from "@/lib/site-catalog";
@@ -154,9 +154,12 @@ export async function generateMetadata({
   }
 
   const canonicalPath = page > 1 ? `/blog/${category}?page=${page}` : `/blog/${category}`;
+  const canonical = getAbsoluteUrl(canonicalPath);
+  const ogImage = getAbsoluteUrl("/blog/og-image.jpg");
+  const title = `${optimizeSEOTitle(meta.name)} | Blog ${SITE_BRAND_NAME}`;
 
   return {
-    title: `${optimizeSEOTitle(meta.name)} | Blog ${SITE_BRAND_NAME}`,
+    title,
     description: meta.description,
     keywords: [
       getPublicCategoryLabel(category).name.toLowerCase(),
@@ -164,9 +167,24 @@ export async function generateMetadata({
       "guías prácticas",
     ],
     alternates: {
-      canonical: getAbsoluteUrl(canonicalPath),
+      canonical,
     },
     robots: page > 1 ? { index: false, follow: true } : undefined,
+    openGraph: {
+      title,
+      description: meta.description,
+      type: "website",
+      locale: "es_ES",
+      url: canonical,
+      siteName: SITE_BRAND_NAME,
+      images: [{ url: ogImage, width: 1200, height: 630, alt: meta.name }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title,
+      description: meta.description,
+      images: [ogImage],
+    },
   };
 }
 
@@ -200,15 +218,28 @@ export default async function CategoryPage({
     color: "from-slate-600 to-slate-800"
   };
 
+  const canonicalPath = page > 1 ? `/blog/${category}?page=${page}` : `/blog/${category}`;
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getSiteUrl() },
     { name: "Blog", url: getAbsoluteUrl("/blog") },
-    { name: meta.name },
+    { name: meta.name, url: getAbsoluteUrl(`/blog/${category}`) },
   ]);
+  const collectionSchema = generateCollectionPageSchema({
+    name: meta.name,
+    description: meta.description,
+    url: getAbsoluteUrl(canonicalPath),
+    numberOfItems: total,
+    articles: articles.map((article) => ({
+      title: article.title,
+      url: getAbsoluteUrl(`/blog/${normalizeCategory(article.category)}/${article.slug}`),
+      datePublished: article.date,
+    })),
+  });
 
   return (
     <>
       <JsonLd data={breadcrumbSchema} />
+      <JsonLd data={collectionSchema} />
       <Navigation />
       <main className="min-h-screen bg-slate-50">
         {/* Header Hero */}

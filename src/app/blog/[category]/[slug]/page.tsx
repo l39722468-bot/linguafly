@@ -24,6 +24,7 @@ import { getPublicCategoryLabel, isPublicArticleCategory } from "@/lib/site-cata
 import { expandBlogGlosses } from "@/lib/blog-glosses";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
+import { articleDatesDiffer, formatArticleDate } from "@/lib/seo/article-dates";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
@@ -57,6 +58,11 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   const seoTitle = optimizeSEOTitle(article.title);
   const metaDescription = article.description || article.excerpt;
   const ogImage = article.image || "/blog/og-image.jpg";
+  const canonicalUrl =
+    article.canonical ||
+    getAbsoluteUrl(`/blog/${normalizeCategory(article.category)}/${slug}`);
+  const ogImageUrl = ogImage.startsWith("http") ? ogImage : getAbsoluteUrl(ogImage);
+  const modifiedTime = article.updatedDate || article.date;
 
   return {
     title: seoTitle,
@@ -68,13 +74,15 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
       description: metaDescription,
       type: "article",
       locale: "es_ES",
+      url: canonicalUrl,
       publishedTime: article.date,
+      modifiedTime,
       authors: [article.author],
       section: article.category,
       tags: article.keywords,
       images: [
         {
-          url: ogImage.startsWith('http') ? ogImage : getAbsoluteUrl(ogImage),
+          url: ogImageUrl,
           width: 1200,
           height: 630,
           alt: seoTitle,
@@ -85,10 +93,10 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
       card: "summary_large_image",
       title: seoTitle,
       description: metaDescription,
-      images: [ogImage.startsWith('http') ? ogImage : getAbsoluteUrl(ogImage)],
+      images: [ogImageUrl],
     },
     alternates: {
-      canonical: article.canonical || getAbsoluteUrl(`/blog/${normalizeCategory(article.category)}/${slug}`),
+      canonical: canonicalUrl,
     },
   };
 }
@@ -325,12 +333,14 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                     <div className="flex flex-wrap items-center gap-4 text-sm text-slate-500 mb-6 print-hidden">
                       <time dateTime={article.date} className="flex items-center gap-1.5">
                         <span className="w-1 h-1 rounded-full bg-slate-300" />
-                        {new Date(article.date).toLocaleDateString('es-ES', {
-                          year: 'numeric',
-                          month: 'long',
-                          day: 'numeric'
-                        })}
+                        {formatArticleDate(article.date)}
                       </time>
+                      {articleDatesDiffer(article.date, article.updatedDate) && article.updatedDate && (
+                        <time dateTime={article.updatedDate} className="flex items-center gap-1.5">
+                          <span className="w-1 h-1 rounded-full bg-slate-300" />
+                          Actualizado el {formatArticleDate(article.updatedDate)}
+                        </time>
+                      )}
                       <span className="flex items-center gap-1.5">
                         <span className="w-1 h-1 rounded-full bg-slate-300" />
                         {article.readTime} de lectura
