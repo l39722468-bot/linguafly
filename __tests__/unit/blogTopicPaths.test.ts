@@ -1,9 +1,9 @@
 import { getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
 
 describe("blog topic canonical paths", () => {
-  it("does not send hubs to parked legacy articles", () => {
+  it("points topic slugs that are real articles at the article URL", () => {
     expect(getCanonicalTopicPath("present-perfect-vs-past-simple")).toBe(
-      "/blog/temas/present-perfect-vs-past-simple"
+      "/blog/gramatica/present-perfect-vs-past-simple"
     );
   });
 
@@ -13,7 +13,7 @@ describe("blog topic canonical paths", () => {
 
   it("preserves query strings and hashes when resolving topic hrefs", () => {
     expect(resolveTopicHref("/blog/temas/present-perfect-vs-past-simple?ref=nav#faq")).toBe(
-      "/blog/temas/present-perfect-vs-past-simple?ref=nav#faq"
+      "/blog/gramatica/present-perfect-vs-past-simple?ref=nav#faq"
     );
   });
 });

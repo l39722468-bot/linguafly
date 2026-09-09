@@ -6,6 +6,10 @@
  * `/blog/{categoria}/{slug}` para no romper SEO.
  */
 
+import { getArticleCanonicalPath } from "@/lib/seo/article-paths";
+
+export { getArticleCanonicalPath };
+
 export const MAGAZINE_ARTICLE_CATEGORIES = [
   "idiomas",
   "alimentacion",
@@ -398,17 +402,31 @@ export function isPublicSitePath(pathname: string): boolean {
 }
 
 /**
- * El Worker de Cloudflare solo sirve artículos. Las unidades /curso-* no
- * existen ahí: un 200/404 deja a Google sin canónica. 301 a la sección del
- * blog equivalente, que sí tiene rel=canonical.
+ * El Worker de Cloudflare solo sirve artículos. Las unidades /curso-* y los
+ * hubs /blog/temas no existen ahí. 301 a la URL canónica (artículo o sección).
  */
-export function getParkedPageRedirect(pathname: string): string | null {
+export function getParkedPageRedirect(
+  pathname: string,
+  searchParams?: URLSearchParams | null,
+): string | null {
   const path = normalizePathname(pathname);
   if (isPublicSitePath(path)) return null;
   if (path.startsWith("/api/")) return null;
   if (path.startsWith("/_next")) return null;
+
+  const temaMatch = path.match(/^\/blog\/temas\/([^/]+)$/);
+  if (temaMatch) return getArticleCanonicalPath(temaMatch[1]) || "/blog";
+
+  if (path === "/blog/ejercicios-relacionados") {
+    const articulo = searchParams?.get("articulo");
+    if (articulo) return getArticleCanonicalPath(articulo) || "/blog";
+    return "/blog";
+  }
+
   if (path.startsWith("/blog")) return "/blog";
   if (path === "/fitness") return "/entrenamiento";
+  if (path === "/aprender-ingles") return "/idiomas";
+  if (path === "/podcasts") return "/blog";
 
   const levelMatch = path.match(/^\/curso-(a1|a2|b1|b2|c1|c2)(?:\/|$)/);
   if (levelMatch) return COURSE_LEVEL_BLOG[levelMatch[1]] ?? "/blog";

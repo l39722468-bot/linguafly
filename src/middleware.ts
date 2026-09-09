@@ -2,7 +2,7 @@ import { NextResponse, type NextRequest } from "next/server";
 import { isLegacyCourseRedirectRoute } from "@/lib/routes/course-access";
 import { getProductRouteRedirect } from "@/lib/product-config";
 import { getParkedPageRedirect } from "@/lib/site-catalog";
-import { canonicalLinkHeaderValue } from "@/lib/seo/canonical";
+import { canonicalLinkHeaderValue, getCanonicalUrl } from "@/lib/seo/canonical";
 
 function normalizeBlogCategorySlug(category: string): string {
   return category
@@ -11,6 +11,34 @@ function normalizeBlogCategorySlug(category: string): string {
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/\s+/g, "-")
     .replace(/[^\w-]/g, "");
+}
+
+function requestHostname(request: NextRequest): string {
+  const raw =
+    request.headers.get("x-forwarded-host") ||
+    request.headers.get("host") ||
+    request.nextUrl.hostname ||
+    "";
+  return raw.split(",")[0].trim().split(":")[0].toLowerCase();
+}
+
+function isWwwHost(hostname: string): boolean {
+  return hostname === "www.linguafly.app" || hostname.startsWith("www.");
+}
+
+function indexedDestination(
+  pathname: string,
+  searchParams: URLSearchParams,
+): string {
+  const parked = getParkedPageRedirect(pathname, searchParams);
+  if (parked) return getCanonicalUrl(parked);
+  return getCanonicalUrl(pathname, searchParams);
+}
+
+function redirectToCanonical(destUrl: string): NextResponse {
+  const response = NextResponse.redirect(destUrl, 301);
+  response.headers.append("Link", `<${destUrl}>; rel="canonical"`);
+  return response;
 }
 
 /**
@@ -22,22 +50,16 @@ export async function middleware(request: NextRequest) {
   const isApi = pathname.startsWith("/api/");
 
   if (!isStaticAsset && !isApi) {
-    const parkedRedirect = getParkedPageRedirect(pathname);
-    if (parkedRedirect) {
-      const url = request.nextUrl.clone();
-      url.pathname = parkedRedirect;
-      url.search = "";
-      const response = NextResponse.redirect(url, 301);
-      response.headers.append("Link", canonicalLinkHeaderValue(parkedRedirect));
-      return response;
+    const destUrl = indexedDestination(pathname, request.nextUrl.searchParams);
+    const currentIndexed = getCanonicalUrl(pathname, request.nextUrl.searchParams);
+    const www = isWwwHost(requestHostname(request));
+    if (www || destUrl !== currentIndexed) {
+      return redirectToCanonical(destUrl);
     }
   }
 
   if (!isStaticAsset && !isApi && isLegacyCourseRedirectRoute(pathname)) {
-    const blogUrl = request.nextUrl.clone();
-    blogUrl.pathname = "/blog";
-    blogUrl.searchParams.delete("next");
-    return NextResponse.redirect(blogUrl, 301);
+    return redirectToCanonical(getCanonicalUrl("/blog"));
   }
 
   if (pathname === "/blog") {
@@ -45,10 +67,7 @@ export async function middleware(request: NextRequest) {
     if (category) {
       const normalizedCategory = normalizeBlogCategorySlug(category);
       if (normalizedCategory) {
-        const url = request.nextUrl.clone();
-        url.pathname = `/blog/${normalizedCategory}`;
-        url.search = "";
-        return NextResponse.redirect(url, { status: 301 });
+        return redirectToCanonical(getCanonicalUrl(`/blog/${normalizedCategory}`));
       }
     }
   }
@@ -56,10 +75,7 @@ export async function middleware(request: NextRequest) {
   if (!isStaticAsset && !isApi) {
     const productRedirect = getProductRouteRedirect(pathname);
     if (productRedirect) {
-      const url = request.nextUrl.clone();
-      url.pathname = productRedirect;
-      url.search = "";
-      return NextResponse.redirect(url, 303);
+      return redirectToCanonical(getCanonicalUrl(productRedirect));
     }
   }
 

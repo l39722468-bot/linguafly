@@ -190,6 +190,16 @@ function restore() {
 
 export { prune, restore, EXCLUDED_APP_DIRS, SWAPPED_FILES };
 
+function generateArticleCanonicals() {
+  const result = spawnSync('node', [path.join(ROOT, 'scripts', 'generate-article-canonical-paths.mjs')], {
+    stdio: 'inherit',
+    cwd: ROOT,
+  });
+  if ((result.status ?? 1) !== 0) {
+    process.exit(result.status ?? 1);
+  }
+}
+
 function main() {
   const args = process.argv.slice(2);
   if (args.length === 0) {
@@ -197,6 +207,7 @@ function main() {
     process.exit(1);
   }
 
+  generateArticleCanonicals();
   prune();
   console.warn(`[cf-build] Pruned ${EXCLUDED_APP_DIRS.length} non-article route(s) for the Cloudflare build.`);
 
