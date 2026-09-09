@@ -30,7 +30,7 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-british-council'
 ---
 
-# British Council 2026: cursos online e IELTS
+## British Council 2026: cursos online e IELTS
 
 El **British Council** es una referencia global en enseñanza de inglés y en el ecosistema **IELTS**. Si buscas un **curso de inglés online** con prestigio institucional y claridad en el mundo de los exámenes, suele aparecer en cualquier lista seria de **mejores cursos de inglés online** —aunque no sea la opción más barata.
 

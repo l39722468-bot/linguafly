@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre do/did enfáticos y fronting con vocabulario de deporte, competición y rendimiento, teoría y ejercicios resueltos.
 ---
 
-# Unidad 15 C1: énfasis, deporte y rendimiento
+## Unidad 15 C1: énfasis, deporte y rendimiento
 
 El inglés tiene varias formas de señalar que una idea es especialmente importante. En una conversación, podemos usar la entonación; en la escritura, podemos utilizar estructuras como **do/did enfáticos**, **fronting** y clefts. Estas formas no cambian necesariamente el hecho, pero sí indican cómo debe interpretarlo el lector o el interlocutor.
 

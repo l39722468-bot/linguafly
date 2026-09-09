@@ -46,7 +46,7 @@ excerpt: >-
   derechos humanos, con 19 ejercicios inglés C1 gratis con soluciones.
 ---
 
-# Unidad 43 — Derechos humanos y derecho internacional: textos formales y mandato léxico
+## Unidad 43 — Derechos humanos y derecho internacional: textos formales y mandato léxico
 
 Entrar en el ámbito de los derechos humanos y el derecho internacional supone un cambio de registro radical respecto al bloque de salud. Aquí el inglés C1 se vuelve formal, jurídico, denso en nominalizaciones y preciso en sus verbos de mandato. El lenguaje de los tratados, las resoluciones y los pronunciamientos judiciales tiene convenciones propias —el uso de "shall" como obligación, la voz pasiva institucional, los latinismos asentados— que un hablante competente debe dominar para leer y redactar textos formales con autoridad. En esta unidad del [curso de inglés C1 gratis](/blog/metodos/ingles-c1) vas a aprender el registro formal del derecho internacional, los verbos de mandato y obligación jurídica, y el léxico esencial de los derechos humanos, con diecinueve ejercicios inglés C1 gratis con soluciones.
 

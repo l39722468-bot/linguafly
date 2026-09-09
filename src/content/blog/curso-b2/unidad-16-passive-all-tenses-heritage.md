@@ -513,7 +513,7 @@ Guías relacionadas:
 
 ---
 
-# Parte II — Ejercicios
+## Parte II — Ejercicios
 
 Estos ejercicios incluyen las mismas actividades que el cuaderno original de la Unidad 16, con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 

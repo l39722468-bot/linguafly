@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre estructuras impersonales con it, conectores de causa y resultado y modales avanzados en contextos laborales y económicos.
 ---
 
-# Unidad 6 C1: estructuras impersonales, conectores y modales
+## Unidad 6 C1: estructuras impersonales, conectores y modales
 
 La Unidad 6 cierra el primer módulo del curso C1 con tres herramientas esenciales para escribir y hablar sobre **trabajo y economía**: las estructuras impersonales con **it**, los conectores de **causa y resultado** y los **modales avanzados**. Juntas permiten presentar información con claridad, enlazar argumentos y expresar obligación, expectativa, probabilidad, crítica o necesidad sin depender siempre de frases directas y repetitivas.
 

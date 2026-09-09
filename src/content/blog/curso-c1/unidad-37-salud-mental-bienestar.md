@@ -46,7 +46,7 @@ excerpt: >-
   de bienestar, burnout y resilience, más 19 ejercicios inglés C1 gratis.
 ---
 
-# Unidad 37 — Salud mental y bienestar: paráfrasis empática y límites
+## Unidad 37 — Salud mental y bienestar: paráfrasis empática y límites
 
 Hablar de salud mental en inglés exige precisión y sensibilidad a partes iguales. No basta con conocer el vocabulario correcto, porque la forma en que reformulas lo que alguien te confía, la manera en que matizas tus propias afirmaciones y el respeto con el que marcas límites determinan si una conversación se siente genuinamente empática o torpe. En esta unidad del [curso de inglés C1 gratis](/blog/metodos/ingles-c1) vas a dominar la paráfrasis empática, las estructuras para expresar límites con asertividad y el léxico del bienestar, el burnout y la resilience, todo ello acompañado de diecinueve ejercicios inglés C1 gratis con soluciones detalladas.
 

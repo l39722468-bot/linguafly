@@ -46,7 +46,7 @@ excerpt: >-
   controversia, con vocabulario de dieta y estilo de vida, más 19 ejercicios C1.
 ---
 
-# Unidad 39 — Nutrición y estilo de vida: evidencia y recomendación prudente
+## Unidad 39 — Nutrición y estilo de vida: evidencia y recomendación prudente
 
 Hablar de nutrición en inglés C1 es caminar por una cuerda floja entre la solidez de la evidencia y la prudencia de la recomendación. El campo está plagado de estudios preliminares, titulares sensacionalistas y consensos cambiantes, de modo que la competencia lingüística en este nivel exige presentar la evidencia con matices, formular recomendaciones sin dogmatismo y distinguir lo que es consenso de lo que es controversia. En esta unidad del [curso de inglés C1 gratis](/blog/metodos/ingles-c1) vas a dominar el lenguaje basado en evidencia, la gramática de la recomendación prudente y el léxico de la nutrición y el estilo de vida, con diecinueve ejercicios inglés C1 gratis con soluciones.
 

@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre tiempos narrativos avanzados, secuencias complejas y estilo indirecto libre con vocabulario de literatura y storytelling, teoría y ejercicios resueltos.
 ---
 
-# Unidad 17 C1: tiempos narrativos avanzados, literatura y storytelling
+## Unidad 17 C1: tiempos narrativos avanzados, literatura y storytelling
 
 Narrar bien no consiste solo en decir qué ocurrió, sino en controlar **cuándo** lo situamos respecto a otros eventos, **desde qué distancia** lo miramos y **desde qué mente** lo filtramos. En inglés avanzado, esa gestión del tiempo narrativo se logra combinando varios tiempos del pasado y, sobre todo, eligiendo con precisión el aspecto. Comparemos tres versiones del mismo instante:
 

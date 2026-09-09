@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre present perfect simple, present perfect continuous y perfect infinitive, con vocabulario de comunicación y ejercicios resueltos.
 ---
 
-# Unidad 2 C1: aspecto perfecto y comunicación
+## Unidad 2 C1: aspecto perfecto y comunicación
 
 La Unidad 2 del curso C1 se centra en una diferencia que parece pequeña, pero cambia el foco de una frase: **¿queremos destacar el resultado de una acción, la actividad que la ha producido, su duración o su relación con otro momento?** El inglés responde mediante el aspecto perfecto.
 

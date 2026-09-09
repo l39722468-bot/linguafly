@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre el movimiento y la metáfora en danza y coreografía, con cláusulas de relativo, metáfora del movimiento, vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 28 C1: movimiento y metáfora, danza y coreografía
+## Unidad 28 C1: movimiento y metáfora, danza y coreografía
 
 Escribir sobre danza presenta un desafío singular: hay que poner en palabras lo que **no las usa**. El cuerpo se mueve, el espacio se ocupa, el tempo se acelera o se suspende, y el crítico debe traducir ese lenguaje no verbal a un discurso que describa e interprete. Para hacerlo con precisión en inglés C1, dos recursos resultan centrales: las **cláusulas de relativo explicativas y restrictivas**, que permiten añadir o delimitar información sobre un elemento sin sobrecargar la frase, y la **metáfora del movimiento**, que asocia el gesto a una imagen controlada y precisa. Comparemos tres versiones:
 

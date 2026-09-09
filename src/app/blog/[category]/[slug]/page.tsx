@@ -4,7 +4,7 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { ShareButton } from "./ShareButton";
-import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema, generateCourseUnitSchema } from "@/lib/schemas";
+import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schemas";
 import { BlogEnhancements } from "@/components/blog/BlogEnhancements";
 import { BlogAnalytics } from "@/components/blog/BlogAnalytics";
 import { BlogExerciseMapBanner } from "@/components/blog/BlogExerciseMapBanner";
@@ -108,7 +108,6 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const normalizedCategory = normalizeCategory(article.category);
   const categoryLabel = getPublicCategoryLabel(normalizedCategory).name;
   const contentLanguage = "es-ES";
-  const taughtLanguage = "English language";
 
   const articleSchema = generateArticleSchema({
     title: article.title,
@@ -128,16 +127,6 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
       image: article.authorData.image,
     } : undefined,
   });
-  const courseSchema = normalizedCategory.startsWith("curso-")
-    ? generateCourseUnitSchema({
-        name: article.title,
-        description: article.excerpt,
-        level: normalizedCategory.replace(/^curso-(espanol-)?/, ""),
-        url: getAbsoluteUrl(`/blog/${normalizedCategory}/${slug}`),
-        inLanguage: contentLanguage,
-        teaches: taughtLanguage,
-      })
-    : null;
 
   // Generate Breadcrumb Schema
   const breadcrumbSchema = generateBreadcrumbSchema([
@@ -299,7 +288,6 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
       <>
         {/* SEO Schemas */}
         <JsonLd data={articleSchema} />
-        <JsonLd data={courseSchema} />
         <JsonLd data={breadcrumbSchema} />
         <JsonLd data={faqSchema} />
 

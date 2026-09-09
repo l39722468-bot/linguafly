@@ -46,7 +46,7 @@ excerpt: >-
   estructuras de conexión y recapitulación, más 19 ejercicios inglés C1 gratis.
 ---
 
-# Unidad 42 — Consolidación salud-mente: síntesis interdisciplinar
+## Unidad 42 — Consolidación salud-mente: síntesis interdisciplinar
 
 Esta unidad es un punto de inflexión en el curso: en lugar de introducir un tema nuevo, consolida el bloque de salud integrando los hilos de las unidades anteriores —salud mental, neurociencia, nutrición, longevidad y medicina complementaria— en una síntesis interdisciplinar. Hablar de salud en inglés C1 no es solo conocer el vocabulario de cada campo, sino saber conectarlo, mostrar dónde confluyen las disciplinas, dónde divergen y qué imagen de conjunto emerge. En esta unidad del [curso de inglés C1 gratis](/blog/metodos/ingles-c1) vas a dominar las estructuras de síntesis y recapitulación, el léxico de la conexión mente-cuerpo y los recursos para tejer un discurso interdisciplinar coherente, con diecinueve ejercicios inglés C1 gratis con soluciones.
 

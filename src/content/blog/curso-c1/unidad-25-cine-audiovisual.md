@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre género y crítica fílmica aplicados al cine y lo audiovisual, con nominalización, subordinadas de comentario, vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 25 C1: género y crítica fílmica, cine y audiovisual
+## Unidad 25 C1: género y crítica fílmica, cine y audiovisual
 
 Escribir sobre cine exige un registro particular: el de la **crítica**. No se trata de contar el argumento ni de opinar de forma vaga, sino de valorar cómo una película construye sentido mediante sus recursos formales —el encuadre, el montaje, la banda sonora, el ritmo— y de situarla en una tradición de género. Para hacerlo en inglés C1, dos recursos gramaticales resultan indispensables: la **nominalización**, que densifica el texto y lo vuelve más abstracto y formal, y las **subordinadas de comentario** (*it is striking that...*), que permiten introducir una valoración antes de exponer su contenido. Comparemos tres versiones:
 

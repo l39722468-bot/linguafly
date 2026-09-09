@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre la responsabilidad y las estructuras de obligación ética aplicadas a la ética corporativa y los stakeholders, con vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 35 C1: responsabilidad y stakeholders, ética corporativa
+## Unidad 35 C1: responsabilidad y stakeholders, ética corporativa
 
 La ética corporativa es el género donde el lenguaje se vuelve obligación moral: lo que una empresa *debe*, *es responsable de* y *responde por*. El inglés C1 distingue estos matices con un repertorio de **estructuras de responsabilidad** y **obligación ética** que ningún otro nivel maneja con la misma precisión. Comparemos tres versiones sobre el mismo hecho:
 

@@ -56,7 +56,7 @@ La **Unidad 53** consolida los **modals** de obligación, deducción y consejo j
 
 ---
 
-# Parte I — Teoría
+## Parte I — Teoría
 
 ## Qué aprenderás en esta unidad
 
@@ -333,7 +333,7 @@ El camino hacia B2 va del **reconocimiento pasivo** (identificar modals y phrasa
 ---
 ---
 
-# Parte II — Ejercicios con soluciones
+## Parte II — Ejercicios con soluciones
 
 Este cuaderno reúne los **ejercicios de la Unidad 53 del curso B2** (*Career & Work*). Practicarás reconocimiento, transformación y producción con tareas cerradas o criterios verificables.
 

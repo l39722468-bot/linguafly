@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre frases nominales complejas y nominalización aplicadas a la biodiversidad y la conservación, con vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 22 C1: frases nominales complejas, nominalización, biodiversidad y conservación
+## Unidad 22 C1: frases nominales complejas, nominalización, biodiversidad y conservación
 
 El inglés académico es notablemente más "nominal" que el cotidiano. Donde el hablante corriente dice *pollinators are declining and that worries farmers*, un texto científico escribe *the decline of pollinators has alarmed farmers*. Ese giro —de la cláusula con verbo a la **frase nominal**— es la marca del registro expositivo y, en C1, una destreza central. La Unidad 22 C1 desarrolla dos recursos ligados: las **frases nominales complejas** (con pre- y post-modificación) y la **nominalización** (la conversión de verbos y adjetivos en sustantivos). Comparemos tres versiones:
 

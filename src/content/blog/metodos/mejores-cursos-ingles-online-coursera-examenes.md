@@ -29,7 +29,7 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-coursera-examenes'
 ---
 
-# Coursera 2026: MOOCs IELTS académico
+## Coursera 2026: MOOCs IELTS académico
 
 **Coursera** (y plataformas como **edX**) aportan algo distinto a las apps: **cursos universitarios** con módulos, tareas y a veces certificado de pago. En una guía de **mejores cursos de inglés online** para personas con perfil **académico** o **IELTS Academic**, merecen un capítulo propio.
 

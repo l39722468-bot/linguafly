@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre fronting, topicalisation, contraste y especulación con vocabulario de problemas globales y ejercicios resueltos.
 ---
 
-# Unidad 8 C1: fronting, contraste y especulación
+## Unidad 8 C1: fronting, contraste y especulación
 
 Cuando hablamos de problemas globales necesitamos dos tipos de precisión. Primero, debemos decidir qué información merece ocupar el primer plano: una consecuencia, una limitación, un grupo afectado o una condición. Segundo, debemos distinguir entre hechos comprobados, interpretaciones plausibles y escenarios que solo podemos imaginar. La Unidad 8 trabaja esas capacidades mediante **fronting**, **topicalisation**, estructuras de **contraste** y lenguaje de **especulación**.
 

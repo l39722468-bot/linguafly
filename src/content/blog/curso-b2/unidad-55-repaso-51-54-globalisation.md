@@ -48,7 +48,7 @@ excerpt: >-
   Repaso B2 de U51–54: wish/if only, third conditional, passive, modals, phrasal verbs, linkers y collocations con vocabulario de globalización. Teoría y ejercicios con soluciones.
 ---
 
-# Repaso B2 Unidades 51–54: Gramática, Vocabulario y Globalización
+## Repaso B2 Unidades 51–54: Gramática, Vocabulario y Globalización
 
 La **Unidad 55** consolida la gramática y el vocabulario de **U51–54**. La lección viva combina wish/if only, third conditional, mixed conditionals, passive voice, passive reporting, reported speech, modals of obligation/deduction, phrasal verbs, linkers of contrast/reason/addition y collocations de política y relaciones internacionales.
 

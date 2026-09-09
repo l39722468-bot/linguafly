@@ -43,7 +43,7 @@ excerpt: >-
   Guía de la Unidad 1 C1 sobre modales de deducción, probabilidad e identidad personal, con teoría y ejercicios resueltos.
 ---
 
-# Unidad 1 C1: deducción, probabilidad e identidad
+## Unidad 1 C1: deducción, probabilidad e identidad
 
 La primera unidad del curso C1 introduce una habilidad decisiva para comunicarse con precisión: no basta con decir qué ocurrió; también hay que explicar **qué creemos que ocurrió, con qué grado de seguridad y a partir de qué pruebas**. En inglés avanzado, esa diferencia se expresa mediante los **modales de deducción y probabilidad**.
 

@@ -56,7 +56,7 @@ La **Unidad 52** consolida la **passive voice** en todos los tiempos, la **passi
 
 ---
 
-# Parte I — Teoría
+## Parte I — Teoría
 
 ## Qué aprenderás en esta unidad
 
@@ -415,7 +415,7 @@ El camino de B2 va del **reconocimiento pasivo** (identificar passive y reported
 
 ---
 
-# Parte II — Ejercicios con soluciones
+## Parte II — Ejercicios con soluciones
 
 Este cuaderno reúne los **ejercicios de la Unidad 52 del curso B2** (*Human Rights & Justice*). Practicarás reconocimiento, transformación y producción con tareas cerradas o criterios verificables.
 

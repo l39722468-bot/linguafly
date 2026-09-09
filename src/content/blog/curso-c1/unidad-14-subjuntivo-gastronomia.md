@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre el subjuntivo mandativo en inglés formal con vocabulario de gastronomía, cultura alimentaria y ejercicios resueltos.
 ---
 
-# Unidad 14 C1: subjuntivo, gastronomía y cultura
+## Unidad 14 C1: subjuntivo, gastronomía y cultura
 
 En inglés formal, las recomendaciones, exigencias y condiciones importantes se pueden expresar con una estructura muy precisa: **that + sujeto + forma base del verbo**. Esta forma se conoce como **mandative subjunctive** o subjuntivo mandativo.
 

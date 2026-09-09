@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre descripción e interpretación en artes visuales y estética, con cláusulas de participio, inversión concesiva, vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 26 C1: descripción e interpretación, artes visuales y estética
+## Unidad 26 C1: descripción e interpretación, artes visuales y estética
 
 Hablar de una obra de arte visual es, a la vez, **describir** lo que se ve y **interpretar** lo que significa. La descripción nombra los elementos formales —la composición, la luz, la textura, la paleta—; la interpretación les atribuye un sentido o un efecto. Para hacerlo con precisión en inglés C1, dos recursos gramaticales resultan especialmente útiles: las **cláusulas de participio**, que condensan una subordinada en una frase inicial densa (*Painted in muted tones, the portrait conveys melancholy*), y la **inversión concesiva**, que reconoce una cualidad y a la vez limita su valoración (*Striking as the composition is, it lacks emotional depth*). Comparemos tres versiones:
 

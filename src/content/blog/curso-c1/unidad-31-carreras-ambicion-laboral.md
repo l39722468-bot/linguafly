@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre la modalidad y el discurso profesional aplicados a carreras y ambición laboral, con CV, entrevistas, vocabulario y ejercicios resueltos.
 ---
 
-# Unidad 31 C1: modalidad y discurso profesional, carreras y ambición laboral
+## Unidad 31 C1: modalidad y discurso profesional, carreras y ambición laboral
 
 Hablar de carrera profesional es, casi siempre, hablar de obligación, expectativa y elección: lo que *debes* hacer, lo que *se supone* que harás, lo que *conviene* evitar. El inglés C1 distingue estos matices con un repertorio de **modales** y **semi-modales** que ningún otro nivel maneja con la misma precisión. Comparemos tres versiones sobre la misma situación:
 

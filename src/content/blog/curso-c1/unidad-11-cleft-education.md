@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre cleft sentences y what-clauses con vocabulario de educación, evaluación y aprendizaje, teoría y ejercicios resueltos.
 ---
 
-# Unidad 11 C1: cleft sentences, educación y aprendizaje
+## Unidad 11 C1: cleft sentences, educación y aprendizaje
 
 En una conversación sencilla podemos decir: *The teacher identified the problem*. En un ensayo o una presentación académica quizá queramos destacar quién lo identificó, qué problema se detectó o cuándo ocurrió. Las **cleft sentences**, también llamadas oraciones escindidas, nos permiten reorganizar la información para que un elemento reciba un foco claro.
 

@@ -394,7 +394,7 @@ Siguiente guía: [U23 — Phrasal verbs 1 + home & living](/blog/curso-b2/unidad
 
 ---
 
-# Parte II — Ejercicios
+## Parte II — Ejercicios
 
 Este artículo incluye también los **ejercicios de la Unidad 22** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 

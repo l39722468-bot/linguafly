@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre reuniones, minutas y reported speech avanzado aplicados al liderazgo y la gestión, con vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 34 C1: reuniones y minutas, liderazgo y gestión
+## Unidad 34 C1: reuniones y minutas, liderazgo y gestión
 
 La minuta es el género donde la palabra hablada se convierte en registro formal: lo que alguien *dijo* en la sala se transforma en lo que el comité *acordó*, *destacó* o *se comprometió a hacer*. Para hacerlo con precisión, el inglés C1 domina el **reported speech avanzado**, los **verbos de reporte** y el **registro de gestión**. Comparemos tres versiones del mismo acuerdo:
 

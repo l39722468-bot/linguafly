@@ -27,7 +27,7 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes'
 ---
 
-# Linguafly 2026: blog (no curso de pago)
+## Linguafly 2026: blog (no curso de pago)
 
 En esta serie sobre **mejores cursos de inglés online** incluimos a **Linguafly** con un matiz obligatorio: **aquí el producto principal es contenido editorial** (artículos, hubs temáticos, guías de gramática y exámenes), **no** una plataforma de cursos con precio de suscripción docente como las demás entradas de la lista.
 

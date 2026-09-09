@@ -25,7 +25,7 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-preply'
 ---
 
-# Preply 2026: tutores para IELTS y Cambridge
+## Preply 2026: tutores para IELTS y Cambridge
 
 **Preply** no es un currículo único: es un **marketplace de tutores**. Por eso entra en las listas de **mejores cursos de inglés online** cuando lo que buscas es **flexibilidad** y **preparación de examen uno a uno** —pero con un matiz: el resultado depende de **a quién contratas**.
 

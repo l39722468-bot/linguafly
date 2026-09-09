@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre construcciones absolutas y cláusulas de participio aplicadas a los desastres naturales y el riesgo, con vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 23 C1: construcciones absolutas, cláusulas de participio, desastres naturales y riesgo
+## Unidad 23 C1: construcciones absolutas, cláusulas de participio, desastres naturales y riesgo
 
 Un informe de desastre se escribe bajo presión y con poco espacio: debe condensar causas, secuencia y consecuencias sin perder precisión. Para lograrlo, el inglés C1 recurre a las **cláusulas de participio** y a las **construcciones absolutas**, que permiten comprimir varias cláusulas en una sola frase. Comparemos tres versiones:
 

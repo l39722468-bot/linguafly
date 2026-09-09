@@ -46,7 +46,7 @@ excerpt: >-
   accesibles y verbos de función cognitiva, más 19 ejercicios inglés C1 gratis.
 ---
 
-# Unidad 38 — Neurociencia divulgativa: terminología y simplificación controlada
+## Unidad 38 — Neurociencia divulgativa: terminología y simplificación controlada
 
 Explicar neurociencia a un público no especializado en inglés es un ejercicio de equilibrio entre rigor y accesibilidad. Necesitas el vocabulario técnico para ser preciso, pero también las herramientas para reformularlo, ilustrarlo con analogías y matizarlo con hedges que eviten la sobresimplificación. En esta unidad del [curso de inglés C1 gratis](/blog/metodos/ingles-c1) vas a dominar la terminología neurocientífica esencial, la simplificación controlada de conceptos complejos y los recursos discursivos de la divulgación científica, con diecinueve ejercicios inglés C1 gratis con soluciones.
 

@@ -44,7 +44,7 @@ excerpt: >-
   Repaso C1 sobre distancing, impersonales y clefts con vocabulario de ética, inteligencia artificial y futuro, teoría y ejercicios resueltos.
 ---
 
-# Unidad 10 C1: repaso, ética y futuro
+## Unidad 10 C1: repaso, ética y futuro
 
 La Unidad 10 cierra el primer bloque del curso C1 con un repaso aplicado a **Philosophy, Ethics and the Future**. El objetivo no es añadir una lista nueva de reglas, sino aprender a combinar tres recursos que ya has trabajado: **distancing language**, **impersonal constructions** y **advanced clefts**.
 

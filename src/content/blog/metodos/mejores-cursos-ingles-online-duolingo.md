@@ -25,7 +25,7 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-duolingo'
 ---
 
-# Duolingo 2026: insuficiente para IELTS solo
+## Duolingo 2026: insuficiente para IELTS solo
 
 **Duolingo** es el rey de la **constancia** y la **gamificación**. Aparece en cualquier conversación sobre **mejores cursos de inglés online** porque es accesible y adictivo —pero hay que ser claro: **no es un programa de preparación de examen** al nivel de IELTS o Cambridge si es lo único que usas.
 

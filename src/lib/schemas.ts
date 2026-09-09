@@ -110,7 +110,7 @@ export function generateCourseSchema(props: CourseSchemaProps) {
   };
 }
 
-/** Generates valid Course data for free course theory and exercise articles. */
+/** Per-unit blog posts are BlogPosting, not Course. Keep this for a future series hub. */
 export function generateCourseUnitSchema(props: CourseUnitSchemaProps) {
   return {
     "@context": "https://schema.org",

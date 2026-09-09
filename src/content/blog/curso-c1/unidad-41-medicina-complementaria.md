@@ -46,7 +46,7 @@ excerpt: >-
   formular posturas matizadas, con vocabulario clínico y 19 ejercicios C1 gratis.
 ---
 
-# Unidad 41 — Medicina complementaria: contraste evidencia y opinión
+## Unidad 41 — Medicina complementaria: contraste evidencia y opinión
 
 Hablar de medicina complementaria en inglés C1 es un ejercicio de pensamiento crítico tanto como de lengua. El campo mezcla terapias con respaldo clínico, prácticas con evidencia limitada y afirmaciones que rozan la pseudociencia, de modo que la competencia en este nivel exige distinguir con precisión lo que la evidencia sostiene de lo que la opinión sostiene, marcar el estatus epistémico de cada afirmación y formular posturas matizadas que reconozcan matices sin caer ni en el credulismo ni en el desdén. En esta unidad del [curso de inglés C1 gratis](/blog/metodos/ingles-c1) vas a dominar el contraste entre evidencia y opinión, el lenguaje del consenso médico y los recursos para argumentar con prudencia sobre terapias controvertidas, con diecinueve ejercicios inglés C1 gratis con soluciones.
 

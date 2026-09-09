@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre comparativas avanzadas y contraste aplicados a los océanos y la vida marina, con vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 24 C1: comparativas y contraste avanzados, océanos y vida marina
+## Unidad 24 C1: comparativas y contraste avanzados, océanos y vida marina
 
 Comparar es la operación central de buena parte del discurso científico y divulgativo. Al escribir sobre océanos, con frecuencia oponemos regiones, épocas o prácticas: el Atlántico frente al Pacífico, el estado actual frente al de hace décadas, la pesca industrial frente a la artesanal. Para hacerlo con precisión, el inglés C1 refina las **comparativas** (con modificadores y la estructura *the ... the ...*) y despliega un repertorio de **conectores de contraste**. Comparemos tres versiones:
 
