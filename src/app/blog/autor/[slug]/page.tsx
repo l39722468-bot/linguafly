@@ -9,6 +9,7 @@ import { Twitter, BookOpen, Award, CheckCircle } from "lucide-react";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
+import { DEFAULT_OG_IMAGE_PATH } from "@/lib/seo/og-images";
 
 export const dynamic = "force-dynamic";
 
@@ -26,7 +27,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
   const ogImage = author.image?.startsWith("http")
     ? author.image
-    : getAbsoluteUrl(author.image || "/blog/og-image.jpg");
+    : getAbsoluteUrl(author.image || DEFAULT_OG_IMAGE_PATH);
 
   return {
     title: `${author.name} | Experto en Inglés - ${SITE_BRAND_NAME}`,

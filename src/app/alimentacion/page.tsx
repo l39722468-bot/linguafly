@@ -3,15 +3,33 @@ import { VerticalHub } from "@/components/magazine/VerticalHub";
 import { getVertical } from "@/lib/site-catalog";
 import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 import { parsePageParam } from "@/lib/content/pagination";
+import { getCategoryOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
 
 export const dynamic = "force-dynamic";
 
 const vertical = getVertical("alimentacion")!;
+const title = `Alimentación: comidas reales y hábitos sostenibles | ${SITE_BRAND_NAME}`;
+const og = ogImageMeta(title, getCategoryOgImagePath(vertical.slug));
 
 export const metadata: Metadata = {
-  title: `Alimentación: comidas reales y hábitos sostenibles | ${SITE_BRAND_NAME}`,
+  title,
   description: vertical.description,
   alternates: { canonical: getAbsoluteUrl(vertical.href) },
+  openGraph: {
+    title,
+    description: vertical.description,
+    type: "website",
+    locale: "es_ES",
+    url: getAbsoluteUrl(vertical.href),
+    siteName: SITE_BRAND_NAME,
+    images: og.images,
+  },
+  twitter: {
+    card: "summary_large_image",
+    title,
+    description: vertical.description,
+    images: og.twitterImages,
+  },
 };
 
 export default async function AlimentacionPage({

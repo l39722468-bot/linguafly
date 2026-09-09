@@ -9,6 +9,7 @@ import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
 import { generateBreadcrumbSchema, generateCollectionPageSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
+import { DEFAULT_OG_IMAGE_PATH, ogImageMeta } from "@/lib/seo/og-images";
 import { ENGLISH_LEARNING_SECTIONS, SITE_VERTICALS } from "@/lib/site-catalog";
 import { getArticlePath } from "@/lib/blog-paths";
 
@@ -26,7 +27,7 @@ export async function generateMetadata({
   const title = `Artículos de idiomas, hábitos, IA e inglés | ${SITE_BRAND_NAME}`;
   const description =
     "Artículos de la revista (idiomas, alimentación, entrenamiento e inteligencia artificial) y el archivo de guías para aprender inglés: gramática, viajes, trabajo, exámenes y cursos por nivel.";
-  const ogImage = getAbsoluteUrl("/blog/og-image.jpg");
+  const og = ogImageMeta(title, DEFAULT_OG_IMAGE_PATH);
 
   return {
     title,
@@ -42,13 +43,13 @@ export async function generateMetadata({
       locale: "es_ES",
       url: canonical,
       siteName: SITE_BRAND_NAME,
-      images: [{ url: ogImage, width: 1200, height: 630, alt: title }],
+      images: og.images,
     },
     twitter: {
       card: "summary_large_image",
       title,
       description,
-      images: [ogImage],
+      images: og.twitterImages,
     },
   };
 }
@@ -73,6 +74,7 @@ export default async function BlogPage({
     description:
       "Revista de idiomas, alimentación, entrenamiento e inteligencia artificial, y el archivo de guías para aprender inglés.",
     url: page > 1 ? getAbsoluteUrl(`/blog?page=${page}`) : getAbsoluteUrl("/blog"),
+    image: DEFAULT_OG_IMAGE_PATH,
     numberOfItems: total,
     articles: articles.map((article) => ({
       title: article.title,

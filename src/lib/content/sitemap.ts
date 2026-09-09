@@ -9,6 +9,10 @@ import {
   listSitemapArticles,
 } from "@/lib/content/articles";
 import { SITEMAP_CHUNK_SIZE, SITEMAP_SHARD_COUNT } from "@/lib/content/pagination";
+import {
+  getArticleOgImageUrl,
+  getCategoryOgImageUrl,
+} from "@/lib/seo/og-images";
 
 const SITE_LAUNCH_DATE = new Date("2026-09-08");
 
@@ -16,14 +20,66 @@ export function magazineSitemapIds(): { id: number }[] {
   return Array.from({ length: SITEMAP_SHARD_COUNT }, (_, i) => ({ id: i }));
 }
 
+function escapeXml(value: string): string {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
+export function serializeSitemapXml(entries: MetadataRoute.Sitemap): string {
+  const urls = entries
+    .map((entry) => {
+      const lastmod = entry.lastModified
+        ? `<lastmod>${new Date(entry.lastModified).toISOString()}</lastmod>`
+        : "";
+      const changefreq = entry.changeFrequency
+        ? `<changefreq>${entry.changeFrequency}</changefreq>`
+        : "";
+      const priority =
+        typeof entry.priority === "number"
+          ? `<priority>${entry.priority.toFixed(1)}</priority>`
+          : "";
+      const images = (entry.images ?? [])
+        .map(
+          (image) =>
+            `<image:image><image:loc>${escapeXml(image)}</image:loc></image:image>`,
+        )
+        .join("");
+      return `<url><loc>${escapeXml(entry.url)}</loc>${lastmod}${changefreq}${priority}${images}</url>`;
+    })
+    .join("\n");
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+${urls}
+</urlset>
+`;
+}
+
 function staticUrls(
   mostRecent: Date,
   includeLegal: boolean
 ): MetadataRoute.Sitemap {
   const baseUrl = getSiteUrl();
+  const brandImage = getCategoryOgImageUrl();
   const urls: MetadataRoute.Sitemap = [
-    { url: `${baseUrl}/`, lastModified: mostRecent, changeFrequency: "daily", priority: 1.0 },
-    { url: `${baseUrl}/blog`, lastModified: mostRecent, changeFrequency: "daily", priority: 0.98 },
+    {
+      url: `${baseUrl}/`,
+      lastModified: mostRecent,
+      changeFrequency: "daily",
+      priority: 1.0,
+      images: [brandImage],
+    },
+    {
+      url: `${baseUrl}/blog`,
+      lastModified: mostRecent,
+      changeFrequency: "daily",
+      priority: 0.98,
+      images: [brandImage],
+    },
     { url: `${baseUrl}/contacto`, lastModified: SITE_LAUNCH_DATE, changeFrequency: "yearly", priority: 0.5 },
     { url: `${baseUrl}/sobre-nosotros`, lastModified: mostRecent, changeFrequency: "monthly", priority: 0.6 },
     ...SITE_VERTICALS.map((vertical) => ({
@@ -31,18 +87,21 @@ function staticUrls(
       lastModified: mostRecent,
       changeFrequency: "weekly" as const,
       priority: 0.9,
+      images: [getCategoryOgImageUrl(vertical.slug)],
     })),
     ...SITE_VERTICALS.map((vertical) => ({
       url: `${baseUrl}${vertical.blogHref}`,
       lastModified: mostRecent,
       changeFrequency: "weekly" as const,
       priority: 0.8,
+      images: [getCategoryOgImageUrl(vertical.slug)],
     })),
     ...ENGLISH_LEARNING_SECTIONS.map((section) => ({
       url: `${baseUrl}${section.href}`,
       lastModified: mostRecent,
       changeFrequency: "weekly" as const,
       priority: 0.85,
+      images: [getCategoryOgImageUrl(section.slug)],
     })),
   ];
 
@@ -92,6 +151,7 @@ export async function buildMagazineSitemap(
           lastModified: new Date(article.updated_at || article.created_at || SITE_LAUNCH_DATE),
           changeFrequency: "monthly" as const,
           priority: 0.7,
+          images: [getArticleOgImageUrl(article)],
         }))
       );
     }

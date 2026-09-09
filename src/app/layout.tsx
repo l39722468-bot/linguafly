@@ -7,10 +7,15 @@ import MatomoAnalytics from "@/components/MatomoAnalytics";
 import IubendaConsent from "@/components/IubendaConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
-import { SITE_BRAND_NAME, getSiteUrl } from "@/lib/site-brand";
+import { getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import { SITE_DESCRIPTION, SITE_TAGLINE } from "@/lib/site-catalog";
+import { DEFAULT_OG_IMAGE_PATH, ogImageMeta } from "@/lib/seo/og-images";
 
 const siteUrl = getSiteUrl();
+const siteOg = ogImageMeta(
+  `${SITE_BRAND_NAME} — idiomas, alimentación, entrenamiento e inteligencia artificial`,
+  DEFAULT_OG_IMAGE_PATH,
+);
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -43,20 +48,13 @@ export const metadata: Metadata = {
     locale: "es_ES",
     siteName: SITE_BRAND_NAME,
     url: siteUrl,
-    images: [
-      {
-        url: 'https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop',
-        width: 1200,
-        height: 630,
-        alt: `${SITE_BRAND_NAME} - Idiomas, alimentación, entrenamiento e inteligencia artificial`,
-      }
-    ],
+    images: siteOg.images,
   },
   twitter: {
     card: "summary_large_image",
     title: `${SITE_TAGLINE.replace(/\.$/, "")} | ${SITE_BRAND_NAME}`,
     description: SITE_DESCRIPTION,
-    images: ['https://images.pexels.com/photos/3184328/pexels-photo-3184328.jpeg?auto=compress&cs=tinysrgb&w=1200&h=630&fit=crop'],
+    images: siteOg.twitterImages,
   },
   robots: {
     index: true,
