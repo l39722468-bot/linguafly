@@ -337,7 +337,7 @@ Sí. *Could* añade capacidad o posibilidad y *might* expresa una consecuencia m
 
 ---
 
-# Parte II — Ejercicios
+## Parte II — Ejercicios
 
 Este artículo incluye también los **ejercicios de la Unidad 46** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 

@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre el pitch de emprendimiento y las estructuras de riesgo-oportunidad aplicadas a startups e innovación, con vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 33 C1: pitch y riesgo-oportunidad, emprendimiento e innovación
+## Unidad 33 C1: pitch y riesgo-oportunidad, emprendimiento e innovación
 
 Un pitch es, en el fondo, un argumento condicional: *si* inviertes, *entonces* este futuro se realiza; *a menos que* resolvamos este cuello, el mercado queda desatendido. El inglés C1 maneja esa lógica de riesgo y oportunidad con un repertorio de **condicionales** y **conjunciones de contingencia** que ningún otro nivel despliega con la misma precisión. Comparemos tres versiones del mismo cierre de pitch:
 

@@ -47,7 +47,7 @@ excerpt: >-
 
 ---
 
-# Parte II — Ejercicios
+## Parte II — Ejercicios
 
 Este articulo incluye tambien los **ejercicios de la Unidad 38** con soluciones comentadas. Haz cada bloque **sin mirar** la solucion. Luego comprueba y lee la explicacion.
 

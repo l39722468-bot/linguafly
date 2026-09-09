@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre distancing language, construcciones impersonales y clefts avanzadas con vocabulario de medios e información y ejercicios resueltos.
 ---
 
-# Unidad 9 C1: distancing, medios y clefts avanzadas
+## Unidad 9 C1: distancing, medios y clefts avanzadas
 
 En periodismo, comunicación institucional y análisis académico, no siempre podemos presentar una información como un hecho confirmado. A veces existe una fuente anónima, una declaración interesada, un rumor o una interpretación que todavía debe comprobarse. La Unidad 9 C1 enseña a manejar esa distancia mediante **distancing language**, construcciones impersonales y **cleft sentences** avanzadas.
 

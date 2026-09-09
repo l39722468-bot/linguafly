@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre inversión para énfasis, condicionales invertidas y lenguaje evaluativo aplicado a la moda y la identidad, con teoría y ejercicios resueltos.
 ---
 
-# Unidad 18 C1: inversión para énfasis, moda e identidad
+## Unidad 18 C1: inversión para énfasis, moda e identidad
 
 La moda es uno de los terrenos donde el inglés escribe con más fuerza sus juicios. Una crítica de moda no se limita a describir prendas: argumenta sobre identidad, conformismo y los costes de la industria. Para ello necesita dos herramientas: una gramática que **enfatice** y un léxico que **evalúe**. Comparemos tres formas de decir lo mismo:
 

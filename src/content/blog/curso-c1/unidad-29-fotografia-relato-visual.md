@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre la inferencia visual-textual en fotografía y relato visual, con elipsis y sustitución, vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 29 C1: inferencia visual-textual, fotografía y relato visual
+## Unidad 29 C1: inferencia visual-textual, fotografía y relato visual
 
 Una fotografía fija un instante y, al hacerlo, sugiere todo lo que queda fuera del encuadre: lo que ocurrió antes, lo que queda al otro lado del marco, lo que el fotógrafo decidió no mostrar. Escribir sobre fotografía es, por tanto, un ejercicio de **inferencia**: describir lo visible y dejar que el lector deduzca lo ausente. Para hacerlo con precisión y cohesión en inglés C1, dos recursos resultan especialmente útiles: la **elipsis y la sustitución**, que permiten evitar la repetición y densificar el texto (*The first image is sharp; the second, blurred*), y la **inferencia visual-textual**, que nombra un detalle y extrae una conclusión sin sobreexplicar (*The empty chair and the tilted glass imply a hasty departure*). Comparemos tres versiones:
 

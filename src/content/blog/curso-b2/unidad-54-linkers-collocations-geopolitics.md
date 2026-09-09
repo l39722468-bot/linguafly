@@ -48,7 +48,7 @@ excerpt: >-
   Unidad 54 B2: linkers de contraste, causa y propósito con collocations de política, diplomacia y relaciones internacionales. Teoría, reading, listening, writing, speaking y ejercicios con soluciones.
 ---
 
-# Unidad 54 — Linkers y Collocations: Política y Relaciones Internacionales
+## Unidad 54 — Linkers y Collocations: Política y Relaciones Internacionales
 
 La **Unidad 54** integra **linkers** de contraste, causa, propósito y adición con **collocations** del ámbito de la política y las relaciones internacionales. Cada conector sitúa la información correctamente; cada colocación aporta precisión léxica al registro formal.
 
@@ -471,7 +471,7 @@ En la Unidad 54 del curso B2 y en esta misma guía, que incluye teoría y ejerci
 
 ---
 
-# Ejercicios — Unidad 54
+## Ejercicios — Unidad 54
 
 ## Lección 1 — Gramática y Chunks
 

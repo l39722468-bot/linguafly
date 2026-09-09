@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre linkers de causa-resultado y estructuras con it aplicados a la economía y la globalización, con vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 20 C1: causa-resultado, estructuras con it, economía y globalización
+## Unidad 20 C1: causa-resultado, estructuras con it, economía y globalización
 
 El discurso económico vive de las relaciones de causa y efecto. Un informe no se limita a constatar que *inflation rose*; explica **por qué** subió y **qué consecuencias** trae. Para encadenar estos razonamientos, el inglés C1 recurre a dos familias de recursos: los **linkers de causa-resultado** y las **estructuras con it** que atribuyen y matizan. Comparemos tres versiones:
 

@@ -48,7 +48,7 @@ excerpt: >-
   Unidad 51 B2: teoría y ejercicios de wish/if only + past perfect y third conditional con vocabulario de economía, reading, listening, writing, speaking y soluciones.
 ---
 
-# Unidad 51 B2 — Wish, If Only y Third Conditional: Crisis Económicas
+## Unidad 51 B2 — Wish, If Only y Third Conditional: Crisis Económicas
 
 La **Unidad 51** abre el Módulo 6 del curso B2 con dos estructuras que expresan lamento e hipótesis sobre el pasado: **wish/if only + past perfect** y el **third conditional**. La lección viva las sitúa en el contexto de las **crisis económicas**, la banca y la inversión, de modo que cada ejemplo conecta forma gramatical y léxico real.
 
@@ -60,7 +60,7 @@ El vocabulario recorre **recession, inflation, interest rates, bankruptcy, stimu
 
 ---
 
-# Parte I — Teoría
+## Parte I — Teoría
 
 ## Qué aprenderás en esta unidad
 
@@ -318,7 +318,7 @@ Antes de avanzar a los ejercicios, comprueba:
 
 ---
 
-# Parte II — Ejercicios con soluciones
+## Parte II — Ejercicios con soluciones
 
 Este cuaderno reúne los **ejercicios de la Unidad 51 del curso B2** (*Global Economic Crisis*). Practicarás reconocimiento, transformación y producción con tareas cerradas o criterios verificables. Cada actividad indica qué debes escribir, qué opciones puedes usar o qué información debes localizar.
 

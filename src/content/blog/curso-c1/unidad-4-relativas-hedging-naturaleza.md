@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre relative clauses avanzadas y hedging language con vocabulario del mundo natural y ejercicios resueltos.
 ---
 
-# Unidad 4 C1: relative clauses, hedging y naturaleza
+## Unidad 4 C1: relative clauses, hedging y naturaleza
 
 Describir el mundo natural en inglés C1 exige algo más que conocer nombres de animales, paisajes o procesos ecológicos. Hay que conectar ideas con precisión y, al mismo tiempo, distinguir entre un hecho observado, una interpretación probable y una conclusión todavía provisional. La Unidad 4 trabaja esas dos capacidades mediante **relative clauses avanzadas** y **hedging language**.
 

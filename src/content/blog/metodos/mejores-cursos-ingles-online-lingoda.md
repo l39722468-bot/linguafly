@@ -29,7 +29,7 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-lingoda'
 ---
 
-# Lingoda 2026: grupos en vivo y exámenes
+## Lingoda 2026: grupos en vivo y exámenes
 
 **Lingoda** se posiciona como **escuela online** con **clases grupales** y profesores en tiempo real. En el mapa de **mejores cursos de inglés online**, ocupa el espacio intermedio entre **apps baratas** y **tutorías premium** —interesante si necesitas **ritmo** y **speaking** antes de un examen.
 

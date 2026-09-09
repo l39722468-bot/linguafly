@@ -243,7 +243,7 @@ Antes de avanzar, comprueba:
 
 ---
 
-# Parte II — Ejercicios
+## Parte II — Ejercicios
 
 Este artículo incluye también los **ejercicios de la Unidad 41** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 

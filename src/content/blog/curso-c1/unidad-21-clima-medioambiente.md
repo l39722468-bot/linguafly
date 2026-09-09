@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre condicionales mixtos, inversión condicional y hedging aplicados al clima y el medio ambiente, con vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 21 C1: condicionales avanzados, hedging, clima y medio ambiente
+## Unidad 21 C1: condicionales avanzados, hedging, clima y medio ambiente
 
 El discurso climático se mueve constantemente entre dos polos: lo que **habría pasado** si hubiéramos actuado y lo que **podría pasar** si no lo hacemos. Para manejar esa tensión, el inglés C1 recurre a los **condicionales avanzados** —mixtos e invertidos— y al **hedging**, la técnica de matizar la certeza cuando la evidencia es probabilística. Comparemos tres versiones:
 

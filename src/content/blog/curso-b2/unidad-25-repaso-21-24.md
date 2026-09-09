@@ -364,7 +364,7 @@ Con el bloque 21–24 consolidado, el curso B2 sigue con más **phrasal verbs** 
 
 ---
 
-# Parte II — Ejercicios
+## Parte II — Ejercicios
 
 Este artículo incluye también los **ejercicios de la Unidad 25** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 

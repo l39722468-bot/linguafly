@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre el argumento institucional y la formalidad aplicados al patrimonio y la preservación, con voz pasiva, nominalización, hedges, vocabulario y ejercicios resueltos.
 ---
 
-# Unidad 30 C1: argumento institucional y formalidad, patrimonio y preservación
+## Unidad 30 C1: argumento institucional y formalidad, patrimonio y preservación
 
 El discurso institucional es la voz de los organismos: UNESCO, ICOMOS, ministerios de cultura, fundaciones y comités de patrimonio. Cuando estos actores hablan, no lo hacen en primera persona ni con improvisación coloquial: emplean un **registro formal** marcado por la **voz pasiva**, la **nominalización**, los **hedges** y los **verbos de postura institucional**. Comparemos tres versiones sobre el mismo hecho:
 

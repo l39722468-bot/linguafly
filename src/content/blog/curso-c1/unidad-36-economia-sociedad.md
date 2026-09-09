@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre la opinión matizada y la macroeconomía ligera aplicadas a la economía y la sociedad, con estructuras evaluativas, adverbios de postura, vocabulario y ejercicios resueltos.
 ---
 
-# Unidad 36 C1: opinión y macroeconomía ligera, economía y sociedad
+## Unidad 36 C1: opinión y macroeconomía ligera, economía y sociedad
 
 Escribir sobre economía es, casi siempre, escribir sobre opinión: lo que *se argumenta*, lo que *es discutible*, lo que *presumiblemente* ocurrirá. El inglés C1 distingue estos matices con un repertorio de **estructuras evaluativas** y **adverbios de postura** que ningún otro nivel maneja con la misma precisión. Comparemos tres versiones sobre el mismo hecho:
 

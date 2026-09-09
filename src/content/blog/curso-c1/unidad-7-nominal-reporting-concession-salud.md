@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre nominal clauses, reporting verbs y concesión con vocabulario de salud mental, investigación y ejercicios resueltos.
 ---
 
-# Unidad 7 C1: nominal clauses, reporting verbs y concesión
+## Unidad 7 C1: nominal clauses, reporting verbs y concesión
 
 La Unidad 7 C1 enseña a construir argumentos complejos sobre **health and mind**. En un artículo científico o en una conversación académica no siempre basta con decir *stress affects sleep*. Necesitamos convertir una idea completa en el sujeto o complemento de otra oración, atribuirla a una fuente concreta y reconocer que una conclusión puede mantenerse aunque exista una dificultad. Para eso usamos **nominal clauses**, **reporting verbs** y estructuras de **concession**.
 

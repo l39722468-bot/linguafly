@@ -46,7 +46,7 @@ excerpt: >-
   vocabulario de longevidad y healthspan, más 19 ejercicios inglés C1 gratis.
 ---
 
-# Unidad 40 — Longevidad y envejecimiento: tono respetuoso y datos
+## Unidad 40 — Longevidad y envejecimiento: tono respetuoso y datos
 
 Hablar del envejecimiento en inglés C1 es un ejercicio de respeto lingüístico tanto como de precisión factual. El campo combina datos demográficos que hay que presentar con rigor y un tema humano que exige un tono libre de condescendencia y ageism. En esta unidad del [curso de inglés C1 gratis](/blog/metodos/ingles-c1) vas a dominar el vocabulario de la longevidad y el envejecimiento, las estructuras para presentar datos demográficos con precisión y los recursos para hablar de las personas mayores con un tono respetuoso que reconozca su agencia y su diversidad, con diecinueve ejercicios inglés C1 gratis con soluciones.
 

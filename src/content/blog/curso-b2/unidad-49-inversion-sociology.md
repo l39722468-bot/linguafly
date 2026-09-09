@@ -372,7 +372,7 @@ En la [Unidad 49 del curso B2](/curso-b2/unit-49).
 
 ---
 
-# Parte II — Ejercicios
+## Parte II — Ejercicios
 
 Este artículo incluye también los **ejercicios de la Unidad 49** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 

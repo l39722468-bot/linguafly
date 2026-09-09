@@ -275,7 +275,7 @@ En un repaso mezclado, identifica primero **el bloque** al que pertenece cada fr
 
 ---
 
-# Parte II — Ejercicios
+## Parte II — Ejercicios
 
 Este artículo incluye también los **ejercicios de la Unidad 20** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 

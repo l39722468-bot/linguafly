@@ -381,7 +381,7 @@ Para enfatizar un elemento de la oración:
 
 ---
 
-# Simulacro de Examen — Use of English
+## Simulacro de Examen — Use of English
 
 ## Part 1: Multiple-choice cloze (5 ejercicios)
 
@@ -474,7 +474,7 @@ Para enfatizar un elemento de la oración:
 
 ---
 
-# Simulacro de Examen — Reading
+## Simulacro de Examen — Reading
 
 ## Text 1: Multiple choice (5 ejercicios)
 
@@ -581,7 +581,7 @@ H. Expressing regret
 
 ---
 
-# Simulacro de Examen — Writing
+## Simulacro de Examen — Writing
 
 ## Task 1: Essay (220–260 words)
 
@@ -632,7 +632,7 @@ H. Expressing regret
 
 ---
 
-# Simulacro de Examen — Speaking
+## Simulacro de Examen — Speaking
 
 ## Part 1: Interview (2 minutes)
 

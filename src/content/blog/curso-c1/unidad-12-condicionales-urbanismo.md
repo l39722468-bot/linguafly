@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre mixed conditionals en contextos de vida urbana y arquitectura, con vocabulario y ejercicios resueltos.
 ---
 
-# Unidad 12 C1: mixed conditionals, ciudad y arquitectura
+## Unidad 12 C1: mixed conditionals, ciudad y arquitectura
 
 Las ciudades son el resultado visible de decisiones tomadas durante décadas. Una línea de metro que no se construyó, una zona verde que fue protegida o una política de vivienda que se retrasó pueden explicar la situación actual. Para expresar esas relaciones entre decisiones pasadas y consecuencias presentes, el inglés utiliza los **mixed conditionals**.
 

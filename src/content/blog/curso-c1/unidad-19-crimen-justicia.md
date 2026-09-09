@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre distancing y modales de deducción en pasado aplicados al crimen y la justicia, con vocabulario legal, teoría y ejercicios resueltos.
 ---
 
-# Unidad 19 C1: distancing, modales de deducción, crimen y justicia
+## Unidad 19 C1: distancing, modales de deducción, crimen y justicia
 
 Escribir sobre un juicio exige una precaución particular: la diferencia entre afirmar un hecho y atribuirlo a alguien puede ser, literalmente, la diferencia entre una denuncia y una demanda por difamación. El periodismo judicial y el discurso legal en inglés manejan esa frontera con dos recursos precisos: el **distancing**, que separa al hablante de la afirmación, y los **modales de deducción**, que gradúan la certeza sobre lo ocurrido. Comparemos tres versiones:
 

@@ -46,7 +46,7 @@ excerpt: >-
   registro humano y el normativo, con 19 ejercicios inglés C1 gratis.
 ---
 
-# Unidad 44 — Migración y desplazamiento: narrativas y políticas
+## Unidad 44 — Migración y desplazamiento: narrativas y políticas
 
 Hablar de migración en inglés C1 es moverse entre dos registros que a veces se contradicen: el de la narrativa humana —la experiencia concreta de quien se desplaza— y el de la política migratoria —el marco normativo y técnico que gobierna esos movimientos. La competencia en este nivel exige dominar ambos y saber combinarlos sin que el uno anule al otro, evitando a la vez el sensacionalismo emocional y la abstracción deshumanizadora. En esta unidad del [curso de inglés C1 gratis](/blog/metodos/ingles-c1) vas a aprender a construir narrativas de migración, a manejar el léxico de las políticas migratorias y a sostener un tono que respete la complejidad del fenómeno, con diecinueve ejercicios inglés C1 gratis con soluciones.
 

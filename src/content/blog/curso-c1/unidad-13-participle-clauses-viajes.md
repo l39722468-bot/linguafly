@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre participle clauses y reduced clauses con vocabulario de viajes e intercambio cultural, teoría y ejercicios resueltos.
 ---
 
-# Unidad 13 C1: participle clauses, viajes e intercambio cultural
+## Unidad 13 C1: participle clauses, viajes e intercambio cultural
 
 Las **participle clauses** permiten construir frases más compactas sin perder relaciones de tiempo, causa o contraste. En vez de escribir dos oraciones completas, podemos conectar sus ideas mediante un participio:
 

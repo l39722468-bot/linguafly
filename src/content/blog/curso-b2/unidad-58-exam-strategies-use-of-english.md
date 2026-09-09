@@ -48,7 +48,7 @@ excerpt: >-
   Unidad 58 B2: estrategias y técnicas para el Use of English del Cambridge B2 First: cloze, open cloze, word formation y key word transformations. Teoría y ejercicios con soluciones.
 ---
 
-# Unidad 58 — Estrategias de Examen: Use of English (Teoría y Ejercicios)
+## Unidad 58 — Estrategias de Examen: Use of English (Teoría y Ejercicios)
 
 La **Unidad 58** prepara para el **Use of English** del examen **Cambridge B2 First**. Cada parte del Use of English exige una estrategia diferente: reconocer collocations en el cloze, recuperar palabras gramaticales en el open cloze, transformar prefijos y sufijos en el word formation, y reconstruir cadenas gramaticales en las key word transformations.
 

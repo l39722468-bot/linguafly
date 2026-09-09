@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre el registro de reseña y la oralidad en teatro y performance, con inversión negativa, énfasis con do/does, vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 27 C1: registro de reseña y oralidad, teatro y performance
+## Unidad 27 C1: registro de reseña y oralidad, teatro y performance
 
 La reseña teatral comparte con la crítica de cine y de arte la vocación evaluativa, pero añade una dimensión propia: la **oralidad**. El teatro ocurre en vivo, ante un público, y la crítica valora no solo el texto sino la **performance** —cómo un actor habita un papel, cómo una puesta en escena ocupa el espacio, cómo el ritmo de un monólogo sostiene o pierde la atención. Para escribir sobre ello en inglés C1, dos recursos gramaticales resultan especialmente potentes: la **inversión negativa**, que da énfasis dramático a una valoración (*Never have I seen such a raw performance*), y el **énfasis con *do/does/did***, que refuerza una afirmación para destacar una cualidad (*The lead actor does command the stage*). Comparemos tres versiones:
 

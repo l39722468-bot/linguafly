@@ -412,7 +412,7 @@ Sí. Cada bloque incluye una clave completa en «Ver solución» y las tareas de
 
 ---
 
-# Parte II — Ejercicios
+## Parte II — Ejercicios
 
 Este artículo incluye también los **ejercicios de la Unidad 33** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 

@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre mixed conditionals en contextos de ciencia y tecnología, con teoría, vocabulario y ejercicios resueltos.
 ---
 
-# Unidad 3 C1: condicionales mixtos, ciencia y tecnología
+## Unidad 3 C1: condicionales mixtos, ciencia y tecnología
 
 Los **mixed conditionals** permiten explicar relaciones complejas entre tiempo, causa y consecuencia. Una decisión pasada puede determinar la situación actual: *If she had accepted the research grant, she would be leading a laboratory now*. También puede ocurrir lo contrario: una condición irreal del presente puede explicar un resultado que habría ocurrido en el pasado: *If the ethics review were stricter, fewer questionable papers would have been published last year*.
 

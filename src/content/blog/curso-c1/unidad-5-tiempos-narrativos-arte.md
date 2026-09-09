@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre narrative tenses y nominalisation con vocabulario de arte y cultura, teoría y ejercicios resueltos.
 ---
 
-# Unidad 5 C1: tiempos narrativos y nominalisation
+## Unidad 5 C1: tiempos narrativos y nominalisation
 
 Contar una historia en inglés C1 no consiste únicamente en poner todos los verbos en pasado. El hablante debe mostrar qué acción estaba en progreso, cuál ocurrió antes, qué evento interrumpió a otro y qué resultado se mantiene dentro de la narración. La Unidad 5 reúne los **narrative tenses** y la **nominalisation** en el contexto de arte y cultura.
 

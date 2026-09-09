@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre informes de negocios y comparativos avanzados aplicados a tendencias de mercado, con vocabulario, teoría y ejercicios resueltos.
 ---
 
-# Unidad 32 C1: informes y comparativos, negocios y tendencias
+## Unidad 32 C1: informes y comparativos, negocios y tendencias
 
 El informe de negocios es el género donde los datos se vuelven argumento: una serie de cifras se transforma en una conclusión accionable porque el texto las compara, las matiza y las encadena. Para hacerlo con precisión, el inglés C1 refina los **comparativos** (con modificadores y la estructura *the more... the more...*) y despliega el **registro formal del informe**. Comparemos tres versiones sobre el mismo dato:
 

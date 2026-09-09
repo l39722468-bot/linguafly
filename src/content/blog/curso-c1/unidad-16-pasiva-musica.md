@@ -44,7 +44,7 @@ excerpt: >-
   Guía C1 sobre voz pasiva avanzada, reporting verbs y causativas con vocabulario de música y artes escénicas, teoría y ejercicios resueltos.
 ---
 
-# Unidad 16 C1: pasiva avanzada, música y performance
+## Unidad 16 C1: pasiva avanzada, música y performance
 
 La voz pasiva permite cambiar el foco de una oración. En vez de centrar la atención en la persona que realiza una acción, podemos destacar la obra, el instrumento, el escenario o el resultado. En música y artes escénicas esta elección aparece constantemente:
 

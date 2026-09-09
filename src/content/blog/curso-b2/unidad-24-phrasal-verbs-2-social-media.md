@@ -354,7 +354,7 @@ Siguiente: **Unidad 25 — Repaso 21–24** (linkers + phrasals 1–2).
 
 ---
 
-# Parte II — Ejercicios
+## Parte II — Ejercicios
 
 Este artículo incluye también los **ejercicios de la Unidad 24** con soluciones comentadas. Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicación.
 
