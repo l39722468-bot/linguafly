@@ -4,6 +4,7 @@
  */
 
 import { getArticleCanonicalPath } from "@/lib/seo/article-paths";
+import { getParkedPageRedirect } from "@/lib/site-catalog";
 
 export function normalizeCategory(category: string): string {
   return category
@@ -39,15 +40,37 @@ export function getTheoryWorkbookPeerSlug(slug: string): string | null {
   return `${slug}-ejercicios-soluciones`;
 }
 
-export function getCanonicalTopicPath(keywordOrSlug: string): string {
+export function getCanonicalTopicPath(
+  keywordOrSlug: string,
+  fallbackCategory?: string | null,
+): string {
   const slug = slugify(keywordOrSlug);
-  return getArticleCanonicalPath(slug) || `/blog/temas/${slug}`;
+  const article = slug ? getArticleCanonicalPath(slug) : null;
+  if (article) return article;
+  if (fallbackCategory) return `/blog/${normalizeCategory(fallbackCategory)}`;
+  return "/blog";
 }
 
-export function resolveTopicHref(href: string): string {
-  const match = href.match(/^\/blog\/temas\/([^?#]+)(\?[^#]*)?(#.*)?$/);
-  if (!match) return href;
+/** Rewrite parked in-article links so crawlers hit a 200, not a 301. */
+export function resolveTopicHref(href: string, fallbackCategory?: string | null): string {
+  if (!href || !href.startsWith("/")) return href;
 
-  const [, keywordOrSlug, search = "", hash = ""] = match;
-  return `${getCanonicalTopicPath(keywordOrSlug)}${search}${hash}`;
+  const match = href.match(/^([^?#]+)(\?[^#]*)?(#.*)?$/);
+  if (!match) return href;
+  const [, rawPath, search = "", hash = ""] = match;
+  const path = rawPath.length > 1 && rawPath.endsWith("/") ? rawPath.slice(0, -1) : rawPath;
+
+  if (path === "/aprender-ingles") {
+    return `/idiomas${search}${hash}`;
+  }
+
+  const temaMatch = path.match(/^\/blog\/temas\/([^/]+)$/);
+  if (temaMatch) {
+    return `${getCanonicalTopicPath(temaMatch[1], fallbackCategory)}${search}${hash}`;
+  }
+
+  const parked = getParkedPageRedirect(path);
+  if (parked) return `${parked}${search}${hash}`;
+
+  return href;
 }
