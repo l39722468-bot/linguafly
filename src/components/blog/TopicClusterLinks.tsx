@@ -2,15 +2,23 @@ import Link from "next/link";
 import Image from "next/image";
 import type { BlogPost } from "@/lib/blog";
 import { getCanonicalTopicPath } from "@/lib/blog-paths";
+import { getArticleHubLink } from "@/lib/seo/article-hub-link";
 import { Layers, ArrowRight, Bookmark, LayoutGrid } from "lucide-react";
 
 interface TopicClusterLinksProps {
   articles: BlogPost[];
   mainKeyword?: string;
+  category?: string;
 }
 
-export function TopicClusterLinks({ articles, mainKeyword }: TopicClusterLinksProps) {
+export function TopicClusterLinks({ articles, mainKeyword, category }: TopicClusterLinksProps) {
   if (!articles || articles.length === 0) return null;
+
+  const hub = getArticleHubLink(category);
+  const moreHref = mainKeyword
+    ? getCanonicalTopicPath(mainKeyword, category)
+    : null;
+  const showKeywordCta = Boolean(moreHref && moreHref !== hub.href && moreHref !== hub.indexHref);
 
   return (
     <div className="my-16 border-y border-slate-100 py-16">
@@ -30,11 +38,11 @@ export function TopicClusterLinks({ articles, mainKeyword }: TopicClusterLinksPr
         </div>
         
         <Link 
-          href="/aprender-ingles"
+          href={hub.indexHref}
           className="inline-flex items-center gap-2 px-6 py-3 bg-slate-900 text-white rounded-xl font-bold text-sm hover:bg-slate-800 transition-all shadow-md group"
         >
           <LayoutGrid className="w-4 h-4 text-coral-400" />
-          <span>Hub Maestro: Aprender Inglés</span>
+          <span>{hub.indexLabel}</span>
           <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
         </Link>
       </div>
@@ -80,14 +88,14 @@ export function TopicClusterLinks({ articles, mainKeyword }: TopicClusterLinksPr
         ))}
       </div>
       
-      {mainKeyword && (
+      {showKeywordCta && moreHref && (
         <div className="mt-12 p-8 bg-indigo-50/50 rounded-3xl border border-indigo-100 flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="text-center md:text-left">
             <p className="text-indigo-900 font-bold text-lg mb-1">¿Quieres saber todo sobre {mainKeyword}?</p>
             <p className="text-indigo-600/80 text-sm">Explora nuestra biblioteca completa de recursos especializados.</p>
           </div>
           <Link 
-            href={getCanonicalTopicPath(mainKeyword)}
+            href={moreHref}
             className="inline-flex items-center gap-2 bg-white text-indigo-600 px-8 py-3 rounded-xl font-bold text-sm border-2 border-indigo-100 hover:border-indigo-600 transition-all shadow-sm"
           >
             <span>Ver todo sobre {mainKeyword}</span>

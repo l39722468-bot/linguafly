@@ -220,7 +220,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
       if (typeof href === "string" && (href.startsWith("/") || href.startsWith("#"))) {
         const resolvedHref = href.startsWith("/")
-          ? resolveTopicHref(href)
+          ? resolveTopicHref(href, normalizedCategory)
           : href;
 
         return <Link href={resolvedHref} className={className} {...props} />;
@@ -456,15 +456,17 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       </div>
                     )}
 
-                    {isPublicArticleCategory(normalizedCategory) ? null : (
                     <div className="print-hidden">
                       <SEOInterlinking category={normalizedCategory} />
                     </div>
-                    )}
                     
                     {/* Dynamic Topic Cluster */}
                     <div className="print-hidden">
-                      <TopicClusterLinks articles={clusterArticles} mainKeyword={mainKeyword} />
+                      <TopicClusterLinks
+                        articles={clusterArticles}
+                        mainKeyword={mainKeyword}
+                        category={normalizedCategory}
+                      />
                     </div>
 
                     {/* Author Bio Section (EEAT) */}
@@ -530,7 +532,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       {article.keywords?.filter(Boolean).map((keyword, i) => (
                         <Link 
                           key={i} 
-                          href={getCanonicalTopicPath(keyword)}
+                          href={getCanonicalTopicPath(keyword, normalizedCategory)}
                           className="px-3 py-1 bg-white border border-slate-200 rounded-lg text-xs font-medium text-slate-600 hover:border-coral-300 hover:text-coral-600 transition-all hover:shadow-sm"
                         >
                           #{keyword?.toString().replace(/\s+/g, '')}
