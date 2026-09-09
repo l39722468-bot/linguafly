@@ -54,6 +54,13 @@ describe("canonical URLs", () => {
     );
   });
 
+  it("always emits apex canonicals even if SITE_URL is www", () => {
+    process.env.NEXT_PUBLIC_SITE_URL = "https://www.linguafly.app";
+    expect(getCanonicalUrl("/blog/gramatica/have-something-done-ingles")).toBe(
+      "https://linguafly.app/blog/gramatica/have-something-done-ingles",
+    );
+  });
+
   it("normalizes trailing slashes and emits a Link header Google can use", () => {
     expect(normalizeCanonicalPath("/cookies/")).toBe("/cookies");
     expect(canonicalLinkHeaderValue("/privacidad", "utm_medium=email")).toBe(

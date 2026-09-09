@@ -9,4 +9,16 @@ describe('site-brand', () => {
     expect(getAbsoluteUrl('/blog')).toMatch(/\/blog$/);
     expect(getAbsoluteUrl('/blog')).toBe(`${getSiteUrl()}/blog`);
   });
+
+  it('strips www from the public site origin', () => {
+    const previous = process.env.NEXT_PUBLIC_SITE_URL;
+    process.env.NEXT_PUBLIC_SITE_URL = 'https://www.linguafly.app';
+    expect(getSiteUrl()).toBe('https://linguafly.app');
+    expect(getAbsoluteUrl('/idiomas')).toBe('https://linguafly.app/idiomas');
+    if (previous === undefined) {
+      delete process.env.NEXT_PUBLIC_SITE_URL;
+    } else {
+      process.env.NEXT_PUBLIC_SITE_URL = previous;
+    }
+  });
 });

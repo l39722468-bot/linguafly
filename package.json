@@ -5,7 +5,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev -p 5436",
-    "build": "NODE_OPTIONS=--max-old-space-size=6144 next build",
+    "generate:article-canonicals": "node scripts/generate-article-canonical-paths.mjs",
+    "build": "node scripts/generate-article-canonical-paths.mjs && NODE_OPTIONS=--max-old-space-size=6144 next build",
     "build:analyze": "ANALYZE=true next build",
     "build:turbo": "next build --turbopack",
     "preview": "node scripts/cf-build.mjs build preview",

@@ -21,8 +21,6 @@ export default function robots(): MetadataRoute.Robots {
           "/dashboard/",
           "/frases-en-ingles",
           "/vocabulario",
-          "/aprender-ingles",
-          "/blog/temas",
         ],
       },
     ],

@@ -1,7 +1,9 @@
 /**
- * Path helpers for magazine URLs. Kept free of filesystem / generated JSON
- * so Cloudflare Worker pages can import them without embedding article bodies.
+ * Path helpers for magazine URLs. The slug map is a small JSON index (not
+ * article bodies) so Worker pages can 301 /blog/temas/{slug} to the article.
  */
+
+import { getArticleCanonicalPath } from "@/lib/seo/article-paths";
 
 export function normalizeCategory(category: string): string {
   return category
@@ -38,7 +40,8 @@ export function getTheoryWorkbookPeerSlug(slug: string): string | null {
 }
 
 export function getCanonicalTopicPath(keywordOrSlug: string): string {
-  return `/blog/temas/${slugify(keywordOrSlug)}`;
+  const slug = slugify(keywordOrSlug);
+  return getArticleCanonicalPath(slug) || `/blog/temas/${slug}`;
 }
 
 export function resolveTopicHref(href: string): string {

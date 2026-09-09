@@ -37,6 +37,20 @@ describe("site catalog", () => {
     expect(getParkedPageRedirect("/blog/curso-a1/unidad-20-repaso-modulo-2")).toBeNull();
     expect(getParkedPageRedirect("/blog/temas")).toBe("/blog");
     expect(getParkedPageRedirect("/blog/temas/present-perfect")).toBe("/blog");
+    expect(getParkedPageRedirect("/blog/temas/have-something-done-ingles")).toBe(
+      "/blog/gramatica/have-something-done-ingles",
+    );
+    expect(getParkedPageRedirect("/blog/temas/precios-examenes-cambridge")).toBe(
+      "/blog/examenes/precios-examenes-cambridge",
+    );
+    expect(
+      getParkedPageRedirect(
+        "/blog/ejercicios-relacionados",
+        new URLSearchParams("articulo=ielts-speaking-estrategias"),
+      ),
+    ).toBe("/blog/examenes/ielts-speaking-estrategias");
+    expect(getParkedPageRedirect("/aprender-ingles")).toBe("/idiomas");
+    expect(getParkedPageRedirect("/podcasts")).toBe("/blog");
     expect(getParkedPageRedirect("/curso-a1")).toBe("/blog/curso-a1");
     expect(getParkedPageRedirect("/curso-a1/unit-30")).toBe("/blog/curso-a1");
     expect(getParkedPageRedirect("/curso-b2/unit-6")).toBe("/blog/curso-b2");
@@ -60,7 +74,8 @@ describe("robots", () => {
     expect(disallow).not.toContain("/blog/curso-a1");
     expect(disallow).not.toContain("/curso-a1");
     expect(disallow).not.toContain("/curso-b2");
-    expect(disallow).toContain("/blog/temas");
+    expect(disallow).not.toContain("/blog/temas");
+    expect(disallow).not.toContain("/aprender-ingles");
     expect(disallow).toContain("/frases-en-ingles");
     expect(disallow).toContain("/vocabulario");
   });
