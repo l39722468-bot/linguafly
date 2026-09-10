@@ -11,6 +11,10 @@ import {
   getExerciseArticlePath,
   getWorkbookPathForCourseUnit,
 } from "@/lib/seo/article-paths";
+import {
+  htmlPathFromMarkdownTwin,
+  htmlToMarkdownPath,
+} from "@/lib/seo/canonical";
 
 export { getArticleCanonicalPath };
 
@@ -387,6 +391,7 @@ const EXACT_PUBLIC_PATHS = new Set([
   "/sobre-nosotros",
   "/robots.txt",
   "/sitemap.xml",
+  "/llms.txt",
   "/ads.txt",
   "/icon.svg",
   "/favicon.ico",
@@ -421,6 +426,8 @@ const COURSE_LEVEL_BLOG: Record<string, string> = {
 
 export function isPublicSitePath(pathname: string): boolean {
   const path = normalizePathname(pathname);
+  const twin = htmlPathFromMarkdownTwin(path);
+  if (twin) return isPublicSitePath(twin);
   if (EXACT_PUBLIC_PATHS.has(path)) return true;
   return PUBLIC_PREFIXES.some((prefix) => path === prefix || path.startsWith(`${prefix}/`));
 }
@@ -434,6 +441,11 @@ export function getParkedPageRedirect(
   searchParams?: URLSearchParams | null,
 ): string | null {
   const path = normalizePathname(pathname);
+  const twin = htmlPathFromMarkdownTwin(path);
+  if (twin) {
+    const dest = getParkedPageRedirect(twin, searchParams);
+    return dest ? htmlToMarkdownPath(dest) : null;
+  }
   if (isPublicSitePath(path)) return null;
   if (path.startsWith("/api/")) return null;
   if (path.startsWith("/_next")) return null;

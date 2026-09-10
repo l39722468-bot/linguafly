@@ -1,4 +1,5 @@
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
+import { llmMarkdownUrl } from "@/lib/seo/canonical";
 import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import Image from "next/image";
@@ -90,6 +91,11 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
     },
     alternates: {
       canonical: canonicalUrl,
+      types: {
+        "text/markdown": llmMarkdownUrl(
+          `/blog/${normalizeCategory(article.category)}/${slug}`,
+        ),
+      },
     },
   };
 }

@@ -46,10 +46,14 @@ function redirectToCanonical(destUrl: string): NextResponse {
  */
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
-  const isStaticAsset = pathname.includes(".") || pathname.startsWith("/_next/");
-  const isApi = pathname.startsWith("/api/");
+  const isLlmMarkdown = pathname.endsWith(".md");
+  const isLlmsTxt = pathname === "/llms.txt";
   const isGoogleTagGateway =
     pathname === "/gtag" || pathname.startsWith("/gtag/");
+  const isStaticAsset =
+    pathname.startsWith("/_next/") ||
+    (pathname.includes(".") && !isLlmMarkdown && !isLlmsTxt);
+  const isApi = pathname.startsWith("/api/");
 
   if (isGoogleTagGateway) {
     return NextResponse.next({ request });
@@ -83,6 +87,14 @@ export async function middleware(request: NextRequest) {
     if (productRedirect) {
       return redirectToCanonical(getCanonicalUrl(productRedirect));
     }
+  }
+
+  if (isLlmMarkdown) {
+    const url = request.nextUrl.clone();
+    url.pathname = "/api/llm-markdown";
+    url.search = "";
+    url.searchParams.set("path", pathname);
+    return NextResponse.rewrite(url);
   }
 
   const response = NextResponse.next({ request });

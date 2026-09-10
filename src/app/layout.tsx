@@ -7,7 +7,7 @@ import MatomoAnalytics from "@/components/MatomoAnalytics";
 import IubendaConsent from "@/components/IubendaConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
-import { getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
+import { getSiteUrl, SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 import { SITE_DESCRIPTION, SITE_TAGLINE } from "@/lib/site-catalog";
 import { DEFAULT_OG_IMAGE_PATH, ogImageMeta } from "@/lib/seo/og-images";
 
@@ -95,6 +95,7 @@ export default function RootLayout({
             })(window, document, "clarity", "script", "ybyy7k072w");`,
           }}
         />
+        <link rel="describedby" href={getAbsoluteUrl("/llms.txt")} />
         {/* Preconnect críticos: imágenes, fonts, iubenda, gtag */}
         <link rel="preconnect" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />

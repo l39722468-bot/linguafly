@@ -5,8 +5,9 @@ import Link from "next/link";
 import type { Metadata } from "next";
 import { listPublishedArticles } from "@/lib/content/articles";
 import { HOME_ARTICLE_LIMIT } from "@/lib/content/pagination";
-import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
+import { SITE_BRAND_NAME } from "@/lib/site-brand";
 import { ENGLISH_LEARNING_SECTIONS, SITE_DESCRIPTION, SITE_TAGLINE, SITE_VERTICALS } from "@/lib/site-catalog";
+import { llmMarkdownAlternates } from "@/lib/seo/canonical";
 
 export const dynamic = "force-dynamic";
 
@@ -21,9 +22,7 @@ export const metadata: Metadata = {
     "aprender inglés",
     SITE_BRAND_NAME,
   ],
-  alternates: {
-    canonical: getAbsoluteUrl("/"),
-  },
+  alternates: llmMarkdownAlternates("/"),
 };
 
 export default async function HomePage() {

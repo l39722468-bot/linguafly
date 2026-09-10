@@ -67,3 +67,35 @@ export function canonicalAlternates(
     canonical: getCanonicalUrl(pathname, search),
   };
 }
+
+/** HTML path for a markdown twin (`/blog/cat/slug.md` → `/blog/cat/slug`). */
+export function htmlPathFromMarkdownTwin(pathname: string): string | null {
+  const path = normalizeCanonicalPath(pathname);
+  if (path === "/index.md") return "/";
+  if (path.endsWith("/index.md")) {
+    const base = path.slice(0, -"/index.md".length);
+    return base || "/";
+  }
+  if (path.endsWith(".md")) return path.slice(0, -3) || "/";
+  return null;
+}
+
+/** Markdown twin path (`/` → `/index.md`). */
+export function htmlToMarkdownPath(htmlPath: string): string {
+  const path = normalizeCanonicalPath(htmlPath);
+  if (path === "/") return "/index.md";
+  return `${path}.md`;
+}
+
+export function llmMarkdownUrl(htmlPath: string): string {
+  return getAbsoluteUrl(htmlToMarkdownPath(htmlPath));
+}
+
+export function llmMarkdownAlternates(htmlPath: string) {
+  return {
+    canonical: getCanonicalUrl(htmlPath),
+    types: {
+      "text/markdown": llmMarkdownUrl(htmlPath),
+    },
+  };
+}

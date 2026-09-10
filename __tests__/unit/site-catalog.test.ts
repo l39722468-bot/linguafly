@@ -29,6 +29,10 @@ describe("site catalog", () => {
     expect(isPublicSitePath("/api/articles/foo")).toBe(true);
     expect(isPublicSitePath("/sitemaps/0.xml")).toBe(true);
     expect(isPublicSitePath("/sitemap.xml")).toBe(true);
+    expect(isPublicSitePath("/llms.txt")).toBe(true);
+    expect(isPublicSitePath("/index.md")).toBe(true);
+    expect(isPublicSitePath("/idiomas.md")).toBe(true);
+    expect(isPublicSitePath("/blog/idiomas/como-empezar-a-aprender-un-idioma.md")).toBe(true);
   });
 
   it("republishes English-learning article URLs and parks the rest of the old site", () => {
@@ -80,6 +84,11 @@ describe("site catalog", () => {
     expect(getParkedPageRedirect("/fitness")).toBe("/entrenamiento");
     expect(getParkedPageRedirect("/idiomas")).toBeNull();
     expect(getParkedPageRedirect("/blog/entrenamiento/rutina-fuerza-principiantes-casa")).toBeNull();
+    expect(getParkedPageRedirect("/llms.txt")).toBeNull();
+    expect(getParkedPageRedirect("/index.md")).toBeNull();
+    expect(getParkedPageRedirect("/idiomas.md")).toBeNull();
+    expect(getParkedPageRedirect("/aprender-ingles.md")).toBe("/idiomas.md");
+    expect(getParkedPageRedirect("/fitness.md")).toBe("/entrenamiento.md");
   });
 });
 
@@ -97,5 +106,7 @@ describe("robots", () => {
     expect(disallow).toContain("/frases-en-ingles");
     expect(disallow).toContain("/vocabulario");
     expect(disallow).toContain("/gtag");
+    const allow = spec.rules[0].allow ?? [];
+    expect(allow).toContain("/llms.txt");
   });
 });

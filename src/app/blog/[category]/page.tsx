@@ -13,6 +13,7 @@ import { optimizeSEOTitle } from "@/utils/seo-utils";
 import { generateBreadcrumbSchema, generateCollectionPageSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
+import { llmMarkdownUrl } from "@/lib/seo/canonical";
 import { getPublicCategoryLabel, isPublicArticleCategory } from "@/lib/site-catalog";
 import { getArticleOgImagePath, getCategoryOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
 
@@ -169,6 +170,10 @@ export async function generateMetadata({
     ],
     alternates: {
       canonical,
+      types:
+        page > 1
+          ? undefined
+          : { "text/markdown": llmMarkdownUrl(`/blog/${category}`) },
     },
     robots: page > 1 ? { index: false, follow: true } : undefined,
     openGraph: {

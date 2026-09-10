@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
 import { VerticalHub } from "@/components/magazine/VerticalHub";
 import { getVertical } from "@/lib/site-catalog";
-import { SITE_BRAND_NAME } from "@/lib/site-brand";
-import { getAbsoluteUrl } from "@/lib/site-brand";
+import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
+import { llmMarkdownAlternates } from "@/lib/seo/canonical";
 import { parsePageParam } from "@/lib/content/pagination";
 import { getCategoryOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
 
@@ -15,7 +15,7 @@ const og = ogImageMeta(title, getCategoryOgImagePath(vertical.slug));
 export const metadata: Metadata = {
   title,
   description: vertical.description,
-  alternates: { canonical: getAbsoluteUrl(vertical.href) },
+  alternates: llmMarkdownAlternates(vertical.href),
   openGraph: {
     title,
     description: vertical.description,

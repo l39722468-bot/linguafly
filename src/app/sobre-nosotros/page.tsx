@@ -13,6 +13,7 @@ import {
   Users,
 } from "lucide-react";
 import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
+import { llmMarkdownAlternates } from "@/lib/seo/canonical";
 
 export const dynamic = "force-dynamic";
 
@@ -20,9 +21,7 @@ export const metadata: Metadata = {
   title: `Sobre ${SITE_BRAND_NAME} | Revista de idiomas, hábitos e inteligencia artificial`,
   description:
     `Qué es ${SITE_BRAND_NAME}: un proyecto editorial independiente que publica artículos prácticos de idiomas, alimentación, entrenamiento e inteligencia artificial.`,
-  alternates: {
-    canonical: getAbsoluteUrl('/sobre-nosotros'),
-  },
+  alternates: llmMarkdownAlternates("/sobre-nosotros"),
   openGraph: {
     title: `Sobre ${SITE_BRAND_NAME}`,
     description:
