@@ -13,14 +13,12 @@ readTime: 17 min
 alt: Estudiante universitario tomando apuntes en una biblioteca con libros en inglés
 keywords:
   - Inglés Universitario y Académico: Guía Completa
+  - academic english
   - ingles universitario academico
-  - preparar inglés gratis
-  - material de inglés gratis
   - inglés académico para estudiantes universitarios
   - cómo escribir ensayos universitarios en inglés
   - vocabulario inglés para textos académicos
   - expresiones para participar en seminarios en inglés
-  - recursos de inglés académico para hispanohablantes
 faqs:
   - question: ¿Qué nivel de inglés se necesita para estudiar en una universidad anglofona?
     answer: >-

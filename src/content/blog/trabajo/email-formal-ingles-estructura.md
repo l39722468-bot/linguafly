@@ -10,8 +10,12 @@ excerpt: >-
   creíble de uno que suena raro o amateur.
 keywords:
   - Email Formal en Inglés: Estructura y Ejemplos
+  - email format formal
+  - formal email format
+  - formal email layout
+  - formal email structure
+  - formal email: structure
   - como escribir email formal ingles
-  - inglés de negocios gratis
 author: linguafly-team
 date: '2026-02-03'
 updatedDate: '2026-09-04'
@@ -44,7 +48,7 @@ canonical: 'https://linguafly.app/blog/trabajo/email-formal-ingles-estructura'
 
 Hay una diferencia visible entre un email en inglés que suena profesional y uno que no. No siempre es cuestión de vocabulario avanzado: muchas veces es simplemente que la estructura no está bien. El correo no tiene asunto claro, el saludo no corresponde al contexto, o el mensaje termina de golpe sin ninguna fórmula de cierre.
 
-La buena noticia es que la estructura de un email formal en inglés es bastante estable. Una vez que la interiorices, se convierte en un automatismo.
+La buena noticia es que la estructura de un email formal en inglés (*formal email structure*, *format* o *layout*) es bastante estable. Una vez que la interiorices, se convierte en un automatismo.
 
 ## El asunto (Subject Line): tu primera impresión
 

@@ -10,8 +10,9 @@ readTime: 8 min
 alt: 'Profesor de inglés online en pantalla'
 keywords:
   - 'EF English Live 2026: Opiniones y Precios'
+  - ef english
+  - ef english live
   - ef english live opinion
-  - curso inglés gratis online
 faqs:
   - question: '¿EF English Live es mejor para negocios que para exámenes?'
     answer: >-

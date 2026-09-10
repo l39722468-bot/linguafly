@@ -8,9 +8,10 @@ excerpt: >-
   Present Perfect o Past Simple: compara diferencias, marcadores temporales y ejemplos prácticos para dejar de confundirlos en inglés.
 keywords:
   - Present Perfect vs Past Simple: Diferencias y Uso
+  - present perfect or past simple
+  - present perfect v past simple
+  - present perfect versus past simple
   - difference between present perfect and past simple
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - diferencia entre present perfect y past simple con ejemplos
   - present perfect vs past simple ejercicios gratis
   - cuándo usar present perfect o past simple
@@ -35,12 +36,18 @@ faqs:
     answer: >-
       Palabras como ever, never, just, already, yet, so far y since suelen ir
       acompañadas de Present Perfect.
+  - question: Present perfect or past simple — ¿cuál uso?
+    answer: >-
+      Past Simple si el momento está cerrado (yesterday, in 2019, last week).
+      Present Perfect si el tiempo no importa o el resultado sigue ahora
+      (ever, never, just, already, yet, since). En búsquedas verás la misma
+      duda como present perfect versus past simple o present perfect v past simple.
 canonical: 'https://linguafly.app/blog/gramatica/present-perfect-vs-past-simple'
 ---
 
 ## Domina el Present Perfect vs Past Simple (Nivel A1-C1)
 
-Uno de los mayores retos para los estudiantes de inglés es saber cuándo usar el **Present Perfect** y cuándo el **Past Simple**. Como profesor de Cambridge, te aseguro que entender esta distinción es el "puente" que te llevará del nivel intermedio al avanzado.
+Uno de los mayores retos para los estudiantes de inglés es saber cuándo usar el **Present Perfect** y cuándo el **Past Simple** (*present perfect or past simple*, también *versus* o *v*). Como profesor de Cambridge, te aseguro que entender esta distinción es el "puente" que te llevará del nivel intermedio al avanzado.
 
 En esta guía exhaustiva, vamos a ver la **difference between present perfect and past simple** con una profundidad académica superior, incluyendo casos especiales que suelen aparecer en los exámenes oficiales.
 
