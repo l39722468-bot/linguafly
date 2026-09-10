@@ -38,9 +38,11 @@ Si Duolingo es tu única herramienta y el examen está en menos de tres meses, *
 
 Sigue leyendo en el [hub de los 10 mejores cursos de inglés online](/blog/temas/mejores-cursos-de-ingles-online).
 
-### Duolingo English Test: verificación previa obligatoria
+### Duolingo English Test: no va aquí
 
-Si contemplas el **DET** como atajo, descarga la lista de instituciones que lo aceptan y el **score** mínimo. Las políticas cambian; lo que vale para un máster puede no valer para un visado. No construyas tu plan solo con foros: confirma en web oficial de la universidad o consulado.
+El DET es un examen distinto. La guía canónica es
+[/blog/examenes/duolingo-english-test](/blog/examenes/duolingo-english-test).
+No reinyectar esa SERP en esta ficha de “curso vs IELTS”.
 
 ### Cómo romper el bucle de “unidad fácil / unidad imposible”
 

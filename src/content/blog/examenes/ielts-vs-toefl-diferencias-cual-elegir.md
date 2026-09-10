@@ -106,7 +106,7 @@ Lleva una hoja con objetivo (por ejemplo, IELTS 7.0 o TOEFL 100), fecha límite 
 error prioritario. Repite un simulacro diez días antes y verifica la información en
 la institución, porque equivalencias y modalidades pueden cambiar.
 
-*Si aún tienes dudas, consulta la [guía completa de certificaciones de inglés oficiales](/blog/examenes/mejores-certificados-ingles-2026) donde comparamos estos exámenes con Cambridge, Aptis y Duolingo.*
+*Si aún tienes dudas, consulta la [guía de certificaciones de inglés](/blog/examenes/mejores-certificados-ingles-2026). El [Duolingo English Test](/blog/examenes/duolingo-english-test) es otra prueba, no un atajo a IELTS o TOEFL.*
 
 ---
 

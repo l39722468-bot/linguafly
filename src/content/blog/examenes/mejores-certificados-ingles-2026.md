@@ -1,7 +1,7 @@
 ---
 category: examenes
 date: '2026-02-07'
-updatedDate: '2026-09-04'
+updatedDate: '2026-09-10'
 author: linguafly-team
 title: 'Certificados de Inglés 2026: IELTS, TOEFL o Cambridge'
 description: >-
@@ -25,6 +25,7 @@ canonical: 'https://linguafly.app/blog/examenes/mejores-certificados-ingles-2026
 related_routes:
   - cambridge-c1-advanced-guia
   - ielts-vs-toefl-diferencias-cual-elegir
+  - duolingo-english-test
 alt: Estudiante revisando opciones de certificados de inglés oficiales
 faqs:
   - question: '¿Cuál es la diferencia principal entre Cambridge, IELTS y TOEFL en 2026?'
@@ -68,7 +69,7 @@ Siguen dominando el mercado, pero sus formatos han evolucionado drásticamente p
 
 Si necesitas un certificado "para ayer" o tu sector es muy específico, 2026 ofrece soluciones innovadoras:
 
-- **Duolingo English Test (DET):** Ya no es solo una opción "barata". Su precisión y seguridad han hecho que miles de universidades lo acepten. Es la opción más rápida: te examinas en cualquier momento y tienes el resultado en 48 horas.
+- **Duolingo English Test (DET):** Examen a domicilio, resultado en ~48 horas. No es la app. Sirve si la universidad lo lista; casi nunca para oposición o visado UK. Guía: [Duolingo English Test](/blog/examenes/duolingo-english-test).
 - **LanguageCert International ESOL:** Destaca por su flexibilidad extrema. Puedes comprar el examen y programarlo con apenas 4 horas de antelación, cualquier día del año.
 - **OET (Occupational English Test):** Si tu carrera es la salud (medicina, enfermería), este es tu examen. Evalúa tu inglés en escenarios clínicos, no en contextos generales.
 

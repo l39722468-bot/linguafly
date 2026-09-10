@@ -1,146 +1,113 @@
 ---
 title: 'Duolingo 2026: insuficiente para IELTS solo'
 date: '2026-04-15'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-10'
 author: linguafly-team
-excerpt: 'Duolingo: hábito diario y vocabulario vs writing largo y speaking examinado. Límites para certificaciones y combinación sensata con tutor o curso estructurado.'
-description: 'Análisis crítico de Duolingo como curso de inglés online: fortalezas, límites para certificaciones oficiales y cómo combinarlo sin perder tiempo antes del examen.'
+excerpt: >-
+  Duolingo como único curso no prepara IELTS ni Cambridge. Qué sí entrena, qué
+  falla el día del examen y cómo usarlo 15 minutos sin sustituir el simulacro.
+description: >-
+  Duolingo no basta como único curso para IELTS o Cambridge. Qué sí entrena,
+  qué falla el día del examen y cómo usarlo quince minutos al día, no más.
 category: metodos
 readTime: 8 min
 alt: 'App Duolingo en pantalla de móvil'
 keywords:
-  - 'Duolingo: insuficiente para IELTS solo'
-  - duolingo ingles examen
-  - curso inglés gratis online
+  - duolingo para ielts
+  - duolingo cambridge b2
+  - duolingo no basta para examen oficial
+  - preparar examen con duolingo
+related_routes:
+  - duolingo-ingles-review
+  - duolingo-english-test
+  - mejores-cursos-ingles-online-babbel
+  - preparar-ielts-desde-b2
 faqs:
-  - question: '¿Duolingo English Test sustituye a IELTS o TOEFL?'
+  - question: '¿Puedo aprobar IELTS o Cambridge B2 solo con Duolingo?'
     answer: >-
-      Es un examen distinto con aceptación limitada por universidades. No es el estándar global de IELTS/TOEFL. Verifica si tu institución lo acepta antes de apostar por él.
-  - question: '¿Puedo usar solo Duolingo para aprobar Cambridge B2?'
+      Es muy arriesgado. Falta writing largo, speaking impredecible y textos
+      bajo tiempo. Úsalo 15 minutos al día como hábito y añade simulacros del
+      examen real. La app no es un curso de certificación.
+  - question: '¿La app Duolingo y el Duolingo English Test son lo mismo?'
     answer: >-
-      Es muy arriesgado. Falta práctica de writing largo, speaking examinado y textos complejos bajo tiempo. Úsalo como complemento de vocabulario y rutina.
-  - question: '¿Qué sí hace bien Duolingo?'
+      No. El DET es un examen a domicilio con cámara. La app es práctica
+      diaria. Si te piden una nota DET, lee la guía del Duolingo English Test,
+      no esta ficha.
+  - question: '¿Qué sí hace bien Duolingo antes de un examen?'
     answer: >-
-      Constancia diaria, refuerzo léxico básico-intermedio y sensación de progreso. Ideal como capa extra, no como único curso de inglés para metas serias.
+      Constancia, vocabulario básico-intermedio y no perder el contacto con el
+      idioma. Ideal como capa extra. Malo como único plan si la fecha del test
+      está cerca.
 canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-duolingo'
 ---
 
-## Duolingo 2026: insuficiente para IELTS solo
+**Duolingo** (la app) es el rey de la constancia. No es un curso de **IELTS**, **Cambridge** ni **TOEFL**. Si buscas si la app sirve para aprender inglés en general, el sitio es el [review de Duolingo](/blog/metodos/duolingo-ingles-review). Si te han pedido el **Duolingo English Test**, es otro producto: [guía del DET](/blog/examenes/duolingo-english-test).
 
-**Duolingo** es el rey de la **constancia** y la **gamificación**. Aparece en cualquier conversación sobre **mejores cursos de inglés online** porque es accesible y adictivo —pero hay que ser claro: **no es un programa de preparación de examen** al nivel de IELTS o Cambridge si es lo único que usas.
-
----
+Esta ficha responde a una sola pregunta: **¿puedo usar Duolingo como único “curso online” y presentarme a un examen oficial?** Casi nunca.
 
 ## Qué aporta como “curso” de inglés
 
 - Microlecciones y refuerzo de **vocabulario y estructuras**.
-- Rutina diaria fácil de mantener.
-- Algunas funciones de **speaking** muy guiadas (no equivalen al speaking de un examen oficial).
+- Rutina diaria fácil de mantener (10–20 minutos).
+- Speaking muy guiado: no equivale al speaking de un examinador ni al del DET.
 
----
+Encaja como **capa de hábito** mientras preparas el formato real. No encaja como temario.
 
 ## Por qué falla solo ante un examen oficial
 
 Los exámenes exigen:
 
-- **Writing** largo con cohesión y registro formal o semi-formal.
-- **Speaking** con rondas, monólogos y preguntas impredecibles.
+- **Writing** largo con cohesión y registro.
+- **Speaking** con rondas, monólogos y preguntas que no salen en la app.
 - **Reading** y **listening** con textos largos y distractores.
+- Un **cronómetro** de dos o tres horas, no de una lección de cinco minutos.
 
-Duolingo no reproduce esa **carga cognitiva** ni el **cronómetro** de un test real de 2–3 horas.
-
----
-
-## Duolingo English Test (DET)
-
-Es una **prueba distinta** con adopción selectiva por universidades. Si tu objetivo es **IELTS/TOEFL/Cambridge**, no asumas equivalencia: confirma políticas de admisión.
-
----
+Duolingo no reproduce esa carga. Una racha de 200 días no predice un 6.5 de IELTS.
 
 ## Cómo usarlo bien en tu plan
 
-1. Duolingo para **hábito** 10–20 min/día.
-2. **Tutor o escuela** con feedback ([Preply](/blog/metodos/mejores-cursos-ingles-online-preply), [Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda)) para skills de examen, más **guías gratuitas** del [blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) como apoyo teórico.
-3. Material oficial del test que vayas a presentar.
+1. App: **hábito** 10–20 min/día. Tope. Luego cierras.
+2. **Simulacro** del examen que vas a pagar (oficial, no un PDF random).
+3. **Feedback** de writing y speaking: tutor, intercambio o [Preply](/blog/metodos/mejores-cursos-ingles-online-preply) / [Lingoda](/blog/metodos/mejores-cursos-ingles-online-lingoda). El [blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes) cubre teoría; no sustituye la corrección humana.
 
----
+Si el examen es en menos de tres meses y Duolingo es lo único que haces, cambia el plan esta semana. La gamificación no negocia con la fecha.
 
-## Conclusión
+## Gamificación: lo que sí entrena y lo que no
 
-Duolingo puede formar parte de tu ecosistema, pero **no define** un **curso de inglés online** completo para **certificación oficial**. Para eso, mira el [hub de los 10 mejores cursos](/blog/temas/mejores-cursos-de-ingles-online).
+Lo que sí: léxico en contexto, tolerancia al error, exposición diaria, perder el miedo a sonar mal al principio.
 
----
+Lo que no: ensayo con desarrollo, monólogo de dos minutos con coherencia, collocations de registro académico. En hispanohablantes, la app a veces refuerza **traducción literal** y respuestas cortas: en examen penalizan. Contrarresta con un artículo real a la semana y subrayado de combinaciones, no de palabras sueltas.
 
-## Duolingo: gamificación, hábito y por qué el examen oficial es otro deporte
+Según el examen:
 
-Este apartado es deliberadamente distinto a otros análisis de **curso de inglés online**: aquí el foco no es repetir la taxonomía IELTS/Cambridge, sino explicar **qué psicología** usa Duolingo y cómo encajarla sin sabotear una meta seria de certificación.
+- **IELTS**: simulacros oficiales; speaking con alguien que te interrumpa. Empieza por [preparar IELTS desde B2](/blog/examenes/preparar-ielts-desde-b2).
+- **Cambridge**: writing con límite y corrección. La racha no enseña el *report* ni el *essay*.
+- **Solo mejorar inglés**: puedes posponer el título hasta un test MCER independiente.
 
-### Lo que Duolingo sí entrena
+Comparación rápida dentro del mismo hub:
 
-Refuerzo léxico en contexto, tolerancia al error rápido, exposición diaria. Para alguien que arranca desde cero o desde años sin tocar inglés, puede ser el **gancho** que vuelva a poner el idioma en la cabeza. También ayuda a perder el miedo inicial a **sonar mal**.
+- [Babbel](/blog/metodos/mejores-cursos-ingles-online-babbel): más lineal, sigue sin ser curso de examen.
+- [Coursera](/blog/metodos/mejores-cursos-ingles-online-coursera-examenes): más academic English.
+- [Linguafly (blog)](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): guías, no matrícula.
 
-### Lo que no entrena, aunque la racha sea larga
+## Métricas que sí importan (y el XP no)
 
-**Textos largos** bajo presión, **monólogos** de dos minutos con coherencia, **ensayos** con desarrollo y matices. El **Duolingo English Test** existe como producto aparte: no lo confundas con IELTS/TOEFL salvo que tu institución lo acepte expresamente.
+Cuenta **palabras que usas** en un email real, no puntos. Si la racha te quita el bloque de writing, pon la app en un hueco fijo de quince minutos o desinstálala hasta después del test.
 
-### Cómo usar Duolingo sin anclarte al sistema de puntos
+Vocabulario médico, legal o financiero: la app genérica llega tarde. Listas cortas de tu sector, en frases, cada semana.
 
-Fija un tope diario razonable (quince o veinte minutos) y destina otro bloque semanal a **producción libre** sin interfaz de app: escribe 200 palabras sobre un tema laboral y léelo en voz alta. Si solo haces racha, acumulas dopamina, no necesariamente banda IELTS.
+Cuando una unidad se atasca, no machaques el mismo item: input paralelo (lectura, podcast) y vuelta a las 48 horas.
 
-### El efecto “traducción” en hispanohablantes
+## Errores típicos el mes del examen
 
-Duolingo a veces refuerza **equivalencias literales** que en examen penalizan: respuestas demasiado cortas, registro inadecuado, falta de conectores. Contrarresta leyendo **un artículo** a la semana en inglés y subrayando **collocations**, no palabras sueltas.
+**Usar dos apps que hacen lo mismo.** Si ya estás en Duolingo, añadir Babbel “por si acaso” no cubre writing. Añade simulacro y alguien que te oiga hablar.
 
-### Qué combinar según tu examen
+**Maratón del domingo.** Tres horas de lecciones no sustituyen quince minutos diarios más un ensayo el jueves.
 
-- **IELTS**: añade simulacros oficiales parciales; speaking con tutor.
-- **Cambridge**: añade writing con límite y revisión humana.
-- **Solo mejora general**: puedes posponer examen hasta que un test MCER independiente te sitúe en el rango.
+**Premium como sustituto de speaking.** Pregunta honesta: ¿cuántas veces has hablado inglés esta semana fuera de la app? Si la respuesta es cero, Super no arregla el hueco.
 
-### Comparación rápida
+**Misma cuenta que un menor.** El algoritmo mezcla objetivos. Perfil adulto, o tiempos separados.
 
-- [Babbel](/blog/metodos/mejores-cursos-ingles-online-babbel): más trayectoria pedagógica lineal.
-- [Coursera](/blog/metodos/mejores-cursos-ingles-online-coursera-examenes): más academic English estructurado.
-- [Blog Linguafly](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): artículos y hubs para preparar exámenes sin confundir editorial con un curso de pago.
+**Confundir DET y app.** Si te piden una nota de test, no “subas de liga”. Ve a la [guía del Duolingo English Test](/blog/examenes/duolingo-english-test).
 
-### Regla final
-
-Si Duolingo es tu única herramienta y el examen está en menos de tres meses, **añade ya** capa de examen o cambia de estrategia. La gamificación no negocia con la fecha del test.
-
-Sigue leyendo en el [hub de los 10 mejores cursos de inglés online](/blog/temas/mejores-cursos-de-ingles-online).
-
-### Duolingo English Test: verificación previa obligatoria
-
-Si contemplas el **DET** como atajo, descarga la lista de instituciones que lo aceptan y el **score** mínimo. Las políticas cambian; lo que vale para un máster puede no valer para un visado. No construyas tu plan solo con foros: confirma en web oficial de la universidad o consulado.
-
-### Cómo romper el bucle de “unidad fácil / unidad imposible”
-
-Cuando una unidad se atasca, no repitas intentos mecánicos: sal a **input** paralelo (lectura graduada, podcast con transcripción) y vuelve en 48 horas. El aprendizaje profundo necesita descanso y variedad, no solo repetición inmediata.
-
-### Métricas sanas
-
-Mide **palabras activadas en producción** (las usas en un email real) en lugar de solo XP. La segunda métrica predice examen; la primera, adicción a la app.
-
-### Familias y cuentas compartidas
-
-Si un menor usa la misma cuenta, los objetivos se mezclan. Para preparación adulta de examen, separa perfiles o tiempos; si no, el algoritmo te devolverá ejercicios irrelevantes para tu banda objetivo.
-
-### Cuando desinstalar temporalmente tiene sentido
-
-Si la racha te quita sueño o te roba tiempo al bloque profundo de writing, **desactiva notificaciones** y programa Duolingo en un hueco fijo de quince minutos, no como sustituto de estudio serio.
-
-### De la app al papel
-
-Los exámenes siguen siendo en gran medida **papel o teclado** con hojas de respuesta. Entrena una vez al mes **a mano** si tu modalidad lo requiere: la fatiga muscular es real en writing de dos horas.
-
-### Vocabulario técnico y Duolingo
-
-Si tu examen o trabajo exige léxico médico, legal o financiero, la app genérica llega tarde. Construye **mini-listas** de 20 ítems por semana desde fuentes oficiales de tu sector y úsalas en frases, no en aislamiento.
-
-### Pregunta honesta antes de renovar premium
-
-¿Cuántas veces esta semana has **hablado** inglés fuera de la app? Si la respuesta es cero, el premium no arregla el vacío de producción oral.
-
-### Integración con hoja de seguimiento
-
-Anota **tres errores** que Duolingo te muestra con frecuencia y busca una sola guía del blog que los cubra. Cierra el círculo en una tarde, no en diez minutos dispersos.
+Sigue el mapa del [hub de cursos online](/blog/temas/mejores-cursos-de-ingles-online).

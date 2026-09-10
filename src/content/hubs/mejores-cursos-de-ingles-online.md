@@ -34,7 +34,7 @@ Cada enlace lleva a una **guía específica** con precios orientativos, perfiles
 4. [Preply: clases con tutores para preparar IELTS, Cambridge u otros exámenes](/blog/metodos/mejores-cursos-ingles-online-preply)
 5. [ABA English: método británico, certificados propios y ruta hacia certificaciones](/blog/metodos/mejores-cursos-ingles-online-aba-english)
 6. [Coursera y MOOCs: cursos universitarios para IELTS y academic English](/blog/metodos/mejores-cursos-ingles-online-coursera-examenes)
-7. [Duolingo: qué aporta y por qué no basta como único curso de inglés para un examen oficial](/blog/metodos/mejores-cursos-ingles-online-duolingo)
+7. [Duolingo: qué aporta y por qué no basta como único curso de inglés para un examen oficial](/blog/metodos/mejores-cursos-ingles-online-duolingo) — el [Duolingo English Test](/blog/examenes/duolingo-english-test) es un examen distinto, no la app.
 8. [Lingoda: grupos pequeños en vivo y estructura por niveles MCER](/blog/metodos/mejores-cursos-ingles-online-lingoda)
 9. [EF English Live: escuela online 24/7 y enfoque general / negocios](/blog/metodos/mejores-cursos-ingles-online-ef-english-live)
 10. [Open English: inglés para hispanohablantes, conversación y mercado LATAM](/blog/metodos/mejores-cursos-ingles-online-open-english)

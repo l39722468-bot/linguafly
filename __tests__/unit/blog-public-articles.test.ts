@@ -38,8 +38,7 @@ describe("public magazine and English-learning articles", () => {
     expect(
       publicArticles.some(
         (article) =>
-          article.slug === "prompt-de-imagen-una-escena-concreta" &&
-          article.category === "inteligencia-artificial",
+          article.slug === "duolingo-english-test" && article.category === "examenes",
       ),
     ).toBe(true);
     expect(publicArticles.some((article) => article.category === "fitness")).toBe(false);
