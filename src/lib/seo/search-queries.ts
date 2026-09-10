@@ -147,3 +147,28 @@ export function uniqueSearchQueries(
 
   return out.slice(0, limit);
 }
+
+/**
+ * Frases que deben quedar en el HTML visible.
+ * Primero todas las keywords del artículo (Google ignora meta keywords);
+ * después variantes de búsqueda (or/versus, inglés sin tilde).
+ */
+export function visibleSearchPhrases(
+  input: { title?: string; keywords?: string[] },
+  limit = 24,
+): string[] {
+  const seen = new Set<string>();
+  const out: string[] = [];
+
+  for (const keyword of input.keywords || []) {
+    pushUnique(out, seen, String(keyword));
+  }
+  for (const extra of uniqueSearchQueries(input, limit)) {
+    pushUnique(out, seen, extra);
+  }
+
+  const keywordCount = (input.keywords || []).filter(
+    (item) => item && !isGenericSeoKeyword(String(item)),
+  ).length;
+  return out.slice(0, Math.max(limit, keywordCount));
+}

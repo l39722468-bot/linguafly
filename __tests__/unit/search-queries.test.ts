@@ -1,4 +1,4 @@
-import { uniqueSearchQueries } from "@/lib/seo/search-queries";
+import { uniqueSearchQueries, visibleSearchPhrases } from "@/lib/seo/search-queries";
 
 describe("uniqueSearchQueries", () => {
   it("adds or / versus / v variants for comparison titles", () => {
@@ -54,5 +54,29 @@ describe("uniqueSearchQueries", () => {
     expect(queries).toEqual(
       expect.arrayContaining(["when and while", "when while", "when and while exercises"]),
     );
+  });
+
+  it("visibleSearchPhrases keeps every article keyword on the page", () => {
+    const keywords = [
+      "The Weather A2: Vocabulario, Pronóstico y Predicciones",
+      "sunny rainy cloudy",
+      "it's going to rain",
+      "inglés A2 unidad 44",
+      "weather forecast English",
+      "temperature Celsius",
+      "what's the weather like",
+      "sunny cloudy windy",
+      "weather forecast English A2",
+      "ejercicios de inglés gratis",
+    ];
+    const phrases = visibleSearchPhrases({
+      title: "The Weather A2: Vocabulario, Pronóstico y Predicciones",
+      keywords,
+    });
+    const lowered = phrases.map((item) => item.toLowerCase());
+    expect(lowered).toContain("what's the weather like");
+    expect(lowered).toContain("weather forecast english a2");
+    expect(lowered).toContain("the weather a2: vocabulario, pronóstico y predicciones");
+    expect(lowered).not.toContain("ejercicios de inglés gratis");
   });
 });

@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { getCanonicalTopicPath, getArticlePath } from "@/lib/blog-paths";
-import { uniqueSearchQueries } from "@/lib/seo/search-queries";
+import { visibleSearchPhrases } from "@/lib/seo/search-queries";
 
 export function RelatedSearches({
   title,
@@ -13,7 +13,7 @@ export function RelatedSearches({
   category: string;
   slug: string;
 }) {
-  const queries = uniqueSearchQueries({ title, keywords }, 14);
+  const queries = visibleSearchPhrases({ title, keywords }, 24);
   if (queries.length === 0) return null;
 
   const currentPath = getArticlePath({ category, slug });

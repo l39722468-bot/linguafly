@@ -27,7 +27,7 @@ import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import { articleDatesDiffer, formatArticleDate } from "@/lib/seo/article-dates";
 import { getArticleOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
-import { uniqueSearchQueries } from "@/lib/seo/search-queries";
+import { visibleSearchPhrases } from "@/lib/seo/search-queries";
 import { RelatedSearches } from "@/components/blog/RelatedSearches";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -61,10 +61,10 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   // Title y description salen del frontmatter (description = meta; excerpt = tarjetas).
   const seoTitle = optimizeSEOTitle(article.title);
   const metaDescription = article.description || article.excerpt;
-  const searchQueries = uniqueSearchQueries({
+  const searchQueries = visibleSearchPhrases({
     title: article.title,
     keywords: article.keywords,
-  }, 20);
+  }, 24);
   const og = ogImageMeta(seoTitle, getArticleOgImagePath(article));
   const canonicalUrl =
     article.canonical ||
@@ -131,10 +131,10 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     dateModified: article.updatedDate || article.date,
     slug,
     category: normalizedCategory,
-    keywords: uniqueSearchQueries({
+    keywords: visibleSearchPhrases({
       title: article.title,
       keywords: article.keywords,
-    }, 20),
+    }, 24),
     wordCount,
     inLanguage: contentLanguage,
     author: article.authorData ? {
