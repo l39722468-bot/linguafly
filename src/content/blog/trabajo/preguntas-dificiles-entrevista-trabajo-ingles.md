@@ -13,7 +13,14 @@ readTime: 6 min
 keywords:
   - preguntas difíciles entrevista trabajo inglés respuestas
   - cómo responder preguntas comprometidas entrevista inglés
-  - inglés de negocios gratis
+  - Cómo Responder Preguntas Difíciles en una Entrevista en Inglés
+  - Como Responder Preguntas Dificiles en una Entrevista en Ingles
+  - preguntas dificiles entrevista trabajo ingles para el trabajo
+  - preguntas dificiles entrevista trabajo ingles profesional
+  - Cómo Responder Preguntas Difíciles en una Entrevista en Inglés con ejemplos
+  - frases de preguntas dificiles entrevista trabajo ingles profesional
+  - cómo escribir preguntas dificiles entrevista trabajo ingles
+  - preguntas dificiles entrevista trabajo ingles para trabajar
 faqs:
   - question: ¿Cómo respondo a "Tell me about yourself" en inglés sin irme por las ramas?
     answer: >-

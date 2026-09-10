@@ -1,4 +1,4 @@
-﻿---
+---
 category: trabajo
 date: '2026-02-07'
 updatedDate: '2026-09-04'
@@ -15,6 +15,14 @@ excerpt: >-
 keywords:
   - 'Inglés para el Trabajo: Guía Profesional'
   - inglés para el trabajo
+  - Qué Inglés Necesitas para el Trabajo
+  - Que Ingles Necesitas para el Trabajo
+  - ingles para trabajo para el trabajo
+  - ingles para trabajo profesional
+  - Qué Inglés Necesitas para el Trabajo con ejemplos
+  - frases de ingles para trabajo profesional
+  - cómo escribir ingles para trabajo
+  - ingles para trabajo para trabajar
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-trabajo'
 related_routes:
   - ingles-b1

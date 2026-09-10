@@ -9,14 +9,16 @@ description: >-
   y no se oyen, cómo aprenderlas sin confundirlas al escribir y cómo pronunciarlas.
 readTime: 22 min
 keywords:
-  - B Muda en Inglés: Doubt, Debt, Subtle y Ejemplos
+  - 'B Muda en Inglés: Doubt, Debt, Subtle y Ejemplos'
   - doubt pronunciación
-  - ejercicios de inglés gratis
   - cómo pronunciar doubt debt y subtle
   - palabras con b muda en inglés y significado
   - ejercicios gratis de pronunciación de doubt y debt
   - diferencia entre debit y debt en inglés
   - trucos para memorizar palabras con b silenciosa
+  - B Muda en Inglés
+  - B Muda en Ingles
+  - b muda ingles doubt subtle debt historia practica
 alt: Libros apilados en librería
 excerpt: >-
   Guía didáctica sobre palabras con b histórica: trucos de memoria, errores al

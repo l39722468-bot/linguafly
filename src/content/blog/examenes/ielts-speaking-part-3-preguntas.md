@@ -11,13 +11,14 @@ excerpt: >-
 keywords:
   - 'IELTS Speaking Part 3: Preguntas Típicas y Respuestas'
   - ielts speaking part 3
-  - preparar inglés gratis
-  - material de inglés gratis
   - preguntas IELTS Speaking Part 3 con respuestas
   - cómo responder preguntas abstractas en IELTS
   - frases para IELTS Speaking Band 7 y 8
   - ejercicios gratis de IELTS Speaking Part 3
   - estructura de respuestas para el Part 3 IELTS
+  - ielts speaking part 3 preguntas examen de inglés
+  - IELTS Speaking Part 3 España
+  - cómo preparar ielts speaking part 3 preguntas en inglés
 author: linguafly-team
 date: '2026-04-17'
 updatedDate: '2026-08-31'

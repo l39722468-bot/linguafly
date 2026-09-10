@@ -12,12 +12,12 @@ keywords:
   - ejercicios travel verbs horarios
   - the train leaves arrives
   - visit stay explore A1
-  - curso A1 Linguafly
   - ejercicios verbos de viaje inglés A1
   - Present Simple para horarios de trenes
   - vocabulario leave arrive depart inglés
   - cómo hablar de viajes en inglés básico
   - práctica travel verbs con soluciones A1
+  - Ejercicios de Verbos de Viaje en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-43-verbos-viaje-horarios-ejercicios-soluciones'
 image: /blog/curso-a1/unit-43/a1-unit43-schedules.png
 alt: Horarios de viaje Present Simple para ejercicios A1 Unidad 43

@@ -15,6 +15,9 @@ keywords:
   - inglés B1 unidad 50
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - Repaso B1 Unidades 46
+  - repaso 46 49 en inglés B1
+  - repaso 46 49 inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-50-repaso-46-49'
 image: /blog/curso-b1/unit-50/review-map.png
 alt: 'Repaso B1 unidades 46-49'

@@ -9,14 +9,16 @@ excerpt: >-
   existe en español. Si siempre has dicho "d" o "z" donde debería ir TH, aquí
   tienes la explicación y los ejercicios para corregirlo.
 keywords:
-  - Pronunciar la TH en Inglés: Sonido Sordo y Sonoro
+  - 'Pronunciar la TH en Inglés: Sonido Sordo y Sonoro'
   - pronunciar th ingles
-  - ejercicios de inglés gratis
   - cómo pronunciar la th sorda y sonora en inglés
   - ejercicios gratis para practicar el sonido th
   - diferencia entre th y d en inglés
   - palabras con th y transcripción fonética
   - pronunciación de th inglesa para hispanohablantes
+  - Pronunciar la TH en Inglés
+  - Pronunciar la TH en Ingles
+  - consonantes th ingles
 author: linguafly-team
 date: '2026-02-11'
 updatedDate: '2026-09-04'

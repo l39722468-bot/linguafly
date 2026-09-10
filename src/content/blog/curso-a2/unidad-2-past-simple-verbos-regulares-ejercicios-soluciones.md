@@ -12,7 +12,12 @@ keywords:
   - ejercicios past simple regulares
   - walked visited played finished
   - yesterday last week ago
-  - curso A2 Linguafly
+  - Ejercicios de Past Simple Regular en Ingles A2
+  - past simple verbos regulares en inglés A2
+  - past simple verbos regulares inglés A2
+  - ejercicios de past simple verbos regulares en inglés A2
+  - past simple verbos regulares ejercicios con soluciones A2
+  - práctica past simple verbos regulares inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-2-past-simple-verbos-regulares-ejercicios-soluciones'
 image: /blog/curso-a2/unit-2/a2-unit2-past-simple-ed.png
 alt: Past Simple -ed para ejercicios A2 Unidad 2

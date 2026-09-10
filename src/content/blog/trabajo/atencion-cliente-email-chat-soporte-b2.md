@@ -9,8 +9,16 @@ description: >-
   seguimiento y tono profesional en chat y correo.
 readTime: 22 min
 keywords:
-  - Emails y Chats de Soporte en Inglés: Guía B2
+  - 'Emails y Chats de Soporte en Inglés: Guía B2'
   - email soporte inglés
+  - Emails y Chats de Soporte en Inglés
+  - Emails y Chats de Soporte en Ingles
+  - atencion cliente email chat soporte b2 en inglés para el trabajo
+  - atencion cliente email chat soporte b2 en inglés profesional
+  - Emails y Chats de Soporte en Inglés con ejemplos
+  - frases de atencion cliente email chat soporte b2 profesional
+  - cómo escribir atencion cliente email chat soporte b2 en inglés
+  - atencion cliente email chat soporte b2 en ingles para trabajar
 alt: Persona escribiendo en portátil
 excerpt: >-
   Guía práctica para mensajes de soporte: estructura, conectores, evitar

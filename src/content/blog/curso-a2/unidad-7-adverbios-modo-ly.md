@@ -16,6 +16,9 @@ keywords:
   - adjective + ly
   - She speaks fluently
   - adverbs of manner
+  - adverbios modo ly en inglés A2
+  - adverbios modo ly inglés A2
+  - cómo usar adverbios modo ly en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-7-adverbios-modo-ly'
 image: /blog/curso-a2/unit-7/a2-unit7-adverbs-manner.png
 alt: Esquema de adverbios de modo con -ly para inglés A2

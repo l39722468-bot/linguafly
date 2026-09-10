@@ -12,14 +12,12 @@ keywords:
   - third conditional ejercicios
   - if I had known
   - would have ejercicios
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios Third Conditional inglés B1
   - cómo usar If I had known
   - estructura would have y past perfect
   - condicional tipo 3 para hablar del pasado
-  - práctica regrets en inglés con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-14-third-conditional-ejercicios-soluciones'
 image: /blog/curso-b1/unit-14/third-conditional.png
 alt: Third conditional — ejercicios B1 Unidad 14

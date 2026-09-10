@@ -8,16 +8,16 @@ description: >-
   Practica el repaso del Módulo 3 del curso A1: There is/are, preposiciones, have got, Present Continuous, imperativos, reading, listening y writing.
 readTime: 25 min
 keywords:
-  - Repaso de Inglés A1: Módulo 3 con Ejercicios
+  - 'Repaso de Inglés A1: Módulo 3 con Ejercicios'
   - module 3 review exercises
   - repaso there is are A1
   - have got wearing directions
-  - curso A1 Linguafly
   - ejercicios repaso módulo 3 inglés A1
   - revisión there is there are y have got
   - ejercicios Present Continuous A1 con soluciones
   - vocabulario casa barrio cuerpo ropa inglés
   - examen de repaso curso A1 unidad 30
+  - Repaso de Inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-30-repaso-modulo-3-ejercicios-soluciones'
 image: /blog/curso-a1/unit-30/a1-unit30-module-map.png
 alt: Module 3 Review para ejercicios A1 Unidad 30

@@ -13,9 +13,12 @@ keywords:
   - taller than more expensive
   - better worse comparative
   - inglés A2 unidad 5
-  - -er more than
+  - er more than
   - as tall as
   - comparative adjectives A2
+  - Comparativos en Inglés A2
+  - Comparativos en Ingles A2
+  - comparativos er more than en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-5-comparativos-er-more-than'
 image: /blog/curso-a2/unit-5/a2-unit5-comparatives.png
 alt: Esquema de comparativos -er y more than para inglés A2

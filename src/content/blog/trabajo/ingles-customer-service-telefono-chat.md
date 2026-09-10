@@ -12,9 +12,16 @@ canonical: >-
   https://linguafly.app/blog/trabajo/ingles-customer-service-telefono-chat
 readTime: 6 min
 keywords:
-  - Inglés para Customer Service: Teléfono y Chat
+  - 'Inglés para Customer Service: Teléfono y Chat'
   - customer service ingles telefono
-  - inglés de negocios gratis
+  - Inglés para Customer Service
+  - Ingles para Customer Service
+  - ingles customer service telefono chat para el trabajo
+  - ingles customer service telefono chat profesional
+  - Inglés para Customer Service con ejemplos
+  - frases de ingles customer service telefono chat profesional
+  - cómo escribir ingles customer service telefono chat
+  - ingles customer service telefono chat para trabajar
 faqs:
   - question: ¿Cómo mantengo la calma cuando un cliente furioso habla muy rápido en inglés?
     answer: >-

@@ -11,12 +11,14 @@ excerpt: >-
 keywords:
   - 'Unless en Inglés: Diferencias, Uso y Ejemplos'
   - unless ingles
-  - ejercicios de inglés gratis
   - cómo usar unless en inglés con ejemplos
   - diferencia entre unless e if not explicada
   - ejercicios gratis de unless y condicionales
   - uso de provided that as long as y only if
   - unless para exámenes de inglés B1 B2
+  - Unless en Inglés
+  - Unless en Ingles
+  - unless ingles condicionales
 author: linguafly-team
 date: '2026-02-16'
 updatedDate: '2026-09-04'

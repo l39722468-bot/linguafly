@@ -9,6 +9,14 @@ excerpt: >-
 keywords:
   - entrevista virtual inglés videollamada zoom teams
   - entrevista trabajo online inglés setup cámara
+  - Entrevista Virtual en Inglés
+  - Entrevista Virtual en Ingles
+  - entrevista virtual ingles para el trabajo
+  - entrevista virtual ingles profesional
+  - Entrevista Virtual en Inglés con ejemplos
+  - frases de entrevista virtual ingles profesional
+  - cómo escribir entrevista virtual ingles
+  - entrevista virtual ingles para trabajar
 author: linguafly-team
 date: '2026-02-11'
 updatedDate: '2026-08-31'

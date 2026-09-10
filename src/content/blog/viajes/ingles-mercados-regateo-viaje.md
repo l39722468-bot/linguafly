@@ -13,8 +13,14 @@ alt: Viajero regateando en un mercado callejero colorido en el extranjero
 keywords:
   - Inglés para Mercados y Regateo en el Extranjero
   - ingles para mercados
-  - inglés para viajar gratis
-  - frases en inglés gratis
+  - Ingles para Mercados y Regateo en el Extranjero
+  - ingles mercados regateo viaje para viajar
+  - frases de ingles mercados regateo viaje
+  - Inglés para Mercados y Regateo en el Extranjero para viajeros
+  - ingles mercados regateo viaje aeropuerto hotel restaurante
+  - 'Vocabulario y frases en inglés para mercados callejeros, bazares y regateo'
+  - Inglés para Mercados y Regateo en el Extranjero con ejemplos prácticos
+  - Inglés para Mercados y Regateo en el Extranjero para hispanohablantes
 canonical: 'https://linguafly.app/blog/viajes/ingles-mercados-regateo-viaje'
 faqs:
   - question: ¿Cómo pregunto el precio de algo en un mercado?

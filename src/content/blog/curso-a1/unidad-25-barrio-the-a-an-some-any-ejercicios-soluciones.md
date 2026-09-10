@@ -9,12 +9,11 @@ description: >-
   listening, writing y soluciones comentadas de la Unidad 25.
 readTime: 25 min
 keywords:
-  - Ejercicios de The, A/An y Some/Any en Inglés A1
+  - 'Ejercicios de The, A/An y Some/Any en Inglés A1'
   - ejercicios the a an some any
   - my neighborhood exercises
   - describir el barrio inglés
   - there are some shops
-  - curso A1 Linguafly
   - ejercicios artículos the a an inglés A1
   - diferencia some y any en inglés básico
   - vocabulario barrio y tiendas en inglés

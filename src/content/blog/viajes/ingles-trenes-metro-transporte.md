@@ -11,9 +11,16 @@ category: viajes
 readTime: 10 min
 alt: Viajero consultando un mapa de metro en una estación internacional
 keywords:
-  - Inglés para Trenes, Metro y Transporte Público
+  - 'Inglés para Trenes, Metro y Transporte Público'
   - ingles para trenes
-  - inglés para viajar gratis
+  - 'Ingles para Trenes, Metro y Transporte Publico'
+  - ingles trenes metro transporte para viajar
+  - frases de ingles trenes metro transporte
+  - 'Inglés para Trenes, Metro y Transporte Público para viajeros'
+  - ingles trenes metro transporte aeropuerto hotel restaurante
+  - 'Frases y vocabulario en inglés para usar trenes, metro y autobuses en tus viajes'
+  - 'Inglés para Trenes, Metro y Transporte Público con ejemplos prácticos'
+  - 'Inglés para Trenes, Metro y Transporte Público para hispanohablantes'
 canonical: 'https://linguafly.app/blog/viajes/ingles-trenes-metro-transporte'
 faqs:
   - question: ¿Cómo compro un billete de tren en inglés?

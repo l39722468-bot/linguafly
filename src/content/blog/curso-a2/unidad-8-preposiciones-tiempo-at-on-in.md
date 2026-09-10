@@ -11,11 +11,14 @@ readTime: 15 min
 keywords:
   - preposiciones de tiempo A2
   - at on in inglés
-  - at 7 o'clock
+  - 'at 7 o''clock'
   - on Monday
   - in August
   - inglés A2 unidad 8
   - prepositions of time
+  - preposiciones tiempo at on in en inglés A2
+  - preposiciones tiempo at on in inglés A2
+  - cómo usar preposiciones tiempo at on in en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in'
 image: /blog/curso-a2/unit-8/a2-unit8-prepositions-time.png
 alt: Esquema at on in para preposiciones de tiempo en inglés A2

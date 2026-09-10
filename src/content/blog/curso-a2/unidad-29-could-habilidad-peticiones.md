@@ -15,6 +15,10 @@ keywords:
   - inglés A2 unidad 29
   - could swim when I was
   - peticiones educadas inglés
+  - Cómo se Usa Could en Inglés
+  - Como se Usa Could en Ingles
+  - could habilidad peticiones en inglés A2
+  - could habilidad peticiones inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-29-could-habilidad-peticiones'
 image: /blog/curso-a2/unit-29/a2-unit29-could.png
 alt: Esquema de could para habilidad pasada y peticiones A2

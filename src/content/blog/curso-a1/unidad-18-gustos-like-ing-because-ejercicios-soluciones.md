@@ -13,7 +13,11 @@ keywords:
   - why because ejercicios A1
   - likes and dislikes ejercicios
   - hobbies vocabulary exercises
-  - curso A1 Linguafly
+  - Ejercicios de Gustos y Aficiones A1
+  - gustos like ing because en inglés A1
+  - gustos like ing because inglés A1
+  - ejercicios de gustos like ing because en inglés A1
+  - gustos like ing because ejercicios con soluciones A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-18-gustos-like-ing-because-ejercicios-soluciones'
 image: /blog/curso-a1/unit-18/a1-unit18-like-ing.png
 alt: Like + -ing para ejercicios A1 Unidad 18

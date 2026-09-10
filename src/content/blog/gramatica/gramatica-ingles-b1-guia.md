@@ -9,15 +9,16 @@ description: >-
   con reglas, ejemplos y ejercicios para preparar un certificado oficial.
 readTime: 6 min
 keywords:
-  - Gramática Inglesa B1: Temas, Ejercicios y Guía
+  - 'Gramática Inglesa B1: Temas, Ejercicios y Guía'
   - clases de gramatica en ingles gratis
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - gramática inglesa B1 con ejercicios y soluciones
   - temas de gramática B1 para Cambridge e IELTS
   - guía gratuita de gramática inglesa nivel B1
   - tiempos verbales y condicionales B1 en inglés
   - gramática B1 para hispanohablantes paso a paso
+  - Gramática Inglesa B1
+  - Gramatica Inglesa B1
+  - gramatica ingles b1
 canonical: 'https://linguafly.app/blog/gramatica/gramatica-ingles-b1-guia'
 related_routes:
   - cursos-online-ingles-b1

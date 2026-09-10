@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Errores en Entrevistas de Trabajo en Inglés y Cómo Evitarlos'
 description: >-
   Los errores más frecuentes en entrevistas de trabajo en inglés: idioma, estrategia y comportamiento, con consejos claros para evitarlos.
@@ -8,7 +8,14 @@ excerpt: >-
 keywords:
   - errores más comunes entrevista trabajo inglés
   - qué no hacer en una entrevista de trabajo en inglés
-  - inglés de negocios gratis
+  - Errores en Entrevistas de Trabajo en Inglés y Cómo Evitarlos
+  - Errores en Entrevistas de Trabajo en Ingles y Como Evitarlos
+  - errores entrevista trabajo ingles para el trabajo
+  - errores entrevista trabajo ingles profesional
+  - Errores en Entrevistas de Trabajo en Inglés y Cómo Evitarlos con ejemplos
+  - frases de errores entrevista trabajo ingles profesional
+  - cómo escribir errores entrevista trabajo ingles
+  - errores entrevista trabajo ingles para trabajar
 author: linguafly-team
 date: '2026-02-20'
 updatedDate: '2026-08-31'

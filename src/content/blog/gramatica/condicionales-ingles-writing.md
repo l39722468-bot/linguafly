@@ -9,14 +9,16 @@ excerpt: >-
   argumentar, proponer, suavizar y convencer. Te enseñamos cuándo y cómo
   usarlos en cada tipo de texto.
 keywords:
-  - Condicionales en Inglés para Writing: Guía B1-C1
+  - 'Condicionales en Inglés para Writing: Guía B1-C1'
   - condicionales ingles writing
-  - ejercicios de inglés gratis
   - cómo usar condicionales en writing B2 C1
   - condicionales para ensayos y emails formales
   - ejercicios gratis de condicionales para writing
   - frases condicionales para argumentar en inglés
   - condicionales en propuestas e informes ingleses
+  - Condicionales en Inglés para Writing
+  - Condicionales en Ingles para Writing
+  - cuándo usar condicionales ingles writing
 author: linguafly-team
 date: '2026-03-03'
 updatedDate: '2026-09-04'

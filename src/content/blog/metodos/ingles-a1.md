@@ -11,7 +11,14 @@ readTime: 3 min
 keywords:
   - 'Inglés A1: Guía para Empezar desde Cero'
   - aprender inglés desde cero
-  - curso inglés gratis online
+  - Inglés A1 desde Cero
+  - Ingles A1 desde Cero
+  - Inglés A1 desde Cero para aprender inglés
+  - Inglés A1 desde Cero guía práctica
+  - cómo mejorar el inglés con Inglés A1 desde Cero
+  - Inglés A1 desde Cero con ejemplos prácticos
+  - Inglés A1 desde Cero para hispanohablantes
+  - Inglés A1 desde Cero explicado paso a paso
 canonical: 'https://linguafly.app/blog/metodos/ingles-a1'
 related_routes:
   - ingles-a2

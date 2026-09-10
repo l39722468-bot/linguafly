@@ -11,7 +11,14 @@ excerpt: >-
 keywords:
   - 'Follow-Up Email en Inglés: Guía y Ejemplos'
   - follow up email ingles
-  - inglés de negocios gratis
+  - Follow-Up Email en Inglés
+  - Follow-Up Email en Ingles
+  - follow up email ingles para el trabajo
+  - follow up email ingles profesional
+  - Follow-Up Email en Inglés con ejemplos
+  - frases de follow up email ingles profesional
+  - cómo escribir follow up email ingles
+  - follow up email ingles para trabajar
 author: linguafly-team
 date: '2026-02-12'
 updatedDate: '2026-09-04'

@@ -23,11 +23,16 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-6/future-forms.png
 keywords:
-- Ejercicios de Futuro con Will y Going To en Inglés B1
-- will going to ejercicios
-- present continuous future
-- curso B1 Linguafly
-- curso inglés B1 gratis
+  - Ejercicios de Futuro con Will y Going To en Inglés B1
+  - will going to ejercicios
+  - present continuous future
+  - curso inglés B1 gratis
+  - Ejercicios de Futuro con Will y Going To en Ingles B1
+  - future will going to en inglés B1
+  - future will going to inglés B1
+  - ejercicios de future will going to en inglés B1
+  - future will going to ejercicios con soluciones B1
+  - práctica future will going to inglés B1
 readTime: 25 min
 related_routes:
 - unidad-6-future-will-going-to

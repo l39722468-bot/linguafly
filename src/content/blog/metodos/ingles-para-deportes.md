@@ -13,12 +13,14 @@ alt: Estadio de fútbol con el césped visto desde las gradas
 keywords:
   - 'Inglés para Deportes: Vocabulario y Frases'
   - ingles para deportes
-  - curso inglés gratis online
   - vocabulario de deportes en inglés gratis
   - frases para hablar de fútbol y baloncesto en inglés
   - inglés para comentar partidos y resultados
   - nombres de deportes y posiciones en inglés
   - ejercicios gratuitos de inglés para deportes
+  - Inglés para Deportes
+  - Inglés para Deportes para aprender inglés
+  - Inglés para Deportes guía práctica
 faqs:
   - question: ¿Cómo se dice "empate" en inglés?
     answer: >-

@@ -11,12 +11,14 @@ excerpt: >-
 keywords:
   - 'Vocabulario de Ropa en Inglés: 150 Palabras'
   - vocabulario ropa ingles
-  - curso inglés gratis online
   - vocabulario de ropa en inglés gratis
   - nombres de prendas y accesorios en inglés
   - cómo describir la ropa en inglés con ejemplos
   - vocabulario de ropa inglesa para principiantes
   - ejercicios gratuitos de ropa en inglés
+  - Vocabulario de Ropa en Inglés
+  - Vocabulario de Ropa en Ingles
+  - Vocabulario de Ropa en Inglés para aprender inglés
 date: '2026-02-06'
 updatedDate: '2026-09-04'
 category: metodos

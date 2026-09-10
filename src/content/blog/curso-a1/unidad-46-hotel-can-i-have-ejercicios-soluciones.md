@@ -12,7 +12,12 @@ keywords:
   - ejercicios at the hotel Can I have
   - hotel reception room service
   - Is there Wi-Fi A1
-  - curso A1 Linguafly
+  - Ejercicios de Ingles para Hoteles A1
+  - hotel can i have en inglés A1
+  - hotel can i have inglés A1
+  - ejercicios de hotel can i have en inglés A1
+  - hotel can i have ejercicios con soluciones A1
+  - práctica hotel can i have inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-46-hotel-can-i-have-ejercicios-soluciones'
 image: /blog/curso-a1/unit-46/a1-unit46-hotel-requests.png
 alt: Peticiones de hotel Can I have para ejercicios A1 Unidad 46

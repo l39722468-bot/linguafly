@@ -15,12 +15,14 @@ alt: Estudiante sonriente celebrando sus resultados académicos
 keywords:
   - 'Aptis A2 2026: Estructura y Cómo Aprobar'
   - aptis a2
-  - preparar inglés gratis
   - Aptis A2 estructura de las cuatro partes
   - cómo aprobar Aptis A2 en 2026
   - ejercicios gratis de Aptis A2 con soluciones
   - puntuación mínima para aprobar Aptis A2
   - plan de preparación Aptis A2 en español
+  - Aptis A2 2026
+  - aptis a2 guia examen de inglés
+  - Aptis A2 2026 España
 faqs:
   - question: ¿Qué diferencia hay entre Aptis General y Aptis A2?
     answer: >-

@@ -13,7 +13,6 @@ keywords:
   - in front of opposite
   - preposiciones de lugar A1
   - where is the pharmacy
-  - curso A1 Linguafly
   - ejercicios preposiciones lugar inglés A1
   - cómo dar indicaciones de ubicación en inglés
   - diferencia next to between opposite

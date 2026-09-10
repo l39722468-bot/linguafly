@@ -8,16 +8,16 @@ description: >-
   Practica todos los ejercicios de la Unidad 60 del curso A2: repaso U51–U59: suggestions, offers, opinions, feelings, environment, technology, work, places,...
 readTime: 25 min
 keywords:
-  - Repaso de Inglés A2: Módulo 6 con Ejercicios
+  - 'Repaso de Inglés A2: Módulo 6 con Ejercicios'
   - module 6 review ejercicios
   - repaso A2 modulo 6
   - suggestions opinions feelings
-  - curso A2 Linguafly
   - ejercicios repaso módulo 6 inglés A2
   - revisión sugerencias opiniones y emociones
   - repaso medio ambiente tecnología y trabajo A2
   - ejercicios linking words con soluciones
   - examen práctico Module 6 Review A2
+  - Repaso de Inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-60-module-6-review-ejercicios-soluciones'
 image: /blog/curso-a2/unit-60/a2-unit60-module-6-review.png
 alt: Module 6 Review — ejercicios A2 Unidad 60

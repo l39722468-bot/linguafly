@@ -16,6 +16,10 @@ keywords:
   - inglés A2 unidad 26
   - condicional tipo 1
   - condiciones consecuencias inglés
+  - first conditional en inglés A2
+  - first conditional inglés A2
+  - cómo usar first conditional en inglés A2
+  - ejemplos de first conditional en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-26-first-conditional'
 image: /blog/curso-a2/unit-26/a2-unit26-first-conditional.png
 alt: Esquema del First Conditional A2

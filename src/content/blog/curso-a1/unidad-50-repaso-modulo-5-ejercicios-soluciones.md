@@ -10,11 +10,16 @@ description: >-
   comentadas.
 readTime: 25 min
 keywords:
-  - Repaso de Inglés A1: Módulo 5 con Ejercicios
+  - 'Repaso de Inglés A1: Módulo 5 con Ejercicios'
   - repaso módulo 5 A1
   - take the go by was were
   - need to sightseeing hotel
-  - curso A1 Linguafly
+  - Repaso de Inglés A1
+  - Repaso de Ingles A1
+  - repaso modulo 5 en inglés A1
+  - repaso modulo 5 inglés A1
+  - ejercicios de repaso modulo 5 en inglés A1
+  - repaso modulo 5 ejercicios con soluciones A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-50-repaso-modulo-5-ejercicios-soluciones'
 image: /blog/curso-a1/unit-50/a1-unit50-module-map.png
 alt: Mapa repaso Módulo 5 A1 Unidad 50

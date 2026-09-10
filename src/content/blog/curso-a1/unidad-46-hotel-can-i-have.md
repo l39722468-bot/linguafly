@@ -16,6 +16,9 @@ keywords:
   - single double room
   - room service hotel
   - reception check in
+  - Cómo Pedir en el Hotel en Inglés
+  - Como Pedir en el Hotel en Ingles
+  - hotel can i have en inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-46-hotel-can-i-have'
 image: /blog/curso-a1/unit-46/a1-unit46-hotel-requests.png
 alt: Esquema Can I have e Is there en el hotel para inglés A1

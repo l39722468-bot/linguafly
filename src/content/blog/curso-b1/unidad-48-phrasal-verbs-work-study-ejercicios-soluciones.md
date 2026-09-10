@@ -12,14 +12,12 @@ keywords:
   - phrasal verbs ejercicios B1
   - work out look forward to
   - run out of deal with
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios phrasal verbs trabajo B1
   - significado work out look forward to
   - cómo usar run out of y deal with
   - vocabulario work and study en inglés
-  - práctica phrasal verbs con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-48-phrasal-verbs-work-study-ejercicios-soluciones'
 image: /blog/curso-b1/unit-48/phrasal-verbs-3.png
 alt: Phrasal Verbs 3 & Work — ejercicios B1 Unidad 48

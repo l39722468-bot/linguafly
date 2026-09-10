@@ -15,6 +15,10 @@ keywords:
   - inglés A2 unidad 31
   - verbos frasales básicos
   - phrasal verbs introduction
+  - phrasal verbs introduccion en inglés A2
+  - phrasal verbs introduccion inglés A2
+  - cómo usar phrasal verbs introduccion en inglés A2
+  - ejemplos de phrasal verbs introduccion en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-31-phrasal-verbs-introduccion'
 image: /blog/curso-a2/unit-31/a2-unit31-phrasal-verbs.png
 alt: Esquema de phrasal verbs básicos A2

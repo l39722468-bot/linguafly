@@ -11,9 +11,16 @@ category: metodos
 readTime: 16 min
 alt: Campus universitario europeo con estudiantes caminando entre edificios históricos
 keywords:
-  - Guía Erasmus: Inglés para Estudiar en el Extranjero
+  - 'Guía Erasmus: Inglés para Estudiar en el Extranjero'
   - guia erasmus estudios extranjero
-  - curso inglés gratis online
+  - Guía Erasmus
+  - Guía Erasmus para aprender inglés
+  - Guía Erasmus guía práctica
+  - cómo mejorar el inglés con Guía Erasmus
+  - Guia Erasmus en ingles
+  - Guía Erasmus con ejemplos prácticos
+  - Guía Erasmus para hispanohablantes
+  - Guía Erasmus explicado paso a paso
 faqs:
   - question: ¿Qué nivel de inglés necesito para hacer un Erasmus en un país de habla inglesa?
     answer: >-

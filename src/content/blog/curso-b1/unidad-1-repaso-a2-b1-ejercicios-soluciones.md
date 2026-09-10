@@ -21,12 +21,16 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-1/a2-to-b1.png
 keywords:
-- Ejercicios de Repaso A2 a B1 en Inglés
-- repaso A2 B1 ejercicios
-- used to who which
-- feelings B1
-- curso B1 Linguafly
-- curso inglés B1 gratis
+  - Ejercicios de Repaso A2 a B1 en Inglés
+  - repaso A2 B1 ejercicios
+  - used to who which
+  - feelings B1
+  - curso inglés B1 gratis
+  - Ejercicios de Repaso A2 a B1 en Ingles
+  - repaso a2 b1 en inglés
+  - repaso a2 b1 inglés
+  - ejercicios de repaso a2 b1 en inglés
+  - repaso a2 b1 ejercicios con soluciones
 readTime: 25 min
 related_routes:
 - unidad-1-repaso-a2-b1

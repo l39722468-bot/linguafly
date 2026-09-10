@@ -9,14 +9,16 @@ description: >-
   First (B2), Advanced (C1) y Proficiency (C2). Guía de Key Word Transformation.
 readTime: 5 min
 keywords:
-  - Reported Speech en Cambridge: B2, C1 y C2
+  - 'Reported Speech en Cambridge: B2, C1 y C2'
   - reported speech cambridge
-  - preparar inglés gratis
   - ejercicios reported speech Cambridge B2 C1
   - reported speech Key Word Transformations
   - verbos de estilo indirecto examen CAE
   - cambios de tiempo reported speech inglés
   - práctica Cambridge Use of English con respuestas
+  - Reported Speech en Cambridge
+  - reported speech cambridge exams examen de inglés
+  - Reported Speech en Cambridge España
 canonical: 'https://linguafly.app/blog/examenes/reported-speech-cambridge-exams'
 alt: Personas hablando representando el reported speech
 faqs:

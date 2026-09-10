@@ -9,10 +9,16 @@ description: >-
   habilidades, hablar de horarios, seguridad y comunicación informal.
 readTime: 22 min
 keywords:
-  - Inglés para Mochileros: Workaway y Voluntariado
+  - 'Inglés para Mochileros: Workaway y Voluntariado'
   - aprender inglés para mochileros
-  - frases en inglés gratis
-  - inglés para viajar gratis
+  - Qué Inglés Necesitas para Hacer Workaway o Voluntariado
+  - Que Ingles Necesitas para Hacer Workaway o Voluntariado
+  - mochileros ingles voluntariado workaway intercambio para viajar
+  - frases de mochileros ingles voluntariado workaway intercambio
+  - Qué Inglés Necesitas para Hacer Workaway o Voluntariado para viajeros
+  - mochileros ingles voluntariado workaway intercambio aeropuerto hotel restaurante
+  - Qué Inglés Necesitas para Hacer Workaway o Voluntariado con ejemplos prácticos
+  - Qué Inglés Necesitas para Hacer Workaway o Voluntariado para hispanohablantes
 alt: Personas colaborando en proyecto comunitario al aire libre
 excerpt: >-
   Frases y estrategias en inglés para acuerdos de voluntariado: expectativas,

@@ -8,12 +8,14 @@ excerpt: "Las inversiones son uno de los sellos del inglés avanzado. En el CAE 
 keywords:
   - 'Inversiones en Inglés C1: Guía y Ejemplos para CAE'
   - inversiones ingles c1
-  - material de inglés gratis
   - ejercicios inversiones inglés C1 con respuestas
   - inversiones para Key Word Transformations CAE
   - adverbios negativos inversión en inglés
   - estructuras formales inglés nivel C1
   - cómo usar inversiones en Writing CAE
+  - Inversiones en Inglés C1
+  - Inversiones en Ingles C1
+  - inversiones ingles c1 examen de inglés
 author: linguafly-team
 date: '2026-03-23'
 updatedDate: '2026-09-04'

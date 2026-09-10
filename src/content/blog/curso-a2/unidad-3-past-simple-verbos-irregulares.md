@@ -10,12 +10,13 @@ description: >-
 readTime: 15 min
 keywords:
   - past simple verbos irregulares A2
+  - past simple irregular
+  - make past simple
+  - past simple make
   - go went see saw have had
   - make made write wrote buy bought
-  - inglés A2 unidad 3
   - irregular verbs past simple
   - I went to London
-  - I bought souvenirs
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-3-past-simple-verbos-irregulares'
 image: /blog/curso-a2/unit-3/a2-unit3-irregular-verbs.png
 alt: Tabla de verbos irregulares del Past Simple para inglés A2

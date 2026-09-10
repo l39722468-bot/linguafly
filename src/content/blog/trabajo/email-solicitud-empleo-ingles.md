@@ -8,9 +8,16 @@ excerpt: >-
   reclutador. Si suena genérico o tiene errores, el CV pasa a la papelera
   sin abrirse. Aquí tienes cómo hacerlo bien.
 keywords:
-  - Email de Solicitud de Empleo en Inglés: Plantilla
+  - 'Email de Solicitud de Empleo en Inglés: Plantilla'
   - email solicitud empleo ingles
-  - inglés de negocios gratis
+  - Email de Solicitud de Empleo en Inglés
+  - Email de Solicitud de Empleo en Ingles
+  - email solicitud empleo ingles para el trabajo
+  - email solicitud empleo ingles profesional
+  - Email de Solicitud de Empleo en Inglés con ejemplos
+  - frases de email solicitud empleo ingles profesional
+  - cómo escribir email solicitud empleo ingles
+  - email solicitud empleo ingles para trabajar
 author: linguafly-team
 date: '2026-02-21'
 updatedDate: '2026-09-04'

@@ -14,7 +14,12 @@ keywords:
   - ejercicios wh questions past simple
   - What did you do yesterday
   - Where When Who Why How did
-  - curso A2 Linguafly
+  - wh questions past simple en inglés A2
+  - wh questions past simple inglés A2
+  - ejercicios de wh questions past simple en inglés A2
+  - wh questions past simple ejercicios con soluciones A2
+  - práctica wh questions past simple inglés A2
+  - unidad 4 wh questions past simple inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-4-wh-questions-past-simple-ejercicios-soluciones'
 image: /blog/curso-a2/unit-4/a2-unit4-wh-questions.png
 alt: Wh-questions Past Simple para ejercicios A2 Unidad 4

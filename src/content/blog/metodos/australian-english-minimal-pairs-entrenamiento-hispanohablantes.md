@@ -9,9 +9,16 @@ description: >-
   que escuchan inglés australiano: método, ejemplos y progresión.
 readTime: 22 min
 keywords:
-  - Minimal Pairs en Inglés Australiano: Entrenamiento
+  - 'Minimal Pairs en Inglés Australiano: Entrenamiento'
   - minimal pairs inglés
-  - curso inglés gratis online
+  - Minimal Pairs en Inglés Australiano
+  - Minimal Pairs en Ingles Australiano
+  - Minimal Pairs en Inglés Australiano para aprender inglés
+  - Minimal Pairs en Inglés Australiano guía práctica
+  - cómo mejorar el inglés con Minimal Pairs en Inglés Australiano
+  - Minimal Pairs en Inglés Australiano con ejemplos prácticos
+  - Minimal Pairs en Inglés Australiano para hispanohablantes
+  - Minimal Pairs en Inglés Australiano explicado paso a paso
 alt: Estudiante con auriculares tomando apuntes
 excerpt: >-
   Cómo usar minimal pairs sin convertir el estudio en suplicio: criterios,

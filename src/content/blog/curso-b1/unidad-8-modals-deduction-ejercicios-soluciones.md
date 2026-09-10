@@ -10,12 +10,15 @@ description: >-
 readTime: 25 min
 keywords:
   - Ejercicios de Modales de Deducción en Inglés B1
-  - must might can't ejercicios
+  - 'must might can''t ejercicios'
   - modales de deducción
   - must be happy
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - gramática inglés B1 gratis
+  - Ejercicios de Modales de Deduccion en Ingles B1
+  - modals deduction en inglés B1
+  - modals deduction inglés B1
+  - ejercicios de modals deduction en inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-8-modals-deduction-ejercicios-soluciones'
 image: /blog/curso-b1/unit-8/modals-deduction.png
 alt: Modals of deduction — ejercicios B1 Unidad 8

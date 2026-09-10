@@ -11,14 +11,14 @@ readTime: 25 min
 keywords:
   - Ejercicios sobre el Tiempo Atmosférico en Inglés A2
   - the weather ejercicios
-  - it's going to rain
+  - 'it''s going to rain'
   - sunny rainy cloudy
-  - curso A2 Linguafly
   - ejercicios tiempo atmosférico inglés A2
   - vocabulario weather sunny rainy cloudy
   - cómo hacer predicciones del tiempo en inglés
   - frases It’s going to rain A2
   - práctica clima inglés con soluciones
+  - Ejercicios sobre el Tiempo Atmosferico en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-44-the-weather-ejercicios-soluciones'
 image: /blog/curso-a2/unit-44/a2-unit44-the-weather.png
 alt: The Weather — ejercicios A2 Unidad 44

@@ -12,12 +12,14 @@ readTime: 7 min
 keywords:
   - 'Should y Would en Inglés: Usos y Diferencias'
   - should usos ingles
-  - ejercicios de inglés gratis
   - diferencia entre should y would en inglés
   - should y would ejercicios gratis con soluciones
   - cómo usar should para dar consejos en inglés
   - would para peticiones corteses y condicionales
   - verbos modales should would para B1 B2
+  - Should y Would en Inglés
+  - Should y Would en Ingles
+  - should would ingles
 excerpt: >-
   Should y would son dos de los modales más frecuentes en inglés, pero se usan en contextos muy diferentes. Should aparece en consejos, expectativas y críticas. Would lo encontrarás en condicionales, peticiones y hábitos del pasado.
 faqs:

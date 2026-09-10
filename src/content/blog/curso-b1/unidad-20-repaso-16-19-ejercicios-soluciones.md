@@ -12,14 +12,12 @@ keywords:
   - repaso passive reported B1
   - passive reported speech ejercicios
   - estilo indirecto repaso
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios repaso voz pasiva y reported speech
   - revisión passive voice y modal passive B1
   - estilo indirecto statements questions commands
   - repaso gramática B1 con soluciones
-  - examen práctico unidades 16 a 19 B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-20-repaso-16-19-ejercicios-soluciones'
 image: /blog/curso-b1/unit-20/review-map.png
 alt: Repaso 16–19 — ejercicios B1 Unidad 20

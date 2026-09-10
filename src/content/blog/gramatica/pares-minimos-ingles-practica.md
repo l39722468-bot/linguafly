@@ -13,12 +13,14 @@ alt: Persona escuchando con auriculares y practicando pronunciación
 keywords:
   - 'Pares Mínimos en Inglés: Guía y Ejercicios'
   - pares minimos ingles
-  - ejercicios de inglés gratis
   - técnica de pares mínimos para pronunciación inglesa
   - ejercicios gratis de discriminación auditiva
   - pares mínimos ingleses para hispanohablantes
   - cómo practicar minimal pairs en inglés
   - pares mínimos de vocales y consonantes inglesas
+  - Pares Mínimos en Inglés
+  - Pares Minimos en Ingles
+  - pares minimos ingles practica
 faqs:
   - question: ¿Qué son los pares mínimos?
     answer: >-

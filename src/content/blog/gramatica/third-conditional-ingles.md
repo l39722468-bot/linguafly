@@ -9,9 +9,8 @@ excerpt: >-
   a construirlo sin errores, usarlo en conversaciones reales y diferenciarlo
   del segundo condicional.
 keywords:
-  - Third Conditional en Inglés: Guía y Ejemplos
+  - 'Third Conditional en Inglés: Guía y Ejemplos'
   - third conditional ingles
-  - ejercicios de inglés gratis
   - third conditional en inglés con ejemplos
   - cómo usar el tercer condicional para arrepentimientos
   - ejercicios gratis de third conditional con soluciones
@@ -20,8 +19,6 @@ keywords:
   - estructura del third conditional con ejemplos
   - ejercicios gratis de tercer condicional resueltos
   - third conditional para arrepentimientos en inglés
-  - cómo diferenciar second y third conditional
-  - tercer condicional para exámenes B2 C1
 author: linguafly-team
 date: '2026-02-13'
 updatedDate: '2026-09-04'

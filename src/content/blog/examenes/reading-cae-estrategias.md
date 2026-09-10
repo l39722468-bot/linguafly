@@ -8,12 +8,14 @@ excerpt: "En el Reading del CAE el tiempo es el enemigo principal. Con la estrat
 keywords:
   - 'Reading CAE: Estrategias para Cada Parte'
   - como hacer reading cae
-  - material de inglés gratis
   - estrategias Reading and Use of English CAE
   - cómo hacer las partes 5 6 7 y 8 del CAE
   - ejercicios gratis de Reading C1 con soluciones
   - cómo gestionar el tiempo en Reading CAE
   - trucos para False Not Given y gapped text CAE
+  - Reading CAE
+  - reading cae estrategias examen de inglés
+  - Reading CAE España
 author: linguafly-team
 date: '2026-03-07'
 updatedDate: '2026-09-04'

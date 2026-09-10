@@ -9,13 +9,12 @@ excerpt: >-
   ejercicios cubre todos los niveles, desde A2 hasta C1, con correcciones paso a paso.
 keywords:
   - Ejercicios de Verbos Modales con Soluciones
+  - ejercicio modales ingles
   - verbos modales ingles ejercicios resueltos
-  - gramática inglesa gratis
   - ejercicios de verbos modales ingleses con respuestas
   - ejercicios gratis de can could must should may
   - práctica de modales en inglés por niveles A2 C1
   - modales perfectos ejercicios resueltos en inglés
-  - ficha gratuita de verbos modales para imprimir
 author: linguafly-team
 date: '2026-03-04'
 updatedDate: '2026-09-04'

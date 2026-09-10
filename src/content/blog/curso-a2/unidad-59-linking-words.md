@@ -15,6 +15,10 @@ keywords:
   - inglés A2 unidad 59
   - connectors English
   - cause contrast result
+  - linking words en inglés A2
+  - linking words inglés A2
+  - cómo usar linking words en inglés A2
+  - ejemplos de linking words en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-59-linking-words'
 image: /blog/curso-a2/unit-59/a2-unit59-linking-words.png
 alt: Esquema Linking Words A2

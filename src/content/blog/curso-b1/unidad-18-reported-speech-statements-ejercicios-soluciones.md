@@ -12,14 +12,12 @@ keywords:
   - reported speech ejercicios
   - said told backshift
   - communication vocabulary ejercicios
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios reported speech inglés B1
   - diferencia said y told en estilo indirecto
   - cómo hacer backshift de tiempos verbales
   - vocabulario comunicación en inglés B1
-  - práctica reported statements con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-18-reported-speech-statements-ejercicios-soluciones'
 image: /blog/curso-b1/unit-18/reported-statements.png
 alt: Reported Speech Statements — ejercicios B1 Unidad 18

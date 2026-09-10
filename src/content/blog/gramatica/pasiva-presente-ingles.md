@@ -9,14 +9,16 @@ excerpt: >-
   conversaciones formales. Aquí te explicamos cómo funciona y cuándo usarlo de
   verdad.
 keywords:
-  - Voz Pasiva en Presente: Guía y Ejercicios
+  - 'Voz Pasiva en Presente: Guía y Ejercicios'
   - voz pasiva presente ingles
-  - gramática inglesa gratis
   - cómo formar la pasiva en presente simple inglés
   - present continuous en voz pasiva con ejemplos
   - ejercicios gratis de pasiva en presente
   - is cleaned y is being cleaned diferencia
   - voz pasiva presente para niveles A2 B1
+  - Voz Pasiva en Presente
+  - pasiva presente ingles
+  - cuándo usar pasiva presente ingles
 author: linguafly-team
 date: '2026-02-05'
 updatedDate: '2026-09-04'

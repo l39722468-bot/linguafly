@@ -11,13 +11,13 @@ keywords:
   - Ejercicios de Ever y Never en Inglés A2
   - ejercicios ever never
   - Have you ever
-  - Yes I have No I haven't
-  - curso A2 Linguafly
+  - 'Yes I have No I haven''t'
   - ejercicios Have you ever inglés A2
   - cómo usar ever y never Present Perfect
   - preguntas de experiencias en inglés
   - respuestas Yes I have No I haven’t
   - práctica Present Perfect ever never
+  - Ejercicios de Ever y Never en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-12-present-perfect-ever-never-ejercicios-soluciones'
 image: /blog/curso-a2/unit-12/a2-unit12-ever-never.png
 alt: Ever y never para ejercicios A2 Unidad 12

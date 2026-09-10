@@ -11,7 +11,6 @@ readTime: 6 min
 keywords:
   - 'Present Perfect en Inglés: 4 Usos y Ejemplos'
   - present perfect usos
-  - ejercicios de inglés gratis
   - usos del present perfect en inglés con ejemplos
   - cómo usar present perfect para hispanohablantes
   - present perfect ejercicios gratis con soluciones
@@ -20,8 +19,6 @@ keywords:
   - cuándo usar present perfect en inglés paso a paso
   - los cuatro usos del present perfect con ejercicios
   - present perfect gratis para nivel B1 B2
-  - present perfect y past simple diferencias clave
-  - ejemplos de present perfect en conversaciones
 excerpt: >-
   El Present Perfect no es difícil si entiendes qué lógica hay detrás. Son básicamente 4 situaciones distintas, y una vez que las reconoces, la elección entre present perfect y past simple empieza a ser casi automática.
 faqs:

@@ -12,12 +12,12 @@ keywords:
   - ejercicios I would like restaurante
   - Can I have the bill A1
   - starter main course dessert
-  - curso A1 Linguafly
   - ejercicios restaurante inglés A1 con soluciones
   - cómo pedir comida en inglés básico
   - frases I would like en restaurante
   - vocabulario menú restaurante inglés A1
   - práctica Can I have the bill
+  - Ejercicios para Pedir en un Restaurante en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-56-restaurante-pedidos-ejercicios-soluciones'
 image: /blog/curso-a1/unit-56/a1-unit56-polite-orders.png
 alt: Pedidos educados para ejercicios A1 Unidad 56

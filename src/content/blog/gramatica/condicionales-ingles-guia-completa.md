@@ -6,13 +6,17 @@ excerpt: >-
   Conditional con una guía paso a paso y más de 50 ejemplos prácticos.
 keywords:
   - 'Condicionales en Inglés: Zero, 1st, 2nd y 3rd'
+  - condicional en inglés
+  - condicionales en inglés
   - condicionales en ingles
-  - gramática inglesa gratis
+  - estructura condicional ingles
+  - estructura condicionales inglés
+  - tipos de condicionales en ingles
+  - tipos de condicionales ingles
   - tipos de condicionales en inglés con ejemplos
   - cómo usar zero first second y third conditional
   - condicionales en inglés B1 B2 explicados
   - diferencias entre los cuatro condicionales ingleses
-  - guía gratuita de condicionales en inglés
 author: linguafly-team
 description: >-
   Condicionales en inglés: guía completa de los cuatro tipos (Zero, First, Second y Third Conditional) con ejemplos, diferencias y ejercicios. Esencial para B1-C1.
@@ -36,7 +40,7 @@ faqs:
 canonical: 'https://linguafly.app/blog/gramatica/condicionales-ingles-guia-completa'
 ---
 
-Los **condicionales en inglés** son estructuras gramaticales que usamos para hablar de situaciones reales o imaginarias y sus consecuencias. Representan entre el 10 y el 15% de los puntos en los exámenes Cambridge B1, B2 First y C1 Advanced, y su dominio marca la diferencia entre un estudiante intermedio y uno avanzado.
+Los **condicionales en inglés** (también *condicional en inglés* o *tipos de condicionales*) son estructuras gramaticales que usamos para hablar de situaciones reales o imaginarias y sus consecuencias. Representan entre el 10 y el 15% de los puntos en los exámenes Cambridge B1, B2 First y C1 Advanced, y su dominio marca la diferencia entre un estudiante intermedio y uno avanzado.
 
 Como filólogo especializado en preparación de exámenes Cambridge, en esta guía te explico no solo la gramática, sino la **lógica y el razonamiento detrás de cada tipo de condicional**. Cuando entiendas por qué existe cada estructura, dejarás de memorizarlas y empezarás a usarlas de forma natural.
 

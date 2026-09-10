@@ -13,8 +13,14 @@ alt: Viajero disfrutando de una cena en un restaurante al aire libre en el extra
 keywords:
   - Inglés para Restaurantes y Bares en el Extranjero
   - ingles para restaurantes
-  - frases en inglés gratis
-  - inglés para viajar gratis
+  - Ingles para Restaurantes y Bares en el Extranjero
+  - ingles restaurantes bares viaje para viajar
+  - frases de ingles restaurantes bares viaje
+  - Inglés para Restaurantes y Bares en el Extranjero para viajeros
+  - reservar ingles restaurantes bares viaje
+  - Inglés para Restaurantes y Bares en el Extranjero con ejemplos prácticos
+  - Inglés para Restaurantes y Bares en el Extranjero para hispanohablantes
+  - Inglés para Restaurantes y Bares en el Extranjero explicado paso a paso
 canonical: 'https://linguafly.app/blog/viajes/ingles-restaurantes-bares-viaje'
 faqs:
   - question: ¿Cómo pido una mesa en un restaurante en inglés?

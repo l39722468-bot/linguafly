@@ -10,11 +10,13 @@ description: >-
 readTime: 15 min
 keywords:
   - Past Simple Past Continuous
+  - when and while exercise
+  - when and while exercises
+  - when while as exercises
+  - when while exercises
   - when while inglés
   - I was walking when I saw
   - while she was cooking
-  - inglés A2 unidad 17
-  - acción interrumpida inglés
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-17-past-simple-past-continuous'
 image: /blog/curso-a2/unit-17/a2-unit17-ps-pc.png
 alt: Esquema Past Simple y Past Continuous con when y while A2

@@ -7,8 +7,16 @@ readTime: 5 min
 excerpt: >-
   Usa esta plantilla de email de queja en inglés para explicar el problema, reclamar con respeto y conseguir una solución.
 keywords:
-  - Email de Queja en Inglés: Estructura y Frases
+  - 'Email de Queja en Inglés: Estructura y Frases'
   - como escribir queja en ingles
+  - Email de Queja en Inglés
+  - Email de Queja en Ingles
+  - email queja reclamacion ingles para el trabajo
+  - email queja reclamacion ingles profesional
+  - Email de Queja en Inglés con ejemplos
+  - frases de email queja reclamacion ingles profesional
+  - cómo escribir email queja reclamacion ingles
+  - email queja reclamacion ingles para trabajar
 author: linguafly-team
 date: '2026-02-09'
 updatedDate: '2026-09-04'

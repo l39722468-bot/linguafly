@@ -9,8 +9,16 @@ description: >-
   materiales, niveles, subtítulos y progresión semana a semana.
 readTime: 22 min
 keywords:
-  - Listening de Inglés Australiano: Rutina y Recursos
+  - 'Listening de Inglés Australiano: Rutina y Recursos'
   - listening inglés australiano
+  - Listening de Inglés Australiano
+  - Listening de Ingles Australiano
+  - Listening de Inglés Australiano para aprender inglés
+  - Listening de Inglés Australiano guía práctica
+  - cómo mejorar el inglés con Listening de Inglés Australiano
+  - Listening de Inglés Australiano con ejemplos prácticos
+  - Listening de Inglés Australiano para hispanohablantes
+  - Listening de Inglés Australiano explicado paso a paso
 alt: Auriculares sobre mesa
 excerpt: >-
   Guía práctica para acostumbrar el oído al inglés de Australia sin frustración:

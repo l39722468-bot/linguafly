@@ -7,10 +7,16 @@ readTime: 14 min
 excerpt: >-
   Entiende el inglés irlandés con expresiones reales, matices de registro y vocabulario local para viajar por Irlanda.
 keywords:
-  - Inglés de Irlanda: Vocabulario y Expresiones
+  - 'Inglés de Irlanda: Vocabulario y Expresiones'
   - vocabulario ingles Irlanda
-  - inglés para viajar gratis
-  - frases en inglés gratis
+  - Inglés de Irlanda
+  - Ingles de Irlanda
+  - vocabulario coloquial irlanda acento contexto en inglés para viajar
+  - frases de vocabulario coloquial irlanda acento contexto
+  - Inglés de Irlanda para viajeros
+  - vocabulario coloquial irlanda acento contexto aeropuerto hotel restaurante
+  - vocabulario coloquial irlanda acento contexto en ingles para viajar
+  - Inglés de Irlanda con ejemplos prácticos
 author: linguafly-team
 date: '2026-03-29'
 updatedDate: '2026-09-04'

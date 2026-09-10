@@ -11,7 +11,6 @@ excerpt: >-
 keywords:
   - 'First Conditional en Inglés: Usos Reales'
   - first conditional ingles
-  - ejercicios de inglés gratis
   - first conditional en inglés con ejemplos y ejercicios
   - cómo usar el primer condicional en inglés
   - first conditional ejercicios gratis con soluciones
@@ -20,8 +19,6 @@ keywords:
   - first conditional con can may y might
   - ejercicios gratis de first conditional A2 B2
   - primer condicional para advertencias y negociaciones
-  - estructura if will del first conditional
-  - first conditional en conversaciones reales
 author: linguafly-team
 date: '2026-02-07'
 updatedDate: '2026-08-31'

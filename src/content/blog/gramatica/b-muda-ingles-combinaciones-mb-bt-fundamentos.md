@@ -11,12 +11,14 @@ readTime: 22 min
 keywords:
   - 'B Muda en Inglés: Reglas MB y BT con Ejemplos'
   - b muda ingles
-  - ejercicios de inglés gratis
   - regla de la b muda en combinaciones mb y bt
   - palabras inglesas con b muda como climb y thumb
   - ejercicios gratis de pronunciación de b muda
   - cómo leer palabras con b silenciosa en inglés
   - b muda inglesa para hispanohablantes
+  - B Muda en Inglés
+  - B Muda en Ingles
+  - b muda ingles combinaciones mb bt fundamentos
 alt: Letras de máquina de escribir antigua
 excerpt: >-
   Aprende a leer correctamente palabras como climb, thumb y debt: reglas

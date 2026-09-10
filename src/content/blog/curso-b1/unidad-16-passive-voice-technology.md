@@ -14,6 +14,10 @@ keywords:
   - technology vocabulary English
   - inglés B1 unidad 16
   - curso inglés B1 gratis
+  - passive voice technology en inglés B1
+  - passive voice technology inglés B1
+  - cómo usar passive voice technology en inglés B1
+  - ejemplos de passive voice technology en inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-16-passive-voice-technology'
 image: /blog/curso-b1/unit-16/passive-voice.png
 alt: 'Passive voice y technology B1'

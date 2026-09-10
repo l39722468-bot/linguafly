@@ -22,11 +22,16 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-4/past-vs-pp.png
 keywords:
-- Ejercicios de Past Simple y Present Perfect en Inglés B1
-- Past Simple vs Present Perfect
-- ever never just already yet
-- curso B1 Linguafly
-- curso inglés B1 gratis
+  - Ejercicios de Past Simple y Present Perfect en Inglés B1
+  - Past Simple vs Present Perfect
+  - ever never just already yet
+  - curso inglés B1 gratis
+  - Ejercicios de Past Simple y Present Perfect en Ingles B1
+  - past vs present perfect en inglés B1
+  - past vs present perfect inglés B1
+  - ejercicios de past vs present perfect en inglés B1
+  - past vs present perfect ejercicios con soluciones B1
+  - práctica past vs present perfect inglés B1
 readTime: 25 min
 related_routes:
 - unidad-4-past-vs-present-perfect

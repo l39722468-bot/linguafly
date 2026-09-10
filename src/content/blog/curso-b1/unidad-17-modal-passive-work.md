@@ -14,6 +14,10 @@ keywords:
   - work jobs vocabulary
   - inglés B1 unidad 17
   - curso inglés B1 gratis
+  - modal passive work en inglés B1
+  - modal passive work inglés B1
+  - cómo usar modal passive work en inglés B1
+  - ejemplos de modal passive work en inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-17-modal-passive-work'
 image: /blog/curso-b1/unit-17/modal-passive.png
 alt: 'Modal passive y work B1'

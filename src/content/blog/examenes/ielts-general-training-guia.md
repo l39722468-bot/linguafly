@@ -9,15 +9,16 @@ category: examenes
 alt: Pasaporte y documentos de viaje para inmigración con IELTS General Training
 readTime: 7 min
 keywords:
-  - IELTS General Training: Guía, Formato y Preparación
+  - 'IELTS General Training: Guía, Formato y Preparación'
   - preparar ielts general training
-  - preparar inglés gratis
-  - material de inglés gratis
   - IELTS General Training guía completa en español
   - diferencias entre IELTS Academic y General Training
   - cómo preparar el IELTS General Training gratis
   - IELTS General Training para visas y trabajo
   - ejercicios de Reading y Writing IELTS GT
+  - IELTS General Training
+  - ielts general training examen de inglés
+  - IELTS General Training España
 excerpt: >-
   El IELTS General Training es el formato para inmigración, visas de trabajo y programas de formación no universitaria. No es más fácil que el Academic, pero tiene sus propias reglas y sus propios tipos de tarea.
 faqs:

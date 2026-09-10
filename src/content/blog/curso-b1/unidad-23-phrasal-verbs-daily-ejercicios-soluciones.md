@@ -12,14 +12,12 @@ keywords:
   - phrasal verbs ejercicios B1
   - turn off put on
   - look after
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios phrasal verbs vida diaria B1
   - significado turn on put on take off
   - cómo usar look after en inglés
   - phrasal verbs cotidianos con ejemplos
-  - práctica phrasal verbs B1 con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-23-phrasal-verbs-daily-ejercicios-soluciones'
 image: /blog/curso-b1/unit-23/phrasals-1.png
 alt: Phrasal Verbs 1 & Daily — ejercicios B1 Unidad 23

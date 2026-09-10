@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Inglés para Emergencias al Viajar: Frases Clave'
 date: '2026-01-30'
 updatedDate: '2026-09-04'
@@ -16,9 +16,16 @@ alt: >-
   viaje
 canonical: 'https://linguafly.app/blog/viajes/frases-ingles-emergencias-viajes'
 keywords:
-  - Inglés para Emergencias al Viajar: Frases Clave
+  - 'Inglés para Emergencias al Viajar: Frases Clave'
   - frases emergencia viaje ingles
-  - frases en inglés gratis
+  - Inglés para Emergencias al Viajar
+  - Ingles para Emergencias al Viajar
+  - frases ingles emergencias viajes para viajar
+  - frases de frases ingles emergencias viajes
+  - frases ingles emergencias viajes aeropuerto hotel restaurante
+  - Inglés para Emergencias al Viajar con ejemplos prácticos
+  - Inglés para Emergencias al Viajar para hispanohablantes
+  - Inglés para Emergencias al Viajar explicado paso a paso
 faqs:
   - question: ¿Cómo pido ayuda médica urgente en inglés?
     answer: >-

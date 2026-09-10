@@ -15,6 +15,10 @@ keywords:
   - pasado continuo inglés
   - inglés A2 unidad 16
   - was studying were cooking
+  - past continuous en inglés A2
+  - past continuous inglés A2
+  - cómo usar past continuous en inglés A2
+  - ejemplos de past continuous en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-16-past-continuous'
 image: /blog/curso-a2/unit-16/a2-unit16-past-continuous.png
 alt: Esquema Past Continuous was/were + -ing A2

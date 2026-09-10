@@ -12,12 +12,12 @@ keywords:
   - ejercicios was were vacaciones
   - past simple holidays A1
   - visited played sightseeing
-  - curso A1 Linguafly
   - ejercicios was were pasado inglés A1
   - vocabulario vacaciones en inglés básico
   - cómo usar was y were con ejercicios
   - verbos regulares pasado simple A1
   - práctica holidays inglés con soluciones
+  - Ejercicios de Vacaciones y Pasado en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-47-vacaciones-was-were-ejercicios-soluciones'
 image: /blog/curso-a1/unit-47/a1-unit47-was-were.png
 alt: Was were vacaciones para ejercicios A1 Unidad 47

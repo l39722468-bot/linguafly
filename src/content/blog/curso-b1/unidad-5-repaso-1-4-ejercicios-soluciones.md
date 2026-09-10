@@ -24,11 +24,16 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-5/review-map.png
 keywords:
-- Repaso de Gramática B1: Unidades 1 a 4
-- repaso B1 unidades 1-4
-- review 1-4 ejercicios
-- curso B1 Linguafly
-- curso inglés B1 gratis
+  - 'Repaso de Gramática B1: Unidades 1 a 4'
+  - repaso B1 unidades 1-4
+  - review 1-4 ejercicios
+  - curso inglés B1 gratis
+  - Repaso de Gramática B1
+  - repaso 1 4 en inglés B1
+  - repaso 1 4 inglés B1
+  - ejercicios de repaso 1 4 en inglés B1
+  - repaso 1 4 ejercicios con soluciones B1
+  - práctica repaso 1 4 inglés B1
 readTime: 25 min
 related_routes:
 - unidad-5-repaso-1-4

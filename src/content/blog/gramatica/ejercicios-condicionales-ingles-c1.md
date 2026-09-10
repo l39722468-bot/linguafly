@@ -10,13 +10,14 @@ excerpt: >-
 keywords:
   - Ejercicios de Condicionales en Inglés C1
   - condicionales ingles c1
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - ejercicios de condicionales C1 con soluciones
   - inversión condicional y mixed conditionals ejercicios
   - práctica gratis de condicionales para Cambridge Advanced
   - estructuras condicionales formales nivel C1
   - condicionales C1 ejercicios PDF e IELTS
+  - Ejercicios de Condicionales en Ingles C1
+  - ejercicios condicionales ingles c1
+  - cuándo usar ejercicios condicionales ingles c1
 author: linguafly-team
 date: '2026-02-28'
 updatedDate: '2026-08-31'

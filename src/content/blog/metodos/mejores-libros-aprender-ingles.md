@@ -13,12 +13,14 @@ alt: Pila de libros en inglés sobre una mesa de madera
 keywords:
   - Mejores Libros para Aprender Inglés por Nivel
   - mejores libros aprender ingles
-  - curso inglés gratis online
   - mejores libros para aprender inglés gratis
   - libros de inglés recomendados por nivel A1 B2
   - mejores libros de gramática inglesa para autodidactas
   - lecturas graduadas en inglés gratis para principiantes
   - libros para preparar exámenes de inglés por nivel
+  - Mejores Libros para Aprender Ingles por Nivel
+  - Mejores Libros para Aprender Inglés por Nivel guía práctica
+  - Mejores Libros para Aprender Inglés por Nivel con ejemplos prácticos
 faqs:
   - question: ¿Es mejor estudiar con libros físicos o digitales para aprender inglés?
     answer: >-

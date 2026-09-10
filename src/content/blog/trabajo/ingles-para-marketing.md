@@ -13,7 +13,14 @@ alt: Equipo de marketing revisando gráficas y métricas en una pantalla grande 
 keywords:
   - 'Inglés para Marketing: Vocabulario Profesional'
   - ingles para marketing
-  - inglés de negocios gratis
+  - Inglés para Marketing
+  - ingles para marketing para el trabajo
+  - ingles para marketing profesional
+  - Inglés para Marketing con ejemplos
+  - frases de ingles para marketing profesional
+  - cómo escribir ingles para marketing
+  - ingles para marketing para trabajar
+  - Inglés para Marketing con ejemplos prácticos
 faqs:
   - question: ¿Por qué el inglés es tan importante en el sector del marketing?
     answer: >-

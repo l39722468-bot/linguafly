@@ -11,14 +11,16 @@ description: >-
   consejos.
 readTime: 4 min
 keywords:
-  - C2 Proficiency (CPE): Guía y Plan para Aprobar
+  - 'C2 Proficiency (CPE): Guía y Plan para Aprobar'
   - ingles proficiency
-  - material de inglés gratis
   - cómo preparar el Cambridge C2 Proficiency CPE
   - estrategias para aprobar el examen C2 de Cambridge
   - ejercicios gratis de C2 Proficiency con respuestas
   - vocabulario y gramática para Cambridge CPE
   - diferencias entre C1 Advanced y C2 Proficiency
+  - C2 Proficiency
+  - cambridge c2 proficiency examen de inglés
+  - C2 Proficiency España
 canonical: 'https://linguafly.app/blog/examenes/cambridge-c2-proficiency-guia'
 related_routes:
   - certificaciones-ingles

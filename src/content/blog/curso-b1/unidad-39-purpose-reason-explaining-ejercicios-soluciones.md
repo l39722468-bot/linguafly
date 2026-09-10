@@ -13,14 +13,12 @@ keywords:
   - purpose reason ejercicios
   - so that because of
   - explaining vocabulary
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios purpose y reason inglés B1
   - diferencia so that y because of
   - cómo expresar finalidad y causa en inglés
   - vocabulario explaining inglés intermedio
-  - práctica purpose reason con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-39-purpose-reason-explaining-ejercicios-soluciones'
 image: /blog/curso-b1/unit-39/purpose-reason.png
 alt: Purpose & Reason — ejercicios B1 Unidad 39

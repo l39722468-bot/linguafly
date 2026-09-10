@@ -10,13 +10,16 @@ description: >-
   ejercicios.
 readTime: 15 min
 keywords:
-  - Holidays A1: Was/Were, Visited y Played con Ejemplos
+  - 'Holidays A1: Was/Were, Visited y Played con Ejemplos'
   - was were inglés
   - past simple regular verbs
   - inglés A1 unidad 47
   - visited played sightseeing
   - beach mountains souvenir
   - last summer holiday
+  - Holidays A1
+  - vacaciones was were en inglés A1
+  - vacaciones was were inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-47-vacaciones-was-were'
 image: /blog/curso-a1/unit-47/a1-unit47-was-were.png
 alt: Esquema was/were y pasado regular para vacaciones en inglés A1

@@ -13,7 +13,14 @@ readTime: 5 min
 keywords:
   - Vocabulario de Inglés Médico para Enfermería
   - vocabulario ingles medico enfermeria
-  - inglés de negocios gratis
+  - Vocabulario de Ingles Medico para Enfermeria
+  - vocabulario ingles medico enfermeria para el trabajo
+  - vocabulario ingles medico enfermeria profesional
+  - Vocabulario de Inglés Médico para Enfermería con ejemplos
+  - frases de vocabulario ingles medico enfermeria profesional
+  - cómo escribir vocabulario ingles medico enfermeria
+  - vocabulario ingles medico enfermeria para trabajar
+  - Guía de vocabulario de inglés médico para enfermeras y enfermeros
 faqs:
   - question: ¿Qué nivel de inglés necesita una enfermera para trabajar en el extranjero?
     answer: >-

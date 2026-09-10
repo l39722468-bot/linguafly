@@ -21,12 +21,16 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-3/past-perfect-formula.png
 keywords:
-- Ejercicios de Past Perfect en Inglés B1
-- Past Perfect ejercicios
-- had past participle
-- by the time B1
-- curso B1 Linguafly
-- curso inglés B1 gratis
+  - Ejercicios de Past Perfect en Inglés B1
+  - Past Perfect ejercicios
+  - had past participle
+  - by the time B1
+  - curso inglés B1 gratis
+  - Ejercicios de Past Perfect en Ingles B1
+  - past perfect en inglés B1
+  - past perfect inglés B1
+  - past perfect ejercicios con soluciones B1
+  - práctica past perfect inglés B1
 readTime: 25 min
 related_routes:
 - unidad-3-past-perfect

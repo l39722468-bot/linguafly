@@ -11,13 +11,14 @@ readTime: 6 min
 keywords:
   - 'IELTS Listening: Estrategias y Trucos para Mejorar'
   - ielts listening
-  - preparar inglés gratis
-  - material de inglés gratis
   - estrategias IELTS Listening para subir de banda
   - ejercicios gratis de IELTS Listening con respuestas
   - cómo tomar notas en IELTS Listening
   - acentos del IELTS Listening que debes entender
   - errores frecuentes en IELTS Listening
+  - ielts listening estrategias examen de inglés
+  - IELTS Listening España
+  - cómo preparar ielts listening estrategias en inglés
 excerpt: >-
   El IELTS Listening se escucha una sola vez. No hay repetición. Eso cambia completamente cómo tienes que prepararlo: no es cuestión de entender inglés, es cuestión de saber exactamente qué buscar antes de que el audio empiece.
 faqs:

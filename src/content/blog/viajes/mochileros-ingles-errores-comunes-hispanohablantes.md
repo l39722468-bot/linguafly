@@ -11,8 +11,14 @@ readTime: 22 min
 keywords:
   - Errores de Español al Hablar Inglés de Viaje
   - errores inglés viaje
-  - frases en inglés gratis
-  - inglés para viajar gratis
+  - Qué Errores Cometen los Hispanohablantes al Viajar en Inglés
+  - Que Errores Cometen los Hispanohablantes al Viajar en Ingles
+  - mochileros ingles errores comunes hispanohablantes para viajar
+  - frases de mochileros ingles errores comunes hispanohablantes
+  - mochileros ingles errores comunes hispanohablantes aeropuerto hotel restaurante
+  - Qué Errores Cometen los Hispanohablantes al Viajar en Inglés con ejemplos prácticos
+  - Qué Errores Cometen los Hispanohablantes al Viajar en Inglés explicado paso a paso
+  - Que Errores Cometen los Hispanohablantes al Viajar en Ingles con ejemplos practicos
 alt: Mochila de viaje sobre banco en estación
 excerpt: >-
   Guía de corrección para inglés de viaje: qué evitar, qué decir en su lugar y

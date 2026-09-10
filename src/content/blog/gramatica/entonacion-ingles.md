@@ -10,12 +10,14 @@ excerpt: >-
 keywords:
   - 'Entonación en Inglés: Cómo Usarla con Naturalidad'
   - entonación inglés
-  - ejercicios de inglés gratis
   - patrones de entonación inglesa con ejemplos
   - ejercicios gratis de entonación en inglés
   - entonación ascendente y descendente en inglés
   - cómo sonar menos monótono al hablar inglés
   - entonación inglesa para conversaciones y preguntas
+  - Entonación en Inglés
+  - Entonacion en Ingles
+  - entonacion ingles
 author: linguafly-team
 date: '2026-02-07'
 updatedDate: '2026-09-04'

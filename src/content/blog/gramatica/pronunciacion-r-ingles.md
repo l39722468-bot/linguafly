@@ -10,12 +10,14 @@ excerpt: >-
 keywords:
   - 'Pronunciar la R en Inglés: Guía Americana y Británica'
   - pronunciación r inglés
-  - ejercicios de inglés gratis
   - cómo pronunciar la r en inglés americano y británico
   - ejercicios gratis para pronunciar la r inglesa
   - diferencia entre la r española y la r inglesa
   - pronunciación de la r inglesa con IPA
   - cómo mejorar el sonido r en inglés para hispanohablantes
+  - Pronunciar la R en Inglés
+  - Pronunciar la R en Ingles
+  - pronunciacion r ingles
 author: linguafly-team
 date: '2026-02-22'
 updatedDate: '2026-09-04'

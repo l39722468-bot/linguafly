@@ -9,14 +9,16 @@ excerpt: >-
   Mejora tu acento y claridad al hablar. Guía académica con las reglas de
   pronunciación fundamentales, ejemplos de nivel Cambridge y lista de práctica.
 keywords:
-  - Reglas de Pronunciación en Inglés: Guía Completa
+  - 'Reglas de Pronunciación en Inglés: Guía Completa'
   - reglas pronunciacion ingles
-  - curso inglés gratis online
   - reglas de pronunciación inglesa explicadas gratis
   - cómo pronunciar vocales y consonantes en inglés
   - reglas Magic E y letras mudas en inglés
   - pronunciación de terminaciones ED en inglés
   - ejercicios gratis de pronunciación inglesa
+  - Reglas de Pronunciación en Inglés
+  - Reglas de Pronunciacion en Ingles
+  - Reglas de Pronunciación en Inglés para aprender inglés
 author: linguafly-team
 date: '2026-02-06'
 updatedDate: '2026-09-04'

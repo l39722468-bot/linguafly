@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Email de Actualización de Proyecto: Frases y Plantilla'
 description: >-
   Aprende a escribir progress updates y status reports por email en inglés:
@@ -9,7 +9,14 @@ excerpt: >-
 keywords:
   - Emails de Actualización de Proyecto en Inglés
   - email actualizacion proyecto ingles
-  - inglés de negocios gratis
+  - Email de Actualización de Proyecto
+  - email actualizacion proyecto ingles para el trabajo
+  - email actualizacion proyecto ingles profesional
+  - Email de Actualización de Proyecto con ejemplos
+  - frases de email actualizacion proyecto ingles profesional
+  - cómo escribir email actualizacion proyecto ingles
+  - email actualizacion proyecto ingles para trabajar
+  - Email de Actualización de Proyecto con ejemplos prácticos
 author: linguafly-team
 date: '2026-02-27'
 updatedDate: '2026-09-04'

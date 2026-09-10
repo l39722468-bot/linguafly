@@ -10,11 +10,10 @@ description: >-
 readTime: 25 min
 keywords:
   - Ejercicios de Can y Can’t para Habilidades en Inglés A1
-  - ejercicios can can't
+  - 'ejercicios can can''t'
   - can for ability exercises
   - can you swim
   - I can speak English
-  - curso A1 Linguafly
   - ejercicios can y can’t inglés A1
   - cómo hablar de habilidades en inglés
   - preguntas Can you swim ejercicios

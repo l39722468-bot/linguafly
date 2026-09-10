@@ -10,14 +10,16 @@ excerpt: >-
   reconoces bien, pierdes matices importantes. Aquí están las estructuras que
   más aparecen y por qué los periodistas las eligen.
 keywords:
-  - Voz Pasiva en Inglés: Cómo Leer Noticias
+  - 'Voz Pasiva en Inglés: Cómo Leer Noticias'
   - voz pasiva ingles periodismo
-  - gramática inglesa gratis
   - cómo reconocer la voz pasiva en noticias inglesas
   - voz pasiva en titulares de periódicos en inglés
   - ejercicios gratis de pasiva para comprensión lectora
   - estructuras pasivas frecuentes en periodismo inglés
   - leer noticias en inglés con voz pasiva
+  - Voz Pasiva en Inglés
+  - Voz Pasiva en Ingles
+  - pasiva ingles noticias
 author: linguafly-team
 date: '2026-03-07'
 updatedDate: '2026-09-04'

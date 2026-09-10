@@ -8,18 +8,16 @@ description: >-
   Practica todos los ejercicios de la Unidad 30 del curso B1: quantifiers, both/either/neither, articles y reflexives (mix U26–29); food, choices, buildings,...
 readTime: 25 min
 keywords:
-  - Repaso de Cuantificadores, Artículos y Pronombres B1
+  - 'Repaso de Cuantificadores, Artículos y Pronombres B1'
   - repaso B1 26-29
   - quantifiers articles review
   - reflexives review
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios repaso unidades 26 a 29 B1
   - revisión cuantificadores artículos y reflexivos
   - both either neither ejercicios de repaso
   - repaso comida elecciones edificios experiencias
-  - examen práctico gramática B1 con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-30-repaso-26-29-ejercicios-soluciones'
 image: /blog/curso-b1/unit-30/review-map.png
 alt: Repaso 26–29 — ejercicios B1 Unidad 30

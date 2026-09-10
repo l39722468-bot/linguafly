@@ -6,18 +6,12 @@ excerpt: >-
   impersonales y causativas, más ejemplos para exámenes B2-C1.
 keywords:
   - Voz Pasiva en Inglés: Guía Completa y Ejemplos
+  - estructura pasiva ingles
   - voz pasiva en ingles
-  - gramática inglesa gratis
   - voz pasiva en inglés explicada con ejemplos
   - cómo pasar de activa a pasiva en inglés
   - ejercicios gratis de voz pasiva inglesa
   - voz pasiva en inglés para exámenes B2 C1
-  - guía gratuita de todos los tiempos en pasiva
-  - voz pasiva inglesa todos los tiempos verbales
-  - ejercicios de voz pasiva con soluciones B2 C1
-  - tabla de voz pasiva en inglés para estudiar
-  - pasivas impersonales y causativas en inglés
-  - cómo convertir frases activas en pasivas
 date: '2026-03-02'
 updatedDate: '2026-09-04'
 category: gramatica

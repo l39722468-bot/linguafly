@@ -13,14 +13,12 @@ keywords:
   - ropa colores ejercicios B1
   - mixed grammar clothes
   - would rather comparative
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios ropa y colores inglés B1
   - gramática mixta B1 con soluciones
   - ejercicios would rather comparatives
   - vocabulario clothes and colours B1
-  - practicar inglés describiendo ropa
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-57-mixed-grammar-clothes-colours-ejercicios-soluciones'
 image: /blog/curso-b1/unit-57/mixed-grammar-map.png
 alt: "Mixed Grammar: Clothes — ejercicios B1 Unidad 57"

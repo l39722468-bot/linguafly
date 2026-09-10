@@ -9,15 +9,15 @@ description: >-
 readTime: 25 min
 keywords:
   - Ejercicios de Salud y Should en Inglés A1
-  - ejercicios should shouldn't salud
+  - 'ejercicios should shouldn''t salud'
   - headache fever cold A1
   - medicine pharmacy doctor
-  - curso A1 Linguafly
-  - ejercicios should shouldn't inglés A1
+  - 'ejercicios should shouldn''t inglés A1'
   - vocabulario salud y enfermedades inglés básico
   - consejos de salud en inglés con should
   - frases para ir al médico en inglés A1
   - práctica partes del cuerpo y síntomas inglés
+  - Ejercicios de Salud y Should en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-58-salud-should-ejercicios-soluciones'
 image: /blog/curso-a1/unit-58/a1-unit58-should-shouldnt.png
 alt: should y shouldn't para ejercicios A1 Unidad 58

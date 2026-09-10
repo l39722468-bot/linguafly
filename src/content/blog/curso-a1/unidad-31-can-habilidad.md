@@ -9,13 +9,16 @@ description: >-
   preguntas, respuestas, audio y ejercicios para practicar.
 readTime: 15 min
 keywords:
-  - can can't A1
+  - 'can can''t A1'
   - can for ability
   - can you swim
   - I can speak English
   - inglés A1 unidad 31
-  - can't drive
+  - 'can''t drive'
   - modal can A1
+  - 'Can y Can''t A1'
+  - can habilidad en inglés A1
+  - can habilidad inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-31-can-habilidad'
 image: /blog/curso-a1/unit-31/a1-unit31-can-cant.png
 alt: Esquema can can't para habilidad en inglés nivel A1

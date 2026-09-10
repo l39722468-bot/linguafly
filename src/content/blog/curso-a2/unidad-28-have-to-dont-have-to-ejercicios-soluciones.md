@@ -9,15 +9,15 @@ description: >-
 readTime: 25 min
 keywords:
   - Ejercicios de Have To y Don’t Have To en Inglés A2
-  - ejercicios have to don't have to
-  - has to doesn't have to
+  - 'ejercicios have to don''t have to'
+  - 'has to doesn''t have to'
   - obligaciones A2
-  - curso A2 Linguafly
   - ejercicios have to y don’t have to A2
   - diferencia obligación y no obligación inglés
   - cómo usar has to y doesn’t have to
   - frases de obligación en inglés básico
   - práctica have to con soluciones A2
+  - Ejercicios de Have To y Dont Have To en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-28-have-to-dont-have-to-ejercicios-soluciones'
 image: /blog/curso-a2/unit-28/a2-unit28-have-to.png
 alt: Have to / Don't have to — ejercicios A2 Unidad 28

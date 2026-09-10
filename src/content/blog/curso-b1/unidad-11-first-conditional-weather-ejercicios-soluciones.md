@@ -12,14 +12,12 @@ keywords:
   - first conditional ejercicios
   - if it rains I will
   - weather vocabulary ejercicios
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios First Conditional inglés B1
   - cláusulas temporales when as soon as until
   - vocabulario del tiempo atmosférico B1
   - cómo usar If it rains I will
-  - práctica condicional y weather con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-11-first-conditional-weather-ejercicios-soluciones'
 image: /blog/curso-b1/unit-11/first-conditional.png
 alt: First conditional & Weather — ejercicios B1 Unidad 11

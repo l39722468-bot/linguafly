@@ -13,12 +13,12 @@ keywords:
   - ejercicios past continuous
   - was were -ing
   - I was watching
-  - curso A2 Linguafly
   - ejercicios Past Continuous inglés A2
   - cómo usar was were más ing
   - frases I was watching con ejercicios
   - pasado continuo inglés para principiantes
   - práctica Past Continuous con soluciones
+  - Ejercicios de Past Continuous en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-16-past-continuous-ejercicios-soluciones'
 image: /blog/curso-a2/unit-16/a2-unit16-past-continuous.png
 alt: Past Continuous para ejercicios A2 Unidad 16

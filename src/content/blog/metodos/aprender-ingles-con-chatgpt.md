@@ -11,9 +11,14 @@ category: metodos
 readTime: 13 min
 alt: Persona usando ChatGPT en un laptop para practicar inglés
 keywords:
-  - Aprender Inglés con ChatGPT: Guía y Prompts
+  - 'Aprender Inglés con ChatGPT: Guía y Prompts'
   - aprender ingles con chatgpt
-  - curso inglés gratis online
+  - Aprender Inglés con ChatGPT
+  - Aprender Inglés con ChatGPT guía práctica
+  - Aprender Inglés con ChatGPT con ejemplos prácticos
+  - Aprender Inglés con ChatGPT para hispanohablantes
+  - Aprender Inglés con ChatGPT explicado paso a paso
+  - Aprender Ingles con ChatGPT con ejemplos practicos
 faqs:
   - question: ¿Es efectivo aprender inglés con ChatGPT?
     answer: >-

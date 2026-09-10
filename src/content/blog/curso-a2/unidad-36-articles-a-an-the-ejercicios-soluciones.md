@@ -9,16 +9,16 @@ description: >-
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - Ejercicios de Artículos A, An y The en Inglés A2
+  - 'Ejercicios de Artículos A, An y The en Inglés A2'
   - articles a an the ejercicios
   - definite indefinite article
   - zero article inglés
-  - curso A2 Linguafly
   - ejercicios artículos a an the inglés A2
   - cuándo usar the o sin artículo
   - diferencia artículo definido e indefinido
   - zero article inglés con ejemplos
   - práctica artículos ingleses con soluciones
+  - 'Ejercicios de Articulos A, An y The en Ingles A2'
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-36-articles-a-an-the-ejercicios-soluciones'
 image: /blog/curso-a2/unit-36/a2-unit36-articles.png
 alt: Articles a/an/the — ejercicios A2 Unidad 36

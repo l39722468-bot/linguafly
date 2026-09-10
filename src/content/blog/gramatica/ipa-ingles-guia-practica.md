@@ -13,12 +13,14 @@ alt: Cuadro fonético internacional del inglés en papel
 keywords:
   - 'IPA para Inglés: Cómo Leer Símbolos y Mejorar'
   - como usar IPA para aprender ingles
-  - gramática inglesa gratis
   - cómo usar el IPA para mejorar la pronunciación inglesa
   - guía práctica gratuita del alfabeto fonético inglés
   - símbolos IPA del inglés para hispanohablantes
   - aprender transcripción fonética inglesa paso a paso
   - ejercicios de IPA gratis para aprender inglés
+  - IPA para Inglés
+  - IPA para Ingles
+  - ipa ingles guia practica
 faqs:
   - question: ¿Cuánto tiempo lleva aprender el IPA del inglés?
     answer: >-

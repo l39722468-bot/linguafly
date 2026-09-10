@@ -12,12 +12,12 @@ keywords:
   - ejercicios seasons in spring
   - spring summer autumn winter
   - in winter in summer A1
-  - curso A1 Linguafly
   - ejercicios estaciones del año inglés A1
   - vocabulario spring summer autumn winter
   - cómo usar in con estaciones en inglés
   - frases sobre las estaciones inglés básico
   - práctica seasons inglés para principiantes
+  - Ejercicios de las Estaciones del Ano en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-45-estaciones-in-spring-ejercicios-soluciones'
 image: /blog/curso-a1/unit-45/a1-unit45-in-seasons.png
 alt: In + estación para ejercicios A1 Unidad 45

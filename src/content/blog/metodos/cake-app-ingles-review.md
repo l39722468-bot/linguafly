@@ -13,7 +13,14 @@ alt: Persona joven usando el móvil para aprender inglés con vídeos cortos en 
 keywords:
   - 'Cake App para Aprender Inglés: Opiniones 2026'
   - Cake app inglés
-  - curso inglés gratis online
+  - Cake App para Aprender Inglés
+  - Cake App para Aprender Ingles
+  - Cake App para Aprender Inglés guía práctica
+  - 'Cake App review 2026: aprende inglés con vídeos cortos de contenido real'
+  - Cake App para Aprender Inglés con ejemplos prácticos
+  - Cake App para Aprender Inglés para hispanohablantes
+  - Cake App para Aprender Inglés explicado paso a paso
+  - Cake App para Aprender Ingles con ejemplos practicos
 faqs:
   - question: '¿Cake app es completamente gratuita?'
     answer: >-

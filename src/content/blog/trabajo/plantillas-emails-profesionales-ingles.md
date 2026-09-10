@@ -13,7 +13,14 @@ readTime: 5 min
 keywords:
   - 20 Plantillas de Emails Profesionales en Inglés
   - emails profesionales ingles
-  - inglés de negocios gratis
+  - 20 Plantillas de Emails Profesionales en Ingles
+  - plantillas emails profesionales ingles para el trabajo
+  - plantillas emails profesionales ingles
+  - 20 Plantillas de Emails Profesionales en Inglés con ejemplos
+  - frases de plantillas emails profesionales ingles
+  - cómo escribir plantillas emails profesionales ingles
+  - plantillas emails profesionales ingles para trabajar
+  - 20 Plantillas de Emails Profesionales en Inglés con ejemplos prácticos
 faqs:
   - question: ¿Cuál es la diferencia entre "Kind regards" y "Best regards"?
     answer: >-

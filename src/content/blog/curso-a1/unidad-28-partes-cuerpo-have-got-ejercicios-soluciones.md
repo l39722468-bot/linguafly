@@ -14,7 +14,11 @@ keywords:
   - have got has got exercises
   - this these body parts
   - partes del cuerpo inglés
-  - curso A1 Linguafly
+  - Partes del Cuerpo A1
+  - partes cuerpo have got en inglés A1
+  - partes cuerpo have got inglés A1
+  - ejercicios de partes cuerpo have got en inglés A1
+  - partes cuerpo have got ejercicios con soluciones A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-28-partes-cuerpo-have-got-ejercicios-soluciones'
 image: /blog/curso-a1/unit-28/a1-unit28-body-parts.png
 alt: Body Parts para ejercicios A1 Unidad 28

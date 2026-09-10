@@ -12,14 +12,12 @@ keywords:
   - modal passive ejercicios
   - must be done
   - work jobs vocabulary ejercicios
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios modal passive inglés B1
   - cómo usar must be done en inglés
   - passive voice con modales B1
   - vocabulario trabajos y profesiones inglés
-  - práctica must should can be done
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-17-modal-passive-work-ejercicios-soluciones'
 image: /blog/curso-b1/unit-17/modal-passive.png
 alt: Modal Passive & Work — ejercicios B1 Unidad 17

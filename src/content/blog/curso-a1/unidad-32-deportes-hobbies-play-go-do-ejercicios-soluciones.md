@@ -14,7 +14,6 @@ keywords:
   - sports hobbies exercises
   - play football go swimming
   - do yoga inglés
-  - curso A1 Linguafly
   - ejercicios deportes y hobbies inglés A1
   - diferencia play go do actividades
   - vocabulario deportes en inglés básico

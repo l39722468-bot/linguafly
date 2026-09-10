@@ -13,12 +13,14 @@ alt: Palabras en inglés con marcas de acento tónico
 keywords:
   - 'Word Stress en Inglés: Acento Tónico y Reglas'
   - word stress ingles
-  - ejercicios de inglés gratis
   - qué es el word stress en inglés con ejemplos
   - ejercicios gratis de acento tónico inglés
   - cómo identificar la sílaba tónica en inglés
   - word stress para hispanohablantes
   - reglas del acento de palabra en inglés
+  - Word Stress en Inglés
+  - Word Stress en Ingles
+  - word stress ingles acento tonico
 faqs:
   - question: ¿Qué es el word stress?
     answer: >-

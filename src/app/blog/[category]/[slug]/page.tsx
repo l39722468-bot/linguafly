@@ -14,7 +14,7 @@ import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
 import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
 import { CopyProtection } from "@/components/blog/CopyProtection";
 import { BlogArticlePdfDownload } from "@/components/blog/BlogArticlePdfDownload";
-import { normalizeCategory, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog-paths";
+import { normalizeCategory, resolveTopicHref } from "@/lib/blog-paths";
 import {
   getPublishedArticle,
   getRelatedPublishedArticles,
@@ -27,6 +27,8 @@ import { JsonLd } from "@/components/seo/JsonLd";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import { articleDatesDiffer, formatArticleDate } from "@/lib/seo/article-dates";
 import { getArticleOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
+import { uniqueSearchQueries } from "@/lib/seo/search-queries";
+import { RelatedSearches } from "@/components/blog/RelatedSearches";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
@@ -59,6 +61,10 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   // Title y description salen del frontmatter (description = meta; excerpt = tarjetas).
   const seoTitle = optimizeSEOTitle(article.title);
   const metaDescription = article.description || article.excerpt;
+  const searchQueries = uniqueSearchQueries({
+    title: article.title,
+    keywords: article.keywords,
+  }, 20);
   const og = ogImageMeta(seoTitle, getArticleOgImagePath(article));
   const canonicalUrl =
     article.canonical ||
@@ -68,7 +74,7 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   return {
     title: seoTitle,
     description: metaDescription,
-    keywords: article.keywords || [],
+    keywords: searchQueries.length ? searchQueries : article.keywords || [],
     authors: [{ name: article.author }],
     openGraph: {
       title: seoTitle,
@@ -80,7 +86,7 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
       modifiedTime,
       authors: [article.author],
       section: article.category,
-      tags: article.keywords,
+      tags: searchQueries.length ? searchQueries : article.keywords,
       images: og.images,
     },
     twitter: {
@@ -125,7 +131,10 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     dateModified: article.updatedDate || article.date,
     slug,
     category: normalizedCategory,
-    keywords: article.keywords,
+    keywords: uniqueSearchQueries({
+      title: article.title,
+      keywords: article.keywords,
+    }, 20),
     wordCount,
     inLanguage: contentLanguage,
     author: article.authorData ? {
@@ -526,17 +535,12 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
                   {/* Post Footer */}
                   <div className="p-8 lg:p-12 bg-slate-50/50 border-t border-slate-100 print-hidden">
-                    <div className="flex flex-wrap gap-2 mb-8">
-                      {article.keywords?.filter(Boolean).map((keyword, i) => (
-                        <Link 
-                          key={i} 
-                          href={getCanonicalTopicPath(keyword, normalizedCategory)}
-                          className="px-3 py-1 bg-white border border-slate-200 rounded-lg text-xs font-medium text-slate-600 hover:border-coral-300 hover:text-coral-600 transition-all hover:shadow-sm"
-                        >
-                          #{keyword?.toString().replace(/\s+/g, '')}
-                        </Link>
-                      ))}
-                    </div>
+                    <RelatedSearches
+                      title={article.title}
+                      keywords={article.keywords}
+                      category={normalizedCategory}
+                      slug={article.slug}
+                    />
                   </div>
                 </div>
 

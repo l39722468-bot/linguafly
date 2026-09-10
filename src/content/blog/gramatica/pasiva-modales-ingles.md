@@ -9,14 +9,16 @@ excerpt: >-
   en pasiva aparecen constantemente en inglés formal y en exámenes. Aquí tienes
   la guía que necesitas.
 keywords:
-  - Pasiva con Verbos Modales en Inglés: Guía y Ejemplos
+  - 'Pasiva con Verbos Modales en Inglés: Guía y Ejemplos'
   - pasiva verbos modales ingles
-  - ejercicios de inglés gratis
   - cómo formar la pasiva con verbos modales
   - must be should be could be en pasiva
   - ejercicios gratis de pasiva con modales
   - pasiva modal en inglés con ejemplos
   - voz pasiva con can must y should B1 B2
+  - Pasiva con Verbos Modales en Inglés
+  - Pasiva con Verbos Modales en Ingles
+  - pasiva modales ingles
 author: linguafly-team
 date: '2026-02-17'
 updatedDate: '2026-09-04'

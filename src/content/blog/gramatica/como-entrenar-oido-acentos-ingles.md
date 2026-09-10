@@ -13,13 +13,14 @@ alt: Persona con auriculares entrenando la comprensión auditiva del inglés
 keywords:
   - Cómo Entrenar el Oído para Entender Acentos
   - como entender acentos ingles
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - cómo entender diferentes acentos del inglés
   - ejercicios gratis de listening con acentos ingleses
   - entrenar el oído para inglés australiano y escocés
   - técnicas para mejorar la comprensión auditiva inglesa
   - cómo acostumbrarse a los acentos nativos en inglés
+  - como entrenar oido acentos ingles
+  - cuándo usar como entrenar oido acentos ingles
+  - como entrenar oido acentos ingles con ejemplos para hispanohablantes
 faqs:
   - question: ¿Por qué entiendo bien el inglés americano pero no el australiano o el escocés?
     answer: >-

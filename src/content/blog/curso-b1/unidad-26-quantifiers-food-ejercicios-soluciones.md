@@ -12,14 +12,12 @@ keywords:
   - quantifiers ejercicios B1
   - much many few little
   - food drink vocabulary
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios cuantificadores inglés B1
   - diferencia much many few little
   - cómo usar a lot of en inglés
   - vocabulario comida y bebida B1
-  - práctica quantifiers con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-26-quantifiers-food-ejercicios-soluciones'
 image: /blog/curso-b1/unit-26/quantifiers.png
 alt: Quantifiers & Food — ejercicios B1 Unidad 26

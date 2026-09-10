@@ -15,6 +15,9 @@ keywords:
   - inglés B1 unidad 29
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - Reflexive Pronouns B1 + Personal Experiences
+  - reflexive pronouns en inglés B1
+  - reflexive pronouns inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-29-reflexive-pronouns'
 image: /blog/curso-b1/unit-29/reflexives.png
 alt: 'Reflexive pronouns B1'

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'LinkedIn en Inglés 2026: Cómo Optimizar'
 date: '2026-01-30'
 updatedDate: '2026-08-31'
@@ -15,7 +15,14 @@ alt: >-
 keywords:
   - 'LinkedIn en Inglés: Cómo Optimizar'
   - optimizar linkedin inglés
-  - inglés de negocios gratis
+  - LinkedIn en Inglés 2026
+  - LinkedIn en Ingles 2026
+  - linkedin ingles para el trabajo
+  - linkedin ingles profesional
+  - LinkedIn en Inglés 2026 con ejemplos
+  - frases de linkedin ingles profesional
+  - cómo escribir linkedin ingles
+  - linkedin ingles para trabajar
 canonical: 'https://linguafly.app/blog/trabajo/linkedin-ingles-guia'
 faqs:
   - question: ¿Cómo pongo mi perfil de LinkedIn en dos idiomas?

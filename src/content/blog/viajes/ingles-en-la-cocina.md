@@ -13,7 +13,14 @@ alt: Cocina profesional con utensilios y alimentos preparados
 keywords:
   - 'Inglés en la Cocina: Vocabulario y Frases'
   - ingles en la cocina
-  - frases en inglés gratis
+  - Inglés en la Cocina
+  - ingles en la cocina para viajar
+  - frases de ingles en la cocina
+  - Inglés en la Cocina para viajeros
+  - ingles en la cocina aeropuerto hotel restaurante
+  - Inglés en la Cocina con ejemplos prácticos
+  - Inglés en la Cocina para hispanohablantes
+  - Inglés en la Cocina explicado paso a paso
 faqs:
   - question: ¿Cómo se convierten las temperaturas del horno en recetas americanas?
     answer: >-

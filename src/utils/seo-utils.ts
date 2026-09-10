@@ -8,6 +8,11 @@ export interface KeywordLink {
 }
 
 export const SEO_KEYWORD_LINKS: KeywordLink[] = [
+  { keyword: "present perfect or past simple", url: "/blog/gramatica/present-perfect-vs-past-simple" },
+  { keyword: "present perfect vs past simple", url: "/blog/gramatica/present-perfect-vs-past-simple" },
+  { keyword: "condicionales en inglés", url: "/blog/gramatica/condicionales-ingles-guia-completa" },
+  { keyword: "for and since", url: "/blog/gramatica/present-perfect-since-for" },
+  { keyword: "formal email structure", url: "/blog/trabajo/email-formal-ingles-estructura" },
   { keyword: "aprender ingles gratis", url: "/blog/metodos/apps-ingles-gratuitas-vs-pago" },
   { keyword: "ingles para el trabajo", url: "/blog/trabajo" },
   { keyword: "ingles para viajar", url: "/blog/viajes" },

@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Networking en Inglés: Frases para Eventos Profesionales'
 date: '2026-01-30'
 updatedDate: '2026-09-04'
@@ -15,9 +15,16 @@ alt: >-
 canonical: >-
   https://linguafly.app/blog/trabajo/ingles-networking-eventos-internacionales
 keywords:
-  - Networking en Inglés: Frases para Eventos Profesionales
+  - 'Networking en Inglés: Frases para Eventos Profesionales'
   - frases networking inglés
-  - inglés de negocios gratis
+  - Networking en Inglés
+  - Networking en Ingles
+  - ingles networking eventos internacionales para el trabajo
+  - ingles networking eventos internacionales profesional
+  - Networking en Inglés con ejemplos
+  - frases de ingles networking eventos internacionales profesional
+  - cómo escribir ingles networking eventos internacionales
+  - ingles networking eventos internacionales para trabajar
 faqs:
   - question: ¿De qué puedo hablar en el 'small talk'?
     answer: >-

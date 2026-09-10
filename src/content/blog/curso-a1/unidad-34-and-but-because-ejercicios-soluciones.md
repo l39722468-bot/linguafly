@@ -9,16 +9,16 @@ description: >-
   contraste, con reading, listening, writing y soluciones comentadas.
 readTime: 25 min
 keywords:
-  - Ejercicios de And, But y Because en Inglés A1
+  - 'Ejercicios de And, But y Because en Inglés A1'
   - ejercicios and but because
   - conectores inglés A1
   - because subject verb
-  - curso A1 Linguafly
   - ejercicios conectores and but because A1
   - cómo unir frases en inglés básico
   - because para expresar razones en inglés
   - diferencia and but because ejercicios
   - práctica conectores inglés A1 con soluciones
+  - 'Ejercicios And, But y Because A1'
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-34-and-but-because-ejercicios-soluciones'
 image: /blog/curso-a1/unit-34/a1-unit34-and-but-because.png
 alt: And but because para ejercicios A1 Unidad 34

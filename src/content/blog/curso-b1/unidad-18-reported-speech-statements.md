@@ -14,6 +14,10 @@ keywords:
   - communication vocabulary
   - inglés B1 unidad 18
   - curso inglés B1 gratis
+  - reported speech statements en inglés B1
+  - reported speech statements inglés B1
+  - cómo usar reported speech statements en inglés B1
+  - ejemplos de reported speech statements en inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-18-reported-speech-statements'
 image: /blog/curso-b1/unit-18/reported-statements.png
 alt: 'Reported speech statements B1'

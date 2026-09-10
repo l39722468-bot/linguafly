@@ -12,9 +12,16 @@ category: viajes
 readTime: 9 min
 alt: Fotógrafo viajero capturando un atardecer desde un mirador
 keywords:
-  - Fotografía de Viaje: Vocabulario y Frases en Inglés
+  - 'Fotografía de Viaje: Vocabulario y Frases en Inglés'
   - ingles fotografia viaje
-  - inglés para viajar gratis
+  - Qué Inglés Necesitas para Fotografiar tus Viajes
+  - Que Ingles Necesitas para Fotografiar tus Viajes
+  - ingles fotografia viaje para viajar
+  - frases de ingles fotografia viaje
+  - ingles fotografia viaje aeropuerto hotel restaurante
+  - Qué Inglés Necesitas para Fotografiar tus Viajes con ejemplos prácticos
+  - Qué Inglés Necesitas para Fotografiar tus Viajes para hispanohablantes
+  - Qué Inglés Necesitas para Fotografiar tus Viajes explicado paso a paso
 canonical: 'https://linguafly.app/blog/viajes/ingles-fotografia-viaje'
 faqs:
   - question: ¿Cómo pido a alguien que me haga una foto en inglés?

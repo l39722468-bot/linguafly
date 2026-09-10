@@ -8,14 +8,16 @@ excerpt: >-
   Aprende a usar las preposiciones de movimiento en inglés con precisión. Guía
   académica con ejemplos prácticos, comparativas y lista imprimible.
 keywords:
-  - Preposiciones de Movimiento en Inglés: Guía
+  - 'Preposiciones de Movimiento en Inglés: Guía'
   - preposiciones en ingles
-  - ejercicios de inglés gratis
   - preposiciones de movimiento en inglés con ejemplos
   - ejercicios gratis de to into across y through
   - diferencia entre in into on y onto en inglés
   - preposiciones de movimiento para exámenes Cambridge
   - guía visual de preposiciones inglesas B1 B2
+  - Preposiciones de Movimiento en Inglés
+  - Preposiciones de Movimiento en Ingles
+  - preposiciones movimiento ingles
 author: linguafly-team
 date: '2026-03-02'
 updatedDate: '2026-09-04'

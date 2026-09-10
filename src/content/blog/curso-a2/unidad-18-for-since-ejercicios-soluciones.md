@@ -12,12 +12,12 @@ keywords:
   - ejercicios for since
   - I have lived for
   - since 2020
-  - curso A2 Linguafly
   - ejercicios for y since Present Perfect A2
   - diferencia for y since en inglés
   - cómo usar I have lived for
   - expresiones de duración desde cuándo inglés
   - práctica for since con soluciones
+  - Ejercicios de For y Since en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-18-for-since-ejercicios-soluciones'
 image: /blog/curso-a2/unit-18/a2-unit18-for-since.png
 alt: For & Since para ejercicios A2 Unidad 18

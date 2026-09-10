@@ -15,6 +15,10 @@ keywords:
   - How long ago
   - inglés A2 unidad 19
   - preguntas How inglés
+  - how questions en inglés A2
+  - how questions inglés A2
+  - cómo usar how questions en inglés A2
+  - ejemplos de how questions en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-19-how-questions'
 image: /blog/curso-a2/unit-19/a2-unit19-how-questions.png
 alt: Esquema de preguntas How en inglés A2

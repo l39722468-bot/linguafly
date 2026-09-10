@@ -11,13 +11,14 @@ excerpt: >-
 keywords:
   - 'Zero Conditional en Inglés: Cuándo Usarlo'
   - zero conditional ingles
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - cómo usar el zero conditional en inglés
   - ejercicios gratis de zero conditional con respuestas
   - zero conditional ejemplos de hechos generales
   - diferencia entre zero y first conditional
   - zero conditional para niveles A2 B1
+  - Zero Conditional en Inglés
+  - Zero Conditional en Ingles
+  - cuándo usar zero conditional ingles
 author: linguafly-team
 date: '2026-02-04'
 updatedDate: '2026-09-04'

@@ -15,10 +15,16 @@ alt: >-
   Persona sentada en una roca mirando un mapa con el mar de fondo durante un
   viaje
 keywords:
-  - Curso de Inglés para Viajar: Plan de 6 Semanas por Niveles
+  - 'Curso de Inglés para Viajar: Plan de 6 Semanas por Niveles'
   - mejor curso de ingles para viajar
   - plan de estudio ingles para viajar
   - cronograma aprender ingles antes de viajar
+  - Curso de Inglés para Viajar
+  - Curso de Ingles para Viajar
+  - frases de curso de ingles para viajar
+  - curso de ingles para viajar aeropuerto hotel restaurante
+  - Curso de Inglés para Viajar con ejemplos prácticos
+  - Curso de Inglés para Viajar para hispanohablantes
 faqs:
   - question: ¿Cuánto dura este plan de inglés para viajar?
     answer: >-

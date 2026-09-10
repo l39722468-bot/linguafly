@@ -7,14 +7,16 @@ readTime: 5 min
 excerpt: >-
   Compara “I was given a gift” y “A gift was given to me” y aprende cuándo usar cada estructura pasiva en inglés.
 keywords:
-  - Pasiva con Doble Objeto en Inglés: Guía y Ejemplos
+  - 'Pasiva con Doble Objeto en Inglés: Guía y Ejemplos'
   - pasiva doble objeto ingles
-  - gramática inglesa gratis
   - pasiva con dos objetos en inglés ejemplos
   - ejercicios gratis de pasiva con doble objeto
   - pasiva de objeto directo e indirecto
   - cómo usar give send y show en pasiva
   - diferencia entre las dos pasivas con give
+  - Pasiva con Doble Objeto en Inglés
+  - Pasiva con Doble Objeto en Ingles
+  - cuándo usar pasiva doble objeto ingles
 author: linguafly-team
 date: '2026-02-26'
 updatedDate: '2026-09-04'

@@ -13,7 +13,14 @@ readTime: 5 min
 keywords:
   - 'Job Interview English: Técnicas Avanzadas'
   - job interview english
-  - inglés de negocios gratis
+  - job interview english consejos avanzados en inglés para el trabajo
+  - job interview english consejos avanzados en inglés profesional
+  - Job Interview English con ejemplos
+  - frases de job interview english consejos avanzados profesional
+  - cómo escribir job interview english consejos avanzados en inglés
+  - job interview english consejos avanzados en ingles para trabajar
+  - Job Interview English con ejemplos prácticos
+  - Job Interview English para hispanohablantes
 faqs:
   - question: ¿Cuál es la diferencia entre una entrevista competencial y una técnica?
     answer: >-

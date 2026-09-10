@@ -10,6 +10,14 @@ excerpt: >-
 keywords:
   - 'Inglés como Lingua Franca: Guía y Acentos'
   - inglés lingua franca ELF
+  - Inglés como Lingua Franca
+  - Ingles como Lingua Franca
+  - Inglés como Lingua Franca para aprender inglés
+  - Inglés como Lingua Franca guía práctica
+  - cómo mejorar el inglés con Inglés como Lingua Franca
+  - Inglés como Lingua Franca con ejemplos prácticos
+  - Inglés como Lingua Franca para hispanohablantes
+  - Inglés como Lingua Franca explicado paso a paso
 author: linguafly-team
 date: '2026-03-02'
 updatedDate: '2026-09-04'

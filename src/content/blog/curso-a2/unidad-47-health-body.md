@@ -15,6 +15,10 @@ keywords:
   - should advice English
   - inglés A2 unidad 47
   - pharmacy vocabulary
+  - Salud en Inglés A2
+  - Salud en Ingles A2
+  - health body en inglés A2
+  - health body inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-47-health-body'
 image: /blog/curso-a2/unit-47/a2-unit47-health-body.png
 alt: Esquema Health & Body A2

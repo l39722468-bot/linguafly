@@ -9,12 +9,16 @@ description: >-
   going to… y will. Guía Unidad 44 con audios, pronósticos y ejercicios.
 readTime: 15 min
 keywords:
-  - The Weather A2: Vocabulario, Pronóstico y Predicciones
+  - 'The Weather A2: Vocabulario, Pronóstico y Predicciones'
   - sunny rainy cloudy
-  - it's going to rain
+  - 'it''s going to rain'
   - inglés A2 unidad 44
   - weather forecast English
   - temperature Celsius
+  - The Weather A2
+  - 'what''s the weather like'
+  - sunny cloudy windy
+  - weather forecast English A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-44-the-weather'
 image: /blog/curso-a2/unit-44/a2-unit44-the-weather.png
 alt: Esquema The Weather A2

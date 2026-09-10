@@ -6,13 +6,14 @@ excerpt: "Prepara el Listening del CAE con estrategias para sus cuatro partes, c
 keywords:
   - 'Listening C1 Advanced: Estrategias para el CAE'
   - listening c1 advanced trucos
-  - preparar inglés gratis
-  - material de inglés gratis
   - estrategias Listening Cambridge C1 Advanced
   - ejercicios gratis de Listening CAE con respuestas
   - cómo preparar las cuatro partes del Listening C1
   - acentos del Listening del examen CAE
   - cómo tomar notas en el Listening Advanced
+  - Listening CAE
+  - listening cae consejos examen de inglés
+  - Listening CAE España
 author: linguafly-team
 date: '2026-03-09'
 updatedDate: '2026-09-04'

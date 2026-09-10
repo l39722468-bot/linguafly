@@ -12,15 +12,16 @@ excerpt: >-
   Te explicamos cuál elegir según tu objetivo: oposición, trabajo, estudio en
   el extranjero o habilitación docente. Precios y reconocimiento en 2026.
 keywords:
-  - Cambridge, IELTS, APTIS o EOI: ¿Cuál Elegir?
+  - 'Cambridge, IELTS, APTIS o EOI: ¿Cuál Elegir?'
   - aptis vs cambridge
-  - preparar inglés gratis
-  - material de inglés gratis
   - comparar certificados de inglés en España
   - Cambridge IELTS Aptis cuál elegir
   - certificado inglés para oposiciones
   - precios y validez certificados inglés
   - mejor examen inglés para trabajar
+  - 'Cambridge, IELTS, APTIS o EOI'
+  - 'Cambridge, IELTS, APTIS o EOI España'
+  - 'Cambridge, IELTS, APTIS o EOI con ejemplos prácticos'
 alt: 'Diplomas y certificados de inglés comparados sobre una mesa de trabajo'
 canonical: 'https://linguafly.app/blog/examenes/dele-vs-cambridge-vs-ielts-vs-aptis'
 faqs:

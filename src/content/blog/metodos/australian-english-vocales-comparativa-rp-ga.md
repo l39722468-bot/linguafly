@@ -11,7 +11,14 @@ readTime: 22 min
 keywords:
   - 'Australian English: Vocales y Fonética Comparada'
   - australian english fonética
-  - curso inglés gratis online
+  - Australian English
+  - Australian English para aprender inglés
+  - Australian English guía práctica
+  - cómo mejorar el inglés con Australian English
+  - Australian English en ingles
+  - Australian English con ejemplos prácticos
+  - Australian English para hispanohablantes
+  - Australian English explicado paso a paso
 alt: Mapa y brújula sobre superficie de madera viajera
 excerpt: >-
   Introducción práctica a la fonética del inglés australiano: vocales, ejemplos

@@ -8,14 +8,16 @@ excerpt: >-
   entiendan, aunque todas las demás consonantes y vocales sean perfectas. Aquí
   tienes las reglas principales para acertar con el acento de palabra.
 keywords:
-  - Acento de Palabra en Inglés: Reglas y Ejemplos
+  - 'Acento de Palabra en Inglés: Reglas y Ejemplos'
   - acento palabra inglés
-  - ejercicios de inglés gratis
   - reglas del acento de palabra en inglés
   - ejercicios gratis de word stress con ejemplos
   - acento tónico en sustantivos y verbos ingleses
   - cómo saber dónde va el acento en inglés
   - patrones de acentuación inglesa y sufijos
+  - Acento de Palabra en Inglés
+  - Acento de Palabra en Ingles
+  - word stress ingles reglas
 author: linguafly-team
 date: '2026-02-17'
 updatedDate: '2026-09-04'

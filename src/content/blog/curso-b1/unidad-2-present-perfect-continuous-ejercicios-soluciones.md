@@ -22,12 +22,16 @@ faqs:
   question: ¿Dónde practico en el curso?
 image: /blog/curso-b1/unit-2/ppc-formula.png
 keywords:
-- Ejercicios de Present Perfect Continuous en Inglés B1
-- Present Perfect Continuous ejercicios
-- have has been ing
-- for since B1
-- curso B1 Linguafly
-- curso inglés B1 gratis
+  - Ejercicios de Present Perfect Continuous en Inglés B1
+  - Present Perfect Continuous ejercicios
+  - have has been ing
+  - for since B1
+  - curso inglés B1 gratis
+  - Ejercicios de Present Perfect Continuous en Ingles B1
+  - present perfect continuous en inglés B1
+  - present perfect continuous inglés B1
+  - present perfect continuous ejercicios con soluciones B1
+  - práctica present perfect continuous inglés B1
 readTime: 25 min
 related_routes:
 - unidad-2-present-perfect-continuous

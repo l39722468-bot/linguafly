@@ -16,6 +16,10 @@ keywords:
   - inglés A2 unidad 36
   - definite indefinite article
   - sin artículo inglés
+  - Artículos A2
+  - articles a an the en inglés A2
+  - articles a an the inglés A2
+  - cómo usar articles a an the en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-36-articles-a-an-the'
 image: /blog/curso-a2/unit-36/a2-unit36-articles.png
 alt: Esquema de artículos a an the A2

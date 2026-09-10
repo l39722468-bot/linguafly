@@ -16,6 +16,9 @@ keywords:
   - inglés A1 unidad 48
   - guided tour monument statue
   - sightseeing vocabulary
+  - sightseeing superlativos en inglés A1
+  - sightseeing superlativos inglés A1
+  - cómo usar sightseeing superlativos en inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-48-sightseeing-superlativos'
 image: /blog/curso-a1/unit-48/a1-unit48-superlatives.png
 alt: Esquema de superlativos básicos para sightseeing en inglés A1

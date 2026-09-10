@@ -14,7 +14,14 @@ readTime: 5 min
 keywords:
   - Inglés Técnico para Ingeniería Civil e Industrial
   - ingles ingenieria civil
-  - inglés de negocios gratis
+  - Inglés Técnico para Ingeniería
+  - Ingles Tecnico para Ingenieria
+  - ingles tecnico ingenieria civil industrial para el trabajo
+  - ingles tecnico ingenieria civil industrial profesional
+  - Inglés Técnico para Ingeniería con ejemplos
+  - frases de ingles tecnico ingenieria civil industrial profesional
+  - cómo escribir ingles tecnico ingenieria civil industrial
+  - ingles tecnico ingenieria civil industrial para trabajar
 faqs:
   - question: ¿Cuáles son las normas técnicas internacionales más importantes que debo conocer en inglés?
     answer: >-

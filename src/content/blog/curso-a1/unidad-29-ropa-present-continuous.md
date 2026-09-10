@@ -16,6 +16,9 @@ keywords:
   - inglés A1 unidad 29
   - what are you wearing
   - trousers plural
+  - Ropa en Inglés A1
+  - Ropa en Ingles A1
+  - ropa present continuous en inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-29-ropa-present-continuous'
 image: /blog/curso-a1/unit-29/a1-unit29-clothes.png
 alt: Esquema clothes I am wearing Present Continuous en inglés A1

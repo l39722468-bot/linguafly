@@ -14,6 +14,12 @@ keywords:
   - cómo empezar a estudiar idiomas
   - método para aprender idiomas
   - hábito de estudio de idiomas
+  - Cómo empezar a aprender un idioma desde cero
+  - Cómo empezar a aprender un idioma desde cero paso a paso
+  - plan de 14 días para aprender idiomas
+  - vocabulario activo vs pasivo en idiomas
+  - Cómo empezar a aprender un idioma desde cero con ejemplos prácticos
+  - Cómo empezar a aprender un idioma desde cero para hispanohablantes
 excerpt: >-
   Empieza con un bloque corto, vocabulario que vas a usar y exposición diaria.
   El objetivo de las primeras semanas no es fluidez: es no dejarlo.

@@ -8,18 +8,16 @@ description: >-
   Practica todos los ejercicios de la Unidad 40 del curso B1: so/such, compounds, contrast y purpose/reason (mix U36–39); intensifiers, travel, opinions,...
 readTime: 25 min
 keywords:
-  - Repaso de Adjetivos, Contraste y Finalidad B1
+  - 'Repaso de Adjetivos, Contraste y Finalidad B1'
   - repaso B1 36-39
   - so such review
   - contrast purpose review
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios repaso unidades 36 a 39 B1
   - revisión so such y adjetivos compuestos
   - repaso contraste finalidad y causa inglés
   - intensificadores y opiniones B1
-  - examen práctico gramática B1 con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-40-repaso-36-39-ejercicios-soluciones'
 image: /blog/curso-b1/unit-40/review-map.png
 alt: Repaso 36–39 — ejercicios B1 Unidad 40

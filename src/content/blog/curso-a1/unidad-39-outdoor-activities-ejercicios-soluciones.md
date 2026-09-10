@@ -13,12 +13,12 @@ keywords:
   - ejercicios outdoor activities
   - going camping hiking cycling
   - present continuous planes A1
-  - curso A1 Linguafly
   - ejercicios actividades al aire libre inglés
   - vocabulario camping hiking cycling inglés
   - Present Continuous para planes A1
   - frases outdoor activities en inglés básico
   - práctica camping y hiking con soluciones
+  - Ejercicios Outdoor Activities A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-39-outdoor-activities-ejercicios-soluciones'
 image: /blog/curso-a1/unit-39/a1-unit39-present-continuous-plans.png
 alt: Present Continuous planes outdoor activities A1 Unidad 39

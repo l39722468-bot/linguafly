@@ -11,14 +11,16 @@ category: gramatica
 readTime: 6 min
 alt: Paisaje de Nueva Zelanda con el cielo estrellado representando la diversidad del inglés
 keywords:
-  - Inglés de Nueva Zelanda: Acento, Vocabulario y Claves
+  - 'Inglés de Nueva Zelanda: Acento, Vocabulario y Claves'
   - ingles nueva zelanda caracteristicas
-  - ejercicios de inglés gratis
   - características del inglés neozelandés
   - cómo entender el acento de Nueva Zelanda
   - diferencias entre inglés neozelandés y australiano
   - vocabulario kiwi English con ejemplos
   - ejercicios gratis de listening neozelandés
+  - Inglés de Nueva Zelanda
+  - Ingles de Nueva Zelanda
+  - cuándo usar ingles nueva zelanda caracteristicas
 faqs:
   - question: ¿El inglés de Nueva Zelanda es igual al australiano?
     answer: >-

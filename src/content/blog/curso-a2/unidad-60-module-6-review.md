@@ -15,6 +15,10 @@ keywords:
   - inglés A2 unidad 60
   - technology work places
   - linking words review
+  - module 6 en inglés A2
+  - module 6 inglés A2
+  - cómo usar module 6 en inglés A2
+  - ejemplos de module 6 en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-60-module-6-review'
 image: /blog/curso-a2/unit-60/a2-unit60-module-6-review.png
 alt: Esquema de repaso del Módulo 6 A2

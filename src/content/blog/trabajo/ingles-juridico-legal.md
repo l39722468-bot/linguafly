@@ -13,6 +13,14 @@ alt: Documentos legales y mazo de juez sobre un escritorio de abogado
 keywords:
   - 'Inglés Jurídico y Legal: Vocabulario Profesional'
   - ingles juridico legal
+  - Inglés Jurídico y Legal
+  - Ingles Juridico y Legal
+  - ingles juridico legal para el trabajo
+  - ingles juridico legal profesional
+  - Inglés Jurídico y Legal con ejemplos
+  - frases de ingles juridico legal profesional
+  - cómo escribir ingles juridico legal
+  - ingles juridico legal para trabajar
 faqs:
   - question: ¿Qué diferencia hay entre "law" y "legislation"?
     answer: >-

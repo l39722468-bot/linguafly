@@ -8,18 +8,16 @@ description: >-
   Practica todos los ejercicios de la Unidad 55 del curso B1: conditionals, passive/reported, modals, tenses (mix U51–54); mixed topics (mix), reading,...
 readTime: 25 min
 keywords:
-  - Repaso de Condicionales, Pasiva y Tiempos B1
+  - 'Repaso de Condicionales, Pasiva y Tiempos B1'
   - repaso B1 51-54
   - conditionals passive modals review
   - tenses mixed review
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - repaso gramática B1 unidades 51 a 54
   - ejercicios conditionals passive modals
   - ejercicios tenses B1 con soluciones
   - repaso global gramática inglesa B1
-  - práctica mixta examen B1 gratis
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-55-repaso-51-54-ejercicios-soluciones'
 image: /blog/curso-b1/unit-55/review-map.png
 alt: Repaso 51–54 — ejercicios B1 Unidad 55

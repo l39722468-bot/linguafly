@@ -12,14 +12,12 @@ keywords:
   - ciudad campo ejercicios B1
   - mixed grammar places
   - there are relative where
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios ciudad y campo inglés B1
   - gramática mixta places B1
   - there is there are ejercicios B1
   - relative clauses where ejercicios
-  - vocabulario town countryside inglés
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-58-mixed-grammar-places-ejercicios-soluciones'
 image: /blog/curso-b1/unit-58/mixed-grammar-map.png
 alt: "Mixed Grammar: Places — ejercicios B1 Unidad 58"

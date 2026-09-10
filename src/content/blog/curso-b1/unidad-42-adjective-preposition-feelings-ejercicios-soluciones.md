@@ -12,14 +12,12 @@ keywords:
   - adjective preposition ejercicios
   - interested in afraid of
   - feelings attitudes vocabulary
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios adjetivos y preposiciones inglés B1
   - diferencia interested in afraid of good at
   - lista adjective prepositions con ejemplos
   - vocabulario feelings and attitudes B1
-  - práctica adjective preposition con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-42-adjective-preposition-feelings-ejercicios-soluciones'
 image: /blog/curso-b1/unit-42/adj-preposition.png
 alt: Adj + Preposition & Feelings — ejercicios B1 Unidad 42

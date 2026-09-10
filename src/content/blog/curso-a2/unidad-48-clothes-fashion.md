@@ -15,6 +15,10 @@ keywords:
   - casual formal outfit
   - inglés A2 unidad 48
   - vocabulary clothes English
+  - Ropa en Inglés A2
+  - Ropa en Ingles A2
+  - 'Ropa en Inglés A2: Wear, Outfit y Too vs Enough'
+  - 'Ropa en Inglés A2: Wear, Outfit y Too versus Enough'
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-48-clothes-fashion'
 image: /blog/curso-a2/unit-48/a2-unit48-clothes-fashion.png
 alt: Esquema Clothes & Fashion A2

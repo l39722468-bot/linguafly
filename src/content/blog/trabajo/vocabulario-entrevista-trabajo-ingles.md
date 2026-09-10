@@ -11,6 +11,14 @@ excerpt: >-
 keywords:
   - vocabulario esencial entrevista trabajo inglés
   - palabras clave inglés profesional entrevista laboral
+  - Vocabulario Esencial para Entrevistas de Trabajo en Inglés
+  - Vocabulario Esencial para Entrevistas de Trabajo en Ingles
+  - vocabulario entrevista trabajo ingles para el trabajo
+  - vocabulario entrevista trabajo ingles profesional
+  - Vocabulario Esencial para Entrevistas de Trabajo en Inglés con ejemplos
+  - frases de vocabulario entrevista trabajo ingles profesional
+  - cómo escribir vocabulario entrevista trabajo ingles
+  - vocabulario entrevista trabajo ingles para trabajar
 author: linguafly-team
 date: '2026-02-08'
 updatedDate: '2026-08-31'

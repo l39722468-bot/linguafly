@@ -1,4 +1,4 @@
-﻿---
+---
 category: curso-b2
 date: '2026-08-31'
 updatedDate: '2026-09-04'

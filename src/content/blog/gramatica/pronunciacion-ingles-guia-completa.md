@@ -9,9 +9,8 @@ excerpt: >-
   guía completa dominarás los sonidos clave, el word stress y la entonación para
   hablar con confianza.
 keywords:
-  - Pronunciación en Inglés: Guía Completa desde Cero
+  - 'Pronunciación en Inglés: Guía Completa desde Cero'
   - pronunciacion ingles guia completa
-  - ejercicios de inglés gratis
   - cómo mejorar la pronunciación en inglés gratis
   - guía de pronunciación inglesa para hispanohablantes
   - sonidos del inglés y fonemas con ejemplos
@@ -20,8 +19,6 @@ keywords:
   - pronunciación inglesa desde cero paso a paso
   - ejercicios gratis de pronunciación para hispanohablantes
   - cómo pronunciar los sonidos difíciles del inglés
-  - guía completa de fonética inglesa con ejemplos
-  - mejorar pronunciación acento y entonación en inglés
 author: linguafly-team
 date: '2026-03-05'
 updatedDate: '2026-09-04'

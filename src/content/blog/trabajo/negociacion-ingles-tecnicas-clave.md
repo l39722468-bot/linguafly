@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'Negociación en Inglés: Estrategias para Acuerdos'
 date: '2026-01-30'
 updatedDate: '2026-09-04'
@@ -15,7 +15,14 @@ canonical: >-
 keywords:
   - 'Negociación en Inglés: Estrategias para Acuerdos'
   - negociación en inglés
-  - inglés de negocios gratis
+  - Negociacion en Ingles
+  - negociacion ingles tecnicas clave para el trabajo
+  - negociacion ingles tecnicas clave profesional
+  - Negociación en Inglés con ejemplos
+  - frases de negociacion ingles tecnicas clave profesional
+  - cómo escribir negociacion ingles tecnicas clave
+  - negociacion ingles tecnicas clave para trabajar
+  - Negociación en Inglés con ejemplos prácticos
 faqs:
   - question: ¿Cómo puedo sonar firme pero educado en una negociación?
     answer: >-

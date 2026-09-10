@@ -11,13 +11,14 @@ excerpt: >-
 keywords:
   - 'Pares Mínimos en Inglés: Ejercicio y Lista'
   - pares minimos ingles
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - pares mínimos en inglés para mejorar pronunciación
   - ejercicios gratis de pares mínimos con audio
   - lista de minimal pairs ingleses con IPA
   - cómo entrenar el oído con pares mínimos
   - pares mínimos para hispanohablantes
+  - Pares Mínimos en Inglés
+  - Pares Minimos en Ingles
+  - cuándo usar pares minimos ingles
 author: linguafly-team
 date: '2026-02-20'
 updatedDate: '2026-08-31'

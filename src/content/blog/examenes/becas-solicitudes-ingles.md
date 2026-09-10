@@ -14,12 +14,14 @@ alt: Persona escribiendo una solicitud de beca frente a un ordenador portátil
 keywords:
   - 'Becas y Solicitudes en Inglés: Cómo Aplicar'
   - becas solicitudes ingles
-  - preparar inglés gratis
   - cómo escribir Personal Statement en inglés
   - carta de motivación para beca internacional
   - solicitud de beca universitaria en inglés
   - modelo referencia académica en inglés
   - vocabulario para solicitar becas en inglés
+  - Solicitar Becas en Inglés
+  - Solicitar Becas en Ingles
+  - becas solicitudes ingles examen de inglés
 faqs:
   - question: ¿Qué es un Personal Statement y cómo se diferencia de una carta de motivación?
     answer: >-

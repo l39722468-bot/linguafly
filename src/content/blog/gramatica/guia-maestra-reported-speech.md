@@ -9,9 +9,8 @@ description: >-
   cambios de tiempo y reporting verbs para niveles B2, C1 y C2.
 readTime: 5 min
 keywords:
-  - Reported Speech: Guía Completa B2, C1 y C2
+  - 'Reported Speech: Guía Completa B2, C1 y C2'
   - reported speech
-  - ejercicios de inglés gratis
   - reported speech en inglés explicado con ejemplos
   - reglas del estilo indirecto en inglés B2 C1
   - reporting verbs en inglés con ejercicios gratis
@@ -20,8 +19,6 @@ keywords:
   - reported speech completo para exámenes B2 C1 C2
   - ejercicios gratis de estilo indirecto con respuestas
   - cambios de tiempos pronombres y expresiones de tiempo
-  - reported speech y reporting verbs en inglés avanzado
-  - cómo pasar frases directas a indirectas paso a paso
 canonical: 'https://linguafly.app/blog/gramatica/guia-maestra-reported-speech'
 alt: Guía maestra sobre estilo indirecto en inglés
 faqs:

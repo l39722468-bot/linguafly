@@ -11,12 +11,14 @@ readTime: 7 min
 keywords:
   - 'IELTS Speaking: Cómo Preparar las 3 Partes'
   - ielts speaking
-  - preparar inglés gratis
   - cómo preparar las tres partes del IELTS Speaking
   - estrategias gratis para IELTS Speaking Band 7
   - IELTS Speaking Part 2 cómo hacer el monólogo
   - criterios de evaluación del IELTS Speaking
   - errores que bajan la nota en IELTS Speaking
+  - ielts speaking estrategias examen de inglés
+  - IELTS Speaking España
+  - cómo preparar ielts speaking estrategias en inglés
 excerpt: >-
   El IELTS Speaking es cara a cara con un examinador humano: 11-14 minutos donde cada pausa larga, cada muletilla repetida y cada frase incompleta cuenta. Pero también tiene una estructura muy predecible que puedes preparar.
 faqs:

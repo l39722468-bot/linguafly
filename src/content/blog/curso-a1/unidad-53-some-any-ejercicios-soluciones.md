@@ -14,7 +14,12 @@ keywords:
   - ejercicios some any
   - a bottle of water A1
   - a box of cereal
-  - curso A1 Linguafly
+  - Ejercicios de Some y Any en Ingles A1
+  - some any en inglés A1
+  - some any inglés A1
+  - ejercicios de some any en inglés A1
+  - some any ejercicios con soluciones A1
+  - práctica some any inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-53-some-any-ejercicios-soluciones'
 image: /blog/curso-a1/unit-53/a1-unit53-some-any.png
 alt: Some y any para ejercicios A1 Unidad 53

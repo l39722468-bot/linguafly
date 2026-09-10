@@ -12,13 +12,14 @@ readTime: 5 min
 keywords:
   - 'Reporting Verbs Patterns: Lista Completa'
   - reporting verbs c1
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - reporting verbs con gerundio infinitivo y that
   - lista de reporting verbs C1 con ejemplos
   - ejercicios gratis de reporting verbs
   - patrones gramaticales de say tell suggest y advise
   - reporting verbs para writing y speaking avanzado
+  - Reporting Verbs Patterns
+  - reporting verbs patterns list en inglés
+  - reporting verbs patterns list en ingles
 canonical: 'https://linguafly.app/blog/gramatica/reporting-verbs-patterns-list'
 alt: Lista de patrones de verbos de reporte
 faqs:

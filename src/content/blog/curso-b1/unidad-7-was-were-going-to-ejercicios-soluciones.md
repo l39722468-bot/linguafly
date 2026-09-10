@@ -12,9 +12,12 @@ keywords:
   - was were going to ejercicios
   - planes no realizados
   - I was going to
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - Ejercicios de Was/Were Going To en Ingles B1
+  - was were going to en inglés B1
+  - was were going to inglés B1
+  - ejercicios de was were going to en inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-7-was-were-going-to-ejercicios-soluciones'
 image: /blog/curso-b1/unit-7/was-were-going-to.png
 alt: Was/were going to — ejercicios B1 Unidad 7

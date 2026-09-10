@@ -11,13 +11,14 @@ readTime: 6 min
 keywords:
   - 'May y Might en Inglés: Diferencias y Usos'
   - may might ingles diferencia
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - diferencia entre may y might con ejemplos
   - ejercicios gratis de may y might con soluciones
   - cómo expresar posibilidad en inglés con may might
   - may para pedir permiso en inglés formal
   - may might para niveles B1 B2
+  - May y Might en Inglés
+  - May y Might en Ingles
+  - may might ingles
 excerpt: >-
   May y might son los dos modales que más se parecen entre sí. Ambos expresan posibilidad, pero hay diferencias de grado, de registro y de uso que vale la pena conocer. Especialmente en los usos de may para permiso y en las formas perfectas.
 faqs:

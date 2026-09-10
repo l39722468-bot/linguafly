@@ -7,10 +7,8 @@ readTime: 5 min
 excerpt: >-
   Usa el Second Conditional para consejos, peticiones corteses e hipótesis reales de trabajo y conversación, no solo para hablar de ganar la lotería.
 keywords:
-  - Second Conditional en Inglés: Guía y Ejemplos
+  - 'Second Conditional en Inglés: Guía y Ejemplos'
   - second conditional ingles
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - second conditional en inglés con ejemplos
   - cómo usar if I were you en inglés
   - ejercicios gratis de second conditional
@@ -19,8 +17,6 @@ keywords:
   - second conditional ejercicios con soluciones
   - cómo usar if I were you para dar consejos
   - second conditional para situaciones hipotéticas
-  - diferencia entre was y were en second conditional
-  - segundo condicional inglés para conversación B1 B2
 author: linguafly-team
 date: '2026-02-10'
 updatedDate: '2026-09-04'

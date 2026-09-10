@@ -13,9 +13,16 @@ category: viajes
 readTime: 15 min
 alt: Recepcionista de hotel profesional atendiendo una llamada y sonriendo
 keywords:
-  - Inglés para Recepcionistas de Hotel: Guía 2026
+  - 'Inglés para Recepcionistas de Hotel: Guía 2026'
+  - recepcionista en ingles
+  - recepcionista en inglés
   - inglés para hoteles
-  - inglés para viajar gratis
+  - inglés para recepcionistas
+  - Inglés para Recepcionistas de Hotel
+  - Ingles para Recepcionistas de Hotel
+  - ingles para recepcionistas para viajar
+  - frases de ingles para recepcionistas
+  - ingles para recepcionistas aeropuerto hotel restaurante
 faqs:
   - question: ¿Cómo pido el pasaporte de forma educada?
     answer: >-

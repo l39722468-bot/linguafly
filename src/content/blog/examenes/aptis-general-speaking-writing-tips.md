@@ -13,12 +13,14 @@ readTime: 7 min
 keywords:
   - 'Aptis General: Consejos de Speaking y Writing'
   - aptis speaking consejos
-  - material de inglés gratis
   - consejos Aptis General Speaking y Writing
   - cómo mejorar la nota del speaking Aptis
   - ejercicios gratis de Aptis Writing con ejemplos
   - respuestas Aptis B1 B2 para practicar
   - errores frecuentes del Aptis Speaking y Writing
+  - Aptis General
+  - aptis general speaking writing tips examen de inglés
+  - Aptis General España
 faqs:
   - question: ¿Cuántas palabras debo escribir en el Writing del Aptis General?
     answer: >-

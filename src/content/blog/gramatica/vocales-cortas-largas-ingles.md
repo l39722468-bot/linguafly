@@ -9,14 +9,16 @@ excerpt: >-
   completo el significado de una palabra. Aquí tienes la guía práctica para
   dominar las vocales cortas y largas sin confundirte.
 keywords:
-  - Vocales Cortas y Largas en Inglés: Pronunciación
+  - 'Vocales Cortas y Largas en Inglés: Pronunciación'
   - vocales cortas inglés
-  - ejercicios de inglés gratis
   - diferencia entre vocales cortas y largas en inglés
   - ejercicios gratis de vocales inglesas con ejemplos
   - pares mínimos de vocales cortas y largas
   - cómo distinguir vocales largas y cortas al escuchar
   - pronunciación de vocales inglesas para hispanohablantes
+  - Vocales Cortas y Largas en Inglés
+  - Vocales Cortas y Largas en Ingles
+  - vocales cortas largas ingles
 author: linguafly-team
 date: '2026-02-08'
 updatedDate: '2026-09-04'

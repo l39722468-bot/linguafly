@@ -9,11 +9,16 @@ description: >-
   reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - Ejercicios de At, On e In en Inglés A2
+  - 'Ejercicios de At, On e In en Inglés A2'
   - ejercicios at on in tiempo
   - preposiciones de tiempo A2
-  - at 7 o'clock on Monday in August
-  - curso A2 Linguafly
+  - 'at 7 o''clock on Monday in August'
+  - 'Ejercicios de At, On e In en Ingles A2'
+  - preposiciones tiempo at on in en inglés A2
+  - preposiciones tiempo at on in inglés A2
+  - ejercicios de preposiciones tiempo at on in en inglés A2
+  - preposiciones tiempo at on in ejercicios con soluciones A2
+  - práctica preposiciones tiempo at on in inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-8-preposiciones-tiempo-at-on-in-ejercicios-soluciones'
 image: /blog/curso-a2/unit-8/a2-unit8-prepositions-time.png
 alt: Preposiciones de tiempo para ejercicios A2 Unidad 8

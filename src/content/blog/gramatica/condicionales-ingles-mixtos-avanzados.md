@@ -8,14 +8,16 @@ excerpt: >-
   Aprende cuándo y cómo usarlos con esta guía avanzada llena de ejemplos reales
   y ejercicios resueltos.
 keywords:
-  - Mixed Conditionals en Inglés: Guía y Ejemplos
+  - 'Mixed Conditionals en Inglés: Guía y Ejemplos'
   - condicionales mixtos ingles
-  - ejercicios de inglés gratis
   - mixed conditionals en inglés con ejemplos
   - ejercicios gratis de condicionales mixtos
   - diferencia entre mixed conditionals tipo A y B
   - mixed conditionals para Cambridge C1 C2
   - cómo formar condicionales mixtos en inglés
+  - Mixed Conditionals en Inglés
+  - Mixed Conditionals en Ingles
+  - condicionales ingles mixtos avanzados
 author: linguafly-team
 date: '2026-03-05'
 updatedDate: '2026-09-04'

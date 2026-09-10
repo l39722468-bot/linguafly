@@ -15,6 +15,10 @@ keywords:
   - inglés A2 unidad 27
   - condicional cero
   - general truths English
+  - zero conditional en inglés A2
+  - zero conditional inglés A2
+  - ejercicios de zero conditional en inglés A2
+  - zero conditional ejercicios con soluciones A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-27-zero-conditional'
 image: /blog/curso-a2/unit-27/a2-unit27-zero-conditional.png
 alt: Esquema del Zero Conditional A2

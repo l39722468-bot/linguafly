@@ -9,9 +9,8 @@ excerpt: >-
   más usados en inglés con ejemplos sencillos, traducciones y ejercicios para
   nivel A1 y A2.
 keywords:
-  - Phrasal Verbs Básicos: Guía A1-A2 para Principiantes
+  - 'Phrasal Verbs Básicos: Guía A1-A2 para Principiantes'
   - phrasal verbs
-  - ejercicios de inglés gratis
   - phrasal verbs básicos en inglés A1 A2
   - lista de phrasal verbs para principiantes con ejemplos
   - ejercicios de phrasal verbs gratis con soluciones
@@ -20,8 +19,6 @@ keywords:
   - phrasal verbs A1 A2 fáciles para empezar
   - lista gratuita de phrasal verbs básicos ingleses
   - ejercicios de phrasal verbs para principiantes con respuestas
-  - phrasal verbs cotidianos explicados en español
-  - cómo aprender phrasal verbs desde cero paso a paso
 author: linguafly-team
 date: '2026-03-06'
 updatedDate: '2026-09-04'

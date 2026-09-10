@@ -10,15 +10,15 @@ description: >-
 readTime: 25 min
 keywords:
   - Ejercicios de Will y Won’t en Inglés A2
-  - ejercicios will won't
+  - 'ejercicios will won''t'
   - I will help you
   - promesas predicciones A2
-  - curso A2 Linguafly
   - ejercicios will y won’t inglés A2
   - cómo hacer promesas y ofertas en inglés
   - frases I will help you con ejercicios
   - diferencia will y going to A2
   - práctica predicciones con will soluciones
+  - Ejercicios de Will y Wont en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-23-will-wont-predicciones-promesas-ejercicios-soluciones'
 image: /blog/curso-a2/unit-23/a2-unit23-will-wont.png
 alt: "Will / Won't — ejercicios A2 Unidad 23"

@@ -12,7 +12,6 @@ readTime: 6 min
 keywords:
   - 'Present Perfect Continuous: Cuándo Usarlo'
   - cuando usar present perfect continuous
-  - ejercicios de inglés gratis
   - present perfect continuous en inglés con ejemplos
   - diferencia entre present perfect simple y continuous
   - present perfect continuous ejercicios gratis
@@ -21,8 +20,6 @@ keywords:
   - present perfect continuous ejercicios con respuestas
   - cómo formar have been verbos terminados en ing
   - present perfect continuous para acciones recientes
-  - present perfect simple o continuous cuándo usar
-  - guía gratuita present perfect continuous B1 B2
 excerpt: >-
   Have/has been + -ing: descubre cuándo usar el Present Perfect Continuous
   frente al simple, con patrones claros que te ayudan a elegir.

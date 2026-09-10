@@ -9,15 +9,16 @@ excerpt: >-
   dominar el Reading, Writing y cómo usar la IA para practicar el Speaking sin
   profesor.
 keywords:
-  - B1 Cambridge: Cómo Prepararlo por tu Cuenta
+  - 'B1 Cambridge: Cómo Prepararlo por tu Cuenta'
   - preparar b1 cambridge solo
-  - preparar inglés gratis
-  - material de inglés gratis
   - cómo preparar Cambridge B1 por tu cuenta
   - plan de estudio gratis para B1 Preliminary
   - recursos oficiales Cambridge PET gratuitos
   - preparar Speaking B1 sin profesor
   - ejercicios de Reading y Writing B1 con soluciones
+  - B1 Cambridge
+  - preparar b1 cambridge por cuenta propia examen de inglés
+  - B1 Cambridge España
 date: '2025-02-05'
 updatedDate: '2026-09-04'
 category: examenes

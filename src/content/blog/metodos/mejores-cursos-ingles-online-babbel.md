@@ -11,7 +11,14 @@ alt: 'Móvil con app de idiomas'
 keywords:
   - 'Babbel: ¿válido para IELTS o Cambridge?'
   - babbel ingles opinion
-  - curso inglés gratis online
+  - Babbel 2026
+  - Babbel 2026 para aprender inglés
+  - Babbel 2026 guía práctica
+  - cómo mejorar el inglés con Babbel 2026
+  - Babbel 2026 en ingles
+  - Babbel 2026 con ejemplos prácticos
+  - Babbel 2026 para hispanohablantes
+  - Babbel 2026 explicado paso a paso
 faqs:
   - question: '¿Babbel prepara para el B2 First o el IELTS?'
     answer: >-

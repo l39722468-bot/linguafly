@@ -13,12 +13,12 @@ keywords:
   - ejercicios very well quite well
   - talent skills inglés A1
   - good at bad at
-  - curso A1 Linguafly
   - ejercicios habilidades y talentos inglés A1
   - cómo usar good at y bad at
   - vocabulario skills en inglés básico
   - expresiones very well quite well inglés
   - práctica can para hablar de habilidades
+  - Ejercicios de Habilidades A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-37-talent-skills-ejercicios-soluciones'
 image: /blog/curso-a1/unit-37/a1-unit37-skill-levels.png
 alt: Niveles de habilidad very well quite well not at all A1 Unidad 37

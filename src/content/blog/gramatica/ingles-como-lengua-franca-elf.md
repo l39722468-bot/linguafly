@@ -11,14 +11,16 @@ category: gramatica
 readTime: 7 min
 alt: Reunión internacional de personas de distintos países comunicándose en inglés
 keywords:
-  - Inglés como Lengua Franca (ELF): Guía Completa
+  - 'Inglés como Lengua Franca (ELF): Guía Completa'
   - ELF fonologia
-  - ejercicios de inglés gratis
   - qué es el inglés como lengua franca
   - English as a Lingua Franca explicado
   - pronunciación ELF para comunicarse internacionalmente
   - ejercicios gratis de inglés internacional
   - diferencias entre inglés nativo y ELF
+  - Inglés como Lengua Franca
+  - Ingles como Lengua Franca
+  - ingles como lengua franca elf
 faqs:
   - question: ¿Qué es el inglés como lengua franca (ELF)?
     answer: >-

@@ -13,7 +13,12 @@ keywords:
   - ejercicios into out of through across
   - preposiciones de movimiento A2
   - through vs across
-  - curso A2 Linguafly
+  - Ejercicios de Preposiciones de Movimiento en Ingles A2
+  - preposiciones lugar movimiento en inglés A2
+  - preposiciones lugar movimiento inglés A2
+  - ejercicios de preposiciones lugar movimiento en inglés A2
+  - preposiciones lugar movimiento ejercicios con soluciones A2
+  - práctica preposiciones lugar movimiento inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento-ejercicios-soluciones'
 image: /blog/curso-a2/unit-9/a2-unit9-prepositions-movement.png
 alt: Preposiciones de movimiento para ejercicios A2 Unidad 9

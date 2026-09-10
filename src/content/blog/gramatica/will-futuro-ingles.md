@@ -10,10 +10,8 @@ category: gramatica
 alt: Estudiante aprendiendo el futuro con will en inglés
 readTime: 8 min
 keywords:
-  - Will en Inglés: Futuro, Predicciones y Ejemplos
+  - 'Will en Inglés: Futuro, Predicciones y Ejemplos'
   - will futuro ingles
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - cómo usar will para hablar del futuro en inglés
   - ejercicios de will futuro en inglés gratis
   - diferencia entre will going to y present continuous
@@ -22,8 +20,6 @@ keywords:
   - estructura de will en afirmativa negativa e interrogativa
   - ejercicios gratis de futuro con will y respuestas
   - cuándo usar will para decisiones espontáneas
-  - ejemplos de will para promesas y predicciones
-  - futuro con will para principiantes A2 B1
 excerpt: >-
   Will es el principal auxiliar para expresar el futuro en inglés: predicciones, expectativas, hechos futuros y decisiones en el momento. Aprende cuándo usarlo y cuándo preferir going to.
 faqs:

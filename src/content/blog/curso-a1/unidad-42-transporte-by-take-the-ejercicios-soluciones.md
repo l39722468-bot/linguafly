@@ -12,12 +12,12 @@ keywords:
   - ejercicios by bus take the train
   - transporte inglés A1
   - go by car by plane
-  - curso A1 Linguafly
   - ejercicios medios de transporte inglés A1
   - diferencia go by y take the inglés
   - vocabulario transporte público inglés básico
   - frases viajar en autobús tren avión inglés
   - práctica by bus take the train A1
+  - Ejercicios de Transporte en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-42-transporte-by-take-the-ejercicios-soluciones'
 image: /blog/curso-a1/unit-42/a1-unit42-by-transport.png
 alt: By + transporte para ejercicios A1 Unidad 42

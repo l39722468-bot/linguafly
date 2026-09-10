@@ -12,7 +12,6 @@ readTime: 7 min
 keywords:
   - 'Will vs Would en Inglés: Diferencias y Ejemplos'
   - will would diferencia ingles
-  - ejercicios de inglés gratis
   - diferencia entre will y would en inglés con ejemplos
   - ejercicios gratis de will y would con soluciones
   - cuándo usar would en peticiones y condicionales
@@ -21,8 +20,6 @@ keywords:
   - will y would ejercicios de gramática inglesa
   - diferencia entre will y would para hispanohablantes
   - would en peticiones corteses y situaciones hipotéticas
-  - usos de will y would con ejemplos cotidianos
-  - guía gratis de will vs would nivel B1 B2
 excerpt: >-
   Will y would se parecen, pero no son simplemente presente y pasado. Will habla del futuro real; would habla de hipótesis, cortesía y hábitos pasados. Entender la diferencia cambia cómo suenas en inglés.
 faqs:

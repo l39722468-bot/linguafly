@@ -11,9 +11,16 @@ category: viajes
 readTime: 10 min
 alt: Viajera contemplando una obra de arte en un museo internacional
 keywords:
-  - Inglés para Museos y Turismo Cultural: Guía
+  - 'Inglés para Museos y Turismo Cultural: Guía'
   - ingles para museos
-  - frases en inglés gratis
+  - Inglés para Museos y Turismo Cultural
+  - Ingles para Museos y Turismo Cultural
+  - ingles museos turismo cultural para viajar
+  - frases de ingles museos turismo cultural
+  - Inglés para Museos y Turismo Cultural para viajeros
+  - ingles museos turismo cultural aeropuerto hotel restaurante
+  - Inglés para Museos y Turismo Cultural con ejemplos prácticos
+  - Inglés para Museos y Turismo Cultural para hispanohablantes
 canonical: 'https://linguafly.app/blog/viajes/ingles-museos-turismo-cultural'
 faqs:
   - question: ¿Cómo compro entradas para un museo en inglés?
