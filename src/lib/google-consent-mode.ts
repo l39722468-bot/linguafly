@@ -30,11 +30,49 @@ export function isGaMeasurementId(value: string): boolean {
   return /^G-[A-Z0-9]+$/.test(value);
 }
 
-export function getGoogleTagScriptSrc(measurementId: string): string {
-  return `https://www.googletagmanager.com/gtag/js?id=${measurementId}`;
+/**
+ * Ruta first-party de Google Tag Gateway (Cloudflare).
+ * No usar `/metrics`: el Worker legado sirve JSON ahí.
+ * Vacía `NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH` para cargar googletagmanager.com.
+ */
+export const DEFAULT_GOOGLE_TAG_GATEWAY_PATH = '/gtag';
+
+const FORBIDDEN_GOOGLE_TAG_GATEWAY_PATHS = new Set(['', '/', '/metrics']);
+
+export function normalizeGoogleTagGatewayPath(raw: string): string | null {
+  const trimmed = raw.trim();
+  if (!trimmed) return null;
+  const withSlash = trimmed.startsWith('/') ? trimmed : `/${trimmed}`;
+  const normalized = withSlash.replace(/\/+$/, '') || '/';
+  if (
+    FORBIDDEN_GOOGLE_TAG_GATEWAY_PATHS.has(normalized) ||
+    normalized === '/metrics' ||
+    normalized.startsWith('/metrics/')
+  ) {
+    return DEFAULT_GOOGLE_TAG_GATEWAY_PATH;
+  }
+  if (normalized.includes('..') || !/^\/[A-Za-z0-9/_-]+$/.test(normalized)) {
+    return DEFAULT_GOOGLE_TAG_GATEWAY_PATH;
+  }
+  return normalized;
 }
 
-/** Snippet oficial de GA4 (el comprobador busca un <script src=gtag/js> y `gtag('config', 'G-…')`). */
+/** `null` = desactivado (snippet clásico a googletagmanager.com). */
+export function getGoogleTagGatewayPath(): string | null {
+  const raw = process.env.NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH;
+  if (raw === '') return null;
+  return normalizeGoogleTagGatewayPath(raw ?? DEFAULT_GOOGLE_TAG_GATEWAY_PATH);
+}
+
+export function getGoogleTagScriptSrc(measurementId: string): string {
+  const gatewayPath = getGoogleTagGatewayPath();
+  if (!gatewayPath) {
+    return `https://www.googletagmanager.com/gtag/js?id=${measurementId}`;
+  }
+  return `${gatewayPath}/`;
+}
+
+/** Snippet oficial de GA4 (el comprobador busca `gtag('config', 'G-…')`). */
 export function buildGoogleTagConfigScript(measurementId: string): string {
   return [
     'window.dataLayer = window.dataLayer || [];',

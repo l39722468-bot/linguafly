@@ -12,8 +12,8 @@ import { getGaTrackingId } from "@/lib/analytics";
  * Tres tags independientes (consent → gtag.js → config) hacen que React 19
  * reordene: `renderToStaticMarkup` y el HTML de Next hoist `<script async src>`
  * al inicio. El checker de GA4 Admin y Consent Mode exigen el orden oficial
- * y un atributo `src` estático a googletagmanager.com (no next/script / __next_s
- * y no document.createElement).
+ * y un `src` estático (Google Tag Gateway: `/gtag/`; fallback googletagmanager.com).
+ * No next/script / __next_s y no document.createElement.
  *
  * Un único `<script>` sin src/async, con breakout en innerHTML, serializa los
  * tres tags en orden. `async=""` (no solo `async`) coincide con el HTML nativo

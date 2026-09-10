@@ -96,5 +96,6 @@ describe("robots", () => {
     expect(disallow).not.toContain("/aprender-ingles");
     expect(disallow).toContain("/frases-en-ingles");
     expect(disallow).toContain("/vocabulario");
+    expect(disallow).toContain("/gtag");
   });
 });

@@ -4,8 +4,12 @@ import GoogleHeadScripts from '@/components/GoogleHeadScripts';
 import GoogleTag from '@/components/GoogleTag';
 import {
   GOOGLE_CONSENT_DEFAULT,
+  DEFAULT_GOOGLE_TAG_GATEWAY_PATH,
   buildGoogleConsentDefaultScript,
   buildGoogleTagConfigScript,
+  getGoogleTagGatewayPath,
+  getGoogleTagScriptSrc,
+  normalizeGoogleTagGatewayPath,
 } from '@/lib/google-consent-mode';
 
 describe('google-consent-mode', () => {
@@ -40,12 +44,43 @@ describe('GoogleConsentMode', () => {
 });
 
 describe('GoogleTag', () => {
+  const previousGatewayPath = process.env.NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH;
+
+  beforeEach(() => {
+    delete process.env.NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH;
+  });
+
+  afterEach(() => {
+    if (previousGatewayPath === undefined) {
+      delete process.env.NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH;
+    } else {
+      process.env.NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH = previousGatewayPath;
+    }
+  });
+
+  it('reserves /gtag for Google Tag Gateway and rejects /metrics', () => {
+    expect(DEFAULT_GOOGLE_TAG_GATEWAY_PATH).toBe('/gtag');
+    expect(normalizeGoogleTagGatewayPath('/metrics')).toBe('/gtag');
+    expect(normalizeGoogleTagGatewayPath('/metrics/health')).toBe('/gtag');
+    expect(getGoogleTagGatewayPath()).toBe('/gtag');
+    expect(getGoogleTagScriptSrc('G-ZNL3VGHK2E')).toBe('/gtag/');
+  });
+
+  it('falls back to googletagmanager.com when the gateway path is empty', () => {
+    process.env.NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH = '';
+    expect(getGoogleTagGatewayPath()).toBeNull();
+    expect(getGoogleTagScriptSrc('G-ZNL3VGHK2E')).toBe(
+      'https://www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E',
+    );
+  });
+
   it('emits the official Linguafly snippet once for the checker', () => {
     const html = renderToStaticMarkup(<GoogleTag />);
 
-    expect(html).toContain('src="https://www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E"');
+    expect(html).toContain('src="/gtag/"');
     expect(html).toContain("gtag('config', 'G-ZNL3VGHK2E')");
-    expect(html.match(/gtag\/js\?id=/g)).toHaveLength(1);
+    expect(html.match(/src="\/gtag\/"/g)).toHaveLength(1);
+    expect(html).not.toContain('www.googletagmanager.com');
     expect(html).not.toContain('__next_s');
     expect(html).not.toContain('data-nscript');
     expect(html).not.toContain('G-TNTG3MJ3TL');
@@ -55,14 +90,14 @@ describe('GoogleTag', () => {
   it('GoogleHeadScripts emite los 3 scripts nativos en el orden oficial, sin __next_s', () => {
     const html = renderToStaticMarkup(<GoogleHeadScripts />);
     expect(html).toContain('id="google-consent-default"');
-    expect(html).toContain('src="https://www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E"');
+    expect(html).toContain('src="/gtag/"');
     expect(html).toContain('async=""');
     expect(html).toContain('id="google-tag-config"');
     expect(html).toContain("gtag('config', 'G-ZNL3VGHK2E')");
     expect(html.indexOf('google-consent-default')).toBeLessThan(
-      html.indexOf('www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E')
+      html.indexOf('src="/gtag/"')
     );
-    expect(html.indexOf('www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E')).toBeLessThan(
+    expect(html.indexOf('src="/gtag/"')).toBeLessThan(
       html.indexOf('google-tag-config')
     );
     expect(html).not.toContain('__next_s');

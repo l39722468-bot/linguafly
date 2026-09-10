@@ -30,7 +30,7 @@ router.all('/api/articles/*', async (req, env: CloudflareEnv, ctx: ExecutionCont
   return articlesRouter.handle(req, env, ctx);
 });
 
-// Health metrics endpoint
+// Health metrics endpoint. Do not reuse `/metrics` for Google Tag Gateway.
 router.get('/metrics', async (req, env: CloudflareEnv, ctx: ExecutionContext) => {
   try {
     const db = new DatabaseClient(env, ctx);

@@ -48,6 +48,12 @@ export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const isStaticAsset = pathname.includes(".") || pathname.startsWith("/_next/");
   const isApi = pathname.startsWith("/api/");
+  const isGoogleTagGateway =
+    pathname === "/gtag" || pathname.startsWith("/gtag/");
+
+  if (isGoogleTagGateway) {
+    return NextResponse.next({ request });
+  }
 
   if (!isStaticAsset && !isApi) {
     const destUrl = indexedDestination(pathname, request.nextUrl.searchParams);
@@ -91,6 +97,6 @@ export async function middleware(request: NextRequest) {
 
 export const config = {
   matcher: [
-    "/((?!_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp|mp3|pdf)$).*)",
+    "/((?!_next/static|_next/image|favicon.ico|gtag(?:/|$)|.*\\.(?:svg|png|jpg|jpeg|gif|webp|mp3|pdf)$).*)",
   ],
 };
