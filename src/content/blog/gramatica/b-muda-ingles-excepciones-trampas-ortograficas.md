@@ -9,14 +9,16 @@ description: >-
   palabras con b muda y consejos para no equivocarte al escribir en exámenes.
 readTime: 22 min
 keywords:
-  - B Muda en Inglés: Excepciones y Trampas Ortográficas
+  - 'B Muda en Inglés: Excepciones y Trampas Ortográficas'
   - ortografía inglés excepciones
-  - gramática inglesa gratis
   - excepciones de la b muda en inglés
   - errores ortográficos con b silenciosa inglesa
   - ejercicios gratis de ortografía inglesa
   - diferencia entre palabras con b muda y b pronunciada
   - cómo evitar errores de spelling en inglés
+  - B Muda en Inglés
+  - B Muda en Ingles
+  - b muda ingles excepciones trampas ortograficas
 alt: Libro abierto sobre mesa
 excerpt: >-
   Evita trampas comunes: confundir *debit* y *debt*, olvidar la b en *doubt* o

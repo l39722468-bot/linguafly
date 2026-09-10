@@ -10,12 +10,14 @@ excerpt: >-
 keywords:
   - 'IELTS vs TOEFL: Diferencias y Cuál Elegir'
   - ielts vs toefl diferencias
-  - material de inglés gratis
   - diferencias IELTS y TOEFL para estudiar fuera
   - IELTS o TOEFL cuál es más fácil
   - qué examen elegir IELTS o TOEFL
   - precio y duración IELTS frente a TOEFL
   - requisitos IELTS TOEFL para universidades
+  - IELTS vs TOEFL
+  - IELTS versus TOEFL
+  - IELTS or TOEFL
 date: '2025-02-05'
 updatedDate: '2026-08-31'
 category: examenes

@@ -11,9 +11,16 @@ canonical: >-
   https://linguafly.app/blog/trabajo/ingles-medico-para-medicos-especialistas
 readTime: 5 min
 keywords:
-  - Inglés Médico para Médicos: Guía Profesional
+  - 'Inglés Médico para Médicos: Guía Profesional'
   - ingles para medicos
-  - inglés de negocios gratis
+  - Inglés Médico para Médicos
+  - Ingles Medico para Medicos
+  - ingles medico para medicos especialistas para el trabajo
+  - ingles medico para medicos especialistas profesional
+  - Inglés Médico para Médicos con ejemplos
+  - frases de ingles medico para medicos especialistas profesional
+  - cómo escribir ingles medico para medicos especialistas
+  - ingles medico para medicos especialistas para trabajar
 faqs:
   - question: ¿Qué nivel de inglés necesita un médico para publicar en revistas científicas internacionales?
     answer: >-

@@ -12,12 +12,12 @@ keywords:
   - ejercicios how much how many
   - how much is it A1
   - pound dollar euro
-  - curso A1 Linguafly
   - ejercicios how much how many A1 con soluciones
   - preguntas sobre precios en inglés A1
   - diferencias how much y how many
   - vocabulario dinero inglés para principiantes
   - práctica preguntas cantidad inglés A1
+  - Ejercicios de How Much y How Many en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-54-how-much-how-many-ejercicios-soluciones'
 image: /blog/curso-a1/unit-54/a1-unit54-how-much-many.png
 alt: How much y How many para ejercicios A1 Unidad 54

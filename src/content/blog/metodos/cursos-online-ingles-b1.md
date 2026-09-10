@@ -12,7 +12,14 @@ readTime: 6 min
 keywords:
   - 'Cursos Online de Inglés B1: Guía y Exámenes'
   - cursos online ingles b1
-  - curso inglés gratis online
+  - Cursos Online de Inglés B1
+  - Cursos Online de Ingles B1
+  - Cursos Online de Inglés B1 para aprender inglés
+  - Cursos Online de Inglés B1 guía práctica
+  - cómo mejorar el inglés con Cursos Online de Inglés B1
+  - Prepara tu examen B1 de inglés con nuestro curso online
+  - Cursos Online de Inglés B1 con ejemplos prácticos
+  - Cursos Online de Inglés B1 para hispanohablantes
 canonical: 'https://linguafly.app/blog/metodos/cursos-online-ingles-b1'
 related_routes:
   - preparacion-examen-b1-cambridge

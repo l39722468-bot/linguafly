@@ -12,12 +12,12 @@ keywords:
   - subject object questions ejercicios
   - Who saw you Who did you see
   - preguntas de sujeto inglés
-  - curso A2 Linguafly
   - ejercicios preguntas sujeto y objeto A2
   - diferencia Who saw you y Who did you see
   - cómo formar preguntas de objeto en inglés
   - preguntas con Who nivel A2
   - práctica subject object questions soluciones
+  - subject object questions en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-34-subject-object-questions-ejercicios-soluciones'
 image: /blog/curso-a2/unit-34/a2-unit34-subject-object.png
 alt: Subject & Object Questions — ejercicios A2 Unidad 34

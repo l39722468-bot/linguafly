@@ -8,13 +8,16 @@ description: >-
   Practica todos los ejercicios de la Unidad 9 del curso B1: used to / be used to / get used to; habits & lifestyle, reading, listening y writing.
 readTime: 25 min
 keywords:
-  - Ejercicios de Used To, Be Used To y Get Used To
+  - 'Ejercicios de Used To, Be Used To y Get Used To'
   - used to ejercicios B1
   - be used to get used to
   - habits lifestyle
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - aprender inglés B1 gratis
+  - used to be get used to en inglés B1
+  - used to be get used to inglés B1
+  - ejercicios de used to be get used to en inglés B1
+  - used to be get used to ejercicios con soluciones B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-9-used-to-be-get-used-to-ejercicios-soluciones'
 image: /blog/curso-b1/unit-9/used-to-trio.png
 alt: Used to / be used to / get used to — ejercicios B1 Unidad 9

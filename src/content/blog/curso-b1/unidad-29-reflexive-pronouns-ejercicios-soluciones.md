@@ -12,14 +12,12 @@ keywords:
   - reflexive pronouns ejercicios
   - myself yourself himself
   - personal experiences
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios pronombres reflexivos inglés B1
   - cómo usar myself yourself himself
   - reflexive pronouns con experiencias personales
   - diferencia pronombres objeto y reflexivos
-  - práctica reflexive pronouns con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-29-reflexive-pronouns-ejercicios-soluciones'
 image: /blog/curso-b1/unit-29/reflexives.png
 alt: Reflexive Pronouns & Experiences — ejercicios B1 Unidad 29

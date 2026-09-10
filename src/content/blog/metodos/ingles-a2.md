@@ -11,7 +11,13 @@ readTime: 6 min
 keywords:
   - 'Curso de Inglés A2 Online: Guía y Ejercicios'
   - curso inglés a2
-  - curso inglés gratis online
+  - Cómo Aprender Inglés A2
+  - Como Aprender Ingles A2
+  - Cómo Aprender Inglés A2 guía práctica
+  - Cómo Aprender Inglés A2 con ejemplos prácticos
+  - Cómo Aprender Inglés A2 para hispanohablantes
+  - Cómo Aprender Inglés A2 explicado paso a paso
+  - Como Aprender Ingles A2 con ejemplos practicos
 canonical: 'https://linguafly.app/blog/metodos/ingles-a2'
 related_routes:
   - ingles-a1

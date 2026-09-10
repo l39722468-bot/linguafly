@@ -11,12 +11,14 @@ excerpt: >-
 keywords:
   - 'Letras Mudas en Inglés: Lista de Ejemplos'
   - letras mudas ingles
-  - ejercicios de inglés gratis
   - lista completa de letras mudas inglesas
   - palabras con k w b y gh silenciosas
   - ejercicios gratis de letras mudas en inglés
   - reglas para reconocer letras mudas inglesas
   - pronunciación de knife write thumb y más
+  - Letras Mudas en Inglés
+  - Letras Mudas en Ingles
+  - letras mudas ingles lista
 author: linguafly-team
 date: '2026-02-23'
 updatedDate: '2026-09-04'

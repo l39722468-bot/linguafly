@@ -12,12 +12,12 @@ keywords:
   - ejercicios superlativos sightseeing
   - the most famous the oldest A1
   - museum monument guided tour
-  - curso A1 Linguafly
   - ejercicios superlativos inglés A1 con respuestas
   - vocabulario sightseeing y turismo en inglés
   - cómo usar the most en inglés básico
   - monumentos y visitas guiadas inglés A1
   - práctica superlativos inglés para principiantes
+  - Ejercicios de Superlativos y Turismo en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-48-sightseeing-superlativos-ejercicios-soluciones'
 image: /blog/curso-a1/unit-48/a1-unit48-superlatives.png
 alt: Superlativos sightseeing para ejercicios A1 Unidad 48

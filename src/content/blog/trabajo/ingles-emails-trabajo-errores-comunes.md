@@ -15,7 +15,14 @@ readTime: 5 min
 keywords:
   - 10 Errores en Emails Profesionales en Inglés
   - errores emails ingles trabajo
-  - inglés de negocios gratis
+  - 10 Errores en Emails Profesionales en Ingles
+  - ingles emails trabajo errores comunes para el trabajo
+  - ingles emails trabajo errores comunes profesional
+  - 10 Errores en Emails Profesionales en Inglés con ejemplos
+  - frases de ingles emails trabajo errores comunes profesional
+  - cómo escribir ingles emails trabajo errores comunes
+  - ingles emails trabajo errores comunes para trabajar
+  - 10 Errores en Emails Profesionales en Inglés con ejemplos prácticos
 faqs:
   - question: ¿Es correcto usar "Dear All" para dirigirse a un grupo?
     answer: >-

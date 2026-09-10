@@ -9,13 +9,14 @@ excerpt: >-
 keywords:
   - Errores Comunes con los Condicionales en Inglés
   - errores condicionales ingles
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - errores más comunes con los condicionales ingleses
   - ejercicios gratis de condicionales con soluciones
   - errores de if y will en inglés
   - cómo evitar errores en second y third conditional
   - condicionales ingleses para hispanohablantes
+  - Errores con Condicionales en Inglés
+  - Errores con Condicionales en Ingles
+  - condicionales ingles errores comunes
 author: linguafly-team
 date: '2026-02-25'
 updatedDate: '2026-09-04'

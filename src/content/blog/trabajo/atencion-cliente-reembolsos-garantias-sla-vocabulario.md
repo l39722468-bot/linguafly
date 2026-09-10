@@ -9,9 +9,16 @@ description: >-
   replacement, compensation y plazos sin prometer lo indebido.
 readTime: 22 min
 keywords:
-  - Inglés para Reembolsos, Garantías y SLA
+  - 'Inglés para Reembolsos, Garantías y SLA'
   - SLA inglés customer service
-  - inglés de negocios gratis
+  - 'Ingles para Reembolsos, Garantias y SLA'
+  - atencion cliente reembolsos garantias sla vocabulario en inglés para el trabajo
+  - atencion cliente reembolsos garantias sla vocabulario en inglés profesional
+  - 'Inglés para Reembolsos, Garantías y SLA con ejemplos'
+  - frases de atencion cliente reembolsos garantias sla vocabulario profesional
+  - cómo escribir atencion cliente reembolsos garantias sla vocabulario en inglés
+  - atencion cliente reembolsos garantias sla vocabulario en ingles para trabajar
+  - 'Inglés para Reembolsos, Garantías y SLA con ejemplos prácticos'
 alt: Documentos y calculadora sobre mesa de oficina
 excerpt: >-
   Guía léxica B2+ para gestionar políticas comerciales en inglés: qué decir,

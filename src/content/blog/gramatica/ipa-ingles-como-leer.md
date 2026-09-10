@@ -9,13 +9,14 @@ excerpt: >-
 keywords:
   - 'IPA en Inglés: Cómo Leer el Alfabeto Fonético'
   - cómo leer IPA inglés
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - cómo leer los símbolos IPA del inglés
   - alfabeto fonético internacional inglés para principiantes
   - ejercicios gratis de pronunciación con IPA
   - diferencia entre IPA inglés británico y americano
   - transcripción fonética inglesa con ejemplos
+  - IPA en Inglés
+  - IPA en Ingles
+  - ipa ingles como leer
 author: linguafly-team
 date: '2026-02-26'
 updatedDate: '2026-09-04'

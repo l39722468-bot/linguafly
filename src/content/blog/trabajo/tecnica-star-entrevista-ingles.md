@@ -9,7 +9,14 @@ excerpt: >-
 keywords:
   - técnica STAR entrevista inglés ejemplos frases
   - STAR method entrevista trabajo inglés preguntas comportamiento
-  - inglés de negocios gratis
+  - Técnica STAR en Inglés
+  - Tecnica STAR en Ingles
+  - tecnica star entrevista ingles para el trabajo
+  - tecnica star entrevista ingles profesional
+  - Técnica STAR en Inglés con ejemplos
+  - frases de tecnica star entrevista ingles profesional
+  - cómo escribir tecnica star entrevista ingles
+  - tecnica star entrevista ingles para trabajar
 author: linguafly-team
 date: '2026-02-05'
 updatedDate: '2026-08-31'

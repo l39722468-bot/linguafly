@@ -17,6 +17,12 @@ keywords:
   - duolingo cambridge b2
   - duolingo no basta para examen oficial
   - preparar examen con duolingo
+  - Duolingo 2026
+  - Duolingo 2026 para aprender inglés
+  - Duolingo 2026 guía práctica
+  - cómo mejorar el inglés con Duolingo 2026
+  - Duolingo 2026 en ingles
+  - Duolingo no basta como único curso para IELTS o Cambridge
 related_routes:
   - duolingo-ingles-review
   - duolingo-english-test

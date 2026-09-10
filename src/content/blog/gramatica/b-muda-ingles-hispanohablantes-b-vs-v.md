@@ -9,14 +9,16 @@ description: >-
   practicar /b/ y /v/ en inglés sin interferencias.
 readTime: 22 min
 keywords:
-  - B Muda en Inglés: Diferencia entre B y V
+  - 'B Muda en Inglés: Diferencia entre B y V'
   - b muda ingles
-  - ejercicios de inglés gratis
   - diferencia entre b y v en inglés para hispanohablantes
   - cómo pronunciar b y v inglesas sin confusión
   - ejercicios gratis de b v y b muda en inglés
   - palabras con b silenciosa y sonido v en inglés
   - errores de pronunciación b y v para españoles
+  - B Muda en Inglés
+  - B Muda en Ingles
+  - b muda ingles hispanohablantes b vs v
 alt: Profesor explicando en pizarra
 excerpt: >-
   Estrategias para separar tres mundos: b/v del español, /b/ y /v/ del inglés,

@@ -13,12 +13,12 @@ keywords:
   - ejercicios when while
   - past simple past continuous
   - I was walking when
-  - curso A2 Linguafly
   - ejercicios when y while inglés A2
   - diferencia Past Simple Past Continuous
   - cómo usar I was walking when
   - acciones interrumpidas en pasado inglés
   - práctica when while con soluciones
+  - past simple past continuous en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-17-past-simple-past-continuous-ejercicios-soluciones'
 image: /blog/curso-a2/unit-17/a2-unit17-ps-pc.png
 alt: Past Simple + Past Continuous para ejercicios A2 Unidad 17

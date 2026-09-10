@@ -6,13 +6,14 @@ excerpt: "En el Speaking del CAE no te evalúan si tu inglés es perfecto, sino 
 keywords:
   - 'Speaking C1 Advanced (CAE): Partes y Estrategias'
   - como preparar speaking cae
-  - preparar inglés gratis
-  - material de inglés gratis
   - cómo preparar el Speaking del Cambridge C1 Advanced
   - criterios de evaluación Speaking CAE
   - frases gratis para Speaking C1 con ejemplos
   - cómo responder cada parte del Speaking CAE
   - estrategias para mejorar fluidez en el examen C1
+  - Speaking C1 Advanced
+  - speaking cae avanzado examen de inglés
+  - Speaking C1 Advanced España
 author: linguafly-team
 date: '2026-03-11'
 updatedDate: '2026-09-04'

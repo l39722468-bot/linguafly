@@ -12,12 +12,12 @@ keywords:
   - ejercicios play the piano
   - instrumentos musicales inglés A1
   - play the guitar drums
-  - curso A1 Linguafly
   - ejercicios instrumentos musicales inglés A1
   - vocabulario música en inglés para principiantes
   - cómo usar play the piano en inglés
   - nombres de instrumentos musicales inglés
   - práctica can play con soluciones A1
+  - Ejercicios de Instrumentos Musicales en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-36-instrumentos-musicales-ejercicios-soluciones'
 image: /blog/curso-a1/unit-36/a1-unit36-play-the.png
 alt: Play the + instrumento para ejercicios A1 Unidad 36

@@ -7,8 +7,16 @@ excerpt: >-
   Entender el acento irlandés no es magia: es exposición ordenada, textos graduados y
   hábitos de escucha activa. Esta guía te propone un calendario de cuatro semanas con recursos reales y ejercicios que puedes hacer solo.
 keywords:
-  - Cómo Entender el Acento Irlandés: Guía Listening
+  - 'Cómo Entender el Acento Irlandés: Guía Listening'
   - entrenar oido acento irlandes
+  - Cómo Entender el Acento Irlandés
+  - Cómo Entender el Acento Irlandés paso a paso
+  - Cómo Entender el Acento Irlandés con ejercicios
+  - Cómo Entender el Acento Irlandés todos los días
+  - Como Entender el Acento Irlandes
+  - Cómo Entender el Acento Irlandés rutina semanal
+  - Cómo Entender el Acento Irlandés con ejemplos prácticos
+  - Cómo Entender el Acento Irlandés para hispanohablantes
 author: linguafly-team
 date: '2026-03-29'
 updatedDate: '2026-09-04'

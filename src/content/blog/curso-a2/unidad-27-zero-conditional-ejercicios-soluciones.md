@@ -12,12 +12,12 @@ keywords:
   - ejercicios zero conditional
   - If you heat water it boils
   - condicional cero A2
-  - curso A2 Linguafly
   - ejercicios Zero Conditional inglés A2
   - cómo formar el condicional cero
   - frases If you heat water it boils
   - hechos generales con if Present Simple
   - práctica Zero Conditional con soluciones
+  - Ejercicios de Zero Conditional en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-27-zero-conditional-ejercicios-soluciones'
 image: /blog/curso-a2/unit-27/a2-unit27-zero-conditional.png
 alt: Zero Conditional — ejercicios A2 Unidad 27

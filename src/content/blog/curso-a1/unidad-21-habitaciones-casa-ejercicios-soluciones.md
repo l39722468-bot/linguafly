@@ -14,7 +14,6 @@ keywords:
   - kitchen living room bedroom
   - the kitchen is bright
   - we have three bedrooms
-  - curso A1 Linguafly
   - ejercicios habitaciones de la casa inglés A1
   - vocabulario rooms in a house para principiantes
   - cómo describir una casa en inglés básico

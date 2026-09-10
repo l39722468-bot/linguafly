@@ -12,12 +12,12 @@ keywords:
   - ejercicios too enough
   - too big big enough A1
   - changing room size sale
-  - curso A1 Linguafly
   - ejercicios too y enough inglés A1
   - vocabulario tienda de ropa inglés básico
   - cómo usar too big y big enough
   - tallas y compras en inglés A1
   - práctica gramática too enough con soluciones
+  - Ejercicios de Too y Enough en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-55-tienda-ropa-too-enough-ejercicios-soluciones'
 image: /blog/curso-a1/unit-55/a1-unit55-too-enough.png
 alt: Too y enough para ejercicios A1 Unidad 55

@@ -10,13 +10,14 @@ excerpt: >-
 keywords:
   - 'Phrasal Verbs con PUT: Lista Completa y Ejemplos'
   - put phrasal verbs lista
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - phrasal verbs con put más usados en inglés
   - put off put up put on put down significado
   - ejercicios gratis de phrasal verbs con put
   - lista completa de phrasal verbs con put y ejemplos
   - cómo aprender phrasal verbs con put en inglés
+  - Phrasal Verbs con PUT
+  - phrasal verbs with put en inglés
+  - phrasal verbs with put en ingles
 author: linguafly-team
 date: '2026-03-06'
 updatedDate: '2026-09-04'

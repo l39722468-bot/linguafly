@@ -9,15 +9,16 @@ category: examenes
 alt: Libreta con vocabulario en inglés para preparar el IELTS
 readTime: 7 min
 keywords:
-  - Vocabulario Académico para IELTS: Guía Band 7
+  - 'Vocabulario Académico para IELTS: Guía Band 7'
   - vocabulario ielts
-  - preparar inglés gratis
-  - material de inglés gratis
   - vocabulario académico IELTS Band 7
   - Academic Word List para preparar IELTS
   - colocaciones académicas frecuentes en IELTS
   - vocabulario IELTS gratis por temas
   - palabras para mejorar Writing y Speaking IELTS
+  - Vocabulario Académico para IELTS
+  - ielts vocabulario academico examen de inglés
+  - Vocabulario Académico para IELTS España
 excerpt: >-
   El vocabulario del IELTS no es el vocabulario del inglés conversacional. Para Band 7 necesitas dominar palabras académicas que rara vez aparecen en series o conversaciones cotidianas.
 faqs:

@@ -11,14 +11,16 @@ category: gramatica
 readTime: 9 min
 alt: Diccionario de inglés abierto con palabras resaltadas
 keywords:
-  - Letras Mudas en Inglés: Guía, Reglas y Ejemplos
+  - 'Letras Mudas en Inglés: Guía, Reglas y Ejemplos'
   - palabras con letras mudas ingles
-  - ejercicios de inglés gratis
   - lista de letras mudas en inglés con ejemplos
   - reglas de pronunciación de letras silenciosas
   - ejercicios gratis de palabras con letras mudas
   - por qué hay letras que no se pronuncian en inglés
   - palabras inglesas con k w b y gh mudas
+  - Letras Mudas en Inglés
+  - Letras Mudas en Ingles
+  - letras mudas ingles guia
 faqs:
   - question: ¿Por qué el inglés tiene tantas letras mudas?
     answer: >-

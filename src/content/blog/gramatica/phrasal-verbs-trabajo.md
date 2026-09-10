@@ -12,13 +12,14 @@ excerpt: >-
 keywords:
   - 'Phrasal Verbs de Trabajo: 60 Verbos Profesionales'
   - phrasal verbs trabajo
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - phrasal verbs de negocios en inglés con ejemplos
   - phrasal verbs para reuniones y emails de trabajo
   - ejercicios gratis de phrasal verbs profesionales
   - business phrasal verbs para oficina y negociaciones
   - vocabulario de phrasal verbs inglés para trabajar
+  - Phrasal Verbs de Trabajo
+  - phrasal verbs trabajo en inglés
+  - phrasal verbs trabajo en ingles
 author: linguafly-team
 date: '2026-03-06'
 updatedDate: '2026-09-04'

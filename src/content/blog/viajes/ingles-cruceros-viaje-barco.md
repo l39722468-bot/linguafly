@@ -11,10 +11,16 @@ category: viajes
 readTime: 11 min
 alt: Gran crucero atracado en un puerto mediterráneo con viajeros embarcando
 keywords:
-  - Inglés para Cruceros: Vocabulario y Frases
+  - 'Inglés para Cruceros: Vocabulario y Frases'
   - ingles para cruceros
-  - inglés para viajar gratis
-  - frases en inglés gratis
+  - Inglés para Cruceros
+  - ingles cruceros viaje barco para viajar
+  - frases de ingles cruceros viaje barco
+  - Inglés para Cruceros para viajeros
+  - ingles cruceros viaje barco aeropuerto hotel restaurante
+  - Vocabulario y frases en inglés para cruceros y viajes en barco
+  - Inglés para Cruceros con ejemplos prácticos
+  - Inglés para Cruceros para hispanohablantes
 canonical: 'https://linguafly.app/blog/viajes/ingles-cruceros-viaje-barco'
 faqs:
   - question: ¿Necesito buen nivel de inglés para un crucero?

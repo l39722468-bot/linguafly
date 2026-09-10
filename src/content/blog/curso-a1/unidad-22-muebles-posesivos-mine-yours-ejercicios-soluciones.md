@@ -15,7 +15,6 @@ keywords:
   - furniture vocabulary exercises
   - whose is this
   - this sofa is mine
-  - curso A1 Linguafly
   - ejercicios pronombres posesivos inglés A1
   - vocabulario muebles de la casa en inglés
   - diferencia mine yours his hers ejercicios

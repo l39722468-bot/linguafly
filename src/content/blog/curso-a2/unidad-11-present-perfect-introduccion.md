@@ -15,6 +15,10 @@ keywords:
   - been vs gone
   - inglés A2 unidad 11
   - Present Perfect introducción
+  - Cómo se Usa el Present Perfect
+  - present perfect introduccion en inglés A2
+  - present perfect introduccion inglés A2
+  - cómo usar present perfect introduccion en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-11-present-perfect-introduccion'
 image: /blog/curso-a2/unit-11/a2-unit11-present-perfect.png
 alt: Esquema have/has + past participle del Present Perfect A2

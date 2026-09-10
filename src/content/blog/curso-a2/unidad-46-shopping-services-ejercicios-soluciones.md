@@ -12,12 +12,12 @@ keywords:
   - shopping services ejercicios
   - Can I help you How much
   - refund exchange
-  - curso A2 Linguafly
   - ejercicios compras y servicios inglés A2
   - frases Can I help you en una tienda
   - cómo pedir un reembolso en inglés
   - vocabulario refund exchange shopping
   - práctica How much compras con soluciones
+  - Ejercicios de Compras y Servicios en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-46-shopping-services-ejercicios-soluciones'
 image: /blog/curso-a2/unit-46/a2-unit46-shopping-services.png
 alt: Shopping & Services — ejercicios A2 Unidad 46

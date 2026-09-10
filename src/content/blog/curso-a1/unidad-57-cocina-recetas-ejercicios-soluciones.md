@@ -12,12 +12,12 @@ keywords:
   - ejercicios First Then Finally cocina
   - cut mix fry boil bake A1
   - recipe instructions english
-  - curso A1 Linguafly
   - ejercicios recetas en inglés A1
   - instrucciones de cocina inglés básico
   - vocabulario cocinar en inglés para principiantes
   - conectores First Then Finally inglés
   - práctica verbos cocina A1 con soluciones
+  - Ejercicios de Cocina y Recetas en Ingles A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-57-cocina-recetas-ejercicios-soluciones'
 image: /blog/curso-a1/unit-57/a1-unit57-first-then-finally.png
 alt: First Then Finally para ejercicios A1 Unidad 57

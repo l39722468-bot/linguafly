@@ -14,14 +14,16 @@ excerpt: >-
   el plan de estudio, los recursos gratuitos y los consejos que marcan la
   diferencia para Cambridge PET, Aptis o Linguaskill.
 keywords:
-  - Examen B1 de Inglés: Cómo Prepararlo y Aprobar
+  - 'Examen B1 de Inglés: Cómo Prepararlo y Aprobar'
   - examen b1 ingles consejos
-  - preparar inglés gratis
   - cómo preparar el examen B1 de inglés
   - Cambridge PET Aptis y Linguaskill B1
   - plan gratis de estudio para aprobar B1
   - ejercicios B1 de Reading Writing Listening Speaking
   - recursos gratuitos para examen B1 inglés
+  - 'Examen B1 Cambridge, Aptis o Linguaskill'
+  - preparacion examen b1 cambridge examen de inglés
+  - 'Examen B1 Cambridge, Aptis o Linguaskill España'
 canonical: 'https://linguafly.app/blog/examenes/preparacion-examen-b1-cambridge'
 related_routes:
   - certificaciones-ingles

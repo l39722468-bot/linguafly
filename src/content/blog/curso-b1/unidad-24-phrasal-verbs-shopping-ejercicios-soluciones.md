@@ -12,14 +12,12 @@ keywords:
   - find out give up ejercicios
   - fill in hand in
   - shopping vocabulary
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios phrasal verbs compras B1
   - significado find out give up look into
   - cómo usar fill in y hand in
   - vocabulario shopping en inglés B1
-  - práctica phrasal verbs con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-24-phrasal-verbs-shopping-ejercicios-soluciones'
 image: /blog/curso-b1/unit-24/phrasals-2.png
 alt: Phrasal Verbs 2 & Shopping — ejercicios B1 Unidad 24

@@ -10,13 +10,14 @@ excerpt: >-
 keywords:
   - 'Wish e If Only en Inglés: Guía y Ejemplos'
   - wish ingles
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - cómo usar wish e if only en inglés
   - wish past simple would past perfect ejercicios gratis
   - diferencia entre wish e if only con ejemplos
   - expresar deseos y arrepentimientos en inglés
   - wish e if only para exámenes B2 C1
+  - Wish e If Only en Inglés
+  - Wish e If Only en Ingles
+  - wish if only ingles
 author: linguafly-team
 date: '2026-02-19'
 updatedDate: '2026-09-04'

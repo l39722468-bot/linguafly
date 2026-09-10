@@ -11,10 +11,13 @@ keywords:
   - would rather B1
   - would sooner English
   - preferences vocabulary
-  - I'd rather than
+  - 'I''d rather than'
   - inglés B1 unidad 47
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
+  - 'Would Rather & Would Sooner B1 + Preferences'
+  - would rather preferences en inglés B1
+  - would rather preferences inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-47-would-rather-preferences'
 image: /blog/curso-b1/unit-47/would-rather-sooner.png
 alt: 'Would rather B1'

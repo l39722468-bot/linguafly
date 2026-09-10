@@ -14,7 +14,12 @@ keywords:
   - ejercicios superlativos inglés
   - the tallest the most beautiful
   - the best the worst in of
-  - curso A2 Linguafly
+  - Ejercicios de Superlativos en Ingles A2
+  - superlativos est the most en inglés A2
+  - superlativos est the most inglés A2
+  - ejercicios de superlativos est the most en inglés A2
+  - superlativos est the most ejercicios con soluciones A2
+  - práctica superlativos est the most inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-6-superlativos-est-the-most-ejercicios-soluciones'
 image: /blog/curso-a2/unit-6/a2-unit6-superlatives.png
 alt: Superlativos para ejercicios A2 Unidad 6

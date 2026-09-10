@@ -9,12 +9,11 @@ description: >-
   horas, días, cafetería, comidas, like + -ing y fechas explicados paso a paso.
 readTime: 25 min
 keywords:
-  - Repaso de Inglés A1: Módulo 2 con Ejercicios
+  - 'Repaso de Inglés A1: Módulo 2 con Ejercicios'
   - repaso módulo 2 A1
   - ejercicios present simple rutinas
-  - can I have I'd like
+  - 'can I have I''d like'
   - like + ing fechas
-  - curso A1 Linguafly
   - ejercicios repaso módulo 2 inglés A1
   - revisión Present Simple y rutinas diarias
   - ejercicios pedir comida en inglés A1

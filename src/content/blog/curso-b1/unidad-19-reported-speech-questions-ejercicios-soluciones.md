@@ -12,14 +12,12 @@ keywords:
   - reported questions ejercicios
   - told to infinitive
   - language vocabulary ejercicios
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios reported questions y commands B1
   - cómo transformar preguntas al estilo indirecto
   - told to y told not to ejercicios
   - vocabulario language learning inglés B1
-  - práctica reported speech con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-19-reported-speech-questions-ejercicios-soluciones'
 image: /blog/curso-b1/unit-19/reported-questions.png
 alt: Reported Questions & Commands — ejercicios B1 Unidad 19

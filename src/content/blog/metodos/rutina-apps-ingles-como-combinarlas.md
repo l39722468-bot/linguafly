@@ -13,12 +13,14 @@ alt: Persona organizando su rutina de estudio de inglés con varias apps en el m
 keywords:
   - cómo combinar apps de inglés
   - rutina semanal apps inglés por nivel
-  - curso inglés gratis online
   - rutina gratis para aprender inglés con aplicaciones
   - cómo combinar apps de inglés para A1 B1 y C1
   - plan semanal gratuito para estudiar inglés
   - qué app usar para cada habilidad del inglés
   - rutina diaria de inglés con apps gratuitas
+  - Como Combinar Apps de Ingles
+  - Cómo Combinar Apps de Inglés para aprender inglés
+  - Cómo Combinar Apps de Inglés guía práctica
 faqs:
   - question: '¿Cuántas apps de inglés debo usar a la vez?'
     answer: >-

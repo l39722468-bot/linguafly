@@ -13,12 +13,14 @@ alt: Onda sonora de la entonación del inglés hablado
 keywords:
   - 'Entonación en Inglés: Patrones y Ejemplos'
   - patrones entonacion ingles
-  - ejercicios de inglés gratis
   - patrones de entonación inglesa con ejemplos
   - ejercicios gratis de entonación y ritmo inglés
   - entonación de preguntas y afirmaciones en inglés
   - cómo usar el tono para expresar énfasis en inglés
   - patrones melódicos del inglés para hispanohablantes
+  - Entonación en Inglés
+  - Entonacion en Ingles
+  - entonacion ingles patrones
 faqs:
   - question: ¿Qué es la entonación?
     answer: >-

@@ -17,13 +17,14 @@ readTime: 6 min
 keywords:
   - Cómo Preparar el IELTS desde B2 en 3 Meses
   - ielts desde b2
-  - preparar inglés gratis
-  - material de inglés gratis
   - plan de estudio IELTS desde B2
   - cómo sacar 7 en IELTS desde B2
   - preparación IELTS en 12 semanas
   - recursos gratis para preparar IELTS
   - estrategias IELTS Academic por partes
+  - preparar ielts desde b2 examen de inglés
+  - Cómo Preparar el IELTS desde B2 en 3 Meses España
+  - cómo preparar ielts desde b2 en inglés
 faqs:
   - question: ¿Cuántas veces puedo presentarme al IELTS?
     answer: >-

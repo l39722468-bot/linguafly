@@ -10,12 +10,14 @@ excerpt: >-
 keywords:
   - Vocabulario de Redes Sociales en Inglés
   - vocabulario ingles redes sociales
-  - curso inglés gratis online
   - vocabulario de redes sociales en inglés gratis
   - palabras de Instagram TikTok y YouTube en inglés
   - expresiones de redes sociales en inglés con ejemplos
   - vocabulario inglés para creadores de contenido
   - términos de marketing digital en inglés gratis
+  - Vocabulario de Redes Sociales en Ingles
+  - Vocabulario de Redes Sociales en Inglés para aprender inglés
+  - Vocabulario de Redes Sociales en Inglés guía práctica
 author: linguafly-team
 date: '2026-03-04'
 updatedDate: '2026-09-04'

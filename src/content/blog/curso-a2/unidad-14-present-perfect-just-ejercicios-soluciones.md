@@ -12,12 +12,12 @@ keywords:
   - ejercicios present perfect just
   - I have just arrived
   - just now A2
-  - curso A2 Linguafly
   - ejercicios Present Perfect just inglés A2
   - cómo usar have just más participio
   - diferencia just y just now en inglés
   - frases I have just arrived A2
   - práctica just con soluciones
+  - Ejercicios de Just con Present Perfect en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-14-present-perfect-just-ejercicios-soluciones'
 image: /blog/curso-a2/unit-14/a2-unit14-just.png
 alt: Just en Present Perfect para ejercicios A2 Unidad 14

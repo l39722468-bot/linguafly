@@ -11,12 +11,14 @@ readTime: 7 min
 keywords:
   - 'IELTS Reading: Estrategias y Trucos para Mejorar'
   - ielts reading
-  - material de inglés gratis
   - trucos IELTS Reading para mejorar la puntuación
   - ejercicios gratis de IELTS Reading con soluciones
   - diferencia entre False y Not Given IELTS
   - técnicas de skimming y scanning para IELTS
   - cómo gestionar los 60 minutos del IELTS Reading
+  - ielts reading trucos examen de inglés
+  - IELTS Reading España
+  - cómo preparar ielts reading trucos en inglés
 excerpt: >-
   60 minutos para leer tres textos largos y responder 40 preguntas. El IELTS Reading no es un test de comprensión lectora al uso: tiene tipos de pregunta que siguen reglas muy específicas, y conocerlas cambia el resultado.
 faqs:

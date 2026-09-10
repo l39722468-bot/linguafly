@@ -10,6 +10,14 @@ excerpt: >-
 keywords:
   - 'Acento Cockney: Rasgos, Slang y Pronunciación'
   - east end londres acento
+  - Acento Cockney
+  - Acento Cockney para aprender inglés
+  - Acento Cockney guía práctica
+  - cómo mejorar el inglés con Acento Cockney
+  - Acento Cockney en ingles
+  - Acento Cockney con ejemplos prácticos
+  - Acento Cockney para hispanohablantes
+  - Acento Cockney explicado paso a paso
 author: linguafly-team
 date: '2026-02-15'
 updatedDate: '2026-09-04'
@@ -18,7 +26,16 @@ faqs:
   - question: '¿El Cockney y el Estuary English son lo mismo?'
     answer: 'No, aunque están relacionados. El Cockney es el acento tradicional de la clase trabajadora del East End de Londres, con rasgos fonéticos muy marcados. El Estuary English es una variedad más reciente que emergió en el sureste de Inglaterra como punto intermedio entre el Cockney y el Received Pronunciation. El Estuary toma prestados algunos rasgos del Cockney (sobre todo el glotal stop) pero suaviza o elimina otros (como el th-fronting o los cambios vocálicos más extremos). Si escuchas a un presentador de televisión británico joven, probablemente habla Estuary; si escuchas a los personajes de EastEnders, hablan Cockney.'
   - question: '¿El rhyming slang Cockney se usa todavía?'
-    answer: 'Depende mucho del contexto. Expresiones como "dog and bone" (phone), "plates of meat" (feet) o "apples and pears" (stairs) siguen siendo reconocibles para cualquier londinense, pero en conversación cotidiana se usan menos de lo que sugieren las películas. Algunos términos del rhyming slang han entrado en el argot general: "having a butcher's" (tener un vistazo, de "butcher's hook" = look) o "use your loaf" (usa la cabeza, de "loaf of bread" = head) se usan todavía. Los nuevos términos de rhyming slang que se crean hoy reflejan la cultura actual: nombres de famosos, referencias de la cultura pop.'
+    answer: >-
+      Depende mucho del contexto. Expresiones como "dog and bone" (phone),
+      "plates of meat" (feet) o "apples and pears" (stairs) siguen siendo
+      reconocibles para cualquier londinense, pero en conversación cotidiana se
+      usan menos de lo que sugieren las películas. Algunos términos del rhyming
+      slang han entrado en el argot general: "having a butcher's" (tener un
+      vistazo, de "butcher's hook" = look) o "use your loaf" (usa la cabeza, de
+      "loaf of bread" = head) se usan todavía. Los nuevos términos de rhyming
+      slang que se crean hoy reflejan la cultura actual: nombres de famosos,
+      referencias de la cultura pop.
   - question: '¿Dónde puedo escuchar Cockney auténtico?'
     answer: 'EastEnders es la fuente más accesible internacionalmente, aunque el acento de los personajes varía (algunos son más Estuary que Cockney puro). La película Snatch tiene un Cockney muy marcado en personajes como el de Jason Statham. Entrevistas con futbolistas del West Ham o el Millwall suelen tener acentos del East End y Essex muy marcados. En YouTube, el canal de documentales "East End archive footage" tiene grabaciones de décadas pasadas con Cockney muy auténtico. También puedes buscar entrevistas antiguas de Michael Caine, que habló siempre con su acento del South London sin intentar suavizarlo.'
   - question: '¿El Cockney está desapareciendo?'

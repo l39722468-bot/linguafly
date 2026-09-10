@@ -10,13 +10,14 @@ excerpt: >-
 keywords:
   - 'TOEFL Speaking: 4 Tareas, Plantillas y Ejemplos'
   - tareas toefl speaking
-  - preparar inglés gratis
-  - material de inglés gratis
   - TOEFL Speaking cuatro tareas con respuestas
   - plantillas gratis para TOEFL Speaking 26
   - cómo responder las tareas integradas TOEFL
   - estructura de respuestas TOEFL Speaking
   - errores frecuentes en TOEFL Speaking
+  - TOEFL Speaking
+  - toefl speaking 4 tareas examen de inglés
+  - TOEFL Speaking España
 author: linguafly-team
 date: '2026-04-18'
 updatedDate: '2026-09-04'

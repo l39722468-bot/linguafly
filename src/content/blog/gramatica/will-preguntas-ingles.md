@@ -11,12 +11,14 @@ readTime: 7 min
 keywords:
   - 'Preguntas con Will en Inglés: Cómo Formarlas'
   - preguntas con will ingles
-  - ejercicios de inglés gratis
   - cómo formar preguntas con will en inglés
   - ejercicios gratis de preguntas con will
   - diferencia entre will y going to en preguntas
   - preguntas will you con ejemplos cotidianos
   - estructura interrogativa de will para B1
+  - Preguntas con Will en Inglés
+  - Preguntas con Will en Ingles
+  - will preguntas ingles
 excerpt: >-
   Hacer preguntas con will en inglés es más sencillo de lo que parece: solo inviertes el sujeto y el auxiliar. Aprende la estructura, los tipos de preguntas y cómo sonar natural en inglés.
 faqs:

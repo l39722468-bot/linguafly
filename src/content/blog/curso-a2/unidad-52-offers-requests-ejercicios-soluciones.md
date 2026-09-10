@@ -12,12 +12,12 @@ keywords:
   - offers requests ejercicios
   - Can I Could you
   - Would you like me to
-  - curso A2 Linguafly
   - ejercicios ofertas y peticiones inglés A2
   - cómo pedir ayuda con Could you
   - diferencia Can I y Shall I
   - frases Would you like me to
   - práctica offers requests con soluciones
+  - Ejercicios de Ofertas y Peticiones en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-52-offers-requests-ejercicios-soluciones'
 image: /blog/curso-a2/unit-52/a2-unit52-offers-requests.png
 alt: Offers & Requests — ejercicios A2 Unidad 52

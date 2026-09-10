@@ -6,14 +6,16 @@ readTime: 12 min
 excerpt: >-
   Dominio gramatical de la causativa en inglés (have/get something done): reglas sintácticas, tiempos verbales y cómo aplicarla en exámenes Cambridge.
 keywords:
-  - Have Something Done: Causativa en Inglés
+  - 'Have Something Done: Causativa en Inglés'
   - have something done ingles
-  - ejercicios de inglés gratis
   - cómo usar have something done en inglés
   - diferencia entre have something done y get something done
   - ejercicios gratis de causativa inglesa
   - have get something done con ejemplos
   - estructura causativa para exámenes B2 C1
+  - Have Something Done
+  - cuándo usar have something done ingles
+  - have something done ingles con ejemplos para hispanohablantes
 author: linguafly-team
 date: '2026-02-14'
 updatedDate: '2026-09-04'

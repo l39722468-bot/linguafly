@@ -9,9 +9,16 @@ description: >-
   escalar con claridad y documentar cada caso sin perder el control.
 readTime: 22 min
 keywords:
-  - Clientes Difíciles en Inglés: Frases para Calmar
+  - 'Clientes Difíciles en Inglés: Frases para Calmar'
   - de-escalation inglés
-  - inglés de negocios gratis
+  - Clientes Difíciles en Inglés
+  - Clientes Dificiles en Ingles
+  - atencion cliente de escalada clientes dificiles ingles para el trabajo
+  - atencion cliente de escalada clientes dificiles ingles profesional
+  - Clientes Difíciles en Inglés con ejemplos
+  - frases de atencion cliente de escalada clientes dificiles ingles profesional
+  - cómo escribir atencion cliente de escalada clientes dificiles ingles
+  - atencion cliente de escalada clientes dificiles ingles para trabajar
 alt: Persona en atención telefónica con auriculares
 excerpt: >-
   Frases y marcos para gestionar ira, amenazas y presión en inglés: validar, repetir políticas, escalar y cuidar al agente.

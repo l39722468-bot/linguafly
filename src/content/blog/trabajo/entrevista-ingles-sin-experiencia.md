@@ -9,7 +9,14 @@ excerpt: >-
 keywords:
   - entrevista trabajo inglés sin experiencia laboral
   - cómo responder entrevista inglés primer empleo junior
-  - inglés de negocios gratis
+  - Entrevista en Inglés sin Experiencia
+  - Entrevista en Ingles sin Experiencia
+  - entrevista ingles sin experiencia para el trabajo
+  - entrevista ingles sin experiencia profesional
+  - Entrevista en Inglés sin Experiencia con ejemplos
+  - frases de entrevista ingles sin experiencia profesional
+  - cómo escribir entrevista ingles sin experiencia
+  - entrevista ingles sin experiencia para trabajar
 author: linguafly-team
 date: '2026-02-23'
 updatedDate: '2026-08-31'

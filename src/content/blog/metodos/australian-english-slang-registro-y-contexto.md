@@ -11,7 +11,14 @@ readTime: 22 min
 keywords:
   - 'Australian Slang: Guía de Registro y Contexto'
   - australian slang inglés
-  - curso inglés gratis online
+  - Australian Slang
+  - Australian Slang para aprender inglés
+  - Australian Slang guía práctica
+  - cómo mejorar el inglés con Australian Slang
+  - Australian Slang en ingles
+  - Australian Slang con ejemplos prácticos
+  - Australian Slang para hispanohablantes
+  - Australian Slang explicado paso a paso
 alt: Café urbano en Australia ambiente casual
 excerpt: >-
   Aprende a entender slang australiano sin convertirte en caricatura: matices

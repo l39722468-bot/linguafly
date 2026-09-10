@@ -13,6 +13,12 @@ keywords:
   - ef english
   - ef english live
   - ef english live opinion
+  - EF English Live 2026
+  - EF English Live 2026 para aprender inglés
+  - EF English Live 2026 guía práctica
+  - cómo mejorar el inglés con EF English Live 2026
+  - EF English Live 2026 en ingles
+  - EF English Live 2026 con ejemplos prácticos
 faqs:
   - question: '¿EF English Live es mejor para negocios que para exámenes?'
     answer: >-

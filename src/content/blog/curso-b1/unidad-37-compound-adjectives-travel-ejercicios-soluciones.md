@@ -12,14 +12,12 @@ keywords:
   - compound adjectives ejercicios
   - two-day trip
   - travel vocabulary
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios compound adjectives inglés B1
   - cómo formar adjetivos compuestos en inglés
   - ejemplos two-day trip y 20-year-old
   - vocabulario viajes y descripciones B1
-  - práctica compound adjectives con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-37-compound-adjectives-travel-ejercicios-soluciones'
 image: /blog/curso-b1/unit-37/compound-adjectives.png
 alt: Compound Adjectives & Travel — ejercicios B1 Unidad 37

@@ -15,6 +15,10 @@ keywords:
   - prefer film series
   - inglés A2 unidad 45
   - genres English
+  - 'Entertainment & Media A2'
+  - entertainment media en inglés A2
+  - entertainment media inglés A2
+  - cómo usar entertainment media en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-45-entertainment-media'
 image: /blog/curso-a2/unit-45/a2-unit45-entertainment-media.png
 alt: Esquema Entertainment & Media A2

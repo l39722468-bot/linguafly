@@ -12,12 +12,12 @@ keywords:
   - the environment ejercicios
   - recycle save water
   - pollution should
-  - curso A2 Linguafly
   - ejercicios medio ambiente inglés A2
   - vocabulario recycle save water pollution
   - cómo hablar de problemas ambientales en inglés
   - consejos con should para cuidar el planeta
   - práctica environment inglés con soluciones
+  - Ejercicios sobre el Medio Ambiente en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-55-the-environment-ejercicios-soluciones'
 image: /blog/curso-a2/unit-55/a2-unit55-the-environment.png
 alt: The Environment — ejercicios A2 Unidad 55

@@ -13,8 +13,7 @@ keywords:
   - ejercicios there is there are
   - is there are there
   - in on under behind
-  - there isn't there aren't
-  - curso A1 Linguafly
+  - 'there isn''t there aren''t'
   - ejercicios there is there are A1 con respuestas
   - cómo usar is there y are there
   - preposiciones in on under behind inglés

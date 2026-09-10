@@ -8,6 +8,14 @@ excerpt: >-
 keywords:
   - 'Belfast vs Dublín: Diferencias de Acento Inglés'
   - Belfast vs Dublin accent English
+  - Belfast vs Dublín
+  - Belfast versus Dublín
+  - Belfast or Dublín
+  - diferencia entre Belfast y Dublín en inglés
+  - Belfast vs Dublín para aprender inglés
+  - Belfast vs Dublín guía práctica
+  - cómo mejorar el inglés con Belfast vs Dublín
+  - Belfast vs Dublin en ingles
 author: linguafly-team
 date: '2026-03-29'
 updatedDate: '2026-09-04'

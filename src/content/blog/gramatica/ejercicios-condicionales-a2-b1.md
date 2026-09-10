@@ -11,13 +11,13 @@ keywords:
   - ejercicios condicionales a2 b1
   - zero conditional ejercicios
   - first conditional ejercicios
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - ejercicios de zero y first conditional A2 B1
   - condicionales A2 B1 en PDF con soluciones
   - práctica gratis de if clauses para principiantes
   - ejercicios de condicionales ingleses para imprimir
   - diferencia entre zero y first conditional ejercicios
+  - Ejercicios de Zero y First Conditional en Inglés
+  - Ejercicios de Zero y First Conditional en Ingles
 author: linguafly-team
 date: '2026-07-30'
 updatedDate: '2026-08-31'

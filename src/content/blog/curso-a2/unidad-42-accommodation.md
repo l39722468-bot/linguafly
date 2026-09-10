@@ -15,6 +15,10 @@ keywords:
   - inglés A2 unidad 42
   - single double room
   - hotel English
+  - accommodation en inglés A2
+  - accommodation inglés A2
+  - cómo usar accommodation en inglés A2
+  - ejemplos de accommodation en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-42-accommodation'
 image: /blog/curso-a2/unit-42/a2-unit42-accommodation.png
 alt: Esquema Accommodation A2 hotel English

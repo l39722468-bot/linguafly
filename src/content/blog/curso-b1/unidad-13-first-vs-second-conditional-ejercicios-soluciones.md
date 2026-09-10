@@ -12,14 +12,12 @@ keywords:
   - first vs second conditional ejercicios
   - entertainment vocabulary
   - condicionales contraste
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios First y Second Conditional B1
   - diferencia condicional real e hipotético
   - cómo elegir first o second conditional
   - condicionales con vocabulario entretenimiento
-  - práctica contraste condicionales soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-13-first-vs-second-conditional-ejercicios-soluciones'
 image: /blog/curso-b1/unit-13/first-vs-second.png
 alt: First vs Second Conditional — ejercicios B1 Unidad 13

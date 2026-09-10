@@ -13,7 +13,14 @@ alt: Cajas de mudanza en un apartamento vacío con luz natural
 keywords:
   - 'Mudarse al Extranjero: Inglés para Expatriados'
   - mudarse al extranjero guia ingles
-  - inglés para viajar gratis
+  - Mudarse al Extranjero
+  - mudarse al extranjero guia ingles para viajar
+  - frases de mudarse al extranjero guia ingles
+  - Mudarse al Extranjero para viajeros
+  - mudarse al extranjero guia ingles aeropuerto hotel restaurante
+  - Mudarse al Extranjero con ejemplos prácticos
+  - Mudarse al Extranjero para hispanohablantes
+  - Mudarse al Extranjero explicado paso a paso
 faqs:
   - question: ¿Qué nivel de inglés necesito para vivir en un país angloparlante?
     answer: >-

@@ -10,11 +10,15 @@ description: >-
 readTime: 15 min
 keywords:
   - making suggestions A2
-  - Shall we Let's
-  - Why don't we
+  - 'Shall we Let''s'
+  - 'Why don''t we'
   - How about
   - Would you like to
   - inglés A2 unidad 51
+  - making suggestions en inglés A2
+  - making suggestions inglés A2
+  - cómo usar making suggestions en inglés A2
+  - ejemplos de making suggestions en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-51-making-suggestions'
 image: /blog/curso-a2/unit-51/a2-unit51-making-suggestions.png
 alt: Esquema Making Suggestions A2

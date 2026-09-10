@@ -10,7 +10,14 @@ excerpt: >-
 keywords:
   - 'Costumbres Británicas: Guía de Etiqueta y Cultura'
   - costumbres britanicas
-  - curso inglés gratis online
+  - Costumbres Británicas
+  - Costumbres Británicas para aprender inglés
+  - Costumbres Británicas guía práctica
+  - cómo mejorar el inglés con Costumbres Británicas
+  - Costumbres Britanicas en ingles
+  - Guía completa de costumbres y cultura británica para hispanohablantes
+  - Costumbres Británicas con ejemplos prácticos
+  - Costumbres Británicas para hispanohablantes
 author: linguafly-team
 date: '2026-03-04'
 updatedDate: '2026-08-31'

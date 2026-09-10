@@ -9,7 +9,14 @@ excerpt: >-
 keywords:
   - 'Inglés para Hoteles: Vocabulario y Frases Útiles'
   - ingles para hoteles
-  - frases en inglés gratis
+  - Inglés para Hoteles
+  - vocabulario hotel ingles para viajar
+  - frases de vocabulario hotel ingles
+  - reservar vocabulario hotel ingles
+  - Inglés para Hoteles con ejemplos prácticos
+  - Inglés para Hoteles para hispanohablantes
+  - Inglés para Hoteles explicado paso a paso
+  - Ingles para Hoteles con ejemplos practicos
 author: linguafly-team
 date: '2026-03-04'
 updatedDate: '2026-09-04'

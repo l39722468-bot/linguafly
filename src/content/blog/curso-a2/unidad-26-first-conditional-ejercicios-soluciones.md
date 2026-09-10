@@ -12,12 +12,12 @@ keywords:
   - ejercicios first conditional
   - If it rains I will
   - condicional tipo 1 A2
-  - curso A2 Linguafly
   - ejercicios First Conditional inglés A2
   - cómo formar el condicional tipo 1
   - frases If it rains I will
   - condiciones reales futuras en inglés
   - práctica if Present Simple will A2
+  - Ejercicios de First Conditional en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-26-first-conditional-ejercicios-soluciones'
 image: /blog/curso-a2/unit-26/a2-unit26-first-conditional.png
 alt: First Conditional — ejercicios A2 Unidad 26

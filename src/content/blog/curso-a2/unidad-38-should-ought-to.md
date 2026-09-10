@@ -11,10 +11,14 @@ readTime: 15 min
 keywords:
   - should ought to
   - you should
-  - shouldn't
+  - 'shouldn''t'
   - inglés A2 unidad 38
   - dar consejos en inglés
   - recomendaciones inglés A2
+  - Should / Ought to A2
+  - should ought to en inglés A2
+  - should ought to inglés A2
+  - cómo usar should ought to en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-38-should-ought-to'
 image: /blog/curso-a2/unit-38/a2-unit38-should-ought-to.png
 alt: Esquema Should y Ought to A2

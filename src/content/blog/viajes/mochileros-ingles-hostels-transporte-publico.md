@@ -9,10 +9,16 @@ description: >-
   metro, bus nocturno y vocabulario real para moverte sin estrés en inglés.
 readTime: 15 min
 keywords:
-  - Inglés para Mochileros: Hostels y Transporte
+  - 'Inglés para Mochileros: Hostels y Transporte'
   - aprender inglés para mochileros
-  - inglés para viajar gratis
-  - frases en inglés gratis
+  - Inglés para Mochileros
+  - Ingles para Mochileros
+  - mochileros ingles hostels transporte publico para viajar
+  - frases de mochileros ingles hostels transporte publico
+  - Inglés para Mochileros para viajeros
+  - mochileros ingles hostels transporte publico aeropuerto hotel restaurante
+  - Inglés para Mochileros con ejemplos prácticos
+  - Inglés para Mochileros para hispanohablantes
 alt: Mochilero en estación de tren con mochila
 excerpt: >-
   Domina el inglés que necesitas en hostels (check-in, habitaciones compartidas,

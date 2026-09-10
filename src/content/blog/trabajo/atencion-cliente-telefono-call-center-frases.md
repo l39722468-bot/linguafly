@@ -9,9 +9,16 @@ description: >-
   poner en espera, transferir llamadas, resolver problemas y finalizar llamadas.
 readTime: 22 min
 keywords:
-  - Inglés para Call Center: Frases Telefónicas
+  - 'Inglés para Call Center: Frases Telefónicas'
   - inglés call center
-  - inglés de negocios gratis
+  - Inglés para Call Center
+  - Ingles para Call Center
+  - atencion cliente telefono call center frases en inglés para el trabajo
+  - atencion cliente telefono call center frases en inglés profesional
+  - Inglés para Call Center con ejemplos
+  - frases de atencion cliente telefono call center frases profesional
+  - cómo escribir atencion cliente telefono call center frases en inglés
+  - atencion cliente telefono call center frases en ingles para trabajar
 alt: Auriculares de call center sobre teclado
 excerpt: >-
   Guía de inglés telefónico para call center: confirma datos, gestiona esperas y transferencias y resuelve incidencias con claridad.

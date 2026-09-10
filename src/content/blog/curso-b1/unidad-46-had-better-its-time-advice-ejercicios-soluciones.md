@@ -9,18 +9,16 @@ description: >-
   advice, reading, listening y writing. Con soluciones comentadas.
 readTime: 25 min
 keywords:
-  - Ejercicios de Had Better e It's Time en Inglés B1
+  - 'Ejercicios de Had Better e It''s Time en Inglés B1'
   - had better ejercicios
-  - it's time English
+  - 'it''s time English'
   - advice vocabulary B1
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios had better inglés B1
   - cómo usar It’s time en inglés
   - formas de dar consejos en inglés intermedio
   - diferencia should y had better
-  - práctica advice vocabulary con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-46-had-better-its-time-advice-ejercicios-soluciones'
 image: /blog/curso-b1/unit-46/had-better-its-time.png
 alt: Had Better & It's Time — ejercicios B1 Unidad 46

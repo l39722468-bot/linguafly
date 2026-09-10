@@ -12,12 +12,12 @@ keywords:
   - ejercicios present continuous futuro
   - I am meeting
   - planes fijados agenda A2
-  - curso A2 Linguafly
   - ejercicios Present Continuous futuro A2
   - cómo hablar de planes fijados en inglés
   - frases I am meeting para futuro
   - agenda y citas en inglés básico
   - práctica futuro Present Continuous con soluciones
+  - present continuous futuro en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-24-present-continuous-futuro-ejercicios-soluciones'
 image: /blog/curso-a2/unit-24/a2-unit24-pc-future.png
 alt: Present Continuous futuro — ejercicios A2 Unidad 24

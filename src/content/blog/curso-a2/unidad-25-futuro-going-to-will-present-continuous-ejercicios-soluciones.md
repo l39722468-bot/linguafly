@@ -8,16 +8,16 @@ description: >-
   Practica todos los ejercicios de la Unidad 25 del curso A2: elegir entre going to, will y Present Continuous futuro, reading, listening y writing.
 readTime: 25 min
 keywords:
-  - Ejercicios de Futuros en Inglés A2: Will y Going To
+  - 'Ejercicios de Futuros en Inglés A2: Will y Going To'
   - ejercicios going to will present continuous
   - contraste futuros A2
   - will vs going to
-  - curso A2 Linguafly
   - ejercicios futuros going to will A2
   - diferencias entre will going to y Present Continuous
   - cuándo usar cada futuro en inglés
   - contraste de futuros con ejemplos A2
   - práctica futuros inglés A2 con soluciones
+  - Ejercicios de Futuros en Inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-25-futuro-going-to-will-present-continuous-ejercicios-soluciones'
 image: /blog/curso-a2/unit-25/a2-unit25-three-futures.png
 alt: Contraste de futuros — ejercicios A2 Unidad 25

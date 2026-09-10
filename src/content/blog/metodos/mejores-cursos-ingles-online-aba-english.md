@@ -11,7 +11,14 @@ alt: 'Tablet con lección de inglés británico'
 keywords:
   - 'ABA English: curso británico y exámenes'
   - aba english opinion
-  - curso inglés gratis online
+  - ABA English 2026
+  - ABA English 2026 para aprender inglés
+  - ABA English 2026 guía práctica
+  - cómo mejorar el inglés con ABA English 2026
+  - ABA English 2026 en ingles
+  - ABA English 2026 con ejemplos prácticos
+  - ABA English 2026 para hispanohablantes
+  - ABA English 2026 explicado paso a paso
 faqs:
   - question: '¿El certificado de ABA English vale como Cambridge o IELTS?'
     answer: >-

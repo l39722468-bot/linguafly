@@ -11,12 +11,14 @@ excerpt: >-
 keywords:
   - 'Slang Inglés Británico: 60 Expresiones y Significados'
   - slang ingles britanico
-  - curso inglés gratis online
   - slang británico y expresiones coloquiales gratis
   - expresiones informales del inglés británico con ejemplos
   - palabras británicas de Londres Manchester y Glasgow
   - vocabulario británico para entender series y podcasts
   - slang inglés británico para hablar como un nativo
+  - Cómo Habla el Reino Unido
+  - Cómo Habla el Reino Unido para aprender inglés
+  - Cómo Habla el Reino Unido guía práctica
 author: linguafly-team
 date: '2026-03-04'
 updatedDate: '2026-09-04'

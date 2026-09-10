@@ -10,7 +10,14 @@ excerpt: >-
 keywords:
   - 'Inglés Escocés: Características y Pronunciación'
   - acento escocés pronunciación
-  - curso inglés gratis online
+  - Inglés Escocés
+  - Ingles Escoces
+  - Inglés Escocés para aprender inglés
+  - Inglés Escocés guía práctica
+  - cómo mejorar el inglés con Inglés Escocés
+  - Inglés Escocés con ejemplos prácticos
+  - Inglés Escocés para hispanohablantes
+  - Inglés Escocés explicado paso a paso
 author: linguafly-team
 date: '2026-02-18'
 updatedDate: '2026-09-04'

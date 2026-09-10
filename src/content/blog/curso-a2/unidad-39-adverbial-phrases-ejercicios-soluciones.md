@@ -13,12 +13,12 @@ keywords:
   - adverbial phrases ejercicios
   - in the morning once a week
   - place before time
-  - curso A2 Linguafly
   - ejercicios frases adverbiales inglés A2
   - adverbios de tiempo lugar y frecuencia
   - cómo usar in the morning once a week
   - orden place before time en inglés
   - práctica adverbial phrases con soluciones
+  - Ejercicios de Frases Adverbiales en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-39-adverbial-phrases-ejercicios-soluciones'
 image: /blog/curso-a2/unit-39/a2-unit39-adverbial-phrases.png
 alt: Adverbial Phrases — ejercicios A2 Unidad 39

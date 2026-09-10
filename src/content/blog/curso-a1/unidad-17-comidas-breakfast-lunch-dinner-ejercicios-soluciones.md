@@ -9,12 +9,16 @@ description: >-
   soluciones comentadas de reading, listening y writing.
 readTime: 25 min
 keywords:
-  - Ejercicios de Comidas en Inglés A1: Breakfast y Dinner
+  - 'Ejercicios de Comidas en Inglés A1: Breakfast y Dinner'
   - ejercicios breakfast lunch dinner
   - I like cheese ejercicios
   - have breakfast ejercicios
   - contables incontables A1
-  - curso A1 Linguafly
+  - Ejercicios de Comida A1
+  - comidas breakfast lunch dinner en inglés A1
+  - comidas breakfast lunch dinner inglés A1
+  - ejercicios de comidas breakfast lunch dinner en inglés A1
+  - comidas breakfast lunch dinner ejercicios con soluciones A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-17-comidas-breakfast-lunch-dinner-ejercicios-soluciones'
 image: /blog/curso-a1/unit-17/a1-unit17-vocab.png
 alt: Comidas y gustos para ejercicios A1 Unidad 17

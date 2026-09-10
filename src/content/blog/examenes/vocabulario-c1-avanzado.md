@@ -8,13 +8,14 @@ excerpt: "El vocabulario del CAE no es una lista de palabras raras que hay que m
 keywords:
   - 'Vocabulario C1 Advanced: Palabras Clave para el CAE'
   - vocabulario c1 advanced
-  - preparar inglés gratis
-  - material de inglés gratis
   - vocabulario C1 Advanced para el CAE
   - palabras y expresiones inglés nivel C1
   - lista vocabulario Cambridge C1 con ejemplos
   - cómo mejorar vocabulario para el CAE
   - ejercicios vocabulario C1 Advanced gratis
+  - vocabulario c1 avanzado examen de inglés
+  - Vocabulario C1 Advanced España
+  - cómo preparar vocabulario c1 avanzado en inglés
 author: linguafly-team
 date: '2026-03-13'
 updatedDate: '2026-08-31'

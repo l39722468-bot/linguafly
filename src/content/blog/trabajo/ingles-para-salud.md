@@ -9,9 +9,16 @@ description: >-
   la atención al paciente, informes y comunicación profesional sanitaria.
 readTime: 5 min
 keywords:
-  - Inglés para el Sector Salud: Guía Profesional
+  - 'Inglés para el Sector Salud: Guía Profesional'
   - inglés para salud
-  - inglés de negocios gratis
+  - Inglés para Sanitarios
+  - Ingles para Sanitarios
+  - ingles para salud para el trabajo
+  - ingles para salud profesional
+  - Inglés para Sanitarios con ejemplos
+  - frases de ingles para salud profesional
+  - cómo escribir ingles para salud
+  - ingles para salud para trabajar
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-salud'
 related_routes:
   - ingles-para-trabajo

@@ -15,6 +15,10 @@ keywords:
   - inglés A2 unidad 54
   - how do you feel
   - proud nervous English
+  - 'Feelings & Emotions A2'
+  - feelings emotions en inglés A2
+  - feelings emotions inglés A2
+  - cómo usar feelings emotions en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-54-feelings-emotions'
 image: /blog/curso-a2/unit-54/a2-unit54-feelings-emotions.png
 alt: Esquema Feelings & Emotions A2

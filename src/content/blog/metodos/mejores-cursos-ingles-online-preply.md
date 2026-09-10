@@ -11,7 +11,14 @@ alt: 'Videollamada con tutor de inglés'
 keywords:
   - 'Preply: tutores para IELTS y Cambridge'
   - preply ingles examenes
-  - curso inglés gratis online
+  - Preply 2026
+  - Preply 2026 para aprender inglés
+  - Preply 2026 guía práctica
+  - cómo mejorar el inglés con Preply 2026
+  - Preply 2026 en ingles
+  - Preply 2026 con ejemplos prácticos
+  - Preply 2026 para hispanohablantes
+  - Preply 2026 explicado paso a paso
 faqs:
   - question: '¿Preply es un curso cerrado o elijo yo al profesor?'
     answer: >-

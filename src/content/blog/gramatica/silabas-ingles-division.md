@@ -10,13 +10,14 @@ excerpt: >-
 keywords:
   - 'Sílabas en Inglés: Cómo Dividir Palabras'
   - silabas ingles
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - cómo dividir palabras en sílabas en inglés
   - ejercicios gratis de sílabas inglesas
   - reglas de división silábica del inglés
   - sílabas y acento tónico en inglés
   - cómo contar sílabas en palabras inglesas
+  - Sílabas en Inglés
+  - Silabas en Ingles
+  - silabas ingles division
 author: linguafly-team
 date: '2026-03-01'
 updatedDate: '2026-09-04'

@@ -16,6 +16,9 @@ keywords:
   - inglés A1 unidad 36
   - violin flute A1
   - instrumentos musicales inglés
+  - instrumentos musicales en inglés A1
+  - instrumentos musicales inglés A1
+  - cómo usar instrumentos musicales en inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-36-instrumentos-musicales'
 image: /blog/curso-a1/unit-36/a1-unit36-play-the.png
 alt: Esquema play the + instrumento musical en inglés A1

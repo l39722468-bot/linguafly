@@ -9,7 +9,14 @@ excerpt: >-
 keywords:
   - 'CV en Inglés para Tecnología e IT: Guía y Plantilla'
   - cv ingles tecnologia
-  - inglés de negocios gratis
+  - CV en Inglés para IT
+  - CV en Ingles para IT
+  - cv ingles tecnologia it para el trabajo
+  - cv ingles tecnologia it profesional
+  - CV en Inglés para IT con ejemplos
+  - frases de cv ingles tecnologia it profesional
+  - cómo escribir cv ingles tecnologia it
+  - cv ingles tecnologia it para trabajar
 author: linguafly-team
 date: '2026-04-19'
 updatedDate: '2026-08-31'

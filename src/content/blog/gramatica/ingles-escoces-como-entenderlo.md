@@ -13,13 +13,14 @@ alt: Paisaje de las Highlands escocesas evocando el inglés escocés
 keywords:
   - 'Inglés Escocés: Por Qué Suena Tan Distinto'
   - diferencias ingles escoces ingles britanico
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - cómo entender el acento escocés en inglés
   - diferencias entre Scottish English y British English
   - pronunciación de la r en inglés escocés
   - ejercicios gratis de listening con acento escocés
   - vocabulario del inglés de Escocia con ejemplos
+  - Inglés Escocés
+  - Ingles Escoces
+  - ingles escoces como entenderlo
 faqs:
   - question: ¿El escocés y el inglés escocés son lo mismo?
     answer: >-

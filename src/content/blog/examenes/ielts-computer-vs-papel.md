@@ -10,9 +10,8 @@ category: examenes
 alt: Ordenador portátil y cuaderno sobre una mesa, representando los dos formatos del IELTS
 readTime: 6 min
 keywords:
-  - IELTS por Ordenador o en Papel: ¿Cuál Elegir?
+  - 'IELTS por Ordenador o en Papel: ¿Cuál Elegir?'
   - ielts computer vs papel
-  - material de inglés gratis
   - diferencias IELTS computer delivered y papel
   - IELTS ordenador o papel cuál elegir
   - ventajas y desventajas del IELTS por ordenador
@@ -20,6 +19,7 @@ keywords:
   - guía gratuita para elegir formato IELTS
   - ielts en papel o por computadora en Perú
   - diferencia entre el IELTS por computadora y en papel en Perú
+  - IELTS Ordenador o Papel
 excerpt: >-
   IELTS por ordenador vs. papel (incluye guía específica para Perú): compara
   formato, corrección y ventajas por sección para elegir la modalidad ideal.

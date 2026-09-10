@@ -12,12 +12,14 @@ readTime: 9 min
 keywords:
   - 'Past Perfect en Inglés: Usos, Reglas y Ejemplos'
   - past perfect ingles
-  - ejercicios de inglés gratis
   - cómo usar el past perfect en inglés con ejemplos
   - past perfect ejercicios gratis con soluciones
   - diferencia entre past perfect y past simple
   - past perfect para hablar de acciones pasadas
   - guía gratuita de past perfect B2 C1
+  - Cuál es la Diferencia entre Past Perfect y Past Simple
+  - cuándo usar past perfect ingles
+  - past perfect ingles con ejemplos para hispanohablantes
 excerpt: >-
   Had + participio: descubre cómo el Past Perfect aclara qué pasó primero
   cuando dos eventos ocurren en momentos distintos del pasado.

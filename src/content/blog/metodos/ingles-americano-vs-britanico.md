@@ -9,9 +9,16 @@ excerpt: >-
   pronunciación, vocabulario y ortografía para elegir la variante que mejor se
   adapta a tus objetivos.
 keywords:
-  - Inglés Americano vs Británico: Diferencias Clave
+  - 'Inglés Americano vs Británico: Diferencias Clave'
   - diferencias ingles americano britanico
-  - curso inglés gratis online
+  - Inglés Americano vs Británico
+  - Ingles Americano vs Britanico
+  - Inglés Americano versus Británico
+  - Inglés Americano or Británico
+  - diferencia entre Inglés Americano y Británico en inglés
+  - Inglés Americano vs Británico para aprender inglés
+  - Inglés Americano vs Británico guía práctica
+  - cómo mejorar el inglés con Inglés Americano vs Británico
 author: linguafly-team
 date: '2026-03-07'
 updatedDate: '2026-09-04'

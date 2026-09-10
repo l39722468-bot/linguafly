@@ -9,7 +9,14 @@ excerpt: >-
 keywords:
   - 'General American: Guía del Acento Americano'
   - general american acento
-  - curso inglés gratis online
+  - Acento Americano General American
+  - Acento Americano General American para aprender inglés
+  - Acento Americano General American guía práctica
+  - cómo mejorar el inglés con Acento Americano General American
+  - Acento Americano General American en ingles
+  - Acento Americano General American con ejemplos prácticos
+  - Acento Americano General American para hispanohablantes
+  - Acento Americano General American explicado paso a paso
 author: linguafly-team
 date: '2026-02-06'
 updatedDate: '2026-09-04'

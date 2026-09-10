@@ -17,13 +17,14 @@ excerpt: >-
 keywords:
   - 'C1 Advanced (CAE): Guía y Estrategias para Aprobar'
   - speaking cae estrategias
-  - preparar inglés gratis
-  - material de inglés gratis
   - cómo aprobar el Cambridge C1 Advanced CAE
   - estrategias de Use of English para CAE
   - ejercicios gratis de C1 Advanced con soluciones
   - estructuras de writing para Cambridge C1
   - vocabulario avanzado para el examen CAE
+  - Cómo Aprobar el C1 Advanced (CAE) de Cambridge
+  - cambridge c1 advanced examen de inglés
+  - Cómo Aprobar el C1 Advanced (CAE) de Cambridge España
 faqs:
   - question: '¿Qué diferencia al C1 Advanced (CAE) del B2 First en términos de exigencia?'
     answer: 'En el B2, el objetivo principal es la corrección gramatical. En el C1, se espera sofisticación, matices y flexibilidad lingüística. Los examinadores buscan estructuras de énfasis como inversiones, cleft sentences y participle clauses, además de vocabulario preciso e idioms avanzados en lugar de palabras genéricas como "good" o "bad".'

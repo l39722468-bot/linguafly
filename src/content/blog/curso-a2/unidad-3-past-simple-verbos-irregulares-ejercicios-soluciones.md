@@ -13,7 +13,12 @@ keywords:
   - ejercicios past simple irregulares
   - went saw had made wrote bought
   - irregular verbs past simple A2
-  - curso A2 Linguafly
+  - past simple verbos irregulares en inglés A2
+  - past simple verbos irregulares inglés A2
+  - ejercicios de past simple verbos irregulares en inglés A2
+  - past simple verbos irregulares ejercicios con soluciones A2
+  - práctica past simple verbos irregulares inglés A2
+  - unidad 3 past simple verbos irregulares inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-3-past-simple-verbos-irregulares-ejercicios-soluciones'
 image: /blog/curso-a2/unit-3/a2-unit3-irregular-verbs.png
 alt: Verbos irregulares Past Simple para ejercicios A2 Unidad 3

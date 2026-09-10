@@ -12,13 +12,13 @@ keywords:
   - Ejercicios de Should y Ought To en Inglés A2
   - should ought to ejercicios
   - dar consejos inglés A2
-  - shouldn't should I
-  - curso A2 Linguafly
+  - 'shouldn''t should I'
   - ejercicios should y ought to inglés A2
   - cómo dar consejos en inglés básico
   - diferencia should y ought to
   - preguntas Should I ejercicios A2
   - práctica shouldn’t con soluciones
+  - Ejercicios de Should y Ought To en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-38-should-ought-to-ejercicios-soluciones'
 image: /blog/curso-a2/unit-38/a2-unit38-should-ought-to.png
 alt: Should / Ought to — ejercicios A2 Unidad 38

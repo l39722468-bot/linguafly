@@ -8,16 +8,16 @@ description: >-
   Practica el repaso del Módulo 6 A1: some/any, much/many, too/enough, I would like, First/Then/Finally, should, pay for/spend on, reading, listening y writing.
 readTime: 25 min
 keywords:
-  - Repaso de Inglés A1: Módulo 6 con Ejercicios
+  - 'Repaso de Inglés A1: Módulo 6 con Ejercicios'
   - repaso módulo 6 A1
   - some any much many too enough
   - should pay for recipes review
-  - curso A1 Linguafly
   - ejercicios repaso módulo 6 inglés A1
   - revisión gramática A1 con soluciones
   - ejercicios some any much many too enough
   - vocabulario shopping food inglés básico
   - examen de repaso curso A1 Linguafly
+  - Repaso de Inglés A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-60-repaso-modulo-6-ejercicios-soluciones'
 image: /blog/curso-a1/unit-60/a1-unit60-module-map.png
 alt: Mapa repaso Módulo 6 A1 Unidad 60

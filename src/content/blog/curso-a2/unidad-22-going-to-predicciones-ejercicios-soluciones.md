@@ -10,14 +10,14 @@ readTime: 25 min
 keywords:
   - Ejercicios de Going To para Predicciones en Inglés A2
   - ejercicios going to predicciones
-  - It's going to rain
+  - 'It''s going to rain'
   - predicciones con evidencia A2
-  - curso A2 Linguafly
   - ejercicios going to predicciones A2
   - cómo hacer predicciones con evidencia en inglés
   - frases It’s going to rain ejercicios
   - futuro going to con señales presentes
   - práctica predicciones inglés A2 con soluciones
+  - Ejercicios de Going To para Predicciones en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-22-going-to-predicciones-ejercicios-soluciones'
 image: /blog/curso-a2/unit-22/a2-unit22-predictions.png
 alt: Going to predicciones — ejercicios A2 Unidad 22

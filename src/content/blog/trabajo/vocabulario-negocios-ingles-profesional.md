@@ -11,7 +11,14 @@ excerpt: >-
 keywords:
   - 'Vocabulario de Negocios en Inglés: 100+'
   - vocabulario de negocios en ingles
-  - inglés de negocios gratis
+  - Vocabulario de Negocios en Inglés 2026
+  - Vocabulario de Negocios en Ingles 2026
+  - vocabulario negocios ingles profesional para el trabajo
+  - vocabulario negocios ingles profesional
+  - Vocabulario de Negocios en Inglés 2026 con ejemplos
+  - frases de vocabulario negocios ingles profesional
+  - cómo escribir vocabulario negocios ingles profesional
+  - vocabulario negocios ingles profesional para trabajar
 author: linguafly-team
 date: '2026-02-06'
 updatedDate: '2026-08-31'

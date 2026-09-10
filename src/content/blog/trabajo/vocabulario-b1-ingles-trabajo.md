@@ -11,7 +11,14 @@ readTime: 7 min
 keywords:
   - 'Vocabulario de Trabajo en Inglés B1: Guía'
   - vocabulario trabajo ingles b1
-  - inglés de negocios gratis
+  - Vocabulario de Trabajo en Inglés B1
+  - Vocabulario de Trabajo en Ingles B1
+  - vocabulario b1 ingles trabajo para el trabajo
+  - vocabulario b1 ingles trabajo profesional
+  - Vocabulario de Trabajo en Inglés B1 con ejemplos
+  - frases de vocabulario b1 ingles trabajo profesional
+  - cómo escribir vocabulario b1 ingles trabajo
+  - vocabulario b1 ingles trabajo para trabajar
 canonical: 'https://linguafly.app/blog/trabajo/vocabulario-b1-ingles-trabajo'
 related_routes:
   - ingles-b1

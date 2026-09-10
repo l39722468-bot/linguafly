@@ -1,4 +1,4 @@
-﻿---
+---
 title: 'IELTS vs TOEFL para Trabajar: Diferencias y Claves'
 description: >-
   Comparamos IELTS y TOEFL desde una perspectiva profesional y migratoria.
@@ -12,6 +12,14 @@ excerpt: >-
 keywords:
   - 'IELTS vs TOEFL para Trabajar: Diferencias y Claves'
   - ielts o toefl profesional
+  - IELTS vs TOEFL para Trabajar
+  - IELTS versus TOEFL para Trabajar
+  - IELTS or TOEFL para Trabajar
+  - diferencia entre IELTS y TOEFL para Trabajar en inglés
+  - ielts vs toefl trabajo en inglés para el trabajo
+  - ielts vs toefl trabajo en inglés profesional
+  - IELTS vs TOEFL para Trabajar con ejemplos
+  - frases de ielts vs toefl trabajo profesional
 date: '2026-02-05'
 updatedDate: '2026-09-04'
 category: trabajo

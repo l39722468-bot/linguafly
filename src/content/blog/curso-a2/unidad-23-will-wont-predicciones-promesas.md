@@ -9,12 +9,16 @@ description: >-
   generales. Guía Unidad 23 con audios y ejercicios.
 readTime: 15 min
 keywords:
-  - will won't A2
+  - 'will won''t A2'
   - I will help you
   - promesas ofertas inglés
   - inglés A2 unidad 23
   - will predictions promises
-  - won't forget
+  - 'won''t forget'
+  - 'Will / Won''t A2'
+  - will wont predicciones promesas en inglés A2
+  - will wont predicciones promesas inglés A2
+  - cómo usar will wont predicciones promesas en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-23-will-wont-predicciones-promesas'
 image: /blog/curso-a2/unit-23/a2-unit23-will-wont.png
 alt: Esquema de will y won't para promesas y predicciones A2

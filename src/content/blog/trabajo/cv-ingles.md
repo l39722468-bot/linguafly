@@ -11,9 +11,16 @@ category: trabajo
 readTime: 18 min
 alt: Persona revisando un currículum vitae impreso sobre un escritorio
 keywords:
-  - CV en Inglés: Cómo Hacerlo y Superar Filtros ATS
+  - 'CV en Inglés: Cómo Hacerlo y Superar Filtros ATS'
   - cv ingles
-  - inglés de negocios gratis
+  - Cómo Hacer un CV en Inglés
+  - Como Hacer un CV en Ingles
+  - cv ingles para el trabajo
+  - cv ingles profesional
+  - Cómo Hacer un CV en Inglés con ejemplos
+  - frases de cv ingles profesional
+  - cómo escribir cv ingles
+  - cv ingles para trabajar
 faqs:
   - question: ¿Cuál es la diferencia entre un CV y un Resume en inglés?
     answer: >-

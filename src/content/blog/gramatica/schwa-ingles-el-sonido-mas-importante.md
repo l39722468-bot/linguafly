@@ -13,12 +13,14 @@ alt: Símbolos fonéticos escritos en una pizarra
 keywords:
   - 'Schwa en Inglés: Qué Es y Cómo Pronunciarlo'
   - schwa ingles
-  - ejercicios de inglés gratis
   - qué es el schwa en inglés y cómo pronunciarlo
   - ejercicios gratis para practicar el sonido schwa
   - schwa inglés para hispanohablantes con ejemplos
   - cómo mejorar la pronunciación con el sonido neutro
   - palabras en inglés con schwa y transcripción fonética
+  - Schwa en Inglés
+  - Schwa en Ingles
+  - schwa ingles el sonido mas importante
 faqs:
   - question: ¿Qué es exactamente el schwa?
     answer: >-

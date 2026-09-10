@@ -17,13 +17,14 @@ excerpt: >-
 keywords:
   - 'Cambridge B2 First (FCE): Guía y Plan para Aprobar'
   - como aprobar b2 first
-  - preparar inglés gratis
   - cómo aprobar Cambridge B2 First en 2026
   - estrategias FCE Reading Use of English y Writing
   - plan gratis de preparación B2 First en 8 semanas
   - errores frecuentes del examen Cambridge B2
   - trucos para subir nota en el speaking FCE
-  - material de inglés gratis
+  - Cambridge B2 First
+  - cambridge b2 first estrategias aprobar examen de inglés
+  - Cambridge B2 First España
 faqs:
   - question: ¿Cuántas veces puedo presentarme al Cambridge B2 First si suspendo?
     answer: >-

@@ -9,9 +9,16 @@ category: trabajo
 readTime: 16 min
 alt: Camarero con delantal negro atendiendo clientes en un restaurante moderno
 keywords:
-  - Inglés para Camareros y Hostelería: Guía Laboral
+  - 'Inglés para Camareros y Hostelería: Guía Laboral'
   - ingles hosteleria trabajo
-  - inglés de negocios gratis
+  - Cómo Aprender Inglés para Camareros y Hostelería
+  - Como Aprender Ingles para Camareros y Hosteleria
+  - ingles para camareros y hosteleria para el trabajo
+  - ingles para camareros y hosteleria profesional
+  - Cómo Aprender Inglés para Camareros y Hostelería con ejemplos
+  - frases de ingles para camareros y hosteleria profesional
+  - cómo escribir ingles para camareros y hosteleria
+  - ingles para camareros y hosteleria para trabajar
 faqs:
   - question: ¿Qué nivel de inglés necesito para trabajar como camarero en UK o Irlanda?
     answer: >-

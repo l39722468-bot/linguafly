@@ -12,14 +12,12 @@ keywords:
   - verb preposition ejercicios
   - depend on listen to
   - dependent prepositions
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios verbos y preposiciones inglés B1
   - lista dependent prepositions con ejemplos
   - diferencia depend on listen to wait for
   - combinaciones verbo preposición más frecuentes
-  - práctica verb preposition con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-41-verb-preposition-dependent-ejercicios-soluciones'
 image: /blog/curso-b1/unit-41/verb-preposition.png
 alt: Verb + Preposition & Dependent — ejercicios B1 Unidad 41

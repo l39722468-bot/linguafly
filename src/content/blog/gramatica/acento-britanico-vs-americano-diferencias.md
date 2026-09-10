@@ -11,14 +11,16 @@ category: gramatica
 readTime: 8 min
 alt: Banderas de Reino Unido y Estados Unidos simbolizando diferencias de pronunciación
 keywords:
-  - Inglés Británico vs Americano: Pronunciación y Uso
+  - 'Inglés Británico vs Americano: Pronunciación y Uso'
   - como suenan diferente ingles britanico americano
-  - ejercicios de inglés gratis
   - diferencias entre inglés británico y americano
   - pronunciación británica y americana con ejemplos
   - ejercicios gratis para distinguir acentos ingleses
   - qué inglés elegir británico o americano
   - diferencias de vocabulario y pronunciación UK US
+  - Inglés Británico vs Americano
+  - Ingles Britanico vs Americano
+  - Inglés Británico versus Americano
 faqs:
   - question: ¿Qué inglés es más fácil de entender, el británico o el americano?
     answer: >-

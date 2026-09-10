@@ -14,7 +14,14 @@ readTime: 6 min
 keywords:
   - 50 Frases de Atención al Cliente en Inglés
   - frases utiles call center ingles
-  - inglés de negocios gratis
+  - Qué Decir en Atención al Cliente
+  - frases ingles atencion al cliente situaciones para el trabajo
+  - frases ingles atencion al cliente situaciones profesional
+  - Qué Decir en Atención al Cliente con ejemplos
+  - frases de frases ingles atencion al cliente situaciones profesional
+  - cómo escribir frases ingles atencion al cliente situaciones
+  - frases ingles atencion al cliente situaciones para trabajar
+  - Qué Decir en Atención al Cliente con ejemplos prácticos
 faqs:
   - question: ¿Cómo digo "en este momento no puedo ayudarte con eso" en inglés de forma profesional?
     answer: >-

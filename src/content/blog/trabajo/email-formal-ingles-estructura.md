@@ -9,13 +9,16 @@ excerpt: >-
   casi todos los contextos profesionales. Dominarla es lo que separa un correo
   creíble de uno que suena raro o amateur.
 keywords:
-  - Email Formal en Inglés: Estructura y Ejemplos
+  - 'Email Formal en Inglés: Estructura y Ejemplos'
   - email format formal
   - formal email format
   - formal email layout
   - formal email structure
-  - formal email: structure
+  - 'formal email: structure'
   - como escribir email formal ingles
+  - Email Formal en Inglés
+  - Email Formal en Ingles
+  - email formal ingles estructura para el trabajo
 author: linguafly-team
 date: '2026-02-03'
 updatedDate: '2026-09-04'

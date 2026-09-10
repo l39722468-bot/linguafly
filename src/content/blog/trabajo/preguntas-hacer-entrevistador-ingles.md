@@ -1,4 +1,4 @@
-﻿---
+---
 title: '¿Qué Preguntar al Entrevistador? Estrategia en Inglés'
 description: >-
   ¿Qué responder cuando te preguntan "Do you have any questions"? Descubre
@@ -12,6 +12,14 @@ excerpt: >-
 keywords:
   - qué preguntar al entrevistador en inglés
   - preguntas para hacer en entrevista trabajo inglés ejemplos
+  - Qué Preguntar al Entrevistador
+  - preguntas hacer entrevistador ingles para el trabajo
+  - preguntas hacer entrevistador ingles profesional
+  - Qué Preguntar al Entrevistador con ejemplos
+  - frases de preguntas hacer entrevistador ingles profesional
+  - cómo escribir preguntas hacer entrevistador ingles
+  - preguntas hacer entrevistador ingles para trabajar
+  - Qué Preguntar al Entrevistador con ejemplos prácticos
 author: linguafly-team
 date: '2026-02-17'
 updatedDate: '2026-08-31'

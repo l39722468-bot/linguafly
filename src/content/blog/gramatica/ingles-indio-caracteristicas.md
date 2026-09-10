@@ -13,12 +13,14 @@ alt: Ciudad india moderna representando el inglés de India en contexto profesio
 keywords:
   - 'Inglés Indio: Características y Pronunciación'
   - acento indio ingles
-  - gramática inglesa gratis
   - características del inglés indio con ejemplos
   - cómo entender el acento indio en inglés
   - Indian English para trabajo y negocios
   - diferencias entre inglés indio y americano
   - ejercicios gratis para comprender el inglés indio
+  - Inglés Indio
+  - Ingles Indio
+  - ingles indio caracteristicas
 faqs:
   - question: ¿Hay un único "inglés indio" o son muchos acentos diferentes?
     answer: >-

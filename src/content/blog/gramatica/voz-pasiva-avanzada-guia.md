@@ -11,13 +11,14 @@ excerpt: >-
 keywords:
   - 'Voz Pasiva Avanzada: Causativa e Impersonal'
   - voz pasiva avanzada ingles
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - voz pasiva avanzada C1 C2 con ejemplos
   - ejercicios gratis de pasiva impersonal y causativa
   - it is said that y have something done
   - estructuras pasivas para Cambridge Advanced
   - pasiva inglesa avanzada para writing formal
+  - Voz Pasiva Avanzada
+  - voz pasiva avanzada en inglés
+  - voz pasiva avanzada en ingles
 author: linguafly-team
 date: '2026-03-02'
 updatedDate: '2026-09-04'

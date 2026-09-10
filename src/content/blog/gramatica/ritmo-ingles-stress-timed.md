@@ -11,12 +11,14 @@ excerpt: >-
 keywords:
   - 'Ritmo del Inglés: Stress-Timed y Pronunciación'
   - ritmo inglés
-  - gramática inglesa gratis
   - qué significa que el inglés sea stress timed
   - diferencia entre ritmo inglés y español
   - ejercicios gratis de ritmo y acento inglés
   - cómo mejorar el ritmo al hablar inglés
   - sílabas acentuadas y ritmo del inglés hablado
+  - Ritmo del Inglés
+  - Ritmo del Ingles
+  - ritmo ingles stress timed
 author: linguafly-team
 date: '2026-02-10'
 updatedDate: '2026-09-04'

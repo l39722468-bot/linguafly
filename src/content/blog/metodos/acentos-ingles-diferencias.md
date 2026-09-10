@@ -11,9 +11,16 @@ category: metodos
 readTime: 15 min
 alt: Banderas de países de habla inglesa sobre un fondo de un mapa del mundo
 keywords:
-  - Acentos del Inglés: Diferencias y Pronunciación
+  - 'Acentos del Inglés: Diferencias y Pronunciación'
   - ingles britanico vs americano acentos
-  - curso inglés gratis online
+  - Acentos del Inglés
+  - Acentos del Ingles
+  - Acentos del Inglés para aprender inglés
+  - Acentos del Inglés guía práctica
+  - cómo mejorar el inglés con Acentos del Inglés
+  - Acentos del Inglés con ejemplos prácticos
+  - Acentos del Inglés para hispanohablantes
+  - Acentos del Inglés explicado paso a paso
 faqs:
   - question: ¿Cuál es el acento del inglés más fácil de entender para hispanohablantes?
     answer: >-

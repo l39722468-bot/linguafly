@@ -8,7 +8,14 @@ excerpt: >-
 keywords:
   - 'Acento Irlandés en Inglés: Rasgos y Comprensión'
   - acento irlandés inglés
-  - curso inglés gratis online
+  - Acento Irlandés en Inglés
+  - Acento Irlandes en Ingles
+  - Acento Irlandés en Inglés para aprender inglés
+  - Acento Irlandés en Inglés guía práctica
+  - cómo mejorar el inglés con Acento Irlandés en Inglés
+  - Acento Irlandés en Inglés con ejemplos prácticos
+  - Acento Irlandés en Inglés para hispanohablantes
+  - Acento Irlandés en Inglés explicado paso a paso
 author: linguafly-team
 date: '2026-02-12'
 updatedDate: '2026-09-04'

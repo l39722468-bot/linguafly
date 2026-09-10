@@ -13,12 +13,14 @@ alt: Persona practicando pronunciación frente a un espejo
 keywords:
   - 'El Sonido TH en Inglés: Cómo Pronunciarlo'
   - sonido th ingles
-  - gramática inglesa gratis
   - cómo pronunciar el sonido th sordo y sonoro
   - ejercicios gratis para practicar think y this
   - posición de la lengua para pronunciar th
   - diferencia entre th de think y this
   - sonido th inglés para hispanohablantes
+  - El Sonido TH en Inglés
+  - El Sonido TH en Ingles
+  - sonido th ingles como pronunciarlo
 faqs:
   - question: ¿Cuál es la diferencia entre el TH de "think" y el de "this"?
     answer: >-

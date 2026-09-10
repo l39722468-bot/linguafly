@@ -15,7 +15,14 @@ alt: Dos personas sentadas frente a frente en una entrevista de trabajo profesio
 keywords:
   - 30 preguntas más comunes entrevista trabajo inglés
   - preguntas frecuentes entrevista inglés respuestas modelo
-  - inglés de negocios gratis
+  - 30 Preguntas Más Comunes en una Entrevista de Trabajo en Inglés
+  - 30 Preguntas Mas Comunes en una Entrevista de Trabajo en Ingles
+  - entrevista trabajo ingles preguntas para el trabajo
+  - entrevista trabajo ingles preguntas profesional
+  - 30 Preguntas Más Comunes en una Entrevista de Trabajo en Inglés con ejemplos
+  - frases de entrevista trabajo ingles preguntas profesional
+  - cómo escribir entrevista trabajo ingles preguntas
+  - entrevista trabajo ingles preguntas para trabajar
 faqs:
   - question: ¿Cómo respondo "Tell me about yourself" en inglés?
     answer: >-

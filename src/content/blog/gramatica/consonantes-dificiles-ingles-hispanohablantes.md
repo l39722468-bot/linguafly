@@ -11,14 +11,16 @@ category: gramatica
 readTime: 9 min
 alt: Diagrama de articulación de consonantes del inglés
 keywords:
-  - Consonantes Difíciles del Inglés: Guía de Pronunciación
+  - 'Consonantes Difíciles del Inglés: Guía de Pronunciación'
   - consonantes dificiles ingles
-  - gramática inglesa gratis
   - consonantes inglesas difíciles para hispanohablantes
   - cómo pronunciar la v y la w en inglés
   - ejercicios gratis de consonantes inglesas
   - diferencias entre consonantes españolas e inglesas
   - sonidos consonánticos del inglés con ejemplos
+  - Consonantes Difíciles del Inglés
+  - Consonantes Dificiles del Ingles
+  - consonantes dificiles ingles hispanohablantes
 faqs:
   - question: ¿Cuáles son las consonantes más difíciles del inglés para hispanohablantes?
     answer: >-

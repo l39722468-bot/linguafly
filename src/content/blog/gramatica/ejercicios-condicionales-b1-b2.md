@@ -11,12 +11,13 @@ keywords:
   - ejercicios condicionales b1 b2
   - second conditional ejercicios
   - third conditional ejercicios
-  - gramática inglesa gratis
   - ejercicios de second y third conditional B1 B2
   - condicionales B1 B2 en PDF con respuestas
   - práctica gratis de if clauses de pasado
   - transformar frases con second conditional
   - ejercicios de third conditional para exámenes
+  - Ejercicios de Condicionales B1-B2
+  - ejercicios condicionales b1 b2 en inglés
 author: linguafly-team
 date: '2026-07-30'
 updatedDate: '2026-08-31'

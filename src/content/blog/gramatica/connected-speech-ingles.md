@@ -10,8 +10,6 @@ excerpt: >-
 keywords:
   - 'Connected Speech en Inglés: Por Qué No Entiendes'
   - connected speech inglés
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - qué es connected speech en inglés con ejemplos
   - ejercicios gratis de connected speech y linking
   - cómo entender inglés hablado a velocidad normal
@@ -20,8 +18,6 @@ keywords:
   - connected speech para hispanohablantes explicado
   - ejercicios de linking elision y assimilation gratis
   - cómo entender el inglés nativo hablado rápido
-  - connected speech en inglés con ejemplos de audio
-  - técnicas para mejorar listening con connected speech
 author: linguafly-team
 date: '2026-02-04'
 updatedDate: '2026-08-31'

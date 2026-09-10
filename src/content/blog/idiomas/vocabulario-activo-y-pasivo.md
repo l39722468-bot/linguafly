@@ -13,6 +13,12 @@ keywords:
   - vocabulario pasivo
   - cómo recordar vocabulario
   - memorizar palabras de un idioma
+  - Vocabulario activo y pasivo
+  - Vocabulario activo y pasivo paso a paso
+  - cómo empezar a aprender un idioma desde cero
+  - plan de 14 días para aprender idiomas
+  - vocabulario activo vs pasivo en idiomas
+  - Vocabulario activo y pasivo con ejemplos prácticos
 excerpt: >-
   Reconocer una palabra en un texto no significa que sepas usarla. El salto
   está en recuperar la palabra sin pista y meterla en una frase tuya.

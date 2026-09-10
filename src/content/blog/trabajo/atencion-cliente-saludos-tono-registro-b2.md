@@ -9,9 +9,16 @@ description: >-
   rígido: frases modelo para chat, email y mostrador en inglés de servicio.
 readTime: 22 min
 keywords:
-  - Saludos, Tono y Registro en Atención al Cliente
+  - 'Saludos, Tono y Registro en Atención al Cliente'
   - registro formal inglés
-  - inglés de negocios gratis
+  - atencion cliente saludos tono registro b2 en inglés para el trabajo
+  - atencion cliente saludos tono registro b2 en inglés profesional
+  - 'Saludos, Tono y Registro en Atención al Cliente con ejemplos'
+  - frases de atencion cliente saludos tono registro b2 profesional
+  - cómo escribir atencion cliente saludos tono registro b2 en inglés
+  - atencion cliente saludos tono registro b2 en ingles para trabajar
+  - 'Saludos, Tono y Registro en Atención al Cliente con ejemplos prácticos'
+  - 'Saludos, Tono y Registro en Atención al Cliente para hispanohablantes'
 alt: Profesionales en oficina de atención
 excerpt: >-
   Guía práctica de inglés para soporte: opening lines, empatía, límites y

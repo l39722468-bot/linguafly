@@ -14,7 +14,12 @@ keywords:
   - ejercicios comparativos inglés
   - taller than more expensive
   - better worse as tall as
-  - curso A2 Linguafly
+  - Ejercicios de Comparativos en Ingles A2
+  - comparativos er more than en inglés A2
+  - comparativos er more than inglés A2
+  - ejercicios de comparativos er more than en inglés A2
+  - comparativos er more than ejercicios con soluciones A2
+  - práctica comparativos er more than inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-5-comparativos-er-more-than-ejercicios-soluciones'
 image: /blog/curso-a2/unit-5/a2-unit5-comparatives.png
 alt: Comparativos para ejercicios A2 Unidad 5

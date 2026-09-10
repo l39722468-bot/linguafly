@@ -16,6 +16,8 @@ keywords:
   - ejercicios inglés B1 gratis
   - curso inglés B1 gratis
   - gramática inglés B1
+  - 'Compound Adjectives B1 + Travel & Descriptions'
+  - compound adjectives travel en inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-37-compound-adjectives-travel'
 image: /blog/curso-b1/unit-37/compound-adjectives.png
 alt: 'Compound adjectives B1'

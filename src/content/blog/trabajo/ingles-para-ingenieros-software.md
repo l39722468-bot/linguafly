@@ -11,8 +11,16 @@ canonical: >-
   https://linguafly.app/blog/trabajo/ingles-para-ingenieros-software
 readTime: 6 min
 keywords:
-  - Inglés para Ingenieros de Software: Guía Técnica
+  - 'Inglés para Ingenieros de Software: Guía Técnica'
   - ingles para ingenieros
+  - Inglés para Ingenieros de Software
+  - Ingles para Ingenieros de Software
+  - ingles para ingenieros software para el trabajo
+  - ingles para ingenieros software profesional
+  - Inglés para Ingenieros de Software con ejemplos
+  - frases de ingles para ingenieros software profesional
+  - cómo escribir ingles para ingenieros software
+  - ingles para ingenieros software para trabajar
 faqs:
   - question: ¿Qué nivel de inglés necesito para trabajar en una empresa tech internacional?
     answer: >-

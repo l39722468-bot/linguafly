@@ -12,12 +12,12 @@ keywords:
   - feelings emotions ejercicios
   - I feel excited worried
   - How do you feel
-  - curso A2 Linguafly
   - ejercicios sentimientos y emociones inglés A2
   - cómo decir cómo te sientes en inglés
   - vocabulario excited worried bored nervous
   - frases I feel en inglés básico
   - práctica feelings emotions con soluciones
+  - Ejercicios de Sentimientos y Emociones en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-54-feelings-emotions-ejercicios-soluciones'
 image: /blog/curso-a2/unit-54/a2-unit54-feelings-emotions.png
 alt: Feelings & Emotions — ejercicios A2 Unidad 54

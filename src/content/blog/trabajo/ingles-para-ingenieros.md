@@ -10,9 +10,16 @@ description: >-
   reuniones de equipo.
 readTime: 5 min
 keywords:
-  - Inglés para Ingenieros: Vocabulario y Reuniones
+  - 'Inglés para Ingenieros: Vocabulario y Reuniones'
   - inglés para ingenieros
-  - inglés de negocios gratis
+  - Ingles para Ingenieros
+  - ingles para ingenieros para el trabajo
+  - ingles para ingenieros profesional
+  - Inglés para Ingenieros con ejemplos
+  - frases de ingles para ingenieros profesional
+  - cómo escribir ingles para ingenieros
+  - ingles para ingenieros para trabajar
+  - Inglés para Ingenieros con ejemplos prácticos
 canonical: 'https://linguafly.app/blog/trabajo/ingles-para-ingenieros'
 related_routes:
   - ingles-para-trabajo

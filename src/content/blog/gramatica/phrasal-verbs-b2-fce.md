@@ -11,7 +11,6 @@ readTime: 9 min
 keywords:
   - 'Phrasal Verbs para el B2 (FCE): Lista Completa'
   - phrasal verbs fce
-  - ejercicios de inglés gratis
   - phrasal verbs B2 First FCE con ejemplos
   - lista de phrasal verbs más frecuentes en Cambridge
   - ejercicios gratis de phrasal verbs para FCE
@@ -20,8 +19,6 @@ keywords:
   - phrasal verbs FCE B2 ejercicios con respuestas
   - lista imprimible de phrasal verbs para First Certificate
   - phrasal verbs que aparecen en Use of English FCE
-  - diferencias entre phrasal verbs B2 parecidos
-  - práctica gratuita de phrasal verbs para Cambridge B2
 excerpt: >-
   El B2 First exige manejar los phrasal verbs con soltura, especialmente en las partes de Use of English y Writing. Esta es la lista de los que aparecen con más frecuencia y los que más confunden.
 faqs:

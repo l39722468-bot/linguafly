@@ -11,15 +11,16 @@ category: gramatica
 readTime: 7 min
 alt: Ciudad del sur de Estados Unidos representando el inglés sureño americano
 keywords:
-  - Inglés del Sur de Estados Unidos: Guía y Acento
+  - 'Inglés del Sur de Estados Unidos: Guía y Acento'
   - ingles sur estados unidos
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - Southern American English características y ejemplos
   - cómo entender el acento sureño americano
   - expresiones del sur de Estados Unidos en inglés
   - ejercicios gratis para reconocer el Southern accent
   - diferencias entre acento sureño y americano estándar
+  - Inglés del Sur de Estados Unidos
+  - Ingles del Sur de Estados Unidos
+  - acento sur eeuu southern american en inglés
 faqs:
   - question: ¿El "Southern accent" es un único acento o hay variedad dentro?
     answer: >-

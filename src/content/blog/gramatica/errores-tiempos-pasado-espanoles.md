@@ -12,12 +12,14 @@ readTime: 7 min
 keywords:
   - Errores con los Tiempos de Pasado en Inglés
   - tiempos pasado ingles errores
-  - gramática inglesa gratis
   - errores de past simple y present perfect
   - errores de tiempos pasados para hispanohablantes
   - ejercicios gratis de tiempos pasados ingleses
   - cómo corregir errores del pasado en inglés
   - past continuous y past simple errores comunes
+  - Errores de Tiempos Pasados en Inglés
+  - Errores de Tiempos Pasados en Ingles
+  - errores tiempos pasado espanoles en inglés
 excerpt: >-
   Corrige errores frecuentes con Past Simple, Present Perfect, Past Continuous y Past Perfect mediante ejemplos claros y ejercicios.
 faqs:

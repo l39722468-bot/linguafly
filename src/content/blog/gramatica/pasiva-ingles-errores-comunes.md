@@ -8,14 +8,16 @@ excerpt: >-
   mal formados, verbos que no admiten pasiva, el "by" mal puesto... Aquí están
   los más frecuentes y cómo corregirlos de una vez.
 keywords:
-  - Errores de la Voz Pasiva en Inglés: Cómo Evitarlos
+  - 'Errores de la Voz Pasiva en Inglés: Cómo Evitarlos'
   - errores pasiva ingles
-  - ejercicios de inglés gratis
   - errores frecuentes de la voz pasiva en inglés
   - cómo corregir errores de pasiva en inglés
   - verbos que no se pueden usar en pasiva inglesa
   - ejercicios gratis de errores de voz pasiva
   - participios irregulares en la voz pasiva
+  - Errores de la Voz Pasiva en Inglés
+  - Errores de la Voz Pasiva en Ingles
+  - pasiva ingles errores comunes
 author: linguafly-team
 date: '2026-03-01'
 updatedDate: '2026-09-04'

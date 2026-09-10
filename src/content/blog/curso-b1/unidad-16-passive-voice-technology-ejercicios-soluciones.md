@@ -12,14 +12,12 @@ keywords:
   - passive voice ejercicios
   - voz pasiva ejercicios B1
   - technology vocabulary ejercicios
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios voz pasiva inglés B1
   - cómo formar passive voice present past
   - past participle en la voz pasiva
   - vocabulario tecnología en inglés B1
-  - práctica passive voice con soluciones
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-16-passive-voice-technology-ejercicios-soluciones'
 image: /blog/curso-b1/unit-16/passive-voice.png
 alt: Passive Voice & Technology — ejercicios B1 Unidad 16

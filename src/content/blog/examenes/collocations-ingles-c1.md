@@ -6,14 +6,16 @@ description: >-
 readTime: 8 min
 excerpt: "Las collocations son las combinaciones de palabras que los hablantes nativos usan de manera automática. En el CAE, elegir la combinación incorrecta delata un nivel inferior aunque tu gramática sea perfecta."
 keywords:
-  - Collocations en Inglés C1: Lista y Ejemplos para CAE
+  - 'Collocations en Inglés C1: Lista y Ejemplos para CAE'
   - aprender collocations ingles
-  - preparar inglés gratis
   - collocations C1 Advanced para el CAE
   - lista collocations inglés con ejemplos
   - ejercicios de collocations nivel C1
   - verbos y sustantivos collocations Cambridge
   - cómo aprender collocations para el examen
+  - Collocations en Inglés C1
+  - Collocations en Ingles C1
+  - collocations ingles c1 examen de inglés
 author: linguafly-team
 date: '2026-03-21'
 updatedDate: '2026-09-04'

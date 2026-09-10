@@ -13,13 +13,14 @@ alt: Hispanohablante practicando pronunciación inglesa con un profesor
 keywords:
   - 10 Errores de Pronunciación en Inglés y Soluciones
   - errores pronunciacion ingles hispanohablantes
-  - ejercicios de inglés gratis
-  - gramática inglesa gratis
   - errores de pronunciación inglesa más comunes
   - ejercicios gratis para corregir el acento español
   - cómo mejorar la pronunciación inglesa siendo hispanohablante
   - sonidos ingleses difíciles para españoles
   - errores de pronunciación en inglés con soluciones
+  - 10 Errores de Pronunciacion en Ingles y Soluciones
+  - errores pronunciacion hispanohablantes en inglés
+  - errores pronunciacion hispanohablantes en ingles
 faqs:
   - question: ¿Cuánto tiempo lleva corregir los errores de pronunciación más comunes?
     answer: >-

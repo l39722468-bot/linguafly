@@ -12,12 +12,14 @@ readTime: 6 min
 keywords:
   - 'Say vs Tell en Inglés: Diferencias y Ejemplos'
   - say tell diferencia ingles
-  - ejercicios de inglés gratis
   - diferencia entre say y tell en inglés con ejemplos
   - ejercicios gratis de say y tell con soluciones
   - cuándo usar say tell y speak en inglés
   - errores comunes de say y tell para hispanohablantes
   - reported speech con say y tell explicado
+  - Say o Tell
+  - say vs tell ingles
+  - cuándo usar say vs tell ingles
 excerpt: >-
   "I said him" es incorrecto: descubre la diferencia real entre say y tell,
   sus estructuras y cómo evitar el error más común de hispanohablantes.

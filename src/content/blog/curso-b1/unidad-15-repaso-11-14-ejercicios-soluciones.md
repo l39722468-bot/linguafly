@@ -8,18 +8,16 @@ description: >-
   Practica todos los ejercicios de la Unidad 15 del curso B1: first, second y third conditional + time clauses; weather, entertainment, regrets (mix),...
 readTime: 25 min
 keywords:
-  - Repaso de Condicionales B1: Unidades 11 a 14
+  - 'Repaso de Condicionales B1: Unidades 11 a 14'
   - repaso condicionales B1
   - first second third ejercicios
   - conditionals review
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios repaso condicionales inglés B1
   - revisión first second third conditional
   - time clauses y conditionals con soluciones
   - repaso weather entertainment regrets B1
-  - examen práctico condicionales B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-15-repaso-11-14-ejercicios-soluciones'
 image: /blog/curso-b1/unit-15/review-conditionals.png
 alt: Repaso 11–14 — ejercicios B1 Unidad 15

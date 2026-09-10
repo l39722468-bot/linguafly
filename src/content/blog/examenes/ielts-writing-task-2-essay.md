@@ -12,13 +12,14 @@ readTime: 8 min
 keywords:
   - 'IELTS Writing Task 2: Estructura y Ejemplos'
   - ielts writing task 2
-  - preparar inglés gratis
-  - material de inglés gratis
   - estructura del IELTS Writing Task 2 paso a paso
   - tipos de ensayo IELTS Task 2 con ejemplos
   - ejercicios gratis de IELTS Writing con respuestas
   - cómo escribir un ensayo Band 7 en IELTS
   - criterios de evaluación del Writing Task 2
+  - ielts writing task 2 essay examen de inglés
+  - IELTS Writing Task 2 España
+  - cómo preparar ielts writing task 2 essay en inglés
 excerpt: >-
   El Task 2 vale el doble que el Task 1: entender el tipo de pregunta y
   estructurar bien la respuesta es lo que marca la diferencia en tu banda.

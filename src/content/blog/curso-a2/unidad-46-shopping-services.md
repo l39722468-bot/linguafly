@@ -15,6 +15,10 @@ keywords:
   - refund exchange
   - inglés A2 unidad 46
   - department store vocabulary
+  - '"Can I Help You'
+  - shopping services en inglés A2
+  - shopping services inglés A2
+  - cómo usar shopping services en inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-46-shopping-services'
 image: /blog/curso-a2/unit-46/a2-unit46-shopping-services.png
 alt: Esquema Shopping & Services A2

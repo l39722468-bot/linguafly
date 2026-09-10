@@ -15,7 +15,14 @@ alt: Estudiantes colaborando en una clase de inglés moderna
 keywords:
   - 'Clases de Inglés 2026: Academia, Particular u Online'
   - clases de ingles
-  - curso inglés gratis online
+  - Clases de Inglés 2026
+  - Clases de Ingles 2026
+  - Clases de Inglés 2026 para aprender inglés
+  - Clases de Inglés 2026 guía práctica
+  - cómo mejorar el inglés con Clases de Inglés 2026
+  - Clases de Inglés 2026 con ejemplos prácticos
+  - Clases de Inglés 2026 para hispanohablantes
+  - Clases de Inglés 2026 explicado paso a paso
 faqs:
   - question: ¿Cuál es la mejor forma de recibir clases de inglés hoy?
     answer: >-

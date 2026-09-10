@@ -12,14 +12,12 @@ keywords:
   - tenses review B1
   - present perfect ejercicios
   - past perfect going to
-  - curso B1 Linguafly
   - curso inglés B1 gratis
   - ejercicios inglés B1 gratis
   - ejercicios tiempos verbales B1 resueltos
   - present perfect continuous ejercicios B1
   - past perfect y futuros ejercicios
   - repaso tenses inglés nivel B1
-  - ejercicios present perfect past perfect
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-54-review-tenses-ejercicios-soluciones'
 image: /blog/curso-b1/unit-54/tenses-map.png
 alt: Review Tenses — ejercicios B1 Unidad 54

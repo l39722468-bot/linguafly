@@ -14,6 +14,10 @@ keywords:
   - language vocabulary English
   - inglés B1 unidad 19
   - curso inglés B1 gratis
+  - Reported Speech B1
+  - reported speech questions en inglés B1
+  - reported speech questions inglés B1
+  - cómo usar reported speech questions en inglés B1
 canonical: 'https://linguafly.app/blog/curso-b1/unidad-19-reported-speech-questions'
 image: /blog/curso-b1/unit-19/reported-questions.png
 alt: 'Reported questions and commands B1'

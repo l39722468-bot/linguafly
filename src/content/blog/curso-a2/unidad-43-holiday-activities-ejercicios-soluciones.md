@@ -12,12 +12,12 @@ keywords:
   - holiday activities ejercicios
   - sightseeing guided tour
   - past simple present perfect viaje
-  - curso A2 Linguafly
   - ejercicios actividades vacaciones inglés A2
   - vocabulario sightseeing y guided tour
   - Past Simple y Present Perfect viajes
   - cómo hablar de vacaciones en inglés
   - práctica holiday activities con soluciones
+  - Ejercicios de Actividades de Vacaciones en Ingles A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-43-holiday-activities-ejercicios-soluciones'
 image: /blog/curso-a2/unit-43/a2-unit43-holiday-activities.png
 alt: Holiday Activities — ejercicios A2 Unidad 43

@@ -15,6 +15,10 @@ keywords:
   - inglés A2 unidad 56
   - turn on log in
   - send receive message
+  - Tecnología y Comunicación en Inglés A2
+  - Tecnologia y Comunicacion en Ingles A2
+  - technology communication en inglés A2
+  - technology communication inglés A2
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-56-technology-communication'
 image: /blog/curso-a2/unit-56/a2-unit56-technology-communication.png
 alt: Esquema Technology & Communication A2

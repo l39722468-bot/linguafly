@@ -10,7 +10,14 @@ excerpt: >-
 keywords:
   - 'Emails de Negociación en Inglés: Cómo Escribirlos'
   - como negociar por email ingles
-  - inglés de negocios gratis
+  - Emails de Negociación en Inglés
+  - Emails de Negociacion en Ingles
+  - email negociacion ingles para el trabajo
+  - email negociacion ingles profesional
+  - Emails de Negociación en Inglés con ejemplos
+  - frases de email negociacion ingles profesional
+  - cómo escribir email negociacion ingles
+  - email negociacion ingles para trabajar
 author: linguafly-team
 date: '2026-02-18'
 updatedDate: '2026-08-31'

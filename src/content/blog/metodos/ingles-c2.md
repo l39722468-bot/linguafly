@@ -11,12 +11,14 @@ readTime: 9 min
 keywords:
   - 'Nivel C2 de Inglés: Qué Es y Cómo Alcanzarlo'
   - nivel c2 ingles que es
-  - curso inglés gratis online
   - cómo alcanzar el nivel C2 de inglés gratis
   - diferencias entre C1 y C2 de inglés
   - examen CPE Cambridge nivel C2 preparación
   - cuántas horas hacen falta para llegar a C2
   - curso gratuito de inglés avanzado C2
+  - Nivel C2 de Inglés
+  - Nivel C2 de Ingles
+  - Nivel C2 de Inglés para aprender inglés
 canonical: 'https://linguafly.app/blog/metodos/ingles-c2'
 related_routes:
   - ingles-c1

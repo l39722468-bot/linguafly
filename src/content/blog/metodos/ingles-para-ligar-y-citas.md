@@ -13,7 +13,14 @@ alt: Pareja joven conversando en una cafetería con ambiente íntimo
 keywords:
   - 'Inglés para Ligar y Citas: Frases Naturales'
   - ingles para ligar y citas
-  - curso inglés gratis online
+  - Inglés para Ligar y Citas
+  - Inglés para Ligar y Citas para aprender inglés
+  - Inglés para Ligar y Citas guía práctica
+  - cómo mejorar el inglés con Inglés para Ligar y Citas
+  - Inglés para Ligar y Citas con ejemplos prácticos
+  - Inglés para Ligar y Citas para hispanohablantes
+  - Inglés para Ligar y Citas explicado paso a paso
+  - Ingles para Ligar y Citas con ejemplos practicos
 faqs:
   - question: ¿Cómo se dice "me gustas" en inglés?
     answer: >-

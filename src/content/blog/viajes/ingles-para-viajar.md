@@ -9,10 +9,16 @@ description: >-
   aeropuertos, hoteles, restaurantes y emergencias, con pronunciación.
 readTime: 5 min
 keywords:
-  - Inglés para Viajar: Frases y Vocabulario Esencial
+  - 'Inglés para Viajar: Frases y Vocabulario Esencial'
   - aprender ingles para viajar rapido
-  - inglés para viajar gratis
-  - frases en inglés gratis
+  - Qué Inglés Necesitas para Viajar
+  - Que Ingles Necesitas para Viajar
+  - ingles para viajar
+  - frases de ingles para viajar
+  - ingles para viajar aeropuerto hotel restaurante
+  - Qué Inglés Necesitas para Viajar con ejemplos prácticos
+  - Qué Inglés Necesitas para Viajar para hispanohablantes
+  - Qué Inglés Necesitas para Viajar explicado paso a paso
 canonical: 'https://linguafly.app/blog/viajes/ingles-para-viajar'
 related_routes:
   - ingles-a1

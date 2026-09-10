@@ -12,15 +12,16 @@ excerpt: >-
   IELTS, Cambridge, TOEFL, Duolingo: te explicamos qué acepta cada institución,
   cuánto tardan los resultados y cuál te conviene según tu objetivo real.
 keywords:
-  - Certificados de Inglés 2026: IELTS, TOEFL o Cambridge
+  - 'Certificados de Inglés 2026: IELTS, TOEFL o Cambridge'
   - mejores certificados de inglés 2026
-  - preparar inglés gratis
-  - material de inglés gratis
   - mejor certificado de inglés para trabajar
   - certificado inglés para estudiar en extranjero
   - IELTS TOEFL Cambridge cuál elegir
   - certificados inglés que no caducan
   - comparativa exámenes inglés 2026
+  - Certificados de Inglés 2026
+  - Certificados de Ingles 2026
+  - mejores certificados ingles 2026 examen de inglés
 canonical: 'https://linguafly.app/blog/examenes/mejores-certificados-ingles-2026'
 related_routes:
   - cambridge-c1-advanced-guia

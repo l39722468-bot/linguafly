@@ -11,14 +11,16 @@ category: metodos
 readTime: 11 min
 alt: Persona estudiando inglés con tarjetas de vocabulario y notas en una mesa
 keywords:
-  - Repetición Espaciada para Aprender Inglés: Guía
+  - 'Repetición Espaciada para Aprender Inglés: Guía'
   - repetición espaciada inglés
-  - curso inglés gratis online
   - repetición espaciada para aprender inglés gratis
   - cómo usar SRS para memorizar vocabulario inglés
   - mejores apps gratuitas de repetición espaciada
   - curva del olvido y vocabulario inglés
   - método de tarjetas para aprender inglés desde cero
+  - Repetición Espaciada para Aprender Inglés
+  - Repeticion Espaciada para Aprender Ingles
+  - Repetición Espaciada para Aprender Inglés guía práctica
 faqs:
   - question: '¿Qué es exactamente la repetición espaciada?'
     answer: >-

@@ -10,14 +10,16 @@ category: gramatica
 alt: Tabla de expresiones de tiempo en reported speech inglés
 readTime: 6 min
 keywords:
-  - Expresiones de Tiempo en Reported Speech: Guía
+  - 'Expresiones de Tiempo en Reported Speech: Guía'
   - expresiones tiempo reported speech
-  - ejercicios de inglés gratis
   - cambios de tiempo y lugar en reported speech
   - today yesterday tomorrow en estilo indirecto
   - ejercicios gratis de expresiones de reported speech
   - tabla de cambios temporales en inglés indirecto
   - cómo cambiar now here y this en reported speech
+  - Reported Speech
+  - reported speech expresiones tiempo en inglés
+  - reported speech expresiones tiempo en ingles
 excerpt: >-
   Tabla práctica de cambios en reported speech: today/that day, here/there y tomorrow/the following day, con ejemplos y excepciones del estilo indirecto.
 faqs:

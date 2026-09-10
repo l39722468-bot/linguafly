@@ -11,6 +11,14 @@ readTime: 22 min
 keywords:
   - 'Australian English: Schwa, Ritmo y Flapping'
   - australian english fonética
+  - Australian English
+  - Australian English para aprender inglés
+  - Australian English guía práctica
+  - cómo mejorar el inglés con Australian English
+  - Australian English en ingles
+  - Australian English con ejemplos prácticos
+  - Australian English para hispanohablantes
+  - Australian English explicado paso a paso
 alt: Ondas de sonido abstractas
 excerpt: >-
   Cómo escuchar y producir patrones más naturales en inglés australiano:

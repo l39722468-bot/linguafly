@@ -12,12 +12,12 @@ keywords:
   - ejercicios must should aeropuerto
   - passport boarding pass check-in
   - at the airport A1
-  - curso A1 Linguafly
   - ejercicios inglés aeropuerto A1 con soluciones
   - vocabulario passport boarding pass en inglés
   - cómo usar must y should en inglés A1
   - frases útiles check-in aeropuerto inglés
   - práctica inglés para viajar en avión A1
+  - Ejercicios de Ingles para el Aeropuerto A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-41-aeropuerto-must-should-ejercicios-soluciones'
 image: /blog/curso-a1/unit-41/a1-unit41-must-should.png
 alt: Must y should en el aeropuerto para ejercicios A1 Unidad 41

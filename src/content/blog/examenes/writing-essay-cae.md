@@ -7,14 +7,16 @@ description: >-
 readTime: 8 min
 excerpt: "Aprende la estructura del essay del CAE, conectores y vocabulario que buscan los examinadores, con ejemplos y consejos para subir nota."
 keywords:
-  - Essay del CAE: Estructura, Consejos y Ejemplos
+  - 'Essay del CAE: Estructura, Consejos y Ejemplos'
   - como escribir essay c1 advanced
-  - preparar inglés gratis
   - estructura essay CAE paso a paso
   - conectores para essay C1 Advanced
   - ejemplos essay Cambridge C1 corregidos
   - cómo argumentar en el essay del CAE
   - errores frecuentes Writing CAE essay
+  - Essay del CAE
+  - writing essay cae examen de inglés
+  - Essay del CAE España
 author: linguafly-team
 date: '2026-03-19'
 updatedDate: '2026-09-04'

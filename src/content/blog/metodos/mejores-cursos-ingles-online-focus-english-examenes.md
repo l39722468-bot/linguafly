@@ -13,7 +13,14 @@ alt: 'Persona leyendo artículos de inglés en el portátil'
 keywords:
   - 'Linguafly 2026: Blog de Inglés Gratis y Guías'
   - curso de ingles
-  - curso inglés gratis online
+  - Linguafly 2026
+  - Linguafly 2026 para aprender inglés
+  - Linguafly 2026 guía práctica
+  - cómo mejorar el inglés con Linguafly 2026
+  - Linguafly 2026 en ingles
+  - Linguafly 2026 con ejemplos prácticos
+  - Linguafly 2026 para hispanohablantes
+  - Linguafly 2026 explicado paso a paso
 faqs:
   - question: '¿Linguafly vende un curso de inglés online?'
     answer: >-

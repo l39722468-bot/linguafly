@@ -9,14 +9,16 @@ category: gramatica
 alt: Persona haciendo una promesa en inglés usando will
 readTime: 7 min
 keywords:
-  - Will para Promesas y Decisiones: Usos y Ejemplos
+  - 'Will para Promesas y Decisiones: Usos y Ejemplos'
   - will promesas ingles
-  - gramática inglesa gratis
   - cómo usar will para hacer promesas en inglés
   - decisiones espontáneas con will ejemplos
   - ejercicios gratis de will y going to
   - diferencia entre will y going to para promesas
   - frases de promesa en inglés con will
+  - Will para Promesas y Decisiones
+  - will promesas decisiones ingles
+  - cuándo usar will promesas decisiones ingles
 excerpt: >-
   Dos de los usos más importantes de will en inglés son las promesas y las decisiones espontáneas. Aprende cómo funcionan, con ejemplos reales y los errores típicos de hispanohablantes.
 faqs:

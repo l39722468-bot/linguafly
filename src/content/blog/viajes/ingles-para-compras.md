@@ -13,8 +13,14 @@ alt: Persona con bolsas de compras en una calle comercial de Londres
 keywords:
   - 'Inglés para Ir de Compras: Frases y Vocabulario'
   - ingles para compras
-  - frases en inglés gratis
-  - inglés para viajar gratis
+  - Inglés para Ir de Compras
+  - Ingles para Ir de Compras
+  - ingles para compras para viajar
+  - frases de ingles para compras
+  - Inglés para Ir de Compras para viajeros
+  - ingles para compras aeropuerto hotel restaurante
+  - Inglés para Ir de Compras con ejemplos prácticos
+  - Inglés para Ir de Compras para hispanohablantes
 faqs:
   - question: ¿Cómo pregunto mi talla en inglés en una tienda?
     answer: >-

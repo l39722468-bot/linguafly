@@ -8,12 +8,16 @@ description: >-
   Practica la Unidad 19 A1: in/on, meses, ordinales, When is your birthday?, reading, listening, writing y soluciones comentadas.
 readTime: 25 min
 keywords:
-  - Ejercicios de Meses, Fechas y Cumpleaños en Inglés A1
+  - 'Ejercicios de Meses, Fechas y Cumpleaños en Inglés A1'
   - ejercicios months dates
   - when is your birthday ejercicios
   - ordinales 1st 2nd 3rd
   - in January on the 15th
-  - curso A1 Linguafly
+  - Ejercicios de Fechas y Cumpleaños A1
+  - meses fechas cumpleanos en inglés A1
+  - meses fechas cumpleanos inglés A1
+  - ejercicios de meses fechas cumpleanos en inglés A1
+  - meses fechas cumpleanos ejercicios con soluciones A1
 canonical: 'https://linguafly.app/blog/curso-a1/unidad-19-meses-fechas-cumpleanos-ejercicios-soluciones'
 image: /blog/curso-a1/unit-19/a1-unit19-months.png
 alt: Meses y fechas para ejercicios A1 Unidad 19
