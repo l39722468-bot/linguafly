@@ -1,7 +1,7 @@
 ---
 category: curso-a2
 date: '2026-08-12'
-updatedDate: '2026-09-04'
+updatedDate: '2026-09-10'
 author: linguafly-team
 title: 'The Weather A2: Vocabulario, Pronóstico y Predicciones'
 description: >-
@@ -15,6 +15,16 @@ keywords:
   - inglés A2 unidad 44
   - weather forecast English
   - temperature Celsius
+  - sunny
+  - going
+  - weather
+  - rain
+  - degrees
+  - like
+  - tomorrow
+  - raining
+  - cloudy
+  - windy
 canonical: 'https://linguafly.app/blog/curso-a2/unidad-44-the-weather'
 image: /blog/curso-a2/unit-44/a2-unit44-the-weather.png
 alt: Esquema The Weather A2
