@@ -6,7 +6,11 @@
  * D1 en las URLs originales `/blog/{categoria}/{slug}` para no romper SEO.
  */
 
-import { getArticleCanonicalPath } from "@/lib/seo/article-paths";
+import {
+  getArticleCanonicalPath,
+  getExerciseArticlePath,
+  getWorkbookPathForCourseUnit,
+} from "@/lib/seo/article-paths";
 
 export { getArticleCanonicalPath };
 
@@ -437,9 +441,14 @@ export function getParkedPageRedirect(
   const temaMatch = path.match(/^\/blog\/temas\/([^/]+)$/);
   if (temaMatch) return getArticleCanonicalPath(temaMatch[1]) || "/blog";
 
+  /**
+   * Búsquedas de ejercicios: el 200 indexable es el cuaderno
+   * /blog/curso-{nivel}/unidad-N-*-ejercicios-soluciones. Las URLs viejas
+   * (?articulo= y /curso-.../unit-N/ejercicio/) redirigen ahí.
+   */
   if (path === "/blog/ejercicios-relacionados") {
     const articulo = searchParams?.get("articulo");
-    if (articulo) return getArticleCanonicalPath(articulo) || "/blog";
+    if (articulo) return getExerciseArticlePath(articulo) || "/blog";
     return "/blog";
   }
 
@@ -447,6 +456,17 @@ export function getParkedPageRedirect(
   if (path === "/fitness") return "/entrenamiento";
   if (path === "/aprender-ingles") return "/idiomas";
   if (path === "/podcasts") return "/blog";
+
+  const exerciseUnit = path.match(
+    /^\/curso-(a1|a2|b1|b2|c1)\/unit-(\d+)\/ejercicio(?:\/|$)/,
+  );
+  if (exerciseUnit) {
+    return (
+      getWorkbookPathForCourseUnit(exerciseUnit[1], Number(exerciseUnit[2])) ||
+      COURSE_LEVEL_BLOG[exerciseUnit[1]] ||
+      "/blog"
+    );
+  }
 
   const levelMatch = path.match(/^\/curso-(a1|a2|b1|b2|c1|c2)(?:\/|$)/);
   if (levelMatch) return COURSE_LEVEL_BLOG[levelMatch[1]] ?? "/blog";

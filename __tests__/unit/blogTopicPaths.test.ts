@@ -25,5 +25,15 @@ describe("blog topic canonical paths", () => {
 
   it("rewrites parked course unit links to the blog series", () => {
     expect(resolveTopicHref("/curso-a1/unit-1")).toBe("/blog/curso-a1");
+    expect(
+      resolveTopicHref(
+        "/curso-a1/unit-1/ejercicio/44-verbo-to-be?fromArticle=/blog/curso-a1/unidad-1-saludos-presentarse",
+      ),
+    ).toBe("/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones");
+    expect(
+      resolveTopicHref(
+        "/blog/ejercicios-relacionados?articulo=unidad-1-saludos-presentarse",
+      ),
+    ).toBe("/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones");
   });
 });

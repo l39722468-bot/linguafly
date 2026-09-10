@@ -49,6 +49,24 @@ describe("site catalog", () => {
         new URLSearchParams("articulo=ielts-speaking-estrategias"),
       ),
     ).toBe("/blog/examenes/ielts-speaking-estrategias");
+    expect(
+      getParkedPageRedirect(
+        "/blog/ejercicios-relacionados",
+        new URLSearchParams("articulo=unidad-1-saludos-presentarse"),
+      ),
+    ).toBe("/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones");
+    expect(
+      getParkedPageRedirect(
+        "/blog/ejercicios-relacionados",
+        new URLSearchParams("articulo=unidad-9-preposiciones-lugar-movimiento"),
+      ),
+    ).toBe("/blog/curso-a2/unidad-9-preposiciones-lugar-movimiento-ejercicios-soluciones");
+    expect(
+      getParkedPageRedirect(
+        "/curso-a1/unit-1/ejercicio/44-verbo-to-be-en-ingles-who-wrote-this-text-quien-escribe-este-texto",
+      ),
+    ).toBe("/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones");
+    expect(getParkedPageRedirect("/curso-a1/unit-1")).toBe("/blog/curso-a1");
     expect(getParkedPageRedirect("/aprender-ingles")).toBe("/idiomas");
     expect(getParkedPageRedirect("/podcasts")).toBe("/blog");
     expect(getParkedPageRedirect("/curso-a1")).toBe("/blog/curso-a1");

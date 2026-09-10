@@ -69,8 +69,11 @@ export function resolveTopicHref(href: string, fallbackCategory?: string | null)
     return `${getCanonicalTopicPath(temaMatch[1], fallbackCategory)}${search}${hash}`;
   }
 
-  const parked = getParkedPageRedirect(path);
-  if (parked) return `${parked}${search}${hash}`;
+  const parked = getParkedPageRedirect(
+    path,
+    search ? new URLSearchParams(search.startsWith("?") ? search.slice(1) : search) : null,
+  );
+  if (parked) return `${parked}${hash}`;
 
   return href;
 }
