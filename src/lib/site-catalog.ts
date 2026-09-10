@@ -114,7 +114,7 @@ export const SITE_VERTICALS: readonly SiteVertical[] = [
     shortName: "Idiomas",
     tagline: "Aprender con método, no con mil listas sueltas",
     description:
-      "Cómo estudiar un idioma de verdad: vocabulario que se queda, práctica realista y hábitos que se pueden mantener.",
+      "Más de 800 guías para aprender inglés, clasificadas por temática (gramática, viajes, trabajo, exámenes) y por nivel A1–C1.",
     icon: "🗣️",
     tone: CORAL,
   },
@@ -329,6 +329,34 @@ export const ENGLISH_LEARNING_SECTIONS: readonly EnglishLearningSection[] = [
     },
   },
 ] as const;
+
+/** Revista de hábitos (2 piezas) + temáticas del archivo de inglés, sin cursos por nivel. */
+export const ENGLISH_STUDY_HABITS_SECTION: EnglishLearningSection = {
+  slug: "idiomas",
+  href: "/blog/idiomas",
+  name: "Hábitos de estudio",
+  shortName: "Hábitos",
+  description:
+    "Cómo empezar un idioma, vocabulario activo y rutinas que se pueden mantener.",
+  icon: "🌱",
+  tone: CORAL,
+};
+
+export function isEnglishLevelCategory(category: string): boolean {
+  return /^curso-(a1|a2|b1|b2|c1)$/i.test(category.trim());
+}
+
+export function getEnglishLevelSections(): EnglishLearningSection[] {
+  return ENGLISH_LEARNING_SECTIONS.filter((section) =>
+    isEnglishLevelCategory(section.slug),
+  );
+}
+
+export function getEnglishTopicSections(): EnglishLearningSection[] {
+  return [ENGLISH_STUDY_HABITS_SECTION, ...ENGLISH_LEARNING_SECTIONS.filter(
+    (section) => !isEnglishLevelCategory(section.slug),
+  )];
+}
 
 const PUBLIC_CATEGORY_SET = new Set<string>(PUBLIC_ARTICLE_CATEGORIES);
 const MAGAZINE_CATEGORY_SET = new Set<string>(MAGAZINE_ARTICLE_CATEGORIES);

@@ -1,6 +1,7 @@
 import { getArticlePath } from "@/lib/blog-paths";
 import type { BlogPost } from "@/lib/blog";
 import { listPublishedArticles, getPublishedArticle } from "@/lib/content/articles";
+import { listEnglishArchiveArticles } from "@/lib/content/english-archive";
 import {
   htmlPathFromMarkdownTwin,
   htmlToMarkdownPath,
@@ -12,6 +13,8 @@ import {
   SITE_DESCRIPTION,
   SITE_TAGLINE,
   SITE_VERTICALS,
+  getEnglishLevelSections,
+  getEnglishTopicSections,
   getParkedPageRedirect,
   getPublicCategoryLabel,
   isPublicArticleCategory,
@@ -193,6 +196,70 @@ export function buildHubMarkdown(
   });
 }
 
+export function buildIdiomasHubMarkdown(
+  articles: BlogPost[],
+  total = articles.length,
+): string {
+  const vertical = SITE_VERTICALS.find((item) => item.slug === "idiomas");
+  const title = vertical?.name ?? "Idiomas";
+  const summary =
+    vertical?.description ??
+    "Guías de inglés clasificadas por temática y por nivel A1–C1.";
+  const countNote =
+    total > 0
+      ? `${new Intl.NumberFormat("es-ES").format(total)} artículos publicados.`
+      : "Archivo de inglés por temática y nivel.";
+  const levelLinks = getEnglishLevelSections()
+    .map((section) =>
+      mdLink(
+        section.name,
+        getAbsoluteUrl(htmlToMarkdownPath(section.href)),
+        section.description,
+      ),
+    )
+    .join("\n");
+  const topicLinks = getEnglishTopicSections()
+    .map((section) =>
+      mdLink(
+        section.name,
+        getAbsoluteUrl(htmlToMarkdownPath(section.href)),
+        section.description,
+      ),
+    )
+    .join("\n");
+  const articleLinks =
+    articles.length === 0
+      ? "_Aún no hay artículos en esta sección._"
+      : articles
+          .map((article) =>
+            mdLink(
+              article.title,
+              articleMarkdownUrl(article),
+              clipNote(article.description || article.excerpt || ""),
+            ),
+          )
+          .join("\n");
+
+  return buildPageMarkdown({
+    title,
+    summary: `${summary} ${countNote}`,
+    htmlPath: "/idiomas",
+    extra: [
+      "## Por nivel de inglés",
+      "",
+      levelLinks,
+      "",
+      "## Por temática",
+      "",
+      topicLinks,
+      "",
+      "## Artículos recientes",
+      "",
+      articleLinks,
+    ].join("\n"),
+  });
+}
+
 export async function buildLlmsTxtBody(): Promise<string> {
   try {
     const { articles } = await listPublishedArticles({ page: 1, limit: 12 });
@@ -322,6 +389,17 @@ export async function renderMarkdownTwin(markdownPath: string): Promise<{
   }
 
   if (target.kind === "hub") {
+    if (target.htmlPath === "/idiomas") {
+      const listed = await listEnglishArchiveArticles({ page: 1, limit: 12 }).catch(() => ({
+        articles: [] as BlogPost[],
+        total: 0,
+      }));
+      return {
+        status: 200,
+        htmlPath: target.htmlPath,
+        body: buildIdiomasHubMarkdown(listed.articles, listed.total),
+      };
+    }
     const articles = target.category
       ? (
           await listPublishedArticles({

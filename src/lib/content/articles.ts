@@ -28,24 +28,42 @@ export interface PublishedListResult {
   pages: number;
 }
 
+function emptyPublishedList(page: number, limit: number): PublishedListResult {
+  return { articles: [], total: 0, page, limit, pages: 0 };
+}
+
+function resolveListCategories(options: {
+  category?: string;
+  categories?: string[];
+}): string[] | null {
+  if (options.categories) {
+    return options.categories.map(normalizeCategory).filter(isPublicArticleCategory);
+  }
+  if (options.category) {
+    const category = normalizeCategory(options.category);
+    return isPublicArticleCategory(category) ? [category] : [];
+  }
+  return null;
+}
+
 export async function listPublishedArticles(options: {
   page?: number;
   limit?: number;
   category?: string;
+  categories?: string[];
   author?: string;
 } = {}): Promise<PublishedListResult> {
-  const db = await getContentDb();
-  const category = options.category
-    ? normalizeCategory(options.category)
-    : undefined;
-  if (category && !isPublicArticleCategory(category)) {
-    const limit = options.limit ?? ARTICLES_PER_PAGE;
-    return { articles: [], total: 0, page: options.page ?? 1, limit, pages: 0 };
+  const page = options.page ?? 1;
+  const limit = options.limit ?? ARTICLES_PER_PAGE;
+  const categories = resolveListCategories(options);
+  if (categories && categories.length === 0) {
+    return emptyPublishedList(page, limit);
   }
+  const db = await getContentDb();
   const result = await db.listArticlesFiltered({
-    page: options.page,
-    limit: options.limit ?? ARTICLES_PER_PAGE,
-    categories: category ? [category] : PUBLIC_CATEGORIES,
+    page,
+    limit,
+    categories: categories ?? PUBLIC_CATEGORIES,
     author: options.author,
   });
 
@@ -74,6 +92,21 @@ export async function countPublishedArticles(category?: string): Promise<number>
   return db.countPublished(
     category ? [normalizeCategory(category)] : PUBLIC_CATEGORIES
   );
+}
+
+export async function countPublishedArticlesByCategory(
+  categories: string[],
+): Promise<Record<string, number>> {
+  const publicCategories = categories
+    .map(normalizeCategory)
+    .filter(isPublicArticleCategory);
+  const entries = await Promise.all(
+    publicCategories.map(async (category) => {
+      const total = await countPublishedArticles(category);
+      return [category, total] as const;
+    }),
+  );
+  return Object.fromEntries(entries);
 }
 
 export async function getRelatedPublishedArticles(

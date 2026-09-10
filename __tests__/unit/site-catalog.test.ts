@@ -1,5 +1,8 @@
 import {
+  getEnglishLevelSections,
+  getEnglishTopicSections,
   getParkedPageRedirect,
+  isEnglishLevelCategory,
   isPublicArticleCategory,
   isPublicSitePath,
 } from "@/lib/site-catalog";
@@ -89,6 +92,27 @@ describe("site catalog", () => {
     expect(getParkedPageRedirect("/idiomas.md")).toBeNull();
     expect(getParkedPageRedirect("/aprender-ingles.md")).toBe("/idiomas.md");
     expect(getParkedPageRedirect("/fitness.md")).toBe("/entrenamiento.md");
+  });
+
+  it("splits the English archive into CEFR levels and topics", () => {
+    expect(isEnglishLevelCategory("curso-a2")).toBe(true);
+    expect(isEnglishLevelCategory("gramatica")).toBe(false);
+    const levels = getEnglishLevelSections().map((section) => section.slug);
+    expect(levels).toEqual(["curso-a1", "curso-a2", "curso-b1", "curso-b2", "curso-c1"]);
+    const topics = getEnglishTopicSections().map((section) => section.slug);
+    expect(topics[0]).toBe("idiomas");
+    expect(topics).toEqual(
+      expect.arrayContaining([
+        "idiomas",
+        "gramatica",
+        "viajes",
+        "trabajo",
+        "examenes",
+        "metodos",
+        "habilidades",
+      ]),
+    );
+    expect(topics).not.toContain("curso-a1");
   });
 });
 

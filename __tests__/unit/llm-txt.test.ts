@@ -1,5 +1,6 @@
 import {
   buildArticleMarkdown,
+  buildIdiomasHubMarkdown,
   buildLlmsTxt,
   resolveMarkdownTarget,
 } from "@/lib/llm-txt";
@@ -70,5 +71,16 @@ describe("markdown twins", () => {
       htmlPath: "/blog/entrenamiento/rutina-fuerza-principiantes-casa",
     });
     expect(resolveMarkdownTarget("/privacidad.md")).toBeNull();
+  });
+
+  it("classifies the idiomas hub by CEFR level and topic", () => {
+    const md = buildIdiomasHubMarkdown([sampleArticle], 824);
+    expect(md).toContain("## Por nivel de inglés");
+    expect(md).toContain("## Por temática");
+    expect(md).toContain("https://linguafly.app/blog/curso-a1.md");
+    expect(md).toContain("https://linguafly.app/blog/gramatica.md");
+    expect(md).toContain("https://linguafly.app/blog/idiomas.md");
+    expect(md).toContain("824 artículos publicados");
+    expect(md).toContain("Rutina de fuerza para principiantes en casa");
   });
 });
