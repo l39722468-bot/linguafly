@@ -56,15 +56,26 @@ export function canonicalLinkHeaderValue(
   pathname: string,
   search?: string | URLSearchParams | null,
 ): string {
-  return `<${getCanonicalUrl(pathname, search)}>; rel="canonical"`;
+  const canonical = getCanonicalUrl(pathname, search);
+  return `<${canonical}>; rel="canonical", <${canonical}>; rel="alternate"; hreflang="es", <${canonical}>; rel="alternate"; hreflang="x-default"`;
+}
+
+/** Sitio solo en español: cada URL canónica se declara es y x-default. */
+export function languageAlternates(canonicalUrl: string) {
+  return {
+    es: canonicalUrl,
+    "x-default": canonicalUrl,
+  };
 }
 
 export function canonicalAlternates(
   pathname: string,
   search?: string | URLSearchParams | null,
 ) {
+  const canonical = getCanonicalUrl(pathname, search);
   return {
-    canonical: getCanonicalUrl(pathname, search),
+    canonical,
+    languages: languageAlternates(canonical),
   };
 }
 
@@ -92,8 +103,10 @@ export function llmMarkdownUrl(htmlPath: string): string {
 }
 
 export function llmMarkdownAlternates(htmlPath: string) {
+  const canonical = getCanonicalUrl(htmlPath);
   return {
-    canonical: getCanonicalUrl(htmlPath),
+    canonical,
+    languages: languageAlternates(canonical),
     types: {
       "text/markdown": llmMarkdownUrl(htmlPath),
     },

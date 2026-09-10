@@ -6,13 +6,13 @@ import type { Metadata } from "next";
 import { listPublishedArticles } from "@/lib/content/articles";
 import { HOME_ARTICLE_LIMIT } from "@/lib/content/pagination";
 import { SITE_BRAND_NAME } from "@/lib/site-brand";
-import { ENGLISH_LEARNING_SECTIONS, SITE_DESCRIPTION, SITE_TAGLINE, SITE_VERTICALS } from "@/lib/site-catalog";
+import { ENGLISH_LEARNING_SECTIONS, SITE_DESCRIPTION, SITE_SERP_TITLE, SITE_VERTICALS } from "@/lib/site-catalog";
 import { llmMarkdownAlternates } from "@/lib/seo/canonical";
 
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: `${SITE_TAGLINE.replace(/\.$/, "")} | ${SITE_BRAND_NAME}`,
+  title: SITE_SERP_TITLE,
   description: SITE_DESCRIPTION,
   keywords: [
     "artículos de idiomas",

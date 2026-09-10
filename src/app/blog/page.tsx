@@ -9,7 +9,7 @@ import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
 import { generateBreadcrumbSchema, generateCollectionPageSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
-import { llmMarkdownUrl } from "@/lib/seo/canonical";
+import { llmMarkdownUrl, languageAlternates } from "@/lib/seo/canonical";
 import { DEFAULT_OG_IMAGE_PATH, ogImageMeta } from "@/lib/seo/og-images";
 import { ENGLISH_LEARNING_SECTIONS, SITE_VERTICALS } from "@/lib/site-catalog";
 import { getArticlePath } from "@/lib/blog-paths";
@@ -35,6 +35,7 @@ export async function generateMetadata({
     description,
     alternates: {
       canonical,
+      languages: languageAlternates(canonical),
       types:
         page > 1
           ? undefined

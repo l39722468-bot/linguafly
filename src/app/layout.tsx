@@ -8,8 +8,9 @@ import IubendaConsent from "@/components/IubendaConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
 import { getSiteUrl, SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
-import { SITE_DESCRIPTION, SITE_TAGLINE } from "@/lib/site-catalog";
+import { SITE_DESCRIPTION, SITE_SERP_TITLE } from "@/lib/site-catalog";
 import { DEFAULT_OG_IMAGE_PATH, ogImageMeta } from "@/lib/seo/og-images";
+import { languageAlternates } from "@/lib/seo/canonical";
 
 const siteUrl = getSiteUrl();
 const siteOg = ogImageMeta(
@@ -20,7 +21,7 @@ const siteOg = ogImageMeta(
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    default: `${SITE_TAGLINE.replace(/\.$/, "")} | ${SITE_BRAND_NAME}`,
+    default: SITE_SERP_TITLE,
     template: "%s"
   },
   description: SITE_DESCRIPTION,
@@ -42,7 +43,7 @@ export const metadata: Metadata = {
     telephone: false,
   },
   openGraph: {
-    title: `${SITE_TAGLINE.replace(/\.$/, "")} | ${SITE_BRAND_NAME}`,
+    title: SITE_SERP_TITLE,
     description: SITE_DESCRIPTION,
     type: "website",
     locale: "es_ES",
@@ -52,9 +53,12 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: `${SITE_TAGLINE.replace(/\.$/, "")} | ${SITE_BRAND_NAME}`,
+    title: SITE_SERP_TITLE,
     description: SITE_DESCRIPTION,
     images: siteOg.twitterImages,
+  },
+  alternates: {
+    languages: languageAlternates(siteUrl),
   },
   robots: {
     index: true,

@@ -1,8 +1,12 @@
 import {
+  canonicalAlternates,
   canonicalLinkHeaderValue,
   getCanonicalUrl,
+  languageAlternates,
+  llmMarkdownAlternates,
   normalizeCanonicalPath,
 } from "@/lib/seo/canonical";
+import { SITE_SERP_TITLE } from "@/lib/site-catalog";
 
 describe("canonical URLs", () => {
   const previousSiteUrl = process.env.NEXT_PUBLIC_SITE_URL;
@@ -50,7 +54,7 @@ describe("canonical URLs", () => {
 
   it("points parked course URLs at the blog section Google can index", () => {
     expect(canonicalLinkHeaderValue("/blog/curso-a1")).toBe(
-      '<https://linguafly.app/blog/curso-a1>; rel="canonical"',
+      '<https://linguafly.app/blog/curso-a1>; rel="canonical", <https://linguafly.app/blog/curso-a1>; rel="alternate"; hreflang="es", <https://linguafly.app/blog/curso-a1>; rel="alternate"; hreflang="x-default"',
     );
   });
 
@@ -64,7 +68,27 @@ describe("canonical URLs", () => {
   it("normalizes trailing slashes and emits a Link header Google can use", () => {
     expect(normalizeCanonicalPath("/cookies/")).toBe("/cookies");
     expect(canonicalLinkHeaderValue("/privacidad", "utm_medium=email")).toBe(
-      '<https://linguafly.app/privacidad>; rel="canonical"',
+      '<https://linguafly.app/privacidad>; rel="canonical", <https://linguafly.app/privacidad>; rel="alternate"; hreflang="es", <https://linguafly.app/privacidad>; rel="alternate"; hreflang="x-default"',
     );
+  });
+
+  it("declares Spanish hreflang on the canonical URL", () => {
+    expect(languageAlternates("https://linguafly.app/")).toEqual({
+      es: "https://linguafly.app/",
+      "x-default": "https://linguafly.app/",
+    });
+    expect(canonicalAlternates("/idiomas").languages).toEqual({
+      es: "https://linguafly.app/idiomas",
+      "x-default": "https://linguafly.app/idiomas",
+    });
+    expect(llmMarkdownAlternates("/").languages.es).toBe("https://linguafly.app/");
+  });
+
+  it("keeps the homepage title short enough for the SERP snippet", () => {
+    expect(SITE_SERP_TITLE.length).toBeLessThanOrEqual(60);
+    expect(SITE_SERP_TITLE).toMatch(/idiomas/i);
+    expect(SITE_SERP_TITLE).toContain("alimentación");
+    expect(SITE_SERP_TITLE).toContain("entrenamiento");
+    expect(SITE_SERP_TITLE).toMatch(/IA|inteligencia/i);
   });
 });
