@@ -21,6 +21,7 @@ excerpt: >-
   Una cláusula anonimizada, en lenguaje llano, y tres preguntas para quien
   ejerce. El chat no te dice si firmar. El PDF de un cliente no entra.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/consejo-juridico-el-limite-claro'
+alt: Chat de IA cerrado junto a un aviso de que no es asesoría jurídica
 related_routes:
   - citas-legales-inventadas
   - contratos-de-clientes-fuera-del-chat-de-consumidor

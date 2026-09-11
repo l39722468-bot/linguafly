@@ -22,6 +22,7 @@ excerpt: >-
   Glosario de líneas y preguntas para la compañía. Recorta IBAN y NIF.
   Las cifras se contrastan con el PDF; el chat no decide un pago.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/entender-una-factura-con-ia-sin-asesoria'
+alt: "Factura en papel junto a un chat que explica partidas, no asesora"
 related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - la-ia-no-sustituye-a-un-profesional-colegiado

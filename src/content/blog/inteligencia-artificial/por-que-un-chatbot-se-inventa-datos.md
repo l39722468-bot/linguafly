@@ -21,6 +21,7 @@ excerpt: >-
   El chatbot no “miente” como una persona: predice la siguiente palabra y
   a veces esa predicción es un BOE, una URL o una fecha que no existen.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/por-que-un-chatbot-se-inventa-datos'
+alt: Respuesta de un chatbot con un dato inventado marcado en rojo
 related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion

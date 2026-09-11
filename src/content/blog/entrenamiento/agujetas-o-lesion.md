@@ -21,6 +21,7 @@ excerpt: >-
   Las agujetas no prueban que entrenaste bien. Un pinchazo localizado que
   empeora al día siguiente no se arregla con un ungüento y la misma carga.
 canonical: 'https://linguafly.app/blog/entrenamiento/agujetas-o-lesion'
+alt: Persona estirando una pierna y distinguiendo agujetas de una señal de parar
 related_routes:
   - progresar-sin-lesionarte
   - rutina-fuerza-principiantes-casa

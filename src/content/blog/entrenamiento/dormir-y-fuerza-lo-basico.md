@@ -21,6 +21,7 @@ excerpt: >-
   Los tendones firman si duermes. Cinco horas no piden un PR. Piden menos
   carga o mover la sesión. El café no sustituye la cama.
 canonical: 'https://linguafly.app/blog/entrenamiento/dormir-y-fuerza-lo-basico'
+alt: Despertador y cama junto a unas zapatillas de entrenar
 related_routes:
   - progresar-sin-lesionarte
   - rutina-fuerza-principiantes-casa

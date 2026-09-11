@@ -20,6 +20,7 @@ keywords:
 excerpt: >-
   Primero el plan de tres cenas. Después la lista. Si no está en el plan, no entra en el carro.
 canonical: 'https://linguafly.app/blog/alimentacion/lista-de-la-compra-semanal-sencilla'
+alt: Lista de la compra escrita junto a un carrito con básicos de supermercado
 related_routes:
   - organizar-comidas-de-la-semana
   - batch-cooking-de-una-hora

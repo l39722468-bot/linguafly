@@ -21,6 +21,7 @@ excerpt: >-
   Scholar o el repositorio encuentran el artículo. El chatbot resume el PDF
   que ya abriste. Un título inventado no se resume ni se cita.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/papers-el-chatbot-no-es-google-scholar'
+alt: Artículo académico junto a un chat que no sustituye a Google Scholar
 related_routes:
   - citar-fuentes-la-ia-no-sustituye-la-bibliografia
   - notebooklm-estudiar-pdfs-que-ya-son-tuyos

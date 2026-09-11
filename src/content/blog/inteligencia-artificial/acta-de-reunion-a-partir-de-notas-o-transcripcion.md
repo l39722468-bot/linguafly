@@ -21,6 +21,7 @@ excerpt: >-
   Asistentes, decisiones, tareas. Si no salió en la reunión, no entra.
   Dueño vacío no aparece. El acta no es la lista de tareas.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/acta-de-reunion-a-partir-de-notas-o-transcripcion'
+alt: Notas de reunión convertidas en un acta breve en el portátil
 related_routes:
   - prompt-para-pasar-notas-a-lista-de-tareas
   - seguimiento-despues-de-una-reunion

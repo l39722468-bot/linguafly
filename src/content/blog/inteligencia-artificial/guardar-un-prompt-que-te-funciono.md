@@ -21,6 +21,7 @@ excerpt: >-
   El chat se pierde. Una nota tuya con título, fecha, el prompt y una
   salida buena no. No hace falta exportar el hilo ni un GPT a medida.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/guardar-un-prompt-que-te-funciono'
+alt: Prompt que funcionó guardado en un bloc de notas
 related_routes:
   - como-escribir-un-prompt-que-sirva
   - prompt-few-shot-dar-dos-ejemplos-y-parar

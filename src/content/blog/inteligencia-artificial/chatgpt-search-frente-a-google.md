@@ -21,6 +21,7 @@ excerpt: >-
   Search resume y cita. Google enseña la página. Abres la cita siempre.
   Mapas, un BOE y el titular de ahora suelen seguir en Google.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/chatgpt-search-frente-a-google'
+alt: ChatGPT Search y Google lado a lado con citas y resultados
 related_routes:
   - perplexity-buscar-con-citas-a-la-vista
   - como-comprobar-si-una-respuesta-de-ia-es-fiable

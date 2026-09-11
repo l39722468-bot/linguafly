@@ -21,6 +21,7 @@ excerpt: >-
   NotebookLM responde a tus PDFs, no a internet entero. El audio overview
   ayuda a repasarlo; las citas se abren igual. El trabajo lo entregas tú.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/notebooklm-estudiar-pdfs-que-ya-son-tuyos'
+alt: NotebookLM abierto con PDFs propios para estudiar
 related_routes:
   - subir-un-pdf-a-un-chatbot-que-hacer-y-que-no
   - claude-para-documentos-largos

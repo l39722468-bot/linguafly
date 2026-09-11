@@ -21,6 +21,7 @@ excerpt: >-
   No hace falta pesar la comida. Si en el plato hay proteína, un hidrato que
   te sacia y grasa de verdad (aceite, frutos secos, pescado), vas bien.
 canonical: 'https://linguafly.app/blog/alimentacion/proteina-hidratos-grasas-guia-practica'
+alt: "Plato dividido en proteína, hidratos y verdura en la mesa"
 related_routes:
   - organizar-comidas-de-la-semana
   - rutina-fuerza-principiantes-casa

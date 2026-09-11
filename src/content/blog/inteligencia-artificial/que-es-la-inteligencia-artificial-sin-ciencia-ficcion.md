@@ -21,6 +21,7 @@ excerpt: >-
   La IA que te encuentras hoy es un programa que predice texto, no un colega
   ni un buscador. Aquí va qué hace, qué no, y qué hacer el primer día.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/que-es-la-inteligencia-artificial-sin-ciencia-ficcion'
+alt: "Esquema sencillo de qué es la inteligencia artificial, sin ciencia ficción"
 related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - como-escribir-un-prompt-que-sirva

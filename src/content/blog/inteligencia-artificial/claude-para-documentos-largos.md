@@ -21,6 +21,7 @@ excerpt: >-
   Claude aguanta un PDF largo mejor que un chat de ocurrencias. Aun así no
   vuelques el libro: un capítulo, un prompt, cifras contra el original.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/claude-para-documentos-largos'
+alt: Claude leyendo un PDF largo en el escritorio
 related_routes:
   - subir-un-pdf-a-un-chatbot-que-hacer-y-que-no
   - chatgpt-gemini-o-claude-por-donde-empezar

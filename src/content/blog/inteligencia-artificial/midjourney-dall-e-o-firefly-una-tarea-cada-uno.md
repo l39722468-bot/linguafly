@@ -21,6 +21,7 @@ excerpt: >-
   No eliges el generador “más artístico”. Eliges el recinto: el chat que
   ya usas, Midjourney si ya vives ahí, Firefly si tu trabajo es Adobe.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/midjourney-dall-e-o-firefly-una-tarea-cada-uno'
+alt: "Tres herramientas de imagen, Midjourney, DALL-E y Firefly, en pantalla"
 related_routes:
   - prompt-de-imagen-una-escena-concreta
   - derechos-de-una-imagen-generada-espana-alto-nivel

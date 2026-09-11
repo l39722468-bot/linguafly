@@ -22,6 +22,7 @@ excerpt: >-
   nota si no debe quedarse. No es una call de una hora ni el chat íntimo
   en Meta AI.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/notas-de-voz-a-texto'
+alt: Nota de voz del móvil transcrita a texto en el portátil
 related_routes:
   - transcribir-una-reunion
   - meta-ai-en-whatsapp-cuando-callarla

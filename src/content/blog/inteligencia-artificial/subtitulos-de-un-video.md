@@ -21,6 +21,7 @@ excerpt: >-
   Un SRT de tu vídeo. Los nombres propios se revisan a mano. YouTube
   automático también pide un pase. No es un doblaje de película.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/subtitulos-de-un-video'
+alt: Vídeo con subtítulos generados visibles en la pantalla
 related_routes:
   - transcribir-una-reunion
   - whisper-en-local-o-en-la-nube

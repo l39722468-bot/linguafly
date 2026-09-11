@@ -21,6 +21,7 @@ excerpt: >-
   «Te entiendo» es un patrón de foro, no una consulta. No le cuentes un
   diario con nombres. El chat no te conoce ni sustituye a nadie.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/antropomorfismo-no-es-tu-amigo'
+alt: Chatbot en pantalla con un aspa sobre tratarlo como si fuera un amigo
 related_routes:
   - confianza-excesiva-el-texto-suena-bien
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion

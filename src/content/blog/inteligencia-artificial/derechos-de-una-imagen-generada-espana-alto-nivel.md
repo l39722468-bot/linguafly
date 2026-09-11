@@ -22,6 +22,7 @@ excerpt: >-
   Qué suele decir la herramienta y cuándo preguntas a un abogado. Un PNG
   de ChatGPT o Firefly no es un dictamen ni un título de autor.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/derechos-de-una-imagen-generada-espana-alto-nivel'
+alt: Imagen generada por IA con un aviso de derechos en España
 related_routes:
   - la-ia-no-sustituye-a-un-profesional-colegiado
   - consejo-juridico-el-limite-claro

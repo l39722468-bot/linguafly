@@ -20,6 +20,7 @@ keywords:
 excerpt: >-
   No cocines siete menús. Cocina piezas. Una hora, dos bandejas, y el martes se ensambla.
 canonical: 'https://linguafly.app/blog/alimentacion/batch-cooking-de-una-hora'
+alt: "Tupperes con arroz, verdura y pollo listos para la semana"
 related_routes:
   - organizar-comidas-de-la-semana
   - lista-de-la-compra-semanal-sencilla

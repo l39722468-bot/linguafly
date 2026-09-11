@@ -21,6 +21,7 @@ excerpt: >-
   Pides una fórmula, la lees y compruebas el total en una celda. El chat
   no es la hoja. Un número sin rango auditable no se usa.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/copilot-en-excel-formulas-y-explicacion-no-magia'
+alt: Copilot en Excel explicando una fórmula en la hoja
 related_routes:
   - copilot-en-word-reescribir-no-inventar-el-informe
   - como-comprobar-si-una-respuesta-de-ia-es-fiable

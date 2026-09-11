@@ -21,6 +21,7 @@ excerpt: >-
   Pasas las pasivas a activas. El sentido no se mueve. No se añaden
   adjetivos. Es una pasada de verbos, no un artículo nuevo.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/reescribir-en-voz-activa'
+alt: Frase en voz pasiva reescrita en voz activa en el editor
 related_routes:
   - usar-ia-para-un-borrador-de-articulo-tu-editas
   - cortar-un-30-de-un-texto

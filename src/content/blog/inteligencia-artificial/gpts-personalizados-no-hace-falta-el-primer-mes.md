@@ -22,6 +22,7 @@ excerpt: >-
   el primer mes. Un GPT de la tienda no enseña a comprobar; sí puede ver
   lo que pegas.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/gpts-personalizados-no-hace-falta-el-primer-mes'
+alt: Galería de GPTs personalizados que se puede saltar el primer mes
 related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - crear-una-cuenta-de-chatgpt-y-configurar-lo-basico

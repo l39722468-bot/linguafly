@@ -21,6 +21,7 @@ excerpt: >-
   Pegas UN capítulo tuyo y pides un test según esas notas. Lo que no esté,
   se tira. El modelo no tiene el examen de verdad.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/preguntas-tipo-test-de-un-capitulo'
+alt: Preguntas tipo test generadas a partir de un capítulo de apuntes
 related_routes:
   - fichas-de-estudio-a-partir-de-tus-apuntes
   - resumir-un-tema-de-examen-con-ia

@@ -21,6 +21,7 @@ excerpt: >-
   Siete días, siete entregables pequeños. Un email, unas notas, un PDF
   público. No es un plan de vida. Es el gesto de pedir, leer y parar.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/primeros-7-dias-un-plan-de-uso-de-ia'
+alt: Calendario de siete días con un plan sencillo de uso de IA
 related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - chatgpt-gemini-o-claude-por-donde-empezar

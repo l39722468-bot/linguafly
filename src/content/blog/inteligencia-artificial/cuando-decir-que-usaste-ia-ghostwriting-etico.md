@@ -21,6 +21,7 @@ excerpt: >-
   Si el cliente o el medio tienen norma, esa gana. Si no, dices el uso en
   el encargo, no en un párrafo de teatro. Esto no es un dictamen legal.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/cuando-decir-que-usaste-ia-ghostwriting-etico'
+alt: Borrador con una nota de que se usó IA en la redacción
 related_routes:
   - usar-ia-para-un-borrador-de-articulo-tu-editas
   - usar-ia-en-un-trabajo-sin-que-lo-haga-por-ti

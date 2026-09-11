@@ -21,6 +21,7 @@ excerpt: >-
   El acta no es un plan de proyecto. Extrae el verbo, el responsable y el
   plazo solo si están escritos. El resto, "no aparece".
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/prompt-para-pasar-notas-a-lista-de-tareas'
+alt: Notas desordenadas convertidas en una lista de tareas con IA
 related_routes:
   - como-escribir-un-prompt-que-sirva
   - prompt-few-shot-dar-dos-ejemplos-y-parar

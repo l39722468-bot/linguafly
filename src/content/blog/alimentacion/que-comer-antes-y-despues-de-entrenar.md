@@ -21,6 +21,7 @@ excerpt: >-
   No hay una ventana de 20 minutos. Hay un plato antes, un plato después y
   no llegar vacío a la sentadilla.
 canonical: 'https://linguafly.app/blog/alimentacion/que-comer-antes-y-despues-de-entrenar'
+alt: Plátano y yogur antes de entrenar y un plato con proteína después
 related_routes:
   - rutina-fuerza-principiantes-casa
   - proteina-hidratos-grasas-guia-practica

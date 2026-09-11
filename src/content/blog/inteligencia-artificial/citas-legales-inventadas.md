@@ -21,6 +21,7 @@ excerpt: >-
   Un «artículo 412» o una STS que suena bien se busca en el BOE o en CENDOJ.
   Si no está, no se usa. El hilo no se cita.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/citas-legales-inventadas'
+alt: Texto legal con citas marcadas para comprobar si existen
 related_routes:
   - consejo-juridico-el-limite-claro
   - como-comprobar-si-una-respuesta-de-ia-es-fiable

@@ -21,6 +21,7 @@ keywords:
   - agradecimiento y tareas
   - seguimiento a un cliente
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/seguimiento-despues-de-una-reunion'
+alt: "Correo de seguimiento después de una reunión, con tres siguientes pasos"
 related_routes:
   - acta-de-reunion-a-partir-de-notas-o-transcripcion
   - redactar-un-email-profesional-con-ia

@@ -22,6 +22,7 @@ excerpt: >-
   automático no es el acta hasta que lo lees. Una call de RR. HH. no va
   a ChatGPT de consumo.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/transcribir-una-reunion'
+alt: Reunión transcrita a texto en el portátil con auriculares
 related_routes:
   - acta-de-reunion-a-partir-de-notas-o-transcripcion
   - whisper-en-local-o-en-la-nube

@@ -21,6 +21,7 @@ excerpt: >-
   La entrada orienta: secciones, nombres, el pie. El cierre es el documento
   que abre la nota, no el resumen del chat ni la ficha de Wikipedia.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/wikipedia-como-punto-de-partida-no-de-cierre'
+alt: "Wikipedia abierta como punto de partida, no como cierre de la investigación"
 related_routes:
   - pedir-fuentes-y-verificarlas-una-a-una
   - un-brief-de-investigacion-de-una-pagina

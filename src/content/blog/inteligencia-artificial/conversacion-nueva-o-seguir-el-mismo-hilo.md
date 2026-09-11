@@ -21,6 +21,7 @@ excerpt: >-
   El hilo no es un archivo. Si mezclas temas, un rol viejo o un pegado de
   más, abres chat nuevo y copias solo el fragmento y el prompt que sirven.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/conversacion-nueva-o-seguir-el-mismo-hilo'
+alt: Botón de chat nuevo junto a un hilo largo de IA
 related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - como-escribir-un-prompt-que-sirva

@@ -21,6 +21,7 @@ excerpt: >-
   El chat no es consulta ni triaje. Glosario de un término y preguntas para
   la cita, sin nombres ni PDFs clínicos. Si hay urgencia, 112 o el centro.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/consejo-medico-el-limite-claro'
+alt: Chat de IA cerrado junto a un aviso de que no es consejo médico
 related_routes:
   - historial-medico-fuera-del-chat
   - la-ia-no-sustituye-a-un-profesional-colegiado

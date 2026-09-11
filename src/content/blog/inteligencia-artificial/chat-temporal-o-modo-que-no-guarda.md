@@ -21,6 +21,7 @@ excerpt: >-
   texto sale igual. No es incógnito, no lava un DNI y no es la herramienta
   de la empresa.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/chat-temporal-o-modo-que-no-guarda'
+alt: Chat temporal abierto con el historial desactivado
 related_routes:
   - si-el-modelo-se-entrena-con-tus-chats
   - privacidad-al-usar-ia-que-no-pegar-nunca

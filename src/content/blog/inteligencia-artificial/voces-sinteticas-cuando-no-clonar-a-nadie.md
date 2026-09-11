@@ -21,6 +21,7 @@ excerpt: >-
   Una voz de catálogo o con licencia. No la del vecino, no la de un famoso,
   no la de un menor. Clonar sin permiso no es un truco.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/voces-sinteticas-cuando-no-clonar-a-nadie'
+alt: "Voces sintéticas en un editor de audio, sin clonar a una persona real"
 related_routes:
   - no-usar-la-cara-de-una-persona-real-sin-derecho
   - elevenlabs-una-locucion-corta-y-el-limite

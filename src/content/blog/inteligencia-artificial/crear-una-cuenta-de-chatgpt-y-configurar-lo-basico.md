@@ -21,6 +21,7 @@ excerpt: >-
   Alta en la web oficial, SMS, idioma y tres interruptores. Luego paras.
   No hace falta Plus, ni la tienda de GPTs, ni un tutorial de una hora.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/crear-una-cuenta-de-chatgpt-y-configurar-lo-basico'
+alt: Pantalla de registro de ChatGPT con la configuración básica
 related_routes:
   - chatgpt-gemini-o-claude-por-donde-empezar
   - como-usar-un-chatbot-de-ia-por-primera-vez

@@ -21,6 +21,7 @@ excerpt: >-
   Quién dijo qué, qué quedó abierto y la fecha. El resumen no borra el
   hilo. Recorte limpio, tabla, y el original al lado.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/resumir-un-hilo-de-emails'
+alt: Hilo largo de emails resumido en tres puntos en el portátil
 related_routes:
   - redactar-un-email-profesional-con-ia
   - como-comprobar-si-una-respuesta-de-ia-es-fiable

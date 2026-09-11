@@ -21,6 +21,7 @@ keywords:
   - reclamación de un cliente borrador
   - ia no pida disculpas vacías
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/responder-a-un-cliente-enfadado'
+alt: Borrador de respuesta a un cliente enfadado junto al correo original
 related_routes:
   - redactar-un-email-profesional-con-ia
   - redactar-un-whatsapp-tenso

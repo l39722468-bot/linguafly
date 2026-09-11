@@ -22,6 +22,7 @@ excerpt: >-
   El modelo pinta letras que no existen. Tú generas la escena vacía y
   pones el título en Canva. Una palabra a veces se salva; un párrafo, no.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/texto-dentro-de-una-imagen-la-ia-lo-hace-mal'
+alt: Imagen generada con texto deformado y un aspa sobre el letrero
 related_routes:
   - prompt-de-imagen-una-escena-concreta
   - midjourney-dall-e-o-firefly-una-tarea-cada-uno

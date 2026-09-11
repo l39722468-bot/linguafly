@@ -22,6 +22,7 @@ excerpt: >-
   Si pides “algo bonito y cinematográfico”, el modelo rellena y tú no puedes
   comprobar.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/prompt-de-imagen-una-escena-concreta'
+alt: Prompt de imagen que describe una escena concreta y el resultado
 related_routes:
   - como-escribir-un-prompt-que-sirva
   - texto-dentro-de-una-imagen-la-ia-lo-hace-mal

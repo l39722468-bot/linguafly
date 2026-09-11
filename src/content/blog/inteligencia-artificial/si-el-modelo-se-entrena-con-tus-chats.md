@@ -20,6 +20,7 @@ excerpt: >-
   El interruptor de no entrenar reduce un uso. El mensaje sigue viajando.
   Un chat de trabajo en una cuenta de consumo no se arregla con ese clic.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/si-el-modelo-se-entrena-con-tus-chats'
+alt: Ajuste de privacidad de un chatbot sobre si se entrena con los chats
 related_routes:
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - chat-temporal-o-modo-que-no-guarda

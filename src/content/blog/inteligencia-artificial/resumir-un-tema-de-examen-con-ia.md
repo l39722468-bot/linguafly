@@ -21,6 +21,7 @@ excerpt: >-
   Pegas TUS apuntes o el temario que te han dado. Sales con esquema,
   definiciones y huecos. Lo que el modelo invente, fuera.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/resumir-un-tema-de-examen-con-ia'
+alt: Tema de examen resumido con IA junto a los apuntes originales
 related_routes:
   - como-escribir-un-prompt-que-sirva
   - fichas-de-estudio-a-partir-de-tus-apuntes

@@ -21,6 +21,7 @@ excerpt: >-
   Perplexity enseña enlaces. Abrirlos es el trabajo: si no cargan o no
   respaldan la frase, esa cita cae. El modo académico no lee el paper por ti.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/perplexity-buscar-con-citas-a-la-vista'
+alt: Búsqueda en Perplexity con las citas visibles al lado
 related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - por-que-un-chatbot-se-inventa-datos

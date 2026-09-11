@@ -20,6 +20,7 @@ keywords:
 excerpt: >-
   Lo que caduca primero, delante. El leftover del domingo no es el misterio del viernes.
 canonical: 'https://linguafly.app/blog/alimentacion/orden-de-la-nevera-lo-delicado-delante'
+alt: Nevera ordenada con lo delicado delante y las raciones a la vista
 related_routes:
   - organizar-comidas-de-la-semana
   - lista-de-la-compra-semanal-sencilla

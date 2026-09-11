@@ -21,6 +21,7 @@ excerpt: >-
   Una función, lo que debe seguir haciendo igual y un diff corto. Tú lees
   cada línea. El modelo no reescribe el proyecto por ti.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/un-refactor-pequeno-no-reescribir-el-proyecto'
+alt: "Refactor pequeño de una función, no reescribir todo el proyecto"
 related_routes:
   - tests-unitarios-a-partir-de-una-funcion
   - pedir-que-te-expliquen-un-error-de-codigo

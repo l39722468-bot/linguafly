@@ -21,6 +21,7 @@ excerpt: >-
   Sugerencias línea a línea: aceptar, editar o ignorar. Tú lees el código;
   Copilot no es el autor, y preguntas a IT si hay licencia.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/programar-en-pareja-con-copilot'
+alt: "Copilot sugiriendo código junto al editor, en pareja con la persona"
 related_routes:
   - copilot-en-word-reescribir-no-inventar-el-informe
   - tests-unitarios-a-partir-de-una-funcion

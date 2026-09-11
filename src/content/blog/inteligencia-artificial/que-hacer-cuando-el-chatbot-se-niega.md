@@ -21,6 +21,7 @@ excerpt: >-
   Si el modelo corta, cambias a una tarea lícita (preguntas para el médico
   o para un profesional). Si sigue sin servir, paras. No hay atajo.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/que-hacer-cuando-el-chatbot-se-niega'
+alt: Chatbot que se niega a responder y la persona reformula la pregunta
 related_routes:
   - pedir-codigo-defensivo-no-un-exploit
   - como-escribir-un-prompt-que-sirva

@@ -21,6 +21,7 @@ excerpt: >-
   Hechos, petición y un límite de tono. El chat hace de persona B con
   datos ficticios que tú pegas. No es terapia. Tú hablas.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/preparar-una-conversacion-dificil'
+alt: Notas para una conversación difícil junto a un chat de preparación
 related_routes:
   - redactar-un-whatsapp-tenso
   - responder-a-un-cliente-enfadado

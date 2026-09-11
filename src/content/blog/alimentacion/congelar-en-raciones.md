@@ -21,6 +21,7 @@ excerpt: >-
   Una ración por bolsa o tupper, plana, con nombre y fecha. Así descongelas
   la cena, no un ladrillo.
 canonical: 'https://linguafly.app/blog/alimentacion/congelar-en-raciones'
+alt: Táperes etiquetados con raciones congeladas en la nevera
 related_routes:
   - batch-cooking-de-una-hora
   - congelados-utiles-verdura-pescado-pan
