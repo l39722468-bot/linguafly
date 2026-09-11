@@ -130,7 +130,20 @@ describe("robots", () => {
     expect(disallow).toContain("/frases-en-ingles");
     expect(disallow).toContain("/vocabulario");
     expect(disallow).toContain("/gtag");
+    expect(disallow).toContain("/monetag");
+    expect(disallow).toContain("/*?page=");
+    expect(disallow).toContain("/*&page=");
     const allow = spec.rules[0].allow ?? [];
     expect(allow).toContain("/llms.txt");
+  });
+
+  it("blocks paginated listing URLs instead of relying on noindex", () => {
+    const spec = robots();
+    const disallow = spec.rules[0].disallow ?? [];
+    expect(disallow).toEqual(
+      expect.arrayContaining(["/*?page=", "/*&page=", "/monetag"]),
+    );
+    expect(disallow).not.toContain("/sitemaps/");
+    expect(disallow).not.toContain("/blog/");
   });
 });

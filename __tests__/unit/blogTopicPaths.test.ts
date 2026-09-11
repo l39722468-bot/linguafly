@@ -1,4 +1,10 @@
-import { getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
+import {
+  getCanonicalTopicPath,
+  getStaticTemaKeywords,
+  resolveKeywordHubRedirect,
+  resolveTopicHref,
+  slugify,
+} from "@/lib/blog";
 
 describe("blog topic canonical paths", () => {
   it("points topic slugs that are real articles at the article URL", () => {
@@ -35,5 +41,25 @@ describe("blog topic canonical paths", () => {
         "/blog/ejercicios-relacionados?articulo=unidad-1-saludos-presentarse",
       ),
     ).toBe("/blog/curso-a1/unidad-1-saludos-ejercicios-soluciones");
+  });
+});
+
+describe("keyword hub crawl-budget redirects", () => {
+  it("301s a duplicate tema slug to the article instead of serving noindex", () => {
+    expect(resolveKeywordHubRedirect("have-something-done-ingles")).toBe(
+      "/blog/gramatica/have-something-done-ingles",
+    );
+  });
+
+  it("keeps indexable tema hubs crawlable (hub markdown or ≥3 articles)", () => {
+    const keyword = getStaticTemaKeywords()[0];
+    expect(keyword).toBeTruthy();
+    expect(resolveKeywordHubRedirect(slugify(keyword))).toBeNull();
+  });
+
+  it("redirects empty tema slugs to the blog index", () => {
+    expect(resolveKeywordHubRedirect("this-keyword-does-not-exist-xyz")).toBe(
+      "/blog",
+    );
   });
 });

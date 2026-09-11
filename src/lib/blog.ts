@@ -532,3 +532,27 @@ export function getStaticTemaKeywords(): string[] {
     return getArticlesByKeyword(keyword).length >= 3;
   });
 }
+
+/**
+ * Thin or duplicate `/blog/temas` URLs should not return 200 + noindex.
+ * Google still fetches `noindex` pages (wastes crawl budget); a thin 200 also
+ * looks like a soft 404. Consolidate with 301 instead. Indexable hubs
+ * (markdown hub or ≥3 articles) return null.
+ */
+export function resolveKeywordHubRedirect(keywordSlug: string): string | null {
+  const duplicateArticle = getDuplicateArticleForHub(keywordSlug);
+  if (duplicateArticle) return getArticlePath(duplicateArticle);
+
+  const keywords = getAllKeywords();
+  const originalKeyword =
+    keywords.find((k) => slugify(k) === keywordSlug) || keywordSlug;
+  const hubContent =
+    getHubContent(originalKeyword) ||
+    (originalKeyword !== keywordSlug ? getHubContent(keywordSlug) : null);
+  if (hubContent) return null;
+
+  const articles = getArticlesByKeyword(originalKeyword);
+  if (articles.length >= 3) return null;
+  if (articles.length === 0) return "/blog";
+  return getArticlePath(articles[0]);
+}

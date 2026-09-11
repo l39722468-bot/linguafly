@@ -23,8 +23,8 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { page: pageRaw } = await searchParams;
   const page = parsePageParam(pageRaw);
-  const canonical =
-    page > 1 ? getAbsoluteUrl(`/blog?page=${page}`) : getAbsoluteUrl("/blog");
+  // Pagination is Disallow in robots.txt (crawl budget). Canonical stays on page 1.
+  const canonical = getAbsoluteUrl("/blog");
   const title = `Artículos de idiomas, hábitos, IA e inglés | ${SITE_BRAND_NAME}`;
   const description =
     "Artículos de la revista (idiomas, alimentación, entrenamiento e inteligencia artificial) y el archivo de guías para aprender inglés: gramática, viajes, trabajo, exámenes y cursos por nivel.";
@@ -41,7 +41,6 @@ export async function generateMetadata({
           ? undefined
           : { "text/markdown": llmMarkdownUrl("/blog") },
     },
-    robots: page > 1 ? { index: false, follow: true } : undefined,
     openGraph: {
       title,
       description,
@@ -79,7 +78,7 @@ export default async function BlogPage({
     name: "Artículos",
     description:
       "Revista de idiomas, alimentación, entrenamiento e inteligencia artificial, y el archivo de guías para aprender inglés.",
-    url: page > 1 ? getAbsoluteUrl(`/blog?page=${page}`) : getAbsoluteUrl("/blog"),
+    url: getAbsoluteUrl("/blog"),
     image: DEFAULT_OG_IMAGE_PATH,
     numberOfItems: total,
     articles: articles.map((article) => ({

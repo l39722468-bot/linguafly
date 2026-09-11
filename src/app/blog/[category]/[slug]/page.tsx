@@ -47,15 +47,9 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
   const { category: rawCategory, slug } = await params;
   const category = decodeURIComponent(rawCategory);
   const article = await getPublishedArticle(slug, category);
-  
-  if (!article) {
-    return {
-      title: "Artículo no encontrado",
-      robots: {
-        index: false,
-        follow: false,
-      },
-    };
+
+  if (!article || !isPublicArticleCategory(article.category)) {
+    notFound();
   }
 
   // Title y description salen del frontmatter (description = meta; excerpt = tarjetas).

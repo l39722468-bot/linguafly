@@ -143,19 +143,19 @@ export async function generateMetadata({
   const category = normalizeCategory(decodeURIComponent(rawCategory));
   const page = parsePageParam(pageRaw);
     
-  const meta = categoryMetadata[category];
-  
-  if (!meta) {
-    return {
-      title: "Categoría no encontrada",
-      robots: {
-        index: false,
-        follow: false,
-      },
-    };
+  if (!isPublicArticleCategory(category)) {
+    notFound();
   }
 
-  const canonicalPath = page > 1 ? `/blog/${category}?page=${page}` : `/blog/${category}`;
+  const meta = categoryMetadata[category] || {
+    name: category.charAt(0).toUpperCase() + category.slice(1),
+    description: `Artículos y guías sobre ${category}.`,
+    icon: "📄",
+    color: "from-slate-600 to-slate-800",
+  };
+
+  // Pagination is Disallow in robots.txt (crawl budget). Canonical stays on page 1.
+  const canonicalPath = `/blog/${category}`;
   const canonical = getAbsoluteUrl(canonicalPath);
   const og = ogImageMeta(meta.name, getCategoryOgImagePath(category));
   const title = `${optimizeSEOTitle(meta.name)} | Blog ${SITE_BRAND_NAME}`;
@@ -176,7 +176,6 @@ export async function generateMetadata({
           ? undefined
           : { "text/markdown": llmMarkdownUrl(`/blog/${category}`) },
     },
-    robots: page > 1 ? { index: false, follow: true } : undefined,
     openGraph: {
       title,
       description: meta.description,
@@ -225,7 +224,7 @@ export default async function CategoryPage({
     color: "from-slate-600 to-slate-800"
   };
 
-  const canonicalPath = page > 1 ? `/blog/${category}?page=${page}` : `/blog/${category}`;
+  const canonicalPath = `/blog/${category}`;
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getSiteUrl() },
     { name: "Blog", url: getAbsoluteUrl("/blog") },

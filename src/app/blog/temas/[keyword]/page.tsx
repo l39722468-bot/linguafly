@@ -2,7 +2,7 @@ import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import Image from "next/image";
 import { permanentRedirect } from "next/navigation";
-import { getArticlesByKeyword, getAllKeywords, getStaticTemaKeywords, slugify, getHubContent, normalizeCategory, getDuplicateArticleForHub, getArticlePath, getCanonicalTopicPath, resolveTopicHref } from "@/lib/blog";
+import { getArticlesByKeyword, getAllKeywords, getStaticTemaKeywords, slugify, getHubContent, normalizeCategory, getCanonicalTopicPath, resolveTopicHref, resolveKeywordHubRedirect } from "@/lib/blog";
 import { Metadata } from "next";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
@@ -26,6 +26,11 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ keyword: string }> }): Promise<Metadata> {
   const { keyword } = await params;
+  const redirectTo = resolveKeywordHubRedirect(keyword);
+  if (redirectTo) {
+    permanentRedirect(redirectTo);
+  }
+
   const keywords = getAllKeywords();
   const originalKeyword = keywords.find(k => slugify(k) === keyword) || keyword;
 
@@ -35,7 +40,6 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
   }
 
   const articles = getArticlesByKeyword(originalKeyword);
-  const isThinPage = articles.length < 3 && !hubContent;
 
   const capitalized = originalKeyword.charAt(0).toUpperCase() + originalKeyword.slice(1);
 
@@ -50,17 +54,7 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
     articles[0] ? getArticleOgImagePath(articles[0]) : DEFAULT_OG_IMAGE_PATH,
   );
 
-  /**
-   * Si existe un artículo con el mismo slug que este hub (duplicado hub/blog),
-   * delegamos la canónica al artículo (suele tener más contenido que el hub)
-   * y marcamos el hub como noindex para evitar canibalización.
-   * El hub sigue sirviendo como página de navegación interna (follow: true).
-   */
-  const duplicateArticle = getDuplicateArticleForHub(keyword);
-  const hasDuplicateArticle = !!duplicateArticle;
-  const canonicalUrl = hasDuplicateArticle
-    ? getAbsoluteUrl(`/blog/${normalizeCategory(duplicateArticle.category)}/${duplicateArticle.slug}`)
-    : getAbsoluteUrl(`/blog/temas/${keyword}`);
+  const canonicalUrl = getAbsoluteUrl(`/blog/temas/${keyword}`);
 
   const pageKeywords = [
     originalKeyword,
@@ -74,10 +68,6 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
     keywords: pageKeywords,
     alternates: {
       canonical: canonicalUrl,
-    },
-    robots: {
-      index: isThinPage ? false : true,
-      follow: true,
     },
     openGraph: {
       title: pageTitle,
@@ -97,6 +87,11 @@ export async function generateMetadata({ params }: { params: Promise<{ keyword: 
 
 export default async function KeywordHubPage({ params }: { params: Promise<{ keyword: string }> }) {
   const { keyword } = await params;
+  const redirectTo = resolveKeywordHubRedirect(keyword);
+  if (redirectTo) {
+    permanentRedirect(redirectTo);
+  }
+
   const keywords = getAllKeywords();
   const originalKeyword = keywords.find(k => slugify(k) === keyword) || keyword;
   const articles = getArticlesByKeyword(originalKeyword);
@@ -104,15 +99,6 @@ export default async function KeywordHubPage({ params }: { params: Promise<{ key
   let hubContent = getHubContent(originalKeyword);
   if (!hubContent && originalKeyword !== keyword) {
     hubContent = getHubContent(keyword);
-  }
-
-  const duplicateArticle = getDuplicateArticleForHub(keyword);
-  if (duplicateArticle) {
-    permanentRedirect(getArticlePath(duplicateArticle));
-  }
-
-  if (articles.length === 0 && !hubContent) {
-    permanentRedirect("/blog");
   }
 
   const capitalized = originalKeyword.charAt(0).toUpperCase() + originalKeyword.slice(1);
