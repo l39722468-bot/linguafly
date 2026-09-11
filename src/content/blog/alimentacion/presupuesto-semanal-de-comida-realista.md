@@ -21,6 +21,7 @@ excerpt: >-
   Elige un rango en euros, rastrea una semana y recorta snacks y desperdicio,
   no los huevos ni el yogur.
 canonical: 'https://linguafly.app/blog/alimentacion/presupuesto-semanal-de-comida-realista'
+alt: Ticket de compra y lista de precios junto a un menú sencillo
 related_routes:
   - lista-de-la-compra-semanal-sencilla
   - marcas-blancas-que-bastan

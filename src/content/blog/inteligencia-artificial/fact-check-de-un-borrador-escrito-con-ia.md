@@ -21,6 +21,7 @@ excerpt: >-
   Extrae cifras, nombres y fechas del borrador. Lo que no abras en el sitio
   emisor se marca NO VERIFICADO o se corta. No se publica un número huérfano.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/fact-check-de-un-borrador-escrito-con-ia'
+alt: Borrador escrito con IA y pestañas abiertas para contrastar datos
 related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - por-que-un-chatbot-se-inventa-datos

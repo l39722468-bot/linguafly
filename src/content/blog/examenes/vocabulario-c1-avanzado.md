@@ -30,6 +30,7 @@ faqs:
   - question: "¿El vocabulario idiomático del inglés es importante en el CAE?"
     answer: "Sí, especialmente en el Speaking y en el Reading. Los examinadores valoran que uses expresiones idiomáticas de manera natural y apropiada. Pero cuidado: un idiom mal usado o en un contexto equivocado llama negativamente la atención."
 canonical: 'https://linguafly.app/blog/examenes/vocabulario-c1-avanzado'
+alt: Tarjetas de vocabulario avanzado C1 esparcidas sobre un escritorio
 ---
 
 Una de las diferencias más claras entre un candidato de B2 y uno de C1 no está en la gramática ni en la fluidez: está en el **vocabulario**. Específicamente, en la capacidad de elegir la palabra correcta entre varias opciones que significan lo mismo de manera aproximada.

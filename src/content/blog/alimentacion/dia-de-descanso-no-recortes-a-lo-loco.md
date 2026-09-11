@@ -21,6 +21,7 @@ excerpt: >-
   El día que no entrenas no es un día de dieta flash. Mismo plato, a veces
   menos hambre. El recorte punitivo se cobra en la siguiente sesión.
 canonical: 'https://linguafly.app/blog/alimentacion/dia-de-descanso-no-recortes-a-lo-loco'
+alt: Plato con proteína y verdura en un día de descanso del gimnasio
 related_routes:
   - que-hacer-los-dias-que-no-entrenas
   - proteina-hidratos-grasas-guia-practica

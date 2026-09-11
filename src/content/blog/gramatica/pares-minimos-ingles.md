@@ -34,6 +34,7 @@ faqs:
     answer: 'Sí, de forma directa. Cuando entrenas tu oído para distinguir /ʃɪp/ de /ʃiːp/, esos dos patrones se vuelven categorías claras en tu mente. Después, cuando escuchas esas palabras en conversación real y rápida, las reconoces sin esfuerzo. El entrenamiento con pares mínimos mejora tanto la producción como la percepción auditiva.'
 
 canonical: 'https://linguafly.app/blog/gramatica/pares-minimos-ingles'
+alt: Parejas mínimas de pronunciación inglesa escritas en fichas
 ---
 
 Si llevas tiempo practicando la pronunciación del inglés y sientes que tu progreso se ha estancado, hay una herramienta que probablemente no estás usando todo lo que deberías: los pares mínimos.

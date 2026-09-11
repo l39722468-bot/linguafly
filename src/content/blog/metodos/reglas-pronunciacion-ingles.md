@@ -34,6 +34,7 @@ faqs:
     answer: 'Aquí tienes 20 palabras "trampa" que todo estudiante de inglés debe dominar:'
 
 canonical: 'https://linguafly.app/blog/metodos/reglas-pronunciacion-ingles'
+alt: Reglas de pronunciación inglesa escritas junto a ejemplos en voz alta
 ---
 
 ## Fuentes

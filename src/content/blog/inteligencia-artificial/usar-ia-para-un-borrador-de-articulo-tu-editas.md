@@ -21,6 +21,7 @@ excerpt: >-
   El modelo entrega un esquema y un sucio. Los hechos, la voz y el corte
   final son tuyos. El primer output no se publica.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/usar-ia-para-un-borrador-de-articulo-tu-editas'
+alt: Borrador de artículo generado con IA marcado para editar a mano
 related_routes:
   - como-escribir-un-prompt-que-sirva
   - fact-check-de-un-borrador-escrito-con-ia

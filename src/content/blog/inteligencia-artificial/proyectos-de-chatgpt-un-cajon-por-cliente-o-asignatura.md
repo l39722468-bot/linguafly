@@ -21,6 +21,7 @@ excerpt: >-
   Un proyecto por cliente o por asignatura. Archivos y chats en el mismo
   cajón. El chat suelto sigue valiendo para un recado de una vez.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/proyectos-de-chatgpt-un-cajon-por-cliente-o-asignatura'
+alt: "Proyectos de ChatGPT, un cajón por cliente o asignatura"
 related_routes:
   - chatgpt-el-chat-de-siempre-bien-usado
   - guardar-un-prompt-que-te-funciono

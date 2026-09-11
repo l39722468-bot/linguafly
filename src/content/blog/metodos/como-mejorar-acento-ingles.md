@@ -34,6 +34,7 @@ faqs:
   - question: '¿Vale la pena pagar por clases de pronunciación o con los recursos gratuitos es suficiente?'
     answer: 'Depende de tu nivel de partida y de tus objetivos. Si tu pronunciación ya es razonablemente inteligible y quieres mejorar la naturalidad, los recursos gratuitos (shadowing con material auténtico, pares mínimos, grabarte y comparar) son perfectamente suficientes si los usas de forma sistemática. Si tienes errores muy arraigados en sonidos específicos o el ritmo, unas pocas sesiones con un fonólogo o un profesor especializado en pronunciación pueden ser muy eficientes: te identifican los problemas concretos y te dan ejercicios dirigidos, lo que ahorra mucho tiempo de prueba y error.'
 canonical: 'https://linguafly.app/blog/metodos/como-mejorar-acento-ingles'
+alt: Estudiante grabando su pronunciación en inglés con el móvil
 ---
 
 Hay algo que mucha gente hace cuando quiere mejorar su acento en inglés: escuchar mucho inglés, intentar imitar vagamente a los nativos y esperar a que algo cambie con el tiempo. A veces funciona, pero es el camino más lento posible. El acento mejora mucho más rápido cuando entiendes qué aspectos concretos están causando el problema y trabajas esos aspectos de forma directa.

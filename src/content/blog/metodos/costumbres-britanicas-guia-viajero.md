@@ -33,6 +33,7 @@ faqs:
     answer: 'Los británicos dicen lo contrario de lo que quieren decir, pero en tono completamente neutro. "Oh, brilliant" dicho en tono plano generalmente significa lo contrario.'
 
 canonical: 'https://linguafly.app/blog/metodos/costumbres-britanicas-guia-viajero'
+alt: Tetera y taza de té en una mesa al estilo de etiqueta británica
 ---
 
 Muchos estudiantes de inglés se sorprenden cuando llegan al Reino Unido y descubren que entender el idioma no es suficiente. La **cultura británica** tiene sus propias normas, códigos no escritos y quirks que hacen que las interacciones sean muy diferentes a lo que esperaban.

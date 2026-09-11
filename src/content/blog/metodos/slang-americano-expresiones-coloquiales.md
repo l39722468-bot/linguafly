@@ -26,6 +26,7 @@ faqs:
     answer: 'El slang solo funciona cuando surge de forma natural. Consejos:'
 
 canonical: 'https://linguafly.app/blog/metodos/slang-americano-expresiones-coloquiales'
+alt: Conversación informal en inglés americano en una calle de ciudad
 ---
 
 Incluso si tienes un nivel B2 de inglés, es probable que pierdas bastantes conversaciones con americanos jóvenes. El **slang americano** evoluciona constantemente, especialmente con la influencia de las redes sociales, el hip-hop y la cultura de internet.

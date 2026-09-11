@@ -21,6 +21,7 @@ excerpt: >-
   Un prompt que sirve cabe en un párrafo: la tarea, el texto, el formato y
   lo que no debe inventar. Luego se itera el punto que falla, no la vida.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva'
+alt: Prompt corto y concreto escrito en un chat de IA
 related_routes:
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion
   - como-usar-un-chatbot-de-ia-por-primera-vez

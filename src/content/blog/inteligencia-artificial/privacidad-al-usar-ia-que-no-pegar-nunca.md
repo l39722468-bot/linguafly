@@ -21,6 +21,7 @@ excerpt: >-
   Si no lo pondrías en un comentario público, no lo pegas. DNI, salud,
   secretos de un cliente y menores: fuera del chat, siempre.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/privacidad-al-usar-ia-que-no-pegar-nunca'
+alt: Aviso de privacidad junto a un chat donde no se pegan datos sensibles
 related_routes:
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion
   - como-usar-un-chatbot-de-ia-por-primera-vez

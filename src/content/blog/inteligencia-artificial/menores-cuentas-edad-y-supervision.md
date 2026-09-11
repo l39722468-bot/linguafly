@@ -21,6 +21,7 @@ excerpt: >-
   El producto pone una edad mínima; si dudas, no hay cuenta. Supervisas.
   Los deberes los hace el menor. El chat no es un amigo.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/menores-cuentas-edad-y-supervision'
+alt: Cuenta de IA con aviso de edad y supervisión de un menor
 related_routes:
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - antropomorfismo-no-es-tu-amigo

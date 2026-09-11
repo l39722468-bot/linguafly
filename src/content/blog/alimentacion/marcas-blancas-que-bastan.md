@@ -21,6 +21,7 @@ excerpt: >-
   Yogur natural, botes, arroz y avena de marca blanca suelen bastar. Paga más
   solo cuando el envase o el sabor te fallan de verdad.
 canonical: 'https://linguafly.app/blog/alimentacion/marcas-blancas-que-bastan'
+alt: "Estante de supermercado con marcas blancas de yogur, atún y verdura"
 related_routes:
   - presupuesto-semanal-de-comida-realista
   - lista-de-la-compra-semanal-sencilla

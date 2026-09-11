@@ -32,6 +32,7 @@ faqs:
     answer: '→ Disculpe, estoy en la habitación 215. Parece que hay un problema con el aire acondicionado / la calefacción.'
 
 canonical: 'https://linguafly.app/blog/viajes/vocabulario-hotel-ingles'
+alt: Recepcionista de hotel atendiendo el check-in de un viajero
 ---
 
 Has llegado al hotel después de un largo viaje. En la recepción te espera un anglófono. Esta guía te da exactamente las frases y el vocabulario que necesitas para manejar cualquier situación en un hotel inglés — desde el **check-in** hasta resolver un problema con tu habitación.

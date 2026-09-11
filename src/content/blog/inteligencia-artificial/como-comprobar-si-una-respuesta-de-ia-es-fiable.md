@@ -21,6 +21,7 @@ excerpt: >-
   Extrae las afirmaciones, abre el original o la web oficial y marca NO
   ESTÁ lo que no esté. Los enlaces del chat también se abren, uno a uno.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/como-comprobar-si-una-respuesta-de-ia-es-fiable'
+alt: Respuesta de un chatbot con fuentes abiertas para comprobarla
 related_routes:
   - por-que-un-chatbot-se-inventa-datos
   - perplexity-buscar-con-citas-a-la-vista

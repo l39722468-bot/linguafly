@@ -52,6 +52,7 @@ faqs:
       Sí, el TOEFL iBT se acortó recientemente a menos de 2 horas. El IELTS
       mantiene su duración tradicional de aproximadamente 2 horas y 45 minutos.
 canonical: 'https://linguafly.app/blog/trabajo/ielts-vs-toefl-trabajo'
+alt: CV internacional junto a logotipos de exámenes IELTS y TOEFL
 ---
 
 ## IELTS vs TOEFL: La Decisión que Marcará tu Carrera Internacional

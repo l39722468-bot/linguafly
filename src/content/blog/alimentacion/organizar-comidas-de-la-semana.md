@@ -21,6 +21,7 @@ excerpt: >-
   No hace falta un menú de chef. Con tres cenas repetibles, una compra y dos
   tupper de base, dejas de decidir con hambre.
 canonical: 'https://linguafly.app/blog/alimentacion/organizar-comidas-de-la-semana'
+alt: Menú semanal en un papel junto a tuppers preparados
 related_routes:
   - proteina-hidratos-grasas-guia-practica
   - rutina-fuerza-principiantes-casa

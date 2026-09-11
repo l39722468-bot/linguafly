@@ -21,6 +21,7 @@ excerpt: >-
   El TFG no se genera en un hilo. Lees la norma del centro, hablas con el
   tutor y, si usas el chat, revisas un capítulo que ya escribiste tú.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/tfg-usar-ia-sin-plagiar-ni-inventar-bibliografia'
+alt: "TFG en el escritorio con la IA como apoyo, no como autor ni bibliografía"
 related_routes:
   - usar-ia-en-un-trabajo-sin-que-lo-haga-por-ti
   - citar-fuentes-la-ia-no-sustituye-la-bibliografia

@@ -21,6 +21,7 @@ excerpt: >-
   Una página: pregunta, alcance y tres fuentes candidatas. El chat acota.
   Tú cierras el entregable. No es un TFM ni un ensayo de clase.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/un-brief-de-investigacion-de-una-pagina'
+alt: Brief de investigación de una página en un documento corto
 related_routes:
   - pedir-fuentes-y-verificarlas-una-a-una
   - tfg-usar-ia-sin-plagiar-ni-inventar-bibliografia

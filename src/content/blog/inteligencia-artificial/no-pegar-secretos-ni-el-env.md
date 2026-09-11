@@ -21,6 +21,7 @@ excerpt: >-
   Si pegaste una clave, un token o el .env, rota ya. El prompt se redacta
   sin secretos: el chat no es tu gestor de credenciales.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/no-pegar-secretos-ni-el-env'
+alt: Archivo .env tapado junto a un chat donde no se pegan secretos
 related_routes:
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - pedir-que-te-expliquen-un-error-de-codigo

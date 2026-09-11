@@ -34,6 +34,7 @@ faqs:
     answer: 'La articulación correcta puedes aprenderla en una sesión de práctica consciente de 20-30 minutos. Lo que lleva más tiempo es automatizarla para que salga sola en conversación sin tener que pensar en ella. Eso suele llevar varias semanas de práctica regular, especialmente si llevas años pronunciándola mal.'
 
 canonical: 'https://linguafly.app/blog/gramatica/consonantes-th-ingles'
+alt: Primer plano de la boca pronunciando el sonido TH en inglés
 ---
 
 Hay dos consonantes del inglés que los hispanohablantes pronunciamos mal de forma casi universal. No porque sean difíciles en el sentido técnico —la posición de la lengua es simple— sino porque en español no existen y nunca hemos tenido que producirlas.

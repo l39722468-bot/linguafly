@@ -21,6 +21,7 @@ keywords:
   - política comercial y chatbots
   - pegar un caso real en la ia
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/que-pegar-del-crm-y-que-no'
+alt: Ficha de CRM con datos tapados antes de pegarlos en un chat
 related_routes:
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - contratos-de-clientes-fuera-del-chat-de-consumidor

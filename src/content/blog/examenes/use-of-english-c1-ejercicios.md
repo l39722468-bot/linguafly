@@ -28,6 +28,7 @@ faqs:
   - question: "¿Puedo practicar el Use of English online gratis?"
     answer: "Cambridge ofrece algunos materiales de muestra en su web oficial. También puedes encontrar ejercicios en plataformas como Flo-Joe o en los libros de práctica oficial de Collins y Macmillan."
 canonical: 'https://linguafly.app/blog/examenes/use-of-english-c1-ejercicios'
+alt: Cuaderno de Use of English C1 con huecos para completar
 ---
 
 Si hay una parte del CAE que concentra más ansiedad que cualquier otra, esa es el **Use of English**. No porque sea imposible, sino porque mezcla gramática, vocabulario y lectura en un formato que no te encuentras en ningún otro contexto. Para cuando llegas a él en el examen, llevas ya un buen rato leyendo textos largos, y entonces tienes que activar un modo completamente diferente de procesar el idioma.

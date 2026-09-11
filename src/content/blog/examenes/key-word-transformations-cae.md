@@ -30,6 +30,7 @@ faqs:
   - question: "¿Las Key Word Transformations del CAE son las mismas que las del FCE?"
     answer: "El formato es el mismo, pero el nivel de dificultad es notablemente mayor. En el CAE aparecen estructuras que no suelen estar en el FCE: inversiones formales, condicionales mixtos, estructuras causativas, verbos modales en pasado y paráfrasis con phrasal verbs de registro elevado."
 canonical: 'https://linguafly.app/blog/examenes/key-word-transformations-cae'
+alt: Hoja de ejercicios de key word transformations del CAE con lápiz
 ---
 
 La **Parte 4 del Use of English** es, junto con el Gapped Text del Reading, la que más diferencia marca entre un Grade B y un Grade A en el CAE. Seis transformaciones, cada una con un valor de hasta 2 puntos. Si las dominas, puedes sumar hasta 12 puntos en esta sola parte.

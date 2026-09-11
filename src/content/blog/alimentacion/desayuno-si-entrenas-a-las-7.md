@@ -21,6 +21,7 @@ excerpt: >-
   A las 6:40 no hace falta un brunch. Hace falta un bocado o un desayuno
   justo después. El café solo no es el plan.
 canonical: 'https://linguafly.app/blog/alimentacion/desayuno-si-entrenas-a-las-7'
+alt: "Yogur, tostada y café en la mesa antes de entrenar a las siete"
 related_routes:
   - entrenar-en-ayunas-cuando-no
   - que-comer-antes-y-despues-de-entrenar

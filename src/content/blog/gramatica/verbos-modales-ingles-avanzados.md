@@ -33,6 +33,7 @@ faqs:
     answer: '- They may have missed the train. (posibilidad neutra) - She could have taken a different route. (posibilidad alternativa) - I suppose he might have been confused by the instructions. (posibilidad con distancia)'
 
 canonical: 'https://linguafly.app/blog/gramatica/verbos-modales-ingles-avanzados'
+alt: Lista de modales avanzados en inglés C1 en una pizarra
 ---
 
 Si ya conoces **can**, **must** y **should**, es hora de profundizar en los aspectos que realmente separan a un hablante de nivel B2 de uno de nivel C1. Los **verbos modales avanzados** en inglés incluyen matices sutiles de probabilidad, crítica, especulación y distanciamiento formal que son imprescindibles en la comunicación profesional y en exámenes de nivel.

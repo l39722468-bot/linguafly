@@ -21,6 +21,7 @@ excerpt: >-
   Quince minutos, un texto tuyo y una sola tarea. Así se usa un chatbot el
   primer día, sin convertir el chat en un diario ni en un oráculo.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/como-usar-un-chatbot-de-ia-por-primera-vez'
+alt: Primera conversación con un chatbot de IA en el navegador
 related_routes:
   - que-es-la-inteligencia-artificial-sin-ciencia-ficcion
   - como-escribir-un-prompt-que-sirva

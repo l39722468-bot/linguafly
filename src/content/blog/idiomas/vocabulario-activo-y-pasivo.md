@@ -29,6 +29,7 @@ faqs:
     answer: Recupérala sin mirar la lista, úsala en una frase nueva y repítela en los días siguientes. El uso, no el subrayado, hace el cambio.
   - question: ¿Cuántas palabras nuevas debo aprender al día?
     answer: Entre 5 y 10 bien trabajadas rinden más que 30 copiadas. Si no puedes usarlas mañana, eran demasiadas.
+alt: Tarjetas de vocabulario activo y pasivo ordenadas en dos montones
 ---
 
 Casi todo el mundo tiene más vocabulario del que usa. Lees un artículo, “lo entiendes”, y a la hora de hablar se te cae la red. Eso no es un fallo de memoria mágica: es la diferencia entre **vocabulario pasivo** y **vocabulario activo**.

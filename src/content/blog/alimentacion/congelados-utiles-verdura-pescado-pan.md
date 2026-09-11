@@ -21,6 +21,7 @@ excerpt: >-
   Guisantes, brócoli, un pescado de saco y pan en rebanadas. Se compran
   congelados y se usan en las cenas, no se coleccionan.
 canonical: 'https://linguafly.app/blog/alimentacion/congelados-utiles-verdura-pescado-pan'
+alt: "Cajón del congelador con verdura, pescado y pan en raciones"
 related_routes:
   - lista-de-la-compra-semanal-sencilla
   - presupuesto-semanal-de-comida-realista

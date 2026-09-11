@@ -22,6 +22,7 @@ excerpt: >-
   biblioteca; el chat fabrica APA. Si usaste el modelo, se declara; no se
   cita como fuente de los hechos.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/citar-fuentes-la-ia-no-sustituye-la-bibliografia'
+alt: Bibliografía de un trabajo junto a un chat que no sustituye las fuentes
 related_routes:
   - citas-legales-inventadas
   - como-comprobar-si-una-respuesta-de-ia-es-fiable

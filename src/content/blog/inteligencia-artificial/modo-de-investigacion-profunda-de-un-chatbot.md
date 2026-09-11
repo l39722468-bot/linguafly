@@ -21,6 +21,7 @@ excerpt: >-
   El modo lento entrega un informe con citas. Cada enlace se abre. No
   sustituye a un analista. A veces bastan diez minutos y tres pestañas.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/modo-de-investigacion-profunda-de-un-chatbot'
+alt: Modo de investigación profunda de un chatbot con fuentes listadas
 related_routes:
   - pedir-fuentes-y-verificarlas-una-a-una
   - perplexity-buscar-con-citas-a-la-vista

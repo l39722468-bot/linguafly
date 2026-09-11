@@ -30,6 +30,7 @@ faqs:
   - question: "¿Se pueden pedir palabras compuestas en el word formation del CAE?"
     answer: "Sí, aunque es menos frecuente. Pueden pedirte que formes una palabra compuesta uniendo dos raíces, como *self-employed* a partir de *employ*, o *overworked* a partir de *work*."
 canonical: 'https://linguafly.app/blog/examenes/word-formation-cae'
+alt: Tabla de prefijos y sufijos ingleses junto a ejercicios de word formation
 ---
 
 La **Parte 3 del Use of English** del CAE es, junto con las Key Word Transformations, la que más claramente evalúa tu conocimiento del sistema de la lengua inglesa. No se trata de vocabulario en el sentido de "saber muchas palabras". Se trata de entender cómo las palabras se construyen: qué le pasa a una raíz cuando le añades un sufijo, cuándo necesitas un prefijo negativo y en qué categoría gramatical debe estar la respuesta.

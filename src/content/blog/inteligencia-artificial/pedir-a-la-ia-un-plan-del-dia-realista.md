@@ -22,6 +22,7 @@ excerpt: >-
   Tres prioridades y tus huecos reales. El modelo no conoce tu energía.
   Copia el plan al calendario; el chat no es una alarma.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/pedir-a-la-ia-un-plan-del-dia-realista'
+alt: Plan del día realista pedido a un chatbot en una lista corta
 related_routes:
   - preparar-una-reunion-de-15-minutos
   - como-escribir-un-prompt-que-sirva

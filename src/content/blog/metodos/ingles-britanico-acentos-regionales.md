@@ -29,6 +29,7 @@ faqs:
   - question: '¿Es el acento escocés un dialecto diferente al inglés?'
     answer: 'Técnicamente hay que distinguir entre el Scots (una lengua propia, relacionada con el inglés pero con gramática y vocabulario muy distintivos) y el Scottish English (inglés con acento e influencias del Scots). La mayoría de los escoceses hablan Scottish English en contextos formales y utilizan más rasgos del Scots en contextos informales. Lo que solemos llamar "acento escocés" es el Scottish English, que es perfectamente comprensible aunque tenga características muy marcadas.'
 canonical: 'https://linguafly.app/blog/metodos/ingles-britanico-acentos-regionales'
+alt: Mapa del Reino Unido con acentos regionales del inglés británico
 ---
 
 Si aprendiste inglés en el colegio o con aplicaciones, probablemente tu referencia es el Received Pronunciation británico: esas vocales largas y pronunciadas con claridad, sin /r/ al final de las sílabas, que reconoces en la BBC o en las películas de época. Lo que nadie te preparó para escuchar es al vecino de Liverpool explicándote cómo llegar a la estación, al conductor de taxi de Glasgow comentando el partido del día anterior, o a los personajes de EastEnders discutiendo en el East End de Londres.

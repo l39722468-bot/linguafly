@@ -47,6 +47,7 @@ faqs:
       Si tienes poco tiempo, la combinación app + sesiones guiadas suele dar
       mejor retorno que usar solo una de las dos. La app mantiene el hábito;
       el curso acelera la corrección de errores que más frenan tu progreso.
+alt: Comparación visual entre una app de idiomas y una clase de inglés
 ---
 
 ## Apps vs. Cursos de Inglés: ¿Qué elegir para llegar a C1 en 2026?

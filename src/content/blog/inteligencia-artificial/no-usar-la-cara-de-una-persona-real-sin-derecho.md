@@ -22,6 +22,7 @@ excerpt: >-
   No subas la cara de alguien para ver qué sale. Ilustración, figura
   genérica o tu foto con cuidado. Un menor, ni eso.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/no-usar-la-cara-de-una-persona-real-sin-derecho'
+alt: Foto de una persona real tachada en un generador de imágenes
 related_routes:
   - menores-cuentas-edad-y-supervision
   - privacidad-al-usar-ia-que-no-pegar-nunca

@@ -21,6 +21,7 @@ excerpt: >-
   Cada enlace se abre. Si no carga o el párrafo no dice eso, esa fuente no
   existe para ti. El bucle cubre la sesión entera, no un solo mensaje.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/pedir-fuentes-y-verificarlas-una-a-una'
+alt: Lista de fuentes de un chatbot abiertas una a una para verificarlas
 related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - perplexity-buscar-con-citas-a-la-vista

@@ -30,6 +30,7 @@ faqs:
   - question: '¿Es cierto que los irlandeses tienen construcciones gramaticales propias en inglés?'
     answer: 'Sí, y bastante llamativas. El Hiberno-English (o Irish English) tiene construcciones que reflejan la gramática del gaélico. Por ejemplo, el uso de "after" para expresar una acción recién completada: "I am after eating" significa "acabo de comer". También el uso frecuente de "do be" para el presente habitual: "She does be working late" en vez de "She works late". Y la repetición del sujeto para dar énfasis: "It was cold, so it was." Estas construcciones no son errores: son parte de un sistema gramatical coherente con raíces en el gaélico.'
 canonical: 'https://linguafly.app/blog/metodos/acento-ingles-irlandes'
+alt: Calle de Dublín evocada junto a auriculares para entrenar el oído
 ---
 
 La primera vez que ves una película de Ken Loach ambientada en Irlanda sin subtítulos, el cerebro hace algo curioso: reconoces que es inglés, pero hay algo en la melodía, en el ritmo de las frases, que no cuadra con lo que esperabas. No es solo el acento. Es que el inglés irlandés tiene una música propia que no se parece a la de ningún otro país anglófono.

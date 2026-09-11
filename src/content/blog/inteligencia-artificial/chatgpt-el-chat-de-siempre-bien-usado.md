@@ -21,6 +21,7 @@ excerpt: >-
   Tres usos en la ventana de siempre: reescribir un texto tuyo, extraer
   una lista y pedir un formato. El resto puede esperar.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/chatgpt-el-chat-de-siempre-bien-usado'
+alt: Ventana de ChatGPT reescribiendo un párrafo junto al texto original
 related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - chatgpt-gemini-o-claude-por-donde-empezar

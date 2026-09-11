@@ -41,6 +41,7 @@ faqs:
       Las versiones gratis priorizan retención y frecuencia; las de pago
       suelen incluir más profundidad curricular, menos fricción y mejores
       funciones de seguimiento, lo que facilita avanzar en menos tiempo.
+alt: Teléfono con apps de inglés gratis y de pago abiertas en la pantalla
 ---
 
 ## Apps para Aprender Inglés Gratis vs. de Pago: ¿Vale la pena invertir en 2026?

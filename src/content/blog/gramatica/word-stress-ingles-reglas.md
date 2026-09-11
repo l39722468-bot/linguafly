@@ -33,6 +33,7 @@ faqs:
     answer: 'Algunos sufijos atraen el acento hacia ellos mismos o hacia la sílaba que los precede. Por ejemplo, -tion y -sion siempre llevan el acento en la sílaba anterior: na-TION, edu-CA-tion, te-LE-vi-sion. Los sufijos -ic, -ical e -ity también desplazan el acento: PHO-to pero pho-TOG-ra-phy; E-co-no-my pero e-co-NOM-ic.'
 
 canonical: 'https://linguafly.app/blog/gramatica/word-stress-ingles-reglas'
+alt: Palabras inglesas con la sílaba tónica marcada en color
 ---
 
 Hay un error de pronunciación que pasa muy desapercibido pero que tiene un impacto enorme en cómo te entienden: equivocarse de sílaba. No en un fonema concreto, no en una consonante difícil. En cuál sílaba llevas más fuerte.

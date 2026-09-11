@@ -21,6 +21,7 @@ excerpt: >-
   Sirve para un dato público o un texto corto. No para un chat íntimo, un
   grupo con menores ni los mensajes de otra persona.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/meta-ai-en-whatsapp-cuando-callarla'
+alt: Meta AI en WhatsApp con la opción de silenciarla
 related_routes:
   - redactar-un-whatsapp-tenso
   - privacidad-al-usar-ia-que-no-pegar-nunca

@@ -30,6 +30,7 @@ faqs:
   - question: '¿Es el inglés australiano muy diferente del neozelandés?'
     answer: 'Son más parecidos entre sí que cualquiera de los dos al americano o al británico estándar, pero tienen diferencias claras. La más reconocible es la vocal de kit: en neozelandés, la /ɪ/ se ha centralizado mucho, casi hacia /ə/, lo que hace que "fish and chips" suene como "fush and chups" para un oyente australiano. El australiano no tiene esa centralización. También hay diferencias de vocabulario, aunque comparten muchos términos. Los propios australianos y neozelandeses se distinguen fácilmente entre sí, aunque para un oído hispanohablante al principio puedan sonar similares.'
 canonical: 'https://linguafly.app/blog/metodos/acento-ingles-australiano'
+alt: Estudiante escuchando un podcast con acento australiano
 ---
 
 La primera vez que vi una entrevista a un australiano sin subtítulos, entendí quizás la mitad. Venía de aprender inglés principalmente con modelos americanos y algo de británico, y el australiano me sonó a una mezcla extraña de ambos pero que no era exactamente ninguno de los dos. Las vocales estaban en lugares inesperados. La entonación subía cuando yo esperaba que bajara. Algunas palabras que reconocía sonaban completamente distintas.

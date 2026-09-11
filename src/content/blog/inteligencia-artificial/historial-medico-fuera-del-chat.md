@@ -21,6 +21,7 @@ excerpt: >-
   El PDF del hospital no entra en el chat. Preparar preguntas para la visita
   es otro gesto, y no convierte al modelo en tu historia clínica.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/historial-medico-fuera-del-chat'
+alt: Informe médico fuera de la ventana de un chatbot
 related_routes:
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - consejo-medico-el-limite-claro

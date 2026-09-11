@@ -21,6 +21,7 @@ excerpt: >-
   Un guion tuyo de menos de un minuto, voz de catálogo, nombres revisados.
   Un libro ajeno o clonar a alguien: no.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/elevenlabs-una-locucion-corta-y-el-limite'
+alt: Locución corta generada en ElevenLabs con auriculares
 related_routes:
   - voces-sinteticas-cuando-no-clonar-a-nadie
   - no-usar-la-cara-de-una-persona-real-sin-derecho

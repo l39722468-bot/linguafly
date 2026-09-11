@@ -32,6 +32,7 @@ faqs:
   - question: '¿Los escoceses entienden sin problema el inglés americano o el australiano?'
     answer: 'En general sí, aunque la exposición varía según la generación y el acceso a medios. El inglés americano es el más extendido en el entretenimiento global y los escoceses tienen tanta exposición a él como cualquier otro hablante. El australiano y el neozelandés pueden resultar más exóticos. En la dirección contraria, los americanos y los australianos suelen tener más dificultades para entender el Glaswegian marcado que los propios escoceses tienen para entender otros acentos, simplemente por falta de exposición.'
 canonical: 'https://linguafly.app/blog/metodos/ingles-escoces-caracteristicas'
+alt: Paisaje escocés junto a auriculares para escuchar inglés de Escocia
 ---
 
 Si alguna vez escuchas a alguien decir "It's a braw bricht moonlicht nicht" y te preguntas si es inglés o no, tienes razón en dudar. Es Scots, la lengua histórica de Escocia, y aunque no es lo mismo que el inglés escocés que hablan la mayoría de los escoceses hoy, explica por qué el acento de Escocia es radicalmente distinto a cualquier otro acento del inglés.

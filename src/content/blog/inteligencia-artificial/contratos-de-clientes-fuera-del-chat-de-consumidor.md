@@ -21,6 +21,7 @@ excerpt: >-
   El contrato del cliente no es material de un chat personal. Anonimizar
   nombres puede seguir identificando. Pregunta a seguridad o al DPD.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/contratos-de-clientes-fuera-del-chat-de-consumidor'
+alt: Contrato de cliente fuera de la ventana de un chatbot de consumidor
 related_routes:
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - consejo-juridico-el-limite-claro

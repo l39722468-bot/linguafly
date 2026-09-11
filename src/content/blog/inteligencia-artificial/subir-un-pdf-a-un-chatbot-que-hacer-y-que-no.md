@@ -21,6 +21,7 @@ excerpt: >-
   Recorta y anonimiza antes. Un manual público no es una nómina. Pide
   secciones y “no inventes”; el archivo viaja igual que un texto pegado.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/subir-un-pdf-a-un-chatbot-que-hacer-y-que-no'
+alt: PDF propio subido a un chatbot con datos sensibles fuera
 related_routes:
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - como-comprobar-si-una-respuesta-de-ia-es-fiable

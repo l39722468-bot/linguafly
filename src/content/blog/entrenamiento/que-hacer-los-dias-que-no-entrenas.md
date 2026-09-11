@@ -21,6 +21,7 @@ excerpt: >-
   El día que no hay sentadilla se camina y se duerme. No se inventa un
   CrossFit light. Tres sesiones serias piden offs de verdad.
 canonical: 'https://linguafly.app/blog/entrenamiento/que-hacer-los-dias-que-no-entrenas'
+alt: Paseo ligero y estiramientos en un día sin sesión de fuerza
 related_routes:
   - rutina-fuerza-principiantes-casa
   - progresar-sin-lesionarte

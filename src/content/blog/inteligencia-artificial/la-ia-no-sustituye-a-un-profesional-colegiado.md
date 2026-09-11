@@ -21,6 +21,7 @@ excerpt: >-
   Preguntas para la visita, glosario, esquema. No diagnóstico, no dictamen,
   no escrito que se presenta. Si hay firma o salud o dinero, paras.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/la-ia-no-sustituye-a-un-profesional-colegiado'
+alt: Chat de IA junto a la consulta de un profesional colegiado
 related_routes:
   - consejo-medico-el-limite-claro
   - consejo-juridico-el-limite-claro

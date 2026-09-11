@@ -22,6 +22,7 @@ excerpt: >-
   Objetivo, tres puntos y un cierre con reloj. El chat arma el orden;
   tú conduces. No es un acta ni una meeting de una hora.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/preparar-una-reunion-de-15-minutos'
+alt: Agenda de una reunión de quince minutos en el portátil
 related_routes:
   - seguimiento-despues-de-una-reunion
   - pedir-a-la-ia-un-plan-del-dia-realista

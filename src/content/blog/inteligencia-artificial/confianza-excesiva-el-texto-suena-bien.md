@@ -21,6 +21,7 @@ excerpt: >-
   Un email pulido no es un email cierto. El tono seguro es estilo. El
   criterio se queda encendido, sobre todo en plazos y cifras.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/confianza-excesiva-el-texto-suena-bien'
+alt: Párrafo de IA que suena bien marcado para revisar hechos
 related_routes:
   - como-comprobar-si-una-respuesta-de-ia-es-fiable
   - por-que-un-chatbot-se-inventa-datos

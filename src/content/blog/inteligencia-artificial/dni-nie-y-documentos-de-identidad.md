@@ -21,6 +21,7 @@ excerpt: >-
   pegaste, paras: no sigas, no “corrijas” el envío y no asumas que borrar
   el hilo lo deshace.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/dni-nie-y-documentos-de-identidad'
+alt: DNI tapado junto a un chat donde no se deben pegar documentos
 related_routes:
   - privacidad-al-usar-ia-que-no-pegar-nunca
   - historial-medico-fuera-del-chat

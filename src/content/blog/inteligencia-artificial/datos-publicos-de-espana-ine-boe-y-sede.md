@@ -21,6 +21,7 @@ excerpt: >-
   La cifra vive en el INE o en el BOE. El chat ayuda a elegir tabla, año y
   palabras de búsqueda. La sede electrónica no es un modelo.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/datos-publicos-de-espana-ine-boe-y-sede'
+alt: "Páginas del INE, el BOE y una sede electrónica abiertas"
 related_routes:
   - pedir-fuentes-y-verificarlas-una-a-una
   - como-comprobar-si-una-respuesta-de-ia-es-fiable

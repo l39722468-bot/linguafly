@@ -21,6 +21,7 @@ excerpt: >-
   El ayuno no mejora la sentadilla. Si entrenas fuerza a las 7, un yogur
   cuenta. El paseo en ayunas es otra conversación.
 canonical: 'https://linguafly.app/blog/alimentacion/entrenar-en-ayunas-cuando-no'
+alt: Café solo frente a un desayuno mínimo antes de entrenar
 related_routes:
   - desayuno-si-entrenas-a-las-7
   - que-comer-antes-y-despues-de-entrenar

@@ -21,6 +21,7 @@ excerpt: >-
   Montas una lista de palabras que no quieres y pasas el borrador: buscar,
   cortar, sustituir por las tuyas. El sello del modelo no se publica.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/mantener-tu-vocabulario-y-no-el-del-modelo'
+alt: Texto propio marcado para no copiar el vocabulario del modelo
 related_routes:
   - usar-ia-para-un-borrador-de-articulo-tu-editas
   - reescribir-en-voz-activa

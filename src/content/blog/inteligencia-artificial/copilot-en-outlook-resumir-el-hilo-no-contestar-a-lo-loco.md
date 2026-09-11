@@ -21,6 +21,7 @@ excerpt: >-
   Copilot resume el hilo y te deja un borrador. Tú abres los mensajes, tachas
   el plazo inventado y pulsas enviar. El primer texto no sale.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/copilot-en-outlook-resumir-el-hilo-no-contestar-a-lo-loco'
+alt: Copilot en Outlook resumiendo un hilo de correo sin enviarlo
 related_routes:
   - resumir-un-hilo-de-emails
   - redactar-un-email-profesional-con-ia

@@ -22,6 +22,7 @@ excerpt: >-
   Tú pones el menú y la nevera. El chat agrupa la lista. El hábito de
   comprar está en el otro artículo; aquí manda el prompt.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/preparar-la-compra-semanal-con-un-chatbot-el-angulo-es-la-ia'
+alt: Lista de la compra semanal armada con un chatbot de IA
 related_routes:
   - lista-de-la-compra-semanal-sencilla
   - como-escribir-un-prompt-que-sirva

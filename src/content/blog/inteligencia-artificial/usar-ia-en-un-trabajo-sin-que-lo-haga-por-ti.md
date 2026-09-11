@@ -21,6 +21,7 @@ excerpt: >-
   El modelo ordena dudas y señala huecos de un texto tuyo; no entrega el
   ensayo. Si la guía no dice nada de IA, se pregunta; no se adivina.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/usar-ia-en-un-trabajo-sin-que-lo-haga-por-ti'
+alt: Trabajo escolar con IA de apoyo y el texto original de la persona
 related_routes:
   - citar-fuentes-la-ia-no-sustituye-la-bibliografia
   - tfg-usar-ia-sin-plagiar-ni-inventar-bibliografia

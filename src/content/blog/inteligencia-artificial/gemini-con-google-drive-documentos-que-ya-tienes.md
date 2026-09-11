@@ -21,6 +21,7 @@ excerpt: >-
   El archivo ya está en Drive. Pides un resumen o una tabla, compruebas
   el original y no mezclas la cuenta personal con la del trabajo.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/gemini-con-google-drive-documentos-que-ya-tienes'
+alt: Gemini conectado a documentos de Google Drive en el escritorio
 related_routes:
   - chatgpt-gemini-o-claude-por-donde-empezar
   - subir-un-pdf-a-un-chatbot-que-hacer-y-que-no

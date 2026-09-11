@@ -43,6 +43,7 @@ faqs:
       (ever, never, just, already, yet, since). En búsquedas verás la misma
       duda como present perfect versus past simple o present perfect v past simple.
 canonical: 'https://linguafly.app/blog/gramatica/present-perfect-vs-past-simple'
+alt: Línea de tiempo comparando Present Perfect y Past Simple
 ---
 
 ## Domina el Present Perfect vs Past Simple (Nivel A1-C1)

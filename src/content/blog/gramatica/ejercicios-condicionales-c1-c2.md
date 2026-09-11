@@ -31,6 +31,7 @@ faqs:
     answer: 'Construcción formal sin "if": Had/Were/Should + sujeto + verbo. Ej.: Had I known, I would have acted differently.'
   - question: '¿Qué son los mixed conditionals?'
     answer: 'Combinan tiempos de distintos condicionales, por ejemplo pasado irreal con consecuencia presente.'
+alt: Ejercicios avanzados de mixed conditionals e inversión en un cuaderno
 ---
 
 Material avanzado con **inversión condicional**, **mixed conditionals** y estructuras formales para niveles C1 y C2.

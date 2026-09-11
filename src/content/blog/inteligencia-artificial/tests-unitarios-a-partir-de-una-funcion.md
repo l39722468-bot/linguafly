@@ -21,6 +21,7 @@ excerpt: >-
   Pegas una función, el framework y los casos límite. El modelo propone tests.
   Tú los corres. Si inventa un método que no está, el test se tira.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/tests-unitarios-a-partir-de-una-funcion'
+alt: Tests unitarios escritos a partir de una función en el editor
 related_routes:
   - un-refactor-pequeno-no-reescribir-el-proyecto
   - pedir-que-te-expliquen-un-error-de-codigo

@@ -21,6 +21,7 @@ excerpt: >-
   Una ficha es una pregunta y una respuesta que ya estaban en TUS notas.
   El modelo las parte. No las inventa.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/fichas-de-estudio-a-partir-de-tus-apuntes'
+alt: Fichas de estudio hechas a partir de apuntes propios
 related_routes:
   - resumir-un-tema-de-examen-con-ia
   - preguntas-tipo-test-de-un-capitulo

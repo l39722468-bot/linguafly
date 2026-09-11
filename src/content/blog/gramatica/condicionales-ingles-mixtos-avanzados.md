@@ -33,6 +33,7 @@ faqs:
     answer: 'Busca marcadores temporales para identificar el tipo:'
 
 canonical: 'https://linguafly.app/blog/gramatica/condicionales-ingles-mixtos-avanzados'
+alt: Línea de tiempo ilustrando mixed conditionals en inglés
 ---
 
 Si ya dominas el **Zero, First, Second y Third Conditional**, el siguiente paso es entender los **Mixed Conditionals** — estructuras que mezclan tiempos de diferentes condicionales para expresar relaciones más complejas entre el pasado y el presente. Son indispensables en el examen **Cambridge C1 Advanced** y en cualquier comunicación escrita sofisticada.

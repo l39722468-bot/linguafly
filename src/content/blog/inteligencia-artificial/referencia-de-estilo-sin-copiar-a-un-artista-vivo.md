@@ -22,6 +22,7 @@ excerpt: >-
   Periodo, medio y tres rasgos. No el nombre de quien vive de ilustrar.
   Un grabado del XIX no es un recetario para clonar a un autor de ahora.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/referencia-de-estilo-sin-copiar-a-un-artista-vivo'
+alt: Prompt de estilo que describe una escena sin copiar a un artista vivo
 related_routes:
   - prompt-de-imagen-una-escena-concreta
   - derechos-de-una-imagen-generada-espana-alto-nivel

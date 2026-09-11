@@ -33,6 +33,7 @@ faqs:
     answer: 'El TOEFL es desarrollado por ETS (Educational Testing Service), una organización estadounidense. Es el estándar de oro en Estados Unidos y es aceptado por prácticamente todas las universidades del país.'
 
 canonical: 'https://linguafly.app/blog/examenes/ielts-vs-toefl-diferencias-cual-elegir'
+alt: Dos folletos de examen IELTS y TOEFL sobre una mesa de estudio
 ---
 
 ## IELTS vs TOEFL: La Guía Definitiva para Elegir tu Examen

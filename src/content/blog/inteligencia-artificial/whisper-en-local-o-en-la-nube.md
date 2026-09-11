@@ -22,6 +22,7 @@ excerpt: >-
   Local si la reunión no debe viajar. Whisper.cpp se instala por la
   documentación oficial, no por un foro.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/whisper-en-local-o-en-la-nube'
+alt: Whisper transcribiendo audio en local frente a la opción en la nube
 related_routes:
   - transcribir-una-reunion
   - privacidad-al-usar-ia-que-no-pegar-nunca

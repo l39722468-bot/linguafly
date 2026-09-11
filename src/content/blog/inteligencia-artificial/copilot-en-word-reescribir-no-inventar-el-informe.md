@@ -21,6 +21,7 @@ excerpt: >-
   Reescribes un párrafo que ya escribiste y pides un resumen. El informe
   sigue siendo tuyo. Copilot no inventa secciones, citas ni cifras.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/copilot-en-word-reescribir-no-inventar-el-informe'
+alt: Copilot en Word reescribiendo un informe a partir del texto original
 related_routes:
   - como-escribir-un-prompt-que-sirva
   - confianza-excesiva-el-texto-suena-bien

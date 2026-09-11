@@ -21,6 +21,7 @@ excerpt: >-
   Un email de trabajo con IA: asunto, una petición, cierre. Sin tono de
   chatbot. Tú envías; el modelo no firma.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/redactar-un-email-profesional-con-ia'
+alt: Email profesional redactado con IA listo para revisar antes de enviar
 related_routes:
   - como-escribir-un-prompt-que-sirva
   - responder-a-un-cliente-enfadado

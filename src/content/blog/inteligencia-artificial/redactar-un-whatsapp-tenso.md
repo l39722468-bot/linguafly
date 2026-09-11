@@ -21,6 +21,7 @@ excerpt: >-
   Pegas el borrador, pides breve y clara, y envías tú. No un discurso.
   No una mentira para que duela menos.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/redactar-un-whatsapp-tenso'
+alt: "Borrador de un WhatsApp tenso en el móvil, aún sin enviar"
 related_routes:
   - preparar-una-conversacion-dificil
   - redactar-un-email-profesional-con-ia

@@ -44,6 +44,7 @@ faqs:
       #WayBackWednesday o simplemente esperar al jueves para seguir la tradición
       del #TBT.
 canonical: 'https://linguafly.app/blog/metodos/que-significa-tbt-slang-ingles'
+alt: Móvil mostrando un post con TBT y otro slang en inglés
 ---
 
 ## ¿Qué significa TBT? Guía Completa de Slang, Acrónimos y Redes Sociales

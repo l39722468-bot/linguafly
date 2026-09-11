@@ -32,6 +32,7 @@ faqs:
     answer: 'Aunque no es una app de idiomas dedicada, su sección de comunicación en inglés es insuperable para entender la cultura corporativa anglosajona. Te enseña no solo qué decir, sino cómo decirlo según el liderazgo que quieras proyectar.'
   - question: '¿Grammarly Business?'
     answer: 'Es la herramienta definitiva para la comunicación escrita. A diferencia de un corrector simple, Grammarly analiza el "engagement", la claridad y el tono. Te avisará si un correo suena demasiado agresivo o si estás usando muletillas que restan autoridad a tu mensaje.'
+alt: Portátil de oficina con una app de business English abierta
 ---
 
 ## El desafío del inglés en el entorno laboral moderno

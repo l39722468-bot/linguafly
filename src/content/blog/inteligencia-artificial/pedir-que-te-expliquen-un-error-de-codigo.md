@@ -22,6 +22,7 @@ excerpt: >-
   Pegas el error, el lenguaje y lo que ya intentaste. Antes, tachas claves,
   tokens y datos de clientes. El modelo explica. Tú compruebas en tu máquina.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/pedir-que-te-expliquen-un-error-de-codigo'
+alt: Mensaje de error de código explicado por un asistente de IA
 related_routes:
   - no-pegar-secretos-ni-el-env
   - como-escribir-un-prompt-que-sirva

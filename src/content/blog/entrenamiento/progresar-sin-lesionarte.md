@@ -21,6 +21,7 @@ excerpt: >-
   Progresar no es machacarte. Es añadir un poco de dificultad cuando aún
   controlas el movimiento. Los tendones van más lentos que el ego.
 canonical: 'https://linguafly.app/blog/entrenamiento/progresar-sin-lesionarte'
+alt: Anotación de cargas en un cuaderno junto a una barra en el gimnasio
 related_routes:
   - rutina-fuerza-principiantes-casa
   - sentadilla-en-casa-de-la-silla-al-aire

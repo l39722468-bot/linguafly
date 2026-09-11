@@ -34,6 +34,7 @@ faqs:
     answer: 'Aquí tienes 15 frases de nivel C1 para tu colección:'
 
 canonical: 'https://linguafly.app/blog/gramatica/voz-pasiva-avanzada-guia'
+alt: Transformación de activa a pasiva causativa e impersonal en la pizarra
 ---
 
 Si ya dominas la pasiva básica (*The cake was eaten*), es hora de dar el salto al nivel **Advanced (C1)**. En este nivel, la voz pasiva no solo sirve para cambiar el sujeto, sino para sonar diplomático, objetivo y académicamente sofisticado.

@@ -21,6 +21,7 @@ excerpt: >-
   Fijas el porcentaje y lo intocable. El modelo recorta repeticiones. Tú
   cuentas palabras al final. Es tijera, no otro artículo.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/cortar-un-30-de-un-texto'
+alt: Documento largo recortado un treinta por ciento en el editor
 related_routes:
   - usar-ia-para-un-borrador-de-articulo-tu-editas
   - reescribir-en-voz-activa

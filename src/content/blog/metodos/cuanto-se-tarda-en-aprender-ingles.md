@@ -40,6 +40,7 @@ faqs:
       proporcionar feedback instantáneo y personalización absoluta, eliminando
       los tiempos muertos de las clases grupales tradicionales.
 canonical: 'https://linguafly.app/blog/metodos/cuanto-se-tarda-en-aprender-ingles'
+alt: Calendario de estudio de inglés con horas por nivel anotadas
 ---
 
 ## ¿Cuánto se tarda en aprender inglés realmente? La Guía Definitiva

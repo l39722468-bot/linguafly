@@ -31,6 +31,7 @@ faqs:
   - question: "¿Qué conectores están prohibidos en el essay del CAE?"
     answer: "No hay conectores 'prohibidos', pero usar conectores de nivel B1 o B2 de manera repetitiva baja la puntuación del criterio de vocabulario. Expresiones como 'Firstly...', 'In conclusion...' o 'In my opinion...' son genéricas y señalan un nivel inferior al C1."
 canonical: 'https://linguafly.app/blog/examenes/writing-essay-cae'
+alt: 'Esquema de essay CAE con introducción, argumentos y conclusión'
 ---
 
 El **essay del CAE** es el único texto obligatorio del Writing. Siempre es un texto argumentativo sobre un tema de interés general —tecnología, medio ambiente, educación, sociedad— y siempre tienes que elegir dos de los tres puntos que propone el enunciado y discutirlos con criterio.

@@ -21,6 +21,7 @@ excerpt: >-
   Si entrenas a las 21:00, la cena tiene que ensamblarse. Huevos, un bote y
   leftover. El pedido doble no es recuperación.
 canonical: 'https://linguafly.app/blog/alimentacion/cenas-rapidas-despues-de-entrenar'
+alt: "Cena rápida de huevos, verdura y pan junto a la mochila de entrenar"
 related_routes:
   - organizar-comidas-de-la-semana
   - que-comer-antes-y-despues-de-entrenar

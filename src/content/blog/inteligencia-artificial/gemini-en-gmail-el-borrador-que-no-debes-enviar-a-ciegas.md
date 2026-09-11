@@ -21,6 +21,7 @@ excerpt: >-
   Gemini propone un borrador o un mapa del hilo. Lees cada fecha y cada
   promesa. El clic de enviar es tuyo.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/gemini-en-gmail-el-borrador-que-no-debes-enviar-a-ciegas'
+alt: Borrador de Gemini en Gmail listo para revisar antes de enviar
 related_routes:
   - redactar-un-email-profesional-con-ia
   - resumir-un-hilo-de-emails

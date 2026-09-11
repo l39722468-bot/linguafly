@@ -32,6 +32,7 @@ faqs:
   - question: '¿El schwa suena igual en todas las posiciones de la palabra?'
     answer: 'Hay ligeras variaciones según la posición y los sonidos vecinos, pero para efectos prácticos de aprendizaje puedes tratarlo como un sonido unitario. La variante más frecuente es la schwa central /ə/, que es el sonido de la "a" en inglés en palabras como "about" o "sofa". En posición final, especialmente en inglés americano, a veces puede aparecer la variante rótica /ər/ (como en "butter", "teacher"), que es técnicamente distinta pero pertenece a la misma familia de vocales reducidas.'
 canonical: 'https://linguafly.app/blog/gramatica/reduccion-vocales-ingles'
+alt: Transcripción fonética destacando el schwa en palabras inglesas
 ---
 
 Si alguna vez has escuchado a un nativo decir "I wanna go to the cinema" y te has preguntado dónde han ido a parar algunas de las vocales que esperabas oír, la respuesta se llama reducción vocálica. Y es probablemente el fenómeno fonético más importante del inglés que nadie te ha enseñado explícitamente.

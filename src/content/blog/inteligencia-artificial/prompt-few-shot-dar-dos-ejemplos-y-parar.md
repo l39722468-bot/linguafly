@@ -21,6 +21,7 @@ excerpt: >-
   Dos pares de entrada y salida anclan el formato. El tercero suele colar
   una excepción que el modelo copia peor que el patrón.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/prompt-few-shot-dar-dos-ejemplos-y-parar'
+alt: Prompt few-shot con dos ejemplos escritos y la tarea parada ahí
 related_routes:
   - como-escribir-un-prompt-que-sirva
   - guardar-un-prompt-que-te-funciono

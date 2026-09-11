@@ -35,6 +35,7 @@ faqs:
   - question: '¿El inglés sudafricano es no-rótico como el británico?'
     answer: 'Generalmente sí. El South African English estándar es no-rótico: la /r/ al final de sílaba o después de vocal no se pronuncia. "Car" es /kɑː/, "water" es /ˈwɔːtə/. Esto lo acerca al inglés británico en ese aspecto concreto. Sin embargo, en algunas variedades del Black South African English y en hablantes cuya primera lengua tiene /r/ fuerte, puede aparecer cierta roticidad. Los acentos del afrikáans también tienden a la roticidad, y algunos hablantes bilingües afrikáans-inglés transfieren esa /r/ al inglés.'
 canonical: 'https://linguafly.app/blog/metodos/acento-ingles-sudafricano'
+alt: Persona escuchando inglés sudafricano en un portátil
 ---
 
 Sudáfrica tiene once idiomas oficiales. Once. Y el inglés es solo uno de ellos, aunque es la lengua de los negocios, la administración y los medios de comunicación. Lo que significa que cuando escuchas el inglés de Sudáfrica, estás escuchando un idioma que convive, compite y se mezcla con el zulú, el xhosa, el sotho, el afrikáans y seis más. El resultado es una variedad del inglés con personalidad propia que no suena a ninguna otra cosa en el mundo.

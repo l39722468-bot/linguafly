@@ -21,6 +21,7 @@ excerpt: >-
   El primer mes no se elige el modelo más famoso. Se elige la ventana que
   encaja con el chat de cada día, un PDF largo o un archivo de Drive.
 canonical: 'https://linguafly.app/blog/inteligencia-artificial/chatgpt-gemini-o-claude-por-donde-empezar'
+alt: "Tres pestañas de ChatGPT, Gemini y Claude abiertas en el navegador"
 related_routes:
   - como-usar-un-chatbot-de-ia-por-primera-vez
   - crear-una-cuenta-de-chatgpt-y-configurar-lo-basico
