@@ -31,6 +31,7 @@ faqs:
     answer: 'Expresa hechos generales o verdades universales. Estructura: If + present simple, present simple.'
   - question: '¿Qué es el First Conditional?'
     answer: 'Se usa para situaciones futuras probables. Estructura: If + present simple, will + infinitivo.'
+alt: Ficha de ejercicios de zero y first conditional con soluciones
 ---
 
 Hoja práctica para repasar **Zero Conditional** y **First Conditional** con soluciones. Ideal para niveles A2 y B1.

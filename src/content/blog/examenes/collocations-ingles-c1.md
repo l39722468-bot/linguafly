@@ -30,6 +30,7 @@ faqs:
   - question: "¿Las collocations son iguales en inglés británico y americano?"
     answer: "La mayoría sí, pero hay algunas diferencias. El CAE usa inglés predominantemente británico, así que si tienes dudas entre dos variantes, opta por la británica."
 canonical: 'https://linguafly.app/blog/examenes/collocations-ingles-c1'
+alt: Estudiante subrayando collocations en un cuaderno de preparación CAE
 ---
 
 En inglés hay cosas que simplemente "van juntas". No por ninguna regla gramatical, sino por convención: los hablantes nativos aprendieron desde pequeños que se dice *heavy rain* y no *strong rain*, que se *make* una decision pero se *take* una risk, que algo puede ser *deeply committed* pero no *deeply interested* (ahí va *highly* o *deeply interested* dependiendo del adjetivo concreto).

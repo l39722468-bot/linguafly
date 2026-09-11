@@ -29,6 +29,7 @@ faqs:
   - question: '¿En qué se diferencia el acento de California del General American?'
     answer: 'California tiene su propio cambio vocálico en marcha (el California Vowel Shift) que está alejando el acento californiano del GA clásico. El rasgo más notorio es que las vocales anteriores bajas se están moviendo: la /æ/ de cat suena más alta, la /ɑ/ de lot suena más adelantada. También hay rasgos prosódicos característicos, como el High Rising Terminal (entonación ascendente en afirmaciones) que el GA clásico no tiene. Dicho esto, el californiano es perfectamente comprensible para cualquier hablante de GA y las diferencias son sutiles para un oyente no especializado.'
 canonical: 'https://linguafly.app/blog/metodos/general-american-acento'
+alt: Mapa de Estados Unidos destacando el acento General American
 ---
 
 Durante décadas, el General American ha sido la referencia cuando alguien dice "quiero aprender el inglés americano". Es el acento de los presentadores de informativos nacionales, el de muchas producciones de Hollywood, el de los asistentes de voz y los sistemas de reconocimiento de habla. Si has aprendido inglés americano en algún curso, probablemente el modelo que usaban era el GA.

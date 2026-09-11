@@ -35,6 +35,7 @@ faqs:
     answer: 'El Third Conditional se usa para situaciones hipotéticas en el pasado — algo que no ocurrió. Estructura: If + past perfect, would have + participio'
 
 canonical: 'https://linguafly.app/blog/gramatica/ejercicios-condicionales-ingles-b1-b2'
+alt: Estudiante resolviendo ejercicios de condicionales B1-B2
 ---
 
 Los **condicionales en inglés** son uno de los puntos gramaticales que más se evalúan en los exámenes Cambridge. En esta guía de ejercicios, trabajaremos los cuatro tipos con correcciones detalladas para que identifiques exactamente dónde fallas y por qué.

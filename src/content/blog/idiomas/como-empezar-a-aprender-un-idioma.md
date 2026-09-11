@@ -30,6 +30,7 @@ faqs:
     answer: No. Primero necesitas frases y palabras de situaciones reales. La gramática entra mejor cuando ya reconoces patrones en lo que oyes y lees.
   - question: ¿Puedo estudiar varios idiomas a la vez?
     answer: Al principio, no. Un idioma con un hábito estable rinde más que dos idiomas a medias. Cuando el primero ya tiene rutina, puedes añadir otro.
+alt: 'Persona empezando un idioma con un cuaderno, un temporizador y auriculares'
 ---
 
 Empezar un idioma suele fallar por la misma razón: el plan es demasiado grande. Quieres “hablar fluído”, compras tres apps, un curso y un cuaderno, y a los diez días el cansancio gana. Un comienzo útil es más pequeño y más concreto.

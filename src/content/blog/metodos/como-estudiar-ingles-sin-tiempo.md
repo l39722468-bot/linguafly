@@ -45,6 +45,7 @@ faqs:
       útil que mucho contenido genérico.
 
 canonical: 'https://linguafly.app/blog/metodos/como-estudiar-ingles-sin-tiempo'
+alt: Rutina corta de inglés en el móvil durante un trayecto en transporte
 ---
 
 ## Cómo Estudiar Inglés si no tienes Tiempo: Guía para Agendas Ocupadas

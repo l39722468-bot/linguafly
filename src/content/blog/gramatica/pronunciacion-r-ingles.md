@@ -32,6 +32,7 @@ faqs:
   - question: '¿Es grave pronunciar la R con acento español en inglés?'
     answer: 'Depende del contexto. En muchas situaciones cotidianas, la R española en inglés no impide la comprensión y los hablantes nativos la entienden perfectamente bien. Pero hay pares mínimos donde la R puede causar confusión: "rice" vs "lice", "red" vs "led", "right" vs "light". Y para quienes trabajan en entornos donde la claridad de pronunciación es importante (locución, enseñanza, atención al cliente internacional), vale la pena trabajarla. Para el resto, es una mejora interesante pero no urgente.'
 canonical: 'https://linguafly.app/blog/gramatica/pronunciacion-r-ingles'
+alt: Estudiante practicando la R inglesa americana y británica frente al espejo
 ---
 
 Si llevas tiempo estudiando inglés y ves que tu acento sigue sonando muy español a pesar del esfuerzo, la R puede ser uno de los culpables principales. No porque sea el sonido más complicado del inglés —hay otros candidatos— sino porque es el que más llamativamente delata que vienes del español. Y lo curioso es que casi nadie te lo explica con precisión: simplemente te dicen "la R inglesa es diferente" y te dejan a tu suerte.

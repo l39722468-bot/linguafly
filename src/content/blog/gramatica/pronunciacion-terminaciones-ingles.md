@@ -32,6 +32,7 @@ faqs:
   - question: '¿Las mismas reglas se aplican en inglés americano y en inglés británico?'
     answer: 'Sí, las reglas de pronunciación de -ed y de -s/-es son idénticas en ambas variedades. Las diferencias entre el inglés americano y el británico afectan a otros aspectos (la R, algunas vocales, ciertos préstamos léxicos) pero no a estas terminaciones gramaticales.'
 canonical: 'https://linguafly.app/blog/gramatica/pronunciacion-terminaciones-ingles'
+alt: Palabras inglesas con terminaciones -ed y -s anotadas en un cuaderno
 ---
 
 Hay un error muy habitual entre quienes aprenden inglés y que suena llamativamente extranjero: pronunciar la terminación -ed del pasado siempre como una sílaba (/ɪd/ o /ed/). Así, "walked" se convierte en "walk-ed" con dos sílabas, "talked" en "talk-ed". Un nativo lo entiende perfectamente, pero el efecto fonético es muy parecido a cuando alguien pronuncia el español con acento muy marcado de otro idioma.

@@ -31,6 +31,7 @@ faqs:
     answer: 'Expresa hipótesis presentes o irreales. Estructura: If + past simple, would + infinitivo.'
   - question: '¿Qué es el Third Conditional?'
     answer: 'Expresa hipótesis pasadas imposibles. Estructura: If + past perfect, would have + participio.'
+alt: Cuaderno de ejercicios de second y third conditional en inglés
 ---
 
 Práctica de **Second Conditional** y **Third Conditional** con transformaciones y correcciones para niveles B1 y B2.

@@ -29,6 +29,7 @@ faqs:
   - question: '¿El inglés canadiense toma palabras del francés?'
     answer: 'Algunos, especialmente en Quebec y en las regiones con fuerte presencia francoparlante. "Dépanneur" (tienda de conveniencia, abreviado como "dep"), "poutine" (el plato de papas fritas con queso y salsa), "tuque" o "toque" (gorro de lana), "serviette" (servilleta, del francés, en vez del "napkin" americano). En Ontario y el oeste de Canadá, las palabras directamente del francés son menos frecuentes en el habla cotidiana, aunque topónimos, instituciones y referencias culturales en francés están presentes en todo el país.'
 canonical: 'https://linguafly.app/blog/metodos/acento-canadiense-ingles'
+alt: Mapa de Canadá junto a notas de pronunciación de about y out
 ---
 
 Si alguna vez has visto *Schitt's Creek*, *Letterkenny* o una entrevista con Justin Trudeau y has pensado "esto suena casi como americano pero hay algo diferente", tienes el oído bien calibrado. El inglés canadiense y el americano comparten mucho territorio fonético, pero tienen diferencias reales que los hacen distinguibles cuando sabes qué escuchar.

@@ -30,6 +30,7 @@ faqs:
     answer: 'En exámenes Cambridge, los modales también aparecen en transformaciones de frase (Part 4 de Use of English).'
 
 canonical: 'https://linguafly.app/blog/gramatica/verbos-modales-ingles-ejercicios'
+alt: Ficha de ejercicios de verbos modales con soluciones visibles
 ---
 
 Dominar los **verbos modales en inglés** requiere práctica sistemática. En esta guía de ejercicios, trabajaremos desde los usos más básicos hasta las construcciones avanzadas con Modales Perfectos.

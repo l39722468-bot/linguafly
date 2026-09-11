@@ -32,6 +32,7 @@ faqs:
     answer: 'Las barras /.../ indican transcripción fonológica: representan los fonemas del idioma, las unidades de sonido que distinguen significados. Los corchetes [...] indican transcripción fonética más precisa, con variantes que no cambian el significado pero que sí varían según el hablante o el contexto. Para aprender pronunciación, las barras son lo que necesitas; los corchetes son para análisis lingüístico más técnico.'
 
 canonical: 'https://linguafly.app/blog/gramatica/ipa-ingles-como-leer'
+alt: Símbolos del alfabeto fonético internacional junto a palabras en inglés
 ---
 
 La primera vez que ves una transcripción como /ˈniːðə/ al lado de la palabra *neither* en el diccionario, la reacción normal es cerrar el diccionario. Esos símbolos parecen diseñados para complicar las cosas, pero en realidad son exactamente lo contrario: son la solución al mayor problema del inglés escrito, que es que la ortografía no te dice nada útil sobre la pronunciación.

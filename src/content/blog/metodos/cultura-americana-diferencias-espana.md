@@ -32,6 +32,7 @@ faqs:
     answer: 'La cultura laboral americana tiene características muy específicas:'
 
 canonical: 'https://linguafly.app/blog/metodos/cultura-americana-diferencias-espana'
+alt: Objetos cotidianos que contrastan la cultura de EE. UU. y España
 ---
 
 Cuando hispanohablantes se mudan a Estados Unidos o trabajan con americanos, el mayor choque no suele ser el idioma — es la cultura. Los americanos y los españoles o latinoamericanos tienen valores, ritmos y estilos de comunicación muy diferentes. Entender estas diferencias es clave para prosperar en entornos angloamericanos.

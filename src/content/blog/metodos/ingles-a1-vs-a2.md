@@ -41,6 +41,7 @@ faqs:
       diaria de contenido adaptado al nivel.
 
 canonical: 'https://linguafly.app/blog/metodos/ingles-a1-vs-a2'
+alt: Escala de niveles A1 y A2 de inglés en una infografía sencilla
 ---
 
 ## Inglés A1 vs A2: ¿Cuál es tu Nivel Real y cómo Seguir Progresando?

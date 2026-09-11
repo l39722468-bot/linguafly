@@ -30,6 +30,7 @@ faqs:
   - question: '¿Los subtítulos ayudan o perjudican para entrenar el oído?'
     answer: 'Los subtítulos en inglés ayudan al principio porque permiten asociar lo que escuchas con la forma escrita de las palabras, especialmente cuando el acento distorsiona mucho la pronunciación esperada. El problema es que si siempre usas subtítulos, el oído aprende a depender de ellos. La estrategia más efectiva es progresiva: empieza con subtítulos en inglés para familiarizarte con el acento y el vocabulario, luego desactívalos e intenta entender sin apoyo visual, y vuelve a activarlos para comprobar lo que te perdiste. El modo "subtítulos para verificar" es más útil que el modo "subtítulos siempre activos".'
 canonical: 'https://linguafly.app/blog/metodos/como-entender-acentos-ingles'
+alt: Mapa de acentos del inglés con auriculares para listening
 ---
 
 Llevas años estudiando inglés. Tu nivel es bueno. Y entonces pones una serie escocesa, hablas con alguien de Liverpool o te metes en una llamada con colegas de Sudáfrica, y la mitad de lo que dicen se te escapa completamente. La tentación es concluir que tu inglés no es tan bueno como creías.

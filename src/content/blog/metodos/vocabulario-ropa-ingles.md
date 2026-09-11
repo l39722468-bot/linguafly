@@ -35,6 +35,7 @@ faqs:
   - question: ¿Cómo se dice 'probarse ropa' en inglés?
     answer: Se utiliza el phrasal verb 'to try on'.
 canonical: 'https://linguafly.app/blog/metodos/vocabulario-ropa-ingles'
+alt: Prendas de ropa etiquetadas con su nombre en inglés
 ---
 
 Dominar el **vocabulario de ropa en inglés** es mucho más que saber decir "camiseta" o "pantalones". Como profesor de Cambridge, te aseguro que la precisión en las descripciones (materiales, estampados y ajustes) es lo que realmente demuestra un dominio fluido del idioma, especialmente en situaciones sociales y profesionales.

@@ -32,6 +32,7 @@ faqs:
     answer: 'Los videojuegos son una herramienta de aprendizaje infrautilizada. Estrategias para aprender inglés jugando:'
 
 canonical: 'https://linguafly.app/blog/metodos/ingles-gamer-videojuegos'
+alt: Mando de consola y chat en inglés de un videojuego online
 ---
 
 La comunidad gaming es mayoritariamente angloparlante. Si juegas a cualquier juego online — desde *Fortnite* hasta *League of Legends* o *CS2* — entender el **inglés gamer** no es opcional: es una ventaja competitiva real.

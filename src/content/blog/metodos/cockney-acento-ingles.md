@@ -41,6 +41,7 @@ faqs:
   - question: '¿El Cockney está desapareciendo?'
     answer: 'Esta es una pregunta que los lingüistas llevan décadas debatiendo. El Cockney "puro" del East End de Londres sí está en retroceso por razones sociológicas: la gentrificación del East End ha desplazado a muchas de las comunidades trabajadoras que eran su base hacia el Essex y el outer East London. Sin embargo, el Cockney no está simplemente desapareciendo: está evolucionando. El Multicultural London English (MLE), que hablan los jóvenes de muchos barrios de Londres, ha absorbido rasgos del Cockney mezclados con influencias del jamaicano, el sylheti y otras lenguas de la diáspora. El Cockney muta, no muere.'
 canonical: 'https://linguafly.app/blog/metodos/cockney-acento-ingles'
+alt: Calle del East End de Londres asociada al acento Cockney
 ---
 
 Hay un momento reconocible para muchos estudiantes de inglés: llevas años aprendiendo, tu nivel es sólido, entiendes sin problema las películas americanas y los informativos británicos, y luego pones EastEnders o una entrevista a un jugador del West Ham y la mitad de lo que dicen se te escapa completamente. No es tu nivel. Es el acento.

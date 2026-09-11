@@ -35,6 +35,7 @@ faqs:
       Para ambas partes, la extensión recomendada es de entre 220 y 260
       palabras.
 canonical: 'https://linguafly.app/blog/examenes/trucos-writing-c1-advanced'
+alt: Redacción a mano de un essay de C1 Advanced con conectores señalados
 ---
 
 ## 1. Abandona los Conectores Básicos

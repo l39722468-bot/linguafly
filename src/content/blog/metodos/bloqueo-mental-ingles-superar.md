@@ -33,6 +33,7 @@ faqs:
     answer: 'Muchos estudiantes intermedios siguen construyendo frases en español primero y luego las traducen. Este proceso es lento y consume recursos cognitivos que deberían estar disponibles para escuchar y responder.'
 
 canonical: 'https://linguafly.app/blog/metodos/bloqueo-mental-ingles-superar'
+alt: Persona tomando aire antes de hablar inglés en una conversación
 ---
 
 Conoces la gramática. Tienes vocabulario. Puedes leer artículos en inglés sin problema. Pero cuando alguien te habla en inglés... te quedas en blanco. Tu mente se paraliza, buscas las palabras en español y el silencio se hace eterno.
