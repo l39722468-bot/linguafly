@@ -67,6 +67,7 @@ export function BlogSearchExplorer({
   const syncUrl = useCallback(
     (nextQ: string, nextCat: string, matchForUrl?: "any" | "all") => {
       const params = new URLSearchParams(searchParams.toString());
+      params.delete("page");
       const trimmed = nextQ.trim();
       const m = matchForUrl ?? matchMode;
       if (trimmed) params.set("q", trimmed);
@@ -316,7 +317,7 @@ export function BlogSearchExplorer({
         </div>
       )}
 
-      <form onSubmit={onSubmit} className="flex flex-col gap-4 lg:flex-row lg:items-stretch">
+      <form onSubmit={onSubmit} method="post" className="flex flex-col gap-4 lg:flex-row lg:items-stretch">
         <div className="relative flex-1">
           <label htmlFor={`${formId}-q`} className="sr-only">
             Buscar artículos

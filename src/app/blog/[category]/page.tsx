@@ -8,7 +8,7 @@ import Image from "next/image";
 import { notFound } from "next/navigation";
 import { normalizeCategory } from "@/lib/blog-paths";
 import { listPublishedArticles } from "@/lib/content/articles";
-import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
+import { ARTICLES_PER_PAGE, parsePageParam, isOutOfRangePage } from "@/lib/content/pagination";
 import { optimizeSEOTitle } from "@/utils/seo-utils";
 import { generateBreadcrumbSchema, generateCollectionPageSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
@@ -217,6 +217,9 @@ export default async function CategoryPage({
     page,
     limit: ARTICLES_PER_PAGE,
   });
+  if (isOutOfRangePage(page, pages)) {
+    notFound();
+  }
   const meta = categoryMetadata[category] || {
     name: category.charAt(0).toUpperCase() + category.slice(1),
     description: `Artículos y guías sobre ${category}.`,

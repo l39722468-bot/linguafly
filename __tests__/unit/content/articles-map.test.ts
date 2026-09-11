@@ -4,6 +4,7 @@ import type { BlogPost } from "@/lib/blog";
 import {
   parsePageParam,
   paginationHref,
+  isOutOfRangePage,
   sitemapShardCount,
   sitemapShardIds,
   isSitemapShardId,
@@ -114,6 +115,11 @@ describe("pagination helpers", () => {
     expect(paginationHref("/blog", 1)).toBe("/blog");
     expect(paginationHref("/blog", 2)).toBe("/blog?page=2");
     expect(paginationHref("/blog/idiomas", 4)).toBe("/blog/idiomas?page=4");
+    expect(isOutOfRangePage(1, 0)).toBe(false);
+    expect(isOutOfRangePage(1, 5)).toBe(false);
+    expect(isOutOfRangePage(5, 5)).toBe(false);
+    expect(isOutOfRangePage(2, 0)).toBe(true);
+    expect(isOutOfRangePage(6, 5)).toBe(true);
   });
 });
 

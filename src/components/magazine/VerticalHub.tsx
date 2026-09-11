@@ -5,8 +5,9 @@ import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
 import { ArticlePagination } from "@/components/magazine/ArticlePagination";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
+import { notFound } from "next/navigation";
 import { listPublishedArticles } from "@/lib/content/articles";
-import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
+import { ARTICLES_PER_PAGE, isOutOfRangePage } from "@/lib/content/pagination";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import type { SiteVertical } from "@/lib/site-catalog";
 
@@ -22,6 +23,9 @@ export async function VerticalHub({
     page,
     limit: ARTICLES_PER_PAGE,
   });
+  if (isOutOfRangePage(page, pages)) {
+    notFound();
+  }
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getSiteUrl() },
     { name: vertical.name, url: getAbsoluteUrl(vertical.href) },

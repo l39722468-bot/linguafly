@@ -23,7 +23,7 @@ export function ArticlePagination({
       {prev ? (
         <Link
           href={prev}
-          rel="prev"
+          rel={page <= 2 ? "prev" : "nofollow prev"}
           className="rounded-2xl border border-slate-200 bg-white px-5 py-3 text-sm font-black text-slate-800 hover:border-coral-200"
         >
           ← Anterior
@@ -39,7 +39,7 @@ export function ArticlePagination({
       {next ? (
         <Link
           href={next}
-          rel="next"
+          rel="nofollow next"
           className="rounded-2xl border border-slate-200 bg-white px-5 py-3 text-sm font-black text-slate-800 hover:border-coral-200"
         >
           Siguiente →

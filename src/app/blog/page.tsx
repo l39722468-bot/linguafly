@@ -4,8 +4,9 @@ import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
 import { ArticlePagination } from "@/components/magazine/ArticlePagination";
 import Link from "next/link";
 import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 import { listPublishedArticles } from "@/lib/content/articles";
-import { ARTICLES_PER_PAGE, parsePageParam } from "@/lib/content/pagination";
+import { ARTICLES_PER_PAGE, parsePageParam, isOutOfRangePage } from "@/lib/content/pagination";
 import { generateBreadcrumbSchema, generateCollectionPageSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
@@ -70,6 +71,9 @@ export default async function BlogPage({
     page,
     limit: ARTICLES_PER_PAGE,
   });
+  if (isOutOfRangePage(page, pages)) {
+    notFound();
+  }
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getSiteUrl() },
     { name: "Artículos", url: getAbsoluteUrl("/blog") },

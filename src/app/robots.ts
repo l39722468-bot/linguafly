@@ -5,9 +5,11 @@ import type { MetadataRoute } from "next";
  * Google still fetches `noindex` pages, then stops — that wastes crawl budget.
  * robots.txt prevents the fetch. See:
  * https://developers.google.com/crawling/docs/crawl-budget
+ * https://developers.google.com/crawling/docs/faceted-navigation
  *
- * Pagination wildcards (`?page=` / `&page=`) cover /blog, category indexes and
- * vertical hubs. Do not Disallow article URLs or /sitemaps/.
+ * Faceted listing params (`page`, `q`, `c`, `m`) are infinite URL space.
+ * `?*param=` matches both `?param=` and `?foo=1&param=`. Do not Disallow
+ * article URLs or /sitemaps/.
  */
 export const ROBOTS_DISALLOW = [
   "/api/",
@@ -24,8 +26,10 @@ export const ROBOTS_DISALLOW = [
   "/frases-en-ingles",
   "/vocabulario",
   "/monetag",
-  "/*?page=",
-  "/*&page=",
+  "/*?*page=",
+  "/*?*q=",
+  "/*?*c=",
+  "/*?*m=",
 ] as const;
 
 export default function robots(): MetadataRoute.Robots {

@@ -42,3 +42,8 @@ export function paginationHref(basePath: string, page: number): string {
   const separator = basePath.includes("?") ? "&" : "?";
   return `${basePath}${separator}page=${page}`;
 }
+
+/** True when `?page=` is past the last listing (Google: 404, not a soft-empty 200). */
+export function isOutOfRangePage(page: number, pages: number): boolean {
+  return page > Math.max(pages, 1);
+}

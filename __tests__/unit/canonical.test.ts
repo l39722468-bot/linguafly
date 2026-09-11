@@ -43,9 +43,12 @@ describe("canonical URLs", () => {
     );
   });
 
-  it("keeps paginated blog indexes in the canonical", () => {
+  it("points faceted listing URLs at the unfiltered canonical", () => {
     expect(getCanonicalUrl("/blog/gramatica", "page=2")).toBe(
-      "https://linguafly.app/blog/gramatica?page=2",
+      "https://linguafly.app/blog/gramatica",
+    );
+    expect(getCanonicalUrl("/blog", "q=ielts&c=examenes&m=all")).toBe(
+      "https://linguafly.app/blog",
     );
     expect(getCanonicalUrl("/blog/gramatica", "page=1")).toBe(
       "https://linguafly.app/blog/gramatica",
