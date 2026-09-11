@@ -5,15 +5,27 @@
  * serving source of truth. Unique key is (category, slug) so course units
  * that share a filename across levels do not overwrite each other.
  *
+ * Incremental (weekly / CI):
+ *   Compare sha256 (content_hash) with D1, or restrict to git-changed files.
+ *   Unchanged rows are omitted so lastmod stays put.
+ *
  * Usage:
  *   npx tsx scripts/sync-articles-to-d1.ts --sql-out /tmp/seed-articles.sql
  *   npx tsx scripts/sync-articles-to-d1.ts --sql-out-dir /tmp/d1-seed
+ *   npx tsx scripts/sync-articles-to-d1.ts --sql-out-dir /tmp/d1-seed --hashes-from /tmp/d1-hashes.json
+ *   npx tsx scripts/sync-articles-to-d1.ts --sql-out-dir /tmp/d1-seed --git-since HEAD~1
  *   wrangler d1 execute linguafly_db --local --file=/tmp/d1-seed/001.sql
  */
 import fs from "node:fs";
 import path from "node:path";
+import { execFileSync } from "node:child_process";
 import { getArticlesForD1Sync } from "../src/lib/blog";
 import { blogPostToArticleInput } from "../src/lib/content/map-article";
+import {
+  blogMarkdownPathsToKeys,
+  parseArticleHashFile,
+  selectArticlesToSync,
+} from "../src/lib/content/d1-article-sync";
 import {
   articleUpsertBindings,
   ftsKeywords,
@@ -26,8 +38,12 @@ const ARTICLES_PER_CHUNK = 8;
 const UPSERT_SQL = `INSERT INTO articles (
   slug, title, description, content, category, level,
   excerpt, author, read_time, faqs, featured, image, alt,
-  related_routes, canonical, created_at, updated_at, is_published
+  related_routes, canonical, created_at, updated_at, is_published, content_hash
 ) VALUES`;
+
+function hasFlag(flag: string): boolean {
+  return process.argv.includes(flag);
+}
 
 function argValue(flag: string): string | undefined {
   const index = process.argv.indexOf(flag);
@@ -85,7 +101,8 @@ function articleSql(article: ArticleInput): string {
   canonical = excluded.canonical,
   created_at = COALESCE(excluded.created_at, articles.created_at),
   updated_at = excluded.updated_at,
-  is_published = excluded.is_published;`,
+  is_published = excluded.is_published,
+  content_hash = excluded.content_hash;`,
     tagDeletes,
     tagInserts,
     ftsDelete,
@@ -113,9 +130,44 @@ function sqlDocument(inputs: ArticleInput[], note: string): string {
   ].join("\n\n");
 }
 
+function gitChangedPaths(since: string): string[] {
+  const output = execFileSync(
+    "git",
+    ["diff", "--name-only", "--diff-filter=ACMR", since, "--", "src/content/blog"],
+    { encoding: "utf8" }
+  );
+  return output
+    .split("\n")
+    .map((line) => line.trim())
+    .filter(Boolean);
+}
+
+function writeSqlChunks(dir: string, inputs: ArticleInput[], note: string): number {
+  fs.mkdirSync(dir, { recursive: true });
+  const chunks = chunk(inputs, ARTICLES_PER_CHUNK);
+  chunks.forEach((part, index) => {
+    const name = `${String(index + 1).padStart(3, "0")}.sql`;
+    const filePath = path.join(dir, name);
+    const sql = sqlDocument(
+      part,
+      `${note} · chunk ${index + 1}/${chunks.length} (${part.length} artículos)`
+    );
+    fs.writeFileSync(filePath, sql);
+  });
+  return chunks.reduce((sum, _part, index) => {
+    const name = `${String(index + 1).padStart(3, "0")}.sql`;
+    return sum + fs.statSync(path.join(dir, name)).size;
+  }, 0);
+}
+
 function main() {
   const sqlOut = argValue("--sql-out");
   const sqlOutDir = argValue("--sql-out-dir");
+  const hashesFrom = argValue("--hashes-from");
+  const gitSince = argValue("--git-since");
+  const forceAll = hasFlag("--full");
+  const dryRun = hasFlag("--dry-run");
+
   const articles = getArticlesForD1Sync();
   if (articles.length === 0) {
     throw new Error(
@@ -128,35 +180,62 @@ function main() {
     isPublished: true,
   }));
 
-  if (sqlOutDir) {
-    const dir = path.resolve(sqlOutDir);
-    fs.mkdirSync(dir, { recursive: true });
-    const chunks = chunk(inputs, ARTICLES_PER_CHUNK);
-    chunks.forEach((part, index) => {
-      const name = `${String(index + 1).padStart(3, "0")}.sql`;
-      const filePath = path.join(dir, name);
-      const sql = sqlDocument(
-        part,
-        `chunk ${index + 1}/${chunks.length} (${part.length} artículos)`
-      );
-      fs.writeFileSync(filePath, sql);
-    });
-    const bytes = chunks.reduce((sum, part, index) => {
-      const name = `${String(index + 1).padStart(3, "0")}.sql`;
-      return sum + fs.statSync(path.join(dir, name)).size;
-    }, 0);
-    console.log(
-      `[sync-articles-to-d1] ${inputs.length} artículos → ${chunks.length} archivos en ${dir} (${(bytes / 1024 / 1024).toFixed(2)} MiB)`
+  const existingHashes = hashesFrom
+    ? parseArticleHashFile(fs.readFileSync(path.resolve(hashesFrom), "utf8"))
+    : undefined;
+  const changedKeys = gitSince
+    ? blogMarkdownPathsToKeys(gitChangedPaths(gitSince))
+    : undefined;
+
+  const { toSync, skipped } = selectArticlesToSync(inputs, {
+    forceAll,
+    existingHashes,
+    changedKeys,
+  });
+
+  const mode = forceAll
+    ? "full"
+    : existingHashes || changedKeys
+      ? "incremental"
+      : "full";
+  console.error(
+    `[sync-articles-to-d1] ${inputs.length} públicos, ${toSync.length} a escribir, ${skipped} sin cambios (${mode}).`
+  );
+
+  if (dryRun) {
+    for (const article of toSync.slice(0, 20)) {
+      console.error(`  - ${article.category}/${article.slug}`);
+    }
+    if (toSync.length > 20) {
+      console.error(`  … y ${toSync.length - 20} más`);
+    }
+    return;
+  }
+
+  if (toSync.length === 0) {
+    console.error(
+      "[sync-articles-to-d1] Nada que upsert. D1 ya está al día."
     );
     return;
   }
 
-  const sql = sqlDocument(inputs, `${inputs.length} artículos (revista + archivo de inglés)`);
+  const note = `${toSync.length} artículos (${mode}; ${skipped} omitidos)`;
+
+  if (sqlOutDir) {
+    const dir = path.resolve(sqlOutDir);
+    const bytes = writeSqlChunks(dir, toSync, note);
+    console.log(
+      `[sync-articles-to-d1] ${toSync.length} artículos → ${dir} (${(bytes / 1024 / 1024).toFixed(2)} MiB)`
+    );
+    return;
+  }
+
+  const sql = sqlDocument(toSync, note);
 
   if (!sqlOut) {
     console.log(sql);
     console.error(
-      `[sync-articles-to-d1] ${inputs.length} artículos. Pasa --sql-out <file> o --sql-out-dir <dir>.`
+      `[sync-articles-to-d1] ${toSync.length} artículos. Pasa --sql-out <file> o --sql-out-dir <dir>.`
     );
     return;
   }
@@ -165,7 +244,7 @@ function main() {
   fs.mkdirSync(path.dirname(outPath), { recursive: true });
   fs.writeFileSync(outPath, sql);
   console.log(
-    `[sync-articles-to-d1] ${inputs.length} artículos → ${outPath} (${(Buffer.byteLength(sql) / 1024).toFixed(1)} KiB)`
+    `[sync-articles-to-d1] ${toSync.length} artículos → ${outPath} (${(Buffer.byteLength(sql) / 1024).toFixed(1)} KiB)`
   );
 }
 

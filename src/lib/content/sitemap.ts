@@ -8,7 +8,11 @@ import {
   listPublishedArticles,
   listSitemapArticles,
 } from "@/lib/content/articles";
-import { SITEMAP_CHUNK_SIZE, SITEMAP_SHARD_COUNT } from "@/lib/content/pagination";
+import {
+  SITEMAP_CHUNK_SIZE,
+  isSitemapShardId,
+  sitemapShardIds,
+} from "@/lib/content/pagination";
 import {
   getArticleOgImageUrl,
   getCategoryOgImageUrl,
@@ -16,8 +20,29 @@ import {
 
 const SITE_LAUNCH_DATE = new Date("2026-09-08");
 
-export function magazineSitemapIds(): { id: number }[] {
-  return Array.from({ length: SITEMAP_SHARD_COUNT }, (_, i) => ({ id: i }));
+export async function magazineSitemapIds(): Promise<{ id: number }[]> {
+  try {
+    const total = await countPublishedArticles();
+    return sitemapShardIds(total);
+  } catch (error) {
+    console.error("[sitemap] D1 unavailable, listing shard 0 only:", error);
+    return [{ id: 0 }];
+  }
+}
+
+export function serializeSitemapIndex(
+  ids: { id: number }[],
+  baseUrl: string
+): string {
+  const body = ids
+    .filter(({ id }) => isSitemapShardId(id))
+    .map(({ id }) => `  <sitemap><loc>${baseUrl}/sitemaps/${id}.xml</loc></sitemap>`)
+    .join("\n");
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${body}
+</sitemapindex>
+`;
 }
 
 function escapeXml(value: string): string {
@@ -150,7 +175,7 @@ export async function buildMagazineSitemap(
         ...articles.map((article) => ({
           url: `${baseUrl}/blog/${normalizeCategory(article.category)}/${article.slug}`,
           lastModified: new Date(article.updated_at || article.created_at || SITE_LAUNCH_DATE),
-          changeFrequency: "monthly" as const,
+          changeFrequency: "weekly" as const,
           priority: 0.7,
           images: [getArticleOgImageUrl(article)],
         }))

@@ -37,7 +37,7 @@ En **Workers & Pages → linguaflyapp1 → Settings → Builds**:
 
 ### Blog: D1 es el origen de verdad
 
-Cloudflare Workers **no tienen `fs`** sobre `src/content/blog`. Las páginas públicas leen D1 (`linguafly_db`) en request time (`force-dynamic` + `Cache-Control` CDN). El markdown queda como input de autoría; CI aplica migraciones y `scripts/sync-articles-to-d1.ts` hace upsert de los artículos `published: true` de idiomas / alimentación / entrenamiento / inteligencia artificial (más el archivo de inglés, que se publica aunque el flag falte en lo antiguo).
+Cloudflare Workers **no tienen `fs`** sobre `src/content/blog`. Las páginas públicas leen D1 (`linguafly_db`) en request time (`force-dynamic` + `Cache-Control` CDN). El markdown queda como input de autoría; CI aplica migraciones y `scripts/sync-articles-to-d1.ts` hace upsert **solo de filas cuyo `content_hash` cambió** (si D1 no responde, hace un upsert completo). El archivo de inglés se publica aunque el flag falte en lo antiguo.
 
 No se embebe `blog-articles.json` en el Worker: a 100k artículos reventaría el límite de 64 MiB.
 

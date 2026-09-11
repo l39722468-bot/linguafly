@@ -11,6 +11,8 @@
  * bodies in the Worker bundle.
  */
 
+import { articleContentHash } from "@/lib/db/article-hash";
+
 export interface CloudflareEnv {
   DB: D1Database;
   CACHE?: KVNamespace;
@@ -53,6 +55,7 @@ export interface ArticleRecord {
   alt?: string | null;
   related_routes?: string | null;
   canonical?: string | null;
+  content_hash?: string | null;
 }
 
 export interface ArticleInput {
@@ -152,8 +155,8 @@ export const ARTICLE_LIST_COLUMNS = [
 const UPSERT_ARTICLE_SQL = `INSERT INTO articles (
   slug, title, description, content, category, level,
   excerpt, author, read_time, faqs, featured, image, alt,
-  related_routes, canonical, created_at, updated_at, is_published
-) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+  related_routes, canonical, created_at, updated_at, is_published, content_hash
+) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
 ON CONFLICT(category, slug) DO UPDATE SET
   title = excluded.title,
   description = excluded.description,
@@ -171,7 +174,8 @@ ON CONFLICT(category, slug) DO UPDATE SET
   canonical = excluded.canonical,
   created_at = COALESCE(excluded.created_at, articles.created_at),
   updated_at = excluded.updated_at,
-  is_published = excluded.is_published`;
+  is_published = excluded.is_published,
+  content_hash = excluded.content_hash`;
 
 function jsonText(value: unknown): string | null {
   if (value == null) return null;
@@ -200,6 +204,7 @@ export function articleUpsertBindings(article: ArticleInput): unknown[] {
     publishedAt,
     updatedAt,
     article.isPublished === false ? 0 : 1,
+    articleContentHash(article),
   ];
 }
 

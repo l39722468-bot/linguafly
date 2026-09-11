@@ -1,7 +1,16 @@
 import { articleRecordToBlogPost, blogPostToArticleInput } from "@/lib/content/map-article";
 import { ftsMatchQuery } from "@/lib/db/client";
 import type { BlogPost } from "@/lib/blog";
-import { parsePageParam, paginationHref } from "@/lib/content/pagination";
+import {
+  parsePageParam,
+  paginationHref,
+  sitemapShardCount,
+  sitemapShardIds,
+  isSitemapShardId,
+  SITEMAP_CHUNK_SIZE,
+  SITEMAP_MAX_SHARDS,
+  SITEMAP_MAX_ARTICLE_URLS,
+} from "@/lib/content/pagination";
 
 describe("articleRecordToBlogPost", () => {
   it("maps D1 rows onto BlogPost including JSON faqs and tags", () => {
@@ -105,5 +114,31 @@ describe("pagination helpers", () => {
     expect(paginationHref("/blog", 1)).toBe("/blog");
     expect(paginationHref("/blog", 2)).toBe("/blog?page=2");
     expect(paginationHref("/blog/idiomas", 4)).toBe("/blog/idiomas?page=4");
+  });
+});
+
+describe("sitemap shards", () => {
+  it("keeps a single shard until the chunk fills", () => {
+    expect(sitemapShardCount(0)).toBe(1);
+    expect(sitemapShardCount(1)).toBe(1);
+    expect(sitemapShardCount(SITEMAP_CHUNK_SIZE)).toBe(1);
+    expect(sitemapShardCount(SITEMAP_CHUNK_SIZE + 1)).toBe(2);
+  });
+
+  it("covers more than a million article URLs before capping", () => {
+    expect(sitemapShardCount(1_000_000)).toBe(25);
+    expect(SITEMAP_MAX_ARTICLE_URLS).toBeGreaterThan(1_000_000);
+    expect(sitemapShardCount(SITEMAP_MAX_ARTICLE_URLS)).toBe(SITEMAP_MAX_SHARDS);
+    expect(sitemapShardCount(SITEMAP_MAX_ARTICLE_URLS + 1)).toBe(SITEMAP_MAX_SHARDS);
+    expect(sitemapShardIds(943)).toEqual([{ id: 0 }]);
+    expect(sitemapShardIds(1_000_000)).toHaveLength(25);
+  });
+
+  it("rejects shard ids outside the 1.2M ceiling", () => {
+    expect(isSitemapShardId(0)).toBe(true);
+    expect(isSitemapShardId(29)).toBe(true);
+    expect(isSitemapShardId(30)).toBe(false);
+    expect(isSitemapShardId(-1)).toBe(false);
+    expect(isSitemapShardId(1.5)).toBe(false);
   });
 });

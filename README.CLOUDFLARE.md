@@ -57,16 +57,20 @@ El HTML público lee artículos desde D1, no desde markdown embebido en el Worke
 # Aplicar migraciones (tablas + columnas de revista + FTS)
 npx wrangler d1 migrations apply linguafly_db --remote
 
-# Generar SQL desde el markdown público y cargarlo
-npx tsx scripts/sync-articles-to-d1.ts --sql-out /tmp/seed-articles.sql
+# Generar SQL desde el markdown público y cargarlo (completo)
+npx tsx scripts/sync-articles-to-d1.ts --sql-out /tmp/seed-articles.sql --full
 npx wrangler d1 execute linguafly_db --remote --file=/tmp/seed-articles.sql --yes
+
+# Incremental: solo filas cuyo content_hash no coincide con D1
+npx wrangler d1 execute linguafly_db --remote --json --command "SELECT category, slug, content_hash FROM articles" > /tmp/d1-hashes.json
+npx tsx scripts/sync-articles-to-d1.ts --sql-out-dir /tmp/d1-seed --hashes-from /tmp/d1-hashes.json
 ```
 
 En local:
 
 ```bash
 npm run d1:migrate:local
-npx tsx scripts/sync-articles-to-d1.ts --sql-out /tmp/seed-articles.sql
+npx tsx scripts/sync-articles-to-d1.ts --sql-out /tmp/seed-articles.sql --full
 npx wrangler d1 execute linguafly_db --local --file=/tmp/seed-articles.sql --yes
 ```
 

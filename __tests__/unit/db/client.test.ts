@@ -1,4 +1,6 @@
 import { DatabaseClient, type CloudflareEnv } from "@/lib/db/client";
+import { articleContentHash } from "@/lib/db/article-hash";
+import { articleContentHash } from "@/lib/db/article-hash";
 
 /**
  * In-memory fakes for the Cloudflare D1 / KV bindings so the data access
@@ -247,6 +249,13 @@ describe("DatabaseClient", () => {
         null,
         null,
         1,
+        articleContentHash({
+          slug: "a1",
+          title: "A1",
+          content: "content",
+          category: "viajes",
+          tags: ["tag1", "tag2"],
+        }),
       ]);
       expect(result).toEqual({
         success: true,

@@ -47,13 +47,23 @@ jobs:
       - name: Seed magazine and English-learning articles into D1
         run: |
           SEED_DIR=/tmp/d1-seed
+          HASHES=/tmp/d1-hashes.json
           rm -rf "$SEED_DIR"
-          npx tsx scripts/sync-articles-to-d1.ts --sql-out-dir "$SEED_DIR"
+          mkdir -p "$SEED_DIR"
+
+          if npx wrangler d1 execute linguafly_db --remote --json --command "SELECT category, slug, content_hash FROM articles" > "$HASHES"; then
+            echo "Incremental D1 sync using content_hash fingerprints."
+            npx tsx scripts/sync-articles-to-d1.ts --sql-out-dir "$SEED_DIR" --hashes-from "$HASHES"
+          else
+            echo "::warning::Could not read D1 hashes; falling back to a full upsert."
+            npx tsx scripts/sync-articles-to-d1.ts --sql-out-dir "$SEED_DIR" --full
+          fi
+
           shopt -s nullglob
           files=("$SEED_DIR"/*.sql)
           if [ ${#files[@]} -eq 0 ]; then
-            echo "::error::No D1 seed SQL files were generated."
-            exit 1
+            echo "No article changes; skipping D1 seed."
+            exit 0
           fi
           for f in "${files[@]}"; do
             echo "Seeding $(basename "$f")"

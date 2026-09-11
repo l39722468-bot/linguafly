@@ -1,4 +1,5 @@
 import { NextRequest } from "next/server";
+import { isSitemapShardId } from "@/lib/content/pagination";
 import { buildMagazineSitemap, serializeSitemapXml } from "@/lib/content/sitemap";
 
 export const dynamic = "force-dynamic";
@@ -10,7 +11,7 @@ export async function GET(
 ) {
   const { id: rawId } = await context.params;
   const id = Number.parseInt(String(rawId).replace(/\.xml$/i, ""), 10);
-  if (!Number.isFinite(id) || id < 0) {
+  if (!isSitemapShardId(id)) {
     return new Response("Not found", { status: 404 });
   }
 

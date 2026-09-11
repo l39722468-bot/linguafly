@@ -1,4 +1,4 @@
--- Canonical D1 schema AFTER wrangler migrations (0001–0004).
+-- Canonical D1 schema AFTER wrangler migrations (0001–0005).
 -- Do not apply this file to an existing database (ALTER vs CREATE).
 -- Use: wrangler d1 migrations apply linguafly_db --remote
 --
@@ -27,6 +27,7 @@ CREATE TABLE IF NOT EXISTS articles (
     alt TEXT,
     related_routes TEXT,
     canonical TEXT,
+    content_hash TEXT,
     UNIQUE(category, slug)
 );
 
@@ -40,6 +41,7 @@ CREATE INDEX IF NOT EXISTS idx_articles_category_published_created
 CREATE INDEX IF NOT EXISTS idx_articles_featured_published
   ON articles(featured, is_published);
 CREATE INDEX IF NOT EXISTS idx_articles_author ON articles(author);
+CREATE INDEX IF NOT EXISTS idx_articles_content_hash ON articles(content_hash);
 
 CREATE TABLE IF NOT EXISTS article_tags (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
