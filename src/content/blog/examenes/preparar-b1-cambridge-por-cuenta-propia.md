@@ -41,10 +41,12 @@ alt: Persona estudiando por su cuenta con un libro de Cambridge B1
 
 La respuesta corta es: **Sí, es totalmente posible.** El nivel B1 Preliminary (PET) de Cambridge certifica que tienes las bases necesarias para comunicarte en situaciones cotidianas, tanto de forma oral como escrita. Es un título clave para estudiantes universitarios, profesionales que buscan su primer empleo internacional y viajeros que quieren autonomía.
 
+Consultas como **preparar b1 cambridge solo**, **cómo preparar Cambridge B1 por tu cuenta** o **plan de estudio gratis para B1 Preliminary** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 
 ---
 
-## 1. Conoce la Estructura del Examen (PET)
+### 1. Conoce la Estructura del Examen (PET)
 
 No basta con "saber inglés"; tienes que ser un experto en el formato del examen. El B1 de Cambridge se divide en cuatro bloques que evalúan habilidades distintas y tienen pesos específicos en tu nota final:
 
@@ -55,7 +57,7 @@ No basta con "saber inglés"; tienes que ser un experto en el formato del examen
 
 ---
 
-## 2. Recursos Esenciales para el Autoestudio
+### 2. Recursos Esenciales para el Autoestudio
 
 Para preparar el B1 por tu cuenta, necesitas fuentes fiables y actualizadas a los cambios de formato más recientes:
 
@@ -63,7 +65,7 @@ Para preparar el B1 por tu cuenta, necesitas fuentes fiables y actualizadas a lo
 *   **Libros de Gramática**: El *"English Grammar in Use"* de Raymond Murphy (nivel intermedio) es considerado por muchos la "biblia" del autoestudio por sus explicaciones claras y ejercicios prácticos.
 *   **Plataformas Digitales**: Las [aplicaciones para aprender inglés](/blog/metodos/mejor-app-aprender-ingles) modernas ofrecen ahora rutas curriculares específicas para exámenes oficiales, cubriendo exactamente el vocabulario y las estructuras que Cambridge exige.
 
-## 4. Crea un Calendario de 12 Semanas
+### 4. Crea un Calendario de 12 Semanas
 
 La organización es la diferencia entre el éxito y el abandono. No intentes aprenderlo todo en una noche. Divide tu preparación en fases:
 
@@ -73,7 +75,7 @@ La organización es la diferencia entre el éxito y el abandono. No intentes apr
 
 ---
 
-## Autoevaluación y checklist de la última quincena
+### Autoevaluación y checklist de la última quincena
 
 Cada domingo revisa una muestra con cuatro preguntas: ¿respondo a todos los puntos?,
 ¿se entiende cada párrafo?, ¿uso tiempos y conectores variados?, ¿qué error se
@@ -97,12 +99,12 @@ Speaking es inseguro, prioriza interacción y grabaciones; acumular listas no
 resolverá ese problema. La autonomía funciona cuando mides avances y ajustas el
 plan.
 
-## 5. Consejos para el Día del Examen
+### 5. Consejos para el Día del Examen
 
 *   **Lee las instrucciones dos veces**: El estrés puede jugarte malas pasadas. Asegúrate de entender qué se pide en cada sección del Writing.
 *   **Gestión del Tiempo**: En la prueba combinada de Reading/Writing, el tiempo vuela. No te quedes atascado más de 2 minutos en una pregunta del Reading; pasa a la siguiente y vuelve al final.
 
-## Conclusión: Tu Certificado B1 está a tu Alcance
+### Conclusión: Tu Certificado B1 está a tu Alcance
 
 Preparar el B1 por tu cuenta requiere compromiso, pero con herramientas como las que ofrecemos en **Linguafly**, el camino es mucho más sencillo y efectivo. No solo aprobarás el examen, sino que realmente desarrollarás la capacidad de hablar el idioma en tu día a día profesional y personal.
 

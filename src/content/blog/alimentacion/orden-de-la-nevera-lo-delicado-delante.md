@@ -74,7 +74,7 @@ Si vives con más gente, el “delante” es de todos. Un estante de leftover o 
 
 Si entrenas en casa, este estante es parte de la sesión. La [rutina de fuerza para principiantes](/blog/entrenamiento/rutina-fuerza-principiantes-casa) se sostiene peor si la proteína está detrás de cinco salsas. Hace falta ver el pollo, el yogur o los huevos al abrir. El pedido de las 21:40 no es recuperación.
 
-## El leftover del domingo no es el misterio del viernes
+### El leftover del domingo no es el misterio del viernes
 
 El leftover sin fecha es un experimento. El del viernes misterioso no tiene nombre. Huele a nevera. Acaba en el cubo o en un “quizá mañana” que ya pasó.
 
@@ -98,7 +98,7 @@ Tapa. Destapado absorbe olor y se seca. Recalentar una vez. Comes. No calientes,
 
 Olor raro, color raro, baba: fuera. Si dudas, cubo. El plan no incluye intoxicarte por no tirar.
 
-## Puerta, cajones y estantes
+### Puerta, cajones y estantes
 
 Cada zona hace una cosa. Mezclarlas es cómo la leche se pone rara y la lechuga se ahoga.
 
@@ -118,7 +118,7 @@ Huevos: si el pack dice frío, frío. No los laves “por higiene” y los devue
 
 Si la leche se corta pronto y la hoja se pone viscosa en un día, baja un punto o deja de atiborrar la puerta. Una nevera atestada de salsas no enfría igual.
 
-## Arroz cocido y pollo: reglas de nevera
+### Arroz cocido y pollo: reglas de nevera
 
 El pilar cabe en dos frases. Arroz al frío **pronto**, tapado. Pollo cocinado, **dos o tres días**.
 
@@ -138,7 +138,7 @@ El [batch cooking de una hora](/blog/alimentacion/batch-cooking-de-una-hora) pro
 
 Descongelar: de congelador a nevera por la mañana. No a agua caliente a las 21:10. Pollo descongelado, cocínalo. Recongelar crudo a lo loco, no. Si lo cocinaste después, el cocinado sí puede ir al hielo. El filete que descongelaste, se quedó crudo dos días y vuelve al congelador: cubo.
 
-## Inventario de 30 segundos el sábado
+### Inventario de 30 segundos el sábado
 
 No es una auditoría. Es abrir la puerta. Mirar. Cerrar. Eso alimenta la compra. No es la compra. La lista se escribe en [lista de la compra semanal sencilla](/blog/alimentacion/lista-de-la-compra-semanal-sencilla). Aquí solo el vistazo.
 
@@ -160,7 +160,7 @@ Nevera vacía: el inventario es corto. No la llenes por ansiedad. Atestada: prim
 
 Entre semana, cinco segundos al abrir: ¿el leftover de ayer sigue delante? Si lo empujaste al meter la leche, lo devuelves. El FIFO se rompe en ese gesto, no en una teoría.
 
-## Qué no congelar
+### Qué no congelar
 
 El congelador no es un cubo de olvido con hielo. Es un freno. Lo que no vas a comer en dos o tres días, raciones. Lo que el frío destroza, no entra.
 
@@ -172,7 +172,7 @@ Sin fecha, el congelador es otra nevera misteriosa, más fría. “Sopa 8 sep”
 
 Sacar: nevera, horas, mañana para la cena. El microondas vale para sopa plana, no para un pollo crudo en bloque. Recongelar crudo descongelado: no. Cocinado después, una vez, si tiene sentido. Dudoso: cubo.
 
-## Errores que llenan la nevera y vacían el plato
+### Errores que llenan la nevera y vacían el plato
 
 Comprar encima de leftover sin nombre. Poner lo nuevo delante. Leftover destapado. Arroz en la olla hasta la noche. Pollo del domingo el viernes “porque no huele mal”. Leche y leftover en la puerta. Pan en el cajón. Hoja lavada para toda la semana. Doce salsas en el estante del medio. Congelar lechuga. Recongelar a lo loco. No mirar el sábado y duplicar el yogur. Organizar tarros un domingo y no tocar el FIFO el martes. Nevera “de dieta”: solo hojas. Luego el pedido.
 

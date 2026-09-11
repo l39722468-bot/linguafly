@@ -71,7 +71,7 @@ prompts si los uso?
 
 TFM: sustituye “grado” por “máster”, “TFG” por “TFM”, y repite los cinco pasos con *ese* reglamento. No copies la norma de otro grado ni de un compañero de otra facultad.
 
-## IA no escribe el TFG
+### IA no escribe el TFG
 
 **IA no escribe el TFG.** La frase vale para el manuscrito entero y para el capítulo que “solo es el estado de la cuestión”. El estado de la cuestión es autoría: qué has leído, qué descartas, cómo ordenas el hueco. Un modelo no ha leído tu corpus. Completa el molde de “varios autores han señalado”. Ese molde es el que luego no puedes citar.
 
@@ -100,7 +100,7 @@ Qué no es, aunque el prompt sea educado:
 
 El depósito lleva tu nombre. La defensa, tu voz. El chat no entra en el acta. Si un párrafo no puedes explicarlo, no va.
 
-## Revisión de un capítulo con chatbot
+### Revisión de un capítulo con chatbot
 
 **Revisión de un capítulo con chatbot** asume un archivo que *tú* has escrito. No un esqueleto de tres viñetas. Un capítulo: páginas, apartados, citas que ya has abierto.
 
@@ -129,7 +129,7 @@ Qué haces con la salida:
 
 Si el modelo se niega o se pone a redactar el capítulo, paras. No rodeas con “actúa como director de tesis”. El rol no habilita. Reformulas a lista de huecos o cierras.
 
-## Bibliografía del TFG: la misma regla, más cara
+### Bibliografía del TFG: la misma regla, más cara
 
 La bibliografía no sale del chat. Sale del paper, del libro, del catálogo, del repositorio. El detalle del gesto (DOI, APA, no copiar la lista del LLM) está en [citar fuentes: la IA no sustituye la bibliografía](/blog/inteligencia-artificial/citar-fuentes-la-ia-no-sustituye-la-bibliografia). Aquí solo el coste: un TFG con veinte referencias falsas no es un diez que se corrige con un email. Es un manuscrito que no puedes defender y, en el peor caso, un problema de integridad académica. No vamos a dictaminar consecuencias jurídicas. Vamos a dar el gesto: **no pidas al modelo el estado de la cuestión en forma de lista APA.**
 
@@ -143,7 +143,7 @@ Orden en el TFG:
 
 Formatear: puedes pedir APA (o la norma del centro) *de campos que ya están en Zotero*. Contrastas. Si el chat añade un número de páginas que tú no tenías, lo tacha.
 
-## Declaración de uso de IA
+### Declaración de uso de IA
 
 **Declaración de uso de IA** es lo que pida *tu* impreso de depósito, no una plantilla de internet. Si no hay casilla y el PDF de normas pide un anexo, el anexo. Si no piden nada y el tutor dijo “no uses chatbots”, no hay declaración porque no hay uso.
 
@@ -158,7 +158,7 @@ En el anexo, si toca: esas líneas, en frío. **Tutor y transparencia:** si en t
 
 No declares “solo ortografía” si redactó el marco. No copies la declaración de un blog de otra universidad. No pidas al chat que te redacte la declaración: es exactamente el tono que no quieres en un documento de integridad.
 
-## Ejemplo trabajado: el capítulo de marco teórico
+### Ejemplo trabajado: el capítulo de marco teórico
 
 Situación prototipo (no es tu tema): TFG de grado en sociología. Pregunta: cómo relacionan precariedad laboral y retraso de la emancipación *en el material que tú has reunido*. Llevas 18 páginas de capítulo 2, escritas durante un mes, con 12 referencias que sí abriste. El tutor ha dicho: permitido revisar estructura; prohibido generar texto; declaración de una línea en el anexo.
 

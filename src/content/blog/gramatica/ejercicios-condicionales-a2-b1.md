@@ -40,6 +40,8 @@ Si necesitas el marco teórico completo, consulta la [guía de condicionales en 
 
 ---
 
+Consultas como **ejercicios condicionales a2 b1**, **zero conditional ejercicios** o **first conditional ejercicios** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Bloque 1 — Zero Conditional (hechos generales)
 
 Estructura: **If + present simple, present simple**

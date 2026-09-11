@@ -67,6 +67,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Quien busca **should ought to ejercicios** o **dar consejos inglés A2** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Lección 1 — Gramática
 
 **Objetivo:** should / shouldn't; ought to; Should I…?

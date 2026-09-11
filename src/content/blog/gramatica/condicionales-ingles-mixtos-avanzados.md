@@ -40,6 +40,8 @@ Si ya dominas el **Zero, First, Second y Third Conditional**, el siguiente paso 
 
 ---
 
+Consultas como **condicionales mixtos ingles**, **mixed conditionals en inglés con ejemplos** o **ejercicios gratis de condicionales mixtos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## ¿Qué son los Mixed Conditionals?
 
 Los **Mixed Conditionals** combinan elementos de dos tipos de condicionales para hablar de:

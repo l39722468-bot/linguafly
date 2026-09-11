@@ -39,6 +39,8 @@ faqs:
 
 Mejorar el listening de **Australian English** es un proceso de **exposición deliberada**: no basta dejar sonar podcasts mientras limpias; necesitas **ciclos** de predicción, verificación y repetición.
 
+Consultas como **listening inglés australiano**, **Listening de Inglés Australiano** o **alt: Auriculares sobre mesa** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Materiales por nivel (orientativo)
 
 ### B1: claridad y pronunciación cuidada

@@ -37,6 +37,8 @@ Lo primero que hay que entender sobre este examen es qué buscan realmente los e
 
 ---
 
+Consultas como **como preparar speaking cae**, **cómo preparar el Speaking del Cambridge C1 Advanced** o **criterios de evaluación Speaking CAE** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Parte 1: Entrevista personal (2 minutos)
 
 El examinador os hace preguntas sobre vosotros mismos: vuestras aficiones, vuestros planes, vuestras experiencias. Parece la parte más fácil, pero muchos candidatos cometen el error de responder demasiado corto (*"Yes, I enjoy reading"*) o demasiado largo (monólogos de tres minutos que el examinador tiene que interrumpir).
@@ -47,7 +49,7 @@ Si te preguntan *"Do you think learning a language online is as effective as in 
 
 ---
 
-## Parte 2: Long Turn (4 minutos)
+### Parte 2: Long Turn (4 minutos)
 
 Cada candidato recibe tres fotografías y tiene que hablar durante un minuto sobre dos de ellas, respondiendo a una pregunta específica. Al terminar, el otro candidato responde brevemente (20-30 segundos) con su propia perspectiva.
 
@@ -65,7 +67,7 @@ Un minuto da para más de lo que parece. Si te quedas sin ideas antes de tiempo,
 
 ---
 
-## Parte 3: Collaborative Task (4 minutos)
+### Parte 3: Collaborative Task (4 minutos)
 
 Los dos candidatos reciben un mapa mental o un diagrama con ideas relacionadas con un tema y tienen que hablar juntos durante 2 minutos discutiendo los puntos, y luego 1 minuto tomando una decisión conjunta o llegando a una conclusión.
 
@@ -87,7 +89,7 @@ La regla de oro: **haz preguntas a tu compañero**. Un candidato que involucra a
 
 ---
 
-## Parte 4: Discussion (5 minutos)
+### Parte 4: Discussion (5 minutos)
 
 El examinador retoma el tema de la Parte 3 y hace preguntas más amplias y abstractas que podéis responder tanto de forma individual como entre los dos. Es una conversación abierta sobre cuestiones relacionadas con el tema: causas, consecuencias, tendencias, opiniones sobre el mundo real.
 
@@ -103,7 +105,7 @@ Evita decir *"I agree"* y parar. Siempre añade algo: amplía, matiza o pregunta
 
 ---
 
-## Qué evalúan los examinadores exactamente
+### Qué evalúan los examinadores exactamente
 
 Cambridge evalúa cinco aspectos de forma independiente:
 
@@ -119,7 +121,7 @@ Cambridge evalúa cinco aspectos de forma independiente:
 
 ---
 
-## Cómo prepararte entre exámenes
+### Cómo prepararte entre exámenes
 
 Hablar inglés en voz alta es imprescindible. No hay atajo. Puedes practicar solo: grábate respondiendo a preguntas del examen, escúchate y evalúa dónde te quedas bloqueado o dónde tu vocabulario es repetitivo.
 

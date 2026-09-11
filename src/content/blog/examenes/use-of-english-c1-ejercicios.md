@@ -39,6 +39,8 @@ El **Reading and Use of English** del CAE tiene 8 partes en total. Las partes 1 
 
 ---
 
+Consultas como **Use of English C1: Partes, Estrategias y Ejercicios**, **cae reading use of english** o **ejercicios Use of English C1 Advanced** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Parte 1: Multiple Choice Cloze
 
 Un texto con 8 huecos. Cada hueco tiene cuatro opciones (A, B, C o D). Puede sonar fácil, pero las cuatro opciones suelen ser palabras de significado parecido donde la diferencia está en la **colocación** o el **registro**.
@@ -54,7 +56,7 @@ Un ejemplo típico: el hueco pide una palabra que signifique "producir un result
 
 ---
 
-## Parte 2: Open Cloze
+### Parte 2: Open Cloze
 
 Aquí ya no tienes opciones. Ocho huecos en un texto y tienes que escribir una sola palabra en cada uno. Generalmente son palabras gramaticales: preposiciones, artículos, pronombres relativos, auxiliares, conjunciones o partículas de phrasal verbs.
 
@@ -73,7 +75,7 @@ Este tipo de ejercicio parece más fácil que el anterior, pero el problema es q
 
 ---
 
-## Parte 3: Word Formation
+### Parte 3: Word Formation
 
 Un texto con 8 huecos y, al lado de cada uno, una palabra base en mayúsculas. Tienes que transformar esa palabra para que encaje gramaticalmente y con el significado del texto. Por ejemplo, si te dan *EMPLOY* y el contexto habla de personas sin trabajo, la respuesta puede ser *unemployment* o *unemployed*, dependiendo de si el hueco pide un sustantivo o un adjetivo.
 
@@ -94,7 +96,7 @@ Esta parte evalúa tu conocimiento de **prefijos y sufijos** y tu capacidad para
 
 ---
 
-## Parte 4: Key Word Transformations
+### Parte 4: Key Word Transformations
 
 Esta es la parte con más peso relativo y, para muchos, la más temida. Recibes seis frases, cada una con una segunda frase incompleta y una palabra clave (*key word*) que no puedes cambiar. Tienes que completar la segunda frase de manera que signifique lo mismo que la primera, usando entre dos y seis palabras que incluyan la key word.
 
@@ -124,7 +126,7 @@ Para dominar las transformaciones necesitas entrenamiento específico. Puedes ve
 
 ---
 
-## Un sistema de trabajo para el día del examen
+### Un sistema de trabajo para el día del examen
 
 Dado que tienes 90 minutos para completar las 8 partes del paper completo, la distribución del tiempo importa mucho. Una pauta razonable para el Use of English sería:
 
@@ -137,7 +139,7 @@ Eso te deja unos 45 minutos para las cuatro partes de comprensión lectora. Si v
 
 ---
 
-## Lo que separa un B de un A en esta parte
+### Lo que separa un B de un A en esta parte
 
 Los candidatos que sacan Grade A en el CAE no son necesariamente más inteligentes ni han estudiado el doble. La diferencia está en la **exposición al inglés escrito de calidad**. Leer periódicos como The Guardian, The Economist o artículos académicos en inglés te entrena para las colocaciones y el registro formal mucho más eficazmente que hacer ejercicios de relleno de huecos durante horas.
 

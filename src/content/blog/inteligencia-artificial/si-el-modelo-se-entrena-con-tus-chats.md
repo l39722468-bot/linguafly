@@ -61,7 +61,7 @@ Qué no es el entrenamiento, para no pelearte con una leyenda:
 
 Si el producto dice que las cuentas de equipo o de empresa no entrenan con tus datos de la misma forma, eso vale para *esa* cuenta, con *ese* contrato. No lo copies a tu login personal del móvil.
 
-## Dónde se desactiva: el trabajo del interruptor
+### Dónde se desactiva: el trabajo del interruptor
 
 Los menús se mueven. Un tutorial con el nombre exacto del botón de 2024 te hace pulsar el de al lado en 2026. Por eso aquí no hay captura sagrada. Hay un **trabajo**: **desactivar la mejora del modelo**. En la interfaz puede decir algo como usar conversaciones para entrenar, mejorar el modelo para todos, o ayudar a mejorar el producto. Buscas esa idea. No memorizas la etiqueta.
 
@@ -82,7 +82,7 @@ Claude y otros: el mismo trabajo. Ajustes, datos, “no entrenar con mis chats�
 
 Chat temporal o modo que no guarda: palanca distinta. Reduce (si el producto lo cumple) el hilo en tu lista. No sustituye este interruptor. Cómo se usa está en [chat temporal o modo que no guarda](/blog/inteligencia-artificial/chat-temporal-o-modo-que-no-guarda).
 
-## Apagado no es privado
+### Apagado no es privado
 
 Este es el malentendido que justifica el artículo.
 
@@ -109,7 +109,7 @@ Por eso la regla de los treinta segundos va *antes* del pegado, no después del 
 
 No hace falta que te saques un máster. Hace falta no tratar el menú como un hechizo.
 
-## Chats de trabajo y training
+### Chats de trabajo y training
 
 **Chats de trabajo y training:** el clic de no entrenar no convierte tu ChatGPT personal en la herramienta de la oficina.
 
@@ -132,7 +132,7 @@ El trabajo no es un matiz de configuración. Es de cuenta y de permiso. Esta rev
 
 Cuentas mezcladas: responder un email del trabajo en el chatbot del fin de semana es el atajo que luego no puedes explicar. El interruptor en verde o en gris no aparece en esa explicación.
 
-## Historial, memoria y el paquete que confunde
+### Historial, memoria y el paquete que confunde
 
 **IA historial y entrenamiento** se pisan en la interfaz. Tres comprobaciones el día que configures:
 

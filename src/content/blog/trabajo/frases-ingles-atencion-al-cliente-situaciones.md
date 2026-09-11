@@ -55,7 +55,7 @@ Para estrategias más profundas de comunicación en inglés para customer servic
 
 ---
 
-## 👋 Grupo 1: Bienvenida y Apertura (Frases 1-8)
+### 👋 Grupo 1: Bienvenida y Apertura (Frases 1-8)
 
 1. *"Thank you for contacting [Company]. My name is [Name]. How can I assist you today?"*
 
@@ -75,7 +75,7 @@ Para estrategias más profundas de comunicación en inglés para customer servic
 
 ---
 
-## 🔍 Grupo 2: Recopilar Información y Confirmar (Frases 9-16)
+### 🔍 Grupo 2: Recopilar Información y Confirmar (Frases 9-16)
 
 9. *"Could you give me a bit more detail about the issue you're experiencing?"*
 
@@ -95,7 +95,7 @@ Para estrategias más profundas de comunicación en inglés para customer servic
 
 ---
 
-## ⏱️ Grupo 3: Gestión de Tiempos de Espera (Frases 17-22)
+### ⏱️ Grupo 3: Gestión de Tiempos de Espera (Frases 17-22)
 
 17. *"I'm going to check on this for you right now. Please bear with me for just a moment."*
 
@@ -111,7 +111,7 @@ Para estrategias más profundas de comunicación en inglés para customer servic
 
 ---
 
-## ✅ Grupo 4: Resolución Positiva (Frases 23-30)
+### ✅ Grupo 4: Resolución Positiva (Frases 23-30)
 
 23. *"Great news! I've been able to resolve this on my end. Here's what I've done..."*
 
@@ -131,7 +131,7 @@ Para estrategias más profundas de comunicación en inglés para customer servic
 
 ---
 
-## 😤 Grupo 5: Gestión de Quejas y Clientes Difíciles (Frases 31-38)
+### 😤 Grupo 5: Gestión de Quejas y Clientes Difíciles (Frases 31-38)
 
 31. *"I completely understand your frustration, and I sincerely apologize for the inconvenience this has caused."*
 
@@ -151,7 +151,7 @@ Para estrategias más profundas de comunicación en inglés para customer servic
 
 ---
 
-## 🔄 Grupo 6: Devoluciones, Reembolsos y Cambios (Frases 39-44)
+### 🔄 Grupo 6: Devoluciones, Reembolsos y Cambios (Frases 39-44)
 
 39. *"I'd be happy to process a return for you. Just to let you know our returns policy: [brief explanation]."*
 
@@ -183,7 +183,7 @@ Para estrategias más profundas de comunicación en inglés para customer servic
 
 ---
 
-## 🚀 Practica con Escenarios Reales
+### 🚀 Practica con Escenarios Reales
 
 Conocer las frases es el primer paso. El segundo es usarlas con fluidez y naturalidad en situaciones de presión. En **Linguafly**, simulamos conversaciones reales de customer service en inglés con role-plays personalizados y feedback inmediato de profesores especializados en comunicación profesional.
 

@@ -66,7 +66,7 @@ Lo que sí cabe:
 
 Eso no convierte el hilo en asesoría. Convierte un párrafo opaco en una lista que tú llevas. [La IA no sustituye a un profesional colegiado](/blog/inteligencia-artificial/la-ia-no-sustituye-a-un-profesional-colegiado): aquí, al acto de abogacía. El chat es auxiliar de lectura. No es titular.
 
-## IA interpreta un contrato: una cláusula, no el caso
+### IA interpreta un contrato: una cláusula, no el caso
 
 **IA interpreta un contrato** es la búsqueda. La respuesta útil es más estrecha: el modelo puede *parafrasear* un fragmento. No puede *calificar* tu posición. La diferencia se ve en el verbo.
 
@@ -105,7 +105,7 @@ Compruebas la salida:
 
 Una cláusula. No el anexo de avales, no las escrituras, no el pack de nóminas. Si al recortar se cae la tarea, la tarea era para quien tiene el encargo, no para un chat personal.
 
-## Ejemplo trabajado: una cláusula, tres preguntas
+### Ejemplo trabajado: una cláusula, tres preguntas
 
 Texto de partida (inventado para el ejercicio, ya anonimizado). No es un contrato real. No lo uses como modelo para firmar nada:
 
@@ -125,7 +125,7 @@ Eso es trabajo de preparación. No es un sí a firmar. No es un no a firmar. No 
 
 Variante que tiras entera: “Firma, el silencio no te vincula, reclama N el día 91 y ganarás.” Eso es dictamen de folleto. No estaba pedido. No se usa. No se reenvía.
 
-## Preguntas para un abogado (el entregable)
+### Preguntas para un abogado (el entregable)
 
 **Preguntas para un abogado** son el producto que sí puedes sacar del chat. No son el producto que cierra el asunto. Las haces tú. Quien ejerce prioriza, descarta, pide papeles.
 
@@ -146,7 +146,7 @@ En la cita:
 
 Fiscal, laboral, extranjería, consumo, menores: el patrón no cambia. Preguntas para quien ejerce. El chat no tramita. No presenta escritos. No calcula plazos procesales como si fuera el calendario del juzgado.
 
-## Fuero y normativa local
+### Fuero y normativa local
 
 **Fuero y normativa local** es el punto que el español fluido tapa. El modelo escribe en tu idioma. Mezcla, sin avisar, normas de España, de otro país hispanohablante, de un año que ya no rige, de un real decreto que habla de otra cosa. Tú ves “Código Civil” y bajas la guardia.
 
@@ -161,7 +161,7 @@ El modelo no tiene tu partido judicial. No tiene el diario oficial que importa. 
 
 Si necesitas contrastar un identificador que el modelo ha colado (un BOE, una STS), no le pidas otra cita “para corregir”. Sales del chat. El método general de abrir la fuente está en [cómo comprobar si una respuesta de IA es fiable](/blog/inteligencia-artificial/como-comprobar-si-una-respuesta-de-ia-es-fiable). El caso legal concreto, en el satélite de citas. Aquí: no uses el número hasta que esté abierto en el sitio emisor.
 
-## Responsabilidad de un texto legal
+### Responsabilidad de un texto legal
 
 **Responsabilidad de un texto legal** no se desplaza al proveedor del chatbot porque el párrafo saliera de ahí. Si lo envías, si lo firmas, si lo presentas, el texto es tuyo. El modelo no va al juzgado. Tú sí, o la persona a la que representas.
 

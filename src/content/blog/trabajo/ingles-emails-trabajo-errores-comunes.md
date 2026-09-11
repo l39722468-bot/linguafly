@@ -49,11 +49,13 @@ excerpt: >
 
 En el mundo laboral globalizado, cada email que envías es una oportunidad para proyectar profesionalidad... o para perder credibilidad. Los errores en **emails profesionales en inglés** son más comunes de lo que crees, y muchos de ellos no son errores gramaticales, sino de tono, estructura o cultura empresarial.
 
+Consultas como **errores emails ingles trabajo**, **ingles emails trabajo errores comunes para el trabajo** o **ingles emails trabajo errores comunes profesional** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 En nuestras **[clases de inglés para profesionales](/blog/trabajo/ingles-para-trabajo)**, analizamos decenas de correos reales de nuestros alumnos cada semana. Estos son los 10 errores más frecuentes y cómo evitarlos.
 
 ---
 
-## ❌ Error #1: El Asunto Vago o Genérico
+### ❌ Error #1: El Asunto Vago o Genérico
 
 **Lo que escribes:** *"Question"*, *"Meeting"*, *"Hi"*
 
@@ -66,7 +68,7 @@ En nuestras **[clases de inglés para profesionales](/blog/trabajo/ingles-para-t
 
 ---
 
-## ❌ Error #2: Traducir Literalmente del Español
+### ❌ Error #2: Traducir Literalmente del Español
 
 **Lo que escribes:** *"I hope you are well"* (calco de "Espero que estés bien")
 
@@ -80,7 +82,7 @@ En nuestras **[clases de inglés para profesionales](/blog/trabajo/ingles-para-t
 
 ---
 
-## ❌ Error #3: Demasiado Formal en Contextos Semiformales
+### ❌ Error #3: Demasiado Formal en Contextos Semiformales
 
 **Lo que escribes:** *"Dear Sir/Madam, I hereby write to you with regards to the aforementioned matter..."*
 
@@ -93,7 +95,7 @@ En nuestras **[clases de inglés para profesionales](/blog/trabajo/ingles-para-t
 
 ---
 
-## ❌ Error #4: No Incluir una Llamada a la Acción Clara
+### ❌ Error #4: No Incluir una Llamada a la Acción Clara
 
 **Lo que escribes:** *"I look forward to your thoughts."*
 
@@ -106,7 +108,7 @@ En nuestras **[clases de inglés para profesionales](/blog/trabajo/ingles-para-t
 
 ---
 
-## ❌ Error #5: Bloques de Texto sin Estructura
+### ❌ Error #5: Bloques de Texto sin Estructura
 
 **Lo que escribes:** Párrafos de 10 líneas sin separaciones ni listas.
 
@@ -120,7 +122,7 @@ En nuestras **[clases de inglés para profesionales](/blog/trabajo/ingles-para-t
 
 ---
 
-## ❌ Error #6: El "Reply All" Innecesario
+### ❌ Error #6: El "Reply All" Innecesario
 
 Este no es un error de gramática, sino de netiqueta. Responder a todos cuando solo necesitas responder al remitente llena las bandejas de entrada de información irrelevante.
 
@@ -128,7 +130,7 @@ Este no es un error de gramática, sino de netiqueta. Responder a todos cuando s
 
 ---
 
-## ❌ Error #7: Omitir el Saludo o la Despedida
+### ❌ Error #7: Omitir el Saludo o la Despedida
 
 **Lo que escribes:** Empezar directamente con el contenido sin saludo.
 
@@ -141,7 +143,7 @@ Este no es un error de gramática, sino de netiqueta. Responder a todos cuando s
 
 ---
 
-## ❌ Error #8: Abuso de Signos de Exclamación y Mayúsculas
+### ❌ Error #8: Abuso de Signos de Exclamación y Mayúsculas
 
 **Lo que escribes:** *"Hi!!! I REALLY need this by TODAY!!!"*
 
@@ -154,7 +156,7 @@ Este no es un error de gramática, sino de netiqueta. Responder a todos cuando s
 
 ---
 
-## ❌ Error #9: No Releer el Email Antes de Enviarlo
+### ❌ Error #9: No Releer el Email Antes de Enviarlo
 
 Los errores tipográficos o gramaticales en un email profesional son pequeños pero impactan en tu imagen. Un simple fallo como *"pubic relations"* en lugar de *"public relations"* puede ser muy embarazoso.
 
@@ -168,7 +170,7 @@ Los errores tipográficos o gramaticales en un email profesional son pequeños p
 
 ---
 
-## ❌ Error #10: No Adaptar el Tono a la Cultura del Receptor
+### ❌ Error #10: No Adaptar el Tono a la Cultura del Receptor
 
 La comunicación escrita varía enormemente según la cultura. Aprende en nuestro artículo sobre **[diferencias entre inglés americano y británico](/blog/metodos/ingles-americano-vs-britanico)** cómo adaptar tu tono.
 
@@ -178,7 +180,7 @@ La comunicación escrita varía enormemente según la cultura. Aprende en nuestr
 
 ---
 
-## 🎯 Del Error al Éxito: Practica con Feedback Real
+### 🎯 Del Error al Éxito: Practica con Feedback Real
 
 Conocer los errores es el primer paso. El segundo es practicar con corrección real. En **Linguafly**, nuestros profesores revisan tus emails reales de trabajo y te dan feedback personalizado para que mejores rápidamente.
 

@@ -72,7 +72,7 @@ Si el correo requiere acción por parte del destinatario, puedes indicarlo en el
 
 Evita asuntos en mayúsculas (*URGENT REQUEST*), que suenan agresivos, y los demasiado vagos que obligan a abrir el correo para entender de qué va.
 
-## El saludo (Greeting): formal sin pasarte
+### El saludo (Greeting): formal sin pasarte
 
 La elección del saludo depende de si conoces el nombre del destinatario y de qué tipo de relación tienes.
 
@@ -93,7 +93,7 @@ La coma después del saludo es estándar en inglés americano. El punto o los do
 
 Si quieres ver más fórmulas de apertura y cierre, en el hub de [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) encontrarás recursos para cada tipo de correo.
 
-## La apertura (Opening): no entres a lo bruto
+### La apertura (Opening): no entres a lo bruto
 
 Después del saludo, la primera frase del cuerpo suele ser una cortesía o contextualización breve antes de ir al grano. Saltar directamente al asunto sin ninguna apertura puede sonar brusco.
 
@@ -106,7 +106,7 @@ Fórmulas habituales:
 
 Si ya tenéis una relación fluida, puedes ir directamente sin la cortesía inicial: *Quick update on the project timeline...*
 
-## El cuerpo (Body): claridad antes que estilo
+### El cuerpo (Body): claridad antes que estilo
 
 El cuerpo es donde va el contenido real. Organízalo en párrafos cortos, uno por idea principal. Evita los bloques de texto largos que agotan al lector antes de llegar al punto.
 
@@ -130,7 +130,7 @@ Antes de la firma, añade una frase de cierre que indique qué esperas que pase 
 - *I await your confirmation.*
 - *Looking forward to our meeting on Thursday.*
 
-## La despedida (Sign-off): la fórmula correcta
+### La despedida (Sign-off): la fórmula correcta
 
 La despedida varía según el nivel de formalidad:
 
@@ -146,7 +146,7 @@ La despedida varía según el nivel de formalidad:
 
 Después va tu nombre, cargo y datos de contacto en la firma.
 
-## Un ejemplo completo
+### Un ejemplo completo
 
 > **Subject:** Meeting Request — Q2 Budget Review
 >
@@ -169,7 +169,7 @@ Este ejemplo sigue la estructura al completo: asunto informativo, saludo apropia
 
 ---
 
-## Profundiza en los emails profesionales en inglés
+### Profundiza en los emails profesionales en inglés
 
 Con la estructura clara, estos artículos te ayudan a dominar cada tipo de email:
 

@@ -40,6 +40,8 @@ Esta no es una guía para convertirte en lingüista. Es una guía práctica para
 
 ---
 
+Consultas como **como usar IPA para aprender ingles**, **cómo usar el IPA para mejorar la pronunciación inglesa** o **guía práctica gratuita del alfabeto fonético inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué merece la pena invertir el tiempo
 
 La pregunta razonable es: ¿realmente necesito aprender el IPA si puedo escuchar el audio del diccionario?

@@ -48,6 +48,8 @@ excerpt: >-
 
 En una conversación sencilla podemos decir: *The teacher identified the problem*. En un ensayo o una presentación académica quizá queramos destacar quién lo identificó, qué problema se detectó o cuándo ocurrió. Las **cleft sentences**, también llamadas oraciones escindidas, nos permiten reorganizar la información para que un elemento reciba un foco claro.
 
+Si llegas con la consulta **it was who that ejercicios**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 - *It was the teacher who identified the problem.*
 - *It was the problem that the teacher identified.*
 - *What the teacher identified was a gap in the students’ reasoning.*

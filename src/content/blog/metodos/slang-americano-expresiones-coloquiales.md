@@ -35,6 +35,8 @@ Esta guía te da las 70 expresiones más usadas en Estados Unidos en 2026 — or
 
 ---
 
+Quien busca **slang americano y expresiones coloquiales gratis** o **expresiones de Estados Unidos usadas en redes sociales** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Expresiones de Aprobación (El Vocabulario de lo Positivo)
 
 | Expresión | Significado | Ejemplo |
@@ -52,7 +54,7 @@ Esta guía te da las 70 expresiones más usadas en Estados Unidos en 2026 — or
 
 ---
 
-## Expresiones de Desaprobación
+### Expresiones de Desaprobación
 
 | Expresión | Significado | Ejemplo |
 |-----------|-------------|---------|
@@ -67,7 +69,7 @@ Esta guía te da las 70 expresiones más usadas en Estados Unidos en 2026 — or
 
 ---
 
-## Expresiones para Personas
+### Expresiones para Personas
 
 | Expresión | Significado | Ejemplo |
 |-----------|-------------|---------|
@@ -84,7 +86,7 @@ Esta guía te da las 70 expresiones más usadas en Estados Unidos en 2026 — or
 
 ---
 
-## Expresiones de Situaciones y Acciones
+### Expresiones de Situaciones y Acciones
 
 | Expresión | Significado | Ejemplo |
 |-----------|-------------|---------|
@@ -101,7 +103,7 @@ Esta guía te da las 70 expresiones más usadas en Estados Unidos en 2026 — or
 
 ---
 
-## Slang de Gen Z para Redes Sociales
+### Slang de Gen Z para Redes Sociales
 
 | Expresión | Origen | Uso |
 |-----------|--------|-----|
@@ -117,7 +119,7 @@ Esta guía te da las 70 expresiones más usadas en Estados Unidos en 2026 — or
 
 ---
 
-## Frases Completas para Sonarte Natural
+### Frases Completas para Sonarte Natural
 
 Aquí tienes algunas frases que combinan varios elementos de slang:
 
@@ -135,7 +137,7 @@ Aquí tienes algunas frases que combinan varios elementos de slang:
 
 ---
 
-## Cómo No Parecer Forzado al Usar Slang
+### Cómo No Parecer Forzado al Usar Slang
 
 El slang solo funciona cuando surge de forma natural. Consejos:
 

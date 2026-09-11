@@ -47,6 +47,8 @@ Para ver el sistema completo del reported speech en inglés, la guía [Reported 
 
 ---
 
+Consultas como **cuando no cambiar verbo reported speech**, **backshift en reported speech con ejemplos** o **excepciones del backshift en inglés indirecto** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La tabla de cambios estándar (repaso rápido)
 
 | Estilo directo | Reported speech (backshift) |
@@ -63,7 +65,7 @@ Esta tabla funciona la mayor parte del tiempo. Ahora vamos a ver cuándo no se a
 
 ---
 
-## Excepción 1: La información sigue siendo verdad ahora
+### Excepción 1: La información sigue siendo verdad ahora
 
 Si lo que alguien dijo sigue siendo cierto en el momento en que lo reportas, puedes mantener el tiempo original sin hacer backshift.
 
@@ -82,7 +84,7 @@ La clave: si la situación no ha cambiado, el presente sigue siendo válido. Si 
 
 ---
 
-## Excepción 2: El verbo introductor está en presente
+### Excepción 2: El verbo introductor está en presente
 
 Si el verbo que introduce el reported speech está en presente, no hace falta backshift. El tiempo de la cita se mantiene.
 
@@ -97,7 +99,7 @@ Esto es muy frecuente en:
 
 ---
 
-## Excepción 3: Reportas algo dicho hace muy poco
+### Excepción 3: Reportas algo dicho hace muy poco
 
 Cuando lo que estás reportando se dijo hace segundos o minutos y el contexto sigue igual, el backshift es opcional.
 
@@ -110,7 +112,7 @@ En conversación informal, los hablantes nativos mantienen el presente con mucha
 
 ---
 
-## Excepción 4: Verbos modales que no cambian
+### Excepción 4: Verbos modales que no cambian
 
 Algunos modales no tienen forma "más pasada" disponible, así que no cambian en el backshift:
 
@@ -130,7 +132,7 @@ Solo *will → would*, *can → could* y *may → might* hacen backshift.
 
 ---
 
-## Excepción 5: El past simple puede quedarse como past simple
+### Excepción 5: El past simple puede quedarse como past simple
 
 Una de las áreas más confusas: cuando el estilo directo ya está en past simple, el backshift lo convierte en past perfect. Pero en muchos casos, el past simple puede mantenerse — especialmente cuando queda claro el contexto temporal.
 
@@ -142,7 +144,7 @@ Cuando el tiempo o el contexto ya están claros, los hablantes nativos a menudo 
 
 ---
 
-## Excepción 6: Reported speech con "if" (wishes y condicionales)
+### Excepción 6: Reported speech con "if" (wishes y condicionales)
 
 En el tercer condicional, ya tienes past perfect. No cambia:
 
@@ -155,7 +157,7 @@ Con *wish*:
 
 ---
 
-## Cuándo el backshift produce algo incorrecto
+### Cuándo el backshift produce algo incorrecto
 
 Aplicar el backshift mecánicamente a veces genera frases que no tienen sentido o que dan información incorrecta.
 
@@ -174,7 +176,7 @@ Aplicar el backshift mecánicamente a veces genera frases que no tienen sentido 
 
 ---
 
-## El principio detrás de todo esto
+### El principio detrás de todo esto
 
 La razón de ser del backshift no es una regla gramatical arbitraria — es lógica comunicativa. El tiempo verbal en reported speech indica la relación temporal entre lo que se dijo y el momento actual.
 

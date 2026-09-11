@@ -48,6 +48,8 @@ faqs:
 
 Una **entrevista de trabajo en inglés** no es solo una prueba de idioma; es una demostración de tus habilidades profesionales, tu conocimiento del sector y tu capacidad para comunicarte con efectividad en un entorno internacional. La buena noticia: el éxito en una entrevista en inglés tiene muy poco de talento innato y mucho de preparación sistemática.
 
+Consultas como **cómo preparar entrevista trabajo inglés paso a paso**, **guía preparación entrevista inglés estrategia STAR** o **Cómo Preparar una Entrevista de Trabajo en Inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 En **Linguafly** hemos acompañado a cientos de profesionales en este proceso. Esta guía concentra lo mejor de nuestra metodología en un plan de preparación concreto y accionable.
 
 Complementa esta guía con nuestros artículos sobre **[vocabulario para entrevistas de trabajo en inglés](/blog/trabajo/vocabulario-entrevista-trabajo-ingles)** y **[preguntas frecuentes en entrevistas en inglés](/blog/trabajo/entrevista-trabajo-ingles-preguntas)**.

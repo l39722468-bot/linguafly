@@ -63,7 +63,7 @@ Qué no es: un BOE. Un Scholar. Un certificado. Un “ya está contrastado porqu
 
 Si el producto dice que buscó y no te da enlace para una cifra, esa cifra se trata como si no hubiera búsqueda: la abres tú en el sitio emisor o la tachas.
 
-## Perplexity vs Google (y el hermano ChatGPT Search)
+### Perplexity vs Google (y el hermano ChatGPT Search)
 
 **Perplexity vs Google** no es cuál es más inteligente. Es qué recinto usas el martes.
 
@@ -88,7 +88,7 @@ Desempate sucio: sitio que ya sabes → Google (o la URL directa). Pregunta abie
 
 No uses Perplexity para: salud (“¿es grave?”), dictamen legal o fiscal, “¿compro esto?”, identidad de terceros. El enlace oficial de un trámite sí se puede *encontrar*; el “¿firmo?” no se pregunta.
 
-## Buscar en Perplexity en español
+### Buscar en Perplexity en español
 
 **Buscar en Perplexity en español** no basta con escribir en español. El índice mezcla países, años y blogs. Si no acotas, te llega una guía de México, un post de 2019 y un .com que parafrasea al modelo.
 
@@ -115,7 +115,7 @@ Consultas que salen mal en español: siglas ambiguas (mismo acrónimo en dos min
 
 Si la interfaz tiene Focus o filtros (web, académico, etc.), eliges *uno* por pregunta. Web para una convocatoria. Académico para un paper. No “todo” a la vez el primer pase: mezcla un blog con un PDF de 2014.
 
-## Comprobar los enlaces de Perplexity
+### Comprobar los enlaces de Perplexity
 
 **Comprobar los enlaces de Perplexity** es el job. No es un extra. Si no vas a abrir, no uses el producto para un dato que te importa.
 
@@ -135,7 +135,7 @@ No pidas a Perplexity “¿estás seguro?” ni “dame más fuentes para confir
 
 PDFs largos en un chip: usas el buscador del lector. No hojes dos páginas y des por bueno el resumen de Perplexity. La misma disciplina que con un chatbot y un adjunto: el original gana.
 
-## Perplexity Focus académico: abres el paper igual
+### Perplexity Focus académico: abres el paper igual
 
 **Perplexity Focus académico** (filtro Academic / papers, el nombre se mueve) restringe el barrido a un índice de artículos. Útil para no llenarte de blogs. **No** sustituye Scholar, el repositorio de la revista ni el PDF. **No** te ahorra leer. **Nunca** pides “inventa cinco papers que respalden”. Nunca copias un DOI sin resolverlo.
 
@@ -153,7 +153,7 @@ Si el dato es jurídico, Focus académico no es el BOE. Vas al boletín. El chip
 
 Investigación rápida académica, en la práctica: una pregunta, modo académico, tres DOIs resueltos, uno que sirve, dos tachados. Paras. No “sigue buscando hasta que salga el que me convence”.
 
-## Ejemplo trabajado: Lucía, convocatoria, cinco enlaces
+### Ejemplo trabajado: Lucía, convocatoria, cinco enlaces
 
 Lucía gestiona un local cultural. Necesita saber si una convocatoria pública de ayudas a actividades (España, 2026) sigue abierta y qué plazo de justificación menciona la guía. No pide si “le conviene pedirla”. No pide dictamen. Pide fechas que existan en un sitio emisor.
 
@@ -181,7 +181,7 @@ Resultado que pega en su nota: solicitud hasta el 15 de septiembre de 2026 (web 
 
 Si Lucía hubiera pegado el párrafo al email, el plazo falso y el RD inventado-de-uso habrían viajado. El chip no lo habría impedido.
 
-## Errores al buscar con Perplexity
+### Errores al buscar con Perplexity
 
 **Quedarte en el resumen.** Los chips estaban para abrirse. Sin clic no hay búsqueda contrastada.
 
@@ -201,7 +201,7 @@ Si Lucía hubiera pegado el párrafo al email, el plazo falso y el RD inventado-
 
 **Una pregunta vaga en español** y aceptar la guía de otro país. Acota. Tacha.
 
-## Para aquí
+### Para aquí
 
 **Perplexity con citas** cabe en cinco líneas:
 

@@ -50,6 +50,8 @@ canonical: 'https://linguafly.app/blog/trabajo/vocabulario-entrevista-trabajo-in
 
 El vocabulario en una entrevista en inglés funciona como un filtro. Las palabras que eliges revelan si conoces el entorno profesional anglosajón, si has preparado la entrevista en serio y si eres capaz de comunicarte con precisión. No hace falta un vocabulario extensísimo: hace falta el vocabulario correcto.
 
+Consultas como **vocabulario esencial entrevista trabajo inglés**, **palabras clave inglés profesional entrevista laboral** o **vocabulario entrevista trabajo ingles para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Action verbs: el núcleo de tus respuestas
 
 Los verbos de acción son los que transforman una respuesta vaga en una respuesta de impacto. Evita construir todas tus frases alrededor de "did", "made" o "helped". Estos son los más valorados:
@@ -95,7 +97,7 @@ Los verbos de acción son los que transforman una respuesta vaga en una respuest
 - *Advised* — Asesoré
 - *Trained* — Formé / Entrené
 
-## Cómo describir tus fortalezas sin sonar arrogante
+### Cómo describir tus fortalezas sin sonar arrogante
 
 El inglés profesional tiene un estilo específico para hablar de uno mismo: directo pero con evidencia, no con adjetivos vacíos.
 
@@ -121,7 +123,7 @@ Adjetivos útiles para describir habilidades — siempre respaldados con un ejem
 - *Self-motivated* — Con iniciativa propia
 - *Reliable* — Fiable
 
-## Vocabulario para hablar de tu experiencia
+### Vocabulario para hablar de tu experiencia
 
 **Para describir el contexto:**
 - *"In my previous / current role as [cargo]..."*
@@ -141,7 +143,7 @@ Adjetivos útiles para describir habilidades — siempre respaldados con un ejem
 - *"I developed strong skills in..."*
 - *"It pushed me out of my comfort zone and..."*
 
-## Vocabulario de empresa y sector
+### Vocabulario de empresa y sector
 
 Conocer estos términos y usarlos correctamente cuando sea relevante muestra que entiendes el entorno corporativo:
 
@@ -157,7 +159,7 @@ Conocer estos términos y usarlos correctamente cuando sea relevante muestra que
 - *Onboarding* — Proceso de incorporación
 - *ROI* (Return on Investment) — Retorno de inversión
 
-## Frases para los momentos clave de la entrevista
+### Frases para los momentos clave de la entrevista
 
 **Al inicio:**
 - *"Thank you for having me. I've been looking forward to this conversation."*
@@ -178,7 +180,7 @@ Conocer estos términos y usarlos correctamente cuando sea relevante muestra que
 
 Puedes encontrar más recursos en el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) para prepararte de forma completa.
 
-## Las palabras que debes evitar
+### Las palabras que debes evitar
 
 **"Perfectionist"** como debilidad: sobreusado y poco creíble.
 

@@ -59,7 +59,7 @@ Esta ficha responde a una sola pregunta: **¿puedo usar Duolingo como único “
 
 Encaja como **capa de hábito** mientras preparas el formato real. No encaja como temario.
 
-## Por qué falla solo ante un examen oficial
+### Por qué falla solo ante un examen oficial
 
 Los exámenes exigen:
 
@@ -70,7 +70,7 @@ Los exámenes exigen:
 
 Duolingo no reproduce esa carga. Una racha de 200 días no predice un 6.5 de IELTS.
 
-## Cómo usarlo bien en tu plan
+### Cómo usarlo bien en tu plan
 
 1. App: **hábito** 10–20 min/día. Tope. Luego cierras.
 2. **Simulacro** del examen que vas a pagar (oficial, no un PDF random).
@@ -78,7 +78,7 @@ Duolingo no reproduce esa carga. Una racha de 200 días no predice un 6.5 de IEL
 
 Si el examen es en menos de tres meses y Duolingo es lo único que haces, cambia el plan esta semana. La gamificación no negocia con la fecha.
 
-## Gamificación: lo que sí entrena y lo que no
+### Gamificación: lo que sí entrena y lo que no
 
 Lo que sí: léxico en contexto, tolerancia al error, exposición diaria, perder el miedo a sonar mal al principio.
 
@@ -96,7 +96,7 @@ Comparación rápida dentro del mismo hub:
 - [Coursera](/blog/metodos/mejores-cursos-ingles-online-coursera-examenes): más academic English.
 - [Linguafly (blog)](/blog/metodos/mejores-cursos-ingles-online-focus-english-examenes): guías, no matrícula.
 
-## Métricas que sí importan (y el XP no)
+### Métricas que sí importan (y el XP no)
 
 Cuenta **palabras que usas** en un email real, no puntos. Si la racha te quita el bloque de writing, pon la app en un hueco fijo de quince minutos o desinstálala hasta después del test.
 
@@ -104,7 +104,7 @@ Vocabulario médico, legal o financiero: la app genérica llega tarde. Listas co
 
 Cuando una unidad se atasca, no machaques el mismo item: input paralelo (lectura, podcast) y vuelta a las 48 horas.
 
-## Errores típicos el mes del examen
+### Errores típicos el mes del examen
 
 **Usar dos apps que hacen lo mismo.** Si ya estás en Duolingo, añadir Babbel “por si acaso” no cubre writing. Añade simulacro y alguien que te oiga hablar.
 

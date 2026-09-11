@@ -62,7 +62,7 @@ Si tu plan no muestra Projects, no es un fracaso. **Organizar el trabajo en Chat
 
 Plus, Team o el plan que ese mes incluya Projects: útil cuando ya tienes dos contextos que se pisan. El primer día, no. La primera semana, casi nunca.
 
-## ChatGPT project vs chat suelto
+### ChatGPT project vs chat suelto
 
 **ChatGPT project vs chat suelto** se decide con una pregunta: ¿voy a volver a *este* cliente o a *esta* asignatura la semana que viene, con material que no debe mezclarse con el otro?
 
@@ -108,7 +108,7 @@ Estudio. Pablo, miércoles 19:15. Dos asignaturas. Historia del Arte y Estadíst
 
 El hilo sucio y el chat nuevo siguen existiendo *dentro* del Project. Si mezclas dos recados de Inés en el mismo chat y el segundo sale contaminado, abres conversación nueva *en ese cajón*. La regla del hilo está en [conversación nueva o seguir el mismo hilo](/blog/inteligencia-artificial/conversacion-nueva-o-seguir-el-mismo-hilo). El Project no limpia un chat sucio. Evita que el sucio de Andrés entre en Inés.
 
-## Archivos en un proyecto ChatGPT (qué sí y qué no)
+### Archivos en un proyecto ChatGPT (qué sí y qué no)
 
 **Archivos en un proyecto ChatGPT** no son una biblioteca infinita. Son el material de *ese* cajón que el modelo puede usar como contexto. Cada archivo que subes puede salirse de tu ordenador hacia OpenAI. Trátalo como un pegado.
 
@@ -163,7 +163,7 @@ Si algo no está en el archivo o en el mensaje, escribe "no aparece".
 
 Cinco líneas. Si pones un rol de “account manager senior con 20 años”, el cajón habla como LinkedIn. No lo pongas.
 
-## Un cajón por cliente o asignatura (pasos)
+### Un cajón por cliente o asignatura (pasos)
 
 **Organizar el trabajo en ChatGPT** con Projects, cuando ya te toca:
 
@@ -197,7 +197,7 @@ No inventes sanciones. No mezcles con el evento de Inés.
 
 Andrés abre el PDF. Contrasta cada fila con el apartado. Si el modelo ha colado una multa, fuera: eso no estaba. El Project ha servido para no pegar el PDF en un hilo suelto de la compra. No ha servido para sustituir al técnico que firmará la obra. Eso no se pide aquí.
 
-## Cuándo no usar Projects (para aquí)
+### Cuándo no usar Projects (para aquí)
 
 **Cuándo no usar Projects** es la mitad del artículo. El cajón también ensucia si lo usas mal.
 

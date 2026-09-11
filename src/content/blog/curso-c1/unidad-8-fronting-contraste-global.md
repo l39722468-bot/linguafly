@@ -48,6 +48,8 @@ excerpt: >-
 
 Cuando hablamos de problemas globales necesitamos dos tipos de precisión. Primero, debemos decidir qué información merece ocupar el primer plano: una consecuencia, una limitación, un grupo afectado o una condición. Segundo, debemos distinguir entre hechos comprobados, interpretaciones plausibles y escenarios que solo podemos imaginar. La Unidad 8 trabaja esas capacidades mediante **fronting**, **topicalisation**, estructuras de **contraste** y lenguaje de **especulación**.
 
+Si llegas con la consulta **topicalisation ejercicios inglés avanzado**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Compara estas frases:
 
 - *The Security Council has rarely been so divided.*

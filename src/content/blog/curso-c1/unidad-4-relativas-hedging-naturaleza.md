@@ -48,6 +48,8 @@ excerpt: >-
 
 Describir el mundo natural en inglés C1 exige algo más que conocer nombres de animales, paisajes o procesos ecológicos. Hay que conectar ideas con precisión y, al mismo tiempo, distinguir entre un hecho observado, una interpretación probable y una conclusión todavía provisional. La Unidad 4 trabaja esas dos capacidades mediante **relative clauses avanzadas** y **hedging language**.
 
+Si llegas con la consulta **hedging language ejercicios C1**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Compara estas dos versiones:
 
 - *The wetland is protected. Its biodiversity is declining.*

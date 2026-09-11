@@ -67,7 +67,7 @@ Cocínalos como siempre. Sal, aceite, limón, pimentón. Si el plato funciona, d
 
 Si entrenas, la blanca tiene que cubrir proteína visible, no solo hidrato barato. La [guía práctica de proteína, hidratos y grasas](/blog/alimentacion/proteina-hidratos-grasas-guia-practica) no pide un lácteo de lujo. Pide que el yogur sea yogur y el bote sea legumbre. Eso cabe en marca blanca.
 
-## Yogur natural, huevos y lácteos simples
+### Yogur natural, huevos y lácteos simples
 
 **Yogur natural marca blanca.** El kilo o el gran formato. No los ocho vasos de sabores. Mira la lista. Si pone azúcar, almidón o trozos de fruta, es postre. Déjalo. El natural se usa en desayuno, merienda y salsa de ajo. El de sabores se come uno y se olvidan cuatro.
 
@@ -92,7 +92,7 @@ Leche: la blanca del brick que ya bebes. Entera o semidesnatada, la que uses. No
 
 Mantequilla o margarina: si untas pan, la blanca suele bastar. Si repostería fina es tu hobby, no es este artículo.
 
-## Legumbres de bote, arroz y avena
+### Legumbres de bote, arroz y avena
 
 **Legumbres de bote marca blanca.** Garbanzos, lentejas, alubias. Cuatro a seis botes en el plan. Escurre. Enjuaga bajo el grifo treinta segundos. Aceite, sal, pimentón o cumin si lo usas. Limón. Eso es cena con ensalada o congelado. No es un plato de restaurante. Es el plato.
 
@@ -120,7 +120,7 @@ Cómo comprobar arroz esta semana:
 
 Harina, tomate triturado, garbanzo seco, lenteja seca: blanca. Tomate triturado: mira que sea tomate y sal, o tomate. Si es “sofrito” con azúcar, es otra cosa. Úsalo si el plan lo pide. No lo confundas con triturado.
 
-## Congelados, pan y lo que ya está resuelto
+### Congelados, pan y lo que ya está resuelto
 
 Verdura congelada de cadena: brócoli, guisantes, espinaca, menestra simple. Basta para cocinar. No es el artículo de congelados; ahí está el detalle de uso. Aquí la regla de marca: no pagues “steam premium” si el saco de un kilo blanco hace el salteado.
 
@@ -136,7 +136,7 @@ Aceite de oliva: muchas blancas sirven para saltear. Si el sabor te parece agres
 
 Especias: pimentón, pimienta, orégano blancos. Si el pimentón no huele a nada, está viejo, no “es blanca”. Compra un bote más pequeño y más fresco. Curries complejos y mezclas de marca: solo si ya las usas.
 
-## Cuándo no comprar marca blanca
+### Cuándo no comprar marca blanca
 
 Lista corta. Escríbela si te ayuda. No es un ranking de lujo.
 
@@ -162,7 +162,7 @@ Cuándo no es un criterio, solo costumbre:
 
 Si vives con gente que “solo come tal yogur”, no hagas una guerra de logos. Un yogur que se come gana a un yogur blanco que se tira. Prueba a ciegas un domingo: dos tarrinas sin tapa a la vista. A veces se acaba la guerra.
 
-## Cómo probar una blanca en siete días
+### Cómo probar una blanca en siete días
 
 No conviertas el domingo en un laboratorio. Tres productos. Un papel.
 
@@ -196,7 +196,7 @@ Errores de la prueba:
 - Probar en un día raro (invitados, pedido). Prueba en un miércoles normal.
 - Comprar el formato minis “para probar”. El formato grande es el del plan. El mini miente de precio y de uso.
 
-## Errores al cambiar de marca
+### Errores al cambiar de marca
 
 **Pensar que barato = peor en todo.** En arroz, avena, bote y triturado, suele ser el mismo tipo de producto. El margen está en el anuncio.
 

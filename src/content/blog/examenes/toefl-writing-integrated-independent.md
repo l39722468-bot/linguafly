@@ -42,6 +42,8 @@ Ambas tienen fórmulas claras. Si las aprendes y practicas con rigor durante 3-4
 
 ---
 
+Quien busca **TOEFL Writing: Integrated e Independent Explicados** o **toefl integrated writing** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Cómo se puntúa el TOEFL Writing
 
 Primero conviene entender qué mira el corrector (mitad algoritmo, mitad humano). Los criterios son:

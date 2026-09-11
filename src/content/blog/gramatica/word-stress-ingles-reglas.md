@@ -44,6 +44,8 @@ El acento de palabra en inglés —lo que los lingüistas llaman *word stress* o
 
 ---
 
+Si llegas con la consulta **acento palabra inglés**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Qué es el acento de palabra y cómo funciona
 
 En cada palabra inglesa de dos o más sílabas, una de esas sílabas se pronuncia de forma más destacada que las demás. Esa sílaba recibe más energía: es más larga, más alta en tono y más clara en articulación. Las demás sílabas, en comparación, se comprimen y a menudo reducen sus vocales a schwa /ə/.

@@ -42,6 +42,8 @@ En español también tenemos diptongos —piensa en "aire", "deuda" o "causa"—
 
 ---
 
+Consultas como **diptongos español inglés diferencias**, **lista completa de diptongos en inglés con ejemplos** o **diptongos ingleses ejercicios gratis de pronunciación** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es un diptongo en inglés
 
 Un diptongo es la unión de dos sonidos vocálicos dentro de una misma sílaba. El sonido comienza en una posición y se mueve —sin interrupción— hacia otra. No son dos vocales yuxtapuestas: son un único movimiento articulatorio continuo.

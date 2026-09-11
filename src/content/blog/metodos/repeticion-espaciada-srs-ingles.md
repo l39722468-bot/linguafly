@@ -44,6 +44,8 @@ canonical: 'https://linguafly.app/blog/metodos/repeticion-espaciada-srs-ingles'
 
 Imagina que estudias 50 palabras en inglés hoy. Mañana recuerdas 40. La semana que viene, quizás 20. Un mes después, apenas 5. Esto no es un fracaso tuyo —es la biología actuando sobre tu cerebro. Pero existe una forma de combatirla.
 
+Consultas como **repetición espaciada inglés**, **repetición espaciada para aprender inglés gratis** o **cómo usar SRS para memorizar vocabulario inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 La **repetición espaciada** (en inglés *spaced repetition*, abreviada SRS de *Spaced Repetition System*) es la técnica de aprendizaje con más respaldo científico para la memorización a largo plazo. No es un truco ni una moda: lleva más de un siglo siendo investigada y los datos son contundentes.
 
 En este artículo aprenderás qué es exactamente el SRS, por qué funciona mejor que cualquier otra técnica de memorización, cómo funciona el algoritmo que usan apps como Anki, qué aplicaciones lo incorporan y cómo puedes empezar a usarlo hoy mismo para disparar tu vocabulario en inglés.

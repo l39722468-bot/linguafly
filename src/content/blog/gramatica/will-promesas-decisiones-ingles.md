@@ -45,6 +45,8 @@ Consulta también [Will vs Going To](/blog/gramatica/will-going-to-diferencia) p
 
 ---
 
+Consultas como **will promesas ingles**, **cómo usar will para hacer promesas en inglés** o **decisiones espontáneas con will ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Will para decisiones espontáneas
 
 Una decisión espontánea es aquella que no existía antes de que se abriera la boca. En el momento de hablar, se produce tanto la decisión como la expresión de esa decisión.

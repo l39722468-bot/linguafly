@@ -43,6 +43,8 @@ Esta guía reúne el vocabulario esencial y las **frases exactas** para cada esc
 
 ---
 
+Consultas como **ingles problemas aeropuerto**, **Inglés en Vuelos** o **ingles vuelos retrasos conexiones para viajar** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Vocabulario esencial del aeropuerto
 
 Antes de los escenarios, conviene tener claros los términos que verás en mostradores y oirás por megafonía. Son los que aparecen en todas las situaciones:

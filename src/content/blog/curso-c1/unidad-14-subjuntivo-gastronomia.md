@@ -48,6 +48,8 @@ excerpt: >-
 
 En inglés formal, las recomendaciones, exigencias y condiciones importantes se pueden expresar con una estructura muy precisa: **that + sujeto + forma base del verbo**. Esta forma se conoce como **mandative subjunctive** o subjuntivo mandativo.
 
+Si llegas con la consulta **recommend that subjuntivo ejercicios**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 - *The committee recommended that the standards be revised.*
 - *It is essential that every chef know the provenance of the ingredients.*
 - *The regulation requires that inspections be carried out quarterly.*

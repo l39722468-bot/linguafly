@@ -42,6 +42,8 @@ El word stress es uno de los aspectos más subestimados de la pronunciación ing
 
 ---
 
+Consultas como **word stress ingles**, **qué es el word stress en inglés con ejemplos** o **ejercicios gratis de acento tónico inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué el inglés es especialmente exigente en esto
 
 En español, el sistema de acento es relativamente predecible. La mayoría de las palabras sin tilde se acentúan en la penúltima sílaba: *ca-SA*, *li-BRO*, *puer-TA*. Las tildes marcan las excepciones. Con esta regla, un hispanohablante puede pronunciar palabras desconocidas con un alto porcentaje de acierto.

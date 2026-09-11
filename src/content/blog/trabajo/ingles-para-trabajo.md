@@ -43,6 +43,8 @@ faqs:
 
 En el mercado laboral de 2026, el inglés ha dejado de ser un "extra" en el currículum para convertirse en el idioma oficial de la innovación y los negocios globales. Ya no basta con entender un correo; la diferencia entre un perfil estancado y uno que progresa es la capacidad de **comunicar con autoridad, empatía y precisión**.
 
+Quien busca **Inglés para el Trabajo: Guía Profesional** o **Qué Inglés Necesitas para el Trabajo** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Mejorar el inglés profesional implica alejarse de la teoría académica para centrarse en lo que realmente sucede en una oficina moderna, una startup tecnológica o una multinacional.
 
 ---

@@ -63,7 +63,7 @@ Empleado: mezcla clásica. El ticket en el chatbot del móvil porque en el port�
 
 Herramienta aprobada: cuando exista, úsala *para lo laboral* y sigue recortando lo que no haga falta. Cuando no exista, no improvisas una con la app de moda.
 
-## Ticket sin nombre ni email
+### Ticket sin nombre ni email
 
 **Ticket sin nombre ni email** es el formato de trabajo. No es un truco legal. Es recortar hasta que la tarea (un email, un recap, una lista) se pueda hacer sin identificadores.
 
@@ -101,7 +101,7 @@ Qué no entra:
 
 **IA y datos de un CRM:** el dato útil para el chatbot es el *hecho de la tarea*. El dato útil para el CRM es el identificador. No los mezcles en el mismo Ctrl+V.
 
-## Anonimizar un caso de cliente
+### Anonimizar un caso de cliente
 
 **Anonimizar un caso de cliente** no es sustituir “María” por “M.” y dejar el correo y la calle. Es dejar el texto de forma que **tú** no podrías devolverlo a una ficha sin memoria extra. Si tú aún sabes quién es *solo con lo pegado*, un tercero con el mismo texto también puede.
 
@@ -128,7 +128,7 @@ Si el producto tiene interruptor de no entrenar, úsalo. No convierte el pegado 
 
 Qué hacer si ya pegaste la ficha: paras. No la vuelves a pegar “para que el modelo la borre” ni “ahora en modo temporal”. Borras el hilo en la interfaz (gesto, no garantía). No sigues el chat con más identificadores “porque ya está fuera”. El siguiente borrador lo haces con el molde de cliente A, o a mano. Si el pegado incluía cuenta, DNI o un contrato, avisas por el canal interno que toque (seguridad, DPD, jefatura), no le pides consejo al mismo chat. Esta página no te dice el deber legal de notificar; te dice que no conviertas el incidente en un segundo envío.
 
-## Política comercial y chatbots
+### Política comercial y chatbots
 
 **Política comercial y chatbots** aquí no es comparar planes de un CRM. Es doble:
 
@@ -147,7 +147,7 @@ Qué no hagas con la política:
 
 Marcas de CRM: da igual cuál sea la pantalla. El copy-paste es el mismo tipo de salida. No hay reseña. No hay “en HubSpot es más seguro pegar”. El recinto seguro es el que tu empresa haya contratado, o ninguno.
 
-## Pegar un caso real: el ejemplo del email
+### Pegar un caso real: el ejemplo del email
 
 Tarea: borrador de respuesta a un cliente enfadado. Mal pegado (no lo hagas):
 

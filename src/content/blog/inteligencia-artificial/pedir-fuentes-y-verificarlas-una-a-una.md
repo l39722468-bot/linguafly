@@ -82,7 +82,7 @@ Si el producto ya enseña chips (Perplexity, Search, Gemini con enlaces), no hac
 
 Si el chat se niega a dar URL y te suelta “según fuentes recientes”, paras esa línea. Sales tú: Google, el sitio del organismo, Scholar. El bucle es abrir, no discutir. Pedir bibliografía APA “lista para pegar” es ruido aquí: cierra el hilo o busca tú.
 
-## Abrir cada enlace: carga, párrafo, fecha
+### Abrir cada enlace: carga, párrafo, fecha
 
 **Verificar fuentes de una IA** se decide en la pestaña, no en el chat. Tres pruebas, en este orden. Si falla una, la fila cae.
 
@@ -100,7 +100,7 @@ Estados, los mismos tres de siempre, aplicados a *fuentes* no a “el tono del e
 
 No hay estado “casi”. “Casi” es cómo se cuela la cuarta fuente, la que no abriste. Si una fila tarda (paywall, VPN, el PDF no carga), PENDIENTE o NO ESTÁ. Un PENDIENTE no se pega. El envío no espera al limbo: o esperas tú o tacha.
 
-## ChatGPT citas falsas, DOI inventado, bibliografía que no abre
+### ChatGPT citas falsas, DOI inventado, bibliografía que no abre
 
 **ChatGPT citas falsas** no son un fallo raro. Son el molde. URL que parece de un ministerio. DOI con prefijo `10.`. “Martínez (2022), *Revista de…*”. Apellido frecuente, año reciente, título que suena a TFG. Nada de eso se usa hasta que abre.
 
@@ -132,7 +132,7 @@ Abre, en este orden:
 
 Tres NO ESTÁ. El informe no lleva cifra. Lleva un hueco o el dato de una tabla que *ella* abra después. El chat no se cita. Si una URL hubiera cargado con *otra* cifra, copiaría esa, de la página. El chat queda fuera.
 
-## Abrir el enlace de Perplexity (y el chip de cualquier otro)
+### Abrir el enlace de Perplexity (y el chip de cualquier otro)
 
 **Abrir el enlace de Perplexity** es el mismo clic, con otra pintura. Números, tarjetas, Focus. El dibujo cambia. El gesto no. Esta página no es el manual del producto: es el bucle cuando *ya* tienes chips delante, en Perplexity o en Search o en Gemini.
 
@@ -150,7 +150,7 @@ Si Perplexity (o Search) afirma una cifra y no hay ancla, trata esa cifra como c
 
 No cites a Perplexity, ChatGPT ni Gemini. Citas la página. **No citar un chatbot** vale con números azules. Si el enlace es un PDF largo, buscas el dato en el lector. O el párrafo sostiene la frase, o la fila cae.
 
-## Método de verificación corto (la tabla de la sesión)
+### Método de verificación corto (la tabla de la sesión)
 
 El **método de verificación corto** cabe en una tabla. No en un ensayo sobre “pensamiento crítico”. Columnas, y no más:
 

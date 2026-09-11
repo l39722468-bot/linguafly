@@ -76,7 +76,7 @@ Qué no haces:
 
 Si no aparece Meta AI: tu país, tu edad de cuenta o tu versión puede no traerla. No la fuerzas. No hace falta para vivir.
 
-## Cuándo sí preguntar (un hecho público, un texto corto)
+### Cuándo sí preguntar (un hecho público, un texto corto)
 
 **Preguntar a la IA en WhatsApp** sirve para poco. Ese poco es concreto.
 
@@ -110,7 +110,7 @@ Lee. Copia al chat del colega. Envía ella.
 
 Chat temporal y “que no se guarde” son de otros productos. WhatsApp no te da un modo incógnito de Meta AI equivalente. No lo inventes. Si no quieres rastro en un chat de modelo, no abras Meta AI. El detalle de modos temporales está en [chat temporal o modo que no guarda](/blog/inteligencia-artificial/chat-temporal-o-modo-que-no-guarda), y no lava un pegado.
 
-## Cuándo callarla (íntimo, menores, salud, ajeno)
+### Cuándo callarla (íntimo, menores, salud, ajeno)
 
 Callarla significa: no abrir el bot, no mencionarlo, no reenviar, no pegar. No es un gesto dramático. Es no pulsar.
 
@@ -130,7 +130,7 @@ Ejemplo de parar, concreto. Jueves 21:30. El grupo de la comunidad. Un vecino pe
 
 Otro: el grupo del colegio. Un padre @Meta AI para “resumir el conflicto”. Paras. No participas en ese uso. Si eres admin y la app te deja restringir menciones o bots, usas lo oficial. Si no, el criterio sigue: no alimentas al bot.
 
-## Privacidad Meta AI chats (qué ve, qué no)
+### Privacidad Meta AI chats (qué ve, qué no)
 
 **Privacidad Meta AI chats** no es la misma frase que “WhatsApp es privado”. Son dos recintos.
 
@@ -150,7 +150,7 @@ Borrar el chat con Meta AI en el teléfono no es una certificación de borrado e
 
 Cuentas: la de WhatsApp es la de tu número. No hay un “Meta AI de empresa” mágico porque uses el móvil del trabajo. Si el recado es laboral con datos de un cliente, no va al bot. Si tu organización prohíbe esto, se cumple. Esta página no es esa política.
 
-## Desactivar Meta AI (lo oficial, no un truco)
+### Desactivar Meta AI (lo oficial, no un truco)
 
 **Desactivar Meta AI** es lo que la app te deje hacer este mes, en tu país, en tu versión. No hay un tutorial eterno de menús. Los menús se mueven. Lo que no se mueve: no instales un APK, no sigas un “código secreto”, no conectes el móvil a un tutorial de ADB de un foro, no pagues a alguien para “quitarla”. Eso no es desactivar. Es comprometer la cuenta.
 
@@ -166,7 +166,7 @@ Si el icono vuelve en una actualización, repites el paso 1. No entras en un gru
 
 Callarla en un grupo, aunque el icono exista: no la @-menciona, no reenvías el hilo al bot, no pegas capturas.
 
-## Riesgos de Meta AI en grupos (y errores para aquí)
+### Riesgos de Meta AI en grupos (y errores para aquí)
 
 **Riesgos de Meta AI en grupos**, los que importan el jueves, no en un keynote:
 

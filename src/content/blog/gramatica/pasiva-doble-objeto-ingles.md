@@ -48,6 +48,8 @@ canonical: 'https://linguafly.app/blog/gramatica/pasiva-doble-objeto-ingles'
 
 Hay un tipo de oración en inglés que sorprende a muchos estudiantes: aquella donde el verbo tiene no uno sino dos objetos. *"They gave me a book."* ¿Quién recibe la acción en la pasiva? ¿Yo (me) o el libro (a book)? La respuesta es: los dos. Y eso crea dos versiones de la pasiva, ambas válidas y correctas.
 
+Consultas como **Pasiva con Doble Objeto en Inglés: Guía y Ejemplos**, **pasiva doble objeto ingles** o **pasiva con dos objetos en inglés ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Verbos con dos objetos: la base
 
 Algunos verbos en inglés pueden tener un **objeto indirecto** (la persona que recibe) y un **objeto directo** (lo que se entrega o hace). Los más frecuentes son:
@@ -69,7 +71,7 @@ Con estos verbos, en la oración activa tienes:
 
 *They gave **me** (objeto indirecto) **a book** (objeto directo).*
 
-## Dos pasivas, dos enfoques
+### Dos pasivas, dos enfoques
 
 Cuando transformas esta oración a pasiva, puedes usar cualquiera de los dos objetos como sujeto:
 
@@ -83,7 +85,7 @@ Ambas son gramaticalmente correctas. La diferencia está en el énfasis y el reg
 
 Puedes ver esta estructura en el contexto completo de la pasiva avanzada en el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles).
 
-## Ejemplos con los verbos más frecuentes
+### Ejemplos con los verbos más frecuentes
 
 **Give:**
 - Activa: *The manager gave her a promotion.*
@@ -120,7 +122,7 @@ Puedes ver esta estructura en el contexto completo de la pasiva avanzada en el h
 - Pasiva A: *She was awarded the prize.*
 - Pasiva B: *The prize was awarded to her.*
 
-## Cuál es más natural y cuándo
+### Cuál es más natural y cuándo
 
 En general, **la Pasiva A** (persona como sujeto) suena más natural en inglés hablado y en la mayoría de contextos escritos. Los hablantes nativos prefieren tener una persona como sujeto porque resulta más directo y empático:
 
@@ -131,7 +133,7 @@ En general, **la Pasiva A** (persona como sujeto) suena más natural en inglés 
 
 - *"A new policy has been drafted. The policy will be explained to all employees next week."*
 
-## Excepciones: verbos que solo admiten una opción
+### Excepciones: verbos que solo admiten una opción
 
 Algunos verbos con dos objetos solo admiten la pasiva del objeto directo en la práctica. *Explain*, *describe* y *suggest* son los más conocidos:
 
@@ -143,7 +145,7 @@ Algunos verbos con dos objetos solo admiten la pasiva del objeto directo en la p
 
 La diferencia está en la estructura del verbo: *explain something to someone* (no *explain someone something*), así que solo el objeto directo puede convertirse en sujeto de la pasiva.
 
-## En exámenes: Key Word Transformation
+### En exámenes: Key Word Transformation
 
 Este tipo de pasiva es un clásico en Cambridge B2 y C1. Ejemplos de transformación:
 
@@ -160,7 +162,7 @@ Este tipo de pasiva es un clásico en Cambridge B2 y C1. Ejemplos de transformac
 
 En las transformaciones, presta atención a si el verbo original admite las dos versiones o solo una.
 
-## Ejercicios
+### Ejercicios
 
 Transforma estas oraciones activas en ambas pasivas posibles (si aplica):
 

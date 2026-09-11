@@ -73,7 +73,7 @@ Pasos de encuadre, antes de abrir un modelo:
 
 Si el vídeo es de una call de trabajo con clientes, paras y te vas al artículo de transcribir una reunión. Aquí el objeto es un **clip**, no un acta.
 
-## ChatGPT SRT de un vídeo: formato, no milagro
+### ChatGPT SRT de un vídeo: formato, no milagro
 
 **ChatGPT SRT de un vídeo** no significa que el chat “vea” el mp4 siempre. Significa: tú le das **texto ya transcrito** (o un audio si el producto lo admite y tú aceptas subirlo) y pides el formato.
 
@@ -92,7 +92,7 @@ Tiempos: el modelo **estima**. Un SRT con tiempos redondos de 3 en 3 segundos es
 
 Líneas: dos como mucho. Una idea por cartel. No un párrafo. El lector no es un telediario de 1998.
 
-## Whisper subtítulos: el mismo clip, otra puerta
+### Whisper subtítulos: el mismo clip, otra puerta
 
 **Whisper subtítulos** es voz a texto del *clip*. Útil cuando no quieres teclear los tres minutos. El modelo de Whisper (local o API) te suelta frases y, en algunos flujos, tiempos.
 
@@ -118,7 +118,7 @@ Eso no se arregla con un prompt ingenioso. Se arregla con la lista del paso de e
 
 Si el clip es una **nota de voz** de 20 segundos para convertirlo en una lista, no es este artículo. Si es una **reunión** de 50 minutos con cinco personas, tampoco. Mismo motor posible. Otro consentimiento. Otro entregable.
 
-## Revisar nombres en los subtítulos
+### Revisar nombres en los subtítulos
 
 **Revisar nombres en los subtítulos** es el oficio que queda cuando el modelo ya “ha hecho su trabajo”. El modelo no ha hecho tu trabajo.
 
@@ -137,7 +137,7 @@ Nombres que no identifican y aun así: el pueblo, la herramienta, el botón del 
 
 No pidas al chat “corrige los nombres” **sin** pegarle la lista verdadera. Inventará Núñez con s. Pega: “Nombres correctos: Núñez, Gijón, SAE, Herrera. No cambies el resto. Devuelve el SRT entero.” Aun así, oyes. El chat no ha estado en Gijón.
 
-## YouTube subtítulos automáticos y corrección
+### YouTube subtítulos automáticos y corrección
 
 **YouTube subtítulos automáticos y corrección** es el flujo si publicas ahí. El automático se enciende. No es el final.
 

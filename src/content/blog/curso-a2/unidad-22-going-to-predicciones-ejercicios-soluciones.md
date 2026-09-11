@@ -65,6 +65,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Si llegas con la consulta **ejercicios going to predicciones**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Lección 1 — Gramática
 
 **Objetivo:** going to para predicciones con evidencia (*Look! It's going to…*).

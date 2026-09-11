@@ -45,6 +45,8 @@ Consulta también [Will para el Futuro en Inglés](/blog/gramatica/will-futuro-i
 
 ---
 
+Consultas como **will going to diferencia ingles**, **diferencia entre will y going to con ejemplos** o **ejercicios will vs going to gratis** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La diferencia en una frase
 
 - **Will** → decisión tomada ahora mismo / predicción sin evidencia directa visible
@@ -54,7 +56,7 @@ Eso es todo. Si tienes claro eso, el resto son aplicaciones de ese principio.
 
 ---
 
-## Caso 1: Decisiones espontáneas vs planes previos
+### Caso 1: Decisiones espontáneas vs planes previos
 
 Este es el contraste más claro.
 
@@ -86,7 +88,7 @@ La clave: ¿lo decidiste antes de este momento o ahora mismo? Antes → going to
 
 ---
 
-## Caso 2: Predicciones sin evidencia vs con evidencia visible
+### Caso 2: Predicciones sin evidencia vs con evidencia visible
 
 El segundo contraste importante es en las predicciones.
 
@@ -109,7 +111,7 @@ La pregunta es: ¿tienes evidencia visible ahora, o es solo tu opinión general?
 
 ---
 
-## Tabla comparativa completa
+### Tabla comparativa completa
 
 | Situación | Will | Going to |
 |-----------|------|----------|
@@ -123,7 +125,7 @@ La pregunta es: ¿tienes evidencia visible ahora, o es solo tu opinión general?
 
 ---
 
-## Casos donde ambas son válidas
+### Casos donde ambas son válidas
 
 Con predicciones generales, sin evidencia inmediata y sin plan previo, *will* y *going to* son prácticamente equivalentes:
 
@@ -135,7 +137,7 @@ En estas frases, la diferencia es mínima. El hablante nativo las usa de forma c
 
 ---
 
-## Errores frecuentes
+### Errores frecuentes
 
 **Usar going to para decisiones espontáneas:**
 - ❌ *The phone is ringing — I'm going to get it.*
@@ -157,7 +159,7 @@ Este error afecta tanto a *will* como a *going to*: las conjunciones temporales 
 
 ---
 
-## Cómo entrenarlo en la práctica
+### Cómo entrenarlo en la práctica
 
 La distinción *will / going to* se vuelve automática con práctica contextual, no con memorización de reglas.
 

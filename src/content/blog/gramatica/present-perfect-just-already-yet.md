@@ -43,6 +43,8 @@ Para el panorama completo de cómo funciona el present perfect en inglés, la gu
 
 ---
 
+Quien busca **Just, Already y Yet en Inglés: Usos y Ejemplos** o **just already yet ingles** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## JUST: acaba de pasar
 
 **Just** indica que algo ocurrió hace muy poco tiempo — "acaba de".

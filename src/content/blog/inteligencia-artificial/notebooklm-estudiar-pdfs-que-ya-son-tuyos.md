@@ -95,7 +95,7 @@ Qué no pidas:
 
 Después de cada respuesta: PDF abierto. Clic en la cita si la interfaz la muestra. Si no hay clic, buscas la frase en el lector. Si la página no dice eso, tachas. El método es el mismo que en cualquier modelo: extraer, abrir, marcar. Aquí el original es *tu* fuente, no una web.
 
-## Podcast de un PDF en NotebookLM: repaso, no fuente
+### Podcast de un PDF en NotebookLM: repaso, no fuente
 
 **Podcast de un PDF NotebookLM** (Audio Overview / resumen en audio: dos voces que “hablan” del material) es una ayuda de estudio. No es el documento. No es una clase del profesor. Es un modelo que ha leído (o ha creído leer) las fuentes y produce una conversación.
 
@@ -111,7 +111,7 @@ Límites del audio: se desactualiza si cambias fuentes y no lo regeneras; puede 
 
 Si no vas a contrastar el audio, no lo uses ese día. Lee el capítulo.
 
-## NotebookLM vs ChatGPT para el mismo PDF
+### NotebookLM vs ChatGPT para el mismo PDF
 
 **NotebookLM vs ChatGPT** se decide por el recinto, no por quién “entiende mejor”.
 
@@ -125,7 +125,7 @@ Regla sucia: **si la respuesta debe poder señalar una página de un archivo que
 
 En los tres, el original gana. En los tres, el trabajo escrito lo firmas tú.
 
-## Límites de NotebookLM (citas, copyright, examen)
+### Límites de NotebookLM (citas, copyright, examen)
 
 **Límites de NotebookLM** que importan el martes, no el ranking del producto:
 
@@ -138,7 +138,7 @@ En los tres, el original gana. En los tres, el trabajo escrito lo firmas tú.
 
 Si el producto se niega a una fuente, no busques un jailbreak. Reformulas una tarea lícita con un archivo que sí es tuyo, o estudias sin el cuaderno.
 
-## Ejemplo trabajado: Pablo, tema 3, páginas 1-8
+### Ejemplo trabajado: Pablo, tema 3, páginas 1-8
 
 Pablo cursa Historia contemporánea. Tiene un PDF de *sus* apuntes (24 páginas, las ha pasado él a limpio). El profesor ha colgado en el campus un boletín de prácticas (público para el grupo, 6 páginas). El examen es el viernes: preguntas cortas sobre el tema 3, no un trabajo para entregar. Pablo no tiene el PDF del manual de la editorial; tiene el ejemplar en papel, que no va a escanear entero para el cuaderno.
 
@@ -164,7 +164,7 @@ No redactes un ensayo.
 
 Eso es estudiar con NotebookLM. Lo que no haría: “redacta el comentario de 800 palabras para entregar el jueves”; “súbeme el PDF del libro de la editorial que encontré”; “haz el test del campus”. El modelo no entrega la asignatura. Pablo tampoco se la hace entregar.
 
-## Errores al estudiar un PDF con NotebookLM
+### Errores al estudiar un PDF con NotebookLM
 
 **Tratar el cuaderno como ChatGPT.** Preguntas al mundo. Completa. Tú querías el tema 3.
 
@@ -182,7 +182,7 @@ Eso es estudiar con NotebookLM. Lo que no haría: “redacta el comentario de 80
 
 **Confiar en que “está anclado”.** Sigue habiendo NO ESTÁ.
 
-## Para aquí
+### Para aquí
 
 **NotebookLM para estudiar PDF** cabe en cinco líneas:
 

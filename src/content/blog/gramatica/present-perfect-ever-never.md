@@ -42,6 +42,8 @@ Para entender el contexto más amplio de por qué estas palabras van con present
 
 ---
 
+Consultas como **ever never ingles**, **cómo usar ever y never con present perfect** o **ejercicios gratis de ever y never en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## EVER: en algún momento de tu vida
 
 **Ever** se usa principalmente en preguntas y significa "alguna vez en toda tu vida" (o en el período de tiempo relevante). Su función es preguntar si una experiencia ha ocurrido, sin importar cuándo.

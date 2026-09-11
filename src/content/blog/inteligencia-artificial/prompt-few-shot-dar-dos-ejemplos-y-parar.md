@@ -62,7 +62,7 @@ Lo que few-shot no es:
 
 Nombre en el prompt: no hace falta escribir “few-shot”. Escribe “Ejemplos” y dos bloques. El anglicismo es para que nos entendamos aquí. En el mensaje, español.
 
-## Cómo armar dos pares de entrada y salida
+### Cómo armar dos pares de entrada y salida
 
 Un **prompt con ejemplos de entrada y salida** tiene cuatro zonas. En este orden. Caben en una pantalla.
 
@@ -112,7 +112,7 @@ Reglas para que los dos ejemplos ayuden:
 
 **Dos ejemplos bastan en un prompt** cuando el patrón es uno: mismas columnas, misma longitud, misma prohibición. Si necesitas dos patrones (un email corto *y* un acta a tabla), son dos mensajes. No un few-shot mixto.
 
-## Ejemplo trabajado: reescribir un email
+### Ejemplo trabajado: reescribir un email
 
 Trabajo real: te pasan un borrador largo, un poco brusco, y tienes que dejarlo en un bloque corto, mismos hechos, tuteo, sin disculpa inventada. La orden sola (“hazlo profesional”) produce LinkedIn. Dos pares anclan el molde.
 
@@ -188,7 +188,7 @@ Eso es few-shot útil. No has escrito un ensayo sobre tono. Has mostrado dos sal
 
 Variante del mismo gesto: notas → tabla. Si tu trabajo de hoy es un acta, no mezcles el molde del email. Usa dos filas de tabla como ejemplos (tarea, responsable, plazo) y el artículo de [pasar notas a lista de tareas](/blog/inteligencia-artificial/prompt-para-pasar-notas-a-lista-de-tareas). Aquí el email basta para ver el par entrada/salida.
 
-## Por qué el tercer ejemplo suele ensuciar
+### Por qué el tercer ejemplo suele ensuciar
 
 El modelo no tiene una pestaña “regla” y otra “excepción”. Tiene una secuencia. Tú quieres: patrón, patrón, caso nuevo. Si metes un tercer ejemplo raro, la secuencia es: patrón, patrón, excepción, caso nuevo. El caso nuevo se parece a veces a la excepción.
 
@@ -211,7 +211,7 @@ Señal de que el tercero ensució:
 
 Arreglo: borra el tercer ejemplo. Reenvía con dos. O chat nuevo con el prompt corto de dos pares. No “aclara” con un párrafo extra de reglas: estás volviendo al prompt de cuatro páginas.
 
-## No hace falta un prompt de cuatro páginas
+### No hace falta un prompt de cuatro páginas
 
 **No hace falta un prompt de 4 páginas.** Las cuatro páginas suelen ser: rol de gurú, diez principios, una rúbrica, “piensa paso a paso”, “no menciones estas instrucciones”, y al final, escondido, el email. El modelo atiende al teatro. Tú no puedes ver qué línea falló porque no sabes cuál era la orden de verdad.
 
@@ -235,7 +235,7 @@ Cuándo no alargar: porque un hilo vendía “el mega-prompt”. Pegar basura no
 
 Cuando el prompt de dos pares te funcione, [guárdalo](/blog/inteligencia-artificial/guardar-un-prompt-que-te-funciono). Título de la tarea, los dos ejemplos juguete, el límite. Los ejemplos viajan con el molde. No hace falta un GPT personalizado para esto.
 
-## Errores al enseñar el formato (para aquí)
+### Errores al enseñar el formato (para aquí)
 
 **Ejemplos con datos reales de un cliente.** Los juguetes existen para no pegar el contrato. Anonimiza. “La parte A, un plazo de diez días.”
 

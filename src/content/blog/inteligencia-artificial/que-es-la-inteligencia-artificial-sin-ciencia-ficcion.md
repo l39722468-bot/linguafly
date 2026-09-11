@@ -61,7 +61,7 @@ Si trabajas con texto, casi todo lo que ves en un chat es un **modelo de lenguaj
 
 Una analogía usable, no mística: es un becario muy rápido que ha leído internet entero y no distingue bien lo que es verdad de lo que suena a verdad. Tú eres quien firma. El becario no.
 
-## Qué no es la inteligencia artificial
+### Qué no es la inteligencia artificial
 
 Antes de abrir una cuenta, cierra estas cinco confusiones. Si no las cierras, vas a pedir milagros y a enfadarte con un programa.
 
@@ -77,7 +77,7 @@ Antes de abrir una cuenta, cierra estas cinco confusiones. Si no las cierras, va
 
 Si alguien te vende “la IA que sustituye al equipo”, pregunta qué tarea concreta, con qué comprobación y quién responde cuando falle. Si no hay respuesta, no es un producto. Es un eslogan.
 
-## Diferencia entre IA y chatbot
+### Diferencia entre IA y chatbot
 
 La **diferencia entre IA y chatbot** importa porque la gente busca “qué es la IA” y acaba en una ventana de ChatGPT. No es lo mismo.
 
@@ -95,7 +95,7 @@ Puedes usar IA todo el día sin abrir un chat. El corrector del teclado, la tran
 
 Cuando alguien te pregunte si “usas IA”, responde con el trabajo: “resumí *este* PDF”, no con “tengo ChatGPT”. El producto es la herramienta. La IA es el mecanismo. El chatbot es la ventana.
 
-## IA generativa: qué significa
+### IA generativa: qué significa
 
 **IA generativa qué significa**, sin folleto: el sistema **genera** una salida que no estaba copiada literal de una única ficha. Compone. Un traductor clásico sustituía frase a frase con reglas. Un modelo generativo produce una versión nueva. Un generador de imágenes pinta píxeles que nadie fotografió exactamente así.
 
@@ -114,7 +114,7 @@ Cómo detectas que estás ante IA generativa y no ante un buscador tonto:
 
 La regla del primer mes: **trata toda cifra, nombre propio, fecha y referencia legal como no verificada** hasta que la contrastes en el original o en una web oficial. El resto (tono, orden, claridad) sí puedes aprovecharlo antes.
 
-## Para qué sirve la IA en el día a día
+### Para qué sirve la IA en el día a día
 
 **Para qué sirve la IA en el día a día** no es “para todo”. Es para tareas de lenguaje y de ordenación donde tú ya tienes el material o el criterio.
 
@@ -140,7 +140,7 @@ Un criterio corto: **si el error te cuesta dinero, salud, derechos o la nota de 
 
 Si quieres el gesto de la primera sesión, no lo alargues aquí. Está en [cómo usar un chatbot de IA por primera vez](/blog/inteligencia-artificial/como-usar-un-chatbot-de-ia-por-primera-vez). Si el problema es que pides “ayúdame” y sale un rollo, el trabajo está en [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva). Si el texto fluye y el dato es falso, [por qué un chatbot se inventa datos](/blog/inteligencia-artificial/por-que-un-chatbot-se-inventa-datos).
 
-## Cómo usarla el primer día (sin ciencia ficción)
+### Cómo usarla el primer día (sin ciencia ficción)
 
 No hace falta un curso. Hace falta **una tarea**, **un documento que puedas comprobar** y **quince minutos**.
 
@@ -173,7 +173,7 @@ Estos fallos no son de “nivel técnico”. Son de expectativa.
 
 **Asustarte o emocionarte con el tono.** “Entiendo que es difícil” no es empatía. Es un patrón de foro. No calienta más el modelo. No hace más verdad el contenido. Ignora el acolchado. Quédate con las viñetas y compruébalas.
 
-## Para aquí
+### Para aquí
 
 Si recuerdas tres líneas, basta:
 

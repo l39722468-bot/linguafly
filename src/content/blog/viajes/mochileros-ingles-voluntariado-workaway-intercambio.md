@@ -42,6 +42,8 @@ faqs:
 
 Muchos mochileros descubren que **aprender inglés para mochileros** deja de ser “pedir un café” cuando entras en **work exchange**: ahí el inglés se vuelve **logístico** (horarios, herramientas), **social** (convivencia) y a veces **emocional** (malentendidos, cansancio). Esta guía te da un marco para presentarte, fijar expectativas y resolver fricción sin quemar puentes.
 
+Quien busca **Inglés para Mochileros: Workaway y Voluntariado** o **mochileros ingles voluntariado workaway intercambio para viajar** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Mensaje inicial al anfitrión: claridad y honestidad
 
 ### Plantilla mental (no copies literal: adáptala)

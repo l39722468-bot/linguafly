@@ -39,6 +39,8 @@ faqs:
 
 ### Bloque A (10 min): lectura con marca previa
 
+Si llegas con la consulta **palabras con b muda como doubt subtle y debt**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 1. Toma un párrafo corto (puedes usar textos de blog educativos).  
 2. Subraya **todas** las **b**.  
 3. Clasifica: ¿probable /b/ o probable silencio?  

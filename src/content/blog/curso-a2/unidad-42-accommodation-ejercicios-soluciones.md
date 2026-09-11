@@ -65,6 +65,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Si llegas con la consulta **accommodation ejercicios**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Lección 1 — Gramática
 
 **Objetivo:** book; check in / check out; I'd like to book; Is there…? / Is breakfast included?

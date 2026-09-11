@@ -41,6 +41,8 @@ Para un hispanohablante, esto significa que hay sonidos del inglés que literalm
 
 ---
 
+Consultas como **Vocales del Inglés Americano: Pronunciación Clara**, **vocales ingles americano** o **vocales del inglés americano para hispanohablantes** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## El sistema vocálico léxico: las "keyword" del inglés americano
 
 Los lingüistas usan un sistema de "palabras clave" para referirse a las vocales del inglés sin depender de la ortografía o del IPA. Cada vocal tiene un nombre basado en una palabra ejemplo. Aquí están las más importantes para hispanohablantes:

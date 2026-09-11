@@ -67,6 +67,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Si llegas con la consulta **ejercicios verbo to be is are**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Lección 1 — Gramática: *is / are*
 
 **Objetivo:** Usar *is* y *are* con *he / she / it / we / they* y decir de dónde eres.

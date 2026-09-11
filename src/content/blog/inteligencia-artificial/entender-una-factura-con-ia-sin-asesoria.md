@@ -71,7 +71,7 @@ Qué no hace falta:
 
 No pidas al modelo “anonimiza y luego explica”. El envío ya ocurrió. Recortas *antes*.
 
-## ChatGPT explica una factura: el prompt
+### ChatGPT explica una factura: el prompt
 
 **ChatGPT explica una factura** (o Gemini, o el chat que uses) si le das el recorte y un verbo estrecho. El oficio de no mezclar diez objetivos está en [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva). El de hoy:
 
@@ -101,7 +101,7 @@ Compruebas con el PDF abierto. Cada número del chat, un dedo en el documento. E
 
 Iteración si se pone en abogado: “Quita ‘puedes reclamar’ y ‘no es legal’. Déjame la tabla y las preguntas. Rehaz.” Un turno. No un prompt nuevo de teatro jurídico.
 
-## Desglosar una factura de luz
+### Desglosar una factura de luz
 
 **Desglosar una factura de luz** (o gas) es el caso que más ruido mete: términos que parecen impuestos, periodos, potencias, peajes. El chat puede traducir *palabras*. No puede auditar tu contador.
 
@@ -134,7 +134,7 @@ Eso ya no es glosario. Es asesoría de un oficio que el chat no tiene. Si la dud
 
 Cifras: el total de las líneas debe sumar el total del PDF. Si el modelo “redondea” y te sale distinto, no uses su suma. Suma tú. Si no cuadra *en el PDF*, esa es una pregunta para la compañía, no un titular del chat: “En el desglose, A+B+C no me da el total D. ¿Pueden indicarme qué línea falta o cómo se obtiene D?”
 
-## Leer una factura de teléfono
+### Leer una factura de teléfono
 
 **Leer una factura de teléfono** (móvil, fibra, pack) usa el mismo molde. Cambia el vocabulario. No cambia el límite.
 
@@ -160,7 +160,7 @@ Dudas que no le pides al modelo como veredicto:
 
 Mismo recorte: sin IBAN, sin NIF, sin IMEI si no hace falta, sin el número completo si puedes dejar “línea A”. El IMEI no explica una cuota. No viaja.
 
-## IA: conceptos de una factura (glosario)
+### IA: conceptos de una factura (glosario)
 
 **IA conceptos de una factura** es un diccionario del texto *pegado*, no de Wikipedia. La diferencia importa. El modelo tiene un promedio de facturas de internet. Tu comercializadora usa otra etiqueta. Gana el PDF.
 
@@ -183,7 +183,7 @@ Si el recorte es corto y el modelo escribe tres párrafos de contexto nacional, 
 
 El glosario no es para reenviárselo a la compañía como peritaje. Es para que *tú* no llames diciendo “es que el chatbot dice”. Llamas con *tus* líneas y *tus* fechas.
 
-## Qué preguntar a la compañía
+### Qué preguntar a la compañía
 
 **Qué preguntar a la compañía** es el entregable útil. Máximo ocho. Concretas. Sin acusar. Con el dato del PDF (periodo, nombre de la línea, importe).
 

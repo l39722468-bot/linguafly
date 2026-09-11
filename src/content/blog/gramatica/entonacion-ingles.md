@@ -41,6 +41,8 @@ La entonación no es decoración. En inglés, es parte del sistema de comunicaci
 
 ---
 
+Consultas como **entonación inglés**, **ejercicios gratis de entonación en inglés** o **entonación ascendente y descendente en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es la entonación y por qué importa tanto
 
 La entonación es el patrón de subidas y bajadas de tono a lo largo de una frase. Todos los idiomas la tienen, pero cada lengua usa sus propios patrones para transmitir distintos tipos de información: si una frase es una pregunta o una afirmación, si el hablante ha terminado de hablar o va a continuar, si algo se da por sabido o es información nueva, si el hablante está sorprendido, irónico, cálido o distante.

@@ -40,6 +40,8 @@ El inglés escocés es uno de los más distintivos de las Islas Británicas. Tie
 
 ---
 
+Si llegas con la consulta **diferencias ingles escoces ingles britanico**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Características fonéticas del inglés escocés
 
 ### El inglés escocés es rótico

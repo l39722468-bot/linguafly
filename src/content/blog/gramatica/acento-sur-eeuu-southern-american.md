@@ -40,6 +40,8 @@ El Southern American English es una de las variedades más estudiadas y más mal
 
 ---
 
+Consultas como **ingles sur estados unidos**, **Southern American English características y ejemplos** o **cómo entender el acento sureño americano** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## El Southern Vowel Shift
 
 El rasgo más característico y sistemático del inglés sureño es el "Southern Vowel Shift", un desplazamiento de las vocales que opera en dirección contraria al desplazamiento que se observa en el norte de EEUU.

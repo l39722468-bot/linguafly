@@ -45,6 +45,8 @@ Consulta también [Will para Promesas y Decisiones Espontáneas](/blog/gramatica
 
 ---
 
+Consultas como **will ofrecimientos ingles**, **cómo hacer ofrecimientos con will en inglés** o **preguntas y peticiones con will ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Ofrecimientos con will
 
 ### La lógica detrás del ofrecimiento

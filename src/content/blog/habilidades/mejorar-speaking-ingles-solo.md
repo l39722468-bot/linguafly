@@ -50,6 +50,8 @@ Esta guía te da **ocho técnicas** que atacan esos tres frentes sin necesidad d
 
 ---
 
+Consultas como **practicar speaking solo**, **Cómo Practicar Speaking en Inglés Estando Solo paso a paso** o **Cómo Practicar Speaking en Inglés Estando Solo con ejercicios** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué "hablar solo" funciona mejor de lo que crees
 
 El cerebro aprende a hablar un idioma **produciendo**, no solo comprendiendo. Cada vez que tu boca articula una frase en inglés, refuerzas las rutas neuronales que conectan el pensamiento con la palabra. Si nunca produces activamente, esas rutas se debilitan.

@@ -39,6 +39,8 @@ Esta guía te da las 10 técnicas más efectivas para desarrollar **fluidez en i
 
 ---
 
+Quien busca **cómo hablar inglés con fluidez gratis** o **técnicas para hablar inglés sin miedo** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## ¿Qué es realmente la fluidez?
 
 La fluidez no significa hablar perfecto ni sin errores. Un hablante fluido es aquel que:
@@ -52,7 +54,7 @@ El objetivo no es hablar como un nativo — es comunicarte con eficacia y confia
 
 ---
 
-## 1. Shadowing: La Técnica del Actor
+### 1. Shadowing: La Técnica del Actor
 
 El **shadowing** consiste en imitar a un hablante nativo en tiempo real: escuchas una frase y la repites inmediatamente, copiando la entonación, el ritmo y el acento.
 
@@ -68,7 +70,7 @@ El **shadowing** consiste en imitar a un hablante nativo en tiempo real: escucha
 
 ---
 
-## 2. Pensar en Inglés: El Monólogo Interior
+### 2. Pensar en Inglés: El Monólogo Interior
 
 El hábito más poderoso para desarrollar fluidez es **pensar en inglés** en tu vida diaria.
 
@@ -81,7 +83,7 @@ Al principio es torpe y lento. Con el tiempo, el idioma empieza a fluir de forma
 
 ---
 
-## 3. Práctica Oral con IA: Sin Miedo al Ridículo
+### 3. Práctica Oral con IA: Sin Miedo al Ridículo
 
 Una de las barreras más grandes para la fluidez es el **miedo a cometer errores** delante de otras personas. Las herramientas de IA como ChatGPT o Claude te permiten practicar conversación sin esa presión.
 
@@ -94,7 +96,7 @@ La IA también puede darte feedback inmediato sobre tus errores y sugerirte expr
 
 ---
 
-## 4. Hablar Solo en Voz Alta
+### 4. Hablar Solo en Voz Alta
 
 Hablar solo puede parecer raro, pero es una de las técnicas más recomendadas por profesores de idiomas.
 
@@ -105,7 +107,7 @@ Hablar solo puede parecer raro, pero es una de las técnicas más recomendadas p
 
 ---
 
-## 5. Conversational Fillers: Hablar sin Pausas Raras
+### 5. Conversational Fillers: Hablar sin Pausas Raras
 
 Los hablantes nativos usan **muletillas** para ganar tiempo mientras piensan. Aprenderlas hace que tu inglés suene mucho más natural:
 
@@ -118,7 +120,7 @@ Los hablantes nativos usan **muletillas** para ganar tiempo mientras piensan. Ap
 
 ---
 
-## 6. Immersive Input: Consumo Diario en Inglés
+### 6. Immersive Input: Consumo Diario en Inglés
 
 La **fluidez avanzada** requiere exposición masiva al idioma real. No basta con estudiar — hay que consumir.
 
@@ -134,7 +136,7 @@ La **fluidez avanzada** requiere exposición masiva al idioma real. No basta con
 
 ---
 
-## 7. Aprender Chunks y Collocations, no Palabras Sueltas
+### 7. Aprender Chunks y Collocations, no Palabras Sueltas
 
 Los hablantes fluidos no recuerdan palabras individuales — recuerdan **bloques de lenguaje** (chunks).
 
@@ -148,7 +150,7 @@ Las **collocations** (combinaciones naturales de palabras) son las que hacen que
 
 ---
 
-## 8. El Método 4-3-2: Velocidad de Habla
+### 8. El Método 4-3-2: Velocidad de Habla
 
 Esta técnica desarrollada por investigadores de adquisición de idiomas mejora la velocidad y confianza al hablar:
 
@@ -162,7 +164,7 @@ Al repetir el mismo contenido en menos tiempo, desarrollas la capacidad de expre
 
 ---
 
-## 9. Tandem Language Exchange
+### 9. Tandem Language Exchange
 
 Un **tandem** es un intercambio lingüístico con un nativo de inglés que quiera aprender español. Media hora en inglés, media hora en español.
 
@@ -176,7 +178,7 @@ Es gratuito, real y enormemente efectivo. Además, tener un interlocutor humano 
 
 ---
 
-## 10. Grabarte y Analizar tu Progreso
+### 10. Grabarte y Analizar tu Progreso
 
 Muchos estudiantes evitan grabarse porque les da vergüenza su acento o sus errores. Es exactamente por eso que deberías hacerlo.
 
@@ -190,7 +192,7 @@ La mejora acumulada de grabación en grabación es uno de los feedbacks más mot
 
 ---
 
-## ¿Cuánto Tiempo para Ser Fluido?
+### ¿Cuánto Tiempo para Ser Fluido?
 
 Para pasar de un nivel B1 a hablar con **fluidez avanzada** (C1), la estimación realista es:
 

@@ -41,6 +41,8 @@ Aquí voy a explicarte exactamente qué ocurre con la R en inglés, por qué es 
 
 ---
 
+Consultas como **pronunciación r inglés**, **cómo pronunciar la r en inglés americano y británico** o **ejercicios gratis para pronunciar la r inglesa** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## El problema de fondo: dos sonidos que no son intercambiables
 
 La R española tiene dos versiones: la R simple o flap /ɾ/ (como en "pero") y la RR vibrante /r/ (como en "perro"). Ambas se producen con la punta de la lengua haciendo contacto rápido o vibrando contra los alvéolos (la zona justo detrás de los dientes superiores).

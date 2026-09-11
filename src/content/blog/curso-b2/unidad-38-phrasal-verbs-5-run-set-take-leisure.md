@@ -51,6 +51,8 @@ excerpt: >-
 
 Este articulo incluye tambien los **ejercicios de la Unidad 38** con soluciones comentadas. Haz cada bloque **sin mirar** la solucion. Luego comprueba y lee la explicacion.
 
+Quien busca **run into run out of run through diferencias** o **set up set off set out set aside inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## 1. RUN: movimiento, suministro y comunicación
 
 **Run into** significa encontrarse con alguien por casualidad o chocar con algo,

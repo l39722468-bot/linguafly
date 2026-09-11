@@ -66,6 +66,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Quien busca **phrasal verbs separables ejercicios** o **pick up put on take off** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Lección 1 — Gramática
 
 **Objetivo:** phrasal verbs separables; pronombre en el medio (turn it off).

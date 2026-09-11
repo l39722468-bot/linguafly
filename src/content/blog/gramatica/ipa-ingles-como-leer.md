@@ -41,6 +41,8 @@ Una vez que entiendes el sistema, /ˈniːðə/ deja de ser un jeroglífico y se 
 
 ---
 
+Consultas como **IPA en Inglés: Cómo Leer el Alfabeto Fonético**, **cómo leer IPA inglés** o **cómo leer los símbolos IPA del inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es el IPA y para qué sirve
 
 El Alfabeto Fonético Internacional (IPA, por sus siglas en inglés) es un sistema de notación creado a finales del siglo XIX por lingüistas franceses y británicos. La idea era simple pero ambiciosa: un símbolo único y consistente para cada sonido de cualquier lengua del mundo.

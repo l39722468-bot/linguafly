@@ -42,6 +42,8 @@ Para el panorama completo del examen, incluyendo bandas y requisitos por país, 
 
 ---
 
+Consultas como **preparar ielts general training**, **IELTS General Training guía completa en español** o **diferencias entre IELTS Academic y General Training** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es igual en ambos formatos
 
 **Listening**: exactamente igual. Cuatro secciones, mismos tipos de preguntas, misma dificultad, mismo tiempo. Lo que practiques para el Academic te sirve para el General.

@@ -62,7 +62,7 @@ Calcetines en baldosa: no. Zapatillas o descalzo si el suelo es serio. Alfombra 
 
 La silla no es trampa. Es cómo dejas de negociar cada repetición con el oído interno. Cuando el gesto baje limpio, sueltas dedos. No el primer día porque un reel lo hacía sin manos.
 
-## Cómo se hace la zancada estática
+### Cómo se hace la zancada estática
 
 ![Zancada estática: EMPUJA el talón de delante, rodilla sobre el pie, una mano en la silla](/blog/entrenamiento/zancada-estatica-en-casa-con-silla/zancada.png)
 
@@ -80,7 +80,7 @@ La rodilla de delante no tiene que quedar clavada en un ángulo de manual. Puede
 
 Cadera relativamente cuadrada. No tuerzas el torso hacia el lado de la silla. Si te enroscas, estás usando el pasamanos de más. El rango que controlas es el rango. Una zancada a media altura, limpia, gana a una profunda que se deshace. Respira. Si te mareas, paras. La primera sesión: dos series de 6 por pierna. El cuaderno: “estática, silla, 2×6, fácil / justo / límite”.
 
-## Paso atrás, no el pasillo
+### Paso atrás, no el pasillo
 
 Estática o paso atrás. Esa es la pareja de este artículo. Caminar por el pasillo llega cuando el equilibrio ya no es el cuello de botella. Si aún bailas, no camines.
 
@@ -96,7 +96,7 @@ Paso atrás más largo no es mejor. Si la rodilla de delante molesta, acorta y b
 
 Cuando el paso atrás también sea limpio, aún no hace falta el pasillo. Tres segundos de bajada. Una pausa abajo. Soltar la silla. El pasillo no es el siguiente peldaño. Llega tarde, o no llega, y el mes igual cuenta.
 
-## Si la rodilla de delante molesta
+### Si la rodilla de delante molesta
 
 Molesta no es “arde el cuádriceps al final de la serie”. Eso es músculo trabajando. Se va al terminar o poco después. El problema es un punto. Al bajar. En la rodilla de delante. A veces debajo de la rótula, o por dentro. Un lado más que el otro.
 
@@ -134,7 +134,7 @@ Añadir peso mientras aún bailas. El peso no arregla el equilibrio. Primero el 
 
 Señales de parar, en corto: pinchazo localizado que empeora al día siguiente, el gesto se acorta, hinchazón, un lado claro y el otro no. Ahí no hay ungüento. Hay menos rango, menos series, o cero zancadas hasta que el punto baje. Si no baja, consulta.
 
-## Cómo progresar sin irte al pasillo
+### Cómo progresar sin irte al pasillo
 
 Una palanca por semana. No tres. El detalle de cómo subir carga está en [progresar sin lesionarte](/blog/entrenamiento/progresar-sin-lesionarte). Aquí, aplicadas a este gesto:
 

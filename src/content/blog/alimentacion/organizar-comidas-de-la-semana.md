@@ -62,7 +62,7 @@ Invertir el orden (comprar “por si acaso” y luego pensar) llena el cajón de
 
 Si además entrenas tres días, el menú no se convierte en una dieta de competición. Se convierte en **no llegar vacío a la sesión ni a la cena**. La [rutina de fuerza en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa) se sostiene mejor cuando la nevera ya tiene proteína a la vista, no cuando cada noche es una negociación.
 
-## Tres cenas para el menú semanal
+### Tres cenas para el menú semanal
 
 Elige **tres cenas** que ya sepas hacer y que te gusten lo suficiente como para repetirlas. Ejemplos reales, no Pinterest:
 
@@ -84,7 +84,7 @@ Si vives con más gente, las tres cenas tienen que ser comestibles para quien co
 
 Nombres útiles para no pensar cada noche: “la de huevo”, “la de legumbre”, “la de horno”. El cerebro cansado entiende etiquetas. No necesita una receta nueva.
 
-## Una semana tipo (para copiar, no para enmarcar)
+### Una semana tipo (para copiar, no para enmarcar)
 
 Esto es un ejemplo, no un dogma. Cámbialo por tus tres cenas.
 
@@ -98,7 +98,7 @@ Esto es un ejemplo, no un dogma. Cámbialo por tus tres cenas.
 
 Los días que entrenas no piden un menú paralelo. Piden que **alguna** de esas comidas tenga proteína e hidrato visibles. El detalle de timing (qué merendar 60 minutos antes) es otro artículo. Aquí el trabajo es que esa merienda exista en la lista, no improvisarla en la máquina de la oficina.
 
-## Batch cooking ligero: una hora el domingo (o el miércoles)
+### Batch cooking ligero: una hora el domingo (o el miércoles)
 
 No cocines siete menús distintos. Cocina **piezas**:
 
@@ -119,7 +119,7 @@ Si el domingo es imposible, 30 minutos un miércoles valen: una bandeja y unos h
 
 Congelar raciones de sopa, guiso o arroz en planas ayuda. Descongelar no es un drama si lo pasas a la nevera por la mañana. Recongelar a lo loco sí lo es: si dudas, fuera.
 
-## Lista de la compra del menú semanal
+### Lista de la compra del menú semanal
 
 La compra sigue al plan, no al revés. El detalle de cómo escribirla y usarla está en [lista de la compra semanal sencilla](/blog/alimentacion/lista-de-la-compra-semanal-sencilla). Aquí basta el orden: primero el plan, después el papel. Escribe primero:
 
@@ -141,7 +141,7 @@ Ir con hambre al súper es cómo se cuelan ultraprocesados que no estaban en la 
 
 Compra online: la misma lista. El clic fácil no es una estrategia distinta; es el mismo carro con peor impulso si no hay plan.
 
-## Cenas rápidas y el comodín (no es fracaso)
+### Cenas rápidas y el comodín (no es fracaso)
 
 Si llegas a casa destrozado, el plan tiene que **ensamblarse**, no cocinarse desde cebolla picada. Huevos, lata, leftover. El comodín evita el pedido; no es un fracaso. Deja a mano:
 
@@ -155,7 +155,7 @@ El comodín no es “fracaso”. Es el sistema anti-pedido automático. Huevos y
 
 Un día de delivery no rompe la semana si es **un** plato y al día siguiente vuelves al menú. Compensar con ayuno al día siguiente sí la rompe: hambre salvaje a las 18:00 y otra vez el pedido.
 
-## Mediodía, tupper y el trabajo
+### Mediodía, tupper y el trabajo
 
 La comida de entre semana es donde el plan se muere en silencio. Solución pequeña: uno o dos tuppers de la misma lógica del plato (proteína, verdura, hidrato), no siete bowls distintos. Recalentar lo que se recienta. Ensalada que es un plato, no lechuga triste.
 
@@ -163,7 +163,7 @@ Si no hay nevera, elige lo que aguanta (bocadillo serio, fruta, frutos secos en 
 
 El menú del día: primero y segundo con verdura a la vista, pan si entra en el hambre, postre fruta más veces que no. No es un examen. Es no volverte loco.
 
-## Plato del día: proteína, verdura e hidrato
+### Plato del día: proteína, verdura e hidrato
 
 Sin volverte nutricionista de Instagram, un plato cotidiano puede responder a tres preguntas:
 
@@ -175,7 +175,7 @@ Si las tres están, el plato aguanta. El detalle está en la [guía práctica de
 
 Si estás subiendo carga en casa o en sala, el menú es parte de no lesionarte de hambre. Recortar el pan el día que entrenas “para definir el primer mes” suele ser ego, no un plan.
 
-## Qué no hace falta para un meal prep sencillo
+### Qué no hace falta para un meal prep sencillo
 
 - Un Excel de macros el primer mes.
 - Recetas de 18 ingredientes.

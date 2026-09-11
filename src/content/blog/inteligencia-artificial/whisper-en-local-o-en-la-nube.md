@@ -63,7 +63,7 @@ Luis, dos archivos el mismo mes:
 
 No mezcles A y B en la misma cuenta personal “porque ya está abierto el chat”.
 
-## OpenAI Whisper guía (qué es, qué no)
+### OpenAI Whisper guía (qué es, qué no)
 
 **OpenAI Whisper guía**, en la práctica, cabe en un bloque. Whisper es un modelo de reconocimiento de voz. Lo entrenaron para pasar audio a texto en varios idiomas, entre ellos el español. No es un acta. No es un notario. No es tu DPD.
 
@@ -84,7 +84,7 @@ Idioma: fíjalo en español si la sala habló español. El “auto” se pierde 
 
 Luis, archivo A. En la API o en el producto: idioma `es` o “español”. En local: el mismo gesto si la herramienta lo ofrece. Si no ofrece idioma, oyes el primer minuto del texto. Si sale en inglés y la sala habló en español, paras y corriges el parámetro. No “mejoras” el inglés con otro chat.
 
-## La API: transcribir en la nube
+### La API: transcribir en la nube
 
 La API (u otro cloud que use Whisper o un modelo parecido) es el atajo cuando **el audio puede salir**.
 
@@ -116,7 +116,7 @@ Qué pierdes:
 
 Límite de tamaño y de minutos: el de cada producto. Si corta a 25 minutos, troceas. No busques un truco para “saltar el tope”. Trocear es el trabajo.
 
-## Transcribir sin subir el audio: whisper.cpp
+### Transcribir sin subir el audio: whisper.cpp
 
 **Transcribir sin subir el audio** es local. El camino habitual se llama **whisper.cpp**: un programa que carga el modelo en tu máquina y lee el fichero. Hay otras implementaciones. El criterio no cambia.
 
@@ -140,7 +140,7 @@ Instalas desde la documentación oficial. Si el equipo no te deja instalar, no f
 
 Luis, archivo B. Modelo *small*. Nora sale “Laura”. Luis oye el tramo y corrige. El mp3 no salió. No sube el .txt “a ver si Claude lo limpia” con los apellidos. Recorta si algún día necesita formato.
 
-## Calidad de un modelo de audio
+### Calidad de un modelo de audio
 
 **Calidad de un modelo de audio** no es “WER de un paper”. Es lo que te pasa el martes:
 
@@ -164,7 +164,7 @@ Español de España: tuteo, “vale”, siglas. Primero texto fiel, aunque feo. 
 
 Luis, webinar A. API. “CRM” sale mal. Lo cambia. Archivo B, local, *small*. Un “no hay presupuesto” sale “hay presupuesto”. Luis oye el tramo. Sin esa escucha, el .txt miente. El recinto no lava la revisión.
 
-## Reunión confidencial y Whisper
+### Reunión confidencial y Whisper
 
 **Reunión confidencial y Whisper** se decide *antes* de abrir la API. Confidencial, aquí, es práctico: la org no quiere ese audio fuera, o el contenido identifica un conflicto, un cliente, una salud, un menor, una clave.
 

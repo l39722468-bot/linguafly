@@ -43,7 +43,11 @@ La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-si
 
 ---
 
-## Error 1: Usar Past Simple con "since"
+Consultas como **Errores con los Tiempos de Pasado en Inglés**, **tiempos pasado ingles errores** o **errores de past simple y present perfect** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
+## Errores frecuentes
+
+### Error 1: Usar Past Simple con "since"
 
 **Por qué ocurre:** En español decimos "vivo aquí desde 2015" en presente. La inercia lleva a los hispanohablantes a trasladar el presente simple al inglés.
 
@@ -55,7 +59,7 @@ La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-si
 
 ---
 
-## Error 2: Present Perfect con marcadores de tiempo pasado cerrado
+### Error 2: Present Perfect con marcadores de tiempo pasado cerrado
 
 **Por qué ocurre:** En el español peninsular, "he ido ayer" o "he comido anoche" suenan posibles en algunos registros. En inglés, nunca.
 
@@ -68,7 +72,7 @@ La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-si
 
 ---
 
-## Error 3: Usar Past Simple donde el Present Perfect es el correcto
+### Error 3: Usar Past Simple donde el Present Perfect es el correcto
 
 **Por qué ocurre:** En el español hablado en Latinoamérica y en muchas otras zonas, el pretérito indefinido sustituye al perfecto. "¿Comiste?" en lugar de "¿Has comido?". Esta inercia se transfiere al inglés.
 
@@ -85,7 +89,7 @@ La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-si
 
 ---
 
-## Error 4: Usar "ago" con Present Perfect
+### Error 4: Usar "ago" con Present Perfect
 
 **Por qué ocurre:** "Ago" se percibe como solo una palabra de tiempo, sin pensar en si el momento está cerrado o no.
 
@@ -96,7 +100,7 @@ La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-si
 
 ---
 
-## Error 5: Did + participio en preguntas e interrogativas
+### Error 5: Did + participio en preguntas e interrogativas
 
 **Por qué ocurre:** El participio del verbo irregular se "pega" en la memoria, y cuando aparece "did" en una pregunta, el cerebro añade la forma irregular por inercia.
 
@@ -109,7 +113,7 @@ La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-si
 
 ---
 
-## Error 6: Was/were con todos los sujetos
+### Error 6: Was/were con todos los sujetos
 
 **Por qué ocurre:** En español, "era" y "estaba" no cambian según la persona de la misma forma que en inglés. "Yo era, tú eras, ellos eran" tienen terminaciones distintas pero el radical es el mismo.
 
@@ -124,7 +128,7 @@ La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-si
 
 ---
 
-## Error 7: Usar Past Continuous para acciones habituales del pasado
+### Error 7: Usar Past Continuous para acciones habituales del pasado
 
 **Por qué ocurre:** El imperfecto español ("comía", "iba") se usa tanto para acciones en progreso como para hábitos pasados. En inglés, el past continuous solo describe acciones en progreso, no hábitos.
 
@@ -136,7 +140,7 @@ La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-si
 
 ---
 
-## Error 8: "For" con puntos de inicio / "Since" con duraciones
+### Error 8: "For" con puntos de inicio / "Since" con duraciones
 
 **Por qué ocurre:** La confusión entre "desde" y "desde hace" en español. Las dos expresiones se traducen de forma distinta en inglés pero parecen similares.
 
@@ -149,7 +153,7 @@ La guía [Present Perfect vs Past Simple](/blog/temas/present-perfect-vs-past-si
 
 ---
 
-## Error 9: Present Perfect Continuous con stative verbs
+### Error 9: Present Perfect Continuous con stative verbs
 
 - ❌ *I've been knowing her for years.*
 - ❌ *She's been wanting this for months.*

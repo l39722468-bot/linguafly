@@ -41,6 +41,8 @@ Los mercados callejeros, bazares y mercadillos son el alma de muchos destinos. S
 
 ---
 
+Consultas como **ingles para mercados**, **ingles mercados regateo viaje para viajar** o **frases de ingles mercados regateo viaje** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## 1. Vocabulario del Mercado
 
 | Término | Significado |

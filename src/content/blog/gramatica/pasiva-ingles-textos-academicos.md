@@ -51,6 +51,8 @@ canonical: 'https://linguafly.app/blog/gramatica/pasiva-ingles-textos-academicos
 
 Si has intentado leer un artículo científico en inglés o escribir un ensayo académico, habrás notado algo: la voz pasiva está en todas partes. No es casualidad ni es un capricho estilístico. En el inglés académico, la pasiva cumple una función precisa: dar objetividad, centrar el foco en los procesos y resultados, y mantener el tono impersonal que se espera en la escritura científica y formal.
 
+Consultas como **pasiva ingles academico**, **cómo usar la voz pasiva en textos académicos** o **voz pasiva para papers y ensayos en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué la pasiva domina el inglés académico
 
 En una conversación, cuando dices *"I found that..."* suena natural. Pero en un artículo de investigación, ese *"I"* repetido crea la sensación de que el trabajo es subjetivo y personal. La ciencia aspira a la objetividad, y la pasiva es el vehículo gramatical de esa objetividad:
@@ -61,7 +63,7 @@ En una conversación, cuando dices *"I found that..."* suena natural. Pero en un
 
 Nadie dice quién encontró, observó o recogió. El foco está en el hallazgo, no en el investigador.
 
-## Estructuras clave en la metodología
+### Estructuras clave en la metodología
 
 La sección de metodología (*Methods* o *Methodology*) es donde la pasiva tiene más presencia. Describe lo que se hizo de forma sistemática y reproducible:
 
@@ -87,7 +89,7 @@ La sección de metodología (*Methods* o *Methodology*) es donde la pasiva tiene
 
 En el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) tienes la guía completa de formación y usos de la pasiva con todos los tiempos verbales.
 
-## Estructuras pasivas para resultados y conclusiones
+### Estructuras pasivas para resultados y conclusiones
 
 En la sección de resultados (*Results*) y discusión (*Discussion*), la pasiva también es dominante:
 
@@ -106,7 +108,7 @@ En la sección de resultados (*Results*) y discusión (*Discussion*), la pasiva 
 - *Further research is needed to...*
 - *These results suggest that more attention should be paid to...*
 
-## La pasiva impersonal: el lenguaje de la cautela científica
+### La pasiva impersonal: el lenguaje de la cautela científica
 
 Los académicos raramente afirman nada con total certeza. La pasiva impersonal (*It is/was + verbo de reporte*) es perfecta para esto:
 
@@ -118,7 +120,7 @@ Los académicos raramente afirman nada con total certeza. La pasiva impersonal (
 
 Esta forma de escribir no es cobardía intelectual; es precisión. El científico distingue entre lo que sabe con certeza y lo que infiere o sugiere.
 
-## Verbos más usados en pasiva académica
+### Verbos más usados en pasiva académica
 
 Algunos verbos aparecen con una frecuencia especialmente alta en textos académicos en pasiva:
 
@@ -137,7 +139,7 @@ Algunos verbos aparecen con una frecuencia especialmente alta en textos académi
 | compare | *Groups were compared using...* |
 | identify | *Patterns were identified in...* |
 
-## Errores frecuentes que hay que evitar
+### Errores frecuentes que hay que evitar
 
 **1. Mezclar personas sin criterio**
 
@@ -160,7 +162,7 @@ A veces sí es importante especificar quién hizo algo:
 
 *"The data was showed"* → *"The data was shown"*. Los participios irregulares son un escollo frecuente.
 
-## Un párrafo de metodología de ejemplo
+### Un párrafo de metodología de ejemplo
 
 > *The study was conducted between January and June 2024. Participants were recruited through online advertisements and were divided into two groups of thirty. Each participant was asked to complete a standardized anxiety questionnaire before and after the intervention. The results were recorded anonymously and were stored in a password-protected database. Statistical analysis was performed using R software (version 4.2.1). Significance was set at p < 0.05.*
 

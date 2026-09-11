@@ -49,6 +49,8 @@ canonical: 'https://linguafly.app/blog/gramatica/pasiva-modales-ingles'
 
 Si alguna vez has leído las instrucciones de un medicamento, un manual técnico o la política de empresa de alguna organización en inglés, habrás visto frases como *"this must be taken with food"*, *"the form should be submitted before the deadline"* o *"these results can be improved"*. Los modales en pasiva son absolutamente esenciales en inglés formal, y también aparecen constantemente en exámenes como Cambridge B2 y C1.
 
+Consultas como **pasiva verbos modales ingles**, **cómo formar la pasiva con verbos modales** o **must be should be could be en pasiva** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La estructura: más sencilla de lo que parece
 
 Independientemente del modal que uses, la fórmula no cambia:
@@ -72,7 +74,7 @@ Ejemplos con los modales más frecuentes:
 | shall be | *All disputes shall be resolved by arbitration.* | muy formal/legal |
 | ought to be | *This ought to be investigated.* | deber moral |
 
-## Must be: obligación sin negociación
+### Must be: obligación sin negociación
 
 *Must be + participio* indica que algo es obligatorio o imprescindible. Es el tono de los reglamentos, instrucciones y normas de seguridad:
 
@@ -83,7 +85,7 @@ Ejemplos con los modales más frecuentes:
 En negativa, *must not be* indica prohibición:
 - *This document must not be shared outside the company.*
 
-## Should be y ought to be: recomendación
+### Should be y ought to be: recomendación
 
 Estos dos expresan que algo es aconsejable o que debería hacerse, pero sin la imposición de *must*:
 
@@ -95,7 +97,7 @@ Estos dos expresan que algo es aconsejable o que debería hacerse, pero sin la i
 
 Para ver esta estructura en el contexto global de la voz pasiva, échale un vistazo al hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles).
 
-## Can be y could be: capacidad y posibilidad
+### Can be y could be: capacidad y posibilidad
 
 *Can be* expresa que algo es posible de hacer o que existe la capacidad de realizarlo:
 - *This process can be automated.*
@@ -107,14 +109,14 @@ Para ver esta estructura en el contexto global de la voz pasiva, échale un vist
 - *This approach could be reconsidered.*
 - *The issue could be related to the update.*
 
-## Might be y may be: posibilidad con incertidumbre
+### Might be y may be: posibilidad con incertidumbre
 
 Ambos expresan que algo es posible pero no seguro. *May be* es más formal:
 - *The event may be cancelled due to bad weather.*
 - *The package might be delayed by customs.*
 - *Your request may be reviewed within 10 days.*
 
-## Pasado con modales en pasiva: have been + participio
+### Pasado con modales en pasiva: have been + participio
 
 Para hablar del pasado con modales, la estructura cambia:
 
@@ -127,7 +129,7 @@ Para hablar del pasado con modales, la estructura cambia:
 
 Este es el punto que más confunde, porque hay tres elementos consecutivos (*modal + have been + participio*) y es fácil olvidar uno. La clave es que *have been* nunca cambia: siempre es exactamente así.
 
-## Negativas: dos funciones distintas
+### Negativas: dos funciones distintas
 
 En negativa, los modales en pasiva pueden expresar cosas muy diferentes:
 
@@ -138,7 +140,7 @@ En negativa, los modales en pasiva pueden expresar cosas muy diferentes:
 
 Fíjate en que *cannot be* (una palabra o dos: *can't be*) indica imposibilidad, mientras que *may not be* indica que no está permitido.
 
-## Frases de instrucciones y normativas
+### Frases de instrucciones y normativas
 
 Aquí tienes ejemplos del tipo de lenguaje que encontrarás en documentos reales:
 
@@ -159,7 +161,7 @@ Aquí tienes ejemplos del tipo de lenguaje que encontrarás en documentos reales
 - *The budget should be reviewed before final approval.*
 - *Any discrepancies must be reported immediately.*
 
-## Ejercicio de síntesis
+### Ejercicio de síntesis
 
 Completa con la forma correcta del modal + pasiva:
 

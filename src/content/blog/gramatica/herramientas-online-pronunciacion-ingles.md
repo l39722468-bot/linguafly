@@ -42,6 +42,8 @@ Ninguna herramienta es perfecta. Pero combinadas de forma inteligente, pueden tr
 
 ---
 
+Consultas como **herramientas pronunciacion ingles**, **mejores herramientas online para pronunciación inglesa** o **apps gratis para mejorar la pronunciación en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Herramientas para analizar y corregir tu pronunciación
 
 ### ELSA Speak

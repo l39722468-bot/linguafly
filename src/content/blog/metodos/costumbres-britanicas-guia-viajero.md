@@ -42,6 +42,8 @@ Esta guía te prepara para navegar la cultura del Reino Unido con confianza, ent
 
 ---
 
+Consultas como **costumbres britanicas**, **Guía completa de costumbres y cultura británica para hispanohablantes** o **author: linguafly-team** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La Regla de Oro: El Queuing (La Cola)
 
 Si hay una sola cosa que debes saber sobre la **cultura anglosajona** británica, es esto: los británicos son expertos en hacer cola y les toman muy en serio.

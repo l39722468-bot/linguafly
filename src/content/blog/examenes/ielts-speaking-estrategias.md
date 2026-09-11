@@ -42,6 +42,8 @@ Antes de entrar en los detalles del Speaking, si quieres ver cómo encaja con el
 
 ---
 
+Quien busca **cómo preparar las tres partes del IELTS Speaking** o **estrategias gratis para IELTS Speaking Band 7** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Las tres partes del IELTS Speaking
 
 ### Part 1 (4-5 minutos): Preguntas personales

@@ -44,6 +44,8 @@ Para una visión completa del sistema modal, la guía [Verbos Modales en Inglés
 
 ---
 
+Quien busca **Verbos Modales en Inglés: Guía y Ejercicios** o **verbos modales ingles pdf** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Las 4 Reglas de Oro (Nivel Académico)
 
 Antes de profundizar, graba estas reglas en tu mente. Son las que marcan la diferencia en un examen oficial:

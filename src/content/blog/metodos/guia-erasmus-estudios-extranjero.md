@@ -38,6 +38,8 @@ canonical: 'https://linguafly.app/blog/metodos/guia-erasmus-estudios-extranjero'
 
 El programa Erasmus y otras experiencias de intercambio universitario son una oportunidad transformadora, no solo académica sino también lingüística. Si vas a estudiar en un país anglófono —o si el idioma de tu intercambio va a ser el inglés— esta guía te da todo el vocabulario y las frases que necesitarás.
 
+Quien busca **guia erasmus estudios extranjero** o **Guía Erasmus para aprender inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ---
 
 ## 🏫 El Sistema Universitario Anglosajón: Vocabulario Clave

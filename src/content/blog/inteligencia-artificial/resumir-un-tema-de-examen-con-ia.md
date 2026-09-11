@@ -96,7 +96,7 @@ Comprobación mínima del esquema:
 
 Un esquema de una página cabe. Uno de ocho páginas es otro manual: primer nivel y definiciones. El segundo nivel solo si el temario lo numera.
 
-## Apuntes de examen con inteligencia artificial: qué pegar
+### Apuntes de examen con inteligencia artificial: qué pegar
 
 **Apuntes de examen con inteligencia artificial** quiere decir: el modelo trabaja el texto que le das. No el campus entero. No internet.
 
@@ -119,7 +119,7 @@ Anonimiza si hace falta: “el profesor”, “el caso de la página 7”.
 
 En oposición el mapa suele ser un índice publicado; en la universidad, la guía docente. El chatbot no publica ninguno. Si las notas mezclan tres semanas, recorta tú el tema 8 antes de pegar.
 
-## Qué puede caer y qué es relleno
+### Qué puede caer y qué es relleno
 
 **Qué puede caer y qué es relleno** no es una predicción. El modelo no tiene el examen. No se lo pidas. “Puede caer” aquí significa: *según el temario que te han dado y según tus notas*, qué epígrafes están marcados como materia y qué párrafos son ejemplo, anécdota o digresión.
 
@@ -145,7 +145,7 @@ Lo que no haces:
 
 Si el profesor publicó criterios (“entra el procedimiento, no las sentencias sueltas”), pegas *esa* frase. Entonces “no entra” es una orden tuya. No una corazonada del chat.
 
-## La IA no es el temario oficial
+### La IA no es el temario oficial
 
 **IA no el temario oficial.** Esta línea es el límite del artículo. El boletín, la guía docente, el PDF del profesor, el índice de la academia *que tú usas* mandan. El chat ordena. No legisla.
 
@@ -159,7 +159,7 @@ En oposición, una norma cambia y el chat se queda viejo. En universidad, el pro
 
 No uses el resumen como cita ni como entregable. Si el modelo se niega, no busques un truco para saltarte el filtro. Recorta un fragmento lícito que ya es tuyo, o estudias sin el chat.
 
-## Resumen para memorizar: definiciones y huecos
+### Resumen para memorizar: definiciones y huecos
 
 **Resumen para memorizar** no es un muro de texto. Es el esquema ya contrastado más las definiciones de una frase más los huecos a la vista. Lo que no puedes repetir sin mirar, aún no está memorizado. El chat no memoriza por ti.
 
@@ -189,7 +189,7 @@ El resumen no sustituye las [fichas de estudio a partir de tus apuntes](/blog/in
 
 Tope de tamaño: si el tema oficial tiene doce epígrafes, el resumen tiene doce frases más los huecos. Si el modelo te devuelve un folleto, recorta. Memorizar un folleto del chat es memorizar alucinaciones con formato bonito.
 
-## Ejemplo trabajado: Nuria, tema 8, páginas 3-11
+### Ejemplo trabajado: Nuria, tema 8, páginas 3-11
 
 Nuria prepara un **tema de oposición o universidad**: Gestión, tema 8, procedimiento administrativo. Tiene: (a) la lista de epígrafes del temario que usa su academia, impresa; (b) sus apuntes, páginas 3 a 11 de un cuaderno pasado a limpio. No tiene el examen. No va a pedirlo. El viernes hay un simulacro *suyo*, con el temario cerrado.
 
@@ -210,7 +210,7 @@ Salida del modelo (resumida): ocho títulos, definiciones, y un epígrafe extra:
 
 Lo que Nuria no haría: “redacta el tema a desarrollar para copiarlo”; “dime las preguntas del último examen”; “completa el temario como si fueras el BOE”. El modelo no entrega la oposición. Nuria tampoco se la hace entregar.
 
-## Errores al resumir un tema con IA
+### Errores al resumir un tema con IA
 
 **Pedir el examen.** El resumen sale sesgado hacia lo que el modelo cree que “cae”. Tú querías tus epígrafes.
 
@@ -230,7 +230,7 @@ Lo que Nuria no haría: “redacta el tema a desarrollar para copiarlo”; “di
 
 **Pedir que complete los huecos** o pegar el libro que no es tuyo. Completar es inventar temario. El clip no te da derechos.
 
-## Para aquí
+### Para aquí
 
 **Resumir un tema de examen con IA** cabe en cinco líneas:
 

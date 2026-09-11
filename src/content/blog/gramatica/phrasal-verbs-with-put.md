@@ -41,6 +41,8 @@ Esta guía analiza todos los **phrasal verbs con PUT** más importantes, con su 
 
 ---
 
+Quien busca **put phrasal verbs lista** o **phrasal verbs con put más usados en inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## La Lógica de PUT
 
 El significado base de PUT es "colocar algo en un lugar". Esta idea de movimiento y posición influye en muchos de sus phrasal verbs, aunque de forma metafórica:

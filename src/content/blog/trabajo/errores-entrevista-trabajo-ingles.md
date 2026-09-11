@@ -49,6 +49,8 @@ canonical: 'https://linguafly.app/blog/trabajo/errores-entrevista-trabajo-ingles
 
 Las entrevistas en inglés tienen una capa extra de dificultad: además de presentarte bien como candidato, tienes que hacerlo en otro idioma. Eso multiplica las posibilidades de cometer errores. Estos son los más frecuentes.
 
+Consultas como **errores más comunes entrevista trabajo inglés**, **qué no hacer en una entrevista de trabajo en inglés** o **errores entrevista trabajo ingles para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Errores de preparación
 
 **No investigar la empresa.** Llegar a una entrevista sin saber qué hace la empresa, cuáles son sus productos o qué retos enfrenta es el error más fácil de evitar y el que más daño hace. El entrevistador nota inmediatamente si no te has preparado. Dedica al menos una hora a leer la web, los últimos comunicados de prensa y el perfil de LinkedIn de la empresa.
@@ -57,7 +59,7 @@ Las entrevistas en inglés tienen una capa extra de dificultad: además de prese
 
 **No practicar en inglés.** Preparar las respuestas mentalmente en español y luego traducir en el momento es una receta para bloquearse. Practica en voz alta, en inglés, preferiblemente con otra persona o grabándote.
 
-## Errores de comunicación
+### Errores de comunicación
 
 **Respuestas demasiado largas.** El miedo a no dar suficiente información lleva a muchos candidatos a respuestas de 5-7 minutos que pierden al entrevistador a mitad. Una respuesta STAR bien estructurada dura entre 90 segundos y 2 minutos. Aprende a terminar.
 
@@ -67,7 +69,7 @@ Las entrevistas en inglés tienen una capa extra de dificultad: además de prese
 
 **Usar demasiados fillers.** *"Um"*, *"like"*, *"you know"*, *"basically"* en exceso restan credibilidad y hacen que parezcas menos seguro. Una pausa silenciosa suena más profesional que rellenarla con muletillas.
 
-## Errores de vocabulario y registro
+### Errores de vocabulario y registro
 
 **Hablar demasiado informal.** Una entrevista en inglés, incluso si el ambiente parece relajado, requiere un registro profesional. Evita contracciones excesivas, slang (*"stuff"*, *"kinda"*, *"gonna"*) y expresiones muy coloquiales en tus respuestas principales.
 
@@ -75,7 +77,7 @@ Las entrevistas en inglés tienen una capa extra de dificultad: además de prese
 
 **Traducir literalmente del español.** Construcciones como *"I am agree"* (en lugar de *"I agree"*), *"I have [X] years"* (en lugar de *"I have been working for [X] years"*) o *"It depends of"* (en lugar de *"It depends on"*) son errores frecuentes que conviene identificar y trabajar antes.
 
-## Errores de estrategia
+### Errores de estrategia
 
 **Criticar a empleadores anteriores.** Es uno de los errores más eliminatorios. Cuando pregunten por qué dejaste tu trabajo anterior, nunca hables mal de tu ex-empresa o de tus superiores. Da razones positivas orientadas al crecimiento:
 
@@ -91,7 +93,7 @@ Las entrevistas en inglés tienen una capa extra de dificultad: además de prese
 
 En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) encontrarás recursos para trabajar cada aspecto del proceso.
 
-## Errores en entrevistas virtuales
+### Errores en entrevistas virtuales
 
 **Fondo o iluminación descuidados.** Una llamada con fondo desordenado o iluminación que te deja en sombras da una imagen de poca atención al detalle.
 
@@ -105,7 +107,7 @@ La mayor parte de los errores en entrevistas tienen una cosa en común: son evit
 
 Para una preparación completa de tu entrevista de trabajo en inglés, consulta la [Guía Completa para Preparar tu Entrevista de Trabajo en Inglés](/blog/trabajo/preparar-entrevista-trabajo-ingles).
 
-## Diagnóstico práctico antes de la entrevista
+### Diagnóstico práctico antes de la entrevista
 
 Grábate respondiendo a “Tell me about yourself” en 90 segundos. Escucha claridad, evidencia y muletillas; repite hasta poder hablar sin leer un guion. La meta no es borrar tu acento, sino que el entrevistador entienda tu contribución a la primera.
 
@@ -119,7 +121,7 @@ Errores típicos y correcciones:
 
 Si no entiendes, pregunta: “Could you rephrase that, please?” o “Do you mean my technical experience or my communication style?” Pedir precisión demuestra criterio. Prepara tarjetas STAR con solo tres palabras clave por historia: *Situation: delayed launch; Task: recover timeline; Action: prioritised tests; Result: launched two weeks earlier*. Así adaptas la respuesta sin memorizar párrafos.
 
-## Checklist de 24 horas
+### Checklist de 24 horas
 
 - [ ] Investigué producto, competidores y valores de la empresa.
 - [ ] Tengo cinco historias STAR con cifras y verbos en pasado.

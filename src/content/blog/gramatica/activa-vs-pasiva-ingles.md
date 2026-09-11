@@ -50,6 +50,8 @@ canonical: 'https://linguafly.app/blog/gramatica/activa-vs-pasiva-ingles'
 
 Hay un error frecuente en la enseñanza del inglés: presentar la voz pasiva como si fuera una complicación que hay que aprender para los exámenes y luego evitar. La realidad es que activa y pasiva no compiten. Son herramientas distintas para situaciones distintas, y saber usar las dos con criterio es lo que marca la diferencia entre un nivel B1 y un B2-C1 real.
 
+Consultas como **activa vs pasiva ingles**, **diferencia entre voz activa y pasiva en inglés** o **cómo transformar activa a pasiva con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La diferencia fundamental
 
 En la **voz activa**, el sujeto realiza la acción:
@@ -64,7 +66,7 @@ En la **voz pasiva**, el sujeto recibe la acción:
 
 Lo que cambia es el **foco**. En activa, el foco está en quien actúa. En pasiva, el foco está en lo que ocurre o en el objeto que recibe la acción.
 
-## Cuándo la voz activa es la opción correcta
+### Cuándo la voz activa es la opción correcta
 
 **1. Cuando el agente es importante y relevante**
 
@@ -88,7 +90,7 @@ La pasiva aquí ralentizaría innecesariamente el ritmo.
 En correos, instrucciones simples o mensajes cotidianos, la activa evita ambigüedades:
 - *Please send the report by Friday.* (Más directo que "The report should be sent by Friday.")
 
-## Cuándo la voz pasiva es la opción correcta
+### Cuándo la voz pasiva es la opción correcta
 
 **1. Cuando el agente es desconocido o irrelevante**
 
@@ -124,7 +126,7 @@ Si el foco del mensaje es lo que fue afectado, la pasiva lo pone en primer plano
 
 El hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) cubre en detalle todos los tiempos y variantes de la pasiva si quieres profundizar en su formación.
 
-## Tabla comparativa rápida
+### Tabla comparativa rápida
 
 | Situación | Voz recomendada |
 |---|---|
@@ -139,7 +141,7 @@ El hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) cubre en detalle t
 | El objeto es el foco del mensaje | Pasiva |
 | Normativas e instrucciones formales | Pasiva |
 
-## Cómo afecta a los exámenes
+### Cómo afecta a los exámenes
 
 En Cambridge B2 y C1, la pasiva aparece en varias partes:
 
@@ -149,7 +151,7 @@ En Cambridge B2 y C1, la pasiva aparece en varias partes:
 
 Un error común en el writing de exámenes es usar siempre activa, lo que limita el registro. Otro error es abusar de la pasiva en textos que piden un tono más directo.
 
-## Ejercicio de reflexión
+### Ejercicio de reflexión
 
 Lee estas dos versiones y piensa cuál es más apropiada según el contexto:
 

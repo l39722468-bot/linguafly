@@ -74,7 +74,7 @@ Antes de lanzarlo:
 
 No lo uses para: salud, “¿firmo?”, identidad de terceros, un TFM, bibliografía de depósito. El informe largo fabrica autoridad. El tribunal no se impresiona. El cliente tampoco debería.
 
-## Cuándo un modo lento ayuda
+### Cuándo un modo lento ayuda
 
 **Cuándo un modo lento ayuda** se decide *antes* de pulsar. No después, cuando ya tienes quince páginas.
 
@@ -138,7 +138,7 @@ Sirve para no saltarte una cifra. **No sirve como contraste.** El contraste es e
 
 PDFs y páginas largas en una cita: usas el buscador del lector. No des por bueno el párrafo del informe. El original gana. Siempre.
 
-## Seguir comprobando citas
+### Seguir comprobando citas
 
 **Seguir comprobando citas** no se relaja porque el producto “haya investigado”. El modo lento comete los mismos errores que un chat con Search: enlace que no carga, página que habla de otra cosa, fecha vieja, sentido invertido, paper plausible.
 
@@ -164,7 +164,7 @@ Si una cita es un paper: misma disciplina que siempre. doi.org o la revista. Abs
 
 El volumen no rebaja el listón. Lo sube. Hay más sitios donde equivocarse. NO ESTÁ sigue siendo NO ESTÁ.
 
-## No es un analista senior
+### No es un analista senior
 
 **No un analista senior.** La frase hay que poder repetirla al jefe. Un senior (el de carne, el de tu equipo, el consultor que firmáis) tiene encargo, contexto interno, criterio de descarte, responsabilidad. El modo lento tiene un índice y un rastreo. Confundirlos es el error de producto.
 
@@ -196,7 +196,7 @@ Si te piden “que lo mire un analista”, no envías el PDF de ChatGPT. Envías
 
 Tampoco es tu TFM. Un máster no se deposita con un Deep Research. Si alguien te lo sugiere, esa es otra conversación y no esta URL.
 
-## Ejemplo: Héctor, un informe, tres hechos
+### Ejemplo: Héctor, un informe, tres hechos
 
 Héctor coordina proyectos en una asociación. Quiere un panorama: qué *tipos* de instrumentos públicos de apoyo a pymes culturales aparecen en webs oficiales de España, 2025-2026 (ayudas, bonificaciones nombradas en guías, líneas de un ministerio). El martes hay un comité de una hora. No pide si “les conviene”. No pide un dictamen fiscal. No pide un TFM.
 
@@ -230,7 +230,7 @@ Tarda. Sale un informe de muchas páginas: historia del sector, un apartado de F
 
 Si la pregunta hubiera sido “¿esta convocatoria concreta sigue abierta?”, Héctor no habría usado el modo lento. Diez minutos, tres enlaces, sede. Perplexity o Google. El dossier habría sido teatro.
 
-## Errores con el modo profundo
+### Errores con el modo profundo
 
 **Tratar el PDF del chat como entregable.** Es borrador. El entregable son tus líneas y tus URLs abiertas.
 
@@ -250,7 +250,7 @@ Si la pregunta hubiera sido “¿esta convocatoria concreta sigue abierta?”, H
 
 **Confundirlo con un analista senior.** No firma. No conoce el interno. No descarta por ti.
 
-## Para aquí
+### Para aquí
 
 Cuando uses **Deep Research de un chatbot**:
 

@@ -79,23 +79,28 @@ Cuentas: **datos personales y ChatGPT** (u otro) en cuenta personal no es “mi 
 
 **Información sensible en inteligencia artificial** se ve mejor con pegados reales, no con la palabra “sensible”.
 
-**Ejemplo 1. El email de reclamación.**  
+### Ejemplo 1. El email de reclamación
+
 Mal: pegas el hilo entero con nombre de la vecina, dirección, DNI en el encabezado de una factura, cuenta bancaria para la devolución.  
 Bien: “Persona A, comunidad de vecinos, importe N, plazo de 10 días, el hecho es una derrama mal calculada según el acta del día D. Reescribe en 90 palabras, tono firme, sin insultos. No inventes preceptos.”
 
-**Ejemplo 2. El contrato de alquiler.**  
+### Ejemplo 2. El contrato de alquiler
+
 Mal: PDF completo con DNI de ambas partes, nómina adjunta, cuenta. Pedir “¿esto es legal?” además de ser un mal uso (no es un abogado) es un envío masivo de datos. Cómo cargar un archivo público y qué recortar está en [subir un PDF a un chatbot: qué hacer y qué no](/blog/inteligencia-artificial/subir-un-pdf-a-un-chatbot-que-hacer-y-que-no).  
 Bien: copias *una cláusula* ya anonimizada (“el fiador responde de…”) y pides: “Explícame esta cláusula en lenguaje llano. Lista tres preguntas para un profesional. No opines si firmar.”
 
-**Ejemplo 3. El parte médico.**  
+### Ejemplo 3. El parte médico
+
 Mal: “Te pego la analítica y la receta, dime qué tengo.”  
 Bien: no pegas. Anotas tres términos que no entiendes y, en la consulta, preguntas. Si insistes en el chat: términos sueltos, sin nombre, y pides definiciones de diccionario, no un diagnóstico. Aun así, el médico manda.
 
-**Ejemplo 4. El Excel de la pyme.**  
+### Ejemplo 4. El Excel de la pyme
+
 Mal: exportas clientes con teléfono y email “para que me hagas un email de cobro masivo”.  
 Bien: una fila ficticia o una plantilla sin datos reales. El modelo aprende el formato igual. Los clientes no tienen por qué viajar.
 
-**Ejemplo 5. El WhatsApp del colegio.**  
+### Ejemplo 5. El WhatsApp del colegio
+
 Mal: capturas con nombres de menores y el conflicto entre familias.  
 Bien: “Hay un conflicto de calendario. Tres hechos en abstracto. Prepárame un mensaje neutro de cinco líneas a la tutora, sin adjetivos.”
 
@@ -142,13 +147,19 @@ Ninguno de estos riesgos se arregla con “por favor, no guardes esto” dentro 
 
 La privacidad no acaba en *qué* pegas. Acaba en *quién puede abrir esa ventana después*.
 
-**Ordenador de la casa o de la biblioteca.** Cierra sesión al terminar. No dejes el chat abierto en una pestaña. El historial visible es el documento. Si la cuenta es tuya y el aparato no, asume que alguien puede pulsar “arriba” y leer.
+### Ordenador de la casa o de la biblioteca
+
+Cierra sesión al terminar. No dejes el chat abierto en una pestaña. El historial visible es el documento. Si la cuenta es tuya y el aparato no, asume que alguien puede pulsar “arriba” y leer.
 
 **Móvil.** Las notificaciones pueden mostrar el primer renglón de la respuesta. Si el renglón es un nombre o un diagnóstico, cualquier persona detrás de ti en el metro lo ve. Desactiva previsualización de esa app si vas a usarla fuera de casa. Mejor: no pongas ese contenido en el chat.
 
-**Exportar la conversación.** Algunos productos dejan bajar un JSON o un PDF. Útil para un prompt que te sirvió (cópialo a tu editor y borra el resto). Malo si exportas un hilo con datos y lo sueltas en un Drive compartido “para tener backup”. El backup es otra copia. Trátalo como el original.
+### Exportar la conversación
 
-**Enlaces de compartir chat.** Si el producto genera una URL pública o semi-pública, esa URL *es* el texto. No la uses para un expediente. No la mandes por un grupo de WhatsApp “para que lo vea el equipo” si el equipo no debía ver los nombres.
+Algunos productos dejan bajar un JSON o un PDF. Útil para un prompt que te sirvió (cópialo a tu editor y borra el resto). Malo si exportas un hilo con datos y lo sueltas en un Drive compartido “para tener backup”. El backup es otra copia. Trátalo como el original.
+
+### Enlaces de compartir chat
+
+Si el producto genera una URL pública o semi-pública, esa URL *es* el texto. No la uses para un expediente. No la mandes por un grupo de WhatsApp “para que lo vea el equipo” si el equipo no debía ver los nombres.
 
 **Fotos y pantallazos.** Subir la captura de una nómina o de un DNI “porque así el modelo lee mejor” es el mismo envío, con peor control. Si hace falta un número, escríbelo tú ya recortado. Si no hace falta, no está.
 

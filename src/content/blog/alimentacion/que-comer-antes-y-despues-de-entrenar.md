@@ -63,7 +63,7 @@ Anota dos semanas: hora de sesión, qué comiste antes, qué comiste después, s
 
 El método no pide un Excel de macros ni un menú de siete cenas. Pide que el reloj de las 20:00 y el de las 19:00 se hablen.
 
-## Lo que importa (y lo que es teatro)
+### Lo que importa (y lo que es teatro)
 
 Importa:
 
@@ -83,7 +83,7 @@ La “ventana anabólica” de 20 minutos es un eslogan. Quien entrena tres día
 
 Veinticinco minutos en el pasillo no son un maratón. No copies el antes/después de quien entrena dos horas. Tu problema es logístico: un bocado a tiempo y un plato al volver.
 
-## Antes: tres distancias
+### Antes: tres distancias
 
 **Si faltan 2 horas o más.** Un plato normal. Las tres piezas. Arroz y pollo y verdura. Lentejas y pan. Tostada, huevo, tomate. No es un “pre-entreno”. Es la comida. Si esa comida ya estaba pensada, mejor: no decides con el temporizador encima.
 
@@ -105,7 +105,7 @@ Snack concreto, siempre el mismo si puedes: un yogur natural; un plátano; una t
 
 Si entrenas a las 7 de la mañana, el “antes” es un caso aparte: o desayunas algo mínimo, o asumes que no es ayunas heroico de revista. El desayuno de las 7 y el texto de ayunas cubren ese hueco. Aquí basta la regla: **fuerza y estómago vacío de verdad casi nunca se llevan bien el primer mes**.
 
-## Después: el plato, no el premio
+### Después: el plato, no el premio
 
 Cuando terminas, tres caminos:
 
@@ -126,7 +126,7 @@ Beber: agua. Si sudaste de verdad un verano entero, un poco de sal en la comida,
 
 El “me lo he ganado” no cambia el tamaño del plato hacia tres menús. A veces hay más hambre: comes un poco más del mismo tipo. Eso es oído. Pedir triple es otra cosa.
 
-## Un día tipo (mañana, mediodía, noche)
+### Un día tipo (mañana, mediodía, noche)
 
 **Sesión a las 7.** Noche anterior: cena completa, no un café con leche. Por la mañana: yogur o tostada, o la versión mínima que no te revuelva. Después: desayuno de verdad si entrenaste en casi ayunas, o el desayuno que ya tenías si comiste algo. El trabajo no espera: por eso el bocado tiene que estar a la vista, no inventarse en el metro. El menú concreto de esa tostada es el otro artículo. Aquí: hay un antes, hay un después, no hay vacío heroico.
 
@@ -136,7 +136,7 @@ El “me lo he ganado” no cambia el tamaño del plato hacia tres menús. A vec
 
 Alcohol post-entreno: peor recuperación, peor sueño. Una cerveza de vez en cuando no es el tema de este texto. Convertir el afterwork en la cena del día de sentadilla sí lo es: elige.
 
-## Lo que no hace falta comprar
+### Lo que no hace falta comprar
 
 - Geles.
 - Isotónicas de sofá.
@@ -149,7 +149,7 @@ El supermercado de siempre basta: huevos, yogur, pan, fruta, arroz, una proteín
 
 El batido es un atajo cuando no hay cocina. Viaje, taquilla, tren. No es una virtud. No hace falta marca. Si hay leftover, leftover gana.
 
-## Errores clásicos alrededor de la sesión
+### Errores clásicos alrededor de la sesión
 
 - **Café solo y sentadilla.** A veces sale. A menudo, no. No es un protocolo.
 - **No merendar “para quemar más”** y llegar salvaje a las 21:00. Recortas la sesión o la cena. Pierdes las dos.
@@ -162,7 +162,7 @@ El batido es un atajo cuando no hay cocina. Viaje, taquilla, tren. No es una vir
 - **Cronometrar 20 minutos** y angustiarte en el metro. Cenas cuando cenes, en la hora siguiente razonable.
 - **Inventar un menú paralelo** solo los días de gym. El plato de siempre, a su hora.
 
-## Agua, sal y lo que no es un gel
+### Agua, sal y lo que no es un gel
 
 Veinticinco minutos en el salón casi nunca piden isotónica. Agua en la botella. Si es agosto y sudaste de verdad, la comida posterior con un poco de sal basta. El gel de competición es para otra distancia y otra persona.
 
@@ -172,7 +172,7 @@ Si cenas fuera el día de entreno: un plato, verdura a la vista, no tres entrada
 
 Cardio suave el mismo día: un paseo no pide un menú de maratón. Fuerza de noche: cena completa, no “ligera de definir”. Doble sesión: casi nunca; si ocurre, come en medio un plato, no un gel.
 
-## Viaje, reunión, nevera ajena
+### Viaje, reunión, nevera ajena
 
 Reunión que se come la merienda: yogur de máquina, fruta, bocadillo. Mejor eso que cancelar o hacerla heroica en vacío. El plan B no es el pilar; el pilar es el plato a dos horas.
 
@@ -182,7 +182,7 @@ Nevera de otro, oficina sin microondas, obra: lo que aguanta. Bocadillo serio. F
 
 Niños a la hora de merendar: su merienda y la tuya pueden ser la misma lógica (yogur, fruta, pan). No hace falta un tupper de competición encima de los deberes.
 
-## Cuatro semanas para dejar de improvisar
+### Cuatro semanas para dejar de improvisar
 
 **Semana 1.** Elige hora de sesión y escribe qué comes 2 horas antes. Aunque sea tostada y huevo. Si esa comida no existe, la inventas ahora, no a las 21:50.
 

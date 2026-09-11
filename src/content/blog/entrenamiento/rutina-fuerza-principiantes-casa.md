@@ -54,7 +54,7 @@ No es un plan de calistenia avanzada, ni de hipertrofia de competición, ni de �
 
 Tampoco es fisioterapia. Si un gesto pincha de forma localizada y empeora al día siguiente, paras ese gesto y, si hace falta, consultas. Seguir “porque es suave” es cómo se convierten las molestias en parones de tres meses.
 
-## Qué hace falta en casa (casi nada)
+### Qué hace falta en casa (casi nada)
 
 ![Los seis gestos: sentadilla, flexión, puente, plancha, zancada y remo con mochila, con flechas de empuje y tirón](/blog/entrenamiento/rutina-fuerza-principiantes-casa/gestos.png)
 
@@ -64,7 +64,7 @@ Zapatillas o descalzo, si el suelo es serio y no te molestan los pies. Ropa con 
 
 Antes de la primera sesión, prueba la mesa: si se mueve al apoyarte, no es tu estación de flexiones. Prueba la silla: si rueda, cámbiala. El material “casi nada” sigue teniendo que ser estable.
 
-## Rutina de fuerza en casa: la sesión de 25 minutos
+### Rutina de fuerza en casa: la sesión de 25 minutos
 
 Hazla tres veces por semana, con un día de por medio. No hace falta que sean siempre lunes-miércoles-viernes. Hace falta que **existan** tres sesiones, no que el calendario de Instagram quede bonito.
 
@@ -94,7 +94,7 @@ Descansa 60-90 segundos entre ejercicios si lo necesitas. Entre vueltas, 2 minut
 
 Respira. Estira suave gemelos y pecho. Acaba. No añadas un “abdo milagro” de cuatro minutos porque el vídeo lo pedía. Ya has entrenado tronco en la plancha y en cada compuesto.
 
-## Cómo hacer cada patrón sin convertirte en un tutorial de YouTube
+### Cómo hacer cada patrón sin convertirte en un tutorial de YouTube
 
 No hace falta clavar una sentadilla de powerlifting el martes. Hace falta un patrón repetible.
 
@@ -112,7 +112,7 @@ No hace falta clavar una sentadilla de powerlifting el martes. Hace falta un pat
 
 El detalle fino de cada gesto ya tiene pieza propia: [sentadilla de la silla al aire](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire), flexión pared-mesa-suelo, puente, plancha, zancada con silla y remo con mochila. Aquí el trabajo es **meter los seis en 25 minutos, tres veces**, no coleccionar variantes.
 
-## Cómo progresar las primeras 4 semanas (sin material)
+### Cómo progresar las primeras 4 semanas (sin material)
 
 La regla es simple: **si terminas la serie pudiendo hacer 2 repeticiones más con buena cara, sube un peldaño** la semana siguiente.
 
@@ -134,7 +134,7 @@ Una semana tipo, para no improvisar cada lunes:
 
 Si una sesión sale mal (sueño, estrés, resfriado leve), no “la recuperas” el domingo con doble sesión. Haces la de 15 minutos o saltas el día y mantienes las otras dos. Tres sesiones mediocres en el mes ganan a una heroica y una semana en el sofá.
 
-## Si solo tienes 15 minutos
+### Si solo tienes 15 minutos
 
 No tires la sesión. Tira el relleno.
 
@@ -144,7 +144,7 @@ Lo que no es fuerza de 15 minutos: cuatro minutos de escaladores, un minuto de p
 
 Dos bloques de 10 minutos en el mismo día (mañana y noche) valen si de verdad los haces. No valen si el segundo bloque nunca llega. Una sesión que existe gana a un plan partido que vive en la cabeza.
 
-## Lo que suele romper a los principiantes en casa
+### Lo que suele romper a los principiantes en casa
 
 - **Entrenar todos los días “porque es suave”.** El estímulo pequeño también necesita recuperación. Tres días bien hechos ganan a siete días a medias.
 - **Buscar el ardor como prueba.** El ardor no es el objetivo; **repetir el movimiento mejor** sí lo es.
@@ -154,7 +154,7 @@ Dos bloques de 10 minutos en el mismo día (mañana y noche) valen si de verdad 
 - **Hacer la sesión en ayunas heroico y marearte.** Si entrenas a las 7 y el estómago lo pide, un yogur o un pan con algo cuenta. Ayunar de teatro casi nunca es la palanca.
 - **Comparar tu semana 2 con un powerlifter.** El espejo del gimnasio ajeno no programa tu salón.
 
-## Días de descanso si entrenas en casa
+### Días de descanso si entrenas en casa
 
 Camina. Muévete. Duerme. Los días que no hay sesión no son días de “entrenamiento suave que no deja recuperar”: un paseo sí; un circuito de 40 minutos “ligero” suele ser otra sesión disfrazada.
 
@@ -162,7 +162,7 @@ Come [proteína en las comidas principales](/blog/alimentacion/proteina-hidratos
 
 Agujetas las primeras semanas son normales si el patrón es nuevo. Dolor localizado que empeora al día siguiente no lo es. Ante la duda, baja una palanca (menos vueltas, versión más fácil) en vez de buscar un ungüento y repetir igual.
 
-## Cuándo añadir una mochila o ir al gimnasio
+### Cuándo añadir una mochila o ir al gimnasio
 
 Cuando esta plantilla te sepa a poco **de forma honesta** (no por aburrimiento de un miércoles): las 12 sentadillas al aire salen fáciles con pausa, la flexión de mesa ya es casi suelo, la plancha de 40 segundos es estable, y llevas al menos un mes de tres sesiones reales.
 

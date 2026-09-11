@@ -69,7 +69,7 @@ Lo que no cuenta como progresión seria:
 
 La variedad tiene sitio más adelante, cuando el patrón ya existe. Al principio, la variedad es cómo se esconde la falta de registro.
 
-## Los tejidos no firman el mismo contrato
+### Los tejidos no firman el mismo contrato
 
 El músculo puede sentirse “ya” a las dos semanas. El tendón, la inserción, la rodilla que lleva ocho horas de silla, no. Por eso un salto de carga que el ego ve pequeño (del 8 al 12, o dos discos de golpe) es grande para un tejido que se adapta más despacio.
 
@@ -79,7 +79,7 @@ Si tienes 40 o más, o vuelves después de años, el desfase suele ser mayor. El
 
 Dolor agudo, hinchazón, un gesto que se corta o un chasquido que no tenías: paras ese gesto y, si hace falta, un profesional. Este artículo no diagnostica. Señala cuándo **no** seguir subiendo.
 
-## Una semana tipo para subir carga
+### Una semana tipo para subir carga
 
 Imagina press de banca, flexiones o sentadilla al aire:
 
@@ -96,7 +96,7 @@ Ejemplo en casa, flexión inclinada: semana 1 en mesa alta 3×8; semana 2 3×10;
 
 En sala, el disco más pequeño gana al ego del disco grande. Si el salto mínimo de la máquina es enorme, quédate más semanas en repeticiones y control. No todos los stacks están pensados para principiantes. Eso no es una ofensa personal.
 
-## Cómo registrar (el anti-lesión aburrido)
+### Cómo registrar (el anti-lesión aburrido)
 
 Anota fecha, ejercicio, series, repeticiones, carga o versión (mesa / suelo / mochila), y una palabra: fácil, justo, límite. El móvil basta. No hace falta una app de 14 gráficos.
 
@@ -110,7 +110,7 @@ Fotos o un vídeo de lado, de vez en cuando, para ver si la sentadilla se está 
 
 Un compañero que cuenta mal las repeticiones no es un registrador. Cuenta tú.
 
-## Señales de que te estás lesionando (y qué no es señal)
+### Señales de que te estás lesionando (y qué no es señal)
 
 Agujeta difusa a las 24-48 horas, sobre todo las primeras semanas de un patrón nuevo, es común. Puedes entrenar alrededor: menos rango o menos series en ese gesto, el resto igual. No es medalla. Tampoco es condena.
 
@@ -126,7 +126,7 @@ Ante esas señales: baja una palanca (menos carga o menos series), no busques un
 
 Si el dolor es agudo, hay hinchazón, el gesto se va o algo “salta”, no es este artículo: es parar ese movimiento y, si toca, consulta. Entrenar con dolor agudo “para no perder el día” es cómo se pierde el mes.
 
-## Cuándo no subir (aunque el ego quiera)
+### Cuándo no subir (aunque el ego quiera)
 
 No añadas palanca si:
 
@@ -140,7 +140,7 @@ Viaje de diez días: un mínimo (sesión corta, dos patrones) o un parón consci
 
 Estancamiento de verdad (mismas repeticiones limpias tres semanas, sueño y comida en orden): entonces sí, una palanca. Antes, sospecha del registro, del sueño o de haber cambiado de rutina cada lunes.
 
-## Ego, espejo y calendario
+### Ego, espejo y calendario
 
 El ego quiere el peso de otra persona. El espejo quiere cambios en 14 días. El calendario de los tejidos pide **meses**. Tres entrenamientos decentes a la semana, durante un trimestre, dejan más rastro que un mes heroico y tres de baja.
 
@@ -148,7 +148,7 @@ Compararte con quien levanta más en el rincón no programa tu semana. Tampoco e
 
 El ardor no es el marcador. El fallo técnico (la repetición que ya no es el gesto) tampoco es un logro: es el sitio donde paraste tarde. Deja repeticiones en recámara. RIR o RPE son nombres para eso; no hace falta tatuárselos. En cristiano: termina pudiendo hacer una o dos más con forma.
 
-## Recuperación: dormir, proteína, no vivir en el fallo
+### Recuperación: dormir, proteína, no vivir en el fallo
 
 Progresar también es:
 

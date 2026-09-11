@@ -42,6 +42,8 @@ Si quieres entender cómo encaja el Listening con el examen completo, la [guía 
 
 ---
 
+Quien busca **estrategias IELTS Listening para subir de banda** o **ejercicios gratis de IELTS Listening con respuestas** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## La estructura del IELTS Listening
 
 Cuatro secciones, diez preguntas cada una, dificultad creciente:

@@ -45,6 +45,8 @@ En 2026, el inglés sigue siendo la *lingua franca* global. No importa si estás
 
 ---
 
+Si llegas con la consulta **Inglés para Viajar: Frases y Vocabulario Esencial**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## 1. El Aeropuerto: Domina la "Zona de Estrés"
 
 El viaje comienza con el check-in y los controles de seguridad. Son momentos donde la rapidez y la claridad son vitales para evitar perder un vuelo o tener problemas con las autoridades.
@@ -62,7 +64,7 @@ El viaje comienza con el check-in y los controles de seguridad. Son momentos don
 
 ---
 
-## 2. Alojamiento: Tu Hogar Lejos de Casa
+### 2. Alojamiento: Tu Hogar Lejos de Casa
 
 Tu hotel o Airbnb es tu refugio. Saber gestionar incidencias o pedir información básica hará tu estancia mucho más placentera.
 
@@ -79,7 +81,7 @@ Tu hotel o Airbnb es tu refugio. Saber gestionar incidencias o pedir informació
 
 ---
 
-## 3. Gastronomía: Más allá del "Chicken or Pasta"
+### 3. Gastronomía: Más allá del "Chicken or Pasta"
 
 Comer fuera es uno de los mayores placeres de viajar. No dejes que el idioma te limite a las cadenas de comida rápida.
 
@@ -95,7 +97,7 @@ Comer fuera es uno de los mayores placeres de viajar. No dejes que el idioma te 
 
 ---
 
-## 4. Transporte y Direcciones: Muévete como un Local
+### 4. Transporte y Direcciones: Muévete como un Local
 
 Perderse puede ser parte de la aventura, pero saber volver al hotel es fundamental.
 
@@ -111,7 +113,7 @@ Perderse puede ser parte de la aventura, pero saber volver al hotel es fundament
 
 ---
 
-## 5. El "Small Talk": Conectando con los Locales
+### 5. El "Small Talk": Conectando con los Locales
 
 Lo que diferencia un buen viaje de uno inolvidable son las personas que conoces. No tengas miedo de romper el hielo.
 
@@ -125,7 +127,7 @@ Lo que diferencia un buen viaje de uno inolvidable son las personas que conoces.
 
 ---
 
-## 6. Tecnología y Viajes: Apps de Apoyo
+### 6. Tecnología y Viajes: Apps de Apoyo
 
 Aunque es genial saber hablar, la tecnología es tu aliada en 2026.
 *   **Google Maps**: No solo para mapas, sino para leer reseñas y horarios de transporte en inglés.
@@ -134,7 +136,7 @@ Aunque es genial saber hablar, la tecnología es tu aliada en 2026.
 
 ---
 
-## 7. Emergencias: Seguridad ante todo
+### 7. Emergencias: Seguridad ante todo
 
 Esperamos que no las necesites, pero estas frases pueden salvarte de un gran apuro. Consulta también nuestra guía de **[emergencias en inglés](/blog/viajes/frases-ingles-emergencias-viajes)**.
 
@@ -145,13 +147,13 @@ Esperamos que no las necesites, pero estas frases pueden salvarte de un gran apu
 
 ---
 
-## Conclusión: Tu Pasaporte a la Libertad
+### Conclusión: Tu Pasaporte a la Libertad
 
 Viajar con inglés es como viajar con un seguro de confianza. No se trata de no cometer errores; se trata de que los errores no arruinen tu experiencia. Lo que necesitas es inglés práctico orientado a situaciones reales: pedir indicaciones, quejarte de una habitación de hotel, entender acentos diferentes al británico estándar.
 
 ---
 
-## Guías de inglés para viajeros
+### Guías de inglés para viajeros
 
 - [Curso de Inglés para Viajar: Plan de 6 Semanas por Niveles](/blog/viajes/curso-de-ingles-para-viajar)
 - [Frases en inglés para emergencias en viajes](/blog/viajes/frases-ingles-emergencias-viajes)

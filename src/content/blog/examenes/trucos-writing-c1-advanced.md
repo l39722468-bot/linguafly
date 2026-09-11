@@ -41,6 +41,8 @@ alt: Redacción a mano de un essay de C1 Advanced con conectores señalados
 ## 1. Abandona los Conectores Básicos
 Un examinador de C1 bosteza cuando lee *"In my opinion"* o *"Moreover"*. Si quieres puntos extra, necesitas usar conectores de alto nivel que demuestren riqueza léxica.
 
+Consultas como **trucos writing c1 advanced**, **consejos Writing C1 Advanced Cambridge** o **cómo mejorar la nota del Writing CAE** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 *   **En lugar de "In my opinion"**: Prueba con *"From my perspective"*, *"It is my firm conviction that"* o *"I am inclined to believe that"*.
 *   **En lugar de "Moreover"**: Usa *"Furthermore"*, *"Additionally"*, o incluso mejor, estructuras como *"Not only... but also..."*.
 

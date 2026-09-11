@@ -51,6 +51,8 @@ canonical: 'https://linguafly.app/blog/trabajo/entrevista-ingles-sin-experiencia
 
 Una de las situaciones más comunes entre candidatos que hablan inglés como segundo idioma: llegar a una entrevista con un nivel de inglés decente pero sin saber qué contar porque "no tienen experiencia". La buena noticia es que los entrevistadores de perfiles junior no esperan lo mismo que de un candidato sénior. Esperan otra cosa: potencial, actitud y claridad.
 
+Consultas como **entrevista trabajo inglés sin experiencia laboral**, **cómo responder entrevista inglés primer empleo junior** o **Entrevista en Inglés sin Experiencia** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Lo que el entrevistador busca en un candidato sin experiencia
 
 Cuando una empresa contrata a alguien sin experiencia profesional, está haciendo una inversión a futuro. Lo que evalúa es:
@@ -62,7 +64,7 @@ Cuando una empresa contrata a alguien sin experiencia profesional, está haciend
 
 Ninguno de estos puntos requiere experiencia laboral formal. Todos se pueden demostrar con los ejemplos correctos.
 
-## Dónde buscar tus ejemplos
+### Dónde buscar tus ejemplos
 
 Si no tienes experiencia laboral, estos son los lugares donde puedes encontrar material para tus respuestas:
 
@@ -88,7 +90,7 @@ Si no tienes experiencia laboral, estos son los lugares donde puedes encontrar m
 - Proyectos de programación o diseño
 - Cualquier iniciativa que hayas llevado de principio a fin
 
-## Cómo adaptar la técnica STAR sin experiencia laboral
+### Cómo adaptar la técnica STAR sin experiencia laboral
 
 La estructura sigue siendo válida, solo cambian los escenarios:
 
@@ -98,7 +100,7 @@ La estructura sigue siendo válida, solo cambian los escenarios:
 **Ejemplo de trabajo bajo presión:**
 *"In my final exam period, I had three major deadlines within the same week and was also working part-time (Situation). I needed to manage all of it without letting any area slip (Task). I mapped out every hour of that week and prioritised ruthlessly — I also asked for a shift swap at work to free up two evenings (Action). I submitted all three pieces of work on time and passed all three (Result)."*
 
-## Frases útiles para candidatos sin mucha experiencia
+### Frases útiles para candidatos sin mucha experiencia
 
 **Para introducirte:**
 - *"I'm at the early stages of my career, but I've developed strong skills in [área] through [cómo]."*
@@ -117,7 +119,7 @@ La estructura sigue siendo válida, solo cambian los escenarios:
 
 En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) encontrarás más recursos para cada fase del proceso, incluyendo cómo preparar tu CV y cómo gestionar el seguimiento después de la entrevista.
 
-## Lo que no debes hacer
+### Lo que no debes hacer
 
 **Disculparte constantemente por tu falta de experiencia.** Decir *"I know I don't have much experience, but..."* antes de cada respuesta pone el foco en lo que no tienes. Pon el foco en lo que sí tienes.
 

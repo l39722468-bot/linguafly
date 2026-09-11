@@ -38,6 +38,8 @@ El problema con esas situaciones no es tu nivel de inglés. Es que nadie te ense
 
 ---
 
+Consultas como **acentos inglés británico regionales**, **principales acentos regionales del inglés británico** o **cómo entender Cockney Scouse y Geordie gratis** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## El mito del inglés británico uniforme
 
 El Reino Unido tiene la mayor densidad de variantes dialectales por kilómetro cuadrado de cualquier país de habla inglesa. En un país relativamente pequeño conviven acentos tan distintos entre sí que dos nativos de regiones diferentes a veces tienen que esforzarse para entenderse. Los lingüistas calculan que hay más de cuarenta acentos regionales reconocibles en Inglaterra sola, sin contar Escocia, Gales e Irlanda del Norte.

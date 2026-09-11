@@ -45,6 +45,8 @@ Para ver cómo encajan dentro del sistema modal completo, la guía [Verbos Modal
 
 ---
 
+Consultas como **semi-modales ingles**, **semi-modales en inglés con ejemplos y ejercicios** o **diferencia entre used to y would para hábitos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Used to: hábitos y estados del pasado
 
 **Used to + infinitivo** se usa para hablar de algo que hacías regularmente en el pasado pero que ya no haces, o de una situación que existía antes pero que ha cambiado.
@@ -68,7 +70,7 @@ Diferencia con *would* (también para hábitos pasados):
 
 ---
 
-## Be able to: habilidad en todos los tiempos
+### Be able to: habilidad en todos los tiempos
 
 *Be able to* es el sustituto de *can* cuando necesitas hablar de habilidad en tiempos donde *can* no funciona.
 
@@ -91,7 +93,7 @@ Diferencia con *would* (también para hábitos pasados):
 
 ---
 
-## Need to: necesidad en todos los tiempos
+### Need to: necesidad en todos los tiempos
 
 *Need to* es el equivalente de *must* y *have to* para cuando necesitas otros tiempos o formas.
 
@@ -114,7 +116,7 @@ La negación *don't need to* indica que algo no es necesario — igual que *don'
 
 ---
 
-## Had better: advertencia y consejo urgente
+### Had better: advertencia y consejo urgente
 
 *Had better* (casi siempre en forma contraída: *'d better*) expresa un consejo con un matiz de advertencia — algo malo podría pasar si no se hace.
 
@@ -133,7 +135,7 @@ Importante: *had better* no tiene otro tiempo verbal. Es solo para el presente/f
 
 ---
 
-## Be supposed to: expectativas y acuerdos
+### Be supposed to: expectativas y acuerdos
 
 *Be supposed to* indica que algo se espera según un plan, norma, acuerdo o expectativa externa. Con frecuencia implica que esa expectativa no se está cumpliendo.
 
@@ -154,7 +156,7 @@ La diferencia con *should*: *should* es tu opinión sobre lo que es conveniente;
 
 ---
 
-## Dare: atreverse (como semi-modal y como verbo normal)
+### Dare: atreverse (como semi-modal y como verbo normal)
 
 *Dare* puede funcionar de dos formas:
 
@@ -171,7 +173,7 @@ En inglés hablado moderno, *dare* como semi-modal es raro. El uso más natural 
 
 ---
 
-## Resumen comparativo
+### Resumen comparativo
 
 | Semi-modal | Función principal | Ejemplo |
 |-----------|-------------------|---------|

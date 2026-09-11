@@ -67,7 +67,7 @@ Tres reglas de partida:
 
 Eso es el mismo gesto que [cómo comprobar si una respuesta de IA es fiable](/blog/inteligencia-artificial/como-comprobar-si-una-respuesta-de-ia-es-fiable), aplicado a celdas, no a URLs. Extraes la afirmación (el total). La abres donde debería estar (la fórmula). Si no está, NO ESTÁ.
 
-## Licencia, hoja tuya, no la del cliente en un chat personal
+### Licencia, hoja tuya, no la del cliente en un chat personal
 
 Pregunta a IT, en una frase:
 
@@ -81,7 +81,7 @@ Si la hoja identifica a un cliente, a un trabajador o a un menor: no la subes a 
 
 El libro se queda en OneDrive / SharePoint de la org si así lo tenéis. No es el tema de este artículo. El tema: no haces una copia a tu Gmail para “preguntarle a ChatGPT las fórmulas”. Eso ya no es Excel Copilot. Es sacar la tabla.
 
-## Pedir una fórmula en lenguaje natural (SUMIFS de Nacho)
+### Pedir una fórmula en lenguaje natural (SUMIFS de Nacho)
 
 La hoja de Nacho. Gastos de formaciones, septiembre. Recorte ya sin NIF. Así está, en una tabla Excel (filas 1–12; la 1 es encabezado):
 
@@ -146,7 +146,7 @@ Corrección puntual:
 
 Un turno. **Copilot excel fórmula** es eso. No un dashboard.
 
-## Comprobar el número: una celda que puedas auditar
+### Comprobar el número: una celda que puedas auditar
 
 **No fiarte de un número de Copilot** es una regla de celda, no de carácter. El panel puede acertar. Da igual. Sin G2 (o la celda que sea), no hay número para el correo ni para el informe.
 
@@ -166,7 +166,7 @@ Cuándo parar:
 - Te pide “el resto de meses para completar el trimestre”. No están en A1:E12. Completar sería inventar. No pegas otra hoja de un cliente “para contexto”.
 - Empieza a hablar de IVA, de “gasto deducible”, de “esto en el 347”. Cierras. Eso no era la pregunta. La pregunta era Norte + Pagado.
 
-## Copilot tablas dinámicas (tú sabes el origen)
+### Copilot tablas dinámicas (tú sabes el origen)
 
 **Copilot tablas dinámicas** puede crear una tabla dinámica: filas por Centro, valores Suma de Importe, filtro Estado = Pagado. Útil. No es magia. Tú sigues sabiendo:
 

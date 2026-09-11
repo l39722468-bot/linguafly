@@ -61,7 +61,7 @@ En los tres casos el texto se lee bien. Por eso **jurisprudencia falsa** no se p
 
 Tampoco es un despacho. [La IA no sustituye a un profesional colegiado](/blog/inteligencia-artificial/la-ia-no-sustituye-a-un-profesional-colegiado) cubre el acto. Esta página cubre el identificador. Puedes preparar [preguntas a partir de una cláusula](/blog/inteligencia-artificial/consejo-juridico-el-limite-claro) sin pedir jurisprudencia. En cuanto pides “el artículo que lo ampara”, alimentas el molde.
 
-## ChatGPT y el artículo del código: ejemplo trabajado
+### ChatGPT y el artículo del código: ejemplo trabajado
 
 **ChatGPT artículo del código** es la petición típica. Tú quieres un número para el email o para “ir preparado”. El chat te lo da. Tú no lo has abierto.
 
@@ -103,7 +103,7 @@ Copias *solo* “Real Decreto 1847/2023”. En el BOE, número y año. Si no hay
 
 Este ejemplo no te dice qué dice el Código sobre fianzas. No es esa página. Te dice el gesto: **identificador → sitio emisor → leer el párrafo → usar o tachar.** El chat no entra en la cadena como fuente.
 
-## Jurisprudencia falsa: la STS que hay que abrir en CENDOJ
+### Jurisprudencia falsa: la STS que hay que abrir en CENDOJ
 
 **Jurisprudencia falsa** tiene el mismo molde, con más campos: tribunal, sala, número, fecha, “recurso de casación”, un fundamento que parece citado entre comillas.
 
@@ -134,7 +134,7 @@ Pasos en CENDOJ, el mismo martes:
 
 Comillas inventadas: el chat a veces fabrica un “fundamento jurídico 4” con prosa de tribunal. Aunque el tono sea el de siempre, **no está** hasta que lo ves en el texto de la resolución abierta. Una frase elegante no es el CENDOJ. Un ECLI que no resuelve en el repositorio es el mismo caso que la URL del BOE con id de relleno: dominio o formato reales, ficha falsa.
 
-## Comprobar en el BOE (y no en el chat)
+### Comprobar en el BOE (y no en el chat)
 
 **Comprobar en el BOE** es el gesto de esta página, no un tutorial de derecho. Tipo de disposición + número + año. Luego la fecha. Luego el título. Si número y año no salen, paras. No intentes salvar el título.
 
@@ -152,7 +152,7 @@ Si un ítem no se abre en pocos minutos, no lo uses *hoy*. Un hueco (“precepto
 
 Pedir “más jurisprudencia para confirmar” es el error que alimenta la lista. Paras. Abres una pestaña oficial. O cierras.
 
-## Abogados y alucinaciones: no citar el hilo
+### Abogados y alucinaciones: no citar el hilo
 
 **Abogados y alucinaciones** no es un género aparte. Es el mismo predictor con un coste profesional. Un particular que pega un 412 inventado en un email a la propiedad comete un error. Quien ejerce y pega una STS inventada en un escrito comete un error que no se arregla con “el modelo me lo dio”. El colegiado no se apoya en un chatbot como fuente. El chatbot no figura en el repertorio.
 

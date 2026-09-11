@@ -38,6 +38,8 @@ canonical: 'https://linguafly.app/blog/viajes/ingles-en-la-cocina'
 
 Tanto si quieres trabajar en el sector hostelero de un país anglófono, seguir recetas en inglés o simplemente ver programas de cocina como MasterChef o The Great British Bake Off sin perderte nada, el vocabulario culinario en inglés es esencial.
 
+Si llegas con la consulta **ingles en la cocina para viajar**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Esta guía cubre desde los utensilios básicos hasta las técnicas de cocina más sofisticadas.
 
 ---

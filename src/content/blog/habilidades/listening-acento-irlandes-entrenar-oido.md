@@ -38,6 +38,8 @@ Esta guía te propone un **plan de cuatro semanas** con objetivos claros, materi
 
 ---
 
+Consultas como **entrenar oido acento irlandes**, **Cómo Entender el Acento Irlandés** o **author: linguafly-team** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué hace “difícil” el listening irlandés (y cómo lo neutralizas)
 
 Antes de elegir podcasts, conviene saber **qué te va a chocar** en el oído, porque así eliges ejercicios que lo trabajan de forma directa.
@@ -54,7 +56,7 @@ La neutralización no pasa por “escuchar más a lo loco”, sino por **ciclos 
 
 ---
 
-## Materiales que sí te preparan (y cuáles te estancan)
+### Materiales que sí te preparan (y cuáles te estancan)
 
 **Útiles desde el primer día**
 
@@ -74,7 +76,7 @@ La neutralización no pasa por “escuchar más a lo loco”, sino por **ciclos 
 
 ---
 
-## Semana 1: Calibración y vocabulario de soporte
+### Semana 1: Calibración y vocabulario de soporte
 
 **Objetivo:** reconocer el “paisaje sonoro” irlandés y asociar cinco patrones recurrentes a ejemplos concretos.
 
@@ -88,7 +90,7 @@ La neutralización no pasa por “escuchar más a lo loco”, sino por **ciclos 
 
 ---
 
-## Semana 2: Ritmo, weak forms y “palabras pegadas”
+### Semana 2: Ritmo, weak forms y “palabras pegadas”
 
 **Objetivo:** dejar de depender del encadenamiento perfecto entre palabras y empezar a oír **unidades de significado**.
 
@@ -110,7 +112,7 @@ No imites caricatura; imita **ritmo y agrupación silábica**. Elige un hablante
 
 ---
 
-## Semana 3: Voces múltiples y cambio de registro
+### Semana 3: Voces múltiples y cambio de registro
 
 **Objetivo:** soportar **cambios de hablante** y de registro (formal vs coloquial) sin perder el hilo.
 
@@ -124,7 +126,7 @@ En una hoja, columnas: *Speaker A / Speaker B / Idea clave / Palabra nueva*. Cad
 
 ---
 
-## Semana 4: Simulación de examen y comprensión en condiciones incómodas
+### Semana 4: Simulación de examen y comprensión en condiciones incómodas
 
 **Objetivo:** mantener comprensión con **fatiga** y con **una sola escucha** en tramos seleccionados.
 
@@ -140,7 +142,7 @@ En una hoja, columnas: *Speaker A / Speaker B / Idea clave / Palabra nueva*. Cad
 
 ---
 
-## Errores típicos que frenan el progreso
+### Errores típicos que frenan el progreso
 
 **Solo subtítulos en español.** Te exime de reconciliar sonido y grafía en inglés; al quitarlos, el vacío es total.
 
@@ -150,7 +152,7 @@ En una hoja, columnas: *Speaker A / Speaker B / Idea clave / Palabra nueva*. Cad
 
 ---
 
-## Cómo encajar este plan si trabajas o estudias a tiempo completo
+### Cómo encajar este plan si trabajas o estudias a tiempo completo
 
 Reduce a **15 minutos diarios** pero mantén la **estructura** (calentamiento + comprobación + una repetición). Cuatro días efectivos por semana durante seis semanas suelen rendir mejor que un “domingo maratón” de tres horas que luego olvidas.
 
@@ -158,7 +160,7 @@ Si vas a **Irlanda** pronto, añade en la semana 3–4 cinco minutos diarios de 
 
 ---
 
-## Análisis de errores: qué suele fallar en la transcripción
+### Análisis de errores: qué suele fallar en la transcripción
 
 Cuando transcribes, no te obsesiones con cada artículo o preposición el primer día. Prioriza **palabras de contenido léxico** (sustantivos, verbos principales, adjetivos evaluativos) y **marcadores discursivos** (*actually*, *I mean*, *to be fair*, *sure look* en registros coloquiales irlandeses). Si fallas en una función gramatical pequeña pero aciertas la proposición central, estás entrenando lo que importa para la vida real y para exámenes.
 
@@ -168,13 +170,13 @@ Otro fallo es **confundir nombre propio con palabra común**. En entrevistas apa
 
 ---
 
-## Cómo combinar esta rutina con speaking
+### Cómo combinar esta rutina con speaking
 
 El listening mejora antes si tu boca ha probado los mismos **clusters consonánticos** y finales de palabra. Después de cada sesión de shadowing, graba 60 segundos tuyos resumiendo el audio. No busques sonar irlandés; busca **claridad** con ritmo parecido. Al escucharte, comparas: ¿omitiste la /r/ final porque tu L1 la “borra”? ¿Tu entonación plana hace que tus preguntas suenen a afirmaciones? Esas micro-diferencias son las mismas que te confunden al escuchar a otros.
 
 ---
 
-## Conclusión
+### Conclusión
 
 Entrenar el oído para el acento irlandés es un entrenamiento de **patrones**: roticidad, matices de /th/, entonación narrativa y ritmo conversacional. Con cuatro semanas de escucha activa, transcripciones parciales y shadowing controlado, la mayoría de estudiantes B1+ notan un salto claro en la primera escucha. No necesitas vivir en Dublín; necesitas **repetición deliberada** con feedback honesto.
 

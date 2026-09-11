@@ -61,7 +61,7 @@ Esta página no te autoriza a saltarte las condiciones. Tampoco sustituye la nor
 
 Crear una cuenta “para deberes” con un correo del menor cuando el producto no lo admite no es un atajo educativo. Es el mismo tipo de truco que luego no controlas: recuperación de clave, historial, mensajes que tú no ves.
 
-## Cuenta de adulto, no un login prestado a ciegas
+### Cuenta de adulto, no un login prestado a ciegas
 
 Una sesión, una persona. El plan familiar o el Plus compartido no convierte el historial en un cuaderno de dos columnas.
 
@@ -81,7 +81,7 @@ Qué hacer:
 
 El menor no debe tener un chatbot de consumo como diario con nombre real. Tampoco como rincón donde pega el conflicto del patio con apellidos.
 
-## Supervisar un uso de IA (en la misma mesa)
+### Supervisar un uso de IA (en la misma mesa)
 
 **Supervisar un uso de IA** no es instalar un discurso. Es estar. Misma mesa, misma pantalla, misma tarea, y un criterio para parar.
 
@@ -107,7 +107,7 @@ No hace falta una lista de horrores. Con no estar ya basta para que el uso se de
 
 Si el menor está enfermo o hay una duda de salud: no pegas síntomas ni fotos al chat. No es una consulta. El límite está en [consejo médico: el límite claro](/blog/inteligencia-artificial/consejo-medico-el-limite-claro). Citas, teléfono del centro de salud, urgencias si toca. No esta ventana. Esta página no da un triage.
 
-## Deberes y un modelo de lenguaje: el trabajo lo hace el alumno
+### Deberes y un modelo de lenguaje: el trabajo lo hace el alumno
 
 **Deberes y un modelo de lenguaje:** el colegio manda. Si el centro prohíbe la IA en esa tarea, no se usa. Si pide declarar el uso, se declara. El chat no es un truco para que “no se note”.
 
@@ -136,7 +136,7 @@ La diferencia no es el software. Es quién piensa y quién entrega. Copiar no de
 
 Trabajos con datos de otros alumnos (entrevistas, fotos del grupo, el WhatsApp de la clase): no se pegan. El compañero no ha pedido estar en ese servidor.
 
-## Informes del colegio, nombres y fotos: cero
+### Informes del colegio, nombres y fotos: cero
 
 Datos de menores en un chatbot de consumo: **cero.** No es un matiz de “anonimiza un poco”.
 
@@ -155,7 +155,7 @@ Fotos: la cara de un menor no entra “para que el modelo vea el mural” ni par
 
 Si eres docente: política del centro primero. El chatbot personal no es tu nube pedagógica. Expedientes de alumnos, fuera.
 
-## El chat no es un amigo
+### El chat no es un amigo
 
 El modelo habla en segunda persona, recuerda el hilo y usa tu nombre si se lo das. Sigue siendo un programa. No le conoce. No le importa. No sustituye a un adulto, a un amigo o a un profesional.
 
@@ -183,7 +183,7 @@ Para aquí:
 
 Ninguno de estos errores se arregla con un prompt de “sé un profesor responsable”. El recinto es la cuenta, la edad, la mesa y lo que no se pega.
 
-## Qué hacer hoy
+### Qué hacer hoy
 
 1. Lee la edad mínima **en el producto real**. Si el menor no llega o dudas, no creas su cuenta.
 2. Si hay un uso, **tú presente**, una tarea, poco tiempo, texto comprobable.

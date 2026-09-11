@@ -40,6 +40,8 @@ No es el texto más creativo del examen ni el que permite más libertad. Pero ti
 
 ---
 
+Quien busca **Essay del CAE: Estructura, Consejos y Ejemplos** o **como escribir essay c1 advanced** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## La estructura que funciona
 
 Un essay del CAE de 220-260 palabras tiene cuatro partes:
@@ -62,7 +64,7 @@ No repites lo que ya has dicho: reformulas la idea principal y añades una refle
 
 ---
 
-## Los conectores que distinguen el C1 del B2
+### Los conectores que distinguen el C1 del B2
 
 El uso de conectores es uno de los criterios que los examinadores evalúan explícitamente. No se trata de usar más conectores, sino de usar los **correctos** en el contexto adecuado.
 
@@ -97,7 +99,7 @@ Evita empezar la conclusión con *"In conclusion"* o *"To sum up"*: son fórmula
 
 ---
 
-## Vocabulario académico para argumentar
+### Vocabulario académico para argumentar
 
 El essay del CAE es un texto académico, no una carta informal. El vocabulario tiene que reflejar ese registro. Algunos patrones especialmente útiles:
 
@@ -123,7 +125,7 @@ El essay del CAE es un texto académico, no una carta informal. El vocabulario t
 
 ---
 
-## La nominalización: el detalle que marca la diferencia
+### La nominalización: el detalle que marca la diferencia
 
 Uno de los rasgos más claros del inglés académico de nivel C1 es la nominalización: convertir verbos y adjetivos en sustantivos para crear un estilo más abstracto y denso.
 
@@ -137,7 +139,7 @@ Este patrón eleva el registro de manera inmediata y demuestra exactamente el co
 
 ---
 
-## Los errores que más penalizan
+### Los errores que más penalizan
 
 **Copiar frases del enunciado**: el examinador lo detecta y no cuenta esas palabras en tu total. Parafrasea siempre.
 
@@ -151,7 +153,7 @@ Este patrón eleva el registro de manera inmediata y demuestra exactamente el co
 
 ---
 
-## Cómo practicar antes del examen
+### Cómo practicar antes del examen
 
 Escribe un essay de práctica cada semana, cronometrado (45 minutos máximo). Después, evalúalo tú mismo con los cuatro criterios de Cambridge: Content, Communicative Achievement, Organisation, Language.
 

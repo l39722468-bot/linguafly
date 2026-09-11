@@ -42,6 +42,8 @@ Esta guía va al fondo de la cuestión.
 
 ---
 
+Consultas como **sonido th ingles**, **cómo pronunciar el sonido th sordo y sonoro** o **ejercicios gratis para practicar think y this** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Dos sonidos, no uno
 
 El primer malentendido es que muchos estudiantes creen que el TH es un solo sonido. En realidad son dos, con la misma grafía pero producción y distribución diferentes:

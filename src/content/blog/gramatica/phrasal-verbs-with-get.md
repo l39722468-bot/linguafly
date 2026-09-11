@@ -42,6 +42,8 @@ Para un panorama completo de cómo funcionan los phrasal verbs en general, la [g
 
 ---
 
+Quien busca **get phrasal verbs lista completa** o **phrasal verbs con get más usados en inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## GET + partículas de movimiento
 
 Estos son los más intuitivos porque el significado tiene que ver con movimiento físico real.

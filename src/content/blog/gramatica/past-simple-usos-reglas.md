@@ -42,6 +42,8 @@ Si quieres entender bien cuándo elegir past simple frente a present perfect, la
 
 ---
 
+Consultas como **past simple ingles**, **past simple en inglés reglas y ejemplos** o **cómo formar el past simple con verbos irregulares** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Cuándo se usa el Past Simple
 
 ### Acciones completadas en un momento específico del pasado

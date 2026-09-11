@@ -42,6 +42,8 @@ Es un método sencillo. Y funciona.
 
 ---
 
+Consultas como **pares minimos ingles**, **técnica de pares mínimos para pronunciación inglesa** o **ejercicios gratis de discriminación auditiva** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué los pares mínimos son tan efectivos
 
 El cerebro aprende por contraste. Cuando escuchas la misma sílaba con una vocal diferente, la diferencia se hace saliente de una forma que no ocurre cuando escuchas las palabras en contexto natural. En contexto, el significado, la gramática y la situación resuelven la ambigüedad antes de que el sistema auditivo tenga que procesarla. Con pares mínimos, la única información disponible es el sonido.

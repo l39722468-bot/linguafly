@@ -44,6 +44,8 @@ Para el contexto completo del examen, la [guía de preparación del IELTS](/blog
 
 ---
 
+Consultas como **vocabulario ielts**, **vocabulario académico IELTS Band 7** o **Academic Word List para preparar IELTS** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La Academic Word List: qué es y por qué importa
 
 La Academic Word List (AWL) es una lista de 570 familias de palabras compilada a partir de millones de palabras de textos académicos en inglés. No incluye el vocabulario básico del inglés (eso ya se asume conocido) ni vocabulario técnico de disciplinas concretas.

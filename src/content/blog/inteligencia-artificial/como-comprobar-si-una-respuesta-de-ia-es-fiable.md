@@ -68,7 +68,7 @@ Aunque el listón baje, una cifra colada se trata como cifra: se abre o se tacha
 
 **Cuándo fiarte de Gemini** (o de ChatGPT) no es el plan de pago. Te fías del fragmento que has abierto en otro sitio. El resto es borrador. Los chips de enlace cambian dónde haces clic. El clic lo tienes que hacer. Un modelo puede acertar cuatro y fabricar la quinta en el mismo mensaje.
 
-## Paso 1. Extraer las afirmaciones
+### Paso 1. Extraer las afirmaciones
 
 No empieces por discutir el ensayo. Empieza por una lista.
 
@@ -94,7 +94,7 @@ Cinco ítems. No un párrafo. **Verificar datos de una IA** es verificar ítems.
 
 Puedes pedir al chat, *después*, “extrae en una tabla: dato, tipo. No añadas datos nuevos”. Sirve para no saltarte una cifra. **No sirve como contraste.** Si la respuesta viene de un [PDF que subiste](/blog/inteligencia-artificial/subir-un-pdf-a-un-chatbot-que-hacer-y-que-no), el “dónde” es el PDF. Lo que no esté ahí es sospechoso aunque lo presente como resumen.
 
-## Paso 2. Abrir el original o la web oficial
+### Paso 2. Abrir el original o la web oficial
 
 **Contrastar fuentes de un chatbot** no es abrir el primer resultado de un buscador genérico y quedarte con el blog que parafrasea al chat. Es ir al sitio que *emite* el dato.
 
@@ -114,7 +114,7 @@ Cómo abrir, en la práctica:
 
 Si un ítem no se abre en dos o tres minutos, no lo uses *hoy*. O se comprueba o se tacha. Preguntar a Gemini si ChatGPT tiene razón es contrastar un predictor con otro. El sitio emisor no es un chat.
 
-## Paso 3. Marcar NO ESTÁ y decidir el pegado
+### Paso 3. Marcar NO ESTÁ y decidir el pegado
 
 Este es el paso que la gente se salta. Han abierto una pestaña, han visto que “algo hay”, y dan por buena la frase. No. Marcas.
 
@@ -130,7 +130,7 @@ Después de marcar: pegas **solo** el SÍ; si hay varios NO ESTÁ en un párrafo
 
 Regla sucia: **el dato sin marca SÍ no entra en lo que envías.** Un hueco (“plazo: comprobar en el BOE”) es mejor que un número elegante. Extraer, abrir, marcar, pegar solo el SÍ. El resto de la página son bordes.
 
-## Cuando ChatGPT o Gemini muestran enlaces
+### Cuando ChatGPT o Gemini muestran enlaces
 
 Los productos cambian el dibujo cada pocos meses. El gesto no: **si hay un enlace, se abre**. No se mira el favicon. No se mira que “ponga BOE”. Se abre.
 
@@ -146,7 +146,7 @@ Qué hacer, en orden:
 
 Si el producto dice “busqué en la web” y no te da enlace, trata la afirmación como si no hubiera búsqueda. Pides el enlace o abres tú el sitio oficial. La etiqueta no es un certificado. Si el enlace es un PDF largo, usa el buscador del lector. No hojes dos páginas. Si el párrafo es relleno, bórralo: extrae solo lo que ibas a usar.
 
-## Cómo comprobar citas inventadas de una IA
+### Cómo comprobar citas inventadas de una IA
 
 **Comprobar citas inventadas IA** es un subtipo del método, no otro oficio. El identificador es el ítem. Se busca el identificador, no el “ambiente académico” de la frase.
 
@@ -164,7 +164,7 @@ Ejemplo. El chat cita “García López (2021), *Revista española de economía 
 
 La línea de límite de [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva) reduce citas (no las elimina): no inventes fuentes; si no están, NO ESTÁ. Luego compruebas igual.
 
-## Errores al validar una respuesta de IA
+### Errores al validar una respuesta de IA
 
 **Validar el tono en vez del dato.** “Se nota que lo ha pensado.” No es un paso. Táchalo de tu cabeza.
 

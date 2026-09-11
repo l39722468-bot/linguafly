@@ -74,7 +74,7 @@ Si vives solo, tres o cuatro raciones de proteína cocinada bastan. El resto, o 
 
 El leftover de nevera y el de congelador no se mezclan en la cabeza. Lo de nevera se come en dos o tres días. Lo de congelador se etiqueta y se saca el día que toca. El [orden de la nevera](/blog/alimentacion/orden-de-la-nevera-lo-delicado-delante) cubre lo que sigue en frío positivo. Aquí, lo que pasa a bajo cero.
 
-## Enfriar antes de meter
+### Enfriar antes de meter
 
 Comida caliente al congelador es un mal atajo. Sube la temperatura del cajón. El centro del tupper tarda más en bajar. Condensa agua. Hielo raro. Textura peor.
 
@@ -99,7 +99,7 @@ Tabla y manos: si cortaste pollo crudo, esa tabla no recibe el arroz ya cocido. 
 
 Si hay embarazo, defensas bajas o pauta clínica, esto no sustituye a un profesional. Para el resto: frío pronto, raciones, cubo si dudas.
 
-## Cómo porcionar: bolsa plana o tupper
+### Cómo porcionar: bolsa plana o tupper
 
 Hay dos formatos que funcionan. Elige según lo que congelas, no según lo que queda bonito.
 
@@ -137,7 +137,7 @@ Verdura de horno: congélala si la vas a recalentar. No si pensabas una ensalada
 
 Cantidad la primera vez: menos de lo que crees. Tres raciones de lentejas que se comen ganan a doce que se esconden detrás del helado. El congelador lleno de paquetes sin fecha no es previsión. Es un almacén que no usas.
 
-## Etiquetar tuppers y bolsas
+### Etiquetar tuppers y bolsas
 
 Sin nombre, el jueves es un cubo gris. “Comida” no vale. “Sopa 8 sep” sí.
 
@@ -168,7 +168,7 @@ Treinta segundos cuando abres el congelador: ¿ves tres raciones de pollo y una 
 
 Comparte piso: nombre en la etiqueta. “Lentejas Ana 8 sep”. Viaje: congela en raciones **antes** de irte, o come lo de nevera. No dejes un cazo diez días.
 
-## Qué sí congelas de lo cocinado (y qué no)
+### Qué sí congelas de lo cocinado (y qué no)
 
 Este apartado es lo que sale de tu cocina. No el lineal de ultracongelados. El lineal está en el otro artículo.
 
@@ -198,7 +198,7 @@ Si algo solo te gusta recién hecho y al recalentar no te lo comes, no lo congel
 
 Primera semana: elige dos cosas. Pollo en tres raciones. Sopa en dos. No vacíes la nevera entera “por sistema”. El sistema es lo que no llega a caducar en el estante.
 
-## Descongelar comida de la semana
+### Descongelar comida de la semana
 
 El método por defecto es la nevera. Horas, no minutos de encimera.
 
@@ -226,7 +226,7 @@ Sopa plana: microondas o cazo. Pollo en ración: sartén con un chorro de agua o
 
 El día que entrenas, la ración que sale de nevera por la mañana es la comida o la cena de después. No improvises un sofrito a las 22:10 si ya tenías pollo etiquetado. La [rutina de fuerza para principiantes en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa) pide que esa proteína exista. El congelador, en raciones, es cómo existe un jueves sin hora de horno.
 
-## No recongelar. Errores que llenan el cajón
+### No recongelar. Errores que llenan el cajón
 
 Regla corta: **comida cocinada, una ida al hielo.** Congelas. Descongelas. Comes. No hay segunda congelación de ese mismo tupper.
 

@@ -40,6 +40,8 @@ El problema es que la transcripción fonética usa símbolos que no se ven en ni
 
 ---
 
+Consultas como **como leer transcripcion fonetica ingles**, **cómo leer transcripciones fonéticas del inglés** o **símbolos IPA del inglés explicados paso a paso** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es el IPA y por qué existe
 
 El Alfabeto Fonético Internacional (IPA, de sus siglas en inglés) es un sistema de notación creado en 1888 por la Asociación Fonética Internacional. Su objetivo: un símbolo = un sonido, en cualquier idioma del mundo. Un símbolo no puede representar dos sonidos, y un sonido no puede representar por más de un símbolo.

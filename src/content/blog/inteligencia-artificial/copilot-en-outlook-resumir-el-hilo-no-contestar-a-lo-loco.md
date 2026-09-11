@@ -65,7 +65,7 @@ Tres reglas de partida:
 2. **El original gana.** El mensaje de Elena del lunes 16:02 gana al párrafo fluido del panel.
 3. **Una petición en el envío.** Confirmar jueves 8:00 en recepción, Sofía recibe, sin coste extra. No “confirma, avísame, dime si mueves y adjunta factura”.
 
-## Licencia y por qué no pegas el hilo en otro sitio
+### Licencia y por qué no pegas el hilo en otro sitio
 
 Pregunta a IT:
 
@@ -79,7 +79,7 @@ Si el hilo trae un albarán con NIF, un IBAN, un nombre de menor o una evaluaci�
 
 Gmail es otro producto y otro buzón. Si trabajas en Gmail, el job paralelo (borrador que no envías a ciegas) no se documenta aquí.
 
-## Ejemplo: doce mensajes, el kit del jueves
+### Ejemplo: doce mensajes, el kit del jueves
 
 Hilo ya en Outlook. Nombres de pila. Sin pie legal. Así lo verías al bajar. No lo pegas a ningún chat: está en la carpeta. Copilot, si lo tienes, lo lee ahí.
 
@@ -187,7 +187,7 @@ Segundo borrador fallido, ya con los hechos bien y el tono mal. Copilot, mismo p
 
 Hechos: casi. Tono: bot. La disculpa del almacén no la ha pedido Elena. “Encantados de seguir colaborando” no estaba. Lo tiras el párrafo de saludo y el cierre. Dejas las tres frases de hecho y la pregunta. Eso envías. No un prompt nuevo de cuarenta líneas: “Quita la disculpa, el espero que y el quedo a su disposición. Rehaz solo el cuerpo.”
 
-## Tono de un email con Copilot (y el envío)
+### Tono de un email con Copilot (y el envío)
 
 El **tono de un email con Copilot** en Outlook copia el de millones de tickets de soporte. Interno con Elena: tuteo, hecho, una pregunta. Proveedor Raúl: usted, si así os escribís. El modelo mezcla. Usteda a Sofía y tutea a Raúl. Lo corriges.
 

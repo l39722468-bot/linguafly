@@ -41,6 +41,8 @@ faqs:
 
 Cuando estudias **Australian English fonética**, el objetivo razonable para la mayoría de hispanohablantes no es “parecer de Sídney en 30 días”, sino **entender mejor** y **pronunciar de forma inteligible**. Este artículo compara patrones con **RP** (Received Pronunciation, referencia UK “estándar”) y **General American** (GA), sin pretender congelar la realidad: dentro de Australia hay variación.
 
+Si llegas con la consulta **Australian English para aprender inglés**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Vocales cortas: donde el oído suele fallar primero
 
 En aproximaciones pedagógicas, muchos aprendices notan diferencias en vocales como la de *trap* frente a otros sistemas. La idea no es memorizar tablas infinitas, sino **anclar palabras**:

@@ -39,6 +39,8 @@ Cuando hispanohablantes se mudan a Estados Unidos o trabajan con americanos, el 
 
 ---
 
+Quien busca **Cultura Americana vs Española** o **Cultura Americana versus Española** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## 1. La Directness Americana vs la Indirectness Latina
 
 Los americanos son, en general, **directos y explícitos** en su comunicación. Los hispanohablantes tendemos a ser más **implícitos y contextuales**.

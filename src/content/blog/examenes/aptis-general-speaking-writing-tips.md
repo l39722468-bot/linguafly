@@ -50,6 +50,8 @@ excerpt: >
 
 El **Aptis General** evalúa cuatro habilidades: Reading, Listening, Writing y Speaking. Las dos primeras son comprensivas y relativamente fáciles de preparar. Sin embargo, el **Writing** y el **Speaking** son donde muchos candidatos pierden puntos innecesariamente, no por falta de nivel, sino por no conocer los criterios de evaluación y los formatos específicos.
 
+Quien busca **aptis speaking consejos** o **consejos Aptis General Speaking y Writing** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Esta guía te da los trucos y estrategias específicas para el Speaking y Writing del **Aptis General** que te ayudarán a maximizar tu puntuación, tanto si apuntas a un B1 como a un B2.
 
 Para una visión completa del examen, consulta nuestra **[guía de Aptis General](/blog/examenes/aptis-general-guia-completa)**.

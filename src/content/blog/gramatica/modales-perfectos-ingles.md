@@ -45,6 +45,8 @@ Si quieres ver cómo encajan en el sistema general de verbos modales, la guía [
 
 ---
 
+Consultas como **modales perfectos ingles**, **modales perfectos en inglés con ejemplos** o **must have might have could have ejercicios gratis** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La estructura básica
 
 Todos los modales perfectos siguen el mismo patrón:
@@ -62,7 +64,7 @@ En negativo: *must not have*, *couldn't have*, *shouldn't have*, *might not have
 
 ---
 
-## Must have: deducción positiva sobre el pasado
+### Must have: deducción positiva sobre el pasado
 
 Cuando tienes casi certeza de que algo ocurrió, basándote en la evidencia disponible.
 
@@ -75,7 +77,7 @@ El nivel de certeza es alto — no es una conjetura aleatoria, sino la conclusi�
 
 ---
 
-## Can't have / Couldn't have: imposibilidad en el pasado
+### Can't have / Couldn't have: imposibilidad en el pasado
 
 Para la deducción negativa — algo que estás seguro de que no ocurrió.
 
@@ -92,7 +94,7 @@ Para la deducción negativa — algo que estás seguro de que no ocurrió.
 
 ---
 
-## Might have / May have: posibilidad en el pasado
+### Might have / May have: posibilidad en el pasado
 
 Para especular sobre algo que pudo ocurrir, sin certeza.
 
@@ -110,7 +112,7 @@ La diferencia entre los dos es mínima en la práctica. *Might have* suena liger
 
 ---
 
-## Could have: posibilidad o capacidad no realizada
+### Could have: posibilidad o capacidad no realizada
 
 *Could have* tiene varios matices dependiendo del contexto.
 
@@ -128,7 +130,7 @@ La diferencia entre los dos es mínima en la práctica. *Might have* suena liger
 
 ---
 
-## Should have: lo correcto que no se hizo
+### Should have: lo correcto que no se hizo
 
 La estructura más frecuente para expresar arrepentimiento o crítica sobre el pasado. Indica que algo era lo correcto, lo conveniente o lo esperado — y no ocurrió.
 
@@ -147,7 +149,7 @@ El tono puede ser de autocrítica (hacia uno mismo) o de crítica hacia otro. No
 
 ---
 
-## Would have: el tercer condicional
+### Would have: el tercer condicional
 
 *Would have + participio* aparece en el tercer condicional para hablar de resultados hipotéticos del pasado — lo que habría ocurrido si las circunstancias hubieran sido distintas.
 
@@ -163,7 +165,7 @@ Siempre va acompañado de una condición (explícita o implícita) con *if + pas
 
 ---
 
-## Escala de certeza en el pasado
+### Escala de certeza en el pasado
 
 Si pones los modales perfectos en orden de certeza, queda más o menos así:
 
@@ -179,7 +181,7 @@ Si pones los modales perfectos en orden de certeza, queda más o menos así:
 
 ---
 
-## En el habla real: cómo suenan
+### En el habla real: cómo suenan
 
 Una cosa que confunde mucho: en el inglés hablado, *have* se reduce tanto que a veces parece que dicen *of*.
 
@@ -192,7 +194,7 @@ De ahí que en inglés informal escrito a veces aparezca *must've*, *could've*, 
 
 ---
 
-## Errores frecuentes
+### Errores frecuentes
 
 **Usar "of" en lugar de "have":**
 - ❌ *She should of called.* 

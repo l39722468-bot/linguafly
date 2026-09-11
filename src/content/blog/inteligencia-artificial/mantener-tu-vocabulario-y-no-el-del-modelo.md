@@ -65,7 +65,7 @@ Una regla corta: **si no lo habrías escrito en un email a una persona que te co
 
 El sello no prueba que el dato sea falso. Un *robusto* puede estar al lado de un horario cierto. El *robusto* igual se va. El horario se queda si lo has abierto. Son dos pasadas. Esta página es la del *robusto*.
 
-## Lista de palabras que no quieres
+### Lista de palabras que no quieres
 
 Empieza por una lista tuya. La de abajo es de partida, en español de oficina y de revista, más dos fósiles en inglés. No es sagrada. La recortas y la alargas con tus textos.
 
@@ -126,7 +126,7 @@ Puedes añadir al prompt una prohibición. Auxiliar, no milagrosa. La estructura
 
 A veces obedece. A veces cuela un *además* igual. La prohibición reduce. No sustituye el buscador.
 
-## Cómo construir la lista con textos tuyos
+### Cómo construir la lista con textos tuyos
 
 La lista de partida no es tu vocabulario. Tu vocabulario está en lo que ya publicaste o enviaste sin chat.
 
@@ -143,7 +143,7 @@ Qué mirar, además de palabras sueltas:
 
 No hace falta un análisis literario. Hace falta el documento de al lado y el buscador. Si no tienes tres textos publicados, usa emails que hayas enviado. Mejor eso que el folleto.
 
-## La pasada: buscar, cortar, sustituir
+### La pasada: buscar, cortar, sustituir
 
 Orden fijo. No “releer con oído”. El oído llega al final, una vez.
 
@@ -169,7 +169,7 @@ Si la celda de la derecha no la puedes llenar con un hecho que tienes, no rellen
 
 En **Copilot en Word**, el mismo gesto sobre el párrafo seleccionado: tono o longitud, prohibes la lista, luego buscas. El oficio dentro de Word está en [Copilot en Word: reescribir, no inventar el informe](/blog/inteligencia-artificial/copilot-en-word-reescribir-no-inventar-el-informe). Aquí: después de reescribir, la lista.
 
-## Ejemplo: Javier y el taller de bicis
+### Ejemplo: Javier y el taller de bicis
 
 Javier escribe una columna quincenal. Taller de bicis en Valverde. Tiene tres columnas viejas. Palabras suyas: *radio*, *aflojar*, *manillar*, *el gato*, *la calle Mayor*, *el jueves*, *no está*. Inventamos el volcado para el ejercicio.
 
@@ -201,7 +201,7 @@ El dato (jueves, 18:00, calle Mayor) se queda si estaba en las notas. El sello s
 
 Javier guarda la lista *no* en el mismo documento que el prompt que le funcionó. El siguiente mes no empieza de cero. Añade *holístico* si vuelve. Quita *además* de la lista si un día lo usa de verdad, una vez, como él. La lista es suya. No es un dogma de internet.
 
-## Errores al editar el sello del modelo
+### Errores al editar el sello del modelo
 
 **Pedir “hazlo más humano” o “que no parezca IA”.** El modelo pone *auténtico*, *cercano*, *de corazón*. Otro sello. Tú pegas una frase tuya o escribes.
 

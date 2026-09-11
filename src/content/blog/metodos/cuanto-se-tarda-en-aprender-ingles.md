@@ -47,6 +47,8 @@ alt: Calendario de estudio de inglés con horas por nivel anotadas
 
 *"¿En cuánto tiempo seré capaz de hablar inglés con fluidez?"*. Es una duda lógica, especialmente cuando el tiempo es nuestro recurso más escaso. Sin embargo, la respuesta no es un número mágico, sino una combinación de variables que dependen de tu punto de partida, tu meta y, sobre todo, tu método.
 
+Consultas como **¿Cuánto se Tarda en Aprender Inglés? Guía por Niveles**, **aprender ingles en 6 meses** o **cuántas horas hacen falta para aprender inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 En esta guía, vamos a desglosar la realidad del tiempo necesario para aprender inglés basándonos en datos del **Marco Común Europeo de Referencia para las lenguas (MCER)** y en las últimas investigaciones sobre adquisición de segundas lenguas.
 
 ---

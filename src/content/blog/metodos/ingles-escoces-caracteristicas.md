@@ -41,6 +41,8 @@ El inglés de Escocia no es el inglés del sur de Gran Bretaña hablado con un a
 
 ---
 
+Si llegas con la consulta **acento escocés pronunciación**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## El Scots y el Scottish English: dos cosas distintas
 
 Conviene aclarar una distinción que se ignora con frecuencia. El *Scots* es una lengua germánica con historia propia, relacionada con el inglés pero distinta de él. Se habló como lengua literaria y de la corte escocesa en la Edad Media y el Renacimiento, y sigue vivo en algunas formas rurales e isleñas. Robert Burns escribía en Scots, no en inglés.

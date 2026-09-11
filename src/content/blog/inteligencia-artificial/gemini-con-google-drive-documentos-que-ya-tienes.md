@@ -67,7 +67,7 @@ Si el archivo no sale en la lista, no es un fallo de Gemini: esa cuenta no lo ve
 
 No descargas el Doc para subirlo a ChatGPT “así lo veo mejor”: has sacado el archivo a otro proveedor. No concedes a Gemini todo el Drive “para no elegir cada vez”. Un archivo, un hilo, un trabajo. El nombre del fichero viaja: `Contrato_ClienteX_confidencial.gdoc` no es inocuo. Si puedes, duplica a `notas_4_sep_sin_nombres` y limpia. Si no puedes limpiar, paras.
 
-## Gemini resume un Doc de Drive
+### Gemini resume un Doc de Drive
 
 **Gemini resume un Doc de Drive** cuando el texto es largo y tú necesitas un mapa, no un ensayo. El mapa no sustituye al Doc. El compromiso sigue en el original.
 
@@ -114,7 +114,7 @@ Compruebas así, no “si suena a acta”:
 
 Tope: 8–12 viñetas. Si el Doc tiene tres líneas, léelo.
 
-## Gemini y hojas de cálculo
+### Gemini y hojas de cálculo
 
 **Gemini y hojas de cálculo** no es “analiza el negocio”. Es una pregunta sobre un rango que tú señalas. La hoja sigue siendo la fuente. Una celda mal leída se convierte en un total inventado con cara de Excel.
 
@@ -154,7 +154,7 @@ Comprobación, cinco minutos, no un acto de fe:
 
 No uses Gemini para “encontrar anomalías” en una nómina, una base de clientes o una hoja clínica. Eso no es un recuento. Es un expediente. La hoja no entra.
 
-## IA en Google Workspace: cuenta de trabajo, no la personal
+### IA en Google Workspace: cuenta de trabajo, no la personal
 
 **IA en Google Workspace** es un producto de organización: Gemini ligado a la cuenta `@empresa`, con las reglas que haya firmado tu empresa. Tu `@gmail.com` no es eso. La ventana se parece. El contrato no.
 
@@ -173,7 +173,7 @@ Pasos para no mezclar, el lunes a las 8:40:
 
 Si no sabes si tu Workspace incluye Gemini: no lo adivines por un anuncio. Preguntas a quien administre las cuentas. Un “sí” informal en el pasillo no autoriza a abrir la hoja de clientes. Un “no” significa que este artículo no te da un atajo por la cuenta personal.
 
-## Privacidad de Drive y Gemini
+### Privacidad de Drive y Gemini
 
 **Privacidad de Drive y Gemini** es la misma higiene que el resto de chatbots, con un matiz: el archivo *ya estaba* en Google. Eso no lo convierte en material para el modelo. El modelo es otro uso. La lista de qué no pegar no se relaja. Está en [privacidad al usar IA: qué no pegar nunca](/blog/inteligencia-artificial/privacidad-al-usar-ia-que-no-pegar-nunca).
 

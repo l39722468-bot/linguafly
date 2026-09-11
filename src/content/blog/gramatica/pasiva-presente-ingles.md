@@ -49,6 +49,8 @@ canonical: 'https://linguafly.app/blog/gramatica/pasiva-presente-ingles'
 
 Si has leído alguna vez un cartel que decía *"English spoken here"* o una noticia que empezaba con *"A new law is expected to..."*, ya has visto la voz pasiva en presente en acción. Esta estructura aparece constantemente en inglés formal, pero también en situaciones cotidianas, y entenderla te va a abrir muchas puertas.
 
+Quien busca **voz pasiva presente ingles** o **cómo formar la pasiva en presente simple inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Por qué el presente pasivo te resulta tan esquivo
 
 El problema no es la complejidad de la forma. Es que cuando aprendemos inglés, nos centramos en la voz activa y la pasiva queda un poco en segundo plano. Luego llegamos a un texto y no reconocemos la estructura porque estamos buscando un sujeto que actúe, y aquí el sujeto recibe la acción.

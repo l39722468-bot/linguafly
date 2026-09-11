@@ -57,7 +57,7 @@ Un alimento casi nunca es “solo una”. El yogur trae proteína y un poco de g
 
 Las calorías existen. No hace falta contarlas para que el plato sea serio. Contar macros puede tener un momento concreto, más adelante, con criterio. El primer mes de “comer mejor” no es ese momento. Es ver el centro del plato.
 
-## Proteína en cada comida (sin obsesión por el batido)
+### Proteína en cada comida (sin obsesión por el batido)
 
 La proteína ayuda a **saciar**, a mantener masa muscular (sobre todo si entrenas) y a que el menú no sea solo pan y prisa.
 
@@ -73,7 +73,7 @@ Vegano o vegetariano: el centro sigue teniendo que verse. Tofu, tempeh, legumbre
 
 Fiambre y análogos de carne: a veces. No son el pilar. Conservas de pescado: útiles, no doce latas de atún al día por sistema.
 
-## Hidratos: combustible, no el villano
+### Hidratos: combustible, no el villano
 
 Arroz, pasta, pan, patata, fruta, avena. Dan energía fácil de usar. Si entrenas, caminas mucho o trabajas de pie, cortarlos a lo loco suele acabar en irritabilidad y en un atracón de lo que sea a las 18:00.
 
@@ -87,7 +87,7 @@ Fruta: es comida. El zumo no la sustituye. Un plátano antes de entrenar puede s
 
 Cerveza no es el hidrato de la sesión. Si hay alcohol, cuenta como extra, no como “los hidratos del día”.
 
-## Grasas en un plato normal: sabor y saciedad
+### Grasas en un plato normal: sabor y saciedad
 
 Aceite de oliva, aguacate, frutos secos, semillas, pescado azul, yema, lácteos enteros si te sientan bien. Las grasas hacen que el plato **dure más** y que las verduras no sepan a penitencia.
 
@@ -97,7 +97,7 @@ Yema: no la tires por sistema. Coco y aceite de coco: no milagro. Omega 3: pesca
 
 Si pasas de desnatados a enteros y te sientan, bien. Si no te sientan, no hace falta un discurso. Elige y mide a ojo.
 
-## Plato equilibrado sin báscula
+### Plato equilibrado sin báscula
 
 Sin báscula:
 
@@ -119,7 +119,7 @@ Ejemplos, no recetas sagradas:
 
 Fuera de casa: proteína visible + verdura + hidrato. El pan de cesta se decide antes, no al quinto. Delivery: un plato, no tres extras. El detalle de restaurantes puede ir más largo en otro texto; aquí basta la misma plantilla del ojo.
 
-## Cómo se ve en un día (sin Excel)
+### Cómo se ve en un día (sin Excel)
 
 **Desayuno.** Café solo no aguanta. Añade proteína y, si entrenas o te quedas vacío, un hidrato. Tostada y huevo. Yogur y avena. Restos de cena si te sientan. El batido es si no hay tiempo de masticar, no un estilo de vida.
 
@@ -131,7 +131,7 @@ Fuera de casa: proteína visible + verdura + hidrato. El pan de cesta se decide 
 
 Días de entreno frente a días de sofá: el tipo de plato es el mismo. A veces hay más hambre el día que has movido. Comes un poco más, no recortas el arroz “para definir”. A veces el día de descanso pides menos. Sigues poniendo las tres piezas, no un ayuno de compensación.
 
-## Errores al comer sano (sin dieta)
+### Errores al comer sano (sin dieta)
 
 - **Desayuno solo dulce y líquido.** Café con galleta no aguanta un entrenamiento ni una mañana de trabajo. Añade proteína (yogur, huevo, queso) y ya cambia el día.
 - **Cena “light” después de un día caótico.** Si has comido poco, la noche se cobra el pico. Mejor un plato completo que un yogur triste.

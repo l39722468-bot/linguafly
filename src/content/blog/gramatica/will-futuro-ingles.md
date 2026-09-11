@@ -46,6 +46,8 @@ Para el contexto completo de los modales, consulta la guía [Verbos Modales en I
 
 ---
 
+Consultas como **Will en Inglés: Futuro, Predicciones y Ejemplos**, **will futuro ingles** o **cómo usar will para hablar del futuro en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Estructura de will para el futuro
 
 La estructura es la misma que para todos los usos de will:

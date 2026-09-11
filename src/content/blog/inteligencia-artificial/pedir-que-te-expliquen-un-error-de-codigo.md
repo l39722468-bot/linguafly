@@ -52,11 +52,17 @@ Esto no es Copilot en Excel. Allí el entregable es una fórmula y una celda. Aq
 
 Tres bloques. En este orden. Un mensaje.
 
-**1. El error.** El tipo, el mensaje, el traceback si lo hay. Completo hasta la línea que importa. No diez pantallas de un servidor. Recorta marcos de librerías si no las tocas: deja las tuyas y la primera de la biblioteca que falla.
+### 1. El error
 
-**2. El lenguaje y el entorno mínimo.** “Python 3.12, script local, un diccionario en memoria.” No hace falta la distro. No hace falta el hostname. “JavaScript, Node 20, una función en `descuentos.js`.” El modelo adivina mal el runtime si no se lo dices. Un `KeyError` no es un `TypeError`. Un `undefined` de JS no es un `None` de Python.
+El tipo, el mensaje, el traceback si lo hay. Completo hasta la línea que importa. No diez pantallas de un servidor. Recorta marcos de librerías si no las tocas: deja las tuyas y la primera de la biblioteca que falla.
 
-**3. Lo que ya probaste.** Tres líneas, no un diario. “He impreso las claves del diccionario. `SKU-99` no está. He comprobado que el CSV de Inés no trae esa fila.” Eso evita que el chat te mande a hacer exactamente eso.
+### 2. El lenguaje y el entorno mínimo
+
+“Python 3.12, script local, un diccionario en memoria.” No hace falta la distro. No hace falta el hostname. “JavaScript, Node 20, una función en `descuentos.js`.” El modelo adivina mal el runtime si no se lo dices. Un `KeyError` no es un `TypeError`. Un `undefined` de JS no es un `None` de Python.
+
+### 3. Lo que ya probaste
+
+Tres líneas, no un diario. “He impreso las claves del diccionario. `SKU-99` no está. He comprobado que el CSV de Inés no trae esa fila.” Eso evita que el chat te mande a hacer exactamente eso.
 
 Formato del prompt:
 
@@ -276,15 +282,25 @@ Eso ya no es explicar. Es un parche. Lo revisas como cualquier parche. Lo corres
 
 ## Errores habituales (para aquí)
 
-**Pegar el dump de producción.** Hosts, tokens, pedidos. Para aquí. Reproduce en local con `SKU-99` de juguete. El KeyError es el mismo.
+### Pegar el dump de producción
 
-**No decir el lenguaje.** El modelo mezcla Python y JS. `undefined` no es `KeyError`. Una línea: “Python 3.12”.
+Hosts, tokens, pedidos. Para aquí. Reproduce en local con `SKU-99` de juguete. El KeyError es el mismo.
 
-**No decir lo que ya probaste.** Te manda a imprimir las claves. Las imprimiste. Pierdes el turno.
+### No decir el lenguaje
 
-**Pedir que “lo arregle” en el mismo prompt que “explícalo”.** Mezclas oficios. Primero entender. El parche, si hace falta, después, una función.
+El modelo mezcla Python y JS. `undefined` no es `KeyError`. Una línea: “Python 3.12”.
 
-**Dejar el token “que total ya está caducado”.** Da igual. No pegas. Si ya se fue, rotas: el otro artículo. Aquí paras el pegado.
+### No decir lo que ya probaste
+
+Te manda a imprimir las claves. Las imprimiste. Pierdes el turno.
+
+### Pedir que “lo arregle” en el mismo prompt que “explícalo”
+
+Mezclas oficios. Primero entender. El parche, si hace falta, después, una función.
+
+### Dejar el token “que total ya está caducado”
+
+Da igual. No pegas. Si ya se fue, rotas: el otro artículo. Aquí paras el pegado.
 
 **Creer al modelo cuando contradice el traceback.** Dice `TypeError` y el archivo dice `KeyError`. Gana el traceback. Lo tienes en la pantalla.
 

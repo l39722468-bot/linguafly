@@ -49,6 +49,8 @@ excerpt: >
 
 El **Aptis Advanced** del British Council es una de las opciones más valoradas para certificar un nivel C1 de inglés en España y Latinoamérica, especialmente entre docentes, opositores y profesionales que necesitan demostrar un alto nivel sin el largo proceso de preparación que requieren los exámenes de Cambridge.
 
+Quien busca **preparar aptis advanced** o **cómo aprobar Aptis Advanced C1** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Su ventaja competitiva es clara: resultados en 48 horas, fechas flexibles durante todo el año, y un formato moderno y computer-based que muchos candidatos encuentran más cómodo que los exámenes en papel.
 
 Esta guía se centra en el **Aptis Advanced** (C1-C2). Si buscas información sobre el nivel B1, consulta nuestra **[guía de Aptis General B1](/blog/examenes/preparacion-examen-b1-cambridge)**.

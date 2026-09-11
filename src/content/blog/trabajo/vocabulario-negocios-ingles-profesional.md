@@ -43,6 +43,8 @@ Como profesor de Cambridge y experto en inglés corporativo, he seleccionado las
 
 ---
 
+Si llegas con la consulta **Vocabulario de Negocios en Inglés: 100+**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## 1. Corporate Buzzwords: La Jerga de la Oficina Moderna
 
 En las empresas tecnológicas, startups y multinacionales de 2026, se utilizan términos que van más allá del inglés tradicional. Dominar estas "buzzwords" te hará sonar como un profesional integrado en la cultura corporativa actual.

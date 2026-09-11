@@ -52,6 +52,8 @@ Hay una frase que se escucha mucho en películas y conversaciones en inglés: *"
 
 Es el condicional más complejo en cuanto a construcción, pero también el más expresivo. Con él puedes hablar de arrepentimientos, de alivio, de análisis de situaciones pasadas. Una vez que lo interiorizas, tu inglés gana una capa de profundidad que marca la diferencia entre nivel B1 y B2.
 
+Consultas como **Third Conditional en Inglés: Guía y Ejemplos**, **third conditional ingles** o **third conditional en inglés con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La estructura
 
 **Fórmula:**
@@ -63,7 +65,7 @@ Es el condicional más complejo en cuanto a construcción, pero también el más
 
 El elemento clave es el **past perfect** en la cláusula con "if": *had studied, had told, had left*. Esto es lo que marca que estamos hablando de algo que no ocurrió en el pasado.
 
-## Por qué se comete tantos errores
+### Por qué se comete tantos errores
 
 Hay tres puntos donde los estudiantes se tropiezan constantemente:
 
@@ -88,7 +90,7 @@ El tercer condicional exige los participios irregulares correctos. Si no los tie
 
 La diferencia está en "had" (past simple) vs. "had had" (past perfect del verbo have). Sí, suena raro, pero es correcto.
 
-## Los usos más frecuentes
+### Los usos más frecuentes
 
 **1. Arrepentimientos**
 
@@ -118,7 +120,7 @@ Muy útil en contextos profesionales y académicos para analizar por qué algo s
 - *I would have called you if I had had your number.*
 - *She would have come if she hadn't been feeling ill.*
 
-## Contracciones en conversación natural
+### Contracciones en conversación natural
 
 En el habla informal, los nativos contraen mucho esta estructura:
 
@@ -128,7 +130,7 @@ En el habla informal, los nativos contraen mucho esta estructura:
 
 La contracción 'd puede ser "had" o "would" dependiendo del contexto, lo que a veces confunde. En *"If I'd known"*, la 'd = had. En *"I'd have done it"*, la 'd = would.
 
-## Ejercicios
+### Ejercicios
 
 **Completa con la forma correcta:**
 
@@ -141,7 +143,7 @@ La contracción 'd puede ser "had" o "would" dependiendo del contexto, lo que a 
 
 **Práctica escrita:** Piensa en tres momentos del pasado donde tomaste una decisión. Escribe una frase en third conditional sobre cada una. No tienen que ser dramáticas: *"If I hadn't taken that course, I wouldn't have got this job."*
 
-## En exámenes oficiales
+### En exámenes oficiales
 
 El tercer condicional es fundamental en Cambridge B2 First y C1 Advanced:
 

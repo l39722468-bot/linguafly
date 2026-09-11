@@ -39,6 +39,8 @@ faqs:
 
 En **atención al cliente en inglés**, el email es un **documento de trabajo**: debe ser escaneable en 20 segundos. Un agente B2 no necesita vocabulario raro; necesita **orden**.
 
+Consultas como **email soporte inglés**, **Emails y Chats de Soporte en Inglés** o **atencion cliente email chat soporte b2 en inglés para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ### Estructura recomendada
 
 1. **Saludo + nombre** (si lo tienes).  

@@ -50,6 +50,8 @@ El Cockney es uno de los acentos del inglés con más presencia en la cultura po
 
 ---
 
+Consultas como **east end londres acento**, **Acento Cockney** o **author: linguafly-team** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es el Cockney y de dónde viene
 
 El Cockney es el acento de la clase trabajadora del East End de Londres. Históricamente, un "true Cockney" era alguien nacido dentro del sonido de las campanas de la iglesia de St. Mary-le-Bow, en el barrio de Cheapside: una delimitación geográfica que hoy resulta pintoresca pero que refleja la asociación muy concreta del acento con un territorio específico.

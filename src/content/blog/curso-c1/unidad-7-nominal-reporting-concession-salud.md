@@ -48,6 +48,8 @@ excerpt: >-
 
 La Unidad 7 C1 enseña a construir argumentos complejos sobre **health and mind**. En un artículo científico o en una conversación académica no siempre basta con decir *stress affects sleep*. Necesitamos convertir una idea completa en el sujeto o complemento de otra oración, atribuirla a una fuente concreta y reconocer que una conclusión puede mantenerse aunque exista una dificultad. Para eso usamos **nominal clauses**, **reporting verbs** y estructuras de **concession**.
 
+Si llegas con la consulta **reporting verbs ejercicios C1**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Observa la progresión:
 
 - *Chronic stress remodels neural circuits.*

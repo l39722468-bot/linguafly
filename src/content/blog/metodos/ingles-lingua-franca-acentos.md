@@ -43,6 +43,8 @@ Entender qué es el ELF, cómo suena y qué implica para quien aprende inglés c
 
 ---
 
+Consultas como **inglés lingua franca ELF**, **Inglés como Lingua Franca** o **author: linguafly-team** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Cuántas personas hablan inglés y cuántas son nativas
 
 Las cifras importan para entender la magnitud del fenómeno. Hay aproximadamente 400 millones de hablantes nativos de inglés en el mundo. Hay entre 1.000 y 1.500 millones de personas que hablan inglés como segunda lengua o lengua extranjera.

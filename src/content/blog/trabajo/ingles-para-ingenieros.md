@@ -42,6 +42,8 @@ excerpt: >
 
 En el mundo de la ingeniería moderna, el inglés ha dejado de ser una habilidad "extra" para convertirse en el sistema operativo fundamental de la profesión. Es el lenguaje de las especificaciones técnicas globales, las normativas internacionales (ISO, IEEE, ASME) y, sobre todo, de la innovación compartida. Ya sea que trabajes en el desarrollo de software, en obras civiles, en diseño mecánico o en sistemas eléctricos, la capacidad de explicar conceptos abstractos y procesos complejos en **inglés técnico** es lo que separa a un ejecutor técnico de un líder de proyectos internacional.
 
+Si llegas con la consulta **ingles para ingenieros para el trabajo**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Esta guía ha sido diseñada para proporcionarte las bases léxicas y estructurales necesarias para navegar por entornos de alta exigencia técnica con precisión y profesionalismo.
 
 Explora nuestro **[hub de inglés profesional](/blog/trabajo)** para más cursos especializados o consulta el **[hub de vocabulario](/blog/metodos)** para términos técnicos adicionales.

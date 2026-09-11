@@ -40,6 +40,8 @@ La **gramática inglesa** es el sistema de reglas que permite construir frases c
 
 ---
 
+Quien busca **Gramática Inglesa: Guía Completa A1-C2** o **gramatica ingles por niveles** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## ¿Por qué estudiar gramática inglesa de forma estructurada?
 
 Muchos estudiantes aprenden vocabulario y listening, pero descuidan la gramática porque parece árida. Sin embargo, la gramática es lo que diferencia un nivel B1 de un B2 en los exámenes Cambridge: **la precisión gramatical puntúa directamente** en Use of English, Writing y Speaking.

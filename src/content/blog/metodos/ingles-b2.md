@@ -47,6 +47,8 @@ excerpt: >
 
 El **Nivel B2** (Usuario Independiente) es el estándar de oro para el mundo laboral y académico internacional en 2026. Es el nivel donde dejas de traducir mentalmente y empiezas a **pensar en inglés**. En el **nivel intermedio-alto de inglés**, la comunicación deja de ser funcional para convertirse en estratégica.
 
+Quien busca **curso inglés b2** o **curso de inglés B2 gratis online** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## 1. Gramática de Precisión para el Nivel B2
 
 A este nivel, la gramática deja de ser una barrera para convertirse en una herramienta de precisión que te permite expresar ideas abstractas y complejas con total claridad.

@@ -53,6 +53,8 @@ canonical: 'https://linguafly.app/blog/gramatica/ejercicios-voz-pasiva-ingles'
 
 Conocer las reglas de la voz pasiva es solo la mitad del trabajo. La otra mitad es practicarla hasta que fluya con naturalidad. Estos ejercicios están organizados por nivel y tipo, con sus soluciones explicadas para que no solo compruebes si has acertado sino que entiendas exactamente por qué.
 
+Consultas como **ejercicios voz pasiva ingles soluciones**, **ejercicios de voz pasiva en inglés gratis con soluciones** o **transformar frases activas a pasivas ejercicios** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Bloque 1: Transformación básica (A2-B1)
 
 Transforma estas oraciones activas a voz pasiva. Mantén el mismo tiempo verbal.
@@ -76,7 +78,7 @@ Transforma estas oraciones activas a voz pasiva. Mantén el mismo tiempo verbal.
 - En el nº 3, el auxiliar es *is being*, no simplemente *is*.
 - En el nº 4, *has been finished*, con *been* obligatorio.
 
-## Bloque 2: Relleno de huecos (B1-B2)
+### Bloque 2: Relleno de huecos (B1-B2)
 
 Completa con la forma pasiva correcta del verbo entre paréntesis:
 
@@ -100,7 +102,7 @@ Completa con la forma pasiva correcta del verbo entre paréntesis:
 
 El hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) tiene la tabla de tiempos si necesitas repasar alguna forma.
 
-## Bloque 3: Corrección de errores (B1-B2)
+### Bloque 3: Corrección de errores (B1-B2)
 
 Estas oraciones tienen un error. Encuéntralo y corrígelo:
 
@@ -122,7 +124,7 @@ Estas oraciones tienen un error. Encuéntralo y corrígelo:
 6. *was sent* (no *send*; participio de *send* es *sent*)
 7. *was built* (no *build*; participio irregular de *build*)
 
-## Bloque 4: Pasiva impersonal (B2-C1)
+### Bloque 4: Pasiva impersonal (B2-C1)
 
 Transforma usando la estructura *It is/was + participio + that* Y también con sujeto + *is/was + participio + to + infinitivo*:
 
@@ -141,7 +143,7 @@ Transforma usando la estructura *It is/was + participio + that* Y también con s
 3. *It is said that the economy will recover soon.*
    *The economy is said to be likely to recover soon.* / *The economy is said to recover soon.*
 
-## Bloque 5: Key Word Transformation estilo Cambridge B2
+### Bloque 5: Key Word Transformation estilo Cambridge B2
 
 Reescribe la segunda frase para que tenga el mismo significado, usando la palabra en mayúsculas. Usa entre dos y cinco palabras.
 
@@ -160,7 +162,7 @@ Reescribe la segunda frase para que tenga el mismo significado, usando la palabr
 5. Nobody had informed the manager about the complaint.
    BEEN → *The manager had not been informed about the complaint.*
 
-## Bloque 6: Producción libre (B2-C1)
+### Bloque 6: Producción libre (B2-C1)
 
 Escribe 5 frases usando pasiva en los siguientes contextos:
 
@@ -172,7 +174,7 @@ Escribe 5 frases usando pasiva en los siguientes contextos:
 
 No hay respuesta única. Lo importante es que uses los tiempos correctamente y que la elección de pasiva esté justificada por el contexto.
 
-## Cómo seguir practicando
+### Cómo seguir practicando
 
 La pasiva en inglés se asienta mejor si la practicas en contexto real, no solo con ejercicios de libro. Algunas formas concretas:
 

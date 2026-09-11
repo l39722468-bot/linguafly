@@ -41,6 +41,8 @@ Esta guía cubre el vocabulario esencial de gaming, el slang del chat y las expr
 
 ---
 
+Consultas como **vocabulario gaming ingles**, **vocabulario de inglés para videojuegos online gratis** o **expresiones gamer en inglés para el chat gratis** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Vocabulario Básico de Gaming en Inglés
 
 | Término | Significado | Uso |
@@ -58,7 +60,7 @@ Esta guía cubre el vocabulario esencial de gaming, el slang del chat y las expr
 
 ---
 
-## Slang de Combate y Estrategia
+### Slang de Combate y Estrategia
 
 | Término | Significado | Ejemplo |
 |---------|-------------|---------|
@@ -75,7 +77,7 @@ Esta guía cubre el vocabulario esencial de gaming, el slang del chat y las expr
 
 ---
 
-## Expresiones de Chat y Comunicación en Partida
+### Expresiones de Chat y Comunicación en Partida
 
 Estas son las frases más comunes en el chat de cualquier juego online:
 
@@ -94,7 +96,7 @@ Estas son las frases más comunes en el chat de cualquier juego online:
 
 ---
 
-## El Inglés de Twitch y Streaming
+### El Inglés de Twitch y Streaming
 
 Si ves streams o haces streaming tú mismo, este vocabulario es esencial:
 
@@ -118,7 +120,7 @@ Si ves streams o haces streaming tú mismo, este vocabulario es esencial:
 
 ---
 
-## El Vocabulario de Discord
+### El Vocabulario de Discord
 
 Discord es la plataforma de comunicación número uno de gamers. Su jerga propia:
 
@@ -137,7 +139,7 @@ Discord es la plataforma de comunicación número uno de gamers. Su jerga propia
 
 ---
 
-## Cómo Mejorar tu Inglés Jugando
+### Cómo Mejorar tu Inglés Jugando
 
 Los videojuegos son una herramienta de aprendizaje infrautilizada. Estrategias para aprender inglés jugando:
 
@@ -149,7 +151,7 @@ Los videojuegos son una herramienta de aprendizaje infrautilizada. Estrategias p
 
 ---
 
-## Frases Completas para tu Próxima Partida
+### Frases Completas para tu Próxima Partida
 
 - *"I'll take top, someone else cover jungle."* → Voy arriba, que alguien cubra la jungla.
 - *"Let's all push together — don't split up."* → Empujemos todos juntos — no os separéis.

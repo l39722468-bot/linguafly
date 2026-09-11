@@ -67,7 +67,7 @@ Cabeza relajada, miras al techo. Si notas cervicales, baja un poco la barbilla. 
 
 Anota la distancia que te funciona. Sin nota, la próxima sesión vuelves a adivinar. El adivinar es cómo vuelven los isquios.
 
-## Costillas, lumbar y el segundo de arriba
+### Costillas, lumbar y el segundo de arriba
 
 ![Puente de glúteo arriba: EMPUJA talones, cadera arriba, aspa roja si hay arco](/blog/entrenamiento/puente-de-gluteo-tecnica-y-progresion/arriba.png)
 
@@ -91,7 +91,7 @@ Si sales de ocho horas de silla, el primer puente del día puede ser más bajo. 
 
 Pinchazo localizado, un lado, peor al día siguiente: paras el puente. El resto de la sesión puede existir si no lo irrita. Esto no diagnostica. Señala cuándo no seguir subiendo el culo hacia el techo.
 
-## Si no notas el glúteo
+### Si no notas el glúteo
 
 Es la queja más repetida: haces quince repeticiones y sientes isquios o lumbar, no el glúteo. No hace falta un circuito de “activación” de doce ejercicios. Primero corrige la colocación.
 
@@ -110,7 +110,7 @@ Un par de repeticiones lentas de prueba bastan. No un calentamiento extra de cin
 
 Si después de pies, costillas y pausa la lumbar pica y la cadera no entra, para. No insistas hasta que “aparezca”.
 
-## Si se te cargan los isquios
+### Si se te cargan los isquios
 
 El calambre en la corva es frecuente el primer mes. No es una medalla. Tampoco es, por sí solo, una lesión. Es el isquio haciendo de motor porque el glúteo no cerró o porque el pie está lejos.
 
@@ -126,7 +126,7 @@ El calambre que se va al recolocar no es un drama. El que aparece en un punto, u
 
 Agujetas en los dos isquios al día siguiente, difusas: cuadro típico de puente nuevo. Caminar. Menos rango si toca entrenar. No un segundo puente “para activar” el martes.
 
-## Progresión con tu peso (pausa, no una pierna el día uno)
+### Progresión con tu peso (pausa, no una pierna el día uno)
 
 En la [rutina de fuerza en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa) el puente va a 10-15 repeticiones. Ese es el rango. No 40. No “hasta el ardor”.
 
@@ -157,7 +157,7 @@ Semana tipo, solo de este gesto (el resto de la sesión sigue su propio cuaderno
 
 Si una sesión sale mal, no la “recuperas” con 20 a una pierna el domingo. Haces el puente de 10 limpio o lo saltas. El gesto existe para el miércoles, no para un récord de salón.
 
-## Dónde va en los 25 minutos
+### Dónde va en los 25 minutos
 
 La sesión de casa no es una clase de glúteo. Es un full body de 25 minutos, tres días. El puente es el **tercer** movimiento del bloque principal, después de la sentadilla y de la flexión inclinada. 10 a 15 repeticiones. Tres vueltas. Descanso de 60-90 segundos si lo necesitas.
 
@@ -173,7 +173,7 @@ No sustituyas el remo por más puente. El objetivo de la plantilla son seis patr
 
 Después de la sesión, cena un plato. El día que no entrenas, no recortes a lo loco: el [plato del día de descanso](/blog/alimentacion/dia-de-descanso-no-recortes-a-lo-loco) no es una ensalada de penitencia porque “hoy no hay puente”. El gesto pide repetición el miércoles y comida de adulto el martes.
 
-## Errores que rompen el gesto
+### Errores que rompen el gesto
 
 - **Arco lumbar de foto.** Altura de ego. Costillas abiertas. El glúteo no firma. La lumbar sí.
 - **Pies lejos y talón que flota.** Isquio al mando. Calambre. Luego “no noto el glúteo”.

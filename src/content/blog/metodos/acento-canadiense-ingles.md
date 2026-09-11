@@ -38,6 +38,8 @@ La más famosa de esas diferencias es el estereotipo del "aboot" canadiense, que
 
 ---
 
+Consultas como **acento canadiense inglés**, **cómo reconocer el acento canadiense en inglés** o **diferencias entre inglés canadiense y americano** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es el Canadian Raising
 
 El **Canadian Raising** es el rasgo fonético más característico del inglés canadiense. Afecta a dos diptongos: /aɪ/ (el sonido de *price*, *time*, *night*) y /aʊ/ (el sonido de *mouth*, *out*, *about*).

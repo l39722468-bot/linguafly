@@ -66,7 +66,7 @@ Antes de abrir el hilo, fuera de la pantalla:
 
 La estructura del mensaje (tarea, texto, formato, prohibición) está en [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva). Aquí no se vuelve a explicar el pilar. Se aplica a la ventana de ChatGPT con tres recados concretos.
 
-## Reescribir un párrafo que ya tienes
+### Reescribir un párrafo que ya tienes
 
 Reescribir no es “hazme esto más profesional”. Es: mismos hechos, otro tamaño o otro tono, y tú marcas lo que no se toca.
 
@@ -103,7 +103,7 @@ Intento vago que no sirve: “Mejora este texto.” Sale un ensayo, un “alinea
 
 Si el párrafo es de casa (un WhatsApp a un vecino, un recado al cole), el mismo gesto. Hechos, tope, prohibiciones. No hace falta un GPT de “comunicación familiar”.
 
-## Extraer una lista de tus notas
+### Extraer una lista de tus notas
 
 El segundo uso: las notas ya existen. ChatGPT no sustituye haber estado en la reunión. Ordena lo que tú has apuntado.
 
@@ -143,7 +143,7 @@ Qué no haces:
 
 Casa: la misma plantilla con la lista del sábado (compra, recados, quién recoge a quién). Notas tuyas. Sin historial médico. Sin DNI del colegio.
 
-## Pedir un formato (y parar)
+### Pedir un formato (y parar)
 
 El tercer uso es el más corto y el que más gente salta. Ya tienes el contenido. El chat solo empaqueta.
 
@@ -173,7 +173,7 @@ Pedir formato no es pedir “que quede bonito”. Bonito, para el modelo, es lar
 
 Un formato por mensaje. Si pides “tabla y también un email y también un plan de la semana”, el modelo mezcla los tres y no puedes comprobar ninguno en dos minutos.
 
-## Qué hacer con ChatGPT cada semana
+### Qué hacer con ChatGPT cada semana
 
 **Qué hacer con ChatGPT cada semana** no es un reto de 90 días. Es repetir los tres usos con el material de esa semana. Sin subir de nivel a un GPT. Sin cambiar de producto por aburrimiento.
 
@@ -195,7 +195,7 @@ Nombre de los chats: “Email jueves 10 anexo”, “Notas reunión 13:00”, �
 
 Si el viernes el plan gratis te corta y la tarea es real (un email que sale hoy), paras o pruebas otro producto el rato que falte. No creas una segunda cuenta con el teléfono de otra persona. No pagues Plus a las 16:05 porque un banner te ha dicho “ilimitado”. Plus no lee el original por ti.
 
-## ChatGPT para trabajo y casa (sin mezclar)
+### ChatGPT para trabajo y casa (sin mezclar)
 
 **ChatGPT para trabajo y casa** comparte el gesto y no comparte el pegado.
 

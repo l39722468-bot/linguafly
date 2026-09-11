@@ -61,6 +61,8 @@ No es simplemente "saber mucho inglés". Es el nivel que te permite trabajar en 
 
 ---
 
+Si llegas con la consulta **Nivel C1 de Inglés: Qué Es y Cómo Alcanzarlo**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## ¿Qué puede hacer exactamente un usuario de nivel C1?
 
 El MCER describe al usuario C1 como alguien que puede:

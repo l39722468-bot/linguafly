@@ -42,6 +42,8 @@ Para revisar la base de los phrasal verbs antes de entrar en el nivel avanzado, 
 
 ---
 
+Consultas como **phrasal verbs avanzados**, **phrasal verbs C1 para CAE con ejemplos** o **phrasal verbs formales para inglés académico** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Phrasal verbs de registro neutro-formal (útiles en writing y speaking C1)
 
 ### Account for

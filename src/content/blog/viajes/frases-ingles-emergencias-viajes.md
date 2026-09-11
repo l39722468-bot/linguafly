@@ -45,6 +45,8 @@ faqs:
 
 Cuando planeamos unas vacaciones, soñamos con playas, monumentos y gastronomía. Nadie quiere imaginar un accidente, una enfermedad repentina o un robo en un país lejano. Sin embargo, los viajeros experimentados saben que los imprevistos ocurren, y en esos momentos, la comunicación no es un lujo, es una necesidad vital.
 
+Consultas como **frases emergencia viaje ingles**, **Inglés para Emergencias al Viajar** o **frases ingles emergencias viajes para viajar** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 En una situación de crisis, el cerebro humano entra en modo de "lucha o huida", lo que provoca que el acceso a un segundo idioma se dificulte enormemente. Por eso, no basta con "saber un poco de inglés". Es fundamental haber automatizado ciertas estructuras a través de **[clases de inglés para viajar](/blog/viajes/curso-de-ingles-para-viajar)** que utilicen simulaciones de alta presión. Saber decir correctamente qué te duele o pedir ayuda puede marcar la diferencia entre un susto y un problema grave.
 
 ## 🆘 Pidiendo Ayuda Inmediata: El Vocabulario de Rescate

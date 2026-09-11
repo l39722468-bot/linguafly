@@ -42,6 +42,8 @@ Como profesor de Cambridge, te explicaré las reglas de puntuación y la omisió
 
 ---
 
+Quien busca **defining and non defining relative clauses** o **relative clauses en inglés con ejemplos** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## 1. Pronombres de Relativo (Relative Pronouns)
 
 | Pronombre | Se usa para... | Ejemplo Académico |

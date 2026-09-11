@@ -61,7 +61,7 @@ Esto es **plan de onboarding inteligencia artificial** en el sentido feo y útil
 
 Si un día no tienes email, no fabricas un conflicto familiar para tener input. Usas un texto público (instrucciones de un trámite, un manual corto) o saltas. Saltar un día no rompe nada. Pegar de más sí.
 
-## Día 0: higiene antes de pegar
+### Día 0: higiene antes de pegar
 
 Antes del día 1, cinco minutos sin chat. Es la misma regla del artículo de [privacidad al usar IA: qué no pegar nunca](/blog/inteligencia-artificial/privacidad-al-usar-ia-que-no-pegar-nunca). Aquí va la versión de esta semana.
 
@@ -84,7 +84,7 @@ Prueba de los treinta segundos: ¿haría falta este dato para la tarea? ¿Identi
 
 Interruptor, si existe: no usar chats para entrenar. Historial: tú decides. Memoria: apagada esta semana. Luego el plan. El día 0 no genera tokens. Genera el recorte.
 
-## Días 1 y 2: email y notas
+### Días 1 y 2: email y notas
 
 **Día 1. Acortar un email que aún no has enviado.**
 
@@ -112,7 +112,7 @@ Lectura: cada fila contra tus notas. El modelo ama inventar un “se acordó env
 
 **Rutina semanal con ChatGPT** en estos dos días: mismo producto, chat nuevo cada día (o el mismo hilo si no has mezclado temas; si mezclaste, nuevo). No hace falta “buenos días, soy tu usuario”.
 
-## Días 3 y 4: PDF público y lista de la compra
+### Días 3 y 4: PDF público y lista de la compra
 
 **Día 3. Un PDF o una página pública.**
 
@@ -140,7 +140,7 @@ Lectura: ¿ha colado “quinoa ecológica” que tú no escribiste? Fuera. ¿Ha 
 
 Eso es una **tarea diaria para practicar ia** con consecuencia en el súper, no un simulacro. Si no compras esta semana, igual: agrupa la lista ficticia de un menú que *tú* has escrito, no la que el modelo te fabrique con salmonetes y un presupuesto de revista.
 
-## Días 5, 6 y 7: reescribir, extraer, comprobar
+### Días 5, 6 y 7: reescribir, extraer, comprobar
 
 **Día 5. Reescribir un párrafo tuyo.**
 
@@ -177,7 +177,7 @@ Si encuentras un invento, no discutes filosofía. Anotas el tipo de fallo (“pl
 
 Cuando algo no puedas comprobar en cinco minutos, no lo uses. Ese es el cierre de la semana. El artículo de comprobar respuestas, cuando lo leas, alarga este día; hoy basta la lista de cuatro puntos.
 
-## Errores de los siete días
+### Errores de los siete días
 
 **Convertirlo en un plan de vida.** “Día 3: define tus valores con la IA.” Fuera. El día 3 es un PDF público.
 

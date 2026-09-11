@@ -45,6 +45,8 @@ Consulta la guía completa [Will para el Futuro en Inglés](/blog/gramatica/will
 
 ---
 
+Consultas como **will probabilidad ingles**, **cómo usar will para expresar probabilidad en inglés** o **ejercicios gratis de will y modales de certeza** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Will como marcador de certeza alta
 
 Cuando usas *will* para predecir algo, estás expresando que tienes mucha confianza en que eso va a ocurrir. No es una posibilidad vaga — es una expectativa fundada.

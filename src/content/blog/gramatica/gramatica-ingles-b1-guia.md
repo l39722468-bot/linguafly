@@ -42,6 +42,8 @@ Para lograr esta independencia, no basta con saber vocabulario; necesitas una ba
 
 ---
 
+Quien busca **Gramática Inglesa B1: Temas, Ejercicios y Guía** o **clases de gramatica en ingles gratis** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## 1. Tiempos Verbales: Dominando la Temporalidad
 
 A diferencia de los niveles iniciales (A1-A2), en el B1 la clave no es solo conocer la forma de los verbos, sino entender cuándo usarlos para dar matices a tu discurso.

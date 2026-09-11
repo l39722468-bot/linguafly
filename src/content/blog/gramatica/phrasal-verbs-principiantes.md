@@ -44,6 +44,8 @@ Cuando hayas asimilado los básicos, en la [guía de phrasal verbs](/blog/temas/
 
 ---
 
+Quien busca **phrasal verbs básicos en inglés A1 A2** o **lista de phrasal verbs para principiantes con ejemplos** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## ¿Qué es un Phrasal Verb? (Explicación Simple)
 
 Un **phrasal verb** es la combinación de un verbo más una pequeña palabra (llamada "partícula"), que puede ser una preposición (*in, on, at*) o un adverbio (*up, down, out*).

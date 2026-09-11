@@ -38,6 +38,8 @@ faqs:
 
 Si has decidido certificar tu nivel de inglés, una de las primeras y más importantes preguntas que te harás es: **¿cuánto cuesta el examen de Cambridge?**. Obtener una certificación oficial no es solo un reto académico, sino también una inversión económica significativa que requiere planificación.
 
+Si llegas con la consulta **Precios Exámenes Cambridge: FCE, CAE**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Las **tasas Cambridge 2026** no son fijas a nivel global; varían según el nivel del examen, el centro examinador elegido y la modalidad (papel u ordenador). En esta guía, desglosamos todos los costes directos e indirectos para que no te lleves sorpresas al matricularte.
 
 Si quieres conocer más sobre la preparación, visita nuestra guía de **[preparación B1 Cambridge](/blog/examenes/preparacion-examen-b1-cambridge)**.

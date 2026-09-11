@@ -66,7 +66,7 @@ Tres reglas de partida, antes de pegar nada:
 
 Si el tema es un informe interno ya escrito en un .docx, este no es tu artículo. Vuelve a Word. Si el tema es un correo, tampoco. Aquí hay un lector que no te debe nada y un texto con tu nombre. Pegas viñetas, tres frases tuyas, el público. No pegas listas de asistentes, DNI ni el Excel.
 
-## ChatGPT outline de un artículo
+### ChatGPT outline de un artículo
 
 **ChatGPT outline de un artículo** es el primer mensaje. No pidas prosa. Si pides prosa, la obtendrás. El modelo prefiere el ensayo. Tú prefieres un esqueleto que puedas discutir.
 
@@ -122,7 +122,7 @@ Compruebas el outline, no el estilo:
 
 Si un H2 no puedes explicarlo en una frase tuya, fuera. Si el modelo escribe prosa, una línea al final: “SOLO H2 Y UNA LÍNEA. CERO PÁRRAFOS.”
 
-## Estructura y luego prosa tuya
+### Estructura y luego prosa tuya
 
 **Estructura y luego prosa tuya** es el orden. Si pides la prosa primero, el modelo rellena huecos con estadística. Luego el outline se dobla para justificar el relleno. No. Primero el esqueleto aprobado. Luego sucio por piezas.
 
@@ -163,7 +163,7 @@ Qué haces con el sucio, en el acto:
 3. **Reescribes en tu oído** las dos o tres frases que van a abrir el apartado. El resto puede esperar. El arranque no puede sonar a plantilla.
 4. **No pides “ahora hazlo publicable”.** Ese mensaje convierte el sucio en un texto final opaco. El publicable lo escribes tú, encima del sucio. Ritmo, voz activa y tijera: otros oficios. Hoy, sucio fiel.
 
-## Un artículo de 1.200 palabras: el caso de Inés
+### Un artículo de 1.200 palabras: el caso de Inés
 
 Inés escribe para el blog del centro de formación. No es un informe de ocupación para dirección. Es un post de 1.200 palabras para coordinadores que van a pedir sala. El tema lo ha dado ella. Los hechos, también. Ha impartido el taller seis veces. No necesita que ChatGPT le explique qué es un taller.
 
@@ -183,7 +183,7 @@ Inés reescribe el arranque: “Si prometes café, mientes. La máquina de la pl
 
 El resto de H2, igual. Un mensaje por apartado. Cuando tiene 1.100-1.300 palabras sucias, para. No pide “completa hasta 1.200 con un cierre potente”. El cierre lo escribe ella: tres viñetas para el día anterior. Un porcentaje redondo o un estudio que ella no puso se tacha. No va a fact-check “por si es verdad”. Lo fabricado se elimina.
 
-## Voz del autor: lo que el modelo no puede firmar
+### Voz del autor: lo que el modelo no puede firmar
 
 **Voz del autor** no es un “tono cercano”. Es el conjunto de decisiones que tú aguantarías en voz alta, en la sala 4, delante de doce coordinadores. El modelo no ha estado. No sabe si Inés tutea, si corta, si deja un hueco sin consuelo.
 

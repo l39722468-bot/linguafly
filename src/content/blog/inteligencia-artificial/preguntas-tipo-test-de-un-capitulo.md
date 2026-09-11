@@ -87,7 +87,7 @@ Qué no pedir:
 
 Eso no es autoexamen. No lo hagas. Si el modelo se niega, no busques un truco. Reformulas: capítulo tuyo, práctica, según tus notas.
 
-## Cuatro opciones y una correcta
+### Cuatro opciones y una correcta
 
 **Cuatro opciones y una correcta** es el formato. Una. No “A y C”. No “todas las anteriores” si tus apuntes no usan ese molde.
 
@@ -114,7 +114,7 @@ Si el capítulo no numera cuatro destinos, no fuerces cuatro. Mejor un ítem de 
 
 Cuando el modelo pone dos correctas de hecho (A y C ambas salen en la página), tiras el ítem o lo reescribes tú con *una* afirmación. No le pidas “hazlo más difícil” añadiendo una quinta teoría que no está.
 
-## Distractores plausibles (según tus notas)
+### Distractores plausibles (según tus notas)
 
 **IA distractores plausibles** no significa trampas de examen ajeno. Significa opciones incorrectas que *podrían* confundirte porque en *tus* páginas hay un término parecido, un paso anterior, una cifra de otra tabla.
 
@@ -138,7 +138,7 @@ Comprobación de cada distractor:
 
 No pidas “distractores como en el MIR / como en el test de la oposición”. El modelo imitará un estilo de trampa y meterá materia de otro temario. Tú quieres *tu* capítulo.
 
-## Autoexamen de un capítulo (cómo se hace el rato)
+### Autoexamen de un capítulo (cómo se hace el rato)
 
 **Autoexamen de un capítulo** es una sesión. No un simulacro de convocatoria. El reloj, si lo pones, es tuyo: 12 minutos para 8 ítems, por ejemplo. El chat no es el tribunal.
 
@@ -159,7 +159,7 @@ Qué no hacer en la sesión:
 
 Un capítulo, un autoexamen. Al día siguiente, las mismas 8 si fallaste, o el siguiente rango de páginas. No “el grado en 80 preguntas”.
 
-## No es el examen real: test para estudiar, no para copiar
+### No es el examen real: test para estudiar, no para copiar
 
 **No el examen real.** El modelo no lo tiene. Quien te venda que sí, miente o está pidiendo que pegues un examen ajeno. **Test para estudiar no para copiar.**
 
@@ -180,7 +180,7 @@ Vigencia y cifras: un tipo test de economía o de oposición con porcentajes y a
 
 Si la asignatura prohíbe IA en la evaluación, este rato es estudio en casa, como un compañero que te pregunta el tema. No es el acto de examen. El viernes escribes o marcas tú.
 
-## Ejemplo trabajado: Inés, capítulo 6, páginas 1-14
+### Ejemplo trabajado: Inés, capítulo 6, páginas 1-14
 
 Inés cursa Economía. Capítulo 6, política monetaria. Apuntes *suyos*, páginas 1 a 14. Tiene también la lista de epígrafes de la guía docente (una cara). El examen del profesor suele ser tipo test, pero Inés no tiene ese examen y no lo va a buscar. Quiere practicar *su* capítulo.
 
@@ -208,7 +208,7 @@ Salida: 8 preguntas. Inés no las memoriza aún. Abre el cuaderno.
 
 Lo que no haría: pegar el cuestionario del campus; “encuentra las preguntas de este año”; “haz 40 ítems del temario entero”. El modelo no entrega la asignatura. Inés tampoco se la hace entregar.
 
-## Errores al hacer un tipo test con IA
+### Errores al hacer un tipo test con IA
 
 **Pedir el examen de verdad** o pegarlo. No es este artículo. No lo hagas.
 
@@ -228,7 +228,7 @@ Lo que no haría: pegar el cuestionario del campus; “encuentra las preguntas d
 
 **Usar el autoexamen como entregable.** El cuestionario evaluable lo haces tú.
 
-## Para aquí
+### Para aquí
 
 **Preguntas tipo test con IA** caben en cinco líneas:
 

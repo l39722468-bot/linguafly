@@ -77,7 +77,7 @@ No entra:
 
 **IA para ponerte al día** vale cuando llegas el lunes a treinta mensajes. No vale para sustituir la lectura del mensaje donde te piden un sí. Ese mensaje se abre. El mapa señala cuál.
 
-## Qué pegar: recorte, no el CRM, no el DNI
+### Qué pegar: recorte, no el CRM, no el DNI
 
 Pegas un **recorte**. El hilo entero con diez reenvíos, logos y confidencialidad al pie es ruido y es riesgo.
 
@@ -92,7 +92,7 @@ El recorte sigue siendo correo de trabajo. Trátalo como envío a otra empresa. 
 
 Qué no hace falta para **quién dijo qué**: el organigrama, el importe interno, la nota de “cliente difícil”. Eso sesga al modelo hacia un tono de novela. Tú quieres filas.
 
-## El prompt: tabla fiel
+### El prompt: tabla fiel
 
 Prompt para copiar. Cambia el bloque Hilo. No pidas un “executive summary”.
 
@@ -131,7 +131,7 @@ Si ignora la tabla: “SOLO TABLA + UNA LÍNEA DE DECISIONES. SIN PROSA ANTES.�
 
 Opcional: dos filas juguete encima del hilo (una con fecha, una con no aparece). Anclan el formato. No sustituyen la prohibición de inventar.
 
-## Ejemplo trabajado: un hilo recortado
+### Ejemplo trabajado: un hilo recortado
 
 Recorte ya limpio. Nombres de pila, sin DNI, sin ficha de cliente, sin el pie legal. Así se pega.
 
@@ -188,7 +188,7 @@ Compruebas, línea a línea, con el recorte al lado. Ese es el mismo gesto que [
 
 Un turno. No un prompt de gurú.
 
-## Cómo comprobar (el resumen no borra el hilo)
+### Cómo comprobar (el resumen no borra el hilo)
 
 El mapa no se usa para enviar nada hasta que lo has leído contra el recorte. Cinco minutos.
 
@@ -207,7 +207,7 @@ Cuándo parar:
 - Te pide “el CRM para completar el 8 %”. No lo pegas. Completar sería inventar.
 - Empieza a redactar la respuesta a Marta sin que se lo hayas pedido. Eso ya no es resumen. Cierra. La respuesta, otro mensaje, hechos fijos.
 
-## Outlook o Gmail: el trabajo, no el tutorial
+### Outlook o Gmail: el trabajo, no el tutorial
 
 **Outlook o Gmail resumen** aparece aquí como el *mismo trabajo* en el producto de correo: un mapa corto encima del hilo. No es un manual de clics. No es “cómo activar Copilot”. No es comparar marcas.
 

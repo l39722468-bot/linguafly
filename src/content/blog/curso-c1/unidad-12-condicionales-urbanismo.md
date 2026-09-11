@@ -48,6 +48,8 @@ excerpt: >-
 
 Las ciudades son el resultado visible de decisiones tomadas durante décadas. Una línea de metro que no se construyó, una zona verde que fue protegida o una política de vivienda que se retrasó pueden explicar la situación actual. Para expresar esas relaciones entre decisiones pasadas y consecuencias presentes, el inglés utiliza los **mixed conditionals**.
 
+Si llegas con la consulta **condicionales mixtos ejercicios avanzados**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 - *If the city had invested in public transport decades ago, traffic would not be so severe today.*
 - *If the neighbourhood were more affordable, fewer families would have moved away last year.*
 

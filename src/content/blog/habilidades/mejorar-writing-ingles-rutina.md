@@ -43,6 +43,8 @@ Esta guía te da un **método** y una **rutina semanal** que funciona tanto si p
 
 ---
 
+Consultas como **mejorar writing ingles**, **Cómo Mejorar el Writing en Inglés** o **author: linguafly-team** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué significa "escribir bien" en inglés
 
 Antes de la rutina, conviene saber qué se evalúa realmente. Un corrector de Cambridge o IELTS no pondrá nota alta solo porque uses palabras raras. Los cuatro criterios universales son:

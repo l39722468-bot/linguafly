@@ -82,7 +82,7 @@ Cuándo sí pasar a activa:
 - Hay un “por + agente” claro.
 - La pasiva esconde un sujeto que el propio párrafo nombra dos líneas arriba y tú quieres que se vea.
 
-## Frases pasivas de un texto: cómo marcarlas
+### Frases pasivas de un texto: cómo marcarlas
 
 No pidas “busca pasivas en general” sobre un tema. Pega el fragmento. El modelo no tiene tu artículo hasta que se lo das.
 
@@ -114,7 +114,7 @@ Otra:
 
 Agente: no está. O dejas la “se”, o pones el agente que tú firmas. El modelo no elige Compras.
 
-## ChatGPT voz activa: el prompt
+### ChatGPT voz activa: el prompt
 
 **ChatGPT voz activa** (o el chat que uses) trabaja sobre el texto cercado. Un verbo. Un formato. Un límite.
 
@@ -144,7 +144,7 @@ Salida típica: un párrafo nuevo, más corto, con “claro está”, un “conv
 
 Pide al final, si te ayuda, tres columnas: original, activa, ¿agente en el original? Si la tabla dice “no” y la activa tiene sujeto, esa fila cae. El caso largo de un párrafo entero está más abajo.
 
-## IA no cambie el sentido: la comprobación
+### IA no cambie el sentido: la comprobación
 
 **IA no cambie el sentido** no se comprueba con “¿suena igual?”. Se comprueba con quién, qué, cuándo, cuánto.
 
@@ -163,7 +163,7 @@ Casos límite, cortos: dos pasivas, dos agentes o dos “AGENTE NO ESTÁ”, no 
 
 La **prosa más directa** es sujetos visibles. No adjetivos. No un 30 %. Si quieres densidad, cierras este chat. Abres tijera. No añades “y de paso acorta”.
 
-## El caso de Inés: un párrafo, no el post
+### El caso de Inés: un párrafo, no el post
 
 Inés tiene el sucio del post de 1.200 palabras. Un párrafo del H2 de la sala está lleno de pasivas. No pide “reescribe el artículo en voz activa”. Pide este párrafo.
 

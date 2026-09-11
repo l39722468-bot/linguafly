@@ -41,6 +41,8 @@ faqs:
 
 En **Australian English fonética**, como en otros acentos, la **schwa** /ə/ aparece en sílabas átonas y hace que las frases suenen “inglesas” y no como español con palabras inglesas insertadas. Practica en artículos y preposiciones:
 
+Si llegas con la consulta **Australian English para aprender inglés**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 - *“about”, “the”, “can” (weak forms)*
 
 **Ejercicio:** graba *“I can do it”* tres veces: (1) españolizado, (2) con weak forms, (3) con ritmo natural.

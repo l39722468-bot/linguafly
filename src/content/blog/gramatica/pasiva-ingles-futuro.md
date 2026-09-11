@@ -50,6 +50,8 @@ canonical: 'https://linguafly.app/blog/gramatica/pasiva-ingles-futuro'
 
 Cuando lees titulares como *"New regulations will be introduced next year"* o comunicados como *"The event will be held on Saturday"*, estás viendo la pasiva en futuro. Es una estructura muy común en anuncios oficiales, comunicados de empresa, noticias y cualquier tipo de texto formal que hable de lo que va a ocurrir.
 
+Quien busca **pasiva futuro ingles** o **cómo formar will be en voz pasiva** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## La estructura base: will be + participio
 
 **Sujeto + will be + participio pasado**
@@ -72,7 +74,7 @@ En pregunta:
 - *Will the report be published online?*
 - *When will the decision be made?*
 
-## Going to be + participio: con planes previos
+### Going to be + participio: con planes previos
 
 **Sujeto + am/is/are going to be + participio pasado**
 
@@ -86,7 +88,7 @@ En la práctica, especialmente en inglés formal y escrito, *will be* es más fr
 
 El hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) tiene la tabla completa con todos los tiempos verbales en pasiva, incluido el futuro.
 
-## Present Continuous como futuro: is being + participio
+### Present Continuous como futuro: is being + participio
 
 Cuando algo está programado para el futuro inmediato o hay un plan firme, a veces se usa el present continuous pasivo:
 
@@ -96,7 +98,7 @@ Cuando algo está programado para el futuro inmediato o hay un plan firme, a vec
 
 Este uso transmite que hay preparativos ya en marcha. Es más informal que *will be*.
 
-## Future Perfect Pasiva: will have been + participio
+### Future Perfect Pasiva: will have been + participio
 
 Para hablar de acciones que estarán terminadas antes de un punto futuro concreto:
 
@@ -108,7 +110,7 @@ Para hablar de acciones que estarán terminadas antes de un punto futuro concret
 
 Es una estructura más avanzada y poco frecuente en conversación, pero habitual en contratos, planes de proyecto y textos académicos formales.
 
-## Usos típicos de la pasiva en futuro
+### Usos típicos de la pasiva en futuro
 
 **En comunicados y anuncios oficiales:**
 - *The new CEO will be appointed next month.*
@@ -129,7 +131,7 @@ Es una estructura más avanzada y poco frecuente en conversación, pero habitual
 - *A refund will be processed in 5-7 working days.*
 - *You will be contacted by our team shortly.*
 
-## La pasiva en futuro con modales
+### La pasiva en futuro con modales
 
 Cuando añades modales (must, should, may, might, can), la estructura es:
 
@@ -143,7 +145,7 @@ Cuando añades modales (must, should, may, might, can), la estructura es:
 Si quieres combinar *will* con un modal de deducción (raro pero posible):
 - *The report will probably be ready by Monday.* (aquí *will* es el futuro y *probably* el matiz)
 
-## Comparativa rápida de opciones de futuro pasivo
+### Comparativa rápida de opciones de futuro pasivo
 
 | Estructura | Ejemplo | Matiz |
 |---|---|---|
@@ -153,7 +155,7 @@ Si quieres combinar *will* con un modal de deducción (raro pero posible):
 | will have been + participio | *It will have been completed by then.* | Futuro perfecto |
 | modal + be + participio | *It should be finished soon.* | Posibilidad/obligación |
 
-## Ejercicios
+### Ejercicios
 
 Transforma estas frases a pasiva en futuro:
 

@@ -42,6 +42,8 @@ Para el contexto completo de cómo funciona el present perfect en inglés, la gu
 
 ---
 
+Consultas como **Since vs For en Inglés: Cuándo Usarlos**, **for and since** o **since and for** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La diferencia fundamental
 
 Imagina una línea de tiempo. Cuando usas **since**, señalas un punto concreto en esa línea — el momento en que empezó la situación. Cuando usas **for**, mides la distancia desde ese punto hasta ahora — la duración total.

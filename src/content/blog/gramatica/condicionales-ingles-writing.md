@@ -51,6 +51,8 @@ canonical: 'https://linguafly.app/blog/gramatica/condicionales-ingles-writing'
 
 En writing, los condicionales hacen más que demostrar conocimiento gramatical. Te permiten argumentar con matices, proponer alternativas, hacer predicciones responsables y formular peticiones sin sonar brusco. Saber cuándo usar cada tipo cambia la calidad percibida de tu texto.
 
+Quien busca **condicionales ingles writing** o **cómo usar condicionales en writing B2 C1** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Por qué los condicionales importan en writing
 
 Un evaluador de Cambridge o un lector de un informe profesional no solo juzga si sabes construir un condicional. Juzga si lo usas en el contexto correcto para el efecto correcto.
@@ -60,7 +62,7 @@ Un evaluador de Cambridge o un lector de un informe profesional no solo juzga si
 - Third conditional → análisis del pasado, reflexión histórica, causas y consecuencias.
 - Zero conditional → definiciones, procesos, hechos establecidos.
 
-## Ensayos de opinión y discursivos
+### Ensayos de opinión y discursivos
 
 Este es el contexto más frecuente en Cambridge Writing. Los condicionales aparecen en argumentos, contraargumentos y conclusiones.
 
@@ -80,7 +82,7 @@ Este es el contexto más frecuente en Cambridge Writing. Los condicionales apare
 - *Even if this approach were adopted immediately, the results would not be visible for several years.*
 - *If opponents of this policy were correct, we would already be seeing the predicted negative effects.*
 
-## Emails formales
+### Emails formales
 
 Los condicionales son fundamentales para el tono correcto en emails profesionales y formales.
 
@@ -101,7 +103,7 @@ Compara con la versión directa: *"Send me the report."* El segundo conditional 
 
 Esta última forma ("should + sujeto + infinitivo" como alternativa a "if") es muy frecuente en correspondencia corporativa formal y demuestra dominio del registro.
 
-## Propuestas e informes
+### Propuestas e informes
 
 En propuestas, los condicionales sirven para proyectar beneficios y argumentar a favor de una idea.
 
@@ -117,7 +119,7 @@ En propuestas, los condicionales sirven para proyectar beneficios y argumentar a
 - *Had the previous campaign targeted a younger demographic, the results would have been more promising.*
 - *If the initial budget had been adequate, the project would not have been delayed.*
 
-## Cartas formales y de reclamación
+### Cartas formales y de reclamación
 
 **Condicionar la resolución de un problema:**
 - *If this issue is not resolved within ten working days, I will have no choice but to escalate the matter.*
@@ -126,7 +128,7 @@ En propuestas, los condicionales sirven para proyectar beneficios y argumentar a
 **Proponer soluciones:**
 - *If a replacement were sent promptly, I would be willing to continue as a customer.*
 
-## Cuatro frases para empezar argumentos con condicionales
+### Cuatro frases para empezar argumentos con condicionales
 
 Guárdalas y adáptalas:
 
@@ -135,7 +137,7 @@ Guárdalas y adáptalas:
 3. *If one examines the evidence carefully, there are strong grounds to suggest that...*
 4. *Had decision-makers acted sooner, the situation today would be fundamentally different.*
 
-## Ejercicio práctico
+### Ejercicio práctico
 
 **Reescribe estas frases para hacerlas más formales y apropiadas para writing:**
 

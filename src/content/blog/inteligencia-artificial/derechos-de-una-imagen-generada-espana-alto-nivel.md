@@ -68,7 +68,7 @@ Pasos, cada vez que vayas a publicar o a entregar:
 4. **Si la línea incluye cliente, exclusiva, merchandising o una cara real, paras.** Eso ya no lo cierra el pie. Eso es cita.
 5. **No pidas al chat “¿tengo derechos?”.** Pide, como mucho, un glosario de *un* párrafo de condiciones que tú has pegado ya recortado, sin tu DNI. El sí o el no no salen del modelo. El centro de ayuda del producto, si existe, se lee ahí y se fecha. No se convierte en informe para el cliente.
 
-## Quién es el autor de una imagen IA
+### Quién es el autor de una imagen IA
 
 **Quién es el autor de una imagen IA** es la búsqueda. A alto nivel, en España, la respuesta útil no es un usuario de Midjourney. El autor, en derechos de autor, es una persona que crea. Un modelo no se colegia. No firma. Hasta dónde llega *tu* prompt como creación es una discusión viva. Esta página no la cierra. Si el título importa (exclusiva, registro, garantía de originalidad), **preguntas a un abogado**. No al chat.
 
@@ -84,7 +84,7 @@ Tres preguntas que *sí* puedes llevar a la cita, si el asunto lo pide:
 
 El chat no responde esas tres. Las lista, como mucho. Luego paras.
 
-## Usar una imagen de ChatGPT en un blog
+### Usar una imagen de ChatGPT en un blog
 
 **Usar una imagen de ChatGPT en un blog** es el caso más frecuente y el que menos debería asustar, si el blog es tuyo, el tema es inofensivo y no hay caras ni marcas ajenas. “Menos” no es “cero”. Es: lees las condiciones de OpenAI (o del producto que esté generando *hoy* en esa ventana), tu plan, y publicas con cabeza.
 
@@ -106,7 +106,7 @@ Lo que ya no es “un blog”:
 
 Una newsletter gratuita se parece al blog. Una landing de un curso de 400 euros, al comercial. El archivo es el mismo. El uso no.
 
-## Licencia Adobe Firefly (y el resto de condiciones)
+### Licencia Adobe Firefly (y el resto de condiciones)
 
 **Licencia Adobe Firefly** es la otra búsqueda habitual, porque Adobe ha empujado el mensaje de “entrenado con lo nuestro / uso comercial”. Eso es **marketing de producto más un contrato**. No es una sentencia de un juzgado de lo mercantil en Madrid.
 
@@ -124,7 +124,7 @@ Pasos con Firefly, si el trabajo es de verdad comercial:
 
 No uses el chat para “resumir si estamos cubiertos”. El resumen omite la exclusión que duele. El sí comercial no sale de Gemini.
 
-## Imagen de IA en un uso comercial
+### Imagen de IA en un uso comercial
 
 **Imagen de IA en un uso comercial** no es un interruptor único. Comercial es un abanico. Un sticker en un Instagram de una cafetería no es una campaña de un banco. El producto puede permitir ambos. El abogado no cobra lo mismo. Tú no trates el sticker como el banco.
 
@@ -134,7 +134,7 @@ No firmes sin leer “garantizamos originalidad y no infracción”, “cesión 
 
 Ejemplo. Luis, pyme: carrusel de LinkedIn en Firefly, cuenta de empresa, oficina vacía, sin logos ni empleados. Comercial ligero. Guarda el enlace a los términos. Si marketing quiere valla y bus, no recicla el “ya lo miré en marzo”. Presupuesto de media serio: profesional.
 
-## IA y propiedad intelectual España, a alto nivel
+### IA y propiedad intelectual España, a alto nivel
 
 **IA y propiedad intelectual España** no se resuelve con una STS inventada ni con un artículo sacado del chat. El modelo mezcla fueros y años. [La IA no sustituye a un profesional colegiado](/blog/inteligencia-artificial/la-ia-no-sustituye-a-un-profesional-colegiado): **no un dictamen**, no “en España es legal”. Alto nivel, para no relajarte:
 

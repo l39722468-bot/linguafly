@@ -42,6 +42,8 @@ La buena noticia: el oído aprende rápido cuando se entrena de la manera adecua
 
 ---
 
+Consultas como **como entender acentos ingles**, **cómo entender diferentes acentos del inglés** o **ejercicios gratis de listening con acentos ingleses** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué los acentos resultan difíciles de entender
 
 ### El cerebro usa atajos

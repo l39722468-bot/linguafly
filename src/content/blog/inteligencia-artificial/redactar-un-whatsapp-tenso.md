@@ -75,7 +75,7 @@ Cuándo no:
 
 El canal es corto. El prompt también.
 
-## ChatGPT y el tono de un mensaje corto
+### ChatGPT y el tono de un mensaje corto
 
 **Chatgpt tono de un mensaje corto** no se pide con “sé empático pero firme pero cercano”. Eso es un cajón de LinkedIn metido en un globo. Se pide con restricciones y con un ejemplo.
 
@@ -104,7 +104,7 @@ Lo que no pides:
 
 Si el primer borrador del modelo abre con “Espero que estés bien” y vosotros os escribís cada día, lo tachas. Una línea de corrección: “No abras con un saludo de plantilla. Empieza por el hecho.” No un prompt nuevo de 40 líneas.
 
-## Versión breve y versión clara: el prompt
+### Versión breve y versión clara: el prompt
 
 Pides **versión breve y versión clara**. Dos. No doce. La breve cabe en un globo. La clara cabe en dos. Tú eliges. No mezcles las dos en un párrafo híbrido que no es ni corto ni claro.
 
@@ -153,7 +153,7 @@ Si pide tres variantes, di: “Quédate con la breve. La clara, no. No más vers
 
 El ejemplo de arriba, junto, está por debajo de 400 caracteres. Ese es el techo de muestra. Un WhatsApp tenso no es un hilo de Twitter. Si el modelo te devuelve 800 caracteres, has pedido mal o no has puesto tope. Rehaz con el número a la vista.
 
-## IA, mensaje a un familiar: qué pegas y qué no
+### IA, mensaje a un familiar: qué pegas y qué no
 
 **Ia mensaje a un familiar** tienta a pegar de más. “Para que entienda el contexto.” El contexto de un globo no incluye el nombre de los niños, el DNI de nadie ni el chat entero de 80 mensajes. Recorta.
 
@@ -183,7 +183,7 @@ Prompt: dos versiones, tope 70 y 100, hechos fijos, prohibido añadir que estás
 
 Envías tú la breve. Si la otra persona abre juicio, no contestas con un segundo discurso generado. Paras. Si hay que hablar, hablas. El chat no es un intermediario familiar.
 
-## Suavizar un WhatsApp sin mentir
+### Suavizar un WhatsApp sin mentir
 
 **Suavizar un whatsapp sin mentir** es el fallo más caro de este oficio. El modelo, si le das cuerda, inventa un motivo amable. Un médico. Un jefe. Un “imprevisto”. Suena suave. Es falso. Tú lo envías y luego tienes que sostener la mentira, o te pillan, o te acostumbras.
 

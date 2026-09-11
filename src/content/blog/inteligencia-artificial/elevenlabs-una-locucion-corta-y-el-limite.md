@@ -74,7 +74,7 @@ Pasos de arranque, sin inventar menús que el producto moverá:
 
 Si el producto te ofrece clonar a partir de una muestra, ese control **no es este job**. Ciérralo. El catálogo basta para un horario.
 
-## El ejemplo de Inés: horario de la consulta
+### El ejemplo de Inés: horario de la consulta
 
 Inés tiene 45 segundos. Trabaja en una consulta pequeña. El cartel de la puerta se queda corto. Quiere un vídeo para la tele del recibidor y para el WhatsApp de “avisos”, no para TikTok.
 
@@ -101,7 +101,7 @@ Qué no hace Inés:
 
 Si Inés no quiere oír su propia garganta, el catálogo es la salida. Si quiere oírse ella, se graba con el móvil en una sala quieta. Los dos caminos son limpios. El tercero (el compañero clonado) no.
 
-## IA voz en español: catálogo y pronunciación de un nombre
+### IA voz en español: catálogo y pronunciación de un nombre
 
 **IA voz en español** no es “un español genérico y ya”. Eliges:
 
@@ -125,7 +125,7 @@ Números y horas: “16:00” a veces sale como dieciséis mil. Escríbelo en le
 
 Marcas y anglicismos de la oficina (“Moodle”, “Slack”, “ticket”): decide cómo se dicen en vuestra casa y fíjalo. El modelo no asiste a vuestra reunión de onboarding.
 
-## Ajustar una voz sintética (sin clonar)
+### Ajustar una voz sintética (sin clonar)
 
 **Ajustar una voz sintética** es estabilidad, velocidad, pausa, similaridad *dentro del catálogo*. No es “acercarla a Marta de administración”.
 
@@ -145,7 +145,7 @@ Qué no tocas:
 
 El prompt del guion, si lo pides en un chat, es tarea, texto, formato, lo que no debe inventar. “No inventes horarios. No añadas un eslogan. Devuelve solo el párrafo para leer.” Luego *tú* contrastas con el cartel real. El modelo no ha estado en la puerta.
 
-## Coste de una locución y la licencia que no dictaminamos
+### Coste de una locución y la licencia que no dictaminamos
 
 **Coste de una locución:** 45 segundos no son ocho horas. Esa es la brújula. El precio exacto lo pone el plan **hoy**. No lo copies de un hilo. Entra, mira minutos o caracteres, mira si el export comercial pide otro escalón.
 
@@ -165,7 +165,7 @@ Licencia, alto nivel, **sin dictamen**:
 
 Si el coste te parece alto para 45 segundos, grábate. El móvil es una herramienta. ElevenLabs no es obligatorio.
 
-## No un audiolibro pirateado
+### No un audiolibro pirateado
 
 **No un audiolibro pirateado.** La frase es el límite que la gente intenta saltar con “es solo para mí, para oírlo en el metro”.
 

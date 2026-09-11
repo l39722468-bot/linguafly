@@ -63,7 +63,7 @@ No pidas al chatbot “quita los datos personales y luego resume”. Eso es envi
 
 Si el recorte te deja un texto que ya no se entiende, la tarea no era para un chatbot de consumo. O resumes tú el trozo sensible a mano (“hay un plazo de 10 días y un importe N”) y pegas solo eso, o no usas el chat para ese archivo.
 
-## Qué PDF sí y qué PDF no
+### Qué PDF sí y qué PDF no
 
 **Analizar un PDF con IA** solo tiene sentido si el archivo es el tipo de documento que aceptarías sacar de tu máquina.
 
@@ -90,7 +90,7 @@ Si trabajas con **cuenta de empresa** contratada para eso, pregunta a quien toqu
 
 Si el archivo no se sube, aún puedes pegar un extracto ya limpio: “Hay un plazo de 10 días y tres obligaciones genéricas; lista de preguntas para la reunión.” Sin PDF. Sin nombres.
 
-## Cómo pedir un resumen que no invente
+### Cómo pedir un resumen que no invente
 
 **Resumir PDF con inteligencia artificial** falla más por la orden que por el clip. “Léete esto y ayúdame” produce un ensayo con un plazo de más. La orden se parece a la de [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva): tarea, contexto, formato, límite.
 
@@ -125,7 +125,7 @@ Después de la primera salida: PDF en otra ventana, busca cada cifra y cada nomb
 
 Eso es **analizar un PDF con IA** bien. El mismo gesto con la nómina del mes, aunque recortes el NIF, no. El recorte no convierte un documento prohibido en un manual.
 
-## Límites de archivos en chatbots
+### Límites de archivos en chatbots
 
 **Límites de archivos en chatbots** cambian de trimestre y de plan (gratis o de pago). No memorices un megabyte de un recorte de blog de 2024. Mira la ayuda del producto el día que subas. Lo que no cambia es el tipo de tope:
 
@@ -139,7 +139,7 @@ Qué haces con el tope: extrae el capítulo (15 páginas, no 120); si el product
 
 Errores de límite que parecen “la IA es tonta”: resume solo la portada (el resto es imagen); inventa el capítulo 4 porque no lo ha extraído; mezcla dos PDFs. Un archivo, una tarea, un rango. “Proyectos” y carpetas persistentes, el primer mes, fuera.
 
-## Gemini, Drive y la diferencia de trabajo (no de magia)
+### Gemini, Drive y la diferencia de trabajo (no de magia)
 
 **Gemini subir PDF Drive** aparece en las búsquedas porque Google une el chat a la carpeta. ChatGPT y otros productos tienen sus propios conectores, según el mes y el plan. Esta sección no es una guía de clics de un menú que se mueve. Es la diferencia de *trabajo*.
 
@@ -149,7 +149,7 @@ En el **trabajo**, la diferencia no es el icono. Es si hay **cuenta de organizac
 
 Para el particular que resume el manual de la nevera: da igual clip que Drive. Recorta, pide secciones, no inventes, comprueba. Si pide “leer todo Drive”, limita a un archivo. Todo Drive es un volcado, no una sesión.
 
-## Errores al analizar un PDF con IA
+### Errores al analizar un PDF con IA
 
 **Subir primero y pensar después.** El recorte era el trabajo. El clip es el último gesto.
 
@@ -167,7 +167,7 @@ Para el particular que resume el manual de la nevera: da igual clip que Drive. R
 
 **Un “lector de PDF con IA” de un anuncio** que pide la cuenta del banco. Web oficial del producto que ya usas.
 
-## Para aquí
+### Para aquí
 
 **Subir un PDF a un chatbot** cabe en cinco líneas:
 

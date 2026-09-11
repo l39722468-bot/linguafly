@@ -52,6 +52,8 @@ Si llevas tiempo estudiando inglés, conoces "if". Pero hay toda una familia de 
 
 Empecemos por la que más confunde.
 
+Consultas como **unless ingles**, **cómo usar unless en inglés con ejemplos** o **diferencia entre unless e if not explicada** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Unless: la excepción, no la negación
 
 La tendencia automática de los hispanohablantes es traducir "unless" como "si no" y usarlo como si fuera idéntico a "if not". En la mayoría de casos funciona, pero hay una diferencia conceptual que vale la pena entender.
@@ -82,7 +84,7 @@ Y nunca pongas "not" junto a "unless" porque es redundante:
 - ❌ *Unless you don't finish it...*
 - ✓ *Unless you finish it...*
 
-## Provided that / providing that
+### Provided that / providing that
 
 Significa "siempre que" o "con la condición de que". Es más formal que "if" y se usa mucho en contratos, acuerdos y comunicaciones oficiales.
 
@@ -92,7 +94,7 @@ Significa "siempre que" o "con la condición de que". Es más formal que "if" y 
 
 En conversación informal, "provided that" suena un poco rígido. En un email profesional o en una propuesta, es perfecto.
 
-## As long as
+### As long as
 
 Parecido a "provided that" pero más versátil. Funciona tanto en conversación como en escritura formal.
 
@@ -102,7 +104,7 @@ Parecido a "provided that" pero más versátil. Funciona tanto en conversación 
 
 "As long as" tiene también un uso temporal (mientras que), lo que puede crear ambigüedad en algunos contextos. Normalmente el contexto deja claro cuál de los dos significados se usa.
 
-## Only if: la condición exclusiva
+### Only if: la condición exclusiva
 
 "Only if" implica que la condición mencionada es la única posible. Añade exclusividad y énfasis.
 
@@ -112,14 +114,14 @@ Parecido a "provided that" pero más versátil. Funciona tanto en conversación 
 
 Nota la inversión en el último ejemplo: cuando "only if" va al principio de la frase, el sujeto y el auxiliar se invierten en la segunda cláusula. Esto es una estructura muy apreciada en textos formales y en exámenes de nivel C1.
 
-## On condition that
+### On condition that
 
 Muy formal, casi exclusivo de textos legales o acuerdos escritos.
 
 - *The loan was approved on condition that the company provided a guarantor.*
 - *He agreed to sign on condition that the terms were modified.*
 
-## Tabla resumen
+### Tabla resumen
 
 | Conjunción | Registro | Significado |
 |---|---|---|
@@ -129,7 +131,7 @@ Muy formal, casi exclusivo de textos legales o acuerdos escritos.
 | **on condition that** | Muy formal | A condición de que |
 | **only if** | Neutro-formal | Solo si / únicamente si |
 
-## Ejercicios
+### Ejercicios
 
 **Rellena el hueco con la conjunción más adecuada:**
 
@@ -146,7 +148,7 @@ Muy formal, casi exclusivo de textos legales o acuerdos escritos.
 - *If she doesn't improve her performance, she'll be let go.*
 → *Unless she improves her performance, she'll be let go.*
 
-## En exámenes Cambridge
+### En exámenes Cambridge
 
 Las conjunciones condicionales son un clásico en el **Use of English** de Cambridge B2 y C1. Aparecen en ejercicios de transformación y de selección múltiple.
 

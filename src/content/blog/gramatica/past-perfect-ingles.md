@@ -56,6 +56,8 @@ Para entender cómo encaja el past perfect con el past simple y el present perfe
 
 ---
 
+Consultas como **Past Perfect en Inglés: Usos, Reglas y Ejemplos**, **past perfect ingles** o **cómo usar el past perfect en inglés con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Estructura del Past Perfect
 
 **Sujeto + had + participio pasado**

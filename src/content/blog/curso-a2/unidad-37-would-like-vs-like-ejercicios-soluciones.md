@@ -67,6 +67,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Si llegas con la consulta **would like vs like ejercicios**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Lección 1 — Gramática
 
 **Objetivo:** I like (gusto) vs I'd like (pedido); Would you like…? vs Do you like…?

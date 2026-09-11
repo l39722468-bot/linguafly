@@ -45,6 +45,8 @@ Si llevas tiempo estudiando inglés y sientes que "algo" no cuadra en tu pronunc
 
 ---
 
+Consultas como **schwa ingles**, **qué es el schwa en inglés y cómo pronunciarlo** o **ejercicios gratis para practicar el sonido schwa** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es exactamente y cómo se produce
 
 El schwa es una vocal central y media. Si pusieras los sonidos vocálicos en un triángulo según la posición de la lengua, el schwa estaría justo en el centro: ni adelante, ni atrás, ni arriba, ni abajo. La boca está casi en reposo. Los labios no se estiran ni se redondean. La mandíbula cae ligeramente, nada más.

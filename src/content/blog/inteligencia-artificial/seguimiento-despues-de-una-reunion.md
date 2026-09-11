@@ -66,7 +66,7 @@ La reunión de quince minutos se prepara en otro artículo: [preparar una reuni�
 
 Si sales sin notas, no le pidas al modelo que “recuerde la meeting”. No estaba. Tres minutos de bloc, aunque sea en el móvil: lo cerrado, lo encargado, lo que no se dijo. Ese bloc es el original. El chat solo ordena. Sin bloc, el recap es invención con formato de correo.
 
-## Recap corto, no un acta disfrazada de email
+### Recap corto, no un acta disfrazada de email
 
 **No un acta disfrazada de email.** Esa es la trampa. Pides “un follow up profesional” y sale: lista de asistentes, clima de la reunión, “se abrió un espacio de diálogo”, seis temas, tres “se acordó explorar”. Eso es acta mala. No es correo.
 
@@ -94,7 +94,7 @@ Si necesitas el acta, la pides en otro hilo, con otro prompt, otro formato (docu
 
 El email profesional genérico (asunto, trato, longitud) está en [redactar un email profesional con IA](/blog/inteligencia-artificial/redactar-un-email-profesional-con-ia). Este correo es un caso: recap + dueños + fecha. No lo conviertas en carta de presentación.
 
-## Dueños y fechas: no inventar
+### Dueños y fechas: no inventar
 
 El fallo caro no es el “gracias”. Es Marta dueña de todo y el jueves que nadie dijo.
 
@@ -119,7 +119,7 @@ En tu pasada, antes de enviar:
 
 Interno frente a cliente: en interno, “no aparece” se puede dejar y preguntar. En **seguimiento a un cliente**, “no aparece” en el correo queda raro. O lo rellenas tú (porque lo sabes y te comprometes) o escribes “la fecha de firma no se cerró; la proponemos el jueves”. Esa propuesta es tuya, no del modelo. Si el chat la cuela como acuerdo, miente.
 
-## ChatGPT recap: un ejemplo trabajado
+### ChatGPT recap: un ejemplo trabajado
 
 Notas tuyas, desordenadas, ya sin nombres de empresas reales:
 
@@ -164,7 +164,7 @@ Transcripción: no. Recorta tú el cierre (los últimos cinco minutos suelen lle
 
 Destinatarios: las personas que estaban y, si hay un dueño que no estaba, ese dueño. No copies al mundo “por visibilidad”. El modelo no decide el Para ni el CC. Lo pones tú. Si el recap es interno y el cliente no debe ver las viñetas de “precio de marzo”, no mezcles listas: un correo al cliente, otro al equipo, o el mismo recap recortado. Dos pegados al chat, dos entregables. Un solo “hazme versiones” suele colar el margen en el mensaje del cliente.
 
-## Agradecimiento y tareas
+### Agradecimiento y tareas
 
 **Agradecimiento y tareas** conviven si el agradecimiento ocupa una línea y las tareas ocupan el centro. Al revés, el correo es una tarjeta de visita.
 

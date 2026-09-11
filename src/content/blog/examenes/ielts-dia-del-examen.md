@@ -40,6 +40,8 @@ Esta guía no es sobre estrategias de examen —para eso están los artículos e
 
 ---
 
+Consultas como **dia del examen ielts**, **consejos para el día del IELTS paso a paso** o **documentación necesaria para examen IELTS** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Antes del día: qué confirmar con antelación
 
 ### Documentación

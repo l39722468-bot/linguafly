@@ -39,6 +39,8 @@ Si primero quieres repasar los conceptos teóricos, la guía [Verbos Modales en 
 
 ---
 
+Consultas como **ejercicio modales ingles**, **verbos modales ingles ejercicios resueltos** o **ejercicios de verbos modales ingleses con respuestas** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Bloque 1 — Ejercicios de Nivel A2/B1: Habilidad y Permiso
 
 Los modales **can**, **could** y **may** expresan habilidad, posibilidad y permiso.

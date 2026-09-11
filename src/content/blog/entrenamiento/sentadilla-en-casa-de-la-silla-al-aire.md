@@ -62,7 +62,7 @@ La silla también es el regreso. Semana fea, resfriado leve, escritorio de ocho 
 
 No hace falta un plato nuevo cada noche. Tres cenas que ya sepas hacer. Aquí: un gesto que ya sepas bajar.
 
-## La silla estable (setup)
+### La silla estable (setup)
 
 ![Sentadilla a la silla: flecha EMPUJA en los talones, te sientas y te levantas](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/silla.png)
 
@@ -80,7 +80,7 @@ Contra una pared si dudas, para que no se vaya. Deja un palmo entre pantorrillas
 
 Martes feo de setup. Llegas a las 21:10. La silla buena está llena de ropa. Coges la de ruedas “un día”. No. Vacía la de comedor. El atajo de ruedas enseña a no fiarte del asiento. Ese miedo se queda cuando lo quitas. En un piso pequeño, la silla de la mesa ya es el material. Hace falta que no ruede y que no se hunda.
 
-## Sentarte y levantarte con control
+### Sentarte y levantarte con control
 
 El patrón es simple. Lo simple se rompe con prisa.
 
@@ -102,7 +102,7 @@ Semana 1. Ocho repeticiones. Tres segundos abajo. Un segundo sentado. Tres serie
 
 Martes feo. Has dormido poco. El primer descenso ya es un dejar caer. No “cumples las doce”. Haces seis limpias o vuelves a la silla más alta. Mañana no se recupera con doce feas.
 
-## Quitar el asiento: sentadilla al aire
+### Quitar el asiento: sentadilla al aire
 
 ![Sentadilla al aire: cadera atrás, EMPUJA desde los talones, talón que no se levanta](/blog/entrenamiento/sentadilla-en-casa-de-la-silla-al-aire/aire.png)
 
@@ -120,7 +120,7 @@ Semana 3, si la 2 fue limpia. Aire a la altura de la silla. Ocho a diez. Pausa d
 
 Si un día el aire se desmonta —talón, rodilla dentro, prisa— la silla no se ha ido de la casa. Dos series a la silla y una al aire, o las tres a la silla. El patrón gana al orgullo.
 
-## Talones, rodillas y hasta dónde bajar
+### Talones, rodillas y hasta dónde bajar
 
 Tres piezas. Se rompen juntas o se cuidan juntas.
 
@@ -134,7 +134,7 @@ Tobillo corto de escritorio. Calienta con cinco sentadillas a la silla, altas. L
 
 Hasta dónde bajar se decide con tres síes: talón, rodilla, pausa. Si falta uno, el rango es demasiado.
 
-## Dónde encaja en la sesión de 25 minutos
+### Dónde encaja en la sesión de 25 minutos
 
 La sentadilla no es un circuito aparte. Es el primer compuesto de la [rutina de fuerza para principiantes en casa](/blog/entrenamiento/rutina-fuerza-principiantes-casa). Va después de cuatro minutos de calentamiento, no en frío y no al final, cuando ya no queda atención.
 
@@ -157,7 +157,7 @@ Después, un plato que ya sepas, con [proteína, hidratos y grasas visibles](/bl
 
 Anota: silla o aire, repeticiones, si el talón se quedó, si hubo golpe. Sin eso, cada lunes es un estreno.
 
-## Errores que convierten el gesto en un rebote
+### Errores que convierten el gesto en un rebote
 
 El rebote parece trabajo. Es un muelle. El tendón y la rodilla lo pagan más que el cuádriceps.
 
@@ -175,7 +175,7 @@ Martes feo de rebote. Llegas con prisa. Timer de tres minutos. Quince seguidas. 
 
 El ritmo de la canción no es el ritmo de la bajada. El espejo puede ayudar a ver la rodilla. También puede convertir el set en una pose. Un set de cada tres de lado, si te sienta.
 
-## Cuándo no bajar más
+### Cuándo no bajar más
 
 Parar de profundizar no es cobardía. Es el dato.
 

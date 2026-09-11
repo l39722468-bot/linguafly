@@ -38,6 +38,8 @@ Como expertos en preparación de exámenes de Cambridge, te aseguramos que el do
 
 ---
 
+Si llegas con la consulta **Voz Pasiva en Inglés: Guía Completa y Ejemplos**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## 1. ¿Por qué usamos la Voz Pasiva?
 
 Muchos estudiantes cometen el error de pensar que la pasiva es simplemente una forma "difícil" de decir lo mismo que en activa. Sin embargo, su uso responde a intenciones comunicativas muy claras:

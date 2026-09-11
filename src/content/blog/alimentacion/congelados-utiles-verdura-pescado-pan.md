@@ -76,7 +76,7 @@ Inventario de treinta segundos, hoy, antes de comprar más:
 
 El saco abierto se cierra del todo. El aire quema la verdura. Pinza o palo. Fecha con rotulador si el saco durará más de un mes. Para el plan semanal, deberías acabarlo antes.
 
-## Verdura congelada para cocinar
+### Verdura congelada para cocinar
 
 La verdura congelada no es ensalada. Es verdura de sartén, de olla, de horno. **Guisantes y brócoli congelados** cubren el hueco de mitad de semana, cuando la hoja de bolsa ya no está buena. No sustituyen un tomate crudo. Sustituyen el calabacín que no compraste.
 
@@ -116,7 +116,7 @@ Si el saco es espinaca: lunes tortilla, miércoles pasta o arroz. No abras bróc
 
 Fresca y congelada no son enemigas. Hoja y tomate al principio de semana. Congelado a partir del miércoles. El [presupuesto semanal de comida realista](/blog/alimentacion/presupuesto-semanal-de-comida-realista) aguanta mejor cuando la verdura se come, no cuando se pudre en el cajón.
 
-## Pescado congelado para principiantes
+### Pescado congelado para principiantes
 
 Pescado congelado semanal: un saco o una caja de filetes que sí sabes hacer. No seis especies. Una. Merluza, bacalao, pangasius si te vale, salmón de saco si entra en el rango. Gamba pelada si es tu atajo y la usas en dos cenas, no en un risotto imaginario.
 
@@ -167,7 +167,7 @@ Si entrenas, el pescado congelado es proteína de un día de [rutina de fuerza p
 
 Pescado fresco el domingo: solo si lo cocinas pronto. El resto de la semana, el saco gana. Menos merma. Menos olor en la nevera el jueves.
 
-## Congelar pan en rebanadas
+### Congelar pan en rebanadas
 
 El pan se pone duro. O se tira media barra el miércoles. **Congelar pan en rebanadas** arregla el desayuno y el huevo de comodín. No es panadería fina. Es tostada que existe.
 
@@ -195,7 +195,7 @@ Otros panes: pita, wraps, chapata. Misma idea. Separan bien. Tostadora o sartén
 
 Ajo y tomate en la tostada congelada: el pan primero, el tomate después. El hielo no adereza.
 
-## Cómo entran en el plan de la semana
+### Cómo entran en el plan de la semana
 
 No improvises el saco a las 21:40 sin haberlo escrito. El congelado es un ítem del plan, como el pollo.
 
@@ -227,7 +227,7 @@ Dos personas: duplicas pescado y pan. La verdura no siempre al doble: un kilo de
 
 Día de entreno: la verdura congelada no sustituye la proteína. Añade huevo, yogur, bote o el pescado. El saco es la parte verde y el atajo de tiempo.
 
-## Errores que llenan el cajón y no el plato
+### Errores que llenan el cajón y no el plato
 
 **Comprar sin plan.** Seis sacos. Uno se usa. Cinco se queman de frío. El inventario de treinta segundos evita el séptimo.
 

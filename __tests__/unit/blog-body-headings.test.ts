@@ -29,4 +29,32 @@ describe("published article markdown headings", () => {
     }
     expect(offenders).toEqual([]);
   });
+
+  it("uses H3 subsections (heading depth through H3, not only H2)", () => {
+    const missing: string[] = [];
+    for (const file of walk(BLOG_DIR)) {
+      const body = bodyAfterFrontmatter(fs.readFileSync(file, "utf8"));
+      if (!/^### /m.test(body)) {
+        missing.push(path.relative(BLOG_DIR, file));
+      }
+    }
+    expect(missing).toEqual([]);
+  });
+});
+
+describe("keywords in article body", () => {
+  it("places search phrases in the present-perfect and activa/pasiva guides", () => {
+    const perfect = fs.readFileSync(
+      path.join(BLOG_DIR, "gramatica/present-perfect-vs-past-simple.md"),
+      "utf8"
+    );
+    const pasiva = fs.readFileSync(
+      path.join(BLOG_DIR, "gramatica/activa-vs-pasiva-ingles.md"),
+      "utf8"
+    );
+    const bodyPerfect = bodyAfterFrontmatter(perfect).toLowerCase();
+    const bodyPasiva = bodyAfterFrontmatter(pasiva).toLowerCase();
+    expect(bodyPerfect).toContain("present perfect or past simple");
+    expect(bodyPasiva).toContain("activa vs pasiva");
+  });
 });

@@ -42,6 +42,8 @@ Si te identificas con esta situación, no eres el único. El **bloqueo mental al
 
 ---
 
+Si llegas con la consulta **bloqueo mental ingles**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Por Qué Nos Bloqueamos al Hablar Inglés
 
 El bloqueo no es un problema de vocabulario ni de gramática. Es un problema **psicológico y neurológico**.

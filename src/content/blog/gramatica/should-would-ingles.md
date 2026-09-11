@@ -46,6 +46,8 @@ Para un panorama completo de todos los modales en inglés, la guía [Verbos Moda
 
 ---
 
+Consultas como **Should y Would en Inglés: Usos y Diferencias**, **should usos ingles** o **diferencia entre should y would en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Should: los usos principales
 
 ### 1. Consejos y recomendaciones

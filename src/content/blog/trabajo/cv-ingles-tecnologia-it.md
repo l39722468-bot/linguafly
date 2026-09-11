@@ -42,6 +42,8 @@ Si aplicas a puestos de desarrollo, DevOps, data, QA, ciberseguridad, SRE o prod
 
 ---
 
+Consultas como **CV en Inglés para Tecnología e IT: Guía y Plantilla**, **cv ingles tecnologia** o **CV en Inglés para IT** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Las reglas básicas que cambian respecto al CV español
 
 1. **Una página** si tienes menos de 7-8 años de experiencia. Dos como máximo.

@@ -41,6 +41,8 @@ Esto no significa que tengas que usar palabras raras o rebuscadas. Significa que
 
 ---
 
+Consultas como **vocabulario c1 advanced**, **palabras y expresiones inglés nivel C1** o **lista vocabulario Cambridge C1 con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Los sinónimos que más discriminan
 
 El vocabulario de nivel C1 no son palabras exóticas; son palabras que los hablantes cultos usan de manera natural. Aquí tienes los grupos de sustitución más frecuentes en el CAE:
@@ -65,7 +67,7 @@ Aprender estas familias de sinónimos no consiste en memorizar la lista: consist
 
 ---
 
-## La nominalización: hablar como los textos formales
+### La nominalización: hablar como los textos formales
 
 Una de las marcas del inglés de nivel C1 es la **nominalización**: convertir verbos y adjetivos en sustantivos para crear un estilo más abstracto y formal.
 
@@ -82,7 +84,7 @@ Este patrón aparece constantemente en los textos del Reading del CAE y es exact
 
 ---
 
-## Expresiones idiomáticas de nivel C1
+### Expresiones idiomáticas de nivel C1
 
 Los *idioms* son una parte del vocabulario que los examinadores valoran en el Speaking y que aparece en el Reading. No se espera que los uses constantemente, pero sí que los reconozcas y que puedas usar algunos de manera natural.
 
@@ -105,7 +107,7 @@ Los *idioms* son una parte del vocabulario que los examinadores valoran en el Sp
 
 ---
 
-## Phrasal verbs formales para el Writing y el Speaking
+### Phrasal verbs formales para el Writing y el Speaking
 
 Los *phrasal verbs* de registro formal son especialmente valorados porque demuestran que conoces el inglés idiomático sin abandonar el nivel de formalidad. Estos son los más útiles para el CAE:
 
@@ -122,7 +124,7 @@ Los *phrasal verbs* de registro formal son especialmente valorados porque demues
 
 ---
 
-## Cómo ampliar vocabulario de manera efectiva
+### Cómo ampliar vocabulario de manera efectiva
 
 Hay varias maneras de aprender vocabulario de nivel C1 y todas comparten una cosa: el **contacto regular con inglés auténtico de calidad**.
 

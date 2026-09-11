@@ -66,7 +66,7 @@ Si la 2 tiene respuesta, sigues esa respuesta. Fin de la duda filosófica. Si no
 
 **Ética de un copy con IA** no es un sentimiento. Es: no vender como propio un argumento que no has sostenido, y no ocultar la herramienta cuando quien te paga o te publica ha dicho que quiere saberlo. El corrector no se declara. Un borrador entero pegado y firmado, sí, a quien corresponde.
 
-## Cuándo un cliente debe saberlo
+### Cuándo un cliente debe saberlo
 
 **Cuándo un cliente debe saberlo** no se decide por el porcentaje de frases que “salieron del modelo”. Se decide por el encargo.
 
@@ -91,7 +91,7 @@ Si el cliente responde “úsala y que el lector no lo sepa”, cruzas dos norma
 
 No ofrezcas dictamen de “obligación legal de etiquetar”. Hay contrato, brief y costumbre. Si un abogado del cliente dice otra cosa, gana ese abogado.
 
-## Normas de un medio sobre IA
+### Normas de un medio sobre IA
 
 **Normas de un medio sobre IA** se leen. No se adivinan. No se copian de otro diario.
 
@@ -120,7 +120,7 @@ Si escribes en varios sitios, cada sitio es un brief. Unifica la pregunta. La re
 
 Si el medio prohíbe la IA y tú ya la usaste: lo dices al editor **antes** de entregar. Ofreces reescribir. “Que no se note” no es un método.
 
-## Cómo decirlo (sin un párrafo de teatro)
+### Cómo decirlo (sin un párrafo de teatro)
 
 El teatro es un lead que habla del modelo en vez del tema. El lector quería el carril bici. Le das una disculpa. No.
 
@@ -147,7 +147,7 @@ Si dudas y **no hay norma**: dilo en el encargo. Una línea. Callarlo, si luego 
 
 La **autoría** no se comparte con el modelo en la firma. Se declara la asistencia. Quien firma o factura sigue siendo a quién se reclama el error.
 
-## Ejemplo: Marta, la newsletter y la columna
+### Ejemplo: Marta, la newsletter y la columna
 
 Marta es freelance. Dos encargos en la misma semana. Inventamos nombres de casa y de producto para el ejercicio.
 
@@ -172,7 +172,7 @@ Qué hace:
 
 Tres encargos, tres gestos. El mismo chatbot. La diferencia no es el software. Es quién publica y qué regla hay.
 
-## Esto no es la universidad ni un detector
+### Esto no es la universidad ni un detector
 
 Distinción nítida, para no mezclar oficios.
 
@@ -184,7 +184,7 @@ En un **copy o una pieza de medio**, la norma la pone quien paga o quien pone la
 
 Tampoco es un consejo de propiedad intelectual. Si preguntan “¿quién es el autor legal?”, un profesional. Aquí: quién se entera y cómo.
 
-## Errores al declarar (o al callar)
+### Errores al declarar (o al callar)
 
 **Abrir la pieza con un manifiesto.** El lector no lo ha pedido. El medio casi nunca lo ha pedido. Una línea al pie o un mail. Ya.
 

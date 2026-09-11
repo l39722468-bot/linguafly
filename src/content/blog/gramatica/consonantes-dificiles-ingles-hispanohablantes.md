@@ -40,6 +40,8 @@ Estos son los que realmente cuestan.
 
 ---
 
+Consultas como **consonantes dificiles ingles**, **consonantes inglesas difíciles para hispanohablantes** o **cómo pronunciar la v y la w en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## /v/ — La labiodental que en español no existe
 
 En español, las letras "b" y "v" representan el mismo fonema. "Bota" y "vota" se pronuncian igual: /b/ bilabial. En inglés, en cambio, /b/ y /v/ son dos fonemas completamente distintos con palabras propias:

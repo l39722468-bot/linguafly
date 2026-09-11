@@ -45,6 +45,8 @@ Para el contexto completo de los auxiliares modales, visita [Verbos Modales en I
 
 ---
 
+Consultas como **shall we ingles**, **diferencia entre will y shall en inglés** o **ejercicios gratis de will y shall con soluciones** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Una nota histórica rápida
 
 En el inglés clásico (siglos XVII-XIX), había una distinción formal:

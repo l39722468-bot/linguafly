@@ -40,6 +40,8 @@ No tienes que ir tan lejos. Pero la técnica en sí —escuchar y repetir casi s
 
 ---
 
+Consultas como **shadowing idiomas**, **shadowing para mejorar la pronunciación inglesa** o **cómo hacer shadowing en inglés paso a paso** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué funciona el shadowing
 
 La pronunciación es una habilidad motora. Como tocar un instrumento o aprender a conducir. No se aprende leyendo sobre ella: se aprende haciendo. Y hacer bien la pronunciación implica que el sistema motor aprenda nuevos patrones de movimiento: nuevas posiciones de lengua, nuevas tensiones musculares, nuevos ritmos de respiración.

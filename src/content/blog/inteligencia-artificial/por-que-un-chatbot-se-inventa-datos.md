@@ -63,7 +63,7 @@ No es un fallo raro de un producto. Es el mismo motor que hace útil al chat: co
 
 Definición operativa: **si el chat afirma un dato comprobable y ese dato no se sostiene al abrirlo, es una alucinación.** Da igual el tono seguro. Da igual que se disculpe después. El primer párrafo ya era falso. Una opinión genérica (“conviene ser claro”) no es un BOE falso. Una negativa del sistema (“no puedo ayudarte”) es política, no dato.
 
-## Por qué la IA “miente” (es predicción, no archivo)
+### Por qué la IA “miente” (es predicción, no archivo)
 
 **Por qué la IA miente** es la búsqueda. La respuesta corta: no miente. No hay un sujeto que sepa la verdad y elija ocultarla. Hay un programa que, dado el texto hasta aquí, elige el siguiente *token* (un trozo de palabra) más probable según el entrenamiento y según lo que llevas escrito en el chat.
 
@@ -80,7 +80,7 @@ No hace falta la matemática. Hace falta dejar de tratar el chat como un archive
 
 Por eso **ChatGPT inventa información** también cuando le pides algo que “debería saber”: una fecha de ley, un cargo, un horario. A veces acierta porque el dato es muy frecuente en el entrenamiento. A veces ganan dos fechas cercanas y sale la incorrecta. Tú no ves esa competición. Solo ves la frase. Es un teclado predictivo a escala de informe: si copias la hora sin mirar el calendario, la hora es suya.
 
-## Cómo se ve cuando ChatGPT inventa información
+### Cómo se ve cuando ChatGPT inventa información
 
 Mejor con ejemplos en español. Son prototipos. No los uses como si fueran casos reales de un producto en una fecha concreta. Sirven para entrenar el ojo.
 
@@ -114,7 +114,7 @@ Las **respuestas falsas ChatGPT** en fechas son las más caras: no “suenan inv
 
 Patrón común: **dato concreto + formato institucional + cero duda.** Eso buscas. No si el texto “parece inteligente”.
 
-## Cómo detectar una alucinación de IA en el momento
+### Cómo detectar una alucinación de IA en el momento
 
 **Cómo detectar una alucinación de IA** no es un detector mágico ni un segundo modelo que “verifique”. Eres tú, en el minuto en que llega la respuesta, antes de Ctrl+C.
 
@@ -132,7 +132,7 @@ Una frase de control que puedes pedir (no sustituye abrir el original):
 
 A veces obedece. A veces marca mal. Es auxiliar, no un sello. El “es posible que”, la disculpa del turno anterior o el plan de pago no detectan nada: pagas límites, no un archivo del mundo. Si la tarea era redactar, detectas igual los hechos colados. Un email más corto que inventa “el servidor estuvo caído” es una alucinación de motivo. Tú la firmas.
 
-## Qué hacer cuando el chatbot se inventa datos (ese minuto)
+### Qué hacer cuando el chatbot se inventa datos (ese minuto)
 
 No montes aquí el protocolo de fact-check completo. Monta el gesto de no copiar y de no pelearte con el programa.
 
@@ -164,7 +164,7 @@ Si tienes que contrastar varias cifras o un párrafo de fuentes, usa [cómo comp
 
 **Asustarte y no volver a usar el chat.** Sigue sirviendo para reescribir *tu* texto y extraer lo que *está*. El fallo es usarlo como registro del mundo. Otro gesto, no una crisis de fe.
 
-## Para aquí
+### Para aquí
 
 Tres líneas, y paras:
 

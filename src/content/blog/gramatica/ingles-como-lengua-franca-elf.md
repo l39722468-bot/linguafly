@@ -42,6 +42,8 @@ Este es el inglés como lengua franca, y tiene implicaciones importantes para c�
 
 ---
 
+Si llegas con la consulta **ELF fonologia**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Qué es el ELF y qué no es
 
 El ELF (English as a Lingua Franca) no es una variedad que nadie hable como lengua nativa. No tiene hablantes nativos. Es, más bien, una forma de describir el uso del inglés como herramienta de comunicación entre personas de distintas lenguas maternas.

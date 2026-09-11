@@ -52,6 +52,8 @@ excerpt: >
 
 Los grandes proyectos de infraestructura, energía y fabricación son hoy necesariamente internacionales. Un ingeniero civil que trabaje en un proyecto eólico offshore, en la construcción de una autopista en Africa o en una planta industrial para una multinacional necesita un **inglés técnico** que vaya mucho más allá del vocabulario básico.
 
+Consultas como **Inglés Técnico para Ingeniería Civil e Industrial**, **ingles ingenieria civil** o **ingles tecnico ingenieria civil industrial para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 Este artículo amplía nuestra **[guía general de inglés para ingenieros](/blog/trabajo/ingles-para-ingenieros)** con vocabulario y situaciones específicas para ingeniería civil e industrial.
 
 ---

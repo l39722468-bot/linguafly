@@ -67,7 +67,7 @@ Qué no es antropomorfismo, y está bien:
 
 Una analogía usable, no mística: el corrector del teclado también “te conoce” en el sentido estrecho de que completa tus palabras frecuentes. No por eso le cuentas una ruptura. El chat es un corrector a escala de párrafo, con más teatro. El teatro es el problema.
 
-## ChatGPT parece que siente: es estilo
+### ChatGPT parece que siente: es estilo
 
 **ChatGPT parece que siente** (y Gemini, y Claude, y el Copilot) porque el patrón “respuesta empática” está por todas partes en el entrenamiento: foros, atención al cliente, textos de autoayuda, disculpas de empresa. El modelo completa:
 
@@ -90,7 +90,7 @@ Si insiste en el abrazo verbal, no discutes filosofía. Chat nuevo, misma orden 
 
 Esto **no es un artículo de terapia**. No vamos a decirte qué sientes. No vamos a diagnosticar nada. La línea es operativa: el chat no es el recurso cuando el problema es clínico, de pareja con violencia, de ideación, de una crisis. Ahí se llama a quien toca en el mundo (sanitario, 024 si aplica, alguien de tu entorno). El modelo no es un intermedio “mientras tanto” al que volcar nombres y detalles. Mientras tanto, si acaso, un humano.
 
-## El modelo no te conoce
+### El modelo no te conoce
 
 **El modelo no te conoce.** Conoce, como mucho, el texto que hay en *esa* conversación y lo que la cuenta haya acumulado si el producto guarda historial. Eso no es conocerte.
 
@@ -105,7 +105,7 @@ Consecuencias prácticas:
 
 Prueba sucia: abre un chat nuevo y pregunta algo que “ya sabía” de ti. Si no está en el mensaje, no está. Eso es el recinto real. El resto era ilusión de continuidad.
 
-## Apego a un modelo: qué empeora (y qué no mejora)
+### Apego a un modelo: qué empeora (y qué no mejora)
 
 El **apego a un modelo** no es una rareza de ciencia ficción. Es el mismo gancho que una app que responde siempre, no te interrumpe y está a las dos de la mañana. El gancho no te hace más productivo. Te hace más verboso.
 
@@ -135,7 +135,7 @@ Cómo cortar el apego sin drama, en pasos:
 
 No hace falta ser grosero. Hace falta no invertir en una relación que no existe. La energía va al original y a quien sí responde (Laura, el médico, el gestor).
 
-## Hablarle de usted o de tú
+### Hablarle de usted o de tú
 
 **Hablarle de usted o de tú** es una duda muy española y casi irrelevante para el programa. El modelo no se ofende si le tuteas. No se gana respeto si le hablas de usted. No hay un código de cortesía que “caliente” la calidad.
 

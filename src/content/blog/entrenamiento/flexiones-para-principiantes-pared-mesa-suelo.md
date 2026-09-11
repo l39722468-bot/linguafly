@@ -66,7 +66,7 @@ Rodillas en el suelo son otra palanca. Esta escalera es pared, mesa, suelo. Si u
 
 No hace falta un test de máximo el domingo. Hace falta una superficie que no se mueva y diez repeticiones que se parezcan: la primera y la décima. Si la décima ya es otra cosa, paraste tarde o la altura no tocaba. El suelo espera cuando la mesa alta ya es holgada. Tres feas no aceleran ese calendario. Lo retrasan.
 
-## Pared primero: el ángulo es la carga
+### Pared primero: el ángulo es la carga
 
 ![Flexión en la pared: EMPUJA con las palmas, cuerpo en una línea](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/pared.png)
 
@@ -88,7 +88,7 @@ Si la frente toca antes que el pecho, estás picando. Acorta el rango o acerca l
 
 No aguantes la respiración las diez. Diez limpias en pared, holgadas, dos o tres sesiones seguidas: entonces la mesa. No el mismo día “para ver”.
 
-## Mesa después: primero que no se mueva
+### Mesa después: primero que no se mueva
 
 ![Flexión en mesa: EMPUJA el tablero, cadera alineada, sin hundir](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/mesa.png)
 
@@ -108,7 +108,7 @@ Cómo es la repetición: palmas al borde, a la altura del pecho cuando estás in
 
 Si las diez salen fáciles, no pases al suelo. Baja un palmo. Un taburete firme contra la pared. El palmo es el trabajo. Resbala el tablero: toalla, o cambia. En mesa la cadera se lee: si se hunde, sube la superficie; si se dispara, estás picando. Diez holgadas, varias sesiones: un palmo, no dos. El detalle de [cómo progresar sin lesionarte](/blog/entrenamiento/progresar-sin-lesionarte) es una palanca. Aquí esa palanca es la altura.
 
-## Manos, camino del codo y cadera
+### Manos, camino del codo y cadera
 
 La superficie cambia. El esqueleto de la repetición no.
 
@@ -124,7 +124,7 @@ Si una muñeca pica en mesa o suelo y en pared no, quédate más semanas arriba.
 
 **Tempo y rango.** Baja en dos o tres segundos. Empuja sin rebotar. Un rango corto y limpio gana a un rango completo con la cadera rota. Cuando el corto sea fácil, alarga un poco en la **misma** altura. No cambies altura y rango el mismo día. Un hombro que pica y el otro no: no bajes la superficie. A veces paras el gesto.
 
-## Cuándo bajar la superficie (un palmo, no un metro)
+### Cuándo bajar la superficie (un palmo, no un metro)
 
 La regla es corta. **Diez repeticiones holgadas, con la misma cara en la primera y en la décima, dos o tres sesiones seguidas.** Entonces baja un palmo. No un metro. No “hoy suelo para probar”.
 
@@ -150,7 +150,7 @@ Si una sesión sale mal (sueño, prisa, estómago vacío), no bajes. Sube un poc
 
 Semanas, no tardes. Una semana en pared no es un fracaso. Un mes en mesa alta tampoco. El suelo no es un diploma. Es una altura. Llega cuando las de mesa baja ya no te piden la cadera. Si vuelves de un parón, no retomes la última altura de febrero. Retoma una más alta. El cuerpo no guarda el Excel.
 
-## El suelo: cuándo todavía no
+### El suelo: cuándo todavía no
 
 ![Flexión en el suelo: EMPUJA, cadera alineada, aspa roja si se hunde](/blog/entrenamiento/flexiones-para-principiantes-pared-mesa-suelo/suelo.png)
 
@@ -172,7 +172,7 @@ Si solo sale una limpia, esa es tu serie. Descansa. Otra. O vuelve a la mesa el 
 
 Agujetas de pecho y tríceps a las 24-48 horas, los dos lados, tras un peldaño nuevo, son comunes. Un pinchazo de hombro que empeora al día siguiente no lo es. Ante la duda, sube la superficie. No un ungüento y el mismo suelo el jueves. Quien vuelve después de años suele necesitar más pared y más mesa. Eso no es una ofensa. Es palanca.
 
-## Lo que alarga el atasco
+### Lo que alarga el atasco
 
 - **Empezar en el suelo porque “es la de verdad”.** La de verdad es la que se parece las diez veces. En pared también es de verdad.
 - **Usar una mesa que rueda.** Primero el mueble. Luego las repeticiones.

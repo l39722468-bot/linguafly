@@ -59,6 +59,8 @@ faqs:
 
 El **IELTS** (International English Language Testing System) es el examen de inglés más utilizado en el mundo para inmigración y estudios en el extranjero. En 2026, con más de 3.5 millones de candidatos anuales, su reconocimiento es prácticamente universal: lo aceptan universidades en Reino Unido, Australia, Canadá, Nueva Zelanda y más de 140 países.
 
+Consultas como **ielts desde b2**, **preparación IELTS en 12 semanas** o **recursos gratis para preparar IELTS** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 Si estás comparando IELTS con TOEFL, consulta nuestro artículo **[IELTS vs TOEFL 2026](/blog/examenes/ielts-vs-toefl-diferencias-cual-elegir)**. Si ya has decidido por el IELTS, esta guía te dará el plan de preparación más completo y actualizado.
 
 ---

@@ -37,6 +37,8 @@ El problema es que no todos los ejercicios son igual de efectivos, y muchos de l
 
 ---
 
+Consultas como **Ejercicios de Pronunciación en Inglés: Guía**, **ejercicios pronunciación inglés** o **ejercicios de pronunciación en inglés gratis** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Grabarte y comparar: el ejercicio que nadie quiere hacer
 
 Grábate. Es el consejo más sencillo y el que más se evita porque escuchar la propia voz en otro idioma resulta incómodo. Pero tiene una razón de ser concreta: hay una diferencia muy grande entre lo que crees que produces y lo que realmente sale por tu boca.

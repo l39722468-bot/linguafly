@@ -38,6 +38,8 @@ description: >
 
 El sector inmobiliario internacional requiere un inglés muy preciso porque los errores en contratos y negociaciones tienen consecuencias económicas directas. Ya seas un agente inmobiliario que trabaja con clientes internacionales, un inversor en propiedades en el extranjero o simplemente alguien que quiere comprar o alquilar en un país anglófono, esta guía te da el vocabulario y las frases esenciales.
 
+Si llegas con la consulta **real estate ingles**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ---
 
 ## 🏘️ Tipos de Propiedades (Property Types)

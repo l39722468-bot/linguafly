@@ -41,6 +41,8 @@ Airbnb, hostales, B&Bs, glamping... El alojamiento alternativo ha revolucionado 
 
 ---
 
+Consultas como **ingles para airbnb**, **ingles airbnb alojamiento alternativo para viajar** o **frases de ingles airbnb alojamiento alternativo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## 1. Antes de Reservar: Preguntas al Anfitrión
 
 Antes de confirmar, es normal (y recomendable) hacer preguntas.

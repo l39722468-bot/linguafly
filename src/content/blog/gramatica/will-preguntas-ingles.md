@@ -43,6 +43,8 @@ Consulta también [Will para el Futuro en Inglés](/blog/gramatica/will-futuro-i
 
 ---
 
+Consultas como **preguntas con will ingles**, **cómo formar preguntas con will en inglés** o **ejercicios gratis de preguntas con will** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Estructura de las preguntas con will
 
 Para formar una pregunta con *will*, simplemente inviertes el orden del sujeto y el auxiliar:

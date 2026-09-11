@@ -43,6 +43,8 @@ Me refiero a los dos sonidos que se esconden detrás de las letras **TH**: la **
 
 ---
 
+Consultas como **pronunciar th ingles**, **cómo pronunciar la th sorda y sonora en inglés** o **ejercicios gratis para practicar el sonido th** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Dos fonemas, una ortografía
 
 Lo que hace complicado el asunto es que las mismas dos letras, TH, representan dos sonidos completamente distintos en inglés. El IPA los diferencia con claridad:

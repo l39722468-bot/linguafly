@@ -70,7 +70,7 @@ Quién falta: si el que puede decidir no está, no hay reunión corta. Hay un co
 
 Tres puntos, no siete. El cuarto es el que convierte 15 en 40. Si tienes siete, no es este formato. O priorizas tres o convocas otra cosa.
 
-## Orden del día corto con ChatGPT
+### Orden del día corto con ChatGPT
 
 **Orden del día corto chatgpt** (o el chat que uses) no es un programa de congreso. Es una lista con minutos. Sin “bienvenida”. Sin “ronda de sentimientos”. Sin “AOB” eterno.
 
@@ -149,7 +149,7 @@ Qué no hace el cierre:
 
 Escribe esa línea *antes*. Si la improvisas al minuto 14, improvisas otros 14.
 
-## Guion de 15 minutos (reparto, no teatro)
+### Guion de 15 minutos (reparto, no teatro)
 
 El **guion de 15 minutos** es un reparto de reloj, no un diálogo. No pidas al modelo las réplicas de Luis y de Marta. Las dirán ellos. Un guion hablado alarga: cada cual espera su frase y nadie decide.
 
@@ -178,7 +178,7 @@ Salida que sirve: minuto 0-2, ¿jueves o lunes?; minuto 2-8, ¿el retraso del pr
 
 Antes de enviar la convocatoria, lee el orden en voz alta. Si un punto no es una pregunta, cámbialo. Si el objetivo no se puede citar en la primera línea de la invitación, aún no hay reunión corta. El chat no envía el calendario. Tú sí. Si a la hora de convocar ya ves cuatro temas, quitas uno *tú*, no le pides al modelo que los comprima con magia.
 
-## IA para no alargar una meeting
+### IA para no alargar una meeting
 
 **Ia para no alargar una meeting** no es un truco de influencer. Es una lista de prohibiciones en el prompt y una tuya en la sala.
 

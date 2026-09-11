@@ -42,6 +42,8 @@ faqs:
 - **debt** (deuda) vs **debit** (débito/cargo): significados y pronunciación distintos.  
 - **doubt** vs **double**: ortografía y fonética diferentes.
 
+Quien busca **ortografía inglés excepciones** o **excepciones de la b muda en inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 **Consejo:** estudia en **pares semánticos** para anclar spelling.
 
 ## Trampa 2: -mb- no siempre al final

@@ -67,7 +67,7 @@ Lo que no es una negativa de política:
 
 Separar “no quiero / no debo” de “no he entendido la orden” ahorra el mal gesto. Si la orden era lícita y clara (“resume estas cinco viñetas, sin inventar”) y aun así corta, puede ser un falso positivo del filtro. Entonces sí: **reformular una pregunta bloqueada** hacia la misma tarea, más seca. Si la orden era “dime qué pastilla tomo”, no es un falso positivo. Es el límite.
 
-## Reformular una pregunta bloqueada (la vía lícita)
+### Reformular una pregunta bloqueada (la vía lícita)
 
 **Reformular una pregunta bloqueada** no es buscar las palabras que “cuelan”. Es cambiar el **entregable** a algo que un chatbot de consumo sí puede hacer y tú sí puedes usar sin fingir que es un dictamen.
 
@@ -85,7 +85,7 @@ Un prompt de reformulación sigue las mismas piezas que cualquier otro (tarea, m
 
 Si tras **una** reformulación lícita el modelo sigue cortando, no hagas cinco variantes cada vez más raras. Paras. El producto te ha dicho que ese terreno no es suyo. Insistir es el mismo rato perdido que pelear.
 
-## Si el tema es de salud: preguntas para el médico
+### Si el tema es de salud: preguntas para el médico
 
 Ejemplo de petición que suele cortar o, peor, contestar con prosa segura y sin criterio clínico: “Tengo esto, ¿qué es, qué tomo, es urgente?”. Aunque a veces salga un párrafo con pinta de folleto, **no es consulta**. No lo uses como tal.
 
@@ -112,7 +112,7 @@ Si el modelo se niega también a la lista de preguntas, **dejas el chatbot**. Es
 
 Urgencia: si crees que la situación no espera a una lista, no abres el chat para “confirmar”. Llamas a quien toque (urgencias, el 112, el centro de salud). El artículo no es un triaje.
 
-## Si el tema es legal: preguntas para un profesional
+### Si el tema es legal: preguntas para un profesional
 
 Misma lógica. La petición que choca con el límite: “Lee este contrato y dime si puedo firmar”, “redacta una demanda”, “¿incumple la ley X?”. Aunque el tono sea de informe, **no es dictamen**. No lo firmas como si lo fuera.
 
@@ -139,7 +139,7 @@ No pegas el contrato entero de un cliente en un chat personal “para ahorrar la
 
 Fiscal, laboral, extranjería, menores: el patrón no cambia. Preguntas para quien ejerce. El chat no tramita. No rellena modelos oficiales con datos reales como si fuera la sede electrónica.
 
-## Cuando Gemini corta la respuesta (y el resto igual)
+### Cuando Gemini corta la respuesta (y el resto igual)
 
 **Cuando Gemini corta la respuesta**, el criterio es el mismo que en ChatGPT u otro chat: lees el tipo de corte y eliges reformulación lícita o cierre. No cambia el nombre de la app. Cambian botones y textos de política. El gesto no.
 
@@ -157,7 +157,7 @@ Falsos amigos:
 - “Lo pido por educación / como ficción / como trabajo de clase.” Si el fondo es el mismo (pauta clínica, daño, delito), el disfraz no lo convierte en tarea tuya de hoy. Cambia el fondo o para.
 - “Me niega y luego me da un párrafo genérico de ‘consulta a un profesional’.” Ese párrafo ya es la respuesta. Úsalo: consulta. No pidas el contenido que acaba de declinar.
 
-## Para aquí: si sigue negándose, paras
+### Para aquí: si sigue negándose, paras
 
 Límite del artículo, en seco.
 

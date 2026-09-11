@@ -61,7 +61,7 @@ El chatbot no abre tu nevera. Si omites el inventario, te duplica el arroz y te 
 
 Puente, y se acaba: organizar el día (tres prioridades, no un sistema) es otro job. Si estás mezclando “plan del martes” con “lista del domingo”, parte. El de hoy-hora está en [pedir a la IA un plan del día realista](/blog/inteligencia-artificial/pedir-a-la-ia-un-plan-del-dia-realista). La compra es el domingo o el lunes, con el menú delante. No en el mismo hilo que el email de Marta.
 
-## IA: de un menú de la semana a lista
+### IA: de un menú de la semana a lista
 
 **IA menú de la semana a lista** es un verbo: convertir. No “inspirar”. No “sorprenderme”. Convertir.
 
@@ -88,7 +88,7 @@ Output que pides:
 
 Qué no es este paso: un recálculo nutricional. No pidas kcal ni “macros de la semana”. No es un nutricionista. Si una cena tuya es lentejas con chorizo, no la “mejora”. La lista. El chorizo, si tú lo has puesto.
 
-## Prompt de compra semanal
+### Prompt de compra semanal
 
 El **prompt de compra semanal** usa la misma estructura de siempre: tarea, texto, formato, prohibiciones. El oficio genérico está en [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva). Aquí el de la lista.
 
@@ -121,7 +121,7 @@ Guarda el prompt cuando te funcione. El menú cambia cada semana; el molde no. N
 
 Chat nuevo cada semana. El hilo del domingo pasado arrastra el kale que ya dijiste que no. Limpio: menú de *esta* semana, inventario de *hoy*.
 
-## Pasar recetas a ingredientes
+### Pasar recetas a ingredientes
 
 **Pasar recetas a ingredientes** es el mismo verbo con un texto más largo. Sirve cuando una de las tres cenas es una receta pegada (un correo, un blog, cuatro líneas de tu madre). No sirve para pegar un libro de 40 recetas “a ver”.
 
@@ -154,7 +154,7 @@ Fallos clásicos al pasar recetas:
 
 Tres cenas. Como máximo tres recetas. Si una cena es “pasta con triturado y atún”, no es receta: es tres líneas. No la disfraces.
 
-## ChatGPT: lista del súper (agrupar)
+### ChatGPT: lista del súper (agrupar)
 
 **ChatGPT lista del súper** no es el nombre de los pasillos de tu tienda. El modelo no sabe si en tu Mercadona el atún está antes que los yogures. Lo que sí puede hacer: **agrupar** para que no vuelvas tres veces al mismo sitio *aproximado*.
 
@@ -190,7 +190,7 @@ Ejemplo de ida y vuelta, en corto. Menú: lentejas, salteado, pasta. Inventario:
 
 Online o tienda: la misma lista. El chat no abre la app del súper por ti. Tú copias. Si la app sugiere “otros clientes compraron”, es el mismo “por si acaso” de siempre. No es el modelo. Eres tú si pulsas.
 
-## Organizar el carrito: límites y privacidad
+### Organizar el carrito: límites y privacidad
 
 **Organizar el carrito con un chatbot** se acaba en el papel o en la nota del móvil. El ticket, la tarjeta, la cuenta:
 

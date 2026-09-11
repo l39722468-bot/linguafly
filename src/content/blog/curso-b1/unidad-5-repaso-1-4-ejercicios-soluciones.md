@@ -64,6 +64,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Si llegas con la consulta **repaso B1 unidades 1-4**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Lección 1 — Gramática
 
 **Objetivo:** practicar repaso PPC, Past Perfect, Past Simple vs Present Perfect.

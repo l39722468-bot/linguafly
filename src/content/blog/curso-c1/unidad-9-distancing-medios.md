@@ -48,6 +48,8 @@ excerpt: >-
 
 En periodismo, comunicación institucional y análisis académico, no siempre podemos presentar una información como un hecho confirmado. A veces existe una fuente anónima, una declaración interesada, un rumor o una interpretación que todavía debe comprobarse. La Unidad 9 C1 enseña a manejar esa distancia mediante **distancing language**, construcciones impersonales y **cleft sentences** avanzadas.
 
+Si llegas con la consulta **impersonal constructions ejercicios C1**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Compara estas frases:
 
 - *The footage was staged.*

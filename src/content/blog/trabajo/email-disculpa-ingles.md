@@ -49,6 +49,8 @@ canonical: 'https://linguafly.app/blog/trabajo/email-disculpa-ingles'
 
 Cometer errores en el trabajo es inevitable. Lo que distingue a un profesional es saber gestionarlos bien, y eso incluye saber pedir disculpas de la manera correcta. En inglés profesional, hay una forma de hacer esto que funciona: directa, responsable y orientada a la solución.
 
+Consultas como **como disculparse email ingles trabajo**, **Cómo Disculparse por Email en Inglés** o **email disculpa ingles para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Lo que debe incluir una disculpa profesional efectiva
 
 Una disculpa que funciona tiene estos elementos:
@@ -62,7 +64,7 @@ Una disculpa que funciona tiene estos elementos:
 
 No todos los emails de disculpa necesitan los seis, pero los primeros dos son siempre necesarios.
 
-## El asunto del email de disculpa
+### El asunto del email de disculpa
 
 El asunto debe ser claro sobre el propósito del correo:
 
@@ -71,7 +73,7 @@ El asunto debe ser claro sobre el propósito del correo:
 - *I Apologize for the Miscommunication Regarding [Tema]*
 - *Correction: [Error específico] — Apologies for the Confusion*
 
-## Frases para reconocer el error y pedir disculpas
+### Frases para reconocer el error y pedir disculpas
 
 **Directas y claras:**
 - *I am writing to sincerely apologize for [error].*
@@ -89,7 +91,7 @@ El asunto debe ser claro sobre el propósito del correo:
 - *I apologize for any confusion my previous email may have caused.*
 - *I am sorry for the miscommunication — let me clarify.*
 
-## Dar contexto sin convertirlo en excusas
+### Dar contexto sin convertirlo en excusas
 
 Si hay una razón legítima que explica (no justifica) el error, puedes mencionarla brevemente:
 
@@ -99,7 +101,7 @@ Si hay una razón legítima que explica (no justifica) el error, puedes menciona
 
 Lo que debes evitar es una lista larga de razones que parezca que estás esquivando la responsabilidad. La disculpa debe sentirse genuina, no como un ejercicio de gestión de imagen.
 
-## Proponer solución: la parte más importante
+### Proponer solución: la parte más importante
 
 Una disculpa sin propuesta de solución es solo ruido. Indica qué vas a hacer:
 
@@ -112,7 +114,7 @@ Una disculpa sin propuesta de solución es solo ruido. Indica qué vas a hacer:
 
 En el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) encontrarás más plantillas para gestionar situaciones difíciles en inglés.
 
-## Garantizar que no vuelva a ocurrir
+### Garantizar que no vuelva a ocurrir
 
 Si el error puede volver a producirse y quieres tranquilizar al destinatario:
 
@@ -122,7 +124,7 @@ Si el error puede volver a producirse y quieres tranquilizar al destinatario:
 
 No lo digas si no es verdad. Una promesa que no se cumple es mucho peor que no haberla hecho.
 
-## El tono correcto según la gravedad
+### El tono correcto según la gravedad
 
 **Error menor (retraso de respuesta, documento con errata):**
 Tono: directo y sin dramatizar.
@@ -136,7 +138,7 @@ Tono: responsable y con solución.
 Tono: formal, con reconocimiento claro del impacto y plan de acción.
 - *I am writing to offer my sincere apologies for [error grave]. I understand the significant inconvenience this has caused and take full responsibility.*
 
-## Ejemplo completo: retraso en entrega
+### Ejemplo completo: retraso en entrega
 
 > **Subject:** Apology for Delay in Delivering the Q1 Report
 >

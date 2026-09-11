@@ -41,6 +41,8 @@ Los cruceros son una forma única de viajar: hotel, restaurante, entretenimiento
 
 ---
 
+Consultas como **ingles para cruceros**, **ingles cruceros viaje barco para viajar** o **frases de ingles cruceros viaje barco** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## 1. El Embarque: Tu Primer Contacto
 
 ### En la terminal

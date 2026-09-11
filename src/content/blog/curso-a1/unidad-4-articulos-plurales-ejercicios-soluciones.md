@@ -69,6 +69,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Quien busca **ejercicios a an y plurales en inglés** o **ejercicios this that these those** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Lección 1 — Gramática: artículos, plurales y demostrativos
 
 **Objetivo:** Usar *a/an*, plurales regulares y *this/that/these/those*.

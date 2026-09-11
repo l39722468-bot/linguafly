@@ -39,6 +39,8 @@ En el CAE aparecen en tres contextos: las **Key Word Transformations** (donde ca
 
 ---
 
+Consultas como **inversiones ingles c1**, **inversiones para Key Word Transformations CAE** o **adverbios negativos inversión en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es una inversión y cómo funciona
 
 En inglés, el orden normal de una frase afirmativa es: **sujeto + auxiliar + verbo principal**.
@@ -53,7 +55,7 @@ El significado es idéntico, pero el tono es más enfático y el registro más f
 
 ---
 
-## Tipo 1: Inversiones con adverbios negativos
+### Tipo 1: Inversiones con adverbios negativos
 
 Este es el tipo más frecuente en el CAE. Cuando un adverbio de significado negativo o restrictivo aparece **al principio de la frase**, el verbo y el sujeto invierten su posición.
 
@@ -78,7 +80,7 @@ Se combinan con *when* para expresar que una cosa ocurrió casi al mismo tiempo 
 
 ---
 
-## Tipo 2: Inversiones con NOT ONLY... BUT ALSO
+### Tipo 2: Inversiones con NOT ONLY... BUT ALSO
 
 Esta estructura añade énfasis a una doble afirmación:
 
@@ -93,7 +95,7 @@ Más ejemplos:
 
 ---
 
-## Tipo 3: Inversiones con expresiones restrictivas
+### Tipo 3: Inversiones con expresiones restrictivas
 
 **NOT UNTIL**:
 - Normal: *She didn't realise the impact until years later.*
@@ -110,7 +112,7 @@ Más ejemplos:
 
 ---
 
-## Tipo 4: Inversiones en condicionales formales
+### Tipo 4: Inversiones en condicionales formales
 
 En inglés formal, los condicionales de segundo y tercer tipo pueden construirse sin *if* invirtiendo el auxiliar:
 
@@ -130,7 +132,7 @@ Esta última forma es muy frecuente en cartas y emails formales, un formato que 
 
 ---
 
-## Tipo 5: UNDER NO CIRCUMSTANCES y SO/SUCH... THAT
+### Tipo 5: UNDER NO CIRCUMSTANCES y SO/SUCH... THAT
 
 **UNDER NO CIRCUMSTANCES**:
 - *We will under no circumstances accept late submissions.* → *Under no circumstances will we accept late submissions.*
@@ -144,7 +146,7 @@ Esta última forma es muy frecuente en cartas y emails formales, un formato que 
 
 ---
 
-## Cómo usarlas en el Writing del CAE
+### Cómo usarlas en el Writing del CAE
 
 En el essay del CAE, una inversión bien colocada puede elevar el nivel de todo el texto. Lo ideal es usar una o dos a lo largo del texto, en momentos en los que quieras dar énfasis a una idea:
 
@@ -156,7 +158,7 @@ No las fuerces: si la inversión suena artificial en su contexto, es mejor no us
 
 ---
 
-## Cómo practicarlas para las Key Word Transformations
+### Cómo practicarlas para las Key Word Transformations
 
 El método más eficiente: practica transformaciones con las key words que más frecuentemente desencadenan inversiones (*NEVER, SELDOM, HARDLY, NO SOONER, NOT UNTIL, ONLY WHEN, WERE, HAD, SHOULD*). Trabaja cada tipo por separado hasta que la construcción sea automática.
 

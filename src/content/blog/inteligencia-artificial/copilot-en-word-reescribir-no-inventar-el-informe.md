@@ -68,7 +68,7 @@ Tres reglas de partida, antes de pulsar:
 
 Si el trabajo es una fórmula en una hoja, no es este artículo. Eso es [Copilot en Excel: fórmulas y explicación, no magia](/blog/inteligencia-artificial/copilot-en-excel-formulas-y-explicacion-no-magia). Aquí no hay celdas. Hay párrafos.
 
-## Licencia Copilot 365: pregunta a IT
+### Licencia Copilot 365: pregunta a IT
 
 **Licencia Copilot 365** no se “activa” con un truco. Es un producto de pago que la empresa contrata y asigna. Tú puedes tener Microsoft 365 Word y no tener Copilot. Puedes tener Copilot en Outlook y no en Word. IT lo sabe. Tú preguntas.
 
@@ -84,7 +84,7 @@ Si la respuesta a 3 es “prohibido el chat de consumo”: obedeces. El informe 
 
 **Copilot Word empresa** no te convierte el archivo en público. Tampoco es un sí a pegar de más. Si para reescribir el párrafo de Inés no hace falta el anexo con NIF de proveedores, ese anexo no se abre en el panel “para contexto”. El botón se mueve. El job no: archivo de trabajo, cuenta de trabajo, permiso de IT.
 
-## Copilot Word reescribir un párrafo (ejemplo de Inés)
+### Copilot Word reescribir un párrafo (ejemplo de Inés)
 
 El caso. Inés ha escrito esto en el informe de ocupación de salas de formación, tercer trimestre. Tosco. Suyo. Cifras que ella ha sacado de la hoja (la hoja se comprueba en Excel; aquí el párrafo ya las trae):
 
@@ -137,7 +137,7 @@ Un extra: una frase que sí y una que no, debajo del pedido, anclan mejor que �
 
 La segunda inventa un calendario. La primera es el hueco. El hueco se queda.
 
-## Copilot resume un documento Word
+### Copilot resume un documento Word
 
 **Copilot resume un documento Word** cuando el archivo ya tiene apartados. Quieres orientarte. O quieres un bloque corto para un correo interno (“esto es lo que hay en el .docx”). El resumen no sustituye al documento. No lo borres. No lo envíes como si fuera el informe.
 
@@ -164,7 +164,7 @@ Resumen para ti (mapa) frente a resumen que reenvías. El listón sube si Marta 
 
 Qué no pides al resumir: una introducción, datos del sector, tres acciones, una tabla que no está en el Word. Eso ya es escribir el informe. Documento largo: por apartados. Seleccionas ocupación. Resumen de *eso*. Luego anexos. Un “resume las 40 páginas” invita a compactar y a rellenar.
 
-## No dejar que Copilot escriba el informe solo
+### No dejar que Copilot escriba el informe solo
 
 **No dejar que Copilot escriba el informe solo** es la línea que separa este artículo de un tutorial de “redacta con IA”. El título, el esquema y “actúa como analista” no son un informe. Son un molde. El molde pide cifras. El modelo las pone. Suenan a trimestre. Son falsas respecto a tu hoja.
 

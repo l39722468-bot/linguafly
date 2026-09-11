@@ -70,7 +70,7 @@ Cómo usar el rango hoy:
 
 Si vives con gente que no comparte el plan, tu presupuesto es **tu** comida. El aceite de la casa se reparte a ojo: un par de euros. No conviertas la convivencia en una hoja de cálculo.
 
-## Qué entra en el presupuesto y qué no
+### Qué entra en el presupuesto y qué no
 
 Si mezclas el menú del trabajo, el café con leche de las 11 y el súper, el número no se puede recortar. Es una suma de hábitos distintos. Sepáralos.
 
@@ -100,7 +100,7 @@ Ejemplo. Domingo 58 euros en Mercadona. Miércoles 6 de leche y plátanos. Viern
 
 Si comes de tupper en el trabajo, esa comida **sí** sale del súper. Si el mediodía es menú de 12 euros cinco días, esa cifra es otra. Aquí solo arreglas el carro. Aceite y café de cafetera entran cuando los compras. El detergente no.
 
-## Dónde recortar el gasto del súper
+### Dónde recortar el gasto del súper
 
 Recortar no es “comer menos”. Es dejar de pagar cosas que no construyen un plato. Orden, no moral.
 
@@ -127,7 +127,7 @@ Cómo recortar **esta** semana, pasos:
 
 Un menú semanal económico no es un menú distinto. Es el de [organizar las comidas de la semana](/blog/alimentacion/organizar-comidas-de-la-semana) con menos líneas de más en el carro. Tres cenas. Dos desayunos. Un comodín. El ahorro aparece cuando esas líneas se repiten y dejas de improvisar en el lineal.
 
-## Dónde no recortar: la proteína
+### Dónde no recortar: la proteína
 
 Si entrenas o quieres dejar de picar a media tarde, la proteína barata es el núcleo. Recortarla para “ahorrar” suele salir más caro: pedidos, queso de pie, galletas.
 
@@ -154,7 +154,7 @@ Qué **no** haces para ahorrar: quitar el yogur y dejar cereales de caja; quitar
 
 Si el aceite o los huevos han subido, bajas el pasillo extra, no la docena. Tres días de fuerza en casa piden comida a la vista. Escríbela: “proteína, no se toca”. Tofu, huevo y bote cubren cuando el pollo se pone caro. Ración tosca: un bote para dos platos, tres huevos en una cena, 150 a 200 g de pollo crudo. Un kilo de muslo en cuatro cenas sale barato. 300 g de filetes una noche y pedido el jueves, no.
 
-## Cómo rastrear el ticket de siete días
+### Cómo rastrear el ticket de siete días
 
 Un rango sin medida es un deseo. Mides una semana. No tres meses. Una.
 
@@ -187,7 +187,7 @@ En el móvil, cinco líneas: rango, súper del domingo, recados, pedidos (aparte
 
 Si la app del súper guarda pedidos, úsala como archivo. Cuatro domingos (58, 61, 79, 55) te dicen si hay un sistema o un pico. Una semana medida vale más que un número copiado de un hilo.
 
-## Semana tipo a una persona y a dos
+### Semana tipo a una persona y a dos
 
 Ejemplos. No recetas. Precios toscos de marca blanca. Sirven para ver **dónde** está el dinero.
 
@@ -215,7 +215,7 @@ Suma tosca: 37 a 38 de esqueleto. Quedan 12 a 22 para queso fresco, pescado cong
 
 Rango ajustado (40 a 50, una persona): quita el pescado esa semana; fruta barata, una pieza al día; verdura congelada primero; un molde de pan; cero bebidas del lineal. Si el rango es holgado y llegas justo, estás en pedidos y extra: mide antes de subir el techo. Invitados: se anotan aparte.
 
-## Errores que hinchan el número
+### Errores que hinchan el número
 
 **Mezclar el bar con el súper.** El menú de 12 euros no se arregla con pechuga más barata. Sepáralo.
 

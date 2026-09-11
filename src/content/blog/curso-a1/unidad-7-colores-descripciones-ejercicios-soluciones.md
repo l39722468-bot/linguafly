@@ -68,6 +68,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Quien busca **ejercicios de colores en inglés** o **ejercicios descripciones físicas en inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Lección 1 — Gramática: adjetivos y *have got*
 
 **Objetivo:** Adjetivo delante del nombre; *to be* + adjetivo; *have/has* para pelo y ojos.

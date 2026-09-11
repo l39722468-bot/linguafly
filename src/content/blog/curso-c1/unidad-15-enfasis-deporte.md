@@ -48,6 +48,8 @@ excerpt: >-
 
 El inglés tiene varias formas de señalar que una idea es especialmente importante. En una conversación, podemos usar la entonación; en la escritura, podemos utilizar estructuras como **do/did enfáticos**, **fronting** y clefts. Estas formas no cambian necesariamente el hecho, pero sí indican cómo debe interpretarlo el lector o el interlocutor.
 
+Si llegas con la consulta **fronting ejercicios inglés avanzado**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 - *She trained hard for the marathon.*
 - *She did train hard for the marathon, whatever anyone might say.*
 - *Only through years of sacrifice did she achieve her ambition.*

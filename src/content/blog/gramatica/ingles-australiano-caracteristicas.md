@@ -40,6 +40,8 @@ Para muchos hispanohablantes, el inglés australiano puede resultar desconcertan
 
 ---
 
+Si llegas con la consulta **pronunciacion ingles australiano**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## El sistema vocálico del inglés australiano
 
 La característica más llamativa del inglés australiano es su sistema vocálico, que ha experimentado un proceso de desplazamiento sistemático respecto al inglés británico del que desciende.

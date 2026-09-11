@@ -40,6 +40,8 @@ Pero hay diferencias. Algunas son pequeñas y sutiles; otras son sistemáticas y
 
 ---
 
+Si llegas con la consulta **ingles canadiense diferencias americano**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## El fenómeno que define el acento canadiense: el "Canadian Raising"
 
 La diferencia fonética más importante y sistemática del inglés canadiense respecto al americano se llama "Canadian Raising": el elemento inicial de ciertos diptongos "sube" (se alza) en ciertos contextos fonológicos.

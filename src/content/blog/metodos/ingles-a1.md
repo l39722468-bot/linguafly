@@ -49,11 +49,13 @@ excerpt: >
 
 El **Nivel A1** es el peldaño más emocionante de tu aprendizaje: es el momento en el que dejas de ser un espectador para convertirte en un comunicador. Si alguna vez has sentido que el inglés "no es para ti", esta guía te demostrará que solo necesitabas el enfoque correcto.
 
+Si llegas con la consulta **Inglés A1: Guía para Empezar desde Cero**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 La clave es construir cimientos sólidos sin agobiarte con reglas teóricas innecesarias desde el principio.
 
 ---
 
-## 1. Las 3 Columnas del Principiante
+### 1. Las 3 Columnas del Principiante
 
 Para avanzar con paso firme, debemos centrarnos en lo que realmente te permitirá hablar desde la primera semana:
 
@@ -63,7 +65,7 @@ Para avanzar con paso firme, debemos centrarnos en lo que realmente te permitir�
 
 ---
 
-## 2. Estrategias de "Supervivencia" Lingüística
+### 2. Estrategias de "Supervivencia" Lingüística
 
 Aprender inglés desde cero no es memorizar un diccionario, es saber qué hacer cuando no tienes la palabra exacta:
 
@@ -73,7 +75,7 @@ Aprender inglés desde cero no es memorizar un diccionario, es saber qué hacer 
 
 ---
 
-## 3. La Importancia del "Input" Comprensible
+### 3. La Importancia del "Input" Comprensible
 
 No intentes ver una película de Shakespeare en versión original todavía. En el nivel A1, tu cerebro necesita contenido que pueda descodificar:
 
@@ -84,7 +86,7 @@ No intentes ver una película de Shakespeare en versión original todavía. En e
 
 ---
 
-## 4. Hoja de Ruta: De Cero a la Autonomía
+### 4. Hoja de Ruta: De Cero a la Autonomía
 
 Con práctica constante, este es el progreso que puedes esperar:
 
@@ -96,7 +98,7 @@ Con práctica constante, este es el progreso que puedes esperar:
 
 Para el mapa completo de niveles de inglés, consulta el [hub de niveles de inglés MCER](/blog/temas/niveles-ingles-mcer).
 
-## 8. Guías del curso A1 (unidad a unidad)
+### 8. Guías del curso A1 (unidad a unidad)
 
 Si quieres estudiar el A1 con el mismo orden del [curso A1](/curso-a1), estas guías del blog acompañan cada unidad:
 

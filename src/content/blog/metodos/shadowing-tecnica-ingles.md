@@ -38,6 +38,8 @@ La idea básica es deceptivamente simple: escuchas a un hablante nativo y lo imi
 
 ---
 
+Consultas como **técnica shadowing inglés**, **cómo hacer shadowing en inglés gratis** o **ejercicios de shadowing para mejorar pronunciación** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué el shadowing funciona a nivel neurológico
 
 Cuando escuchas inglés en clase o en audios de un curso, tu cerebro procesa el sonido de forma analítica: identifica palabras, las asocia a significados, construye frases. Ese proceso es necesario para aprender, pero no es cómo funciona el habla fluida.

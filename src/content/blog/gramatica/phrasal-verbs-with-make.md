@@ -42,6 +42,8 @@ Si quieres entender mejor la lógica general de los phrasal verbs, la [guía com
 
 ---
 
+Consultas como **phrasal verbs con make**, **make up make out make up for significado** o **phrasal verbs with make en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Make up: el más versátil
 
 *Make up* es probablemente la combinación más productiva de MAKE, y también la más fácil de confundir porque tiene cuatro significados distintos según el contexto.

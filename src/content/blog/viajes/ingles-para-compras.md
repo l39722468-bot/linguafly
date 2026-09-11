@@ -38,6 +38,8 @@ canonical: 'https://linguafly.app/blog/viajes/ingles-para-compras'
 
 Ir de compras en un país angloparlante puede parecer intimidante al principio, pero con un vocabulario básico y algunas frases clave puedes moverte con total comodidad por cualquier tienda, mercado o centro comercial de Londres, Nueva York o Dublín.
 
+Si llegas con la consulta **ingles para compras**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Esta guía te da **el inglés práctico y real** que usarás de verdad cuando vayas de compras.
 
 ---

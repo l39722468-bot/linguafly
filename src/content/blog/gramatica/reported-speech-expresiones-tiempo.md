@@ -46,6 +46,8 @@ Para ver el sistema completo del reported speech, la guía [Reported Speech en I
 
 ---
 
+Quien busca **Expresiones de Tiempo en Reported Speech: Guía** o **expresiones tiempo reported speech** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Las expresiones de tiempo más frecuentes y sus cambios
 
 | Estilo directo | Reported speech |
@@ -67,7 +69,7 @@ Para ver el sistema completo del reported speech, la guía [Reported Speech en I
 
 ---
 
-## Las expresiones de lugar
+### Las expresiones de lugar
 
 | Estilo directo | Reported speech |
 |----------------|----------------|
@@ -81,7 +83,7 @@ Para ver el sistema completo del reported speech, la guía [Reported Speech en I
 
 ---
 
-## Los demostrativos: this → that, these → those
+### Los demostrativos: this → that, these → those
 
 Cuando el objeto referenciado ya no está presente o pertenece al momento pasado:
 
@@ -96,7 +98,7 @@ Si el objeto sigue estando presente y visible en el momento del reporte, "this" 
 
 ---
 
-## Ejemplos en contexto
+### Ejemplos en contexto
 
 **Conversación del día anterior:**
 
@@ -122,7 +124,7 @@ Reportada hoy:
 
 ---
 
-## Cuándo los cambios son opcionales
+### Cuándo los cambios son opcionales
 
 En muchos contextos, especialmente en conversación informal o cuando reportas algo muy reciente, los cambios de tiempo y lugar no son obligatorios.
 
@@ -137,7 +139,7 @@ La regla de oro: si la expresión temporal o espacial ya no es válida o causa c
 
 ---
 
-## Pronombres: el cambio que sí es siempre necesario
+### Pronombres: el cambio que sí es siempre necesario
 
 A diferencia de las expresiones de tiempo (donde hay flexibilidad), los **pronombres** sí tienen que cambiar siempre en reported speech, porque la perspectiva del hablante cambia.
 
@@ -164,7 +166,7 @@ El cambio de pronombres puede resultar complejo cuando hay varios participantes.
 
 ---
 
-## Un error frecuente: olvidar el cambio de lugar
+### Un error frecuente: olvidar el cambio de lugar
 
 Muchos estudiantes recuerdan cambiar el tiempo verbal pero se olvidan de ajustar *here/there* y los demostrativos.
 
@@ -176,7 +178,7 @@ Muchos estudiantes recuerdan cambiar el tiempo verbal pero se olvidan de ajustar
 
 ---
 
-## Reported speech en escritura formal
+### Reported speech en escritura formal
 
 En correos, informes y documentos formales, los cambios de tiempo y lugar suelen ser más consistentes. Los textos formales aplican el backshift y los cambios de referencia de forma más rigurosa que la conversación.
 

@@ -64,6 +64,8 @@ related_routes:
 
 El **Aptis General** del British Council es uno de los exámenes de inglés más demandados en España, especialmente entre docentes, funcionarios y universitarios. La razón es simple: a diferencia del Cambridge (donde eliges el nivel antes de examinarte), el Aptis detecta tu nivel real durante el propio examen. Un único título puede certificarte desde el A1 hasta el C1.
 
+Quien busca **aptis general precio 2026** o **Aptis General estructura y partes del examen** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Esto lo convierte en una opción muy conveniente si no sabes exactamente en qué nivel estás o si quieres evitar el riesgo de "fallar" un nivel específico. El examen se realiza íntegramente por ordenador en un centro autorizado del British Council.
 
 ---

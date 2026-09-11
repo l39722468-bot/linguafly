@@ -34,6 +34,8 @@ Esta guía está pensada para niveles **B2 en adelante** que ya controlan stress
 
 ---
 
+Consultas como **ejercicios pronunciacion acento irlandes**, **ejercicios gratis de pronunciación del inglés irlandés** o **cómo practicar el acento irlandés en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Principios antes de abrir la boca
 
 **Modelo real, no parodia.** Elige hablantes en contextos formales o semiformales (entrevistas, conferencias, podcasts informativos). Los clips cómicos exagerados enseñan poco y pueden anclar hábitos groseros.
@@ -46,7 +48,7 @@ Esta guía está pensada para niveles **B2 en adelante** que ya controlan stress
 
 ---
 
-## Bloque 1: La /r/ postvocálica sin sonar americana forzada
+### Bloque 1: La /r/ postvocálica sin sonar americana forzada
 
 En muchas variedades irlandesas, la /r/ tras vocal no desaparece. Practica manteniendo contacto suave, sin retroflexión exagerada típica de algunos acentos estadounidenses.
 
@@ -66,7 +68,7 @@ En muchas variedades irlandesas, la /r/ tras vocal no desaparece. Practica mante
 
 ---
 
-## Bloque 2: Vocales y diptongos que cambian el “color” del inglés
+### Bloque 2: Vocales y diptongos que cambian el “color” del inglés
 
 Los sistemas vocálicos varían enormemente dentro de Irlanda; aquí trabajamos **tendencias didácticas**, no una sola verdad.
 
@@ -82,7 +84,7 @@ Crea listas de palabras con la misma estructura silábica y alterna solo la voca
 
 ---
 
-## Bloque 3: /θ/ y /ð/ — qué practicar y qué no tocar
+### Bloque 3: /θ/ y /ð/ — qué practicar y qué no tocar
 
 En el estándar educado se mantienen *think* y *this* con fricativas dentales. En habla popular dublinesa puedes oír sustituciones. **Para un aprendiz adulto en contexto internacional**, lo más seguro es **mantener /θ/ y /ð/** salvo que tu entorno laboral use otra norma y quieras converger consciente y respetuosamente.
 
@@ -95,7 +97,7 @@ Si tu problema es la audición más que la producción, alterna **cámara lenta*
 
 ---
 
-## Bloque 4: La /t/ intervocálica y la textura de *better*
+### Bloque 4: La /t/ intervocálica y la textura de *better*
 
 Un rasgo citado a menudo en manuales del Hiberno-English es una realización distinta de la /t/ en contextos como *better*, *water*, *city*. No intentes “copiar el sonido” aislado sin modelo: **copia la frase entera**.
 
@@ -107,7 +109,7 @@ Un rasgo citado a menudo en manuales del Hiberno-English es una realización dis
 
 ---
 
-## Bloque 5: Entonación “de historia” sin sonar irónico
+### Bloque 5: Entonación “de historia” sin sonar irónico
 
 La entonación irlandesa a veces sube donde otros acentos mantienen meseta. Si tú bajas siempre al final de cada cláusula, puedes sonar “cerrado” o enfadado en interacción con irlandeses.
 
@@ -122,7 +124,7 @@ Graba. Pide feedback a un profesor o compañero avanzado. Si no tienes feedback 
 
 ---
 
-## Bloque 6: Ritmo y agrupación (thought groups)
+### Bloque 6: Ritmo y agrupación (thought groups)
 
 Marca tus frases con barras:
 
@@ -138,7 +140,7 @@ Practica cada grupo como un solo “chunk” con acento dentro del grupo. Los ha
 
 ---
 
-## Integración: mini monólogo de 90 segundos
+### Integración: mini monólogo de 90 segundos
 
 Elige un tema neutro (tu ciudad, un proyecto, un viaje). Estructura:
 
@@ -150,7 +152,7 @@ Graba. Escucha un modelo irlandés de 90 segundos del mismo tipo de registro. An
 
 ---
 
-## Bloque 7: Connected speech con “h” aspirada y elisión ligera
+### Bloque 7: Connected speech con “h” aspirada y elisión ligera
 
 En conversación rápida, los hablantes pueden debilitar o elidir /h/ en pronombres (*’e*, *’im*, *’er*) en registros muy coloquiales. No es obligatorio que lo produzcas, pero **debes reconocerlo** al escuchar.
 
@@ -163,7 +165,7 @@ En conversación rápida, los hablantes pueden debilitar o elidir /h/ en pronomb
 
 ---
 
-## Bloque 8: Pares de frases para automatizar (drill de diez minutos)
+### Bloque 8: Pares de frases para automatizar (drill de diez minutos)
 
 Usa un temporizador. Cada línea tres veces lenta y tres veces fluida.
 
@@ -177,13 +179,13 @@ En las 5 y 6 repeticiones, fíjate solo en **una** variable: o la /r/, o el fina
 
 ---
 
-## Bloque 9: Cómo documentar tu progreso sin volverte obsesivo
+### Bloque 9: Cómo documentar tu progreso sin volverte obsesivo
 
 Lleva una tabla semanal: *fecha / bloque practicado / clip modelo / nota subjetiva 1–5 / una palabra que mejoraste*. A las cuatro semanas, revisa si las notas suben en los mismos clips de referencia. Si no suben, el cuello de botella casi nunca es “falta de talento”: es **modelo inadecuado** (demasiado rápido o demasiado ruido) o **demasiadas variables** a la vez.
 
 ---
 
-## Qué no hacer (lista corta pero importante)
+### Qué no hacer (lista corta pero importante)
 
 - No mezcles caricatura de “leprechaun” con estudio fonético.
 - No asumas que una película ambientada en Irlanda usa siempre acentos auténticos o homogéneos.
@@ -191,7 +193,7 @@ Lleva una tabla semanal: *fecha / bloque practicado / clip modelo / nota subjeti
 
 ---
 
-## Bloque 10: Lectura en voz alta de párrafo académico neutro
+### Bloque 10: Lectura en voz alta de párrafo académico neutro
 
 El registro académico o profesional suele **acercar** la pronunciación de muchos irlandeses a un estándar suprarregional, pero suele mantener pistas prosódicas. Practica con un párrafo de Wikipedia en inglés sobre un tema neutral (geografía, historia cultural).
 
@@ -205,7 +207,7 @@ Este ejercicio conecta la pronunciación con **la planificación del aire**: muc
 
 ---
 
-## Conclusión
+### Conclusión
 
 Acercarte al acento irlandés con ejercicios estructurados es un trabajo de **motor articulatorio + prosodia**. Los bloques de esta guía —/r/, vocales, fricativas dentales, /t/ en contexto, entonación y agrupación— te dan un mapa repetible. Graba, compara con modelos reales y ajusta una variable cada vez. La inteligibilidad viene primero; el matiz regional es un refinamiento honesto que se construye con tiempo y contacto auténtico.
 

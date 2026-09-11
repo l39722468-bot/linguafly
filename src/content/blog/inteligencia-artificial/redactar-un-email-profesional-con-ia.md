@@ -84,7 +84,7 @@ Ejemplos que no sirven: “Circulares alineamiento sinergias”, “Quick questi
 
 El tope no es estética. Es el antídoto al relleno. El modelo, sin techo, explica por qué las reuniones importan. Tú no estás vendiendo reuniones.
 
-## Plantilla de email con chatbot
+### Plantilla de email con chatbot
 
 **Plantilla de email con chatbot**, mínima, para copiar. Cambia hechos, destinatario y petición. No añadas un rol de “experto en comunicación corporativa”.
 
@@ -123,7 +123,7 @@ Idioma: “Español de España. ‘ordenador’, no ‘computadora’. Tuteo sal
 
 Si ignoras el formato: última línea, en claro: “SOLO TRES BLOQUES: ASUNTO / CUERPO / CIERRE. SIN PROSA ANTES.”
 
-## Ejemplo: jueves a las 10, falta el anexo
+### Ejemplo: jueves a las 10, falta el anexo
 
 El recado real, el que tú tendrías en el bloc. No es literario. Así se pega, después de quitar apellidos de más, teléfonos y cualquier cifra que no haga falta.
 
@@ -169,7 +169,7 @@ Un extra opcional: una frase que sí y una que no, debajo del prompt.
 
 Dos muestras anclan el **tono de un email laboral** mejor que la etiqueta “profesional”.
 
-## Tono de un email laboral (frente al de asistencia virtual)
+### Tono de un email laboral (frente al de asistencia virtual)
 
 El **tono de un email laboral** en español de oficina, entre gente que ya se escribe, es seco y concreto. Sujeto, verbo, dato. El modelo está entrenado con millones de textos de “soporte” y de LinkedIn. Por eso, sin freno, suena a agente que no te conoce.
 
@@ -197,7 +197,7 @@ Si el modelo insiste en el bot: “Rehaz. Cero frases de atención al cliente. E
 
 Usted: solo si el destinatario lo exige (primer contacto, administración, cliente que usteda). Diló. Si no, tuteo en España entre colegas. El modelo a veces usteda por defecto en “profesional”. Corrígelo.
 
-## Qué no pegar para “darle contexto”
+### Qué no pegar para “darle contexto”
 
 El recado de tres hechos no necesita el expediente. Pegar de más no mejora el asunto. Empeora la [privacidad](/blog/inteligencia-artificial/privacidad-al-usar-ia-que-no-pegar-nunca) y ensucia el tono: el modelo empieza a citar importes, tickets y apellidos que no iban en el correo.
 

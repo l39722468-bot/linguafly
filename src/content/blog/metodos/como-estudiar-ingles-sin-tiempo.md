@@ -52,18 +52,20 @@ alt: Rutina corta de inglés en el móvil durante un trayecto en transporte
 
 *"Me encantaría aprender inglés, pero no tengo tiempo"*. Esta es la excusa número uno que escuchamos en el mundo del aprendizaje de idiomas. Y es comprensible: entre el trabajo, la familia, el gimnasio y la necesidad de descanso, encontrar una hora libre para ir a una academia tradicional parece una misión imposible.
 
+Quien busca **Cómo estudiar inglés sin tiempo: 5 ideas prácticas** o **Se Puede Aprender Inglés Sin Tiempo** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Sin embargo, el secreto para aprender un idioma en 2026 no es tener bloques inmensos de tiempo libre, sino **aprovechar mejor los minutos que ya tienes**. El concepto clave es el **micro-learning**: lecciones cortas, potentes y constantes.
 
 ---
 
-## 1. La Regla de los 15 Minutos y los Hábitos Atómicos
+### 1. La Regla de los 15 Minutos y los Hábitos Atómicos
 
 La neurociencia demuestra que el cerebro humano tiene un límite de atención máxima. Intentar estudiar dos horas seguidas el domingo es ineficiente debido a la "Curva del Olvido"; para el martes, habrás olvidado el 70% de lo aprendido.
 
 *   **Estrategia**: Dedica 15 minutos al día, sin falta. Al ser un periodo corto, es mucho más difícil que tu cerebro ponga excusas para saltárselo.
 *   **Resultado Acumulativo**: 15 minutos diarios se traducen en más de 90 horas al año. Según el MCER, esto es suficiente para subir casi un nivel completo de competencia lingüística. Es el poder del interés compuesto aplicado al conocimiento.
 
-## 2. Convierte tus Tiempos Muertos en Tiempos Activos
+### 2. Convierte tus Tiempos Muertos en Tiempos Activos
 
 Todos tenemos momentos de espera inevitables: en el transporte público, haciendo cola en el supermercado o esperando a que empiece una reunión. Pasamos una media de 45 minutos al día en estos "tiempos muertos", que suelen perderse en un *scroll* infinito en redes sociales.
 
@@ -72,7 +74,7 @@ Todos tenemos momentos de espera inevitables: en el transporte público, haciend
 
 ---
 
-## 3. Inmersión Pasiva y el Método "Shadowing"
+### 3. Inmersión Pasiva y el Método "Shadowing"
 
 Si puedes escuchar música o un podcast mientras realizas tareas mecánicas (conducir, limpiar la casa, caminar al trabajo), tienes tiempo para estudiar inglés.
 
@@ -80,7 +82,7 @@ Si puedes escuchar música o un podcast mientras realizas tareas mecánicas (con
 *   **Shadowing**: Da un paso más allá e intenta repetir en voz alta (o mentalmente si estás en público) las frases que escuchas, imitando la entonación y el ritmo del hablante.
 *   **Beneficio**: Estás entrenando tu oído y tu musculatura vocal de forma orgánica mientras eres productivo en otras áreas de tu vida.
 
-## 4. Inmersión Ambiental: El Idioma de tu Entorno
+### 4. Inmersión Ambiental: El Idioma de tu Entorno
 
 Aprender inglés sin tiempo requiere que dejes de tratar el idioma como una asignatura y empieces a tratarlo como tu realidad cotidiana.
 
@@ -90,7 +92,7 @@ Aprender inglés sin tiempo requiere que dejes de tratar el idioma como una asig
 ---
 
 
-## 5. Speaking exprés: 5 minutos que sí cuentan
+### 5. Speaking exprés: 5 minutos que sí cuentan
 
 Antiguamente, practicar el *speaking* requería coordinar horarios con otra persona. Hoy puedes hacerlo en micro-sesiones:
 
@@ -99,7 +101,7 @@ Antiguamente, practicar el *speaking* requería coordinar horarios con otra pers
 *   **Corrección inmediata**: Usa herramientas de feedback para detectar errores repetidos.
 
 
-## La Rutina Bilingüe: Un Ejemplo Práctico
+### La Rutina Bilingüe: Un Ejemplo Práctico
 
 ¿Cómo se ve el día de alguien que "no tiene tiempo" pero está alcanzando la fluidez?
 
@@ -111,7 +113,7 @@ Antiguamente, practicar el *speaking* requería coordinar horarios con otra pers
 
 ---
 
-## Conclusión: El Hábito vence a la Agenda
+### Conclusión: El Hábito vence a la Agenda
 
 Aprender inglés no requiere que cambies tu vida, solo que cambies un par de micro-hábitos. La clave es la **consistencia**. Si logras que el inglés forme parte de tu entorno natural, el progreso vendrá solo, de forma fluida y sin que sientas que te falta tiempo.
 

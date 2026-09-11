@@ -48,6 +48,8 @@ canonical: 'https://linguafly.app/blog/gramatica/pasiva-pasado-ingles'
 
 Cuando lees que *"The treaty was signed in 1945"* o que *"The suspects were arrested last night"*, estás viendo la voz pasiva en pasado en su hábitat natural. Esta estructura es imprescindible para hablar de historia, narrar hechos y escribir informes, y la buena noticia es que funciona con una lógica muy clara.
 
+Quien busca **voz pasiva pasado ingles** o **cómo formar la voz pasiva en pasado inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Past Simple Pasiva: la base
 
 La estructura es **was/were + participio pasado**.

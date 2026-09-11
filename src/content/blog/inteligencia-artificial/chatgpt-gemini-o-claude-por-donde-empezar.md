@@ -63,7 +63,7 @@ No elijas por un vídeo, por el tono “más humano” ni por tener los tres log
 
 Ejemplo de una semana real. Marta tiene tres cosas el lunes: un email de 250 palabras que aún no envía (reunión el jueves a las 10, falta el anexo), un PDF de 12 páginas de instrucciones de un trámite público, y un Doc de notas en Drive del trabajo. No abre tres cuentas. El email cabe en cualquier chat: abre ChatGPT, recorta la firma, pide 90 palabras, lee, copia al correo. El PDF lo deja para Claude el martes, páginas 1–5 primero. El Doc de Drive no lo saca a ChatGPT: si la empresa no ha autorizado Gemini, esas notas se ordenan a mano o en un recinto de trabajo. Tres tareas, un producto el lunes, otro el martes solo si el PDF lo pide. Eso es elegir por recinto, no por ranking.
 
-## ChatGPT o Gemini para principiantes
+### ChatGPT o Gemini para principiantes
 
 **ChatGPT o Gemini principiantes** es la duda del chat diario. Los dos sirven para acortar un correo y para pedir una tabla. El desempate no es “cuál es más listo”. Es cuál vas a abrir el martes sin fricción.
 
@@ -77,7 +77,7 @@ Ejemplo (sirve en los dos). Email tuyo de 220 palabras, aún sin enviar. Hechos:
 
 Si ChatGPT te corta por límite y la tarea es real, pruebas Gemini con el mismo prompt. No abras Claude el mismo rato.
 
-## Claude o ChatGPT para textos largos
+### Claude o ChatGPT para textos largos
 
 **Claude o ChatGPT para textos largos** es otra pregunta. Aquí el trabajo no es el email de noventa palabras. Es un PDF o un bloque que no cabe en un pantallazo.
 
@@ -100,7 +100,7 @@ Luego: “Haz una tabla con tres columnas: paso, condición, resultado. Solo lo 
 
 Si Claude te da una tabla limpia y ChatGPT un folleto, te quedas en Claude para *ese tipo* de tarea. El email de mañana sigue siendo chat diario. Si el PDF pesa, recorta páginas antes de pagar.
 
-## Si el archivo está en Google Drive
+### Si el archivo está en Google Drive
 
 Gemini gana cuando **el archivo no quieres sacarlo a otro producto**. Un Doc de notas, una hoja con una lista, un PDF que ya subiste a Drive. La tarea es “usa *ese* fichero”, no “te pego el texto”.
 
@@ -115,7 +115,7 @@ Gemini no es permiso para volcar Gmail ni un sustituto de Drive. El archivo buen
 
 ChatGPT y Claude también trabajan un Doc si lo descargas. Ese paso extra es el motivo de Gemini *cuando el trabajo es Drive*. Si son dos párrafos, cópialos y olvídate del ecosistema. Si no usas Drive, no abras Gemini “por si un día”.
 
-## Elegir IA sin pagar el primer mes
+### Elegir IA sin pagar el primer mes
 
 **Elegir IA sin pagar el primer mes** es la decisión correcta. Los tres tienen capa gratis. Esa capa basta para:
 
@@ -133,7 +133,7 @@ No pagas porque “alucina menos” (sigue inventando), ni por GPTs, voces o un 
 
 Gratis, en práctica: un producto, un chat nuevo por tarea. Si sale el muro de límite, paras. No creas una segunda cuenta con el teléfono de otra persona. No subas diez PDFs “porque aún me quedan mensajes”. Una prueba con tarjeta el primer mes se puede rechazar. Enseña la pasarela, no el criterio.
 
-## Errores al elegir chatbot
+### Errores al elegir chatbot
 
 **Abrir los tres el mismo día.** Sales con tres hilos a medias y ningún email enviado. Elige uno. Documenta en una nota cuál y por qué (“Drive”, “PDF”, “chat diario”).
 

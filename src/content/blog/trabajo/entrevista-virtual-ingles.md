@@ -48,6 +48,8 @@ canonical: 'https://linguafly.app/blog/trabajo/entrevista-virtual-ingles'
 
 Las entrevistas de trabajo en inglés por videollamada ya son la norma en procesos internacionales. Y aunque el contenido de tus respuestas sigue siendo lo principal, hay una capa adicional de factores técnicos y de presentación que pueden marcar la diferencia.
 
+Consultas como **entrevista virtual inglés videollamada zoom teams**, **entrevista trabajo online inglés setup cámara** o **Entrevista Virtual en Inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## El setup: lo que el entrevistador ve antes de que hables
 
 Tu entorno habla antes de que abras la boca. Estos son los elementos que debes controlar:
@@ -62,7 +64,7 @@ Tu entorno habla antes de que abras la boca. Estos son los elementos que debes c
 
 **Conexión:** Usa cable ethernet si puedes, o al menos asegúrate de estar cerca del router. Cierra las pestañas del navegador que no necesitas y las aplicaciones que consumen ancho de banda.
 
-## El lenguaje corporal en cámara
+### El lenguaje corporal en cámara
 
 **Mira a la cámara, no a la pantalla.** Este es el error más frecuente. Cuando miras la cara del entrevistador en la pantalla, en la imagen que llega al otro lado pareces estar mirando hacia abajo. Para que parezca que mantienes contacto visual, tienes que mirar directamente a la cámara.
 
@@ -72,7 +74,7 @@ Tu entorno habla antes de que abras la boca. Estos son los elementos que debes c
 
 **No leas demasiado de tus notas.** Tener apuntes al lado está bien, pero si desvías la mirada constantemente, lo nota. Úsalos como referencia puntual, no como guion.
 
-## Vocabulario específico para entrevistas virtuales
+### Vocabulario específico para entrevistas virtuales
 
 **Si tienes problemas técnicos:**
 - *"I'm sorry, I think there's a connection issue. Could you repeat that?"*
@@ -94,7 +96,7 @@ Tu entorno habla antes de que abras la boca. Estos son los elementos que debes c
 - *"Is there anything else you'd like me to clarify before we wrap up?"*
 - *"What are the next steps in the process?"*
 
-## Antes de la entrevista: el checklist técnico
+### Antes de la entrevista: el checklist técnico
 
 Haz esto el día antes y también 15 minutos antes de la llamada:
 
@@ -109,7 +111,7 @@ Haz esto el día antes y también 15 minutos antes de la llamada:
 
 En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) encontrarás más recursos para preparar todos los aspectos de tu candidatura.
 
-## Las entrevistas asíncronas: responder en vídeo grabado
+### Las entrevistas asíncronas: responder en vídeo grabado
 
 Cada vez más empresas usan plataformas donde grabas tus respuestas en vídeo sin que haya nadie al otro lado en tiempo real. Las más comunes son HireVue, Spark Hire o Vidyard.
 

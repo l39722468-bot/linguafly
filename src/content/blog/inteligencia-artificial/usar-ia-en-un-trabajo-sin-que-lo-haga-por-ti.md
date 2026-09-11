@@ -69,7 +69,7 @@ Si el plan es que el chat lo redacte y tú expliques el párrafo 4, no hay plan.
 
 **Ética de ChatGPT en la universidad** no es un manifiesto de keynote. Es: no presentas como propio un texto que no puedes explicar, ni fuentes que no has abierto, ni un argumento que no has construido. El resto lo concreta *esta* asignatura.
 
-## Política de la asignatura: si no está clara, preguntas
+### Política de la asignatura: si no está clara, preguntas
 
 **Política de la asignatura** no está en el chat. Está en la guía docente, en el campus, en la rúbrica, en un aviso de la facultad, en el correo del profesor. El modelo no tiene tu convocatoria.
 
@@ -94,7 +94,7 @@ Un reglamento general de la universidad, si existe, manda sobre el hilo y no sob
 
 Esto no es un TFG: no hay tutor de título ni depósito. Es un trabajo de 1.500 o 3.000 palabras de una asignatura. El listón moral es el mismo (autoría). El trámite es más corto. Aun así, un “todos lo usan” no es política.
 
-## Qué está permitido (cuando hay luz verde)
+### Qué está permitido (cuando hay luz verde)
 
 **Qué está permitido en un trabajo de clase** lo dice el profesor. Lo que sigue es el recinto *típico* cuando hay luz verde de tutor, no una licencia universal.
 
@@ -128,7 +128,7 @@ Esquema mío:
 
 Eso es auxiliar. Sales con una lista. Escribes tú. El prompt largo de gurú no hace falta; [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva) cubre tarea, formato y límite. Aquí el límite es: **no escribas el trabajo**.
 
-## Línea roja de un ensayo
+### Línea roja de un ensayo
 
 **Línea roja de un ensayo**: el texto que entregas tiene que poder defenderse en un oral improvisado de cinco minutos. Tesis, dos razones, un ejemplo que *tú* has leído, una fuente que *tú* has abierto. Si el chat ha puesto la tesis, las razones y el ejemplo, no hay ensayo. Hay prosa fluida que no has argumentado. Engaña porque [el texto suena bien](/blog/inteligencia-artificial/confianza-excesiva-el-texto-suena-bien): comas en su sitio, “por un lado / por otro”, cierre de trabajo de clase. El tono no es autoría.
 
@@ -148,7 +148,7 @@ No cruza, si la política lo admite:
 
 El ensayo de asignatura no es un artículo para un medio. No es un TFG. No es “corregir cohesión con la rúbrica” como trabajo principal de otra URL. Es: **tú argumentas**. El chat, como mucho, señala. Si no sabes si un uso concreto cruza, no es un dilema para el modelo. Es una frase en el correo al profesor: “¿puedo usarlo para el esquema, sí o no?”.
 
-## Declarar el uso de IA
+### Declarar el uso de IA
 
 **Declarar el uso de IA** en clase no es un pecho de influencer (“he co-creado con la herramienta”). Es un registro, si lo piden.
 
@@ -164,7 +164,7 @@ Si no piden nada y usaste el tutor de forma auxiliar, la honestidad sigue siendo
 
 No declares un uso falso (“solo lo usé para comas”) si redactó apartados. Tampoco copies una plantilla de declaración de otra universidad. La tuya, si existe, está en tu campus.
 
-## Ejemplo trabajado: un ensayo de 1.500 palabras
+### Ejemplo trabajado: un ensayo de 1.500 palabras
 
 Consigna (prototipo; no es un temario real): “En 1.500 palabras, relaciona precariedad laboral y acceso a la vivienda en jóvenes en España. Usa al menos dos lecturas de la asignatura. Entrega: viernes.”
 

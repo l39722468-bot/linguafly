@@ -40,6 +40,8 @@ La buena noticia es que estos errores son conocidos, estudiados y corregibles. A
 
 ---
 
+Consultas como **errores pronunciacion ingles hispanohablantes**, **errores de pronunciación inglesa más comunes** o **ejercicios gratis para corregir el acento español** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Error 1: Pronunciar el sonido /v/ como /b/
 
 En español, /b/ y /v/ son el mismo fonema (o casi). El español peninsular tiene una distinción contextual entre la consonante oclusiva [b] y la fricativa [β], pero nunca la distinción inglesa entre /b/ (oclusiva bilabial) y /v/ (fricativa labiodental).

@@ -44,6 +44,8 @@ Sin embargo, enfrentarse a un examen oficial genera dudas: ¿Cuál elegir? ¿Có
 
 ---
 
+Quien busca **Examen B1 de Inglés: Cómo Prepararlo y Aprobar** o **examen b1 ingles consejos** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## 1. Cambridge B1 Preliminary (PET): La Certificación de Prestigio
 
 El **Preliminary English Test (PET)** de Cambridge es el examen más reconocido a nivel académico. Si tu objetivo es **preparar el B1 de Cambridge solo**, debes entender que este examen premia la precisión y la capacidad de usar el inglés en contextos reales de forma estructurada.

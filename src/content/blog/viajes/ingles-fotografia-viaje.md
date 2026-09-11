@@ -42,6 +42,8 @@ La fotografía y los viajes son inseparables. Pero capturar el momento perfecto 
 
 ---
 
+Consultas como **Fotografía de Viaje: Vocabulario y Frases en Inglés**, **ingles fotografia viaje** o **Qué Inglés Necesitas para Fotografiar tus Viajes con ejemplos prácticos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## 1. Pedir que te Hagan una Foto
 
 El clásico momento de todo viajero. Estas frases te aseguran una buena foto sin vergüenza.

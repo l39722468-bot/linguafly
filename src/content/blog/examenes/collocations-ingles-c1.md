@@ -39,6 +39,8 @@ Estas combinaciones son las **collocations**, y en el CAE son uno de los factore
 
 ---
 
+Consultas como **aprender collocations ingles**, **collocations C1 Advanced para el CAE** o **lista collocations inglés con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué las collocations son difíciles para hispanohablantes
 
 El problema viene de la traducción literal. En español "hacer una decisión" suena raro (decimos "tomar una decisión"), pero en inglés la trampa funciona al revés: un hispanohablante puede decir *do a decision* cuando lo correcto es *make a decision*, o decir *make an effort* cuando queremos decir "hacer un esfuerzo" —que en este caso sí es *make* y la traducción es directa.
@@ -47,7 +49,7 @@ No hay una regla que te diga cuándo usar *make*, *do*, *take*, *have* o *get* c
 
 ---
 
-## Collocations con MAKE, DO, TAKE y HAVE
+### Collocations con MAKE, DO, TAKE y HAVE
 
 Estos cuatro verbos son los que más problemas dan en el CAE porque en español todos pueden traducirse como "hacer" o "tener".
 
@@ -67,7 +69,7 @@ Un error frecuente de los hispanohablantes es usar *do* cuando corresponde *make
 
 ---
 
-## Collocations adjetivo + sustantivo de nivel C1
+### Collocations adjetivo + sustantivo de nivel C1
 
 Estas son especialmente importantes para el Writing y el Speaking, donde el examinador espera que vayas más allá de *big problem* o *good results*.
 
@@ -95,7 +97,7 @@ Estas son especialmente importantes para el Writing y el Speaking, donde el exam
 
 ---
 
-## Collocations adverbio + adjetivo
+### Collocations adverbio + adjetivo
 
 Estas combinaciones aparecen mucho en la Parte 1 del Use of English (multiple choice cloze) porque Cambridge pone opciones como *deeply, highly, strongly, widely, heavily* y solo una encaja con el adjetivo del hueco.
 
@@ -109,7 +111,7 @@ No hay una regla para memorizar cuál va con cuál: el truco es exponerse a sufi
 
 ---
 
-## Collocations preposicionales frecuentes en el CAE
+### Collocations preposicionales frecuentes en el CAE
 
 Muchas collocations incluyen una preposición específica que no siempre coincide con la del español:
 
@@ -126,7 +128,7 @@ Muchas collocations incluyen una preposición específica que no siempre coincid
 
 ---
 
-## Collocations del Reading y del Listening
+### Collocations del Reading y del Listening
 
 En el Reading del CAE, las collocations aparecen en los textos y a veces son la clave para entender el significado de una expresión que desconoces. Si sabes que *play a pivotal role* significa "jugar un papel fundamental", entenderás ese párrafo aunque no conozcas el término técnico que está usando.
 
@@ -134,7 +136,7 @@ En el Listening, los hablantes usan collocations de manera natural y rápida. Tu
 
 ---
 
-## Cómo aprenderlas de manera sistemática
+### Cómo aprenderlas de manera sistemática
 
 **Agrupa por verbo o por sustantivo**: en lugar de aprender *make a decision* y *take a decision* por separado, aprende toda la lista de sustantivos que van con *make* y los que van con *take*.
 

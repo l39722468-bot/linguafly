@@ -78,7 +78,7 @@ Segundo ejemplo, el grupo de WhatsApp. Alguien suelta “subid a Pepe a verlo de
 
 Esta oleada no es el satélite de *privacidad* sobre “fotos de terceros en un generador” como lista de datos. Es el **no** del retrato. El efecto es el mismo: el JPEG ajeno no entra.
 
-## Consentimiento de un retrato
+### Consentimiento de un retrato
 
 **Consentimiento de un retrato** no es un “ok” en un mensaje a las dos de la mañana. Es entender *qué* se va a hacer con la cara: generar variantes, publicar, anunciar, entrenar si el producto lo hace, guardar en un historial. Un sí vago a “hazme una gracia” no cubre un anuncio, ni un deepfake, ni un menor.
 
@@ -98,7 +98,7 @@ Qué no pides al modelo:
 
 Ana, otra vez. Si la jefa *quiere* una ilustración de *su* liderazgo y lo pide por escrito, igual el canal correcto es un fotógrafo o un ilustrador con encargo, no un upload a un producto de consumo. El consentimiento no convierte un chat personal en un estudio. Convierte un *no* en una conversación de trabajo. La conversación puede acabar en “mejor no.”
 
-## IA y derecho a la propia imagen
+### IA y derecho a la propia imagen
 
 **IA y derecho a la propia imagen**, a alto nivel: en España una persona tiene un recinto sobre su retrato. No es lo mismo que el copyright del PNG. Puedes “tener” un archivo según las condiciones de la herramienta y **aun así** no poder usar *esa cara*. El archivo y la persona no se funden.
 
@@ -118,7 +118,7 @@ Qué haces sin abogado, que es la higiene de esta revista:
 
 No pidas al modelo “¿infrinjo el derecho a la propia imagen?”. Contesta con tono de informe. No es un dictamen. Tacha.
 
-## Modelos de stock vs personas conocidas
+### Modelos de stock vs personas conocidas
 
 **Modelos de stock vs personas conocidas** se confunden porque los dos “salen de internet”. No son el mismo recinto.
 
@@ -138,7 +138,7 @@ Ejemplo, Luis, pyme de software. El marketing quiere “un CIO sonriendo”. Opc
 
 No uses stock como “referencia de cara” para que el modelo la distorsione. O licencias el stock, o describes un tipo. Mezclar es el upload con extra pasos.
 
-## Deepfake de una persona: la negativa
+### Deepfake de una persona: la negativa
 
 **Deepfake de una persona:** no. Esta sección no enseña a hacerlo. No hay herramientas recomendadas. No hay “si quieres un resultado creíble…”. El artículo es la negativa.
 
@@ -163,7 +163,7 @@ Si el modelo se niega, no rodeas. No insistes con otro envoltorio. Reformulas a 
 
 Ana otra vez. El gag de la jefa “dando un discurso en Marte” es un deepfake de broma. No. Un pictograma de casco y un titular seco. El post sobre liderazgo sobrevive. La jefa también.
 
-## Ética de un retrato generado (qué sí)
+### Ética de un retrato generado (qué sí)
 
 **Ética de un retrato generado** no es “nunca una cara”. Es “nunca *esa* cara sin derecho”. Un retrato inventado, no identificable, puede servir: un personaje de cómic, un pictograma, un maniquí de ilustración. El fotorrealismo de “una mujer de treinta años, pecas, jersey verde” a veces se parece a alguien real por azar. Si se parece a alguien que conoces, no lo uses. Regenera hacia lo más plano.
 

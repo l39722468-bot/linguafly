@@ -285,19 +285,33 @@ Si el código no es tuyo para cambiarlo (licencia, trabajo, un compañero), no p
 
 ## Errores habituales (para aquí)
 
-**Pegar el repositorio.** “Para que tenga contexto.” El contexto es el contrato y la función. Para aquí.
+### Pegar el repositorio
 
-**Pedir estilo y comportamiento nuevo a la vez.** “Hazlo más limpio y que no pete si falta el SKU.” Eso es un cambio de producto. O refactor, o política nueva. No ambos.
+“Para que tenga contexto.” El contexto es el contrato y la función. Para aquí.
 
-**No listar los returns.** El modelo cambia `12.10`. Tú no tenías el número escrito. Para aquí: tres ejemplos antes de pedir.
+### Pedir estilo y comportamiento nuevo a la vez
 
-**Aceptar `Decimal` o `float` distinto sin medir.** El redondeo bancario no es un detalle estético. Para aquí hasta que los asserts pasen.
+“Hazlo más limpio y que no pete si falta el SKU.” Eso es un cambio de producto. O refactor, o política nueva. No ambos.
 
-**Dejar un `try/except` amplio.** Esconde el `KeyError`. El caller que dependía de la excepción se rompe. No es un refactor.
+### No listar los returns
 
-**Pedir tests en este hilo y no correrlos.** Los tests inventan APIs. Otro artículo. Tú ejecutas.
+El modelo cambia `12.10`. Tú no tenías el número escrito. Para aquí: tres ejemplos antes de pedir.
 
-**Confiar en que “no he tocado el comportamiento” porque el chat lo afirma.** La frase no es una prueba. Los cinco puntos del contrato, sí.
+### Aceptar `Decimal` o `float` distinto sin medir
+
+El redondeo bancario no es un detalle estético. Para aquí hasta que los asserts pasen.
+
+### Dejar un `try/except` amplio
+
+Esconde el `KeyError`. El caller que dependía de la excepción se rompe. No es un refactor.
+
+### Pedir tests en este hilo y no correrlos
+
+Los tests inventan APIs. Otro artículo. Tú ejecutas.
+
+### Confiar en que “no he tocado el comportamiento” porque el chat lo afirma
+
+La frase no es una prueba. Los cinco puntos del contrato, sí.
 
 Para aquí, en positivo:
 

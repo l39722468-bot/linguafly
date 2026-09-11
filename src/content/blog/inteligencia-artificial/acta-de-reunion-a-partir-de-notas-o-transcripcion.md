@@ -66,7 +66,7 @@ Qué no es el acta:
 
 **De transcripción a acta** es un filtro. La transcripción es larga, sucia y a menudo atribuye mal el turno (“Hablante 2”). El acta es corta y atribuible. Si el recorte no permite atribuir, el dueño no aparece. No “Hablante 2 = Marta” porque te suena la voz.
 
-## Formato de un acta interno
+### Formato de un acta interno
 
 **Formato de un acta interno**, para pedir y para reconocer. Adáptalo a lo que ya usa tu equipo. No copies un ISO de internet. Sí impone bloques, para que el modelo no suelte un ensayo.
 
@@ -86,7 +86,7 @@ Tipo de reunión: **reunión híbrida a documento** no cambia el formato. Cambia
 
 Idioma: español de España, tuteo en las citas si así se habló. Sin “tomar acciónables”. Sin “alinear stakeholders” si nadie lo dijo.
 
-## El prompt: de notas o transcripción a minuta
+### El prompt: de notas o transcripción a minuta
 
 Prompt para copiar. El bloque es notas feas o un *recorte* de transcripción, ya sin apellidos de más, sin teléfonos, sin el cliente con nombre completo si no hace falta.
 
@@ -126,7 +126,7 @@ Por qué cada línea está:
 
 Si ignora el formato: “SOLO LOS BLOQUES PEDIDOS. SIN INTRODUCCIÓN. SIN ‘RESUMEN EJECUTIVO’.”
 
-## Ejemplo: notas de una híbrida, nombres cortos
+### Ejemplo: notas de una híbrida, nombres cortos
 
 Notas desordenadas, ya recortadas. Nombres de pila o iniciales. Sin DNI. Sin el contrato pegado. Así se pega.
 
@@ -189,7 +189,7 @@ Un turno.
 
 Nombres: en este ejemplo ya van cortos. En el tuyo, persona A, persona B, “el proveedor”. El acta de ejemplo no es un expediente.
 
-## Dueño vacío y asistente que no consta
+### Dueño vacío y asistente que no consta
 
 Dos huecos distintos. No los rellenes.
 
@@ -208,7 +208,7 @@ El hueco se lee mal el viernes siguiente. Es correcto. Documenta que la sala no 
 
 Transcripción automática: atribuye mal. Si “Hablante 2” dice el 8 % y tú crees que es Marta, o pones Hablante 2 o no pones dueño. No “corrijas” con memoria dentro del chat mezclada con el verbatim. Si recuerdas el turno, corrige *tú* el recorte antes de pegar: “Marta: el 8 %…”. El modelo no oye el Zoom.
 
-## Qué no pegar de la transcripción
+### Qué no pegar de la transcripción
 
 La transcripción de una hora no se vuelca. Recorta un tema. Anonimiza. La lista de lo que no se pega no cambia porque el archivo se llame “acta”: está en [privacidad al usar IA](/blog/inteligencia-artificial/privacidad-al-usar-ia-que-no-pegar-nunca).
 

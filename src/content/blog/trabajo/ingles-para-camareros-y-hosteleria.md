@@ -38,6 +38,8 @@ description: >
 
 Trabajar en hostelería en un país anglófono es una de las vías más comunes para hispanohablantes que quieren vivir en el extranjero. El sector es muy accesible, siempre tiene demanda de trabajadores y el ritmo de trabajo rápido acelera enormemente el aprendizaje del idioma.
 
+Consultas como **Inglés para Camareros y Hostelería: Guía Laboral**, **ingles hosteleria trabajo** o **ingles para camareros y hosteleria para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 Esta guía cubre todo el vocabulario y las frases que necesitas para trabajar con eficacia en cualquier establecimiento de hostelería en inglés.
 
 ---

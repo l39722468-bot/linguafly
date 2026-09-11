@@ -38,6 +38,8 @@ canonical: 'https://linguafly.app/blog/metodos/ingles-para-ligar-y-citas'
 
 El inglés para ligar y para las citas es uno de los ámbitos más difíciles de aprender de los libros porque es altamente coloquial, lleno de jerga y muy dependiente del contexto cultural. Esta guía te da el vocabulario auténtico y las frases naturales que realmente usan los anglohablantes.
 
+Si llegas con la consulta **Inglés para Ligar y Citas: Frases Naturales**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ---
 
 ## 💬 Flirteo: Romper el Hielo

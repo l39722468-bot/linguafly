@@ -44,6 +44,8 @@ Para el contexto general de los tiempos de pasado en inglés, la guía [Present 
 
 ---
 
+Consultas como **Present Perfect Continuous: Cuándo Usarlo**, **cuando usar present perfect continuous** o **present perfect continuous en inglés con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Cómo se forma
 
 **Sujeto + have/has + been + verbo en -ing**

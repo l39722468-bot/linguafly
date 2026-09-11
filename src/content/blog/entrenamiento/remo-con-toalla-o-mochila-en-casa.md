@@ -59,7 +59,7 @@ No hace falta “sentir el dorsal arder”. Hace falta que el omóplato se mueva
 
 El tirón no es opcional. Es la pareja de la flexión. Empujas. Tiras. Si solo empujas, el salón se convierte en más escritorio. Si entrenas a las siete y sales vacío, el problema no es el remo. Es llegar sin plato. Eso está en [qué comer antes y después de entrenar](/blog/alimentacion/que-comer-antes-y-despues-de-entrenar). Aquí, el gesto.
 
-## Qué poner en la mochila (y qué no)
+### Qué poner en la mochila (y qué no)
 
 La mochila no es el ejercicio. El peso centrado y cerrado es la mitad. Si el bulto baila, tiras mal o te llevas un codo raro. No improvises con el portátil, un vaso abierto o una bolsa de tela que se deforma.
 
@@ -86,7 +86,7 @@ De pie, en el salón. No de rodillas. No sentado en el sofá tirando hacia la ba
 
 Si viajas: botella cerrada, cremallera, mismo gesto. El hotel no pide una polea. Pide que el tirón exista después del empuje.
 
-## Cómo hacer el remo con mochila
+### Cómo hacer el remo con mochila
 
 ![Remo con mochila, inicio: bisagra de cadera, espalda larga, brazos largos](/blog/entrenamiento/remo-con-toalla-o-mochila-en-casa/inicio.png)
 
@@ -122,7 +122,7 @@ Si las asas se te van, acorta: coge más arriba, o envuelve un palmo. Nunca un a
 
 Un brazo llega más tarde, cuando las dos manos ya son limpias. No el martes porque “así aislo”. Primero el patrón. Luego el lado.
 
-## El error: encoger trapecio y no mover omóplato
+### El error: encoger trapecio y no mover omóplato
 
 Encoger trapecio: hombros hacia las orejas, cuello corto, omóplato que no se desplaza. La carga sube un poco. Tú sientes “esfuerzo”. Es el músculo que ya llevas encendido desde las 9:00 frente al correo. No es el tirón.
 
@@ -149,7 +149,7 @@ Mira un punto en el suelo un par de metros delante, no el techo. Si miras al tec
 
 El tronco quieto. Si la mochila sube y el torso se balancea, estás haciendo un semi peso muerto. Sube el pecho un palmo. Menos peso. El remo es el codo. No es un vaivén.
 
-## Si no hay peso: Y-W en el suelo
+### Si no hay peso: Y-W en el suelo
 
 Esto **no** es el remo de la búsqueda. Es la regresión. Boca abajo, frente al suelo, brazos en Y o en W, aprietas omóplatos y levantas un palmo, lento. 8 repeticiones. Si duele lumbar, acorta el rango. No hagas un arco.
 
@@ -163,7 +163,7 @@ El suelo también vale un día de hombro raro, sin pinchazo claro pero con “no
 
 Si el suelo te pincha las costillas, una esterilla fina. No un sofá. El sofá te hunde y te inventa un arco.
 
-## Cómo meterlo en la sesión (sin reescribirla)
+### Cómo meterlo en la sesión (sin reescribirla)
 
 La sesión ya tiene sitio: **después del empuje**, o como última estación de las vueltas. Flexión inclinada. Luego algo que tire. 8 a 12. Tres vueltas. No un bloque de espalda de 40 minutos.
 
@@ -190,7 +190,7 @@ No hace falta un día de “solo espalda”. Quien empieza tiene tres full body.
 
 Anota: fecha, libros o “suelo”, repeticiones, una palabra (fácil / justo / cuello). Sin eso, cada lunes es un test de memoria. El test de memoria suele elegir más peso.
 
-## Qué no hacer (y cuándo parar)
+### Qué no hacer (y cuándo parar)
 
 No tires hacia la barbilla. No uses una bolsa abierta. No sustituyas el remo por dominadas en el marco. El marco no es un bar. No conviertas la mochila en un swing.
 

@@ -42,6 +42,8 @@ Si quieres entender la lógica de los phrasal verbs antes de ver estos ejemplos 
 
 ---
 
+Consultas como **phrasal verbs conversacion**, **phrasal verbs más usados en conversación inglesa** o **lista gratis de phrasal verbs cotidianos con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Phrasal verbs del día a día
 
 ### Hang out

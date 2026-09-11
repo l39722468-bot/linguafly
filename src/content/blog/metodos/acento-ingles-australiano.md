@@ -39,6 +39,8 @@ Con el tiempo me di cuenta de que el australiano no es difícil en sí mismo: es
 
 ---
 
+Consultas como **acento australiano broad general cultivated**, **cómo entender el acento australiano en inglés** o **diferencias entre inglés australiano británico y americano** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Los tres australianos: Broad, General y Cultivated
 
 Lo primero que conviene saber es que "el acento australiano" no es uno solo. Los lingüistas Mitchell y Delbridge identificaron en los años sesenta un espectro continuo con tres grandes variedades:

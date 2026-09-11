@@ -49,6 +49,8 @@ canonical: 'https://linguafly.app/blog/trabajo/email-confirmacion-reunion-ingles
 
 Las reuniones en entornos internacionales se gestionan casi siempre por email antes de que nadie entre a una sala o a un Zoom. Saber cómo convocar, confirmar y cancelar con las fórmulas adecuadas en inglés es una competencia práctica que se nota en el día a día.
 
+Consultas como **meeting request email ingles trabajo**, **Emails para Reuniones en Inglés** o **email confirmacion reunion ingles para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Convocar una reunión
 
 ### El asunto

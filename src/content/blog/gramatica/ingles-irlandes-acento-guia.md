@@ -40,6 +40,8 @@ La razón de esa musicalidad tiene raíces profundas. El gaélico irlandés es u
 
 ---
 
+Consultas como **Acento Irlandés en Inglés: Guía para Entenderlo**, **acento irlandes ingles** o **cómo entender el acento irlandés en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Características fonéticas del acento irlandés
 
 ### La /r/ postvocálica: el irlandés es rótico

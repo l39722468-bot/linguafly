@@ -41,6 +41,8 @@ Esta guía reúne las **frases funcionales** que necesitas para cada fase de una
 
 ---
 
+Consultas como **Cómo Liderar Reuniones en Inglés: Frases Clave**, **liderar reuniones ingles** o **Liderar Reuniones en Inglés con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Antes de la reunión: preparación
 
 ### El agenda email (24-48 h antes)

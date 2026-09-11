@@ -39,6 +39,8 @@ El paper de Listening tiene cuatro partes y dura unos 40 minutos. Cada grabació
 
 ---
 
+Consultas como **Listening C1 Advanced: Estrategias para el CAE**, **listening c1 advanced trucos** o **estrategias Listening Cambridge C1 Advanced** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Parte 1: Multiple Choice (extractos cortos)
 
 Seis extractos cortos de conversaciones o monólogos, con tres preguntas de opción múltiple (dos por extracto, aunque puede variar). Cada extracto dura unos 30-40 segundos.
@@ -53,7 +55,7 @@ Las preguntas de esta parte suelen preguntar por el **propósito del hablante**,
 
 ---
 
-## Parte 2: Sentence Completion
+### Parte 2: Sentence Completion
 
 Una grabación larga de unos 3 minutos —una presentación, una conferencia, un discurso— seguida de ocho frases incompletas que debes completar con palabras del audio.
 
@@ -72,7 +74,7 @@ Escucha activamente la primera vez y escribe lo que captes. En la segunda escuch
 
 ---
 
-## Parte 3: Multiple Choice (entrevista o debate)
+### Parte 3: Multiple Choice (entrevista o debate)
 
 Una grabación larga (4-5 minutos) de dos o más personas hablando —una entrevista, un podcast, una discusión— seguida de seis preguntas de opción múltiple con cuatro opciones.
 
@@ -88,7 +90,7 @@ Durante la primera escucha, haz una marca junto a la opción que te parece corre
 
 ---
 
-## Parte 4: Multiple Matching
+### Parte 4: Multiple Matching
 
 Cinco extractos cortos de hablantes distintos que hablan sobre el mismo tema general. Tienes que emparejar cada hablante con dos listas: una de temas y una de opiniones u actitudes. Son 10 opciones en cada lista para cinco hablantes (dos de más en cada lista).
 
@@ -102,7 +104,7 @@ Durante la primera escucha, trabaja con una sola lista. Durante la segunda, conf
 
 ---
 
-## Cómo preparar el Listening entre exámenes
+### Cómo preparar el Listening entre exámenes
 
 El Listening es la destreza que más se beneficia del **input pasivo constante**. Significa que no tienes que estar siempre "estudiando" activamente: simplemente escuchar inglés a diario te entrena el oído de manera acumulativa.
 

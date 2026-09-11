@@ -41,6 +41,8 @@ faqs:
 
 En **atención al cliente en inglés**, el saludo no es decoración: enseña **tono**, **competencia** y **empatía** en segundos. Un agente B2 puede tener gramática sólida y aun así sonar rudo si usa imperativos (“Send me your ID”) o demasiada informalidad (“Hey, what’s up?”) en contextos que requieren neutralidad.
 
+Quien busca **registro formal inglés** o **atencion cliente saludos tono registro b2 en inglés para el trabajo** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Este artículo te da un **kit de apertura–cuerpo–cierre** para chat y email, con matices de registro. No sustituye el manual de marca de tu empresa, pero sí te da un **mapa seguro** para hispanohablantes.
 
 ## Aperturas que funcionan en distintos canales

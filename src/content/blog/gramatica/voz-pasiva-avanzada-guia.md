@@ -43,6 +43,8 @@ Como profesor de Cambridge, te guiaré a través de las tres estructuras pasivas
 
 ---
 
+Quien busca **voz pasiva avanzada ingles** o **voz pasiva avanzada C1 C2 con ejemplos** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## 1. La Pasiva Impersonal (Impersonal Passive)
 
 Se utiliza con verbos de pensamiento y opinión como *say, believe, think, report, expect, know*. Hay dos formas de construirla:

@@ -60,7 +60,7 @@ Tres piezas que pueden ir dentro, sin que tú las veas al pulsar el botón:
 
 Explore, un buscador y fichas con estrellas son escaparate. No son un requisito para resumir un email. Un GPT *tuyo*, el día que lo hagas, sigue siendo un prompt guardado. El primer mes ni eso: el prompt en un documento de texto hace el mismo trabajo y lo copias a otra ventana si cambias de producto.
 
-## GPT frente a un prompt normal
+### GPT frente a un prompt normal
 
 **GPT vs prompt normal** se resume en quién controla las órdenes y quién ve el pegado.
 
@@ -76,7 +76,7 @@ Un GPT *sí* es el mismo trabajo cuando las instrucciones son las tuyas, las has
 
 Tarde tipo, sin tienda. Tienes un email de ocho líneas que debes dejar en 80 palabras. Abres chat nuevo. Pegas el molde de tu nota. Pegas el email ya sin IBAN. Lees la salida con el original: el jueves a las 10 sigue; no ha colado una disculpa. Diez minutos. Eso es el trabajo. La alternativa de la tienda (“EmailPro GPT”) te habría pedido el mismo pegado y te habría quitado las órdenes de delante. Mismo riesgo, menos control.
 
-## Qué hace la tienda de GPTs (y por qué ignorarla)
+### Qué hace la tienda de GPTs (y por qué ignorarla)
 
 La **tienda de GPTs de ChatGPT** es un directorio. Hay GPTs de OpenAI y hay GPTs de cualquiera que haya publicado uno. Las fichas parecen apps. No son apps revisadas como las de un móvil. Nadie lee las instrucciones de cada una por ti.
 
@@ -93,7 +93,7 @@ Cómo **empezar sin tienda de GPTs**: ignora Explore el primer mes. Si un tutori
 
 Si un compañero te manda “este GPT mío que resume actas”: pide el *prompt*. Si no te lo da, no pegues el acta ahí.
 
-## El riesgo de pegar datos a un GPT de terceros
+### El riesgo de pegar datos a un GPT de terceros
 
 El **riesgo de GPTs de terceros** es un envío. El texto sale de tu aparato. En el chat genérico, el destinatario es el proveedor del modelo. En un GPT de otro puede haber un destinatario más: el constructor, su API, su hoja de cálculo.
 
@@ -107,7 +107,7 @@ Ejemplo habitual: “Revisor de contratos”. Pegas un contrato con nombres, CIF
 
 La higiene es la de [privacidad al usar IA: qué no pegar nunca](/blog/inteligencia-artificial/privacidad-al-usar-ia-que-no-pegar-nunca). El GPT de terceros no la relaja: la endurece. En la tienda no pegas nada que no pondrías en el formulario web de una empresa que acabas de conocer. Antes de pulsar: ¿quién lo ha publicado? ¿el documento identifica a alguien? ¿hay acciones a otras webs? Un nick, un contrato, un conector: para. Anonimiza de verdad (“la parte A, un plazo de diez días”) o no uses ese GPT. Esto no es un dictamen de RGPD. Es no enviar a un tercero lo que no enviarías a su buzón.
 
-## Cuándo no uses un GPT
+### Cuándo no uses un GPT
 
 **Cuándo no usar un GPT.** Si una línea encaja, chat normal o nada.
 
@@ -121,7 +121,7 @@ La higiene es la de [privacidad al usar IA: qué no pegar nunca](/blog/inteligen
 
 Si entras en un GPT de la tienda por error: no pegues. Vuelve al chat genérico. La excepción (GPT tuyo, sin acciones, instrucciones que has leído, trabajo repetido) no es el primer mes. La nota de prompts sigue siendo la copia de seguridad.
 
-## Cómo empezar: chat y una nota de prompts
+### Cómo empezar: chat y una nota de prompts
 
 El primer mes cabe en dos sitios. Ninguno es la tienda.
 

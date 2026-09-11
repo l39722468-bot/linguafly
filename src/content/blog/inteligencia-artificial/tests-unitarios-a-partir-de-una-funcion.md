@@ -73,7 +73,7 @@ Qué no pides:
 
 Si la función lee un fichero o la red, este oficio se queda corto. O extraes el cálculo puro (como Marta) y testas eso, o no uses un chat de consumo para el resto. El unitario es la función pura.
 
-## ChatGPT escribe tests: el prompt
+### ChatGPT escribe tests: el prompt
 
 Plantilla:
 
@@ -101,7 +101,7 @@ Mismos casos. assert → expect. Nada de supertest. Nada de fetch.
 
 **Nombres de tests claros** se piden en el prompt. `test_general_redondea_a_dos_decimales`, no `test1`. Si salen `test_should_work`, un turno: “renombra a comportamiento_resultado. Un test, un assert principal.”
 
-## Casos límite de una función: Marta y el IVA de juguete
+### Casos límite de una función: Marta y el IVA de juguete
 
 **Casos límite de una función** no son un infierno de combinatoria. Son los bordes que el código ya nombra. Marta copia la función de Inés. Doce líneas. Quiere pytest. No quiere un suite de e-commerce.
 
@@ -203,7 +203,7 @@ def test_precio_sin_iva():
 
 `precio_sin_iva` no existe. S3 no está. El caso de “api key” no es un unitario de esta función y no se pide. Fuera.
 
-## Pytest o Jest a partir de código (tú ejecutas)
+### Pytest o Jest a partir de código (tú ejecutas)
 
 **Pytest o Jest a partir de código** significa: el archivo de tests se parece a tu repo, y el comando lo lanzas tú.
 
@@ -242,7 +242,7 @@ Si no corre, no está testeado. El chat que dice “passing” no ha tocado tu d
 
 Cuando pytest peta con un ImportError, el oficio vuelve al error: pegas el traceback redactado, no pides “reescribe los tests y la app”. Una línea: “el import debe ser `from precios import precio_con_iva`. Rehaz solo el import.”
 
-## Revisar tests generados
+### Revisar tests generados
 
 **Revisar tests generados** es una pasada, no un visto bueno emocional.
 
@@ -260,7 +260,7 @@ Si Copilot (el autocomplete) añade un sexto test mientras pegas, mismo filtro. 
 
 No pidas al modelo tests ofensivos ni recetas de ataque. Validar un tipo o un vacío, sí, sobre *tu* función, con datos inocuos (`None`, `""`, `0`). Eso es el borde de tu API. Punto.
 
-## IA no cubra lo que no existe
+### IA no cubra lo que no existe
 
 El fallo típico: el chat añade `cargar_catalogo("catalogo.csv")` y un test de tres filas. Tú no tienes CSV. El test falla o, peor, te empuja a crear el CSV. Paras.
 

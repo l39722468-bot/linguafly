@@ -68,6 +68,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Quien busca **ejercicios familia en inglés para principiantes** o **adjetivos posesivos ejercicios con respuestas** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Lección 1 — Gramática: posesivos y *'s*
 
 **Objetivo:** Usar *my / your / his / her / our / their* y el genitivo sajón (*Tom's sister*).

@@ -43,6 +43,8 @@ Lo bueno es que no hace falta memorizar cada palabra como una excepción aislada
 
 ---
 
+Consultas como **letras mudas ingles**, **palabras con k w b y gh silenciosas** o **ejercicios gratis de letras mudas en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué existe esto
 
 El inglés del siglo XXI se escribe prácticamente igual que el inglés de hace quinientos años. Cuando Gutenberg y sus sucesores fijaron la ortografía en el siglo XV y XVI, la pronunciación era distinta: la K de *knight* se pronunciaba, la W de *write* también, la GH de *night* era un sonido parecido a la jota española.

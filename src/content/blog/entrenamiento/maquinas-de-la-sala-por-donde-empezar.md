@@ -73,7 +73,7 @@ Frecuencia: las mismas cuatro, dos o tres días por semana, con un día de por m
 
 Mujer, hombre, cincuenta años, veinte: las mismas cuatro. Cambia el pin, no el inventario.
 
-## Ajustar el asiento
+### Ajustar el asiento
 
 El peso se elige después. El asiento, antes. Una serie con el asiento mal enseña otro ejercicio.
 
@@ -103,7 +103,7 @@ Errores de asiento:
 
 Un minuto de asiento evita diez minutos de un gesto raro. El número del asiento también se anota. “Prensa asiento 4, pin 3.”
 
-## Elegir el peso: dos o tres repeticiones de margen
+### Elegir el peso: dos o tres repeticiones de margen
 
 El criterio es simple. Acabas la serie y **podrías hacer dos o tres repeticiones más** con la misma forma. No al fallo. No “la última no sube”.
 
@@ -127,7 +127,7 @@ Cuándo subir: cuando las dos o tres series salen holgadas, el mismo asiento, do
 
 Si un día dormiste mal o llegas justo, el mismo pin o uno menos. No es perder el mes. Es la sesión de hoy.
 
-## Prensa de piernas: el empuje
+### Prensa de piernas: el empuje
 
 La prensa es el empuje de piernas guiado. Sirve para aprender a empujar con los talones y la espalda quieta.
 
@@ -156,7 +156,7 @@ Respiración: no hace falta un protocolo. No aguantes la respiración las doce r
 
 Si la prensa es de 45 grados o horizontal, la regla es la misma: espalda en el cojín, talones, margen. Elige una y repítela el mes. No alterne las dos “por variedad”.
 
-## Remo en máquina: el tirón
+### Remo en máquina: el tirón
 
 El remo equilibra el press. Tiras. Una consigna: **tirón = codo atrás, hombros abajo**.
 
@@ -178,7 +178,7 @@ No hace falta un catálogo de agarres. Un mango. El mes. La polea con doce barra
 
 Cara visible: nadie te aplaude el remo. Igual lo haces. El press sin pareja deja el hombro más adelante. El remo es la pareja.
 
-## Press de pecho y jalón, en texto
+### Press de pecho y jalón, en texto
 
 No conviertes esto en la enciclopedia de la polea. Dos gestos, para cerrar las cuatro.
 
@@ -206,7 +206,7 @@ Si el jalón está lleno: face-pull suave, polea a la cara, cuerda, poco peso, c
 
 No añadas este mes: jalón agarre cerrado, jalón un brazo, tres tipos de remo y un pull-over. Un jalón. Un remo. Un press. Una prensa.
 
-## El primer mes: mismas cuatro, mismo criterio
+### El primer mes: mismas cuatro, mismo criterio
 
 Cada sesión de este mes:
 

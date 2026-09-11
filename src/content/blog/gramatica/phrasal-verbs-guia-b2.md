@@ -42,6 +42,8 @@ En esta guía académica, exploraremos no solo los conceptos básicos, sino una 
 
 ---
 
+Si llegas con la consulta **lista phrasal verbs**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## ¿Qué son los Phrasal Verbs y por qué son clave en el B2?
 
 Un phrasal verb es la combinación de un **verbo + una partícula** (preposición o adverbio). La clave académica es entender que el significado resultante suele ser **idiomático**, es decir, no se puede deducir traduciendo las palabras por separado.

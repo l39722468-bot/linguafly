@@ -88,7 +88,7 @@ Comprobación, ficha a ficha:
 
 Doce fichas contrastadas valen más que cuarenta sin abrir.
 
-## Anverso y reverso de una ficha
+### Anverso y reverso de una ficha
 
 **Anverso y reverso de una ficha** es el formato. No es un resumen en dos celdas. Una idea.
 
@@ -122,7 +122,7 @@ Una ficha, una dirección. “Define X” no es lo mismo que “lista las tres p
 
 No pongas en el anverso la respuesta. “La memoria de trabajo es el sistema de capacidad limitada…” ya es el reverso. El anverso sería “memoria de trabajo (capacidad), p. 14”.
 
-## La IA no invente el apunte
+### La IA no invente el apunte
 
 **IA no invente el apunte.** Es el límite. El mazo no es un segundo manual. Es un índice de lo que ya copiaste o te dieron.
 
@@ -145,7 +145,7 @@ Si una idea te falta de verdad, el hueco se estudia en el original o se pregunta
 
 Privacidad: no pegas evaluaciones con nombres, salud, menores, el DNI. Anonimiza casos de clase. El apunte de un compañero sin permiso no entra. El scan del libro que no es tuyo, tampoco.
 
-## Preguntas cortas de estudio (una por tarjeta)
+### Preguntas cortas de estudio (una por tarjeta)
 
 **Preguntas cortas de estudio** son el anverso en forma de pregunta. No son un examen. No son un tipo test. Son para cerrar el cuaderno y contestarte en voz alta.
 
@@ -172,7 +172,7 @@ Si fallas una ficha dos veces, no pides al modelo una explicación brillante. Vu
 
 Fichas de un término técnico: anverso el término, reverso la definición del capítulo, no la de la RAE. Si el profesor usa una palabra rara, esa.
 
-## Fichas de un capítulo: el lote de un rato
+### Fichas de un capítulo: el lote de un rato
 
 **Fichas de un capítulo** se hacen en un rato, no en un fin de semana de 80 tarjetas. El capítulo 4, páginas 12-19. Punto.
 
@@ -206,7 +206,7 @@ Si usas cloze (huecos), el hueco tiene que ser una palabra que *ya* está en tus
 
 Reimportar cada vez que el chat “mejore” el mazo es una trampa. Mejoras tú la carta cuando el original lo pide (un apunte nuevo del profesor). No cuando el modelo está aburrido.
 
-## Ejemplo trabajado: Héctor, capítulo 4, páginas 12-19
+### Ejemplo trabajado: Héctor, capítulo 4, páginas 12-19
 
 Héctor cursa Psicología. Capítulo 4, memoria. Tiene apuntes *suyos*, páginas 12 a 19. El profesor colgó un esquema de una página en el campus (público para el grupo). El examen es preguntas cortas, no un test copiado. Héctor no tiene un PDF pirata del manual; tiene el libro en papel y no lo va a escanear.
 
@@ -226,7 +226,7 @@ El modelo devuelve 12.
 
 Lo que no haría: “completa el capítulo como el manual”; “haz 40 cloze del libro”; “sácame las preguntas del parcial del año pasado”. El modelo no entrega la asignatura. Héctor tampoco se la hace entregar.
 
-## Errores al hacer fichas con IA
+### Errores al hacer fichas con IA
 
 **Pedir fichas sin pegar el capítulo.** El mazo es Wikipedia.
 
@@ -246,7 +246,7 @@ Lo que no haría: “completa el capítulo como el manual”; “haz 40 cloze de
 
 **Usar las fichas como si fueran el examen.** Son práctica contra *tus* notas. El examen lo haces tú, con lo que hayas podido repetir.
 
-## Para aquí
+### Para aquí
 
 **Fichas de estudio con IA** caben en cinco líneas:
 

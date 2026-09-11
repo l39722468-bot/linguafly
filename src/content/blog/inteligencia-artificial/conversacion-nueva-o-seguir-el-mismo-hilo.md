@@ -66,7 +66,7 @@ Eso es continuar. El modelo tiene el email, la corrección y el tope. Abrir un c
 
 Otro caso de seguir: le pediste una tabla de tres columnas y la columna 2 está mal. “La columna responsable solo se rellena si el nombre aparece en el texto. Marta no avisa a compras. Rehaz la tabla.” Mismo hilo. Misma tabla. Un punto.
 
-## Cuándo abrir un chat nuevo
+### Cuándo abrir un chat nuevo
 
 Abre **nueva conversación** cuando el hilo puede ensuciar la siguiente respuesta. Tres señales bastan. Con una ya conviene planteárselo. Con dos, no lo dudes.
 
@@ -87,7 +87,7 @@ Qué no copias: la conversación entera “para que tenga memoria”. Esa memori
 
 El prompt en sí (verbo, texto cercado, formato, lo que no puede inventar) está en [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva). Aquí no se repite la plantilla. Aquí se decide en qué ventana la pegas.
 
-## Qué es un hilo sucio en un chatbot
+### Qué es un hilo sucio en un chatbot
 
 Un **hilo sucio en un chatbot** no es un chat largo. Es un chat donde el modelo tiene razones para mezclar. La longitud empeora si además hay basura. Un hilo de veinte turnos sobre *un* email puede seguir limpio. Un hilo de seis turnos con tres oficios ya está sucio.
 
@@ -109,7 +109,7 @@ Sucio no es:
 
 Sucio es mezclar oficios, disfraces y documentos. **Separar temas en ChatGPT** (o en Gemini, o en Claude) es higiene, no una moda de productividad.
 
-## Cómo pasar el trabajo a un chat nuevo
+### Cómo pasar el trabajo a un chat nuevo
 
 Pasos, en orden. Cinco minutos.
 
@@ -123,7 +123,7 @@ Pasos, en orden. Cinco minutos.
 
 Si no tienes prompt bueno todavía, no copies el hilo sucio para “seguir charlando”. Escribe la orden corta en limpio. Una tarea. Un formato. Qué no inventar. El artículo del prompt cubre la fórmula. Aquí basta el gesto: **ventana nueva, material mínimo**.
 
-## Ejemplo trabajado: tres temas en un solo chat
+### Ejemplo trabajado: tres temas en un solo chat
 
 Imagina este hilo, realista y feo.
 
@@ -154,7 +154,7 @@ Un segundo gesto del ejemplo: **no intentes “limpiar” el hilo A-B-C** con un
 
 Si en el chat nuevo la tabla inventa un plazo, eso ya no es suciedad de hilo: es el modelo rellenando. Señalas la celda. Si insiste, cambias la tarea a extraer citas, no a resumir. Por qué inventa nombres y fechas es otro artículo: [por qué un chatbot se inventa datos](/blog/inteligencia-artificial/por-que-un-chatbot-se-inventa-datos). Hoy, el filtro es: ¿este error viene de *este* texto o de *otro* mensaje de arriba? Si viene de arriba, ventana nueva. Si viene del propio texto mal leído, corrección en el mismo hilo.
 
-## Separar temas en ChatGPT (método corto)
+### Separar temas en ChatGPT (método corto)
 
 **Separar temas en ChatGPT** no exige un sistema de carpetas el primer mes. Exige no meter dos oficios en la misma ventana.
 

@@ -65,7 +65,7 @@ No encaja cuando el archivo es nómina, contrato de cliente, salud, menores, sec
 
 Regla práctica el martes: si el PDF son 8 páginas limpias, Claude y ChatGPT empatan; elige el que ya tienes abierto. Si son 40 y ChatGPT te resume de memoria las últimas, pruebas Claude *con el mismo recorte*, no con el libro entero. El plan de pago no convierte un dump en lectura.
 
-## Cómo no subir un libro a Claude de golpe
+### Cómo no subir un libro a Claude de golpe
 
 **Subir un libro a Claude** de una vez es el error que parece eficiencia. El clip acepta el archivo. Tú lees un resumen elegante. El capítulo 9 no ha pesado. Un dato del índice se ha convertido en hallazgo.
 
@@ -99,7 +99,7 @@ Si el producto dice que ha leído menos páginas de las que hay, partes otra vez
 
 El segundo mensaje no es “y ahora el resto”. Es el siguiente rango. Un libro se trabaja como se lee para un informe: capítulo, comprobación, capítulo. El dump es lo contrario.
 
-## Claude vs ChatGPT para informes
+### Claude vs ChatGPT para informes
 
 **Claude vs ChatGPT para informes** no es una final de marca. Es qué ventana usas cuando el entregable es un resumen o una tabla *del texto*, y el texto no cabe en un pantallazo.
 
@@ -132,7 +132,7 @@ Luego el original al lado. Cada fila de la tabla es un ítem de [cómo comprobar
 
 No pidas en el primer mensaje: “redacta el informe para dirección”, “compara con la ley X” si no has bajado la ley tú, “haz las 80 páginas en un folio”. Parte. Una tarea. Un rango.
 
-## Ejemplo trabajado: Elena, páginas 1-8 del manual
+### Ejemplo trabajado: Elena, páginas 1-8 del manual
 
 Elena lleva un local. Tiene el manual PDF de la caldera (140 páginas, bajado de la web del fabricante: público). Necesita dejar por escrito los pasos de instalación para el técnico que viene el jueves. No necesita el libro. No necesita que Claude “entienda la caldera”. Necesita las páginas 1-8, el capítulo “Instalación”.
 
@@ -159,7 +159,7 @@ Eso es **Claude para documentos largos** bien usado. El mismo gesto con el contr
 
 Variante si el capítulo no cabe en 8 páginas: páginas 1-8, tabla; páginas 9-16, otra tabla, “no arrastres la fila E18 que ya hemos tachado”; al final, “contrasta si el paso 3 de la primera tabla contradice el paso 1 de la segunda; cita página; si no hay contradicción, escribe NO HAY”. Sigue siendo dos recortes, no el libro.
 
-## Proyectos de Claude y Artifacts: punteros, no tutorial
+### Proyectos de Claude y Artifacts: punteros, no tutorial
 
 **Proyectos de Claude** (Projects) es una carpeta persistente: pinchas archivos para *ese* trabajo y el chat los tiene a mano en varias sesiones. No es un lector que ya ha entendido tu vida laboral. No es permiso para volcar la carpeta del cliente. Si usas Proyecto, un PDF de *esta* semana, el mismo tipo de recorte. El primer mes, si te lías, no hace falta: un chat, un recorte, se acaba. El tutorial de clics y de permisos de Proyecto es otro artículo del catálogo. Aquí solo el criterio: persistir el archivo no lava un documento que no debía viajar; persistir el libro entero reproduce el dump cada vez que abres el Proyecto.
 
@@ -167,7 +167,7 @@ Variante si el capítulo no cabe en 8 páginas: páginas 1-8, tabla; páginas 9-
 
 Ni Proyecto ni Artifact sustituyen el recorte. Ni convierten a Claude en NotebookLM (cuaderno de fuentes con citas al material). Ni en un disco. El archivo bueno sigue en tu carpeta.
 
-## Errores con un PDF largo en Claude
+### Errores con un PDF largo en Claude
 
 **Subir el libro “por contexto”.** El contexto que sirve es el capítulo. El resto es ruido y alucinación de anexo.
 
@@ -187,7 +187,7 @@ Ni Proyecto ni Artifact sustituyen el recorte. Ni convierten a Claude en Noteboo
 
 **Un “lector de PDF con IA” de anuncio** que no es claude.ai. Web oficial.
 
-## Para aquí
+### Para aquí
 
 **Claude para documentos largos** cabe en cinco líneas:
 

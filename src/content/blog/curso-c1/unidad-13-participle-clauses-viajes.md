@@ -48,6 +48,8 @@ excerpt: >-
 
 Las **participle clauses** permiten construir frases más compactas sin perder relaciones de tiempo, causa o contraste. En vez de escribir dos oraciones completas, podemos conectar sus ideas mediante un participio:
 
+Si llegas con la consulta **having travelled ejercicios C1**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 - *She had never visited Japan before. She arrived in Tokyo with mixed feelings.*
 - *Having never visited Japan before, she arrived in Tokyo with mixed feelings.*
 

@@ -62,7 +62,7 @@ Orden:
 
 Tiempo: 12-18 minutos los dos gestos. Calentamiento: 10 círculos de hombros y 8 repeticiones del remo con la banda más ligera o un paso más cerca del ancla. Luego las series de trabajo.
 
-## Cómo anclar la banda en casa (puerta cerrada o mueble pesado)
+### Cómo anclar la banda en casa (puerta cerrada o mueble pesado)
 
 La banda que se suelta es un latigazo. El anclaje no es un detalle. Es el primer paso.
 
@@ -96,7 +96,7 @@ Revisión cada sesión, 15 segundos:
 3. Puerta cerrada.
 4. Un tirón de prueba a media fuerza.
 
-## Remo con banda: el tirón
+### Remo con banda: el tirón
 
 ![Remo con banda: ancla a la altura del pecho, puerta cerrada, flecha TIRA, codos atrás](/blog/entrenamiento/bandas-elasticas-un-tiron-y-un-empuje/tira.png)
 
@@ -125,7 +125,7 @@ Si la lumbar se redondea: un paso hacia el ancla. O rodillas un poco más flexio
 
 Dosis: 3×8-12. Descanso 60-90 s.
 
-## Press con banda: el empuje
+### Press con banda: el empuje
 
 ![Press de pecho con banda: flecha EMPUJA, pies en escalón, tronco largo](/blog/entrenamiento/bandas-elasticas-un-tiron-y-un-empuje/empuja.png)
 
@@ -158,7 +158,7 @@ Cómo pisar la banda, lista corta:
 3. Zapatilla con suela que no resbale. Calcetín en suelo de parquet pulido: mal. Zapatilla o descalzo en alfombra seria.
 4. Un tirón de prueba hacia arriba de 5 cm. Si la goma se va, no empieces la serie.
 
-## Cómo saber si la banda es demasiado ligera o demasiado pesada
+### Cómo saber si la banda es demasiado ligera o demasiado pesada
 
 La goma no tiene pin. La tensión cambia con el grosor, con la longitud y con **dónde te pones**.
 
@@ -188,7 +188,7 @@ Una palanca por gesto y por semana. El remo puede subir y el press quedarse. Est
 
 Colores: cada marca pinta distinto. No memorices “rojo = X kg”. Memoriza **tu** banda y **tu** distancia. Si compras un pack, usa la más fina el día uno. La media cuando 12 con la fina es un trámite.
 
-## Errores y cuándo parar
+### Errores y cuándo parar
 
 Errores:
 

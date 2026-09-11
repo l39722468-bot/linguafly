@@ -49,6 +49,8 @@ description: >
 
 En 2026, saber inglés ya no es suficiente ventaja competitiva; necesitas saber **presentarte en inglés**. Tu CV (o Resume, en el contexto americano) es el primer filtro que debes superar para acceder a puestos en multinacionales, startups globales o empresas con equipos internacionales.
 
+Consultas como **CV en Inglés: Cómo Hacerlo y Superar Filtros ATS**, **cv ingles** o **Cómo Hacer un CV en Inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 Esta guía te enseña exactamente cómo estructurar, redactar y optimizar tu CV en inglés para que no solo llegue a manos humanas, sino que convenza.
 
 ---

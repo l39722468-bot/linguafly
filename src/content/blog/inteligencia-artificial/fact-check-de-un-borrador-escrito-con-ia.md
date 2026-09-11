@@ -74,7 +74,7 @@ Si el borrador salió de un esquema que tú pediste, el esquema no lava los hech
 
 Una regla corta: **si el lector lo puede tomar por dato, es dato.** “El plan se aprobó en marzo” es dato. “El carril está mal pensado” es opinión. La opinión se discute. El marzo se abre.
 
-## Extraer cifras, nombres y fechas
+### Extraer cifras, nombres y fechas
 
 No empieces por “darle una leída”. Empieza por una lista. El párrafo bien cerrado es el enemigo de la lista.
 
@@ -124,7 +124,7 @@ Cómo abrir, en la práctica:
 
 Si un ítem no se abre en unos minutos, no lo dejas *como hecho*. O se comprueba o se marca. Preguntar a otro chatbot si el primero tiene razón es contrastar un predictor con otro. El sitio emisor no es un chat. El buscador *dentro* del chat tampoco: te resume resultados. Sales a la página. “Según fuentes consultadas” sin haberlas consultado es otra invención, tuya.
 
-## Marcar lo no verificado (o cortar)
+### Marcar lo no verificado (o cortar)
 
 Este es el paso que se salta. Han abierto una pestaña, han visto que “el ayuntamiento existe”, y dan por bueno el 42 %. No. Marcas cada línea.
 
@@ -144,7 +144,7 @@ Después de marcar, tres salidas, ninguna es “dejarlo porque el párrafo queda
 
 Regla sucia: **no publicar números sin fuente.** Un número sin VERIFICADO no entra. Un nombre de cargo tampoco. El hueco honesto (“el Ayuntamiento no publica el porcentaje”) es mejor que el 42 % elegante. Si el cliente insiste y no hay fuente, lo marcas. No lo publicas con tu firma.
 
-## Ejemplo: el artículo de Elena sobre el carril
+### Ejemplo: el artículo de Elena sobre el carril
 
 Elena escribe una pieza para una revista local. Tema: el carril bici de la avenida. Ha ido al pleno. Tiene notas. Ha pedido al chat un borrador a partir de esas notas y de un esquema. El chat ha devuelto un texto limpio. Inventamos el pueblo y las cifras para el ejercicio. No las uses como dato real.
 
@@ -175,7 +175,7 @@ Si el editor pide “una cifra de uso”, Elena no vuelve al chat a por otra. Vu
 
 Eso es **fact check de un texto de IA** en un caso de revista local. No hace falta un paper falso. Hace falta un apellido y un porcentaje que cierran el párrafo.
 
-## Errores al editar hechos
+### Errores al editar hechos
 
 **Validar el tono en vez del dato.** “Se nota que está escrito.” No es un paso. Táchalo de la cabeza.
 

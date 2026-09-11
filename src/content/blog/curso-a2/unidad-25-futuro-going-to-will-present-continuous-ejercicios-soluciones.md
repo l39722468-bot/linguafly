@@ -65,6 +65,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Si llegas con la consulta **ejercicios going to will present continuous**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Lección 1 — Gramática
 
 **Objetivo:** elegir entre going to, will y Present Continuous futuro.

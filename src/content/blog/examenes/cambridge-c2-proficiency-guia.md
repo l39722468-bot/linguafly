@@ -43,6 +43,8 @@ excerpt: >
 
 El **C2 Proficiency de Cambridge**, anteriormente conocido como CPE (Certificate of Proficiency in English), representa el nivel más alto que puedes alcanzar en la escala de Cambridge y en el Marco Común Europeo de Referencia (MCER). Certifica que posees un dominio excepcional del inglés, equiparable al de un hablante nativo muy culto y capaz de desenvolverse en los entornos más exigentes.
 
+Si llegas con la consulta **cómo preparar el Cambridge C2 Proficiency CPE**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Obtener este certificado no es solo cuestión de "saber inglés"; es una demostración de agilidad intelectual, sofisticación cultural y una capacidad de análisis que muy pocos logran alcanzar. En esta guía, desglosaremos todo lo que necesitas saber para afrontar el reto del **ingles proficiency** con garantías de éxito.
 
 ## 1. ¿Qué evalúa realmente el Proficiency?

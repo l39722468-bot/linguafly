@@ -82,7 +82,7 @@ DATOS:
 
 Compruebas: si ha colado un cuarto hecho, fuera. Si la petición es “mejorar la comunicación”, rehaz: eso no es una petición, es un póster.
 
-## ChatGPT simula a la otra persona
+### ChatGPT simula a la otra persona
 
 **Chatgpt simula a la otra persona** solo con el material que tú le das. No con su “intuición” sobre tu jefe. No con el historial de tu vida. Hechos ficticios o recortados. Un rol. Un modo. Luego paras.
 
@@ -119,7 +119,7 @@ Si el modelo se sale del fichero (“y además el trimestre pasado…”) cortas
 
 Privacidad: no pegues el correo real con el nombre del compañero, no pegues evaluaciones, no pegues un menor. “Persona B, informe semanal, lunes 12 / martes 19” basta. Si el conflicto es identificable, aún más recorte.
 
-## Guion de una conversación de trabajo
+### Guion de una conversación de trabajo
 
 Un **guion de una conversación de trabajo** aquí no es un texto para leer. Es un orden de minutos. Si lo lees en voz alta y suena a recitación, está mal.
 
@@ -150,7 +150,7 @@ Si el feedback es un despido, una sanción o un acoso, este artículo no aplica.
 
 Un segundo pase, si el primero te dejó frases largas: “Recorta cada una a 20 palabras. No añadas hechos. Devuelve solo las tres frases.” Lees otra vez en voz alta. Si no las dirías en un pasillo, no las dirás en una sala. El modelo no hace esa prueba; tú sí. Guarda las tres frases en tu nota, no el hilo entero del simulacro. El hilo se ensucia. Las frases no.
 
-## Qué decir y qué no decir
+### Qué decir y qué no decir
 
 **Qué decir y qué no decir** se decide antes del simulacro. Si lo dejas al calor del roleplay, el modelo te empujará a “cerrar con empatía” o a “poner un límite firme” según el patrón del hilo. Tú fijas la lista.
 
@@ -173,7 +173,7 @@ Ejercicio de un minuto, sin chatbot: di la frase en voz alta. Si te da vergüenz
 
 Cuando el simulacro te tiente a “ganar”, anota la réplica de B que te desarmó. Esa es la útil. Prepara un hecho o un “no lo sé”. No prepares un discurso de réplica de tres minutos. En la sala no lo vas a soltar entero.
 
-## Preparar una reunión incómoda
+### Preparar una reunión incómoda
 
 **Preparar una reunión incómoda** es el mismo trabajo con reloj. No es un town hall. No es un acta. Es: objetivo de la reunión, tres puntos, tiempo, cierre. Si sois más de dos, el ensayo sigue siendo uno a uno: tú y B. El resto de asistentes no los inventa el modelo.
 

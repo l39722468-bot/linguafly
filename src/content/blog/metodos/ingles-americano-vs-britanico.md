@@ -43,6 +43,8 @@ En esta guía comparamos las principales diferencias entre el **inglés american
 
 ---
 
+Quien busca **diferencias ingles americano britanico** o **Inglés Americano vs Británico** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## 1. Diferencias de Pronunciación
 
 Este es el área donde las diferencias son más evidentes para el oído.

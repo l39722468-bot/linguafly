@@ -42,6 +42,8 @@ Esto no es un problema menor ni una cuestión de acento regional. El ritmo es la
 
 ---
 
+Si llegas con la consulta **ritmo inglés**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Dos tipos de ritmo: stress-timed vs. syllable-timed
 
 Los lingüistas clasifican los idiomas según cómo organizan el tiempo en el habla. La distinción más relevante para un hispanohablante que aprende inglés es esta:

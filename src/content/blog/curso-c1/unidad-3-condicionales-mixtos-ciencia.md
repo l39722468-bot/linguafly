@@ -48,6 +48,8 @@ excerpt: >-
 
 Los **mixed conditionals** permiten explicar relaciones complejas entre tiempo, causa y consecuencia. Una decisión pasada puede determinar la situación actual: *If she had accepted the research grant, she would be leading a laboratory now*. También puede ocurrir lo contrario: una condición irreal del presente puede explicar un resultado que habría ocurrido en el pasado: *If the ethics review were stricter, fewer questionable papers would have been published last year*.
 
+Si llegas con la consulta **condicionales mixtos ejercicios**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 En el nivel C1, los condicionales no son solo una tabla de fórmulas. Sirven para analizar decisiones, evaluar políticas y especular sobre escenarios científicos o tecnológicos sin confundir lo que ocurrió con lo que imaginamos. En esta unidad, el vocabulario de **Science and Technology** aporta contextos reales: research grants, algorithms, sensors, datasets, clinical trials, peer review, evidence, bias, privacy y innovation.
 
 > **Practica en el curso:** [Unidad 3 C1](/curso-c1/unit-3)<br>

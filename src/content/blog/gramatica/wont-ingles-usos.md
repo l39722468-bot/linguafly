@@ -46,6 +46,8 @@ Para ver el panorama completo de *will* y sus usos positivos, consulta [Will par
 
 ---
 
+Si llegas con la consulta **Qué significa won''t en inglés: usos y ejemplos**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Won't = will not: la contracción
 
 La contracción es irregular — no sigue el patrón habitual:

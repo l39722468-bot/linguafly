@@ -40,6 +40,8 @@ Para repasar la teoría completa, visita la [guía de condicionales en inglés](
 
 ---
 
+Consultas como **ejercicios condicionales b1 b2**, **second conditional ejercicios** o **third conditional ejercicios** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Bloque 1 — Second Conditional (hipótesis presentes)
 
 Estructura: **If + past simple, would + infinitivo**

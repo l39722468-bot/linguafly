@@ -78,7 +78,7 @@ Qué no es un dato de escena:
 - El nombre de un ilustrador vivo. Eso es pedir un clon. Describe el look con palabras (línea clara, colores planos, sin sombra dura). El artículo de estilo sin copiar a un artista vivo cubre ese límite; aquí basta: no lo nombres.
 - Un párrafo de texto que quieras leer en la imagen. Las letras no son escena. Van después, en un editor. Lo detalla [texto dentro de una imagen: la IA lo hace mal](/blog/inteligencia-artificial/texto-dentro-de-una-imagen-la-ia-lo-hace-mal).
 
-## Cómo describir una escena para DALL-E
+### Cómo describir una escena para DALL-E
 
 **Describir una escena para DALL-E** es el mismo trabajo que **ChatGPT generar una imagen**. En 2026, DALL-E (o el generador que ChatGPT tenga enganchado ese mes) se pide desde el chat. No hace falta un dialecto de Discord. Hace falta la escena.
 
@@ -112,7 +112,7 @@ Dónde no usar este chat para imagen:
 
 El recinto (ChatGPT, Midjourney, Firefly) se elige por la tarea, no por el ranking. Eso está en [Midjourney, DALL-E o Firefly: una tarea cada uno](/blog/inteligencia-artificial/midjourney-dall-e-o-firefly-una-tarea-cada-uno). Hoy asume: ya estás en ChatGPT. Pides la escena ahí.
 
-## Un prompt de ilustración en español: Laura
+### Un prompt de ilustración en español: Laura
 
 Laura imparte un taller de cocina de 90 minutos en un centro cívico. Necesita una imagen de cabecera para el PDF del dosier. No un cartel con el título: el título lo pondrá ella en Canva. Necesita **una escena**: alguien cortando verdura en una cocina pequeña, look de ilustración, no foto de banco.
 
@@ -169,7 +169,7 @@ Sin texto en la hoja (la hoja se ve blanca o con rayas, no números). Sin cara d
 
 Comprueba los cuatro. Si el modelo escribe cifras en la hoja, fuera: no las pediste y además saldrán mal. La hoja queda en blanco. Los números, si hace falta, los pone Andrés en el diseño. Misma regla que Laura.
 
-## Cómo iterar la escena sin empezar de cero
+### Cómo iterar la escena sin empezar de cero
 
 El primer recuadro rara vez es el último. Iterar no es reiniciar ni añadir una ristra nueva.
 
@@ -192,7 +192,7 @@ No pidas diez variantes de golpe “para ver”. Eliges una. Cierras.
 
 Guarda el prompt que sirvió. Un documento tuyo: título de la tarea, fecha, los cuatro bloques, un recorte de la salida que te valió. El chat se pierde. La lista no.
 
-## Midjourney: una escena concreta, no un moodboard
+### Midjourney: una escena concreta, no un moodboard
 
 **Midjourney escena concreta** se pide con los mismos cuatro datos. El recinto cambia: Discord o la web de Midjourney, parámetros de aspecto (`--ar 16:9`), a veces un estilo de la casa. Eso no sustituye al sujeto.
 

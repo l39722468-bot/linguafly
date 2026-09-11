@@ -39,6 +39,8 @@ Has llegado al hotel después de un largo viaje. En la recepción te espera un a
 
 ---
 
+Si llegas con la consulta **Inglés para Hoteles: Vocabulario y Frases Útiles**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Vocabulario Esencial del Hotel en Inglés
 
 | Español | Inglés |

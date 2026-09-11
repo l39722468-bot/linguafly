@@ -50,13 +50,15 @@ canonical: 'https://linguafly.app/blog/trabajo/netiqueta-email-ingles'
 
 Hay una diferencia entre saber inglés y saber usarlo de forma profesionalmente adecuada. La netiqueta del email es ese territorio donde la gramática correcta no es suficiente: lo que importa es el tono, la estructura y el contexto.
 
+Consultas como **Netiqueta en Emails en Inglés: Guía Profesional**, **netiqueta email ingles profesional** o **netiqueta email ingles para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué la netiqueta importa más en inglés
 
 El inglés profesional tiene una cultura de comunicación muy desarrollada, especialmente en países como Reino Unido, Estados Unidos o Australia. Lo que en español puede sonar directo y eficiente, en inglés puede interpretarse como brusco o poco considerado. Y lo contrario también ocurre: estructuras de cortesía que en inglés son completamente normales pueden sonar exageradas si intentas traducirlas al español.
 
 Entender estas diferencias culturales es tan importante como entender la gramática.
 
-## La regla del tono: directo no es lo mismo que brusco
+### La regla del tono: directo no es lo mismo que brusco
 
 En inglés profesional, ser directo es una virtud. Pero hay una línea entre directo y rudo, y esa línea pasa por el uso de modales y softeners:
 
@@ -72,7 +74,7 @@ En inglés profesional, ser directo es una virtud. Pero hay una línea entre dir
 
 La diferencia no está en ser menos honesto, sino en reconocer que el destinatario tiene su propio tiempo y perspectiva. Verbos modales como *could*, *would* y *might*, y expresiones como *when you have a moment*, *if possible* o *at your earliest convenience*, son los softeners básicos del inglés profesional.
 
-## Errores de netiqueta que cometen profesionales con buen inglés
+### Errores de netiqueta que cometen profesionales con buen inglés
 
 **1. Responder a todos innecesariamente ("Reply All")**
 Antes de hacer click en "Reply All", pregúntate si todos los destinatarios necesitan leer tu respuesta. Si solo confirmas asistencia a una reunión, responde solo al organizador.
@@ -97,7 +99,7 @@ Si tu email necesita más de tres o cuatro párrafos para explicar algo, probabl
 
 Puedes encontrar más recursos sobre comunicación profesional en inglés en el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles).
 
-## Cuándo NO mandar un email
+### Cuándo NO mandar un email
 
 El email no siempre es el canal correcto:
 
@@ -107,7 +109,7 @@ El email no siempre es el canal correcto:
 - **Solicitudes complejas que requieren debate:** Una reunión breve suele ser más eficiente
 - **Cuando ya llevas más de tres emails de ida y vuelta:** Es el momento de coger el teléfono
 
-## Responder rápido vs. responder bien
+### Responder rápido vs. responder bien
 
 La presión por responder inmediatamente a los emails es real en muchos entornos, pero una respuesta apresurada con errores o sin haber leído bien el mensaje puede crear más trabajo. El equilibrio está en:
 
@@ -115,7 +117,7 @@ La presión por responder inmediatamente a los emails es real en muchos entornos
 - **No responder cuando estás en modo deep work**: Usa la función de "no molestar" y gestiona el correo en bloques de tiempo.
 - **Priorizar por impacto**, no por orden de llegada: No todos los emails merecen la misma urgencia de respuesta.
 
-## La firma: lo que incluir y lo que no
+### La firma: lo que incluir y lo que no
 
 Una firma profesional incluye:
 - Nombre completo

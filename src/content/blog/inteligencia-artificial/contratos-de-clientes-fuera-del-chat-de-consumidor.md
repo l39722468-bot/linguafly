@@ -64,7 +64,7 @@ Empleado: mezcla clásica. El expediente del cliente en el chatbot del móvil, p
 
 **Herramienta aprobada por la empresa:** cuando exista, úsala *para lo laboral* y sigue recortando lo que no haga falta. Cuando no exista, no inventes una con la app de moda.
 
-## IA, confidencialidad de un contrato y el NDA
+### IA, confidencialidad de un contrato y el NDA
 
 **IA confidencialidad de un contrato** no se arregla con una frase en el prompt (“esto es confidencial, no lo guardes”). El prompt no es un contrato con el proveedor.
 
@@ -82,7 +82,7 @@ El NDA, el deber de secreto, el contrato de encargo: los mira un profesional o e
 
 DNI, NIE y anexos de identidad que viajan *dentro* del acuerdo (fotocopias, KYC, administradores): fuera también. Eso se detalla en [DNI, NIE y documentos de identidad](/blog/inteligencia-artificial/dni-nie-y-documentos-de-identidad). Quitar la portada y dejar el anexo de identidades no arregla el pegado.
 
-## Anonimizar un contrato no basta a veces
+### Anonimizar un contrato no basta a veces
 
 **Anonimizar un contrato no basta a veces.** Quitar “María García” y “Acme, S.L.” es el primer gesto, no el último.
 
@@ -106,7 +106,7 @@ Si al anonimizar de verdad el texto se cae la tarea, la tarea **no era para un c
 
 No pidas al modelo: “quita tú los datos personales y luego resume.” Eso es enviar primero y limpiar después. El envío ya ocurrió.
 
-## Riesgo de un PDF de cliente
+### Riesgo de un PDF de cliente
 
 **Riesgo de un PDF de cliente:** el archivo no es “más inocuo” que el texto pegado. Es el mismo envío, a menudo con más páginas, más anexos, más firmas. Cómo cargar un archivo y qué recortar —cuando el documento *sí* puede entrar, por ejemplo un manual público— está en [subir un PDF a un chatbot: qué hacer y qué no](/blog/inteligencia-artificial/subir-un-pdf-a-un-chatbot-que-hacer-y-que-no). Un contrato de cliente no entra en esa cesta del “sí, con recorte”.
 
@@ -130,7 +130,7 @@ Otro caso, el del comercial que “solo quiere un email de cobro”. Mal: export
 
 Precios no públicos, know-how, listados de subcontratistas, datos de trabajadores del cliente: todo eso es el contrato o peor. Fuera del chat de consumidor.
 
-## Herramienta aprobada por la empresa: qué preguntar
+### Herramienta aprobada por la empresa: qué preguntar
 
 Antes de “agilizar” un expediente, cinco preguntas internas. Por escrito, si puedes. No las hagas *dentro* del chatbot con el PDF encima.
 
@@ -159,7 +159,7 @@ Para aquí:
 
 Si al anonimizar de verdad no queda tarea, no había tarea para este chat. Había lectura humana o recinto de verdad.
 
-## Qué hacer en su lugar
+### Qué hacer en su lugar
 
 Cuando el documento es un contrato de cliente y la tarea es real:
 

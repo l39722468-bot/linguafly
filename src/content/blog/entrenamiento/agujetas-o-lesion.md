@@ -70,7 +70,7 @@ Agujetas que duran cinco o seis días la primera vez: molesto, aún puede ser el
 
 No busques agujetas. No alargues la sesión para “notarlas”. Quien no las tiene y sube repeticiones limpias está haciendo el trabajo. Quien las tiene y rebota no necesariamente.
 
-## Señal de parar
+### Señal de parar
 
 - Pinchazo **localizado**: tendón, codo, rodilla, un punto del hombro, lumbar que pica en un sitio.
 - **Empeora al día siguiente**, no mejora.
@@ -93,7 +93,7 @@ Hinchazón, calor, chasquido nuevo, un gesto que se va, inestabilidad, hormigueo
 
 Un lado claro y el otro no, en el mismo gesto, varias sesiones: no lo tapes con más series al lado “bueno”. Baja el gesto. Mira si estás torciendo. Si sigue, freno y, si toca, profesional.
 
-## Entrenar con agujetas (alrededor, no a través)
+### Entrenar con agujetas (alrededor, no a través)
 
 Suele sí, con menos rango o menos series en ese gesto. Caminar ayuda más que el sofá total. Si dudas entre agujeta y pinchazo, trata como pinchazo: baja palanca.
 
@@ -109,7 +109,7 @@ No “las trabajas” con más repeticiones del mismo gesto al fallo. Eso es el 
 
 Duda: trata como pinchazo. La palanca baja de un miércoles no te quita el mes. El pinchazo ignorado sí puede.
 
-## Lo que no decide
+### Lo que no decide
 
 - El ardor durante la serie. No es el objetivo ni un diagnóstico.
 - El reloj de calorías.
@@ -128,7 +128,7 @@ Compararte con quien no tiene agujetas: otra edad, otra base, otro sueño, otra 
 
 Tampoco decide el ungüento que “siempre usas”. Si el ungüento es el plan, no hay plan. Hay olor a mentol y la misma palanca. La palanca es lo que cambia el tendón. El mentol, no.
 
-## Hielo, calor, ibuprofeno, YouTube
+### Hielo, calor, ibuprofeno, YouTube
 
 Hielo o calor: a veces alivio. No son el plan de fuerza. Ibuprofeno para entrenar no es una estrategia. Doce estiramientos de un vídeo para “una lesión” suelen ser automedicación. Estirar suave lo que sienta, sí. Inventarte una neurodinamia, no.
 
@@ -146,7 +146,7 @@ Masaje, pistola, foam roller: a veces agradable sobre agujeta difusa. Sobre un t
 
 Vendaje el primer mes: no. Si más adelante un profesional lo usa, allá. Aquí, la palanca y el rango.
 
-## Sitios frecuentes (sin convertirte en clínico)
+### Sitios frecuentes (sin convertirte en clínico)
 
 Rodilla que pica en un punto al bajar, peor al día siguiente: no hay sentadilla de ego. Hay silla, hay menos profundidad, hay paseo, hay espera. Si hincha o “salta”, paras y, si toca, consultas.
 
@@ -164,7 +164,7 @@ Ninguno de estos párrafos es un diagnóstico. Son ejemplos de “localizado y q
 
 Dolor de escritorio (cuello, lumbar genérica de silla) no es automáticamente agujeta ni lesión de la sesión. Tampoco se arregla con un circuito de core el martes. Pausa, paseo, los patrones de los días de carga cuando no pinchen. Si un punto de lumbar empeora con la sentadilla, la sentadilla espera.
 
-## Cuándo consultar (una línea, no un disclaimer de 400 palabras)
+### Cuándo consultar (una línea, no un disclaimer de 400 palabras)
 
 Dolor agudo, hinchazón, chasquido nuevo, un gesto que se va, dolor que empeora días, hormigueos, inestabilidad. Para. Consulta. No somos clínica.
 
@@ -176,7 +176,7 @@ No esperes a que “se ponga insoportable”. El criterio es empeora, se localiz
 
 Volver: como principiante de ese gesto. Mesa alta. Silla. Una serie menos. Cuaderno. Si el punto vuelve a las dos sesiones, otra vez freno. No “el peso de febrero”. El cuerpo no guarda el Excel.
 
-## Encaje con la semana
+### Encaje con la semana
 
 Semana 1 de la plantilla: agujetas probables. Semana 4: si cada sesión acaba en pinchazo, no estás progresando; estás irritando. Baja palanca. La cuarta semana ligera existe también para esto.
 

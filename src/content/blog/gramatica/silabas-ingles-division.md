@@ -42,6 +42,8 @@ El inglés no tiene reglas de división silábica tan sistemáticas como el espa
 
 ---
 
+Si llegas con la consulta **silabas ingles**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Qué es una sílaba
 
 Toda sílaba tiene un núcleo, que casi siempre es una vocal o un diptongo. Alrededor de ese núcleo puede haber consonantes antes (el ataque) y después (la coda). En inglés, tanto el ataque como la coda pueden ser bastante complejos.

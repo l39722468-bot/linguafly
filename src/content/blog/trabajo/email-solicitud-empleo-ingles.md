@@ -52,6 +52,8 @@ canonical: 'https://linguafly.app/blog/trabajo/email-solicitud-empleo-ingles'
 
 El email de solicitud de empleo en inglés tiene un trabajo muy concreto: conseguir que el reclutador abra el CV adjunto. Nada más, nada menos. Todo lo que escribas debe apuntar a ese objetivo.
 
+Si llegas con la consulta **email solicitud empleo ingles**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## La estructura del cover email
 
 Un email de candidatura efectivo tiene estas partes:
@@ -65,7 +67,7 @@ Un email de candidatura efectivo tiene estas partes:
 
 Total: entre 150 y 250 palabras. Si supera ese límite, el reclutador probablemente no lo lea entero.
 
-## El asunto: lo primero que ven
+### El asunto: lo primero que ven
 
 Sé preciso. Incluye el nombre del puesto y, si la oferta tiene referencia, añádela:
 
@@ -73,7 +75,7 @@ Sé preciso. Incluye el nombre del puesto y, si la oferta tiene referencia, añ�
 - *Senior Software Engineer Application — [Tu Nombre]*
 - *Content Writer Position — Motivated to Join [Nombre Empresa]*
 
-## El saludo
+### El saludo
 
 Si conoces el nombre de quien va a leer tu candidatura (busca en LinkedIn o en la página web):
 - *Dear Ms. Thompson,*
@@ -86,7 +88,7 @@ Si no lo sabes:
 
 Evita "To whom it may concern" siempre que puedas. Suena anticuado y genérico.
 
-## El primer párrafo: el gancho
+### El primer párrafo: el gancho
 
 Tiene que responder a tres preguntas en dos o tres frases: quién eres, qué quieres y por qué ellos.
 
@@ -100,7 +102,7 @@ La diferencia es enorme: el segundo muestra que conoces la empresa y da una raz�
 
 Puedes consultar el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) para más recursos sobre comunicación laboral en inglés.
 
-## El segundo párrafo: lo que aportas
+### El segundo párrafo: lo que aportas
 
 No repitas el CV, selecciona 2-3 logros o habilidades que sean directamente relevantes para el puesto:
 
@@ -118,7 +120,7 @@ Termina indicando que estás disponible y con ganas de avanzar:
 - *I am happy to provide any additional information you may require. I look forward to hearing from you.*
 - *Thank you for your time and consideration. I hope to have the opportunity to speak with you soon.*
 
-## El adjunto: cómo referenciarlo
+### El adjunto: cómo referenciarlo
 
 - *Please find attached my CV and cover letter for your review.*
 - *I have attached my CV for your consideration.*
@@ -126,7 +128,7 @@ Termina indicando que estás disponible y con ganas de avanzar:
 
 Comprueba siempre que los archivos están adjuntos antes de enviar. Un email de candidatura que menciona un adjunto que no está adjunto causa una primera impresión muy mala.
 
-## Ejemplo completo
+### Ejemplo completo
 
 > **Subject:** Application for UX Designer — Ref. UX-2024-07
 >

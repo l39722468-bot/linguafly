@@ -42,6 +42,8 @@ Para más contexto sobre cómo funcionan los phrasal verbs en general, la [guía
 
 ---
 
+Consultas como **take off take on take up ingles**, **phrasal verbs con take más usados en inglés** o **take off take on take up ejercicios gratis** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Take off
 
 Probablemente el phrasal verb con TAKE más versátil, con cuatro significados muy distintos:

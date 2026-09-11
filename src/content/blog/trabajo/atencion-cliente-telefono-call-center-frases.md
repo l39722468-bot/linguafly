@@ -38,6 +38,8 @@ faqs:
 
 En **atención al cliente en inglés** por voz, el cliente no ve tu cara ni el chat: solo hay **sonido**. Eso multiplica errores en **números**, **correos** y **direcciones**. Tu trabajo no es “sonar nativo”, sino **ser verificable**.
 
+Consultas como **inglés call center**, **Inglés para Call Center** o **atencion cliente telefono call center frases en inglés para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Apertura estándar y verificación de identidad
 
 - *“Thank you for calling [Company]. This is [Name]. May I have your name, please?”*  

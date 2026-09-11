@@ -74,7 +74,7 @@ Tres reglas de partida:
 
 Cuándo no usar el 30 %: el texto ya está seco (pide un 10 % o nada); no tienes intocables (el modelo decidirá qué es secundario); el texto ya es una lista de hechos. No hay aire. No hay tijera.
 
-## Lo intocable: nombres, cifras, la petición
+### Lo intocable: nombres, cifras, la petición
 
 Lo intocable se escribe *antes* del recorte. Si no está en el prompt, el modelo lo considerará recortable. Lo recortable, para él, es lo concreto. Lo concreto es lo que duele perder.
 
@@ -93,7 +93,7 @@ Lo que sí se puede cortar: la misma idea en dos frases; el ejemplo duplicado; �
 
 Si el modelo “recorta” el 3 de septiembre y deja “con antelación”, ha tocado un intocable. Recortar “confirma las 12 plazas el día anterior” y dejar “conviene revisar el aforo” cambia la petición en consejo vago. No es el mismo artículo.
 
-## ChatGPT recorta este artículo: el prompt
+### ChatGPT recorta este artículo: el prompt
 
 **ChatGPT recorta este artículo** (o el chat que uses) con partida, techo y cercado. Sin partida, improvisará un resumen.
 
@@ -134,7 +134,7 @@ Salida típica: un tercio del texto, un título nuevo, tres “claves” y “el
 
 Si el texto es largo, no lo pegas entero la primera vez. H2 1-3. Recorte. Compruebas intocables y recuento de *ese* bloque (si el bloque tenía 600, techo 420). Luego H2 4-6. Sumas. El 30 % global es la suma de tijeras, no un compactado final que funde el artículo.
 
-## Quitar repeticiones y densidad de un párrafo
+### Quitar repeticiones y densidad de un párrafo
 
 **Quitar repeticiones** es el corte barato. Antes de cederle el párrafo al chat, márcalas tú. Si no las ves, el modelo cortará hechos porque son “detalle”.
 
@@ -163,7 +163,7 @@ Cómo pedir densidad sin pedir otro estilo: una idea por frase; no juntar tres h
 
 Si un párrafo recortado pierde una anécdota (Inés, sexta vez, un decimotercero se quedó fuera), decide tú si era intocable. Ponla en la lista o es aire. El modelo no adivina tu umbral.
 
-## Versión corta de un ensayo: el caso de Inés
+### Versión corta de un ensayo: el caso de Inés
 
 La **versión corta de un ensayo** sigue siendo *ese* ensayo. Inés no pide un hilo de 12 tuits. No pide “resumen ejecutivo para dirección”. Pide el mismo post, 30 % más corto, para el blog del centro.
 

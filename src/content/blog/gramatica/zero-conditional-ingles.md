@@ -67,7 +67,7 @@ Ejemplos:
 
 Fíjate en el último ejemplo: no es una ley científica, es una experiencia personal que se repite sin excepción. Eso también es zero conditional.
 
-## Cuatro situaciones donde lo usarás
+### Cuatro situaciones donde lo usarás
 
 **1. Verdades científicas y naturales**
 
@@ -103,7 +103,7 @@ También funciona para explicar qué significa algo o cómo funciona un sistema.
 - *If an employee works more than 40 hours a week, they get overtime pay.*
 - *If you're a registered user, you get access to premium content.*
 
-## "When" como alternativa a "if"
+### "When" como alternativa a "if"
 
 En el zero conditional, puedes intercambiar "if" por "when" en muchos casos y el significado no cambia demasiado.
 
@@ -119,7 +119,7 @@ Lo que no puedes hacer en zero conditional es usar "will" en la cláusula con "i
 - ❌ *If you will press the button, the door will open.*
 - ✓ *If you press the button, the door opens.*
 
-## Diferencia clave con el first conditional
+### Diferencia clave con el first conditional
 
 Esta es la confusión más frecuente, y tiene sentido porque las dos estructuras empiezan con "if + present".
 
@@ -131,7 +131,7 @@ Esta es la confusión más frecuente, y tiene sentido porque las dos estructuras
 
 Una forma práctica de decidir cuál usar: ¿estás hablando de algo que siempre ocurre sin importar cuándo? Zero. ¿Estás hablando de algo que probablemente pasará en una situación concreta futura? First.
 
-## Ejercicios para practicar
+### Ejercicios para practicar
 
 **Completa con la forma correcta del verbo:**
 
@@ -152,7 +152,7 @@ Una forma práctica de decidir cuál usar: ¿estás hablando de algo que siempre
 
 Practica creando frases sobre tus propios hábitos: ¿qué pasa siempre que no desayunas? ¿Qué ocurre si llegas tarde a una reunión en tu trabajo? Cuanto más personal sea el contexto, más te quedará grabada la estructura.
 
-## Zero conditional en el examen
+### Zero conditional en el examen
 
 Si estás preparando un Cambridge, IELTS o APTIS, el zero conditional aparece principalmente en:
 

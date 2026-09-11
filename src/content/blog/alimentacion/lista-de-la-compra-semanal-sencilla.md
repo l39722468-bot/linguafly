@@ -66,7 +66,7 @@ Cómo se ve un sábado. Te sientas. Escribes “salteado / legumbre / horno”. 
 
 Lista en el móvil o en un papel. Da igual. Lo que no da igual es que viva en la cabeza. La cabeza en el lineal elige el “por si acaso”. El papel no. Si vives con más gente, acordad las tres cenas primero. Un carro que solo te gusta a ti muere el jueves.
 
-## Plantilla de la lista semanal
+### Plantilla de la lista semanal
 
 Usa siempre los mismos bloques. Así no piensas el formato. Solo rellenas cantidades. Copia y tacha.
 
@@ -106,7 +106,7 @@ Ofertas solo si el plan las absorbe. Un pollo entero barato es un sí si lo asar
 
 Cuando vuelvas, una hora de bases basta si quieres adelantar. El detalle está en [batch cooking de una hora](/blog/alimentacion/batch-cooking-de-una-hora). Aquí no se cocina. Aquí se compra lo que esa hora va a usar.
 
-## Inventario de leftover: treinta segundos
+### Inventario de leftover: treinta segundos
 
 Antes de escribir la lista, abre. Nevera. Congelador. Despensa. Treinta segundos no es un inventario militar. Es no comprar el segundo kilo de yogur ni el tercer bote cuando ya hay cuatro atrás.
 
@@ -125,7 +125,7 @@ El congelador lleno de misterios es una lista fallida de hace tres domingos. Si 
 
 Si un sábado no hay leftover, la lista será más larga. Eso no es fracaso. Fracaso es no mirar y duplicar. Si ya hay lentejas y arroz, la semana puede ser lentejas y arroz.
 
-## Cómo se recorre el súper
+### Cómo se recorre el súper
 
 La lista viaja agrupada por pasillos, no por orden de receta. Si está escrita “para el salteado: calabacín, soja, arroz”, en el lineal retrocedes tres veces y el “por si acaso” se cuela en los huecos. Reescribe por zonas antes de salir.
 
@@ -150,7 +150,7 @@ No recorres “un poco de todo”. Recorres la lista. Si un pasillo no tiene nin
 
 Ticket al final, treinta segundos. Si la mitad no estaba en el plan, la lista todavía no manda. Es un dato, no un examen. La semana que viene, el extra se escribe antes o se queda en la estantería. Si tardas cuarenta minutos, estás paseando. Lista corta, mismo orden, sin folleto: se puede en diez.
 
-## Si no está en el plan, no entra
+### Si no está en el plan, no entra
 
 Esa es la regla que sostiene el resto. El lineal está diseñado para que olvides el papel. Tú no discutes con el lineal. Lees la lista. Si la cosa no está, no entra.
 
@@ -174,7 +174,7 @@ Si no estaban en el plan, no entran. Da igual el envase. Si tu comodín escrito 
 
 El “un extra” de verdad cabe. Uno. Fruta. Un queso pequeño si hay pan en el plan. No un extra por pasillo. Relee la lista en la cola. Cinco segundos. Si no cabe en las tres cenas, vuélvelo a dejar.
 
-## Compra online: la misma lista
+### Compra online: la misma lista
 
 El clic no es otra estrategia. Es el mismo carro. A veces peor: el pulgar es más rápido que empujar un pack.
 
@@ -190,7 +190,7 @@ La app a las once con hambre es el súper de las ocho sin desplazarte. Escribe l
 
 Online no arregla la falta de plan. La hace menos visible: no sientes las bolsas hasta que llega la caja. Si hay cuarenta clics, el menú se infló. Borra. Despensa pesada online y perecederos en tienda: dos canales, un papel. Dos listas distintas duplican el yogur.
 
-## Fallos habituales de la lista
+### Fallos habituales de la lista
 
 **Lista sin plan.** Escribes “verdura, proteína, yogures” y el súper se convierte en un carro de posibles. Posibles no se cenan. Se pudren. El plan de tres líneas va antes.
 

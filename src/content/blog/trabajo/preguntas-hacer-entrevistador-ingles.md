@@ -51,6 +51,8 @@ canonical: 'https://linguafly.app/blog/trabajo/preguntas-hacer-entrevistador-ing
 
 *"Do you have any questions for us?"* — Esta frase al final de una entrevista es una oportunidad, no un trámite. Los candidatos que responden con preguntas inteligentes dejan una impresión mucho más sólida que los que dicen "no, creo que está todo claro".
 
+Consultas como **qué preguntar al entrevistador en inglés**, **preguntas para hacer en entrevista trabajo inglés ejemplos** o **preguntas hacer entrevistador ingles para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué importan las preguntas que haces
 
 Las preguntas que haces revelan tres cosas sobre ti:
@@ -115,15 +117,21 @@ En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-e
 
 ## Preguntas que debes evitar
 
-**Preguntas cuya respuesta está en la web de la empresa.** Preguntar qué hace la empresa a la que te postulas es una señal clara de que no te has preparado.
+### Preguntas cuya respuesta está en la web de la empresa
+
+Preguntar qué hace la empresa a la que te postulas es una señal clara de que no te has preparado.
 
 **"How many days of holiday do I get?"** Como primera pregunta, transmite una imagen equivocada. Si quieres saberlo, espera a tener la oferta o pregunta al final cuando ya has explorado aspectos más sustanciales.
 
 **"Did I get the job?"** Nunca. Es incómodo para todos.
 
-**Preguntas demasiado críticas sobre la empresa.** Hay una diferencia entre preguntar sobre los retos de la empresa de forma constructiva y hacer preguntas que suenen acusatorias.
+### Preguntas demasiado críticas sobre la empresa
 
-**Preguntas cuya respuesta ya te han dado durante la entrevista.** Demuestra que no has escuchado.
+Hay una diferencia entre preguntar sobre los retos de la empresa de forma constructiva y hacer preguntas que suenen acusatorias.
+
+### Preguntas cuya respuesta ya te han dado durante la entrevista
+
+Demuestra que no has escuchado.
 
 ## Cómo formular la pregunta
 

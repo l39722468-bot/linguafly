@@ -40,6 +40,8 @@ La razón de ese sonido particular tiene una explicación fonológica fascinante
 
 ---
 
+Si llegas con la consulta **ingles nueva zelanda caracteristicas**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## El New Zealand Vowel Shift: el fenómeno que define el acento kiwi
 
 El inglés de Nueva Zelanda ha experimentado un desplazamiento vocálico sistemático que lo distingue de todas las demás variedades del inglés. Las vocales cortas del inglés se han desplazado de sus posiciones canónicas de una forma que resulta sorprendente al principio.

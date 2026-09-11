@@ -38,6 +38,8 @@ Las redes sociales se comunican en inglés. Aunque las uses en español, los té
 
 ---
 
+Consultas como **vocabulario ingles redes sociales**, **vocabulario de redes sociales en inglés gratis** o **palabras de Instagram TikTok y YouTube en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Términos Básicos de Redes Sociales
 
 | Término en inglés | Significado | Uso |
@@ -55,7 +57,7 @@ Las redes sociales se comunican en inglés. Aunque las uses en español, los té
 
 ---
 
-## El Lenguaje del Engagement
+### El Lenguaje del Engagement
 
 | Término | Significado | Ejemplo |
 |---------|-------------|---------|
@@ -72,7 +74,7 @@ Las redes sociales se comunican en inglés. Aunque las uses en español, los té
 
 ---
 
-## Vocabulario de Creadores de Contenido
+### Vocabulario de Creadores de Contenido
 
 | Término | Significado | Ejemplo |
 |---------|-------------|---------|
@@ -89,7 +91,7 @@ Las redes sociales se comunican en inglés. Aunque las uses en español, los té
 
 ---
 
-## Comentarios y Reacciones en Inglés
+### Comentarios y Reacciones en Inglés
 
 En comentarios de YouTube, TikTok, Instagram y Twitter verás constantemente estas expresiones:
 
@@ -108,7 +110,7 @@ En comentarios de YouTube, TikTok, Instagram y Twitter verás constantemente est
 
 ---
 
-## Vocabulario de Marketing Digital en Inglés
+### Vocabulario de Marketing Digital en Inglés
 
 Si trabajas en marketing o comunicación digital, estos términos son imprescindibles:
 
@@ -127,7 +129,7 @@ Si trabajas en marketing o comunicación digital, estos términos son imprescind
 
 ---
 
-## Cómo Usar Correctamente los Hashtags en Inglés
+### Cómo Usar Correctamente los Hashtags en Inglés
 
 Los hashtags tienen sus propias convenciones en inglés:
 
@@ -138,7 +140,7 @@ Los hashtags tienen sus propias convenciones en inglés:
 
 ---
 
-## Expresiones para Hablar de Privacidad y Seguridad Online
+### Expresiones para Hablar de Privacidad y Seguridad Online
 
 | Término | Significado |
 |---------|-------------|
@@ -151,7 +153,7 @@ Los hashtags tienen sus propias convenciones en inglés:
 
 ---
 
-## Ejercicio: Traduce Estas Frases Digitales
+### Ejercicio: Traduce Estas Frases Digitales
 
 1. *"My last Reel went viral and got 500k views in 24 hours."*
 2. *"She's been shadowbanned — her posts aren't showing up on anyone's feed."*

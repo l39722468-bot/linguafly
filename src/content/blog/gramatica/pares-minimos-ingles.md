@@ -43,6 +43,8 @@ No son un truco de academia de idiomas. Son un método respaldado por décadas d
 
 ---
 
+Consultas como **Pares Mínimos en Inglés: Ejercicio y Lista**, **pares minimos ingles** o **pares mínimos en inglés para mejorar pronunciación** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es exactamente un par mínimo
 
 Un par mínimo es un conjunto de dos palabras que se diferencian en un único fonema. Todo lo demás —número de sílabas, orden de los sonidos, acento— es idéntico. Esa diferencia de un solo sonido produce dos palabras con significados completamente distintos.

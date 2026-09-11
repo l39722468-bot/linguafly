@@ -41,6 +41,8 @@ Esta guía reúne el **vocabulario específico** del alquiler de coches y las fr
 
 ---
 
+Consultas como **Inglés para Alquilar un Coche en el Extranjero**, **ingles alquilar coche** o **ingles alquiler coche para viajar** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Vocabulario clave del alquiler de coches
 
 ### Tipos de coche

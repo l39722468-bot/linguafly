@@ -65,7 +65,7 @@ Si no ves Gemini: puede no estar en tu plan, en tu idioma o en tu organización.
 
 **Gmail Workspace inteligencia artificial** es Gemini ligado a la cuenta `@empresa`, con lo que haya contratado tu organización. El Gmail `@gmail.com` no hereda esas reglas porque el icono se parezca. Si la empresa no lo ha activado, este artículo no te da un atajo reenviando el hilo a tu cuenta personal.
 
-## IA ayuda a escribir un Gmail (el borrador)
+### IA ayuda a escribir un Gmail (el borrador)
 
 **IA ayuda a escribir un Gmail** cuando ya tienes los hechos. Gemini no mira tu calendario. No sabe si el jueves a las 10 sigue libre. No sabe si adjuntaste el PDF. Si no se lo das, lo inventa o lo omite. Las dos cosas rompen el correo.
 
@@ -121,7 +121,7 @@ Eso es el **tono de un correo con Gemini** cuando se comporta: seco, con dato, s
 
 No pidas tres variantes “para elegir”. Eliges una. Si falla un punto, ese punto.
 
-## Gemini resume un hilo Gmail
+### Gemini resume un hilo Gmail
 
 **Gemini resume un hilo Gmail** cuando llegas el martes a veinte mensajes y necesitas un mapa. El mapa no es el hilo. No archivas. No contestas desde el mapa.
 
@@ -158,7 +158,7 @@ Si el hilo trae un Excel, un contrato o una nómina en adjunto, el resumen del t
 
 Outlook hace un trabajo parecido en otro producto. Si tu bandeja es Outlook, este artículo no es tu manual. El clic de enviar sigue siendo el mismo criterio: lees, contrastas, envías tú.
 
-## Privacidad Gemini Gmail (cuenta de trabajo, hilo ajeno)
+### Privacidad Gemini Gmail (cuenta de trabajo, hilo ajeno)
 
 **Privacidad Gemini Gmail** no empieza en el prompt de “sé discreto”. Empieza en *qué cuenta* y *qué hilo*.
 
@@ -175,7 +175,7 @@ Ordenador compartido: cierras Gmail. El borrador de Gemini visible en pantalla e
 
 No pegas en Gemini (ni en el panel ni reenviando) un hilo para que “extraiga todos los emails y teléfonos”. Eso es un volcado. No.
 
-## Tono de un correo con Gemini
+### Tono de un correo con Gemini
 
 El **tono de un correo con Gemini** en español de oficina, entre gente que ya se escribe, es sujeto, verbo, dato. El modelo, sin freno, suena a agente de soporte que no te conoce.
 

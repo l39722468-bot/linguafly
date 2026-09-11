@@ -40,6 +40,8 @@ La buena noticia: hay reglas claras. Y una vez que las aprendes, eliminas dos de
 
 ---
 
+Consultas como **como pronunciar pasado ingles terminacion ed**, **cómo pronunciar las terminaciones ed y s en inglés** o **reglas de pronunciación ed t d id con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La terminación "-ed": tres pronunciaciones distintas
 
 La "-ed" del pasado regular en inglés tiene tres realizaciones fonéticas distintas: /t/, /d/ o /ɪd/ (también escrito /əd/ en algunos sistemas). Cuál se usa depende del sonido final del verbo en su forma base, no de la ortografía.

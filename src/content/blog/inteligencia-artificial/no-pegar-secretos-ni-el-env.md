@@ -70,7 +70,7 @@ Si dudas entre las dos listas, es secreto. No pegas. Describes.
 
 **IA y variables de entorno:** el modelo no necesita ver el valor para decirte que un 401 suele ser clave mal copiada, entorno equivocado o cabecera mal armada. Necesita el síntoma. El valor no aporta diagnóstico. Aporta superficie.
 
-## API keys y chatbots: la regla antes de Ctrl+V
+### API keys y chatbots: la regla antes de Ctrl+V
 
 **API keys y chatbots** fallan el martes de la misma forma. Marta tiene un 401. El panel del proveedor muestra `sk-…`. El log local muestra `Authorization: Bearer sk-…`. El atajo es pegar “todo el error” en ChatGPT, Gemini, Claude o el Copilot de consumo. El atajo es el incidente.
 
@@ -96,7 +96,7 @@ No pegues ejemplos con claves reales. Usa sk-REDACTED.
 
 Eso es **`.env` en un prompt** bien hecho: nombres, síntoma, lo que ya miraste. Cero valores.
 
-## Anonimizar un error de autenticación (ejemplo de Marta)
+### Anonimizar un error de autenticación (ejemplo de Marta)
 
 **Anonimizar un error de autenticación** no es poner “por favor, ignora la key”. El modelo no tiene un contrato. Es **redactar tokens de un log** con las manos, antes de Ctrl+V.
 
@@ -140,7 +140,7 @@ Intento vago de Marta: “te pego el .env y el log, dime qué pasa.” Eso no se
 
 Un extra que parece limpio y no lo es: pegar una URL de base con host y usuario “porque la contraseña ya dice REDACTED”. Si identifica un servidor de cliente, sigue siendo de más. Di: “Postgres en local, la URL no va.” Punto.
 
-## Rotar una clave si la pegaste
+### Rotar una clave si la pegaste
 
 **Rotar una clave si la pegaste** no espera a borrar el hilo. Borrar en la interfaz es un gesto. No es una revocación en el proveedor. El orden es el del daño, no el de la vergüenza.
 
@@ -163,7 +163,7 @@ Proyecto personal frente a trabajo. En personal: rotas tú, actualizas tu `.env`
 
 Si no recuerdas si el valor era de producción o de pruebas: tratas como producción. Rotas. Las de pruebas también abren algo.
 
-## Cómo redactar tokens de un log (pasos)
+### Cómo redactar tokens de un log (pasos)
 
 **Redactar tokens de un log** es un trabajo de bloc, no de fe. Copias el log a un archivo local que no vas a commitear. Tacha. Luego pegas lo tachado. Nunca al revés.
 

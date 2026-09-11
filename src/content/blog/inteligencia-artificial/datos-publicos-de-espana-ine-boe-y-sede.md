@@ -57,7 +57,7 @@ Tres recintos. No los mezcles en la misma pestaña mental.
 
 No cubre un dictamen sobre tu IRPF, tu despido o tu licencia: si hay firma o un escrito que se presenta, paras. Tampoco cifras de un blog que “cita al INE”: abres el INE. No vamos a inventar un número de BOE “de ejemplo”: el identificador lo copias *del buscador oficial* cuando lo tengas delante. El chat es taquígrafo de la duda (“EPA, último trimestre publicado, España”). Si te suelta ya un 11,algo %, ese número no existe para ti hasta la tabla.
 
-## ChatGPT cifra del INE: formula, no copies
+### ChatGPT cifra del INE: formula, no copies
 
 **ChatGPT cifra del INE** es el patrón caro. Preguntas “cuál es el paro”. Te responde con un porcentaje, un decimal y “según el INE”. El tono de nota de prensa. Puede estar cerca. Puede estar desfasado un año. Puede ser de otra operación. Puede ser inventado. No lo discutes. Lo contrastas.
 
@@ -94,7 +94,7 @@ No uses el chat como calculadora de “proyección a 2030 según el INE” si t�
 
 Si no encuentras la operación, no pides “el número ya”. Reformulas: “paro” puede ser EPA, paro registrado (otro organismo) u otra encuesta. El chat distingue nombres. Tú abres las páginas. No mezclas en el mismo párrafo.
 
-## Buscar en el BOE: palabras, luego el documento
+### Buscar en el BOE: palabras, luego el documento
 
 **Buscar en el BOE** se hace en boe.es. Analistas, buscador, legislatura, número de diario. La interfaz se mueve. El gesto no: tú escribes, tú abres el PDF o el HTML, tú lees el artículo que te importa.
 
@@ -124,7 +124,7 @@ No pidas “¿esto sigue en vigor?” como veredicto. Pide, como mucho, “qué 
 
 Convocatorias: el anuncio está en el boletín o en la plataforma. El resumen del chat no presenta una oferta.
 
-## IA no sustituye la sede
+### IA no sustituye la sede
 
 **IA no sustituye la sede.** La sede electrónica es un recinto con certificado, registro, plazos publicados y, a menudo, identificación. El chatbot de consumo no tiene tu clave. No ve tu expediente. No es el registro.
 
@@ -150,7 +150,7 @@ Cómo entrar, en la práctica:
 
 Si el trámite toca impuestos, extranjería, salud, o un escrito con efectos, el chat se queda en el glosario. No rellena por ti el sentido jurídico. [Entender una factura con IA sin asesoría](/blog/inteligencia-artificial/entender-una-factura-con-ia-sin-asesoria) es el mismo espíritu en otro PDF: líneas, no dictamen. Un profesional, si toca, es el que firma o te atiende. El modelo no.
 
-## Ejemplo: Luis y una cifra para el informe del martes
+### Ejemplo: Luis y una cifra para el informe del martes
 
 Ejemplo trabajado. Inventado para el gesto. Los números que salgan en un chat de verdad no se copian de este texto: este texto no publica estadística. Luis tiene que meter en un informe interno una tasa de paro de España y una frase de “qué operación es”. No es un peritaje. No es la renta. Es un dato público y una fuente.
 
@@ -172,7 +172,7 @@ Si el jefe hubiera pedido “¿podemos aplicar tal deducción?”, Luis para. Es
 
 Tiempo real de los pasos 1–3: menos que discutir con el modelo por un decimal. El decimal no se negocia. Se lee.
 
-## Errores con datos públicos y un chatbot
+### Errores con datos públicos y un chatbot
 
 **Pegar la cifra del chat y poner “INE” al pie.** El pie es una afirmación. O la tabla la sostiene, o es falsa. **ChatGPT cifra del INE** no se cita.
 

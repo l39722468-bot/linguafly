@@ -69,6 +69,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Quien busca **ejercicios present simple afirmativo** o **ejercicios de rutinas diarias en inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Lección 1 — Gramática: Present Simple afirmativo
 
 **Objetivo:** Usar Present Simple en afirmativa y la *-s* de 3.ª persona.

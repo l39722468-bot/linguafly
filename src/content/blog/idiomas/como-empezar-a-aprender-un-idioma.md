@@ -35,6 +35,8 @@ alt: 'Persona empezando un idioma con un cuaderno, un temporizador y auriculares
 
 Empezar un idioma suele fallar por la misma razón: el plan es demasiado grande. Quieres “hablar fluído”, compras tres apps, un curso y un cuaderno, y a los diez días el cansancio gana. Un comienzo útil es más pequeño y más concreto.
 
+Consultas como **aprender un idioma desde cero**, **cómo empezar a estudiar idiomas** o **método para aprender idiomas** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## El objetivo de las primeras dos semanas
 
 No es mantener una conversación. Es **crear un contacto diario** con el idioma y acumular un núcleo de frases que puedas decir sin pensar. Si consigues eso, el resto (gramática, acento, vocabulario amplio) tiene dónde apoyarse.
@@ -47,7 +49,7 @@ Un bloque de **20 minutos** es suficiente:
 
 Si un día no puedes hacer los 20, haz 8. El hábito vive de no romper la racha.
 
-## Elige material que puedas entender
+### Elige material que puedas entender
 
 El input tiene que ser **un poco por encima** de tu nivel, no una serie a velocidad nativa el primer día. Busca:
 
@@ -57,7 +59,7 @@ El input tiene que ser **un poco por encima** de tu nivel, no una serie a veloci
 
 Si no entiendes ni el 50 %, baja el nivel. Estudiar “difícil” no acelera el aprendizaje; acelera el abandono.
 
-## Vocabulario que se queda (y vocabulario que se evapora)
+### Vocabulario que se queda (y vocabulario que se evapora)
 
 Memorizar 40 palabras sueltas de una lista temática es fácil de olvidar. Funciona mejor **aprender la palabra dentro de una frase** y repetir esa frase en los días siguientes.
 
@@ -70,7 +72,7 @@ Tres reglas prácticas:
 - **Repasa ayer antes de añadir hoy.**
 - **Usa la palabra en una frase tuya** (aunque sea torpe). Eso la pasa de reconocimiento a uso.
 
-## Gramática: cuándo sí y cuándo no
+### Gramática: cuándo sí y cuándo no
 
 La gramática sirve para ordenar lo que ya has visto. Si empiezas por una tabla de tiempos verbales, estás estudiando el mapa antes de haber pisado la calle.
 
@@ -82,7 +84,7 @@ En el primer mes, quédate con:
 
 Cuando una duda se repite tres veces (“¿por qué a veces es *am* y a veces *is*?”), entonces sí: abre la explicación y resuélvela. La gramática responde a problemas reales, no los anticipa todos.
 
-## Un plan de 14 días que se puede cumplir
+### Un plan de 14 días que se puede cumplir
 
 | Día | Foco | Qué hacer |
 | --- | --- | --- |
@@ -94,7 +96,7 @@ Cuando una duda se repite tres veces (“¿por qué a veces es *am* y a veces *i
 | 11-13 | Producción | Escribe un mini diario de 5 líneas |
 | 14 | Grabación | Léelo en voz alta. No busques perfección; busca evidencia de que ya hay hábito |
 
-## Lo que no hace falta al empezar
+### Lo que no hace falta al empezar
 
 - Un nivel oficial (A1, B2…) como meta de este mes.
 - Cambiar de método cada tres días.

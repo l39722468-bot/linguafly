@@ -45,7 +45,7 @@ faqs:
 
 La mejor app depende de tu objetivo: **Duolingo** para construir el hábito, **Babbel** (y también **Busuu**) para avanzar con estructura y gramática, **Pimsleur** para entrenar el speaking desde el oído, **Elsa Speak** para corregir pronunciación, **Memrise** para vocabulario con contexto y exposición real, y **Rosetta Stone** si prefieres un enfoque inmersivo guiado. Si tu prioridad es **conversación con feedback humano**, encajan plataformas tipo **Preply** o clases online; **Linguafly** es sobre todo **blog y guías** (complemento editorial), no una app de speaking.
 
-## Cómo elegir la app correcta (criterios que importan)
+### Cómo elegir la app correcta (criterios que importan)
 
 Para que una app “funcione” en la vida real tiene que cubrir 5 piezas:
 
@@ -55,7 +55,7 @@ Para que una app “funcione” en la vida real tiene que cubrir 5 piezas:
 * **Ritmo sostenible** (lecciones cortas y consistentes).
 * **Adecuación a tu nivel** (A1-A2 no es lo mismo que B2-C1).
 
-## Comparativa rápida por objetivo (2026)
+### Comparativa rápida por objetivo (2026)
 
 | Objetivo | Mejor opción | Por qué encaja | Limitaciones típicas |
 | :--- | :--- | :--- | :--- |
@@ -67,56 +67,56 @@ Para que una app “funcione” en la vida real tiene que cubrir 5 piezas:
 | Vocabulario con contexto | Memrise | Vídeos de nativos + repetición | Menos “ruta completa” de gramática |
 | Inmersión guiada | Rosetta Stone | Enfoque de “aprender haciendo” | Avance a veces más lento si no tienes guía externa |
 
-## 1. Duolingo: el mejor inicio (cuando el hábito es el problema)
+### 1. Duolingo: el mejor inicio (cuando el hábito es el problema)
 
 Duolingo suele ser una gran puerta de entrada porque reduce la fricción: aprendes poco a poco y mantienes consistencia. Es especialmente útil si estás empezando o si necesitas volver al inglés sin agobio.
 
 * **Cuándo brilla:** A1-A2 y vocabulario inicial.
 * **Para qué no lo usaría como “única” solución:** si tu meta es hablar con seguridad (la interacción real y el feedback suelen requerir algo más).
 
-## 2. Babbel: el camino estructurado para adultos
+### 2. Babbel: el camino estructurado para adultos
 
 Babbel destaca cuando quieres una ruta con unidades, objetivos y explicación del “por qué” de algunas estructuras.
 
 * **Cuándo brilla:** A2-B1 (y apoyo hasta B2).
 * **Punto débil típico:** el speaking puede ser más limitado que en herramientas conversacionales.
 
-## 3. Busuu: estructura con comunidad
+### 3. Busuu: estructura con comunidad
 
 Busuu combina lecciones y práctica con interacción de la comunidad. Es útil si aprendes mejor cuando alguien corrige o si necesitas práctica guiada.
 
 * **Cuándo brilla:** A2-B1.
 * **Punto débil típico:** la calidad del feedback depende de la comunidad.
 
-## 4. Pimsleur: speaking auditivo y repetición espaciada
+### 4. Pimsleur: speaking auditivo y repetición espaciada
 
 Pimsleur es fuerte para automatizar patrones: escuchas, respondes y refuerzas con práctica oral. Si te cuesta hablar porque “no te sale” lo que escuchas, este tipo de método ayuda.
 
 * **Cuándo brilla:** A2-B2 (según constancia).
 * **Punto débil típico:** no siempre cubre profundidad de gramática avanzada como un curso.
 
-## 5. Rosetta Stone: inmersión guiada
+### 5. Rosetta Stone: inmersión guiada
 
 Es una opción si prefieres un enfoque de inmersión progresiva. Puede ayudar a construir intuición con frases y contextos.
 
 * **Cuándo brilla:** A1-A2 (y repaso).
 * **Punto débil típico:** el ritmo puede no ser ideal si buscas velocidad y práctica profesional inmediata.
 
-## 6. Elsa Speak: pronunciación con feedback
+### 6. Elsa Speak: pronunciación con feedback
 
 Si tu “cuello de botella” es entenderte (o ser entendido) aunque tu gramática sea correcta, Elsa Speak suele ser una buena apuesta.
 
 * **Cuándo brilla:** cualquier nivel, especialmente cuando hay problemas de sonidos o entonación.
 * **Punto débil típico:** no sustituye conversaciones largas con corrección contextual.
 
-## 7. Memrise: vocabulario con contexto real
+### 7. Memrise: vocabulario con contexto real
 
 Memrise destaca por exposición: vídeos, ejemplos y repetición que ayudan a que el vocabulario “se pegue” con menos esfuerzo.
 
 * **Cuándo brilla:** vocabulario y automatización para usar en contextos cotidianos.
 * **Punto débil típico:** menos “sistema completo” para gramática si lo usas solo.
 
-## 8. Linguafly (blog y guías, no “app de conversación”)
+### 8. Linguafly (blog y guías, no “app de conversación”)
 
 **Linguafly** publica **artículos, hubs y recursos gratuitos** (gramática, exámenes, métodos). No sustituye a una app de práctica oral ni a un tutor: úsalo como **capa de estudio y referencia** y combina con **Preply**, **Lingoda** u otra herramienta si necesitas speaking con feedback en tiempo real.
 
@@ -144,7 +144,7 @@ La consistencia es más importante que la intensidad. 15-20 minutos diarios de p
 
 ---
 
-## Explora apps y métodos en detalle
+### Explora apps y métodos en detalle
 
 - [Las mejores apps para aprender inglés gratis en 2026](/blog/metodos/mejores-apps-ingles-gratis)
 - [Cómo combinar apps para aprender inglés: rutina por niveles](/blog/metodos/rutina-apps-ingles-como-combinarlas)

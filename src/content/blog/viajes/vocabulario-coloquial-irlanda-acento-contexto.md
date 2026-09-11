@@ -36,6 +36,8 @@ Has estudiado *airport*, *ticket* y *booking*, pero en Galway alguien te dice qu
 
 ---
 
+Si llegas con la consulta **Inglés de Irlanda: Vocabulario y Expresiones**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Cómo leer esta guía: tres capas
 
 1. **Reconocimiento:** entiendes la expresión cuando la oyes en el acento local.
@@ -46,7 +48,7 @@ La mayoría de visitantes debe quedarse en 1 y 2. Eso ya mejora viajes, alojamie
 
 ---
 
-## “Grand” no siempre es “grande” en sentido físico
+### “Grand” no siempre es “grande” en sentido físico
 
 En muchas zonas de Irlanda, *grand* funciona como **evaluador positivo suave**, equivalente a “vale”, “perfecto”, “está bien”, “no hay problema”.
 
@@ -58,7 +60,7 @@ En muchas zonas de Irlanda, *grand* funciona como **evaluador positivo suave**, 
 
 ---
 
-## Craic, banter y el marco social del pub
+### Craic, banter y el marco social del pub
 
 **Craic** —diversión, ambiente, “qué tal la noche”. Preguntar *What’s the craic?* es algo equivalente a “¿qué tal?” en tono informal entre personas que ya entran en confianza.
 
@@ -68,7 +70,7 @@ En muchas zonas de Irlanda, *grand* funciona como **evaluador positivo suave**, 
 
 ---
 
-## “Sure” como marcador discursivo (no solo “seguro”)
+### “Sure” como marcador discursivo (no solo “seguro”)
 
 *Sure, look…* puede introducir resignación suave, conclusión o transición: “En fin…”, “Mira…”. No siempre expresa certeza absoluta.
 
@@ -78,7 +80,7 @@ En listening, si traduces *sure* siempre como “claro”, malinterpretarás mat
 
 ---
 
-## Preposiciones y construcciones que suenan “raras” pero son normales
+### Preposiciones y construcciones que suenan “raras” pero son normales
 
 **“I’m after + -ing”** (registro coloquial, no estándar internacional): *I’m after losing my keys* ≈ “Acabo de perder las llaves” / “He perdido las llaves recientemente”. Puede aparecer en conversación espontánea; en producción, si tu objetivo es examen formal, evítala.
 
@@ -88,7 +90,7 @@ En listening, si traduces *sure* siempre como “claro”, malinterpretarás mat
 
 ---
 
-## En el transporte y el alojamiento
+### En el transporte y el alojamiento
 
 Frases útiles que **encajan** con acentos irlandeses reales en contexto de servicio:
 
@@ -100,7 +102,7 @@ Frases útiles que **encajan** con acentos irlandeses reales en contexto de serv
 
 ---
 
-## Comida y bebida: palabras que cambian el oído
+### Comida y bebida: palabras que cambian el oído
 
 **Tae** —té. **Minerals** —refrescos (gaseosas), en parte de Irlanda.
 
@@ -112,7 +114,7 @@ Si pides en un acento muy local y rápido, el camarero puede acortar palabras. R
 
 ---
 
-## Cortesía sin sonar distante
+### Cortesía sin sonar distante
 
 Los irlandeses suelen valorar el **calor pragmático**: agradecer dos veces no es raro; una pregunta sobre el día (*How’s your day going?*) puede ser rutina amable en comercio.
 
@@ -124,7 +126,7 @@ Frases neutras que funcionan casi siempre:
 
 ---
 
-## Falsos amigos y trampas para hispanohablantes
+### Falsos amigos y trampas para hispanohablantes
 
 - *Scheme* en contexto irlandés puede ser un programa gubernamental o plan, no necesariamente “una trama” negativa.
 - *Bold* en Irlanda a veces significa “travieso” (niños), no “audaz” como en otros registros.
@@ -134,7 +136,7 @@ Cuando el acento acorta vocales, estas palabras chocan más fuerte con tus expec
 
 ---
 
-## Cómo practicar antes del viaje (sin avión)
+### Cómo practicar antes del viaje (sin avión)
 
 1. **Series o documentales** con subtítulos en inglés: pausa en cada expresión local y busca el uso en diccionarios de inglés **irlandés** o corpus online.
 2. **Role-play** de 3 minutos: tú eres turista, tu compañero “camarero irlandés” usa cinco expresiones de esta guía; intercambian roles.
@@ -142,7 +144,7 @@ Cuando el acento acorta vocales, estas palabras chocan más fuerte con tus expec
 
 ---
 
-## Diálogos modelo (reconocimiento)
+### Diálogos modelo (reconocimiento)
 
 **En el B&B**
 
@@ -163,13 +165,13 @@ Lee estos mini-diálogos en voz alta alternando acento neutro tuyo y **escuchand
 
 ---
 
-## Sensibilidad cultural breve
+### Sensibilidad cultural breve
 
 Irlanda es una sociedad moderna y diversa; evita reducir el país a clichés de fiesta o consumo de alcohol. El pub es espacio social legítimo, pero **no todo el mundo bebe** ni todo el mundo habla con el mismo acento o las mismas expresiones. Escucha más de lo que presumas.
 
 ---
 
-## Números, precios y horas: donde el acento pesa más
+### Números, precios y horas: donde el acento pesa más
 
 En caja o taxi, la información densa llega **rápido**: cifras, moneda en *euro*, horarios en formato de 24 h mezclado con lenguaje coloquial. Practica **reconocer** *thirteen* frente a *thirty* con tu modelo irlandés; muchos errores de viaje no son de gramática sino de percepción de vocales en números.
 
@@ -182,7 +184,7 @@ Si el hablante usa *quid* en contexto muy informal para libras esterlinas, en la
 
 ---
 
-## Clima, ropa y conversación “de ascensor irlandesa”
+### Clima, ropa y conversación “de ascensor irlandesa”
 
 El tiempo es tema social legítimo. Frases cortas con entonación ascendente amistosa:
 
@@ -193,7 +195,7 @@ El tiempo es tema social legítimo. Frases cortas con entonación ascendente ami
 
 ---
 
-## Salud, farmacia y urgencias léxicas
+### Salud, farmacia y urgencias léxicas
 
 Mantén vocabulario estándar internacional para síntomas: *pain*, *allergy*, *prescription*. Añade reconocimiento local:
 
@@ -204,13 +206,13 @@ En estrés, tu oído empeora. Escribe en el móvil la frase clave antes de entra
 
 ---
 
-## Topónimos y gaélico: expectativas realistas
+### Topónimos y gaélico: expectativas realistas
 
 Muchas señales duplican **inglés y gaélico**. El acento al leer un topónimo gaélico en inglés puede no coincidir con tus expectativas ortográficas. Estrategia: **no adivinar en voz alta**; señala en el mapa o muestra la pantalla del móvil.
 
 ---
 
-## Tabla rápida de reconocimiento
+### Tabla rápida de reconocimiento
 
 | Expresión / forma | Idea central | Registro |
 |-------------------|--------------|----------|
@@ -223,13 +225,13 @@ Muchas señales duplican **inglés y gaélico**. El acento al leer un topónimo 
 
 ---
 
-## Grabaciones y privacidad
+### Grabaciones y privacidad
 
 Si practicas con vídeos caseros de viajes, respeta **privacidad y derechos de imagen** al subirlos a apps de transcripción. Para estudio sistemático, prioriza material con licencia clara (entrevistas públicas, podcasts oficiales).
 
 ---
 
-## Checklist de una página antes del vuelo
+### Checklist de una página antes del vuelo
 
 - [ ] Diez expresiones de esta guía leídas en voz alta + escuchadas en modelo nativo.
 - [ ] Frases de transporte y alojamiento grabadas en notas de voz propias.
@@ -241,7 +243,7 @@ Ese ritual de 45 minutos suele rendir más que añadir cien palabras sueltas sin
 
 ---
 
-## Conclusión
+### Conclusión
 
 El acento irlandés cobra sentido cuando tu mente ya tiene **casillas léxicas** para lo que oyes: *grand*, *craic*, *sure*, *give out* y el resto de formas del Hiberno-English no son adorno folklórico; son piezas de **interacción real**. Antes de volar, mezcla listening con una lista corta de expresiones y practica respuestas neutras. En destino, prioriza escuchar: el acento se vuelve música reconocible cuando las palabras ya tienen sitio donde caer.
 

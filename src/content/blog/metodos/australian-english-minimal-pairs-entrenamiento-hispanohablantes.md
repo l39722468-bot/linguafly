@@ -40,6 +40,8 @@ faqs:
 
 Los **minimal pairs** son dos palabras que solo difieren en un fonema (*ship/sheep*). Entrenan la **discriminación auditiva**, útil cuando el acento australiano (u otro) cambia el paisaje sonoro. No “te arreglan” el listening completo: son **complemento**.
 
+Consultas como **minimal pairs inglés**, **Minimal Pairs en Inglés Australiano** o **alt: Estudiante con auriculares tomando apuntes** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Cómo practicar sin obsesionarte
 
 1. Elige **5 pares** relevantes para tus errores reales (no 50).  

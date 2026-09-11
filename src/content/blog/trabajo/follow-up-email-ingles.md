@@ -56,7 +56,7 @@ Las personas reciben decenas o cientos de correos al día. Un email tuyo puede h
 
 Lo que sí puede ser molesto es el follow-up mal hecho: demasiado pronto, demasiado agresivo o demasiado frecuente.
 
-## Cuándo hacer follow-up
+### Cuándo hacer follow-up
 
 | Situación | Tiempo de espera |
 |---|---|
@@ -67,7 +67,7 @@ Lo que sí puede ser molesto es el follow-up mal hecho: demasiado pronto, demasi
 | Después de una reunión | 24 horas (para enviar el resumen/acuerdos) |
 | Solicitud de información | 3-4 días hábiles |
 
-## El asunto del follow-up
+### El asunto del follow-up
 
 No crees un asunto nuevo para el primer follow-up. Responde al hilo del correo original ("Re: [asunto]") para mantener el contexto. Si necesitas un asunto nuevo para un segundo intento:
 
@@ -75,7 +75,7 @@ No crees un asunto nuevo para el primer follow-up. Responde al hilo del correo o
 - *Second follow-up: [tema]*
 - *Checking in: [asunto]*
 
-## Frases para empezar el follow-up
+### Frases para empezar el follow-up
 
 El inicio del correo de seguimiento debe ser amable y hacer referencia al contacto anterior:
 
@@ -89,7 +89,7 @@ Evita empezar con "Just checking in" si lo envías muy pronto: suena impaciente.
 
 En el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) hay guías completas para cada tipo de correo profesional en inglés.
 
-## El cuerpo: breve y con propósito claro
+### El cuerpo: breve y con propósito claro
 
 El follow-up no debe repetir palabra por palabra el correo anterior. Haz un resumen muy breve del contexto, indica lo que esperas y facilita la acción:
 
@@ -97,7 +97,7 @@ El follow-up no debe repetir palabra por palabra el correo anterior. Haz un resu
 - *I understand you are busy, and I would not want this to fall through the cracks. Would you have a few minutes this week to discuss?*
 - *If you need any additional information to move forward, please let me know and I will provide it promptly.*
 
-## El tono: ni sumiso ni agresivo
+### El tono: ni sumiso ni agresivo
 
 **Demasiado sumiso (no funciona):**
 - *I am so sorry to bother you. I know you must be very busy. I just wanted to check if maybe, whenever you have time, you might have looked at my email...*
@@ -108,7 +108,7 @@ El follow-up no debe repetir palabra por palabra el correo anterior. Haz un resu
 **El tono correcto:**
 - *I realize your schedule may be very busy, so I wanted to follow up briefly. I look forward to hearing your thoughts when you have a moment.*
 
-## Follow-up después de entrevista
+### Follow-up después de entrevista
 
 Este es uno de los usos más importantes del follow-up. Se envía en las 24-48 horas tras la entrevista, agradece el tiempo y reafirma el interés:
 
@@ -125,7 +125,7 @@ Este es uno de los usos más importantes del follow-up. Se envía en las 24-48 h
 > Best regards,
 > [Tu nombre]
 
-## Follow-up de propuesta comercial sin respuesta
+### Follow-up de propuesta comercial sin respuesta
 
 > *Subject: Re: Proposal for [Proyecto] — Quick Follow-Up*
 >
@@ -142,7 +142,7 @@ Este es uno de los usos más importantes del follow-up. Se envía en las 24-48 h
 > Best regards,
 > [Tu nombre]
 
-## El tercer intento: dejar la puerta abierta
+### El tercer intento: dejar la puerta abierta
 
 Si ya has hecho dos follow-ups sin respuesta, el tercero debe ser corto y sin presión:
 

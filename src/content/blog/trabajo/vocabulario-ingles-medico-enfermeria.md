@@ -50,6 +50,8 @@ excerpt: >
 
 En el contexto sanitario globalizado, el **inglés médico para enfermería** ha pasado de ser una ventaja a ser una necesidad. Ya sea que estés pensando en trabajar en el extranjero, en una clínica privada internacional, o que simplemente necesites comunicarte con pacientes turistas en España, dominar el vocabulario clínico y las estructuras comunicativas en inglés puede marcar la diferencia entre un buen cuidado y un cuidado excelente.
 
+Consultas como **vocabulario ingles medico enfermeria**, **Vocabulario de Inglés Médico para Enfermería con ejemplos** o **Guía de vocabulario de inglés médico para enfermeras y enfermeros** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 Este artículo complementa nuestra **[guía general de inglés médico](/blog/trabajo/ingles-para-salud)** con un enfoque específico en las necesidades lingüísticas cotidianas de la enfermería.
 
 ---

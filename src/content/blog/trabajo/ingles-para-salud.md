@@ -41,6 +41,8 @@ excerpt: >
 
 En el ámbito de la salud, la comunicación no es solo una habilidad complementaria; es un factor crítico para la seguridad del paciente y la eficacia del tratamiento. Si eres médico, enfermero, auxiliar, fisioterapeuta o estudiante de ciencias de la salud, dominar el **inglés médico** te abre las puertas a la comunidad científica global, te permite acceder a los últimos protocolos de la OMS o la Mayo Clinic, y te habilita para trabajar en entornos multiculturales con total seguridad.
 
+Quien busca **Inglés para el Sector Salud: Guía Profesional** o **Inglés para Sanitarios** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Esta guía ha sido diseñada para proporcionarte una base sólida en el lenguaje de la salud, desde el trato directo con el paciente hasta la redacción de informes técnicos de alta complejidad.
 
 Visita nuestro **[hub de inglés profesional](/blog/trabajo)** para ver más especialidades o consulta nuestro **[hub de vocabulario](/blog/metodos)** para términos generales.

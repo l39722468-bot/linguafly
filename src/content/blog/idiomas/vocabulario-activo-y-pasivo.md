@@ -34,6 +34,8 @@ alt: Tarjetas de vocabulario activo y pasivo ordenadas en dos montones
 
 Casi todo el mundo tiene más vocabulario del que usa. Lees un artículo, “lo entiendes”, y a la hora de hablar se te cae la red. Eso no es un fallo de memoria mágica: es la diferencia entre **vocabulario pasivo** y **vocabulario activo**.
 
+Si llegas con la consulta **cómo recordar vocabulario**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Dos almacenes distintos
 
 - **Pasivo:** la palabra entra. La reconoces si alguien la pone delante.
@@ -43,7 +45,7 @@ El pasivo crece casi solo si lees y escuchas. El activo solo crece si **produces
 
 Por eso puedes entender una serie con subtítulos y quedarte en blanco al pedir un café. No es hipocresía. Es entrenamiento incompleto.
 
-## Por qué las listas no bastan
+### Por qué las listas no bastan
 
 Una lista “casa, silla, ventana, lámpara” alimenta sobre todo el reconocimiento. El examen de la vida real no te muestra la lista: te pide que **encuentres** la palabra.
 
@@ -53,7 +55,7 @@ Tres prácticas que sí empujan hacia lo activo:
 2. **Frase nueva, no la del libro.** Si el ejemplo era “The window is open”, inventa “Please close the window.” El cambio de molde obliga a manejar la palabra.
 3. **Reutilizar en 24-48 h.** Una palabra usada una sola vez vuelve al pasivo. La segunda y la tercera vez la clavan.
 
-## Un ciclo de 10 minutos
+### Un ciclo de 10 minutos
 
 Coge 6 palabras de un tema que te importe esta semana (trabajo, cocina, gimnasio, viajes).
 
@@ -64,13 +66,13 @@ Coge 6 palabras de un tema que te importe esta semana (trabajo, cocina, gimnasio
 
 Al día siguiente no empieces con seis nuevas. Empieza **repasando las de ayer**. Luego, si sobra energía, añade tres.
 
-## Input y output se necesitan
+### Input y output se necesitan
 
 Leer y escuchar siguen siendo imprescindibles: sin ellos no hay de dónde sacar palabras. El truco es **cerrar el circuito**.
 
 Después de un audio de 5 minutos, no pases al siguiente vídeo. Anota 3 expresiones que hayas oído y fabrica una mini conversación de 6 líneas usándolas. Da igual que sea absurda. El cerebro registra “yo la he dicho”.
 
-## Errores típicos
+### Errores típicos
 
 - **Coleccionar apps de flashcards y no hablar.** Las tarjetas ayudan al recuerdo; no sustituyen una frase dicha.
 - **Estudiar sin contexto.** “run” no es una ficha: es *run a company*, *run out of milk*, *go for a run*. Aprende la colocación, no el cromo.

@@ -60,7 +60,7 @@ La primera semana, cocina de menos. Tres o cuatro raciones de proteína, no kilo
 
 Nombres, no recetas: “el pollo”, “el arroz”, “la bandeja”. Si vives con más gente, las piezas tienen que ser comestibles para quien abre la nevera. Aceite, sal, pimentón. Limón al sacar. El sabor no es un lujo. Es lo que evita el pedido.
 
-## La hora, minuto a minuto
+### La hora, minuto a minuto
 
 Ponte un temporizador a 60. No a 90 “por si acaso”. Si se pasa, recortas la semana que viene. No alargas hoy.
 
@@ -84,7 +84,7 @@ Ponte un temporizador a 60. No a 90 “por si acaso”. Si se pasa, recortas la 
 
 No hay un segundo acto de salsas de 20 minutos. Yogur, limón o aceite el martes. Si a los 60 sigues sofriendo un guiso, estabas cocinando otra cosa. Llámalo domingo de guiso. No lo llames batch de una hora.
 
-## Dos bandejas al horno, no cuatro recetas
+### Dos bandejas al horno, no cuatro recetas
 
 La estrategia es el horno. Dos bandejas. Primera semana, tope. La tercera receta es cómo se te va la tarde.
 
@@ -98,7 +98,7 @@ Pechuga gorda: córtala. El filete fino se seca a los 45 minutos; entonces 25-30
 
 Horno pequeño: una bandeja arriba, otra abajo, rotación a mitad. Si solo cabe una, proteína primero y verdura de bolsa el martes. El batch no exige dos bandejas mágicas. Exige no empezar una lasaña. Airfryer: es un horno chico; dos rondas se comen la hora. Úsala si ya la tienes. No la compres para “hacer meal prep”. Olla: arroz o lentejas mientras el horno corre. Una. El sofrito es un lujo que se come minutos.
 
-## Proteína que se come (también el día de sentadilla)
+### Proteína que se come (también el día de sentadilla)
 
 El batch muere el jueves cuando la proteína sabe a obligación. Cocina lo que ya te gusta. Sazónala. No “pollo fitness” sin sal para merecer el gym.
 
@@ -114,7 +114,7 @@ Si entrenas a mediodía, el tupper sale de estas piezas. Uno o dos iguales. Si n
 
 Sabor que evita el abandono: sal de verdad; una especia que ya tengas; limón al comer, no tres días en la bandeja. Si tres martes tiras proteína, cambia de pieza. El sistema no es lealtad al muslo. Es proteína que entra.
 
-## Lavar al hilo. El fregado cuenta
+### Lavar al hilo. El fregado cuenta
 
 La hora incluye el fregadero. Si dejas el campo de batalla “para después”, después no existe. Existe el rencor y la próxima vez no enciendes el horno.
 
@@ -124,7 +124,7 @@ Al hilo: el cuchillo que ya no usas, al agua. El cuenco, fuera. El plástico del
 
 Si odias fregar, el batch se diseña contra eso. Papel de horno. Fuentes que van a la nevera, no un trasvase por tres tuppers. Manos: jabón después de crudo, antes de tocar el arroz ya cocido. Tampoco cuelas “ya que estoy, lavo lo de ayer”. Lo de ayer no es batch. Si entra, el temporizador miente.
 
-## Si el domingo se come: treinta minutos el miércoles
+### Si el domingo se come: treinta minutos el miércoles
 
 El batch no es una misa. Si el domingo hubo visita, turno o no te dio, no “recuperas” el lunes con una tarde heroica. El lunes se come lo que hay. El miércoles, media hora.
 
@@ -134,7 +134,7 @@ El miércoles cubre jueves y viernes. El domingo siguiente, si puedes, vuelves a
 
 Cocinas el día que no trabajas, aunque sea martes. El calendario de “domingo meal prep” no manda. Viaje: súper del destino y un plato. No llegues a las 23:00 a poner el horno “para no perder el hábito”. Pierdes sueño. El hábito aguanta un día.
 
-## Qué no batch-cocinar
+### Qué no batch-cocinar
 
 Hay cosas que el domingo empeora.
 
@@ -156,7 +156,7 @@ Hay cosas que el domingo empeora.
 
 Si algo solo te gusta recién hecho, no entra en la hora. El batch es aburrido a propósito. Aguanta. La nevera no es un yacimiento. Lo delicado, delante. El leftover, a la vista, con fecha. Si no lo ves, no lo comes. Si no lo comes el miércoles, fuera o al congelador.
 
-## Arroz y pollo: frío pronto, no un manual
+### Arroz y pollo: frío pronto, no un manual
 
 No hace falta un curso de higiene. Hacen falta tres gestos. El arroz cocido y el pollo cocinado son lo que más gente deja “a que temple” encima de la vitro mientras se pone una serie. Ahí se tuerce.
 

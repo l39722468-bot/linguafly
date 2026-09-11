@@ -66,6 +66,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Si llegas con la consulta **module 5 review ejercicios**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Lección 1 — Gramática
 
 **Objetivo:** by/take/get to; It's…/going to/will; watch/listen/prefer; shopping; should; wear/too/enough; look like/be like

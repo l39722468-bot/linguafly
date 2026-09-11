@@ -41,6 +41,8 @@ No es que los nativos sean descuidados o hablen mal. Es que el inglés funciona 
 
 ---
 
+Consultas como **reducción vocálica inglés**, **qué es la reducción vocálica en inglés** o **ejercicios gratis de reducción vocálica y schwa** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## El schwa: el sonido más frecuente del inglés
 
 El schwa se representa con el símbolo /ə/ en el Alfabeto Fonético Internacional. Es el sonido que haces cuando alguien te pregunta algo y respondes "eh..." mientras piensas. Neutro, central, sin tensión. No es ni /a/ ni /e/ ni /o/: está en el punto medio de la boca, sin que los labios adopten ninguna posición particular.

@@ -48,6 +48,8 @@ canonical: 'https://linguafly.app/blog/trabajo/email-queja-reclamacion-ingles'
 
 Poner una queja en inglés tiene su arte. Si el tono es demasiado suave, el correo se archiva y no pasa nada. Si es demasiado agresivo, la otra parte se pone a la defensiva y la solución tarda más. El punto es encontrar el registro firme y profesional que lleve al destinatario a actuar.
 
+Consultas como **Email de Queja en Inglés: Estructura y Frases**, **como escribir queja en ingles** o **email queja reclamacion ingles para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La lógica de un buen complaint email
 
 Un email de queja efectivo tiene cuatro elementos:
@@ -59,7 +61,7 @@ Un email de queja efectivo tiene cuatro elementos:
 
 Sin estos cuatro elementos, el correo pierde efectividad.
 
-## El asunto (subject line)
+### El asunto (subject line)
 
 El asunto debe identificar claramente que es una queja y sobre qué, sin ser amenazante:
 
@@ -70,7 +72,7 @@ El asunto debe identificar claramente que es una queja y sobre qué, sin ser ame
 
 Evita asuntos vagos como *Problem* o *Important* y evita también los que suenan agresivos desde el asunto: no necesitas ir a la guerra antes de que te lean.
 
-## El saludo y la apertura
+### El saludo y la apertura
 
 En un email de queja, la apertura contextualiza y establece el propósito:
 
@@ -81,7 +83,7 @@ En un email de queja, la apertura contextualiza y establece el propósito:
 
 Si ya hay una referencia previa (número de pedido, ticket de soporte), menciónala en la apertura.
 
-## Describir el problema: hechos, no emociones
+### Describir el problema: hechos, no emociones
 
 Esta es la parte más importante. Describe lo que ocurrió con precisión:
 
@@ -95,7 +97,7 @@ Usa fechas específicas, números de referencia y datos concretos. Eso da peso a
 
 En el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) encontrarás plantillas completas para este y otros tipos de correo.
 
-## Describir el impacto
+### Describir el impacto
 
 Explica brevemente por qué el problema te afecta. Esto no es para dramatizar; es para que la otra parte entienda la urgencia:
 
@@ -104,7 +106,7 @@ Explica brevemente por qué el problema te afecta. Esto no es para dramatizar; e
 - *Due to this issue, we have missed the agreed deadline.*
 - *This situation is affecting our ability to serve our own clients.*
 
-## Pedir una solución concreta
+### Pedir una solución concreta
 
 No termines con un vago "espero que lo solucionen." Di exactamente qué quieres:
 
@@ -115,7 +117,7 @@ No termines con un vago "espero que lo solucionen." Di exactamente qué quieres:
 - *I require written confirmation that this will not occur again.*
 - *I am asking for a reduction in the invoice amount given the circumstances.*
 
-## El tono: firme sin ser agresivo
+### El tono: firme sin ser agresivo
 
 El inglés profesional tiene recursos muy específicos para ser firme sin sonar hostil:
 
@@ -140,7 +142,7 @@ Evita estas frases que restan profesionalidad:
 - *I await your response and trust that this matter will be resolved quickly.*
 - *Please respond by [fecha] with a proposed solution.*
 
-## Ejemplo completo
+### Ejemplo completo
 
 > **Subject:** Complaint: Damaged Item — Order #48291
 >

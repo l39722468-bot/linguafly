@@ -52,6 +52,8 @@ canonical: 'https://linguafly.app/blog/gramatica/pasiva-ingles-noticias'
 
 Si lees el *BBC*, el *Guardian*, el *New York Times* o cualquier medio en inglés con cierta regularidad, te habrás dado cuenta de que hay estructuras que se repiten constantemente. La pasiva es una de ellas. No es capricho: el periodismo en inglés tiene razones muy concretas para usar la pasiva, y entenderlas mejora tanto tu comprensión lectora como tu escritura formal.
 
+Si llegas con la consulta **voz pasiva ingles periodismo**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Por qué el periodismo ama la pasiva
 
 El lenguaje periodístico tiene dos prioridades que la pasiva satisface perfectamente:
@@ -62,7 +64,7 @@ El lenguaje periodístico tiene dos prioridades que la pasiva satisface perfecta
 
 **Cautela legal:** Cuando la información no está confirmada, la pasiva impersonal añade una distancia necesaria: *"It is alleged that..."* o *"The suspect is believed to have..."* evitan afirmaciones que podrían ser difamatorias.
 
-## Los titulares: pasiva sin auxiliar
+### Los titulares: pasiva sin auxiliar
 
 Los titulares de noticias en inglés tienen su propia gramática. Para ganar espacio y concisión, omiten el auxiliar *to be* y dejan solo el participio:
 
@@ -76,7 +78,7 @@ Los titulares de noticias en inglés tienen su propia gramática. Para ganar esp
 
 Esta forma comprimida es exclusiva de los titulares. En el cuerpo del artículo, la pasiva aparece completa.
 
-## Estructuras pasivas más frecuentes en noticias
+### Estructuras pasivas más frecuentes en noticias
 
 **Present perfect pasivo — para noticias recientes con relevancia actual:**
 
@@ -108,7 +110,7 @@ Esta estructura es la favorita del periodismo responsable: transmite la informac
 - *The new stadium will be opened by the mayor.*
 - *The commission's report is expected to be released on Thursday.*
 
-## Verbos periodísticos en pasiva
+### Verbos periodísticos en pasiva
 
 Ciertos verbos aparecen con frecuencia especialmente alta en el periodismo pasivo:
 
@@ -127,7 +129,7 @@ Ciertos verbos aparecen con frecuencia especialmente alta en el periodismo pasiv
 | allege | *It is alleged that money was laundered.* |
 | report | *Several violations were reported.* |
 
-## Cómo esto mejora tu comprensión lectora
+### Cómo esto mejora tu comprensión lectora
 
 Cuando no reconoces bien la pasiva, puedes malinterpretar quién hace qué. Mira esta frase:
 
@@ -139,7 +141,7 @@ O este titular: *"New measures to be introduced to combat tax evasion."*
 
 Aquí *to be introduced* es una pasiva de futuro (infinitivo pasivo). Si no la reconoces, la frase puede resultar confusa.
 
-## Ejercicio con noticias reales
+### Ejercicio con noticias reales
 
 Lee estos fragmentos e identifica cada pasiva, su tiempo y si el agente aparece o no:
 

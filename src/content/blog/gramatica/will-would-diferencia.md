@@ -44,6 +44,8 @@ Si quieres ver cómo encajan estos dos modales en el sistema completo, la guía 
 
 ---
 
+Consultas como **Will vs Would en Inglés: Diferencias y Ejemplos**, **will would diferencia ingles** o **diferencia entre will y would en inglés con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Will: los usos principales
 
 ### 1. Futuro: predicciones y expectativas

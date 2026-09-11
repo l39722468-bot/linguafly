@@ -68,6 +68,8 @@ related_routes:
 
 No hay una respuesta universal — depende completamente de tu objetivo. El **Cambridge C1 Advanced** es ideal para trabajo internacional; el **APTIS General** es el más económico para oposiciones en España; el **IELTS** es imprescindible para emigrar al Reino Unido; y la **EOI** es la opción más barata para acreditar el nivel B2 en España.
 
+Quien busca **aptis vs cambridge** o **comparar certificados de inglés en España** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Antes de matricularte en cualquier examen, hazte estas tres preguntas:
 1. ¿Para qué lo necesito? (oposición, trabajo, universidad, emigrar)
 2. ¿Cuál es el plazo que tengo?

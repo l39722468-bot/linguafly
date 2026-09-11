@@ -50,6 +50,8 @@ canonical: 'https://linguafly.app/blog/trabajo/negociar-salario-ingles'
 
 La mayoría de los candidatos no negocian. Aceptan la primera oferta porque no saben cómo plantear la conversación sin incomodar o arriesgar la oferta. En realidad, las empresas esperan que haya negociación y suelen dejar margen para ella.
 
+Consultas como **Cómo Negociar el Salario en Inglés: Frases y Guía**, **negociar salario ingles** o **Negociar el Salario en Inglés con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Investiga antes de la conversación
 
 Antes de sentarte a negociar, necesitas tener un número justificado. No uno que "te gustaría tener", sino uno respaldado por datos de mercado:
@@ -60,7 +62,7 @@ Antes de sentarte a negociar, necesitas tener un número justificado. No uno que
 
 Con esos datos puedes ir a la conversación con un rango claro y argumentado.
 
-## Cómo responder a "What are your salary expectations?"
+### Cómo responder a "What are your salary expectations?"
 
 Esta pregunta puede llegar en cualquier momento del proceso. Hay tres formas de responderla:
 
@@ -75,7 +77,7 @@ Esta pregunta puede llegar en cualquier momento del proceso. Hay tres formas de 
 **3. Posponer si es muy pronto en el proceso:**
 - *"I'd prefer to learn more about the role and the full responsibilities before committing to a number. Is that okay?"*
 
-## Frases para negociar la oferta recibida
+### Frases para negociar la oferta recibida
 
 Cuando la empresa hace una oferta y quieres negociar:
 
@@ -97,7 +99,7 @@ Cuando la empresa hace una oferta y quieres negociar:
 
 En el hub [Entrevista de Trabajo en Inglés](/blog/temas/entrevista-de-trabajo-en-ingles) tienes más recursos para gestionar todo el proceso de selección en inglés.
 
-## El paquete completo: más allá del salario base
+### El paquete completo: más allá del salario base
 
 En muchos países anglosajones el salario base es solo una parte de la compensación. Cuando negocies, ten en cuenta también:
 
@@ -112,7 +114,7 @@ En muchos países anglosajones el salario base es solo una parte de la compensac
 
 Si el salario tiene poco margen, estas otras variables pueden ser el lugar donde hay más flexibilidad.
 
-## Lo que debes evitar
+### Lo que debes evitar
 
 **Dar un número sin investigar.** Si dices una cifra demasiado baja, has fijado el techo. Si dices una demasiado alta sin argumentarla, pareces desconectado del mercado.
 
@@ -128,7 +130,7 @@ La negociación salarial no es una confrontación: es una conversación de negoc
 
 Para el contexto completo de la entrevista — preparación, preguntas difíciles, técnica STAR — consulta la [Guía Completa para Preparar tu Entrevista de Trabajo en Inglés](/blog/trabajo/preparar-entrevista-trabajo-ingles).
 
-## Calcula tu rango y el valor total
+### Calcula tu rango y el valor total
 
 Anota salario base, bonus, acciones, vacaciones, seguro, pensión, modalidad remota y traslado. Distingue *gross salary* de *net salary*, *base pay* de *total compensation* y *annual* de *monthly*. Define tres números privados: objetivo, mínimo aceptable y punto de retirada. No compartas el mínimo.
 
@@ -136,7 +138,7 @@ Puedes decir: “Thank you for the offer. I’m excited about the role. Based on
 
 Si no hay margen salarial, negocia una variable que valores: “If the base cannot move, would you consider an extra week of annual leave or a professional development budget?” También puedes hablar de fecha de inicio, título, horario, *signing bonus* o *relocation support*. Concede una cosa a cambio de otra: “I can be flexible on the start date if the review is brought forward.”
 
-## Después de la llamada
+### Después de la llamada
 
 “I’m very interested. May I have until [date] to review the written offer?” Después confirma: “My understanding is: base [x], bonus [y], [benefit], review on [date]. Please confirm these points in the contract.” Conserva versiones y consulta asesoría local para impuestos o cláusulas de no competencia.
 

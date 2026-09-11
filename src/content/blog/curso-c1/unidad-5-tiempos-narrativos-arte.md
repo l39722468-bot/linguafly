@@ -48,6 +48,8 @@ excerpt: >-
 
 Contar una historia en inglés C1 no consiste únicamente en poner todos los verbos en pasado. El hablante debe mostrar qué acción estaba en progreso, cuál ocurrió antes, qué evento interrumpió a otro y qué resultado se mantiene dentro de la narración. La Unidad 5 reúne los **narrative tenses** y la **nominalisation** en el contexto de arte y cultura.
 
+Si llegas con la consulta **nominalisation ejercicios C1**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Compara estas frases:
 
 - *The exhibition opened, and visitors entered the gallery.*

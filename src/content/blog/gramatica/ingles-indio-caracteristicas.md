@@ -40,6 +40,8 @@ Y sin embargo, el Indian English no suele estar en los planes de estudio de ingl
 
 ---
 
+Si llegas con la consulta **acento indio ingles**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Características fonéticas del inglés indio
 
 ### El sistema vocálico: menos distinciones, más consistencia

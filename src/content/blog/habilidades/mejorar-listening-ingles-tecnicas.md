@@ -44,6 +44,8 @@ Esta guía te da **siete técnicas** que funcionan si las aplicas con constancia
 
 ---
 
+Consultas como **mejorar listening ingles**, **Cómo Mejorar el Listening en Inglés** o **author: linguafly-team** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué entiendes leyendo pero no oyendo
 
 Antes de las técnicas, conviene entender qué está fallando realmente. Cuando lees, controlas tú el ritmo: puedes releer, buscar una palabra, respirar. Cuando escuchas, el audio no se para. Si te atascas en una palabra, pierdes la frase entera y arrastras el bloqueo.

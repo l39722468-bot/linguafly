@@ -72,7 +72,7 @@ Zapatillas: suela que no resbale. Evita la de correr muy amortiguada si te hunde
 
 Móvil: para el QR y para anotar el pin. No para filmar la sala ni para una lista de dieciocho ejercicios. Si pones música, auriculares. Volumen que te permita oír “¿te queda una?”.
 
-## Llegar, taquilla, cinco minutos
+### Llegar, taquilla, cinco minutos
 
 El calentamiento del primer día de gimnasio es corto. No es una clase de movilidad.
 
@@ -95,7 +95,7 @@ Si llegas con frío de calle, los cinco minutos importan más. Si llegas ya cali
 
 Baño si lo necesitas, ahora. No a mitad de la prensa. Bebe un trago. Luego las máquinas.
 
-## La sesión: cuatro máquinas, dos series fáciles
+### La sesión: cuatro máquinas, dos series fáciles
 
 Esta es la sesión del día uno. No copies otra.
 
@@ -134,7 +134,7 @@ Si la máquina tiene palanca de seguridad o un enganche, míralo antes de la pri
 
 Anota el pin. “Prensa 3. Press 2.” El día tres no empiezas de cero. Tampoco subes cuatro pines porque el vecino usa el 12.
 
-## El tirón: remo y jalón
+### El tirón: remo y jalón
 
 Después de empujar piernas y pecho, tiras. Si solo empujas el día uno, sales con el pecho cerrado y la espalda sin trabajo.
 
@@ -162,7 +162,7 @@ No hagas dominadas el día uno “a ver si salen”. No hagas doce variantes de 
 
 Si duele un hombro de forma clara, paras ese tirón. No “otra máquina de espalda a ver”.
 
-## Etiqueta: cinco puntos
+### Etiqueta: cinco puntos
 
 No es un código secreto. Es no hacer la sala peor.
 
@@ -176,7 +176,7 @@ Vestuario: no dejes el montón en el banco del medio. Ducha si te duchas: tiempo
 
 Si no sabes una palanca: pregunta. “¿Me enseñas el seguro de esta prensa?” vale más que un vídeo a media luz.
 
-## Cuánto entrenar el primer día (y cuándo irte)
+### Cuánto entrenar el primer día (y cuándo irte)
 
 **Veinticinco a cuarenta minutos.** Calentamiento incluido. Cuando las cuatro máquinas tienen dos series, la sesión ha acabado.
 
@@ -196,7 +196,7 @@ El segundo día no es mañana. Es dentro de uno o dos días, o cuando toque seg�
 
 Si sales mareado o con náuseas: sentado, agua, algo de comer si llevabas. La próxima vez no llegues vacío. Si es un pinchazo nítido en una articulación, no “otra serie a ver”. Paras. Hielo en casa no sustituye a una cita si el dolor local empeora al día siguiente.
 
-## Errores del día uno
+### Errores del día uno
 
 - **Copiar la rutina del móvil de seis días.** El día uno no es un split de culturista. Cuatro máquinas. Dos series. Fuera.
 - **Empezar por la barra de sentadilla o el peso muerto.** La prensa te enseña a empujar con la espalda apoyada. La barra pide más. No es el primer gesto de la primera hora.

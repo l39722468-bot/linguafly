@@ -67,7 +67,7 @@ Si el audio pasa de tres o cuatro minutos y hay más de una voz de verdad, paras
 
 Carmen, jueves 19:12. Un globo. Una voz. Tres encargos. Eso cabe. Si el globo dura ocho minutos con un conflicto de nombres y un “esto no lo sepas”, no lo transcribes en un chat de consumo. Lo oyes. Anotas dos hechos. O no usas IA.
 
-## WhatsApp audio a texto: el recinto
+### WhatsApp audio a texto: el recinto
 
 **WhatsApp audio a texto** puede ocurrir *dentro* de WhatsApp (una transcripción del globo, según versión y región) o *fuera* (exportas el audio y lo pasas a otro sitio). Son recintos distintos. No los mezcles.
 
@@ -94,7 +94,7 @@ Si el globo es tenso (un no, un límite) y lo que quieres es *responder*, no tra
 
 Carmen no ha consentido que su voz salga a ChatGPT. Un recado laboral de tres encargos, en un equipo que ya usa esas herramientas, puede valer. Un audio de un conflicto familiar, no. Si dudas, no exportas. Escribes lo que recuerdas, sin el mp3.
 
-## ChatGPT transcribe una nota (y el dictado del móvil)
+### ChatGPT transcribe una nota (y el dictado del móvil)
 
 **ChatGPT transcribe una nota** cuando hay un archivo y un producto que acepta audio. **IA dictado del móvil** es el otro camino: no hay archivo aún; hablas al teclado y sale texto en el campo. No los confundas.
 
@@ -140,7 +140,7 @@ Eso ya es usable. El chat, si entra, solo formatea.
 
 El dictado del sistema a veces es suficiente los cinco días. El chatbot es el paso extra cuando el audio ya existe y está sucio de “eh” y de un dato que quieres sacar a viñetas. No es obligatorio.
 
-## Limpiar una nota de voz
+### Limpiar una nota de voz
 
 **Limpiar una nota de voz** no es reescribirla como un email de dirección. Es quitar el ruido de habla y dejar el recado. El modelo, si le das cuerda, convierte tres encargos en un “plan de alineamiento”.
 
@@ -181,7 +181,7 @@ Si el audio está sucio de ruido (calle, viento), la limpieza *de señal* no es 
 
 Números: “a las diez” / “a las dos”. El modelo elige. Tú marcas [revisar] y, si manda, oyes los dos segundos. El gesto es el mismo que en una reunión, a otra escala: 40 segundos, un auricular, no un acta.
 
-## Mensajes de voz a una lista
+### Mensajes de voz a una lista
 
 **Mensajes de voz a una lista** es el entregable más útil de esta página. No un párrafo de diario. Viñetas que puedes tachar.
 
@@ -223,7 +223,7 @@ Esto no es el prompt de notas de una reunión a tablero de proyecto. Es tres lí
 
 Carmen, segundo globo a las 19:40: “el PDF es el de la factura, no el del anexo.” Añades una nota en la fila del PDF. No reescribes un acta. No convocas a compras.
 
-## Accesibilidad de un audio (y borrar después)
+### Accesibilidad de un audio (y borrar después)
 
 **Accesibilidad de un audio** es el otro motivo, no el de productividad: oír mal, ir en el metro sin auricular, leer más rápido que rebobinar. Una nota de 40 segundos pasada a texto te deja leer. No sustituye un intérprete ni un producto certificado. Es un apoyo.
 

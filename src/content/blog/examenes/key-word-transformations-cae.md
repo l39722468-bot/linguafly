@@ -41,6 +41,8 @@ Los patrones son repetibles. Cambridge los usa una y otra vez. Aprenderlos es la
 
 ---
 
+Consultas como **key word transformations cae**, **patrones frecuentes transformaciones C1** o **cómo resolver la Parte 4 del CAE** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es exactamente una Key Word Transformation
 
 Recibes una frase original en inglés y una segunda frase con un hueco. Junto al hueco hay una **key word** (en mayúsculas). Tu tarea: completar la segunda frase de manera que tenga el mismo significado que la primera, usando la key word y entre dos y seis palabras en total.

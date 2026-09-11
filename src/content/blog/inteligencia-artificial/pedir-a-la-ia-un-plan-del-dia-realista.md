@@ -67,7 +67,7 @@ El modelo completa patrones de “día ideal” que ha visto mil veces: madrugó
 
 Tú das el material. El chat ordena. Esa es la división. Invertirla —“organízame la vida, ya veré”— produce un PDF de gurú que no cabe en ninguna agenda realista con un chatbot.
 
-## IA: priorizar tres tareas
+### IA: priorizar tres tareas
 
 **IA priorizar tres tareas** es el trabajo. No doce. No un kanban. No un “sistema GTD adaptado a tu cerebro”. Tres. El resto, si sobra, se nombra. No se finge.
 
@@ -93,7 +93,7 @@ Qué hace bien el modelo aquí: agrupar, detectar que el email tiene hora de cor
 
 Si te devuelve ocho prioridades numeradas, el prompt ha fallado. No es que tú “no estés listo para el sistema”. Es que le has dejado ser **un gurú de productividad**. Rehaces: “Solo tres. El resto, una viñeta de ‘cae’.”
 
-## Agenda realista con un chatbot: el prompt
+### Agenda realista con un chatbot: el prompt
 
 Una **agenda realista con un chatbot** cabe en un pantallazo. La estructura es la de siempre: tarea, contexto, formato, límite. El oficio de escribirla está en [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva). Aquí va el de hoy, no la teoría.
 
@@ -129,7 +129,7 @@ Compruebas contra *tu* calendario, no contra la fluidez. El email ¿sale antes d
 
 Si el texto del plan “suena bien” y aun así te ha colado un bloque a las 6:30, es el mismo fallo de siempre: prosa limpia, hecho falso. Léelo con el criterio de [confianza excesiva: el texto suena bien](/blog/inteligencia-artificial/confianza-excesiva-el-texto-suena-bien). El tono de coach no es una agenda.
 
-## Horario del día con IA (bloques, no milagro)
+### Horario del día con IA (bloques, no milagro)
 
 Un **horario del día con IA** es una tabla de ventanas. No es un cronómetro que te persigue. Pides bloques anchos. No minutos de teatro.
 
@@ -159,7 +159,7 @@ Cómo iterar el horario:
 
 Copia la tabla a tu calendario o a un papel. El chat se pierde. El martes no.
 
-## Plan diario si tienes poco tiempo
+### Plan diario si tienes poco tiempo
 
 **Plan diario si tienes poco tiempo** no es un plan más agresivo. Es un plan más corto. Noventa minutos netos no se convierten en seis horas porque el párrafo esté bien escrito.
 
@@ -183,7 +183,7 @@ Si *todos* los días son de 90 minutos, el problema no es el chatbot. Es la list
 
 Días rotos típicos: guardia de niños, tren, un incendio de correo. El error es abrir el prompt del día holgado y enfadarte porque “la IA no me entiende”. No te entiende. Cámbialo.
 
-## El chat no es una alarma
+### El chat no es una alarma
 
 El plan sale. Lo lees. Te queda la tentación de dejarlo en el hilo: “recuérdame a las 13:50 el email”. No. Un chatbot de consumo **no es una alarma**. No te llama. No suena si cierras la pestaña. No sustituye el calendario ni el despertador del teléfono.
 

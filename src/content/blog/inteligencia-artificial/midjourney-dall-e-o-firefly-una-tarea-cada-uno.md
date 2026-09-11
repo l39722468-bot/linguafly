@@ -62,7 +62,7 @@ Nombres internos (versión del modelo, “niji”, “Firefly Image 3”) cambia
 
 Ejemplo de una semana real. Pablo tiene que entregar el jueves un PDF de un taller de 90 minutos. Necesita una cabecera 16:9: alguien cortando verdura, ilustración plana, sin foto de banco. Ya tiene cuenta en ChatGPT. No crea Discord el lunes. No instala Photoshop “por si Firefly”. Pide la escena en el chat. El título del taller, en Canva. Jueves, PDF. Eso es elegir por tarea.
 
-## DALL-E en ChatGPT: la escena del chat que ya usas
+### DALL-E en ChatGPT: la escena del chat que ya usas
 
 **DALL-E en ChatGPT** es el trabajo 1. Abres la misma ventana del email. Pides una imagen. No hay que aprender un dialecto.
 
@@ -103,7 +103,7 @@ Límites de este recinto:
 
 No uses este chat para clonar la cara de un alumno o de un actor. Figura genérica. De perfil o de espaldas. Si el trabajo es “esta persona”, es foto con permiso, no un generador.
 
-## Midjourney: más estilo si ya vives ahí
+### Midjourney: más estilo si ya vives ahí
 
 **Midjourney estilo** es el trabajo 2. No “el mejor”. El recinto de quien ya está: Discord o la web, variaciones, `--ar`, un ojo entrenado a sus rarezas.
 
@@ -130,7 +130,7 @@ Si no estás en Midjourney y ChatGPT te ha dado un recuadro comprobable, te qued
 
 Si Midjourney te empuja a nombrar a un ilustrador vivo para “pillar el trazo”, paras. Describe el look (línea clara, planos, sin sombra dura). No clones a un tercero.
 
-## Adobe Firefly: el flujo y la página que puedes leer
+### Adobe Firefly: el flujo y la página que puedes leer
 
 **Adobe Firefly para qué** no es “el generador ético por magia”. Es el generador *dentro* de Adobe. Photoshop, Illustrator, Express, firefly.adobe.com. Si tu dosier ya se cierra en InDesign o tu cartel en Photoshop, el recuadro nace cerca del archivo final.
 
@@ -153,7 +153,7 @@ Firefly también pinta letras mal. También inventa un letrero. Misma prohibici�
 
 No elijas Firefly porque “Adobe no se entrena con mis archivos”. Lees el interruptor y la página. Si no lo ves, no asumas. El recuadro sigue saliendo de un modelo. Tú sigues sin pegar una cara ajena.
 
-## Derechos de cada herramienta (alto nivel)
+### Derechos de cada herramienta (alto nivel)
 
 **Derechos de cada herramienta** no se resuelven en una tabla de hilo. Cada una publica condiciones. Cambian. El plan gratis no es el de pago. Uso interno de un PDF de taller no es vender merchandising.
 
@@ -168,7 +168,7 @@ El desarrollo, sin sustituir a un abogado, está en [derechos de una imagen gene
 
 Marcas y caras de terceros: fuera en los tres productos. El recinto no lava un clon.
 
-## Cómo elegir el martes (un ejemplo)
+### Cómo elegir el martes (un ejemplo)
 
 Pablo, lunes. Tres tentaciones. Una decisión.
 

@@ -42,6 +42,8 @@ Para ver cómo se usan en contexto con el past simple y el present perfect, la g
 
 ---
 
+Consultas como **lista verbos irregulares ingles**, **lista de verbos irregulares en inglés con traducción** o **verbos irregulares ejercicios gratis con soluciones** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Tipo 1: Las tres formas son iguales
 
 Estos verbos no cambian en ninguna de las tres formas (infinitivo / past simple / participio). Son los más fáciles de recordar.

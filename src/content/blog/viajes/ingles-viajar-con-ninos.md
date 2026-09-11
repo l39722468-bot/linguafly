@@ -41,6 +41,8 @@ Viajar con niños es una aventura maravillosa, pero también requiere una prepar
 
 ---
 
+Consultas como **ingles viajar con ninos**, **Inglés para Viajar con Niños** o **faqs:** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## 1. En el Avión con Niños
 
 ### Embarque y asientos

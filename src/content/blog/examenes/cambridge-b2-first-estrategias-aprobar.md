@@ -50,6 +50,8 @@ faqs:
 
 El **Cambridge B2 First** (FCE — First Certificate in English) es el certificado de inglés más reconocido mundialmente para el nivel B2. Con más de 5 millones de candidatos anuales, es el estándar de facto para demostrar un nivel de inglés "upper intermediate" tanto en el mundo académico como en el empresarial.
 
+Quien busca **como aprobar b2 first** o **cómo aprobar Cambridge B2 First en 2026** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Si tienes un nivel B2 consolidado, esta guía te dará las estrategias específicas para convertir ese nivel en un certificado oficial. Si aún no has alcanzado el B2, consulta primero nuestros recursos de **[preparación para el examen B1](/blog/examenes/preparacion-examen-b1-cambridge)**.
 
 ---

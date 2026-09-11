@@ -48,13 +48,15 @@ canonical: 'https://linguafly.app/blog/gramatica/pasiva-impersonal-ingles'
 
 Si has leído alguna vez un artículo en inglés y has encontrado frases como *"It is widely believed that the economy will recover"* o *"The suspect is alleged to have fled the country"*, estabas leyendo la pasiva impersonal. Es una estructura muy característica del inglés formal y periodístico, y dominarla marca una diferencia real en tu nivel escrito.
 
+Quien busca **Pasiva Impersonal en Inglés: It Is Said That** o **pasiva impersonal ingles** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Qué es y para qué sirve
 
 La pasiva impersonal, también llamada *reporting passive*, se usa para presentar información como una opinión general, un rumor, una creencia extendida o un hecho no confirmado. La idea es distanciarse del contenido: no dices *"Yo creo que..."* sino que presentas la información como algo que "se sabe", "se cree" o "se dice".
 
 En español tenemos el equivalente con "se": *"Se dice que..."*, *"Se cree que..."*. En inglés formal, en cambio, la construcción pasiva es la norma.
 
-## Estructura 1: It + pasiva + that + frase
+### Estructura 1: It + pasiva + that + frase
 
 **It is/was/has been + participio + that + oración**
 
@@ -72,7 +74,7 @@ La elección del tiempo en el verbo de reporte refleja cuándo se hizo la afirma
 - *It was said* → se dijo en el pasado
 - *It has been said* → se ha dicho (con relevancia presente)
 
-## Estructura 2: Sujeto + pasiva + to + infinitivo
+### Estructura 2: Sujeto + pasiva + to + infinitivo
 
 Esta es la variante más compacta y frecuente en titulares y texto formal. El sujeto de la oración principal es la persona o cosa sobre la que se habla.
 
@@ -91,7 +93,7 @@ Cuando la acción del infinitivo ocurrió **antes** que el verbo de reporte, usa
 
 En el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) encontrarás la tabla completa de tiempos con la pasiva y más ejemplos de estructuras avanzadas.
 
-## Los verbos que necesitas conocer
+### Los verbos que necesitas conocer
 
 Estos son los verbos de reporte más frecuentes en esta construcción:
 
@@ -113,7 +115,7 @@ Estos son los verbos de reporte más frecuentes en esta construcción:
 
 Todos comparten que son verbos de percepción, pensamiento o comunicación. No puedes usar esta estructura con verbos de acción física.
 
-## Transformar: del estilo directo a la pasiva impersonal
+### Transformar: del estilo directo a la pasiva impersonal
 
 Este es el tipo de ejercicio que aparece en Cambridge B2 y C1 (Key Word Transformation y sentence rewriting):
 
@@ -133,7 +135,7 @@ Este es el tipo de ejercicio que aparece en Cambridge B2 y C1 (Key Word Transfor
 
 Esa última transformación —con *to have been + participio*— es la que más falla. Recuerda que cuando el evento reportado es anterior al momento de la afirmación, necesitas el infinitivo perfecto (*to have been hurt*).
 
-## Por qué aparece tanto en noticias
+### Por qué aparece tanto en noticias
 
 Los periodistas usan esta estructura por razones precisas. Cuando una fuente no está confirmada o no quieren atribuir la afirmación a nadie concreto, la pasiva impersonal crea esa distancia necesaria:
 
@@ -143,7 +145,7 @@ Los periodistas usan esta estructura por razones precisas. Cuando una fuente no 
 
 Esta es precisamente la función social de la construcción: comunicar información sin comprometerte con su veracidad.
 
-## Un ejercicio para practicar
+### Un ejercicio para practicar
 
 Transforma estas frases usando pasiva impersonal:
 

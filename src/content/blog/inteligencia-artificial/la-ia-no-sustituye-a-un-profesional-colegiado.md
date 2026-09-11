@@ -69,7 +69,7 @@ Qué no puede hacer, aunque lo imite:
 
 Si alguien te vende que “con IA ya no hace falta el gestor”, pregunta quién responde cuando la AEAT no esté de acuerdo, quién firma el visado, quién se sienta en la consulta. Si la respuesta es “el modelo”, no es un producto. Es un eslogan.
 
-## ChatGPT no es médico, abogado ni gestor
+### ChatGPT no es médico, abogado ni gestor
 
 **ChatGPT no es médico, abogado ni gestor.** Tampoco es arquitecto, farmacéutico, graduado social, asesor financiero ni psicólogo. La marca da igual: Gemini, Claude, Copilot de consumo, el chat que venga el trimestre que viene. La ventana no habilita.
 
@@ -85,7 +85,7 @@ El corte común: **uso auxiliar de un modelo** frente a **acto profesional**. Au
 
 No hace falta memorizar el mapa de colegios profesionales de España. Hace falta una pregunta: **¿esto, si sale mal, lo asume un titular con número de colegiado o lo asumo yo copiando un párrafo?** Si la respuesta honesta es la segunda, no copies.
 
-## Uso auxiliar: preparar preguntas (y parar ahí)
+### Uso auxiliar: preparar preguntas (y parar ahí)
 
 **Uso auxiliar de un modelo** se escribe mejor con un ejemplo de oficina, no con un manifiesto.
 
@@ -108,7 +108,7 @@ Pasos, cuando insistas en usar el chat *antes* de la visita:
 
 Si el modelo se niega (tema médico cerrado, petición de un escrito para presentar), no insistas en rodear la negativa. Reformula a lista de preguntas o cierra. Rodear no te convierte en titular. Te acerca a un texto que parece un escrito y no lo es.
 
-## Cuándo parar y llamar a alguien
+### Cuándo parar y llamar a alguien
 
 **Cuándo parar y llamar a alguien** no es una intuición mística. Son cuatro recintos. Si estás en uno, el chat no cierra el asunto.
 
@@ -129,7 +129,7 @@ Señales de que deberías haber parado ya:
 
 Llamar no es fracaso del usuario de IA. Es el trabajo. La herramienta acaba donde empieza el expediente de otro.
 
-## Responsabilidad de un consejo de IA
+### Responsabilidad de un consejo de IA
 
 **Responsabilidad de un consejo de IA**: en la práctica, la de quien actúa. El proveedor del chatbot pondrá términos, limitaciones y “no es asesoramiento”. Eso no te absuelve si copias el plazo o el “está bien firmar” y lo envías. Tampoco colegia al modelo.
 

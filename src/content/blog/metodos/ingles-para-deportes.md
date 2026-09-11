@@ -38,6 +38,8 @@ canonical: 'https://linguafly.app/blog/metodos/ingles-para-deportes'
 
 Los deportes son uno de los mejores contextos para aprender inglés de forma entretenida y natural. Ver partidos en inglés, leer artículos deportivos o simplemente poder hablar con aficionados de otros países sobre tu equipo favorito requiere conocer el vocabulario específico de cada disciplina.
 
+Si llegas con la consulta **vocabulario de deportes en inglés gratis**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Esta guía cubre el inglés de los **deportes más populares** con vocabulario esencial y frases para usarlas en conversación.
 
 ---

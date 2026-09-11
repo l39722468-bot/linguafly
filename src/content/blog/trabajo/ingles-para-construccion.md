@@ -43,11 +43,13 @@ canonical: 'https://linguafly.app/blog/trabajo/ingles-para-construccion'
 
 El sector de la construcción es uno de los que más demanda mano de obra extranjera en países como Reino Unido, Irlanda o Australia. Es un trabajo físico y muy visual, lo que facilita el aprendizaje del vocabulario específico incluso con un nivel de inglés básico-intermedio.
 
+Quien busca **vocabulario ingles construccion obra** o **herramientas de construccion en ingles** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Esta guía cubre el vocabulario esencial que necesitas para entender instrucciones, pedir herramientas, hablar de seguridad y comunicarte con tu equipo en la obra.
 
 ---
 
-## 🧰 Herramientas y Equipamiento en Inglés
+### 🧰 Herramientas y Equipamiento en Inglés
 
 | Español | Inglés |
 |:--------|:-------|
@@ -68,7 +70,7 @@ Esta guía cubre el vocabulario esencial que necesitas para entender instruccion
 
 ---
 
-## 🧱 Materiales de Construcción
+### 🧱 Materiales de Construcción
 
 | Español | Inglés |
 |:--------|:-------|
@@ -88,7 +90,7 @@ Esta guía cubre el vocabulario esencial que necesitas para entender instruccion
 
 ---
 
-## 👷 Puestos de Trabajo en la Obra
+### 👷 Puestos de Trabajo en la Obra
 
 | Español | Inglés |
 |:--------|:-------|
@@ -107,7 +109,7 @@ Esta guía cubre el vocabulario esencial que necesitas para entender instruccion
 
 ---
 
-## ⚠️ Health and Safety: Seguridad Laboral en Inglés
+### ⚠️ Health and Safety: Seguridad Laboral en Inglés
 
 La seguridad es la parte más importante del vocabulario de construcción, ya que un malentendido puede tener consecuencias graves. Frases y términos clave:
 
@@ -122,7 +124,7 @@ La seguridad es la parte más importante del vocabulario de construcción, ya qu
 
 ---
 
-## 🗣️ Frases Útiles para el Día a Día en la Obra
+### 🗣️ Frases Útiles para el Día a Día en la Obra
 
 **Para pedir herramientas o materiales:**
 - *"Can you pass me the drill, please?"*
@@ -146,7 +148,7 @@ La seguridad es la parte más importante del vocabulario de construcción, ya qu
 
 ---
 
-## 📋 Cómo Encontrar Trabajo en Construcción en el Extranjero
+### 📋 Cómo Encontrar Trabajo en Construcción en el Extranjero
 
 Para trabajar legalmente en construcción en Reino Unido necesitarás normalmente una **CSCS card** (Construction Skills Certification Scheme), que se obtiene tras aprobar un test de seguridad (HS&E test) disponible en varios idiomas, incluido el español. En Irlanda el equivalente es la **Safe Pass card**.
 
@@ -154,7 +156,7 @@ Las agencias de empleo especializadas en construcción (como Randstad CPE o Hays
 
 ---
 
-## 📐 Medidas y Unidades en Construcción
+### 📐 Medidas y Unidades en Construcción
 
 En países anglosajones se usan con frecuencia el sistema imperial además del métrico, así que conviene familiarizarse con ambos:
 
@@ -172,7 +174,7 @@ Frases habituales relacionadas con medidas:
 
 ---
 
-## 🏗️ Fases de un Proyecto de Construcción en Inglés
+### 🏗️ Fases de un Proyecto de Construcción en Inglés
 
 Conocer el vocabulario de las distintas fases te ayuda a entender en qué punto está el proyecto y qué se espera de tu equipo:
 
@@ -189,7 +191,7 @@ Cada fase suele tener un responsable distinto, por lo que es habitual escuchar f
 
 ---
 
-## 🌦️ Hablar del Clima y las Condiciones de Trabajo
+### 🌦️ Hablar del Clima y las Condiciones de Trabajo
 
 El clima afecta directamente al trabajo en obra, así que es habitual comentarlo a diario:
 

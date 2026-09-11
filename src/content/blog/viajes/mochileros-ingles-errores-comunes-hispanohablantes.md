@@ -41,6 +41,8 @@ faqs:
 
 Cuando intentas **aprender inglés para mochileros**, el enemigo no es solo la gramática: es el **cansancio**, el **ruido** y la **presión social** en habitaciones compartidas. Por eso los errores más costosos no son los que ve un examen Cambridge, sino los que **ralentizan** la interacción o cambian el sentido (pedir “preservativos” cuando querías “preservatives”, por ejemplo, es un clásico urbano: aquí nos centramos en errores frecuentes y de alto impacto).
 
+Consultas como **Errores de Español al Hablar Inglés de Viaje**, **errores inglés viaje** o **mochileros ingles errores comunes hispanohablantes para viajar** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 Este artículo está organizado por **categorías**: *calcos del español*, *verbos y colocaciones*, *registro*, *preguntas*, *pronunciación inteligible*. Al final, una **rutina de 14 días** para automatizar correcciones.
 
 ## Calcos mortales (y alternativas naturales)

@@ -41,6 +41,8 @@ La buena noticia es que hay reglas claras para las terminaciones más comunes de
 
 ---
 
+Consultas como **pronunciación terminaciones inglés**, **reglas de pronunciación de terminaciones inglesas** o **cómo pronunciar ed s y es en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La terminación -ed del pasado: tres pronunciaciones
 
 La regla de la -ed es una de las primeras cosas que se estudian en fonética del inglés y una de las que más confusión genera porque parece que hay excepciones por todas partes. En realidad no hay excepciones: hay una regla sistemática basada en el sonido final del verbo base.

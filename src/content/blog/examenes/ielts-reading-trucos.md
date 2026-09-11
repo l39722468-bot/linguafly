@@ -42,6 +42,8 @@ Antes de entrar en los tipos de pregunta, si quieres ver cómo encaja el Reading
 
 ---
 
+Quien busca **trucos IELTS Reading para mejorar la puntuación** o **ejercicios gratis de IELTS Reading con soluciones** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Los tipos de pregunta que necesitas dominar
 
 El IELTS Reading tiene unos 8-10 tipos de pregunta distintos. No todos aparecen en cada examen, pero estos son los más frecuentes y los que más candidatos fallan:

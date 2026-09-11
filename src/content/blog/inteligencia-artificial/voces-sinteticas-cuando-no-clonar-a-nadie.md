@@ -74,7 +74,7 @@ El grupo de WhatsApp no es un tribunal de ética. El “no le va a importar” n
 
 Si el trabajo es “que suene profesional y claro”, el catálogo llega. Si el trabajo es “que parezca *esa* persona”, el trabajo es ilegítimo. Cambia el trabajo. No busques el botón.
 
-## Clonar una voz con IA: cuándo no
+### Clonar una voz con IA: cuándo no
 
 **Clonar una voz con IA** aparece en esta página para marcar el no. No para enseñarte el sí.
 
@@ -99,7 +99,7 @@ Si se cumple uno, no sigues. No hay “solo un minuto”. No hay “luego lo bor
 
 Esta página no describe cómo se clona. Si un producto te ofrece “instant cloning” o “voice design from a sample”, ese botón **no es este artículo**. Cerrar la pestaña es una respuesta válida.
 
-## Consentimiento de una voz
+### Consentimiento de una voz
 
 **Consentimiento de una voz** no es “me rio en el grupo”. No es un like. No es que la persona haya hablado en público.
 
@@ -121,7 +121,7 @@ El mismo recorte, en foto: no subes la cara de alguien “a ver qué sale”. Vo
 
 **Ejemplo. El youtuber “estilo”.** “No digo su nombre, pero que se note.” Si se nota, imitas a una persona real. Catálogo neutro. O tu voz.
 
-## Deepfake de audio: el daño, no el tutorial
+### Deepfake de audio: el daño, no el tutorial
 
 Un **deepfake de audio** es un clip que suena a alguien concreto diciendo frases que no ha dicho. El daño no es de película. Es de martes.
 
@@ -143,7 +143,7 @@ Qué haces si *recibes* un audio dudoso:
 
 No pidas a un chatbot “imita la voz de X para ver si pillan a mi equipo”. Fabricas el arma. No subas el audio de un tercero a cinco detectores: multiplicas copias. El detector no te hace perito.
 
-## Locución sintética de un vídeo (el trabajo que sí)
+### Locución sintética de un vídeo (el trabajo que sí)
 
 **Locución sintética de un vídeo** es el sí estrecho: *tu* guion, voz de librería, clip corto, oyentes que no creen que habla un humano concreto.
 
@@ -158,7 +158,7 @@ Límites de este sí:
 
 **Ejemplo. Laura, formación interna.** PDF de “cómo pedir vacaciones”. Bien: voz de catálogo, texto corto, capturas del portal. Mal: clonar a RR. HH. “porque su voz ya la conocen”. Pulir pronunciación y coste de *esa* locución está en el artículo de ElevenLabs. Aquí: **no cruzar** a persona real.
 
-## ElevenLabs y otros: límites éticos, no el botón
+### ElevenLabs y otros: límites éticos, no el botón
 
 **ElevenLabs límites éticos** (y los de cualquier TTS con librería y con ofertas de clonación) no te los inventa un blog. Están en las condiciones del producto, y cambian. Ábrelas en la web oficial. Hoy.
 

@@ -38,6 +38,8 @@ excerpt: >
 
 El **Reported Speech** (estilo indirecto) y los **Reporting Verbs** son pilares fundamentales de la gramática inglesa avanzada. Dominar estas estructuras es imprescindible tanto para exámenes de nivel como para la comunicación profesional escrita y oral.
 
+Quien busca **Reported Speech: Guía Completa B2, C1 y C2** o **reported speech en inglés explicado con ejemplos** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 En esta guía exploraremos en profundidad desde los conceptos básicos de transformación hasta las estructuras más complejas de los verbos de reporte. Si buscas el panorama general antes de entrar en los detalles, la guía [Reported Speech en Inglés](/blog/temas/reported-speech) es el punto de partida ideal.
 
 ## ¿Qué es el Reported Speech?

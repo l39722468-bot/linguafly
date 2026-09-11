@@ -61,7 +61,7 @@ No hace falta antropomorfismo para caer. No hace falta creer que “piensa”. B
 
 Una regla corta: **la calidad de la redacción no es un indicador de la calidad del dato.** Son dos ejes. El modelo es fuerte en el primero. En el segundo, a veces acierta y a veces fabrica. Tú no ves cuál de las dos ha ocurrido si solo miras si “suena profesional”.
 
-## El tono seguro de un modelo no es una prueba
+### El tono seguro de un modelo no es una prueba
 
 El **tono seguro de un modelo** es un producto de entrenamiento. Han recompensado respuestas útiles, completas, que no se quedan a medias. Completar empuja a no dejar un “no lo sé” en el cuarto punto de una lista de cuatro. El cuarto punto se inventa para que el patrón cierre. El tono sigue igual de firme.
 
@@ -85,7 +85,7 @@ Ese “claro” no ha contrastado nada. Es el mismo estilo que usa para acortar 
 
 No uses el tono como filtro. Úsalo al revés: cuanto más “ya está listo para enviar”, más pasada de plazos y cifras.
 
-## Ejemplo: el email pulido con un plazo inventado
+### Ejemplo: el email pulido con un plazo inventado
 
 Hechos de partida. Tú has escrito esto (tosco, pero tuyo):
 
@@ -128,7 +128,7 @@ Menos “profesional” en el sentido de folleto. Más cierto. Eso envías. Si m
 
 El gesto no es “desconfía de toda coma”. Es: **todo dato que cambie la semana de otra persona se trata como dato**, no como estilo.
 
-## Leer con sospecha útil
+### Leer con sospecha útil
 
 **Leer con sospecha útil** no es volver el chat inservible. Es una pasada, como mirar si has dejado las llaves antes de cerrar. No es un juicio moral al programa. No es antropología. Es no copiar.
 
@@ -156,7 +156,7 @@ A veces obedece. A veces cuela el viernes igual. La frase reduce. No sustituye e
 
 Si el texto es una cita legal o una sentencia, la fluidez es especialmente cara: el molde “artículo + número + año” está muy entrenado. No lo desarrollamos aquí. El sitio de ese trabajo es [citas legales inventadas](/blog/inteligencia-artificial/citas-legales-inventadas). La regla es la misma: el molde no es el BOE.
 
-## Dónde se cuelan los errores fluidos
+### Dónde se cuelan los errores fluidos
 
 Los **errores fluidos de un LLM** no aparecen como un párrafo en otro idioma. Aparecen donde el patrón “texto profesional” pide un hueco y el modelo lo rellena.
 

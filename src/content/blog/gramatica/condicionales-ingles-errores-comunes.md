@@ -48,7 +48,11 @@ canonical: 'https://linguafly.app/blog/gramatica/condicionales-ingles-errores-co
 
 Los condicionales son una de las estructuras gramaticales donde más errores sistemáticos cometen los hispanohablantes. No porque sean intrínsecamente difíciles, sino porque la lógica del inglés difiere del español en puntos concretos. Conocer cuáles son esos puntos te ahorra meses de repetir los mismos fallos.
 
-## Error 1: "Will" después de "if"
+Quien busca **Errores Comunes con los Condicionales en Inglés** o **errores condicionales ingles** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
+## Errores frecuentes
+
+### Error 1: "Will" después de "if"
 
 Este es el error número uno, sin discusión. En español decimos "si lo haré" o "si vendrá" con futuro. En inglés, la cláusula con "if" siempre va en presente, aunque hablemos del futuro.
 
@@ -63,7 +67,7 @@ La única excepción es cuando "will" expresa disposición o voluntad, no tiempo
 
 Pero en el 99% de los casos, nada de "will" después de "if".
 
-## Error 2: "Would of" en lugar de "would have"
+### Error 2: "Would of" en lugar de "would have"
 
 Este error es especialmente frecuente en escritura:
 
@@ -73,7 +77,7 @@ Este error es especialmente frecuente en escritura:
 
 "Would of" no existe en inglés. Existe "would have", que al contraerse en el habla suena a "would've", y eso lleva a confusión por escrito.
 
-## Error 3: Mezclar segundo y tercer condicional
+### Error 3: Mezclar segundo y tercer condicional
 
 Los dos condicionales hablan de situaciones irreales, pero en tiempos diferentes.
 
@@ -86,7 +90,7 @@ Los dos condicionales hablan de situaciones irreales, pero en tiempos diferentes
 - ✓ *If I studied harder, I would pass.* (Second: situación presente irreal).
 - ✓ *If I had studied harder, I would have passed.* (Third: pasado irreal).
 
-## Error 4: "Was" en lugar de "were" en contextos formales
+### Error 4: "Was" en lugar de "were" en contextos formales
 
 En el second conditional con el verbo "to be", el inglés formal exige "were" para todas las personas.
 
@@ -95,7 +99,7 @@ En el second conditional con el verbo "to be", el inglés formal exige "were" pa
 
 En conversación informal, "was" es aceptable. Pero en exámenes y escritura formal, siempre "were".
 
-## Error 5: Olvidar el "have" en el third conditional
+### Error 5: Olvidar el "have" en el third conditional
 
 El third conditional necesita obligatoriamente "have" entre "would" y el participio.
 
@@ -104,7 +108,7 @@ El third conditional necesita obligatoriamente "have" entre "would" y el partici
 
 Parece un error pequeño pero es muy visible y afecta la nota de gramática en cualquier examen.
 
-## Error 6: "Unless" con negación redundante
+### Error 6: "Unless" con negación redundante
 
 "Unless" ya incluye la negación. Añadir "not" es un error de doble negación.
 
@@ -112,7 +116,7 @@ Parece un error pequeño pero es muy visible y afecta la nota de gramática en c
 - ✓ *Unless you hurry, we'll miss the bus.*
 - ✓ *If you don't hurry, we'll miss the bus.*
 
-## Error 7: Condicional cero con "will"
+### Error 7: Condicional cero con "will"
 
 En el zero conditional, las dos cláusulas van en presente simple, nunca con "will".
 
@@ -121,7 +125,7 @@ En el zero conditional, las dos cláusulas van en presente simple, nunca con "wi
 
 El zero conditional habla de hechos permanentes, no de situaciones futuras. No necesita "will".
 
-## Error 8: Participio incorrecto en el third conditional
+### Error 8: Participio incorrecto en el third conditional
 
 El third conditional requiere el past participle del verbo. Si no tienes bien memorizados los irregulares, aquí se nota.
 
@@ -133,7 +137,7 @@ El third conditional requiere el past participle del verbo. Si no tienes bien me
 
 Repasar la lista de verbos irregulares es aburrido pero necesario para usar el third conditional correctamente.
 
-## Error 9: Usar "would" en la cláusula con "if"
+### Error 9: Usar "would" en la cláusula con "if"
 
 "Would" nunca va en la cláusula condicional (con "if"), sino en la principal.
 
@@ -145,7 +149,7 @@ Repasar la lista de verbos irregulares es aburrido pero necesario para usar el t
 
 (Excepción: la estructura de queja con "wish + would": *"I wish you would ask me"* — aquí "would" va con "wish", no con "if").
 
-## Error 10: Traducción literal del subjuntivo español
+### Error 10: Traducción literal del subjuntivo español
 
 En español usamos el subjuntivo con condicionales: "si tuviera dinero, viajaría". En inglés no existe el subjuntivo de la misma forma, pero hay estudiantes que intentan traducirlo con estructuras extrañas.
 

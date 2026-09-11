@@ -67,13 +67,21 @@ Un **prompt para ChatGPT principiantes** (o para cualquier chat del mismo tipo) 
 
 **Estructura de un buen prompt**, en cuatro bloques. Úsalos en este orden. No hace falta etiquetarlos con XML el primer mes.
 
-**1. Tarea (un verbo).** Resume. Extrae. Reescribe. Traduce. Convierte en lista. Genera preguntas. Un verbo. Si necesitas dos, dos mensajes.
+### 1. Tarea (un verbo)
 
-**2. Contexto (el material y las restricciones de situación).** Pega el texto o di dónde está (“el email de debajo”). Audiencia: “lo va a leer alguien que no es del oficio”. Lo que ya es cierto y no debe cambiar: “el plazo es el 14; no lo toques”.
+Resume. Extrae. Reescribe. Traduce. Convierte en lista. Genera preguntas. Un verbo. Si necesitas dos, dos mensajes.
 
-**3. Formato.** Cinco viñetas. Tabla de tres columnas. Máximo 120 palabras. Español de España. Sin introducción. Sin despedida de coaching.
+### 2. Contexto (el material y las restricciones de situación)
 
-**4. Límite negativo.** “No inventes nombres, fechas ni fuentes que no estén. Si faltan, escribe ‘no aparece’.” Esta línea ahorra más que cualquier rol de experto.
+Pega el texto o di dónde está (“el email de debajo”). Audiencia: “lo va a leer alguien que no es del oficio”. Lo que ya es cierto y no debe cambiar: “el plazo es el 14; no lo toques”.
+
+### 3. Formato
+
+Cinco viñetas. Tabla de tres columnas. Máximo 120 palabras. Español de España. Sin introducción. Sin despedida de coaching.
+
+### 4. Límite negativo
+
+“No inventes nombres, fechas ni fuentes que no estén. Si faltan, escribe ‘no aparece’.” Esta línea ahorra más que cualquier rol de experto.
 
 Plantilla mínima, no sagrada:
 
@@ -223,13 +231,21 @@ Guarda el prompt bueno. Un documento “prompts que me sirvieron” en tu editor
 
 ## Errores habituales al escribir el prompt
 
-**Empezar por el disfraz.** “Eres un…” retrasa la tarea. Si un día necesitas un rol (simulacro de entrevista), será un artículo de roleplay, no el pilar. Hoy, el verbo.
+### Empezar por el disfraz
 
-**No pegar el texto y pedir fidelidad.** “Resume el contrato que te describí.” No se lo describiste: aludiste. O pegas fragmentos o aceptas invención.
+“Eres un…” retrasa la tarea. Si un día necesitas un rol (simulacro de entrevista), será un artículo de roleplay, no el pilar. Hoy, el verbo.
 
-**Pedir a la vez fidelidad y adorno.** “Sé fiel y añade ideas brillantes.” Elige. Primero fiel. El adorno, si hace falta, en un segundo mensaje sobre *tu* borrador ya limpio.
+### No pegar el texto y pedir fidelidad
 
-**Olvidar el formato.** Es el error más barato de arreglar y el que más tiempo pierde. Viñetas. Tabla. Tope de palabras.
+“Resume el contrato que te describí.” No se lo describiste: aludiste. O pegas fragmentos o aceptas invención.
+
+### Pedir a la vez fidelidad y adorno
+
+“Sé fiel y añade ideas brillantes.” Elige. Primero fiel. El adorno, si hace falta, en un segundo mensaje sobre *tu* borrador ya limpio.
+
+### Olvidar el formato
+
+Es el error más barato de arreglar y el que más tiempo pierde. Viñetas. Tabla. Tope de palabras.
 
 **Corregir el tono y no el hecho.** “Hazlo más empático” sobre un plazo inventado te deja un plazo inventado con cariño.
 

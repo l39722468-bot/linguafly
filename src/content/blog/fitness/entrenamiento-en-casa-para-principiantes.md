@@ -62,6 +62,8 @@ Esta guía explica cómo organizar un **entrenamiento en casa para principiantes
 
 > **También puede interesarte:** [Entrenamiento físico: planes de fuerza, movilidad y cardio](/fitness)
 
+Si llegas con la consulta **rutina de ejercicios en casa**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## Qué necesitas antes de empezar
 
 El material más importante es un espacio seguro donde puedas moverte sin chocar con muebles. Una superficie estable, ropa cómoda y agua son suficientes para la primera sesión. Una esterilla puede hacer más cómodos los ejercicios en el suelo, pero no es imprescindible. Más adelante puedes utilizar una mochila, botellas de agua, bandas elásticas o mancuernas si necesitas aumentar la resistencia.

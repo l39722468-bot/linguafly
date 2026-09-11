@@ -43,6 +43,8 @@ La distinción entre vocales cortas y largas no es un capricho del inglés: es u
 
 ---
 
+Consultas como **vocales cortas inglés**, **diferencia entre vocales cortas y largas en inglés** o **ejercicios gratis de vocales inglesas con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Las vocales cortas: breves y relajadas
 
 Las vocales cortas del inglés son breves en duración y, sobre todo, relajadas en tensión muscular. La mandíbula se abre poco, los labios no adoptan una forma marcada y la lengua no se desplaza mucho de su posición de reposo. Esa relajación es exactamente lo que hace que nos cuesten: en español articulamos todas las vocales con bastante tensión y claridad.

@@ -54,6 +54,8 @@ Los cuatro condicionales (zero, first, second, third) son la base. Pero si tu ob
 
 No son raras ni artificiales. Las encontrarás en periódicos serios, en literatura inglesa, en documentos legales y en cualquier contexto donde el inglés escrito tenga que demostrar precisión y registro.
 
+Consultas como **condicionales ingles c1**, **ejercicios de condicionales C1 con soluciones** o **inversión condicional y mixed conditionals ejercicios** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## 1. La inversión condicional
 
 Es la estructura que más diferencia el inglés avanzado del intermedio en términos de condicionales. Consiste en omitir "if" e invertir el auxiliar y el sujeto.
@@ -74,7 +76,7 @@ Es la estructura que más diferencia el inglés avanzado del intermedio en térm
 
 Esta última forma es muy frecuente en emails corporativos y documentos legales formales. La reconocerás mucho en correspondencia profesional de nivel alto.
 
-## 2. Mixed conditionals
+### 2. Mixed conditionals
 
 Los mixed conditionals combinan elementos de dos condicionales diferentes. Los más comunes:
 
@@ -89,7 +91,7 @@ Los mixed conditionals combinan elementos de dos condicionales diferentes. Los m
 
 Los mixed conditionals son más complejos de producir porque requieren mezclar conscientemente los tiempos, pero reconocerlos es fundamental para entender textos avanzados.
 
-## 3. Estructuras formales equivalentes
+### 3. Estructuras formales equivalentes
 
 **"But for" / "Were it not for" / "Had it not been for":**
 
@@ -111,7 +113,7 @@ Alternativas más sofisticadas a "if":
 - *Supposing she changes her mind, what would we do?*
 - *Given that the data is correct, the conclusion follows naturally.*
 
-## 4. Condicionales con "otherwise" y "or else"
+### 4. Condicionales con "otherwise" y "or else"
 
 Estas palabras introducen la consecuencia negativa de no cumplir la condición. Son equivalentes a un first conditional negativo, pero sin la cláusula con "if":
 
@@ -119,7 +121,7 @@ Estas palabras introducen la consecuencia negativa de no cumplir la condición. 
 - *Confirm your booking, or else it will be cancelled.* (= *If you don't confirm...*)
 - *She needs to communicate more; otherwise, the team will struggle.*
 
-## Ejercicios C1
+### Ejercicios C1
 
 **Transforma usando inversión condicional:**
 
@@ -160,7 +162,7 @@ Estas palabras introducen la consecuencia negativa de no cumplir la condición. 
 1. *But for the last bus, we would have been stranded.*
 2. *But for her contacts in the industry, she wouldn't have the clients she has.*
 
-## En el examen C1 Advanced
+### En el examen C1 Advanced
 
 Estas estructuras aparecen principalmente en:
 
@@ -170,7 +172,7 @@ Estas estructuras aparecen principalmente en:
 
 Para consolidar toda la base de los condicionales antes de pasar a estas estructuras avanzadas, revisa nuestra [guía práctica de condicionales en inglés](/blog/temas/ejercicios-condicionales-ingles).
 
-## Ejercicios por nivel
+### Ejercicios por nivel
 
 - [A2-B1 · Zero y First Conditional](/blog/gramatica/ejercicios-condicionales-a2-b1)
 - [B1-B2 · Second y Third Conditional](/blog/gramatica/ejercicios-condicionales-b1-b2)

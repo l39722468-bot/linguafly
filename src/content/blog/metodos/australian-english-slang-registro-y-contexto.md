@@ -40,6 +40,8 @@ faqs:
 
 El **Australian English** incluye coloquialismos que aparecen en cafés, deportes y series. Para un hispanohablante, el error típico no es “no saberlos”, sino **usarlos mal**: demasiado pronto, en el registro equivocado o con matices que no dominas. Esta guía conecta **comprensión** (listening) con **prudencia** (speaking).
 
+Consultas como **australian slang inglés**, **Australian Slang para aprender inglés** o **Australian Slang guía práctica** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Principios de uso seguro
 
 1. **Prioriza comprensión** antes que producción.  

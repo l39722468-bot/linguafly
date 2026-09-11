@@ -43,6 +43,8 @@ Esta guía va de eso: de qué trabajar, en qué orden, y con qué técnicas.
 
 ---
 
+Consultas como **Cómo Mejorar tu Acento en Inglés: Guía Efectiva**, **mejorar acento inglés** o **Cómo Mejorar tu Acento en Inglés para aprender inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Antes de nada: qué significa realmente "mejorar el acento"
 
 Vale la pena clarificar el objetivo porque "tener buen acento" es ambiguo. Para la mayoría de las personas que aprenden inglés como lengua extranjera, el objetivo realista y útil no es sonar exactamente como un nativo de tal o cual ciudad, sino conseguir un acento **inteligible** y **sin fricción**: que te entiendan sin esfuerzo, que no tengan que pedirte que repitas constantemente, y que en conversación puedas centrarte en el contenido de lo que dices en vez de en cómo lo estás diciendo.

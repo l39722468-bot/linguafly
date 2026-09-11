@@ -58,7 +58,7 @@ Dónde buscas, en la práctica, el martes:
 
 El chatbot no está en esa lista. Puede estar *después*, con el archivo, o *antes* con **palabras clave de una búsqueda académica**. No en el medio fingiendo índice. En Scholar no pegas la lista del chat “a ver si cuela”, no citas el título azul, y un PDF sin datos de publicación se completa en el editor o no se usa. Sin acceso, proxy de la biblioteca. El chat no “consigue” el PDF. Un enlace de relleno: carga o NO ESTÁ.
 
-## Palabras clave de una búsqueda académica
+### Palabras clave de una búsqueda académica
 
 Antes de Scholar, a veces no sabes cómo se llama el objeto en la literatura. Ahí el chat sirve. No para inventar el artículo. Para **palabras clave de una búsqueda académica**: sinónimos, inglés de la disciplina, lo que *no* buscar.
 
@@ -90,7 +90,7 @@ Qué no pides:
 
 Si el chat suelta jerga que no está en tus apuntes, contrastas en el syllabus. Un término inventado contamina Scholar. Paras. Abres *un* paper de clase y copias *sus* palabras clave.
 
-## Lectura de un abstract: para decidir, no para citar
+### Lectura de un abstract: para decidir, no para citar
 
 **Lectura de un abstract** es el filtro. Cinco minutos. Decide si pides el PDF o pasas al siguiente resultado. No decide la cita de la página 47. No decide un porcentaje que “sale en el estudio”.
 
@@ -119,7 +119,7 @@ Contrastas con el texto que pegaste. Si el chat inventa un n o un porcentaje que
 
 No pegas al chat un título y pides “regenera el abstract”. Te lo inventará. **No un paper inventado**, tampoco en versión corta.
 
-## IA resume un paper que sí tienes
+### IA resume un paper que sí tienes
 
 **IA resume un paper que sí tienes.** La frase es literal. Tienes el PDF o el HTML. Lo has bajado por el proxy, te lo ha pasado el profesor, está en el campus. Entonces el chatbot (o NotebookLM, o Claude) puede ayudar a *navegar* ese texto. No a *ser* ese texto.
 
@@ -157,7 +157,7 @@ Qué no pides sobre un paper abierto:
 
 **Scholar más un chatbot** es esa secuencia, no un producto híbrido. Scholar (o el catálogo) → PDF en disco → resumen contrastado. Si saltas el primero, estás pidiendo **ChatGPT artículos científicos** de la nada. Si saltas el contraste, estás copiando un resumen que puede haber invertido el sentido.
 
-## Ejemplo: Marta y el abandono en FP
+### Ejemplo: Marta y el abandono en FP
 
 Ejemplo trabajado. Inventado para el gesto. No es una revisión de la literatura. No uses estos títulos como si existieran. Marta tiene que escribir 1.800 palabras sobre abandono en formación profesional en España. Aquí el oficio es encontrar textos y no citar humo.
 
@@ -177,7 +177,7 @@ Marta no copia la ficha a la bibliografía. Copia el DOI. Lo pega en doi.org. No
 
 Si Marta hubiera empezado por “ChatGPT, dame la bibliografía”, habría perdido la tarde en 404 y en un 64 % que no existe. El orden inverso (índice → archivo → modelo) es más corto de lo que parece. El otro orden solo parece corto.
 
-## Errores al buscar papers con un chatbot
+### Errores al buscar papers con un chatbot
 
 **Tratar el chat como Scholar.** No lo es. No indexa. Completa moldes.
 

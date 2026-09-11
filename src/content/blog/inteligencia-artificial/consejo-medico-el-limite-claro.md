@@ -65,7 +65,7 @@ Lo que sí cabe, con recorte y sin nombres:
 
 Eso no convierte el hilo en consulta. Convierte el rato de espera en un papel más claro. [La IA no sustituye a un profesional colegiado](/blog/inteligencia-artificial/la-ia-no-sustituye-a-un-profesional-colegiado): aquí se aplica al acto sanitario. El chat es auxiliar de redacción. No es titular.
 
-## No es un chatbot de urgencias
+### No es un chatbot de urgencias
 
 **No un chatbot de urgencias.** La frase hay que leerla literal. El producto no está al otro lado de un pulsador de alarma. No localiza. No manda una ambulancia. No ve cómo estás. No tiene tu historia. Un mensaje fluido a las tres de la mañana no es un servicio de urgencias.
 
@@ -82,7 +82,7 @@ Qué sí: teléfono, desplazamiento, persona. El chat se cierra. Si más tarde, 
 
 La búsqueda **cuándo ir a urgencias** no se responde aquí con un árbol de decisiones. Se responde con el sitio: el servicio, no la ventana. El modelo no mejora porque le des más detalles del malestar. Empeora la privacidad y te deja un párrafo que parece una consulta.
 
-## IA, síntomas y diagnóstico: el borde útil
+### IA, síntomas y diagnóstico: el borde útil
 
 **IA síntomas y diagnóstico** es el cruce donde más gente se equivoca. El error no es “usar el chat”. Es pedirle el nombre de lo que te pasa.
 
@@ -125,7 +125,7 @@ Compruebas la salida como si fuera un borrador de papel, no un informe:
 
 El glosario vale para **una** palabra. No para un párrafo de informe. “¿Qué significa este término?” no es “explícame mi cuadro”. Si pegas tres páginas de evolución, has cambiado de tarea: has pedido una lectura clínica. Esa no está en el catálogo de un LLM de consumo.
 
-## Preparar la visita no sustituirla
+### Preparar la visita no sustituirla
 
 **Preparar la visita no sustituirla** es el trabajo de hoy. Un papel con ocho preguntas no es el alta. No es el diagnóstico. No es la receta. Es un recordatorio para no salir de la consulta con la duda que llevabas.
 
@@ -154,7 +154,7 @@ Un ejemplo trabajado, sin cuadro clínico. Palabra suelta que ha salido en un in
 
 Salida que tiras: “con este ayuno y lo que cuentas, encaja con…”. Eso ya es diagnóstico. No estaba pedido. No se usa.
 
-## Límites sanitarios de un LLM: qué no pegas
+### Límites sanitarios de un LLM: qué no pegas
 
 **Límites sanitarios de un LLM** se juegan *antes* del intro. El modelo no “anonimiza por ti” porque le pidas discreción. Si el nombre, el número de historia o el PDF del laboratorio están en el mensaje, han viajado.
 
@@ -173,7 +173,7 @@ El detalle de por qué un informe clínico no entra en un producto de consumo es
 
 Cuentas: el ChatGPT del móvil personal no es la historia clínica digital. Cerrar el hilo no deshace el envío. Tratar el pegado como un comentario público sigue siendo la higiene. Salud y modelos de lenguaje no se llevan bien con el atajo de “es más rápido que leer el informe”.
 
-## Si el modelo se niega, paras
+### Si el modelo se niega, paras
 
 A veces el producto corta: política, filtro, “no puedo ayudarte con eso”. Otras, peor: contesta con un párrafo que parece consulta. El corte es más claro. La prosa fluida es el riesgo.
 

@@ -62,7 +62,7 @@ La **primera palada de una pesquisa** es eso. Si ya tienes la URL oficial (ine.e
 
 No uses la entrada para salud, dictamen, “¿firmo?”, un paper que “seguro que está citado”. Para papers, el chatbot no es Scholar: [papers: el chatbot no es Google Scholar](/blog/inteligencia-artificial/papers-el-chatbot-no-es-google-scholar). Wikipedia puede *mencionar* un artículo. Tú lo resuelves fuera, o no existe para ti.
 
-## ChatGPT resume Wikipedia
+### ChatGPT resume Wikipedia
 
 **ChatGPT resume Wikipedia** cuando se lo pides o cuando “busca” y parafrasea una ficha. El resumen es cómodo. Es el sitio donde se pierde el mapa.
 
@@ -102,7 +102,7 @@ Si el chat te da un resumen *sin* que hayas abierto, tu siguiente gesto no es co
 
 Otro modelo: misma regla. El objeto es la entrada. El resumen no lo es.
 
-## Ir a las referencias del pie
+### Ir a las referencias del pie
 
 **Ir a las referencias de un artículo** es el job de esta página. El mapa señalaba el terreno. El pie es la lista de sitios a los que *sales*.
 
@@ -119,7 +119,7 @@ Tipos de nota: boletín o sede (candidato a cierre si el párrafo dice eso); web
 
 No cites “Wikipedia, nota 12”. Citas el destino de la 12 *después* de abrirlo. Tres notas abiertas valen más que un resumen de veinte líneas. Si el pie tiene 200 referencias, abres las de las dos frases que te llevas.
 
-## IA no es fuente primaria (tampoco la ficha)
+### IA no es fuente primaria (tampoco la ficha)
 
 **IA no una fuente primaria.** La frase vale para el chat y, en la práctica de cierre, para Wikipedia. Una fuente primaria, aquí, es el documento que *emite* el hecho: el cuadro del INE, el PDF del BOE, la guía en la sede, el paper que has abierto en la revista. El modelo predice texto. La wiki resume y encadena notas. Los dos pueden acertar. Ninguno ocupa el sitio del emisor.
 
@@ -137,7 +137,7 @@ Confirmar entre dos predictores (ChatGPT contra Gemini, o el chat contra la memo
 
 Esta página no enseña a editar Wikipedia ni copia la norma de tu centro. Pala, pie, original. Si tu guía prohíbe citar la wiki, se cumple. El hecho, igual, no se cierra en el infobox.
 
-## Citar Wikipedia o no
+### Citar Wikipedia o no
 
 **Citar Wikipedia o no** se responde con el uso, no con un eslogan.
 
@@ -149,7 +149,7 @@ En un trabajo académico, no uses Wikipedia como autoridad. El original, o no us
 
 No pidas un APA de la entrada. No cites “consultado el…” como si fuera el BOE. No copies el pie entero a tu bibliografía. Anota la URL de la wiki para volver al mapa. Eso es rastro. No es fuente.
 
-## Ejemplo: Nora, una entrada, el pie
+### Ejemplo: Nora, una entrada, el pie
 
 Nora tiene que explicar en una reunión interna, quince minutos, qué es *a grandes rasgos* la Ley 19/2013 (transparencia) y dónde se lee el texto. No pide un dictamen. No pide si su fundación “cumple”. No pide un TFM. Necesita el nombre correcto, el boletín, y no colar un artículo inventado.
 
@@ -179,7 +179,7 @@ Resultado que lleva a la reunión: nombre de la norma; enlace al BOE que *ella* 
 
 Si Nora hubiera pegado el resumen del modelo, habría viajado un artículo de ley que no estaba en el lead y un paper que no existe. El infobox no lo habría impedido.
 
-## Errores al usar Wikipedia con un chatbot
+### Errores al usar Wikipedia con un chatbot
 
 **Quedarte en el resumen.** ChatGPT resume Wikipedia. El resumen no es la entrada. La entrada no es el emisor.
 
@@ -199,7 +199,7 @@ Si Nora hubiera pegado el resumen del modelo, habría viajado un artículo de le
 
 **Tratar esto como verificar cualquier cita de IA.** El objeto de *esta* página es la entrada. El método general de chips y DOI es el artículo de pedir fuentes. No los mezcles en la cabeza: aquí el clic es el pie de *esa* ficha.
 
-## Para aquí
+### Para aquí
 
 **Wikipedia y chatbots para investigar** cabe en cinco líneas:
 

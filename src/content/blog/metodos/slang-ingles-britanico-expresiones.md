@@ -43,6 +43,8 @@ Esta guía te introduce en el inglés coloquial del Reino Unido — el que se us
 
 ---
 
+Quien busca **Slang Inglés Británico: 60 Expresiones y Significados** o **slang británico y expresiones coloquiales gratis** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## ¿Por Qué Aprender Slang Británico?
 
 - Para **entender series, películas y podcasts británicos** sin perderte constantemente
@@ -52,7 +54,7 @@ Esta guía te introduce en el inglés coloquial del Reino Unido — el que se us
 
 ---
 
-## Expresiones de Aprobación y Entusiasmo
+### Expresiones de Aprobación y Entusiasmo
 
 | Expresión | Significado | Ejemplo |
 |-----------|-------------|---------|
@@ -67,7 +69,7 @@ Esta guía te introduce en el inglés coloquial del Reino Unido — el que se us
 
 ---
 
-## Para Describir a Personas
+### Para Describir a Personas
 
 | Expresión | Significado | Ejemplo |
 |-----------|-------------|---------|
@@ -84,7 +86,7 @@ Esta guía te introduce en el inglés coloquial del Reino Unido — el que se us
 
 ---
 
-## Expresiones Cotidianas Imprescindibles
+### Expresiones Cotidianas Imprescindibles
 
 | Expresión | Significado | Ejemplo |
 |-----------|-------------|---------|
@@ -101,7 +103,7 @@ Esta guía te introduce en el inglés coloquial del Reino Unido — el que se us
 
 ---
 
-## Expresiones para el Pub (Imprescindibles en el Reino Unido)
+### Expresiones para el Pub (Imprescindibles en el Reino Unido)
 
 El pub es el centro social de la cultura británica. Estas expresiones son vitales:
 
@@ -118,7 +120,7 @@ El pub es el centro social de la cultura británica. Estas expresiones son vital
 
 ---
 
-## Cockney Rhyming Slang: El Código Secreto de Londres
+### Cockney Rhyming Slang: El Código Secreto de Londres
 
 El **Cockney Rhyming Slang** es un sistema de argot originario del East End de Londres que sustituye palabras por frases que riman con ellas. Lo encontrarás en series como *EastEnders* o *Lock, Stock and Two Smoking Barrels*:
 
@@ -136,7 +138,7 @@ El **Cockney Rhyming Slang** es un sistema de argot originario del East End de L
 
 ---
 
-## Diferencias Clave: Slang Británico vs Americano
+### Diferencias Clave: Slang Británico vs Americano
 
 | Concepto | Inglés Británico | Inglés Americano |
 |---------|-----------------|-----------------|
@@ -151,7 +153,7 @@ El **Cockney Rhyming Slang** es un sistema de argot originario del East End de L
 
 ---
 
-## Slang Regional: No Todo el Reino Unido Habla Igual
+### Slang Regional: No Todo el Reino Unido Habla Igual
 
 El **slang británico** varía enormemente según la región:
 
@@ -163,7 +165,7 @@ El **slang británico** varía enormemente según la región:
 
 ---
 
-## Cómo Practicar el Slang Británico
+### Cómo Practicar el Slang Británico
 
 1. **Series de TV**: *EastEnders*, *Peaky Blinders*, *Fleabag*, *The Inbetweeners*
 2. **Comedias**: *The Office* (versión británica), *Absolutely Fabulous*, *Little Britain*

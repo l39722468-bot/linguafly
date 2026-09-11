@@ -36,6 +36,8 @@ canonical: 'https://linguafly.app/blog/examenes/ingles-universitario-academico'
 
 El inglés académico es un registro especializado con sus propias reglas, convenciones y vocabulario. Dominarlo es imprescindible si estudias o planeas estudiar en una universidad anglófona, si publicas en revistas internacionales o si simplemente necesitas leer y producir textos científicos en inglés.
 
+Consultas como **Inglés Universitario y Académico: Guía Completa**, **academic english** o **ingles universitario academico** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 Esta guía cubre las **competencias académicas esenciales** que todo estudiante hispanohablante necesita desarrollar.
 
 ---

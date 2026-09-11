@@ -44,6 +44,8 @@ Para muchos estudiantes de inglés, el South African English aparece por primera
 
 ---
 
+Consultas como **El Acento Sudafricano en Inglés: Guía Clara**, **acento inglés sudafricano** o **Cómo Suena el Acento Sudafricano en Inglés para aprender inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La base histórica: por qué existe este acento
 
 El inglés llega a Sudáfrica con los colonos británicos en el siglo XIX, sobre todo con el asentamiento del Cabo (hoy Ciudad del Cabo) que pasó de la administración holandesa a la británica a principios de ese siglo. Desde el principio, el inglés sudafricano se desarrolla en contacto con el afrikáans (que evolucionó del holandés de los colonos originales) y con las lenguas de los pueblos africanos de la región.

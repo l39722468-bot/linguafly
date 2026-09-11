@@ -40,6 +40,8 @@ Esto no es una exageración. Los estudios de percepción del habla muestran que 
 
 ---
 
+Consultas como **patrones entonacion ingles**, **patrones de entonación inglesa con ejemplos** o **ejercicios gratis de entonación y ritmo inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Los dos patrones básicos: ascendente y descendente
 
 La entonación del inglés se puede simplificar, en un primer nivel, en dos movimientos:

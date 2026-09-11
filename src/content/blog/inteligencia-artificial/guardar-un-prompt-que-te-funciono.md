@@ -65,7 +65,7 @@ No va a la nota:
 
 Una **prompt library en español** digna de ese nombre, al principio, son diez fichas tuyas. No doscientos prompts de internet. Si no has corrido el prompt contra un original, no está en la biblioteca. Está en la lista de deseos.
 
-## Dónde guardar instrucciones de IA
+### Dónde guardar instrucciones de IA
 
 **Dónde guardar instrucciones de IA:** en un sitio que controles tú y que no dependa de que el producto conserve el hilo. El chat no es disco duro.
 
@@ -86,7 +86,7 @@ Una carpeta con veinte capturas no es método. Una página con cuatro campos por
 
 Privacidad: la nota vive en tu máquina o en la nube que ya uses para trabajo. No pegues en la nota el contrato del cliente “de ejemplo”. Deja el hueco. El ejemplo de salida, si reproduce un caso real, anonimiza igual que en el chat.
 
-## La ficha: cuatro campos y un hueco
+### La ficha: cuatro campos y un hueco
 
 Una **plantilla de prompt reutilizable** cabe en media página. Si no cabe, estás archivando un ensayo.
 
@@ -117,7 +117,7 @@ Si falla, una línea:
 
 Eso es **guardar un prompt que te funcionó**. No es un sistema de etiquetas de influencer. Si quieres etiquetas, tres como mucho: email, acta, lista. El buscador de tu editor hace el resto si el título es humano.
 
-## Ejemplo trabajado: del hilo largo a la nota
+### Ejemplo trabajado: del hilo largo a la nota
 
 Has usado el chat para pasar notas de una reunión a una tabla. El hilo tiene doce mensajes: un intento vago, un rol que luego quitaste, un pegado de un correo que no venía a cuento, tres correcciones. Al final, la tabla te valió. Ese hilo no se archiva. Se extrae.
 
@@ -182,7 +182,7 @@ En la ficha, los “hechos fijos” son un hueco, no el jueves 10:00 de aquella 
 
 Salida que valió: el párrafo de 90 palabras que enviaste, con los dos hechos que sí eran de aquel día, ya fuera del chat. En la nota puedes guardar *un* ejemplo genérico (“Adjunto lo que hay. El anexo, si llega, lo vemos el jueves.”) si te sirve de tono, no el hilo completo.
 
-## Cómo reutilizar un buen prompt
+### Cómo reutilizar un buen prompt
 
 Pasos, el día que vuelve a tocar:
 

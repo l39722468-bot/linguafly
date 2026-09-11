@@ -50,6 +50,8 @@ canonical: 'https://linguafly.app/blog/trabajo/tecnica-star-entrevista-ingles'
 
 Las preguntas de comportamiento son esas que empiezan con *"Tell me about a time when..."* o *"Give me an example of..."*. Son las favoritas de los entrevistadores porque revelan cómo actúas realmente bajo presión, en equipo o ante un conflicto. Y la técnica STAR es la forma más efectiva de responderlas.
 
+Quien busca **técnica STAR entrevista inglés ejemplos frases** o **STAR method entrevista trabajo inglés preguntas comportamiento** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Qué es la técnica STAR
 
 STAR es un acrónimo:

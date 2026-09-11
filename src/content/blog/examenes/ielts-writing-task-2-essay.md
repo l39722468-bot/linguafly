@@ -44,6 +44,8 @@ Para el contexto completo del examen, incluyendo las otras partes, consulta la [
 
 ---
 
+Consultas como **IELTS Writing Task 2: Estructura y Ejemplos**, **estructura del IELTS Writing Task 2 paso a paso** o **tipos de ensayo IELTS Task 2 con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Los tipos de pregunta del Task 2
 
 ### 1. Opinion essay (Agree/Disagree)

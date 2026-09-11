@@ -57,7 +57,7 @@ Terminar a tiempo para cenar es una decisión de entrenamiento, no de Instagram.
 
 Si sales del salón a las 21:35, la sartén tiene que estar caliente a las 21:40. Si sales a las 22:20 porque añadiste “un poco más”, la cena se come el sueño. Recorta la sesión. No recortes el plato.
 
-## Tres cenas que se ensamblan (no se cocinan)
+### Tres cenas que se ensamblan (no se cocinan)
 
 Ten siempre, no “cuando recuerdes”:
 
@@ -77,7 +77,7 @@ Más combinaciones, misma lógica:
 
 No hace falta que sepan distintas las tres noches de gym. Hace falta que existan. El cerebro a las 21:50 entiende “la de huevo”, no una receta nueva.
 
-## Cómo se monta cada una (reloj en la encimera)
+### Cómo se monta cada una (reloj en la encimera)
 
 Esto no es un recetario. Es el orden, para no abrir el móvil mientras “se calienta el aceite”.
 
@@ -91,7 +91,7 @@ El sabor pide aceite, sal, limón, pimentón, un queso que se note. Si la cena s
 
 Si llegas y no hay ninguno de los tres, el fallo fue el lunes, no las 21:45. No improvises un guiso. Un plato de bar o de pedido. Y huevos en la lista antes de dormirte.
 
-## Lo que tiene que estar en casa el lunes
+### Lo que tiene que estar en casa el lunes
 
 Si esto falta, el pedido no es falta de voluntad:
 
@@ -111,7 +111,7 @@ Revisa el domingo por la noche, no a las 21:38. ¿Hay huevos, un bote, pan que n
 
 Congelador: rebanadas de pan, verdura, una ración de arroz o de guiso plano. Descongelar por la mañana del día de gym. Si el leftover del domingo sigue el jueves y huele raro, fuera.
 
-## Pedido, bar y el “me lo he ganado”
+### Pedido, bar y el “me lo he ganado”
 
 Delivery: un plato. Proteína visible. No tres extras. De vez en cuando. Si es el sistema tres noches, el menú no existe.
 
@@ -123,7 +123,7 @@ Un pedido que no rompe la semana: un plato con proteína visible. El que sí la 
 
 Viernes: puedes salir. Un plato. Vuelves al comodín el lunes. Compensar el sábado con un ayuno de penitencia estropea el lunes.
 
-## Si no tienes hambre
+### Si no tienes hambre
 
 Ducha. Agua. Diez minutos. Luego el plato, aunque sea más pequeño, con las tres piezas. La falta de hambre post-sesión es común. El ayuno de premio no es recuperación. Un yogur solo, si el mediodía ya fue serio, puede puente; si el día fue café y prisas, no.
 
@@ -133,7 +133,7 @@ Si a las 22:10 sigues sin hambre, no te obligues a un banquete. Sí te sientas c
 
 Ducha larga más serie más “ya es tarde” es cómo se salta el plato. Temporizador de diez minutos al terminar. Cuando suene, comes.
 
-## Semana tipo de cenas de gym
+### Semana tipo de cenas de gym
 
 Esto es un ejemplo. Cámbialo por tus tres ensamblajes. Lo que no cambies: las noches de sesión no improvisan.
 
@@ -155,7 +155,7 @@ Tres noches rápidas no son tres noches tristes. Aceite, pimentón, limón, un q
 
 Si entrenas martes, jueves y sábado, la misma plantilla se desplaza. La regla es: **noche de sesión = ensamblaje escrito**. Una semana que se tuerce: el miércoles pediste. El jueves vuelves al bote. No “recalculas el mes”.
 
-## Niños, trabajo, viaje
+### Niños, trabajo, viaje
 
 **Niños en la mesa.** La tortilla escala. El bote escala. El menú de adulto caprichoso a las 22:10 no. Si cenas con ellos a las 20:00 y entrenas después, un extra pequeño post-sesión (yogur, fruta, tostada) puede bastar porque **ya** hubo plato. Eso no es cenar dos veces de más ni quedarte en blanco. Si entrenas a las 19:00 y cenas en familia a las 21:00, esa cena familiar es la post-entreno. Tiene que tener proteína, no solo lo que comen ellos de pasta blanca. Añade huevo, atún, leftover. No montes un segundo servicio a las 22:30 “de atleta”.
 
@@ -169,7 +169,7 @@ Cocina de oficina o microondas del gym: el tupper no es estética. Es la cena. E
 
 Turno raro: la “cena” es la comida ancla después de la sesión, aunque el reloj diga 05:00. Mismas tres piezas. Compartir piso: leftover etiquetado. Las reglas de nevera se hablan el domingo, no con hambre.
 
-## Errores de la cena post-gym
+### Errores de la cena post-gym
 
 - Empezar a cocinar un recetario de 18 pasos. A las 21:50 no vas a sofreír para un estofado. Vas a pedir. El recetario era para el domingo.
 - Solo ensalada “para compensar”. Hojas y vinagre no cierran sentadilla. Verdura sí, al lado de proteína e hidrato.

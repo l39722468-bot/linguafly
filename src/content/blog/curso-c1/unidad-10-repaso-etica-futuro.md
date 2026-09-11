@@ -48,6 +48,8 @@ excerpt: >-
 
 La Unidad 10 cierra el primer bloque del curso C1 con un repaso aplicado a **Philosophy, Ethics and the Future**. El objetivo no es añadir una lista nueva de reglas, sino aprender a combinar tres recursos que ya has trabajado: **distancing language**, **impersonal constructions** y **advanced clefts**.
 
+Si llegas con la consulta **distancing language ejercicios C1**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 Estas herramientas son especialmente importantes cuando hablamos de inteligencia artificial, responsabilidad tecnológica, privacidad o decisiones que afectan a generaciones futuras. En esos temas abundan las afirmaciones atribuidas, las predicciones inciertas y los conceptos debatidos. Un texto C1 debe dejar claro qué se ha observado, qué se alega, qué se considera probable y qué elemento quiere destacar el autor.
 
 Compara:

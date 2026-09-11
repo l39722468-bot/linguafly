@@ -43,6 +43,8 @@ Esta guía desglosa las 4 tareas, te da estructuras ganadoras con plantillas lis
 
 ---
 
+Quien busca **tareas toefl speaking** o **TOEFL Speaking cuatro tareas con respuestas** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Cómo se puntúa TOEFL Speaking
 
 Cada tarea se puntúa de 0 a 4 por un evaluador humano + IA. El promedio se convierte a la escala 0-30. Los criterios son:

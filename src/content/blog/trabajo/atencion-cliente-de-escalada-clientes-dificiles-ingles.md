@@ -40,6 +40,8 @@ faqs:
 
 En **atención al cliente en inglés**, el cliente enfadado no siempre busca “explicación lógica” primero: muchas veces busca **sentirse escuchado**. Tu objetivo es **reducir arousal emocional** sin ceder en políticas ni prometer milagros.
 
+Consultas como **Clientes Difíciles en Inglés: Frases para Calmar**, **de-escalation inglés** o **atencion cliente de escalada clientes dificiles ingles para el trabajo** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ### Marco simple (4 pasos)
 
 1. **Acknowledge:** reconoce la emoción sin juicio.  

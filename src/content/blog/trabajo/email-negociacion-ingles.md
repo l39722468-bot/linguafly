@@ -52,6 +52,8 @@ canonical: 'https://linguafly.app/blog/trabajo/email-negociacion-ingles'
 
 La negociación por email en inglés requiere un equilibrio preciso: ser claro sin ser agresivo, firme sin ser rígido, y cortés sin parecer débil. La buena noticia es que hay estructuras y frases que funcionan casi siempre.
 
+Quien busca **como negociar por email ingles** o **Emails de Negociación en Inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Antes de escribir: lo que debes tener claro
 
 Antes de empezar a teclear, necesitas tener definidos tres elementos:
@@ -62,7 +64,7 @@ Antes de empezar a teclear, necesitas tener definidos tres elementos:
 
 Eso determina tu tono. Si tienes alternativas, puedes ser más firme. Si necesitas este acuerdo, tendrás que ser más flexible y estratégico.
 
-## Hacer una propuesta inicial
+### Hacer una propuesta inicial
 
 El primer email de una negociación debe incluir:
 - Contexto claro (quién eres, qué propones)
@@ -80,7 +82,7 @@ El primer email de una negociación debe incluir:
 - *The initial contract term would be [duración], renewable upon mutual agreement.*
 - *We would require a [porcentaje]% deposit, with the remainder due upon completion.*
 
-## Responder a una propuesta
+### Responder a una propuesta
 
 Cuando recibes una propuesta y quieres negociar, no respondas con un "no" directo. Usa el método de reconocer y redirigir:
 
@@ -88,7 +90,7 @@ Cuando recibes una propuesta y quieres negociar, no respondas con un "no" direct
 - *I have reviewed your offer carefully and would like to discuss a few points.*
 - *The proposal is largely in line with what we had in mind, though there are a couple of areas I'd like to explore further.*
 
-## Pedir concesiones o un descuento
+### Pedir concesiones o un descuento
 
 Esta es la parte que más incomoda a los hispanohablantes, pero es completamente normal en inglés profesional:
 
@@ -100,7 +102,7 @@ Esta es la parte que más incomoda a los hispanohablantes, pero es completamente
 
 En el hub [Emails Profesionales en Inglés](/blog/temas/emails-profesionales-ingles) encontrarás más recursos para comunicarte con eficacia en contextos laborales.
 
-## Hacer una contraoferta
+### Hacer una contraoferta
 
 Una contraoferta bien estructurada acepta parte de la propuesta original y modifica lo que no te conviene:
 
@@ -108,7 +110,7 @@ Una contraoferta bien estructurada acepta parte de la propuesta original y modif
 - *Your terms around delivery work well for us. We would like to propose a payment schedule of [condiciones] instead of the upfront payment.*
 - *We are aligned on [punto acordado]. On the question of [punto en disputa], our position is [tu propuesta].*
 
-## Gestionar la presión y los plazos
+### Gestionar la presión y los plazos
 
 A veces el otro lado pone presión artificial con plazos o ultimátums. Puedes responder sin perder la calma:
 
@@ -125,7 +127,7 @@ Cuando ambas partes están de acuerdo, es importante confirmarlo por escrito de 
 - *We are happy to proceed on those terms. Please send across the contract when ready.*
 - *I look forward to a successful collaboration.*
 
-## Ejemplo: contraoferta de precio
+### Ejemplo: contraoferta de precio
 
 > **Subject:** Re: Proposal for Content Translation Services — Revised Terms
 >

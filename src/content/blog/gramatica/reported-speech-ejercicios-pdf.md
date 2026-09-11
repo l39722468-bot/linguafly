@@ -43,6 +43,8 @@ Si quieres repasar las reglas antes de practicar, la guía [Reported Speech en I
 
 ---
 
+Quien busca **Reported Speech: Ejercicios con Soluciones en PDF** o **ejercicios reported speech pdf** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Bloque 1 — Backshift y afirmaciones (B1-B2)
 
 El **backshift** es el cambio de tiempo verbal al pasar de estilo directo a indirecto.

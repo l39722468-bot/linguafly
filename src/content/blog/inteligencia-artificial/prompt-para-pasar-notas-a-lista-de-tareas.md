@@ -65,7 +65,7 @@ Sí es una tarea, aunque esté mal escrita:
 
 **De reunión a checklist** es un filtro, no un brainstorming. El checklist fiel puede quedar corto. Eso es señal de reunión floja, no de prompt flojo. No le pidas al modelo que “complete lo que faltó”. Faltó en la sala. Se completa en la siguiente reunión, no en el chat.
 
-## El prompt: verbo, dueño y fecha
+### El prompt: verbo, dueño y fecha
 
 **Prompt action items en español**, para copiar y pegar. Cambia solo el bloque de notas.
 
@@ -104,7 +104,7 @@ Si el modelo ignora la tabla: última línea del mensaje, en claro: “SOLO TABL
 
 Opcional, no obligatorio: dos filas juguete encima del bloque NOTAS (una completa, una con “no aparece”). Eso es few-shot de formato. No sustituye la prohibición de inventar. No pongas un tercer ejemplo raro.
 
-## Ejemplo trabajado: notas feas a tabla
+### Ejemplo trabajado: notas feas a tabla
 
 Notas reales de una reunión corta, desordenadas a propósito. Así llegan. Así las pegas, después de quitar apellidos de más, teléfonos y cualquier cifra que no haga falta.
 
@@ -164,7 +164,7 @@ Si el modelo ha puesto a Marta en “avisar a compras”, un turno, no un prompt
 
 Eso es **ChatGPT lista de próximos pasos** cuando ChatGPT se comporta. El nombre del chat da igual. El original al lado, no.
 
-## Celdas vacías: “no aparece” y nada más
+### Celdas vacías: “no aparece” y nada más
 
 La marca **no aparece** es parte del formato. No dejes la celda en blanco: el modelo o tú la rellenaréis luego de memoria. No pongas un guion, un “TBD”, un “por definir”, un “ASAP”. Esas etiquetas parecen profesionales y son invención suave.
 
@@ -187,7 +187,7 @@ Dueños: solo personas (o cargos) *citados como encargados de esa acción*. “M
 
 Si una fila no tiene verbo de acción al leerla en voz alta, no es fila. “8 % en octubre” no se hace. Se informa o se presupuesta; eso tiene que estar dicho.
 
-## Cómo comprobar y cuándo cortar el hilo
+### Cómo comprobar y cuándo cortar el hilo
 
 La tabla no se usa hasta que la has leído contra las notas. Cinco minutos. Método:
 

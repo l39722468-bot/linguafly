@@ -79,7 +79,7 @@ Pasos para llenar:
 
 Empieza ligero. Dos libros. Notarás el saco en las manos y en el pecho. Si empiezas con 12 kg de detergente el día uno, la lumbar o la muñeca firman un contrato que no habías leído.
 
-## Cremallera, peso centrado, dos asas
+### Cremallera, peso centrado, dos asas
 
 La mitad del ejercicio es el saco quieto. La otra mitad es el gesto. Si saltas el cierre, el gesto se va.
 
@@ -111,7 +111,7 @@ Prueba de 10 segundos **antes** de la primera serie:
 3. Lo pegas al pecho. Lo bajas. Lo vuelves a pegar.
 4. Si se abre, si se clava, si se va a un lado: paras. Arreglas. Luego entrenas.
 
-## Cómo sujetar la mochila para la sentadilla goblet
+### Cómo sujetar la mochila para la sentadilla goblet
 
 ![Sentadilla goblet: mochila al pecho, flecha EMPUJA en los talones](/blog/entrenamiento/entrenar-con-una-mochila-como-cargarla/goblet.png)
 
@@ -149,7 +149,7 @@ Si la rodilla pincha de forma localizada: paras la goblet. No añadas un libro �
 
 Regresión: sentadilla a una silla que no ruede, saco más ligero o sin saco. Misma colocación de pies. Misma regla de talones.
 
-## Cómo sujetar la mochila para la bisagra de cadera
+### Cómo sujetar la mochila para la bisagra de cadera
 
 Bisagra (hip hinge): cadera atrás, tronco largo, rodillas poco flexionadas. El saco cerca del cuerpo. No es un remo. No es una sentadilla. Es empujar la cadera atrás y volver a empujar la cadera delante.
 
@@ -185,7 +185,7 @@ Si sientes un pinchazo en la lumbar o en un isquio de forma localizada: paras **
 
 No conviertas la bisagra en remo. El codo no tira. Las manos sujetan. La cadera mueve. El remo es otro artículo, enlazado arriba.
 
-## Cuánto peso y cómo añadir un libro
+### Cuánto peso y cómo añadir un libro
 
 Progresión aburrida. Funciona.
 
@@ -213,7 +213,7 @@ Tres series. 8 a 12. Si haces 20 porque “es poco peso”, añade un libro y vu
 
 Dónde encaja en la semana: los mismos tres días de la rutina de casa. La goblet puede sustituir la sentadilla al aire **cuando** la sentadilla al aire ya es holgada. No el primer día si aún te sientas a la silla. La bisagra es extra, no un séptimo bloque que alarga la sesión a 50 minutos el mes uno. Si la sesión de casa ya son 25 minutos, añade la bisagra **o** carga la sentadilla, no las dos el mismo día al principio.
 
-## Seguridad: portátil, líquidos, un solo hombro
+### Seguridad: portátil, líquidos, un solo hombro
 
 Repite esto cada vez que llenes el saco. No es un disclaimer largo. Es la lista:
 

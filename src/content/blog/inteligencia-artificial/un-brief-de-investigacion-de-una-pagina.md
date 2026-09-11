@@ -58,7 +58,7 @@ Qué no es: un TFM (no hay marco teórico ni tutor de máster); un ensayo de asi
 
 Si no cabe en una página, no es brief. Has empezado el informe. Recortas alcance, no alargas el folio.
 
-## ChatGPT y la pregunta de investigación
+### ChatGPT y la pregunta de investigación
 
 **ChatGPT pregunta de investigación** no significa que el modelo elija tu tesis. Significa que pegas un tema vago y pides *una* pregunta acotada, con variables que se puedan contrastar. Tú aceptas o tiras. El modelo completa huecos; un tema de tres palabras (“bibliotecas y ayudas”) no es pregunta.
 
@@ -89,7 +89,7 @@ Preguntas que salen mal: “¿qué hay que saber sobre X?” (no se cierra); “
 
 Una pregunta buena se puede leer en voz alta: “eso se busca en la sede o no se busca”. Forma, no dato: “Qué convocatorias de [tipo], en [territorio], vigentes en [año], aparecen en la web del [organismo], y qué plazo *dice esa web*.” Si el organismo o el año no los sabes, el brief anota el hueco. No los rellena el chat.
 
-## Qué se busca y qué no
+### Qué se busca y qué no
 
 **Qué se busca y qué no** es el bloque que evita que el brief se convierta en un chat infinito. **IA alcance de una pesquisa** no es un mapa de calor de un sector. Es una lista de inclusiones y exclusiones, en castellano plano.
 
@@ -161,7 +161,7 @@ Si el chat te suelta un estudio García 2021, esa línea no entra. No la “comp
 
 Cuando pases a abrir, el método es el de verificar una a una: si no carga o no dice eso, cae. El brief solo promete *dónde vas a mirar*, no que el dato ya esté contrastado.
 
-## El entregable de una investigación corta
+### El entregable de una investigación corta
 
 **Entregable de una investigación corta** es el folio, no el chat. Lo escribes en un documento tuyo (nota, mail, Google Doc). El hilo se pierde, se mezcla, se regenera. El colega no tiene que leer veinte mensajes.
 
@@ -195,7 +195,7 @@ Cómo usar el chat *sobre* esta plantilla: pegas tu borrador sucio y pides hueco
 
 Lo que pegas al colega es el folio. Si has abierto A y el plazo no está: “A existe; plazo: NO ESTÁ; siguiente: sede X.” Sigue siendo una página. Si piden “el estado del arte”, esto no lo es. Firma tu nombre. El chat no firma.
 
-## Ejemplo: Marta, un folio, una reunión
+### Ejemplo: Marta, un folio, una reunión
 
 Marta trabaja en una fundación cultural pequeña. El director pregunta el jueves: “¿Hay ayudas públicas a actividades de bibliotecas municipales en España para 2026? El lunes tengo un café de veinte minutos. No me traigas un máster.”
 
@@ -225,7 +225,7 @@ El lunes, si ha tenido una hora, ha abierto 1 y 2. Actualiza el brief: existe o 
 
 Si Marta hubiera pedido “hazme el informe completo con bibliografía”, habría salido un texto redondo, un RD ajeno y un plazo falso. Eso no es brief. Es un problema.
 
-## Errores al hacer el brief con IA
+### Errores al hacer el brief con IA
 
 **Pedir un TFM en el chat.** El estado de la cuestión, quince papers, “tono académico”. Eso no cabe en una página y fabrica bibliografía. Cierra. Una pregunta.
 
@@ -245,7 +245,7 @@ Si Marta hubiera pedido “hazme el informe completo con bibliografía”, habr�
 
 **Actualizar el folio con cifras del chat** “mientras tanto”. El mientras tanto es el hueco.
 
-## Para aquí
+### Para aquí
 
 Cuando hagas un **brief de investigación con IA**, el orden es este:
 

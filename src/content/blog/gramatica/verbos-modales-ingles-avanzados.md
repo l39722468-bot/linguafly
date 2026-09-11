@@ -42,6 +42,8 @@ Si quieres repasar los fundamentos antes de entrar en los matices avanzados, la 
 
 ---
 
+Si llegas con la consulta **verbos modales ingles avanzados**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
 ## 1. El Sistema de Certeza en Inglés: Escala de Probabilidad
 
 Los modales no son intercambiables. Existe una escala de certeza que debes dominar:

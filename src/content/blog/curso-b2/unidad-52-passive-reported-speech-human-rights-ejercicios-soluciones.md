@@ -43,6 +43,8 @@ Este cuaderno reúne los **ejercicios de la Unidad 52 del curso B2** (*Passive V
 
 **Recuerda:** la pasiva exige **be + V3**; el passive reporting usa **that + clause** o **to + infinitive**; y el reported speech cambia tiempos y pronombres cuando el verbo introductor está en pasado.
 
+Quien busca **ejercicios passive voice B2** o **reported speech ejercicios B2** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Lección 1 — Gramática: Passive Voice
 
 Completa o transforma la frase.

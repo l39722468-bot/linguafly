@@ -64,7 +64,7 @@ Negativo: *may not* (no se contrae):
 
 ---
 
-## Might: posibilidad con algo más de duda
+### Might: posibilidad con algo más de duda
 
 *Might* también expresa posibilidad, pero con una sensación de mayor incertidumbre o distancia.
 
@@ -82,7 +82,7 @@ Negativo: *might not* (o *mightn't*, aunque la contracción es poco frecuente):
 
 ---
 
-## May vs Might: ¿cuándo sí importa la diferencia?
+### May vs Might: ¿cuándo sí importa la diferencia?
 
 Aunque en posibilidad general son muy intercambiables, hay contextos donde la elección sí tiene un efecto:
 
@@ -106,7 +106,7 @@ Para hablar de planes personales inciertos, *might* es más natural:
 
 ---
 
-## May para permiso (solo may, no might)
+### May para permiso (solo may, no might)
 
 Este es el uso que diferencia claramente a *may* de *might*. En contextos formales, *may* se usa para pedir o conceder permiso.
 
@@ -131,7 +131,7 @@ Este uso es formal. En conversación cotidiana, se usa *can* o *could*:
 
 ---
 
-## May y might en formas perfectas: posibilidad en el pasado
+### May y might en formas perfectas: posibilidad en el pasado
 
 Cuando especulas sobre algo que pudo o no pudo haber ocurrido en el pasado, usas **may have** o **might have** + participio.
 
@@ -153,7 +153,7 @@ Este uso tiene un matiz de "podría haber ocurrido pero no ocurrió" — similar
 
 ---
 
-## Expresiones y usos fijos que conviene conocer
+### Expresiones y usos fijos que conviene conocer
 
 **May as well / Might as well:** cuando algo no es ideal pero es la opción más razonable.
 - *We may as well wait — the next bus is in five minutes.*
@@ -169,7 +169,7 @@ Se traduce aproximadamente como "igual vale la pena" o "más vale".
 
 ---
 
-## Errores frecuentes con may y might
+### Errores frecuentes con may y might
 
 **Contraer may not:**
 May not no se contrae en inglés estándar. *Mayn't* existe pero es extremadamente raro y suena muy anticuado.

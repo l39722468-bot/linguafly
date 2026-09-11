@@ -42,6 +42,8 @@ Como profesor de Cambridge, he notado que la precisión en el uso de estas prepo
 
 ---
 
+Quien busca **preposiciones en ingles** o **preposiciones de movimiento en inglés con ejemplos** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## 📥 Material de Estudio: Esquema de Preposiciones de Movimiento
 
 Puedes usar esta tabla para repasar o imprimirla para tus sesiones de estudio.

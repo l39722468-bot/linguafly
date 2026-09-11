@@ -47,6 +47,8 @@ Antes de entrar en las diferencias, recuerda que la [guía completa del IELTS](/
 
 ---
 
+Consultas como **IELTS por Ordenador o en Papel: ¿Cuál Elegir?**, **ielts computer vs papel** o **diferencias IELTS computer delivered y papel** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué tienen en común los dos formatos
 
 El contenido es idéntico:

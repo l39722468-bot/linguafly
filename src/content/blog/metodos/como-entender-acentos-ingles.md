@@ -41,6 +41,8 @@ Entender diferentes acentos es una habilidad separada que se entrena de forma es
 
 ---
 
+Consultas como **Cómo Entender los Acentos del Inglés: Guía Práctica**, **cómo entender acentos inglés** o **cómo entender diferentes acentos en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué el cerebro falla con acentos nuevos
 
 Cuando aprendes inglés, tu cerebro construye un mapa de cómo suenan los fonemas del inglés. Ese mapa se basa en los ejemplos que has escuchado. Si has escuchado principalmente inglés americano de los medios, tu mapa tiene calibrado el /æ/ de *cat* de una manera muy concreta. Cuando escuchas a alguien de Nueva Zelanda pronunciar *cat* con un sonido más parecido a /ɛ/, el cerebro no lo reconoce como la misma palabra, o lo reconoce tarde.

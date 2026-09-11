@@ -40,6 +40,8 @@ Para la teoría detallada, consulta [Ejercicios de Condicionales en Inglés C1](
 
 ---
 
+Consultas como **ejercicios condicionales c1 c2**, **mixed conditionals ejercicios** o **inversion condicional ingles** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Bloque 1 — Inversión condicional y registro formal
 
 Estructura: **Had / Were / Should + sujeto + verbo** (sin *if*)

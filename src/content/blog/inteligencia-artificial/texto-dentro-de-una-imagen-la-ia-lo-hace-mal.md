@@ -66,7 +66,7 @@ La regla por defecto:
 
 Hasta que eso falle (casi nunca en un título de taller), no cambies de método.
 
-## Títulos en una imagen de Midjourney
+### Títulos en una imagen de Midjourney
 
 **Títulos en una imagen de Midjourney** fallan igual. El recinto es otro. El teclado, no. `--ar 16:9` no corrige una S. Un prompt en inglés con comillas (`the text "OPEN"`) a veces acierta una palabra corta y a veces pinta “OEPN”. No es un flujo de trabajo.
 
@@ -87,7 +87,7 @@ Firefly, en Photoshop o en la web de Adobe, pinta letras igual de mal cuando se 
 
 Qué herramienta usas para *la escena* está en [Midjourney, DALL-E o Firefly: una tarea cada uno](/blog/inteligencia-artificial/midjourney-dall-e-o-firefly-una-tarea-cada-uno). El texto no desempatan. Los tres fallan el párrafo.
 
-## Añadir texto después en Canva: el flujo
+### Añadir texto después en Canva: el flujo
 
 **Añadir texto después en Canva** es el método. No es un atajo de influencer. Es cómo se maqueta desde hace años: fondo + capa de tipo.
 
@@ -111,7 +111,7 @@ Dónde colocar el título, en práctica:
 
 Eso es diseño mínimo. No es un curso de Canva. Tres clics.
 
-## El caso de Elena: escena, luego letras
+### El caso de Elena: escena, luego letras
 
 Elena organiza un menú del día en un bar pequeño. Quiere una ilustración para el Instagram y para un cartel A4 junto a la barra. El texto que *tiene* que leerse: “Menú del día · 14 €” y, en el A4, tres platos. Si se lo pide al modelo, saldrá un chalkboard con palitos. Nadie lee el precio. Nadie lee los alérgenos.
 
@@ -173,7 +173,7 @@ Canva, A3 (297×420 mm) o 3508×4961 px:
 
 El martes cambia la sala. No regenera. Cambia seis caracteres. Eso es **añadir texto después en Canva**. El modelo no ha tocado el alfabeto.
 
-## Una palabra: cuándo otra herramienta ayuda (y cuándo no)
+### Una palabra: cuándo otra herramienta ayuda (y cuándo no)
 
 Hay modelos y productos que aciertan mejor **una** palabra o un logo corto. Ideogram y similares viven de eso. No es este artículo. Un puntero, y se acaba:
 

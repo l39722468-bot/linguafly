@@ -61,7 +61,7 @@ Cuenta el plástico entero y también el recorte: una cara, el PDF del escáner,
 
 Tarea que *sí* puedes hacer sin el documento: “Ayúdame a redactar un email a extranjería en tono formal, sin datos. Huecos entre corchetes para número y fecha, que relleno yo.” El modelo formatea. Tú pegas los huecos en el correo real, con el documento a tu lado, no al suyo.
 
-## Foto del DNI y IA: el selfie que no hay que hacer
+### Foto del DNI y IA: el selfie que no hay que hacer
 
 **Foto del DNI y IA** es el error que más se disfraza de ayuda. La foto no es “menos dato” que el número. Es más. Cara, soporte, hologramas, a menudo domicilio, a menudo firma. Un selfie con el DNI al lado suma tu cara de hoy a la del documento.
 
@@ -82,7 +82,7 @@ Qué hacer en su lugar:
 
 La variante “tapo el número con el dedo y subo el resto” sigue siendo cara, nombre y caducidad. No vale. La variante “solo el reverso” sigue siendo el documento. No vale.
 
-## ChatGPT lee un documento de identidad: extraer campos
+### ChatGPT lee un documento de identidad: extraer campos
 
 **ChatGPT lee un documento de identidad** en el sentido sucio: OCR y prosa. Ve dígitos y letras. Eso no es un lector certificado. No “valida” el DNI. No te dice si es falso de un modo que sirva. Te da una transcripción que puede fallar (un 8 por un 0) y te deja con la sensación de haber “procesado” un trámite.
 
@@ -104,7 +104,7 @@ Qué hacer:
 
 Si el modelo se inventa un dígito y no contrastas con el plástico, envías un número malo al portal *y* has mandado el bueno al chat. Extraer campos no es productividad: es un OCR ajeno. Si el producto se niega a leer un DNI, paras. No busques un GPT de la tienda que “sí lo hace”. Otro servidor.
 
-## KYC y un modelo de lenguaje
+### KYC y un modelo de lenguaje
 
 **KYC y un modelo de lenguaje** no casan. KYC (conocer al cliente) es un procedimiento de una entidad sujeta a normas: banco, casa de cambios, plataforma que te lo pide *en su web oficial*, con su flujo. Un chatbot de consumo no es esa entidad. No “aprueba” tu identidad. No sustituye el alta.
 
@@ -120,13 +120,13 @@ Elena quiere abrir una cuenta en una plataforma. Un anuncio la lleva a un chat e
 
 Si ves esa pantalla: miras la barra; si no es el dominio que *tú* escribiste, cierras. Nadie de “soporte” en un chat de consumo te pide el DNI para “validar ChatGPT”. Si ya subiste, no subas el reverso “que faltaba”. El alta real, si la haces, es en el dominio oficial de *esa* entidad, con *su* flujo. Este artículo no te dice cómo sortear un KYC. Te dice que el chat no es el KYC.
 
-## Datos de un pasaporte, NIE y el resto
+### Datos de un pasaporte, NIE y el resto
 
 **Datos de un pasaporte** no son un caso especial “porque viajo mañana”. Pegar la hoja de datos para el check-in es el mismo gesto que el DNI. El check-in se rellena en la web de la aerolínea, con el libro en la mesa. Un email de extranjería se suaviza con huecos: “Persona A, cita el día D, tono formal.” El NIE lo pegas tú en el correo saliente. El permiso de conducir no entra para “preguntar puntos”: el tipo de infracción, en abstracto; la multa, en el organismo. Esto no es un dictamen. El DNI o pasaporte de un menor: cero. El de un inquilino, un empleado o un cliente: fuera. “Es para ayudar” no autoriza el envío.
 
 No vale el recorte “solo el número”, el PDF a baja resolución ni el WhatsApp reenviado con la foto en el hilo. Si al quitar el documento se cae la tarea, no era para un chatbot de consumo.
 
-## Si ya lo pegaste
+### Si ya lo pegaste
 
 El envío no se deshace. Se deja de agrandar. Orden práctico:
 

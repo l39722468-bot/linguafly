@@ -40,6 +40,8 @@ Dicho esto, entender las diferencias es útil por varias razones: te ayuda a dec
 
 ---
 
+Consultas como **como suenan diferente ingles britanico americano**, **diferencias entre inglés británico y americano** o **pronunciación británica y americana con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Las diferencias más importantes: fonema a fonema
 
 ### La /r/ postvocálica: la diferencia más audible

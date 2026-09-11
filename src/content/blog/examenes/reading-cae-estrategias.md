@@ -39,6 +39,8 @@ Hay cuatro partes y cuatro enfoques distintos. Aplicarlos bien puede subirte var
 
 ---
 
+Consultas como **como hacer reading cae**, **estrategias Reading and Use of English CAE** o **cómo hacer las partes 5 6 7 y 8 del CAE** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Parte 5: Multiple Choice (opción múltiple)
 
 Un texto largo —normalmente un artículo, un extracto de ensayo o una crónica— seguido de seis preguntas con cuatro opciones cada una. Las preguntas siguen el orden del texto, lo que facilita la localización.
@@ -57,7 +59,7 @@ Algo que distingue el CAE del FCE: aquí aparecen preguntas sobre el **propósit
 
 ---
 
-## Parte 6: Gapped Text (texto con párrafos eliminados)
+### Parte 6: Gapped Text (texto con párrafos eliminados)
 
 Un texto del que han extraído seis párrafos. Aparecen siete párrafos sueltos (uno de más) y tienes que decidir cuál va en cada hueco. Esta parte evalúa tu comprensión de la cohesión y la coherencia textual, es decir, cómo las ideas se encadenan.
 
@@ -75,7 +77,7 @@ Un truco: cuando hayas colocado varios párrafos, usa el séptimo (el que "sobra
 
 ---
 
-## Parte 7: Multiple Choice con varios textos cortos
+### Parte 7: Multiple Choice con varios textos cortos
 
 Varios extractos cortos (normalmente 4) de distintos autores que escriben sobre el mismo tema, seguidos de 10 preguntas. Tienes que identificar qué autor expresa qué idea.
 
@@ -91,7 +93,7 @@ Luego aborda las preguntas. Como los extractos son cortos, la localización es r
 
 ---
 
-## Parte 8: Multiple Matching
+### Parte 8: Multiple Matching
 
 Un texto largo dividido en secciones, o varios textos cortos, con 10 preguntas. Cada pregunta describe un contenido y tienes que decidir en qué sección aparece. Una misma sección puede ser la respuesta a más de una pregunta.
 
@@ -107,7 +109,7 @@ La trampa habitual: buscar las mismas palabras de la pregunta en el texto. El CA
 
 ---
 
-## La gestión del tiempo en el Reading
+### La gestión del tiempo en el Reading
 
 Tienes 90 minutos para las 8 partes del paper, incluyendo el Use of English. Si estimas que el Use of English te lleva unos 45-50 minutos, te quedan 40-45 para las cuatro partes de Reading.
 
@@ -121,7 +123,7 @@ Si en algún momento te quedas atascado en una pregunta, márcala y pasa a la si
 
 ---
 
-## Cómo preparar el Reading entre exámenes
+### Cómo preparar el Reading entre exámenes
 
 El Reading del CAE no se mejora haciendo solo ejercicios del formato CAE. La base es la **lectura extensiva en inglés**: artículos de opinión, ensayos, reportajes largos. El tipo de inglés que aparece en el CAE es el inglés culto de calidad, el que encuentras en publicaciones como The Atlantic, The New Yorker, The Guardian Long Read o Financial Times.
 

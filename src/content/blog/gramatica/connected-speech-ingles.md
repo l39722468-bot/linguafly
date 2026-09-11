@@ -41,6 +41,8 @@ Eso no es que los nativos hablen mal ni que tú tengas un problema. Es el **conn
 
 ---
 
+Consultas como **connected speech inglés**, **qué es connected speech en inglés con ejemplos** o **ejercicios gratis de connected speech y linking** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es exactamente el connected speech
 
 Cuando hablamos en cualquier idioma de forma natural, no pronunciamos cada palabra de forma aislada con una pausa perfecta entre ellas. Las palabras se unen, los sonidos se modifican, algunos desaparecen y otros cambian según los sonidos que los rodean. En inglés esto es especialmente marcado porque el ritmo de la lengua se organiza alrededor del acento (las sílabas acentuadas aparecen a intervalos más o menos regulares), lo que hace que las sílabas no acentuadas se compriman y fusionen con lo que tienen al lado.

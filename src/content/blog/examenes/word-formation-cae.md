@@ -39,6 +39,8 @@ La buena noticia es que estos patrones son finitos y aprendibles. Una vez que lo
 
 ---
 
+Consultas como **word formation cae**, **prefijos y sufijos inglés C1 Advanced** o **cómo hacer Word Formation del CAE** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## El primer paso: identificar la categoría gramatical
 
 Antes de pensar en prefijos o sufijos, tienes que saber **qué tipo de palabra necesita el hueco**. La frase alrededor del hueco siempre te lo indica:
@@ -52,7 +54,7 @@ Este análisis previo te evita el error más frecuente: usar la categoría grama
 
 ---
 
-## Sufijos para sustantivos
+### Sufijos para sustantivos
 
 Los sufijos sustantivadores más comunes en el CAE:
 
@@ -76,7 +78,7 @@ Una trampa habitual: confundir *-tion* con *-sion*. La regla general es que los 
 
 ---
 
-## Sufijos para adjetivos
+### Sufijos para adjetivos
 
 **-ful / -less**: *hope → hopeful / hopeless, care → careful / careless*. El sufijo *-less* indica ausencia de algo; es muy frecuente en el CAE.
 
@@ -94,7 +96,7 @@ Una trampa habitual: confundir *-tion* con *-sion*. La regla general es que los 
 
 ---
 
-## Prefijos negativos: el error más frecuente
+### Prefijos negativos: el error más frecuente
 
 En el CAE, una de las trampas más comunes de la Parte 3 es no añadir el prefijo negativo cuando el contexto lo requiere —o añadirlo cuando no hace falta—. Estos son los principales:
 
@@ -116,7 +118,7 @@ La clave para no equivocarte: el prefijo negativo correcto depende de la raíz d
 
 ---
 
-## Sufijos para adverbios
+### Sufijos para adverbios
 
 La mayoría de los adverbios de modo en inglés se forman añadiendo **-ly** al adjetivo: *clearly, effectively, consequently, significantly*.
 
@@ -130,7 +132,7 @@ Algunos adverbios importantes no siguen este patrón: *good → well, fast → f
 
 ---
 
-## Los compuestos con self-, over- y under-
+### Los compuestos con self-, over- y under-
 
 Estos prefijos son frecuentes en el CAE y a veces pillan desprevenidos a los candidatos:
 
@@ -142,7 +144,7 @@ Estos prefijos son frecuentes en el CAE y a veces pillan desprevenidos a los can
 
 ---
 
-## Un método de estudio que funciona
+### Un método de estudio que funciona
 
 Para preparar el word formation de manera efectiva, la técnica de las **familias de palabras** es la más eficiente. En lugar de aprender palabras sueltas, aprende toda la familia:
 

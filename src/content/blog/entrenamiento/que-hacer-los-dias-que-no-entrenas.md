@@ -63,7 +63,7 @@ La movilidad corta es opcional. Cinco minutos en el suelo si te sienta. Si no, n
 
 Dormir el día off no es un extra. Quedarte hasta las 2:00 “porque mañana no hay gym” es gastar el miércoles por adelantado. Si hay niños o turnos, duermes lo que puedas. El off no te da permiso para destrozar la noche.
 
-## Lo que no
+### Lo que no
 
 - Un circuito de 40 minutos “suave” con saltos y planchas rotas.
 - Añadir el reel de 12 ejercicios porque “hoy no cargo”.
@@ -83,7 +83,7 @@ El mismo patrón al fallo “un poquito” es sentadilla del lunes otra vez el m
 
 El sofá total tampoco es el plan. Un día de película pasa. Una identidad de “hoy no me muevo” deja el cuerpo más rígido. Unos miles de pasos. Luego el sofá, si toca, es un sofá, no una doctrina.
 
-## Por qué tres y no siete
+### Por qué tres y no siete
 
 El músculo del principiante se apunta rápido. El tendón no. Siete estímulos “suaves” son siete veces que el hombro no firma. La plantilla de lunes-miércoles-viernes (o tres días con hueco) existe para eso.
 
@@ -97,7 +97,7 @@ Si ya llevas un año de tres días serios y te sobra hueco, entonces se habla de
 
 El miedo a “perder el hábito” el martes es real. El remedio no es otra sesión. Es el calendario: el miércoles está escrito. Compararte con el feed de seis días no programa tu semana. Camina.
 
-## Caminar, no convertirlo en deporte
+### Caminar, no convertirlo en deporte
 
 Caminar es el movimiento por defecto del off. No es una zona 2 sagrada. No pide pulsómetro. Pide zapatos y salir.
 
@@ -111,7 +111,7 @@ Perro: el paseo del perro es el off de mucha gente. No lo conviertas en interval
 
 Natación, yoga, pádel el día off: la pregunta no es si “queman”. Es si al día siguiente la sentadilla se puede empezar. Si el pádel te deja el hombro igual que un press, no era off. Era sesión.
 
-## Un martes tipo
+### Un martes tipo
 
 Te levantas a la hora de siempre. No hay calentamiento de sentadilla. Hay café, ducha, trabajo o casa. A media mañana, si puedes, un recado a pie. Al comer, caminas 15-20 minutos o das la vuelta a la manzana. Por la tarde, escritorio o faena. Pausas cortas. Nada de 200 flexiones de tronco a las 18:00. Si el cuerpo pide suelo, gato-camello y cadera, cinco minutos, no una plancha de récord. Cena del menú. Cama a una hora decente.
 
@@ -125,7 +125,7 @@ Un sábado de ciudad: caminar mucho cuenta. No sumes un “entreno express” al
 
 Un domingo de lluvia: el sofá un rato no es fracaso. Caminar al supermercado. No un HIIT de salón “para no perder el día”. El miércoles sigue ahí.
 
-## Escritorio el día off
+### Escritorio el día off
 
 Ocho horas de silla no se arreglan con 200 flexiones de tronco a las 18:00. Se arreglan, en parte, con pausas para caminar y con las tres sesiones de fuerza de la semana. El día off puedes andar en las llamadas. No hace falta una clase de “core de oficina”.
 
@@ -137,7 +137,7 @@ Lumbar de escritorio: el paseo suele sentar mejor que media hora de plancha. La 
 
 El foam roller de 20 minutos y cero pasos no sustituye el paseo. Si te gusta, úsalo dos minutos. El acto principal es moverte como persona, no como contenido.
 
-## Viaje, fiesta, enfermedad
+### Viaje, fiesta, enfermedad
 
 Viaje: camina el aeropuerto. No un PR en el gym del hotel el día off del plan. Fiesta: una noche no exige un castigo de HIIT al día siguiente. Enfermedad: off de verdad, no “suave para no perder el hábito”. El hábito es volver cuando puedas, no coleccionar fiebre.
 
@@ -149,7 +149,7 @@ Fiesta o boda: al día siguiente no hay un WOD de redención. Agua, paseo, comid
 
 Enfermedad: fiebre, pecho, mal general, off de verdad. Ni suave. Ni movilidad de 40 minutos para “mantener el hábito”. Vuelves cuando puedas, versión fácil. Un resfriado de mocos y humor decente: camina si te sienta, no sentadillas de récord. Ante la duda, off.
 
-## Cómo saber si el off funcionó
+### Cómo saber si el off funcionó
 
 Al día siguiente la sentadilla se puede empezar. Dormiste. No estás destrozado de un “cardio suave”. Tienes hambre normal, no hambre de haber entrenado dos días seguidos.
 
@@ -173,7 +173,7 @@ Ante la segunda lista: nombra lo que hiciste. Quítalo la próxima vez o quita u
 
 El off no se evalúa en sudor, ni en el anillo, ni en si “aprovechaste”. Se evalúa en la sesión siguiente. Esa es la única prueba que importa en este artículo.
 
-## Otras actividades el martes
+### Otras actividades el martes
 
 Yoga, pilates, spinning, boxeo “suave”: la prueba es el día siguiente, no el nombre de la disciplina. Si sales temblando o con lumbar ocupada, no era off. Ponles el nombre de lo que son. Quita un día de la plantilla de fuerza esa semana si los haces a tope. No acumules.
 

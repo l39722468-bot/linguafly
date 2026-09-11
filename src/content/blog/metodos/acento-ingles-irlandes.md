@@ -39,6 +39,8 @@ Esa sensación tiene una explicación histórica concreta, y entenderla cambia c
 
 ---
 
+Consultas como **Acento Irlandés en Inglés: Rasgos y Comprensión**, **acento irlandés inglés** o **Acento Irlandés en Inglés para aprender inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Por qué el inglés de Irlanda suena diferente
 
 Irlanda es el único país donde el inglés llegó como lengua del colonizador y desplazó a una lengua anterior —el irlandés gaélico— que dejó su huella profunda en cómo los irlandeses hablan inglés todavía hoy. En la mayor parte de las regiones de habla inglesa, el idioma llegó con los colonos que ya lo hablaban como lengua materna. En Irlanda, fue adoptado masivamente por hablantes cuya lengua materna era el gaélico.

@@ -63,6 +63,8 @@ Haz cada bloque **sin mirar** la solución. Luego comprueba y lee la explicació
 
 ---
 
+Quien busca **Ejercicios de Saludos en Inglés A1 con Soluciones** o **ejercicios verbo to be I am you are** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## Lección 1 — Gramática: verbo *to be* (I / You)
 
 ### 1. Completa: I ____ Maria.

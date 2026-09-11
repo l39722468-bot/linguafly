@@ -62,7 +62,7 @@ El chat no es la biblioteca. Ni ChatGPT, ni Gemini, ni Perplexity con chips. Aun
 
 Tampoco es un tribunal. El hermano de citas legales cubre el identificador jurídico. Esta página cubre el identificador académico. Puedes pedir un *esquema* de secciones a partir de *tus* apuntes sin pedir bibliografía. En cuanto pides “cinco papers que lo respalden”, alimentas el molde.
 
-## IA inventa papers: el DOI que hay que abrir
+### IA inventa papers: el DOI que hay que abrir
 
 **IA inventa papers** es la petición típica. Tú quieres una lista para el trabajo. El chat te la da. Tú no has abierto ninguno.
 
@@ -105,7 +105,7 @@ Este ejemplo no te dice qué papers hay sobre vivienda. No es esa página. Te di
 
 Si un ítem no se abre en pocos minutos (paywall de tu universidad, VPN, el PDF no carga), no lo uses *hoy*. Un hueco (“fuente: buscar en el catálogo”) es mejor que un García elegante. El trabajo puede esperar a la biblioteca. La lista falsa, no.
 
-## Cómo citar si usaste un chatbot
+### Cómo citar si usaste un chatbot
 
 **Cómo citar si usaste un chatbot** es transparencia, no una entrada más en la lista de revistas. Son dos gestos distintos. Mezclarlos es el error de esta página.
 
@@ -126,7 +126,7 @@ Si un ítem no se abre en pocos minutos (paywall de tu universidad, VPN, el PDF 
 
 No vamos a recitar aquí el párrafo oficial de APA ni a decirte qué es “legal” copiar. Honestidad práctica: el paper que no has abierto no se cita. El texto que no has escrito no se entrega como tuyo. El chatbot no es un autor de la bibliografía.
 
-## Bibliografía real de un trabajo: el gesto
+### Bibliografía real de un trabajo: el gesto
 
 **Bibliografía real de un trabajo** se construye al revés del chat. Primero el texto. Luego la ficha. No al revés.
 

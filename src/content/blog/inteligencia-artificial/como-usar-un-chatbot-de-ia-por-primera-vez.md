@@ -56,7 +56,7 @@ Un **chatbot de IA para principiantes** falla más por el input que por el model
 
 No hace falta elegir “el mejor modelo del mundo”. Hace falta una web oficial, no un anuncio que te pide la contraseña del banco para “activar GPT”.
 
-## Primeros pasos con un chatbot
+### Primeros pasos con un chatbot
 
 **Primeros pasos con un chatbot**, en orden. Sirve para ChatGPT, Gemini, Claude o el Copilot del navegador. Los botones cambian de sitio. El gesto no.
 
@@ -71,7 +71,7 @@ Eso es **usar ChatGPT si nunca lo has hecho**, y también usar cualquier otro ch
 
 Si la interfaz te ofrece “voz”, “GPTs personalizados” o “proyectos”, ignóralo el primer día. Son cajones. La sesión cero cabe en el chat de siempre.
 
-## Qué preguntar a un chatbot la primera vez
+### Qué preguntar a un chatbot la primera vez
 
 **Qué preguntar a un chatbot la primera vez** no es “hola, ¿qué puedes hacer?”. Esa pregunta produce un folleto. Tú no necesitas el folleto. Necesitas un entregable pequeño.
 
@@ -93,7 +93,7 @@ Si la tarea es la compra de la semana, el chatbot puede ordenar una lista. El cr
 
 Una regla: **una intención por mensaje**. Si pides resumen *y* traducción *y* un poema, sale un revoltijo. Haz el resumen. Luego, en el siguiente turno, “ahora en tabla”. El modelo retiene el hilo. Tú no mezclas tres trabajos en la primera frase.
 
-## Cómo hablar con una inteligencia artificial (turno a turno)
+### Cómo hablar con una inteligencia artificial (turno a turno)
 
 **Cómo hablar con una inteligencia artificial** se parece más a dirigir un becario que a charlar en el bar. Frases cortas. Correcciones puntuales. Sin novela.
 
@@ -115,7 +115,7 @@ Si el hilo se ensucia (has pegado tres temas, el resumen ya mezcla el email con 
 
 Hablar o escribir: el primer día, **escribe**. El modo voz es cómodo y te hace improvisar de más. Improvisar de más es cómo se te escapa un apellido. Cuando controles el gesto, el micrófono es opcional.
 
-## Cómo leer la respuesta
+### Cómo leer la respuesta
 
 La lectura es el trabajo. Generar es barato.
 
@@ -131,7 +131,7 @@ Un truco sucio y útil: pide “marca con [NO ESTÁ] lo que no aparezca en el te
 
 Si la respuesta es un muro, no la “estudies”. Pide de nuevo el formato. El fallo suele ser tuyo en el primer mensaje (no dijiste viñetas) o del modelo (ignoró el tope). Repite el tope. No abras un tratado de prompting todavía; si quieres la fórmula corta, está en [cómo escribir un prompt que sirva](/blog/inteligencia-artificial/como-escribir-un-prompt-que-sirva).
 
-## Cuándo no fiarte (y cuándo parar)
+### Cuándo no fiarte (y cuándo parar)
 
 No te fíes cuando el coste del error no es “borrar un párrafo”.
 
@@ -149,7 +149,7 @@ Para el reloj: a los quince minutos, **paras**. Guardas el entregable validado. 
 
 Si sales de la sesión cero con un email más corto que has leído y con cero datos sensibles pegados, has usado un chatbot bien. Si sales con un plan de vida y el DNI del niño en el hilo, has usado mal el primer día, da igual lo fluida que fuera la prosa.
 
-## Errores de la sesión cero
+### Errores de la sesión cero
 
 **Empezar por la biografía del modelo.** “¿Quién eres?” “¿Estás vivo?” Pierdes el rato. El producto ya tiene una página de ayuda. Tú tienes un PDF.
 

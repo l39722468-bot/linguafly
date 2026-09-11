@@ -68,7 +68,7 @@ Si no ves citas, trata la respuesta como chat sin web. No copies cifras.
 
 Activar Search: el control cambia de sitio según el mes (un icono de globo, “Buscar”, el modelo elige solo). El gesto es el mismo: pregunta concreta, citas a la vista, clic. No pidas Search para reescribir el email que ya tienes en el portapapeles. Eso es el [chat de siempre](/blog/inteligencia-artificial/chatgpt-el-chat-de-siempre-bien-usado).
 
-## Cuándo Google sigue ganando
+### Cuándo Google sigue ganando
 
 **Cuándo Google sigue ganando** es la lista que evita perder veinte minutos en un resumen bonito.
 
@@ -100,7 +100,7 @@ No inventes andenes. No uses blogs de viajes. No des un precio si no está en la
 
 Marta abre la URL. Si el chat ha puesto un 7:42 que no está en la parrilla, el 7:42 no existe. Compra en la web del operador, no en el chat. Search aquí es un atajo flojo. Google o la app de Renfe ganan. Search solo habría valido para “¿hay huelga anunciada en la web de Renfe esta semana?”, y aun así: cita, clic, comunicado oficial.
 
-## Noticias y ChatGPT Search
+### Noticias y ChatGPT Search
 
 **Noticias y ChatGPT Search** fallan cuando tratas el chat como telediario. El modelo alisa. Quita el desacuerdo. Mezcla dos piezas. Pone una fecha en voz de presente.
 
@@ -134,7 +134,7 @@ Actualidad de última hora (un corte de luz, un partido, un cierre de carretera)
 
 Ejemplo. Pablo, viernes 18:50. Hay un aviso de corte de tráfico para el sábado a las 9 por una carrera. Pregunta en Search “¿cortan el centro mañana?”. El chat resume una pieza del jueves y una del año pasado. Pablo no reorganiza la mañana con eso. Abre Google, el dominio del ayuntamiento o de tráfico, lee la fecha del aviso. Si el PDF dice “sábado 13 de septiembre de 2026, 8:00–14:00, calles X e Y”, ese es el dato. El párrafo de Search, no.
 
-## Verificar un dato de Search (siempre la cita)
+### Verificar un dato de Search (siempre la cita)
 
 **Verificar un dato de Search** es el oficio. Sin este paso, Search es un chatbot con bibliografía plausible.
 
@@ -187,7 +187,7 @@ Si el sábado no aparece, escribe "no aparece".
 
 Sigue abriendo tú la URL. El “usa solo esta URL” reduce mezcla. No elimina un horario mal leído.
 
-## Errores al elegir Search o Google (para aquí)
+### Errores al elegir Search o Google (para aquí)
 
 **Usar Search para reescribir tu email.** No hace falta web. Pegas el párrafo. Pides formato. Search mete un dato de internet que tú no has pedido.
 

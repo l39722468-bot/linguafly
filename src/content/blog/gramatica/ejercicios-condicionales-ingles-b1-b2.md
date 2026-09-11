@@ -42,6 +42,8 @@ Los **condicionales en inglés** son uno de los puntos gramaticales que más se 
 
 ---
 
+Consultas como **condicionales en ingles ejercicios resueltos**, **ejercicios de condicionales en inglés gratis con soluciones** o **ejercicios zero first second third conditional B1 B2** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Bloque 1 — Zero Conditional: Verdades y Hechos
 
 El **Zero Conditional** expresa verdades universales o hechos que siempre ocurren.

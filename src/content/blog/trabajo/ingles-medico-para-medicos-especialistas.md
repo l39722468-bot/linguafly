@@ -49,6 +49,8 @@ excerpt: >
 
 El inglés es la lingua franca de la medicina global. El 75% de los artículos científicos médicos se publican en inglés, y los congresos internacionales de mayor prestigio — ASCO, AHA, EASD, ESC — se desarrollan íntegramente en inglés. Para un médico o especialista que aspira a la excelencia clínica e investigadora, el **inglés médico** no es un complemento; es una herramienta de trabajo fundamental.
 
+Consultas como **ingles para medicos**, **Inglés Médico para Médicos** o **faqs:** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 Esta guía cubre las cuatro dimensiones del inglés médico profesional: comunicación clínica, documentación, investigación y presentación en congresos.
 
 ---

@@ -61,7 +61,7 @@ Entender el segundo condicional de verdad significa entender cuándo algo es "ir
 
 El detalle que más confunde: el "past simple" en la cláusula con "if" no habla del pasado. Habla de una situación hipotética en el presente o futuro que no se está cumpliendo.
 
-## El caso especial de "were"
+### El caso especial de "were"
 
 Con el verbo "to be", la tradición gramatical del inglés formal exige "were" para todas las personas, no "was":
 
@@ -74,7 +74,7 @@ En conversación informal, oirás "was" muy frecuentemente y no es un error grav
 - *If I were you...* (para dar consejos)
 - *Were I in your position...* (inversión formal)
 
-## Cuatro usos que van más allá de la lotería
+### Cuatro usos que van más allá de la lotería
 
 **1. Dar consejos de forma más suave**
 
@@ -110,14 +110,14 @@ Estas son situaciones que podrían cambiar, pero que ahora mismo no se están da
 - *If you took the highway, you would get there in 20 minutes.*
 - *If the company invested in training, productivity would improve.*
 
-## Variaciones con "could" y "might"
+### Variaciones con "could" y "might"
 
 Como en el first conditional, puedes sustituir "would" por otros modales:
 
 - *If I had more savings, I **could** quit this job.* (Posibilidad o capacidad).
 - *If she asked nicely, he **might** help her.* (Posibilidad menor).
 
-## Ejercicios
+### Ejercicios
 
 **Completa:**
 
@@ -130,7 +130,7 @@ Como en el first conditional, puedes sustituir "would" por otros modales:
 
 **Práctica:** Formula tres consejos para un amigo imaginario usando "If I were you...". Intenta que los consejos sean sobre situaciones reales (trabajo, relaciones, salud).
 
-## Diferencia crucial con el third conditional
+### Diferencia crucial con el third conditional
 
 Esta es la confusión más costosa en exámenes:
 
@@ -144,7 +144,7 @@ Esta es la confusión más costosa en exámenes:
 
 La diferencia está en los tiempos verbales: past simple vs. past perfect en la cláusula con "if", y "would" vs. "would have" en la principal.
 
-## En el examen
+### En el examen
 
 En Cambridge y similares, el second conditional aparece en:
 

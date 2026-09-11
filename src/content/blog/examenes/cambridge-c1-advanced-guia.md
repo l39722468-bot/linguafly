@@ -44,6 +44,8 @@ Aprobar el C1 no es cuestión de "suerte"; es cuestión de dominar el registro, 
 
 ---
 
+Consultas como **C1 Advanced (CAE): Guía y Estrategias para Aprobar**, **speaking cae estrategias** o **cómo aprobar el Cambridge C1 Advanced CAE** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## 1. El Use of English: Donde se Gana el C1
 
 Esta parte del examen evalúa tu control sobre el sistema de la lengua. Ya no basta con saber que un verbo va seguido de gerundio; debes entender las **colocaciones** y los **idioms**.

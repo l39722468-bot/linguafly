@@ -41,6 +41,8 @@ Moverse en transporte público es la forma más auténtica (y económica) de exp
 
 ---
 
+Consultas como **ingles para trenes**, **ingles trenes metro transporte para viajar** o **frases de ingles trenes metro transporte** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## 1. La Estación de Tren: Vocabulario Básico
 
 | Término | Significado |

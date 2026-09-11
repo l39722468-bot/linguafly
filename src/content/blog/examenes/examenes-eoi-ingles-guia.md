@@ -66,6 +66,8 @@ related_routes:
 
 Las **Escuelas Oficiales de Idiomas (EOI)** son centros públicos de enseñanza de idiomas dependientes de las comunidades autónomas españolas. Su examen de inglés es uno de los pocos con titulación oficial del **Ministerio de Educación español** — lo que lo diferencia de los exámenes privados como Cambridge o IELTS.
 
+Consultas como **examen ingles EOI**, **examen EOI inglés B1 B2 C1 estructura** o **cómo preparar el examen de inglés EOI** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 Para muchos estudiantes en España, el certificado de la EOI es la opción más económica para acreditar el inglés en:
 - **Oposiciones a la Administración Pública** (incluyendo Cuerpos de Seguridad, Sanidad y Educación)
 - **Habilitación lingüística** para maestros y profesores de inglés en primaria

@@ -66,7 +66,7 @@ No hay una hora mágica. Hay la que te deja hacer la sentadilla limpia y llegar 
 
 Si te levantas a las 6:50 y entrenas a las 7:00, el “antes” es un plátano o nada. No improvises avena. El sistema vive en el “después” o en levantarte diez minutos antes. Esos diez minutos se deciden la noche anterior, no con el despertador pospuesto.
 
-## Tres desayunos que se repiten
+### Tres desayunos que se repiten
 
 No siete recetas. Tres, como las cenas del menú.
 
@@ -78,7 +78,7 @@ Batido: si no hay tiempo de masticar. Leche o bebida, yogur o proteína de polvo
 
 Lo que no entra como sistema: bollería de bar todos los días, zumo en vez de pieza, cereales de caja azucarados, “solo café que luego pico”.
 
-## Cómo se monta cada uno (reloj en la cocina)
+### Cómo se monta cada uno (reloj en la cocina)
 
 **Yogur-avena-fruta, la noche anterior.** Tupper. Yogur. Avena. Fruta cortada o un plátano al lado. Frutos secos en un cuenco pequeño, no el saco. Por la mañana: cuchara. Si entrenas antes, te comes la mitad a las 6:35 y el resto a las 7:35, o todo después. No mezcles el tupper en el salón entre series. Comes sentado o de pie en la cocina. Dos minutos.
 
@@ -90,7 +90,7 @@ Lo que no entra como sistema: bollería de bar todos los días, zumo en vez de p
 
 Cinco minutos son el tiempo real si la sartén está a la vista. Por eso la noche anterior no es opcional. Si tres lunes seguidos es un yogur a secas y mal humor a las 10:30, añade la avena o el pan. El café extra no lo corrige.
 
-## La noche anterior decide la mañana
+### La noche anterior decide la mañana
 
 Deja a la vista: yogur, pan, fruta, sartén. La ropa de entreno en la silla. El desayuno no se inventa a las 6:28. Si el pan está congelado, saca dos rebanadas al poner el despertador o la noche previa.
 
@@ -104,7 +104,7 @@ Domingo: compra yogur natural, avena, pan de molde o rebanadas, fruta que aguant
 
 Huevos duros: media docena el domingo. Tres mañanas resueltas. No hace falta un batch de desayunos en siete tuppers. Hace falta no partir de cero.
 
-## Café
+### Café
 
 Uno. Si te sienta. No en ayunas de teatro si vas a cargar. Si el pulso se dispara, el café después de la sesión o con el yogur. El café no sustituye [proteína en el plato](/blog/alimentacion/proteina-hidratos-grasas-guia-practica).
 
@@ -112,7 +112,7 @@ Café de máquina y palmera en la oficina a las 10:00 es el plan B cuando el des
 
 El café no es desayuno. Si tu plan es café negro y sentadilla, eso es el artículo de ayunas, no este. Aquí acompaña un bocado o un plato. O espera a después. Si te sienta mal con el estómago vacío, muévelo a después.
 
-## Semana tipo si la fuerza es a las 7
+### Semana tipo si la fuerza es a las 7
 
 Ejemplo. Tres sesiones. Mismo desayuno, no siete.
 
@@ -134,7 +134,7 @@ Si entrenas lunes, miércoles y viernes, escribe “bocado / plato” en esos tr
 
 Una semana que se tuerce: el miércoles no hubo yogur. Gasolinera: yogur y plátano, no solo magdalena. El jueves compras. El viernes vuelve el sistema. No “empieza el lunes que viene”.
 
-## Trabajo, niños, tren
+### Trabajo, niños, tren
 
 Tupper de yogur-avena-fruta en la nevera. Huevo duro de más del batch. Bocadillo pequeño. El desayuno de gasolinera: yogur y plátano, no solo magdalena.
 
@@ -150,13 +150,13 @@ Oficina a las 8:30 y ducha en casa: el desayuno de las 7:35 tiene que caber. Si 
 
 Reunión a las 8:00: comes a las 7:35 aunque sea el tupper de pie. No llegues a la reunión con café solo y sentadilla recién hecha. El hambre a las 10:00 en una sala no es un detalle.
 
-## Viaje, hotel, el día que no hay cocina
+### Viaje, hotel, el día que no hay cocina
 
 Hotel con bufé: proteína visible. Huevo, yogur, pan, fruta. No solo zumo y bollería “porque es viaje”. Si entrenas a las 7 en la habitación o en el gym del hotel, el bocado es un plátano del bufé de la víspera (si lo guardaste) o un yogur de máquina. Después, el bufé. Si el bufé abre a las 8 y tú entrenas a las 7, el súper de la estación de la noche anterior: yogur, fruta, pan.
 
 Casa de otros: no montes un espectáculo de sartén a las 6:30. Yogur y fruta que compraste tú. Furgoneta, tren, turno: bocadillo serio, yogur, huevo duro. La máquina de galletas no se convierte en desayuno porque el reloj sea raro. Tres días de viaje: el sistema se encoge, no desaparece.
 
-## Errores de la mañana de sentadilla
+### Errores de la mañana de sentadilla
 
 - Café solo como única ingesta hasta las 14:00.
 - Saltar el desayuno “para definir” el mes uno de pesas.

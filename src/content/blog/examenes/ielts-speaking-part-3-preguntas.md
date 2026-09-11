@@ -46,6 +46,8 @@ Esta guía te da el método para estructurar cualquier respuesta, los tipos de p
 
 ---
 
+Consultas como **ielts speaking part 3**, **cómo responder preguntas abstractas en IELTS** o **frases para IELTS Speaking Band 7 y 8** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué evalúa el examinador en Part 3
 
 Los cuatro criterios de IELTS Speaking son los mismos en todas las partes, pero en Part 3 cada uno se mide con más dureza:

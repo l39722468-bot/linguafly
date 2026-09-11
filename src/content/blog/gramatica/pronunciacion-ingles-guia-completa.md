@@ -43,6 +43,8 @@ En esta guía completa encontrarás todo lo que necesitas saber para mejorar tu 
 
 ---
 
+Quien busca **pronunciacion ingles guia completa** o **cómo mejorar la pronunciación en inglés gratis** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ## 1. Los Sonidos del Inglés que No Existen en Español
 
 El primer paso es conocer los sonidos que tu boca nunca ha tenido que producir en español. Estos son los más críticos:

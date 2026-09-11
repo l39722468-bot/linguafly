@@ -36,6 +36,8 @@ canonical: 'https://linguafly.app/blog/metodos/mejores-cursos-ingles-online-prep
 
 **Preply** no es un currículo único: es un **marketplace de tutores**. Por eso entra en las listas de **mejores cursos de inglés online** cuando lo que buscas es **flexibilidad** y **preparación de examen uno a uno** —pero con un matiz: el resultado depende de **a quién contratas**.
 
+Quien busca **Preply: tutores para IELTS y Cambridge** o **preply ingles examenes** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 ---
 
 ## Por qué tiene sentido para exámenes oficiales

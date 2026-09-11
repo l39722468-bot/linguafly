@@ -40,6 +40,8 @@ excerpt: >
 
 El nivel B1 (Intermedio) marca un antes y un después en el aprendizaje del inglés. Es el nivel en el que dejas de ser un "superviviente" lingüístico para convertirte en un comunicador independiente. Según el Marco Común Europeo de Referencia (MCER), en este nivel debes ser capaz de desenvolverte en la mayor parte de las situaciones que pueden surgir durante un viaje, además de hablar sobre temas familiares, personales y laborales.
 
+Quien busca **vocabulario trabajo ingles b1** o **Vocabulario de Trabajo en Inglés B1** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Tener una buena base de vocabulario es lo que te permite pasar de "entender" lo que te dicen a "comunicar" lo que piensas. En este artículo, hemos recopilado las áreas léxicas más importantes que debes dominar para certificar tu nivel B1.
 
 ## Temas Clave de Vocabulario B1

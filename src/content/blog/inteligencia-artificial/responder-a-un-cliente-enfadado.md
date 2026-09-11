@@ -66,7 +66,7 @@ Qué sí:
 
 Si el modelo convierte eso en un alegato, el borrador está mal aunque esté bien escrito. Un párrafo fluido con un “por supuesto le devolvemos el importe” es peor que un correo tosco fiel. El tono seguro no apaga el criterio: [confianza excesiva, el texto suena bien](/blog/inteligencia-artificial/confianza-excesiva-el-texto-suena-bien).
 
-## Reconocer el problema y el plazo
+### Reconocer el problema y el plazo
 
 **Reconocer el problema y el plazo** es la frase que importa. No “empatizar”. No “validar sentimientos”. Es: el envío del 27 no ha salido; el viernes que anunciamos no se cumplió; el jueves a las 10 te confirmo fecha de salida. Tres piezas. Si te falta una, el correo lleva un hueco honesto, no un invento.
 
@@ -90,7 +90,7 @@ Cómo reconocer sin rellenar:
 
 El plazo no es un adorno. Es el dato que el cliente va a subrayar. Si el modelo pone “a lo largo de la próxima semana” y tú no lo has dicho, es una fecha inventada con cariño. Tachas. Pones la tuya o pones “aún no hay fecha; el jueves te la doy”. Las dos son honestas. La semana inventada no.
 
-## ChatGPT, tono de atención al cliente
+### ChatGPT, tono de atención al cliente
 
 **ChatGPT tono de atención al cliente** no es “sé empático y profesional”. Esa etiqueta produce LinkedIn: “lamentamos las molestias ocasionadas”, “quedamos a su entera disposición”, cero hecho. El tono se pide con un molde y con prohibiciones.
 
@@ -143,7 +143,7 @@ Iterar, un punto:
 
 No un prompt nuevo de 40 líneas. La estructura ya estaba. Falló un hecho. Se corrige el hecho. Luego lees otra vez contra el bloc de cuatro líneas.
 
-## Qué pegas y qué no
+### Qué pegas y qué no
 
 El atajo feo: copiar el ticket entero del CRM, el hilo, el teléfono, la cuenta, el IBAN “por si pide devolución”. Eso no mejora el tono. Expone al cliente. El chat de consumo no es el recinto de tu empresa.
 
@@ -164,7 +164,7 @@ La receta del caso limpio es **cliente A, importe N, plazo**. El detalle está e
 
 El modelo no “tiene el contexto del cliente”. Tiene lo que le das en este mensaje. Eso es una ventaja: no puede inventar el expediente si no se lo das. Es una obligación: lo que no le das, o lo pones tú en el correo final o no existe.
 
-## Reclamación de un cliente, borrador: la pasada antes de enviar
+### Reclamación de un cliente, borrador: la pasada antes de enviar
 
 Una **reclamación de un cliente borrador** no es el correo. Es un texto en el chat. Entre el chat y “enviar” hay una pasada tuya, con el original al lado.
 

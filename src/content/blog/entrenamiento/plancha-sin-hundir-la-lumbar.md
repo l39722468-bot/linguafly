@@ -69,7 +69,7 @@ Empieza cada tanda por cadera, costillas y cuello. Luego el reloj. Si empiezas p
 
 Alfombra que no resbale. Un rincón de dos metros. Esto no salta. Si sales de ocho horas de silla, no entres en frío: círculos de hombros, una sentadilla al aire, un gato-camello corto. Eso no es una clase de movilidad. Es no pedir a una lumbar de escritorio que haga de viga en el segundo uno.
 
-## Antebrazos o manos: da igual al principio
+### Antebrazos o manos: da igual al principio
 
 Antebrazos o manos, da igual al principio. Lo que no da igual es la cadera.
 
@@ -79,7 +79,7 @@ Elige **una**. Tres semanas en la misma te enseñan cuándo se hunde. Alternar c
 
 Suelo primero, si sale. Si la cadera cae a los tres segundos, no insistas “para fortalecerla”. Sube las manos a un sofá o una mesa que no se mueva. Misma línea. Menos palanca. Eso es la bajada de este artículo, no un deporte nuevo.
 
-## Si tiemblas a los 12 segundos, ese es tu número
+### Si tiemblas a los 12 segundos, ese es tu número
 
 El temblor no es el enemigo. El hundimiento sí. Puedes temblar con la cadera en su sitio. Eso sigue siendo plancha. Puedes estar “firme” en el selfie y con la lumbar colgando. Eso no.
 
@@ -95,7 +95,7 @@ El ardor delante del tronco o en los hombros, si la línea se mantiene, es quím
 
 Compararte con el minuto del feed es ruido. Doce con forma es un punto de partida honesto. Noventa de plátano es un punto de partida mentiroso. Si un día los 12 salen holgados, no saltes a 40 esa tarde. Anota “fácil”. La siguiente sesión, 15 o 20. El tendón no firma el mismo contrato que el ego del miércoles.
 
-## Rodillas, menos tiempo o manos más altas
+### Rodillas, menos tiempo o manos más altas
 
 Una sola bajada. No un menú. Si la lumbar se hunde, haces **una** de estas tres, la que te deje la línea:
 
@@ -111,7 +111,7 @@ Manos altas: prueba el mueble. Si se mueve, no es tu estación. Una silla con ru
 
 Subes de esta bajada cuando el último segundo se parece al primero, varias tandas, varios días. Entonces suelo **o** un poco más de tiempo, no las dos cosas. Si al bajar al suelo la cadera cae a los cinco, vuelves. Eso no es un mes perdido. Es no firmar un arco. Hasta que esta línea exista, coleccionar variantes es cómo se esconde que aún no existe.
 
-## Lo que hunde la lumbar (y lo que no la arregla)
+### Lo que hunde la lumbar (y lo que no la arregla)
 
 **Perseguir el reloj.** El móvil pone 60. Tú pones la cadera a disposición del 60. A partir de un punto ya no hay plancha. Hay una persona esperando que suene. Para antes.
 
@@ -135,7 +135,7 @@ Dolor agudo, hinchazón, un gesto que se va, hormigueo: paras. Consultas si toca
 
 La silla de ocho horas existe. Si la lumbar de silla mejora al caminar y la plancha corta no la pica, sigue. Si la plancha pica en un punto y al día siguiente está peor, la plancha espera. El paseo no.
 
-## Cómo subir segundos sin convertirte en plátano
+### Cómo subir segundos sin convertirte en plátano
 
 La regla es la de siempre: **si terminas la tanda pudiendo hacer un poco más con la misma cara, sube un peldaño**. Un peldaño. Cinco o diez segundos, o quitar rodillas, o bajar las manos un palmo. No los tres.
 

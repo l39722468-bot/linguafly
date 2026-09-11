@@ -60,7 +60,7 @@ Tampoco es ayunas un chicle, un vaso de agua con limón o un “ayuno sucio” d
 
 Cinco horas desde el mediodía y sentadilla a las 20:00 es el mismo problema con otra luz. No hace falta haber dormido en vacío. Basta con que la última comida esté lejos y el primer compuesto pida control.
 
-## Método: tres preguntas a las 6:40 (o a las 20:00)
+### Método: tres preguntas a las 6:40 (o a las 20:00)
 
 Sin debate largo. Tres preguntas. Luego una decisión.
 
@@ -79,7 +79,7 @@ No hace falta una app. Hace falta no convertir el hambre en identidad.
 
 Si 2 es “no me entra nada” todas las mañanas, el problema no es el ayunas: es la hora de la sesión o la de la cena. Mueve una de las dos. Forzar náusea tres días por semana no es un método. Es un horario roto.
 
-## Fuerza en ayunas: por qué casi nunca
+### Fuerza en ayunas: por qué casi nunca
 
 La sentadilla pide control. El control pide que no estés negociando un temblor de azúcar o un mareo. El primer mes de fuerza ya tiene bastante con el patrón. Añadir un ayuno es una palanca extra que [la sobrecarga progresiva](/blog/entrenamiento/progresar-sin-lesionarte) no te había pedido.
 
@@ -99,7 +99,7 @@ El eslogan de “quema más grasa” no paga una sentadilla fea. El reloj de la 
 
 Quien copia a alguien que entrena en ayunas desde hace años copia también, sin querer, una base que tú no tienes. El primer mes no es ese alguien. El primer mes es aprender a bajar. El estómago vacío no enseña eso.
 
-## Caminar sí; el resto, no primero
+### Caminar sí; el resto, no primero
 
 Un paseo de 20-40 minutos en ayunas, si te sienta y no es verano a 38 grados, es una vida normal. No es zona 2 de laboratorio. No sustituye la fuerza. No hace falta un gel.
 
@@ -117,7 +117,7 @@ Si tu único hueco es antes del desayuno y odias comer a las 6:40, elige: sesió
 
 Calor, humedad, poco sueño: el paseo en ayunas también se acorta. No es un derecho adquirido. Si hay mareo, paras. Agua. Sombra. Comida cuando puedas. El ayunas no es una medalla de verano.
 
-## Café, pulso y primer compuesto
+### Café, pulso y primer compuesto
 
 Café antes de entrenar: si te sienta, adelante. Si te sube el pulso hasta el primer ejercicio, espera cinco minutos o cómelo con algo. Café en ayunas + sentadilla es un combinado frecuente y una mala idea frecuente.
 
@@ -129,7 +129,7 @@ El café no cambia la respuesta de las tres preguntas. Sigue siendo fuerza o pas
 
 Si el café con leche te sienta y cuenta como bocado, ya no estás en este artículo. Estás en “comí algo”. Bien. Entrena.
 
-## Señales de que hoy no
+### Señales de que hoy no
 
 Para. O come. O acorta.
 
@@ -144,7 +144,7 @@ Ante eso, la sesión de 15 minutos **después** de un yogur gana. O el paseo. O 
 
 No negocies “una serie más para no perder el estímulo”. El estímulo de hoy, si hay mareo, es parar. El de la semana son las otras dos sesiones con comida.
 
-## Tarde y noche: el ayunas que no parece ayunas
+### Tarde y noche: el ayunas que no parece ayunas
 
 El vacío de las 20:00 es el mismo que el de las 7, con peor prensa. “No merendar para llegar vacío y quemar más” recorta la sesión o la cena. Pierdes las dos.
 
@@ -154,7 +154,7 @@ Si cenas a las 00:00 y entrenas a las 7, el problema es el horario, no la falta 
 
 Turno de noche: decide un ancla. Fuerza después de una comida, no al final de ocho horas de máquina de café. El nombre del reloj da igual.
 
-## Viaje, hotel, estómago cerrado
+### Viaje, hotel, estómago cerrado
 
 Hotel sin nevera: un yogur del súper de la esquina, fruta, pan. Gasolinera: el menos malo (yogur, plátano, bocadillo pequeño). Avión: no solo galletas y luego sentadilla en la habitación.
 
@@ -162,7 +162,7 @@ Si no hay nada y la sesión es el único ancla del día, haz movilidad y un circ
 
 Estómago cerrado de verdad (viaje, nervios, resaca): no es el día de probar el protocolo. Paseo. Agua. Comida cuando entre. La fuerza espera a un hueco con un bocado.
 
-## Casos que parecen ayunas y no lo son
+### Casos que parecen ayunas y no lo son
 
 Ramadán, preparaciones clínicas, indicación de un médico: otra conversación, con profesional. No este blog.
 
@@ -172,7 +172,7 @@ Ramadán, preparaciones clínicas, indicación de un médico: otra conversación
 
 “En ayunas se me da mejor la concentración.” A veces. En un paseo. En un documento. En una sentadilla nueva, la concentración que necesitas es bajar en plomada, no aguantar hambre. Prueba las dos cosas una semana cada una y mira el cuaderno, no la sensación de seriedad.
 
-## Cómo probar sin convertirlo en religión
+### Cómo probar sin convertirlo en religión
 
 Si insistes en probar fuerza en ayunas: una semana, sesión de 15 minutos, versión fácil, cuaderno. Si la técnica se cae o hay mareo, se acaba el experimento. Si sale limpia y te sienta, sigue siendo un compromiso, no un contenido para el feed.
 
@@ -187,7 +187,7 @@ Reglas del experimento, para que no se alargue:
 - Criterio de parada escrito antes: mareo, rango que se cae, mal humor que dura hasta las diez.
 - Si paras, no “has fallado el ayuno”. Has recogido un dato.
 
-## El mito de definir el primer mes
+### El mito de definir el primer mes
 
 Recortar comida para “marcar” mientras empiezas a entrenar es el camino corto a una sesión floja y un atracón. El primer mes de pesas pide constancia y un plato con las tres piezas, no un déficit agresivo. Si hay un objetivo de peso, se habla con calma y, si toca, con un profesional. No con un ayuno de reel el día de la sentadilla.
 
@@ -197,7 +197,7 @@ El ayunas no arregla un menú inexistente. No arregla dormir 5 horas. No marca e
 
 Si el objetivo es “sentirte con control”, un desayuno pequeño da más control que un vacío. El control es bajar la sentadilla con forma, no aguantar hambre.
 
-## Qué hacer en vez del protocolo
+### Qué hacer en vez del protocolo
 
 - Deja el yogur a la vista la noche anterior.
 - Si odias comer temprano, entrena a mediodía o a la tarde.
@@ -207,7 +207,7 @@ Si el objetivo es “sentirte con control”, un desayuno pequeño da más contr
 
 El bocado mínimo, para esta decisión, es comida: yogur, plátano, tostada. No un café. No un chicle. Qué desayuno completo viene después, si hace falta, lo cuenta el otro texto. Aquí basta que dejes de estar en ayunas de verdad.
 
-## Errores
+### Errores
 
 - Llamar ayunas a un yogur y pelearte con este artículo.
 - Llamar desayuno a un espresso.
@@ -220,7 +220,7 @@ El bocado mínimo, para esta decisión, es comida: yogur, plátano, tostada. No 
 - Seguir la sesión cuando hay mareo “para no perder el día”.
 - Predicar el vacío cuando lo que te sienta es un compromiso estrecho.
 
-## Cuatro semanas para decidir de verdad
+### Cuatro semanas para decidir de verdad
 
 **Semana 1.** Fuerza después de un bocado, o paseo en vacío y fuerza más tarde. Anota mareo, vueltas, humor a las diez.
 

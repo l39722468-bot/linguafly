@@ -50,7 +50,11 @@ canonical: 'https://linguafly.app/blog/gramatica/pasiva-ingles-errores-comunes'
 
 La voz pasiva tiene una lógica clara, pero hay una serie de errores que aparecen una y otra vez en los textos de estudiantes de inglés, sin importar el nivel. No son errores de comprensión profunda: son detalles que se escapan y que, una vez identificados, se corrigen de forma definitiva.
 
-## Error 1: Usar el pasado simple en lugar del participio
+Consultas como **errores pasiva ingles**, **errores frecuentes de la voz pasiva en inglés** o **cómo corregir errores de pasiva en inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
+## Errores frecuentes
+
+### Error 1: Usar el pasado simple en lugar del participio
 
 Este es, con diferencia, el error más frecuente. La voz pasiva requiere el **participio pasado**, no el pasado simple. Con verbos regulares no hay diferencia (*worked, cleaned, fixed*). Pero con los irregulares, el pasado simple y el participio son distintos.
 
@@ -68,7 +72,7 @@ Este es, con diferencia, el error más frecuente. La voz pasiva requiere el **pa
 
 La solución es revisar la lista de verbos irregulares y asegurarte de que usas siempre la tercera columna (participio), no la segunda (pasado simple).
 
-## Error 2: Pasiva con verbos intransitivos
+### Error 2: Pasiva con verbos intransitivos
 
 Los verbos intransitivos, es decir, los que no llevan objeto directo, no pueden usarse en pasiva. No tienen objeto que "recibir" la acción y convertirse en sujeto.
 
@@ -86,7 +90,7 @@ Verbos intransitivos frecuentes: *arrive, sleep, go, come, die, happen, appear, 
 
 Si un verbo no lleva objeto, no hay pasiva. Es así de simple.
 
-## Error 3: Olvidar el verbo "to be"
+### Error 3: Olvidar el verbo "to be"
 
 La pasiva requiere siempre **to be + participio**. A veces el *be* desaparece, especialmente en tiempos compuestos:
 
@@ -103,7 +107,7 @@ El auxiliar *be* es imprescindible. Sin él, la construcción no funciona.
 
 En el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) tienes la tabla completa con todos los tiempos para que no pierdas ningún auxiliar.
 
-## Error 4: Confundir "by" y "with"
+### Error 4: Confundir "by" y "with"
 
 *By* introduce el agente (quién realiza la acción). *With* introduce el instrumento o material.
 
@@ -118,7 +122,7 @@ En el hub [Voz Pasiva en Inglés](/blog/temas/voz-pasiva-ingles) tienes la tabla
 
 La pregunta que debes hacerte es: ¿es una persona o entidad que actúa (*by*) o es un objeto/material que se usa (*with*)?
 
-## Error 5: Usar la pasiva donde no es natural
+### Error 5: Usar la pasiva donde no es natural
 
 La pasiva no siempre es apropiada. En conversación informal, forzar la pasiva suena artificial:
 
@@ -130,7 +134,7 @@ La pasiva no siempre es apropiada. En conversación informal, forzar la pasiva s
 
 La pasiva tiene sentido cuando el agente es desconocido, irrelevante o cuando quieres poner el foco en la acción. Si ninguna de estas condiciones se cumple, la activa es mejor.
 
-## Error 6: Tiempo verbal incorrecto en la pasiva
+### Error 6: Tiempo verbal incorrecto en la pasiva
 
 A veces el estudiante forma bien la pasiva pero elige el tiempo equivocado:
 
@@ -145,7 +149,7 @@ A veces el estudiante forma bien la pasiva pero elige el tiempo equivocado:
 
 Los marcadores temporales (*yesterday, last week, by the time*) te indican qué tiempo debes usar.
 
-## Error 7: "Get" + participio mal construido
+### Error 7: "Get" + participio mal construido
 
 *Get something done* (causativa) no es lo mismo que *get + participio* en pasiva informal. A veces se confunden:
 
@@ -160,7 +164,7 @@ La diferencia es si hay objeto después de *get*. Sin objeto → pasiva informal
 ❌ *I got repaired my computer.*
 ✅ *I got my computer repaired.* (causativa, objeto antes del participio)
 
-## Error 8: "It was + adjetivo + that" mal usado
+### Error 8: "It was + adjetivo + that" mal usado
 
 Con ciertas expresiones como *It is important/necessary/essential/recommended that*, la pasiva impersonal tiene su propia estructura:
 

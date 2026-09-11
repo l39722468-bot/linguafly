@@ -38,6 +38,8 @@ Pero ¿qué es exactamente el General American? ¿Dónde se habla? ¿Y qué lo d
 
 ---
 
+Consultas como **General American: Guía del Acento Americano**, **general american acento** o **Acento Americano General American** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué es el General American (y qué no es)
 
 El término General American fue propuesto por el lingüista George Philip Krapp en 1925 para describir los acentos del norte y oeste de Estados Unidos, los que no tenían las características marcadas del sur (el *drawl*) ni los rasgos particulares de Nueva Inglaterra. Krapp lo presentó como el acento "sin acento" de los americanos.

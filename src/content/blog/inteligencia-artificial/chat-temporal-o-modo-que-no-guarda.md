@@ -63,7 +63,7 @@ Eso es **chat temporal ChatGPT** en la práctica. No hay que pagar un plan para 
 
 Alta y ajustes de cuenta (historial, entrenamiento, memoria) son el día cero: [crear una cuenta de ChatGPT y configurar lo básico](/blog/inteligencia-artificial/crear-una-cuenta-de-chatgpt-y-configurar-lo-basico). Temporal es un gesto *por conversación*, no un sustituto de esos tres.
 
-## Incógnito de un chatbot: lo que no es
+### Incógnito de un chatbot: lo que no es
 
 **Incógnito de un chatbot** es el apodo que le pone la gente. Es mala metáfora.
 
@@ -80,7 +80,7 @@ Tampoco es:
 
 Si necesitas que *nadie* de esa empresa pueda ver el texto ni en un incidente, el modo no te da eso. No pegas. Esa es la única palanca que es tuya al cien por cien.
 
-## Gemini: chats que no se guardan
+### Gemini: chats que no se guardan
 
 **Gemini chats que no se guardan** es la misma necesidad en otro recinto. Google ata el chat a una cuenta y, a menudo, a un historial de actividad. El trabajo que buscas: una conversación que no quieras ver mañana en la lista, o que no alimente la actividad de la misma forma.
 
@@ -95,7 +95,7 @@ Si Gemini “ya tiene el Drive”, el modo que no guarda el chat **no** conviert
 
 Claude u otros: busca “no guardar” / chat privado / temporal. Mismo criterio. Mismos límites. La marca no te salva.
 
-## Cuándo usar el modo temporal
+### Cuándo usar el modo temporal
 
 **Cuándo usar el modo temporal:** un trabajo corto, tuyo, ya limpio, que no quieres en la barra junto a las recetas y el email del jueves. No un expediente. No un DNI.
 
@@ -140,7 +140,7 @@ Después de copiar: el original vive en *tu* correo o *tu* nota. El chat tempora
 
 Si al recortar se cae la tarea, no enciendes temporal “para compensar”. Paras.
 
-## Límites del chat que «no recuerda»
+### Límites del chat que «no recuerda»
 
 Los **límites del chat que ‘no recuerda’** son los que importan el martes:
 

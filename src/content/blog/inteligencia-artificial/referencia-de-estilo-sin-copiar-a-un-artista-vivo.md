@@ -71,7 +71,7 @@ Pasos, antes de generar:
 
 Si el trabajo es “quiero el look de este profesional porque su marca es eso”, el gesto honesto es **encargar**. O licenciar. O usar otro look. El generador no es un taller clandestino.
 
-## No poner el nombre de un ilustrador vivo
+### No poner el nombre de un ilustrador vivo
 
 **No poner el nombre de un ilustrador vivo** se escribe en negativo porque el hábito del prompt es el positivo: “in the style of…”. Ese hábito sale de foros. No lo copies.
 
@@ -107,7 +107,7 @@ Nombres de **maestros muertos** y de **medios de época**: el patrón permitido 
 
 Si un cliente te llega con “hazlo como [vivo]”, traduces a medio y paleta o devuelves el encargo. No eres el puente del clon.
 
-## Describir el estilo con palabras
+### Describir el estilo con palabras
 
 **Describir el estilo con palabras** es el oficio de esta página. Cinco cajones. Los rellenas. Si un cajón solo se puede rellenar con un apellido, ese cajón sobra.
 
@@ -137,7 +137,7 @@ Prueba A/B, útil:
 
 Si el output sale genérico, afinas un rasgo: “sombras rayadas horizontales”. Un rasgo. No una biografía de un autor. Elige una familia de medio (plano, grabado, gouache, cartel de tres tintas). Mezclarlas todas es ruido, no un estilo.
 
-## Referencias genéricas de época
+### Referencias genéricas de época
 
 **Referencias genéricas de época** son el sí de esta página. “Grabado del XIX.” “Litografía de cartel.” “Temple de retablo gótico, figuras hieráticas, oro plano” —si tu escena es un esquema, igual el oro estorba; el punto es: **época + medio**, no un vivo.
 
@@ -165,7 +165,7 @@ Regenera si el plástico del táper sale “de catálogo de 2026”. Pide “for
 
 Cuando la época no aporta: un icono de una web. Entonces no pidas “XIX”. Pide “pictograma, trazo de 4 px, esquinas redondeadas, un color”. Eso también es describir con palabras. Es el estilo *plano* de producto, no un autor.
 
-## IA y derechos de un artista (el borde ético)
+### IA y derechos de un artista (el borde ético)
 
 **IA y derechos de un artista**, en *este* artículo, no es un dictamen de propiedad intelectual. El dictamen, si lo necesitas, es de un letrado; el mapa de herramienta y uso está en el satélite de derechos. Aquí el borde es más simple: **no uses a un artista identificable como plantilla**. El derecho moral, el encargo, la marca personal de un ilustrador: todo eso existe en el mundo real. Tú no lo resuelves con un prompt ingenioso.
 
@@ -185,7 +185,7 @@ El output puede, aun sin nombre, acercarse a un repertorio famoso. Por eso miras
 
 Relación con la cara: clonar un trazo y clonar un rostro son primos. El retrato de una persona real sin derecho tiene su página: [no usar la cara de una persona real sin derecho](/blog/inteligencia-artificial/no-usar-la-cara-de-una-persona-real-sin-derecho). No los fusiones en un solo prompt “estilo de [vivo] + cara de [famoso]”. Los dos están cerrados.
 
-## Copiar un autor en Midjourney (por qué no)
+### Copiar un autor en Midjourney (por qué no)
 
 **Copiar un autor en Midjourney** es la búsqueda de atajo. La respuesta de esta página es no. Midjourney (o el que uses) puede ser bueno completando un nombre. Eso no es un argumento. Es el motivo de no ponerlo.
 

@@ -60,7 +60,7 @@ Tres noches normales alrededor de tres sesiones ganan a una semana de “entren�
 
 El sueño también mueve el hambre y la paciencia. Eso no convierte este texto en un artículo de nevera. Convierte la noche mala en una razón más para no subir kilos. Comes. Bajas palanca. Sigues.
 
-## Si dormiste poco
+### Si dormiste poco
 
 Jerarquía:
 
@@ -81,7 +81,7 @@ Fiebre de cansancio, visión rara, mareo, irritabilidad que ya traías de la cam
 
 El espresso doble a las 6:20 no convierte cinco horas en ocho. Si te sienta y no te sube el pulso hasta la sentadilla, adelante, con palanca baja. Si el estómago vacío y el café son el único plan, espera o come algo mínimo, o mueve la sesión. El café espera. El récord espera. El tendón no firma el espresso.
 
-## Noche de entreno, noche off
+### Noche de entreno, noche off
 
 Noche de entreno: intenta no negociar la cama. Día off: también. El sueño no es un extra de los días de sentadilla. Es el fondo.
 
@@ -95,7 +95,7 @@ Si entrenas a las 21:00, termina a tiempo. Cena. Baja pantallas. Quedarte “muy
 
 Fin de semana de “recuperar sueño”: útil si no es un caos de horarios que destroza el lunes. Dormir 12 el sábado y 4 el domingo no es un método. Es un jet lag casero.
 
-## Pantalla, cena, café, alcohol
+### Pantalla, cena, café, alcohol
 
 El móvil no es el único villano, pero es el más fácil de nombrar. Si entrenas temprano, la 1:00 de reels es una palanca contra la sentadilla. Baja el brillo, deja el teléfono fuera, lo que ya sepas que te funciona. La tendencia del reloj es tendencia, no sentencia.
 
@@ -113,7 +113,7 @@ Alcohol: una copa no es un delito. Tres y sentadilla pesada a las 10:00 es un de
 
 Comidas picantes, volumen enorme, siesta de dos horas a las 16:00: si te destrozan la noche, no las conviertas en ritual de “recuperación”. Recuperas durmiendo, no comiendo como si el off pidiera un banquete a las 23:00.
 
-## Siesta
+### Siesta
 
 Opcional. 15-25 minutos si te sienta y no te deja groggy. No un permiso para destrozar la noche. No un ritual que, si se cae, cancela el entreno.
 
@@ -123,7 +123,7 @@ Turno de mañana después de noche rota: a veces un tramo corto ayuda. A veces n
 
 Siesta el día off: igual de opcional. El off pide movimiento y cama nocturna, no un hibernar de tarde que luego impide dormir.
 
-## Turnos, hijos, vida
+### Turnos, hijos, vida
 
 No todo el mundo duerme ocho. El criterio sigue: **la palanca de carga no sube el día que la noche no firmó**. Turno de noche: entrena cuando duermas, no al salir reventado. Guardias: mínimo viable o off. Niños: la sesión de 15 minutos existe para eso.
 
@@ -141,7 +141,7 @@ Ruido, calor, pareja que ronca, obras: vida. No hay un artículo de fuerza que l
 
 Si el insomnio es el tema de tu vida, no lo va a resolver un artículo de fuerza. Baja palancas de entrenamiento y busca ayuda si toca. No sumes cafeína, HIIT y culpa.
 
-## Reloj, anillo, app
+### Reloj, anillo, app
 
 Sirven para ver una tendencia (tres semanas malas). No para diagnosticar una noche. No para saltarte la sesión por un 67 de score si te sientes bien, ni para hacer un PR porque el reloj dijo 92. La técnica y el humor mandan más que el número.
 
@@ -151,7 +151,7 @@ Dormiste fatal y el reloj dice 80: crees al cuerpo. Dormiste bien y el reloj dic
 
 No hace falta comprar el anillo para aplicar este artículo. Hace falta no negociar la 1:00 y bajar palanca cuando la noche no firmó. El resto es marketing.
 
-## Encaje con la semana
+### Encaje con la semana
 
 Lunes de fuerza, noche decente: sesión normal, una palanca si toca según el cuaderno, no según el ego.
 

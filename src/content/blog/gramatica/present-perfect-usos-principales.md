@@ -44,6 +44,8 @@ Para ver cómo encaja el present perfect dentro del panorama general de los tiem
 
 ---
 
+Consultas como **present perfect usos**, **usos del present perfect en inglés con ejemplos** o **cómo usar present perfect para hispanohablantes** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Uso 1: Experiencias de vida (sin tiempo concreto)
 
 Cuando hablas de algo que has hecho o no has hecho en algún momento de tu vida, usas present perfect. El tiempo exacto no interesa o no se menciona.
@@ -59,7 +61,7 @@ La pista más clara de este uso son las palabras **ever** y **never**. Cuando ap
 
 ---
 
-## Uso 2: Resultado presente de una acción pasada
+### Uso 2: Resultado presente de una acción pasada
 
 Aquí es donde muchos hablantes de español lo tienen más difícil, porque en español tendemos a usar el pretérito indefinido incluso cuando el resultado sigue presente.
 
@@ -76,7 +78,7 @@ Compara:
 
 ---
 
-## Uso 3: Acciones muy recientes (just, recently, lately)
+### Uso 3: Acciones muy recientes (just, recently, lately)
 
 Cuando algo acaba de pasar o ha pasado hace muy poco, el present perfect indica esa frescura temporal.
 
@@ -91,7 +93,7 @@ Cuando algo acaba de pasar o ha pasado hace muy poco, el present perfect indica 
 
 ---
 
-## Uso 4: Situaciones que empezaron en el pasado y continúan ahora
+### Uso 4: Situaciones que empezaron en el pasado y continúan ahora
 
 Cuando algo comenzó en algún momento del pasado y todavía es verdad en el presente, el inglés usa present perfect — no presente simple como haría el español.
 
@@ -111,7 +113,7 @@ En español decimos "vivo aquí desde hace diez años" en presente. En inglés, 
 
 ---
 
-## La estructura: have/has + participio
+### La estructura: have/has + participio
 
 La forma del present perfect es siempre la misma:
 
@@ -128,7 +130,7 @@ Pregunta: *Have/Has* + sujeto + participio?
 
 ---
 
-## Formas contraídas en el habla real
+### Formas contraídas en el habla real
 
 En conversación, los nativos casi siempre contraen:
 
@@ -141,7 +143,7 @@ En conversación, los nativos casi siempre contraen:
 
 ---
 
-## Los cuatro usos en una sola tabla
+### Los cuatro usos en una sola tabla
 
 | Uso | Ejemplo | Clave |
 |-----|---------|-------|

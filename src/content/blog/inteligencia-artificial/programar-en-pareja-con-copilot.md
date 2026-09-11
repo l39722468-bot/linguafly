@@ -73,7 +73,7 @@ Tres reglas de partida, antes de Tab:
 
 Cómo pides algo claro en el chat: tarea, contexto (el archivo o la selección), formato, qué no inventar. El contexto ya está en el disco. No hace falta pegar el repo entero.
 
-## Licencia: pregunta a IT
+### Licencia: pregunta a IT
 
 GitHub Copilot de empresa no se “activa” con un truco. Es un producto de pago o un plan que la organización asigna. Tú puedes tener VS Code y no tener Copilot. Puedes tener Copilot individual en tu cuenta personal y tener **prohibido** usarlo con código de la empresa. IT lo sabe. Tú preguntas.
 
@@ -91,7 +91,7 @@ Secretos. Aunque IT haya dicho sí a Copilot, **no** pegas API keys, `.env` ni t
 
 Cuenta personal en un repo de trabajo. Mezclar es el atajo que luego no puedes explicar. Sesión de organización, repo de organización. Si no hay vía, no hay Copilot en ese código.
 
-## Aceptar o rechazar una sugerencia (ejemplo de Luis)
+### Aceptar o rechazar una sugerencia (ejemplo de Luis)
 
 El caso. Luis escribe una función en Python para formatear una fecha de factura en `YYYY-MM-DD`. Ya tiene tests mentales: vacío → error claro; texto no fecha → error claro; una fecha válida → string. No está pidiendo un ERP.
 
@@ -132,7 +132,7 @@ Qué compruebas, contra el código, no contra “si suena a Python”:
 
 Un extra: acepta *una* línea cuando la siguiente aún no la has leído. El bloque de veinte líneas se revisa como veinte líneas, no como un favor.
 
-## Copilot Chat frente a autocompletado
+### Copilot Chat frente a autocompletado
 
 **Copilot Chat vs autocomplete** son dos herramientas. Mezclarlas es el error de “le pido al chat que reescriba el repo mientras el gris sigue proponiendo”.
 
@@ -167,7 +167,7 @@ Docker, tests, CI y un README profesional. Usa las keys del .env.
 
 Eso no es pareja. Es un encargo a un extraño con tus secretos. El `.env` no entra. El módulo no se reescribe por aburrimiento.
 
-## La IA no escriba tests que no corres
+### La IA no escriba tests que no corres
 
 **IA no escriba tests que no corres** es la línea que evita un verde falso. Copilot (chat o gris) puede proponerte un `test_formatear_fecha_factura_vacio`. Hasta que no lanzas el runner, no es una prueba. Es texto.
 
@@ -184,7 +184,7 @@ Ejemplo. Luis pide al chat: “escribe tests”. Salida típica: importa `pytest
 
 Si el autocompletado te rellena un test mientras escribes `def test_vacio`: lees el assert. Si espera `"01/01/1970"` y tu función debe lanzar, el test está mal aunque Copilot esté seguro.
 
-## Cuándo apagar Copilot
+### Cuándo apagar Copilot
 
 **Cuándo apagar Copilot** no es una postura. Es un interruptor cuando el producto estorba. La extensión se desactiva por archivo, por lenguaje o por completo. El sitio del botón cambia. El trabajo no: dejar de ver gris.
 

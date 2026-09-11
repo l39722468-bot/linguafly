@@ -62,7 +62,7 @@ Ejemplos del mismo tipo, no de otro menú:
 
 Si el lunes ya era un plato serio, el martes no necesita un protocolo nuevo. Necesita que no lo sabotees.
 
-## Método: tres preguntas antes de tocar el pan
+### Método: tres preguntas antes de tocar el pan
 
 Antes de recortar, tres preguntas. No una app.
 
@@ -78,7 +78,7 @@ Cómo se usa un martes concreto. Te sientas. Miras el plato. Si estás lleno a m
 
 Anota, si te ayuda, una línea: “martes, mismo plato, dejé arroz” o “martes, recorté el pan y a las seis picoteé”. En dos semanas ves el patrón. Sin línea, cada off es una teoría nueva.
 
-## Por qué el recorte punitivo falla
+### Por qué el recorte punitivo falla
 
 - Llegas a las 18:00 salvaje. Galletas, queso de pie, pedido.
 - Duermes peor. Hambre a las 23:00.
@@ -93,7 +93,7 @@ El recorte punitivo también falla en silencio. No siempre hay un atracón cinem
 
 Tampoco “funciona” como control. El control sería repetir el plato. El recorte es un gesto de identidad: hoy soy alguien que no come. Ese gesto no repara un tendón. No marca un abdomen. Deja el miércoles más difícil.
 
-## Cómo se ve “un poco menos”
+### Cómo se ve “un poco menos”
 
 Un poco menos no es una dieta. Es oído.
 
@@ -114,7 +114,7 @@ Si al dejar tres cuartos sigues con hambre a los veinte minutos, el recorte era 
 
 Raciones toscas, las mismas del resto de la semana. Palmas, cazos, ojo. El día de descanso no es el día de estrenar la báscula. Si empiezas a pesar el martes y el lunes no, estás haciendo una dieta de dos días a la semana. Eso se nota el jueves.
 
-## Hidratos el martes
+### Hidratos el martes
 
 No son el enemigo. Si caminas, trabajas de pie o simplemente vives, el cerebro los usa. Un mediodía corto de hidrato y un sofá a las 18:00 con picoteo es el intercambio clásico.
 
@@ -124,7 +124,7 @@ Fruta: sigue siendo comida. Quitarla “por el azúcar” el día off no te hace
 
 El eslogan de “hoy no hay hidratos porque no hay gym” copia a otra fase. El arroz del leftover no deshace el lunes. Quitar el hidrato del mediodía te deja a las cuatro con el cajón: no es voluntad, es un plato cojo. De noche, si no hay hambre, menos pasta; si el plato pide patata, patata. Cerveza no es el hidrato del martes.
 
-## Proteína también el martes
+### Proteína también el martes
 
 El centro del plato no se va de vacaciones. Huevos, yogur, legumbre, pescado, tofu. Tres comidas. El batido no hace falta. El fiambre de sándwich de vez en cuando, sí, si es lo que hay.
 
@@ -132,7 +132,7 @@ Si el mediodía es un menú del día, las mismas tres preguntas. Si es leftover,
 
 Quien recorta “solo el pan” a veces se lleva también el yogur y el huevo: el modo penitencia no distingue. El centro se queda. Al mirar el plato, ¿ves proteína o acompañamiento? Un puñado de garbanzos sobre lechuga no es un plato de descanso. Si una comida se cae, bocadillo serio o yogur y fruta. No “ya no entreno, da igual”.
 
-## Un martes de nevera (para copiar, no para enmarcar)
+### Un martes de nevera (para copiar, no para enmarcar)
 
 Esto es comida. No es un calendario de pasos.
 
@@ -144,7 +144,7 @@ Esto es comida. No es un calendario de pasos.
 
 El leftover del domingo se come aquí, no el viernes misterioso. Si comes fuera: un plato, verdura a la vista. No tres entradas ni ayuno hasta la cena.
 
-## Hambre rara el día off
+### Hambre rara el día off
 
 A veces hay más hambre (ciclo, sueño, estrés, el lunes fue duro). Comes. Plato. No es un fallo del plan.
 
@@ -162,7 +162,7 @@ Hambre a las 23:00 el día off: suele ser cena corta, recorte de hidrato, o pant
 
 El día sin sesión deja más horas delante de la nevera. Sed: un vaso y decides. Pantalla: el tarro no es parte del plato. Si a media tarde hace falta comida, siéntate (yogur y fruta, pan y tomate), no de pie. Recortar el arroz a mediodía para “compensar el tarro” es el orden invertido.
 
-## Alcohol, brunch y el “día libre de comida”
+### Alcohol, brunch y el “día libre de comida”
 
 Un sábado largo no obliga a un domingo de zumos. Un vino el viernes cuenta; no es el hidrato del entreno y tampoco exige un lunes de lechuga.
 
@@ -172,7 +172,7 @@ Brunch: es comida, no premio infinito. Proteína a la vista. Luego una cena norm
 
 El día de descanso no es el día libre de comida. Tampoco es el día en que “todo vale porque mañana hay pesas”. Un extra el sábado. Un plato el domingo. El lunes no se “paga”. Brunch: huevos o yogur a la vista, pan si hay hambre, cena normal después. No tres pasteles y luego infusión. Alcohol: cuenta; no es hidrato de recuperación y no exige zumos al día siguiente.
 
-## Semana con tres offs
+### Semana con tres offs
 
 Si entrenas lunes-miércoles-viernes, hay cuatro días de este artículo. No son cuatro dietas. Son cuatro veces el mismo criterio. El menú semanal ya los cubre si no apagas el plan en cuanto no hay sudor.
 
@@ -184,11 +184,11 @@ El jueves, segundo off de la semana, es donde más gente recorta. El miércoles 
 
 Turno raro: el off puede caer en domingo o en miércoles a las 04:00. Da igual el nombre. El criterio es el mismo. ¿Hay tres piezas? ¿El recorte es hambre o palo? Fin.
 
-## Trabajo, leftover y el menú del día
+### Trabajo, leftover y el menú del día
 
 El mediodía de oficina el día off es donde muere el plan: no hay sesión que “justifique” el tupper, así que se queda en casa. El tupper no pide gym. Pide ser comido. Menú del día: primero y segundo, verdura a la vista, pan si hay hambre. No la ensalada de penitencia. Sin nevera: bocadillo serio y fruta. Leftover del domingo: es el martes. Recalentar. Niños o visitas: huevos o bote, no un ayuno.
 
-## Errores
+### Errores
 
 - Solo ensalada para compensar.
 - Quitar la fruta.
@@ -204,7 +204,7 @@ El mediodía de oficina el día off es donde muere el plan: no hay sesión que �
 
 El error de fondo es uno: tratar el off como un agujero calórico que hay que agrandar. El off es un día de recuperar. Recuperar pide comida. El agujero, si algún día existe, se decide en calma, en el conjunto de la semana, no escondiendo el arroz cuando no sudas.
 
-## Cuatro semanas para dejar el palo
+### Cuatro semanas para dejar el palo
 
 **Semana 1.** Mismo tipo de plato los días sin pesas. No toques el pan por decreto. Anota si hay hambre de verdad o recorte de cabeza.
 

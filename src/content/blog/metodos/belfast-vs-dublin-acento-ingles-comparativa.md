@@ -37,6 +37,8 @@ Esta guía ofrece una **comparativa orientativa** para el aprendiz de inglés: q
 
 ---
 
+Consultas como **Belfast vs Dublin accent English**, **Belfast versus Dublín** o **Belfast or Dublín** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Marco político mínimo (para no confundir “Irlanda” en clase)
 
 - La **República de Irlanda** es un Estado independiente; su capital es **Dublín**.
@@ -51,7 +53,7 @@ En el aula de inglés, mantén precisión geográfica: ayuda a la **empatía** y
 
 ---
 
-## Hiberno-English (eje Dublín / República): líneas generales
+### Hiberno-English (eje Dublín / República): líneas generales
 
 El **Hiberno-English** designa, de forma amplia, las variedades del inglés en la República de Irlanda, fuertemente marcadas históricamente por el **bilingüismo con el irlandés (gaélico)**.
 
@@ -66,7 +68,7 @@ Rasgos que a menudo enseñan los manuales (con todas las salvedades del mundo):
 
 ---
 
-## Inglés en Irlanda del Norte (eje Belfast): líneas generales
+### Inglés en Irlanda del Norte (eje Belfast): líneas generales
 
 En Irlanda del Norte, el inglés convive con una historia de contacto entre variedades **escocesas**, **inglesas del norte** y **irlandés** en la parte republicana de la comunidad. Por eso algunos rasgos fonéticos recuerdan a oyentes no expertos el **Ulster** o incluso el oeste de Escocia —pero con variación interna enorme.
 
@@ -80,7 +82,7 @@ Es habitual que los manuales adviertan de:
 
 ---
 
-## Comparativa práctica para el viajero
+### Comparativa práctica para el viajero
 
 | Aspecto | Dublín (orientativo) | Belfast (orientativo) |
 |--------|----------------------|-------------------------|
@@ -93,7 +95,7 @@ La lección para el oído: **cambia el “paquete léxico”** aunque la melodí
 
 ---
 
-## Comparativa para el profesional remoto
+### Comparativa para el profesional remoto
 
 Si tu empresa tiene **entidad legal** en Dublín pero contrata en Belfast (o al revés), verás:
 
@@ -104,7 +106,7 @@ En calls mixtas, **no bromees** con política norirlandesa salvo que el contexto
 
 ---
 
-## Cómo entrenar el oído sin mezclar modelos el mismo día
+### Cómo entrenar el oído sin mezclar modelos el mismo día
 
 **Día A — solo República:** podcasts de noticias de la ROI, entrevistas en Dublín.
 
@@ -116,7 +118,7 @@ Mezclar acentos al azar en una misma sesión al principio puede **confundir** pa
 
 ---
 
-## Léxico: trampas entre islas
+### Léxico: trampas entre islas
 
 Algunas palabras “británicas” aparecen en ambos lados, pero el **contexto político** cambia el marco:
 
@@ -127,7 +129,7 @@ Algunas palabras “británicas” aparecen en ambos lados, pero el **contexto p
 
 ---
 
-## Sensibilidad: identidad y lenguaje
+### Sensibilidad: identidad y lenguaje
 
 Preguntas del tipo *Are you Irish or British?* pueden ser **cargadas** en Belfast dependiendo de contexto y persona. En entorno profesional, limita a datos necesarios: ciudad de residencia fiscal, disponibilidad horaria, idioma de trabajo.
 
@@ -135,7 +137,7 @@ En la República, el vínculo con el gaélico es política cultural viva; celebr
 
 ---
 
-## Errores de estudio típicos
+### Errores de estudio típicos
 
 1. **Aprender solo con películas** ambientadas en conflictos históricos sin contraste con habla contemporánea cotidiana.
 2. **Asumir** que un actor en Hollywood “representa” Belfast o Dublín con fidelidad fonética.
@@ -143,7 +145,7 @@ En la República, el vínculo con el gaélico es política cultural viva; celebr
 
 ---
 
-## Por qué tu oído “cambia de canal” al cruzar la frontera invisible
+### Por qué tu oído “cambia de canal” al cruzar la frontera invisible
 
 Aunque no haya muro físico, el oyente extranjero a veces nota un **salto perceptivo** al pasar de contextos ROI a NI. No es magia: es conjunto de **vocales**, **ritmo** y **cotexto léxico** alineado con UK. Tu cerebro había predicho *holiday* en un registro y de repente aparece más densidad de formas británicas septentrionales en anuncios públicos, vendedores o radio.
 
@@ -151,7 +153,7 @@ Aunque no haya muro físico, el oyente extranjero a veces nota un **salto percep
 
 ---
 
-## Educación, medios y modelos escolares (efecto secundario en pronunciación docente)
+### Educación, medios y modelos escolares (efecto secundario en pronunciación docente)
 
 Los sistemas educativos no determinan el acento de una persona, pero sí influyen en la **exposición** a modelos. En contextos escolares, es frecuente encontrar profesores con orientación hacia normas británicas estándar mezcladas con habla local. Para el estudiante adulto, la lección es: **el acento del aula** puede diferir del acento del autobús nocturno.
 
@@ -159,7 +161,7 @@ Si tomas clase en Dublín y luego trabjas con Belfast, no asumas continuidad fon
 
 ---
 
-## Ejemplos de contraste léxico (orientativos, no exhaustivos)
+### Ejemplos de contraste léxico (orientativos, no exhaustivos)
 
 Algunos pares que aparecen en guías de inglés por regiones:
 
@@ -171,7 +173,7 @@ No memorices listas infinitas: **anclea** a tu viaje real. Si vas a usar mucho a
 
 ---
 
-## Fonetica sin IPA: tres “anclas” para comparar Belfast y Dublín
+### Fonetica sin IPA: tres “anclas” para comparar Belfast y Dublín
 
 1. **Presencia y calidad de /r/**: en muchos modelos del sur y del norte es audible frente a RP no rótico; la similitud superficial puede ocultar **diferencias de timbre**.
 2. **Patrones de entonación en preguntas retóricas**: el sur a veces “narrativiza” más; el norte puede (subjetivamente) sonar más **directo** en ciertos registros —no universalices.
@@ -181,7 +183,7 @@ Si IPA te abruma, usa **grabación comparada**: misma frase neutra leída en voz
 
 ---
 
-## Ejercicio integrador de cuatro semanas
+### Ejercicio integrador de cuatro semanas
 
 **Semana 1:** solo Dublín, 20 min/día, transcripción de 20 palabras de contenido por sesión.
 
@@ -193,7 +195,7 @@ Si IPA te abruma, usa **grabación comparada**: misma frase neutra leída en voz
 
 ---
 
-## Lecturas recomendadas (enfoque aplicado, no académico)
+### Lecturas recomendadas (enfoque aplicado, no académico)
 
 Si quieres profundizar sin convertirte en dialectólogo, alterna tres tipos de texto cada semana: **noticiario** (registro formal), **entrevista cultural** (registro medio) y **vlog cotidiano** (coloquial acelerado). Anota solo **una** diferencia fonética por sesión. A las ocho semanas tendrás un catálogo personal más fiable que cualquier tabla genérica de internet.
 
@@ -203,7 +205,7 @@ Si enseñas inglés a terceros, presenta Belfast y Dublín como **dos puntos de 
 
 ---
 
-## Conclusión
+### Conclusión
 
 Belfast y Dublín son **excelentes laboratorios** para entender que “acento irlandés” es un paraguas demasiado pequeño para tanta lluvia dialectal. Entrena con modelos locales auténticos, separa léxico administrativo por jurisdicción y mantén prudencia en temas identitarios. Tu inglés ganará **flexibilidad** real —la que sirve en frontera, en oficina y en el pub, sin confundir euros con libras ni acentos con estereotipos.
 

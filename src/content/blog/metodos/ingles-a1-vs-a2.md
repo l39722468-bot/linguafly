@@ -48,11 +48,13 @@ alt: Escala de niveles A1 y A2 de inglés en una infografía sencilla
 
 Cuando empezamos a estudiar inglés, a menudo nos sentimos abrumados por las etiquetas de los niveles. El Marco Común Europeo de Referencia para las lenguas (MCER) es el estándar internacional que define la competencia lingüística, y divide el nivel básico en dos etapas críticas: **A1 (Acceso)** y **A2 (Plataforma)**.
 
+Quien busca **diferencias entre inglés A1 y A2 con ejemplos** o **cómo saber si tengo nivel A1 o A2 de inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+
 Aunque ambos niveles se consideran para "principiantes", la diferencia en la capacidad de comunicación real es abismal. Mientras que el A1 es una etapa de supervivencia mecánica, el A2 representa el primer paso hacia la autonomía. Sin unos cimientos de A2 sólidos, es imposible alcanzar la fluidez de los niveles intermedios (B1 y B2).
 
 ---
 
-## 1. Nivel A1: El Despertar y la Supervivencia
+### 1. Nivel A1: El Despertar y la Supervivencia
 
 El nivel A1 es para quienes están teniendo su primer contacto serio con el idioma. En este punto, el inglés se siente como un rompecabezas de piezas sueltas. El objetivo principal es la **supervivencia inmediata** en situaciones muy predecibles.
 
@@ -60,7 +62,7 @@ El nivel A1 es para quienes están teniendo su primer contacto serio con el idio
 *   **Gramática**: El centro de tu universo lingüístico es el verbo *To Be*, el presente simple para rutinas básicas y los pronombres personales. Usas artículos (*a, an, the*) y preposiciones de lugar muy elementales (*in, on, at*).
 *   **La Barrera**: Tus frases son cortas e inconexas: *"I am a doctor. I live in Madrid. I like coffee."*
 
-## 2. Nivel A2: La Construcción de Historias y el Entorno Cotidiano
+### 2. Nivel A2: La Construcción de Historias y el Entorno Cotidiano
 
 El nivel A2 es donde el inglés empieza a ser verdaderamente "usable". Aquí ya no solo sobrevives, sino que empiezas a **compartir tu mundo y tu pasado**. Es el nivel de la comunicación funcional.
 
@@ -70,7 +72,7 @@ El nivel A2 es donde el inglés empieza a ser verdaderamente "usable". Aquí ya 
 
 ---
 
-## Tabla Comparativa: A1 vs A2
+### Tabla Comparativa: A1 vs A2
 
 | Competencia | Nivel A1 (Acceso) | Nivel A2 (Plataforma) |
 | :--- | :--- | :--- |
@@ -82,7 +84,7 @@ El nivel A2 es donde el inglés empieza a ser verdaderamente "usable". Aquí ya 
 
 ---
 
-## 3. Estrategias Clave: Cómo pasar del Nivel A1 al A2
+### 3. Estrategias Clave: Cómo pasar del Nivel A1 al A2
 
 Si sientes que te has estancado en las presentaciones básicas, aquí tienes el camino estratégico para avanzar:
 

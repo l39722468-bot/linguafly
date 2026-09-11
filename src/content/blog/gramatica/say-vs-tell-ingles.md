@@ -47,6 +47,8 @@ Para ver cómo encajan en el sistema completo del reported speech, la guía [Rep
 
 ---
 
+Consultas como **Say vs Tell en Inglés: Diferencias y Ejemplos**, **say tell diferencia ingles** o **diferencia entre say y tell en inglés con ejemplos** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## La diferencia fundamental: objeto de persona
 
 La regla más importante:

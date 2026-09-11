@@ -68,7 +68,7 @@ Ejemplo. Luis, martes, sala 3 y tres personas en el enlace. Tema: fecha de lanza
 
 “Grabamos esta parte para sacar un texto. Nombres de pila. ¿Ok?” Nora dice que sí. Carmen en el enlace dice que sí. El de producto dice que sí. El móvil de Luis queda en el centro, pantalla hacia arriba. Eso es el suelo. Si Nora hubiera dicho que no, no hay archivo. Hay notas a mano.
 
-## Privacidad de una grabación: qué no sube
+### Privacidad de una grabación: qué no sube
 
 **Privacidad de una grabación** empieza *antes* del proveedor de transcripción. El audio es el documento. Subirlo es el envío.
 
@@ -91,7 +91,7 @@ Si la organización **prohíbe** subir calls a nubes de consumidor, no hay atajo
 
 Luis, el martes: 22 minutos. Al minuto 14 Carmen dice el apellido del cliente y un número de pedido. Ese minuto no viaja. Luis corta o pita el apellido. El archivo que sube, si sube, ya no lleva la ficha.
 
-## Whisper de una reunión: local o nube
+### Whisper de una reunión: local o nube
 
 **Whisper de una reunión** es un modelo de audio a texto. No es mágico. No certifica. Elige el recinto *después* del consentimiento y *antes* de pulsar transcribir.
 
@@ -111,7 +111,7 @@ Pasos el martes, recinto permitido, audio ya recortado:
 
 Si el audio dura una hora, troceas. Un tema, un archivo. El modelo alucina más con ruido y solape. Una híbrida con eco lo hace peor: el mismo recorte, más estricto. No es otro artículo.
 
-## Hablantes de una transcripción (un paso, no el oficio)
+### Hablantes de una transcripción (un paso, no el oficio)
 
 **Hablantes de una transcripción** se etiquetan lo justo para no firmar un diálogo falso. El etiquetado fino (diarización, revisar cada turno, poner apellidos) es otro trabajo. Aquí un paso corto.
 
@@ -132,7 +132,7 @@ Luis, minuto 11. El texto dice: “Hablante 2: lo sacamos el jueves 11 si IT sue
 
 Si el motor no etiqueta nada, no pases el ladrillo pidiendo “pon nombres”. Como mucho: Persona A / B / C, sin nombres reales, `[no atribuido]` si no se parte, sin acta. Compruebas dos o tres puntos contra el audio. El oficio largo de hablantes no está en esta página.
 
-## ChatGPT transcripción de una call: recorte, no el archivo
+### ChatGPT transcripción de una call: recorte, no el archivo
 
 **ChatGPT transcripción de una call** (o Gemini, o Claude) no es “subo los 22 minutos y me da el acta”. Es, como mucho, un recinto más. El archivo entero de una call de personal **no entra**.
 
@@ -167,7 +167,7 @@ TEXTO:
 
 Claves, tokens, un “la API key está en…” dichos en la sala: fuera del recorte. No pides al modelo que “complete lo que se cortó”.
 
-## IA acta a partir del audio: el texto no es la minuta
+### IA acta a partir del audio: el texto no es la minuta
 
 **IA acta a partir del audio** es la tentación del martes a las 12:10. Tienes un .txt. Parece una reunión. Lo reenvías como “acta”. No lo es.
 

@@ -42,6 +42,8 @@ Si quieres el panorama completo del examen antes de entrar en los detalles, la [
 
 ---
 
+Consultas como **ielts writing task 1**, **estructura IELTS Task 1 Academic con ejemplos** o **vocabulario para tendencias y comparaciones IELTS** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
+
 ## Qué tipos de tarea pueden aparecer
 
 No todos los Task 1 son iguales. Los formatos más habituales son:
