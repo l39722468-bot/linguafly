@@ -1,4 +1,4 @@
-import { generateCollectionPageSchema } from "@/lib/schemas";
+import { generateCollectionPageSchema, generateArticleSchema } from "@/lib/schemas";
 import { articleDatesDiffer, formatArticleDate } from "@/lib/seo/article-dates";
 
 describe("article dates", () => {
@@ -56,5 +56,21 @@ describe("collection page schema", () => {
       position: 1,
       url: "https://linguafly.app/blog/gramatica/have-something-done-ingles",
     });
+  });
+
+  it("points BlogPosting at the topic canonical when a unit consolidates", () => {
+    const schema = generateArticleSchema({
+      title: "Zero Conditional A2",
+      description: "Práctica del curso.",
+      image: "/blog/og.jpg",
+      datePublished: "2026-08-11",
+      dateModified: "2026-08-11",
+      slug: "unidad-27-zero-conditional",
+      category: "curso-a2",
+      canonicalUrl: "https://linguafly.app/blog/gramatica/zero-conditional-ingles",
+    });
+    expect(schema.mainEntityOfPage["@id"]).toBe(
+      "https://linguafly.app/blog/gramatica/zero-conditional-ingles",
+    );
   });
 });

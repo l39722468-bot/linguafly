@@ -28,6 +28,13 @@ import { optimizeSEOTitle } from "@/utils/seo-utils";
 import { articleDatesDiffer, formatArticleDate } from "@/lib/seo/article-dates";
 import { getArticleOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
 import { uniqueSearchQueries } from "@/lib/seo/search-queries";
+import {
+  getCourseUnitEyebrow,
+  parseCourseUnitSlug,
+  resolveArticleCanonicalUrl,
+  resolveCourseTopicCanonical,
+} from "@/lib/seo/unit-topic-canonical";
+import { CourseTopicCanonicalBanner } from "@/components/blog/CourseTopicCanonicalBanner";
 import { RelatedSearches } from "@/components/blog/RelatedSearches";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -60,9 +67,7 @@ export async function generateMetadata({ params }: { params: Promise<{ category:
     keywords: article.keywords,
   }, 20);
   const og = ogImageMeta(seoTitle, getArticleOgImagePath(article));
-  const canonicalUrl =
-    article.canonical ||
-    getAbsoluteUrl(`/blog/${normalizeCategory(article.category)}/${slug}`);
+  const canonicalUrl = resolveArticleCanonicalUrl(article);
   const modifiedTime = article.updatedDate || article.date;
 
   return {
@@ -117,6 +122,24 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const categoryLabel = getPublicCategoryLabel(normalizedCategory).name;
   const contentLanguage = "es-ES";
 
+  const canonicalUrl = resolveArticleCanonicalUrl(article);
+  const topicCanonical = resolveCourseTopicCanonical(normalizedCategory, slug);
+  const courseEyebrow = getCourseUnitEyebrow(normalizedCategory, slug);
+  let topicGuide:
+    | { href: string; title: string; targetIsCourseUnit: boolean }
+    | null = null;
+  if (topicCanonical) {
+    const guide = await getPublishedArticle(
+      topicCanonical.slug,
+      topicCanonical.category,
+    );
+    topicGuide = {
+      href: topicCanonical.path,
+      title: guide?.title || "Ver la guía del tema",
+      targetIsCourseUnit: topicCanonical.category.startsWith("curso-"),
+    };
+  }
+
   const articleSchema = generateArticleSchema({
     title: article.title,
     description: article.description || article.excerpt,
@@ -131,6 +154,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     }, 20),
     wordCount,
     inLanguage: contentLanguage,
+    canonicalUrl,
     author: article.authorData ? {
       name: article.authorData.name,
       slug: article.authorData.slug,
@@ -364,9 +388,26 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       )}
                     </div>
 
+                     {courseEyebrow ? (
+                       <p className="text-sm font-bold uppercase tracking-widest text-slate-500 mb-3">
+                         {courseEyebrow}
+                       </p>
+                     ) : null}
                      <h1 className="font-display text-4xl lg:text-5xl font-black text-slate-900 mb-8 leading-[1.1]">
                        {article.title}
                      </h1>
+
+                     {topicGuide ? (
+                       <CourseTopicCanonicalBanner
+                         href={topicGuide.href}
+                         title={topicGuide.title}
+                         targetIsCourseUnit={topicGuide.targetIsCourseUnit}
+                         isWorkbook={
+                           parseCourseUnitSlug(normalizedCategory, slug)
+                             ?.isWorkbook === true
+                         }
+                       />
+                     ) : null}
 
                      {isPublicArticleCategory(normalizedCategory) ? null : (
                      <div className="print-hidden">

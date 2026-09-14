@@ -1,5 +1,6 @@
 import { render, screen } from "@testing-library/react";
 import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
+import { CourseTopicCanonicalBanner } from "@/components/blog/CourseTopicCanonicalBanner";
 import { getArticleHubLink } from "@/lib/seo/article-hub-link";
 
 function assertIndexable(href: string) {
@@ -48,5 +49,21 @@ describe("SEOInterlinking", () => {
     expect(hrefs).toContain("/blog/gramatica/gramatica-inglesa-guia");
     expect(hrefs).toContain("/blog/gramatica");
     hrefs.forEach(assertIndexable);
+  });
+});
+
+describe("CourseTopicCanonicalBanner", () => {
+  it("links the unit to the grammar guide instead of a parked /curso-* URL", () => {
+    render(
+      <CourseTopicCanonicalBanner
+        href="/blog/gramatica/zero-conditional-ingles"
+        title="Zero Conditional en inglés"
+        targetIsCourseUnit={false}
+        isWorkbook={false}
+      />,
+    );
+    const link = screen.getByRole("link", { name: /zero conditional/i });
+    expect(link).toHaveAttribute("href", "/blog/gramatica/zero-conditional-ingles");
+    expect(screen.getByText(/unidad del curso/i)).toBeInTheDocument();
   });
 });

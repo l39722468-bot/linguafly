@@ -3,6 +3,7 @@ import { isLegacyCourseRedirectRoute } from "@/lib/routes/course-access";
 import { getProductRouteRedirect } from "@/lib/product-config";
 import { getParkedPageRedirect } from "@/lib/site-catalog";
 import { canonicalLinkHeaderValue, getCanonicalUrl } from "@/lib/seo/canonical";
+import { linkHeaderCanonicalPath } from "@/lib/seo/unit-topic-canonical";
 
 function normalizeBlogCategorySlug(category: string): string {
   return category
@@ -101,7 +102,10 @@ export async function middleware(request: NextRequest) {
   if (!isStaticAsset && !isApi) {
     response.headers.append(
       "Link",
-      canonicalLinkHeaderValue(pathname, request.nextUrl.searchParams),
+      canonicalLinkHeaderValue(
+        linkHeaderCanonicalPath(pathname),
+        request.nextUrl.searchParams,
+      ),
     );
   }
   return response;
