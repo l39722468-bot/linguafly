@@ -17,6 +17,7 @@ import {
   getArticleOgImageUrl,
   getCategoryOgImageUrl,
 } from "@/lib/seo/og-images";
+import { isSitemapSatelliteArticle } from "@/lib/seo/unit-topic-canonical";
 
 const SITE_LAUNCH_DATE = new Date("2026-09-08");
 
@@ -172,13 +173,23 @@ export async function buildMagazineSitemap(
     if (offset < total) {
       const articles = await listSitemapArticles(offset, SITEMAP_CHUNK_SIZE);
       urls.push(
-        ...articles.map((article) => ({
-          url: `${baseUrl}/blog/${normalizeCategory(article.category)}/${article.slug}`,
-          lastModified: new Date(article.updated_at || article.created_at || SITE_LAUNCH_DATE),
-          changeFrequency: "weekly" as const,
-          priority: 0.7,
-          images: [getArticleOgImageUrl(article)],
-        }))
+        ...articles
+          .filter(
+            (article) =>
+              !isSitemapSatelliteArticle(
+                normalizeCategory(article.category),
+                article.slug,
+              ),
+          )
+          .map((article) => ({
+            url: `${baseUrl}/blog/${normalizeCategory(article.category)}/${article.slug}`,
+            lastModified: new Date(
+              article.updated_at || article.created_at || SITE_LAUNCH_DATE,
+            ),
+            changeFrequency: "weekly" as const,
+            priority: 0.7,
+            images: [getArticleOgImageUrl(article)],
+          })),
       );
     }
 

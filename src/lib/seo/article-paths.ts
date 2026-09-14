@@ -4,16 +4,28 @@ const ARTICLE_CANONICAL_PATHS = articleCanonicalPaths as Record<string, string>;
 
 const WORKBOOK_SUFFIX = "-ejercicios-soluciones";
 const WORKBOOK_SLUG = /^unidad-(\d+)-.+-ejercicios-soluciones$/;
+const THEORY_SLUG = /^unidad-(\d+)-/;
 const COURSE_WORKBOOK_PATH = /^\/blog\/curso-(a1|a2|b1|b2|c1)\//;
 
 /** `a1:1` → `/blog/curso-a1/unidad-1-…-ejercicios-soluciones` */
 const WORKBOOK_BY_COURSE_UNIT: Record<string, string> = {};
+/** `a1:1` → `/blog/curso-a1/unidad-1-…` (teoría; el stem a veces no coincide con el cuaderno). */
+const THEORY_BY_COURSE_UNIT: Record<string, string> = {};
 for (const [slug, path] of Object.entries(ARTICLE_CANONICAL_PATHS)) {
-  const unit = slug.match(WORKBOOK_SLUG);
   const course = path.match(COURSE_WORKBOOK_PATH);
-  if (!unit || !course) continue;
-  const key = `${course[1]}:${Number(unit[1])}`;
-  if (!WORKBOOK_BY_COURSE_UNIT[key]) WORKBOOK_BY_COURSE_UNIT[key] = path;
+  if (!course) continue;
+  const keyBase = `${course[1]}:`;
+  const workbook = slug.match(WORKBOOK_SLUG);
+  if (workbook) {
+    const key = `${keyBase}${Number(workbook[1])}`;
+    if (!WORKBOOK_BY_COURSE_UNIT[key]) WORKBOOK_BY_COURSE_UNIT[key] = path;
+    continue;
+  }
+  const theory = slug.match(THEORY_SLUG);
+  if (theory) {
+    const key = `${keyBase}${Number(theory[1])}`;
+    if (!THEORY_BY_COURSE_UNIT[key]) THEORY_BY_COURSE_UNIT[key] = path;
+  }
 }
 
 function normalizeSlug(slug: string): string {
@@ -59,4 +71,11 @@ export function getWorkbookPathForCourseUnit(
   unitNumber: number,
 ): string | null {
   return WORKBOOK_BY_COURSE_UNIT[`${level}:${unitNumber}`] || null;
+}
+
+export function getTheoryPathForCourseUnit(
+  level: string,
+  unitNumber: number,
+): string | null {
+  return THEORY_BY_COURSE_UNIT[`${level}:${unitNumber}`] || null;
 }

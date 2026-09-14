@@ -27,6 +27,8 @@ export interface ArticleSchemaProps {
   keywords?: string[];
   wordCount?: number;
   inLanguage?: string;
+  /** Canonical URL when this page consolidates into another topic guide. */
+  canonicalUrl?: string;
   author?: {
     name: string;
     slug: string;
@@ -183,7 +185,7 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
     "dateModified": props.dateModified,
     "mainEntityOfPage": {
       "@type": "WebPage",
-      "@id": getAbsoluteUrl(`/blog/${props.category}/${props.slug}`)
+      "@id": props.canonicalUrl || getAbsoluteUrl(`/blog/${props.category}/${props.slug}`)
     },
     "copyrightYear": new Date().getFullYear(),
     "copyrightHolder": {
