@@ -17,9 +17,16 @@ export function BlogCTAButtons({ location }: BlogCTAButtonsProps) {
     return (
       <div className="flex flex-wrap gap-3">
         <Link
+          href="/registro?curso=ingles-a1"
+          onClick={() => trackCTAClick('Apuntarme al curso', `blog_cta_${location}`)}
+          className="inline-flex items-center justify-center rounded-xl bg-coral-600 px-5 py-2.5 text-sm font-bold text-white hover:bg-coral-700 transition-colors"
+        >
+          Apuntarme al curso
+        </Link>
+        <Link
           href="/curso-a1/unit-1"
           onClick={() => trackCTAClick('Empezar curso A1', `blog_cta_${location}`)}
-          className="inline-flex items-center justify-center rounded-xl bg-coral-600 px-5 py-2.5 text-sm font-bold text-white hover:bg-coral-700 transition-colors"
+          className="inline-flex items-center justify-center rounded-xl border border-coral-200 bg-white px-5 py-2.5 text-sm font-bold text-coral-700 hover:bg-coral-50 transition-colors"
         >
           Empezar curso A1
         </Link>
@@ -45,9 +52,16 @@ export function BlogCTAButtons({ location }: BlogCTAButtonsProps) {
   return (
     <div className="flex flex-col sm:flex-row gap-4">
       <Link
+        href="/registro?curso=ingles-a1"
+        onClick={() => trackCTAClick('Apuntarme al curso', `blog_cta_${location}`)}
+        className="inline-flex items-center justify-center bg-coral-600 text-white px-8 py-4 rounded-xl font-bold hover:bg-coral-700 transition-all hover:scale-[1.02] active:scale-[0.98]"
+      >
+        Apuntarme al curso
+      </Link>
+      <Link
         href="/curso-a1/unit-1"
         onClick={() => trackCTAClick('Empezar curso A1', `blog_cta_${location}`)}
-        className="inline-flex items-center justify-center bg-coral-600 text-white px-8 py-4 rounded-xl font-bold hover:bg-coral-700 transition-all hover:scale-[1.02] active:scale-[0.98]"
+        className="inline-flex items-center justify-center bg-white border-2 border-slate-200 text-slate-700 px-8 py-4 rounded-xl font-bold hover:border-coral-200 hover:bg-coral-50/30 transition-all"
       >
         Empezar curso A1
       </Link>

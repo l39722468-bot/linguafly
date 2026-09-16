@@ -284,6 +284,10 @@ const STATIC_HUBS: Record<string, { title: string; summary: string }> = {
     title: "Contacto",
     summary: `Cómo escribir a ${SITE_BRAND_NAME}.`,
   },
+  "/registro": {
+    title: "Registro de cursos",
+    summary: `Apúntate a un curso de inglés A1–C2 o de sector profesional en ${SITE_BRAND_NAME}.`,
+  },
   "/blog": {
     title: "Blog",
     summary: SITE_DESCRIPTION,

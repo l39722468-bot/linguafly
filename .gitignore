@@ -19,6 +19,8 @@ focusonenglish.worktrees/
 # Archivos de entorno y logs
 .env
 .env.*.local
+n8n/.env
+n8n/data/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*

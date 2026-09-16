@@ -1,0 +1,105 @@
+{
+  "name": "Linguafly · Errores de registro",
+  "id": "wf_registro_alumnos_errores",
+  "active": false,
+  "nodes": [
+    {
+      "typeVersion": 1,
+      "position": [
+        200,
+        240
+      ],
+      "id": "error-trigger",
+      "name": "Error Trigger",
+      "type": "n8n-nodes-base.errorTrigger",
+      "parameters": {}
+    },
+    {
+      "typeVersion": 2.5,
+      "position": [
+        460,
+        240
+      ],
+      "id": "log-failure",
+      "name": "Guardar fallo",
+      "type": "n8n-nodes-base.postgres",
+      "credentials": {
+        "postgres": {
+          "id": "postgres-linguafly",
+          "name": "Postgres Linguafly"
+        }
+      },
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO failed_enrollments (execution_id, workflow_name, email, course_id, error_message, payload)\nVALUES ($1, $2, $3, $4, $5, $6::jsonb)",
+        "options": {
+          "queryReplacement": "={{ $json.execution.id }},={{ $json.workflow.name }},={{ $json.execution.data?.resultData?.runData ? '' : ($json.execution.data?.startData?.destinationNode || '') }},={{ '' }},={{ $json.execution.error?.message || 'unknown' }},={{ JSON.stringify($json) }}"
+        }
+      }
+    },
+    {
+      "typeVersion": 2.1,
+      "position": [
+        720,
+        240
+      ],
+      "id": "notify-admin",
+      "name": "Avisar a ops",
+      "type": "n8n-nodes-base.emailSend",
+      "credentials": {
+        "smtp": {
+          "id": "smtp-linguafly",
+          "name": "SMTP Linguafly"
+        }
+      },
+      "onError": "continueRegularOutput",
+      "parameters": {
+        "fromEmail": "={{ $env.ENROLLMENT_FROM_EMAIL }}",
+        "toEmail": "={{ $env.ENROLLMENT_ADMIN_EMAIL }}",
+        "subject": "Fallo en el registro de alumnos n8n",
+        "text": "={{ 'Ejecución ' + $json.execution.id + ' — ' + ($json.execution.error?.message || 'error') }}",
+        "options": {}
+      }
+    }
+  ],
+  "connections": {
+    "Error Trigger": {
+      "main": [
+        [
+          {
+            "node": "Guardar fallo",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Guardar fallo": {
+      "main": [
+        [
+          {
+            "node": "Avisar a ops",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveDataErrorExecution": "all",
+    "timezone": "Europe/Madrid"
+  },
+  "tags": [
+    {
+      "name": "linguafly"
+    },
+    {
+      "name": "enrollment"
+    },
+    {
+      "name": "errors"
+    }
+  ]
+}

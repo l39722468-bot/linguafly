@@ -108,6 +108,7 @@ function staticUrls(
     },
     { url: `${baseUrl}/llms.txt`, lastModified: mostRecent, changeFrequency: "daily", priority: 0.7 },
     { url: `${baseUrl}/contacto`, lastModified: SITE_LAUNCH_DATE, changeFrequency: "yearly", priority: 0.5 },
+    { url: `${baseUrl}/registro`, lastModified: SITE_LAUNCH_DATE, changeFrequency: "monthly", priority: 0.6 },
     { url: `${baseUrl}/sobre-nosotros`, lastModified: mostRecent, changeFrequency: "monthly", priority: 0.6 },
     ...SITE_VERTICALS.map((vertical) => ({
       url: `${baseUrl}${vertical.href}`,

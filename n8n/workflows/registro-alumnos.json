@@ -1,0 +1,631 @@
+{
+  "name": "Linguafly · Registro de alumnos",
+  "id": "wf_registro_alumnos",
+  "active": false,
+  "nodes": [
+    {
+      "typeVersion": 1,
+      "position": [
+        -280,
+        80
+      ],
+      "id": "note-intro",
+      "name": "Cómo funciona",
+      "type": "n8n-nodes-base.stickyNote",
+      "parameters": {
+        "width": 320,
+        "height": 420,
+        "content": "## Registro fiable de alumnos\n\n1. Webhook firmado (HMAC).\n2. Valida email + curso.\n3. Upsert en Postgres con UNIQUE(email, course_id).\n4. HubSpot y email **no bloquean** la matrícula.\n5. Si este workflow falla, el error workflow guarda `failed_enrollments`.\n\nLa app Next.js ya persistió en D1 antes de llamar."
+      }
+    },
+    {
+      "typeVersion": 2.1,
+      "position": [
+        120,
+        300
+      ],
+      "id": "webhook",
+      "name": "Webhook registro",
+      "type": "n8n-nodes-base.webhook",
+      "webhookId": "registro-alumnos",
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "registro-alumnos",
+        "responseMode": "responseNode",
+        "options": {}
+      }
+    },
+    {
+      "typeVersion": 2,
+      "position": [
+        360,
+        300
+      ],
+      "id": "validate",
+      "name": "Validar firma y datos",
+      "type": "n8n-nodes-base.code",
+      "parameters": {
+        "jsCode": "const crypto = require('crypto');\nconst ALLOWED = new Set([\"ingles-a1\",\"ingles-a2\",\"ingles-b1\",\"ingles-b2\",\"ingles-c1\",\"ingles-c2\",\"camarero-a1\",\"camarero-a2\",\"camarero-b1\",\"camarero-b2\",\"logistica-a1\",\"logistica-a2\",\"logistica-b1\",\"logistica-b2\",\"recepcionista-a1\",\"recepcionista-a2\",\"recepcionista-b1\",\"recepcionista-b2\"]);\n\nfunction header(headers, name) {\n  const key = Object.keys(headers || {}).find((k) => k.toLowerCase() === name.toLowerCase());\n  return key ? String(headers[key]) : '';\n}\n\nconst root = $input.first().json;\nconst headers = root.headers || {};\nconst payload = root.body && typeof root.body === 'object' ? root.body : (root.payload || root);\n\nconst email = String(payload.email || '').trim().toLowerCase();\nconst courseId = String(payload.courseId || '');\nconst enrollmentId = String(payload.enrollmentId || '');\nconst firstName = String(payload.firstName || '').trim();\n\nif (!email.includes('@') || !email.includes('.') || firstName.length === 0 || !ALLOWED.has(courseId)) {\n  return [{ json: { valid: false, status: 400, response: { success: false, error: 'Datos de registro inválidos' } } }];\n}\n\nconst secret = $env.N8N_ENROLLMENT_HMAC_SECRET || '';\nif (secret) {\n  const timestamp = Number(header(headers, 'x-enrollment-timestamp'));\n  const signature = header(headers, 'x-enrollment-signature').toLowerCase();\n  const skew = Math.abs(Date.now() - timestamp);\n  const expected = crypto.createHmac('sha256', secret)\n    .update(timestamp + '.' + enrollmentId + '.' + email + '.' + courseId)\n    .digest('hex');\n  let ok = Number.isFinite(timestamp) && Boolean(signature) && skew <= 5 * 60 * 1000 && expected.length === signature.length;\n  if (ok) {\n    try { ok = crypto.timingSafeEqual(Buffer.from(expected), Buffer.from(signature)); }\n    catch (error) { ok = false; }\n  }\n  if (!ok) {\n    return [{ json: { valid: false, status: 401, response: { success: false, error: 'Firma inválida' } } }];\n  }\n}\n\nreturn [{ json: {\n  valid: true,\n  email,\n  courseId,\n  enrollmentId: enrollmentId || crypto.randomUUID(),\n  studentId: String(payload.studentId || crypto.randomUUID()),\n  firstName,\n  lastName: String(payload.lastName || '').trim(),\n  phone: payload.phone || null,\n  courseName: String(payload.courseName || courseId),\n  courseHref: String(payload.courseHref || ''),\n  currentLevel: String(payload.currentLevel || 'unknown'),\n  marketingConsent: Boolean(payload.marketingConsent),\n  source: String(payload.source || 'n8n'),\n  alreadyPersisted: Boolean(payload.alreadyPersisted),\n} }];\n"
+      }
+    },
+    {
+      "typeVersion": 2.2,
+      "position": [
+        600,
+        300
+      ],
+      "id": "if-valid",
+      "name": "¿Payload válido?",
+      "type": "n8n-nodes-base.if",
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "valid-true",
+              "leftValue": "={{ $json.valid }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        }
+      }
+    },
+    {
+      "typeVersion": 1.1,
+      "position": [
+        860,
+        520
+      ],
+      "id": "respond-invalid",
+      "name": "Responder error",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify($json.response) }}",
+        "options": {
+          "responseCode": "={{ $json.status || 400 }}"
+        }
+      }
+    },
+    {
+      "typeVersion": 2.5,
+      "position": [
+        860,
+        180
+      ],
+      "id": "find-enrollment",
+      "name": "Buscar matrícula existente",
+      "type": "n8n-nodes-base.postgres",
+      "credentials": {
+        "postgres": {
+          "id": "postgres-linguafly",
+          "name": "Postgres Linguafly"
+        }
+      },
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT id, student_id, status FROM course_enrollments WHERE lower(email) = lower($1) AND course_id = $2 LIMIT 1",
+        "options": {
+          "queryReplacement": "={{ $json.email }},={{ $json.courseId }}"
+        }
+      }
+    },
+    {
+      "typeVersion": 2,
+      "position": [
+        1080,
+        180
+      ],
+      "id": "merge-found",
+      "name": "Añadir si ya existía",
+      "type": "n8n-nodes-base.code",
+      "parameters": {
+        "jsCode": "const validated = $('Validar firma y datos').first().json;\nconst found = $input.first().json;\nconst alreadyExisted = Boolean(found && found.id);\nreturn [{ json: { ...validated, alreadyExisted, existingEnrollmentId: found.id || null } }];"
+      }
+    },
+    {
+      "typeVersion": 2.5,
+      "position": [
+        1320,
+        180
+      ],
+      "id": "upsert-student",
+      "name": "Upsert alumno",
+      "type": "n8n-nodes-base.postgres",
+      "credentials": {
+        "postgres": {
+          "id": "postgres-linguafly",
+          "name": "Postgres Linguafly"
+        }
+      },
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO students (id, email, first_name, last_name, phone, current_level, marketing_consent, created_at, updated_at)\nVALUES ($1::uuid, $2, $3, $4, $5, $6, $7, NOW(), NOW())\nON CONFLICT (email) DO UPDATE SET\n  first_name = EXCLUDED.first_name,\n  last_name = EXCLUDED.last_name,\n  phone = COALESCE(EXCLUDED.phone, students.phone),\n  current_level = EXCLUDED.current_level,\n  marketing_consent = EXCLUDED.marketing_consent,\n  updated_at = NOW()\nRETURNING id, email;",
+        "options": {
+          "queryReplacement": "={{ $json.studentId }},={{ $json.email }},={{ $json.firstName }},={{ $json.lastName }},={{ $json.phone }},={{ $json.currentLevel }},={{ $json.marketingConsent }}"
+        }
+      }
+    },
+    {
+      "typeVersion": 2.5,
+      "position": [
+        1560,
+        180
+      ],
+      "id": "insert-enrollment",
+      "name": "Insertar matrícula",
+      "type": "n8n-nodes-base.postgres",
+      "credentials": {
+        "postgres": {
+          "id": "postgres-linguafly",
+          "name": "Postgres Linguafly"
+        }
+      },
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 2000,
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO course_enrollments (id, student_id, email, course_id, status, source, created_at)\nVALUES ($1::uuid, $2::uuid, $3, $4, 'confirmed', $5, NOW())\nON CONFLICT (email, course_id) DO UPDATE SET status = course_enrollments.status\nRETURNING id, student_id, email, course_id, status;",
+        "options": {
+          "queryReplacement": "={{ $('Añadir si ya existía').first().json.enrollmentId }},={{ $('Añadir si ya existía').first().json.studentId }},={{ $('Añadir si ya existía').first().json.email }},={{ $('Añadir si ya existía').first().json.courseId }},={{ $('Añadir si ya existía').first().json.source }}"
+        }
+      }
+    },
+    {
+      "typeVersion": 2.5,
+      "position": [
+        1800,
+        180
+      ],
+      "id": "audit",
+      "name": "Auditoría",
+      "type": "n8n-nodes-base.postgres",
+      "credentials": {
+        "postgres": {
+          "id": "postgres-linguafly",
+          "name": "Postgres Linguafly"
+        }
+      },
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO enrollment_events (enrollment_id, email, course_id, event_type, payload)\nVALUES ($1::uuid, $2, $3, $4, $5::jsonb)",
+        "options": {
+          "queryReplacement": "={{ $json.id }},={{ $json.email }},={{ $json.course_id }},={{ $('Añadir si ya existía').first().json.alreadyExisted ? 'duplicate' : 'enrolled' }},={{ JSON.stringify($('Añadir si ya existía').first().json) }}"
+        }
+      }
+    },
+    {
+      "typeVersion": 2,
+      "position": [
+        2040,
+        180
+      ],
+      "id": "prepare-side-effects",
+      "name": "Preparar HubSpot y email",
+      "type": "n8n-nodes-base.code",
+      "parameters": {
+        "jsCode": "const item = $('Añadir si ya existía').first().json;\nconst properties = {\n  email: item.email,\n  firstname: item.firstName,\n  lastname: item.lastName || '',\n  phone: item.phone || '',\n  lifecyclestage: 'customer',\n  hs_lead_status: 'CONNECTED',\n};\nreturn [{ json: { ...item, hubspotProperties: properties, hasHubSpot: Boolean($env.HUBSPOT_ACCESS_TOKEN) } }];\n"
+      }
+    },
+    {
+      "typeVersion": 2.2,
+      "position": [
+        2280,
+        80
+      ],
+      "id": "if-hubspot",
+      "name": "¿Sincronizar HubSpot?",
+      "type": "n8n-nodes-base.if",
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "hubspot-on",
+              "leftValue": "={{ $json.hasHubSpot }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        }
+      }
+    },
+    {
+      "typeVersion": 4.2,
+      "position": [
+        2520,
+        -40
+      ],
+      "id": "hubspot-search",
+      "name": "Buscar contacto HubSpot",
+      "type": "n8n-nodes-base.httpRequest",
+      "onError": "continueRegularOutput",
+      "retryOnFail": true,
+      "maxTries": 4,
+      "waitBetweenTries": 3000,
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.hubapi.com/crm/v3/objects/contacts/search",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "=Bearer {{ $env.HUBSPOT_ACCESS_TOKEN }}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ filterGroups: [{ filters: [{ propertyName: 'email', operator: 'EQ', value: $json.email }] }], properties: ['email'] }) }}",
+        "options": {
+          "timeout": 15000
+        }
+      }
+    },
+    {
+      "typeVersion": 4.2,
+      "position": [
+        2760,
+        -40
+      ],
+      "id": "hubspot-upsert",
+      "name": "Crear o actualizar HubSpot",
+      "type": "n8n-nodes-base.httpRequest",
+      "onError": "continueRegularOutput",
+      "retryOnFail": true,
+      "maxTries": 4,
+      "waitBetweenTries": 3000,
+      "parameters": {
+        "method": "={{ $json.results && $json.results.length ? 'PATCH' : 'POST' }}",
+        "url": "={{ $json.results && $json.results.length ? 'https://api.hubapi.com/crm/v3/objects/contacts/' + $json.results[0].id : 'https://api.hubapi.com/crm/v3/objects/contacts' }}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "=Bearer {{ $env.HUBSPOT_ACCESS_TOKEN }}"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ properties: Object.assign({}, $('Preparar HubSpot y email').first().json.hubspotProperties, { course_interest: $('Preparar HubSpot y email').first().json.courseId, last_cefr_level: $('Preparar HubSpot y email').first().json.currentLevel }) }) }}",
+        "options": {
+          "timeout": 15000
+        }
+      }
+    },
+    {
+      "typeVersion": 2.2,
+      "position": [
+        2280,
+        320
+      ],
+      "id": "if-email",
+      "name": "¿Enviar bienvenida?",
+      "type": "n8n-nodes-base.if",
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "email-on",
+              "leftValue": "={{ Boolean($env.ENROLLMENT_FROM_EMAIL) && !$('Añadir si ya existía').first().json.alreadyExisted }}",
+              "rightValue": true,
+              "operator": {
+                "type": "boolean",
+                "operation": "true",
+                "singleValue": true
+              }
+            }
+          ],
+          "combinator": "and"
+        }
+      }
+    },
+    {
+      "typeVersion": 2.1,
+      "position": [
+        2520,
+        240
+      ],
+      "id": "send-welcome",
+      "name": "Email de bienvenida",
+      "type": "n8n-nodes-base.emailSend",
+      "credentials": {
+        "smtp": {
+          "id": "smtp-linguafly",
+          "name": "SMTP Linguafly"
+        }
+      },
+      "onError": "continueRegularOutput",
+      "retryOnFail": true,
+      "maxTries": 3,
+      "waitBetweenTries": 5000,
+      "parameters": {
+        "fromEmail": "={{ $env.ENROLLMENT_FROM_EMAIL }}",
+        "toEmail": "={{ $('Preparar HubSpot y email').first().json.email }}",
+        "subject": "={{ 'Tu plaza en ' + $('Preparar HubSpot y email').first().json.courseName + ' está confirmada' }}",
+        "html": "=<p>Hola {{ $('Preparar HubSpot y email').first().json.firstName }},</p><p>Ya estás apuntado a <strong>{{ $('Preparar HubSpot y email').first().json.courseName }}</strong>.</p><p><a href=\"{{ $('Preparar HubSpot y email').first().json.courseHref }}\">Empezar el curso</a></p><p>— Linguafly</p>",
+        "options": {}
+      }
+    },
+    {
+      "typeVersion": 2,
+      "position": [
+        3000,
+        180
+      ],
+      "id": "build-success",
+      "name": "Componer respuesta OK",
+      "type": "n8n-nodes-base.code",
+      "parameters": {
+        "jsCode": "const item = $('Añadir si ya existía').first().json;\nreturn [{ json: {\n  status: item.alreadyExisted ? 200 : 201,\n  response: {\n    success: true,\n    alreadyEnrolled: Boolean(item.alreadyExisted),\n    enrollmentId: item.enrollmentId,\n    studentId: item.studentId,\n    courseId: item.courseId,\n    courseName: item.courseName,\n  }\n} }];\n"
+      }
+    },
+    {
+      "typeVersion": 1.1,
+      "position": [
+        3240,
+        180
+      ],
+      "id": "respond-ok",
+      "name": "Responder OK",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ JSON.stringify($json.response) }}",
+        "options": {
+          "responseCode": "={{ $json.status }}"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Webhook registro": {
+      "main": [
+        [
+          {
+            "node": "Validar firma y datos",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Validar firma y datos": {
+      "main": [
+        [
+          {
+            "node": "¿Payload válido?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "¿Payload válido?": {
+      "main": [
+        [
+          {
+            "node": "Buscar matrícula existente",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Responder error",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Buscar matrícula existente": {
+      "main": [
+        [
+          {
+            "node": "Añadir si ya existía",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Añadir si ya existía": {
+      "main": [
+        [
+          {
+            "node": "Upsert alumno",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Upsert alumno": {
+      "main": [
+        [
+          {
+            "node": "Insertar matrícula",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Insertar matrícula": {
+      "main": [
+        [
+          {
+            "node": "Auditoría",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Auditoría": {
+      "main": [
+        [
+          {
+            "node": "Preparar HubSpot y email",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Preparar HubSpot y email": {
+      "main": [
+        [
+          {
+            "node": "¿Sincronizar HubSpot?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "¿Sincronizar HubSpot?": {
+      "main": [
+        [
+          {
+            "node": "Buscar contacto HubSpot",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "¿Enviar bienvenida?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Buscar contacto HubSpot": {
+      "main": [
+        [
+          {
+            "node": "Crear o actualizar HubSpot",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Crear o actualizar HubSpot": {
+      "main": [
+        [
+          {
+            "node": "¿Enviar bienvenida?",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "¿Enviar bienvenida?": {
+      "main": [
+        [
+          {
+            "node": "Email de bienvenida",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Componer respuesta OK",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Email de bienvenida": {
+      "main": [
+        [
+          {
+            "node": "Componer respuesta OK",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Componer respuesta OK": {
+      "main": [
+        [
+          {
+            "node": "Responder OK",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1",
+    "saveDataErrorExecution": "all",
+    "saveDataSuccessExecution": "all",
+    "saveManualExecutions": true,
+    "callerPolicy": "workflowsFromSameOwner",
+    "errorWorkflow": "wf_registro_alumnos_errores",
+    "timezone": "Europe/Madrid"
+  },
+  "tags": [
+    {
+      "name": "linguafly"
+    },
+    {
+      "name": "enrollment"
+    }
+  ],
+  "meta": {
+    "description": "Webhook de matrícula de alumnos: validación HMAC, idempotencia Postgres, HubSpot y email no bloqueantes."
+  }
+}
