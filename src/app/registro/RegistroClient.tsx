@@ -1,8 +1,9 @@
 'use client';
 
 import { Navigation } from "@/components/sections/Navigation";
-import { ENROLLABLE_COURSES } from "@/lib/enrollment/catalog";
+import { ENROLLABLE_COURSES, getEnrollableCourse } from "@/lib/enrollment/catalog";
 import { trackSignUp, trackSignupIntent } from "@/lib/analytics";
+import { submitEnrollment } from "./actions";
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
 
@@ -33,10 +34,24 @@ const INITIAL: FormState = {
   website: "",
 };
 
-export default function RegistroClient() {
-  const [formData, setFormData] = useState<FormState>(INITIAL);
-  const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">("idle");
-  const [errorMessage, setErrorMessage] = useState("");
+export default function RegistroClient({
+  initialCurso,
+  initialError,
+}: {
+  initialCurso?: string;
+  initialError?: string;
+}) {
+  const [formData, setFormData] = useState<FormState>({
+    ...INITIAL,
+    courseId:
+      initialCurso && ENROLLABLE_COURSES.some((course) => course.id === initialCurso)
+        ? initialCurso
+        : INITIAL.courseId,
+  });
+  const [status, setStatus] = useState<"idle" | "loading" | "success" | "error">(
+    initialError ? "error" : "idle",
+  );
+  const [errorMessage, setErrorMessage] = useState(initialError || "");
   const [alreadyEnrolled, setAlreadyEnrolled] = useState(false);
   const [courseHref, setCourseHref] = useState("/blog/curso-a1");
   const [courseName, setCourseName] = useState("Inglés A1 (principiante)");
@@ -47,6 +62,22 @@ export default function RegistroClient() {
     const curso = params.get("curso");
     if (curso && ENROLLABLE_COURSES.some((course) => course.id === curso)) {
       setFormData((prev) => ({ ...prev, courseId: curso }));
+      const selected = getEnrollableCourse(curso);
+      if (selected) {
+        setCourseHref(selected.blogHref);
+        setCourseName(selected.name);
+      }
+    }
+    const estado = params.get("estado");
+    if (estado === "confirmed" || estado === "duplicate") {
+      setAlreadyEnrolled(estado === "duplicate");
+      setStatus("success");
+      trackSignUp("email", getEnrollableCourse(curso || "ingles-a1")?.level, curso || "ingles-a1");
+    }
+    const error = params.get("error");
+    if (error) {
+      setStatus("error");
+      setErrorMessage(error);
     }
   }, []);
 
@@ -142,6 +173,7 @@ export default function RegistroClient() {
                     onClick={() => {
                       setStatus("idle");
                       setFormData(INITIAL);
+                      window.history.replaceState({}, "", "/registro");
                     }}
                     className="block mx-auto mt-6 text-green-700 font-bold underline"
                   >
@@ -149,7 +181,7 @@ export default function RegistroClient() {
                   </button>
                 </div>
               ) : (
-                <form onSubmit={handleSubmit} className="space-y-6">
+                <form action={submitEnrollment} onSubmit={handleSubmit} className="space-y-6">
                   <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     <div>
                       <label className="block text-sm font-bold text-slate-700 mb-2" htmlFor="firstName">

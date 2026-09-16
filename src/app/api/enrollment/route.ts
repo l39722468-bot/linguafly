@@ -1,30 +1,15 @@
 import { NextRequest, NextResponse } from "next/server";
-import { resolveCloudflareEnv } from "@/lib/db/client";
 import { ENROLLABLE_COURSES } from "@/lib/enrollment/catalog";
 import {
   drainEnrollmentOutbox,
   enrollStudent,
   EnrollmentRateLimitedError,
 } from "@/lib/enrollment/engine";
+import { resolveEnrollmentStore } from "@/lib/enrollment/resolve-store";
 import { parseEnrollmentRequest } from "@/lib/enrollment/schema";
-import {
-  D1EnrollmentStore,
-  getMemoryEnrollmentStore,
-  logEnrollmentEvent,
-  type EnrollmentStore,
-} from "@/lib/enrollment/store";
+import { logEnrollmentEvent } from "@/lib/enrollment/store";
 
 export const runtime = "nodejs";
-
-async function resolveEnrollmentStore(): Promise<EnrollmentStore> {
-  try {
-    const { env } = await resolveCloudflareEnv();
-    if (env.DB) return new D1EnrollmentStore(env.DB);
-  } catch {
-    // Local `next dev` and unit tests fall back to an in-memory store.
-  }
-  return getMemoryEnrollmentStore();
-}
 
 function clientIp(request: NextRequest): string | undefined {
   const forwarded = request.headers.get("x-forwarded-for");
