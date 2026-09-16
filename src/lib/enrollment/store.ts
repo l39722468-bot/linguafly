@@ -1,3 +1,4 @@
+import { ENROLLMENT_D1_SCHEMA_SQL } from "./d1-schema";
 import type {
   EnrollmentEvent,
   EnrollmentEventType,
@@ -261,12 +262,29 @@ function mapOutboxRow(row: Record<string, unknown>): OutboxItem {
 }
 
 export class D1EnrollmentStore implements EnrollmentStore {
+  private schemaReady: Promise<void> | null = null;
+
   constructor(private readonly db: D1Database) {}
+
+  private async ensureSchema(): Promise<void> {
+    if (!this.schemaReady) {
+      this.schemaReady = (async () => {
+        const statements = ENROLLMENT_D1_SCHEMA_SQL.split(";")
+          .map((statement) => statement.trim())
+          .filter(Boolean);
+        for (const statement of statements) {
+          await this.db.prepare(statement).run();
+        }
+      })();
+    }
+    await this.schemaReady;
+  }
 
   async findEnrollmentByEmailAndCourse(
     email: string,
     courseId: string,
   ): Promise<EnrollmentRecord | null> {
+    await this.ensureSchema();
     const row = await this.db
       .prepare(
         `SELECT id, student_id, email, course_id, source, idempotency_key, created_at
@@ -306,6 +324,7 @@ export class D1EnrollmentStore implements EnrollmentStore {
   }
 
   async upsertStudent(input: UpsertStudentInput): Promise<StudentRecord> {
+    await this.ensureSchema();
     await this.db
       .prepare(
         `INSERT INTO students (
@@ -389,6 +408,7 @@ export class D1EnrollmentStore implements EnrollmentStore {
   }
 
   async appendEvent(event: EnrollmentEvent): Promise<void> {
+    await this.ensureSchema();
     await this.db
       .prepare(
         `INSERT INTO enrollment_events (
@@ -426,6 +446,7 @@ export class D1EnrollmentStore implements EnrollmentStore {
   }
 
   async listPendingOutbox(limit = 20): Promise<OutboxItem[]> {
+    await this.ensureSchema();
     const result = await this.db
       .prepare(
         `SELECT id, enrollment_id, destination, payload, status, attempts, last_error, created_at, sent_at
@@ -467,6 +488,7 @@ export class D1EnrollmentStore implements EnrollmentStore {
     windowMs: number;
     now: number;
   }): Promise<RateLimitDecision> {
+    await this.ensureSchema();
     const windowStartIso = new Date(
       options.now - (options.now % options.windowMs),
     ).toISOString();

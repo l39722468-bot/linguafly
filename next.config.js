@@ -144,11 +144,6 @@ const nextConfig = {
         statusCode: 301,
       },
       {
-        source: '/registro',
-        destination: '/aprender-ingles',
-        statusCode: 301,
-      },
-      {
         source: '/rutas/certificaciones-ingles',
         destination: '/certificaciones-ingles-oficiales',
         statusCode: 301,
