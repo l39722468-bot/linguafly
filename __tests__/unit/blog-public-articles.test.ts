@@ -41,6 +41,17 @@ describe("public magazine and English-learning articles", () => {
           article.slug === "duolingo-english-test" && article.category === "examenes",
       ),
     ).toBe(true);
+    expect(
+      publicArticles.some(
+        (article) =>
+          article.slug === "cambridge-a2-key-papel-retirado-2026" &&
+          article.category === "actualidad" &&
+          article.featured === true,
+      ),
+    ).toBe(true);
+    expect(
+      publicArticles.filter((article) => article.category === "actualidad").length,
+    ).toBeGreaterThanOrEqual(5);
     expect(publicArticles.some((article) => article.category === "fitness")).toBe(false);
   });
 

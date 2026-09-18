@@ -28,6 +28,7 @@ export function Navigation() {
 
           <div className="hidden items-center gap-6 md:flex">
             <Link href="/" className={linkClass}>Inicio</Link>
+            <Link href="/blog/actualidad" className={linkClass}>Actualidad</Link>
             {SITE_VERTICALS.map((vertical) => (
               <Link key={vertical.slug} href={vertical.href} className={linkClass}>
                 {vertical.name}
@@ -58,6 +59,9 @@ export function Navigation() {
           <div className="border-t border-slate-200 py-4 md:hidden">
             <div className="flex flex-col gap-4">
               <Link href="/" className={linkClass} onClick={closeMobileMenu}>Inicio</Link>
+              <Link href="/blog/actualidad" className={linkClass} onClick={closeMobileMenu}>
+                🗞️ Actualidad
+              </Link>
               {SITE_VERTICALS.map((vertical) => (
                 <Link key={vertical.slug} href={vertical.href} className={linkClass} onClick={closeMobileMenu}>
                   {vertical.icon} {vertical.name}

@@ -79,6 +79,47 @@ describe("publisher home model", () => {
     }
   });
 
+  it("puts news on the hero and fills the actualidad rail before other blocks", () => {
+    const mixed: BlogPost[] = [
+      post({ slug: "featured-ai", category: "inteligencia-artificial", title: "IA destacada", featured: true }),
+      post({
+        slug: "key-papel",
+        category: "actualidad",
+        title: "A2 Key papel",
+        featured: true,
+      }),
+      post({ slug: "ielts-pc", category: "actualidad", title: "IELTS ordenador" }),
+      post({ slug: "santander", category: "actualidad", title: "Plazas Santander" }),
+      post({ slug: "foto-cam", category: "actualidad", title: "Foto Cambridge" }),
+      post({ slug: "certacles", category: "actualidad", title: "CertAcles" }),
+      post({ slug: "idioma-1", category: "idiomas", title: "Idioma 1" }),
+    ];
+    const model = buildPublisherHome(mixed, {
+      secondaryCount: 3,
+      latestCount: 4,
+      railCount: 2,
+      newsCount: 4,
+    });
+
+    expect(model.featured?.slug).toBe("key-papel");
+    expect(model.news.map((article) => article.slug)).toEqual([
+      "ielts-pc",
+      "santander",
+      "foto-cam",
+      "certacles",
+    ]);
+    expect(model.secondary.map((article) => article.slug)).toEqual([
+      "featured-ai",
+      "idioma-1",
+    ]);
+    const reused = new Set(
+      [model.featured, ...model.news, ...model.secondary]
+        .filter(Boolean)
+        .map((article) => article!.slug),
+    );
+    expect(reused.size).toBe(7);
+  });
+
   it("fills a category rail from that vertical even if uniqueness runs out", () => {
     const few = [
       post({ slug: "only-food", category: "alimentacion", title: "Única comida", featured: true }),

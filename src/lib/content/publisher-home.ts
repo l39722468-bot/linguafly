@@ -5,6 +5,8 @@ import { SITE_VERTICALS, type SiteVertical } from "@/lib/site-catalog";
 export const PUBLISHER_SECONDARY_COUNT = 3;
 export const PUBLISHER_LATEST_COUNT = 8;
 export const PUBLISHER_RAIL_COUNT = 4;
+export const PUBLISHER_NEWS_COUNT = 4;
+export const NEWS_CATEGORY = "actualidad";
 
 export type PublisherRail = {
   vertical: SiteVertical;
@@ -15,6 +17,7 @@ export type PublisherHomeModel = {
   featured: BlogPost | null;
   secondary: BlogPost[];
   latest: BlogPost[];
+  news: BlogPost[];
   rails: PublisherRail[];
   more: BlogPost[];
 };
@@ -45,17 +48,25 @@ export function buildPublisherHome(
     secondaryCount?: number;
     latestCount?: number;
     railCount?: number;
+    newsCount?: number;
   } = {},
 ): PublisherHomeModel {
   const secondaryCount = options.secondaryCount ?? PUBLISHER_SECONDARY_COUNT;
   const latestCount = options.latestCount ?? PUBLISHER_LATEST_COUNT;
   const railCount = options.railCount ?? PUBLISHER_RAIL_COUNT;
+  const newsCount = options.newsCount ?? PUBLISHER_NEWS_COUNT;
   const seen = new Set<string>();
+  const newsPool = articles.filter((article) => article.category === NEWS_CATEGORY);
 
   const featured =
-    articles.find((article) => article.featured) || articles[0] || null;
+    articles.find((article) => article.category === NEWS_CATEGORY && article.featured) ||
+    articles.find((article) => article.featured) ||
+    newsPool[0] ||
+    articles[0] ||
+    null;
   if (featured) seen.add(articleKey(featured));
 
+  const news = takeUnused(newsPool, seen, newsCount);
   const secondary = takeUnused(articles, seen, secondaryCount);
   const latest = takeUnused(articles, seen, latestCount);
 
@@ -71,16 +82,35 @@ export function buildPublisherHome(
 
   const more = takeUnused(articles, seen, 6);
 
-  return { featured, secondary, latest, rails, more };
+  return { featured, secondary, latest, news, rails, more };
+}
+
+function mergeNewsFirst(news: BlogPost[], rest: BlogPost[], limit: number): BlogPost[] {
+  const seen = new Set<string>();
+  const merged: BlogPost[] = [];
+  for (const article of [...news, ...rest]) {
+    const key = articleKey(article);
+    if (seen.has(key)) continue;
+    seen.add(key);
+    merged.push(article);
+    if (merged.length >= limit) break;
+  }
+  return merged;
 }
 
 export async function listPublisherHomeArticles(
   limit: number,
 ): Promise<{ articles: BlogPost[]; total: number }> {
   try {
-    const listed = await listPublishedArticles({ page: 1, limit });
-    if (listed.articles.length > 0) {
-      return { articles: listed.articles, total: listed.total };
+    const [listed, news] = await Promise.all([
+      listPublishedArticles({ page: 1, limit }),
+      listPublishedArticles({ category: NEWS_CATEGORY, page: 1, limit: 8 }),
+    ]);
+    if (listed.articles.length > 0 || news.articles.length > 0) {
+      return {
+        articles: mergeNewsFirst(news.articles, listed.articles, limit),
+        total: Math.max(listed.total, news.total),
+      };
     }
   } catch {
     // D1 bindings are missing in some local/preview environments.
@@ -95,7 +125,11 @@ export async function listPublisherHomeArticles(
 
   try {
     const markdown = getBlogArticles();
-    return { articles: markdown.slice(0, limit), total: markdown.length };
+    const news = markdown.filter((article) => article.category === NEWS_CATEGORY);
+    return {
+      articles: mergeNewsFirst(news, markdown, limit),
+      total: markdown.length,
+    };
   } catch {
     return { articles: [], total: 0 };
   }

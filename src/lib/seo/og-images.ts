@@ -8,6 +8,7 @@ export const DEFAULT_OG_IMAGE_PATH = "/blog/og-image.jpg";
 /** Distinctive 16:9 stills per public category. Articles with their own `image` keep it. */
 export const CATEGORY_OG_IMAGE_PATHS: Record<string, string> = {
   idiomas: "/blog/og-idiomas.jpg",
+  actualidad: "/blog/og-actualidad.jpg",
   alimentacion: "/blog/og-alimentacion.jpg",
   entrenamiento: "/blog/og-entrenamiento.jpg",
   "inteligencia-artificial": "/blog/og-inteligencia-artificial.jpg",

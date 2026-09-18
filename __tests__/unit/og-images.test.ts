@@ -27,6 +27,7 @@ describe("category OG images", () => {
 
   it("maps each public cluster to its own still", () => {
     expect(getCategoryOgImagePath("gramatica")).toBe("/blog/og-gramatica.jpg");
+    expect(getCategoryOgImagePath("actualidad")).toBe("/blog/og-actualidad.jpg");
     expect(getCategoryOgImagePath("Gramática")).toBe("/blog/og-gramatica.jpg");
     expect(getCategoryOgImagePath("inteligencia-artificial")).toBe(
       "/blog/og-inteligencia-artificial.jpg",

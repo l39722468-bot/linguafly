@@ -11,6 +11,7 @@ import robots from "@/app/robots";
 describe("site catalog", () => {
   it("treats magazine and English-learning article categories as public", () => {
     expect(isPublicArticleCategory("idiomas")).toBe(true);
+    expect(isPublicArticleCategory("actualidad")).toBe(true);
     expect(isPublicArticleCategory("alimentacion")).toBe(true);
     expect(isPublicArticleCategory("entrenamiento")).toBe(true);
     expect(isPublicArticleCategory("inteligencia-artificial")).toBe(true);
@@ -24,6 +25,7 @@ describe("site catalog", () => {
   it("keeps magazine routes public", () => {
     expect(isPublicSitePath("/")).toBe(true);
     expect(isPublicSitePath("/blog")).toBe(true);
+    expect(isPublicSitePath("/blog/actualidad")).toBe(true);
     expect(isPublicSitePath("/blog/idiomas/como-empezar-a-aprender-un-idioma")).toBe(true);
     expect(isPublicSitePath("/alimentacion")).toBe(true);
     expect(isPublicSitePath("/entrenamiento")).toBe(true);
@@ -104,6 +106,7 @@ describe("site catalog", () => {
     expect(topics).toEqual(
       expect.arrayContaining([
         "idiomas",
+        "actualidad",
         "gramatica",
         "viajes",
         "trabajo",

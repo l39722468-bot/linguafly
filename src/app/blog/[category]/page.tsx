@@ -28,6 +28,12 @@ const categoryMetadata: Record<string, { name: string, description: string, icon
     icon: "🗣️",
     color: "from-coral-500 to-peach-500"
   },
+  actualidad: {
+    name: "Actualidad del inglés: academias, exámenes y novedades",
+    description: "Qué cambia en Cambridge, IELTS, academias y cursos: novedades útiles para quien está aprendiendo inglés ahora.",
+    icon: "🗞️",
+    color: "from-teal-500 to-cyan-500"
+  },
   alimentacion: {
     name: "Alimentación: comidas reales y planificación sencilla",
     description: "Cómo organizar la semana, entender el plato y comer mejor sin dietas extremas.",

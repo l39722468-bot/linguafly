@@ -27,6 +27,7 @@ export const MAGAZINE_ARTICLE_CATEGORIES = [
 
 export const ENGLISH_LEARNING_CATEGORIES = [
   "idiomas",
+  "actualidad",
   "gramatica",
   "viajes",
   "trabajo",
@@ -42,6 +43,7 @@ export const ENGLISH_LEARNING_CATEGORIES = [
 
 export const PUBLIC_ARTICLE_CATEGORIES = [
   ...MAGAZINE_ARTICLE_CATEGORIES,
+  "actualidad",
   "gramatica",
   "viajes",
   "trabajo",
@@ -175,6 +177,22 @@ export const SITE_VERTICALS: readonly SiteVertical[] = [
 ] as const;
 
 export const ENGLISH_LEARNING_SECTIONS: readonly EnglishLearningSection[] = [
+  {
+    slug: "actualidad",
+    href: "/blog/actualidad",
+    name: "Actualidad",
+    shortName: "Actualidad",
+    description:
+      "Novedades de academias, exámenes oficiales y el mercado de aprender inglés.",
+    icon: "🗞️",
+    tone: {
+      badge: "bg-teal-100 text-teal-800",
+      gradient: "from-teal-500 to-cyan-500",
+      text: "text-teal-700",
+      soft: "bg-teal-50",
+      border: "border-teal-100",
+    },
+  },
   {
     slug: "gramatica",
     href: "/blog/gramatica",

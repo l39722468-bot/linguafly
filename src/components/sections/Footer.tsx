@@ -27,11 +27,14 @@ export function Footer() {
                   </Link>
                 </li>
               ))}
+              <li><Link href="/blog/actualidad" className="transition-colors hover:text-white">Actualidad</Link></li>
               <li><Link href="/blog" className="transition-colors hover:text-white">Todos los artículos</Link></li>
             </ul>
             <h3 className="mb-4 mt-8 font-bold">Aprender inglés</h3>
             <ul className="space-y-2 text-sm text-slate-400">
-              {ENGLISH_LEARNING_SECTIONS.slice(0, 6).map((section) => (
+              {ENGLISH_LEARNING_SECTIONS.filter((section) => section.slug !== "actualidad")
+                .slice(0, 6)
+                .map((section) => (
                 <li key={section.slug}>
                   <Link href={section.href} className="transition-colors hover:text-white">
                     {section.name}

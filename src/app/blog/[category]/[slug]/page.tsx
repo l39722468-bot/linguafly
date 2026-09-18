@@ -300,6 +300,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     trabajo: "bg-coral-100 text-coral-800 border-coral-200",
     viajes: "bg-orange-100 text-coral-800 border-orange-200",
     examenes: "bg-amber-100 text-amber-800 border-amber-200",
+    actualidad: "bg-teal-100 text-teal-800 border-teal-200",
     aprendizaje: "bg-amber-100 text-amber-800 border-amber-200",
     metodos: "bg-pink-100 text-pink-800 border-pink-200",
     "curso-a1": "bg-emerald-100 text-emerald-800 border-emerald-200",

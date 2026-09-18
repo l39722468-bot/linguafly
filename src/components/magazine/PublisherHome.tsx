@@ -37,6 +37,9 @@ export function PublisherHome({
                 {vertical.name}
               </Link>
             ))}
+            <Link href="/blog/actualidad" className="text-slate-600 hover:text-coral-700">
+              Actualidad
+            </Link>
             <Link href="/feed.xml" className="text-coral-700 hover:text-coral-800">
               RSS
             </Link>
@@ -60,6 +63,37 @@ export function PublisherHome({
               </p>
               {model.secondary.map((article) => (
                 <CompactHeadline
+                  key={`${article.category}-${article.slug}`}
+                  article={article}
+                />
+              ))}
+            </div>
+          </div>
+        </section>
+      ) : null}
+
+      {model.news.length > 0 ? (
+        <section className="px-4 pb-10 sm:px-6 lg:px-8">
+          <div className="mx-auto max-w-6xl">
+            <div className="mb-6 flex items-end justify-between gap-4">
+              <div>
+                <p className="text-xs font-black uppercase tracking-[0.2em] text-teal-700">
+                  🗞️ Actualidad
+                </p>
+                <h2 className="font-display text-2xl font-black text-slate-900">
+                  Novedades del inglés y las academias
+                </h2>
+              </div>
+              <Link
+                href="/blog/actualidad"
+                className="text-sm font-black text-teal-700 hover:text-teal-800"
+              >
+                Ver actualidad →
+              </Link>
+            </div>
+            <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
+              {model.news.map((article) => (
+                <MagazineArticleCard
                   key={`${article.category}-${article.slug}`}
                   article={article}
                 />
