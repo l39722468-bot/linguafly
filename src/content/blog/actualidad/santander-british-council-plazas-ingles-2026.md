@@ -4,11 +4,12 @@ category: actualidad
 date: '2026-09-16'
 updatedDate: '2026-09-16'
 author: linguafly-team
-title: '30.000 plazas gratis de inglés: Santander y British Council en 2026'
+title: '30.000 plazas gratis de inglés Santander 2026: cómo pedir'
 description: >-
-  Cómo funcionan las 30.000 plazas del Curso Santander / British Council English
-  Online 2026, qué convocatorias ya cerraron y qué hacer si esperas la tercera.
+  Curso inglés gratis 2026 con British Council y Santander Open Academy: tres
+  convocatorias, English Online y 500 plazas IELTS. Cómo pedirla sin ser cliente.
 readTime: 8 min
+image: /blog/og-santander-plazas.jpg
 excerpt: >-
   Banco Santander y British Council ofrecen 30.000 plazas online gratis en 2026,
   en tres tandas de 10.000. No hace falta ser cliente. La segunda convocatoria
@@ -57,6 +58,8 @@ faqs:
 ---
 
 En 2026, **Banco Santander y British Council** vuelven a sacar una de las convocatorias de inglés gratis más grandes que hay en español: **más de 30.000 plazas** en el Curso Santander / British Council – English Online, repartidas en **tres tandas de 10.000**. El anuncio oficial es del **2 de febrero**; las bases viven en [Santander Open Academy](https://www.santanderopenacademy.com).
+
+Si buscas **plazas gratis inglés Santander 2026**, un **curso inglés gratis 2026**, **becas inglés Santander** o la **convocatoria Santander British Council**, esto es **English Online 2026** en **British Council Santander Open Academy**. Aparte va el **curso IELTS Santander British Council** (500 plazas).
 
 No es un rumor de academia. Es el sexto año del programa (arrancó en 2020) y, según el banco, las ediciones anteriores ya sumaron **más de 96.000 plazas**.
 

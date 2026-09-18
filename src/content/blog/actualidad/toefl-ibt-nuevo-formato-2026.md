@@ -5,11 +5,10 @@ category: actualidad
 date: '2026-09-18T18:00:00.000Z'
 updatedDate: '2026-09-18'
 author: linguafly-team
-title: 'El TOEFL iBT cambió el 21 de enero: formato nuevo y nota de 1 a 6'
+title: 'TOEFL iBT 2026: nuevo formato, Speaking y nota 1-6'
 description: >-
-  Desde el 21 de enero de 2026 el TOEFL iBT es otro examen: Reading y Listening
-  adaptativos, Speaking de 8 minutos y una escala 1–6. Qué ha cambiado y cómo
-  prepararlo ahora.
+  El 21 de enero de 2026 ETS estrenó un TOEFL iBT distinto: Reading y Listening
+  adaptativos, Speaking de 8 minutos y nota de 1 a 6. Qué ha cambiado.
 readTime: 8 min
 image: /blog/og-toefl-2026.jpg
 excerpt: >-
@@ -58,6 +57,8 @@ faqs:
 ---
 
 El 21 de enero de 2026 ETS puso en marcha un **TOEFL iBT distinto**. No es un retoque de tiempos: cambian las tareas, el reloj, la escala y —en algunas universidades británicas— la aceptación. Si tu academia sigue ensayando las cuatro tareas de Speaking y un 26/30, está preparando el examen de 2025.
+
+Las búsquedas de **TOEFL iBT 2026**, **nuevo TOEFL enero 2026** y **cambios TOEFL iBT** apuntan a lo mismo: **TOEFL adaptativo Reading Listening**, **TOEFL Listen and Repeat** y una **TOEFL escala 1 a 6**. La **nota TOEFL 1-6 vs 0-120** convive dos años en el informe.
 
 La fuente es el propio ETS: [contenido del test](https://www.ets.org/toefl/test-takers/ibt/about/content.html), [cómo se leen las notas](https://www.ets.org/toefl/test-takers/ibt/scores/understand-scores.html) y el blueprint *TOEFL iBT Test: 2026 Update*.
 

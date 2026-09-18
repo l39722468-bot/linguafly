@@ -4,11 +4,12 @@ category: actualidad
 date: '2026-09-17'
 updatedDate: '2026-09-17'
 author: linguafly-team
-title: 'IELTS deja el papel a mediados de 2026: ordenador y Writing on Paper'
+title: 'IELTS solo ordenador 2026: papel y Writing on Paper'
 description: >-
-  Desde mediados de 2026 el IELTS deja de ofrecerse en papel. Qué implica el
-  formato por ordenador, la opción Writing on Paper y por qué UKVI va aparte.
+  El IELTS paper-based desaparece a mediados de 2026. En España, computer
+  delivered; Writing on Paper en algunos países. IELTS UKVI, solo digital.
 readTime: 8 min
+image: /blog/og-ielts-ordenador.jpg
 excerpt: >-
   IELTS anunció el 5 de marzo que, a partir de mediados de 2026, el examen
   clásico en papel desaparece. Listening y Reading pasan a ordenador; en algunos
@@ -53,6 +54,8 @@ faqs:
 ---
 
 El 5 de marzo de 2026, IELTS (British Council, IDP e Cambridge) lo dejó por escrito: **a partir de mediados de 2026 el IELTS deja de ofrecerse como examen en papel**. Todo el test pasa a entregarse **por ordenador**. El calendario exacto **cambia según el país**.
+
+Consultas como **IELTS solo ordenador 2026**, **IELTS paper-based desaparece** o **IELTS computer delivered España** van aquí. Las **novedades IELTS 2026** se resumen en tres: apagón del papel, **IELTS Writing on Paper** (**IELTS a mano o teclado** en el Writing) e **IELTS UKVI digital**.
 
 No es un IELTS nuevo. Siguen las mismas cuatro destrezas, el mismo 0–9 y el mismo reconocimiento. Cambia cómo te sientas el día del examen — y, si odias el teclado, aparece un apaño llamado **Writing on Paper**.
 

@@ -5,19 +5,19 @@ category: actualidad
 date: '2026-09-18'
 updatedDate: '2026-09-18'
 author: linguafly-team
-title: 'Cambridge retira el A2 Key en papel: última convocatoria el 3 de diciembre'
+title: 'A2 Key en papel 2026: última fecha el 3 de diciembre'
 description: >-
-  El A2 Key en papel desaparece tras el 3 de diciembre de 2026. Qué alternativas
-  quedan (Digital y for Schools), cómo elegir centro y qué hacer si ya te habías
-  apuntado.
+  El A2 Key en papel acaba el 3 de diciembre de 2026. Quedan Key Digital y Key
+  for Schools. Confirma el formato y el centro antes de matricularte.
 readTime: 7 min
+image: /blog/og-a2-key-papel.jpg
 excerpt: >-
   Cambridge deja de ofrecer el A2 Key en papel después del 3 de diciembre de
   2026. El examen digital sigue, y el A2 Key for Schools mantiene papel y
   ordenador. Si tu academia solo examina en papel, hay que cambiar de plan.
 keywords:
   - A2 Key papel 2026
-  - Cambridge retira A2 Key paper-based
+  - Cambridge retira A2 Key en papel
   - última convocatoria A2 Key en papel
   - A2 Key Digital
   - A2 Key for Schools 2026
@@ -54,6 +54,8 @@ faqs:
 ---
 
 Cambridge ha puesto fecha al final del **A2 Key en papel para adultos**. Según el calendario de exámenes de 2026 y el centro de ayuda de Cambridge English, **la última sesión paper-based es el jueves 3 de diciembre de 2026**. A partir de ahí, el Key estándar solo se examina en digital.
+
+Quien busca **A2 Key papel 2026**, **última convocatoria A2 Key en papel** o **examen Key inglés papel o digital** está en este texto: **Cambridge retira A2 Key en papel**, sigue el **A2 Key Digital** y el **A2 Key for Schools 2026**. El resto de **novedades Cambridge 2026** (foto del certificado, digital) van en piezas hermanas.
 
 La medida no es un cambio de temario. El título sigue siendo A2 Key. Lo que se acaba es una modalidad que cada vez tenía menos candidatos.
 

@@ -4,12 +4,12 @@ category: actualidad
 date: '2026-09-14'
 updatedDate: '2026-09-14'
 author: linguafly-team
-title: 'CertAcles Digital: el examen de inglés de las universidades, con Cambridge'
+title: 'CertAcles Digital: el examen de inglés universitario'
 description: >-
-  Qué es CertAcles Digital (powered by Cambridge), para qué sirve en la
-  universidad española, cómo es el formato modular B1–C1 y en qué se diferencia
-  de First o IELTS.
+  CertAcles Digital (powered by Cambridge) es el B1–C1 por ordenador de las
+  universidades españolas. Modular, para Erasmus y titulación; no es un First.
 readTime: 8 min
+image: /blog/og-certacles.jpg
 excerpt: >-
   ACLES y Cambridge han desplegado CertAcles Digital: un examen de inglés por
   ordenador, niveles B1 a C1, pensado para admisión, titulación y Erasmus en
@@ -58,6 +58,8 @@ faqs:
 ---
 
 En las universidades españolas ha dejado de ser noticia de pasillo: **CertAcles Digital (powered by Cambridge)** ya se examina en centros de lenguas de toda la geografía. No sustituye al First ni al IELTS. Es el intento de ACLES y Cambridge de dar a la universidad un **B1–C1 por ordenador**, modular, con sello reconocible dentro del sistema ACLES.
+
+Quien busca **CertAcles Digital**, **CertAcles Cambridge universidades** o un **examen inglés universidad España** está aquí: es **acreditación ACLES B1 B2 C1** en **centros de lenguas CertAcles**. El **CertAcles Digital vs Cambridge First** no es empate: para un **certificado inglés Erasmus** en España, pregunta a tu uni.
 
 Si te piden “un B2 para Erasmus” o “acreditar el idioma para titularte”, este es el examen que tu centro de lenguas te va a poner encima de la mesa antes que una academia de Cambridge.
 

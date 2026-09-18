@@ -4,11 +4,10 @@ category: actualidad
 date: '2026-09-17'
 updatedDate: '2026-09-17'
 author: linguafly-team
-title: 'El British Council pone a la venta sus sedes de Madrid y Barcelona'
+title: 'El British Council vende sedes en Madrid y Barcelona'
 description: >-
-  El palacete de Chamberí y el Teaching Centre de Barcelona están en venta. La
-  enseñanza no se ha cerrado, pero el curso 2026/27 puede cambiar de edificio.
-  Qué hacer si estás matriculado.
+  El palacete de Chamberí y el Teaching Centre de Barcelona están en venta.
+  Las clases siguen, pero el curso 2026/27 puede cambiar de edificio. Qué hacer.
 readTime: 7 min
 image: /blog/og-british-council-sedes.jpg
 excerpt: >-
@@ -56,6 +55,8 @@ faqs:
 ---
 
 En mayo de 2026 el British Council hizo pública una operación que en Madrid se lee como noticia de barrio y en el sector se lee como recorte: **pone a la venta el palacete de Chamberí** (paseo del General Martínez Campos, 31) y **el Teaching Centre de Barcelona** (calle Amigó, 83).
+
+Quien busca **British Council Madrid venta palacete Chamberí**, **Martínez Campos British Council** o **British Council Barcelona Teaching Centre** llega a la misma noticia. **British Council cierra academias España** es el titular falso: la **academia British Council 2026** sigue, y los **exámenes IELTS British Council Madrid** dependen de la dirección de la matrícula, no del palacete.
 
 No es el titular de “se acaba el inglés británico en España”. Es el de **una institución que vende ladrillo para aguantar la cuenta de resultados** y todavía no dice con precisión dónde se sienta el alumno en 2027.
 

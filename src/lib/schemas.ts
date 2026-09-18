@@ -161,9 +161,11 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
     "url": getSiteUrl()
   };
 
+  const isNews = props.category === "actualidad";
+
   return {
     "@context": "https://schema.org",
-    "@type": "BlogPosting",
+    "@type": isNews ? "NewsArticle" : "BlogPosting",
     "headline": props.title,
     "description": props.description,
     "image": {
@@ -195,7 +197,13 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
     "wordCount": props.wordCount,
     "articleSection": props.category,
     "keywords": props.keywords?.join(', '),
-    "inLanguage": props.inLanguage || "es-ES"
+    "inLanguage": props.inLanguage || "es-ES",
+    ...(isNews
+      ? {
+          dateline: "España",
+          isAccessibleForFree: true,
+        }
+      : {}),
   };
 }
 

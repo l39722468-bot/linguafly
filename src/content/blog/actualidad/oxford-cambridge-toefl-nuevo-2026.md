@@ -4,11 +4,10 @@ category: actualidad
 date: '2026-09-18T16:00:00.000Z'
 updatedDate: '2026-09-18'
 author: linguafly-team
-title: 'Oxford no acepta el TOEFL nuevo (y Cambridge tampoco lo lista)'
+title: 'Oxford ya no acepta el TOEFL 2026: Cambridge tampoco'
 description: >-
-  Oxford no admite TOEFL iBT del 21 de enero de 2026 en adelante hasta revisar
-  el examen. En Cambridge undergraduate el TOEFL ha salido del listado. Qué
-  hacer si ibas a usarlo.
+  Oxford no admite TOEFL iBT del 21 de enero de 2026 hasta revisar el examen.
+  En Cambridge undergraduate el TOEFL ha salido del listado. Qué hacer ahora.
 readTime: 7 min
 image: /blog/og-oxford-cambridge-toefl.jpg
 excerpt: >-
@@ -57,6 +56,8 @@ faqs:
 ---
 
 El TOEFL iBT del 21 de enero de 2026 no solo cambió de tareas. **Oxford y Cambridge han dejado de tratarlo como el TOEFL de siempre.** Si tu plan para 2026/27 era “me siento el Home Edition y se lo mando a UK”, para estas dos universidades ese plan está roto.
+
+Si tu duda es **Oxford no acepta TOEFL 2026**, **Cambridge University TOEFL enero 2026** o **IELTS o TOEFL para Oxford Cambridge**, lee esto antes de pagar. El **TOEFL Home Edition Oxford** tampoco vale mientras dure la revisión. Para **TOEFL iBT universidades Reino Unido** y **requisitos inglés undergraduate Cambridge**, el camino documentado es IELTS o C1/C2.
 
 El rediseño en sí está en [el TOEFL iBT nuevo](/blog/actualidad/toefl-ibt-nuevo-formato-2026). Aquí va solo la parte que te afecta si apuntas a Oxbridge.
 

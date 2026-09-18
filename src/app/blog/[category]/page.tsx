@@ -29,8 +29,8 @@ const categoryMetadata: Record<string, { name: string, description: string, icon
     color: "from-coral-500 to-peach-500"
   },
   actualidad: {
-    name: "Actualidad del inglés: academias, exámenes y novedades",
-    description: "Qué cambia en Cambridge, IELTS, academias y cursos: novedades útiles para quien está aprendiendo inglés ahora.",
+    name: "Actualidad: academias y exámenes de inglés",
+    description: "Novedades de Cambridge, IELTS, TOEFL, academias y cursos de inglés en 2026: fechas, formatos y plazas.",
     icon: "🗞️",
     color: "from-teal-500 to-cyan-500"
   },
@@ -172,8 +172,14 @@ export async function generateMetadata({
     description: meta.description,
     keywords: [
       getPublicCategoryLabel(category).name.toLowerCase(),
-      "artículos",
-      "guías prácticas",
+      ...(category === "actualidad"
+        ? [
+            "actualidad inglés",
+            "novedades Cambridge 2026",
+            "novedades IELTS 2026",
+            "academias de inglés",
+          ]
+        : ["artículos", "guías prácticas"]),
     ],
     alternates: {
       canonical,

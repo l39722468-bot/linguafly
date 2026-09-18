@@ -4,11 +4,12 @@ category: actualidad
 date: '2026-09-15'
 updatedDate: '2026-09-15'
 author: linguafly-team
-title: 'La foto de Cambridge ya no va en el certificado (desde el 6 de abril)'
+title: 'Foto certificado Cambridge 2026: ya no va en el título'
 description: >-
-  Desde el 6 de abril de 2026 la foto del día del examen sale en el Statement
-  of Results, no en el certificado. En B2, C1 y C2 es obligatoria.
+  Desde el 6 de abril de 2026 la foto del examen va al Statement of Results,
+  no al certificado. En First, Advanced y Proficiency es obligatoria.
 readTime: 6 min
+image: /blog/og-cambridge-foto.jpg
 excerpt: >-
   Cambridge ha cambiado Statement of Results y certificado para exámenes del 6
   de abril de 2026 en adelante. La foto del día del test identifica el resultado
@@ -54,6 +55,8 @@ faqs:
 ---
 
 Desde el **6 de abril de 2026**, Cambridge English cambia dos documentos que todo el mundo confunde: el **Statement of Results** (la hoja de notas) y el **certificado**. El anuncio está en el centro de soporte de Cambridge y ya se refleja en las fichas de resultados.
+
+Si buscas **foto certificado Cambridge 2026**, **Statement of Results Cambridge foto** o **cambios certificado Cambridge abril 2026**, el recorte es este: la **Cambridge B2 foto obligatoria** identifica el resultado en el **Results Verification Service Cambridge**, no el papel. En **First Advanced Proficiency photo** ya no va en el título.
 
 La frase corta: **la foto del día del examen identifica tu resultado, no adorna el título**.
 

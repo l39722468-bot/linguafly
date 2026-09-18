@@ -69,8 +69,24 @@ describe("collection page schema", () => {
       category: "curso-a2",
       canonicalUrl: "https://linguafly.app/blog/gramatica/zero-conditional-ingles",
     });
+    expect(schema["@type"]).toBe("BlogPosting");
     expect(schema.mainEntityOfPage["@id"]).toBe(
       "https://linguafly.app/blog/gramatica/zero-conditional-ingles",
     );
+  });
+
+  it("emits NewsArticle schema for actualidad", () => {
+    const schema = generateArticleSchema({
+      title: "TOEFL iBT 2026",
+      description: "Cambio de formato.",
+      image: "/blog/og-actualidad.jpg",
+      datePublished: "2026-09-18",
+      dateModified: "2026-09-18",
+      slug: "toefl-ibt-nuevo-formato-2026",
+      category: "actualidad",
+      canonicalUrl: "https://linguafly.app/blog/actualidad/toefl-ibt-nuevo-formato-2026",
+    });
+    expect(schema["@type"]).toBe("NewsArticle");
+    expect(schema.isAccessibleForFree).toBe(true);
   });
 });
