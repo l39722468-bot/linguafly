@@ -14,29 +14,32 @@ export function FeaturedStory({ article }: { article: BlogPost }) {
   return (
     <Link
       href={getArticlePath(article)}
-      className="group relative flex min-h-[320px] overflow-hidden rounded-3xl bg-slate-900 sm:min-h-[420px]"
+      className="group flex h-full flex-col overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-lg"
     >
-      <Image
-        src={image}
-        alt={article.alt || article.title}
-        fill
-        priority
-        quality={75}
-        sizes="(max-width: 1024px) 100vw, 66vw"
-        className="object-cover opacity-80 transition-transform duration-700 group-hover:scale-105"
-      />
-      <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/40 to-transparent" />
-      <div className="relative mt-auto p-6 sm:p-8">
-        <p className="mb-3 text-xs font-black uppercase tracking-[0.2em] text-white/80">
-          {label.icon} {label.name}
-          {date ? ` · ${date}` : ""}
-          {article.readTime ? ` · ${article.readTime}` : ""}
+      <div className="relative min-h-[220px] w-full overflow-hidden sm:min-h-[280px]">
+        <Image
+          src={image}
+          alt={article.alt || article.title}
+          fill
+          priority
+          quality={75}
+          sizes="(max-width: 1024px) 100vw, 66vw"
+          className="object-cover transition-transform duration-700 group-hover:scale-105"
+        />
+      </div>
+      <div className="flex flex-1 flex-col p-6 sm:p-8">
+        <p className="mb-3 text-xs font-black uppercase tracking-[0.2em] text-slate-400">
+          <span className={label.tone.text}>
+            {label.icon} {label.name}
+          </span>
+          {date ? <span> · {date}</span> : null}
+          {article.readTime ? <span> · {article.readTime}</span> : null}
         </p>
-        <h2 className="font-display mb-3 max-w-3xl text-3xl font-black leading-tight text-white sm:text-5xl">
+        <h2 className="font-display mb-3 text-3xl font-black leading-tight text-slate-900 group-hover:text-coral-700 sm:text-4xl">
           {article.title}
         </h2>
         {article.excerpt ? (
-          <p className="max-w-2xl text-sm leading-relaxed text-white/80 line-clamp-2 sm:text-base">
+          <p className="text-sm leading-relaxed text-slate-600 line-clamp-3 sm:text-base">
             {article.excerpt}
           </p>
         ) : null}
