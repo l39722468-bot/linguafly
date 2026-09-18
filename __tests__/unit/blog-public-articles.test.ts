@@ -51,7 +51,15 @@ describe("public magazine and English-learning articles", () => {
     ).toBe(true);
     expect(
       publicArticles.filter((article) => article.category === "actualidad").length,
-    ).toBeGreaterThanOrEqual(5);
+    ).toBeGreaterThanOrEqual(8);
+    expect(
+      publicArticles.some(
+        (article) =>
+          article.slug === "toefl-ibt-nuevo-formato-2026" &&
+          article.category === "actualidad" &&
+          article.featured === true,
+      ),
+    ).toBe(true);
     expect(publicArticles.some((article) => article.category === "fitness")).toBe(false);
   });
 

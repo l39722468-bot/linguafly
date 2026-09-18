@@ -20,7 +20,7 @@ keywords:
   - TOEFL Speaking España
 author: linguafly-team
 date: '2026-04-18'
-updatedDate: '2026-09-04'
+updatedDate: '2026-09-18'
 alt: Candidato grabando respuestas de TOEFL Speaking con auriculares y micrófono
 category: examenes
 faqs:
@@ -36,6 +36,8 @@ faqs:
     answer: 'Imprescindible. En Tareas 2, 3 y 4 tienes papel y bolígrafo. Apunta puntos clave en telegrama: 3-4 palabras por idea. Sin notas, es casi imposible reproducir la información con precisión en 60 segundos.'
 canonical: 'https://linguafly.app/blog/examenes/toefl-speaking-4-tareas'
 ---
+
+> **Formato anterior al 21 de enero de 2026.** El TOEFL iBT actual ya no tiene estas 4 tareas ni la escala 0–30. Speaking son Listen and Repeat + Take an Interview (~8 min, nota 1–6). Si tu fecha es posterior, usa [El TOEFL iBT cambió el 21 de enero](/blog/actualidad/toefl-ibt-nuevo-formato-2026).
 
 El TOEFL Speaking es, junto con el Writing, la sección más entrenable del examen. Con 17 minutos, **4 tareas** y plantillas claras para cada una, cualquier candidato con un B2 sólido puede alcanzar un **26/30** si sigue un método. El problema es que muchos estudiantes llegan sin conocer exactamente qué evalúa cada tarea y se quedan atrapados en un 22 que no les abre puertas en universidades competitivas.
 

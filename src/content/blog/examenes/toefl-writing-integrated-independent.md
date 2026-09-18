@@ -19,7 +19,7 @@ keywords:
   - TOEFL Writing España
 author: linguafly-team
 date: '2026-04-17'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-18'
 alt: Candidato realizando el TOEFL Writing en un ordenador de centro examinador
 category: examenes
 faqs:
@@ -35,6 +35,8 @@ faqs:
     answer: 'Sí. Desde la reforma del TOEFL iBT en 2023, el ensayo independiente de 300 palabras fue sustituido por la Academic Discussion Task: lees un post del profesor, dos respuestas de compañeros y contribuyes a la discusión con tu postura.'
 canonical: 'https://linguafly.app/blog/examenes/toefl-writing-integrated-independent'
 ---
+
+> **Formato anterior al 21 de enero de 2026.** El Writing actual ya no incluye la Integrated Task clásica: ahora son Build a Sentence, Write an Email y Academic Discussion, con nota 1–6. Guía del test nuevo: [El TOEFL iBT cambió el 21 de enero](/blog/actualidad/toefl-ibt-nuevo-formato-2026).
 
 La sección de Writing del TOEFL iBT es **la más corta y la más previsible**, y por eso también la más entrenable. En 35 minutos te piden dos cosas muy distintas: en la primera tarea, **sintetizar** una lectura académica con una charla, comparando ambos contenidos; en la segunda, **argumentar** en un foro académico respondiendo a un profesor y a dos estudiantes.
 

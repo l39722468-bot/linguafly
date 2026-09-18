@@ -19,7 +19,7 @@ keywords:
   - IELTS versus TOEFL
   - IELTS or TOEFL
 date: '2025-02-05'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-18'
 category: examenes
 author: linguafly-team
 faqs:
@@ -39,6 +39,8 @@ alt: Dos folletos de examen IELTS y TOEFL sobre una mesa de estudio
 ## IELTS vs TOEFL: La Guía Definitiva para Elegir tu Examen
 
 Si estás planeando estudiar en el extranjero, emigrar a otro país o simplemente dar un salto cualitativo en tu carrera profesional, seguramente te hayas encontrado con estos dos nombres: **IELTS** y **TOEFL**. Ambos son los exámenes de certificación de inglés más prestigiosos y reconocidos globalmente, pero sus enfoques, formatos y aplicaciones prácticas son muy distintos.
+
+Aviso de 2026: el TOEFL iBT **cambió el 21 de enero** (escala 1–6, otras tareas). Oxford no acepta ese test nuevo hasta revisarlo; en Cambridge undergraduate ha salido del listado. Detalle: [TOEFL nuevo](/blog/actualidad/toefl-ibt-nuevo-formato-2026) y [Oxford/Cambridge](/blog/actualidad/oxford-cambridge-toefl-nuevo-2026). El IELTS, por su lado, [deja el papel a mediados de año](/blog/actualidad/ielts-solo-ordenador-desde-2026).
 
 Quien busca **ielts vs toefl diferencias** o **diferencias IELTS y TOEFL para estudiar fuera** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
 
