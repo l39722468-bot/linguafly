@@ -8,6 +8,8 @@ import { HtmlLang } from "@/components/seo/HtmlLang";
 
 const linkClass = "text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors";
 
+const NAV_VERTICALS = SITE_VERTICALS.filter((vertical) => vertical.slug === "idiomas");
+
 export function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const closeMobileMenu = () => setMobileMenuOpen(false);
@@ -29,7 +31,7 @@ export function Navigation() {
           <div className="hidden items-center gap-6 md:flex">
             <Link href="/" className={linkClass}>Inicio</Link>
             <Link href="/blog/actualidad" className={linkClass}>Actualidad</Link>
-            {SITE_VERTICALS.map((vertical) => (
+            {NAV_VERTICALS.map((vertical) => (
               <Link key={vertical.slug} href={vertical.href} className={linkClass}>
                 {vertical.name}
               </Link>
@@ -62,7 +64,7 @@ export function Navigation() {
               <Link href="/blog/actualidad" className={linkClass} onClick={closeMobileMenu}>
                 🗞️ Actualidad
               </Link>
-              {SITE_VERTICALS.map((vertical) => (
+              {NAV_VERTICALS.map((vertical) => (
                 <Link key={vertical.slug} href={vertical.href} className={linkClass} onClick={closeMobileMenu}>
                   {vertical.icon} {vertical.name}
                 </Link>

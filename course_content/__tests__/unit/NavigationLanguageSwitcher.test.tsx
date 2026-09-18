@@ -25,15 +25,16 @@ jest.mock("next/link", () => {
 });
 
 describe("Navigation", () => {
-  it("renders the new magazine verticals and hides the old English portal", () => {
+  it("renders idiomas and hides the other magazine verticals plus the old English portal", () => {
     render(<Navigation />);
 
     expect(screen.getByRole("link", { name: "Inicio" })).toHaveAttribute("href", "/");
     expect(screen.getByRole("link", { name: "Idiomas" })).toHaveAttribute("href", "/idiomas");
-    expect(screen.getByRole("link", { name: "Alimentación" })).toHaveAttribute("href", "/alimentacion");
-    expect(screen.getByRole("link", { name: "Entrenamiento" })).toHaveAttribute("href", "/entrenamiento");
-    expect(screen.getByRole("link", { name: "Inteligencia artificial" })).toHaveAttribute("href", "/inteligencia-artificial");
     expect(screen.getByRole("link", { name: "Artículos" })).toHaveAttribute("href", "/blog");
+    expect(screen.queryByRole("link", { name: "Alimentación" })).not.toBeInTheDocument();
+    expect(screen.queryByRole("link", { name: "Entrenamiento" })).not.toBeInTheDocument();
+    expect(screen.queryByRole("link", { name: "Inteligencia artificial" })).not.toBeInTheDocument();
+    expect(screen.queryByRole("link", { name: "IA" })).not.toBeInTheDocument();
     expect(screen.queryByRole("link", { name: "Fitness" })).not.toBeInTheDocument();
     expect(screen.queryByRole("link", { name: "Test de nivel" })).not.toBeInTheDocument();
     expect(screen.queryByRole("link", { name: "Gramática" })).not.toBeInTheDocument();
