@@ -3,12 +3,10 @@
 import Link from "next/link";
 import { useState } from "react";
 import { SITE_BRAND_NAME } from "@/lib/site-brand";
-import { SITE_VERTICALS } from "@/lib/site-catalog";
+import { NAV_VERTICALS } from "@/lib/site-catalog";
 import { HtmlLang } from "@/components/seo/HtmlLang";
 
 const linkClass = "text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors";
-
-const NAV_VERTICALS = SITE_VERTICALS.filter((vertical) => vertical.slug === "idiomas");
 
 export function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

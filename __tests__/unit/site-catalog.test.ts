@@ -5,10 +5,15 @@ import {
   isEnglishLevelCategory,
   isPublicArticleCategory,
   isPublicSitePath,
+  NAV_VERTICALS,
 } from "@/lib/site-catalog";
 import robots from "@/app/robots";
 
 describe("site catalog", () => {
+  it("keeps only idiomas in the public navigation verticals", () => {
+    expect(NAV_VERTICALS.map((vertical) => vertical.slug)).toEqual(["idiomas"]);
+  });
+
   it("treats magazine and English-learning article categories as public", () => {
     expect(isPublicArticleCategory("idiomas")).toBe(true);
     expect(isPublicArticleCategory("actualidad")).toBe(true);

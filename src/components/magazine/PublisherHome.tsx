@@ -4,7 +4,7 @@ import { CompactHeadline } from "@/components/magazine/CompactHeadline";
 import { FeaturedStory } from "@/components/magazine/FeaturedStory";
 import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
 import { buildPublisherHome } from "@/lib/content/publisher-home";
-import { ENGLISH_LEARNING_SECTIONS, SITE_VERTICALS } from "@/lib/site-catalog";
+import { ENGLISH_LEARNING_SECTIONS, NAV_VERTICALS } from "@/lib/site-catalog";
 import type { BlogPost } from "@/lib/blog";
 
 export function PublisherHome({
@@ -28,7 +28,7 @@ export function PublisherHome({
             Revista · idiomas, hábitos e IA · {inventoryLabel}
           </p>
           <div className="flex flex-wrap items-center gap-3 text-xs font-bold">
-            {SITE_VERTICALS.map((vertical) => (
+            {NAV_VERTICALS.map((vertical) => (
               <Link
                 key={vertical.slug}
                 href={vertical.href}

@@ -176,6 +176,9 @@ export const SITE_VERTICALS: readonly SiteVertical[] = [
   },
 ] as const;
 
+/** Temáticas que aparecen en el menú de navegación público. */
+export const NAV_VERTICALS = SITE_VERTICALS.filter((vertical) => vertical.slug === "idiomas");
+
 export const ENGLISH_LEARNING_SECTIONS: readonly EnglishLearningSection[] = [
   {
     slug: "actualidad",
