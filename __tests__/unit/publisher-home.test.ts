@@ -2,6 +2,7 @@ import {
   getAdPlacement,
   shouldFillAdSlots,
 } from "@/lib/ads/placements";
+import { shouldUseMarkdownArticleFallback } from "@/lib/content/articles";
 import {
   buildPublisherHome,
   escapeXml,
@@ -136,5 +137,9 @@ describe("ad placements", () => {
 
   it("does not fill live ads in the test environment", () => {
     expect(shouldFillAdSlots()).toBe(false);
+  });
+
+  it("allows markdown fallback outside production", () => {
+    expect(shouldUseMarkdownArticleFallback()).toBe(true);
   });
 });

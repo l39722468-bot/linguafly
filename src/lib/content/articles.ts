@@ -1,4 +1,10 @@
-import type { BlogPost } from "@/lib/blog";
+import {
+  getArticleBySlug,
+  getBlogArticles,
+  getRelatedArticles,
+  getRelatedByKeywords,
+  type BlogPost,
+} from "@/lib/blog";
 import { getTheoryWorkbookPeerSlug, normalizeCategory } from "@/lib/blog-paths";
 import {
   DatabaseClient,
@@ -14,6 +20,13 @@ import {
 } from "@/lib/content/pagination";
 
 const PUBLIC_CATEGORIES = [...PUBLIC_ARTICLE_CATEGORIES];
+
+export function shouldUseMarkdownArticleFallback(): boolean {
+  return (
+    process.env.NODE_ENV !== "production" ||
+    process.env.NEXT_PUBLIC_USE_MARKDOWN_FALLBACK === "1"
+  );
+}
 
 async function getContentDb(): Promise<DatabaseClient> {
   const { env, ctx } = await resolveCloudflareEnv();
@@ -46,6 +59,33 @@ function resolveListCategories(options: {
   return null;
 }
 
+function listPublishedArticlesFromMarkdown(options: {
+  page: number;
+  limit: number;
+  categories: string[] | null;
+  author?: string;
+}): PublishedListResult {
+  let articles = getBlogArticles();
+  if (options.categories) {
+    const allowed = new Set(options.categories);
+    articles = articles.filter((article) =>
+      allowed.has(normalizeCategory(article.category)),
+    );
+  }
+  if (options.author) {
+    articles = articles.filter((article) => article.author === options.author);
+  }
+  const total = articles.length;
+  const start = (options.page - 1) * options.limit;
+  return {
+    articles: articles.slice(start, start + options.limit),
+    total,
+    page: options.page,
+    limit: options.limit,
+    pages: total > 0 ? Math.ceil(total / options.limit) : 0,
+  };
+}
+
 export async function listPublishedArticles(options: {
   page?: number;
   limit?: number;
@@ -59,39 +99,66 @@ export async function listPublishedArticles(options: {
   if (categories && categories.length === 0) {
     return emptyPublishedList(page, limit);
   }
-  const db = await getContentDb();
-  const result = await db.listArticlesFiltered({
-    page,
-    limit,
-    categories: categories ?? PUBLIC_CATEGORIES,
-    author: options.author,
-  });
+  try {
+    const db = await getContentDb();
+    const result = await db.listArticlesFiltered({
+      page,
+      limit,
+      categories: categories ?? PUBLIC_CATEGORIES,
+      author: options.author,
+    });
 
-  return {
-    articles: result.articles.map(articleRecordToBlogPost),
-    total: result.total,
-    page: result.page,
-    limit: result.limit,
-    pages: result.pages,
-  };
+    return {
+      articles: result.articles.map(articleRecordToBlogPost),
+      total: result.total,
+      page: result.page,
+      limit: result.limit,
+      pages: result.pages,
+    };
+  } catch (error) {
+    if (!shouldUseMarkdownArticleFallback()) throw error;
+    return listPublishedArticlesFromMarkdown({
+      page,
+      limit,
+      categories,
+      author: options.author,
+    });
+  }
 }
 
 export async function getPublishedArticle(
   slug: string,
   category?: string
 ): Promise<BlogPost | null> {
-  const db = await getContentDb();
-  const normalized = category ? normalizeCategory(category) : undefined;
-  const row = await db.getArticle(slug, normalized);
-  if (!row || !isPublicArticleCategory(row.category)) return null;
-  return articleRecordToBlogPost(row);
+  try {
+    const db = await getContentDb();
+    const normalized = category ? normalizeCategory(category) : undefined;
+    const row = await db.getArticle(slug, normalized);
+    if (!row || !isPublicArticleCategory(row.category)) return null;
+    return articleRecordToBlogPost(row);
+  } catch (error) {
+    if (!shouldUseMarkdownArticleFallback()) throw error;
+    const article = getArticleBySlug(slug, category);
+    if (!article || !isPublicArticleCategory(article.category)) return null;
+    return article;
+  }
 }
 
 export async function countPublishedArticles(category?: string): Promise<number> {
-  const db = await getContentDb();
-  return db.countPublished(
-    category ? [normalizeCategory(category)] : PUBLIC_CATEGORIES
-  );
+  try {
+    const db = await getContentDb();
+    return db.countPublished(
+      category ? [normalizeCategory(category)] : PUBLIC_CATEGORIES
+    );
+  } catch (error) {
+    if (!shouldUseMarkdownArticleFallback()) throw error;
+    const listed = listPublishedArticlesFromMarkdown({
+      page: 1,
+      limit: 1,
+      categories: category ? [normalizeCategory(category)] : null,
+    });
+    return listed.total;
+  }
 }
 
 export async function countPublishedArticlesByCategory(
@@ -115,6 +182,7 @@ export async function getRelatedPublishedArticles(
   relatedRoutes: string[] = [],
   limit = RELATED_ARTICLE_LIMIT
 ): Promise<BlogPost[]> {
+  try {
   const db = await getContentDb();
   const picked: BlogPost[] = [];
   const seen = new Set<string>([`${normalizeCategory(category)}:${currentSlug}`]);
@@ -152,6 +220,10 @@ export async function getRelatedPublishedArticles(
   }
 
   return picked;
+  } catch (error) {
+    if (!shouldUseMarkdownArticleFallback()) throw error;
+    return getRelatedArticles(currentSlug, category, limit);
+  }
 }
 
 export async function getRelatedByKeywordsPublished(
@@ -160,14 +232,19 @@ export async function getRelatedByKeywordsPublished(
   limit = RELATED_ARTICLE_LIMIT
 ): Promise<BlogPost[]> {
   if (!keywords.length) return [];
-  const db = await getContentDb();
-  const rows = await db.getRelatedByTags(
-    currentSlug,
-    keywords,
-    limit,
-    PUBLIC_CATEGORIES
-  );
-  return rows.map(articleRecordToBlogPost);
+  try {
+    const db = await getContentDb();
+    const rows = await db.getRelatedByTags(
+      currentSlug,
+      keywords,
+      limit,
+      PUBLIC_CATEGORIES
+    );
+    return rows.map(articleRecordToBlogPost);
+  } catch (error) {
+    if (!shouldUseMarkdownArticleFallback()) throw error;
+    return getRelatedByKeywords(currentSlug, keywords, limit);
+  }
 }
 
 export async function listSidebarArticles(
