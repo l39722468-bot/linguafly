@@ -23,7 +23,7 @@ const nextConfig = {
   staticPageGenerationTimeout: 180,
   experimental: {
     inlineCss: true,
-    optimizePackageImports: [],
+    optimizePackageImports: ['lucide-react', 'framer-motion'],
     workerThreads: false,
     cpus: 1,
   },
@@ -1046,8 +1046,22 @@ const nextConfig = {
     emotion: false,
   },
   // Paquetes externos que deben ejecutarse en el servidor
-  // Webpack: sin alias React - ExerciseRenderer ya no usa framer-motion en ruta crítica
-  webpack: (config) => config,
+  // Webpack: sin alias React - ExerciseRenderer ya no usa framer-motion en ruta crítica.
+  // Stub de polyfills: last-2 browserslist no necesita el bundle nomodule (~110 KiB).
+  webpack: (config) => {
+    config.resolve.alias = {
+      ...config.resolve.alias,
+      'next/dist/build/polyfills/polyfill-module': path.join(
+        __dirname,
+        'src/lib/modern-polyfill.js',
+      ),
+      'next/dist/build/polyfills/polyfill-nomodule': path.join(
+        __dirname,
+        'src/lib/modern-polyfill.js',
+      ),
+    };
+    return config;
+  },
 }
 
 module.exports = withBundleAnalyzer(nextConfig);
