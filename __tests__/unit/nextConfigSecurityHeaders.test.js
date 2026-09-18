@@ -21,4 +21,9 @@ describe('next.config security headers', () => {
     expect(cspHeader.value).toContain('https://linguaflyapp.matomo.cloud');
     expect(cspHeader.value).not.toContain('https://vitals.vercel-insights.com');
   });
+
+  it('allows the magazine Image quality values OpenNext would otherwise reject', () => {
+    const nextConfig = require('../../next.config.js');
+    expect(nextConfig.images.qualities).toEqual(expect.arrayContaining([60, 70, 75]));
+  });
 });

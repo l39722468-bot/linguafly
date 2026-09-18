@@ -21,7 +21,7 @@ export function CompactHeadline({ article }: { article: BlogPost }) {
           src={image}
           alt={article.alt || article.title}
           fill
-          quality={60}
+          quality={75}
           sizes="96px"
           className="object-cover transition-transform duration-300 group-hover:scale-105"
         />

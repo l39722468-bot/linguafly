@@ -355,7 +355,7 @@ export default async function CategoryPage({
                         src={getArticleOgImagePath(article)}
                         alt={article.alt || article.title}
                         fill
-                        quality={70}
+                        quality={75}
                         sizes="(max-width: 768px) 100vw, 33vw"
                         className="object-cover group-hover:scale-105 transition-transform duration-500"
                       />

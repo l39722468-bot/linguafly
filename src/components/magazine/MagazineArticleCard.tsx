@@ -19,7 +19,7 @@ export function MagazineArticleCard({ article }: { article: BlogPost }) {
           src={image}
           alt={article.alt || article.title}
           fill
-          quality={70}
+          quality={75}
           sizes="(max-width: 768px) 100vw, 33vw"
           className="object-cover transition-transform duration-500 group-hover:scale-105"
         />

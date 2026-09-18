@@ -799,6 +799,9 @@ const nextConfig = {
     formats: ['image/avif', 'image/webp'],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920, 2048],
     imageSizes: [16, 32, 48, 64, 96, 128, 256],
+    // OpenNext/Cloudflare defaults to [75] when this is omitted, so
+    // `/_next/image?q=60|70` 400s and the cards show alt text instead of the JPEG.
+    qualities: [60, 70, 75],
     remotePatterns: [
       {
         protocol: 'https',
