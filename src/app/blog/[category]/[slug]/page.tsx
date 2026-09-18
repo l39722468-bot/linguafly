@@ -36,6 +36,8 @@ import {
 } from "@/lib/seo/unit-topic-canonical";
 import { CourseTopicCanonicalBanner } from "@/components/blog/CourseTopicCanonicalBanner";
 import { RelatedSearches } from "@/components/blog/RelatedSearches";
+import { AdSlot } from "@/components/ads/AdSlot";
+import { splitMarkdownForMidArticleAd } from "@/lib/content/publisher-home";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
@@ -319,6 +321,8 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
   /** Artículos de la misma categoría para la navegación de la sidebar (sin CTAs comerciales). */
   const sidebarCategoryArticles = await listSidebarArticles(article.category, slug);
+  const articleBody = expandBlogGlosses(article.content);
+  const { intro, rest } = splitMarkdownForMidArticleAd(articleBody);
     return (
       <>
         {/* SEO Schemas */}
@@ -471,8 +475,22 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       rehypePlugins={[rehypeRaw]}
                       components={MarkdownComponents}
                     >
-                      {expandBlogGlosses(article.content)}
+                      {intro}
                     </ReactMarkdown>
+
+                    <div className="not-prose my-10 print-hidden">
+                      <AdSlot placement="in-article" />
+                    </div>
+
+                    {rest ? (
+                      <ReactMarkdown 
+                        remarkPlugins={[remarkGfm]}
+                        rehypePlugins={[rehypeRaw]}
+                        components={MarkdownComponents}
+                      >
+                        {rest}
+                      </ReactMarkdown>
+                    ) : null}
 
                     {/* FAQs visibles (alineadas con FAQPage schema) */}
                     {article.faqs && article.faqs.length > 0 && (
@@ -605,8 +623,9 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
               {/* Sidebar */}
               <aside className="lg:col-span-4 space-y-8 print-hidden">
-                <div className="sticky top-32">
+                <div className="sticky top-32 space-y-8">
                   <TableOfContents />
+                  <AdSlot placement="sidebar" />
 
                   {/* Tarjeta informativa: más contenido gratuito de la misma categoría */}
                   {sidebarCategoryArticles.length > 0 && (

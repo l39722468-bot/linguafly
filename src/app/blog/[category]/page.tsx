@@ -3,6 +3,7 @@ import { Navigation } from "@/components/sections/Navigation";
 import { Footer } from "@/components/sections/Footer";
 import { BlogSearchExplorer } from "@/components/blog/BlogSearchExplorer";
 import { ArticlePagination } from "@/components/magazine/ArticlePagination";
+import { AdSlot } from "@/components/ads/AdSlot";
 import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
@@ -322,6 +323,9 @@ export default async function CategoryPage({
         {/* Articles Grid */}
         <section className="py-16 px-4 sm:px-6 lg:px-8">
           <div className="max-w-7xl mx-auto">
+            <div className="mb-10">
+              <AdSlot placement="leaderboard" />
+            </div>
             {articles.length === 0 ? (
               <div className="text-center py-20 bg-white rounded-3xl border-2 border-dashed border-slate-200">
                 <p className="text-xl text-slate-500">Aún no hay artículos en esta categoría. ¡Vuelve pronto!</p>

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { Navigation } from "@/components/sections/Navigation";
 import { Footer } from "@/components/sections/Footer";
 import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
+import { AdSlot } from "@/components/ads/AdSlot";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { generateBreadcrumbSchema, generateCollectionPageSchema } from "@/lib/schemas";
 import {
@@ -115,6 +116,10 @@ export async function IdiomasHub({ vertical }: { vertical: SiteVertical }) {
             </div>
           </div>
         </section>
+
+        <div className="mx-auto max-w-6xl px-4 pb-8 sm:px-6 lg:px-8">
+          <AdSlot placement="leaderboard" />
+        </div>
 
         <section id="niveles" className="scroll-mt-24 px-4 pb-16 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-6xl">

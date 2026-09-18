@@ -59,6 +59,9 @@ export const metadata: Metadata = {
   },
   alternates: {
     languages: languageAlternates(siteUrl),
+    types: {
+      "application/rss+xml": getAbsoluteUrl("/feed.xml"),
+    },
   },
   robots: {
     index: true,

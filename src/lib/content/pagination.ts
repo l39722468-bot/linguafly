@@ -1,5 +1,5 @@
 export const ARTICLES_PER_PAGE = 24;
-export const HOME_ARTICLE_LIMIT = 6;
+export const HOME_ARTICLE_LIMIT = 48;
 /** Recientes en /idiomas: el hub es clasificación, no el listado de las ~800 guías. */
 export const ENGLISH_HUB_ARTICLE_LIMIT = 8;
 export const RELATED_ARTICLE_LIMIT = 3;
