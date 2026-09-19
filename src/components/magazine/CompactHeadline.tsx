@@ -3,7 +3,7 @@ import Link from "next/link";
 import { getArticlePath } from "@/lib/blog-paths";
 import { formatShortEsDate } from "@/lib/content/publisher-home";
 import { getPublicCategoryLabel } from "@/lib/site-catalog";
-import { getArticleOgImagePath } from "@/lib/seo/og-images";
+import { getArticleOgImagePath, OG_IMAGE_ASPECT_CLASS } from "@/lib/seo/og-images";
 import type { BlogPost } from "@/lib/blog";
 
 export function CompactHeadline({ article }: { article: BlogPost }) {
@@ -16,14 +16,14 @@ export function CompactHeadline({ article }: { article: BlogPost }) {
       href={getArticlePath(article)}
       className="group flex gap-3 border-b border-slate-100 py-3 last:border-b-0"
     >
-      <div className="relative h-16 w-24 shrink-0 overflow-hidden rounded-xl bg-slate-100">
+      <div className={`relative ${OG_IMAGE_ASPECT_CLASS} w-28 shrink-0 overflow-hidden rounded-xl bg-slate-100`}>
         <Image
           src={image}
           alt={article.alt || article.title}
           fill
           quality={75}
-          sizes="96px"
-          className="object-cover transition-transform duration-300 group-hover:scale-105"
+          sizes="112px"
+          className="object-cover object-center transition-transform duration-300 group-hover:scale-105"
         />
       </div>
       <div className="min-w-0 flex-1">

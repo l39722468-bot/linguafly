@@ -16,7 +16,7 @@ import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import { llmMarkdownUrl, languageAlternates } from "@/lib/seo/canonical";
 import { getPublicCategoryLabel, isPublicArticleCategory } from "@/lib/site-catalog";
-import { getArticleOgImagePath, getCategoryOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
+import { getArticleOgImagePath, getCategoryOgImagePath, OG_IMAGE_ASPECT_CLASS, ogImageMeta } from "@/lib/seo/og-images";
 
 export const dynamic = "force-dynamic";
 export const dynamicParams = true;
@@ -350,14 +350,14 @@ export default async function CategoryPage({
                     href={`/blog/${article.category}/${article.slug}`}
                     className="group bg-white rounded-3xl border border-slate-200 overflow-hidden hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 flex flex-col h-full"
                   >
-                    <div className="relative h-48 w-full overflow-hidden">
+                    <div className={`relative ${OG_IMAGE_ASPECT_CLASS} w-full overflow-hidden`}>
                       <Image
                         src={getArticleOgImagePath(article)}
                         alt={article.alt || article.title}
                         fill
                         quality={75}
                         sizes="(max-width: 768px) 100vw, 33vw"
-                        className="object-cover group-hover:scale-105 transition-transform duration-500"
+                        className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
                       />
                     </div>
                     <div className="p-6 flex flex-col flex-1">

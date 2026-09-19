@@ -5,6 +5,9 @@ import {
   getArticleOgImageUrl,
   getCategoryOgImagePath,
   getCategoryOgImageUrl,
+  OG_IMAGE_ASPECT_CLASS,
+  OG_IMAGE_HEIGHT,
+  OG_IMAGE_WIDTH,
   ogImageMeta,
 } from "@/lib/seo/og-images";
 import { serializeSitemapXml } from "@/lib/content/sitemap";
@@ -23,6 +26,12 @@ describe("category OG images", () => {
     } else {
       process.env.NEXT_PUBLIC_SITE_URL = previousSiteUrl;
     }
+  });
+
+  it("exposes the 1200×630 frame used by article cards", () => {
+    expect(OG_IMAGE_WIDTH).toBe(1200);
+    expect(OG_IMAGE_HEIGHT).toBe(630);
+    expect(OG_IMAGE_ASPECT_CLASS).toBe("aspect-[1200/630]");
   });
 
   it("maps each public cluster to its own still", () => {

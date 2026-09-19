@@ -9,7 +9,7 @@ import { Twitter, BookOpen, Award, CheckCircle } from "lucide-react";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
-import { DEFAULT_OG_IMAGE_PATH } from "@/lib/seo/og-images";
+import { DEFAULT_OG_IMAGE_PATH, OG_IMAGE_ASPECT_CLASS } from "@/lib/seo/og-images";
 
 export const dynamic = "force-dynamic";
 
@@ -168,12 +168,12 @@ export default async function AuthorPage({ params }: { params: Promise<{ slug: s
                   className="group bg-white rounded-3xl border border-slate-200 overflow-hidden hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 flex flex-col"
                 >
                   {article.image && (
-                    <div className="relative h-48 w-full">
+                    <div className={`relative ${OG_IMAGE_ASPECT_CLASS} w-full overflow-hidden`}>
                       <Image
                         src={article.image}
                         alt={article.alt || article.title}
                         fill
-                        className="object-cover group-hover:scale-105 transition-transform duration-500"
+                        className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
                       />
                     </div>
                   )}

@@ -2,7 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { getPublicCategoryLabel } from "@/lib/site-catalog";
 import { getArticlePath } from "@/lib/blog-paths";
-import { getArticleOgImagePath } from "@/lib/seo/og-images";
+import { getArticleOgImagePath, OG_IMAGE_ASPECT_CLASS } from "@/lib/seo/og-images";
 import type { BlogPost } from "@/lib/blog";
 
 export function MagazineArticleCard({ article }: { article: BlogPost }) {
@@ -14,14 +14,14 @@ export function MagazineArticleCard({ article }: { article: BlogPost }) {
       href={getArticlePath(article)}
       className="group flex h-full flex-col overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-lg"
     >
-      <div className="relative h-44 w-full overflow-hidden">
+      <div className={`relative ${OG_IMAGE_ASPECT_CLASS} w-full overflow-hidden`}>
         <Image
           src={image}
           alt={article.alt || article.title}
           fill
           quality={75}
           sizes="(max-width: 768px) 100vw, 33vw"
-          className="object-cover transition-transform duration-500 group-hover:scale-105"
+          className="object-cover object-center transition-transform duration-500 group-hover:scale-105"
         />
       </div>
       <div className="flex flex-1 flex-col p-6">

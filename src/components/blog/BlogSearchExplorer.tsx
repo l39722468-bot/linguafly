@@ -5,6 +5,7 @@ import Link from "next/link";
 import { useCallback, useEffect, useId, useRef, useState } from "react";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { Search } from "lucide-react";
+import { OG_IMAGE_ASPECT_CLASS } from "@/lib/seo/og-images";
 
 export type BlogCategoryOption = { slug: string; label: string };
 
@@ -425,14 +426,14 @@ export function BlogSearchExplorer({
                     className="group block h-full rounded-2xl border border-slate-100 bg-slate-50/50 p-4 transition hover:border-coral-200 hover:bg-white hover:shadow-md"
                   >
                     {article.image && (
-                      <div className="relative mb-3 h-36 w-full overflow-hidden rounded-xl">
+                      <div className={`relative mb-3 ${OG_IMAGE_ASPECT_CLASS} w-full overflow-hidden rounded-xl`}>
                         <Image
                           src={article.image}
                           alt={article.alt || article.title}
                           fill
                           quality={75}
                           sizes="(max-width: 768px) 100vw, 33vw"
-                          className="object-cover transition duration-500 group-hover:scale-105"
+                          className="object-cover object-center transition duration-500 group-hover:scale-105"
                         />
                       </div>
                     )}

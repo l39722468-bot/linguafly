@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
+import { OG_IMAGE_ASPECT_CLASS } from "@/lib/seo/og-images";
 
 interface HomeBelowFoldProps {
   latestArticles: Array<{
@@ -86,8 +87,8 @@ export function HomeBelowFold({ latestArticles }: HomeBelowFoldProps) {
             {latestArticles.map((article) => (
               <Link key={article.slug} href={`/blog/${article.category}/${article.slug}`} className="bg-white rounded-3xl shadow-sm border border-slate-200 overflow-hidden hover:shadow-2xl hover:-translate-y-1 transition-all group flex flex-col h-full">
                 {article.image && (
-                  <div className="relative h-48 w-full overflow-hidden">
-                    <Image src={article.image} alt={article.title} fill sizes="(max-width: 768px) 100vw, 33vw" quality={75} className="object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                  <div className={`relative ${OG_IMAGE_ASPECT_CLASS} w-full overflow-hidden`}>
+                    <Image src={article.image} alt={article.title} fill sizes="(max-width: 768px) 100vw, 33vw" quality={75} className="object-cover object-center group-hover:scale-105 transition-transform duration-500" loading="lazy" />
                   </div>
                 )}
                 <div className="p-6 flex flex-col flex-1">

@@ -3,7 +3,7 @@ import Link from "next/link";
 import { getArticlePath } from "@/lib/blog-paths";
 import { formatShortEsDate } from "@/lib/content/publisher-home";
 import { getPublicCategoryLabel } from "@/lib/site-catalog";
-import { getArticleOgImagePath } from "@/lib/seo/og-images";
+import { getArticleOgImagePath, OG_IMAGE_ASPECT_CLASS } from "@/lib/seo/og-images";
 import type { BlogPost } from "@/lib/blog";
 
 export function FeaturedStory({ article }: { article: BlogPost }) {
@@ -16,7 +16,7 @@ export function FeaturedStory({ article }: { article: BlogPost }) {
       href={getArticlePath(article)}
       className="group flex h-full flex-col overflow-hidden rounded-3xl border border-slate-200 bg-white shadow-sm transition hover:-translate-y-0.5 hover:shadow-lg"
     >
-      <div className="relative min-h-[220px] w-full overflow-hidden sm:min-h-[280px]">
+      <div className={`relative ${OG_IMAGE_ASPECT_CLASS} w-full overflow-hidden`}>
         <Image
           src={image}
           alt={article.alt || article.title}
@@ -24,7 +24,7 @@ export function FeaturedStory({ article }: { article: BlogPost }) {
           priority
           quality={75}
           sizes="(max-width: 1024px) 100vw, 66vw"
-          className="object-cover transition-transform duration-700 group-hover:scale-105"
+          className="object-cover object-center transition-transform duration-700 group-hover:scale-105"
         />
       </div>
       <div className="flex flex-1 flex-col p-6 sm:p-8">

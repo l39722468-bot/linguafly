@@ -9,7 +9,7 @@ import remarkGfm from "remark-gfm";
 import { generateBreadcrumbSchema, generateCollectionPageSchema, generateFAQSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl } from "@/lib/site-brand";
-import { DEFAULT_OG_IMAGE_PATH, getArticleOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
+import { DEFAULT_OG_IMAGE_PATH, getArticleOgImagePath, OG_IMAGE_ASPECT_CLASS, ogImageMeta } from "@/lib/seo/og-images";
 
 /**
  * Solo prerender hubs + keywords con ≥3 artículos.
@@ -298,12 +298,12 @@ export default async function KeywordHubPage({ params }: { params: Promise<{ key
                   className="group bg-white rounded-3xl border border-slate-200 overflow-hidden hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 flex flex-col h-full"
                 >
                   {article.image && (
-                    <div className="relative h-48 w-full overflow-hidden">
+                    <div className={`relative ${OG_IMAGE_ASPECT_CLASS} w-full overflow-hidden`}>
                       <Image
                         src={article.image}
                         alt={article.alt || article.title}
                         fill
-                        className="object-cover group-hover:scale-105 transition-transform duration-500"
+                        className="object-cover object-center group-hover:scale-105 transition-transform duration-500"
                       />
                     </div>
                   )}

@@ -3,6 +3,8 @@ import { normalizeCategory } from "@/lib/blog-paths";
 
 export const OG_IMAGE_WIDTH = 1200;
 export const OG_IMAGE_HEIGHT = 630;
+/** Matches the 1200×630 stills so cards do not center-crop the photo/title seam. */
+export const OG_IMAGE_ASPECT_CLASS = "aspect-[1200/630]";
 export const DEFAULT_OG_IMAGE_PATH = "/blog/og-image.jpg";
 
 /** Distinctive 16:9 stills per public category. Articles with their own `image` keep it. */
