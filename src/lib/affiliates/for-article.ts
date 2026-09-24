@@ -5,6 +5,10 @@ import {
   MURPHY_GRAMMAR_BOOK,
   shouldOfferMurphyGrammar,
 } from "@/lib/affiliates/murphy-grammar";
+import {
+  PHRASAL_VERBS_BOOK,
+  shouldOfferPhrasalVerbsBook,
+} from "@/lib/affiliates/phrasal-verbs";
 
 const APTIS_BOOK: AffiliateBook = {
   id: "aptis-complete-trainer",
@@ -24,6 +28,7 @@ const APTIS_BOOK: AffiliateBook = {
 /** Un solo libro por artículo. Aptis General tiene prioridad sobre la gramática general. */
 export function affiliateBookForSlug(slug?: string | null): AffiliateBook | null {
   if (shouldOfferAptisBook({ slug })) return APTIS_BOOK;
+  if (shouldOfferPhrasalVerbsBook(slug)) return PHRASAL_VERBS_BOOK;
   if (shouldOfferMurphyGrammar(slug)) return MURPHY_GRAMMAR_BOOK;
   return null;
 }

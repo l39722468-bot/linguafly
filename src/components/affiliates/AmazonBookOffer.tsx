@@ -17,6 +17,12 @@ const TONE: Record<
     icon: "bg-sky-600",
     dot: "bg-sky-600",
   },
+  emerald: {
+    card: "border-emerald-200 bg-emerald-50",
+    eyebrow: "text-emerald-800",
+    icon: "bg-emerald-600",
+    dot: "bg-emerald-600",
+  },
 };
 
 type AmazonBookOfferProps = {

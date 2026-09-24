@@ -1,4 +1,4 @@
-export type AffiliateBookTone = "amber" | "sky";
+export type AffiliateBookTone = "amber" | "sky" | "emerald";
 
 export type AffiliateBook = {
   id: string;
