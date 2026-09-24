@@ -9,6 +9,10 @@ import {
   PHRASAL_VERBS_BOOK,
   shouldOfferPhrasalVerbsBook,
 } from "@/lib/affiliates/phrasal-verbs";
+import {
+  PASO_A_PASO_BOOK,
+  shouldOfferPasoAPaso,
+} from "@/lib/affiliates/paso-a-paso";
 
 const APTIS_BOOK: AffiliateBook = {
   id: "aptis-complete-trainer",
@@ -29,6 +33,7 @@ const APTIS_BOOK: AffiliateBook = {
 export function affiliateBookForSlug(slug?: string | null): AffiliateBook | null {
   if (shouldOfferAptisBook({ slug })) return APTIS_BOOK;
   if (shouldOfferPhrasalVerbsBook(slug)) return PHRASAL_VERBS_BOOK;
+  if (shouldOfferPasoAPaso(slug)) return PASO_A_PASO_BOOK;
   if (shouldOfferMurphyGrammar(slug)) return MURPHY_GRAMMAR_BOOK;
   return null;
 }

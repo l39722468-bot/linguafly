@@ -2,7 +2,6 @@ import { Navigation } from "@/components/sections/Navigation";
 import { Footer } from "@/components/sections/Footer";
 import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
 import { ArticlePagination } from "@/components/magazine/ArticlePagination";
-import { AdSlot } from "@/components/ads/AdSlot";
 import Link from "next/link";
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
@@ -130,10 +129,6 @@ export default async function BlogPage({
             </div>
           </div>
         </section>
-
-        <div className="mx-auto max-w-6xl px-4 pb-6 sm:px-6 lg:px-8">
-          <AdSlot placement="leaderboard" />
-        </div>
 
         <section className="px-4 pb-20 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-6xl">

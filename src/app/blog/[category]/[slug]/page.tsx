@@ -36,7 +36,6 @@ import {
 } from "@/lib/seo/unit-topic-canonical";
 import { CourseTopicCanonicalBanner } from "@/components/blog/CourseTopicCanonicalBanner";
 import { RelatedSearches } from "@/components/blog/RelatedSearches";
-import { AdSlot } from "@/components/ads/AdSlot";
 import { AmazonBookOffer } from "@/components/affiliates/AmazonBookOffer";
 import { affiliateBookForSlug } from "@/lib/affiliates/for-article";
 import { splitMarkdownForMidArticleAd } from "@/lib/content/publisher-home";
@@ -482,10 +481,6 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       {intro}
                     </ReactMarkdown>
 
-                    <div className="not-prose my-10 print-hidden">
-                      <AdSlot placement="in-article" />
-                    </div>
-
                     {rest ? (
                       <ReactMarkdown 
                         remarkPlugins={[remarkGfm]}
@@ -638,7 +633,6 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                   {affiliateBook ? (
                     <AmazonBookOffer book={affiliateBook} variant="compact" />
                   ) : null}
-                  <AdSlot placement="sidebar" />
 
                   {/* Tarjeta informativa: más contenido gratuito de la misma categoría */}
                   {sidebarCategoryArticles.length > 0 && (

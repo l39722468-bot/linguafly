@@ -3,7 +3,6 @@ import { Navigation } from "@/components/sections/Navigation";
 import { Footer } from "@/components/sections/Footer";
 import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
 import { ArticlePagination } from "@/components/magazine/ArticlePagination";
-import { AdSlot } from "@/components/ads/AdSlot";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { generateBreadcrumbSchema } from "@/lib/schemas";
 import { notFound } from "next/navigation";
@@ -58,9 +57,6 @@ export async function VerticalHub({
 
         <section className="px-4 pb-20 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-6xl">
-            <div className="mb-8">
-              <AdSlot placement="leaderboard" />
-            </div>
             <h2 className="font-display mb-8 text-3xl font-black text-slate-900">Artículos publicados</h2>
             {articles.length === 0 ? (
               <p className="rounded-3xl border border-dashed border-slate-200 bg-white p-10 text-slate-500">

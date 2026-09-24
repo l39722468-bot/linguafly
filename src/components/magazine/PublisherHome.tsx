@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { AdSlot } from "@/components/ads/AdSlot";
 import { CompactHeadline } from "@/components/magazine/CompactHeadline";
 import { FeaturedStory } from "@/components/magazine/FeaturedStory";
 import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
@@ -46,10 +45,6 @@ export function PublisherHome({
           </div>
         </div>
       </section>
-
-      <div className="mx-auto max-w-6xl px-4 pt-4 sm:px-6 lg:px-8">
-        <AdSlot placement="leaderboard" />
-      </div>
 
       {model.featured ? (
         <section className="px-4 py-8 sm:px-6 lg:px-8">
@@ -131,7 +126,6 @@ export function PublisherHome({
               ))}
             </div>
             <div className="space-y-6 lg:col-span-4">
-              <AdSlot placement="sidebar" />
               <div className="rounded-3xl border border-slate-200 bg-white p-6">
                 <p className="mb-3 text-xs font-black uppercase tracking-[0.2em] text-slate-500">
                   Aprender inglés
@@ -152,10 +146,6 @@ export function PublisherHome({
           </div>
         </section>
       ) : null}
-
-      <div className="mx-auto max-w-6xl px-4 pb-10 sm:px-6 lg:px-8">
-        <AdSlot placement="feed" />
-      </div>
 
       {model.rails.map((rail) =>
         rail.articles.length > 0 ? (
