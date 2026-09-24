@@ -13,6 +13,16 @@ import {
   PASO_A_PASO_BOOK,
   shouldOfferPasoAPaso,
 } from "@/lib/affiliates/paso-a-paso";
+import {
+  C1_ADVANCED_BOOK,
+  COLLOCATIONS_BOOK,
+  ESSENTIAL_GRAMMAR_BOOK,
+  IELTS_BOOK,
+  shouldOfferC1AdvancedBook,
+  shouldOfferCollocationsBook,
+  shouldOfferEssentialGrammar,
+  shouldOfferIeltsBook,
+} from "@/lib/affiliates/more-books";
 
 const APTIS_BOOK: AffiliateBook = {
   id: "aptis-complete-trainer",
@@ -35,5 +45,9 @@ export function affiliateBookForSlug(slug?: string | null): AffiliateBook | null
   if (shouldOfferPhrasalVerbsBook(slug)) return PHRASAL_VERBS_BOOK;
   if (shouldOfferPasoAPaso(slug)) return PASO_A_PASO_BOOK;
   if (shouldOfferMurphyGrammar(slug)) return MURPHY_GRAMMAR_BOOK;
+  if (shouldOfferCollocationsBook(slug)) return COLLOCATIONS_BOOK;
+  if (shouldOfferIeltsBook(slug)) return IELTS_BOOK;
+  if (shouldOfferC1AdvancedBook(slug)) return C1_ADVANCED_BOOK;
+  if (shouldOfferEssentialGrammar(slug)) return ESSENTIAL_GRAMMAR_BOOK;
   return null;
 }
