@@ -37,8 +37,8 @@ import {
 import { CourseTopicCanonicalBanner } from "@/components/blog/CourseTopicCanonicalBanner";
 import { RelatedSearches } from "@/components/blog/RelatedSearches";
 import { AdSlot } from "@/components/ads/AdSlot";
-import { AptisBookOffer } from "@/components/affiliates/AptisBookOffer";
-import { shouldOfferAptisBook } from "@/lib/affiliates/aptis-book";
+import { AmazonBookOffer } from "@/components/affiliates/AmazonBookOffer";
+import { affiliateBookForSlug } from "@/lib/affiliates/for-article";
 import { splitMarkdownForMidArticleAd } from "@/lib/content/publisher-home";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -125,7 +125,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const normalizedCategory = normalizeCategory(article.category);
   const categoryLabel = getPublicCategoryLabel(normalizedCategory).name;
   const contentLanguage = "es-ES";
-  const showAptisBook = shouldOfferAptisBook({ slug });
+  const affiliateBook = affiliateBookForSlug(slug);
 
   const canonicalUrl = resolveArticleCanonicalUrl(article);
   const topicCanonical = resolveCourseTopicCanonical(normalizedCategory, slug);
@@ -496,9 +496,9 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       </ReactMarkdown>
                     ) : null}
 
-                    {showAptisBook ? (
+                    {affiliateBook ? (
                       <div className="not-prose my-12 print-hidden">
-                        <AptisBookOffer />
+                        <AmazonBookOffer book={affiliateBook} />
                       </div>
                     ) : null}
 
@@ -635,7 +635,9 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
               <aside className="lg:col-span-4 space-y-8 print-hidden">
                 <div className="sticky top-32 space-y-8">
                   <TableOfContents />
-                  {showAptisBook ? <AptisBookOffer variant="compact" /> : null}
+                  {affiliateBook ? (
+                    <AmazonBookOffer book={affiliateBook} variant="compact" />
+                  ) : null}
                   <AdSlot placement="sidebar" />
 
                   {/* Tarjeta informativa: más contenido gratuito de la misma categoría */}
