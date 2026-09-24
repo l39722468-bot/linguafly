@@ -67,6 +67,9 @@ export function Footer() {
             <Link href="/cookies" className="transition-colors hover:text-white">Cookies</Link> |{" "}
             <Link href="/terminos" className="transition-colors hover:text-white">Términos</Link>
           </p>
+          <p className="mx-auto mt-4 max-w-3xl text-xs leading-relaxed text-slate-500">
+            {SITE_BRAND_NAME} participa en el Programa de Afiliados de Amazon EU, un programa de publicidad para afiliados diseñado para ofrecer a sitios web un modo de obtener comisiones por publicidad, publicitando e incluyendo enlaces a Amazon.es.
+          </p>
         </div>
       </div>
     </footer>

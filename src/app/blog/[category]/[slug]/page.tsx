@@ -37,6 +37,8 @@ import {
 import { CourseTopicCanonicalBanner } from "@/components/blog/CourseTopicCanonicalBanner";
 import { RelatedSearches } from "@/components/blog/RelatedSearches";
 import { AdSlot } from "@/components/ads/AdSlot";
+import { AptisBookOffer } from "@/components/affiliates/AptisBookOffer";
+import { shouldOfferAptisBook } from "@/lib/affiliates/aptis-book";
 import { splitMarkdownForMidArticleAd } from "@/lib/content/publisher-home";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -123,6 +125,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const normalizedCategory = normalizeCategory(article.category);
   const categoryLabel = getPublicCategoryLabel(normalizedCategory).name;
   const contentLanguage = "es-ES";
+  const showAptisBook = shouldOfferAptisBook({ slug });
 
   const canonicalUrl = resolveArticleCanonicalUrl(article);
   const topicCanonical = resolveCourseTopicCanonical(normalizedCategory, slug);
@@ -493,6 +496,12 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       </ReactMarkdown>
                     ) : null}
 
+                    {showAptisBook ? (
+                      <div className="not-prose my-12 print-hidden">
+                        <AptisBookOffer />
+                      </div>
+                    ) : null}
+
                     {/* FAQs visibles (alineadas con FAQPage schema) */}
                     {article.faqs && article.faqs.length > 0 && (
                       <div className="mt-16 border-t border-slate-100 pt-12 not-prose">
@@ -626,6 +635,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
               <aside className="lg:col-span-4 space-y-8 print-hidden">
                 <div className="sticky top-32 space-y-8">
                   <TableOfContents />
+                  {showAptisBook ? <AptisBookOffer variant="compact" /> : null}
                   <AdSlot placement="sidebar" />
 
                   {/* Tarjeta informativa: más contenido gratuito de la misma categoría */}

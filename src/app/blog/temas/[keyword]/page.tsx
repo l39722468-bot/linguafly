@@ -10,6 +10,8 @@ import { generateBreadcrumbSchema, generateCollectionPageSchema, generateFAQSche
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl } from "@/lib/site-brand";
 import { DEFAULT_OG_IMAGE_PATH, getArticleOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
+import { AptisBookOffer } from "@/components/affiliates/AptisBookOffer";
+import { shouldOfferAptisBook } from "@/lib/affiliates/aptis-book";
 
 /**
  * Solo prerender hubs + keywords con ≥3 artículos.
@@ -227,6 +229,11 @@ export default async function KeywordHubPage({ params }: { params: Promise<{ key
                   {hubContent.content}
                 </ReactMarkdown>
               </div>
+              {shouldOfferAptisBook({ hubKeyword: keyword }) ? (
+                <div className="mt-12">
+                  <AptisBookOffer />
+                </div>
+              ) : null}
             </div>
           </section>
         )}
