@@ -36,7 +36,7 @@ canonical: 'https://linguafly.app/blog/metodos/aprender-ingles-con-chatgpt'
 
 La inteligencia artificial ha cambiado radicalmente las posibilidades de aprender idiomas. ChatGPT funciona como un tutor personal disponible a cualquier hora, con paciencia infinita, que puede adaptarse exactamente a tu nivel, tus intereses y tus necesidades específicas.
 
-En esta guía encontrarás los **usos más efectivos de ChatGPT para aprender inglés**, con prompts concretos que puedes copiar y usar ahora mismo.
+En esta guía encontrarás los **usos más efectivos de ChatGPT para aprender inglés**, con prompts concretos que puedes copiar y usar ahora mismo. Si lo que quieres es evitar que el chat haga la tarea por ti, sigue en [cómo usar ChatGPT para aprender inglés sin hacer trampas](/blog/metodos/como-usar-chatgpt-para-aprender-ingles-sin-hacer-trampas).
 
 ---
 

@@ -38,7 +38,7 @@ canonical: 'https://linguafly.app/blog/trabajo/cv-ingles-tecnologia-it'
 
 Un CV técnico en inglés que gusta en Londres, Berlín, Dublín o Amsterdam **no es la traducción literal** del que entregaste en Madrid o Buenos Aires. Cambia el orden de la información, el tipo de logros que resalta, el lenguaje ("verbos de acción"), la forma de medir impacto, y hasta detalles como la foto o la fecha de nacimiento.
 
-Si aplicas a puestos de desarrollo, DevOps, data, QA, ciberseguridad, SRE o product engineering, esta guía te da la estructura exacta, las secciones que no pueden faltar, el vocabulario técnico en inglés y los errores típicos que meten los hispanohablantes.
+Si aplicas a puestos de desarrollo, DevOps, data, QA, ciberseguridad, SRE o product engineering, esta guía te da la estructura exacta, las secciones que no pueden faltar, el vocabulario técnico en inglés y los errores típicos que meten los hispanohablantes. Las frases de stand-up, tickets y entrevistas están en [inglés para trabajar en inteligencia artificial](/blog/trabajo/ingles-para-trabajar-en-inteligencia-artificial).
 
 ---
 

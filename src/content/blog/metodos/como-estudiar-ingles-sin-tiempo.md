@@ -54,7 +54,7 @@ alt: Rutina corta de inglés en el móvil durante un trayecto en transporte
 
 Quien busca **Cómo estudiar inglés sin tiempo: 5 ideas prácticas** o **Se Puede Aprender Inglés Sin Tiempo** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
 
-Sin embargo, el secreto para aprender un idioma en 2026 no es tener bloques inmensos de tiempo libre, sino **aprovechar mejor los minutos que ya tienes**. El concepto clave es el **micro-learning**: lecciones cortas, potentes y constantes.
+Sin embargo, el secreto para aprender un idioma en 2026 no es tener bloques inmensos de tiempo libre, sino **aprovechar mejor los minutos que ya tienes**. El concepto clave es el **micro-learning**: lecciones cortas, potentes y constantes. Si ya trabajas a jornada completa y necesitas la semana organizada, el horario de 3, 5 o 7 días está en [cómo aprender inglés si trabajas todo el día](/blog/metodos/aprender-ingles-si-trabajo-todo-el-dia).
 
 ---
 

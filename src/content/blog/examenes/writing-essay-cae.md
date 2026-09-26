@@ -36,7 +36,7 @@ alt: 'Esquema de essay CAE con introducción, argumentos y conclusión'
 
 El **essay del CAE** es el único texto obligatorio del Writing. Siempre es un texto argumentativo sobre un tema de interés general —tecnología, medio ambiente, educación, sociedad— y siempre tienes que elegir dos de los tres puntos que propone el enunciado y discutirlos con criterio.
 
-No es el texto más creativo del examen ni el que permite más libertad. Pero tiene algo valioso: su estructura es predecible. Si la interiorizas bien, puedes dedicar más energía al vocabulario y a los argumentos, que es donde realmente ganas puntos.
+No es el texto más creativo del examen ni el que permite más libertad. Pero tiene algo valioso: su estructura es predecible. Si la interiorizas bien, puedes dedicar más energía al vocabulario y a los argumentos, que es donde realmente ganas puntos. Un corrector automático no aplica esta rúbrica: el límite está explicado en [IA para corregir writing en inglés](/blog/examenes/ia-corregir-writing-ingles).
 
 ---
 

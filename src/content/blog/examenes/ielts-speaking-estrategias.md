@@ -38,7 +38,7 @@ El IELTS Speaking dura entre 11 y 14 minutos y tiene lugar en una sala con un ex
 
 Dicho esto, el Speaking es también la parte del IELTS que tiene la estructura más predecible de todas. Saber exactamente qué viene en cada fase te permite prepararte de forma muy específica y llegar con mucha menos ansiedad de lo que parece.
 
-Antes de entrar en los detalles del Speaking, si quieres ver cómo encaja con el resto del examen, échale un vistazo a la [guía completa del IELTS](/blog/temas/preparar-ielts).
+Antes de entrar en los detalles del Speaking, si quieres ver cómo encaja con el resto del examen, échale un vistazo a la [guía completa del IELTS](/blog/temas/preparar-ielts). Si ensayas solo con un chat, los límites y cincuenta preguntas de práctica están en [IA para practicar IELTS Speaking](/blog/examenes/ia-para-practicar-ielts-speaking).
 
 ---
 

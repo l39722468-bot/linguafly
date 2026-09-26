@@ -43,7 +43,7 @@ En el ámbito de la salud, la comunicación no es solo una habilidad complementa
 
 Quien busca **Inglés para el Sector Salud: Guía Profesional** o **Inglés para Sanitarios** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
 
-Esta guía ha sido diseñada para proporcionarte una base sólida en el lenguaje de la salud, desde el trato directo con el paciente hasta la redacción de informes técnicos de alta complejidad.
+Esta guía ha sido diseñada para proporcionarte una base sólida en el lenguaje de la salud, desde el trato directo con el paciente hasta la redacción de informes técnicos de alta complejidad. Si lo que buscas es qué certificado te pueden pedir según el país, léelo con fecha y reservas en [certificado de inglés para trabajar en sanidad](/blog/trabajo/certificado-ingles-sanidad).
 
 Visita nuestro **[hub de inglés profesional](/blog/trabajo)** para ver más especialidades o consulta nuestro **[hub de vocabulario](/blog/metodos)** para términos generales.
 
