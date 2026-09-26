@@ -3,6 +3,7 @@ import { SITE_BRAND_NAME } from "@/lib/site-brand";
 import { normalizeCategory } from "@/lib/blog-paths";
 import { isPublicPublishedArticle, type BlogPost } from "@/lib/blog";
 import type { ArticleFaq, ArticleInput, ArticleRecord } from "@/lib/db/client";
+import { applySerpOverride } from "@/lib/seo/serp-overrides";
 
 function parseJsonArray<T>(value: unknown): T[] {
   if (Array.isArray(value)) return value as T[];
@@ -34,7 +35,7 @@ export function articleRecordToBlogPost(
   const published =
     row.is_published === 1 || row.is_published === true || row.is_published == null;
 
-  return {
+  return applySerpOverride({
     slug: row.slug,
     title: row.title,
     date: toIsoDate(row.created_at) || new Date().toISOString(),
@@ -54,7 +55,7 @@ export function articleRecordToBlogPost(
     published,
     canonical: row.canonical || undefined,
     content: row.content || "",
-  };
+  });
 }
 
 export function blogPostToArticleInput(article: BlogPost): ArticleInput {

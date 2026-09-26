@@ -11,15 +11,14 @@ describe('blog-article-return', () => {
     expect(isValidArticleReturnPath('/mi-panel')).toBe(false);
   });
 
-  it('appends fromArticle query param to unit urls', () => {
+  it('points unit urls at the indexable lesson without fromArticle', () => {
     const url = appendArticleReturnParam(
       '/curso-a2/unit-26',
       '/blog/gramatica/ejercicios-condicionales-ingles-b1-b2',
     );
 
-    expect(url).toBe(
-      '/curso-a2/unit-26?fromArticle=%2Fblog%2Fgramatica%2Fejercicios-condicionales-ingles-b1-b2',
-    );
+    expect(url).toBe('/blog/curso-a2/unidad-26-first-conditional');
+    expect(url).not.toContain('fromArticle');
   });
 
   it('reads article return path from search params', () => {

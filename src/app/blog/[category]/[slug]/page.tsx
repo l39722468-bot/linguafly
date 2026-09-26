@@ -37,6 +37,9 @@ import {
 import { CourseTopicCanonicalBanner } from "@/components/blog/CourseTopicCanonicalBanner";
 import { RelatedSearches } from "@/components/blog/RelatedSearches";
 import { AmazonBookOffer } from "@/components/affiliates/AmazonBookOffer";
+import { CourseLessonNav } from "@/components/blog/CourseLessonNav";
+import { breadcrumbSectionName } from "@/lib/seo/breadcrumb-labels";
+import { getCourseLessonLinks } from "@/lib/seo/course-lesson-nav";
 import { affiliateBookForSlug } from "@/lib/affiliates/for-article";
 import { splitMarkdownForMidArticleAd } from "@/lib/content/publisher-home";
 import ReactMarkdown from 'react-markdown';
@@ -168,10 +171,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   });
 
   // Generate Breadcrumb Schema
+  const sectionName = breadcrumbSectionName(normalizedCategory);
+  const lessonLinks = getCourseLessonLinks(normalizedCategory, slug);
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getSiteUrl() },
-    { name: "Blog", url: getAbsoluteUrl('/blog') },
-    { name: categoryLabel, url: getAbsoluteUrl(`/blog/${normalizedCategory}`) },
+    { name: sectionName, url: getAbsoluteUrl(`/blog/${normalizedCategory}`) },
     { name: article.title, url: getAbsoluteUrl(`/blog/${normalizedCategory}/${slug}`) },
   ]);
 
@@ -182,7 +186,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
   // Enhanced markdown components for SEO and styling
   const MarkdownComponents = {
-    h1: ({ node, ...props }: any) => <h1 className="font-display text-4xl font-black text-slate-900 mt-8 mb-6" {...props} />,
+    h1: ({ node, ...props }: any) => <h2 className="font-display text-4xl font-black text-slate-900 mt-8 mb-6" {...props} />,
     h2: ({ node, ...props }: any) => {
       // Safely extract text from children
       const getText = (children: any): string => {
@@ -343,12 +347,10 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
         <main className="min-h-screen bg-slate-50 pt-32 pb-20 print:min-h-0 print:bg-white print:pt-0 print:pb-0">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 print:max-w-none print:px-0">
             {/* Breadcrumbs */}
-            <nav className="flex mb-8 text-sm font-medium text-slate-500 overflow-x-auto whitespace-nowrap pb-2 print-hidden">
+            <nav aria-label="breadcrumb" className="flex mb-8 text-sm font-medium text-slate-500 overflow-x-auto whitespace-nowrap pb-2 print-hidden">
               <Link href="/" className="hover:text-coral-600 transition-colors">Inicio</Link>
               <span className="mx-2 text-slate-300">/</span>
-              <Link href="/blog" className="hover:text-coral-600 transition-colors">Blog</Link>
-              <span className="mx-2 text-slate-300">/</span>
-              <Link href={`/blog/${normalizedCategory}`} className="hover:text-coral-600 transition-colors capitalize">{categoryLabel}</Link>
+              <Link href={`/blog/${normalizedCategory}`} className="hover:text-coral-600 transition-colors">{sectionName}</Link>
               <span className="mx-2 text-slate-300">/</span>
               <span className="text-slate-900 truncate">{article.title}</span>
             </nav>
@@ -403,6 +405,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                      <h1 className="font-display text-4xl lg:text-5xl font-black text-slate-900 mb-8 leading-[1.1]">
                        {article.title}
                      </h1>
+
+                     <CourseLessonNav
+                       links={lessonLinks}
+                       sourcePath={`/blog/${normalizedCategory}/${slug}`}
+                     />
 
                      {topicGuide ? (
                        <CourseTopicCanonicalBanner

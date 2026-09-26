@@ -167,6 +167,10 @@ export const trackSignupIntent = (source: string) => {
   gaEvent('signup_intent', {
     signup_source: source,
   });
+  gaEvent('signup_started', {
+    signup_source: source,
+    source_page: source,
+  });
 };
 
 /** Registro completado (equivalente al evento estándar GA4 `sign_up`). */
@@ -174,6 +178,11 @@ export const trackSignUp = (method: string, level?: string, planId?: string) => 
   gaEvent('sign_up', {
     method,
     user_level: level,
+    plan_id: planId,
+  });
+  gaEvent('signup_completed', {
+    method,
+    course_level: level,
     plan_id: planId,
   });
 };
@@ -252,6 +261,42 @@ export const trackUnitCompletion = (unitId: string, totalExercises: number, dura
     unit_id: unitId,
     total_exercises: totalExercises,
     duration_minutes: durationMinutes,
+  });
+};
+
+export const trackLessonViewed = (slug: string, category: string) => {
+  const level = category.match(/^curso-(a1|a2|b1|b2|c1|c2)$/)?.[1]?.toUpperCase();
+  gaEvent('lesson_viewed', {
+    lesson_id: slug,
+    content_type: slug.endsWith('-ejercicios-soluciones') ? 'exercises' : 'lesson',
+    course_level: level,
+    course_id: level ? `curso-${level.toLowerCase()}` : category,
+  });
+};
+
+export const trackExerciseStarted = (slug: string, category: string) => {
+  const level = category.match(/^curso-(a1|a2|b1|b2|c1|c2)$/)?.[1]?.toUpperCase();
+  gaEvent('exercise_started', {
+    exercise_id: slug,
+    lesson_id: slug.replace(/-ejercicios-soluciones$/, ''),
+    content_type: 'exercises',
+    course_level: level,
+  });
+};
+
+export const trackNextLessonClicked = (sourcePage: string, destination: string) => {
+  gaEvent('next_lesson_clicked', { source_page: sourcePage, lesson_id: destination });
+};
+
+export const trackPreviousLessonClicked = (sourcePage: string, destination: string) => {
+  gaEvent('previous_lesson_clicked', { source_page: sourcePage, lesson_id: destination });
+};
+
+export const trackRelatedArticleClicked = (sourcePage: string, destination: string, contentType: string) => {
+  gaEvent('related_article_clicked', {
+    source_page: sourcePage,
+    lesson_id: destination,
+    content_type: contentType,
   });
 };
 

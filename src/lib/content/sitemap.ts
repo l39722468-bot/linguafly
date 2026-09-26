@@ -17,6 +17,7 @@ import {
   getArticleOgImageUrl,
   getCategoryOgImageUrl,
 } from "@/lib/seo/og-images";
+import { isIndexableSitemapLoc } from "@/lib/seo/index-redirect";
 import { isSitemapSatelliteArticle } from "@/lib/seo/unit-topic-canonical";
 
 const SITE_LAUNCH_DATE = new Date("2026-09-08");
@@ -57,6 +58,7 @@ function escapeXml(value: string): string {
 
 export function serializeSitemapXml(entries: MetadataRoute.Sitemap): string {
   const urls = entries
+    .filter((entry) => isIndexableSitemapLoc(entry.url))
     .map((entry) => {
       const lastmod = entry.lastModified
         ? `<lastmod>${new Date(entry.lastModified).toISOString()}</lastmod>`
@@ -193,7 +195,9 @@ export async function buildMagazineSitemap(
       );
     }
 
-    return Array.from(new Map(urls.map((entry) => [entry.url, entry])).values());
+    return Array.from(new Map(urls.map((entry) => [entry.url, entry])).values()).filter(
+      (entry) => isIndexableSitemapLoc(entry.url),
+    );
   } catch (error) {
     console.error("[sitemap] D1 unavailable, returning static URLs:", error);
     return shard === 0 ? staticUrls(SITE_LAUNCH_DATE, includeLegal) : [];

@@ -30,6 +30,12 @@ export const ROBOTS_DISALLOW = [
   "/*?*q=",
   "/*?*c=",
   "/*?*m=",
+  "/*?*fromArticle=",
+  "/*?*utm_source=",
+  "/*?*utm_medium=",
+  "/*?*utm_campaign=",
+  "/*?*gclid=",
+  "/*?*fbclid=",
 ] as const;
 
 export default function robots(): MetadataRoute.Robots {

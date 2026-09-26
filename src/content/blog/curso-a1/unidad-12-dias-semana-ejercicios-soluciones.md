@@ -1,11 +1,12 @@
 ---
 category: curso-a1
 date: '2026-08-18'
-updatedDate: '2026-09-04'
+updatedDate: '2026-09-26'
 author: linguafly-team
-title: 'Ejercicios de los Días de la Semana en Inglés A1'
+title: 'Ejercicios de días de la semana en inglés con soluciones'
 description: >-
-  Practica todos los ejercicios de la Unidad 12 del curso A1: on + día, weekend/weekdays, What do you do on…?, reading de Paul, listening de Anna y Ben, y...
+  Practica los días de la semana en inglés con ejercicios A1 autocorregibles,
+  respuestas explicadas y un repaso de pronunciación y de la preposición on.
 readTime: 25 min
 keywords:
   - Ejercicios de los Días de la Semana en Inglés A1

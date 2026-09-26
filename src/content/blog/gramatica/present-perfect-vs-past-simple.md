@@ -1,8 +1,8 @@
 ---
-title: 'Present Perfect vs Past Simple: Diferencias y Uso'
+title: 'Present perfect vs past simple: tabla y ejercicios'
 description: >-
-  Aprende cuándo usar Present Perfect y Past Simple con marcadores temporales,
-  diferencias, ejemplos y correcciones de errores frecuentes.
+  Cuándo usar present perfect o past simple: tabla de marcadores, ejemplos
+  comparados, errores de hispanohablantes y ejercicios para fijar la diferencia.
 readTime: 4 min
 excerpt: >-
   Present Perfect o Past Simple: compara diferencias, marcadores temporales y ejemplos prácticos para dejar de confundirlos en inglés.
@@ -18,7 +18,7 @@ keywords:
   - marcadores de tiempo present perfect y past simple
   - guía gratuita present perfect para hispanohablantes
 date: '2026-03-02'
-updatedDate: '2026-09-04'
+updatedDate: '2026-09-26'
 category: gramatica
 author: linguafly-team
 faqs:

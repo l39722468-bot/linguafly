@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { appendArticleReturnParam } from './blog-article-return';
+import { toIndexableUnitUrl } from './blog-article-return';
 import { getBlogArticles, normalizeCategory, type BlogPost } from './blog';
 import generatedRelations from '@/generated/blog-course-relations.json';
 
@@ -1968,10 +1968,7 @@ export function buildBlogCourseRelations(articles?: BlogPost[]): BlogCourseRelat
           courseLabel: getCourseLabel(unit.courseId),
           unitNumber: unit.unitNumber,
           unitTitle: getUnitTitle(unit.courseId, unit.unitNumber),
-          unitUrl: appendArticleReturnParam(
-            getCourseUnitUrl(unit.courseId, unit.unitNumber),
-            articleUrl,
-          ),
+          unitUrl: toIndexableUnitUrl(getCourseUnitUrl(unit.courseId, unit.unitNumber)),
         };
         const key = relationKey(relation);
         if (!seen.has(key)) {
@@ -2007,7 +2004,10 @@ export function getAllBlogCourseRelations(): BlogCourseRelation[] {
   // Cloudflare Workers: sin fs → JSON de scripts/export-blog-data.ts
   const generated = generatedRelations as BlogCourseRelation[];
   if (Array.isArray(generated) && generated.length > 0) {
-    relationsCache = generated;
+    relationsCache = generated.map((relation) => ({
+      ...relation,
+      unitUrl: toIndexableUnitUrl(relation.unitUrl),
+    }));
     return relationsCache;
   }
 

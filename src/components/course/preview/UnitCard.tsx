@@ -1,7 +1,5 @@
 'use client';
 
-import { Suspense } from 'react';
-import { useSearchParams } from 'next/navigation';
 import { motion } from 'framer-motion';
 import { Clock, Zap, ArrowRight, Lock } from 'lucide-react';
 import Link from 'next/link';
@@ -11,7 +9,7 @@ import { bilingualTitleEnglishPrimary, bilingualTitleForSearch } from '@/lib/uti
 import { TranslatedText } from '@/components/course/exercises/TranslatedText';
 import { isFreeUnitId } from '@/lib/access/unit-access';
 import { isFreeAccessMode } from '@/lib/product-config';
-import { appendArticleReturnParam, getArticleReturnPath } from '@/lib/blog-article-return';
+import { toIndexableUnitUrl } from '@/lib/blog-article-return';
 
 interface UnitCardProps {
   unit: UnitMetadata;
@@ -109,23 +107,10 @@ function getUnitEmoji(unit: UnitMetadata): string {
 }
 
 export function UnitCard({ unit, coursePath = '/curso-a1', hasFullAccess = false }: UnitCardProps) {
-  return (
-    <Suspense fallback={null}>
-      <UnitCardInner unit={unit} coursePath={coursePath} hasFullAccess={hasFullAccess} />
-    </Suspense>
-  );
-}
-
-function UnitCardInner({ unit, coursePath = '/curso-a1', hasFullAccess = false }: UnitCardProps) {
-  const searchParams = useSearchParams();
-  const articleReturnPath = getArticleReturnPath(searchParams);
   const theme = getTheme(unit.unitNumber);
   const emoji = getUnitEmoji(unit);
   const isLocked = !isFreeAccessMode() && !hasFullAccess && !isFreeUnitId(unit.unitId) && unit.unitNumber !== 1;
-  const baseHref = `${coursePath}/${unit.unitId}`;
-  const unitHref = articleReturnPath
-    ? appendArticleReturnParam(baseHref, articleReturnPath)
-    : baseHref;
+  const unitHref = toIndexableUnitUrl(`${coursePath}/${unit.unitId}`);
   const ctaHref = isLocked
     ? `/planes?reason=premium_required&next=${encodeURIComponent(unitHref)}`
     : unitHref;

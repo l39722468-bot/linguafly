@@ -1,8 +1,8 @@
 import { NextResponse, type NextRequest } from "next/server";
 import { isLegacyCourseRedirectRoute } from "@/lib/routes/course-access";
 import { getProductRouteRedirect } from "@/lib/product-config";
-import { getParkedPageRedirect } from "@/lib/site-catalog";
 import { canonicalLinkHeaderValue, getCanonicalUrl } from "@/lib/seo/canonical";
+import { resolveIndexRedirect } from "@/lib/seo/index-redirect";
 import { linkHeaderCanonicalPath } from "@/lib/seo/unit-topic-canonical";
 
 function normalizeBlogCategorySlug(category: string): string {
@@ -23,22 +23,17 @@ function requestHostname(request: NextRequest): string {
   return raw.split(",")[0].trim().split(":")[0].toLowerCase();
 }
 
-function isWwwHost(hostname: string): boolean {
-  return hostname === "www.linguafly.app" || hostname.startsWith("www.");
-}
-
-function indexedDestination(
-  pathname: string,
-  searchParams: URLSearchParams,
-): string {
-  const parked = getParkedPageRedirect(pathname, searchParams);
-  if (parked) return getCanonicalUrl(parked);
-  return getCanonicalUrl(pathname, searchParams);
-}
-
-function redirectToCanonical(destUrl: string): NextResponse {
+function redirectToCanonical(destUrl: string, fromArticle?: string | null): NextResponse {
   const response = NextResponse.redirect(destUrl, 301);
   response.headers.append("Link", `<${destUrl}>; rel="canonical"`);
+  if (fromArticle) {
+    response.cookies.set("lf_from_article", fromArticle, {
+      path: "/",
+      maxAge: 60 * 30,
+      sameSite: "lax",
+      secure: destUrl.startsWith("https://"),
+    });
+  }
   return response;
 }
 
@@ -61,11 +56,14 @@ export async function middleware(request: NextRequest) {
   }
 
   if (!isStaticAsset && !isApi) {
-    const destUrl = indexedDestination(pathname, request.nextUrl.searchParams);
-    const currentIndexed = getCanonicalUrl(pathname, request.nextUrl.searchParams);
-    const www = isWwwHost(requestHostname(request));
-    if (www || destUrl !== currentIndexed) {
-      return redirectToCanonical(destUrl);
+    const indexRedirect = resolveIndexRedirect({
+      pathname,
+      searchParams: request.nextUrl.searchParams,
+      hostname: requestHostname(request),
+      forwardedProto: request.headers.get("x-forwarded-proto"),
+    });
+    if (indexRedirect) {
+      return redirectToCanonical(indexRedirect.destination, indexRedirect.fromArticle);
     }
   }
 

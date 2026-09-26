@@ -1,7 +1,13 @@
 'use client';
 
 import { useEffect, useRef } from 'react';
-import { trackArticleView, trackScrollMilestone, trackTimeOnPage } from '@/lib/analytics';
+import {
+  trackArticleView,
+  trackExerciseStarted,
+  trackLessonViewed,
+  trackScrollMilestone,
+  trackTimeOnPage,
+} from '@/lib/analytics';
 
 interface BlogAnalyticsProps {
   slug: string;
@@ -24,6 +30,12 @@ export function BlogAnalytics({ slug, category, readingTimeMin }: BlogAnalyticsP
   // Dispara article_view al cargar
   useEffect(() => {
     trackArticleView(slug, category, readingTimeMin);
+    if (category.startsWith('curso-')) {
+      trackLessonViewed(slug, category);
+      if (slug.endsWith('-ejercicios-soluciones')) {
+        trackExerciseStarted(slug, category);
+      }
+    }
   }, [slug, category, readingTimeMin]);
 
   // Scroll milestones

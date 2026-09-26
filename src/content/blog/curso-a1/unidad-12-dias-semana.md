@@ -1,13 +1,12 @@
 ---
 category: curso-a1
 date: '2026-08-03'
-updatedDate: '2026-08-03'
+updatedDate: '2026-09-26'
 author: linguafly-team
-title: 'Días de la Semana en Inglés (A1): on Monday, Weekend y Hábitos'
+title: 'Días de la semana en inglés: pronunciación y ejercicios'
 description: >-
-  Aprende los días de la semana en inglés A1, la preposición on con días,
-  weekend, weekdays y What do you do on…?. Guía Unidad 12 con ejemplos, audios y
-  ejercicios.
+  Aprende los días de la semana en inglés con pronunciación, la preposición on,
+  ejemplos de rutinas y ejercicios con soluciones para nivel A1.
 readTime: 15 min
 keywords:
   - días de la semana en inglés A1 para principiantes

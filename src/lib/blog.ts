@@ -3,6 +3,7 @@ import path from "path";
 import matter from "gray-matter";
 import { Author, getAuthor } from "./authors";
 import { SITE_BRAND_NAME } from "./site-brand";
+import { applySerpOverride } from "./seo/serp-overrides";
 import {
   isEnglishLearningCategory,
   isMagazineArticleCategory,
@@ -115,7 +116,7 @@ function readArticlesFromMarkdown(): BlogPost[] {
             return null;
           }
 
-          return {
+          return applySerpOverride({
             slug,
             title: data.title || "Untitled",
             date: data.date || new Date().toISOString(),
@@ -140,7 +141,7 @@ function readArticlesFromMarkdown(): BlogPost[] {
             pdfDownloadLabel: data.pdfDownloadLabel,
             updatedDate: data.updatedDate || data.updated_date || undefined,
             content,
-          } as BlogPost;
+          } as BlogPost);
         } catch (fileErr) {
           // Un frontmatter YAML roto no debe tumbar TODO el blog (Workers export → 404 masivos).
           console.error(

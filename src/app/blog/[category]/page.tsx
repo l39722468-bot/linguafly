@@ -14,6 +14,7 @@ import { generateBreadcrumbSchema, generateCollectionPageSchema } from "@/lib/sc
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import { llmMarkdownUrl, languageAlternates } from "@/lib/seo/canonical";
+import { breadcrumbSectionName } from "@/lib/seo/breadcrumb-labels";
 import { getPublicCategoryLabel, isPublicArticleCategory } from "@/lib/site-catalog";
 import { getArticleOgImagePath, getCategoryOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
 
@@ -240,10 +241,10 @@ export default async function CategoryPage({
   };
 
   const canonicalPath = `/blog/${category}`;
+  const sectionName = breadcrumbSectionName(category);
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: "Inicio", url: getSiteUrl() },
-    { name: "Blog", url: getAbsoluteUrl("/blog") },
-    { name: meta.name, url: getAbsoluteUrl(`/blog/${category}`) },
+    { name: sectionName, url: getAbsoluteUrl(`/blog/${category}`) },
   ]);
   const collectionSchema = generateCollectionPageSchema({
     name: meta.name,
@@ -277,9 +278,7 @@ export default async function CategoryPage({
               <ol className="flex items-center gap-2 text-sm text-white/70">
                 <li><Link href="/" className="hover:text-white transition-colors">Inicio</Link></li>
                 <li>›</li>
-                <li><Link href="/blog" className="hover:text-white transition-colors">Blog</Link></li>
-                <li>›</li>
-                <li className="font-semibold text-white">{meta.name}</li>
+                <li className="font-semibold text-white">{sectionName}</li>
               </ol>
             </nav>
             
