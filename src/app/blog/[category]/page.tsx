@@ -16,6 +16,7 @@ import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import { llmMarkdownUrl, languageAlternates } from "@/lib/seo/canonical";
 import { breadcrumbSectionName } from "@/lib/seo/breadcrumb-labels";
 import { getPublicCategoryLabel, isPublicArticleCategory } from "@/lib/site-catalog";
+import { articleImageIsGenerated } from "@/lib/seo/article-cover";
 import { getArticleOgImagePath, getCategoryOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
 
 export const dynamic = "force-dynamic";
@@ -339,7 +340,9 @@ export default async function CategoryPage({
               </div>
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-                {articles.map((article) => (
+                {articles.map((article) => {
+                  const image = getArticleOgImagePath(article);
+                  return (
                   <Link 
                     key={article.slug}
                     href={`/blog/${article.category}/${article.slug}`}
@@ -347,10 +350,11 @@ export default async function CategoryPage({
                   >
                     <div className="relative h-48 w-full overflow-hidden">
                       <Image
-                        src={getArticleOgImagePath(article)}
+                        src={image}
                         alt={article.alt || article.title}
                         fill
                         quality={75}
+                        unoptimized={articleImageIsGenerated(image)}
                         sizes="(max-width: 768px) 100vw, 33vw"
                         className="object-cover group-hover:scale-105 transition-transform duration-500"
                       />
@@ -373,7 +377,8 @@ export default async function CategoryPage({
                       </div>
                     </div>
                   </Link>
-                ))}
+                  );
+                })}
               </div>
             )}
             

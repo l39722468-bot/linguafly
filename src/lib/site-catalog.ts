@@ -453,6 +453,7 @@ const EXACT_PUBLIC_PATHS = new Set([
 const PUBLIC_PREFIXES = [
   ...PUBLIC_ARTICLE_CATEGORIES.map((category) => `/blog/${category}`),
   "/blog/autor",
+  "/blog/portada",
   "/sitemaps",
   "/api/articles",
   "/api/indexnow",

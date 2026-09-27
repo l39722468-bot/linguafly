@@ -1,5 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
+import { articleImageIsGenerated } from "@/lib/seo/article-cover";
+import { getArticleOgImagePath } from "@/lib/seo/og-images";
 
 interface HomeBelowFoldProps {
   latestArticles: Array<{
@@ -83,13 +85,13 @@ export function HomeBelowFold({ latestArticles }: HomeBelowFoldProps) {
             </Link>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            {latestArticles.map((article) => (
+            {latestArticles.map((article) => {
+              const image = getArticleOgImagePath(article);
+              return (
               <Link key={article.slug} href={`/blog/${article.category}/${article.slug}`} className="bg-white rounded-3xl shadow-sm border border-slate-200 overflow-hidden hover:shadow-2xl hover:-translate-y-1 transition-all group flex flex-col h-full">
-                {article.image && (
-                  <div className="relative h-48 w-full overflow-hidden">
-                    <Image src={article.image} alt={article.title} fill sizes="(max-width: 768px) 100vw, 33vw" quality={75} className="object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
-                  </div>
-                )}
+                <div className="relative h-48 w-full overflow-hidden">
+                  <Image src={image} alt={article.title} fill sizes="(max-width: 768px) 100vw, 33vw" quality={75} unoptimized={articleImageIsGenerated(image)} className="object-cover group-hover:scale-105 transition-transform duration-500" loading="lazy" />
+                </div>
                 <div className="p-6 flex flex-col flex-1">
                   <div className="flex items-center gap-2 mb-3">
                     <span className="px-3 py-1 rounded-full bg-coral-100 text-coral-800 text-[10px] font-bold uppercase tracking-wider">{article.category}</span>
@@ -103,7 +105,8 @@ export function HomeBelowFold({ latestArticles }: HomeBelowFoldProps) {
                   </div>
                 </div>
               </Link>
-            ))}
+              );
+            })}
           </div>
           <div className="mt-12 text-center md:hidden">
             <Link href="/blog" className="inline-flex items-center gap-2 bg-white border-2 border-slate-200 px-8 py-4 rounded-xl font-bold text-slate-900 hover:border-coral-600 hover:text-coral-600 transition-all">

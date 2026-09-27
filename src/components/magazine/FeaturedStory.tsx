@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getArticlePath } from "@/lib/blog-paths";
 import { formatShortEsDate } from "@/lib/content/publisher-home";
 import { getPublicCategoryLabel } from "@/lib/site-catalog";
+import { articleImageIsGenerated } from "@/lib/seo/article-cover";
 import { getArticleOgImagePath } from "@/lib/seo/og-images";
 import type { BlogPost } from "@/lib/blog";
 
@@ -23,6 +24,7 @@ export function FeaturedStory({ article }: { article: BlogPost }) {
           fill
           priority
           quality={75}
+          unoptimized={articleImageIsGenerated(image)}
           sizes="(max-width: 1024px) 100vw, 66vw"
           className="object-cover transition-transform duration-700 group-hover:scale-105"
         />

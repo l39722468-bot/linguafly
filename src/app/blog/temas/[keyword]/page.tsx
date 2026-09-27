@@ -9,6 +9,7 @@ import remarkGfm from "remark-gfm";
 import { generateBreadcrumbSchema, generateCollectionPageSchema, generateFAQSchema } from "@/lib/schemas";
 import { JsonLd } from "@/components/seo/JsonLd";
 import { getAbsoluteUrl, getSiteUrl } from "@/lib/site-brand";
+import { articleImageIsGenerated } from "@/lib/seo/article-cover";
 import { DEFAULT_OG_IMAGE_PATH, getArticleOgImagePath, ogImageMeta } from "@/lib/seo/og-images";
 import { AptisBookOffer } from "@/components/affiliates/AptisBookOffer";
 import { shouldOfferAptisBook } from "@/lib/affiliates/aptis-book";
@@ -298,22 +299,23 @@ export default async function KeywordHubPage({ params }: { params: Promise<{ key
               <p className="text-slate-600">Guías detalladas, ejercicios resueltos y recursos prácticos para dominar este tema.</p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {articles.map((article) => (
+              {articles.map((article) => {
+                const image = getArticleOgImagePath(article);
+                return (
                 <Link
                   key={article.slug}
                   href={`/blog/${article.category}/${article.slug}`}
                   className="group bg-white rounded-3xl border border-slate-200 overflow-hidden hover:shadow-2xl hover:-translate-y-1 transition-all duration-300 flex flex-col h-full"
                 >
-                  {article.image && (
-                    <div className="relative h-48 w-full overflow-hidden">
-                      <Image
-                        src={article.image}
-                        alt={article.alt || article.title}
-                        fill
-                        className="object-cover group-hover:scale-105 transition-transform duration-500"
-                      />
-                    </div>
-                  )}
+                  <div className="relative h-48 w-full overflow-hidden">
+                    <Image
+                      src={image}
+                      alt={article.alt || article.title}
+                      fill
+                      unoptimized={articleImageIsGenerated(image)}
+                      className="object-cover group-hover:scale-105 transition-transform duration-500"
+                    />
+                  </div>
                   <div className="p-6 flex flex-col flex-1">
                     <div className="flex items-center gap-2 mb-4">
                       <span className="px-2 py-0.5 rounded-full bg-slate-100 text-slate-600 text-[10px] font-bold uppercase tracking-wider">
@@ -340,7 +342,8 @@ export default async function KeywordHubPage({ params }: { params: Promise<{ key
                     </div>
                   </div>
                 </Link>
-              ))}
+                );
+              })}
             </div>
           </div>
         </section>

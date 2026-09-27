@@ -1,3 +1,4 @@
+import { renderArticleCoverSvg } from "@/lib/seo/article-cover";
 import {
   CATEGORY_OG_IMAGE_PATHS,
   DEFAULT_OG_IMAGE_PATH,
@@ -47,6 +48,46 @@ describe("category OG images", () => {
     expect(getArticleOgImagePath({ category: "viajes" })).toBe("/blog/og-viajes.jpg");
   });
 
+  it("gives each article without its own file a different cover", () => {
+    const days = getArticleOgImagePath({
+      slug: "unidad-12-dias-semana",
+      category: "curso-a1",
+    });
+    const grammar = getArticleOgImagePath({
+      slug: "pasiva-pasado-ingles",
+      category: "gramatica",
+    });
+    expect(days).toBe("/blog/portada/unidad-12-dias-semana");
+    expect(grammar).toBe("/blog/portada/pasiva-pasado-ingles");
+    expect(days).not.toBe(grammar);
+    expect(days).not.toBe(getCategoryOgImagePath("curso-a1"));
+    expect(
+      getArticleOgImagePath({
+        slug: "pasiva-pasado-ingles",
+        image: "/blog/og-gramatica.jpg",
+        category: "gramatica",
+      }),
+    ).toBe("/blog/portada/pasiva-pasado-ingles");
+  });
+
+  it("keeps a shared diagram on one article and gives the other its own cover", () => {
+    const shared = "/blog/curso-a1/unit-12/a1-unit12-days.png";
+    expect(
+      getArticleOgImagePath({
+        slug: "unidad-12-dias-semana",
+        image: shared,
+        category: "curso-a1",
+      }),
+    ).toBe(shared);
+    expect(
+      getArticleOgImagePath({
+        slug: "unidad-12-dias-semana-ejercicios-soluciones",
+        image: shared,
+        category: "curso-a1",
+      }),
+    ).toBe("/blog/portada/unidad-12-dias-semana-ejercicios-soluciones");
+  });
+
   it("returns apex absolute URLs", () => {
     expect(getCategoryOgImageUrl("trabajo")).toBe(
       "https://linguafly.app/blog/og-trabajo.jpg",
@@ -63,6 +104,22 @@ describe("category OG images", () => {
     const paths = Object.values(CATEGORY_OG_IMAGE_PATHS);
     expect(new Set(paths).size).toBe(paths.length);
     expect(paths).not.toContain(DEFAULT_OG_IMAGE_PATH);
+  });
+
+  it("draws a different cover for each slug and escapes the title", () => {
+    const days = renderArticleCoverSvg({
+      slug: "unidad-12-dias-semana",
+      title: "Días <de> la semana",
+      category: "curso-a1",
+    });
+    const grammar = renderArticleCoverSvg({
+      slug: "pasiva-pasado-ingles",
+      title: "Voz pasiva en pasado",
+      category: "gramatica",
+    });
+    expect(days).not.toBe(grammar);
+    expect(days).toContain("Días &lt;de&gt; la semana");
+    expect(days).toContain("CURSO A1");
   });
 
   it("builds Open Graph image metadata", () => {

@@ -2,6 +2,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { getPublicCategoryLabel } from "@/lib/site-catalog";
 import { getArticlePath } from "@/lib/blog-paths";
+import { articleImageIsGenerated } from "@/lib/seo/article-cover";
 import { getArticleOgImagePath } from "@/lib/seo/og-images";
 import type { BlogPost } from "@/lib/blog";
 
@@ -20,6 +21,7 @@ export function MagazineArticleCard({ article }: { article: BlogPost }) {
           alt={article.alt || article.title}
           fill
           quality={75}
+          unoptimized={articleImageIsGenerated(image)}
           sizes="(max-width: 768px) 100vw, 33vw"
           className="object-cover transition-transform duration-500 group-hover:scale-105"
         />

@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getArticlePath } from "@/lib/blog-paths";
 import { formatShortEsDate } from "@/lib/content/publisher-home";
 import { getPublicCategoryLabel } from "@/lib/site-catalog";
+import { articleImageIsGenerated } from "@/lib/seo/article-cover";
 import { getArticleOgImagePath } from "@/lib/seo/og-images";
 import type { BlogPost } from "@/lib/blog";
 
@@ -22,6 +23,7 @@ export function CompactHeadline({ article }: { article: BlogPost }) {
           alt={article.alt || article.title}
           fill
           quality={75}
+          unoptimized={articleImageIsGenerated(image)}
           sizes="96px"
           className="object-cover transition-transform duration-300 group-hover:scale-105"
         />

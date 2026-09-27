@@ -4,6 +4,8 @@ import type { BlogPost } from "@/lib/blog";
 import { getCanonicalTopicPath } from "@/lib/blog-paths";
 import { getArticleHubLink } from "@/lib/seo/article-hub-link";
 import { Layers, ArrowRight, Bookmark, LayoutGrid } from "lucide-react";
+import { articleImageIsGenerated } from "@/lib/seo/article-cover";
+import { getArticleOgImagePath } from "@/lib/seo/og-images";
 
 interface TopicClusterLinksProps {
   articles: BlogPost[];
@@ -48,20 +50,22 @@ export function TopicClusterLinks({ articles, mainKeyword, category }: TopicClus
       </div>
 
       <div className={`grid grid-cols-1 gap-8 ${articles.length === 1 ? 'md:grid-cols-1 max-w-sm' : articles.length === 2 ? 'md:grid-cols-2' : 'md:grid-cols-3'}`}>
-        {articles.map((article) => (
+        {articles.map((article) => {
+          const image = getArticleOgImagePath(article);
+          return (
           <Link 
             key={article.slug}
             href={`/blog/${article.category}/${article.slug}`}
             className="group flex flex-col bg-white rounded-3xl border border-slate-100 overflow-hidden hover:shadow-2xl hover:-translate-y-2 transition-all duration-500"
           >
-            {article.image && (
-              <div className="relative h-40 w-full overflow-hidden">
-                <Image
-                  src={article.image}
-                  alt={article.alt || article.title}
-                  fill
-                  className="object-cover group-hover:scale-110 transition-transform duration-700"
-                />
+            <div className="relative h-40 w-full overflow-hidden">
+              <Image
+                src={image}
+                alt={article.alt || article.title}
+                fill
+                unoptimized={articleImageIsGenerated(image)}
+                className="object-cover group-hover:scale-110 transition-transform duration-700"
+              />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/40 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500" />
                 <div className="absolute top-4 left-4">
                   <span className="px-3 py-1 bg-white/90 backdrop-blur-sm rounded-lg text-[10px] font-black uppercase tracking-widest text-slate-900">
@@ -69,7 +73,6 @@ export function TopicClusterLinks({ articles, mainKeyword, category }: TopicClus
                   </span>
                 </div>
               </div>
-            )}
             <div className="p-6 flex-1 flex flex-col">
               <h3 className="font-display font-bold text-slate-900 text-lg group-hover:text-coral-600 transition-colors line-clamp-2 mb-4 leading-snug">
                 {article.title}
@@ -85,7 +88,8 @@ export function TopicClusterLinks({ articles, mainKeyword, category }: TopicClus
               </div>
             </div>
           </Link>
-        ))}
+          );
+        })}
       </div>
       
       {showKeywordCta && moreHref && (

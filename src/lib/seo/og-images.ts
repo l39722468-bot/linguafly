@@ -1,5 +1,6 @@
 import { getAbsoluteUrl } from "@/lib/site-brand";
 import { normalizeCategory } from "@/lib/blog-paths";
+import { articleCoverPath, exclusiveArticleImage } from "@/lib/seo/article-cover";
 
 export const OG_IMAGE_WIDTH = 1200;
 export const OG_IMAGE_HEIGHT = 630;
@@ -30,12 +31,21 @@ export function getCategoryOgImagePath(category?: string | null): string {
   return CATEGORY_OG_IMAGE_PATHS[normalizeCategory(category)] || DEFAULT_OG_IMAGE_PATH;
 }
 
+function isSharedCategoryStill(path: string): boolean {
+  return (
+    path === DEFAULT_OG_IMAGE_PATH ||
+    Object.values(CATEGORY_OG_IMAGE_PATHS).includes(path)
+  );
+}
+
 export function getArticleOgImagePath(article: {
   image?: string | null;
   category?: string | null;
+  slug?: string | null;
 }): string {
-  const custom = article.image?.trim();
-  if (custom) return custom;
+  const custom = exclusiveArticleImage(article.image, article.slug);
+  if (custom && !isSharedCategoryStill(custom)) return custom;
+  if (article.slug) return articleCoverPath(article.slug);
   return getCategoryOgImagePath(article.category);
 }
 
@@ -46,6 +56,7 @@ export function toAbsoluteOgImageUrl(path: string): string {
 export function getArticleOgImageUrl(article: {
   image?: string | null;
   category?: string | null;
+  slug?: string | null;
 }): string {
   return toAbsoluteOgImageUrl(getArticleOgImagePath(article));
 }

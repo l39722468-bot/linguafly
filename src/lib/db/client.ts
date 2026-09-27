@@ -12,6 +12,7 @@
  */
 
 import { articleContentHash } from "@/lib/db/article-hash";
+import { getArticleOgImagePath } from "@/lib/seo/og-images";
 
 export interface CloudflareEnv {
   DB: D1Database;
@@ -249,7 +250,11 @@ function toSearchHit(row: ArticleRecord): ArticleSearchHit {
     date: row.created_at || "",
     readTime: row.read_time || "5 min",
     category: row.category,
-    image: row.image || undefined,
+    image: getArticleOgImagePath({
+      image: row.image,
+      category: row.category,
+      slug: row.slug,
+    }),
     alt: row.alt || undefined,
   };
 }

@@ -48,6 +48,8 @@ describe("site catalog", () => {
   it("republishes English-learning article URLs and parks the rest of the old site", () => {
     expect(getParkedPageRedirect("/blog/viajes/ingles-para-viajar")).toBeNull();
     expect(getParkedPageRedirect("/blog/gramatica")).toBeNull();
+    expect(getParkedPageRedirect("/blog/portada/pasiva-pasado-ingles")).toBeNull();
+    expect(isPublicSitePath("/blog/portada/pasiva-pasado-ingles")).toBe(true);
     expect(getParkedPageRedirect("/blog/curso-a1/unidad-20-repaso-modulo-2")).toBeNull();
     expect(getParkedPageRedirect("/blog/temas")).toBe("/blog");
     expect(getParkedPageRedirect("/blog/temas/present-perfect")).toBe("/blog");

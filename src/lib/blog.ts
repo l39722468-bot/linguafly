@@ -4,6 +4,7 @@ import matter from "gray-matter";
 import { Author, getAuthor } from "./authors";
 import { SITE_BRAND_NAME } from "./site-brand";
 import { applySerpOverride } from "./seo/serp-overrides";
+import { getArticleOgImagePath } from "./seo/og-images";
 import {
   isEnglishLearningCategory,
   isMagazineArticleCategory,
@@ -388,7 +389,7 @@ function toSearchHit(article: BlogPost): BlogSearchHit {
     date: article.date,
     readTime: article.readTime,
     category: article.category,
-    image: undefined,
+    image: getArticleOgImagePath(article),
     alt: article.alt,
   };
 }
