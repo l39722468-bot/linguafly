@@ -63,6 +63,16 @@ Esta guía cubre los **siete días**, la preposición ***on***, ***weekend*** y 
 > **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 12 A1](/blog/curso-a1/unidad-12-dias-semana-ejercicios-soluciones)  
 > **Repaso previo:** [Unidad 11 — Lugares en la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad)
 
+**Pronunciación, en una línea:** *Monday, Tuesday, Wednesday* (se oye “Wenz-day”), *Thursday, Friday, Saturday, Sunday*. Van con mayúscula y con *on*: *on Monday*.
+
+### Tres frases
+
+1. The day after Monday is ___.
+2. I don't work ___ Sunday.
+3. Saturday and Sunday are the ___.
+
+Soluciones: *Tuesday*; *on*; *weekend*. La tabla con audio y el resto de ejercicios están más abajo.
+
 ---
 
 ## Qué aprenderás en la Unidad 12 (A1)

@@ -34,21 +34,11 @@ faqs:
     answer: 'Los precios son similares: IELTS y TOEFL cuestan entre 235€ y 250€, igual que el FCE o el CAE. La ventaja de Cambridge es que su certificado no caduca nunca, mientras que el IELTS y el TOEFL caducan a los 2 años. A largo plazo, Cambridge resulta la inversión más rentable.'
 ---
 
-## Precios Exámenes Cambridge 2026: Guía Completa de Tasas e Inversión
+## Tasas por nivel en 2026
 
-Si has decidido certificar tu nivel de inglés, una de las primeras y más importantes preguntas que te harás es: **¿cuánto cuesta el examen de Cambridge?**. Obtener una certificación oficial no es solo un reto académico, sino también una inversión económica significativa que requiere planificación.
+Cifras orientativas revisadas el 26 de septiembre de 2026. No son una tarifa oficial única: cada centro examinador publica la suya, y cambian si el examen es en papel o en ordenador. Confirma el importe en el centro antes de matricularte.
 
-Si llegas con la consulta **Precios Exámenes Cambridge: FCE, CAE**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
-
-Las **tasas Cambridge 2026** no son fijas a nivel global; varían según el nivel del examen, el centro examinador elegido y la modalidad (papel u ordenador). En esta guía, desglosamos todos los costes directos e indirectos para que no te lleves sorpresas al matricularte.
-
-Si quieres conocer más sobre la preparación, visita nuestra guía de **[preparación B1 Cambridge](/blog/examenes/preparacion-examen-b1-cambridge)**.
-
-## 1. Desglose de Precios Estimados por Niveles (2026)
-
-Los precios que mostramos a continuación son una media de los centros examinadores más importantes. Recuerda que cada centro puede aplicar ligeras variaciones.
-
-| Examen | Nivel MCER | Precio Medio 2026 |
+| Examen | Nivel MCER | Precio medio 2026 |
 | :--- | :--- | :--- |
 | **A2 Key (KET)** | A2 | 115€ - 125€ |
 | **B1 Preliminary (PET)** | B1 | 130€ - 150€ |
@@ -56,8 +46,13 @@ Los precios que mostramos a continuación son una media de los centros examinado
 | **C1 Advanced (CAE)** | C1 | 235€ - 255€ |
 | **C2 Proficiency (CPE)** | C2 | 255€ - 280€ |
 
+Esos rangos son una media de centros. El B2 First suele quedar cerca de **225€**, con los derechos de examen y el certificado físico. Los gastos que se suman después (matrícula fuera de plazo, revisión, duplicado) están en el apartado siguiente.
+
+Si vas a presentarte al B2, la preparación está en [estrategias para aprobar el B2 First](/blog/examenes/cambridge-b2-first-estrategias-aprobar). Para el B1, [preparación B1 Cambridge](/blog/examenes/preparacion-examen-b1-cambridge).
+
 ### ¿Cuánto cuesta el examen First (FCE) en 2026?
-El **precio del examen First** es el más demandado. En 2026, la tasa estándar en la mayoría de centros es de **225€**. Este precio suele incluir los derechos de examen y la emisión del certificado físico. Si vas a presentarte al FCE, consulta antes nuestra [guía de estrategias para aprobar el B2 First](/blog/examenes/cambridge-b2-first-estrategias-aprobar) y no dejes la preparación al azar.
+
+El **precio del examen First** es el más consultado. En 2026, la tasa que más se repite en los centros está cerca de **225€**, dentro del rango 215€-235€ de la tabla. Incluye, en la mayoría de los casos, los derechos de examen y el certificado físico. El centro puede alejarse de esa cifra: la tabla es una media, no un precio cerrado.
 
 ## 2. Gastos Extra: Lo que nadie te cuenta
 

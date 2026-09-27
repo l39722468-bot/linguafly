@@ -1,11 +1,12 @@
 ---
 category: curso-b1
 date: '2026-08-31'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-27'
 author: linguafly-team
-title: "Reported Speech B1: statements (said/told) + Communication"
+title: 'Reported speech B1: afirmaciones, said y told'
 description: >-
-  Aprende reported speech de afirmaciones en inglés B1 (said/told + backshift) con vocabulario de comunicación. Guía Unidad 18 con audios.
+  Afirmaciones en reported speech B1: diferencia said y told, aplica el
+  backshift y practica con ejercicios que traen la solución.
 readTime: 18 min
 keywords:
   - reported speech B1
@@ -62,6 +63,14 @@ Esta unidad se centra en el reported speech de **afirmaciones** (statements), co
 > **Practica en el curso:** [Unidad 18 — Reported Speech](/curso-b1/unit-18)  
 > **Cuaderno de ejercicios (con soluciones):** [Ejercicios Unidad 18](/blog/curso-b1/unidad-18-reported-speech-statements-ejercicios-soluciones)  
 > **Antes:** [U17 — Modal passive](/blog/curso-b1/unidad-17-modal-passive-work)
+
+*Say* no lleva persona: *She said (that) she was tired.* *Tell* sí: *She told me (that) she was tired.* Con *said* o *told* en pasado, el verbo de la cita suele retroceder: *"I am busy"* → *She said she was busy.*
+
+### Una frase
+
+*"We will call you."* → They said…
+
+Solución: *They said (that) they would call me.* La tabla de tiempos y el resto de ejercicios están debajo. Las preguntas y las órdenes son otra guía: [reported speech de preguntas y órdenes](/blog/gramatica/reported-speech-questions-commands).
 
 ---
 

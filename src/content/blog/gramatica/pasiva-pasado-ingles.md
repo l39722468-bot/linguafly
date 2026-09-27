@@ -46,9 +46,21 @@ faqs:
 canonical: 'https://linguafly.app/blog/gramatica/pasiva-pasado-ingles'
 ---
 
-Cuando lees que *"The treaty was signed in 1945"* o que *"The suspects were arrested last night"*, estás viendo la voz pasiva en pasado en su hábitat natural. Esta estructura es imprescindible para hablar de historia, narrar hechos y escribir informes, y la buena noticia es que funciona con una lógica muy clara.
+La voz pasiva en pasado simple es **was/were + participio**. *Was* va con un sujeto singular y *were* con un plural.
 
-Quien busca **voz pasiva pasado ingles** o **cómo formar la voz pasiva en pasado inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+- *They signed the contract yesterday.* → *The contract **was signed** yesterday.*
+- *Someone stole my wallet.* → *My wallet **was stolen**.*
+
+Si esa acción ya había ocurrido antes de otro momento del pasado, la forma es **had been + participio**: *The contract had been signed before the meeting.*
+
+### Dos para resolver
+
+1. They built the bridge in 1990. → The bridge…
+2. The police were questioning the witnesses. → The witnesses…
+
+Soluciones: *The bridge was built in 1990.* *The witnesses were being questioned.*
+
+*"The treaty was signed in 1945"* y *"The suspects were arrested last night"* usan esa misma fórmula. Abajo están el past continuous, el past perfect y una serie de cuatro transformaciones.
 
 ## Past Simple Pasiva: la base
 

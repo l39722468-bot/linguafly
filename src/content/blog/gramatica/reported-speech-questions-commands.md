@@ -35,13 +35,22 @@ excerpt: >
   Cómo reportar preguntas, órdenes y peticiones en inglés: uso de if/whether, verbos de mandato y las transformaciones más frecuentes en exámenes oficiales.
 ---
 
-## Reported Speech: Preguntas, Órdenes y Peticiones
+## Preguntas y órdenes: las dos fórmulas
 
-Reportar afirmaciones en inglés ya es desafiante, pero reportar **preguntas, órdenes y peticiones** requiere cambios estructurales adicionales que suelen confundir a los estudiantes.
+Una pregunta en reported speech deja de ser pregunta: vuelve el orden sujeto + verbo y desaparece *do/does/did*. Una orden usa *to* + infinitivo.
 
-Si llegas con la consulta **cómo reportar preguntas en estilo indirecto inglés**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+- Yes/no: *"Do you like coffee?"* → *He asked **if** I liked coffee.*
+- Wh-: *"Where do you live?"* → *She asked **where** I lived.*
+- Orden: *"Sit down!"* → *The teacher **told** the students **to sit down**.*
 
-En este artículo, desglosaremos paso a paso cómo transformar oraciones interrogativas e imperativas al estilo indirecto. Para el sistema completo del reported speech, la guía [Reported Speech en Inglés](/blog/temas/reported-speech) te da el contexto general antes de entrar en estos casos específicos.
+### Compruébalo
+
+1. *"Did you send the email?"* Anna asked me…
+2. *"Don't open the window."* He told me…
+
+Soluciones: *Anna asked me if I had sent the email.* *He told me not to open the window.*
+
+El uso de *if* y *whether*, las preguntas con *wh-* y las peticiones están justo debajo. El mapa general es [Reported Speech en Inglés](/blog/temas/reported-speech).
 
 ## 1. Reported Questions (Preguntas Indirectas)
 

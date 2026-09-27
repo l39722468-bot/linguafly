@@ -58,6 +58,24 @@ export const SERP_OVERRIDES: Record<string, SerpCopy> = {
       "Aprende el past perfect para ordenar dos momentos del pasado, cuándo no hace falta y en qué se diferencia del past simple, con ejemplos y ejercicios.",
     updatedDate: "2026-09-26",
   },
+  "listening-cae-consejos": {
+    title: "Listening CAE: estrategias, errores y práctica para C1 Advanced",
+    description:
+      "Prepara el listening del C1 Advanced: las cuatro partes del CAE, los errores que cuestan respuestas y cómo practicar cada una.",
+    updatedDate: "2026-09-27",
+  },
+  "unidad-18-reported-speech-statements": {
+    title: "Reported speech B1: afirmaciones, said y told",
+    description:
+      "Afirmaciones en reported speech B1: diferencia said y told, aplica el backshift y practica con ejercicios que traen la solución.",
+    updatedDate: "2026-09-27",
+  },
+  "unidad-24-preposiciones-lugar-next-to-between": {
+    title: "Preposiciones de lugar A1: next to, between y ejercicios",
+    description:
+      "Next to, between, in front of y opposite: preposiciones de lugar en inglés A1, con ejemplos, audio y ejercicios con soluciones.",
+    updatedDate: "2026-09-27",
+  },
 };
 
 type SerpArticle = {

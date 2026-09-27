@@ -38,15 +38,21 @@ faqs:
 canonical: 'https://linguafly.app/blog/gramatica/wont-ingles-usos'
 ---
 
-*Won't* es una de las palabras más cortas del inglés y una de las más útiles. Es la contracción de *will not*, y aparece constantemente: en rechazos, en predicciones negativas, en promesas de no hacer algo, y hasta para describir objetos que no funcionan.
+**Won't** es *will not*. Se pronuncia /woʊnt/, como *don't*, no como *want*.
 
-Entender *won't* es entender la cara negativa de todos los usos de *will*. Si dominas *will*, ya tienes el 90% de *won't*.
+- Negativa de futuro: *It won't rain tomorrow.*
+- Rechazo o decisión: *I won't sign it.*
+- Algo que no funciona: *The car won't start.*
 
-Para ver el panorama completo de *will* y sus usos positivos, consulta [Will para el Futuro en Inglés](/blog/gramatica/will-futuro-ingles).
+### Tres huecos
 
----
+1. I ______ tell anyone your secret.
+2. The door ______ open.
+3. Escribe la forma completa de *She won't accept the offer.*
 
-Si llegas con la consulta **Qué significa won''t en inglés: usos y ejemplos**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+Soluciones: *won't*; *won't*; *She will not accept the offer.*
+
+La contracción irregular, el contraste con *will not* y más ejercicios están debajo. El mapa de *will* en positivo es [Will para el Futuro en Inglés](/blog/gramatica/will-futuro-ingles).
 
 ## Won't = will not: la contracción
 

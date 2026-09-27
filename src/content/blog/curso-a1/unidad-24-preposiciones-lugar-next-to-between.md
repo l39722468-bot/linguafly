@@ -1,12 +1,12 @@
 ---
 category: curso-a1
 date: '2026-08-03'
-updatedDate: '2026-08-03'
+updatedDate: '2026-09-27'
 author: linguafly-team
-title: 'Preposiciones de Lugar A1: Next To, Between y Más'
+title: 'Preposiciones de lugar A1: next to, between y ejercicios'
 description: >-
-  Aprende preposiciones de lugar A1 como next to, between, in front of y
-  opposite con ejemplos claros, audio y ejercicios prácticos.
+  Next to, between, in front of y opposite: preposiciones de lugar en inglés
+  A1, con ejemplos, audio y ejercicios con soluciones.
 readTime: 15 min
 keywords:
   - preposiciones de lugar A1
@@ -57,7 +57,22 @@ En la [Unidad 23](/blog/curso-a1/unidad-23-there-is-there-are) aprendiste a deci
 Esta guía conecta con [lugares de la ciudad](/blog/curso-a1/unidad-11-lugares-ciudad) y con *There is/are*. Incluye **audios**, **esquemas** y **ejercicios**.
 
 > **Practica en el curso:** [Unidad 24 — Prepositions of Place](/curso-a1/unit-24)  
+> **Cuaderno con soluciones:** [Ejercicios de preposiciones de lugar A1](/blog/curso-a1/unidad-24-preposiciones-lugar-next-to-between-ejercicios-soluciones)  
 > **Repaso útil:** [Unidad 23 — There is / There are](/blog/curso-a1/unidad-23-there-is-there-are) · [Unidad 11 — Lugares](/blog/curso-a1/unidad-11-lugares-ciudad)
+
+| Preposición | Significa | Ejemplo |
+| --- | --- | --- |
+| next to | al lado de | The shop is next to the bank. |
+| between | entre dos | The pharmacy is between the bank and the park. |
+| in front of | delante de | The car is in front of the house. |
+| opposite | enfrente | The cinema is opposite the park. |
+
+### Elige una
+
+1. The cafe is ___ the bank and the school. (between / next to)
+2. The bus stop is ___ the museum. Están cara a cara, con la calle en medio. (in front of / opposite)
+
+Soluciones: *between*; *opposite*. Audio, más ejemplos y el resto de ejercicios siguen en la unidad.
 
 ---
 
