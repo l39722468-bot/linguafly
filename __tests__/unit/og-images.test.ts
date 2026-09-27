@@ -11,6 +11,11 @@ import {
 import { serializeSitemapXml } from "@/lib/content/sitemap";
 import { generateCollectionPageSchema } from "@/lib/schemas";
 
+function textBaseline(svg: string, includes: string): number {
+  const block = svg.split("<text ").find((part) => part.includes(includes));
+  return Number(block?.match(/y="(\d+)"/)?.[1]);
+}
+
 describe("category OG images", () => {
   const previousSiteUrl = process.env.NEXT_PUBLIC_SITE_URL;
 
@@ -120,6 +125,30 @@ describe("category OG images", () => {
     expect(days).not.toBe(grammar);
     expect(days).toContain("Días &lt;de&gt; la semana");
     expect(days).toContain("CURSO A1");
+    const labelY = textBaseline(days, "CURSO A1");
+    const titleY = textBaseline(days, "Días");
+    expect(titleY - labelY).toBeGreaterThanOrEqual(48);
+    const panel = days.match(/<rect x="48" y="(\d+)" width="1104" height="(\d+)"/);
+    const panelBottom = Number(panel?.[1]) + Number(panel?.[2]);
+    const titleBaselines = [...days.matchAll(/font-size="40"[^>]*>([^<]*)</g)].map((match) =>
+      textBaseline(days, match[1]),
+    );
+    expect(Math.max(...titleBaselines)).toBeLessThan(panelBottom - 16);
+
+    const crowded = renderArticleCoverSvg({
+      slug: "unidad-24-preposiciones-lugar-next-to-between",
+      title: "Preposiciones de lugar A1: next to, between, opposite y ejercicios",
+      category: "curso-a1",
+    });
+    const crowdedLabel = textBaseline(crowded, "CURSO A1");
+    const crowdedTitles = [...crowded.matchAll(/font-size="40"[^>]*>([^<]*)</g)].map((match) =>
+      textBaseline(crowded, match[1]),
+    );
+    expect(crowdedTitles.length).toBe(3);
+    expect(Math.min(...crowdedTitles) - crowdedLabel).toBeGreaterThanOrEqual(48);
+    const crowdedPanel = crowded.match(/<rect x="48" y="(\d+)" width="1104" height="(\d+)"/);
+    const crowdedBottom = Number(crowdedPanel?.[1]) + Number(crowdedPanel?.[2]);
+    expect(Math.max(...crowdedTitles)).toBeLessThan(crowdedBottom - 16);
   });
 
   it("builds Open Graph image metadata", () => {

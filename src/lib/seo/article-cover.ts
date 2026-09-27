@@ -81,6 +81,15 @@ const CATEGORY_LABELS: Record<string, string> = {
   "curso-c1": "Curso C1",
 };
 
+/** Room for the category kicker above a title of up to three lines. */
+const PANEL_Y = 332;
+const PANEL_HEIGHT = 262;
+const LABEL_SIZE = 20;
+const LABEL_BASELINE = 384;
+const TITLE_SIZE = 40;
+const TITLE_LINE = 52;
+const TITLE_BASELINE = 456;
+
 export function renderArticleCoverSvg(input: {
   slug: string;
   title?: string | null;
@@ -101,7 +110,7 @@ export function renderArticleCoverSvg(input: {
   const titleSvg = lines
     .map(
       (line, index) =>
-        `<text x="72" y="${430 + index * 58}" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="46" font-weight="700">${escapeXml(line)}</text>`,
+        `<text x="72" y="${TITLE_BASELINE + index * TITLE_LINE}" fill="#ffffff" font-family="Georgia, 'Times New Roman', serif" font-size="${TITLE_SIZE}" font-weight="700">${escapeXml(line)}</text>`,
     )
     .join("");
 
@@ -115,8 +124,8 @@ export function renderArticleCoverSvg(input: {
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
   ${circles.join("")}
-  <rect x="48" y="360" width="1104" height="222" rx="28" fill="rgba(15,23,42,0.55)"/>
-  <text x="72" y="408" fill="rgba(255,255,255,0.82)" font-family="ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="700" letter-spacing="1.5">${escapeXml(label.toUpperCase())}</text>
+  <rect x="48" y="${PANEL_Y}" width="1104" height="${PANEL_HEIGHT}" rx="28" fill="rgba(15,23,42,0.55)"/>
+  <text x="72" y="${LABEL_BASELINE}" fill="rgba(255,255,255,0.82)" font-family="ui-sans-serif, system-ui, sans-serif" font-size="${LABEL_SIZE}" font-weight="700" letter-spacing="1.5">${escapeXml(label.toUpperCase())}</text>
   ${titleSvg}
 </svg>`;
 }
