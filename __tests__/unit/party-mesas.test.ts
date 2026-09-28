@@ -10,9 +10,9 @@ import {
   submitAnswer,
   toPublic,
 } from "@/lib/party/engine";
-import { answerParty, enterParty, readParty } from "@/lib/party/service";
+import { answerParty, enterParty, readParty, startParty, switchToSolo } from "@/lib/party/service";
 import { clearPartyMemory, memoryPartyStore } from "@/lib/party/store";
-import { EXERCISES_PER_PLAYER, MAX_SEATS, REVEAL_MS, TURN_MS } from "@/lib/party/types";
+import { EXERCISES_PER_PLAYER, MAX_SEATS, PARTY_TABLE_SIZE, REVEAL_MS, SOLO_OFFER_MS, TOGETHER_START_MS, TURN_MS } from "@/lib/party/types";
 import type { TableState } from "@/lib/party/types";
 import { getParkedPageRedirect, isPublicSitePath } from "@/lib/site-catalog";
 
@@ -210,6 +210,154 @@ describe("mesas de inglés", () => {
     expect(cleaned.order).toHaveLength(EXERCISES_PER_PLAYER);
     expect(cleaned.phase).toBe("turn");
     expect(cleaned.exercises).toHaveLength(EXERCISES_PER_PLAYER);
+  });
+
+  it("seats people of the same level together and starts after the second arrives", async () => {
+    const store = memoryPartyStore();
+    const ana = await enterParty(store, {
+      playerId: "player-ana1",
+      name: "Ana",
+      level: "B1",
+      mode: "together",
+      now: NOW,
+    });
+    expect(ana.phase).toBe("lobby");
+    expect(ana.mode).toBe("together");
+    expect(ana.startsAt).toBeNull();
+    expect(ana.seats.map((seat) => seat.name)).toEqual(["Ana"]);
+    await expect(startParty(store, ana.id, "player-ana1", NOW + 1_000)).rejects.toThrow(
+      "Hace falta otra persona para empezar.",
+    );
+
+    const luis = await enterParty(store, {
+      playerId: "player-luis1",
+      name: "Luis",
+      level: "B1",
+      mode: "together",
+      now: NOW + 2_000,
+    });
+    expect(luis.id).toBe(ana.id);
+    expect(luis.seats.map((seat) => seat.name)).toEqual(["Ana", "Luis"]);
+    expect(luis.startsAt).toBe(NOW + 2_000 + TOGETHER_START_MS);
+    expect(luis.activityCount).toBe(2 * EXERCISES_PER_PLAYER);
+
+    const marta = await enterParty(store, {
+      playerId: "player-marta",
+      name: "Marta",
+      level: "B1",
+      mode: "together",
+      now: NOW + 4_000,
+    });
+    expect(marta.id).toBe(ana.id);
+    expect(marta.startsAt).toBe(NOW + 2_000 + TOGETHER_START_MS);
+    expect(marta.seats).toHaveLength(3);
+
+    const midway = NOW + 10_000;
+    await readParty(store, ana.id, "player-ana1", midway);
+    await readParty(store, ana.id, "player-luis1", midway);
+    await readParty(store, ana.id, "player-marta", midway);
+    const justBefore = NOW + 2_000 + TOGETHER_START_MS - 1;
+    await readParty(store, ana.id, "player-luis1", justBefore);
+    await readParty(store, ana.id, "player-marta", justBefore);
+    const stillWaiting = await readParty(store, ana.id, "player-ana1", justBefore);
+    expect(stillWaiting.phase).toBe("lobby");
+    const started = await readParty(store, ana.id, "player-ana1", NOW + 2_000 + TOGETHER_START_MS);
+    expect(started.phase).toBe("turn");
+    expect(started.activityCount).toBe(3 * EXERCISES_PER_PLAYER);
+    expect(started.seats.map((seat) => seat.name)).toEqual(["Ana", "Luis", "Marta"]);
+
+    const otherLevel = await enterParty(store, {
+      playerId: "player-iker",
+      name: "Iker",
+      level: "C1",
+      mode: "together",
+      now: NOW,
+    });
+    expect(otherLevel.id).not.toBe(ana.id);
+    expect(otherLevel.phase).toBe("lobby");
+  });
+
+  it("keeps a shared table between two and four people and offers solo when nobody else comes", async () => {
+    const store = memoryPartyStore();
+    const ids = ["player-p1", "player-p2", "player-p3", "player-p4"];
+    const names = ["Ana", "Luis", "Marta", "Iker"];
+    let tableId = "";
+    for (let index = 0; index < ids.length; index += 1) {
+      const seated = await enterParty(store, {
+        playerId: ids[index],
+        name: names[index],
+        level: "A2",
+        mode: "together",
+        now: NOW + index,
+      });
+      tableId = seated.id;
+      expect(seated.seats).toHaveLength(index + 1);
+    }
+    const full = await store.get(tableId);
+    expect(full?.seats).toHaveLength(PARTY_TABLE_SIZE);
+
+    const overflow = await enterParty(store, {
+      playerId: "player-p5",
+      name: "Nora",
+      level: "A2",
+      mode: "together",
+      now: NOW + 10,
+    });
+    expect(overflow.id).not.toBe(tableId);
+    expect(overflow.seats.map((seat) => seat.name)).toEqual(["Nora"]);
+
+    const alone = await enterParty(store, {
+      playerId: "player-solo1",
+      name: "Alba",
+      level: "C1",
+      mode: "together",
+      now: NOW,
+    });
+    const stillAlone = await readParty(store, alone.id, "player-solo1", NOW + SOLO_OFFER_MS);
+    expect(stillAlone.phase).toBe("lobby");
+    expect(stillAlone.seats).toHaveLength(1);
+    const solo = await switchToSolo(store, alone.id, "player-solo1", NOW + SOLO_OFFER_MS);
+    expect(solo.phase).toBe("turn");
+    expect(solo.mode).toBe("solo");
+    expect(solo.activityCount).toBe(EXERCISES_PER_PLAYER);
+    expect(solo.seats.map((seat) => seat.name)).toEqual(["Alba"]);
+    expect(await store.get(alone.id)).toBeNull();
+  });
+
+  it("passes the turn of someone who leaves during the match", () => {
+    let state = startMatch(tableWith(["Ana", "Luis"]), "player-1", NOW, () => 0.2);
+    state = leaveTable(state, "player-2", NOW + 50) ?? state;
+    expect(state.order).toHaveLength(2 * EXERCISES_PER_PLAYER);
+    state = submitAnswer(state, {
+      playerId: "player-1",
+      optionIndex: state.exercises[0].correctIndex,
+      now: NOW + 1_000,
+    });
+    state = advance(state, state.revealEndsAt ?? NOW);
+    expect(state.phase).toBe("reveal");
+    expect(state.lastResult?.playerId).toBe("player-2");
+    expect(state.lastResult?.timedOut).toBe(true);
+    expect(state.order).toHaveLength(2 * EXERCISES_PER_PLAYER);
+  });
+
+  it("returns a shared match to the lobby with the people still there", () => {
+    let state = createTable({
+      id: "mesa-share",
+      code: "SHAR",
+      level: "A1",
+      mode: "together",
+      playerId: "player-1",
+      name: "Ana",
+      now: NOW,
+    });
+    state = joinTable(state, { playerId: "player-2", name: "Luis", now: NOW, limit: PARTY_TABLE_SIZE });
+    state = startMatch(state, "player-1", NOW, () => 0.2);
+    state = playOut(state);
+    const again = rematch(state, "player-1", NOW + 10_000);
+    expect(again.phase).toBe("lobby");
+    expect(again.mode).toBe("together");
+    expect(again.seats.map((seat) => seat.name)).toEqual(["Ana", "Luis"]);
+    expect(again.autoStartAt).toBe(NOW + 10_000 + TOGETHER_START_MS);
   });
 
   it("starts again for the same player only", () => {

@@ -2,12 +2,13 @@ import { dealExercises } from "@/lib/party/exercises";
 import {
   LOBBY_SEAT_MS,
   LOBBY_STALE_MS,
-  LOBBY_WAIT_MS,
   EXERCISES_PER_PLAYER,
   MAX_SEATS,
   REVEAL_MS,
+  TOGETHER_START_MS,
   TURN_MS,
   type PartyLevel,
+  type PartyMode,
   type PublicTable,
   type Seat,
   type TableState,
@@ -58,6 +59,7 @@ export function createTable(input: {
   id: string;
   code: string;
   level: PartyLevel;
+  mode?: PartyMode;
   playerId: string;
   name: string;
   now: number;
@@ -67,6 +69,8 @@ export function createTable(input: {
     id: input.id,
     code: input.code,
     level: input.level,
+    mode: input.mode ?? "solo",
+    createdAt: input.now,
     hostId: input.playerId,
     phase: "lobby",
     seats: [seat],
@@ -76,10 +80,29 @@ export function createTable(input: {
     turnEndsAt: null,
     revealEndsAt: null,
     lastResult: null,
-    autoStartAt: input.now + LOBBY_WAIT_MS,
+    autoStartAt: null,
     version: 1,
     updatedAt: input.now,
   };
+}
+
+export function normalizeTable(state: TableState): TableState {
+  const mode = state.mode === "together" || state.mode === "solo" ? state.mode : state.phase === "lobby" ? "together" : "solo";
+  const createdAt = typeof state.createdAt === "number" ? state.createdAt : state.updatedAt;
+  if (state.mode === mode && state.createdAt === createdAt) return state;
+  return { ...state, mode, createdAt };
+}
+
+export function armTogetherStart(state: TableState, now: number): TableState {
+  const ready = normalizeTable(state);
+  if (ready.phase !== "lobby" || ready.mode !== "together") return ready === state ? state : ready;
+  const people = ready.seats.filter((seat) => !seat.bot).length;
+  if (people >= 2) {
+    if (ready.autoStartAt != null) return ready === state ? state : ready;
+    return commit(ready, { autoStartAt: now + TOGETHER_START_MS }, now);
+  }
+  if (ready.autoStartAt == null) return ready === state ? state : ready;
+  return commit(ready, { autoStartAt: null }, now);
 }
 
 export function pruneLobby(state: TableState, now: number, keepPlayerId?: string): TableState | null {
@@ -88,31 +111,30 @@ export function pruneLobby(state: TableState, now: number, keepPlayerId?: string
     (seat) => !seat.bot && (seat.playerId === keepPlayerId || now - seat.lastSeen <= LOBBY_SEAT_MS),
   );
   if (humans.length === 0) return null;
-  if (sameSeatIds(humans, state.seats)) return state;
-  return commit(state, { seats: humans, hostId: hostAmong(humans, state.hostId) }, now);
+  const next = sameSeatIds(humans, state.seats)
+    ? state
+    : commit(state, { seats: humans, hostId: hostAmong(humans, state.hostId) }, now);
+  return armTogetherStart(next, now);
 }
 
 export function joinTable(
   state: TableState,
-  input: { playerId: string; name: string; now: number },
+  input: { playerId: string; name: string; now: number; limit?: number },
 ): TableState {
   const existing = state.seats.find((seat) => seat.playerId === input.playerId);
   if (existing) {
-    return touchSeat(state, input.playerId, input.now, true);
+    return armTogetherStart(touchSeat(state, input.playerId, input.now, true), input.now);
   }
   if (state.phase !== "lobby") {
     throw new PartyError("Esta mesa ya está en partida.", 409);
   }
-  if (state.seats.length >= MAX_SEATS) {
+  const limit = input.limit ?? MAX_SEATS;
+  if (state.seats.length >= limit) {
     throw new PartyError("Esta mesa está llena.", 409);
   }
   const name = uniqueName(state.seats, input.name);
   const seat = makeSeat(input.playerId, name, state.seats.length, input.now);
-  return commit(
-    state,
-    { seats: [...state.seats, seat], autoStartAt: input.now + LOBBY_WAIT_MS },
-    input.now,
-  );
+  return armTogetherStart(commit(state, { seats: [...state.seats, seat] }, input.now), input.now);
 }
 
 export function leaveTable(
@@ -125,7 +147,7 @@ export function leaveTable(
   if (state.phase === "lobby") {
     const humans = state.seats.filter((item) => item.playerId !== playerId && !item.bot);
     if (humans.length === 0) return null;
-    return commit(state, { seats: humans, hostId: hostAmong(humans, state.hostId) }, now);
+    return armTogetherStart(commit(state, { seats: humans, hostId: hostAmong(humans, state.hostId) }, now), now);
   }
   let next = touchSeat(state, playerId, now, false);
   if (activePlayerId(next) === playerId && next.phase === "turn") {
@@ -135,10 +157,10 @@ export function leaveTable(
 }
 
 export function maybeAutoStart(state: TableState, now: number, random: () => number = Math.random): TableState {
-  const ready = withoutBots(state, now);
+  const ready = withoutBots(normalizeTable(state), now);
   if (ready.phase !== "lobby") return ready;
-  const due = ready.autoStartAt ?? now;
-  if (now < due) return ready;
+  if (ready.mode === "together" && ready.seats.filter((seat) => !seat.bot).length < 2) return ready;
+  if (ready.autoStartAt == null || now < ready.autoStartAt) return ready;
   if (!ready.seats.some((seat) => !seat.bot)) return ready;
   return beginMatch(ready, now, random);
 }
@@ -149,10 +171,13 @@ export function startMatch(
   now: number,
   random: () => number = Math.random,
 ): TableState {
-  const ready = withoutBots(state, now);
+  const ready = withoutBots(normalizeTable(state), now);
   if (ready.phase !== "lobby") throw new PartyError("La partida ya ha empezado.");
   const human = ready.seats.find((seat) => seat.playerId === playerId && !seat.bot);
   if (!human) throw new PartyError("Solo quien está sentado puede empezar.", 403);
+  if (ready.mode === "together" && ready.seats.filter((seat) => !seat.bot).length < 2) {
+    throw new PartyError("Hace falta otra persona para empezar.");
+  }
   return beginMatch(ready, now, random);
 }
 
@@ -210,14 +235,21 @@ export function rematch(
   random: () => number = Math.random,
 ): TableState {
   if (state.phase !== "ranking") throw new PartyError("La partida todavía no ha terminado.");
-  const human = state.seats.find((seat) => seat.playerId === playerId && !seat.bot);
+  const ready = normalizeTable(state);
+  const human = ready.seats.find((seat) => seat.playerId === playerId && !seat.bot);
   if (!human) throw new PartyError("Solo quien está sentado puede repetir.", 403);
+  const seats = (ready.mode === "together" ? ready.seats.filter((seat) => !seat.bot && seat.connected) : [human]).map(
+    (seat) => ({ ...seat, score: 0, hits: 0, connected: true, bot: false }),
+  );
+  if (!seats.some((seat) => seat.playerId === playerId)) {
+    seats.unshift({ ...human, score: 0, hits: 0, connected: true, bot: false });
+  }
   const reset = commit(
-    state,
+    ready,
     {
       phase: "lobby",
-      hostId: playerId,
-      seats: [{ ...human, score: 0, hits: 0, connected: true, bot: false }],
+      hostId: hostAmong(seats, ready.hostId),
+      seats,
       order: [],
       exercises: [],
       turnIndex: 0,
@@ -228,6 +260,7 @@ export function rematch(
     },
     now,
   );
+  if (reset.mode === "together") return armTogetherStart(reset, now);
   return beginMatch(reset, now, random);
 }
 
@@ -243,6 +276,11 @@ export function advance(state: TableState, now: number): TableState {
 
 function advanceOnce(state: TableState, now: number): TableState {
   if (state.phase === "turn" && state.turnEndsAt !== null) {
+    const playerId = activePlayerId(state);
+    const seat = state.seats.find((item) => item.playerId === playerId);
+    if (seat && !seat.connected) {
+      return resolveTurn(state, { correct: false, timedOut: true, chosenIndex: null }, now);
+    }
     if (now >= state.turnEndsAt) {
       return resolveTurn(state, { correct: false, timedOut: true, chosenIndex: null }, now);
     }
@@ -330,7 +368,7 @@ export function activityCount(state: TableState): number {
 }
 
 export function toPublic(state: TableState, playerId: string, now: number): PublicTable {
-  const live = state;
+  const live = normalizeTable(state);
   const showAnswer = live.phase === "reveal" || live.phase === "ranking";
   const exercise =
     live.phase === "lobby" ? null : live.exercises[Math.min(live.turnIndex, live.exercises.length - 1)] ?? null;
@@ -349,6 +387,8 @@ export function toPublic(state: TableState, playerId: string, now: number): Publ
     id: live.id,
     code: live.code,
     level: live.level,
+    mode: live.mode,
+    createdAt: live.createdAt,
     phase: live.phase,
     seats: live.seats.map((seat) => ({
       playerId: seat.playerId,

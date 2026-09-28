@@ -1,10 +1,14 @@
 import {
   advance,
+  armTogetherStart,
   cleanName,
   createTable,
+  isLobbyStale,
+  joinTable,
   leaveTable,
   makeCode,
   maybeAutoStart,
+  normalizeTable,
   pruneLobby,
   PartyError,
   rematch,
@@ -14,12 +18,20 @@ import {
   touchTable,
 } from "@/lib/party/engine";
 import type { PartyStore } from "@/lib/party/store";
-import { isPartyLevel, type PartyLevel, type PublicTable, type TableState } from "@/lib/party/types";
+import {
+  isPartyLevel,
+  PARTY_TABLE_SIZE,
+  type PartyLevel,
+  type PartyMode,
+  type PublicTable,
+  type TableState,
+} from "@/lib/party/types";
 
 export async function enterParty(store: PartyStore, input: {
   playerId: string;
   name: string;
   level?: string;
+  mode?: string;
   code?: string;
   now?: number;
 }): Promise<PublicTable> {
@@ -28,8 +40,56 @@ export async function enterParty(store: PartyStore, input: {
   if (!input.level || !isPartyLevel(input.level)) {
     throw new PartyError("Elige un nivel: A1, A2, B1, B2 o C1.");
   }
-  const created = await insertFresh(store, input.level, input.playerId, name, now);
+  const mode: PartyMode = input.mode === "together" ? "together" : "solo";
+  if (mode === "solo") {
+    const created = await insertFresh(store, input.level, input.playerId, name, now, "solo");
+    return toPublic(created, input.playerId, now);
+  }
+  const lobbies = await store.listLobbies(input.level);
+  const open = lobbies
+    .map((table) => normalizeTable(table))
+    .filter((table) => table.mode === "together" && !isLobbyStale(table, now) && humanCount(table) < PARTY_TABLE_SIZE)
+    .sort((a, b) => humanCount(b) - humanCount(a) || a.updatedAt - b.updatedAt);
+  for (const table of open) {
+    for (let attempt = 0; attempt < 3; attempt += 1) {
+      const fresh = await store.get(table.id);
+      if (!fresh || fresh.phase !== "lobby") break;
+      const opened = await withoutAbsentSeats(store, normalizeTable(fresh), now, input.playerId);
+      if (!opened || opened.phase !== "lobby" || opened.mode !== "together" || humanCount(opened) >= PARTY_TABLE_SIZE) {
+        break;
+      }
+      try {
+        const joined = joinTable(opened, {
+          playerId: input.playerId,
+          name,
+          now,
+          limit: PARTY_TABLE_SIZE,
+        });
+        const next = maybeAutoStart(joined, now);
+        if (await persist(store, opened, next)) return toPublic(next, input.playerId, now);
+      } catch (error) {
+        if (error instanceof PartyError && error.status === 409) break;
+        throw error;
+      }
+    }
+  }
+  const created = await insertFresh(store, input.level, input.playerId, name, now, "together");
   return toPublic(created, input.playerId, now);
+}
+
+export async function switchToSolo(
+  store: PartyStore,
+  tableId: string,
+  playerId: string,
+  now = Date.now(),
+): Promise<PublicTable> {
+  const table = normalizeTable(await requireTable(store, tableId));
+  const seat = table.seats.find((item) => item.playerId === playerId && !item.bot);
+  if (!seat) throw new PartyError("No estás sentado en esta mesa.", 403);
+  if (table.phase !== "lobby") throw new PartyError("La partida ya ha empezado.");
+  await leaveParty(store, tableId, playerId, now);
+  const created = await insertFresh(store, table.level, playerId, seat.name, now, "solo");
+  return toPublic(created, playerId, now);
 }
 
 export async function readParty(
@@ -142,22 +202,21 @@ async function insertFresh(
   playerId: string,
   name: string,
   now: number,
+  mode: PartyMode,
 ): Promise<TableState> {
   for (let attempt = 0; attempt < 6; attempt += 1) {
     const code = makeCode();
     if (await store.getByCode(code)) continue;
-    const table = startMatch(
-      createTable({
-        id: crypto.randomUUID(),
-        code,
-        level,
-        playerId,
-        name: cleanName(name),
-        now,
-      }),
+    const opened = createTable({
+      id: crypto.randomUUID(),
+      code,
+      level,
+      mode,
       playerId,
+      name: cleanName(name),
       now,
-    );
+    });
+    const table = mode === "solo" ? startMatch(opened, playerId, now) : armTogetherStart(opened, now);
     try {
       await store.insert(table);
       return table;
@@ -166,6 +225,10 @@ async function insertFresh(
     }
   }
   throw new PartyError("No se ha podido abrir la mesa.", 503);
+}
+
+function humanCount(state: TableState): number {
+  return state.seats.filter((seat) => !seat.bot).length;
 }
 
 async function requireTable(store: PartyStore, tableId: string): Promise<TableState> {

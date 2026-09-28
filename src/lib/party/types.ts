@@ -2,15 +2,23 @@ export const PARTY_LEVELS = ["A1", "A2", "B1", "B2", "C1"] as const;
 
 export type PartyLevel = (typeof PARTY_LEVELS)[number];
 
+export type PartyMode = "solo" | "together";
+
 export const MAX_SEATS = 8;
-/** Ejercicios que responde la persona que entra. */
+/** Personas que caben en una mesa compartida. */
+export const PARTY_TABLE_SIZE = 4;
+/** Ejercicios que responde cada persona. */
 export const EXERCISES_PER_PLAYER = 8;
 export const TURN_MS = 20_000;
 export const REVEAL_MS = 4_000;
 export const LOBBY_STALE_MS = 90_000;
 export const LOBBY_SEAT_MS = 12_000;
+/** Tras la segunda persona, la mesa compartida arranca sola si nadie pulsa Empezar. */
+export const TOGETHER_START_MS = 15_000;
+/** Si sigue una sola persona, se le ofrece pasar a partida individual. */
+export const SOLO_OFFER_MS = 45_000;
 /** Si la mesa sigue en espera, arranca sola al cumplirse este margen. */
-export const LOBBY_WAIT_MS = 3_000;
+export const LOBBY_WAIT_MS = TOGETHER_START_MS;
 
 export type PartyPhase = "lobby" | "turn" | "reveal" | "ranking";
 
@@ -47,6 +55,9 @@ export interface TableState {
   id: string;
   code: string;
   level: PartyLevel;
+  mode: PartyMode;
+  /** Momento en que se abrió la mesa, para ofrecer la partida individual. */
+  createdAt: number;
   hostId: string;
   phase: PartyPhase;
   seats: Seat[];
@@ -86,6 +97,8 @@ export interface PublicTable {
   id: string;
   code: string;
   level: PartyLevel;
+  mode: PartyMode;
+  createdAt: number;
   phase: PartyPhase;
   seats: PublicSeat[];
   activityCount: number;

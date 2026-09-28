@@ -6,7 +6,7 @@ import MesasClient from "./MesasClient";
 export const metadata: Metadata = {
   title: "Mesas de inglés: elige nivel y juega",
   description:
-    "Elige tu nivel, escribe tu nombre y juega tú solo ocho ejercicios. Al terminar puedes volver a la web o al inicio del juego.",
+    "Elige tu nivel y tu nombre. Juega con otras personas de ese nivel o haz tú solo ocho ejercicios. Si nadie llega, puedes pasar a una partida individual.",
   alternates: canonicalAlternates("/mesas"),
 };
 

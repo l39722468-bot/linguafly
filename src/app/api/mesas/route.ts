@@ -7,6 +7,7 @@ import {
   readParty,
   rematchParty,
   startParty,
+  switchToSolo,
 } from "@/lib/party/service";
 import { partyStoreFromEnv } from "@/lib/party/store";
 
@@ -37,9 +38,13 @@ export async function POST(request: NextRequest) {
         playerId,
         name: String(body.name ?? ""),
         level: body.level ? String(body.level) : undefined,
+        mode: body.mode ? String(body.mode) : undefined,
         code: body.code ? String(body.code) : undefined,
       });
       return NextResponse.json({ table });
+    }
+    if (action === "solo") {
+      return NextResponse.json({ table: await switchToSolo(store, tableId, playerId) });
     }
     if (action === "start") {
       return NextResponse.json({ table: await startParty(store, tableId, playerId) });

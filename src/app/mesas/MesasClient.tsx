@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { PartyLevel, PublicTable } from "@/lib/party/types";
-import { EXERCISES_PER_PLAYER, PARTY_LEVELS, TURN_MS } from "@/lib/party/types";
+import { EXERCISES_PER_PLAYER, PARTY_LEVELS, PARTY_TABLE_SIZE, SOLO_OFFER_MS, TURN_MS } from "@/lib/party/types";
 
 const LEVEL_COPY: Record<PartyLevel, { title: string; line: string }> = {
   A1: { title: "A1", line: "Saludos, to be, frases cortas" },
@@ -202,13 +202,24 @@ export default function MesasClient() {
             pending={pending || !playerId}
             onName={setName}
             onLevel={setLevel}
-            onEnter={() => {
+            onEnter={(mode) => {
               if (!level) return;
-              void send("enter", { name, level });
+              void send("enter", { name, level, mode });
             }}
           />
         ) : table?.phase === "lobby" ? (
-          <Lobby table={table} pending={pending} secondsToStart={secondsToStart} onStart={() => void send("start")} />
+          <Lobby
+            table={table}
+            pending={pending}
+            secondsToStart={secondsToStart}
+            offerSolo={
+              table.mode === "together" &&
+              table.seats.length === 1 &&
+              now - clockSkew >= table.createdAt + SOLO_OFFER_MS
+            }
+            onStart={() => void send("start")}
+            onSolo={() => void send("solo")}
+          />
         ) : table?.phase === "ranking" ? (
           <Ranking
             table={table}
@@ -236,7 +247,7 @@ function Gate(props: {
   pending: boolean;
   onName: (value: string) => void;
   onLevel: (level: PartyLevel) => void;
-  onEnter: () => void;
+  onEnter: (mode: "solo" | "together") => void;
 }) {
   return (
     <section className="grid gap-8 lg:grid-cols-[1.1fr_.9fr] lg:items-center">
@@ -247,10 +258,10 @@ function Gate(props: {
           <span className="block text-coral-300">Entra.</span>
         </h1>
         <p className="mt-5 max-w-xl text-lg text-white/80">
-          Escribes tu nombre, eliges el nivel y juegas tú solo. Te tocan {EXERCISES_PER_PLAYER} ejercicios. Al final ves tu resultado.
+          Escribes tu nombre y eliges el nivel. Puedes jugar con otras personas de ese nivel o hacer la partida tú solo. Son {EXERCISES_PER_PLAYER} ejercicios por persona.
         </p>
         <ol className="mt-6 grid gap-3 sm:grid-cols-3">
-          {["Elige tu nivel", "Escribe tu nombre", "Juegas tú solo"].map((step, index) => (
+          {["Elige tu nivel", "Escribe tu nombre", "Juega con otros o solo"].map((step, index) => (
             <li key={step} className="rounded-2xl bg-white/10 px-4 py-3 text-sm font-bold">
               <span className="mr-2 text-coral-300">{index + 1}</span>
               {step}
@@ -262,7 +273,7 @@ function Gate(props: {
         className="rounded-[2rem] bg-[#FFF8F3] p-5 text-slate-900 shadow-coral-lg sm:p-7"
         onSubmit={(event) => {
           event.preventDefault();
-          props.onEnter();
+          props.onEnter("together");
         }}
       >
         <fieldset>
@@ -298,32 +309,57 @@ function Gate(props: {
           className="mt-2 w-full rounded-2xl border-2 border-slate-200 px-4 py-3 text-lg font-bold outline-none focus:border-coral-500"
         />
         <button
-          type="submit"
+          type="button"
           disabled={props.pending || !props.level || props.name.trim().length < 2}
+          onClick={() => props.onEnter("together")}
           className="mt-5 w-full rounded-full bg-coral-500 px-5 py-4 font-heading text-lg font-black text-white disabled:opacity-50"
         >
-          Entrar
+          Jugar con otros
+        </button>
+        <button
+          type="button"
+          disabled={props.pending || !props.level || props.name.trim().length < 2}
+          onClick={() => props.onEnter("solo")}
+          className="mt-3 w-full rounded-full border-2 border-slate-300 px-5 py-4 font-heading text-lg font-black text-slate-900 disabled:opacity-50"
+        >
+          Jugar solo
         </button>
       </form>
     </section>
   );
 }
 
-function Lobby(props: { table: PublicTable; pending: boolean; secondsToStart: number; onStart: () => void }) {
+function Lobby(props: {
+  table: PublicTable;
+  pending: boolean;
+  secondsToStart: number;
+  offerSolo: boolean;
+  onStart: () => void;
+  onSolo: () => void;
+}) {
   const { table } = props;
+  const waiting = table.seats.length < 2;
   return (
     <section className="rounded-[2rem] bg-white/10 p-5 sm:p-8">
       <p className="text-sm font-black uppercase tracking-[0.18em] text-peach-200">Nivel {table.level}</p>
-      <h1 className="font-heading text-4xl font-black sm:text-5xl">Ya estás sentado</h1>
+      <h1 className="font-heading text-4xl font-black sm:text-5xl">{waiting ? "Esperando gente" : "Ya estáis en la mesa"}</h1>
       <p className="mt-2 max-w-xl text-white/80">
-        La partida es solo tuya: {EXERCISES_PER_PLAYER} ejercicios de tu nivel.
-        {props.secondsToStart > 0 ? ` Empieza en ${props.secondsToStart} s.` : " Puedes empezarla ahora."}
+        {waiting
+          ? `Esperando a alguien más de tu nivel. Caben hasta ${PARTY_TABLE_SIZE} personas y cada una responde ${EXERCISES_PER_PLAYER} ejercicios.`
+          : `Si entra alguien más, se sienta con vosotros. La partida empieza${props.secondsToStart > 0 ? ` en ${props.secondsToStart} s` : " ahora"}, o cuando pulséis Empezar.`}
       </p>
       <SeatRail table={table} />
-      <div className="mt-8">
-        <button type="button" onClick={props.onStart} disabled={props.pending} className="rounded-full bg-coral-500 px-6 py-4 font-heading text-lg font-black disabled:opacity-50">
-          Empezar ya
-        </button>
+      <div className="mt-8 flex flex-wrap gap-3">
+        {waiting ? null : (
+          <button type="button" onClick={props.onStart} disabled={props.pending} className="rounded-full bg-coral-500 px-6 py-4 font-heading text-lg font-black disabled:opacity-50">
+            Empezar
+          </button>
+        )}
+        {props.offerSolo ? (
+          <button type="button" onClick={props.onSolo} disabled={props.pending} className="rounded-full bg-white px-6 py-4 font-heading text-lg font-black text-slate-900 disabled:opacity-50">
+            Jugar solo
+          </button>
+        ) : null}
       </div>
     </section>
   );
