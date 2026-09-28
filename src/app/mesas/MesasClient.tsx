@@ -16,7 +16,7 @@ const LEVEL_COPY: Record<PartyLevel, { title: string; line: string }> = {
 export default function MesasClient() {
   const [playerId, setPlayerId] = useState("");
   const [name, setName] = useState("");
-  const [level, setLevel] = useState<PartyLevel>("A1");
+  const [level, setLevel] = useState<PartyLevel | null>(null);
   const [table, setTable] = useState<PublicTable | null>(null);
   const [error, setError] = useState("");
   const [pending, setPending] = useState(false);
@@ -28,12 +28,19 @@ export default function MesasClient() {
     const saved = window.localStorage.getItem(key);
     const id = saved && /^[a-zA-Z0-9-]{8,80}$/.test(saved) ? saved : crypto.randomUUID();
     window.localStorage.setItem(key, id);
+    window.localStorage.removeItem("linguafly-mesa-name");
     setPlayerId(id);
-    const savedName = window.localStorage.getItem("linguafly-mesa-name");
-    if (savedName) setName(savedName.slice(0, 16));
     if (window.location.search) window.history.replaceState(null, "", "/mesas");
     const sitting = window.sessionStorage.getItem("linguafly-mesa-table");
     if (sitting) setTable({ id: sitting } as PublicTable);
+    function onPageShow(event: PageTransitionEvent) {
+      if (!event.persisted || window.sessionStorage.getItem("linguafly-mesa-table")) return;
+      window.localStorage.removeItem("linguafly-mesa-name");
+      setName("");
+      setLevel(null);
+    }
+    window.addEventListener("pageshow", onPageShow);
+    return () => window.removeEventListener("pageshow", onPageShow);
   }, []);
 
   useEffect(() => {
@@ -118,11 +125,18 @@ export default function MesasClient() {
     }
   }
 
+  function resetEntry() {
+    window.localStorage.removeItem("linguafly-mesa-name");
+    setName("");
+    setLevel(null);
+  }
+
   async function exitGame(destination: "site" | "home") {
     setPending(true);
     setError("");
     const tableId = table?.id;
     window.sessionStorage.removeItem("linguafly-mesa-table");
+    resetEntry();
     setTable(null);
     try {
       if (tableId && playerId) {
@@ -189,7 +203,7 @@ export default function MesasClient() {
             onName={setName}
             onLevel={setLevel}
             onEnter={() => {
-              window.localStorage.setItem("linguafly-mesa-name", name.trim());
+              if (!level) return;
               void send("enter", { name, level });
             }}
           />
@@ -218,7 +232,7 @@ export default function MesasClient() {
 
 function Gate(props: {
   name: string;
-  level: PartyLevel;
+  level: PartyLevel | null;
   pending: boolean;
   onName: (value: string) => void;
   onLevel: (level: PartyLevel) => void;
@@ -279,13 +293,13 @@ function Gate(props: {
           value={props.name}
           onChange={(event) => props.onName(event.target.value)}
           maxLength={16}
-          placeholder="Ana"
-          autoComplete="nickname"
+          placeholder="Escribe aquí"
+          autoComplete="off"
           className="mt-2 w-full rounded-2xl border-2 border-slate-200 px-4 py-3 text-lg font-bold outline-none focus:border-coral-500"
         />
         <button
           type="submit"
-          disabled={props.pending || props.name.trim().length < 2}
+          disabled={props.pending || !props.level || props.name.trim().length < 2}
           className="mt-5 w-full rounded-full bg-coral-500 px-5 py-4 font-heading text-lg font-black text-white disabled:opacity-50"
         >
           Entrar
