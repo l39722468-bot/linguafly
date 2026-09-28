@@ -7,10 +7,10 @@ import articleCanonicalPaths from "@/lib/seo/article-canonical-paths.json";
 
 const ARTICLE_PATHS = articleCanonicalPaths as Record<string, string>;
 
-const COURSE_LEVEL = /^(a1|a2|b1|b2|c1)$/;
-const COURSE_CATEGORY = /^curso-(a1|a2|b1|b2|c1)$/;
+const COURSE_LEVEL = /^(a1|a2|b1|b2|c1|c2)$/;
+const COURSE_CATEGORY = /^curso-(a1|a2|b1|b2|c1|c2)$/;
 const COURSE_ARTICLE_PATH =
-  /^\/blog\/(curso-a1|curso-a2|curso-b1|curso-b2|curso-c1)\/([^/]+)$/;
+  /^\/blog\/(curso-a1|curso-a2|curso-b1|curso-b2|curso-c1|curso-c2)\/([^/]+)$/;
 const UNIT_SLUG = /^unidad-(\d+)-(.+)$/;
 const WORKBOOK_SUFFIX = "-ejercicios-soluciones";
 
@@ -146,7 +146,7 @@ function topicCore(slug: string): string {
 }
 
 function courseLevelFromCategory(category: string): string | null {
-  const match = category.toLowerCase().match(/^curso-(a1|a2|b1|b2|c1)$/);
+  const match = category.toLowerCase().match(/^curso-(a1|a2|b1|b2|c1|c2)$/);
   return match ? match[1] : null;
 }
 

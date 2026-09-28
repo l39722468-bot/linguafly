@@ -137,6 +137,12 @@ const categoryMetadata: Record<string, { name: string, description: string, icon
     icon: "📓",
     color: "from-slate-600 to-slate-800"
   },
+  "curso-c2": {
+    name: "Curso de Inglés C2: Guías por Unidad",
+    description: "Artículos del curso C2: inversión, hedging, registro y práctica de Proficiency, unidad a unidad, con el cuaderno de ejercicios a continuación.",
+    icon: "📔",
+    color: "from-violet-700 to-slate-800"
+  },
 };
 
 export async function generateMetadata({

@@ -39,6 +39,7 @@ export const ENGLISH_LEARNING_CATEGORIES = [
   "curso-b1",
   "curso-b2",
   "curso-c1",
+  "curso-c2",
 ] as const;
 
 export const PUBLIC_ARTICLE_CATEGORIES = [
@@ -55,6 +56,7 @@ export const PUBLIC_ARTICLE_CATEGORIES = [
   "curso-b1",
   "curso-b2",
   "curso-c1",
+  "curso-c2",
 ] as const;
 
 export type PublicArticleCategory = (typeof PUBLIC_ARTICLE_CATEGORIES)[number];
@@ -349,6 +351,21 @@ export const ENGLISH_LEARNING_SECTIONS: readonly EnglishLearningSection[] = [
       border: "border-slate-200",
     },
   },
+  {
+    slug: "curso-c2",
+    href: "/blog/curso-c2",
+    name: "Curso C2",
+    shortName: "C2",
+    description: "Guías por unidad del nivel C2.",
+    icon: "📔",
+    tone: {
+      badge: "bg-violet-100 text-violet-800",
+      gradient: "from-violet-700 to-slate-800",
+      text: "text-violet-700",
+      soft: "bg-violet-50",
+      border: "border-violet-100",
+    },
+  },
 ] as const;
 
 /** Revista de hábitos (2 piezas) + temáticas del archivo de inglés, sin cursos por nivel. */
@@ -364,7 +381,7 @@ export const ENGLISH_STUDY_HABITS_SECTION: EnglishLearningSection = {
 };
 
 export function isEnglishLevelCategory(category: string): boolean {
-  return /^curso-(a1|a2|b1|b2|c1)$/i.test(category.trim());
+  return /^curso-(a1|a2|b1|b2|c1|c2)$/i.test(category.trim());
 }
 
 export function getEnglishLevelSections(): EnglishLearningSection[] {
@@ -475,7 +492,7 @@ const COURSE_LEVEL_BLOG: Record<string, string> = {
   b1: "/blog/curso-b1",
   b2: "/blog/curso-b2",
   c1: "/blog/curso-c1",
-  c2: "/blog/examenes",
+  c2: "/blog/curso-c2",
 };
 
 export function isPublicSitePath(pathname: string): boolean {
@@ -524,7 +541,7 @@ export function getParkedPageRedirect(
   if (path === "/podcasts") return "/blog";
 
   const exerciseUnit = path.match(
-    /^\/curso-(a1|a2|b1|b2|c1)\/unit-(\d+)\/ejercicio(?:\/|$)/,
+    /^\/curso-(a1|a2|b1|b2|c1|c2)\/unit-(\d+)\/ejercicio(?:\/|$)/,
   );
   if (exerciseUnit) {
     return (

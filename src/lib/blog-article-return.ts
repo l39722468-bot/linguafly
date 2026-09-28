@@ -12,7 +12,7 @@ export const BLOG_ARTICLE_RETURN_PARAM = 'fromArticle';
 export function toIndexableUnitUrl(unitUrl: string): string {
   const path = unitUrl.split("?")[0].split("#")[0];
   const normalized = path.length > 1 && path.endsWith("/") ? path.slice(0, -1) : path;
-  const match = normalized.match(/^\/curso-(a1|a2|b1|b2|c1)\/unit-(\d+)$/);
+  const match = normalized.match(/^\/curso-(a1|a2|b1|b2|c1|c2)\/unit-(\d+)$/);
   if (!match) return normalized;
   const level = match[1];
   const unitNumber = Number(match[2]);

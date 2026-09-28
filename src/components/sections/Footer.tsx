@@ -43,7 +43,7 @@ export function Footer() {
               ))}
               <li>
                 <Link href="/blog/curso-a1" className="transition-colors hover:text-white">
-                  Cursos A1–C1
+                  Cursos A1–C2
                 </Link>
               </li>
             </ul>

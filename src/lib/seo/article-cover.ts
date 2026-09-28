@@ -79,6 +79,7 @@ const CATEGORY_LABELS: Record<string, string> = {
   "curso-b1": "Curso B1",
   "curso-b2": "Curso B2",
   "curso-c1": "Curso C1",
+  "curso-c2": "Curso C2",
 };
 
 /**

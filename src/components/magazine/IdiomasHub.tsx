@@ -104,7 +104,7 @@ export async function IdiomasHub({ vertical }: { vertical: SiteVertical }) {
                 href="#niveles"
                 className="inline-flex rounded-2xl bg-white px-6 py-3 text-sm font-black text-slate-900 hover:bg-cream-100"
               >
-                Por nivel A1–C1
+                Por nivel A1–C2
               </a>
               <a
                 href="#tematicas"
@@ -119,11 +119,11 @@ export async function IdiomasHub({ vertical }: { vertical: SiteVertical }) {
         <section id="niveles" className="scroll-mt-24 px-4 pb-16 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-6xl">
             <p className="text-sm font-black uppercase tracking-widest text-coral-600">Nivel de inglés</p>
-            <h2 className="font-display mb-3 text-3xl font-black text-slate-900">Cursos A1 a C1</h2>
+            <h2 className="font-display mb-3 text-3xl font-black text-slate-900">Cursos A1 a C2</h2>
             <p className="mb-8 max-w-2xl text-slate-600">
               Guías por unidad de cada nivel del MCER. Entra al nivel y recorre gramática, vocabulario y ejercicios.
             </p>
-            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-5">
+            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {levels.map((section) => (
                 <CatalogCard
                   key={section.slug}

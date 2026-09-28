@@ -5,7 +5,7 @@ const ARTICLE_CANONICAL_PATHS = articleCanonicalPaths as Record<string, string>;
 const WORKBOOK_SUFFIX = "-ejercicios-soluciones";
 const WORKBOOK_SLUG = /^unidad-(\d+)-.+-ejercicios-soluciones$/;
 const THEORY_SLUG = /^unidad-(\d+)-/;
-const COURSE_WORKBOOK_PATH = /^\/blog\/curso-(a1|a2|b1|b2|c1)\//;
+const COURSE_WORKBOOK_PATH = /^\/blog\/curso-(a1|a2|b1|b2|c1|c2)\//;
 
 /** `a1:1` → `/blog/curso-a1/unidad-1-…-ejercicios-soluciones` */
 const WORKBOOK_BY_COURSE_UNIT: Record<string, string> = {};

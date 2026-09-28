@@ -24,6 +24,7 @@ describe("site catalog", () => {
     expect(isPublicArticleCategory("viajes")).toBe(true);
     expect(isPublicArticleCategory("curso-a1")).toBe(true);
     expect(isPublicArticleCategory("curso-c1")).toBe(true);
+    expect(isPublicArticleCategory("curso-c2")).toBe(true);
     expect(isPublicArticleCategory("fitness")).toBe(false);
   });
 
@@ -88,7 +89,7 @@ describe("site catalog", () => {
     expect(getParkedPageRedirect("/curso-a1")).toBe("/blog/curso-a1");
     expect(getParkedPageRedirect("/curso-a1/unit-30")).toBe("/blog/curso-a1");
     expect(getParkedPageRedirect("/curso-b2/unit-6")).toBe("/blog/curso-b2");
-    expect(getParkedPageRedirect("/curso-c2/unit-57")).toBe("/blog/examenes");
+    expect(getParkedPageRedirect("/curso-c2/unit-57")).toBe("/blog/curso-c2");
     expect(getParkedPageRedirect("/curso-camarero-a1/unit-1")).toBe("/blog/trabajo");
     expect(getParkedPageRedirect("/blog/ejercicios-relacionados")).toBe("/blog");
     expect(getParkedPageRedirect("/frases-en-ingles")).toBe("/");
@@ -107,7 +108,7 @@ describe("site catalog", () => {
     expect(isEnglishLevelCategory("curso-a2")).toBe(true);
     expect(isEnglishLevelCategory("gramatica")).toBe(false);
     const levels = getEnglishLevelSections().map((section) => section.slug);
-    expect(levels).toEqual(["curso-a1", "curso-a2", "curso-b1", "curso-b2", "curso-c1"]);
+    expect(levels).toEqual(["curso-a1", "curso-a2", "curso-b1", "curso-b2", "curso-c1", "curso-c2"]);
     const topics = getEnglishTopicSections().map((section) => section.slug);
     expect(topics[0]).toBe("idiomas");
     expect(topics).toEqual(
