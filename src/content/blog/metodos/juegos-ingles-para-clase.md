@@ -79,7 +79,7 @@ Encaja con grupos que ya conocen Kahoot y necesitan otro envoltorio para el mism
 
 ### 6. Mesas de Linguafly
 
-Para un grupo pequeño, no para veinticinco. En las [mesas](/mesas) caben hasta cuatro personas del mismo nivel, de A1 a C1. Cada una responde ocho ejercicios de gramática, vocabulario, phrasal verbs, falsos amigos y fonética. No graba la voz. No hay código de profesor ni informe de la clase.
+Para un grupo pequeño, no para veinticinco. En las [mesas](/mesas) caben hasta cuatro personas del mismo nivel, de A1 a C1. Cada una responde ocho ejercicios de gramática, vocabulario, phrasal verbs, false friends y fonética. No graba la voz. No hay código de profesor ni informe de la clase.
 
 Cómo funciona la espera, el botón Empezar y la partida en solitario está en [practicar inglés jugando con otras personas](/blog/metodos/practicar-ingles-jugando-con-otros). Si cada alumno juega por su cuenta, también puede entrar en solitario: ocho ejercicios, sin esperar a nadie.
 

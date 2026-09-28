@@ -52,7 +52,7 @@ Una partida en solitario ya sirve para repasar: ocho preguntas, una explicación
 - **El nivel común.** Todos habéis elegido el mismo, de A1 a C1. La pregunta no se adapta a cada uno por separado.
 - **El cierre.** El ranking enseña quién ha acertado, no solo si tú has acertado.
 
-La práctica de idioma sigue siendo elegir la opción correcta y leer por qué. Gramática, vocabulario, phrasal verbs, falsos amigos y fonética (reconocer la palabra, sin grabar la voz). Para decidir si ese formato te encaja como juego educativo, la guía está en [juegos educativos de inglés](/blog/metodos/juegos-educativos-de-ingles).
+La práctica de idioma sigue siendo elegir la opción correcta y leer por qué. Gramática, vocabulario, phrasal verbs, false friends y fonética (reconocer la palabra, sin grabar la voz). Para decidir si ese formato te encaja como juego educativo, la guía está en [juegos educativos de inglés](/blog/metodos/juegos-educativos-de-ingles).
 
 Hablar sin guion, con interrupciones y con acento real, es otro trabajo. Encaja mejor en [hablar inglés con fluidez](/blog/metodos/hablar-ingles-con-fluidez) que en una mesa de opciones.
 

@@ -51,7 +51,7 @@ La guía de [cómo elegir un juego educativo](/blog/metodos/juegos-educativos-de
 
 Partida por nivel, en el navegador. Eliges de A1 a C1, escribes un nombre y entras en las [mesas](/mesas).
 
-Cada persona responde ocho ejercicios: gramática, vocabulario, phrasal verbs, falsos amigos y fonética. En fonética reconoces la palabra; el juego no graba tu voz. El turno dura unos veinte segundos y, al acertar, ves la explicación.
+Cada persona responde ocho ejercicios: gramática, vocabulario, phrasal verbs, false friends y fonética. En fonética reconoces la palabra; el juego no graba tu voz. El turno dura unos veinte segundos y, al acertar, ves la explicación.
 
 Puedes jugar solo o con otras personas del mismo nivel, hasta cuatro. Si sois dos o más, la partida puede empezar al momento o unos quince segundos después de que se siente la segunda. Si nadie de tu nivel llega en unos cuarenta y cinco segundos, puedes pasar a la partida individual.
 

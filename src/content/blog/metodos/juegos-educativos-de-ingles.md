@@ -25,7 +25,7 @@ faqs:
       Sirven para repasar y para entrar en calor. Un curso ordena la gramática, guarda el progreso y te obliga a escribir o hablar más allá de una opción. El juego encaja como práctica entre unidades, no como el plan entero.
   - question: ¿Qué juego educativo de inglés elegir según el nivel?
     answer: >-
-      Elige el que pregunta dentro de tu nivel, de A1 a C1, y mezcla gramática, vocabulario y algún punto de pronunciación o falsos amigos. Si todo es demasiado fácil o no entiendes la pregunta, cambia de nivel.
+      Elige el que pregunta dentro de tu nivel, de A1 a C1, y mezcla gramática, vocabulario y algún punto de pronunciación o false friends. Si todo es demasiado fácil o no entiendes la pregunta, cambia de nivel.
   - question: ¿Dónde puedo probar un juego de inglés en Linguafly?
     answer: >-
       En las mesas, en linguafly.app/mesas. Escribes un nombre, eliges el nivel y juegas con otras personas de ese nivel o haces ocho ejercicios tú solo.
@@ -95,7 +95,7 @@ No hace falta una cuenta. Escribes un nombre de al menos dos letras y eliges el 
 - **Jugar con otros.** Te sientas en una mesa abierta de ese nivel. Caben hasta cuatro personas. Cada una responde ocho ejercicios. Si sois dos o más, podéis pulsar Empezar. Si no, la partida arranca sola unos quince segundos después de que se siente la segunda persona.
 - **Jugar solo.** Ocho ejercicios para ti, enseguida. Si estás en una mesa y nadie de tu nivel llega en unos cuarenta y cinco segundos, la pantalla te ofrece pasar a esa partida individual.
 
-Los ejercicios salen del nivel que has elegido: gramática, vocabulario, phrasal verbs, falsos amigos y fonética. En fonética reconoces la palabra a partir del sonido; el juego no graba tu voz. Cada turno dura unos veinte segundos. Al acertar ves la explicación. Al terminar, un ranking. **Otra partida** abre otra ronda sin volver a pedirte el nombre.
+Los ejercicios salen del nivel que has elegido: gramática, vocabulario, phrasal verbs, false friends y fonética. En fonética reconoces la palabra a partir del sonido; el juego no graba tu voz. Cada turno dura unos veinte segundos. Al acertar ves la explicación. Al terminar, un ranking. **Otra partida** abre otra ronda sin volver a pedirte el nombre.
 
 Cómo sentarte con más gente, y qué pasa si alguien sale a mitad, está en [practicar inglés jugando con otras personas](/blog/metodos/practicar-ingles-jugando-con-otros).
 
