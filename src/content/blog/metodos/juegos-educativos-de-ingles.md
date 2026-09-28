@@ -31,6 +31,7 @@ faqs:
       En las mesas, en linguafly.app/mesas. Escribes un nombre, eliges el nivel y juegas con otras personas de ese nivel o haces ocho ejercicios tú solo.
 canonical: 'https://linguafly.app/blog/metodos/juegos-educativos-de-ingles'
 related_routes:
+  - top-juegos-educativos-de-ingles
   - practicar-ingles-jugando-con-otros
   - ingles-gamer-videojuegos
   - ingles-a1
@@ -41,7 +42,7 @@ related_routes:
 
 Un juego educativo de inglés es una partida corta en la que el objetivo es el idioma. Completas un hueco, eliges una opción o reconoces una palabra, y sabes enseguida si has acertado. Si buscas juegos online para aprender inglés, el criterio útil es ese: que la pregunta sea de tu nivel y que la respuesta salga de ti.
 
-Puedes probarlo en las [mesas de inglés](/mesas). Escribes un nombre, eliges de A1 a C1 y entras. Esta guía explica cómo distinguir un juego educativo de otros juegos y qué practicar antes de sentarte.
+Puedes probarlo en las [mesas de inglés](/mesas). Escribes un nombre, eliges de A1 a C1 y entras. Si buscas nombres concretos, el [top de juegos educativos de inglés](/blog/metodos/top-juegos-educativos-de-ingles) reúne seis opciones. Esta guía explica cómo distinguir un juego educativo de otros juegos y qué practicar antes de sentarte.
 
 ## Qué tiene que hacer un juego educativo de inglés
 

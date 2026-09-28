@@ -31,6 +31,7 @@ faqs:
       Hasta cuatro personas. Ocho ejercicios por persona, así que cuatro jugadores suman treinta y dos turnos. Con dos personas son dieciséis.
 canonical: 'https://linguafly.app/blog/metodos/practicar-ingles-jugando-con-otros'
 related_routes:
+  - juegos-ingles-para-clase
   - juegos-educativos-de-ingles
   - ingles-gamer-videojuegos
   - hablar-ingles-con-fluidez
@@ -41,7 +42,7 @@ related_routes:
 
 Practicar inglés jugando con otras personas funciona cuando la partida es compartida y la pregunta es del mismo nivel para todos. Ves quién está en la mesa, esperas tu turno, respondes y al final hay un ranking. Eso no es una charla. Es un ejercicio con gente delante.
 
-Si quieres probarlo ahora, entra en las [mesas de inglés](/mesas). El resto de la página dice cómo sentarte, qué ocurre si llegas solo y qué inglés se practica de verdad en esa mesa.
+Si quieres probarlo ahora, entra en las [mesas de inglés](/mesas). Para una clase entera, el [top de juegos de inglés para el aula](/blog/metodos/juegos-ingles-para-clase) separa Kahoot, Baamboozle y una mesa de cuatro. El resto de esta página dice cómo sentarte, qué ocurre si llegas solo y qué inglés se practica de verdad en una mesa.
 
 ## Qué añade jugar con gente
 
