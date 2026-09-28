@@ -1,5 +1,6 @@
 import { getAbsoluteUrl } from "@/lib/site-brand";
 import { normalizeCategory } from "@/lib/blog-paths";
+import { isEnglishLevelCategory } from "@/lib/site-catalog";
 import { articleCoverPath, exclusiveArticleImage } from "@/lib/seo/article-cover";
 
 export const OG_IMAGE_WIDTH = 1200;
@@ -43,8 +44,18 @@ export function getArticleOgImagePath(article: {
   category?: string | null;
   slug?: string | null;
 }): string {
-  const custom = exclusiveArticleImage(article.image, article.slug);
-  if (custom && !isSharedCategoryStill(custom)) return custom;
+  const custom = article.image?.trim();
+  // Course units keep the lesson diagram, including the workbook that shares it.
+  if (
+    custom &&
+    !isSharedCategoryStill(custom) &&
+    article.category &&
+    isEnglishLevelCategory(article.category)
+  ) {
+    return custom;
+  }
+  const exclusive = exclusiveArticleImage(article.image, article.slug);
+  if (exclusive && !isSharedCategoryStill(exclusive)) return exclusive;
   if (article.slug) return articleCoverPath(article.slug);
   return getCategoryOgImagePath(article.category);
 }

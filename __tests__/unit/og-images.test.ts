@@ -81,22 +81,47 @@ describe("category OG images", () => {
     ).toBe("/blog/portada/pasiva-pasado-ingles?v=2");
   });
 
-  it("keeps a shared diagram on one article and gives the other its own cover", () => {
-    const shared = "/blog/curso-a1/unit-12/a1-unit12-days.png";
+  it("uses the unit diagram for the lesson and the workbook", () => {
+    const shared = "/blog/curso-a1/unit-3/a1-unit3-to-be-questions.png";
     expect(
       getArticleOgImagePath({
-        slug: "unidad-12-dias-semana",
+        slug: "unidad-3-to-be-negativa-preguntas",
         image: shared,
         category: "curso-a1",
       }),
     ).toBe(shared);
     expect(
       getArticleOgImagePath({
-        slug: "unidad-12-dias-semana-ejercicios-soluciones",
+        slug: "unidad-3-to-be-ejercicios-soluciones",
         image: shared,
         category: "curso-a1",
       }),
-    ).toBe("/blog/portada/unidad-12-dias-semana-ejercicios-soluciones?v=2");
+    ).toBe(shared);
+    expect(
+      getArticleOgImagePath({
+        slug: "unidad-2-to-be-ejercicios-soluciones",
+        image: "/blog/curso-a1/unit-2/a1-unit2-to-be-chart.png",
+        category: "curso-a1",
+      }),
+    ).toBe("/blog/curso-a1/unit-2/a1-unit2-to-be-chart.png");
+  });
+
+  it("keeps a shared diagram on one non-course article and gives the other its own cover", () => {
+    const shared = "/blog/curso-a1/unit-12/a1-unit12-days.png";
+    expect(
+      getArticleOgImagePath({
+        slug: "unidad-12-dias-semana",
+        image: shared,
+        category: "gramatica",
+      }),
+    ).toBe(shared);
+    expect(
+      getArticleOgImagePath({
+        slug: "otro-articulo",
+        image: shared,
+        category: "gramatica",
+      }),
+    ).toBe("/blog/portada/otro-articulo?v=2");
   });
 
   it("returns apex absolute URLs", () => {
