@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-10-07'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Ejercicios de Inversión y Énfasis en Inglés C1"
+title: "Inversión y Énfasis en Inglés C1"
 description: >-
   Domina la inversión y el énfasis en inglés C1: inversión con adverbios negativos y restrictivos, fronting temático, inversión con so y neither, y las...
 readTime: 40 min
@@ -11,7 +11,7 @@ keywords: ["Ejercicios de Inversión y Énfasis en Inglés C1", "ejercicios ingl
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-67-language-lab-inversion-enfasis'
 image: /blog/curso-c1/unit-67/language-lab-inversion-enfasis.png
 alt: "Laboratorio de idiomas con diagrama de inversión sintáctica y fronting temático"
-related_routes: [ingles-c1, unidad-66-language-lab-subjuntivo-mandativo, unidad-68-language-lab-hendidas-pseudohendidas]
+related_routes: [unidad-67-language-lab-inversion-enfasis-ejercicios-soluciones, ingles-c1, unidad-66-language-lab-subjuntivo-mandativo, unidad-68-language-lab-hendidas-pseudohendidas]
 faqs:
   - question: "¿Qué es la inversión con adverbios negativos en inglés?"
     answer: "Cuando una frase adverbial negativa o restrictiva (never, rarely, not only, under no circumstances) se antepone al principio de la oración, el sujeto y el auxiliar se invierten: 'Never have I seen such a sight.' Es una marca de énfasis y de registro formal."
@@ -37,6 +37,7 @@ C1: Inversion and emphasis in English reorganise syntax to foreground the most s
 > **Unidad anterior:** [Unidad 66 C1: Language Lab — Subjuntivo mandativo](/blog/curso-c1/unidad-66-language-lab-subjuntivo-mandativo)<br>
 > **Siguiente unidad:** [Unidad 68 C1: Language Lab — Hendidas y pseudohendidas](/blog/curso-c1/unidad-68-language-lab-hendidas-pseudohendidas)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios unidad 67 C1: Inversión y Énfasis en Inglés C1](/blog/curso-c1/unidad-67-language-lab-inversion-enfasis-ejercicios-soluciones)
 
 ## Parte I — Teoría
 
@@ -189,142 +190,3 @@ A2: To practice, rewrite sentences with "never" or "rarely" at the front.
 B2: To master inversion, rewrite normal sentences in inverted form: "I have never seen that" => "Never have I seen that." Read formal texts and find examples of inversion.
 
 C1: To consolidate inversion, the C1 user must practise it in active production. One effective technique is rewriting canonical sentences into inverted form: I have never seen such ineptitude => never have I seen such ineptitude. Another is drafting descriptive paragraphs using locative inversion: on the horizon rose the cathedral; beneath it stretched the old quarter. A third is auditing formal texts identifying each inversion and classifying it by type. Automation demands volume, because inversion breaks canonical order and the writer's brain tends to resist it unless the pattern has been internalised through repetition.
-
-## Parte II — Ejercicios
-
-**Ejercicio 1.** Invierte la oración: "I have never seen such incompetence."
-<details>
-<summary>Ver solución</summary>
-
-*Never have I seen such incompetence.* Adverbio negativo antepuesto + inversión obligatoria de sujeto y auxiliar.
-</details>
-
-**Ejercicio 2.** Reescribe con inversión: "She rarely speaks in public."
-<details>
-<summary>Ver solución</summary>
-
-*Rarely does she speak in public.* *Rarely* + auxiliar *does* + sujeto + verbo en base.
-</details>
-
-**Ejercicio 3.** Completa con inversión: "Under no circumstances ____ (you/enter) the room."
-<details>
-<summary>Ver solución</summary>
-
-*should you enter*. *Under no circumstances should you enter the room.* Locución restrictiva negativa + inversión.
-</details>
-
-**Ejercicio 4.** Reescribe con *not only ... but also*: "He apologised and he also compensated the victims."
-<details>
-<summary>Ver solución</summary>
-
-*Not only did he apologise, but he also compensated the victims.* Inversión en la primera cláusula; orden canónico en la segunda.
-</details>
-
-**Ejercicio 5.** Completa la correlación: "No sooner ____ (he/arrive) than the phone rang."
-<details>
-<summary>Ver solución</summary>
-
-*had he arrived*. *No sooner had he arrived than the phone rang.* Correlación *no sooner ... than* con inversión.
-</details>
-
-**Ejercicio 6.** Reescribe con *hardly ... when*: "She had hardly sat down when the doorbell rang."
-<details>
-<summary>Ver solución</summary>
-
-*Hardly had she sat down when the doorbell rang.* Inversión tras *hardly*; correlación con *when*, no *than*.
-</details>
-
-**Ejercicio 7.** Expresa acuerdo: "I can speak French." — "____"
-<details>
-<summary>Ver solución</summary>
-
-*So can I.* Inversión de acuerdo: *so* + auxiliar *can* + sujeto *I*.
-</details>
-
-**Ejercicio 8.** Expresa acuerdo negativo: "I don't enjoy horror films." — "____"
-<details>
-<summary>Ver solución</summary>
-
-*Neither do I* (o *Nor do I*). *Neither* + auxiliar *do* + sujeto *I*.
-</details>
-
-**Ejercicio 9.** Reescribe con *only then*: "I understood the situation only then."
-<details>
-<summary>Ver solución</summary>
-
-*Only then did I understand the situation.* *Only* + adverbio temporal antepuesto + inversión.
-</details>
-
-**Ejercicio 10.** Identifica el error: "Never I have witnessed such a display."
-<details>
-<summary>Ver solución</summary>
-
-Falta la inversión. Corrección: *Never **have I** witnessed such a display.* El adverbio negativo antepuesto exige inversión.
-</details>
-
-**Ejercicio 11.** Reescribe con *such ... that*: "The force of the explosion was so great that windows shattered."
-<details>
-<summary>Ver solución</summary>
-
-*Such was the force of the explosion that windows shattered.* *Such* + *be* + sujeto + *that* + consecuencia.
-</details>
-
-**Ejercicio 12.** Completa con *little*: "He didn't know that the meeting had been cancelled." (versión literaria)
-<details>
-<summary>Ver solución</summary>
-
-*Little did he know that the meeting had been cancelled.* *Little* con sentido restrictivo + inversión.
-</details>
-
-**Ejercicio 13.** Distingue fronting de inversión: ¿cuál es la diferencia en "That book I enjoyed"?
-<details>
-<summary>Ver solución</summary>
-
-Es fronting temático sin inversión: el objeto *that book* se antepone para foco, pero el orden sujeto-verbo (*I enjoyed*) se mantiene. No hay adverbio negativo, así que no se exige inversión.
-</details>
-
-**Ejercicio 14.** Reescribe con inversión locativa: "A dusty manuscript lay on the table."
-<details>
-<summary>Ver solución</summary>
-
-*On the table lay a dusty manuscript.* Fronting locativo + inversión con verbo de posición *lay*.
-</details>
-
-**Ejercicio 15.** Corrige el error: "No sooner had she arrived when the phone rang."
-<details>
-<summary>Ver solución</summary>
-
-La correlación es *no sooner ... than*, no *when*. Corrección: *No sooner had she arrived **than** the phone rang.*
-</details>
-
-**Ejercicio 16.** Reescribe con *on no account*: "You must not disclose this information."
-<details>
-<summary>Ver solución</summary>
-
-*On no account must you disclose this information.* Locución restrictiva negativa + inversión.
-</details>
-
-**Ejercicio 17.** Completa con *so ... that*: "Her surprise was so great that she could not speak."
-<details>
-<summary>Ver solución</summary>
-
-*So great was her surprise that she could not speak.* *So* + adjetivo + *be* + sujeto + *that* + consecuencia.
-</details>
-
-**Ejercicio 18.** Reescribe con *only by*: "We can succeed only by working together."
-<details>
-<summary>Ver solución</summary>
-
-*Only by working together can we succeed.* *Only* + frase preposicional antepuesta + inversión.
-</details>
-
-**Ejercicio 19.** Redacta un párrafo descriptivo usando al menos dos tipos de inversión diferente (negativa y locativa).
-<details>
-<summary>Ver solución</summary>
-
-*Never before had the village witnessed such a storm. On the rooftops lay the debris of a hundred chimneys, and through the shattered windows streamed the cold morning light. Little did the residents know that worse was yet to come.* Inversión negativa (*never before had*), locativa (*on the rooftops lay*, *through the shattered windows streamed*) y restrictiva (*little did*).
-</details>
-
-## Resumen de la unidad
-
-En esta unidad hemos recorrido la inversión y el énfasis como herramientas de reorganización sintáctica del inglés C1. Hemos definido la inversión enfática y su función informacional: poner en primer plano el elemento más saliente. Hemos trabajado la inversión con adverbios negativos (*never*, *rarely*, *seldom*), con locuciones restrictivas (*under no circumstances*, *on no account*), con correlaciones (*not only ... but also*, *no sooner ... than*, *hardly ... when*), con *only* + adverbio, con *such/so* + adjetivo, con *little* restrictivo y con inversión locativa descriptiva. Hemos estudiado la inversión de acuerdo con *so* y *neither*. Hemos distinguido el fronting temático sin inversión de la inversión obligatoria. Y hemos catalogado los tres errores más frecuentes: no invertir tras negativo, invertir donde no corresponde, y mezclar correlaciones. El usuario C1 calibra la inversión según el registro y el medio: la despliega en prosa formal y la evita en conversación casual. En la siguiente unidad abordaremos las oraciones hendidas y pseudohendidas, donde la estructura informativa se reorganiza mediante fórmulas fónicas de focalización.

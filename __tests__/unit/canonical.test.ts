@@ -89,9 +89,8 @@ describe("canonical URLs", () => {
 
   it("keeps the homepage title short enough for the SERP snippet", () => {
     expect(SITE_SERP_TITLE.length).toBeLessThanOrEqual(60);
-    expect(SITE_SERP_TITLE).toMatch(/idiomas/i);
-    expect(SITE_SERP_TITLE).toContain("alimentación");
-    expect(SITE_SERP_TITLE).toContain("entrenamiento");
-    expect(SITE_SERP_TITLE).toMatch(/IA|inteligencia/i);
+    expect(SITE_SERP_TITLE).toMatch(/inglés/i);
+    expect(SITE_SERP_TITLE).toMatch(/actualidad/i);
+    expect(SITE_SERP_TITLE).toMatch(/juego/i);
   });
 });

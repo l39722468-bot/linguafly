@@ -18,13 +18,12 @@ const LINGUAFLY_TEAM: Author = {
   slug: 'linguafly-team',
   name: `Equipo ${SITE_BRAND_NAME}`,
   role: 'Equipo editorial',
-  bio: `${SITE_BRAND_NAME} es un proyecto editorial independiente. Publicamos artículos prácticos de idiomas, alimentación, entrenamiento e inteligencia artificial. El contenido sale firmado por el equipo: es trabajo editorial conjunto, no de un autor individual.`,
+  bio: `${SITE_BRAND_NAME} es un proyecto para aprender inglés. Publicamos guías de inglés, noticias de actualidad sobre aprender inglés y un juego para practicar con otros estudiantes. El contenido sale firmado por el equipo: es trabajo editorial conjunto, no de un autor individual.`,
   image: '/icon.svg',
   expertise: [
-    'Idiomas y hábitos de estudio',
-    'Alimentación cotidiana',
-    'Entrenamiento de fuerza y progresión',
-    'Uso práctico de inteligencia artificial',
+    'Aprender inglés',
+    'Actualidad sobre aprender inglés',
+    'Práctica con otros estudiantes',
   ],
 };
 

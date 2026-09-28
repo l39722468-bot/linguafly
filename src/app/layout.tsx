@@ -14,7 +14,7 @@ import { languageAlternates } from "@/lib/seo/canonical";
 
 const siteUrl = getSiteUrl();
 const siteOg = ogImageMeta(
-  `${SITE_BRAND_NAME} — idiomas, alimentación, entrenamiento e inteligencia artificial`,
+  `${SITE_BRAND_NAME} — aprender inglés, actualidad y juego`,
   DEFAULT_OG_IMAGE_PATH,
 );
 
@@ -26,12 +26,11 @@ export const metadata: Metadata = {
   },
   description: SITE_DESCRIPTION,
   keywords: [
-    "idiomas",
-    "alimentación",
-    "entrenamiento",
-    "inteligencia artificial",
-    "artículos",
-    "guías prácticas",
+    "aprender inglés",
+    "noticias de inglés",
+    "juego de inglés",
+    "guías de inglés",
+    "cursos de inglés",
     SITE_BRAND_NAME,
   ],
   authors: [{ name: SITE_BRAND_NAME, url: siteUrl }],

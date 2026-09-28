@@ -18,14 +18,14 @@ import { llmMarkdownAlternates } from "@/lib/seo/canonical";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: `Sobre ${SITE_BRAND_NAME} | Revista de idiomas, hábitos e inteligencia artificial`,
+  title: `Sobre ${SITE_BRAND_NAME} | Inglés, actualidad y juego`,
   description:
-    `Qué es ${SITE_BRAND_NAME}: un proyecto editorial independiente que publica artículos prácticos de idiomas, alimentación, entrenamiento e inteligencia artificial.`,
+    `Qué es ${SITE_BRAND_NAME}: guías para aprender inglés, noticias de actualidad sobre aprender inglés y un juego para practicar con otros estudiantes.`,
   alternates: llmMarkdownAlternates("/sobre-nosotros"),
   openGraph: {
     title: `Sobre ${SITE_BRAND_NAME}`,
     description:
-      "Proyecto editorial independiente: artículos de idiomas, alimentación, entrenamiento e inteligencia artificial.",
+      "Guías para aprender inglés, noticias de actualidad sobre aprender inglés y un juego con otros estudiantes.",
     type: "website",
     url: getAbsoluteUrl('/sobre-nosotros'),
   },
@@ -66,10 +66,8 @@ export default async function SobreNosotrosPage() {
               Sobre <span className="text-coral-600">{SITE_BRAND_NAME}</span>
             </h1>
             <p className="text-xl text-slate-700 leading-relaxed">
-              Somos un proyecto editorial independiente. Publicamos artículos prácticos de
-              <strong> idiomas</strong>, <strong>alimentación</strong>, <strong>entrenamiento</strong> e
-              <strong> inteligencia artificial</strong>,
-              y el archivo de guías para aprender inglés (gramática, viajes, trabajo, exámenes y cursos por nivel) en las URLs originales.
+              Somos un proyecto para aprender inglés. Publicamos guías de inglés, noticias de
+              actualidad sobre aprender inglés y un juego para practicar con otros estudiantes.
             </p>
           </header>
 
@@ -78,38 +76,26 @@ export default async function SobreNosotrosPage() {
               Qué publicamos
             </h2>
             <p className="text-slate-700 leading-relaxed mb-4">
-              A día de hoy la revista publica <strong>{totalArticles} artículos</strong>: las temáticas
-              de la web nueva y el archivo de inglés, indexado en el sitemap con sus URLs canónicas.
+              A día de hoy publicamos <strong>{totalArticles} artículos</strong> de inglés, con sus
+              URLs canónicas en el sitemap, y un juego para practicar con otros estudiantes.
             </p>
             <ul className="space-y-3 text-slate-700">
               <li className="flex gap-3">
                 <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
                 <span>
-                  <strong>Idiomas</strong>: hábitos de estudio, vocabulario activo y un comienzo realista.
+                  <strong>Aprender inglés</strong>: gramática, vocabulario, viajes, trabajo, exámenes, métodos y cursos A1–C1.
                 </span>
               </li>
               <li className="flex gap-3">
                 <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
                 <span>
-                  <strong>Alimentación</strong>: organizar la semana y armar platos con criterio, sin dietas extremas.
+                  <strong>Actualidad</strong>: noticias sobre aprender inglés, exámenes oficiales y el sector.
                 </span>
               </li>
               <li className="flex gap-3">
                 <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
                 <span>
-                  <strong>Entrenamiento</strong>: fuerza para principiantes y progresión sin lesionarte.
-                </span>
-              </li>
-              <li className="flex gap-3">
-                <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
-                <span>
-                  <strong>Inteligencia artificial</strong>: prompts, comprobación y privacidad para una tarea concreta.
-                </span>
-              </li>
-              <li className="flex gap-3">
-                <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
-                <span>
-                  <strong>Aprender inglés</strong>: gramática, viajes, trabajo, exámenes, métodos y cursos A1–C1 con las URLs originales.
+                  <strong>Juego</strong>: partidas por nivel para practicar inglés con otros estudiantes.
                 </span>
               </li>
             </ul>
@@ -267,25 +253,19 @@ export default async function SobreNosotrosPage() {
                 href="/idiomas"
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
-                Idiomas
+                Aprender inglés
               </Link>
               <Link
-                href="/alimentacion"
+                href="/blog/actualidad"
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
-                Alimentación
+                Actualidad
               </Link>
               <Link
-                href="/entrenamiento"
+                href="/mesas"
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
-                Entrenamiento
-              </Link>
-              <Link
-                href="/inteligencia-artificial"
-                className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
-              >
-                Inteligencia artificial
+                Juego
               </Link>
             </div>
           </section>

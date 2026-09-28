@@ -10,7 +10,7 @@ export function OrganizationSchema() {
     "alternateName": ["Linguafly"],
     "url": siteUrl,
     "logo": getAbsoluteUrl('/logo.png'),
-    "description": "Revista de artículos prácticos sobre idiomas, alimentación, entrenamiento e inteligencia artificial.",
+    "description": "Guías para aprender inglés, noticias de actualidad sobre aprender inglés y un juego para practicar con otros estudiantes.",
     "address": {
       "@type": "PostalAddress",
       "addressCountry": "ES",
@@ -27,7 +27,7 @@ export function OrganizationSchema() {
       "@type": "Country",
       "name": "España"
     },
-    "knowsAbout": ["Idiomas", "Alimentación", "Entrenamiento", "Inteligencia artificial"]
+    "knowsAbout": ["Aprender inglés", "Actualidad del inglés", "Práctica de inglés con otros estudiantes"]
   };
 
   return (
@@ -211,7 +211,7 @@ export function WebsiteSchema() {
     "@type": "WebSite",
     "name": SITE_BRAND_NAME,
     "url": siteUrl,
-    "description": "Artículos de idiomas, alimentación, entrenamiento e inteligencia artificial",
+    "description": "Guías para aprender inglés, noticias de actualidad sobre aprender inglés y un juego para practicar con otros estudiantes.",
     "inLanguage": "es",
   };
 

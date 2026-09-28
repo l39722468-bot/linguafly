@@ -3,7 +3,7 @@ category: curso-c1
 date: '2026-10-08'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Ejercicios de Oraciones Hendidas en Inglés C1"
+title: "Oraciones Hendidas en Inglés C1"
 description: >-
   Domina las oraciones hendidas (it-clefts) y pseudohendidas (wh-clefts) del inglés C1: focalización con it is X that, estructuras con what X is Y, y la...
 readTime: 40 min
@@ -11,7 +11,7 @@ keywords: ["Ejercicios de Oraciones Hendidas en Inglés C1", "ejercicios inglés
 canonical: 'https://linguafly.app/blog/curso-c1/unidad-68-language-lab-hendidas-pseudohendidas'
 image: /blog/curso-c1/unit-68/language-lab-hendidas-pseudohendidas.png
 alt: "Laboratorio de idiomas con diagrama de oraciones hendidas y pseudohendidas"
-related_routes: [ingles-c1, unidad-67-language-lab-inversion-enfasis, unidad-69-language-lab-hedging-postura]
+related_routes: [unidad-68-language-lab-hendidas-pseudohendidas-ejercicios-soluciones, ingles-c1, unidad-67-language-lab-inversion-enfasis, unidad-69-language-lab-hedging-postura]
 faqs:
   - question: "¿Qué es una oración hendida (it-cleft) en inglés?"
     answer: "Una oración hendida divide una oración en dos partes para focalizar un elemento: 'It was John who broke the window' (en vez de 'John broke the window'). La estructura es it is/was + elemento focal + that/who + cláusula restante. Sirve para dar énfasis."
@@ -37,6 +37,7 @@ C1: Cleft and pseudocleft sentences reorganise the informational structure of a 
 > **Unidad anterior:** [Unidad 67 C1: Language Lab — Inversión y énfasis](/blog/curso-c1/unidad-67-language-lab-inversion-enfasis)<br>
 > **Siguiente unidad:** [Unidad 69 C1: Language Lab — Hedging y postura](/blog/curso-c1/unidad-69-language-lab-hedging-postura)<br>
 > **Curso completo:** [Inglés C1](/blog/metodos/ingles-c1)
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios unidad 68 C1: Oraciones Hendidas en Inglés C1](/blog/curso-c1/unidad-68-language-lab-hendidas-pseudohendidas-ejercicios-soluciones)
 
 ## Parte I — Teoría
 
@@ -189,142 +190,3 @@ A2: To practice, change normal sentences into clefts: "John did it" => "It was J
 B2: To master clefts, practice transforming normal sentences: "John broke the window" => "It was John who broke the window" => "What John broke was the window." Also practice contrast: "It is not A but B that matters."
 
 C1: To consolidate clefts, the C1 user must practise the transformation of canonical sentences into clefts and pseudoclefts: John broke the window => it was John who broke the window => what John broke was the window. Another technique is drafting contrast sentences using the structure it is not X but Y that. A third is auditing argumentative texts identifying each cleft and classifying it by type (it-cleft, wh-cleft, lexicalised). Automation demands practising bidirectional transformation —canonical to cleft and cleft to canonical— because only thus is the relation between flat and focalised structure internalised.
-
-## Parte II — Ejercicios
-
-**Ejercicio 1.** Transforma en hendida: "John broke the window." (foco en John)
-<details>
-<summary>Ver solución</summary>
-
-*It was John who broke the window.* Estructura: *it is/was* + foco + *who* + cláusula restante.
-</details>
-
-**Ejercicio 2.** Transforma en pseudohendida: "I need a vacation." (foco en a vacation)
-<details>
-<summary>Ver solución</summary>
-
-*What I need is a vacation.* Estructura: *what* + cláusula + *is* + foco.
-</details>
-
-**Ejercicio 3.** Reescribe con hendida de contraste: "The application matters, not the method."
-<details>
-<summary>Ver solución</summary>
-
-*It is not the method but the application that matters.* Hendida de contraste: *it is not X but Y that*.
-</details>
-
-**Ejercicio 4.** Transforma en hendida temporal: "The wall fell in 1989." (foco en el año)
-<details>
-<summary>Ver solución</summary>
-
-*It was in 1989 that the wall fell.* Hendida con adverbio temporal antepuesto como foco.
-</details>
-
-**Ejercicio 5.** Reescribe con pseudohendida inversa: "What I need is a vacation."
-<details>
-<summary>Ver solución</summary>
-
-*A vacation is what I need.* Pseudohendida inversa: el foco se antepone y la cláusula de *what* va al final.
-</details>
-
-**Ejercicio 6.** Completa la hendida causal: "It was because he was exhausted ____ he made the mistake."
-<details>
-<summary>Ver solución</summary>
-
-*that*. *It was because he was exhausted that he made the mistake.* Hendida con cláusula causal como foco.
-</details>
-
-**Ejercicio 7.** Identifica el error: "It was John broke the window."
-<details>
-<summary>Ver solución</summary>
-
-Falta *who* (o *that*). Corrección: *It was John **who** broke the window.* La hendida exige el relativo.
-</details>
-
-**Ejercicio 8.** Reescribe con pseudohendida con *all*: "I only want a quiet life."
-<details>
-<summary>Ver solución</summary>
-
-*All I want is a quiet life.* Pseudohendida lexicalizada con *all*.
-</details>
-
-**Ejercicio 9.** Completa la concordancia: "What I want ____ (be) more opportunities."
-<details>
-<summary>Ver solución</summary>
-
-*are*. *What I want are more opportunities.* El verbo *be* concuerda con el foco plural *more opportunities*.
-</details>
-
-**Ejercicio 10.** Reescribe con hendida interrogativa: "Did John break the window?" (foco en John)
-<details>
-<summary>Ver solución</summary>
-
-*Was it John who broke the window?* Hendida interrogativa con inversión del auxiliar en *it is/was*.
-</details>
-
-**Ejercicio 11.** Reescribe con hendida negativa: "John did not break the window." (foco en John)
-<details>
-<summary>Ver solución</summary>
-
-*It was not John who broke the window.* Hendida negativa: *not* recae sobre *it is/was*.
-</details>
-
-**Ejercicio 12.** Reescribe con pseudohendida con *the reason why*: "He resigned because the pressure was unbearable."
-<details>
-<summary>Ver solución</summary>
-
-*The reason why he resigned is that the pressure was unbearable.* Pseudohendida lexicalizada con núcleo nominal *reason*.
-</details>
-
-**Ejercicio 13.** Corrige el error: "It was what John broke the window."
-<details>
-<summary>Ver solución</summary>
-
-*What* no es válido en la hendida; debe ser *that* o *who*. Corrección: *It was the window **that** John broke.* (foco en el objeto)
-</details>
-
-**Ejercicio 14.** Transforma en hendida locativa: "They met in Paris." (foco en el lugar)
-<details>
-<summary>Ver solución</summary>
-
-*It was in Paris that they met.* Hendida con frase preposicional locativa como foco.
-</details>
-
-**Ejercicio 15.** Reescribe con pseudohendida con *the way*: "He handled the crisis exemplarily."
-<details>
-<summary>Ver solución</summary>
-
-*The way he handled the crisis was exemplary.* Pseudohendida lexicalizada con núcleo nominal *way*.
-</details>
-
-**Ejercicio 16.** Transforma en pseudohendida: "I really enjoyed that book." (foco en that book)
-<details>
-<summary>Ver solución</summary>
-
-*What I really enjoyed was that book.* Pseudohendida: *what* + cláusula + *was* + foco.
-</details>
-
-**Ejercicio 17.** Reescribe con hendida de objeto: "John broke the window." (foco en the window)
-<details>
-<summary>Ver solución</summary>
-
-*It was the window that John broke.* Hendida con el objeto como foco.
-</details>
-
-**Ejercicio 18.** Identifica foco y tipo: "All she wanted was a chance to prove herself."
-<details>
-<summary>Ver solución</summary>
-
-Pseudohendida lexicalizada con *all*. El foco es *a chance to prove herself*, colocado al final tras *was*. La cláusula *all she wanted* va al principio.
-</details>
-
-**Ejercicio 19.** Redacta una oración de contraste usando una hendida y otra de foco causal usando una pseudohendida, sobre el tema del cambio climático.
-<details>
-<summary>Ver solución</summary>
-
-Hendida de contraste: *It is not the absence of policy but the inconsistency of its application that has hampered progress on emissions reduction.* Pseudohendida causal: *The reason why meaningful action has been delayed is that short-term economic interests have consistently outweighed long-term environmental considerations.*
-</details>
-
-## Resumen de la unidad
-
-En esta unidad hemos recorrido las oraciones hendidas y pseudohendidas como herramientas de reorganización de la estructura informativa del inglés C1. Hemos definido la hendida (*it is/was* + foco + *that/who* + cláusula) y su función focalizadora. Hemos trabajado las hendidas de contraste (*it is not X but Y that*), temporales, locativas, causales, interrogativas y negativas. Hemos estudiado la pseudohendida (*what* + cláusula + *is/was* + foco) y su variante inversa. Hemos visto las pseudohendidas lexicalizadas con *all*, *the thing*, *the reason why*, *the way*. Hemos abordado la concordancia del verbo *be* con el foco en las pseudohendidas. Hemos relacionado la hendida con la prosodia fónica y con la distribución de registro: hendidas más formales y escritas, pseudohendidas más naturales y habladas. Y hemos catalogado los tres errores más frecuentes: omisión del relativo, uso de *what* por *that*, y ruptura de concordancia. El usuario C1 domina las hendidas como herramientas de arquitectura informacional y las despliega para enfatizar, contrastar y corregir con precisión sintáctica. En la siguiente unidad abordaremos el hedging y la postura, donde la atenuación académica converge con el posicionamiento autoral.

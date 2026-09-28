@@ -16,11 +16,10 @@ export const metadata: Metadata = {
   title: SITE_SERP_TITLE,
   description: SITE_DESCRIPTION,
   keywords: [
-    "artículos de idiomas",
-    "alimentación",
-    "entrenamiento",
-    "inteligencia artificial",
     "aprender inglés",
+    "noticias de inglés",
+    "juego de inglés",
+    "cursos de inglés",
     SITE_BRAND_NAME,
   ],
   alternates: {

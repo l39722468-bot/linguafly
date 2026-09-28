@@ -91,13 +91,13 @@ export type EnglishLearningSection = {
 };
 
 export const SITE_TAGLINE =
-  "Guías claras de idiomas, alimentación, entrenamiento e inteligencia artificial.";
+  "Guías para aprender inglés, actualidad del inglés y un juego con otros estudiantes.";
 
 /** Title de portada: cabe en la SERP (~50–60 caracteres). Google ya muestra Linguafly como nombre del sitio. */
-export const SITE_SERP_TITLE = "Idiomas, alimentación, entrenamiento e IA";
+export const SITE_SERP_TITLE = "Aprender inglés, actualidad y juego";
 
 export const SITE_DESCRIPTION =
-  "Revista práctica: artículos de idiomas, alimentación, entrenamiento e inteligencia artificial, y el archivo de guías para aprender inglés.";
+  "Guías para aprender inglés, noticias de actualidad sobre aprender inglés y un juego para practicar con otros estudiantes.";
 
 const CORAL: VerticalTone = {
   badge: "bg-coral-100 text-coral-800",

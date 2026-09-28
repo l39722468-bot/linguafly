@@ -3,7 +3,7 @@ category: curso-b2
 date: '2026-09-01'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Ejercicios de Auxiliares para Énfasis en Inglés B2"
+title: "Auxiliares para Énfasis en Inglés B2"
 description: >-
   Domina do, does, did y otros auxiliares para énfasis y respuestas cortas en inglés B2 con Business extended: teoría, audio, ejemplos y ejercicios de...
 readTime: 61 min
@@ -25,6 +25,7 @@ canonical: 'https://linguafly.app/blog/curso-b2/unidad-37-auxiliaries-business'
 image: /blog/curso-b2/unit-37/auxiliaries-map.png
 alt: "Auxiliares B2 para énfasis y respuestas cortas con negocios"
 related_routes:
+  - unidad-37-auxiliaries-business-ejercicios-soluciones
   - unidad-36-used-to-would-culture
   - unidad-38-phrasal-verbs-5-run-set-take-leisure
   - ingles-b2
@@ -47,9 +48,8 @@ excerpt: >-
 
 ---
 
-## Parte II — Ejercicios
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios unidad 37 B2: Auxiliares para Énfasis en Inglés B2](/blog/curso-b2/unidad-37-auxiliaries-business-ejercicios-soluciones)
 
-Este articulo incluye tambien los **ejercicios de la Unidad 37** con soluciones comentadas. Haz cada bloque **sin mirar** la solucion. Luego comprueba y lee la explicacion.
 
 ## 1. Auxiliares para dar énfasis
 
@@ -113,55 +113,3 @@ a destacar la responsabilidad:
 No confundas **do** como auxiliar con **do business**, **do research** y **do
 an analysis**, donde es el verbo principal. En *We do need more research*, el
 primer **do** es enfático y **need** es el verbo.
-
-## 4. Práctica con soluciones
-
-Completa cada frase con la forma correcta del auxiliar.
-
-1. The finance team ___ approve the revised budget yesterday.
-2. Our clients ___ appreciate transparent communication.
-3. ___ the supplier deliver on time?
-4. The figures ___ not reflect the latest forecast.
-5. ___ the company launched the service?
-6. The director ___ have the final authority.
-
-**Soluciones:** 1. *did*; 2. *do*; 3. *Did*; 4. *do*; 5. *Has*; 6. *does*.
-En la cuarta frase, *do not reflect* es una negación en presente, no énfasis.
-En la sexta, *have* es verbo principal con el sentido de poseer autoridad.
-
-Reescribe usando énfasis:
-
-1. We value your feedback.
-2. She completed the report.
-3. They understand the commercial risk.
-
-**Soluciones:** *We do value your feedback.* / *She did complete the report.* /
-*They do understand the commercial risk.* Usa el énfasis solo cuando aporta
-contraste o intención; si aparece en cada oración, pierde su efecto.
-
-## 5. Producción
-
-Escribe un breve correo en el que confirmes tres acciones de tu equipo, rechaces
-una interpretación incorrecta y respondas a una pregunta con una short answer.
-Incluye al menos una frase con **do/does/did**, una con **have**, otra con un
-modal y dos colocaciones de negocios. Después comprueba que cada auxiliar coincide
-con el tiempo verbal y el sujeto. En un contexto profesional, el énfasis debe
-sonar claro y seguro, no agresivo.
-
-### Mini-checklist
-
-Antes de enviar el correo, comprueba tres puntos: el auxiliar concuerda con el
-sujeto, el verbo posterior está en forma base y la short answer repite el
-auxiliar de la pregunta. Lee también el mensaje en voz alta: la sílaba tónica
-de **do**, **does** o **did** debe marcar el contraste que quieres comunicar.
-
-También conviene distinguir la cortesía del énfasis. *We do appreciate your
-help* suena agradecido y confirma una actitud; *We do need the figures today*
-marca una necesidad urgente. En una negociación, combina el auxiliar enfático
-con un conector prudente: *We do understand the concern; however, the evidence
-does not support that conclusion*. Así la estructura refuerza el argumento sin
-convertir el mensaje en una confrontación.
-
----
-
-**Siguiente unidad:** [U38 — Phrasal Verbs 5: Run, Set, Take + Leisure](/blog/curso-b2/unidad-38-phrasal-verbs-5-run-set-take-leisure)

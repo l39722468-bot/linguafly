@@ -3,7 +3,7 @@ category: curso-b2
 date: '2026-09-01'
 updatedDate: '2026-09-04'
 author: linguafly-team
-title: "Ejercicios de Phrasal Verbs RUN, SET y TAKE B2"
+title: "Phrasal Verbs RUN, SET y TAKE B2"
 description: >-
   Aprende run into/out of/through/by, set up/off/out/aside y take to/up/off/on en inglés B2 con Leisure extended: teoría, audio, ejemplos y ejercicios de...
 readTime: 62 min
@@ -25,6 +25,7 @@ canonical: 'https://linguafly.app/blog/curso-b2/unidad-38-phrasal-verbs-5-run-se
 image: /blog/curso-b2/unit-38/run-set-take-map.png
 alt: "Phrasal verbs RUN SET TAKE B2 con vocabulario de ocio"
 related_routes:
+  - unidad-38-phrasal-verbs-5-run-set-take-leisure-ejercicios-soluciones
   - unidad-37-auxiliaries-business
   - unidad-39-phrasal-verbs-6-turn-work-sport
   - ingles-b2
@@ -47,11 +48,12 @@ excerpt: >-
 
 ---
 
-## Parte II — Ejercicios
+> **Cuaderno de ejercicios (con soluciones):** [Ejercicios unidad 38 B2: Phrasal Verbs RUN, SET y TAKE B2
 
-Este articulo incluye tambien los **ejercicios de la Unidad 38** con soluciones comentadas. Haz cada bloque **sin mirar** la solucion. Luego comprueba y lee la explicacion.
+### Qué cubre la teoría
 
-Quien busca **run into run out of run through diferencias** o **set up set off set out set aside inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
+La explicación de la unidad está en los apartados siguientes. Los ejercicios resueltos están en el cuaderno.](/blog/curso-b2/unidad-38-phrasal-verbs-5-run-set-take-leisure-ejercicios-soluciones)
+
 
 ## 1. RUN: movimiento, suministro y comunicación
 
@@ -97,60 +99,3 @@ No confundas *run out* con *run out of*: *The battery ran out* no lleva objeto;
 mientras que *set out* suele añadir una intención. *Take off* no equivale siempre
 a “quitar”: *the plane took off* y *the business took off* tienen sentidos
 distintos.
-
-## 5. Práctica con soluciones
-
-Completa con **run**, **set** o **take** y la partícula adecuada:
-
-1. We need to ___ ___ the route before leaving.
-2. She ___ ___ swimming during the summer.
-3. Please ___ the issue ___ me before the meeting.
-4. The plane ___ ___ ten minutes late.
-5. They ___ ___ early to reach the lake.
-6. We ___ ___ ___ fuel near the village.
-
-**Soluciones:** 1. *run through*; 2. *took up*; 3. *run, by*; 4. *took off*;
-5. *set out*; 6. *ran out of*.
-
-Reescribe con pronombre cuando sea posible:
-
-1. Set up the tent.
-2. Take off your jacket.
-3. Run the plan by Alex.
-
-**Soluciones:** *Set it up.* / *Take it off.* / *Run it by Alex.* En *run it by
-Alex*, el pronombre va antes de la partícula; en *run into Alex* no podemos
-separar la expresión.
-
-## 6. Producción sobre ocio
-
-Escribe una entrada de diario de 120 palabras sobre una actividad nueva. Incluye
-al menos seis phrasal verbs de la unidad y explica una diferencia entre dos de
-ellos. Revisa si la partícula es separable, si el pronombre ocupa la posición
-correcta y si el tiempo verbal coincide con la secuencia narrativa.
-
-### Autoevaluación
-
-Clasifica estas expresiones según su campo: **run by**, **set aside**, **take on**,
-**run out of**, **set up** y **take to**. Después escribe una frase de viaje con
-cada una y transforma dos de ellas usando un pronombre. Las respuestas esperadas
-son comunicación u opinión, reservar, aceptar una responsabilidad, quedarse sin,
-organizar y empezar a disfrutar, respectivamente. Si una respuesta no encaja,
-revisa si confundiste una partícula con otra de la misma familia.
-
-Para memorizar el bloque, crea una historia con una secuencia temporal: primero
-**set out**, luego **run into** un problema, después **run the plan by** un
-compañero y finalmente **take on** una solución nueva. Añade un objeto concreto
-en cada frase y cambia una de ellas a pasado perfecto. El objetivo no es traducir
-cada palabra, sino reconocer la combinación completa cuando aparezca en un texto
-de viajes, ocio o trabajo.
-
-Incluye también una pregunta y una respuesta en tu historia para practicar
-**run by** en un contexto natural: *I ran the itinerary by Maya, and she took to
-the plan immediately*. Comprueba que el pronombre y la partícula permanecen en
-el orden correcto.
-
----
-
-**Siguiente unidad:** [U39 — Phrasal Verbs 6: Turn, Work + Sport](/blog/curso-b2/unidad-39-phrasal-verbs-6-turn-work-sport)
-

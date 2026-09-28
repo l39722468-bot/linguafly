@@ -278,7 +278,7 @@ const STATIC_HUBS: Record<string, { title: string; summary: string }> = {
   "/sobre-nosotros": {
     title: `Sobre ${SITE_BRAND_NAME}`,
     summary:
-      "Proyecto editorial independiente: artículos de idiomas, alimentación, entrenamiento e inteligencia artificial.",
+      "Guías para aprender inglés, noticias de actualidad sobre aprender inglés y un juego para practicar con otros estudiantes.",
   },
   "/contacto": {
     title: "Contacto",
