@@ -29,6 +29,7 @@ export function Navigation() {
           <div className="hidden items-center gap-6 md:flex">
             <Link href="/" className={linkClass}>Inicio</Link>
             <Link href="/blog/actualidad" className={linkClass}>Actualidad</Link>
+            <Link href="/mesas" className={linkClass}>Juego</Link>
             {NAV_VERTICALS.map((vertical) => (
               <Link key={vertical.slug} href={vertical.href} className={linkClass}>
                 {vertical.name}
@@ -61,6 +62,9 @@ export function Navigation() {
               <Link href="/" className={linkClass} onClick={closeMobileMenu}>Inicio</Link>
               <Link href="/blog/actualidad" className={linkClass} onClick={closeMobileMenu}>
                 🗞️ Actualidad
+              </Link>
+              <Link href="/mesas" className={linkClass} onClick={closeMobileMenu}>
+                Juego
               </Link>
               {NAV_VERTICALS.map((vertical) => (
                 <Link key={vertical.slug} href={vertical.href} className={linkClass} onClick={closeMobileMenu}>

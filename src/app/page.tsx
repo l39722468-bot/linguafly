@@ -33,12 +33,12 @@ export const metadata: Metadata = {
 };
 
 export default async function HomePage() {
-  const { articles, total } = await listPublisherHomeArticles(HOME_ARTICLE_LIMIT);
+  const { articles } = await listPublisherHomeArticles(HOME_ARTICLE_LIMIT);
 
   return (
     <>
       <Navigation />
-      <PublisherHome articles={articles} total={total} />
+      <PublisherHome articles={articles} />
       <Footer />
     </>
   );

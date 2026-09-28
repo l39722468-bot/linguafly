@@ -3,49 +3,18 @@ import { CompactHeadline } from "@/components/magazine/CompactHeadline";
 import { FeaturedStory } from "@/components/magazine/FeaturedStory";
 import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
 import { buildPublisherHome } from "@/lib/content/publisher-home";
-import { ENGLISH_LEARNING_SECTIONS, NAV_VERTICALS } from "@/lib/site-catalog";
+import { ENGLISH_LEARNING_SECTIONS } from "@/lib/site-catalog";
 import type { BlogPost } from "@/lib/blog";
 
 export function PublisherHome({
   articles,
-  total,
 }: {
   articles: BlogPost[];
-  total: number;
 }) {
   const model = buildPublisherHome(articles);
-  const inventoryLabel =
-    total > 0
-      ? `${new Intl.NumberFormat("es-ES").format(total)} artículos`
-      : "Guías prácticas";
 
   return (
     <main className="min-h-screen bg-cream-100">
-      <section className="border-b border-slate-200 bg-white">
-        <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-3 px-4 py-3 sm:px-6 lg:px-8">
-          <p className="text-[11px] font-black uppercase tracking-[0.22em] text-slate-500">
-            Revista · idiomas, hábitos e IA · {inventoryLabel}
-          </p>
-          <div className="flex flex-wrap items-center gap-3 text-xs font-bold">
-            {NAV_VERTICALS.map((vertical) => (
-              <Link
-                key={vertical.slug}
-                href={vertical.href}
-                className="text-slate-600 hover:text-coral-700"
-              >
-                {vertical.name}
-              </Link>
-            ))}
-            <Link href="/blog/actualidad" className="text-slate-600 hover:text-coral-700">
-              Actualidad
-            </Link>
-            <Link href="/feed.xml" className="text-coral-700 hover:text-coral-800">
-              RSS
-            </Link>
-          </div>
-        </div>
-      </section>
-
       {model.featured ? (
         <section className="px-4 py-8 sm:px-6 lg:px-8">
           <div className="mx-auto grid max-w-6xl gap-6 lg:grid-cols-12">
