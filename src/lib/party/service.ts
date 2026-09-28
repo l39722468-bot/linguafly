@@ -2,22 +2,19 @@ import {
   advance,
   cleanName,
   createTable,
-  isLobbyStale,
-  joinTable,
   leaveTable,
   makeCode,
   maybeAutoStart,
   pruneLobby,
   PartyError,
   rematch,
-  seatBots,
   startMatch,
   submitAnswer,
   toPublic,
   touchTable,
 } from "@/lib/party/engine";
 import type { PartyStore } from "@/lib/party/store";
-import { isPartyLevel, MAX_SEATS, type PartyLevel, type PublicTable, type TableState } from "@/lib/party/types";
+import { isPartyLevel, type PartyLevel, type PublicTable, type TableState } from "@/lib/party/types";
 
 export async function enterParty(store: PartyStore, input: {
   playerId: string;
@@ -28,40 +25,10 @@ export async function enterParty(store: PartyStore, input: {
 }): Promise<PublicTable> {
   const now = input.now ?? Date.now();
   const name = cleanName(input.name);
-  const code = input.code?.trim().toUpperCase();
-  if (code) {
-    const table = await store.getByCode(code);
-    if (!table) throw new PartyError("No hay ninguna mesa con ese código.", 404);
-    const opened = await withoutAbsentSeats(store, table, now, input.playerId);
-    if (!opened) throw new PartyError("No hay ninguna mesa con ese código.", 404);
-    const next = maybeAutoStart(seatBots(joinTable(opened, { playerId: input.playerId, name, now }), now), now);
-    await persist(store, opened, next);
-    return toPublic(next, input.playerId, now);
-  }
   if (!input.level || !isPartyLevel(input.level)) {
     throw new PartyError("Elige un nivel: A1, A2, B1, B2 o C1.");
   }
-  const level: PartyLevel = input.level;
-  const lobbies = await store.listLobbies(level);
-  const open = lobbies
-    .filter((table) => !isLobbyStale(table, now) && humanCount(table) < MAX_SEATS)
-    .sort((a, b) => humanCount(b) - humanCount(a) || a.updatedAt - b.updatedAt);
-  for (const table of open) {
-    for (let attempt = 0; attempt < 3; attempt += 1) {
-      const fresh = await store.get(table.id);
-      if (!fresh || fresh.phase !== "lobby") break;
-      const opened = await withoutAbsentSeats(store, fresh, now, input.playerId);
-      if (!opened || humanCount(opened) >= MAX_SEATS) break;
-      try {
-        const next = maybeAutoStart(seatBots(joinTable(opened, { playerId: input.playerId, name, now }), now), now);
-        if (await persist(store, opened, next)) return toPublic(next, input.playerId, now);
-      } catch (error) {
-        if (error instanceof PartyError && error.status === 409) break;
-        throw error;
-      }
-    }
-  }
-  const created = await insertFresh(store, level, input.playerId, name, now);
+  const created = await insertFresh(store, input.level, input.playerId, name, now);
   return toPublic(created, input.playerId, now);
 }
 
@@ -74,7 +41,7 @@ export async function readParty(
   const table = await requireTable(store, tableId);
   const opened = await withoutAbsentSeats(store, table, now, playerId);
   if (!opened) throw new PartyError("Esta mesa ya no existe.", 404);
-  const filled = maybeAutoStart(seatBots(opened, now), now);
+  const filled = maybeAutoStart(opened, now);
   const next = touchTable(filled, playerId, now);
   await persist(store, opened, next);
   if (!next.seats.some((seat) => seat.playerId === playerId)) {
@@ -89,7 +56,7 @@ export async function startParty(
   playerId: string,
   now = Date.now(),
 ): Promise<PublicTable> {
-  return mutate(store, tableId, playerId, now, (state) => startMatch(seatBots(state, now), playerId, now));
+  return mutate(store, tableId, playerId, now, (state) => startMatch(state, playerId, now));
 }
 
 export async function answerParty(
@@ -110,7 +77,7 @@ export async function rematchParty(
   playerId: string,
   now = Date.now(),
 ): Promise<PublicTable> {
-  return mutate(store, tableId, playerId, now, (state) => seatBots(rematch(state, playerId, now), now));
+  return mutate(store, tableId, playerId, now, (state) => rematch(state, playerId, now));
 }
 
 export async function leaveParty(
@@ -179,7 +146,7 @@ async function insertFresh(
   for (let attempt = 0; attempt < 6; attempt += 1) {
     const code = makeCode();
     if (await store.getByCode(code)) continue;
-    const table = seatBots(
+    const table = startMatch(
       createTable({
         id: crypto.randomUUID(),
         code,
@@ -188,6 +155,7 @@ async function insertFresh(
         name: cleanName(name),
         now,
       }),
+      playerId,
       now,
     );
     try {
@@ -198,10 +166,6 @@ async function insertFresh(
     }
   }
   throw new PartyError("No se ha podido abrir la mesa.", 503);
-}
-
-function humanCount(state: TableState): number {
-  return state.seats.filter((seat) => !seat.bot).length;
 }
 
 async function requireTable(store: PartyStore, tableId: string): Promise<TableState> {

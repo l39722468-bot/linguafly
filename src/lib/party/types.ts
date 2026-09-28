@@ -3,15 +3,13 @@ export const PARTY_LEVELS = ["A1", "A2", "B1", "B2", "C1"] as const;
 export type PartyLevel = (typeof PARTY_LEVELS)[number];
 
 export const MAX_SEATS = 8;
-/** Con poca gente, la mesa se completa hasta este número. */
-export const TABLE_SIZE = 4;
-/** Ejercicios que responde cada persona en la partida. */
+/** Ejercicios que responde la persona que entra. */
 export const EXERCISES_PER_PLAYER = 8;
 export const TURN_MS = 20_000;
 export const REVEAL_MS = 4_000;
 export const LOBBY_STALE_MS = 90_000;
 export const LOBBY_SEAT_MS = 12_000;
-/** Margen para que otra persona del mismo nivel ocupe un sitio antes de empezar. */
+/** Si la mesa sigue en espera, arranca sola al cumplirse este margen. */
 export const LOBBY_WAIT_MS = 3_000;
 
 export type PartyPhase = "lobby" | "turn" | "reveal" | "ranking";

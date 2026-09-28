@@ -6,7 +6,6 @@ import {
   EXERCISES_PER_PLAYER,
   MAX_SEATS,
   REVEAL_MS,
-  TABLE_SIZE,
   TURN_MS,
   type PartyLevel,
   type PublicTable,
@@ -14,8 +13,6 @@ import {
   type TableState,
   type TurnResult,
 } from "@/lib/party/types";
-
-const BOT_NAMES = ["Lucía", "Mateo", "Sofía", "Hugo", "Nora", "Leo", "Aina", "Pablo"];
 
 const SEAT_COLORS = [
   "#FF6B6B",
@@ -91,52 +88,8 @@ export function pruneLobby(state: TableState, now: number, keepPlayerId?: string
     (seat) => !seat.bot && (seat.playerId === keepPlayerId || now - seat.lastSeen <= LOBBY_SEAT_MS),
   );
   if (humans.length === 0) return null;
-  const bots = state.seats.filter((seat) => seat.bot);
-  const seats = [...humans, ...bots];
-  if (sameSeatIds(seats, state.seats)) return state;
-  return commit(state, { seats, hostId: hostAmong(seats, state.hostId) }, now);
-}
-
-export function seatBots(state: TableState, now: number): TableState {
-  if (state.phase !== "lobby") return state;
-  const humans = state.seats.filter((seat) => !seat.bot);
-  if (humans.length === 0) return state;
-  const needed = humans.length >= TABLE_SIZE ? 0 : TABLE_SIZE - humans.length;
-  const kept = state.seats.filter((seat) => seat.bot).slice(0, needed);
-  const taken = new Set([...humans, ...kept].map((seat) => seat.name.toLowerCase()));
-  const bots = [...kept];
-  let slot = 1;
-  while (bots.length < needed && slot < 20) {
-    const id = `p${state.code}${slot}k9m2`;
-    slot += 1;
-    if (bots.some((seat) => seat.playerId === id) || humans.some((seat) => seat.playerId === id)) continue;
-    const base = BOT_NAMES[(slot - 2) % BOT_NAMES.length] ?? "Leo";
-    let name = base;
-    let n = 2;
-    while (taken.has(name.toLowerCase())) {
-      name = `${base.slice(0, 13)} ${n}`;
-      n += 1;
-    }
-    taken.add(name.toLowerCase());
-    bots.push({
-      playerId: id,
-      name,
-      color: SEAT_COLORS[(humans.length + bots.length) % SEAT_COLORS.length],
-      score: 0,
-      hits: 0,
-      connected: true,
-      lastSeen: now,
-      bot: true,
-    });
-  }
-  const seats = [...humans, ...bots].map((seat, index) => ({
-    ...seat,
-    color: SEAT_COLORS[index % SEAT_COLORS.length],
-  }));
-  if (sameSeatIds(seats, state.seats) && seats.every((seat, index) => seat.color === state.seats[index]?.color)) {
-    return state;
-  }
-  return commit(state, { seats, hostId: hostAmong(seats, state.hostId) }, now);
+  if (sameSeatIds(humans, state.seats)) return state;
+  return commit(state, { seats: humans, hostId: hostAmong(humans, state.hostId) }, now);
 }
 
 export function joinTable(
@@ -172,7 +125,7 @@ export function leaveTable(
   if (state.phase === "lobby") {
     const humans = state.seats.filter((item) => item.playerId !== playerId && !item.bot);
     if (humans.length === 0) return null;
-    return seatBots(commit(state, { seats: humans, hostId: hostAmong(humans, state.hostId) }, now), now);
+    return commit(state, { seats: humans, hostId: hostAmong(humans, state.hostId) }, now);
   }
   let next = touchSeat(state, playerId, now, false);
   if (activePlayerId(next) === playerId && next.phase === "turn") {
@@ -182,11 +135,12 @@ export function leaveTable(
 }
 
 export function maybeAutoStart(state: TableState, now: number, random: () => number = Math.random): TableState {
-  if (state.phase !== "lobby") return state;
-  const due = state.autoStartAt ?? now;
-  if (now < due) return state;
-  if (!state.seats.some((seat) => !seat.bot)) return state;
-  return beginMatch(state, now, random);
+  const ready = withoutBots(state, now);
+  if (ready.phase !== "lobby") return ready;
+  const due = ready.autoStartAt ?? now;
+  if (now < due) return ready;
+  if (!ready.seats.some((seat) => !seat.bot)) return ready;
+  return beginMatch(ready, now, random);
 }
 
 export function startMatch(
@@ -195,10 +149,11 @@ export function startMatch(
   now: number,
   random: () => number = Math.random,
 ): TableState {
-  if (state.phase !== "lobby") throw new PartyError("La partida ya ha empezado.");
-  const human = state.seats.find((seat) => seat.playerId === playerId && !seat.bot);
+  const ready = withoutBots(state, now);
+  if (ready.phase !== "lobby") throw new PartyError("La partida ya ha empezado.");
+  const human = ready.seats.find((seat) => seat.playerId === playerId && !seat.bot);
   if (!human) throw new PartyError("Solo quien está sentado puede empezar.", 403);
-  return beginMatch(state, now, random);
+  return beginMatch(ready, now, random);
 }
 
 function beginMatch(state: TableState, now: number, random: () => number): TableState {
@@ -248,35 +203,36 @@ export function submitAnswer(
   );
 }
 
-export function rematch(state: TableState, playerId: string, now: number): TableState {
+export function rematch(
+  state: TableState,
+  playerId: string,
+  now: number,
+  random: () => number = Math.random,
+): TableState {
   if (state.phase !== "ranking") throw new PartyError("La partida todavía no ha terminado.");
   const human = state.seats.find((seat) => seat.playerId === playerId && !seat.bot);
   if (!human) throw new PartyError("Solo quien está sentado puede repetir.", 403);
-  const seats = state.seats
-    .filter((seat) => seat.connected)
-    .map((seat) => ({ ...seat, score: 0, hits: 0 }));
-  if (seats.length === 0) throw new PartyError("No queda nadie en la mesa.");
-  const hostId = hostAmong(seats, state.hostId);
-  return commit(
+  const reset = commit(
     state,
     {
       phase: "lobby",
-      hostId,
-      seats,
+      hostId: playerId,
+      seats: [{ ...human, score: 0, hits: 0, connected: true, bot: false }],
       order: [],
       exercises: [],
       turnIndex: 0,
-      autoStartAt: now + LOBBY_WAIT_MS,
+      autoStartAt: null,
       turnEndsAt: null,
       revealEndsAt: null,
       lastResult: null,
     },
     now,
   );
+  return beginMatch(reset, now, random);
 }
 
 export function advance(state: TableState, now: number): TableState {
-  let current = state;
+  let current = withoutBots(state, now);
   for (let step = 0; step < 12; step += 1) {
     const next = advanceOnce(current, now);
     if (next === current) return current;
@@ -287,14 +243,6 @@ export function advance(state: TableState, now: number): TableState {
 
 function advanceOnce(state: TableState, now: number): TableState {
   if (state.phase === "turn" && state.turnEndsAt !== null) {
-    const playerId = activePlayerId(state);
-    const seat = state.seats.find((item) => item.playerId === playerId);
-    if (seat?.bot) {
-      const answerAt = state.turnEndsAt - TURN_MS + botDelay(seat.playerId, state.turnIndex);
-      if (now >= answerAt) {
-        return resolveTurn(state, botOutcome(state, seat.playerId), answerAt);
-      }
-    }
     if (now >= state.turnEndsAt) {
       return resolveTurn(state, { correct: false, timedOut: true, chosenIndex: null }, now);
     }
@@ -319,28 +267,40 @@ function advanceOnce(state: TableState, now: number): TableState {
   return state;
 }
 
-function botDelay(playerId: string, turnIndex: number): number {
-  return 2_500 + (botHash(`${playerId}:${turnIndex}`) % 5_000);
-}
-
-function botOutcome(
-  state: TableState,
-  playerId: string,
-): { correct: boolean; timedOut: boolean; chosenIndex: number | null } {
-  const exercise = state.exercises[state.turnIndex];
-  const roll = botHash(`${playerId}:${state.turnIndex}:pick`);
-  const correct = roll % 10 < 7;
-  if (!exercise) return { correct: false, timedOut: true, chosenIndex: null };
-  if (correct) return { correct: true, timedOut: false, chosenIndex: exercise.correctIndex };
-  const offset = (roll % Math.max(1, exercise.options.length - 1)) + 1;
-  const chosenIndex = (exercise.correctIndex + offset) % exercise.options.length;
-  return { correct: false, timedOut: false, chosenIndex };
-}
-
-function botHash(value: string): number {
-  let hash = 0;
-  for (let i = 0; i < value.length; i += 1) hash = (hash * 33 + value.charCodeAt(i)) >>> 0;
-  return hash;
+export function withoutBots(state: TableState, now: number): TableState {
+  if (!state.seats.some((seat) => seat.bot)) return state;
+  const seats = state.seats.filter((seat) => !seat.bot);
+  if (seats.length === 0) return state;
+  const humanIds = new Set(seats.map((seat) => seat.playerId));
+  if (state.order.length === 0) {
+    return commit(state, { seats, hostId: hostAmong(seats, state.hostId) }, now);
+  }
+  const keptIndexes = state.order
+    .map((id, index) => (humanIds.has(id) ? index : -1))
+    .filter((index) => index >= 0);
+  const order = keptIndexes.map((index) => state.order[index]);
+  const exercises = keptIndexes
+    .map((index) => state.exercises[index])
+    .filter((item): item is TableState["exercises"][number] => Boolean(item));
+  const played = state.order.slice(0, state.turnIndex).filter((id) => humanIds.has(id)).length;
+  const onBotTurn = state.phase === "turn" && !humanIds.has(state.order[state.turnIndex] ?? "");
+  const lastWasBot = Boolean(state.lastResult && !humanIds.has(state.lastResult.playerId));
+  const resumeHuman = (onBotTurn || lastWasBot) && state.phase !== "ranking";
+  return commit(
+    state,
+    {
+      seats,
+      order,
+      exercises,
+      turnIndex: state.phase === "ranking" ? order.length : Math.min(played, Math.max(order.length - 1, 0)),
+      hostId: hostAmong(seats, state.hostId),
+      phase: resumeHuman ? "turn" : state.phase,
+      lastResult: lastWasBot ? null : state.lastResult,
+      revealEndsAt: resumeHuman ? null : state.revealEndsAt,
+      turnEndsAt: resumeHuman ? now + TURN_MS : state.turnEndsAt,
+    },
+    now,
+  );
 }
 
 export function touchTable(state: TableState, playerId: string, now: number): TableState {

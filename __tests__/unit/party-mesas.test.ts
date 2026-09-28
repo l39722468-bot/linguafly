@@ -5,14 +5,14 @@ import {
   joinTable,
   leaveTable,
   pruneLobby,
-  seatBots,
+  rematch,
   startMatch,
   submitAnswer,
   toPublic,
 } from "@/lib/party/engine";
-import { answerParty, enterParty, readParty, startParty } from "@/lib/party/service";
+import { answerParty, enterParty, readParty } from "@/lib/party/service";
 import { clearPartyMemory, memoryPartyStore } from "@/lib/party/store";
-import { EXERCISES_PER_PLAYER, LOBBY_WAIT_MS, MAX_SEATS, REVEAL_MS, TURN_MS } from "@/lib/party/types";
+import { EXERCISES_PER_PLAYER, MAX_SEATS, REVEAL_MS, TURN_MS } from "@/lib/party/types";
 import type { TableState } from "@/lib/party/types";
 import { getParkedPageRedirect, isPublicSitePath } from "@/lib/site-catalog";
 
@@ -116,43 +116,40 @@ describe("mesas de inglés", () => {
     expect(left?.phase).toBe("turn");
   });
 
-  it("seats the next person of the same level at the open table", async () => {
+  it("opens a private match for the person who enters", async () => {
     const store = memoryPartyStore();
     const first = await enterParty(store, { playerId: "player-ana1", name: "Ana", level: "B1", now: NOW });
-    const second = await enterParty(store, { playerId: "player-luis1", name: "Luis", level: "B1", now: NOW });
-    expect(second.id).toBe(first.id);
-    const seated = await store.get(second.id);
-    expect(seated?.seats.filter((seat) => !seat.bot).map((seat) => seat.name)).toEqual(["Ana", "Luis"]);
-    expect(seated?.seats.filter((seat) => seat.bot)).toHaveLength(2);
-    expect(second.activityCount).toBe(4 * EXERCISES_PER_PLAYER);
-    expect(JSON.stringify(second)).not.toMatch(/isBot|automático|bot-/);
+    expect(first.phase).toBe("turn");
+    expect(first.yourTurn).toBe(true);
+    expect(first.activityCount).toBe(EXERCISES_PER_PLAYER);
+    expect(first.seats.map((seat) => seat.name)).toEqual(["Ana"]);
+    expect(first.seats[0]?.isYou).toBe(true);
+    const seated = await store.get(first.id);
+    expect(seated?.seats).toHaveLength(1);
+    expect(seated?.seats.every((seat) => !seat.bot)).toBe(true);
 
-    const otherLevel = await enterParty(store, {
-      playerId: "player-marta",
-      name: "Marta",
-      level: "C1",
-      now: NOW,
-    });
-    expect(otherLevel.id).not.toBe(first.id);
-    expect(otherLevel.level).toBe("C1");
+    const second = await enterParty(store, { playerId: "player-luis1", name: "Luis", level: "B1", now: NOW });
+    expect(second.id).not.toBe(first.id);
+    expect(second.seats.map((seat) => seat.name)).toEqual(["Luis"]);
+    expect(second.activityCount).toBe(EXERCISES_PER_PLAYER);
+    expect((await store.get(first.id))?.seats.map((seat) => seat.name)).toEqual(["Ana"]);
   });
 
-  it("plays one activity per seat and then shows the ranking", async () => {
+  it("gives every exercise to the only player", async () => {
     const store = memoryPartyStore();
     const host = await enterParty(store, { playerId: "player-host", name: "Nuria", level: "A2", now: NOW });
-    await enterParty(store, { playerId: "player-guest", name: "Iker", level: "A2", now: NOW });
-    let table = await startParty(store, host.id, "player-host", NOW);
-    expect(table.activityCount).toBe(4 * EXERCISES_PER_PLAYER);
-    expect((await store.get(host.id))?.seats.filter((seat) => seat.bot)).toHaveLength(2);
-    expect(table.phase).toBe("turn");
+    expect(host.phase).toBe("turn");
+    expect(host.activityCount).toBe(EXERCISES_PER_PLAYER);
+    expect((await store.get(host.id))?.seats).toHaveLength(1);
 
     const privateState = await store.get(host.id);
     const firstCorrect = privateState?.exercises[0].correctIndex ?? 0;
-    table = await answerParty(store, host.id, "player-host", firstCorrect, NOW + 1_000);
+    let table = await answerParty(store, host.id, "player-host", firstCorrect, NOW + 1_000);
     expect(table.phase).toBe("reveal");
-    table = await readParty(store, host.id, "player-guest", NOW + 1_000 + REVEAL_MS);
+    table = await readParty(store, host.id, "player-host", NOW + 1_000 + REVEAL_MS);
     expect(table.yourTurn).toBe(true);
     expect(table.turnIndex).toBe(1);
+    expect(table.seats).toHaveLength(1);
   });
 
   it("frees a lobby seat when that person stops responding", () => {
@@ -187,105 +184,43 @@ describe("mesas de inglés", () => {
     );
   });
 
-  it("fills a solo table with bots and lets the next bot answer on its own", () => {
-    let state = seatBots(tableWith(["Ana"]), NOW);
-    expect(state.seats.map((seat) => seat.bot)).toEqual([false, true, true, true]);
-    expect(state.hostId).toBe("player-1");
-    state = startMatch(state, "player-1", NOW, () => 0.2);
-    state = submitAnswer(state, {
-      playerId: "player-1",
-      optionIndex: state.exercises[0].correctIndex,
-      now: NOW + 1_000,
-    });
-    const botTurn = advance(state, state.revealEndsAt ?? NOW);
-    expect(botTurn.phase).toBe("turn");
-    const botId = botTurn.order[botTurn.turnIndex];
-    expect(botTurn.seats.find((seat) => seat.playerId === botId)?.bot).toBe(true);
-    expect(botId.includes("bot")).toBe(false);
-    const turnStart = (botTurn.turnEndsAt ?? NOW) - TURN_MS;
-    expect(advance(botTurn, turnStart).phase).toBe("turn");
-    expect(() => submitAnswer(botTurn, { playerId: botId, optionIndex: 0, now: turnStart + 100 })).toThrow(
-      "Este ejercicio le toca a otra persona.",
-    );
-
-    let caught = false;
-    for (let t = turnStart; t < (botTurn.turnEndsAt ?? turnStart); t += 250) {
-      const next = advance(botTurn, t);
-      if (next.phase === "reveal" && next.lastResult?.playerId === botId) {
-        expect(next.lastResult?.timedOut).toBe(false);
-        expect(next.lastResult?.chosenIndex).not.toBeNull();
-        caught = true;
-        break;
-      }
-    }
-    expect(caught).toBe(true);
+  it("drops leftover automatic seats and keeps the player's exercises", () => {
+    const started = startMatch(tableWith(["Ana"]), "player-1", NOW, () => 0.2);
+    const withBot = {
+      ...started,
+      seats: [
+        ...started.seats,
+        {
+          playerId: "pAB121k9m2",
+          name: "Lucía",
+          color: "#FFA06B",
+          score: 0,
+          hits: 0,
+          connected: true,
+          lastSeen: NOW,
+          bot: true,
+        },
+      ],
+      order: started.order.flatMap((id) => [id, "pAB121k9m2"]),
+      exercises: [...started.exercises, ...started.exercises],
+    };
+    const cleaned = advance(withBot, NOW);
+    expect(cleaned.seats.map((seat) => seat.playerId)).toEqual(["player-1"]);
+    expect(cleaned.order.every((id) => id === "player-1")).toBe(true);
+    expect(cleaned.order).toHaveLength(EXERCISES_PER_PLAYER);
+    expect(cleaned.phase).toBe("turn");
+    expect(cleaned.exercises).toHaveLength(EXERCISES_PER_PLAYER);
   });
 
-  it("drops bots once four people are sitting and prefers the fuller table", async () => {
-    const store = memoryPartyStore();
-    let busy = createTable({
-      id: "mesa-busy",
-      code: "BUSY",
-      level: "A1",
-      playerId: "player-b1",
-      name: "Luis",
-      now: NOW,
-    });
-    busy = joinTable(busy, { playerId: "player-b2", name: "Marta", now: NOW });
-    busy = seatBots(busy, NOW);
-    const quiet = seatBots(
-      createTable({
-        id: "mesa-quiet",
-        code: "QUIET",
-        level: "A1",
-        playerId: "player-q1",
-        name: "Ana",
-        now: NOW + 1,
-      }),
-      NOW + 1,
-    );
-    await store.insert(busy);
-    await store.insert(quiet);
-
-    const third = await enterParty(store, { playerId: "player-b3", name: "Iker", level: "A1", now: NOW + 2 });
-    expect(third.id).toBe("mesa-busy");
-    const thirdPrivate = await store.get(third.id);
-    expect(thirdPrivate?.seats.filter((seat) => !seat.bot)).toHaveLength(3);
-    expect(thirdPrivate?.seats.filter((seat) => seat.bot)).toHaveLength(1);
-    expect(JSON.stringify(third)).not.toMatch(/isBot|automático|bot-/);
-
-    const fourth = await enterParty(store, { playerId: "player-b4", name: "Nora", level: "A1", now: NOW + 3 });
-    expect(fourth.seats).toHaveLength(4);
-    expect((await store.get(fourth.id))?.seats.every((seat) => !seat.bot)).toBe(true);
-
-    const fifth = await enterParty(store, { playerId: "player-b5", name: "Leo", level: "A1", now: NOW + 4 });
-    expect(fifth.id).toBe("mesa-busy");
-    expect(fifth.seats).toHaveLength(5);
-    expect((await store.get(fifth.id))?.seats.every((seat) => !seat.bot)).toBe(true);
-  });
-
-  it("waits so another person can sit, then starts for anyone at the table", async () => {
-    const store = memoryPartyStore();
-    const host = await enterParty(store, { playerId: "player-host", name: "Nuria", level: "C1", now: NOW });
-    expect(host.phase).toBe("lobby");
-    expect(host.startsAt).toBe(NOW + LOBBY_WAIT_MS);
-
-    const guest = await enterParty(store, { playerId: "player-guest", name: "Iker", level: "C1", now: NOW + 2_000 });
-    expect(guest.id).toBe(host.id);
-    expect(guest.phase).toBe("lobby");
-    expect(guest.startsAt).toBe(NOW + 2_000 + LOBBY_WAIT_MS);
-
-    const stillOpen = await readParty(store, host.id, "player-host", NOW + LOBBY_WAIT_MS);
-    expect(stillOpen.phase).toBe("lobby");
-
-    const startedByGuest = await startParty(store, host.id, "player-guest", NOW + 2_500);
-    expect(startedByGuest.phase).toBe("turn");
-    expect(startedByGuest.yourTurn).toBe(false);
-
-    const alone = await enterParty(store, { playerId: "player-solo", name: "Alba", level: "B2", now: NOW });
-    const playing = await readParty(store, alone.id, "player-solo", NOW + LOBBY_WAIT_MS);
-    expect(playing.phase).toBe("turn");
-    expect(playing.yourTurn).toBe(true);
+  it("starts again for the same player only", () => {
+    let state = startMatch(tableWith(["Ana", "Luis"]), "player-1", NOW, () => 0.2);
+    state = playOut(state);
+    expect(state.phase).toBe("ranking");
+    const again = rematch(state, "player-1", NOW + 10_000, () => 0.4);
+    expect(again.phase).toBe("turn");
+    expect(again.seats.map((seat) => seat.name)).toEqual(["Ana"]);
+    expect(again.order).toHaveLength(EXERCISES_PER_PLAYER);
+    expect(again.seats.every((seat) => !seat.bot)).toBe(true);
   });
 
   it("keeps a correct option inside every dealt exercise", () => {

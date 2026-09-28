@@ -247,10 +247,10 @@ function Gate(props: {
           <span className="block text-coral-300">Entra.</span>
         </h1>
         <p className="mt-5 max-w-xl text-lg text-white/80">
-          Escribes tu nombre, eliges el nivel y te sentamos donde haya sitio. Cada persona responde {EXERCISES_PER_PLAYER} ejercicios. Al final sale el ranking.
+          Escribes tu nombre, eliges el nivel y juegas tú solo. Te tocan {EXERCISES_PER_PLAYER} ejercicios. Al final ves tu resultado.
         </p>
         <ol className="mt-6 grid gap-3 sm:grid-cols-3">
-          {["Elige tu nivel", "Escribe tu nombre", "Entras en la mesa"].map((step, index) => (
+          {["Elige tu nivel", "Escribe tu nombre", "Juegas tú solo"].map((step, index) => (
             <li key={step} className="rounded-2xl bg-white/10 px-4 py-3 text-sm font-bold">
               <span className="mr-2 text-coral-300">{index + 1}</span>
               {step}
@@ -316,8 +316,8 @@ function Lobby(props: { table: PublicTable; pending: boolean; secondsToStart: nu
       <p className="text-sm font-black uppercase tracking-[0.18em] text-peach-200">Nivel {table.level}</p>
       <h1 className="font-heading text-4xl font-black sm:text-5xl">Ya estás sentado</h1>
       <p className="mt-2 max-w-xl text-white/80">
-        Si entra alguien más de tu nivel, se sienta contigo. Si no, la partida empieza
-        {props.secondsToStart > 0 ? ` en ${props.secondsToStart} s` : " ahora"}. Tocan {EXERCISES_PER_PLAYER} ejercicios por persona.
+        La partida es solo tuya: {EXERCISES_PER_PLAYER} ejercicios de tu nivel.
+        {props.secondsToStart > 0 ? ` Empieza en ${props.secondsToStart} s.` : " Puedes empezarla ahora."}
       </p>
       <SeatRail table={table} />
       <div className="mt-8">
