@@ -47,6 +47,7 @@ export default function MesasClient() {
       { cache: "no-store" },
     );
     const body = (await response.json()) as { table?: PublicTable; error?: string };
+    if (window.sessionStorage.getItem("linguafly-mesa-table") !== tableId) return;
     if (!response.ok || !body.table) {
       window.sessionStorage.removeItem("linguafly-mesa-table");
       setTable(null);
@@ -120,19 +121,20 @@ export default function MesasClient() {
   async function exitGame(destination: "site" | "home") {
     setPending(true);
     setError("");
+    const tableId = table?.id;
+    window.sessionStorage.removeItem("linguafly-mesa-table");
+    setTable(null);
     try {
-      if (table?.id && playerId) {
+      if (tableId && playerId) {
         await fetch("/api/mesas", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ action: "leave", playerId, tableId: table.id }),
+          body: JSON.stringify({ action: "leave", playerId, tableId }),
         });
       }
     } catch {
       setError("Sin conexión con la mesa.");
     }
-    window.sessionStorage.removeItem("linguafly-mesa-table");
-    setTable(null);
     setPending(false);
     if (destination === "site") {
       window.location.assign("/");
