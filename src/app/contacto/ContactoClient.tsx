@@ -14,11 +14,11 @@ export default function ContactPage() {
             Escríbenos por correo
           </h1>
           <p className="mt-4 text-lg text-slate-600">
-            La única forma de contactar con Linguafly es un correo a{" "}
+            Puedes ponerte en contacto con el equipo a través de{" "}
             <a href={`mailto:${CONTACT_EMAIL}`} className="font-bold text-coral-600">
               {CONTACT_EMAIL}
             </a>
-            . De momento no hay redes sociales, teléfono ni WhatsApp.
+            .
           </p>
         </section>
 

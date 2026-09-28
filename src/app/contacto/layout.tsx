@@ -4,7 +4,7 @@ import { CONTACT_EMAIL } from "@/lib/site-brand";
 
 export const metadata: Metadata = {
   title: "Contacto: escribe a Linguafly por correo",
-  description: `La única forma de contacto es un correo a ${CONTACT_EMAIL}. De momento no hay redes sociales.`,
+  description: `Puedes ponerte en contacto con el equipo a través de ${CONTACT_EMAIL}.`,
   alternates: canonicalAlternates("/contacto"),
 };
 

@@ -247,8 +247,8 @@ export default async function SobreNosotrosPage() {
           <section className="bg-white rounded-3xl border border-slate-100 shadow-sm p-8 lg:p-10 mb-12">
             <h2 className="font-display text-2xl font-black text-slate-900 mb-4">Contacto</h2>
             <p className="text-slate-700 leading-relaxed mb-6">
-              ¿Has detectado un error, quieres proponer un tema o necesitas citarnos? Escríbenos
-              a {CONTACT_EMAIL}. De momento no hay redes sociales.
+              ¿Has detectado un error, quieres proponer un tema o necesitas citarnos? Puedes
+              ponerte en contacto con el equipo a través de {CONTACT_EMAIL}.
             </p>
             <Link
               href="/contacto"
