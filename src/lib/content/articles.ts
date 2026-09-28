@@ -6,12 +6,17 @@ import {
   type BlogPost,
 } from "@/lib/blog";
 import { getTheoryWorkbookPeerSlug, normalizeCategory } from "@/lib/blog-paths";
+import { compareCourseUnitArticles } from "@/lib/content/course-unit-order";
 import {
   DatabaseClient,
   type ArticleSearchResult,
   resolveCloudflareEnv,
 } from "@/lib/db/client";
-import { PUBLIC_ARTICLE_CATEGORIES, isPublicArticleCategory } from "@/lib/site-catalog";
+import {
+  PUBLIC_ARTICLE_CATEGORIES,
+  isEnglishLevelCategory,
+  isPublicArticleCategory,
+} from "@/lib/site-catalog";
 import { articleRecordToBlogPost } from "@/lib/content/map-article";
 import {
   ARTICLES_PER_PAGE,
@@ -59,6 +64,10 @@ function resolveListCategories(options: {
   return null;
 }
 
+function usesCourseUnitOrder(categories: string[] | null): boolean {
+  return Boolean(categories?.length === 1 && isEnglishLevelCategory(categories[0]));
+}
+
 function listPublishedArticlesFromMarkdown(options: {
   page: number;
   limit: number;
@@ -74,6 +83,9 @@ function listPublishedArticlesFromMarkdown(options: {
   }
   if (options.author) {
     articles = articles.filter((article) => article.author === options.author);
+  }
+  if (usesCourseUnitOrder(options.categories)) {
+    articles = articles.slice().sort(compareCourseUnitArticles);
   }
   const total = articles.length;
   const start = (options.page - 1) * options.limit;
@@ -106,6 +118,7 @@ export async function listPublishedArticles(options: {
       limit,
       categories: categories ?? PUBLIC_CATEGORIES,
       author: options.author,
+      order: usesCourseUnitOrder(categories) ? "course-units" : "recent",
     });
 
     return {

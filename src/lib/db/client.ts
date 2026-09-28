@@ -11,6 +11,7 @@
  * bodies in the Worker bundle.
  */
 
+import { compareCourseUnitArticles } from "@/lib/content/course-unit-order";
 import { articleContentHash } from "@/lib/db/article-hash";
 import { getArticleOgImagePath } from "@/lib/seo/og-images";
 
@@ -95,6 +96,8 @@ export interface ArticleListFilter {
   category?: string;
   categories?: string[];
   author?: string;
+  /** Course hubs: unit 1 theory, unit 1 exercises, unit 2 theory, … */
+  order?: "recent" | "course-units";
 }
 
 export interface SitemapArticleEntry {
@@ -404,11 +407,33 @@ class DatabaseClient {
     const authorSql = filter.author ? " AND author = ?" : "";
     const authorBindings: (string | number)[] = filter.author ? [filter.author] : [];
 
-    const cacheKey = `articles:page:${safePage}:limit:${safeLimit}:cat:${(categories ?? []).join(",")}:author:${filter.author ?? ""}`;
+    const order = filter.order === "course-units" ? "course-units" : "recent";
+    const cacheKey = `articles:page:${safePage}:limit:${safeLimit}:order:${order}:cat:${(categories ?? []).join(",")}:author:${filter.author ?? ""}`;
     const cached = await this.cacheGet<ArticleListResult>(cacheKey);
     if (cached) return cached;
 
     const where = `WHERE is_published = 1${categorySql}${authorSql}`;
+    if (order === "course-units") {
+      const { results } = await this.env.DB.prepare(
+        `SELECT ${ARTICLE_LIST_COLUMNS} FROM articles ${where}`
+      )
+        .bind(...categoryBindings, ...authorBindings)
+        .all();
+      const sorted = ((results || []) as unknown as ArticleRecord[])
+        .slice()
+        .sort(compareCourseUnitArticles);
+      const total = sorted.length;
+      const result: ArticleListResult = {
+        articles: sorted.slice(offset, offset + safeLimit),
+        total,
+        page: safePage,
+        limit: safeLimit,
+        pages: total > 0 ? Math.ceil(total / safeLimit) : 0,
+      };
+      this.cachePut(cacheKey, result, LIST_CACHE_TTL_SECONDS);
+      return result;
+    }
+
     const [{ results }, count] = await Promise.all([
       this.env.DB.prepare(
         `SELECT ${ARTICLE_LIST_COLUMNS} FROM articles ${where} ORDER BY featured DESC, created_at DESC LIMIT ? OFFSET ?`
