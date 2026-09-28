@@ -12,7 +12,7 @@ import {
   ShieldCheck,
   Users,
 } from "lucide-react";
-import { SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
+import { CONTACT_EMAIL, SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 import { llmMarkdownAlternates } from "@/lib/seo/canonical";
 
 export const dynamic = "force-dynamic";
@@ -248,13 +248,13 @@ export default async function SobreNosotrosPage() {
             <h2 className="font-display text-2xl font-black text-slate-900 mb-4">Contacto</h2>
             <p className="text-slate-700 leading-relaxed mb-6">
               ¿Has detectado un error, quieres proponer un tema o necesitas citarnos? Escríbenos
-              desde la página de contacto y te responderemos.
+              a {CONTACT_EMAIL}. De momento no hay redes sociales.
             </p>
             <Link
               href="/contacto"
               className="inline-flex items-center gap-2 bg-coral-600 text-white px-6 py-3 rounded-2xl font-bold hover:bg-coral-700 transition-all hover:scale-[1.02]"
             >
-              Ir al formulario de contacto →
+              Escribir por correo →
             </Link>
           </section>
 

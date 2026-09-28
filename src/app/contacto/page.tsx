@@ -1,12 +1,11 @@
 import { Metadata } from "next";
-import dynamic from "next/dynamic";
 import { canonicalAlternates } from "@/lib/seo/canonical";
-
-const ContactPage = dynamic(() => import("./ContactoClient"));
+import { CONTACT_EMAIL } from "@/lib/site-brand";
+import ContactPage from "./ContactoClient";
 
 export const metadata: Metadata = {
-  title: "Contacto: consultas sobre los artículos",
-  description: "¿Tienes dudas sobre un artículo de idiomas, alimentación, entrenamiento o inteligencia artificial? Escribe al equipo editorial de Linguafly.",
+  title: "Contacto: escribe a Linguafly por correo",
+  description: `La única forma de contacto es un correo a ${CONTACT_EMAIL}. De momento no hay redes sociales.`,
   alternates: canonicalAlternates("/contacto"),
 };
 

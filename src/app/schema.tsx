@@ -1,4 +1,4 @@
-import { SITE_BRAND_NAME, getAbsoluteUrl, getSiteUrl } from '@/lib/site-brand';
+import { CONTACT_EMAIL, SITE_BRAND_NAME, getAbsoluteUrl, getSiteUrl } from '@/lib/site-brand';
 import { DEFAULT_OG_IMAGE_PATH } from '@/lib/seo/og-images';
 
 export function OrganizationSchema() {
@@ -18,14 +18,10 @@ export function OrganizationSchema() {
     },
     "contactPoint": {
       "@type": "ContactPoint",
-      "contactType": "Customer Support",
-      "email": "hola@linguafly.app",
+      "contactType": "editorial",
+      "email": CONTACT_EMAIL,
       "availableLanguage": ["Spanish", "English"]
     },
-    "sameAs": [
-      "https://www.tiktok.com/@focusonenglish",
-      "https://www.youtube.com/@focusonenglish"
-    ],
     "foundingDate": "2024",
     "areaServed": {
       "@type": "Country",

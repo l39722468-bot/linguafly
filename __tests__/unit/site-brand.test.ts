@@ -1,8 +1,12 @@
-import { getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
+import { CONTACT_EMAIL, getAbsoluteUrl, getSiteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
 
 describe('site-brand', () => {
   it('uses Linguafly as brand name', () => {
     expect(SITE_BRAND_NAME).toBe('Linguafly');
+  });
+
+  it('publishes one contact email and no social account', () => {
+    expect(CONTACT_EMAIL).toBe('linguafly6@gmail.com');
   });
 
   it('builds absolute urls from site base', () => {
