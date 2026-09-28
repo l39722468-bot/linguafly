@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { SITE_BRAND_NAME } from "@/lib/site-brand";
-import { ENGLISH_LEARNING_SECTIONS, SITE_VERTICALS } from "@/lib/site-catalog";
+import { ENGLISH_LEARNING_SECTIONS, NAV_VERTICALS } from "@/lib/site-catalog";
 
 export function Footer() {
   return (
@@ -13,14 +13,14 @@ export function Footer() {
               <span className="text-xl font-black">{SITE_BRAND_NAME}</span>
             </div>
             <p className="max-w-sm text-sm text-slate-400">
-              Revista de artículos prácticos sobre idiomas, alimentación, entrenamiento e inteligencia artificial, más el archivo de guías para aprender inglés.
+              Guías para aprender inglés por nivel, y un juego para practicar gramática y vocabulario.
             </p>
           </div>
 
           <div>
             <h3 className="mb-4 font-bold">Temáticas</h3>
             <ul className="space-y-2 text-sm text-slate-400">
-              {SITE_VERTICALS.map((vertical) => (
+              {NAV_VERTICALS.map((vertical) => (
                 <li key={vertical.slug}>
                   <Link href={vertical.href} className="transition-colors hover:text-white">
                     {vertical.name}
@@ -54,7 +54,6 @@ export function Footer() {
             <ul className="space-y-2 text-sm text-slate-400">
               <li><Link href="/sobre-nosotros" className="transition-colors hover:text-white">Sobre nosotros</Link></li>
               <li><Link href="/contacto" className="transition-colors hover:text-white">Contacto</Link></li>
-              <li><Link href="/feed.xml" className="transition-colors hover:text-white">RSS</Link></li>
               <li><Link href="/privacidad" className="transition-colors hover:text-white">Privacidad</Link></li>
             </ul>
           </div>
