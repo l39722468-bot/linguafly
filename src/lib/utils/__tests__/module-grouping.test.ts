@@ -88,6 +88,14 @@ describe('groupUnitsIntoModules', () => {
     expect(modules).toHaveLength(0);
   });
 
+  it('orders modules by unit number even if the list arrives scrambled', () => {
+    const units = Array.from({ length: 12 }, (_, index) => createMockUnit(12 - index));
+    const modules = groupUnitsIntoModules(units);
+
+    expect(modules[0].units.map((unit) => unit.unitNumber)).toEqual([1, 2, 3, 4, 5, 6, 7, 8, 9, 10]);
+    expect(modules[1].units.map((unit) => unit.unitNumber)).toEqual([11, 12]);
+  });
+
   it('should maintain unit order within modules', () => {
     const units = Array.from({ length: 30 }, (_, i) => createMockUnit(i + 1));
     const modules = groupUnitsIntoModules(units);

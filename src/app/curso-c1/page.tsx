@@ -12,7 +12,7 @@ export const dynamic = 'force-dynamic';
 
 export const metadata: Metadata = {
   title: `Curso de Inglés C1 Avanzado | ${SITE_BRAND_NAME}`,
-  description: "Curso de inglés C1 gratis de Linguafly: 72 unidades interactivas para dominar el nivel Advanced, preparar el Cambridge C1 Advanced (CAE) e IELTS 7.0+.",
+  description: "Curso de inglés C1 gratis de Linguafly: 70 unidades en orden, del nivel Advanced, para preparar el Cambridge C1 Advanced (CAE) e IELTS 7.0+.",
   alternates: {
     canonical: getAbsoluteUrl('/curso-c1'),
   },
@@ -57,9 +57,9 @@ async function C1PreviewContent() {
             </p>
             <p className="text-sm text-slate-500 max-w-2xl mx-auto mt-4 leading-relaxed">
               El curso está organizado en tres capas: bloques temáticos (unidades 1–58), cierre con
-              consolidación gramatical y simulacro de examen (59–60), y el Language Lab (61–72) para
+              consolidación gramatical y simulacro de examen (59–60), y el Language Lab (61–70) para
               sistemas lingüísticos avanzados. En la vista <span className="font-semibold text-slate-600">Por módulos</span>{' '}
-              verás cada capítulo con su nombre real, no agrupaciones genéricas.
+              verás cada capítulo con su nombre real, en orden de unidad.
             </p>
           </div>
 

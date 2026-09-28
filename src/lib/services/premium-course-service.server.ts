@@ -1,6 +1,14 @@
 import { UnitData, PremiumInteraction, PremiumBlock, A1CourseMetadata, UnitMetadata } from '@/types/premium-course';
 import { UserPerformanceRecord } from '../course-engine/adaptive';
 import { extractUnitMetadata } from '@/lib/utils/course-metadata';
+import {
+  B2_ORDERED_UNITS,
+  C1_ORDERED_UNITS,
+  b2CardExerciseCount,
+  c1CardExerciseCount,
+  metadataFromOrderedUnits,
+  unitNumberFromCourseFile,
+} from '@/lib/course/ordered-unit-syllabus';
 import fs from 'fs';
 import path from 'path';
 
@@ -188,11 +196,11 @@ export const premiumCourseServerService = {
   },
 
   async getB2UnitsWithMetadata(): Promise<A1CourseMetadata> {
-    return this.getUnitsWithMetadata('ingles-b2');
+    return metadataFromOrderedUnits(B2_ORDERED_UNITS, b2CardExerciseCount);
   },
 
   async getC1UnitsWithMetadata(): Promise<A1CourseMetadata> {
-    return this.getUnitsWithMetadata('ingles-c1');
+    return metadataFromOrderedUnits(C1_ORDERED_UNITS, c1CardExerciseCount);
   },
 
   async getC2UnitsWithMetadata(): Promise<A1CourseMetadata> {
@@ -215,13 +223,7 @@ export const premiumCourseServerService = {
 
     const files = fs.readdirSync(contentDir)
       .filter(file => file.endsWith('.json'))
-      .sort((a, b) => {
-        const getNum = (s: string) => {
-          const match = s.match(/\d+/);
-          return match ? parseInt(match[0]) : 0;
-        };
-        return getNum(a) - getNum(b);
-      });
+      .sort((a, b) => unitNumberFromCourseFile(a) - unitNumberFromCourseFile(b));
 
     for (const file of files) {
       try {
@@ -235,6 +237,8 @@ export const premiumCourseServerService = {
         console.error(`[PremiumCourseService] Error loading unit from ${file}:`, error);
       }
     }
+
+    units.sort((a, b) => a.unitNumber - b.unitNumber);
 
     return {
       totalUnits: units.length,

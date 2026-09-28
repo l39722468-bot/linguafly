@@ -48,4 +48,47 @@ describe("course unit hub order", () => {
       "unidad-13-rutina-diaria-ejercicios-soluciones",
     );
   });
+
+  it("lists B2 and C1 hubs in unit order, with the workbook after its theory article", async () => {
+    const b2 = await listPublishedArticles({
+      category: "curso-b2",
+      page: 1,
+      limit: 100,
+    });
+    expect(b2.articles.slice(0, 3).map((article) => article.slug)).toEqual([
+      "unidad-1-repaso-b1-b2",
+      "unidad-2-future-tenses-work",
+      "unidad-3-gerund-infinitive-education",
+    ]);
+    const b2Slugs = b2.articles.map((article) => article.slug);
+    const theory52 = b2Slugs.indexOf("unidad-52-passive-reported-speech-human-rights");
+    expect(b2Slugs[theory52 + 1]).toBe(
+      "unidad-52-passive-reported-speech-human-rights-ejercicios-soluciones",
+    );
+    expect(unitNumbers(b2Slugs)).toEqual(
+      [...unitNumbers(b2Slugs)].sort((a, b) => a - b),
+    );
+
+    const c1 = await listPublishedArticles({
+      category: "curso-c1",
+      page: 1,
+      limit: 100,
+    });
+    expect(c1.articles.slice(0, 2).map((article) => article.slug)).toEqual([
+      "unidad-1-deduccion-identidad",
+      "unidad-2-aspecto-perfecto",
+    ]);
+    const c1Numbers = unitNumbers(c1.articles.map((article) => article.slug));
+    expect(c1Numbers[0]).toBe(1);
+    expect(c1Numbers[c1Numbers.length - 1]).toBe(70);
+    expect(c1Numbers).toEqual([...c1Numbers].sort((a, b) => a - b));
+    expect(c1Numbers).toHaveLength(70);
+  });
 });
+
+function unitNumbers(slugs: string[]): number[] {
+  return slugs.map((slug) => {
+    const match = slug.match(/^unidad-(\d+)/);
+    return match ? Number(match[1]) : Number.POSITIVE_INFINITY;
+  });
+}

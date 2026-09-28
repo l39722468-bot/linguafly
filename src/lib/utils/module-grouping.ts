@@ -53,15 +53,16 @@ export function groupUnitsIntoModules(units: UnitMetadata[], options?: GroupUnit
     return groupC1UnitsIntoModules(units);
   }
 
+  const orderedUnits = [...units].sort((a, b) => a.unitNumber - b.unitNumber);
   const unitsPerModule = 10;
-  const moduleCount = Math.ceil(units.length / unitsPerModule);
+  const moduleCount = Math.ceil(orderedUnits.length / unitsPerModule);
   const modules: ModuleMetadata[] = [];
 
   for (let i = 0; i < moduleCount; i++) {
     const moduleNumber = i + 1;
     const startIndex = i * unitsPerModule;
-    const endIndex = Math.min(startIndex + unitsPerModule, units.length);
-    const moduleUnits = units.slice(startIndex, endIndex);
+    const endIndex = Math.min(startIndex + unitsPerModule, orderedUnits.length);
+    const moduleUnits = orderedUnits.slice(startIndex, endIndex);
 
     const totalDuration = moduleUnits.reduce((sum, unit) => sum + unit.estimatedDuration, 0);
 

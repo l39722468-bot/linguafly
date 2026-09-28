@@ -30,7 +30,14 @@ for (const file of walkMarkdown(BLOG_DIR)) {
   const category = parts[0];
   const slug = parts[1].replace(/\.mdx?$/, "");
   if (!slug || slug.startsWith(".")) continue;
-  if (!map[slug]) map[slug] = `/blog/${category}/${slug}`;
+  const canonical = `/blog/${category}/${slug}`;
+  if (!map[slug]) {
+    map[slug] = canonical;
+  } else if (map[slug] !== canonical) {
+    // El mismo slug existe en otro nivel (p. ej. repaso B1 y B2).
+    // La clave corta se queda en el primero; esta conserva la lección del nivel.
+    map[`${category}/${slug}`] = canonical;
+  }
 }
 
 fs.mkdirSync(path.dirname(OUT_FILE), { recursive: true });
