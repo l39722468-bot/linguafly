@@ -11,6 +11,19 @@ ROOT = Path(__file__).resolve().parents[1]
 OUT = ROOT / "src" / "content" / "blog" / "curso-c2"
 DATE = "2026-09-28"
 
+
+def _load_longform():
+    import importlib.util
+
+    path = Path(__file__).with_name("c2_longform.py")
+    spec = importlib.util.spec_from_file_location("c2_longform", path)
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
+LONG = _load_longform()
+
 MODULES = {
     1: "Lenguaje, poder y retórica",
     2: "Literatura y la palabra escrita",
@@ -288,7 +301,7 @@ def render_theory(unit, prev_u, next_u) -> str:
         f"title: {y(title)}",
         "description: >-",
         f"  {desc}",
-        "readTime: 12 min",
+        "readTime: 17 min",
         "keywords:",
         f"  - {y(title)}",
         f"  - {y(unit['grammar'] + ' C2')}",
@@ -312,53 +325,10 @@ def render_theory(unit, prev_u, next_u) -> str:
         f"  Unidad {n} del curso C2 sobre {unit['grammar'].lower()} ({unit['tema']}), con fórmula, errores y cuaderno.",
         "---",
         "",
-        f"La **Unidad {n}** del curso C2 pertenece al módulo *{MODULES[unit['module']]}* y trabaja **{unit['grammar'].lower()}**, centrada en {unit['tema']}.",
-        "",
-        f"> **Cuaderno con soluciones:** [Ejercicios de la Unidad {n}](/blog/curso-c2/{work})  ",
-        f"> **Antes:** {prev_link}  ",
-        f"> **Siguiente:** {next_link}  ",
-        "> **Curso:** [Inglés C2](/blog/curso-c2)",
-        "",
-        f"## Unidad {n}: {unit['grammar']}",
-        "",
-        unit["teach"][0],
-        "",
-        "### Cómo se construye",
-        "",
-        unit["teach"][1],
-        "",
-        f"La fórmula de esta unidad es **{unit['formula']}**.",
-        "",
-        unit["teach"][2] if len(unit["teach"]) > 2 else "",
-        "",
-        "### Ejemplos comentados",
-        "",
     ]
-    shown = [ex for ex in unit["exercises"] if ex["kind"] == "kwt"][:3]
-    for i, ex in enumerate(shown, 1):
-        lines += [
-            f"{i}. {ex['src']}",
-            f"   Con **{ex['key']}**: {ex['answer']}",
-            f"   {ex['why']}",
-            "",
-        ]
-    lines += [
-        "### Errores frecuentes",
-        "",
-    ]
-    for err in unit["errors"]:
-        lines.append(f"- {err}")
-    lines += [
-        "",
-        "### Siguiente paso",
-        "",
-        f"Resuelve el [cuaderno de la Unidad {n}](/blog/curso-c2/{work}) sin mirar la solución. "
-        f"Después lee el modelo de writing y pasa a {next_link}.",
-        "",
-    ]
-    text = "\n".join(line for line in lines if line is not None)
-    text = re.sub(r"\n{3,}", "\n\n", text).rstrip() + "\n"
-    return title, desc, text
+    front = "\n".join(lines).rstrip() + "\n"
+    body = LONG.theory_body(unit, MODULES[unit["module"]], prev_link, next_link, work)
+    return title, desc, front + "\n" + body
 
 
 def render_workbook(unit, prev_u, next_u) -> str:
@@ -384,7 +354,7 @@ def render_workbook(unit, prev_u, next_u) -> str:
         f"title: {y(title)}",
         "description: >-",
         f"  {desc}",
-        "readTime: 14 min",
+        "readTime: 18 min",
         "keywords:",
         f"  - {y(title)}",
         f"  - {y('ejercicios ' + unit['grammar'].lower() + ' C2')}",
@@ -416,75 +386,14 @@ def render_workbook(unit, prev_u, next_u) -> str:
         f"  Cuaderno de la Unidad {n} C2 ({unit['grammar']}) con soluciones comentadas.",
         "---",
         "",
-        f"Este cuaderno reúne la práctica de la **Unidad {n}** (*{unit['grammar']}*, {unit['tema']}).",
-        "",
-        f"> **Guía:** [Unidad {n}: {unit['grammar']}](/blog/curso-c2/{theory})  ",
-        "> **Curso:** [Inglés C2](/blog/curso-c2)",
-        "",
-        "Haz cada bloque sin mirar la solución.",
-        "",
-        "## Lección 1 — Transformaciones",
-        "",
-        "Completa la segunda frase con la palabra clave. Usa entre tres y ocho palabras cuando la estructura lo permita. El sentido debe ser el mismo.",
-        "",
     ]
-    kwt = [ex for ex in unit["exercises"] if ex["kind"] == "kwt"]
-    gaps = [ex for ex in unit["exercises"] if ex["kind"] == "gap"]
-    for i, ex in enumerate(kwt, 1):
-        lines += [
-            f"### Ejercicio {i}",
-            "",
-            f"**Frase:** {ex['src']}",
-            "",
-            f"**Palabra clave:** {ex['key']}",
-            "",
-            "<details><summary>Ver solución</summary>",
-            "",
-            f"**{ex['answer']}**",
-            "",
-            ex["why"],
-            "",
-            "</details>",
-            "",
-        ]
-    lines += [
-        "## Lección 2 — Huecos",
-        "",
-        "Una palabra, o la forma breve que se indica, por hueco.",
-        "",
-    ]
-    for i, ex in enumerate(gaps, 1):
-        lines += [
-            f"### Ejercicio {len(kwt) + i}",
-            "",
-            ex["src"],
-            "",
-            "<details><summary>Ver solución</summary>",
-            "",
-            f"**{ex['answer']}**",
-            "",
-            ex["why"],
-            "",
-            "</details>",
-            "",
-        ]
-    lines += [
-        "## Lección 3 — Writing",
-        "",
-        f"Escribe 80–110 palabras sobre {unit['tema']} y usa la estructura de la unidad al menos dos veces.",
-        "",
-        "<details><summary>Modelo</summary>",
-        "",
-        unit["model"],
-        "",
-        "</details>",
-        "",
-        f"Cuando el modelo te salga sin mirar, sigue con la guía de la unidad siguiente o repasa [la explicación de la Unidad {n}](/blog/curso-c2/{theory}).",
-        "",
-    ]
-    text = "\n".join(lines)
-    text = re.sub(r"\n{3,}", "\n\n", text).rstrip() + "\n"
-    return title, desc, text
+    next_link = (
+        f"[Unidad {next_u['n']}: {next_u['grammar']}](/blog/curso-c2/{theory_path(next_u)})"
+        if next_u else "[Guía del Cambridge C2 Proficiency](/blog/examenes/cambridge-c2-proficiency-guia)"
+    )
+    front = "\n".join(lines).rstrip() + "\n"
+    body = LONG.workbook_body(unit, MODULES[unit["module"]], theory, next_link)
+    return title, desc, front + "\n" + body
 
 
 def main() -> None:
@@ -518,9 +427,14 @@ def main() -> None:
                 raise SystemExit(f"H1 in {name}")
             if "### " not in body and "## " not in body:
                 raise SystemExit(f"no headings in {name}")
+            body_only = body.split("---", 2)[-1]
+            wc = len(re.findall(r"[A-Za-zÁÉÍÓÚÜÑáéíóúüñ0-9']+", body_only))
+            if wc < 2000:
+                raise SystemExit(f"words {wc} < 2000 in {name}")
             (OUT / f"{name}.md").write_text(body, encoding="utf-8")
-            report.append((name, len(title), len(desc)))
-    print(f"wrote {len(report)} articles to {OUT}")
+            report.append((name, len(title), len(desc), wc))
+    counts = [row[-1] for row in report]
+    print(f"wrote {len(report)} articles to {OUT}; words {min(counts)}–{max(counts)}")
 
 
 if __name__ == "__main__":
