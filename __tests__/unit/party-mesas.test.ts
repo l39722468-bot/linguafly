@@ -12,7 +12,8 @@ import {
 } from "@/lib/party/engine";
 import { answerParty, enterParty, readParty, startParty } from "@/lib/party/service";
 import { clearPartyMemory, memoryPartyStore } from "@/lib/party/store";
-import { MAX_SEATS, REVEAL_MS, TURN_MS } from "@/lib/party/types";
+import { EXERCISES_PER_PLAYER, MAX_SEATS, REVEAL_MS, TURN_MS } from "@/lib/party/types";
+import type { TableState } from "@/lib/party/types";
 import { getParkedPageRedirect, isPublicSitePath } from "@/lib/site-catalog";
 
 const NOW = 1_700_000_000_000;
@@ -40,14 +41,14 @@ describe("mesas de inglés", () => {
     expect(getParkedPageRedirect("/mesas")).toBeNull();
   });
 
-  it("deals one exercise per player and hides the answer until the reveal", () => {
+  it("deals eight exercises per player and hides the answer until the reveal", () => {
     const started = startMatch(tableWith(["Ana", "Luis", "Marta"]), "player-1", NOW, () => 0.2);
-    expect(started.order).toEqual(["player-1", "player-2", "player-3"]);
-    expect(started.exercises).toHaveLength(3);
-    expect(new Set(started.exercises.map((item) => item.id)).size).toBe(3);
+    expect(started.order).toEqual(Array.from({ length: EXERCISES_PER_PLAYER }, () => ["player-1", "player-2", "player-3"]).flat());
+    expect(started.exercises).toHaveLength(3 * EXERCISES_PER_PLAYER);
+    expect(new Set(started.exercises.map((item) => item.id)).size).toBe(3 * EXERCISES_PER_PLAYER);
 
     const hidden = toPublic(started, "player-1", NOW);
-    expect(hidden.activityCount).toBe(3);
+    expect(hidden.activityCount).toBe(3 * EXERCISES_PER_PLAYER);
     expect(hidden.exercise?.correctIndex).toBeNull();
     expect(hidden.exercise?.explanation).toBeNull();
     expect(hidden.yourTurn).toBe(true);
@@ -85,7 +86,7 @@ describe("mesas de inglés", () => {
       optionIndex: state.exercises[1].correctIndex,
       now: state.turnEndsAt! - 5_000,
     });
-    state = advance(state, state.revealEndsAt!);
+    state = playOut(state);
     expect(state.phase).toBe("ranking");
     const ranking = toPublic(state, "player-1", state.updatedAt).ranking ?? [];
     expect(ranking.map((row) => row.playerId)).toEqual(["player-2", "player-1"]);
@@ -100,15 +101,18 @@ describe("mesas de inglés", () => {
     expect(timedOut.phase).toBe("reveal");
     expect(timedOut.lastResult?.timedOut).toBe(true);
     expect(timedOut.lastResult?.points).toBe(0);
-    const ranked = advance(timedOut, NOW + TURN_MS + REVEAL_MS);
+    const nextTurn = advance(timedOut, timedOut.revealEndsAt ?? NOW);
+    expect(nextTurn.phase).toBe("turn");
+    expect(nextTurn.turnIndex).toBe(1);
+    const ranked = playOut(nextTurn);
     expect(ranked.phase).toBe("ranking");
-    expect(ranked.order).toHaveLength(1);
+    expect(ranked.order).toHaveLength(EXERCISES_PER_PLAYER);
   });
 
   it("does not change how many activities a match has after it starts", () => {
     const started = startMatch(tableWith(["Ana", "Luis", "Marta"]), "player-1", NOW, () => 0.5);
     const left = leaveTable(started, "player-3", NOW + 100);
-    expect(left?.order).toHaveLength(3);
+    expect(left?.order).toHaveLength(3 * EXERCISES_PER_PLAYER);
     expect(left?.phase).toBe("turn");
   });
 
@@ -117,9 +121,11 @@ describe("mesas de inglés", () => {
     const first = await enterParty(store, { playerId: "player-ana1", name: "Ana", level: "B1", now: NOW });
     const second = await enterParty(store, { playerId: "player-luis1", name: "Luis", level: "B1", now: NOW });
     expect(second.id).toBe(first.id);
-    expect(second.seats.filter((seat) => !seat.isBot).map((seat) => seat.name)).toEqual(["Ana", "Luis"]);
-    expect(second.seats.filter((seat) => seat.isBot)).toHaveLength(2);
-    expect(second.activityCount).toBe(4);
+    const seated = await store.get(second.id);
+    expect(seated?.seats.filter((seat) => !seat.bot).map((seat) => seat.name)).toEqual(["Ana", "Luis"]);
+    expect(seated?.seats.filter((seat) => seat.bot)).toHaveLength(2);
+    expect(second.activityCount).toBe(4 * EXERCISES_PER_PLAYER);
+    expect(JSON.stringify(second)).not.toMatch(/isBot|automático|bot-/);
 
     const otherLevel = await enterParty(store, {
       playerId: "player-marta",
@@ -136,8 +142,8 @@ describe("mesas de inglés", () => {
     const host = await enterParty(store, { playerId: "player-host", name: "Nuria", level: "A2", now: NOW });
     await enterParty(store, { playerId: "player-guest", name: "Iker", level: "A2", now: NOW });
     let table = await startParty(store, host.id, "player-host", NOW);
-    expect(table.activityCount).toBe(4);
-    expect(table.seats.filter((seat) => seat.isBot)).toHaveLength(2);
+    expect(table.activityCount).toBe(4 * EXERCISES_PER_PLAYER);
+    expect((await store.get(host.id))?.seats.filter((seat) => seat.bot)).toHaveLength(2);
     expect(table.phase).toBe("turn");
 
     const privateState = await store.get(host.id);
@@ -168,7 +174,7 @@ describe("mesas de inglés", () => {
       },
       NOW + 30_000,
     );
-    expect(stillPlaying?.order).toHaveLength(2);
+    expect(stillPlaying?.order).toHaveLength(2 * EXERCISES_PER_PLAYER);
     expect(stillPlaying?.phase).toBe("turn");
   });
 
@@ -194,11 +200,12 @@ describe("mesas de inglés", () => {
     const botTurn = advance(state, state.revealEndsAt ?? NOW);
     expect(botTurn.phase).toBe("turn");
     const botId = botTurn.order[botTurn.turnIndex];
-    expect(botId.startsWith("bot-")).toBe(true);
+    expect(botTurn.seats.find((seat) => seat.playerId === botId)?.bot).toBe(true);
+    expect(botId.includes("bot")).toBe(false);
     const turnStart = (botTurn.turnEndsAt ?? NOW) - TURN_MS;
     expect(advance(botTurn, turnStart).phase).toBe("turn");
     expect(() => submitAnswer(botTurn, { playerId: botId, optionIndex: 0, now: turnStart + 100 })).toThrow(
-      "Este jugador responde solo.",
+      "Este ejercicio le toca a otra persona.",
     );
 
     let caught = false;
@@ -242,28 +249,39 @@ describe("mesas de inglés", () => {
 
     const third = await enterParty(store, { playerId: "player-b3", name: "Iker", level: "A1", now: NOW + 2 });
     expect(third.id).toBe("mesa-busy");
-    expect(third.seats.filter((seat) => !seat.isBot)).toHaveLength(3);
-    expect(third.seats.filter((seat) => seat.isBot)).toHaveLength(1);
+    const thirdPrivate = await store.get(third.id);
+    expect(thirdPrivate?.seats.filter((seat) => !seat.bot)).toHaveLength(3);
+    expect(thirdPrivate?.seats.filter((seat) => seat.bot)).toHaveLength(1);
+    expect(JSON.stringify(third)).not.toMatch(/isBot|automático|bot-/);
 
     const fourth = await enterParty(store, { playerId: "player-b4", name: "Nora", level: "A1", now: NOW + 3 });
     expect(fourth.seats).toHaveLength(4);
-    expect(fourth.seats.every((seat) => !seat.isBot)).toBe(true);
+    expect((await store.get(fourth.id))?.seats.every((seat) => !seat.bot)).toBe(true);
 
     const fifth = await enterParty(store, { playerId: "player-b5", name: "Leo", level: "A1", now: NOW + 4 });
     expect(fifth.id).toBe("mesa-busy");
     expect(fifth.seats).toHaveLength(5);
-    expect(fifth.seats.every((seat) => !seat.isBot)).toBe(true);
+    expect((await store.get(fifth.id))?.seats.every((seat) => !seat.bot)).toBe(true);
   });
 
   it("keeps a correct option inside every dealt exercise", () => {
+    const kinds = ["Gramática", "Vocabulario", "Phrasal verb", "False friend", "Fonética"];
     for (const level of ["A1", "A2", "B1", "B2", "C1"] as const) {
       const bank = exercisesForLevel(level);
-      expect(bank.length).toBeGreaterThanOrEqual(MAX_SEATS);
+      expect(bank).toHaveLength(35);
+      expect(new Set(bank.map((item) => item.id)).size).toBe(bank.length);
+      for (const kind of kinds) {
+        expect(bank.filter((item) => item.hint === kind)).toHaveLength(7);
+      }
       for (const item of bank) {
         expect(item.options).toHaveLength(4);
+        expect(new Set(item.options).size).toBe(4);
         expect(item.options[item.correctIndex]).toBeTruthy();
+        expect(item.explanation.length).toBeGreaterThan(20);
       }
-      const dealt = dealExercises(level, 4, () => 0.91);
+      const mixed = dealExercises(level, 5, () => 0.91);
+      expect(new Set(mixed.map((item) => item.hint)).size).toBe(5);
+      const dealt = dealExercises(level, MAX_SEATS * EXERCISES_PER_PLAYER, () => 0.91);
       for (const item of dealt) {
         const source = bank.find((entry) => entry.id === item.id);
         expect(source).toBeTruthy();
@@ -272,6 +290,16 @@ describe("mesas de inglés", () => {
     }
   });
 });
+
+function playOut(state: TableState): TableState {
+  let current = state;
+  for (let step = 0; step < 200 && current.phase !== "ranking"; step += 1) {
+    if (current.phase === "turn" && current.turnEndsAt) current = advance(current, current.turnEndsAt);
+    else if (current.phase === "reveal" && current.revealEndsAt) current = advance(current, current.revealEndsAt);
+    else break;
+  }
+  return current;
+}
 
 function wrongIndex(state: { exercises: { correctIndex: number }[]; turnIndex: number }) {
   const correct = state.exercises[state.turnIndex].correctIndex;

@@ -2,6 +2,7 @@ import { dealExercises } from "@/lib/party/exercises";
 import {
   LOBBY_SEAT_MS,
   LOBBY_STALE_MS,
+  EXERCISES_PER_PLAYER,
   MAX_SEATS,
   REVEAL_MS,
   TABLE_SIZE,
@@ -104,7 +105,7 @@ export function seatBots(state: TableState, now: number): TableState {
   const bots = [...kept];
   let slot = 1;
   while (bots.length < needed && slot < 20) {
-    const id = `bot-${state.code}-${slot}`;
+    const id = `p${state.code}${slot}k9m2`;
     slot += 1;
     if (bots.some((seat) => seat.playerId === id) || humans.some((seat) => seat.playerId === id)) continue;
     const base = BOT_NAMES[(slot - 2) % BOT_NAMES.length] ?? "Leo";
@@ -120,6 +121,7 @@ export function seatBots(state: TableState, now: number): TableState {
       name,
       color: SEAT_COLORS[(humans.length + bots.length) % SEAT_COLORS.length],
       score: 0,
+      hits: 0,
       connected: true,
       lastSeen: now,
       bot: true,
@@ -182,7 +184,7 @@ export function startMatch(
   if (state.phase !== "lobby") throw new PartyError("La partida ya ha empezado.");
   if (state.hostId !== playerId) throw new PartyError("Solo quien abrió la mesa puede empezar.", 403);
   if (state.seats.length === 0) throw new PartyError("No hay nadie en la mesa.");
-  const order = state.seats.map((seat) => seat.playerId);
+  const order = Array.from({ length: EXERCISES_PER_PLAYER }, () => state.seats.map((seat) => seat.playerId)).flat();
   return commit(
     state,
     {
@@ -193,7 +195,7 @@ export function startMatch(
       turnEndsAt: now + TURN_MS,
       revealEndsAt: null,
       lastResult: null,
-      seats: state.seats.map((seat) => ({ ...seat, score: 0, connected: true })),
+      seats: state.seats.map((seat) => ({ ...seat, score: 0, hits: 0, connected: true })),
     },
     now,
   );
@@ -209,7 +211,7 @@ export function submitAnswer(
     throw new PartyError("Este ejercicio le toca a otra persona.", 403);
   }
   const answering = live.seats.find((seat) => seat.playerId === input.playerId);
-  if (answering?.bot) throw new PartyError("Este jugador responde solo.", 403);
+  if (answering?.bot) throw new PartyError("Este ejercicio le toca a otra persona.", 403);
   const exercise = live.exercises[live.turnIndex];
   if (!exercise || input.optionIndex < 0 || input.optionIndex >= exercise.options.length) {
     throw new PartyError("Elige una de las opciones.");
@@ -231,7 +233,7 @@ export function rematch(state: TableState, playerId: string, now: number): Table
   if (state.hostId !== playerId) throw new PartyError("Solo quien abrió la mesa puede repetir.", 403);
   const seats = state.seats
     .filter((seat) => seat.connected)
-    .map((seat) => ({ ...seat, score: 0 }));
+    .map((seat) => ({ ...seat, score: 0, hits: 0 }));
   if (seats.length === 0) throw new PartyError("No queda nadie en la mesa.");
   const hostId = hostAmong(seats, state.hostId);
   return commit(
@@ -341,7 +343,8 @@ export function isLobbyStale(state: TableState, now: number): boolean {
 }
 
 export function activityCount(state: TableState): number {
-  return state.phase === "lobby" ? state.seats.length : state.order.length;
+  if (state.phase === "lobby") return state.seats.length * EXERCISES_PER_PLAYER;
+  return state.order.length;
 }
 
 export function toPublic(state: TableState, playerId: string, now: number): PublicTable {
@@ -374,7 +377,6 @@ export function toPublic(state: TableState, playerId: string, now: number): Publ
       isYou: seat.playerId === playerId,
       isHost: seat.playerId === live.hostId,
       isTurn: live.phase !== "lobby" && live.phase !== "ranking" && seat.playerId === turnPlayer,
-      isBot: seat.bot,
     })),
     activityCount: activityCount(live),
     turnIndex: live.turnIndex,
@@ -395,16 +397,14 @@ export function toPublic(state: TableState, playerId: string, now: number): Publ
 }
 
 function finishedRanking(state: TableState): RankingRow[] {
-  const rows = state.order.map((playerId, index) => {
-    const seat = state.seats.find((item) => item.playerId === playerId);
-    return {
-      playerId,
-      name: seat?.name ?? "Jugador",
-      color: seat?.color ?? SEAT_COLORS[0],
-      score: seat?.score ?? 0,
-      index,
-    };
-  });
+  const rows = state.seats.map((seat, index) => ({
+    playerId: seat.playerId,
+    name: seat.name,
+    color: seat.color,
+    score: seat.score,
+    hits: seat.hits ?? 0,
+    index,
+  }));
   const ordered = [...rows].sort((a, b) => b.score - a.score || a.index - b.index);
   let place = 0;
   let previous = Number.POSITIVE_INFINITY;
@@ -417,7 +417,7 @@ function finishedRanking(state: TableState): RankingRow[] {
       name: row.name,
       color: row.color,
       score: row.score,
-      correct: row.score > 0 ? 1 : 0,
+      correct: row.hits,
     };
   });
 }
@@ -445,7 +445,9 @@ function resolveTurn(
       revealEndsAt: now + REVEAL_MS,
       lastResult: result,
       seats: state.seats.map((seat) =>
-        seat.playerId === playerId ? { ...seat, score: seat.score + points, lastSeen: now } : seat,
+        seat.playerId === playerId
+          ? { ...seat, score: seat.score + points, hits: seat.hits + (outcome.correct ? 1 : 0), lastSeen: now }
+          : seat,
       ),
     },
     now,
@@ -468,6 +470,7 @@ function makeSeat(playerId: string, name: string, index: number, now: number): S
     name,
     color: SEAT_COLORS[index % SEAT_COLORS.length],
     score: 0,
+    hits: 0,
     connected: true,
     lastSeen: now,
     bot: false,

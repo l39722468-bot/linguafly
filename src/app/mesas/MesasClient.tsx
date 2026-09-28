@@ -4,7 +4,7 @@ import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { PartyLevel, PublicTable } from "@/lib/party/types";
-import { PARTY_LEVELS, TURN_MS } from "@/lib/party/types";
+import { EXERCISES_PER_PLAYER, PARTY_LEVELS, TURN_MS } from "@/lib/party/types";
 
 const LEVEL_COPY: Record<PartyLevel, { title: string; line: string }> = {
   A1: { title: "A1", line: "Saludos, to be, frases cortas" },
@@ -187,10 +187,10 @@ function Gate(props: {
           <span className="block text-coral-300">Siéntate.</span>
         </h1>
           <p className="mt-5 max-w-xl text-lg text-white/80">
-          La mesa juega tantas actividades como personas hay sentadas. Si entras solo, se sientan jugadores automáticos para que la partida no se quede vacía. Cada persona resuelve un ejercicio. Al final sale el ranking.
+          Cada persona responde {EXERCISES_PER_PLAYER} ejercicios, mezclando gramática, vocabulario, phrasal verbs, false friends y fonética. Al final sale el ranking.
         </p>
         <ol className="mt-6 grid gap-3 sm:grid-cols-3">
-          {["Entras con tu nivel", "Te toca un ejercicio", "Cierras con el ranking"].map((step, index) => (
+          {["Entras con tu nivel", `Respondes ${EXERCISES_PER_PLAYER} ejercicios`, "Cierras con el ranking"].map((step, index) => (
             <li key={step} className="rounded-2xl bg-white/10 px-4 py-3 text-sm font-bold">
               <span className="mr-2 text-coral-300">{index + 1}</span>
               {step}
@@ -263,7 +263,7 @@ function Lobby(props: { table: PublicTable; pending: boolean; onStart: () => voi
           <p className="text-sm font-black uppercase tracking-[0.18em] text-peach-200">Mesa {table.code}</p>
           <h1 className="font-heading text-4xl font-black sm:text-5xl">Nivel {table.level}</h1>
           <p className="mt-2 max-w-xl text-white/80">
-            Si empezáis ahora, la partida tiene {table.activityCount} {table.activityCount === 1 ? "actividad" : "actividades"}, una por persona. Quien lleva la marca auto responde solo.
+            Si empezáis ahora, la partida tiene {table.activityCount} {table.activityCount === 1 ? "actividad" : "actividades"}. Tocan {EXERCISES_PER_PLAYER} por persona: gramática, vocabulario, phrasal verbs, false friends y fonética.
           </p>
         </div>
         <button
@@ -358,7 +358,7 @@ function Stage(props: {
         ) : null}
         {!table.yourTurn && table.phase === "turn" ? (
           <p className="mt-4 text-sm font-bold text-slate-500">
-            Solo responde {active?.name}. {active?.isBot ? "Es un jugador automático." : "Tú verás la solución con la mesa."}
+            Solo responde {active?.name}. Tú verás la solución con la mesa.
           </p>
         ) : null}
       </div>
@@ -380,10 +380,7 @@ function Ranking(props: { table: PublicTable; pending: boolean; onRematch: () =>
           <li key={row.playerId} className="flex items-center gap-4 rounded-2xl bg-[#FFF8F3] px-4 py-4 text-slate-900">
             <span className="font-heading text-3xl font-black text-coral-600">{row.place}</span>
             <span className="h-11 w-11 rounded-full" style={{ background: row.color }} aria-hidden />
-            <span className="flex-1 font-heading text-2xl font-black">
-              {row.name}
-              {props.table.seats.find((seat) => seat.playerId === row.playerId)?.isBot ? " · auto" : ""}
-            </span>
+            <span className="flex-1 font-heading text-2xl font-black">{row.name}</span>
             <span className="font-heading text-2xl font-black">{row.score}</span>
           </li>
         ))}
@@ -418,7 +415,7 @@ function SeatRail({ table }: { table: PublicTable }) {
             {seat.isYou ? " · tú" : ""}
           </span>
           <span className={`block text-xs font-bold ${seat.isTurn ? "text-slate-500" : "text-white/60"}`}>
-            {seat.score} pts{seat.isHost ? " · abre" : ""}{seat.isBot ? " · auto" : ""}
+            {seat.score} pts{seat.isHost ? " · abre" : ""}
           </span>
         </li>
       ))}
