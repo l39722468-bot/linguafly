@@ -9,6 +9,7 @@ import {
   pruneLobby,
   PartyError,
   rematch,
+  seatBots,
   startMatch,
   submitAnswer,
   toPublic,
@@ -32,7 +33,7 @@ export async function enterParty(store: PartyStore, input: {
     if (!table) throw new PartyError("No hay ninguna mesa con ese código.", 404);
     const opened = await withoutAbsentSeats(store, table, now, input.playerId);
     if (!opened) throw new PartyError("No hay ninguna mesa con ese código.", 404);
-    const next = joinTable(opened, { playerId: input.playerId, name, now });
+    const next = seatBots(joinTable(opened, { playerId: input.playerId, name, now }), now);
     await persist(store, opened, next);
     return toPublic(next, input.playerId, now);
   }
@@ -42,16 +43,16 @@ export async function enterParty(store: PartyStore, input: {
   const level: PartyLevel = input.level;
   const lobbies = await store.listLobbies(level);
   const open = lobbies
-    .filter((table) => !isLobbyStale(table, now) && table.seats.length < MAX_SEATS)
-    .sort((a, b) => b.seats.length - a.seats.length || a.updatedAt - b.updatedAt);
+    .filter((table) => !isLobbyStale(table, now) && humanCount(table) < MAX_SEATS)
+    .sort((a, b) => humanCount(b) - humanCount(a) || a.updatedAt - b.updatedAt);
   for (const table of open) {
     for (let attempt = 0; attempt < 3; attempt += 1) {
       const fresh = await store.get(table.id);
       if (!fresh || fresh.phase !== "lobby") break;
       const opened = await withoutAbsentSeats(store, fresh, now, input.playerId);
-      if (!opened || opened.seats.length >= MAX_SEATS) break;
+      if (!opened || humanCount(opened) >= MAX_SEATS) break;
       try {
-        const next = joinTable(opened, { playerId: input.playerId, name, now });
+        const next = seatBots(joinTable(opened, { playerId: input.playerId, name, now }), now);
         if (await persist(store, opened, next)) return toPublic(next, input.playerId, now);
       } catch (error) {
         if (error instanceof PartyError && error.status === 409) break;
@@ -72,7 +73,8 @@ export async function readParty(
   const table = await requireTable(store, tableId);
   const opened = await withoutAbsentSeats(store, table, now, playerId);
   if (!opened) throw new PartyError("Esta mesa ya no existe.", 404);
-  const next = touchTable(opened, playerId, now);
+  const filled = seatBots(opened, now);
+  const next = touchTable(filled, playerId, now);
   await persist(store, opened, next);
   if (!next.seats.some((seat) => seat.playerId === playerId)) {
     throw new PartyError("No estás sentado en esta mesa.", 403);
@@ -86,7 +88,7 @@ export async function startParty(
   playerId: string,
   now = Date.now(),
 ): Promise<PublicTable> {
-  return mutate(store, tableId, playerId, now, (state) => startMatch(state, playerId, now));
+  return mutate(store, tableId, playerId, now, (state) => startMatch(seatBots(state, now), playerId, now));
 }
 
 export async function answerParty(
@@ -107,7 +109,7 @@ export async function rematchParty(
   playerId: string,
   now = Date.now(),
 ): Promise<PublicTable> {
-  return mutate(store, tableId, playerId, now, (state) => rematch(state, playerId, now));
+  return mutate(store, tableId, playerId, now, (state) => seatBots(rematch(state, playerId, now), now));
 }
 
 export async function leaveParty(
@@ -176,14 +178,17 @@ async function insertFresh(
   for (let attempt = 0; attempt < 6; attempt += 1) {
     const code = makeCode();
     if (await store.getByCode(code)) continue;
-    const table = createTable({
-      id: crypto.randomUUID(),
-      code,
-      level,
-      playerId,
-      name: cleanName(name),
+    const table = seatBots(
+      createTable({
+        id: crypto.randomUUID(),
+        code,
+        level,
+        playerId,
+        name: cleanName(name),
+        now,
+      }),
       now,
-    });
+    );
     try {
       await store.insert(table);
       return table;
@@ -192,6 +197,10 @@ async function insertFresh(
     }
   }
   throw new PartyError("No se ha podido abrir la mesa.", 503);
+}
+
+function humanCount(state: TableState): number {
+  return state.seats.filter((seat) => !seat.bot).length;
 }
 
 async function requireTable(store: PartyStore, tableId: string): Promise<TableState> {

@@ -3,6 +3,8 @@ export const PARTY_LEVELS = ["A1", "A2", "B1", "B2", "C1"] as const;
 export type PartyLevel = (typeof PARTY_LEVELS)[number];
 
 export const MAX_SEATS = 8;
+/** Con poca gente, la mesa se completa hasta este número con jugadores automáticos. */
+export const TABLE_SIZE = 4;
 export const TURN_MS = 20_000;
 export const REVEAL_MS = 4_000;
 export const LOBBY_STALE_MS = 90_000;
@@ -26,6 +28,7 @@ export interface Seat {
   score: number;
   connected: boolean;
   lastSeen: number;
+  bot: boolean;
 }
 
 export interface TurnResult {
@@ -62,6 +65,7 @@ export interface PublicSeat {
   isYou: boolean;
   isHost: boolean;
   isTurn: boolean;
+  isBot: boolean;
 }
 
 export interface RankingRow {

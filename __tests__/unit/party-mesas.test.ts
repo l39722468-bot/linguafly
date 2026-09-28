@@ -5,6 +5,7 @@ import {
   joinTable,
   leaveTable,
   pruneLobby,
+  seatBots,
   startMatch,
   submitAnswer,
   toPublic,
@@ -116,8 +117,9 @@ describe("mesas de inglés", () => {
     const first = await enterParty(store, { playerId: "player-ana1", name: "Ana", level: "B1", now: NOW });
     const second = await enterParty(store, { playerId: "player-luis1", name: "Luis", level: "B1", now: NOW });
     expect(second.id).toBe(first.id);
-    expect(second.seats).toHaveLength(2);
-    expect(second.activityCount).toBe(2);
+    expect(second.seats.filter((seat) => !seat.isBot).map((seat) => seat.name)).toEqual(["Ana", "Luis"]);
+    expect(second.seats.filter((seat) => seat.isBot)).toHaveLength(2);
+    expect(second.activityCount).toBe(4);
 
     const otherLevel = await enterParty(store, {
       playerId: "player-marta",
@@ -134,7 +136,8 @@ describe("mesas de inglés", () => {
     const host = await enterParty(store, { playerId: "player-host", name: "Nuria", level: "A2", now: NOW });
     await enterParty(store, { playerId: "player-guest", name: "Iker", level: "A2", now: NOW });
     let table = await startParty(store, host.id, "player-host", NOW);
-    expect(table.activityCount).toBe(2);
+    expect(table.activityCount).toBe(4);
+    expect(table.seats.filter((seat) => seat.isBot)).toHaveLength(2);
     expect(table.phase).toBe("turn");
 
     const privateState = await store.get(host.id);
@@ -176,6 +179,80 @@ describe("mesas de inglés", () => {
     expect(() => joinTable(full, { playerId: "extra-player", name: "Extra", now: NOW })).toThrow(
       "Esta mesa está llena.",
     );
+  });
+
+  it("fills a solo table with bots and lets the next bot answer on its own", () => {
+    let state = seatBots(tableWith(["Ana"]), NOW);
+    expect(state.seats.map((seat) => seat.bot)).toEqual([false, true, true, true]);
+    expect(state.hostId).toBe("player-1");
+    state = startMatch(state, "player-1", NOW, () => 0.2);
+    state = submitAnswer(state, {
+      playerId: "player-1",
+      optionIndex: state.exercises[0].correctIndex,
+      now: NOW + 1_000,
+    });
+    const botTurn = advance(state, state.revealEndsAt ?? NOW);
+    expect(botTurn.phase).toBe("turn");
+    const botId = botTurn.order[botTurn.turnIndex];
+    expect(botId.startsWith("bot-")).toBe(true);
+    const turnStart = (botTurn.turnEndsAt ?? NOW) - TURN_MS;
+    expect(advance(botTurn, turnStart).phase).toBe("turn");
+    expect(() => submitAnswer(botTurn, { playerId: botId, optionIndex: 0, now: turnStart + 100 })).toThrow(
+      "Este jugador responde solo.",
+    );
+
+    let caught = false;
+    for (let t = turnStart; t < (botTurn.turnEndsAt ?? turnStart); t += 250) {
+      const next = advance(botTurn, t);
+      if (next.phase === "reveal" && next.lastResult?.playerId === botId) {
+        expect(next.lastResult?.timedOut).toBe(false);
+        expect(next.lastResult?.chosenIndex).not.toBeNull();
+        caught = true;
+        break;
+      }
+    }
+    expect(caught).toBe(true);
+  });
+
+  it("drops bots once four people are sitting and prefers the fuller table", async () => {
+    const store = memoryPartyStore();
+    let busy = createTable({
+      id: "mesa-busy",
+      code: "BUSY",
+      level: "A1",
+      playerId: "player-b1",
+      name: "Luis",
+      now: NOW,
+    });
+    busy = joinTable(busy, { playerId: "player-b2", name: "Marta", now: NOW });
+    busy = seatBots(busy, NOW);
+    const quiet = seatBots(
+      createTable({
+        id: "mesa-quiet",
+        code: "QUIET",
+        level: "A1",
+        playerId: "player-q1",
+        name: "Ana",
+        now: NOW + 1,
+      }),
+      NOW + 1,
+    );
+    await store.insert(busy);
+    await store.insert(quiet);
+
+    const third = await enterParty(store, { playerId: "player-b3", name: "Iker", level: "A1", now: NOW + 2 });
+    expect(third.id).toBe("mesa-busy");
+    expect(third.seats.filter((seat) => !seat.isBot)).toHaveLength(3);
+    expect(third.seats.filter((seat) => seat.isBot)).toHaveLength(1);
+
+    const fourth = await enterParty(store, { playerId: "player-b4", name: "Nora", level: "A1", now: NOW + 3 });
+    expect(fourth.seats).toHaveLength(4);
+    expect(fourth.seats.every((seat) => !seat.isBot)).toBe(true);
+
+    const fifth = await enterParty(store, { playerId: "player-b5", name: "Leo", level: "A1", now: NOW + 4 });
+    expect(fifth.id).toBe("mesa-busy");
+    expect(fifth.seats).toHaveLength(5);
+    expect(fifth.seats.every((seat) => !seat.isBot)).toBe(true);
   });
 
   it("keeps a correct option inside every dealt exercise", () => {
