@@ -4,7 +4,7 @@ import sharedArticleCovers from "@/lib/seo/shared-article-covers.json";
 export const SHARED_ARTICLE_COVERS: Record<string, string> = sharedArticleCovers;
 
 export function articleCoverPath(slug: string): string {
-  return `/blog/portada/${slug}`;
+  return `/blog/portada/${slug}?v=2`;
 }
 
 export function articleImageIsGenerated(src: string): boolean {
@@ -81,14 +81,17 @@ const CATEGORY_LABELS: Record<string, string> = {
   "curso-c1": "Curso C1",
 };
 
-/** Room for the category kicker above a title of up to three lines. */
-const PANEL_Y = 332;
-const PANEL_HEIGHT = 262;
-const LABEL_SIZE = 20;
-const LABEL_BASELINE = 384;
-const TITLE_SIZE = 40;
-const TITLE_LINE = 52;
-const TITLE_BASELINE = 456;
+/**
+ * The course label sits on the colour field, above the panel.
+ * The unit title stays inside the panel, so the two cannot share a line.
+ */
+const PANEL_Y = 408;
+const PANEL_HEIGHT = 190;
+const LABEL_SIZE = 22;
+const LABEL_BASELINE = 372;
+const TITLE_SIZE = 36;
+const TITLE_LINE = 46;
+const TITLE_BASELINE = 468;
 
 export function renderArticleCoverSvg(input: {
   slug: string;

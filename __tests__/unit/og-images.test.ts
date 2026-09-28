@@ -16,6 +16,12 @@ function textBaseline(svg: string, includes: string): number {
   return Number(block?.match(/y="(\d+)"/)?.[1]);
 }
 
+function georgiaBaselines(svg: string): number[] {
+  return [...svg.matchAll(/<text ([^>]*font-family="Georgia[^"]*"[^>]*)>/g)].map((match) =>
+    Number(match[1].match(/y="(\d+)"/)?.[1]),
+  );
+}
+
 describe("category OG images", () => {
   const previousSiteUrl = process.env.NEXT_PUBLIC_SITE_URL;
 
@@ -62,8 +68,8 @@ describe("category OG images", () => {
       slug: "pasiva-pasado-ingles",
       category: "gramatica",
     });
-    expect(days).toBe("/blog/portada/unidad-12-dias-semana");
-    expect(grammar).toBe("/blog/portada/pasiva-pasado-ingles");
+    expect(days).toBe("/blog/portada/unidad-12-dias-semana?v=2");
+    expect(grammar).toBe("/blog/portada/pasiva-pasado-ingles?v=2");
     expect(days).not.toBe(grammar);
     expect(days).not.toBe(getCategoryOgImagePath("curso-a1"));
     expect(
@@ -72,7 +78,7 @@ describe("category OG images", () => {
         image: "/blog/og-gramatica.jpg",
         category: "gramatica",
       }),
-    ).toBe("/blog/portada/pasiva-pasado-ingles");
+    ).toBe("/blog/portada/pasiva-pasado-ingles?v=2");
   });
 
   it("keeps a shared diagram on one article and gives the other its own cover", () => {
@@ -90,7 +96,7 @@ describe("category OG images", () => {
         image: shared,
         category: "curso-a1",
       }),
-    ).toBe("/blog/portada/unidad-12-dias-semana-ejercicios-soluciones");
+    ).toBe("/blog/portada/unidad-12-dias-semana-ejercicios-soluciones?v=2");
   });
 
   it("returns apex absolute URLs", () => {
@@ -127,12 +133,12 @@ describe("category OG images", () => {
     expect(days).toContain("CURSO A1");
     const labelY = textBaseline(days, "CURSO A1");
     const titleY = textBaseline(days, "Días");
-    expect(titleY - labelY).toBeGreaterThanOrEqual(48);
     const panel = days.match(/<rect x="48" y="(\d+)" width="1104" height="(\d+)"/);
-    const panelBottom = Number(panel?.[1]) + Number(panel?.[2]);
-    const titleBaselines = [...days.matchAll(/font-size="40"[^>]*>([^<]*)</g)].map((match) =>
-      textBaseline(days, match[1]),
-    );
+    const panelTop = Number(panel?.[1]);
+    const panelBottom = panelTop + Number(panel?.[2]);
+    expect(labelY).toBeLessThan(panelTop - 16);
+    expect(titleY).toBeGreaterThan(panelTop + 36);
+    const titleBaselines = georgiaBaselines(days);
     expect(Math.max(...titleBaselines)).toBeLessThan(panelBottom - 16);
 
     const crowded = renderArticleCoverSvg({
@@ -141,13 +147,13 @@ describe("category OG images", () => {
       category: "curso-a1",
     });
     const crowdedLabel = textBaseline(crowded, "CURSO A1");
-    const crowdedTitles = [...crowded.matchAll(/font-size="40"[^>]*>([^<]*)</g)].map((match) =>
-      textBaseline(crowded, match[1]),
-    );
+    const crowdedTitles = georgiaBaselines(crowded);
     expect(crowdedTitles.length).toBe(3);
-    expect(Math.min(...crowdedTitles) - crowdedLabel).toBeGreaterThanOrEqual(48);
     const crowdedPanel = crowded.match(/<rect x="48" y="(\d+)" width="1104" height="(\d+)"/);
-    const crowdedBottom = Number(crowdedPanel?.[1]) + Number(crowdedPanel?.[2]);
+    const crowdedTop = Number(crowdedPanel?.[1]);
+    const crowdedBottom = crowdedTop + Number(crowdedPanel?.[2]);
+    expect(crowdedLabel).toBeLessThan(crowdedTop - 16);
+    expect(Math.min(...crowdedTitles)).toBeGreaterThan(crowdedTop + 36);
     expect(Math.max(...crowdedTitles)).toBeLessThan(crowdedBottom - 16);
   });
 
