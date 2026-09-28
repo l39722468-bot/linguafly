@@ -440,6 +440,7 @@ const EXACT_PUBLIC_PATHS = new Set([
   "/cookies",
   "/terminos",
   "/contacto",
+  "/mesas",
   "/sobre-nosotros",
   "/robots.txt",
   "/sitemap.xml",
