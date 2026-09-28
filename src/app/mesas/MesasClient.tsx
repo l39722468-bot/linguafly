@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useSearchParams } from "next/navigation";
 import { useCallback, useEffect, useMemo, useState } from "react";
 import type { PartyLevel, PublicTable } from "@/lib/party/types";
 import { EXERCISES_PER_PLAYER, PARTY_LEVELS, TURN_MS } from "@/lib/party/types";
@@ -15,8 +14,6 @@ const LEVEL_COPY: Record<PartyLevel, { title: string; line: string }> = {
 };
 
 export default function MesasClient() {
-  const params = useSearchParams();
-  const codeFromUrl = (params.get("mesa") ?? "").toUpperCase();
   const [playerId, setPlayerId] = useState("");
   const [name, setName] = useState("");
   const [level, setLevel] = useState<PartyLevel>("A1");
@@ -32,6 +29,9 @@ export default function MesasClient() {
     const id = saved && /^[a-zA-Z0-9-]{8,80}$/.test(saved) ? saved : crypto.randomUUID();
     window.localStorage.setItem(key, id);
     setPlayerId(id);
+    const savedName = window.localStorage.getItem("linguafly-mesa-name");
+    if (savedName) setName(savedName.slice(0, 16));
+    if (window.location.search) window.history.replaceState(null, "", "/mesas");
     const sitting = window.sessionStorage.getItem("linguafly-mesa-table");
     if (sitting) setTable({ id: sitting } as PublicTable);
   }, []);
@@ -108,7 +108,7 @@ export default function MesasClient() {
         return;
       }
       window.sessionStorage.setItem("linguafly-mesa-table", body.table.id);
-      window.history.replaceState(null, "", `/mesas?mesa=${body.table.code}`);
+      window.history.replaceState(null, "", "/mesas");
       setTable(body.table);
     } catch {
       setError("Sin conexión con la mesa.");
@@ -117,8 +117,36 @@ export default function MesasClient() {
     }
   }
 
+  async function exitGame(destination: "site" | "home") {
+    setPending(true);
+    setError("");
+    try {
+      if (table?.id && playerId) {
+        await fetch("/api/mesas", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ action: "leave", playerId, tableId: table.id }),
+        });
+      }
+    } catch {
+      setError("Sin conexión con la mesa.");
+    }
+    window.sessionStorage.removeItem("linguafly-mesa-table");
+    setTable(null);
+    setPending(false);
+    if (destination === "site") {
+      window.location.assign("/");
+      return;
+    }
+    window.history.replaceState(null, "", "/mesas");
+  }
+
   const restoring = Boolean(table && !table.level);
   const seated = Boolean(table?.level);
+  const secondsToStart = useMemo(() => {
+    if (!table?.startsAt || table.phase !== "lobby") return 0;
+    return Math.max(0, Math.ceil((table.startsAt - (now - clockSkew)) / 1000));
+  }, [clockSkew, now, table?.phase, table?.startsAt]);
   const secondsLeft = useMemo(() => {
     if (!table?.turnEndsAt || table.phase !== "turn") return 0;
     return Math.max(0, Math.ceil((table.turnEndsAt - (now - clockSkew)) / 1000));
@@ -126,10 +154,21 @@ export default function MesasClient() {
 
   return (
     <main className="min-h-screen text-white" style={{ background: "radial-gradient(circle at 15% 0%, rgba(255,107,107,.38), transparent 36%), radial-gradient(circle at 90% 90%, rgba(255,160,107,.28), transparent 32%), #161326" }}>
-      <header className="mx-auto flex max-w-5xl items-center justify-between px-4 py-5">
-        <Link href="/" className="text-sm font-black tracking-wide text-white/80">
-          Linguafly
-        </Link>
+      <header className="mx-auto flex max-w-5xl flex-wrap items-center justify-between gap-3 px-4 py-5">
+        {table?.id ? (
+          <div className="flex flex-wrap gap-2">
+            <button type="button" onClick={() => void exitGame("home")} className="rounded-full bg-white px-4 py-2 text-sm font-black text-slate-900">
+              Inicio del juego
+            </button>
+            <button type="button" onClick={() => void exitGame("site")} className="rounded-full border border-white/40 px-4 py-2 text-sm font-black text-white">
+              Volver a la web
+            </button>
+          </div>
+        ) : (
+          <Link href="/" className="rounded-full border border-white/40 px-4 py-2 text-sm font-black text-white">
+            Volver a la web
+          </Link>
+        )}
         <p className="text-xs font-bold uppercase tracking-[0.22em] text-peach-200">Mesas</p>
       </header>
       <div className="mx-auto flex max-w-5xl flex-col gap-6 px-4 pb-36">
@@ -144,18 +183,24 @@ export default function MesasClient() {
           <Gate
             name={name}
             level={level}
-            code={codeFromUrl}
             pending={pending || !playerId}
             onName={setName}
             onLevel={setLevel}
-            onEnter={() =>
-              void send("enter", codeFromUrl ? { name, code: codeFromUrl } : { name, level })
-            }
+            onEnter={() => {
+              window.localStorage.setItem("linguafly-mesa-name", name.trim());
+              void send("enter", { name, level });
+            }}
           />
         ) : table?.phase === "lobby" ? (
-          <Lobby table={table} pending={pending} onStart={() => void send("start")} onLeave={() => void send("leave")} />
+          <Lobby table={table} pending={pending} secondsToStart={secondsToStart} onStart={() => void send("start")} />
         ) : table?.phase === "ranking" ? (
-          <Ranking table={table} pending={pending} onRematch={() => void send("rematch")} onLeave={() => void send("leave")} />
+          <Ranking
+            table={table}
+            pending={pending}
+            onRematch={() => void send("rematch")}
+            onHome={() => void exitGame("home")}
+            onSite={() => void exitGame("site")}
+          />
         ) : table ? (
           <Stage
             table={table}
@@ -172,7 +217,6 @@ export default function MesasClient() {
 function Gate(props: {
   name: string;
   level: PartyLevel;
-  code: string;
   pending: boolean;
   onName: (value: string) => void;
   onLevel: (level: PartyLevel) => void;
@@ -184,13 +228,13 @@ function Gate(props: {
         <p className="text-sm font-black uppercase tracking-[0.18em] text-peach-200">Partida de inglés</p>
         <h1 className="mt-3 font-heading text-5xl font-black leading-none sm:text-7xl">
           Elige nivel.
-          <span className="block text-coral-300">Siéntate.</span>
+          <span className="block text-coral-300">Entra.</span>
         </h1>
-          <p className="mt-5 max-w-xl text-lg text-white/80">
-          Cada persona responde {EXERCISES_PER_PLAYER} ejercicios, mezclando gramática, vocabulario, phrasal verbs, false friends y fonética. Al final sale el ranking.
+        <p className="mt-5 max-w-xl text-lg text-white/80">
+          Escribes tu nombre, eliges el nivel y te sentamos donde haya sitio. Cada persona responde {EXERCISES_PER_PLAYER} ejercicios. Al final sale el ranking.
         </p>
         <ol className="mt-6 grid gap-3 sm:grid-cols-3">
-          {["Entras con tu nivel", `Respondes ${EXERCISES_PER_PLAYER} ejercicios`, "Cierras con el ranking"].map((step, index) => (
+          {["Elige tu nivel", "Escribe tu nombre", "Entras en la mesa"].map((step, index) => (
             <li key={step} className="rounded-2xl bg-white/10 px-4 py-3 text-sm font-bold">
               <span className="mr-2 text-coral-300">{index + 1}</span>
               {step}
@@ -205,8 +249,28 @@ function Gate(props: {
           props.onEnter();
         }}
       >
-        <label className="block text-sm font-black" htmlFor="mesa-name">
-          Cómo te llamas en la mesa
+        <fieldset>
+          <legend className="text-sm font-black">Nivel</legend>
+          <div className="mt-2 grid grid-cols-1 gap-2">
+            {PARTY_LEVELS.map((item) => {
+              const selected = props.level === item;
+              return (
+                <button
+                  key={item}
+                  type="button"
+                  onClick={() => props.onLevel(item)}
+                  className={`flex items-center justify-between rounded-2xl border-2 px-4 py-3 text-left ${selected ? "border-coral-500 bg-coral-50" : "border-slate-200 bg-white"}`}
+                  aria-pressed={selected}
+                >
+                  <span className="font-heading text-2xl font-black">{LEVEL_COPY[item].title}</span>
+                  <span className="text-sm font-bold text-slate-600">{LEVEL_COPY[item].line}</span>
+                </button>
+              );
+            })}
+          </div>
+        </fieldset>
+        <label className="mt-5 block text-sm font-black" htmlFor="mesa-name">
+          Tu nombre
         </label>
         <input
           id="mesa-name"
@@ -214,77 +278,35 @@ function Gate(props: {
           onChange={(event) => props.onName(event.target.value)}
           maxLength={16}
           placeholder="Ana"
+          autoComplete="nickname"
           className="mt-2 w-full rounded-2xl border-2 border-slate-200 px-4 py-3 text-lg font-bold outline-none focus:border-coral-500"
         />
-        {props.code ? (
-          <p className="mt-4 text-sm font-bold text-slate-600">
-            Te sientas en la mesa <span className="text-slate-900">{props.code}</span>. El nivel ya lo eligió quien la abrió.
-          </p>
-        ) : (
-          <fieldset className="mt-5">
-            <legend className="text-sm font-black">Nivel</legend>
-            <div className="mt-2 grid grid-cols-1 gap-2">
-              {PARTY_LEVELS.map((item) => {
-                const selected = props.level === item;
-                return (
-                  <button
-                    key={item}
-                    type="button"
-                    onClick={() => props.onLevel(item)}
-                    className={`flex items-center justify-between rounded-2xl border-2 px-4 py-3 text-left ${selected ? "border-coral-500 bg-coral-50" : "border-slate-200 bg-white"}`}
-                    aria-pressed={selected}
-                  >
-                    <span className="font-heading text-2xl font-black">{LEVEL_COPY[item].title}</span>
-                    <span className="text-sm font-bold text-slate-600">{LEVEL_COPY[item].line}</span>
-                  </button>
-                );
-              })}
-            </div>
-          </fieldset>
-        )}
         <button
           type="submit"
           disabled={props.pending || props.name.trim().length < 2}
           className="mt-5 w-full rounded-full bg-coral-500 px-5 py-4 font-heading text-lg font-black text-white disabled:opacity-50"
         >
-          {props.code ? "Sentarme" : "Buscar mesa"}
+          Entrar
         </button>
       </form>
     </section>
   );
 }
 
-function Lobby(props: { table: PublicTable; pending: boolean; onStart: () => void; onLeave: () => void }) {
+function Lobby(props: { table: PublicTable; pending: boolean; secondsToStart: number; onStart: () => void }) {
   const { table } = props;
   return (
     <section className="rounded-[2rem] bg-white/10 p-5 sm:p-8">
-      <div className="flex flex-wrap items-end justify-between gap-4">
-        <div>
-          <p className="text-sm font-black uppercase tracking-[0.18em] text-peach-200">Mesa {table.code}</p>
-          <h1 className="font-heading text-4xl font-black sm:text-5xl">Nivel {table.level}</h1>
-          <p className="mt-2 max-w-xl text-white/80">
-            Si empezáis ahora, la partida tiene {table.activityCount} {table.activityCount === 1 ? "actividad" : "actividades"}. Tocan {EXERCISES_PER_PLAYER} por persona: gramática, vocabulario, phrasal verbs, false friends y fonética.
-          </p>
-        </div>
-        <button
-          type="button"
-          onClick={() => void navigator.clipboard?.writeText(`${window.location.origin}/mesas?mesa=${table.code}`)}
-          className="rounded-full bg-white px-4 py-2 text-sm font-black text-slate-900"
-        >
-          Copiar enlace
-        </button>
-      </div>
+      <p className="text-sm font-black uppercase tracking-[0.18em] text-peach-200">Nivel {table.level}</p>
+      <h1 className="font-heading text-4xl font-black sm:text-5xl">Ya estás sentado</h1>
+      <p className="mt-2 max-w-xl text-white/80">
+        Si entra alguien más de tu nivel, se sienta contigo. Si no, la partida empieza
+        {props.secondsToStart > 0 ? ` en ${props.secondsToStart} s` : " ahora"}. Tocan {EXERCISES_PER_PLAYER} ejercicios por persona.
+      </p>
       <SeatRail table={table} />
-      <div className="mt-8 flex flex-wrap gap-3">
-        {table.youAreHost ? (
-          <button type="button" onClick={props.onStart} disabled={props.pending} className="rounded-full bg-coral-500 px-6 py-4 font-heading text-lg font-black disabled:opacity-50">
-            Empezar partida
-          </button>
-        ) : (
-          <p className="rounded-full bg-white/10 px-5 py-4 font-bold">Esperando a que abra la partida quien llegó primero.</p>
-        )}
-        <button type="button" onClick={props.onLeave} className="rounded-full px-5 py-4 font-bold text-white/80">
-          Levantarme
+      <div className="mt-8">
+        <button type="button" onClick={props.onStart} disabled={props.pending} className="rounded-full bg-coral-500 px-6 py-4 font-heading text-lg font-black disabled:opacity-50">
+          Empezar ya
         </button>
       </div>
     </section>
@@ -366,7 +388,13 @@ function Stage(props: {
   );
 }
 
-function Ranking(props: { table: PublicTable; pending: boolean; onRematch: () => void; onLeave: () => void }) {
+function Ranking(props: {
+  table: PublicTable;
+  pending: boolean;
+  onRematch: () => void;
+  onHome: () => void;
+  onSite: () => void;
+}) {
   const rows = props.table.ranking ?? [];
   return (
     <section className="rounded-[2rem] bg-white/10 p-5 sm:p-8">
@@ -386,15 +414,14 @@ function Ranking(props: { table: PublicTable; pending: boolean; onRematch: () =>
         ))}
       </ol>
       <div className="mt-6 flex flex-wrap gap-3">
-        {props.table.youAreHost ? (
-          <button type="button" onClick={props.onRematch} disabled={props.pending} className="rounded-full bg-coral-500 px-6 py-4 font-heading text-lg font-black disabled:opacity-50">
-            Otra partida
-          </button>
-        ) : (
-          <p className="rounded-full bg-white/10 px-5 py-4 font-bold">Quien abrió la mesa puede lanzar otra.</p>
-        )}
-        <button type="button" onClick={props.onLeave} className="rounded-full px-5 py-4 font-bold text-white/80">
-          Salir
+        <button type="button" onClick={props.onRematch} disabled={props.pending} className="rounded-full bg-coral-500 px-6 py-4 font-heading text-lg font-black disabled:opacity-50">
+          Otra partida
+        </button>
+        <button type="button" onClick={props.onHome} className="rounded-full bg-white px-5 py-4 font-black text-slate-900">
+          Inicio del juego
+        </button>
+        <button type="button" onClick={props.onSite} className="rounded-full border border-white/40 px-5 py-4 font-black text-white">
+          Volver a la web
         </button>
       </div>
     </section>
@@ -415,7 +442,7 @@ function SeatRail({ table }: { table: PublicTable }) {
             {seat.isYou ? " · tú" : ""}
           </span>
           <span className={`block text-xs font-bold ${seat.isTurn ? "text-slate-500" : "text-white/60"}`}>
-            {seat.score} pts{seat.isHost ? " · abre" : ""}
+            {seat.score} pts
           </span>
         </li>
       ))}

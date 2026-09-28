@@ -11,6 +11,8 @@ export const TURN_MS = 20_000;
 export const REVEAL_MS = 4_000;
 export const LOBBY_STALE_MS = 90_000;
 export const LOBBY_SEAT_MS = 12_000;
+/** Margen para que otra persona del mismo nivel ocupe un sitio antes de empezar. */
+export const LOBBY_WAIT_MS = 3_000;
 
 export type PartyPhase = "lobby" | "turn" | "reveal" | "ranking";
 
@@ -56,6 +58,8 @@ export interface TableState {
   turnEndsAt: number | null;
   revealEndsAt: number | null;
   lastResult: TurnResult | null;
+  /** Momento en el que la mesa en espera pasa a partida. */
+  autoStartAt: number | null;
   version: number;
   updatedAt: number;
 }
@@ -90,6 +94,7 @@ export interface PublicTable {
   turnIndex: number;
   turnEndsAt: number | null;
   revealEndsAt: number | null;
+  startsAt: number | null;
   serverNow: number;
   exercise: {
     prompt: string;

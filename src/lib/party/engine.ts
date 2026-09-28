@@ -2,6 +2,7 @@ import { dealExercises } from "@/lib/party/exercises";
 import {
   LOBBY_SEAT_MS,
   LOBBY_STALE_MS,
+  LOBBY_WAIT_MS,
   EXERCISES_PER_PLAYER,
   MAX_SEATS,
   REVEAL_MS,
@@ -78,6 +79,7 @@ export function createTable(input: {
     turnEndsAt: null,
     revealEndsAt: null,
     lastResult: null,
+    autoStartAt: input.now + LOBBY_WAIT_MS,
     version: 1,
     updatedAt: input.now,
   };
@@ -153,7 +155,11 @@ export function joinTable(
   }
   const name = uniqueName(state.seats, input.name);
   const seat = makeSeat(input.playerId, name, state.seats.length, input.now);
-  return commit(state, { seats: [...state.seats, seat] }, input.now);
+  return commit(
+    state,
+    { seats: [...state.seats, seat], autoStartAt: input.now + LOBBY_WAIT_MS },
+    input.now,
+  );
 }
 
 export function leaveTable(
@@ -175,6 +181,14 @@ export function leaveTable(
   return next;
 }
 
+export function maybeAutoStart(state: TableState, now: number, random: () => number = Math.random): TableState {
+  if (state.phase !== "lobby") return state;
+  const due = state.autoStartAt ?? now;
+  if (now < due) return state;
+  if (!state.seats.some((seat) => !seat.bot)) return state;
+  return beginMatch(state, now, random);
+}
+
 export function startMatch(
   state: TableState,
   playerId: string,
@@ -182,13 +196,19 @@ export function startMatch(
   random: () => number = Math.random,
 ): TableState {
   if (state.phase !== "lobby") throw new PartyError("La partida ya ha empezado.");
-  if (state.hostId !== playerId) throw new PartyError("Solo quien abrió la mesa puede empezar.", 403);
+  const human = state.seats.find((seat) => seat.playerId === playerId && !seat.bot);
+  if (!human) throw new PartyError("Solo quien está sentado puede empezar.", 403);
+  return beginMatch(state, now, random);
+}
+
+function beginMatch(state: TableState, now: number, random: () => number): TableState {
   if (state.seats.length === 0) throw new PartyError("No hay nadie en la mesa.");
   const order = Array.from({ length: EXERCISES_PER_PLAYER }, () => state.seats.map((seat) => seat.playerId)).flat();
   return commit(
     state,
     {
       phase: "turn",
+      autoStartAt: null,
       order,
       exercises: dealExercises(state.level, order.length, random),
       turnIndex: 0,
@@ -230,7 +250,8 @@ export function submitAnswer(
 
 export function rematch(state: TableState, playerId: string, now: number): TableState {
   if (state.phase !== "ranking") throw new PartyError("La partida todavía no ha terminado.");
-  if (state.hostId !== playerId) throw new PartyError("Solo quien abrió la mesa puede repetir.", 403);
+  const human = state.seats.find((seat) => seat.playerId === playerId && !seat.bot);
+  if (!human) throw new PartyError("Solo quien está sentado puede repetir.", 403);
   const seats = state.seats
     .filter((seat) => seat.connected)
     .map((seat) => ({ ...seat, score: 0, hits: 0 }));
@@ -245,6 +266,7 @@ export function rematch(state: TableState, playerId: string, now: number): Table
       order: [],
       exercises: [],
       turnIndex: 0,
+      autoStartAt: now + LOBBY_WAIT_MS,
       turnEndsAt: null,
       revealEndsAt: null,
       lastResult: null,
@@ -382,6 +404,7 @@ export function toPublic(state: TableState, playerId: string, now: number): Publ
     turnIndex: live.turnIndex,
     turnEndsAt: live.turnEndsAt,
     revealEndsAt: live.revealEndsAt,
+    startsAt: live.phase === "lobby" ? live.autoStartAt : null,
     serverNow: now,
     exercise: visibleExercise,
     lastResult: live.lastResult

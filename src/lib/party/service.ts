@@ -6,6 +6,7 @@ import {
   joinTable,
   leaveTable,
   makeCode,
+  maybeAutoStart,
   pruneLobby,
   PartyError,
   rematch,
@@ -33,7 +34,7 @@ export async function enterParty(store: PartyStore, input: {
     if (!table) throw new PartyError("No hay ninguna mesa con ese código.", 404);
     const opened = await withoutAbsentSeats(store, table, now, input.playerId);
     if (!opened) throw new PartyError("No hay ninguna mesa con ese código.", 404);
-    const next = seatBots(joinTable(opened, { playerId: input.playerId, name, now }), now);
+    const next = maybeAutoStart(seatBots(joinTable(opened, { playerId: input.playerId, name, now }), now), now);
     await persist(store, opened, next);
     return toPublic(next, input.playerId, now);
   }
@@ -52,7 +53,7 @@ export async function enterParty(store: PartyStore, input: {
       const opened = await withoutAbsentSeats(store, fresh, now, input.playerId);
       if (!opened || humanCount(opened) >= MAX_SEATS) break;
       try {
-        const next = seatBots(joinTable(opened, { playerId: input.playerId, name, now }), now);
+        const next = maybeAutoStart(seatBots(joinTable(opened, { playerId: input.playerId, name, now }), now), now);
         if (await persist(store, opened, next)) return toPublic(next, input.playerId, now);
       } catch (error) {
         if (error instanceof PartyError && error.status === 409) break;
@@ -73,7 +74,7 @@ export async function readParty(
   const table = await requireTable(store, tableId);
   const opened = await withoutAbsentSeats(store, table, now, playerId);
   if (!opened) throw new PartyError("Esta mesa ya no existe.", 404);
-  const filled = seatBots(opened, now);
+  const filled = maybeAutoStart(seatBots(opened, now), now);
   const next = touchTable(filled, playerId, now);
   await persist(store, opened, next);
   if (!next.seats.some((seat) => seat.playerId === playerId)) {

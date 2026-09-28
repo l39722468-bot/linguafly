@@ -6,7 +6,7 @@ import MesasClient from "./MesasClient";
 export const metadata: Metadata = {
   title: "Mesas de inglés: elige nivel y juega",
   description:
-    "Elige A1, A2, B1, B2 o C1 y responde ocho ejercicios de gramática, vocabulario, phrasal verbs, false friends y fonética. La mesa cierra con el ranking.",
+    "Elige tu nivel, escribe tu nombre y entra en una mesa. Al jugar o al terminar puedes volver a la web o al inicio del juego.",
   alternates: canonicalAlternates("/mesas"),
 };
 

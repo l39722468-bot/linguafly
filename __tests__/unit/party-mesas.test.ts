@@ -12,7 +12,7 @@ import {
 } from "@/lib/party/engine";
 import { answerParty, enterParty, readParty, startParty } from "@/lib/party/service";
 import { clearPartyMemory, memoryPartyStore } from "@/lib/party/store";
-import { EXERCISES_PER_PLAYER, MAX_SEATS, REVEAL_MS, TURN_MS } from "@/lib/party/types";
+import { EXERCISES_PER_PLAYER, LOBBY_WAIT_MS, MAX_SEATS, REVEAL_MS, TURN_MS } from "@/lib/party/types";
 import type { TableState } from "@/lib/party/types";
 import { getParkedPageRedirect, isPublicSitePath } from "@/lib/site-catalog";
 
@@ -262,6 +262,30 @@ describe("mesas de inglés", () => {
     expect(fifth.id).toBe("mesa-busy");
     expect(fifth.seats).toHaveLength(5);
     expect((await store.get(fifth.id))?.seats.every((seat) => !seat.bot)).toBe(true);
+  });
+
+  it("waits so another person can sit, then starts for anyone at the table", async () => {
+    const store = memoryPartyStore();
+    const host = await enterParty(store, { playerId: "player-host", name: "Nuria", level: "C1", now: NOW });
+    expect(host.phase).toBe("lobby");
+    expect(host.startsAt).toBe(NOW + LOBBY_WAIT_MS);
+
+    const guest = await enterParty(store, { playerId: "player-guest", name: "Iker", level: "C1", now: NOW + 2_000 });
+    expect(guest.id).toBe(host.id);
+    expect(guest.phase).toBe("lobby");
+    expect(guest.startsAt).toBe(NOW + 2_000 + LOBBY_WAIT_MS);
+
+    const stillOpen = await readParty(store, host.id, "player-host", NOW + LOBBY_WAIT_MS);
+    expect(stillOpen.phase).toBe("lobby");
+
+    const startedByGuest = await startParty(store, host.id, "player-guest", NOW + 2_500);
+    expect(startedByGuest.phase).toBe("turn");
+    expect(startedByGuest.yourTurn).toBe(false);
+
+    const alone = await enterParty(store, { playerId: "player-solo", name: "Alba", level: "B2", now: NOW });
+    const playing = await readParty(store, alone.id, "player-solo", NOW + LOBBY_WAIT_MS);
+    expect(playing.phase).toBe("turn");
+    expect(playing.yourTurn).toBe(true);
   });
 
   it("keeps a correct option inside every dealt exercise", () => {
