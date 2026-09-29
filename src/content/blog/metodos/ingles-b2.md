@@ -5,9 +5,8 @@ updatedDate: '2026-09-29'
 author: linguafly-team
 title: 'Curso de Inglés B2: Guía y Preparación FCE'
 description: >-
-  Alcanza la fluidez necesaria para trabajar y estudiar en el extranjero con
-  nuestro curso B2. Prepárate para el First Certificate (FCE) y mejora tu perfil
-  profesional.
+  Alcanza el nivel B2 con un plan de inglés para trabajar, estudiar en el extranjero y
+  preparar el examen Cambridge B2 First (FCE) paso a paso.
 readTime: 5 min
 keywords:
   - 'Curso de Inglés B2: Guía y Preparación FCE'

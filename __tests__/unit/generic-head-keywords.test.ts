@@ -53,6 +53,25 @@ function keywordsFromFrontmatter(raw: string): string[] {
     .filter(Boolean);
 }
 
+function seoCopyFromFrontmatter(raw: string): { title: string; description: string } {
+  const frontmatter = raw.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n/)?.[1] || "";
+  const title = frontmatter
+    .match(/^title:\s*(.+)$/m)?.[1]
+    ?.trim()
+    .replace(/^['"]|['"]$/g, "") || "";
+  const descriptionMatch = frontmatter.match(
+    /^description:\s*(?:>-\r?\n((?: {2}.+(?:\r?\n|$))+)|(.+))$/m
+  );
+  const description = (descriptionMatch?.[1] || descriptionMatch?.[2] || "")
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .join(" ")
+    .replace(/^['"]|['"]$/g, "")
+    .trim();
+
+  return { title, description };
+}
+
 describe("head keywords on generic articles", () => {
   it.each(GENERIC_ARTICLES)("%s incluye aprender ingles y curso ingles", (relativePath) => {
     const raw = fs.readFileSync(path.join(BLOG_DIR, relativePath), "utf8");
@@ -62,5 +81,16 @@ describe("head keywords on generic articles", () => {
     expect(keywords).toEqual(expect.arrayContaining(["aprender ingles", "curso ingles"]));
     expect(body).toMatch(/(?<![a-z])aprender ingles(?![a-z])/);
     expect(body).toMatch(/(?<![a-z])curso ingles(?![a-z])/);
+  });
+
+  it.each(GENERIC_ARTICLES)("%s mantiene metadatos aptos para la SERP", (relativePath) => {
+    const raw = fs.readFileSync(path.join(BLOG_DIR, relativePath), "utf8");
+    const { title, description } = seoCopyFromFrontmatter(raw);
+
+    expect(title.length).toBeGreaterThanOrEqual(35);
+    expect(title.length).toBeLessThanOrEqual(60);
+    expect(description.length).toBeGreaterThanOrEqual(120);
+    expect(description.length).toBeLessThanOrEqual(160);
+    expect(description).not.toMatch(/\.{3}$/);
   });
 });

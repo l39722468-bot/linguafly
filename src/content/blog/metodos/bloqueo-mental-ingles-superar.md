@@ -1,7 +1,8 @@
 ---
 title: 'Bloqueo Mental al Hablar Inglés: Cómo Superarlo'
 description: >-
-  ¿Te quedas en blanco cuando hablas inglés? Aprende a superar el bloqueo mental, el miedo a hablar y la parálisis del perfeccionismo con técnicas...
+  Supera el bloqueo mental al hablar inglés con técnicas para reducir el miedo, dejar de
+  traducir y responder con más fluidez en conversaciones reales.
 readTime: 5 min
 excerpt: >-
   El bloqueo mental al hablar inglés es más común de lo que crees. Descubre las

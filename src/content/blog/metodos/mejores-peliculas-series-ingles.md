@@ -4,7 +4,8 @@ date: '2026-02-14'
 updatedDate: '2026-09-29'
 author: linguafly-team
 description: >-
-  Las mejores películas y series para aprender inglés según tu nivel: recomendaciones para A2, B1, B2 y C1 con estrategias para sacarles el máximo partido en 2026.
+  Aprende inglés con películas y series elegidas para niveles A2, B1, B2 y C1, más
+  técnicas de subtítulos, repetición y escucha activa para aprovecharlas.
 excerpt: >-
   Descubre qué películas y series en inglés son mejores para aprender según tu nivel. Guía práctica con recomendaciones para A2, B1, B2 y C1, y cómo sacarles el máximo partido.
 category: metodos

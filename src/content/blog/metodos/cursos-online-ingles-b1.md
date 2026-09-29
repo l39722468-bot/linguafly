@@ -5,9 +5,8 @@ updatedDate: '2026-09-29'
 author: linguafly-team
 title: 'Cursos Online de Inglés B1: Guía y Exámenes'
 description: >-
-  Prepara tu examen B1 de inglés con nuestro curso online. Temario completo de
-  gramática, vocabulario y simulacros de examen para Cambridge, Aptis y Oxford
-  con IA.
+  Prepara el nivel B1 con un curso de inglés online: gramática, vocabulario y simulacros
+  orientados a los exámenes Cambridge, Aptis y Oxford.
 readTime: 6 min
 keywords:
   - 'Cursos Online de Inglés B1: Guía y Exámenes'

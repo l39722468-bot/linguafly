@@ -5,7 +5,7 @@ category: idiomas
 date: '2026-09-08'
 updatedDate: '2026-09-29'
 author: linguafly-team
-title: "Cómo empezar a aprender un idioma desde cero (sin abandonar a las dos semanas)"
+title: 'Cómo Aprender un Idioma desde Cero: Plan de 14 Días'
 description: >-
   Un plan realista para empezar un idioma: 20 minutos al día, vocabulario útil,
   input comprensible y práctica que sí puedes mantener.

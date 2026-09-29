@@ -4,7 +4,8 @@ date: '2026-01-30'
 updatedDate: '2026-09-29'
 author: linguafly-team
 description: >-
-  Guía para elegir las mejores clases de inglés: academias, profesores particulares, clases online e IA. Compara opciones, costes y métodos para encontrar la...
+  Compara clases de inglés en academia, con profesor particular y online. Revisa costes,
+  flexibilidad y método para elegir la opción que mejor encaja contigo.
 excerpt: >-
   ¿Buscas clases de inglés que realmente funcionen? Descubre los diferentes
   métodos, desde clases particulares hasta la revolución de la IA, y elige la
