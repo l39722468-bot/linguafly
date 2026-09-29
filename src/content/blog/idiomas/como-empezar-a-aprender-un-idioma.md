@@ -36,7 +36,7 @@ faqs:
 alt: 'Persona empezando un idioma con un cuaderno, un temporizador y auriculares'
 ---
 
-> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+> **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
 
 Empezar un idioma suele fallar por la misma razón: el plan es demasiado grande. Quieres “hablar fluído”, compras tres apps, un curso y un cuaderno, y a los diez días el cansancio gana. Un comienzo útil es más pequeño y más concreto.
 

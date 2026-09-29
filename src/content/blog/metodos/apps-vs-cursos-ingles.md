@@ -53,7 +53,7 @@ faqs:
 alt: Comparación visual entre una app de idiomas y una clase de inglés
 ---
 
-> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+> **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
 
 ## Apps vs. Cursos de Inglés: ¿Qué elegir para llegar a C1 en 2026?
 

@@ -45,7 +45,7 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/clases-de-ingles-guia'
 ---
 
-> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+> **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
 
 ## El desafío de elegir las clases de inglés adecuadas
 

@@ -44,7 +44,7 @@ excerpt: >
   Qué aprenderás en el nivel A2, cuánto tarda alcanzarlo desde A1 y cómo estructurar tus clases. El nivel elemental explicado de forma clara y práctica.
 ---
 
-> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+> **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
 
 ## Curso de Inglés A2: De las Frases Sueltas a las Conversaciones Reales
 

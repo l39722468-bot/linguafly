@@ -98,7 +98,8 @@ describe("head keywords on generic articles", () => {
     const raw = fs.readFileSync(path.join(BLOG_DIR, relativePath), "utf8");
     const bodyStart = bodyAfterFrontmatter(raw).slice(0, 500);
 
-    expect(bodyStart).toContain("Prueba gratis nuestros cursos de inglés");
-    expect(bodyStart).toContain("[cursos de inglés A1–C2](/idiomas#niveles)");
+    expect(bodyStart).toContain(
+      "[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles)"
+    );
   });
 });

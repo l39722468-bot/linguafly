@@ -50,7 +50,7 @@ canonical: 'https://linguafly.app/blog/metodos/como-estudiar-ingles-sin-tiempo'
 alt: Rutina corta de inglés en el móvil durante un trayecto en transporte
 ---
 
-> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+> **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
 
 ## Cómo Estudiar Inglés si no tienes Tiempo: Guía para Agendas Ocupadas
 

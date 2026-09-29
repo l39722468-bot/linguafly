@@ -47,7 +47,7 @@ excerpt: >
   Los mejores cursos online de inglés B1 con simulacros de examen y temario completo. Compara opciones gratuitas y de pago para conseguir tu título oficial.
 ---
 
-> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+> **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
 
 ## Cursos Online de Inglés B1: Domina el Nivel Intermedio
 

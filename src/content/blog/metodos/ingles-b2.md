@@ -44,7 +44,7 @@ excerpt: >
   Qué significa tener nivel B2, qué puedes hacer con él y cómo conseguirlo. Con plan de estudio, exámenes recomendados y tiempo medio de preparación.
 ---
 
-> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+> **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
 
 ## Curso de Inglés B2: El Salto a la Fluidez Profesional
 

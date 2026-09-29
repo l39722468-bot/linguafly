@@ -36,7 +36,7 @@ canonical: 'https://linguafly.app/blog/metodos/hablar-ingles-con-fluidez'
 alt: Conversación distendida en inglés en una cafetería
 ---
 
-> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+> **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
 
 Hay una diferencia enorme entre *saber inglés* y *hablar inglés con fluidez*. Muchos estudiantes tienen un nivel B2 certificado pero se quedan en blanco cuando tienen que mantener una conversación real. El problema no es el vocabulario ni la gramática — es la **falta de práctica oral sistemática**.
 
