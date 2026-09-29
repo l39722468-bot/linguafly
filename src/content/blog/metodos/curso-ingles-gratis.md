@@ -1,7 +1,7 @@
 ---
 title: 'Mejores Cursos de Inglés Gratis Online en 2026'
 date: '2026-03-20'
-updatedDate: '2026-09-04'
+updatedDate: '2026-09-29'
 author: linguafly-team
 excerpt: 'Descubre los mejores cursos de inglés gratuitos online en 2026: BBC Learning English, British Council, Duolingo, YouTube educativo y más. Con plan de estudio de 6 meses.'
 description: >-
@@ -12,6 +12,8 @@ readTime: 9 min
 alt: 'Persona estudiando inglés gratis desde casa con el ordenador'
 keywords:
   - Mejores Cursos de Inglés Gratis Online en 2026
+  - aprender ingles
+  - curso ingles
   - curso inglés gratis 2026
   - curso de inglés gratis online desde cero
   - cursos de inglés gratuitos por niveles A1 B2

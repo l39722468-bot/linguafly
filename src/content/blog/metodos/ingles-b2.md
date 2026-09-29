@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-02-07'
-updatedDate: '2026-09-04'
+updatedDate: '2026-09-29'
 author: linguafly-team
 title: 'Curso de Inglés B2: Guía y Preparación FCE'
 description: >-
@@ -11,6 +11,8 @@ description: >-
 readTime: 5 min
 keywords:
   - 'Curso de Inglés B2: Guía y Preparación FCE'
+  - aprender ingles
+  - curso ingles
   - curso inglés b2
   - curso de inglés B2 gratis online
   - cómo alcanzar el nivel B2 de inglés desde B1
@@ -46,6 +48,8 @@ excerpt: >
 ## Curso de Inglés B2: El Salto a la Fluidez Profesional
 
 El **Nivel B2** (Usuario Independiente) es el estándar de oro para el mundo laboral y académico internacional en 2026. Es el nivel donde dejas de traducir mentalmente y empiezas a **pensar en inglés**. En el **nivel intermedio-alto de inglés**, la comunicación deja de ser funcional para convertirse en estratégica.
+
+El B2 es la meta laboral de mucha gente que quiere **aprender ingles** y elige un **curso ingles** con examen o con práctica real.
 
 Quien busca **curso inglés b2** o **curso de inglés B2 gratis online** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
 

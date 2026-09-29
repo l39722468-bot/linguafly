@@ -1,7 +1,7 @@
 ---
 title: 'Cómo aprender inglés si trabajas todo el día'
 date: '2026-09-26'
-updatedDate: '2026-09-26'
+updatedDate: '2026-09-29'
 author: linguafly-team
 description: >-
   Cómo aprender inglés si trabajo todo el día: planes de 3, 5 y 7 días, una
@@ -12,6 +12,8 @@ category: metodos
 readTime: 12 min
 keywords:
   - cómo aprender inglés si trabajo todo el día
+  - aprender ingles
+  - curso ingles
   - aprender inglés con poco tiempo
   - inglés para adultos ocupados
   - estudiar inglés 30 minutos al día
@@ -39,6 +41,8 @@ related_routes:
 ---
 
 El British Council ha anunciado una actualización de su oferta para adultos: módulos más claros, práctica apoyada por inteligencia artificial y estudio online que se puede mover de hora. Linguafly no reproduce ese temario. La tendencia sí coincide con lo que necesita quien sale tarde del trabajo: un itinerario corto, repetible y compatible con la semana real.
+
+Esta rutina está pensada para quien quiere **aprender ingles** mientras trabaja, sin depender de un **curso ingles** con horario de academia.
 
 Si la pregunta es cómo aprender inglés si trabajo todo el día, la respuesta no es “cuando tenga vacaciones”. Es un modelo híbrido: un poco de input, un poco de producción y un feedback breve. Las ideas sueltas de huecos muertos están en [estudiar inglés sin tiempo](/blog/metodos/como-estudiar-ingles-sin-tiempo). Aquí está el horario.
 

@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-02-07'
-updatedDate: '2026-08-31'
+updatedDate: '2026-09-29'
 author: linguafly-team
 title: 'Inglés A1 desde Cero: Plan de Estudio y Recursos'
 description: >-
@@ -10,6 +10,8 @@ description: >-
 readTime: 3 min
 keywords:
   - 'Inglés A1: Guía para Empezar desde Cero'
+  - aprender ingles
+  - curso ingles
   - aprender inglés desde cero
   - Inglés A1 desde Cero
   - Ingles A1 desde Cero
@@ -48,6 +50,8 @@ excerpt: >
 ## Tu Viaje con el Inglés Comienza Aquí
 
 El **Nivel A1** es el peldaño más emocionante de tu aprendizaje: es el momento en el que dejas de ser un espectador para convertirte en un comunicador. Si alguna vez has sentido que el inglés "no es para ti", esta guía te demostrará que solo necesitabas el enfoque correcto.
+
+Empezar de cero es la forma más habitual de **aprender ingles**, y un **curso ingles** de nivel A1 evita saltar vocabulario sin base.
 
 Si llegas con la consulta **Inglés A1: Guía para Empezar desde Cero**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
 

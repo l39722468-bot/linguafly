@@ -1,7 +1,7 @@
 ---
 category: metodos
 date: '2026-03-02'
-updatedDate: '2026-09-04'
+updatedDate: '2026-09-29'
 author: linguafly-team
 title: '¿Cómo Aprender Inglés A2? Curso Online con Ejercicios'
 description: >-
@@ -10,6 +10,8 @@ description: >-
 readTime: 6 min
 keywords:
   - 'Curso de Inglés A2 Online: Guía y Ejercicios'
+  - aprender ingles
+  - curso ingles
   - curso inglés a2
   - Cómo Aprender Inglés A2
   - Como Aprender Ingles A2
@@ -45,6 +47,8 @@ excerpt: >
 ## Curso de Inglés A2: De las Frases Sueltas a las Conversaciones Reales
 
 Si ya conoces los saludos básicos y puedes decir tu nombre y profesión, el **Nivel A2** (Plataforma) es donde ocurre la verdadera transformación. Es el momento en el que dejas de "sobrevivir" con el idioma y empiezas a **comunicar tus experiencias**. En el **nivel elemental de inglés**, el objetivo es ganar la confianza suficiente para moverte por el mundo con independencia.
+
+El A2 es el punto en el que **aprender ingles** deja de ser saludos y un **curso ingles** tiene que obligarte a producir frases propias.
 
 Quien busca **Curso de Inglés A2 Online: Guía y Ejercicios** o **curso inglés a2** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
 

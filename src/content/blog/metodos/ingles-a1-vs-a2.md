@@ -10,6 +10,8 @@ excerpt: >-
   elemental.
 keywords:
   - 'Inglés A1 vs A2: Diferencias y Cómo Avanzar'
+  - aprender ingles
+  - curso ingles
   - ingles a1 vs a2
   - diferencias entre inglés A1 y A2 con ejemplos
   - cómo saber si tengo nivel A1 o A2 de inglés
@@ -17,7 +19,7 @@ keywords:
   - gramática inglesa A1 y A2 para principiantes
   - curso gratis de inglés desde A1 hasta A2
 date: '2024-02-03'
-updatedDate: '2026-09-04'
+updatedDate: '2026-09-29'
 category: metodos
 author: linguafly-team
 faqs:
@@ -47,6 +49,8 @@ alt: Escala de niveles A1 y A2 de inglés en una infografía sencilla
 ## Inglés A1 vs A2: ¿Cuál es tu Nivel Real y cómo Seguir Progresando?
 
 Cuando empezamos a estudiar inglés, a menudo nos sentimos abrumados por las etiquetas de los niveles. El Marco Común Europeo de Referencia para las lenguas (MCER) es el estándar internacional que define la competencia lingüística, y divide el nivel básico en dos etapas críticas: **A1 (Acceso)** y **A2 (Plataforma)**.
+
+Quien empieza a **aprender ingles** con un **curso ingles** casi siempre duda si está en A1 o ya en A2.
 
 Quien busca **diferencias entre inglés A1 y A2 con ejemplos** o **cómo saber si tengo nivel A1 o A2 de inglés** está en el texto: cada apartado lo explica en contexto, dentro de la frase o del ejemplo.
 
