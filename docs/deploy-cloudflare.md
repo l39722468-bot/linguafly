@@ -53,17 +53,21 @@ No se embebe `blog-articles.json` en el Worker: a 100k artículos reventaría el
 - `OPENAI_API_KEY`
 - `CLOUDFLARE_ACCOUNT_ID` / `CLOUDFLARE_API_TOKEN` (Workers AI / TTS internos)
 - `NEXT_PUBLIC_GA_MEASUREMENT_ID=G-ZNL3VGHK2E` (propiedad Linguafly; no uses `G-TNTG3MJ3TL` ni `G-845LV77ZG9`), Cookiebot/CMP públicos
-- `NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH=/gtag` (ruta first-party; vacía = googletagmanager.com)
+- `NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH=/gtag` (ruta first-party reservada; el HTML sigue usando googletagmanager.com)
+- `NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_INLINE=1` solo si el rewrite de zona está apagado y el snippet debe usar `src="/gtag/"`
 - `INDEXNOW_*` si aplica
 
 ### Google Tag Gateway (Cloudflare)
 
-El snippet carga `<script async src="/gtag/">` + `gtag('config', 'G-ZNL3VGHK2E')`. En el panel **Google Tag Gateway for linguafly.app**:
+El snippet carga la URL oficial (`https://www.googletagmanager.com/gtag/js?id=G-ZNL3VGHK2E`) + `gtag('config', 'G-ZNL3VGHK2E')`. Cloudflare Tag Gateway reescribe esa petición a first-party `/gtag/`. **No pongas `src="/gtag/"` en el HTML**: el panel inyecta el loader y PageSpeed lo descarga dos veces (~180 KiB × 2).
 
-1. Toggle **on** (ya está en la captura).
+En el panel **Google Tag Gateway for linguafly.app**:
+
+1. Toggle **on**.
 2. Measurement ID: `G-ZNL3VGHK2E`.
 3. Measurement path: **`/gtag`** — no uses `/metrics` (el Worker legado responde JSON ahí).
-4. **Actualizar configuración** si la ruta del panel no es `/gtag`.
+4. **Desactiva «Set up tag» / configurar etiqueta automática.** Ya emitimos Consent Mode + gtag en el layout; la inyección extra duplica el JS. Google pide apagar el setup automático si usas Consent Mode.
+5. **Actualizar configuración** si la ruta del panel no es `/gtag`.
 
 Este repo no puede hacer PUT a la API de zona (`.../settings/google-tag-gateway/config`) sin un token de Cloudflare.
 
