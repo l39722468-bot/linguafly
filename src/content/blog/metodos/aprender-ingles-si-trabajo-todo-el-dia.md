@@ -40,6 +40,8 @@ related_routes:
   - ejercicios-pronunciacion-ingles
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 El British Council ha anunciado una actualización de su oferta para adultos: módulos más claros, práctica apoyada por inteligencia artificial y estudio online que se puede mover de hora. Linguafly no reproduce ese temario. La tendencia sí coincide con lo que necesita quien sale tarde del trabajo: un itinerario corto, repetible y compatible con la semana real.
 
 Esta rutina está pensada para quien quiere **aprender ingles** mientras trabaja, sin depender de un **curso ingles** con horario de academia.

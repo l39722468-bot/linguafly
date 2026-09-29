@@ -63,6 +63,8 @@ excerpt: >
   Qué significa el nivel C2 de inglés, qué exámenes lo certifican (CPE) y cómo alcanzar la maestría total del idioma. Guía honesta para hispanohablantes.
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 El **nivel C2** es la cumbre del Marco Común Europeo de Referencia (MCER). No significa "hablar inglés como un nativo" en el sentido coloquial, sino dominar el idioma con la **precisión, riqueza y agilidad de un hablante nativo con formación superior**: alguien que puede usar el idioma en contextos académicos, literarios, diplomáticos o técnicos sin limitación ninguna.
 
 Quien quiere **aprender ingles** hasta el techo del MCER necesita un **curso ingles** distinto al de los niveles intermedios.

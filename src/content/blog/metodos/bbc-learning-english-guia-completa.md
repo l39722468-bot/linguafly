@@ -39,6 +39,8 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/bbc-learning-english-guia-completa'
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## BBC Learning English: El Recurso Gratuito que Muchos Estudiantes Subestiman
 
 Hay una plataforma que combina la credibilidad de una de las instituciones mediáticas más respetadas del mundo, contenido de nivel profesional, pedagogía estructurada y precio de cero euros. Se llama **BBC Learning English** y, a pesar de llevar décadas disponible, sigue siendo uno de los recursos más infrautilizados entre los estudiantes de inglés hispanohablantes.

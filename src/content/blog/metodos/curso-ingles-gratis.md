@@ -36,6 +36,8 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/curso-ingles-gratis'
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## Curso de Inglés Gratis: Los Mejores Recursos para Aprender sin Pagar en 2026
 
 Aprender inglés nunca ha sido tan accesible. Hoy puedes acceder a materiales de instituciones de primer nivel —BBC, British Council, universidades— sin gastar un solo euro. El problema no es la falta de recursos gratuitos, sino saber cuáles usar, en qué orden y cómo organizarlos para avanzar de verdad.

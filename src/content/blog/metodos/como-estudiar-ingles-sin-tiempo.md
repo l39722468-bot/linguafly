@@ -50,6 +50,8 @@ canonical: 'https://linguafly.app/blog/metodos/como-estudiar-ingles-sin-tiempo'
 alt: Rutina corta de inglés en el móvil durante un trayecto en transporte
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## Cómo Estudiar Inglés si no tienes Tiempo: Guía para Agendas Ocupadas
 
 *"Me encantaría aprender inglés, pero no tengo tiempo"*. Esta es la excusa número uno que escuchamos en el mundo del aprendizaje de idiomas. Y es comprensible: entre el trabajo, la familia, el gimnasio y la necesidad de descanso, encontrar una hora libre para ir a una academia tradicional parece una misión imposible.

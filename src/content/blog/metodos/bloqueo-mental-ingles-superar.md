@@ -39,6 +39,8 @@ canonical: 'https://linguafly.app/blog/metodos/bloqueo-mental-ingles-superar'
 alt: Persona tomando aire antes de hablar inglés en una conversación
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 Conoces la gramática. Tienes vocabulario. Puedes leer artículos en inglés sin problema. Pero cuando alguien te habla en inglés... te quedas en blanco. Tu mente se paraliza, buscas las palabras en español y el silencio se hace eterno.
 
 El bloqueo aparece cuando ya sabes algo y aun así no puedes **aprender ingles** hablando, aunque lleves meses en un **curso ingles**.

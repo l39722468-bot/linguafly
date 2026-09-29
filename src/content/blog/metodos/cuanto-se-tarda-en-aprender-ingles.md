@@ -45,6 +45,8 @@ canonical: 'https://linguafly.app/blog/metodos/cuanto-se-tarda-en-aprender-ingle
 alt: Calendario de estudio de inglés con horas por nivel anotadas
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## ¿Cuánto se tarda en aprender inglés realmente? La Guía Definitiva
 
 *"¿En cuánto tiempo seré capaz de hablar inglés con fluidez?"*. Es una duda lógica, especialmente cuando el tiempo es nuestro recurso más escaso. Sin embargo, la respuesta no es un número mágico, sino una combinación de variables que dependen de tu punto de partida, tu meta y, sobre todo, tu método.

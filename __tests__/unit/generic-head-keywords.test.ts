@@ -93,4 +93,12 @@ describe("head keywords on generic articles", () => {
     expect(description.length).toBeLessThanOrEqual(160);
     expect(description).not.toMatch(/\.{3}$/);
   });
+
+  it.each(GENERIC_ARTICLES)("%s invita al curso gratuito al inicio", (relativePath) => {
+    const raw = fs.readFileSync(path.join(BLOG_DIR, relativePath), "utf8");
+    const bodyStart = bodyAfterFrontmatter(raw).slice(0, 500);
+
+    expect(bodyStart).toContain("Prueba gratis nuestros cursos de inglés");
+    expect(bodyStart).toContain("[cursos de inglés A1–C2](/idiomas#niveles)");
+  });
 });

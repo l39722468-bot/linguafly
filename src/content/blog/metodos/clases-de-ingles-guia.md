@@ -45,6 +45,8 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/clases-de-ingles-guia'
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## El desafío de elegir las clases de inglés adecuadas
 
 En 2026, el mercado de la educación ha evolucionado radicalmente. Ya no basta con sentarse en un aula y completar ejercicios de gramática en un libro. Si estás buscando **clases de inglés**, probablemente tu objetivo sea algo concreto: conseguir un mejor puesto de trabajo, viajar por el mundo sin barreras o aprobar un examen oficial.

@@ -39,6 +39,8 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/mejores-canales-youtube-aprender-ingles'
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## YouTube para Aprender Inglés: El Recurso Gratuito Más Potente que Existe
 
 Si tienes conexión a internet y quieres aprender inglés, ya tienes acceso al recurso gratuito más potente del mundo: YouTube. Millones de horas de contenido educativo, lecciones de pronunciación, explicaciones de gramática, series en versión original, conversaciones nativas, debates y mucho más, todo gratis.

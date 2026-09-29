@@ -44,6 +44,8 @@ excerpt: >
   Qué significa tener nivel B2, qué puedes hacer con él y cómo conseguirlo. Con plan de estudio, exámenes recomendados y tiempo medio de preparación.
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## Curso de Inglés B2: El Salto a la Fluidez Profesional
 
 El **Nivel B2** (Usuario Independiente) es el estándar de oro para el mundo laboral y académico internacional en 2026. Es el nivel donde dejas de traducir mentalmente y empiezas a **pensar en inglés**. En el **nivel intermedio-alto de inglés**, la comunicación deja de ser funcional para convertirse en estratégica.

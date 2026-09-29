@@ -46,6 +46,8 @@ canonical: 'https://linguafly.app/blog/metodos/ingles-a1-vs-a2'
 alt: Escala de niveles A1 y A2 de inglés en una infografía sencilla
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## Inglés A1 vs A2: ¿Cuál es tu Nivel Real y cómo Seguir Progresando?
 
 Cuando empezamos a estudiar inglés, a menudo nos sentimos abrumados por las etiquetas de los niveles. El Marco Común Europeo de Referencia para las lenguas (MCER) es el estándar internacional que define la competencia lingüística, y divide el nivel básico en dos etapas críticas: **A1 (Acceso)** y **A2 (Plataforma)**.

@@ -57,6 +57,8 @@ excerpt: >
   Todo sobre el nivel C1 de inglés: qué significa, qué exámenes lo certifican y cómo prepararte para el CAE. Con plan de estudio para nivel B2+.
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 El **nivel C1** es el segundo nivel más alto del Marco Común Europeo de Referencia (MCER). Según el Consejo de Europa, un usuario de nivel C1 puede expresarse de forma **fluida, espontánea y con precisión** en situaciones complejas, ya sean académicas, profesionales o sociales.
 
 El C1 no se improvisa: **aprender ingles** hasta este nivel pide un **curso ingles** que trabaje matices, no solo vocabulario nuevo.

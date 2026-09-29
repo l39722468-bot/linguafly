@@ -53,6 +53,8 @@ faqs:
 alt: Comparación visual entre una app de idiomas y una clase de inglés
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## Apps vs. Cursos de Inglés: ¿Qué elegir para llegar a C1 en 2026?
 
 Si tu objetivo es alcanzar un C1 real, la pregunta no es "app o curso" sino **qué combinación te da progreso medible**. Para la mayoría de adultos, la mejor estrategia es usar app para mantener constancia y una ruta guiada para speaking, writing y feedback.

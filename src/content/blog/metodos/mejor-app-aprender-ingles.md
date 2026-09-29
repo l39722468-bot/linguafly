@@ -44,6 +44,8 @@ faqs:
       un solo día.
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## Respuesta rápida (sin dar vueltas)
 
 La mejor app depende de tu objetivo: **Duolingo** para construir el hábito, **Babbel** (y también **Busuu**) para avanzar con estructura y gramática, **Pimsleur** para entrenar el speaking desde el oído, **Elsa Speak** para corregir pronunciación, **Memrise** para vocabulario con contexto y exposición real, y **Rosetta Stone** si prefieres un enfoque inmersivo guiado. Si tu prioridad es **conversación con feedback humano**, encajan plataformas tipo **Preply** o clases online; **Linguafly** es sobre todo **blog y guías** (complemento editorial), no una app de speaking.

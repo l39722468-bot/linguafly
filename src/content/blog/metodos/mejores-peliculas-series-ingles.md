@@ -37,6 +37,8 @@ faqs:
 canonical: 'https://linguafly.app/blog/metodos/mejores-peliculas-series-ingles'
 ---
 
+> **Prueba gratis nuestros cursos de inglés.** Elige tu nivel en los [cursos de inglés A1–C2](/idiomas#niveles) y estudia con guías, vocabulario y ejercicios organizados por unidad.
+
 ## Películas y Series para Aprender Inglés: La Guía que Necesitas
 
 Ver contenido en versión original no es solo entretenimiento: es una de las estrategias de inmersión más poderosas para mejorar tu inglés. Pero no todo el contenido sirve para todos los niveles, y ver una serie sin estrategia es poco más que tiempo de ocio.
