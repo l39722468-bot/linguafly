@@ -95,6 +95,8 @@ describe("site catalog", () => {
     expect(getParkedPageRedirect("/frases-en-ingles")).toBe("/");
     expect(getParkedPageRedirect("/vocabulario")).toBe("/");
     expect(getParkedPageRedirect("/fitness")).toBe("/entrenamiento");
+    expect(getParkedPageRedirect("/misiones")).toBe("/");
+    expect(getParkedPageRedirect("/pagina-que-no-existe-xyz")).toBeNull();
     expect(getParkedPageRedirect("/idiomas")).toBeNull();
     expect(getParkedPageRedirect("/blog/entrenamiento/rutina-fuerza-principiantes-casa")).toBeNull();
     expect(getParkedPageRedirect("/llms.txt")).toBeNull();

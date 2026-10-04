@@ -39,7 +39,7 @@ describe("markdown twins", () => {
   it("builds llms.txt with H1, summary and markdown links", () => {
     const txt = buildLlmsTxt([sampleArticle]);
     expect(txt.startsWith("# Linguafly\n")).toBe(true);
-    expect(txt).toContain("> Revista práctica");
+    expect(txt).toContain("> Aprende inglés con guías prácticas");
     expect(txt).toContain("## Temáticas");
     expect(txt).toContain("https://linguafly.app/idiomas.md");
     expect(txt).toContain(

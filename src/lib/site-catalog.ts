@@ -504,6 +504,32 @@ export function isPublicSitePath(pathname: string): boolean {
 }
 
 /**
+ * Rutas antiguas que existieron en la web (siguen en src/app pero el Worker no
+ * las sirve). Mantienen su 301 a la home. Cualquier otra URL desconocida da 404.
+ */
+const LEGACY_HOME_REDIRECT_PREFIXES = [
+  "/aplicaciones-para-aprender-ingles",
+  "/certificaciones-ingles-oficiales",
+  "/content",
+  "/cursos-por-sector",
+  "/demo-course",
+  "/frases-en-ingles",
+  "/herramientas",
+  "/ingles-para-viajar",
+  "/juego-ingles",
+  "/misiones",
+  "/monetag",
+  "/practice",
+  "/preview",
+  "/test-nivel",
+  "/test-toefl",
+  "/test-translation",
+  "/tutor-ia",
+  "/tutor-privado",
+  "/vocabulario",
+] as const;
+
+/**
  * El Worker de Cloudflare solo sirve artículos. Las unidades /curso-* y los
  * hubs /blog/temas no existen ahí. 301 a la URL canónica (artículo o sección).
  */
@@ -561,5 +587,9 @@ export function getParkedPageRedirect(
     return "/blog/trabajo";
   }
   if (path.startsWith("/curso-")) return "/blog";
-  return "/";
+  if (LEGACY_HOME_REDIRECT_PREFIXES.some((prefix) => path === prefix || path.startsWith(`${prefix}/`))) {
+    return "/";
+  }
+  // URL desconocida: sin redirección, Next devuelve un 404 real (evita soft 404 a la home).
+  return null;
 }

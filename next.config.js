@@ -279,16 +279,7 @@ const nextConfig = {
         destination: '/blog/metodos/:slug*',
         statusCode: 301,
       },
-      {
-        source: '/blog/habilidades',
-        destination: '/blog/metodos',
-        statusCode: 301,
-      },
-      {
-        source: '/blog/habilidades/:slug*',
-        destination: '/blog/metodos/:slug*',
-        statusCode: 301,
-      },
+      // /blog/habilidades es una categoría pública: ya no redirige a /blog/metodos.
       // SEO - Redirecciones específicas de antiguos artículos en /blog/seo/
       {
         source: '/blog/seo/ingles-para-viajar',
