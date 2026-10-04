@@ -27,12 +27,13 @@ export function OrganizationSchema() {
       "@type": "Country",
       "name": "España"
     },
-    "knowsAbout": ["Idiomas", "Alimentación", "Entrenamiento", "Inteligencia artificial"]
+    "knowsAbout": ["Inglés", "Gramática inglesa", "Exámenes oficiales de inglés", "Inglés para negocios", "Inglés para viajes"]
   };
 
   return (
     <script
       type="application/ld+json"
+      data-jsonld-id="jsonld-organization"
       dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
     />
   );
@@ -218,6 +219,7 @@ export function WebsiteSchema() {
   return (
     <script
       type="application/ld+json"
+      data-jsonld-id="jsonld-website"
       dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
     />
   );

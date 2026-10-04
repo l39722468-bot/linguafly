@@ -3,7 +3,6 @@ import "./globals.css";
 import { OrganizationSchema, WebsiteSchema } from "./schema";
 import GoogleHeadScripts from "@/components/GoogleHeadScripts";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
-import MatomoAnalytics from "@/components/MatomoAnalytics";
 import IubendaConsent from "@/components/IubendaConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
@@ -79,16 +78,6 @@ export default function RootLayout({
         <IubendaConsent />
         {/* Snippet nativo en HTML (no next/script / __next_s). */}
         <GoogleHeadScripts />
-        {/* Microsoft Clarity tracking code for linguafly.app */}
-        <script
-          dangerouslySetInnerHTML={{
-            __html: `(function(c,l,a,r,i,t,y){
-              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-              t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";
-              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-            })(window, document, "clarity", "script", "ybyy7k072w");`,
-          }}
-        />
         <link rel="describedby" href={getAbsoluteUrl("/llms.txt")} />
         {/* Preconnect críticos: imágenes, fonts, iubenda, gtag */}
         <link rel="preconnect" href="https://www.googletagmanager.com" />
@@ -114,7 +103,6 @@ export default function RootLayout({
 
         {/* Anti-piracy protection */}
         <meta name="robots" content="max-image-preview:large" />
-        
 
       </head>
       <body className="antialiased bg-white text-slate-900 font-sans" suppressHydrationWarning>
@@ -123,7 +111,17 @@ export default function RootLayout({
         {children}
         {/* Scripts deferidos: no bloquean first paint */}
         <GoogleAnalytics />
-        <MatomoAnalytics />
+        {/*
+         * JSON-LD deduplication: OpenNext/Cloudflare + force-dynamic pages
+         * can emit Server Component <script> tags twice (initial HTML + RSC
+         * payload). This inline script removes duplicate JSON-LD blocks by
+         * their data-jsonld-id attribute before crawlers see them.
+         */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){var s=document.querySelectorAll('script[type="application/ld+json"][data-jsonld-id]');var seen=Object.create(null);for(var i=0;i<s.length;i++){var id=s[i].getAttribute('data-jsonld-id');if(seen[id]){s[i].parentNode.removeChild(s[i]);}else{seen[id]=true;}}})();`,
+          }}
+        />
         {/* Copyright watermark - contraste 4.5:1 (WCAG AA) */}
         <div
           style={{
