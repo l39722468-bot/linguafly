@@ -189,9 +189,9 @@ function prioritizeRecentCourseArticles(articles: BlogPost[]): BlogPost[] {
 
 /**
  * Qué markdown entra en D1 / listados públicos:
- * - revista (idiomas, alimentación, entrenamiento, inteligencia artificial): solo `published: true`
+ * - revista (idiomas): solo `published: true`
  * - archivo de inglés: todo el markdown de esas categorías (el flag falta en lo antiguo)
- * - fitness y el resto: fuera
+ * - el resto: fuera
  */
 export function isPublicPublishedArticle(article: BlogPost): boolean {
   const category = normalizeCategory(article.category);
@@ -213,7 +213,7 @@ function loadAllArticles(): BlogPost[] {
   return allArticlesCache;
 }
 
-/** Todos los markdown del repo, incluido fitness y borradores. */
+/** Todos los markdown del repo, incluidos borradores. */
 export function getAllBlogArticles(): BlogPost[] {
   return loadAllArticles();
 }

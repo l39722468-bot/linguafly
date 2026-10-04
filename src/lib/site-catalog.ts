@@ -1,8 +1,8 @@
 /**
  * Catálogo público de la revista.
  *
- * Temáticas propias (idiomas / alimentación / entrenamiento / inteligencia
- * artificial) más el archivo de artículos para aprender inglés, servido desde
+ * Temática propia (idiomas: aprender inglés)
+ * más el archivo de artículos para aprender inglés, servido desde
  * D1 en las URLs originales `/blog/{categoria}/{slug}` para no romper SEO.
  */
 
@@ -20,9 +20,6 @@ export { getArticleCanonicalPath };
 
 export const MAGAZINE_ARTICLE_CATEGORIES = [
   "idiomas",
-  "alimentacion",
-  "entrenamiento",
-  "inteligencia-artificial",
 ] as const;
 
 export const ENGLISH_LEARNING_CATEGORIES = [
@@ -83,7 +80,7 @@ export type SiteVertical = {
 };
 
 export type EnglishLearningSection = {
-  slug: Exclude<PublicArticleCategory, "alimentacion" | "entrenamiento" | "inteligencia-artificial">;
+  slug: PublicArticleCategory;
   href: string;
   name: string;
   shortName: string;
@@ -121,60 +118,6 @@ export const SITE_VERTICALS: readonly SiteVertical[] = [
       "Más de 800 guías para aprender inglés, clasificadas por temática (gramática, viajes, trabajo, exámenes) y por nivel A1–C1.",
     icon: "🗣️",
     tone: CORAL,
-  },
-  {
-    slug: "alimentacion",
-    href: "/alimentacion",
-    blogHref: "/blog/alimentacion",
-    name: "Alimentación",
-    shortName: "Alimentación",
-    tagline: "Comer mejor sin dietas extremas",
-    description:
-      "Comidas reales, planificación sencilla y criterios para elegir qué poner en el plato según tu día.",
-    icon: "🥗",
-    tone: {
-      badge: "bg-emerald-100 text-emerald-800",
-      gradient: "from-emerald-500 to-lime-500",
-      text: "text-emerald-700",
-      soft: "bg-emerald-50",
-      border: "border-emerald-100",
-    },
-  },
-  {
-    slug: "entrenamiento",
-    href: "/entrenamiento",
-    blogHref: "/blog/entrenamiento",
-    name: "Entrenamiento",
-    shortName: "Entrenamiento",
-    tagline: "Fuerza, constancia y progreso sin lesionarte",
-    description:
-      "Rutinas y principios para entrenar en casa o en el gimnasio, con una dosis que puedas repetir semana a semana.",
-    icon: "💪",
-    tone: {
-      badge: "bg-sky-100 text-sky-800",
-      gradient: "from-sky-500 to-indigo-500",
-      text: "text-sky-700",
-      soft: "bg-sky-50",
-      border: "border-sky-100",
-    },
-  },
-  {
-    slug: "inteligencia-artificial",
-    href: "/inteligencia-artificial",
-    blogHref: "/blog/inteligencia-artificial",
-    name: "Inteligencia artificial",
-    shortName: "IA",
-    tagline: "Usar un chatbot con criterio, no con humo",
-    description:
-      "Prompts, comprobación y privacidad para trabajo, estudio y casa. Una tarea por artículo, sin jerga de keynote.",
-    icon: "✨",
-    tone: {
-      badge: "bg-violet-100 text-violet-800",
-      gradient: "from-violet-500 to-indigo-500",
-      text: "text-violet-700",
-      soft: "bg-violet-50",
-      border: "border-violet-100",
-    },
   },
 ] as const;
 
@@ -450,9 +393,6 @@ const EXACT_PUBLIC_PATHS = new Set([
   "/",
   "/blog",
   "/idiomas",
-  "/alimentacion",
-  "/entrenamiento",
-  "/inteligencia-artificial",
   "/privacidad",
   "/cookies",
   "/terminos",
@@ -501,6 +441,28 @@ export function isPublicSitePath(pathname: string): boolean {
   if (twin) return isPublicSitePath(twin);
   if (EXACT_PUBLIC_PATHS.has(path)) return true;
   return PUBLIC_PREFIXES.some((prefix) => path === prefix || path.startsWith(`${prefix}/`));
+}
+
+/**
+ * Temáticas eliminadas (la web solo trata de aprender inglés). Sus URLs
+ * responden 410 Gone para que Google las retire del índice cuanto antes.
+ */
+export const REMOVED_TOPIC_PREFIXES = [
+  "/alimentacion",
+  "/entrenamiento",
+  "/inteligencia-artificial",
+  "/fitness",
+  "/blog/alimentacion",
+  "/blog/entrenamiento",
+  "/blog/inteligencia-artificial",
+  "/blog/fitness",
+] as const;
+
+export function isRemovedTopicPath(pathname: string): boolean {
+  const path = normalizePathname(pathname);
+  return REMOVED_TOPIC_PREFIXES.some(
+    (prefix) => path === prefix || path === `${prefix}.md` || path.startsWith(`${prefix}/`),
+  );
 }
 
 /**
@@ -562,7 +524,6 @@ export function getParkedPageRedirect(
   }
 
   if (path.startsWith("/blog")) return "/blog";
-  if (path === "/fitness") return "/entrenamiento";
   if (path === "/aprender-ingles") return "/idiomas";
   if (path === "/podcasts") return "/blog";
 

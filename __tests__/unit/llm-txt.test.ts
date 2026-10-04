@@ -12,13 +12,13 @@ import {
 import type { BlogPost } from "@/lib/blog";
 
 const sampleArticle: BlogPost = {
-  slug: "rutina-fuerza-principiantes-casa",
+  slug: "present-perfect-vs-past-simple",
   title: "Rutina de fuerza para principiantes en casa",
   date: "2026-09-01",
   author: "Linguafly",
   excerpt: "Un plan de tres días sin máquinas.",
   description: "Cómo entrenar fuerza en casa tres días por semana.",
-  category: "entrenamiento",
+  category: "gramatica",
   readTime: "8 min",
   content: "Empieza con sentadillas. No hace falta un gimnasio.",
 };
@@ -27,8 +27,8 @@ describe("markdown twins", () => {
   it("maps HTML paths to .md twins", () => {
     expect(htmlToMarkdownPath("/")).toBe("/index.md");
     expect(htmlToMarkdownPath("/idiomas")).toBe("/idiomas.md");
-    expect(htmlToMarkdownPath("/blog/entrenamiento/rutina-fuerza-principiantes-casa")).toBe(
-      "/blog/entrenamiento/rutina-fuerza-principiantes-casa.md",
+    expect(htmlToMarkdownPath("/blog/gramatica/present-perfect-vs-past-simple")).toBe(
+      "/blog/gramatica/present-perfect-vs-past-simple.md",
     );
     expect(htmlPathFromMarkdownTwin("/index.md")).toBe("/");
     expect(htmlPathFromMarkdownTwin("/idiomas/index.md")).toBe("/idiomas");
@@ -43,7 +43,7 @@ describe("markdown twins", () => {
     expect(txt).toContain("## Temáticas");
     expect(txt).toContain("https://linguafly.app/idiomas.md");
     expect(txt).toContain(
-      "https://linguafly.app/blog/entrenamiento/rutina-fuerza-principiantes-casa.md",
+      "https://linguafly.app/blog/gramatica/present-perfect-vs-past-simple.md",
     );
     expect(txt).toContain("https://linguafly.app/sitemap.xml");
   });
@@ -52,7 +52,7 @@ describe("markdown twins", () => {
     const md = buildArticleMarkdown(sampleArticle);
     expect(md).toContain("# Rutina de fuerza para principiantes en casa");
     expect(md).toContain(
-      "Canonical: https://linguafly.app/blog/entrenamiento/rutina-fuerza-principiantes-casa",
+      "Canonical: https://linguafly.app/blog/gramatica/present-perfect-vs-past-simple",
     );
     expect(md).toContain("Empieza con sentadillas");
   });
@@ -64,11 +64,11 @@ describe("markdown twins", () => {
       htmlPath: "/idiomas",
       category: "idiomas",
     });
-    expect(resolveMarkdownTarget("/blog/entrenamiento/rutina-fuerza-principiantes-casa.md")).toEqual({
+    expect(resolveMarkdownTarget("/blog/gramatica/present-perfect-vs-past-simple.md")).toEqual({
       kind: "article",
-      category: "entrenamiento",
-      slug: "rutina-fuerza-principiantes-casa",
-      htmlPath: "/blog/entrenamiento/rutina-fuerza-principiantes-casa",
+      category: "gramatica",
+      slug: "present-perfect-vs-past-simple",
+      htmlPath: "/blog/gramatica/present-perfect-vs-past-simple",
     });
     expect(resolveMarkdownTarget("/privacidad.md")).toBeNull();
   });

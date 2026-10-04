@@ -27,9 +27,9 @@ describe("article hub links", () => {
   });
 
   it("sends magazine articles to the vertical landing", () => {
-    const hub = getArticleHubLink("alimentacion");
-    expect(hub.href).toBe("/alimentacion");
-    expect(hub.indexHref).toBe("/blog/alimentacion");
+    const hub = getArticleHubLink("idiomas");
+    expect(hub.href).toBe("/idiomas");
+    expect(hub.indexHref).toBe("/blog/idiomas");
     expect(hub.showIndex).toBe(true);
     assertIndexable(hub.href);
     assertIndexable(hub.indexHref);

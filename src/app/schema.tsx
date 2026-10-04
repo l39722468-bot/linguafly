@@ -10,7 +10,7 @@ export function OrganizationSchema() {
     "alternateName": ["Linguafly"],
     "url": siteUrl,
     "logo": getAbsoluteUrl('/logo.png'),
-    "description": "Revista de artículos prácticos sobre idiomas, alimentación, entrenamiento e inteligencia artificial.",
+    "description": "Guías y cursos gratuitos para aprender inglés por nivel (A1–C2): gramática, inglés para viajar y para trabajar, y exámenes oficiales.",
     "address": {
       "@type": "PostalAddress",
       "addressCountry": "ES",
@@ -211,7 +211,7 @@ export function WebsiteSchema() {
     "@type": "WebSite",
     "name": SITE_BRAND_NAME,
     "url": siteUrl,
-    "description": "Artículos de idiomas, alimentación, entrenamiento e inteligencia artificial",
+    "description": "Guías y cursos gratuitos para aprender inglés por nivel",
     "inLanguage": "es",
   };
 

@@ -122,13 +122,13 @@ describe("publisher home model", () => {
 
   it("fills a category rail from that vertical even if uniqueness runs out", () => {
     const few = [
-      post({ slug: "only-food", category: "alimentacion", title: "Única comida", featured: true }),
+      post({ slug: "only-idioma", category: "idiomas", title: "Único idioma", featured: true }),
     ];
     const model = buildPublisherHome(few, { railCount: 2 });
     const foodRail = model.rails.find(
-      (rail) => rail.vertical.slug === "alimentacion",
+      (rail) => rail.vertical.slug === "idiomas",
     );
-    expect(foodRail?.articles.map((article) => article.slug)).toEqual(["only-food"]);
+    expect(foodRail?.articles.map((article) => article.slug)).toEqual(["only-idioma"]);
     expect(model.rails).toHaveLength(SITE_VERTICALS.length);
   });
 });

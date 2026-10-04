@@ -26,9 +26,9 @@ export async function generateMetadata({
   const page = parsePageParam(pageRaw);
   // Pagination is Disallow in robots.txt (crawl budget). Canonical stays on page 1.
   const canonical = getAbsoluteUrl("/blog");
-  const title = `Artículos de idiomas, hábitos, IA e inglés | ${SITE_BRAND_NAME}`;
+  const title = `Guías para aprender inglés: gramática, cursos y exámenes`;
   const description =
-    "Artículos de la revista (idiomas, alimentación, entrenamiento e inteligencia artificial) y el archivo de guías para aprender inglés: gramática, viajes, trabajo, exámenes y cursos por nivel.";
+    "Todas las guías de Linguafly para aprender inglés: gramática, inglés para viajar y para trabajar, exámenes oficiales, métodos de estudio y cursos por nivel.";
   const og = ogImageMeta(title, DEFAULT_OG_IMAGE_PATH);
 
   return {
@@ -81,7 +81,7 @@ export default async function BlogPage({
   const collectionSchema = generateCollectionPageSchema({
     name: "Artículos",
     description:
-      "Revista de idiomas, alimentación, entrenamiento e inteligencia artificial, y el archivo de guías para aprender inglés.",
+      "Guías para aprender inglés: gramática, viajes, trabajo, exámenes, métodos y cursos por nivel.",
     url: getAbsoluteUrl("/blog"),
     image: DEFAULT_OG_IMAGE_PATH,
     numberOfItems: total,
@@ -102,7 +102,7 @@ export default async function BlogPage({
           <div className="mx-auto max-w-6xl">
             <h1 className="font-display mb-4 text-4xl font-black text-slate-900 sm:text-5xl">Artículos</h1>
             <p className="max-w-2xl text-lg text-slate-600">
-              Revista nueva y archivo de inglés en las URLs originales. Gramática, viajes, trabajo, exámenes, métodos y cursos por nivel.
+              Guías para aprender inglés: gramática, viajes, trabajo, exámenes, métodos y cursos por nivel.
               {total > 0 ? ` ${total} artículos publicados.` : ""}
             </p>
             <div className="mt-8 flex flex-wrap gap-3">

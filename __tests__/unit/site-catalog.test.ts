@@ -6,6 +6,7 @@ import {
   isPublicArticleCategory,
   isPublicSitePath,
   NAV_VERTICALS,
+  isRemovedTopicPath,
 } from "@/lib/site-catalog";
 import robots from "@/app/robots";
 
@@ -17,9 +18,9 @@ describe("site catalog", () => {
   it("treats magazine and English-learning article categories as public", () => {
     expect(isPublicArticleCategory("idiomas")).toBe(true);
     expect(isPublicArticleCategory("actualidad")).toBe(true);
-    expect(isPublicArticleCategory("alimentacion")).toBe(true);
-    expect(isPublicArticleCategory("entrenamiento")).toBe(true);
-    expect(isPublicArticleCategory("inteligencia-artificial")).toBe(true);
+    expect(isPublicArticleCategory("alimentacion")).toBe(false);
+    expect(isPublicArticleCategory("entrenamiento")).toBe(false);
+    expect(isPublicArticleCategory("inteligencia-artificial")).toBe(false);
     expect(isPublicArticleCategory("gramatica")).toBe(true);
     expect(isPublicArticleCategory("viajes")).toBe(true);
     expect(isPublicArticleCategory("curso-a1")).toBe(true);
@@ -33,10 +34,11 @@ describe("site catalog", () => {
     expect(isPublicSitePath("/blog")).toBe(true);
     expect(isPublicSitePath("/blog/actualidad")).toBe(true);
     expect(isPublicSitePath("/blog/idiomas/como-empezar-a-aprender-un-idioma")).toBe(true);
-    expect(isPublicSitePath("/alimentacion")).toBe(true);
-    expect(isPublicSitePath("/entrenamiento")).toBe(true);
-    expect(isPublicSitePath("/inteligencia-artificial")).toBe(true);
-    expect(isPublicSitePath("/blog/inteligencia-artificial")).toBe(true);
+    expect(isPublicSitePath("/alimentacion")).toBe(false);
+    expect(isRemovedTopicPath("/alimentacion")).toBe(true);
+    expect(isRemovedTopicPath("/blog/inteligencia-artificial/prompts")).toBe(true);
+    expect(isRemovedTopicPath("/entrenamiento.md")).toBe(true);
+    expect(isRemovedTopicPath("/blog/gramatica")).toBe(false);
     expect(isPublicSitePath("/api/articles/foo")).toBe(true);
     expect(isPublicSitePath("/sitemaps/0.xml")).toBe(true);
     expect(isPublicSitePath("/sitemap.xml")).toBe(true);
@@ -94,16 +96,14 @@ describe("site catalog", () => {
     expect(getParkedPageRedirect("/blog/ejercicios-relacionados")).toBe("/blog");
     expect(getParkedPageRedirect("/frases-en-ingles")).toBe("/");
     expect(getParkedPageRedirect("/vocabulario")).toBe("/");
-    expect(getParkedPageRedirect("/fitness")).toBe("/entrenamiento");
     expect(getParkedPageRedirect("/misiones")).toBe("/");
     expect(getParkedPageRedirect("/pagina-que-no-existe-xyz")).toBeNull();
     expect(getParkedPageRedirect("/idiomas")).toBeNull();
-    expect(getParkedPageRedirect("/blog/entrenamiento/rutina-fuerza-principiantes-casa")).toBeNull();
+    expect(getParkedPageRedirect("/blog/gramatica/present-perfect-vs-past-simple")).toBeNull();
     expect(getParkedPageRedirect("/llms.txt")).toBeNull();
     expect(getParkedPageRedirect("/index.md")).toBeNull();
     expect(getParkedPageRedirect("/idiomas.md")).toBeNull();
     expect(getParkedPageRedirect("/aprender-ingles.md")).toBe("/idiomas.md");
-    expect(getParkedPageRedirect("/fitness.md")).toBe("/entrenamiento.md");
   });
 
   it("splits the English archive into CEFR levels and topics", () => {

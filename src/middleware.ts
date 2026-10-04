@@ -4,6 +4,9 @@ import { getProductRouteRedirect } from "@/lib/product-config";
 import { canonicalLinkHeaderValue, getCanonicalUrl } from "@/lib/seo/canonical";
 import { resolveIndexRedirect } from "@/lib/seo/index-redirect";
 import { linkHeaderCanonicalPath } from "@/lib/seo/unit-topic-canonical";
+import { isRemovedTopicPath } from "@/lib/site-catalog";
+
+const GONE_HTML = `<!DOCTYPE html><html lang="es"><head><meta charset="utf-8"><meta name="robots" content="noindex"><title>Contenido eliminado | Linguafly</title></head><body style="font-family:system-ui,sans-serif;max-width:40rem;margin:4rem auto;padding:0 1rem"><h1>Este contenido ya no existe</h1><p>Linguafly ahora se dedica solo a aprender inglés y esta página se ha eliminado.</p><p><a href="/">Ir a la portada</a> · <a href="/idiomas">Qué ofrece Linguafly</a> · <a href="/blog">Guías de inglés</a></p></body></html>`;
 
 function normalizeBlogCategorySlug(category: string): string {
   return category
@@ -53,6 +56,17 @@ export async function middleware(request: NextRequest) {
 
   if (isGoogleTagGateway) {
     return NextResponse.next({ request });
+  }
+
+  if (!isStaticAsset && !isApi && isRemovedTopicPath(pathname)) {
+    return new NextResponse(GONE_HTML, {
+      status: 410,
+      headers: {
+        "content-type": "text/html; charset=utf-8",
+        "x-robots-tag": "noindex",
+        "cache-control": "public, max-age=3600",
+      },
+    });
   }
 
   if (!isStaticAsset && !isApi) {

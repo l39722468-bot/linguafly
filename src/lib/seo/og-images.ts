@@ -11,9 +11,6 @@ export const DEFAULT_OG_IMAGE_PATH = "/blog/og-image.jpg";
 export const CATEGORY_OG_IMAGE_PATHS: Record<string, string> = {
   idiomas: "/blog/og-idiomas.jpg",
   actualidad: "/blog/og-actualidad.jpg",
-  alimentacion: "/blog/og-alimentacion.jpg",
-  entrenamiento: "/blog/og-entrenamiento.jpg",
-  "inteligencia-artificial": "/blog/og-inteligencia-artificial.jpg",
   gramatica: "/blog/og-gramatica.jpg",
   viajes: "/blog/og-viajes.jpg",
   trabajo: "/blog/og-trabajo.jpg",

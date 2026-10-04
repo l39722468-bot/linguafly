@@ -54,7 +54,7 @@ describe("articleRecordToBlogPost", () => {
       author: "linguafly-team",
       excerpt: "ex",
       description: "desc",
-      category: "Alimentación",
+      category: "Gramática",
       readTime: "5 min",
       keywords: ["proteína"],
       featured: true,
@@ -63,7 +63,7 @@ describe("articleRecordToBlogPost", () => {
     };
 
     const input = blogPostToArticleInput(article);
-    expect(input.category).toBe("alimentacion");
+    expect(input.category).toBe("gramatica");
     expect(input.excerpt).toBe("ex");
     expect(input.tags).toEqual(["proteína"]);
     expect(input.featured).toBe(true);

@@ -18,14 +18,14 @@ import { llmMarkdownAlternates } from "@/lib/seo/canonical";
 export const dynamic = "force-dynamic";
 
 export const metadata: Metadata = {
-  title: `Sobre ${SITE_BRAND_NAME} | Revista de idiomas, hábitos e inteligencia artificial`,
+  title: `Sobre ${SITE_BRAND_NAME}: quién hace las guías de inglés`,
   description:
-    `Qué es ${SITE_BRAND_NAME}: un proyecto editorial independiente que publica artículos prácticos de idiomas, alimentación, entrenamiento e inteligencia artificial.`,
+    `Qué es ${SITE_BRAND_NAME}: un proyecto editorial independiente que publica guías y cursos gratuitos para aprender inglés, del nivel A1 al C2.`,
   alternates: llmMarkdownAlternates("/sobre-nosotros"),
   openGraph: {
     title: `Sobre ${SITE_BRAND_NAME}`,
     description:
-      "Proyecto editorial independiente: artículos de idiomas, alimentación, entrenamiento e inteligencia artificial.",
+      "Proyecto editorial independiente: guías y cursos gratuitos para aprender inglés.",
     type: "website",
     url: getAbsoluteUrl('/sobre-nosotros'),
   },
@@ -66,10 +66,9 @@ export default async function SobreNosotrosPage() {
               Sobre <span className="text-coral-600">{SITE_BRAND_NAME}</span>
             </h1>
             <p className="text-xl text-slate-700 leading-relaxed">
-              Somos un proyecto editorial independiente. Publicamos artículos prácticos de
-              <strong> idiomas</strong>, <strong>alimentación</strong>, <strong>entrenamiento</strong> e
-              <strong> inteligencia artificial</strong>,
-              y el archivo de guías para aprender inglés (gramática, viajes, trabajo, exámenes y cursos por nivel) en las URLs originales.
+              Somos un proyecto editorial independiente dedicado a una sola cosa: ayudarte a
+              <strong> aprender inglés</strong>. Publicamos guías de gramática, inglés para viajar y para trabajar,
+              preparación de exámenes oficiales y cursos gratuitos por nivel, del A1 al C2.
             </p>
           </header>
 
@@ -78,8 +77,8 @@ export default async function SobreNosotrosPage() {
               Qué publicamos
             </h2>
             <p className="text-slate-700 leading-relaxed mb-4">
-              A día de hoy la revista publica <strong>{totalArticles} artículos</strong>: las temáticas
-              de la web nueva y el archivo de inglés, indexado en el sitemap con sus URLs canónicas.
+              A día de hoy la revista publica <strong>{totalArticles} artículos</strong>: todos dedicados
+              a aprender inglés y organizados por temática y por nivel.
             </p>
             <ul className="space-y-3 text-slate-700">
               <li className="flex gap-3">
@@ -91,25 +90,7 @@ export default async function SobreNosotrosPage() {
               <li className="flex gap-3">
                 <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
                 <span>
-                  <strong>Alimentación</strong>: organizar la semana y armar platos con criterio, sin dietas extremas.
-                </span>
-              </li>
-              <li className="flex gap-3">
-                <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
-                <span>
-                  <strong>Entrenamiento</strong>: fuerza para principiantes y progresión sin lesionarte.
-                </span>
-              </li>
-              <li className="flex gap-3">
-                <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
-                <span>
-                  <strong>Inteligencia artificial</strong>: prompts, comprobación y privacidad para una tarea concreta.
-                </span>
-              </li>
-              <li className="flex gap-3">
-                <CheckCircle className="w-5 h-5 text-coral-500 shrink-0 mt-0.5" />
-                <span>
-                  <strong>Aprender inglés</strong>: gramática, viajes, trabajo, exámenes, métodos y cursos A1–C1 con las URLs originales.
+                  <strong>Gramática, viajes, trabajo y exámenes</strong>: guías por temática y cursos por nivel del A1 al C2.
                 </span>
               </li>
             </ul>
@@ -267,25 +248,31 @@ export default async function SobreNosotrosPage() {
                 href="/idiomas"
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
-                Idiomas
+                Qué ofrece Linguafly
               </Link>
               <Link
-                href="/alimentacion"
+                href="/blog/gramatica"
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
-                Alimentación
+                Gramática
               </Link>
               <Link
-                href="/entrenamiento"
+                href="/blog/viajes"
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
-                Entrenamiento
+                Inglés para viajar
               </Link>
               <Link
-                href="/inteligencia-artificial"
+                href="/blog/trabajo"
                 className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
               >
-                Inteligencia artificial
+                Inglés para trabajar
+              </Link>
+              <Link
+                href="/blog/examenes"
+                className="px-5 py-2.5 bg-white border border-slate-200 rounded-xl font-semibold text-slate-700 hover:border-coral-400 hover:text-coral-600 transition-colors"
+              >
+                Exámenes oficiales
               </Link>
             </div>
           </section>
