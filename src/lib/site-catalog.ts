@@ -96,10 +96,10 @@ export const SITE_TAGLINE =
   "Aprende inglés con guías claras y cursos gratuitos por nivel.";
 
 /** Title de portada: cabe en la SERP (~50–60 caracteres). Google ya muestra Linguafly como nombre del sitio. */
-export const SITE_SERP_TITLE = "Idiomas, alimentación, entrenamiento e IA";
+export const SITE_SERP_TITLE = "Aprende inglés gratis: guías y cursos por nivel";
 
 export const SITE_DESCRIPTION =
-  "Revista práctica: artículos de idiomas, alimentación, entrenamiento e inteligencia artificial, y el archivo de guías para aprender inglés.";
+  "Aprende inglés con guías prácticas y cursos gratuitos por nivel: gramática, inglés para viajar y para trabajar, y preparación de exámenes oficiales.";
 
 const CORAL: VerticalTone = {
   badge: "bg-coral-100 text-coral-800",
