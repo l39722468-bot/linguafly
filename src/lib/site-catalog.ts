@@ -93,7 +93,7 @@ export type EnglishLearningSection = {
 };
 
 export const SITE_TAGLINE =
-  "Guías claras de idiomas, alimentación, entrenamiento e inteligencia artificial.";
+  "Aprende inglés con guías claras y cursos gratuitos por nivel.";
 
 /** Title de portada: cabe en la SERP (~50–60 caracteres). Google ya muestra Linguafly como nombre del sitio. */
 export const SITE_SERP_TITLE = "Idiomas, alimentación, entrenamiento e IA";
