@@ -1,4 +1,10 @@
+import type { Metadata } from "next";
 import { TranslatedText } from "@/components/course/exercises/TranslatedText";
+
+export const metadata: Metadata = {
+  title: "Test de traducción (interno)",
+  robots: { index: false, follow: false },
+};
 
 export default function TestPage() {
   return (

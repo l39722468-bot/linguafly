@@ -8,32 +8,23 @@ import IubendaConsent from "@/components/IubendaConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
 import { getSiteUrl, SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
-import { SITE_DESCRIPTION, SITE_SERP_TITLE } from "@/lib/site-catalog";
 import { DEFAULT_OG_IMAGE_PATH, ogImageMeta } from "@/lib/seo/og-images";
 import { languageAlternates } from "@/lib/seo/canonical";
 
 const siteUrl = getSiteUrl();
 const siteOg = ogImageMeta(
-  `${SITE_BRAND_NAME} — idiomas, alimentación, entrenamiento e inteligencia artificial`,
+  `${SITE_BRAND_NAME} — aprende inglés`,
   DEFAULT_OG_IMAGE_PATH,
 );
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
+  // Sin title/description del home por defecto: si una URL no define los suyos
+  // no debe heredar los de la portada (evita canibalización y duplicados).
   title: {
-    default: SITE_SERP_TITLE,
+    default: SITE_BRAND_NAME,
     template: "%s"
   },
-  description: SITE_DESCRIPTION,
-  keywords: [
-    "idiomas",
-    "alimentación",
-    "entrenamiento",
-    "inteligencia artificial",
-    "artículos",
-    "guías prácticas",
-    SITE_BRAND_NAME,
-  ],
   authors: [{ name: SITE_BRAND_NAME, url: siteUrl }],
   creator: SITE_BRAND_NAME,
   publisher: SITE_BRAND_NAME,
@@ -43,8 +34,6 @@ export const metadata: Metadata = {
     telephone: false,
   },
   openGraph: {
-    title: SITE_SERP_TITLE,
-    description: SITE_DESCRIPTION,
     type: "website",
     locale: "es_ES",
     siteName: SITE_BRAND_NAME,
@@ -53,8 +42,6 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: SITE_SERP_TITLE,
-    description: SITE_DESCRIPTION,
     images: siteOg.twitterImages,
   },
   alternates: {

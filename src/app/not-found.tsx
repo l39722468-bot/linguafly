@@ -6,6 +6,7 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
   title: "Página no encontrada | Linguafly",
   description: "Lo sentimos, la página que buscas no existe o ha sido movida.",
+  robots: { index: false, follow: true },
 };
 
 export default function NotFound() {
