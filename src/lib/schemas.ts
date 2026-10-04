@@ -14,6 +14,7 @@ export interface CourseSchemaProps {
   goal: string;
   price?: string;
   url: string;
+  courseWorkload?: string;
 }
 
 export interface ArticleSchemaProps {
@@ -72,16 +73,16 @@ export function generateCourseSchema(props: CourseSchemaProps) {
     },
     "offers": {
       "@type": "Offer",
-      "price": props.price || "6.99",
+      "price": props.price || "0",
       "priceCurrency": "EUR",
       "availability": "https://schema.org/InStock",
-      "url": props.url,
-      "priceValidUntil": "2026-12-31"
+      "url": props.url
     },
     "hasCourseInstance": {
       "@type": "CourseInstance",
       "courseMode": "online",
-      "courseWorkload": "PT12W",
+      "courseWorkload": props.courseWorkload || "PT12W",
+      "isAccessibleForFree": (props.price || "0") === "0",
       "instructor": {
         "@type": "Organization",
         "name": SITE_BRAND_NAME
@@ -89,26 +90,6 @@ export function generateCourseSchema(props: CourseSchemaProps) {
     },
     "educationalLevel": props.level,
     "teaches": `English Language - ${props.goal}`,
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "4.8",
-      "reviewCount": "850",
-      "bestRating": "5",
-      "worstRating": "1"
-    },
-    "review": {
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": "María González"
-      },
-      "datePublished": "2025-12-10",
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5"
-      },
-      "reviewBody": "Excelente curso. El material es muy completo y las explicaciones son claras. Lo recomiendo 100%."
-    }
   };
 }
 
@@ -212,6 +193,7 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
  */
 function stripMarkdown(text: string): string {
   return text
+    .replace(/<[^>]*>/g, ' ')
     .replace(/!\[([^\]]*)\]\([^)]*\)/g, '$1')
     .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
     .replace(/(\*\*|__)(.*?)\1/g, '$2')
@@ -222,17 +204,23 @@ function stripMarkdown(text: string): string {
 }
 
 export function generateFAQSchema(faqs: FAQItem[]) {
-  return {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": faqs.map(faq => ({
+  const questions = faqs
+    .filter((faq) => faq?.question?.trim() && faq?.answer?.trim())
+    .map(faq => ({
       "@type": "Question",
       "name": stripMarkdown(faq.question),
       "acceptedAnswer": {
         "@type": "Answer",
         "text": stripMarkdown(faq.answer)
       }
-    }))
+    }));
+
+  if (questions.length === 0) return null;
+
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": questions
   };
 }
 

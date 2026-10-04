@@ -14,6 +14,9 @@ import { SEOInterlinking } from "@/components/blog/SEOInterlinking";
 import { TopicClusterLinks } from "@/components/blog/TopicClusterLinks";
 import { CopyProtection } from "@/components/blog/CopyProtection";
 import { BlogArticlePdfDownload } from "@/components/blog/BlogArticlePdfDownload";
+import { CourseCTA } from "@/components/blog/CourseCTA";
+import { RelatedCourseCards } from "@/components/blog/RelatedCourseCards";
+import { TestWidgetSidebar } from "@/components/blog/TestWidgetSidebar";
 import { normalizeCategory, resolveTopicHref } from "@/lib/blog-paths";
 import {
   getPublishedArticle,
@@ -40,6 +43,8 @@ import { AmazonBookOffer } from "@/components/affiliates/AmazonBookOffer";
 import { CourseLessonNav } from "@/components/blog/CourseLessonNav";
 import { breadcrumbSectionName } from "@/lib/seo/breadcrumb-labels";
 import { getCourseLessonLinks } from "@/lib/seo/course-lesson-nav";
+import { detectBlogCourseLevel } from "@/lib/seo/blog-course-recommendations";
+import { getVoiceSearchSummary } from "@/lib/seo/voice-search-optimizer";
 import { affiliateBookForSlug } from "@/lib/affiliates/for-article";
 import { splitMarkdownForMidArticleAd } from "@/lib/content/publisher-home";
 import ReactMarkdown from 'react-markdown';
@@ -127,6 +132,14 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const normalizedCategory = normalizeCategory(article.category);
   const categoryLabel = getPublicCategoryLabel(normalizedCategory).name;
   const contentLanguage = "es-ES";
+  const courseLevel = detectBlogCourseLevel({
+    category: normalizedCategory,
+    slug,
+    title: article.title,
+    excerpt: article.excerpt,
+    content: article.content.slice(0, 3000),
+  });
+  const voiceSummary = getVoiceSearchSummary(article.faqs);
   const affiliateBook = affiliateBookForSlug(slug);
 
   const canonicalUrl = resolveArticleCanonicalUrl(article);
@@ -406,6 +419,8 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                        {article.title}
                      </h1>
 
+                     {courseLevel ? <CourseCTA level={courseLevel} articleSlug={slug} /> : null}
+
                      <CourseLessonNav
                        links={lessonLinks}
                        sourcePath={`/blog/${normalizedCategory}/${slug}`}
@@ -480,6 +495,12 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                   {/* Article Body */}
                   <CopyProtection>
                   <div className="p-8 lg:p-12 prose prose-slate prose-xl max-w-none article-content print:p-0">
+                    {voiceSummary ? (
+                      <section className="not-prose mb-8 rounded-2xl border border-indigo-100 bg-indigo-50/70 p-5">
+                        <h2 className="text-lg font-bold text-slate-900">{voiceSummary.question}</h2>
+                        <p className="mt-2 text-base leading-relaxed text-slate-700">{voiceSummary.answer}</p>
+                      </section>
+                    ) : null}
                     <ReactMarkdown 
                       remarkPlugins={[remarkGfm]}
                       rehypePlugins={[rehypeRaw]}
@@ -511,7 +532,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                           Preguntas frecuentes
                         </h2>
                         <div className="space-y-8">
-                          {article.faqs.map((faq, index) => (
+                          {article.faqs.slice(voiceSummary ? 1 : 0).map((faq, index) => (
                             <div key={index}>
                               <h3 className="font-bold text-slate-900 text-xl mb-3 flex items-start gap-3">
                                 <span className="text-coral-600" aria-hidden>
@@ -527,6 +548,8 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                         </div>
                       </div>
                     )}
+
+                    <RelatedCourseCards level={courseLevel} articleSlug={slug} />
 
                     <div className="print-hidden">
                       <SEOInterlinking category={normalizedCategory} />
@@ -636,6 +659,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
               {/* Sidebar */}
               <aside className="lg:col-span-4 space-y-8 print-hidden">
                 <div className="sticky top-32 space-y-8">
+                  <TestWidgetSidebar />
                   <TableOfContents />
                   {affiliateBook ? (
                     <AmazonBookOffer book={affiliateBook} variant="compact" />

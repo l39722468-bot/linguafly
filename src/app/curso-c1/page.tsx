@@ -7,6 +7,7 @@ import { BookOpen, Clock, Award } from 'lucide-react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
+import { CourseStructuredData } from '@/components/seo/CourseStructuredData';
 
 export const dynamic = 'force-dynamic';
 
@@ -39,6 +40,7 @@ async function C1PreviewContent() {
 
   return (
     <div className="min-h-screen bg-slate-50">
+      <CourseStructuredData level="C1" description={metadata.description as string} durationMinutes={courseMetadata.totalDuration} />
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-7xl mx-auto px-4 py-12 md:py-16">
           <div className="text-center mb-8">
