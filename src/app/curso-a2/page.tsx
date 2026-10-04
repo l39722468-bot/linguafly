@@ -8,6 +8,7 @@ import { maybeRedirectSequentialSubscriber } from '@/lib/access/course-landing-r
 import { BookOpen, Clock, Award, FileText } from 'lucide-react';
 import Link from 'next/link';
 import { getAbsoluteUrl, SITE_BRAND_NAME } from '@/lib/site-brand';
+import { CourseStructuredData } from '@/components/seo/CourseStructuredData';
 
 export const dynamic = 'force-dynamic';
 
@@ -40,6 +41,7 @@ async function A2PreviewContent() {
 
   return (
     <div className="min-h-screen bg-slate-50">
+      <CourseStructuredData level="A2" description={metadata.description as string} durationMinutes={courseMetadata.totalDuration} />
       {/* Header */}
       <div className="bg-white border-b border-slate-200">
         <div className="max-w-7xl mx-auto px-4 py-12 md:py-16">
