@@ -115,7 +115,7 @@ export const SITE_VERTICALS: readonly SiteVertical[] = [
     shortName: "Idiomas",
     tagline: "Aprender con método, no con mil listas sueltas",
     description:
-      "Más de 800 guías para aprender inglés, clasificadas por temática (gramática, viajes, trabajo, exámenes) y por nivel A1–C1.",
+      "Más de 700 guías para aprender inglés, clasificadas por temática (gramática, viajes, trabajo, exámenes) y por nivel A1–C2.",
     icon: "🗣️",
     tone: CORAL,
   },

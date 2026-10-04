@@ -1,3 +1,4 @@
+import type React from "react";
 import Link from "next/link";
 import { Navigation } from "@/components/sections/Navigation";
 import { Footer } from "@/components/sections/Footer";
@@ -55,7 +56,14 @@ function CatalogCard({
   );
 }
 
-export async function IdiomasHub({ vertical }: { vertical: SiteVertical }) {
+export async function IdiomasHub({
+  vertical,
+  article,
+}: {
+  vertical: SiteVertical;
+  /** Artículo editorial que sustituye al hero (lleva su propio H1). */
+  article?: React.ReactNode;
+}) {
   const levels = getEnglishLevelSections();
   const topics = getEnglishTopicSections();
   const [counts, listed] = await Promise.all([
@@ -86,6 +94,9 @@ export async function IdiomasHub({ vertical }: { vertical: SiteVertical }) {
       <JsonLd data={collectionSchema} />
       <Navigation />
       <main className="min-h-screen bg-cream-100">
+        {article ? (
+          <article className="px-4 pb-16 pt-28 sm:px-6 lg:px-8">{article}</article>
+        ) : (
         <section className="relative overflow-hidden px-4 pb-16 pt-28 sm:px-6 lg:px-8">
           <div className={`absolute inset-0 bg-gradient-to-br ${vertical.tone.gradient} opacity-90`} />
           <div className="relative mx-auto max-w-5xl text-white">
@@ -115,6 +126,7 @@ export async function IdiomasHub({ vertical }: { vertical: SiteVertical }) {
             </div>
           </div>
         </section>
+        )}
 
         <section id="niveles" className="scroll-mt-24 px-4 pb-16 sm:px-6 lg:px-8">
           <div className="mx-auto max-w-6xl">

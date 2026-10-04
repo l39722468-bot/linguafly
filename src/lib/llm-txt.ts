@@ -9,6 +9,11 @@ import {
 } from "@/lib/seo/canonical";
 import { getAbsoluteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 import {
+  IDIOMAS_PRESENTACION_DESCRIPTION,
+  IDIOMAS_PRESENTACION_MARKDOWN,
+  IDIOMAS_PRESENTACION_TITLE,
+} from "@/lib/content/idiomas-presentacion";
+import {
   ENGLISH_LEARNING_SECTIONS,
   SITE_DESCRIPTION,
   SITE_TAGLINE,
@@ -200,11 +205,6 @@ export function buildIdiomasHubMarkdown(
   articles: BlogPost[],
   total = articles.length,
 ): string {
-  const vertical = SITE_VERTICALS.find((item) => item.slug === "idiomas");
-  const title = vertical?.name ?? "Idiomas";
-  const summary =
-    vertical?.description ??
-    "Guías de inglés clasificadas por temática y por nivel A1–C1.";
   const countNote =
     total > 0
       ? `${new Intl.NumberFormat("es-ES").format(total)} artículos publicados.`
@@ -240,11 +240,17 @@ export function buildIdiomasHubMarkdown(
           )
           .join("\n");
 
+  const presentation = IDIOMAS_PRESENTACION_MARKDOWN.trim().replace(
+    /\]\((\/[^)]*)\)/g,
+    (_match, path: string) => `](${getAbsoluteUrl(path)})`,
+  );
   return buildPageMarkdown({
-    title,
-    summary: `${summary} ${countNote}`,
+    title: IDIOMAS_PRESENTACION_TITLE,
+    summary: `${IDIOMAS_PRESENTACION_DESCRIPTION} ${countNote}`,
     htmlPath: "/idiomas",
     extra: [
+      presentation,
+      "",
       "## Por nivel de inglés",
       "",
       levelLinks,
