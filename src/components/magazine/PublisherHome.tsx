@@ -3,7 +3,7 @@ import { CompactHeadline } from "@/components/magazine/CompactHeadline";
 import { FeaturedStory } from "@/components/magazine/FeaturedStory";
 import { MagazineArticleCard } from "@/components/magazine/MagazineArticleCard";
 import { buildPublisherHome } from "@/lib/content/publisher-home";
-import { ENGLISH_LEARNING_SECTIONS } from "@/lib/site-catalog";
+import { ENGLISH_LEARNING_SECTIONS, SITE_TAGLINE } from "@/lib/site-catalog";
 import type { BlogPost } from "@/lib/blog";
 
 export function PublisherHome({
@@ -15,6 +15,9 @@ export function PublisherHome({
 
   return (
     <main className="min-h-screen bg-cream-100">
+      <h1 className="mx-auto max-w-6xl px-4 pt-8 pb-2 sm:px-6 lg:px-8 font-display text-2xl font-black text-slate-900">
+        {SITE_TAGLINE}
+      </h1>
       {model.featured ? (
         <section className="px-4 py-8 sm:px-6 lg:px-8">
           <div className="mx-auto grid max-w-6xl gap-6 lg:grid-cols-12">
