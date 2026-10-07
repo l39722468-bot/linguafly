@@ -6,6 +6,8 @@ import GoogleAnalytics from "@/components/GoogleAnalytics";
 import IubendaConsent from "@/components/IubendaConsent";
 import DeferredMonetagAd from "@/components/DeferredMonetagAd";
 import ConsentGatedAdSense from "@/components/ConsentGatedAdSense";
+import UetConsent from "@/components/UetConsent";
+import UetConsentDefault from "@/components/UetConsentDefault";
 import { getSiteUrl, SITE_BRAND_NAME, getAbsoluteUrl } from "@/lib/site-brand";
 import { DEFAULT_OG_IMAGE_PATH, ogImageMeta } from "@/lib/seo/og-images";
 import { languageAlternates } from "@/lib/seo/canonical";
@@ -76,6 +78,8 @@ export default function RootLayout({
       <head>
         {/* iubenda debe ejecutarse antes de las etiquetas que autobloquea. */}
         <IubendaConsent />
+        {/* Consent Mode por defecto de la etiqueta UET (Bing): ad_storage denied. */}
+        <UetConsentDefault />
         {/* Snippet nativo en HTML (no next/script / __next_s). */}
         <GoogleHeadScripts />
         <link rel="describedby" href={getAbsoluteUrl("/llms.txt")} />
@@ -97,6 +101,8 @@ export default function RootLayout({
         <link rel="preconnect" href="https://cdn.iubenda.com" />
         <link rel="dns-prefetch" href="https://cdn.iubenda.com" />
         <link rel="dns-prefetch" href="https://quge5.com" />
+        <link rel="preconnect" href="https://bat.bing.com" />
+        <link rel="dns-prefetch" href="https://bat.bing.com" />
         {/* Schema.org structured data */}
         <OrganizationSchema />
         <WebsiteSchema />
@@ -107,6 +113,7 @@ export default function RootLayout({
       </head>
       <body className="antialiased bg-white text-slate-900 font-sans" suppressHydrationWarning>
         <ConsentGatedAdSense />
+        <UetConsent />
         <DeferredMonetagAd />
         {children}
         {/* Scripts deferidos: no bloquean first paint */}
