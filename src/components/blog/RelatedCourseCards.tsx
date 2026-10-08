@@ -40,7 +40,7 @@ export function RelatedCourseCards({ level, articleSlug }: RelatedCourseCardsPro
               <h3 className="font-bold text-slate-900">Curso de inglés {courseLevel}</h3>
               <p className="mt-1 text-sm text-slate-600">Unidades interactivas · Duración flexible</p>
               <Link
-                href={`/curso-${courseLevel.toLowerCase()}`}
+                href={`/blog/curso-${courseLevel.toLowerCase()}`}
                 onClick={() => trackCTAClick(`Explorar curso ${courseLevel}`, `blog_related_courses_${articleSlug}`)}
                 className="mt-4 inline-flex items-center rounded-lg bg-slate-900 px-4 py-2.5 text-sm font-bold text-white transition-colors hover:bg-slate-700"
               >

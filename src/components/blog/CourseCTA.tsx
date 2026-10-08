@@ -52,7 +52,7 @@ export function CourseCTA({ level, articleSlug }: CourseCTAProps) {
         <p className="mt-1 text-sm text-slate-600">Unidades interactivas y práctica a tu ritmo.</p>
       </div>
       <Link
-        href={`/curso-${level.toLowerCase()}`}
+        href={`/blog/curso-${level.toLowerCase()}`}
         onClick={() => trackCTAClick(`${buttonLabel} · variante ${variant}`, `blog_course_${articleSlug}`)}
         className="mt-4 inline-flex shrink-0 items-center gap-2 rounded-xl bg-coral-600 px-5 py-3 text-sm font-bold text-white transition-colors hover:bg-coral-700 sm:mt-0"
       >
