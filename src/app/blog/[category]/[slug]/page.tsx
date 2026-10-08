@@ -3,7 +3,7 @@ import { llmMarkdownUrl, languageAlternates } from "@/lib/seo/canonical";
 import { Navigation } from "@/components/sections/Navigation";
 import Link from "next/link";
 import Image from "next/image";
-import { notFound } from "next/navigation";
+import { notFound, unstable_rethrow } from "next/navigation";
 import { ShareButton } from "./ShareButton";
 import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schemas";
 import { BlogEnhancements } from "@/components/blog/BlogEnhancements";
@@ -16,7 +16,6 @@ import { CopyProtection } from "@/components/blog/CopyProtection";
 import { BlogArticlePdfDownload } from "@/components/blog/BlogArticlePdfDownload";
 import { CourseCTA } from "@/components/blog/CourseCTA";
 import { RelatedCourseCards } from "@/components/blog/RelatedCourseCards";
-import { TestWidgetSidebar } from "@/components/blog/TestWidgetSidebar";
 import { normalizeCategory, resolveTopicHref } from "@/lib/blog-paths";
 import {
   getPublishedArticle,
@@ -659,7 +658,6 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
               {/* Sidebar */}
               <aside className="lg:col-span-4 space-y-8 print-hidden">
                 <div className="sticky top-32 space-y-8">
-                  <TestWidgetSidebar />
                   <TableOfContents />
                   {affiliateBook ? (
                     <AmazonBookOffer book={affiliateBook} variant="compact" />
@@ -713,6 +711,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
       </>
     );
   } catch (error) {
+    unstable_rethrow(error);
     console.error("Error rendering blog article:", error);
     return (
       <div className="min-h-screen flex items-center justify-center bg-slate-50 p-4">
