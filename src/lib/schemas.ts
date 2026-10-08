@@ -188,6 +188,44 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
   };
 }
 
+export interface VideoSchemaProps {
+  name: string;
+  description: string;
+  thumbnailUrl: string;
+  uploadDate: string;
+  embedUrl: string;
+  watchUrl: string;
+  duration?: string;
+  inLanguage?: string;
+}
+
+/**
+ * Generates VideoObject Schema so the embedded class can appear in Google video results.
+ */
+export function generateVideoSchema(props: VideoSchemaProps) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "VideoObject",
+    "name": props.name,
+    "description": props.description,
+    "thumbnailUrl": [props.thumbnailUrl],
+    "uploadDate": props.uploadDate,
+    ...(props.duration ? { "duration": props.duration } : {}),
+    "embedUrl": props.embedUrl,
+    "url": props.watchUrl,
+    "inLanguage": props.inLanguage || "es-ES",
+    "isAccessibleForFree": true,
+    "publisher": {
+      "@type": "Organization",
+      "name": SITE_BRAND_NAME,
+      "logo": {
+        "@type": "ImageObject",
+        "url": getAbsoluteUrl('/logo.png')
+      }
+    },
+  };
+}
+
 /**
  * Generates FAQPage Schema for FAQ sections
  */

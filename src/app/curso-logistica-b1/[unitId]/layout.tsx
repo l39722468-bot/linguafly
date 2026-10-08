@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { InteractiveUnitVideo } from "@/components/course/InteractiveUnitVideo";
 import { getAbsoluteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 
 export async function generateMetadata({ params }: { params: Promise<{ unitId: string }> }): Promise<Metadata> {
@@ -20,10 +21,18 @@ export async function generateMetadata({ params }: { params: Promise<{ unitId: s
   };
 }
 
-export default function CursoLogisticaB1UnitLayout({
+export default async function CursoLogisticaB1UnitLayout({
   children,
+  params,
 }: {
   children: React.ReactNode;
+  params: Promise<{ unitId: string }>;
 }) {
-  return children;
+  const { unitId } = await params;
+  return (
+    <>
+      {children}
+      <InteractiveUnitVideo courseSlug="curso-logistica-b1" unitId={unitId} />
+    </>
+  );
 }

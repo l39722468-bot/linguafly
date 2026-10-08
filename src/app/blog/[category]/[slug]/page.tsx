@@ -5,7 +5,10 @@ import Link from "next/link";
 import Image from "next/image";
 import { notFound } from "next/navigation";
 import { ShareButton } from "./ShareButton";
-import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema } from "@/lib/schemas";
+import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema, generateVideoSchema } from "@/lib/schemas";
+import { getArticleUnitVideo } from "@/lib/course/unit-videos";
+import { youtubeEmbedUrl, youtubeThumbnailUrl, youtubeWatchUrl } from "@/lib/video/youtube";
+import { YouTubeLite } from "@/components/video/YouTubeLite";
 import { BlogEnhancements } from "@/components/blog/BlogEnhancements";
 import { BlogAnalytics } from "@/components/blog/BlogAnalytics";
 import { BlogExerciseMapBanner } from "@/components/blog/BlogExerciseMapBanner";
@@ -197,6 +200,21 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     ? generateFAQSchema(article.faqs)
     : null;
 
+  const unitVideo = getArticleUnitVideo(normalizedCategory, slug);
+  const unitVideoTitle = unitVideo?.title || article.title;
+  const videoSchema = unitVideo
+    ? generateVideoSchema({
+        name: unitVideoTitle,
+        description: unitVideo.description || article.description || article.excerpt,
+        thumbnailUrl: youtubeThumbnailUrl(unitVideo.youtubeId),
+        uploadDate: unitVideo.uploadDate,
+        duration: unitVideo.duration,
+        embedUrl: youtubeEmbedUrl(unitVideo.youtubeId),
+        watchUrl: youtubeWatchUrl(unitVideo.youtubeId),
+        inLanguage: contentLanguage,
+      })
+    : null;
+
   // Enhanced markdown components for SEO and styling
   const MarkdownComponents = {
     h1: ({ node, ...props }: any) => <h2 className="font-display text-4xl font-black text-slate-900 mt-8 mb-6" {...props} />,
@@ -349,6 +367,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
         <JsonLd data={articleSchema} />
         <JsonLd data={breadcrumbSchema} />
         <JsonLd data={faqSchema} />
+        <JsonLd data={videoSchema} />
 
         <Navigation />
         <BlogAnalytics
@@ -499,6 +518,25 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       <section className="not-prose mb-8 rounded-2xl border border-indigo-100 bg-indigo-50/70 p-5">
                         <h2 className="text-lg font-bold text-slate-900">{voiceSummary.question}</h2>
                         <p className="mt-2 text-base leading-relaxed text-slate-700">{voiceSummary.answer}</p>
+                      </section>
+                    ) : null}
+                    {unitVideo ? (
+                      <section className="not-prose mb-10 print-hidden" aria-labelledby="video-clase">
+                        <h2 id="video-clase" className="font-display text-2xl font-black text-slate-900 mb-4">
+                          Vídeo-clase: {unitVideoTitle}
+                        </h2>
+                        <YouTubeLite youtubeId={unitVideo.youtubeId} title={unitVideoTitle} />
+                        <p className="mt-3 text-sm text-slate-500">
+                          <a
+                            href={youtubeWatchUrl(unitVideo.youtubeId)}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="font-bold text-coral-600 hover:underline"
+                          >
+                            Ver en YouTube
+                          </a>{" "}
+                          y suscríbete para recibir una clase nueva por cada unidad.
+                        </p>
                       </section>
                     ) : null}
                     <ReactMarkdown 

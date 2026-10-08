@@ -5,9 +5,17 @@ import { getSiteUrl } from "@/lib/site-brand";
 import { ENGLISH_LEARNING_SECTIONS, SITE_VERTICALS } from "@/lib/site-catalog";
 import {
   countPublishedArticles,
+  getPublishedArticle,
   listPublishedArticles,
   listSitemapArticles,
 } from "@/lib/content/articles";
+import type { SitemapArticleEntry } from "@/lib/db/client";
+import { getArticleUnitVideo } from "@/lib/course/unit-videos";
+import {
+  isoDurationToSeconds,
+  youtubeEmbedUrl,
+  youtubeThumbnailUrl,
+} from "@/lib/video/youtube";
 import {
   SITEMAP_CHUNK_SIZE,
   isSitemapShardId,
@@ -76,12 +84,27 @@ export function serializeSitemapXml(entries: MetadataRoute.Sitemap): string {
             `<image:image><image:loc>${escapeXml(image)}</image:loc></image:image>`,
         )
         .join("");
-      return `<url><loc>${escapeXml(entry.url)}</loc>${lastmod}${changefreq}${priority}${images}</url>`;
+      const videos = (entry.videos ?? [])
+        .map((video) => {
+          const player = video.player_loc
+            ? `<video:player_loc>${escapeXml(video.player_loc)}</video:player_loc>`
+            : "";
+          const duration =
+            typeof video.duration === "number"
+              ? `<video:duration>${video.duration}</video:duration>`
+              : "";
+          const published = video.publication_date
+            ? `<video:publication_date>${escapeXml(String(video.publication_date))}</video:publication_date>`
+            : "";
+          return `<video:video><video:thumbnail_loc>${escapeXml(video.thumbnail_loc)}</video:thumbnail_loc><video:title>${escapeXml(video.title)}</video:title><video:description>${escapeXml(video.description)}</video:description>${player}${duration}${published}</video:video>`;
+        })
+        .join("");
+      return `<url><loc>${escapeXml(entry.url)}</loc>${lastmod}${changefreq}${priority}${images}${videos}</url>`;
     })
     .join("\n");
 
   return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 ${urls}
 </urlset>
 `;
@@ -154,6 +177,45 @@ function staticUrls(
   return urls;
 }
 
+/**
+ * Las filas del sitemap no traen título ni descripción (son ~45k por shard),
+ * así que solo se consulta el artículo completo de las unidades con vídeo.
+ */
+async function attachUnitVideos(
+  urls: MetadataRoute.Sitemap,
+  articles: SitemapArticleEntry[],
+  baseUrl: string,
+): Promise<void> {
+  const withVideo = articles
+    .map((article) => {
+      const category = normalizeCategory(article.category);
+      const video = getArticleUnitVideo(category, article.slug);
+      return video ? { category, slug: article.slug, video } : null;
+    })
+    .filter((item): item is NonNullable<typeof item> => item !== null);
+  if (withVideo.length === 0) return;
+
+  const byUrl = new Map(urls.map((entry) => [entry.url, entry]));
+  await Promise.all(
+    withVideo.map(async ({ category, slug, video }) => {
+      const entry = byUrl.get(`${baseUrl}/blog/${category}/${slug}`);
+      if (!entry) return;
+      const article = await getPublishedArticle(slug, category);
+      if (!article) return;
+      entry.videos = [
+        {
+          title: video.title || article.title,
+          description: video.description || article.description || article.excerpt,
+          thumbnail_loc: youtubeThumbnailUrl(video.youtubeId),
+          player_loc: youtubeEmbedUrl(video.youtubeId),
+          duration: isoDurationToSeconds(video.duration),
+          publication_date: video.uploadDate,
+        },
+      ];
+    }),
+  );
+}
+
 export async function buildMagazineSitemap(
   id: number,
   options: { includeLegal?: boolean } = {}
@@ -193,6 +255,7 @@ export async function buildMagazineSitemap(
             images: [getArticleOgImageUrl(article)],
           })),
       );
+      await attachUnitVideos(urls, articles, baseUrl);
     }
 
     return Array.from(new Map(urls.map((entry) => [entry.url, entry])).values()).filter(

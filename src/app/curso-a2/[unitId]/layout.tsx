@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { InteractiveUnitVideo } from "@/components/course/InteractiveUnitVideo";
 import { assertCourseUnitAccess } from "@/lib/access/assert-course-unit-access";
 import { getAbsoluteUrl, SITE_BRAND_NAME } from "@/lib/site-brand";
 
@@ -36,5 +37,10 @@ export default async function CursoA2UnitLayout({
 }) {
   const { unitId } = await params;
   await assertCourseUnitAccess(unitId, "/curso-a2");
-  return children;
+  return (
+    <>
+      {children}
+      <InteractiveUnitVideo courseSlug="curso-a2" unitId={unitId} />
+    </>
+  );
 }

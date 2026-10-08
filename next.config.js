@@ -901,6 +901,8 @@ const nextConfig = {
         "https://tpc.googlesyndication.com",
         "https://www.google.com",
         "https://www.gstatic.com",
+        // Miniaturas de vídeo-clases de YouTube
+        "https://i.ytimg.com",
         // Monetag
         "https://quge5.com",
         "https://p0p.com",
@@ -929,6 +931,8 @@ const nextConfig = {
         "https://ep1.adtrafficquality.google",
         "https://ep2.adtrafficquality.google",
         "https://fundingchoicesmessages.google.com",
+        // Vídeo-clases de YouTube (modo privacidad mejorada)
+        "https://www.youtube-nocookie.com",
         // Monetag
         "https://quge5.com",
         "https://p0p.com",
