@@ -161,7 +161,9 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
       "name": SITE_BRAND_NAME,
       "logo": {
         "@type": "ImageObject",
-        "url": getAbsoluteUrl('/logo.png')
+        "url": getAbsoluteUrl('/logo.png'),
+        "width": 512,
+        "height": 512
       }
     },
     "datePublished": props.datePublished,
