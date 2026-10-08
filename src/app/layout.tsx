@@ -54,6 +54,7 @@ export const metadata: Metadata = {
   robots: {
     index: true,
     follow: true,
+    'max-image-preview': 'large',
     googleBot: {
       index: true,
       follow: true,
@@ -106,10 +107,6 @@ export default function RootLayout({
         {/* Schema.org structured data */}
         <OrganizationSchema />
         <WebsiteSchema />
-
-        {/* Anti-piracy protection */}
-        <meta name="robots" content="max-image-preview:large" />
-
       </head>
       <body className="antialiased bg-white text-slate-900 font-sans" suppressHydrationWarning>
         <ConsentGatedAdSense />
