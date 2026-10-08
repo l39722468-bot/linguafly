@@ -7,15 +7,9 @@ export function OrganizationSchema() {
     "@context": "https://schema.org",
     "@type": "Organization",
     "name": SITE_BRAND_NAME,
-    "alternateName": ["Linguafly"],
     "url": siteUrl,
     "logo": getAbsoluteUrl('/logo.png'),
     "description": "Guías y cursos gratuitos para aprender inglés por nivel (A1–C2): gramática, inglés para viajar y para trabajar, y exámenes oficiales.",
-    "address": {
-      "@type": "PostalAddress",
-      "addressCountry": "ES",
-      "addressLocality": "España"
-    },
     "contactPoint": {
       "@type": "ContactPoint",
       "contactType": "editorial",
