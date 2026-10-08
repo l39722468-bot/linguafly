@@ -1,9 +1,4 @@
-import {
-  getArticleUnitVideo,
-  getCourseUnitVideo,
-  getInteractiveUnitVideo,
-  unitNumberFromUnitId,
-} from "@/lib/course/unit-videos";
+import { getArticleUnitVideo, getCourseUnitVideo } from "@/lib/course/unit-videos";
 import {
   isValidYoutubeId,
   isoDurationToSeconds,
@@ -18,29 +13,14 @@ const registry = {
     10: { youtubeId: "dQw4w9WgXcQ", uploadDate: "2026-10-08", duration: "PT12M30S" },
     11: { youtubeId: "not-a-real-id", uploadDate: "2026-10-08" },
   },
-  "curso-camarero-a1": {
-    3: { youtubeId: "abcdefghijk", uploadDate: "2026-10-08" },
-  },
 };
 
 describe("course unit videos", () => {
-  it("parses interactive unit ids", () => {
-    expect(unitNumberFromUnitId("unit-10")).toBe(10);
-    expect(unitNumberFromUnitId("7")).toBe(7);
-    expect(unitNumberFromUnitId("test-final")).toBeNull();
-  });
-
   it("ignores entries with malformed YouTube ids", () => {
     expect(isValidYoutubeId("dQw4w9WgXcQ")).toBe(true);
     expect(getCourseUnitVideo("curso-a1", 10, registry)?.youtubeId).toBe("dQw4w9WgXcQ");
     expect(getCourseUnitVideo("curso-a1", 11, registry)).toBeNull();
     expect(getCourseUnitVideo("curso-a1", 99, registry)).toBeNull();
-  });
-
-  it("resolves interactive units for general and sector courses", () => {
-    expect(getInteractiveUnitVideo("curso-a1", "unit-10", registry)?.youtubeId).toBe("dQw4w9WgXcQ");
-    expect(getInteractiveUnitVideo("curso-camarero-a1", "unit-3", registry)?.youtubeId).toBe("abcdefghijk");
-    expect(getInteractiveUnitVideo("curso-a1", "test-final", registry)).toBeNull();
   });
 
   it("attaches the video to the theory article but not the workbook", () => {

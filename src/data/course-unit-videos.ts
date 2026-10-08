@@ -1,18 +1,18 @@
 /**
  * Vídeo-clases de YouTube por unidad.
  *
- * Clave exterior: slug del curso (`curso-a1`, `curso-b2`, `curso-camarero-a1`...).
+ * Clave exterior: categoría del curso (`curso-a1` … `curso-c2`).
  * Clave interior: número de unidad.
  *
- * El vídeo se muestra en el artículo de teoría de la unidad
- * (`/blog/curso-a1/unidad-10-...`, con datos estructurados VideoObject) y en la
- * unidad interactiva (`/curso-a1/unit-10`). Los cursos sectoriales no tienen
- * artículo de teoría, así que allí solo aparece en la unidad interactiva.
+ * El vídeo se inserta en el artículo de teoría de la unidad
+ * (`/blog/curso-a1/unidad-10-...`) con datos estructurados VideoObject y
+ * etiqueta `<video:video>` en el sitemap. El cuaderno de ejercicios de la
+ * misma unidad no lo repite.
  *
  * Ejemplo:
  *   "curso-a1": {
  *     10: {
- *       youtubeId: "dQw4w9WgXcQ",
+ *       youtubeId: "M7lc1UVf-VE",
  *       uploadDate: "2026-10-08",
  *       duration: "PT12M30S",
  *     },
