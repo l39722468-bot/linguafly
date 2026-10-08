@@ -634,17 +634,6 @@ const nextConfig = {
         statusCode: 301,
       },
       {
-        source: '/blog/Habilidades',
-        destination: '/blog/metodos',
-        statusCode: 301,
-      },
-      {
-        source: '/blog/Habilidades/:slug*',
-        destination: '/blog/metodos/:slug*',
-        statusCode: 301,
-      },
-
-      {
         source: '/blog/ingles-profesional-sectores',
         destination: '/blog/trabajo/ingles-para-trabajo',
         statusCode: 301,
@@ -762,15 +751,10 @@ const nextConfig = {
         statusCode: 301,
       },
 
-      // FAVICON Y LOGO
+      // FAVICON
       {
         source: '/favicon.ico',
         destination: '/icon.svg',
-        statusCode: 301,
-      },
-      {
-        source: '/logo.png',
-        destination: '/',
         statusCode: 301,
       },
     ];
