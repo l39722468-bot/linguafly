@@ -33,7 +33,14 @@ export function isGaMeasurementId(value: string): boolean {
 /**
  * Ruta first-party de Google Tag Gateway (Cloudflare).
  * No usar `/metrics`: el Worker legado sirve JSON ahí.
- * Vacía `NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH` para cargar googletagmanager.com.
+ *
+ * El HTML debe seguir apuntando a googletagmanager.com. Cloudflare reescribe
+ * esa petición a `/gtag/` una sola vez. Si el snippet usa `src="/gtag/"` y el
+ * gateway está ON, PageSpeed descarga el loader dos veces (~360 KiB).
+ *
+ * `NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_INLINE=1` fuerza `src="/gtag/"` (solo si el
+ * rewrite de zona está apagado). Vacía `NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_PATH`
+ * para no reservar la ruta.
  */
 export const DEFAULT_GOOGLE_TAG_GATEWAY_PATH = '/gtag';
 
@@ -64,11 +71,20 @@ export function getGoogleTagGatewayPath(): string | null {
   return normalizeGoogleTagGatewayPath(raw ?? DEFAULT_GOOGLE_TAG_GATEWAY_PATH);
 }
 
+export function shouldInlineGoogleTagGateway(): boolean {
+  const raw = process.env.NEXT_PUBLIC_GOOGLE_TAG_GATEWAY_INLINE?.trim().toLowerCase();
+  return raw === '1' || raw === 'true' || raw === 'yes';
+}
+
+export function officialGoogleTagScriptSrc(measurementId: string): string {
+  return `https://www.googletagmanager.com/gtag/js?id=${measurementId}`;
+}
+
 export function getGoogleTagScriptSrc(measurementId: string): string {
-  const gatewayPath = getGoogleTagGatewayPath();
-  if (!gatewayPath) {
-    return `https://www.googletagmanager.com/gtag/js?id=${measurementId}`;
+  if (!shouldInlineGoogleTagGateway()) {
+    return officialGoogleTagScriptSrc(measurementId);
   }
+  const gatewayPath = getGoogleTagGatewayPath() ?? DEFAULT_GOOGLE_TAG_GATEWAY_PATH;
   return `${gatewayPath}/`;
 }
 
