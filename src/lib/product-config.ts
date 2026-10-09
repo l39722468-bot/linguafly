@@ -1,5 +1,6 @@
 /**
- * Producto: blog gratuito (sin registro, sin pagos).
+ * Los cursos siguen abiertos. La cuenta de lector solo desbloquea
+ * artículos de blog marcados como premium.
  */
 
 import { isPublicCoursePath } from '@/lib/course-indexing';
@@ -32,7 +33,6 @@ const ACCOUNT_ROUTE_PREFIXES = [
   '/profile',
   '/aula',
   '/onboarding',
-  '/cuenta',
   '/planes',
   '/admin',
 ] as const;

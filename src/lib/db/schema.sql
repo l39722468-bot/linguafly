@@ -28,6 +28,7 @@ CREATE TABLE IF NOT EXISTS articles (
     related_routes TEXT,
     canonical TEXT,
     content_hash TEXT,
+    premium INTEGER NOT NULL DEFAULT 0,
     UNIQUE(category, slug)
 );
 

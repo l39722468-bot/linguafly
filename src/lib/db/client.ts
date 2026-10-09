@@ -11,6 +11,7 @@
  * bodies in the Worker bundle.
  */
 
+import { indexableArticleBody } from "@/lib/billing/premium-article";
 import { compareCourseUnitArticles } from "@/lib/content/course-unit-order";
 import { articleContentHash } from "@/lib/db/article-hash";
 import { getArticleOgImagePath } from "@/lib/seo/og-images";
@@ -53,6 +54,7 @@ export interface ArticleRecord {
   read_time?: string | null;
   faqs?: string | null;
   featured?: number | boolean | null;
+  premium?: number | boolean | null;
   image?: string | null;
   alt?: string | null;
   related_routes?: string | null;
@@ -73,6 +75,7 @@ export interface ArticleInput {
   readTime?: string;
   faqs?: ArticleFaq[];
   featured?: boolean;
+  premium?: boolean;
   image?: string;
   alt?: string;
   relatedRoutes?: string[];
@@ -159,8 +162,8 @@ export const ARTICLE_LIST_COLUMNS = [
 const UPSERT_ARTICLE_SQL = `INSERT INTO articles (
   slug, title, description, content, category, level,
   excerpt, author, read_time, faqs, featured, image, alt,
-  related_routes, canonical, created_at, updated_at, is_published, content_hash
-) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+  related_routes, canonical, created_at, updated_at, is_published, content_hash, premium
+) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
 ON CONFLICT(category, slug) DO UPDATE SET
   title = excluded.title,
   description = excluded.description,
@@ -179,7 +182,8 @@ ON CONFLICT(category, slug) DO UPDATE SET
   created_at = COALESCE(excluded.created_at, articles.created_at),
   updated_at = excluded.updated_at,
   is_published = excluded.is_published,
-  content_hash = excluded.content_hash`;
+  content_hash = excluded.content_hash,
+  premium = excluded.premium`;
 
 function jsonText(value: unknown): string | null {
   if (value == null) return null;
@@ -209,6 +213,7 @@ export function articleUpsertBindings(article: ArticleInput): unknown[] {
     updatedAt,
     article.isPublished === false ? 0 : 1,
     articleContentHash(article),
+    article.premium ? 1 : 0,
   ];
 }
 
@@ -728,7 +733,7 @@ class DatabaseClient {
           article.description ?? "",
           ftsKeywords(article.tags),
           article.category,
-          article.content
+          indexableArticleBody(article)
         )
       );
     }

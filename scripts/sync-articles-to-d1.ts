@@ -31,6 +31,7 @@ import {
   ftsKeywords,
   type ArticleInput,
 } from "../src/lib/db/client";
+import { indexableArticleBody } from "../src/lib/billing/premium-article";
 
 /** Keep each file small enough for wrangler d1 execute (long article bodies). */
 const ARTICLES_PER_CHUNK = 8;
@@ -38,7 +39,7 @@ const ARTICLES_PER_CHUNK = 8;
 const UPSERT_SQL = `INSERT INTO articles (
   slug, title, description, content, category, level,
   excerpt, author, read_time, faqs, featured, image, alt,
-  related_routes, canonical, created_at, updated_at, is_published, content_hash
+  related_routes, canonical, created_at, updated_at, is_published, content_hash, premium
 ) VALUES`;
 
 function hasFlag(flag: string): boolean {
@@ -77,7 +78,7 @@ function articleSql(article: ArticleInput): string {
     article.description ?? "",
     ftsKeywords(article.tags),
     article.category,
-    article.content,
+    indexableArticleBody(article),
   ]
     .map(sqlLiteral)
     .join(", ")});`;
@@ -102,7 +103,8 @@ function articleSql(article: ArticleInput): string {
   created_at = COALESCE(excluded.created_at, articles.created_at),
   updated_at = excluded.updated_at,
   is_published = excluded.is_published,
-  content_hash = excluded.content_hash;`,
+  content_hash = excluded.content_hash,
+  premium = excluded.premium;`,
     tagDeletes,
     tagInserts,
     ftsDelete,

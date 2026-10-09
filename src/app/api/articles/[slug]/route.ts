@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
+import { redactPublicArticleRecord } from "@/lib/billing/premium-article";
 import { DatabaseClient, resolveCloudflareEnv } from "@/lib/db/client";
 
 export const runtime = "nodejs";
@@ -53,7 +54,7 @@ export async function GET(request: NextRequest, context: RouteContext) {
       void trackView();
     }
 
-    return NextResponse.json(article, {
+    return NextResponse.json(redactPublicArticleRecord(article), {
       headers: { "Cache-Control": "public, max-age=3600" },
     });
   } catch (error) {

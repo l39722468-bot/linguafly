@@ -4,6 +4,7 @@ import { getPublicCategoryLabel } from "@/lib/site-catalog";
 import { getArticlePath } from "@/lib/blog-paths";
 import { articleImageIsGenerated } from "@/lib/seo/article-cover";
 import { getArticleOgImagePath } from "@/lib/seo/og-images";
+import { isPremiumArticle } from "@/lib/billing/premium-article";
 import type { BlogPost } from "@/lib/blog";
 
 export function MagazineArticleCard({ article }: { article: BlogPost }) {
@@ -32,6 +33,9 @@ export function MagazineArticleCard({ article }: { article: BlogPost }) {
             {label.icon} {label.name}
           </span>
           <span className="text-slate-400">{article.readTime}</span>
+          {isPremiumArticle(article) ? (
+            <span className="rounded-full bg-coral-50 px-3 py-1 text-coral-800">Premium</span>
+          ) : null}
         </div>
         <h3 className="font-display mb-3 text-xl font-black leading-tight text-slate-900 group-hover:text-coral-700">
           {article.title}

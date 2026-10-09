@@ -58,11 +58,9 @@ const nextConfig = {
   trailingSlash: false,
   async redirects() {
     return [
-      // Auth/paywall removed — send legacy URLs to free content
+      // Old product routes. /cuenta is the reader account for premium articles.
       { source: '/planes', destination: '/aprender-ingles', permanent: true },
       { source: '/planes/:path*', destination: '/aprender-ingles', permanent: true },
-      { source: '/cuenta', destination: '/blog', permanent: true },
-      { source: '/cuenta/:path*', destination: '/blog', permanent: true },
       { source: '/mi-panel', destination: '/blog', permanent: true },
       { source: '/mi-panel/:path*', destination: '/blog', permanent: true },
       // Legacy: solo /curso/* (sin guión) se redirige al blog

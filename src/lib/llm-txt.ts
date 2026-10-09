@@ -1,3 +1,4 @@
+import { isPremiumArticle, redactPremiumArticle } from "@/lib/billing/premium-article";
 import { getArticlePath } from "@/lib/blog-paths";
 import type { BlogPost } from "@/lib/blog";
 import { listPublishedArticles, getPublishedArticle } from "@/lib/content/articles";
@@ -428,9 +429,12 @@ export async function renderMarkdownTwin(markdownPath: string): Promise<{
 
   const article = await getPublishedArticle(target.slug, target.category);
   if (!article) return { status: 404 };
+  // Public markdown is cacheable. Premium bodies stay a teaser even for subscribers;
+  // the full text is only rendered on the dynamic HTML page.
+  const publicArticle = isPremiumArticle(article) ? redactPremiumArticle(article) : article;
   return {
     status: 200,
     htmlPath: target.htmlPath,
-    body: buildArticleMarkdown(article),
+    body: buildArticleMarkdown(publicArticle),
   };
 }

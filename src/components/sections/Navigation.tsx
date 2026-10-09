@@ -35,6 +35,7 @@ export function Navigation() {
                 {vertical.name}
               </Link>
             ))}
+            <Link href="/cuenta" className={linkClass}>Cuenta</Link>
             <Link href="/blog" className="rounded-full bg-gradient-to-r from-coral-500 to-peach-500 px-4 py-2 text-xs font-black text-white hover:opacity-90">
               Artículos
             </Link>
@@ -72,6 +73,7 @@ export function Navigation() {
                 </Link>
               ))}
               <Link href="/blog" className={linkClass} onClick={closeMobileMenu}>Artículos</Link>
+              <Link href="/cuenta" className={linkClass} onClick={closeMobileMenu}>Cuenta</Link>
             </div>
           </div>
         )}
