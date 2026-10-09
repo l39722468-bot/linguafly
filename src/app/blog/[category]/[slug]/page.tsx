@@ -40,6 +40,11 @@ import { CourseTopicCanonicalBanner } from "@/components/blog/CourseTopicCanonic
 import { RelatedSearches } from "@/components/blog/RelatedSearches";
 import { AmazonBookOffer } from "@/components/affiliates/AmazonBookOffer";
 import { CourseLessonNav } from "@/components/blog/CourseLessonNav";
+import { PremiumPaywall } from "@/components/blog/PremiumPaywall";
+import { readerHasPremiumAccess } from "@/lib/billing/access";
+import { isPremiumArticle, redactPremiumArticle } from "@/lib/billing/premium-article";
+import { getReaderSession } from "@/lib/billing/session-cookie";
+import { monthlyPriceLabel } from "@/lib/billing/stripe";
 import { breadcrumbSectionName } from "@/lib/seo/breadcrumb-labels";
 import { getCourseLessonLinks } from "@/lib/seo/course-lesson-nav";
 import { detectBlogCourseLevel } from "@/lib/seo/blog-course-recommendations";
@@ -54,6 +59,13 @@ import { Twitter } from "lucide-react";
 /** D1 at request time. Do not SSG 100k article routes into the Worker. */
 export const dynamic = "force-dynamic";
 export const dynamicParams = true;
+
+/** Related cards must not carry another article's body into the page payload. */
+function publicCard<T extends { content: string; faqs?: { question: string; answer: string }[] }>(
+  post: T,
+): T {
+  return { ...post, content: "", faqs: [] };
+}
 
 /** Evita `/_next/image` para URLs absolutas: mejora compatibilidad con rastreadores (p. ej. GSC) y CDN externos. */
 function isRemoteImageSrc(src: string): boolean {
@@ -126,8 +138,6 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     notFound();
   }
 
-  // Generate Article Schema for SEO
-  const wordCount = (article.content || "").split(/\s+/).length;
   const normalizedCategory = normalizeCategory(article.category);
   const categoryLabel = getPublicCategoryLabel(normalizedCategory).name;
   const contentLanguage = "es-ES";
@@ -138,7 +148,13 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     excerpt: article.excerpt,
     content: article.content.slice(0, 3000),
   });
-  const voiceSummary = getVoiceSearchSummary(article.faqs);
+  const premium = isPremiumArticle(article);
+  const reader = premium ? await getReaderSession() : null;
+  const locked = premium && !(reader && (await readerHasPremiumAccess()));
+  const visible = locked ? redactPremiumArticle(article) : article;
+  const wordCount = (visible.content || "").split(/\s+/).length;
+  const voiceSummary = locked ? null : getVoiceSearchSummary(visible.faqs);
+  const priceLabel = locked ? await monthlyPriceLabel() : null;
   const affiliateBook = affiliateBookForSlug(slug);
 
   const canonicalUrl = resolveArticleCanonicalUrl(article);
@@ -173,6 +189,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     }, 20),
     wordCount,
     inLanguage: contentLanguage,
+    isAccessibleForFree: !premium,
     canonicalUrl,
     author: article.authorData ? {
       name: article.authorData.name,
@@ -192,8 +209,8 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   ]);
 
   // Generate FAQ Schema if FAQs exist
-  const faqSchema = article.faqs && article.faqs.length > 0 
-    ? generateFAQSchema(article.faqs)
+  const faqSchema = visible.faqs && visible.faqs.length > 0
+    ? generateFAQSchema(visible.faqs)
     : null;
 
   // Enhanced markdown components for SEO and styling
@@ -330,17 +347,17 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
 
   const categoryColor = categoryColors[normalizedCategory] || "bg-slate-100 text-slate-800";
 
-  const relatedArticles = await getRelatedPublishedArticles(
-    slug,
-    article.category,
-    article.relatedRoutes || []
-  );
-  const clusterArticles = await getRelatedByKeywordsPublished(slug, article.keywords || [], 3);
+  const relatedArticles = (
+    await getRelatedPublishedArticles(slug, article.category, article.relatedRoutes || [])
+  ).map(publicCard);
+  const clusterArticles = (
+    await getRelatedByKeywordsPublished(slug, article.keywords || [], 3)
+  ).map(publicCard);
   const mainKeyword = article.keywords?.[0];
 
   /** Artículos de la misma categoría para la navegación de la sidebar (sin CTAs comerciales). */
-  const sidebarCategoryArticles = await listSidebarArticles(article.category, slug);
-  const articleBody = expandBlogGlosses(article.content);
+  const sidebarCategoryArticles = (await listSidebarArticles(article.category, slug)).map(publicCard);
+  const articleBody = expandBlogGlosses(visible.content);
   const { intro, rest } = splitMarkdownForMidArticleAd(articleBody);
     return (
       <>
@@ -377,6 +394,11 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       <span className={`px-4 py-2 rounded-full text-sm font-bold border shadow-md backdrop-blur-md ${categoryColor}`}>
                         {categoryLabel}
                       </span>
+                      {premium ? (
+                        <span className="ml-2 px-4 py-2 rounded-full text-sm font-bold border border-coral-200 bg-coral-50 text-coral-800">
+                          Premium
+                        </span>
+                      ) : null}
                     </div>
                     <div className="flex flex-wrap items-center gap-4 text-sm text-slate-500 mb-6 print-hidden">
                       <time dateTime={article.date} className="flex items-center gap-1.5">
@@ -482,7 +504,7 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                     <TableOfContents />
                   </div>
 
-                  {article.downloadPdf && (
+                  {visible.downloadPdf && (
                     <div className="px-8 lg:px-12 pt-8 print-hidden">
                       <BlogArticlePdfDownload
                         label={article.pdfDownloadLabel}
@@ -518,6 +540,14 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       </ReactMarkdown>
                     ) : null}
 
+                    {locked ? (
+                      <PremiumPaywall
+                        nextPath={`/blog/${normalizedCategory}/${slug}`}
+                        loggedIn={Boolean(reader)}
+                        priceLabel={priceLabel}
+                      />
+                    ) : null}
+
                     {affiliateBook ? (
                       <div className="not-prose my-12 print-hidden">
                         <AmazonBookOffer book={affiliateBook} />
@@ -525,13 +555,13 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                     ) : null}
 
                     {/* FAQs visibles (alineadas con FAQPage schema) */}
-                    {article.faqs && article.faqs.length > 0 && (
+                    {visible.faqs && visible.faqs.length > 0 && (
                       <div className="mt-16 border-t border-slate-100 pt-12 not-prose">
                         <h2 className="font-display text-3xl font-black text-slate-900 mb-8">
                           Preguntas frecuentes
                         </h2>
                         <div className="space-y-8">
-                          {article.faqs.slice(voiceSummary ? 1 : 0).map((faq, index) => (
+                          {visible.faqs.slice(voiceSummary ? 1 : 0).map((faq, index) => (
                             <div key={index}>
                               <h3 className="font-bold text-slate-900 text-xl mb-3 flex items-start gap-3">
                                 <span className="text-coral-600" aria-hidden>

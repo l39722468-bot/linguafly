@@ -41,7 +41,7 @@ function redirectToCanonical(destUrl: string, fromArticle?: string | null): Next
 }
 
 /**
- * Middleware SEO/redirects only — blog gratuito sin auth.
+ * Middleware SEO/redirects. La sesión de lector se comprueba en las páginas premium.
  */
 export async function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;

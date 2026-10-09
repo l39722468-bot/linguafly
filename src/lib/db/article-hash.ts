@@ -14,6 +14,7 @@ export interface ArticleHashSource {
   readTime?: string;
   faqs?: { question: string; answer: string }[];
   featured?: boolean;
+  premium?: boolean;
   image?: string;
   alt?: string;
   relatedRoutes?: string[];
@@ -44,6 +45,7 @@ export function articleContentHash(article: ArticleHashSource): string {
     relatedRoutes: article.relatedRoutes ?? [],
     canonical: article.canonical ?? "",
     isPublished: article.isPublished !== false,
+    ...(article.premium ? { premium: true } : {}),
   };
   return createHash("sha256").update(JSON.stringify(payload), "utf8").digest("hex");
 }

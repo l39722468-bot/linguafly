@@ -1,4 +1,5 @@
 import { Router } from 'itty-router';
+import { redactPublicArticleRecord } from '../../lib/billing/premium-article';
 import { DatabaseClient, CloudflareEnv } from '../../lib/db/client';
 
 export const articlesRouter = Router();
@@ -87,7 +88,7 @@ articlesRouter.get('/articles/:slug', async (req, env: CloudflareEnv, ctx: Execu
       }
     }
 
-    return new Response(JSON.stringify(article), {
+    return new Response(JSON.stringify(redactPublicArticleRecord(article)), {
       headers: {
         'Content-Type': 'application/json',
         'Cache-Control': 'public, max-age=3600'

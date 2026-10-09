@@ -30,6 +30,8 @@ export interface ArticleSchemaProps {
   inLanguage?: string;
   /** Canonical URL when this page consolidates into another topic guide. */
   canonicalUrl?: string;
+  /** False when the article is premium (the full body is not free). */
+  isAccessibleForFree?: boolean;
   author?: {
     name: string;
     slug: string;
@@ -181,10 +183,19 @@ export function generateArticleSchema(props: ArticleSchemaProps) {
     "articleSection": props.category,
     "keywords": props.keywords?.join(', '),
     "inLanguage": props.inLanguage || "es-ES",
+    "isAccessibleForFree": props.isAccessibleForFree !== false,
+    ...(props.isAccessibleForFree === false
+      ? {
+          hasPart: {
+            "@type": "WebPageElement",
+            isAccessibleForFree: false,
+            cssSelector: ".paywall",
+          },
+        }
+      : {}),
     ...(isNews
       ? {
           dateline: "España",
-          isAccessibleForFree: true,
         }
       : {}),
   };

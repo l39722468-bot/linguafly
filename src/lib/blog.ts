@@ -10,6 +10,7 @@ import {
   isMagazineArticleCategory,
   isPublicArticleCategory,
 } from "./site-catalog";
+import { parsePremiumFlag } from "./billing/premium-article";
 import {
   getArticlePath,
   getCanonicalTopicPath,
@@ -52,6 +53,8 @@ export interface BlogPost {
   /** Slugs de artículos a priorizar en «Artículos relacionados» (frontmatter `related_routes`). */
   relatedRoutes?: string[];
   featured?: boolean;
+  /** `premium: true` en el frontmatter. El cuerpo completo solo se envía a suscriptores activos. */
+  premium?: boolean;
   /** En revista: solo `published: true`. En el archivo de inglés el flag suele faltar y se publica igual. */
   published?: boolean;
   canonical?: string;
@@ -135,6 +138,7 @@ function readArticlesFromMarkdown(): BlogPost[] {
               ? data.related_routes.map((r: unknown) => String(r).trim()).filter(Boolean)
               : [],
             featured: data.featured || false,
+            premium: parsePremiumFlag(data.premium),
             published: data.published === true,
             canonical: data.canonical,
             downloadPdf: data.downloadPdf === true,

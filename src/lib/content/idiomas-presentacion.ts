@@ -22,7 +22,7 @@ En esta página te explicamos qué es Linguafly, qué vas a encontrar en cada se
 
 ## Qué es Linguafly (y qué no es)
 
-Linguafly es un proyecto editorial independiente dedicado a una sola cosa: **ayudarte a aprender inglés**. No vendemos cursos, no hay suscripción y no necesitas crear una cuenta para leer, practicar o consultar las soluciones de los ejercicios. Todo el contenido es abierto.
+Linguafly es un proyecto editorial independiente dedicado a una sola cosa: **ayudarte a aprender inglés**. No vendemos los cursos y no necesitas una cuenta para leer las guías gratuitas, practicar o consultar las soluciones de los ejercicios. Algunos artículos del blog pueden marcarse como premium: el avance se lee gratis y el resto se abre con una suscripción mensual.
 
 Tampoco es una aplicación de juegos con rachas y vidas. Es una biblioteca organizada de guías y cursos que puedes recorrer a tu ritmo, desde el móvil o el ordenador, y volver a consultar cuando lo necesites. Cada artículo responde a una pregunta concreta (cómo se usa el *present perfect*, qué decir en el check-in de un hotel, cómo estructurar el *essay* del C1 Advanced) y está escrito pensando en los errores típicos de quien tiene el español como lengua materna.
 

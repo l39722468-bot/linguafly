@@ -3,6 +3,7 @@ import { SITE_BRAND_NAME } from "@/lib/site-brand";
 import { normalizeCategory } from "@/lib/blog-paths";
 import { isPublicPublishedArticle, type BlogPost } from "@/lib/blog";
 import type { ArticleFaq, ArticleInput, ArticleRecord } from "@/lib/db/client";
+import { parsePremiumFlag } from "@/lib/billing/premium-article";
 import { applySerpOverride } from "@/lib/seo/serp-overrides";
 
 function parseJsonArray<T>(value: unknown): T[] {
@@ -52,6 +53,7 @@ export function articleRecordToBlogPost(
     faqs,
     relatedRoutes,
     featured: Boolean(row.featured),
+    premium: parsePremiumFlag(row.premium),
     published,
     canonical: row.canonical || undefined,
     content: row.content || "",
@@ -71,6 +73,7 @@ export function blogPostToArticleInput(article: BlogPost): ArticleInput {
     readTime: article.readTime,
     faqs: article.faqs,
     featured: article.featured === true,
+    premium: article.premium === true,
     image: article.image,
     alt: article.alt,
     relatedRoutes: article.relatedRoutes,

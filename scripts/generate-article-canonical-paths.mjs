@@ -63,3 +63,29 @@ fs.writeFileSync(sharedFile, `${JSON.stringify(sharedCovers, null, 0)}\n`);
 console.warn(
   `[article-covers] wrote ${Object.keys(sharedCovers).length} shared images → ${path.relative(ROOT, sharedFile)}`,
 );
+
+const premiumKeys = [];
+for (const file of walkMarkdown(BLOG_DIR)) {
+  const rel = path.relative(BLOG_DIR, file);
+  const parts = rel.split(path.sep);
+  if (parts.length !== 2) continue;
+  const category = parts[0];
+  const slug = parts[1].replace(/\.mdx?$/, "");
+  if (!slug || slug.startsWith(".")) continue;
+  let data;
+  try {
+    data = matter(fs.readFileSync(file, "utf8")).data;
+  } catch {
+    continue;
+  }
+  const flag = data?.premium;
+  const premium = flag === true || flag === 1 || flag === "1" || flag === "true" || flag === "yes";
+  if (!premium) continue;
+  premiumKeys.push(`${category}/${slug}`.toLowerCase());
+}
+premiumKeys.sort();
+const premiumFile = path.join(ROOT, "src", "lib", "content", "premium-articles.json");
+fs.writeFileSync(premiumFile, `${JSON.stringify(premiumKeys)}\n`);
+console.warn(
+  `[premium-articles] wrote ${premiumKeys.length} keys → ${path.relative(ROOT, premiumFile)}`,
+);
