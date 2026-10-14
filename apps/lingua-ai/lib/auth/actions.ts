@@ -150,6 +150,9 @@ export async function signOut(
   _previous: AuthFormState,
   _formData: FormData,
 ): Promise<AuthFormState> {
+  void _previous;
+  void _formData;
+
   try {
     const auth = await getAuth();
     await auth.api.signOut({ headers: await headers() });
