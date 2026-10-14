@@ -19,7 +19,7 @@
     {
       "binding": "AUTH_DB",
       "database_name": "lingua-ai-auth-db",
-      "database_id": "REPLACE_WITH_NEW_D1_DATABASE_ID",
+      "database_id": "00000000-0000-0000-0000-000000000000",
       "migrations_dir": "migrations"
     }
   ],
