@@ -3,7 +3,9 @@
   "name": "lingua-ai-app",
   "main": ".open-next/worker.js",
   "compatibility_date": "2026-08-11",
-  "compatibility_flags": ["nodejs_compat"],
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
   "minify": true,
   "assets": {
     "directory": ".open-next/assets",
@@ -26,15 +28,23 @@
   "send_email": [
     {
       "name": "EMAIL",
-      "allowed_sender_addresses": ["noreply@linguafly.app"]
+      "allowed_sender_addresses": [
+        "noreply@linguafly.app"
+      ]
     }
   ],
   "vars": {
     "BETTER_AUTH_URL": "https://app.linguafly.app",
-    "AUTH_EMAIL_ENABLED": "true",
+    "AUTH_EMAIL_ENABLED": "false",
     "AUTH_EMAIL_FROM": "noreply@linguafly.app"
   },
   "observability": {
     "enabled": true
-  }
+  },
+  "routes": [
+    {
+      "pattern": "app.linguafly.app",
+      "custom_domain": true
+    }
+  ]
 }
