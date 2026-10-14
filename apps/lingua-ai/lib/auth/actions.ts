@@ -1,8 +1,10 @@
 "use server";
 
+import { getCloudflareContext } from "@opennextjs/cloudflare";
 import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 import { mapAuthError } from "@/lib/auth/errors";
+import { isAuthEmailEnabled } from "@/lib/auth/email";
 import { safeNextPath } from "@/lib/auth/paths";
 import { isValidEmail, passwordError } from "@/lib/auth/validation";
 import { getAuth } from "@/lib/auth/server";
@@ -33,6 +35,14 @@ function authError(error: unknown): { message?: string; code?: string } {
   };
 }
 
+function emailSetupError(): AuthFormState {
+  return {
+    status: "error",
+    message:
+      "El envío de correos de LinguaFly AI todavía no está activado. No se ha enviado ningún mensaje. Configura Cloudflare Email Service e inténtalo de nuevo.",
+  };
+}
+
 export async function signUp(
   _previous: AuthFormState,
   formData: FormData,
@@ -49,13 +59,21 @@ export async function signUp(
     };
   }
 
+  if (!(await isAuthEmailEnabled())) return emailSetupError();
+
   try {
+    const context = await getCloudflareContext({ async: true });
+    const env = context.env as unknown as CloudflareEnv;
+    const baseURL = env.BETTER_AUTH_URL?.trim();
+    if (!baseURL) return emailSetupError();
+
     const auth = await getAuth();
     await auth.api.signUpEmail({
       body: {
         name: email.split("@")[0] || "Alumno",
         email,
         password,
+        callbackURL: new URL("/app", baseURL).toString(),
       },
       headers: await headers(),
     });
@@ -63,7 +81,8 @@ export async function signUp(
     return { status: "error", message: mapAuthError(authError(error)) };
   }
 
-  redirect("/app");
+  // Email verification is required before a session can be created.
+  return { status: "confirm_email" };
 }
 
 export async function signIn(
@@ -101,14 +120,28 @@ export async function requestPasswordReset(
     return { status: "error", message: "Escribe un correo electrónico válido." };
   }
 
-  // No mail transport is configured yet. Do not invoke the reset endpoint
-  // or tell the visitor that an email was sent when it was not.
-  void email;
-  return {
-    status: "error",
-    message:
-      "La recuperación por correo todavía no está configurada. No se ha enviado ningún mensaje.",
-  };
+  if (!(await isAuthEmailEnabled())) return emailSetupError();
+
+  try {
+    const context = await getCloudflareContext({ async: true });
+    const env = context.env as unknown as CloudflareEnv;
+    const baseURL = env.BETTER_AUTH_URL?.trim();
+    if (!baseURL) return emailSetupError();
+
+    const auth = await getAuth();
+    await auth.api.requestPasswordReset({
+      body: {
+        email,
+        redirectTo: new URL("/restablecer-contrasena", baseURL).toString(),
+      },
+      headers: await headers(),
+    });
+  } catch (error) {
+    return { status: "error", message: mapAuthError(authError(error)) };
+  }
+
+  // Better Auth intentionally returns a generic response for unknown emails.
+  return { status: "sent" };
 }
 
 export async function updatePassword(
