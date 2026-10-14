@@ -23,8 +23,16 @@
       "migrations_dir": "migrations"
     }
   ],
+  "send_email": [
+    {
+      "name": "EMAIL",
+      "allowed_sender_addresses": ["noreply@linguafly.app"]
+    }
+  ],
   "vars": {
-    "BETTER_AUTH_URL": "https://app.linguafly.app"
+    "BETTER_AUTH_URL": "https://app.linguafly.app",
+    "AUTH_EMAIL_ENABLED": "false",
+    "AUTH_EMAIL_FROM": "noreply@linguafly.app"
   },
   "observability": {
     "enabled": true
