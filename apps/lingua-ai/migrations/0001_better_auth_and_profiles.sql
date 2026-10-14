@@ -52,7 +52,7 @@ CREATE TABLE verification (
 );
 CREATE INDEX verification_identifier_idx ON verification(identifier);
 
--- El user_id se obtiene siempre desde una sesión validada en el servidor.
+-- The user_id is always obtained from a validated server-side session.
 CREATE TABLE profiles (
   user_id TEXT PRIMARY KEY NOT NULL REFERENCES user(id) ON DELETE CASCADE,
   created_at INTEGER NOT NULL DEFAULT (CAST(strftime('%s', 'now') AS INTEGER) * 1000),
@@ -69,6 +69,6 @@ FOR EACH ROW
 WHEN NEW.updated_at = OLD.updated_at
 BEGIN
   UPDATE profiles
-  SET updated_at = CAST(strftime('%s', 'now') AS INTEGER) * 1000
+  SET updated_at = max(CAST(strftime('%s', 'now') AS INTEGER) * 1000, OLD.updated_at + 1)
   WHERE user_id = NEW.user_id;
 END;
