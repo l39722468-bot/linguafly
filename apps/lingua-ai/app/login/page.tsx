@@ -1,9 +1,9 @@
+import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 import { LoginForm } from "@/components/auth/login-form";
 import { authErrorMessage } from "@/lib/auth/errors";
 import { safeNextPath } from "@/lib/auth/paths";
-import { getPublicSupabaseEnv } from "@/lib/supabase/env";
-import { createServerSupabaseClient } from "@/lib/supabase/server";
+import { getAuth } from "@/lib/auth/server";
 
 export const dynamic = "force-dynamic";
 
@@ -14,10 +14,21 @@ export default async function LoginPage({
 }) {
   const params = await searchParams;
 
-  if (getPublicSupabaseEnv()) {
-    const supabase = await createServerSupabaseClient();
-    const { data } = await supabase.auth.getUser();
-    if (data.user) redirect(safeNextPath(params.next));
+  try {
+    const auth = await getAuth();
+    const session = await auth.api.getSession({ headers: await headers() });
+    if (session?.user) redirect(safeNextPath(params.next));
+  } catch (error) {
+    // Next.js redirect signals must not be swallowed by this setup check.
+    if (
+      error &&
+      typeof error === "object" &&
+      "digest" in error &&
+      typeof (error as { digest?: unknown }).digest === "string" &&
+      (error as { digest: string }).digest.startsWith("NEXT_REDIRECT")
+    ) {
+      throw error;
+    }
   }
 
   return (
