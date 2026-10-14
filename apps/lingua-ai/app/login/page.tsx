@@ -13,23 +13,17 @@ export default async function LoginPage({
   searchParams: Promise<{ error?: string; next?: string }>;
 }) {
   const params = await searchParams;
+  let signedIn = false;
 
   try {
     const auth = await getAuth();
     const session = await auth.api.getSession({ headers: await headers() });
-    if (session?.user) redirect(safeNextPath(params.next));
-  } catch (error) {
-    // Next.js redirect signals must not be swallowed by this setup check.
-    if (
-      error &&
-      typeof error === "object" &&
-      "digest" in error &&
-      typeof (error as { digest?: unknown }).digest === "string" &&
-      (error as { digest: string }).digest.startsWith("NEXT_REDIRECT")
-    ) {
-      throw error;
-    }
+    signedIn = Boolean(session?.user);
+  } catch {
+    // The form remains available and reports configuration errors on submit.
   }
+
+  if (signedIn) redirect(safeNextPath(params.next));
 
   return (
     <LoginForm
