@@ -1,10 +1,11 @@
 import { getCloudflareContext } from "@opennextjs/cloudflare";
 import { betterAuth } from "better-auth";
 import { nextCookies } from "better-auth/next-js";
+import { createAuthEmailContent, queueAuthEmail } from "@/lib/auth/email";
 
 /**
- * Create auth inside the request context so that D1 is read from the
- * dedicated Worker binding, never from the public site's database.
+ * Create auth inside the request context so D1 and Email Service are read
+ * from this app's dedicated Worker bindings, never from the public site.
  */
 export async function getAuth() {
   const context = await getCloudflareContext({ async: true });
@@ -30,18 +31,50 @@ export async function getAuth() {
     trustedOrigins: [baseURL, "http://localhost:5440"],
     emailAndPassword: {
       enabled: true,
-      autoSignIn: true,
-      requireEmailVerification: false,
+      autoSignIn: false,
+      requireEmailVerification: true,
       minPasswordLength: 8,
       maxPasswordLength: 128,
-      revokeSessionsOnPasswordReset: true
+      revokeSessionsOnPasswordReset: true,
+      sendResetPassword: async ({ user, url }) => {
+        const content = createAuthEmailContent({
+          name: user.name,
+          intro: "Hemos recibido una solicitud para cambiar la contraseña de tu cuenta.",
+          actionLabel: "Elegir una contraseña nueva",
+          url,
+        });
+        await queueAuthEmail({
+          to: user.email,
+          subject: "Restablece tu contraseña de LinguaFly AI",
+          ...content,
+        });
+      },
+    },
+    emailVerification: {
+      sendOnSignUp: true,
+      sendOnSignIn: true,
+      autoSignInAfterVerification: true,
+      expiresIn: 3600,
+      sendVerificationEmail: async ({ user, url }) => {
+        const content = createAuthEmailContent({
+          name: user.name,
+          intro: "Confirma tu dirección de correo para activar tu cuenta de LinguaFly AI.",
+          actionLabel: "Confirmar mi correo",
+          url,
+        });
+        await queueAuthEmail({
+          to: user.email,
+          subject: "Confirma tu correo de LinguaFly AI",
+          ...content,
+        });
+      },
     },
     advanced: {
-      useSecureCookies: baseURL.startsWith("https://")
+      useSecureCookies: baseURL.startsWith("https://"),
     },
     plugins: [
       // Keep last: persists Better Auth cookies from Next.js Server Actions.
-      nextCookies()
-    ]
+      nextCookies(),
+    ],
   });
 }
