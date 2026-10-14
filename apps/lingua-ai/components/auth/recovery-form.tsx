@@ -10,23 +10,10 @@ import { TextField } from "@/components/auth/text-field";
 export function RecoveryForm() {
   const [state, action] = useActionState(requestPasswordReset, null);
 
-  if (state?.status === "sent") {
-    return (
-      <AuthShell
-        title="Revisa tu correo"
-        description="Si hay una cuenta con ese correo, te enviaremos un enlace para elegir una contraseña nueva."
-      >
-        <Link href="/login" className="text-sm font-medium text-stone-900 underline">
-          Volver al inicio de sesión
-        </Link>
-      </AuthShell>
-    );
-  }
-
   return (
     <AuthShell
       title="Recuperar contraseña"
-      description="Escribe el correo de tu cuenta y te enviaremos un enlace para restablecerla."
+      description="El envío de correos de recuperación todavía está pendiente de configurar. Este formulario no enviará mensajes hasta que se active un proveedor de correo."
     >
       <form action={action} className="space-y-5">
         <TextField label="Correo electrónico" name="email" type="email" autoComplete="email" />
@@ -35,7 +22,7 @@ export function RecoveryForm() {
             {state.message}
           </p>
         ) : null}
-        <SubmitButton label="Enviar enlace" />
+        <SubmitButton label="Comprobar recuperación" />
       </form>
       <p className="mt-6 text-sm text-stone-600">
         <Link href="/login" className="font-medium text-stone-900 underline">
