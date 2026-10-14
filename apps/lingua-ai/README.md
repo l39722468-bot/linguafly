@@ -24,7 +24,7 @@ Desde esta carpeta:
    `node -e "console.log(require('node:crypto').randomBytes(32).toString('base64'))"`.
    Pega el resultado en `BETTER_AUTH_SECRET` dentro de `.dev.vars`.
 4. Mantén `BETTER_AUTH_URL=http://localhost:5440` en `.dev.vars`.
-5. Mantén `AUTH_EMAIL_ENABLED=false` durante el desarrollo normal. El envío está apagado hasta que el dominio y el remitente estén verificados en Cloudflare.
+5. En desarrollo local, mantén `AUTH_EMAIL_ENABLED=false` salvo que quieras hacer una prueba real de envío. La configuración desplegada del Worker ya usa `AUTH_EMAIL_ENABLED=true` porque confirmaste que el dominio figura Activado y los DNS Configurados en Cloudflare.
 6. Aplica el esquema solo a la D1 local:
    `npm run d1:migrate:local`.
 7. Arranca Next en desarrollo:
@@ -56,7 +56,7 @@ Cloudflare Email Service está en beta. La documentación oficial de envío y re
 y la documentación oficial de precios en:
 `https://developers.cloudflare.com/email-service/platform/pricing/`.
 
-La variable `AUTH_EMAIL_ENABLED` está en `false` por defecto para impedir que el registro o la recuperación afirmen que enviaron mensajes antes de que el dominio esté verificado. Mientras está apagada, las acciones de registro/recuperación muestran un error claro y no envían correo.
+La configuración desplegada del Worker usa `AUTH_EMAIL_ENABLED=true`, basándonos en que el panel muestra el envío Activado, DNS Configurado y en que confirmaste tener Workers Paid. En desarrollo local, el ejemplo mantiene el envío apagado. Si el envío falla en producción, revisa los logs del Worker y el Registro de actividad de Email Service; la interfaz de registro y recuperación utiliza mensajes prudentes para no afirmar que una entrega está garantizada.
 
 ## Preparar la base D1 y desplegar (manual; no se ha ejecutado)
 
