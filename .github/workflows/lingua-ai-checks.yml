@@ -57,3 +57,42 @@ jobs:
 
       - name: Build OpenNext Worker bundle
         run: npx opennextjs-cloudflare build
+
+      - name: Smoke test local Worker and Better Auth session endpoint
+        shell: bash
+        run: |
+          printf '%s\n' \
+            'BETTER_AUTH_SECRET=CI_ONLY_TEST_SECRET_0123456789_abcdefghijklmnopqrstuvwxyz' \
+            'BETTER_AUTH_URL=http://127.0.0.1:8787' > .dev.vars
+
+          npx wrangler dev --local --ip 127.0.0.1 --port 8787 > /tmp/lingua-ai-worker.log 2>&1 &
+          worker_pid=$!
+          trap 'kill "$worker_pid" >/dev/null 2>&1 || true' EXIT
+
+          ready=false
+          for attempt in $(seq 1 60); do
+            if curl --silent --fail http://127.0.0.1:8787/ >/dev/null; then
+              ready=true
+              break
+            fi
+            sleep 1
+          done
+
+          if [ "$ready" != true ]; then
+            cat /tmp/lingua-ai-worker.log
+            echo "El Worker local no llegó a estar disponible."
+            exit 1
+          fi
+
+          auth_status=$(curl --silent --output /tmp/lingua-ai-auth-response.json --write-out "%{http_code}" \
+            http://127.0.0.1:8787/api/auth/get-session)
+
+          if [ "$auth_status" != "200" ]; then
+            cat /tmp/lingua-ai-worker.log
+            cat /tmp/lingua-ai-auth-response.json
+            echo "Better Auth devolvió HTTP $auth_status en GET /api/auth/get-session."
+            exit 1
+          fi
+
+          echo "Endpoint de sesión Better Auth respondió HTTP 200."
+          cat /tmp/lingua-ai-auth-response.json
