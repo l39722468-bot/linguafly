@@ -12,6 +12,10 @@ on:
       - "apps/lingua-ai/**"
       - ".github/workflows/lingua-ai-checks.yml"
 
+concurrency:
+  group: lingua-ai-checks-${{ github.ref }}
+  cancel-in-progress: true
+
 permissions:
   contents: read
 
@@ -23,8 +27,11 @@ jobs:
       run:
         working-directory: apps/lingua-ai
     steps:
-      - name: Checkout
+      - name: Checkout app files only
         uses: actions/checkout@v4
+        with:
+          sparse-checkout: apps/lingua-ai
+          sparse-checkout-cone-mode: true
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
