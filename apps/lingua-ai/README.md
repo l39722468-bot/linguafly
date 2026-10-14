@@ -56,7 +56,7 @@ Cloudflare Email Service está en beta. La documentación oficial de envío y re
 y la documentación oficial de precios en:
 `https://developers.cloudflare.com/email-service/platform/pricing/`.
 
-La configuración desplegada del Worker usa `AUTH_EMAIL_ENABLED=true`, basándonos en que el panel muestra el envío Activado, DNS Configurado y en que confirmaste tener Workers Paid. En desarrollo local, el ejemplo mantiene el envío apagado. Si el envío falla en producción, revisa los logs del Worker y el Registro de actividad de Email Service; la interfaz de registro y recuperación utiliza mensajes prudentes para no afirmar que una entrega está garantizada.
+La configuración versionada mantiene `AUTH_EMAIL_ENABLED=false` durante el primer despliegue para evitar enviar correos antes de completar la comprobación de la aplicación. Tras confirmar que el Worker responde con su dominio definitivo y que el secreto está configurado, se habilitará el envío con una nueva actualización de configuración y se probará con una dirección que controles.
 
 ## Aplicar la migración desde el panel de Cloudflare
 
@@ -88,17 +88,43 @@ También se puede ver el esquema completo desde la consola con `SELECT name, sql
 
 **No ejecutes estos SQL contra `linguafly_db`**: es la base de la web pública. Asegúrate de que el nombre de la página sea exactamente `lingua-ai-auth-db`.
 
-## Siguientes pasos antes de publicar
+## Preparar y desplegar el Worker
 
-1. Configura el secreto del Worker desde la carpeta `apps/lingua-ai`:
-   `npx wrangler secret put BETTER_AUTH_SECRET`.
-   Introduce un secreto aleatorio de al menos 32 caracteres; no lo guardes en Git.
-2. Comprueba que `BETTER_AUTH_URL` sea `https://app.linguafly.app`.
-3. Espera que pasen CI y la prueba local de correo.
-4. Publica solo cuando estés listo para habilitar el Worker nuevo:
-   `npm run deploy`.
+El Worker configurado para esta app se llama `lingua-ai-app`. Su dominio deseado es `app.linguafly.app`, y la configuración personalizada se aplicará al desplegar.
 
-La migración de esquema desde Console no despliega nada por sí sola.
+Antes de desplegar:
+
+1. En Cloudflare DNS, comprueba que `app.linguafly.app` no tiene ya un registro DNS que entre en conflicto. Wrangler configurará este subdominio como dominio personalizado para el nuevo Worker.
+2. Desde la carpeta `apps/lingua-ai`, prepara un archivo local de secretos. No lo subas a Git:
+
+   En PowerShell, genera un secreto aleatorio y guárdalo en el archivo excluido de Git:
+
+   ```powershell
+   $secret = node -e "process.stdout.write(require('node:crypto').randomBytes(32).toString('base64url'))"
+   Set-Content -Path .worker-secrets -Value "BETTER_AUTH_SECRET=$secret" -NoNewline
+   git check-ignore .worker-secrets
+   ```
+
+   El último comando debe mostrar `.worker-secrets`. Si no lo muestra, detente y no despliegues hasta comprobar el `.gitignore`.
+3. Comprueba una vez más que `database_id` en `wrangler.jsonc` coincide con el ID de `lingua-ai-auth-db` en el panel. No lo cambies por `linguafly_db`.
+4. Compila el bundle de Cloudflare OpenNext:
+
+   ```powershell
+   npx opennextjs-cloudflare build
+   ```
+
+5. Despliega el Worker y el secreto en la misma operación:
+
+   ```powershell
+   npx wrangler deploy --secrets-file .worker-secrets
+   ```
+
+   No pegues el secreto en el chat ni en un archivo versionado. El archivo local `.worker-secrets` debe quedarse en tu ordenador.
+6. Confirma que el despliegue termina correctamente y que `app.linguafly.app` responde. En el primer despliegue, el envío de correos permanece apagado mediante `AUTH_EMAIL_ENABLED=false`.
+7. Comprueba registro/inicio de sesión y el endpoint de sesión; solo después activaremos `AUTH_EMAIL_ENABLED=true` para probar verificación y recuperación con una dirección tuya.
+
+El despliegue y la migración de esquema son operaciones distintas. La migración de D1 ya se aplicó desde Console y no hay que repetirla.
+
 
 ## Estado de la autenticación
 
