@@ -58,24 +58,27 @@ y la documentación oficial de precios en:
 
 La configuración desplegada del Worker usa `AUTH_EMAIL_ENABLED=true`, basándonos en que el panel muestra el envío Activado, DNS Configurado y en que confirmaste tener Workers Paid. En desarrollo local, el ejemplo mantiene el envío apagado. Si el envío falla en producción, revisa los logs del Worker y el Registro de actividad de Email Service; la interfaz de registro y recuperación utiliza mensajes prudentes para no afirmar que una entrega está garantizada.
 
-## Preparar la base D1 y desplegar (manual; no se ha ejecutado)
+## Aplicar la migración D1 y desplegar (manual)
 
-Antes de publicar:
+La base `lingua-ai-auth-db` ya se creó desde el panel de Cloudflare y su ID está escrito en `wrangler.jsonc`.
 
-1. Desde esta carpeta, crea una D1 nueva:
-   `npx wrangler d1 create lingua-ai-auth-db`.
-2. Copia el ID que entregue Cloudflare y sustituye el valor de ejemplo
-   `database_id` en `wrangler.jsonc`.
-3. Aplica la migración a esa base nueva, después de verificar el nombre y el ID:
+Desde esta carpeta, antes de cualquier operación remota:
+
+1. Compara el campo `database_id` de `wrangler.jsonc` con el ID que muestra el panel D1 para `lingua-ai-auth-db`. Ambos deben coincidir exactamente con la nueva base exclusiva de esta app.
+2. Inicia sesión en Cloudflare con Wrangler si aún no lo has hecho:
+   `npx wrangler login`.
+3. Aplica la migración remota a la base cuyo ID acabas de verificar:
    `npx wrangler d1 migrations apply lingua-ai-auth-db --remote`.
-4. Configura el secreto del Worker:
+4. Comprueba el estado de las migraciones:
+   `npx wrangler d1 migrations list lingua-ai-auth-db --remote`.
+5. Configura el secreto del Worker:
    `npx wrangler secret put BETTER_AUTH_SECRET`.
-   Usa un secreto aleatorio de al menos 32 caracteres; no lo guardes en Git.
-5. Comprueba que `BETTER_AUTH_URL` sea `https://app.linguafly.app`.
-6. Completa la sección de activación de correo anterior; habilita `AUTH_EMAIL_ENABLED=true` solo cuando el dominio esté verificado y hayas probado el envío.
-7. Solo después de probar registro, verificación de email, inicio de sesión, recuperación y restablecimiento, despliega con `npm run deploy`.
+   Introduce un secreto aleatorio de al menos 32 caracteres; no lo guardes en Git.
+6. Comprueba que `BETTER_AUTH_URL` sea `https://app.linguafly.app`.
+7. Publica únicamente cuando hayas revisado las comprobaciones y estés listo para habilitar el Worker nuevo:
+   `npm run deploy`.
 
-No ejecutes estos pasos remotos contra `linguafly_db`: es la base de la web pública.
+**No ejecutes la migración ni el despliegue contra `linguafly_db` ni contra `linguaflyapp1`**: pertenecen a la web pública. No uses `--remote` en ningún comando hasta verificar el ID de la nueva D1.
 
 ## Estado de la autenticación
 
