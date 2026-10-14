@@ -58,27 +58,47 @@ y la documentación oficial de precios en:
 
 La configuración desplegada del Worker usa `AUTH_EMAIL_ENABLED=true`, basándonos en que el panel muestra el envío Activado, DNS Configurado y en que confirmaste tener Workers Paid. En desarrollo local, el ejemplo mantiene el envío apagado. Si el envío falla en producción, revisa los logs del Worker y el Registro de actividad de Email Service; la interfaz de registro y recuperación utiliza mensajes prudentes para no afirmar que una entrega está garantizada.
 
-## Aplicar la migración D1 y desplegar (manual)
+## Aplicar la migración desde el panel de Cloudflare
 
-La base `lingua-ai-auth-db` ya se creó desde el panel de Cloudflare y su ID está escrito en `wrangler.jsonc`.
+La base nueva `lingua-ai-auth-db` ya fue creada en el panel; su ID está configurado en `wrangler.jsonc`.
 
-Desde esta carpeta, antes de cualquier operación remota:
+1. En Cloudflare, abre **D1 SQL Database → lingua-ai-auth-db → Console**.
+2. Ejecuta el contenido de `sql/cloudflare-console-schema.sql`. Es idempotente y crea las tablas `user`, `session`, `account`, `verification`, `profiles`, sus índices y el trigger de actualización.
+3. Comprueba con esta consulta que aparecen las tablas esenciales:
 
-1. Compara el campo `database_id` de `wrangler.jsonc` con el ID que muestra el panel D1 para `lingua-ai-auth-db`. Ambos deben coincidir exactamente con la nueva base exclusiva de esta app.
-2. Inicia sesión en Cloudflare con Wrangler si aún no lo has hecho:
-   `npx wrangler login`.
-3. Aplica la migración remota a la base cuyo ID acabas de verificar:
-   `npx wrangler d1 migrations apply lingua-ai-auth-db --remote`.
-4. Comprueba el estado de las migraciones:
-   `npx wrangler d1 migrations list lingua-ai-auth-db --remote`.
-5. Configura el secreto del Worker:
+   ```sql
+   SELECT name FROM sqlite_master
+   WHERE type IN ('table', 'trigger')
+     AND name IN ('user', 'session', 'account', 'verification', 'profiles', 'profiles_set_updated_at')
+   ORDER BY name;
+   ```
+
+   Deben aparecer las cinco tablas y el trigger.
+4. **Solo cuando el paso 3 haya terminado correctamente**, ejecuta el contenido de `sql/cloudflare-console-record-migration.sql`. Este crea/actualiza el registro `d1_migrations` para que Wrangler sepa que `0001_better_auth_and_profiles.sql` ya se aplicó desde la consola y no intente crear las tablas otra vez.
+5. Comprueba el registro:
+
+   ```sql
+   SELECT name, applied_at FROM d1_migrations
+   ORDER BY id;
+   ```
+
+   Debe aparecer `0001_better_auth_and_profiles.sql`.
+
+También se puede ver el esquema completo desde la consola con `SELECT name, sql FROM sqlite_master WHERE type IN ('table','index','trigger') ORDER BY type, name;`.
+
+**No ejecutes estos SQL contra `linguafly_db`**: es la base de la web pública. Asegúrate de que el nombre de la página sea exactamente `lingua-ai-auth-db`.
+
+## Siguientes pasos antes de publicar
+
+1. Configura el secreto del Worker desde la carpeta `apps/lingua-ai`:
    `npx wrangler secret put BETTER_AUTH_SECRET`.
    Introduce un secreto aleatorio de al menos 32 caracteres; no lo guardes en Git.
-6. Comprueba que `BETTER_AUTH_URL` sea `https://app.linguafly.app`.
-7. Publica únicamente cuando hayas revisado las comprobaciones y estés listo para habilitar el Worker nuevo:
+2. Comprueba que `BETTER_AUTH_URL` sea `https://app.linguafly.app`.
+3. Espera que pasen CI y la prueba local de correo.
+4. Publica solo cuando estés listo para habilitar el Worker nuevo:
    `npm run deploy`.
 
-**No ejecutes la migración ni el despliegue contra `linguafly_db` ni contra `linguaflyapp1`**: pertenecen a la web pública. No uses `--remote` en ningún comando hasta verificar el ID de la nueva D1.
+La migración de esquema desde Console no despliega nada por sí sola.
 
 ## Estado de la autenticación
 
