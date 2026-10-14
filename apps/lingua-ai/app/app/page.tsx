@@ -13,18 +13,11 @@ type Profile = {
 };
 
 export default async function PrivateHomePage() {
-  let session: Awaited<ReturnType<Awaited<ReturnType<typeof getAuth>>["api"]["getSession"]>>;
+  const auth = await getAuth().catch(() => null);
+  if (!auth) redirect("/login?error=config");
 
-  try {
-    const auth = await getAuth();
-    session = await auth.api.getSession({ headers: await headers() });
-  } catch {
-    redirect("/login?error=config");
-  }
-
-  if (!session?.user) {
-    redirect("/login");
-  }
+  const session = await auth.api.getSession({ headers: await headers() });
+  if (!session?.user) redirect("/login");
 
   let profile: Profile | null = null;
   let profileUnavailable = false;
