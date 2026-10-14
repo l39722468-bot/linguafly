@@ -6,14 +6,15 @@ import { getAuth } from "@/lib/auth/server";
 export const dynamic = "force-dynamic";
 
 export default async function RegisterPage() {
+  let signedIn = false;
   try {
     const auth = await getAuth();
     const session = await auth.api.getSession({ headers: await headers() });
-    if (session?.user) redirect("/app");
+    signedIn = Boolean(session?.user);
   } catch {
-    // Keep the registration page visible if local Cloudflare bindings have
-    // not been configured yet; the server action displays a safe error.
+    // Keep this page visible when local Cloudflare bindings are not ready.
   }
 
+  if (signedIn) redirect("/app");
   return <RegisterForm />;
 }
