@@ -198,7 +198,7 @@ function main() {
 
   generateArticleCanonicals();
   prune();
-  console.warn(`[cf-build] Pruned ${EXCLUDED_APP_DIRS.length} excluded route director(y/ies) for the Cloudflare build.`);
+  console.warn(`[cf-build] Pruned ${EXCLUDED_APP_DIRS.length} excluded app directories for the Cloudflare build.`);
 
   let exitCode = 1;
   try {
