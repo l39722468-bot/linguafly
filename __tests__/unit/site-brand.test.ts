@@ -6,7 +6,7 @@ describe('site-brand', () => {
   });
 
   it('publishes one contact email and no social account', () => {
-    expect(CONTACT_EMAIL).toBe('linguafly6@gmail.com');
+    expect(CONTACT_EMAIL).toBe('info@linguafly.app');
   });
 
   it('builds absolute urls from site base', () => {
