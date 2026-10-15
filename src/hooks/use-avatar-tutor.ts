@@ -55,57 +55,103 @@ export function useAvatarTutor(config: UseTutorConfig) {
     } catch { /* ignore */ }
   }, []);
 
-  const playAudioSegments = useCallback((
-    segments: { language: 'es' | 'en'; audioBase64: string }[],
+  const speakWithBrowserVoice = useCallback((
+    text: string,
+    language: 'es' | 'en',
   ): Promise<boolean> => new Promise((resolve) => {
+    if (typeof window === 'undefined' || !('speechSynthesis' in window) || !text.trim()) {
+      resolve(false);
+      return;
+    }
+
+    try {
+      window.speechSynthesis.cancel();
+      const utterance = new SpeechSynthesisUtterance(text);
+      utterance.lang = language === 'es' ? 'es-ES' : 'en-US';
+      utterance.rate = language === 'en' ? 0.88 : 0.96;
+      const voices = window.speechSynthesis.getVoices();
+      const matchingVoice = voices.find((voice) =>
+        voice.lang.toLowerCase() === utterance.lang.toLowerCase()
+      ) ?? voices.find((voice) =>
+        voice.lang.toLowerCase().startsWith(language === 'es' ? 'es' : 'en')
+      );
+      if (matchingVoice) utterance.voice = matchingVoice;
+      utterance.onend = () => resolve(true);
+      utterance.onerror = () => resolve(false);
+      window.speechSynthesis.speak(utterance);
+    } catch {
+      resolve(false);
+    }
+  }), []);
+
+  const playAudioSegments = useCallback((
+    segments: { language: 'es' | 'en'; text: string; audioBase64: string }[],
+  ): Promise<{ played: number; failed: boolean }> => new Promise((resolve) => {
     if (audioRef.current) audioRef.current.pause();
-    const playable = segments.filter((segment) => segment.audioBase64);
+    const playable = segments.filter((segment) => segment.audioBase64 || segment.text);
     if (playable.length === 0) {
       setOrbState('idle');
-      resolve(false);
+      resolve({ played: 0, failed: true });
       return;
     }
 
     let index = 0;
     let played = 0;
-    let playbackFailed = false;
+    let failed = false;
     setOrbState('speaking');
 
     const playNext = () => {
       if (index >= playable.length) {
         setOrbState('idle');
-        resolve(played > 0 && !playbackFailed);
+        resolve({ played, failed });
         return;
       }
 
       const segment = playable[index++];
-      const audio = new Audio(`data:audio/mpeg;base64,${segment.audioBase64}`);
-      let advanced = false;
-      const advance = () => {
-        // Both the media error event and play() rejection may fire for the same
-        // failure. Advance exactly once so the English phrase is never skipped.
-        if (advanced) return;
-        advanced = true;
+      let objectUrl: string | null = null;
+      let finished = false;
+      let fallbackStarted = false;
+      const cleanup = () => {
+        if (objectUrl) URL.revokeObjectURL(objectUrl);
+        if (audioRef.current?.src === objectUrl) audioRef.current = null;
+      };
+      const finish = (success: boolean) => {
+        if (finished) return;
+        finished = true;
+        cleanup();
+        if (success) played += 1;
+        else failed = true;
         playNext();
       };
-      audio.preload = 'auto';
-      audioRef.current = audio;
-      audio.onended = () => {
-        played += 1;
-        advance();
+      const tryBrowserVoice = async () => {
+        if (fallbackStarted || finished) return;
+        fallbackStarted = true;
+        const success = await speakWithBrowserVoice(segment.text, segment.language);
+        finish(success);
       };
-      audio.onerror = () => {
-        playbackFailed = true;
-        advance();
-      };
-      audio.play().catch(() => {
-        playbackFailed = true;
-        advance();
-      });
+
+      try {
+        // Blob URLs are more reliable than large data: URIs for MP3 playback
+        // and make it possible to release the decoded audio after each segment.
+        const binary = atob(segment.audioBase64);
+        const bytes = new Uint8Array(binary.length);
+        for (let byteIndex = 0; byteIndex < binary.length; byteIndex += 1) {
+          bytes[byteIndex] = binary.charCodeAt(byteIndex);
+        }
+        objectUrl = URL.createObjectURL(new Blob([bytes], { type: 'audio/mpeg' }));
+        const audio = new Audio(objectUrl);
+        audio.preload = 'auto';
+        audioRef.current = audio;
+        audio.onended = () => finish(true);
+        audio.onerror = () => { void tryBrowserVoice(); };
+        audio.play().catch(() => { void tryBrowserVoice(); });
+      } catch {
+        void tryBrowserVoice();
+      }
     };
 
     playNext();
-  }), []);
+  }), [speakWithBrowserVoice]);
 
   const requestTutorSpeech = useCallback(async (
     spokenSpanish: string,
@@ -136,20 +182,27 @@ export function useAvatarTutor(config: UseTutorConfig) {
       }
 
       const segments = Array.isArray(data.segments)
-        ? data.segments.filter((segment): segment is { language: 'es' | 'en'; audioBase64: string } =>
+        ? data.segments.filter((segment): segment is { language: 'es' | 'en'; text: string; audioBase64: string } =>
             Boolean(segment && typeof segment === 'object' &&
               ((segment as Record<string, unknown>).language === 'es' || (segment as Record<string, unknown>).language === 'en') &&
-              typeof (segment as Record<string, unknown>).audioBase64 === 'string' &&
-              (segment as Record<string, unknown>).audioBase64)
-          )
+              typeof (segment as Record<string, unknown>).text === 'string' &&
+              (typeof (segment as Record<string, unknown>).audioBase64 === 'string' ||
+                typeof (segment as Record<string, unknown>).text === 'string'))
+          ).map((segment) => ({
+            language: segment.language,
+            text: segment.text,
+            audioBase64: typeof segment.audioBase64 === 'string' ? segment.audioBase64 : '',
+          }))
         : [];
       if (segments.length === 0) {
         throw new Error('No se ha generado audio. Puedes leer la respuesta y volver a intentarlo.');
       }
 
-      const played = await playAudioSegments(segments);
-      if (!played) {
-        setError('La respuesta está escrita, pero el navegador no ha podido reproducir el audio. Comprueba el volumen e inténtalo de nuevo.');
+      const playback = await playAudioSegments(segments);
+      if (playback.played === 0) {
+        setError('No se ha podido reproducir el audio. Prueba de nuevo o habilita el sonido del navegador.');
+      } else if (playback.failed) {
+        setError('Se ha reproducido parte del audio; otra parte no ha podido sonar en este navegador.');
       } else if (data.partial === true) {
         const failed = Array.isArray(data.failedLanguages) ? data.failedLanguages : [];
         setError(failed.includes('en')
