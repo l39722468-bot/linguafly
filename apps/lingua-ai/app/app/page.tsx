@@ -222,6 +222,25 @@ export default async function PrivateHomePage() {
 
           <section className="mt-8 rounded-2xl border border-stone-200 bg-white p-6 sm:p-8">
             <p className="text-sm font-medium uppercase tracking-wide text-stone-500">
+              Habla en inglés
+            </p>
+            <h2 className="mt-2 text-xl font-semibold tracking-tight">
+              Conversa con tu tutor IA
+            </h2>
+            <p className="mt-2 text-sm leading-6 text-stone-600">
+              Practica conversaciones por voz en tiempo real. El tutor se adapta a tu nivel,
+              interpreta el escenario y te ofrece correcciones útiles mientras habláis.
+            </p>
+            <Link
+              href="/app/conversacion"
+              className="mt-5 inline-flex w-full items-center justify-center rounded-lg bg-stone-900 px-5 py-3 text-base font-medium text-white hover:bg-stone-800 sm:w-auto"
+            >
+              Empezar a conversar
+            </Link>
+          </section>
+
+          <section className="mt-8 rounded-2xl border border-stone-200 bg-white p-6 sm:p-8">
+            <p className="text-sm font-medium uppercase tracking-wide text-stone-500">
               Tu progreso
             </p>
             <h2 className="mt-2 text-xl font-semibold tracking-tight">
