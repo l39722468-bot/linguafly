@@ -130,6 +130,21 @@ Wrangler pedirá la clave de forma interactiva. Usa una clave de OpenAI con acce
 
 Para desarrollo local, copia `.dev.vars.example` a `.dev.vars` y pon la clave solo en el archivo local ignorado por Git. Nunca subas la clave a GitHub. No se necesita una migración D1 nueva para iniciar una conversación; las sesiones de voz y la transcripción en pantalla no se guardan aún en el historial de prácticas.
 
+## Metodología educativa de conversación
+
+El tutor no intenta comportarse como un chatbot generalista: sus instrucciones de sesión establecen una metodología explícita de enseñanza de idiomas.
+
+- **Input comprensible por nivel CEFR:** vocabulario, longitud de frase y ritmo ajustados al alumno.
+- **Enfoque comunicativo y tareas reales:** role-play de conversación libre, restaurante, viaje y entrevista; el alumno tiene que resolver algo hablando.
+- **Práctica de escucha primero:** el modo «Escucha y responde» presenta un mensaje breve de audio y una sola pregunta de comprensión. La transcripción del tutor permanece oculta al empezar, para que la lectura no sustituya a la escucha; el alumno puede mostrarla cuando lo necesite.
+- **Producción activa y tiempo de espera:** el tutor hace una pregunta cada vez y deja espacio para que el alumno formule su respuesta, en vez de resolverla por él.
+- **Corrección selectiva y amable (recast):** responde primero al significado, ofrece un modelo más natural y explica como máximo un punto importante en el idioma de explicación del perfil.
+- **Reciclaje y recuperación activa:** reutiliza frases útiles más adelante e invita al alumno a decir algo parecido en una nueva situación.
+
+Esta es una estrategia de prompting pedagógico; no significa que se haya reentrenado el modelo base. Las transcripciones de esta conversación no se persisten todavía, y no se muestran puntuaciones de pronunciación sin una evaluación fiable.
+
+La conversación utiliza la API Realtime de OpenAI y puede generar costes de uso. El secreto `OPENAI_API_KEY` se configura solo en el Worker privado descrito más abajo.
+
 ## Preparar y desplegar el Worker
 
 El Worker configurado para esta app se llama `lingua-ai-app`. Su dominio deseado es `app.linguafly.app`, y la configuración personalizada se aplicará al desplegar.
