@@ -3,60 +3,53 @@ import { enforceAIRateLimit, synthesizeWorkersAIAudioBase64 } from '@/lib/ai/wor
 
 export const maxDuration = 30;
 
-const GREETINGS: Record<string, Record<string, string>> = {
-  emma: {
-    general: "Hi there! I'm Emma, your English tutor. I'm so glad you're here to practice today! What would you like to talk about?",
-    business: "Welcome! I'm Emma. Today we're going to work on your professional English. Are you ready to get started? Tell me a little about your job.",
-    travel: "Hello! I'm Emma. Let's practice your travel English today. Imagine you've just arrived at a new city — what's the first thing you'd do?",
-    social: "Hey! I'm Emma. We're going to have a natural conversation in English today. Don't worry about mistakes — just speak! So, how has your day been?",
-  },
-  james: {
-    general: "Hey! I'm James. Brilliant that you're here to practice your English. Honestly, the best way to learn is just to chat, so let's dive right in! What's on your mind?",
-    business: "Hello! I'm James. Right, today we're focusing on professional English. Tell me, what sort of work do you do? Let's start there.",
-    travel: "Alright! I'm James. We're going to chat about travel and getting around in English-speaking countries. Have you been anywhere exciting recently?",
-    social: "Hey there! James here. Today we're just going to have a good old chat in English. No pressure at all. So, tell me — what do you get up to at weekends?",
-  },
-  sofia: {
-    general: "Good day! I'm Sofia. I'm here to help you develop structured, confident English. Let's begin with a brief introduction. Could you tell me something about yourself?",
-    business: "Hello! I'm Sofia. Today we'll focus on professional communication skills. Let's start with a classic: Can you give me a brief summary of your professional background?",
-    travel: "Welcome! I'm Sofia. We'll be practising the language you need for international travel. Let's begin. Describe your ideal holiday destination and why you'd choose it.",
-    social: "Hello! I'm Sofia. Today we're working on conversational fluency. Let's begin with something simple: describe a typical day in your life in English.",
-  },
-  carlos: {
-    general: "What's up! I'm Carlos, your English tutor! Get ready because we're going to have an amazing session today. Let's jump in — tell me something interesting about yourself!",
-    business: "Hey, hey! I'm Carlos! Alright, today we're levelling up your professional English. Let's kick things off — what's your dream job and why? Go for it!",
-    travel: "¡Hola! Wait — we're in English mode! I'm Carlos. Today we're all about travel vocabulary. Quick question: where in the world would you go if you could go anywhere tomorrow?",
-    social: "Yo! I'm Carlos, your English buddy for today! We're going to have a great conversation. No stress, just fun. So — what's the best thing that happened to you this week?",
-  },
+const GREETINGS: Record<string, string> = {
+  emma: "Hi there! I'm Emma, your English tutor. Before we begin, what would you like to practise: travel, work, everyday conversation, grammar, vocabulary or exams? And what is your English level, from A1 to C2? If you're not sure, just tell me and I'll help you choose.",
+  james: "Hello, I'm James. Let's make your English practice useful for you. What would you like to work on: travel, work, everyday conversation, grammar, vocabulary or exams? And what level are you, A1 to C2? It's fine if you don't know yet.",
+  sofia: "Hello, I'm Sofia. First, let's personalise your lesson. Which topic interests you: travel, work, everyday conversation, grammar, vocabulary or exam preparation? And what is your English level, from A1 to C2? If you are unsure, I can help you find a good starting point.",
+  carlos: "Hey! I'm Carlos, your English buddy. Before we jump in, what sounds fun to practise: travel, work, everyday chat, grammar, vocabulary or exams? And what's your level, A1 to C2? Don't worry if you don't know—I'll help you figure it out!",
 };
 
 export async function POST(request: NextRequest) {
   const rateLimitResponse = await enforceAIRateLimit(request, 'tutor-avatar-greet');
   if (rateLimitResponse) return rateLimitResponse;
+
   try {
     const payload: unknown = await request.json();
     if (!payload || typeof payload !== 'object' || Array.isArray(payload)) {
       return NextResponse.json({ error: 'Invalid request body' }, { status: 400 });
     }
+
     const body = payload as Record<string, unknown>;
-    const tutorId = typeof body.tutorId === 'string' ? body.tutorId.slice(0, 40) : 'emma';
+    const tutorId = typeof body.tutorId === 'string' && Object.prototype.hasOwnProperty.call(GREETINGS, body.tutorId)
+      ? body.tutorId
+      : 'emma';
     const tutorGender = body.tutorGender === 'male' ? 'male' : 'female';
-    const topic = typeof body.topic === 'string' ? body.topic.slice(0, 40) : 'general';
+    const greeting = GREETINGS[tutorId];
 
-    const greetingMap = GREETINGS[tutorId] || GREETINGS.emma;
-    const greeting = greetingMap[topic] || greetingMap.general;
+    let audioBase64 = '';
+    let audioUnavailable = false;
+    try {
+      audioBase64 = await synthesizeWorkersAIAudioBase64(
+        greeting,
+        tutorGender === 'female' ? 'luna' : 'orion',
+      );
+    } catch (error: unknown) {
+      audioUnavailable = true;
+      console.error(
+        'Tutor greeting audio failed:',
+        error instanceof Error ? `${error.name}: ${error.message.slice(0, 180)}` : 'UnknownError',
+      );
+    }
 
-    const audioBase64 = await synthesizeWorkersAIAudioBase64(
-      greeting,
-      tutorGender === 'female' ? 'luna' : 'orion',
-    );
-
-    return NextResponse.json({ greeting, audioBase64 });
+    // A TTS outage should not prevent the learner from seeing the welcome
+    // and starting a session; the tutor can continue in text if needed.
+    return NextResponse.json({ greeting, audioBase64, audioUnavailable });
   } catch (error: unknown) {
     console.error(
-      'Tutor greeting failed:',
-      error instanceof Error ? error.name : 'UnknownError',
+      'Tutor greeting request failed:',
+      error instanceof Error ? `${error.name}: ${error.message.slice(0, 180)}` : 'UnknownError',
     );
-    return NextResponse.json({ error: 'The tutor is temporarily unavailable.' }, { status: 502 });
+    return NextResponse.json({ error: 'Could not start the tutor. Please try again.' }, { status: 502 });
   }
 }

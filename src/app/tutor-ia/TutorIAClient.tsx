@@ -54,19 +54,12 @@ const TUTORS = [
   },
 ];
 
-const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1'];
-const TOPICS = [
-  { id: 'general', label: '💬 Conversación libre' },
-  { id: 'business', label: '💼 Business English' },
-  { id: 'travel', label: '✈️ Viajes y turismo' },
-  { id: 'social', label: '🤝 Vida cotidiana' },
-];
-
 export default function TutorIAClient() {
   const [step, setStep] = useState<'setup' | 'session'>('setup');
   const [selectedTutor, setSelectedTutor] = useState(TUTORS[0]);
-  const [selectedLevel, setSelectedLevel] = useState('B1');
-  const [selectedTopic, setSelectedTopic] = useState('general');
+  // B1/general are only safe internal fallbacks; the tutor asks and detects the learner's preferences.
+  const [detectedLevel, setDetectedLevel] = useState<string | null>(null);
+  const [detectedTopic, setDetectedTopic] = useState<string | null>(null);
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const imageInputRef = useRef<HTMLInputElement>(null);
 
@@ -74,6 +67,7 @@ export default function TutorIAClient() {
     orbState,
     messages,
     feedback,
+    sources,
     error,
     isActive,
     pendingImage,
@@ -86,8 +80,12 @@ export default function TutorIAClient() {
   } = useAvatarTutor({
     tutorId: selectedTutor.id,
     tutorGender: selectedTutor.gender,
-    level: selectedLevel,
-    topic: selectedTopic,
+    level: detectedLevel ?? 'B1',
+    topic: detectedTopic ?? 'general',
+    onPreferencesDetected: (preferences) => {
+      if (preferences.level) setDetectedLevel(preferences.level);
+      if (preferences.topic) setDetectedTopic(preferences.topic);
+    },
   });
 
   useEffect(() => {
@@ -102,6 +100,8 @@ export default function TutorIAClient() {
       ctx.close();
     } catch { /* ignore */ }
 
+    setDetectedLevel(null);
+    setDetectedTopic(null);
     setStep('session');
     await start();
   };
@@ -157,43 +157,13 @@ export default function TutorIAClient() {
                 </div>
               </div>
 
-              <div>
-                <h2 className="text-white font-black text-xl mb-4">Tu nivel</h2>
-                <div className="flex gap-2 flex-wrap">
-                  {LEVELS.map((l) => (
-                    <button
-                      key={l}
-                      onClick={() => setSelectedLevel(l)}
-                      className={`px-5 py-2 rounded-xl font-black text-sm transition-all ${
-                        selectedLevel === l
-                          ? 'bg-white text-slate-900'
-                          : 'bg-white/10 text-white hover:bg-white/20'
-                      }`}
-                    >
-                      {l}
-                    </button>
-                  ))}
-                </div>
+              <div className="rounded-2xl border border-white/10 bg-white/5 p-5">
+                <p className="text-white font-bold mb-2">Tu clase, a tu medida</p>
+                <p className="text-slate-400 text-sm leading-relaxed">
+                  Al comenzar, {selectedTutor.name} te preguntará qué quieres practicar y cuál es tu nivel. Si no lo sabes, te ayudará a elegir un punto de partida.
+                </p>
               </div>
 
-              <div>
-                <h2 className="text-white font-black text-xl mb-4">Tema</h2>
-                <div className="space-y-2">
-                  {TOPICS.map((topic) => (
-                    <button
-                      key={topic.id}
-                      onClick={() => setSelectedTopic(topic.id)}
-                      className={`w-full text-left px-5 py-3 rounded-xl font-semibold text-sm transition-all ${
-                        selectedTopic === topic.id
-                          ? 'bg-white text-slate-900'
-                          : 'bg-white/10 text-white hover:bg-white/20'
-                      }`}
-                    >
-                      {topic.label}
-                    </button>
-                  ))}
-                </div>
-              </div>
             </div>
 
             <div className="flex flex-col items-center gap-8">
@@ -205,7 +175,7 @@ export default function TutorIAClient() {
               <div className="text-center">
                 <p className="text-white font-black text-2xl">{selectedTutor.name}</p>
                 <p className="text-slate-400 mt-1">{selectedTutor.description}</p>
-                <p className="text-slate-500 text-sm mt-1">Nivel {selectedLevel} · {TOPICS.find(t => t.id === selectedTopic)?.label}</p>
+                <p className="text-slate-500 text-sm mt-1">El tutor personalizará la clase durante la conversación</p>
               </div>
               <button
                 onClick={handleStart}
@@ -229,7 +199,20 @@ export default function TutorIAClient() {
 
               <div className="text-center">
                 <p className="text-white font-black text-xl">{selectedTutor.name}</p>
-                <p className="text-slate-400 text-sm">{selectedTutor.specialty} · {selectedLevel}</p>
+                <p className="text-slate-400 text-sm">{selectedTutor.specialty}</p>
+                <p className="text-slate-500 text-xs mt-1">
+                  {detectedTopic ? `Tema: ${({
+                    general: 'conversación libre',
+                    social: 'vida cotidiana',
+                    travel: 'viajes',
+                    business: 'trabajo',
+                    grammar: 'gramática',
+                    exams: 'exámenes',
+                    vocabulary: 'vocabulario',
+                  } as Record<string, string>)[detectedTopic] ?? detectedTopic}` : 'Tema por determinar'}
+                  {' · '}
+                  {detectedLevel ? `Nivel ${detectedLevel}` : 'nivel por determinar'}
+                </p>
               </div>
 
               {error && (
@@ -347,6 +330,28 @@ export default function TutorIAClient() {
                   <div ref={messagesEndRef} />
                 </div>
               </div>
+
+              {sources.length > 0 && (
+                <div className="bg-slate-900/70 border border-cyan-500/20 rounded-2xl p-5">
+                  <p className="text-cyan-300 font-black text-xs uppercase tracking-widest mb-3">
+                    Guías de LinguaFly para esta conversación
+                  </p>
+                  <div className="space-y-2">
+                    {sources.map((source) => (
+                      <a
+                        key={source.url}
+                        href={source.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="flex items-start justify-between gap-3 rounded-xl bg-white/5 hover:bg-white/10 px-4 py-3 transition-colors"
+                      >
+                        <span className="text-sm text-slate-200 font-semibold">{source.title}</span>
+                        <span className="text-xs text-cyan-400 shrink-0">Leer guía ↗</span>
+                      </a>
+                    ))}
+                  </div>
+                </div>
+              )}
 
               {feedback && (
                 <div className="bg-amber-900/30 border border-amber-500/30 rounded-2xl p-5">
