@@ -68,7 +68,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
       window.speechSynthesis.cancel();
       const utterance = new SpeechSynthesisUtterance(text);
       utterance.lang = language === 'es' ? 'es-ES' : 'en-US';
-      utterance.rate = language === 'en' ? 0.88 : 0.96;
+      utterance.rate = language === 'en' ? 0.70 : 0.88;
       const voices = window.speechSynthesis.getVoices();
       const matchingVoice = voices.find((voice) =>
         voice.lang.toLowerCase() === utterance.lang.toLowerCase()
@@ -121,7 +121,18 @@ export function useAvatarTutor(config: UseTutorConfig) {
         cleanup();
         if (success) played += 1;
         else failed = true;
-        playNext();
+
+        // Leave a perceptible pause between the Spanish explanation and the
+        // English model phrase so learners can switch attention and repeat.
+        const nextSegment = playable[index];
+        const pauseMs = segment.language === 'es' && nextSegment?.language === 'en'
+          ? 650
+          : 320;
+        if (index < playable.length) {
+          window.setTimeout(playNext, pauseMs);
+        } else {
+          playNext();
+        }
       };
       const tryBrowserVoice = async () => {
         if (fallbackStarted || finished) return;
@@ -146,6 +157,9 @@ export function useAvatarTutor(config: UseTutorConfig) {
         objectUrl = URL.createObjectURL(new Blob([bytes], { type: 'audio/mpeg' }));
         const audio = new Audio(objectUrl);
         audio.preload = 'auto';
+        // Slow the generated voice without making English and Spanish equally slow.
+        // English model phrases are intentionally slower for pronunciation practice.
+        audio.playbackRate = segment.language === 'en' ? 0.78 : 0.88;
         audioRef.current = audio;
         audio.onended = () => finish(true);
         audio.onerror = () => { void tryBrowserVoice(); };
