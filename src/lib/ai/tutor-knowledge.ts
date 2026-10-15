@@ -29,6 +29,11 @@ const TOPIC_SEARCH_TERMS: Record<string, string> = {
   vocabulary: "vocabulary words phrases expressions meaning",
 };
 
+const HOT_CACHE_TTL_MS = 10 * 60 * 1000;
+const MAX_HOT_CACHE_ENTRIES = 128;
+const PERSONAL_QUERY = /\\b(?:my name|my address|my phone|my email|my password|mi nombre|mi direcci[oó]n|mi tel[eé]fono|mi correo|mi contrase[nñ]a|i live at|vivo en la calle)\\b/i;
+const knowledgeHotCache = new Map<string, { expiresAt: number; articles: TutorKnowledgeArticle[] }>();
+
 const STOP_WORDS = new Set([
   "the", "and", "for", "are", "you", "your", "with", "what", "want", "would",
   "like", "practice", "practise", "please", "about", "have", "from", "that",
@@ -65,9 +70,48 @@ function stripMarkup(value: string): string {
 }
 
 /**
- * Small, bounded retrieval over the existing D1 full-text index. The blog
- * remains the source of truth; no separate training or article copy is needed.
+ * Every published article is already stored in D1 and indexed by articles_fts,
+ * including its full text. This isolate-local hot cache avoids repeating the
+ * same FTS query for common, non-personal topics without duplicating the blog
+ * corpus or persisting learners' question text.
  */
+async function makeHotCacheKey(terms: string[], topic: string, limit: number): Promise<string> {
+  const identity = `tutor-knowledge-v1\\u001f${topic}\\u001f${limit}\\u001f${terms.join(" ")}`;
+  const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(identity));
+  return Array.from(new Uint8Array(digest), (byte) => byte.toString(16).padStart(2, "0")).join("");
+}
+
+function cloneArticles(articles: TutorKnowledgeArticle[]): TutorKnowledgeArticle[] {
+  return articles.map((article) => ({ ...article }));
+}
+
+function getHotCachedArticles(key: string): TutorKnowledgeArticle[] | null {
+  const entry = knowledgeHotCache.get(key);
+  if (!entry) return null;
+  if (entry.expiresAt <= Date.now()) {
+    knowledgeHotCache.delete(key);
+    return null;
+  }
+  // Refresh insertion order so frequently used entries survive the bounded LRU.
+  knowledgeHotCache.delete(key);
+  knowledgeHotCache.set(key, entry);
+  return cloneArticles(entry.articles);
+}
+
+function setHotCachedArticles(key: string, articles: TutorKnowledgeArticle[]): void {
+  if (articles.length === 0) return;
+  knowledgeHotCache.delete(key);
+  knowledgeHotCache.set(key, { expiresAt: Date.now() + HOT_CACHE_TTL_MS, articles: cloneArticles(articles) });
+  while (knowledgeHotCache.size > MAX_HOT_CACHE_ENTRIES) {
+    const oldestKey = knowledgeHotCache.keys().next().value;
+    if (typeof oldestKey !== "string") break;
+    knowledgeHotCache.delete(oldestKey);
+  }
+}
+
+export function clearTutorKnowledgeHotCacheForTests(): void {
+  knowledgeHotCache.clear();
+}
 export async function searchTutorKnowledge(
   query: string,
   topic: string,
@@ -78,13 +122,24 @@ export async function searchTutorKnowledge(
   if (terms.length === 0) return [];
 
   const ftsQuery = terms.map((term) => `"${term.replace(/"/g, "")}"`).join(" OR ");
+  const safeLimit = Math.max(1, Math.min(limit, 4));
+  const safeToCache = query.length <= 180 && !PERSONAL_QUERY.test(query) && !/@|\\b\\d{7,}\\b/.test(query);
+  let hotCacheKey: string | null = null;
+
+  if (safeToCache) {
+    try {
+      hotCacheKey = await makeHotCacheKey(terms, topic, safeLimit);
+      const cached = getHotCachedArticles(hotCacheKey);
+      if (cached) return cached;
+    } catch {
+      // Hashing/cache is an optional optimisation; the indexed D1 search remains available.
+    }
+  }
 
   try {
     const cloudflare = await getCloudflareContext({ async: true });
     const env = cloudflare.env as unknown as TutorSearchEnv;
     if (!env.DB) return [];
-
-    const safeLimit = Math.max(1, Math.min(limit, 4));
     const result = await env.DB.prepare(`
       SELECT
         a.title AS title,
@@ -112,7 +167,7 @@ export async function searchTutorKnowledge(
       LIMIT ?
     `).bind(ftsQuery, safeLimit).all();
 
-    return (result.results ?? [])
+    const articles = (result.results ?? [])
       .filter((row): row is Record<string, unknown> => Boolean(row && typeof row === "object"))
       .map((row) => {
         const slug = typeof row.slug === "string" ? row.slug : "";
@@ -134,6 +189,9 @@ export async function searchTutorKnowledge(
         };
       })
       .filter((article) => article.title && article.excerpt);
+
+    if (safeToCache && hotCacheKey) setHotCachedArticles(hotCacheKey, articles);
+    return articles;
   } catch (error: unknown) {
     // Retrieval is best effort: a temporary D1/FTS issue must not block practice.
     console.error(
