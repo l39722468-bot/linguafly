@@ -43,6 +43,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
   const [pendingImage, setPendingImage] = useState<string | null>(null);
 
   const mediaRecorderRef = useRef<MediaRecorder | null>(null);
+  const recorderStartingRef = useRef(false);
   const audioChunksRef = useRef<Blob[]>([]);
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const historyRef = useRef<{ role: string; content: string }[]>([]);
@@ -293,12 +294,16 @@ export function useAvatarTutor(config: UseTutorConfig) {
   }, [config, requestTutorSpeech]);
 
   const startListening = useCallback(async () => {
-    if (orbState !== 'idle') return;
+    if (orbState !== 'idle' || recorderStartingRef.current) return;
+    recorderStartingRef.current = true;
     setError(null);
+    // Lock the control while microphone permission/device startup is pending.
+    setOrbState('thinking');
     await unlockAudio();
 
+    let stream: MediaStream | null = null;
     try {
-      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      stream = await navigator.mediaDevices.getUserMedia({ audio: true });
       const mediaRecorder = new MediaRecorder(stream);
       mediaRecorderRef.current = mediaRecorder;
       audioChunksRef.current = [];
@@ -346,7 +351,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
           }
 
           if (data.noSpeechDetected === true) {
-            setError('No te escuché. Mantén pulsado el micrófono mientras hablas e inténtalo de nuevo.');
+            setError('No te escuché. Pulsa el micrófono para hablar y vuelve a pulsarlo para enviar.');
             setOrbState('idle');
             return;
           }
@@ -402,18 +407,23 @@ export function useAvatarTutor(config: UseTutorConfig) {
       };
 
       mediaRecorder.start();
+      recorderStartingRef.current = false;
       setOrbState('listening');
-    } catch (e: any) {
+    } catch {
+      stream?.getTracks().forEach((track) => track.stop());
+      recorderStartingRef.current = false;
       setError('No se pudo acceder al micrófono. Revisa los permisos.');
       setOrbState('idle');
     }
-  }, [orbState, config, requestTutorSpeech]);
+  }, [orbState, config, requestTutorSpeech, unlockAudio]);
 
   const stopListening = useCallback(() => {
-    if (mediaRecorderRef.current && orbState === 'listening') {
-      mediaRecorderRef.current.stop();
+    const recorder = mediaRecorderRef.current;
+    if (recorder && recorder.state === 'recording') {
+      setOrbState('thinking');
+      recorder.stop();
     }
-  }, [orbState]);
+  }, []);
 
   const stop = useCallback(() => {
     if (audioRef.current) audioRef.current.pause();
