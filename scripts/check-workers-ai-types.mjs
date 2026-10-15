@@ -52,8 +52,9 @@ if (parsed.errors.length) {
   process.exit(2);
 }
 
+const nextEnvFile = path.join(REPO_ROOT, "next-env.d.ts");
 const rootNames = [
-  path.join(REPO_ROOT, "next-env.d.ts"),
+  ...(ts.sys.fileExists(nextEnvFile) ? [nextEnvFile] : []),
   ...MIGRATION_FILES.map((file) => path.join(REPO_ROOT, file)),
 ];
 const options = { ...parsed.options, noEmit: true, incremental: false, composite: false };
