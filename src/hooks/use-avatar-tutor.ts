@@ -67,11 +67,13 @@ export function useAvatarTutor(config: UseTutorConfig) {
     try {
       window.speechSynthesis.cancel();
       const utterance = new SpeechSynthesisUtterance(text);
-      utterance.lang = language === 'es' ? 'es-ES' : 'en-US';
+      utterance.lang = language === 'es' ? 'es-ES' : 'en-GB';
       utterance.rate = language === 'en' ? 0.70 : 0.88;
       const voices = window.speechSynthesis.getVoices();
       const matchingVoice = voices.find((voice) =>
         voice.lang.toLowerCase() === utterance.lang.toLowerCase()
+      ) ?? voices.find((voice) =>
+        voice.lang.toLowerCase().startsWith(language === 'es' ? 'es-ES' : 'en-GB')
       ) ?? voices.find((voice) =>
         voice.lang.toLowerCase().startsWith(language === 'es' ? 'es' : 'en')
       );
