@@ -2,7 +2,7 @@
 
 ## Objetivo y alcance
 
-- `POST /api/tutor-avatar/greet` y `POST /api/tutor-avatar/turn` usan el binding `AI` para TTS, Whisper y chat; comparten limitación de solicitudes y no necesitan tokens REST en runtime.
+Esta migración cambia los flujos interactivos de tutoría y voz para ejecutarse con Cloudflare Workers AI. El Worker público incluye `/tutor-ia` y sus endpoints de voz, además de la experiencia de artículos; no modifica las tablas de D1/Supabase.
 
 La implementación de voz de esta fase es **por turnos**, no una conversación de audio full-duplex en streaming: el navegador detecta una pausa, envía la grabación a Whisper, genera la respuesta con GLM y sintetiza la voz con Aura. Esto evita depender de OpenAI Realtime, pero añade la latencia de tres solicitudes consecutivas. Se debe medir antes de anunciarlo como «tiempo real».
 
@@ -26,7 +26,7 @@ El adaptador común está en \`src/lib/ai/workers-ai.ts\`. Mantiene un único pu
 - \`POST /api/translate\` y \`POST /api/course/explain\`.
 - \`POST /api/roleplay-chat\`.
 - \`GET/POST /api/generate-audio\`.
-- \`POST /api/tutor-avatar/greet\` y \`POST /api/tutor-avatar/turn\` ahora comparten la limitación de solicitudes.
+- `POST /api/tutor-avatar/greet` y `POST /api/tutor-avatar/turn` usan el binding `AI` para TTS, Whisper y chat; comparten limitación de solicitudes y no necesitan tokens REST en runtime.
 - \`POST /api/ai-tutor/session\` devuelve HTTP 410: es el endpoint antiguo que creaba sesiones de OpenAI Realtime. El hook cliente se sustituyó por captura por turnos.
 
 ## Bindings de Cloudflare
