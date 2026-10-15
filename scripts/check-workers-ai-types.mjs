@@ -7,6 +7,7 @@ import process from "node:process";
 const MIGRATION_FILES = [
   "__tests__/unit/workers-ai.test.ts",
   "__tests__/unit/tutor-preferences.test.ts",
+  "__tests__/unit/tutor-knowledge.test.ts",
   "src/app/api/ai-lab/chat/route.ts",
   "src/app/api/ai-lab/evaluate/route.ts",
   "src/app/api/ai-lab/stt/route.ts",
