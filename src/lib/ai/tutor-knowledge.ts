@@ -118,7 +118,7 @@ export async function searchTutorKnowledge(
         const slug = typeof row.slug === "string" ? row.slug : "";
         const category = typeof row.category === "string" ? row.category : "idiomas";
         const rawCanonical = typeof row.canonical === "string" ? row.canonical.trim() : "";
-        const url = rawCanonical.startsWith("https://")
+        const url = rawCanonical.startsWith("https://linguafly.app/")
           ? rawCanonical
           : rawCanonical.startsWith("/")
             ? `https://linguafly.app${rawCanonical}`
