@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useActionState } from "react";
+import { useEffect, useState, useActionState } from "react";
 import { saveLearningProfile } from "@/lib/profile/actions";
 import { SubmitButton } from "@/components/auth/submit-button";
 
@@ -38,15 +38,19 @@ export function LearningProfileForm({
   initialLearningGoal,
 }: LearningProfileFormProps) {
   const [state, action] = useActionState(saveLearningProfile, null);
-
-  // Keep the form values in React state. Uncontrolled fields can reset to
-  // their original defaultValue after a Server Action, making a newly saved
-  // level (for example C1) appear to revert to the initial level (for example B1).
   const [cefrLevel, setCefrLevel] = useState(initialCefrLevel ?? "");
   const [explanationLanguage, setExplanationLanguage] = useState(
     initialExplanationLanguage,
   );
   const [learningGoal, setLearningGoal] = useState(initialLearningGoal ?? "");
+
+  // Align the visible fields with the values that the server has read back from D1.
+  useEffect(() => {
+    if (state?.status !== "success") return;
+    setCefrLevel(state.profile.cefrLevel ?? "");
+    setExplanationLanguage(state.profile.explanationLanguage);
+    setLearningGoal(state.profile.learningGoal ?? "");
+  }, [state]);
 
   return (
     <section className="mt-10 rounded-2xl border border-stone-200 bg-white p-6 sm:p-8">
