@@ -208,6 +208,11 @@ export async function POST(request: Request) {
     return jsonError("Tu sesión ha caducado. Inicia sesión de nuevo.", 401);
   }
 
+  const declaredLength = Number(request.headers.get("content-length") ?? "0");
+  if (Number.isFinite(declaredLength) && declaredLength > 6 * 1024 * 1024) {
+    return jsonError("La petición de audio supera el límite permitido de 6 MB.", 413);
+  }
+
   let form: FormData;
   try {
     form = await request.formData();
