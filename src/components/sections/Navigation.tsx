@@ -26,7 +26,7 @@ export function Navigation() {
             </span>
           </Link>
 
-          <div className="hidden items-center gap-6 md:flex">
+          <div className="hidden items-center gap-5 md:flex">
             <Link href="/" className={linkClass}>Inicio</Link>
             <Link href="/blog/actualidad" className={linkClass}>Actualidad</Link>
             {NAV_VERTICALS.map((vertical) => (
@@ -34,8 +34,12 @@ export function Navigation() {
                 {vertical.name}
               </Link>
             ))}
-            <Link href="/blog" className="rounded-full bg-gradient-to-r from-coral-500 to-peach-500 px-4 py-2 text-xs font-black text-white hover:opacity-90">
-              Artículos
+            <Link href="/blog" className={linkClass}>Artículos</Link>
+            <Link
+              href="/colaborar"
+              className="rounded-full bg-gradient-to-r from-coral-500 to-peach-500 px-4 py-2 text-xs font-black text-white shadow-sm transition hover:opacity-90"
+            >
+              Colaborar
             </Link>
           </div>
 
@@ -59,15 +63,16 @@ export function Navigation() {
           <div className="border-t border-slate-200 py-4 md:hidden">
             <div className="flex flex-col gap-4">
               <Link href="/" className={linkClass} onClick={closeMobileMenu}>Inicio</Link>
-              <Link href="/blog/actualidad" className={linkClass} onClick={closeMobileMenu}>
-                🗞️ Actualidad
-              </Link>
+              <Link href="/blog/actualidad" className={linkClass} onClick={closeMobileMenu}>🗞️ Actualidad</Link>
               {NAV_VERTICALS.map((vertical) => (
                 <Link key={vertical.slug} href={vertical.href} className={linkClass} onClick={closeMobileMenu}>
                   {vertical.icon} {vertical.name}
                 </Link>
               ))}
               <Link href="/blog" className={linkClass} onClick={closeMobileMenu}>Artículos</Link>
+              <Link href="/colaborar" className="font-bold text-coral-700" onClick={closeMobileMenu}>
+                Colaboraciones y patrocinios
+              </Link>
             </div>
           </div>
         )}
