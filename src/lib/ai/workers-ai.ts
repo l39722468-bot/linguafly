@@ -137,8 +137,7 @@ export async function runWorkersAIJson(
   const result = await ai.run(WORKERS_AI_CHAT_MODEL, {
     messages,
     temperature: options.temperature ?? 0.6,
-    max_tokens: options.maxTokens ?? 400,
-    response_format: { type: "json_object" },
+    max_completion_tokens: options.maxTokens ?? 400,
   });
 
   // Some Workers AI models use a native { response: {...} } envelope.
@@ -160,7 +159,7 @@ export async function runWorkersAIText(
   const result = await ai.run(WORKERS_AI_CHAT_MODEL, {
     messages,
     temperature: options.temperature ?? 0.6,
-    max_tokens: options.maxTokens ?? 400,
+    max_completion_tokens: options.maxTokens ?? 400,
   });
 
   const text = getTextFromResult(result).trim();
@@ -273,7 +272,7 @@ export async function streamWorkersAIText(
   const result = await ai.run(WORKERS_AI_CHAT_MODEL, {
     messages,
     temperature: options.temperature ?? 0.6,
-    max_tokens: options.maxTokens ?? 500,
+    max_completion_tokens: options.maxTokens ?? 500,
     stream: true,
   });
 
