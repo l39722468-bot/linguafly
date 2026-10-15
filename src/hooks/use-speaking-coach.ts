@@ -75,18 +75,22 @@ export function useSpeakingCoach() {
     if (!state.currentSessionId) return;
 
     try {
-      let feedback = null;
-
       if (role === 'assistant' && content.includes('EVALUATION_START')) {
         try {
-          const match = content.match(/EVALUATION_START([\s\S]*?)EVALUATION_END/);
+          const match = content.match(/EVALUATION_START([\\s\\S]*?)EVALUATION_END/);
           if (match) {
-            feedback = JSON.parse(match[1]);
-            setState(prev => ({ 
-              ...prev, 
-              lastFeedback: feedback,
-              objectivesMet: Array.from(new Set([...prev.objectivesMet, ...(feedback.objectives_met || [])]))
-            }));
+            const parsed: unknown = JSON.parse(match[1]);
+            if (parsed && typeof parsed === 'object' && !Array.isArray(parsed)) {
+              const feedback = parsed as Record<string, unknown>;
+              const objectives = Array.isArray(feedback.objectives_met)
+                ? feedback.objectives_met.filter((item): item is string => typeof item === 'string')
+                : [];
+              setState(prev => ({
+                ...prev,
+                lastFeedback: feedback,
+                objectivesMet: Array.from(new Set([...prev.objectivesMet, ...objectives])),
+              }));
+            }
           }
         } catch (e) {
           console.error('Failed to parse evaluation JSON', e);
