@@ -14,7 +14,7 @@ export function RecoveryForm() {
     return (
       <AuthShell
         title="Revisa tu correo"
-        description="Si hay una cuenta con ese correo, te enviaremos un enlace para elegir una contraseña nueva."
+        description="Si hay una cuenta asociada a ese correo, recibirás un enlace para restablecer la contraseña. Revisa también la carpeta de correo no deseado."
       >
         <Link href="/login" className="text-sm font-medium text-stone-900 underline">
           Volver al inicio de sesión
@@ -26,7 +26,7 @@ export function RecoveryForm() {
   return (
     <AuthShell
       title="Recuperar contraseña"
-      description="Escribe el correo de tu cuenta y te enviaremos un enlace para restablecerla."
+      description="Escribe el correo de tu cuenta y te enviaremos un enlace para elegir una contraseña nueva."
     >
       <form action={action} className="space-y-5">
         <TextField label="Correo electrónico" name="email" type="email" autoComplete="email" />

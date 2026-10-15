@@ -6,7 +6,7 @@ import { AuthShell } from "@/components/auth/auth-shell";
 import { SubmitButton } from "@/components/auth/submit-button";
 import { TextField } from "@/components/auth/text-field";
 
-export function ResetPasswordForm() {
+export function ResetPasswordForm({ token }: { token: string }) {
   const [state, action] = useActionState(updatePassword, null);
 
   return (
@@ -15,6 +15,7 @@ export function ResetPasswordForm() {
       description="Elige una contraseña de al menos 8 caracteres para tu cuenta."
     >
       <form action={action} className="space-y-5">
+        <input type="hidden" name="token" value={token} />
         <TextField
           label="Contraseña nueva"
           name="password"

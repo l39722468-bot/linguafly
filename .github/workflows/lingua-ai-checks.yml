@@ -1,0 +1,98 @@
+name: LinguaFly AI checks
+
+on:
+  push:
+    branches:
+      - feat/lingua-ai-cloudflare-auth
+    paths:
+      - "apps/lingua-ai/**"
+      - ".github/workflows/lingua-ai-checks.yml"
+  pull_request:
+    paths:
+      - "apps/lingua-ai/**"
+      - ".github/workflows/lingua-ai-checks.yml"
+
+concurrency:
+  group: lingua-ai-checks-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: apps/lingua-ai
+    steps:
+      - name: Checkout app files only
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: apps/lingua-ai
+          sparse-checkout-cone-mode: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+          cache-dependency-path: apps/lingua-ai/package-lock.json
+
+      - name: Install dependencies from the committed lockfile
+        run: npm ci --no-audit --no-fund
+
+      - name: Validate migration against local D1
+        run: npx wrangler d1 migrations apply lingua-ai-auth-db --local
+
+      - name: TypeScript
+        run: npm run type-check
+
+      - name: ESLint
+        run: npm run lint
+
+      - name: Next.js build
+        run: npm run build
+
+      - name: Build OpenNext Worker bundle
+        run: npx opennextjs-cloudflare build
+
+      - name: Smoke test local Worker and Better Auth session endpoint
+        shell: bash
+        run: |
+          printf '%s\n' \
+            'BETTER_AUTH_SECRET=CI_ONLY_TEST_SECRET_0123456789_abcdefghijklmnopqrstuvwxyz' \
+            'BETTER_AUTH_URL=http://127.0.0.1:8787' > .dev.vars
+
+          npx wrangler dev --local --ip 127.0.0.1 --port 8787 > /tmp/lingua-ai-worker.log 2>&1 &
+          worker_pid=$!
+          trap 'kill "$worker_pid" >/dev/null 2>&1 || true' EXIT
+
+          ready=false
+          for attempt in $(seq 1 60); do
+            if curl --silent --fail http://127.0.0.1:8787/ >/dev/null; then
+              ready=true
+              break
+            fi
+            sleep 1
+          done
+
+          if [ "$ready" != true ]; then
+            cat /tmp/lingua-ai-worker.log
+            echo "El Worker local no llegó a estar disponible."
+            exit 1
+          fi
+
+          auth_status=$(curl --silent --output /tmp/lingua-ai-auth-response.json --write-out "%{http_code}" \
+            http://127.0.0.1:8787/api/auth/get-session)
+
+          if [ "$auth_status" != "200" ]; then
+            cat /tmp/lingua-ai-worker.log
+            cat /tmp/lingua-ai-auth-response.json
+            echo "Better Auth devolvió HTTP $auth_status en GET /api/auth/get-session."
+            exit 1
+          fi
+
+          echo "Endpoint de sesión Better Auth respondió HTTP 200."
+          cat /tmp/lingua-ai-auth-response.json

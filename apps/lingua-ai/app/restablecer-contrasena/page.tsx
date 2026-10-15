@@ -1,20 +1,17 @@
 import { redirect } from "next/navigation";
 import { ResetPasswordForm } from "@/components/auth/reset-password-form";
-import { getPublicSupabaseEnv } from "@/lib/supabase/env";
-import { createServerSupabaseClient } from "@/lib/supabase/server";
 
 export const dynamic = "force-dynamic";
 
-export default async function ResetPasswordPage() {
-  if (!getPublicSupabaseEnv()) {
-    redirect("/login?error=config");
-  }
-
-  const supabase = await createServerSupabaseClient();
-  const { data } = await supabase.auth.getUser();
-  if (!data.user) {
+export default async function ResetPasswordPage({
+  searchParams,
+}: {
+  searchParams: Promise<{ token?: string }>;
+}) {
+  const { token } = await searchParams;
+  if (!token || token.length > 2048) {
     redirect("/recuperar-contrasena");
   }
 
-  return <ResetPasswordForm />;
+  return <ResetPasswordForm token={token} />;
 }

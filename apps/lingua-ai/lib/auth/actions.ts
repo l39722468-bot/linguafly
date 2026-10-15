@@ -1,12 +1,13 @@
 "use server";
 
+import { getCloudflareContext } from "@opennextjs/cloudflare";
+import { headers } from "next/headers";
 import { redirect } from "next/navigation";
-import { isExistingUserSignup, mapAuthError } from "@/lib/auth/errors";
-import { authCallbackUrl } from "@/lib/auth/origin";
+import { mapAuthError } from "@/lib/auth/errors";
+import { isAuthEmailEnabled } from "@/lib/auth/email";
 import { safeNextPath } from "@/lib/auth/paths";
 import { isValidEmail, passwordError } from "@/lib/auth/validation";
-import { getPublicSupabaseEnv } from "@/lib/supabase/env";
-import { createServerSupabaseClient } from "@/lib/supabase/server";
+import { getAuth } from "@/lib/auth/server";
 
 export type AuthFormState =
   | null
@@ -19,7 +20,33 @@ function readText(formData: FormData, key: string): string {
   return typeof value === "string" ? value.trim() : "";
 }
 
-export async function signUp(_previous: AuthFormState, formData: FormData): Promise<AuthFormState> {
+function authError(error: unknown): { message?: string; code?: string } {
+  if (!error || typeof error !== "object") return {};
+  const value = error as {
+    message?: unknown;
+    code?: unknown;
+    body?: { message?: unknown; code?: unknown };
+  };
+  const message = value.body?.message ?? value.message;
+  const code = value.body?.code ?? value.code;
+  return {
+    message: typeof message === "string" ? message : undefined,
+    code: typeof code === "string" ? code : undefined,
+  };
+}
+
+function emailSetupError(): AuthFormState {
+  return {
+    status: "error",
+    message:
+      "El envío de correos de LinguaFly AI todavía no está activado. No se ha enviado ningún mensaje. Configura Cloudflare Email Service e inténtalo de nuevo.",
+  };
+}
+
+export async function signUp(
+  _previous: AuthFormState,
+  formData: FormData,
+): Promise<AuthFormState> {
   const email = readText(formData, "email").toLowerCase();
   const password = String(formData.get("password") ?? "");
   const confirmation = String(formData.get("confirmation") ?? "");
@@ -31,41 +58,37 @@ export async function signUp(_previous: AuthFormState, formData: FormData): Prom
       message: invalidPassword ?? "Escribe un correo electrónico válido.",
     };
   }
-  if (!getPublicSupabaseEnv()) {
-    return { status: "error", message: "El acceso todavía no está configurado." };
+
+  if (!(await isAuthEmailEnabled())) return emailSetupError();
+
+  try {
+    const context = await getCloudflareContext({ async: true });
+    const env = context.env as unknown as CloudflareEnv;
+    const baseURL = env.BETTER_AUTH_URL?.trim();
+    if (!baseURL) return emailSetupError();
+
+    const auth = await getAuth();
+    await auth.api.signUpEmail({
+      body: {
+        name: email.split("@")[0] || "Alumno",
+        email,
+        password,
+        callbackURL: new URL("/app", baseURL).toString(),
+      },
+      headers: await headers(),
+    });
+  } catch (error) {
+    return { status: "error", message: mapAuthError(authError(error)) };
   }
 
-  const emailRedirectTo = authCallbackUrl("/app");
-  if (!emailRedirectTo) {
-    return { status: "error", message: "El acceso todavía no está configurado." };
-  }
-
-  const supabase = await createServerSupabaseClient();
-  const { data, error } = await supabase.auth.signUp({
-    email,
-    password,
-    options: { emailRedirectTo },
-  });
-
-  if (error) {
-    if (isExistingUserSignup(error)) {
-      return { status: "confirm_email" };
-    }
-    return { status: "error", message: mapAuthError(error) };
-  }
-
-  if (data.user && data.user.identities?.length === 0) {
-    return { status: "confirm_email" };
-  }
-
-  if (!data.session) {
-    return { status: "confirm_email" };
-  }
-
-  redirect("/app");
+  // Email verification is required before a session can be created.
+  return { status: "confirm_email" };
 }
 
-export async function signIn(_previous: AuthFormState, formData: FormData): Promise<AuthFormState> {
+export async function signIn(
+  _previous: AuthFormState,
+  formData: FormData,
+): Promise<AuthFormState> {
   const email = readText(formData, "email").toLowerCase();
   const password = String(formData.get("password") ?? "");
   const nextPath = safeNextPath(readText(formData, "next"));
@@ -73,14 +96,15 @@ export async function signIn(_previous: AuthFormState, formData: FormData): Prom
   if (!isValidEmail(email) || passwordError(password)) {
     return { status: "error", message: "Revisa el correo y la contraseña." };
   }
-  if (!getPublicSupabaseEnv()) {
-    return { status: "error", message: "El acceso todavía no está configurado." };
-  }
 
-  const supabase = await createServerSupabaseClient();
-  const { error } = await supabase.auth.signInWithPassword({ email, password });
-  if (error) {
-    return { status: "error", message: mapAuthError(error) };
+  try {
+    const auth = await getAuth();
+    await auth.api.signInEmail({
+      body: { email, password },
+      headers: await headers(),
+    });
+  } catch (error) {
+    return { status: "error", message: mapAuthError(authError(error)) };
   }
 
   redirect(nextPath);
@@ -95,33 +119,28 @@ export async function requestPasswordReset(
   if (!isValidEmail(email)) {
     return { status: "error", message: "Escribe un correo electrónico válido." };
   }
-  if (!getPublicSupabaseEnv()) {
-    return { status: "error", message: "El acceso todavía no está configurado." };
+
+  if (!(await isAuthEmailEnabled())) return emailSetupError();
+
+  try {
+    const context = await getCloudflareContext({ async: true });
+    const env = context.env as unknown as CloudflareEnv;
+    const baseURL = env.BETTER_AUTH_URL?.trim();
+    if (!baseURL) return emailSetupError();
+
+    const auth = await getAuth();
+    await auth.api.requestPasswordReset({
+      body: {
+        email,
+        redirectTo: new URL("/restablecer-contrasena", baseURL).toString(),
+      },
+      headers: await headers(),
+    });
+  } catch (error) {
+    return { status: "error", message: mapAuthError(authError(error)) };
   }
 
-  const redirectTo = authCallbackUrl("/restablecer-contrasena");
-  if (!redirectTo) {
-    return { status: "error", message: "El acceso todavía no está configurado." };
-  }
-
-  const supabase = await createServerSupabaseClient();
-  const { error } = await supabase.auth.resetPasswordForEmail(email, { redirectTo });
-
-  if (error && (error.code === "over_request_rate_limit" || /rate limit/i.test(error.message))) {
-    return {
-      status: "error",
-      message: "Demasiados intentos. Espera un momento y prueba de nuevo.",
-    };
-  }
-
-  if (
-    error &&
-    /redirect/i.test(error.message) &&
-    /url|not allowed|invalid/i.test(error.message)
-  ) {
-    return { status: "error", message: "El acceso todavía no está configurado." };
-  }
-
+  // Better Auth intentionally returns a generic response for unknown emails.
   return { status: "sent" };
 }
 
@@ -131,66 +150,50 @@ export async function updatePassword(
 ): Promise<AuthFormState> {
   const password = String(formData.get("password") ?? "");
   const confirmation = String(formData.get("confirmation") ?? "");
+  const token = readText(formData, "token");
   const invalidPassword = passwordError(password, confirmation);
 
   if (invalidPassword) {
     return { status: "error", message: invalidPassword };
   }
-  if (!getPublicSupabaseEnv()) {
-    return { status: "error", message: "El acceso todavía no está configurado." };
+  if (!token || token.length > 2048) {
+    return {
+      status: "error",
+      message: "El enlace de recuperación no es válido. Solicita uno nuevo.",
+    };
   }
 
-  const supabase = await createServerSupabaseClient();
-  const { data } = await supabase.auth.getUser();
-  if (!data.user) {
-    redirect("/recuperar-contrasena");
+  try {
+    const auth = await getAuth();
+    await auth.api.resetPassword({
+      body: { newPassword: password, token },
+      headers: await headers(),
+    });
+  } catch (error) {
+    return {
+      status: "error",
+      message: mapAuthError(authError(error)),
+    };
   }
 
-  const { error } = await supabase.auth.updateUser({ password });
-  if (error) {
-    return { status: "error", message: mapAuthError(error) };
-  }
-
-  redirect("/app");
-}
-
-function sessionIsGone(error: { name?: string; message?: string } | null): boolean {
-  if (!error) return true;
-  return (
-    error.name === "AuthSessionMissingError" ||
-    /auth session missing/i.test(error.message ?? "")
-  );
+  redirect("/login");
 }
 
 export async function signOut(
-  previous: AuthFormState,
-  formData: FormData,
+  _previous: AuthFormState,
+  _formData: FormData,
 ): Promise<AuthFormState> {
-  void previous;
-  void formData;
-
-  if (!getPublicSupabaseEnv()) {
-    redirect("/login");
-  }
-
-  const failure: AuthFormState = {
-    status: "error",
-    message: "No se ha podido cerrar la sesión. Prueba de nuevo.",
-  };
+  void _previous;
+  void _formData;
 
   try {
-    const supabase = await createServerSupabaseClient();
-    const { error } = await supabase.auth.signOut();
-    const { data, error: userError } = await supabase.auth.getUser();
-    // Redirect only when the server accepted the sign-out and the session
-    // is gone. A failed revoke or a cookie that is still present stays here.
-    const confirmedSignedOut = !error && !data.user && sessionIsGone(userError);
-
-    if (!confirmedSignedOut) {
-      return failure;
-    }
+    const auth = await getAuth();
+    await auth.api.signOut({ headers: await headers() });
   } catch {
-    return failure;
+    return {
+      status: "error",
+      message: "No se ha podido cerrar la sesión. Prueba de nuevo.",
+    };
   }
 
   redirect("/login");

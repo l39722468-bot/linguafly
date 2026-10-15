@@ -14,7 +14,7 @@ export function RegisterForm() {
     return (
       <AuthShell
         title="Revisa tu correo"
-        description="Si el correo admite una cuenta nueva, te hemos enviado un mensaje para confirmarla. Ábrelo y sigue el enlace para entrar en LinguaFly AI."
+        description="Si la dirección puede registrarse, recibirás un correo para confirmar tu cuenta. Revisa también la carpeta de correo no deseado y sigue el enlace para activar LinguaFly AI."
       >
         <Link href="/login" className="text-sm font-medium text-stone-900 underline">
           Volver al inicio de sesión

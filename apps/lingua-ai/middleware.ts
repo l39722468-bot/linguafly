@@ -1,8 +1,12 @@
-import { type NextRequest } from "next/server";
-import { updateSession } from "@/lib/supabase/middleware";
+import { NextResponse, type NextRequest } from "next/server";
 
-export async function middleware(request: NextRequest) {
-  return updateSession(request);
+/**
+ * Do not perform auth/database work in Next middleware. The protected route
+ * checks Better Auth's validated session server-side; this middleware only
+ * continues the request and must not depend on Supabase environment values.
+ */
+export function middleware(_request: NextRequest) {
+  return NextResponse.next();
 }
 
 export const config = {
