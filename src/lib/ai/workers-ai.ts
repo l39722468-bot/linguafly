@@ -167,26 +167,6 @@ export async function runWorkersAIText(
   return text;
 }
 
-/**
- * Whisper's Workers AI binding expects the audio bytes as an array of
- * unsigned integers, not the base64 string sent by the browser.
- */
-export function base64ToAudioBytes(base64: string): number[] {
-  const normalized = base64
-    .replace(/^data:[^,]*,/, "")
-    .replace(/\\s+/g, "");
-  if (!normalized || !/^[A-Za-z0-9+/]*={0,2}$/.test(normalized)) {
-    throw new Error("Audio payload is not valid base64.");
-  }
-
-  const binary = atob(normalized);
-  const bytes = new Array<number>(binary.length);
-  for (let index = 0; index < binary.length; index += 1) {
-    bytes[index] = binary.charCodeAt(index);
-  }
-  return bytes;
-}
-
 export function arrayBufferToBase64(buffer: ArrayBuffer): string {
   const bytes = new Uint8Array(buffer);
   const chunkSize = 0x8000;
