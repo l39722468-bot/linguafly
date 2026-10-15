@@ -103,6 +103,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
     spokenSpanish: string,
     pronunciationText = '',
   ): Promise<void> => {
+    setError(null);
     if (!spokenSpanish.trim() && !pronunciationText.trim()) {
       setOrbState('idle');
       return;
