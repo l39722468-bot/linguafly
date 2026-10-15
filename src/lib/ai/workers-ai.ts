@@ -1,5 +1,3 @@
-import { getCloudflareContext } from "@opennextjs/cloudflare";
-
 export const WORKERS_AI_CHAT_MODEL = "@cf/zai-org/glm-4.7-flash";
 export const WORKERS_AI_STT_MODEL = "@cf/openai/whisper-large-v3-turbo";
 export const WORKERS_AI_TTS_MODEL = "@cf/deepgram/aura-1";
@@ -27,7 +25,8 @@ export async function enforceAIRateLimit(
 ): Promise<Response | null> {
   let env: { AI_RATE_LIMITER?: RateLimitBinding };
   try {
-    const context = await getCloudflareContext({ async: true });
+    const cloudflare = await import("@opennextjs/cloudflare");
+    const context = await cloudflare.getCloudflareContext({ async: true });
     env = context.env as unknown as { AI_RATE_LIMITER?: RateLimitBinding };
   } catch (error) {
     if (process.env.NODE_ENV !== "production") return null;
@@ -68,7 +67,8 @@ export async function enforceAIRateLimit(
 }
 
 export async function getWorkersAIBinding(): Promise<WorkersAIBinding> {
-  const context = await getCloudflareContext({ async: true });
+  const cloudflare = await import("@opennextjs/cloudflare");
+  const context = await cloudflare.getCloudflareContext({ async: true });
   const ai = (context.env as unknown as { AI?: WorkersAIBinding }).AI;
 
   if (!ai || typeof ai.run !== "function") {
