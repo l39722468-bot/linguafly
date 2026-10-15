@@ -160,12 +160,13 @@ async function chatWithTutor(
   try {
     result = await runWorkersAIJson(messages, { temperature: 0.7, maxTokens: 400 });
   } catch (error: unknown) {
-    // GLM can occasionally ignore the JSON-only instruction. Recover from that
-    // specific formatting failure with a plain-text generation; real binding
-    // errors still propagate to the handler and get logged with their stage.
-    if (!(error instanceof Error) || !error.message.includes("invalid structured response")) {
-      throw error;
-    }
+    // A spoken tutor turn must not depend on GLM returning valid JSON every time.
+    // Retry in plain text on any structured-generation error; runWorkersAIText
+    // automatically switches to a second supported model if GLM itself fails.
+    console.error(
+      "Structured tutor response failed; retrying as plain text:",
+      error instanceof Error ? `${error.name}: ${error.message.slice(0, 180)}` : "UnknownError",
+    );
     const system = messages.find((message) => message.role === "system");
     const fallbackSystem = (system?.content ?? "You are a helpful English tutor.")
       .replace(
