@@ -1,53 +1,27 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { enforceAIRateLimit } from '@/lib/ai/workers-ai';
 import {
-  CF_LLAMA_3_2_11B_VISION_INSTRUCT,
-  CF_LLAMA_3_3_70B_INSTRUCT_FP8_FAST,
-  CF_WHISPER_LARGE_V3_TURBO,
-} from '@/lib/ai/cloudflare-workers-ai-models';
-import { synthesizeAura2English } from '@/lib/ai/cloudflare-tts';
+  enforceAIRateLimit,
+  getWorkersAIBinding,
+  runWorkersAIJson,
+  synthesizeWorkersAIAudioBase64,
+  WORKERS_AI_STT_MODEL,
+  type WorkersAIMessage,
+} from '@/lib/ai/workers-ai';
+import { CF_LLAMA_3_2_11B_VISION_INSTRUCT } from '@/lib/ai/cloudflare-workers-ai-models';
 
 export const maxDuration = 60;
 
-async function analyzeImageWithVision(
-  imageBase64: string,
-  accountId: string,
-  apiToken: string
-): Promise<string> {
-  const imageBytes = Array.from(Buffer.from(imageBase64, 'base64'));
-  const res = await fetch(
-    `https://api.cloudflare.com/client/v4/accounts/${accountId}/ai/run/@cf/meta/llama-3.2-11b-vision-instruct`,
-    {
-      method: 'POST',
-      headers: {
-        Authorization: `Bearer ${apiToken}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({
-        messages: [
-          {
-            role: 'user',
-            content: 'Describe what you see in this image in detail, in English. Focus on objects, people, actions, setting, and any text visible. Be concise but thorough.',
-          },
-        ],
-        image: imageBytes,
-        max_tokens: 300,
-      }),
-    }
-  );
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`Vision failed: ${err}`);
-  }
-  const data = await res.json() as { result?: { response?: string } };
-  return data.result?.response?.trim() || 'An image was shared.';
-}
+type TutorFeedback = {
+  original: string;
+  correction: string;
+  explanation: string;
+};
 
 const TUTOR_SYSTEM_PROMPTS: Record<string, string> = {
-  emma: `You are Emma, a warm and professional English tutor from New York. Speak naturally, like a real teacher having a conversation. Be encouraging but correct mistakes gently.`,
-  james: `You are James, a friendly and patient English tutor from London. Use natural British English. Be relaxed, casual, and very encouraging. Make the student feel comfortable.`,
-  sofia: `You are Sofia, an experienced English teacher specializing in academic and exam preparation. Be precise, structured, and motivating.`,
-  carlos: `You are Carlos, an energetic English tutor who makes learning fun. Use humor appropriately and keep the energy high.`,
+  emma: 'You are Emma, a warm and professional English tutor from New York. Speak naturally, like a real teacher having a conversation. Be encouraging but correct mistakes gently.',
+  james: 'You are James, a friendly and patient English tutor from London. Use natural British English. Be relaxed, casual, and very encouraging. Make the student feel comfortable.',
+  sofia: 'You are Sofia, an experienced English teacher specializing in academic and exam preparation. Be precise, structured, and motivating.',
+  carlos: 'You are Carlos, an energetic English tutor who makes learning fun. Use humor appropriately and keep the energy high.',
 };
 
 function buildSystemPrompt(tutorId: string, level: string, topic: string): string {
@@ -79,77 +53,105 @@ OR if there is a mistake to correct:
 }`;
 }
 
-async function transcribeAudio(audioBuffer: Buffer, accountId: string, apiToken: string): Promise<string> {
-  const res = await fetch(
-    `https://api.cloudflare.com/client/v4/accounts/${accountId}/ai/run/${CF_WHISPER_LARGE_V3_TURBO}`,
-    {
-      method: 'POST',
-      headers: {
-        Authorization: `Bearer ${apiToken}`,
-        'Content-Type': 'application/octet-stream',
-      },
-      body: new Uint8Array(audioBuffer),
-    }
-  );
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`Whisper failed: ${err}`);
+function getTranscriptionText(result: unknown): string {
+  if (typeof result === 'string') return result.trim();
+  if (!result || typeof result !== 'object' || Array.isArray(result)) return '';
+
+  const value = result as Record<string, unknown>;
+  if (typeof value.text === 'string') return value.text.trim();
+  if (typeof value.transcription === 'string') return value.transcription.trim();
+
+  const nested = value.result;
+  if (nested && typeof nested === 'object' && !Array.isArray(nested)) {
+    const nestedValue = nested as Record<string, unknown>;
+    if (typeof nestedValue.text === 'string') return nestedValue.text.trim();
+    if (typeof nestedValue.transcription === 'string') return nestedValue.transcription.trim();
   }
-  const data = await res.json() as { result?: { text?: string } };
-  return data.result?.text?.trim() || '';
+  return '';
 }
 
-async function chatWithLlama(
-  messages: { role: string; content: string }[],
-  accountId: string,
-  apiToken: string
-): Promise<{ reply: string; feedback: null | { original: string; correction: string; explanation: string } }> {
-  const res = await fetch(
-    `https://api.cloudflare.com/client/v4/accounts/${accountId}/ai/run/${CF_LLAMA_3_3_70B_INSTRUCT_FP8_FAST}`,
-    {
-      method: 'POST',
-      headers: {
-        Authorization: `Bearer ${apiToken}`,
-        'Content-Type': 'application/json',
-      },
-      body: JSON.stringify({ messages, max_tokens: 400 }),
-    }
-  );
-  if (!res.ok) {
-    const err = await res.text();
-    throw new Error(`Llama failed: ${err}`);
-  }
-  const data = await res.json() as { result?: { response?: string } };
-  const raw = data.result?.response || '';
-  const match = raw.match(/\{[\s\S]*\}/);
-  if (match) {
-    try {
-      return JSON.parse(match[0]);
-    } catch {
-      /* fall through */
-    }
-  }
-  return { reply: raw.trim() || "Sorry, I didn't understand. Could you say that again?", feedback: null };
+async function transcribeAudio(audioBase64: string): Promise<string> {
+  const ai = await getWorkersAIBinding();
+  const result = await ai.run(WORKERS_AI_STT_MODEL, {
+    audio: audioBase64,
+    task: 'transcribe',
+    language: 'en',
+    condition_on_previous_text: false,
+  });
+  return getTranscriptionText(result);
 }
 
-async function textToSpeech(text: string, gender: string, accountId: string, apiToken: string): Promise<Buffer> {
-  const speaker = gender === 'female' ? 'luna' : 'orion';
-  const { body } = await synthesizeAura2English(text, accountId, apiToken, speaker);
-  return Buffer.from(body);
+async function analyzeImageWithVision(imageBase64: string): Promise<string> {
+  const ai = await getWorkersAIBinding();
+  const image = imageBase64.startsWith('data:')
+    ? imageBase64
+    : `data:image/jpeg;base64,${imageBase64}`;
+  const result = await ai.run(CF_LLAMA_3_2_11B_VISION_INSTRUCT, {
+    messages: [{
+      role: 'user',
+      content: 'Describe what you see in this image in detail, in English. Focus on objects, people, actions, setting, and any text visible. Be concise but thorough.',
+    }],
+    image,
+    max_tokens: 300,
+  });
+
+  if (typeof result === 'string') return result.trim() || 'An image was shared.';
+  if (!result || typeof result !== 'object' || Array.isArray(result)) return 'An image was shared.';
+
+  const value = result as Record<string, unknown>;
+  if (typeof value.response === 'string' && value.response.trim()) return value.response.trim();
+  if (typeof value.description === 'string' && value.description.trim()) return value.description.trim();
+  const nested = value.result;
+  if (nested && typeof nested === 'object' && !Array.isArray(nested)) {
+    const nestedValue = nested as Record<string, unknown>;
+    if (typeof nestedValue.response === 'string' && nestedValue.response.trim()) return nestedValue.response.trim();
+  }
+  return 'An image was shared.';
+}
+
+async function chatWithTutor(
+  messages: WorkersAIMessage[],
+): Promise<{ reply: string; feedback: TutorFeedback | null }> {
+  const result = await runWorkersAIJson(messages, { temperature: 0.7, maxTokens: 400 });
+  const reply = typeof result.reply === 'string' ? result.reply.trim().slice(0, 1800) : '';
+
+  let feedback: TutorFeedback | null = null;
+  if (result.feedback && typeof result.feedback === 'object' && !Array.isArray(result.feedback)) {
+    const candidate = result.feedback as Record<string, unknown>;
+    if (
+      typeof candidate.original === 'string' &&
+      typeof candidate.correction === 'string' &&
+      typeof candidate.explanation === 'string'
+    ) {
+      feedback = {
+        original: candidate.original.slice(0, 300),
+        correction: candidate.correction.slice(0, 300),
+        explanation: candidate.explanation.slice(0, 500),
+      };
+    }
+  }
+
+  return {
+    reply: reply || "Sorry, I didn't understand. Could you say that again?",
+    feedback,
+  };
 }
 
 export async function POST(request: NextRequest) {
   const rateLimitResponse = await enforceAIRateLimit(request, 'tutor-avatar-turn');
   if (rateLimitResponse) return rateLimitResponse;
+
   try {
     const contentLength = Number(request.headers.get('content-length') || 0);
     if (Number.isFinite(contentLength) && contentLength > 15 * 1024 * 1024) {
       return NextResponse.json({ error: 'Audio/image request must be 15 MB or smaller.' }, { status: 413 });
     }
+
     const payload: unknown = await request.json();
     if (!payload || typeof payload !== 'object' || Array.isArray(payload)) {
       return NextResponse.json({ error: 'Invalid request body' }, { status: 400 });
     }
+
     const body = payload as Record<string, unknown>;
     const audioBase64 = body.audioBase64;
     const imageBase64 = typeof body.imageBase64 === 'string' ? body.imageBase64 : null;
@@ -160,8 +162,9 @@ export async function POST(request: NextRequest) {
     const level = typeof body.level === 'string' ? body.level.slice(0, 32) : 'B1';
     const topic = typeof body.topic === 'string' ? body.topic.slice(0, 100) : 'General conversation';
     const historyInput = Array.isArray(body.history) ? body.history.slice(-16) : [];
-    const history: { role: 'user' | 'assistant'; content: string }[] = [];
+    const history: WorkersAIMessage[] = [];
     let historyCharacters = 0;
+
     for (const item of historyInput) {
       if (!item || typeof item !== 'object' || Array.isArray(item)) continue;
       const row = item as Record<string, unknown>;
@@ -188,22 +191,13 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ error: 'Image must be 4 MB or smaller.' }, { status: 413 });
     }
 
-    const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
-    const apiToken = process.env.CLOUDFLARE_API_TOKEN;
-
-    if (!accountId || !apiToken) {
-      return NextResponse.json({ error: 'Cloudflare credentials not configured' }, { status: 500 });
-    }
-
     const audioBuffer = Buffer.from(audioBase64, 'base64');
-
     if (audioBuffer.byteLength < 3000) {
       return NextResponse.json({ noSpeechDetected: true }, { status: 200 });
     }
 
-    const rawTranscription = await transcribeAudio(audioBuffer, accountId, apiToken);
-
-    const WHISPER_HALLUCINATIONS = new Set([
+    const rawTranscription = await transcribeAudio(audioBase64);
+    const hallucinations = new Set([
       '', ' ', '.', '..', '...', 'you', 'you.', 'You.', 'You',
       'Thank you.', 'Thank you', 'thank you', 'thanks', 'Thanks',
       'Bye.', 'bye', 'Bye', 'goodbye', 'Goodbye',
@@ -212,47 +206,51 @@ export async function POST(request: NextRequest) {
       '[Applause]', '[applause]', '[BLANK_AUDIO]',
     ]);
 
-    const isHallucination = WHISPER_HALLUCINATIONS.has(rawTranscription) || rawTranscription.length < 3;
-
-    if (!rawTranscription || isHallucination) {
+    if (!rawTranscription || rawTranscription.length < 3 || hallucinations.has(rawTranscription)) {
       return NextResponse.json({ noSpeechDetected: true }, { status: 200 });
     }
-
-    const transcription = rawTranscription;
 
     let imageDescription = '';
     if (imageBase64) {
       try {
-        imageDescription = await analyzeImageWithVision(imageBase64, accountId, apiToken);
-      } catch (e) {
-        console.error('Vision analysis failed, continuing without image:', e);
+        imageDescription = await analyzeImageWithVision(imageBase64);
+      } catch (error: unknown) {
+        console.error(
+          'Tutor image analysis failed:',
+          error instanceof Error ? error.name : 'UnknownError',
+        );
       }
     }
 
-    const systemPrompt = buildSystemPrompt(tutorId, level, topic);
     const userContent = imageDescription
-      ? `[The student shared an image. Image description: ${imageDescription}]\n\nStudent said: ${transcription}`
-      : transcription;
-
-    const messages = [
-      { role: 'system', content: systemPrompt },
+      ? `[The student shared an image. Image description: ${imageDescription}]\n\nStudent said: ${rawTranscription}`
+      : rawTranscription;
+    const messages: WorkersAIMessage[] = [
+      { role: 'system', content: buildSystemPrompt(tutorId, level, topic) },
       ...history,
       { role: 'user', content: userContent },
     ];
 
-    const { reply, feedback } = await chatWithLlama(messages, accountId, apiToken);
-
-    const audioBuffer2 = await textToSpeech(reply, tutorGender, accountId, apiToken);
-    const audioBase64Out = audioBuffer2.toString('base64');
+    const { reply, feedback } = await chatWithTutor(messages);
+    const audioBase64Out = await synthesizeWorkersAIAudioBase64(
+      reply,
+      tutorGender === 'female' ? 'luna' : 'orion',
+    );
 
     return NextResponse.json({
-      transcription,
+      transcription: rawTranscription,
       reply,
       feedback,
       audioBase64: audioBase64Out,
     });
-  } catch (error: any) {
-    console.error('Tutor avatar turn error:', error);
-    return NextResponse.json({ error: error.message || 'Internal error' }, { status: 500 });
+  } catch (error: unknown) {
+    console.error(
+      'Tutor avatar turn failed:',
+      error instanceof Error ? error.name : 'UnknownError',
+    );
+    return NextResponse.json(
+      { error: 'The tutor is temporarily unavailable. Please try again.' },
+      { status: 502 },
+    );
   }
 }

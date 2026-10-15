@@ -486,14 +486,13 @@ const LEGACY_HOME_REDIRECT_PREFIXES = [
   "/test-nivel",
   "/test-toefl",
   "/test-translation",
-  "/tutor-ia",
   "/tutor-privado",
   "/vocabulario",
 ] as const;
 
 /**
- * El Worker de Cloudflare solo sirve artículos. Las unidades /curso-* y los
- * hubs /blog/temas no existen ahí. 301 a la URL canónica (artículo o sección).
+ * El Worker de Cloudflare sirve artículos y el tutor oral /tutor-ia. Las unidades
+ * /curso-* y los hubs /blog/temas no existen ahí. 301 a la URL canónica.
  */
 export function getParkedPageRedirect(
   pathname: string,

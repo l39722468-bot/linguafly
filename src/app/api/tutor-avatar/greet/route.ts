@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { enforceAIRateLimit } from '@/lib/ai/workers-ai';
-import { synthesizeAura2English } from '@/lib/ai/cloudflare-tts';
+import { enforceAIRateLimit, synthesizeWorkersAIAudioBase64 } from '@/lib/ai/workers-ai';
 
 export const maxDuration = 30;
 
@@ -31,12 +30,6 @@ const GREETINGS: Record<string, Record<string, string>> = {
   },
 };
 
-async function textToSpeech(text: string, gender: string, accountId: string, apiToken: string): Promise<Buffer> {
-  const speaker = gender === 'female' ? 'luna' : 'orion';
-  const { body } = await synthesizeAura2English(text, accountId, apiToken, speaker);
-  return Buffer.from(body);
-}
-
 export async function POST(request: NextRequest) {
   const rateLimitResponse = await enforceAIRateLimit(request, 'tutor-avatar-greet');
   if (rateLimitResponse) return rateLimitResponse;
@@ -50,22 +43,20 @@ export async function POST(request: NextRequest) {
     const tutorGender = body.tutorGender === 'male' ? 'male' : 'female';
     const topic = typeof body.topic === 'string' ? body.topic.slice(0, 40) : 'general';
 
-    const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
-    const apiToken = process.env.CLOUDFLARE_API_TOKEN;
-
-    if (!accountId || !apiToken) {
-      return NextResponse.json({ error: 'Cloudflare credentials not configured' }, { status: 500 });
-    }
-
     const greetingMap = GREETINGS[tutorId] || GREETINGS.emma;
     const greeting = greetingMap[topic] || greetingMap.general;
 
-    const audioBuffer = await textToSpeech(greeting, tutorGender, accountId, apiToken);
-    const audioBase64 = audioBuffer.toString('base64');
+    const audioBase64 = await synthesizeWorkersAIAudioBase64(
+      greeting,
+      tutorGender === 'female' ? 'luna' : 'orion',
+    );
 
     return NextResponse.json({ greeting, audioBase64 });
-  } catch (error: any) {
-    console.error('Greet error:', error);
-    return NextResponse.json({ error: error.message }, { status: 500 });
+  } catch (error: unknown) {
+    console.error(
+      'Tutor greeting failed:',
+      error instanceof Error ? error.name : 'UnknownError',
+    );
+    return NextResponse.json({ error: 'The tutor is temporarily unavailable.' }, { status: 502 });
   }
 }
