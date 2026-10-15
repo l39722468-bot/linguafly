@@ -33,8 +33,67 @@ export const questionSets: Record<PracticeBand, PracticeQuestion[]> = {
   ],
 };
 
+// Alternative questions let the app reinforce recurring mistakes without simply
+// repeating the exact sentence the learner has just seen.
+export const questionVariants: Record<PracticeBand, PracticeQuestion[]> = {
+  basic: [
+    { id: "present-simple-sister-drinks", skill: "present-simple", prompt: "My sister ___ coffee every morning.", options: ["drink", "drinks", "drinking"], correctIndex: 1, explanationKey: "presentSimple" },
+    { id: "present-continuous-children", skill: "present-continuous", prompt: "Look! The children ___ in the garden.", options: ["play", "plays", "are playing"], correctIndex: 2, explanationKey: "presentContinuous" },
+    { id: "past-simple-weekend", skill: "past-simple", prompt: "Last weekend, we ___ to the beach.", options: ["go", "went", "gone"], correctIndex: 1, explanationKey: "pastSimple" },
+    { id: "quantifiers-water", skill: "quantifiers", prompt: "How ___ water do you drink each day?", options: ["many", "much", "few"], correctIndex: 1, explanationKey: "much" },
+    { id: "polite-request-help", skill: "polite-requests", prompt: "Could you ___ me with this bag?", options: ["help", "helped", "helping"], correctIndex: 0, explanationKey: "politeRequest" },
+  ],
+  intermediate: [
+    { id: "present-perfect-for", skill: "present-perfect", prompt: "She ___ here for three years.", options: ["works", "has worked", "is working"], correctIndex: 1, explanationKey: "presentPerfectSince" },
+    { id: "second-conditional-study", skill: "second-conditional", prompt: "If he ___ harder, he would pass.", options: ["studies", "studied", "will study"], correctIndex: 1, explanationKey: "secondConditional" },
+    { id: "used-to-work", skill: "be-used-to-gerund", prompt: "I'm not used to ___ so late.", options: ["work", "working", "worked"], correctIndex: 1, explanationKey: "usedTo" },
+    { id: "causative-phone", skill: "causative-have", prompt: "I had my phone ___ yesterday.", options: ["repair", "repaired", "repairing"], correctIndex: 1, explanationKey: "causativeHave" },
+    { id: "despite-raining", skill: "gerund-after-preposition", prompt: "Despite ___ heavily, they walked home.", options: ["rained", "raining", "rain"], correctIndex: 1, explanationKey: "despiteIng" },
+  ],
+  advanced: [
+    { id: "inversion-hardly-sat", skill: "inversion-hardly", prompt: "Hardly ___ I sat down when the phone rang.", options: ["had", "did", "have"], correctIndex: 0, explanationKey: "hardly" },
+    { id: "relative-which-delayed", skill: "relative-clauses", prompt: "She missed the train, ___ delayed her arrival.", options: ["that", "which", "what"], correctIndex: 1, explanationKey: "whichClause" },
+    { id: "would-rather-keep", skill: "would-rather", prompt: "I'd rather you ___ the door locked.", options: ["keep", "kept", "will keep"], correctIndex: 1, explanationKey: "wouldRather" },
+    { id: "compelling-evidence", skill: "vocabulary-precision", prompt: "The evidence was persuasive and highly ___.", options: ["compel", "compelled", "compelling"], correctIndex: 2, explanationKey: "compelling" },
+    { id: "third-conditional-flight", skill: "third-conditional", prompt: "Had they left earlier, they ___ the flight.", options: ["would catch", "would have caught", "caught"], correctIndex: 1, explanationKey: "thirdConditional" },
+  ],
+};
+
 export function getBand(level: string | null): PracticeBand {
   if (level === "C1" || level === "C2") return "advanced";
   if (level === "B1" || level === "B2") return "intermediate";
   return "basic";
+}
+
+export function getQuestionPool(level: string | null): PracticeQuestion[] {
+  const band = getBand(level);
+  return [...questionSets[band], ...questionVariants[band]];
+}
+
+/**
+ * Repeats the two weakest skills with a different question when prior attempts
+ * show errors. With no history, it returns the familiar five-question session.
+ */
+export function selectPracticeQuestions(
+  level: string | null,
+  weakSkills: string[],
+): PracticeQuestion[] {
+  const band = getBand(level);
+  const base = questionSets[band];
+  const variants = questionVariants[band];
+  const variantBySkill = new Map(variants.map((question) => [question.skill, question]));
+  const baseBySkill = new Map(base.map((question) => [question.skill, question]));
+  const prioritized = [...new Set(weakSkills)].filter(
+    (skill) => baseBySkill.has(skill) && variantBySkill.has(skill),
+  ).slice(0, 2);
+
+  if (prioritized.length === 0) return base;
+
+  const focused: PracticeQuestion[] = [];
+  for (const skill of prioritized) {
+    focused.push(baseBySkill.get(skill)!, variantBySkill.get(skill)!);
+  }
+
+  const remaining = base.filter((question) => !prioritized.includes(question.skill));
+  return [...focused, ...remaining.slice(0, 5 - focused.length)];
 }
