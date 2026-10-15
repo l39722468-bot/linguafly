@@ -214,12 +214,12 @@ function parseFallbackAnswer(raw: string): Omit<TutorAnswer, 'feedback'> {
 }
 
 function isExampleLearningRequest(text: string): boolean {
-  return /\\b(?:ejemplos?|frases?|oraciones?|vocabulario|di[aá]logos?|expresiones|examples?|sentences?|phrases?|vocabulary|dialogues?|expressions?)\\b/i.test(text);
+  return /\b(?:ejemplos?|frases?|oraciones?|vocabulario|di[aá]logos?|expresiones|examples?|sentences?|phrases?|vocabulary|dialogues?|expressions?)\b/i.test(text);
 }
 
 function hasCompleteBilingualExamples(reply: string): boolean {
-  const englishExamples = reply.match(/^\\s*English\\s*:/gim)?.length ?? 0;
-  const spanishTranslations = reply.match(/^\\s*Español\\s*:/gim)?.length ?? 0;
+  const englishExamples = reply.match(/^\s*English\s*:/gim)?.length ?? 0;
+  const spanishTranslations = reply.match(/^\s*Español\s*:/gim)?.length ?? 0;
   return englishExamples > 0 && englishExamples === spanishTranslations;
 }
 
