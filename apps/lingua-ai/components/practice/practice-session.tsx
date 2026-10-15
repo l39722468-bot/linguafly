@@ -236,7 +236,7 @@ export function PracticeSession({
     if (questionIndex === questions.length - 1) {
       const submittedAnswers = questions.map((item, index) => ({
         questionId: item.id,
-        selectedIndex: answers[index],
+        selectedIndex: answers[index] ?? -1,
       }));
       const score = answers.reduce(
         (total, answer, index) => total + (answer === questions[index]?.correctIndex ? 1 : 0),
