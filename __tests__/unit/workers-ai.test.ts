@@ -5,6 +5,7 @@ jest.mock("@opennextjs/cloudflare", () => ({
 import { getCloudflareContext } from "@opennextjs/cloudflare";
 import {
   arrayBufferToBase64,
+  base64ToAudioBytes,
   getAuraSpeaker,
   parseJsonObject,
   runWorkersAIJson,
@@ -106,6 +107,21 @@ describe("Workers AI adapter helpers", () => {
     it("falls back to a supported default for untrusted values", () => {
       expect(getAuraSpeaker("external-provider-voice")).toBe("asteria");
       expect(getAuraSpeaker(null)).toBe("asteria");
+    });
+  });
+
+  describe("base64ToAudioBytes", () => {
+    it("decodes browser base64 into the unsigned-byte array expected by Whisper", () => {
+      const input = Buffer.from([0, 1, 2, 127, 128, 255]);
+      expect(base64ToAudioBytes(input.toString("base64"))).toEqual([0, 1, 2, 127, 128, 255]);
+    });
+
+    it("accepts a data URL and strips its prefix", () => {
+      expect(base64ToAudioBytes("data:audio/webm;base64,AQID")).toEqual([1, 2, 3]);
+    });
+
+    it("rejects malformed base64", () => {
+      expect(() => base64ToAudioBytes("%%%")).toThrow("Audio payload is not valid base64.");
     });
   });
 
