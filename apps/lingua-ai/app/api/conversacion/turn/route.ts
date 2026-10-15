@@ -215,14 +215,15 @@ export async function POST(request: Request) {
     return jsonError("No se ha podido leer el audio enviado.", 400);
   }
 
+  const startSession = form.get("start") === "true";
   const audio = form.get("audio");
-  if (!(audio instanceof File) || !audio.type.toLowerCase().startsWith("audio/")) {
+  if (!startSession && (!(audio instanceof File) || !audio.type.toLowerCase().startsWith("audio/"))) {
     return jsonError("Graba una respuesta de voz antes de enviarla.", 400);
   }
-  if (audio.size < 500) {
+  if (!startSession && audio instanceof File && audio.size < 500) {
     return jsonError("No se ha detectado suficiente audio. Prueba a hablar un poco más.", 400);
   }
-  if (audio.size > 5 * 1024 * 1024) {
+  if (!startSession && audio instanceof File && audio.size > 5 * 1024 * 1024) {
     return jsonError("El audio es demasiado largo. Graba una respuesta más breve (máximo 5 MB).", 413);
   }
 
@@ -249,25 +250,32 @@ export async function POST(request: Request) {
 
     const level = profile?.cefr_level ?? "A1";
     const explanationLanguage = profile?.explanation_language ?? "es";
-    const audioBase64 = bytesToBase64(new Uint8Array(await audio.arrayBuffer()));
-
-    const transcriptionResult = await env.AI.run(MODELS.transcription, {
-      audio: audioBase64,
-      task: "transcribe",
-      language: "en",
-      vad_filter: true,
-      condition_on_previous_text: false,
-      initial_prompt: "The speaker is a learner practising spoken English. Preserve their English words; do not translate.",
-    });
-    const learnerText = extractText(transcriptionResult);
-    if (!learnerText) {
-      return jsonError("No he entendido la grabación. Prueba otra vez hablando un poco más cerca del micrófono.", 422);
+    let learnerText = "";
+    if (!startSession && audio instanceof File) {
+      const audioBase64 = bytesToBase64(new Uint8Array(await audio.arrayBuffer()));
+      const transcriptionResult = await env.AI.run(MODELS.transcription, {
+        audio: audioBase64,
+        task: "transcribe",
+        language: "en",
+        vad_filter: true,
+        condition_on_previous_text: false,
+        initial_prompt: "The speaker is a learner practising spoken English. Preserve their English words; do not translate.",
+      });
+      learnerText = extractText(transcriptionResult);
+      if (!learnerText) {
+        return jsonError("No he entendido la grabación. Prueba otra vez hablando un poco más cerca del micrófono.", 422);
+      }
     }
 
     const modelMessages = [
       { role: "system", content: buildSystemPrompt(level, explanationLanguage, scenarioId) },
       ...history.map((turn) => ({ role: turn.role, content: turn.text })),
-      { role: "user", content: learnerText },
+      {
+        role: "user",
+        content: startSession
+          ? "Start the session now. Introduce yourself briefly and ask the opening question for this scenario in one short spoken turn."
+          : learnerText,
+      },
     ];
 
     const conversationResult = await env.AI.run(MODELS.conversation, {
