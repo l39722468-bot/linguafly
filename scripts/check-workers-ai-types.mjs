@@ -24,6 +24,7 @@ const MIGRATION_FILES = [
   "src/app/api/translate/route.ts",
   "src/app/api/tutor-avatar/greet/route.ts",
   "src/app/api/tutor-avatar/turn/route.ts",
+  "src/app/api/tutor-avatar/speech/route.ts",
   "src/components/metodologias/RealtimeAITutor.tsx",
   "src/hooks/use-private-tutor.ts",
   "src/hooks/use-realtime-ai.ts",
