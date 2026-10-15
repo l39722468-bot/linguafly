@@ -141,7 +141,7 @@ export async function POST(request: Request) {
     const scenario = scenarios[scenarioId];
     const sessionConfig = {
       type: "realtime",
-      model: "gpt-realtime-mini",
+      model: "gpt-realtime-2.1-mini",
       instructions: buildInstructions(level, explanationLanguage, scenarioId),
       audio: {
         input: {
@@ -165,7 +165,10 @@ export async function POST(request: Request) {
 
     const formData = new FormData();
     formData.set("sdp", sdp);
-    formData.set("session", JSON.stringify(sessionConfig));
+    formData.set(
+      "session",
+      new Blob([JSON.stringify(sessionConfig)], { type: "application/json" }),
+    );
 
     const upstream = await fetch("https://api.openai.com/v1/realtime/calls", {
       method: "POST",
