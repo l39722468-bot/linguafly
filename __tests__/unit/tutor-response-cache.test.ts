@@ -100,7 +100,7 @@ describe("D1 tutor response bank and cache", () => {
       );
       expect(digest).toHaveBeenCalledTimes(1);
       expect(bind).toHaveBeenCalledTimes(1);
-      const [key, json] = bind.mock.calls[0] as [string, string];
+      const [key, json] = bind.mock.calls[0] as unknown as [string, string];
       expect(key).toMatch(/^cached:[0-9a-f]{64}$/);
       expect(key).not.toContain("present simple");
       expect(JSON.parse(json)).toEqual({
