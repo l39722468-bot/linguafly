@@ -1,29 +1,20 @@
 #!/usr/bin/env node
 /**
- * Cloudflare/OpenNext build wrapper — article-only deployment.
+ * Cloudflare/OpenNext build wrapper — public articles plus the interactive tutor.
  *
- * Linguafly's Cloudflare Worker (`linguaflyapp1`) only needs to serve the
- * article experience (article list/detail pages under /blog, the D1-backed
- * /api/articles/* routes, and SEO basics like /sitemap.xml). Everything
- * else — the course platform, phrase/vocabulary hubs, keyword pages, AI
- * tutor/evaluation APIs, etc. — is only needed by the full Next.js app
- * (Vercel/local dev) and, if left in place, makes the single OpenNext
- * server bundle exceed Cloudflare's 64 MiB uncompressed Worker limit
- * (previously ~74 MB in `.open-next/server-functions/default/handler.mjs`).
+ * The Cloudflare Worker serves the article experience (including D1-backed
+ * /api/articles/* routes and SEO basics) and /tutor-ia with its /api/tutor-avatar
+ * endpoints. Most course/platform pages and unrelated AI/evaluation APIs remain
+ * excluded because the complete Next.js route tree exceeds the Worker bundle
+ * limit. This keeps the published speaking tutor and article site on one Worker.
  *
- * This script temporarily moves the non-article routes (and swaps a
- * couple of shared files for lightweight, article-only versions) out of
- * `src/app` before running the OpenNext Cloudflare build, then restores
- * everything afterwards — regardless of whether the build succeeded —
- * so the full site is untouched in git history and in any other build
- * (e.g. `next build` for Vercel, `next dev` locally).
+ * This script temporarily moves excluded routes (and swaps a shared file for
+ * an article-only version) out of src/app before building, then restores them
+ * afterwards — regardless of whether the build succeeded.
  *
  * Usage: node scripts/cf-build.mjs <opennextjs-cloudflare-subcommand...>
  *   e.g. node scripts/cf-build.mjs build
  *        node scripts/cf-build.mjs build preview
- *
- * Each argument is run in turn as `npx opennextjs-cloudflare <subcommand>`
- * (all within the same pruned tree), stopping at the first failure.
  */
 import fs from 'node:fs';
 import path from 'node:path';
