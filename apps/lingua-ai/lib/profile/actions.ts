@@ -6,13 +6,25 @@ import { revalidatePath } from "next/cache";
 import { redirect } from "next/navigation";
 import { getAuth } from "@/lib/auth/server";
 
+export type SavedLearningProfile = {
+  cefrLevel: string | null;
+  explanationLanguage: string;
+  learningGoal: string | null;
+};
+
 export type LearningProfileFormState =
   | null
   | { status: "error"; message: string }
-  | { status: "success"; message: string };
+  | { status: "success"; message: string; profile: SavedLearningProfile };
 
 const CEFR_LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"] as const;
 const EXPLANATION_LANGUAGES = ["es", "ca", "en", "fr", "pt", "de", "it"] as const;
+
+type ProfileRow = {
+  cefr_level: string | null;
+  explanation_language: string;
+  learning_goal: string | null;
+};
 
 function readText(formData: FormData, key: string): string {
   const value = formData.get(key);
@@ -26,6 +38,8 @@ export async function saveLearningProfile(
   const level = readText(formData, "cefrLevel");
   const explanationLanguage = readText(formData, "explanationLanguage");
   const learningGoal = readText(formData, "learningGoal");
+  const expectedLevel = level || null;
+  const expectedGoal = learningGoal || null;
 
   if (level && !CEFR_LEVELS.includes(level as (typeof CEFR_LEVELS)[number])) {
     return { status: "error", message: "Selecciona un nivel de inglés válido." };
@@ -69,15 +83,43 @@ export async function saveLearningProfile(
            updated_at = CAST(strftime('%s', 'now') AS INTEGER) * 1000
        WHERE user_id = ?`,
     )
-      .bind(level || null, explanationLanguage, learningGoal || null, session.user.id)
+      .bind(expectedLevel, explanationLanguage, expectedGoal, session.user.id)
       .run();
+
+    // Do not report success unless D1 confirms the submitted values persisted.
+    const saved = await env.AUTH_DB.prepare(
+      "SELECT cefr_level, explanation_language, learning_goal FROM profiles WHERE user_id = ?",
+    )
+      .bind(session.user.id)
+      .first<ProfileRow>();
+
+    if (
+      !saved ||
+      saved.cefr_level !== expectedLevel ||
+      saved.explanation_language !== explanationLanguage ||
+      saved.learning_goal !== expectedGoal
+    ) {
+      return {
+        status: "error",
+        message:
+          "La base de datos no ha confirmado los cambios. Recarga la página e inténtalo de nuevo.",
+      };
+    }
+
+    revalidatePath("/app");
+    return {
+      status: "success",
+      message: "Preferencias guardadas correctamente.",
+      profile: {
+        cefrLevel: saved.cefr_level,
+        explanationLanguage: saved.explanation_language,
+        learningGoal: saved.learning_goal,
+      },
+    };
   } catch {
     return {
       status: "error",
       message: "No se han podido guardar las preferencias. Inténtalo de nuevo.",
     };
   }
-
-  revalidatePath("/app");
-  return { status: "success", message: "Preferencias guardadas correctamente." };
 }
