@@ -391,9 +391,7 @@ export default function TutorIAClient() {
                       </div>
                     </div>
                   ))}
-                  <div ref={messagesEndRef} />
-                </div>
-              </div>
+                  <div aria-hidden="true" />
 
               {sources.length > 0 && (
                 <div className="bg-slate-900/70 border border-cyan-500/20 rounded-2xl p-5">
@@ -439,6 +437,8 @@ export default function TutorIAClient() {
                   </div>
                 </div>
               )}
+                </div>
+              </div>
             </div>
           </div>
         )}
