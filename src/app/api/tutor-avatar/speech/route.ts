@@ -32,7 +32,7 @@ export async function POST(request: NextRequest) {
     if (!spokenSpanish && !pronunciationText) {
       return NextResponse.json({ error: 'No hay texto que reproducir.' }, { status: 400 });
     }
-    if (spokenSpanish.length > 1800 || pronunciationText.length > 300) {
+    if (spokenSpanish.length > 1800 || pronunciationText.length > 1400) {
       return NextResponse.json({ error: 'El texto de audio es demasiado largo.' }, { status: 413 });
     }
 
@@ -56,7 +56,7 @@ export async function POST(request: NextRequest) {
         text: pronunciationText,
         promise: synthesizeWorkersAIAudioBase64(
           pronunciationText,
-          tutorGender === 'female' ? 'athena' : 'draco',
+          tutorGender === 'female' ? 'pandora' : 'draco',
           WORKERS_AI_TTS_ENGLISH_MODEL,
         ).then((audioBase64) => ({ language: 'en' as const, text: pronunciationText, audioBase64 })),
       });
