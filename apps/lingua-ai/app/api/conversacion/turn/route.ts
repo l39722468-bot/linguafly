@@ -132,7 +132,7 @@ async function resultToAudioBytes(result: unknown): Promise<Uint8Array> {
 }
 
 function normaliseHistory(value: FormDataEntryValue | null): ChatTurn[] {
-  if (typeof value !== "string") return [];
+  if (typeof value !== "string" || value.length > 20_000) return [];
   try {
     const parsed: unknown = JSON.parse(value);
     if (!Array.isArray(parsed)) return [];
@@ -169,7 +169,7 @@ function buildSystemPrompt(
         : "Use natural, nuanced English, idioms where appropriate, and thoughtful follow-up questions without dominating the conversation.";
 
   const listeningMethod = scenarioId === "listening"
-    ? "LISTENING-FIRST ROUTINE: In your next reply, say a short natural message of 2-3 sentences, then ask exactly one comprehension question. Do not reveal the answer in advance. If the learner did not understand, repeat once more slowly; after another attempt, give one brief hint in " + explanationLanguageName + "."
+    ? "LISTENING-FIRST ROUTINE: At the start of a listening task, say a short natural message of 2-3 sentences and ask exactly one comprehension question without giving away the answer. When the learner responds, first acknowledge what they understood and assess that answer rather than immediately starting another story. If they did not understand, repeat the same message once more slowly; after another attempt, give one brief hint in " + explanationLanguageName + ". Once they understand, highlight one useful phrase and invite them to use it before beginning another short listening task."
     : "CONVERSATION ROUTINE: Make this a real task-based dialogue. React to what the learner actually said. Ask one question per turn, leave room for the learner to speak, and introduce no more than one or two useful expressions at a time.";
 
   return `You are LinguaFly AI, a patient, encouraging English teacher and conversation partner. The learner's CEFR level is ${level}.
