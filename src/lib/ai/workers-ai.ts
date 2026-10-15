@@ -180,6 +180,40 @@ export function arrayBufferToBase64(buffer: ArrayBuffer): string {
   return btoa(binary);
 }
 
+/**
+ * Generate MP3 audio using the Worker AI binding and return base64 for the
+ * legacy avatar-tutor response contract. No account token is needed at runtime.
+ */
+export async function synthesizeWorkersAIAudioBase64(
+  text: string,
+  speaker: string,
+): Promise<string> {
+  const ai = await getWorkersAIBinding();
+  const result = await ai.run(
+    WORKERS_AI_TTS_MODEL,
+    { text, speaker, encoding: "mp3" },
+    { returnRawResponse: true },
+  );
+
+  if (result instanceof Response) {
+    if (!result.ok) {
+      console.error("Workers AI TTS returned status:", result.status);
+      throw new Error("Workers AI TTS request failed.");
+    }
+    return arrayBufferToBase64(await result.arrayBuffer());
+  }
+
+  if (result instanceof ReadableStream) {
+    return arrayBufferToBase64(await new Response(result).arrayBuffer());
+  }
+
+  if (result instanceof ArrayBuffer) {
+    return arrayBufferToBase64(result);
+  }
+
+  throw new Error("Workers AI TTS returned an unsupported audio response.");
+}
+
 export function getAuraSpeaker(voiceId: unknown): string {
   const byLegacyId: Record<string, string> = {
     EXAVitQu4vr4xnSDxMaL: "asteria",
