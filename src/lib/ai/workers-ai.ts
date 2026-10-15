@@ -195,35 +195,36 @@ export async function synthesizeWorkersAIAudioBase64(
     { returnRawResponse: true },
   );
 
+  let audioBase64 = "";
   if (result instanceof Response) {
     if (!result.ok) {
       console.error("Workers AI TTS returned status:", result.status);
       throw new Error(`Workers AI TTS request failed with status ${result.status}.`);
     }
-    return arrayBufferToBase64(await result.arrayBuffer());
-  }
-
-  // Bindings can surface the model body as a stream (not always from the
-  // same JS realm), an ArrayBuffer, or a typed-array view.
-  if (result && typeof result === "object" && typeof (result as { getReader?: unknown }).getReader === "function") {
-    return arrayBufferToBase64(await new Response(result as ReadableStream<Uint8Array>).arrayBuffer());
-  }
-
-  if (result instanceof ArrayBuffer) {
-    return arrayBufferToBase64(result);
-  }
-
-  if (ArrayBuffer.isView(result)) {
+    audioBase64 = arrayBufferToBase64(await result.arrayBuffer());
+  } else if (
+    result &&
+    typeof result === "object" &&
+    typeof (result as { getReader?: unknown }).getReader === "function"
+  ) {
+    // Use duck typing because a stream may come from a different JS realm.
+    audioBase64 = arrayBufferToBase64(
+      await new Response(result as ReadableStream<Uint8Array>).arrayBuffer(),
+    );
+  } else if (result instanceof ArrayBuffer) {
+    audioBase64 = arrayBufferToBase64(result);
+  } else if (ArrayBuffer.isView(result)) {
     const view = result as ArrayBufferView;
     const bytes = new Uint8Array(view.buffer, view.byteOffset, view.byteLength);
-    return arrayBufferToBase64(bytes.slice().buffer);
+    audioBase64 = arrayBufferToBase64(bytes.slice().buffer);
+  } else if (result instanceof Blob) {
+    audioBase64 = arrayBufferToBase64(await result.arrayBuffer());
   }
 
-  if (result instanceof Blob) {
-    return arrayBufferToBase64(await result.arrayBuffer());
+  if (!audioBase64) {
+    throw new Error("Workers AI TTS returned empty or unsupported audio.");
   }
-
-  throw new Error("Workers AI TTS returned an unsupported audio response.");
+  return audioBase64;
 }
 
 export function getAuraSpeaker(voiceId: unknown): string {
