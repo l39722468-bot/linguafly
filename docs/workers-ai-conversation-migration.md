@@ -54,10 +54,10 @@ Ejecutar en un entorno con dependencias instaladas:
 2. \`npm run type-check\`
 3. \`npm run preview\` y probar el Worker de OpenNext con el binding \`AI\`.
 4. Probar cada endpoint con cuerpo vacío/inválido, mensajes largos y solicitudes repetidas; confirmar respuestas 400/413/429 y que ninguna credencial llegue al navegador.
-5. Verificar que el tutor recupera guías pertinentes para varios temas y que muestra solo enlaces reales devueltos por D1; si la búsqueda falla, la práctica debe continuar sin afirmar que consultó el blog.
-5. Validar en Chrome/Safari móvil: permiso de micrófono, silencio para cerrar turno, acentos, ruido, transcripción vacía, interrupción y desconexión.
-6. Medir p50/p95 de la transcripción, generación de texto y TTS por separado, coste real y duración por turno.
-7. Revisar los logs de Cloudflare y activar límites/alertas de gasto antes del despliegue público.
+5. Verificar que el tutor recupera guías pertinentes para varios temas y que muestra solo enlaces de Linguafly devueltos por D1; si la búsqueda falla, la práctica debe continuar sin afirmar que consultó el blog.
+6. Validar en Chrome/Safari móvil: permiso de micrófono, silencio para cerrar turno, acentos, ruido, transcripción vacía, interrupción y desconexión.
+7. Medir p50/p95 de la transcripción, generación de texto y TTS por separado, coste real y duración por turno.
+8. Revisar los logs de Cloudflare y activar límites/alertas de gasto antes del despliegue público.
 
 El build y las llamadas reales a Workers AI deben verificarse contra la versión publicada en Cloudflare antes de considerar la migración validada.
 
