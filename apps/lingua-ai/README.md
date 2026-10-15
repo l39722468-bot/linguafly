@@ -100,6 +100,18 @@ npm run d1:migrate:remote
 
 Este comando aplica las migraciones pendientes a `lingua-ai-auth-db` mediante la configuración de `apps/lingua-ai/wrangler.jsonc`. No ejecutes esta migración en `linguafly_db` ni cambies las migraciones de la web pública. Después puedes ejecutar `npx opennextjs-cloudflare build` y `npx wrangler deploy`.
 
+## Análisis de respuestas por tema
+
+La migración `migrations/0003_practice_question_results.sql` crea `practice_question_results`, que vincula cada una de las cinco respuestas validadas a su práctica y a un tema gramatical o de vocabulario. El servidor comprueba los identificadores de pregunta y calcula la puntuación usando el banco de preguntas versionado; no confía en la puntuación que envía el navegador.
+
+Tras actualizar esta app, aplica las migraciones pendientes desde `apps/lingua-ai` a la base D1 dedicada:
+
+```powershell
+npm run d1:migrate:remote
+```
+
+Después ejecuta la comprobación de tipos, compila y despliega el Worker. El resumen por temas empieza a poblarse con las prácticas realizadas desde que la migración esté aplicada; los intentos antiguos conservan su puntuación, pero no pueden reconstruir respuestas que nunca se guardaron.
+
 ## Preparar y desplegar el Worker
 
 El Worker configurado para esta app se llama `lingua-ai-app`. Su dominio deseado es `app.linguafly.app`, y la configuración personalizada se aplicará al desplegar.
