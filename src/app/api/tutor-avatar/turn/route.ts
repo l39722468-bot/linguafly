@@ -174,7 +174,7 @@ async function chatWithTutor(
     const system = messages.find((message) => message.role === "system");
     const fallbackSystem = (system?.content ?? "You are a helpful English tutor.")
       .replace(
-        /Respond ONLY with valid JSON in this exact format:[\s\S]*$/,
+        /(?:Respond ONLY with valid JSON in this exact format:|Devuelve SOLO un objeto JSON válido con este formato exacto:)[\s\S]*$/,
         "Respond with only your natural conversational reply in plain text. Do not output JSON or Markdown.",
       );
     const reply = await runWorkersAIText([
