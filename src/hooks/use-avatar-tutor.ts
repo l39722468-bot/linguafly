@@ -7,6 +7,7 @@ export interface TutorMessage {
   id: string;
   role: 'user' | 'tutor';
   text: string;
+  pronunciationText?: string;
 }
 
 export interface TutorFeedback {
@@ -53,28 +54,109 @@ export function useAvatarTutor(config: UseTutorConfig) {
     } catch { /* ignore */ }
   }, []);
 
-  const playAudioBase64 = useCallback((base64: string): Promise<void> => {
-    return new Promise((resolve) => {
-      if (audioRef.current) {
-        audioRef.current.pause();
-      }
-      const audio = new Audio(`data:audio/mpeg;base64,${base64}`);
-      audioRef.current = audio;
-      setOrbState('speaking');
-      audio.onended = () => {
+  const playAudioSegments = useCallback((
+    segments: { language: 'es' | 'en'; audioBase64: string }[],
+  ): Promise<boolean> => new Promise((resolve) => {
+    if (audioRef.current) audioRef.current.pause();
+    const playable = segments.filter((segment) => segment.audioBase64);
+    if (playable.length === 0) {
+      setOrbState('idle');
+      resolve(false);
+      return;
+    }
+
+    let index = 0;
+    let played = 0;
+    let playbackFailed = false;
+    setOrbState('speaking');
+
+    const playNext = () => {
+      if (index >= playable.length) {
         setOrbState('idle');
-        resolve();
+        resolve(played > 0 && !playbackFailed);
+        return;
+      }
+
+      const segment = playable[index++];
+      const audio = new Audio(`data:audio/mpeg;base64,${segment.audioBase64}`);
+      audio.preload = 'auto';
+      audioRef.current = audio;
+      audio.onended = () => {
+        played += 1;
+        playNext();
       };
       audio.onerror = () => {
-        setOrbState('idle');
-        resolve();
+        playbackFailed = true;
+        playNext();
       };
       audio.play().catch(() => {
-        setOrbState('idle');
-        resolve();
+        playbackFailed = true;
+        playNext();
       });
-    });
-  }, []);
+    };
+
+    playNext();
+  }), []);
+
+  const requestTutorSpeech = useCallback(async (
+    spokenSpanish: string,
+    pronunciationText = '',
+  ): Promise<void> => {
+    if (!spokenSpanish.trim() && !pronunciationText.trim()) {
+      setOrbState('idle');
+      return;
+    }
+
+    setOrbState('thinking');
+    try {
+      const response = await fetch('/api/tutor-avatar/speech', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          spokenSpanish,
+          pronunciationText,
+          tutorGender: config.tutorGender,
+        }),
+      });
+      const data = await response.json().catch(() => ({})) as Record<string, unknown>;
+      if (!response.ok) {
+        throw new Error(typeof data.error === 'string'
+          ? data.error
+          : 'No he podido preparar la voz. La respuesta escrita sigue disponible.');
+      }
+
+      const segments = Array.isArray(data.segments)
+        ? data.segments.filter((segment): segment is { language: 'es' | 'en'; audioBase64: string } =>
+            Boolean(segment && typeof segment === 'object' &&
+              ((segment as Record<string, unknown>).language === 'es' || (segment as Record<string, unknown>).language === 'en') &&
+              typeof (segment as Record<string, unknown>).audioBase64 === 'string' &&
+              (segment as Record<string, unknown>).audioBase64)
+          )
+        : [];
+      if (segments.length === 0) {
+        throw new Error('No se ha generado audio. Puedes leer la respuesta y volver a intentarlo.');
+      }
+
+      const played = await playAudioSegments(segments);
+      if (!played) {
+        setError('La respuesta está escrita, pero el navegador no ha podido reproducir el audio. Comprueba el volumen e inténtalo de nuevo.');
+      } else if (data.partial === true) {
+        const failed = Array.isArray(data.failedLanguages) ? data.failedLanguages : [];
+        setError(failed.includes('en')
+          ? 'La explicación se ha reproducido, pero no se ha podido generar la pronunciación en inglés.'
+          : 'Se ha reproducido solo una parte del audio.');
+      }
+    } catch (error: unknown) {
+      setOrbState('idle');
+      setError(error instanceof Error
+        ? error.message
+        : 'El audio no está disponible ahora. La respuesta escrita sigue disponible.');
+    }
+  }, [config.tutorGender, playAudioSegments]);
+
+  const replayPronunciation = useCallback(async (phrase: string) => {
+    await requestTutorSpeech('', phrase);
+  }, [requestTutorSpeech]);
 
   const attachImage = useCallback((base64: string) => {
     setPendingImage(base64);
@@ -112,7 +194,6 @@ export function useAvatarTutor(config: UseTutorConfig) {
       }
 
       const greeting = typeof payload.greeting === 'string' ? payload.greeting : '';
-      const audioBase64 = typeof payload.audioBase64 === 'string' ? payload.audioBase64 : '';
       if (!greeting) throw new Error('El tutor no ha devuelto un mensaje inicial. Inténtalo de nuevo.');
 
       const id = crypto.randomUUID();
@@ -120,19 +201,13 @@ export function useAvatarTutor(config: UseTutorConfig) {
       historyRef.current = [{ role: 'assistant', content: greeting }];
 
       setIsActive(true);
-      if (audioBase64) {
-        await playAudioBase64(audioBase64);
-      } else {
-        setOrbState('idle');
-        if (payload.audioUnavailable === true) {
-          setError('El tutor está listo, pero el audio inicial no se pudo generar. Puedes hablar y continuar; estamos recuperando la voz.');
-        }
-      }
+      // Render the welcome immediately, then synthesize and play it asynchronously.
+      await requestTutorSpeech(greeting, '');
     } catch (e: unknown) {
       setError(e instanceof Error ? e.message : 'No se pudo iniciar el tutor. Inténtalo de nuevo.');
       setOrbState('idle');
     }
-  }, [config, playAudioBase64]);
+  }, [config, requestTutorSpeech]);
 
   const startListening = useCallback(async () => {
     if (orbState !== 'idle') return;
@@ -195,8 +270,9 @@ export function useAvatarTutor(config: UseTutorConfig) {
 
           const transcription = typeof data.transcription === 'string' ? data.transcription : '';
           const reply = typeof data.reply === 'string' ? data.reply : '';
+          const spokenSpanish = typeof data.spokenSpanish === 'string' ? data.spokenSpanish : reply;
+          const pronunciationText = typeof data.pronunciationText === 'string' ? data.pronunciationText : '';
           const fb = data.feedback as TutorFeedback | null | undefined;
-          const replyAudio = typeof data.audioBase64 === 'string' ? data.audioBase64 : '';
 
           if (data.levelDetected === true || data.topicDetected === true) {
             config.onPreferencesDetected?.({
@@ -221,7 +297,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
           setMessages((prev) => [
             ...prev,
             { id: userId, role: 'user', text: transcription },
-            { id: tutorId2, role: 'tutor', text: reply },
+            { id: tutorId2, role: 'tutor', text: reply, ...(pronunciationText ? { pronunciationText } : {}) },
           ]);
 
           historyRef.current = [
@@ -233,17 +309,9 @@ export function useAvatarTutor(config: UseTutorConfig) {
           if (fb) setFeedback(fb);
           else setFeedback(null);
 
-          if (replyAudio) {
-            await playAudioBase64(replyAudio);
-            if (data.audioUnavailable === true) {
-              setError('La respuesta está en la conversación, pero no se pudo generar el audio de voz.');
-            }
-          } else {
-            setOrbState('idle');
-            if (data.audioUnavailable === true || data.audioBase64 === '') {
-              setError('La respuesta está en la conversación, pero no se pudo generar el audio de voz.');
-            }
-          }
+          // Do not wait for TTS before displaying the answer; synthesize speech
+          // in a separate request and play Spanish explanation then English example.
+          await requestTutorSpeech(spokenSpanish, pronunciationText);
         } catch (e: unknown) {
           setError(e instanceof Error ? e.message : 'No se ha podido procesar tu respuesta. Inténtalo de nuevo.');
           setOrbState('idle');
@@ -256,7 +324,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
       setError('No se pudo acceder al micrófono. Revisa los permisos.');
       setOrbState('idle');
     }
-  }, [orbState, config, playAudioBase64]);
+  }, [orbState, config, requestTutorSpeech]);
 
   const stopListening = useCallback(() => {
     if (mediaRecorderRef.current && orbState === 'listening') {
@@ -287,6 +355,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
     stopListening,
     stop,
     unlockAudio,
+    replayPronunciation,
     attachImage,
     clearImage,
   };
