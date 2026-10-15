@@ -15,17 +15,26 @@ export interface TutorFeedback {
   explanation: string;
 }
 
+export interface TutorSource {
+  title: string;
+  url: string;
+  category: string;
+  level?: string | null;
+}
+
 interface UseTutorConfig {
   tutorId: string;
   tutorGender: 'male' | 'female';
   level: string;
   topic: string;
+  onPreferencesDetected?: (preferences: { level?: string; topic?: string }) => void;
 }
 
 export function useAvatarTutor(config: UseTutorConfig) {
   const [orbState, setOrbState] = useState<OrbState>('idle');
   const [messages, setMessages] = useState<TutorMessage[]>([]);
   const [feedback, setFeedback] = useState<TutorFeedback | null>(null);
+  const [sources, setSources] = useState<TutorSource[]>([]);
   const [error, setError] = useState<string | null>(null);
   const [isActive, setIsActive] = useState(false);
 
@@ -79,6 +88,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
     setError(null);
     setMessages([]);
     setFeedback(null);
+    setSources([]);
     setPendingImage(null);
     historyRef.current = [];
     setOrbState('thinking');
@@ -93,17 +103,33 @@ export function useAvatarTutor(config: UseTutorConfig) {
           topic: config.topic,
         }),
       });
-      if (!res.ok) throw new Error('Failed to greet');
-      const { greeting, audioBase64 } = await res.json();
+      const payload = await res.json().catch(() => ({})) as Record<string, unknown>;
+      if (!res.ok) {
+        const message = typeof payload.error === 'string'
+          ? payload.error
+          : `No se pudo iniciar el tutor (HTTP ${res.status}).`;
+        throw new Error(message);
+      }
+
+      const greeting = typeof payload.greeting === 'string' ? payload.greeting : '';
+      const audioBase64 = typeof payload.audioBase64 === 'string' ? payload.audioBase64 : '';
+      if (!greeting) throw new Error('El tutor no ha devuelto un mensaje inicial. Inténtalo de nuevo.');
 
       const id = crypto.randomUUID();
       setMessages([{ id, role: 'tutor', text: greeting }]);
       historyRef.current = [{ role: 'assistant', content: greeting }];
 
       setIsActive(true);
-      await playAudioBase64(audioBase64);
-    } catch (e: any) {
-      setError(e.message);
+      if (audioBase64) {
+        await playAudioBase64(audioBase64);
+      } else {
+        setOrbState('idle');
+        if (payload.audioUnavailable === true) {
+          setError('El tutor está listo, pero el audio inicial no se pudo generar. Puedes hablar y continuar; estamos recuperando la voz.');
+        }
+      }
+    } catch (e: unknown) {
+      setError(e instanceof Error ? e.message : 'No se pudo iniciar el tutor. Inténtalo de nuevo.');
       setOrbState('idle');
     }
   }, [config, playAudioBase64]);
@@ -153,16 +179,41 @@ export function useAvatarTutor(config: UseTutorConfig) {
             }),
           });
 
-          if (!res.ok) throw new Error('Turn failed');
-          const data = await res.json();
+          const data = await res.json().catch(() => ({})) as Record<string, unknown>;
+          if (!res.ok) {
+            const message = typeof data.error === 'string'
+              ? data.error
+              : `El tutor no ha podido responder (HTTP ${res.status}).`;
+            throw new Error(message);
+          }
 
-          if (data.noSpeechDetected) {
+          if (data.noSpeechDetected === true) {
             setError('No te escuché. Mantén pulsado el micrófono mientras hablas e inténtalo de nuevo.');
             setOrbState('idle');
             return;
           }
 
-          const { transcription, reply, feedback: fb, audioBase64: replyAudio } = data;
+          const transcription = typeof data.transcription === 'string' ? data.transcription : '';
+          const reply = typeof data.reply === 'string' ? data.reply : '';
+          const fb = data.feedback as TutorFeedback | null | undefined;
+          const replyAudio = typeof data.audioBase64 === 'string' ? data.audioBase64 : '';
+
+          if (data.levelDetected === true || data.topicDetected === true) {
+            config.onPreferencesDetected?.({
+              ...(data.levelDetected === true && typeof data.level === 'string' ? { level: data.level } : {}),
+              ...(data.topicDetected === true && typeof data.topic === 'string' ? { topic: data.topic } : {}),
+            });
+          }
+
+          const returnedSources = Array.isArray(data.sources)
+            ? data.sources.filter((source): source is TutorSource =>
+                Boolean(source && typeof source === 'object' &&
+                  typeof (source as Record<string, unknown>).title === 'string' &&
+                  typeof (source as Record<string, unknown>).url === 'string' &&
+                  typeof (source as Record<string, unknown>).category === 'string')
+              ).slice(0, 3)
+            : [];
+          setSources(returnedSources);
 
           const userId = crypto.randomUUID();
           const tutorId2 = crypto.randomUUID();
@@ -182,9 +233,19 @@ export function useAvatarTutor(config: UseTutorConfig) {
           if (fb) setFeedback(fb);
           else setFeedback(null);
 
-          await playAudioBase64(replyAudio);
-        } catch (e: any) {
-          setError(e.message);
+          if (replyAudio) {
+            await playAudioBase64(replyAudio);
+            if (data.audioUnavailable === true) {
+              setError('La respuesta está en la conversación, pero no se pudo generar el audio de voz.');
+            }
+          } else {
+            setOrbState('idle');
+            if (data.audioUnavailable === true || data.audioBase64 === '') {
+              setError('La respuesta está en la conversación, pero no se pudo generar el audio de voz.');
+            }
+          }
+        } catch (e: unknown) {
+          setError(e instanceof Error ? e.message : 'No se ha podido procesar tu respuesta. Inténtalo de nuevo.');
           setOrbState('idle');
         }
       };
@@ -217,6 +278,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
     orbState,
     messages,
     feedback,
+    sources,
     error,
     isActive,
     pendingImage,
