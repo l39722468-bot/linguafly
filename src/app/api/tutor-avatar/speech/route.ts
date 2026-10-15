@@ -5,6 +5,7 @@ import {
   WORKERS_AI_TTS_ENGLISH_MODEL,
   WORKERS_AI_TTS_SPANISH_MODEL,
 } from '@/lib/ai/workers-ai';
+import { getOrCreateTutorAudio } from '@/lib/ai/tutor-audio-cache';
 
 export const maxDuration = 45;
 
@@ -43,10 +44,15 @@ export async function POST(request: NextRequest) {
       tasks.push({
         language: 'es',
         text: spokenSpanish,
-        promise: synthesizeWorkersAIAudioBase64(
+        promise: getOrCreateTutorAudio(
           spokenSpanish,
           tutorGender === 'female' ? 'carina' : 'alvaro',
           WORKERS_AI_TTS_SPANISH_MODEL,
+          () => synthesizeWorkersAIAudioBase64(
+            spokenSpanish,
+            tutorGender === 'female' ? 'carina' : 'alvaro',
+            WORKERS_AI_TTS_SPANISH_MODEL,
+          ),
         ).then((audioBase64) => ({ language: 'es' as const, text: spokenSpanish, audioBase64 })),
       });
     }
@@ -54,10 +60,15 @@ export async function POST(request: NextRequest) {
       tasks.push({
         language: 'en',
         text: pronunciationText,
-        promise: synthesizeWorkersAIAudioBase64(
+        promise: getOrCreateTutorAudio(
           pronunciationText,
           tutorGender === 'female' ? 'pandora' : 'draco',
           WORKERS_AI_TTS_ENGLISH_MODEL,
+          () => synthesizeWorkersAIAudioBase64(
+            pronunciationText,
+            tutorGender === 'female' ? 'pandora' : 'draco',
+            WORKERS_AI_TTS_ENGLISH_MODEL,
+          ),
         ).then((audioBase64) => ({ language: 'en' as const, text: pronunciationText, audioBase64 })),
       });
     }
