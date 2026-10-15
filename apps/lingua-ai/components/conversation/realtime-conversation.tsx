@@ -3,7 +3,7 @@
 import Link from "next/link";
 import { useCallback, useEffect, useRef, useState } from "react";
 
-type ScenarioId = "free" | "restaurant" | "travel" | "interview";
+type ScenarioId = "free" | "listening" | "restaurant" | "travel" | "interview";
 type ConnectionStatus = "idle" | "connecting" | "connected";
 type TranscriptMessage = {
   id: string;
@@ -14,6 +14,7 @@ type TranscriptMessage = {
 
 const scenarios: Array<{ id: ScenarioId; title: string; description: string }> = [
   { id: "free", title: "Conversación libre", description: "Habla de tu día, tus aficiones o cualquier tema." },
+  { id: "listening", title: "Escucha y responde", description: "Escucha primero sin leer la transcripción y responde en inglés. Puedes revelar el texto después de intentarlo." },
   { id: "restaurant", title: "En un restaurante", description: "Pide comida, pregunta por el menú y resuelve una situación." },
   { id: "travel", title: "Viajes y aeropuerto", description: "Practica situaciones de viaje, hotel y transporte." },
   { id: "interview", title: "Entrevista de trabajo", description: "Practica respuestas profesionales y preguntas habituales." },
@@ -47,6 +48,7 @@ export function RealtimeConversation({
   const [isSpeaking, setIsSpeaking] = useState(false);
   const [isMuted, setIsMuted] = useState(false);
   const [messages, setMessages] = useState<TranscriptMessage[]>([]);
+  const [showTranscript, setShowTranscript] = useState(false);
   const [error, setError] = useState<string | null>(null);
 
   const peerConnectionRef = useRef<RTCPeerConnection | null>(null);
@@ -184,6 +186,7 @@ export function RealtimeConversation({
     setStatus("connecting");
     setError(null);
     setMessages([]);
+    setShowTranscript(false);
     setIsMuted(false);
 
     try {
@@ -301,8 +304,8 @@ export function RealtimeConversation({
           Habla inglés con tu tutor IA
         </h1>
         <p className="mt-4 max-w-2xl text-base leading-7 text-stone-600">
-          Conversa en tiempo real con voz y micrófono. Tu tutor adapta el inglés a tu nivel,
-          mantiene el diálogo y te ofrece correcciones breves cuando pueden ayudarte.
+          Practica con técnicas educativas para escuchar y conversar: inglés ajustado a tu nivel,
+          preguntas de comprensión, tiempo para responder, repetición guiada y correcciones útiles.
         </p>
       </header>
 
@@ -426,11 +429,13 @@ export function RealtimeConversation({
                   Tu conversación aparecerá aquí
                 </h3>
                 <p className="mt-2 max-w-sm text-sm leading-6 text-stone-600">
-                  Pulsa «Empezar conversación», permite el micrófono y saluda a tu tutor. Escucharás su respuesta y verás el diálogo escrito.
+                  Pulsa «Empezar conversación» y permite el micrófono. En «Escucha y responde», la transcripción del tutor permanece oculta para que practiques el oído; podrás mostrarla después de intentarlo.
                 </p>
               </div>
             ) : (
-              messages.map((message) => (
+              messages
+                .filter((message) => scenario !== "listening" || message.role === "user" || showTranscript)
+                .map((message) => (
                 <div key={message.id} className={`flex ${message.role === "user" ? "justify-end" : "justify-start"}`}>
                   <article className={`max-w-[88%] rounded-2xl px-4 py-3 shadow-sm sm:max-w-[82%] ${message.role === "user" ? "rounded-br-sm bg-stone-900 text-white" : "rounded-bl-sm border border-stone-200 bg-white text-stone-900"}`}>
                     <p className={`mb-1 text-xs font-semibold ${message.role === "user" ? "text-stone-300" : "text-stone-500"}`}>
@@ -444,6 +449,15 @@ export function RealtimeConversation({
                 </div>
               ))
             )}
+            {scenario === "listening" && status !== "idle" ? (
+              <button
+                type="button"
+                onClick={() => setShowTranscript((visible) => !visible)}
+                className="rounded-lg border border-stone-300 bg-white px-4 py-2 text-sm font-medium text-stone-800 hover:bg-stone-100"
+              >
+                {showTranscript ? "Ocultar transcripción del tutor" : "Mostrar transcripción del tutor"}
+              </button>
+            ) : null}
             <div ref={transcriptEndRef} />
           </div>
           <audio ref={audioRef} autoPlay playsInline className="hidden" />
