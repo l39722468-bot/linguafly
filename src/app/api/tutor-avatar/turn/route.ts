@@ -58,7 +58,7 @@ function buildSystemPrompt(
 
   const knowledgeContext = options.articles.length > 0
     ? options.articles.map((article, index) =>
-        `[${index + 1}] ${article.title} (${article.category}${article.level ? `, ${article.level}` : ''})\nURL: ${article.url}\nExtracto del artículo: ${article.excerpt.slice(0, 1200)}`
+        `[${index + 1}] ${article.title} (${article.category}${article.level ? `, ${article.level}` : ''})\nURL: ${article.url}\nExtracto del artículo: ${article.excerpt.slice(0, 800)}`
       ).join('\n\n')
     : 'No se han encontrado extractos relevantes del blog para este turno. Usa conocimientos generales de enseñanza del inglés y no afirmes haber consultado una guía.';
 
@@ -188,7 +188,7 @@ function parseFallbackAnswer(raw: string): Omit<TutorAnswer, 'feedback'> {
 async function chatWithTutor(messages: WorkersAIMessage[]): Promise<TutorAnswer> {
   let result: Record<string, unknown>;
   try {
-    result = await runWorkersAIJson(messages, { temperature: 0.65, maxTokens: 300 });
+    result = await runWorkersAIJson(messages, { temperature: 0.65, maxTokens: 260 });
   } catch (error: unknown) {
     console.error(
       "Structured tutor response failed; retrying in a compact audio-friendly format:",
@@ -207,7 +207,7 @@ No añadas otros marcadores ni texto fuera de esas tres líneas.`,
     const raw = await runWorkersAIText([
       { role: "system", content: fallbackSystem },
       ...messages.filter((message) => message.role !== "system"),
-    ], { temperature: 0.65, maxTokens: 230 });
+    ], { temperature: 0.65, maxTokens: 200 });
     return { ...parseFallbackAnswer(raw), feedback: null };
   }
 
@@ -317,29 +317,30 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ noSpeechDetected: true }, { status: 200 });
     }
 
-    let imageDescription = '';
-    if (imageBase64) {
-      failureStage = 'image_analysis';
-      try {
-        imageDescription = await analyzeImageWithVision(imageBase64);
-      } catch (error: unknown) {
-        console.error(
-          'Tutor image analysis failed:',
-          error instanceof Error ? error.name : 'UnknownError',
-        );
-      }
-    }
-
     const firstStudentTurn = !history.some((message) => message.role === 'user');
     const preferences = inferTutorPreferences(rawTranscription, { level, topic });
     const effectiveLevel = preferences.level;
     const effectiveTopic = preferences.topic;
+
+    // Image analysis and D1 article retrieval are independent after transcription,
+    // so run them concurrently instead of making the user wait for both in series.
+    failureStage = 'context_retrieval';
+    const [articles, imageDescription] = await Promise.all([
+      searchTutorKnowledge(rawTranscription, effectiveTopic, 2),
+      imageBase64
+        ? analyzeImageWithVision(imageBase64).catch((error: unknown) => {
+            console.error(
+              'Tutor image analysis failed:',
+              error instanceof Error ? error.name : 'UnknownError',
+            );
+            return '';
+          })
+        : Promise.resolve(''),
+    ]);
+
     const userContent = imageDescription
       ? `[The student shared an image. Image description: ${imageDescription}]\n\nStudent said: ${rawTranscription}`
       : rawTranscription;
-
-    failureStage = 'blog_retrieval';
-    const articles = await searchTutorKnowledge(rawTranscription, effectiveTopic, 3);
     const messages: WorkersAIMessage[] = [
       {
         role: 'system',
@@ -386,6 +387,7 @@ export async function POST(request: NextRequest) {
       transcription: "No he podido transcribir el audio. Habla unos segundos con claridad y vuelve a intentarlo.",
       image_analysis: "No he podido analizar la imagen. Prueba sin imagen o vuelve a adjuntarla.",
       blog_retrieval: "No he podido consultar las guías en este turno. Vuelve a intentarlo.",
+      context_retrieval: "No he podido preparar el contexto de esta conversación. Vuelve a intentarlo.",
       text_generation: "He recibido el audio, pero no he podido generar una respuesta. Inténtalo de nuevo.",
       request: "No he podido procesar este turno. Comprueba la conexión e inténtalo de nuevo.",
     };
