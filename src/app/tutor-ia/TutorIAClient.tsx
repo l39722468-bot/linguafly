@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useRef, useEffect } from 'react';
-import { Mic, MicOff, Power, RotateCcw, ArrowLeft, AlertCircle, CheckCircle, Camera, X } from 'lucide-react';
+import { Mic, MicOff, Power, RotateCcw, ArrowLeft, AlertCircle, CheckCircle, Camera, X, Volume2 } from 'lucide-react';
 import { useAvatarTutor } from '@/hooks/use-avatar-tutor';
 import AvatarOrb from '@/components/tutor/AvatarOrb';
 import { Navigation } from '@/components/sections/Navigation';
@@ -77,6 +77,8 @@ export default function TutorIAClient() {
     stop,
     attachImage,
     clearImage,
+    replayPronunciation,
+    replayTutorSpeech,
   } = useAvatarTutor({
     tutorId: selectedTutor.id,
     tutorGender: selectedTutor.gender,
@@ -323,7 +325,35 @@ export default function TutorIAClient() {
                         <p className="text-[10px] font-black uppercase tracking-widest opacity-60 mb-1">
                           {msg.role === 'user' ? 'Tú' : selectedTutor.name}
                         </p>
-                        {msg.text}
+                        <p>{msg.text}</p>
+                        {msg.role === 'tutor' && (
+                          <div className="mt-3 flex flex-wrap gap-2 border-t border-white/15 pt-2">
+                            {msg.spokenSpanish && (
+                              <button
+                                type="button"
+                                onClick={() => { void replayTutorSpeech(msg.spokenSpanish ?? msg.text, ''); }}
+                                disabled={orbState !== 'idle'}
+                                className="inline-flex items-center gap-1.5 rounded-lg bg-black/10 px-3 py-1.5 text-xs font-semibold hover:bg-black/20 disabled:opacity-40 transition-colors"
+                                aria-label="Repetir la explicación en español"
+                              >
+                                <Volume2 className="w-3.5 h-3.5" />
+                                Repetir explicación
+                              </button>
+                            )}
+                            {msg.pronunciationText && (
+                              <button
+                                type="button"
+                                onClick={() => { void replayPronunciation(msg.pronunciationText ?? ''); }}
+                                disabled={orbState !== 'idle'}
+                                className="inline-flex items-center gap-1.5 rounded-lg bg-black/10 px-3 py-1.5 text-xs font-semibold hover:bg-black/20 disabled:opacity-40 transition-colors"
+                                aria-label={`Escuchar la pronunciación en inglés: ${msg.pronunciationText}`}
+                              >
+                                <Volume2 className="w-3.5 h-3.5" />
+                                Escuchar pronunciación (inglés)
+                              </button>
+                            )}
+                          </div>
+                        )}
                       </div>
                     </div>
                   ))}
