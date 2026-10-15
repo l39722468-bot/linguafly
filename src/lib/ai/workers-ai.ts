@@ -154,6 +154,32 @@ export async function runWorkersAIJson(
   return parseJsonObject(getTextFromResult(result));
 }
 
+/**
+ * Generate a structured JSON answer with the lightweight fallback model.
+ * Intended for a short repair pass after the primary model has already answered;
+ * keep this path fast rather than paying for another full-size model call.
+ */
+export async function runWorkersAIJsonFast(
+  messages: WorkersAIMessage[],
+  options: { temperature?: number; maxTokens?: number } = {},
+): Promise<Record<string, unknown>> {
+  const ai = await getWorkersAIBinding();
+  const result = await ai.run(WORKERS_AI_FALLBACK_CHAT_MODEL, {
+    messages,
+    temperature: options.temperature ?? 0.2,
+    max_tokens: options.maxTokens ?? 800,
+  });
+
+  if (result && typeof result === "object") {
+    const outer = result as Record<string, unknown>;
+    if (outer.response && typeof outer.response === "object" && !Array.isArray(outer.response)) {
+      return outer.response as Record<string, unknown>;
+    }
+  }
+
+  return parseJsonObject(getTextFromResult(result));
+}
+
 export async function runWorkersAIText(
   messages: WorkersAIMessage[],
   options: { temperature?: number; maxTokens?: number } = {},
