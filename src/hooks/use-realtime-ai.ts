@@ -109,8 +109,11 @@ export function useRealtimeAI() {
         throw new Error('No se pudo transcribir el audio. Comprueba la conexión e inténtalo de nuevo.');
       }
 
-      const transcriptionData = await transcriptionResponse.json();
+      const transcriptionPayload: unknown = await transcriptionResponse.json();
       if (!sessionActiveRef.current) return;
+      const transcriptionData = transcriptionPayload && typeof transcriptionPayload === 'object'
+        ? transcriptionPayload as Record<string, unknown>
+        : {};
       const userText = typeof transcriptionData.transcription === 'string'
         ? transcriptionData.transcription.trim()
         : '';
@@ -142,10 +145,13 @@ export function useRealtimeAI() {
         throw new Error('El tutor no está disponible ahora. Inténtalo de nuevo.');
       }
 
-      const chatData = await chatResponse.json();
+      const chatPayload: unknown = await chatResponse.json();
       if (!sessionActiveRef.current) return;
-      if (!chatData.success || typeof chatData.reply !== 'string' || !chatData.reply.trim()) {
-        throw new Error(chatData.error || 'El tutor no ha podido responder.');
+      const chatData = chatPayload && typeof chatPayload === 'object'
+        ? chatPayload as Record<string, unknown>
+        : {};
+      if (chatData.success !== true || typeof chatData.reply !== 'string' || !chatData.reply.trim()) {
+        throw new Error(typeof chatData.error === 'string' ? chatData.error : 'El tutor no ha podido responder.');
       }
 
       const reply = chatData.reply.trim();
@@ -174,8 +180,6 @@ export function useRealtimeAI() {
       }
 
       const speechBlob = await speechResponse.blob();
-      if (!sessionActiveRef.current) return;
-
       if (!sessionActiveRef.current) return;
       const objectUrl = URL.createObjectURL(speechBlob);
       audioUrlRef.current = objectUrl;
