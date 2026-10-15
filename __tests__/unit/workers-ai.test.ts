@@ -2,14 +2,34 @@ jest.mock("@opennextjs/cloudflare", () => ({
   getCloudflareContext: jest.fn(),
 }));
 
+import { getCloudflareContext } from "@opennextjs/cloudflare";
 import {
   arrayBufferToBase64,
   getAuraSpeaker,
   parseJsonObject,
+  runWorkersAIJson,
   validateChatMessages,
+  WORKERS_AI_CHAT_MODEL,
 } from "@/lib/ai/workers-ai";
 
 describe("Workers AI adapter helpers", () => {
+  it("does not request JSON Mode from the GLM binding", async () => {
+    const run = jest.fn().mockResolvedValue({ response: '{"reply":"Hello"}' });
+    (getCloudflareContext as jest.Mock).mockResolvedValue({ env: { AI: { run } } });
+
+    await expect(runWorkersAIJson([
+      { role: "system", content: "Return a JSON object." },
+      { role: "user", content: "Hello" },
+    ])).resolves.toEqual({ reply: "Hello" });
+
+    expect(run).toHaveBeenCalledWith(WORKERS_AI_CHAT_MODEL, expect.not.objectContaining({
+      response_format: expect.anything(),
+    }));
+    expect(run).toHaveBeenCalledWith(WORKERS_AI_CHAT_MODEL, expect.objectContaining({
+      max_completion_tokens: 400,
+    }));
+  });
+
   describe("parseJsonObject", () => {
     it("parses a normal JSON object", () => {
       expect(parseJsonObject('{"reply":"Hello","feedback":null}')).toEqual({
