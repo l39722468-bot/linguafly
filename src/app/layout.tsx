@@ -77,6 +77,16 @@ export default function RootLayout({
   return (
     <html lang="es" className="scroll-smooth" suppressHydrationWarning>
       <head>
+        {/* Google Tag Manager: contenedor GTM-MHJMCLZB */}
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MHJMCLZB');`,
+          }}
+        />
         {/* iubenda debe ejecutarse antes de las etiquetas que autobloquea. */}
         <IubendaConsent />
         {/* Consent Mode por defecto de la etiqueta UET (Bing): ad_storage denied. */}
@@ -109,6 +119,16 @@ export default function RootLayout({
         <WebsiteSchema />
       </head>
       <body className="antialiased bg-white text-slate-900 font-sans" suppressHydrationWarning>
+        {/* Google Tag Manager (noscript): debe ir justo después de abrir body */}
+        <noscript>
+          <iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-MHJMCLZB"
+            height="0"
+            width="0"
+            style={{ display: "none", visibility: "hidden" }}
+            title="Google Tag Manager"
+          />
+        </noscript>
         <ConsentGatedAdSense />
         <UetConsent />
         <DeferredMonetagAd />
