@@ -228,7 +228,6 @@ export function RealtimeConversation({
     }
     if (status !== "idle" || isPlayingAudio) return;
     if (!hasStarted) {
-      setHasStarted(true);
       void sendTurn(null, true);
       return;
     }
