@@ -17,18 +17,18 @@ type AudioCacheEnv = {
 
 const MAX_AUDIO_BASE64_CHARS = 1_500_000;
 const AUDIO_CACHE_TTL_DAYS = 180;
-const PRIVATE_TEXT = /\\b(?:my (?:full )?name is|my address is|my phone(?: number)? is|my email is|my password is|mi nombre es|mi direcci[oó]n es|mi tel[eé]fono es|mi correo(?: electr[oó]nico)? es|mi contrase[nñ]a es|i live at|vivo en la calle)\\b/i;
-const EMAIL_PATTERN = /\\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\\.[A-Z]{2,}\\b/i;
+const PRIVATE_TEXT = /\b(?:my (?:full )?name is|my address is|my phone(?: number)? is|my email is|my password is|mi nombre es|mi direcci[oó]n es|mi tel[eé]fono es|mi correo(?: electr[oó]nico)? es|mi contrase[nñ]a es|i live at|vivo en la calle)\b/i;
+const EMAIL_PATTERN = /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/i;
 
 function normalizeAudioText(text: string): string {
-  return text.normalize("NFKC").replace(/\\s+/g, " ").trim();
+  return text.normalize("NFKC").replace(/\s+/g, " ").trim();
 }
 
 function isSafeToCache(text: string): boolean {
   const normalized = normalizeAudioText(text);
   if (!normalized || normalized.length > 1800) return false;
   if (PRIVATE_TEXT.test(normalized) || EMAIL_PATTERN.test(normalized)) return false;
-  if (/\\b(?:password|contrase[nñ]a|api key|tarjeta de cr[eé]dito|credit card number)\\b/i.test(normalized)) return false;
+  if (/\b(?:password|contrase[nñ]a|api key|tarjeta de cr[eé]dito|credit card number)\b/i.test(normalized)) return false;
   return true;
 }
 
@@ -43,7 +43,7 @@ async function getDatabase(): Promise<AudioCacheDatabase | null> {
 }
 
 async function makeAudioCacheKey(text: string, speaker: string, model: string): Promise<string> {
-  const identity = ["tutor-audio-v1", speaker, model, normalizeAudioText(text)].join("\\u001f");
+  const identity = ["tutor-audio-v1", speaker, model, normalizeAudioText(text)].join("\u001f");
   const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(identity));
   const hash = Array.from(new Uint8Array(digest), (byte) => byte.toString(16).padStart(2, "0")).join("");
   return `audio:${hash}`;
