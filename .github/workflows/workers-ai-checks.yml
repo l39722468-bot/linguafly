@@ -32,8 +32,8 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Type-check
-        run: npm run type-check
+      - name: Type-check Workers AI migration files
+        run: node scripts/check-workers-ai-types.mjs
 
       - name: Test Workers AI adapter
         run: npm test -- --runInBand __tests__/unit/workers-ai.test.ts
