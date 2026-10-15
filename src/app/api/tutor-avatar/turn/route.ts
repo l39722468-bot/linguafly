@@ -3,6 +3,7 @@ import {
   enforceAIRateLimit,
   getWorkersAIBinding,
   runWorkersAIJson,
+  runWorkersAIText,
   synthesizeWorkersAIAudioBase64,
   WORKERS_AI_STT_MODEL,
   type WorkersAIMessage,
@@ -155,7 +156,29 @@ async function analyzeImageWithVision(imageBase64: string): Promise<string> {
 async function chatWithTutor(
   messages: WorkersAIMessage[],
 ): Promise<{ reply: string; feedback: TutorFeedback | null }> {
-  const result = await runWorkersAIJson(messages, { temperature: 0.7, maxTokens: 400 });
+  let result: Record<string, unknown>;
+  try {
+    result = await runWorkersAIJson(messages, { temperature: 0.7, maxTokens: 400 });
+  } catch (error: unknown) {
+    // GLM can occasionally ignore the JSON-only instruction. Recover from that
+    // specific formatting failure with a plain-text generation; real binding
+    // errors still propagate to the handler and get logged with their stage.
+    if (!(error instanceof Error) || !error.message.includes("invalid structured response")) {
+      throw error;
+    }
+    const system = messages.find((message) => message.role === "system");
+    const fallbackSystem = (system?.content ?? "You are a helpful English tutor.")
+      .replace(
+        /Respond ONLY with valid JSON in this exact format:[\s\S]*$/,
+        "Respond with only your natural conversational reply in plain text. Do not output JSON or Markdown.",
+      );
+    const reply = await runWorkersAIText([
+      { role: "system", content: fallbackSystem },
+      ...messages.filter((message) => message.role !== "system"),
+    ], { temperature: 0.7, maxTokens: 300 });
+    return { reply: reply.slice(0, 1800), feedback: null };
+  }
+
   const reply = typeof result.reply === 'string' ? result.reply.trim().slice(0, 1800) : '';
 
   let feedback: TutorFeedback | null = null;
@@ -184,6 +207,7 @@ export async function POST(request: NextRequest) {
   const rateLimitResponse = await enforceAIRateLimit(request, 'tutor-avatar-turn');
   if (rateLimitResponse) return rateLimitResponse;
 
+  let failureStage = 'request';
   try {
     const contentLength = Number(request.headers.get('content-length') || 0);
     if (Number.isFinite(contentLength) && contentLength > 15 * 1024 * 1024) {
@@ -239,6 +263,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ noSpeechDetected: true }, { status: 200 });
     }
 
+    failureStage = 'transcription';
     const rawTranscription = await transcribeAudio(audioBase64);
     const hallucinations = new Set([
       '', ' ', '.', '..', '...', 'you', 'you.', 'You.', 'You',
@@ -255,6 +280,7 @@ export async function POST(request: NextRequest) {
 
     let imageDescription = '';
     if (imageBase64) {
+      failureStage = 'image_analysis';
       try {
         imageDescription = await analyzeImageWithVision(imageBase64);
       } catch (error: unknown) {
@@ -273,6 +299,7 @@ export async function POST(request: NextRequest) {
       ? `[The student shared an image. Image description: ${imageDescription}]\n\nStudent said: ${rawTranscription}`
       : rawTranscription;
 
+    failureStage = 'blog_retrieval';
     const articles = await searchTutorKnowledge(rawTranscription, effectiveTopic, 3);
     const messages: WorkersAIMessage[] = [
       {
@@ -288,6 +315,7 @@ export async function POST(request: NextRequest) {
       { role: 'user', content: userContent },
     ];
 
+    failureStage = 'text_generation';
     const { reply, feedback } = await chatWithTutor(messages);
     let audioBase64Out = '';
     let audioUnavailable = false;
@@ -323,11 +351,23 @@ export async function POST(request: NextRequest) {
     });
   } catch (error: unknown) {
     console.error(
-      'Tutor avatar turn failed:',
+      `Tutor avatar turn failed at ${failureStage}:`,
       error instanceof Error ? `${error.name}: ${error.message.slice(0, 180)}` : 'UnknownError',
     );
+
+    const stageMessages: Record<string, string> = {
+      transcription: "No he podido transcribir el audio. Habla unos segundos con claridad y vuelve a intentarlo.",
+      image_analysis: "No he podido analizar la imagen. Prueba sin imagen o vuelve a adjuntarla.",
+      blog_retrieval: "No he podido consultar las guías en este turno. Vuelve a intentarlo.",
+      text_generation: "He recibido el audio, pero no he podido generar una respuesta. Inténtalo de nuevo.",
+      request: "No he podido procesar este turno. Comprueba la conexión e inténtalo de nuevo.",
+    };
+
     return NextResponse.json(
-      { error: 'The tutor is temporarily unavailable. Please try again.' },
+      {
+        error: stageMessages[failureStage] ?? stageMessages.request,
+        stage: failureStage,
+      },
       { status: 502 },
     );
   }
