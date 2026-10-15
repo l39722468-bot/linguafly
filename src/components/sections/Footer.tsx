@@ -15,6 +15,12 @@ export function Footer() {
             <p className="max-w-sm text-sm text-slate-400">
               Guías para aprender inglés por nivel, y un juego para practicar gramática y vocabulario.
             </p>
+            <p className="mt-4 max-w-sm text-sm text-slate-400">
+              ¿Trabajas en educación o tecnología lingüística? Descubre las opciones de colaboración.
+            </p>
+            <Link href="/colaborar" className="mt-3 inline-flex items-center rounded-lg bg-white/10 px-4 py-2 text-sm font-bold text-white transition hover:bg-white/20">
+              Colaborar con Linguafly →
+            </Link>
           </div>
 
           <div>
@@ -54,6 +60,7 @@ export function Footer() {
             <ul className="space-y-2 text-sm text-slate-400">
               <li><Link href="/sobre-nosotros" className="transition-colors hover:text-white">Sobre nosotros</Link></li>
               <li><Link href="/contacto" className="transition-colors hover:text-white">Contacto</Link></li>
+              <li><Link href="/colaborar" className="transition-colors hover:text-white">Colaboraciones y patrocinios</Link></li>
               <li><Link href="/privacidad" className="transition-colors hover:text-white">Privacidad</Link></li>
             </ul>
           </div>
