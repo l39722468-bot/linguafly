@@ -19,6 +19,7 @@ const MAX_AUDIO_BASE64_CHARS = 1_500_000;
 const AUDIO_CACHE_TTL_DAYS = 180;
 const PRIVATE_TEXT = /\b(?:my (?:full )?name is|my address is|my phone(?: number)? is|my email is|my password is|mi nombre es|mi direcci[oó]n es|mi tel[eé]fono es|mi correo(?: electr[oó]nico)? es|mi contrase[nñ]a es|i live at|vivo en la calle)\b/i;
 const EMAIL_PATTERN = /\b[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}\b/i;
+const inFlightAudio = new Map<string, Promise<string>>();
 
 function normalizeAudioText(text: string): string {
   return text.normalize("NFKC").replace(/\s+/g, " ").trim();
@@ -82,21 +83,33 @@ export async function getOrCreateTutorAudio(
     console.warn("Tutor audio cache read failed:", error instanceof Error ? error.name : "UnknownError");
   }
 
-  const audioBase64 = await generate();
-  if (!db || !key || !audioBase64 || audioBase64.length > MAX_AUDIO_BASE64_CHARS) return audioBase64;
+  const pending = key ? inFlightAudio.get(key) : undefined;
+  if (pending) return pending;
 
+  const generation = (async () => {
+    const audioBase64 = await generate();
+    if (!db || !key || !audioBase64 || audioBase64.length > MAX_AUDIO_BASE64_CHARS) return audioBase64;
+
+    try {
+      await db.prepare(`
+        INSERT INTO tutor_audio_cache (cache_key, audio_base64, audio_length)
+        VALUES (?, ?, ?)
+        ON CONFLICT(cache_key) DO UPDATE SET
+          audio_base64 = excluded.audio_base64,
+          audio_length = excluded.audio_length,
+          created_at = CURRENT_TIMESTAMP
+      `).bind(key, audioBase64, audioBase64.length).run();
+    } catch (error: unknown) {
+      // Speech must still play if persistence is unavailable.
+      console.warn("Tutor audio cache write failed:", error instanceof Error ? error.name : "UnknownError");
+    }
+    return audioBase64;
+  })();
+
+  if (key) inFlightAudio.set(key, generation);
   try {
-    await db.prepare(`
-      INSERT INTO tutor_audio_cache (cache_key, audio_base64, audio_length)
-      VALUES (?, ?, ?)
-      ON CONFLICT(cache_key) DO UPDATE SET
-        audio_base64 = excluded.audio_base64,
-        audio_length = excluded.audio_length,
-        created_at = CURRENT_TIMESTAMP
-    `).bind(key, audioBase64, audioBase64.length).run();
-  } catch (error: unknown) {
-    // Speech must still play if persistence is unavailable.
-    console.warn("Tutor audio cache write failed:", error instanceof Error ? error.name : "UnknownError");
+    return await generation;
+  } finally {
+    if (key && inFlightAudio.get(key) === generation) inFlightAudio.delete(key);
   }
-  return audioBase64;
 }
