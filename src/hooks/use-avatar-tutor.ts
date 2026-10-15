@@ -7,6 +7,7 @@ export interface TutorMessage {
   id: string;
   role: 'user' | 'tutor';
   text: string;
+  spokenSpanish?: string;
   pronunciationText?: string;
 }
 
@@ -158,6 +159,10 @@ export function useAvatarTutor(config: UseTutorConfig) {
     await requestTutorSpeech('', phrase);
   }, [requestTutorSpeech]);
 
+  const replayTutorSpeech = useCallback(async (spokenSpanish: string, pronunciationText = '') => {
+    await requestTutorSpeech(spokenSpanish, pronunciationText);
+  }, [requestTutorSpeech]);
+
   const attachImage = useCallback((base64: string) => {
     setPendingImage(base64);
   }, []);
@@ -197,7 +202,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
       if (!greeting) throw new Error('El tutor no ha devuelto un mensaje inicial. Inténtalo de nuevo.');
 
       const id = crypto.randomUUID();
-      setMessages([{ id, role: 'tutor', text: greeting }]);
+      setMessages([{ id, role: 'tutor', text: greeting, spokenSpanish: greeting }]);
       historyRef.current = [{ role: 'assistant', content: greeting }];
 
       setIsActive(true);
@@ -297,7 +302,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
           setMessages((prev) => [
             ...prev,
             { id: userId, role: 'user', text: transcription },
-            { id: tutorId2, role: 'tutor', text: reply, ...(pronunciationText ? { pronunciationText } : {}) },
+            { id: tutorId2, role: 'tutor', text: reply, spokenSpanish, ...(pronunciationText ? { pronunciationText } : {}) },
           ]);
 
           historyRef.current = [
@@ -356,6 +361,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
     stop,
     unlockAudio,
     replayPronunciation,
+    replayTutorSpeech,
     attachImage,
     clearImage,
   };
