@@ -14,6 +14,20 @@ type Profile = {
   learning_goal: string | null;
 };
 
+type PracticeSummary = {
+  total_attempts: number;
+  average_score: number | null;
+  best_score: number | null;
+};
+
+type PracticeAttempt = {
+  id: number;
+  score: number;
+  total_questions: number;
+  cefr_level: string | null;
+  completed_at: number;
+};
+
 const explanationLanguageLabels: Record<string, string> = {
   es: "Español",
   ca: "Català",
@@ -33,6 +47,9 @@ export default async function PrivateHomePage() {
 
   let profile: Profile | null = null;
   let profileUnavailable = false;
+  let practiceSummary: PracticeSummary | null = null;
+  let recentPracticeAttempts: PracticeAttempt[] = [];
+  let practiceHistoryUnavailable = false;
 
   try {
     const context = await getCloudflareContext({ async: true });
@@ -52,6 +69,36 @@ export default async function PrivateHomePage() {
       .first<Profile>();
   } catch {
     profileUnavailable = true;
+  }
+
+  try {
+    const context = await getCloudflareContext({ async: true });
+    const env = context.env as unknown as CloudflareEnv;
+
+    practiceSummary = await env.AUTH_DB.prepare(
+      `SELECT COUNT(*) AS total_attempts,
+              AVG(score) AS average_score,
+              MAX(score) AS best_score
+       FROM practice_attempts
+       WHERE user_id = ?`,
+    )
+      .bind(session.user.id)
+      .first<PracticeSummary>();
+
+    const history = await env.AUTH_DB.prepare(
+      `SELECT id, score, total_questions, cefr_level, completed_at
+       FROM practice_attempts
+       WHERE user_id = ?
+       ORDER BY completed_at DESC, id DESC
+       LIMIT 10`,
+    )
+      .bind(session.user.id)
+      .all<PracticeAttempt>();
+
+    recentPracticeAttempts = history.results ?? [];
+  } catch {
+    // An unapplied practice-history migration must not break the profile page.
+    practiceHistoryUnavailable = true;
   }
 
   return (
@@ -105,6 +152,86 @@ export default async function PrivateHomePage() {
             >
               Empezar primera práctica
             </Link>
+          </section>
+
+          <section className="mt-8 rounded-2xl border border-stone-200 bg-white p-6 sm:p-8">
+            <p className="text-sm font-medium uppercase tracking-wide text-stone-500">
+              Tu progreso
+            </p>
+            <h2 className="mt-2 text-xl font-semibold tracking-tight">
+              Historial de prácticas
+            </h2>
+
+            {practiceHistoryUnavailable ? (
+              <p className="mt-3 text-sm leading-6 text-stone-600">
+                El historial todavía no está disponible. Hay que aplicar la migración
+                0002_practice_attempts.sql a la base D1 de LinguaFly AI.
+              </p>
+            ) : (
+              <>
+                <div className="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-3">
+                  <div className="rounded-xl bg-stone-50 p-4">
+                    <p className="text-sm text-stone-600">Prácticas completadas</p>
+                    <p className="mt-1 text-2xl font-semibold tabular-nums">
+                      {practiceSummary?.total_attempts ?? 0}
+                    </p>
+                  </div>
+                  <div className="rounded-xl bg-stone-50 p-4">
+                    <p className="text-sm text-stone-600">Media por práctica</p>
+                    <p className="mt-1 text-2xl font-semibold tabular-nums">
+                      {practiceSummary?.average_score == null
+                        ? "—"
+                        : `${practiceSummary.average_score.toLocaleString("es-ES", { maximumFractionDigits: 1, minimumFractionDigits: 1 })}/5`}
+                    </p>
+                  </div>
+                  <div className="rounded-xl bg-stone-50 p-4">
+                    <p className="text-sm text-stone-600">Mejor resultado</p>
+                    <p className="mt-1 text-2xl font-semibold tabular-nums">
+                      {practiceSummary?.best_score == null
+                        ? "—"
+                        : `${practiceSummary.best_score}/5`}
+                    </p>
+                  </div>
+                </div>
+
+                {recentPracticeAttempts.length === 0 ? (
+                  <p className="mt-5 text-sm leading-6 text-stone-600">
+                    Aún no tienes prácticas guardadas. Completa tu primera práctica
+                    para empezar a ver tu evolución aquí.
+                  </p>
+                ) : (
+                  <ol className="mt-5 divide-y divide-stone-200">
+                    {recentPracticeAttempts.map((attempt) => (
+                      <li
+                        key={attempt.id}
+                        className="flex items-center justify-between gap-4 py-4"
+                      >
+                        <div>
+                          <p className="font-medium text-stone-900">
+                            {new Date(attempt.completed_at).toLocaleString("es-ES", {
+                              dateStyle: "medium",
+                              timeStyle: "short",
+                              timeZone: "Europe/Madrid",
+                            })}
+                          </p>
+                          <p className="mt-1 text-sm text-stone-600">
+                            Nivel {attempt.cefr_level ?? "A1"} · {attempt.total_questions} preguntas
+                          </p>
+                        </div>
+                        <p className="shrink-0 text-lg font-semibold tabular-nums">
+                          {attempt.score}/{attempt.total_questions}
+                        </p>
+                      </li>
+                    ))}
+                  </ol>
+                )}
+                {recentPracticeAttempts.length > 0 ? (
+                  <p className="mt-2 text-xs text-stone-500">
+                    Se muestran las 10 prácticas más recientes.
+                  </p>
+                ) : null}
+              </>
+            )}
           </section>
 
           <LearningProfileForm
