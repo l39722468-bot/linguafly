@@ -113,5 +113,5 @@ describe("tutor audio cache", () => {
     ]);
     expect(generate).toHaveBeenCalledTimes(1);
     expect(run).toHaveBeenCalledTimes(1);
-  });;
+  });
 });
