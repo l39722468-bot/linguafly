@@ -17,6 +17,9 @@
       "service": "lingua-ai-app"
     }
   ],
+  "ai": {
+    "binding": "AI"
+  },
   "d1_databases": [
     {
       "binding": "AUTH_DB",
