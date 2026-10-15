@@ -80,19 +80,27 @@ export function useAvatarTutor(config: UseTutorConfig) {
 
       const segment = playable[index++];
       const audio = new Audio(`data:audio/mpeg;base64,${segment.audioBase64}`);
+      let advanced = false;
+      const advance = () => {
+        // Both the media error event and play() rejection may fire for the same
+        // failure. Advance exactly once so the English phrase is never skipped.
+        if (advanced) return;
+        advanced = true;
+        playNext();
+      };
       audio.preload = 'auto';
       audioRef.current = audio;
       audio.onended = () => {
         played += 1;
-        playNext();
+        advance();
       };
       audio.onerror = () => {
         playbackFailed = true;
-        playNext();
+        advance();
       };
       audio.play().catch(() => {
         playbackFailed = true;
-        playNext();
+        advance();
       });
     };
 
