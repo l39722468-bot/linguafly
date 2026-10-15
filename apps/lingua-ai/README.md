@@ -112,6 +112,24 @@ npm run d1:migrate:remote
 
 Después ejecuta la comprobación de tipos, compila y despliega el Worker. El resumen por temas empieza a poblarse con las prácticas realizadas desde que la migración esté aplicada; los intentos antiguos conservan su puntuación, pero no pueden reconstruir respuestas que nunca se guardaron.
 
+## Conversación de inglés por voz (Realtime)
+
+La ruta protegida `/app/conversacion` permite una conversación de voz en tiempo real con micrófono, audio de respuesta y transcripción en pantalla. Usa el nivel CEFR y el idioma de explicación del perfil para ajustar el diálogo y las correcciones. Hay escenarios de conversación libre, restaurante, viajes y entrevista de trabajo.
+
+La clave `OPENAI_API_KEY` se lee únicamente en el servidor del Worker privado `lingua-ai-app`. El navegador no recibe la clave: envía el audio de negociación WebRTC a `/api/conversacion/session`, que comprueba la sesión Better Auth y actúa como puente hacia OpenAI Realtime. Esta funcionalidad usa la API de OpenAI y puede generar cargos de uso.
+
+### Configuración en producción
+
+Después de actualizar el código, desde esta carpeta configura la clave como secreto del Worker de esta aplicación:
+
+```powershell
+npx wrangler secret put OPENAI_API_KEY
+```
+
+Wrangler pedirá la clave de forma interactiva. Usa una clave de OpenAI con acceso al modelo Realtime; no la pegues en el chat, no la añadas a `wrangler.jsonc` y no uses una variable `NEXT_PUBLIC_*`. Ejecuta el comando desde `apps/lingua-ai` para asociar el secreto a `lingua-ai-app`, no a la web pública.
+
+Para desarrollo local, copia `.dev.vars.example` a `.dev.vars` y pon la clave solo en el archivo local ignorado por Git. Nunca subas la clave a GitHub. No se necesita una migración D1 nueva para iniciar una conversación; las sesiones de voz y la transcripción en pantalla no se guardan aún en el historial de prácticas.
+
 ## Preparar y desplegar el Worker
 
 El Worker configurado para esta app se llama `lingua-ai-app`. Su dominio deseado es `app.linguafly.app`, y la configuración personalizada se aplicará al desplegar.
