@@ -8,8 +8,10 @@ import {
   getAuraSpeaker,
   parseJsonObject,
   runWorkersAIJson,
+  runWorkersAIText,
   validateChatMessages,
   WORKERS_AI_CHAT_MODEL,
+  WORKERS_AI_FALLBACK_CHAT_MODEL,
 } from "@/lib/ai/workers-ai";
 
 describe("Workers AI adapter helpers", () => {
@@ -28,6 +30,46 @@ describe("Workers AI adapter helpers", () => {
     expect(run).toHaveBeenCalledWith(WORKERS_AI_CHAT_MODEL, expect.objectContaining({
       max_completion_tokens: 400,
     }));
+  });
+
+  describe("runWorkersAIText fallback", () => {
+    afterEach(() => {
+      jest.restoreAllMocks();
+    });
+
+    it("uses the fallback model when GLM fails", async () => {
+      jest.spyOn(console, "error").mockImplementation(() => {});
+      jest.spyOn(console, "warn").mockImplementation(() => {});
+      const run = jest.fn()
+        .mockRejectedValueOnce(new Error("GLM temporarily unavailable"))
+        .mockResolvedValueOnce({ response: "Hello from the fallback model." });
+      (getCloudflareContext as jest.Mock).mockResolvedValue({ env: { AI: { run } } });
+
+      await expect(runWorkersAIText([
+        { role: "system", content: "You are a tutor." },
+        { role: "user", content: "I want to practise travel English." },
+      ], { maxTokens: 300 })).resolves.toBe("Hello from the fallback model.");
+
+      expect(run).toHaveBeenNthCalledWith(1, WORKERS_AI_CHAT_MODEL, expect.objectContaining({
+        max_completion_tokens: 300,
+      }));
+      expect(run).toHaveBeenNthCalledWith(2, WORKERS_AI_FALLBACK_CHAT_MODEL, expect.objectContaining({
+        max_tokens: 300,
+      }));
+    });
+
+    it("reports a controlled error when both models fail", async () => {
+      jest.spyOn(console, "error").mockImplementation(() => {});
+      const run = jest.fn()
+        .mockRejectedValueOnce(new Error("Primary unavailable"))
+        .mockRejectedValueOnce(new Error("Fallback unavailable"));
+      (getCloudflareContext as jest.Mock).mockResolvedValue({ env: { AI: { run } } });
+
+      await expect(runWorkersAIText([
+        { role: "system", content: "You are a tutor." },
+        { role: "user", content: "Hello." },
+      ])).rejects.toThrow("Workers AI text generation failed on both the primary and fallback models.");
+    });
   });
 
   describe("parseJsonObject", () => {
