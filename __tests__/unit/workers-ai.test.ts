@@ -67,7 +67,7 @@ describe("Workers AI adapter helpers", () => {
 
     const result = await synthesizeWorkersAIAudioBase64(
       "I have a reservation.",
-      "luna",
+      "athena",
       WORKERS_AI_TTS_ENGLISH_MODEL,
     );
 
@@ -76,7 +76,7 @@ describe("Workers AI adapter helpers", () => {
       WORKERS_AI_TTS_ENGLISH_MODEL,
       expect.objectContaining({
         text: "I have a reservation.",
-        speaker: "luna",
+        speaker: "athena",
         encoding: "mp3",
       }),
       { returnRawResponse: true },
