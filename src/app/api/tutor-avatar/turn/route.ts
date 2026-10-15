@@ -3,6 +3,7 @@ import {
   enforceAIRateLimit,
   getWorkersAIBinding,
   runWorkersAIJson,
+  runWorkersAIText,
   synthesizeWorkersAIAudioBase64,
   WORKERS_AI_STT_MODEL,
   type WorkersAIMessage,
@@ -155,7 +156,29 @@ async function analyzeImageWithVision(imageBase64: string): Promise<string> {
 async function chatWithTutor(
   messages: WorkersAIMessage[],
 ): Promise<{ reply: string; feedback: TutorFeedback | null }> {
-  const result = await runWorkersAIJson(messages, { temperature: 0.7, maxTokens: 400 });
+  let result: Record<string, unknown>;
+  try {
+    result = await runWorkersAIJson(messages, { temperature: 0.7, maxTokens: 400 });
+  } catch (error: unknown) {
+    // GLM can occasionally ignore the JSON-only instruction. Recover from that
+    // specific formatting failure with a plain-text generation; real binding
+    // errors still propagate to the handler and get logged with their stage.
+    if (!(error instanceof Error) || !error.message.includes("invalid structured response")) {
+      throw error;
+    }
+    const system = messages.find((message) => message.role === "system");
+    const fallbackSystem = (system?.content ?? "You are a helpful English tutor.")
+      .replace(
+        /Respond ONLY with valid JSON in this exact format:[\\s\\S]*$/,
+        "Respond with only your natural conversational reply in plain text. Do not output JSON or Markdown.",
+      );
+    const reply = await runWorkersAIText([
+      { role: "system", content: fallbackSystem },
+      ...messages.filter((message) => message.role !== "system"),
+    ], { temperature: 0.7, maxTokens: 300 });
+    return { reply: reply.slice(0, 1800), feedback: null };
+  }
+
   const reply = typeof result.reply === 'string' ? result.reply.trim().slice(0, 1800) : '';
 
   let feedback: TutorFeedback | null = null;
