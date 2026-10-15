@@ -2,6 +2,7 @@ export const WORKERS_AI_CHAT_MODEL = "@cf/zai-org/glm-4.7-flash";
 export const WORKERS_AI_FALLBACK_CHAT_MODEL = "@cf/meta/llama-3.1-8b-instruct-fast";
 export const WORKERS_AI_STT_MODEL = "@cf/openai/whisper-large-v3-turbo";
 export const WORKERS_AI_TTS_MODEL = "@cf/deepgram/aura-1";
+export const WORKERS_AI_TTS_SPANISH_MODEL = "@cf/deepgram/aura-2-es";
 
 export type WorkersAIMessage = {
   role: "system" | "user" | "assistant";
@@ -222,10 +223,11 @@ export function arrayBufferToBase64(buffer: ArrayBuffer): string {
 export async function synthesizeWorkersAIAudioBase64(
   text: string,
   speaker: string,
+  model: string = WORKERS_AI_TTS_MODEL,
 ): Promise<string> {
   const ai = await getWorkersAIBinding();
   const result = await ai.run(
-    WORKERS_AI_TTS_MODEL,
+    model,
     { text, speaker, encoding: "mp3" },
     { returnRawResponse: true },
   );
