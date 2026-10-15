@@ -9,9 +9,11 @@ import {
   parseJsonObject,
   runWorkersAIJson,
   runWorkersAIText,
+  synthesizeWorkersAIAudioBase64,
   validateChatMessages,
   WORKERS_AI_CHAT_MODEL,
   WORKERS_AI_FALLBACK_CHAT_MODEL,
+  WORKERS_AI_TTS_SPANISH_MODEL,
 } from "@/lib/ai/workers-ai";
 
 describe("Workers AI adapter helpers", () => {
@@ -30,6 +32,31 @@ describe("Workers AI adapter helpers", () => {
     expect(run).toHaveBeenCalledWith(WORKERS_AI_CHAT_MODEL, expect.objectContaining({
       max_completion_tokens: 400,
     }));
+  });
+
+  describe("Spanish tutor voice", () => {
+    it("uses the Spanish Aura model and a Spanish voice when requested", async () => {
+      const bytes = new Uint8Array([1, 2, 3]);
+      const run = jest.fn().mockResolvedValue(new Response(bytes.buffer));
+      (getCloudflareContext as jest.Mock).mockResolvedValue({ env: { AI: { run } } });
+
+      const result = await synthesizeWorkersAIAudioBase64(
+        "¡Hola! Vamos a practicar inglés.",
+        "carina",
+        WORKERS_AI_TTS_SPANISH_MODEL,
+      );
+
+      expect(result).toBe(Buffer.from(bytes).toString("base64"));
+      expect(run).toHaveBeenCalledWith(
+        WORKERS_AI_TTS_SPANISH_MODEL,
+        expect.objectContaining({
+          text: "¡Hola! Vamos a practicar inglés.",
+          speaker: "carina",
+          encoding: "mp3",
+        }),
+        { returnRawResponse: true },
+      );
+    });
   });
 
   describe("runWorkersAIText fallback", () => {
