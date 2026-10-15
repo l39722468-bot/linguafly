@@ -1,6 +1,9 @@
 #!/usr/bin/env node
 
-const { spawnSync } = require("node:child_process");
+import { spawnSync } from "node:child_process";
+import { createRequire } from "node:module";
+
+const require = createRequire(import.meta.url);
 
 const MIGRATION_FILES = new Set([
   "__tests__/unit/workers-ai.test.ts",
