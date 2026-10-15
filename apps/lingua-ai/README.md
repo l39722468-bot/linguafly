@@ -134,7 +134,9 @@ El endpoint `/api/conversacion/turn` requiere una sesión válida, limita la gra
 
 ### Configuración
 
-El binding de Workers AI se declara en `apps/lingua-ai/wrangler.jsonc` bajo `ai.binding = "AI"`. No añadas `OPENAI_API_KEY` ni ninguna clave de proveedor para esta función. Para ejecutar el flujo en local, utiliza `npm run preview` para probarlo dentro del runtime de Workers; comprueba que tu cuenta permite ejecutar los modelos de Workers AI.
+El binding de producción se declara en `apps/lingua-ai/wrangler.jsonc` bajo `ai.binding = "AI"`; no se marca como remoto para el Worker desplegado. El archivo `wrangler.preview.jsonc` es exclusivo de desarrollo y marca `AI.remote = true`, porque las inferencias de Workers AI se ejecutan en el servicio Cloudflare y no tienen simulador local completo.
+
+No añadas `OPENAI_API_KEY` ni ninguna clave de proveedor para esta función. Ejecuta `npm run preview` para probarla en el runtime de Workers. Este preview necesita que Wrangler esté autenticado con la cuenta adecuada y las llamadas reales a los modelos **generan consumo de Workers AI, incluso durante las pruebas locales**. El despliegue utiliza el archivo principal `wrangler.jsonc`; no despliegues el archivo de preview.
 
 ## Metodología educativa de conversación
 
