@@ -1,4 +1,5 @@
 export const WORKERS_AI_CHAT_MODEL = "@cf/zai-org/glm-4.7-flash";
+export const WORKERS_AI_FALLBACK_CHAT_MODEL = "@cf/meta/llama-3.1-8b-instruct-fast";
 export const WORKERS_AI_STT_MODEL = "@cf/openai/whisper-large-v3-turbo";
 export const WORKERS_AI_TTS_MODEL = "@cf/deepgram/aura-1";
 
@@ -156,15 +157,49 @@ export async function runWorkersAIText(
   options: { temperature?: number; maxTokens?: number } = {},
 ): Promise<string> {
   const ai = await getWorkersAIBinding();
-  const result = await ai.run(WORKERS_AI_CHAT_MODEL, {
-    messages,
-    temperature: options.temperature ?? 0.6,
-    max_completion_tokens: options.maxTokens ?? 400,
-  });
+  const temperature = options.temperature ?? 0.6;
+  const maxTokens = options.maxTokens ?? 400;
 
-  const text = getTextFromResult(result).trim();
-  if (!text) throw new Error("Workers AI returned an empty response.");
-  return text;
+  try {
+    const result = await ai.run(WORKERS_AI_CHAT_MODEL, {
+      messages,
+      temperature,
+      max_completion_tokens: maxTokens,
+    });
+    const text = getTextFromResult(result).trim();
+    if (!text) throw new Error("Primary Workers AI model returned an empty response.");
+    return text;
+  } catch (primaryError: unknown) {
+    console.error(
+      "Primary Workers AI text generation failed; trying fallback model:",
+      primaryError instanceof Error
+        ? `${primaryError.name}: ${primaryError.message.slice(0, 180)}`
+        : "UnknownError",
+    );
+  }
+
+  // The lightweight fallback keeps the speaking tutor usable when GLM is
+  // temporarily unavailable or returns no text. It uses the model-specific
+  // max_tokens parameter documented by Workers AI for this model.
+  try {
+    const result = await ai.run(WORKERS_AI_FALLBACK_CHAT_MODEL, {
+      messages,
+      temperature,
+      max_tokens: maxTokens,
+    });
+    const text = getTextFromResult(result).trim();
+    if (!text) throw new Error("Fallback Workers AI model returned an empty response.");
+    console.warn("Tutor text response generated with the fallback Workers AI model.");
+    return text;
+  } catch (fallbackError: unknown) {
+    console.error(
+      "Fallback Workers AI text generation failed:",
+      fallbackError instanceof Error
+        ? `${fallbackError.name}: ${fallbackError.message.slice(0, 180)}`
+        : "UnknownError",
+    );
+    throw new Error("Workers AI text generation failed on both the primary and fallback models.");
+  }
 }
 
 export function arrayBufferToBase64(buffer: ArrayBuffer): string {
