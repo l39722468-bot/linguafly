@@ -3,6 +3,7 @@ import {
   enforceAIRateLimit,
   getWorkersAIBinding,
   runWorkersAIJson,
+  runWorkersAIJsonFast,
   runWorkersAIText,
   WORKERS_AI_STT_MODEL,
   type WorkersAIMessage,
@@ -223,10 +224,21 @@ function hasCompleteBilingualExamples(reply: string): boolean {
   return englishExamples > 0 && englishExamples === spanishTranslations;
 }
 
+function shouldRetrieveTutorKnowledge(query: string): boolean {
+  // D1 article retrieval is valuable for questions about LinguaFly resources,
+  // but adds latency and prompt tokens to ordinary speaking practice.
+  return /\b(?:blog|art[ií]culos?|gu[ií]as?|recursos|fuentes|enlaces|publicaciones|contenido de linguafly|seg[uú]n linguafly|web de linguafly)\b/i.test(query);
+}
+
 async function chatWithTutor(messages: WorkersAIMessage[]): Promise<TutorAnswer> {
+  const latestUserMessage = [...messages].reverse().find((message) => message.role === 'user')?.content ?? '';
+  const exampleRequest = isExampleLearningRequest(latestUserMessage);
   let result: Record<string, unknown>;
   try {
-    result = await runWorkersAIJson(messages, { temperature: 0.65, maxTokens: 1400 });
+    result = await runWorkersAIJson(messages, {
+      temperature: exampleRequest ? 0.35 : 0.55,
+      maxTokens: exampleRequest ? 1000 : 650,
+    });
   } catch (error: unknown) {
     console.error(
       "Structured tutor response failed; retrying in a compact audio-friendly format:",
@@ -248,18 +260,17 @@ No añadas texto antes de RESPUESTA ni cambies los marcadores.`,
     const raw = await runWorkersAIText([
       { role: "system", content: fallbackSystem },
       ...messages.filter((message) => message.role !== "system"),
-    ], { temperature: 0.65, maxTokens: 1400 });
+    ], { temperature: exampleRequest ? 0.35 : 0.55, maxTokens: exampleRequest ? 1000 : 650 });
     return { ...parseFallbackAnswer(raw), feedback: null };
   }
 
   // Models occasionally obey the Spanish conversation rule but omit the English
   // side of examples. Validate example requests and ask for one structured repair
   // instead of displaying Spanish-only examples to someone learning English.
-  const latestUserMessage = [...messages].reverse().find((message) => message.role === 'user')?.content ?? '';
   const initialReply = typeof result.reply === 'string' ? cleanVisibleReply(result.reply) : '';
-  if (isExampleLearningRequest(latestUserMessage) && !hasCompleteBilingualExamples(initialReply)) {
+  if (exampleRequest && !hasCompleteBilingualExamples(initialReply)) {
     try {
-      const repaired = await runWorkersAIJson([
+      const repaired = await runWorkersAIJsonFast([
         ...messages,
         { role: 'assistant', content: JSON.stringify(result) },
         {
@@ -269,7 +280,7 @@ English: [complete natural English sentence]
 Español: [accurate Spanish translation]
 For every example include both lines. Do not show examples only in Spanish. For number ranges, include one complete bilingual example for every number requested. In "pronunciationText", copy only the English sentences exactly, one per line, with no Spanish, numbering, or labels. "spokenSpanish" must contain only the Spanish explanation. Never expose technical labels such as RESPUESTA, AUDIO_ES, or PRONUNCIACION_EN. Return only the same valid JSON object with keys reply, spokenSpanish, pronunciationText, feedback.`,
         },
-      ], { temperature: 0.2, maxTokens: 1400 });
+      ], { temperature: 0.2, maxTokens: 800 });
       const repairedReply = typeof repaired.reply === 'string' ? cleanVisibleReply(repaired.reply) : '';
       if (hasCompleteBilingualExamples(repairedReply)) {
         result = { ...repaired, reply: repairedReply };
@@ -408,7 +419,9 @@ export async function POST(request: NextRequest) {
     // so run them concurrently instead of making the user wait for both in series.
     failureStage = 'context_retrieval';
     const [articles, imageDescription] = await Promise.all([
-      searchTutorKnowledge(rawTranscription, effectiveTopic, 2),
+      shouldRetrieveTutorKnowledge(rawTranscription)
+        ? searchTutorKnowledge(rawTranscription, effectiveTopic, 2)
+        : Promise.resolve([]),
       imageBase64
         ? analyzeImageWithVision(imageBase64).catch((error: unknown) => {
             console.error(
