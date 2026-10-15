@@ -1,57 +1,71 @@
-import { NextResponse } from 'next/server';
-import { VOICE_IDS, VOICE_MODELS } from '@/lib/text-to-speech';
+import { NextResponse } from "next/server";
+import { enforceAIRateLimit, getAuraSpeaker, getWorkersAIBinding, WORKERS_AI_TTS_MODEL } from "@/lib/ai/workers-ai";
 
 export async function POST(req: Request) {
-  const apiKey = process.env.ELEVENLABS_API_KEY;
+  const rateLimitResponse = await enforceAIRateLimit(req, "ai-tutor-tts");
+  if (rateLimitResponse) return rateLimitResponse;
 
-  if (!apiKey) {
-    return NextResponse.json({ error: 'ELEVENLABS_API_KEY is not configured' }, { status: 500 });
+  let body: Record<string, unknown>;
+  try {
+    const parsed: unknown = await req.json();
+    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
+      return NextResponse.json({ error: "Invalid request body" }, { status: 400 });
+    }
+    body = parsed as Record<string, unknown>;
+  } catch {
+    return NextResponse.json({ error: "Invalid JSON body" }, { status: 400 });
+  }
+
+  const text = typeof body.text === "string" ? body.text.trim() : "";
+  if (!text) return NextResponse.json({ error: "Text is required." }, { status: 400 });
+  if (text.length > 1800) {
+    return NextResponse.json({ error: "Text exceeds the 1,800 character voice limit." }, { status: 413 });
   }
 
   try {
-    const { text, voiceId, stability, similarityBoost } = await req.json();
-
-    if (!text) {
-      return NextResponse.json({ error: 'No text provided' }, { status: 400 });
-    }
-
-    const url = `https://api.elevenlabs.io/v1/text-to-speech/${voiceId || VOICE_IDS.american_female}`;
-
-    const response = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Accept': 'audio/mpeg',
-        'Content-Type': 'application/json',
-        'xi-api-key': apiKey,
+    const ai = await getWorkersAIBinding();
+    const result = await ai.run(
+      WORKERS_AI_TTS_MODEL,
+      {
+        text,
+        speaker: getAuraSpeaker(body.voiceId),
+        encoding: "mp3",
       },
-      body: JSON.stringify({
-        text: text,
-        model_id: VOICE_MODELS.multilingual_v2,
-        voice_settings: {
-          stability: stability ?? 0.4,
-          similarity_boost: similarityBoost ?? 0.75,
-          style: 0.3,
-          use_speaker_boost: true,
+      { returnRawResponse: true },
+    );
+
+    if (result instanceof Response) {
+      if (!result.ok) {
+        console.error("Workers AI TTS returned status:", result.status);
+        return NextResponse.json({ error: "Voice generation failed." }, { status: 502 });
+      }
+      return new Response(result.body, {
+        status: 200,
+        headers: {
+          "Content-Type": result.headers.get("Content-Type") || "audio/mpeg",
+          "Cache-Control": "no-store",
+          "X-Content-Type-Options": "nosniff",
         },
-      }),
-    });
-
-    if (!response.ok) {
-      const errorData = await response.text();
-      throw new Error(`ElevenLabs API error: ${response.status} - ${errorData}`);
+      });
     }
 
-    const audioBuffer = await response.arrayBuffer();
+    if (result instanceof ReadableStream) {
+      return new Response(result, {
+        status: 200,
+        headers: {
+          "Content-Type": "audio/mpeg",
+          "Cache-Control": "no-store",
+          "X-Content-Type-Options": "nosniff",
+        },
+      });
+    }
 
-    return new Response(audioBuffer, {
-      headers: {
-        'Content-Type': 'audio/mpeg',
-      },
-    });
-
+    return NextResponse.json({ error: "Voice generation returned an unsupported response." }, { status: 502 });
   } catch (error: unknown) {
-    console.error('AI Tutor TTS Error:', error);
-    const errorMessage = error instanceof Error ? error.message : 'Unknown error';
-    return NextResponse.json({ success: false, error: errorMessage }, { status: 500 });
+    console.error(
+      "Workers AI tutor TTS failed:",
+      error instanceof Error ? error.name : "UnknownError",
+    );
+    return NextResponse.json({ error: "Voice is temporarily unavailable. Please try again." }, { status: 502 });
   }
 }

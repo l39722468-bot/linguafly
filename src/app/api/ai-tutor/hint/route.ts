@@ -1,54 +1,67 @@
-import { NextResponse } from 'next/server';
-import OpenAI from 'openai';
+import { NextResponse } from "next/server";
+import { enforceAIRateLimit, runWorkersAIJson, validateChatMessages } from "@/lib/ai/workers-ai";
 
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY || '',
-});
+function safeLabel(value: unknown, fallback: string, maxLength = 120): string {
+  if (typeof value !== "string") return fallback;
+  const cleaned = value.replace(/[\u0000-\u001f\u007f]/g, " ").trim();
+  return cleaned ? cleaned.slice(0, maxLength) : fallback;
+}
 
 export async function POST(req: Request) {
-  if (!process.env.OPENAI_API_KEY) {
-    return NextResponse.json({ error: 'OPENAI_API_KEY is not configured' }, { status: 500 });
+  const rateLimitResponse = await enforceAIRateLimit(req, "ai-tutor-hint");
+  if (rateLimitResponse) return rateLimitResponse;
+
+  let body: Record<string, unknown>;
+  try {
+    const parsed: unknown = await req.json();
+    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
+      return NextResponse.json({ success: false, error: "Invalid request body" }, { status: 400 });
+    }
+    body = parsed as Record<string, unknown>;
+  } catch {
+    return NextResponse.json({ success: false, error: "Invalid JSON body" }, { status: 400 });
   }
 
+  const messages = validateChatMessages(body.messages);
+  if (!messages) {
+    return NextResponse.json({ success: false, error: "Invalid conversation messages." }, { status: 400 });
+  }
+
+  const scenario = safeLabel(body.scenario, "General Conversation");
+  const level = safeLabel(body.level, "Intermediate", 32);
+  const systemPrompt = `You are an expert English speaking coach.
+The student is practicing the scenario "${scenario}" at level ${level}.
+Use the conversation history to provide a SHORT hint that helps the learner continue speaking.
+Return only a JSON object with:
+{
+  "keyword": "a useful vocabulary word",
+  "starter": "a sentence starter",
+  "sentence": "a complete natural sentence at the learner's level"
+}
+Keep the three suggestions concise, practical, and different from one another.`;
+
   try {
-    const { messages, scenario, level } = await req.json();
-
-    const response = await openai.chat.completions.create({
-      model: 'gpt-4o-mini',
-      messages: [
-        { 
-          role: 'system', 
-          content: `You are an expert English Speaking Coach. 
-          The student is in a roleplay scenario: "${scenario}" at level ${level}.
-          Based on the conversation history, provide a SHORT hint or a way to continue the conversation.
-          Provide 3 options:
-          1. A keyword/vocabulary word.
-          2. A sentence starter.
-          3. A complete sentence (advanced).
-          
-          Format the response as a JSON object:
-          {
-            "keyword": "...",
-            "starter": "...",
-            "sentence": "..."
-          }`
-        },
-        ...messages.slice(-5) // Send last 5 messages for context
-      ],
-      response_format: { type: 'json_object' },
-      temperature: 0.7,
-    });
-
-    const hint = JSON.parse(response.choices[0].message.content || '{}');
+    const hint = await runWorkersAIJson([
+      { role: "system", content: systemPrompt },
+      ...messages.slice(-5),
+    ], { temperature: 0.5, maxTokens: 180 });
 
     return NextResponse.json({
       success: true,
-      hint
+      hint: {
+        keyword: typeof hint.keyword === "string" ? hint.keyword : "",
+        starter: typeof hint.starter === "string" ? hint.starter : "",
+        sentence: typeof hint.sentence === "string" ? hint.sentence : "",
+      },
     });
-
   } catch (error: unknown) {
-    console.error('Hint Generation Error:', error);
-    const errorMessage = error instanceof Error ? error.message : 'Unknown error';
-    return NextResponse.json({ success: false, error: errorMessage }, { status: 500 });
+    console.error(
+      "Workers AI hint generation failed:",
+      error instanceof Error ? error.name : "UnknownError",
+    );
+    return NextResponse.json(
+      { success: false, error: "Hints are temporarily unavailable. Please try again." },
+      { status: 502 },
+    );
   }
 }

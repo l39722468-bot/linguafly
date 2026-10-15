@@ -1,5 +1,5 @@
-import OpenAI from 'openai';
-import { CEFRLevel } from '@/lib/exercise-types';
+import type { CEFRLevel } from "@/lib/exercise-types";
+import { runWorkersAIJson } from "@/lib/ai/workers-ai";
 
 export interface EvaluationResponse {
   score: number;
@@ -15,74 +15,77 @@ export interface EvaluationResponse {
   };
 }
 
+function score(value: unknown): number {
+  const parsed = typeof value === "number" ? value : Number(value);
+  return Number.isFinite(parsed) ? Math.max(0, Math.min(100, Math.round(parsed))) : 0;
+}
+
+function textArray(value: unknown): string[] {
+  if (!Array.isArray(value)) return [];
+  return value
+    .filter((item): item is string => typeof item === "string")
+    .map((item) => item.replace(/[\u0000-\u001f\u007f]/g, " ").trim().slice(0, 400))
+    .filter(Boolean)
+    .slice(0, 10);
+}
+
 export async function evaluateWithAI(
   prompt: string,
   userResponse: string,
   level: CEFRLevel,
-  type: 'writing' | 'speaking'
+  type: "writing" | "speaking",
 ): Promise<EvaluationResponse> {
-  const openai = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY || '',
-  });
-
-  if (!process.env.OPENAI_API_KEY) {
-    throw new Error('OPENAI_API_KEY is not configured');
+  const safePrompt = typeof prompt === "string" ? prompt.slice(0, 4000) : "";
+  const safeResponse = typeof userResponse === "string" ? userResponse.slice(0, 5000) : "";
+  if (!safePrompt.trim() || !safeResponse.trim()) {
+    throw new Error("Both the exercise prompt and student response are required.");
   }
 
-  const systemPrompt = `Eres un profesor experto de inglés especializado en el Marco Común Europeo de Referencia (MCER).
-Tu tarea es evaluar la respuesta de un estudiante de nivel ${level} para un ejercicio de ${type === 'writing' ? 'escritura' : 'expresión oral'}.
-
-Proporciona una evaluación pedagógica, constructiva y detallada en español.
-Para el nivel ${level}, sé ${level.startsWith('A') ? 'más tolerante con errores gramaticales menores' : 'más exigente con la precisión y el vocabulario'}.
-
-Responde SIEMPRE en formato JSON con la siguiente estructura exacta:
-{
-  "score": número del 0 al 100,
-  "feedback": "Retroalimentación general positiva y constructiva en español (máx 200 caracteres)",
-  "corrections": ["lista de errores específicos encontrados y su corrección"],
-  "suggestions": ["lista de sugerencias para mejorar la respuesta o usar vocabulario más avanzado"],
-  "metrics": {
-    "grammar": número 0-100,
-    "vocabulary": número 0-100,
-    ${type === 'speaking' ? '"fluency": número 0-100, "pronunciation": número 0-100' : '"coherence": número 0-100'}
-  }
-}`;
-
-  const userPrompt = `
-NIVEL MCER: ${level}
-TIPO DE EJERCICIO: ${type}
-PREGUNTA/INSTRUCCIÓN: "${prompt}"
-RESPUESTA DEL ESTUDIANTE: "${userResponse}"
-`;
+  const metricsExample = type === "speaking"
+    ? '{"grammar":80,"vocabulary":75,"fluency":80,"pronunciation":75}'
+    : '{"grammar":80,"vocabulary":75,"coherence":80}';
+  const systemPrompt = [
+    "Eres un profesor experto de inglés especializado en el Marco Común Europeo de Referencia (MCER).",
+    "Evalúa la respuesta de un estudiante de nivel " + level + " en un ejercicio de " + (type === "writing" ? "escritura" : "expresión oral") + ".",
+    "Sé constructivo, justo y detallado en español. Para niveles A1/A2, tolera errores menores; para niveles superiores, sé más exigente.",
+    "Basa la evaluación solo en el ejercicio y respuesta suministrados; no inventes errores ni hagas afirmaciones sobre pronunciación que no puedas deducir de una transcripción.",
+    "Devuelve únicamente un JSON con esta estructura:",
+    '{"score":80,"feedback":"feedback en español, máximo 200 caracteres","corrections":["errores específicos y sus correcciones"],"suggestions":["sugerencias de mejora"],"metrics":' + metricsExample + '}',
+  ].join("\n");
 
   try {
-    const response = await openai.chat.completions.create({
-      model: 'gpt-4o',
-      messages: [
-        { role: 'system', content: systemPrompt },
-        { role: 'user', content: userPrompt }
-      ],
-      response_format: { type: 'json_object' },
-      temperature: 0.3,
-    });
+    const evaluation = await runWorkersAIJson([
+      { role: "system", content: systemPrompt },
+      {
+        role: "user",
+        content: "NIVEL MCER: " + level + "\nTIPO: " + type +
+          "\nINSTRUCCIÓN DEL EJERCICIO:\n" + safePrompt +
+          "\n\nRESPUESTA DEL ESTUDIANTE:\n" + safeResponse,
+      },
+    ], { temperature: 0.2, maxTokens: 650 });
 
-    const content = response.choices[0].message.content;
-    if (!content) {
-      throw new Error('No se recibió contenido de la IA');
-    }
-
-    const evaluation = JSON.parse(content);
-    
-    // Asegurar que los campos existan
-    return {
-      score: evaluation.score ?? 0,
-      feedback: evaluation.feedback ?? 'No se pudo generar feedback.',
-      corrections: Array.isArray(evaluation.corrections) ? evaluation.corrections : [],
-      suggestions: Array.isArray(evaluation.suggestions) ? evaluation.suggestions : [],
-      metrics: evaluation.metrics
+    const rawMetrics = evaluation.metrics && typeof evaluation.metrics === "object" && !Array.isArray(evaluation.metrics)
+      ? evaluation.metrics as Record<string, unknown>
+      : {};
+    const metrics: NonNullable<EvaluationResponse["metrics"]> = {
+      grammar: score(rawMetrics.grammar),
+      vocabulary: score(rawMetrics.vocabulary),
+      ...(type === "speaking"
+        ? { fluency: score(rawMetrics.fluency), pronunciation: score(rawMetrics.pronunciation) }
+        : { coherence: score(rawMetrics.coherence) }),
     };
-  } catch (error: any) {
-    console.error('Error in AI evaluation:', error);
-    throw error;
+
+    return {
+      score: score(evaluation.score),
+      feedback: typeof evaluation.feedback === "string"
+        ? evaluation.feedback.slice(0, 500)
+        : "No se pudo generar feedback.",
+      corrections: textArray(evaluation.corrections),
+      suggestions: textArray(evaluation.suggestions),
+      metrics,
+    };
+  } catch (error: unknown) {
+    console.error("Workers AI evaluation failed:", error instanceof Error ? error.name : "UnknownError");
+    throw new Error("No se ha podido evaluar la respuesta con IA.");
   }
 }

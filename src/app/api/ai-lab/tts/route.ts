@@ -1,34 +1,67 @@
-import { NextRequest, NextResponse } from 'next/server';
-import OpenAI from 'openai';
-
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY || '',
-});
+import { NextRequest, NextResponse } from "next/server";
+import { enforceAIRateLimit, getAuraSpeaker, getWorkersAIBinding, WORKERS_AI_TTS_MODEL } from "@/lib/ai/workers-ai";
 
 export async function POST(request: NextRequest) {
-  try {
-    const { text, voice = 'alloy' } = await request.json();
+  const rateLimitResponse = await enforceAIRateLimit(request, "ai-lab-tts");
+  if (rateLimitResponse) return rateLimitResponse;
 
-    if (!text) {
-      return NextResponse.json({ error: 'No text provided' }, { status: 400 });
+  let body: Record<string, unknown>;
+  try {
+    const parsed: unknown = await request.json();
+    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
+      return NextResponse.json({ error: "Invalid request body." }, { status: 400 });
+    }
+    body = parsed as Record<string, unknown>;
+  } catch {
+    return NextResponse.json({ error: "Invalid JSON body." }, { status: 400 });
+  }
+
+  const text = typeof body.text === "string" ? body.text.trim() : "";
+  if (!text) return NextResponse.json({ error: "Text is required." }, { status: 400 });
+  if (text.length > 1800) {
+    return NextResponse.json({ error: "Text exceeds the 1,800 character voice limit." }, { status: 413 });
+  }
+
+  try {
+    const ai = await getWorkersAIBinding();
+    const result = await ai.run(
+      WORKERS_AI_TTS_MODEL,
+      {
+        text,
+        speaker: getAuraSpeaker(body.voice),
+        encoding: "mp3",
+      },
+      { returnRawResponse: true },
+    );
+
+    if (result instanceof Response) {
+      if (!result.ok) {
+        console.error("Workers AI lab TTS returned status:", result.status);
+        return NextResponse.json({ error: "Voice generation failed." }, { status: 502 });
+      }
+      return new Response(result.body, {
+        status: 200,
+        headers: {
+          "Content-Type": result.headers.get("Content-Type") || "audio/mpeg",
+          "Cache-Control": "no-store",
+          "X-Content-Type-Options": "nosniff",
+        },
+      });
     }
 
-    const mp3 = await openai.audio.speech.create({
-      model: 'tts-1',
-      voice: voice as any,
-      input: text,
-    });
+    if (result instanceof ReadableStream) {
+      return new Response(result, {
+        headers: {
+          "Content-Type": "audio/mpeg",
+          "Cache-Control": "no-store",
+          "X-Content-Type-Options": "nosniff",
+        },
+      });
+    }
 
-    const buffer = Buffer.from(await mp3.arrayBuffer());
-
-    return new Response(buffer, {
-      headers: {
-        'Content-Type': 'audio/mpeg',
-      },
-    });
-
-  } catch (error: any) {
-    console.error('TTS Error:', error);
-    return NextResponse.json({ error: error.message }, { status: 500 });
+    return NextResponse.json({ error: "Voice generation returned an unsupported response." }, { status: 502 });
+  } catch (error: unknown) {
+    console.error("Workers AI lab TTS failed:", error instanceof Error ? error.name : "UnknownError");
+    return NextResponse.json({ error: "Voice is temporarily unavailable." }, { status: 502 });
   }
 }

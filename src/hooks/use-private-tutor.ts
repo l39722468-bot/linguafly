@@ -64,7 +64,11 @@ export function usePrivateTutor() {
       }));
 
       const instructions = getPrivateTutorSystemPrompt(tutorPrompt, category, level, 'theory');
-      await connectAI(instructions, (TUTOR_PROMPTS[tutorId] as any)?.voice || 'shimmer');
+      await connectAI(instructions, (TUTOR_PROMPTS[tutorId] as any)?.voice || 'shimmer', {
+        tutorId,
+        level,
+        scenario: category.title,
+      });
 
       return sessionId;
     } catch (err: any) {

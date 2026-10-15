@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { enforceAIRateLimit } from '@/lib/ai/workers-ai';
 import { synthesizeAura2English } from '@/lib/ai/cloudflare-tts';
 
 export const maxDuration = 30;
@@ -37,8 +38,17 @@ async function textToSpeech(text: string, gender: string, accountId: string, api
 }
 
 export async function POST(request: NextRequest) {
+  const rateLimitResponse = await enforceAIRateLimit(request, 'tutor-avatar-greet');
+  if (rateLimitResponse) return rateLimitResponse;
   try {
-    const { tutorId = 'emma', tutorGender = 'female', topic = 'general' } = await request.json();
+    const payload: unknown = await request.json();
+    if (!payload || typeof payload !== 'object' || Array.isArray(payload)) {
+      return NextResponse.json({ error: 'Invalid request body' }, { status: 400 });
+    }
+    const body = payload as Record<string, unknown>;
+    const tutorId = typeof body.tutorId === 'string' ? body.tutorId.slice(0, 40) : 'emma';
+    const tutorGender = body.tutorGender === 'male' ? 'male' : 'female';
+    const topic = typeof body.topic === 'string' ? body.topic.slice(0, 40) : 'general';
 
     const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;
     const apiToken = process.env.CLOUDFLARE_API_TOKEN;

@@ -23,6 +23,20 @@
   "images": {
     "binding": "IMAGES"
   },
+  "ai": {
+    "binding": "AI"
+  },
+  // Defense-in-depth limit per IP and route. Use a unique namespace_id per account.
+  "ratelimits": [
+    {
+      "name": "AI_RATE_LIMITER",
+      "namespace_id": "610154781",
+      "simple": {
+        "limit": 30,
+        "period": 60
+      }
+    }
+  ],
   // D1 (SQLite) — origen de verdad del contenido público.
   // Migraciones: wrangler d1 migrations apply linguafly_db --remote
   "d1_databases": [

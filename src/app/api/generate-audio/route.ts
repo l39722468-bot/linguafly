@@ -1,72 +1,76 @@
-import { NextRequest, NextResponse } from 'next/server';
-import OpenAI from 'openai';
+import { NextRequest, NextResponse } from "next/server";
+import { enforceAIRateLimit, getAuraSpeaker, getWorkersAIBinding, WORKERS_AI_TTS_MODEL } from "@/lib/ai/workers-ai";
 
-const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY || '',
-});
+const MAX_TEXT_LENGTH = 1800;
 
-export async function GET(request: NextRequest) {
+async function generateAudioResponse(textValue: unknown, voiceValue: unknown): Promise<Response> {
+  const text = typeof textValue === "string" ? textValue.trim() : "";
+  if (!text) return NextResponse.json({ error: "Text is required." }, { status: 400 });
+  if (text.length > MAX_TEXT_LENGTH) {
+    return NextResponse.json({ error: "Text exceeds the 1,800 character voice limit." }, { status: 413 });
+  }
+
   try {
-    const { searchParams } = new URL(request.url);
-    const text = searchParams.get('text');
-    const voice = searchParams.get('voice') || 'alloy';
+    const ai = await getWorkersAIBinding();
+    const result = await ai.run(
+      WORKERS_AI_TTS_MODEL,
+      { text, speaker: getAuraSpeaker(voiceValue), encoding: "mp3" },
+      { returnRawResponse: true },
+    );
 
-    if (!text) {
-      return NextResponse.json({ error: 'Text is required' }, { status: 400 });
+    if (result instanceof Response) {
+      if (!result.ok) {
+        console.error("Workers AI audio endpoint returned status:", result.status);
+        return NextResponse.json({ error: "Audio generation failed." }, { status: 502 });
+      }
+      return new Response(result.body, {
+        status: 200,
+        headers: {
+          "Content-Type": result.headers.get("Content-Type") || "audio/mpeg",
+          "Cache-Control": "no-store",
+          "X-Content-Type-Options": "nosniff",
+        },
+      });
     }
 
-    if (!process.env.OPENAI_API_KEY) {
-      return NextResponse.json({ error: 'OpenAI API key is not configured' }, { status: 500 });
+    if (result instanceof ReadableStream) {
+      return new Response(result, {
+        status: 200,
+        headers: {
+          "Content-Type": "audio/mpeg",
+          "Cache-Control": "no-store",
+          "X-Content-Type-Options": "nosniff",
+        },
+      });
     }
 
-    const mp3 = await openai.audio.speech.create({
-      model: "tts-1",
-      voice: voice as any,
-      input: text,
-    });
-
-    const buffer = Buffer.from(await mp3.arrayBuffer());
-
-    return new NextResponse(buffer, {
-      headers: {
-        'Content-Type': 'audio/mpeg',
-        'Content-Length': buffer.length.toString(),
-      },
-    });
-  } catch (error: any) {
-    console.error('Error generating audio:', error);
-    return NextResponse.json({ error: error.message || 'Error generating audio' }, { status: 500 });
+    return NextResponse.json({ error: "Audio generation returned an unsupported response." }, { status: 502 });
+  } catch (error: unknown) {
+    console.error("Workers AI audio generation failed:", error instanceof Error ? error.name : "UnknownError");
+    return NextResponse.json({ error: "Audio generation is temporarily unavailable." }, { status: 502 });
   }
 }
 
+export async function GET(request: NextRequest) {
+  const rateLimitResponse = await enforceAIRateLimit(request, 'generate-audio');
+  if (rateLimitResponse) return rateLimitResponse;
+  const { searchParams } = new URL(request.url);
+  return generateAudioResponse(searchParams.get("text"), searchParams.get("voice"));
+}
+
 export async function POST(request: NextRequest) {
+  const rateLimitResponse = await enforceAIRateLimit(request, 'generate-audio');
+  if (rateLimitResponse) return rateLimitResponse;
+  let body: Record<string, unknown>;
   try {
-    const { text, voice = 'alloy' } = await request.json();
-
-    if (!text) {
-      return NextResponse.json({ error: 'Text is required' }, { status: 400 });
+    const parsed: unknown = await request.json();
+    if (!parsed || typeof parsed !== "object" || Array.isArray(parsed)) {
+      return NextResponse.json({ error: "Invalid request body." }, { status: 400 });
     }
-
-    if (!process.env.OPENAI_API_KEY) {
-      return NextResponse.json({ error: 'OpenAI API key is not configured' }, { status: 500 });
-    }
-
-    const mp3 = await openai.audio.speech.create({
-      model: "tts-1",
-      voice: voice as any,
-      input: text,
-    });
-
-    const buffer = Buffer.from(await mp3.arrayBuffer());
-
-    return new NextResponse(buffer, {
-      headers: {
-        'Content-Type': 'audio/mpeg',
-        'Content-Length': buffer.length.toString(),
-      },
-    });
-  } catch (error: any) {
-    console.error('Error generating audio:', error);
-    return NextResponse.json({ error: error.message || 'Error generating audio' }, { status: 500 });
+    body = parsed as Record<string, unknown>;
+  } catch {
+    return NextResponse.json({ error: "Invalid JSON body." }, { status: 400 });
   }
+
+  return generateAudioResponse(body.text, body.voice);
 }
