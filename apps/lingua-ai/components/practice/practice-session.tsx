@@ -225,11 +225,6 @@ export function PracticeSession({
   const [answers, setAnswers] = useState<number[]>([]);
   const [finished, setFinished] = useState(false);
   const question = questions[questionIndex];
-  const score = answers.reduce(
-    (total, answer, index) => total + (answer === questions[index]?.correctIndex ? 1 : 0),
-    0,
-  );
-
   function checkAnswer() {
     if (selected === null) return;
     setChecked(true);
