@@ -123,7 +123,7 @@ export async function searchTutorKnowledge(
 
   const ftsQuery = terms.map((term) => `"${term.replace(/"/g, "")}"`).join(" OR ");
   const safeLimit = Math.max(1, Math.min(limit, 4));
-  const safeToCache = query.length <= 180 && !PERSONAL_QUERY.test(query) && !/@|\b\\d{7,}\b/.test(query);
+  const safeToCache = query.length <= 180 && !PERSONAL_QUERY.test(query) && !/@|\b\d{7,}\b/.test(query);
   let hotCacheKey: string | null = null;
 
   if (safeToCache) {
