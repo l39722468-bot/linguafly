@@ -2,7 +2,7 @@
 
 ## Objetivo y alcance
 
-La migración sustituye las llamadas de ejecución a la API de OpenAI en los flujos interactivos de conversación, tutoría, voz, pistas y evaluación por bindings de Cloudflare Workers AI. El Worker público incluye ahora la página `/tutor-ia` y sus endpoints `/api/tutor-avatar/greet` y `/api/tutor-avatar/turn`, además de la experiencia de artículos. No cambia el contenido de cursos ni modifica las tablas de D1/Supabase.
+- `POST /api/tutor-avatar/greet` y `POST /api/tutor-avatar/turn` usan el binding `AI` para TTS, Whisper y chat; comparten limitación de solicitudes y no necesitan tokens REST en runtime.
 
 La implementación de voz de esta fase es **por turnos**, no una conversación de audio full-duplex en streaming: el navegador detecta una pausa, envía la grabación a Whisper, genera la respuesta con GLM y sintetiza la voz con Aura. Esto evita depender de OpenAI Realtime, pero añade la latencia de tres solicitudes consecutivas. Se debe medir antes de anunciarlo como «tiempo real».
 
@@ -35,7 +35,7 @@ El adaptador común está en \`src/lib/ai/workers-ai.ts\`. Mantiene un único pu
 
 El limitador aplica un máximo inicial de 30 solicitudes por minuto por ruta e IP, por ubicación de Cloudflare. Es una defensa adicional; sus contadores son eventualmente consistentes y locales a la ubicación. **No es una cuota de facturación ni reemplaza los límites por usuario/plan**. Antes de cobrar a usuarios hay que integrar la autenticación y cuotas de producto, revisar reglas de WAF y monitorización, y confirmar que el \`namespace_id\` elegido sea único en la cuenta de Cloudflare. Las rutas de IA fallan de forma cerrada en producción si no encuentran el binding del limitador.
 
-No hay secretos nuevos que añadir para Workers AI: el binding usa la identidad de Cloudflare. Las rutas de tutor-avatar existentes siguen usando las variables \`CLOUDFLARE_ACCOUNT_ID\` y \`CLOUDFLARE_API_TOKEN\` para las llamadas REST que ya tenían; no se devuelven estos valores al cliente.
+Las rutas del tutor oral usan el binding `AI` de Cloudflare; no necesitan que `CLOUDFLARE_ACCOUNT_ID` ni `CLOUDFLARE_API_TOKEN` estén configurados como variables runtime del Worker.
 
 ## Límites y controles del adaptador
 
@@ -58,7 +58,7 @@ Ejecutar en un entorno con dependencias instaladas:
 6. Medir p50/p95 de la transcripción, generación de texto y TTS por separado, coste real y duración por turno.
 7. Revisar los logs de Cloudflare y activar límites/alertas de gasto antes del despliegue público.
 
-No se debe considerar superado el control de calidad hasta que estas pruebas se ejecuten contra un entorno Cloudflare real. La rama y el código se prepararon mediante GitHub; el build y las llamadas reales a Workers AI no se han ejecutado desde esta sesión.
+El build y las llamadas reales a Workers AI deben verificarse contra la versión publicada en Cloudflare antes de considerar la migración validada.
 
 ## Dependencias de OpenAI que permanecen
 
