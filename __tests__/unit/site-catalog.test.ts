@@ -96,6 +96,7 @@ describe("site catalog", () => {
     expect(getParkedPageRedirect("/blog/ejercicios-relacionados")).toBe("/blog");
     expect(getParkedPageRedirect("/frases-en-ingles")).toBe("/");
     expect(getParkedPageRedirect("/vocabulario")).toBe("/");
+    expect(getParkedPageRedirect("/tutor-ia")).toBeNull();
     expect(getParkedPageRedirect("/misiones")).toBe("/");
     expect(getParkedPageRedirect("/pagina-que-no-existe-xyz")).toBeNull();
     expect(getParkedPageRedirect("/idiomas")).toBeNull();
