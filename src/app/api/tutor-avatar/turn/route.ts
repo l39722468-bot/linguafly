@@ -1,5 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import {
+  base64ToAudioBytes,
   enforceAIRateLimit,
   getWorkersAIBinding,
   runWorkersAIJson,
@@ -115,8 +116,11 @@ function getTranscriptionText(result: unknown): string {
 
 async function transcribeAudio(audioBase64: string): Promise<string> {
   const ai = await getWorkersAIBinding();
+  const audio = base64ToAudioBytes(audioBase64);
+  if (audio.length === 0) throw new Error("Audio payload is empty.");
+
   const result = await ai.run(WORKERS_AI_STT_MODEL, {
-    audio: audioBase64,
+    audio,
     task: 'transcribe',
     language: 'en',
     condition_on_previous_text: false,
@@ -184,6 +188,7 @@ export async function POST(request: NextRequest) {
   const rateLimitResponse = await enforceAIRateLimit(request, 'tutor-avatar-turn');
   if (rateLimitResponse) return rateLimitResponse;
 
+  let failureStage = 'request';
   try {
     const contentLength = Number(request.headers.get('content-length') || 0);
     if (Number.isFinite(contentLength) && contentLength > 15 * 1024 * 1024) {
@@ -239,6 +244,7 @@ export async function POST(request: NextRequest) {
       return NextResponse.json({ noSpeechDetected: true }, { status: 200 });
     }
 
+    failureStage = 'transcription';
     const rawTranscription = await transcribeAudio(audioBase64);
     const hallucinations = new Set([
       '', ' ', '.', '..', '...', 'you', 'you.', 'You.', 'You',
@@ -255,6 +261,7 @@ export async function POST(request: NextRequest) {
 
     let imageDescription = '';
     if (imageBase64) {
+      failureStage = 'image_analysis';
       try {
         imageDescription = await analyzeImageWithVision(imageBase64);
       } catch (error: unknown) {
@@ -273,6 +280,7 @@ export async function POST(request: NextRequest) {
       ? `[The student shared an image. Image description: ${imageDescription}]\n\nStudent said: ${rawTranscription}`
       : rawTranscription;
 
+    failureStage = 'blog_retrieval';
     const articles = await searchTutorKnowledge(rawTranscription, effectiveTopic, 3);
     const messages: WorkersAIMessage[] = [
       {
@@ -288,6 +296,7 @@ export async function POST(request: NextRequest) {
       { role: 'user', content: userContent },
     ];
 
+    failureStage = 'text_generation';
     const { reply, feedback } = await chatWithTutor(messages);
     let audioBase64Out = '';
     let audioUnavailable = false;
@@ -323,11 +332,23 @@ export async function POST(request: NextRequest) {
     });
   } catch (error: unknown) {
     console.error(
-      'Tutor avatar turn failed:',
+      `Tutor avatar turn failed at ${failureStage}:`,
       error instanceof Error ? `${error.name}: ${error.message.slice(0, 180)}` : 'UnknownError',
     );
+
+    const stageMessages: Record<string, string> = {
+      transcription: "No he podido transcribir el audio. Habla unos segundos con claridad y vuelve a intentarlo.",
+      image_analysis: "No he podido analizar la imagen. Prueba sin imagen o vuelve a adjuntarla.",
+      blog_retrieval: "No he podido consultar las guías en este turno. Vuelve a intentarlo.",
+      text_generation: "He recibido el audio, pero no he podido generar una respuesta. Inténtalo de nuevo.",
+      request: "No he podido procesar este turno. Comprueba la conexión e inténtalo de nuevo.",
+    };
+
     return NextResponse.json(
-      { error: 'The tutor is temporarily unavailable. Please try again.' },
+      {
+        error: stageMessages[failureStage] ?? stageMessages.request,
+        stage: failureStage,
+      },
       { status: 502 },
     );
   }
