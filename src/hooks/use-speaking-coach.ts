@@ -56,7 +56,11 @@ export function useSpeakingCoach() {
       }));
 
       const instructions = getSpeakingCoachSystemPrompt(tutorPrompt, scenario, level, memory);
-      await connectAI(instructions, (TUTOR_PROMPTS[tutorId] as any)?.voice || 'shimmer');
+      await connectAI(instructions, (TUTOR_PROMPTS[tutorId] as any)?.voice || 'shimmer', {
+        tutorId,
+        level,
+        scenario: scenario.title,
+      });
 
       return sessionId;
     } catch (err: any) {

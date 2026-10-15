@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { enforceAIRateLimit } from '@/lib/ai/workers-ai';
 import {
   CF_LLAMA_3_2_11B_VISION_INSTRUCT,
   CF_LLAMA_3_3_70B_INSTRUCT_FP8_FAST,
@@ -138,11 +139,23 @@ async function textToSpeech(text: string, gender: string, accountId: string, api
 }
 
 export async function POST(request: NextRequest) {
+  const rateLimitResponse = await enforceAIRateLimit(request, 'tutor-avatar-turn');
+  if (rateLimitResponse) return rateLimitResponse;
   try {
+    const contentLength = Number(request.headers.get('content-length') || 0);
+    if (Number.isFinite(contentLength) && contentLength > 15 * 1024 * 1024) {
+      return NextResponse.json({ error: 'Audio/image request must be 15 MB or smaller.' }, { status: 413 });
+    }
     const { audioBase64, imageBase64 = null, history = [], tutorId = 'emma', tutorGender = 'female', level = 'B1', topic = 'General conversation' } = await request.json();
 
-    if (!audioBase64) {
+    if (typeof audioBase64 !== 'string' || !audioBase64) {
       return NextResponse.json({ error: 'audioBase64 is required' }, { status: 400 });
+    }
+    if (audioBase64.length > 11 * 1024 * 1024) {
+      return NextResponse.json({ error: 'Audio must be 8 MB or smaller.' }, { status: 413 });
+    }
+    if (imageBase64 !== null && (typeof imageBase64 !== 'string' || imageBase64.length > 5 * 1024 * 1024)) {
+      return NextResponse.json({ error: 'Image must be 4 MB or smaller.' }, { status: 413 });
     }
 
     const accountId = process.env.CLOUDFLARE_ACCOUNT_ID;

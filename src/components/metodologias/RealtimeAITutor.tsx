@@ -23,7 +23,7 @@ const aiTutors: AITutor[] = [
     name: 'Emma',
     avatar: '👩‍🏫',
     specialty: 'Business English',
-    voice: 'shimmer', // OpenAI Voice
+    voice: 'shimmer', // Mapped to a Cloudflare Aura speaker
     personality: 'Professional & Friendly',
     difficulty: 'Intermediate'
   },
@@ -58,7 +58,7 @@ interface FeedbackData {
   original: string
   correction: string
   explanation: string
-  score: number
+  score?: number
 }
 
 export default function RealtimeAITutor() {
@@ -69,19 +69,16 @@ export default function RealtimeAITutor() {
   const { isConnected, isConnecting, isListening, isSpeaking, transcript, error, connect, disconnect, startRecording } = useRealtimeAI()
   const scrollRef = useRef<HTMLDivElement>(null)
 
-  // Listen for specific feedback in transcript (simulated parsing for this version)
+  // Show only feedback returned by the tutor model; never fabricate a score or correction.
   useEffect(() => {
     const lastMsg = transcript[transcript.length - 1]
-    if (lastMsg?.role === 'assistant' && lastMsg.isFinal) {
-      // Logic to detect if AI provided a correction
-      if (lastMsg.text.toLowerCase().includes('you should say') || lastMsg.text.toLowerCase().includes('correction:')) {
-        // Mocking a structured feedback from AI response for the UI demonstration
-        // In a real scenario, we'd use function calling/tools in the Realtime API
+    if (lastMsg?.role === 'assistant' && lastMsg.feedback) {
+      const item = lastMsg.feedback
+      if (item.correction || item.explanation || item.original) {
         setFeedback({
-          original: "User input...",
-          correction: "Improved English version",
-          explanation: "Explicación de la mejora gramatical o de pronunciación.",
-          score: Math.floor(Math.random() * 20) + 80
+          original: item.original || '',
+          correction: item.correction || '',
+          explanation: item.explanation || '',
         })
       }
     }
@@ -99,7 +96,11 @@ export default function RealtimeAITutor() {
     Keep responses short and conversational.`
 
     setFeedback(null)
-    await connect(instructions, selectedTutor.voice)
+    await connect(instructions, selectedTutor.voice, {
+      tutorId: selectedTutor.id,
+      level: selectedTutor.difficulty,
+      scenario: selectedScenario.title,
+    })
     await startRecording()
   }
 
@@ -115,11 +116,11 @@ export default function RealtimeAITutor() {
 
       <div className="mb-8">
         <h1 className="text-4xl font-bold mb-3 bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">
-          AI Speaking Tutor v2 (Real-time)
+          AI Speaking Tutor
         </h1>
         <p className="text-gray-600 text-lg flex items-center gap-2">
           <span className="flex h-2 w-2 rounded-full bg-green-500 animate-pulse"></span>
-          Interactúa en tiempo real con tecnología OpenAI Realtime
+          Practica por turnos con voz: Workers AI, Whisper y Aura
         </p>
       </div>
 
@@ -297,9 +298,11 @@ export default function RealtimeAITutor() {
                   <MessageSquare className="w-5 h-5" />
                   Feedback de Pronunciación & Gramática
                 </h3>
-                <div className="bg-white px-3 py-1 rounded-full border border-blue-200 shadow-sm">
-                  <span className="text-sm font-bold text-blue-600">Puntuación: {feedback.score}%</span>
-                </div>
+                {typeof feedback.score === 'number' && (
+                  <div className="bg-white px-3 py-1 rounded-full border border-blue-200 shadow-sm">
+                    <span className="text-sm font-bold text-blue-600">Puntuación: {feedback.score}%</span>
+                  </div>
+                )}
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                 <div className="bg-white/60 p-4 rounded-xl">

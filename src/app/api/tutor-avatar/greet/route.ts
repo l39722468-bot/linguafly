@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { enforceAIRateLimit } from '@/lib/ai/workers-ai';
 import { synthesizeAura2English } from '@/lib/ai/cloudflare-tts';
 
 export const maxDuration = 30;
@@ -37,6 +38,8 @@ async function textToSpeech(text: string, gender: string, accountId: string, api
 }
 
 export async function POST(request: NextRequest) {
+  const rateLimitResponse = await enforceAIRateLimit(request, 'tutor-avatar-greet');
+  if (rateLimitResponse) return rateLimitResponse;
   try {
     const { tutorId = 'emma', tutorGender = 'female', topic = 'general' } = await request.json();
 

@@ -1,9 +1,12 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { evaluateWithAI } from '@/lib/ai/evaluator';
+import { enforceAIRateLimit } from '@/lib/ai/workers-ai';
 import { CEFRLevel } from '@/lib/exercise-types';
 
 
 export async function POST(request: NextRequest) {
+  const rateLimitResponse = await enforceAIRateLimit(request, 'evaluate-response');
+  if (rateLimitResponse) return rateLimitResponse;
   try {
     const body = await request.json();
     const { prompt, userResponse, level, type } = body;
