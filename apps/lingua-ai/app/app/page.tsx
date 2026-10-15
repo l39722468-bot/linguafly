@@ -1,3 +1,4 @@
+import Link from "next/link";
 import { headers } from "next/headers";
 import { redirect } from "next/navigation";
 import { getCloudflareContext } from "@opennextjs/cloudflare";
@@ -86,6 +87,24 @@ export default async function PrivateHomePage() {
               Objetivo de aprendizaje:{" "}
               {profile?.learning_goal ?? "Aún no configurado"}.
             </p>
+          </section>
+
+          <section className="mt-8 rounded-2xl border border-stone-200 bg-white p-6 sm:p-8">
+            <p className="text-sm font-medium uppercase tracking-wide text-stone-500">
+              Tu siguiente paso
+            </p>
+            <h2 className="mt-2 text-xl font-semibold tracking-tight">
+              Practica inglés a tu nivel
+            </h2>
+            <p className="mt-2 text-sm leading-6 text-stone-600">
+              Completa cinco preguntas, comprueba tus respuestas y aprende de las explicaciones en tu idioma.
+            </p>
+            <Link
+              href="/app/practica"
+              className="mt-5 inline-flex w-full items-center justify-center rounded-lg bg-stone-900 px-5 py-3 text-base font-medium text-white hover:bg-stone-800 sm:w-auto"
+            >
+              Empezar primera práctica
+            </Link>
           </section>
 
           <LearningProfileForm
