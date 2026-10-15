@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
 import {
-  base64ToAudioBytes,
   enforceAIRateLimit,
   getWorkersAIBinding,
   runWorkersAIJson,
@@ -116,11 +115,8 @@ function getTranscriptionText(result: unknown): string {
 
 async function transcribeAudio(audioBase64: string): Promise<string> {
   const ai = await getWorkersAIBinding();
-  const audio = base64ToAudioBytes(audioBase64);
-  if (audio.length === 0) throw new Error("Audio payload is empty.");
-
   const result = await ai.run(WORKERS_AI_STT_MODEL, {
-    audio,
+    audio: audioBase64,
     task: 'transcribe',
     language: 'en',
     condition_on_previous_text: false,
