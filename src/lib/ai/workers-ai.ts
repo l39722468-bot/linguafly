@@ -3,6 +3,7 @@ export const WORKERS_AI_FALLBACK_CHAT_MODEL = "@cf/meta/llama-3.1-8b-instruct-fa
 export const WORKERS_AI_STT_MODEL = "@cf/openai/whisper-large-v3-turbo";
 export const WORKERS_AI_TTS_MODEL = "@cf/deepgram/aura-1";
 export const WORKERS_AI_TTS_SPANISH_MODEL = "@cf/deepgram/aura-2-es";
+export const WORKERS_AI_TTS_ENGLISH_MODEL = "@cf/deepgram/aura-2-en";
 
 export type WorkersAIMessage = {
   role: "system" | "user" | "assistant";
