@@ -1,11 +1,10 @@
 #!/usr/bin/env node
 
-import { spawnSync } from "node:child_process";
-import { createRequire } from "node:module";
+import ts from "typescript";
+import path from "node:path";
+import process from "node:process";
 
-const require = createRequire(import.meta.url);
-
-const MIGRATION_FILES = new Set([
+const MIGRATION_FILES = [
   "__tests__/unit/workers-ai.test.ts",
   "src/app/api/ai-lab/chat/route.ts",
   "src/app/api/ai-lab/evaluate/route.ts",
@@ -29,59 +28,56 @@ const MIGRATION_FILES = new Set([
   "src/hooks/use-speaking-coach.ts",
   "src/lib/ai/evaluator.ts",
   "src/lib/ai/workers-ai.ts",
-]);
+];
+const REPO_ROOT = process.cwd();
+const normalized = (value) => path.relative(REPO_ROOT, value).replace(/\\/g, "/");
 
-const tscPath = require.resolve("typescript/bin/tsc");
-const result = spawnSync(
-  process.execPath,
-  [tscPath, "--noEmit", "--pretty", "false"],
-  { encoding: "utf8", maxBuffer: 64 * 1024 * 1024 },
-);
-
-if (result.error) {
-  console.error("Could not run TypeScript:", result.error.message);
+const configPath = ts.findConfigFile(REPO_ROOT, ts.sys.fileExists, "tsconfig.json");
+if (!configPath) {
+  console.error("Could not find tsconfig.json.");
+  process.exit(2);
+}
+const configRead = ts.readConfigFile(configPath, ts.sys.readFile);
+if (configRead.error) {
+  console.error(ts.flattenDiagnosticMessageText(configRead.error.messageText, "\n"));
+  process.exit(2);
+}
+const parsed = ts.parseJsonConfigFileContent(configRead.config, ts.sys, path.dirname(configPath));
+if (parsed.errors.length) {
+  console.error(ts.formatDiagnosticsWithColorAndContext(parsed.errors, {
+    getCurrentDirectory: () => REPO_ROOT,
+    getCanonicalFileName: (value) => value,
+    getNewLine: () => "\n",
+  }));
   process.exit(2);
 }
 
-const output = [result.stdout || "", result.stderr || ""].join("\n");
-const diagnostics = [];
-const diagnosticPattern = /^(.+?)\((\d+),(\d+)\): error TS(\d+): (.*)$/gm;
-for (const match of output.matchAll(diagnosticPattern)) {
-  diagnostics.push({
-    file: match[1].replace(/\\/g, "/").replace(/^\.\//, ""),
-    line: Number(match[2]),
-    column: Number(match[3]),
-    code: "TS" + match[4],
-    message: match[5],
-  });
-}
+const rootNames = [
+  path.join(REPO_ROOT, "next-env.d.ts"),
+  ...MIGRATION_FILES.map((file) => path.join(REPO_ROOT, file)),
+];
+const options = { ...parsed.options, noEmit: true, incremental: false, composite: false };
+const program = ts.createProgram({ rootNames, options });
+const diagnostics = [...program.getOptionsDiagnostics()];
 
-if (result.status !== 0 && diagnostics.length === 0) {
-  console.error(output.slice(-12000));
-  console.error("TypeScript exited non-zero without parsable diagnostics; refusing to pass the check.");
-  process.exit(2);
-}
-
-const scopedErrors = diagnostics.filter((diagnostic) => MIGRATION_FILES.has(diagnostic.file));
-if (scopedErrors.length > 0) {
-  console.error("TypeScript errors were found in the Workers AI migration files:");
-  for (const error of scopedErrors) {
-    console.error(error.file + "(" + error.line + "," + error.column + "): error " + error.code + ": " + error.message);
+for (const file of MIGRATION_FILES) {
+  const source = program.getSourceFile(path.join(REPO_ROOT, file));
+  if (!source) {
+    console.error("TypeScript did not load migration file: " + file);
+    process.exit(2);
   }
-  console.error("Migration type-check failed: " + scopedErrors.length + " scoped error(s).");
+  diagnostics.push(...program.getSyntacticDiagnostics(source));
+  diagnostics.push(...program.getSemanticDiagnostics(source));
+}
+
+if (diagnostics.length > 0) {
+  console.error(ts.formatDiagnosticsWithColorAndContext(diagnostics, {
+    getCurrentDirectory: () => REPO_ROOT,
+    getCanonicalFileName: (value) => value,
+    getNewLine: () => "\n",
+  }));
+  console.error("Workers AI migration type-check failed: " + diagnostics.length + " diagnostic(s).");
   process.exit(1);
 }
 
-const unrelatedFiles = new Set(diagnostics.map((diagnostic) => diagnostic.file));
-console.log("Workers AI migration type-check passed: no diagnostics in migration files.");
-if (diagnostics.length > 0) {
-  console.warn(
-    "The repository-wide TypeScript project currently has " + diagnostics.length + " diagnostic(s) across " +
-      unrelatedFiles.size + " file(s) outside this migration. They are not suppressed; " +
-      "the standalone project type-check remains a separate repository-wide cleanup task.",
-  );
-  const examples = [...unrelatedFiles].slice(0, 12);
-  console.warn("Existing unrelated-error examples:\n" + examples.map((file) => "- " + file).join("\n"));
-} else {
-  console.log("No project-wide TypeScript diagnostics.");
-}
+console.log("Workers AI migration type-check passed: no TypeScript diagnostics in " + MIGRATION_FILES.length + " migration files.");
