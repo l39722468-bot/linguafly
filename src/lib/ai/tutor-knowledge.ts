@@ -10,7 +10,7 @@ export type TutorKnowledgeArticle = {
 };
 
 type D1Statement = {
-  bind(...values: string[]): {
+  bind(...values: (string | number)[]): {
     all(): Promise<{ results?: unknown[] }>;
   };
 };
@@ -74,7 +74,7 @@ export async function searchTutorKnowledge(
   limit = 3,
 ): Promise<TutorKnowledgeArticle[]> {
   const topicTerms = TOPIC_SEARCH_TERMS[topic] ?? TOPIC_SEARCH_TERMS.general;
-  const terms = tokenizeQuery(`${topicTerms} ${query}`);
+  const terms = [...new Set([...tokenizeQuery(query), ...tokenizeQuery(topicTerms)])].slice(0, 10);
   if (terms.length === 0) return [];
 
   const ftsQuery = terms.map((term) => `"${term.replace(/"/g, "")}"`).join(" OR ");
@@ -110,7 +110,7 @@ export async function searchTutorKnowledge(
         )
       ORDER BY bm25(articles_fts)
       LIMIT ?
-    `).bind(ftsQuery, String(safeLimit)).all();
+    `).bind(ftsQuery, safeLimit).all();
 
     return (result.results ?? [])
       .filter((row): row is Record<string, unknown> => Boolean(row && typeof row === "object"))
