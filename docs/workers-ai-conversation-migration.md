@@ -2,7 +2,7 @@
 
 ## Objetivo y alcance
 
-Esta rama sustituye las llamadas de ejecución a la API de OpenAI en los flujos interactivos de conversación, tutoría, voz, pistas y evaluación por bindings de Cloudflare Workers AI. No cambia el contenido de cursos ni modifica las tablas de D1/Supabase.
+La migración sustituye las llamadas de ejecución a la API de OpenAI en los flujos interactivos de conversación, tutoría, voz, pistas y evaluación por bindings de Cloudflare Workers AI. El Worker público incluye ahora la página `/tutor-ia` y sus endpoints `/api/tutor-avatar/greet` y `/api/tutor-avatar/turn`, además de la experiencia de artículos. No cambia el contenido de cursos ni modifica las tablas de D1/Supabase.
 
 La implementación de voz de esta fase es **por turnos**, no una conversación de audio full-duplex en streaming: el navegador detecta una pausa, envía la grabación a Whisper, genera la respuesta con GLM y sintetiza la voz con Aura. Esto evita depender de OpenAI Realtime, pero añade la latencia de tres solicitudes consecutivas. Se debe medir antes de anunciarlo como «tiempo real».
 
