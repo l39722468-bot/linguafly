@@ -95,13 +95,13 @@ export function RealtimeConversation({
 
   useEffect(() => () => closeConnections(false), [closeConnections]);
 
-  function upsertTranscript(
+  const upsertTranscript = useCallback((
     role: TranscriptMessage["role"],
     id: string,
     text: string,
     isFinal: boolean,
     append: boolean,
-  ) {
+  ) => {
     setMessages((previous) => {
       const messageIndex = previous.findIndex((message) => message.id === id);
       if (messageIndex < 0) {
@@ -117,7 +117,7 @@ export function RealtimeConversation({
       };
       return updated;
     });
-  }
+  }, []);
 
   const handleServerEvent = useCallback((rawData: string) => {
     let event: {
@@ -177,7 +177,7 @@ export function RealtimeConversation({
       default:
         break;
     }
-  }, []);
+  }, [upsertTranscript]);
 
   async function startConversation() {
     if (status !== "idle") return;
@@ -364,10 +364,17 @@ export function RealtimeConversation({
                 <button
                   type="button"
                   onClick={startConversation}
-                  disabled={status === "connecting"}
-                  className="mt-5 w-full rounded-lg bg-stone-900 px-4 py-3 font-semibold text-white hover:bg-stone-800 disabled:cursor-wait disabled:opacity-60"
+                  className="mt-5 w-full rounded-lg bg-stone-900 px-4 py-3 font-semibold text-white hover:bg-stone-800"
                 >
                   Empezar conversación
+                </button>
+              ) : status === "connecting" ? (
+                <button
+                  type="button"
+                  disabled
+                  className="mt-5 w-full cursor-wait rounded-lg bg-stone-900 px-4 py-3 font-semibold text-white opacity-60"
+                >
+                  Conectando con el tutor…
                 </button>
               ) : (
                 <div className="mt-5 grid gap-2">
