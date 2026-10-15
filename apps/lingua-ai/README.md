@@ -88,6 +88,18 @@ También se puede ver el esquema completo desde la consola con `SELECT name, sql
 
 **No ejecutes estos SQL contra `linguafly_db`**: es la base de la web pública. Asegúrate de que el nombre de la página sea exactamente `lingua-ai-auth-db`.
 
+## Historial de prácticas
+
+Los resultados terminados se guardan en `practice_attempts`, dentro de la D1 exclusiva de esta app. La migración `migrations/0002_practice_attempts.sql` crea esa tabla y su índice; cada consulta y escritura filtra por el usuario de la sesión validada.
+
+Después de actualizar el código de esta app y antes de desplegarlo, ejecuta desde esta carpeta:
+
+```powershell
+npm run d1:migrate:remote
+```
+
+Este comando aplica las migraciones pendientes a `lingua-ai-auth-db` mediante la configuración de `apps/lingua-ai/wrangler.jsonc`. No ejecutes esta migración en `linguafly_db` ni cambies las migraciones de la web pública. Después puedes ejecutar `npx opennextjs-cloudflare build` y `npx wrangler deploy`.
+
 ## Preparar y desplegar el Worker
 
 El Worker configurado para esta app se llama `lingua-ai-app`. Su dominio deseado es `app.linguafly.app`, y la configuración personalizada se aplicará al desplegar.

@@ -2,6 +2,7 @@
 
 import Link from "next/link";
 import { useState } from "react";
+import { savePracticeAttempt } from "@/lib/practice/actions";
 
 type ExplanationLanguage = "es" | "ca" | "en" | "fr" | "pt" | "de" | "it";
 type Question = {
@@ -9,6 +10,21 @@ type Question = {
   options: string[];
   correctIndex: number;
   explanationKey: string;
+};
+
+const persistenceCopy: Record<ExplanationLanguage, {
+  saving: string;
+  saved: string;
+  error: string;
+  retry: string;
+}> = {
+  es: { saving: "Guardando resultado…", saved: "Resultado guardado en tu historial.", error: "No se ha podido guardar el resultado. Comprueba la conexión e inténtalo de nuevo.", retry: "Guardar resultado de nuevo" },
+  ca: { saving: "Desant el resultat…", saved: "Resultat desat a l'historial.", error: "No s'ha pogut desar el resultat. Comprova la connexió i torna-ho a provar.", retry: "Torna a desar el resultat" },
+  en: { saving: "Saving result…", saved: "Result saved to your history.", error: "The result could not be saved. Check your connection and try again.", retry: "Save result again" },
+  fr: { saving: "Enregistrement du résultat…", saved: "Résultat enregistré dans votre historique.", error: "Le résultat n'a pas pu être enregistré. Vérifiez la connexion et réessayez.", retry: "Enregistrer à nouveau" },
+  pt: { saving: "A guardar o resultado…", saved: "Resultado guardado no histórico.", error: "Não foi possível guardar o resultado. Verifica a ligação e tenta novamente.", retry: "Guardar novamente" },
+  de: { saving: "Ergebnis wird gespeichert…", saved: "Ergebnis im Verlauf gespeichert.", error: "Das Ergebnis konnte nicht gespeichert werden. Prüfe die Verbindung und versuche es erneut.", retry: "Ergebnis erneut speichern" },
+  it: { saving: "Salvataggio del risultato…", saved: "Risultato salvato nella cronologia.", error: "Non è stato possibile salvare il risultato. Controlla la connessione e riprova.", retry: "Salva di nuovo il risultato" },
 };
 
 const questionSets: Record<"basic" | "intermediate" | "advanced", Question[]> = {
@@ -224,6 +240,9 @@ export function PracticeSession({
   const [checked, setChecked] = useState(false);
   const [answers, setAnswers] = useState<number[]>([]);
   const [finished, setFinished] = useState(false);
+  const [saveState, setSaveState] = useState<"idle" | "saving" | "success" | "error">("idle");
+  const [completedScore, setCompletedScore] = useState<number | null>(null);
+  const saveMessages = persistenceCopy[locale];
   const question = questions[questionIndex];
   function checkAnswer() {
     if (selected === null) return;
@@ -235,9 +254,25 @@ export function PracticeSession({
     });
   }
 
-  function goNext() {
+  async function persistResult(score: number) {
+    setSaveState("saving");
+    try {
+      const result = await savePracticeAttempt(score);
+      setSaveState(result.status);
+    } catch {
+      setSaveState("error");
+    }
+  }
+
+  async function goNext() {
     if (questionIndex === questions.length - 1) {
+      const score = answers.reduce(
+        (total, answer, index) => total + (answer === questions[index]?.correctIndex ? 1 : 0),
+        0,
+      );
+      setCompletedScore(score);
       setFinished(true);
+      await persistResult(score);
       return;
     }
     setQuestionIndex((index) => index + 1);
@@ -251,10 +286,12 @@ export function PracticeSession({
     setChecked(false);
     setAnswers([]);
     setFinished(false);
+    setSaveState("idle");
+    setCompletedScore(null);
   }
 
   if (finished) {
-    const finalScore = answers.reduce(
+    const finalScore = completedScore ?? answers.reduce(
       (total, answer, index) => total + (answer === questions[index]?.correctIndex ? 1 : 0),
       0,
     );
@@ -283,15 +320,28 @@ export function PracticeSession({
               {t.dashboard}
             </Link>
           </div>
-          <p className="mt-5 text-xs leading-5 text-stone-500">
-            {locale === "es" ? "En esta primera versión, el resultado no se guarda en un historial." :
-             locale === "ca" ? "En aquesta primera versió, el resultat no es desa en un historial." :
-             locale === "fr" ? "Dans cette première version, le résultat n'est pas enregistré dans un historique." :
-             locale === "pt" ? "Nesta primeira versão, o resultado não fica guardado num histórico." :
-             locale === "de" ? "In dieser ersten Version wird das Ergebnis nicht im Verlauf gespeichert." :
-             locale === "it" ? "In questa prima versione, il risultato non viene salvato nella cronologia." :
-             "In this first version, the result is not saved to a history."}
-          </p>
+          {saveState !== "idle" ? (
+            <div className="mt-5 space-y-3">
+              <p
+                role={saveState === "error" ? "alert" : "status"}
+                className={`text-sm leading-6 ${saveState === "error" ? "text-red-700" : "text-stone-600"}`}
+              >
+                {saveState === "saving" ? saveMessages.saving :
+                 saveState === "success" ? saveMessages.saved : saveMessages.error}
+              </p>
+              {saveState === "error" ? (
+                <button
+                  type="button"
+                  onClick={() => {
+                    if (completedScore !== null) void persistResult(completedScore);
+                  }}
+                  className="rounded-lg border border-stone-300 px-4 py-2 text-sm font-medium text-stone-800 hover:bg-stone-100"
+                >
+                  {saveMessages.retry}
+                </button>
+              ) : null}
+            </div>
+          ) : null}
         </section>
       </main>
     );
