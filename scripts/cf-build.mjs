@@ -74,7 +74,6 @@ const EXCLUDED_APP_DIRS = [
   'test-nivel',
   'test-toefl',
   'test-translation',
-  'tutor-ia',
   'tutor-privado',
   'vocabulario',
   // Blog/course relation map + keyword hub pages — not the D1 article API,
@@ -110,7 +109,6 @@ const EXCLUDED_APP_DIRS = [
   path.join('api', 'translate'),
   path.join('api', 'translate-cloudflare'),
   path.join('api', 'tts'),
-  path.join('api', 'tutor-avatar'),
   path.join('api', 'vocabulario'),
 ];
 
