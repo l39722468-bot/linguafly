@@ -100,7 +100,7 @@ describe("Workers AI adapter helpers", () => {
       { role: "system", content: "Return bilingual examples as JSON." },
       { role: "user", content: "Give me an example." },
     ], { maxTokens: 700 })).resolves.toEqual({
-      reply: "English: I have one book.\\nEspañol: Tengo un libro.",
+      reply: "English: I have one book.\nEspañol: Tengo un libro.",
     });
 
     expect(run).toHaveBeenCalledWith(WORKERS_AI_FALLBACK_CHAT_MODEL, expect.objectContaining({
