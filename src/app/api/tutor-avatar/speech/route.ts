@@ -56,7 +56,7 @@ export async function POST(request: NextRequest) {
         text: pronunciationText,
         promise: synthesizeWorkersAIAudioBase64(
           pronunciationText,
-          tutorGender === 'female' ? 'luna' : 'orion',
+          tutorGender === 'female' ? 'athena' : 'draco',
           WORKERS_AI_TTS_ENGLISH_MODEL,
         ).then((audioBase64) => ({ language: 'en' as const, text: pronunciationText, audioBase64 })),
       });
