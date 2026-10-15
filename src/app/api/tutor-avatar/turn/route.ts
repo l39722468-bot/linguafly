@@ -68,13 +68,17 @@ Nivel actual o provisional del alumno: ${level}. Tema de práctica: ${topicLabel
 
 REGLA PRINCIPAL DE IDIOMA — OBLIGATORIA:
 - La conversación del tutor, las explicaciones, las instrucciones, las preguntas de seguimiento, las correcciones y los mensajes de ánimo deben estar SIEMPRE en español.
-- IDIOMA DEL MATERIAL: cuando el alumno pida ejemplos, frases, vocabulario, diálogos o ejercicios para aprender inglés, cada ejemplo original debe estar escrito en inglés. No sustituyas el inglés por frases en español aunque la petición esté formulada en español.
-- Puedes añadir la traducción al castellano debajo de cada frase inglesa, claramente separada. La traducción es complementaria y nunca reemplaza la frase en inglés.
-- Si pide ejemplos con un rango de números (por ejemplo, del 0 al 10), proporciona al menos un ejemplo en inglés por CADA número del rango, incluidos ambos extremos. Si pide "frases" o varios ejemplos, entrega la lista completa y no una única frase.
+- REGLA BILINGÜE OBLIGATORIA: cuando el alumno pida ejemplos, frases, vocabulario, diálogos o ejercicios para aprender inglés, cada ejemplo debe aparecer EN LOS DOS IDIOMAS. Primero escribe la frase original en inglés y justo debajo su traducción natural al castellano. Nunca muestres un ejemplo didáctico solo en español.
+- Usa EXACTAMENTE este formato para cada ejemplo:
+  0 — Zero
+  English: My phone balance is zero.
+  Español: El saldo de mi teléfono está a cero.
+- Para listas, repite el patrón "English: ..." y "Español: ..." en CADA elemento. El inglés va siempre primero; el castellano ayuda a entenderlo, no sustituye la frase inglesa.
+- Si pide ejemplos con un rango de números (por ejemplo, del 0 al 10), incluye un ejemplo de frase completo para CADA número del rango, incluidos ambos extremos; no basta con enumerar "0 — Zero, 1 — One..." ni con escribir frases solo en castellano.
 - No respondas en inglés como si mantuvieras una conversación social con el alumno. El inglés solo se usa como material didáctico, ejemplos citados o frases que el alumno debe practicar.
 - Si el alumno responde en inglés, comenta en español cómo lo ha hecho y, después, presenta la siguiente frase o pregunta de práctica en inglés con instrucciones en español.
 - Si el alumno habla en español, contéstale en español y ayúdale a expresar esa idea en inglés.
-- En turnos conversacionales normales, mantén la respuesta breve (2-4 frases). EXCEPCIÓN OBLIGATORIA: si el alumno pide ejemplos, una lista o frases para varios elementos/números, entrega todos los elementos solicitados; no recortes la lista para limitarla a 2-4 frases.
+- En turnos conversacionales normales, mantén la respuesta breve (2-4 frases). EXCEPCIÓN OBLIGATORIA: si el alumno pide ejemplos, una lista o frases para varios elementos/números, entrega todos los elementos solicitados en formato bilingüe, aunque la respuesta sea más larga.
 - Adapta la dificultad del inglés a su nivel. Corrige con amabilidad y sin interrumpir el hilo de la conversación.
 - Cuando corrijas un error, muestra la frase original y la versión correcta en inglés, y explica en español por qué cambia.
 - Usa los extractos recuperados de LinguaFly como referencia cuando sean relevantes. No inventes información ni digas que has leído una guía que no aparece en los extractos.
@@ -89,9 +93,9 @@ ${knowledgeContext}
 
 Devuelve SOLO un objeto JSON válido con este formato exacto:
 {
-  "reply": "Respuesta visible: explicación en español y todos los ejemplos solicitados en inglés; las traducciones al castellano solo sirven de apoyo",
-  "spokenSpanish": "Solo una introducción o explicación breve en español. No incluyas las frases de ejemplo en inglés.",
-  "pronunciationText": "Todas las frases de ejemplo en inglés, una por línea, sin traducciones ni etiquetas; cadena vacía solo si no hay frase que practicar",
+  "reply": "Respuesta visible: explicación en español y cada ejemplo con su frase en inglés primero y traducción al castellano debajo",
+  "spokenSpanish": "Solo la explicación en castellano. No incluyas ninguna frase de ejemplo en inglés.",
+  "pronunciationText": "Solo las frases originales en inglés que aparecen en reply, exactamente como están escritas, una por línea; sin traducciones ni etiquetas",
   "feedback": null
 }
 O si hay un error que corregir:
@@ -107,9 +111,11 @@ O si hay un error que corregir:
 }
 
 Reglas de audio:
-- pronunciationText debe contener SOLO el material en inglés que se va a pronunciar. Si la respuesta incluye una lista, incluye TODAS las frases inglesas solicitadas, una por línea y sin traducciones, etiquetas ni numeración. Límite total: 1400 caracteres. No reduzcas una lista pedida a una sola frase.
+- pronunciationText debe contener SOLO las frases originales en inglés de los ejemplos, copiadas de reply y en el mismo orden. Incluye todas las frases inglesas, una por línea, sin encabezados como "PRONUNCIACION_EN", sin traducciones y sin etiquetas de idioma. Límite total: 1400 caracteres.
 - Si solo estás preguntando en español por el tema o nivel, deja pronunciationText vacío.
-- spokenSpanish debe sonar natural por sí solo y no debe contener las frases inglesas de pronunciationText. La aplicación reproducirá primero la explicación en castellano y después las frases en inglés con voz británica.`;
+- spokenSpanish debe sonar natural por sí solo y no debe contener ninguna frase inglesa de pronunciationText.
+- No escribas nunca los nombres de campos técnicos (RESPUESTA, AUDIO_ES, PRONUNCIACION_EN) dentro de reply. Son campos internos, no contenido que deba ver el alumno.
+- Antes de devolver el JSON, verifica: cada ejemplo aparece como "English: [frase]" seguido de "Español: [traducción]"; pronunciationText contiene únicamente las frases inglesas; reply no contiene etiquetas técnicas.`;
 }
 function getTranscriptionText(result: unknown): string {
   if (typeof result === 'string') return result.trim();
@@ -173,24 +179,33 @@ type TutorAnswer = {
   feedback: TutorFeedback | null;
 };
 
+function cleanVisibleReply(value: string): string {
+  return value
+    // These are internal fallback-format markers, never learner-facing content.
+    .replace(/^\s*(?:RESPUESTA|AUDIO_ES|PRONUNCIACION_EN)\s*:?\s*$/gim, '')
+    .replace(/^\s*RESPUESTA\s*:\s*/i, '')
+    .trim()
+    .slice(0, 5000);
+}
+
 function parseFallbackAnswer(raw: string): Omit<TutorAnswer, 'feedback'> {
-  const match = raw.match(/RESPUESTA:\s*([\s\S]*?)\nAUDIO_ES:\s*([\s\S]*?)\nPRONUNCIACION_EN:\s*([\s\S]*)/i);
+  const match = raw.match(/RESPUESTA\s*:?\s*([\s\S]*?)\n\s*AUDIO_ES\s*:?\s*([\s\S]*?)\n\s*PRONUNCIACION_EN\s*:?\s*([\s\S]*)/i);
   if (match) {
-    const reply = match[1].trim().slice(0, 1800);
+    const reply = cleanVisibleReply(match[1]);
     const pronunciationText = match[3].trim().replace(/^["“]|["”]$/g, '').slice(0, 1400);
     let spokenSpanish = match[2].trim().slice(0, 1400);
     for (const phrase of pronunciationText.split(/\r?\n/).map((line) => line.trim()).filter(Boolean)) {
       spokenSpanish = spokenSpanish.split(phrase).join('').trim();
     }
     return {
-      reply: reply || raw.trim().slice(0, 1800),
+      reply: reply || cleanVisibleReply(raw),
       spokenSpanish: spokenSpanish || (pronunciationText
         ? 'Aquí tienes los ejemplos en inglés. Escucha cada frase y repítela.'
         : 'Aquí tienes la respuesta en pantalla.'),
       pronunciationText,
     };
   }
-  const reply = raw.trim().slice(0, 1800);
+  const reply = cleanVisibleReply(raw);
   return {
     reply,
     spokenSpanish: 'Aquí tienes la respuesta en pantalla. Escucha los ejemplos en inglés con el botón de pronunciación.',
@@ -201,7 +216,7 @@ function parseFallbackAnswer(raw: string): Omit<TutorAnswer, 'feedback'> {
 async function chatWithTutor(messages: WorkersAIMessage[]): Promise<TutorAnswer> {
   let result: Record<string, unknown>;
   try {
-    result = await runWorkersAIJson(messages, { temperature: 0.65, maxTokens: 900 });
+    result = await runWorkersAIJson(messages, { temperature: 0.65, maxTokens: 1400 });
   } catch (error: unknown) {
     console.error(
       "Structured tutor response failed; retrying in a compact audio-friendly format:",
@@ -224,7 +239,7 @@ No añadas texto antes de RESPUESTA ni cambies los marcadores.`,
     return { ...parseFallbackAnswer(raw), feedback: null };
   }
 
-  const reply = typeof result.reply === 'string' ? result.reply.trim().slice(0, 1800) : '';
+  const reply = typeof result.reply === 'string' ? cleanVisibleReply(result.reply) : '';
   const pronunciationText = typeof result.pronunciationText === 'string'
     ? result.pronunciationText.trim().replace(/^["“]|["”]$/g, '').slice(0, 1400)
     : '';
