@@ -4,8 +4,6 @@ import {
   getWorkersAIBinding,
   runWorkersAIJson,
   runWorkersAIText,
-  synthesizeWorkersAIAudioBase64,
-  WORKERS_AI_TTS_SPANISH_MODEL,
   WORKERS_AI_STT_MODEL,
   type WorkersAIMessage,
 } from '@/lib/ai/workers-ai';
@@ -89,18 +87,27 @@ ${knowledgeContext}
 
 Devuelve SOLO un objeto JSON válido con este formato exacto:
 {
-  "reply": "Respuesta conversacional en español, con fragmentos en inglés solo cuando sean contenido didáctico",
+  "reply": "Respuesta que se muestra en la conversación: explicación en español y, si procede, una frase de práctica en inglés",
+  "spokenSpanish": "Solo la parte hablada en español. No repitas aquí la frase inglesa que vaya en pronunciationText.",
+  "pronunciationText": "Una sola frase breve en inglés que el alumno debe aprender a pronunciar, o cadena vacía si no hace falta un ejemplo",
   "feedback": null
 }
 O si hay un error que corregir:
 {
-  "reply": "Explicación en español e indicación del ejercicio en inglés",
+  "reply": "Explicación en español y frase correcta en inglés",
+  "spokenSpanish": "Explicación únicamente en español, sin la frase inglesa",
+  "pronunciationText": "La frase correcta completa en inglés para practicar su pronunciación",
   "feedback": {
     "original": "frase original del alumno en inglés",
     "correction": "frase corregida en inglés",
     "explanation": "explicación breve en español"
   }
-}`;
+}
+
+Reglas de audio:
+- pronunciationText debe contener SOLO una frase inglesa completa y breve (máximo 200 caracteres); no incluyas traducción ni explicaciones en ese campo.
+- Si solo estás preguntando en español por el tema o nivel, deja pronunciationText vacío.
+- spokenSpanish debe sonar natural por sí solo y no debe contener la frase de pronunciationText; la aplicación reproducirá ambos segmentos seguidos con voces apropiadas para cada idioma.`;
 }
 function getTranscriptionText(result: unknown): string {
   if (typeof result === 'string') return result.trim();
@@ -157,34 +164,60 @@ async function analyzeImageWithVision(imageBase64: string): Promise<string> {
   return 'An image was shared.';
 }
 
-async function chatWithTutor(
-  messages: WorkersAIMessage[],
-): Promise<{ reply: string; feedback: TutorFeedback | null }> {
+type TutorAnswer = {
+  reply: string;
+  spokenSpanish: string;
+  pronunciationText: string;
+  feedback: TutorFeedback | null;
+};
+
+function parseFallbackAnswer(raw: string): Omit<TutorAnswer, 'feedback'> {
+  const match = raw.match(/RESPUESTA:\s*([\s\S]*?)\nAUDIO_ES:\s*([\s\S]*?)\nPRONUNCIACION_EN:\s*([\s\S]*)/i);
+  if (match) {
+    const reply = match[1].trim().slice(0, 1800);
+    return {
+      reply: reply || raw.trim().slice(0, 1800),
+      spokenSpanish: match[2].trim().slice(0, 1400) || reply,
+      pronunciationText: match[3].trim().replace(/^["“]|["”]$/g, '').slice(0, 200),
+    };
+  }
+  const reply = raw.trim().slice(0, 1800);
+  return { reply, spokenSpanish: reply, pronunciationText: '' };
+}
+
+async function chatWithTutor(messages: WorkersAIMessage[]): Promise<TutorAnswer> {
   let result: Record<string, unknown>;
   try {
-    result = await runWorkersAIJson(messages, { temperature: 0.7, maxTokens: 400 });
+    result = await runWorkersAIJson(messages, { temperature: 0.65, maxTokens: 300 });
   } catch (error: unknown) {
-    // A spoken tutor turn must not depend on GLM returning valid JSON every time.
-    // Retry in plain text on any structured-generation error; runWorkersAIText
-    // automatically switches to a second supported model if GLM itself fails.
     console.error(
-      "Structured tutor response failed; retrying as plain text:",
-      error instanceof Error ? `${error.name}: ${error.message.slice(0, 180)}` : "UnknownError",
+      "Structured tutor response failed; retrying in a compact audio-friendly format:",
+      error instanceof Error ? `${error.name}: ${error.message.slice(0, 160)}` : "UnknownError",
     );
     const system = messages.find((message) => message.role === "system");
-    const fallbackSystem = (system?.content ?? "You are a helpful English tutor.")
+    const fallbackSystem = (system?.content ?? "Eres un profesor de inglés. Habla siempre en español.")
       .replace(
         /(?:Respond ONLY with valid JSON in this exact format:|Devuelve SOLO un objeto JSON válido con este formato exacto:)[\s\S]*$/,
-        "Respond with only your natural conversational reply in plain text. Do not output JSON or Markdown.",
+        `Responde solo en español para explicar. Devuelve exactamente tres líneas con estos marcadores:
+RESPUESTA: explicación breve en español que puede incluir una frase de ejemplo en inglés
+AUDIO_ES: solo la explicación que debe pronunciar la voz española; no incluyas la frase inglesa
+PRONUNCIACION_EN: una única frase breve en inglés para que el alumno practique, o déjalo vacío
+No añadas otros marcadores ni texto fuera de esas tres líneas.`,
       );
-    const reply = await runWorkersAIText([
+    const raw = await runWorkersAIText([
       { role: "system", content: fallbackSystem },
       ...messages.filter((message) => message.role !== "system"),
-    ], { temperature: 0.7, maxTokens: 300 });
-    return { reply: reply.slice(0, 1800), feedback: null };
+    ], { temperature: 0.65, maxTokens: 230 });
+    return { ...parseFallbackAnswer(raw), feedback: null };
   }
 
   const reply = typeof result.reply === 'string' ? result.reply.trim().slice(0, 1800) : '';
+  const spokenSpanish = typeof result.spokenSpanish === 'string'
+    ? result.spokenSpanish.trim().slice(0, 1400)
+    : reply;
+  const pronunciationText = typeof result.pronunciationText === 'string'
+    ? result.pronunciationText.trim().replace(/^["“]|["”]$/g, '').slice(0, 200)
+    : '';
 
   let feedback: TutorFeedback | null = null;
   if (result.feedback && typeof result.feedback === 'object' && !Array.isArray(result.feedback)) {
@@ -203,7 +236,9 @@ async function chatWithTutor(
   }
 
   return {
-    reply: reply || "Sorry, I didn't understand. Could you say that again?",
+    reply: reply || "No te he entendido bien. ¿Puedes repetirlo, por favor?",
+    spokenSpanish: spokenSpanish || reply || "Vamos a intentarlo de nuevo.",
+    pronunciationText,
     feedback,
   };
 }
@@ -321,29 +356,16 @@ export async function POST(request: NextRequest) {
     ];
 
     failureStage = 'text_generation';
-    const { reply, feedback } = await chatWithTutor(messages);
-    let audioBase64Out = '';
-    let audioUnavailable = false;
-    try {
-      audioBase64Out = await synthesizeWorkersAIAudioBase64(
-        reply,
-        tutorGender === 'female' ? 'carina' : 'alvaro',
-        WORKERS_AI_TTS_SPANISH_MODEL,
-      );
-    } catch (error: unknown) {
-      audioUnavailable = true;
-      console.error(
-        'Tutor turn audio failed:',
-        error instanceof Error ? `${error.name}: ${error.message.slice(0, 180)}` : 'UnknownError',
-      );
-    }
+    const { reply, spokenSpanish, pronunciationText, feedback } = await chatWithTutor(messages);
 
+    // Return the readable answer immediately. The browser requests voice on a
+    // separate endpoint, so TTS latency no longer delays the visible response.
     return NextResponse.json({
       transcription: rawTranscription,
       reply,
+      spokenSpanish,
+      pronunciationText,
       feedback,
-      audioBase64: audioBase64Out,
-      audioUnavailable,
       level: effectiveLevel,
       topic: effectiveTopic,
       levelDetected: preferences.levelDetected,
