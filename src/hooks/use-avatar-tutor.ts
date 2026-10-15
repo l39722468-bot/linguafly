@@ -74,9 +74,9 @@ export function useAvatarTutor(config: UseTutorConfig) {
         voice.lang.toLowerCase() === utterance.lang.toLowerCase()
       ) ?? voices.find((voice) =>
         voice.lang.toLowerCase().startsWith(language === 'es' ? 'es-ES' : 'en-GB')
-      ) ?? voices.find((voice) =>
-        voice.lang.toLowerCase().startsWith(language === 'es' ? 'es' : 'en')
-      );
+      ) ?? (language === 'es'
+        ? voices.find((voice) => voice.lang.toLowerCase().startsWith('es'))
+        : undefined);
       if (matchingVoice) utterance.voice = matchingVoice;
       utterance.onend = () => resolve(true);
       utterance.onerror = () => resolve(false);
