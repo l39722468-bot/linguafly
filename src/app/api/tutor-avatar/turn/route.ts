@@ -203,7 +203,7 @@ export async function POST(request: NextRequest) {
       : 'emma';
     const tutorGender = body.tutorGender === 'male' ? 'male' : 'female';
     const level = typeof body.level === 'string' ? body.level.slice(0, 32) : 'B1';
-    const topic = typeof body.topic === 'string' ? body.topic.slice(0, 100) : 'General conversation';
+    const topic = typeof body.topic === 'string' ? body.topic.slice(0, 100) : 'general';
     const historyInput = Array.isArray(body.history) ? body.history.slice(-16) : [];
     const history: WorkersAIMessage[] = [];
     let historyCharacters = 0;
@@ -320,35 +320,6 @@ export async function POST(request: NextRequest) {
         category,
         level: articleLevel,
       })),
-    });
-  } catch (error: unknown) {
-        console.error(
-          'Tutor image analysis failed:',
-          error instanceof Error ? error.name : 'UnknownError',
-        );
-      }
-    }
-
-    const userContent = imageDescription
-      ? `[The student shared an image. Image description: ${imageDescription}]\n\nStudent said: ${rawTranscription}`
-      : rawTranscription;
-    const messages: WorkersAIMessage[] = [
-      { role: 'system', content: buildSystemPrompt(tutorId, level, topic) },
-      ...history,
-      { role: 'user', content: userContent },
-    ];
-
-    const { reply, feedback } = await chatWithTutor(messages);
-    const audioBase64Out = await synthesizeWorkersAIAudioBase64(
-      reply,
-      tutorGender === 'female' ? 'luna' : 'orion',
-    );
-
-    return NextResponse.json({
-      transcription: rawTranscription,
-      reply,
-      feedback,
-      audioBase64: audioBase64Out,
     });
   } catch (error: unknown) {
     console.error(
