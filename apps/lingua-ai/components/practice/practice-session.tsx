@@ -306,7 +306,6 @@ export function PracticeSession({
               {saveState === "error" ? (
                 <button
                   type="button"
-                  disabled={saveState === "saving"}
                   onClick={() => {
                     if (completedAnswers !== null) void persistResult(completedAnswers);
                   }}
