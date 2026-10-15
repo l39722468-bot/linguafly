@@ -8,6 +8,7 @@ import {
   getAuraSpeaker,
   parseJsonObject,
   runWorkersAIJson,
+  runWorkersAIJsonFast,
   runWorkersAIText,
   synthesizeWorkersAIAudioBase64,
   validateChatMessages,
@@ -89,6 +90,23 @@ describe("Workers AI adapter helpers", () => {
       }),
       { returnRawResponse: true },
     );
+  });
+
+  it("uses the fast fallback model for structured tutor repair", async () => {
+    const run = jest.fn().mockResolvedValue({ response: '{"reply":"English: I have one book.\\nEspañol: Tengo un libro."}' });
+    (getCloudflareContext as jest.Mock).mockResolvedValue({ env: { AI: { run } } });
+
+    await expect(runWorkersAIJsonFast([
+      { role: "system", content: "Return bilingual examples as JSON." },
+      { role: "user", content: "Give me an example." },
+    ], { maxTokens: 700 })).resolves.toEqual({
+      reply: "English: I have one book.\\nEspañol: Tengo un libro.",
+    });
+
+    expect(run).toHaveBeenCalledWith(WORKERS_AI_FALLBACK_CHAT_MODEL, expect.objectContaining({
+      max_tokens: 700,
+      temperature: 0.2,
+    }));
   });
 
   describe("runWorkersAIText fallback", () => {
