@@ -146,7 +146,37 @@ export async function POST(request: NextRequest) {
     if (Number.isFinite(contentLength) && contentLength > 15 * 1024 * 1024) {
       return NextResponse.json({ error: 'Audio/image request must be 15 MB or smaller.' }, { status: 413 });
     }
-    const { audioBase64, imageBase64 = null, history = [], tutorId = 'emma', tutorGender = 'female', level = 'B1', topic = 'General conversation' } = await request.json();
+    const payload: unknown = await request.json();
+    if (!payload || typeof payload !== 'object' || Array.isArray(payload)) {
+      return NextResponse.json({ error: 'Invalid request body' }, { status: 400 });
+    }
+    const body = payload as Record<string, unknown>;
+    const audioBase64 = body.audioBase64;
+    const imageBase64 = typeof body.imageBase64 === 'string' ? body.imageBase64 : null;
+    const tutorId = typeof body.tutorId === 'string' && Object.prototype.hasOwnProperty.call(TUTOR_SYSTEM_PROMPTS, body.tutorId)
+      ? body.tutorId
+      : 'emma';
+    const tutorGender = body.tutorGender === 'male' ? 'male' : 'female';
+    const level = typeof body.level === 'string' ? body.level.slice(0, 32) : 'B1';
+    const topic = typeof body.topic === 'string' ? body.topic.slice(0, 100) : 'General conversation';
+    const historyInput = Array.isArray(body.history) ? body.history.slice(-16) : [];
+    const history: { role: 'user' | 'assistant'; content: string }[] = [];
+    let historyCharacters = 0;
+    for (const item of historyInput) {
+      if (!item || typeof item !== 'object' || Array.isArray(item)) continue;
+      const row = item as Record<string, unknown>;
+      const role = row.role === 'assistant' || row.role === 'ai'
+        ? 'assistant'
+        : row.role === 'user' ? 'user' : null;
+      if (!role || typeof row.content !== 'string') continue;
+      const content = row.content.trim().slice(0, 1800);
+      if (!content) continue;
+      historyCharacters += content.length;
+      if (historyCharacters > 10000) {
+        return NextResponse.json({ error: 'Conversation history is too long.' }, { status: 413 });
+      }
+      history.push({ role, content });
+    }
 
     if (typeof audioBase64 !== 'string' || !audioBase64) {
       return NextResponse.json({ error: 'audioBase64 is required' }, { status: 400 });
@@ -154,7 +184,7 @@ export async function POST(request: NextRequest) {
     if (audioBase64.length > 11 * 1024 * 1024) {
       return NextResponse.json({ error: 'Audio must be 8 MB or smaller.' }, { status: 413 });
     }
-    if (imageBase64 !== null && (typeof imageBase64 !== 'string' || imageBase64.length > 5 * 1024 * 1024)) {
+    if (imageBase64 !== null && imageBase64.length > 5 * 1024 * 1024) {
       return NextResponse.json({ error: 'Image must be 4 MB or smaller.' }, { status: 413 });
     }
 
