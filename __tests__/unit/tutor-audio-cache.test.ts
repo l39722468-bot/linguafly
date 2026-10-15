@@ -102,22 +102,16 @@ describe("tutor audio cache", () => {
   it("shares a single TTS generation between concurrent cache misses in the same worker", async () => {
     setStableCrypto();
     const { run } = mockD1(null);
-    let resolveAudio: (value: string) => void = () => undefined;
-    const generate = jest.fn().mockImplementation(() => new Promise<string>((resolve) => {
-      resolveAudio = resolve;
-    }));
+    const generate = jest.fn().mockResolvedValue("SUQz_one_generation");
 
-    const first = getOrCreateTutorAudio("Nice to meet you.", "pandora", "english-model", generate);
-    const second = getOrCreateTutorAudio("Nice to meet you.", "pandora", "english-model", generate);
-    await Promise.resolve();
-    await Promise.resolve();
-    resolveAudio("SUQz_one_generation");
-
-    await expect(Promise.all([first, second])).resolves.toEqual([
+    await expect(Promise.all([
+      getOrCreateTutorAudio("Nice to meet you.", "pandora", "english-model", generate),
+      getOrCreateTutorAudio("Nice to meet you.", "pandora", "english-model", generate),
+    ])).resolves.toEqual([
       "SUQz_one_generation",
       "SUQz_one_generation",
     ]);
     expect(generate).toHaveBeenCalledTimes(1);
     expect(run).toHaveBeenCalledTimes(1);
-  });
+  });;
 });
