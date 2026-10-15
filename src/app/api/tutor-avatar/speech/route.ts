@@ -78,6 +78,13 @@ export async function POST(request: NextRequest) {
               : 'UnknownError',
           );
         }
+        // Include the original text even when model TTS fails so the browser
+        // can speak it using its built-in Spanish/English voice as a fallback.
+        segments.push({
+          language: tasks[index].language,
+          text: tasks[index].text,
+          audioBase64: '',
+        });
       }
     });
 
