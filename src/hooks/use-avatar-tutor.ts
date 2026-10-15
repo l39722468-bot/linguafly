@@ -303,8 +303,9 @@ export function useAvatarTutor(config: UseTutorConfig) {
 
     let stream: MediaStream | null = null;
     try {
-      stream = await navigator.mediaDevices.getUserMedia({ audio: true });
-      const mediaRecorder = new MediaRecorder(stream);
+      const mediaStream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      stream = mediaStream;
+      const mediaRecorder = new MediaRecorder(mediaStream);
       mediaRecorderRef.current = mediaRecorder;
       audioChunksRef.current = [];
 
@@ -313,7 +314,7 @@ export function useAvatarTutor(config: UseTutorConfig) {
       };
 
       mediaRecorder.onstop = async () => {
-        stream.getTracks().forEach((t) => t.stop());
+        mediaStream.getTracks().forEach((t) => t.stop());
         const blob = new Blob(audioChunksRef.current, { type: 'audio/webm' });
 
         setOrbState('thinking');
