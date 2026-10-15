@@ -24,7 +24,6 @@ export async function POST(request: NextRequest) {
     const tutorId = typeof body.tutorId === 'string' && Object.prototype.hasOwnProperty.call(GREETINGS, body.tutorId)
       ? body.tutorId
       : 'emma';
-    const tutorGender = body.tutorGender === 'male' ? 'male' : 'female';
     const greeting = GREETINGS[tutorId];
 
     // Return the greeting text immediately; the client starts TTS in parallel
