@@ -31,7 +31,7 @@ const TOPIC_SEARCH_TERMS: Record<string, string> = {
 
 const HOT_CACHE_TTL_MS = 10 * 60 * 1000;
 const MAX_HOT_CACHE_ENTRIES = 128;
-const PERSONAL_QUERY = /\\b(?:my name|my address|my phone|my email|my password|mi nombre|mi direcci[oó]n|mi tel[eé]fono|mi correo|mi contrase[nñ]a|i live at|vivo en la calle)\\b/i;
+const PERSONAL_QUERY = /\b(?:my name|my address|my phone|my email|my password|mi nombre|mi direcci[oó]n|mi tel[eé]fono|mi correo|mi contrase[nñ]a|i live at|vivo en la calle)\b/i;
 const knowledgeHotCache = new Map<string, { expiresAt: number; articles: TutorKnowledgeArticle[] }>();
 
 const STOP_WORDS = new Set([
@@ -76,7 +76,7 @@ function stripMarkup(value: string): string {
  * corpus or persisting learners' question text.
  */
 async function makeHotCacheKey(terms: string[], topic: string, limit: number): Promise<string> {
-  const identity = `tutor-knowledge-v1\\u001f${topic}\\u001f${limit}\\u001f${terms.join(" ")}`;
+  const identity = `tutor-knowledge-v1\u001f${topic}\u001f${limit}\u001f${terms.join(" ")}`;
   const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(identity));
   return Array.from(new Uint8Array(digest), (byte) => byte.toString(16).padStart(2, "0")).join("");
 }
@@ -123,7 +123,7 @@ export async function searchTutorKnowledge(
 
   const ftsQuery = terms.map((term) => `"${term.replace(/"/g, "")}"`).join(" OR ");
   const safeLimit = Math.max(1, Math.min(limit, 4));
-  const safeToCache = query.length <= 180 && !PERSONAL_QUERY.test(query) && !/@|\\b\\d{7,}\\b/.test(query);
+  const safeToCache = query.length <= 180 && !PERSONAL_QUERY.test(query) && !/@|\b\\d{7,}\b/.test(query);
   let hotCacheKey: string | null = null;
 
   if (safeToCache) {
