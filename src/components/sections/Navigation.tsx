@@ -29,26 +29,6 @@ export function Navigation() {
           <div className="hidden items-center gap-6 md:flex">
             <Link href="/" className={linkClass}>Inicio</Link>
             <Link href="/blog/actualidad" className={linkClass}>Actualidad</Link>
-            <Link
-              href="/mesas"
-              aria-label="Juego (Beta)"
-              className={`${linkClass} inline-flex items-center gap-1.5`}
-            >
-              Juego
-              <span className="rounded-full bg-amber-100 px-1.5 py-0.5 text-[10px] font-black uppercase tracking-wide text-amber-800">
-                Beta
-              </span>
-            </Link>
-            <Link
-              href="/tutor-ia"
-              aria-label="Tutor IA (Beta)"
-              className="inline-flex items-center gap-1.5 rounded-full bg-gradient-to-r from-coral-500 to-peach-500 px-3 py-2 text-xs font-black text-white shadow-sm transition-opacity hover:opacity-90"
-            >
-              Tutor IA
-              <span className="rounded-full bg-white/20 px-1.5 py-0.5 text-[10px] font-black uppercase tracking-wide text-white">
-                Beta
-              </span>
-            </Link>
             {NAV_VERTICALS.map((vertical) => (
               <Link key={vertical.slug} href={vertical.href} className={linkClass}>
                 {vertical.name}
@@ -81,28 +61,6 @@ export function Navigation() {
               <Link href="/" className={linkClass} onClick={closeMobileMenu}>Inicio</Link>
               <Link href="/blog/actualidad" className={linkClass} onClick={closeMobileMenu}>
                 🗞️ Actualidad
-              </Link>
-              <Link
-                href="/mesas"
-                aria-label="Juego (Beta)"
-                className={`${linkClass} flex items-center gap-2`}
-                onClick={closeMobileMenu}
-              >
-                Juego
-                <span className="rounded-full bg-amber-100 px-1.5 py-0.5 text-[10px] font-black uppercase tracking-wide text-amber-800">
-                  Beta
-                </span>
-              </Link>
-              <Link
-                href="/tutor-ia"
-                aria-label="Tutor IA (Beta)"
-                className="flex items-center justify-between rounded-xl bg-gradient-to-r from-coral-500 to-peach-500 px-3 py-2 text-sm font-black text-white shadow-sm"
-                onClick={closeMobileMenu}
-              >
-                <span>🎙️ Tutor IA</span>
-                <span className="rounded-full bg-white/20 px-1.5 py-0.5 text-[10px] font-black uppercase tracking-wide text-white">
-                  Beta
-                </span>
               </Link>
               {NAV_VERTICALS.map((vertical) => (
                 <Link key={vertical.slug} href={vertical.href} className={linkClass} onClick={closeMobileMenu}>
