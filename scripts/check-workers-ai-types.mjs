@@ -6,6 +6,7 @@ import process from "node:process";
 
 const MIGRATION_FILES = [
   "__tests__/unit/workers-ai.test.ts",
+  "__tests__/unit/tutor-preferences.test.ts",
   "src/app/api/ai-lab/chat/route.ts",
   "src/app/api/ai-lab/evaluate/route.ts",
   "src/app/api/ai-lab/stt/route.ts",
@@ -28,6 +29,10 @@ const MIGRATION_FILES = [
   "src/hooks/use-speaking-coach.ts",
   "src/lib/ai/evaluator.ts",
   "src/lib/ai/workers-ai.ts",
+  "src/lib/ai/tutor-preferences.ts",
+  "src/lib/ai/tutor-knowledge.ts",
+  "src/hooks/use-avatar-tutor.ts",
+  "src/app/tutor-ia/TutorIAClient.tsx",
 ];
 const REPO_ROOT = process.cwd();
 const normalized = (value) => path.relative(REPO_ROOT, value).replace(/\\/g, "/");
