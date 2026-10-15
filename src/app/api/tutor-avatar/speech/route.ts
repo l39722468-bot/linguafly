@@ -10,6 +10,7 @@ export const maxDuration = 45;
 
 type AudioSegment = {
   language: 'es' | 'en';
+  text: string;
   audioBase64: string;
 };
 
@@ -37,25 +38,27 @@ export async function POST(request: NextRequest) {
 
     // Generate both languages concurrently. The UI can render the tutor's text
     // before calling this endpoint, so audio generation no longer blocks the answer.
-    const tasks: { language: 'es' | 'en'; promise: Promise<{ language: 'es' | 'en'; audioBase64: string }> }[] = [];
+    const tasks: { language: 'es' | 'en'; text: string; promise: Promise<{ language: 'es' | 'en'; text: string; audioBase64: string }> }[] = [];
     if (spokenSpanish) {
       tasks.push({
         language: 'es',
+        text: spokenSpanish,
         promise: synthesizeWorkersAIAudioBase64(
           spokenSpanish,
           tutorGender === 'female' ? 'carina' : 'alvaro',
           WORKERS_AI_TTS_SPANISH_MODEL,
-        ).then((audioBase64) => ({ language: 'es' as const, audioBase64 })),
+        ).then((audioBase64) => ({ language: 'es' as const, text: spokenSpanish, audioBase64 })),
       });
     }
     if (pronunciationText) {
       tasks.push({
         language: 'en',
+        text: pronunciationText,
         promise: synthesizeWorkersAIAudioBase64(
           pronunciationText,
           tutorGender === 'female' ? 'luna' : 'orion',
           WORKERS_AI_TTS_ENGLISH_MODEL,
-        ).then((audioBase64) => ({ language: 'en' as const, audioBase64 })),
+        ).then((audioBase64) => ({ language: 'en' as const, text: pronunciationText, audioBase64 })),
       });
     }
 
