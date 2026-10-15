@@ -112,23 +112,29 @@ npm run d1:migrate:remote
 
 Después ejecuta la comprobación de tipos, compila y despliega el Worker. El resumen por temas empieza a poblarse con las prácticas realizadas desde que la migración esté aplicada; los intentos antiguos conservan su puntuación, pero no pueden reconstruir respuestas que nunca se guardaron.
 
-## Conversación de inglés por voz (Realtime)
+## Conversación de inglés por voz con Cloudflare Workers AI
 
-La ruta protegida `/app/conversacion` permite una conversación de voz en tiempo real con micrófono, audio de respuesta y transcripción en pantalla. Usa el nivel CEFR y el idioma de explicación del perfil para ajustar el diálogo y las correcciones. Hay escenarios de conversación libre, restaurante, viajes y entrevista de trabajo.
+La ruta protegida `/app/conversacion` permite conversar en inglés mediante turnos de voz: el alumno graba una intervención breve, el servidor la transcribe, genera una respuesta pedagógica y sintetiza el audio. Se conservan los escenarios de conversación libre, escucha y responde, restaurante, viajes y entrevista de trabajo.
 
-La clave `OPENAI_API_KEY` se lee únicamente en el servidor del Worker privado `lingua-ai-app`. El navegador no recibe la clave: envía el audio de negociación WebRTC a `/api/conversacion/session`, que comprueba la sesión Better Auth y actúa como puente hacia OpenAI Realtime. Esta funcionalidad usa la API de OpenAI y puede generar cargos de uso.
+La conversación utiliza el binding nativo `AI` configurado en este Worker privado en `wrangler.jsonc`. No requiere `OPENAI_API_KEY`, un token externo de IA ni claves de proveedor en el navegador.
 
-### Configuración en producción
+### Modelos evaluados y selección inicial
 
-Después de actualizar el código, desde esta carpeta configura la clave como secreto del Worker de esta aplicación:
+- **Reconocimiento de voz:** `@cf/openai/whisper-large-v3-turbo`, alojado y ejecutado por Cloudflare Workers AI. La API recibe el audio codificado en base64 y devuelve la transcripción en inglés. La documentación del catálogo indica una tarifa de referencia de **0,000513 USD por minuto de audio**.
+- **Tutor y diálogo:** `@cf/openai/gpt-oss-20b`, el modelo abierto de OpenAI servido por Cloudflare. No llama a la API de OpenAI; se invoca con `env.AI.run`. El precio publicado en el catálogo es **0,20 USD por millón de tokens de entrada y 0,30 USD por millón de tokens de salida**.
+- **Voz del tutor:** `@cf/deepgram/aura-2-en`, que genera audio en inglés desde texto. La referencia publicada es **0,03 USD por 1.000 caracteres**; el texto hablado se limita en el servidor para acotar el uso.
 
-```powershell
-npx wrangler secret put OPENAI_API_KEY
-```
+Los precios son referencias del catálogo consultado y pueden cambiar. Consulta el catálogo y los datos de facturación de tu cuenta antes de abrir la función a más usuarios. Los tres componentes se llaman desde el Worker privado a través del binding `AI`; no se ha realizado fine-tuning ni se guardan las conversaciones en D1.
 
-Wrangler pedirá la clave de forma interactiva. Usa una clave de OpenAI con acceso al modelo Realtime; no la pegues en el chat, no la añadas a `wrangler.jsonc` y no uses una variable `NEXT_PUBLIC_*`. Ejecuta el comando desde `apps/lingua-ai` para asociar el secreto a `lingua-ai-app`, no a la web pública.
+### Diferencia respecto a Realtime
 
-Para desarrollo local, copia `.dev.vars.example` a `.dev.vars` y pon la clave solo en el archivo local ignorado por Git. Nunca subas la clave a GitHub. No se necesita una migración D1 nueva para iniciar una conversación; las sesiones de voz y la transcripción en pantalla no se guardan aún en el historial de prácticas.
+Esta versión reemplaza la sesión continua WebRTC por una secuencia de turnos. El flujo es: autenticación Better Auth → transcripción → generación de texto con historial corto → síntesis de voz. Es una ruta más fácil de auditar y no necesita una clave de OpenAI, pero puede introducir más latencia entre turnos y no equivale a una conversación full-duplex con interrupciones en tiempo real.
+
+El endpoint `/api/conversacion/turn` requiere una sesión válida, limita la grabación a 5 MB, valida el escenario, toma el nivel CEFR y el idioma de explicación de la D1 de esta app, limita el historial enviado al modelo y devuelve respuestas sin caché. Las grabaciones y transcripciones no se persisten en la cuenta. Si la síntesis de voz falla, la respuesta textual sigue disponible.
+
+### Configuración
+
+El binding de Workers AI se declara en `apps/lingua-ai/wrangler.jsonc` bajo `ai.binding = "AI"`. No añadas `OPENAI_API_KEY` ni ninguna clave de proveedor para esta función. Para ejecutar el flujo en local, utiliza `npm run preview` para probarlo dentro del runtime de Workers; comprueba que tu cuenta permite ejecutar los modelos de Workers AI.
 
 ## Metodología educativa de conversación
 
@@ -143,7 +149,7 @@ El tutor no intenta comportarse como un chatbot generalista: sus instrucciones d
 
 Esta es una estrategia de prompting pedagógico; no significa que se haya reentrenado el modelo base. Las transcripciones de esta conversación no se persisten todavía, y no se muestran puntuaciones de pronunciación sin una evaluación fiable.
 
-La conversación utiliza la API Realtime de OpenAI y puede generar costes de uso. El secreto `OPENAI_API_KEY` se configura solo en el Worker privado descrito más abajo.
+La conversación utiliza Workers AI según la selección de modelos documentada en la sección anterior. No se necesita un secreto de OpenAI para esta función.
 
 ## Preparar y desplegar el Worker
 
