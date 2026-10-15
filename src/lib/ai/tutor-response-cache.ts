@@ -37,7 +37,7 @@ export function normalizeTutorQuery(query: string): string {
 
 export function detectPreparedTutorIntent(query: string): string | null {
   const text = normalizeTutorQuery(query);
-  if (!text || FOLLOW_UP.test(text)) return null;
+  if (!text) return null;
 
   const asksForExamples = /\b(?:examples?|sentences?|phrases?|expressions?|ejemplos?|frases?|oraciones?|expresiones?)\b/.test(text);
   const asksForStudyMaterial = asksForExamples ||
@@ -49,6 +49,8 @@ export function detectPreparedTutorIntent(query: string): string | null {
     asksForExamples &&
     /(?:\b0\b|\bcero\b|\bzero\b).{0,55}(?:\b10\b|\bdiez\b|\bten\b)/.test(text)
   ) return "numbers_0_10_examples";
+
+  if (FOLLOW_UP.test(text)) return null;
 
   if (asksForStudyMaterial && /\b(?:days of the week|weekdays|d[ií]as de la semana|d[ií]as semanales)\b/.test(text)) return "days_of_week_examples";
   if (asksForStudyMaterial && /\b(?:months of the year|months|meses del a[nñ]o|meses)\b/.test(text)) return "months_of_year_examples";
