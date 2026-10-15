@@ -213,6 +213,16 @@ function parseFallbackAnswer(raw: string): Omit<TutorAnswer, 'feedback'> {
   };
 }
 
+function isExampleLearningRequest(text: string): boolean {
+  return /\\b(?:ejemplos?|frases?|oraciones?|vocabulario|di[aá]logos?|expresiones|examples?|sentences?|phrases?|vocabulary|dialogues?|expressions?)\\b/i.test(text);
+}
+
+function hasCompleteBilingualExamples(reply: string): boolean {
+  const englishExamples = reply.match(/^\\s*English\\s*:/gim)?.length ?? 0;
+  const spanishTranslations = reply.match(/^\\s*Español\\s*:/gim)?.length ?? 0;
+  return englishExamples > 0 && englishExamples === spanishTranslations;
+}
+
 async function chatWithTutor(messages: WorkersAIMessage[]): Promise<TutorAnswer> {
   let result: Record<string, unknown>;
   try {
@@ -229,14 +239,49 @@ async function chatWithTutor(messages: WorkersAIMessage[]): Promise<TutorAnswer>
         `Responde solo en español para explicar. Devuelve exactamente tres líneas con estos marcadores:
 RESPUESTA: explica en español y proporciona TODOS los ejemplos pedidos en inglés; puedes añadir traducciones al castellano, pero nunca sustituyas con ellas las frases inglesas.
 AUDIO_ES: solo una introducción o explicación breve en español; no incluyas ejemplos en inglés.
-PRONUNCIACION_EN: todas las frases inglesas de los ejemplos, una por línea, sin traducciones ni etiquetas; vacío únicamente si no hay frase que practicar (máximo 1400 caracteres).
+PRONUNCIACION_EN: solo las frases originales en inglés, una por línea, copiadas del campo English de cada ejemplo, sin traducciones ni etiquetas; vacío únicamente si no hay frase que practicar (máximo 1400 caracteres).
+RESPUESTA debe contener todos los ejemplos en este formato por cada elemento:
+English: [frase en inglés]
+Español: [traducción fiel al castellano]
 No añadas texto antes de RESPUESTA ni cambies los marcadores.`,
       );
     const raw = await runWorkersAIText([
       { role: "system", content: fallbackSystem },
       ...messages.filter((message) => message.role !== "system"),
-    ], { temperature: 0.65, maxTokens: 900 });
+    ], { temperature: 0.65, maxTokens: 1400 });
     return { ...parseFallbackAnswer(raw), feedback: null };
+  }
+
+  // Models occasionally obey the Spanish conversation rule but omit the English
+  // side of examples. Validate example requests and ask for one structured repair
+  // instead of displaying Spanish-only examples to someone learning English.
+  const latestUserMessage = [...messages].reverse().find((message) => message.role === 'user')?.content ?? '';
+  const initialReply = typeof result.reply === 'string' ? cleanVisibleReply(result.reply) : '';
+  if (isExampleLearningRequest(latestUserMessage) && !hasCompleteBilingualExamples(initialReply)) {
+    try {
+      const repaired = await runWorkersAIJson([
+        ...messages,
+        { role: 'assistant', content: JSON.stringify(result) },
+        {
+          role: 'user',
+          content: `Your previous draft is not acceptable because it does not include a matched English sentence and Spanish translation for every requested example. Rewrite the complete answer, do not summarize it. In "reply", keep explanations in Spanish, but include every example in exactly this format, with the English original first and the Spanish translation immediately below:
+English: [complete natural English sentence]
+Español: [accurate Spanish translation]
+For every example include both lines. Do not show examples only in Spanish. For number ranges, include one complete bilingual example for every number requested. In "pronunciationText", copy only the English sentences exactly, one per line, with no Spanish, numbering, or labels. "spokenSpanish" must contain only the Spanish explanation. Never expose technical labels such as RESPUESTA, AUDIO_ES, or PRONUNCIACION_EN. Return only the same valid JSON object with keys reply, spokenSpanish, pronunciationText, feedback.`,
+        },
+      ], { temperature: 0.2, maxTokens: 1400 });
+      const repairedReply = typeof repaired.reply === 'string' ? cleanVisibleReply(repaired.reply) : '';
+      if (hasCompleteBilingualExamples(repairedReply)) {
+        result = { ...repaired, reply: repairedReply };
+      } else {
+        console.warn('Bilingual example repair did not produce paired English/Spanish examples.');
+      }
+    } catch (error: unknown) {
+      console.error(
+        'Bilingual example repair failed:',
+        error instanceof Error ? `${error.name}: ${error.message.slice(0, 120)}` : 'UnknownError',
+      );
+    }
   }
 
   const reply = typeof result.reply === 'string' ? cleanVisibleReply(result.reply) : '';
