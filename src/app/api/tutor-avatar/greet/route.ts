@@ -1,14 +1,14 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { enforceAIRateLimit, synthesizeWorkersAIAudioBase64 } from '@/lib/ai/workers-ai';
+import { enforceAIRateLimit, synthesizeWorkersAIAudioBase64, WORKERS_AI_TTS_SPANISH_MODEL } from '@/lib/ai/workers-ai';
 
 export const maxDuration = 30;
 
 const GREETINGS: Record<string, string> = {
-  emma: "Hi there! I'm Emma, your English tutor. Before we begin, what would you like to practise: travel, work, everyday conversation, grammar, vocabulary or exams? And what is your English level, from A1 to C2? If you're not sure, just tell me and I'll help you choose.",
-  james: "Hello, I'm James. Let's make your English practice useful for you. What would you like to work on: travel, work, everyday conversation, grammar, vocabulary or exams? And what level are you, A1 to C2? It's fine if you don't know yet.",
-  sofia: "Hello, I'm Sofia. First, let's personalise your lesson. Which topic interests you: travel, work, everyday conversation, grammar, vocabulary or exam preparation? And what is your English level, from A1 to C2? If you are unsure, I can help you find a good starting point.",
-  carlos: "Hey! I'm Carlos, your English buddy. Before we jump in, what sounds fun to practise: travel, work, everyday chat, grammar, vocabulary or exams? And what's your level, A1 to C2? Don't worry if you don't know—I'll help you figure it out!",
-};
+  emma: "¡Hola! Soy Emma, tu profesora de inglés. Antes de empezar, dime: ¿qué te gustaría practicar: viajes, trabajo, conversación cotidiana, gramática, vocabulario o preparación de exámenes? ¿Y qué nivel tienes, de A1 a C2? Si no lo sabes, no pasa nada: te ayudaré a encontrar un buen punto de partida.",
+  james: "¡Hola! Soy James, tu tutor de inglés. Vamos a adaptar la clase a ti. ¿Qué quieres practicar: viajes, trabajo, situaciones del día a día, gramática, vocabulario o exámenes? ¿Qué nivel tienes, de A1 a C2? Si no estás seguro, lo averiguaremos juntos.",
+  sofia: "¡Hola! Soy Sofia, tu profesora de inglés. Primero vamos a personalizar tu clase. ¿Qué tema te interesa: viajes, trabajo, conversación cotidiana, gramática, vocabulario o preparación de IELTS y Cambridge? ¿Qué nivel tienes, de A1 a C2? Si no lo sabes, te ayudaré a elegir.",
+  carlos: "¡Buenas! Soy Carlos, tu tutor de inglés. Vamos a practicar algo que te sirva de verdad. ¿Qué prefieres: viajes, trabajo, conversación cotidiana, gramática, vocabulario o exámenes? ¿Y qué nivel tienes, de A1 a C2? Si no lo sabes, encontraremos juntos el nivel adecuado.",
+}
 
 export async function POST(request: NextRequest) {
   const rateLimitResponse = await enforceAIRateLimit(request, 'tutor-avatar-greet');
@@ -32,7 +32,8 @@ export async function POST(request: NextRequest) {
     try {
       audioBase64 = await synthesizeWorkersAIAudioBase64(
         greeting,
-        tutorGender === 'female' ? 'luna' : 'orion',
+        tutorGender === 'female' ? 'carina' : 'alvaro',
+        WORKERS_AI_TTS_SPANISH_MODEL,
       );
     } catch (error: unknown) {
       audioUnavailable = true;
@@ -50,6 +51,6 @@ export async function POST(request: NextRequest) {
       'Tutor greeting request failed:',
       error instanceof Error ? `${error.name}: ${error.message.slice(0, 180)}` : 'UnknownError',
     );
-    return NextResponse.json({ error: 'Could not start the tutor. Please try again.' }, { status: 502 });
+    return NextResponse.json({ error: 'No he podido iniciar el tutor. Inténtalo de nuevo.' }, { status: 502 });
   }
 }
