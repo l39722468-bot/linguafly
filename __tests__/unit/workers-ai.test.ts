@@ -38,7 +38,11 @@ describe("Workers AI adapter helpers", () => {
   describe("Spanish tutor voice", () => {
     it("uses the Spanish Aura model and a Spanish voice when requested", async () => {
       const bytes = new Uint8Array([1, 2, 3]);
-      const run = jest.fn().mockResolvedValue(new Response(bytes.buffer));
+      const run = jest.fn().mockResolvedValue({
+        ok: true,
+        status: 200,
+        arrayBuffer: jest.fn().mockResolvedValue(bytes.buffer),
+      });
       (getCloudflareContext as jest.Mock).mockResolvedValue({ env: { AI: { run } } });
 
       const result = await synthesizeWorkersAIAudioBase64(
@@ -62,7 +66,11 @@ describe("Workers AI adapter helpers", () => {
 
   it("uses the English Aura model for the pronunciation example", async () => {
     const bytes = new Uint8Array([4, 5, 6]);
-    const run = jest.fn().mockResolvedValue(new Response(bytes.buffer));
+    const run = jest.fn().mockResolvedValue({
+      ok: true,
+      status: 200,
+      arrayBuffer: jest.fn().mockResolvedValue(bytes.buffer),
+    });
     (getCloudflareContext as jest.Mock).mockResolvedValue({ env: { AI: { run } } });
 
     const result = await synthesizeWorkersAIAudioBase64(

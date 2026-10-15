@@ -68,11 +68,13 @@ Nivel actual o provisional del alumno: ${level}. Tema de práctica: ${topicLabel
 
 REGLA PRINCIPAL DE IDIOMA — OBLIGATORIA:
 - La conversación del tutor, las explicaciones, las instrucciones, las preguntas de seguimiento, las correcciones y los mensajes de ánimo deben estar SIEMPRE en español.
-- El contenido que se enseña debe estar en inglés: vocabulario, expresiones, ejemplos, frases modelo, preguntas de roleplay y ejercicios. Acompaña esos elementos con una explicación o traducción breve en español.
+- IDIOMA DEL MATERIAL: cuando el alumno pida ejemplos, frases, vocabulario, diálogos o ejercicios para aprender inglés, cada ejemplo original debe estar escrito en inglés. No sustituyas el inglés por frases en español aunque la petición esté formulada en español.
+- Puedes añadir la traducción al castellano debajo de cada frase inglesa, claramente separada. La traducción es complementaria y nunca reemplaza la frase en inglés.
+- Si pide ejemplos con un rango de números (por ejemplo, del 0 al 10), proporciona al menos un ejemplo en inglés por CADA número del rango, incluidos ambos extremos. Si pide "frases" o varios ejemplos, entrega la lista completa y no una única frase.
 - No respondas en inglés como si mantuvieras una conversación social con el alumno. El inglés solo se usa como material didáctico, ejemplos citados o frases que el alumno debe practicar.
 - Si el alumno responde en inglés, comenta en español cómo lo ha hecho y, después, presenta la siguiente frase o pregunta de práctica en inglés con instrucciones en español.
 - Si el alumno habla en español, contéstale en español y ayúdale a expresar esa idea en inglés.
-- Mantén las respuestas breves y naturales (2-4 frases por turno). Evita largos monólogos.
+- En turnos conversacionales normales, mantén la respuesta breve (2-4 frases). EXCEPCIÓN OBLIGATORIA: si el alumno pide ejemplos, una lista o frases para varios elementos/números, entrega todos los elementos solicitados; no recortes la lista para limitarla a 2-4 frases.
 - Adapta la dificultad del inglés a su nivel. Corrige con amabilidad y sin interrumpir el hilo de la conversación.
 - Cuando corrijas un error, muestra la frase original y la versión correcta en inglés, y explica en español por qué cambia.
 - Usa los extractos recuperados de LinguaFly como referencia cuando sean relevantes. No inventes información ni digas que has leído una guía que no aparece en los extractos.
@@ -87,9 +89,9 @@ ${knowledgeContext}
 
 Devuelve SOLO un objeto JSON válido con este formato exacto:
 {
-  "reply": "Respuesta que se muestra en la conversación: explicación en español y, si procede, una frase de práctica en inglés",
-  "spokenSpanish": "Solo la parte hablada en español. No repitas aquí la frase inglesa que vaya en pronunciationText.",
-  "pronunciationText": "Una sola frase breve en inglés que el alumno debe aprender a pronunciar, o cadena vacía si no hace falta un ejemplo",
+  "reply": "Respuesta visible: explicación en español y todos los ejemplos solicitados en inglés; las traducciones al castellano solo sirven de apoyo",
+  "spokenSpanish": "Solo una introducción o explicación breve en español. No incluyas las frases de ejemplo en inglés.",
+  "pronunciationText": "Todas las frases de ejemplo en inglés, una por línea, sin traducciones ni etiquetas; cadena vacía solo si no hay frase que practicar",
   "feedback": null
 }
 O si hay un error que corregir:
@@ -105,9 +107,9 @@ O si hay un error que corregir:
 }
 
 Reglas de audio:
-- pronunciationText debe contener SOLO una frase inglesa completa y breve (máximo 200 caracteres); no incluyas traducción ni explicaciones en ese campo.
+- pronunciationText debe contener SOLO el material en inglés que se va a pronunciar. Si la respuesta incluye una lista, incluye TODAS las frases inglesas solicitadas, una por línea y sin traducciones, etiquetas ni numeración. Límite total: 1400 caracteres. No reduzcas una lista pedida a una sola frase.
 - Si solo estás preguntando en español por el tema o nivel, deja pronunciationText vacío.
-- spokenSpanish debe sonar natural por sí solo y no debe contener la frase de pronunciationText; la aplicación reproducirá ambos segmentos seguidos con voces apropiadas para cada idioma.`;
+- spokenSpanish debe sonar natural por sí solo y no debe contener las frases inglesas de pronunciationText. La aplicación reproducirá primero la explicación en castellano y después las frases en inglés con voz británica.`;
 }
 function getTranscriptionText(result: unknown): string {
   if (typeof result === 'string') return result.trim();
@@ -175,20 +177,31 @@ function parseFallbackAnswer(raw: string): Omit<TutorAnswer, 'feedback'> {
   const match = raw.match(/RESPUESTA:\s*([\s\S]*?)\nAUDIO_ES:\s*([\s\S]*?)\nPRONUNCIACION_EN:\s*([\s\S]*)/i);
   if (match) {
     const reply = match[1].trim().slice(0, 1800);
+    const pronunciationText = match[3].trim().replace(/^["“]|["”]$/g, '').slice(0, 1400);
+    let spokenSpanish = match[2].trim().slice(0, 1400);
+    for (const phrase of pronunciationText.split(/\r?\n/).map((line) => line.trim()).filter(Boolean)) {
+      spokenSpanish = spokenSpanish.split(phrase).join('').trim();
+    }
     return {
       reply: reply || raw.trim().slice(0, 1800),
-      spokenSpanish: match[2].trim().slice(0, 1400) || reply,
-      pronunciationText: match[3].trim().replace(/^["“]|["”]$/g, '').slice(0, 200),
+      spokenSpanish: spokenSpanish || (pronunciationText
+        ? 'Aquí tienes los ejemplos en inglés. Escucha cada frase y repítela.'
+        : 'Aquí tienes la respuesta en pantalla.'),
+      pronunciationText,
     };
   }
   const reply = raw.trim().slice(0, 1800);
-  return { reply, spokenSpanish: reply, pronunciationText: '' };
+  return {
+    reply,
+    spokenSpanish: 'Aquí tienes la respuesta en pantalla. Escucha los ejemplos en inglés con el botón de pronunciación.',
+    pronunciationText: '',
+  };
 }
 
 async function chatWithTutor(messages: WorkersAIMessage[]): Promise<TutorAnswer> {
   let result: Record<string, unknown>;
   try {
-    result = await runWorkersAIJson(messages, { temperature: 0.65, maxTokens: 260 });
+    result = await runWorkersAIJson(messages, { temperature: 0.65, maxTokens: 900 });
   } catch (error: unknown) {
     console.error(
       "Structured tutor response failed; retrying in a compact audio-friendly format:",
@@ -199,25 +212,34 @@ async function chatWithTutor(messages: WorkersAIMessage[]): Promise<TutorAnswer>
       .replace(
         /(?:Respond ONLY with valid JSON in this exact format:|Devuelve SOLO un objeto JSON válido con este formato exacto:)[\s\S]*$/,
         `Responde solo en español para explicar. Devuelve exactamente tres líneas con estos marcadores:
-RESPUESTA: explicación breve en español que puede incluir una frase de ejemplo en inglés
-AUDIO_ES: solo la explicación que debe pronunciar la voz española; no incluyas la frase inglesa
-PRONUNCIACION_EN: una única frase breve en inglés para que el alumno practique, o déjalo vacío
-No añadas otros marcadores ni texto fuera de esas tres líneas.`,
+RESPUESTA: explica en español y proporciona TODOS los ejemplos pedidos en inglés; puedes añadir traducciones al castellano, pero nunca sustituyas con ellas las frases inglesas.
+AUDIO_ES: solo una introducción o explicación breve en español; no incluyas ejemplos en inglés.
+PRONUNCIACION_EN: todas las frases inglesas de los ejemplos, una por línea, sin traducciones ni etiquetas; vacío únicamente si no hay frase que practicar (máximo 1400 caracteres).
+No añadas texto antes de RESPUESTA ni cambies los marcadores.`,
       );
     const raw = await runWorkersAIText([
       { role: "system", content: fallbackSystem },
       ...messages.filter((message) => message.role !== "system"),
-    ], { temperature: 0.65, maxTokens: 200 });
+    ], { temperature: 0.65, maxTokens: 900 });
     return { ...parseFallbackAnswer(raw), feedback: null };
   }
 
   const reply = typeof result.reply === 'string' ? result.reply.trim().slice(0, 1800) : '';
-  const spokenSpanish = typeof result.spokenSpanish === 'string'
-    ? result.spokenSpanish.trim().slice(0, 1400)
-    : reply;
   const pronunciationText = typeof result.pronunciationText === 'string'
-    ? result.pronunciationText.trim().replace(/^["“]|["”]$/g, '').slice(0, 200)
+    ? result.pronunciationText.trim().replace(/^["“]|["”]$/g, '').slice(0, 1400)
     : '';
+  const defaultSpokenSpanish = pronunciationText
+    ? 'Aquí tienes los ejemplos en inglés. Escucha cada frase y repítela.'
+    : 'Aquí tienes la respuesta en pantalla.';
+  let spokenSpanish = typeof result.spokenSpanish === 'string'
+    ? result.spokenSpanish.trim().slice(0, 1400)
+    : defaultSpokenSpanish;
+
+  // Never send the English model phrases through the Spanish voice, even if
+  // the model accidentally repeats them in spokenSpanish.
+  for (const phrase of pronunciationText.split(/\r?\n/).map((line) => line.trim()).filter(Boolean)) {
+    spokenSpanish = spokenSpanish.split(phrase).join('').trim();
+  }
 
   let feedback: TutorFeedback | null = null;
   if (result.feedback && typeof result.feedback === 'object' && !Array.isArray(result.feedback)) {
@@ -237,7 +259,7 @@ No añadas otros marcadores ni texto fuera de esas tres líneas.`,
 
   return {
     reply: reply || "No te he entendido bien. ¿Puedes repetirlo, por favor?",
-    spokenSpanish: spokenSpanish || reply || "Vamos a intentarlo de nuevo.",
+    spokenSpanish: spokenSpanish || defaultSpokenSpanish,
     pronunciationText,
     feedback,
   };

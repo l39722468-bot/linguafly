@@ -325,7 +325,7 @@ export default function TutorIAClient() {
                         <p className="text-[10px] font-black uppercase tracking-widest opacity-60 mb-1">
                           {msg.role === 'user' ? 'Tú' : selectedTutor.name}
                         </p>
-                        <p>{msg.text}</p>
+                        <p className="whitespace-pre-line">{msg.text}</p>
                         {msg.role === 'tutor' && (
                           <div className="mt-3 flex flex-wrap gap-2 border-t border-white/15 pt-2">
                             {msg.spokenSpanish && (
@@ -346,10 +346,10 @@ export default function TutorIAClient() {
                                 onClick={() => { void replayPronunciation(msg.pronunciationText ?? ''); }}
                                 disabled={orbState !== 'idle'}
                                 className="inline-flex items-center gap-1.5 rounded-lg bg-black/10 px-3 py-1.5 text-xs font-semibold hover:bg-black/20 disabled:opacity-40 transition-colors"
-                                aria-label={`Escuchar la pronunciación en inglés: ${msg.pronunciationText}`}
+                                aria-label="Escuchar los ejemplos en inglés con pronunciación británica"
                               >
                                 <Volume2 className="w-3.5 h-3.5" />
-                                Escuchar pronunciación (inglés)
+                                Escuchar ejemplos en inglés
                               </button>
                             )}
                           </div>

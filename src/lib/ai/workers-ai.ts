@@ -234,18 +234,34 @@ export async function synthesizeWorkersAIAudioBase64(
   );
 
   let audioBase64 = "";
-  if (result instanceof Response) {
-    if (!result.ok) {
-      console.error("Workers AI TTS returned status:", result.status);
-      throw new Error(`Workers AI TTS request failed with status ${result.status}.`);
+  const responseLike = result && typeof result === "object"
+    ? result as { ok?: unknown; status?: unknown; arrayBuffer?: unknown }
+    : null;
+  // Detect Response objects structurally instead of using instanceof: Workers
+  // can return a Response from another realm, and jsdom may not expose the
+  // global Response constructor in unit tests.
+  if (
+    responseLike &&
+    typeof responseLike.ok === "boolean" &&
+    typeof responseLike.arrayBuffer === "function"
+  ) {
+    if (!responseLike.ok) {
+      const status = typeof responseLike.status === "number" ? responseLike.status : 502;
+      console.error("Workers AI TTS returned status:", status);
+      throw new Error(`Workers AI TTS request failed with status ${status}.`);
     }
-    audioBase64 = arrayBufferToBase64(await result.arrayBuffer());
+    audioBase64 = arrayBufferToBase64(
+      await (responseLike.arrayBuffer as () => Promise<ArrayBuffer>).call(result),
+    );
   } else if (
     result &&
     typeof result === "object" &&
     typeof (result as { getReader?: unknown }).getReader === "function"
   ) {
     // Use duck typing because a stream may come from a different JS realm.
+    if (typeof Response === "undefined") {
+      throw new Error("Workers AI TTS returned a stream but Response is unavailable.");
+    }
     audioBase64 = arrayBufferToBase64(
       await new Response(result as ReadableStream<Uint8Array>).arrayBuffer(),
     );
@@ -255,7 +271,7 @@ export async function synthesizeWorkersAIAudioBase64(
     const view = result as ArrayBufferView;
     const bytes = new Uint8Array(view.buffer, view.byteOffset, view.byteLength);
     audioBase64 = arrayBufferToBase64(bytes.slice().buffer);
-  } else if (result instanceof Blob) {
+  } else if (typeof Blob !== "undefined" && result instanceof Blob) {
     audioBase64 = arrayBufferToBase64(await result.arrayBuffer());
   }
 
