@@ -35,7 +35,7 @@
   ],
   "vars": {
     "BETTER_AUTH_URL": "https://app.linguafly.app",
-    "AUTH_EMAIL_ENABLED": "false",
+    "AUTH_EMAIL_ENABLED": "true",
     "AUTH_EMAIL_FROM": "noreply@linguafly.app"
   },
   "observability": {
