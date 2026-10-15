@@ -1,7 +1,7 @@
 export const SITE_BRAND_NAME = 'Linguafly';
 
 /** Único contacto público. De momento no hay redes sociales. */
-export const CONTACT_EMAIL = 'linguafly6@gmail.com';
+export const CONTACT_EMAIL = 'info@linguafly.app';
 
 const DEFAULT_SITE_URL = 'https://linguafly.app';
 
