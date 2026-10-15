@@ -37,44 +37,46 @@ export async function POST(request: NextRequest) {
 
     // Generate both languages concurrently. The UI can render the tutor's text
     // before calling this endpoint, so audio generation no longer blocks the answer.
-    const tasks: Promise<{ language: 'es' | 'en'; audioBase64: string }>[] = [];
+    const tasks: { language: 'es' | 'en'; promise: Promise<{ language: 'es' | 'en'; audioBase64: string }> }[] = [];
     if (spokenSpanish) {
-      tasks.push(
-        synthesizeWorkersAIAudioBase64(
+      tasks.push({
+        language: 'es',
+        promise: synthesizeWorkersAIAudioBase64(
           spokenSpanish,
           tutorGender === 'female' ? 'carina' : 'alvaro',
           WORKERS_AI_TTS_SPANISH_MODEL,
         ).then((audioBase64) => ({ language: 'es' as const, audioBase64 })),
-      );
+      });
     }
     if (pronunciationText) {
-      tasks.push(
-        synthesizeWorkersAIAudioBase64(
+      tasks.push({
+        language: 'en',
+        promise: synthesizeWorkersAIAudioBase64(
           pronunciationText,
           tutorGender === 'female' ? 'luna' : 'orion',
           WORKERS_AI_TTS_ENGLISH_MODEL,
         ).then((audioBase64) => ({ language: 'en' as const, audioBase64 })),
-      );
+      });
     }
 
-    const settled = await Promise.allSettled(tasks);
+    const settled = await Promise.allSettled(tasks.map((task) => task.promise));
     const segments: AudioSegment[] = [];
     const failedLanguages: string[] = [];
-    for (const result of settled) {
+    settled.forEach((result, index) => {
       if (result.status === 'fulfilled' && result.value.audioBase64) {
         segments.push(result.value);
       } else {
-        failedLanguages.push(result.status === 'rejected' ? 'audio' : result.value.language);
+        failedLanguages.push(tasks[index].language);
         if (result.status === 'rejected') {
           console.error(
-            'Tutor speech synthesis failed:',
+            `Tutor ${tasks[index].language} speech synthesis failed:`,
             result.reason instanceof Error
               ? `${result.reason.name}: ${result.reason.message.slice(0, 160)}`
               : 'UnknownError',
           );
         }
       }
-    }
+    });
 
     if (segments.length === 0) {
       return NextResponse.json(
