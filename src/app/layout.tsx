@@ -77,6 +77,7 @@ export default function RootLayout({
   return (
     <html lang="es" className="scroll-smooth" suppressHydrationWarning>
       <head>
+        <meta name="impact-site-verification" content="514fe7f1-0ff5-4ef7-8ee5-9880c97c64d1" />
         {/* Google Tag Manager: contenedor GTM-MHJMCLZB */}
         <script
           dangerouslySetInnerHTML={{
