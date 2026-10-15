@@ -31,6 +31,8 @@ describe("Navigation", () => {
     expect(screen.getByRole("link", { name: "Inicio" })).toHaveAttribute("href", "/");
     expect(screen.getByRole("link", { name: "Idiomas" })).toHaveAttribute("href", "/idiomas");
     expect(screen.getByRole("link", { name: "Artículos" })).toHaveAttribute("href", "/blog");
+    expect(screen.getByRole("link", { name: "Tutor IA (Beta)" })).toHaveAttribute("href", "/tutor-ia");
+    expect(screen.getByRole("link", { name: "Juego (Beta)" })).toHaveAttribute("href", "/mesas");
     expect(screen.queryByRole("link", { name: "Alimentación" })).not.toBeInTheDocument();
     expect(screen.queryByRole("link", { name: "Entrenamiento" })).not.toBeInTheDocument();
     expect(screen.queryByRole("link", { name: "Inteligencia artificial" })).not.toBeInTheDocument();
@@ -57,6 +59,8 @@ describe("Navigation", () => {
     expect(screen.getAllByRole("link", { name: "Inicio" }).length).toBeGreaterThan(0);
     expect(screen.getAllByRole("link", { name: /Idiomas/ }).length).toBeGreaterThan(0);
     expect(screen.getAllByRole("link", { name: "Artículos" }).length).toBeGreaterThan(0);
+    expect(screen.getAllByRole("link", { name: "Tutor IA (Beta)" }).length).toBeGreaterThan(0);
+    expect(screen.getAllByRole("link", { name: "Juego (Beta)" }).length).toBeGreaterThan(0);
     expect(screen.queryByRole("link", { name: /Alimentación/ })).not.toBeInTheDocument();
     expect(screen.queryByRole("link", { name: /Entrenamiento/ })).not.toBeInTheDocument();
     expect(screen.queryByRole("link", { name: /Inteligencia artificial/ })).not.toBeInTheDocument();
