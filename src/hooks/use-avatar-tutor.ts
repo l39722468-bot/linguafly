@@ -130,6 +130,11 @@ export function useAvatarTutor(config: UseTutorConfig) {
         finish(success);
       };
 
+      if (!segment.audioBase64) {
+        void tryBrowserVoice();
+        return;
+      }
+
       try {
         // Blob URLs are more reliable than large data: URIs for MP3 playback
         // and make it possible to release the decoded audio after each segment.
@@ -203,11 +208,6 @@ export function useAvatarTutor(config: UseTutorConfig) {
         setError('No se ha podido reproducir el audio. Prueba de nuevo o habilita el sonido del navegador.');
       } else if (playback.failed) {
         setError('Se ha reproducido parte del audio; otra parte no ha podido sonar en este navegador.');
-      } else if (data.partial === true) {
-        const failed = Array.isArray(data.failedLanguages) ? data.failedLanguages : [];
-        setError(failed.includes('en')
-          ? 'La explicación se ha reproducido, pero no se ha podido generar la pronunciación en inglés.'
-          : 'Se ha reproducido solo una parte del audio.');
       }
     } catch (error: unknown) {
       setOrbState('idle');
