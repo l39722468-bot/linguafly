@@ -43,6 +43,7 @@ export function LearningProfileForm({
     initialExplanationLanguage,
   );
   const [learningGoal, setLearningGoal] = useState(initialLearningGoal ?? "");
+  const [formVersion, setFormVersion] = useState(0);
 
   // Align the visible fields with the values that the server has read back from D1.
   useEffect(() => {
@@ -50,6 +51,9 @@ export function LearningProfileForm({
     setCefrLevel(state.profile.cefrLevel ?? "");
     setExplanationLanguage(state.profile.explanationLanguage);
     setLearningGoal(state.profile.learningGoal ?? "");
+    // Remount the form after a successful Server Action. React may reset form
+    // controls on action completion even when their values are controlled.
+    setFormVersion((version) => version + 1);
   }, [state]);
 
   return (
@@ -63,7 +67,7 @@ export function LearningProfileForm({
         </p>
       </div>
 
-      <form action={action} className="mt-6 space-y-5">
+      <form key={formVersion} action={action} className="mt-6 space-y-5">
         <label
           htmlFor="cefrLevel"
           className="block text-sm font-medium text-stone-700"
