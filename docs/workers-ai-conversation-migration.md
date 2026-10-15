@@ -2,7 +2,7 @@
 
 ## Objetivo y alcance
 
-Esta migración cambia los flujos interactivos de tutoría y voz para ejecutarse con Cloudflare Workers AI. El Worker público incluye `/tutor-ia` y sus endpoints de voz, además de la experiencia de artículos; no modifica las tablas de D1/Supabase.
+La tutoría de voz pregunta al inicio el tema y el nivel (CEFR), detecta preferencias mencionadas al hablar y recupera fragmentos relevantes de los artículos de LinguaFly desde el índice FTS5 de D1. Los artículos se consultan en tiempo de ejecución; no se vuelve a entrenar ni se duplica el contenido. El Worker público incluye `/tutor-ia` y sus endpoints de voz, además de la experiencia de artículos.
 
 La implementación de voz de esta fase es **por turnos**, no una conversación de audio full-duplex en streaming: el navegador detecta una pausa, envía la grabación a Whisper, genera la respuesta con GLM y sintetiza la voz con Aura. Esto evita depender de OpenAI Realtime, pero añade la latencia de tres solicitudes consecutivas. Se debe medir antes de anunciarlo como «tiempo real».
 
@@ -54,6 +54,7 @@ Ejecutar en un entorno con dependencias instaladas:
 2. \`npm run type-check\`
 3. \`npm run preview\` y probar el Worker de OpenNext con el binding \`AI\`.
 4. Probar cada endpoint con cuerpo vacío/inválido, mensajes largos y solicitudes repetidas; confirmar respuestas 400/413/429 y que ninguna credencial llegue al navegador.
+5. Verificar que el tutor recupera guías pertinentes para varios temas y que muestra solo enlaces reales devueltos por D1; si la búsqueda falla, la práctica debe continuar sin afirmar que consultó el blog.
 5. Validar en Chrome/Safari móvil: permiso de micrófono, silencio para cerrar turno, acentos, ruido, transcripción vacía, interrupción y desconexión.
 6. Medir p50/p95 de la transcripción, generación de texto y TTS por separado, coste real y duración por turno.
 7. Revisar los logs de Cloudflare y activar límites/alertas de gasto antes del despliegue público.
