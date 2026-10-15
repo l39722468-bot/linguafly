@@ -36,7 +36,7 @@ jobs:
         run: node scripts/check-workers-ai-types.mjs
 
       - name: Test Workers AI adapter and tutor onboarding
-        run: npm test -- --runInBand __tests__/unit/workers-ai.test.ts __tests__/unit/tutor-preferences.test.ts
+        run: npm test -- --runInBand __tests__/unit/workers-ai.test.ts __tests__/unit/tutor-preferences.test.ts __tests__/unit/tutor-knowledge.test.ts
 
       - name: Build OpenNext Worker
         env:
