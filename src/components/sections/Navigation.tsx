@@ -3,14 +3,18 @@
 import Link from "next/link";
 import { useState } from "react";
 import { SITE_BRAND_NAME } from "@/lib/site-brand";
-import { NAV_VERTICALS } from "@/lib/site-catalog";
+import { ENGLISH_LEARNING_SECTIONS, NAV_VERTICALS } from "@/lib/site-catalog";
 import { HtmlLang } from "@/components/seo/HtmlLang";
 
 const linkClass = "text-sm font-bold text-slate-700 hover:text-coral-600 transition-colors";
 
 export function Navigation() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [topicsMenuOpen, setTopicsMenuOpen] = useState(false);
   const closeMobileMenu = () => setMobileMenuOpen(false);
+  const topicSections = ENGLISH_LEARNING_SECTIONS.filter(
+    (section) => !section.slug.startsWith("curso-") && section.slug !== "actualidad" && section.slug !== "idiomas",
+  );
 
   return (
     <nav className="sticky top-0 z-[9998] border-b border-slate-200/80 bg-white/95 shadow-sm backdrop-blur-lg">
@@ -34,6 +38,31 @@ export function Navigation() {
                 {vertical.name}
               </Link>
             ))}
+            <div className="relative">
+              <button
+                type="button"
+                className={linkClass}
+                aria-expanded={topicsMenuOpen}
+                aria-haspopup="true"
+                onClick={() => setTopicsMenuOpen((open) => !open)}
+              >
+                Temáticas <span aria-hidden="true">⌄</span>
+              </button>
+              {topicsMenuOpen && (
+                <div className="absolute right-0 top-full z-50 mt-3 min-w-56 rounded-2xl border border-slate-200 bg-white p-2 shadow-xl">
+                  {topicSections.map((section) => (
+                    <Link
+                      key={section.slug}
+                      href={section.href}
+                      className="flex items-center gap-2 rounded-xl px-3 py-2 text-sm font-semibold text-slate-700 transition hover:bg-slate-50 hover:text-coral-700"
+                      onClick={() => setTopicsMenuOpen(false)}
+                    >
+                      <span>{section.icon}</span>{section.name}
+                    </Link>
+                  ))}
+                </div>
+              )}
+            </div>
             <Link href="/blog" className={linkClass}>Artículos</Link>
             <Link
               href="/colaborar"
@@ -69,6 +98,16 @@ export function Navigation() {
                   {vertical.icon} {vertical.name}
                 </Link>
               ))}
+              <div className="border-t border-slate-100 pt-3">
+                <p className="mb-2 text-xs font-black uppercase tracking-wide text-slate-400">Temáticas</p>
+                <div className="flex flex-col gap-3">
+                  {topicSections.map((section) => (
+                    <Link key={section.slug} href={section.href} className={linkClass} onClick={closeMobileMenu}>
+                      {section.icon} {section.name}
+                    </Link>
+                  ))}
+                </div>
+              </div>
               <Link href="/blog" className={linkClass} onClick={closeMobileMenu}>Artículos</Link>
               <Link href="/colaborar" className="font-bold text-coral-700" onClick={closeMobileMenu}>
                 Colaboraciones y patrocinios
