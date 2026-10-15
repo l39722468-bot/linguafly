@@ -75,10 +75,9 @@ function stripMarkup(value: string): string {
  * same FTS query for common, non-personal topics without duplicating the blog
  * corpus or persisting learners' question text.
  */
-async function makeHotCacheKey(terms: string[], topic: string, limit: number): Promise<string> {
-  const identity = `tutor-knowledge-v1\u001f${topic}\u001f${limit}\u001f${terms.join(" ")}`;
-  const digest = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(identity));
-  return Array.from(new Uint8Array(digest), (byte) => byte.toString(16).padStart(2, "0")).join("");
+function makeHotCacheKey(terms: string[], topic: string, limit: number): string {
+  // Only normalized search terms are kept; the raw question is never stored.
+  return JSON.stringify(["tutor-knowledge-v1", topic, limit, terms]);
 }
 
 function cloneArticles(articles: TutorKnowledgeArticle[]): TutorKnowledgeArticle[] {
@@ -128,7 +127,7 @@ export async function searchTutorKnowledge(
 
   if (safeToCache) {
     try {
-      hotCacheKey = await makeHotCacheKey(terms, topic, safeLimit);
+      hotCacheKey = makeHotCacheKey(terms, topic, safeLimit);
       const cached = getHotCachedArticles(hotCacheKey);
       if (cached) return cached;
     } catch {
