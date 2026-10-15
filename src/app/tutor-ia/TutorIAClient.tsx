@@ -214,7 +214,7 @@ export default function TutorIAClient() {
         )}
 
         {step === 'session' && (
-          <div className="grid lg:grid-cols-12 gap-8">
+          <div className="grid min-h-0 flex-1 grid-cols-1 grid-rows-[auto_minmax(0,1fr)] gap-3 overflow-hidden lg:grid-cols-12 lg:grid-rows-1">
             <div className="lg:col-span-4 min-h-0 flex flex-row lg:flex-col items-center justify-between lg:justify-center gap-2 sm:gap-3 rounded-2xl border border-white/5 bg-slate-900/35 p-2 sm:p-3">
               <div className="shrink-0 origin-center -m-4 scale-[0.72] sm:m-0 sm:scale-[0.82] lg:scale-100">
                 <AvatarOrb
