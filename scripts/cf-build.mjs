@@ -25,8 +25,8 @@ const ROOT = path.join(path.dirname(fileURLToPath(import.meta.url)), '..');
 const APP_DIR = path.join(ROOT, 'src', 'app');
 const BACKUP_DIR = path.join(ROOT, '.cf-excluded');
 
-// Route directories (relative to src/app) that are not part of the article
-// experience and are excluded from the Cloudflare Worker build. These stay
+// Route directories (relative to src/app) not needed by the article/tutor
+// experience are excluded from the Cloudflare Worker build. These stay
 // in git untouched — they're only moved out of the way during `cf:build`.
 const EXCLUDED_APP_DIRS = [
   'aplicaciones-para-aprender-ingles',
@@ -198,7 +198,7 @@ function main() {
 
   generateArticleCanonicals();
   prune();
-  console.warn(`[cf-build] Pruned ${EXCLUDED_APP_DIRS.length} non-article route(s) for the Cloudflare build.`);
+  console.warn(`[cf-build] Pruned ${EXCLUDED_APP_DIRS.length} excluded route director(y/ies) for the Cloudflare build.`);
 
   let exitCode = 1;
   try {
