@@ -491,13 +491,18 @@ export async function POST(request: NextRequest) {
     ];
 
     failureStage = 'text_generation';
-    const { reply, spokenSpanish, pronunciationText, feedback } = await chatWithTutor(messages);
+    // Standalone generic learning questions do not need the prior transcript
+    // history. Dropping it makes the first generation faster and ensures cached
+    // answers are independent of earlier conversation context.
+    const generationMessages = cacheableQuery
+      ? [messages[0], messages[messages.length - 1]]
+      : messages;
+    const { reply, spokenSpanish, pronunciationText, feedback } = await chatWithTutor(generationMessages);
 
-    // Save generic, standalone learning answers for next time. This write happens
-    // only after a successful answer and never includes audio, image or personal prompts.
+    // Save generic, standalone learning answers for next time. The cache guard
+    // excludes personal prompts, images, follow-ups and requests for blog sources.
     if (
       cacheableQuery &&
-      history.length === 0 &&
       !feedback &&
       reply.trim()
     ) {
