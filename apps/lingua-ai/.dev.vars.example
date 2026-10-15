@@ -2,7 +2,9 @@
 # Genera el secreto local con: node -e "console.log(require('node:crypto').randomBytes(32).toString('base64'))"
 BETTER_AUTH_SECRET=REEMPLAZA_POR_UN_SECRETO_ALEATORIO_DE_32_BYTES_O_MAS
 BETTER_AUTH_URL=http://localhost:5440
-\n# Voice inference uses the private Worker AI binding; no provider API key is needed.\n
+
+# Voice inference uses the private Worker AI binding; no provider API key is needed.
+
 # Se mantiene desactivado hasta incorporar/verificar linguafly.app
 # en Cloudflare Email Service > Email Sending.
 AUTH_EMAIL_ENABLED=false
