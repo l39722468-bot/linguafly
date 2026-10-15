@@ -28,6 +28,35 @@ type PracticeAttempt = {
   completed_at: number;
 };
 
+type SkillError = {
+  skill: string;
+  total_answers: number;
+  correct_answers: number;
+  incorrect_answers: number;
+};
+
+type PracticeInsightSummary = {
+  total_answers: number;
+};
+
+const skillLabels: Record<string, string> = {
+  "present-simple": "Presente simple: tercera persona",
+  "present-continuous": "Presente continuo",
+  "past-simple": "Pasado simple",
+  quantifiers: "Cuantificadores: much y many",
+  "polite-requests": "Peticiones con could",
+  "present-perfect": "Present perfect con since",
+  "second-conditional": "Second conditional",
+  "be-used-to-gerund": "Be used to + verbo en -ing",
+  "causative-have": "Have something done",
+  "gerund-after-preposition": "Verbo en -ing después de una preposición",
+  "inversion-hardly": "Inversión con hardly",
+  "relative-clauses": "Oraciones relativas con which",
+  "would-rather": "Would rather + past simple",
+  "vocabulary-precision": "Precisión de vocabulario",
+  "third-conditional": "Third conditional",
+};
+
 const explanationLanguageLabels: Record<string, string> = {
   es: "Español",
   ca: "Català",
@@ -50,6 +79,9 @@ export default async function PrivateHomePage() {
   let practiceSummary: PracticeSummary | null = null;
   let recentPracticeAttempts: PracticeAttempt[] = [];
   let practiceHistoryUnavailable = false;
+  let practiceInsightsUnavailable = false;
+  let insightSummary: PracticeInsightSummary = { total_answers: 0 };
+  let skillErrors: SkillError[] = [];
 
   try {
     const context = await getCloudflareContext({ async: true });
@@ -99,6 +131,40 @@ export default async function PrivateHomePage() {
   } catch {
     // An unapplied practice-history migration must not break the profile page.
     practiceHistoryUnavailable = true;
+  }
+
+  try {
+    const context = await getCloudflareContext({ async: true });
+    const env = context.env as unknown as CloudflareEnv;
+
+    insightSummary =
+      (await env.AUTH_DB.prepare(
+        "SELECT COUNT(*) AS total_answers FROM practice_question_results WHERE user_id = ?",
+      )
+        .bind(session.user.id)
+        .first<PracticeInsightSummary>()) ?? { total_answers: 0 };
+
+    const errors = await env.AUTH_DB.prepare(
+      `SELECT skill,
+              COUNT(*) AS total_answers,
+              SUM(is_correct) AS correct_answers,
+              COUNT(*) - SUM(is_correct) AS incorrect_answers
+       FROM practice_question_results
+       WHERE user_id = ?
+       GROUP BY skill
+       HAVING SUM(is_correct) < COUNT(*)
+       ORDER BY incorrect_answers DESC,
+                CAST(COUNT(*) - SUM(is_correct) AS REAL) / COUNT(*) DESC,
+                COUNT(*) DESC
+       LIMIT 5`,
+    )
+      .bind(session.user.id)
+      .all<SkillError>();
+
+    skillErrors = errors.results ?? [];
+  } catch {
+    // Keep the score history visible when per-question analysis is unavailable.
+    practiceInsightsUnavailable = true;
   }
 
   return (
@@ -232,6 +298,58 @@ export default async function PrivateHomePage() {
                 ) : null}
               </>
             )}
+          </section>
+
+          <section className="mt-8 rounded-2xl border border-stone-200 bg-white p-6 sm:p-8">
+            <p className="text-sm font-medium uppercase tracking-wide text-stone-500">
+              Aprendizaje personalizado
+            </p>
+            <h2 className="mt-2 text-xl font-semibold tracking-tight">
+              Temas que conviene reforzar
+            </h2>
+            <p className="mt-2 text-sm leading-6 text-stone-600">
+              Analizamos las respuestas de tus prácticas para identificar los contenidos que necesitan más repaso.
+            </p>
+
+            {practiceInsightsUnavailable ? (
+              <p className="mt-4 text-sm leading-6 text-stone-600">
+                El análisis por pregunta todavía no está disponible. Hay que aplicar la migración
+                0003_practice_question_results.sql a la base D1 de LinguaFly AI.
+              </p>
+            ) : insightSummary.total_answers === 0 ? (
+              <p className="mt-4 text-sm leading-6 text-stone-600">
+                Completa una nueva práctica para empezar a detectar tus puntos fuertes y los temas que puedes reforzar.
+              </p>
+            ) : skillErrors.length === 0 ? (
+              <p className="mt-4 text-sm leading-6 text-stone-600">
+                ¡Buen trabajo! En las respuestas registradas no aparecen temas con errores. Sigue practicando para confirmar tu progreso.
+              </p>
+            ) : (
+              <ol className="mt-5 space-y-3">
+                {skillErrors.map((item) => (
+                  <li key={item.skill} className="rounded-xl bg-stone-50 p-4">
+                    <div className="flex items-start justify-between gap-4">
+                      <p className="font-medium text-stone-900">
+                        {skillLabels[item.skill] ?? item.skill}
+                      </p>
+                      <span className="shrink-0 text-sm font-semibold tabular-nums text-stone-700">
+                        {item.incorrect_answers} {item.incorrect_answers === 1 ? "error" : "errores"}
+                      </span>
+                    </div>
+                    <p className="mt-1 text-sm text-stone-600">
+                      {item.correct_answers} aciertos de {item.total_answers} intentos en este tema.
+                    </p>
+                  </li>
+                ))}
+              </ol>
+            )}
+
+            <Link
+              href="/app/practica"
+              className="mt-5 inline-flex w-full items-center justify-center rounded-lg border border-stone-300 px-5 py-3 text-base font-medium text-stone-900 hover:bg-stone-100 sm:w-auto"
+            >
+              Practicar y revisar explicaciones
+            </Link>
           </section>
 
           <LearningProfileForm

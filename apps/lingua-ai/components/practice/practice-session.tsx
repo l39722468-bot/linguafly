@@ -3,15 +3,9 @@
 import Link from "next/link";
 import { useState } from "react";
 import { savePracticeAttempt } from "@/lib/practice/actions";
+import { getBand, questionSets } from "@/lib/practice/question-bank";
 
 type ExplanationLanguage = "es" | "ca" | "en" | "fr" | "pt" | "de" | "it";
-type Question = {
-  prompt: string;
-  options: string[];
-  correctIndex: number;
-  explanationKey: string;
-};
-
 const persistenceCopy: Record<ExplanationLanguage, {
   saving: string;
   saved: string;
@@ -25,30 +19,6 @@ const persistenceCopy: Record<ExplanationLanguage, {
   pt: { saving: "A guardar o resultado…", saved: "Resultado guardado no histórico.", error: "Não foi possível guardar o resultado. Verifica a ligação e tenta novamente.", retry: "Guardar novamente" },
   de: { saving: "Ergebnis wird gespeichert…", saved: "Ergebnis im Verlauf gespeichert.", error: "Das Ergebnis konnte nicht gespeichert werden. Prüfe die Verbindung und versuche es erneut.", retry: "Ergebnis erneut speichern" },
   it: { saving: "Salvataggio del risultato…", saved: "Risultato salvato nella cronologia.", error: "Non è stato possibile salvare il risultato. Controlla la connessione e riprova.", retry: "Salva di nuovo il risultato" },
-};
-
-const questionSets: Record<"basic" | "intermediate" | "advanced", Question[]> = {
-  basic: [
-    { prompt: "He ___ to work by bus every day.", options: ["go", "goes", "going"], correctIndex: 1, explanationKey: "presentSimple" },
-    { prompt: "They ___ dinner at the moment.", options: ["have", "has", "are having"], correctIndex: 2, explanationKey: "presentContinuous" },
-    { prompt: "Yesterday, I ___ my friend in town.", options: ["see", "saw", "seen"], correctIndex: 1, explanationKey: "pastSimple" },
-    { prompt: "There isn't ___ milk left.", options: ["many", "much", "a few"], correctIndex: 1, explanationKey: "much" },
-    { prompt: "Could you ___ the window, please?", options: ["opened", "opening", "open"], correctIndex: 2, explanationKey: "politeRequest" },
-  ],
-  intermediate: [
-    { prompt: "I ___ in London since 2021.", options: ["live", "have lived", "am living"], correctIndex: 1, explanationKey: "presentPerfectSince" },
-    { prompt: "If I ___ more time, I'd learn Italian.", options: ["have", "will have", "had"], correctIndex: 2, explanationKey: "secondConditional" },
-    { prompt: "She's used to ___ early.", options: ["get up", "getting up", "gets up"], correctIndex: 1, explanationKey: "usedTo" },
-    { prompt: "We had the report ___ before Friday.", options: ["finished", "finish", "finishing"], correctIndex: 0, explanationKey: "causativeHave" },
-    { prompt: "Despite ___ tired, he continued working.", options: ["be", "was", "being"], correctIndex: 2, explanationKey: "despiteIng" },
-  ],
-  advanced: [
-    { prompt: "Hardly ___ the meeting started when the alarm went off.", options: ["had", "did", "has"], correctIndex: 0, explanationKey: "hardly" },
-    { prompt: "The proposal was rejected, ___ surprised no one.", options: ["that", "which", "what"], correctIndex: 1, explanationKey: "whichClause" },
-    { prompt: "I would rather you ___ this confidential.", options: ["keep", "kept", "will keep"], correctIndex: 1, explanationKey: "wouldRather" },
-    { prompt: "Her argument is cogent, but not entirely ___.", options: ["compelling", "compelled", "compel"], correctIndex: 0, explanationKey: "compelling" },
-    { prompt: "Were it not for her advice, we ___ the contract.", options: ["will lose", "had lost", "would have lost"], correctIndex: 2, explanationKey: "thirdConditional" },
-  ],
 };
 
 const explanations: Record<string, Record<ExplanationLanguage, string>> = {
@@ -216,12 +186,6 @@ const copy: Record<ExplanationLanguage, {
   it: { eyebrow: "ESERCIZIO GUIDATO", title: "La tua prima pratica", intro: "Cinque domande adatte al tuo livello. Scegli una risposta e controllala per vedere la spiegazione.", question: "Domanda", check: "Verifica la risposta", next: "Domanda successiva", finish: "Vedi il risultato", correct: "Corretto!", incorrect: "Non proprio.", explanation: "Spiegazione", result: "Pratica completata", score: "Il tuo risultato", perfect: "Ottimo! Hai risposto correttamente a tutte le domande.", good: "Bel lavoro. Continua a esercitarti per consolidare ciò che hai imparato.", retry: "Ripeti la pratica", dashboard: "Torna al profilo" },
 };
 
-function getBand(level: string): "basic" | "intermediate" | "advanced" {
-  if (level === "C1" || level === "C2") return "advanced";
-  if (level === "B1" || level === "B2") return "intermediate";
-  return "basic";
-}
-
 export function PracticeSession({
   cefrLevel,
   explanationLanguage,
@@ -242,6 +206,7 @@ export function PracticeSession({
   const [finished, setFinished] = useState(false);
   const [saveState, setSaveState] = useState<"idle" | "saving" | "success" | "error">("idle");
   const [completedScore, setCompletedScore] = useState<number | null>(null);
+  const [completedAnswers, setCompletedAnswers] = useState<Array<{ questionId: string; selectedIndex: number }> | null>(null);
   const saveMessages = persistenceCopy[locale];
   const question = questions[questionIndex];
   function checkAnswer() {
@@ -254,11 +219,14 @@ export function PracticeSession({
     });
   }
 
-  async function persistResult(score: number) {
+  async function persistResult(
+    submittedAnswers: Array<{ questionId: string; selectedIndex: number }>,
+  ) {
     setSaveState("saving");
     try {
-      const result = await savePracticeAttempt(score);
+      const result = await savePracticeAttempt(submittedAnswers);
       setSaveState(result.status);
+      if (result.status === "success") setCompletedScore(result.score);
     } catch {
       setSaveState("error");
     }
@@ -266,13 +234,18 @@ export function PracticeSession({
 
   async function goNext() {
     if (questionIndex === questions.length - 1) {
+      const submittedAnswers = questions.map((item, index) => ({
+        questionId: item.id,
+        selectedIndex: answers[index] ?? -1,
+      }));
       const score = answers.reduce(
         (total, answer, index) => total + (answer === questions[index]?.correctIndex ? 1 : 0),
         0,
       );
       setCompletedScore(score);
+      setCompletedAnswers(submittedAnswers);
       setFinished(true);
-      await persistResult(score);
+      await persistResult(submittedAnswers);
       return;
     }
     setQuestionIndex((index) => index + 1);
@@ -288,6 +261,7 @@ export function PracticeSession({
     setFinished(false);
     setSaveState("idle");
     setCompletedScore(null);
+    setCompletedAnswers(null);
   }
 
   if (finished) {
@@ -333,7 +307,7 @@ export function PracticeSession({
                 <button
                   type="button"
                   onClick={() => {
-                    if (completedScore !== null) void persistResult(completedScore);
+                    if (completedAnswers !== null) void persistResult(completedAnswers);
                   }}
                   className="rounded-lg border border-stone-300 px-4 py-2 text-sm font-medium text-stone-800 hover:bg-stone-100"
                 >
