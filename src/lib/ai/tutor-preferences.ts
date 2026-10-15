@@ -30,7 +30,7 @@ const TOPIC_TERMS: Record<Exclude<TutorTopic, "general">, string[]> = {
   ],
   social: [
     "social", "daily", "everyday", "friends", "family", "routine", "smalltalk",
-    "cotidiana", "cotidiano", "amigos", "familia", "rutina", "conversación",
+    "cotidiana", "cotidiano", "amigos", "familia", "rutina", "conversation", "chat", "talk", "daily life", "conversación",
     "conversacion", "charlar",
   ],
   grammar: [
