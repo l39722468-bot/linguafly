@@ -1,8 +1,11 @@
 "use client";
 
-import { useEffect, useState, useActionState } from "react";
-import { saveLearningProfile } from "@/lib/profile/actions";
-import { SubmitButton } from "@/components/auth/submit-button";
+import { useState, type FormEvent } from "react";
+import { useRouter } from "next/navigation";
+import {
+  saveLearningProfile,
+  type LearningProfileFormState,
+} from "@/lib/profile/actions";
 
 const levelOptions = [
   { value: "A1", label: "A1 · Principiante" },
@@ -37,24 +40,44 @@ export function LearningProfileForm({
   initialExplanationLanguage,
   initialLearningGoal,
 }: LearningProfileFormProps) {
-  const [state, action] = useActionState(saveLearningProfile, null);
+  const router = useRouter();
+  const [state, setState] = useState<LearningProfileFormState>(null);
+  const [isPending, setIsPending] = useState(false);
   const [cefrLevel, setCefrLevel] = useState(initialCefrLevel ?? "");
   const [explanationLanguage, setExplanationLanguage] = useState(
     initialExplanationLanguage,
   );
   const [learningGoal, setLearningGoal] = useState(initialLearningGoal ?? "");
-  const [formVersion, setFormVersion] = useState(0);
 
-  // Align the visible fields with the values that the server has read back from D1.
-  useEffect(() => {
-    if (state?.status !== "success") return;
-    setCefrLevel(state.profile.cefrLevel ?? "");
-    setExplanationLanguage(state.profile.explanationLanguage);
-    setLearningGoal(state.profile.learningGoal ?? "");
-    // Remount the form after a successful Server Action. React may reset form
-    // controls on action completion even when their values are controlled.
-    setFormVersion((version) => version + 1);
-  }, [state]);
+  async function handleSubmit(event: FormEvent<HTMLFormElement>) {
+    event.preventDefault();
+
+    // Build FormData before awaiting the server action so it contains the
+    // exact values currently selected by the user.
+    const formData = new FormData(event.currentTarget);
+    setIsPending(true);
+
+    try {
+      const result = await saveLearningProfile(state, formData);
+      setState(result);
+
+      if (result?.status === "success") {
+        // Sync every field from the values D1 confirmed, without relying on
+        // React's automatic form-action reset behavior.
+        setCefrLevel(result.profile.cefrLevel ?? "");
+        setExplanationLanguage(result.profile.explanationLanguage);
+        setLearningGoal(result.profile.learningGoal ?? "");
+        router.refresh();
+      }
+    } catch {
+      setState({
+        status: "error",
+        message: "No se han podido guardar las preferencias. Inténtalo de nuevo.",
+      });
+    } finally {
+      setIsPending(false);
+    }
+  }
 
   return (
     <section className="mt-10 rounded-2xl border border-stone-200 bg-white p-6 sm:p-8">
@@ -67,7 +90,7 @@ export function LearningProfileForm({
         </p>
       </div>
 
-      <form key={formVersion} action={action} className="mt-6 space-y-5">
+      <form onSubmit={handleSubmit} className="mt-6 space-y-5">
         <label
           htmlFor="cefrLevel"
           className="block text-sm font-medium text-stone-700"
@@ -79,6 +102,7 @@ export function LearningProfileForm({
             value={cefrLevel}
             onChange={(event) => setCefrLevel(event.target.value)}
             className={fieldClassName}
+            disabled={isPending}
           >
             <option value="">Todavía no lo sé</option>
             {levelOptions.map((option) => (
@@ -101,6 +125,7 @@ export function LearningProfileForm({
             onChange={(event) => setExplanationLanguage(event.target.value)}
             required
             className={fieldClassName}
+            disabled={isPending}
           >
             {languageOptions.map((option) => (
               <option key={option.value} value={option.value}>
@@ -124,6 +149,7 @@ export function LearningProfileForm({
             rows={3}
             placeholder="Ej.: ganar confianza al hablar inglés en reuniones y viajes."
             className={fieldClassName}
+            disabled={isPending}
           />
           <span className="mt-1 block text-xs font-normal text-stone-500">
             Hasta 200 caracteres. Puedes dejarlo en blanco.
@@ -142,7 +168,13 @@ export function LearningProfileForm({
           </p>
         ) : null}
 
-        <SubmitButton label="Guardar preferencias" />
+        <button
+          type="submit"
+          disabled={isPending}
+          className="w-full rounded-lg bg-stone-900 px-4 py-3 text-base font-medium text-white disabled:opacity-60"
+        >
+          {isPending ? "Guardando…" : "Guardar preferencias"}
+        </button>
       </form>
     </section>
   );
