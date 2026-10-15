@@ -177,14 +177,25 @@ function parseFallbackAnswer(raw: string): Omit<TutorAnswer, 'feedback'> {
   const match = raw.match(/RESPUESTA:\s*([\s\S]*?)\nAUDIO_ES:\s*([\s\S]*?)\nPRONUNCIACION_EN:\s*([\s\S]*)/i);
   if (match) {
     const reply = match[1].trim().slice(0, 1800);
+    const pronunciationText = match[3].trim().replace(/^["“]|["”]$/g, '').slice(0, 1400);
+    let spokenSpanish = match[2].trim().slice(0, 1400);
+    for (const phrase of pronunciationText.split(/\r?\n/).map((line) => line.trim()).filter(Boolean)) {
+      spokenSpanish = spokenSpanish.split(phrase).join('').trim();
+    }
     return {
       reply: reply || raw.trim().slice(0, 1800),
-      spokenSpanish: match[2].trim().slice(0, 1400) || reply,
-      pronunciationText: match[3].trim().replace(/^["“]|["”]$/g, '').slice(0, 1400),
+      spokenSpanish: spokenSpanish || (pronunciationText
+        ? 'Aquí tienes los ejemplos en inglés. Escucha cada frase y repítela.'
+        : 'Aquí tienes la respuesta en pantalla.'),
+      pronunciationText,
     };
   }
   const reply = raw.trim().slice(0, 1800);
-  return { reply, spokenSpanish: reply, pronunciationText: '' };
+  return {
+    reply,
+    spokenSpanish: 'Aquí tienes la respuesta en pantalla. Escucha los ejemplos en inglés con el botón de pronunciación.',
+    pronunciationText: '',
+  };
 }
 
 async function chatWithTutor(messages: WorkersAIMessage[]): Promise<TutorAnswer> {
@@ -214,12 +225,21 @@ No añadas texto antes de RESPUESTA ni cambies los marcadores.`,
   }
 
   const reply = typeof result.reply === 'string' ? result.reply.trim().slice(0, 1800) : '';
-  const spokenSpanish = typeof result.spokenSpanish === 'string'
-    ? result.spokenSpanish.trim().slice(0, 1400)
-    : reply;
   const pronunciationText = typeof result.pronunciationText === 'string'
-    ? result.pronunciationText.trim().replace(/^["“]|["”]$/g, '').slice(0, 200)
+    ? result.pronunciationText.trim().replace(/^["“]|["”]$/g, '').slice(0, 1400)
     : '';
+  const defaultSpokenSpanish = pronunciationText
+    ? 'Aquí tienes los ejemplos en inglés. Escucha cada frase y repítela.'
+    : 'Aquí tienes la respuesta en pantalla.';
+  let spokenSpanish = typeof result.spokenSpanish === 'string'
+    ? result.spokenSpanish.trim().slice(0, 1400)
+    : defaultSpokenSpanish;
+
+  // Never send the English model phrases through the Spanish voice, even if
+  // the model accidentally repeats them in spokenSpanish.
+  for (const phrase of pronunciationText.split(/\r?\n/).map((line) => line.trim()).filter(Boolean)) {
+    spokenSpanish = spokenSpanish.split(phrase).join('').trim();
+  }
 
   let feedback: TutorFeedback | null = null;
   if (result.feedback && typeof result.feedback === 'object' && !Array.isArray(result.feedback)) {
@@ -239,7 +259,7 @@ No añadas texto antes de RESPUESTA ni cambies los marcadores.`,
 
   return {
     reply: reply || "No te he entendido bien. ¿Puedes repetirlo, por favor?",
-    spokenSpanish: spokenSpanish || reply || "Vamos a intentarlo de nuevo.",
+    spokenSpanish: spokenSpanish || defaultSpokenSpanish,
     pronunciationText,
     feedback,
   };
