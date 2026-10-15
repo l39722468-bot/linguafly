@@ -2,7 +2,7 @@
 
 ## Objetivo y alcance
 
-La tutoría de voz pregunta al inicio el tema y el nivel (CEFR), detecta preferencias mencionadas al hablar y recupera fragmentos relevantes de los artículos de LinguaFly desde el índice FTS5 de D1. Los artículos se consultan en tiempo de ejecución; no se vuelve a entrenar ni se duplica el contenido. El Worker público incluye `/tutor-ia` y sus endpoints de voz, además de la experiencia de artículos.
+La tutoría de voz conversa y explica siempre en español. El inglés se reserva para vocabulario, frases modelo, ejemplos y ejercicios que el alumno debe aprender o practicar; las explicaciones y correcciones se ofrecen en español. El tutor utiliza Aura 2 en español para la voz de la conversación y Whisper detecta el idioma del audio para admitir tanto respuestas en español como ejercicios hablados en inglés. Al inicio pregunta el tema y el nivel (CEFR), detecta preferencias mencionadas al hablar y recupera fragmentos relevantes de los artículos de LinguaFly desde el índice FTS5 de D1. Los artículos se consultan en tiempo de ejecución; no se vuelve a entrenar ni se duplica el contenido. El Worker público incluye `/tutor-ia` y sus endpoints de voz, además de la experiencia de artículos.
 
 La implementación de voz de esta fase es **por turnos**, no una conversación de audio full-duplex en streaming: el navegador detecta una pausa, envía la grabación a Whisper, genera la respuesta con GLM y sintetiza la voz con Aura. Esto evita depender de OpenAI Realtime, pero añade la latencia de tres solicitudes consecutivas. Se debe medir antes de anunciarlo como «tiempo real».
 
