@@ -8,6 +8,7 @@ const MIGRATION_FILES = [
   "__tests__/unit/workers-ai.test.ts",
   "__tests__/unit/tutor-preferences.test.ts",
   "__tests__/unit/tutor-knowledge.test.ts",
+  "__tests__/unit/tutor-response-cache.test.ts",
   "src/app/api/ai-lab/chat/route.ts",
   "src/app/api/ai-lab/evaluate/route.ts",
   "src/app/api/ai-lab/stt/route.ts",
@@ -33,6 +34,7 @@ const MIGRATION_FILES = [
   "src/lib/ai/workers-ai.ts",
   "src/lib/ai/tutor-preferences.ts",
   "src/lib/ai/tutor-knowledge.ts",
+  "src/lib/ai/tutor-response-cache.ts",
   "src/hooks/use-avatar-tutor.ts",
   "src/app/tutor-ia/TutorIAClient.tsx",
 ];

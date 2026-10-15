@@ -10,6 +10,14 @@ import {
 } from '@/lib/ai/workers-ai';
 import { CF_LLAMA_3_2_11B_VISION_INSTRUCT } from '@/lib/ai/cloudflare-workers-ai-models';
 import { searchTutorKnowledge, type TutorKnowledgeArticle } from '@/lib/ai/tutor-knowledge';
+import {
+  detectPreparedTutorIntent,
+  getCachedTutorResponse,
+  getPreparedTutorResponse,
+  isCacheableTutorQuery,
+  saveCachedTutorResponse,
+  type CachedTutorAnswer,
+} from '@/lib/ai/tutor-response-cache';
 import { inferTutorPreferences } from '@/lib/ai/tutor-preferences';
 
 export const maxDuration = 60;
@@ -415,6 +423,38 @@ export async function POST(request: NextRequest) {
     const effectiveLevel = preferences.level;
     const effectiveTopic = preferences.topic;
 
+    const canUsePreparedAnswer = imageBase64 === null;
+    const preparedIntent = canUsePreparedAnswer ? detectPreparedTutorIntent(rawTranscription) : null;
+    const cacheableQuery = canUsePreparedAnswer &&
+      !shouldRetrieveTutorKnowledge(rawTranscription) &&
+      isCacheableTutorQuery(rawTranscription);
+    const sendStoredAnswer = (answer: CachedTutorAnswer) => NextResponse.json({
+      transcription: rawTranscription,
+      reply: answer.reply,
+      spokenSpanish: answer.spokenSpanish,
+      pronunciationText: answer.pronunciationText,
+      feedback: answer.feedback,
+      level: effectiveLevel,
+      topic: effectiveTopic,
+      levelDetected: preferences.levelDetected,
+      topicDetected: preferences.topicDetected,
+      sources: [],
+    });
+
+    // Exact, curated answers in D1 avoid a model round-trip for common study requests.
+    failureStage = 'response_cache';
+    if (preparedIntent) {
+      const prepared = await getPreparedTutorResponse(preparedIntent);
+      if (prepared) return sendStoredAnswer(prepared);
+    }
+
+    // Reuse generic answers from previous sessions. Personal/contextual prompts,
+    // image questions and follow-ups are excluded by the cache guard.
+    if (cacheableQuery) {
+      const cached = await getCachedTutorResponse(rawTranscription, tutorId, effectiveLevel, effectiveTopic);
+      if (cached) return sendStoredAnswer(cached);
+    }
+
     // Image analysis and D1 article retrieval are independent after transcription,
     // so run them concurrently instead of making the user wait for both in series.
     failureStage = 'context_retrieval';
@@ -451,7 +491,28 @@ export async function POST(request: NextRequest) {
     ];
 
     failureStage = 'text_generation';
-    const { reply, spokenSpanish, pronunciationText, feedback } = await chatWithTutor(messages);
+    // Standalone generic learning questions do not need the prior transcript
+    // history. Dropping it makes the first generation faster and ensures cached
+    // answers are independent of earlier conversation context.
+    const generationMessages = cacheableQuery
+      ? [messages[0], messages[messages.length - 1]]
+      : messages;
+    const { reply, spokenSpanish, pronunciationText, feedback } = await chatWithTutor(generationMessages);
+
+    // Save generic, standalone learning answers for next time. The cache guard
+    // excludes personal prompts, images, follow-ups and requests for blog sources.
+    if (
+      cacheableQuery &&
+      !feedback &&
+      reply.trim()
+    ) {
+      await saveCachedTutorResponse(rawTranscription, tutorId, effectiveLevel, effectiveTopic, {
+        reply,
+        spokenSpanish,
+        pronunciationText,
+        feedback: null,
+      });
+    }
 
     // Return the readable answer immediately. The browser requests voice on a
     // separate endpoint, so TTS latency no longer delays the visible response.
