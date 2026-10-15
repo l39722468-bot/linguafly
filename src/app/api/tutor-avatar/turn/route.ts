@@ -265,7 +265,6 @@ export async function POST(request: NextRequest) {
     const tutorId = typeof body.tutorId === 'string' && Object.prototype.hasOwnProperty.call(TUTOR_SYSTEM_PROMPTS, body.tutorId)
       ? body.tutorId
       : 'emma';
-    const tutorGender = body.tutorGender === 'male' ? 'male' : 'female';
     const level = typeof body.level === 'string' ? body.level.slice(0, 32) : 'B1';
     const topic = typeof body.topic === 'string' ? body.topic.slice(0, 100) : 'general';
     const historyInput = Array.isArray(body.history) ? body.history.slice(-16) : [];
