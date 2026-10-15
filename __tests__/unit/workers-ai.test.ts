@@ -13,6 +13,7 @@ import {
   validateChatMessages,
   WORKERS_AI_CHAT_MODEL,
   WORKERS_AI_FALLBACK_CHAT_MODEL,
+  WORKERS_AI_TTS_ENGLISH_MODEL,
   WORKERS_AI_TTS_SPANISH_MODEL,
 } from "@/lib/ai/workers-ai";
 
@@ -57,6 +58,29 @@ describe("Workers AI adapter helpers", () => {
         { returnRawResponse: true },
       );
     });
+  });
+
+  it("uses the English Aura model for the pronunciation example", async () => {
+    const bytes = new Uint8Array([4, 5, 6]);
+    const run = jest.fn().mockResolvedValue(new Response(bytes.buffer));
+    (getCloudflareContext as jest.Mock).mockResolvedValue({ env: { AI: { run } } });
+
+    const result = await synthesizeWorkersAIAudioBase64(
+      "I have a reservation.",
+      "luna",
+      WORKERS_AI_TTS_ENGLISH_MODEL,
+    );
+
+    expect(result).toBe(Buffer.from(bytes).toString("base64"));
+    expect(run).toHaveBeenCalledWith(
+      WORKERS_AI_TTS_ENGLISH_MODEL,
+      expect.objectContaining({
+        text: "I have a reservation.",
+        speaker: "luna",
+        encoding: "mp3",
+      }),
+      { returnRawResponse: true },
+    );
   });
 
   describe("runWorkersAIText fallback", () => {
