@@ -1,6 +1,6 @@
 "use client";
 
-import { useActionState } from "react";
+import { useState, useActionState } from "react";
 import { saveLearningProfile } from "@/lib/profile/actions";
 import { SubmitButton } from "@/components/auth/submit-button";
 
@@ -39,6 +39,15 @@ export function LearningProfileForm({
 }: LearningProfileFormProps) {
   const [state, action] = useActionState(saveLearningProfile, null);
 
+  // Keep the form values in React state. Uncontrolled fields can reset to
+  // their original defaultValue after a Server Action, making a newly saved
+  // level (for example C1) appear to revert to the initial level (for example B1).
+  const [cefrLevel, setCefrLevel] = useState(initialCefrLevel ?? "");
+  const [explanationLanguage, setExplanationLanguage] = useState(
+    initialExplanationLanguage,
+  );
+  const [learningGoal, setLearningGoal] = useState(initialLearningGoal ?? "");
+
   return (
     <section className="mt-10 rounded-2xl border border-stone-200 bg-white p-6 sm:p-8">
       <div>
@@ -59,7 +68,8 @@ export function LearningProfileForm({
           <select
             id="cefrLevel"
             name="cefrLevel"
-            defaultValue={initialCefrLevel ?? ""}
+            value={cefrLevel}
+            onChange={(event) => setCefrLevel(event.target.value)}
             className={fieldClassName}
           >
             <option value="">Todavía no lo sé</option>
@@ -79,7 +89,8 @@ export function LearningProfileForm({
           <select
             id="explanationLanguage"
             name="explanationLanguage"
-            defaultValue={initialExplanationLanguage}
+            value={explanationLanguage}
+            onChange={(event) => setExplanationLanguage(event.target.value)}
             required
             className={fieldClassName}
           >
@@ -99,7 +110,8 @@ export function LearningProfileForm({
           <textarea
             id="learningGoal"
             name="learningGoal"
-            defaultValue={initialLearningGoal ?? ""}
+            value={learningGoal}
+            onChange={(event) => setLearningGoal(event.target.value)}
             maxLength={200}
             rows={3}
             placeholder="Ej.: ganar confianza al hablar inglés en reuniones y viajes."
