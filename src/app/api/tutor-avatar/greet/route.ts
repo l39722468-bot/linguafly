@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
-import { enforceAIRateLimit, synthesizeWorkersAIAudioBase64, WORKERS_AI_TTS_SPANISH_MODEL } from '@/lib/ai/workers-ai';
+import { enforceAIRateLimit } from '@/lib/ai/workers-ai';
 
 export const maxDuration = 30;
 
@@ -27,25 +27,9 @@ export async function POST(request: NextRequest) {
     const tutorGender = body.tutorGender === 'male' ? 'male' : 'female';
     const greeting = GREETINGS[tutorId];
 
-    let audioBase64 = '';
-    let audioUnavailable = false;
-    try {
-      audioBase64 = await synthesizeWorkersAIAudioBase64(
-        greeting,
-        tutorGender === 'female' ? 'carina' : 'alvaro',
-        WORKERS_AI_TTS_SPANISH_MODEL,
-      );
-    } catch (error: unknown) {
-      audioUnavailable = true;
-      console.error(
-        'Tutor greeting audio failed:',
-        error instanceof Error ? `${error.name}: ${error.message.slice(0, 180)}` : 'UnknownError',
-      );
-    }
-
-    // A TTS outage should not prevent the learner from seeing the welcome
-    // and starting a session; the tutor can continue in text if needed.
-    return NextResponse.json({ greeting, audioBase64, audioUnavailable });
+    // Return the greeting text immediately; the client starts TTS in parallel
+    // after rendering it, so the user sees the tutor before audio is ready.
+    return NextResponse.json({ greeting, speechPending: true });
   } catch (error: unknown) {
     console.error(
       'Tutor greeting request failed:',
