@@ -60,7 +60,8 @@ export default function TutorIAClient() {
   // B1/general are only safe internal fallbacks; the tutor asks and detects the learner's preferences.
   const [detectedLevel, setDetectedLevel] = useState<string | null>(null);
   const [detectedTopic, setDetectedTopic] = useState<string | null>(null);
-  const messagesEndRef = useRef<HTMLDivElement>(null);
+  const messagesContainerRef = useRef<HTMLDivElement>(null);
+  const prewarmedTutorVoicesRef = useRef<Set<string>>(new Set());
   const imageInputRef = useRef<HTMLInputElement>(null);
 
   const {
@@ -91,8 +92,28 @@ export default function TutorIAClient() {
   });
 
   useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    const container = messagesContainerRef.current;
+    if (!container) return;
+    container.scrollTo({ top: container.scrollHeight, behavior: 'smooth' });
   }, [messages]);
+
+  // Prepare the welcome and two common lesson audios while the learner chooses a tutor.
+  useEffect(() => {
+    const cacheKey = `${selectedTutor.id}:${selectedTutor.gender}`;
+    if (prewarmedTutorVoicesRef.current.has(cacheKey)) return;
+    prewarmedTutorVoicesRef.current.add(cacheKey);
+    void fetch('/api/tutor-avatar/preload', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        tutorId: selectedTutor.id,
+        tutorGender: selectedTutor.gender,
+        intents: ['numbers_0_10_examples', 'greetings_examples'],
+      }),
+    }).catch(() => {
+      // TTS prewarming is optional; the tutor still works if it fails.
+    });
+  }, [selectedTutor.id, selectedTutor.gender]);
 
   const handleStart = async () => {
     // Unlock browser autoplay policy immediately on user gesture
@@ -119,19 +140,21 @@ export default function TutorIAClient() {
     <div className="min-h-screen bg-gradient-to-br from-slate-950 via-slate-900 to-slate-800">
       <Navigation />
 
-      <main className="pt-28 pb-16 px-4 sm:px-6 lg:px-8 max-w-6xl mx-auto">
-        <div className="flex items-center gap-3 mb-8">
+      <main className={`${step === 'session'
+        ? 'flex h-[calc(100dvh-4rem)] min-h-0 flex-col overflow-hidden pt-2 pb-2'
+        : 'min-h-[calc(100dvh-4rem)] pt-8 pb-16'} px-3 sm:px-6 lg:px-8 max-w-6xl mx-auto w-full`}>
+        <div className={`flex shrink-0 items-center gap-2 sm:gap-3 ${step === 'session' ? 'mb-2 min-h-9' : 'mb-8'}`}>
           <Link
             href="/"
             className="flex items-center gap-2 text-slate-400 hover:text-white transition-colors text-sm font-medium"
           >
             <ArrowLeft className="w-4 h-4" />
-            Volver
+            <span className={step === 'session' ? 'hidden sm:inline' : ''}>Volver</span>
           </Link>
           <div className="w-px h-4 bg-slate-700" />
-          <h1 className="text-white font-black text-2xl">Tutor IA de inglés</h1>
-          <span className="text-xs bg-gradient-to-r from-orange-500 to-red-500 text-white px-3 py-1 rounded-full font-bold uppercase tracking-wider">
-            Cloudflare AI
+          <h1 className={`font-black text-white ${step === 'session' ? 'text-lg sm:text-xl' : 'text-2xl'}`}>Tutor IA de inglés</h1>
+          <span className="rounded-full bg-amber-400/10 px-2 py-1 text-[10px] font-black uppercase tracking-wider text-amber-300">
+            Beta
           </span>
         </div>
 
@@ -192,17 +215,19 @@ export default function TutorIAClient() {
 
         {step === 'session' && (
           <div className="grid lg:grid-cols-12 gap-8">
-            <div className="lg:col-span-4 flex flex-col items-center gap-6">
-              <AvatarOrb
-                state={orbState}
-                tutor={selectedTutor}
-                size={200}
-              />
+            <div className="lg:col-span-4 min-h-0 flex flex-row lg:flex-col items-center justify-between lg:justify-center gap-2 sm:gap-3 rounded-2xl border border-white/5 bg-slate-900/35 p-2 sm:p-3">
+              <div className="shrink-0 origin-center -m-4 scale-[0.72] sm:m-0 sm:scale-[0.82] lg:scale-100">
+                <AvatarOrb
+                  state={orbState}
+                  tutor={selectedTutor}
+                  size={144}
+                />
+              </div>
 
-              <div className="text-center">
-                <p className="text-white font-black text-xl">{selectedTutor.name}</p>
-                <p className="text-slate-400 text-sm">{selectedTutor.specialty}</p>
-                <p className="text-slate-500 text-xs mt-1">
+              <div className="min-w-0 flex-1 text-left lg:flex-none lg:text-center">
+                <p className="truncate text-base font-black text-white sm:text-lg">{selectedTutor.name}</p>
+                <p className="truncate text-[11px] text-slate-400 sm:text-xs">{selectedTutor.specialty}</p>
+                <p className="mt-1 line-clamp-2 text-[10px] text-slate-500 sm:text-xs">
                   {detectedTopic ? `Tema: ${({
                     general: 'conversación libre',
                     social: 'vida cotidiana',
@@ -215,96 +240,105 @@ export default function TutorIAClient() {
                   {' · '}
                   {detectedLevel ? `Nivel ${detectedLevel}` : 'nivel por determinar'}
                 </p>
+                {error && (
+                  <div className="mt-2 flex items-start gap-1.5 rounded-lg border border-red-500/30 bg-red-900/40 p-2 text-left">
+                    <AlertCircle className="mt-0.5 h-3.5 w-3.5 shrink-0 text-red-400" />
+                    <p className="line-clamp-3 text-[10px] text-red-200 sm:text-xs">{error}</p>
+                  </div>
+                )}
+                <div className="mt-2 hidden items-center justify-center gap-3 lg:flex">
+                  <button
+                    onClick={handleStop}
+                    className="inline-flex items-center gap-1.5 text-xs font-medium text-slate-500 transition-colors hover:text-white"
+                  >
+                    <RotateCcw className="h-3.5 w-3.5" />
+                    Terminar sesión
+                  </button>
+                </div>
               </div>
 
-              {error && (
-                <div className="w-full bg-red-900/40 border border-red-500/30 rounded-xl p-3 flex items-start gap-2">
-                  <AlertCircle className="w-4 h-4 text-red-400 flex-shrink-0 mt-0.5" />
-                  <p className="text-red-300 text-sm">{error}</p>
-                </div>
-              )}
-
-              <div className="flex flex-col items-center gap-3 w-full">
-                <p className="text-slate-400 text-xs font-medium uppercase tracking-widest">
-                  {canListen ? 'Pulsa para hablar' : orbState === 'listening' ? 'Suelta para enviar' : 'Espera...'}
-                </p>
+              <div className="flex shrink-0 flex-col items-center gap-1">
                 <button
-                  onMouseDown={startListening}
-                  onMouseUp={stopListening}
-                  onTouchStart={startListening}
-                  onTouchEnd={stopListening}
+                  type="button"
+                  onClick={() => {
+                    if (orbState === 'listening') stopListening();
+                    else void startListening();
+                  }}
                   disabled={!canListen && orbState !== 'listening'}
-                  className={`w-20 h-20 rounded-full flex items-center justify-center transition-all shadow-2xl ${
+                  aria-label={orbState === 'listening' ? 'Enviar audio' : 'Empezar a hablar'}
+                  aria-pressed={orbState === 'listening'}
+                  className={`flex h-14 w-14 items-center justify-center rounded-full shadow-xl transition-all sm:h-16 sm:w-16 ${
                     orbState === 'listening'
-                      ? 'bg-green-500 scale-110 ring-4 ring-green-400/40'
+                      ? 'bg-green-500 ring-4 ring-green-400/30'
                       : canListen
-                      ? 'bg-white hover:scale-105 active:scale-95'
-                      : 'bg-slate-700 opacity-50 cursor-not-allowed'
+                        ? 'bg-white hover:scale-105 active:scale-95'
+                        : 'cursor-not-allowed bg-slate-700 opacity-50'
                   }`}
                 >
-                  {orbState === 'listening' ? (
-                    <MicOff className="w-8 h-8 text-white" />
-                  ) : (
-                    <Mic className={`w-8 h-8 ${canListen ? 'text-slate-900' : 'text-slate-400'}`} />
-                  )}
+                  {orbState === 'listening'
+                    ? <MicOff className="h-7 w-7 text-white" />
+                    : <Mic className={`h-7 w-7 ${canListen ? 'text-slate-900' : 'text-slate-400'}`} />}
                 </button>
-
-                <div className="flex items-center gap-2 mt-1">
-                  <input
-                    ref={imageInputRef}
-                    type="file"
-                    accept="image/*"
-                    className="hidden"
-                    onChange={(e) => {
-                      const file = e.target.files?.[0];
-                      if (!file) return;
-                      const reader = new FileReader();
-                      reader.onloadend = () => {
-                        const base64 = (reader.result as string).split(',')[1];
-                        attachImage(base64);
-                      };
-                      reader.readAsDataURL(file);
-                      e.target.value = '';
-                    }}
-                  />
-                  {pendingImage ? (
-                    <div className="flex items-center gap-1.5 bg-emerald-900/40 border border-emerald-500/30 rounded-xl px-3 py-1.5">
-                      <span className="text-emerald-400 text-xs font-semibold">📷 Imagen lista</span>
-                      <button onClick={clearImage} className="text-slate-400 hover:text-white transition-colors ml-1">
-                        <X className="w-3.5 h-3.5" />
-                      </button>
-                    </div>
-                  ) : (
-                    <button
-                      onClick={() => imageInputRef.current?.click()}
-                      disabled={!canListen}
-                      title="Compartir imagen con el tutor"
-                      className="flex items-center gap-1.5 text-slate-500 hover:text-slate-300 disabled:opacity-30 disabled:cursor-not-allowed transition-colors text-xs"
-                    >
-                      <Camera className="w-4 h-4" />
-                      Compartir imagen
-                    </button>
-                  )}
-                </div>
+                <span className="max-w-16 text-center text-[9px] font-bold leading-tight text-slate-400 sm:max-w-20 sm:text-[10px]">
+                  {canListen ? 'Pulsa para hablar' : orbState === 'listening' ? 'Pulsa para enviar' : 'Espera…'}
+                </span>
+                <input
+                  ref={imageInputRef}
+                  type="file"
+                  accept="image/*"
+                  className="hidden"
+                  onChange={(e) => {
+                    const file = e.target.files?.[0];
+                    if (!file) return;
+                    const reader = new FileReader();
+                    reader.onloadend = () => {
+                      const base64 = (reader.result as string).split(',')[1];
+                      attachImage(base64);
+                    };
+                    reader.readAsDataURL(file);
+                    e.target.value = '';
+                  }}
+                />
+                {pendingImage ? (
+                  <button
+                    type="button"
+                    onClick={clearImage}
+                    className="text-[10px] font-semibold text-emerald-300 hover:text-white"
+                    aria-label="Quitar imagen"
+                  >
+                    📷 Quitar
+                  </button>
+                ) : (
+                  <button
+                    type="button"
+                    onClick={() => imageInputRef.current?.click()}
+                    disabled={!canListen}
+                    title="Compartir imagen con el tutor"
+                    className="mt-1 flex items-center gap-1 text-[10px] text-slate-500 transition-colors hover:text-slate-300 disabled:cursor-not-allowed disabled:opacity-30"
+                  >
+                    <Camera className="h-3.5 w-3.5" />
+                    Imagen
+                  </button>
+                )}
+                <button
+                  type="button"
+                  onClick={handleStop}
+                  className="mt-1 inline-flex items-center gap-1 text-[10px] font-medium text-slate-500 transition-colors hover:text-white lg:hidden"
+                  aria-label="Terminar sesión"
+                >
+                  <RotateCcw className="h-3.5 w-3.5" />
+                  Salir
+                </button>
               </div>
-
-              <button
-                onClick={handleStop}
-                className="flex items-center gap-2 text-slate-500 hover:text-white transition-colors text-sm font-medium mt-2"
-              >
-                <RotateCcw className="w-4 h-4" />
-                Terminar sesión
-              </button>
             </div>
-
-            <div className="lg:col-span-8 flex flex-col gap-4">
-              <div className="flex-1 bg-slate-800/50 border border-white/5 rounded-3xl overflow-hidden flex flex-col min-h-[500px]">
-                <div className="px-6 py-4 border-b border-white/5">
-                  <p className="text-white font-black">Conversación</p>
-                  <p className="text-slate-500 text-xs">{messages.length} mensajes</p>
+            <div className="lg:col-span-8 min-h-0 flex flex-col gap-3">
+              <div className="flex min-h-0 flex-1 flex-col overflow-hidden rounded-3xl border border-white/5 bg-slate-800/50">
+                <div className="shrink-0 border-b border-white/5 px-4 py-2 sm:px-5 sm:py-3">
+                  <p className="text-sm font-black text-white sm:text-base">Conversación</p>
+                  <p className="text-[10px] text-slate-500">{messages.length} mensajes</p>
                 </div>
 
-                <div className="flex-1 overflow-y-auto p-6 space-y-4">
+                <div ref={messagesContainerRef} className="min-h-0 flex-1 space-y-3 overflow-y-auto overscroll-contain p-3 sm:space-y-4 sm:p-4">
                   {messages.length === 0 && (
                     <div className="h-full flex items-center justify-center">
                       <p className="text-slate-600 text-sm">Tu tutor está preparándose...</p>
@@ -316,7 +350,7 @@ export default function TutorIAClient() {
                       className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
                     >
                       <div
-                        className={`max-w-[80%] px-5 py-3 rounded-2xl text-sm leading-relaxed ${
+                        className={`max-w-[92%] px-4 py-2 sm:max-w-[80%] sm:px-5 sm:py-3 rounded-2xl text-sm leading-relaxed ${
                           msg.role === 'user'
                             ? 'bg-white text-slate-900 rounded-tr-sm font-medium'
                             : `bg-gradient-to-br ${selectedTutor.accent} text-white rounded-tl-sm`
