@@ -1,7 +1,7 @@
 ---
-title: 'Vocabulario de Redes Sociales en Inglés'
+title: 'Vocabulario de redes sociales en inglés: guía práctica'
 description: >-
-  Aprende todo el vocabulario inglés de redes sociales y plataformas digitales. Desde los términos básicos de Instagram y TikTok hasta el lenguaje de...
+  Aprende vocabulario en inglés para redes sociales: publicaciones, comentarios, hashtags, creadores, métricas, marketing digital y seguridad online con ejemplos.
 readTime: 5 min
 excerpt: >-
   Las redes sociales tienen su propio idioma en inglés. Aprende el vocabulario
@@ -20,21 +20,21 @@ keywords:
   - Vocabulario de Redes Sociales en Inglés guía práctica
 author: linguafly-team
 date: '2026-03-04'
-updatedDate: '2026-09-04'
+updatedDate: '2026-10-16'
 category: metodos
 faqs:
   - question: '¿Comentarios y Reacciones en Inglés?'
-    answer: 'En comentarios de YouTube, TikTok, Instagram y Twitter verás constantemente estas expresiones:'
+    answer: 'Para comentar en redes sociales en inglés, aprende expresiones habituales como “I agree” (estoy de acuerdo), “well said” (bien dicho), “thanks for sharing” (gracias por compartir) y “I can relate” (me identifico). El tono y el contexto importan: una misma frase puede sonar cercana, neutral o irónica.'
   - question: '¿Vocabulario de Marketing Digital en Inglés?'
-    answer: 'Si trabajas en marketing o comunicación digital, estos términos son imprescindibles:'
+    answer: 'En marketing digital en inglés aparecen términos como engagement (interacción), reach (alcance), impressions (impresiones), conversion rate (tasa de conversión), click-through rate o CTR (porcentaje de clics) y target audience (público objetivo). Aprende cada término con una frase de ejemplo y distingue las métricas antes de compararlas.'
   - question: 'Cómo Usar Correctamente los Hashtags en Inglés?'
-    answer: 'Los hashtags tienen sus propias convenciones en inglés:'
+    answer: 'En inglés, los hashtags suelen escribirse sin espacios y pueden unir varias palabras, como #LearnEnglish o #TravelTips. Usa etiquetas relevantes para el tema, evita acumular etiquetas genéricas y comprueba cómo se emplea una expresión en la comunidad antes de publicarla.'
 
 canonical: 'https://linguafly.app/blog/metodos/vocabulario-ingles-redes-sociales'
 alt: Pantalla de redes sociales con vocabulario en inglés señalado
 ---
 
-Las redes sociales se comunican en inglés. Aunque las uses en español, los términos técnicos, las acciones y la cultura digital tienen su origen — y su expresión más natural — en inglés. Dominar el **vocabulario inglés de redes sociales** te abre las puertas a la comunidad global de creadores, marketers y usuarios digitales.
+El vocabulario de redes sociales en inglés incluye palabras para publicar contenido (*post*), desplazarse por una página (*scroll*), compartir (*share*), etiquetar (*tag*), comentar (*comment*) y medir la interacción (*engagement*). Aprender estos términos con ejemplos te ayuda a entender interfaces, participar en conversaciones y comunicarte sobre contenido digital.
 
 ---
 
@@ -167,6 +167,10 @@ Los hashtags tienen sus propias convenciones en inglés:
 4. El algoritmo está priorizando el contenido de vídeo corto este año.
 
 El **inglés moderno de internet** es el inglés del siglo XXI. Tanto si eres creador, como si trabajas en marketing o simplemente navegas a diario, este vocabulario te dará un dominio real del idioma digital.
+
+## Sigue aprendiendo
+
+- [Cómo pasar vocabulario pasivo a vocabulario activo](/blog/idiomas/vocabulario-activo-y-pasivo)
 
 ## Fuentes
 

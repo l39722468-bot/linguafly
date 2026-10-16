@@ -1,11 +1,11 @@
 ---
 category: curso-b2
 date: '2026-09-02'
-updatedDate: '2026-09-02'
+updatedDate: '2026-10-16'
 author: linguafly-team
-title: "Ejercicios Unidad 52 B2: Passive Voice, Passive Reporting y Reported Speech"
+title: "Unidad 52 B2: Passive Voice y Reported Speech — Ejercicios"
 description: >-
-  Cuaderno de la Unidad 52 B2 sobre passive voice, passive reporting y reported speech con vocabulario de justicia y derechos humanos. Incluye reading, listening, writing, speaking y soluciones completas.
+  Ejercicios B2 de passive voice, passive reporting y reported speech con vocabulario de justicia y derechos humanos, actividades de reading, listening, writing y speaking, y soluciones explicadas.
 readTime: 30 min
 keywords:
   - ejercicios passive voice B2
@@ -25,18 +25,18 @@ related_routes:
 faqs:
   - question: ¿Qué practica el cuaderno de la Unidad 52 B2?
     answer: >-
-      Practica passive voice, passive reporting y reported speech con vocabulario de justicia y derechos humanos mediante actividades cerradas y tareas de producción.
+      Practica passive voice, passive reporting y reported speech con vocabulario de justicia y derechos humanos. El cuaderno combina ejercicios de gramática, lectura, escucha y producción escrita y oral para aplicar las estructuras en contexto.
   - question: ¿El cuaderno incluye soluciones?
     answer: >-
-      Sí. Cada bloque incluye una respuesta o modelo y una explicación breve.
+      Sí. El cuaderno incluye soluciones o modelos para comprobar las respuestas y explicaciones breves que ayudan a identificar el auxiliar, el participio y la estructura de reporte adecuados.
   - question: ¿Cómo debo trabajar el listening?
     answer: >-
-      Escucha dos veces, responde sin mirar el guion y comprueba la solución al final.
+      Escucha el audio dos veces sin mirar el guion, anota la información principal y responde antes de consultar la solución. Después revisa qué palabras o estructuras no identificaste y vuelve a escuchar con un objetivo concreto.
 excerpt: >-
   Ejercicios de la Unidad 52 B2 sobre passive voice, passive reporting y reported speech con reading, listening, writing, speaking y soluciones.
 ---
 
-Este cuaderno reúne los **ejercicios de la Unidad 52 del curso B2** (*Passive Voice, Passive Reporting & Reported Speech*). Responde primero sin mirar la clave y comprueba después qué auxiliar, participio o estructura de reporte controla cada respuesta.
+Este cuaderno reúne ejercicios de la **Unidad 52 del curso B2** sobre *Passive Voice, Passive Reporting* y *Reported Speech*. Incluye actividades de gramática y vocabulario, reading, listening, writing y speaking, con soluciones o modelos para revisar las respuestas. Intenta resolver cada bloque antes de consultar la clave y fíjate en el auxiliar, el participio y la estructura de reporte que justifican cada solución.
 
 > **Guía teórica:** [Passive Voice y Reported Speech B2](/blog/curso-b2/unidad-52-passive-reported-speech-human-rights)<br>
 > **Practica en el curso:** [Unidad 52 — Passive Voice y Reported Speech](/curso-b2/unit-52)
