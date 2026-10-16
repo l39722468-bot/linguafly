@@ -54,6 +54,7 @@
     "audit-seo": "node scripts/audit-blog-seo.mjs",
     "audit-seo:full": "node scripts/audit-blog-seo-full.mjs",
     "audit:geo-aeo": "node scripts/audit-blog-geo-aeo.mjs",
+    "audit:commercial-editorial": "node scripts/audit-commercial-editorial.mjs --json",
     "indexnow": "node scripts/indexnow-submit.mjs",
     "indexnow:all": "node scripts/indexnow-submit.mjs --all",
     "indexnow:dry": "node scripts/indexnow-submit.mjs --dry-run",
