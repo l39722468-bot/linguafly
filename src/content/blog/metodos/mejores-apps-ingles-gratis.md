@@ -28,7 +28,7 @@ faqs:
       Las apps gratuitas son excelentes para complementar el aprendizaje, pero no suelen ser suficientes por sí solas para llegar a un nivel avanzado. Son ideales para práctica diaria, vocabulario y gramática básica, pero necesitas combinarlas con práctica de conversación real, lectura de textos auténticos y exposición a contenido nativo.
   - question: ¿Cuánto tiempo al día debo practicar con una app de inglés?
     answer: >-
-      Con 15-20 minutos diarios de práctica constante obtendrás resultados visibles en pocas semanas. La regularidad es más importante que las sesiones largas ocasionales. Muchas apps tienen sistemas de rachas que te ayudan a mantener el hábito.
+      Una sesión breve y frecuente puede ayudarte a mantener el hábito, pero el progreso depende del nivel inicial, la dificultad, la calidad de la práctica y el tiempo acumulado. Prueba una rutina sostenible y revisa periódicamente qué puedes comprender o hacer mejor.
   - question: ¿Duolingo es bueno para aprender inglés desde cero?
     answer: >-
       Duolingo es una buena opción para comenzar desde cero por su interfaz gamificada y su curva de aprendizaje suave. Sin embargo, su enfoque en frases cortas y traducción directa puede crear malos hábitos. Úsalo para vocabulario y como motivación, pero complementa con otras fuentes desde el principio.
@@ -54,7 +54,7 @@ Consultas como **mejores apps gratuitas para aprender inglés**, **apps inglés 
 **Nivel**: A2 a C2  
 **Ideal para**: Quienes quieren inglés auténtico y variedad de contenido
 
-BBC Learning English es, sin competencia, la app con mayor calidad pedagógica gratuita disponible. Ofrece:
+BBC Learning English es una opción gratuita útil para practicar con explicaciones, audio y vocabulario en contexto. La mejor opción para cada persona depende de su nivel, sus objetivos y el tipo de práctica que necesita. Entre sus recursos se encuentran:
 
 - **6 Minute English**: podcasts cortos con transcripción y vocabulario
 - **Grammar in a minute**: explicaciones rápidas de gramática
@@ -73,7 +73,7 @@ Es gratuita al 100%, sin anuncios agresivos y actualizada constantemente. Su ún
 **Nivel**: Todos los niveles  
 **Ideal para**: Memorizar vocabulario de forma duradera
 
-Anki utiliza el sistema de **repetición espaciada (SRS)**, el método más respaldado científicamente para memorizar vocabulario a largo plazo. En lugar de repasar palabras de forma aleatoria, Anki te muestra cada tarjeta justo antes de que la olvides.
+Anki utiliza la **repetición espaciada (SRS)** para distribuir los repasos a lo largo del tiempo. El algoritmo programa las tarjetas según tu historial de respuestas; no puede predecir con exactitud el momento en que olvidarás una palabra.
 
 **Cómo usarla bien**:
 1. Descarga un mazo de vocabulario inglés para tu nivel (los hay por exámenes: IELTS, Cambridge, etc.)
@@ -92,7 +92,7 @@ Anki es gratuita en Android y en ordenador. La versión iOS tiene coste, pero la
 **Nivel**: A1 a B1  
 **Ideal para**: Principiantes y para mantener el hábito
 
-Duolingo es la app de idiomas más descargada del mundo por algo: es adictiva. Su sistema de gamificación —rachas, ligas, recompensas— hace que muchos usuarios la usen a diario durante meses.
+Duolingo utiliza elementos de gamificación —como rachas, ligas o recompensas, según la versión— que pueden ayudar a algunas personas a mantener el hábito.
 
 **Lo bueno**:
 - Curva de aprendizaje muy suave
@@ -102,9 +102,9 @@ Duolingo es la app de idiomas más descargada del mundo por algo: es adictiva. S
 **Lo que debes saber**:
 - Las traducciones literales pueden crear confusión
 - El vocabulario en contexto real es limitado
-- A partir de B1 su eficacia disminuye considerablemente
+- Para progresar en niveles intermedios, suele ser útil complementarla con materiales auténticos y práctica de conversación
 
-Úsala para **construir el hábito** y para los primeros seis meses. Después, transiciona a contenido más auténtico.
+Úsala si te ayuda a practicar con regularidad y complementa sus ejercicios con lectura, audio y conversación adecuados a tu nivel.
 
 → [Duolingo para inglés: review honesto 2026 — ventajas, límites y cómo usarlo bien](/blog/metodos/duolingo-ingles-review)
 
@@ -207,7 +207,7 @@ No existe una única app perfecta. La clave es **combinar herramientas**:
 - **Duolingo** solo si eres principiante y necesitas el hábito
 - **ELSA** si tu problema específico es la pronunciación
 
-Lo más importante es la **constancia**: 20 minutos al día durante un año supera con creces a sesiones de 2 horas una vez por semana.
+Lo más importante es una rutina sostenible y variada. La frecuencia puede ayudar, pero el progreso también depende de la calidad de la práctica, el nivel inicial y las oportunidades de usar el idioma.
 
 ---
 
