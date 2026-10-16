@@ -24,12 +24,14 @@ import {
 import {
   C1_ADVANCED_BOOK,
   LISTENING_CAE_BOOK,
+  WORD_FORMATION_CAE_BOOK,
   COLLOCATIONS_ADVANCED_BOOK,
   COLLOCATIONS_BOOK,
   ESSENTIAL_GRAMMAR_BOOK,
   IELTS_BOOK,
   shouldOfferC1AdvancedBook,
   shouldOfferListeningCaeBook,
+  shouldOfferWordFormationCaeBook,
   shouldOfferAdvancedCollocationsBook,
   shouldOfferCollocationsBook,
   shouldOfferEssentialGrammar,
@@ -64,6 +66,7 @@ export function affiliateBookForSlug(slug?: string | null): AffiliateBook | null
   if (shouldOfferCollocationsBook(slug)) return COLLOCATIONS_BOOK;
   if (shouldOfferIeltsBook(slug)) return IELTS_BOOK;
   if (shouldOfferListeningCaeBook(slug)) return LISTENING_CAE_BOOK;
+  if (shouldOfferWordFormationCaeBook(slug)) return WORD_FORMATION_CAE_BOOK;
   if (shouldOfferC1AdvancedBook(slug)) return C1_ADVANCED_BOOK;
   if (shouldOfferEssentialGrammar(slug)) return ESSENTIAL_GRAMMAR_BOOK;
   return null;
