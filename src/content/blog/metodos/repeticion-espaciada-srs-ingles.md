@@ -4,9 +4,9 @@ date: '2026-03-11'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  La repetición espaciada (SRS) es el método más eficaz para memorizar vocabulario en inglés. Aprende qué es la curva del olvido, cómo funciona el algoritmo...
+  Aprende cómo funciona la repetición espaciada (SRS) para repasar vocabulario inglés con intervalos adaptados a tu recuerdo, crear tarjetas útiles y combinar repasos con lectura, escucha y conversación.
 excerpt: >-
-  Descubre qué es la repetición espaciada (SRS) y por qué es el método más eficaz para memorizar vocabulario en inglés. Curva del olvido de Ebbinghaus, algoritmo SM-2, apps que lo usan y guía práctica para empezar hoy.
+  Guía práctica de repetición espaciada (SRS) para vocabulario inglés: cómo funcionan los repasos, cómo crear buenas tarjetas y cómo integrar Anki u otras herramientas en tu rutina.
 category: metodos
 readTime: 11 min
 alt: Persona estudiando inglés con tarjetas de vocabulario y notas en una mesa
@@ -24,13 +24,13 @@ keywords:
 faqs:
   - question: '¿Qué es exactamente la repetición espaciada?'
     answer: >-
-      La repetición espaciada es una técnica de estudio que consiste en revisar el material justo antes de que lo olvides, con intervalos de tiempo que se van alargando a medida que lo recuerdas mejor. En lugar de repasar todo todos los días, un algoritmo calcula el momento óptimo para que revises cada dato. Resultado: retienes más información en menos tiempo.
+      La repetición espaciada es una técnica de estudio que distribuye los repasos a lo largo del tiempo. En un sistema SRS, el calendario se ajusta según tus respuestas para que vuelvas a practicar cada elemento periódicamente. Puede ayudar a recordar vocabulario, pero los resultados dependen de la calidad de las tarjetas, la práctica y la constancia.
   - question: '¿Qué diferencia hay entre SRS y estudiar con flashcards normales?'
     answer: >-
       Las flashcards normales se repasan en orden fijo o aleatorio, sin tener en cuenta cuándo las recuerdas mejor. El SRS añade la inteligencia de un algoritmo que sabe cuándo vas a olvidar cada tarjeta y te la muestra justo antes de ese momento. Es la diferencia entre regar todas las plantas igual de agua y regar cada una según sus necesidades reales.
   - question: '¿Cuánto tiempo al día necesito dedicar al SRS para ver resultados?'
     answer: >-
-      Con 10-20 minutos diarios de manera constante verás resultados muy claros en semanas. La clave no es el tiempo sino la regularidad: el SRS está diseñado para sesiones cortas y frecuentes. Saltarte días acumula cartas pendientes y rompe los intervalos calculados por el algoritmo, reduciendo su efectividad.
+      Empieza con 5-15 minutos al día y ajusta el tiempo al número de tarjetas pendientes. La regularidad facilita mantener la rutina, pero el progreso varía según el nivel, el vocabulario y la práctica adicional. Si acumulas repasos, reduce temporalmente las tarjetas nuevas en vez de intentar abarcar demasiado.
   - question: '¿Puedo aprender inglés solo con SRS?'
     answer: >-
       El SRS es extraordinariamente eficaz para vocabulario y expresiones fijas, pero no sustituye la exposición real al idioma (escuchar, leer, hablar, escribir). Úsalo como columna vertebral de tu estudio de vocabulario y combínalo con otras actividades comunicativas para desarrollar todas las habilidades del idioma.
@@ -46,7 +46,7 @@ Imagina que estudias 50 palabras en inglés hoy. Mañana recuerdas 40. La semana
 
 Consultas como **repetición espaciada inglés**, **repetición espaciada para aprender inglés gratis** o **cómo usar SRS para memorizar vocabulario inglés** se responden aquí en prosa: el término aparece donde toca, no en una lista al pie.
 
-La **repetición espaciada** (en inglés *spaced repetition*, abreviada SRS de *Spaced Repetition System*) es la técnica de aprendizaje con más respaldo científico para la memorización a largo plazo. No es un truco ni una moda: lleva más de un siglo siendo investigada y los datos son contundentes.
+La **repetición espaciada** (en inglés *spaced repetition*; SRS, *spaced repetition system*) es una técnica que distribuye las revisiones en el tiempo. La investigación sobre práctica espaciada y recuperación de memoria respalda su utilidad, especialmente para recordar información, aunque no garantiza por sí sola el dominio del idioma.
 
 En este artículo aprenderás qué es exactamente el SRS, por qué funciona mejor que cualquier otra técnica de memorización, cómo funciona el algoritmo que usan apps como Anki, qué aplicaciones lo incorporan y cómo puedes empezar a usarlo hoy mismo para disparar tu vocabulario en inglés.
 
@@ -97,14 +97,7 @@ Si la recuerdas perfectamente, el intervalo se alarga (quizás la verás en 4 d�
 
 ### La ventaja del SRS frente al estudio tradicional
 
-| Método | Tiempo invertido | Retención a 1 mes | Retención a 6 meses |
-|---|---|---|---|
-| Lectura repetida | Alto | 20-30 % | 10-15 % |
-| Flashcards manuales sin espaciado | Medio-alto | 40-50 % | 25-35 % |
-| Subrayado y resumen | Alto | 15-25 % | 10 % |
-| **SRS bien implementado** | **Bajo** | **80-90 %** | **70-85 %** |
-
-Los datos son consistentes en la investigación: el SRS produce retención superior con **menos tiempo total de estudio** porque elimina el repaso de lo que ya sabes bien y se concentra exactamente en lo que estás a punto de olvidar.
+La ventaja del SRS no se puede resumir en un porcentaje universal de retención: los resultados dependen del material, de cómo se diseñan las tarjetas, del intervalo entre repasos y de la práctica posterior. Su utilidad práctica es organizar la recuperación activa y evitar depender únicamente de releer listas.
 
 ---
 
