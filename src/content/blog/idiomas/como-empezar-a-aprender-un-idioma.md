@@ -28,15 +28,29 @@ excerpt: >-
   El objetivo de las primeras semanas no es fluidez: es no dejarlo.
 faqs:
   - question: ¿Cuánto tiempo al día hace falta para empezar un idioma?
-    answer: Con 15-25 minutos diarios, casi todos los días, avanzas más que con una sesión larga el domingo. La clave es repetir, no agotarte.
+    answer: >-
+      Empieza con 15-25 minutos al día y repite la rutina casi todos los días.
+      Divide el tiempo entre escuchar o leer algo comprensible, aprender unas
+      pocas frases útiles y producir tus propias frases. La regularidad importa
+      más que hacer una sesión muy larga de vez en cuando.
   - question: ¿Tengo que empezar por la gramática?
-    answer: No. Primero necesitas frases y palabras de situaciones reales. La gramática entra mejor cuando ya reconoces patrones en lo que oyes y lees.
+    answer: >-
+      No hace falta comenzar memorizando reglas. Aprende frases de situaciones
+      reales y fíjate en los patrones que se repiten; después estudia la regla
+      gramatical que te ayude a entenderlos. Consulta la gramática cuando
+      responda a una duda concreta, no como único punto de partida.
   - question: ¿Puedo estudiar varios idiomas a la vez?
-    answer: Al principio, no. Un idioma con un hábito estable rinde más que dos idiomas a medias. Cuando el primero ya tiene rutina, puedes añadir otro.
+    answer: >-
+      Puedes, pero si estás empezando suele ser más fácil consolidar primero
+      una rutina con un idioma. Añade otro cuando puedas mantener el hábito sin
+      confundir tus objetivos ni dejar de practicar el primero. Si ya tienes
+      experiencia estudiando idiomas, adapta la carga a tu tiempo disponible.
 alt: 'Persona empezando un idioma con un cuaderno, un temporizador y auriculares'
 ---
 
 > **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
+
+**Para empezar a aprender un idioma desde cero, estudia unos 20 minutos al día durante dos semanas:** escucha material comprensible, aprende frases de situaciones reales y termina produciendo algo propio, aunque sean cuatro frases. El objetivo inicial no es hablar con fluidez, sino crear una rutina sostenible.
 
 Empezar un idioma suele fallar por la misma razón: el plan es demasiado grande. Quieres “hablar fluído”, compras tres apps, un curso y un cuaderno, y a los diez días el cansancio gana. Un comienzo útil es más pequeño y más concreto.
 
