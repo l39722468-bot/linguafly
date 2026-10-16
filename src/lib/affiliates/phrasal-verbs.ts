@@ -1,7 +1,7 @@
 import type { AffiliateBook } from "@/lib/affiliates/book";
 
 /** English Phrasal Verbs in Use Intermediate, 2.ª edición, con respuestas (B1–B2). */
-export const PHRASAL_VERBS_AMAZON_URL = "https://link.amazon/B0fg732an";
+export const PHRASAL_VERBS_AMAZON_URL = "https://link.amazon/B05alffpy";
 
 export const PHRASAL_VERBS_BOOK: AffiliateBook = {
   id: "phrasal-verbs-in-use-intermediate",
