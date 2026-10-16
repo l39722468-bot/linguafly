@@ -414,9 +414,34 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                          {courseEyebrow}
                        </p>
                      ) : null}
-                     <h1 className="font-display text-4xl lg:text-5xl font-black text-slate-900 mb-8 leading-[1.1]">
+                     <h1 className="font-display text-4xl lg:text-5xl font-black text-slate-900 mb-4 leading-[1.1]">
                        {article.title}
                      </h1>
+
+                     {voiceSummary || article.excerpt?.trim() ? (
+                       <section
+                         aria-label={voiceSummary ? "Respuesta rápida" : "Resumen del artículo"}
+                         className="mb-8 rounded-2xl border border-coral-100 bg-coral-50/50 p-5 lg:p-6"
+                       >
+                         <p className="mb-2 text-xs font-extrabold uppercase tracking-wider text-coral-700">
+                           {voiceSummary ? "Respuesta rápida" : "En pocas palabras"}
+                         </p>
+                         {voiceSummary ? (
+                           <>
+                             <h2 className="m-0 text-lg font-bold leading-snug text-slate-900">
+                               {voiceSummary.question}
+                             </h2>
+                             <p className="mb-0 mt-2 text-base leading-relaxed text-slate-800">
+                               {voiceSummary.answer}
+                             </p>
+                           </>
+                         ) : (
+                           <p className="m-0 text-base leading-relaxed text-slate-800">
+                             {article.excerpt.trim()}
+                           </p>
+                         )}
+                       </section>
+                     ) : null}
 
                      {courseLevel ? <CourseCTA level={courseLevel} articleSlug={slug} /> : null}
 
