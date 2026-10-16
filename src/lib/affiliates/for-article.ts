@@ -2,6 +2,14 @@ import { shouldOfferAptisBook } from "@/lib/affiliates/aptis-book";
 import { APTIS_BOOK_AMAZON_URL } from "@/lib/affiliates/aptis-book";
 import type { AffiliateBook } from "@/lib/affiliates/book";
 import {
+  B1_PRELIMINARY_BOOK,
+  B2_FIRST_TRAINER_BOOK,
+  PRONUNCIATION_BOOK,
+  shouldOfferB1PreliminaryBook,
+  shouldOfferB2FirstTrainerBook,
+  shouldOfferPronunciationBook,
+} from "@/lib/affiliates/exam-books";
+import {
   MURPHY_GRAMMAR_BOOK,
   shouldOfferMurphyGrammar,
 } from "@/lib/affiliates/murphy-grammar";
@@ -15,10 +23,12 @@ import {
 } from "@/lib/affiliates/paso-a-paso";
 import {
   C1_ADVANCED_BOOK,
+  COLLOCATIONS_ADVANCED_BOOK,
   COLLOCATIONS_BOOK,
   ESSENTIAL_GRAMMAR_BOOK,
   IELTS_BOOK,
   shouldOfferC1AdvancedBook,
+  shouldOfferAdvancedCollocationsBook,
   shouldOfferCollocationsBook,
   shouldOfferEssentialGrammar,
   shouldOfferIeltsBook,
@@ -44,6 +54,10 @@ export function affiliateBookForSlug(slug?: string | null): AffiliateBook | null
   if (shouldOfferAptisBook({ slug })) return APTIS_BOOK;
   if (shouldOfferPhrasalVerbsBook(slug)) return PHRASAL_VERBS_BOOK;
   if (shouldOfferPasoAPaso(slug)) return PASO_A_PASO_BOOK;
+  if (shouldOfferB1PreliminaryBook(slug)) return B1_PRELIMINARY_BOOK;
+  if (shouldOfferB2FirstTrainerBook(slug)) return B2_FIRST_TRAINER_BOOK;
+  if (shouldOfferPronunciationBook(slug)) return PRONUNCIATION_BOOK;
+  if (shouldOfferAdvancedCollocationsBook(slug)) return COLLOCATIONS_ADVANCED_BOOK;
   if (shouldOfferMurphyGrammar(slug)) return MURPHY_GRAMMAR_BOOK;
   if (shouldOfferCollocationsBook(slug)) return COLLOCATIONS_BOOK;
   if (shouldOfferIeltsBook(slug)) return IELTS_BOOK;
