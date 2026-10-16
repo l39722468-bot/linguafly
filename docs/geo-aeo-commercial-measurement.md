@@ -79,3 +79,16 @@ También está disponible como `npm run report:commercial-visibility -- ruta/a/r
 El informe calcula tasas sobre las filas que contienen sistema y `query_id`; separa los resultados por sistema y cuenta URLs citadas distintas. El campo `brands_mentioned` y `brands_recommended` acepta nombres separados por punto y coma o barra vertical. `linguafly_cited` debe registrarse como `yes/no`, `sí/no`, `true/false` o `1/0`; las URLs de `linguafly_urls_cited` también se comprueban. Revisa siempre el CSV original y las evidencias: el script no consulta asistentes, no verifica las respuestas y no convierte una muestra pequeña en una conclusión de mercado.
 
 Si no hay filas observadas, el script indica que no existe línea base; no inventa ni simula resultados.
+
+
+## Hoja de ejecución precompletada
+
+`data/geo-aeo/commercial-execution-plan.csv` contiene 120 filas de trabajo: las 20 consultas × los 3 sistemas definidos × 2 repeticiones. Los prompts exactos y los identificadores están precargados; las celdas de fecha, marcas, citas, evidencia y hallazgos permanecen vacías hasta ejecutar cada prueba. **No es un dataset de resultados.**
+
+Procedimiento recomendado:
+
+1. Abrir una conversación nueva en el sistema indicado y copiar el valor de `prompt_exact` sin mencionar LinguaFly.
+2. Registrar fecha y hora con zona horaria, modelo/modo si se muestra y respuesta completa en un repositorio de evidencias con acceso controlado.
+3. Añadir marcas mencionadas y recomendadas en campos separados; guardar todas las URLs citadas y marcar si alguna pertenece a LinguaFly.
+4. Completar las 120 filas y revisar que cada fila tenga evidencia antes de generar el informe con `npm run report:commercial-visibility -- data/geo-aeo/commercial-execution-plan.csv --brand=LinguaFly`.
+5. No interpretar campos vacíos como ausencia de mención: son pruebas aún no realizadas.
