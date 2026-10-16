@@ -32,6 +32,7 @@ const MURPHY_GRAMMAR_SLUGS = new Set([
   "verbos-modales-ingles-guia",
   "verbos-modales-ingles-ejercicios",
   "present-perfect-vs-past-simple",
+  "past-simple-usos-reglas",
   "present-perfect-usos-principales",
   "present-perfect-continuous",
   "present-perfect-since-for",
