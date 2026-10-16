@@ -52,9 +52,11 @@ alt: Rutina corta de inglés en el móvil durante un trayecto en transporte
 
 > **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
 
-## Cómo Estudiar Inglés si no tienes Tiempo: Guía para Agendas Ocupadas
+## Cómo estudiar inglés si no tienes tiempo: guía para agendas ocupadas
 
-*"Me encantaría aprender inglés, pero no tengo tiempo"*. Esta es la excusa número uno que escuchamos en el mundo del aprendizaje de idiomas. Y es comprensible: entre el trabajo, la familia, el gimnasio y la necesidad de descanso, encontrar una hora libre para ir a una academia tradicional parece una misión imposible.
+**Si tienes poco tiempo para estudiar inglés, empieza con sesiones activas de 10-20 minutos y asigna una tarea concreta a cada una:** escuchar un diálogo, repasar vocabulario útil o decir unas frases en voz alta. Aprovecha esperas solo cuando te resulte cómodo; no hace falta convertir todo descanso en estudio.
+
+*«Me encantaría aprender inglés, pero no tengo tiempo»*. Es comprensible: entre el trabajo, la familia y la necesidad de descansar, encontrar una hora libre para ir a una academia tradicional puede parecer imposible.
 
 Se puede **aprender ingles** sin un hueco largo en la agenda, y un **curso ingles** con horario fijo no es la única vía si estudias en bloques cortos.
 
@@ -66,10 +68,10 @@ Sin embargo, el secreto para aprender un idioma en 2026 no es tener bloques inme
 
 ### 1. La Regla de los 15 Minutos y los Hábitos Atómicos
 
-La neurociencia demuestra que el cerebro humano tiene un límite de atención máxima. Intentar estudiar dos horas seguidas el domingo es ineficiente debido a la "Curva del Olvido"; para el martes, habrás olvidado el 70% de lo aprendido.
+Las sesiones cortas pueden resultar más fáciles de encajar en una agenda ocupada y permiten repartir la práctica durante la semana. Una sesión larga no es necesariamente inútil; lo importante es que el tiempo de estudio incluya recuperación activa y repaso, y que el plan sea sostenible.
 
 *   **Estrategia**: Dedica 15 minutos al día, sin falta. Al ser un periodo corto, es mucho más difícil que tu cerebro ponga excusas para saltárselo.
-*   **Resultado Acumulativo**: 15 minutos diarios se traducen en más de 90 horas al año. Según el MCER, esto es suficiente para subir casi un nivel completo de competencia lingüística. Es el poder del interés compuesto aplicado al conocimiento.
+*   **Resultado acumulativo**: 15 minutos diarios suman muchas sesiones de práctica a lo largo del año. No garantizan subir un nivel concreto: el progreso depende de tu nivel inicial, la calidad de la práctica, la regularidad y las habilidades que entrenes.
 
 ### 2. Convierte tus Tiempos Muertos en Tiempos Activos
 
