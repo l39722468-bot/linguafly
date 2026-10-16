@@ -70,7 +70,12 @@ if (rows.length && required.some((key) => !(key in rows[0]))) {
   console.error("El CSV no contiene las columnas requeridas: " + required.join(", "));
   process.exit(1);
 }
-const validRows = rows.filter((row) => row.system && row.query_id);
+// Una fila solo cuenta como observación si tiene fecha/hora y evidencia localizable.
+ // Las filas precargadas del plan tienen sistema y query_id, pero no son resultados.
+const validRows = rows.filter((row) =>
+  row.system && row.query_id && row.datetime_iso && row.evidence_location
+);
+const pendingRows = rows.length - validRows.length;
 const brandNeedle = targetBrand.toLocaleLowerCase("es");
 const matchesBrand = (value) => splitValues(value).some((name) => name.toLocaleLowerCase("es").includes(brandNeedle));
 const distinctUrls = new Set(validRows.flatMap(urlsFrom));
@@ -117,7 +122,7 @@ if (jsonOutput) {
   console.log("# Informe de visibilidad comercial en IA");
   console.log("");
   console.log("- Marca analizada: " + targetBrand);
-  console.log("- Ejecuciones válidas: " + total);
+  console.log("- Filas del archivo: " + rows.length);\n  console.log("- Ejecuciones válidas con fecha y evidencia: " + total);\n  console.log("- Filas pendientes o sin evidencia: " + pendingRows);
   console.log("- Tasa de mención: " + pct(summary.brandMentionRate) + " (" + summary.brandMentionRuns + "/" + total + ")");
   console.log("- Tasa de recomendación: " + pct(summary.brandRecommendationRate) + " (" + summary.brandRecommendationRuns + "/" + total + ")");
   console.log("- Tasa de cita de LinguaFly: " + pct(summary.linguaflyCitationRate) + " (" + summary.linguaflyCitationRuns + "/" + total + ")");
@@ -130,5 +135,5 @@ if (jsonOutput) {
   }
   console.log("");
   console.log("> " + summary.note);
-  if (!total) console.log("> No hay ejecuciones registradas. Este archivo no es una medición de línea base.");
+  if (!total) console.log("> No hay observaciones completas con fecha y evidencia. Las filas pendientes no se interpretan como menciones ausentes.");
 }
