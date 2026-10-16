@@ -7,6 +7,8 @@ export const IELTS_AMAZON_URL = "https://link.amazon/B0h9J7Rhh";
 export const C1_ADVANCED_AMAZON_URL = "https://link.amazon/B087jx513";
 export const LISTENING_CAE_AMAZON_URL = "https://link.amazon/B07IyJOy0";
 export const WORD_FORMATION_CAE_AMAZON_URL = "https://link.amazon/B03zW3NCI";
+export const IT_COMMUNICATION_AMAZON_URL = "https://link.amazon/B07AQ8MwE";
+export const PROFESSIONAL_EMAILS_AMAZON_URL = "https://link.amazon/B09W8hHz6";
 
 export const ESSENTIAL_GRAMMAR_BOOK: AffiliateBook = {
   id: "essential-grammar-in-use",
@@ -111,6 +113,27 @@ export const C1_ADVANCED_BOOK: AffiliateBook = {
     "Para simular el examen",
   ],
   tone: "sky",
+};
+
+
+export const IT_COMMUNICATION_BOOK: AffiliateBook = {
+  id: "english-for-it-communication",
+  url: IT_COMMUNICATION_AMAZON_URL,
+  title: "English for IT Communication",
+  eyebrow: "Inglés técnico para IT",
+  description: "Guía de comunicación técnica en inglés para estudiantes y profesionales de informática, con ejemplos de emails, procedimientos, informes y especificaciones.",
+  highlights: ["Comunicación técnica en IT", "Ejemplos de textos profesionales", "Para estudiantes y profesionales de informática"],
+  tone: "sky",
+};
+
+export const PROFESSIONAL_EMAILS_BOOK: AffiliateBook = {
+  id: "email-commercial-correspondence",
+  url: PROFESSIONAL_EMAILS_AMAZON_URL,
+  title: "Email and Commercial Correspondence",
+  eyebrow: "Inglés profesional",
+  description: "Guía para redactar emails y cartas profesionales con claridad, tono adecuado, peticiones, respuestas y frases útiles.",
+  highlights: ["Estructura y tono de emails", "Frases útiles para correspondencia", "Comunicación profesional más clara"],
+  tone: "emerald",
 };
 
 const ESSENTIAL_GRAMMAR_SLUGS = new Set([
@@ -240,6 +263,8 @@ const COLLOCATION_SLUGS = new Set([
 ]);
 
 const ADVANCED_COLLOCATION_SLUGS = new Set(["collocations-ingles-c1"]);
+const IT_COMMUNICATION_SLUGS = new Set(["cv-ingles-tecnologia-it"]);
+const PROFESSIONAL_EMAILS_SLUGS = new Set(["plantillas-emails-profesionales-ingles"]);
 
 
 const IELTS_SLUGS = new Set([
@@ -278,7 +303,7 @@ function hasSlug(set: Set<string>, slug?: string | null): boolean {
   return set.has((slug ?? "").trim().toLowerCase());
 }
 
-export function shouldOfferEssentialGrammar(slug?: string | null): boolean {
+export function shouldOfferItCommunication(slug?: string | null): boolean {\n  return hasSlug(IT_COMMUNICATION_SLUGS, slug);\n}\n\nexport function shouldOfferProfessionalEmails(slug?: string | null): boolean {\n  return hasSlug(PROFESSIONAL_EMAILS_SLUGS, slug);\n}\n\nexport function shouldOfferEssentialGrammar(slug?: string | null): boolean {
   return hasSlug(ESSENTIAL_GRAMMAR_SLUGS, slug);
 }
 
