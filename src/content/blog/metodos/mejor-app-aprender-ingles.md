@@ -34,14 +34,10 @@ faqs:
       producción (hablar y escribir) con correcciones consistentes.
   - question: ¿Valen la pena las versiones de pago de las apps?
     answer: >-
-      Generalmente sí: las versiones gratuitas suelen interrumpir el flujo
-      con anuncios y limitan funciones de práctica con voz o seguimiento.
-      Pagar suele tener sentido si te comprometes con la constancia.
+      Depende de lo que necesites y de las limitaciones concretas del plan gratuito. Compara el precio, los anuncios, el acceso a ejercicios, la práctica oral y las opciones de cancelación. Pagar tiene sentido si una función que realmente usas justifica el coste; no es necesario para todo estudiante.
   - question: ¿Cuánto tiempo debo dedicarle al día?
     answer: >-
-      La consistencia es más importante que la intensidad. 15-20 minutos
-      diarios de práctica suelen superar un uso esporádico de “varias horas”
-      un solo día.
+      Elige una duración que puedas sostener y que te permita practicar activamente. Por ejemplo, 15-20 minutos varios días a la semana pueden ayudarte a crear una rutina, pero el progreso depende también del nivel, la calidad de las tareas y la exposición al idioma.
 ---
 
 > **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
