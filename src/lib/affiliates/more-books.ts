@@ -5,6 +5,7 @@ export const COLLOCATIONS_AMAZON_URL = "https://link.amazon/B0emi5gC7";
 export const COLLOCATIONS_ADVANCED_AMAZON_URL = "https://link.amazon/B02dLfJmc";
 export const IELTS_AMAZON_URL = "https://link.amazon/B0h9J7Rhh";
 export const C1_ADVANCED_AMAZON_URL = "https://link.amazon/B087jx513";
+export const LISTENING_CAE_AMAZON_URL = "https://link.amazon/B07IyJOy0";
 
 export const ESSENTIAL_GRAMMAR_BOOK: AffiliateBook = {
   id: "essential-grammar-in-use",
@@ -64,6 +65,21 @@ export const IELTS_BOOK: AffiliateBook = {
     "Recurso de autoestudio",
   ],
   tone: "amber",
+};
+
+export const LISTENING_CAE_BOOK: AffiliateBook = {
+  id: "c1-advanced-listening-practice",
+  url: LISTENING_CAE_AMAZON_URL,
+  title: "C1 Advanced Practice Tests",
+  eyebrow: "Listening C1 Advanced",
+  description:
+    "Material de práctica para preparar el listening del Cambridge C1 Advanced y familiarizarse con el formato del examen.",
+  highlights: [
+    "Práctica de comprensión auditiva para C1 Advanced",
+    "Preparación orientada al formato del examen",
+    "Complemento para el estudio autónomo",
+  ],
+  tone: "sky",
 };
 
 export const C1_ADVANCED_BOOK: AffiliateBook = {
@@ -225,6 +241,8 @@ const IELTS_SLUGS = new Set([
   "ielts-vs-toefl-trabajo",
 ]);
 
+const LISTENING_CAE_SLUGS = new Set(["listening-cae-consejos"]);
+
 const C1_ADVANCED_SLUGS = new Set([
   "cambridge-c1-advanced-guia",
   "key-word-transformations-cae",
@@ -256,6 +274,10 @@ export function shouldOfferAdvancedCollocationsBook(slug?: string | null): boole
 
 export function shouldOfferIeltsBook(slug?: string | null): boolean {
   return hasSlug(IELTS_SLUGS, slug);
+}
+
+export function shouldOfferListeningCaeBook(slug?: string | null): boolean {
+  return hasSlug(LISTENING_CAE_SLUGS, slug);
 }
 
 export function shouldOfferC1AdvancedBook(slug?: string | null): boolean {
