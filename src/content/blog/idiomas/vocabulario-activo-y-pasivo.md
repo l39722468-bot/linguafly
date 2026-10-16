@@ -29,7 +29,8 @@ faqs:
   - question: ¿Cómo paso una palabra de pasiva a activa?
     answer: Intenta recordar la palabra sin mirar la lista, úsala en una frase nueva relacionada con tu vida y vuelve a recuperarla en días posteriores. Alternar recuerdo activo, producción propia y repasos espaciados ayuda a convertir reconocimiento en uso.
   - question: ¿Cuántas palabras nuevas debo aprender al día?
-    answer: No hay una cifra universal: empieza con cinco a diez palabras que puedas recuperar y utilizar en frases propias. Si al día siguiente no recuerdas cómo emplearlas, reduce la cantidad y dedica más tiempo al repaso y al contexto.
+    answer: >-
+      No hay una cifra universal: empieza con cinco a diez palabras que puedas recuperar y utilizar en frases propias. Si al día siguiente no recuerdas cómo emplearlas, reduce la cantidad y dedica más tiempo al repaso y al contexto.
 alt: Tarjetas de vocabulario activo y pasivo ordenadas en dos montones
 ---
 
