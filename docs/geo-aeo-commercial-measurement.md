@@ -58,3 +58,24 @@ El inventario es una clasificación automática basada en rutas, títulos y pala
 ## Decisión tras el primer mes
 
 Priorizar actualizaciones según: consultas donde aparecen competidores pero no LinguaFly; páginas relevantes ya existentes; errores de información detectados; potencial de conversión; y capacidad de aportar datos originales. No interpretar correlación entre publicación y cita como causalidad demostrada.
+
+
+## Generar un informe a partir de resultados registrados
+
+Después de guardar las ejecuciones en un CSV que conserve las columnas de `data/geo-aeo/commercial-results-template.csv`, generar un resumen local:
+
+```bash
+node scripts/report-commercial-visibility.mjs ruta/a/resultados.csv --brand=LinguaFly
+```
+
+Para obtener JSON reutilizable en hojas de cálculo o análisis posteriores:
+
+```bash
+node scripts/report-commercial-visibility.mjs ruta/a/resultados.csv --brand=LinguaFly --json
+```
+
+También está disponible como `npm run report:commercial-visibility -- ruta/a/resultados.csv --brand=LinguaFly`.
+
+El informe calcula tasas sobre las filas que contienen sistema y `query_id`; separa los resultados por sistema y cuenta URLs citadas distintas. El campo `brands_mentioned` y `brands_recommended` acepta nombres separados por punto y coma o barra vertical. `linguafly_cited` debe registrarse como `yes/no`, `sí/no`, `true/false` o `1/0`; las URLs de `linguafly_urls_cited` también se comprueban. Revisa siempre el CSV original y las evidencias: el script no consulta asistentes, no verifica las respuestas y no convierte una muestra pequeña en una conclusión de mercado.
+
+Si no hay filas observadas, el script indica que no existe línea base; no inventa ni simula resultados.
