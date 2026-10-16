@@ -79,7 +79,7 @@ const bySystem = systems.map((system) => {
   const subset = validRows.filter((row) => row.system === system);
   const mentions = subset.filter((row) => matchesBrand(row.brands_mentioned)).length;
   const recommendations = subset.filter((row) => matchesBrand(row.brands_recommended)).length;
-  const citations = subset.filter((row) => truthy(row.linguafly_cited) || urlsFrom(row).some((url) => /(^|\.)linguafly\.app\//i.test(url))).length;
+  const citations = subset.filter((row) => truthy(row.linguafly_cited) || urlsFrom(row).some((url) => /(?:^|:\/\/|\.)(?:www\.)?linguafly\.app\//i.test(url))).length;
   return {
     system,
     validRuns: subset.length,
@@ -104,8 +104,8 @@ const summary = {
   brandMentionRate: total ? Number((count((row) => matchesBrand(row.brands_mentioned)) / total).toFixed(4)) : null,
   brandRecommendationRuns: count((row) => matchesBrand(row.brands_recommended)),
   brandRecommendationRate: total ? Number((count((row) => matchesBrand(row.brands_recommended)) / total).toFixed(4)) : null,
-  linguaflyCitationRuns: count((row) => truthy(row.linguafly_cited) || urlsFrom(row).some((url) => /(^|\.)linguafly\.app\//i.test(url))),
-  linguaflyCitationRate: total ? Number((count((row) => truthy(row.linguafly_cited) || urlsFrom(row).some((url) => /(^|\.)linguafly\.app\//i.test(url))) / total).toFixed(4)) : null,
+  linguaflyCitationRuns: count((row) => truthy(row.linguafly_cited) || urlsFrom(row).some((url) => /(?:^|:\/\/|\.)(?:www\.)?linguafly\.app\//i.test(url))),
+  linguaflyCitationRate: total ? Number((count((row) => truthy(row.linguafly_cited) || urlsFrom(row).some((url) => /(?:^|:\/\/|\.)(?:www\.)?linguafly\.app\//i.test(url))) / total).toFixed(4)) : null,
   distinctCitedUrls: distinctUrls.size,
   systems: bySystem,
 };
