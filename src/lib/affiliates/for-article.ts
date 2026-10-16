@@ -22,6 +22,10 @@ import {
   shouldOfferPasoAPaso,
 } from "@/lib/affiliates/paso-a-paso";
 import {
+  IT_COMMUNICATION_BOOK,
+  PROFESSIONAL_EMAILS_BOOK,
+  shouldOfferItCommunication,
+  shouldOfferProfessionalEmails,
   C1_ADVANCED_BOOK,
   LISTENING_CAE_BOOK,
   WORD_FORMATION_CAE_BOOK,
@@ -56,6 +60,8 @@ const APTIS_BOOK: AffiliateBook = {
 /** Un solo libro por artículo. Aptis General tiene prioridad sobre la gramática general. */
 export function affiliateBookForSlug(slug?: string | null): AffiliateBook | null {
   if (shouldOfferAptisBook({ slug })) return APTIS_BOOK;
+  if (shouldOfferItCommunication(slug)) return IT_COMMUNICATION_BOOK;
+  if (shouldOfferProfessionalEmails(slug)) return PROFESSIONAL_EMAILS_BOOK;
   if (shouldOfferPhrasalVerbsBook(slug)) return PHRASAL_VERBS_BOOK;
   if (shouldOfferPasoAPaso(slug)) return PASO_A_PASO_BOOK;
   if (shouldOfferB1PreliminaryBook(slug)) return B1_PRELIMINARY_BOOK;
