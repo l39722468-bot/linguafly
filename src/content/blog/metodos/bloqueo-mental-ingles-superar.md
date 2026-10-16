@@ -26,20 +26,38 @@ date: '2026-03-05'
 updatedDate: '2026-09-29'
 category: metodos
 faqs:
-  - question: 'Por Qué Nos Bloqueamos al Hablar Inglés?'
-    answer: 'El bloqueo no es un problema de vocabulario ni de gramática. Es un problema psicológico y neurológico.'
-  - question: '¿La trampa del monitor interno?'
-    answer: 'El lingüista Stephen Krashen describió el "Monitor": la parte de tu cerebro que actúa como editor, revisando cada frase antes de pronunciarla. En hablantes inseguros, el Monitor trabaja en exceso — te corrige mentalmente antes de que hayas terminado la frase, lo que genera esa parálisis...'
-  - question: '¿El miedo al juicio?'
-    answer: 'Hablar en público (o con nativos) activa el sistema de amenaza del cerebro. El miedo a sonar ridículo, a cometer errores o a "no estar a la altura" desencadena una respuesta de estrés que literalmente bloquea el acceso a la memoria de largo plazo donde guardas el vocabulario.'
-  - question: '¿La traducción mental?'
-    answer: 'Muchos estudiantes intermedios siguen construyendo frases en español primero y luego las traducen. Este proceso es lento y consume recursos cognitivos que deberían estar disponibles para escuchar y responder.'
+  - question: '¿Por qué me bloqueo al hablar inglés si conozco la gramática?'
+    answer: >-
+      Conocer reglas y vocabulario no garantiza poder recuperarlos con rapidez
+      durante una conversación. La presión, el miedo a equivocarte y el hábito
+      de traducir cada frase pueden dificultar la respuesta. Practica primero
+      con preguntas previsibles y respuestas breves para ganar familiaridad.
+  - question: '¿Cómo puedo dejar de traducir mentalmente del español?'
+    answer: >-
+      No intentes eliminar la traducción de golpe. Aprende bloques de lenguaje
+      completos, como “I think…”, “Could you repeat that?” o “In my opinion…”,
+      y reutilízalos en varias conversaciones. Con la práctica, algunas
+      respuestas frecuentes te saldrán con menos planificación consciente.
+  - question: '¿Qué hago si me quedo en blanco durante una conversación?'
+    answer: >-
+      Usa una frase de apoyo para ganar tiempo, por ejemplo “Let me think for a
+      second” o “Could you say that again, please?”. Después responde con una
+      idea sencilla. El objetivo es mantener la comunicación, no construir una
+      frase perfecta antes de hablar.
+  - question: '¿Es mejor practicar solo o con otra persona?'
+    answer: >-
+      Combina las dos opciones. Practicar solo permite repetir una respuesta y
+      grabarte sin presión; hablar con otra persona te ayuda a entrenar los
+      turnos, la escucha y las preguntas inesperadas. Empieza con tareas
+      guiadas y aumenta la espontaneidad gradualmente.
 
 canonical: 'https://linguafly.app/blog/metodos/bloqueo-mental-ingles-superar'
 alt: Persona tomando aire antes de hablar inglés en una conversación
 ---
 
 > **[Estudia inglés con nuestros cursos gratuitos de inglés A1-C2](/idiomas#niveles).** Elige tu nivel y avanza con guías, vocabulario y ejercicios organizados por unidad.
+
+**Para superar el bloqueo al hablar inglés, practica respuestas cortas en voz alta, usa frases de apoyo y aumenta la dificultad poco a poco.** No necesitas esperar a sentirte totalmente seguro: empieza con situaciones previsibles, acepta los errores como parte de la práctica y repite la misma tarea hasta que te resulte más familiar.
 
 Conoces la gramática. Tienes vocabulario. Puedes leer artículos en inglés sin problema. Pero cuando alguien te habla en inglés... te quedas en blanco. Tu mente se paraliza, buscas las palabras en español y el silencio se hace eterno.
 
