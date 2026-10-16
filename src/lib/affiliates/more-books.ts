@@ -6,6 +6,7 @@ export const COLLOCATIONS_ADVANCED_AMAZON_URL = "https://link.amazon/B02dLfJmc";
 export const IELTS_AMAZON_URL = "https://link.amazon/B0h9J7Rhh";
 export const C1_ADVANCED_AMAZON_URL = "https://link.amazon/B087jx513";
 export const LISTENING_CAE_AMAZON_URL = "https://link.amazon/B07IyJOy0";
+export const WORD_FORMATION_CAE_AMAZON_URL = "https://link.amazon/B03zW3NCI";
 
 export const ESSENTIAL_GRAMMAR_BOOK: AffiliateBook = {
   id: "essential-grammar-in-use",
@@ -76,6 +77,21 @@ export const LISTENING_CAE_BOOK: AffiliateBook = {
     "Material de práctica para preparar el listening del Cambridge C1 Advanced y familiarizarse con el formato del examen.",
   highlights: [
     "Práctica de comprensión auditiva para C1 Advanced",
+    "Preparación orientada al formato del examen",
+    "Complemento para el estudio autónomo",
+  ],
+  tone: "sky",
+};
+
+export const WORD_FORMATION_CAE_BOOK: AffiliateBook = {
+  id: "word-formation-cae-practice",
+  url: WORD_FORMATION_CAE_AMAZON_URL,
+  title: "C1 Advanced Practice Tests",
+  eyebrow: "Word Formation C1 Advanced",
+  description:
+    "Material de práctica para preparar Use of English, con ejercicios de formación de palabras del Cambridge C1 Advanced.",
+  highlights: [
+    "Práctica de word formation para C1 Advanced",
     "Preparación orientada al formato del examen",
     "Complemento para el estudio autónomo",
   ],
@@ -242,6 +258,7 @@ const IELTS_SLUGS = new Set([
 ]);
 
 const LISTENING_CAE_SLUGS = new Set(["listening-cae-consejos"]);
+const WORD_FORMATION_CAE_SLUGS = new Set(["word-formation-cae"]);
 
 const C1_ADVANCED_SLUGS = new Set([
   "cambridge-c1-advanced-guia",
@@ -278,6 +295,10 @@ export function shouldOfferIeltsBook(slug?: string | null): boolean {
 
 export function shouldOfferListeningCaeBook(slug?: string | null): boolean {
   return hasSlug(LISTENING_CAE_SLUGS, slug);
+}
+
+export function shouldOfferWordFormationCaeBook(slug?: string | null): boolean {
+  return hasSlug(WORD_FORMATION_CAE_SLUGS, slug);
 }
 
 export function shouldOfferC1AdvancedBook(slug?: string | null): boolean {
