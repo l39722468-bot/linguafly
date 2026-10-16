@@ -93,7 +93,7 @@ La razón es técnica: en los niveles iniciales, aprender 100 palabras nuevas du
 La IA puede hacer más accesible la práctica adicional, por ejemplo, al generar ejercicios o sugerir correcciones inmediatas. No hay evidencia suficiente aquí para cuantificar una reducción general del tiempo de aprendizaje: usa estas herramientas como complemento y verifica los comentarios que recibes.
 
 ### La Regla del 80/20 (Ley de Pareto)
-No intentes aprenderte todo el diccionario. El 80% de la comunicación diaria en inglés utiliza solo el 20% del vocabulario disponible (unas 1.500-2.000 palabras). Enfócate en dominar ese núcleo antes de pasar a tecnicismos.
+No intentes aprender todo el diccionario de golpe. Prioriza palabras y expresiones frecuentes que sean relevantes para tus objetivos y practica cómo se usan en frases reales. La proporción exacta de vocabulario que necesitas depende del contexto (conversación, trabajo, viajes o estudio), así que no conviene tratar la regla 80/20 como una cifra universal.
 
 ### Repetición Espaciada (Spaced Repetition)
 
@@ -111,7 +111,7 @@ Estos planes describen la dedicación, no garantizan un cambio de nivel en una f
 
 ## Conclusión
 
-Aprender inglés es una inversión, no un gasto de tiempo. Aunque las horas necesarias están marcadas por la ciencia, tu actitud y las herramientas que elijas pueden hacer que el camino sea mucho más corto y agradable. No te enfoques solo en la meta; disfruta del proceso de poder entender una canción, una serie o cerrar un trato internacional.
+Aprender inglés requiere tiempo, práctica y objetivos realistas. Las estimaciones de horas pueden ayudar a planificar, pero no determinan de antemano cuándo alcanzarás un nivel. Evalúa periódicamente lo que ya puedes hacer, combina comprensión con producción y ajusta la rutina según tus avances.
 
 ---
 
