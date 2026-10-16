@@ -1,7 +1,7 @@
 import type { AffiliateBook } from "@/lib/affiliates/book";
 
 /** English Grammar in Use, 5.ª edición, con respuestas y ebook (B1–B2). */
-export const MURPHY_GRAMMAR_AMAZON_URL = "https://link.amazon/B01Kk95OQ";
+export const MURPHY_GRAMMAR_AMAZON_URL = "https://link.amazon/B05erVGD8";
 
 export const MURPHY_GRAMMAR_BOOK: AffiliateBook = {
   id: "murphy-grammar-in-use",

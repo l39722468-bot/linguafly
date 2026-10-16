@@ -2,7 +2,8 @@ import type { AffiliateBook } from "@/lib/affiliates/book";
 
 export const ESSENTIAL_GRAMMAR_AMAZON_URL = "https://link.amazon/B018DZDWS";
 export const COLLOCATIONS_AMAZON_URL = "https://link.amazon/B0emi5gC7";
-export const IELTS_AMAZON_URL = "https://link.amazon/B0fFwIKQp";
+export const COLLOCATIONS_ADVANCED_AMAZON_URL = "https://link.amazon/B02dLfJmc";
+export const IELTS_AMAZON_URL = "https://link.amazon/B0h9J7Rhh";
 export const C1_ADVANCED_AMAZON_URL = "https://link.amazon/B087jx513";
 
 export const ESSENTIAL_GRAMMAR_BOOK: AffiliateBook = {
@@ -35,17 +36,32 @@ export const COLLOCATIONS_BOOK: AffiliateBook = {
   tone: "emerald",
 };
 
-export const IELTS_BOOK: AffiliateBook = {
-  id: "ielts-20-academic",
-  url: IELTS_AMAZON_URL,
-  title: "IELTS 20 Academic. Practice tests",
-  eyebrow: "Exámenes IELTS",
+export const COLLOCATIONS_ADVANCED_BOOK: AffiliateBook = {
+  id: "collocations-in-use-advanced",
+  url: COLLOCATIONS_ADVANCED_AMAZON_URL,
+  title: "English Collocations in Use Advanced",
+  eyebrow: "Collocations C1–C2",
   description:
-    "Cuatro exámenes académicos completos de Cambridge, con respuestas, audio y ejemplos de speaking y writing.",
+    "Práctica de collocations de nivel avanzado para ampliar la precisión y naturalidad del inglés académico y profesional.",
   highlights: [
-    "Formato Academic",
-    "Listening, reading, writing y speaking",
-    "Claves y pack digital",
+    "Nivel avanzado C1–C2",
+    "Combinaciones de palabras en contexto",
+    "Ejercicios para consolidar el vocabulario",
+  ],
+  tone: "emerald",
+};
+
+export const IELTS_BOOK: AffiliateBook = {
+  id: "official-cambridge-guide-ielts",
+  url: IELTS_AMAZON_URL,
+  title: "The Official Cambridge Guide to IELTS",
+  eyebrow: "Preparación IELTS",
+  description:
+    "Guía de preparación para IELTS con orientación y práctica de las destrezas evaluadas. Comprueba la ficha y edición exactas antes de publicar.",
+  highlights: [
+    "Preparación de las destrezas de IELTS",
+    "Orientación para el examen",
+    "Recurso de autoestudio",
   ],
   tone: "amber",
 };
@@ -190,6 +206,9 @@ const COLLOCATION_SLUGS = new Set([
   "unidad-54-linkers-collocations-geopolitics",
 ]);
 
+const ADVANCED_COLLOCATION_SLUGS = new Set(["collocations-ingles-c1"]);
+
+
 const IELTS_SLUGS = new Set([
   "ielts-computer-vs-papel",
   "ielts-dia-del-examen",
@@ -229,6 +248,10 @@ export function shouldOfferEssentialGrammar(slug?: string | null): boolean {
 
 export function shouldOfferCollocationsBook(slug?: string | null): boolean {
   return hasSlug(COLLOCATION_SLUGS, slug);
+}
+
+export function shouldOfferAdvancedCollocationsBook(slug?: string | null): boolean {
+  return hasSlug(ADVANCED_COLLOCATION_SLUGS, slug);
 }
 
 export function shouldOfferIeltsBook(slug?: string | null): boolean {
