@@ -52,16 +52,16 @@ export const COLLOCATIONS_ADVANCED_BOOK: AffiliateBook = {
 };
 
 export const IELTS_BOOK: AffiliateBook = {
-  id: "ielts-20-academic",
+  id: "official-cambridge-guide-ielts",
   url: IELTS_AMAZON_URL,
-  title: "IELTS 20 Academic. Practice tests",
-  eyebrow: "Exámenes IELTS",
+  title: "The Official Cambridge Guide to IELTS",
+  eyebrow: "Preparación IELTS",
   description:
-    "Cuatro exámenes académicos completos de Cambridge, con respuestas, audio y ejemplos de speaking y writing.",
+    "Guía de preparación para IELTS con orientación y práctica de las destrezas evaluadas. Comprueba la ficha y edición exactas antes de publicar.",
   highlights: [
-    "Formato Academic",
-    "Listening, reading, writing y speaking",
-    "Claves y pack digital",
+    "Preparación de las destrezas de IELTS",
+    "Orientación para el examen",
+    "Recurso de autoestudio",
   ],
   tone: "amber",
 };
