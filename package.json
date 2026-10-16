@@ -69,7 +69,8 @@
     "articles:sync:changed": "npx tsx scripts/sync-articles-to-d1.ts --git-since HEAD~1 --dry-run",
     "d1:migrate": "wrangler d1 migrations apply linguafly_db --remote",
     "d1:migrate:local": "wrangler d1 migrations apply linguafly_db --local",
-    "bulk-import": "npx tsx scripts/bulk-import-articles.ts"
+    "bulk-import": "npx tsx scripts/bulk-import-articles.ts",
+    "report:commercial-visibility": "node scripts/report-commercial-visibility.mjs"
   },
   "dependencies": {
     "@opennextjs/cloudflare": "^1.20.2",
