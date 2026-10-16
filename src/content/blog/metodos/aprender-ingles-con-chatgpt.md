@@ -22,19 +22,19 @@ keywords:
 faqs:
   - question: ¿Es efectivo aprender inglés con ChatGPT?
     answer: >-
-      Sí, ChatGPT es una herramienta muy efectiva para mejorar el inglés escrito, la gramática y el vocabulario. Su mayor ventaja es la disponibilidad 24/7 y la paciencia infinita para corregir y explicar. La principal limitación es que no entrena la pronunciación ni la comprensión oral. Combínalo con práctica de conversación real y escucha activa de contenido nativo.
+      ChatGPT puede servir para practicar escritura, vocabulario, gramática y diálogos simulados si le das un objetivo y un nivel claros. No sustituye la interacción humana ni conviene aceptar todas sus correcciones sin verificarlas. Combínalo con escucha de inglés auténtico y conversación con otras personas.
   - question: ¿ChatGPT corrige mis errores de inglés automáticamente?
     answer: >-
       Solo si se lo pides explícitamente. Si le escribes en inglés sin especificar que quieres corrección, ChatGPT responderá pero normalmente no señalará tus errores. Usa el prompt "Correct my English and explain the mistakes" para activar el modo corrección.
   - question: ¿Qué versión de ChatGPT es mejor para aprender inglés?
     answer: >-
-      GPT-4 (disponible en ChatGPT Plus) es notablemente mejor para el aprendizaje de idiomas: comprende matices, da explicaciones más ricas y comete menos errores. La versión gratuita (GPT-3.5) también es útil para práctica básica, correcciones y vocabulario.
+      Elige el modelo disponible en tu cuenta que siga mejor tus instrucciones y explique los errores con claridad. Las opciones y sus prestaciones cambian con el tiempo; prueba el mismo ejercicio con el modelo que tengas disponible y verifica las respuestas con un diccionario fiable o una fuente docente.
 canonical: 'https://linguafly.app/blog/metodos/aprender-ingles-con-chatgpt'
 ---
 
 ## Aprender Inglés con ChatGPT: La Guía Definitiva
 
-La inteligencia artificial ha cambiado radicalmente las posibilidades de aprender idiomas. ChatGPT funciona como un tutor personal disponible a cualquier hora, con paciencia infinita, que puede adaptarse exactamente a tu nivel, tus intereses y tus necesidades específicas.
+ChatGPT puede ayudarte a practicar inglés mediante diálogos simulados, correcciones de textos, explicaciones gramaticales y ejercicios personalizados. Para obtener respuestas útiles, indica tu nivel, el objetivo y el tipo de feedback que quieres; después verifica las correcciones y combina el trabajo con escucha y conversación reales.
 
 En esta guía encontrarás los **usos más efectivos de ChatGPT para aprender inglés**, con prompts concretos que puedes copiar y usar ahora mismo. Si lo que quieres es evitar que el chat haga la tarea por ti, sigue en [cómo usar ChatGPT para aprender inglés sin hacer trampas](/blog/metodos/como-usar-chatgpt-para-aprender-ingles-sin-hacer-trampas).
 
