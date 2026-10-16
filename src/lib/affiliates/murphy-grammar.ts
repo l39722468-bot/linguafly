@@ -46,6 +46,8 @@ const MURPHY_GRAMMAR_SLUGS = new Set([
   "unless-ingles-condicionales",
   "relative-clauses-guia-definitiva",
   "reported-speech-questions-commands",
+  "guia-maestra-reported-speech",
+  "reported-speech-backshift-excepciones",
   "reported-speech-expresiones-tiempo",
   "will-going-to-diferencia",
   "will-futuro-ingles",
