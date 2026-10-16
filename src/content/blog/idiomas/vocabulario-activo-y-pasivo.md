@@ -2,6 +2,7 @@
 published: true
 category: idiomas
 date: '2026-09-08'
+updatedDate: '2026-10-16'
 author: linguafly-team
 title: "Vocabulario activo y pasivo: cómo recordar palabras de verdad"
 description: >-
@@ -24,17 +25,19 @@ excerpt: >-
   está en recuperar la palabra sin pista y meterla en una frase tuya.
 faqs:
   - question: ¿Qué es el vocabulario pasivo?
-    answer: Es el que reconoces cuando lees o escuchas. Entiendes la palabra en contexto, pero no te sale si tienes que hablar o escribir.
+    answer: Es el conjunto de palabras que reconoces al leer o escuchar, aunque no siempre puedas recuperarlas por tu cuenta al hablar o escribir. Comprendes la palabra cuando aparece en contexto, pero todavía te cuesta producirla sin una pista.
   - question: ¿Cómo paso una palabra de pasiva a activa?
-    answer: Recupérala sin mirar la lista, úsala en una frase nueva y repítela en los días siguientes. El uso, no el subrayado, hace el cambio.
+    answer: Intenta recordar la palabra sin mirar la lista, úsala en una frase nueva relacionada con tu vida y vuelve a recuperarla en días posteriores. Alternar recuerdo activo, producción propia y repasos espaciados ayuda a convertir reconocimiento en uso.
   - question: ¿Cuántas palabras nuevas debo aprender al día?
-    answer: Entre 5 y 10 bien trabajadas rinden más que 30 copiadas. Si no puedes usarlas mañana, eran demasiadas.
+    answer: No hay una cifra universal: empieza con cinco a diez palabras que puedas recuperar y utilizar en frases propias. Si al día siguiente no recuerdas cómo emplearlas, reduce la cantidad y dedica más tiempo al repaso y al contexto.
 alt: Tarjetas de vocabulario activo y pasivo ordenadas en dos montones
 ---
 
 Casi todo el mundo tiene más vocabulario del que usa. Lees un artículo, “lo entiendes”, y a la hora de hablar se te cae la red. Eso no es un fallo de memoria mágica: es la diferencia entre **vocabulario pasivo** y **vocabulario activo**.
 
 Si llegas con la consulta **cómo recordar vocabulario**, el desarrollo está en los apartados siguientes, con ejemplos y el uso real, no como etiqueta suelta.
+
+**Respuesta rápida:** el vocabulario pasivo es el que reconoces al leer o escuchar; el vocabulario activo es el que puedes recuperar y utilizar sin ayuda al hablar o escribir. Para activar una palabra, recuérdala sin mirar, crea una frase propia y vuelve a practicarla durante los días siguientes.
 
 ## Dos almacenes distintos
 
@@ -77,5 +80,9 @@ Después de un audio de 5 minutos, no pases al siguiente vídeo. Anota 3 expresi
 - **Coleccionar apps de flashcards y no hablar.** Las tarjetas ayudan al recuerdo; no sustituyen una frase dicha.
 - **Estudiar sin contexto.** “run” no es una ficha: es *run a company*, *run out of milk*, *go for a run*. Aprende la colocación, no el cromo.
 - **Castigarte por olvidar.** Olvidar es parte del sistema. Por eso se repasa. Si una palabra se cae tres días seguidos, cámbiale la frase, no la abandones.
+
+## Sigue aprendiendo
+
+- [Vocabulario de redes sociales en inglés: términos y expresiones](/blog/metodos/vocabulario-ingles-redes-sociales)
 
 El vocabulario activo no es un don. Es el resultado de **sacar la palabra a la luz varias veces**, en frases que te suenan a ti. Si hoy solo consigues activar cinco, ya vas por delante de quien ha subrayado cincuenta y no ha dicho ninguna.
