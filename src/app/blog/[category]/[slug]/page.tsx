@@ -533,6 +533,12 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       {intro}
                     </ReactMarkdown>
 
+                    {rest && affiliateBook ? (
+                      <div className="not-prose my-8 print-hidden">
+                        <AmazonBookOffer book={affiliateBook} variant="compact" />
+                      </div>
+                    ) : null}
+
                     {rest ? (
                       <ReactMarkdown 
                         remarkPlugins={[remarkGfm]}
