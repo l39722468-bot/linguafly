@@ -24,16 +24,16 @@ keywords:
 faqs:
   - question: '¿Qué app para aprender inglés funciona mejor completamente sin internet?'
     answer: >-
-      Anki es la mejor opción para trabajar 100% offline una vez descargados los mazos. Funciona sin ningún tipo de conexión una vez que tienes tus tarjetas descargadas: puedes repasar vocabulario, hacer tus sesiones diarias y añadir nuevas tarjetas sin necesitar internet en ningún momento. Si buscas algo más guiado, Pimsleur también permite descargar sus lecciones de audio para escucharlas completamente offline.
+      Anki es una opción práctica para repasar tarjetas sin conexión una vez que los mazos están descargados. Puedes estudiar y crear tarjetas localmente; la sincronización y la descarga de mazos nuevos requieren conexión. Pimsleur también puede ofrecer descargas de audio, según el plan, la app y la disponibilidad en tu región. Comprueba las opciones actuales antes de viajar.
   - question: '¿Duolingo funciona sin internet?'
     answer: >-
-      Duolingo tiene un modo offline parcial: puedes descargar lecciones específicas para hacerlas sin conexión, pero muchas funciones (como el modo Stories, las ligas competitivas, los desafíos diarios y la sincronización de racha) requieren internet. Además, solo puedes descargar un número limitado de lecciones en la versión gratuita. En la práctica, Duolingo funciona mejor con conexión; el modo offline es una solución de emergencia, no una funcionalidad completa.
+      La disponibilidad de Duolingo sin conexión puede variar según la versión, el dispositivo, la cuenta y las funciones disponibles en ese momento. No des por hecho que una unidad concreta estará accesible offline: abre la app antes de viajar, comprueba qué contenido se puede usar sin conexión y prueba el modo avión.
   - question: '¿Cómo descargo el contenido de las apps de inglés para usarlo offline?'
     answer: >-
-      Cada app tiene su propio sistema: en Anki descargas los mazos desde AnkiWeb antes de viajar y luego funcionan sin conexión; en Duolingo, entra en la sección de descarga dentro de cada unidad; en Pimsleur, descarga los audios de la lección desde la app antes de desconectarte; en BBC Learning English, puedes descargar episodios de podcast desde la propia app. Lo más importante es acordarte de descargar el contenido con antelación, no intentarlo cuando ya estás sin cobertura.
+      Cada app tiene su propio sistema y las opciones cambian con las actualizaciones. En Anki, sincroniza y descarga los mazos antes de viajar; en las demás, busca las opciones de descarga disponibles en tu versión y plan. Comprueba también que los archivos se reproducen en modo avión. No esperes a estar sin cobertura para verificarlo.
   - question: '¿Es posible aprender inglés bien usando solo apps offline?'
     answer: >-
-      Sí, especialmente para vocabulario y listening. Anki es extraordinariamente eficaz para memorizar vocabulario y grammar patterns sin internet. Para el listening, puedes descargar episodios de podcast en inglés (BBC Learning English, podbean, etc.) y escucharlos sin conexión. Donde el modo offline tiene más limitaciones es en el speaking interactivo y en funciones que usan IA en tiempo real (como el reconocimiento de voz de ELSA Speak). Con una combinación de Anki + podcasts descargados + contenido descargado de BBC, puedes tener una rutina offline muy sólida.
+      Es posible practicar vocabulario, lectura y comprensión auditiva con materiales descargados, aunque las funciones disponibles dependen de cada app. La conversación interactiva, la sincronización y algunas herramientas de reconocimiento de voz pueden requerir conexión. Combina tarjetas locales, audios descargados y lecturas guardadas, y reserva las actividades que necesiten internet para cuando vuelvas a tener cobertura.
 canonical: 'https://linguafly.app/blog/metodos/apps-ingles-sin-internet-offline'
 ---
 
@@ -67,10 +67,10 @@ Hay tres situaciones donde el offline marca la diferencia:
 
 | App | Offline Real | Qué Funciona Offline | Qué NO Funciona Offline |
 |-----|-------------|---------------------|------------------------|
-| **Anki** | ✅ Sí (total) | Todo: mazos, sesiones, creación de tarjetas | Solo sincronización con AnkiWeb |
-| **Pimsleur** | ✅ Sí (lecciones descargadas) | Lecciones de audio descargadas | Nuevas lecciones, vocabulario web |
-| **BBC Learning English (app)** | ✅ Parcial | Episodios de podcast descargados | Contenido web, vídeos en streaming |
-| **Duolingo** | ⚠️ Parcial | Lecciones descargadas (limitado) | Stories, ligas, racha, sonidos |
+| **Anki** | ✅ Para contenido ya descargado | Repasar mazos locales y crear tarjetas | Sincronización y descarga de mazos nuevos |
+| **Pimsleur** | ⚠️ Según plan y app | Lecciones que se hayan descargado correctamente | Nuevas descargas y funciones online |
+| **BBC Learning English** | ⚠️ Verificar disponibilidad | Audio o episodios guardados previamente | Web, ejercicios y contenido en streaming |
+| **Duolingo** | ⚠️ Variable | Solo el contenido que tu versión permita abrir offline | Funciones conectadas y contenido no descargado |
 | **Memrise** | ⚠️ Parcial | Cursos descargados | Modo "Learn with Locals" (vídeos) |
 | **ELSA Speak** | ❌ No | Nada significativo | Todo (IA requiere conexión) |
 | **Lingopie** | ❌ No | Nada | Streaming de series y películas |
@@ -219,7 +219,7 @@ Si sabes que vas a tener un período sin conexión (viaje, vacaciones, zona rura
 **Pimsleur** (si tienes suscripción) para practicar listening y speaking mentalmente durante el vuelo. **Anki** para vocabulario. **Libros en inglés** descargados en Kindle para lectura extensiva. Evita depender de Duolingo o cualquier app que requiera sonidos en streaming.
 
 ### En viaje internacional (sin roaming)
-Prepara una semana de contenido descargado antes de salir: mazos de Anki revisados y actualizados, podcasts de la semana, lecciones de Duolingo descargadas. La rutina offline puede ser igual de efectiva que la online si se prepara bien.
+Prepara una semana de contenido descargado antes de salir: mazos de Anki revisados y actualizados, podcasts de la semana, lecciones de Duolingo descargadas. Una rutina offline puede ser útil si se adapta a tus objetivos y se prepara con antelación.
 
 ### Ahorrando datos en casa
 Configura las apps para que descarguen nuevo contenido solo con wifi (ajuste disponible en Anki, Duolingo y la mayoría de apps). Así estudias sin consumir datos móviles durante las sesiones.
