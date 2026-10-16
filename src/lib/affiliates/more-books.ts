@@ -114,6 +114,7 @@ export const C1_ADVANCED_BOOK: AffiliateBook = {
 };
 
 const ESSENTIAL_GRAMMAR_SLUGS = new Set([
+  "ingles-a1-vs-a2",
   "unidad-1-saludos-introducciones-repaso",
   "unidad-1-saludos-introducciones-repaso-ejercicios-soluciones",
   "unidad-10-repaso-modulo-1",
