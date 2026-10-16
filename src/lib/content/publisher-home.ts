@@ -160,7 +160,7 @@ export function splitMarkdownForAffiliateOffer(content: string): {
   intro: string;
   rest: string | null;
 } {
-  const firstSection = /\\n## /;
+  const firstSection = /\n## /;
   const headingMatch = firstSection.exec(content);
   if (headingMatch && headingMatch.index > 0) {
     return {
@@ -170,7 +170,7 @@ export function splitMarkdownForAffiliateOffer(content: string): {
   }
 
   // Fallback for articles without a clear introductory section: split after two paragraphs.
-  const paragraphBreak = /\\n\\s*\\n/;
+  const paragraphBreak = /\n\s*\n/;
   let match: RegExpExecArray | null;
   let offset = 0;
   let breaks = 0;
