@@ -45,7 +45,7 @@ import { getCourseLessonLinks } from "@/lib/seo/course-lesson-nav";
 import { detectBlogCourseLevel } from "@/lib/seo/blog-course-recommendations";
 import { getVoiceSearchSummary } from "@/lib/seo/voice-search-optimizer";
 import { affiliateBookForSlug } from "@/lib/affiliates/for-article";
-import { splitMarkdownForMidArticleAd } from "@/lib/content/publisher-home";
+import { splitMarkdownForAffiliateOffer } from "@/lib/content/publisher-home";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import rehypeRaw from 'rehype-raw';
@@ -341,7 +341,8 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   /** Artículos de la misma categoría para la navegación de la sidebar (sin CTAs comerciales). */
   const sidebarCategoryArticles = await listSidebarArticles(article.category, slug);
   const articleBody = expandBlogGlosses(article.content);
-  const { intro, rest } = splitMarkdownForMidArticleAd(articleBody);
+  const { intro: affiliateIntro, rest: articleAfterAffiliateIntro } =
+    splitMarkdownForAffiliateOffer(articleBody);
     return (
       <>
         {/* SEO Schemas */}
@@ -530,22 +531,22 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       rehypePlugins={[rehypeRaw]}
                       components={MarkdownComponents}
                     >
-                      {intro}
+                      {affiliateIntro}
                     </ReactMarkdown>
 
-                    {rest && affiliateBook ? (
+                    {articleAfterAffiliateIntro && affiliateBook ? (
                       <div className="not-prose my-8 print-hidden">
                         <AmazonBookOffer book={affiliateBook} variant="compact" />
                       </div>
                     ) : null}
 
-                    {rest ? (
+                    {articleAfterAffiliateIntro ? (
                       <ReactMarkdown 
                         remarkPlugins={[remarkGfm]}
                         rehypePlugins={[rehypeRaw]}
                         components={MarkdownComponents}
                       >
-                        {rest}
+                        {articleAfterAffiliateIntro}
                       </ReactMarkdown>
                     ) : null}
 
