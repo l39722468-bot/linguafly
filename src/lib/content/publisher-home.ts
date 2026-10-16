@@ -165,7 +165,7 @@ export function splitMarkdownForAffiliateOffer(content: string): {
   if (headingMatch && headingMatch.index > 0) {
     return {
       intro: content.slice(0, headingMatch.index).trimEnd(),
-      rest: content.slice(headingMatch.index).replace(/^\\n/, ""),
+      rest: content.slice(headingMatch.index).replace(/^\n/, ""),
     };
   }
 
@@ -180,7 +180,7 @@ export function splitMarkdownForAffiliateOffer(content: string): {
     if (breaks === 2) {
       return {
         intro: content.slice(0, end).trimEnd(),
-        rest: content.slice(end).replace(/^\\n+/, ""),
+        rest: content.slice(end).replace(/^\n+/, ""),
       };
     }
     offset = end + match[0].length;
