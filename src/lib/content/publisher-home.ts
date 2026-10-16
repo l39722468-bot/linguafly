@@ -154,6 +154,41 @@ export function splitMarkdownForMidArticleAd(content: string): {
   return { intro: content, rest: null };
 }
 
+
+/** Split the article after its introductory copy, before the first main section. */
+export function splitMarkdownForAffiliateOffer(content: string): {
+  intro: string;
+  rest: string | null;
+} {
+  const firstSection = /\n+## /;
+  const headingMatch = firstSection.exec(content);
+  if (headingMatch && headingMatch.index > 0) {
+    return {
+      intro: content.slice(0, headingMatch.index).trimEnd(),
+      rest: content.slice(headingMatch.index).replace(/^\n/, ""),
+    };
+  }
+
+  // Fallback for articles without a clear introductory section: split after two paragraphs.
+  const paragraphBreak = /\n\s*\n/;
+  let match: RegExpExecArray | null;
+  let offset = 0;
+  let breaks = 0;
+  while ((match = paragraphBreak.exec(content.slice(offset)))) {
+    breaks += 1;
+    const end = offset + match.index;
+    if (breaks === 2) {
+      return {
+        intro: content.slice(0, end).trimEnd(),
+        rest: content.slice(end).replace(/^\n+/, ""),
+      };
+    }
+    offset = end + match[0].length;
+  }
+
+  return { intro: content, rest: null };
+}
+
 export function escapeXml(value: string): string {
   return value
     .replace(/&/g, "&amp;")
