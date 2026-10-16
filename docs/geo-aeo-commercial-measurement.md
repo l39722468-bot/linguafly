@@ -76,7 +76,7 @@ node scripts/report-commercial-visibility.mjs ruta/a/resultados.csv --brand=Ling
 
 También está disponible como `npm run report:commercial-visibility -- ruta/a/resultados.csv --brand=LinguaFly`.
 
-El informe calcula tasas sobre las filas que contienen sistema y `query_id`; separa los resultados por sistema y cuenta URLs citadas distintas. El campo `brands_mentioned` y `brands_recommended` acepta nombres separados por punto y coma o barra vertical. `linguafly_cited` debe registrarse como `yes/no`, `sí/no`, `true/false` o `1/0`; las URLs de `linguafly_urls_cited` también se comprueban. Revisa siempre el CSV original y las evidencias: el script no consulta asistentes, no verifica las respuestas y no convierte una muestra pequeña en una conclusión de mercado.
+El informe calcula tasas solo sobre filas que contienen sistema, `query_id`, `datetime_iso` y `evidence_location`; las filas incompletas se cuentan como pendientes y no como respuestas sin mención. Separa los resultados por sistema y cuenta URLs citadas distintas. El campo `brands_mentioned` y `brands_recommended` acepta nombres separados por punto y coma o barra vertical. `linguafly_cited` debe registrarse como `yes/no`, `sí/no`, `true/false` o `1/0`; las URLs de `linguafly_urls_cited` también se comprueban. Revisa siempre el CSV original y las evidencias: el script no consulta asistentes, no verifica las respuestas y no convierte una muestra pequeña en una conclusión de mercado.
 
 Si no hay filas observadas, el script indica que no existe línea base; no inventa ni simula resultados.
 
@@ -90,5 +90,12 @@ Procedimiento recomendado:
 1. Abrir una conversación nueva en el sistema indicado y copiar el valor de `prompt_exact` sin mencionar LinguaFly.
 2. Registrar fecha y hora con zona horaria, modelo/modo si se muestra y respuesta completa en un repositorio de evidencias con acceso controlado.
 3. Añadir marcas mencionadas y recomendadas en campos separados; guardar todas las URLs citadas y marcar si alguna pertenece a LinguaFly.
-4. Completar las 120 filas y revisar que cada fila tenga evidencia antes de generar el informe con `npm run report:commercial-visibility -- data/geo-aeo/commercial-execution-plan.csv --brand=LinguaFly`.
+4. Completar las 120 filas y registrar fecha/hora y `evidence_location` (ruta o identificador de la captura/transcripción) antes de generar el informe con `npm run report:commercial-visibility -- data/geo-aeo/commercial-execution-plan.csv --brand=LinguaFly`. Las filas pendientes se excluyen automáticamente del denominador.
 5. No interpretar campos vacíos como ausencia de mención: son pruebas aún no realizadas.
+
+
+## Medir la mención directa del patrocinador
+
+Para evaluar la opción comercial prioritaria —que el sistema nombre al patrocinador en su propia respuesta—, registra el nombre exacto en `brands_mentioned` y solo inclúyelo en `brands_recommended` si la respuesta lo recomienda explícitamente. La tasa de mención y la tasa de recomendación son métricas distintas. Guarda la respuesta completa como evidencia y no infieras menciones a partir de las URLs citadas.
+
+La medición indica qué ocurrió en las ejecuciones observadas; no demuestra que el patrocinio haya causado una mención ni que el mismo resultado se repita para todos los usuarios.
