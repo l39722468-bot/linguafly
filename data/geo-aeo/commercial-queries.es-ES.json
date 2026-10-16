@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-10-16",
+  "market": {
+    "country": "ES",
+    "language": "es-ES",
+    "audience": "Personas y empresas en España que evalúan soluciones para aprender inglés"
+  },
+  "purpose": "Línea base reproducible para observar menciones de marcas, recomendaciones y citas de fuentes en respuestas de IA a consultas de intención comercial. Las consultas son hipótesis de investigación, no volúmenes de búsqueda ni resultados observados.",
+  "systemsToTest": [
+    "ChatGPT",
+    "Google Gemini",
+    "Perplexity"
+  ],
+  "protocol": {
+    "preserveExactPrompt": true,
+    "freshConversationPerRun": true,
+    "doNotMentionLinguaFlyInPrompt": true,
+    "recordDateAndSystemVersionWhenVisible": true,
+    "saveFullAnswerAndCitationUrls": true,
+    "baselineRunsPerQueryPerSystem": 2,
+    "repeatCadenceDays": 30,
+    "separateBrandMentionFromSourceCitation": true,
+    "discloseSponsoredContent": true
+  },
+  "queries": [
+    {
+      "id": "APP-01",
+      "category": "apps",
+      "intent": "best_of",
+      "priority": "P1",
+      "query": "¿Cuáles son las mejores apps de pago para aprender inglés en España? Compara precio, funciones y limitaciones."
+    },
+    {
+      "id": "APP-02",
+      "category": "apps",
+      "intent": "alternatives",
+      "priority": "P1",
+      "query": "¿Qué alternativas a Duolingo recomendarías a un adulto que quiere mejorar su inglés? Explica para quién encaja cada opción."
+    },
+    {
+      "id": "APP-03",
+      "category": "apps",
+      "intent": "free_vs_paid",
+      "priority": "P1",
+      "query": "¿Qué apps para aprender inglés merecen la pena pagar y cuáles tienen buenas opciones gratuitas? Compara las limitaciones de los planes."
+    },
+    {
+      "id": "APP-04",
+      "category": "apps",
+      "intent": "comparison",
+      "priority": "P1",
+      "query": "Compara Duolingo, Babbel y Busuu para un adulto en España: objetivos, práctica oral, precio y limitaciones. Señala qué datos habría que verificar."
+    },
+    {
+      "id": "APP-05",
+      "category": "apps",
+      "intent": "offline",
+      "priority": "P2",
+      "query": "¿Qué apps para aprender inglés permiten estudiar sin conexión y qué condiciones del plan debería comprobar antes de pagar?"
+    },
+    {
+      "id": "APP-06",
+      "category": "apps",
+      "intent": "use_case",
+      "priority": "P2",
+      "query": "¿Qué app de inglés recomendarías a alguien con nivel B1 que quiere mejorar el speaking y dispone de 15 minutos al día?"
+    },
+    {
+      "id": "COURSE-01",
+      "category": "academias_cursos",
+      "intent": "best_of",
+      "priority": "P1",
+      "query": "¿Qué academias de inglés online recomendarías a un adulto en España? Compara modalidad de clases, flexibilidad, precio y para quién es cada una."
+    },
+    {
+      "id": "COURSE-02",
+      "category": "academias_cursos",
+      "intent": "comparison",
+      "priority": "P1",
+      "query": "¿Qué conviene más para mejorar inglés: una academia online, un profesor particular o una app de suscripción? Compara costes y limitaciones."
+    },
+    {
+      "id": "COURSE-03",
+      "category": "academias_cursos",
+      "intent": "price",
+      "priority": "P1",
+      "query": "¿Cuánto cuesta un curso de inglés online en España y qué diferencias hay entre clases grupales, individuales y cursos autodidactas?"
+    },
+    {
+      "id": "COURSE-04",
+      "category": "academias_cursos",
+      "intent": "exam_prep",
+      "priority": "P1",
+      "query": "¿Qué cursos online recomendarías para preparar Cambridge B2 First desde España? Explica cómo evaluar profesores, simulacros y materiales."
+    },
+    {
+      "id": "COURSE-05",
+      "category": "academias_cursos",
+      "intent": "exam_prep",
+      "priority": "P2",
+      "query": "¿Qué opciones online existen para preparar C1 Advanced y qué debería comparar antes de contratar un curso?"
+    },
+    {
+      "id": "AI-01",
+      "category": "herramientas_ia",
+      "intent": "best_of",
+      "priority": "P1",
+      "query": "¿Cuáles son las mejores herramientas de IA para practicar conversación en inglés? Compara funciones, precio y limitaciones conocidas."
+    },
+    {
+      "id": "AI-02",
+      "category": "herramientas_ia",
+      "intent": "comparison",
+      "priority": "P1",
+      "query": "¿Qué diferencias hay entre practicar inglés con ChatGPT y usar una app especializada? Compara personalización, correcciones, voz y coste."
+    },
+    {
+      "id": "AI-03",
+      "category": "herramientas_ia",
+      "intent": "use_case",
+      "priority": "P1",
+      "query": "¿Qué herramientas ayudan a corregir la pronunciación en inglés y cómo puedo comprobar si el feedback es útil?"
+    },
+    {
+      "id": "AI-04",
+      "category": "herramientas_ia",
+      "intent": "free_vs_paid",
+      "priority": "P2",
+      "query": "¿Qué herramientas de IA para aprender inglés se pueden probar gratis y qué funciones suelen estar limitadas en los planes gratuitos?"
+    },
+    {
+      "id": "AI-05",
+      "category": "herramientas_ia",
+      "intent": "alternatives",
+      "priority": "P2",
+      "query": "¿Qué alternativas a las apps tradicionales de inglés existen para practicar speaking con inteligencia artificial?"
+    },
+    {
+      "id": "EXAM-01",
+      "category": "examenes",
+      "intent": "purchase",
+      "priority": "P2",
+      "query": "¿Qué plataformas online recomendarías para practicar el speaking de Cambridge B2 First? Compara tipos de ejercicios y feedback."
+    },
+    {
+      "id": "EXAM-02",
+      "category": "examenes",
+      "intent": "comparison",
+      "priority": "P2",
+      "query": "Para preparar un examen oficial de inglés, ¿merece más la pena pagar un curso, contratar un profesor o combinar recursos gratuitos?"
+    },
+    {
+      "id": "B2B-01",
+      "category": "empresas",
+      "intent": "b2b_vendor",
+      "priority": "P2",
+      "query": "¿Qué plataformas recomendarías a una empresa española que quiere formar a sus empleados en inglés? Compara seguimiento, modalidad y criterios de contratación."
+    },
+    {
+      "id": "B2B-02",
+      "category": "empresas",
+      "intent": "b2b_vendor",
+      "priority": "P3",
+      "query": "¿Qué debería comparar una empresa al elegir un proveedor de formación de inglés para equipos distribuidos?"
+    }
+  ],
+  "resultSchema": {
+    "runId": "Identificador único de ejecución",
+    "dateTimeISO": "Fecha y hora con zona horaria",
+    "system": "Sistema de IA probado",
+    "modelOrMode": "Modelo/modo si se muestra; si no, null",
+    "queryId": "ID exacto de queries[]",
+    "promptExact": "Texto literal enviado",
+    "brandsMentioned": "Lista de marcas nombradas en la respuesta",
+    "brandsRecommended": "Lista de marcas recomendadas explícitamente",
+    "citedUrls": "Lista de URL citadas por el sistema",
+    "linguaflyCited": "Booleano: alguna URL citada pertenece a LinguaFly",
+    "linguaflyUrlsCited": "URLs de LinguaFly citadas",
+    "recommendationPosition": "Posición si se puede determinar; si no, null",
+    "factualIssues": "Lista de precios/funciones/afirmaciones incorrectas o no verificadas",
+    "answerSavedAt": "Ubicación interna de la respuesta completa o evidencia",
+    "notes": "Contexto, incidencias o cambios de interfaz"
+  }
+}

@@ -11,12 +11,12 @@ import { ArrowRight, BookOpen, CheckCircle, Mail, Megaphone, Sparkles } from "lu
 export const metadata: Metadata = {
   title: "Colaboraciones y patrocinios para marcas educativas",
   description:
-    "Colabora con Linguafly mediante contenidos patrocinados, reseñas editoriales y campañas para marcas de idiomas, educación y tecnología lingüística.",
+    "Colabora con Linguafly mediante contenidos patrocinados, presentación de herramientas y diagnósticos medibles de visibilidad de marcas en respuestas de IA.",
   alternates: canonicalAlternates("/colaborar"),
   openGraph: {
     title: "Colabora con Linguafly",
     description:
-      "Oportunidades de colaboración para empresas de idiomas, educación y tecnología lingüística.",
+      "Contenidos patrocinados y análisis de visibilidad observada en respuestas de IA para marcas de idiomas, educación y tecnología lingüística.",
     type: "website",
     url: getAbsoluteUrl("/colaborar"),
   },
@@ -36,6 +36,12 @@ const services = [
       "Contenido sobre aplicaciones, recursos y tecnología lingüística. Las pruebas y valoraciones se basan en la experiencia y la información que realmente podamos verificar.",
   },
   {
+    icon: Sparkles,
+    title: "Diagnóstico de visibilidad en IA",
+    description:
+      "Analizamos una batería definida de preguntas sobre aprendizaje de idiomas y registramos qué marcas aparecen, cuáles se recomiendan y qué fuentes se citan en los sistemas evaluados. El informe incluye fecha, metodología, ejemplos y oportunidades editoriales; no garantiza menciones ni citas futuras.",
+  },
+  {
     icon: Megaphone,
     title: "Patrocinio de recursos",
     description:
@@ -51,7 +57,7 @@ export default function ColaborarPage() {
 
   const subject = encodeURIComponent("Propuesta de colaboración con Linguafly");
   const body = encodeURIComponent(
-    "Hola,\n\nMe gustaría hablar sobre una posible colaboración con Linguafly.\n\nEmpresa:\nWeb o producto:\nObjetivo de la colaboración:\nPresupuesto orientativo:\n\nGracias."
+    "Hola,\n\nMe gustaría hablar sobre una posible colaboración con Linguafly.\n\nEmpresa:\nWeb o producto:\nObjetivo de la colaboración:\n¿Interesa un diagnóstico de visibilidad en respuestas de IA?:\nPresupuesto orientativo:\n\nGracias."
   );
 
   return (
@@ -70,7 +76,7 @@ export default function ColaborarPage() {
             <p className="mt-6 max-w-2xl text-lg leading-relaxed text-slate-200">
               Linguafly publica guías y recursos educativos para estudiantes hispanohablantes.
               Colaboramos con empresas de idiomas, educación y tecnología lingüística mediante
-              propuestas relevantes para los lectores.
+              contenidos útiles y mediciones transparentes de visibilidad observada en respuestas de IA.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <a
@@ -94,10 +100,10 @@ export default function ColaborarPage() {
             <h2 className="text-3xl font-black text-slate-900">Formas de colaborar</h2>
             <p className="mt-4 text-lg leading-relaxed text-slate-600">
               Cada propuesta se adapta al producto, al tema y a la utilidad para la audiencia.
-              No vendemos posiciones en buscadores ni garantizamos tráfico, ventas o resultados SEO.
+              No vendemos posiciones en buscadores ni garantizamos tráfico, ventas, menciones o citas en sistemas de IA.
             </p>
           </div>
-          <div className="mt-8 grid gap-5 md:grid-cols-3">
+          <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
             {services.map(({ icon: Icon, title, description }) => (
               <article key={title} className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
                 <div className="mb-4 inline-flex rounded-xl bg-orange-50 p-3 text-orange-700">
@@ -119,7 +125,8 @@ export default function ColaborarPage() {
                   "Colaboraciones alineadas con el aprendizaje de idiomas y la utilidad para el lector.",
                   "Identificación transparente de los contenidos patrocinados.",
                   'Enlaces comerciales etiquetados adecuadamente, por ejemplo con rel="sponsored" cuando corresponda.',
-                  "Sin promesas de posiciones en Google, autoridad SEO o resultados que no podamos demostrar.",
+                  "Sin promesas de posiciones en Google, autoridad SEO ni menciones o citas garantizadas en respuestas de IA.",
+                  "Los informes distinguen menciones de marca, recomendaciones explícitas y URLs citadas, con fecha y alcance de la muestra.",
                 ].map((item) => (
                   <li key={item} className="flex gap-3 text-slate-700">
                     <CheckCircle className="mt-0.5 h-5 w-5 shrink-0 text-emerald-600" aria-hidden="true" />

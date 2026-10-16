@@ -1,0 +1,1 @@
+run_id,datetime_iso,system,model_or_mode,query_id,prompt_exact,brands_mentioned,brands_recommended,cited_urls,linguafly_cited,linguafly_urls_cited,recommendation_position,factual_issues,evidence_location,notes
