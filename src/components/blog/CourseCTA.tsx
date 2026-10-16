@@ -49,7 +49,7 @@ export function CourseCTA({ level, articleSlug }: CourseCTAProps) {
       <div>
         <p className="text-xs font-bold uppercase tracking-wider text-coral-700">Continúa tu aprendizaje</p>
         <h2 className="mt-1 text-lg font-extrabold text-slate-900">{headline}</h2>
-        <p className="mt-1 text-sm text-slate-600">Unidades interactivas y práctica a tu ritmo.</p>
+        <p className="mt-1 text-sm text-slate-600">Teoría y ejercicios con soluciones para comprobar lo que has aprendido.</p>
       </div>
       <Link
         href={`/blog/curso-${level.toLowerCase()}`}
