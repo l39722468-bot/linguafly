@@ -160,7 +160,7 @@ export function splitMarkdownForAffiliateOffer(content: string): {
   intro: string;
   rest: string | null;
 } {
-  const firstSection = /\n## /;
+  const firstSection = /\n+## /;
   const headingMatch = firstSection.exec(content);
   if (headingMatch && headingMatch.index > 0) {
     return {
