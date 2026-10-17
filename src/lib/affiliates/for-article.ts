@@ -42,6 +42,14 @@ import {
   shouldOfferCollocationsBook,
   shouldOfferEssentialGrammar,
   shouldOfferIeltsBook,
+  CAMBRIDGE_ESSENTIAL_DICTIONARY_BOOK,
+  OXFORD_PICTURE_DICTIONARY_BOOK,
+  IELTS_VOCABULARY_BOOK,
+  ENGLISH_VOCABULARY_IN_USE_B1_BOOK,
+  shouldOfferCambridgeEssentialDictionary,
+  shouldOfferOxfordPictureDictionary,
+  shouldOfferIeltsVocabularyBook,
+  shouldOfferEnglishVocabularyInUseB1,
 } from "@/lib/affiliates/more-books";
 
 const APTIS_BOOK: AffiliateBook = {
@@ -65,6 +73,10 @@ export function affiliateBookForSlug(slug?: string | null): AffiliateBook | null
   if (shouldOfferItCommunication(slug)) return IT_COMMUNICATION_BOOK;
   if (shouldOfferProfessionalEmails(slug)) return PROFESSIONAL_EMAILS_BOOK;
   if (shouldOfferAdvancedGrammarC1C2(slug)) return ADVANCED_GRAMMAR_C1_C2_BOOK;
+  if (shouldOfferCambridgeEssentialDictionary(slug)) return CAMBRIDGE_ESSENTIAL_DICTIONARY_BOOK;
+  if (shouldOfferOxfordPictureDictionary(slug)) return OXFORD_PICTURE_DICTIONARY_BOOK;
+  if (shouldOfferIeltsVocabularyBook(slug)) return IELTS_VOCABULARY_BOOK;
+  if (shouldOfferEnglishVocabularyInUseB1(slug)) return ENGLISH_VOCABULARY_IN_USE_B1_BOOK;
   if (shouldOfferPhrasalVerbsBook(slug)) return PHRASAL_VERBS_BOOK;
   if (shouldOfferPasoAPaso(slug)) return PASO_A_PASO_BOOK;
   if (shouldOfferB1PreliminaryBook(slug)) return B1_PRELIMINARY_BOOK;
