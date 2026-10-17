@@ -23,6 +23,7 @@ export const MURPHY_GRAMMAR_BOOK: AffiliateBook = {
  * de ese nivel. No pronunciación, ni A1, ni C1–C2.
  */
 const MURPHY_GRAMMAR_SLUGS = new Set([
+  "ejercicios-condicionales-ingles-b1-b2",
   "mejores-libros-aprender-ingles",
   "ingles-b2",
   "cursos-online-ingles-b1",
