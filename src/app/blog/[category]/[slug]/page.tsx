@@ -145,7 +145,12 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
   const topicCanonical = resolveCourseTopicCanonical(normalizedCategory, slug);
   const courseEyebrow = getCourseUnitEyebrow(normalizedCategory, slug);
   let topicGuide:
-    | { href: string; title: string; targetIsCourseUnit: boolean }
+    | {
+        href: string;
+        title: string;
+        description: string;
+        targetIsCourseUnit: boolean;
+      }
     | null = null;
   if (topicCanonical) {
     const guide = await getPublishedArticle(
@@ -155,6 +160,8 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     topicGuide = {
       href: topicCanonical.path,
       title: guide?.title || "Ver la guía del tema",
+      description:
+        guide?.description || guide?.excerpt || article.description || article.excerpt,
       targetIsCourseUnit: topicCanonical.category.startsWith("curso-"),
     };
   }
@@ -455,6 +462,12 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                        <CourseTopicCanonicalBanner
                          href={topicGuide.href}
                          title={topicGuide.title}
+                         description={
+                           normalizedCategory.startsWith("curso-")
+                             ? article.description || article.excerpt
+                             : topicGuide.description
+                         }
+                         sourceIsCourseUnit={normalizedCategory.startsWith("curso-")}
                          targetIsCourseUnit={topicGuide.targetIsCourseUnit}
                          isWorkbook={
                            parseCourseUnitSlug(normalizedCategory, slug)
