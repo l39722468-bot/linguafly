@@ -45,6 +45,7 @@ import { getCourseLessonLinks } from "@/lib/seo/course-lesson-nav";
 import { detectBlogCourseLevel } from "@/lib/seo/blog-course-recommendations";
 import { getVoiceSearchSummary } from "@/lib/seo/voice-search-optimizer";
 import { affiliateBookForSlug } from "@/lib/affiliates/for-article";
+import { curatedAffiliateBooksForSlug } from "@/lib/affiliates/reading-books";
 import { splitMarkdownForAffiliateOffer } from "@/lib/content/publisher-home";
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
@@ -139,7 +140,9 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
     content: article.content.slice(0, 3000),
   });
   const voiceSummary = getVoiceSearchSummary(article.faqs);
-  const affiliateBook = affiliateBookForSlug(slug);
+  const curatedAffiliateBooks = curatedAffiliateBooksForSlug(slug);
+  // Curated reading pages show their complete product shortlist once in the article body.
+  const affiliateBook = curatedAffiliateBooks.length ? null : affiliateBookForSlug(slug);
 
   const canonicalUrl = resolveArticleCanonicalUrl(article);
   const topicCanonical = resolveCourseTopicCanonical(normalizedCategory, slug);
@@ -563,7 +566,18 @@ export default async function BlogArticle({ params }: { params: Promise<{ catego
                       </ReactMarkdown>
                     ) : null}
 
-                    {affiliateBook ? (
+                    {curatedAffiliateBooks.length > 0 ? (
+                      <section className="not-prose my-12 print-hidden">
+                        <h2 className="mb-6 font-display text-2xl font-black text-slate-900">
+                          Libros recomendados para aprender inglés leyendo y por nivel
+                        </h2>
+                        <div className="grid grid-cols-1 gap-6 xl:grid-cols-2">
+                          {curatedAffiliateBooks.map((book) => (
+                            <AmazonBookOffer key={book.id} book={book} variant="compact" />
+                          ))}
+                        </div>
+                      </section>
+                    ) : affiliateBook ? (
                       <div className="not-prose my-12 print-hidden">
                         <AmazonBookOffer book={affiliateBook} />
                       </div>
