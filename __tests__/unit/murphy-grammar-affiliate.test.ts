@@ -52,6 +52,25 @@ describe("murphy grammar affiliate", () => {
     }
   });
 
+  it("maps the next ten modal and future articles to the intermediate grammar affiliate link", () => {
+    const slugs = [
+      "should-would-ingles",
+      "say-vs-tell-ingles",
+      "wish-if-only-ingles",
+      "semi-modales-ingles",
+      "will-would-diferencia",
+      "will-promesas-decisiones-ingles",
+      "will-probabilidad-certeza-ingles",
+      "will-preguntas-ingles",
+      "will-ofertas-peticiones-ingles",
+      "will-expresiones-ingles",
+    ];
+
+    for (const slug of slugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(MURPHY_GRAMMAR_AMAZON_URL);
+    }
+  });
+
   it("does not offer it on pronunciation, beginner or advanced pages", () => {
     expect(shouldOfferMurphyGrammar("pronunciacion-ingles-guia-completa")).toBe(false);
     expect(shouldOfferMurphyGrammar("verbos-modales-ingles-avanzados")).toBe(false);
