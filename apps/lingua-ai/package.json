@@ -1,0 +1,47 @@
+{
+  "name": "lingua-ai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "LinguaFly AI — entrenador personal de inglés",
+  "scripts": {
+    "dev": "next dev -p 5440",
+    "build": "next build",
+    "start": "next start -p 5440",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview --config=wrangler.preview.jsonc",
+    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy",
+    "upload": "opennextjs-cloudflare build && opennextjs-cloudflare upload",
+    "cf-typegen": "wrangler types --env-interface CloudflareEnv cloudflare-env.d.ts",
+    "d1:migrate:local": "wrangler d1 migrations apply lingua-ai-auth-db --local",
+    "d1:migrate:remote": "wrangler d1 migrations apply lingua-ai-auth-db --remote"
+  },
+  "dependencies": {
+    "@opennextjs/cloudflare": "1.20.2",
+    "@supabase/ssr": "0.12.7",
+    "@supabase/supabase-js": "2.117.3",
+    "better-auth": "1.7.7",
+    "next": "15.5.28",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "5.20261014.1",
+    "@types/node": "22.10.5",
+    "@types/react": "19.0.6",
+    "@types/react-dom": "19.0.2",
+    "autoprefixer": "10.4.20",
+    "eslint": "9.39.5",
+    "eslint-config-next": "15.5.28",
+    "postcss": "8.5.29",
+    "tailwindcss": "3.4.17",
+    "typescript": "5.7.2",
+    "wrangler": "4.151.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "overrides": {
+    "postcss": "$postcss"
+  }
+}
