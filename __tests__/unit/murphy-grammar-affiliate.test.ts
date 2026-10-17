@@ -33,6 +33,25 @@ describe("murphy grammar affiliate", () => {
     }
   });
 
+  it("maps the next ten grammar articles to the intermediate grammar affiliate link", () => {
+    const slugs = [
+      "guia-maestra-reported-speech",
+      "reported-speech-backshift-excepciones",
+      "reported-speech-expresiones-tiempo",
+      "will-going-to-diferencia",
+      "will-futuro-ingles",
+      "past-simple-vs-past-continuous",
+      "past-simple-verbos-irregulares",
+      "past-perfect-ingles",
+      "must-have-to-diferencia",
+      "may-might-ingles",
+    ];
+
+    for (const slug of slugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(MURPHY_GRAMMAR_AMAZON_URL);
+    }
+  });
+
   it("does not offer it on pronunciation, beginner or advanced pages", () => {
     expect(shouldOfferMurphyGrammar("pronunciacion-ingles-guia-completa")).toBe(false);
     expect(shouldOfferMurphyGrammar("verbos-modales-ingles-avanzados")).toBe(false);
