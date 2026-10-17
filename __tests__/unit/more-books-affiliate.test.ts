@@ -165,6 +165,39 @@ describe("more amazon books", () => {
     );
   });
 
+  it("maps focused B1 units 26–44 to Murphy but skips reviews and lexical-only units", () => {
+    const grammarSlugs = [
+      "unidad-26-quantifiers-food",
+      "unidad-27-both-either-neither",
+      "unidad-28-articles-buildings",
+      "unidad-29-reflexive-pronouns",
+      "unidad-31-defining-relative-nature",
+      "unidad-32-nondefining-relative-environment",
+      "unidad-33-question-tags-services",
+      "unidad-34-ed-ing-adjectives-feelings",
+      "unidad-36-so-such-intensifiers",
+      "unidad-38-contrast-opinions",
+      "unidad-39-purpose-reason-explaining",
+      "unidad-41-verb-preposition-dependent",
+      "unidad-42-adjective-preposition-feelings",
+      "unidad-43-during-for-while-time",
+      "unidad-44-for-since-from-time",
+    ];
+    for (const slug of grammarSlugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe("https://link.amazon/B05erVGD8");
+    }
+
+    for (const slug of [
+      "unidad-25-repaso-21-24",
+      "unidad-30-repaso-26-29",
+      "unidad-35-repaso-31-34",
+      "unidad-37-compound-adjectives-travel",
+      "unidad-40-repaso-36-39",
+    ]) {
+      expect(affiliateBookForSlug(slug)).toBeNull();
+    }
+  });
+
   it("maps the next ten advanced grammar articles to Advanced Grammar in Use", () => {
     expect(ADVANCED_GRAMMAR_C1_C2_AMAZON_URL).toBe("https://link.amazon/B0gMB4d16");
     const slugs = [
