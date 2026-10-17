@@ -26,6 +26,8 @@ import {
   PROFESSIONAL_EMAILS_BOOK,
   shouldOfferItCommunication,
   shouldOfferProfessionalEmails,
+  ADVANCED_GRAMMAR_C1_C2_BOOK,
+  shouldOfferAdvancedGrammarC1C2,
   C1_ADVANCED_BOOK,
   LISTENING_CAE_BOOK,
   WORD_FORMATION_CAE_BOOK,
@@ -62,6 +64,7 @@ export function affiliateBookForSlug(slug?: string | null): AffiliateBook | null
   if (shouldOfferAptisBook({ slug })) return APTIS_BOOK;
   if (shouldOfferItCommunication(slug)) return IT_COMMUNICATION_BOOK;
   if (shouldOfferProfessionalEmails(slug)) return PROFESSIONAL_EMAILS_BOOK;
+  if (shouldOfferAdvancedGrammarC1C2(slug)) return ADVANCED_GRAMMAR_C1_C2_BOOK;
   if (shouldOfferPhrasalVerbsBook(slug)) return PHRASAL_VERBS_BOOK;
   if (shouldOfferPasoAPaso(slug)) return PASO_A_PASO_BOOK;
   if (shouldOfferB1PreliminaryBook(slug)) return B1_PRELIMINARY_BOOK;
