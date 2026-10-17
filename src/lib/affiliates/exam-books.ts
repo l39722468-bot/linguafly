@@ -50,7 +50,11 @@ export const PRONUNCIATION_BOOK: AffiliateBook = {
 };
 
 export function shouldOfferB1PreliminaryBook(slug?: string | null): boolean {
-  return (slug ?? "").trim().toLowerCase() === "preparar-b1-cambridge-por-cuenta-propia";
+  return new Set([
+    "preparar-b1-cambridge-por-cuenta-propia",
+    "unidad-59-exam-preparation-strategies",
+    "unidad-59-exam-preparation-strategies-ejercicios-soluciones",
+  ]).has((slug ?? "").trim().toLowerCase());
 }
 
 export function shouldOfferB2FirstTrainerBook(slug?: string | null): boolean {
