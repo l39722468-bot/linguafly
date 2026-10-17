@@ -293,7 +293,19 @@ const IELTS_SLUGS = new Set([
   "preparar-ielts-desde-b2",
 ]);
 
-const ADVANCED_GRAMMAR_C1_C2_SLUGS = new Set(["ejercicios-condicionales-c1-c2"]);
+const ADVANCED_GRAMMAR_C1_C2_SLUGS = new Set([
+  "ejercicios-condicionales-c1-c2",
+  "passive-reporting-verbs-guia-avanzada",
+  "reporting-verbs-patterns-list",
+  "inversiones-ingles-c1",
+  "unidad-13-participle-clauses-viajes",
+  "unidad-14-subjuntivo-gastronomia",
+  "unidad-65-language-lab-condicionales-avanzados",
+  "unidad-66-language-lab-subjuntivo-mandativo",
+  "unidad-67-language-lab-inversion-enfasis",
+  "condicionales-ingles-mixtos-avanzados",
+  "ejercicios-condicionales-ingles-c1",
+]);
 const LISTENING_CAE_SLUGS = new Set(["listening-cae-consejos"]);
 const WORD_FORMATION_CAE_SLUGS = new Set(["word-formation-cae"]);
 
