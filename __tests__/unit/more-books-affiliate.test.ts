@@ -127,6 +127,44 @@ describe("more amazon books", () => {
     }
   });
 
+  it("maps B1 course units 5–24 selectively by topic", () => {
+    const grammarSlugs = [
+      "unidad-6-future-will-going-to",
+      "unidad-7-was-were-going-to",
+      "unidad-8-modals-deduction",
+      "unidad-9-used-to-be-get-used-to",
+      "unidad-11-first-conditional-weather",
+      "unidad-12-second-conditional",
+      "unidad-13-first-vs-second-conditional",
+      "unidad-14-third-conditional",
+      "unidad-16-passive-voice-technology",
+      "unidad-17-modal-passive-work",
+      "unidad-18-reported-speech-statements",
+      "unidad-19-reported-speech-questions",
+      "unidad-21-gerund-infinitive-hobbies",
+      "unidad-22-gerund-infinitive-house",
+    ];
+    for (const slug of grammarSlugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe("https://link.amazon/B05erVGD8");
+    }
+
+    for (const slug of [
+      "unidad-5-repaso-1-4",
+      "unidad-10-repaso-6-9",
+      "unidad-15-repaso-11-14",
+      "unidad-20-repaso-16-19",
+    ]) {
+      expect(affiliateBookForSlug(slug)).toBeNull();
+    }
+
+    expect(affiliateBookForSlug("unidad-23-phrasal-verbs-daily")?.url).toBe(
+      "https://link.amazon/B05alffpy",
+    );
+    expect(affiliateBookForSlug("unidad-24-phrasal-verbs-shopping")?.url).toBe(
+      "https://link.amazon/B05alffpy",
+    );
+  });
+
   it("maps the next ten advanced grammar articles to Advanced Grammar in Use", () => {
     expect(ADVANCED_GRAMMAR_C1_C2_AMAZON_URL).toBe("https://link.amazon/B0gMB4d16");
     const slugs = [
