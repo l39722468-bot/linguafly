@@ -58,12 +58,18 @@ describe("CourseTopicCanonicalBanner", () => {
       <CourseTopicCanonicalBanner
         href="/blog/gramatica/zero-conditional-ingles"
         title="Zero Conditional en inglés"
+        description="Esta unidad explica el Zero Conditional con ejemplos y ejercicios."
+        sourceIsCourseUnit={true}
         targetIsCourseUnit={false}
         isWorkbook={false}
       />,
     );
     const link = screen.getByRole("link", { name: /zero conditional/i });
     expect(link).toHaveAttribute("href", "/blog/gramatica/zero-conditional-ingles");
-    expect(screen.getByText(/unidad del curso/i)).toBeInTheDocument();
+    expect(
+      screen.getByText("Esta unidad explica el Zero Conditional con ejemplos y ejercicios."),
+    ).toBeInTheDocument();
+    expect(screen.getByText(/qué encontrarás en esta unidad/i)).toBeInTheDocument();
+    expect(screen.queryByText(/posicionar|google|canónica/i)).not.toBeInTheDocument();
   });
 });
