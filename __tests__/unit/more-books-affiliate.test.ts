@@ -5,6 +5,10 @@ import {
   COLLOCATIONS_AMAZON_URL,
   ESSENTIAL_GRAMMAR_AMAZON_URL,
   IELTS_AMAZON_URL,
+  CAMBRIDGE_ESSENTIAL_DICTIONARY_AMAZON_URL,
+  OXFORD_PICTURE_DICTIONARY_AMAZON_URL,
+  IELTS_VOCABULARY_AMAZON_URL,
+  ENGLISH_VOCABULARY_IN_USE_B1_AMAZON_URL,
 } from "@/lib/affiliates/more-books";
 
 describe("more amazon books", () => {
@@ -19,6 +23,16 @@ describe("more amazon books", () => {
     expect(affiliateBookForSlug("unidad-11-present-perfect-introduccion")?.url).toBe(
       ESSENTIAL_GRAMMAR_AMAZON_URL,
     );
+    expect(affiliateBookForSlug("unidad-11-lugares-ciudad-ejercicios-soluciones")?.url).toBe(OXFORD_PICTURE_DICTIONARY_AMAZON_URL);
+    expect(affiliateBookForSlug("ielts-vocabulario-academico")?.url).toBe(IELTS_VOCABULARY_AMAZON_URL);
+    expect(affiliateBookForSlug("unidad-37-compound-adjectives-travel")?.url).toBe(ENGLISH_VOCABULARY_IN_USE_B1_AMAZON_URL);
+    for (const slug of [
+      "unidad-56-mixed-grammar-sport",
+      "unidad-57-mixed-grammar-clothes-colours",
+      "unidad-58-mixed-grammar-places",
+    ]) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(OXFORD_PICTURE_DICTIONARY_AMAZON_URL);
+    }
     expect(affiliateBookForSlug("unidad-28-collocations-verb-noun-food")?.url).toBe(
       COLLOCATIONS_AMAZON_URL,
     );
@@ -85,10 +99,14 @@ describe("more amazon books", () => {
 
     // The intermediate phrasal-verbs book is deliberately excluded for these A2 lessons,
     // and a general grammar book is not specific enough to force a card here.
-    expect(affiliateBookForSlug("unidad-31-phrasal-verbs-introduccion")).toBeNull();
-    expect(affiliateBookForSlug("unidad-32-phrasal-verbs-separables")).toBeNull();
-    expect(affiliateBookForSlug("unidad-31-phrasal-verbs-introduccion-ejercicios-soluciones")).toBeNull();
-    expect(affiliateBookForSlug("unidad-32-phrasal-verbs-separables-ejercicios-soluciones")).toBeNull();
+    for (const slug of [
+      "unidad-31-phrasal-verbs-introduccion",
+      "unidad-32-phrasal-verbs-separables",
+      "unidad-31-phrasal-verbs-introduccion-ejercicios-soluciones",
+      "unidad-32-phrasal-verbs-separables-ejercicios-soluciones",
+    ]) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(CAMBRIDGE_ESSENTIAL_DICTIONARY_AMAZON_URL);
+    }
   });
 
   it("maps remaining A2 exercise workbooks and focused B1 grammar units", () => {
@@ -191,7 +209,6 @@ describe("more amazon books", () => {
       "unidad-25-repaso-21-24",
       "unidad-30-repaso-26-29",
       "unidad-35-repaso-31-34",
-      "unidad-37-compound-adjectives-travel",
       "unidad-40-repaso-36-39",
     ]) {
       expect(affiliateBookForSlug(slug)).toBeNull();
@@ -232,9 +249,6 @@ describe("more amazon books", () => {
       "unidad-53-review-modals",
       "unidad-54-review-tenses",
       "unidad-55-repaso-51-54",
-      "unidad-56-mixed-grammar-sport",
-      "unidad-57-mixed-grammar-clothes-colours",
-      "unidad-58-mixed-grammar-places",
       "unidad-60-final-b1-review",
       "unidad-1-repaso-a2-b1-ejercicios-soluciones",
     ]) {
