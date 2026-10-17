@@ -1,11 +1,10 @@
 ---
-title: 'Past perfect en inglés: had + participio y ejercicios'
+title: 'Past Perfect en inglés: cuándo se usa y ejemplos'
 date: '2026-02-28'
-updatedDate: '2026-09-26'
+updatedDate: '2026-10-17'
 author: linguafly-team
 description: >-
-  Aprende el past perfect para ordenar dos momentos del pasado, cuándo no hace
-  falta y en qué se diferencia del past simple, con ejemplos y ejercicios.
+  Aprende a usar had + participio para hablar de acciones anteriores a otro momento pasado. Compara Past Perfect y Past Simple con ejemplos y ejercicios.
 category: gramatica
 alt: Línea de tiempo mostrando el Past Perfect en relación al Past Simple
 readTime: 9 min
