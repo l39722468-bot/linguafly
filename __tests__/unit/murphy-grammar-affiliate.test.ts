@@ -3,7 +3,7 @@ import { MURPHY_GRAMMAR_AMAZON_URL, shouldOfferMurphyGrammar } from "@/lib/affil
 
 describe("murphy grammar affiliate", () => {
   it("keeps the Amazon affiliate URL", () => {
-    expect(MURPHY_GRAMMAR_AMAZON_URL).toBe("https://link.amazon/B01Kk95OQ");
+    expect(MURPHY_GRAMMAR_AMAZON_URL).toBe("https://link.amazon/B05erVGD8");
   });
 
   it("offers the intermediate grammar book on B1-B2 grammar and exam guides", () => {
@@ -12,6 +12,25 @@ describe("murphy grammar affiliate", () => {
     expect(shouldOfferMurphyGrammar("present-perfect-vs-past-simple")).toBe(true);
     expect(shouldOfferMurphyGrammar("verbos-modales-ingles-guia")).toBe(true);
     expect(affiliateBookForSlug("ingles-b2")?.url).toBe(MURPHY_GRAMMAR_AMAZON_URL);
+  });
+
+  it("maps the ten grammar articles to the intermediate grammar affiliate link", () => {
+    const slugs = [
+      "verbos-modales-ingles-guia",
+      "verbos-modales-ingles-ejercicios",
+      "present-perfect-usos-principales",
+      "present-perfect-continuous",
+      "present-perfect-since-for",
+      "present-perfect-just-already-yet",
+      "present-perfect-ever-never",
+      "voz-pasiva-ingles-guia",
+      "unless-ingles-condicionales",
+      "relative-clauses-guia-definitiva",
+    ];
+
+    for (const slug of slugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(MURPHY_GRAMMAR_AMAZON_URL);
+    }
   });
 
   it("does not offer it on pronunciation, beginner or advanced pages", () => {
