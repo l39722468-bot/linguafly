@@ -61,6 +61,12 @@ const MURPHY_GRAMMAR_SLUGS = new Set([
   "say-vs-tell-ingles",
   "wish-if-only-ingles",
   "semi-modales-ingles",
+  "will-would-diferencia",
+  "will-promesas-decisiones-ingles",
+  "will-probabilidad-certeza-ingles",
+  "will-preguntas-ingles",
+  "will-ofertas-peticiones-ingles",
+  "will-expresiones-ingles",
 ]);
 
 export function shouldOfferMurphyGrammar(slug?: string | null): boolean {
