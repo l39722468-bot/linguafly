@@ -57,6 +57,35 @@ describe("more amazon books", () => {
     }
   });
 
+  it("maps A2 course units 23–42 to their appropriate affiliate offer", () => {
+    const slugs = [
+      "unidad-23-will-wont-predicciones-promesas",
+      "unidad-24-present-continuous-futuro",
+      "unidad-25-futuro-going-to-will-present-continuous",
+      "unidad-26-first-conditional",
+      "unidad-27-zero-conditional",
+      "unidad-28-have-to-dont-have-to",
+      "unidad-29-could-habilidad-peticiones",
+      "unidad-30-repaso-modulo-3",
+      "unidad-31-phrasal-verbs-introduccion",
+      "unidad-32-phrasal-verbs-separables",
+      "unidad-33-gerunds-infinitives",
+      "unidad-34-subject-object-questions",
+      "unidad-35-some-any-much-many",
+      "unidad-36-articles-a-an-the",
+      "unidad-37-would-like-vs-like",
+      "unidad-38-should-ought-to",
+      "unidad-39-adverbial-phrases",
+      "unidad-40-module-4-review",
+      "unidad-41-travel-transport",
+      "unidad-42-accommodation",
+    ];
+
+    for (const slug of slugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(ESSENTIAL_GRAMMAR_AMAZON_URL);
+    }
+  });
+
   it("maps the next ten advanced grammar articles to Advanced Grammar in Use", () => {
     expect(ADVANCED_GRAMMAR_C1_C2_AMAZON_URL).toBe("https://link.amazon/B0gMB4d16");
     const slugs = [
