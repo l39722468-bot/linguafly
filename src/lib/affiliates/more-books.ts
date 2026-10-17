@@ -7,6 +7,7 @@ export const IELTS_AMAZON_URL = "https://link.amazon/B0h9J7Rhh";
 export const C1_ADVANCED_AMAZON_URL = "https://link.amazon/B087jx513";
 export const LISTENING_CAE_AMAZON_URL = "https://link.amazon/B07IyJOy0";
 export const WORD_FORMATION_CAE_AMAZON_URL = "https://link.amazon/B03zW3NCI";
+export const ADVANCED_GRAMMAR_C1_C2_AMAZON_URL = "https://link.amazon/B0gMB4d16";
 export const IT_COMMUNICATION_AMAZON_URL = "https://link.amazon/B07AQ8MwE";
 export const PROFESSIONAL_EMAILS_AMAZON_URL = "https://link.amazon/B09W8hHz6";
 
@@ -96,6 +97,20 @@ export const WORD_FORMATION_CAE_BOOK: AffiliateBook = {
     "Práctica de word formation para C1 Advanced",
     "Preparación orientada al formato del examen",
     "Complemento para el estudio autónomo",
+  ],
+  tone: "sky",
+};
+
+export const ADVANCED_GRAMMAR_C1_C2_BOOK: AffiliateBook = {
+  id: "advanced-grammar-in-use-c1-c2",
+  url: ADVANCED_GRAMMAR_C1_C2_AMAZON_URL,
+  title: "Advanced Grammar in Use. Fourth edition",
+  eyebrow: "Gramática avanzada C1–C2",
+  description: "Manual de referencia y práctica gramatical para estudiantes avanzados de inglés, con explicaciones y ejercicios de nivel C1–C2.",
+  highlights: [
+    "Nivel avanzado C1–C2",
+    "Explicaciones y ejercicios de gramática",
+    "Para profundizar en estructuras avanzadas",
   ],
   tone: "sky",
 };
@@ -283,6 +298,7 @@ const IELTS_SLUGS = new Set([
   "ielts-vs-toefl-trabajo",
 ]);
 
+const ADVANCED_GRAMMAR_C1_C2_SLUGS = new Set(["ejercicios-condicionales-c1-c2"]);
 const LISTENING_CAE_SLUGS = new Set(["listening-cae-consejos"]);
 const WORD_FORMATION_CAE_SLUGS = new Set(["word-formation-cae"]);
 
@@ -325,6 +341,10 @@ export function shouldOfferAdvancedCollocationsBook(slug?: string | null): boole
 
 export function shouldOfferIeltsBook(slug?: string | null): boolean {
   return hasSlug(IELTS_SLUGS, slug);
+}
+
+export function shouldOfferAdvancedGrammarC1C2(slug?: string | null): boolean {
+  return hasSlug(ADVANCED_GRAMMAR_C1_C2_SLUGS, slug);
 }
 
 export function shouldOfferListeningCaeBook(slug?: string | null): boolean {
