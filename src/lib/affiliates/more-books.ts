@@ -291,11 +291,9 @@ const IELTS_SLUGS = new Set([
   "ielts-speaking-estrategias",
   "ielts-speaking-part-3-preguntas",
   "ielts-vocabulario-academico",
-  "ielts-vs-toefl-diferencias-cual-elegir",
   "ielts-writing-task-1-graficos",
   "ielts-writing-task-2-essay",
   "preparar-ielts-desde-b2",
-  "ielts-vs-toefl-trabajo",
 ]);
 
 const ADVANCED_GRAMMAR_C1_C2_SLUGS = new Set(["ejercicios-condicionales-c1-c2"]);
