@@ -1,7 +1,7 @@
 import type { AffiliateBook } from "@/lib/affiliates/book";
 
-export const B1_PRELIMINARY_AMAZON_URL = "https://link.amazon/B0d3jAJID";
-export const B2_FIRST_TRAINER_AMAZON_URL = "https://link.amazon/B0eoM0d3t";
+export const B1_PRELIMINARY_AMAZON_URL = "https://link.amazon/B0c7dLGlB";
+export const B2_FIRST_TRAINER_AMAZON_URL = "https://link.amazon/B02BFF4UX";
 export const PRONUNCIATION_AMAZON_URL = "https://link.amazon/B0a0PcZh0";
 
 export const B1_PRELIMINARY_BOOK: AffiliateBook = {
