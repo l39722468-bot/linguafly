@@ -1,12 +1,11 @@
 ---
-title: 'IELTS en ordenador en 2026: formato y Writing on Paper'
+title: 'IELTS en ordenador o papel en 2026: diferencias y opciones'
 date: '2026-03-01'
 updatedDate: '2026-10-17'
 author: linguafly-team
 description: >-
-  Desde mediados de 2026, IELTS está pasando del examen clásico en papel al
-  formato en ordenador. Conoce qué cambia, cómo funciona Writing on Paper y
-  cómo comprobar las opciones disponibles en tu país.
+  ¿Qué cambia entre el IELTS en ordenador y el formato en papel? Conoce qué es
+  Writing on Paper y cómo comprobar qué opciones están disponibles en Perú o en tu país antes de reservar.
 category: examenes
 alt: Ordenador portátil y hoja de respuestas manuscrita para el IELTS Writing on Paper
 readTime: 7 min

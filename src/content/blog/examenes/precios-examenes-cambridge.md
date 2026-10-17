@@ -3,10 +3,10 @@ category: examenes
 date: '2026-03-02'
 updatedDate: '2026-09-26'
 author: linguafly-team
-title: 'Precios de los exámenes Cambridge: tasas por nivel'
+title: '¿Cuánto cuesta el examen Cambridge en 2026? Precios por nivel'
 description: >-
-  Consulta las tasas aproximadas de los exámenes Cambridge en 2026, qué cambia
-  según el centro y qué gastos extra conviene prever antes de matricularte.
+  Consulta los precios orientativos de Cambridge B1 Preliminary, B2 First y C1 Advanced
+  en 2026. Compara tasas por nivel, diferencias entre centros y gastos adicionales antes de reservar.
 readTime: 4 min
 excerpt: >-
   Consulta cuánto cuestan el FCE, CAE, CPE y PET en 2026, qué tasas adicionales existen y cómo calcular tu presupuesto.

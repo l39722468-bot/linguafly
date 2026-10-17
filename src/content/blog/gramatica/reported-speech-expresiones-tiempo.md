@@ -1,11 +1,11 @@
 ---
-title: 'Reported Speech: Cambios de Tiempo y Lugar'
+title: 'Reported Speech: Cambios de Tiempo, Lugar y Ejemplos'
 date: '2026-02-10'
 updatedDate: '2026-09-04'
 author: linguafly-team
 description: >-
-  Aprende cómo cambian today, yesterday, tomorrow, now y here en reported speech,
-  con tabla de equivalencias, ejemplos y reglas prácticas.
+  Aprende cómo cambian today, yesterday, tomorrow, now y here en reported speech.
+  Consulta una tabla de equivalencias, ejemplos en inglés y cuándo cambiar cada expresión.
 category: gramatica
 alt: Tabla de expresiones de tiempo en reported speech inglés
 readTime: 6 min
