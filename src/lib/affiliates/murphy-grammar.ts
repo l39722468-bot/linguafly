@@ -43,6 +43,7 @@ const MURPHY_GRAMMAR_SLUGS = new Set([
   "first-conditional-ingles",
   "second-conditional-ingles",
   "third-conditional-ingles",
+  "condicionales-ingles-guia-completa",
   "zero-conditional-ingles",
   "unless-ingles-condicionales",
   "relative-clauses-guia-definitiva",
