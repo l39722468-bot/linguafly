@@ -195,6 +195,7 @@ const ESSENTIAL_GRAMMAR_SLUGS = new Set([
   "unidad-28-have-to-dont-have-to-ejercicios-soluciones",
   "unidad-29-could-habilidad-peticiones",
   "unidad-29-could-habilidad-peticiones-ejercicios-soluciones",
+  "unidad-30-repaso-modulo-3",
   "unidad-3-past-simple-verbos-irregulares",
   "unidad-3-past-simple-verbos-irregulares-ejercicios-soluciones",
   "unidad-31-phrasal-verbs-introduccion",
