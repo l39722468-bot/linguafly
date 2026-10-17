@@ -1,8 +1,7 @@
 ---
-title: 'Voz pasiva en pasado: was/were, ejemplos y ejercicios'
+title: 'Voz pasiva en pasado en inglés: estructura y ejemplos'
 description: >-
-  Forma la voz pasiva en pasado con was o were más participio, mira ejemplos
-  reales y practica los errores habituales de was, were y el participio.
+  Aprende cómo formar la voz pasiva en pasado con was/were + participio. Reglas claras, ejemplos en inglés y ejercicios para practicar.
 readTime: 5 min
 excerpt: >-
   La pasiva en pasado es de las estructuras que más aparecen en textos históricos,
@@ -20,7 +19,7 @@ keywords:
   - cuándo usar pasiva pasado ingles
 author: linguafly-team
 date: '2026-02-08'
-updatedDate: '2026-09-26'
+updatedDate: '2026-10-17'
 alt: Libro de historia abierto con ejemplos de voz pasiva en inglés en pasado
 category: gramatica
 faqs:
