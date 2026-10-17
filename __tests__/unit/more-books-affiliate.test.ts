@@ -11,7 +11,7 @@ describe("more amazon books", () => {
   it("keeps the four affiliate URLs", () => {
     expect(ESSENTIAL_GRAMMAR_AMAZON_URL).toBe("https://link.amazon/B018DZDWS");
     expect(COLLOCATIONS_AMAZON_URL).toBe("https://link.amazon/B0emi5gC7");
-    expect(IELTS_AMAZON_URL).toBe("https://link.amazon/B0fFwIKQp");
+    expect(IELTS_AMAZON_URL).toBe("https://link.amazon/B0h9J7Rhh");
     expect(C1_ADVANCED_AMAZON_URL).toBe("https://link.amazon/B087jx513");
   });
 
@@ -26,6 +26,35 @@ describe("more amazon books", () => {
     expect(affiliateBookForSlug("cambridge-c1-advanced-guia")?.url).toBe(
       C1_ADVANCED_AMAZON_URL,
     );
+  });
+
+  it("maps the next twenty A2 course articles to Essential Grammar in Use", () => {
+    const slugs = [
+      "unidad-2-past-simple-verbos-regulares",
+      "unidad-3-past-simple-verbos-irregulares",
+      "unidad-4-wh-questions-past-simple",
+      "unidad-5-comparativos-er-more-than",
+      "unidad-6-superlativos-est-the-most",
+      "unidad-7-adverbios-modo-ly",
+      "unidad-8-preposiciones-tiempo-at-on-in",
+      "unidad-9-preposiciones-lugar-movimiento",
+      "unidad-10-repaso-modulo-1",
+      "unidad-11-present-perfect-introduccion",
+      "unidad-12-present-perfect-ever-never",
+      "unidad-13-present-perfect-already-yet",
+      "unidad-14-present-perfect-just",
+      "unidad-15-present-perfect-vs-past-simple",
+      "unidad-16-past-continuous",
+      "unidad-17-past-simple-past-continuous",
+      "unidad-18-for-since",
+      "unidad-19-how-questions",
+      "unidad-21-going-to-planes-intenciones",
+      "unidad-22-going-to-predicciones",
+    ];
+
+    for (const slug of slugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(ESSENTIAL_GRAMMAR_AMAZON_URL);
+    }
   });
 
   it("maps the next ten advanced grammar articles to Advanced Grammar in Use", () => {
