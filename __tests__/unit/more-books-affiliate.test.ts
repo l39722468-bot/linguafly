@@ -198,6 +198,50 @@ describe("more amazon books", () => {
     }
   });
 
+  it("maps B1 advice, preferences, necessity, exercise workbooks and exam prep selectively", () => {
+    const grammarSlugs = [
+      "unidad-46-had-better-its-time-advice",
+      "unidad-47-would-rather-preferences",
+      "unidad-49-need-neednt-necessity",
+      "unidad-2-present-perfect-continuous-ejercicios-soluciones",
+      "unidad-3-past-perfect-ejercicios-soluciones",
+      "unidad-4-past-vs-present-perfect-ejercicios-soluciones",
+    ];
+    for (const slug of grammarSlugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe("https://link.amazon/B05erVGD8");
+    }
+
+    expect(affiliateBookForSlug("unidad-48-phrasal-verbs-work-study")?.url).toBe(
+      "https://link.amazon/B05alffpy",
+    );
+    expect(affiliateBookForSlug("unidad-48-phrasal-verbs-work-study-ejercicios-soluciones")?.url).toBe(
+      "https://link.amazon/B05alffpy",
+    );
+    expect(affiliateBookForSlug("unidad-59-exam-preparation-strategies")?.url).toBe(
+      "https://link.amazon/B0c7dLGlB",
+    );
+    expect(affiliateBookForSlug("unidad-59-exam-preparation-strategies-ejercicios-soluciones")?.url).toBe(
+      "https://link.amazon/B0c7dLGlB",
+    );
+
+    for (const slug of [
+      "unidad-45-repaso-41-44",
+      "unidad-50-repaso-46-49",
+      "unidad-51-review-conditionals",
+      "unidad-52-review-passive-reported",
+      "unidad-53-review-modals",
+      "unidad-54-review-tenses",
+      "unidad-55-repaso-51-54",
+      "unidad-56-mixed-grammar-sport",
+      "unidad-57-mixed-grammar-clothes-colours",
+      "unidad-58-mixed-grammar-places",
+      "unidad-60-final-b1-review",
+      "unidad-1-repaso-a2-b1-ejercicios-soluciones",
+    ]) {
+      expect(affiliateBookForSlug(slug)).toBeNull();
+    }
+  });
+
   it("maps the next ten advanced grammar articles to Advanced Grammar in Use", () => {
     expect(ADVANCED_GRAMMAR_C1_C2_AMAZON_URL).toBe("https://link.amazon/B0gMB4d16");
     const slugs = [
