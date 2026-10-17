@@ -71,6 +71,25 @@ describe("murphy grammar affiliate", () => {
     }
   });
 
+  it("maps the next ten grammar and B1 preparation articles to the intermediate grammar affiliate link", () => {
+    const slugs = [
+      "past-simple-usos-reglas",
+      "first-conditional-ingles",
+      "second-conditional-ingles",
+      "third-conditional-ingles",
+      "zero-conditional-ingles",
+      "preparacion-examen-b1-cambridge",
+      "mejores-libros-aprender-ingles",
+      "cursos-online-ingles-b1",
+      "ingles-b2",
+      "condicionales-ingles-guia-completa",
+    ];
+
+    for (const slug of slugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(MURPHY_GRAMMAR_AMAZON_URL);
+    }
+  });
+
   it("does not offer it on pronunciation, beginner or advanced pages", () => {
     expect(shouldOfferMurphyGrammar("pronunciacion-ingles-guia-completa")).toBe(false);
     expect(shouldOfferMurphyGrammar("verbos-modales-ingles-avanzados")).toBe(false);
