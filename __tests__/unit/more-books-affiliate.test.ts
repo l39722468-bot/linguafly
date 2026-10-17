@@ -91,6 +91,42 @@ describe("more amazon books", () => {
     expect(affiliateBookForSlug("unidad-32-phrasal-verbs-separables-ejercicios-soluciones")).toBeNull();
   });
 
+  it("maps remaining A2 exercise workbooks and focused B1 grammar units", () => {
+    const a2WorkbookSlugs = [
+      "unidad-45-entertainment-media-ejercicios-soluciones",
+      "unidad-46-shopping-services-ejercicios-soluciones",
+      "unidad-47-health-body-ejercicios-soluciones",
+      "unidad-48-clothes-fashion-ejercicios-soluciones",
+      "unidad-49-people-relationships-ejercicios-soluciones",
+      "unidad-50-module-5-review-ejercicios-soluciones",
+      "unidad-51-making-suggestions-ejercicios-soluciones",
+      "unidad-52-offers-requests-ejercicios-soluciones",
+      "unidad-53-expressing-opinions-ejercicios-soluciones",
+      "unidad-54-feelings-emotions-ejercicios-soluciones",
+      "unidad-55-the-environment-ejercicios-soluciones",
+      "unidad-56-technology-communication-ejercicios-soluciones",
+      "unidad-57-work-education-ejercicios-soluciones",
+      "unidad-58-places-buildings-ejercicios-soluciones",
+      "unidad-59-linking-words-ejercicios-soluciones",
+      "unidad-60-module-6-review-ejercicios-soluciones",
+    ];
+
+    for (const slug of a2WorkbookSlugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(ESSENTIAL_GRAMMAR_AMAZON_URL);
+    }
+
+    // A2→B1 is a broad review, so do not force a commercial recommendation.
+    expect(affiliateBookForSlug("unidad-1-repaso-a2-b1")).toBeNull();
+
+    for (const slug of [
+      "unidad-2-present-perfect-continuous",
+      "unidad-3-past-perfect",
+      "unidad-4-past-vs-present-perfect",
+    ]) {
+      expect(affiliateBookForSlug(slug)?.url).toBe("https://link.amazon/B05erVGD8");
+    }
+  });
+
   it("maps the next ten advanced grammar articles to Advanced Grammar in Use", () => {
     expect(ADVANCED_GRAMMAR_C1_C2_AMAZON_URL).toBe("https://link.amazon/B0gMB4d16");
     const slugs = [
