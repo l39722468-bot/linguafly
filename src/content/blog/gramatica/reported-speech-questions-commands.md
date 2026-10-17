@@ -1,12 +1,11 @@
 ---
 category: gramatica
 date: '2026-03-02'
-updatedDate: '2026-09-26'
+updatedDate: '2026-10-17'
 author: linguafly-team
-title: 'Reported speech: preguntas y órdenes en inglés'
+title: 'Reported Speech: preguntas, órdenes y peticiones en inglés'
 description: >-
-  Aprende a pasar preguntas y órdenes al reported speech con if, whether, ask
-  y tell, ejemplos y los errores que más cometen los hispanohablantes.
+  Aprende a transformar preguntas, órdenes y peticiones al reported speech. Ejemplos con ask, tell, if y whether, más errores frecuentes.
 readTime: 4 min
 keywords:
   - 'Reported Speech: Preguntas, Órdenes y Peticiones'

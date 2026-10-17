@@ -1,8 +1,7 @@
 ---
-title: 'Essay del CAE: Estructura, Conectores y Ejemplos'
+title: 'Essay del C1 Advanced (CAE): estructura, ejemplo y conectores'
 description: >-
-  Aprende a escribir el essay del C1 Advanced con estructura, conectores,
-  vocabulario, ejemplos de argumentos y consejos para subir nota.
+  Prepara el essay del C1 Advanced con estructura, conectores y vocabulario útil. Repasa el límite de palabras y aprende a organizar argumentos para el examen.
 
 readTime: 8 min
 excerpt: "Aprende la estructura del essay del CAE, conectores y vocabulario que buscan los examinadores, con ejemplos y consejos para subir nota."
@@ -19,7 +18,7 @@ keywords:
   - Essay del CAE España
 author: linguafly-team
 date: '2026-03-19'
-updatedDate: '2026-09-04'
+updatedDate: '2026-10-17'
 category: examenes
 faqs:
   - question: "¿Cuántos puntos del enunciado tengo que tratar en el essay del CAE?"
