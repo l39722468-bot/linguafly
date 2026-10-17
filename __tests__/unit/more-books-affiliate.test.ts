@@ -1,6 +1,7 @@
 import { affiliateBookForSlug } from "@/lib/affiliates/for-article";
 import {
   C1_ADVANCED_AMAZON_URL,
+  ADVANCED_GRAMMAR_C1_C2_AMAZON_URL,
   COLLOCATIONS_AMAZON_URL,
   ESSENTIAL_GRAMMAR_AMAZON_URL,
   IELTS_AMAZON_URL,
@@ -25,6 +26,26 @@ describe("more amazon books", () => {
     expect(affiliateBookForSlug("cambridge-c1-advanced-guia")?.url).toBe(
       C1_ADVANCED_AMAZON_URL,
     );
+  });
+
+  it("maps the next ten advanced grammar articles to Advanced Grammar in Use", () => {
+    expect(ADVANCED_GRAMMAR_C1_C2_AMAZON_URL).toBe("https://link.amazon/B0gMB4d16");
+    const slugs = [
+      "passive-reporting-verbs-guia-avanzada",
+      "reporting-verbs-patterns-list",
+      "inversiones-ingles-c1",
+      "unidad-13-participle-clauses-viajes",
+      "unidad-14-subjuntivo-gastronomia",
+      "unidad-65-language-lab-condicionales-avanzados",
+      "unidad-66-language-lab-subjuntivo-mandativo",
+      "unidad-67-language-lab-inversion-enfasis",
+      "condicionales-ingles-mixtos-avanzados",
+      "ejercicios-condicionales-ingles-c1",
+    ];
+
+    for (const slug of slugs) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(ADVANCED_GRAMMAR_C1_C2_AMAZON_URL);
+    }
   });
 
   it("does not replace books already on other pages", () => {
