@@ -17,6 +17,10 @@ describe("more amazon books", () => {
     expect(COLLOCATIONS_AMAZON_URL).toBe("https://link.amazon/B0emi5gC7");
     expect(IELTS_AMAZON_URL).toBe("https://link.amazon/B0h9J7Rhh");
     expect(C1_ADVANCED_AMAZON_URL).toBe("https://link.amazon/B087jx513");
+    expect(CAMBRIDGE_ESSENTIAL_DICTIONARY_AMAZON_URL).toBe("https://link.amazon/B07Ubkp9c");
+    expect(OXFORD_PICTURE_DICTIONARY_AMAZON_URL).toBe("https://link.amazon/B0bV6SmUF");
+    expect(IELTS_VOCABULARY_AMAZON_URL).toBe("https://link.amazon/B04VKlypc");
+    expect(ENGLISH_VOCABULARY_IN_USE_B1_AMAZON_URL).toBe("https://link.amazon/B093v6IMv");
   });
 
   it("maps each book to its articles", () => {
