@@ -303,7 +303,15 @@ function hasSlug(set: Set<string>, slug?: string | null): boolean {
   return set.has((slug ?? "").trim().toLowerCase());
 }
 
-export function shouldOfferItCommunication(slug?: string | null): boolean {\n  return hasSlug(IT_COMMUNICATION_SLUGS, slug);\n}\n\nexport function shouldOfferProfessionalEmails(slug?: string | null): boolean {\n  return hasSlug(PROFESSIONAL_EMAILS_SLUGS, slug);\n}\n\nexport function shouldOfferEssentialGrammar(slug?: string | null): boolean {
+export function shouldOfferItCommunication(slug?: string | null): boolean {
+  return hasSlug(IT_COMMUNICATION_SLUGS, slug);
+}
+
+export function shouldOfferProfessionalEmails(slug?: string | null): boolean {
+  return hasSlug(PROFESSIONAL_EMAILS_SLUGS, slug);
+}
+
+export function shouldOfferEssentialGrammar(slug?: string | null): boolean {
   return hasSlug(ESSENTIAL_GRAMMAR_SLUGS, slug);
 }
 
