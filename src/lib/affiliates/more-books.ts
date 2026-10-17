@@ -283,14 +283,11 @@ const PROFESSIONAL_EMAILS_SLUGS = new Set(["plantillas-emails-profesionales-ingl
 
 
 const IELTS_SLUGS = new Set([
-  "ielts-computer-vs-papel",
-  "ielts-dia-del-examen",
   "ielts-general-training-guia",
   "ielts-listening-estrategias",
   "ielts-reading-trucos",
   "ielts-speaking-estrategias",
   "ielts-speaking-part-3-preguntas",
-  "ielts-vocabulario-academico",
   "ielts-writing-task-1-graficos",
   "ielts-writing-task-2-essay",
   "preparar-ielts-desde-b2",
