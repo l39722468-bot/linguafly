@@ -362,3 +362,81 @@ export function shouldOfferWordFormationCaeBook(slug?: string | null): boolean {
 export function shouldOfferC1AdvancedBook(slug?: string | null): boolean {
   return hasSlug(C1_ADVANCED_SLUGS, slug);
 }
+
+
+/** Productos complementarios específicos seleccionados tras la revisión editorial. */
+export const CAMBRIDGE_ESSENTIAL_DICTIONARY_AMAZON_URL = "https://link.amazon/B07Ubkp9c";
+export const OXFORD_PICTURE_DICTIONARY_AMAZON_URL = "https://link.amazon/B0bV6SmUF";
+export const IELTS_VOCABULARY_AMAZON_URL = "https://link.amazon/B04VKlypc";
+export const ENGLISH_VOCABULARY_IN_USE_B1_AMAZON_URL = "https://link.amazon/B093v6IMv";
+
+export const CAMBRIDGE_ESSENTIAL_DICTIONARY_BOOK: AffiliateBook = {
+  id: "cambridge-essential-english-dictionary",
+  url: CAMBRIDGE_ESSENTIAL_DICTIONARY_AMAZON_URL,
+  title: "Cambridge Essential English Dictionary",
+  eyebrow: "Diccionario de inglés A2",
+  description: "Diccionario para estudiantes de nivel inicial e intermedio bajo, útil para consultar significado, uso y vocabulario en contexto, incluidos phrasal verbs.",
+  highlights: ["Orientado a estudiantes de inglés", "Apoyo de vocabulario para nivel A2", "Complemento para estudiar phrasal verbs en contexto"],
+  tone: "sky",
+};
+
+export const OXFORD_PICTURE_DICTIONARY_BOOK: AffiliateBook = {
+  id: "oxford-picture-dictionary-english-spanish",
+  url: OXFORD_PICTURE_DICTIONARY_AMAZON_URL,
+  title: "Oxford Picture Dictionary, 3rd edition (English/Spanish)",
+  eyebrow: "Vocabulario visual por temas",
+  description: "Diccionario visual bilingüe para aprender y repasar vocabulario temático, como lugares, comunidad, ropa y actividades.",
+  highlights: ["Vocabulario presentado mediante imágenes", "Edición English/Spanish", "Recurso complementario para temas concretos"],
+  tone: "emerald",
+};
+
+export const IELTS_VOCABULARY_BOOK: AffiliateBook = {
+  id: "ielts-vocabulary-bands-65-plus",
+  url: IELTS_VOCABULARY_AMAZON_URL,
+  title: "IELTS Vocabulary for Bands 6.5 and above",
+  eyebrow: "Vocabulario académico IELTS",
+  description: "Recurso específico para ampliar y practicar vocabulario orientado a IELTS, adecuado como complemento de una guía de vocabulario académico.",
+  highlights: ["Enfoque específico en vocabulario para IELTS", "Práctica para objetivos de banda 6.5 o superior", "Complemento de la preparación general del examen"],
+  tone: "amber",
+};
+
+export const ENGLISH_VOCABULARY_IN_USE_B1_BOOK: AffiliateBook = {
+  id: "english-vocabulary-in-use-pre-intermediate-intermediate",
+  url: ENGLISH_VOCABULARY_IN_USE_B1_AMAZON_URL,
+  title: "English Vocabulary in Use: Pre-intermediate and Intermediate",
+  eyebrow: "Vocabulario B1",
+  description: "Manual de autoestudio para aprender vocabulario por temas con explicaciones y ejercicios, apropiado como apoyo de una unidad sobre adjetivos compuestos y viajes.",
+  highlights: ["Nivel pre-intermediate e intermediate", "Vocabulario organizado por temas", "Ejercicios para consolidar palabras y expresiones"],
+  tone: "emerald",
+};
+
+const CAMBRIDGE_ESSENTIAL_DICTIONARY_SLUGS = new Set([
+  "unidad-31-phrasal-verbs-introduccion",
+  "unidad-31-phrasal-verbs-introduccion-ejercicios-soluciones",
+  "unidad-32-phrasal-verbs-separables",
+  "unidad-32-phrasal-verbs-separables-ejercicios-soluciones",
+]);
+const OXFORD_PICTURE_DICTIONARY_SLUGS = new Set([
+  "unidad-11-lugares-ciudad-ejercicios-soluciones",
+  "unidad-56-mixed-grammar-sport",
+  "unidad-56-mixed-grammar-sport-ejercicios-soluciones",
+  "unidad-57-mixed-grammar-clothes-colours",
+  "unidad-57-mixed-grammar-clothes-colours-ejercicios-soluciones",
+  "unidad-58-mixed-grammar-places",
+  "unidad-58-mixed-grammar-places-ejercicios-soluciones",
+]);
+const IELTS_VOCABULARY_SLUGS = new Set(["ielts-vocabulario-academico"]);
+const ENGLISH_VOCABULARY_IN_USE_B1_SLUGS = new Set(["unidad-37-compound-adjectives-travel"]);
+
+export function shouldOfferCambridgeEssentialDictionary(slug?: string | null): boolean {
+  return hasSlug(CAMBRIDGE_ESSENTIAL_DICTIONARY_SLUGS, slug);
+}
+export function shouldOfferOxfordPictureDictionary(slug?: string | null): boolean {
+  return hasSlug(OXFORD_PICTURE_DICTIONARY_SLUGS, slug);
+}
+export function shouldOfferIeltsVocabularyBook(slug?: string | null): boolean {
+  return hasSlug(IELTS_VOCABULARY_SLUGS, slug);
+}
+export function shouldOfferEnglishVocabularyInUseB1(slug?: string | null): boolean {
+  return hasSlug(ENGLISH_VOCABULARY_IN_USE_B1_SLUGS, slug);
+}
