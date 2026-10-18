@@ -194,7 +194,7 @@ La no ficción tiene la ventaja de que trata temas que te interesan y usa vocabu
 
 ## ✅ Resumen: ¿Por Dónde Empezar?
 
-1. **A1-B1**: Compra <a href="https://link.amazon/B018DZDWS" target="_blank" rel="sponsored noopener noreferrer">Essential Grammar in Use</a> o <a href="https://link.amazon/B05erVGD8" target="_blank" rel="sponsored noopener noreferrer">English Grammar in Use</a> según tu nivel y empieza con <a href="https://link.amazon/B0hrarzH0" target="_blank" rel="sponsored noopener noreferrer">lecturas graduadas Stage 1–3</a>.
+1. **A1-B1**: Compra <a href="https://link.amazon/B018DZDWS" target="_blank" rel="sponsored noopener noreferrer">Essential Grammar in Use</a> o <a href="https://link.amazon/B05erVGD8" target="_blank" rel="sponsored noopener noreferrer">English Grammar in Use</a> según tu nivel y empieza con <a href="https://link.amazon/B0bQez4rY" target="_blank" rel="sponsored noopener noreferrer">lecturas graduadas Stage 1–3</a>.
 2. **B2**: <a href="https://link.amazon/B05erVGD8" target="_blank" rel="sponsored noopener noreferrer">English Grammar in Use</a> como referencia, <a href="https://link.amazon/B04ES" target="_blank" rel="sponsored noopener noreferrer">English Vocabulary in Use Upper-Intermediate</a> y una novela en inglés como <a href="https://link.amazon/B0jb0YH02" target="_blank" rel="sponsored noopener noreferrer">The Great Gatsby</a>.
 3. **C1+**: <a href="https://link.amazon/B0f0V7Fl0" target="_blank" rel="sponsored noopener noreferrer">Practical English Usage</a> y lectura extensiva de no ficción como <a href="https://link.amazon/B03tw8sFL" target="_blank" rel="sponsored noopener noreferrer">Atomic Habits</a>.
 
