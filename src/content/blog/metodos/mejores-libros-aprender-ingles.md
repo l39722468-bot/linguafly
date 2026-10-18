@@ -111,13 +111,13 @@ Las lecturas graduadas son versiones adaptadas de libros clásicos o historias o
 - **Oxford Bookworms Stage 1: [The Elephant Man](https://link.amazon/B08EL7KIW)**: lectura adaptada para empezar en nivel inicial.
 - **Oxford Bookworms Stage 2: [The Canterville Ghost](https://link.amazon/B0bBR8nI2)**: una opción para continuar cuando ya tienes una base.
 - **[Short Stories in English for Beginners — Olly Richards](https://link.amazon/B043oS3jw)**: relatos para practicar lectura y vocabulario en contexto.
-- [Penguin Readers Level 1-2](https://www.amazon.co.uk/s?k=Penguin+Readers+Level+1+2)
+
 
 ### Para B1 (Intermedio)
 
 - **Oxford Bookworms Stage 3: [Animal Farm](https://link.amazon/B0c7kh8dn)**: lectura adaptada para nivel intermedio.
 - **[Short Stories in English for Intermediate Learners — Olly Richards](https://link.amazon/B0bq0Rp4b)**: relatos para desarrollar comprensión y vocabulario en un nivel intermedio.
-- [Macmillan Readers Intermediate](https://www.amazon.co.uk/s?k=Macmillan+Readers+Intermediate+English)
+
 
 ### Para B2 (Intermedio-Alto)
 
