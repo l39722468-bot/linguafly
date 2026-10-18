@@ -108,22 +108,16 @@ Las lecturas graduadas son versiones adaptadas de libros clásicos o historias o
 
 ### Para A1-A2 (Principiante)
 
-- **Oxford Bookworms Stage 1-2**: Cuentos clásicos adaptados con 400-700 palabras de vocabulario
-- **Penguin Readers Level 1-2**: Adaptaciones de historias populares
-
-Recomendaciones concretas:
-- *The Wizard of Oz* (Stage 1)
-- *Sherlock Holmes: A Study in Scarlet* (Stage 2, adaptado)
+- **Oxford Bookworms Stage 1: [The Elephant Man](https://link.amazon/B08EL7KIW)**: lectura adaptada para empezar en nivel inicial.
+- **Oxford Bookworms Stage 2: [The Canterville Ghost](https://link.amazon/B0bBR8nI2)**: una opción para continuar cuando ya tienes una base.
+- **[Short Stories in English for Beginners — Olly Richards](https://link.amazon/B043oS3jw)**: relatos para practicar lectura y vocabulario en contexto.
+- [Penguin Readers Level 1-2](https://www.amazon.co.uk/s?k=Penguin+Readers+Level+1+2)
 
 ### Para B1 (Intermedio)
 
-- **Oxford Bookworms Stage 3-4**
-- **Macmillan Readers Intermediate**
-
-Recomendaciones:
-- *The Prisoner of Zenda* (Buchan, Stage 3)
-- *Much Ado About Nothing* (Shakespeare adaptado, Stage 3)
-- *The Moonstone* (Collins, Stage 4)
+- **Oxford Bookworms Stage 3: [Animal Farm](https://link.amazon/B0c7kh8dn)**: lectura adaptada para nivel intermedio.
+- **[Short Stories in English for Intermediate Learners — Olly Richards](https://link.amazon/B0bq0Rp4b)**: relatos para desarrollar comprensión y vocabulario en un nivel intermedio.
+- [Macmillan Readers Intermediate](https://www.amazon.co.uk/s?k=Macmillan+Readers+Intermediate+English)
 
 ### Para B2 (Intermedio-Alto)
 
