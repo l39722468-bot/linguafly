@@ -331,4 +331,24 @@ describe("more amazon books", () => {
     );
     expect(affiliateBookForSlug("unidad-20-repaso-modulo-2")).toBeNull();
   });
+
+  it("maps additional practical English articles to a context-relevant book", () => {
+    for (const slug of [
+      "diferencia-say-tell-speak-talk",
+      "errores-comunes-ingles-hispanohablantes",
+      "errores-frecuentes-ingles-b2",
+      "expresiones-idiomaticas-ingles",
+      "frases-ingles-conversacion",
+      "ingles-para-trabajo-entrevistas",
+      "modales-ingles-guia-completa",
+      "preposiciones-ingles-guia-completa",
+      "reported-speech-guia-completa",
+      "verbos-irregulares-ingles-lista-completa",
+    ]) {
+      expect(affiliateBookForSlug(slug)?.url).toBe("https://link.amazon/B09W8hHz6");
+    }
+    expect(affiliateBookForSlug("mejores-libros-aprender-ingles")).toBeNull();
+    expect(affiliateBookForSlug("mejores-canales-youtube-aprender-ingles")).toBeNull();
+  });
+
 });
