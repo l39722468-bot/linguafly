@@ -340,7 +340,11 @@ describe("more amazon books", () => {
       "liderar-reuniones-ingles-frases",
       "ingles-para-trabajar-en-inteligencia-artificial",
     ]) {
-      expect(affiliateBookForSlug(slug)?.url).toBe("https://link.amazon/B09W8hHz6");
+      expect(affiliateBookForSlug(slug)?.url).toBe(
+        slug === "cv-ingles-tecnologia-it" || slug === "ingles-para-trabajar-en-inteligencia-artificial"
+          ? "https://link.amazon/B07AQ8MwE"
+          : "https://link.amazon/B09W8hHz6",
+      );
     }
     expect(affiliateBookForSlug("mejores-libros-aprender-ingles")).toBeNull();
     expect(affiliateBookForSlug("mejores-canales-youtube-aprender-ingles")).toBeNull();
