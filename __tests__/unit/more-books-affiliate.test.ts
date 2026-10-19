@@ -331,4 +331,23 @@ describe("more amazon books", () => {
     );
     expect(affiliateBookForSlug("unidad-20-repaso-modulo-2")).toBeNull();
   });
+
+  it("maps additional practical English articles to a context-relevant book", () => {
+    for (const slug of [
+      "cv-ingles-tecnologia-it",
+      "plantillas-emails-profesionales-ingles",
+      "email-formal-ingles-estructura",
+      "liderar-reuniones-ingles-frases",
+      "ingles-para-trabajar-en-inteligencia-artificial",
+    ]) {
+      expect(affiliateBookForSlug(slug)?.url).toBe(
+        slug === "cv-ingles-tecnologia-it" || slug === "ingles-para-trabajar-en-inteligencia-artificial"
+          ? "https://link.amazon/B07AQ8MwE"
+          : "https://link.amazon/B09W8hHz6",
+      );
+    }
+    expect(affiliateBookForSlug("mejores-libros-aprender-ingles")).toBeNull();
+    expect(affiliateBookForSlug("mejores-canales-youtube-aprender-ingles")).toBeNull();
+  });
+
 });

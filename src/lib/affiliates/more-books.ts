@@ -276,7 +276,11 @@ const COLLOCATION_SLUGS = new Set([
 
 const ADVANCED_COLLOCATION_SLUGS = new Set(["collocations-ingles-c1"]);
 const IT_COMMUNICATION_SLUGS = new Set(["cv-ingles-tecnologia-it"]);
-const PROFESSIONAL_EMAILS_SLUGS = new Set(["plantillas-emails-profesionales-ingles"]);
+const PROFESSIONAL_EMAILS_SLUGS = new Set([
+  "plantillas-emails-profesionales-ingles",
+  "email-formal-ingles-estructura",
+  "liderar-reuniones-ingles-frases",
+]);
 
 
 const IELTS_SLUGS = new Set([
@@ -427,6 +431,20 @@ const OXFORD_PICTURE_DICTIONARY_SLUGS = new Set([
 ]);
 const IELTS_VOCABULARY_SLUGS = new Set(["ielts-vocabulario-academico"]);
 const ENGLISH_VOCABULARY_IN_USE_B1_SLUGS = new Set(["unidad-37-compound-adjectives-travel"]);
+
+// Additional evergreen articles identified in the October 2026 affiliate URL sweep.
+const PRACTICAL_USAGE_SLUGS = new Set([
+  "cv-ingles-tecnologia-it",
+  "plantillas-emails-profesionales-ingles",
+  "email-formal-ingles-estructura",
+  "liderar-reuniones-ingles-frases",
+  "ingles-para-trabajar-en-inteligencia-artificial",
+]);
+
+export function shouldOfferPracticalUsageBook(slug?: string | null): boolean {
+  return hasSlug(PRACTICAL_USAGE_SLUGS, slug);
+}
+
 
 export function shouldOfferCambridgeEssentialDictionary(slug?: string | null): boolean {
   return hasSlug(CAMBRIDGE_ESSENTIAL_DICTIONARY_SLUGS, slug);
