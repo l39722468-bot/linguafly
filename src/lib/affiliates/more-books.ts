@@ -430,16 +430,11 @@ const ENGLISH_VOCABULARY_IN_USE_B1_SLUGS = new Set(["unidad-37-compound-adjectiv
 
 // Additional evergreen articles identified in the October 2026 affiliate URL sweep.
 const PRACTICAL_USAGE_SLUGS = new Set([
-  "diferencia-say-tell-speak-talk",
-  "errores-comunes-ingles-hispanohablantes",
-  "errores-frecuentes-ingles-b2",
-  "expresiones-idiomaticas-ingles",
-  "frases-ingles-conversacion",
-  "ingles-para-trabajo-entrevistas",
-  "modales-ingles-guia-completa",
-  "preposiciones-ingles-guia-completa",
-  "reported-speech-guia-completa",
-  "verbos-irregulares-ingles-lista-completa",
+  "cv-ingles-tecnologia-it",
+  "plantillas-emails-profesionales-ingles",
+  "email-formal-ingles-estructura",
+  "liderar-reuniones-ingles-frases",
+  "ingles-para-trabajar-en-inteligencia-artificial",
 ]);
 
 export function shouldOfferPracticalUsageBook(slug?: string | null): boolean {
