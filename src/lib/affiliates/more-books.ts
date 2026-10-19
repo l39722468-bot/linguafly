@@ -428,6 +428,25 @@ const OXFORD_PICTURE_DICTIONARY_SLUGS = new Set([
 const IELTS_VOCABULARY_SLUGS = new Set(["ielts-vocabulario-academico"]);
 const ENGLISH_VOCABULARY_IN_USE_B1_SLUGS = new Set(["unidad-37-compound-adjectives-travel"]);
 
+// Additional evergreen articles identified in the October 2026 affiliate URL sweep.
+const PRACTICAL_USAGE_SLUGS = new Set([
+  "diferencia-say-tell-speak-talk",
+  "errores-comunes-ingles-hispanohablantes",
+  "errores-frecuentes-ingles-b2",
+  "expresiones-idiomaticas-ingles",
+  "frases-ingles-conversacion",
+  "ingles-para-trabajo-entrevistas",
+  "modales-ingles-guia-completa",
+  "preposiciones-ingles-guia-completa",
+  "reported-speech-guia-completa",
+  "verbos-irregulares-ingles-lista-completa",
+]);
+
+export function shouldOfferPracticalUsageBook(slug?: string | null): boolean {
+  return hasSlug(PRACTICAL_USAGE_SLUGS, slug);
+}
+
+
 export function shouldOfferCambridgeEssentialDictionary(slug?: string | null): boolean {
   return hasSlug(CAMBRIDGE_ESSENTIAL_DICTIONARY_SLUGS, slug);
 }
