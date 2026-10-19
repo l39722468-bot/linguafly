@@ -260,6 +260,45 @@ describe("more amazon books", () => {
     }
   });
 
+
+  it("maps B1 exercise workbooks units 5–24 selectively", () => {
+    const grammarWorkbooks = [
+      "unidad-6-future-will-going-to-ejercicios-soluciones",
+      "unidad-7-was-were-going-to-ejercicios-soluciones",
+      "unidad-8-modals-deduction-ejercicios-soluciones",
+      "unidad-9-used-to-be-get-used-to-ejercicios-soluciones",
+      "unidad-11-first-conditional-weather-ejercicios-soluciones",
+      "unidad-12-second-conditional-ejercicios-soluciones",
+      "unidad-13-first-vs-second-conditional-ejercicios-soluciones",
+      "unidad-14-third-conditional-ejercicios-soluciones",
+      "unidad-16-passive-voice-technology-ejercicios-soluciones",
+      "unidad-17-modal-passive-work-ejercicios-soluciones",
+      "unidad-18-reported-speech-statements-ejercicios-soluciones",
+      "unidad-19-reported-speech-questions-ejercicios-soluciones",
+      "unidad-21-gerund-infinitive-hobbies-ejercicios-soluciones",
+      "unidad-22-gerund-infinitive-house-ejercicios-soluciones",
+    ];
+    for (const slug of grammarWorkbooks) {
+      expect(affiliateBookForSlug(slug)?.url).toBe("https://link.amazon/B05erVGD8");
+    }
+
+    for (const slug of [
+      "unidad-5-repaso-1-4-ejercicios-soluciones",
+      "unidad-10-repaso-6-9-ejercicios-soluciones",
+      "unidad-15-repaso-11-14-ejercicios-soluciones",
+      "unidad-20-repaso-16-19-ejercicios-soluciones",
+    ]) {
+      expect(affiliateBookForSlug(slug)).toBeNull();
+    }
+
+    expect(affiliateBookForSlug("unidad-23-phrasal-verbs-daily-ejercicios-soluciones")?.url).toBe(
+      "https://link.amazon/B05alffpy",
+    );
+    expect(affiliateBookForSlug("unidad-24-phrasal-verbs-shopping-ejercicios-soluciones")?.url).toBe(
+      "https://link.amazon/B05alffpy",
+    );
+  });
+
   it("maps the next ten advanced grammar articles to Advanced Grammar in Use", () => {
     expect(ADVANCED_GRAMMAR_C1_C2_AMAZON_URL).toBe("https://link.amazon/B0gMB4d16");
     const slugs = [
