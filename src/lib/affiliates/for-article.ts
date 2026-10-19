@@ -50,6 +50,7 @@ import {
   shouldOfferOxfordPictureDictionary,
   shouldOfferIeltsVocabularyBook,
   shouldOfferEnglishVocabularyInUseB1,
+  shouldOfferPracticalUsageBook,
 } from "@/lib/affiliates/more-books";
 
 const APTIS_BOOK: AffiliateBook = {
@@ -71,6 +72,7 @@ const APTIS_BOOK: AffiliateBook = {
 export function affiliateBookForSlug(slug?: string | null): AffiliateBook | null {
   if (shouldOfferAptisBook({ slug })) return APTIS_BOOK;
   if (shouldOfferItCommunication(slug)) return IT_COMMUNICATION_BOOK;
+  if (shouldOfferPracticalUsageBook(slug)) return PROFESSIONAL_EMAILS_BOOK;
   if (shouldOfferProfessionalEmails(slug)) return PROFESSIONAL_EMAILS_BOOK;
   if (shouldOfferAdvancedGrammarC1C2(slug)) return ADVANCED_GRAMMAR_C1_C2_BOOK;
   if (shouldOfferCambridgeEssentialDictionary(slug)) return CAMBRIDGE_ESSENTIAL_DICTIONARY_BOOK;
