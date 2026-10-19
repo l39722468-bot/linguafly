@@ -276,7 +276,11 @@ const COLLOCATION_SLUGS = new Set([
 
 const ADVANCED_COLLOCATION_SLUGS = new Set(["collocations-ingles-c1"]);
 const IT_COMMUNICATION_SLUGS = new Set(["cv-ingles-tecnologia-it"]);
-const PROFESSIONAL_EMAILS_SLUGS = new Set(["plantillas-emails-profesionales-ingles"]);
+const PROFESSIONAL_EMAILS_SLUGS = new Set([
+  "plantillas-emails-profesionales-ingles",
+  "email-formal-ingles-estructura",
+  "liderar-reuniones-ingles-frases",
+]);
 
 
 const IELTS_SLUGS = new Set([
