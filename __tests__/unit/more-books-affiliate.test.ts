@@ -334,16 +334,11 @@ describe("more amazon books", () => {
 
   it("maps additional practical English articles to a context-relevant book", () => {
     for (const slug of [
-      "diferencia-say-tell-speak-talk",
-      "errores-comunes-ingles-hispanohablantes",
-      "errores-frecuentes-ingles-b2",
-      "expresiones-idiomaticas-ingles",
-      "frases-ingles-conversacion",
-      "ingles-para-trabajo-entrevistas",
-      "modales-ingles-guia-completa",
-      "preposiciones-ingles-guia-completa",
-      "reported-speech-guia-completa",
-      "verbos-irregulares-ingles-lista-completa",
+      "cv-ingles-tecnologia-it",
+      "plantillas-emails-profesionales-ingles",
+      "email-formal-ingles-estructura",
+      "liderar-reuniones-ingles-frases",
+      "ingles-para-trabajar-en-inteligencia-artificial",
     ]) {
       expect(affiliateBookForSlug(slug)?.url).toBe("https://link.amazon/B09W8hHz6");
     }
