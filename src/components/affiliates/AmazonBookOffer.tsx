@@ -79,11 +79,6 @@ export function AmazonBookOffer({ book, variant = "full" }: AmazonBookOfferProps
             Comprar en Amazon
             <ExternalLink className="h-4 w-4" aria-hidden />
           </a>
-          <p className="mt-3 text-xs leading-relaxed text-slate-500">
-            Enlace de afiliado. Como afiliado de Amazon, Linguafly obtiene
-            ingresos por las compras que cumplen los requisitos, sin coste
-            adicional para ti. El precio y la disponibilidad los marca Amazon.
-          </p>
         </div>
       </div>
     </aside>
