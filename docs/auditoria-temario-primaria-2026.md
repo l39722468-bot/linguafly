@@ -18,8 +18,8 @@ La relación ministerial consultada fue actualizada el 1 de junio de 2026. Antes
 | La Rioja | https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-3117 | Convocatoria 2026 identificada. Pendiente verificar texto íntegro autonómico, temario y correcciones; no inferir adaptaciones temáticas no confirmadas. |
 | Comunidad de Madrid | https://www.comunidad.madrid/educacion/documentacion-procesos-selectivos-oposiciones-2026-maestros | La convocatoria indica la Orden ECI/592/2007 para Primaria. La programación debe referirse al currículo madrileño vigente al finalizar el plazo de solicitudes. Se han publicado correcciones de convocatoria en mayo y junio de 2026; revisar también anexos posteriores. |
 | Región de Murcia | https://sede.carm.es/web/pagina?IDCONTENIDO=843&IDTIPO=240 | La convocatoria confirma Orden ECI/592/2007 y especifica: tema 7 = Ciencias de la Naturaleza y Ciencias Sociales; tema 11 integrado con el currículo vigente en ciudadanía y derechos humanos; tema 12 = Educación Plástica y Visual. |
-| Comunitat Valenciana | https://ceice.gva.es/ | La relación ministerial identifica convocatoria 2026 derivada de Orden 26/2025. Pendiente comprobar resolución, modificaciones y currículo oficial aplicable a Primaria antes de hacer afirmaciones específicas. |
-| Navarra | https://appseducacion.navarra.es/oposiciones/inicio.faces | La relación ministerial identifica Resolución 208/2025 para el procedimiento 2026. Revisar texto completo, correcciones y currículo foral antes de concretar adaptaciones. |
+| Comunitat Valenciana | https://sede.gva.es/es/detall-ocupacio-publica?id_emp=107740 | La ficha oficial confirma el proceso de Maestros 2026. Una corrección publicada en enero de 2026 aclara que la programación de aula debe referirse al currículo y normativa vigentes en el curso 2025/2026 y corrige la referencia al anexo II. La corrección de abril localizada en fuente secundaria afecta a prueba práctica, no prueba un cambio del temario; verificar el DOGV antes de citarla como fuente primaria. |
+| Navarra | https://www.navarra.es/es/tramites/on/-/line/maestros-concurso-oposicion-2026 | La página oficial del proceso 2026 incluye una circular informativa sobre el área citada en el tema 11. La circular ministerial difundida en febrero aclara que la mención antigua a Educación para la Ciudadanía y los Derechos Humanos debe entenderse como Educación en Valores Cívicos y Éticos; es una actualización nominal general, no un temario nuevo. Revisar el PDF de la circular desde la ficha oficial antes de redactar una adaptación navarra adicional. |
 
 ## Administraciones que no figuran como convocatoria de ingreso 2026 en la relación ministerial consultada
 
@@ -30,6 +30,7 @@ Fuente general ministerial: https://www.educacionfpydeportes.gob.es/mc/redie-eur
 ## Adaptaciones confirmadas en esta revisión
 
 - Aragón: tema 7 en Ciencias Sociales y Ciencias Naturales; tema 11 en Valores Sociales y Cívicos.
+- Navarra y Asturias difundieron la circular ministerial de actualización nominal del tema 11: Educación para la Ciudadanía y los Derechos Humanos debe entenderse como Educación en Valores Cívicos y Éticos. La circular aclara que es una actualización nominal, no una reforma íntegra del temario.
 - Murcia: tema 7 entendido como Ciencias de la Naturaleza y Ciencias Sociales; tema 11 con integración transversal del currículo autonómico vigente sobre ciudadanía y derechos humanos; tema 12 entendido como Educación Plástica y Visual.
 - Castilla-La Mancha y Madrid: la normativa curricular autonómica vigente forma parte de la preparación; no equivale a una sustitución automática del índice nacional de 25 temas.
 
