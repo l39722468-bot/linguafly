@@ -112,7 +112,7 @@ export default function TemaUnoTestPage() {
           </div>
         </form>
 
-        <p className="mt-8 text-sm leading-6 text-slate-500">Preguntas originales de autoevaluación para repasar conceptos generales. Este test no es oficial ni reproduce preguntas de una convocatoria concreta.</p>
+        <p className="mt-8 text-sm leading-6 text-slate-500">Preguntas originales de autoevaluación para repasar conceptos generales. Este test no es oficial ni reproduce preguntas de una convocatoria concreta. Contrasta el temario con la <a className="font-semibold text-indigo-700 underline underline-offset-4" href="https://boe.es/buscar/doc.php?id=BOE-A-2007-5478" target="_blank" rel="noreferrer">Orden ECI/592/2007</a> y consulta la normativa curricular y las aclaraciones de tu convocatoria autonómica.</p>
       </div>
     </main>
   );
