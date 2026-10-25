@@ -8,31 +8,31 @@ export const metadata: Metadata = {
 };
 
 const topics = [
-  "Características básicas del desarrollo psicoevolutivo de los niños y niñas de seis a doce años. Aspectos cognitivos, motrices, afectivos y sociales.",
-  "La concreción de los currículos en el marco del proyecto educativo del centro. Programación docente para dar respuesta a la diversidad del alumnado.",
-  "La tutoría en la Educación Primaria. Apoyo y orientación en el proceso de aprendizaje. Colaboración con las familias.",
-  "La atención a la diversidad del alumnado. Principios y estrategias. Medidas organizativas, curriculares y didácticas.",
-  "La evaluación de los procesos de aprendizaje del alumnado de Educación Primaria. Características, estrategias, técnicas e instrumentos.",
-  "Las tecnologías de la información y la comunicación. Intervención educativa para su uso responsable.",
-  "El área de Conocimiento del medio natural, social y cultural en Educación Primaria: enfoque, características y propuestas de intervención educativa.",
-  "Construcción de la noción de tiempo histórico en Educación Primaria. Ámbitos de estudio y propuestas didácticas.",
-  "El entorno y su conservación. Relaciones entre los elementos de los ecosistemas y actuaciones educativas.",
-  "El aprendizaje de los fenómenos físicos y los cambios químicos. Experiencias y procedimientos de trabajo.",
-  "El área de Educación para la ciudadanía y los derechos humanos en Educación Primaria: enfoque, características y propuestas de intervención educativa.",
-  "El área de Educación Artística en Educación Primaria como área integrada: enfoque, características y propuestas de intervención educativa. Desarrollo de la percepción y la expresión.",
-  "Los lenguajes y técnicas artísticas. Intervención educativa en la elaboración de composiciones plásticas.",
-  "El área de Lengua Castellana y Literatura en Educación Primaria: enfoque, características y propuestas de intervención.",
-  "La intervención educativa en la reflexión sistemática sobre el lenguaje en Educación Primaria.",
-  "La educación literaria en el contexto escolar. Manifestaciones literarias más importantes aplicadas a la Educación Primaria.",
-  "Proceso de adquisición y desarrollo del lenguaje en la Educación Primaria: comprensión y expresión oral.",
-  "Desarrollo y características del proceso lector en la Educación Primaria. Técnicas y estrategias de comprensión lectora.",
-  "Desarrollo de la expresión escrita en Educación Primaria. Métodos y estrategias de aprendizaje.",
-  "El área de Matemáticas en Educación Primaria: enfoque, características y propuestas de intervención educativa.",
-  "Resolución de problemas. Diferentes clases y métodos de resolución. Estrategias de intervención educativa.",
-  "El aprendizaje de los números y el cálculo numérico. Sistemas de numeración y operaciones.",
-  "Las magnitudes y su medida. Unidades e instrumentos de medida.",
-  "Evolución de la percepción espacial en la Educación Primaria. Elementos, formas y relaciones geométricas.",
-  "Recogida, organización y representación de la información. Tablas y gráficos. Aplicaciones en otras áreas.",
+  "Características básicas del desarrollo psicoevolutivo de los niños y niñas de los seis a los doce años. Aspectos cognitivos, motrices, afectivos y sociales. Implicaciones en el desarrollo del proceso educativo y de enseñanza-aprendizaje.",
+  "La concreción de los currículos en el marco del proyecto educativo del centro. Programación docente para dar respuesta a las distintas necesidades del alumnado: principios pedagógicos que deben tenerse en cuenta, estrategias para su elaboración en el ciclo, curso y aula. Coordinación docente.",
+  "La tutoría en la Educación Primaria. Apoyo y orientación en el proceso de aprendizaje. Colaboración con las familias. Funciones del tutor en relación con el equipo docente y otros profesionales. El plan de acción tutorial. Propuestas de acción tutorial.",
+  "La atención a la diversidad del alumnado. Principios y estrategias. Medidas organizativas, curriculares y didácticas. Alumnado con necesidad específica de apoyo educativo. Medidas educativas específicas.",
+  "La evaluación de los procesos de aprendizaje del alumnado de Educación Primaria. Características, estrategias, técnicas e instrumentos de evaluación. Promoción y planes específicos de refuerzo.",
+  "Las tecnologías de la información y la comunicación. Intervención educativa para su uso y aplicación en las diferentes áreas de conocimiento.",
+  "El área de Conocimiento del medio natural, social y cultural en la Educación Primaria: enfoque, características y propuestas de intervención educativa. Contribución del área al desarrollo de las competencias básicas. Objetivos, contenidos y criterios de evaluación: aspectos más relevantes. Relación con otras áreas del currículo.",
+  "Construcción de la noción de tiempo histórico en la Educación Primaria. Ámbitos de estudio de procesos y hechos históricos. El aprendizaje de las grandes etapas históricas de la humanidad. Utilización de documentos: orales, escritos y restos materiales. Intervención educativa.",
+  "El entorno y su conservación. Relaciones entre los elementos de los ecosistemas, factores de deterioro y regeneración. Capacidad de los seres humanos para actuar sobre la naturaleza. Intervención educativa.",
+  "El aprendizaje de los fenómenos físicos y los cambios químicos. Planificación y realización de experiencias para el estudio de propiedades, características y comportamiento de la materia y la energía.",
+  "El área de Educación para la ciudadanía y los derechos humanos en la Educación Primaria: enfoque, características y propuestas de intervención educativa. Contribución del área al desarrollo de las competencias básicas. Objetivos, contenidos y criterios de evaluación: aspectos más relevantes. Relación con otras áreas del currículo.",
+  "El área de Educación Artística en la Educación Primaria como área integrada: enfoque, características y propuestas de intervención educativa. Contribución del área al desarrollo de las competencias básicas. Objetivos, contenidos y criterios de evaluación: aspectos más relevantes. Relación con otras áreas del currículo.",
+  "Los diferentes lenguajes y técnicas artísticas. Intervención educativa en la elaboración de composiciones plásticas e imágenes: planificación, diseño y organización del proceso; selección y utilización de materiales y técnicas.",
+  "El área de Lengua Castellana y Literatura en la Educación Primaria: enfoque, características y propuestas de intervención educativa. Contribución del área al desarrollo de las competencias básicas. Objetivos, contenidos y criterios de evaluación: aspectos más relevantes. Desarrollo de la competencia comunicativa en otras áreas del currículo.",
+  "La intervención educativa en la reflexión sistemática sobre el lenguaje en la Educación Primaria en relación con las condiciones de uso: el contexto comunicativo, los ámbitos de uso y el texto. La adquisición de la lectura y la escritura.",
+  "La educación literaria en el contexto escolar. Manifestaciones literarias más importantes aplicadas a la Educación Primaria. Técnicas y estrategias de utilización de la literatura infantil y juvenil. La biblioteca escolar y la biblioteca de aula como recursos didácticos en la educación literaria.",
+  "Proceso de adquisición y desarrollo del lenguaje en la Educación Primaria: comprensión y expresión oral, elementos no lingüísticos que acompañan a la comunicación oral. Estrategias de intervención educativa.",
+  "Desarrollo y características del proceso lector en la Educación Primaria. Técnicas y estrategias de comprensión lectora en diferentes situaciones de comunicación y con diferentes tipos de textos. La lectura: planes de fomento y estrategias de intervención educativa.",
+  "Desarrollo de la expresión escrita en la Educación Primaria. Métodos y estrategias de aprendizaje. Composición de diferentes textos escritos. Utilización de las tecnologías de la información y la comunicación. Estrategias de intervención educativa.",
+  "El área de Matemáticas en la Educación Primaria: enfoque, características y propuestas de intervención educativa. Contribución al desarrollo de las competencias básicas. Objetivos, contenidos y criterios de evaluación: aspectos más relevantes. Relación con otras áreas del currículo.",
+  "Resolución de problemas. Diferentes clases y métodos de resolución. Planificación, gestión de los recursos, representación, interpretación y valoración de los resultados. Estrategias de intervención educativa.",
+  "El aprendizaje de los números y el cálculo numérico. Números naturales, enteros, fraccionarios y decimales. Sistemas de numeración. Relación entre los números. Operaciones de cálculo y procedimientos del mismo (cálculo escrito, mental, estimación y calculadora). Intervención educativa.",
+  "Las magnitudes y su medida. Unidades e instrumentos de medida. Estimación y aproximación en las mediciones. Recursos didácticos e intervención educativa.",
+  "Evolución de la percepción espacial en la Educación Primaria. Elementos, formas y relaciones geométricas en el entorno: clasificación y representación. Intervención educativa.",
+  "Recogida, organización y representación de la información. Tablas de datos. Tipos de gráficos. Aplicaciones en las distintas áreas y en la interpretación de datos. Utilización de las tecnologías de la información y la comunicación para el tratamiento de datos.",
 ];
 
 const blocks = [
@@ -69,10 +69,12 @@ export default function TemarioPrimariaPage() {
               <li><strong>Tema 11:</strong> la denominación y el enfoque varían según la administración; Aragón indica Educación en valores sociales y cívicos, y Murcia pide tener en cuenta transversalmente el currículo vigente.</li>
               <li><strong>Tema 12:</strong> Murcia interpreta la referencia a Educación Artística como Educación Plástica y Visual.</li>
             </ul>
-            <p className="mt-2">Estas son adaptaciones territoriales verificadas, no una regla idéntica para toda España. Comprueba también las correcciones posteriores de tu convocatoria.</p>
+            <p className="mt-2">En Asturias se difundió una circular informativa ministerial sobre el temario de Primaria para el procedimiento 2025-2026. En Castilla-La Mancha, la convocatoria exige emplear el currículo autonómico vigente en el curso 2025/2026. Estas precisiones no sustituyen la lectura de las bases y correcciones de cada administración. La lista de abajo reproduce el temario base del BOE; las denominaciones adaptadas deben estudiarse conforme a la convocatoria correspondiente.</p>
             <div className="mt-3 flex flex-wrap gap-3">
               <a className="font-semibold underline underline-offset-4" href="https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?BASE=BOLE&CMD=VERDOC&DOCN=007958673&SEC=BUSQUEDA_AVANZADA" target="_blank" rel="noreferrer">Corrección oficial de Aragón ↗</a>
               <a className="font-semibold underline underline-offset-4" href="https://sede.carm.es/web/pagina?IDCONTENIDO=843&IDTIPO=240" target="_blank" rel="noreferrer">Convocatoria oficial de Murcia ↗</a>
+              <a className="font-semibold underline underline-offset-4" href="https://www.educastur.es/-/procedimiento-selectivo-25-26-nota-informativa?redirect=%2F" target="_blank" rel="noreferrer">Nota oficial de Asturias ↗</a>
+              <a className="font-semibold underline underline-offset-4" href="https://educacion.castillalamancha.es/profesorado/oposiciones/notas-informativas-oposicion-maestros-2026" target="_blank" rel="noreferrer">Nota oficial de Castilla-La Mancha ↗</a>
             </div>
           </div>
         </div>
