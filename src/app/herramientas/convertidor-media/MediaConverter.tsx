@@ -42,7 +42,8 @@ export default function MediaConverter() {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const [success, setSuccess] = useState("");
-  const [result, setResult] = useState<{ url: string; name: string; size: number } | null>(null);\n  const [audioDuration, setAudioDuration] = useState<number | null>(null);
+  const [result, setResult] = useState<{ url: string; name: string; size: number } | null>(null);
+  const [audioDuration, setAudioDuration] = useState<number | null>(null);
 
   const isAudio = tool === "wav" || tool === "trim";
   const chooseTool = (next: ToolKey) => {
@@ -53,7 +54,8 @@ export default function MediaConverter() {
     setFile(next); setError(""); setSuccess("");
     if (result) URL.revokeObjectURL(result.url);
     setResult(null);
-    setAudioDuration(null);\n    if (next && next.size > 100 * 1024 * 1024) {
+    setAudioDuration(null);
+    if (next && next.size > 100 * 1024 * 1024) {
       setFile(null); setError("El archivo supera 100 MB. Selecciona uno más pequeño para evitar problemas de memoria.");
     }
   };
@@ -105,7 +107,9 @@ export default function MediaConverter() {
           img.onerror = () => reject(new Error("No se puede abrir este formato en el navegador. HEIC y formatos profesionales necesitan un conversor adicional."));
           img.src = objectUrl;
         });
-        let w = Number(width) || image.naturalWidth, h = Number(height) || image.naturalHeight;\n        if (width && !height) h = Math.round(image.naturalHeight * w / image.naturalWidth);\n        else if (height && !width) w = Math.round(image.naturalWidth * h / image.naturalHeight);
+        let w = Number(width) || image.naturalWidth, h = Number(height) || image.naturalHeight;
+        if (width && !height) h = Math.round(image.naturalHeight * w / image.naturalWidth);
+        else if (height && !width) w = Math.round(image.naturalWidth * h / image.naturalHeight);
         if (tool === "rotate") { w = image.naturalHeight; h = image.naturalWidth; }
         if (![w, h].every(n => Number.isInteger(n) && n > 0 && n <= 12000)) throw new Error("Ancho y alto deben estar entre 1 y 12.000 píxeles.");
         const canvas = document.createElement("canvas"); canvas.width = w; canvas.height = h;
