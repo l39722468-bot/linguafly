@@ -125,15 +125,16 @@ export default function TemaUnoPage() {
           </div>
         </Section>
 
-        <Section title="11. Referencias de partida">
+        <Section title="11. Referencias y normativa para ampliar">
+          <p>Para preparar una respuesta de oposición, combina las teorías del desarrollo con ejemplos de aula y con la normativa educativa aplicable. Las teorías que siguen son marcos interpretativos clásicos, no una descripción rígida de cada niño o niña.</p>
           <ul className="list-disc space-y-3 pl-6">
-            <li><a className="font-semibold text-indigo-700 underline underline-offset-4" href="https://boe.es/buscar/doc.php?id=BOE-A-2007-5478" target="_blank" rel="noreferrer">Orden ECI/592/2007, de 12 de marzo (BOE)</a>: referencia para el temario de Educación Primaria; verificar su aplicación en la convocatoria correspondiente.</li>
-            <li>Piaget, J. — obras sobre el desarrollo del pensamiento y la construcción del conocimiento. Consultar una edición académica o bibliotecaria verificable.</li>
-            <li>Vygotsky, L. S. — obras sobre pensamiento, lenguaje e interacción social en el aprendizaje. Consultar una edición académica o bibliotecaria verificable.</li>
-            <li>Bruner, J. S. — trabajos sobre construcción del conocimiento y andamiaje educativo. Consultar una edición académica o bibliotecaria verificable.</li>
-            <li>Normativa curricular estatal y autonómica aplicable a Educación Primaria, junto con la convocatoria oficial vigente.</li>
+            <li><a className="font-semibold text-indigo-700 underline underline-offset-4" href="https://boe.es/buscar/doc.php?id=BOE-A-2007-5478" target="_blank" rel="noreferrer">Orden ECI/592/2007, de 12 de marzo (BOE)</a>: fuente oficial del temario base de la especialidad de Educación Primaria. Comprueba las aclaraciones, correcciones y notas de la convocatoria autonómica que te corresponda.</li>
+            <li><a className="font-semibold text-indigo-700 underline underline-offset-4" href="https://www.boe.es/eli/es/rd/2022/03/01/157/con" target="_blank" rel="noreferrer">Real Decreto 157/2022, de 1 de marzo (texto consolidado en el BOE)</a>: ordenación y enseñanzas mínimas de Educación Primaria en el marco estatal. Debe completarse con el currículo autonómico aplicable.</li>
+            <li>Piaget, J. (1952). <em>The Origins of Intelligence in Children</em>. International Universities Press. Referencia clásica sobre el desarrollo cognitivo; las edades y etapas se deben interpretar críticamente, no como diagnóstico individual.</li>
+            <li>Vygotsky, L. S. (1978). <em>Mind in Society: The Development of Higher Psychological Processes</em>. Harvard University Press. Selección póstuma de textos sobre mediación social y desarrollo de los procesos psicológicos.</li>
+            <li>Bruner, J. S. (1960). <em>The Process of Education</em>. Harvard University Press. Obra de referencia sobre estructura de las disciplinas y aprendizaje.</li>
           </ul>
-          <p className="text-sm text-slate-500">Las referencias bibliográficas son pistas de lectura. Antes de su publicación definitiva conviene completar edición, año, editorial y páginas consultadas a partir de ejemplares verificables.</p>
+          <p className="text-sm text-slate-500">Las obras académicas se citan por sus ediciones originales ampliamente catalogadas; las traducciones y reediciones pueden tener datos distintos. Verifica la edición concreta que consultes y añade páginas solo cuando hayas comprobado el ejemplar. La normativa autonómica y la convocatoria vigente prevalecen para las referencias jurídicas específicas.</p>
         </Section>
 
         <div className="mt-12 rounded-2xl bg-slate-900 p-6 text-white sm:p-8">
