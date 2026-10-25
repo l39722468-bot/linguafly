@@ -14,12 +14,12 @@ const topics = [
   "La atención a la diversidad del alumnado. Principios y estrategias. Medidas organizativas, curriculares y didácticas.",
   "La evaluación de los procesos de aprendizaje del alumnado de Educación Primaria. Características, estrategias, técnicas e instrumentos.",
   "Las tecnologías de la información y la comunicación. Intervención educativa para su uso responsable.",
-  "El área de Ciencias de la Naturaleza en Educación Primaria: enfoque, características y propuestas de intervención educativa.",
+  "El área de Conocimiento del medio natural, social y cultural en Educación Primaria: enfoque, características y propuestas de intervención educativa.",
   "Construcción de la noción de tiempo histórico en Educación Primaria. Ámbitos de estudio y propuestas didácticas.",
   "El entorno y su conservación. Relaciones entre los elementos de los ecosistemas y actuaciones educativas.",
   "El aprendizaje de los fenómenos físicos y los cambios químicos. Experiencias y procedimientos de trabajo.",
-  "El área de Educación para la Ciudadanía y los Derechos Humanos y su contribución a las competencias básicas.",
-  "El área de Educación Artística en Educación Primaria como área integrada. Desarrollo de la percepción y la expresión.",
+  "El área de Educación para la ciudadanía y los derechos humanos en Educación Primaria: enfoque, características y propuestas de intervención educativa.",
+  "El área de Educación Artística en Educación Primaria como área integrada: enfoque, características y propuestas de intervención educativa. Desarrollo de la percepción y la expresión.",
   "Los lenguajes y técnicas artísticas. Intervención educativa en la elaboración de composiciones plásticas.",
   "El área de Lengua Castellana y Literatura en Educación Primaria: enfoque, características y propuestas de intervención.",
   "La intervención educativa en la reflexión sistemática sobre el lenguaje en Educación Primaria.",
@@ -62,6 +62,19 @@ export default function TemarioPrimariaPage() {
             Referencia inicial: Orden ECI/592/2007. La convocatoria concreta y sus posibles
             modificaciones prevalecen para determinar los requisitos aplicables.
           </p>
+          <div className="mt-5 max-w-3xl rounded-xl border border-amber-200 bg-amber-50 p-4 text-sm leading-6 text-amber-950">
+            <h2 className="font-bold">Adaptaciones que debes comprobar en la convocatoria de 2026</h2>
+            <ul className="mt-2 list-disc space-y-1 pl-5">
+              <li><strong>Tema 7:</strong> algunas convocatorias concretan el área en Ciencias Naturales y Ciencias Sociales (por ejemplo, Aragón y Murcia).</li>
+              <li><strong>Tema 11:</strong> la denominación y el enfoque varían según la administración; Aragón indica Educación en valores sociales y cívicos, y Murcia pide tener en cuenta transversalmente el currículo vigente.</li>
+              <li><strong>Tema 12:</strong> Murcia interpreta la referencia a Educación Artística como Educación Plástica y Visual.</li>
+            </ul>
+            <p className="mt-2">Estas son adaptaciones territoriales verificadas, no una regla idéntica para toda España. Comprueba también las correcciones posteriores de tu convocatoria.</p>
+            <div className="mt-3 flex flex-wrap gap-3">
+              <a className="font-semibold underline underline-offset-4" href="https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?BASE=BOLE&CMD=VERDOC&DOCN=007958673&SEC=BUSQUEDA_AVANZADA" target="_blank" rel="noreferrer">Corrección oficial de Aragón ↗</a>
+              <a className="font-semibold underline underline-offset-4" href="https://sede.carm.es/web/pagina?IDCONTENIDO=843&IDTIPO=240" target="_blank" rel="noreferrer">Convocatoria oficial de Murcia ↗</a>
+            </div>
+          </div>
         </div>
       </header>
 
