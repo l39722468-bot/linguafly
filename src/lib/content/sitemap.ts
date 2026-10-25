@@ -109,6 +109,7 @@ function staticUrls(
       images: [brandImage],
     },
     { url: `${baseUrl}/llms.txt`, lastModified: mostRecent, changeFrequency: "daily", priority: 0.7 },
+    { url: `${baseUrl}/herramientas/convertidor-media`, lastModified: mostRecent, changeFrequency: "monthly", priority: 0.7 },
     { url: `${baseUrl}/contacto`, lastModified: SITE_LAUNCH_DATE, changeFrequency: "yearly", priority: 0.5 },
     { url: `${baseUrl}/sobre-nosotros`, lastModified: mostRecent, changeFrequency: "monthly", priority: 0.6 },
     ...SITE_VERTICALS.map((vertical) => ({
