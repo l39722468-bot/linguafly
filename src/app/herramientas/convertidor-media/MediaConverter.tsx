@@ -42,7 +42,7 @@ export default function MediaConverter() {
   const [busy, setBusy] = useState(false);
   const [error, setError] = useState("");
   const [success, setSuccess] = useState("");
-  const [result, setResult] = useState<{ url: string; name: string; size: number } | null>(null);
+  const [result, setResult] = useState<{ url: string; name: string; size: number } | null>(null);\n  const [audioDuration, setAudioDuration] = useState<number | null>(null);
 
   const isAudio = tool === "wav" || tool === "trim";
   const chooseTool = (next: ToolKey) => {
@@ -53,7 +53,7 @@ export default function MediaConverter() {
     setFile(next); setError(""); setSuccess("");
     if (result) URL.revokeObjectURL(result.url);
     setResult(null);
-    if (next && next.size > 100 * 1024 * 1024) {
+    setAudioDuration(null);\n    if (next && next.size > 100 * 1024 * 1024) {
       setFile(null); setError("El archivo supera 100 MB. Selecciona uno más pequeño para evitar problemas de memoria.");
     }
   };
@@ -105,7 +105,7 @@ export default function MediaConverter() {
           img.onerror = () => reject(new Error("No se puede abrir este formato en el navegador. HEIC y formatos profesionales necesitan un conversor adicional."));
           img.src = objectUrl;
         });
-        let w = Number(width) || image.naturalWidth, h = Number(height) || image.naturalHeight;
+        let w = Number(width) || image.naturalWidth, h = Number(height) || image.naturalHeight;\n        if (width && !height) h = Math.round(image.naturalHeight * w / image.naturalWidth);\n        else if (height && !width) w = Math.round(image.naturalWidth * h / image.naturalHeight);
         if (tool === "rotate") { w = image.naturalHeight; h = image.naturalWidth; }
         if (![w, h].every(n => Number.isInteger(n) && n > 0 && n <= 12000)) throw new Error("Ancho y alto deben estar entre 1 y 12.000 píxeles.");
         const canvas = document.createElement("canvas"); canvas.width = w; canvas.height = h;
@@ -144,7 +144,7 @@ export default function MediaConverter() {
           <div className="ml-workgrid"><div className="ml-drop" onDragOver={e => { e.preventDefault(); e.currentTarget.classList.add("drag"); }} onDragLeave={e => e.currentTarget.classList.remove("drag")} onDrop={e => { e.preventDefault(); e.currentTarget.classList.remove("drag"); loadFile(e.dataTransfer.files?.[0] || null); }}>
               <div className="ml-uploadicon"><FileUp size={27}/></div><h3>Arrastra tu archivo aquí</h3><p>o selecciona desde tu dispositivo<br/>Máximo recomendado: 25 MB</p><button className="ml-btn" onClick={() => inputRef.current?.click()}>Seleccionar archivo</button><input ref={inputRef} hidden type="file" accept={allowed} onChange={e => loadFile(e.target.files?.[0] || null)}/>{file && <div className="ml-file"><strong>{file.name}</strong><br/>{(file.size / 1024 / 1024).toFixed(2)} MB · {file.type || "tipo no detectado"}<br/><button className="ml-secondary" style={{ marginTop: 8 }} onClick={() => { loadFile(null); if(inputRef.current) inputRef.current.value = ""; }}>Quitar archivo</button></div>}
             </div><div className="ml-settings"><h3>Opciones de conversión</h3>{!isAudio && <><div className="ml-field"><label>Formato de salida</label><select value={tool === "jpg" ? "jpg" : tool === "webp" || tool === "compress" ? "webp" : "png"} onChange={e => chooseTool(e.target.value === "jpg" ? "jpg" : e.target.value === "webp" ? "webp" : "png")}><option value="png">PNG — alta calidad</option><option value="jpg">JPG — compatible</option><option value="webp">WebP — optimizado para web</option></select></div>{tool !== "rotate" && <div className="ml-field"><label>Dimensiones (px, opcional)</label><div className="ml-fields"><input aria-label="Ancho en píxeles" type="number" min="1" max="12000" placeholder="Ancho original" value={width} onChange={e => setWidth(e.target.value)}/><input aria-label="Alto en píxeles" type="number" min="1" max="12000" placeholder="Alto original" value={height} onChange={e => setHeight(e.target.value)}/></div><div className="ml-note">Puedes indicar solo un lado para conservar la proporción automáticamente.</div></div>}{tool === "rotate" && <div className="ml-field"><label>Rotación</label><select value={rotate} onChange={e => setRotate(Number(e.target.value))}><option value={90}>90° derecha</option><option value={180}>180°</option><option value={270}>90° izquierda</option></select></div>}<div className="ml-field"><div className="ml-range"><label>Calidad</label><span>{quality}%</span></div><input aria-label="Calidad de salida" type="range" min="10" max="100" value={quality} onChange={e => setQuality(Number(e.target.value))}/><div className="ml-note">La calidad afecta principalmente a JPG y WebP.</div></div></>}
-            {isAudio && <><div className="ml-field"><label>Formato de salida</label><select disabled value="wav"><option value="wav">WAV — PCM 16 bits</option></select></div>{tool === "trim" && <div className="ml-fields"><div className="ml-field"><label>Inicio (segundos)</label><input type="number" min="0" step="0.1" value={start} onChange={e => setStart(e.target.value)}/></div><div className="ml-field"><label>Fin (segundos)</label><input type="number" min="0" step="0.1" placeholder="Final del audio" value={end} onChange={e => setEnd(e.target.value)}/></div></div>}<div className="ml-alert">La compatibilidad del audio depende del navegador. MP3, AAC y FLAC como salida requieren un codificador adicional.</div></>}
+            {isAudio && <><div className="ml-field"><label>Formato de salida</label><select disabled value="wav"><option value="wav">WAV — PCM 16 bits</option></select></div>{tool === "trim" && <div className="ml-note" style={{ marginBottom: 12 }}>Carga el audio para conocer su duración; el intervalo debe estar dentro de ella.{audioDuration !== null ? ` Duración detectada: ${audioDuration.toFixed(1)} s.` : ""}</div><div className="ml-fields"><div className="ml-field"><label>Inicio (segundos)</label><input type="number" min="0" step="0.1" value={start} onChange={e => setStart(e.target.value)}/></div><div className="ml-field"><label>Fin (segundos)</label><input type="number" min="0" step="0.1" placeholder="Final del audio" value={end} onChange={e => setEnd(e.target.value)}/></div></div>}<div className="ml-alert">La compatibilidad del audio depende del navegador. MP3, AAC y FLAC como salida requieren un codificador adicional.</div></>}
             <div className="ml-note">El archivo se procesa localmente. No se envía a LinguaFly.</div><button className="ml-btn" style={{ width: "100%", marginTop: 12 }} disabled={!file || busy} onClick={runConversion}>{busy ? "Procesando…" : "Convertir archivo"} <ArrowDownToLine size={16}/></button>
           </div></div>
           {error && <div className="ml-alert error" role="alert">{error}</div>}{success && <div className="ml-alert ok" role="status">{success}</div>}{result && <div className="ml-result"><span>{result.name} · {(result.size / 1024 / 1024).toFixed(2)} MB</span><a className="ml-btn" href={result.url} download={result.name}><ArrowDownToLine size={16}/> Descargar archivo</a></div>}
