@@ -476,7 +476,6 @@ const LEGACY_HOME_REDIRECT_PREFIXES = [
   "/cursos-por-sector",
   "/demo-course",
   "/frases-en-ingles",
-  "/herramientas",
   "/ingles-para-viajar",
   "/juego-ingles",
   "/misiones",
