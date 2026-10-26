@@ -16,14 +16,6 @@ export async function GET(
   }
 
   const entries = await buildMagazineSitemap(id, { includeLegal: true });
-  if (id === 1) {
-    entries.push({
-      url: "https://linguafly.app/herramientas/convertidor-media",
-      lastModified: new Date(),
-      changeFrequency: "monthly",
-      priority: 0.7,
-    } as (typeof entries)[number]);
-  }
   return new Response(serializeSitemapXml(entries), {
     headers: {
       "Content-Type": "application/xml; charset=utf-8",
