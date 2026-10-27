@@ -18,7 +18,7 @@ export const metadata: Metadata = {
 export default function EnglishPdfLibraryPage() {
   const topicsByLevel = worksheetLevels.map((level) => ({
     ...level,
-    topics: worksheetTopics.filter((topic) => topic.level === level.level),
+    topics: worksheetTopics.filter((topic) => Boolean(topic && topic.level === level.level && topic.status === "published")),
   }));
 
   return (
