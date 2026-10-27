@@ -59,12 +59,12 @@ export default function EnglishPdfLibraryPage() {
                     <ul className="space-y-3">
                       {level.topics.map((topic) => (
                         <li key={topic.slug} className="border-t border-slate-100 pt-3">
-                          <h4 className="font-bold text-slate-900">{topic.title}</h4>
+                          <h4 className="font-bold text-slate-900"><Link href={`/ejercicios-ingles-pdf/tema/${topic.slug}`} className="hover:text-coral-700 hover:underline">{topic.title}</Link></h4>
                           <p className="mt-1 text-sm text-slate-600">{topic.description}</p>
                           <p className="mt-2 text-xs font-semibold text-slate-500">{topic.pdfCount} PDF descargables · 20 ejercicios por ficha</p>
                           <div className="mt-3 flex flex-wrap gap-2">
                             {Array.from({ length: topic.pdfCount }, (_, index) => {
-                              const pdfSlug = topic.slug === "prepositions-of-place" ? topic.slug : topic.slug;
+                              const pdfSlug = topic.slug;
                               const pdfNumber = String(index + 1).padStart(2, "0");
                               return <Link key={pdfSlug + pdfNumber} href={`/ejercicios-ingles-pdf/${pdfSlug}-${pdfNumber}`} className="inline-flex items-center rounded-lg bg-coral-50 px-3 py-2 text-xs font-bold text-coral-700 hover:bg-coral-100">PDF {pdfNumber} <span aria-hidden="true" className="ml-1">↓</span></Link>;
                             })}
