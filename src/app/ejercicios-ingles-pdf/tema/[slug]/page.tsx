@@ -87,6 +87,34 @@ export default async function WorksheetTopicPage({ params }: PageProps) {
             </ul>
           </section>
 
+          <section className="mt-8 rounded-3xl bg-white p-7 shadow-sm sm:p-10" aria-labelledby="study-guide-title">
+            <h2 id="study-guide-title" className="mb-4 text-2xl font-black text-slate-900">
+              Guía de estudio: cómo dominar {topic.title}
+            </h2>
+            <p className="mb-5 leading-relaxed text-slate-700">
+              Para avanzar con {topic.title}, no intentes memorizar todas las respuestas de golpe. Empieza por reconocer el patrón, practica con frases completas y después comprueba si puedes aplicar lo aprendido sin mirar los ejemplos. Las metas de esta página sirven como lista de control para organizar tu repaso.
+            </p>
+            <div className="grid gap-4 sm:grid-cols-2">
+              {topic.learningGoals.map((goal, index) => (
+                <article key={goal} className="rounded-2xl border border-slate-200 p-5">
+                  <p className="mb-2 text-xs font-bold uppercase tracking-wider text-coral-600">Paso {index + 1}</p>
+                  <h3 className="mb-2 font-bold text-slate-900">{goal}</h3>
+                  <p className="text-sm leading-relaxed text-slate-600">
+                    Practica este objetivo con varios ejemplos. Después, intenta explicar por qué tu respuesta es correcta y crea una frase propia para comprobar que entiendes el uso, no solo la solución.
+                  </p>
+                </article>
+              ))}
+            </div>
+            <div className="mt-5 rounded-2xl bg-slate-50 p-5">
+              <h3 className="mb-2 font-bold text-slate-900">Señales de que estás progresando</h3>
+              <ul className="list-inside list-disc space-y-2 leading-relaxed text-slate-700">
+                <li>Identificas el objetivo del ejercicio antes de responder.</li>
+                <li>Detectas y corriges tus errores sin consultar inmediatamente el solucionario.</li>
+                <li>Puedes usar lo practicado en una frase nueva, no solo repetir la del PDF.</li>
+              </ul>
+            </div>
+          </section>
+
           <section className="mt-8 rounded-3xl bg-white p-7 shadow-sm sm:p-10" aria-labelledby="downloads-title">
             <h2 id="downloads-title" className="mb-3 text-2xl font-black text-slate-900">
               Descargar ejercicios de {topic.title}
@@ -111,6 +139,29 @@ export default async function WorksheetTopicPage({ params }: PageProps) {
             </div>
           </section>
 
+          <section className="mt-8 rounded-3xl bg-white p-7 shadow-sm sm:p-10" aria-labelledby="practice-plan-title">
+            <h2 id="practice-plan-title" className="mb-4 text-2xl font-black text-slate-900">
+              Plan de práctica recomendado
+            </h2>
+            <p className="mb-5 leading-relaxed text-slate-700">
+              Reserva una sesión corta para cada ficha de {topic.title}. La regularidad suele ser más útil que intentar completar todas las hojas en una sola tarde.
+            </p>
+            <ol className="grid gap-4 sm:grid-cols-3">
+              <li className="rounded-2xl bg-slate-50 p-5">
+                <h3 className="mb-2 font-bold text-slate-900">1. Practica</h3>
+                <p className="text-sm leading-relaxed text-slate-700">Completa las 20 preguntas antes de abrir las respuestas. Marca las dudas para revisarlas después.</p>
+              </li>
+              <li className="rounded-2xl bg-slate-50 p-5">
+                <h3 className="mb-2 font-bold text-slate-900">2. Corrige</h3>
+                <p className="text-sm leading-relaxed text-slate-700">Compara tu trabajo con el solucionario y clasifica los errores: regla, vocabulario o lectura de la pregunta.</p>
+              </li>
+              <li className="rounded-2xl bg-slate-50 p-5">
+                <h3 className="mb-2 font-bold text-slate-900">3. Repite</h3>
+                <p className="text-sm leading-relaxed text-slate-700">Vuelve a intentar las preguntas que fallaste al día siguiente y escribe algunos ejemplos propios.</p>
+              </li>
+            </ol>
+          </section>
+
           <section className="mt-8 grid gap-6 md:grid-cols-2">
             <div className="rounded-3xl bg-white p-7 shadow-sm">
               <h2 className="mb-4 text-xl font-black text-slate-900">Tipos de actividad</h2>
@@ -125,6 +176,30 @@ export default async function WorksheetTopicPage({ params }: PageProps) {
                 <li>Comprueba tus respuestas con el solucionario.</li>
                 <li>Anota los errores y vuelve a practicar los puntos difíciles.</li>
               </ol>
+            </div>
+          </section>
+
+          <section className="mt-8 rounded-3xl bg-white p-7 shadow-sm sm:p-10" aria-labelledby="faq-title">
+            <h2 id="faq-title" className="mb-5 text-2xl font-black text-slate-900">
+              Preguntas frecuentes sobre los ejercicios de {topic.title}
+            </h2>
+            <div className="space-y-5">
+              <article>
+                <h3 className="mb-2 font-bold text-slate-900">¿Para qué nivel son estas fichas?</h3>
+                <p className="leading-relaxed text-slate-700">Esta colección está clasificada como {topic.level} ({level?.name ?? "nivel MCER"}). Úsala como orientación y empieza por una ficha de prueba: si las instrucciones y los objetivos te resultan demasiado difíciles o demasiado fáciles, repasa los temas previos o avanza a otro nivel.</p>
+              </article>
+              <article>
+                <h3 className="mb-2 font-bold text-slate-900">¿Las fichas PDF incluyen respuestas?</h3>
+                <p className="leading-relaxed text-slate-700">Sí. Cada ficha incluye una sección de respuestas para que puedas corregir el ejercicio después de intentarlo. Para aprovecharla mejor, termina primero las preguntas sin consultar el solucionario.</p>
+              </article>
+              <article>
+                <h3 className="mb-2 font-bold text-slate-900">¿Cómo debería elegir la siguiente ficha?</h3>
+                <p className="leading-relaxed text-slate-700">Elige otra ficha de {topic.title} si todavía cometes errores en los mismos objetivos. Cuando puedas explicar tus respuestas y crear ejemplos propios, continúa con otro tema de nivel {topic.level} de la lista recomendada.</p>
+              </article>
+              <article>
+                <h3 className="mb-2 font-bold text-slate-900">¿Qué tipos de ejercicios encontraré?</h3>
+                <p className="leading-relaxed text-slate-700">Las actividades de esta colección incluyen: {topic.exerciseTypes.join(", ")}. Consulta las instrucciones de cada PDF, ya que la tarea concreta puede variar de una ficha a otra.</p>
+              </article>
             </div>
           </section>
 
