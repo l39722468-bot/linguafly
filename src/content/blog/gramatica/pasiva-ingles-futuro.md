@@ -181,3 +181,126 @@ La pasiva en futuro es especialmente útil cuando escribes correos formales, inf
 - Cambridge Dictionary: https://dictionary.cambridge.org/
 - British Council LearnEnglish: https://www.britishcouncil.org/learnenglish
 - CEFR/MCER (Council of Europe): https://www.coe.int/en/web/common-european-framework-reference-languages
+
+
+## 50 ejercicios de voz pasiva en futuro con respuestas
+
+Practica las estructuras *will be + participio*, *am/is/are going to be + participio* y *will have been + participio*. Intenta transformar cada frase antes de consultar la solución.
+
+### Parte 1. Will be + participio
+
+1. They will publish the results tomorrow.
+2. The manager will sign the contracts on Monday.
+3. Someone will deliver your parcel this afternoon.
+4. The school will organise a science fair next month.
+5. They will build a new library near the station.
+6. The team will finish the report before Friday.
+7. The police will question the witness.
+8. The company will launch a new product in June.
+9. They will announce the changes after the meeting.
+10. The technicians will install the software tonight.
+11. Someone will clean the office after the event.
+12. The council will repair the old bridge.
+13. They will send invitations to all the guests.
+14. The editor will check the final version.
+15. The hotel will confirm your booking by email.
+16. They will translate the document into English.
+17. The organisers will postpone the match if it rains.
+18. Someone will collect the equipment tomorrow.
+19. The university will award three scholarships.
+20. The chef will prepare the meal at six.
+
+### Parte 2. Going to be + participio
+
+21. The council is going to replace the streetlights.
+22. They are going to renovate the town hall.
+23. The company is going to hire twelve new employees.
+24. The builders are going to paint the exterior walls.
+25. Someone is going to update the website this evening.
+26. The school is going to introduce a new timetable.
+27. They are going to open two new clinics.
+28. The engineers are going to test the system next week.
+29. The museum is going to display the photographs.
+30. The organisers are going to publish the schedule tonight.
+
+### Parte 3. Future perfect passive
+
+31. They will have completed the tunnel by December.
+32. The team will have checked all the applications by Friday.
+33. Someone will have delivered the documents before noon.
+34. The researchers will have analysed the samples by next week.
+35. They will have built the new terminal by 2030.
+36. The staff will have prepared every room before the guests arrive.
+37. The company will have sent all the invoices by the end of the month.
+38. They will have translated the book into five languages by then.
+39. The technicians will have repaired the computers before the exam.
+40. The committee will have made a decision by Monday.
+
+### Parte 4. Pasiva con modales
+
+41. You must submit the form before Thursday.
+42. They should check the equipment before use.
+43. The authorities may cancel the event.
+44. The team can solve the problem without extra help.
+45. Visitors must leave their bags at reception.
+46. They might postpone the announcement until tomorrow.
+47. The company should inform every customer.
+48. You must not share this password.
+49. They could use the room for training sessions.
+50. The organisers may change the programme at short notice.
+
+## Respuestas explicadas
+
+1. The results will be published tomorrow. — *Will be + published*, porque el sujeto pasivo es *the results*.
+2. The contracts will be signed by the manager on Monday. — *Contracts* es plural, pero con *will* el auxiliar no cambia.
+3. Your parcel will be delivered this afternoon. — Se omite *someone* porque no aporta información.
+4. A science fair will be organised by the school next month. — *Organise → organised*.
+5. A new library will be built near the station. — *Build → built*, participio irregular.
+6. The report will be finished by the team before Friday. — *Finish → finished*.
+7. The witness will be questioned by the police. — *Question → questioned*.
+8. A new product will be launched by the company in June. — *Launch → launched*.
+9. The changes will be announced after the meeting. — *Announce → announced*.
+10. The software will be installed by the technicians tonight. — *Install → installed*.
+11. The office will be cleaned after the event. — *Clean → cleaned*.
+12. The old bridge will be repaired by the council. — *Repair → repaired*.
+13. Invitations will be sent to all the guests. — *Send → sent*, participio irregular.
+14. The final version will be checked by the editor. — *Check → checked*.
+15. Your booking will be confirmed by email. — *Confirm → confirmed*.
+16. The document will be translated into English. — *Translate → translated*.
+17. The match will be postponed if it rains. — *Postpone → postponed*.
+18. The equipment will be collected tomorrow. — Se omite el agente indefinido *someone*.
+19. Three scholarships will be awarded by the university. — *Award → awarded*.
+20. The meal will be prepared by the chef at six. — *Prepare → prepared*.
+21. The streetlights are going to be replaced by the council. — *Are going to be + replaced* para un plan previo.
+22. The town hall is going to be renovated. — *Town hall* es singular: *is going to be*.
+23. Twelve new employees are going to be hired by the company. — El sujeto pasivo es plural.
+24. The exterior walls are going to be painted by the builders. — *Walls* es plural.
+25. The website is going to be updated this evening. — *Website* es singular.
+26. A new timetable is going to be introduced by the school. — *Introduce → introduced*.
+27. Two new clinics are going to be opened. — *Clinics* es plural.
+28. The system is going to be tested by the engineers next week. — *System* es singular.
+29. The photographs are going to be displayed by the museum. — *Photographs* es plural.
+30. The schedule is going to be published by the organisers tonight. — *Schedule* es singular.
+31. The tunnel will have been completed by December. — Futuro perfecto pasivo: *will have been + participio*.
+32. All the applications will have been checked by the team by Friday. — *Applications* es plural; la estructura no cambia.
+33. The documents will have been delivered before noon. — *Deliver → delivered*.
+34. The samples will have been analysed by the researchers by next week. — *Analyse → analysed* en ortografía británica.
+35. The new terminal will have been built by 2030. — *Build → built*.
+36. Every room will have been prepared before the guests arrive. — *Every room* se trata como singular, aunque la forma verbal compuesta no varía.
+37. All the invoices will have been sent by the company by the end of the month. — *Send → sent*.
+38. The book will have been translated into five languages by then. — *Translate → translated*.
+39. The computers will have been repaired by the technicians before the exam. — *Repair → repaired*.
+40. A decision will have been made by the committee by Monday. — *Make → made*.
+41. The form must be submitted before Thursday. — Con un modal: *modal + be + participio*.
+42. The equipment should be checked before use. — *Should be checked* expresa recomendación.
+43. The event may be cancelled by the authorities. — *May be cancelled* expresa posibilidad.
+44. The problem can be solved by the team without extra help. — *Can be solved* expresa capacidad.
+45. Bags must be left at reception. — *Must be left* expresa obligación.
+46. The announcement might be postponed until tomorrow. — *Might be postponed* expresa posibilidad.
+47. Every customer should be informed by the company. — *Should be informed*.
+48. This password must not be shared. — La negación va después del modal: *must not be shared*.
+49. The room could be used for training sessions. — *Could be used* expresa una posibilidad.
+50. The programme may be changed at short notice. — *May be changed* expresa posibilidad; se puede omitir el agente.
+
+**Consejo:** después de *will*, *going to* o un modal, comprueba que aparece *be* antes del participio. En el futuro perfecto pasivo, recuerda la secuencia completa: *will have been + participio*. El agente con *by* solo es necesario cuando importa decir quién realizará la acción.
+
