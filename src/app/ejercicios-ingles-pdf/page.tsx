@@ -61,8 +61,14 @@ export default function EnglishPdfLibraryPage() {
                         <li key={topic.slug} className="border-t border-slate-100 pt-3">
                           <h4 className="font-bold text-slate-900">{topic.title}</h4>
                           <p className="mt-1 text-sm text-slate-600">{topic.description}</p>
-                          <p className="mt-2 text-xs font-semibold text-slate-500">{topic.pdfCount} fichas previstas · {topic.exercisesPerPdf} ejercicios por ficha</p>
-                          <span className="mt-2 inline-block rounded-full bg-amber-50 px-2.5 py-1 text-xs font-semibold text-amber-800">En preparación</span>
+                          <p className="mt-2 text-xs font-semibold text-slate-500">{topic.pdfCount} PDF descargables · 20 ejercicios por ficha</p>
+                          <div className="mt-3 flex flex-wrap gap-2">
+                            {Array.from({ length: topic.pdfCount }, (_, index) => {
+                              const pdfSlug = topic.slug === "prepositions-of-place" ? topic.slug : topic.slug;
+                              const pdfNumber = String(index + 1).padStart(2, "0");
+                              return <Link key={pdfSlug + pdfNumber} href={`/ejercicios-ingles-pdf/${pdfSlug}-${pdfNumber}`} className="inline-flex items-center rounded-lg bg-coral-50 px-3 py-2 text-xs font-bold text-coral-700 hover:bg-coral-100">PDF {pdfNumber} <span aria-hidden="true" className="ml-1">↓</span></Link>;
+                            })}
+                          </div>
                         </li>
                       ))}
                     </ul>
