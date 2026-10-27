@@ -47,10 +47,10 @@ export const SERP_OVERRIDES: Record<string, SerpCopy> = {
     updatedDate: "2026-09-26",
   },
   "pasiva-pasado-ingles": {
-    title: "Voz pasiva en pasado: was/were, ejemplos y ejercicios",
+    title: "Pasiva en inglés: 100 ejercicios en pasado con respuestas",
     description:
-      "Forma la voz pasiva en pasado con was o were más participio, mira ejemplos reales y practica los errores habituales de was, were y el participio.",
-    updatedDate: "2026-09-26",
+      "Practica la voz pasiva en pasado simple con 100 ejercicios de inglés. Transforma frases, repasa verbos irregulares y consulta las respuestas explicadas al final.",
+    updatedDate: "2026-10-27",
   },
   "past-perfect-ingles": {
     title: "Past perfect en inglés: had + participio y ejercicios",
