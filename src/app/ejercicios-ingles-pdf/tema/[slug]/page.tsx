@@ -7,12 +7,12 @@ import { worksheetLevels, worksheetTopics } from "@/data/worksheet-library";
 type PageProps = { params: Promise<{ slug: string }> };
 
 function getTopic(slug: string) {
-  return worksheetTopics.find((topic) => topic.slug === slug && topic.status === "published");
+  return worksheetTopics.find((topic) => Boolean(topic && topic.slug === slug && topic.status === "published"));
 }
 
 export function generateStaticParams() {
   return worksheetTopics
-    .filter((topic) => topic.status === "published")
+    .filter((topic) => Boolean(topic && topic.status === "published"))
     .map((topic) => ({ slug: topic.slug }));
 }
 
@@ -40,7 +40,7 @@ export default async function WorksheetTopicPage({ params }: PageProps) {
 
   const level = worksheetLevels.find((item) => item.level === topic.level);
   const relatedTopics = worksheetTopics
-    .filter((item) => item.status === "published" && item.level === topic.level && item.slug !== topic.slug)
+    .filter((item) => Boolean(item && item.status === "published" && item.level === topic.level && item.slug !== topic.slug))
     .slice(0, 6);
 
   return (
