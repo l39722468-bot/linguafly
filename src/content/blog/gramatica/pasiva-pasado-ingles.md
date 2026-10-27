@@ -186,9 +186,609 @@ Practica la transformación de activa a pasiva. Escribe la respuesta en las lín
 
 ### Parte A. Transforma las frases
 
-1. **The chef cooked the meal yesterday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n2. **The workers repaired the roads last week.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n3. **The storm damaged several houses in 2023.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n4. **The teacher checked the test papers before the ceremony.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n5. **A mechanic fixed my bicycle on Monday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n6. **The police arrested the suspect yesterday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n7. **The company sent the emails last week.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n8. **The artist painted the portrait in 2023.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n9. **The builders built a new bridge before the ceremony.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n10. **The shop sold all the tickets on Monday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n11. **Someone stole my wallet yesterday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n12. **The children broke the windows last week.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n13. **The storm blew down two trees in 2023.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n14. **The nurse gave the patient some medicine before the ceremony.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n15. **The company chose three managers on Monday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n16. **The waiter brought our food yesterday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n17. **The students wrote the essays last week.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n18. **The photographer took these pictures in 2023.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n19. **The manager made the decision before the ceremony.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n20. **The gardener cut the grass on Monday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n21. **The team cooked the meal last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n22. **The team repaired the roads last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n23. **The team damaged several houses last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n24. **The team checked the test papers last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n25. **The team fixed my bicycle last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n26. **The team arrested the suspect last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n27. **The team sent the emails last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n28. **The team painted the portrait last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n29. **The team built a new bridge last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n30. **The team sold all the tickets last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n31. **The team stole my wallet last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n32. **The team broke the windows last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n33. **The team blew down two trees last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n34. **The team gave the patient some medicine last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n35. **The team chose three managers last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n36. **The team brought our food last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n37. **The team wrote the essays last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n38. **The team took these pictures last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n39. **The team made the decision last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n40. **The team cut the grass last Friday.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n41. **The local company cooked the meal in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n42. **The local company repaired the roads in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n43. **The local company damaged several houses in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n44. **The local company checked the test papers in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n45. **The local company fixed my bicycle in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n46. **The local company arrested the suspect in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n47. **The local company sent the emails in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n48. **The local company painted the portrait in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n49. **The local company built a new bridge in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n50. **The local company sold all the tickets in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n51. **The local company stole my wallet in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n52. **The local company broke the windows in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n53. **The local company blew down two trees in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n54. **The local company gave the patient some medicine in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n55. **The local company chose three managers in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n56. **The local company brought our food in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n57. **The local company wrote the essays in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n58. **The local company took these pictures in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n59. **The local company made the decision in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n60. **The local company cut the grass in 2024.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n61. **The staff cooked the meal before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n62. **The staff repaired the roads before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n63. **The staff damaged several houses before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n64. **The staff checked the test papers before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n65. **The staff fixed my bicycle before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n66. **The staff arrested the suspect before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n67. **The staff sent the emails before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n68. **The staff painted the portrait before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n69. **The staff built a new bridge before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n70. **The staff sold all the tickets before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n71. **The staff stole my wallet before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n72. **The staff broke the windows before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n73. **The staff blew down two trees before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n74. **The staff gave the patient some medicine before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n75. **The staff chose three managers before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n76. **The staff brought our food before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n77. **The staff wrote the essays before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n78. **The staff took these pictures before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n79. **The staff made the decision before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n80. **The staff cut the grass before the event.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n81. **The volunteers cooked the meal last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n82. **The volunteers repaired the roads last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n83. **The volunteers damaged several houses last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n84. **The volunteers checked the test papers last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n85. **The volunteers fixed my bicycle last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n86. **The volunteers arrested the suspect last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n87. **The volunteers sent the emails last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n88. **The volunteers painted the portrait last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n89. **The volunteers built a new bridge last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n90. **The volunteers sold all the tickets last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n91. **The volunteers stole my wallet last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n92. **The volunteers broke the windows last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n93. **The volunteers blew down two trees last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n94. **The volunteers gave the patient some medicine last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n95. **The volunteers chose three managers last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n96. **The volunteers brought our food last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n97. **The volunteers wrote the essays last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n98. **The volunteers took these pictures last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n99. **The volunteers made the decision last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n100. **The volunteers cut the grass last month.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n
+1. **The chef cooked the meal yesterday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+2. **The workers repaired the roads last week.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+3. **The storm damaged several houses in 2023.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+4. **The teacher checked the test papers before the ceremony.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+5. **A mechanic fixed my bicycle on Monday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+6. **The police arrested the suspect yesterday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+7. **The company sent the emails last week.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+8. **The artist painted the portrait in 2023.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+9. **The builders built a new bridge before the ceremony.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+10. **The shop sold all the tickets on Monday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+11. **Someone stole my wallet yesterday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+12. **The children broke the windows last week.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+13. **The storm blew down two trees in 2023.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+14. **The nurse gave the patient some medicine before the ceremony.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+15. **The company chose three managers on Monday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+16. **The waiter brought our food yesterday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+17. **The students wrote the essays last week.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+18. **The photographer took these pictures in 2023.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+19. **The manager made the decision before the ceremony.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+20. **The gardener cut the grass on Monday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+21. **The team cooked the meal last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+22. **The team repaired the roads last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+23. **The team damaged several houses last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+24. **The team checked the test papers last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+25. **The team fixed my bicycle last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+26. **The team arrested the suspect last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+27. **The team sent the emails last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+28. **The team painted the portrait last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+29. **The team built a new bridge last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+30. **The team sold all the tickets last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+31. **The team stole my wallet last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+32. **The team broke the windows last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+33. **The team blew down two trees last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+34. **The team gave the patient some medicine last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+35. **The team chose three managers last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+36. **The team brought our food last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+37. **The team wrote the essays last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+38. **The team took these pictures last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+39. **The team made the decision last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+40. **The team cut the grass last Friday.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+41. **The local company cooked the meal in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+42. **The local company repaired the roads in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+43. **The local company damaged several houses in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+44. **The local company checked the test papers in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+45. **The local company fixed my bicycle in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+46. **The local company arrested the suspect in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+47. **The local company sent the emails in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+48. **The local company painted the portrait in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+49. **The local company built a new bridge in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+50. **The local company sold all the tickets in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+51. **The local company stole my wallet in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+52. **The local company broke the windows in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+53. **The local company blew down two trees in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+54. **The local company gave the patient some medicine in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+55. **The local company chose three managers in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+56. **The local company brought our food in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+57. **The local company wrote the essays in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+58. **The local company took these pictures in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+59. **The local company made the decision in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+60. **The local company cut the grass in 2024.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+61. **The staff cooked the meal before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+62. **The staff repaired the roads before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+63. **The staff damaged several houses before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+64. **The staff checked the test papers before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+65. **The staff fixed my bicycle before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+66. **The staff arrested the suspect before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+67. **The staff sent the emails before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+68. **The staff painted the portrait before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+69. **The staff built a new bridge before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+70. **The staff sold all the tickets before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+71. **The staff stole my wallet before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+72. **The staff broke the windows before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+73. **The staff blew down two trees before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+74. **The staff gave the patient some medicine before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+75. **The staff chose three managers before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+76. **The staff brought our food before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+77. **The staff wrote the essays before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+78. **The staff took these pictures before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+79. **The staff made the decision before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+80. **The staff cut the grass before the event.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+81. **The volunteers cooked the meal last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+82. **The volunteers repaired the roads last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+83. **The volunteers damaged several houses last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+84. **The volunteers checked the test papers last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+85. **The volunteers fixed my bicycle last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+86. **The volunteers arrested the suspect last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+87. **The volunteers sent the emails last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+88. **The volunteers painted the portrait last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+89. **The volunteers built a new bridge last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+90. **The volunteers sold all the tickets last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+91. **The volunteers stole my wallet last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+92. **The volunteers broke the windows last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+93. **The volunteers blew down two trees last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+94. **The volunteers gave the patient some medicine last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+95. **The volunteers chose three managers last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+96. **The volunteers brought our food last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+97. **The volunteers wrote the essays last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+98. **The volunteers took these pictures last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+99. **The volunteers made the decision last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+100. **The volunteers cut the grass last month.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+
 ### Soluciones explicadas
 
-1. **The meal was cooked by the chef yesterday.** cook es regular: cooked; sujeto singular → was + participio.\n\n2. **The roads were repaired by the workers last week.** El sujeto pasivo es plural: were + participio.\n\n3. **Several houses were damaged by the storm in 2023.** El sujeto pasivo es plural: were + participio.\n\n4. **The test papers were checked by the teacher before the ceremony.** check es regular: checked; plural → were checked.\n\n5. **My bicycle was fixed by a mechanic on Monday.** Sujeto singular: was + participio fixed.\n\n6. **The suspect was arrested by the police yesterday.** arrested es el participio; el agente puede ir con by.\n\n7. **The emails were sent by the company last week.** send es irregular: sent; sujeto plural → were sent.\n\n8. **The portrait was painted by the artist in 2023.** paint es regular: painted; sujeto singular → was painted.\n\n9. **A new bridge was built by the builders before the ceremony.** build es irregular: built; singular → was built.\n\n10. **All the tickets were sold by the shop on Monday.** sell es irregular: sold; plural → were sold.\n\n11. **My wallet was stolen by someone yesterday.** steal → stolen; si no importa quién lo hizo, se puede omitir by.\n\n12. **The windows were broken by the children last week.** break → broken; plural → were broken.\n\n13. **Two trees were blown down by the storm in 2023.** blow → blown; el phrasal verb mantiene down después del participio.\n\n14. **The patient was given some medicine by the nurse before the ceremony.** give → given; una estructura alternativa es “Some medicine was given to the patient”.\n\n15. **Three managers were chosen by the company on Monday.** choose → chosen; plural → were chosen.\n\n16. **Our food was brought by the waiter yesterday.** bring → brought; singular → was brought.\n\n17. **The essays were written by the students last week.** write → written; plural → were written.\n\n18. **These pictures were taken by the photographer in 2023.** take → taken; these pictures pasa a ser el sujeto plural.\n\n19. **The decision was made by the manager before the ceremony.** make → made; singular → was made.\n\n20. **The grass was cut by the gardener on Monday.** cut tiene la misma forma base y participio; singular → was cut.\n\n21. **The meal was cooked by the team last Friday.** cook es regular: cooked; sujeto singular → was + participio.\n\n22. **The roads were repaired by the team last Friday.** El sujeto pasivo es plural: were + participio.\n\n23. **Several houses were damaged by the team last Friday.** El sujeto pasivo es plural: were + participio.\n\n24. **The test papers were checked by the team last Friday.** check es regular: checked; plural → were checked.\n\n25. **My bicycle was fixed by the team last Friday.** Sujeto singular: was + participio fixed.\n\n26. **The suspect was arrested by the team last Friday.** arrested es el participio; el agente puede ir con by.\n\n27. **The emails were sent by the team last Friday.** send es irregular: sent; sujeto plural → were sent.\n\n28. **The portrait was painted by the team last Friday.** paint es regular: painted; sujeto singular → was painted.\n\n29. **A new bridge was built by the team last Friday.** build es irregular: built; singular → was built.\n\n30. **All the tickets were sold by the team last Friday.** sell es irregular: sold; plural → were sold.\n\n31. **My wallet was stolen by the team last Friday.** steal → stolen; si no importa quién lo hizo, se puede omitir by.\n\n32. **The windows were broken by the team last Friday.** break → broken; plural → were broken.\n\n33. **Two trees were blown down by the team last Friday.** blow → blown; el phrasal verb mantiene down después del participio.\n\n34. **The patient was given some medicine by the team last Friday.** give → given; una estructura alternativa es “Some medicine was given to the patient”.\n\n35. **Three managers were chosen by the team last Friday.** choose → chosen; plural → were chosen.\n\n36. **Our food was brought by the team last Friday.** bring → brought; singular → was brought.\n\n37. **The essays were written by the team last Friday.** write → written; plural → were written.\n\n38. **These pictures were taken by the team last Friday.** take → taken; these pictures pasa a ser el sujeto plural.\n\n39. **The decision was made by the team last Friday.** make → made; singular → was made.\n\n40. **The grass was cut by the team last Friday.** cut tiene la misma forma base y participio; singular → was cut.\n\n41. **The meal was cooked by the local company in 2024.** cook es regular: cooked; sujeto singular → was + participio.\n\n42. **The roads were repaired by the local company in 2024.** El sujeto pasivo es plural: were + participio.\n\n43. **Several houses were damaged by the local company in 2024.** El sujeto pasivo es plural: were + participio.\n\n44. **The test papers were checked by the local company in 2024.** check es regular: checked; plural → were checked.\n\n45. **My bicycle was fixed by the local company in 2024.** Sujeto singular: was + participio fixed.\n\n46. **The suspect was arrested by the local company in 2024.** arrested es el participio; el agente puede ir con by.\n\n47. **The emails were sent by the local company in 2024.** send es irregular: sent; sujeto plural → were sent.\n\n48. **The portrait was painted by the local company in 2024.** paint es regular: painted; sujeto singular → was painted.\n\n49. **A new bridge was built by the local company in 2024.** build es irregular: built; singular → was built.\n\n50. **All the tickets were sold by the local company in 2024.** sell es irregular: sold; plural → were sold.\n\n51. **My wallet was stolen by the local company in 2024.** steal → stolen; si no importa quién lo hizo, se puede omitir by.\n\n52. **The windows were broken by the local company in 2024.** break → broken; plural → were broken.\n\n53. **Two trees were blown down by the local company in 2024.** blow → blown; el phrasal verb mantiene down después del participio.\n\n54. **The patient was given some medicine by the local company in 2024.** give → given; una estructura alternativa es “Some medicine was given to the patient”.\n\n55. **Three managers were chosen by the local company in 2024.** choose → chosen; plural → were chosen.\n\n56. **Our food was brought by the local company in 2024.** bring → brought; singular → was brought.\n\n57. **The essays were written by the local company in 2024.** write → written; plural → were written.\n\n58. **These pictures were taken by the local company in 2024.** take → taken; these pictures pasa a ser el sujeto plural.\n\n59. **The decision was made by the local company in 2024.** make → made; singular → was made.\n\n60. **The grass was cut by the local company in 2024.** cut tiene la misma forma base y participio; singular → was cut.\n\n61. **The meal was cooked by the staff before the event.** cook es regular: cooked; sujeto singular → was + participio.\n\n62. **The roads were repaired by the staff before the event.** El sujeto pasivo es plural: were + participio.\n\n63. **Several houses were damaged by the staff before the event.** El sujeto pasivo es plural: were + participio.\n\n64. **The test papers were checked by the staff before the event.** check es regular: checked; plural → were checked.\n\n65. **My bicycle was fixed by the staff before the event.** Sujeto singular: was + participio fixed.\n\n66. **The suspect was arrested by the staff before the event.** arrested es el participio; el agente puede ir con by.\n\n67. **The emails were sent by the staff before the event.** send es irregular: sent; sujeto plural → were sent.\n\n68. **The portrait was painted by the staff before the event.** paint es regular: painted; sujeto singular → was painted.\n\n69. **A new bridge was built by the staff before the event.** build es irregular: built; singular → was built.\n\n70. **All the tickets were sold by the staff before the event.** sell es irregular: sold; plural → were sold.\n\n71. **My wallet was stolen by the staff before the event.** steal → stolen; si no importa quién lo hizo, se puede omitir by.\n\n72. **The windows were broken by the staff before the event.** break → broken; plural → were broken.\n\n73. **Two trees were blown down by the staff before the event.** blow → blown; el phrasal verb mantiene down después del participio.\n\n74. **The patient was given some medicine by the staff before the event.** give → given; una estructura alternativa es “Some medicine was given to the patient”.\n\n75. **Three managers were chosen by the staff before the event.** choose → chosen; plural → were chosen.\n\n76. **Our food was brought by the staff before the event.** bring → brought; singular → was brought.\n\n77. **The essays were written by the staff before the event.** write → written; plural → were written.\n\n78. **These pictures were taken by the staff before the event.** take → taken; these pictures pasa a ser el sujeto plural.\n\n79. **The decision was made by the staff before the event.** make → made; singular → was made.\n\n80. **The grass was cut by the staff before the event.** cut tiene la misma forma base y participio; singular → was cut.\n\n81. **The meal was cooked by the volunteers last month.** cook es regular: cooked; sujeto singular → was + participio.\n\n82. **The roads were repaired by the volunteers last month.** El sujeto pasivo es plural: were + participio.\n\n83. **Several houses were damaged by the volunteers last month.** El sujeto pasivo es plural: were + participio.\n\n84. **The test papers were checked by the volunteers last month.** check es regular: checked; plural → were checked.\n\n85. **My bicycle was fixed by the volunteers last month.** Sujeto singular: was + participio fixed.\n\n86. **The suspect was arrested by the volunteers last month.** arrested es el participio; el agente puede ir con by.\n\n87. **The emails were sent by the volunteers last month.** send es irregular: sent; sujeto plural → were sent.\n\n88. **The portrait was painted by the volunteers last month.** paint es regular: painted; sujeto singular → was painted.\n\n89. **A new bridge was built by the volunteers last month.** build es irregular: built; singular → was built.\n\n90. **All the tickets were sold by the volunteers last month.** sell es irregular: sold; plural → were sold.\n\n91. **My wallet was stolen by the volunteers last month.** steal → stolen; si no importa quién lo hizo, se puede omitir by.\n\n92. **The windows were broken by the volunteers last month.** break → broken; plural → were broken.\n\n93. **Two trees were blown down by the volunteers last month.** blow → blown; el phrasal verb mantiene down después del participio.\n\n94. **The patient was given some medicine by the volunteers last month.** give → given; una estructura alternativa es “Some medicine was given to the patient”.\n\n95. **Three managers were chosen by the volunteers last month.** choose → chosen; plural → were chosen.\n\n96. **Our food was brought by the volunteers last month.** bring → brought; singular → was brought.\n\n97. **The essays were written by the volunteers last month.** write → written; plural → were written.\n\n98. **These pictures were taken by the volunteers last month.** take → taken; these pictures pasa a ser el sujeto plural.\n\n99. **The decision was made by the volunteers last month.** make → made; singular → was made.\n\n100. **The grass was cut by the volunteers last month.** cut tiene la misma forma base y participio; singular → was cut.\n\n
+1. **The meal was cooked by the chef yesterday.** cook es regular: cooked; sujeto singular → was + participio.
+
+2. **The roads were repaired by the workers last week.** El sujeto pasivo es plural: were + participio.
+
+3. **Several houses were damaged by the storm in 2023.** El sujeto pasivo es plural: were + participio.
+
+4. **The test papers were checked by the teacher before the ceremony.** check es regular: checked; plural → were checked.
+
+5. **My bicycle was fixed by a mechanic on Monday.** Sujeto singular: was + participio fixed.
+
+6. **The suspect was arrested by the police yesterday.** arrested es el participio; el agente puede ir con by.
+
+7. **The emails were sent by the company last week.** send es irregular: sent; sujeto plural → were sent.
+
+8. **The portrait was painted by the artist in 2023.** paint es regular: painted; sujeto singular → was painted.
+
+9. **A new bridge was built by the builders before the ceremony.** build es irregular: built; singular → was built.
+
+10. **All the tickets were sold by the shop on Monday.** sell es irregular: sold; plural → were sold.
+
+11. **My wallet was stolen by someone yesterday.** steal → stolen; si no importa quién lo hizo, se puede omitir by.
+
+12. **The windows were broken by the children last week.** break → broken; plural → were broken.
+
+13. **Two trees were blown down by the storm in 2023.** blow → blown; el phrasal verb mantiene down después del participio.
+
+14. **The patient was given some medicine by the nurse before the ceremony.** give → given; una estructura alternativa es “Some medicine was given to the patient”.
+
+15. **Three managers were chosen by the company on Monday.** choose → chosen; plural → were chosen.
+
+16. **Our food was brought by the waiter yesterday.** bring → brought; singular → was brought.
+
+17. **The essays were written by the students last week.** write → written; plural → were written.
+
+18. **These pictures were taken by the photographer in 2023.** take → taken; these pictures pasa a ser el sujeto plural.
+
+19. **The decision was made by the manager before the ceremony.** make → made; singular → was made.
+
+20. **The grass was cut by the gardener on Monday.** cut tiene la misma forma base y participio; singular → was cut.
+
+21. **The meal was cooked by the team last Friday.** cook es regular: cooked; sujeto singular → was + participio.
+
+22. **The roads were repaired by the team last Friday.** El sujeto pasivo es plural: were + participio.
+
+23. **Several houses were damaged by the team last Friday.** El sujeto pasivo es plural: were + participio.
+
+24. **The test papers were checked by the team last Friday.** check es regular: checked; plural → were checked.
+
+25. **My bicycle was fixed by the team last Friday.** Sujeto singular: was + participio fixed.
+
+26. **The suspect was arrested by the team last Friday.** arrested es el participio; el agente puede ir con by.
+
+27. **The emails were sent by the team last Friday.** send es irregular: sent; sujeto plural → were sent.
+
+28. **The portrait was painted by the team last Friday.** paint es regular: painted; sujeto singular → was painted.
+
+29. **A new bridge was built by the team last Friday.** build es irregular: built; singular → was built.
+
+30. **All the tickets were sold by the team last Friday.** sell es irregular: sold; plural → were sold.
+
+31. **My wallet was stolen by the team last Friday.** steal → stolen; si no importa quién lo hizo, se puede omitir by.
+
+32. **The windows were broken by the team last Friday.** break → broken; plural → were broken.
+
+33. **Two trees were blown down by the team last Friday.** blow → blown; el phrasal verb mantiene down después del participio.
+
+34. **The patient was given some medicine by the team last Friday.** give → given; una estructura alternativa es “Some medicine was given to the patient”.
+
+35. **Three managers were chosen by the team last Friday.** choose → chosen; plural → were chosen.
+
+36. **Our food was brought by the team last Friday.** bring → brought; singular → was brought.
+
+37. **The essays were written by the team last Friday.** write → written; plural → were written.
+
+38. **These pictures were taken by the team last Friday.** take → taken; these pictures pasa a ser el sujeto plural.
+
+39. **The decision was made by the team last Friday.** make → made; singular → was made.
+
+40. **The grass was cut by the team last Friday.** cut tiene la misma forma base y participio; singular → was cut.
+
+41. **The meal was cooked by the local company in 2024.** cook es regular: cooked; sujeto singular → was + participio.
+
+42. **The roads were repaired by the local company in 2024.** El sujeto pasivo es plural: were + participio.
+
+43. **Several houses were damaged by the local company in 2024.** El sujeto pasivo es plural: were + participio.
+
+44. **The test papers were checked by the local company in 2024.** check es regular: checked; plural → were checked.
+
+45. **My bicycle was fixed by the local company in 2024.** Sujeto singular: was + participio fixed.
+
+46. **The suspect was arrested by the local company in 2024.** arrested es el participio; el agente puede ir con by.
+
+47. **The emails were sent by the local company in 2024.** send es irregular: sent; sujeto plural → were sent.
+
+48. **The portrait was painted by the local company in 2024.** paint es regular: painted; sujeto singular → was painted.
+
+49. **A new bridge was built by the local company in 2024.** build es irregular: built; singular → was built.
+
+50. **All the tickets were sold by the local company in 2024.** sell es irregular: sold; plural → were sold.
+
+51. **My wallet was stolen by the local company in 2024.** steal → stolen; si no importa quién lo hizo, se puede omitir by.
+
+52. **The windows were broken by the local company in 2024.** break → broken; plural → were broken.
+
+53. **Two trees were blown down by the local company in 2024.** blow → blown; el phrasal verb mantiene down después del participio.
+
+54. **The patient was given some medicine by the local company in 2024.** give → given; una estructura alternativa es “Some medicine was given to the patient”.
+
+55. **Three managers were chosen by the local company in 2024.** choose → chosen; plural → were chosen.
+
+56. **Our food was brought by the local company in 2024.** bring → brought; singular → was brought.
+
+57. **The essays were written by the local company in 2024.** write → written; plural → were written.
+
+58. **These pictures were taken by the local company in 2024.** take → taken; these pictures pasa a ser el sujeto plural.
+
+59. **The decision was made by the local company in 2024.** make → made; singular → was made.
+
+60. **The grass was cut by the local company in 2024.** cut tiene la misma forma base y participio; singular → was cut.
+
+61. **The meal was cooked by the staff before the event.** cook es regular: cooked; sujeto singular → was + participio.
+
+62. **The roads were repaired by the staff before the event.** El sujeto pasivo es plural: were + participio.
+
+63. **Several houses were damaged by the staff before the event.** El sujeto pasivo es plural: were + participio.
+
+64. **The test papers were checked by the staff before the event.** check es regular: checked; plural → were checked.
+
+65. **My bicycle was fixed by the staff before the event.** Sujeto singular: was + participio fixed.
+
+66. **The suspect was arrested by the staff before the event.** arrested es el participio; el agente puede ir con by.
+
+67. **The emails were sent by the staff before the event.** send es irregular: sent; sujeto plural → were sent.
+
+68. **The portrait was painted by the staff before the event.** paint es regular: painted; sujeto singular → was painted.
+
+69. **A new bridge was built by the staff before the event.** build es irregular: built; singular → was built.
+
+70. **All the tickets were sold by the staff before the event.** sell es irregular: sold; plural → were sold.
+
+71. **My wallet was stolen by the staff before the event.** steal → stolen; si no importa quién lo hizo, se puede omitir by.
+
+72. **The windows were broken by the staff before the event.** break → broken; plural → were broken.
+
+73. **Two trees were blown down by the staff before the event.** blow → blown; el phrasal verb mantiene down después del participio.
+
+74. **The patient was given some medicine by the staff before the event.** give → given; una estructura alternativa es “Some medicine was given to the patient”.
+
+75. **Three managers were chosen by the staff before the event.** choose → chosen; plural → were chosen.
+
+76. **Our food was brought by the staff before the event.** bring → brought; singular → was brought.
+
+77. **The essays were written by the staff before the event.** write → written; plural → were written.
+
+78. **These pictures were taken by the staff before the event.** take → taken; these pictures pasa a ser el sujeto plural.
+
+79. **The decision was made by the staff before the event.** make → made; singular → was made.
+
+80. **The grass was cut by the staff before the event.** cut tiene la misma forma base y participio; singular → was cut.
+
+81. **The meal was cooked by the volunteers last month.** cook es regular: cooked; sujeto singular → was + participio.
+
+82. **The roads were repaired by the volunteers last month.** El sujeto pasivo es plural: were + participio.
+
+83. **Several houses were damaged by the volunteers last month.** El sujeto pasivo es plural: were + participio.
+
+84. **The test papers were checked by the volunteers last month.** check es regular: checked; plural → were checked.
+
+85. **My bicycle was fixed by the volunteers last month.** Sujeto singular: was + participio fixed.
+
+86. **The suspect was arrested by the volunteers last month.** arrested es el participio; el agente puede ir con by.
+
+87. **The emails were sent by the volunteers last month.** send es irregular: sent; sujeto plural → were sent.
+
+88. **The portrait was painted by the volunteers last month.** paint es regular: painted; sujeto singular → was painted.
+
+89. **A new bridge was built by the volunteers last month.** build es irregular: built; singular → was built.
+
+90. **All the tickets were sold by the volunteers last month.** sell es irregular: sold; plural → were sold.
+
+91. **My wallet was stolen by the volunteers last month.** steal → stolen; si no importa quién lo hizo, se puede omitir by.
+
+92. **The windows were broken by the volunteers last month.** break → broken; plural → were broken.
+
+93. **Two trees were blown down by the volunteers last month.** blow → blown; el phrasal verb mantiene down después del participio.
+
+94. **The patient was given some medicine by the volunteers last month.** give → given; una estructura alternativa es “Some medicine was given to the patient”.
+
+95. **Three managers were chosen by the volunteers last month.** choose → chosen; plural → were chosen.
+
+96. **Our food was brought by the volunteers last month.** bring → brought; singular → was brought.
+
+97. **The essays were written by the volunteers last month.** write → written; plural → were written.
+
+98. **These pictures were taken by the volunteers last month.** take → taken; these pictures pasa a ser el sujeto plural.
+
+99. **The decision was made by the volunteers last month.** make → made; singular → was made.
+
+100. **The grass was cut by the volunteers last month.** cut tiene la misma forma base y participio; singular → was cut.
+
+
 > **Nota de uso:** en inglés real, el complemento con *by* puede omitirse cuando el agente es desconocido o no es importante. En algunos casos, especialmente con verbos que admiten dos objetos, puede haber más de una transformación correcta.
 
