@@ -200,9 +200,609 @@ Transforma cada oración activa en una oración pasiva. Hay ejercicios de **pres
 
 ### Parte A. Pasa las frases a voz pasiva
 
-1. **The chef prepares the meals every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n2. **The technicians are checking the machines every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n3. **The school publishes a weekly newsletter every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n4. **The cleaners are washing the windows every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n5. **The manager approves the budget every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n6. **The nurses are monitoring the patients every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n7. **The factory produces electric cars every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n8. **The students are decorating the classroom every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n9. **The post office delivers the parcels every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n10. **The mechanic is repairing the engine every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n11. **The librarians organise the books every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n12. **The artist is painting a mural every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n13. **The security guards inspect the bags every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n14. **The company is updating its website every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n15. **The farmers grow organic vegetables every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n16. **The chef is cutting the vegetables every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n17. **The council reviews the proposal every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n18. **The workers are installing the new lights every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n19. **The website stores user preferences every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n20. **The electricians are replacing the old cables every morning.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n21. **The chef prepares the meals at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n22. **The technicians are checking the machines at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n23. **The school publishes a weekly newsletter at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n24. **The cleaners are washing the windows at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n25. **The manager approves the budget at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n26. **The nurses are monitoring the patients at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n27. **The factory produces electric cars at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n28. **The students are decorating the classroom at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n29. **The post office delivers the parcels at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n30. **The mechanic is repairing the engine at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n31. **The librarians organise the books at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n32. **The artist is painting a mural at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n33. **The security guards inspect the bags at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n34. **The company is updating its website at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n35. **The farmers grow organic vegetables at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n36. **The chef is cutting the vegetables at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n37. **The council reviews the proposal at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n38. **The workers are installing the new lights at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n39. **The website stores user preferences at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n40. **The electricians are replacing the old cables at the moment.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n41. **The chef prepares the meals on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n42. **The technicians are checking the machines on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n43. **The school publishes a weekly newsletter on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n44. **The cleaners are washing the windows on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n45. **The manager approves the budget on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n46. **The nurses are monitoring the patients on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n47. **The factory produces electric cars on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n48. **The students are decorating the classroom on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n49. **The post office delivers the parcels on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n50. **The mechanic is repairing the engine on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n51. **The librarians organise the books on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n52. **The artist is painting a mural on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n53. **The security guards inspect the bags on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n54. **The company is updating its website on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n55. **The farmers grow organic vegetables on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n56. **The chef is cutting the vegetables on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n57. **The council reviews the proposal on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n58. **The workers are installing the new lights on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n59. **The website stores user preferences on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n60. **The electricians are replacing the old cables on weekdays.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n61. **The chef prepares the meals right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n62. **The technicians are checking the machines right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n63. **The school publishes a weekly newsletter right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n64. **The cleaners are washing the windows right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n65. **The manager approves the budget right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n66. **The nurses are monitoring the patients right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n67. **The factory produces electric cars right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n68. **The students are decorating the classroom right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n69. **The post office delivers the parcels right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n70. **The mechanic is repairing the engine right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n71. **The librarians organise the books right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n72. **The artist is painting a mural right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n73. **The security guards inspect the bags right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n74. **The company is updating its website right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n75. **The farmers grow organic vegetables right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n76. **The chef is cutting the vegetables right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n77. **The council reviews the proposal right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n78. **The workers are installing the new lights right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n79. **The website stores user preferences right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n80. **The electricians are replacing the old cables right now.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n81. **The chef prepares the meals during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n82. **The technicians are checking the machines during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n83. **The school publishes a weekly newsletter during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n84. **The cleaners are washing the windows during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n85. **The manager approves the budget during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n86. **The nurses are monitoring the patients during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n87. **The factory produces electric cars during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n88. **The students are decorating the classroom during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n89. **The post office delivers the parcels during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n90. **The mechanic is repairing the engine during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n91. **The librarians organise the books during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n92. **The artist is painting a mural during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n93. **The security guards inspect the bags during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n94. **The company is updating its website during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n95. **The farmers grow organic vegetables during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n96. **The chef is cutting the vegetables during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n97. **The council reviews the proposal during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n98. **The workers are installing the new lights during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n99. **The website stores user preferences during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n100. **The electricians are replacing the old cables during the school year.** → voz pasiva.\n\n<div class="exercise-answer-line"></div>\n\n
+1. **The chef prepares the meals every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+2. **The technicians are checking the machines every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+3. **The school publishes a weekly newsletter every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+4. **The cleaners are washing the windows every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+5. **The manager approves the budget every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+6. **The nurses are monitoring the patients every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+7. **The factory produces electric cars every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+8. **The students are decorating the classroom every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+9. **The post office delivers the parcels every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+10. **The mechanic is repairing the engine every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+11. **The librarians organise the books every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+12. **The artist is painting a mural every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+13. **The security guards inspect the bags every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+14. **The company is updating its website every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+15. **The farmers grow organic vegetables every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+16. **The chef is cutting the vegetables every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+17. **The council reviews the proposal every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+18. **The workers are installing the new lights every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+19. **The website stores user preferences every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+20. **The electricians are replacing the old cables every morning.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+21. **The chef prepares the meals at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+22. **The technicians are checking the machines at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+23. **The school publishes a weekly newsletter at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+24. **The cleaners are washing the windows at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+25. **The manager approves the budget at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+26. **The nurses are monitoring the patients at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+27. **The factory produces electric cars at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+28. **The students are decorating the classroom at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+29. **The post office delivers the parcels at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+30. **The mechanic is repairing the engine at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+31. **The librarians organise the books at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+32. **The artist is painting a mural at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+33. **The security guards inspect the bags at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+34. **The company is updating its website at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+35. **The farmers grow organic vegetables at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+36. **The chef is cutting the vegetables at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+37. **The council reviews the proposal at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+38. **The workers are installing the new lights at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+39. **The website stores user preferences at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+40. **The electricians are replacing the old cables at the moment.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+41. **The chef prepares the meals on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+42. **The technicians are checking the machines on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+43. **The school publishes a weekly newsletter on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+44. **The cleaners are washing the windows on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+45. **The manager approves the budget on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+46. **The nurses are monitoring the patients on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+47. **The factory produces electric cars on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+48. **The students are decorating the classroom on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+49. **The post office delivers the parcels on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+50. **The mechanic is repairing the engine on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+51. **The librarians organise the books on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+52. **The artist is painting a mural on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+53. **The security guards inspect the bags on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+54. **The company is updating its website on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+55. **The farmers grow organic vegetables on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+56. **The chef is cutting the vegetables on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+57. **The council reviews the proposal on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+58. **The workers are installing the new lights on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+59. **The website stores user preferences on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+60. **The electricians are replacing the old cables on weekdays.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+61. **The chef prepares the meals right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+62. **The technicians are checking the machines right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+63. **The school publishes a weekly newsletter right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+64. **The cleaners are washing the windows right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+65. **The manager approves the budget right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+66. **The nurses are monitoring the patients right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+67. **The factory produces electric cars right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+68. **The students are decorating the classroom right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+69. **The post office delivers the parcels right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+70. **The mechanic is repairing the engine right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+71. **The librarians organise the books right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+72. **The artist is painting a mural right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+73. **The security guards inspect the bags right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+74. **The company is updating its website right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+75. **The farmers grow organic vegetables right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+76. **The chef is cutting the vegetables right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+77. **The council reviews the proposal right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+78. **The workers are installing the new lights right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+79. **The website stores user preferences right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+80. **The electricians are replacing the old cables right now.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+81. **The chef prepares the meals during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+82. **The technicians are checking the machines during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+83. **The school publishes a weekly newsletter during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+84. **The cleaners are washing the windows during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+85. **The manager approves the budget during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+86. **The nurses are monitoring the patients during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+87. **The factory produces electric cars during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+88. **The students are decorating the classroom during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+89. **The post office delivers the parcels during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+90. **The mechanic is repairing the engine during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+91. **The librarians organise the books during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+92. **The artist is painting a mural during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+93. **The security guards inspect the bags during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+94. **The company is updating its website during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+95. **The farmers grow organic vegetables during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+96. **The chef is cutting the vegetables during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+97. **The council reviews the proposal during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+98. **The workers are installing the new lights during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+99. **The website stores user preferences during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+100. **The electricians are replacing the old cables during the school year.** → voz pasiva.
+
+<div class="exercise-answer-line"></div>
+
+
 ### Soluciones y explicaciones
 
-1. **The meals are prepared by the chef every morning.** Meals es plural, por eso usamos are + prepared.\n\n2. **The machines are being checked by the technicians every morning.** La acción está ocurriendo ahora: are being + checked.\n\n3. **A weekly newsletter is published by the school every morning.** Newsletter es singular: is + published.\n\n4. **The windows are being washed by the cleaners every morning.** Present continuous pasivo plural: are being washed.\n\n5. **The budget is approved by the manager every morning.** Budget es singular: is approved.\n\n6. **The patients are being monitored by the nurses every morning.** Patients es plural y la acción está en curso: are being monitored.\n\n7. **Electric cars are produced by the factory every morning.** Electric cars es plural: are produced.\n\n8. **The classroom is being decorated by the students every morning.** Classroom es singular: is being decorated.\n\n9. **The parcels are delivered by the post office every morning.** Parcels es plural: are delivered.\n\n10. **The engine is being repaired by the mechanic every morning.** La acción está ocurriendo ahora: is being repaired.\n\n11. **The books are organised by the librarians every morning.** Books es plural: are organised.\n\n12. **A mural is being painted by the artist every morning.** Mural es singular: is being painted.\n\n13. **The bags are inspected by the security guards every morning.** Bags es plural: are inspected.\n\n14. **Its website is being updated by the company every morning.** Website es singular: is being updated.\n\n15. **Organic vegetables are grown by the farmers every morning.** Grow es irregular: grown; vegetables es plural → are grown.\n\n16. **The vegetables are being cut by the chef every morning.** Cut tiene participio cut; vegetables es plural → are being cut.\n\n17. **The proposal is reviewed by the council every morning.** Proposal es singular: is reviewed.\n\n18. **The new lights are being installed by the workers every morning.** Lights es plural: are being installed.\n\n19. **User preferences are stored by the website every morning.** User preferences es plural: are stored.\n\n20. **The old cables are being replaced by the electricians every morning.** Cables es plural: are being replaced.\n\n21. **The meals are prepared by the chef at the moment.** Meals es plural, por eso usamos are + prepared.\n\n22. **The machines are being checked by the technicians at the moment.** La acción está ocurriendo ahora: are being + checked.\n\n23. **A weekly newsletter is published by the school at the moment.** Newsletter es singular: is + published.\n\n24. **The windows are being washed by the cleaners at the moment.** Present continuous pasivo plural: are being washed.\n\n25. **The budget is approved by the manager at the moment.** Budget es singular: is approved.\n\n26. **The patients are being monitored by the nurses at the moment.** Patients es plural y la acción está en curso: are being monitored.\n\n27. **Electric cars are produced by the factory at the moment.** Electric cars es plural: are produced.\n\n28. **The classroom is being decorated by the students at the moment.** Classroom es singular: is being decorated.\n\n29. **The parcels are delivered by the post office at the moment.** Parcels es plural: are delivered.\n\n30. **The engine is being repaired by the mechanic at the moment.** La acción está ocurriendo ahora: is being repaired.\n\n31. **The books are organised by the librarians at the moment.** Books es plural: are organised.\n\n32. **A mural is being painted by the artist at the moment.** Mural es singular: is being painted.\n\n33. **The bags are inspected by the security guards at the moment.** Bags es plural: are inspected.\n\n34. **Its website is being updated by the company at the moment.** Website es singular: is being updated.\n\n35. **Organic vegetables are grown by the farmers at the moment.** Grow es irregular: grown; vegetables es plural → are grown.\n\n36. **The vegetables are being cut by the chef at the moment.** Cut tiene participio cut; vegetables es plural → are being cut.\n\n37. **The proposal is reviewed by the council at the moment.** Proposal es singular: is reviewed.\n\n38. **The new lights are being installed by the workers at the moment.** Lights es plural: are being installed.\n\n39. **User preferences are stored by the website at the moment.** User preferences es plural: are stored.\n\n40. **The old cables are being replaced by the electricians at the moment.** Cables es plural: are being replaced.\n\n41. **The meals are prepared by the chef on weekdays.** Meals es plural, por eso usamos are + prepared.\n\n42. **The machines are being checked by the technicians on weekdays.** La acción está ocurriendo ahora: are being + checked.\n\n43. **A weekly newsletter is published by the school on weekdays.** Newsletter es singular: is + published.\n\n44. **The windows are being washed by the cleaners on weekdays.** Present continuous pasivo plural: are being washed.\n\n45. **The budget is approved by the manager on weekdays.** Budget es singular: is approved.\n\n46. **The patients are being monitored by the nurses on weekdays.** Patients es plural y la acción está en curso: are being monitored.\n\n47. **Electric cars are produced by the factory on weekdays.** Electric cars es plural: are produced.\n\n48. **The classroom is being decorated by the students on weekdays.** Classroom es singular: is being decorated.\n\n49. **The parcels are delivered by the post office on weekdays.** Parcels es plural: are delivered.\n\n50. **The engine is being repaired by the mechanic on weekdays.** La acción está ocurriendo ahora: is being repaired.\n\n51. **The books are organised by the librarians on weekdays.** Books es plural: are organised.\n\n52. **A mural is being painted by the artist on weekdays.** Mural es singular: is being painted.\n\n53. **The bags are inspected by the security guards on weekdays.** Bags es plural: are inspected.\n\n54. **Its website is being updated by the company on weekdays.** Website es singular: is being updated.\n\n55. **Organic vegetables are grown by the farmers on weekdays.** Grow es irregular: grown; vegetables es plural → are grown.\n\n56. **The vegetables are being cut by the chef on weekdays.** Cut tiene participio cut; vegetables es plural → are being cut.\n\n57. **The proposal is reviewed by the council on weekdays.** Proposal es singular: is reviewed.\n\n58. **The new lights are being installed by the workers on weekdays.** Lights es plural: are being installed.\n\n59. **User preferences are stored by the website on weekdays.** User preferences es plural: are stored.\n\n60. **The old cables are being replaced by the electricians on weekdays.** Cables es plural: are being replaced.\n\n61. **The meals are prepared by the chef right now.** Meals es plural, por eso usamos are + prepared.\n\n62. **The machines are being checked by the technicians right now.** La acción está ocurriendo ahora: are being + checked.\n\n63. **A weekly newsletter is published by the school right now.** Newsletter es singular: is + published.\n\n64. **The windows are being washed by the cleaners right now.** Present continuous pasivo plural: are being washed.\n\n65. **The budget is approved by the manager right now.** Budget es singular: is approved.\n\n66. **The patients are being monitored by the nurses right now.** Patients es plural y la acción está en curso: are being monitored.\n\n67. **Electric cars are produced by the factory right now.** Electric cars es plural: are produced.\n\n68. **The classroom is being decorated by the students right now.** Classroom es singular: is being decorated.\n\n69. **The parcels are delivered by the post office right now.** Parcels es plural: are delivered.\n\n70. **The engine is being repaired by the mechanic right now.** La acción está ocurriendo ahora: is being repaired.\n\n71. **The books are organised by the librarians right now.** Books es plural: are organised.\n\n72. **A mural is being painted by the artist right now.** Mural es singular: is being painted.\n\n73. **The bags are inspected by the security guards right now.** Bags es plural: are inspected.\n\n74. **Its website is being updated by the company right now.** Website es singular: is being updated.\n\n75. **Organic vegetables are grown by the farmers right now.** Grow es irregular: grown; vegetables es plural → are grown.\n\n76. **The vegetables are being cut by the chef right now.** Cut tiene participio cut; vegetables es plural → are being cut.\n\n77. **The proposal is reviewed by the council right now.** Proposal es singular: is reviewed.\n\n78. **The new lights are being installed by the workers right now.** Lights es plural: are being installed.\n\n79. **User preferences are stored by the website right now.** User preferences es plural: are stored.\n\n80. **The old cables are being replaced by the electricians right now.** Cables es plural: are being replaced.\n\n81. **The meals are prepared by the chef during the school year.** Meals es plural, por eso usamos are + prepared.\n\n82. **The machines are being checked by the technicians during the school year.** La acción está ocurriendo ahora: are being + checked.\n\n83. **A weekly newsletter is published by the school during the school year.** Newsletter es singular: is + published.\n\n84. **The windows are being washed by the cleaners during the school year.** Present continuous pasivo plural: are being washed.\n\n85. **The budget is approved by the manager during the school year.** Budget es singular: is approved.\n\n86. **The patients are being monitored by the nurses during the school year.** Patients es plural y la acción está en curso: are being monitored.\n\n87. **Electric cars are produced by the factory during the school year.** Electric cars es plural: are produced.\n\n88. **The classroom is being decorated by the students during the school year.** Classroom es singular: is being decorated.\n\n89. **The parcels are delivered by the post office during the school year.** Parcels es plural: are delivered.\n\n90. **The engine is being repaired by the mechanic during the school year.** La acción está ocurriendo ahora: is being repaired.\n\n91. **The books are organised by the librarians during the school year.** Books es plural: are organised.\n\n92. **A mural is being painted by the artist during the school year.** Mural es singular: is being painted.\n\n93. **The bags are inspected by the security guards during the school year.** Bags es plural: are inspected.\n\n94. **Its website is being updated by the company during the school year.** Website es singular: is being updated.\n\n95. **Organic vegetables are grown by the farmers during the school year.** Grow es irregular: grown; vegetables es plural → are grown.\n\n96. **The vegetables are being cut by the chef during the school year.** Cut tiene participio cut; vegetables es plural → are being cut.\n\n97. **The proposal is reviewed by the council during the school year.** Proposal es singular: is reviewed.\n\n98. **The new lights are being installed by the workers during the school year.** Lights es plural: are being installed.\n\n99. **User preferences are stored by the website during the school year.** User preferences es plural: are stored.\n\n100. **The old cables are being replaced by the electricians during the school year.** Cables es plural: are being replaced.\n\n
+1. **The meals are prepared by the chef every morning.** Meals es plural, por eso usamos are + prepared.
+
+2. **The machines are being checked by the technicians every morning.** La acción está ocurriendo ahora: are being + checked.
+
+3. **A weekly newsletter is published by the school every morning.** Newsletter es singular: is + published.
+
+4. **The windows are being washed by the cleaners every morning.** Present continuous pasivo plural: are being washed.
+
+5. **The budget is approved by the manager every morning.** Budget es singular: is approved.
+
+6. **The patients are being monitored by the nurses every morning.** Patients es plural y la acción está en curso: are being monitored.
+
+7. **Electric cars are produced by the factory every morning.** Electric cars es plural: are produced.
+
+8. **The classroom is being decorated by the students every morning.** Classroom es singular: is being decorated.
+
+9. **The parcels are delivered by the post office every morning.** Parcels es plural: are delivered.
+
+10. **The engine is being repaired by the mechanic every morning.** La acción está ocurriendo ahora: is being repaired.
+
+11. **The books are organised by the librarians every morning.** Books es plural: are organised.
+
+12. **A mural is being painted by the artist every morning.** Mural es singular: is being painted.
+
+13. **The bags are inspected by the security guards every morning.** Bags es plural: are inspected.
+
+14. **Its website is being updated by the company every morning.** Website es singular: is being updated.
+
+15. **Organic vegetables are grown by the farmers every morning.** Grow es irregular: grown; vegetables es plural → are grown.
+
+16. **The vegetables are being cut by the chef every morning.** Cut tiene participio cut; vegetables es plural → are being cut.
+
+17. **The proposal is reviewed by the council every morning.** Proposal es singular: is reviewed.
+
+18. **The new lights are being installed by the workers every morning.** Lights es plural: are being installed.
+
+19. **User preferences are stored by the website every morning.** User preferences es plural: are stored.
+
+20. **The old cables are being replaced by the electricians every morning.** Cables es plural: are being replaced.
+
+21. **The meals are prepared by the chef at the moment.** Meals es plural, por eso usamos are + prepared.
+
+22. **The machines are being checked by the technicians at the moment.** La acción está ocurriendo ahora: are being + checked.
+
+23. **A weekly newsletter is published by the school at the moment.** Newsletter es singular: is + published.
+
+24. **The windows are being washed by the cleaners at the moment.** Present continuous pasivo plural: are being washed.
+
+25. **The budget is approved by the manager at the moment.** Budget es singular: is approved.
+
+26. **The patients are being monitored by the nurses at the moment.** Patients es plural y la acción está en curso: are being monitored.
+
+27. **Electric cars are produced by the factory at the moment.** Electric cars es plural: are produced.
+
+28. **The classroom is being decorated by the students at the moment.** Classroom es singular: is being decorated.
+
+29. **The parcels are delivered by the post office at the moment.** Parcels es plural: are delivered.
+
+30. **The engine is being repaired by the mechanic at the moment.** La acción está ocurriendo ahora: is being repaired.
+
+31. **The books are organised by the librarians at the moment.** Books es plural: are organised.
+
+32. **A mural is being painted by the artist at the moment.** Mural es singular: is being painted.
+
+33. **The bags are inspected by the security guards at the moment.** Bags es plural: are inspected.
+
+34. **Its website is being updated by the company at the moment.** Website es singular: is being updated.
+
+35. **Organic vegetables are grown by the farmers at the moment.** Grow es irregular: grown; vegetables es plural → are grown.
+
+36. **The vegetables are being cut by the chef at the moment.** Cut tiene participio cut; vegetables es plural → are being cut.
+
+37. **The proposal is reviewed by the council at the moment.** Proposal es singular: is reviewed.
+
+38. **The new lights are being installed by the workers at the moment.** Lights es plural: are being installed.
+
+39. **User preferences are stored by the website at the moment.** User preferences es plural: are stored.
+
+40. **The old cables are being replaced by the electricians at the moment.** Cables es plural: are being replaced.
+
+41. **The meals are prepared by the chef on weekdays.** Meals es plural, por eso usamos are + prepared.
+
+42. **The machines are being checked by the technicians on weekdays.** La acción está ocurriendo ahora: are being + checked.
+
+43. **A weekly newsletter is published by the school on weekdays.** Newsletter es singular: is + published.
+
+44. **The windows are being washed by the cleaners on weekdays.** Present continuous pasivo plural: are being washed.
+
+45. **The budget is approved by the manager on weekdays.** Budget es singular: is approved.
+
+46. **The patients are being monitored by the nurses on weekdays.** Patients es plural y la acción está en curso: are being monitored.
+
+47. **Electric cars are produced by the factory on weekdays.** Electric cars es plural: are produced.
+
+48. **The classroom is being decorated by the students on weekdays.** Classroom es singular: is being decorated.
+
+49. **The parcels are delivered by the post office on weekdays.** Parcels es plural: are delivered.
+
+50. **The engine is being repaired by the mechanic on weekdays.** La acción está ocurriendo ahora: is being repaired.
+
+51. **The books are organised by the librarians on weekdays.** Books es plural: are organised.
+
+52. **A mural is being painted by the artist on weekdays.** Mural es singular: is being painted.
+
+53. **The bags are inspected by the security guards on weekdays.** Bags es plural: are inspected.
+
+54. **Its website is being updated by the company on weekdays.** Website es singular: is being updated.
+
+55. **Organic vegetables are grown by the farmers on weekdays.** Grow es irregular: grown; vegetables es plural → are grown.
+
+56. **The vegetables are being cut by the chef on weekdays.** Cut tiene participio cut; vegetables es plural → are being cut.
+
+57. **The proposal is reviewed by the council on weekdays.** Proposal es singular: is reviewed.
+
+58. **The new lights are being installed by the workers on weekdays.** Lights es plural: are being installed.
+
+59. **User preferences are stored by the website on weekdays.** User preferences es plural: are stored.
+
+60. **The old cables are being replaced by the electricians on weekdays.** Cables es plural: are being replaced.
+
+61. **The meals are prepared by the chef right now.** Meals es plural, por eso usamos are + prepared.
+
+62. **The machines are being checked by the technicians right now.** La acción está ocurriendo ahora: are being + checked.
+
+63. **A weekly newsletter is published by the school right now.** Newsletter es singular: is + published.
+
+64. **The windows are being washed by the cleaners right now.** Present continuous pasivo plural: are being washed.
+
+65. **The budget is approved by the manager right now.** Budget es singular: is approved.
+
+66. **The patients are being monitored by the nurses right now.** Patients es plural y la acción está en curso: are being monitored.
+
+67. **Electric cars are produced by the factory right now.** Electric cars es plural: are produced.
+
+68. **The classroom is being decorated by the students right now.** Classroom es singular: is being decorated.
+
+69. **The parcels are delivered by the post office right now.** Parcels es plural: are delivered.
+
+70. **The engine is being repaired by the mechanic right now.** La acción está ocurriendo ahora: is being repaired.
+
+71. **The books are organised by the librarians right now.** Books es plural: are organised.
+
+72. **A mural is being painted by the artist right now.** Mural es singular: is being painted.
+
+73. **The bags are inspected by the security guards right now.** Bags es plural: are inspected.
+
+74. **Its website is being updated by the company right now.** Website es singular: is being updated.
+
+75. **Organic vegetables are grown by the farmers right now.** Grow es irregular: grown; vegetables es plural → are grown.
+
+76. **The vegetables are being cut by the chef right now.** Cut tiene participio cut; vegetables es plural → are being cut.
+
+77. **The proposal is reviewed by the council right now.** Proposal es singular: is reviewed.
+
+78. **The new lights are being installed by the workers right now.** Lights es plural: are being installed.
+
+79. **User preferences are stored by the website right now.** User preferences es plural: are stored.
+
+80. **The old cables are being replaced by the electricians right now.** Cables es plural: are being replaced.
+
+81. **The meals are prepared by the chef during the school year.** Meals es plural, por eso usamos are + prepared.
+
+82. **The machines are being checked by the technicians during the school year.** La acción está ocurriendo ahora: are being + checked.
+
+83. **A weekly newsletter is published by the school during the school year.** Newsletter es singular: is + published.
+
+84. **The windows are being washed by the cleaners during the school year.** Present continuous pasivo plural: are being washed.
+
+85. **The budget is approved by the manager during the school year.** Budget es singular: is approved.
+
+86. **The patients are being monitored by the nurses during the school year.** Patients es plural y la acción está en curso: are being monitored.
+
+87. **Electric cars are produced by the factory during the school year.** Electric cars es plural: are produced.
+
+88. **The classroom is being decorated by the students during the school year.** Classroom es singular: is being decorated.
+
+89. **The parcels are delivered by the post office during the school year.** Parcels es plural: are delivered.
+
+90. **The engine is being repaired by the mechanic during the school year.** La acción está ocurriendo ahora: is being repaired.
+
+91. **The books are organised by the librarians during the school year.** Books es plural: are organised.
+
+92. **A mural is being painted by the artist during the school year.** Mural es singular: is being painted.
+
+93. **The bags are inspected by the security guards during the school year.** Bags es plural: are inspected.
+
+94. **Its website is being updated by the company during the school year.** Website es singular: is being updated.
+
+95. **Organic vegetables are grown by the farmers during the school year.** Grow es irregular: grown; vegetables es plural → are grown.
+
+96. **The vegetables are being cut by the chef during the school year.** Cut tiene participio cut; vegetables es plural → are being cut.
+
+97. **The proposal is reviewed by the council during the school year.** Proposal es singular: is reviewed.
+
+98. **The new lights are being installed by the workers during the school year.** Lights es plural: are being installed.
+
+99. **User preferences are stored by the website during the school year.** User preferences es plural: are stored.
+
+100. **The old cables are being replaced by the electricians during the school year.** Cables es plural: are being replaced.
+
+
 **Recuerda:** el objeto de la oración activa se convierte en sujeto de la pasiva. Elige *is* o *are* según ese nuevo sujeto. Para acciones habituales usamos *is/are + participio*; para acciones que están sucediendo en este momento, *is/are being + participio*. El complemento con *by* se puede omitir si no aporta información.
 
