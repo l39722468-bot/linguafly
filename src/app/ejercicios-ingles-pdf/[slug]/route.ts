@@ -61,7 +61,7 @@ function makePdf(lines: string[][]): Uint8Array {
     for (let i = 0; i < pageLines.length; i++) {
       const line = pageLines[i];
       const size = i === 0 ? 18 : (line.startsWith("ANSWER KEY") || line.startsWith("LINGUAFLY") ? 11 : 10);
-      commands.push(`/F${i === 0 || line.startsWith("ANSWER KEY") ? "2" : "1"} ${size} Tf 48 ${y} Td (${escapePdf(line)}) Tj`);
+      commands.push(`/F${i === 0 || line.startsWith("ANSWER KEY") ? "2" : "1"} ${size} Tf 1 0 0 1 48 ${y} Tm (${escapePdf(line)}) Tj`);
       commands.push("0 0 Td");
       y -= i === 0 ? 30 : 22;
     }
